@@ -59,7 +59,7 @@ export function novenaActs(
     if (seen.has(practiceId)) continue
     seen.add(practiceId)
     const manifest = manifestOf(practiceId)
-    if (!manifest?.program || manifest.program.standing || !manifest.holyCard) continue
+    if (!manifest?.program || manifest.program.days || !manifest.holyCard) continue
     const prayed = resolveCompletions(plan.completionsByPractice.get(practiceId), plan.completions)
       .filter((c) => !isBackfill(c))
       .map((c) => c.date)
@@ -78,8 +78,8 @@ export function novenaActs(
 }
 
 /**
- * The dates a practice was marked on the day itself. A standing program's day
- * is kept only so: a fast can't be made up, and a day ticked afterwards doesn't
+ * The dates a practice was marked on the day itself. A round's day is kept
+ * only so: a fast can't be made up, and a day ticked afterwards doesn't
  * count.
  */
 export function markedOnTheDay(plan: Plan, practiceId: string): Set<string> {
@@ -97,11 +97,11 @@ export function roundDaysKept(plan: Plan, practiceId: string, days: string[]): n
 }
 
 /**
- * The rounds of the plan's standing programs kept whole (the Ember days), each
- * dated its last day, with the card each round gives. A card unredeemed lapses
- * within days, so the rounds a standing program lists around today are enough.
+ * The rounds kept whole of the plan's programs dated by a rule (the Ember
+ * days), each dated its last day, with the card each round gives. A card
+ * unredeemed lapses within days, so the rounds listed around today are enough.
  */
-export function standingActs(
+export function roundActs(
   plan: Plan,
   today: Date,
   manifestOf: (practiceId: string) => PracticeManifest | undefined = getManifest,
@@ -115,7 +115,7 @@ export function standingActs(
     if (seen.has(practiceId)) continue
     seen.add(practiceId)
     const program = manifestOf(practiceId)?.program
-    if (!program?.standing) continue
+    if (!program?.days) continue
     Object.assign(cards, program.holyCard)
     for (const round of programRounds(program, today)) {
       const last = round.days.at(-1) as string

@@ -6,7 +6,7 @@ import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { AnimatedPressable, confirm, PrayerSpinner, ScreenLayout, Typography } from '@/components'
+import { confirm, PrayerSpinner, ScreenLayout, Typography } from '@/components'
 import { loadChapterSource } from '@/content/books'
 import type { TocNode } from '@/content/manifestTypes'
 import { getManifest, loadFlow, loadPracticeData } from '@/content/resolver'
@@ -21,16 +21,24 @@ import {
   useRestartProgram,
 } from '@/features/plan-of-life'
 import { DayStars, dayWindow, windowSize } from '@/features/plan-of-life/components/DayStars'
-import { DatePill, DayLine, Fleuron, roman } from '@/features/plan-of-life/components/ProgramParts'
-import { StandingProgram } from '@/features/plan-of-life/components/StandingProgram'
 import {
+  DatePill,
+  DayLine,
+  Fleuron,
+  JoinMode,
+  roman,
+} from '@/features/plan-of-life/components/ProgramParts'
+import { RoundsProgram } from '@/features/plan-of-life/components/RoundsProgram'
+import { useSlotsForPractice, useUpdateSlot } from '@/features/plan-of-life/hooks'
+import {
+  calendarStart,
   computeAllDayStates,
   type DayState,
   selectEnrollmentSchedule,
   settledAfterDays,
   traditionalStart,
 } from '@/features/plan-of-life/program'
-import { normalizeSchedule } from '@/features/plan-of-life/schedule'
+import { normalizeSchedule, parseSchedule } from '@/features/plan-of-life/schedule'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
 import { PracticePlanEditor, usePracticePlan } from '@/features/practices/components/PracticePlan'
 import { useToday } from '@/hooks/useToday'
@@ -140,8 +148,8 @@ function openingParagraph(source: string): string | undefined {
 export default function ProgramScreen() {
   const { manifestId } = useLocalSearchParams<{ manifestId: string }>()
   const manifest = manifestId ? getManifest(manifestId) : undefined
-  // A program the calendar brings round has no beginning to choose and no end.
-  return manifest?.program?.standing ? <StandingProgram manifest={manifest} /> : <ProgramDetail />
+  // A program dated by a rule comes round on its own: it has a page of rounds.
+  return manifest?.program?.days ? <RoundsProgram manifest={manifest} /> : <ProgramDetail />
 }
 
 function ProgramDetail() {
@@ -149,7 +157,6 @@ function ProgramDetail() {
   const transfers = useOfTransfers()
   const { manifestId, from } = useLocalSearchParams<{ manifestId: string; from?: string }>()
   const router = useRouter()
-  const theme = useTheme()
 
   const manifest = manifestId ? getManifest(manifestId) : undefined
   const today = useToday()
@@ -159,6 +166,9 @@ function ProgramDetail() {
   // Beginning it turns this page into the program under way, in place.
   const plan = usePracticePlan(manifest, { openOnBegin: false })
   const [pickedStart, setPickedStart] = useState<string>()
+  const [joinStanding, setJoinStanding] = useState(false)
+  const updateSlot = useUpdateSlot()
+  const slot = useSlotsForPractice(manifest?.id ?? '').find((s) => s.enabled === 1)
 
   const cycleDataQuery = useQuery({
     queryKey: ['practice-data', manifestId],
@@ -222,10 +232,23 @@ function ProgramDetail() {
     const dated =
       selectEnrollmentSchedule(program.progressPolicy, defaultSchedule, count, todayStr).type ===
       'fixed-program'
-    const traditional = dated ? traditionalStart(program, today, transfers) : undefined
+    // Kept on the calendar's dates alone, it has no other day to begin: its
+    // round is joined even once under way.
+    const fixed = dated && !!program.fixedDates
+    const traditional = (() => {
+      if (!dated) return undefined
+      return fixed
+        ? calendarStart(program, today, transfers)
+        : traditionalStart(program, today, transfers)
+    })()
     const near =
       !!traditional && differenceInCalendarDays(parseISO(traditional), today) <= joinsAheadDays
-    const start = pickedStart ?? (near && traditional ? traditional : todayStr)
+    const start =
+      fixed && traditional
+        ? traditional
+        : (pickedStart ?? (near && traditional ? traditional : todayStr))
+    // Only the feast's own days come round again; begun on another, it's prayed once.
+    const canStand = !!traditional && start === traditional
     return (
       <ScreenLayout>
         <YStack paddingVertical="$lg">
@@ -234,7 +257,7 @@ function ProgramDetail() {
             name={name}
             caption={t(monthly ? 'program.durationMonths' : 'program.durationDays', { count })}
           />
-          {dated && (
+          {dated && !fixed && (
             <StartChoice
               today={todayStr}
               traditional={traditional}
@@ -242,9 +265,18 @@ function ProgramDetail() {
               onChange={setPickedStart}
             />
           )}
+          {canStand && (
+            <YStack paddingTop={fixed ? '$lg' : 0}>
+              <JoinMode standing={joinStanding} onChange={setJoinStanding} />
+            </YStack>
+          )}
           <PrayBar
             label={t('program.join')}
-            onPress={() => plan.addToPlan(dated ? { startDate: start } : undefined)}
+            onPress={() =>
+              plan.addToPlan(
+                dated ? { startDate: start, standing: canStand && joinStanding } : undefined,
+              )
+            }
           />
           <Fleuron />
           <YStack>
@@ -282,6 +314,7 @@ function ProgramDetail() {
   }
 
   const { programDay, totalDays, isComplete, completionBehavior, shouldPromptRestart } = progress
+  const slotSchedule = slot ? parseSchedule(slot.schedule) : undefined
   const states = computeAllDayStates(progress)
   const prayed = states.filter((s) => s.isCompleted).length
   // Every day gone by and some of them missed: nothing is left to pray.
@@ -424,6 +457,20 @@ function ProgramDetail() {
             ))}
         </YStack>
 
+        {slot && slotSchedule?.type === 'fixed-program' && manifest.program.ends ? (
+          <YStack paddingTop="$lg">
+            {/* The way it was joined, still hers to change. */}
+            <JoinMode
+              standing={slotSchedule.standing === true}
+              onChange={(standing) =>
+                updateSlot.mutate({
+                  id: slot.id,
+                  data: { schedule: JSON.stringify({ ...slotSchedule, standing }) },
+                })
+              }
+            />
+          </YStack>
+        ) : null}
         <XStack justifyContent="center" gap="$lg" paddingTop="$lg">
           <FootLink
             label={t('program.startOver')}

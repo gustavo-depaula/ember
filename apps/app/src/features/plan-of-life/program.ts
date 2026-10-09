@@ -356,7 +356,7 @@ export function programDayDates(args: {
 // missed day can be prayed late until then.
 export const settledAfterDays = 7
 
-/** One coming-round of a standing program: its key (an Ember season) and its dates. */
+/** One coming-round of a program dated by a rule: its key (an Ember season) and its dates. */
 export type Round = { key: string; days: string[] }
 
 function roundsOf(program: ProgramConfig, year: number): Round[] {
@@ -364,15 +364,15 @@ function roundsOf(program: ProgramConfig, year: number): Round[] {
   return emberWeeks(year).map((week) => ({ key: week.season, days: week.days }))
 }
 
-/** A standing program's rounds from last year to next, in order. */
+/** The rounds of a program dated by a rule, from last year to next, in order. */
 export function programRounds(program: ProgramConfig, date: Date): Round[] {
   const year = date.getFullYear()
   return [year - 1, year, year + 1].flatMap((y) => roundsOf(program, y))
 }
 
 /**
- * The round a standing program is on at `date`: begun, and its last day no
- * more than a week gone, so its end is seen before the next takes its place.
+ * The round such a program is on at `date`: begun, and its last day no more
+ * than a week gone, so its end is seen before the next takes its place.
  */
 export function roundUnderWay(program: ProgramConfig, date: Date): Round | undefined {
   const day = format(date, 'yyyy-MM-dd')
@@ -382,6 +382,12 @@ export function roundUnderWay(program: ProgramConfig, date: Date): Round | undef
   )
 }
 
+/** Whether the plan's entry takes this round: every round, or the one it was joined for. */
+export function joinsRound(schedule: Schedule, round: Round): boolean {
+  if (schedule.type !== 'ember-days') return false
+  return schedule.standing === true || schedule.only === round.days[0]
+}
+
 /** The round under way at `date`, or else the next to come. */
 export function currentRound(program: ProgramConfig, date: Date): Round | undefined {
   const day = format(date, 'yyyy-MM-dd')
@@ -389,19 +395,48 @@ export function currentRound(program: ProgramConfig, date: Date): Round | undefi
 }
 
 /**
- * Where a program's days are counted from. A standing program is never begun,
- * so it keeps no cursor: the round under way at `date` stands in for one, and
- * between rounds there is none.
+ * Where a program's days are counted from. One dated by a rule is never begun,
+ * so it keeps no cursor: the round under way at `date` stands in for one, if
+ * the plan's entry takes that round, and between rounds there is none.
  */
 export function programCursor(
   program: ProgramConfig,
+  schedule: Schedule,
   stored: { started_at: string } | null | undefined,
   date: Date,
 ): { started_at: string } | null {
-  if (!program.standing) return stored ?? null
+  if (!program.days) return stored ?? null
   const round = roundUnderWay(program, date)
-  return round ? { started_at: round.days[0] } : null
+  return round && joinsRound(schedule, round) ? { started_at: round.days[0] } : null
 }
+
+/**
+ * The first day of a program kept on the calendar's dates alone: this year's
+ * round while its last day is still to come, even once begun, else the next.
+ */
+export function calendarStart(
+  program: ProgramConfig,
+  today: Date,
+  transfers?: Transfers,
+): string | undefined {
+  const { ends } = program
+  if (!ends) return undefined
+  const todayStr = format(today, 'yyyy-MM-dd')
+  const year = today.getFullYear()
+  for (const y of [year, year + 1, year + 2]) {
+    const end =
+      typeof ends === 'string'
+        ? new Date(y, Number(ends.slice(0, 2)) - 1, Number(ends.slice(3)))
+        : addDays(computeAnchors(y, transfers)[ends.anchor], ends.offset)
+    if (format(end, 'yyyy-MM-dd') >= todayStr) {
+      return format(addDays(end, 1 - program.totalDays), 'yyyy-MM-dd')
+    }
+  }
+  return undefined
+}
+
+// A standing novena is out of sight until its days are this near.
+export const standingAheadDays = 30
 
 /**
  * Whether a program still belongs among those under way: running, or finished

@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import type { ProgramConfig } from '@/content/manifestTypes'
 import {
+  calendarStart,
   computeAllDayStates,
   computeMissedDays,
   computeProgramProgress,
@@ -16,7 +17,7 @@ import {
   traditionalStart,
 } from './program'
 import type { Schedule } from './schedule'
-import { getOccurrenceBasedProgramDay } from './schedule'
+import { getOccurrenceBasedProgramDay, isApplicableOn } from './schedule'
 
 function date(y: number, m: number, d: number): Date {
   return new Date(y, m - 1, d)
@@ -802,33 +803,34 @@ describe('traditionalStart', () => {
   })
 })
 
-describe('a standing program (the Ember days)', () => {
+describe('a program dated by a rule (the Ember days)', () => {
   // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
   const ember: ProgramConfig = {
     totalDays: 3,
     days: { type: 'ember-days' },
-    standing: true,
     progressPolicy: 'continue',
     completionBehavior: 'keep',
   }
-  const schedule: Schedule = { type: 'ember-days' }
-  const on = (target: Date, completionDatesAsc: string[]) =>
+  const standing: Schedule = { type: 'ember-days', standing: true }
+  const on = (target: Date, completionDatesAsc: string[], schedule = standing) =>
     projectProgramAtDate({
       program: ember,
       schedule,
-      cursor: programCursor(ember, null, target),
+      cursor: programCursor(ember, schedule, null, target),
       completionDatesAsc,
       realToday: target,
       targetDate: target,
     })
 
   it('rests between rounds and begins each on its own first day', () => {
-    expect(programCursor(ember, null, date(2026, 10, 9))).toBeNull()
+    expect(programCursor(ember, standing, null, date(2026, 10, 9))).toBeNull()
     expect(currentRound(ember, date(2026, 10, 9))).toEqual({
       key: 'advent',
       days: ['2026-12-16', '2026-12-18', '2026-12-19'],
     })
-    expect(programCursor(ember, null, date(2026, 12, 18))).toEqual({ started_at: '2026-12-16' })
+    expect(programCursor(ember, standing, null, date(2026, 12, 18))).toEqual({
+      started_at: '2026-12-16',
+    })
     // A week past its Saturday it still stands, so its end is seen; then Lent's is next.
     expect(currentRound(ember, date(2026, 12, 26))?.key).toBe('advent')
     expect(currentRound(ember, date(2026, 12, 27))?.key).toBe('lent')
@@ -840,5 +842,30 @@ describe('a standing program (the Ember days)', () => {
     const saturday = on(date(2026, 12, 19), ['2026-12-16'])
     expect(saturday).toMatchObject({ visible: true, programDay: 2, shouldPromptRestart: false })
     expect(computeAllDayStates(saturday).map((d) => d.isMissed)).toEqual([false, true, false])
+  })
+
+  it('joined for one round, keeps that round alone', () => {
+    const advent: Schedule = { type: 'ember-days', only: '2026-12-16' }
+    expect(on(date(2026, 12, 18), [], advent).visible).toBe(true)
+    // Lent 2027: 17, 19 and 20 February.
+    expect(isApplicableOn(advent, date(2027, 2, 17))).toBe(false)
+    expect(isApplicableOn(standing, date(2027, 2, 17))).toBe(true)
+    expect(programCursor(ember, advent, null, date(2027, 2, 17))).toBeNull()
+  })
+})
+
+describe('calendarStart', () => {
+  const christmas: ProgramConfig = {
+    totalDays: 9,
+    progressPolicy: 'continue',
+    completionBehavior: 'offer-restart',
+    ends: '12-24',
+    fixedDates: true,
+  }
+
+  it("is the round's first day, even once the round is under way", () => {
+    expect(calendarStart(christmas, date(2026, 10, 9))).toBe('2026-12-16')
+    expect(calendarStart(christmas, date(2026, 12, 20))).toBe('2026-12-16')
+    expect(calendarStart(christmas, date(2026, 12, 25))).toBe('2027-12-16')
   })
 })

@@ -27,7 +27,6 @@
 		"days": {
 			"type": "ember-days"
 		},
-		"standing": true,
 		"progressPolicy": "continue",
 		"completionBehavior": "keep",
 		"holyCard": {

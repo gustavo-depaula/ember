@@ -19,7 +19,7 @@ import { getToday, useToday } from '@/hooks/useToday'
 import { loadMissalCalendar } from '@/lib/missal/loaders'
 import { useOfRegions, useOfTransfers } from '@/lib/missal/useOfTransfers'
 
-import { liturgicalActs, novenaActs, standingActs } from './acts'
+import { liturgicalActs, novenaActs, roundActs } from './acts'
 import { type HolyCard, useHolyCardCatalog } from './useHolyCards'
 
 const sinceKey = 'holy-cards.since'
@@ -51,7 +51,7 @@ export function holyCardCatalog(
   cards: HolyCard[],
   starters: string[],
   novenas: Record<string, string[]>,
-  // A standing program's cards by round: the Ember days' four, by season.
+  // The cards a program dated by a rule gives, by round: the Ember days' four, by season.
   rounds: Record<string, string> = {},
 ): Catalog {
   const drawn = new Set(cards.map((c) => c.id))
@@ -121,16 +121,16 @@ export function usePendingHolyCards(): Grant[] | undefined {
   // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
   const novenas = useMemo(() => novenaActs(plan, day), [plan, today])
   // biome-ignore lint/correctness/useExhaustiveDependencies: `today` keys the day; `day` is read from the closure
-  const standing = useMemo(() => standingActs(plan, day), [plan, today])
+  const rounds = useMemo(() => roundActs(plan, day), [plan, today])
   const acts = useMemo(
-    () => [...liturgicalActs(completions), ...novenas.acts, ...standing.acts],
-    [completions, novenas, standing],
+    () => [...liturgicalActs(completions), ...novenas.acts, ...rounds.acts],
+    [completions, novenas, rounds],
   )
   const catalog = useMemo(
     () =>
       holyCards &&
-      holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards, standing.cards),
-    [holyCards, novenas, standing],
+      holyCardCatalog(holyCards.cards, holyCards.starters, novenas.cards, rounds.cards),
+    [holyCards, novenas, rounds],
   )
 
   return useMemo(() => {

@@ -1250,6 +1250,8 @@ export default {
   },
 
   program: {
+    once: { year: 'este ano', round: 'as próximas' },
+    standing: { year: 'todos os anos', round: 'todas as vezes' },
     keptWhole: 'Guardadas por inteiro',
     nextRound: 'A seguir: {{name}} · {{date}}',
     dayOf: 'Dia {{day}} de {{total}}',

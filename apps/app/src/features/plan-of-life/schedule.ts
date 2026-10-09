@@ -5,6 +5,11 @@ import type { DayCalendar, LiturgicalSeason } from '@/lib/liturgical'
 
 export type Schedule = ScheduleRule & {
   seasons?: LiturgicalSeason[]
+  /**
+   * A program joined for every time the calendar brings it round, not for the
+   * one round: a novena prayed each year, the Ember days kept each season.
+   */
+  standing?: boolean
 }
 
 type ScheduleRule =
@@ -16,8 +21,9 @@ type ScheduleRule =
   | { type: 'fixed-program'; totalDays: number; startDate: string }
   | { type: 'periodic-series'; rule: ScheduleRule; totalOccurrences: number; startDate: string }
   | { type: 'holy-days-of-obligation' }
-  // Wednesday, Friday and Saturday of the four Ember weeks.
-  | { type: 'ember-days' }
+  // Wednesday, Friday and Saturday of the four Ember weeks; `only` keeps them
+  // to the one week beginning that date.
+  | { type: 'ember-days'; only?: string }
 
 export type ScheduleContext = {
   season?: LiturgicalSeason
@@ -90,8 +96,10 @@ export function isApplicableOn(schedule: Schedule, date: Date, ctx?: ScheduleCon
     case 'holy-days-of-obligation':
       return ctx?.dayCalendar?.principal?.entry.holyDayOfObligation === true
 
-    case 'ember-days':
-      return emberWeekOn(date) !== undefined
+    case 'ember-days': {
+      const week = emberWeekOn(date)
+      return week !== undefined && (!schedule.only || week.days[0] === schedule.only)
+    }
 
     default:
       return false

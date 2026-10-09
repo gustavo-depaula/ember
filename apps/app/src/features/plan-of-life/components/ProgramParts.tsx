@@ -1,5 +1,6 @@
 import { parseISO } from 'date-fns'
 import { useTranslation } from 'react-i18next'
+import { Pressable } from 'react-native'
 import { XStack, YStack } from 'tamagui'
 
 import { AnimatedPressable, Typography } from '@/components'
@@ -149,5 +150,51 @@ export function DayLine({
         )}
       </XStack>
     </AnimatedPressable>
+  )
+}
+
+// For the one round or for every time the calendar brings it: the choice a
+// program with calendar dates is joined with, set like the choice of its first
+// day — the one chosen in ink over a rule, the other muted. `rounds` words it
+// for a program that comes round within the year.
+export function JoinMode({
+  standing,
+  rounds = false,
+  onChange,
+}: {
+  standing: boolean
+  rounds?: boolean
+  onChange: (standing: boolean) => void
+}) {
+  const { t } = useTranslation()
+  const span = rounds ? 'round' : 'year'
+  return (
+    <XStack gap="$lg" justifyContent="center" accessibilityRole="radiogroup">
+      {[false, true].map((value) => {
+        const label = t(`program.${value ? 'standing' : 'once'}.${span}`)
+        const selected = standing === value
+        return (
+          <Pressable
+            key={label}
+            onPress={() => onChange(value)}
+            accessibilityRole="radio"
+            accessibilityLabel={label}
+            accessibilityState={{ checked: selected }}
+            aria-checked={selected}
+            style={{ minHeight: 44, justifyContent: 'center' }}
+          >
+            <YStack
+              borderBottomWidth={1}
+              borderColor={selected ? '$accent' : 'transparent'}
+              paddingBottom={2}
+            >
+              <Typography fontSize="$3" tone={selected ? 'default' : 'muted'}>
+                {label}
+              </Typography>
+            </YStack>
+          </Pressable>
+        )
+      })}
+    </XStack>
   )
 }

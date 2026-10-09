@@ -87,17 +87,28 @@ export function usePracticePlan(
   // `startDate` is the day a program kept to the calendar begins — ahead of
   // today for one joined before its feast. A program that waits, or keeps its
   // own days of the month, has no start to choose.
-  function beginProgram(program: NonNullable<PracticeManifest['program']>, startDate?: string) {
+  // `standing` joins it for every time the calendar brings it round; otherwise
+  // a program dated by a rule is joined for the one round beginning `startDate`.
+  function beginProgram(
+    program: NonNullable<PracticeManifest['program']>,
+    startDate?: string,
+    standing = false,
+  ) {
     const onSuccess = async () => {
       await createProgramCursor(planId)
       if (openOnBegin) openProgram()
     }
-    const schedule = selectEnrollmentSchedule(
+    const enrolled = selectEnrollmentSchedule(
       program.progressPolicy,
       normalizeSchedule(slotDefaults?.schedule ?? { type: 'daily' }),
       program.totalDays,
       startDate ?? format(new Date(), 'yyyy-MM-dd'),
     )
+    const schedule: Schedule = {
+      ...enrolled,
+      ...(standing ? { standing: true } : {}),
+      ...(enrolled.type === 'ember-days' && !standing ? { only: startDate } : {}),
+    }
     // Every practice is seeded with a switched-off slot, so this is the usual
     // path: the slot takes the program's calendar as it's switched on. Left on
     // its daily rule, a novena's days would only advance by prayers, and a day
@@ -117,9 +128,9 @@ export function usePracticePlan(
     )
   }
 
-  function addToPlan({ startDate }: { startDate?: string } = {}) {
+  function addToPlan({ startDate, standing }: { startDate?: string; standing?: boolean } = {}) {
     if (!planId || !manifest) return
-    if (manifest.program) return beginProgram(manifest.program, startDate)
+    if (manifest.program) return beginProgram(manifest.program, startDate, standing)
     const practice = getPractice(planId)
     if (practice?.archived) return unarchivePractice.mutate(planId)
 

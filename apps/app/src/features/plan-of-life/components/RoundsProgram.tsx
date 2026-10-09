@@ -1,6 +1,7 @@
 import { useQuery, useQueryClient } from '@tanstack/react-query'
 import { format, formatDistanceStrict, parseISO } from 'date-fns'
 import { useRouter } from 'expo-router'
+import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { XStack, YStack } from 'tamagui'
 
@@ -19,27 +20,34 @@ import { localizeContent } from '@/lib/i18n'
 import { formatLocalized, getDateLocale } from '@/lib/i18n/dateLocale'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { currentRound, type DayState, programRounds, type Round } from '../program'
+import { useSlotsForPractice, useUpdateSlot } from '../hooks'
+import { currentRound, type DayState, joinsRound, programRounds, type Round } from '../program'
+import { parseSchedule } from '../schedule'
 import { DayStars } from './DayStars'
 import { FootLink, PrayBar } from './MissedDays'
-import { DatePill, DayLine, Fleuron, roman } from './ProgramParts'
+import { DatePill, DayLine, Fleuron, JoinMode, roman } from './ProgramParts'
 
 type DayTitles = { dayTitle?: { 'en-US'?: string; 'pt-BR'?: string } }[]
 
 /**
  * The page of a program the calendar brings round (the Ember days): the round
  * under way or next to come as stars under its dates, today's day opened as a
- * chapter, and the year's cards beneath. It is never begun, restarted or lost:
- * a day gone by unkept is an empty ring, and the days after it are still
- * offered.
+ * chapter, and the year's cards beneath. It is joined for the next round or
+ * for every one, and never begun, restarted or lost: a day gone by unkept is
+ * an empty ring, and the days after it are still offered.
  */
-export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
+export function RoundsProgram({ manifest }: { manifest: PracticeManifest }) {
   const { t } = useTranslation()
   const router = useRouter()
   const queryClient = useQueryClient()
   const today = useToday()
   const todayStr = format(today, 'yyyy-MM-dd')
   const plan = usePracticePlan(manifest, { openOnBegin: false })
+  const updateSlot = useUpdateSlot()
+  const slot = useSlotsForPractice(manifest.id).find((s) => s.enabled === 1)
+  const schedule = slot ? parseSchedule(slot.schedule) : undefined
+  // Joined for every round unless she says the next ones only.
+  const [joinStanding, setJoinStanding] = useState(true)
   const { byId } = useSaintsCatalog()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const translation = usePreferencesStore((s) => s.translation)
@@ -54,7 +62,9 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
     const upcoming = days.findIndex((d) => d >= todayStr)
     return upcoming === -1 ? undefined : upcoming
   })()
-  const prayToday = plan.isInPlan && focus !== undefined && days[focus] === todayStr
+  // In the plan for this round: every round, or this very one.
+  const joined = !!schedule && !!round && joinsRound(schedule, round)
+  const prayToday = joined && focus !== undefined && days[focus] === todayStr
 
   const { data: titles } = useQuery({
     queryKey: ['practice-data', manifest.id],
@@ -103,7 +113,7 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
     return {
       isCompleted,
       isMissed: !isCompleted && d < todayStr,
-      isCurrent: !isCompleted && d === todayStr && plan.isInPlan,
+      isCurrent: !isCompleted && d === todayStr && joined,
       isFuture: !isCompleted && d > todayStr,
     }
   })
@@ -137,7 +147,7 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
         : t('program.upcoming')
 
   const caption = (() => {
-    if (!plan.isInPlan) return manifest.subtitle ? localizeContent(manifest.subtitle) : undefined
+    if (!joined) return manifest.subtitle ? localizeContent(manifest.subtitle) : undefined
     if (!begun) return away
     return t('program.prayedOf', { prayed, count: days.length })
   })()
@@ -175,7 +185,7 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
                 </>
               ) : null}
             </>
-          ) : prayToday || (begun && plan.isInPlan) ? (
+          ) : prayToday || (begun && joined) ? (
             <>
               <Typography variant="sacred-title" fontSize={26} lineHeight={34} color="$accent">
                 {roman(focus + 1)}
@@ -227,10 +237,18 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
                   {cardOf(round)?.prayerExcerpt}
                 </Typography>
               ) : null}
-              {plan.isInPlan ? (
+              {joined ? (
                 <DatePill label={longDate(days[focus])} />
               ) : (
-                <PrayBar label={t('program.join')} onPress={() => plan.addToPlan()} />
+                <>
+                  <YStack paddingTop="$md">
+                    <JoinMode rounds standing={joinStanding} onChange={setJoinStanding} />
+                  </YStack>
+                  <PrayBar
+                    label={t('program.join')}
+                    onPress={() => plan.addToPlan({ startDate: days[0], standing: joinStanding })}
+                  />
+                </>
               )}
               <FootLink label={t('program.readAhead')} onPress={() => openDay(focus, true)} />
             </>
@@ -245,7 +263,7 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
         <Fleuron />
 
         <YStack>
-          {plan.isInPlan
+          {joined
             ? days.map((d, i) =>
                 !over && begun && i === focus ? null : (
                   <DayLine
@@ -279,8 +297,25 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
           })}
         </XStack>
 
-        {plan.isInPlan ? (
-          <XStack justifyContent="center" paddingTop="$lg">
+        {joined && slot ? (
+          <YStack alignItems="center" paddingTop="$lg">
+            {/* The way she joined, still hers to change. */}
+            <JoinMode
+              rounds
+              standing={schedule?.standing === true}
+              onChange={(standing) =>
+                updateSlot.mutate({
+                  id: slot.id,
+                  data: {
+                    schedule: JSON.stringify(
+                      standing
+                        ? { type: 'ember-days', standing: true }
+                        : { type: 'ember-days', only: days[0] },
+                    ),
+                  },
+                })
+              }
+            />
             <FootLink
               label={t('program.inPlan')}
               chevron
@@ -291,7 +326,7 @@ export function StandingProgram({ manifest }: { manifest: PracticeManifest }) {
                 })
               }
             />
-          </XStack>
+          </YStack>
         ) : null}
       </YStack>
       <PracticePlanEditor plan={plan} />

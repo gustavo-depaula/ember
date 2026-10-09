@@ -159,7 +159,7 @@ function SheetAction({
 /** The other time that holds a weekday. */
 export type TakenBy = { id: string; time?: string }
 
-// 'ember' is a standing program's own days: kept through an edit of its hour,
+// 'ember' is a program's own days: kept through an edit of its hour,
 // never offered as a kind to choose.
 type Kind = 'week' | 'month' | 'holy' | 'ember'
 type Draft = { kind: Kind; days: number[]; n: number[]; day: number; time: string }

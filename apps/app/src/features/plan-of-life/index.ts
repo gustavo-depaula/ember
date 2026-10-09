@@ -47,6 +47,7 @@ export {
   useReorderSlots,
   useRestartNeededPractices,
   useRestartProgram,
+  useRollStandingPrograms,
   useSlotFlows,
   useSlots,
   useSlotsForPractice,

@@ -5,7 +5,7 @@ import { beforeAll, describe, expect, it } from 'vitest'
 import { setCatalog } from '@/content/contentIndex'
 import type { Completion } from '@/db/schema'
 
-import { liturgicalActs, standingActs } from '../acts'
+import { liturgicalActs, roundActs } from '../acts'
 
 // The built corpus catalog (`pnpm build:corpus`): forms get their group's
 // liturgicalAct at build, and that's what the app reads.
@@ -50,14 +50,14 @@ describe('liturgicalActs', () => {
   })
 })
 
-describe('standingActs', () => {
+describe('roundActs', () => {
   const manifest = JSON.parse(
     readFileSync(
       resolve(__dirname, '../../../../../../content/practices/ember-days/manifest.json'),
       'utf-8',
     ),
   )
-  const acts = (p: ReturnType<typeof plan>) => standingActs(p, today, () => manifest).acts
+  const acts = (p: ReturnType<typeof plan>) => roundActs(p, today, () => manifest).acts
 
   // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
   const plan = (marked: Record<string, string>) => {

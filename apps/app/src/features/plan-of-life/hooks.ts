@@ -1,6 +1,7 @@
+import type { Transfers } from '@ember/liturgical'
 import { useMutation, useQueries } from '@tanstack/react-query'
-import { format } from 'date-fns'
-import { useMemo } from 'react'
+import { differenceInCalendarDays, format, parseISO } from 'date-fns'
+import { useEffect, useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
 import { confirm } from '@/components'
@@ -28,7 +29,14 @@ import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
 
-import { isUnderWay, programCursor, programDayDates, projectProgramAtDate } from './program'
+import {
+  isUnderWay,
+  programCursor,
+  programDayDates,
+  projectProgramAtDate,
+  standingAheadDays,
+  traditionalStart,
+} from './program'
 import { parseSchedule } from './schedule'
 
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
@@ -159,9 +167,14 @@ export function useProgramProgress(
   return useMemo(() => {
     if (!program) return undefined
 
-    const cursor = programCursor(program, cursors.get(`program/${practiceId}`), target)
     const slot = [...slots.values()].find((s) => s.practice_id === practiceId)
     if (!slot) return undefined
+    const cursor = programCursor(
+      program,
+      parseSchedule(slot.schedule),
+      cursors.get(`program/${practiceId}`),
+      target,
+    )
 
     return projectProgramAtDate({
       program,
@@ -214,8 +227,9 @@ export function useProgramDayDates(
     return programDayDates({
       program,
       schedule,
-      // Between a standing program's rounds the days are the next round's.
-      startedAt: programCursor(program, cursors.get(`program/${practiceId}`), today)?.started_at,
+      // Between the rounds of a program dated by a rule the days are the next round's.
+      startedAt: programCursor(program, schedule, cursors.get(`program/${practiceId}`), today)
+        ?.started_at,
       completionDatesAsc: sortedCompletionDates(completionsByPractice.get(practiceId), completions),
       today,
     })
@@ -243,12 +257,25 @@ export function useProgramsUnderWay(slots: SlotState[]): SlotState[] {
       slots.filter((slot) => {
         const program = getManifest(slot.practice_id)?.program
         if (!program) return false
-        const cursor = programCursor(program, cursors.get(`program/${slot.practice_id}`), today)
-        // A standing program rests between its rounds.
-        if (program.standing && !cursor) return false
+        const schedule = parseSchedule(slot.schedule)
+        const cursor = programCursor(
+          program,
+          schedule,
+          cursors.get(`program/${slot.practice_id}`),
+          today,
+        )
+        // A program the calendar brings round rests between its rounds, and a
+        // standing novena until its days are near.
+        if (program.days && !cursor) return false
+        if (
+          schedule.standing &&
+          schedule.type === 'fixed-program' &&
+          differenceInCalendarDays(parseISO(schedule.startDate), today) > standingAheadDays
+        )
+          return false
         return isUnderWay({
           program,
-          schedule: parseSchedule(slot.schedule),
+          schedule,
           cursor,
           completionDatesAsc: sortedCompletionDates(
             completionsByPractice.get(slot.practice_id),
@@ -289,10 +316,16 @@ export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
       const program = manifest?.program
       if (!program) continue
 
-      const cursor = programCursor(program, cursors.get(`program/${slot.practice_id}`), targetDate)
+      const schedule = parseSchedule(slot.schedule)
+      const cursor = programCursor(
+        program,
+        schedule,
+        cursors.get(`program/${slot.practice_id}`),
+        targetDate,
+      )
       const projection = projectProgramAtDate({
         program,
-        schedule: parseSchedule(slot.schedule),
+        schedule,
         cursor,
         completionDatesAsc: sortedCompletionDates(
           completionsByPractice.get(slot.practice_id),
@@ -496,4 +529,42 @@ export function useSlotFlows(slots: SlotState[]): number {
     })),
   })
   return results.filter((r) => r.data).length
+}
+
+/**
+ * A standing novena, once its days are done and a week has gone by, is begun
+ * again on the date its feast next sets — so joining it once keeps it every
+ * year. Mounted once, where the day's plan is drawn.
+ */
+export function useRollStandingPrograms(transfers?: Transfers) {
+  const today = useStableToday()
+  const todayKey = today.getTime()
+  const slots = useEventStore((s) => s.slots)
+  // biome-ignore lint/correctness/useExhaustiveDependencies: todayKey gates the effect; the Date is read from the closure
+  useEffect(() => {
+    const { cursors, completionsByPractice, completions } = useEventStore.getState()
+    const roll = async () => {
+      for (const slot of slots.values()) {
+        if (!slot.enabled) continue
+        const schedule = parseSchedule(slot.schedule)
+        const program = getManifest(slot.practice_id)?.program
+        if (!program || !schedule.standing || schedule.type !== 'fixed-program') continue
+        const underWay = isUnderWay({
+          program,
+          schedule,
+          cursor: cursors.get(`program/${slot.practice_id}`) ?? null,
+          completionDatesAsc: sortedCompletionDates(
+            completionsByPractice.get(slot.practice_id),
+            completions,
+          ),
+          today,
+        })
+        const next = traditionalStart(program, today, transfers)
+        if (underWay || !next || next === schedule.startDate) continue
+        await restartProgram(slot.practice_id, next)
+        await updateSlot(slot.id, { schedule: JSON.stringify({ ...schedule, startDate: next }) })
+      }
+    }
+    void roll()
+  }, [slots, todayKey, transfers])
 }

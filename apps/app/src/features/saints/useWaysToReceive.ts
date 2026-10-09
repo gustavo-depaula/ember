@@ -45,7 +45,7 @@ export function useWaysToReceive(saint: SaintEntry): Way[] | undefined {
       const manifest = getManifest(id)
       const cards = [manifest?.holyCard ?? []].flat()
       if (manifest?.program && cards.includes(saint.id)) novenas[id] = cards
-      // A standing program names the card each of its rounds gives.
+      // A program dated by a rule names the card each of its rounds gives.
       for (const [round, card] of Object.entries(manifest?.program?.holyCard ?? {})) {
         if (card === saint.id) rounds[round] = card
       }

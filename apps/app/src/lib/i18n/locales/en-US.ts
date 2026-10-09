@@ -1244,6 +1244,8 @@ export default {
   },
 
   program: {
+    once: { year: 'this year', round: 'the next ones' },
+    standing: { year: 'every year', round: 'every time' },
     keptWhole: 'Kept whole',
     nextRound: 'Next: {{name}} · {{date}}',
     dayOf: 'Day {{day}} of {{total}}',
