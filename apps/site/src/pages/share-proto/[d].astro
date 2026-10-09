@@ -11,7 +11,7 @@ import { bootCorpus } from '~/lib/corpus'
 import { withLocale } from '~/lib/locale'
 
 export function getStaticPaths() {
-  return ['a', 'b', 'c', 'a1', 'a2', 'l1', 'l2', 'l3', 'o1', 'o2', 'o3', 'o4', 'o5', 'p1', 'p2', 'q1', 'q2'].map((d) => ({ params: { d } }))
+  return ['a', 'b', 'c', 'a1', 'a2', 'l1', 'l2', 'l3', 'o1', 'o2', 'o3', 'o4', 'o5', 'p1', 'p2', 'q1', 'q2', 'm1', 'm2'].map((d) => ({ params: { d } }))
 }
 const locale = 'pt-BR'
 await bootCorpus()
@@ -115,6 +115,17 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
               <div class="ttl" style={`font-size:${size(c.name, 112, 92, 76)}px`}>{c.name}</div>
             </div>
           </div>
+        </div>}
+
+        {(d === "m1" || d === "m2") && <div class={`og a x l1 m ${d}`} style={`--from:${c.tone.from};--to:${c.tone.to}`}>
+          <div class="main">
+            <div class="stamp"><Cover cover={c.cover} id={c.id} title={c.name} locale={locale} /></div>
+            <div class="txt">
+              <div class="lab">{c.label}</div>
+              <div class="ttl" style={`font-size:${size(c.name, 132, 108, 88)}px`}>{c.name}</div>
+            </div>
+          </div>
+          <div class="brand"><img src={d === "m1" ? "/proto/icon.png" : "/proto/icon-clear.png"} alt="" /><div><b>Ember</b><i>O companheiro para a vida católica de oração</i></div></div>
         </div>}
 
         {d === "o3" && <div class="og o3" style={`--from:${c.tone.from};--to:${c.tone.to}`}>
@@ -233,6 +244,10 @@ const size = (n: string, big: number, mid: number, small: number) => (n.length >
   .o1.q .stamp { width: 300px; flex: none; transform: rotate(-3deg); }
   .o1.q2 .stamp { transform: rotate(3deg); }
   .o1.q .txt { padding: 0; flex: 1; min-width: 0; }
+
+  .l1.m .brand { justify-content: center; }
+  .l1.m .brand img { box-shadow: none; }
+  .l1.m2 .brand img { border-radius: 0; width: 100px; height: 100px; margin: -8px -6px -8px 0; }
 
   .o3 { background: #f4e7cd; color: #2c2418; display: flex; align-items: center; }
   .o3 .e { width: 460px; height: 460px; flex: none; margin-left: 10px; }
