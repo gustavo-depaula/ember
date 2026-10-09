@@ -84,6 +84,8 @@ function join(locale: Locale, ...parts: (string | number | undefined)[]): string
   return `${localePrefix[locale]}/${path}${path ? '/' : ''}`
 }
 
+export const shareDirs: Record<Locale, string> = { 'en-US': 'en', 'pt-BR': 'pt' }
+
 /** Corpus ids are `kind/slug`; URLs carry the slug. */
 export function slugOf(id: string): string {
   const slash = id.indexOf('/')
@@ -113,6 +115,12 @@ export const href = {
   prayer: (l: Locale, id: string) => join(l, sections[l].prayers, slugOf(id)),
   prayerDay: (l: Locale, id: string, day: number) =>
     join(l, sections[l].prayers, slugOf(id), `${sections[l].day}-${day}`),
+  /**
+   * The image a prayer's link unfolds into where it is shared. The card is
+   * built as a page at this path without the extension, and photographed after
+   * the build (scripts/share-cards.mjs).
+   */
+  shareCard: (l: Locale, id: string) => `/share/${shareDirs[l]}/${slugOf(id)}.jpg`,
   collection: (l: Locale, id: string) => join(l, sections[l].collections, slugOf(id)),
   book: (l: Locale, id: string) => join(l, sections[l].books, slugOf(id)),
   bookChapter: (l: Locale, id: string, chapter: string) =>
