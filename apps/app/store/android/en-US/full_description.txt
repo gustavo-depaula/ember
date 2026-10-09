@@ -1,6 +1,6 @@
 Ember is a companion for the Catholic life of prayer. It meets you where you are, from a first Our Father to the full Divine Office, and walks with you day by day.
 
-It is free and open source, and it works without an account.
+It is free and open source.
 
 A PLAN OF LIFE
 Build a daily rule of prayer and keep it. Choose a tradition to begin with (Salesian, Ignatian, Carmelite, the Little Way and others) or shape your own, practice by practice. Set the days and the hour for each, with a reminder if you want one. Today shows what the day asks of you, and a wall of stars shows how faithfully you have kept it.
@@ -23,7 +23,7 @@ THE SAINTS
 Holy cards given through the practice of prayer, each one an introduction to a holy life: who the saint was, what the Church prays on the feast, something to take to heart. Follow the liturgical year, in both calendars, with the saint and the season of each day.
 
 MASS TIMES
-Find Mass, confession and adoration at churches near you on a map, save your parishes, and help keep the times right. Coverage begins with São Paulo, Brazil, and is growing.
+Find Mass, confession and adoration at churches near you on a map, save your parishes, and help keep the times right.
 
 IN TWO LANGUAGES
 English and Brazilian Portuguese throughout, with Latin for the prayers that have it, alone or side by side.

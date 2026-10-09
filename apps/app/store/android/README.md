@@ -13,7 +13,13 @@ uploaded by hand now and by tool later.
 | Feature graphic, 1024×500 | `<locale>/images/featureGraphic.png` |
 | Phone screenshots, 1080×1920 | `<locale>/images/phoneScreenshots/` |
 
-Default language `en-US`; add `pt-BR` as a translation. Privacy policy:
+Play rejects a screenshot whose long side is more than twice its short side, so the iOS set
+(1206×2622) cannot be reused as it is.
+
+Default language `en-US`; add `pt-BR` as a translation, from the listing editor itself (Store
+presence → Store listings → edit the default listing → Manage translations → Manage your own
+translations). The Translations item in the menu is Google's translation service, not this.
+Privacy policy:
 `https://ember.dpgu.me/privacy.html` (source: `apps/hearth/privacy.html`, published by the Pages
 deploy on merge to `main`).
 
@@ -34,8 +40,12 @@ pnpm submit:android             # EAS: upload to the internal track as a draft
   (the app version). Updates published before Android support landed are built from code that
   crashes on Android, so make sure `main` has published an update that includes it — the push
   that merges the Android work does this — before a build with the same version goes out.
-- A new personal developer account must run a closed test with at least 12 testers for 14 days
-  before Play grants production access.
+- The rule of a closed test with 12 testers for 14 days before production applies to personal
+  accounts created after November 2023. This account is older, and Production was open from the
+  start.
+- **Managed publishing** is on (Publishing overview), so an approved release or listing change
+  waits there for "Publish changes". Turn it off for changes to go out as soon as they pass
+  review.
 
 To check a bundle locally without EAS (debug-signed — not uploadable):
 
@@ -50,9 +60,10 @@ cd apps/app && npx expo prebuild -p android && cd android && ./gradlew :app:bund
 **Category** — Lifestyle (or Books & Reference). **Tags** — religion, prayer.
 **Target audience** — 13 and over. The app is suitable for everyone, but naming children as a
 target audience brings the Families policy requirements with it.
-**Content rating** — no violence, sexuality, language, drugs, gambling or user interaction; the
+**Content rating** — online content: yes (texts, books and videos arrive after install); no violence, sexuality, language, drugs, gambling or user interaction; the
 questionnaire should come out at the lowest rating.
 **News / health / financial / government app** — no to each.
+**Advertising ID** — not used; no SDK in the app reads it.
 **Permissions needing a declaration** — none. Location is foreground-only; photos go through the
 system photo picker (the storage permission in the manifest applies to Android 12 and older
 only); there is no foreground service and no exact-alarm permission.
@@ -63,8 +74,8 @@ The answers below come from what the code sends today. They change when sync or 
 so answer the form again with that release.
 
 - Does the app collect or share user data? **Yes** (collect), **No** (share).
-- Encrypted in transit? **Yes.** Can users request deletion? **Yes** — through the address in
-  the privacy policy.
+- Encrypted in transit? **Yes.** Account creation: the app does not allow it, and no login with
+  an outside account. Can users request deletion? **Yes** — `https://ember.dpgu.me/support.html`.
 
 | Data type | Collected | Why | Required? |
 | --- | --- | --- | --- |

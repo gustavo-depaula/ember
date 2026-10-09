@@ -1,6 +1,6 @@
 O Ember é um companheiro para a vida católica de oração. Ele encontra você onde você está, do primeiro Pai-Nosso ao Ofício Divino completo, e caminha com você dia após dia.
 
-É gratuito e de código aberto, e funciona sem conta.
+É gratuito e de código aberto.
 
 UM PLANO DE VIDA
 Monte uma regra diária de oração e guarde-a. Escolha uma tradição para começar (salesiana, inaciana, carmelita, a Pequena Via e outras) ou componha a sua, prática por prática. Defina os dias e a hora de cada uma, com um lembrete se quiser. A tela Hoje mostra o que o dia pede, e um céu de estrelas mostra a fidelidade com que você o tem vivido.
@@ -23,7 +23,7 @@ OS SANTOS
 Santinhos recebidos pela prática da oração, cada um uma apresentação a uma vida santa: quem foi o santo, o que a Igreja reza na sua festa, algo para guardar no coração. Acompanhe o ano litúrgico, nos dois calendários, com o santo e o tempo de cada dia.
 
 HORÁRIOS DE MISSA
-Encontre no mapa Missa, confissão e adoração nas igrejas perto de você, salve as suas paróquias e ajude a manter os horários corretos. A cobertura começa por São Paulo e está crescendo.
+Encontre no mapa Missa, confissão e adoração nas igrejas perto de você, salve as suas paróquias e ajude a manter os horários corretos.
 
 EM DUAS LÍNGUAS
 Português do Brasil e inglês em todo o aplicativo, com o latim nas orações que o têm, sozinho ou lado a lado.
