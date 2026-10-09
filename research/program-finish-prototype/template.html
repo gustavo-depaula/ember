@@ -1,0 +1,186 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>A program's closing sheet</title>
+<style>
+  @font-face { font-family: Junicode; src: url('__JUNICODE__'); }
+  @font-face { font-family: Junicode; font-style: italic; src: url('__JUNICODE_ITALIC__'); }
+  @font-face { font-family: Garamond; src: url('__GARAMOND__'); }
+  @font-face { font-family: Garamond; font-style: italic; src: url('__GARAMOND_ITALIC__'); }
+  @font-face { font-family: Cinzel; src: url('__CINZEL__'); }
+  @font-face { font-family: Pinyon; src: url('__PINYON__'); }
+
+  /* The app's light theme. */
+  :root { --bg: #ffffff; --ink: #2c2418; --muted: #6b5d4f; --gold: #c9a84c; --goldSubtle: #d4c088;
+          --border: #e5ddd2; --burgundy: #6b1d2a; --wallEmpty: #ece6da; }
+  body { margin: 0; padding: 32px 28px 48px; background: #e4dccb; color: var(--ink);
+         font: 19px/27px Garamond, Georgia, serif; }
+  h1 { font: 400 20px Cinzel; letter-spacing: 3px; margin: 0 0 6px; color: #4a3c22; }
+  .lede { max-width: 900px; margin: 0 0 26px; color: #5d5039; font-size: 18px; line-height: 25px; }
+  h3 { font: 400 14px Cinzel; letter-spacing: 2.5px; margin: 26px 0 12px; color: #4a3c22; }
+  .shelf { display: flex; flex-wrap: wrap; gap: 26px 22px; align-items: flex-start; }
+  .state { width: 360px; }
+  .state h2 { font: 400 13px Cinzel; letter-spacing: 2px; margin: 0 0 2px; color: #4a3c22; }
+  .state p.why { margin: 0 0 10px; font-size: 15px; line-height: 20px; color: #6f6149; font-style: italic;
+                 min-height: 60px; }
+  .phone { background: var(--bg); border-radius: 34px; padding: 0 30px; height: 700px; display: flex;
+           flex-direction: column; justify-content: center;
+           box-shadow: 0 1px 0 #fff inset, 0 10px 30px rgba(60, 45, 20, .18); box-sizing: border-box; }
+
+  /* ManuscriptFrame: a hairline, a second inside it, a painted corner at each angle. */
+  .frame { position: relative; border: .5px solid var(--gold); padding: 4px; }
+  .frame .inner { border: .5px solid var(--goldSubtle); padding: 34px 20px 30px; display: flex;
+                  flex-direction: column; align-items: center; gap: 16px; text-align: center; }
+  .frame img.c { position: absolute; width: 74px; }
+  .c.tl { top: -8px; left: -22px; } .c.tr { top: -8px; right: -16px; }
+  .c.bl { bottom: -12px; left: -12px; } .c.br { bottom: -12px; right: -10px; }
+
+  .cross { color: var(--gold); font-size: 24px; line-height: 28px; }
+  .title { font: 30px/38px Junicode; color: var(--gold); }
+  .sub { font: italic 18px/24px Junicode; color: var(--muted); margin-top: -10px; }
+  .label { font: 12px Cinzel; letter-spacing: 2.5px; color: var(--burgundy); text-transform: uppercase; }
+  .rule { width: 190px; display: block; }
+  .line { font-size: 19px; line-height: 27px; }
+  .whisper { font-size: 19px; line-height: 27px; color: var(--muted); }
+  .verse { font-size: 21px; line-height: 29px; font-style: italic; }
+  .next { font-size: 16px; line-height: 22px; font-style: italic; color: var(--muted); }
+  .done { font: 600 20px Garamond; color: var(--gold); padding-top: 8px; }
+  .later { font-size: 19px; color: var(--muted); }
+  .bar { height: 46px; border-radius: 23px; background: var(--gold); color: var(--bg); font: 16px Cinzel;
+         letter-spacing: 1.5px; display: flex; align-items: center; justify-content: center; align-self: stretch;
+         margin: 4px 16px 0; }
+  .again { background: var(--gold); color: #fff; border-radius: 8px; padding: 8px 24px; font-size: 19px;
+           font-weight: 500; }
+
+  .stars { display: flex; justify-content: center; gap: var(--gap, 34px); }
+  .stars .cell { width: 26px; display: flex; flex-direction: column; align-items: center; gap: 2px; }
+  .stars .dow { font: 9px Cinzel; letter-spacing: 1px; color: var(--muted); }
+  .stars .glyph { height: 24px; line-height: 24px; }
+  .stars .num { font-size: 15px; line-height: 18px; color: var(--muted); }
+  .month { font: 10px Cinzel; letter-spacing: 1.5px; color: var(--muted); margin-top: -8px; }
+
+  .vr { text-align: left; font-size: 21px; line-height: 30px; }
+  .vr b { color: var(--burgundy); font-weight: 400; padding-right: 6px; }
+  .vr .r { font-weight: 600; }
+
+  /* The envelope Today already shows: laid paper, a wax seal, the card's name in script. */
+  .envelope { position: relative; width: 190px; height: 247px; background: url('__PAPER__') center / cover;
+              box-shadow: 6px 6px 0 #dccaa3, 0 3px 10px rgba(60, 45, 20, .2); margin: 2px 0 6px; }
+  .envelope svg { position: absolute; inset: 0; }
+  .envelope .seal { position: absolute; left: 50%; top: 48%; width: 44px; height: 44px; transform: translate(-50%, -50%);
+                    border-radius: 50%; background: radial-gradient(circle at 38% 35%, #c2412f, #8e2116 60%, #6a160f);
+                    box-shadow: 0 2px 4px rgba(0, 0, 0, .3); color: #e8c98a; font-size: 15px; display: flex;
+                    align-items: center; justify-content: center; }
+  .envelope .to { position: absolute; left: 0; right: 0; top: 63%; font: 19px Pinyon; color: #6e521f; }
+  .envelope .on { position: absolute; left: 0; right: 0; top: 73%; font: 7px Cinzel; letter-spacing: 1.5px;
+                  color: #8a744a; }
+</style>
+</head>
+<body>
+<h1>A PROGRAM'S CLOSING SHEET</h1>
+<p class="lede">The sheet that follows the last Amen, in six readings. Each is shown twice: for a round of the Ember days kept whole, and for the Christmas novena finished by someone who joined it for every year. A is the app as it is today. The texts are the corpus's own: each card's verse, and the missal's leave-taking.</p>
+<div id="root"></div>
+<script>
+const lent = __LENT__
+const pentecost = __PENTECOST__
+const nativity = __NATIVITY__
+const versicle = __VERSICLE__
+
+const cases = [
+  {
+    id: 'A ROUND OF THE EMBER DAYS · SATURDAY, 20 FEBRUARY 2027',
+    practice: 'Ember Days', name: lent.name, verse: lent.verse, card: lent.name,
+    baselineTitle: 'Kept whole', baselineLine: 'Ember Days', restart: false,
+    kept: 'kept whole', count: 'Three days, each on its own date.',
+    days: [['WED', 17], ['FRI', 19], ['SAT', 20]], month: 'FEBRUARY', gap: 34,
+    next: `${pentecost.name} begin Wednesday, May 19.`, date: 'FEBRUARY 20, 2027',
+    missedAt: 1, missedLine: 'Two of three days kept.',
+  },
+  {
+    id: 'THE CHRISTMAS NOVENA, JOINED FOR EVERY YEAR · FRIDAY, 24 DECEMBER 2027',
+    practice: 'Christmas Novena', name: 'Christmas Novena', verse: nativity.verse, card: nativity.name,
+    baselineTitle: 'Program Complete', baselineLine: 'You have completed the Christmas Novena!', restart: true,
+    kept: 'nine days prayed', count: 'Nine days prayed.',
+    days: [['THU', 16], ['FRI', 17], ['SAT', 18], ['SUN', 19], ['MON', 20], ['TUE', 21], ['WED', 22], ['THU', 23], ['FRI', 24]],
+    month: 'DECEMBER', gap: 5,
+    next: 'It returns Saturday, December 16.', date: 'DECEMBER 24, 2027',
+    missedAt: 4, missedLine: 'Eight of nine days prayed.',
+  },
+]
+
+const rule = '<img class="rule" src="__RULE__">'
+const cross = '<div class="cross">✠</div>'
+const done = '<div class="done">Done</div>'
+const stars = (c, missed) => `
+  <div class="stars" style="--gap:${c.gap}px">${c.days.map(([dow, n], i) => `
+    <div class="cell"><span class="dow">${dow}</span>
+      <span class="glyph" style="${i === missed ? 'font-size:10px;color:var(--muted)' : 'font-size:17px;color:var(--gold)'}">${i === missed ? '○' : '✦'}</span>
+      <span class="num">${n}</span></div>`).join('')}</div>
+  <div class="month">${c.month}</div>`
+
+const variants = [
+  {
+    title: 'A · AS IT IS TODAY',
+    why: 'One wording for every program. It names the practice, not what was just kept, and says nothing of what comes next.',
+    body: (c) => `${cross}<div class="title">${c.baselineTitle}</div>${rule}
+      <div class="line">${c.baselineLine}</div>
+      <div class="whisper">May this devotion bear fruit in your soul.</div>${rule}
+      ${c.restart ? '<div class="again">Pray Again</div>' : ''}${done}`,
+  },
+  {
+    title: 'B · NAMED, WITH ITS VERSE',
+    why: 'The round or novena by its own name, the line its holy card carries in place of the general wish, and when it comes round again.',
+    body: (c) => `${cross}<div class="title">${c.name}</div><div class="sub">${c.kept}</div>${rule}
+      <div class="verse">${c.verse}</div>${rule}
+      <div class="next">${c.next}</div>${done}`,
+  },
+  {
+    title: 'C · THE DAYS THEMSELVES',
+    why: 'What was done, as the page of days draws it: every star lit under its date. No wish and no praise; the days speak.',
+    body: (c) => `${cross}<div class="title">${c.name}</div>${rule}
+      ${stars(c)}
+      <div class="line">${c.count}</div>
+      <div class="next">${c.next}</div>${done}`,
+  },
+  {
+    title: 'D · THE CARD',
+    why: 'The sheet hands over what the days gave: the sealed envelope Today would show, here at once, to open now or leave for later.',
+    body: (c) => `<div class="label">${c.name} · ${c.kept}</div>
+      <div class="envelope">
+        <svg viewBox="0 0 190 247"><path d="M0 0L95 118L190 0M0 247L95 118L190 247" stroke="#c9b383" stroke-width=".8" fill="none"/></svg>
+        <div class="seal">✠</div><div class="to">${c.card}</div><div class="on">${c.date}</div>
+      </div>
+      <div class="line">A holy card is waiting for you.</div>
+      <div class="bar">OPEN IT</div><div class="later">Later</div>`,
+  },
+  {
+    title: 'E · THE LEAVE-TAKING',
+    why: 'Nothing about the program at all: its name as a small label, and the versicle the Mass itself ends with.',
+    body: (c) => `${cross}<div class="label">${c.name}</div>${rule}
+      <div class="vr"><div><b>℣.</b>${versicle[0]}</div><div class="r"><b>℟.</b>${versicle[1]}</div></div>
+      ${rule}${done}`,
+  },
+  {
+    title: 'F · WHEN A DAY WAS MISSED',
+    why: 'Today no sheet appears unless every day was kept. This one closes the days all the same, saying only what was kept and what comes next.',
+    body: (c) => `${cross}<div class="title">${c.name}</div>${rule}
+      ${stars(c, c.missedAt)}
+      <div class="line">${c.missedLine}</div>
+      <div class="next">${c.next}</div>${done}`,
+  },
+]
+
+const frame = (inner) => `
+  <div class="frame"><img class="c tl" src="__CORNER_TL__"><img class="c tr" src="__CORNER_TR__">
+    <img class="c bl" src="__CORNER_BL__"><img class="c br" src="__CORNER_BR__">
+    <div class="inner">${inner}</div></div>`
+
+document.getElementById('root').innerHTML = cases.map((c, row) => `
+  <h3>${c.id}</h3>
+  <div class="shelf">${variants.map((v) => `
+    <div class="state"><h2>${v.title}</h2><p class="why">${row === 0 ? v.why : ''}</p>
+      <div class="phone">${frame(v.body(c))}</div></div>`).join('')}</div>`).join('')
+</script>
+</body>
+</html>
