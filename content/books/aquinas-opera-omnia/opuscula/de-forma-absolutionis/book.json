@@ -3,19 +3,23 @@
   "cover": "label",
   "name": {
     "en-US": "On the Form of Absolution",
-    "la": "De Forma Absolutionis"
+    "la": "De Forma Absolutionis",
+    "pt-BR": "Da forma da absolvição"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short consultation on the sacramental formula of absolution — whether it should be indicative (\"I absolve you\") or deprecative (\"May God absolve you\"). Latin only.",
-    "la": "Responsum breve de forma sacramentali absolutionis — utrum indicativa (\"Ego te absolvo\") an deprecativa (\"Deus te absolvat\") esse debeat."
+    "la": "Responsum breve de forma sacramentali absolutionis — utrum indicativa (\"Ego te absolvo\") an deprecativa (\"Deus te absolvat\") esse debeat.",
+    "pt-BR": "Breve parecer sobre a forma sacramental da absolvição — se deve ser indicativa (\"Eu te absolvo\") ou deprecativa (\"Deus te absolva\")."
   },
   "composed": "c. 1269",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -29,35 +33,40 @@
       "id": "deforma-c01",
       "title": {
         "en-US": "C. 1 - That it is unwise to say that '*I absolve you'* is not the form of absolution",
-        "la": "C. 1 - That it is unwise to say that '*I absolve you'* is not the form of absolution"
+        "la": "C. 1 - That it is unwise to say that '*I absolve you'* is not the form of absolution",
+        "pt-BR": "C. 1 - Que é temerário dizer que '*eu te absolvo*' não é a forma da absolvição"
       }
     },
     {
       "id": "deforma-c02",
       "title": {
         "en-US": "C. 2 - The arguments of those who wish to prove that the given form of absolution should not be maintained, and their solutions",
-        "la": "C. 2 - The arguments of those who wish to prove that the given form of absolution should not be maintained, and their solutions"
+        "la": "C. 2 - The arguments of those who wish to prove that the given form of absolution should not be maintained, and their solutions",
+        "pt-BR": "C. 2 - As razões dos que querem provar que a dita forma de absolvição não se deve manter, e a sua solução"
       }
     },
     {
       "id": "deforma-c03",
       "title": {
         "en-US": "C. 3 - With what frivolous arguments he attacks another solution to the problem, if this solution happens to be held",
-        "la": "C. 3 - With what frivolous arguments he attacks another solution to the problem, if this solution happens to be held"
+        "la": "C. 3 - With what frivolous arguments he attacks another solution to the problem, if this solution happens to be held",
+        "pt-BR": "C. 3 - Com que razões frívolas se impugna uma certa solução, caso esta venha a ser sustentada"
       }
     },
     {
       "id": "deforma-c04",
       "title": {
         "en-US": "C. 4 - That the imposition of the hand of the priest is not a necessary part of this sacrament",
-        "la": "C. 4 - That the imposition of the hand of the priest is not a necessary part of this sacrament"
+        "la": "C. 4 - That the imposition of the hand of the priest is not a necessary part of this sacrament",
+        "pt-BR": "C. 4 - Que a imposição da mão do sacerdote não é de necessidade deste sacramento"
       }
     },
     {
       "id": "deforma-c05",
       "title": {
         "en-US": "C. 5 - Some frivolous arguments on the same topic and their solutions",
-        "la": "C. 5 - Some frivolous arguments on the same topic and their solutions"
+        "la": "C. 5 - Some frivolous arguments on the same topic and their solutions",
+        "pt-BR": "C. 5 - Algumas razões frívolas sobre o mesmo assunto, e a sua solução"
       }
     }
   ]
