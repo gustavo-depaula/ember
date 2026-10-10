@@ -359,6 +359,46 @@ importers:
         specifier: ^4.101.0
         version: 4.101.0(@cloudflare/workers-types@4.20260616.1)
 
+  apps/moderation:
+    dependencies:
+      '@ember/api':
+        specifier: workspace:*
+        version: link:../../packages/api
+      '@ember/backend':
+        specifier: workspace:*
+        version: link:../backend
+      '@tanstack/react-query':
+        specifier: ^5.95.2
+        version: 5.95.2(react@19.2.3)
+      drizzle-orm:
+        specifier: ^0.45.2
+        version: 0.45.2(@cloudflare/workers-types@4.20260616.1)(@types/better-sqlite3@7.6.13)(better-sqlite3@11.10.0)(expo-sqlite@57.0.3(expo@57.0.26)(react-native@0.86.3(@babel/core@7.29.0)(@react-native/metro-config@0.84.1(@babel/core@7.29.0))(@types/react@19.2.14)(react@19.2.3))(react@19.2.3))
+      react:
+        specifier: ^19.0.0
+        version: 19.2.3
+      react-dom:
+        specifier: ^19.0.0
+        version: 19.2.3(react@19.2.3)
+    devDependencies:
+      '@cloudflare/workers-types':
+        specifier: ^4.20260616.1
+        version: 4.20260616.1
+      '@types/node':
+        specifier: ^22.10.0
+        version: 22.19.20
+      '@types/react':
+        specifier: ^19.0.0
+        version: 19.2.14
+      '@types/react-dom':
+        specifier: ^19.0.0
+        version: 19.2.3(@types/react@19.2.14)
+      '@vitejs/plugin-react':
+        specifier: ^4.3.4
+        version: 4.7.0(vite@6.4.2(@types/node@22.19.20)(lightningcss@1.33.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3))
+      vite:
+        specifier: ^6.0.0
+        version: 6.4.2(@types/node@22.19.20)(lightningcss@1.33.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3)
+
   apps/site:
     dependencies:
       '@ember/api':
@@ -13372,6 +13412,18 @@ snapshots:
 
   '@ungap/structured-clone@1.3.0': {}
 
+  '@vitejs/plugin-react@4.7.0(vite@6.4.2(@types/node@22.19.20)(lightningcss@1.33.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3))':
+    dependencies:
+      '@babel/core': 7.29.0
+      '@babel/plugin-transform-react-jsx-self': 7.27.1(@babel/core@7.29.0)
+      '@babel/plugin-transform-react-jsx-source': 7.27.1(@babel/core@7.29.0)
+      '@rolldown/pluginutils': 1.0.0-beta.27
+      '@types/babel__core': 7.20.5
+      react-refresh: 0.17.0
+      vite: 6.4.2(@types/node@22.19.20)(lightningcss@1.33.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3)
+    transitivePeerDependencies:
+      - supports-color
+
   '@vitejs/plugin-react@4.7.0(vite@6.4.2(@types/node@25.5.0)(lightningcss@1.33.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3))':
     dependencies:
       '@babel/core': 7.29.0
@@ -17739,6 +17791,22 @@ snapshots:
       - terser
       - tsx
       - yaml
+
+  vite@6.4.2(@types/node@22.19.20)(lightningcss@1.33.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3):
+    dependencies:
+      esbuild: 0.25.12
+      fdir: 6.5.0(picomatch@4.0.4)
+      picomatch: 4.0.4
+      postcss: 8.5.8
+      rollup: 4.60.1
+      tinyglobby: 0.2.15
+    optionalDependencies:
+      '@types/node': 22.19.20
+      fsevents: 2.3.3
+      lightningcss: 1.33.0
+      terser: 5.46.1
+      tsx: 4.21.0
+      yaml: 2.8.3
 
   vite@6.4.2(@types/node@25.5.0)(lightningcss@1.33.0)(terser@5.46.1)(tsx@4.21.0)(yaml@2.8.3):
     dependencies:

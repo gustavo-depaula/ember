@@ -74,7 +74,7 @@ export function buildRows(dump: ChurchDump[], prior: IdMapping[] = []): BuiltRow
 
 // Deterministic per-church service id (`churchId:hash(slot)`) so a `correction` can target one Mass
 // and a re-import keeps the same id for an unchanged slot — strictly more stable than a random UUID.
-function serviceId(churchId: string, s: ServiceDump): string {
+export function serviceId(churchId: string, s: ServiceDump): string {
   const sig = [s.kind, s.rrule, s.startTime, s.endTime ?? '', s.language ?? '', s.rite ?? ''].join(
     '|',
   )
@@ -140,7 +140,7 @@ export function mappingToJsonl(mapping: IdMapping[]): string {
   return mapping.map((m) => JSON.stringify(m)).join('\n')
 }
 
-function inlineParams(sql: string, params: unknown[]): string {
+export function inlineParams(sql: string, params: unknown[]): string {
   let i = 0
   return sql.replace(/\?/g, () => sqlLiteral(params[i++]))
 }

@@ -16,3 +16,7 @@ Run from `apps/backend/`:
 ## Smoke test
 
 `GET /health`, `GET /churches/near?lat=&lng=&radiusKm=`, then one `POST /churches/:id/verify` — 200 first, 429 on rapid repeats confirms the rate-limit binding fires remotely. `pnpm exec wrangler tail` should show no errors.
+
+## Moderation
+
+Corrections land in D1 as `pending` and are settled from the moderation desk (`pnpm moderation`, apps/moderation), which runs on your machine and reaches D1 through `wrangler login`. The Worker has no admin routes. The SQL a resolution turns into lives in `src/lib/moderation.ts`.

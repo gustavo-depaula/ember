@@ -93,7 +93,7 @@ const serviceChanges = z
   })
   .partial()
 
-const churchChanges = z
+export const churchChangesSchema = z
   .object({
     name: z.string(),
     longName: z.string(),
@@ -123,7 +123,7 @@ export const correctionBodySchema = z.discriminatedUnion('kind', [
   }),
   z.object({
     kind: z.literal('edit_church'),
-    changes: churchChanges,
+    changes: churchChangesSchema,
     comment: comment.optional(),
     attachmentKeys: attachmentKeys.optional(),
   }),
