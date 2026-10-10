@@ -52,14 +52,14 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
     }
     if (picked.length === 0) return
     setUploading(true)
-    // Each photo lands as it finishes, so one that fails doesn't take the others with it; the
-    // failure itself surfaces via the global mutationCache dialog.
-    await Promise.allSettled(
-      picked.map(async (photo) => {
-        const key = await upload.mutateAsync(photo)
-        setPhotos((p) => [...p, { key, uri: photo.uri }])
-      }),
+    // Settled rather than all-or-nothing, so one that fails doesn't take the others with it (the
+    // failure itself surfaces via the global mutationCache dialog), and added together so they
+    // keep the order they were picked in, not the order their uploads finished.
+    const results = await Promise.allSettled(
+      picked.map(async (photo) => ({ key: await upload.mutateAsync(photo), uri: photo.uri })),
     )
+    const uploaded = results.flatMap((r) => (r.status === 'fulfilled' ? [r.value] : []))
+    setPhotos((p) => [...p, ...uploaded])
     setUploading(false)
     void lightTap()
   }
