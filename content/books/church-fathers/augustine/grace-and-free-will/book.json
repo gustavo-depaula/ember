@@ -2,13 +2,16 @@
   "id": "augustine-grace-and-free-will",
   "cover": "quarter",
   "name": {
-    "en-US": "On Grace and Free Will"
+    "en-US": "On Grace and Free Will",
+    "pt-BR": "Sobre a Graça e o Livre-Arbítrio"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Grace and Free Will"
+        "en-US": "On Grace and Free Will",
+        "pt-BR": "Sobre a Graça e o Livre-Arbítrio"
       }
     }
   ]
