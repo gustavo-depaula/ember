@@ -3,19 +3,23 @@
   "cover": "label",
   "name": {
     "en-US": "On Secret Faults",
-    "la": "De Secreto"
+    "la": "De Secreto",
+    "pt-BR": "Do segredo"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A short consultation on whether a religious superior can compel a subject to reveal sins disclosed under the seal of fraternal correction.",
-    "la": "Responsum breve, utrum praelatus religiosus subditum cogere possit ut peccata sub sigillo correctionis fraternae detecta revelet."
+    "la": "Responsum breve, utrum praelatus religiosus subditum cogere possit ut peccata sub sigillo correctionis fraternae detecta revelet.",
+    "pt-BR": "Resposta breve sobre se um prelado religioso pode obrigar um súdito a revelar pecados descobertos sob o sigilo da correção fraterna."
   },
   "composed": "c. 1269",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -29,49 +33,56 @@
       "id": "desecreto-c01",
       "title": {
         "en-US": "Prooemium",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Proêmio"
       }
     },
     {
       "id": "desecreto-c02",
       "title": {
         "en-US": "Quaestio 1",
-        "la": "Quaestio 1"
+        "la": "Quaestio 1",
+        "pt-BR": "Questão 1"
       }
     },
     {
       "id": "desecreto-c03",
       "title": {
         "en-US": "Quaestio 2",
-        "la": "Quaestio 2"
+        "la": "Quaestio 2",
+        "pt-BR": "Questão 2"
       }
     },
     {
       "id": "desecreto-c04",
       "title": {
         "en-US": "Quaestio 3",
-        "la": "Quaestio 3"
+        "la": "Quaestio 3",
+        "pt-BR": "Questão 3"
       }
     },
     {
       "id": "desecreto-c05",
       "title": {
         "en-US": "Quaestio 4",
-        "la": "Quaestio 4"
+        "la": "Quaestio 4",
+        "pt-BR": "Questão 4"
       }
     },
     {
       "id": "desecreto-c06",
       "title": {
         "en-US": "Quaestio 5",
-        "la": "Quaestio 5"
+        "la": "Quaestio 5",
+        "pt-BR": "Questão 5"
       }
     },
     {
       "id": "desecreto-c07",
       "title": {
         "en-US": "Quaestio 6",
-        "la": "Quaestio 6"
+        "la": "Quaestio 6",
+        "pt-BR": "Questão 6"
       }
     }
   ]
