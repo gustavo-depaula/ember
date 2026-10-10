@@ -345,7 +345,7 @@ function Row({
 }
 
 // A bead per day (or Sunday) up to a dozen; a longer count is a rule that fills.
-function Beads({ total, done }: { total: number; done: number }) {
+export function Beads({ total, done }: { total: number; done: number }) {
   if (total > 12) {
     return (
       <View
@@ -386,7 +386,7 @@ function Beads({ total, done }: { total: number; done: number }) {
   )
 }
 
-function GlyphIcon({ glyph }: { glyph: Glyph }) {
+export function GlyphIcon({ glyph }: { glyph: Glyph }) {
   const ink = useTheme().accentHover.val
   const line = { stroke: ink, strokeWidth: 1.4, fill: 'none' }
   return (

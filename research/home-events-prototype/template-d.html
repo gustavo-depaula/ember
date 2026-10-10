@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Today — the events row, medallions</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+@font-face { font-family: Junicode; src: url('__JUNICODE__'); }
+:root {
+  --bg: #fff; --ink: #2C2418; --muted: #6B5D4F; --gold: #C9A84C; --goldDeep: #A8872E; --line: #E5DDD2;
+  --burgundy: #6B1D2A; --surface: #F7F2E8; --wallEmpty: #ECE6DA; --blockInk: #F5EFE2; --blockLabel: #E8C97A;
+  --head: Cinzel, 'Trajan Pro', serif; --title: Junicode, 'EB Garamond', serif; --body: 'EB Garamond', Georgia, serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; padding: 30px 28px 60px; background: #E4DCCB; color: var(--ink); font: 18px/25px var(--body); }
+h1 { font: 400 20px var(--head); letter-spacing: 3px; margin: 0 0 6px; color: #4A3C22; }
+.lede { max-width: 900px; margin: 0 0 30px; color: #5D5039; }
+.dir { display: flex; gap: 34px; align-items: flex-start; margin-bottom: 54px; }
+.side { flex: 1; min-width: 0; }
+.side h2 { font: 400 15px var(--head); letter-spacing: 2.5px; margin: 6px 0 6px; color: #4A3C22; }
+.side p { max-width: 640px; margin: 0 0 10px; color: #5D5039; }
+.side .cap { font: 400 11px var(--head); letter-spacing: 2px; color: #7C6E55; margin: 20px 0 8px; }
+.unrolled { background: var(--bg); border-radius: 18px; padding: 18px 0 20px 20px; overflow-x: auto;
+  box-shadow: 0 8px 24px rgba(60,45,20,.14); }
+.unrolled .row { padding-right: 20px; }
+::-webkit-scrollbar { display: none; }
+
+.phone { flex: 0 0 390px; width: 390px; background: var(--bg); border-radius: 38px; padding: 22px 0 26px; overflow: hidden;
+  box-shadow: 0 0 0 8px #15120E, 0 22px 44px rgba(0,0,0,.3); }
+.sec { padding: 0 20px; margin-bottom: 26px; }
+.label { font: 400 13px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink); margin-bottom: 9px;
+  display: flex; gap: 8px; align-items: center; }
+.label i { font-style: normal; color: var(--gold); }
+.row { display: flex; gap: 12px; overflow-x: auto; margin: 0 -20px; padding: 0 20px 16px; align-items: flex-start; }
+.unrolled .row { margin: 0; padding: 0 20px 16px 0; overflow: visible; width: max-content; }
+
+/* FeatureTile, as in the Daily Meditations row */
+.tile { flex: 0 0 200px; height: 240px; border-radius: 16px; overflow: hidden; position: relative;
+  box-shadow: 0 6px 12px rgba(0,0,0,.18); background: #5A1722 center top / cover; cursor: pointer; }
+.tile .veil { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 30%, rgba(0,0,0,.55) 58%, rgba(0,0,0,.88)); }
+.tile .capt { position: absolute; top: 50%; left: 0; right: 0; padding: 12px; }
+.tile .tl { font: 400 10.5px var(--head); letter-spacing: 2px; text-transform: uppercase; color: var(--blockLabel); margin-bottom: 4px; }
+.tile .tt { font: 600 19px/22px var(--title); color: var(--blockInk); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.tile .ts { font-size: 15px; line-height: 18px; color: rgba(245,239,226,.82); margin-top: 4px; }
+.tile.ev .veil { background: linear-gradient(180deg, transparent 20%, rgba(0,0,0,.66) 50%, rgba(0,0,0,.92)); }
+.tile.jewel { background: linear-gradient(135deg, #5A1722, #24090E); }
+.tile .fan { position: absolute; top: 14px; left: 0; right: 0; height: 112px; display: flex; justify-content: center; }
+.mini { border-radius: 5px; background: #2a2118 center / cover; box-shadow: 0 5px 12px rgba(0,0,0,.45); flex: none; }
+.mini.back { display: flex; align-items: center; justify-content: center; color: #6E521F; font-family: var(--head); }
+.fan .mini { width: 70px; height: 105px; }
+.fan .mini:first-child { transform: rotate(-9deg) translate(10px, 4px); font-size: 22px; }
+.fan .mini:last-child { transform: rotate(6deg) translate(-8px, 0); }
+.dots { display: flex; gap: 4px; margin-top: 8px; }
+.dots i { width: 7px; height: 7px; border-radius: 50%; border: 1px solid var(--blockLabel); }
+.dots i.on { background: var(--blockLabel); }
+.dots.ink i { border-color: var(--goldDeep); width: 9px; height: 9px; border-width: 1.5px; }
+.dots.ink i.on { background: var(--goldDeep); }
+.dots.ink i.now { box-shadow: 0 0 0 2px var(--surface), 0 0 0 3.5px var(--burgundy); }
+
+/* B — almanac rail */
+.rail { gap: 0; }
+.col { flex: none; padding-right: 16px; }
+.col .hd { display: flex; align-items: baseline; gap: 7px; height: 38px; }
+.col .hd b { font: 400 30px/38px var(--title); }
+.col .hd b.w { font-style: italic; font-size: 27px; }
+.col .hd span { font: 400 10px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); }
+.col.now .hd span, .col.run .hd span { color: var(--burgundy); }
+.col .tick { height: 17px; margin-right: -16px; border-top: 1px solid var(--line); position: relative; }
+.col:last-child .tick { margin-right: 0; }
+.col .tick::before { content: ''; position: absolute; left: 0; top: -5px; width: 9px; height: 9px; border-radius: 50%;
+  background: var(--bg); border: 1.5px solid var(--goldDeep); }
+.col.now .tick::before, .col.run .tick::before { background: var(--goldDeep); }
+.hc { width: 124px; height: 186px; border-radius: 8px; background: #2a2118 center / cover; box-shadow: 0 6px 12px rgba(0,0,0,.2); cursor: pointer; }
+.hc.back { display: flex; flex-direction: column; align-items: center; justify-content: center; color: #6E521F; font: 400 12px/16px var(--head);
+  text-align: center; padding: 0 22px; gap: 6px; }
+.hc.back b { font-weight: 400; font-size: 24px; }
+.pair { display: flex; gap: 10px; }
+.col .cn { font: 400 12px/15px var(--head); width: 124px; margin-top: 9px; letter-spacing: .3px; }
+.col .cs { font-size: 14.5px; line-height: 18px; color: var(--muted); width: 124px; margin-top: 2px; }
+.col .cs em { color: var(--burgundy); font-style: normal; }
+
+/* C — today panel and invitations */
+.panel { flex: none; height: 222px; border-radius: 16px; background: var(--surface); box-shadow: 0 6px 12px rgba(60,45,20,.13); padding: 14px 16px; cursor: pointer; }
+.panel.today { width: 304px; }
+.ph { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 4px; }
+.ph b { font: 400 11px var(--head); letter-spacing: 2px; color: var(--burgundy); text-transform: uppercase; }
+.ph span { font-style: italic; color: var(--muted); font-size: 15px; }
+.door { display: flex; gap: 11px; align-items: center; padding: 9px 0; border-top: 1px solid var(--line); }
+.door svg { flex: none; }
+.door .dx { flex: 1; min-width: 0; }
+.door .da { font: 400 10px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); }
+.door .dc { font: 400 18px/21px var(--title); }
+.door .dn { font-size: 14px; line-height: 17px; color: var(--muted); font-style: italic; }
+.door .mini { width: 42px; height: 63px; border-radius: 4px; font-size: 15px; box-shadow: 0 3px 8px rgba(0,0,0,.28); }
+.panel.inv { width: 268px; display: flex; gap: 15px; align-items: center; }
+.inv .hc { width: 104px; height: 156px; flex: none; transform: rotate(-2.5deg); }
+.inv .ix { min-width: 0; }
+.inv .il { font: 400 10.5px var(--head); letter-spacing: 2px; text-transform: uppercase; color: var(--burgundy); }
+.inv .it { font: 400 19px/22px var(--title); margin-top: 4px; }
+.inv .id { font-size: 15px; line-height: 19px; color: var(--muted); margin-top: 3px; }
+.pill { display: inline-block; font: 400 10px var(--head); letter-spacing: 1.5px; text-transform: uppercase; border: 1px solid var(--gold);
+  color: var(--goldDeep); border-radius: 14px; padding: 5px 12px; margin-top: 11px; white-space: nowrap; }
+.pill.solid { background: var(--burgundy); border-color: var(--burgundy); color: var(--blockInk); }
+
+/* D — medallions that open in place */
+.meds { gap: 16px; padding-top: 10px; }
+.med { flex: 0 0 78px; text-align: center; cursor: pointer; }
+.med .ring { width: 78px; height: 78px; border-radius: 50%; padding: 4px; background: var(--line); position: relative; }
+.med .ring > div { width: 100%; height: 100%; border-radius: 50%; border: 2.5px solid var(--bg); background: #2a2118 center 12% / cover; }
+.med .stack { width: 78px; height: 78px; display: flex; justify-content: center; align-items: center; position: relative; }
+.med .stack .mini { width: 44px; height: 66px; border-radius: 4px; font-size: 14px; }
+.med .stack .mini:first-child { transform: rotate(-10deg) translateX(10px); }
+.med .stack .mini:last-child { transform: rotate(7deg) translateX(-10px); }
+.med .ml { font: 400 9.5px var(--head); letter-spacing: 1.3px; text-transform: uppercase; color: var(--burgundy); margin-top: 8px; }
+.med .mn { font-size: 14.5px; line-height: 17px; margin-top: 1px; }
+.med.sel .mn { text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 4px; }
+.open { background: var(--surface); border-radius: 16px; padding: 14px 16px; box-shadow: 0 6px 12px rgba(60,45,20,.13); margin-top: 2px; position: relative; }
+.open::before { content: ''; position: absolute; top: -7px; width: 14px; height: 14px; background: var(--surface); transform: rotate(45deg); left: var(--nib, 32px); }
+.open.inv { display: flex; gap: 15px; align-items: center; }
+
+/* Fidelity, below the row */
+.fid { text-align: center; padding-top: 6px; }
+.fid .label { justify-content: center; font-size: 12px; }
+.wall { display: inline-grid; grid-template-columns: repeat(10, 11px); gap: 6px; }
+.wall i { width: 11px; height: 11px; border-radius: 50%; background: var(--wallEmpty); }
+.wall i.on { background: var(--gold); }
+
+.page { display: flex; gap: 40px; align-items: flex-start; }
+.med .ring { transition: background .3s; }
+.med .badge { position: absolute; right: -2px; bottom: -2px; width: 24px; height: 24px; border-radius: 50%; background: var(--bg);
+  color: var(--goldDeep); font-size: 13px; line-height: 24px; text-align: center; box-shadow: 0 1px 4px rgba(0,0,0,.2); padding: 0; border: 0; }
+.slot { display: grid; grid-template-rows: 1fr; transition: grid-template-rows .32s cubic-bezier(.3,.7,.3,1); margin: 0 -8px; }
+.slot.shut { grid-template-rows: 0fr; }
+.slot > div { overflow: hidden; padding: 0 8px; }
+.slot .open { margin: 8px 0 16px; transition: opacity .2s; }
+.slot.shut .open { opacity: 0; }
+.open::before { transition: left .28s cubic-bezier(.3,.7,.3,1); }
+.open.inv { align-items: flex-start; }
+.open.inv .hc { margin-top: 4px; cursor: pointer; }
+.inv .ig { font-size: 14.5px; line-height: 18px; color: var(--muted); font-style: italic; margin-top: 6px; }
+.pill { cursor: pointer; }
+.seal { font: 400 10.5px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--goldDeep); margin-top: 12px; }
+.after { font-size: 15px; line-height: 19px; color: var(--muted); margin-top: 2px; }
+.after u { cursor: pointer; text-decoration-color: var(--line); text-underline-offset: 3px; margin-left: 6px; }
+.door { cursor: pointer; }
+.door.done .dc, .door.done .da { color: #9C8B70; }
+.door.done .dn { color: var(--goldDeep); font-style: normal; }
+.door.done .mini { opacity: .55; }
+.shelf { display: grid; grid-template-columns: repeat(2, 350px); gap: 8px 26px; }
+.shelf .cap { margin: 14px 0 0; }
+.shelf .open { margin-top: 8px; }
+.shelf .open::before { display: none; }
+</style>
+</head>
+<body>
+<h1>THE EVENTS ROW — MEDALLIONS, WITH JOINING</h1>
+<p class="lede">Direction D, working: today's panel is open when the page loads, the row looks two weeks ahead, and a program is joined from its panel. Tap a medallion to open it, tap it again to close; tap Entrar, Rezar, Sair, or a door of today's ledger. Beside the phone, every state a panel can be in.</p>
+<div class="page">
+  <div class="phone">
+    <div class="sec"><div class="label">Meditações diárias</div><div class="row" id="meds"></div></div>
+    <div class="sec"><div class="label">Eventos <i>→</i></div><div class="row meds" id="strip"></div>
+      <div class="slot" id="slot"><div><div id="panel"></div></div></div></div>
+    <div class="fid"><div class="label">Fidelidade</div><div class="wall" id="wall"></div></div>
+  </div>
+  <div class="side"><h2>HOW IT BEHAVES</h2>
+    <p>A medallion's ring is the novena's progress; the small star says it is in your plan. Joining a novena that begins today turns its button straight into the day's prayer. One begun later just waits, with a quiet way out.</p>
+    <p>The card in a panel opens the program's page; the panel itself never leaves Today.</p>
+    <div class="shelf" id="shelf"></div>
+  </div>
+</div>
+<script>
+/*DATA*/
+
+const { today, meditations, frame } = data
+const bg = (src) => `style="background-image:url(${src})"`
+const back = () => `<div class="mini back" ${bg(frame)}>✠</div>`
+const glyphs = {
+  chalice: '<svg width="26" height="26" viewBox="0 0 28 28" fill="none" stroke="#A8872E" stroke-width="1.4"><path d="M8 4h12c0 6-2.5 9-6 9s-6-3-6-9z"/><path d="M14 13v8M9 24h10M11 21h6"/></svg>',
+  book: '<svg width="26" height="26" viewBox="0 0 28 28" fill="none" stroke="#A8872E" stroke-width="1.4"><path d="M4 6c4-1 7 0 10 2 3-2 6-3 10-2v16c-4-1-7 0-10 2-3-2-6-3-10-2z"/><path d="M14 8v16"/></svg>',
+}
+
+// What the reader has done: a program is joined or not, on some day of nine, today's day prayed or not.
+const fresh = () => ({
+  open: 0,
+  doors: [false, false],
+  programs: data.events.map((e) => ({ ...e, joined: e.state === 'running', day: e.state === 'running' ? e.day : e.state === 'today' ? 1 : 0, prayed: false })),
+})
+let state = fresh()
+
+const dots = (done, now) => `<div class="dots ink">${Array.from({ length: 9 }, (_, i) => `<i class="${i < done ? 'on' : ''} ${i === now ? 'now' : ''}"></i>`).join('')}</div>`
+
+function ledger(doors) {
+  return `<div class="ph"><b>Santinhos de hoje</b><span>${today.date.toLowerCase()}</span></div>` + today.ways.map((w, i) =>
+    `<div class="door ${doors[i] ? 'done' : ''}" data-door="${i}">${glyphs[w.glyph]}<div class="dx">
+      <div class="da">${w.act}</div><div class="dc">${w.card}</div>
+      <div class="dn">${doors[i] ? '✦ feito · o envelope espera por você' : w.alt}</div></div>
+      ${w.art ? `<div class="mini" ${bg(w.art)}></div>` : back()}</div>`).join('')
+}
+
+function invitation(p) {
+  const begun = p.joined && p.day > 0
+  const label = begun ? `Dia ${p.day} de 9` : p.label
+  const foot = (() => {
+    if (!p.joined) return `<span class="pill" data-act="join">Entrar</span>`
+    if (!begun) return `<div class="seal">✦ No seu plano</div><div class="after">Começa ${p.start}<u data-act="leave">Sair</u></div>`
+    if (p.prayed) return dots(p.day, -1) + `<div class="seal">✦ ${p.day}º dia rezado</div>`
+    return dots(p.day - 1, p.day - 1) + `<span class="pill solid" data-act="pray">Rezar o ${p.day}º dia</span>`
+  })()
+  return `<div class="hc" ${bg(p.art)}></div><div class="ix"><div class="il">${label}</div><div class="it">${p.title}</div>
+    <div class="id">${p.dates}</div>${p.joined ? '' : `<div class="ig">Nove dias; no último, o santinho de ${p.gives}.</div>`}${foot}</div>`
+}
+
+function strip() {
+  const first = `<div class="med ${state.open === 0 ? 'sel' : ''}" data-i="0"><div class="stack">${back()}<div class="mini" ${bg(today.ways[0].art)}></div></div>
+    <div class="ml">Hoje</div><div class="mn">${state.doors.filter((d) => !d).length || 'Nenhum'} santinho${state.doors.filter((d) => !d).length === 1 ? '' : 's'}</div></div>`
+  return first + state.programs.map((p, i) => {
+    const turn = p.joined && p.day ? (p.prayed ? p.day : p.day - 1) / 9 : 0
+    return `<div class="med ${state.open === i + 1 ? 'sel' : ''}" data-i="${i + 1}">
+      <div class="ring" style="background:conic-gradient(var(--goldDeep) ${turn}turn, var(--line) 0)"><div ${bg(p.art)}></div>${p.joined ? '<span class="badge">✦</span>' : ''}</div>
+      <div class="ml">${p.joined && p.day ? 'Dia ' + p.day : p.in === 0 ? 'Hoje' : p.in + ' dias'}</div><div class="mn">${p.short}</div></div>`
+  }).join('')
+}
+
+const $ = (id) => document.getElementById(id)
+function nib() {
+  const el = $('strip').querySelector('.med.sel'), panel = $('panel').firstElementChild
+  if (el && panel) panel.style.setProperty('--nib', Math.max(14, Math.min(el.offsetLeft - $('strip').scrollLeft - 20 + 32, 320)) + 'px')
+}
+function draw() {
+  const left = $('strip').scrollLeft
+  $('strip').innerHTML = strip()
+  $('strip').scrollLeft = left
+  $('slot').classList.toggle('shut', state.open === undefined)
+  if (state.open !== undefined)
+    $('panel').innerHTML = state.open === 0 ? `<div class="open">${ledger(state.doors)}</div>` : `<div class="open inv">${invitation(state.programs[state.open - 1])}</div>`
+  nib()
+}
+
+$('strip').addEventListener('scroll', nib)
+$('strip').addEventListener('click', (ev) => {
+  const med = ev.target.closest('.med')
+  if (!med) return
+  const i = Number(med.dataset.i)
+  state.open = state.open === i ? undefined : i
+  draw()
+})
+$('panel').addEventListener('click', (ev) => {
+  const door = ev.target.closest('[data-door]')
+  if (door) state.doors[door.dataset.door] = !state.doors[door.dataset.door]
+  const act = ev.target.dataset.act, p = state.programs[state.open - 1]
+  if (act === 'join') p.joined = true
+  if (act === 'leave') p.joined = false
+  if (act === 'pray') p.prayed = true
+  draw()
+})
+
+$('meds').innerHTML = meditations.map((m) => `<div class="tile" ${bg(m.art)}><div class="veil"></div><div class="capt"><div class="tt">${m.title}</div><div class="ts">${m.sub}</div></div></div>`).join('')
+$('wall').innerHTML = Array.from({ length: 30 }, (_, i) => `<i class="${[2, 6, 14, 16, 21, 29].includes(i) ? '' : 'on'}"></i>`).join('')
+
+const by = (card) => fresh().programs.find((p) => p.card === card)
+$('shelf').innerHTML = [
+  ['TODAY, AS THE PAGE LOADS', ledger([false, false])],
+  ['TODAY, THE OFFICE PRAYED', ledger([true, false])],
+  ['AHEAD, NOT JOINED', invitation(by('john_paul_ii')), 1],
+  ['AHEAD, JOINED', invitation({ ...by('john_paul_ii'), joined: true }), 1],
+  ['BEGINS TODAY, JUST JOINED', invitation({ ...by('peter_alcantara'), joined: true }), 1],
+  ['UNDER WAY', invitation(by('aparecida')), 1],
+].map(([cap, html, inv]) => `<div><div class="cap">${cap}</div><div class="open ${inv ? 'inv' : ''}">${html}</div></div>`).join('')
+
+draw()
+</script>
+</body>
+</html>

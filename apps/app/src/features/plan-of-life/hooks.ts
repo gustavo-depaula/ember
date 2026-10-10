@@ -85,7 +85,7 @@ export function usePractice(practiceId: string | undefined): UserPractice | unde
   return useEventStore((s) => (practiceId ? s.practices.get(practiceId) : undefined))
 }
 
-function sortedCompletionDates(
+export function sortedCompletionDates(
   ids: Set<number> | undefined,
   completions: Map<number, Completion>,
 ): string[] {

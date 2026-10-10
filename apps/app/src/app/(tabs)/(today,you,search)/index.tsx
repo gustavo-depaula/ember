@@ -12,6 +12,7 @@ import {
 import { DailyMeditations, ExploreFeatured, PrayNowCard, usePrayNow } from '@/features/explore'
 import {
   Aspiratio,
+  EventsRow,
   FidelitySheet,
   LiturgicalHeader,
   openFidelity,
@@ -68,6 +69,8 @@ export default function HomeScreen() {
           <ContinueRow />
 
           <DailyMeditations />
+
+          <EventsRow />
 
           {todaySlots.length > 0 && (
             <FadeInView index={3}>
