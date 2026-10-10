@@ -247,21 +247,22 @@ function CardThumb({
   )
 }
 
+// The panel's one action, across the width of its column.
 function Pill({ label, solid, onPress }: { label: string; solid?: boolean; onPress: () => void }) {
   return (
     <AnimatedPressable onPress={onPress} accessibilityRole="button" accessibilityLabel={label}>
       <View
-        alignSelf="flex-start"
+        height={38}
+        alignItems="center"
+        justifyContent="center"
         borderWidth={1}
         borderColor={solid ? '$colorBurgundy' : '$accent'}
         backgroundColor={solid ? '$colorBurgundy' : 'transparent'}
-        borderRadius={16}
-        paddingHorizontal={14}
-        paddingVertical={6}
+        borderRadius={19}
       >
         <Typography
           variant="label"
-          fontSize={10}
+          fontSize={12}
           letterSpacing={1.5}
           textTransform="uppercase"
           color={solid ? '$background' : '$accentHover'}
