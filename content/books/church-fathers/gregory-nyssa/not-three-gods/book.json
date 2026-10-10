@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-not-three-gods",
   "cover": "quarter",
   "name": {
-    "en-US": "On \"Not Three Gods\" (To Ablabius)"
+    "en-US": "On \"Not Three Gods\" (To Ablabius)",
+    "pt-BR": "Sobre \"Não Três Deuses\" (A Ablábio)"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On \"Not Three Gods\" (To Ablabius)"
+        "en-US": "On \"Not Three Gods\" (To Ablabius)",
+        "pt-BR": "Sobre \"Não Três Deuses\" (A Ablábio)"
       }
     }
   ]
