@@ -2,13 +2,16 @@
   "id": "methodius-concerning-free-will",
   "cover": "quarter",
   "name": {
-    "en-US": "Concerning Free Will"
+    "en-US": "Concerning Free Will",
+    "pt-BR": "Sobre o Livre-Arbítrio"
   },
   "author": {
-    "en-US": "Methodius"
+    "en-US": "Methodius",
+    "pt-BR": "Metódio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Concerning Free Will"
+        "en-US": "Concerning Free Will",
+        "pt-BR": "Sobre o Livre-Arbítrio"
       }
     }
   ]
