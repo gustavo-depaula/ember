@@ -1,4 +1,5 @@
-"""Builds index.html: four directions for an "events" row on Today, under Daily Meditations.
+"""Builds index.html, four directions for an "events" row on Today under Daily
+Meditations, and d.html, the medallions direction working, with joining.
 
 The row's first card says which holy cards today can give and how; the rest are
 the programs coming up that the reader can join. Everything is as seen on
@@ -70,6 +71,7 @@ events = [
 for e in events:
     e['title'] = practice(e['practice'])
     e['art'] = card(e['card'])
+    e['gives'] = json.loads((root / f"content/practices/saint-of-the-day/data/holy-cards/{e['card']}.json").read_text())['name']['pt-BR']
 
 meditations = [
     {'title': 'Intimidade Divina', 'sub': 'A oração de recolhimento', 'art': jpeg('content/art/meditation-intimita.jpg', 400)},
@@ -86,3 +88,12 @@ html = html.replace('/*DATA*/', 'const data = ' + json.dumps(data, ensure_ascii=
 html = html.replace('__JUNICODE__', uri((root / 'apps/app/assets/fonts/Junicode.ttf').read_bytes(), 'font/ttf'))
 (here / 'index.html').write_text(html)
 print('index.html', len(html) // 1024, 'KB')
+
+# D alone, with joining: the row looks two weeks ahead.
+starts = {'john_paul_ii': 'terça, 13 de outubro', 'frei_galvao': 'sexta, 16 de outubro', 'all_saints': 'sexta, 23 de outubro'}
+near = [{**e, 'start': starts.get(e['card'])} for e in events if e.get('in', 0) <= 14]
+d = (here / 'template-d.html').read_text()
+d = d.replace('/*DATA*/', 'const data = ' + json.dumps({**data, 'events': near}, ensure_ascii=False))
+d = d.replace('__JUNICODE__', uri((root / 'apps/app/assets/fonts/Junicode.ttf').read_bytes(), 'font/ttf'))
+(here / 'd.html').write_text(d)
+print('d.html', len(d) // 1024, 'KB')
