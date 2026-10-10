@@ -2,13 +2,16 @@
   "id": "augustine-morals-of-the-catholic-church",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Morals of the Catholic Church"
+    "en-US": "On the Morals of the Catholic Church",
+    "pt-BR": "Sobre os Costumes da Igreja Católica"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Morals of the Catholic Church"
+        "en-US": "On the Morals of the Catholic Church",
+        "pt-BR": "Sobre os Costumes da Igreja Católica"
       }
     }
   ]
