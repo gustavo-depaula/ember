@@ -52,3 +52,28 @@ export type Preference = {
   key: string
   value: string
 }
+
+/** A place on the library shelf. `kind` is the catalog entry's, or 'usercollection'. */
+export type SavedItem = {
+  itemId: string
+  kind: string
+  savedAt: number
+}
+
+export type UserCollection = {
+  id: string
+  name: string
+  description?: string
+  coverTone: number
+  createdAt: number
+  updatedAt: number
+}
+
+export type UserCollectionItem = {
+  collectionId: string
+  ref: string
+  sectionId: string
+  label?: string
+  position: number
+  addedAt: number
+}

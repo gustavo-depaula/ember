@@ -4,6 +4,7 @@ import { Platform } from 'react-native'
 
 import { adaptNativeDb } from '@/lib/db-shared/native-adapter'
 
+import { adoptLegacyTables } from './adoptLegacyTables'
 import { createEventsTable, dropPlaceholders, replayAll } from './events'
 import { getDb, setDb } from './instance'
 import initialMigration from './migrations/0001_initial.sql'
@@ -53,6 +54,7 @@ async function openDb() {
 
   await dropPlaceholders(getDb())
   await replayAll()
+  await adoptLegacyTables(getDb())
 }
 
 function openDbOnce(): Promise<void> {

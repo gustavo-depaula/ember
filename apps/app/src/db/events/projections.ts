@@ -237,6 +237,87 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
+    case 'ItemSaved': {
+      if (draft.savedItems.has(event.itemId)) break
+      draft.savedItems.set(event.itemId, {
+        itemId: event.itemId,
+        kind: event.kind,
+        savedAt: event.savedAt,
+      })
+      break
+    }
+
+    case 'ItemUnsaved': {
+      draft.savedItems.delete(event.itemId)
+      break
+    }
+
+    case 'CollectionCreated': {
+      draft.collections.set(event.collectionId, {
+        id: event.collectionId,
+        name: event.name,
+        description: event.description,
+        coverTone: event.coverTone,
+        createdAt: event.at,
+        updatedAt: event.at,
+        refs: [],
+      })
+      break
+    }
+
+    case 'CollectionUpdated': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      if (event.name !== undefined) collection.name = event.name
+      if (event.description !== undefined) collection.description = event.description ?? undefined
+      if (event.coverTone !== undefined) collection.coverTone = event.coverTone
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'CollectionDeleted': {
+      draft.collections.delete(event.collectionId)
+      break
+    }
+
+    case 'CollectionItemAdded': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      if (!collection.refs.some((r) => r.ref === event.ref)) {
+        collection.refs.push({ ref: event.ref, addedAt: event.at })
+      }
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'CollectionItemRemoved': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      collection.refs = collection.refs.filter((r) => r.ref !== event.ref)
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'CollectionItemsReordered': {
+      const collection = draft.collections.get(event.collectionId)
+      if (!collection) break
+      // A member the order doesn't name — added on another device meanwhile —
+      // keeps its place after those it does.
+      const place = (ref: string) => {
+        const i = event.orderedRefs.indexOf(ref)
+        return i === -1 ? event.orderedRefs.length : i
+      }
+      collection.refs.sort((a, b) => place(a.ref) - place(b.ref))
+      collection.updatedAt = event.at
+      break
+    }
+
+    case 'PreferenceSet': {
+      if (event.value === null) draft.preferences.delete(event.key)
+      else draft.preferences.set(event.key, event.value)
+      break
+    }
+
     case 'ProgramRestarted': {
       const cursor = draft.cursors.get(event.cursorId)
       if (!cursor) break

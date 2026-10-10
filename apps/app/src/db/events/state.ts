@@ -4,7 +4,16 @@ import { immer } from 'zustand/middleware/immer'
 
 enableMapSet()
 
-import type { Completion, Cursor, HolyCardCopy, Tier, TimeBlock, UserPractice } from '../schema'
+import type {
+  Completion,
+  Cursor,
+  HolyCardCopy,
+  SavedItem,
+  Tier,
+  TimeBlock,
+  UserCollection,
+  UserPractice,
+} from '../schema'
 import { applyEvent } from './projections'
 import type { AppEvent } from './types'
 
@@ -35,6 +44,12 @@ export type EventStoreState = {
   cursors: Map<string, Cursor>
   /** Redeemed holy cards, by the grant that won each. */
   holyCards: Map<string, HolyCardCopy>
+  /** The library shelf, in the order saved. */
+  savedItems: Map<string, SavedItem>
+  /** Collections the user authors, each with its member refs in order. */
+  collections: Map<string, UserCollection & { refs: { ref: string; addedAt: number }[] }>
+  /** The preferences that follow the person: see `syncedPreferences`. */
+  preferences: Map<string, string>
 
   apply: (event: AppEvent) => void
   applyBatch: (events: AppEvent[]) => void
@@ -50,6 +65,9 @@ function emptyState() {
     completionsByPractice: new Map<string, Set<string>>(),
     cursors: new Map<string, Cursor>(),
     holyCards: new Map<string, HolyCardCopy>(),
+    savedItems: new Map<string, SavedItem>(),
+    collections: new Map<string, UserCollection & { refs: { ref: string; addedAt: number }[] }>(),
+    preferences: new Map<string, string>(),
   }
 }
 

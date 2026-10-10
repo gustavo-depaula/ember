@@ -153,7 +153,75 @@ type HolyCardRedeemed = { type: 'HolyCardRedeemed' } & HolyCardCopy
 
 export type HolyCardEvent = HolyCardRedeemed
 
-export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent | HolyCardEvent
+type ItemSaved = { type: 'ItemSaved'; itemId: string; kind: string; savedAt: number }
+
+type ItemUnsaved = { type: 'ItemUnsaved'; itemId: string }
+
+export type SavedItemEvent = ItemSaved | ItemUnsaved
+
+// `at` is when the collection changed: it orders the shelf, most recent first.
+type CollectionCreated = {
+  type: 'CollectionCreated'
+  collectionId: string
+  name: string
+  description?: string
+  coverTone: number
+  at: number
+}
+
+type CollectionUpdated = {
+  type: 'CollectionUpdated'
+  collectionId: string
+  name?: string
+  description?: string | null
+  coverTone?: number
+  at: number
+}
+
+type CollectionDeleted = { type: 'CollectionDeleted'; collectionId: string }
+
+type CollectionItemAdded = {
+  type: 'CollectionItemAdded'
+  collectionId: string
+  ref: string
+  at: number
+}
+
+type CollectionItemRemoved = {
+  type: 'CollectionItemRemoved'
+  collectionId: string
+  ref: string
+  at: number
+}
+
+type CollectionItemsReordered = {
+  type: 'CollectionItemsReordered'
+  collectionId: string
+  orderedRefs: string[]
+  at: number
+}
+
+export type CollectionEvent =
+  | CollectionCreated
+  | CollectionUpdated
+  | CollectionDeleted
+  | CollectionItemAdded
+  | CollectionItemRemoved
+  | CollectionItemsReordered
+
+// A preference that follows the person from device to device; null clears it.
+type PreferenceSet = { type: 'PreferenceSet'; key: string; value: string | null }
+
+export type PreferenceEvent = PreferenceSet
+
+export type AppEvent =
+  | PracticeEvent
+  | CompletionEvent
+  | CursorEvent
+  | HolyCardEvent
+  | SavedItemEvent
+  | CollectionEvent
+  | PreferenceEvent
 
 export type StoredEvent = {
   sequence: number
