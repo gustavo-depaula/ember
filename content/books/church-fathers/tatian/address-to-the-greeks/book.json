@@ -2,13 +2,16 @@
   "id": "tatian-address-to-the-greeks",
   "cover": "quarter",
   "name": {
-    "en-US": "Address to the Greeks"
+    "en-US": "Address to the Greeks",
+    "pt-BR": "Discurso aos Gregos"
   },
   "author": {
-    "en-US": "Tatian"
+    "en-US": "Tatian",
+    "pt-BR": "Taciano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Address to the Greeks"
+        "en-US": "Address to the Greeks",
+        "pt-BR": "Discurso aos Gregos"
       }
     }
   ]
