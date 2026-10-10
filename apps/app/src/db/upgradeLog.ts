@@ -27,6 +27,7 @@ const corpusIds: Record<string, string> = {
   'three-oclock': 'practice/three-oclock-prayer',
   akathist: 'practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary',
   trisagion: 'practice/trisagion-prayers',
+  paraklesis: 'practice/paraklesis',
   prostrations: 'practice/prostrations',
 }
 

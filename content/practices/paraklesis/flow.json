@@ -1,0 +1,1263 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Stand before an icon of the Mother of God. This is the service as the faithful pray it without a priest: the litanies, the priest's exclamations and the dismissal are left out.",
+				"pt-BR": "De pé diante de um ícone da Mãe de Deus. Este é o ofício como os fiéis o rezam sem sacerdote: omitem-se as ladainhas, as exclamações do sacerdote e a despedida."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to you, our God, glory to you.",
+				"pt-BR": "Glória a Vós, nosso Deus, glória a Vós."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Heavenly King, Comforter, Spirit of Truth, everywhere present and filling all things, Treasury of Blessings and Giver of Life, come and dwell within us, cleanse us of all stain, and save our souls, O gracious One.",
+				"pt-BR": "Ó Rei celeste, Consolador, Espírito da Verdade, que em tudo estais presente e tudo preencheis, Tesouro dos bens e Doador da vida: vinde habitar em nós, purificai-nos de toda mancha e salvai, ó Bondoso, as nossas almas."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Holy God, Holy and Mighty, Holy and Immortal, have mercy on us.\n(Three times)",
+				"pt-BR": "Santo Deus, Santo Forte, Santo Imortal: tende piedade de nós.\n(Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Most Holy Trinity, have mercy on us; Lord, cleanse us of our sins; Master, forgive our transgressions; Holy One, come to us and heal our infirmities for your name's sake.",
+				"pt-BR": "Santíssima Trindade, tende piedade de nós. Senhor, purificai-nos dos nossos pecados. Soberano, perdoai as nossas faltas. Santíssimo, visitai e curai as nossas enfermidades, por amor do Vosso Nome."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy. (Three times)",
+				"pt-BR": "Senhor, tende piedade. (Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"ref": "our-father"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy. (Twelve times)",
+				"pt-BR": "Senhor, tende piedade. (Doze vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Come, let us worship our King and God.\n\nCome, let us worship Christ, our King and God.\n\nCome, let us worship and bow before the only Lord Jesus Christ, the King and our God.",
+				"pt-BR": "Vinde, adoremos o nosso Rei e Deus.\n\nVinde, adoremos e prostremo-nos diante de Cristo, nosso Rei e Deus.\n\nVinde, adoremos e prostremo-nos diante do próprio Cristo, nosso Rei e Deus."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Psalm 142",
+				"pt-BR": "Salmo 142"
+			}
+		},
+		{
+			"type": "prayer",
+			"defaultOpen": true,
+			"title": {
+				"en-US": "Hear, O Lord, my prayer",
+				"pt-BR": "Senhor, ouve a minha oração"
+			},
+			"inline": {
+				"en-US": "Hear, O Lord, my prayer: give ear to my supplication in thy truth: hear me in thy justice.\n\nAnd enter not into judgment with thy servant: for in thy sight no man living shall be justified.\n\nFor the enemy hath persecuted my soul: he hath brought down my life to the earth. He hath made me to dwell in darkness as those that have been dead of old:\n\nAnd my spirit is in anguish within me: my heart within me is troubled.\n\nI remembered the days of old, I meditated on all thy works: I meditated upon the works of thy hands.\n\nI stretched forth my hands to thee: my soul is as earth without water unto thee.\n\nHear me speedily, O Lord: my spirit hath fainted away. Turn not away thy face from me, lest I be like unto them that go down into the pit.\n\nCause me to hear thy mercy in the morning; for in thee have I hoped. Make the way known to me, wherein I should walk: for I have lifted up my soul to thee.\n\nDeliver me from my enemies, O Lord, to thee have I fled:\n\nTeach me to do thy will, for thou art my God. Thy good spirit shall lead me into the right land:\n\nfor thy name's sake, O Lord, thou wilt quicken me in thy justice. Thou wilt bring my soul out of trouble:\n\nAnd in thy mercy thou wilt destroy my enemies. And thou wilt cut off all them that afflict my soul: for I am thy servant.",
+				"pt-BR": "Senhor, ouve a minha oração, presta ouvidos à minha súplica por tua fidelidade, atende-me por tua justiça.\n\nNão chames a juízo o teu servo, porque nenhum vivente é justo na tua presença.\n\nO inimigo persegue a minha alma: prostrou por terra a minha vida, colocou-me nas trevas, como os mortos de muito tempo.\n\nO meu espírito desfalece em mim; dentro de mim se gelou o meu coração,\n\n(Mas) lembro-me (logo) dos dias antigos, medito em todas as tuas obras, considero as obras das tuas mãos.\n\nEstendo as minhas mãos para ti; a minha alma tem sede de ti, como terra sequiosa.\n\nAtende-me, Senhor, com presteza, porque o meu espírito desfalece. Não escondas de mim a tua face, para que não me torne como os (mortos) que descem à cova.\n\nFaz-me sentir já a tua bondade, porque em ti confio. Faz-me conhecer o caminho em que devo andar, porque a ti elevo a minha alma.\n\nLivra-me dos meus inimigos, Senhor: em ti espero.\n\nEnsina-me a fazer a tua vontade, porque tu és o meu Deus. O teu espírito é bom: conduza-me por terra plana.\n\nPor causa do teu nome, Senhor, conserva-me vivo; por tua clemência, tira a minha alma da angústia.\n\nPela tua bondade, destrói os meus inimigos, extermina todos os que atribulam a minha alma, porque eu sou teu servo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Alleluia! Alleluia! Alleluia! Glory to you, O God!\n(Three times)",
+				"pt-BR": "Aleluia! Aleluia! Aleluia! Glória a Vós, ó Deus!\n(Três vezes)"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Lord is God",
+				"pt-BR": "O Senhor é Deus"
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "The refrain is sung first, and again after each verse.",
+				"pt-BR": "Canta-se primeiro o refrão, e de novo depois de cada versículo."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "The Lord is God and has revealed himself to us; blessed is he who comes in the name of the Lord.",
+						"pt-BR": "O Senhor é Deus e manifestou-se a nós; bendito o que vem em nome do Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Give praise to the Lord, for he is good: for his mercy endureth for ever.",
+						"pt-BR": "Dai graças ao Senhor, porque é bom, porque a sua misericórdia é eterna."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Surrounding me they compassed me about: and in the name of the Lord I have been revenged on them.",
+						"pt-BR": "Cercaram-me por todos os lados, mas eu esmaguei-as em nome do Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "I shall not die, but live: and shall declare the works of the Lord.",
+						"pt-BR": "Não morrerei, mas viverei, e narrarei as obras do Senhor."
+					}
+				},
+				{
+					"v": {
+						"en-US": "The stone which the builders rejected; the same is become the head of the corner. This is the Lord's doing, and it is wonderful in our eyes.",
+						"pt-BR": "A pedra que os edificadores rejeitaram, esta foi posta por pedra angular. Foi o Senhor que fez isto, e é uma coisa admirável aos nossos olhos."
+					}
+				}
+			]
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Troparion",
+				"pt-BR": "Tropário"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now to God's Mother let us humble sinners run in haste and in repentance let us fall down before her feet, crying aloud with fervor from the depths of our souls: Sovereign Lady, help us now, have compassion upon us, hasten, for we perish from our many offences. Let not your servants go empty away; we have you as our only hope.",
+				"pt-BR": "Corramos agora à Mãe de Deus, nós, humildes pecadores, e, arrependidos, prostremo-nos a seus pés, clamando com fervor do fundo de nossas almas: Senhora soberana, socorrei-nos agora, tende compaixão de nós, apressai-Vos, pois perecemos por nossas muitas faltas. Não deixeis partir de mãos vazias os Vossos servos; em Vós temos a nossa única esperança."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Though most unworthy, may we never by silence fail to proclaim your mighty deeds and accomplishments, for if you do not stand to intercede for us all, O Theotokos, who then will preserve us in freedom? Who would have delivered us from such terrible dangers? O Sovereign Lady, from all kinds of threats you save your servants, may we not abandon you.",
+				"pt-BR": "Embora indigníssimos, jamais deixemos, por silêncio, de proclamar os Vossos feitos poderosos, ó Mãe de Deus; pois, se não estivésseis a interceder por todos nós, quem nos conservaria em liberdade? Quem nos teria livrado de tão terríveis perigos? Ó Senhora soberana, de toda sorte de ameaças salvais os Vossos servos; não nos afastemos de Vós."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Psalm 50",
+				"pt-BR": "Salmo 50"
+			}
+		},
+		{
+			"type": "prayer",
+			"defaultOpen": true,
+			"title": {
+				"en-US": "Have mercy on me, O God",
+				"pt-BR": "Tende misericórdia de mim, ó Deus"
+			},
+			"inline": {
+				"en-US": "Have mercy on me, O God, according to Your great mercy, and according to the multitude of Your compassions, blot out my transgression. Wash me thoroughly from my iniquity and cleanse me from my sin. For I acknowledge my iniquity, and my sin is ever before me. Against You only have I sinned and done evil in Your sight, that You may be justified in Your words and prevail when You are judged.\n\nFor behold, I was conceived in iniquities, and in sins did my mother bear me. For behold, You have loved truth: You have made known to me the secret and hidden things of Your wisdom. Sprinkle me with hyssop, and I shall be clean; wash me, and I shall be made whiter than snow. Make me to hear joy and gladness; the bones that are humbled shall rejoice.\n\nTurn Your face from my sins and blot out all my iniquities. Create in me a clean heart, O God, and renew a right spirit within me. Cast me not away from Your presence, and take not Your Holy Spirit from me. Restore unto me the joy of Your salvation, and with a governing spirit establish me. I shall teach transgressors Your ways, and the ungodly shall turn back to You.\n\nDeliver me from blood-guiltiness, O God, the God of my salvation; my tongue shall rejoice in Your righteousness. O Lord, open my lips, and my mouth shall declare Your praise. For if You had desired sacrifice, I would have given it; with whole-burnt offerings You shall not be pleased. A sacrifice unto God is a broken spirit; a heart that is broken and humbled God will not despise. Do good, O Lord, in Your good pleasure unto Sion, and let the walls of Jerusalem be built. Then shall You be pleased with a sacrifice of righteousness, with oblation and whole-burnt offerings; then shall they offer bullocks upon Your altar.",
+				"pt-BR": "Tende misericórdia de mim, ó Deus, segundo a Vossa grande piedade, e segundo a Vossa imensa clemência, apagai a minha transgressão. Lavai-me completamente da minha iniquidade e purificai-me do meu pecado. Pois reconheço as minhas culpas, e o meu pecado tenho sempre diante de mim. Só contra Vós pequei e fiz o mal diante de Vós, para que sejais achado justo em Vossas sentenças e venceis se Vos puserem em questão.\n\nEis que entre iniquidades fui concebido, e em pecados nasceu-me minha mãe. Mas Vós amastes a verdade, e mostrastes-me os arcanos e os segredos da Vossa sabedoria. Aspergir-me-eis com o hissope e ficarei puro; lavar-me-eis e ficarei mais branco do que a neve. Far-me-eis ouvir júbilo e alegria, e rejubilarão os ossos que humilhastes.\n\nDesviai a Vossa face dos meus pecados e apagai todas as minhas iniquidades. Ó Deus, criai em mim um coração puro, e renovai nas minhas entranhas um espírito de retidão. Não me repudieis da Vossa face, nem afasteis de mim o Vosso Santo Espírito. Restitui-me a alegria da Vossa salvação e amparai-me com o Espírito soberano. Ensinarei aos iníquos os Vossos caminhos, e os ímpios voltar-se-ão para Vós.\n\nLivrai-me da punição de sangue, ó Deus, ó Deus da minha salvação, e a minha língua exaltará a Vossa justiça. Abri, Senhor, os meus lábios, e a minha boca proclamará o Vosso louvor. Se Vos aprouvessem sacrifícios, oferecer-Vo-los-ia, mas não Vos comprazeis nos holocaustos. O sacrifício que praz a Deus é o espírito contrito; um coração contrito e humilhado, Deus não desprezará. Bem-fazei, Senhor, na Vossa benevolência, a Sião, e reerguer-se-ão as muralhas de Jerusalém. Então aceitareis com agrado um sacrifício de justiça, oferendas e holocaustos; então serão oferecidos novilhos sobre o Vosso altar."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "Canon of Supplication to the Theotokos",
+				"pt-BR": "Cânon de Súplica à Mãe de Deus"
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 1",
+				"pt-BR": "Ode 1"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "When Israel passed through the waters as upon dry land, and escaped the malice of the Egyptians, they cried out: Let us sing to our Redeemer and our God.",
+				"pt-BR": "Quando Israel atravessou as águas como por terra seca e escapou da malícia dos egípcios, clamou: Cantemos ao nosso Redentor e nosso Deus."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Many temptations have surrounded me, O Virgin. To you I come for shelter and salvation. O Theotokos, deliver me from all trouble and affliction!",
+				"pt-BR": "Muitas tentações me cercaram, ó Virgem. A Vós recorro em busca de abrigo e salvação. Ó Mãe de Deus, livrai-me de toda tribulação e aflição!"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "The assaults of my passions disturb me; they fill my soul with great discouragement. O Maiden, preserved from all stain, restore the balance of my soul through the peace of your Son and your God!",
+				"pt-BR": "Os assaltos das minhas paixões me perturbam e enchem a minha alma de grande desânimo. Ó Donzela preservada de toda mancha, restituí o equilíbrio à minha alma pela paz do Vosso Filho e Vosso Deus!"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, I beseech you who have given birth to God the Savior, deliver me from my afflictions. It is to you I now come for shelter, to you I lift up my heart and thoughts.",
+				"pt-BR": "Ó Virgem, eu Vos suplico, a Vós que destes à luz o Deus Salvador: livrai-me das minhas aflições. É a Vós que agora recorro em busca de abrigo, a Vós elevo o coração e o pensamento."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "You alone are the Theotokos; you are good and the Mother of Goodness. Take away the disease of my body and soul; make me worthy of your good care and of the coming of God.",
+				"pt-BR": "Só Vós sois a Mãe de Deus; sois boa e Mãe da Bondade. Afastai a enfermidade do meu corpo e da minha alma; tornai-me digno do Vosso bom cuidado e da vinda de Deus."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 3",
+				"pt-BR": "Ode 3"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Lord, who covered the dome of the heavens and who built up your Church in three days, make me firm in the love of you, for you love us all. You are the summit of our desires and the fortress of believers.",
+				"pt-BR": "Ó Senhor, que cobristes a abóbada dos céus e em três dias edificastes a Vossa Igreja, firmai-me no Vosso amor, pois amais a todos nós. Vós sois o cume dos nossos desejos e a fortaleza dos que creem."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin Theotokos, I choose you to be my protection and the shelter of my life. Direct me towards your haven, for you are the channel of all good things and the support of the faithful, and you alone are worthy of every praise.",
+				"pt-BR": "Ó Virgem Mãe de Deus, eu Vos escolho para minha proteção e abrigo da minha vida. Conduzi-me ao Vosso porto, pois sois o canal de todos os bens e o amparo dos fiéis, e só Vós sois digna de todo louvor."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I beseech you, O Virgin, dispel the troubles of my soul, quiet the surge of my despair; for you, O Bride of God, have carried the Prince of Peace, and you alone are perfectly pure.",
+				"pt-BR": "Eu Vos suplico, ó Virgem: dissipai as perturbações da minha alma, aquietai a vaga do meu desespero; pois Vós, ó Esposa de Deus, trouxestes o Príncipe da Paz, e só Vós sois perfeitamente pura."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "You gave birth to the Doer of Good, to the Cause of All Delight. Let the wealth of his generosity abound within all souls; for since you have borne the Almighty Christ, you have power to act as you please, O you who are blessed of God.",
+				"pt-BR": "Destes à luz o Autor do bem, a Causa de toda alegria. Fazei abundar em todas as almas a riqueza da sua generosidade; pois, tendo gerado o Cristo todo-poderoso, tendes poder de agir como Vos apraz, ó bendita de Deus."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, help me, who am pressed by incurable ills and distressing passions; for I know that you, All-blameless Lady, are a perfect and abundant treasury of healing.",
+				"pt-BR": "Ó Virgem, socorrei-me, a mim que sou oprimido por males incuráveis e paixões angustiantes; pois sei que Vós, Senhora toda irrepreensível, sois tesouro perfeito e abundante de cura."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Troparia",
+				"pt-BR": "Tropários"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Save your servants from every danger, O Theotokos, for after God, we all fly for refuge to you as an unbreachable wall and protection.",
+				"pt-BR": "Salvai de todo perigo os Vossos servos, ó Mãe de Deus, pois, depois de Deus, todos recorremos a Vós como a muralha inexpugnável e proteção."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "With kindness, all-praised Theotokos, look on the dire affliction of my body and heal the pain of my soul.",
+				"pt-BR": "Olhai com bondade, ó Mãe de Deus digna de todo louvor, para a dura aflição do meu corpo, e curai a dor da minha alma."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O fervent intercessor and unassailable rampart, O fountain of mercy and refuge of the world, we eagerly cry out to you: O Lady, Theotokos, hurry and deliver us from tribulations, for you alone are a swift intercessor.",
+				"pt-BR": "Ó fervorosa intercessora e baluarte inexpugnável, ó fonte de misericórdia e refúgio do mundo, a Vós clamamos com ardor: Ó Senhora, Mãe de Deus, apressai-Vos e livrai-nos das tribulações, pois só Vós sois pronta intercessora."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 4",
+				"pt-BR": "Ode 4"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Lord, I have heard of the mystery of your work of salvation. I have meditated on your deeds. I have exalted and glorified your divinity.",
+				"pt-BR": "Ó Senhor, ouvi falar do mistério da Vossa obra de salvação. Meditei nos Vossos feitos. Exaltei e glorifiquei a Vossa divindade."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Quiet the seething of my passions and calm the storm of my sins, for you are the Bride of God who gave birth to the good Lord.",
+				"pt-BR": "Aquietai o fervilhar das minhas paixões e acalmai a tempestade dos meus pecados, pois sois a Esposa de Deus que deu à luz o bom Senhor."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin who gave birth to the compassionate Lord, the Savior of those who praise you, grant that I who cling to you may enjoy the depth of your compassion.",
+				"pt-BR": "Ó Virgem que destes à luz o Senhor compassivo, Salvador dos que Vos louvam, concedei que eu, que a Vós me apego, goze da profundeza da Vossa compaixão."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "We who rejoice on account of your gifts are aware that you are the Theotokos, and so we sing a hymn of gratitude to you who are perfectly pure.",
+				"pt-BR": "Nós, que nos alegramos por causa dos Vossos dons, sabemos que sois a Mãe de Deus, e por isso cantamos um hino de gratidão a Vós, que sois perfeitamente pura."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "You whom we possess as our hope, our supporting strength, our indestructible wall of salvation, are worthy of all praise. Grant that we may be worthy to be delivered from all affliction.",
+				"pt-BR": "Vós, a quem temos por esperança, força que nos sustenta e muralha indestrutível de salvação, sois digna de todo louvor. Concedei que sejamos dignos de ser livres de toda aflição."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 5",
+				"pt-BR": "Ode 5"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Enlighten us with your precepts, O Lord, and by the strength of your almighty arm, grant peace to the world, for you alone love us all.",
+				"pt-BR": "Iluminai-nos com os Vossos preceitos, ó Senhor, e, pela força do Vosso braço todo-poderoso, concedei a paz ao mundo, pois só Vós amais a todos nós."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Immaculate Lady, give me your pure happiness. You gave birth to the Cause of Joy; fill my heart with joy!",
+				"pt-BR": "Ó Senhora imaculada, dai-me a Vossa pura felicidade. Destes à luz a Causa da alegria; enchei de alegria o meu coração!"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Deliver us from dangers, O Immaculate Theotokos, for you gave birth to Eternal Salvation and to Peace beyond our understanding.",
+				"pt-BR": "Livrai-nos dos perigos, ó imaculada Mãe de Deus, pois destes à luz a Salvação eterna e a Paz que excede o nosso entendimento."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "With the brightness of your light, dispel the darkness of my sins, O Bride of God who gave birth to the Divine and Eternal Light.",
+				"pt-BR": "Com o fulgor da Vossa luz, dissipai as trevas dos meus pecados, ó Esposa de Deus que destes à luz a Luz divina e eterna."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Heal the misery of my passions, make me worthy of your assistance, and through your intercession, grant me health.",
+				"pt-BR": "Curai a miséria das minhas paixões, tornai-me digno do Vosso auxílio e, por Vossa intercessão, concedei-me a saúde."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 6",
+				"pt-BR": "Ode 6"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I pour out my supplication to God; before the Lord I lay bare my grief; for my soul is filled with evil, and my life is close to Hades so that I cry out as Jonah: Deliver me from the pit, O Lord.",
+				"pt-BR": "Derramo diante de Deus a minha súplica; perante o Senhor exponho a minha dor; pois a minha alma está cheia de males e a minha vida se aproxima do Hades, de modo que clamo como Jonas: Livrai-me do abismo, ó Senhor."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, beseech your Lord and your Son who delivered himself to death and saved my nature from death and corruption to which it had been bound, that he may deliver me from the hands of the enemy.",
+				"pt-BR": "Ó Virgem, suplicai ao Vosso Senhor e Vosso Filho, que se entregou à morte e salvou a minha natureza da morte e da corrupção a que estava presa, que me livre das mãos do inimigo."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "I believe, O Virgin, that through your intercession you save and protect my life, dispelling many temptations and casting out the cunning snares of the devil. Now I implore you without ceasing: Deliver me from my corrupting passions.",
+				"pt-BR": "Creio, ó Virgem, que por Vossa intercessão salvais e protegeis a minha vida, dissipando muitas tentações e expulsando as astutas ciladas do demônio. Agora Vos imploro sem cessar: livrai-me das paixões que me corrompem."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Maiden, you have been given to us as a wall behind which we may seek refuge, as a perfect means of salvation for our souls, as a joy in our tribulations; for we always find delight in your light. O Lady, save us always from every danger and evil desire.",
+				"pt-BR": "Ó Donzela, fostes dada a nós como muralha atrás da qual buscamos refúgio, como meio perfeito de salvação para as nossas almas, como alegria nas nossas tribulações; pois sempre encontramos deleite na Vossa luz. Ó Senhora, salvai-nos sempre de todo perigo e de todo mau desejo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Behold how sick I am; I lie upon my bed, and there is no healing for me. I come to you in your goodness, for you have given birth to the Savior of the World. Deliver me from my disease and raise me from the pain of my affliction.",
+				"pt-BR": "Vede como estou doente; jazo no meu leito, e não há cura para mim. Recorro a Vós, em Vossa bondade, pois destes à luz o Salvador do mundo. Livrai-me da minha enfermidade e levantai-me da dor da minha aflição."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Troparia",
+				"pt-BR": "Tropários"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Save your servants from every danger, O Theotokos, for after God, we all fly for refuge to you as an unbreachable wall and protection.",
+				"pt-BR": "Salvai de todo perigo os Vossos servos, ó Mãe de Deus, pois, depois de Deus, todos recorremos a Vós como a muralha inexpugnável e proteção."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "With kindness, all-praised Theotokos, look on the dire affliction of my body and heal the pain of my soul.",
+				"pt-BR": "Olhai com bondade, ó Mãe de Deus digna de todo louvor, para a dura aflição do meu corpo, e curai a dor da minha alma."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Kontakion",
+				"pt-BR": "Kontákion"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Steadfast Protectress of Christians, unshakable Mediatrix before the Creator, do not despise the prayerful voices of sinners; but in your goodness hurry to assist those who faithfully cry out to you. Hasten to intercede and heed our supplication, interceding always, Theotokos, in behalf of those who honor you.",
+				"pt-BR": "Firme Protetora dos cristãos, Medianeira inabalável junto ao Criador, não desprezeis as vozes suplicantes dos pecadores; mas, em Vossa bondade, apressai-Vos a socorrer os que com fé clamam a Vós. Apressai-Vos a interceder e atendei à nossa súplica, Vós que sempre intercedeis, ó Mãe de Deus, pelos que Vos honram."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "heading",
+			"text": {
+				"en-US": "The Gospel",
+				"pt-BR": "O Evangelho"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "I shall make your name remembered in all generations.",
+						"pt-BR": "Recordarei o teu nome por todas as gerações."
+					}
+				},
+				{
+					"v": {
+						"en-US": "Listen, O daughter, and see and incline your ear.",
+						"pt-BR": "Escuta, ó filha, e vê, inclina o teu ouvido."
+					}
+				},
+				{
+					"r": {
+						"en-US": "I shall make your name remembered in all generations.",
+						"pt-BR": "Recordarei o teu nome por todas as gerações."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Let everything that lives and that breathes give praise to the Lord.",
+				"pt-BR": "Tudo o que vive e respira louve o Senhor."
+			}
+		},
+		{
+			"type": "lectio",
+			"reference": "luke 1:39-49"
+		},
+		{
+			"type": "lectio",
+			"reference": "luke 1:56"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to you, O Lord, glory to you.",
+				"pt-BR": "Glória a Vós, Senhor, glória a Vós."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Father, Word, and Spirit, Holy Trinity, cleanse us of our many sins.",
+				"pt-BR": "Ó Pai, Verbo e Espírito, Trindade Santa, purificai-nos dos nossos muitos pecados."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Through the prayers of the Theotokos, O Merciful One, cleanse us of our many sins.",
+				"pt-BR": "Pelas orações da Mãe de Deus, ó Misericordioso, purificai-nos dos nossos muitos pecados."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most holy Lady, do not entrust me to any human help, but receive the prayer of your servant. Distress is all around me, no longer can I bear the darts of the demons. I have no shelter and no place to hide. My foes are on all sides, I have no relief but in you alone! O Queen of the whole world, the hope and support of all the faithful, turn not away from my prayer, but do for me whatever is the best.",
+				"pt-BR": "Ó Senhora santíssima, não me confieis a nenhum auxílio humano, mas acolhei a oração do Vosso servo. A angústia me cerca por toda parte; já não posso suportar os dardos dos demônios. Não tenho abrigo nem lugar onde me esconder. Meus inimigos estão por todos os lados; não tenho alívio senão em Vós! Ó Rainha do mundo inteiro, esperança e amparo de todos os fiéis, não Vos afasteis da minha oração, mas fazei por mim o que for melhor."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 7",
+				"pt-BR": "Ode 7"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "The three Youths who came from Judea to Babylon attained faith in the Holy Trinity. They trampled on the flames in the furnace and they sang: Blessed are you, O God of our fathers.",
+				"pt-BR": "Os três Jovens que vieram da Judeia para a Babilônia alcançaram a fé na Santíssima Trindade. Calcaram as chamas na fornalha e cantaram: Bendito sois Vós, ó Deus de nossos pais."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "In your desire to save our souls, you dwelt in the womb of the Virgin, and established her as the intercessor of creation. Blessed are you, O God of our Fathers!",
+				"pt-BR": "No Vosso desejo de salvar as nossas almas, habitastes no seio da Virgem e a estabelecestes como intercessora da criação. Bendito sois Vós, ó Deus de nossos pais!"
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O most pure Mother, may your prayer go up to the Source of Mercy to whom you have given birth, so that we may be preserved from weakness and impurity, who cry out with faith: Blessed are you, O God of our Fathers!",
+				"pt-BR": "Ó Mãe puríssima, suba a Vossa oração à Fonte da Misericórdia que destes à luz, para que sejamos preservados da fraqueza e da impureza, nós que clamamos com fé: Bendito sois Vós, ó Deus de nossos pais!"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "You have taken the one who gave you birth, establishing her as a Treasury of Salvation, a Source of Immortality, an Indestructible Fortress, a Door Open for Repentance to those who cry out: Blessed are you, O God of our Fathers!",
+				"pt-BR": "Tomastes aquela que Vos deu à luz e a estabelecestes como Tesouro de salvação, Fonte de imortalidade, Fortaleza indestrutível, Porta aberta ao arrependimento para os que clamam: Bendito sois Vós, ó Deus de nossos pais!"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Mother of God who gave us Christ, grant to those who anxiously seek your divine shelter, that they deserve to be healed of the illness of body and soul.",
+				"pt-BR": "Ó Mãe de Deus que nos destes o Cristo, concedei aos que com ânsia buscam o Vosso divino abrigo que mereçam ser curados da enfermidade do corpo e da alma."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 8",
+				"pt-BR": "Ode 8"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "He is the King of heaven whom the heavenly hosts praise: exalt him for all ages.",
+				"pt-BR": "Ele é o Rei do céu, a quem louvam os exércitos celestes: exaltai-o por todos os séculos."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, do not turn away from those who seek your help, who praise and exalt your maidenhood forever.",
+				"pt-BR": "Ó Virgem, não Vos afasteis dos que buscam o Vosso auxílio, dos que louvam e exaltam para sempre a Vossa virgindade."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, abundant healing flows from you upon all those who sing your wondrous birth with faith and praise.",
+				"pt-BR": "Ó Virgem, de Vós flui cura abundante sobre todos os que cantam com fé e louvor o Vosso parto admirável."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Let us bless the Father, Son, and Holy Spirit, Lord.",
+				"pt-BR": "Bendigamos ao Pai, ao Filho e ao Espírito Santo, o Senhor."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, you shall heal the sorrows of my soul, you shall cure the illness of my body, and I shall sing your praise, O Woman Full of Grace!",
+				"pt-BR": "Ó Virgem, curareis as dores da minha alma, sarareis a enfermidade do meu corpo, e eu cantarei o Vosso louvor, ó Mulher cheia de graça!"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, you drive away the dangers of temptation, you restrain the fire of passion, and so we sing your praise forevermore.",
+				"pt-BR": "Ó Virgem, afastais os perigos da tentação, refreais o fogo da paixão, e por isso cantamos o Vosso louvor para todo o sempre."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Ode 9",
+				"pt-BR": "Ode 9"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "We indeed acknowledge you as the Mother of God; through you we have found salvation. O most pure Virgin, with the choirs of angels, we extol you.",
+				"pt-BR": "Nós Vos reconhecemos, em verdade, como Mãe de Deus; por Vós encontramos a salvação. Ó Virgem puríssima, com os coros dos anjos nós Vos exaltamos."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, despise not the flowing of my tears, for you have given birth to the Lord, who wipes away all tears.",
+				"pt-BR": "Ó Virgem, não desprezeis o correr das minhas lágrimas, pois destes à luz o Senhor, que enxuga todas as lágrimas."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"r": {
+						"en-US": "O most holy Theotokos, save us.",
+						"pt-BR": "Santíssima Mãe de Deus, salvai-nos."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, be a haven and a help, an indestructible fortress and a harbor, a shelter and a joy to those who come to you.",
+				"pt-BR": "Ó Virgem, sede porto e auxílio, fortaleza indestrutível e ancoradouro, abrigo e alegria para os que a Vós recorrem."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, cast away the darkness of unknowing; enlighten with your rays of light those who proclaim that you are truly the Theotokos.",
+				"pt-BR": "Ó Virgem, afastai as trevas da ignorância; iluminai com os raios da Vossa luz os que proclamam que sois verdadeiramente a Mãe de Deus."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Virgin, come to me in this time of pain; raise me from my sickness and restore my health.",
+				"pt-BR": "Ó Virgem, vinde a mim neste tempo de dor; levantai-me da minha enfermidade e restituí-me a saúde."
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "It is truly proper to glorify you, O Theotokos, the ever-blessed, immaculate, and the mother of our God. More honorable than the Cherubim and beyond compare more glorious than the Seraphim, who, a Virgin, gave birth to God the Word; you, truly the Theotokos, we magnify.",
+				"pt-BR": "Verdadeiramente é digno honrar-Vos, ó Deípara, sempre venturosa e toda imaculada, e Mãe do nosso Deus. Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, a Vós que, sem corrupção, destes nascimento ao Verbo de Deus — a Vós, verdadeira Mãe de Deus, nós Vos magnificamos."
+			}
+		},
+		{
+			"type": "subheading",
+			"text": {
+				"en-US": "Hymns to the Mother of God",
+				"pt-BR": "Hinos à Mãe de Deus"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O Gracious Lady, you pray for all who with faith take refuge in your powerful protection, for we sinners, ever in affliction and misery, have no other recourse to God; we are burdened with many sins, Mother of God on high. Therefore, we prostrate ourselves before you: save your servants from all calamities.",
+				"pt-BR": "Ó Senhora bondosa, rogais por todos os que com fé se refugiam na Vossa poderosa proteção; pois nós, pecadores, sempre em aflição e miséria, não temos outro recurso junto de Deus; estamos carregados de muitos pecados, ó Mãe do Deus altíssimo. Por isso nos prostramos diante de Vós: salvai de toda calamidade os Vossos servos."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "They shall remember thy name throughout all generations.",
+						"pt-BR": "Recordarei o teu nome por todas as gerações."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O joy of all who are troubled, patroness of the persecuted and sustainer of the hungry, consoler of wanderers, harbor of the storm-tossed, visitor of all the sick, protectress and patroness of the weak, staff of the aged, O Mother of God on high, you are most pure, hasten, we pray, that your servants may be saved.",
+				"pt-BR": "Ó alegria de todos os aflitos, padroeira dos perseguidos e sustento dos famintos, consoladora dos peregrinos, porto dos que a tempestade agita, visitadora de todos os enfermos, protetora e padroeira dos fracos, bordão dos anciãos, ó Mãe do Deus altíssimo, Vós sois puríssima: apressai-Vos, nós Vos pedimos, para que os Vossos servos sejam salvos."
+			}
+		},
+		{
+			"type": "response",
+			"verses": [
+				{
+					"v": {
+						"en-US": "Hearken, O daughter, and see, and incline thy ear.",
+						"pt-BR": "Escuta, ó filha, e vê, inclina o teu ouvido."
+					}
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Rejoice, Virgin most pure, honored scepter of Christ the king. Rejoice, from you the mystical Vine sprouted; Rejoice, gate of heaven and unburnt bush; Rejoice, light of the world; Rejoice, joy of all; Rejoice, salvation of the faithful; Rejoice, Protectress and refuge of all Christians; Rejoice, O Lady.",
+				"pt-BR": "Alegrai-Vos, Virgem puríssima, cetro honrado de Cristo Rei. Alegrai-Vos, de Vós brotou a Videira mística; alegrai-Vos, porta do céu e sarça que não se consome; alegrai-Vos, luz do mundo; alegrai-Vos, alegria de todos; alegrai-Vos, salvação dos fiéis; alegrai-Vos, Protetora e refúgio de todos os cristãos; alegrai-Vos, ó Senhora."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Rejoice, glory of the whole world; Rejoice, Temple of the Lord; Rejoice, overshadowed mountain; rejoice, refuge of all; rejoice, golden candelabra; Rejoice, precious glory of true believers; Rejoice, Mary, Mother of Christ our God; Rejoice, paradise; Rejoice, divine altar; Rejoice, entryway; Rejoice, all-golden hand; Rejoice, Hope of all.",
+				"pt-BR": "Alegrai-Vos, glória do mundo inteiro; alegrai-Vos, Templo do Senhor; alegrai-Vos, montanha coberta pela sombra; alegrai-Vos, refúgio de todos; alegrai-Vos, candelabro de ouro; alegrai-Vos, glória preciosa dos verdadeiros fiéis; alegrai-Vos, Maria, Mãe de Cristo nosso Deus; alegrai-Vos, paraíso; alegrai-Vos, altar divino; alegrai-Vos, pórtico; alegrai-Vos, mão toda de ouro; alegrai-Vos, Esperança de todos."
+			}
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Other hymns in the same tone",
+				"pt-BR": "Outros hinos no mesmo tom"
+			},
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Let us sing the praise of the Virgin more lofty than heaven and more pure than the shining stars. Let us praise, O faithful, the Queen of all creation who has delivered us from our ancestral curse.",
+						"pt-BR": "Cantemos o louvor da Virgem, mais elevada que o céu e mais pura que as estrelas resplandecentes. Louvemos, ó fiéis, a Rainha de toda a criação, que nos livrou da maldição ancestral."
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "My whole body ails and my soul is sick because of my evil deeds and the multitude of my sins. To you I come for shelter, O Mary, full of grace, O hope of the hopeless, help me and save me.",
+						"pt-BR": "Todo o meu corpo padece e a minha alma está enferma por causa das minhas más ações e da multidão dos meus pecados. A Vós recorro em busca de abrigo, ó Maria, cheia de graça, esperança dos desesperados: socorrei-me e salvai-me."
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "O Lady and Mother of the Savior, receive now the humble prayers of your poor, unworthy servants. Intercede, we beg you, before your Son, our Savior, and be our mediatrix, Queen of the universe.",
+						"pt-BR": "Ó Senhora e Mãe do Salvador, acolhei agora as humildes orações dos Vossos pobres e indignos servos. Intercedei, nós Vos pedimos, junto ao Vosso Filho, nosso Salvador, e sede nossa medianeira, Rainha do universo."
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "O Mother of God, worthy of all praise, we sing this hymn to you and exalt you with joyful voice. Pray the Forerunner and all the saints together that your Son, our Redeemer, may have mercy on us.",
+						"pt-BR": "Ó Mãe de Deus, digna de todo louvor, cantamos a Vós este hino e Vos exaltamos com voz jubilosa. Rogai, com o Precursor e todos os santos, para que o Vosso Filho, nosso Redentor, tenha piedade de nós."
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "All you ranks and orders of the angels, and you, holy Forerunner, with the twelve apostles of Christ and you, holy martyrs, with the Theotokos, pray eagerly to the Savior, that he may save our souls.",
+						"pt-BR": "Vós todos, coros e ordens dos anjos, e vós, santo Precursor, com os doze apóstolos de Cristo, e vós, santos mártires, com a Mãe de Deus, rogai ardentemente ao Salvador, para que salve as nossas almas."
+					}
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"title": {
+				"en-US": "Trisagion Prayers",
+				"pt-BR": "Orações do Trisagion"
+			},
+			"defaultOpen": true,
+			"sections": [
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Holy God, Holy and Mighty, Holy and Immortal, have mercy on us.\n(Three times)",
+						"pt-BR": "Santo Deus, Santo Forte, Santo Imortal: tende piedade de nós.\n(Três vezes)"
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+						"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Most Holy Trinity, have mercy on us; Lord, cleanse us of our sins; Master, forgive our transgressions; Holy One, come to us and heal our infirmities for your name's sake.",
+						"pt-BR": "Santíssima Trindade, tende piedade de nós. Senhor, purificai-nos dos nossos pecados. Soberano, perdoai as nossas faltas. Santíssimo, visitai e curai as nossas enfermidades, por amor do Vosso Nome."
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Lord, have mercy. (Three times)",
+						"pt-BR": "Senhor, tende piedade. (Três vezes)"
+					}
+				},
+				{
+					"type": "prayer",
+					"inline": {
+						"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+						"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+					}
+				},
+				{
+					"type": "prayer",
+					"ref": "our-father"
+				}
+			]
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Have mercy on us, O Lord, have mercy on us: since we have no defense, we sinners offer this supplication to you, our Master; have mercy on us.",
+				"pt-BR": "Tende piedade de nós, Senhor, tende piedade de nós: sem defesa alguma, nós, pecadores, Vos oferecemos esta súplica, a Vós, nosso Soberano; tende piedade de nós."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father and to the Son, and to the Holy Spirit.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy on us, for in you we place our hope. Be not exceedingly angry with us, nor mindful of our transgressions, but look upon us even now with mercy, and deliver us from our enemies. For you are our God and we are your people: we all are the work of your hands, and we call upon your name.",
+				"pt-BR": "Senhor, tende piedade de nós, pois em Vós pomos a nossa esperança. Não Vos ireis em excesso contra nós, nem Vos lembreis das nossas transgressões, mas olhai para nós, ainda agora, com misericórdia, e livrai-nos dos nossos inimigos. Pois Vós sois o nosso Deus e nós somos o Vosso povo: todos somos obra das Vossas mãos e invocamos o Vosso nome."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Now and ever and forever. Amen.",
+				"pt-BR": "Agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Open unto us the doors of mercy, O blessed Theotokos. Let us not perish who place our trust in you, but rather through you be delivered from misfortune. For you are the salvation of all Christians.",
+				"pt-BR": "Abri-nos as portas da misericórdia, ó bendita Mãe de Deus. Não pereçamos nós, que em Vós pomos a nossa confiança, mas por Vós sejamos livres da desgraça. Pois Vós sois a salvação de todos os cristãos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy. (Twelve times)",
+				"pt-BR": "Senhor, tende piedade. (Doze vezes)"
+			}
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O our most gracious Lady, O Theotokos, our hope, friend of orphans, defender of strangers, joy of those in sorrow, protection of those treated unjustly, look upon our troubles, look upon our grief, help us in our weakness, guide us who are strangers, you know our offenses, free us from them as you wish, for we have no other help but you, no other defender, no good consoler except you, O Mother of God, for you guard and protect us forever. Amen.",
+				"pt-BR": "Ó nossa Senhora graciosíssima, ó Mãe de Deus, nossa esperança, amiga dos órfãos, defensora dos estrangeiros, alegria dos que sofrem, proteção dos injustiçados: olhai para as nossas tribulações, olhai para a nossa dor, ajudai-nos na nossa fraqueza, guiai-nos, a nós que somos peregrinos; conheceis as nossas faltas: livrai-nos delas como quiserdes, pois não temos outro auxílio senão Vós, nem outra defensora, nem boa consoladora a não ser Vós, ó Mãe de Deus, pois Vós nos guardais e protegeis para sempre. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "More honorable than the cherubim, and beyond compare more glorious than the seraphim, who, a virgin, gave birth to God the Word, you, truly the Theotokos, we magnify.",
+				"pt-BR": "Mais veneranda que os Querubins e mais gloriosa, sem comparação, que os Serafins, a Vós que, sem corrupção, destes nascimento ao Verbo de Deus — a Vós, verdadeira Mãe de Deus, nós Vos magnificamos."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Glory to the Father, and to the Son, and to the Holy Spirit, now and ever and forever. Amen.",
+				"pt-BR": "Glória ao Pai, ao Filho e ao Espírito Santo, agora e sempre e pelos séculos dos séculos. Amém."
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord, have mercy. (Three times)",
+				"pt-BR": "Senhor, tende piedade. (Três vezes)"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Son of God, through the prayers of Your most pure Mother and of all the saints, have mercy on us. Amen.",
+				"pt-BR": "Senhor Jesus Cristo, Filho de Deus, pelas orações de Vossa puríssima Mãe e de todos os santos, tende piedade de nós. Amém."
+			}
+		}
+	]
+}
