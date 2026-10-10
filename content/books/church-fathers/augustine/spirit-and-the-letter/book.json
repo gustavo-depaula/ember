@@ -2,13 +2,16 @@
   "id": "augustine-spirit-and-the-letter",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Spirit and the Letter"
+    "en-US": "On the Spirit and the Letter",
+    "pt-BR": "Sobre o Espírito e a Letra"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Spirit and the Letter"
+        "en-US": "On the Spirit and the Letter",
+        "pt-BR": "Sobre o Espírito e a Letra"
       }
     }
   ]
