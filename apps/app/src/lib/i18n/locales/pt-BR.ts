@@ -89,7 +89,7 @@ export default {
       drawn: 'Um santinho da Missa',
       drawnNote: 'sorteado entre os {{count}} da Missa e do altar',
       prayedDayNote: 'oferecimento, rosário e exame, os três hoje',
-      won: 'feito · o envelope espera por você',
+      won: 'recebido · abra o envelope',
       redeemed: 'recebido',
       beginsToday: 'Começa hoje',
       beginsTomorrow: 'Começa amanhã',

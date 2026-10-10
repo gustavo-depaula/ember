@@ -89,7 +89,7 @@ export default {
       drawn: 'A card of the Mass',
       drawnNote: 'drawn from the {{count}} of the Mass and the altar',
       prayedDayNote: 'offering, rosary and examen, all three today',
-      won: 'done · its envelope is waiting',
+      won: 'received · open its envelope',
       redeemed: 'received',
       beginsToday: 'Begins today',
       beginsTomorrow: 'Begins tomorrow',

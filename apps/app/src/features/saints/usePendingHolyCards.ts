@@ -166,21 +166,31 @@ export function usePendingHolyCards(): Grant[] | undefined {
 /**
  * A card today can give: the acts that give it (the Office and a prayed day
  * give the same saint, so they share a line), and how far it has come — still
- * to be won, won and waiting in its envelope, or already opened.
+ * to be won, won and waiting in its envelope, or opened, when `card` is the
+ * one it held.
  */
-export type TodayCard = { acts: DayAct[]; grant: Grant; state: 'open' | 'won' | 'redeemed' }
+export type TodayCard = {
+  acts: DayAct[]
+  grant: Grant
+  state: 'open' | 'won' | 'redeemed'
+  card?: string
+}
 
-/** Today's cards, in the order of their acts. Pure, so the merging can be read apart from the hooks. */
-export function todayCards(offers: Offer[], redeemed: ReadonlySet<string>): TodayCard[] {
+/**
+ * Today's cards, in the order of their acts; `opened` is the card each
+ * redeemed grant gave. Pure, so the merging can be read apart from the hooks.
+ */
+export function todayCards(offers: Offer[], opened: ReadonlyMap<string, string>): TodayCard[] {
   const cards: TodayCard[] = []
   for (const { act, done, grant } of offers) {
-    const state = done ? (redeemed.has(grant.id) ? 'redeemed' : 'won') : 'open'
+    const card = opened.get(grant.id)
+    const state = done ? (card ? 'redeemed' : 'won') : 'open'
     const same = cards.find(
       (c) =>
         state === 'open' && c.state === 'open' && c.grant.choice.join() === grant.choice.join(),
     )
     if (same && !grant.drawn) same.acts.push(act)
-    else cards.push({ acts: [act], grant, state })
+    else cards.push({ acts: [act], grant, state, card })
   }
   return cards
 }
@@ -194,7 +204,7 @@ export function useCardsToday(): TodayCard[] | undefined {
       rules &&
       todayCards(
         offersToday(rules.input, rules.today),
-        new Set([...copies.values()].map((c) => c.grant)),
+        new Map([...copies.values()].map((c) => [c.grant, c.card])),
       ),
     [rules, copies],
   )

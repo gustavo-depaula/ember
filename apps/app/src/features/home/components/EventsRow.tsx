@@ -10,6 +10,7 @@ import { toneForKey } from '@/features/explore/bgColor'
 import {
   cardFrame,
   cardInk,
+  EnvelopeStack,
   type TodayCard,
   useCardsToday,
   useHeldCards,
@@ -185,14 +186,15 @@ function TodayMedallion({
   const { t } = useTranslation()
   const { byId } = useSaintsCatalog()
   const held = useHeldCards()
-  const named = cards.find((c) => !c.grant.drawn)?.grant.choice[0]
-  const face = named ? cardFace(byId[named], held.has(named)) : undefined
+  // The hand shows a card already opened, face up, before one still to win.
+  const opened = cards.find((c) => c.card)?.card
+  const named = opened ?? cards.find((c) => !c.grant.drawn)?.grant.choice[0]
+  const face = named ? cardFace(byId[named], !!opened || held.has(named)) : undefined
+  const waiting = cards.filter((c) => c.state === 'won').length
   const open = cards.filter((c) => c.state === 'open').length
   const name = (() => {
     if (open > 0) return t('home.events.cards', { count: open })
-    return t(
-      cards.some((c) => c.state === 'won') ? 'home.events.cardsToOpen' : 'home.events.cardsDone',
-    )
+    return t(waiting > 0 ? 'home.events.cardsToOpen' : 'home.events.cardsDone')
   })()
   return (
     <Medallion
@@ -202,8 +204,15 @@ function TodayMedallion({
       onPress={onPress}
       onPlace={onPlace}
     >
-      <MiniCard turn={-10} shift={face ? -9 : 0} />
-      {face && <MiniCard face={face} turn={7} shift={9} />}
+      {waiting > 0 ? (
+        // A card won and not yet opened: its envelope, as it heads the page.
+        <EnvelopeStack width={58} count={waiting} name="" date="" shimmer={false} />
+      ) : (
+        <>
+          <MiniCard turn={-10} shift={face ? -9 : 0} />
+          {face && <MiniCard face={face} turn={7} shift={9} />}
+        </>
+      )}
     </Medallion>
   )
 }

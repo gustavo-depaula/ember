@@ -14,6 +14,7 @@ import {
   Beads,
   cardFrame,
   cardInk,
+  EnvelopeStack,
   GlyphIcon,
   type TodayCard,
   useHeldCards,
@@ -128,13 +129,18 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
       </XStack>
       {cards.map((card) => {
         const { grant, acts, state } = card
-        const saints = grant.drawn ? [] : grant.choice.map((id) => byId[id]).filter(Boolean)
+        // Opened, the line is the card it held, face up; till then, the saints it may be.
+        const received = card.card ? byId[card.card] : undefined
+        const saints = received
+          ? [received]
+          : grant.drawn
+            ? []
+            : grant.choice.map((id) => byId[id]).filter(Boolean)
         const names = saints.map((s) => s.name)
-        const title = grant.drawn
-          ? t('home.events.drawn')
-          : names.length > 0
+        const title =
+          names.length > 0
             ? names.reduce((a, b) => t('home.events.or', { a, b }))
-            : t('saints.redeem.unnamed')
+            : t(grant.drawn ? 'home.events.drawn' : 'saints.redeem.unnamed')
         const note = (() => {
           if (state === 'won') return `✦ ${t('home.events.won')}`
           if (state === 'redeemed') return `✦ ${t('home.events.redeemed')}`
@@ -145,7 +151,7 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
           return undefined
         })()
         const first = saints[0]
-        const done = state !== 'open'
+        const settled = state !== 'open'
         return (
           <AnimatedPressable
             key={grant.id}
@@ -177,30 +183,28 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
                 >
                   {t(`home.events.act.${acts[0]}`)}
                 </Typography>
-                <Typography
-                  variant="sacred-title"
-                  textAlign="left"
-                  fontSize={18}
-                  lineHeight={22}
-                  tone={done ? 'muted' : 'default'}
-                >
+                <Typography variant="sacred-title" textAlign="left" fontSize={18} lineHeight={22}>
                   {title}
                 </Typography>
                 {note && (
                   <Typography
                     variant="annotation"
-                    fontStyle={done ? 'normal' : 'italic'}
-                    color={done ? '$accentHover' : undefined}
+                    fontStyle={settled ? 'normal' : 'italic'}
+                    color={settled ? '$accentHover' : undefined}
                   >
                     {note}
                   </Typography>
                 )}
               </YStack>
-              <CardThumb
-                face={first && cardFace(first, held.has(first.id))}
-                width={42}
-                faded={state === 'redeemed'}
-              />
+              {state === 'won' ? (
+                // Won and not yet opened, it is still in its envelope.
+                <EnvelopeStack width={48} count={1} name="" date="" shimmer={false} />
+              ) : (
+                <CardThumb
+                  face={first && cardFace(first, !!received || held.has(first.id))}
+                  width={42}
+                />
+              )}
             </XStack>
           </AnimatedPressable>
         )
@@ -210,15 +214,7 @@ export function TodayPanel({ cards }: { cards: TodayCard[] }) {
 }
 
 // A holy card at thumbnail size: a face, or the illuminated back for one not yet known.
-function CardThumb({
-  face,
-  width,
-  faded = false,
-}: {
-  face: ImageSource | undefined
-  width: number
-  faded?: boolean
-}) {
+function CardThumb({ face, width }: { face: ImageSource | undefined; width: number }) {
   return (
     <View
       width={width}
@@ -227,7 +223,6 @@ function CardThumb({
       overflow="hidden"
       alignItems="center"
       justifyContent="center"
-      opacity={faded ? 0.55 : 1}
       shadowColor="#000"
       shadowOffset={{ width: 0, height: 3 }}
       shadowOpacity={0.25}
