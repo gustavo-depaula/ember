@@ -12,7 +12,7 @@ import { ChipButton } from './ChipButton'
 import { SectionLabel } from './SheetType'
 import { useSheetLift } from './sheetLift'
 
-const maxPhotos = 3
+const maxPhotos = 10
 
 // Crowd-correction on the detail screen: confirm the times are right (verify), or open an inline form
 // to report what's wrong (a free-text note, a photo of the parish bulletin, or flag the church as
