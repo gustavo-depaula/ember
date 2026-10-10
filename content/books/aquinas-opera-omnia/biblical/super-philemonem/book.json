@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Philemon",
-    "la": "Super Philemonem lectura"
+    "la": "Super Philemonem lectura",
+    "pt-BR": "Comentário a Filêmon"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's short commentary on the Letter to Philemon.",
-    "la": "Brevis expositio Thomae in Epistolam ad Philemonem."
+    "la": "Brevis expositio Thomae in Epistolam ad Philemonem.",
+    "pt-BR": "Breve comentário de Tomás à Epístola a Filêmon."
   },
   "composed": "1268–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,21 +39,24 @@
       "id": "prologue",
       "title": {
         "en-US": "Prologue — Ecclesiasticus 33:31",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Prólogo — Eclesiástico 33, 31"
       }
     },
     {
       "id": "ch001",
       "title": {
         "en-US": "Lecture 1 — Greeting",
-        "la": "Lectio 1"
+        "la": "Lectio 1",
+        "pt-BR": "Lição 1 — Saudação"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Lecture 2 — Freedom of Onesimus",
-        "la": "Lectio 2"
+        "la": "Lectio 2",
+        "pt-BR": "Lição 2 — A liberdade de Onésimo"
       }
     }
   ]
