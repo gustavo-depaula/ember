@@ -2,13 +2,16 @@
   "id": "theophilus-theophilus-to-autolycus",
   "cover": "quarter",
   "name": {
-    "en-US": "Theophilus to Autolycus"
+    "en-US": "Theophilus to Autolycus",
+    "pt-BR": "Teófilo a Autólico"
   },
   "author": {
-    "en-US": "Theophilus"
+    "en-US": "Theophilus",
+    "pt-BR": "Teófilo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,19 +24,22 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Book I"
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Book II"
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Book III"
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
       }
     }
   ]
