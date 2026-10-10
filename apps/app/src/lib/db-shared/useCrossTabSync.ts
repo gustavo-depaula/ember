@@ -21,8 +21,6 @@ export function useCrossTabSync(): void {
     return subscribeChanges((payload) => {
       if (payload.kind === 'event') {
         useEventStore.getState().apply(payload.event)
-        // The settings read their own store, filled from the log once.
-        if (payload.event.type === 'PreferenceSet') rehydratePreferences()
         return
       }
       if (payload.kind === 'event-batch') {
@@ -30,17 +28,15 @@ export function useCrossTabSync(): void {
         return
       }
       if (payload.kind === 'invalidate') {
-        if (payload.tags.includes('preferences')) rehydratePreferences()
+        if (payload.tags.includes('preferences')) {
+          usePreferencesStore
+            .getState()
+            .hydrate()
+            .catch((err) => {
+              console.warn('[cross-tab] failed to re-hydrate preferences:', err)
+            })
+        }
       }
     })
   }, [])
-}
-
-function rehydratePreferences(): void {
-  usePreferencesStore
-    .getState()
-    .hydrate()
-    .catch((err) => {
-      console.warn('[cross-tab] failed to re-hydrate preferences:', err)
-    })
 }

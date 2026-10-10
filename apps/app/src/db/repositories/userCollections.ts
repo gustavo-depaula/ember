@@ -10,6 +10,7 @@
 
 import { randomId } from '@/lib/id'
 import { emit, useEventStore } from '../events'
+import type { CollectionState } from '../events/state'
 import type { UserCollection, UserCollectionItem } from '../schema'
 
 export type { UserCollection, UserCollectionItem }
@@ -18,6 +19,10 @@ export const defaultSectionId = 'default'
 
 function collections() {
   return useEventStore.getState().collections
+}
+
+function withoutRefs({ refs: _refs, ...collection }: CollectionState): UserCollection {
+  return collection
 }
 
 export async function createUserCollection(input: {
@@ -61,15 +66,11 @@ export async function deleteUserCollection(id: string): Promise<void> {
 
 export async function getUserCollection(id: string): Promise<UserCollection | undefined> {
   const found = collections().get(id)
-  if (!found) return undefined
-  const { refs: _refs, ...collection } = found
-  return collection
+  return found && withoutRefs(found)
 }
 
 export async function getUserCollections(): Promise<UserCollection[]> {
-  return [...collections().values()]
-    .map(({ refs: _refs, ...collection }) => collection)
-    .sort((a, b) => b.updatedAt - a.updatedAt)
+  return [...collections().values()].map(withoutRefs).sort((a, b) => b.updatedAt - a.updatedAt)
 }
 
 export async function getUserCollectionItems(id: string): Promise<UserCollectionItem[]> {

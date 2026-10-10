@@ -4,10 +4,10 @@ import { Platform } from 'react-native'
 
 import { adaptNativeDb } from '@/lib/db-shared/native-adapter'
 
-import { adoptLegacyTables } from './adoptLegacyTables'
-import { createEventsTable, dropPlaceholders, replayAll } from './events'
+import { createEventsTable, replayAll } from './events'
 import { getDb, setDb } from './instance'
 import initialMigration from './migrations/0001_initial.sql'
+import { upgradeLog } from './upgradeLog'
 
 // biome-ignore lint: conditional require for platform compat
 const expo = Platform.OS !== 'web' ? (require('expo') as any) : undefined
@@ -52,9 +52,8 @@ async function openDb() {
     setDb(adapted)
   }
 
-  await dropPlaceholders(getDb())
+  await upgradeLog(getDb())
   await replayAll()
-  await adoptLegacyTables(getDb())
 }
 
 function openDbOnce(): Promise<void> {

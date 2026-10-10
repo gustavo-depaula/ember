@@ -35,6 +35,9 @@ export type SlotState = {
   minutes?: number
 }
 
+/** A collection the user authors, with its member refs in order. */
+export type CollectionState = UserCollection & { refs: { ref: string; addedAt: number }[] }
+
 export type EventStoreState = {
   practices: Map<string, UserPractice>
   slots: Map<string, SlotState>
@@ -46,8 +49,7 @@ export type EventStoreState = {
   holyCards: Map<string, HolyCardCopy>
   /** The library shelf, in the order saved. */
   savedItems: Map<string, SavedItem>
-  /** Collections the user authors, each with its member refs in order. */
-  collections: Map<string, UserCollection & { refs: { ref: string; addedAt: number }[] }>
+  collections: Map<string, CollectionState>
   /** The preferences that follow the person: see `syncedPreferences`. */
   preferences: Map<string, string>
 
@@ -66,7 +68,7 @@ function emptyState() {
     cursors: new Map<string, Cursor>(),
     holyCards: new Map<string, HolyCardCopy>(),
     savedItems: new Map<string, SavedItem>(),
-    collections: new Map<string, UserCollection & { refs: { ref: string; addedAt: number }[] }>(),
+    collections: new Map<string, CollectionState>(),
     preferences: new Map<string, string>(),
   }
 }

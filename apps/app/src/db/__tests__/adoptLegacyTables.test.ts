@@ -7,13 +7,13 @@
  */
 import { beforeEach, describe, expect, it } from 'vitest'
 
-import { adoptLegacyTables } from '@/db/adoptLegacyTables'
 import { createEventsTable, replayAll, useEventStore } from '@/db/events'
 import { setDb } from '@/db/instance'
 import initialMigration from '@/db/migrations/0001_initial.sql'
 import { getAllPreferences, getPreference, setPreference } from '@/db/repositories/preferences'
 import { getSavedItems } from '@/db/repositories/savedItems'
 import { getUserCollectionItems, getUserCollections } from '@/db/repositories/userCollections'
+import { upgradeLog } from '@/db/upgradeLog'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 const legacyTables = `
@@ -56,9 +56,7 @@ describe('opening a database that kept the shelf and collections in tables', () 
     await db.execAsync(initialMigration)
     await db.execAsync(legacyTables)
     await createEventsTable(db as never)
-    await replayAll()
-
-    await adoptLegacyTables(db as never)
+    await upgradeLog(db as never)
 
     const adopted = await state()
     expect(adopted).toEqual({
@@ -78,8 +76,9 @@ describe('opening a database that kept the shelf and collections in tables', () 
 
     // A second launch finds nothing to carry.
     const before = await db.getFirstAsync<{ n: number }>('SELECT COUNT(*) AS n FROM events')
-    await adoptLegacyTables(db as never)
+    await upgradeLog(db as never)
     expect(await db.getFirstAsync('SELECT COUNT(*) AS n FROM events')).toEqual(before)
+    expect(await db.getFirstAsync('PRAGMA user_version')).toEqual({ user_version: 1 })
   })
 
   it('keeps a travelling preference in the log and a device one in its table', async () => {

@@ -5,6 +5,7 @@ import { immer } from 'zustand/middleware/immer'
 import { READER_FLOW_MODES, type ReaderFlowMode } from '@/config/readerFlow'
 import { READER_PALETTE_IDS, type ReaderPaletteId } from '@/config/readerPalettes'
 import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
+import { useEventStore } from '@/db/events'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
 import { defaultTranslationForLanguage, findTranslation } from '@/lib/bibleTranslations'
 import i18n from '@/lib/i18n'
@@ -343,3 +344,14 @@ export const usePreferencesStore = create<PreferencesState>()(
     },
   })),
 )
+
+// Some preferences live in the event log (`syncedPreferences`), which can
+// change under this store: another tab's write, another device's log merged in.
+useEventStore.subscribe((state, previous) => {
+  if (state.preferences === previous.preferences) return
+  if (!usePreferencesStore.getState().hydrated) return
+  usePreferencesStore
+    .getState()
+    .hydrate()
+    .catch((err) => console.warn('[preferences] failed to follow the log:', err))
+})

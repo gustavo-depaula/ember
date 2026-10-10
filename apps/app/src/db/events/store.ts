@@ -21,9 +21,7 @@ CREATE INDEX IF NOT EXISTS idx_events_type ON events (type);
 CREATE INDEX IF NOT EXISTS idx_events_timestamp ON events (timestamp);
 `
 
-type Opening = Pick<EmberDb, 'execAsync' | 'getAllAsync' | 'runAsync'>
-
-export async function createEventsTable(db: Opening): Promise<void> {
+export async function createEventsTable(db: EmberDb): Promise<void> {
   await db.execAsync(eventsTableSql)
   const hasId = await db.getAllAsync("SELECT 1 FROM pragma_table_info('events') WHERE name = 'id'")
   if (hasId.length === 0) {
@@ -36,7 +34,7 @@ export async function createEventsTable(db: Opening): Promise<void> {
 // A log from before events had ids gets them here, once. Its completions were
 // numbered by a counter every device started at 1, so each takes the log's own
 // tag as well, and two devices' completions can't be taken for each other.
-async function identifyEvents(db: Opening): Promise<void> {
+async function identifyEvents(db: EmberDb): Promise<void> {
   const rows = await db.getAllAsync<StoredEvent>(
     "SELECT * FROM events WHERE id = '' ORDER BY sequence",
   )

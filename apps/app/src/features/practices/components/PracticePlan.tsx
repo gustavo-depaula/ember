@@ -17,6 +17,7 @@ import {
   useUpdateSlot,
 } from '@/features/plan-of-life'
 import { WhenSheet } from '@/features/plan-of-life/components/RuleSheets'
+import { defaultSlotOf } from '@/features/plan-of-life/defaultSlot'
 import { selectEnrollmentSchedule } from '@/features/plan-of-life/program'
 import { normalizeSchedule, parseSchedule, type Schedule } from '@/features/plan-of-life/schedule'
 
@@ -57,14 +58,8 @@ export function usePracticePlan(
   const [asking, setAsking] = useState<Asking>()
 
   const slotDefaults = manifest?.defaults?.slots?.[0]
-  const suggestedTime = slotDefaults?.time
-  const defaultTier = (slotDefaults?.tier as Tier | undefined) ?? 'ideal'
-  // Where the practice asks to stand in a plan it joins for the first time.
-  const ownSlot = {
-    tier: defaultTier,
-    time: suggestedTime,
-    sortOrder: manifest?.defaults?.sortOrder,
-  }
+  const ownSlot = defaultSlotOf(manifest)
+  const suggestedTime = ownSlot.time
 
   // An office arrives with every hour listed, each its own row to switch off.
   // Resolves false for any other practice, which the caller adds as one slot.
@@ -73,10 +68,10 @@ export function usePracticePlan(
     if (hours.length === 0) return false
     // A practice taken out of the plan keeps its slot, switched off; unpinned,
     // it becomes the first hour rather than a stray "whole office" row.
-    const placeholder = getSlotsForPractice(id).find((s) => !s.pins && s.enabled === 0)
+    const kept = getSlotsForPractice(id).find((s) => !s.pins && s.enabled === 0)
     const [first, ...rest] = hours
-    if (placeholder) updateSlot.mutate({ id: placeholder.id, data: { ...first, enabled: 1 } })
-    createPractice.mutate({ id, activeVariant: id, slots: placeholder ? rest : hours })
+    if (kept) updateSlot.mutate({ id: kept.id, data: { ...first, enabled: 1 } })
+    createPractice.mutate({ id, activeVariant: id, slots: kept ? rest : hours })
     return true
   }
 
@@ -142,7 +137,7 @@ export function usePracticePlan(
     const schedule = firstSlot
       ? parseSchedule(firstSlot.schedule)
       : normalizeSchedule(slotDefaults?.schedule ?? { type: 'daily' })
-    const base = { tier: firstSlot?.tier ?? defaultTier, schedule: JSON.stringify(schedule) }
+    const base = { tier: firstSlot?.tier ?? ownSlot.tier, schedule: JSON.stringify(schedule) }
     void addHours(planId, base).then((added) => {
       if (added) return
       // A slot kept from before comes back at its own hour.

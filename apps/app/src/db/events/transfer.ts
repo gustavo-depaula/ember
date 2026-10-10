@@ -33,8 +33,7 @@ export async function exportLog(): Promise<string> {
 /**
  * Adds the events of `file` this log doesn't hold yet and folds the whole log
  * again, since some may belong before events already here. Resolves to how
- * many were new. Stores that copy from the log (the preferences) and cached
- * queries are the caller's to refresh.
+ * many were new. Cached queries over the log are the caller's to refresh.
  */
 export async function mergeLog(file: string): Promise<number> {
   const parsed = JSON.parse(file) as Partial<LogFile>

@@ -2,17 +2,17 @@ import type { EmberDb } from '@/lib/db-shared/protocol'
 import { parseSlotKey } from '@/lib/slotKey'
 import type { AppEvent, StoredEvent } from './types'
 
-// Launch used to write a `PracticeCreated` and a switched-off `SlotAdded` for
-// every practice in the corpus, so a log could hold hundreds of events its
-// owner never caused. The plan now holds only what was added to it, and a log
-// from before is brought to the same shape here.
+// The plan holds only what its owner added to it. A log written when launch
+// filled it with every practice in the corpus — a `PracticeCreated` and a
+// switched-off `SlotAdded` each — is brought to that shape here.
 
-/** A bare id and its canonical twin name one practice. */
-function bothIds(practiceId: string): string[] {
-  return practiceId.includes('/') ? [practiceId] : [practiceId, `practice/${practiceId}`]
+// A bare id and its canonical twin name one practice; the corpus that says so
+// isn't loaded when the log opens.
+function key(practiceId: string): string {
+  return practiceId.replace(/^practice\//, '')
 }
 
-/** The practices an event shows its owner took up, or undefined for the placeholders launch wrote. */
+/** The practices an event shows its owner took up; undefined for one of launch's placeholders. */
 function taken(event: AppEvent): string[] | undefined {
   switch (event.type) {
     case 'PracticeCreated':
@@ -27,26 +27,25 @@ function taken(event: AppEvent): string[] | undefined {
     case 'SlotsReordered':
       return []
     default:
-      return 'practiceId' in event ? bothIds(event.practiceId) : []
+      return 'practiceId' in event ? [event.practiceId] : []
   }
 }
 
 /** Sequences of the placeholders written for practices never added to the plan nor prayed. */
-export function placeholderSequences(rows: { sequence: number; event: AppEvent }[]): number[] {
+function placeholderSequences(rows: { sequence: number; event: AppEvent }[]): number[] {
   const kept = new Set<string>()
   const placeholders: { sequence: number; practiceId: string }[] = []
   for (const { sequence, event } of rows) {
     const practices = taken(event)
     if (practices) {
-      for (const id of practices) kept.add(id)
+      for (const id of practices) kept.add(key(id))
     } else if ('practiceId' in event) {
       placeholders.push({ sequence, practiceId: event.practiceId })
     }
   }
-  return placeholders.filter((p) => !kept.has(p.practiceId)).map((p) => p.sequence)
+  return placeholders.filter((p) => !kept.has(key(p.practiceId))).map((p) => p.sequence)
 }
 
-/** Run before the first replay, so the store never holds what is dropped. */
 export async function dropPlaceholders(db: EmberDb): Promise<void> {
   const rows = await db.getAllAsync<StoredEvent>('SELECT * FROM events ORDER BY sequence')
   const sequences = placeholderSequences(

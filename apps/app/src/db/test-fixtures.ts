@@ -4,6 +4,7 @@
 import { format, subDays } from 'date-fns'
 
 import { getManifest } from '@/content/resolver'
+import { defaultSlotOf } from '@/features/plan-of-life/defaultSlot'
 import { parseSlotKey } from '@/lib/slotKey'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -11,7 +12,6 @@ import { nextId, useEventStore } from './events'
 import { emitBatch } from './events/store'
 import { getDb } from './instance'
 import { createPracticeWithSlot } from './repositories'
-import type { Tier } from './schema'
 
 const wipeSql = `
 DELETE FROM events;
@@ -48,16 +48,11 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
   // two transactions at once.
   for (const slotKey of fixtures.enableSlotKeys ?? []) {
     const { practiceId } = parseSlotKey(slotKey)
-    const defaults = getManifest(practiceId)?.defaults
-    const slot = defaults?.slots?.[0]
+    const manifest = getManifest(practiceId)
+    const schedule = manifest?.defaults?.slots?.[0]?.schedule
     await createPracticeWithSlot(
       { id: practiceId, activeVariant: practiceId },
-      {
-        tier: slot?.tier as Tier | undefined,
-        time: slot?.time,
-        schedule: slot && JSON.stringify(slot.schedule),
-        sortOrder: defaults?.sortOrder,
-      },
+      { ...defaultSlotOf(manifest), schedule: schedule && JSON.stringify(schedule) },
     )
   }
 

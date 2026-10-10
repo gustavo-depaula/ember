@@ -17,10 +17,10 @@ export async function adoptLegacyTables(db: EmberDb): Promise<void> {
       )
     ).map((row) => row.name),
   )
-  const keys = [...syncedPreferences]
-  const marks = keys.map(() => '?').join(', ')
+  const travelling = 'key IN (SELECT value FROM json_each(?))'
+  const keys = [JSON.stringify([...syncedPreferences])]
   const preferences = await db.getAllAsync<{ key: string; value: string }>(
-    `SELECT key, value FROM preferences WHERE key IN (${marks})`,
+    `SELECT key, value FROM preferences WHERE ${travelling}`,
     keys,
   )
   if (tables.size === 0 && preferences.length === 0) return
@@ -82,6 +82,6 @@ export async function adoptLegacyTables(db: EmberDb): Promise<void> {
     { sql: 'DROP TABLE IF EXISTS user_collection_items' },
     { sql: 'DROP TABLE IF EXISTS user_collections' },
     { sql: 'DROP TABLE IF EXISTS saved_items' },
-    { sql: `DELETE FROM preferences WHERE key IN (${marks})`, params: keys },
+    { sql: `DELETE FROM preferences WHERE ${travelling}`, params: keys },
   ])
 }
