@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-making-of-man",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Making of Man"
+    "en-US": "On the Making of Man",
+    "pt-BR": "Sobre a Criação do Homem"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Making of Man"
+        "en-US": "On the Making of Man",
+        "pt-BR": "Sobre a Criação do Homem"
       }
     }
   ]
