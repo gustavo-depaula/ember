@@ -1504,6 +1504,7 @@ export default {
     selectVariant: 'Selecionar {{name}}',
     previewVariant: 'Pré-visualizar {{name}}',
     form: 'Forma',
+    onThisPage: 'Nesta página',
     // date-fns pattern; the literal "de" is quoted so date-fns keeps it.
     headerDate: "EEEE, d 'de' MMMM",
   },

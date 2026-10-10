@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, YStack } from 'tamagui'
+import { PageColumn } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { CollectionHero, SectionList } from '@/features/collections'
@@ -78,15 +79,7 @@ export default function UserCollectionScreen() {
           />
         )}
 
-        <YStack
-          width="100%"
-          maxWidth={640}
-          alignSelf="center"
-          paddingHorizontal="$lg"
-          paddingTop="$lg"
-          gap="$lg"
-          backgroundColor="$background"
-        >
+        <PageColumn measure="wide" paddingTop="$lg" gap="$lg" backgroundColor="$background">
           {hasItems && sections ? (
             <SectionList collectionId={userCollectionRef(collectionId)} sections={sections} />
           ) : (
@@ -99,7 +92,7 @@ export default function UserCollectionScreen() {
               </Typography>
             </YStack>
           )}
-        </YStack>
+        </PageColumn>
       </Animated.ScrollView>
 
       <ManageCollectionSheet

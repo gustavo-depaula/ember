@@ -6,6 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useThemeName, View, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
+import { topTabBarClearance, useTabBarOnTop } from '@/components/tabAccessory'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { LiturgicalSeason } from '@/lib/liturgical'
 
@@ -42,6 +43,9 @@ export function LiturgicalHeader({
   // web/Android-no-notch the inset is 0, which would clip its top edge above
   // the viewport — add a virtual notch.
   const noNotchTopPad = useSafeAreaInsets().top === 0 ? 32 : 0
+  // An iPad's tab bar pushes the page down from the top; the ornament stays up
+  // in the corner, behind the bar, where it hangs clear of the date as on a phone.
+  const tabBarLift = useTabBarOnTop() ? topTabBarClearance : 0
   // "Segunda-feira" → "Segunda": every weekday stays clear of the ornament.
   const weekday = formatLocalized(date, 'EEEE').replace(/-feira$/, '')
 
@@ -49,7 +53,7 @@ export function LiturgicalHeader({
     <>
       <View
         position="absolute"
-        top={noNotchTopPad - (isDark ? 78 : 73)}
+        top={noNotchTopPad - tabBarLift - (isDark ? 78 : 73)}
         right={-16}
         zIndex={1}
         style={{ pointerEvents: 'none', transform: [{ scaleX: -1 }] }}

@@ -2,6 +2,8 @@ import { Stack } from 'expo-router'
 import { useTheme } from 'tamagui'
 
 import { GlassBackdropScope } from '@/components/glassBackdrop'
+import { TabBarInsets } from '@/components/TabBarInsets'
+import { useTabBarOnTop } from '@/components/tabAccessory'
 import { fullScreenRoutes } from '@/lib/fullScreenRoutes'
 
 // Shared array group: the same route files back all three tabs, each with its
@@ -20,11 +22,20 @@ export const unstable_settings = {
 // lands mid-transition instead, flickering the bar.
 export default function TabStackLayout() {
   const theme = useTheme()
+  const tabBarOnTop = useTabBarOnTop()
   return (
     <Stack
-      screenLayout={({ children }) => <GlassBackdropScope>{children}</GlassBackdropScope>}
+      screenLayout={({ children, route }) => (
+        <GlassBackdropScope>
+          <TabBarInsets skip={fullScreenRoutes.has(route.name)}>{children}</TabBarInsets>
+        </GlassBackdropScope>
+      )}
       screenOptions={({ route }) => ({
         headerShown: false,
+        // iOS fades a scroll view's top edge beneath the bar. Where the bar
+        // floats at the top and a page has columns, the fade draws over one
+        // column only, as a grey slab beside the others.
+        ...(tabBarOnTop ? { scrollEdgeEffects: { top: 'hidden' as const } } : undefined),
         // Paints the background so no white flash peeks mid-slide.
         contentStyle: { backgroundColor: theme.background?.val },
         unstable_nativeProps: { hidesBottomBarWhenPushed: fullScreenRoutes.has(route.name) },

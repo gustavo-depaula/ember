@@ -12,11 +12,11 @@ import {
   Waves,
 } from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
-import { StyleSheet, useWindowDimensions } from 'react-native'
+import { StyleSheet } from 'react-native'
 import Svg, { Defs, Rect } from 'react-native-svg'
 import { XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, useGridCells } from '@/components'
 import { Typography } from '@/components/typography'
 import { getAllManifests } from '@/content/resolver'
 import { ToneGradient } from '@/features/covers/parts'
@@ -45,18 +45,13 @@ function resolveIcon(id: string): LucideIcon {
   return BookOpen
 }
 
-const columns = 2
 const gutter = 14
-
-function useCardSize(): number {
-  const { width } = useWindowDimensions()
-  const content = Math.min(width, 640) - 24 * 2
-  return Math.floor((content - gutter * (columns - 1)) / columns)
-}
+// Two across a phone; a wider column takes more tiles, none smaller than this.
+const smallestCard = 170
 
 export function ThemedReadings() {
   const { t } = useTranslation()
-  const size = useCardSize()
+  const size = useGridCells(smallestCard, gutter, 2).cell
 
   // Drop Gospel of the Day — it already has its own hero card above this grid.
   // `endsWith` covers bare ids and any future namespace prefix (`practice/…`).

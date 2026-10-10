@@ -2,10 +2,11 @@ import { type Href, useLocalSearchParams, useRouter } from 'expo-router'
 import { Check, ChevronDown, ChevronRight, Search } from 'lucide-react-native'
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Pressable, ScrollView, useWindowDimensions } from 'react-native'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
+import { useWidthClass } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import type { TocNode } from '@/content/manifestTypes'
@@ -38,6 +39,7 @@ import { bookCoverFormat } from '@/features/covers'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
+import { pageGutter, pageOuterWidth } from '@/lib/layout'
 import { formatSoftRelative } from '@/lib/softRelative'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -57,6 +59,11 @@ export default function BookDetailScreen() {
   const bottomClearance = useBottomClearance()
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const background = theme.background?.val ?? '#000000'
+
+  // With room for it the cover and its actions hold the left while the
+  // contents scroll, as the website's book page does.
+  const { expanded: split } = useWidthClass()
+  const { width: windowWidth } = useWindowDimensions()
 
   const [addingToCollection, setAddingToCollection] = useState(false)
   const [browsingToc, setBrowsingToc] = useState(false)
@@ -189,94 +196,148 @@ export default function BookDetailScreen() {
 
   const hasToc = !!book?.toc && book.toc.length > 0
 
+  const hero = (
+    <BookHero
+      name={name}
+      author={author}
+      ctaLabel={ctaLabel}
+      tone={toneByIndex(toneIndexForId(bookRef))}
+      format={bookCoverFormat(entry.cover)}
+      scrollY={scrollY}
+      readHref={readerHref()}
+      panel={split}
+    />
+  )
+  const actions = (
+    <LibraryActionRow
+      itemId={bookRef}
+      kind="book"
+      onAddToCollection={() => setAddingToCollection(true)}
+    />
+  )
+  const progress = progressFraction > 0 && (
+    <BookProgressLine
+      fraction={progressFraction}
+      currentLeafIndex={currentLeafIndex}
+      totalLeaves={leaves.length}
+      completedCount={completed.size}
+      minutesRemaining={minutesRemaining}
+      minutesRead={readingTimeMs > 60_000 ? Math.round(readingTimeMs / 60_000) : undefined}
+      streakDays={streakDays > 1 ? streakDays : undefined}
+      updatedAt={position?.updatedAt}
+      label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
+    />
+  )
+  const sumario = hasToc ? (
+    <SumarioHeading
+      showExpandControls={showTocExpandControls}
+      showSearch={tocTooLarge}
+      onExpandAll={expandAllToc}
+      onCollapseAll={collapseAllToc}
+      onSearch={() => setBrowsingToc(true)}
+    />
+  ) : null
+  const tocList = {
+    data: flatToc,
+    keyExtractor: tocKeyExtractor,
+    getItemLayout: tocGetItemLayout,
+    renderItem: ({ item }: { item: FlatTocItem }) => (
+      <TocTreeRow
+        item={item}
+        lang={lang}
+        currentChapterId={resumeChapterId}
+        completed={completed}
+        leafCounts={tocLeafCounts}
+        completedCounts={tocCompletedCounts}
+        buildHref={readerHref}
+        onToggle={toggleTocExpand}
+      />
+    ),
+    contentInsetAdjustmentBehavior: 'never',
+  } as const
+
   return (
     <>
-      {/* One virtualized list for the whole screen: the hero + meta live in the
-          header so the collapsible Sumário can virtualize (a list can't nest in
-          a ScrollView). onScroll still feeds the hero's parallax. */}
-      <Animated.FlatList
-        data={flatToc}
-        keyExtractor={tocKeyExtractor}
-        getItemLayout={tocGetItemLayout}
-        renderItem={({ item }) => (
-          <TocTreeRow
-            item={item}
-            lang={lang}
-            currentChapterId={resumeChapterId}
-            completed={completed}
-            leafCounts={tocLeafCounts}
-            completedCounts={tocCompletedCounts}
-            buildHref={readerHref}
-            onToggle={toggleTocExpand}
+      {split ? (
+        <XStack
+          flex={1}
+          width="100%"
+          maxWidth={pageOuterWidth(windowWidth - insets.left - insets.right, 'wide')}
+          alignSelf="center"
+          justifyContent="center"
+          paddingHorizontal={pageGutter}
+          gap={72}
+          backgroundColor="$background"
+        >
+          <ScrollView
+            style={{ flexGrow: 0, width: asideWidth }}
+            contentContainerStyle={{
+              paddingTop: insets.top + pageGutter,
+              paddingBottom: insets.bottom + bottomClearance + pageGutter,
+              gap: 24,
+            }}
+            contentInsetAdjustmentBehavior="never"
+            showsVerticalScrollIndicator={false}
+          >
+            {hero}
+            {actions}
+            {progress}
+          </ScrollView>
+          <Animated.FlatList
+            {...tocList}
+            style={{ flex: 1, maxWidth: bodyMaxWidth }}
+            contentContainerStyle={{
+              paddingTop: insets.top + pageGutter,
+              paddingBottom: insets.bottom + bottomClearance + pageGutter,
+            }}
+            showsVerticalScrollIndicator={false}
+            ListHeaderComponent={
+              <YStack gap="$lg">
+                {description && <PrologueProse text={description} />}
+                {sumario}
+              </YStack>
+            }
           />
-        )}
-        onScroll={onScroll}
-        scrollEventThrottle={16}
-        style={{ flex: 1, backgroundColor: background }}
-        contentContainerStyle={{
-          paddingBottom: insets.bottom + bottomClearance,
-        }}
-        contentInsetAdjustmentBehavior="never"
-        ListHeaderComponent={
-          <>
-            <BookHero
-              name={name}
-              author={author}
-              ctaLabel={ctaLabel}
-              tone={toneByIndex(toneIndexForId(bookRef))}
-              format={bookCoverFormat(entry.cover)}
-              scrollY={scrollY}
-              readHref={readerHref()}
-            />
+        </XStack>
+      ) : (
+        /* One virtualized list for the whole screen: the hero + meta live in the
+          header so the collapsible Sumário can virtualize (a list can't nest in
+          a ScrollView). onScroll still feeds the hero's parallax. */
+        <Animated.FlatList
+          {...tocList}
+          onScroll={onScroll}
+          scrollEventThrottle={16}
+          style={{ flex: 1, backgroundColor: background }}
+          contentContainerStyle={{
+            paddingBottom: insets.bottom + bottomClearance,
+          }}
+          ListHeaderComponent={
+            <>
+              {hero}
 
-            {/* Opaque column over the hero's lower bleed; paddingTop clears the
+              {/* Opaque column over the hero's lower bleed; paddingTop clears the
                 floating capsule that straddles the seam. */}
-            <YStack
-              width="100%"
-              maxWidth={640}
-              alignSelf="center"
-              paddingHorizontal="$lg"
-              paddingTop={40}
-              gap="$lg"
-              backgroundColor="$background"
-            >
-              <LibraryActionRow
-                itemId={bookRef}
-                kind="book"
-                onAddToCollection={() => setAddingToCollection(true)}
-              />
+              <YStack
+                width="100%"
+                maxWidth={640}
+                alignSelf="center"
+                paddingHorizontal="$lg"
+                paddingTop={40}
+                gap="$lg"
+                backgroundColor="$background"
+              >
+                {actions}
 
-              {progressFraction > 0 && (
-                <BookProgressLine
-                  fraction={progressFraction}
-                  currentLeafIndex={currentLeafIndex}
-                  totalLeaves={leaves.length}
-                  completedCount={completed.size}
-                  minutesRemaining={minutesRemaining}
-                  minutesRead={
-                    readingTimeMs > 60_000 ? Math.round(readingTimeMs / 60_000) : undefined
-                  }
-                  streakDays={streakDays > 1 ? streakDays : undefined}
-                  updatedAt={position?.updatedAt}
-                  label={resumeChapterId ? titleLookup.get(resumeChapterId) : undefined}
-                />
-              )}
+                {progress}
 
-              {description && <PrologueProse text={description} />}
+                {description && <PrologueProse text={description} />}
 
-              {hasToc ? (
-                <SumarioHeading
-                  showExpandControls={showTocExpandControls}
-                  showSearch={tocTooLarge}
-                  onExpandAll={expandAllToc}
-                  onCollapseAll={collapseAllToc}
-                  onSearch={() => setBrowsingToc(true)}
-                />
-              ) : null}
-            </YStack>
-          </>
-        }
-      />
+                {sumario}
+              </YStack>
+            </>
+          }
+        />
+      )}
 
       <AddToCollectionSheet
         itemRef={bookRef}
@@ -305,6 +366,9 @@ export default function BookDetailScreen() {
 }
 
 const tocRowHeight = 56
+// The website's split: a 320 aside beside a body of at most 700.
+const asideWidth = 320
+const bodyMaxWidth = 700
 
 function tocKeyExtractor(item: FlatTocItem) {
   return item.node.id
@@ -382,6 +446,8 @@ function SumarioHeading({
 
 /** Constrains a TOC row to the same centered column the header meta uses. */
 function TocRowFrame({ children }: { children: ReactNode }) {
+  // Split, the list is already the body column.
+  if (useWidthClass().expanded) return children
   return (
     <YStack
       width="100%"

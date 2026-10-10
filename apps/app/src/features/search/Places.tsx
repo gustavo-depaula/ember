@@ -1,11 +1,11 @@
 import type { Href } from 'expo-router'
 import type { ReactNode } from 'react'
 import { useTranslation } from 'react-i18next'
-import { StyleSheet, Text, useWindowDimensions, View } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 import Svg, { Defs, LinearGradient, Path, Rect, Stop } from 'react-native-svg'
 import { XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ZoomLink } from '@/components'
+import { AnimatedPressable, usePageWidth, ZoomLink } from '@/components'
 import { getEntry } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { PracticeCard } from '@/features/covers'
@@ -13,9 +13,6 @@ import { coverFonts, coverInk } from '@/features/covers/parts'
 import { jewelTones, toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
 
-// ScreenLayout caps content at 640 and pads $lg (24) each side.
-const maxContentWidth = 640
-const pagePadding = 24
 const gutter = 16
 const noticeHeight = 132
 
@@ -28,8 +25,7 @@ export function Places() {
   const { t } = useTranslation()
   // The Rosary's name comes from the catalog, which warms in after launch.
   useCatalogVersion()
-  const { width } = useWindowDimensions()
-  const content = Math.min(width, maxContentWidth) - pagePadding * 2
+  const content = usePageWidth()
   const cardSize = Math.floor((content - gutter * 2) / 3)
 
   const cards = [

@@ -7,6 +7,7 @@ export {
   NavigationMedallion,
   OfflineCoverageLine,
   openFidelity,
+  TodayPlanPanel,
   TodayPlanSheet,
   TodayRow,
 } from './components'

@@ -6,7 +6,9 @@ import {
   FadeInView,
   PageBreakOrnament,
   ScreenLayout,
+  Split,
   Typography,
+  useWidthClass,
   VotiveWall,
 } from '@/components'
 import { DailyMeditations, ExploreFeatured, PrayNowCard, usePrayNow } from '@/features/explore'
@@ -16,6 +18,7 @@ import {
   FidelitySheet,
   LiturgicalHeader,
   openFidelity,
+  TodayPlanPanel,
   TodayPlanSheet,
   TodayRow,
   useTodayPlan,
@@ -42,71 +45,99 @@ export default function HomeScreen() {
 
   const totalSlots = todaySlots.length
   const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
+  // With room for a second column the day's plan stands on the page, as the
+  // liturgy of the day does beside the website's home.
+  const { expanded } = useWidthClass()
+
+  const header = (
+    <LiturgicalHeader
+      date={now}
+      season={season}
+      today={anchorDate}
+      onSelectDate={(date) => setTimeTravelEphemeral(date === anchorDate ? undefined : date)}
+    />
+  )
+  const shelves = (
+    <YStack gap="$lg">
+      <FadeInView>
+        <ExploreFeatured leading={prayNow && <PrayNowCard {...prayNow} />} />
+      </FadeInView>
+
+      <FadeInView index={1}>
+        <TodayRow plan={plan} showPlan={!expanded} />
+      </FadeInView>
+
+      <ContinueRow />
+
+      <DailyMeditations />
+
+      <EventsRow />
+    </YStack>
+  )
+  const fidelityWall = todaySlots.length > 0 && (
+    <FadeInView index={3}>
+      <AnimatedPressable
+        onPress={openFidelity}
+        accessibilityRole="button"
+        accessibilityLabel={t('a11y.openFidelity')}
+      >
+        <YStack alignItems="center" gap="$sm" paddingTop="$lg">
+          <Typography variant="label" fontSize="$2">
+            {t('home.fidelity')}
+          </Typography>
+          <VotiveWall data={fidelity?.wall ?? []} weeks={fidelityWeeks} fidelity />
+          {completedCount === totalSlots && (
+            <Typography variant="sacred-title" fontSize="$3" color="$accent">
+              Pax Christi.
+            </Typography>
+          )}
+          {fidelity && fidelity.prayedDays > 0 && (
+            <YStack alignItems="center">
+              {fidelity.streak > 1 && (
+                <Typography tone="muted" fontSize="$1">
+                  {t('home.streakDays', { count: fidelity.streak })}
+                </Typography>
+              )}
+              <Typography tone="muted" fontSize="$1">
+                {t('home.prayedDays', {
+                  prayed: fidelity.prayedDays,
+                  count: fidelity.countedDays,
+                })}
+              </Typography>
+            </YStack>
+          )}
+        </YStack>
+      </AnimatedPressable>
+    </FadeInView>
+  )
 
   return (
     <View flex={1}>
-      <ScreenLayout>
+      <ScreenLayout measure="wide">
         <YStack gap="$lg" paddingBottom="$lg">
-          <YStack gap="$md">
-            <LiturgicalHeader
-              date={now}
-              season={season}
-              today={anchorDate}
-              onSelectDate={(date) =>
-                setTimeTravelEphemeral(date === anchorDate ? undefined : date)
-              }
-            />
-
-            <FadeInView>
-              <ExploreFeatured leading={prayNow && <PrayNowCard {...prayNow} />} />
-            </FadeInView>
-          </YStack>
-
-          <FadeInView index={1}>
-            <TodayRow plan={plan} />
-          </FadeInView>
-
-          <ContinueRow />
-
-          <DailyMeditations />
-
-          <EventsRow />
-
-          {todaySlots.length > 0 && (
-            <FadeInView index={3}>
-              <AnimatedPressable
-                onPress={openFidelity}
-                accessibilityRole="button"
-                accessibilityLabel={t('a11y.openFidelity')}
+          {expanded ? (
+            <>
+              {header}
+              <Split
+                asideSide="right"
+                asideWidth={340}
+                aside={
+                  // Clear of the corner ornament, which hangs over this column.
+                  <YStack gap="$lg" paddingTop={72}>
+                    <TodayPlanPanel plan={plan} />
+                    {fidelityWall}
+                  </YStack>
+                }
               >
-                <YStack alignItems="center" gap="$sm" paddingTop="$lg">
-                  <Typography variant="label" fontSize="$2">
-                    {t('home.fidelity')}
-                  </Typography>
-                  <VotiveWall data={fidelity?.wall ?? []} weeks={fidelityWeeks} fidelity />
-                  {completedCount === totalSlots && (
-                    <Typography variant="sacred-title" fontSize="$3" color="$accent">
-                      Pax Christi.
-                    </Typography>
-                  )}
-                  {fidelity && fidelity.prayedDays > 0 && (
-                    <YStack alignItems="center">
-                      {fidelity.streak > 1 && (
-                        <Typography tone="muted" fontSize="$1">
-                          {t('home.streakDays', { count: fidelity.streak })}
-                        </Typography>
-                      )}
-                      <Typography tone="muted" fontSize="$1">
-                        {t('home.prayedDays', {
-                          prayed: fidelity.prayedDays,
-                          count: fidelity.countedDays,
-                        })}
-                      </Typography>
-                    </YStack>
-                  )}
-                </YStack>
-              </AnimatedPressable>
-            </FadeInView>
+                {shelves}
+              </Split>
+            </>
+          ) : (
+            <>
+              <YStack gap="$md">{header}</YStack>
+              {shelves}
+              {fidelityWall}
+            </>
           )}
 
           <PageBreakOrnament />

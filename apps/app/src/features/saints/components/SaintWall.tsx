@@ -3,8 +3,8 @@ import { useFocusEffect } from 'expo-router'
 import type { ReactElement } from 'react'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { useWindowDimensions } from 'react-native'
 import { View, XStack, YStack } from 'tamagui'
+import { useGridCells, useWidthClass } from '@/components'
 import { Typography } from '@/components/typography'
 import type { SaintEntry } from '../data/catalog'
 import { useHeldCards } from '../data/collection'
@@ -16,12 +16,14 @@ import { SaintTile } from './SaintTile'
 export type SaintGrouping = 'shelves' | 'calendar' | 'collected' | 'alpha' | 'flat'
 
 const gap = 12
-const columns = 3
+// Three across a phone; a wider page takes more cards at about a phone's size.
+const phoneColumns = 3
+const smallestCard = 110
 
 type Section = { key: string; title: string; data: SaintEntry[][] }
 
 // Chunk a flat list into fixed-width rows (no native multi-column grid).
-function toRows(items: SaintEntry[]): SaintEntry[][] {
+function toRows(items: SaintEntry[], columns: number): SaintEntry[][] {
   const rows: SaintEntry[][] = []
   for (let i = 0; i < items.length; i += columns) rows.push(items.slice(i, i + columns))
   return rows
@@ -50,13 +52,18 @@ function buildSections(
   held: Map<string, Copy[]> | undefined,
   lang: string,
   t: (key: string) => string,
+  columns: number,
 ): Section[] {
   if (grouping === 'collected') {
     const collected = saints.filter((s) => held?.has(s.id))
     const rest = saints.filter((s) => !held?.has(s.id))
     return [
-      { key: 'collected', title: t('saints.group.collectedLabel'), data: toRows(collected) },
-      { key: 'notYet', title: t('saints.group.notYet'), data: toRows(rest) },
+      {
+        key: 'collected',
+        title: t('saints.group.collectedLabel'),
+        data: toRows(collected, columns),
+      },
+      { key: 'notYet', title: t('saints.group.notYet'), data: toRows(rest, columns) },
     ].filter((s) => s.data.length > 0)
   }
 
@@ -75,7 +82,7 @@ function buildSections(
       .map(([letter, items]) => ({
         key: `alpha-${letter}`,
         title: letter,
-        data: toRows(items),
+        data: toRows(items, columns),
       }))
   }
 
@@ -97,7 +104,7 @@ function buildSections(
   return [...buckets.entries()].map(([key, { title, items }]) => ({
     key,
     title,
-    data: toRows(items),
+    data: toRows(items, columns),
   }))
 }
 
@@ -123,20 +130,32 @@ export function SaintWall({
   ListHeaderComponent?: ReactElement
 }) {
   const { t, i18n } = useTranslation()
-  const { width: screenWidth } = useWindowDimensions()
   const setOrderedIds = useSaintsViewStore((s) => s.setOrderedIds)
   // Only the collected grouping reads what's held: a redeem needn't rebuild the others.
   const held = useHeldCards()
   const heldFor = grouping === 'collected' || grouping === 'shelves' ? held : undefined
 
-  const contentWidth = Math.min(screenWidth - 48, 640)
-  const itemWidth = (contentWidth - gap * (columns - 1)) / columns
+  const { columns, cell: itemWidth } = useGridCells(smallestCard, gap, phoneColumns)
+  // A shelf is a row to swipe on a phone; on a wide window it stands in full.
+  const { medium } = useWidthClass()
 
   // Build the sections and the flat display order in one pass: the pager swipes
   // in the same order the wall currently shows (tiles navigate by id).
   const { sections, shelves, orderedIds } = useMemo(() => {
     if (grouping === 'shelves' && !searching) {
       const rows = shelfRows(saints, heldFor ?? new Map())
+      if (medium) {
+        const built = rows.map((row) => ({
+          key: row.shelf,
+          title: t(`saints.group.shelf.${row.shelf}`),
+          data: toRows(row.items, columns),
+        }))
+        return {
+          sections: built,
+          shelves: undefined,
+          orderedIds: rows.flatMap((r) => r.items.map((e) => e.id)),
+        }
+      }
       return {
         sections: [],
         shelves: rows,
@@ -144,16 +163,17 @@ export function SaintWall({
       }
     }
     const built = (() => {
-      if (searching) return [{ key: 'results', title: t('saints.results'), data: toRows(saints) }]
-      if (grouping === 'flat') return [{ key: 'flat', title: '', data: toRows(saints) }]
-      return buildSections(saints, grouping, heldFor, i18n.language || 'en-US', t)
+      if (searching)
+        return [{ key: 'results', title: t('saints.results'), data: toRows(saints, columns) }]
+      if (grouping === 'flat') return [{ key: 'flat', title: '', data: toRows(saints, columns) }]
+      return buildSections(saints, grouping, heldFor, i18n.language || 'en-US', t, columns)
     })()
     return {
       sections: built,
       shelves: undefined,
       orderedIds: built.flatMap((s) => s.data.flat().map((e) => e.id)),
     }
-  }, [saints, grouping, heldFor, searching, i18n.language, t])
+  }, [saints, grouping, heldFor, searching, i18n.language, t, columns, medium])
 
   // On focus too: a shelf's screen publishes its own order over the album's.
   useFocusEffect(

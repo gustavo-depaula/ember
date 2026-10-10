@@ -6,7 +6,14 @@ import { FlatList, Pressable, ScrollView } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { XStack, YStack } from 'tamagui'
 
-import { PageHeader, Typography } from '@/components'
+import {
+  HubFrame,
+  PageHeader,
+  RailBlock,
+  RailLink,
+  Typography,
+  useHubIndexShown,
+} from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { bareId, getEntry, isMetaId } from '@/content/contentIndex'
 import { minutesText, practiceMinutes } from '@/content/duration'
@@ -47,6 +54,8 @@ export default function AllPrayersScreen() {
   const bottomClearance = useBottomClearance()
   const [formKey, setFormKey] = useState<string>()
   const [devotionKey, setDevotionKey] = useState<string>()
+  // With room for it the two facets stand down the side, as on the website.
+  const sideIndex = useHubIndexShown()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as manifests warm; titles localize per language.
   const prayers = useMemo<Prayer[]>(
@@ -97,14 +106,34 @@ export default function AllPrayersScreen() {
   )
 
   return (
-    <YStack flex={1} backgroundColor="$background">
+    <HubFrame
+      index={
+        <>
+          <RailBlock first>
+            <FacetList
+              allLabel={t('search.allForms')}
+              facets={forms}
+              labelFor={(key) => t(`search.form.${key}`)}
+              selected={formKey}
+              onSelect={setFormKey}
+            />
+          </RailBlock>
+          <RailBlock>
+            <FacetList
+              allLabel={t('search.allDevotions')}
+              facets={devotions}
+              labelFor={(key) => t(`search.devotion.${key}`)}
+              selected={devotionKey}
+              onSelect={setDevotionKey}
+            />
+          </RailBlock>
+        </>
+      }
+    >
       <Stack.Screen options={{ title: t('search.prayers') }} />
       <FlatList
         style={{ flex: 1 }}
         contentContainerStyle={{
-          width: '100%',
-          maxWidth: 640,
-          alignSelf: 'center',
           paddingHorizontal: 24,
           paddingTop: insets.top,
           paddingBottom: insets.bottom + bottomClearance + 24,
@@ -116,20 +145,24 @@ export default function AllPrayersScreen() {
         ListHeaderComponent={
           <YStack paddingTop="$lg" paddingBottom="$md" gap="$sm">
             <PageHeader title={t('search.prayers')} />
-            <FacetRow
-              allLabel={t('search.allForms')}
-              facets={forms}
-              labelFor={(key) => t(`search.form.${key}`)}
-              selected={formKey}
-              onSelect={setFormKey}
-            />
-            <FacetRow
-              allLabel={t('search.allDevotions')}
-              facets={devotions}
-              labelFor={(key) => t(`search.devotion.${key}`)}
-              selected={devotionKey}
-              onSelect={setDevotionKey}
-            />
+            {!sideIndex && (
+              <>
+                <FacetRow
+                  allLabel={t('search.allForms')}
+                  facets={forms}
+                  labelFor={(key) => t(`search.form.${key}`)}
+                  selected={formKey}
+                  onSelect={setFormKey}
+                />
+                <FacetRow
+                  allLabel={t('search.allDevotions')}
+                  facets={devotions}
+                  labelFor={(key) => t(`search.devotion.${key}`)}
+                  selected={devotionKey}
+                  onSelect={setDevotionKey}
+                />
+              </>
+            )}
             <Typography variant="annotation" paddingTop="$sm">
               {t('catalog.prayerCount', { count: shown.length })}
             </Typography>
@@ -143,7 +176,7 @@ export default function AllPrayersScreen() {
         initialNumToRender={14}
         showsVerticalScrollIndicator={false}
       />
-    </YStack>
+    </HubFrame>
   )
 }
 
@@ -170,20 +203,33 @@ function PrayerTile({ prayer }: { prayer: Prayer }) {
   )
 }
 
-/** One line of typographic options; the chosen one takes the gold and an underline. */
-function FacetRow({
-  allLabel,
-  facets,
-  labelFor,
-  selected,
-  onSelect,
-}: {
+type FacetProps = {
   allLabel: string
   facets: Facet[]
   labelFor: (key: string) => string
   selected: string | undefined
   onSelect: (key: string | undefined) => void
-}) {
+}
+
+/** The same options down a side column, one to a line. */
+function FacetList({ allLabel, facets, labelFor, selected, onSelect }: FacetProps) {
+  const options = [
+    { key: undefined, label: allLabel },
+    ...facets.map((f) => ({ key: f.key, label: labelFor(f.key) })),
+  ]
+  return options.map(({ key, label }) => (
+    <RailLink
+      key={key ?? 'all'}
+      label={label}
+      role="radio"
+      selected={key === selected}
+      onPress={() => onSelect(key)}
+    />
+  ))
+}
+
+/** One line of typographic options; the chosen one takes the gold and an underline. */
+function FacetRow({ allLabel, facets, labelFor, selected, onSelect }: FacetProps) {
   const options = [
     { key: undefined, label: allLabel },
     ...facets.map((f) => ({ key: f.key, label: labelFor(f.key) })),

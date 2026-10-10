@@ -1,4 +1,4 @@
-import { Platform } from 'react-native'
+import { Platform, useWindowDimensions } from 'react-native'
 import { create } from 'zustand'
 
 // Native iOS 26 glass tab bar content height + breathing room. Every screen is
@@ -17,9 +17,24 @@ export function setTabAccessoryHeight(height: number): void {
   useTabAccessoryStore.setState({ height })
 }
 
+// iPadOS floats the tab bar as a pill at the top of a regular-width window; in
+// a compact one (Split View, Slide Over, a narrow Stage Manager window) it
+// returns to the bottom, as on iPhone. UIKit decides by size class, which RN
+// doesn't expose: regular begins between 640 and 678pt on every iPad.
+const regularWidth = 660
+/** The floating pill's height and the air around it, below the status bar. */
+export const topTabBarClearance = 52
+
+/** Whether the system tab bar is floating at the top of the window (iPad, Mac). */
+export function useTabBarOnTop(): boolean {
+  const { width } = useWindowDimensions()
+  return Platform.OS === 'ios' && Platform.isPad && width >= regularWidth
+}
+
 /** Space (excluding the safe-area inset) scroll content must reserve at the bottom. */
 export function useBottomClearance(): number {
-  return nativeTabBarClearance + useTabAccessoryStore((s) => s.height)
+  const accessory = useTabAccessoryStore((s) => s.height)
+  return (useTabBarOnTop() ? 0 : nativeTabBarClearance) + accessory
 }
 
 // A sheet set into a screen (the Bible's half page on Android) stands where

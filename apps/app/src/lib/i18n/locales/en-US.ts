@@ -1497,6 +1497,7 @@ export default {
     selectVariant: 'Select {{name}}',
     previewVariant: 'Preview {{name}}',
     form: 'Form',
+    onThisPage: 'On this page',
     headerDate: 'EEEE, MMMM d',
   },
 

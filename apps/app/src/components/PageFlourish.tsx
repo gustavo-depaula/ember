@@ -1,14 +1,11 @@
 import { Image, type ImageSource } from 'expo-image'
-import { useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useThemeName, View } from 'tamagui'
 
-// Matches ScreenLayout's content-column maxWidth so the banner tracks (but never
-// exceeds) the column on web/desktop while bleeding edge-to-edge on phones.
-const maxWidth = 640
-// Mirrors ScreenLayout's paddingHorizontal="$lg" (space.lg = 24). Used as a raw
-// number because the negative space token ("$-lg") does not resolve on margins here.
-const columnPaddingX = 24
+import { columnWidth, pageGutter } from '@/lib/layout'
+
+import { usePageWidth } from './pageWidth'
+
 // Each PNG has transparent padding baked around the art. Overscanning the banner
 // past the column width pushes that side padding off-screen so the art itself
 // bleeds out the lateral edges; the banner is centered so it overflows evenly.
@@ -35,18 +32,19 @@ export function PageFlourish({
   lightAspectRatio?: number
 }) {
   const insets = useSafeAreaInsets()
-  const { width: windowWidth } = useWindowDimensions()
+  const pageWidth = usePageWidth()
   const isDark = useThemeName().startsWith('dark')
   const source = isDark ? dark : (light ?? dark)
   const ratio = isDark ? aspectRatio : (lightAspectRatio ?? aspectRatio)
 
   // Explicit width (not flex-stretch) so the negative side margin can pull the
   // banner clear of ScreenLayout's $lg padding and overscan past the screen edges.
-  const base = Math.min(windowWidth, maxWidth)
+  // The banner tracks the column, gutters included, but never outgrows the
+  // reading column: on a phone it bleeds edge to edge, on a wide page it hangs
+  // centred.
+  const base = Math.min(pageWidth + pageGutter * 2, columnWidth)
   const width = base * overscan
-  // Center the overscanned banner on the column: shift left by half the overflow,
-  // then by the column padding so x=0 lands at the screen edge.
-  const marginLeft = (base - width) / 2 - columnPaddingX
+  const marginLeft = (pageWidth - width) / 2
 
   return (
     <View

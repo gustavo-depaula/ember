@@ -14,6 +14,8 @@ const gap = 12
 // affordance — and every card, Pray now included, keeps the same portrait shape.
 const cardShare = 0.7
 const cardAspect = 1.36
+// On a wide column the cards stop growing and more of them show.
+const widestCard = 300
 
 /**
  * The editorial hero: feature blocks running to the screen's edges, with the
@@ -35,7 +37,7 @@ export function FeaturedCarousel({
   const count = blocks.length + heads.length
   if (count === 0) return null
 
-  const cardW = Math.round(containerW * cardShare)
+  const cardW = Math.min(Math.round(containerW * cardShare), widestCard)
   const cardH = Math.round(cardW * cardAspect)
   const interval = cardW + gap
 

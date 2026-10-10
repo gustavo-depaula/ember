@@ -33,7 +33,7 @@ export default function SaintsScreen() {
 
   return (
     <View flex={1} backgroundColor="$background">
-      <ScreenLayout>
+      <ScreenLayout measure="wide">
         <SaintWall
           saints={filtered}
           grouping={grouping}
@@ -91,8 +91,12 @@ const styles = StyleSheet.create({
     left: 16,
     right: 16,
     bottom: 0,
+    alignItems: 'center',
   },
+  // Full width on a phone; on a wide window a field, not a bar.
   pill: {
+    width: '100%',
+    maxWidth: 480,
     borderRadius: 26,
     overflow: 'hidden',
   },

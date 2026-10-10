@@ -5,6 +5,7 @@ import { View, YStack } from 'tamagui'
 import type { Primitive } from '@/content/primitives'
 import { SungBlock } from '@/features/chant/SungBlock'
 import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
+import { OutlineMark } from './outline'
 import { PrayerLines } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
 import { CelebrationBanner } from './prayer/CelebrationBanner'
@@ -67,14 +68,21 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
       )
 
     case 'heading':
-      if (!primitive.note) return <SectionHeading>{primitive.text.primary}</SectionHeading>
+      if (!primitive.note)
+        return (
+          <OutlineMark title={primitive.text.primary}>
+            <SectionHeading>{primitive.text.primary}</SectionHeading>
+          </OutlineMark>
+        )
       return (
-        <YStack gap="$xs" paddingBottom="$sm">
-          <SectionHeading>{primitive.text.primary}</SectionHeading>
-          <Typography variant="section-title" fontSize="$3" tone="muted">
-            {primitive.note.primary}
-          </Typography>
-        </YStack>
+        <OutlineMark title={primitive.text.primary}>
+          <YStack gap="$xs" paddingBottom="$sm">
+            <SectionHeading>{primitive.text.primary}</SectionHeading>
+            <Typography variant="section-title" fontSize="$3" tone="muted">
+              {primitive.note.primary}
+            </Typography>
+          </YStack>
+        </OutlineMark>
       )
 
     case 'rubric':
@@ -160,7 +168,12 @@ function renderCallout(p: Extract<Primitive, { type: 'callout' }>) {
     case 'liturgical-color':
       return <LiturgicalColorBlock color={p.color ?? 'white'} label={p.title ?? { primary: '' }} />
     case 'section-marker':
-      return <SectionMarker title={p.title ?? { primary: '' }} color={p.color} />
+      if (!p.title) return <SectionMarker title={{ primary: '' }} color={p.color} />
+      return (
+        <OutlineMark title={p.title.primary}>
+          <SectionMarker title={p.title} color={p.color} />
+        </OutlineMark>
+      )
   }
 }
 

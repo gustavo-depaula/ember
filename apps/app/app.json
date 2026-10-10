@@ -9,7 +9,7 @@
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#0E0D0C",
     "ios": {
-      "supportsTablet": false,
+      "supportsTablet": true,
       "icon": {
         "light": "./assets/icon.png",
         "dark": "./assets/icon-dark.png",

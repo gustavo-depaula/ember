@@ -4,6 +4,7 @@ import { useTranslation } from 'react-i18next'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
+import { PageColumn } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
@@ -95,15 +96,7 @@ export default function CollectionDetailScreen() {
       />
 
       {/* Opaque column over the hero's lower bleed; holds the reading content. */}
-      <YStack
-        width="100%"
-        maxWidth={640}
-        alignSelf="center"
-        paddingHorizontal="$lg"
-        paddingTop="$lg"
-        gap="$lg"
-        backgroundColor="$background"
-      >
+      <PageColumn measure="wide" paddingTop="$lg" gap="$lg" backgroundColor="$background">
         {prologue && <PrologueProse text={prologue} />}
 
         {sections && sections.length > 0 && (
@@ -111,7 +104,7 @@ export default function CollectionDetailScreen() {
         )}
 
         {!sections && isPending && <CollectionSkeleton />}
-      </YStack>
+      </PageColumn>
     </Animated.ScrollView>
   )
 }

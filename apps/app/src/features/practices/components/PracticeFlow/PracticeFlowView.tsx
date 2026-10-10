@@ -2,9 +2,9 @@
 
 import { type UseQueryResult, useQueryClient } from '@tanstack/react-query'
 import { useRouter } from 'expo-router'
-import { useEffect, useMemo } from 'react'
+import { useEffect, useMemo, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable } from 'react-native'
+import { Pressable, type ScrollView } from 'react-native'
 import Animated, {
   Easing,
   useAnimatedStyle,
@@ -13,8 +13,16 @@ import Animated, {
   withTiming,
 } from 'react-native-reanimated'
 import { Text, YStack } from 'tamagui'
-import { AnimatedPressable, PrimitiveBlock, ScreenLayout, Typography } from '@/components'
+import {
+  AnimatedPressable,
+  PrimitiveBlock,
+  ReaderFrame,
+  ScreenLayout,
+  Typography,
+  useWidthClass,
+} from '@/components'
 import { ImageViewerProvider } from '@/components/ImageViewerContext'
+import { OutlineProvider, useOutline } from '@/components/outline'
 import type { PracticeManifest } from '@/content/manifestTypes'
 import { PreprocessProvider } from '@/content/preprocessRuntime'
 import { PracticeHeader } from '@/features/practices/components/PracticeHeader'
@@ -34,6 +42,7 @@ import {
   PracticeVariant,
   usePracticeActions,
 } from './PracticeActions'
+import { PracticeContentsRail, PracticeToolsRail } from './PracticeRails'
 import { derivePracticeFlowStatus } from './status'
 
 type CompletionApi = ReturnType<typeof usePracticeCompletion>
@@ -142,72 +151,86 @@ function PracticeReady({
     [queryClient, contentLanguage, translation, jurisdiction, now, programDay],
   )
 
+  // On a wide window the page's divisions and its tools stand in rails beside
+  // the text.
+  const { rails } = useWidthClass()
+  const scroller = useRef<ScrollView>(null)
+  const { registry, entries: outline, jumpTo } = useOutline(scroller, rails)
+
   return (
     <PreprocessProvider value={preprocessCtx}>
       <ImageViewerProvider>
-        <YStack flex={1}>
-          <ScreenLayout>
-            <YStack gap="$lg" paddingVertical="$lg">
-              <PracticeHeader
-                name={practiceName}
-                caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
-                variant={<PracticeVariant actions={actions} />}
-                actions={<PracticeActionIcons actions={actions} />}
-                onBack={() => router.back()}
-              />
+        <ReaderFrame
+          left={<PracticeContentsRail outline={outline} actions={actions} onJump={jumpTo} />}
+          right={<PracticeToolsRail actions={actions} />}
+        >
+          <YStack flex={1}>
+            <ScreenLayout scrollRef={scroller}>
+              <YStack gap="$lg" paddingVertical="$lg">
+                <PracticeHeader
+                  name={practiceName}
+                  caption={formatLocalized(now, t('practice.headerDate')).toLocaleLowerCase()}
+                  variant={<PracticeVariant actions={actions} />}
+                  // The tools rail carries these where it is shown.
+                  actions={rails ? undefined : <PracticeActionIcons actions={actions} />}
+                  onBack={() => router.back()}
+                />
 
-              <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
-                {sections.slice(0, visibleCount).map((primitive, index) => (
-                  <PrimitiveBlock
-                    key={`${primitive.type}-${index}`}
-                    primitive={primitive}
-                    practiceId={practiceId}
-                    onSelectOverride={onSelectOverride}
-                  />
-                ))}
+                <YStack gap="$md" paddingHorizontal={readingMargin} paddingTop="$md">
+                  <OutlineProvider registry={registry}>
+                    {sections.slice(0, visibleCount).map((primitive, index) => (
+                      <PrimitiveBlock
+                        key={`${primitive.type}-${index}`}
+                        primitive={primitive}
+                        practiceId={practiceId}
+                        onSelectOverride={onSelectOverride}
+                      />
+                    ))}
+                  </OutlineProvider>
+                </YStack>
+
+                {manifest.completion !== 'manual' && !isFutureDate && !readOnly && (
+                  <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
+                    <AnimatedPressable
+                      onPress={completion.handleComplete}
+                      disabled={completion.isCompleting}
+                      accessibilityRole="button"
+                      accessibilityLabel={t('office.amen')}
+                    >
+                      <YStack
+                        backgroundColor="$accent"
+                        borderRadius="$md"
+                        borderWidth={1}
+                        borderColor="$accentSubtle"
+                        paddingVertical="$md"
+                        alignItems="center"
+                        opacity={completion.isCompleting ? 0.6 : 1}
+                      >
+                        <Typography variant="section-title" color="$background">
+                          {completion.isCompleting ? t('office.completing') : t('office.amen')}
+                        </Typography>
+                      </YStack>
+                    </AnimatedPressable>
+                  </YStack>
+                )}
+
+                <YStack paddingBottom="$lg" />
               </YStack>
 
-              {manifest.completion !== 'manual' && !isFutureDate && !readOnly && (
-                <YStack paddingHorizontal={readingMargin} paddingTop="$lg">
-                  <AnimatedPressable
-                    onPress={completion.handleComplete}
-                    disabled={completion.isCompleting}
-                    accessibilityRole="button"
-                    accessibilityLabel={t('office.amen')}
-                  >
-                    <YStack
-                      backgroundColor="$accent"
-                      borderRadius="$md"
-                      borderWidth={1}
-                      borderColor="$accentSubtle"
-                      paddingVertical="$md"
-                      alignItems="center"
-                      opacity={completion.isCompleting ? 0.6 : 1}
-                    >
-                      <Typography variant="section-title" color="$background">
-                        {completion.isCompleting ? t('office.completing') : t('office.amen')}
-                      </Typography>
-                    </YStack>
-                  </AnimatedPressable>
-                </YStack>
+              {completion.showCompleteModal && manifest.program && (
+                <ProgramCompleteModal
+                  practiceName={practiceName}
+                  round={!!manifest.program.days}
+                  showRestart={manifest.program.completionBehavior === 'offer-restart'}
+                  onRestart={completion.onRestart}
+                  onDone={completion.dismissCompleteModal}
+                />
               )}
+            </ScreenLayout>
 
-              <YStack paddingBottom="$lg" />
-            </YStack>
-
-            {completion.showCompleteModal && manifest.program && (
-              <ProgramCompleteModal
-                practiceName={practiceName}
-                round={!!manifest.program.days}
-                showRestart={manifest.program.completionBehavior === 'offer-restart'}
-                onRestart={completion.onRestart}
-                onDone={completion.dismissCompleteModal}
-              />
-            )}
-          </ScreenLayout>
-
-          <PracticeActionSheets actions={actions} />
-        </YStack>
+            <PracticeActionSheets actions={actions} />
+          </YStack>
+        </ReaderFrame>
       </ImageViewerProvider>
     </PreprocessProvider>
   )

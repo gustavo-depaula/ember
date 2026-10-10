@@ -3,7 +3,14 @@ import { useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Text, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ScreenLayout, SectionDivider, Typography } from '@/components'
+import {
+  AnimatedPressable,
+  ScreenLayout,
+  SectionDivider,
+  Split,
+  Typography,
+  useWidthClass,
+} from '@/components'
 import { useMonthCelebrationMap, useYearCalendar } from '@/features/calendar'
 import { CalendarGrid, DayDetail } from '@/features/calendar/components'
 import { useToday } from '@/hooks/useToday'
@@ -12,6 +19,7 @@ import { getCelebrationsForDate } from '@/lib/liturgical'
 
 export default function CalendarScreen() {
   const { t } = useTranslation()
+  const { expanded } = useWidthClass()
   const now = useToday()
   const [current, setCurrent] = useState({ year: now.getFullYear(), month: now.getMonth() + 1 })
   const [selectedDay, setSelectedDay] = useState<number | undefined>(
@@ -42,78 +50,96 @@ export default function CalendarScreen() {
 
   const monthLabel = formatLocalized(new Date(current.year, current.month - 1), 'MMMM yyyy')
 
+  const month = (
+    <YStack gap="$md">
+      <XStack justifyContent="space-between" alignItems="center" paddingHorizontal="$md">
+        <AnimatedPressable
+          onPress={goToPrev}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.prevMonth')}
+        >
+          <Text fontFamily="$body" fontSize="$3" color="$accent" padding="$sm">
+            ‹
+          </Text>
+        </AnimatedPressable>
+
+        <Text fontFamily="$heading" fontSize="$3" color="$color" textTransform="capitalize">
+          {monthLabel}
+        </Text>
+
+        <AnimatedPressable
+          onPress={goToNext}
+          accessibilityRole="button"
+          accessibilityLabel={t('a11y.nextMonth')}
+        >
+          <Text fontFamily="$body" fontSize="$3" color="$accent" padding="$sm">
+            ›
+          </Text>
+        </AnimatedPressable>
+      </XStack>
+
+      {calendarError && (
+        <XStack
+          marginHorizontal="$md"
+          paddingVertical="$sm"
+          paddingHorizontal="$md"
+          borderRadius="$md"
+          borderWidth={1}
+          borderColor="$borderColor"
+          backgroundColor="$backgroundSurface"
+          alignItems="center"
+          gap="$sm"
+        >
+          <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {t('calendar.loadError')}
+          </Text>
+          <AnimatedPressable
+            onPress={() => refetch()}
+            accessibilityRole="button"
+            accessibilityLabel={t('common.retry')}
+            hitSlop={8}
+          >
+            <Text fontFamily="$heading" fontSize="$2" color="$accent">
+              {t('common.retry')}
+            </Text>
+          </AnimatedPressable>
+        </XStack>
+      )}
+
+      <CalendarGrid
+        year={current.year}
+        month={current.month}
+        celebrations={celebrationMap}
+        selectedDay={selectedDay}
+        onSelectDay={setSelectedDay}
+      />
+    </YStack>
+  )
+
   return (
-    <ScreenLayout>
+    <ScreenLayout measure={expanded ? 'wide' : 'column'}>
       <YStack gap="$md" paddingVertical="$lg">
         <Typography variant="sacred-title" fontSize="$5" color="$accent" textAlign="center">
           {t('calendar.title')}
         </Typography>
 
-        <XStack justifyContent="space-between" alignItems="center" paddingHorizontal="$md">
-          <AnimatedPressable
-            onPress={goToPrev}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.prevMonth')}
+        {expanded ? (
+          // The wall calendar of the website: the month, and its chosen day beside it.
+          <Split
+            asideSide="right"
+            asideWidth={380}
+            bodyMaxWidth={520}
+            aside={<DayDetail day={selectedDayCalendar} />}
           >
-            <Text fontFamily="$body" fontSize="$3" color="$accent" padding="$sm">
-              ‹
-            </Text>
-          </AnimatedPressable>
-
-          <Text fontFamily="$heading" fontSize="$3" color="$color" textTransform="capitalize">
-            {monthLabel}
-          </Text>
-
-          <AnimatedPressable
-            onPress={goToNext}
-            accessibilityRole="button"
-            accessibilityLabel={t('a11y.nextMonth')}
-          >
-            <Text fontFamily="$body" fontSize="$3" color="$accent" padding="$sm">
-              ›
-            </Text>
-          </AnimatedPressable>
-        </XStack>
-
-        {calendarError && (
-          <XStack
-            marginHorizontal="$md"
-            paddingVertical="$sm"
-            paddingHorizontal="$md"
-            borderRadius="$md"
-            borderWidth={1}
-            borderColor="$borderColor"
-            backgroundColor="$backgroundSurface"
-            alignItems="center"
-            gap="$sm"
-          >
-            <Text flex={1} fontFamily="$body" fontSize="$2" color="$colorSecondary">
-              {t('calendar.loadError')}
-            </Text>
-            <AnimatedPressable
-              onPress={() => refetch()}
-              accessibilityRole="button"
-              accessibilityLabel={t('common.retry')}
-              hitSlop={8}
-            >
-              <Text fontFamily="$heading" fontSize="$2" color="$accent">
-                {t('common.retry')}
-              </Text>
-            </AnimatedPressable>
-          </XStack>
+            {month}
+          </Split>
+        ) : (
+          <>
+            {month}
+            <SectionDivider />
+            <DayDetail day={selectedDayCalendar} />
+          </>
         )}
-
-        <CalendarGrid
-          year={current.year}
-          month={current.month}
-          celebrations={celebrationMap}
-          selectedDay={selectedDay}
-          onSelectDay={setSelectedDay}
-        />
-
-        <SectionDivider />
-
-        <DayDetail day={selectedDayCalendar} />
       </YStack>
     </ScreenLayout>
   )

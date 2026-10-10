@@ -22,7 +22,7 @@ export default function SaintShelfScreen() {
   return (
     <View flex={1} backgroundColor="$background">
       <Stack.Screen options={{ title }} />
-      <ScreenLayout>
+      <ScreenLayout measure="wide">
         <SaintWall
           saints={items}
           // A small shelf reads best as one grid; a long one by month.
