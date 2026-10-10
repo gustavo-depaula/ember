@@ -1,0 +1,3 @@
+# Artigo 66
+
+O que se põe em sexagésimo sexto lugar: *as ideias têm pluralidade da parte do conotado, por causa da pluralidade das relações, e aquela relação é eterna*, é verdadeiro, se aquela relação é entendida por Deus. Pois Deus, desde a eternidade, assim como entendeu a multidão das criaturas, assim entendeu a multidão das relações, enquanto estão entre ele e as criaturas; e isto basta para a pluralidade das ideias, que não são outra coisa que as razões das coisas enquanto são entendidas por Deus; e assim nem é preciso que a essência divina se pluralize, nem é preciso que haja alguma relação real eterna além das propriedades pessoais, como se objeta.

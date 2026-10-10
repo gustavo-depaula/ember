@@ -1,0 +1,3 @@
+# Artigo 13
+
+O que se põe em décimo terceiro lugar: *gerar não é ato da natureza enquanto é comum, mas enquanto conjunta com a propriedade do supósito gerante*, quanto àquilo que o objetante toca, não parece muito censurável, porque a conjunção pode referir-se ao nosso intelecto ou ao nosso modo de falar, como, por exemplo, quando dizemos: a essência e a paternidade estão no Pai; não, porém, à composição da coisa. Mas poderia antes ser censurado pelo que se diz, a geração é ato da natureza no Pai, se se entendesse ser ato da natureza como gerante; deve-se entender, com efeito, que é ato da natureza como aquilo pelo qual o gerante gera; pois a natureza não gera, mas o Pai gera naturalmente o Filho.

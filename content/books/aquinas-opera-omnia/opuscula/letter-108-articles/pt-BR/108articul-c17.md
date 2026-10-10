@@ -1,0 +1,3 @@
+# Artigo 16
+
+O que se põe em décimo sexto lugar: *o ser pode tomar-se de dois modos: simples e absolutamente, e assim não é próprio de Deus; ou com precisão, isto é, sem nada acrescentado, e assim é próprio de Deus*, o objetante o cavila, não entendendo o que se diz. Pois aqui não se toma "absolutamente" segundo se diz absoluto o que não depende de outro, mas "absolutamente", isto é, universalmente. De modo semelhante, não entendeu bem o que se diz: *com precisão, isto é, sem nada acrescentado*. Pois quem escreveu entendeu que o ser ao qual nada se acrescenta, mas que é o ser puro subsistente, é próprio de Deus; não entendeu, porém, que o ser, enquanto é proposto sem acréscimo, seja próprio de Deus.

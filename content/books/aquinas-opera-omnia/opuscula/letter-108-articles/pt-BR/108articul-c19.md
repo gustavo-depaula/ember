@@ -1,0 +1,3 @@
+# Artigo 18
+
+O que se põe em décimo oitavo lugar: *a razão de criar, enquanto está nas criaturas, é invariável, e diz-se eterna pela carência de variação*, o objetante não o impugna retamente. Pois, embora toda criatura tenha sido produzida do não ser ao ser, e por isso seja de algum modo variável, contudo tanto as definições como algumas proposições dizem-se invariáveis por causa da ordem necessária de um termo ao outro; assim como Sócrates é variável, e igualmente a sua corrida e o seu movimento, e, contudo, isto é invariável: se corre, move-se. Esta invariabilidade, porém, não torna eterna a proposição, senão enquanto está no intelecto eterno, a saber, o divino.

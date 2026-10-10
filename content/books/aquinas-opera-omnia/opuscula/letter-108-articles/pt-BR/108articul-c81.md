@@ -1,0 +1,3 @@
+# Artigo 80
+
+O que se põe em octogésimo lugar: *aquele ato, a saber, a geração, é da substância de Deus, e por isso lhe é essencial ser infinito; mas a produção das criaturas não é do nada, e por isso lhe é essencial ser finita*, foi dito obscuramente, quando diz que a produção das criaturas é do nada: e não se deve entender assim, como se a própria ação da produção fosse do nada, mas o produzido, daquele modo de falar pelo qual se diria que a operação da faca é de ferro; de modo semelhante, quando diz que a produção das criaturas é algo finito, entende-o da parte do produzido, e não da parte da ação: pois Deus produz por uma ação infinita um efeito finito.

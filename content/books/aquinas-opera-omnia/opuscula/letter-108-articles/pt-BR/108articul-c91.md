@@ -1,0 +1,3 @@
+# Artigo 92
+
+O que se põe em nonagésimo segundo lugar: *a mutação toma-se estrita e propriamente como aquela que tem dois extremos, de um dos quais tende ao outro, permanecendo o mesmo sujeito; e assim se toma a mutação naturalmente*, está bem dito, se por extremos entende os termos, e pelo que se diz, naturalmente, se entende, isto é, na ciência natural: pois isto que aqui se diz é comum tanto à mutação natural como à violenta. Nem vale a instância que o objetante põe, de que na geração e na corrupção não há dois extremos; pois os termos da geração e da corrupção são a privação e a forma, não, porém, duas formas.

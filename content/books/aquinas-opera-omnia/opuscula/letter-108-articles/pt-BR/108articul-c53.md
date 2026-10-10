@@ -1,0 +1,3 @@
+# Artigo 52
+
+O que se põe em quinquagésimo segundo lugar: *o próprio supósito divino tem da natureza geral a razão de subsistir por si, da natureza especial a razão de entender, da forma singular a razão de distinguir*, foi mal extraído. Pois o compilador acrescentou *divino* por conta própria. No escrito, porém, tem-se assim: *mas o próprio supósito, da natureza geral* etc., e fala do supósito criado; por isso, um pouco acima, tinha dito: animal significa a substância com a propriedade geral, homem com a propriedade especial, Paulo com a individual. Se, porém, se entendesse do supósito divino, seria absolutamente mal dito, porque nas coisas divinas não há gênero e espécie.
