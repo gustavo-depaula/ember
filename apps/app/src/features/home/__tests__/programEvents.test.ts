@@ -33,6 +33,7 @@ describe('programEvents', () => {
       ['st-peter-of-alcantara-novena', 0],
       ['st-john-paul-ii-novena', 3],
       ['st-anthony-galvao-novena', 6],
+      ['st-jude-novena', 9],
       ['all-saints-novena', 13],
     ])
   })

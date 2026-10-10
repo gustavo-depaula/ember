@@ -18,7 +18,8 @@
   "program": {
     "totalDays": 9,
     "progressPolicy": "continue",
-    "completionBehavior": "offer-restart"
+    "completionBehavior": "offer-restart",
+    "ends": "10-27"
   },
   "data": {
     "jude-novena-days": "data/days.json"
