@@ -1933,7 +1933,7 @@ export default {
     submit: 'Enviar',
     cancel: 'Cancelar',
     correctionThanks: 'Obrigado — vamos analisar sua sugestão.',
-    addPhoto: 'Adicionar foto',
+    addPhoto: 'Adicionar fotos',
     photoUploading: 'Enviando…',
     checkIn: 'Fazer check-in',
     checkedIn: 'Check-in feito',
