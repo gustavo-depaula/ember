@@ -2,13 +2,16 @@
   "id": "athenagoras-plea-for-the-christians",
   "cover": "quarter",
   "name": {
-    "en-US": "A Plea for the Christians"
+    "en-US": "A Plea for the Christians",
+    "pt-BR": "Petição em Favor dos Cristãos"
   },
   "author": {
-    "en-US": "Athenagoras"
+    "en-US": "Athenagoras",
+    "pt-BR": "Atenágoras"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Plea for the Christians"
+        "en-US": "A Plea for the Christians",
+        "pt-BR": "Petição em Favor dos Cristãos"
       }
     }
   ]
