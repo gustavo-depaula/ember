@@ -22,30 +22,30 @@
   .shelf { display: flex; flex-wrap: wrap; gap: 26px 22px; align-items: flex-start; }
   .state { width: 360px; }
   .state h2 { font: 400 13px Cinzel; letter-spacing: 2px; margin: 0 0 2px; color: #4a3c22; }
-  .state p.why { margin: 0 0 10px; font-size: 15px; line-height: 20px; color: #6f6149; font-style: italic;
-                 min-height: 60px; }
-  .phone { background: var(--bg); border-radius: 34px; padding: 0 30px; height: 700px; display: flex;
+  .state p.why { margin: 0 0 10px; font-size: 15px; line-height: 20px; color: #6f6149; font-style: italic; }
+  .shelf .state p.why:empty { display: none; }
+  .phone { background: var(--bg); border-radius: 34px; padding: 0 30px; height: 640px; display: flex;
            flex-direction: column; justify-content: center;
            box-shadow: 0 1px 0 #fff inset, 0 10px 30px rgba(60, 45, 20, .18); box-sizing: border-box; }
 
-  /* ManuscriptFrame: a hairline, a second inside it, a painted corner at each angle. */
-  .frame { position: relative; border: .5px solid var(--gold); padding: 4px; }
-  .frame .inner { border: .5px solid var(--goldSubtle); padding: 34px 20px 30px; display: flex;
-                  flex-direction: column; align-items: center; gap: 16px; text-align: center; }
-  .frame img.c { position: absolute; width: 74px; }
-  .c.tl { top: -8px; left: -22px; } .c.tr { top: -8px; right: -16px; }
-  .c.bl { bottom: -12px; left: -12px; } .c.br { bottom: -12px; right: -10px; }
-
-  .cross { color: var(--gold); font-size: 24px; line-height: 28px; }
-  .title { font: 30px/38px Junicode; color: var(--gold); }
+  /* No painted frame or ornament: the page's own printer's marks. A hairline
+     broken by a small red cross above, a fleuron rule below, or neither. */
+  .sheet { display: flex; flex-direction: column; align-items: center; gap: 16px; text-align: center; }
+  .head, .foot { display: flex; align-items: center; gap: 16px; align-self: stretch; }
+  .head i, .foot i { flex: 1; border-top: .5px solid var(--border); }
+  .foot i { border-color: var(--goldSubtle); }
+  .head span { color: var(--burgundy); font-size: 16px; }
+  .foot span { color: var(--gold); font-size: 19px; }
+  .head { padding-bottom: 18px; } .foot { padding-top: 8px; }
+  .hair { width: 56px; border-top: .5px solid var(--goldSubtle); }
+  .title { font: 34px/42px Junicode; color: var(--ink); }
   .sub { font: italic 18px/24px Junicode; color: var(--muted); margin-top: -10px; }
   .label { font: 12px Cinzel; letter-spacing: 2.5px; color: var(--burgundy); text-transform: uppercase; }
-  .rule { width: 190px; display: block; }
   .line { font-size: 19px; line-height: 27px; }
   .whisper { font-size: 19px; line-height: 27px; color: var(--muted); }
   .verse { font-size: 21px; line-height: 29px; font-style: italic; }
   .next { font-size: 16px; line-height: 22px; font-style: italic; color: var(--muted); }
-  .done { font: 600 20px Garamond; color: var(--gold); padding-top: 8px; }
+  .done { font: 21px Garamond; color: var(--muted); padding-top: 6px; }
   .later { font-size: 19px; color: var(--muted); }
   .bar { height: 46px; border-radius: 23px; background: var(--gold); color: var(--bg); font: 16px Cinzel;
          letter-spacing: 1.5px; display: flex; align-items: center; justify-content: center; align-self: stretch;
@@ -79,7 +79,7 @@
 </head>
 <body>
 <h1>A PROGRAM'S CLOSING SHEET</h1>
-<p class="lede">The sheet that follows the last Amen, in six readings. Each is shown twice: for a round of the Ember days kept whole, and for the Christmas novena finished by someone who joined it for every year. A is the app as it is today. The texts are the corpus's own: each card's verse, and the missal's leave-taking.</p>
+<p class="lede">The sheet that follows the last Amen, without the painted frame and ornaments. First its dress, three ways; then six readings, each for a round of the Ember days kept whole and for the Christmas novena finished by someone who joined it for every year. A keeps today's words. The texts are the corpus's own: each card's verse, and the missal's leave-taking.</p>
 <div id="root"></div>
 <script>
 const lent = __LENT__
@@ -109,8 +109,8 @@ const cases = [
   },
 ]
 
-const rule = '<img class="rule" src="__RULE__">'
-const cross = '<div class="cross">✠</div>'
+const rule = '<div class="hair"></div>'
+const cross = ''
 const done = '<div class="done">Done</div>'
 const stars = (c, missed) => `
   <div class="stars" style="--gap:${c.gap}px">${c.days.map(([dow, n], i) => `
@@ -121,7 +121,7 @@ const stars = (c, missed) => `
 
 const variants = [
   {
-    title: 'A · AS IT IS TODAY',
+    title: 'A · TODAY\'S WORDS',
     why: 'One wording for every program. It names the practice, not what was just kept, and says nothing of what comes next.',
     body: (c) => `${cross}<div class="title">${c.baselineTitle}</div>${rule}
       <div class="line">${c.baselineLine}</div>
@@ -171,16 +171,31 @@ const variants = [
   },
 ]
 
-const frame = (inner) => `
-  <div class="frame"><img class="c tl" src="__CORNER_TL__"><img class="c tr" src="__CORNER_TR__">
-    <img class="c bl" src="__CORNER_BL__"><img class="c br" src="__CORNER_BR__">
-    <div class="inner">${inner}</div></div>`
+// The sheet's dress: 'rules' sets it like the program's title page, 'fleuron'
+// keeps the one ornament, 'bare' leaves type and space alone.
+const sheet = (inner, dress = 'rules') => `
+  <div class="sheet">
+    ${dress === 'rules' ? '<div class="head"><i></i><span>✠</span><i></i></div>' : ''}
+    ${inner}
+    ${dress === 'rules' ? '<div class="foot"><i></i><span>❦</span><i></i></div>' : ''}
+    ${dress === 'fleuron' ? '<div class="foot" style="align-self:center"><span>❦</span></div>' : ''}
+  </div>`
 
-document.getElementById('root').innerHTML = cases.map((c, row) => `
+const dresses = [
+  ['rules', 'I · THE TITLE PAGE\'S RULES', 'As the program\'s own page is set: a hairline broken by a small red cross above, a fleuron rule below.'],
+  ['fleuron', 'II · ONE FLEURON', 'No rules: the type, and a single fleuron to close.'],
+  ['bare', 'III · TYPE ALONE', 'Nothing but the words and the space around them.'],
+]
+
+const phone = (title, why, inner) => `
+  <div class="state"><h2>${title}</h2><p class="why">${why}</p><div class="phone">${inner}</div></div>`
+
+document.getElementById('root').innerHTML = `
+  <h3>THE DRESS · READING B, THREE WAYS</h3>
+  <div class="shelf">${dresses.map(([d, title, why]) => phone(title, why, sheet(variants[1].body(cases[0]), d))).join('')}</div>
+  ${cases.map((c, row) => `
   <h3>${c.id}</h3>
-  <div class="shelf">${variants.map((v) => `
-    <div class="state"><h2>${v.title}</h2><p class="why">${row === 0 ? v.why : ''}</p>
-      <div class="phone">${frame(v.body(c))}</div></div>`).join('')}</div>`).join('')
+  <div class="shelf">${variants.map((v) => phone(v.title, row === 0 ? v.why : '', sheet(v.body(c)))).join('')}</div>`).join('')}`
 </script>
 </body>
 </html>

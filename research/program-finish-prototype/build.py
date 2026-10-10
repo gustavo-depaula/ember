@@ -2,38 +2,26 @@
 
 Builds program-finish.html from template.html: the sheet shown after a
 program's last Amen, in several wordings, each for a round of the Ember days
-kept whole and for a novena finished. Self-contained: fonts, ornaments and
-texts are inlined, the texts read from the corpus.
+kept whole and for a novena finished. Set in the app's type and printer's marks, with no painted
+frame. Self-contained: fonts and texts are inlined, the texts read from the
+corpus.
 
-    python3 -m venv /tmp/ember-venv && /tmp/ember-venv/bin/pip install pillow
-    /tmp/ember-venv/bin/python research/program-finish-prototype/build.py
+    python3 research/program-finish-prototype/build.py
 """
 
 import base64
-import io
 import json
 import re
 from pathlib import Path
 
-from PIL import Image
-
 here = Path(__file__).parent
 root = here.parents[1]
-textures = root / 'apps/app/assets/textures'
 cards = root / 'content/practices/saint-of-the-day/data/holy-cards'
 prayers = root / 'content/do/web/www/missa/English/Ordo/Prayers.txt'
 
 
 def data_uri(raw: bytes, mime: str) -> str:
     return f'data:{mime};base64,{base64.b64encode(raw).decode()}'
-
-
-def png(name: str, width: int) -> str:
-    image = Image.open(textures / f'{name}.png')
-    image.thumbnail((width, width))
-    out = io.BytesIO()
-    image.save(out, 'PNG')
-    return data_uri(out.getvalue(), 'image/png')
 
 
 def font(path: str) -> str:
@@ -59,11 +47,6 @@ for key, value in {
     '__PENTECOST__': json.dumps(card('pentecost_ember_days')),
     '__NATIVITY__': json.dumps(card('nativity_christ')),
     '__VERSICLE__': json.dumps(versicle()),
-    '__CORNER_TL__': png('corner_top_left', 240),
-    '__CORNER_TR__': png('corner_top_right', 240),
-    '__CORNER_BL__': png('corner_bottom_left', 240),
-    '__CORNER_BR__': png('corner_bottom_right', 240),
-    '__RULE__': png('horizontal_marker', 420),
     '__PAPER__': data_uri((root / 'apps/app/assets/envelope-paper.jpg').read_bytes(), 'image/jpeg'),
     '__JUNICODE__': font('apps/app/assets/fonts/Junicode.ttf'),
     '__JUNICODE_ITALIC__': font('apps/app/assets/fonts/Junicode-Italic.ttf'),
