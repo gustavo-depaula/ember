@@ -1,15 +1,7 @@
 import { CalendarCheck, ChevronLeft, ChevronRight, Search, X } from 'lucide-react-native'
 import { useCallback, useEffect, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import {
-  BackHandler,
-  FlatList,
-  Keyboard,
-  Platform,
-  ScrollView,
-  StyleSheet,
-  View,
-} from 'react-native'
+import { BackHandler, FlatList, Keyboard, StyleSheet, View } from 'react-native'
 import { KeyboardAwareScrollView } from 'react-native-keyboard-controller'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Input, useTheme, XStack, YStack } from 'tamagui'
@@ -92,11 +84,10 @@ export function ChurchSheet({
     return () => sub.remove()
   }, [inBrowse])
 
-  // Android's keyboard draws over the sheet rather than pushing it, so a field in
-  // the lower half would sit under it. Forms lift the sheet as they open (see
+  // The keyboard draws over the sheet rather than pushing it, so a field in the
+  // lower half would sit under it. Forms lift the sheet as they open (see
   // `sheetLift`); this catches a field focused after the sheet was dragged back down.
   useEffect(() => {
-    if (Platform.OS !== 'android') return
     const sub = Keyboard.addListener('keyboardDidShow', () => setDetent('full'))
     return () => sub.remove()
   }, [])
@@ -145,12 +136,6 @@ export function ChurchSheet({
   )
 }
 
-// On Android the pane scrolls a focused field clear of the keyboard itself; the
-// iOS sheet already moves with the keyboard.
-const PaneScroll = (
-  Platform.OS === 'android' ? KeyboardAwareScrollView : ScrollView
-) as typeof KeyboardAwareScrollView
-
 // Place mode: the full church detail in the sheet, with a back affordance to the browse list.
 function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () => void }) {
   const insets = useSafeAreaInsets()
@@ -158,7 +143,9 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
   return (
     <View style={styles.fill}>
       <SheetPaneHeader onBack={onBack} ruled={scrolled} />
-      <PaneScroll
+      {/* Neither sheet makes way for the keyboard — Android's is drawn over, and the iOS one fills
+          through the bottom safe area, keyboard included — so the pane scrolls a focused field clear. */}
+      <KeyboardAwareScrollView
         nestedScrollEnabled
         keyboardShouldPersistTaps="handled"
         // Room under the focused field for the buttons that submit it.
@@ -177,7 +164,7 @@ function ChurchDetailPane({ churchId, onBack }: { churchId: string; onBack: () =
         showsVerticalScrollIndicator={false}
       >
         <ChurchDetail churchId={churchId} />
-      </PaneScroll>
+      </KeyboardAwareScrollView>
     </View>
   )
 }

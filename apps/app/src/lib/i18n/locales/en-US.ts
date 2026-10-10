@@ -1958,7 +1958,7 @@ export default {
     submit: 'Submit',
     cancel: 'Cancel',
     correctionThanks: 'Thank you — we’ll review your suggestion.',
-    addPhoto: 'Add photo',
+    addPhoto: 'Add photos',
     photoUploading: 'Uploading…',
     checkIn: 'Check in here',
     checkedIn: 'Checked in',

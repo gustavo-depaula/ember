@@ -7,7 +7,7 @@ import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedCheckbox, AnimatedPressable, confirm, Typography } from '@/components'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { useSubmitCorrection, useUploadAttachment, useVerifyChurch } from '@/lib/mass-times'
-import { pickCorrectionPhoto } from '../attachments'
+import { pickCorrectionPhotos } from '../attachments'
 import { ChipButton } from './ChipButton'
 import { SectionLabel } from './SheetType'
 import { useSheetLift } from './sheetLift'
@@ -29,19 +29,20 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
   const [closed, setClosed] = useState(false)
   const [photos, setPhotos] = useState<{ key: string; uri: string }[]>([])
 
-  const canSubmit = (closed || comment.trim().length > 0) && !correction.isPending
+  const [uploading, setUploading] = useState(false)
+  const canSubmit = (closed || comment.trim().length > 0) && !correction.isPending && !uploading
   const toggleClosed = () => {
     void selectionTick()
     setClosed((v) => !v)
   }
 
-  const addPhoto = async () => {
-    if (photos.length >= maxPhotos || upload.isPending) return
-    let picked: Awaited<ReturnType<typeof pickCorrectionPhoto>>
+  const addPhotos = async () => {
+    if (photos.length >= maxPhotos || uploading) return
+    let picked: Awaited<ReturnType<typeof pickCorrectionPhotos>>
     try {
-      picked = await pickCorrectionPhoto()
+      picked = await pickCorrectionPhotos(maxPhotos - photos.length)
     } catch (err) {
-      // Native picker absent from this binary, or the image couldn't be read/compressed.
+      // Native picker absent from this binary, or an image couldn't be read/compressed.
       confirm({
         title: t('error.somethingWrong'),
         description: err instanceof Error ? err.message : String(err),
@@ -49,15 +50,18 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
       })
       return
     }
-    if (!picked) return
-    const { uri } = picked
-    upload.mutate(picked, {
-      // errors surface via the global mutationCache dialog
-      onSuccess: (key) => {
-        void lightTap()
-        setPhotos((p) => [...p, { key, uri }])
-      },
-    })
+    if (picked.length === 0) return
+    setUploading(true)
+    // Each photo lands as it finishes, so one that fails doesn't take the others with it; the
+    // failure itself surfaces via the global mutationCache dialog.
+    await Promise.allSettled(
+      picked.map(async (photo) => {
+        const key = await upload.mutateAsync(photo)
+        setPhotos((p) => [...p, { key, uri: photo.uri }])
+      }),
+    )
+    setUploading(false)
+    void lightTap()
   }
 
   const submit = () => {
@@ -146,10 +150,10 @@ export function ChurchFeedback({ churchId }: { churchId: string }) {
             ))}
             {photos.length < maxPhotos ? (
               <ChipButton
-                label={upload.isPending ? t('massTimes.photoUploading') : t('massTimes.addPhoto')}
+                label={uploading ? t('massTimes.photoUploading') : t('massTimes.addPhoto')}
                 icon={<Camera size={15} color={theme.color?.val} />}
-                onPress={addPhoto}
-                disabled={upload.isPending}
+                onPress={addPhotos}
+                disabled={uploading}
               />
             ) : null}
           </XStack>
