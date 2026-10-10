@@ -74,7 +74,7 @@ export const tileQuerySchema = z.object({ kind: z.string().optional() })
 export const verificationsQuerySchema = z.object({ limit, offset })
 
 const comment = z.string().trim().min(1).max(2000)
-const attachmentKeys = z.array(z.string().max(256)).max(8)
+const attachmentKeys = z.array(z.string().max(256)).max(10)
 // Note: the caller's identity (IP + optional `X-Client-Id` header) is folded into the fingerprint
 // server-side — it is NOT part of any request body.
 
