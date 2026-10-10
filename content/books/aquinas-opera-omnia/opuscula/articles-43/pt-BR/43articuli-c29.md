@@ -1,0 +1,5 @@
+# Artigo 39
+
+O trigésimo nono artigo é se, embora, subindo, Marte esteja imediatamente acima do sol quanto à posição, está contudo imediatamente acima da lua quanto ao domínio, na primeira hora de Marte.
+
+A isto parece que se deve dizer que, se o domínio de Marte e da lua se refere ao livre-arbítrio, é errôneo. Se, porém, se refere às coisas corporais e naturais, nenhum absurdo se segue na doutrina da fé. Pois diz Agostinho no livro V de *A Cidade de Deus*, cap. VI: *não se pode dizer sem reservas que certos influxos siderais valham somente para a diferença dos corpos*; antes, isto é verdadeiro também segundo a ordem dos dias; pois, como pelos astrólogos se atribuem sete horas aos sete planetas, e como vinte e quatro são as horas do dia natural, segue-se que, na primeira féria, na vigésima segunda hora do dia, a lua tenha o domínio, assim como também na primeira do mesmo dia: por isso, recomeçando por Saturno, a vigésima terceira hora será atribuída a ele, e a vigésima quarta a Júpiter, e a primeira do dia seguinte será atribuída a Marte. Mas nada disto pertence à doutrina da fé, nem para afirmar nem para rejeitar.

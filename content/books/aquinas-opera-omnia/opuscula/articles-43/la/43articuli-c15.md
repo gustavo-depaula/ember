@@ -1,4 +1,4 @@
-# Articul 19-23
+# Articuli 19-23
 
 Decimus nonus articulus est, an si motus caeli cessaret, ordine naturae omne ferrum in elementa in instanti resolveretur.  
 
