@@ -2,13 +2,16 @@
   "id": "augustine-nature-and-grace",
   "cover": "quarter",
   "name": {
-    "en-US": "On Nature and Grace"
+    "en-US": "On Nature and Grace",
+    "pt-BR": "Sobre a Natureza e a Graça"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Nature and Grace"
+        "en-US": "On Nature and Grace",
+        "pt-BR": "Sobre a Natureza e a Graça"
       }
     }
   ]
