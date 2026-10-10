@@ -145,6 +145,7 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       if (c.notify !== undefined) slot.notify = c.notify
       if (c.schedule !== undefined) slot.schedule = c.schedule
       if (c.pins !== undefined) slot.pins = c.pins
+      if (c.minutes !== undefined) slot.minutes = c.minutes
       break
     }
 

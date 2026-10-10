@@ -5,12 +5,14 @@ import { useTranslation } from 'react-i18next'
 import { useShallow } from 'zustand/react/shallow'
 
 import { bareId } from '@/content/contentIndex'
+import { minutesText, practiceMinutes } from '@/content/duration'
 import { getHourSelect } from '@/content/pins'
-import { getLoadedFlow } from '@/content/resolver'
+import { getLoadedFlow, getManifest } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { resolveCompletions, type SlotState, useEventStore } from '@/db/events'
 import { getPractice } from '@/db/repositories/practices'
 import type { TimeBlock } from '@/db/schema'
+import { useTodayCelebration } from '@/features/calendar/hooks'
 import {
   dayMinutes,
   deriveTimeBlock,
@@ -38,6 +40,8 @@ export type PrayNow = {
   suggestion: boolean
   /** The part of the day it belongs to; an office's is now's. */
   block: TimeBlock
+  /** The minutes it takes as prayed now ("15"), for the card's pill. */
+  minutes?: string
   onPray: () => void
 }
 
@@ -57,7 +61,9 @@ export function usePrayNow({
 }): PrayNow | undefined {
   const { t } = useTranslation()
   const router = useRouter()
-  const date = format(useToday(), 'yyyy-MM-dd')
+  const today = useToday()
+  const date = format(today, 'yyyy-MM-dd')
+  const holyDay = useTodayCelebration()?.principal?.entry.holyDayOfObligation === true
   const prayedToday = useEventStore(
     useShallow((st) =>
       resolveCompletions(st.completionsByDate.get(date), st.completions).map((c) => c.practice_id),
@@ -83,6 +89,7 @@ export function usePrayNow({
       next.office || next.time_block === 'flexible'
         ? getCurrentTimeBlock(wall.getHours())
         : next.time_block,
+    minutes: minutesText(minutesOf(next, today, holyDay)),
     // A backbone slot isn't the user's: open the practice without a slot, so
     // praying it never logs against a slot that isn't there.
     onPray: () =>
@@ -165,8 +172,24 @@ const hourSelectFor = (practiceId: string) =>
 function withHourTitle(item: PrayNowItem, hour: number): PrayNowItem {
   if (item.pinned) return item
   const select = hourSelectFor(item.practice_id)
-  const optionId = select?.map ? lookupMap(select.map, String(hour)) : undefined
-  const option = select?.options.find((o) => o.id === optionId)
+  const option = select?.options.find((o) => o.id === hourOf(item, hour))
   if (!option) return item
   return { ...item, name: localizeContent(option.label), subtitle: item.name }
+}
+
+/** The hour an office's slot is: the one it pins, else the clock's. */
+function hourOf(item: PrayNowItem, hour: number): string | undefined {
+  const select = hourSelectFor(item.practice_id)
+  if (!select) return undefined
+  return item.pins?.[select.as] ?? (select.map ? lookupMap(select.map, String(hour)) : undefined)
+}
+
+function minutesOf(item: PrayNowItem, today: Date, holyDay: boolean) {
+  const prayedId = getPractice(item.practice_id)?.active_variant ?? item.practice_id
+  return practiceMinutes(getManifest(prayedId), {
+    chosen: item.minutes,
+    hour: hourOf(item, Math.floor(item.due / 60) % 24),
+    date: today,
+    holyDay,
+  })
 }

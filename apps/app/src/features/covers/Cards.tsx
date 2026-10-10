@@ -1,4 +1,3 @@
-import { useTranslation } from 'react-i18next'
 import { StyleSheet, View } from 'react-native'
 import Svg, { Defs, LinearGradient, Rect, Stop } from 'react-native-svg'
 
@@ -23,16 +22,13 @@ export function PracticeCard({
   title: string
   tone: BlockTone
   icon?: string
-  minutes?: number
+  minutes?: string
   /** Small caps line under the title, in place of the estimated time. */
   note?: string
   size: number
 }) {
-  const { t } = useTranslation()
   const s = size
-  const caption =
-    note ??
-    (minutes !== undefined && minutes > 0 ? t('catalog.estimatedTime', { minutes }) : undefined)
+  const caption = note ?? minutes
   return (
     <View style={[styles.shadow, { width: s, height: s }]}>
       <Svg width={s} height={s} style={StyleSheet.absoluteFill}>

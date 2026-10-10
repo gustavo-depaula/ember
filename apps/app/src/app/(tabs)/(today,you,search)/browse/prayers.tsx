@@ -9,6 +9,7 @@ import { XStack, YStack } from 'tamagui'
 import { PageHeader, Typography } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { bareId, getEntry, isMetaId } from '@/content/contentIndex'
+import { minutesText, practiceMinutes } from '@/content/duration'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { coverFor, GeneratedCover, type TileCover } from '@/features/covers'
@@ -25,7 +26,7 @@ import { localizeContent } from '@/lib/i18n'
 type Prayer = {
   id: string
   title: string
-  minutes?: number
+  minutes?: string
   tags: Set<string>
   image?: ImageSource
   cover?: TileCover
@@ -57,7 +58,7 @@ export default function AllPrayersScreen() {
           return {
             id: bareId(m.id),
             title: localizeContent(m.name),
-            minutes: m.estimatedMinutes,
+            minutes: minutesText(practiceMinutes(m)),
             tags: new Set([...(m.tags ?? []), ...(m.categories ?? [])]),
             image: artFor(m.id),
             cover: entry && coverFor(entry),
@@ -87,11 +88,7 @@ export default function AllPrayersScreen() {
             <Typography fontSize="$4" numberOfLines={2}>
               {item.title}
             </Typography>
-            {item.minutes !== undefined && (
-              <Typography variant="annotation">
-                {t('catalog.estimatedTime', { minutes: item.minutes })}
-              </Typography>
-            )}
+            {item.minutes && <Typography variant="annotation">{item.minutes}</Typography>}
           </YStack>
         </XStack>
       </Pressable>

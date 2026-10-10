@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 20,
+	"duration": { "type": "chosen", "default": 20, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "With St. Francis de Sales mental prayer passes from the cloister into the world. His method is made for those who live in towns, in households, at work: four short parts, and one flower gathered at the end to smell throughout the day.",
 		"pt-BR": "Com São Francisco de Sales a oração mental passa do claustro ao mundo. O seu método é feito para os que vivem nas cidades, nas famílias, no trabalho: quatro partes breves, e uma flor colhida no fim para cheirar ao longo do dia."

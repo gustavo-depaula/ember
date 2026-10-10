@@ -6,7 +6,8 @@ interface Props {
   locale: Locale
   /** The text has Latin to set beside it. */
   latin?: boolean
-  minutes?: number
+  // A practice's comes as its label already ("7–27 min", "1h15").
+  minutes?: number | string
 }
 
 const { locale, latin, minutes } = Astro.props
@@ -14,7 +15,7 @@ const s = siteStrings(locale)
 ---
 
 <div class="reader-tools">
-  {minutes && <span class="t-kicker" style="margin-right:8px">{s('minutes', { count: minutes })}</span>}
+  {minutes && <span class="t-kicker" style="margin-right:8px">{typeof minutes === 'string' ? minutes : s('minutes', { count: minutes })}</span>}
   {
     latin && (
       <button class="tool latin" type="button" data-latin-toggle aria-pressed="false" title={s('latinOn')}>

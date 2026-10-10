@@ -21,6 +21,9 @@ export type SlotState = {
   // Top-level flow choices this slot fixes (`{ hour: 'Prima' }`), keyed by the
   // select's `as`. Absent means every choice stays automatic.
   pins?: Record<string, string>
+  // The length the person gives a practice whose length is theirs to set
+  // (manifest `duration: chosen`). Absent means the manifest's default.
+  minutes?: number
 }
 
 export type EventStoreState = {

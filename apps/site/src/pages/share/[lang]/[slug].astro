@@ -4,6 +4,7 @@
 // photographed to `<slug>.jpg` after the build (scripts/share-cards.mjs), which
 // then removes the page.
 import { getImage } from 'astro:assets'
+import { minutesText, practiceMinutes } from '@/content/duration'
 import { coverFor } from '@/features/covers/coverFor'
 import { toneForKey } from '@/features/explore/bgColor'
 import { localizeContent } from '@/lib/i18n'
@@ -37,9 +38,10 @@ const name = withLocale(locale, () => localizeContent(manifest.name))
 const cover = withLocale(locale, () => coverFor(entry))
 const tone = toneForKey(id)
 const days = manifest.program?.totalDays ?? 0
+const minutes = minutesText(practiceMinutes(manifest))
 const label = [
   days > 1 ? s('dayCount', { count: days }) : s('prayer'),
-  manifest.estimatedMinutes && s('minutes', { count: manifest.estimatedMinutes }),
+  minutes,
 ]
   .filter(Boolean)
   .join(' · ')

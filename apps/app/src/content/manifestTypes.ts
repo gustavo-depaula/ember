@@ -77,6 +77,9 @@ export type CatalogEntry = {
   form?: 'prayer'
   liturgical?: boolean
   estimatedMinutes?: number
+  // An office's shortest and longest hour, in place of its `hourMinutes`.
+  minutesRange?: [number, number]
+  duration?: PracticeDuration
   cover?: string
   subtitle?: LocalizedText
   // Praying this practice is Mass or the Office (holy cards); forms carry their
@@ -88,6 +91,16 @@ export type CatalogEntry = {
 }
 
 export type LiturgicalAct = 'mass' | 'office'
+
+/**
+ * A length the text can't give. `chosen`: as long as the person gives it
+ * (mental prayer, a holy hour) — the plan keeps their choice among `choices`.
+ * `by-day`: as long as the celebration, which Sundays and holy days of
+ * obligation lengthen (Mass).
+ */
+export type PracticeDuration =
+  | { type: 'chosen'; default: number; choices: number[] }
+  | { type: 'by-day'; weekday: number; sunday: number }
 
 /** The morning offering, the rosary and the examination of conscience: all three prayed on one day give what the Office gives. */
 export type DayPrayer = 'offering' | 'rosary' | 'examen'
@@ -165,7 +178,15 @@ export type PracticeManifest = {
   history?: LocalizedText
   howToPray?: LocalizedText
   categories?: string[]
+  // Minutes to pray it. What a manifest leaves out is counted from its text at
+  // build: `estimatedMinutes`, and for an office `hourMinutes` (by option id
+  // of its hour select). An office an engine assembles has no text to count:
+  // its `hourMinutes` are measured by scripts/measure-hour-minutes.ts.
+  // `duration` is for a length no text gives. Read them through
+  // `practiceMinutes`.
   estimatedMinutes?: number
+  hourMinutes?: Record<string, number>
+  duration?: PracticeDuration
   icon?: string
   image?: string
   thumbnail?: string

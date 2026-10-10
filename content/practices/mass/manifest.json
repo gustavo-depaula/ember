@@ -10,6 +10,7 @@
     "liturgical"
   ],
   "estimatedMinutes": 60,
+  "duration": { "type": "by-day", "weekday": 40, "sunday": 75 },
   "description": {
     "en-US": "The Mass of the day — the Order of Mass with the day's prayers, antiphons and readings in their place, and the Latin beside it.",
     "pt-BR": "A Missa do dia — o Ordinário da Missa com as orações, antífonas e leituras do dia em seu lugar, e o latim ao lado."

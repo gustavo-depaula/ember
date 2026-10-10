@@ -391,6 +391,34 @@ function validateManifest(file: string): void {
       }
     }
   }
+  // An hour misnamed here is no error at runtime: the practice just falls back
+  // to the span of its hours, and the wrong minutes go unnoticed.
+  if (m.hourMinutes && typeof m.hourMinutes === 'object' && typeof m.flow === 'string') {
+    const flowPath = join(file, '..', m.flow)
+    const hours = existsSync(flowPath) ? hourOptionIds(flowPath) : undefined
+    for (const hour of Object.keys(m.hourMinutes)) {
+      if (hours && !hours.has(hour)) {
+        issues.push({
+          file,
+          path: `$.hourMinutes.${hour}`,
+          message: `hourMinutes names "${hour}", not an option of the flow's hour select`,
+        })
+      }
+    }
+  }
+}
+
+function hourOptionIds(flowPath: string): Set<string> | undefined {
+  try {
+    const flow = JSON.parse(readFileSync(flowPath, 'utf-8')) as {
+      sections?: { type?: string; on?: unknown; pin?: boolean; options?: { id: string }[] }[]
+    }
+    const select = flow.sections?.find((s) => s.type === 'select' && s.pin && s.on === 'hour')
+    return new Set(select?.options?.map((o) => o.id) ?? [])
+  } catch {
+    // A malformed flow is reported where flows are validated.
+    return undefined
+  }
 }
 
 function walk(dir: string): void {

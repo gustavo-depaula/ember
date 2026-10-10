@@ -260,6 +260,114 @@ def _build_collection(pid: str, logical: str, coll_dir: Path) -> dict:
     return out
 
 
+# Words a minute of prayer said at a recollected pace: the Rosary's three
+# thousand English words fill its twenty minutes. Latin says the same prayer in
+# about three quarters of the words.
+PRAYER_WPM = {"la": 115}
+DEFAULT_WPM = 150
+
+# Sections that are read at a glance, not prayed.
+UNPRAYED_SECTIONS = {
+    "heading", "subheading", "section-marker", "divider", "rubric", "image", "gallery",
+}
+
+
+class _Uncounted(Exception):
+    """The flow draws on text this count can't see (an engine, a reading, a cycle)."""
+
+
+def _text_minutes(value: Any) -> float:
+    if not value:
+        return 0.0
+    lang = None
+    if isinstance(value, dict):
+        lang = next((l for l in ("en-US", "pt-BR") if value.get(l)), None) or next(iter(value))
+        value = value[lang]
+    if not isinstance(value, str) or "{{" in value:
+        raise _Uncounted
+    return len(value.split()) / PRAYER_WPM.get(lang, DEFAULT_WPM)
+
+
+def _sections_minutes(sections: list, flows: dict[str, dict], seen: tuple[str, ...] = ()) -> float:
+    total = 0.0
+    for s in sections:
+        kind = s.get("type")
+        if kind in UNPRAYED_SECTIONS:
+            continue
+        inner = s.get("sections")
+        if kind in ("select", "options"):
+            options = s.get("options")
+            if "from" in s or not options:
+                raise _Uncounted
+            # The option a flow opens on stands for the others.
+            chosen = next((o for o in options if o.get("id") == s.get("default")), options[0])
+            total += _sections_minutes(chosen.get("sections") or [], flows, seen)
+        elif kind == "repeat":
+            total += s.get("count", 1) * _sections_minutes(inner or [], flows, seen)
+        elif kind == "collapsible":
+            if s.get("defaultOpen") is not False:
+                total += _sections_minutes(inner or [], flows, seen)
+        elif kind in ("prayer", "canticle") and "ref" in s:
+            ref = s["ref"].split("/")[-1]
+            if ref in seen or ref not in flows:
+                raise _Uncounted
+            total += _sections_minutes(flows[ref].get("sections") or [], flows, (*seen, ref))
+        elif kind == "response":
+            for verse in s.get("verses") or []:
+                total += _text_minutes(verse.get("v")) + _text_minutes(verse.get("r"))
+        elif kind == "psalm" and "verses" in s:
+            total += sum(_text_minutes(v.get("text")) for v in s["verses"])
+        elif isinstance(inner, list):
+            total += _sections_minutes(inner, flows, seen)
+        elif "inline" in s or "text" in s:
+            total += _text_minutes(s.get("inline")) + _text_minutes(s.get("text"))
+        else:
+            raise _Uncounted
+    return total
+
+
+def _counted_minutes(sections: list, flows: dict[str, dict]) -> int | None:
+    """Minutes to pray these sections, or None where their text isn't all here."""
+    try:
+        minutes = _sections_minutes(sections, flows)
+    except _Uncounted:
+        return None
+    return max(1, round(minutes)) if minutes > 0 else None
+
+
+def _counted_hour_minutes(flow: dict, flows: dict[str, dict]) -> dict[str, int] | None:
+    """An office's minutes by hour (the options of its pinned hour select), with
+    whatever the flow prays around the select counted into each."""
+    sections = flow.get("sections") or []
+    select = next(
+        (
+            s for s in sections
+            if s.get("type") == "select" and s.get("pin") is True and s.get("on") == "hour"
+        ),
+        None,
+    )
+    if not select:
+        return None
+    around = [s for s in sections if s is not select]
+    hours = {}
+    for option in select.get("options") or []:
+        if option.get("pin") is False:
+            continue
+        minutes = _counted_minutes([*around, *(option.get("sections") or [])], flows)
+        if minutes is None:
+            return None
+        hours[option["id"]] = minutes
+    return hours or None
+
+
+def _practice_flow(d: Path, manifest_data: dict) -> dict | None:
+    flow = manifest_data.get("flow")
+    if isinstance(flow, dict):
+        return flow
+    path = d / (flow if isinstance(flow, str) else "flow.json")
+    return json.loads(path.read_text(encoding="utf-8")) if path.is_file() else None
+
+
 def build_practices(b: Builder) -> None:
     """Each practice's catalog blob is the original `manifest.json` body merged
     with resource hashes (flow / fragments / data / tracks / per-day / images).
@@ -272,11 +380,16 @@ def build_practices(b: Builder) -> None:
     # or one of the three prayers of a prayed day; every form inherits it, so
     # the app reads it off any form's catalog entry.
     group_acts = {"liturgicalAct": {}, "dayPrayer": {}}
+    # Every flow by practice, for the minutes of a prayer that refers to others.
+    flows: dict[str, dict] = {}
     for m in src.glob("*/manifest.json"):
         data = json.loads(m.read_text(encoding="utf-8"))
         for key, acts in group_acts.items():
             if key in data:
                 acts[data["id"]] = data[key]
+        flow = _practice_flow(m.parent, data)
+        if flow:
+            flows[m.parent.name] = flow
     for d in sorted(p for p in src.iterdir() if p.is_dir()):
         pid = d.name
         manifest_path = d / "manifest.json"
@@ -406,6 +519,17 @@ def build_practices(b: Builder) -> None:
             item_manifest.pop(legacy, None)
         if flow_entry is not None:
             item_manifest["flowHash"] = flow_entry
+        # Minutes the manifest doesn't give are counted from the flow's text.
+        flow = flows.get(pid)
+        if flow and "duration" not in item_manifest:
+            if "hourMinutes" not in item_manifest:
+                hour_minutes = _counted_hour_minutes(flow, flows)
+                if hour_minutes:
+                    item_manifest["hourMinutes"] = hour_minutes
+            if "estimatedMinutes" not in item_manifest:
+                minutes = _counted_minutes(flow.get("sections") or [], flows)
+                if minutes:
+                    item_manifest["estimatedMinutes"] = minutes
         if fragments:
             item_manifest["fragments"] = fragments
         if data_files:
@@ -430,9 +554,12 @@ def build_practices(b: Builder) -> None:
             catalog_entry["tags"] = list(set((catalog_entry.get("tags") or []) + manifest_data["categories"]))
         # Tile hints: which card a tile draws (prayer vs practice, liturgical
         # prayers as a breviary page) and the minutes line, without a manifest fetch.
-        for key in ("form", "liturgical", "estimatedMinutes"):
-            if key in manifest_data:
-                catalog_entry[key] = manifest_data[key]
+        for key in ("form", "liturgical", "estimatedMinutes", "duration"):
+            if key in item_manifest:
+                catalog_entry[key] = item_manifest[key]
+        hour_minutes = item_manifest.get("hourMinutes")
+        if hour_minutes:
+            catalog_entry["minutesRange"] = [min(hour_minutes.values()), max(hour_minutes.values())]
         group = (manifest_data.get("alternativeTo") or {}).get("id")
         for key, acts in group_acts.items():
             act = manifest_data.get(key) or acts.get(group)

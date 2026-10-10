@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 15,
+	"duration": { "type": "chosen", "default": 15, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The method St. Alphonsus placed at the head of his daily meditations. Three parts — preparation, meditation, conclusion — and three fruits: affections, petitions, resolutions. Short fixed acts open and close the prayer; everything between them is yours.",
 		"pt-BR": "O método que Santo Afonso pôs à frente das suas meditações diárias. Três partes — preparação, meditação, conclusão — e três frutos: afetos, súplicas e resoluções. Atos breves e fixos abrem e fecham a oração; tudo o que está entre eles é seu."

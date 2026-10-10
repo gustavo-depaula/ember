@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 30,
+	"duration": { "type": "chosen", "default": 30, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The method St. Teresa learned from: six parts that take in not only the meditation but the examination of conscience, the reading, the thanksgiving and the intercessions of the day. Its aim is love and the affections of the will, not the speculations of the understanding.",
 		"pt-BR": "O método em que Santa Teresa aprendeu: seis partes que abrangem não só a meditação, mas o exame de consciência, a leitura, a ação de graças e as intercessões do dia. O seu fim é o amor e os afetos da vontade, não as especulações do entendimento."

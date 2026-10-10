@@ -26,7 +26,7 @@ describe('coverFor', () => {
 
   it('draws practices as colored holy cards with their minutes', () => {
     const cover = coverFor(entry({ icon: 'rosary', estimatedMinutes: 20 }))
-    expect(cover).toEqual({ kind: 'practice', icon: 'rosary', minutes: 20 })
+    expect(cover).toEqual({ kind: 'practice', icon: 'rosary', minutes: '20 min' })
   })
 
   it('draws prayers as cream holy cards, liturgical ones as breviary pages', () => {

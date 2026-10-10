@@ -66,6 +66,7 @@ type SlotUpdated = {
     notify: string | null
     schedule: string
     pins: Record<string, string>
+    minutes: number
   }>
 }
 

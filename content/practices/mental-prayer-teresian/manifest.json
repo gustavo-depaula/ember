@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 15,
+	"duration": { "type": "chosen", "default": 15, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The Carmelite method, as Fr. Gabriel of St. Mary Magdalen set it out at the head of *Divine Intimacy*. Everything in it serves one end: to speak affectionately with the Lord after having understood that He loves us. Two introductory parts, two substantial ones, and three that are optional.",
 		"pt-BR": "O método carmelita, tal como o P. Gabriel de Santa Maria Madalena o expôs à frente da *Intimidade Divina*. Tudo nele serve a um só fim: falar afetuosamente com o Senhor depois de ter entendido que Ele nos quer bem. Duas partes introdutórias, duas substanciais e três facultativas."

@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 30,
+	"duration": { "type": "chosen", "default": 30, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "Mental prayer as it is made in Opus Dei: no steps to follow, only a brief act of presence at the start and a brief thanksgiving at the end, and between them a personal conversation with God.",
 		"pt-BR": "A oração mental tal como se faz no Opus Dei: sem passos a seguir, apenas um breve ato de presença no início e uma breve ação de graças no fim, e entre eles uma conversa pessoal com Deus."

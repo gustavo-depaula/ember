@@ -22,13 +22,12 @@ const prayingHands =
  * practice's own cover and tone, and a praying-hands pill with the minutes it
  * takes. Not audio, so no play triangle — the hands are the "pray" mark.
  */
-export function PrayNowCard({ next, comingUp, suggestion, block, onPray }: PrayNow) {
+export function PrayNowCard({ next, comingUp, suggestion, block, minutes, onPray }: PrayNow) {
   const { t } = useTranslation()
   const ref = next.practice_id.includes('/') ? next.practice_id : `practice/${next.practice_id}`
   const manifest = getManifest(next.practice_id)
   const entry = getEntry(ref)
   const description = manifest?.description ? localizeContent(manifest.description) : undefined
-  const minutes = manifest?.estimatedMinutes
   const marker = t(
     (() => {
       if (suggestion) return 'explore.prayNow.suggestion'
@@ -69,7 +68,7 @@ export function PrayNowCard({ next, comingUp, suggestion, block, onPray }: PrayN
                 fontSize={13}
                 lineHeight={18}
               >
-                {t('explore.prayNow.minutes', { count: minutes })}
+                {minutes}
               </Typography>
             )}
           </XStack>

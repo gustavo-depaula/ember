@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 20,
+	"duration": { "type": "chosen", "default": 20, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "St. Ignatius' way of returning to a mystery already meditated: not reasoning about it, but carrying the five senses over it — seeing the persons, hearing what they say, tasting the sweetness of the Godhead, touching the place where they stand.",
 		"pt-BR": "O modo de Santo Inácio de voltar a um mistério já meditado: não raciocinando sobre ele, mas passando por ele os cinco sentidos — vendo as pessoas, ouvindo o que dizem, saboreando a doçura da Divindade, tocando o lugar onde estão."

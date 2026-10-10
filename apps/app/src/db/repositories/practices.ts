@@ -201,6 +201,7 @@ export async function updateSlot(
     notify: string | null
     schedule: string
     pins: Record<string, string>
+    minutes: number
   }>,
 ): Promise<void> {
   if (data.time !== undefined && data.timeBlock === undefined) {
