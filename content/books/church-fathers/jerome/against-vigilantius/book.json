@@ -2,13 +2,16 @@
   "id": "jerome-against-vigilantius",
   "cover": "quarter",
   "name": {
-    "en-US": "Against Vigilantius"
+    "en-US": "Against Vigilantius",
+    "pt-BR": "Contra Vigilâncio"
   },
   "author": {
-    "en-US": "Jerome"
+    "en-US": "Jerome",
+    "pt-BR": "São Jerônimo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Against Vigilantius"
+        "en-US": "Against Vigilantius",
+        "pt-BR": "Contra Vigilâncio"
       }
     }
   ]
