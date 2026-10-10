@@ -20,7 +20,7 @@ describe('canonicalizePracticeIds', () => {
     })
     await createPracticeWithSlot({ id: 'mass' }, { time: '10:00' })
     await createPracticeWithSlot({ id: 'jesus-prayer', customName: 'Jesus Prayer' }, {})
-    await createPracticeWithSlot({ id: 'prostrations', customName: 'Prostrations' }, {})
+    await createPracticeWithSlot({ id: 'paraklesis', customName: 'Paraklesis' }, {})
     await logCompletion('mass', '2026-05-10', '1', 'mass', 'checkin')
 
     await canonicalizePracticeIds()
@@ -28,7 +28,7 @@ describe('canonicalizePracticeIds', () => {
     const { practices, slots, completions } = useEventStore.getState()
     expect(practices.has('mass')).toBe(false)
     expect(practices.has('jesus-prayer')).toBe(false)
-    expect(practices.has('prostrations')).toBe(true)
+    expect(practices.has('paraklesis')).toBe(true)
     const moved = [...slots.values()].find((s) => s.time === '10:00')
     expect(moved?.practice_id).toBe('practice/mass')
     expect([...completions.values()].map((c) => `${c.practice_id}::${c.sub_id}`)).toEqual([

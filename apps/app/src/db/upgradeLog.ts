@@ -26,6 +26,8 @@ const corpusIds: Record<string, string> = {
   'blessed-sacrament': 'practice/visit-blessed-sacrament',
   'three-oclock': 'practice/three-oclock-prayer',
   akathist: 'practice/akathist-hymn-to-the-theotokos-and-ever-vrgin-mary',
+  trisagion: 'practice/trisagion-prayers',
+  prostrations: 'practice/prostrations',
 }
 
 async function renameToCorpusIds(): Promise<void> {
