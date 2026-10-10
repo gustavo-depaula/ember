@@ -2,13 +2,16 @@
   "id": "hippolytus-antichrist",
   "cover": "quarter",
   "name": {
-    "en-US": "The Antichrist"
+    "en-US": "The Antichrist",
+    "pt-BR": "O Anticristo"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Antichrist"
+        "en-US": "The Antichrist",
+        "pt-BR": "O Anticristo"
       }
     }
   ]
