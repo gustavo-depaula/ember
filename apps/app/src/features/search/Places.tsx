@@ -15,6 +15,7 @@ import { localizeContent } from '@/lib/i18n'
 
 const gutter = 16
 const noticeHeight = 132
+const abreastFrom = 700
 
 /**
  * The lobby's fixed places: Mass times as the notice a parish posts on its
@@ -26,7 +27,10 @@ export function Places() {
   // The Rosary's name comes from the catalog, which warms in after launch.
   useCatalogVersion()
   const content = usePageWidth()
-  const cardSize = Math.floor((content - gutter * 2) / 3)
+  // With room, the notice and the three cards share one line.
+  const abreast = content >= abreastFrom
+  const cardSize = abreast ? noticeHeight : Math.floor((content - gutter * 2) / 3)
+  const noticeWidth = abreast ? content - (cardSize + gutter) * 3 : content
 
   const cards = [
     {
@@ -53,14 +57,8 @@ export function Places() {
   ] satisfies Array<{ href: Href; [key: string]: unknown }>
 
   return (
-    <YStack gap="$lg">
-      <Place href="/mass-times" label={t('massTimes.cardTitle').replace('\n', ' ')}>
-        <MassTimesNotice
-          title={t('massTimes.cardTitle')}
-          subtitle={t('massTimes.exploreTagline')}
-          width={content}
-        />
-      </Place>
+    <YStack gap={abreast ? gutter : '$lg'} flexDirection={abreast ? 'row' : 'column'}>
+      <MassTimesDoor width={noticeWidth} />
       <XStack gap={gutter}>
         {cards.map(({ key, href, title, icon, tone }) => (
           <Place key={key} href={href} label={title}>
@@ -69,6 +67,20 @@ export function Places() {
         ))}
       </XStack>
     </YStack>
+  )
+}
+
+/** Mass times, as the notice a parish posts on its door. */
+export function MassTimesDoor({ width }: { width: number }) {
+  const { t } = useTranslation()
+  return (
+    <Place href="/mass-times" label={t('massTimes.cardTitle').replace('\n', ' ')}>
+      <MassTimesNotice
+        title={t('massTimes.cardTitle')}
+        subtitle={t('massTimes.exploreTagline')}
+        width={width}
+      />
+    </Place>
   )
 }
 

@@ -133,6 +133,7 @@ export default {
     catechism: 'Catecismo',
     catechismSub: 'Ler o CIC',
     holyMass: 'Santa Missa',
+    massOfTheDay: 'Missa do dia',
     holyMassSub: 'Ordo Missæ',
     bible: 'Bíblia',
     pray: 'Orar',

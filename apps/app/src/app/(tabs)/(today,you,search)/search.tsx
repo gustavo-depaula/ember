@@ -95,7 +95,7 @@ export default function SearchScreen() {
     <>
       <Stack.Screen options={screenOptions} />
       {bodyMounted && (
-        <ScreenLayout>
+        <ScreenLayout measure="wide">
           {!isSearching && (
             <PageFlourish
               dark={flourishDark}

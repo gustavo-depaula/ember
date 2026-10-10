@@ -7,6 +7,7 @@ export {
   NavigationMedallion,
   OfflineCoverageLine,
   openFidelity,
+  TodayLiturgyPanel,
   TodayPlanPanel,
   TodayPlanSheet,
   TodayRow,

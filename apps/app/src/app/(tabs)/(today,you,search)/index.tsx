@@ -6,6 +6,7 @@ import {
   FadeInView,
   PageBreakOrnament,
   ScreenLayout,
+  SectionDivider,
   Split,
   Typography,
   useWidthClass,
@@ -18,6 +19,7 @@ import {
   FidelitySheet,
   LiturgicalHeader,
   openFidelity,
+  TodayLiturgyPanel,
   TodayPlanPanel,
   TodayPlanSheet,
   TodayRow,
@@ -47,7 +49,7 @@ export default function HomeScreen() {
   const completedCount = todaySlots.filter((s) => completedIds.has(s.id)).length
   // With room for a second column the day's plan stands on the page, as the
   // liturgy of the day does beside the website's home.
-  const { expanded } = useWidthClass()
+  const { medium, expanded } = useWidthClass()
 
   const header = (
     <LiturgicalHeader
@@ -120,19 +122,15 @@ export default function HomeScreen() {
               {header}
               <Split
                 asideSide="right"
-                asideWidth={340}
+                asideWidth={368}
                 gap={28}
+                ruled
                 aside={
-                  // Ruled off from the day's shelves, as the website's column is.
-                  <YStack
-                    gap="$lg"
-                    paddingLeft={28}
-                    borderLeftWidth={0.5}
-                    borderLeftColor="$borderColor"
-                  >
+                  <>
                     <TodayPlanPanel plan={plan} />
+                    <TodayLiturgyPanel date={now} />
                     {fidelityWall}
-                  </YStack>
+                  </>
                 }
               >
                 {shelves}
@@ -146,7 +144,7 @@ export default function HomeScreen() {
             </>
           )}
 
-          <PageBreakOrnament />
+          {medium ? <SectionDivider /> : <PageBreakOrnament />}
 
           <Aspiratio date={now} />
         </YStack>

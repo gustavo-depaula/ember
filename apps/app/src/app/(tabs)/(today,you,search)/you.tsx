@@ -4,7 +4,14 @@ import { useTranslation } from 'react-i18next'
 import { Pressable } from 'react-native'
 import { useTheme, XStack, YStack } from 'tamagui'
 
-import { PageFlourish, ScreenLayout, SectionDivider, Typography } from '@/components'
+import {
+  PageFlourish,
+  ScreenLayout,
+  SectionDivider,
+  Split,
+  Typography,
+  useWidthClass,
+} from '@/components'
 import { LibraryFeed } from '@/features/library'
 import { ChronicleDayRow } from '@/features/memoria'
 import { FootLink, RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
@@ -26,9 +33,28 @@ function YouPage() {
   const theme = useTheme()
   const chronicle = useChronicle()
   const week = chronicle?.dates.slice(0, 7).map(chronicle.dayAt)
+  // With room the week's chronicle stands beside the rule and the shelf
+  // instead of beneath them.
+  const { expanded } = useWidthClass()
+
+  const chronicleSection = (
+    <YStack>
+      <Typography variant="label" paddingBottom="$xs">
+        {t('you.chronicle')}
+      </Typography>
+      {week?.some((day) => day.beads.length || day.extras.length) ? (
+        week.map((day) => <ChronicleDayRow key={day.date} day={day} />)
+      ) : (
+        <Typography tone="muted" fontStyle="italic">
+          {t('memoria.emptyState')}
+        </Typography>
+      )}
+      <FootLink label={t('you.chronicleSeeAll')} chevron onPress={() => router.push('/memoria')} />
+    </YStack>
+  )
 
   return (
-    <ScreenLayout>
+    <ScreenLayout measure="wide">
       <PageFlourish
         dark={flourishDark}
         light={flourishLight}
@@ -48,29 +74,21 @@ function YouPage() {
           </Pressable>
         </XStack>
 
-        <RuleOfLifeSections />
-
-        <LibraryFeed />
-
-        <SectionDivider />
-
-        <YStack>
-          <Typography variant="label" paddingBottom="$xs">
-            {t('you.chronicle')}
-          </Typography>
-          {week?.some((day) => day.beads.length || day.extras.length) ? (
-            week.map((day) => <ChronicleDayRow key={day.date} day={day} />)
-          ) : (
-            <Typography tone="muted" fontStyle="italic">
-              {t('memoria.emptyState')}
-            </Typography>
-          )}
-          <FootLink
-            label={t('you.chronicleSeeAll')}
-            chevron
-            onPress={() => router.push('/memoria')}
-          />
-        </YStack>
+        {expanded ? (
+          <Split asideSide="right" asideWidth={368} gap={28} ruled aside={chronicleSection}>
+            <YStack gap="$lg">
+              <RuleOfLifeSections />
+              <LibraryFeed />
+            </YStack>
+          </Split>
+        ) : (
+          <>
+            <RuleOfLifeSections />
+            <LibraryFeed />
+            <SectionDivider />
+            {chronicleSection}
+          </>
+        )}
       </YStack>
     </ScreenLayout>
   )

@@ -4,6 +4,7 @@ import { useRouter } from 'expo-router'
 import { type ReactNode, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 
+import { useGridCells, useWidthClass } from '@/components'
 import { bareId, getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
@@ -240,8 +241,14 @@ function MeditationTile({
 }) {
   const { t } = useTranslation()
   const dynamicSubtitle = useMeditationSubtitle(id)
+  // Where the row wraps instead of scrolling, its cards share the column out
+  // between them rather than leave a ragged end.
+  const { medium } = useWidthClass()
+  const { cell } = useGridCells(170, 14, 2)
   return (
     <FeatureTile
+      width={medium ? cell : undefined}
+      height={medium ? 264 : undefined}
       title={localizeContent(entry.name ?? {})}
       subtitle={dynamicSubtitle ?? t(subtitleKey)}
       image={artFor(id)}

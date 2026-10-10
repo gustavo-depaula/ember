@@ -5,8 +5,7 @@ import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useThemeName, View, YStack } from 'tamagui'
 
-import { Typography } from '@/components'
-import { useTabBarOnTop } from '@/components/tabAccessory'
+import { Typography, useWidthClass } from '@/components'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { LiturgicalSeason } from '@/lib/liturgical'
 
@@ -37,11 +36,10 @@ export function LiturgicalHeader({
   const router = useRouter()
   const isDark = useThemeName().startsWith('dark')
   const { width: windowWidth } = useWindowDimensions()
-  // A phone gives the ornament its whole width and the notch to hang in. Under
-  // an iPad's top tab bar it keeps to the corner, clear of the bar and the date.
-  const cornerWidth = useTabBarOnTop()
-    ? Math.min(windowWidth * 0.36, 380)
-    : Math.min(windowWidth, cornerMaxWidth)
+  const cornerWidth = Math.min(windowWidth, cornerMaxWidth)
+  // The corner was drawn for a phone, to hang in its notch over the date. On a
+  // wider page it has no notch to hang in and nothing to frame.
+  const phone = !useWidthClass().medium
   const cornerHeight = cornerWidth / (isDark ? 1023 / 456 : 1584 / 672)
   // On notched platforms (iOS) the safe-area inset gives the ornament room. On
   // web/Android-no-notch the inset is 0, which would clip its top edge above
@@ -52,21 +50,23 @@ export function LiturgicalHeader({
 
   return (
     <>
-      <View
-        position="absolute"
-        top={noNotchTopPad - (isDark ? 78 : 73)}
-        right={-16}
-        zIndex={1}
-        style={{ pointerEvents: 'none', transform: [{ scaleX: -1 }] }}
-        accessibilityElementsHidden
-        importantForAccessibility="no-hide-descendants"
-      >
-        <Image
-          source={isDark ? frameCornerDark : frameCornerLight}
-          style={{ width: cornerWidth, height: cornerHeight }}
-          contentFit="contain"
-        />
-      </View>
+      {phone && (
+        <View
+          position="absolute"
+          top={noNotchTopPad - (isDark ? 78 : 73)}
+          right={-16}
+          zIndex={1}
+          style={{ pointerEvents: 'none', transform: [{ scaleX: -1 }] }}
+          accessibilityElementsHidden
+          importantForAccessibility="no-hide-descendants"
+        >
+          <Image
+            source={isDark ? frameCornerDark : frameCornerLight}
+            style={{ width: cornerWidth, height: cornerHeight }}
+            contentFit="contain"
+          />
+        </View>
+      )}
 
       <YStack gap={2} paddingTop={20 + noNotchTopPad}>
         <Pressable

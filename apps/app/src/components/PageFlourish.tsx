@@ -4,8 +4,7 @@ import { useThemeName, View } from 'tamagui'
 
 import { columnWidth, pageGutter } from '@/lib/layout'
 
-import { usePageWidth } from './pageWidth'
-import { useTabBarOnTop } from './tabAccessory'
+import { usePageWidth, useWidthClass } from './pageWidth'
 
 // Each PNG has transparent padding baked around the art. Overscanning the banner
 // past the column width pushes that side padding off-screen so the art itself
@@ -34,7 +33,7 @@ export function PageFlourish({
 }) {
   const insets = useSafeAreaInsets()
   const pageWidth = usePageWidth()
-  const tabBarOnTop = useTabBarOnTop()
+  const { medium } = useWidthClass()
   const isDark = useThemeName().startsWith('dark')
   const source = isDark ? dark : (light ?? dark)
   const ratio = isDark ? aspectRatio : (lightAspectRatio ?? aspectRatio)
@@ -48,9 +47,9 @@ export function PageFlourish({
   const width = base * overscan
   const marginLeft = (pageWidth - width) / 2
 
-  // The banner is the page's crown on a phone, hung in the notch. An iPad's tab
-  // bar floats in that very place, and the two only crowd each other.
-  if (tabBarOnTop) return null
+  // The banners were drawn for a phone, to hang in its notch. A wider page has
+  // no notch, and on an iPad the tab bar floats in that very place.
+  if (medium) return null
 
   return (
     <View

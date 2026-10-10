@@ -6,7 +6,7 @@ import { useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable, ZoomLink } from '@/components'
+import { AnimatedPressable, usePageWidth, ZoomLink } from '@/components'
 import { Typography } from '@/components/typography'
 import { getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
@@ -37,6 +37,10 @@ const fannedBooks = [
   'book/sales-introduction-to-the-devout-life',
 ]
 
+// Room a door needs for its count, its name and its fan.
+const doorMin = 300
+const doorGap = 16
+
 /**
  * The whole corpus behind its doors — prayers, books, collections, chant — each
  * naming how much is inside. Search's empty state is a lobby; the catalogue
@@ -45,6 +49,7 @@ const fannedBooks = [
 export function Acervo() {
   const { t } = useTranslation()
   const catalogVersion = useCatalogVersion()
+  const pageWidth = usePageWidth()
 
   // biome-ignore lint/correctness/useExhaustiveDependencies: catalogVersion bumps as manifests warm in.
   const counts = useMemo(
@@ -56,47 +61,65 @@ export function Acervo() {
     }),
     [catalogVersion],
   )
+  const doors = counts.chants > 0 ? 4 : 3
+  const perRow = (() => {
+    if (pageWidth >= doors * doorMin) return doors
+    if (pageWidth >= 2 * doorMin) return 2
+    return 1
+  })()
+  const doorWidth = (pageWidth - doorGap * (perRow - 1)) / perRow
 
   return (
     <YStack gap="$md">
       <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
         {t('search.acervo')}
       </Typography>
-      <Door
-        count={counts.prayers}
-        title={t('search.prayers')}
-        subtitle={t('search.prayersHint')}
-        href="/browse/prayers"
-      >
-        <ArtFan ids={prayerArt} />
-      </Door>
-      <Door
-        count={counts.books}
-        title={t('search.books')}
-        subtitle={t('search.booksHint')}
-        href="/browse/books"
-      >
-        <BookFan />
-      </Door>
-      <Door
-        count={counts.collections}
-        title={t('search.sectionCollections')}
-        subtitle={t('search.collectionsHint')}
-        href="/browse/all"
-      >
-        <ArtFan ids={collectionArt} />
-      </Door>
-      {/* An app update can reach a phone before the corpus that holds its chants. */}
-      {counts.chants > 0 && (
-        <Door
-          count={counts.chants}
-          title={t('search.chant')}
-          subtitle={t('search.chantHint')}
-          href="/browse/chant"
-        >
-          <LeafFan />
-        </Door>
-      )}
+      {/* The doors in one row where they all fit, two by two where they don't. */}
+      <XStack flexWrap="wrap" gap={doorGap}>
+        <YStack width={doorWidth}>
+          <Door
+            count={counts.prayers}
+            title={t('search.prayers')}
+            subtitle={t('search.prayersHint')}
+            href="/browse/prayers"
+          >
+            <ArtFan ids={prayerArt} />
+          </Door>
+        </YStack>
+        <YStack width={doorWidth}>
+          <Door
+            count={counts.books}
+            title={t('search.books')}
+            subtitle={t('search.booksHint')}
+            href="/browse/books"
+          >
+            <BookFan />
+          </Door>
+        </YStack>
+        <YStack width={doorWidth}>
+          <Door
+            count={counts.collections}
+            title={t('search.sectionCollections')}
+            subtitle={t('search.collectionsHint')}
+            href="/browse/all"
+          >
+            <ArtFan ids={collectionArt} />
+          </Door>
+        </YStack>
+        {/* An app update can reach a phone before the corpus that holds its chants. */}
+        {counts.chants > 0 && (
+          <YStack width={doorWidth}>
+            <Door
+              count={counts.chants}
+              title={t('search.chant')}
+              subtitle={t('search.chantHint')}
+              href="/browse/chant"
+            >
+              <LeafFan />
+            </Door>
+          </YStack>
+        )}
+      </XStack>
     </YStack>
   )
 }
