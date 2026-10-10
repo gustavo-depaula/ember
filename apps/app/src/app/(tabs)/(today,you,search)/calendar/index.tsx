@@ -12,14 +12,14 @@ import {
   useWidthClass,
 } from '@/components'
 import { useMonthCelebrationMap, useYearCalendar } from '@/features/calendar'
-import { CalendarGrid, DayDetail } from '@/features/calendar/components'
+import { CalendarGrid, DayDetail, WallCalendar } from '@/features/calendar/components'
 import { useToday } from '@/hooks/useToday'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import { getCelebrationsForDate } from '@/lib/liturgical'
 
 export default function CalendarScreen() {
   const { t } = useTranslation()
-  const { expanded } = useWidthClass()
+  const { medium, expanded } = useWidthClass()
   const now = useToday()
   const [current, setCurrent] = useState({ year: now.getFullYear(), month: now.getMonth() + 1 })
   const [selectedDay, setSelectedDay] = useState<number | undefined>(
@@ -50,6 +50,7 @@ export default function CalendarScreen() {
 
   const monthLabel = formatLocalized(new Date(current.year, current.month - 1), 'MMMM yyyy')
 
+  const Grid = medium ? WallCalendar : CalendarGrid
   const month = (
     <YStack gap="$md">
       <XStack justifyContent="space-between" alignItems="center" paddingHorizontal="$md">
@@ -106,7 +107,7 @@ export default function CalendarScreen() {
         </XStack>
       )}
 
-      <CalendarGrid
+      <Grid
         year={current.year}
         month={current.month}
         celebrations={celebrationMap}
@@ -117,7 +118,7 @@ export default function CalendarScreen() {
   )
 
   return (
-    <ScreenLayout measure={expanded ? 'wide' : 'column'}>
+    <ScreenLayout measure="wide">
       <YStack gap="$md" paddingVertical="$lg">
         <Typography variant="sacred-title" fontSize="$5" color="$accent" textAlign="center">
           {t('calendar.title')}
@@ -127,8 +128,8 @@ export default function CalendarScreen() {
           // The wall calendar of the website: the month, and its chosen day beside it.
           <Split
             asideSide="right"
-            asideWidth={380}
-            bodyMaxWidth={520}
+            asideWidth={300}
+            gap={40}
             aside={<DayDetail day={selectedDayCalendar} />}
           >
             {month}

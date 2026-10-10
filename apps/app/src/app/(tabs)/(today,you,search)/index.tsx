@@ -121,9 +121,15 @@ export default function HomeScreen() {
               <Split
                 asideSide="right"
                 asideWidth={340}
+                gap={28}
                 aside={
-                  // Clear of the corner ornament, which hangs over this column.
-                  <YStack gap="$lg" paddingTop={72}>
+                  // Ruled off from the day's shelves, as the website's column is.
+                  <YStack
+                    gap="$lg"
+                    paddingLeft={28}
+                    borderLeftWidth={0.5}
+                    borderLeftColor="$borderColor"
+                  >
                     <TodayPlanPanel plan={plan} />
                     {fidelityWall}
                   </YStack>

@@ -12,8 +12,6 @@ import { ZoomLink } from '@/components/ZoomLink'
 import { BookCover, type BookCoverFormat } from '@/features/covers'
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
 
-const panelHeight = 440
-
 export function BookHero({
   name,
   author,
@@ -22,7 +20,6 @@ export function BookHero({
   format,
   scrollY,
   readHref,
-  panel = false,
 }: {
   name: string
   author?: string
@@ -33,18 +30,15 @@ export function BookHero({
   scrollY: SharedValue<number>
   /** Reader route — wrapped in Link.AppleZoom so the capsule morphs into the reader. */
   readHref: Href
-  /** Set into a page's side column: a card of its own, the capsule inside it. */
-  panel?: boolean
 }) {
   const router = useRouter()
   const { t } = useTranslation()
   const insets = useSafeAreaInsets()
   const { height: windowHeight } = useWindowDimensions()
-  const topInset = panel ? 0 : insets.top
-  const heroHeight = panel ? panelHeight : Math.round(windowHeight * 0.5) + insets.top
+  const heroHeight = Math.round(windowHeight * 0.5) + insets.top
   // What's left after the back button, the title block, and the capsule's overlap.
   const coverWidth = Math.round(
-    Math.min(180, Math.max(110, (heroHeight - topInset - 56 - 120 - 40) / 1.5)),
+    Math.min(180, Math.max(110, (heroHeight - insets.top - 56 - 120 - 40) / 1.5)),
   )
 
   // Pull-down (scrollY < 0) grows the tone to fill the overscroll, anchored to
@@ -59,8 +53,7 @@ export function BookHero({
     <YStack
       height={heroHeight}
       backgroundColor={tone.from}
-      borderRadius={panel ? 16 : 0}
-      overflow={panel ? 'hidden' : 'visible'}
+      overflow="visible"
       // Lift above the opaque content column so the floating capsule isn't
       // painted over by the column below.
       zIndex={1}
@@ -70,7 +63,7 @@ export function BookHero({
         pointerEvents="none"
       />
 
-      <YStack position="absolute" top={topInset + 8} left="$md" zIndex={2}>
+      <YStack position="absolute" top={insets.top + 8} left="$md" zIndex={2}>
         <GlassCircle
           onPress={() => (router.canGoBack() ? router.back() : router.push('/'))}
           accessibilityLabel={t('a11y.goBack')}
@@ -84,9 +77,9 @@ export function BookHero({
         alignItems="center"
         justifyContent="flex-end"
         gap="$md"
-        paddingTop={topInset + 56}
+        paddingTop={insets.top + 56}
         paddingHorizontal="$lg"
-        paddingBottom={panel ? 84 : 40}
+        paddingBottom={40}
       >
         <BookCover title={name} author={author} tone={tone} format={format} width={coverWidth} />
         <YStack alignItems="center" gap="$xs">
@@ -119,8 +112,7 @@ export function BookHero({
         <Pressable
           accessibilityRole="button"
           accessibilityLabel={ctaLabel}
-          // One style object: the zoom link's slot rejects an array.
-          style={panel ? styles.capsuleInside : styles.capsuleWrap}
+          style={styles.capsuleWrap}
         >
           <YStack
             backgroundColor="$accent"
@@ -145,5 +137,4 @@ export function BookHero({
 
 const styles = StyleSheet.create({
   capsuleWrap: { position: 'absolute', bottom: -22, alignSelf: 'center' },
-  capsuleInside: { position: 'absolute', bottom: 24, alignSelf: 'center' },
 })

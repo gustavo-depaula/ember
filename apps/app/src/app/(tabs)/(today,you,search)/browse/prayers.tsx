@@ -1,6 +1,6 @@
 import { Image, type ImageSource } from 'expo-image'
 import { Stack, useRouter } from 'expo-router'
-import { useCallback, useMemo, useState } from 'react'
+import { type ReactNode, useCallback, useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable, ScrollView } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -8,11 +8,14 @@ import { XStack, YStack } from 'tamagui'
 
 import {
   HubFrame,
+  HubHeader,
   PageHeader,
   RailBlock,
   RailLink,
   Typography,
   useHubIndexShown,
+  useHubList,
+  usePageWidth,
 } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { bareId, getEntry, isMetaId } from '@/content/contentIndex'
@@ -48,10 +51,7 @@ function has(prayer: Prayer, facet: Facet | undefined): boolean {
 // Every prayer in the corpus in one list, narrowed by form and by devotion.
 export default function AllPrayersScreen() {
   const { t, i18n } = useTranslation()
-  const router = useRouter()
   const catalogVersion = useCatalogVersion()
-  const insets = useSafeAreaInsets()
-  const bottomClearance = useBottomClearance()
   const [formKey, setFormKey] = useState<string>()
   const [devotionKey, setDevotionKey] = useState<string>()
   // With room for it the two facets stand down the side, as on the website.
@@ -84,27 +84,6 @@ export default function AllPrayersScreen() {
     [prayers, form, devotion],
   )
 
-  const renderItem = useCallback(
-    ({ item }: { item: Prayer }) => (
-      <Pressable
-        onPress={() => router.push(practiceHref(item.id))}
-        accessibilityRole="link"
-        accessibilityLabel={t('a11y.viewPractice', { name: item.title })}
-      >
-        <XStack paddingVertical="$sm" alignItems="center" gap="$md">
-          <PrayerTile prayer={item} />
-          <YStack flex={1}>
-            <Typography fontSize="$4" numberOfLines={2}>
-              {item.title}
-            </Typography>
-            {item.minutes && <Typography variant="annotation">{item.minutes}</Typography>}
-          </YStack>
-        </XStack>
-      </Pressable>
-    ),
-    [router, t],
-  )
-
   return (
     <HubFrame
       index={
@@ -131,52 +110,117 @@ export default function AllPrayersScreen() {
       }
     >
       <Stack.Screen options={{ title: t('search.prayers') }} />
-      <FlatList
-        style={{ flex: 1 }}
-        contentContainerStyle={{
-          paddingHorizontal: 24,
-          paddingTop: insets.top,
-          paddingBottom: insets.bottom + bottomClearance + 24,
-        }}
-        contentInsetAdjustmentBehavior="never"
-        data={shown}
-        renderItem={renderItem}
-        keyExtractor={keyExtractor}
-        ListHeaderComponent={
-          <YStack paddingTop="$lg" paddingBottom="$md" gap="$sm">
-            <PageHeader title={t('search.prayers')} />
-            {!sideIndex && (
-              <>
-                <FacetRow
-                  allLabel={t('search.allForms')}
-                  facets={forms}
-                  labelFor={(key) => t(`search.form.${key}`)}
-                  selected={formKey}
-                  onSelect={setFormKey}
-                />
-                <FacetRow
-                  allLabel={t('search.allDevotions')}
-                  facets={devotions}
-                  labelFor={(key) => t(`search.devotion.${key}`)}
-                  selected={devotionKey}
-                  onSelect={setDevotionKey}
-                />
-              </>
-            )}
-            <Typography variant="annotation" paddingTop="$sm">
-              {t('catalog.prayerCount', { count: shown.length })}
-            </Typography>
-          </YStack>
+      <PrayerList
+        shown={shown}
+        facets={
+          sideIndex ? undefined : (
+            <>
+              <FacetRow
+                allLabel={t('search.allForms')}
+                facets={forms}
+                labelFor={(key) => t(`search.form.${key}`)}
+                selected={formKey}
+                onSelect={setFormKey}
+              />
+              <FacetRow
+                allLabel={t('search.allDevotions')}
+                facets={devotions}
+                labelFor={(key) => t(`search.devotion.${key}`)}
+                selected={devotionKey}
+                onSelect={setDevotionKey}
+              />
+            </>
+          )
         }
-        ListEmptyComponent={
-          <Typography tone="muted" fontStyle="italic" paddingVertical="$lg">
-            {t('search.noPrayers')}
-          </Typography>
-        }
-        initialNumToRender={14}
-        showsVerticalScrollIndicator={false}
       />
     </HubFrame>
+  )
+}
+
+// Two rows abreast once each has room for a title beside its tile.
+const twoColumnsFrom = 640
+const columnGap = 48
+
+// Inside the frame, so the list pads and sizes itself from the hub's own column.
+function PrayerList({ shown, facets }: { shown: Prayer[]; facets?: ReactNode }) {
+  const { t } = useTranslation()
+  const router = useRouter()
+  const insets = useSafeAreaInsets()
+  const bottomClearance = useBottomClearance()
+  const { paddingLeft, paddingRight, onScroll, scrollEventThrottle } = useHubList()
+  const pageWidth = usePageWidth()
+  const columns = pageWidth >= twoColumnsFrom ? 2 : 1
+  // Set, not flexed: the last of an odd count keeps to its own column.
+  const rowWidth = columns > 1 ? (pageWidth - columnGap) / 2 : undefined
+
+  const renderItem = useCallback(
+    ({ item }: { item: Prayer }) => (
+      <Pressable
+        style={{ width: rowWidth }}
+        onPress={() => router.push(practiceHref(item.id))}
+        accessibilityRole="link"
+        accessibilityLabel={t('a11y.viewPractice', { name: item.title })}
+      >
+        <XStack
+          paddingVertical="$sm"
+          alignItems="center"
+          gap="$md"
+          borderBottomWidth={columns > 1 ? 0.5 : 0}
+          borderBottomColor="$borderColor"
+        >
+          <PrayerTile prayer={item} />
+          <YStack flex={1}>
+            <Typography fontSize="$4" numberOfLines={2}>
+              {item.title}
+            </Typography>
+            {item.minutes && <Typography variant="annotation">{item.minutes}</Typography>}
+          </YStack>
+        </XStack>
+      </Pressable>
+    ),
+    [router, t, columns, rowWidth],
+  )
+
+  return (
+    <FlatList
+      // numColumns can't change on a mounted list.
+      key={columns}
+      numColumns={columns}
+      columnWrapperStyle={columns > 1 ? { gap: columnGap } : undefined}
+      style={{ flex: 1 }}
+      contentContainerStyle={{
+        paddingLeft,
+        paddingRight,
+        paddingTop: insets.top,
+        paddingBottom: insets.bottom + bottomClearance + 24,
+      }}
+      contentInsetAdjustmentBehavior="never"
+      onScroll={onScroll}
+      scrollEventThrottle={scrollEventThrottle}
+      data={shown}
+      renderItem={renderItem}
+      keyExtractor={keyExtractor}
+      ListHeaderComponent={
+        <>
+          <HubHeader>
+            <YStack paddingTop="$lg" paddingBottom="$md" gap="$sm">
+              <PageHeader title={t('search.prayers')} />
+              {facets}
+            </YStack>
+          </HubHeader>
+          <Typography variant="annotation" paddingBottom="$sm">
+            {t('catalog.prayerCount', { count: shown.length })}
+          </Typography>
+        </>
+      }
+      ListEmptyComponent={
+        <Typography tone="muted" fontStyle="italic" paddingVertical="$lg">
+          {t('search.noPrayers')}
+        </Typography>
+      }
+      initialNumToRender={14}
+      showsVerticalScrollIndicator={false}
+    />
   )
 }
 

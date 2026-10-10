@@ -5,25 +5,26 @@ import {
   useSafeAreaInsets,
 } from 'react-native-safe-area-context'
 
-import { topTabBarClearance, useTabBarOnTop } from './tabAccessory'
+import { topTabBarInset, useTabBarOnTop } from './tabAccessory'
 
 const WindowInsetsContext = createContext<EdgeInsets | undefined>(undefined)
 
 /**
- * Where the tab bar floats at the top of the window (iPad, Mac), counts it into
- * the top safe-area inset for everything beneath: each screen already keeps
- * clear of `insets.top`, and its header art still bleeds up behind the bar.
+ * Where the tab bar floats at the top of the window (iPad, Mac), makes the top
+ * safe-area inset the bar's lower edge for everything beneath: each screen
+ * already keeps clear of `insets.top`, and its header art still bleeds up
+ * behind the bar.
  */
 export function TabBarInsets({ skip, children }: { skip?: boolean; children: ReactNode }) {
   const insets = useSafeAreaInsets()
   const onTop = useTabBarOnTop()
-  const padded = useMemo(
-    () => (onTop && !skip ? { ...insets, top: insets.top + topTabBarClearance } : insets),
+  const underBar = useMemo(
+    () => (onTop && !skip ? { ...insets, top: topTabBarInset } : insets),
     [insets, onTop, skip],
   )
   return (
     <WindowInsetsContext.Provider value={insets}>
-      <SafeAreaInsetsContext.Provider value={padded}>{children}</SafeAreaInsetsContext.Provider>
+      <SafeAreaInsetsContext.Provider value={underBar}>{children}</SafeAreaInsetsContext.Provider>
     </WindowInsetsContext.Provider>
   )
 }

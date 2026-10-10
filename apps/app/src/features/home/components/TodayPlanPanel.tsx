@@ -17,7 +17,7 @@ export function TodayPlanPanel({ plan }: { plan: TodayPlan }) {
   const { t } = useTranslation()
   return (
     <YStack gap="$md">
-      <Typography variant="screen-title" fontSize="$5">
+      <Typography variant="marker" textAlign="left" fontSize={12}>
         {t('home.planOfLife')}
       </Typography>
       <ObligationNotice date={plan.now} />

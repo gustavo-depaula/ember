@@ -7,10 +7,12 @@ import { Text, XStack, YStack } from 'tamagui'
 
 import {
   HubFrame,
+  HubHeader,
   PageHeader,
   RailLink,
   Typography,
   useGridCells,
+  useHubList,
   useWidthClass,
 } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
@@ -127,7 +129,8 @@ export default function AllBooksScreen() {
 function scrollToShelf(list: RefObject<FlatList<Line> | null>, key: string) {
   const lines = list.current?.props.data as Line[] | undefined
   const index = lines?.findIndex((line) => line.kind === 'heading' && line.key === key) ?? -1
-  if (index >= 0) list.current?.scrollToIndex({ index, animated: true })
+  // Lands the heading beneath the tab bar, not behind it.
+  if (index >= 0) list.current?.scrollToIndex({ index, animated: true, viewOffset: 96 })
 }
 
 // Inside the frame, so the covers size from the list's own column.
@@ -148,6 +151,7 @@ function BookList({
   const insets = useSafeAreaInsets()
   const bottomClearance = useBottomClearance()
   const { columns, cell: size } = useGridCells(carouselCover, gutter, phoneColumns)
+  const { paddingLeft, paddingRight, onScroll, scrollEventThrottle } = useHubList()
 
   const lines = useMemo<Line[]>(() => {
     const rows = (shelf: Shelf): Line[] => {
@@ -223,19 +227,24 @@ function BookList({
         setTimeout(() => list.current?.scrollToIndex({ index, animated: false }), 80)
       }}
       contentContainerStyle={{
-        paddingHorizontal: 24,
+        paddingLeft,
+        paddingRight,
         paddingTop: insets.top,
         paddingBottom: insets.bottom + bottomClearance + 24,
       }}
       contentInsetAdjustmentBehavior="never"
+      onScroll={onScroll}
+      scrollEventThrottle={scrollEventThrottle}
       data={lines}
       renderItem={renderItem}
       keyExtractor={keyExtractor}
       ItemSeparatorComponent={grid || opened ? undefined : ShelfGap}
       ListHeaderComponent={
-        <YStack paddingTop="$lg" paddingBottom="$lg">
-          <PageHeader title={title} />
-        </YStack>
+        <HubHeader>
+          <YStack paddingTop="$lg" paddingBottom="$lg">
+            <PageHeader title={title} />
+          </YStack>
+        </HubHeader>
       }
       ListEmptyComponent={
         <YStack alignItems="center" gap="$sm" paddingVertical="$lg" paddingHorizontal="$lg">

@@ -6,7 +6,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useThemeName, View, YStack } from 'tamagui'
 
 import { Typography } from '@/components'
-import { topTabBarClearance, useTabBarOnTop } from '@/components/tabAccessory'
+import { useTabBarOnTop } from '@/components/tabAccessory'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { LiturgicalSeason } from '@/lib/liturgical'
 
@@ -37,15 +37,16 @@ export function LiturgicalHeader({
   const router = useRouter()
   const isDark = useThemeName().startsWith('dark')
   const { width: windowWidth } = useWindowDimensions()
-  const cornerWidth = Math.min(windowWidth, cornerMaxWidth)
+  // A phone gives the ornament its whole width and the notch to hang in. Under
+  // an iPad's top tab bar it keeps to the corner, clear of the bar and the date.
+  const cornerWidth = useTabBarOnTop()
+    ? Math.min(windowWidth * 0.36, 380)
+    : Math.min(windowWidth, cornerMaxWidth)
   const cornerHeight = cornerWidth / (isDark ? 1023 / 456 : 1584 / 672)
   // On notched platforms (iOS) the safe-area inset gives the ornament room. On
   // web/Android-no-notch the inset is 0, which would clip its top edge above
   // the viewport — add a virtual notch.
   const noNotchTopPad = useSafeAreaInsets().top === 0 ? 32 : 0
-  // An iPad's tab bar pushes the page down from the top; the ornament stays up
-  // in the corner, behind the bar, where it hangs clear of the date as on a phone.
-  const tabBarLift = useTabBarOnTop() ? topTabBarClearance : 0
   // "Segunda-feira" → "Segunda": every weekday stays clear of the ornament.
   const weekday = formatLocalized(date, 'EEEE').replace(/-feira$/, '')
 
@@ -53,7 +54,7 @@ export function LiturgicalHeader({
     <>
       <View
         position="absolute"
-        top={noNotchTopPad - tabBarLift - (isDark ? 78 : 73)}
+        top={noNotchTopPad - (isDark ? 78 : 73)}
         right={-16}
         zIndex={1}
         style={{ pointerEvents: 'none', transform: [{ scaleX: -1 }] }}

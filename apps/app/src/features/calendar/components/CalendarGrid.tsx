@@ -10,6 +10,27 @@ import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 const dayKeys = ['sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat'] as const
 
+/** The month as rows of seven, Sunday first; `null` pads the first and last weeks. */
+export function monthWeeks(year: number, month: number): (number | null)[][] {
+  const firstDay = new Date(year, month - 1, 1).getDay()
+  const daysInMonth = new Date(year, month, 0).getDate()
+  const rows: (number | null)[][] = []
+  let row: (number | null)[] = Array(firstDay).fill(null)
+
+  for (let d = 1; d <= daysInMonth; d++) {
+    row.push(d)
+    if (row.length === 7) {
+      rows.push(row)
+      row = []
+    }
+  }
+  if (row.length > 0) {
+    while (row.length < 7) row.push(null)
+    rows.push(row)
+  }
+  return rows
+}
+
 const DayCell = memo(function DayCell({
   day,
   celebration,
@@ -87,25 +108,7 @@ export function CalendarGrid({
   const isCurrentMonth = today.getFullYear() === year && today.getMonth() + 1 === month
   const todayDay = isCurrentMonth ? today.getDate() : -1
 
-  const weeks = useMemo(() => {
-    const firstDay = new Date(year, month - 1, 1).getDay()
-    const daysInMonth = new Date(year, month, 0).getDate()
-    const rows: (number | null)[][] = []
-    let row: (number | null)[] = Array(firstDay).fill(null)
-
-    for (let d = 1; d <= daysInMonth; d++) {
-      row.push(d)
-      if (row.length === 7) {
-        rows.push(row)
-        row = []
-      }
-    }
-    if (row.length > 0) {
-      while (row.length < 7) row.push(null)
-      rows.push(row)
-    }
-    return rows
-  }, [year, month])
+  const weeks = useMemo(() => monthWeeks(year, month), [year, month])
 
   const getCelebration = useCallback(
     (day: number) => {

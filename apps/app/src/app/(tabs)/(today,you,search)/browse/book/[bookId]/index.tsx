@@ -1,5 +1,5 @@
 import { type Href, useLocalSearchParams, useRouter } from 'expo-router'
-import { Check, ChevronDown, ChevronRight, Search } from 'lucide-react-native'
+import { Check, ChevronDown, ChevronLeft, ChevronRight, Search } from 'lucide-react-native'
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView, useWindowDimensions } from 'react-native'
@@ -9,6 +9,7 @@ import { useTheme, XStack, YStack } from 'tamagui'
 import { useWidthClass } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
+import { ZoomLink } from '@/components/ZoomLink'
 import type { TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
@@ -35,11 +36,11 @@ import { parseReaderPosition } from '@/features/books/reader/useReaderCursor'
 import { useReadingFlow } from '@/features/books/reader/useReadingFlow'
 import { SessionToast } from '@/features/books/SessionToast'
 import { PrologueProse } from '@/features/collections'
-import { bookCoverFormat } from '@/features/covers'
+import { BookCover, bookCoverFormat } from '@/features/covers'
 import { toneByIndex, toneIndexForId } from '@/features/explore/bgColor'
 import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
-import { pageGutter, pageOuterWidth } from '@/lib/layout'
+import { pageGutter } from '@/lib/layout'
 import { formatSoftRelative } from '@/lib/softRelative'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -64,6 +65,9 @@ export default function BookDetailScreen() {
   // contents scroll, as the website's book page does.
   const { expanded: split } = useWidthClass()
   const { width: windowWidth } = useWindowDimensions()
+  // The pair is centred: what the aside, the gap and a full body leave over.
+  const room = windowWidth - insets.left - insets.right
+  const side = Math.max(pageGutter, (room - asideWidth - splitGap - bodyMaxWidth) / 2)
 
   const [addingToCollection, setAddingToCollection] = useState(false)
   const [browsingToc, setBrowsingToc] = useState(false)
@@ -205,7 +209,6 @@ export default function BookDetailScreen() {
       format={bookCoverFormat(entry.cover)}
       scrollY={scrollY}
       readHref={readerHref()}
-      panel={split}
     />
   )
   const actions = (
@@ -259,46 +262,90 @@ export default function BookDetailScreen() {
   return (
     <>
       {split ? (
-        <XStack
-          flex={1}
-          width="100%"
-          maxWidth={pageOuterWidth(windowWidth - insets.left - insets.right, 'wide')}
-          alignSelf="center"
-          justifyContent="center"
-          paddingHorizontal={pageGutter}
-          gap={72}
-          backgroundColor="$background"
-        >
-          <ScrollView
-            style={{ flexGrow: 0, width: asideWidth }}
-            contentContainerStyle={{
-              paddingTop: insets.top + pageGutter,
-              paddingBottom: insets.bottom + bottomClearance + pageGutter,
-              gap: 24,
-            }}
-            contentInsetAdjustmentBehavior="never"
-            showsVerticalScrollIndicator={false}
-          >
-            {hero}
-            {actions}
-            {progress}
-          </ScrollView>
+        // One scroller the width of the window, so the system's fade under the
+        // bar runs edge to edge; the aside stands over its left padding.
+        <YStack flex={1} backgroundColor="$background">
           <Animated.FlatList
             {...tocList}
-            style={{ flex: 1, maxWidth: bodyMaxWidth }}
+            style={{ flex: 1 }}
             contentContainerStyle={{
+              paddingLeft: insets.left + side + asideWidth + splitGap,
+              paddingRight: insets.right + side,
               paddingTop: insets.top + pageGutter,
               paddingBottom: insets.bottom + bottomClearance + pageGutter,
             }}
             showsVerticalScrollIndicator={false}
             ListHeaderComponent={
               <YStack gap="$lg">
+                <YStack gap="$xs">
+                  <Typography variant="marker" textAlign="left" fontSize={11}>
+                    {t('search.books')}
+                  </Typography>
+                  <Typography variant="sacred-title" textAlign="left" fontSize={38} lineHeight={46}>
+                    {name}
+                  </Typography>
+                  {author && (
+                    <Typography variant="marker" textAlign="left" color="$accent" fontSize="$2">
+                      {author}
+                    </Typography>
+                  )}
+                </YStack>
                 {description && <PrologueProse text={description} />}
                 {sumario}
               </YStack>
             }
           />
-        </XStack>
+          <ScrollView
+            style={{
+              position: 'absolute',
+              top: 0,
+              bottom: 0,
+              left: insets.left + side,
+              width: asideWidth,
+            }}
+            contentContainerStyle={{
+              paddingTop: insets.top,
+              paddingBottom: insets.bottom + bottomClearance + pageGutter,
+              gap: 24,
+            }}
+            contentInsetAdjustmentBehavior="never"
+            showsVerticalScrollIndicator={false}
+          >
+            <Pressable
+              onPress={() => (router.canGoBack() ? router.back() : router.push('/'))}
+              accessibilityRole="button"
+              accessibilityLabel={t('a11y.goBack')}
+              style={{ width: 44, height: 44, justifyContent: 'center', marginLeft: -10 }}
+            >
+              <ChevronLeft size={22} color={theme.color?.val} />
+            </Pressable>
+            <YStack alignItems="center" gap={24}>
+              <BookCover
+                title={name}
+                author={author}
+                tone={toneByIndex(toneIndexForId(bookRef))}
+                format={bookCoverFormat(entry.cover)}
+                width={asideCover}
+              />
+              <ZoomLink href={readerHref()}>
+                <Pressable accessibilityRole="button" accessibilityLabel={ctaLabel}>
+                  <YStack
+                    backgroundColor="$accent"
+                    borderRadius={9999}
+                    paddingVertical="$sm"
+                    paddingHorizontal="$xl"
+                  >
+                    <Typography variant="label" fontSize="$3" color="$background" numberOfLines={1}>
+                      {ctaLabel}
+                    </Typography>
+                  </YStack>
+                </Pressable>
+              </ZoomLink>
+            </YStack>
+            {actions}
+            {progress}
+          </ScrollView>
+        </YStack>
       ) : (
         /* One virtualized list for the whole screen: the hero + meta live in the
           header so the collapsible Sumário can virtualize (a list can't nest in
@@ -369,6 +416,8 @@ const tocRowHeight = 56
 // The website's split: a 320 aside beside a body of at most 700.
 const asideWidth = 320
 const bodyMaxWidth = 700
+const splitGap = 72
+const asideCover = 250
 
 function tocKeyExtractor(item: FlatTocItem) {
   return item.node.id

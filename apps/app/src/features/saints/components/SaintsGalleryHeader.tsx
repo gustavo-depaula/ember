@@ -96,7 +96,8 @@ export function SaintsGalleryHeader({
         </YStack>
       )}
 
-      <YStack paddingTop="$lg" paddingBottom="$xs">
+      {/* A control, not a rule across a wide page. */}
+      <YStack paddingTop="$lg" paddingBottom="$xs" width="100%" maxWidth={480}>
         {Platform.OS === 'android' ? (
           // Material's segmented buttons carry their own type, tick and
           // outline, none of which belong to the page.

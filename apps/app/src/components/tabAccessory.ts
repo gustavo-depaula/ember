@@ -22,8 +22,13 @@ export function setTabAccessoryHeight(height: number): void {
 // returns to the bottom, as on iPhone. UIKit decides by size class, which RN
 // doesn't expose: regular begins between 640 and 678pt on every iPad.
 const regularWidth = 660
-/** The floating pill's height and the air around it, below the status bar. */
-export const topTabBarClearance = 52
+/**
+ * Where content may begin beneath the floating pill, from the window's top. A
+ * constant, not an addition to the measured inset: the pill hangs at 36–72pt in
+ * every regular-width window, while the inset a pushed screen measures there
+ * grows 32pt with each level of the stack.
+ */
+export const topTabBarInset = 84
 
 /** Whether the system tab bar is floating at the top of the window (iPad, Mac). */
 export function useTabBarOnTop(): boolean {
