@@ -10,6 +10,7 @@ import { beforeEach, describe, expect, it } from 'vitest'
 import { createEventsTable, replayAll, useEventStore } from '@/db/events'
 import { setDb } from '@/db/instance'
 import initialMigration from '@/db/migrations/0001_initial.sql'
+import { createPracticeWithSlot, logCompletion } from '@/db/repositories'
 import { getAllPreferences, getPreference, setPreference } from '@/db/repositories/preferences'
 import { getSavedItems } from '@/db/repositories/savedItems'
 import { getUserCollectionItems, getUserCollections } from '@/db/repositories/userCollections'
@@ -97,5 +98,32 @@ describe('opening a database that kept the shelf and collections in tables', () 
     ).toHaveLength(1)
     await replayAll()
     expect(await getPreference('translation')).toBe('NABRE')
+  })
+
+  it("moves a practice kept under one of launch's own ids to its corpus practice", async () => {
+    const db = await openDatabaseAsync('ember.db')
+    setDb(db as never)
+    await db.execAsync(initialMigration)
+    await createEventsTable(db as never)
+    await createPracticeWithSlot(
+      { id: 'three-oclock', customName: "Three O'Clock Prayer", customIcon: 'clock' },
+      { time: '15:00' },
+    )
+    await logCompletion('three-oclock', '2026-05-10', '1', 'three-oclock', 'checklist')
+
+    await upgradeLog(db as never)
+    await replayAll()
+
+    const { practices, slots, completions } = useEventStore.getState()
+    expect([...practices.values()]).toEqual([
+      expect.objectContaining({ practice_id: 'practice/three-oclock-prayer', custom_name: null }),
+    ])
+    expect(slots.get('practice/three-oclock-prayer::1')).toMatchObject({
+      time: '15:00',
+      enabled: 1,
+    })
+    expect([...completions.values()].map((c) => c.practice_id)).toEqual([
+      'practice/three-oclock-prayer',
+    ])
   })
 })
