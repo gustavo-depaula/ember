@@ -88,7 +88,7 @@ export default function PlanPracticeScreen() {
   const group = useMemo(() => getAlternativeGroup(practiceId), [practiceId])
   const programProgress = useProgramProgress(practiceId, manifest?.program)
   const enabled = slots.filter((s) => s.enabled === 1)
-  // Archived, or only the switched-off placeholder every practice is seeded with.
+  // Archived, or taken out of the plan with its slots switched off.
   const outOfRule = practice?.archived === 1 || enabled.length === 0
   const plan = usePracticePlan(baseManifest)
 

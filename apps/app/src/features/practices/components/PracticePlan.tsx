@@ -59,14 +59,20 @@ export function usePracticePlan(
   const slotDefaults = manifest?.defaults?.slots?.[0]
   const suggestedTime = slotDefaults?.time
   const defaultTier = (slotDefaults?.tier as Tier | undefined) ?? 'ideal'
+  // Where the practice asks to stand in a plan it joins for the first time.
+  const ownSlot = {
+    tier: defaultTier,
+    time: suggestedTime,
+    sortOrder: manifest?.defaults?.sortOrder,
+  }
 
   // An office arrives with every hour listed, each its own row to switch off.
   // Resolves false for any other practice, which the caller adds as one slot.
   async function addHours(id: string, base: { tier: Tier; schedule: string }) {
     const hours = getHourSlots(await loadFlow(id)).map((h) => ({ ...base, ...h }))
     if (hours.length === 0) return false
-    // Startup seeding leaves a disabled, unpinned slot for every practice; it
-    // becomes the first hour rather than a stray "whole office" row.
+    // A practice taken out of the plan keeps its slot, switched off; unpinned,
+    // it becomes the first hour rather than a stray "whole office" row.
     const placeholder = getSlotsForPractice(id).find((s) => !s.pins && s.enabled === 0)
     const [first, ...rest] = hours
     if (placeholder) updateSlot.mutate({ id: placeholder.id, data: { ...first, enabled: 1 } })
@@ -109,10 +115,9 @@ export function usePracticePlan(
       ...(standing ? { standing: true } : {}),
       ...(enrolled.type === 'ember-days' && !standing ? { only: startDate } : {}),
     }
-    // Every practice is seeded with a switched-off slot, so this is the usual
-    // path: the slot takes the program's calendar as it's switched on. Left on
-    // its daily rule, a novena's days would only advance by prayers, and a day
-    // missed would never show.
+    // A program begun before left its slot behind: it takes the program's
+    // calendar as it's switched on. Left on its old rule, a novena's days would
+    // only advance by prayers, and a day missed would never show.
     if (firstSlot) {
       updateSlot.mutate(
         { id: firstSlot.id, data: { schedule: JSON.stringify(schedule) } },
@@ -120,11 +125,9 @@ export function usePracticePlan(
       )
       return
     }
-    withTime(schedule, 'time', ({ time }) =>
-      createPractice.mutate(
-        { id: planId, slot: { tier: defaultTier, time, schedule: JSON.stringify(schedule) } },
-        { onSuccess },
-      ),
+    createPractice.mutate(
+      { id: planId, slot: { ...ownSlot, schedule: JSON.stringify(schedule) } },
+      { onSuccess },
     )
   }
 
@@ -142,7 +145,7 @@ export function usePracticePlan(
     const base = { tier: firstSlot?.tier ?? defaultTier, schedule: JSON.stringify(schedule) }
     void addHours(planId, base).then((added) => {
       if (added) return
-      // The seeded slot already carries the hour the practice suggests.
+      // A slot kept from before comes back at its own hour.
       if (firstSlot?.time) return enableSlots.mutate(planId)
       withTime(schedule, 'both', (when) => {
         const data = { schedule: JSON.stringify(when.schedule), time: when.time }
@@ -150,7 +153,7 @@ export function usePracticePlan(
         createPractice.mutate({
           id: planId,
           activeVariant: planId,
-          slot: { tier: base.tier, ...data },
+          slot: { ...ownSlot, ...data },
         })
       })
     })

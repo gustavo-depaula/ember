@@ -3,13 +3,15 @@
 
 import { format, subDays } from 'date-fns'
 
+import { getManifest } from '@/content/resolver'
 import { parseSlotKey } from '@/lib/slotKey'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { useEventStore } from './events'
 import { emitBatch } from './events/store'
 import { getDb } from './instance'
-import { seedCursors, seedPractices } from './seed'
+import { createPracticeWithSlot } from './repositories'
+import type { Tier } from './schema'
 
 const wipeSql = `
 DELETE FROM events;
@@ -41,18 +43,21 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
   // since `_layout.tsx` waits on these flags before rendering.
   await useBibleStore.getState().hydrate()
 
-  // Serial: each seed call ends up in `emitBatch` -> `runBatchInTx`, and a
-  // single expo-sqlite connection can't hold two transactions at once.
-  await seedPractices()
-  await seedCursors()
-
-  if (fixtures.enableSlotKeys?.length) {
-    await emitBatch(
-      fixtures.enableSlotKeys.map((slotKey) => ({
-        type: 'SlotUpdated' as const,
-        slotKey,
-        changes: { enabled: 1 },
-      })),
+  // Each joins the plan as it would from its own page, taking the first slot
+  // key ('practice/x::1'). Serial: a single expo-sqlite connection can't hold
+  // two transactions at once.
+  for (const slotKey of fixtures.enableSlotKeys ?? []) {
+    const { practiceId } = parseSlotKey(slotKey)
+    const defaults = getManifest(practiceId)?.defaults
+    const slot = defaults?.slots?.[0]
+    await createPracticeWithSlot(
+      { id: practiceId, activeVariant: practiceId },
+      {
+        tier: slot?.tier as Tier | undefined,
+        time: slot?.time,
+        schedule: slot && JSON.stringify(slot.schedule),
+        sortOrder: defaults?.sortOrder,
+      },
     )
   }
 

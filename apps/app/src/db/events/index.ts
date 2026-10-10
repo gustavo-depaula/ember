@@ -1,3 +1,4 @@
+export { dropPlaceholders } from './compact'
 export type {
   EventStoreState,
   SlotState,

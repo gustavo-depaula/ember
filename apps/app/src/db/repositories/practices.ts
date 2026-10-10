@@ -73,7 +73,14 @@ export async function updatePractice(
   await emit({ type: 'PracticeUpdated', practiceId, ...data })
 }
 
-type SlotInput = { tier?: Tier; time?: string; schedule?: string; pins?: Record<string, string> }
+type SlotInput = {
+  tier?: Tier
+  time?: string
+  schedule?: string
+  pins?: Record<string, string>
+  // Where the slot stands in the plan; after every other when absent.
+  sortOrder?: number
+}
 
 // `offset` spaces the ids and sort orders of slots built together in one batch,
 // before any of them reaches the store the counters read from.
@@ -90,7 +97,7 @@ function buildSlotAddedEvent(practiceId: string, data: SlotInput, offset = 0) {
       time,
       timeBlock: deriveTimeBlock(time),
       schedule: data.schedule ?? '{"type":"daily"}',
-      sortOrder: maxSortOrder() + 1 + offset,
+      sortOrder: data.sortOrder ?? maxSortOrder() + 1 + offset,
       enabled: 1,
       ...(data.pins ? { pins: data.pins } : {}),
     },
