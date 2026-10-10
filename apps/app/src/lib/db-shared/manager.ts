@@ -1,7 +1,7 @@
 import { openDatabaseAsync } from 'expo-sqlite'
 import { Platform } from 'react-native'
 
-import { eventsTableSql } from '@/db/events/store'
+import { createEventsTable } from '@/db/events/store'
 import initialMigration from '@/db/migrations/0001_initial.sql'
 
 /**
@@ -187,7 +187,12 @@ async function sendRequest(body: RequestBody): Promise<unknown> {
 async function becomeLeader(): Promise<void> {
   realDb = await openDatabaseAsync('ember.db')
   await realDb.execAsync(initialMigration)
-  await realDb.execAsync(eventsTableSql)
+  const db = realDb
+  await createEventsTable({
+    execAsync: (sql) => db.execAsync(sql),
+    getAllAsync: (sql, params = []) => db.getAllAsync(sql, params),
+    runAsync: (sql, params = []) => db.runAsync(sql, params),
+  })
   isLeader = true
   ensureChannel().postMessage({ type: 'leader-ready', leaderId: tabId })
   leaderReady.resolve()

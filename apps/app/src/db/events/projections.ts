@@ -180,9 +180,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       }
       draft.completions.set(event.completionId, completion)
       addCompletionToIndexes(draft, event.completionId, event.date, event.practiceId)
-      if (event.completionId >= draft.nextCompletionId) {
-        draft.nextCompletionId = event.completionId + 1
-      }
       break
     }
 
@@ -203,9 +200,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
         }
         draft.completions.set(entry.completionId, completion)
         addCompletionToIndexes(draft, entry.completionId, entry.date, event.practiceId)
-        if (entry.completionId >= draft.nextCompletionId) {
-          draft.nextCompletionId = entry.completionId + 1
-        }
       }
       break
     }
@@ -258,7 +252,7 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
 
 function addCompletionToIndexes(
   draft: WritableDraft<EventStoreState>,
-  completionId: number,
+  completionId: string,
   date: string,
   practiceId: string,
 ): void {
@@ -279,7 +273,7 @@ function addCompletionToIndexes(
 
 function removeCompletionFromIndexes(
   draft: WritableDraft<EventStoreState>,
-  completionId: number,
+  completionId: string,
   date: string,
   practiceId: string,
 ): void {

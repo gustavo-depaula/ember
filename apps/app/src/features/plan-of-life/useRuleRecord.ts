@@ -42,7 +42,7 @@ function useRuleEvents(signature: string): TimedEvent[] | undefined {
     queryFn: async () => {
       const placeholders = ruleEventTypes.map(() => '?').join(', ')
       const rows = await getDb().getAllAsync<Pick<StoredEvent, 'payload' | 'timestamp'>>(
-        `SELECT payload, timestamp FROM events WHERE type IN (${placeholders}) ORDER BY sequence`,
+        `SELECT payload, timestamp FROM events WHERE type IN (${placeholders}) ORDER BY id`,
         ruleEventTypes,
       )
       return rows.map((r) => ({ event: JSON.parse(r.payload) as AppEvent, timestamp: r.timestamp }))

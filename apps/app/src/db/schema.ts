@@ -23,7 +23,7 @@ export type NotifyConfig = {
 export type CompletionVia = 'amen' | 'checklist' | 'checkin'
 
 export type Completion = {
-  id: number
+  id: string
   practice_id: string
   sub_id: string | null
   date: string

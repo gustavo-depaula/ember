@@ -96,7 +96,7 @@ export type PracticeEvent =
 
 type CompletionLogged = {
   type: 'CompletionLogged'
-  completionId: number
+  completionId: string
   practiceId: string
   subId: string | null
   date: string
@@ -107,7 +107,7 @@ type CompletionLogged = {
 
 type CompletionRemoved = {
   type: 'CompletionRemoved'
-  completionId: number
+  completionId: string
   practiceId: string
   date: string
   subId: string | null
@@ -116,7 +116,7 @@ type CompletionRemoved = {
 type CompletionsBatchLogged = {
   type: 'CompletionsBatchLogged'
   practiceId: string
-  entries: { completionId: number; date: string; subId: string; completedAt: number }[]
+  entries: { completionId: string; date: string; subId: string; completedAt: number }[]
 }
 
 export type CompletionEvent = CompletionLogged | CompletionRemoved | CompletionsBatchLogged
@@ -157,6 +157,7 @@ export type AppEvent = PracticeEvent | CompletionEvent | CursorEvent | HolyCardE
 
 export type StoredEvent = {
   sequence: number
+  id: string
   type: string
   payload: string
   timestamp: number

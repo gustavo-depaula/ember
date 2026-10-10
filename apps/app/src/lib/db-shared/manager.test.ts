@@ -6,7 +6,7 @@ import { CHANNEL_NAME } from './protocol'
 vi.mock('react-native', () => ({ Platform: { OS: 'web' } }))
 vi.mock('expo-sqlite', () => ({ openDatabaseAsync: vi.fn() }))
 vi.mock('@/db/migrations/0001_initial.sql', () => ({ default: '' }))
-vi.mock('@/db/events/store', () => ({ eventsTableSql: '' }))
+vi.mock('@/db/events/store', () => ({ createEventsTable: async () => {} }))
 
 class FakeBroadcastChannel {
   static byName = new Map<string, FakeBroadcastChannel[]>()

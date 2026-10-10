@@ -15,7 +15,7 @@ beforeAll(() => {
 })
 
 const prayed = (prayed_id: string, sub_id = 'default'): Completion => ({
-  id: 0,
+  id: '0',
   practice_id: 'practice/plan-practice',
   sub_id,
   date: '2026-10-04',
@@ -62,10 +62,10 @@ describe('roundActs', () => {
   // Advent 2026: Wednesday 16, Friday 18 and Saturday 19 December.
   const plan = (marked: Record<string, string>) => {
     const completions = new Map(
-      Object.entries(marked).map(([date, on], i): [number, Completion] => [
-        i,
+      Object.entries(marked).map(([date, on], i): [string, Completion] => [
+        String(i),
         {
-          id: i,
+          id: String(i),
           practice_id: 'ember-days',
           sub_id: 'default',
           date,

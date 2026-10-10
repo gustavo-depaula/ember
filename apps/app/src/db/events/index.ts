@@ -1,3 +1,4 @@
+export { nextId } from './clock'
 export { dropPlaceholders } from './compact'
 export type {
   EventStoreState,
@@ -16,8 +17,8 @@ export type {
 import type { Completion } from '../schema'
 
 export function resolveCompletions(
-  ids: Set<number> | undefined,
-  completions: Map<number, Completion>,
+  ids: Set<string> | undefined,
+  completions: Map<string, Completion>,
 ): Completion[] {
   if (!ids) return []
   const result: Completion[] = []

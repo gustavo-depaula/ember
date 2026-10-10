@@ -33,7 +33,7 @@ function placeholder(practiceId: string): AppEvent[] {
   ]
 }
 
-const logged = (practiceId: string, completionId: number): AppEvent => ({
+const logged = (practiceId: string, completionId: string): AppEvent => ({
   type: 'CompletionLogged',
   completionId,
   practiceId,
@@ -75,8 +75,8 @@ describe('opening a log that launch had filled with every practice', () => {
         changes: { time: '12:00', enabled: 1 },
       },
       // Prayed from the library, under the canonical id and under the bare one.
-      logged('practice/lectio', 1),
-      logged('stations', 2),
+      logged('practice/lectio', 'a'),
+      logged('stations', 'b'),
       // A template's bare-id copy folded into the placeholder.
       { type: 'PracticeCreated', practiceId: 'mass' },
       { ...placeholder('mass')[1], enabled: 1 } as AppEvent,

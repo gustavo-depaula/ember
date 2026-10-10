@@ -1,6 +1,6 @@
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
-import { emit, emitBatch, resolveCompletions, useEventStore } from '../events'
+import { emit, emitBatch, nextId, resolveCompletions, useEventStore } from '../events'
 import type { SlotState } from '../events/state'
 import type { Completion, CompletionVia, Tier, TimeBlock, UserPractice } from '../schema'
 
@@ -261,10 +261,9 @@ export async function logCompletion(
   prayedId: string,
   via: CompletionVia,
 ): Promise<void> {
-  const completionId = useEventStore.getState().nextCompletionId
   await emit({
     type: 'CompletionLogged',
-    completionId,
+    completionId: nextId(),
     practiceId,
     subId,
     date,
@@ -276,10 +275,8 @@ export async function logCompletion(
 
 export async function backfillMissedDays(practiceId: string, dates: string[]): Promise<void> {
   const ts = Date.now()
-  const store = useEventStore.getState()
-  let nextId = store.nextCompletionId
   const entries = dates.map((date) => ({
-    completionId: nextId++,
+    completionId: nextId(),
     date,
     subId: 'backfill',
     completedAt: ts,
@@ -287,7 +284,7 @@ export async function backfillMissedDays(practiceId: string, dates: string[]): P
   await emit({ type: 'CompletionsBatchLogged', practiceId, entries })
 }
 
-export async function removeCompletion(id: number): Promise<void> {
+export async function removeCompletion(id: string): Promise<void> {
   const completion = useEventStore.getState().completions.get(id)
   if (!completion) return
   await emit({
@@ -300,7 +297,7 @@ export async function removeCompletion(id: number): Promise<void> {
 }
 
 /** Refile a completion under another slot, keeping when and how it was made. */
-export async function moveCompletion(id: number, slotKey: string): Promise<void> {
+export async function moveCompletion(id: string, slotKey: string): Promise<void> {
   const store = useEventStore.getState()
   const completion = store.completions.get(id)
   if (!completion) return
@@ -315,7 +312,7 @@ export async function moveCompletion(id: number, slotKey: string): Promise<void>
     },
     {
       type: 'CompletionLogged',
-      completionId: store.nextCompletionId,
+      completionId: nextId(),
       practiceId,
       subId: slotId,
       date: completion.date,
@@ -326,7 +323,7 @@ export async function moveCompletion(id: number, slotKey: string): Promise<void>
   ])
 }
 
-function resolve(ids: Set<number> | undefined): Completion[] {
+function resolve(ids: Set<string> | undefined): Completion[] {
   return resolveCompletions(ids, useEventStore.getState().completions)
 }
 

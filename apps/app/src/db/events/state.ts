@@ -29,11 +29,10 @@ export type SlotState = {
 export type EventStoreState = {
   practices: Map<string, UserPractice>
   slots: Map<string, SlotState>
-  completions: Map<number, Completion>
-  completionsByDate: Map<string, Set<number>>
-  completionsByPractice: Map<string, Set<number>>
+  completions: Map<string, Completion>
+  completionsByDate: Map<string, Set<string>>
+  completionsByPractice: Map<string, Set<string>>
   cursors: Map<string, Cursor>
-  nextCompletionId: number
   /** Redeemed holy cards, by the grant that won each. */
   holyCards: Map<string, HolyCardCopy>
 
@@ -46,11 +45,10 @@ function emptyState() {
   return {
     practices: new Map<string, UserPractice>(),
     slots: new Map<string, SlotState>(),
-    completions: new Map<number, Completion>(),
-    completionsByDate: new Map<string, Set<number>>(),
-    completionsByPractice: new Map<string, Set<number>>(),
+    completions: new Map<string, Completion>(),
+    completionsByDate: new Map<string, Set<string>>(),
+    completionsByPractice: new Map<string, Set<string>>(),
     cursors: new Map<string, Cursor>(),
-    nextCompletionId: 1,
     holyCards: new Map<string, HolyCardCopy>(),
   }
 }

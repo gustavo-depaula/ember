@@ -23,8 +23,8 @@ export function filterSlotsForDate(
 }
 
 export function sortedCompletionDates(
-  ids: Set<number> | undefined,
-  completions: Map<number, Completion>,
+  ids: Set<string> | undefined,
+  completions: Map<string, Completion>,
 ): string[] {
   const dates = new Set<string>()
   for (const c of resolveCompletions(ids, completions)) dates.add(c.date)

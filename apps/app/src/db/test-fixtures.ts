@@ -7,7 +7,7 @@ import { getManifest } from '@/content/resolver'
 import { parseSlotKey } from '@/lib/slotKey'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { useEventStore } from './events'
+import { nextId, useEventStore } from './events'
 import { emitBatch } from './events/store'
 import { getDb } from './instance'
 import { createPracticeWithSlot } from './repositories'
@@ -77,7 +77,6 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
 async function seedHistory(slotKeys: string[], days: number, now?: string): Promise<void> {
   const db = getDb()
   const end = now ? new Date(`${now}T12:00:00`) : new Date()
-  let completionId = useEventStore.getState().nextCompletionId
   const events = slotKeys.map((slotKey, slotIndex) => {
     const { practiceId, slotId } = parseSlotKey(slotKey)
     const entries = Array.from({ length: days }, (_, i) => i + 1)
@@ -85,7 +84,7 @@ async function seedHistory(slotKeys: string[], days: number, now?: string): Prom
       .map((back) => {
         const day = subDays(end, back)
         return {
-          completionId: completionId++,
+          completionId: nextId(),
           date: format(day, 'yyyy-MM-dd'),
           subId: slotId,
           completedAt: day.getTime(),
