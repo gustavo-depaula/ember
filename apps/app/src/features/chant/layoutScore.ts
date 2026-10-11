@@ -54,6 +54,11 @@ export type ScoreOptions = {
 
 const lyricSize = 18
 const glyphScaling = 1 / 16
+// exsurge ends a line on its custos — the small guide to the next line's first
+// note — set flush with the end of the staff. Flush with the edge of a screen,
+// a custos reads as a note the screen cut in half, so the staff runs on past
+// it by this much, as it does in a printed book.
+const staffTail = 7
 
 // exsurge reads a font two ways: an advance, and the box of the ink. The box
 // only ever positions a syllable under its notes and stacks the text rows, so
@@ -160,7 +165,9 @@ export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): S
   const mappings = exsurge.Gabc.createMappingsFromSource(ctxt, engravableScore(gabc))
   const score = new exsurge.ChantScore(ctxt, mappings, true)
   score.performLayout(ctxt)
-  score.layoutChantLines(ctxt, width)
+  const tail = staffTail * scale
+  const setWidth = width - tail
+  score.layoutChantLines(ctxt, setWidth)
 
   const sizes: Record<string, number> = {}
   for (const [key, type] of Object.entries(exsurge.TextTypes)) {
@@ -177,6 +184,10 @@ export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): S
     const marks: ScoreMark[] = []
     const used = new Set<string>()
     collect(line.createSvgTree(ctxt, line.bounds.y), 0, 0, sizes, marks, used)
+    for (const mark of marks) {
+      // Only the staff reaches the end of the line; a ledger line stops short.
+      if (mark.type === 'line' && mark.x2 > setWidth - 0.01) mark.x2 = width
+    }
     return { top: -line.origin.y, height: line.bounds.height, marks, glyphs: [...used] }
   })
 

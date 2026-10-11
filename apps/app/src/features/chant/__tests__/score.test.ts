@@ -91,6 +91,19 @@ describe('layoutScore', () => {
     }
   })
 
+  it('runs the staff to the edge and keeps the notes clear of it', () => {
+    const layout = layoutScore(chant('credo-iii').score, { width: 340 })
+    const ink = inkPaths(layout)
+    for (const line of layout.lines) {
+      const staff = line.marks.filter((mark) => mark.type === 'line')
+      expect(Math.max(...staff.map((mark) => mark.x2))).toBe(340)
+      // The notes alone, as absolute points: every custos ends short of the edge.
+      const notes = ink({ ...line, marks: line.marks.filter((mark) => mark.type === 'glyph') })
+      const xs = [...notes.matchAll(/(-?[\d.]+) -?[\d.]+/g)].map((m) => Number(m[1]))
+      expect(Math.max(...xs)).toBeLessThanOrEqual(334)
+    }
+  })
+
   it('opens on a drop cap and keeps the words whole across syllables', () => {
     const layout = layoutScore(chant('sanctus-xviii').score, { width: 340 })
     const first = layout.lines[0].marks.find((mark): mark is ScoreText => mark.type === 'text')
