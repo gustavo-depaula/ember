@@ -4,7 +4,7 @@
 
 ^7:17^ Factumque est diluvium quadraginta diebus super terram: et multiplicatae sunt aquae, et elevaverunt arcam in sublime a terra.  
 
-> **1**. Haec verba competunt materiae huius epistolae. Ecclesia enim figuratur perb, sicut dicitur I Petr. III, 20, quia sicut in arca, caeteris pereuntibus, paucae animae salvatae sunt, ita in Ecclesia pauci, id est, soli electi salvabuntur.
+> **1**. Haec verba competunt materiae huius epistolae. Ecclesia enim figuratur per arcam, sicut dicitur I Petr. III, 20, quia sicut in arca, caeteris pereuntibus, paucae animae salvatae sunt, ita in Ecclesia pauci, id est, soli electi salvabuntur.
 
 Per *aquas* autem significantur tribulationes. Primo quia aquae impellunt irruendo, sicut tribulationes. Matth. VII, 25: *venerunt flumina, et flaverunt venti, et irruerunt in domum illam*. Sed impulsu fluminum Ecclesia non movetur. Unde subdit *et non cecidit*.  
 
