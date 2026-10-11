@@ -368,6 +368,17 @@ def _practice_flow(d: Path, manifest_data: dict) -> dict | None:
     return json.loads(path.read_text(encoding="utf-8")) if path.is_file() else None
 
 
+def _embedded_refs(node: Any, into: set[str]) -> None:
+    if isinstance(node, list):
+        for item in node:
+            _embedded_refs(item, into)
+    elif isinstance(node, dict):
+        if node.get("type") in ("prayer", "canticle") and isinstance(node.get("ref"), str):
+            into.add(node["ref"].split("/")[-1])
+        for value in node.values():
+            _embedded_refs(value, into)
+
+
 def build_practices(b: Builder) -> None:
     """Each practice's catalog blob is the original `manifest.json` body merged
     with resource hashes (flow / fragments / data / tracks / per-day / images).
@@ -390,6 +401,13 @@ def build_practices(b: Builder) -> None:
         flow = _practice_flow(m.parent, data)
         if flow:
             flows[m.parent.name] = flow
+    # The practices other flows pray by `ref`. The engine embeds one
+    # synchronously from its resident manifest, so its flow has to ship inline
+    # there: left behind a flowHash it renders as "[Unknown prayer ref]".
+    embedded: set[str] = set()
+    _embedded_refs(list(flows.values()), embedded)
+    for extra in (*src.glob("*/fragments/*.json"), *src.glob("*/programs/days/*.json")):
+        _embedded_refs(json.loads(extra.read_text(encoding="utf-8")), embedded)
     for d in sorted(p for p in src.iterdir() if p.is_dir()):
         pid = d.name
         manifest_path = d / "manifest.json"
@@ -423,6 +441,17 @@ def build_practices(b: Builder) -> None:
         elif flow_path.is_file():
             with flow_path.open(encoding="utf-8") as fh:
                 flow_data = json.load(fh)
+            if pid in embedded:
+                # Fragments and image paths are only resolved when a practice is
+                # opened on its own, never when it is embedded.
+                if (d / "fragments").is_dir() or (d / "images").is_dir():
+                    raise SystemExit(
+                        f"practice {pid}: prayed by `ref` from another flow, "
+                        "so it cannot have fragments or images"
+                    )
+                inline_flow = flow_data
+            # Kept beside an inlined flow too: the app reads a flowHash as
+            # "this practice has a flow of its own to open and pray".
             fh_hash, fh_size = b.write_json_blob(flow_data)
             flow_entry = {"hash": fh_hash, "size": fh_size}
 
@@ -513,7 +542,9 @@ def build_practices(b: Builder) -> None:
         # inline `{ sections: [...] }`, never as a string pointer like
         # `"flow": "flow.json"`.
         item_manifest = {**manifest_data, "id": f"practice/{pid}"}
-        if not isinstance(item_manifest.get("flow"), dict):
+        if isinstance(inline_flow, dict):
+            item_manifest["flow"] = inline_flow
+        else:
             item_manifest.pop("flow", None)
         for legacy in ("data", "tracks"):
             item_manifest.pop(legacy, None)
