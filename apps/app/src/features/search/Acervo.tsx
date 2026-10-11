@@ -1,3 +1,4 @@
+import { useQuery } from '@tanstack/react-query'
 import { Image, type ImageSource } from 'expo-image'
 import type { Href } from 'expo-router'
 import type { ReactNode } from 'react'
@@ -10,6 +11,7 @@ import { Typography } from '@/components/typography'
 import { getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { loadChant, ScoreView } from '@/features/chant'
 import { coverFor, GeneratedCover } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
@@ -36,7 +38,7 @@ const fannedBooks = [
 ]
 
 /**
- * The whole corpus behind three doors — prayers, books, collections — each
+ * The whole corpus behind its doors — prayers, books, collections, chant — each
  * naming how much is inside. Search's empty state is a lobby; the catalogue
  * itself lives on the screens these open.
  */
@@ -50,6 +52,7 @@ export function Acervo() {
       prayers: getAllManifests().filter((m) => !isAlternateForm(m) && !isMetaId(m.id)).length,
       books: getEntriesByKind('book').filter(([id]) => !isMetaId(id)).length,
       collections: getEntriesByKind('collection').length,
+      chants: getEntriesByKind('chant').length,
     }),
     [catalogVersion],
   )
@@ -82,6 +85,14 @@ export function Acervo() {
         href="/browse/all"
       >
         <ArtFan ids={collectionArt} />
+      </Door>
+      <Door
+        count={counts.chants}
+        title={t('search.chant')}
+        subtitle={t('search.chantHint')}
+        href="/browse/chant"
+      >
+        <Incipit />
       </Door>
     </YStack>
   )
@@ -166,6 +177,23 @@ function ArtFan({ ids }: { ids: string[] }) {
       />
     </Fanned>
   ))
+}
+
+// The chant door shows what is behind it: the opening staff of the Kyrie
+// most parishes know, Mass XI's.
+function Incipit() {
+  const catalogVersion = useCatalogVersion()
+  const chant = useQuery({
+    queryKey: ['chant', 'chant/kyrie-xi', catalogVersion],
+    queryFn: async () => (await loadChant('chant/kyrie-xi')) ?? null,
+    staleTime: Number.POSITIVE_INFINITY,
+  }).data
+  if (!chant) return null
+  return (
+    <YStack flex={1} justifyContent="center" paddingRight="$md">
+      <ScoreView score={chant.score} width={134} scale={0.72} label={chant.name} lines={1} />
+    </YStack>
+  )
 }
 
 function BookFan() {

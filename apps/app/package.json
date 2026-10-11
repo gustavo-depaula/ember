@@ -72,6 +72,7 @@
     "expo-system-ui": "~57.0.4",
     "expo-updates": "~57.0.24",
     "expo-web-browser": "~57.0.3",
+    "exsurge": "github:bbloomf/exsurge#0ca721380a9ea178d2bb76a9a78a5203b201827c",
     "fast-xml-parser": "^5.7.3",
     "htmlparser2": "^12.0.0",
     "hyphen": "^1.14.1",

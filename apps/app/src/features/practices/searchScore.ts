@@ -10,6 +10,7 @@ export type SearchResult =
   | { kind: 'practice'; id: string; title: string }
   | { kind: 'book'; id: string; title: string; subtitle?: string }
   | { kind: 'collection'; id: string; title: string }
+  | { kind: 'chant'; id: string; title: string; subtitle?: string }
 
 export type SearchKind = SearchResult['kind']
 
@@ -23,7 +24,7 @@ export type IndexEntry = {
   description?: string[]
 }
 
-export const searchGroupOrder: SearchKind[] = ['practice', 'collection', 'book']
+export const searchGroupOrder: SearchKind[] = ['practice', 'collection', 'book', 'chant']
 
 function titleScore(entry: IndexEntry, q: string, tokens: string[]): number {
   if (entry.title === q) return 100

@@ -29,6 +29,8 @@ export type CatalogItemKind =
   | 'loth-extras'
   | 'loth-library'
   | 'do-data'
+  | 'chant'
+  | 'chant-book'
   | 'collection'
   | 'plan-of-life-template'
   | 'checkup'
@@ -82,6 +84,8 @@ export type CatalogEntry = {
   duration?: PracticeDuration
   cover?: string
   subtitle?: LocalizedText
+  /** A chant's mode, as its book numbers it (`1`–`8`, or a letter for a tonus). */
+  mode?: string
   // Praying this practice is Mass or the Office (holy cards); forms carry their
   // group primary's, resolved at build.
   liturgicalAct?: LiturgicalAct

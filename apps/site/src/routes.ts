@@ -18,6 +18,7 @@ const sections = {
     massTimes: 'mass-times',
     plans: 'plans-of-life',
     voices: 'voices',
+    chant: 'chant',
     search: 'search',
     library: 'library',
     day: 'day',
@@ -36,6 +37,7 @@ const sections = {
     massTimes: 'horarios-de-missa',
     plans: 'planos-de-vida',
     voices: 'vozes',
+    chant: 'canto',
     search: 'busca',
     library: 'biblioteca',
     day: 'dia',
@@ -143,6 +145,7 @@ export const href = {
     join(l, sections[l].massTimes, l === 'pt-BR' ? 'igreja' : 'church', id),
   plan: (l: Locale, id: string) => join(l, sections[l].plans, slugOf(id)),
   voice: (l: Locale, id: string) => join(l, sections[l].voices, slugOf(id)),
+  chant: (l: Locale, id: string) => join(l, sections[l].chant, slugOf(id)),
 }
 
 /** The page for a corpus ref (`practice/rosary`, `book/x#chapter`), if the site has one. */
@@ -155,6 +158,7 @@ export function hrefForRef(l: Locale, ref: string): string | undefined {
   if (kind === 'book') return fragment ? href.bookChapter(l, id, fragment) : href.book(l, id)
   if (kind === 'plan-of-life-template') return href.plan(l, id)
   if (kind === 'creator') return href.voice(l, id)
+  if (kind === 'chant') return href.chant(l, id)
   return undefined
 }
 

@@ -7,6 +7,7 @@ import Shelf from '~/components/Shelf.astro'
 import Base from '~/layouts/Base.astro'
 import { listBooks } from '~/lib/books'
 import { entryTitle, listEntries, tileFor } from '~/lib/catalog'
+import { loadIncipit } from '~/lib/chants'
 import { loadCollectionShelves } from '~/lib/collections'
 import { type Locale, translator, withLocale } from '~/lib/locale'
 import { listPrayers } from '~/lib/prayers'
@@ -23,12 +24,18 @@ const t = translator(locale)
 const s = siteStrings(locale)
 const pt = locale === 'pt-BR'
 
-const [prayers, books, shelves] = await Promise.all([listPrayers(), listBooks(), loadCollectionShelves(locale)])
+const [prayers, books, shelves, incipit] = await Promise.all([
+  listPrayers(),
+  listBooks(),
+  loadCollectionShelves(locale),
+  // The chant door shows what is behind it: the opening staff of Mass XI's Kyrie.
+  loadIncipit('chant/kyrie-xi', 150, 0.8),
+])
 const collectionCount = shelves.reduce((n, shelf) => n + shelf.tiles.length, 0)
 const paintings = (ids: string[]) => ids.map((id) => artFor(id)?.uri).filter(Boolean) as string[]
 
-// The three doors of the app's Treasury, each fanned with what stands behind it.
-const doors = withLocale(locale, () => [
+// The doors of the app's Treasury, each showing what stands behind it.
+const doors: { count: number; title: string; hint: string; to: string; art: string[]; covers: { id: string; cover: NonNullable<ReturnType<typeof coverFor>>; title: string }[]; score?: string }[] = withLocale(locale, () => [
   {
     count: prayers.length,
     title: t('search.prayers'),
@@ -56,6 +63,15 @@ const doors = withLocale(locale, () => [
     to: href.section(locale, 'collections'),
     art: paintings(['collection/carmelite', 'collection/josemaria-escriva', 'collection/thomas-aquinas']),
     covers: [],
+  },
+  {
+    count: listEntries('chant').length,
+    title: t('search.chant'),
+    hint: t('search.chantHint'),
+    to: href.section(locale, 'chant'),
+    art: [],
+    covers: [],
+    score: incipit,
   },
 ])
 
@@ -101,10 +117,14 @@ const description = pt
               <span class="t-label">{door.title}</span>
               <span class="t-caption">{door.hint}</span>
             </span>
-            <span class="fan" aria-hidden="true">
-              {door.art.map((src) => <img src={src} alt="" loading="lazy" decoding="async" />)}
-              {door.covers.map((c) => <span class="fan-cover"><Cover cover={c.cover} id={c.id} title={c.title} locale={locale} /></span>)}
-            </span>
+            {door.score ? (
+              <span class="incipit" aria-hidden="true" set:html={door.score} />
+            ) : (
+              <span class="fan" aria-hidden="true">
+                {door.art.map((src) => <img src={src} alt="" loading="lazy" decoding="async" />)}
+                {door.covers.map((c) => <span class="fan-cover"><Cover cover={c.cover} id={c.id} title={c.title} locale={locale} /></span>)}
+              </span>
+            )}
           </a>
         ))}
       </div>
@@ -175,6 +195,15 @@ const description = pt
     width: 66px;
     height: auto;
     box-shadow: none;
+  }
+  .incipit {
+    position: absolute;
+    right: 16px;
+    top: 0;
+    width: 150px;
+    height: 100%;
+    display: flex;
+    align-items: center;
   }
   .fan > :nth-child(1) { left: 6px; top: 30px; transform: rotate(-9deg); }
   .fan > :nth-child(2) { left: 46px; top: 20px; transform: rotate(-1deg); }

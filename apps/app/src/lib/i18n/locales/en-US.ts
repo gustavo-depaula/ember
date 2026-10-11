@@ -51,6 +51,8 @@ export default {
     books: 'Books',
     booksHint: 'Fathers, doctors, classics, magisterium',
     collectionsHint: 'Devotions, schools and authors',
+    chant: 'Chant',
+    chantHint: 'The Kyriale in square notes',
     recents: 'Recents',
     allForms: 'All',
     allDevotions: 'Every devotion',
@@ -978,6 +980,13 @@ export default {
     },
   },
 
+  chant: {
+    kyriale: 'Kyriale',
+    mode: 'Mode {{mode}}',
+    transcribedBy: 'Transcribed by {{name}}',
+    license: 'GregoBase, CC0',
+    notFound: 'This chant is not in the library.',
+  },
   browse: {
     shelf: {
       devotions: 'Devotions',
@@ -1183,6 +1192,7 @@ export default {
     searchResultPrayers: 'Prayers',
     searchResultBooks: 'Books',
     searchResultCollections: 'Collections',
+    searchResultChants: 'Chant',
     suggestionMass: "Today's Mass",
     suggestionMorning: 'A way to begin the day',
     suggestionMidday: 'A pause at noon',
@@ -1523,6 +1533,7 @@ export default {
     },
   },
   a11y: {
+    openChants: 'Open {{name}}',
     recenterMap: 'Centre the map on your location',
     clearSearch: 'Clear the search',
     openHolyCard: 'Open the holy card envelope',

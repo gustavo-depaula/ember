@@ -51,6 +51,8 @@ export default {
     books: 'Livros',
     booksHint: 'Padres, doutores, clássicos, magistério',
     collectionsHint: 'Devoções, escolas e autores',
+    chant: 'Canto',
+    chantHint: 'O Kyriale em notação quadrada',
     recents: 'Recentes',
     allForms: 'Todas',
     allDevotions: 'Toda devoção',
@@ -984,6 +986,13 @@ export default {
     },
   },
 
+  chant: {
+    kyriale: 'Kyriale',
+    mode: 'Modo {{mode}}',
+    transcribedBy: 'Transcrição de {{name}}',
+    license: 'GregoBase, CC0',
+    notFound: 'Este canto não está na biblioteca.',
+  },
   browse: {
     shelf: {
       devotions: 'Devoções',
@@ -1189,6 +1198,7 @@ export default {
     searchResultPrayers: 'Orações',
     searchResultBooks: 'Livros',
     searchResultCollections: 'Coleções',
+    searchResultChants: 'Canto',
     suggestionMass: 'Missa de hoje',
     suggestionMorning: 'Para começar o dia',
     suggestionMidday: 'Uma pausa ao meio-dia',
@@ -1530,6 +1540,7 @@ export default {
     },
   },
   a11y: {
+    openChants: 'Abrir {{name}}',
     recenterMap: 'Centralizar o mapa na sua localização',
     clearSearch: 'Limpar a busca',
     openHolyCard: 'Abrir o envelope do santinho',

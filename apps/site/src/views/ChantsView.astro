@@ -1,0 +1,90 @@
+---
+import Base from '~/layouts/Base.astro'
+import { loadKyriale } from '~/lib/chants'
+import type { Locale } from '~/lib/locale'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const pt = locale === 'pt-BR'
+const book = await loadKyriale(locale)
+---
+
+<Base locale={locale} title={pt ? 'Kyriale — canto gregoriano' : 'Kyriale — Gregorian chant'} description={book.description} alternates={alternates} section="chant">
+  <div class="wide">
+    <header class="page-head">
+      <p class="t-kicker">{pt ? 'Canto gregoriano' : 'Gregorian chant'}</p>
+      <h1 class="t-screen">{book.title}</h1>
+      <p class="lede">{book.description}</p>
+    </header>
+    <div class="masses">
+      {book.sections.map((section) => (
+        <section class="mass" id={section.id}>
+          <h2 class="row-title">{section.title}{section.name && <em>{section.name}</em>}</h2>
+          {section.occasion && <p class="t-caption">{section.occasion}</p>}
+          <ul>
+            {section.chants.map((chant) => (
+              <li>
+                <a href={chant.href}>
+                  <span>{chant.name}</span>
+                  {chant.subtitle && <span class="nick">{chant.subtitle}</span>}
+                  {chant.mode && <span class="mode">{chant.mode}</span>}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      ))}
+    </div>
+    <p class="t-annotation source">{book.source}</p>
+  </div>
+</Base>
+
+<style>
+  /* The table of a chant book: Masses in columns, as its index prints them. */
+  .masses {
+    columns: 300px 3;
+    column-gap: var(--space-xl);
+  }
+  .mass {
+    break-inside: avoid;
+    padding-bottom: var(--space-lg);
+    scroll-margin-top: 88px;
+  }
+  .mass h2 em {
+    margin-left: 0.5em;
+    color: var(--color-secondary);
+  }
+  .mass ul {
+    margin-top: 6px;
+    border-top: 1px solid var(--border-color);
+  }
+  .mass a {
+    display: flex;
+    align-items: baseline;
+    gap: 0.6em;
+    padding-block: 7px;
+    border-bottom: 1px solid var(--border-color);
+  }
+  .mass a:hover span:first-child {
+    color: var(--gold-ink);
+  }
+  .nick {
+    font-style: italic;
+    color: var(--color-secondary);
+  }
+  /* The mode, set at the row's end as the books set it over the initial. */
+  .mode {
+    margin-left: auto;
+    font-size: 15px;
+    letter-spacing: 0.04em;
+    color: var(--color-secondary);
+    font-variant-numeric: lining-nums;
+  }
+  .source {
+    padding-block: var(--space-md) var(--space-xl);
+  }
+</style>

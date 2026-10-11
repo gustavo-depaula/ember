@@ -1194,6 +1194,69 @@ def build_loth(b: Builder) -> None:
         b.add_catalog(item_id, {"kind": item_id, "hash": h, "size": size})
 
 
+def gabc_headers(text: str) -> dict[str, str]:
+    """The `key: value;` headers a GABC file opens with, up to its `%%` line."""
+    head, sep, _ = text.partition("\n%%")
+    if not sep:
+        raise ValueError("no %% line closing the headers")
+    out: dict[str, str] = {}
+    for line in head.splitlines():
+        key, colon, value = line.partition(":")
+        if colon:
+            out[key.strip()] = value.strip().removesuffix(";").strip()
+    return out
+
+
+def build_chants(b: Builder) -> None:
+    """Gregorian chant (content/chants/, content/chant-books/).
+
+    Catalog kinds:
+      chant/<id>       one score, the GABC file as it stands; the catalog entry
+                       carries what a list needs to name it without fetching it
+      chant-book/<id>  a book's chants in order, by section
+    """
+    src = CONTENT / "chants"
+    if not src.is_dir():
+        return
+
+    known: set[str] = set()
+    for f in sorted(src.glob("*.gabc")):
+        text = f.read_text(encoding="utf-8")
+        try:
+            headers = gabc_headers(text)
+            name = headers["name"]
+        except (ValueError, KeyError) as e:
+            raise ValueError(f"chant/{f.stem}: {e!r}") from e
+        h, size = b.write_blob(text.encode("utf-8"))
+        entry: dict[str, Any] = {"kind": "chant", "hash": h, "size": size, "name": {"la": name}}
+        if headers.get("subtitle"):
+            entry["subtitle"] = {"la": headers["subtitle"]}
+        if headers.get("mode"):
+            entry["mode"] = headers["mode"]
+        b.add_catalog(f"chant/{f.stem}", entry)
+        known.add(f"chant/{f.stem}")
+
+    for f in sorted((CONTENT / "chant-books").glob("*.json")):
+        with f.open(encoding="utf-8") as fh:
+            book = json.load(fh)
+        refs = [ref for section in book["sections"] for ref in section["chants"]]
+        missing = sorted(set(refs) - known)
+        if missing:
+            raise ValueError(f"{book['id']}: no such chant {missing}")
+        h, size = b.write_json_blob(book)
+        b.add_catalog(
+            book["id"],
+            {
+                "kind": "chant-book",
+                "hash": h,
+                "size": size,
+                "name": book["name"],
+                "description": book["description"],
+                "itemCount": len(set(refs)),
+            },
+        )
+
+
 # Divinum Officium datasets.
 DO_LANG_DIRS = {"Latin": "la", "English": "en-US", "Portugues": "pt-BR"}
 DO_HORAS_DATASETS = {
@@ -1567,6 +1630,8 @@ def main(argv: list[str]) -> int:
     build_loth(b)
     print("[corpus] divinum-officium...")
     build_do(b)
+    print("[corpus] chants...")
+    build_chants(b)
     print("[corpus] collections...")
     build_collections(b)
     print("[corpus] plan-of-life templates...")

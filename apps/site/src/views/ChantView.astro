@@ -1,0 +1,89 @@
+---
+import Base from '~/layouts/Base.astro'
+import { loadChantPage } from '~/lib/chants'
+import type { Locale } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+  id: string
+}
+
+const { locale, alternates, id } = Astro.props
+const s = siteStrings(locale)
+const pt = locale === 'pt-BR'
+const page = await loadChantPage(id, locale)
+const meta = [page.mode && `${pt ? 'Modo' : 'Mode'} ${page.mode}`, page.commentary].filter(Boolean).join(' · ')
+const credit = [page.book, page.transcriber && `${pt ? 'Transcrição de' : 'Transcribed by'} ${page.transcriber}`, 'GregoBase, CC0']
+  .filter(Boolean)
+  .join(' · ')
+const description = pt
+  ? `${page.name}${page.section ? ` (${page.section.title})` : ''} em notação quadrada, do Kyriale do Gradual Romano.`
+  : `${page.name}${page.section ? ` (${page.section.title})` : ''} in square notes, from the Kyriale of the Roman Gradual.`
+---
+
+<Base locale={locale} title={page.subtitle ? `${page.name} — ${page.subtitle}` : page.name} description={description} alternates={alternates} section="chant">
+  <article class="chant">
+    <header class="title-page">
+      {page.section && (
+        <p class="t-kicker"><a href={page.section.href}>{page.section.title}{page.section.name && ` · ${page.section.name}`}</a></p>
+      )}
+      <h1>{page.name}</h1>
+      {page.subtitle && <p class="variant">{page.subtitle}</p>}
+      {meta && <p class="date" style="text-transform:none">{meta}</p>}
+    </header>
+    <div class="score-sheet score-wide" set:html={page.wide} />
+    <div class="score-sheet score-narrow" set:html={page.narrow} />
+    <p class="t-annotation credit">{credit}</p>
+    {(page.previous || page.next) && (
+      <nav class="pager" aria-label={s('contents')}>
+        {page.previous && (
+          <a class="prev" href={page.previous.href} rel="prev">
+            <span class="t-kicker">← {s('previous')}</span>
+            <span class="pager-title">{page.previous.name}</span>
+          </a>
+        )}
+        {page.next && (
+          <a class="next" href={page.next.href} rel="next">
+            <span class="t-kicker">{s('next')} →</span>
+            <span class="pager-title">{page.next.name}</span>
+          </a>
+        )}
+      </nav>
+    )}
+  </article>
+</Base>
+
+<style>
+  /* As wide as the score was set for a desk: `deskWidth` in lib/chants.ts. */
+  .chant {
+    width: 100%;
+    max-width: calc(800px + 2 * var(--gutter));
+    margin-inline: auto;
+    padding-inline: var(--gutter);
+  }
+  .title-page h1 {
+    padding-top: var(--space-sm);
+  }
+  .score-sheet {
+    padding-top: var(--space-xl);
+  }
+  /* A page too narrow for the desk's setting takes the phone's, scaled to fit. */
+  .score-narrow {
+    display: none;
+  }
+  @media (max-width: 847px) {
+    .score-wide {
+      display: none;
+    }
+    .score-narrow {
+      display: block;
+    }
+  }
+  .credit {
+    padding-block: var(--space-lg);
+    text-align: center;
+    font-variant-numeric: lining-nums;
+  }
+</style>

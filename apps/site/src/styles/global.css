@@ -2515,3 +2515,20 @@ main {
   border: 2px solid var(--background);
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
+
+/* A chant score: ink in the text colour, rubrics in the missal's red, the
+   lyrics in the face they were measured in (features/chant/layoutScore). */
+svg.score {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: var(--color);
+  font-family: 'EB Garamond', serif;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+  font-variant-numeric: normal;
+}
+
+svg.score .rubric {
+  fill: var(--color-burgundy);
+}

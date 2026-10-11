@@ -1,5 +1,5 @@
 /**
- * Search over the catalog's practices, collections and books. The index holds
+ * Search over the catalog's practices, collections, books and chants. The index holds
  * every searchable field localized, normalized and split into words once, so a
  * keystroke only compares words rather than normalizing ~1,000 titles and
  * descriptions.
@@ -67,6 +67,17 @@ export function buildSearchIndex(): IndexEntry[] {
       result: { kind: 'book', id: bareId(id), title, subtitle: author || undefined },
       ...titleFields(title),
       author: author ? words(author) : undefined,
+    })
+  }
+
+  for (const [id, entry] of getEntriesByKind('chant')) {
+    if (!entry.name) continue
+    const title = localizeContent(entry.name)
+    const subtitle = entry.subtitle && localizeContent(entry.subtitle)
+    entries.push({
+      result: { kind: 'chant', id: bareId(id), title, subtitle },
+      // A chant is asked for by either name: "Kyrie IX" or "Cum jubilo".
+      ...titleFields(subtitle ? `${title} ${subtitle}` : title),
     })
   }
 

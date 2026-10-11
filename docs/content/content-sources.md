@@ -59,4 +59,5 @@ The credits screen should list:
 4. "Liturgical texts and traditional Mass propers from Divinum Officium."
 5. "Liturgy of the Hours texts provided by iBreviary; in Brazilian Portuguese, the Liturgia das Horas of the CNBB, by way of Lírio Católico."
 6. "Daily Gospel commentary and meditations courtesy of Opus Dei (opusdei.org)."
-7. Links to the GitHub repositories used.
+7. "Gregorian chant transcribed by the contributors of GregoBase (gregobase.selapa.net), released under CC0; engraved with exsurge."
+8. Links to the GitHub repositories used.

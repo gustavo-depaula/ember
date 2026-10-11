@@ -44,6 +44,8 @@ export type Page =
   | { view: 'plans' }
   | { view: 'plan'; id: string }
   | { view: 'voices' }
+  | { view: 'chants' }
+  | { view: 'chant'; id: string }
 
 export type PageEntry = {
   locale: Locale
@@ -204,6 +206,11 @@ async function drafts(): Promise<Draft[]> {
     out.push(catalogDraft({ view: 'plan', id }, id, (l) => href.plan(l, id)))
   }
   out.push({ page: { view: 'voices' }, path: (l) => href.section(l, 'voices') })
+  // Chant is sung in Latin wherever it is sung: a page of it belongs to both languages.
+  out.push({ page: { view: 'chants' }, path: (l) => href.section(l, 'chant') })
+  for (const [id] of listEntries('chant')) {
+    out.push({ page: { view: 'chant', id }, path: (l) => href.chant(l, id) })
+  }
   return out
 }
 

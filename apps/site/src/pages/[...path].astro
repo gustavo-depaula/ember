@@ -19,6 +19,8 @@ import OfficeView from '~/views/OfficeView.astro'
 import SaintsView from '~/views/SaintsView.astro'
 import SaintView from '~/views/SaintView.astro'
 import BookView from '~/views/BookView.astro'
+import ChantsView from '~/views/ChantsView.astro'
+import ChantView from '~/views/ChantView.astro'
 import ChapterView from '~/views/ChapterView.astro'
 import CollectionsView from '~/views/CollectionsView.astro'
 import CollectionView from '~/views/CollectionView.astro'
@@ -72,3 +74,5 @@ const { page, locale, alternates, canonical } = entry
 {page.view === 'plans' && <PlansView locale={locale} alternates={alternates} />}
 {page.view === 'plan' && <PlansView locale={locale} alternates={alternates} id={page.id} />}
 {page.view === 'voices' && <VoicesView locale={locale} alternates={alternates} />}
+{page.view === 'chants' && <ChantsView locale={locale} alternates={alternates} />}
+{page.view === 'chant' && <ChantView locale={locale} alternates={alternates} id={page.id} />}

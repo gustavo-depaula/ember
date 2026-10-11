@@ -72,6 +72,7 @@ if (root) {
       ),
       group('collection', of('collection')),
       group('book', of('book')),
+      group('chant', of('chant')),
       group(
         'bible',
         extraMatches('bible', tokens).map((e) => row(e.url, e.title, e.sub)),

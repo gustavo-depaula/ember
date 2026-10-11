@@ -93,7 +93,7 @@ export function tileFor(ref: string, locale: Locale): TileData | undefined {
 }
 
 export function listEntries(
-  kind: 'collection' | 'book' | 'chapter' | 'plan-of-life-template' | 'creator',
+  kind: 'collection' | 'book' | 'chapter' | 'plan-of-life-template' | 'creator' | 'chant',
 ) {
   return getEntriesByKind(kind).filter(([id]) => !isMetaId(id))
 }

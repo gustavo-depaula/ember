@@ -57,6 +57,7 @@ export function SearchAutocomplete({ query }: { query: string }) {
     practice: 'pray.searchResultPractices',
     book: 'pray.searchResultBooks',
     collection: 'pray.searchResultCollections',
+    chant: 'pray.searchResultChants',
   }
 
   const visible = results.slice(0, shown)
@@ -109,6 +110,10 @@ const ResultRow = memo(function ResultRow({
       router.push({ pathname: '/browse/book/[bookId]', params: { bookId: result.id } })
       return
     }
+    if (result.kind === 'chant') {
+      router.push({ pathname: '/browse/chant/[chantId]', params: { chantId: result.id } })
+      return
+    }
     router.push({ pathname: '/browse/[collectionId]', params: { collectionId: result.id } })
   }
 
@@ -130,7 +135,7 @@ const ResultRow = memo(function ResultRow({
         <Typography fontSize="$3" numberOfLines={2}>
           {result.title}
         </Typography>
-        {result.kind === 'book' && result.subtitle && (
+        {(result.kind === 'book' || result.kind === 'chant') && result.subtitle && (
           <Typography variant="caption" numberOfLines={1}>
             {result.subtitle}
           </Typography>
