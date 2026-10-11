@@ -1,20 +1,28 @@
 #!/usr/bin/env python3
 """Import chant scores from GregoBase into content/chants/ and content/chant-books/.
 
-GregoBase (https://gregobase.selapa.net) publishes its whole database as one
-SQL dump, and every transcription in it is CC0. The dump is fetched at a pinned
-commit and cached outside the repo; what lands in content/ is one `.gabc` file
-per chant — its GregoBase record as GABC headers, its score untouched — and one
-book file giving the chants their order.
+GregoBase (https://gregobase.selapa.net) releases every transcription under
+CC0. It is read two ways, because it publishes itself two ways:
 
-    python3 scripts/import-gregobase.py            # (re)write the Kyriale
+- its SQL dump on GitHub, which is the only place a book's order can be read
+  (which chant is on which page) but is refreshed once in a few years;
+- the live site, one chant per request, which is where a correction lands the
+  day a transcriber makes it.
+
+So the dump lays a book out, and each score is then read from the live site.
+
+    python3 scripts/import-gregobase.py              # (re)write the Kyriale, scores from the live site
+    python3 scripts/import-gregobase.py --offline    # the same from the dump alone
+    python3 scripts/import-gregobase.py --sync       # refresh the scores already in content/chants/
     python3 scripts/import-gregobase.py --find "salve regina"
 
-The score text is kept exactly as transcribed, Gregorio-TeX tags and all: the
-app's GABC reader (apps/app/src/features/chant/gabc.ts) is what decides how a
-tag is drawn, so a re-import diffs only where GregoBase itself changed.
+What lands in content/ is one `.gabc` file per chant — its GregoBase record as
+GABC headers, its score untouched — and one book file giving the chants their
+order. The score keeps its Gregorio-TeX tags: the app's GABC reader
+(apps/app/src/features/chant/gabc.ts) decides how a tag is drawn, so a sync
+diffs only where GregoBase itself changed.
 """
-import json, pathlib, re, sys, urllib.request
+import json, pathlib, re, sys, time, urllib.error, urllib.request
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CHANTS = ROOT / 'content/chants'
@@ -22,6 +30,8 @@ BOOKS = ROOT / 'content/chant-books'
 COMMIT = '2ebcda3f523f9b19933d59fa32bb4215cd8e7675'
 DUMP_URL = f'https://raw.githubusercontent.com/gregorio-project/GregoBase/{COMMIT}/gregobase_online.sql'
 CACHE = pathlib.Path.home() / '.cache/ember' / f'gregobase-{COMMIT[:12]}.sql'
+LIVE_URL = 'https://gregobase.selapa.net/download.php?id={id}&format=gabc&elem={elem}'
+USER_AGENT = 'ember-chant-sync (https://github.com/gustavo-depaula/ember)'
 
 # The Kyriale as the 1961 Graduale Romanum prints it, which GregoBase lists as
 # source 2 with the Kyriale on its starred pages.
@@ -113,10 +123,17 @@ def rows(sql, table):
     return out
 
 
+def tidy(gabc):
+    """A score with Unix line ends, no trailing blanks and one final newline."""
+    lines = [line.rstrip() for line in gabc.replace('\r\n', '\n').replace('\r', '\n').split('\n')]
+    return '\n'.join(lines).strip() + '\n'
+
+
 def score(chant):
-    """The GABC of a chant. GregoBase stores either the bare score, a JSON
-    string of it, or a JSON list of `[kind, text]` segments in which the `tex`
-    ones are Gregorio-TeX spacing tweaks for its own PDF and not notation."""
+    """The GABC of a chant in the dump. GregoBase stores either the bare score,
+    a JSON string of it, or a JSON list of `[kind, text]` segments in which the
+    `tex` ones are Gregorio-TeX spacing tweaks for its own PDF and not notation.
+    A hymn's further verses are a field of their own."""
     raw = chant['gabc'] or ''
     try:
         value = json.loads(raw)
@@ -126,8 +143,92 @@ def score(chant):
         value = '\n'.join(seg[1] for seg in value if seg[0] == 'gabc')
     if not isinstance(value, str):
         value = raw
-    lines = [line.rstrip() for line in value.replace('\r\n', '\n').replace('\r', '\n').split('\n')]
-    return '\n'.join(lines).strip() + '\n'
+    if chant.get('gabc_verses'):
+        value += '\n' + chant['gabc_verses']
+    return tidy(value)
+
+
+class Gone(Exception):
+    """GregoBase no longer has the chant."""
+
+
+def fetch_live(chant_id):
+    """A chant as the live site serves it: (headers, score).
+
+    `download.php` answers one notation segment per request (`elem`), nothing
+    at all past the last, and — for a chant stored as a single score — the same
+    whole score whatever `elem` says."""
+    headers, parts = {}, []
+    for elem in range(1, 20):
+        request = urllib.request.Request(
+            LIVE_URL.format(id=chant_id, elem=elem), headers={'User-Agent': USER_AGENT}
+        )
+        with urllib.request.urlopen(request, timeout=60) as response:
+            text = response.read().decode('utf-8')
+        if text.strip() == 'Wrong id':
+            raise Gone(chant_id)
+        head, sep, body = text.partition('\n%%\n')
+        if not sep or (parts and body == parts[0]):
+            break
+        if not parts:
+            for line in head.splitlines():
+                key, colon, value = line.partition(':')
+                if colon:
+                    headers[key.strip()] = value.strip().removesuffix(';').strip()
+        parts.append(body)
+    if not parts:
+        raise Gone(chant_id)
+    return headers, tidy('\n'.join(parts))
+
+
+# What GregoBase's record says of a chant, as against what this importer names
+# and places itself (`name`, `subtitle`, `book`).
+UPSTREAM_HEADERS = ('mode', 'commentary', 'transcriber')
+
+
+def sync(files=None):
+    """Bring each chant file up to the live site: its score and the headers
+    GregoBase owns. Prints what changed; returns the number of files rewritten."""
+    changed, gone = [], []
+    files = sorted(files or CHANTS.glob('*.gabc'))
+    for n, f in enumerate(files, 1):
+        text = f.read_text(encoding='utf-8')
+        head, _, body = text.partition('%%\n')
+        found = re.search(r'^gregobase: (\d+);$', head, re.M)
+        if not found:
+            continue
+        print(f'\r  {n}/{len(files)} {f.stem:<40}', end='', file=sys.stderr, flush=True)
+        try:
+            live_headers, live_score = fetch_live(found.group(1))
+        except Gone:
+            gone.append(f.stem)
+            continue
+        what = []
+        if live_score != body:
+            what.append('score')
+        lines = []
+        for line in head.splitlines():
+            key = line.partition(':')[0]
+            if key in UPSTREAM_HEADERS:
+                continue
+            if key == 'book':
+                # The headers GregoBase owns sit together, after the name and before the book.
+                lines += [f'{k}: {live_headers[k]};' for k in UPSTREAM_HEADERS if live_headers.get(k)]
+            lines.append(line)
+        new_head = '\n'.join(lines) + '\n'
+        if new_head != head:
+            what.append('headers')
+        if what:
+            f.write_text(new_head + '%%\n' + live_score, encoding='utf-8')
+            changed.append((f.stem, what))
+        time.sleep(0.2)
+    print('\r' + ' ' * 60 + '\r', end='', file=sys.stderr)
+    for stem, what in changed:
+        print(f'  updated  chant/{stem} ({", ".join(what)})')
+    for stem in gone:
+        print(f'  GONE     chant/{stem}: GregoBase no longer serves it; the file is left as it was')
+    print(f'gregobase: {len(files)} chants checked, {len(changed)} updated, {len(gone)} gone')
+    return len(changed)
 
 
 def slug(name):
@@ -230,7 +331,7 @@ def header(key, value):
     return f'{key}: {value};\n' if value else ''
 
 
-def write_kyriale():
+def write_kyriale(offline=False):
     chants, pages, tags = load()
     placed = kyriale(chants, pages, tags)
 
@@ -251,8 +352,8 @@ def write_kyriale():
             + header('office-part', 'Kyriale')
             + header('mode', c['mode'])
             + header('commentary', (c['commentary'] or '').strip())
-            + header('book', f'{GRADUALE_1961_NAME}, p. {page}')
             + header('transcriber', c['transcriber'])
+            + header('book', f'{GRADUALE_1961_NAME}, p. {page}')
             + header('gregobase', c['id'])
             + '%%\n'
             + score(c)
@@ -305,6 +406,8 @@ def write_kyriale():
     }
     (BOOKS / 'kyriale.json').write_text(json.dumps(book, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'{len(ids)} chants, {len(sections)} sections')
+    if not offline:
+        sync([CHANTS / f'{chant_id}.gabc' for chant_id in ids.values()])
 
 
 def find(query):
@@ -317,7 +420,12 @@ def find(query):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) > 2 and sys.argv[1] == '--find':
-        find(sys.argv[2])
+    args = sys.argv[1:]
+    if args[:1] == ['--find'] and len(args) == 2:
+        find(args[1])
+    elif args == ['--sync']:
+        sync()
+    elif args in ([], ['--offline']):
+        write_kyriale(offline=bool(args))
     else:
-        write_kyriale()
+        sys.exit(__doc__)
