@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-funeral-oration-on-meletius",
   "cover": "quarter",
   "name": {
-    "en-US": "Funeral Oration on Meletius"
+    "en-US": "Funeral Oration on Meletius",
+    "pt-BR": "Oração Fúnebre por Melécio"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Funeral Oration on Meletius"
+        "en-US": "Funeral Oration on Meletius",
+        "pt-BR": "Oração Fúnebre por Melécio"
       }
     }
   ]
