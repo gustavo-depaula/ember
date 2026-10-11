@@ -1193,6 +1193,8 @@ export default {
     searchResultBooks: 'Books',
     searchResultCollections: 'Collections',
     searchResultChants: 'Chant',
+    searchResultTop: 'Best match',
+    searchResultMentioned: 'Mentioned in',
     suggestionMass: "Today's Mass",
     suggestionMorning: 'A way to begin the day',
     suggestionMidday: 'A pause at noon',

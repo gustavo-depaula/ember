@@ -9,9 +9,9 @@ import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { practiceHref } from '../practiceHref'
 import {
   buildSearchIndex,
-  type SearchKind,
+  type SearchGroup,
   type SearchResult,
-  searchGroupOrder,
+  searchGroups,
   searchIndex,
 } from '../searchCatalog'
 
@@ -53,7 +53,9 @@ export function SearchAutocomplete({ query }: { query: string }) {
     )
   }
 
-  const labelKey: Record<SearchKind, string> = {
+  const labelKey: Record<SearchGroup, string> = {
+    top: 'pray.searchResultTop',
+    mentioned: 'pray.searchResultMentioned',
     practice: 'pray.searchResultPractices',
     book: 'pray.searchResultBooks',
     collection: 'pray.searchResultCollections',
@@ -64,21 +66,26 @@ export function SearchAutocomplete({ query }: { query: string }) {
 
   return (
     <YStack gap="$xl">
-      {searchGroupOrder.map((kind) => {
-        const group = visible.filter((r) => r.kind === kind)
+      {searchGroups.map((key) => {
+        const group = visible.filter((hit) => hit.group === key)
         if (group.length === 0) return undefined
-        const groupSize = results.filter((r) => r.kind === kind).length
+        const groupSize = results.filter((hit) => hit.group === key).length
         return (
-          <YStack key={kind} gap="$xs">
+          <YStack key={key} gap="$xs">
             <XStack alignItems="baseline" gap="$sm">
               <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
-                {t(labelKey[kind])}
+                {t(labelKey[key])}
               </Typography>
-              <Typography variant="reference">{groupSize}</Typography>
+              {key !== 'top' && <Typography variant="reference">{groupSize}</Typography>}
             </XStack>
             <YStack>
-              {group.map((r, i) => (
-                <ResultRow key={`${r.kind}-${r.id}`} result={r} isLast={i === groupSize - 1} />
+              {group.map(({ result, caption }, i) => (
+                <ResultRow
+                  key={`${result.kind}-${result.id}`}
+                  result={result}
+                  caption={caption}
+                  isLast={i === groupSize - 1}
+                />
               ))}
             </YStack>
           </YStack>
@@ -88,17 +95,21 @@ export function SearchAutocomplete({ query }: { query: string }) {
   )
 }
 
-// An index entry, not a card: a serif title (and the author, for books) over
-// a hairline. No icons: a one-letter query renders hundreds of these, and each
+// An index entry, not a card: a serif title over a hairline, with the author
+// of a book, or the words that matched when the title is not them. No icons: a one-letter query renders hundreds of these, and each
 // SVG glyph was most of a row's cost. Memoized — results are stable objects
 // from the index, so a row still listed after the next keystroke is skipped.
 const ResultRow = memo(function ResultRow({
   result,
+  caption,
   isLast,
 }: {
   result: SearchResult
+  caption?: string
   isLast: boolean
 }) {
+  const subtitle =
+    caption ?? (result.kind === 'book' || result.kind === 'chant' ? result.subtitle : undefined)
   const router = useRouter()
 
   function handlePress() {
@@ -135,9 +146,9 @@ const ResultRow = memo(function ResultRow({
         <Typography fontSize="$3" numberOfLines={2}>
           {result.title}
         </Typography>
-        {(result.kind === 'book' || result.kind === 'chant') && result.subtitle && (
+        {subtitle && (
           <Typography variant="caption" numberOfLines={1}>
-            {result.subtitle}
+            {subtitle}
           </Typography>
         )}
       </YStack>
