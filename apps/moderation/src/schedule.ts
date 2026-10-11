@@ -5,16 +5,24 @@ import type { Service } from '@ember/api/src/schema'
 // record keeps it as rrules.
 
 export const dayCodes = ['SU', 'MO', 'TU', 'WE', 'TH', 'FR', 'SA']
-const dayNames = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
-const monthNames = 'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec'.split(' ')
-const ordinals: Record<string, string> = {
-  '1': '1st',
-  '2': '2nd',
-  '3': '3rd',
-  '4': '4th',
-  '5': '5th',
-  '-1': 'last',
-}
+export type Lang = 'en' | 'pt'
+
+const words = {
+  en: {
+    days: ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+    months: 'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec'.split(' '),
+    ordinals: { '1': '1st', '2': '2nd', '3': '3rd', '4': '4th', '5': '5th', '-1': 'last' },
+    everyDay: 'Every day',
+    ofTheMonth: 'of the month',
+  },
+  pt: {
+    days: ['Dom', 'Seg', 'Ter', 'Qua', 'Qui', 'Sex', 'Sáb'],
+    months: 'jan fev mar abr mai jun jul ago set out nov dez'.split(' '),
+    ordinals: { '1': '1º', '2': '2º', '3': '3º', '4': '4º', '5': '5º', '-1': 'último' },
+    everyDay: 'Todos os dias',
+    ofTheMonth: 'do mês',
+  },
+} satisfies Record<Lang, unknown>
 
 export const serviceKinds = ['mass', 'confession', 'adoration'] as const
 export const kindLabels: Record<string, string> = {
@@ -57,36 +65,40 @@ export function weeklyRule(days: number[]): string {
     .join(',')}`
 }
 
-function dayList(days: number[]): string {
-  if (days.length === 7) return 'Every day'
+function dayList(days: number[], lang: Lang): string {
+  const names = words[lang].days
+  if (days.length === 7) return words[lang].everyDay
   const run = days.every((day, i) => i === 0 || day === days[i - 1] + 1)
-  if (run && days.length > 2) return `${dayNames[days[0]]}–${dayNames[days[days.length - 1]]}`
-  return days.map((day) => dayNames[day]).join(', ')
+  if (run && days.length > 2) return `${names[days[0]]}–${names[days[days.length - 1]]}`
+  return days.map((day) => names[day]).join(', ')
 }
 
 // A rule in words, falling back to the rule itself for the patterns a parish rarely uses.
-export function describeRule(rrule: string): string {
+export function describeRule(rrule: string, lang: Lang = 'en'): string {
   const weekly = weeklyDays(rrule)
-  if (weekly) return dayList(weekly)
+  if (weekly) return dayList(weekly, lang)
 
   const { FREQ, BYDAY, BYMONTH, ...rest } = ruleParts(rrule)
   if (Object.keys(rest).length > 0 || !BYDAY) return rrule
   const months = BYMONTH
     ? ` (${BYMONTH.split(',')
-        .map((month) => monthNames[Number(month) - 1])
+        .map((month) => words[lang].months[Number(month) - 1])
         .join(', ')})`
     : ''
   if (FREQ === 'WEEKLY') {
     const days = BYDAY.split(',').map((code) => dayCodes.indexOf(code))
-    return days.every((day) => day >= 0) ? `${dayList(days.sort())}${months}` : rrule
+    return days.every((day) => day >= 0) ? `${dayList(days.sort(), lang)}${months}` : rrule
   }
   if (FREQ === 'MONTHLY') {
+    const ordinals: Record<string, string> = words[lang].ordinals
     const days = BYDAY.split(',').map((token) => {
       const match = /^([+-]?\d)([A-Z]{2})$/.exec(token)
       const day = match ? dayCodes.indexOf(match[2]) : -1
-      return match && day >= 0 && ordinals[match[1]] ? `${ordinals[match[1]]} ${dayNames[day]}` : ''
+      return match && day >= 0 && ordinals[match[1]]
+        ? `${ordinals[match[1]]} ${words[lang].days[day]}`
+        : ''
     })
-    return days.every(Boolean) ? `${days.join(', ')} of the month${months}` : rrule
+    return days.every(Boolean) ? `${days.join(', ')} ${words[lang].ofTheMonth}${months}` : rrule
   }
   return rrule
 }
@@ -95,8 +107,8 @@ export function describeTime(service: Pick<Service, 'startTime' | 'endTime'>): s
   return service.endTime ? `${service.startTime}–${service.endTime}` : service.startTime
 }
 
-export function describeService(service: ProposedService | Service): string {
-  return `${describeRule(service.rrule)} ${describeTime(service)}`
+export function describeService(service: ProposedService | Service, lang: Lang = 'en'): string {
+  return `${describeRule(service.rrule, lang)} ${describeTime(service)}`
 }
 
 // A stored service as a draft entry: its content and the id that ties it back.
@@ -133,12 +145,13 @@ export function diffSchedule(before: Service[], after: ProposedService[]): Sched
   const removed: ScheduleRow[] = before
     .filter((service) => !kept.has(service.id))
     .map((service) => ({ state: 'removed', before: service }))
-  return [...rows, ...removed].sort((a, b) => sortKey(a).localeCompare(sortKey(b)))
+  const service = (row: ScheduleRow) => (row.state === 'removed' ? row.before : row.service)
+  return [...rows, ...removed].sort((a, b) => bulletinOrder(service(a), service(b)))
 }
 
 // Bulletin order: by first weekday, then by the clock; the patterns a week can't hold go last.
-function sortKey(row: ScheduleRow): string {
-  const service = row.state === 'removed' ? row.before : row.service
-  const day = weeklyDays(service.rrule)?.[0] ?? 9
-  return `${day}${service.startTime.padStart(5, '0')}`
+export function bulletinOrder(a: ProposedService | Service, b: ProposedService | Service): number {
+  const key = (service: ProposedService | Service) =>
+    `${weeklyDays(service.rrule)?.[0] ?? 9}${service.startTime.padStart(5, '0')}`
+  return key(a).localeCompare(key(b))
 }

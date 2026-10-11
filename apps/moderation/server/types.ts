@@ -50,14 +50,23 @@ export type HistoryEntry = {
   undoneAt?: string
 }
 
-// On disk an entry also keeps what undo needs.
-export type StoredHistoryEntry = HistoryEntry & { before?: Church; resolution: Resolution }
+// On disk an entry also keeps what undo needs, and what the change log tells other directories:
+// the church after the resolution, what the change rested on, and whether it has been passed on.
+export type StoredHistoryEntry = HistoryEntry & {
+  before?: Church
+  after?: Church
+  resolution: Resolution
+  basis?: string
+  sharedAt?: string
+}
 
 export type Desk = {
   target: 'remote' | 'local'
   loadedAt: string
   cases: Case[]
   history: HistoryEntry[]
+  // Applied resolutions that changed a church and still stand, newest first.
+  log: StoredHistoryEntry[]
 }
 
 export type DeskEvent = { type: 'desk'; desk: Desk } | { type: 'run'; churchId: string; run?: Run }

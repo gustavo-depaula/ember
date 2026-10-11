@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react'
 import type { Case, Desk, HistoryEntry } from '../server/types'
 import { useDesk, useRefresh, useReviewAll, useUndo } from './api'
 import { CasePane } from './CasePane'
+import { ChangeLog } from './ChangeLog'
 import { type Draft, proposalDraft } from './draft'
 
 // Whether Claude's draft still covers exactly the suggestions that are waiting.
@@ -37,7 +38,9 @@ export function App() {
   const [selected, setSelected] = useState<string>()
   // A phone shows one pane at a time: the queue, then the church picked from it.
   const [caseOpen, setCaseOpen] = useState(false)
+  const [logOpen, setLogOpen] = useState(false)
   const open = (churchId: string) => {
+    setLogOpen(false)
     setSelected(churchId)
     setCaseOpen(true)
   }
@@ -83,7 +86,7 @@ export function App() {
   const draftKey = current ? `${current.churchId}|${current.review?.reviewedAt ?? ''}` : ''
 
   return (
-    <div className={`desk${caseOpen && current ? ' desk--case' : ''}`}>
+    <div className={`desk${logOpen || (caseOpen && current) ? ' desk--case' : ''}`}>
       <header className="top">
         <h1>Mass times desk</h1>
         <span className={`target target--${desk.data.target}`}>
@@ -104,6 +107,13 @@ export function App() {
         >
           {unreviewed ? `Have Claude review ${unreviewed}` : 'All reviewed'}
         </button>
+        <button type="button" onClick={() => setLogOpen(!logOpen)}>
+          {(() => {
+            if (logOpen) return 'Back to the queue'
+            const unsent = desk.data.log.filter((entry) => !entry.sharedAt).length
+            return unsent ? `Change log · ${unsent} to send` : 'Change log'
+          })()}
+        </button>
         <button type="button" disabled={refresh.isPending} onClick={() => refresh.mutate()}>
           {refresh.isPending ? 'Refreshing…' : 'Refresh'}
         </button>
@@ -116,7 +126,7 @@ export function App() {
             <button
               type="button"
               key={item.churchId}
-              className={`queue-item${item === current ? ' queue-item--current' : ''}`}
+              className={`queue-item${item === current && !logOpen ? ' queue-item--current' : ''}`}
               onClick={() => open(item.churchId)}
             >
               <span className="queue-name">{item.church?.name ?? item.churchId}</span>
@@ -134,17 +144,21 @@ export function App() {
       </nav>
 
       <main className="case">
-        {current ? (
-          <CasePane
-            key={draftKey}
-            item={current}
-            onBack={() => setCaseOpen(false)}
-            draft={drafts[draftKey] ?? proposalDraft(current)}
-            setDraft={(draft) => setDrafts((all) => ({ ...all, [draftKey]: draft }))}
-          />
-        ) : (
-          <Splash>Nothing is waiting. The directory is as people last saw it.</Splash>
-        )}
+        {(() => {
+          if (logOpen) return <ChangeLog desk={desk.data} onBack={() => setLogOpen(false)} />
+          if (!current) {
+            return <Splash>Nothing is waiting. The directory is as people last saw it.</Splash>
+          }
+          return (
+            <CasePane
+              key={draftKey}
+              item={current}
+              onBack={() => setCaseOpen(false)}
+              draft={drafts[draftKey] ?? proposalDraft(current)}
+              setDraft={(draft) => setDrafts((all) => ({ ...all, [draftKey]: draft }))}
+            />
+          )
+        })()}
       </main>
     </div>
   )

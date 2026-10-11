@@ -73,6 +73,17 @@ export function useUndo() {
   return useDeskMutation<string>((id) => call<Desk>(`/history/${encodeURIComponent(id)}/undo`, {}))
 }
 
+export function useMarkShared() {
+  return useDeskMutation<{ ids: string[]; shared: boolean }>(async ({ ids, shared }) => {
+    let desk: Desk | undefined
+    for (const id of ids) {
+      desk = await call<Desk>(`/history/${encodeURIComponent(id)}/shared`, { shared })
+    }
+    if (!desk) throw new Error('Nothing to mark.')
+    return desk
+  })
+}
+
 export function useReview() {
   return useMutation({
     mutationFn: ({ churchId, instruction }: { churchId: string; instruction?: string }) =>

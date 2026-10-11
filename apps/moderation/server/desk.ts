@@ -3,13 +3,21 @@ import { mkdir, readdir, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { proposalJsonSchema, proposalSchema, type Resolution } from '@ember/api/src/moderation'
 import { type Church, church as churchTable } from '@ember/api/src/schema'
-import { resolutionToSql, restoreToSql } from '@ember/backend/src/lib/moderation'
+import { resolutionToSql, resolveChurch, restoreToSql } from '@ember/backend/src/lib/moderation'
 import { runClaude } from './claude'
 import { type D1, fromRow, lit, type Row } from './d1'
 import { safeName } from './paths'
 import { caseFile, refinePrompt, reviewPrompt } from './prompt'
 import { caseDir, clearCase, readHistory, readReview, writeHistory, writeReview } from './store'
-import type { Case, Desk, DeskEvent, HistoryEntry, Run, Suggestion } from './types'
+import type {
+  Case,
+  Desk,
+  DeskEvent,
+  HistoryEntry,
+  Run,
+  StoredHistoryEntry,
+  Suggestion,
+} from './types'
 
 // The moderation desk: the pending queue as read from D1, Claude's draft for each church, and the
 // two things a moderator can do with one (apply it, undo it). Everything here is in memory and
@@ -28,6 +36,7 @@ export type DeskApi = ReturnType<typeof createDesk>
 export function createDesk(d1: D1) {
   let cases: Case[] = []
   let history: HistoryEntry[] = []
+  let log: StoredHistoryEntry[] = []
   let loadedAt: string | undefined
   const runs = new Map<string, Run>()
   const aborts = new Map<string, AbortController>()
@@ -41,6 +50,7 @@ export function createDesk(d1: D1) {
       loadedAt: loadedAt ?? '',
       cases: cases.map((item) => ({ ...item, run: runs.get(item.churchId) })),
       history,
+      log,
     }
   }
 
@@ -104,10 +114,18 @@ export function createDesk(d1: D1) {
         review: await readReview(churchId),
       })),
     )
-    history = (await readHistory()).slice(0, 30).map(({ before, resolution, ...entry }) => entry)
+    await loadHistory()
     loadedAt = new Date().toISOString()
     emitDesk()
     return snapshot()
+  }
+
+  async function loadHistory() {
+    const entries = await readHistory()
+    history = entries
+      .slice(0, 30)
+      .map(({ before, after, resolution, basis, sharedAt, ...entry }) => entry)
+    log = entries.filter((entry) => entry.after && !entry.undoneAt)
   }
 
   // A bulletin photo, fetched from D1 once and kept in the church's case folder, where Claude
@@ -255,6 +273,7 @@ export function createDesk(d1: D1) {
     }
 
     const now = new Date()
+    const update = current ? resolveChurch(current, resolution, now) : undefined
     const statements = resolutionToSql(churchId, current, resolution, now)
     if (statements.length === 0) throw new Error('Nothing to apply.')
     await d1.execute(statements)
@@ -275,7 +294,9 @@ export function createDesk(d1: D1) {
         .filter(Boolean)
         .join(' · '),
       before: current,
+      after: current && update ? ({ ...current, ...update } as Church) : undefined,
       resolution,
+      basis: item.review?.proposal.summary,
     })
     if (resolution.verdicts.length === item.suggestions.length) await clearCase(churchId)
     return load()
@@ -301,6 +322,16 @@ export function createDesk(d1: D1) {
     return load()
   }
 
+  // Record that a logged change was (or, unticked, was not) passed on to other directories.
+  async function markShared(historyId: string, shared: boolean): Promise<Desk> {
+    const entry = (await readHistory()).find((candidate) => candidate.id === historyId)
+    if (!entry) throw new Error('That change is not in the log.')
+    await writeHistory({ ...entry, sharedAt: shared ? new Date().toISOString() : undefined })
+    await loadHistory()
+    emitDesk()
+    return snapshot()
+  }
+
   function subscribe(listener: (event: DeskEvent) => void): () => void {
     listeners.add(listener)
     return () => listeners.delete(listener)
@@ -316,6 +347,7 @@ export function createDesk(d1: D1) {
     stop,
     apply,
     undo,
+    markShared,
     subscribe,
   }
 }

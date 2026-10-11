@@ -87,6 +87,12 @@ export function deskApi(desk: DeskApi): Plugin {
       },
     ],
     ['POST', /^\/history\/([^/]+)\/undo$/, ({ params: [id] }) => desk.undo(id)],
+    [
+      'POST',
+      /^\/history\/([^/]+)\/shared$/,
+      ({ params: [id], body }) =>
+        desk.markShared(id, (body as { shared?: boolean }).shared === true),
+    ],
   ]
 
   async function handle(req: IncomingMessage, res: ServerResponse) {
