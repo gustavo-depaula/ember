@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Titus",
-    "la": "Super Epistolam ad Titum"
+    "la": "Super Epistolam ad Titum",
+    "pt-BR": "Comentário à Epístola a Tito"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the Epistle to Titus.",
-    "la": "Expositio Thomae in Epistolam ad Titum."
+    "la": "Expositio Thomae in Epistolam ad Titum.",
+    "pt-BR": "Comentário de Tomás à Epístola a Tito."
   },
   "composed": "1265–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,28 +39,32 @@
       "id": "titus-c01",
       "title": {
         "en-US": "Pr. (Luke 12:39) - Luke 12:39",
-        "la": "Pr. (Luke 12:39) - Luke 12:39"
+        "la": "Pr. (Luke 12:39) - Luke 12:39",
+        "pt-BR": "Pr. (Lc 12, 39) - Lucas 12, 39"
       }
     },
     {
       "id": "titus-c02",
       "title": {
         "en-US": "C. 1 - Ministers Against the Reprobate",
-        "la": "C. 1 - Ministers Against the Reprobate"
+        "la": "C. 1 - Ministers Against the Reprobate",
+        "pt-BR": "C. 1 - Os ministros contra os réprobos"
       }
     },
     {
       "id": "titus-c03",
       "title": {
         "en-US": "C. 2 - Christian Life",
-        "la": "C. 2 - Christian Life"
+        "la": "C. 2 - Christian Life",
+        "pt-BR": "C. 2 - A vida cristã"
       }
     },
     {
       "id": "titus-c04",
       "title": {
         "en-US": "C. 3 - Justified by Grace",
-        "la": "C. 3 - Justified by Grace"
+        "la": "C. 3 - Justified by Grace",
+        "pt-BR": "C. 3 - Justificados pela graça"
       }
     }
   ]

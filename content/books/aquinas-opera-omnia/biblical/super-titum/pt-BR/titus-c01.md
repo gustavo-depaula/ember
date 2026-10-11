@@ -1,0 +1,15 @@
+# Pr. (Lc 12, 39) - Lucas 12, 39
+
+***Lucas 12, 39***
+
+^12:39^ Sabei, porém, isto: que, se o pai de família soubesse a que hora viria o ladrão, certamente vigiaria e não deixaria arrombar a sua casa.  
+
+> **1**. Pelo *pai de família* significa-se o prelado da Igreja, por causa de três coisas que deve prestar, a saber, a geração para a fé, a instrução para a salvação, a guarda para a segurança.
+
+A primeira, porque, assim como a vida corporal existe pela alma, assim a espiritual pela fé. Hab 2, 4: *o meu justo, porém, vive da fé*. E, assim como alguém é gerado para a vida carnal pela emissão do sêmen corporal, assim para a vida espiritual pela infusão da semente espiritual, que é a palavra de Deus, Mt 13, 3–17, e 1 Cor 4, 15: *pelo Evangelho eu vos gerei*. Igualmente, pela instrução. Eclo 7, 25: *tens filhos? Instrui-os*. Is 48, 17: *eu sou o Senhor, teu Deus, que te ensino coisas úteis*. Igualmente, pela proteção e tutela. Dt 32, 10: *conduziu-o em redor e ensinou-o*, etc. Pois a qualquer prelado se confia o cuidado dos súditos. 3 Rs 20, 39: *guarda este homem; se ele escapar, a tua vida responderá pela vida dele*. E Hb 13, 17: *eles velam como quem há de prestar contas pelas vossas almas*.  
+
+Mas para esta geração requer-se a ciência. Os 4, 6: *porque tu rejeitaste a ciência, também eu te rejeitarei, para que não exerças o sacerdócio para mim*. E por isso diz *se soubesse*. Pois requer-se que saiba.  
+
+Igualmente, além da instrução, requer-se que seja solícito. Rm 12, 8: *o que preside, com solicitude*. Lc 2, 8: *havia naquela mesma região pastores que vigiavam e guardavam durante as vigílias da noite o seu rebanho*. Para a guarda, porém, requer-se fortaleza para proteger. 1 Mc 3, 3, a respeito de Judas Macabeu: *vestiu a couraça como um gigante, cingiu-se das suas armas de guerra nos combates e protegia o acampamento com a sua espada*. E por isso se diz *e não deixaria arrombar a sua casa*, isto é, a Igreja. 1 Tm 3, 15: *para que saibas como convém que te portes na casa de Deus, que é a Igreja de Deus*. Esta casa é de Deus, como do Senhor, e dos prelados, como dos servos. Hb 3, 5: *Moisés, na verdade, era fiel em toda a casa dele, como servo; mas Cristo, como Filho, na sua própria casa*. Esta é arrombada pelo ladrão, isto é, pelo herege. Ab, capítulo único: *se ladrões tivessem entrado em tua casa, se salteadores durante a noite, como te terias calado?* E chama-se ladrão porque vem às ocultas e anda nas trevas. Por isso *fur* (ladrão) se diz de *furno*, que significa escuro; assim estes, por meio de doutrinas obscuras. Pr 9, 17: *as águas furtadas são mais doces, e o pão escondido mais saboroso*. Igualmente, pela intenção perversa, porque pretendem matar. Jo 10, 10: *o ladrão não vem senão para furtar, matar e destruir*. Igualmente, pelo modo de entrar, porque não entra pela porta. 1 Jo 4, 3: *e todo espírito que divide Jesus não é de Deus, e este é o anticristo*, etc.  
+
+**2**. Assim, pois, das coisas ditas acima tira-se convenientemente a intenção desta epístola, na qual o Apóstolo instrui Tito sobre como há de governar a igreja, como fica claro pelo argumento.
