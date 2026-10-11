@@ -2,13 +2,16 @@
   "id": "hippolytus-expository-treatise-against-the-jews",
   "cover": "quarter",
   "name": {
-    "en-US": "Expository Treatise Against the Jews"
+    "en-US": "Expository Treatise Against the Jews",
+    "pt-BR": "Tratado Expositivo contra os Judeus"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Expository Treatise Against the Jews"
+        "en-US": "Expository Treatise Against the Jews",
+        "pt-BR": "Tratado Expositivo contra os Judeus"
       }
     }
   ]
