@@ -2,13 +2,16 @@
   "id": "victorinus-creation-of-the-world",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Creation of the World"
+    "en-US": "On the Creation of the World",
+    "pt-BR": "Sobre a Criação do Mundo"
   },
   "author": {
-    "en-US": "Victorinus"
+    "en-US": "Victorinus",
+    "pt-BR": "Vitorino"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Creation of the World"
+        "en-US": "On the Creation of the World",
+        "pt-BR": "Sobre a Criação do Mundo"
       }
     }
   ]
