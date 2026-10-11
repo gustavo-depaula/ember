@@ -2,13 +2,16 @@
   "id": "john-chrysostom-first-homily-on-eutropius",
   "cover": "quarter",
   "name": {
-    "en-US": "First Homily on Eutropius"
+    "en-US": "First Homily on Eutropius",
+    "pt-BR": "Primeira Homilia sobre Eutrópio"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "First Homily on Eutropius"
+        "en-US": "First Homily on Eutropius",
+        "pt-BR": "Primeira Homilia sobre Eutrópio"
       }
     }
   ]
