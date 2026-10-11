@@ -39,8 +39,9 @@ export async function buildSearchData(locale: Locale): Promise<SearchData> {
             : kind === 'chant'
               ? href.chant(locale, id)
               : href.collection(locale, id)
-      // Descriptions make the index several times larger for a weak signal.
-      return { ...entry, description: undefined, url }
+      // Descriptions and opening lines make the index several times larger
+      // for a weak signal.
+      return { ...entry, description: undefined, lines: undefined, url }
     })
     const extra: ExtraEntry[] = [
       ...saints.saints.map((saint) => ({

@@ -379,6 +379,74 @@ def _embedded_refs(node: Any, into: set[str]) -> None:
             _embedded_refs(value, into)
 
 
+# What search reads beyond a practice's names: the headings it is filed under
+# and the opening words of its own prayers. People ask for a prayer by its
+# occasion ("thanksgiving after Mass") or its first line ("Soul of Christ,
+# sanctify me") more often than by its catalogue title.
+_SEARCH_LINE_BLOCKS = ("prayer", "hymn")
+_SEARCH_LINES_PER_LANG = 8
+_SEARCH_LINE_WORDS = 12
+
+
+def _collection_section_titles() -> dict[str, list[dict]]:
+    """Practice id → the titles of every collection section that lists it."""
+    titles: dict[str, list[dict]] = {}
+
+    def walk(blocks: Any, above: list[dict]) -> None:
+        for block in blocks or []:
+            if block.get("kind") == "section":
+                title = block.get("title")
+                walk(block.get("blocks"), [*above, title] if isinstance(title, dict) else above)
+            elif block.get("kind") == "item" and str(block.get("ref", "")).startswith("practice/"):
+                held = titles.setdefault(block["ref"].split("/", 1)[1], [])
+                held.extend(t for t in above if t not in held)
+
+    for f in sorted((CONTENT / "collections").glob("*.json")):
+        data = json.loads(f.read_text(encoding="utf-8"))
+        for section in data.get("sections") or []:
+            title = section.get("title")
+            walk(section.get("blocks"), [title] if isinstance(title, dict) else [])
+    return titles
+
+
+def _opening_lines(node: Any, into: dict[str, list[str]]) -> None:
+    """First line of each prayer a flow words itself. A prayer prayed by `ref`
+    is left to its own practice, or "Our Father" would find every rosary."""
+    if isinstance(node, list):
+        for item in node:
+            _opening_lines(item, into)
+        return
+    if not isinstance(node, dict):
+        return
+    inline = node.get("inline")
+    if node.get("type") in _SEARCH_LINE_BLOCKS and isinstance(inline, dict):
+        for lang, text in inline.items():
+            if not isinstance(text, str):
+                continue
+            first = next((ln for ln in text.splitlines() if ln.strip()), "")
+            words = re.sub(r"[*_#>\[\]]", "", first).split()
+            line = " ".join(words[:_SEARCH_LINE_WORDS])
+            lines = into.setdefault(lang, [])
+            # One or two words ("Amen.", "Kyrie, eleison.") open too many prayers.
+            if len(words) >= 3 and line not in lines and len(lines) < _SEARCH_LINES_PER_LANG:
+                lines.append(line)
+    for value in node.values():
+        _opening_lines(value, into)
+
+
+def _practice_search(manifest_data: dict, flow: dict | None, filed_under: list[dict]) -> dict:
+    keywords: dict[str, list[str]] = {}
+    for lang, words in (manifest_data.get("keywords") or {}).items():
+        keywords.setdefault(lang, []).extend(words)
+    for title in filed_under:
+        for lang, text in title.items():
+            if text not in keywords.setdefault(lang, []):
+                keywords[lang].append(text)
+    lines: dict[str, list[str]] = {}
+    _opening_lines(flow, lines)
+    return {k: v for k, v in (("keywords", keywords), ("lines", lines)) if v}
+
+
 def build_practices(b: Builder) -> None:
     """Each practice's catalog blob is the original `manifest.json` body merged
     with resource hashes (flow / fragments / data / tracks / per-day / images).
@@ -408,6 +476,7 @@ def build_practices(b: Builder) -> None:
     _embedded_refs(list(flows.values()), embedded)
     for extra in (*src.glob("*/fragments/*.json"), *src.glob("*/programs/days/*.json")):
         _embedded_refs(json.loads(extra.read_text(encoding="utf-8")), embedded)
+    section_titles = _collection_section_titles()
     for d in sorted(p for p in src.iterdir() if p.is_dir()):
         pid = d.name
         manifest_path = d / "manifest.json"
@@ -561,6 +630,10 @@ def build_practices(b: Builder) -> None:
                 minutes = _counted_minutes(flow.get("sections") or [], flows)
                 if minutes:
                     item_manifest["estimatedMinutes"] = minutes
+        item_manifest.pop("keywords", None)
+        search = _practice_search(manifest_data, flow, section_titles.get(pid, []))
+        if search:
+            item_manifest["search"] = search
         if fragments:
             item_manifest["fragments"] = fragments
         if data_files:

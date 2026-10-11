@@ -56,12 +56,12 @@ if (root) {
     const results = searchIndex(data.catalog as IndexEntry[], query)
     const of = (kind: string) =>
       results
-        .filter((r) => r.kind === kind)
-        .map((r) =>
+        .filter((hit) => hit.result.kind === kind)
+        .map(({ result: r, caption }) =>
           row(
             urls.get(`${r.kind}/${r.id}`) ?? '#',
             r.title,
-            'subtitle' in r ? r.subtitle : undefined,
+            caption ?? ('subtitle' in r ? r.subtitle : undefined),
           ),
         )
     const html = [

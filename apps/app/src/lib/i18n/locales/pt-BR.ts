@@ -1199,6 +1199,8 @@ export default {
     searchResultBooks: 'Livros',
     searchResultCollections: 'Coleções',
     searchResultChants: 'Canto',
+    searchResultTop: 'Melhor resultado',
+    searchResultMentioned: 'Mencionado em',
     suggestionMass: 'Missa de hoje',
     suggestionMorning: 'Para começar o dia',
     suggestionMidday: 'Uma pausa ao meio-dia',

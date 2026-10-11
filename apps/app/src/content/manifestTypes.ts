@@ -216,6 +216,13 @@ export type PracticeManifest = {
   vars?: Record<string, string>
   pack?: string
   tags?: string[]
+  // What search reads beyond the names, by language. Written by the corpus
+  // build: `keywords` are the manifest's own plus the collection headings the
+  // practice is filed under; `lines` open the prayers its flow words itself.
+  search?: {
+    keywords?: Partial<Record<string, string[]>>
+    lines?: Partial<Record<string, string[]>>
+  }
   defaults?: { sortOrder?: number; slots?: SlotDefault[] }
   notifications?: NotificationsManifest
   /** Inline flow — alternative to a separate flow.json hashed into flowHash. */
