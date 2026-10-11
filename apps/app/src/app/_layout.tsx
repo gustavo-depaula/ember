@@ -40,12 +40,11 @@ import {
   warmCriticalManifests,
   warmDeferredManifests,
 } from '@/content/resolver'
-import { canonicalizePracticeIds } from '@/db/canonicalizePracticeIds'
 import { useDbInit } from '@/db/client'
 import { useCheckInsStore } from '@/features/mass-times/checkins'
 import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
-import { refileMisplacedCompletions } from '@/features/plan-of-life'
+import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
@@ -179,8 +178,7 @@ export default function RootLayout() {
         })
 
         setBootStatus(i18n.t('boot.almostReady'))
-        await canonicalizePracticeIds()
-        await refileMisplacedCompletions()
+        await straightenPlanOnce()
         mark('plan settled')
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)

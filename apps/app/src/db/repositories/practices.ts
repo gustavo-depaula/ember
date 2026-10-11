@@ -1,4 +1,5 @@
 import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
+import { randomId } from '@/lib/id'
 import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
 import { emit, emitBatch, nextId, resolveCompletions, useEventStore } from '../events'
 import type { SlotState } from '../events/state'
@@ -7,18 +8,6 @@ import type { Completion, CompletionVia, Tier, TimeBlock, UserPractice } from '.
 function getSortedSlots(): SlotState[] {
   const store = useEventStore.getState()
   return [...store.slots.values()].sort((a, b) => a.sort_order - b.sort_order)
-}
-
-function nextSlotUniqueId(practiceId: string): string {
-  const store = useEventStore.getState()
-  let max = 0
-  for (const [key, slot] of store.slots) {
-    if (slot.practice_id === practiceId) {
-      const num = Number.parseInt(parseSlotKey(key).slotId, 10)
-      if (!Number.isNaN(num) && num > max) max = num
-    }
-  }
-  return String(max + 1)
 }
 
 function maxSortOrder(): number {
@@ -80,13 +69,16 @@ type SlotInput = {
   pins?: Record<string, string>
   // Where the slot stands in the plan; after every other when absent.
   sortOrder?: number
+  // For a caller that has to know the slot's key beforehand (test fixtures).
+  slotId?: string
 }
 
-// `offset` spaces the ids and sort orders of slots built together in one batch,
-// before any of them reaches the store the counters read from.
+// A slot is the user's own making, so its id is one no other device can give
+// another slot: two devices adding a time to the same practice keep both.
+// `offset` spaces the sort orders of slots built together in one batch, before
+// any of them reaches the store the counter reads from.
 function buildSlotAddedEvent(practiceId: string, data: SlotInput, offset = 0) {
-  const uniqueId = String(Number(nextSlotUniqueId(practiceId)) + offset)
-  const slotKey = composeSlotKey(practiceId, uniqueId)
+  const slotKey = composeSlotKey(practiceId, data.slotId ?? randomId())
   const time = data.time ?? null
   return {
     event: {

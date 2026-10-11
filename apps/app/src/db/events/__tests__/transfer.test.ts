@@ -7,7 +7,9 @@ import { beforeEach, describe, expect, it } from 'vitest'
 
 import { setDb } from '@/db/instance'
 import {
+  addSlot,
   createPracticeWithSlot,
+  deleteSlot,
   logCompletion,
   removeSlotCompletion,
   updateSlot,
@@ -15,6 +17,7 @@ import {
 import { setPreference } from '@/db/repositories/preferences'
 import { saveItem, unsaveItem } from '@/db/repositories/savedItems'
 import { addItemToCollection, createUserCollection } from '@/db/repositories/userCollections'
+import { parseSlotKey } from '@/lib/slotKey'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 import { useEventStore } from '../state'
@@ -57,7 +60,10 @@ describe('two devices exchanging their logs', () => {
     const web = await device('web.db')
 
     await use(phone)
-    const rosary = await createPracticeWithSlot({ id: 'practice/rosary' }, { time: '07:00' })
+    const rosary = await createPracticeWithSlot(
+      { id: 'practice/rosary' },
+      { time: '07:00', slotId: '1' },
+    )
     await logCompletion('practice/rosary', '2026-05-10', '1', 'rosary', 'amen')
     await logCompletion('practice/rosary', '2026-05-11', '1', 'rosary', 'amen')
     await saveItem('book/imitation', 'book')
@@ -67,7 +73,7 @@ describe('two devices exchanging their logs', () => {
     await setPreference('translation', 'DRB')
 
     await use(web)
-    await createPracticeWithSlot({ id: 'practice/angelus' }, { time: '12:00' })
+    await createPracticeWithSlot({ id: 'practice/angelus' }, { time: '12:00', slotId: '1' })
     await logCompletion('practice/angelus', '2026-05-10', '1', 'angelus', 'amen')
     await saveItem('book/confessions', 'book')
     await setPreference('translation', 'NABRE')
@@ -98,6 +104,31 @@ describe('two devices exchanging their logs', () => {
     expect(await mergeLog(fromPhone)).toBe(0)
     await replayAll()
     expect(snapshot()).toEqual(onPhone)
+  })
+
+  it('keep both times when each adds one to the same practice, and what a deleted time recorded', async () => {
+    const phone = await device('phone.db')
+    await use(phone)
+    await createPracticeWithSlot({ id: 'practice/mass' }, { time: '10:00', slotId: '1' })
+    const shared = await exportLog()
+
+    const web = await device('web.db')
+    await use(web)
+    await mergeLog(shared)
+    const evening = await addSlot('practice/mass', { time: '19:00' })
+    await logCompletion('practice/mass', '2026-05-12', parseSlotKey(evening).slotId, 'mass', 'amen')
+    const fromWeb = await exportLog()
+
+    await use(phone)
+    const morning = await addSlot('practice/mass', { time: '07:00' })
+    await mergeLog(fromWeb)
+    expect(snapshot().slots).toEqual(
+      [`${evening} 19:00 1`, `${morning} 07:00 1`, 'practice/mass::1 10:00 1'].sort(),
+    )
+
+    await deleteSlot(evening)
+    expect(snapshot().slots).toHaveLength(2)
+    expect(snapshot().completions).toEqual(['practice/mass 2026-05-12'])
   })
 
   it('refuses a file that is not a log', async () => {

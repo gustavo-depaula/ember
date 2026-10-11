@@ -107,7 +107,7 @@ describe('opening a database that kept the shelf and collections in tables', () 
     await createEventsTable(db as never)
     await createPracticeWithSlot(
       { id: 'three-oclock', customName: "Three O'Clock Prayer", customIcon: 'clock' },
-      { time: '15:00' },
+      { time: '15:00', slotId: '1' },
     )
     await logCompletion('three-oclock', '2026-05-10', '1', 'three-oclock', 'checklist')
 

@@ -73,7 +73,7 @@ describe('completing a prayed practice', () => {
   it('fills the slot due that day, not an earlier one kept for other days', async () => {
     await createPracticeWithSlot(
       { id: 'practice/mass' },
-      { schedule: '{"type":"days-of-week","days":[0]}' },
+      { schedule: '{"type":"days-of-week","days":[0]}', slotId: '1' },
     )
     const weekdays = await addSlot('practice/mass', {
       schedule: '{"type":"days-of-week","days":[1,2,3,4,5,6]}',
@@ -105,7 +105,7 @@ describe('refiling completions that landed on a slot not due that day', () => {
   async function sundayAndWeekdayMass() {
     const sunday = await createPracticeWithSlot(
       { id: 'practice/mass' },
-      { schedule: '{"type":"days-of-week","days":[0]}' },
+      { schedule: '{"type":"days-of-week","days":[0]}', slotId: '1' },
     )
     const weekdays = await addSlot('practice/mass', {
       schedule: '{"type":"days-of-week","days":[1,2,3,4,5,6]}',

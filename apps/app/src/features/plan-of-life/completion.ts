@@ -134,7 +134,7 @@ export async function completePractice(
  * unslotted beside the plan's own practice, so the Mass was counted and the
  * day's row stayed open. Each moves to the open due slot; if that row was since
  * ticked by hand, the misfiled one is the same prayer counted twice and is
- * dropped. Run at startup; a no-op once the record is straight.
+ * dropped. Run by `straightenPlanOnce`.
  */
 export async function refileMisplacedCompletions(): Promise<void> {
   const { practices, slots, completions } = useEventStore.getState()

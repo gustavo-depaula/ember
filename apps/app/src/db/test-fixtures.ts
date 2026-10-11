@@ -43,16 +43,16 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
   // since `_layout.tsx` waits on these flags before rendering.
   await useBibleStore.getState().hydrate()
 
-  // Each joins the plan as it would from its own page, taking the first slot
-  // key ('practice/x::1'). Serial: a single expo-sqlite connection can't hold
+  // Each joins the plan as it would from its own page, under the key given.
+  // Serial: a single expo-sqlite connection can't hold
   // two transactions at once.
   for (const slotKey of fixtures.enableSlotKeys ?? []) {
-    const { practiceId } = parseSlotKey(slotKey)
+    const { practiceId, slotId } = parseSlotKey(slotKey)
     const manifest = getManifest(practiceId)
     const schedule = manifest?.defaults?.slots?.[0]?.schedule
     await createPracticeWithSlot(
       { id: practiceId, activeVariant: practiceId },
-      { ...defaultSlotOf(manifest), schedule: schedule && JSON.stringify(schedule) },
+      { ...defaultSlotOf(manifest), slotId, schedule: schedule && JSON.stringify(schedule) },
     )
   }
 

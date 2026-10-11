@@ -18,7 +18,7 @@ describe('canonicalizePracticeIds', () => {
       route: '/blank',
       routes: [{ pattern: '/blank', loader: async () => ({ default: () => <Text>blank</Text> }) }],
     })
-    await createPracticeWithSlot({ id: 'mass' }, { time: '10:00' })
+    await createPracticeWithSlot({ id: 'mass' }, { time: '10:00', slotId: '1' })
     await createPracticeWithSlot({ id: 'jesus-prayer', customName: 'Jesus Prayer' }, {})
     await createPracticeWithSlot({ id: 'family-prayer', customName: 'Family prayer' }, {})
     await logCompletion('mass', '2026-05-10', '1', 'mass', 'checkin')

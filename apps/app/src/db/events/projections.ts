@@ -49,16 +49,12 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
+    // Deleting a practice or a slot takes it out of the plan. What was prayed
+    // stays prayed: another device may have recorded it since.
     case 'PracticeDeleted': {
       draft.practices.delete(event.practiceId)
       for (const [key, slot] of draft.slots) {
         if (slot.practice_id === event.practiceId) draft.slots.delete(key)
-      }
-      for (const [id, completion] of draft.completions) {
-        if (completion.practice_id === event.practiceId) {
-          removeCompletionFromIndexes(draft, id, completion.date, completion.practice_id)
-          draft.completions.delete(id)
-        }
       }
       break
     }
@@ -151,12 +147,6 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
 
     case 'SlotDeleted': {
       draft.slots.delete(event.slotKey)
-      for (const [id, completion] of draft.completions) {
-        if (completion.practice_id === event.practiceId && completion.sub_id === event.slotId) {
-          removeCompletionFromIndexes(draft, id, completion.date, completion.practice_id)
-          draft.completions.delete(id)
-        }
-      }
       break
     }
 
