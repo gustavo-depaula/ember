@@ -1,6 +1,7 @@
 import { existsSync } from 'node:fs'
 import { mkdir, readdir, readFile, rm, writeFile } from 'node:fs/promises'
 import path from 'node:path'
+import type { Church } from '@ember/api/src/schema'
 import { dataDir, safeName } from './paths'
 import type { Review, StoredHistoryEntry } from './types'
 
@@ -8,10 +9,18 @@ import type { Review, StoredHistoryEntry } from './types'
 // what Claude reads and the draft it wrote, plus the log that undo replays. The database stays the
 // only record of what was decided; losing this folder loses drafts and undo, nothing else.
 
-const historyDir = path.join(dataDir, 'history')
+// The production database and the local one each keep their own drafts and log, so a trial run
+// against `wrangler dev` never shows up in the record of what was done to the real directory.
+let root = dataDir
+
+export function openStore(target: 'remote' | 'local') {
+  root = path.join(dataDir, target)
+}
+
+const historyDir = () => path.join(root, 'history')
 
 export function caseDir(churchId: string): string {
-  return path.join(dataDir, 'cases', safeName(churchId))
+  return path.join(root, 'cases', safeName(churchId))
 }
 
 async function readJson<T>(file: string): Promise<T | undefined> {
@@ -36,16 +45,27 @@ export function clearCase(churchId: string): Promise<void> {
   return rm(caseDir(churchId), { recursive: true, force: true })
 }
 
+// An entry written before a resolution could span churches holds its one church at the top level.
+type LegacyEntry = Partial<StoredHistoryEntry> & { before?: Church; after?: Church }
+
+function readEntry({ before, after, ...entry }: LegacyEntry): StoredHistoryEntry {
+  const legacy = after ? [{ before, after }] : []
+  return { ...entry, records: entry.records ?? legacy } as StoredHistoryEntry
+}
+
 // Newest first.
 export async function readHistory(): Promise<StoredHistoryEntry[]> {
-  if (!existsSync(historyDir)) return []
-  const files = (await readdir(historyDir)).filter((name) => name.endsWith('.json')).sort()
+  if (!existsSync(historyDir())) return []
+  const files = (await readdir(historyDir())).filter((name) => name.endsWith('.json')).sort()
   const entries = await Promise.all(
-    files.map((name) => readJson<StoredHistoryEntry>(path.join(historyDir, name))),
+    files.map((name) => readJson<LegacyEntry>(path.join(historyDir(), name))),
   )
-  return entries.filter((entry) => entry !== undefined).reverse()
+  return entries
+    .filter((entry) => entry !== undefined)
+    .map(readEntry)
+    .reverse()
 }
 
 export function writeHistory(entry: StoredHistoryEntry): Promise<void> {
-  return writeJson(path.join(historyDir, `${safeName(entry.id)}.json`), entry)
+  return writeJson(path.join(historyDir(), `${safeName(entry.id)}.json`), entry)
 }

@@ -1,3 +1,4 @@
+import type { Church } from '@ember/api/src/schema'
 import { useState } from 'react'
 import type { Case, Suggestion } from '../server/types'
 import { reviewIsCurrent, timeAgo } from './App'
@@ -5,7 +6,10 @@ import { photoUrl, useApply, useReview, useStop } from './api'
 import {
   countChanges,
   type Draft,
+  type FieldKey,
+  otherChurch,
   proposalDraft,
+  type RecordDraft,
   recordDraft,
   toResolution,
   type Verdict,
@@ -62,10 +66,12 @@ export function CasePane({
   }
   const church = item.church
   const website = church?.links?.find((link) => link.kind === 'website')
+  const kin = item.others.filter((other) => other.sameParish).map((other) => other.church.name)
 
   const applyLabel = [
     changes.schedule ? `${changes.schedule} schedule ${plural(changes.schedule, 'change')}` : '',
     changes.details ? `${changes.details} detail ${plural(changes.details, 'change')}` : '',
+    changes.created ? `${changes.created} new ${plural(changes.created, 'church')}` : '',
     ...(['accepted', 'rejected', 'duplicate'] as const).map((status) => {
       const count = changes.verdicts.filter((verdict) => verdict === status).length
       return count ? `${count} ${status}` : ''
@@ -98,6 +104,9 @@ export function CasePane({
                 ? `verified ${timeAgo(church.lastVerifiedAt)} (${church.verifiedSource})`
                 : 'never verified'}
               {item.verifications ? ` · ${item.verifications} “times are correct” in 30 days` : ''}
+              {kin.length
+                ? ` · ${church.parishId ? 'same parish' : 'chapels'}: ${kin.join(', ')}`
+                : ''}
             </p>
           ) : (
             <p className="error">
@@ -130,8 +139,7 @@ export function CasePane({
               {/* With no proposal to react to, moderating is editing, so the editors start open. */}
               <details className="by-hand" open={!item.review}>
                 <summary>See the whole record and edit it by hand</summary>
-                <ScheduleEditor church={church} draft={draft} setDraft={setDraft} />
-                <RecordEditor item={item} draft={draft} setDraft={setDraft} />
+                <ByHand item={item} church={church} draft={draft} setDraft={setDraft} />
               </details>
             </div>
           ) : null}
@@ -229,8 +237,116 @@ export function CasePane({
   )
 }
 
+const newChurchFields: FieldKey[] = ['name', 'address', 'city', 'region', 'postalCode']
+
+// The full editors, for one church of the draft at a time.
+function ByHand({
+  item,
+  church,
+  draft,
+  setDraft,
+}: {
+  item: Case
+  church: Church
+  draft: Draft
+  setDraft: (draft: Draft) => void
+}) {
+  const [picked, setPicked] = useState('main')
+  const related = draft.related.find((r) => r.churchId === picked)
+  const created = draft.created.find((c) => c.key === picked)
+  const tabs = [
+    { key: 'main', label: church.name },
+    ...draft.related.map((r) => ({
+      key: r.churchId,
+      label: otherChurch(item, r.churchId)?.name ?? r.churchId,
+    })),
+    ...draft.created.map((c) => ({ key: c.key, label: c.record.fields.name || 'New church' })),
+  ]
+
+  // What is being edited: its church as the directory has it, its record, and how to save it.
+  const target = (() => {
+    if (related) {
+      return {
+        church: otherChurch(item, related.churchId),
+        record: related.record,
+        set: (record: RecordDraft) =>
+          setDraft({
+            ...draft,
+            related: draft.related.map((r) => (r === related ? { ...r, record } : r)),
+          }),
+      }
+    }
+    if (created) {
+      return {
+        church: undefined,
+        record: created.record,
+        set: (record: RecordDraft) =>
+          setDraft({
+            ...draft,
+            created: draft.created.map((c) => (c === created ? { ...c, record } : c)),
+          }),
+      }
+    }
+    return {
+      church,
+      record: draft.record,
+      set: (record: RecordDraft) => setDraft({ ...draft, record }),
+    }
+  })()
+
+  // A parish is a church that is nobody's chapel, and no church is its own.
+  const parishes = [church, ...item.others.map((other) => other.church)].filter(
+    (candidate) => !candidate.parishId && candidate.id !== target.church?.id,
+  )
+  const setPlace = (place: { lat?: string; lng?: string }) =>
+    setDraft({
+      ...draft,
+      created: draft.created.map((c) => (c === created ? { ...c, ...place } : c)),
+    })
+
+  return (
+    <>
+      {tabs.length > 1 ? (
+        <div className="segmented tabs">
+          {tabs.map((tab) => (
+            <button
+              type="button"
+              key={tab.key}
+              className={tab.key === (related || created ? picked : 'main') ? 'on' : ''}
+              onClick={() => setPicked(tab.key)}
+            >
+              {tab.label}
+            </button>
+          ))}
+        </div>
+      ) : null}
+      {created ? (
+        <div className="card fields">
+          <label>
+            Latitude
+            <input value={created.lat} onChange={(e) => setPlace({ lat: e.target.value })} />
+          </label>
+          <label>
+            Longitude
+            <input value={created.lng} onChange={(e) => setPlace({ lng: e.target.value })} />
+          </label>
+        </div>
+      ) : null}
+      <ScheduleEditor church={target.church} draft={target.record} setDraft={target.set} />
+      <RecordEditor
+        church={target.church}
+        draft={target.record}
+        setDraft={target.set}
+        parishes={parishes}
+        only={created ? newChurchFields : undefined}
+      />
+    </>
+  )
+}
+
 function plural(count: number, word: string): string {
-  return count === 1 ? word : `${word}s`
+  if (count === 1) return word
+  return word.endsWith('ch') ? `${word}es` : `${word}s`
 }
 
 function SuggestionCard({

@@ -12,6 +12,7 @@ import {
 } from '../../lib/geo'
 import {
   type CellCount,
+  type ChurchKin,
   cellCounts,
   churchById,
   churchesByIds,
@@ -20,6 +21,7 @@ import {
   churchesInTile,
   churchesInViewport,
   churchIdsMatchingText,
+  churchKin,
   storedCellCounts,
   type TileChurch,
   type ViewportFilter,
@@ -58,12 +60,20 @@ export type ChurchDetail = Church & {
   services: Service[]
   texts: NonNullable<Church['texts']>
   links: NonNullable<Church['links']>
+  parish?: ChurchKin
+  chapels: ChurchKin[]
 }
 
 export async function churchDetail(db: Db, id: string): Promise<ChurchDetail | undefined> {
   const c = await churchById(db, id)
   if (!c) return undefined
-  return { ...c, services: c.services ?? [], texts: c.texts ?? [], links: c.links ?? [] }
+  return {
+    ...c,
+    services: c.services ?? [],
+    texts: c.texts ?? [],
+    links: c.links ?? [],
+    ...(await churchKin(db, c)),
+  }
 }
 
 // A one-church cluster names its church, so the map can show it as that church's pin.

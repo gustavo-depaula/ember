@@ -16,7 +16,7 @@ export function ChangeLog({ desk, onBack }: { desk: Desk; onBack: () => void }) 
 
   const messages = desk.log.map((entry) => ({
     entry,
-    text: changeMessage(entry, lang === 'auto' ? churchLang(entry.after) : lang),
+    text: changeMessage(entry, lang === 'auto' ? churchLang(entry.records[0]?.after) : lang),
   }))
   const unsent = messages.filter(({ entry }) => !entry.sharedAt)
 

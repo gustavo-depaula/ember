@@ -3,7 +3,14 @@ import { mkdir, readdir, rm, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { proposalJsonSchema, proposalSchema, type Resolution } from '@ember/api/src/moderation'
 import { type Church, church as churchTable } from '@ember/api/src/schema'
-import { resolutionToSql, resolveChurch, restoreToSql } from '@ember/backend/src/lib/moderation'
+import {
+  boundingBox,
+  coveringPrefixes,
+  haversineKm,
+  prefixRanges,
+} from '@ember/backend/src/lib/geo'
+import { slugify } from '@ember/backend/src/lib/import'
+import { planResolution, restoreToSql } from '@ember/backend/src/lib/moderation'
 import { runClaude } from './claude'
 import { type D1, fromRow, lit, type Row } from './d1'
 import { safeName } from './paths'
@@ -14,6 +21,7 @@ import type {
   Desk,
   DeskEvent,
   HistoryEntry,
+  OtherChurch,
   Run,
   StoredHistoryEntry,
   Suggestion,
@@ -24,6 +32,9 @@ import type {
 // rebuilt from the database on load; nothing reaches D1 except through `apply` and `undo`.
 
 const concurrentReviews = 3
+// How far from a church the desk looks for chapels its parish may be answerable for.
+const nearbyKm = 2.5
+const nearbyLimit = 20
 const imageTypes: Record<string, string> = {
   jpg: 'image/jpeg',
   png: 'image/png',
@@ -104,11 +115,20 @@ export function createDesk(d1: D1) {
       byChurch.set(churchId, suggestions)
     }
 
+    const others = await loadOthers([...churchById.values()]).catch((error: Error) => {
+      // The parish column arrives with migration 0005; a database without it can't be moderated.
+      if (!error.message.includes('parish_id')) throw error
+      throw new Error(
+        'This database has no church.parish_id column yet. Apply migration 0005_church_parish (it runs with the backend deploy, or: pnpm --filter @ember/backend db:migrate:remote).',
+      )
+    })
+
     // Oldest suggestion first: `corrections` is in arrival order, and so is the map built from it.
     cases = await Promise.all(
       [...byChurch].map(async ([churchId, suggestions]) => ({
         churchId,
         church: churchById.get(churchId),
+        others: others.get(churchId) ?? [],
         suggestions,
         verifications: verified.get(churchId) ?? 0,
         review: await readReview(churchId),
@@ -120,12 +140,50 @@ export function createDesk(d1: D1) {
     return snapshot()
   }
 
+  // For each church with suggestions waiting: the rest of its parish, wherever they stand, and
+  // the churches around it.
+  async function loadOthers(churches: Church[]): Promise<Map<string, OtherChurch[]>> {
+    if (churches.length === 0) return new Map()
+    const parishOf = (c: Church) => c.parishId ?? c.id
+    const parishes = [...new Set(churches.map(parishOf))].map(lit).join(', ')
+    const [kin, ...around] = await d1.query(
+      `SELECT * FROM church WHERE parish_id IN (${parishes}) OR id IN (${parishes})`,
+      ...churches.map((c) => {
+        const cells = coveringPrefixes(boundingBox(c.lat, c.lng, nearbyKm), 5)
+        const ranges = prefixRanges(cells).map(
+          ([lo, hi]) => `(geohash >= ${lit(lo)} AND geohash < ${lit(hi)})`,
+        )
+        return `SELECT * FROM church WHERE ${ranges.join(' OR ')}`
+      }),
+    )
+    const kinRows = kin.map((row) => fromRow(churchTable, row))
+
+    return new Map(
+      churches.map((c, index) => {
+        const distance = (other: Church) => haversineKm(c.lat, c.lng, other.lat, other.lng)
+        const family = kinRows.filter((k) => k.id !== c.id && parishOf(k) === parishOf(c))
+        const nearby = around[index]
+          .map((row) => fromRow(churchTable, row))
+          .filter((n) => n.id !== c.id && !family.some((k) => k.id === n.id))
+          .filter((n) => distance(n) <= nearbyKm)
+          .sort((a, b) => distance(a) - distance(b))
+          .slice(0, nearbyLimit)
+        const entry = (sameParish: boolean) => (church: Church) => ({
+          church,
+          distanceKm: Math.round(distance(church) * 100) / 100,
+          sameParish,
+        })
+        return [c.id, [...family.map(entry(true)), ...nearby.map(entry(false))]]
+      }),
+    )
+  }
+
   async function loadHistory() {
     const entries = await readHistory()
     history = entries
       .slice(0, 30)
-      .map(({ before, after, resolution, basis, sharedAt, ...entry }) => entry)
-    log = entries.filter((entry) => entry.after && !entry.undoneAt)
+      .map(({ records, resolution, basis, sharedAt, ...entry }) => entry)
+    log = entries.filter((entry) => entry.records.length > 0 && !entry.undoneAt)
   }
 
   // A bulletin photo, fetched from D1 once and kept in the church's case folder, where Claude
@@ -258,44 +316,55 @@ export function createDesk(d1: D1) {
     }
   }
 
-  // Write a resolution to D1. The church is read again first: what gets saved for undo, and what
-  // the resolution is compared against, is the row as it is now, and a row that moved since the
-  // moderator saw it is refused rather than overwritten.
+  // Write a resolution to D1. Every church it names is read again first: what gets saved for undo,
+  // and what the resolution is compared against, is the row as it is now, and a row that moved
+  // since the moderator saw it is refused rather than overwritten.
   async function apply(churchId: string, resolution: Resolution): Promise<Desk> {
     const item = find(churchId)
     const waitingIds = new Set(item.suggestions.map((suggestion) => suggestion.id))
     const unknown = resolution.verdicts.find((verdict) => !waitingIds.has(verdict.id))
     if (unknown) throw new Error(`Suggestion ${unknown.id} is not waiting on this church.`)
 
-    const [[row]] = await d1.query(`SELECT * FROM church WHERE id = ${lit(churchId)}`)
-    const current: Church | undefined = row ? fromRow(churchTable, row) : undefined
-    if (current?.updatedAt !== item.church?.updatedAt) {
-      throw new Error('This church changed in the database since the desk loaded it. Refresh.')
+    const loaded = new Map(item.others.map((other) => [other.church.id, other.church]))
+    if (item.church) loaded.set(churchId, item.church)
+    const named = [churchId, ...(resolution.related ?? []).map((related) => related.churchId)]
+    const [rows] = await d1.query(`SELECT * FROM church WHERE id IN (${named.map(lit).join(', ')})`)
+    const fresh = new Map(rows.map((row) => [row.id as string, fromRow(churchTable, row)]))
+    for (const id of named) {
+      if (fresh.get(id)?.updatedAt !== loaded.get(id)?.updatedAt) {
+        throw new Error(`${id} changed in the database since the desk loaded it. Refresh.`)
+      }
     }
 
+    const current = fresh.get(churchId)
     const now = new Date()
-    const update = current ? resolveChurch(current, resolution, now) : undefined
-    const statements = resolutionToSql(churchId, current, resolution, now)
+    const { statements, records } = planResolution(resolution, {
+      churchId,
+      current,
+      known: [...loaded.values()].map((c) => fresh.get(c.id) ?? c),
+      createdIds: await reserveIds(resolution, current),
+      now,
+    })
     if (statements.length === 0) throw new Error('Nothing to apply.')
     await d1.execute(statements)
 
     const count = (status: string) =>
       resolution.verdicts.filter((verdict) => verdict.status === status).length
+    const changed = records.length === 1 ? '1 church updated' : `${records.length} churches updated`
     await writeHistory({
       id: `${now.toISOString()}-${churchId}`,
       churchId,
       churchName: current?.name ?? churchId,
       appliedAt: now.toISOString(),
       summary: [
-        statements.length > resolution.verdicts.length ? 'record updated' : '',
+        records.length ? changed : '',
         ...['accepted', 'rejected', 'duplicate'].map((status) =>
           count(status) ? `${count(status)} ${status}` : '',
         ),
       ]
         .filter(Boolean)
         .join(' · '),
-      before: current,
-      after: current && update ? ({ ...current, ...update } as Church) : undefined,
+      records,
       resolution,
       basis: item.review?.proposal.summary,
     })
@@ -303,19 +372,50 @@ export function createDesk(d1: D1) {
     return load()
   }
 
-  // Put a church back as it was before a resolution and reopen its suggestions. Only the latest
-  // resolution of a church can be undone: restoring an older one would take newer changes with it.
+  // An id nobody holds for each church the resolution creates, slugged the way the import does.
+  async function reserveIds(resolution: Resolution, near: Church | undefined): Promise<string[]> {
+    const taken = new Set<string>()
+    const ids: string[] = []
+    for (const created of resolution.created ?? []) {
+      const base =
+        slugify(
+          [created.name, created.city ?? near?.city, created.region ?? near?.region]
+            .filter(Boolean)
+            .join(' '),
+        ) || 'church'
+      const [rows] = await d1.query(
+        `SELECT id FROM church WHERE id = ${lit(base)} OR id LIKE ${lit(`${base}-%`)}`,
+      )
+      for (const row of rows) taken.add(row.id as string)
+      let id = base
+      for (let n = 2; taken.has(id); n++) id = `${base}-${n}`
+      taken.add(id)
+      ids.push(id)
+    }
+    return ids
+  }
+
+  // Put every church a resolution touched back as it was, remove the ones it created, and reopen
+  // its suggestions. Only the latest resolution to touch a church can be undone: restoring an
+  // older one would take newer changes with it.
   async function undo(historyId: string): Promise<Desk> {
     const entries = await readHistory()
     const entry = entries.find((candidate) => candidate.id === historyId)
     if (!entry || entry.undoneAt) throw new Error('That change was already undone.')
-    const latest = entries.find((other) => other.churchId === entry.churchId && !other.undoneAt)
-    if (latest?.id !== entry.id) {
-      throw new Error('A later change to this church has to be undone first.')
-    }
+    const touched = new Set([entry.churchId, ...entry.records.map((record) => record.after.id)])
+    const later = entries
+      .slice(0, entries.indexOf(entry))
+      .find(
+        (other) =>
+          !other.undoneAt &&
+          [other.churchId, ...other.records.map((r) => r.after.id)].some((id) => touched.has(id)),
+      )
+    if (later) throw new Error(`The later change to ${later.churchName} has to be undone first.`)
+
     await d1.execute(
       restoreToSql(
-        entry.before,
+        entry.records.flatMap((record) => record.before ?? []),
+        entry.records.filter((record) => !record.before).map((record) => record.after.id),
         entry.resolution.verdicts.map((verdict) => verdict.id),
       ),
     )

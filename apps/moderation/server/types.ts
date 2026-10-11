@@ -32,9 +32,14 @@ export type Run = {
 
 // One church with suggestions waiting. `church` is missing when they name a church the directory
 // doesn't hold.
+// Another church a resolution may reach: one of the same parish (the parish church, a sibling
+// chapel), or one standing close by that may turn out to be a chapel nobody has linked yet.
+export type OtherChurch = { church: Church; distanceKm: number; sameParish: boolean }
+
 export type Case = {
   churchId: string
   church?: Church
+  others: OtherChurch[]
   suggestions: Suggestion[]
   verifications: number // "times are correct" taps in the last 30 days
   review?: Review
@@ -51,10 +56,10 @@ export type HistoryEntry = {
 }
 
 // On disk an entry also keeps what undo needs, and what the change log tells other directories:
-// the church after the resolution, what the change rested on, and whether it has been passed on.
+// every church the resolution touched, before and after (`before` is missing for one it created),
+// what the change rested on, and whether it has been passed on.
 export type StoredHistoryEntry = HistoryEntry & {
-  before?: Church
-  after?: Church
+  records: Array<{ before?: Church; after: Church }>
   resolution: Resolution
   basis?: string
   sharedAt?: string

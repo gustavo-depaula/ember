@@ -190,6 +190,21 @@ export async function churchById(db: Db, id: string): Promise<Church | undefined
   return rows[0]
 }
 
+// A church's kin by name: the parish it belongs to, and the chapels that belong to it.
+export type ChurchKin = { id: string; name: string }
+
+export async function churchKin(
+  db: Db,
+  c: Pick<Church, 'id' | 'parishId'>,
+): Promise<{ parish?: ChurchKin; chapels: ChurchKin[] }> {
+  const kin = { id: church.id, name: church.name }
+  const [parishes, chapels] = await Promise.all([
+    c.parishId ? db.select(kin).from(church).where(eq(church.id, c.parishId)).limit(1) : [],
+    db.select(kin).from(church).where(eq(church.parishId, c.id)).orderBy(asc(church.name)),
+  ])
+  return { parish: parishes[0], chapels }
+}
+
 export function verificationsForChurch(
   db: Db,
   churchId: string,

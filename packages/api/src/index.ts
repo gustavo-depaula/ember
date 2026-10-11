@@ -13,10 +13,12 @@ export type {
 } from './dump'
 export { type ExpandOptions, expandService, type Occurrence } from './expand'
 export {
+  type CreatedChurch,
   type Proposal,
   type ProposedService,
   proposalJsonSchema,
   proposalSchema,
+  type RecordChange,
   type Resolution,
   resolutionSchema,
   ruleProblem,

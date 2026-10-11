@@ -46,9 +46,11 @@ const proposedServiceSchema = z.object({
 
 const verdictStatus = z.enum(['accepted', 'rejected', 'duplicate'])
 
-export const resolutionSchema = z.object({
-  // Only the church fields that change; an empty string clears one.
-  fields: churchChangesSchema,
+// What changes on one church's record.
+const recordSchema = z.object({
+  // Only the church fields that change; an empty string clears one. `parishId` is the id of the
+  // parish church this one belongs to (see `church.parishId`).
+  fields: churchChangesSchema.extend({ parishId: z.string().optional() }),
   // Each list is the whole of it after the change; omitted means untouched.
   services: z.array(proposedServiceSchema).optional(),
   texts: z
@@ -57,6 +59,30 @@ export const resolutionSchema = z.object({
     )
     .optional(),
   links: z.array(z.object({ kind: z.string(), url: z.string() })).optional(),
+})
+
+// A church the directory lacks, usually a chapel named on its parish's bulletin. It is created as
+// part of the parish of the church the corrections are about, and takes that church's country and
+// timezone.
+const createdChurchSchema = z.object({
+  name: z.string().trim().min(1),
+  address: z.string().optional(),
+  city: z.string().optional(),
+  region: z.string().optional(),
+  postalCode: z.string().optional(),
+  lat: z.number().min(-90).max(90),
+  lng: z.number().min(-180).max(180),
+  services: z.array(proposedServiceSchema),
+  texts: recordSchema.shape.texts,
+  links: recordSchema.shape.links,
+})
+
+// A parish and its chapels often share one schedule, so one correction can call for changes to
+// several churches: the one it was sent about, others already in the directory (`related`), and
+// ones that are missing from it (`created`).
+export const resolutionSchema = recordSchema.extend({
+  related: z.array(recordSchema.extend({ churchId: z.string() })).optional(),
+  created: z.array(createdChurchSchema).optional(),
   // A correction with no verdict stays pending.
   verdicts: z.array(z.object({ id: z.string(), status: verdictStatus })),
 })
@@ -78,6 +104,8 @@ export function proposalJsonSchema(): unknown {
   return schema
 }
 
+export type RecordChange = z.infer<typeof recordSchema>
+export type CreatedChurch = z.infer<typeof createdChurchSchema>
 export type ProposedService = z.infer<typeof proposedServiceSchema>
 export type Resolution = z.infer<typeof resolutionSchema>
 export type Proposal = z.infer<typeof proposalSchema>

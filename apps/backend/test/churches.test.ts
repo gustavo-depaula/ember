@@ -294,6 +294,17 @@ describe('GET /churches/:id', () => {
     expect(detail.services).toHaveLength(1)
   })
 
+  it("names a chapel's parish, and a parish's chapels", async () => {
+    await env.DB.prepare("UPDATE church SET parish_id = 'st-mary-a' WHERE id = 'st-joseph-b'").run()
+    type Kin = { parish?: { id: string; name: string }; chapels: { id: string }[] }
+    const detail = async (id: string) =>
+      (await (await app.request(`/churches/${id}`, {}, env)).json()) as Kin
+
+    expect((await detail('st-joseph-b')).parish?.id).toBe('st-mary-a')
+    expect((await detail('st-mary-a')).chapels.map((c) => c.id)).toEqual(['st-joseph-b'])
+    expect((await detail('st-mary-a')).parish).toBeUndefined()
+  })
+
   it('404s an unknown church', async () => {
     const res = await app.request('/churches/nope', {}, env)
     expect(res.status).toBe(404)

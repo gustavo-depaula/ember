@@ -8,6 +8,7 @@ import { deskApi } from './api'
 import { createD1 } from './d1'
 import { createDesk } from './desk'
 import { appRoot, dataDir } from './paths'
+import { openStore } from './store'
 
 // `pnpm moderation` — the Mass-times moderation desk, on this machine only. It reads and writes the
 // production D1 through your wrangler login; pass --local to work on the `wrangler dev` database,
@@ -16,6 +17,7 @@ import { appRoot, dataDir } from './paths'
 const target = process.argv.includes('--local') ? 'local' : 'remote'
 const lan = process.argv.includes('--lan')
 const port = Number(process.env.PORT ?? 4210)
+openStore(target)
 const desk = createDesk(createD1(target))
 
 // The desk writes to the database with no login of its own, which is fine while only this machine

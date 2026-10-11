@@ -1,7 +1,7 @@
 import type { ProposedService } from '@ember/api/src/moderation'
 import type { Church } from '@ember/api/src/schema'
 import { useState } from 'react'
-import type { Draft } from './draft'
+import type { RecordDraft } from './draft'
 import {
   asProposed,
   dayCodes,
@@ -24,12 +24,12 @@ export function ScheduleEditor({
   draft,
   setDraft,
 }: {
-  church: Church
-  draft: Draft
-  setDraft: (draft: Draft) => void
+  church: Pick<Church, 'services'> | undefined
+  draft: RecordDraft
+  setDraft: (draft: RecordDraft) => void
 }) {
   const [editing, setEditing] = useState<number>()
-  const rows = diffSchedule(church.services ?? [], draft.services)
+  const rows = diffSchedule(church?.services ?? [], draft.services)
   const setServices = (services: ProposedService[]) => setDraft({ ...draft, services })
 
   const update = (index: number, patch: Partial<ProposedService>) =>

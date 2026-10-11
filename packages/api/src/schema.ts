@@ -63,6 +63,10 @@ export const church = sqliteTable(
     administration: text('administration'), // diocesan | religious_institute | society_apostolic_life | personal_prelature | ordinariate | independent | other
     institute: text('institute'), // FSSP, ICKSP, SSPX, OSB, OP, SJ, Opus Dei, ...
     canonicalStatus: text('canonical_status'), // full_communion | irregular | not_in_communion | (null = unknown)
+    // The parish church this one belongs to: a chapel or community served by that parish's priest,
+    // often on one shared bulletin. Null for a parish church itself, and for the many whose parish
+    // nobody has recorded. One level only: a church with chapels has no parish of its own here.
+    parishId: text('parish_id'),
     note: text('note'),
     hasStructuredSchedule: integer('has_structured_schedule', { mode: 'boolean' }),
     lastVerifiedAt: text('last_verified_at'), // ISO
@@ -73,7 +77,7 @@ export const church = sqliteTable(
     texts: text('texts', { mode: 'json' }).$type<ChurchText[]>(),
     links: text('links', { mode: 'json' }).$type<ChurchLink[]>(),
   },
-  (t) => [index('church_geohash_idx').on(t.geohash)],
+  (t) => [index('church_geohash_idx').on(t.geohash), index('church_parish_idx').on(t.parishId)],
 )
 
 // How many churches each geohash cell of length 1-5 holds, kept by triggers on `church` (see the

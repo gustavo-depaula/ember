@@ -107,7 +107,9 @@ export async function importRows(db: Db, rows: BuiltRows): Promise<void> {
 function excludedSet(table: typeof church): Record<string, ReturnType<typeof sql.raw>> {
   const set: Record<string, ReturnType<typeof sql.raw>> = {}
   for (const [key, col] of Object.entries(getTableColumns(table))) {
-    if (col.primary) continue
+    // A church's parish is recorded by a moderator and has no place in the dump, so a re-import
+    // must leave it standing.
+    if (col.primary || key === 'parishId') continue
     set[key] = sql.raw(`excluded."${col.name}"`)
   }
   return set
@@ -160,7 +162,7 @@ function uniqueSlug(parts: (string | undefined)[], used: Set<string>): string {
   return id
 }
 
-function slugify(s: string): string {
+export function slugify(s: string): string {
   return s
     .toLowerCase()
     .normalize('NFKD')

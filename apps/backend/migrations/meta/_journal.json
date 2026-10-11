@@ -29,6 +29,13 @@
       "when": 1791474180709,
       "tag": "0004_church_cell",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1791700000000,
+      "tag": "0005_church_parish",
+      "breakpoints": true
     }
   ]
 }

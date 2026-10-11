@@ -759,6 +759,47 @@ label.changed select {
   color: var(--accent-deep);
 }
 
+/* A change that reaches several churches */
+
+.church-diff + .church-diff,
+.add-church {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+
+.church-diff h4 {
+  flex-wrap: wrap;
+  margin: 0 0 4px;
+  font: 500 19px var(--body);
+}
+
+.church-diff h4 .muted {
+  flex: 1;
+  font: 12.5px var(--ui);
+}
+
+.add-church {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.add-church select {
+  flex: 1;
+  min-width: 200px;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 14px;
+}
+
+.card.fields {
+  padding: 14px 18px;
+}
+
 /* Change log */
 
 .log > * {
