@@ -692,13 +692,99 @@ label.changed select {
   align-items: start;
 }
 
+/* The proposed change, as a diff */
+
+.change {
+  display: grid;
+  grid-template-columns: 16px 130px minmax(0, 1fr) auto;
+  gap: 10px;
+  align-items: baseline;
+  padding: 7px 0;
+}
+
+.change + .change {
+  margin-top: 0;
+  border-top: 1px solid var(--border);
+}
+
+.mark--add {
+  color: var(--green);
+}
+
+.mark--mod {
+  color: var(--orange);
+}
+
+.mark--del {
+  color: var(--red);
+}
+
+.change-label {
+  font-size: 13px;
+  color: var(--text-2);
+}
+
+.change-body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 8px;
+  white-space: pre-wrap;
+}
+
+.change-body del,
+.change-body ins {
+  padding: 1px 7px;
+  border-radius: 5px;
+  font: 500 17px / 1.35 var(--body);
+  text-decoration: none;
+}
+
+.change-body del {
+  background: var(--tint-bad);
+  color: var(--red);
+  text-decoration: line-through;
+}
+
+.change-body ins {
+  background: var(--tint-good);
+  color: var(--green);
+}
+
+.by-hand > summary {
+  margin: 4px 0 14px;
+  cursor: pointer;
+  font-size: 13px;
+  color: var(--accent-deep);
+}
+
 /* Actions */
 
 .actions {
-  display: flex;
-  align-items: center;
-  gap: 14px;
+  display: grid;
+  gap: 10px;
   padding: 12px 28px;
   border-top: 1px solid var(--border);
   background: var(--surface);
+}
+
+.decisions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.ask-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto;
+  gap: 12px;
+  align-items: center;
+}
+
+button.approve:not(:disabled) {
+  background: var(--green);
+  color: var(--bg);
+}
+
+button.reject:not(:disabled) {
+  color: var(--red);
 }

@@ -10,6 +10,7 @@ import {
   toResolution,
   type Verdict,
 } from './draft'
+import { ProposalDiff } from './ProposalDiff'
 import { RecordEditor } from './RecordEditor'
 import { ScheduleEditor } from './ScheduleEditor'
 import { describeService } from './schedule'
@@ -39,7 +40,24 @@ export function CasePane({
   setDraft: (draft: Draft) => void
 }) {
   const apply = useApply()
+  const review = useReview()
+  const [asking, setAsking] = useState(false)
+  const [instruction, setInstruction] = useState('')
+  const running = item.run !== undefined && item.run.status !== 'failed'
+  const busy = apply.isPending || running
   const changes = countChanges(item, draft)
+
+  const ask = () => {
+    review.mutate(
+      { churchId: item.churchId, instruction },
+      {
+        onSuccess: () => {
+          setInstruction('')
+          setAsking(false)
+        },
+      },
+    )
+  }
   const church = item.church
   const website = church?.links?.find((link) => link.kind === 'website')
 
@@ -103,48 +121,93 @@ export function CasePane({
           </section>
           {church ? (
             <div>
-              <ScheduleEditor church={church} draft={draft} setDraft={setDraft} />
-              <RecordEditor item={item} draft={draft} setDraft={setDraft} />
+              <ProposalDiff item={item} draft={draft} setDraft={setDraft} />
+              {/* With no proposal to react to, moderating is editing, so the editors start open. */}
+              <details className="by-hand" open={!item.review}>
+                <summary>See the whole record and edit it by hand</summary>
+                <ScheduleEditor church={church} draft={draft} setDraft={setDraft} />
+                <RecordEditor item={item} draft={draft} setDraft={setDraft} />
+              </details>
             </div>
           ) : null}
         </div>
       </div>
 
       <footer className="actions">
-        <button
-          type="button"
-          className="primary"
-          disabled={!changes.any || apply.isPending}
-          onClick={() =>
-            apply.mutate({ churchId: item.churchId, resolution: toResolution(item, draft) })
-          }
-        >
-          {apply.isPending
-            ? 'Applying…'
-            : changes.any
-              ? `Apply · ${applyLabel}`
-              : 'Nothing to apply'}
-        </button>
-        <button
-          type="button"
-          onClick={() =>
-            setDraft({
-              ...recordDraft(item),
-              verdicts: Object.fromEntries(item.suggestions.map((s) => [s.id, 'rejected'])),
-            })
-          }
-        >
-          Reject all
-        </button>
-        {item.review ? (
-          <button type="button" className="link" onClick={() => setDraft(proposalDraft(item))}>
-            Back to Claude’s proposal
-          </button>
+        {asking ? (
+          <div className="ask-row">
+            <textarea
+              // biome-ignore lint/a11y/noAutofocus: the box opens because the moderator asked to type in it
+              autoFocus
+              rows={2}
+              value={instruction}
+              placeholder="What should be different? (“the Saturday Mass is 17h, look again at the photo”, “don’t trust the website, only the bulletin”)"
+              onChange={(event) => setInstruction(event.target.value)}
+              onKeyDown={(event) => {
+                if (event.key === 'Enter' && (event.metaKey || event.ctrlKey)) ask()
+              }}
+            />
+            <button
+              type="button"
+              className="primary"
+              disabled={!instruction.trim() || review.isPending}
+              onClick={ask}
+            >
+              Send to Claude
+            </button>
+            <button type="button" className="link" onClick={() => setAsking(false)}>
+              Cancel
+            </button>
+          </div>
         ) : null}
-        <button type="button" className="link" onClick={() => setDraft(recordDraft(item))}>
-          Discard edits
-        </button>
-        {apply.error ? <span className="error">{apply.error.message}</span> : null}
+        <div className="decisions">
+          <button
+            type="button"
+            className="primary approve"
+            disabled={!changes.any || busy}
+            onClick={() =>
+              apply.mutate({ churchId: item.churchId, resolution: toResolution(item, draft) })
+            }
+          >
+            {apply.isPending
+              ? 'Applying…'
+              : changes.any
+                ? `Approve · ${applyLabel}`
+                : 'Nothing to approve'}
+          </button>
+          <button
+            type="button"
+            className="reject"
+            disabled={busy}
+            title="Reject every suggestion and leave the church as it is"
+            onClick={() =>
+              apply.mutate({
+                churchId: item.churchId,
+                resolution: {
+                  fields: {},
+                  verdicts: item.suggestions.map((s) => ({ id: s.id, status: 'rejected' })),
+                },
+              })
+            }
+          >
+            Reject
+          </button>
+          <button type="button" disabled={busy} onClick={() => setAsking(!asking)}>
+            {item.review ? 'Ask for something different' : 'Ask Claude'}
+          </button>
+          <span className="spacer" />
+          {item.review ? (
+            <button type="button" className="link" onClick={() => setDraft(proposalDraft(item))}>
+              Back to Claude’s proposal
+            </button>
+          ) : null}
+          <button type="button" className="link" onClick={() => setDraft(recordDraft(item))}>
+            Discard edits
+          </button>
+        </div>
+        {apply.error || review.error ? (
+          <p className="error">{(apply.error ?? review.error)?.message}</p>
+        ) : null}
       </footer>
     </>
   )
@@ -231,10 +294,6 @@ function ClaudePanel({ item }: { item: Case }) {
   const proposal = item.review?.proposal
   const run = item.run
 
-  const ask = () => {
-    review.mutate({ churchId: item.churchId, instruction }, { onSuccess: () => setInstruction('') })
-  }
-
   return (
     <section>
       <h3>Claude’s read</h3>
@@ -299,24 +358,20 @@ function ClaudePanel({ item }: { item: Case }) {
 
         {run && run.status !== 'failed' ? null : (
           <div className="ask">
-            <textarea
-              rows={3}
-              value={instruction}
-              placeholder={
-                proposal
-                  ? 'Tell Claude what to change or check (“the Saturday Mass is 17h, look again at the photo”)'
-                  : 'Anything Claude should know first (optional)'
-              }
-              onChange={(event) => setInstruction(event.target.value)}
-              onKeyDown={(event) => {
-                if (event.key === 'Enter' && (event.metaKey || event.ctrlKey)) ask()
-              }}
-            />
-            <button type="button" className={proposal ? '' : 'primary'} onClick={ask}>
-              {(() => {
-                if (!proposal) return 'Review with Claude'
-                return instruction.trim() ? 'Ask Claude to revise' : 'Review again'
-              })()}
+            {proposal ? null : (
+              <textarea
+                rows={3}
+                value={instruction}
+                placeholder="Anything Claude should know first (optional)"
+                onChange={(event) => setInstruction(event.target.value)}
+              />
+            )}
+            <button
+              type="button"
+              className={proposal ? '' : 'primary'}
+              onClick={() => review.mutate({ churchId: item.churchId, instruction })}
+            >
+              {proposal ? 'Review again from scratch' : 'Review with Claude'}
             </button>
             {review.error ? <span className="error">{review.error.message}</span> : null}
           </div>
