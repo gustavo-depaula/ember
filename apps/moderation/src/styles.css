@@ -202,7 +202,7 @@ textarea {
 .desk {
   display: grid;
   grid-template: auto 1fr / 300px 1fr;
-  height: 100vh;
+  height: 100dvh;
 }
 
 .top {
@@ -413,7 +413,9 @@ blockquote {
 
 .photo img {
   display: block;
+  max-width: 100%;
   height: 150px;
+  object-fit: cover;
 }
 
 /* A bulletin is read at full size, in place: no lightbox to open and close. */
@@ -787,4 +789,181 @@ button.approve:not(:disabled) {
 
 button.reject:not(:disabled) {
   color: var(--red);
+}
+
+/* Phone: one pane at a time (the queue, then the church picked from it), everything in one column. */
+
+.back,
+.narrow-only {
+  display: none;
+}
+
+@media (max-width: 860px) {
+  /* Below 16px, iOS zooms the page whenever a field takes focus. */
+  input,
+  select,
+  textarea {
+    font-size: 16px;
+  }
+
+  .desk {
+    grid-template: auto 1fr / minmax(0, 1fr);
+  }
+
+  .desk .case,
+  .desk--case .queue {
+    display: none;
+  }
+
+  .desk--case .case {
+    display: flex;
+  }
+
+  .queue {
+    border-right: 0;
+  }
+
+  .top {
+    flex-wrap: wrap;
+    gap: 8px 10px;
+    padding: 10px 14px;
+  }
+
+  .top h1 {
+    font-size: 15px;
+  }
+
+  .top .spacer {
+    flex-basis: 100%;
+    height: 0;
+  }
+
+  /* Inside a church the queue's controls are a tap away; the screen goes to the case. */
+  .desk--case .top > :not(h1, .target) {
+    display: none;
+  }
+
+  .wide-only {
+    display: none;
+  }
+
+  .narrow-only {
+    display: inline;
+  }
+
+  .back {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 15px;
+  }
+
+  .case-scroll {
+    padding: 16px 14px 28px;
+  }
+
+  .case-head h2 {
+    font-size: 25px;
+  }
+
+  .columns,
+  .claude,
+  .ask-row,
+  .row {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .card {
+    padding: 14px;
+  }
+
+  .summary {
+    font-size: 18px;
+  }
+
+  .segmented {
+    display: flex;
+  }
+
+  .segmented button {
+    flex: 1;
+    padding: 9px 4px;
+  }
+
+  /* A change reads as two lines: what it is, then old and new. */
+  .change {
+    grid-template-columns: 16px minmax(0, 1fr) auto;
+  }
+
+  .change-body {
+    grid-column: 2 / -1;
+    grid-row: 2;
+  }
+
+  .line-main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+  }
+
+  .days,
+  .time {
+    min-width: 0;
+  }
+
+  .details,
+  .was {
+    flex-basis: 100%;
+    padding-left: 26px;
+    white-space: normal;
+  }
+
+  .service-form {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding-left: 10px;
+  }
+
+  .fields {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .day-chips {
+    flex-wrap: wrap;
+  }
+
+  .actions {
+    padding: 10px 14px max(10px, env(safe-area-inset-bottom));
+  }
+
+  .decisions {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .decisions > button:not(.link) {
+    flex: 1;
+    padding-inline: 8px;
+  }
+
+  .decisions .approve {
+    flex: 1.4;
+  }
+
+  .decisions .spacer {
+    flex-basis: 100%;
+    height: 0;
+  }
+
+  button {
+    min-height: 40px;
+  }
+
+  button.link {
+    min-height: 0;
+    padding: 6px 0;
+  }
+
+  .segmented button,
+  .day-chips button {
+    min-height: 36px;
+  }
 }

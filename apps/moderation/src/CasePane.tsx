@@ -34,10 +34,12 @@ export function CasePane({
   item,
   draft,
   setDraft,
+  onBack,
 }: {
   item: Case
   draft: Draft
   setDraft: (draft: Draft) => void
+  onBack: () => void
 }) {
   const apply = useApply()
   const review = useReview()
@@ -76,6 +78,9 @@ export function CasePane({
     <>
       <div className="case-scroll">
         <header className="case-head">
+          <button type="button" className="link back" onClick={onBack}>
+            ← Queue
+          </button>
           <h2>{church?.name ?? item.churchId}</h2>
           {church ? (
             <p className="muted">
@@ -169,11 +174,15 @@ export function CasePane({
               apply.mutate({ churchId: item.churchId, resolution: toResolution(item, draft) })
             }
           >
-            {apply.isPending
-              ? 'Applying…'
-              : changes.any
-                ? `Approve · ${applyLabel}`
-                : 'Nothing to approve'}
+            {(() => {
+              if (apply.isPending) return 'Applying…'
+              if (!changes.any) return 'Nothing to approve'
+              return (
+                <>
+                  Approve<span className="wide-only"> · {applyLabel}</span>
+                </>
+              )
+            })()}
           </button>
           <button
             type="button"
@@ -193,7 +202,14 @@ export function CasePane({
             Reject
           </button>
           <button type="button" disabled={busy} onClick={() => setAsking(!asking)}>
-            {item.review ? 'Ask for something different' : 'Ask Claude'}
+            {item.review ? (
+              <>
+                Ask<span className="wide-only"> for something different</span>
+                <span className="narrow-only"> Claude</span>
+              </>
+            ) : (
+              'Ask Claude'
+            )}
           </button>
           <span className="spacer" />
           {item.review ? (

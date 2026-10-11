@@ -35,6 +35,12 @@ export function App() {
   const refresh = useRefresh()
   const reviewAll = useReviewAll()
   const [selected, setSelected] = useState<string>()
+  // A phone shows one pane at a time: the queue, then the church picked from it.
+  const [caseOpen, setCaseOpen] = useState(false)
+  const open = (churchId: string) => {
+    setSelected(churchId)
+    setCaseOpen(true)
+  }
   // Drafts outlive the selection, so moving through the queue never loses an edit. A draft belongs
   // to one review: when Claude redrafts, the key changes and the new proposal takes its place.
   const [drafts, setDrafts] = useState<Record<string, Draft>>({})
@@ -77,7 +83,7 @@ export function App() {
   const draftKey = current ? `${current.churchId}|${current.review?.reviewedAt ?? ''}` : ''
 
   return (
-    <div className="desk">
+    <div className={`desk${caseOpen && current ? ' desk--case' : ''}`}>
       <header className="top">
         <h1>Mass times desk</h1>
         <span className={`target target--${desk.data.target}`}>
@@ -111,7 +117,7 @@ export function App() {
               type="button"
               key={item.churchId}
               className={`queue-item${item === current ? ' queue-item--current' : ''}`}
-              onClick={() => setSelected(item.churchId)}
+              onClick={() => open(item.churchId)}
             >
               <span className="queue-name">{item.church?.name ?? item.churchId}</span>
               <span className="muted">
@@ -132,6 +138,7 @@ export function App() {
           <CasePane
             key={draftKey}
             item={current}
+            onBack={() => setCaseOpen(false)}
             draft={drafts[draftKey] ?? proposalDraft(current)}
             setDraft={(draft) => setDrafts((all) => ({ ...all, [draftKey]: draft }))}
           />
