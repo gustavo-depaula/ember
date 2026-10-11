@@ -2,13 +2,16 @@
   "id": "methodius-three-fragments-from-the-homily-on-the-cross-and-passion-of-christ",
   "cover": "quarter",
   "name": {
-    "en-US": "Three Fragments from the Homily on the Cross and Passion of Christ"
+    "en-US": "Three Fragments from the Homily on the Cross and Passion of Christ",
+    "pt-BR": "Três Fragmentos da Homilia sobre a Cruz e a Paixão de Cristo"
   },
   "author": {
-    "en-US": "Methodius"
+    "en-US": "Methodius",
+    "pt-BR": "Metódio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Three Fragments from the Homily on the Cross and Passion of Christ"
+        "en-US": "Three Fragments from the Homily on the Cross and Passion of Christ",
+        "pt-BR": "Três Fragmentos da Homilia sobre a Cruz e a Paixão de Cristo"
       }
     }
   ]
