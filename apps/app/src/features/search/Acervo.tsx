@@ -86,14 +86,17 @@ export function Acervo() {
       >
         <ArtFan ids={collectionArt} />
       </Door>
-      <Door
-        count={counts.chants}
-        title={t('search.chant')}
-        subtitle={t('search.chantHint')}
-        href="/browse/chant"
-      >
-        <Incipit />
-      </Door>
+      {/* An app update can reach a phone before the corpus that holds its chants. */}
+      {counts.chants > 0 && (
+        <Door
+          count={counts.chants}
+          title={t('search.chant')}
+          subtitle={t('search.chantHint')}
+          href="/browse/chant"
+        >
+          <LeafFan />
+        </Door>
+      )}
     </YStack>
   )
 }
@@ -179,19 +182,47 @@ function ArtFan({ ids }: { ids: string[] }) {
   ))
 }
 
-// The chant door shows what is behind it: the opening staff of the Kyrie
-// most parishes know, Mass XI's.
-function Incipit() {
+// Three leaves of the Kyriale, fanned as the other doors fan their art. A leaf
+// is parchment and ink in either theme, as a painting keeps its own colours.
+const chantLeaves = ['chant/kyrie-xi', 'chant/sanctus-xi', 'chant/agnus-dei-xi']
+const leafPalette = { ink: '#2B2118', rubric: '#8C1D2B' }
+
+function LeafFan() {
+  return chantLeaves.map((id, i) => (
+    <Fanned key={id} index={i}>
+      <Leaf id={id} />
+    </Fanned>
+  ))
+}
+
+function Leaf({ id }: { id: string }) {
   const catalogVersion = useCatalogVersion()
   const chant = useQuery({
-    queryKey: ['chant', 'chant/kyrie-xi', catalogVersion],
-    queryFn: async () => (await loadChant('chant/kyrie-xi')) ?? null,
+    queryKey: ['chant', id, catalogVersion],
+    queryFn: async () => (await loadChant(id)) ?? null,
     staleTime: Number.POSITIVE_INFINITY,
   }).data
-  if (!chant) return null
   return (
-    <YStack flex={1} justifyContent="center" paddingRight="$md">
-      <ScoreView score={chant.score} width={134} scale={0.72} label={chant.name} lines={1} />
+    <YStack
+      width={74}
+      height={96}
+      borderRadius={8}
+      overflow="hidden"
+      backgroundColor="#EFE4CB"
+      paddingLeft={6}
+      paddingTop={2}
+    >
+      {/* Set wider than the leaf and cut by its edge, as the fan cuts a painting. */}
+      {chant && (
+        <ScoreView
+          score={chant.score}
+          width={132}
+          scale={0.5}
+          label={chant.name}
+          lines={3}
+          palette={leafPalette}
+        />
+      )}
     </YStack>
   )
 }

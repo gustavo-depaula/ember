@@ -117,11 +117,17 @@ export async function loadChantPage(id: string, locale: Locale): Promise<ChantPa
   }))
 }
 
-/** The opening staff of a chant, for a tile: decoration, so it carries no label. */
-export async function loadIncipit(id: string, width: number, scale: number): Promise<string> {
+/** The opening staves of a chant, for a tile: decoration, so it carries no label. */
+export async function loadIncipit(
+  id: string,
+  { width, scale, lines }: { width: number; scale: number; lines: number },
+): Promise<string> {
   await bootCorpus()
   const chant = await loadChant(id)
   if (!chant) throw new Error(`No chant ${id}`)
   const layout = layoutScore(chant.score, { width, scale })
-  return scoreSvg({ ...layout, lines: layout.lines.slice(0, 1) }, { idPrefix: `${slugOf(id)}-i-` })
+  return scoreSvg(
+    { ...layout, lines: layout.lines.slice(0, lines) },
+    { idPrefix: `${slugOf(id)}-i-` },
+  )
 }

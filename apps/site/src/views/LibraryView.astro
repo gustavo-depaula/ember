@@ -24,18 +24,19 @@ const t = translator(locale)
 const s = siteStrings(locale)
 const pt = locale === 'pt-BR'
 
-const [prayers, books, shelves, incipit] = await Promise.all([
+// Three leaves of the Kyriale, fanned as the other doors fan their art.
+const leaf = { width: 132, scale: 0.5, lines: 3 }
+const [prayers, books, shelves, leaves] = await Promise.all([
   listPrayers(),
   listBooks(),
   loadCollectionShelves(locale),
-  // The chant door shows what is behind it: the opening staff of Mass XI's Kyrie.
-  loadIncipit('chant/kyrie-xi', 150, 0.8),
+  Promise.all(['chant/kyrie-xi', 'chant/sanctus-xi', 'chant/agnus-dei-xi'].map((id) => loadIncipit(id, leaf))),
 ])
 const collectionCount = shelves.reduce((n, shelf) => n + shelf.tiles.length, 0)
 const paintings = (ids: string[]) => ids.map((id) => artFor(id)?.uri).filter(Boolean) as string[]
 
 // The doors of the app's Treasury, each showing what stands behind it.
-const doors: { count: number; title: string; hint: string; to: string; art: string[]; covers: { id: string; cover: NonNullable<ReturnType<typeof coverFor>>; title: string }[]; score?: string }[] = withLocale(locale, () => [
+const doors: { count: number; title: string; hint: string; to: string; art: string[]; covers: { id: string; cover: NonNullable<ReturnType<typeof coverFor>>; title: string }[]; leaves?: string[] }[] = withLocale(locale, () => [
   {
     count: prayers.length,
     title: t('search.prayers'),
@@ -71,7 +72,7 @@ const doors: { count: number; title: string; hint: string; to: string; art: stri
     to: href.section(locale, 'chant'),
     art: [],
     covers: [],
-    score: incipit,
+    leaves,
   },
 ])
 
@@ -117,14 +118,11 @@ const description = pt
               <span class="t-label">{door.title}</span>
               <span class="t-caption">{door.hint}</span>
             </span>
-            {door.score ? (
-              <span class="incipit" aria-hidden="true" set:html={door.score} />
-            ) : (
-              <span class="fan" aria-hidden="true">
-                {door.art.map((src) => <img src={src} alt="" loading="lazy" decoding="async" />)}
-                {door.covers.map((c) => <span class="fan-cover"><Cover cover={c.cover} id={c.id} title={c.title} locale={locale} /></span>)}
-              </span>
-            )}
+            <span class="fan" aria-hidden="true">
+              {door.art.map((src) => <img src={src} alt="" loading="lazy" decoding="async" />)}
+              {door.covers.map((c) => <span class="fan-cover"><Cover cover={c.cover} id={c.id} title={c.title} locale={locale} /></span>)}
+              {door.leaves?.map((svg) => <span class="fan-leaf" set:html={svg} />)}
+            </span>
           </a>
         ))}
       </div>
@@ -196,14 +194,25 @@ const description = pt
     height: auto;
     box-shadow: none;
   }
-  .incipit {
+  /* A leaf is parchment and ink in either theme, as a painting keeps its colours. */
+  .fan-leaf {
     position: absolute;
-    right: 16px;
-    top: 0;
-    width: 150px;
-    height: 100%;
-    display: flex;
-    align-items: center;
+    width: 74px;
+    height: 96px;
+    padding: 2px 0 0 6px;
+    overflow: hidden;
+    border-radius: 8px;
+    background: #efe4cb;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+  }
+  /* Set wider than the leaf and cut by its edge. */
+  .fan-leaf :global(svg.score) {
+    width: 132px;
+    max-width: none;
+    color: #2b2118;
+  }
+  .fan-leaf :global(svg.score .rubric) {
+    fill: #8c1d2b;
   }
   .fan > :nth-child(1) { left: 6px; top: 30px; transform: rotate(-9deg); }
   .fan > :nth-child(2) { left: 46px; top: 20px; transform: rotate(-1deg); }

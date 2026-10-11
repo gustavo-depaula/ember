@@ -28,6 +28,7 @@ export function ScoreView({
   scale,
   label,
   lines,
+  palette,
 }: {
   score: string
   width: number
@@ -35,6 +36,8 @@ export function ScoreView({
   label: string
   /** Show only the opening lines — an incipit, where the score is ornament. */
   lines?: number
+  /** Colours for a score drawn on its own ground rather than the theme's page. */
+  palette?: { ink: string; rubric: string }
 }) {
   const theme = useTheme()
   const { layout, ink } = useMemo(() => {
@@ -43,8 +46,8 @@ export function ScoreView({
     return { layout: laidOut, ink: inkPaths(laidOut) }
   }, [score, width, scale, lines])
   const visible = useProgressiveCount(layout.lines.length, layout, 6, 8)
-  const inkColor = theme.color.val
-  const rubricColor = theme.colorBurgundy.val
+  const inkColor = palette?.ink ?? theme.color.val
+  const rubricColor = palette?.rubric ?? theme.colorBurgundy.val
 
   return (
     <YStack accessible accessibilityRole="image" accessibilityLabel={label}>
