@@ -1,11 +1,13 @@
 import { randomBytes } from 'node:crypto'
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import os from 'node:os'
+import path from 'node:path'
 import react from '@vitejs/plugin-react'
 import { createServer, type Plugin } from 'vite'
 import { deskApi } from './api'
 import { createD1 } from './d1'
 import { createDesk } from './desk'
-import { appRoot } from './paths'
+import { appRoot, dataDir } from './paths'
 
 // `pnpm moderation` — the Mass-times moderation desk, on this machine only. It reads and writes the
 // production D1 through your wrangler login; pass --local to work on the `wrangler dev` database,
@@ -17,8 +19,9 @@ const port = Number(process.env.PORT ?? 4210)
 const desk = createDesk(createD1(target))
 
 // The desk writes to the database with no login of its own, which is fine while only this machine
-// can reach it. On the network every request from another device has to carry a key made for this
-// run: it arrives once in the link printed below and stays in a cookie.
+// can reach it. On the network every request from another device has to carry the desk's key: it
+// arrives once in the link printed below and stays in a cookie. The key is made on first use and
+// kept in .data, so a restart doesn't strand a phone that already has the link.
 function lanGate(key: string): Plugin {
   return {
     name: 'ember-desk-lan-gate',
@@ -44,7 +47,12 @@ function lanGate(key: string): Plugin {
   }
 }
 
-const key = randomBytes(12).toString('base64url')
+const keyFile = path.join(dataDir, 'lan-key')
+if (lan && !existsSync(keyFile)) {
+  mkdirSync(dataDir, { recursive: true })
+  writeFileSync(keyFile, randomBytes(12).toString('base64url'), { mode: 0o600 })
+}
+const key = lan ? readFileSync(keyFile, 'utf8').trim() : ''
 const server = await createServer({
   root: appRoot,
   configFile: false,

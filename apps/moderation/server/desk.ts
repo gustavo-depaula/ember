@@ -1,5 +1,5 @@
 import { existsSync } from 'node:fs'
-import { mkdir, readdir, writeFile } from 'node:fs/promises'
+import { mkdir, readdir, rm, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { proposalJsonSchema, proposalSchema, type Resolution } from '@ember/api/src/moderation'
 import { type Church, church as churchTable } from '@ember/api/src/schema'
@@ -137,22 +137,23 @@ export function createDesk(d1: D1) {
     const dir = caseDir(churchId)
     const stem = `photo-${safeName(key)}.`
     const cached = existsSync(dir) ? (await readdir(dir)).find((name) => name.startsWith(stem)) : ''
-    if (cached) {
-      const type = imageTypes[cached.slice(stem.length)] ?? 'application/octet-stream'
-      return { file: path.join(dir, cached), contentType: type }
+    const extension = cached ? cached.slice(stem.length) : ''
+    if (cached && imageTypes[extension]) {
+      return { file: path.join(dir, cached), contentType: imageTypes[extension] }
     }
+    // A copy cached under a name that says nothing of its format is fetched again and renamed.
+    if (cached) await rm(path.join(dir, cached))
 
     const [[row]] = await d1.query(
       `SELECT content_type, data FROM attachment WHERE id = ${lit(key)} AND church_id = ${lit(churchId)}`,
     )
     if (!row) return undefined
-    const contentType = row.content_type as string
-    const extension =
-      Object.keys(imageTypes).find((ext) => imageTypes[ext] === contentType) ?? 'bin'
-    const file = path.join(dir, `${stem}${extension}`)
+    const bytes = Buffer.from(row.data as string, 'base64')
+    const format = imageFormat(bytes)
+    const file = path.join(dir, `${stem}${format ?? 'bin'}`)
     await mkdir(dir, { recursive: true })
-    await writeFile(file, Buffer.from(row.data as string, 'base64'))
-    return { file, contentType }
+    await writeFile(file, bytes)
+    return { file, contentType: format ? imageTypes[format] : (row.content_type as string) }
   }
 
   function setRun(churchId: string, run: Run | undefined) {
@@ -350,6 +351,19 @@ export function createDesk(d1: D1) {
     markShared,
     subscribe,
   }
+}
+
+// What an attachment is, read from its first bytes. The stored content type can't be trusted for
+// this: the app uploads photos as application/octet-stream, and Claude's reader goes by the file
+// extension and refuses one it doesn't know as binary.
+function imageFormat(bytes: Buffer): string | undefined {
+  const starts = (signature: number[], at = 0) =>
+    signature.every((byte, index) => bytes[at + index] === byte)
+  if (starts([0xff, 0xd8, 0xff])) return 'jpg'
+  if (starts([0x89, 0x50, 0x4e, 0x47])) return 'png'
+  if (starts([0x47, 0x49, 0x46, 0x38])) return 'gif'
+  if (starts([0x52, 0x49, 0x46, 0x46]) && starts([0x57, 0x45, 0x42, 0x50], 8)) return 'webp'
+  return undefined
 }
 
 // A correction's payload is the JSON the app sent, minus its routing fields.
