@@ -1,6 +1,7 @@
 import type { Church } from '@ember/api/src/schema'
-import type { ReactNode } from 'react'
+import { type ReactNode, useState } from 'react'
 import type { Case } from '../server/types'
+import { useSearch } from './api'
 import {
   changedFields,
   type Draft,
@@ -163,6 +164,8 @@ export function ProposalDiff({
   draft: Draft
   setDraft: (draft: Draft) => void
 }) {
+  const search = useSearch()
+  const [query, setQuery] = useState('')
   const names = new Map(item.others.map((other) => [other.church.id, other.church.name]))
   if (item.church) names.set(item.church.id, item.church.name)
   const nameOf = (id: string) => names.get(id) ?? id
@@ -284,6 +287,30 @@ export function ProposalDiff({
                 </option>
               ))}
             </select>
+            <form
+              className="search"
+              onSubmit={(event) => {
+                event.preventDefault()
+                search.mutate({ churchId: item.churchId, query })
+              }}
+            >
+              <input
+                value={query}
+                placeholder="Find a church further away by name"
+                onChange={(event) => setQuery(event.target.value)}
+              />
+              <button type="submit" disabled={!query.trim() || search.isPending}>
+                {search.isPending ? 'Searching…' : 'Search'}
+              </button>
+            </form>
+            {search.error ? <p className="error">{search.error.message}</p> : null}
+            {search.data ? (
+              <p className="muted">
+                {search.data.matches.length
+                  ? `${search.data.matches.length} found; pick one from the list above.`
+                  : 'No church by that name.'}
+              </p>
+            ) : null}
             <button
               type="button"
               onClick={() =>

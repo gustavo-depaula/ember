@@ -2,6 +2,7 @@ import type { Church } from '@ember/api'
 import { church, churchCell, verificationEvent } from '@ember/api'
 import { and, asc, count, desc, eq, getTableColumns, gt, inArray, type SQL, sql } from 'drizzle-orm'
 import type { Db } from '../../db'
+import { toPrefixMatchQuery } from '../../lib/fts'
 import { type Bbox, prefixRanges } from '../../lib/geo'
 
 // Geo prefilter: OR of half-open geohash prefix ranges. Built with the query builder (so rows map
@@ -217,14 +218,6 @@ export function verificationsForChurch(
     .orderBy(desc(verificationEvent.createdAt))
     .limit(page.limit)
     .offset(page.offset)
-}
-
-// User text → a safe FTS5 prefix query. Each alphanumeric token (Unicode-aware, so accented names
-// work) becomes a quoted prefix term, e.g. `Sagra Fam` → `"sagra"* "fam"*` — enabling search-as-you-
-// type while neutralizing FTS operator characters the user might type.
-export function toPrefixMatchQuery(raw: string): string {
-  const tokens = raw.match(/[\p{L}\p{N}]+/gu) ?? []
-  return tokens.map((token) => `"${token}"*`).join(' ')
 }
 
 // FTS5 name search → church ids; the caller hydrates full rows. The virtual table isn't in the

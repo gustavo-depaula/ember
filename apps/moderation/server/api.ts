@@ -63,6 +63,13 @@ export function deskApi(desk: DeskApi): Plugin {
     ],
     [
       'POST',
+      /^\/cases\/([^/]+)\/search$/,
+      async ({ params: [churchId], body }) => ({
+        matches: await desk.search(churchId, String((body as { query?: string }).query ?? '')),
+      }),
+    ],
+    [
+      'POST',
       /^\/review-all$/,
       () => {
         desk.reviewAll()

@@ -1,7 +1,7 @@
 import type { Resolution } from '@ember/api/src/moderation'
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { useEffect } from 'react'
-import type { Desk, DeskEvent } from '../server/types'
+import type { Desk, DeskEvent, OtherChurch } from '../server/types'
 
 const deskKey = ['desk']
 
@@ -88,6 +88,14 @@ export function useReview() {
   return useMutation({
     mutationFn: ({ churchId, instruction }: { churchId: string; instruction?: string }) =>
       call(`/cases/${encodeURIComponent(churchId)}/review`, { instruction }),
+  })
+}
+
+// What the search finds joins the case on the server, and arrives here with the next desk event.
+export function useSearch() {
+  return useMutation({
+    mutationFn: ({ churchId, query }: { churchId: string; query: string }) =>
+      call<{ matches: OtherChurch[] }>(`/cases/${encodeURIComponent(churchId)}/search`, { query }),
   })
 }
 

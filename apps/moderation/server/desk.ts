@@ -3,6 +3,7 @@ import { mkdir, readdir, rm, writeFile } from 'node:fs/promises'
 import path from 'node:path'
 import { proposalJsonSchema, proposalSchema, type Resolution } from '@ember/api/src/moderation'
 import { type Church, church as churchTable } from '@ember/api/src/schema'
+import { toPrefixMatchQuery } from '@ember/backend/src/lib/fts'
 import {
   boundingBox,
   coveringPrefixes,
@@ -13,7 +14,7 @@ import { slugify } from '@ember/backend/src/lib/import'
 import { planResolution, restoreToSql } from '@ember/backend/src/lib/moderation'
 import { runClaude } from './claude'
 import { type D1, fromRow, lit, type Row } from './d1'
-import { safeName } from './paths'
+import { appRoot, safeName } from './paths'
 import { caseFile, refinePrompt, reviewPrompt } from './prompt'
 import { caseDir, clearCase, readHistory, readReview, writeHistory, writeReview } from './store'
 import type {
@@ -22,6 +23,7 @@ import type {
   DeskEvent,
   HistoryEntry,
   OtherChurch,
+  Review,
   Run,
   StoredHistoryEntry,
   Suggestion,
@@ -35,6 +37,7 @@ const concurrentReviews = 3
 // How far from a church the desk looks for chapels its parish may be answerable for.
 const nearbyKm = 2.5
 const nearbyLimit = 20
+const searchLimit = 12
 const imageTypes: Record<string, string> = {
   jpg: 'image/jpeg',
   png: 'image/png',
@@ -44,7 +47,8 @@ const imageTypes: Record<string, string> = {
 
 export type DeskApi = ReturnType<typeof createDesk>
 
-export function createDesk(d1: D1) {
+// `url` is where this desk answers on this machine, for the tools it hands a review.
+export function createDesk(d1: D1, url: string) {
   let cases: Case[] = []
   let history: HistoryEntry[] = []
   let log: StoredHistoryEntry[] = []
@@ -115,7 +119,12 @@ export function createDesk(d1: D1) {
       byChurch.set(churchId, suggestions)
     }
 
-    const others = await loadOthers([...churchById.values()]).catch((error: Error) => {
+    const reviews = new Map(
+      await Promise.all(
+        [...byChurch.keys()].map(async (id) => [id, await readReview(id)] as const),
+      ),
+    )
+    const others = await loadOthers([...churchById.values()], reviews).catch((error: Error) => {
       // The parish column arrives with migration 0005; a database without it can't be moderated.
       if (!error.message.includes('parish_id')) throw error
       throw new Error(
@@ -124,30 +133,41 @@ export function createDesk(d1: D1) {
     })
 
     // Oldest suggestion first: `corrections` is in arrival order, and so is the map built from it.
-    cases = await Promise.all(
-      [...byChurch].map(async ([churchId, suggestions]) => ({
-        churchId,
-        church: churchById.get(churchId),
-        others: others.get(churchId) ?? [],
-        suggestions,
-        verifications: verified.get(churchId) ?? 0,
-        review: await readReview(churchId),
-      })),
-    )
+    cases = [...byChurch].map(([churchId, suggestions]) => ({
+      churchId,
+      church: churchById.get(churchId),
+      others: others.get(churchId) ?? [],
+      suggestions,
+      verifications: verified.get(churchId) ?? 0,
+      review: reviews.get(churchId),
+    }))
     await loadHistory()
     loadedAt = new Date().toISOString()
     emitDesk()
     return snapshot()
   }
 
-  // For each church with suggestions waiting: the rest of its parish, wherever they stand, and
-  // the churches around it.
-  async function loadOthers(churches: Church[]): Promise<Map<string, OtherChurch[]>> {
+  // For each church with suggestions waiting: the rest of its parish, wherever they stand, the
+  // churches around it, and any church further off that its saved review names (found by search).
+  async function loadOthers(
+    churches: Church[],
+    reviews: Map<string, Review | undefined>,
+  ): Promise<Map<string, OtherChurch[]>> {
     if (churches.length === 0) return new Map()
     const parishOf = (c: Church) => c.parishId ?? c.id
     const parishes = [...new Set(churches.map(parishOf))].map(lit).join(', ')
-    const [kin, ...around] = await d1.query(
+    const namedBy = (c: Church) => {
+      const proposal = reviews.get(c.id)?.proposal
+      const related = proposal?.related ?? []
+      return [
+        proposal?.fields.parishId,
+        ...related.flatMap((r) => [r.churchId, r.fields.parishId]),
+      ].filter((id): id is string => Boolean(id))
+    }
+    const named = churches.flatMap(namedBy).map(lit).join(', ') || "''"
+    const [kin, found, ...around] = await d1.query(
       `SELECT * FROM church WHERE parish_id IN (${parishes}) OR id IN (${parishes})`,
+      `SELECT * FROM church WHERE id IN (${named})`,
       ...churches.map((c) => {
         const cells = coveringPrefixes(boundingBox(c.lat, c.lng, nearbyKm), 5)
         const ranges = prefixRanges(cells).map(
@@ -157,25 +177,54 @@ export function createDesk(d1: D1) {
       }),
     )
     const kinRows = kin.map((row) => fromRow(churchTable, row))
+    const foundRows = found.map((row) => fromRow(churchTable, row))
 
     return new Map(
       churches.map((c, index) => {
-        const distance = (other: Church) => haversineKm(c.lat, c.lng, other.lat, other.lng)
         const family = kinRows.filter((k) => k.id !== c.id && parishOf(k) === parishOf(c))
         const nearby = around[index]
           .map((row) => fromRow(churchTable, row))
-          .filter((n) => n.id !== c.id && !family.some((k) => k.id === n.id))
-          .filter((n) => distance(n) <= nearbyKm)
-          .sort((a, b) => distance(a) - distance(b))
+          .filter((n) => distanceKm(c, n) <= nearbyKm)
+          .sort((a, b) => distanceKm(c, a) - distanceKm(c, b))
           .slice(0, nearbyLimit)
-        const entry = (sameParish: boolean) => (church: Church) => ({
-          church,
-          distanceKm: Math.round(distance(church) * 100) / 100,
-          sameParish,
-        })
-        return [c.id, [...family.map(entry(true)), ...nearby.map(entry(false))]]
+        const further = foundRows.filter((f) => namedBy(c).includes(f.id))
+        const rest = [...nearby, ...further].filter(
+          (n, i, all) =>
+            n.id !== c.id &&
+            !family.some((k) => k.id === n.id) &&
+            all.findIndex((other) => other.id === n.id) === i,
+        )
+        return [c.id, [...family.map(asOther(c, true)), ...rest.map(asOther(c, false))]]
       }),
     )
+  }
+
+  // Name search over the whole directory, nearest the case's church first. What it finds joins the
+  // case, so it can be diffed and changed like a neighbour.
+  async function search(churchId: string, query: string): Promise<OtherChurch[]> {
+    const item = find(churchId)
+    const match = toPrefixMatchQuery(query)
+    if (!item.church || !match) return []
+    const { lat, lng } = item.church
+    const k = Math.cos((lat * Math.PI) / 180) ** 2
+    // The equirectangular square, as the public search ranks: D1 may lack SQLite's math functions.
+    const [rows] = await d1.query(
+      `SELECT c.* FROM church c JOIN church_fts ON church_fts.rowid = c.rowid
+       WHERE church_fts MATCH ${lit(match)} AND c.id != ${lit(churchId)}
+       ORDER BY ((c.lat - ${lat}) * (c.lat - ${lat}) + (c.lng - ${lng}) * (c.lng - ${lng}) * ${k}), rank
+       LIMIT ${searchLimit}`,
+    )
+    const matches = rows.map((row) => {
+      const church = fromRow(churchTable, row)
+      const known = item.others.find((other) => other.church.id === church.id)
+      return known ?? asOther(item.church as Church, false)(church)
+    })
+    const fresh = matches.filter((match) => !item.others.includes(match))
+    if (fresh.length) {
+      item.others = [...item.others, ...fresh]
+      emitDesk()
+    }
+    return matches
   }
 
   async function loadHistory() {
@@ -284,6 +333,13 @@ export function createDesk(d1: D1) {
         prompt,
         schema: proposalJsonSchema(),
         resume: prior?.sessionId,
+        mcp: {
+          directory: {
+            command: 'node',
+            args: [path.join(appRoot, 'server/directory-mcp.mjs')],
+            env: { DESK_URL: url, CHURCH_ID: churchId },
+          },
+        },
         signal: abort.signal,
         onActivity: (line) => {
           run.activity.push(line)
@@ -443,6 +499,7 @@ export function createDesk(d1: D1) {
     snapshot,
     isLoaded: () => loadedAt !== undefined,
     photo,
+    search,
     review,
     reviewAll,
     stop,
@@ -464,6 +521,18 @@ function imageFormat(bytes: Buffer): string | undefined {
   if (starts([0x47, 0x49, 0x46, 0x38])) return 'gif'
   if (starts([0x52, 0x49, 0x46, 0x46]) && starts([0x57, 0x45, 0x42, 0x50], 8)) return 'webp'
   return undefined
+}
+
+function distanceKm(from: Church, to: Church): number {
+  return haversineKm(from.lat, from.lng, to.lat, to.lng)
+}
+
+function asOther(from: Church, sameParish: boolean) {
+  return (church: Church): OtherChurch => ({
+    church,
+    distanceKm: Math.round(distanceKm(from, church) * 100) / 100,
+    sameParish,
+  })
 }
 
 // A correction's payload is the JSON the app sent, minus its routing fields.

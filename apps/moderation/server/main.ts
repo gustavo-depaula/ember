@@ -18,7 +18,7 @@ const target = process.argv.includes('--local') ? 'local' : 'remote'
 const lan = process.argv.includes('--lan')
 const port = Number(process.env.PORT ?? 4210)
 openStore(target)
-const desk = createDesk(createD1(target))
+const desk = createDesk(createD1(target), `http://127.0.0.1:${port}`)
 
 // The desk writes to the database with no login of its own, which is fine while only this machine
 // can reach it. On the network every request from another device has to carry the desk's key: it

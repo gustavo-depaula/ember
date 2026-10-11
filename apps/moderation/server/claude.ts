@@ -4,10 +4,12 @@ import { createInterface } from 'node:readline'
 
 // One headless Claude Code run (`claude -p`) held to a JSON schema.
 //
-// What it reads was written by anonymous strangers, so it runs boxed in: --restricted confines the
-// file tools to the case folder and drops every tool that runs code, --safe-mode keeps this repo's
-// CLAUDE.md, skills and hooks out of it, and the only tools left are the three that look things up.
-// Whatever it concludes is a draft a person approves.
+// What it reads was written by anonymous strangers, so it runs boxed in. --restricted confines the
+// file tools to the case folder, drops every tool that runs code and ignores this machine's and
+// this repo's settings (it loads no CLAUDE.md either); skills are switched off; and the only tools
+// left are the three that look things up, plus the MCP servers the caller hands it by name.
+// --safe-mode would be the simpler box, but it discards those MCP servers too.
+// Whatever the run concludes is a draft a person approves.
 
 const tools = 'Read,WebFetch,WebSearch'
 
@@ -29,6 +31,7 @@ export function runClaude({
   prompt,
   schema,
   resume,
+  mcp = {},
   signal,
   onActivity,
 }: {
@@ -36,6 +39,8 @@ export function runClaude({
   prompt: string
   schema: unknown
   resume?: string
+  // MCP servers for this run, by name; every tool of each is allowed.
+  mcp?: Record<string, { command: string; args: string[]; env: Record<string, string> }>
   signal: AbortSignal
   onActivity: (line: string) => void
 }): Promise<ClaudeResult> {
@@ -47,12 +52,14 @@ export function runClaude({
     'stream-json',
     '--verbose',
     '--restricted',
-    '--safe-mode',
+    '--disable-slash-commands',
     '--strict-mcp-config',
     '--permission-mode',
     'dontAsk',
     `--tools=${tools}`,
-    `--allowedTools=${tools}`,
+    `--allowedTools=${[tools, ...Object.keys(mcp).map((name) => `mcp__${name}`)].join(',')}`,
+    '--mcp-config',
+    JSON.stringify({ mcpServers: mcp }),
     '--json-schema',
     JSON.stringify(schema),
     ...(resume ? ['--resume', resume] : []),
@@ -123,6 +130,7 @@ function describe(event: StreamEvent): string[] {
     if (block.name === 'WebFetch') return [`Opening ${input.url}`]
     if (block.name === 'WebSearch') return [`Searching “${input.query}”`]
     if (block.name === 'StructuredOutput') return ['Writing up the proposal']
+    if (block.name?.startsWith('mcp__')) return [`Searching the directory for “${input.query}”`]
     return []
   })
 }

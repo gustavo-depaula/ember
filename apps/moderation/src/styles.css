@@ -785,9 +785,18 @@ label.changed select {
   gap: 8px;
 }
 
-.add-church select {
-  flex: 1;
-  min-width: 200px;
+.add-church select,
+.add-church .search {
+  flex: 1 1 100%;
+}
+
+.add-church .search {
+  display: flex;
+  gap: 8px;
+}
+
+.add-church p {
+  flex-basis: 100%;
 }
 
 .tabs {
