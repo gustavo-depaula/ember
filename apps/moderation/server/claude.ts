@@ -60,7 +60,11 @@ export function runClaude({
   ]
 
   return new Promise((resolve, reject) => {
-    const child = spawn('claude', args, { cwd, signal, stdio: ['ignore', 'pipe', 'pipe'] })
+    // The run reads strangers' text; it gets none of the Cloudflare credentials the desk may hold.
+    const env = Object.fromEntries(
+      Object.entries(process.env).filter(([name]) => !/^(CLOUDFLARE|R2)_/.test(name)),
+    )
+    const child = spawn('claude', args, { cwd, env, signal, stdio: ['ignore', 'pipe', 'pipe'] })
     let result: StreamEvent | undefined
     let stderr = ''
     child.stderr.on('data', (chunk: Buffer) => {
