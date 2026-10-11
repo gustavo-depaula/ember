@@ -2,13 +2,16 @@
   "id": "athanasius-deposition-of-arius",
   "cover": "quarter",
   "name": {
-    "en-US": "Deposition of Arius"
+    "en-US": "Deposition of Arius",
+    "pt-BR": "Deposição de Ário"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Deposition of Arius"
+        "en-US": "Deposition of Arius",
+        "pt-BR": "Deposição de Ário"
       }
     }
   ]
