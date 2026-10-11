@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Catena Aurea on Mark",
-    "la": "Catena Aurea in Evangelium secundum Marcum"
+    "la": "Catena Aurea in Evangelium secundum Marcum",
+    "pt-BR": "Catena Aurea sobre o Evangelho de Marcos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's continuous patristic gloss on the Gospel of Mark. First of the Mark/Luke/John volumes dedicated to Cardinal Annibaldi after Pope Urban IV's death.",
-    "la": "Glossa continua patristica super Evangelium secundum Marcum. Primum voluminum Marci/Lucae/Iohannis Cardinali Hannibaldo post obitum Urbani IV dedicatorum."
+    "la": "Glossa continua patristica super Evangelium secundum Marcum. Primum voluminum Marci/Lucae/Iohannis Cardinali Hannibaldo post obitum Urbani IV dedicatorum.",
+    "pt-BR": "Glosa patrística contínua de Santo Tomás sobre o Evangelho de Marcos. Primeiro dos volumes de Marcos, Lucas e João, dedicados ao cardeal Aníbal depois da morte do papa Urbano IV."
   },
   "composed": "c. 1264",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,112 +39,128 @@
       "id": "dedication",
       "title": {
         "en-US": "Dedication",
-        "la": "Dedicatio"
+        "la": "Dedicatio",
+        "pt-BR": "Dedicatória"
       }
     },
     {
       "id": "prologue",
       "title": {
         "en-US": "Prologue",
-        "la": "Prooemium"
+        "la": "Prooemium",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "ch01",
       "title": {
         "en-US": "Chapter 1",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1"
       },
       "children": [
         {
           "id": "ch01-l01",
           "title": {
             "en-US": "Chapter 1 · Lecture 1",
-            "la": "Caput 1 · Lectio 1"
+            "la": "Caput 1 · Lectio 1",
+            "pt-BR": "Capítulo 1 · Lição 1"
           }
         },
         {
           "id": "ch01-l02",
           "title": {
             "en-US": "Chapter 1 · Lecture 2",
-            "la": "Caput 1 · Lectio 2"
+            "la": "Caput 1 · Lectio 2",
+            "pt-BR": "Capítulo 1 · Lição 2"
           }
         },
         {
           "id": "ch01-l03",
           "title": {
             "en-US": "Chapter 1 · Lecture 3",
-            "la": "Caput 1 · Lectio 3"
+            "la": "Caput 1 · Lectio 3",
+            "pt-BR": "Capítulo 1 · Lição 3"
           }
         },
         {
           "id": "ch01-l04",
           "title": {
             "en-US": "Chapter 1 · Lecture 4",
-            "la": "Caput 1 · Lectio 4"
+            "la": "Caput 1 · Lectio 4",
+            "pt-BR": "Capítulo 1 · Lição 4"
           }
         },
         {
           "id": "ch01-l05",
           "title": {
             "en-US": "Chapter 1 · Lecture 5",
-            "la": "Caput 1 · Lectio 5"
+            "la": "Caput 1 · Lectio 5",
+            "pt-BR": "Capítulo 1 · Lição 5"
           }
         },
         {
           "id": "ch01-l06",
           "title": {
             "en-US": "Chapter 1 · Lecture 6",
-            "la": "Caput 1 · Lectio 6"
+            "la": "Caput 1 · Lectio 6",
+            "pt-BR": "Capítulo 1 · Lição 6"
           }
         },
         {
           "id": "ch01-l07",
           "title": {
             "en-US": "Chapter 1 · Lecture 7",
-            "la": "Caput 1 · Lectio 7"
+            "la": "Caput 1 · Lectio 7",
+            "pt-BR": "Capítulo 1 · Lição 7"
           }
         },
         {
           "id": "ch01-l08",
           "title": {
             "en-US": "Chapter 1 · Lecture 8",
-            "la": "Caput 1 · Lectio 8"
+            "la": "Caput 1 · Lectio 8",
+            "pt-BR": "Capítulo 1 · Lição 8"
           }
         },
         {
           "id": "ch01-l09",
           "title": {
             "en-US": "Chapter 1 · Lecture 9",
-            "la": "Caput 1 · Lectio 9"
+            "la": "Caput 1 · Lectio 9",
+            "pt-BR": "Capítulo 1 · Lição 9"
           }
         },
         {
           "id": "ch01-l10",
           "title": {
             "en-US": "Chapter 1 · Lecture 10",
-            "la": "Caput 1 · Lectio 10"
+            "la": "Caput 1 · Lectio 10",
+            "pt-BR": "Capítulo 1 · Lição 10"
           }
         },
         {
           "id": "ch01-l11",
           "title": {
             "en-US": "Chapter 1 · Lecture 11",
-            "la": "Caput 1 · Lectio 11"
+            "la": "Caput 1 · Lectio 11",
+            "pt-BR": "Capítulo 1 · Lição 11"
           }
         },
         {
           "id": "ch01-l12",
           "title": {
             "en-US": "Chapter 1 · Lecture 12",
-            "la": "Caput 1 · Lectio 12"
+            "la": "Caput 1 · Lectio 12",
+            "pt-BR": "Capítulo 1 · Lição 12"
           }
         },
         {
           "id": "ch01-l13",
           "title": {
             "en-US": "Chapter 1 · Lecture 13",
-            "la": "Caput 1 · Lectio 13"
+            "la": "Caput 1 · Lectio 13",
+            "pt-BR": "Capítulo 1 · Lição 13"
           }
         }
       ]
@@ -149,35 +169,40 @@
       "id": "ch02",
       "title": {
         "en-US": "Chapter 2",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2"
       },
       "children": [
         {
           "id": "ch02-l01",
           "title": {
             "en-US": "Chapter 2 · Lecture 1",
-            "la": "Caput 2 · Lectio 1"
+            "la": "Caput 2 · Lectio 1",
+            "pt-BR": "Capítulo 2 · Lição 1"
           }
         },
         {
           "id": "ch02-l02",
           "title": {
             "en-US": "Chapter 2 · Lecture 2",
-            "la": "Caput 2 · Lectio 2"
+            "la": "Caput 2 · Lectio 2",
+            "pt-BR": "Capítulo 2 · Lição 2"
           }
         },
         {
           "id": "ch02-l03",
           "title": {
             "en-US": "Chapter 2 · Lecture 3",
-            "la": "Caput 2 · Lectio 3"
+            "la": "Caput 2 · Lectio 3",
+            "pt-BR": "Capítulo 2 · Lição 3"
           }
         },
         {
           "id": "ch02-l04",
           "title": {
             "en-US": "Chapter 2 · Lecture 4",
-            "la": "Caput 2 · Lectio 4"
+            "la": "Caput 2 · Lectio 4",
+            "pt-BR": "Capítulo 2 · Lição 4"
           }
         }
       ]
@@ -186,49 +211,56 @@
       "id": "ch03",
       "title": {
         "en-US": "Chapter 3",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3"
       },
       "children": [
         {
           "id": "ch03-l01",
           "title": {
             "en-US": "Chapter 3 · Lecture 1",
-            "la": "Caput 3 · Lectio 1"
+            "la": "Caput 3 · Lectio 1",
+            "pt-BR": "Capítulo 3 · Lição 1"
           }
         },
         {
           "id": "ch03-l02",
           "title": {
             "en-US": "Chapter 3 · Lecture 2",
-            "la": "Caput 3 · Lectio 2"
+            "la": "Caput 3 · Lectio 2",
+            "pt-BR": "Capítulo 3 · Lição 2"
           }
         },
         {
           "id": "ch03-l03",
           "title": {
             "en-US": "Chapter 3 · Lecture 3",
-            "la": "Caput 3 · Lectio 3"
+            "la": "Caput 3 · Lectio 3",
+            "pt-BR": "Capítulo 3 · Lição 3"
           }
         },
         {
           "id": "ch03-l04",
           "title": {
             "en-US": "Chapter 3 · Lecture 4",
-            "la": "Caput 3 · Lectio 4"
+            "la": "Caput 3 · Lectio 4",
+            "pt-BR": "Capítulo 3 · Lição 4"
           }
         },
         {
           "id": "ch03-l05",
           "title": {
             "en-US": "Chapter 3 · Lecture 5",
-            "la": "Caput 3 · Lectio 5"
+            "la": "Caput 3 · Lectio 5",
+            "pt-BR": "Capítulo 3 · Lição 5"
           }
         },
         {
           "id": "ch03-l06",
           "title": {
             "en-US": "Chapter 3 · Lecture 6",
-            "la": "Caput 3 · Lectio 6"
+            "la": "Caput 3 · Lectio 6",
+            "pt-BR": "Capítulo 3 · Lição 6"
           }
         }
       ]
@@ -237,42 +269,48 @@
       "id": "ch04",
       "title": {
         "en-US": "Chapter 4",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4"
       },
       "children": [
         {
           "id": "ch04-l01",
           "title": {
             "en-US": "Chapter 4 · Lecture 1",
-            "la": "Caput 4 · Lectio 1"
+            "la": "Caput 4 · Lectio 1",
+            "pt-BR": "Capítulo 4 · Lição 1"
           }
         },
         {
           "id": "ch04-l02",
           "title": {
             "en-US": "Chapter 4 · Lecture 2",
-            "la": "Caput 4 · Lectio 2"
+            "la": "Caput 4 · Lectio 2",
+            "pt-BR": "Capítulo 4 · Lição 2"
           }
         },
         {
           "id": "ch04-l03",
           "title": {
             "en-US": "Chapter 4 · Lecture 3",
-            "la": "Caput 4 · Lectio 3"
+            "la": "Caput 4 · Lectio 3",
+            "pt-BR": "Capítulo 4 · Lição 3"
           }
         },
         {
           "id": "ch04-l04",
           "title": {
             "en-US": "Chapter 4 · Lecture 4",
-            "la": "Caput 4 · Lectio 4"
+            "la": "Caput 4 · Lectio 4",
+            "pt-BR": "Capítulo 4 · Lição 4"
           }
         },
         {
           "id": "ch04-l05",
           "title": {
             "en-US": "Chapter 4 · Lecture 5",
-            "la": "Caput 4 · Lectio 5"
+            "la": "Caput 4 · Lectio 5",
+            "pt-BR": "Capítulo 4 · Lição 5"
           }
         }
       ]
@@ -281,28 +319,32 @@
       "id": "ch05",
       "title": {
         "en-US": "Chapter 5",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5"
       },
       "children": [
         {
           "id": "ch05-l01",
           "title": {
             "en-US": "Chapter 5 · Lecture 1",
-            "la": "Caput 5 · Lectio 1"
+            "la": "Caput 5 · Lectio 1",
+            "pt-BR": "Capítulo 5 · Lição 1"
           }
         },
         {
           "id": "ch05-l02",
           "title": {
             "en-US": "Chapter 5 · Lecture 2",
-            "la": "Caput 5 · Lectio 2"
+            "la": "Caput 5 · Lectio 2",
+            "pt-BR": "Capítulo 5 · Lição 2"
           }
         },
         {
           "id": "ch05-l03",
           "title": {
             "en-US": "Chapter 5 · Lecture 3",
-            "la": "Caput 5 · Lectio 3"
+            "la": "Caput 5 · Lectio 3",
+            "pt-BR": "Capítulo 5 · Lição 3"
           }
         }
       ]
@@ -311,63 +353,72 @@
       "id": "ch06",
       "title": {
         "en-US": "Chapter 6",
-        "la": "Caput 6"
+        "la": "Caput 6",
+        "pt-BR": "Capítulo 6"
       },
       "children": [
         {
           "id": "ch06-l01",
           "title": {
             "en-US": "Chapter 6 · Lecture 1",
-            "la": "Caput 6 · Lectio 1"
+            "la": "Caput 6 · Lectio 1",
+            "pt-BR": "Capítulo 6 · Lição 1"
           }
         },
         {
           "id": "ch06-l02",
           "title": {
             "en-US": "Chapter 6 · Lecture 2",
-            "la": "Caput 6 · Lectio 2"
+            "la": "Caput 6 · Lectio 2",
+            "pt-BR": "Capítulo 6 · Lição 2"
           }
         },
         {
           "id": "ch06-l03",
           "title": {
             "en-US": "Chapter 6 · Lecture 3",
-            "la": "Caput 6 · Lectio 3"
+            "la": "Caput 6 · Lectio 3",
+            "pt-BR": "Capítulo 6 · Lição 3"
           }
         },
         {
           "id": "ch06-l04",
           "title": {
             "en-US": "Chapter 6 · Lecture 4",
-            "la": "Caput 6 · Lectio 4"
+            "la": "Caput 6 · Lectio 4",
+            "pt-BR": "Capítulo 6 · Lição 4"
           }
         },
         {
           "id": "ch06-l05",
           "title": {
             "en-US": "Chapter 6 · Lecture 5",
-            "la": "Caput 6 · Lectio 5"
+            "la": "Caput 6 · Lectio 5",
+            "pt-BR": "Capítulo 6 · Lição 5"
           }
         },
         {
           "id": "ch06-l06",
           "title": {
             "en-US": "Chapter 6 · Lecture 6",
-            "la": "Caput 6 · Lectio 6"
+            "la": "Caput 6 · Lectio 6",
+            "pt-BR": "Capítulo 6 · Lição 6"
           }
         },
         {
           "id": "ch06-l07",
           "title": {
             "en-US": "Chapter 6 · Lecture 7",
-            "la": "Caput 6 · Lectio 7"
+            "la": "Caput 6 · Lectio 7",
+            "pt-BR": "Capítulo 6 · Lição 7"
           }
         },
         {
           "id": "ch06-l08",
           "title": {
             "en-US": "Chapter 6 · Lecture 8",
-            "la": "Caput 6 · Lectio 8"
+            "la": "Caput 6 · Lectio 8",
+            "pt-BR": "Capítulo 6 · Lição 8"
           }
         }
       ]
@@ -376,35 +427,40 @@
       "id": "ch07",
       "title": {
         "en-US": "Chapter 7",
-        "la": "Caput 7"
+        "la": "Caput 7",
+        "pt-BR": "Capítulo 7"
       },
       "children": [
         {
           "id": "ch07-l01",
           "title": {
             "en-US": "Chapter 7 · Lecture 1",
-            "la": "Caput 7 · Lectio 1"
+            "la": "Caput 7 · Lectio 1",
+            "pt-BR": "Capítulo 7 · Lição 1"
           }
         },
         {
           "id": "ch07-l02",
           "title": {
             "en-US": "Chapter 7 · Lecture 2",
-            "la": "Caput 7 · Lectio 2"
+            "la": "Caput 7 · Lectio 2",
+            "pt-BR": "Capítulo 7 · Lição 2"
           }
         },
         {
           "id": "ch07-l03",
           "title": {
             "en-US": "Chapter 7 · Lecture 3",
-            "la": "Caput 7 · Lectio 3"
+            "la": "Caput 7 · Lectio 3",
+            "pt-BR": "Capítulo 7 · Lição 3"
           }
         },
         {
           "id": "ch07-l04",
           "title": {
             "en-US": "Chapter 7 · Lecture 4",
-            "la": "Caput 7 · Lectio 4"
+            "la": "Caput 7 · Lectio 4",
+            "pt-BR": "Capítulo 7 · Lição 4"
           }
         }
       ]
@@ -413,42 +469,48 @@
       "id": "ch08",
       "title": {
         "en-US": "Chapter 8",
-        "la": "Caput 8"
+        "la": "Caput 8",
+        "pt-BR": "Capítulo 8"
       },
       "children": [
         {
           "id": "ch08-l01",
           "title": {
             "en-US": "Chapter 8 · Lecture 1",
-            "la": "Caput 8 · Lectio 1"
+            "la": "Caput 8 · Lectio 1",
+            "pt-BR": "Capítulo 8 · Lição 1"
           }
         },
         {
           "id": "ch08-l02",
           "title": {
             "en-US": "Chapter 8 · Lecture 2",
-            "la": "Caput 8 · Lectio 2"
+            "la": "Caput 8 · Lectio 2",
+            "pt-BR": "Capítulo 8 · Lição 2"
           }
         },
         {
           "id": "ch08-l03",
           "title": {
             "en-US": "Chapter 8 · Lecture 3",
-            "la": "Caput 8 · Lectio 3"
+            "la": "Caput 8 · Lectio 3",
+            "pt-BR": "Capítulo 8 · Lição 3"
           }
         },
         {
           "id": "ch08-l04",
           "title": {
             "en-US": "Chapter 8 · Lecture 4",
-            "la": "Caput 8 · Lectio 4"
+            "la": "Caput 8 · Lectio 4",
+            "pt-BR": "Capítulo 8 · Lição 4"
           }
         },
         {
           "id": "ch08-l05",
           "title": {
             "en-US": "Chapter 8 · Lecture 5",
-            "la": "Caput 8 · Lectio 5"
+            "la": "Caput 8 · Lectio 5",
+            "pt-BR": "Capítulo 8 · Lição 5"
           }
         }
       ]
@@ -457,49 +519,56 @@
       "id": "ch09",
       "title": {
         "en-US": "Chapter 9",
-        "la": "Caput 9"
+        "la": "Caput 9",
+        "pt-BR": "Capítulo 9"
       },
       "children": [
         {
           "id": "ch09-l01",
           "title": {
             "en-US": "Chapter 9 · Lecture 1",
-            "la": "Caput 9 · Lectio 1"
+            "la": "Caput 9 · Lectio 1",
+            "pt-BR": "Capítulo 9 · Lição 1"
           }
         },
         {
           "id": "ch09-l02",
           "title": {
             "en-US": "Chapter 9 · Lecture 2",
-            "la": "Caput 9 · Lectio 2"
+            "la": "Caput 9 · Lectio 2",
+            "pt-BR": "Capítulo 9 · Lição 2"
           }
         },
         {
           "id": "ch09-l03",
           "title": {
             "en-US": "Chapter 9 · Lecture 3",
-            "la": "Caput 9 · Lectio 3"
+            "la": "Caput 9 · Lectio 3",
+            "pt-BR": "Capítulo 9 · Lição 3"
           }
         },
         {
           "id": "ch09-l04",
           "title": {
             "en-US": "Chapter 9 · Lecture 4",
-            "la": "Caput 9 · Lectio 4"
+            "la": "Caput 9 · Lectio 4",
+            "pt-BR": "Capítulo 9 · Lição 4"
           }
         },
         {
           "id": "ch09-l05",
           "title": {
             "en-US": "Chapter 9 · Lecture 5",
-            "la": "Caput 9 · Lectio 5"
+            "la": "Caput 9 · Lectio 5",
+            "pt-BR": "Capítulo 9 · Lição 5"
           }
         },
         {
           "id": "ch09-l06",
           "title": {
             "en-US": "Chapter 9 · Lecture 6",
-            "la": "Caput 9 · Lectio 6"
+            "la": "Caput 9 · Lectio 6",
+            "pt-BR": "Capítulo 9 · Lição 6"
           }
         }
       ]
@@ -508,63 +577,72 @@
       "id": "ch10",
       "title": {
         "en-US": "Chapter 10",
-        "la": "Caput 10"
+        "la": "Caput 10",
+        "pt-BR": "Capítulo 10"
       },
       "children": [
         {
           "id": "ch10-l01",
           "title": {
             "en-US": "Chapter 10 · Lecture 1",
-            "la": "Caput 10 · Lectio 1"
+            "la": "Caput 10 · Lectio 1",
+            "pt-BR": "Capítulo 10 · Lição 1"
           }
         },
         {
           "id": "ch10-l02",
           "title": {
             "en-US": "Chapter 10 · Lecture 2",
-            "la": "Caput 10 · Lectio 2"
+            "la": "Caput 10 · Lectio 2",
+            "pt-BR": "Capítulo 10 · Lição 2"
           }
         },
         {
           "id": "ch10-l03",
           "title": {
             "en-US": "Chapter 10 · Lecture 3",
-            "la": "Caput 10 · Lectio 3"
+            "la": "Caput 10 · Lectio 3",
+            "pt-BR": "Capítulo 10 · Lição 3"
           }
         },
         {
           "id": "ch10-l04",
           "title": {
             "en-US": "Chapter 10 · Lecture 4",
-            "la": "Caput 10 · Lectio 4"
+            "la": "Caput 10 · Lectio 4",
+            "pt-BR": "Capítulo 10 · Lição 4"
           }
         },
         {
           "id": "ch10-l05",
           "title": {
             "en-US": "Chapter 10 · Lecture 5",
-            "la": "Caput 10 · Lectio 5"
+            "la": "Caput 10 · Lectio 5",
+            "pt-BR": "Capítulo 10 · Lição 5"
           }
         },
         {
           "id": "ch10-l06",
           "title": {
             "en-US": "Chapter 10 · Lecture 6",
-            "la": "Caput 10 · Lectio 6"
+            "la": "Caput 10 · Lectio 6",
+            "pt-BR": "Capítulo 10 · Lição 6"
           }
         },
         {
           "id": "ch10-l07",
           "title": {
             "en-US": "Chapter 10 · Lecture 7",
-            "la": "Caput 10 · Lectio 7"
+            "la": "Caput 10 · Lectio 7",
+            "pt-BR": "Capítulo 10 · Lição 7"
           }
         },
         {
           "id": "ch10-l08",
           "title": {
             "en-US": "Chapter 10 · Lecture 8",
-            "la": "Caput 10 · Lectio 8"
+            "la": "Caput 10 · Lectio 8",
+            "pt-BR": "Capítulo 10 · Lição 8"
           }
         }
       ]
@@ -573,42 +651,48 @@
       "id": "ch11",
       "title": {
         "en-US": "Chapter 11",
-        "la": "Caput 11"
+        "la": "Caput 11",
+        "pt-BR": "Capítulo 11"
       },
       "children": [
         {
           "id": "ch11-l01",
           "title": {
             "en-US": "Chapter 11 · Lecture 1",
-            "la": "Caput 11 · Lectio 1"
+            "la": "Caput 11 · Lectio 1",
+            "pt-BR": "Capítulo 11 · Lição 1"
           }
         },
         {
           "id": "ch11-l02",
           "title": {
             "en-US": "Chapter 11 · Lecture 2",
-            "la": "Caput 11 · Lectio 2"
+            "la": "Caput 11 · Lectio 2",
+            "pt-BR": "Capítulo 11 · Lição 2"
           }
         },
         {
           "id": "ch11-l03",
           "title": {
             "en-US": "Chapter 11 · Lecture 3",
-            "la": "Caput 11 · Lectio 3"
+            "la": "Caput 11 · Lectio 3",
+            "pt-BR": "Capítulo 11 · Lição 3"
           }
         },
         {
           "id": "ch11-l04",
           "title": {
             "en-US": "Chapter 11 · Lecture 4",
-            "la": "Caput 11 · Lectio 4"
+            "la": "Caput 11 · Lectio 4",
+            "pt-BR": "Capítulo 11 · Lição 4"
           }
         },
         {
           "id": "ch11-l05",
           "title": {
             "en-US": "Chapter 11 · Lecture 5",
-            "la": "Caput 11 · Lectio 5"
+            "la": "Caput 11 · Lectio 5",
+            "pt-BR": "Capítulo 11 · Lição 5"
           }
         }
       ]
@@ -617,56 +701,64 @@
       "id": "ch12",
       "title": {
         "en-US": "Chapter 12",
-        "la": "Caput 12"
+        "la": "Caput 12",
+        "pt-BR": "Capítulo 12"
       },
       "children": [
         {
           "id": "ch12-l01",
           "title": {
             "en-US": "Chapter 12 · Lecture 1",
-            "la": "Caput 12 · Lectio 1"
+            "la": "Caput 12 · Lectio 1",
+            "pt-BR": "Capítulo 12 · Lição 1"
           }
         },
         {
           "id": "ch12-l02",
           "title": {
             "en-US": "Chapter 12 · Lecture 2",
-            "la": "Caput 12 · Lectio 2"
+            "la": "Caput 12 · Lectio 2",
+            "pt-BR": "Capítulo 12 · Lição 2"
           }
         },
         {
           "id": "ch12-l03",
           "title": {
             "en-US": "Chapter 12 · Lecture 3",
-            "la": "Caput 12 · Lectio 3"
+            "la": "Caput 12 · Lectio 3",
+            "pt-BR": "Capítulo 12 · Lição 3"
           }
         },
         {
           "id": "ch12-l04",
           "title": {
             "en-US": "Chapter 12 · Lecture 4",
-            "la": "Caput 12 · Lectio 4"
+            "la": "Caput 12 · Lectio 4",
+            "pt-BR": "Capítulo 12 · Lição 4"
           }
         },
         {
           "id": "ch12-l05",
           "title": {
             "en-US": "Chapter 12 · Lecture 5",
-            "la": "Caput 12 · Lectio 5"
+            "la": "Caput 12 · Lectio 5",
+            "pt-BR": "Capítulo 12 · Lição 5"
           }
         },
         {
           "id": "ch12-l06",
           "title": {
             "en-US": "Chapter 12 · Lecture 6",
-            "la": "Caput 12 · Lectio 6"
+            "la": "Caput 12 · Lectio 6",
+            "pt-BR": "Capítulo 12 · Lição 6"
           }
         },
         {
           "id": "ch12-l06b",
           "title": {
             "en-US": "Chapter 12 · Lecture 6",
-            "la": "Caput 12 · Lectio 6"
+            "la": "Caput 12 · Lectio 6",
+            "pt-BR": "Capítulo 12 · Lição 6"
           }
         }
       ]
@@ -675,56 +767,64 @@
       "id": "ch13",
       "title": {
         "en-US": "Chapter 13",
-        "la": "Caput 13"
+        "la": "Caput 13",
+        "pt-BR": "Capítulo 13"
       },
       "children": [
         {
           "id": "ch13-l01",
           "title": {
             "en-US": "Chapter 13 · Lecture 1",
-            "la": "Caput 13 · Lectio 1"
+            "la": "Caput 13 · Lectio 1",
+            "pt-BR": "Capítulo 13 · Lição 1"
           }
         },
         {
           "id": "ch13-l02",
           "title": {
             "en-US": "Chapter 13 · Lecture 2",
-            "la": "Caput 13 · Lectio 2"
+            "la": "Caput 13 · Lectio 2",
+            "pt-BR": "Capítulo 13 · Lição 2"
           }
         },
         {
           "id": "ch13-l03",
           "title": {
             "en-US": "Chapter 13 · Lecture 3",
-            "la": "Caput 13 · Lectio 3"
+            "la": "Caput 13 · Lectio 3",
+            "pt-BR": "Capítulo 13 · Lição 3"
           }
         },
         {
           "id": "ch13-l04",
           "title": {
             "en-US": "Chapter 13 · Lecture 4",
-            "la": "Caput 13 · Lectio 4"
+            "la": "Caput 13 · Lectio 4",
+            "pt-BR": "Capítulo 13 · Lição 4"
           }
         },
         {
           "id": "ch13-l05",
           "title": {
             "en-US": "Chapter 13 · Lecture 5",
-            "la": "Caput 13 · Lectio 5"
+            "la": "Caput 13 · Lectio 5",
+            "pt-BR": "Capítulo 13 · Lição 5"
           }
         },
         {
           "id": "ch13-l06",
           "title": {
             "en-US": "Chapter 13 · Lecture 6",
-            "la": "Caput 13 · Lectio 6"
+            "la": "Caput 13 · Lectio 6",
+            "pt-BR": "Capítulo 13 · Lição 6"
           }
         },
         {
           "id": "ch13-l07",
           "title": {
             "en-US": "Chapter 13 · Lecture 7",
-            "la": "Caput 13 · Lectio 7"
+            "la": "Caput 13 · Lectio 7",
+            "pt-BR": "Capítulo 13 · Lição 7"
           }
         }
       ]
@@ -733,91 +833,104 @@
       "id": "ch14",
       "title": {
         "en-US": "Chapter 14",
-        "la": "Caput 14"
+        "la": "Caput 14",
+        "pt-BR": "Capítulo 14"
       },
       "children": [
         {
           "id": "ch14-l01",
           "title": {
             "en-US": "Chapter 14 · Lecture 1",
-            "la": "Caput 14 · Lectio 1"
+            "la": "Caput 14 · Lectio 1",
+            "pt-BR": "Capítulo 14 · Lição 1"
           }
         },
         {
           "id": "ch14-l02",
           "title": {
             "en-US": "Chapter 14 · Lecture 2",
-            "la": "Caput 14 · Lectio 2"
+            "la": "Caput 14 · Lectio 2",
+            "pt-BR": "Capítulo 14 · Lição 2"
           }
         },
         {
           "id": "ch14-l03",
           "title": {
             "en-US": "Chapter 14 · Lecture 3",
-            "la": "Caput 14 · Lectio 3"
+            "la": "Caput 14 · Lectio 3",
+            "pt-BR": "Capítulo 14 · Lição 3"
           }
         },
         {
           "id": "ch14-l04",
           "title": {
             "en-US": "Chapter 14 · Lecture 4",
-            "la": "Caput 14 · Lectio 4"
+            "la": "Caput 14 · Lectio 4",
+            "pt-BR": "Capítulo 14 · Lição 4"
           }
         },
         {
           "id": "ch14-l05",
           "title": {
             "en-US": "Chapter 14 · Lecture 5",
-            "la": "Caput 14 · Lectio 5"
+            "la": "Caput 14 · Lectio 5",
+            "pt-BR": "Capítulo 14 · Lição 5"
           }
         },
         {
           "id": "ch14-l06",
           "title": {
             "en-US": "Chapter 14 · Lecture 6",
-            "la": "Caput 14 · Lectio 6"
+            "la": "Caput 14 · Lectio 6",
+            "pt-BR": "Capítulo 14 · Lição 6"
           }
         },
         {
           "id": "ch14-l07",
           "title": {
             "en-US": "Chapter 14 · Lecture 7",
-            "la": "Caput 14 · Lectio 7"
+            "la": "Caput 14 · Lectio 7",
+            "pt-BR": "Capítulo 14 · Lição 7"
           }
         },
         {
           "id": "ch14-l08",
           "title": {
             "en-US": "Chapter 14 · Lecture 8",
-            "la": "Caput 14 · Lectio 8"
+            "la": "Caput 14 · Lectio 8",
+            "pt-BR": "Capítulo 14 · Lição 8"
           }
         },
         {
           "id": "ch14-l09",
           "title": {
             "en-US": "Chapter 14 · Lecture 9",
-            "la": "Caput 14 · Lectio 9"
+            "la": "Caput 14 · Lectio 9",
+            "pt-BR": "Capítulo 14 · Lição 9"
           }
         },
         {
           "id": "ch14-l10",
           "title": {
             "en-US": "Chapter 14 · Lecture 10",
-            "la": "Caput 14 · Lectio 10"
+            "la": "Caput 14 · Lectio 10",
+            "pt-BR": "Capítulo 14 · Lição 10"
           }
         },
         {
           "id": "ch14-l11",
           "title": {
             "en-US": "Chapter 14 · Lecture 11",
-            "la": "Caput 14 · Lectio 11"
+            "la": "Caput 14 · Lectio 11",
+            "pt-BR": "Capítulo 14 · Lição 11"
           }
         },
         {
           "id": "ch14-l12",
           "title": {
             "en-US": "Chapter 14 · Lecture 12",
-            "la": "Caput 14 · Lectio 12"
+            "la": "Caput 14 · Lectio 12",
+            "pt-BR": "Capítulo 14 · Lição 12"
           }
         }
       ]
@@ -826,63 +939,72 @@
       "id": "ch15",
       "title": {
         "en-US": "Chapter 15",
-        "la": "Caput 15"
+        "la": "Caput 15",
+        "pt-BR": "Capítulo 15"
       },
       "children": [
         {
           "id": "ch15-l01",
           "title": {
             "en-US": "Chapter 15 · Lecture 1",
-            "la": "Caput 15 · Lectio 1"
+            "la": "Caput 15 · Lectio 1",
+            "pt-BR": "Capítulo 15 · Lição 1"
           }
         },
         {
           "id": "ch15-l02",
           "title": {
             "en-US": "Chapter 15 · Lecture 2",
-            "la": "Caput 15 · Lectio 2"
+            "la": "Caput 15 · Lectio 2",
+            "pt-BR": "Capítulo 15 · Lição 2"
           }
         },
         {
           "id": "ch15-l03",
           "title": {
             "en-US": "Chapter 15 · Lecture 3",
-            "la": "Caput 15 · Lectio 3"
+            "la": "Caput 15 · Lectio 3",
+            "pt-BR": "Capítulo 15 · Lição 3"
           }
         },
         {
           "id": "ch15-l04",
           "title": {
             "en-US": "Chapter 15 · Lecture 4",
-            "la": "Caput 15 · Lectio 4"
+            "la": "Caput 15 · Lectio 4",
+            "pt-BR": "Capítulo 15 · Lição 4"
           }
         },
         {
           "id": "ch15-l05",
           "title": {
             "en-US": "Chapter 15 · Lecture 5",
-            "la": "Caput 15 · Lectio 5"
+            "la": "Caput 15 · Lectio 5",
+            "pt-BR": "Capítulo 15 · Lição 5"
           }
         },
         {
           "id": "ch15-l06",
           "title": {
             "en-US": "Chapter 15 · Lecture 6",
-            "la": "Caput 15 · Lectio 6"
+            "la": "Caput 15 · Lectio 6",
+            "pt-BR": "Capítulo 15 · Lição 6"
           }
         },
         {
           "id": "ch15-l07",
           "title": {
             "en-US": "Chapter 15 · Lecture 7",
-            "la": "Caput 15 · Lectio 7"
+            "la": "Caput 15 · Lectio 7",
+            "pt-BR": "Capítulo 15 · Lição 7"
           }
         },
         {
           "id": "ch15-l08",
           "title": {
             "en-US": "Chapter 15 · Lecture 8",
-            "la": "Caput 15 · Lectio 8"
+            "la": "Caput 15 · Lectio 8",
+            "pt-BR": "Capítulo 15 · Lição 8"
           }
         }
       ]
@@ -891,35 +1013,40 @@
       "id": "ch16",
       "title": {
         "en-US": "Chapter 16",
-        "la": "Caput 16"
+        "la": "Caput 16",
+        "pt-BR": "Capítulo 16"
       },
       "children": [
         {
           "id": "ch16-l01",
           "title": {
             "en-US": "Chapter 16 · Lecture 1",
-            "la": "Caput 16 · Lectio 1"
+            "la": "Caput 16 · Lectio 1",
+            "pt-BR": "Capítulo 16 · Lição 1"
           }
         },
         {
           "id": "ch16-l02",
           "title": {
             "en-US": "Chapter 16 · Lecture 2",
-            "la": "Caput 16 · Lectio 2"
+            "la": "Caput 16 · Lectio 2",
+            "pt-BR": "Capítulo 16 · Lição 2"
           }
         },
         {
           "id": "ch16-l03",
           "title": {
             "en-US": "Chapter 16 · Lecture 3",
-            "la": "Caput 16 · Lectio 3"
+            "la": "Caput 16 · Lectio 3",
+            "pt-BR": "Capítulo 16 · Lição 3"
           }
         },
         {
           "id": "ch16-l04",
           "title": {
             "en-US": "Chapter 16 · Lecture 4",
-            "la": "Caput 16 · Lectio 4"
+            "la": "Caput 16 · Lectio 4",
+            "pt-BR": "Capítulo 16 · Lição 4"
           }
         }
       ]
