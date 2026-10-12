@@ -1,7 +1,7 @@
 import type { Proposal, Resolution } from '@ember/api/src/moderation'
 import type { Church } from '@ember/api/src/schema'
 
-// What the desk's server and its page say to each other.
+// What the desk's Worker and its page say to each other.
 
 export type Suggestion = {
   id: string
@@ -23,7 +23,7 @@ export type Review = {
   reviewedAt: string
   costUsd?: number
   // The version of the brief it was written under, and whether that is no longer the current one.
-  brief?: number
+  brief: number
   outdated?: boolean
 }
 
@@ -58,7 +58,7 @@ export type HistoryEntry = {
   undoneAt?: string
 }
 
-// On disk an entry also keeps what undo needs, and what the change log tells other directories:
+// In the log an entry also keeps what undo needs, and what the change log tells other directories:
 // every church the resolution touched, before and after (`before` is missing for one it created),
 // what the change rested on, and whether it has been passed on.
 export type StoredHistoryEntry = HistoryEntry & {
@@ -77,4 +77,10 @@ export type Desk = {
   log: StoredHistoryEntry[]
 }
 
-export type DeskEvent = { type: 'desk'; desk: Desk } | { type: 'run'; churchId: string; run?: Run }
+// What the page polls while a review is under way: every run, by church, and when each church's
+// draft was written, so the page knows to fetch the desk again once a run has turned into one.
+export type Progress = { runs: Record<string, Run>; reviewedAt: Record<string, string> }
+
+// What the page saw of each church a resolution names (its `updatedAt`), so a row that moved since
+// is refused instead of overwritten.
+export type Seen = Record<string, string | null>

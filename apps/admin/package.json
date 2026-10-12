@@ -1,27 +1,30 @@
 {
-  "name": "@ember/moderation",
+  "name": "@ember/admin",
   "version": "0.0.1",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "tsx server/main.ts",
-    "dev:local": "tsx server/main.ts --local",
-    "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.server.json"
+    "dev": "vite build && wrangler dev --persist-to ../backend/.wrangler/state",
+    "deploy": "vite build && wrangler deploy",
+    "db:migrate:local": "wrangler d1 migrations apply ember-mass-times --local --persist-to ../backend/.wrangler/state",
+    "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.worker.json"
   },
   "dependencies": {
+    "@cloudflare/containers": "^0.3.7",
     "@ember/api": "workspace:*",
     "@ember/backend": "workspace:*",
     "@tanstack/react-query": "^5.95.2",
     "drizzle-orm": "^0.45.2",
+    "hono": "^4.12.25",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20260616.1",
-    "@types/node": "^22.10.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "@vitejs/plugin-react": "^4.3.4",
-    "vite": "^6.0.0"
+    "vite": "^6.0.0",
+    "wrangler": "^4.149.0"
   }
 }

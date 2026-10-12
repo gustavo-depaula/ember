@@ -1,4 +1,3 @@
-// Deep imports for the same reason as ./import: the moderation desk runs this under tsx.
 import type {
   CreatedChurch,
   ProposedService,
@@ -11,10 +10,10 @@ import { drizzle } from 'drizzle-orm/d1'
 import { encodeGeohash } from './geo'
 import { inlineParams, serviceId } from './import'
 
-// Turns a moderator's resolution into the SQL that carries it out. Pure and worker-safe: the
-// moderation desk (apps/moderation) reaches D1 through wrangler, which takes SQL text, so this
-// emits statements the way `rowsToSql` does and never holds a database. Run a returned list as one
-// batch.
+// Turns a moderator's resolution into the SQL that carries it out, for the admin panel's
+// moderation desk (apps/admin). Pure: it emits statements the way `rowsToSql` does and never holds
+// a database, so a resolution can be planned, shown and tested apart from being run. Run a
+// returned list as one batch.
 
 type ChurchUpdate = Partial<typeof church.$inferInsert>
 type Statement = { toSQL(): { sql: string; params: unknown[] } }

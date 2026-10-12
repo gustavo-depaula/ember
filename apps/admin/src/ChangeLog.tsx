@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { Desk } from '../server/types'
+import type { Desk } from '../worker/types'
 import { timeAgo } from './App'
 import { useMarkShared } from './api'
 import { changeMessage, churchLang } from './message'
@@ -38,8 +38,7 @@ export function ChangeLog({ desk, onBack }: { desk: Desk; onBack: () => void }) 
         </button>
         <h2>Change log</h2>
         <p className="muted">
-          What the desk changed, as messages for other Mass-times directories. Kept on this machine,
-          in apps/moderation/.data.
+          What the desk changed, as messages for other Mass-times directories.
         </p>
       </header>
 

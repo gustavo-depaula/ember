@@ -13,7 +13,7 @@
     "noUnusedParameters": true,
     "types": ["vite/client"]
   },
-  // The browser half. It takes only types from server/types.ts; the Node half has its own config
-  // because the SQL it borrows from the backend is typed against the Workers globals.
+  // The browser half. It takes only types from worker/types.ts; the Worker has its own config
+  // because it is typed against the Workers globals.
   "include": ["src"]
 }

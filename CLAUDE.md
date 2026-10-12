@@ -7,7 +7,7 @@ Personal project with a single user, so schema changes are made in place: add a 
 ## Layout
 
 pnpm workspaces + turborepo:
-- `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview · `apps/moderation/` — local desk for reviewing Mass-time suggestions (headless Claude drafts, you approve)
+- `apps/app/` — Expo app · `apps/site/` — public read-only website (Astro, static) · `apps/backend/` — Mass-times API (Cloudflare Workers) · `apps/hearth/` — GitHub Pages landing page · `apps/workshop/` — content preview · `apps/admin/` — admin panel (Cloudflare Worker behind Access); its first desk reviews Mass-time suggestions (Claude Code drafts in a container, you approve)
 - `packages/` — shared libraries; `content/` — source of truth for the corpus, one flat dir per kind
 - `research/` — long-running investigations (method + dataset, not app code). Deliberately unstructured: let structure emerge from the work there
 - `docs/` — a few references (content authoring, content sources, design)
@@ -33,7 +33,7 @@ pnpm test                   # all workspace tests (from apps/app/: app tests onl
 pnpm build:corpus           # content/ → _site/hearth/v2 (app tests need this)
 pnpm hearth                 # build + serve the corpus on :4100 for the dev app
 pnpm validate-flows         # validate practice flow JSON
-pnpm moderation             # Mass-times moderation desk on :4210, against production D1 via wrangler (`dev:local` in apps/moderation for the local D1)
+pnpm admin                  # admin panel on :4210 via `wrangler dev` (needs Docker; local D1 shared with apps/backend)
 pnpm --filter @ember/site dev    # website on :4321 (needs build:corpus); `build` + `preview` for the static site
 pnpm biome check --write .  # format + lint
 ```

@@ -1,6 +1,6 @@
 import type { Church } from '@ember/api/src/schema'
 import { type ReactNode, useState } from 'react'
-import type { Case } from '../server/types'
+import type { Case } from '../worker/types'
 import { useSearch } from './api'
 import {
   changedFields,

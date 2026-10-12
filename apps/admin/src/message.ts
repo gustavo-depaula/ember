@@ -1,6 +1,6 @@
 import type { ProposedService } from '@ember/api/src/moderation'
 import type { Church } from '@ember/api/src/schema'
-import type { StoredHistoryEntry } from '../server/types'
+import type { StoredHistoryEntry } from '../worker/types'
 import type { FieldKey } from './draft'
 import { bulletinOrder, describeService, diffSchedule, type Lang, serviceKinds } from './schedule'
 

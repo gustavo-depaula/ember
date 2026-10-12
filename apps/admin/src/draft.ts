@@ -1,6 +1,6 @@
 import type { ProposedService, RecordChange, Resolution } from '@ember/api/src/moderation'
 import type { Church, ChurchLink, ChurchText } from '@ember/api/src/schema'
-import type { Case } from '../server/types'
+import type { Case } from '../worker/types'
 import { asProposed, diffSchedule } from './schedule'
 
 // What the moderator is about to apply for one case. It starts as Claude's proposal (or as the

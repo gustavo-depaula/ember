@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import type { Case, Desk, HistoryEntry } from '../server/types'
+import type { Case, Desk, HistoryEntry } from '../worker/types'
 import { useDesk, useRefresh, useReviewAll, useUndo } from './api'
 import { CasePane } from './CasePane'
 import { ChangeLog } from './ChangeLog'
@@ -65,15 +65,11 @@ export function App() {
     return () => window.removeEventListener('keydown', onKey)
   })
 
-  if (desk.isPending) return <Splash>Reading the queue from D1…</Splash>
-  if (desk.error) {
+  if (!desk.data) {
+    if (!desk.error) return <Splash>Reading the queue from D1…</Splash>
     return (
       <Splash>
         <p className="error">{desk.error.message}</p>
-        <p className="muted">
-          The desk reads D1 through wrangler. If you are not logged in, run{' '}
-          <code>pnpm --filter @ember/backend exec wrangler login</code>.
-        </p>
         <button type="button" onClick={() => desk.refetch()}>
           Try again
         </button>

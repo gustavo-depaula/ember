@@ -1,0 +1,49 @@
+{
+  "$schema": "../../node_modules/wrangler/config-schema.json",
+  "name": "ember-admin",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-06-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "observability": { "enabled": true },
+  // Every address this Worker answers on has to sit behind Cloudflare Access (see worker/access.ts),
+  // and a version's preview address would be one more to cover.
+  "preview_urls": false,
+  "dev": { "port": 4210 },
+  // The page (built by `vite build`). Everything under /api is the Worker's.
+  "assets": {
+    "directory": "dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  // The same database the public API serves; its migrations live with that Worker.
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "ember-mass-times",
+      "database_id": "a7116073-ff15-4499-a18d-cef9cb4dbfb3",
+      "migrations_dir": "../backend/migrations"
+    }
+  ],
+  // One box that runs the Claude Code CLI for the moderation desk (reviewer/).
+  "containers": [
+    {
+      "class_name": "Reviewer",
+      "image": "./reviewer/Dockerfile",
+      "instance_type": "standard-1",
+      "max_instances": 1
+    }
+  ],
+  "durable_objects": {
+    "bindings": [{ "name": "REVIEWER", "class_name": "Reviewer" }]
+  },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Reviewer"] }],
+  "vars": {
+    // Cloudflare Access: the team's domain (<team>.cloudflareaccess.com) and the application's
+    // audience tag. While either is empty the Worker answers on localhost only.
+    "ACCESS_TEAM_DOMAIN": "",
+    "ACCESS_AUD": ""
+  }
+  // Secret: CLAUDE_CODE_OAUTH_TOKEN, from `claude setup-token` (`wrangler secret put`, or
+  // .dev.vars for `wrangler dev`).
+}

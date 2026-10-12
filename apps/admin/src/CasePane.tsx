@@ -1,6 +1,6 @@
 import type { Church } from '@ember/api/src/schema'
 import { useState } from 'react'
-import type { Case, Suggestion } from '../server/types'
+import type { Case, Suggestion } from '../worker/types'
 import { reviewIsCurrent, timeAgo } from './App'
 import { photoUrl, useApply, useReview, useStop } from './api'
 import {
@@ -182,9 +182,7 @@ export function CasePane({
             type="button"
             className="primary approve"
             disabled={!changes.any || busy}
-            onClick={() =>
-              apply.mutate({ churchId: item.churchId, resolution: toResolution(item, draft) })
-            }
+            onClick={() => apply.mutate({ item, resolution: toResolution(item, draft) })}
           >
             {(() => {
               if (apply.isPending) return 'Applying…'
@@ -203,7 +201,7 @@ export function CasePane({
             title="Reject every suggestion and leave the church as it is"
             onClick={() =>
               apply.mutate({
-                churchId: item.churchId,
+                item,
                 resolution: {
                   fields: {},
                   verdicts: item.suggestions.map((s) => ({ id: s.id, status: 'rejected' })),

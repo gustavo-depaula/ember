@@ -1,13 +1,12 @@
 // A one-tool MCP server handed to each headless review: `search_churches`, a name search over the
-// whole directory. It holds no database access of its own. It asks the desk that started the
-// review (DESK_URL), which also adds whatever is found to the case (CHURCH_ID), so a church Claude
-// turns up this way can be changed like any other.
+// whole directory. It holds no database access of its own. It asks the desk through the Worker's
+// private address (DESK_URL), as the run it belongs to (RUN_ID).
 //
 // Plain Node on purpose: Claude Code starts it with `node`, with no TypeScript loader. MCP over
 // stdio is one JSON-RPC message per line.
 import { createInterface } from 'node:readline'
 
-const { DESK_URL, CHURCH_ID } = process.env
+const { DESK_URL, RUN_ID } = process.env
 
 const tool = {
   name: 'search_churches',
@@ -21,7 +20,7 @@ const tool = {
 }
 
 async function search(query) {
-  const response = await fetch(`${DESK_URL}/api/cases/${encodeURIComponent(CHURCH_ID)}/search`, {
+  const response = await fetch(`${DESK_URL}/runs/${RUN_ID}/search`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({ query }),

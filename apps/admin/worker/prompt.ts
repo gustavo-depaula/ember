@@ -1,3 +1,4 @@
+import type { Proposal } from '@ember/api/src/moderation'
 import type { Case } from './types'
 
 // Raise this when the brief changes what a review can propose (as when it learned about chapels),
@@ -49,6 +50,22 @@ export function refinePrompt(instruction: string): string {
 ${instruction}
 
 Re-read case.json (it may have changed), look up whatever this calls for, and return the full revised proposal.`
+}
+
+// The same request when the conversation that wrote the proposal is gone (the reviewer's disk does
+// not outlive its container): the brief again, with the proposal and what the moderator said of it.
+export function revisePrompt(proposal: Proposal, instruction: string): string {
+  return `${reviewPrompt}
+
+You reviewed this case before and returned this proposal:
+
+${JSON.stringify(proposal, undefined, 1)}
+
+The moderator read it and says:
+
+${instruction}
+
+Look up whatever this calls for and return the full revised proposal.`
 }
 
 // The case as Claude reads it: the record without the columns that are only plumbing, and each

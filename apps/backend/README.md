@@ -19,4 +19,4 @@ Run from `apps/backend/`:
 
 ## Moderation
 
-Corrections land in D1 as `pending` and are settled from the moderation desk (`pnpm moderation`, apps/moderation), which runs on your machine and reaches D1 through `wrangler login`. The Worker has no admin routes. The SQL a resolution turns into lives in `src/lib/moderation.ts`.
+Corrections land in D1 as `pending` and are settled from the admin panel (apps/admin, the `ember-admin` Worker), which binds this same database. This Worker has no admin routes. The SQL a resolution turns into lives in `src/lib/moderation.ts`, and the desk's own tables (`moderation_*`) are migrated from here with the rest.

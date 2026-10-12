@@ -1,5 +1,6 @@
 import { type InferSelectModel, sql } from 'drizzle-orm'
 import { index, integer, primaryKey, real, sqliteTable, text } from 'drizzle-orm/sqlite-core'
+import type { Proposal, Resolution } from './moderation'
 
 // Source of truth for the Mass-Times directory. Domain types are inferred from these tables
 // (no hand-written `type`s) and migrations are generated from them via drizzle-kit.
@@ -142,6 +143,49 @@ export const attachment = sqliteTable(
     createdAt: text('created_at').notNull().default(sql`(strftime('%Y-%m-%dT%H:%M:%fZ', 'now'))`),
   },
   (t) => [index('attachment_church_idx').on(t.churchId)],
+)
+
+// The admin panel's moderation desk (apps/admin) keeps its working state here, beside the
+// directory it moderates: Claude's draft for each church with suggestions waiting, the review runs
+// under way, and the log of applied resolutions that undo and the change messages are read from.
+export const moderationReview = sqliteTable('moderation_review', {
+  churchId: text('church_id').primaryKey(),
+  proposal: text('proposal', { mode: 'json' }).$type<Proposal>().notNull(),
+  sessionId: text('session_id').notNull(), // the Claude Code session, resumed while its container lives
+  suggestionIds: text('suggestion_ids', { mode: 'json' }).$type<string[]>().notNull(),
+  reviewedAt: text('reviewed_at').notNull(),
+  costUsd: real('cost_usd'),
+  brief: integer('brief').notNull(), // the version of the review brief it was written under
+})
+
+export const moderationRun = sqliteTable('moderation_run', {
+  churchId: text('church_id').primaryKey(),
+  id: text('id').notNull(), // crypto.randomUUID(); what the reviewer container reports under
+  status: text('status').notNull(), // queued | running | failed
+  suggestionIds: text('suggestion_ids', { mode: 'json' }).$type<string[]>().notNull(), // what it was shown
+  activity: text('activity', { mode: 'json' }).$type<string[]>().notNull(),
+  error: text('error'),
+  updatedAt: text('updated_at').notNull(), // the reviewer's last sign of life
+})
+
+export const moderationChange = sqliteTable(
+  'moderation_change',
+  {
+    id: text('id').primaryKey(),
+    churchId: text('church_id').notNull(),
+    churchName: text('church_name').notNull(),
+    appliedAt: text('applied_at').notNull(),
+    summary: text('summary').notNull(),
+    // Every church the resolution touched, before and after; `before` is missing for one it created.
+    records: text('records', { mode: 'json' })
+      .$type<Array<{ before?: Church; after: Church }>>()
+      .notNull(),
+    resolution: text('resolution', { mode: 'json' }).$type<Resolution>().notNull(),
+    basis: text('basis'), // what the change rested on: the summary of the review behind it
+    undoneAt: text('undone_at'),
+    sharedAt: text('shared_at'), // when it was passed on to other directories
+  },
+  (t) => [index('moderation_change_applied_idx').on(t.appliedAt)],
 )
 
 export type Church = InferSelectModel<typeof church>
