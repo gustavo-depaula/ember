@@ -1336,16 +1336,17 @@ CHANT_BUNDLE_SIZE = 48
 
 
 def build_chant_propers(b: Builder) -> None:
-    """The chant of the Mass propers (content/chant-propers/), found by text.
+    """The chant of the Mass propers and of the Office (content/chant-propers/),
+    found by text.
 
     A proper has no id the app could ask for it by: the app holds the Latin of
-    an Introit, as Divinum Officium assembled it for the day. So these scores
+    an Introit or an antiphon, as Divinum Officium assembled it for the day. So these scores
     are filed under the words they set (scripts/chant_link.py):
 
-      chant-index          {keyLength, keys: {genre: {opening: [[length, ref]]}}}
-                           — the folded opening of every text of the Missal
-                           that has a score, and of every score's own text;
-                           `ref` is `<bundle>/<chant>`
+      chant-index/<genre>  {keyLength, keys: {opening: [[length, ref]]}} — the
+                           folded opening of every text of the Missal and the
+                           Breviary that has a score of that genre, and of
+                           every such score's own text; `ref` is `<bundle>/<chant>`
       chant-bundle/<id>    {id, chants: {<chant>: {name, mode, …, score}}}
     """
     src = CONTENT / "chant-propers"
@@ -1354,14 +1355,14 @@ def build_chant_propers(b: Builder) -> None:
     sys.path.insert(0, str(Path(__file__).resolve().parent))
     import chant_link
 
-    genre_of = {name: genre for genre, name in chant_link.GENRES.items()}
+    genre_of = {name: genre for genre, name in {**chant_link.GENRES, **chant_link.OFFICE_GENRES}.items()}
     chants: dict[str, dict[str, Any]] = {}
     for f in sorted(src.glob("*.gabc")):
         text = f.read_text(encoding="utf-8")
         headers = gabc_headers(text)
         genre = genre_of.get(headers.get("office-part", ""))
         if not genre:
-            raise ValueError(f"chant-propers/{f.name}: office-part is not a Mass proper")
+            raise ValueError(f"chant-propers/{f.name}: office-part is neither a Mass proper nor an Office chant")
         score = text.partition("\n%%\n")[2]
         chants[f.stem] = {
             "genre": genre,
@@ -1405,22 +1406,29 @@ def build_chant_propers(b: Builder) -> None:
     # A score answers to its own words, whatever prints them…
     for stem, chant in chants.items():
         file(chant["genre"], chant["key"], stem)
-    # …and to the Missal's, where the Missal words the text its own way.
-    missal = CONTENT / "do" / "web" / "www"
-    linked = unlinked = 0
-    for (genre, key), _ in chant_link.missal_pieces(missal).items():
-        score, stem = finder.find(chant_link.KIN.get(genre, (genre,)), key)
-        if score >= chant_link.THRESHOLD:
-            file(genre, key, stem)
-            linked += 1
-        else:
-            unlinked += 1
-    for genre in keys:
-        for listed in keys[genre].values():
+    # …and to the Missal's and the Breviary's, where they word the text their own way.
+    www = CONTENT / "do" / "web" / "www"
+    report = []
+    for book, pieces in (
+        ("Missal", chant_link.missal_pieces(www)),
+        ("Breviary", chant_link.breviary_pieces(www)),
+    ):
+        linked = 0
+        for (genre, key), _ in pieces.items():
+            score, stem = finder.find(chant_link.KIN.get(genre, (genre,)), key)
+            if score >= chant_link.THRESHOLD:
+                file(genre, key, stem)
+                linked += 1
+        report.append(f"{linked} of {len(pieces)} {book} texts")
+    # One index a genre: a Mass asks for six of them and never for the antiphons'.
+    size = 0
+    for genre, filed in sorted(keys.items()):
+        for listed in filed.values():
             listed.sort()
-    h, size = b.write_json_blob({"keyLength": chant_link.KEY_LENGTH, "keys": keys})
-    b.add_catalog("chant-index", {"kind": "chant-index", "hash": h, "size": size})
-    print(f"  chant propers: {len(chants)} scores, {linked} of {linked + unlinked} Missal texts linked, index {size:,} bytes")
+        h, blob_size = b.write_json_blob({"keyLength": chant_link.KEY_LENGTH, "keys": filed})
+        b.add_catalog(f"chant-index/{genre}", {"kind": "chant-index", "hash": h, "size": blob_size})
+        size += blob_size
+    print(f"  chant propers: {len(chants)} scores, {', '.join(report)} linked, index {size:,} bytes")
 
 
 # Divinum Officium datasets.

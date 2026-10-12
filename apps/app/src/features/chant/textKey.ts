@@ -6,8 +6,11 @@
 // Read its header for why a text is linked by its words at all.
 
 export type MassGenre = 'in' | 'gr' | 'al' | 'tr' | 'of' | 'co' | 'se'
+export type OfficeGenre = 'an' | 'hy' | 'rb'
+export type ChantGenre = MassGenre | OfficeGenre
 
 export type MassPiece = { genre: MassGenre; text: string }
+export type OfficePiece = { genre: OfficeGenre; text: string }
 
 /**
  * Latin reduced to what two editions of a text agree on: letters only, no
@@ -121,8 +124,42 @@ export function massPieces(head: string, lines: string[]): MassPiece[] {
   return []
 }
 
-/** A piece of the Missal, folded as the index files it. */
-export function pieceKey({ genre, text }: MassPiece): string {
+/**
+ * The chants an item of an hour of the Office holds, in order: each antiphon
+ * (once, though it is printed before its psalm and after), a hymn by its
+ * first stanza, a short responsory by its respond. `lines` are the item's
+ * lines as Divinum Officium assembles them.
+ */
+export function officePieces(lines: string[]): OfficePiece[] {
+  const out: OfficePiece[] = []
+  const seen = new Set<string>()
+  const add = (genre: OfficeGenre, text: string) => {
+    const key = `${genre}:${fold(text)}`
+    if (text && !seen.has(key)) {
+      seen.add(key)
+      out.push({ genre, text })
+    }
+  }
+  lines.forEach((line, i) => {
+    const antiphon = /^Ant\.\s+(.*)/.exec(line)
+    if (antiphon) add('an', antiphon[1])
+    const respond = /^R\.br\.\s+(.*)/.exec(line)
+    if (respond) add('rb', respond[1])
+    // A hymn under its own head, or under a `!Hymnus` rubric inside a longer item.
+    if (/^(#|!)\s*Hymnus\b/.test(line)) {
+      const stanza: string[] = []
+      for (const next of lines.slice(i + 1)) {
+        if (next.startsWith('_') || stanza.length === 4) break
+        if (next && !next.startsWith('!')) stanza.push(next.replace(/^[vr]\.\s*/, ''))
+      }
+      add('hy', stanza.join(' '))
+    }
+  })
+  return out
+}
+
+/** A piece of the Missal or the Breviary, folded as the index files it. */
+export function pieceKey({ genre, text }: MassPiece | OfficePiece): string {
   const key = fold(text)
   return genre === 'al' ? key.replace(/(alleluia)+$/, '') : key
 }

@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url'
 import { beforeAll, describe, expect, it } from 'vitest'
 
 import { setCatalog } from '@/content/contentIndex'
-import { findMassChants } from '../propers'
+import { findMassChants, findOfficeChants } from '../propers'
 
 // The built corpus: the index and the bundles are what the lookup is against.
 beforeAll(() => {
@@ -59,5 +59,40 @@ describe('findMassChants', () => {
     expect(
       await findMassChants('Oratio', ['Excita, quǽsumus, Dómine, poténtiam tuam, et veni.']),
     ).toEqual([])
+  })
+})
+
+describe('findOfficeChants', () => {
+  it('finds a psalm’s antiphon once, though it is printed before the psalm and after', async () => {
+    const chants = await findOfficeChants([
+      'Ant. Magna ópera Dómini: * exquisíta in omnes voluntátes eius.',
+      '!Psalmus 110 [2]',
+      '/:110:1:/ Confitébor tibi, Dómine, in toto corde meo: * in consílio iustórum, et congregatióne.',
+      'Ant. Magna ópera Dómini: exquisíta in omnes voluntátes eius.',
+    ])
+    expect(chants.map((c) => [c.genre, c.name, c.mode])).toEqual([
+      ['an', 'Magna opera Domini', '3'],
+    ])
+  })
+
+  it('finds a hymn under its rubric and a short responsory by its respond', async () => {
+    const chants = await findOfficeChants([
+      '#Capitulum Hymnus Versus',
+      '!2 Cor 1:3-4',
+      'v. Benedíctus Deus, et Pater Dómini nostri Iesu Christi.',
+      '_',
+      '!Hymnus',
+      'v. Lucis Creátor óptime,',
+      'Lucem diérum próferens,',
+      'Primórdiis lucis novæ,',
+      'Mundi parans oríginem:',
+      '_',
+      'r. Qui mane iunctum vésperi',
+    ])
+    expect(chants.map((c) => [c.genre, c.name])).toEqual([['hy', 'Lucis Creator optime']])
+    const [respond] = await findOfficeChants([
+      'R.br. In manus tuas, Dómine, * Comméndo spíritum meum.',
+    ])
+    expect(respond).toMatchObject({ genre: 'rb' })
   })
 })

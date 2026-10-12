@@ -10,8 +10,9 @@
 
 import { assembleHour, doLangDir, officeVersion } from '@ember/divinum-officium'
 import type { Primitive } from '@/content/primitives'
+import { findOfficeChants } from '@/features/chant/propers'
 import type { ContentSource, SourceFetchContext } from '../types'
-import { mapItemsToPrimitives } from './blocks'
+import { chantPrimitive, partNames, withChant } from './chant'
 import { createCorpusDoLoader } from './loader'
 
 const hours = [
@@ -29,7 +30,7 @@ type Hour = (typeof hours)[number]
 
 export const doHourSource: ContentSource<Primitive[]> = {
   id: 'producer/do-hour',
-  version: '11',
+  version: '12',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -49,6 +50,15 @@ export const doHourSource: ContentSource<Primitive[]> = {
       lang2: doLangDir(ctx.prefs.lang),
       votive,
     })
-    return mapItemsToPrimitives(assembled.vernacular ?? assembled.latin, assembled.latin)
+    // What is sung in the hour — antiphons, the hymn, the short responsory — is
+    // followed by its chant where the corpus has it, found by the text. An
+    // antiphon is printed before its psalms and after them, in the little hours
+    // items apart: its chant goes with the first.
+    const set = new Set<string>()
+    return withChant(assembled.vernacular ?? assembled.latin, assembled.latin, async (item) =>
+      (await findOfficeChants(item.split('\n')))
+        .filter((chant) => !set.has(chant.id) && set.add(chant.id))
+        .map((chant) => chantPrimitive(chant, partNames[chant.genre])),
+    )
   },
 }

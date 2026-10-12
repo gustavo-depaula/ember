@@ -19,6 +19,8 @@ KEY_LENGTH = 28
 
 # A section of the Missal, by its Latin head, and the genre GregoBase files its chant under.
 GENRES = {'in': 'Introitus', 'gr': 'Graduale', 'al': 'Alleluia', 'tr': 'Tractus', 'of': 'Offertorium', 'co': 'Communio', 'se': 'Sequentia'}
+# The chants of an hour of the Office that are found the same way.
+OFFICE_GENRES = {'an': 'Antiphona', 'hy': 'Hymnus', 'rb': 'Responsorium breve'}
 
 
 def fold(text):
@@ -255,6 +257,56 @@ def missal_pieces(www):
                 key = piece_key(genre, text)
                 if len(key) >= 12:
                     out.setdefault((genre, key), text)
+    return out
+
+
+def office_pieces(name, lines):
+    """The chants a section of the Breviary holds, as [(genre, text)]: its
+    antiphons, a hymn by its first stanza, a short responsory by its respond.
+
+    Divinum Officium names its sections by where they are used, not by what
+    they are — the Sunday psalter's antiphons are under `[Day0 Vespera]` — so
+    an antiphon is known by the section's name or by the `antiphon;;psalm`
+    shape of its line."""
+    # `{:H-Luciscreator:}` and its like tag a line for Divinum Officium's own tools.
+    lines = [re.sub(r'\{:.*?:\}', '', l) for l in lines]
+    lines = [l for l in lines if l and l[0] not in '!&$@#(_']
+    if not lines:
+        return []
+    if name.startswith('Hymnus'):
+        # Later stanzas differ between the Roman and the monastic books; the first names the hymn.
+        return [('hy', ' '.join(re.sub(r'^[vr]\.\s*', '', l) for l in lines[:4]))]
+    named = bool(re.search(r'\bAnt\b', name))
+    out = []
+    for line in lines:
+        respond = re.match(r'R\.br\.\s+(.*)', line)
+        if respond:
+            out.append(('rb', respond.group(1).strip()))
+            continue
+        # The little hours' psalter: `Feria II = antiphon`, the psalms on the next line.
+        of_the_day = re.match(r'[A-Z][\w ]* ?= ?(\D.*)', line)
+        if of_the_day:
+            line = of_the_day.group(1)
+        elif not named and ';;' not in line:
+            continue
+        # The psalm's number is not sung.
+        text = line.split(';;')[0].strip()
+        if len(text) > 12 and not text[0].isdigit():
+            out.append(('an', text))
+    return out
+
+
+def breviary_pieces(www):
+    """Every antiphon, hymn and short responsory of the Breviary's Latin, as
+    {(genre, key): text}. `www` is Divinum Officium's `web/www`."""
+    out = {}
+    for folder in ('Tempora', 'Sancti', 'Commune', 'Psalterium'):
+        for f in sorted((www / 'horas/Latin' / folder).rglob('*.txt')):
+            for name, lines in sections(f).items():
+                for genre, text in office_pieces(name, lines):
+                    key = fold(text)
+                    if len(key) >= 12:
+                        out.setdefault((genre, key), text)
     return out
 
 

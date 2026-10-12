@@ -13,6 +13,7 @@ So the dump lays a book out, and each score is then read from the live site.
 
     python3 scripts/import-gregobase.py              # (re)write the Kyriale, scores from the live site
     python3 scripts/import-gregobase.py --propers    # (re)write the chants of the 1962 Missal's propers
+    python3 scripts/import-gregobase.py --office     # (re)write the antiphons, hymns and short responsories of the 1960 Breviary
     python3 scripts/import-gregobase.py --prayers    # the chant of each prayer in content/practices/, and its place in the prayer
     python3 scripts/import-gregobase.py --offline    # either, from the dump alone
     python3 scripts/import-gregobase.py --sync       # refresh every score already in content/
@@ -430,6 +431,9 @@ def write_kyriale(offline=False):
 MASS_BOOKS = ['2', '3', '1', '4', '32']
 
 
+ORNATE = re.compile(r'solemn|another|alius|alter|ad lib|monastic|\(\d\)', re.I)
+
+
 def plain_gabc(chant):
     """Whether a score is square notes alone. GregoBase also holds "triplex"
     transcriptions, whose note groups carry the St Gall neumes after a `|`;
@@ -437,23 +441,39 @@ def plain_gabc(chant):
     return not re.search(r'\([^)]*\|', chant['gabc'])
 
 
+# The books the Roman Office is sung from: the Liber antiphonarius of 1960, the
+# Liber Usualis, the Antiphonale Romanum of 1912. Not the monastic antiphoners,
+# whose psalter is another, nor yet the Nocturnale: Matins waits on its responsories.
+OFFICE_BOOKS = ['48', '3', '9']
+
+
 def write_propers(offline=False):
     """The chant of every proper the Missal prints, found by its text."""
+    link_into_propers(MASS_BOOKS, chant_link.GENRES, chant_link.missal_pieces(DO_WWW), 'Missal', offline)
+
+
+def write_office(offline=False):
+    """The chant of every antiphon, hymn and short responsory the Breviary prints."""
+    link_into_propers(OFFICE_BOOKS, chant_link.OFFICE_GENRES, chant_link.breviary_pieces(DO_WWW), 'Breviary', offline)
+
+
+def link_into_propers(books, genres, pieces, book_name, offline):
     sql = dump()
     chants = {c['id']: c for c in rows(sql, 'gregobase_chants') if not int(c['copyrighted']) and c['gabc']}
     sources = {s['id']: s for s in rows(sql, 'gregobase_sources')}
     pages = {}
     for s in rows(sql, 'gregobase_chant_sources'):
         pages.setdefault(s['chant_id'], []).append((s['source'], s['page']))
-    rank = {b: i for i, b in enumerate(MASS_BOOKS)}
+    rank = {b: i for i, b in enumerate(books)}
     book_rank = lambda cid: min((rank.get(src, 99) for src, _ in pages.get(cid, [])), default=99)
+    # Of two settings in one book, the one it prints first: not the "alius tonus", not the tone ad libitum.
+    preference = lambda c: book_rank(c['id']) * 2 + bool(ORNATE.search(c['incipit']))
 
     finder = chant_link.Finder(
-        (c['id'], c['office-part'], chant_link.chant_key(c['office-part'], score(c)), book_rank(c['id']))
+        (c['id'], c['office-part'], chant_link.chant_key(c['office-part'], score(c)), preference(c))
         for c in chants.values()
-        if c['office-part'] in chant_link.GENRES and book_rank(c['id']) < 99 and plain_gabc(c)
+        if c['office-part'] in genres and book_rank(c['id']) < 99 and plain_gabc(c)
     )
-    pieces = chant_link.missal_pieces(DO_WWW)
     wanted, unlinked = {}, 0
     for (genre, key), _ in pieces.items():
         found, cid = finder.find(chant_link.KIN.get(genre, (genre,)), key)
@@ -461,13 +481,14 @@ def write_propers(offline=False):
             wanted[cid] = chants[cid]
         else:
             unlinked += 1
-    print(f'{len(pieces)} chant texts in the Missal, {len(pieces) - unlinked} with a score, {len(wanted)} scores')
+    print(f'{len(pieces)} chant texts in the {book_name}, {len(pieces) - unlinked} with a score, {len(wanted)} scores')
 
     PROPERS.mkdir(parents=True, exist_ok=True)
     keep = set()
     for cid, c in sorted(wanted.items(), key=lambda kv: int(kv[0])):
         genre = c['office-part']
-        incipit = re.sub(r'\s*\((Intr|Grad|All|Tract|Off|Comm|Seq)\.?\)\s*$', '', c['incipit'].strip())
+        # GregoBase tells its settings of one text apart in brackets after the incipit; the incipit is the name.
+        incipit = re.sub(r'\s*\(.*\)\s*$', '', c['incipit'].strip())
         where = sorted(pages.get(cid, []), key=lambda sp: rank.get(sp[0], 99))
         book = f"{sources[where[0][0]]['title']}, {sources[where[0][0]]['year']}, p. {where[0][1]}" if where else None
         # The GregoBase id keeps a name unique and stable however the set grows.
@@ -478,7 +499,7 @@ def write_propers(offline=False):
             continue
         (PROPERS / f'{stem}.gabc').write_text(
             header('name', incipit)
-            + header('office-part', chant_link.GENRES[genre])
+            + header('office-part', genres[genre])
             + header('mode', c['mode'])
             + header('commentary', (c['commentary'] or '').strip())
             + header('transcriber', c['transcriber'])
@@ -488,11 +509,12 @@ def write_propers(offline=False):
             + score(c),
             encoding='utf-8',
         )
+    # Only this run's genres: the Missal's scores and the Breviary's share the folder.
     for stale in PROPERS.glob('*.gabc'):
-        if stale.stem not in keep:
+        if stale.stem.split('-')[0] in genres and stale.stem not in keep:
             stale.unlink()
     if not offline:
-        sync(sorted(PROPERS.glob('*.gabc')))
+        sync(sorted(f for f in PROPERS.glob('*.gabc') if f.stem.split('-')[0] in genres))
 
 
 # Where a prayer's chant is taken from, best first: the books a parish sings from
@@ -599,8 +621,7 @@ def write_prayers(offline=False):
     def preference(c):
         book = min((rank.get(src, 99) for src, _ in pages.get(c['id'], [])), default=99)
         # Of two settings in one book, the plain one: not the solemn tone, not "another chant".
-        ornate = bool(re.search(r'solemn|another|alter|monastic|\(\d\)', c['incipit'], re.I))
-        return book * 2 + ornate
+        return book * 2 + bool(ORNATE.search(c['incipit']))
 
     genres = set(OFFICE_PART) | {'va', 'pa', 'su', 'rh'}
     finder = chant_link.Finder(
@@ -696,6 +717,8 @@ if __name__ == '__main__':
         sync()
     elif args == ['--propers']:
         write_propers(offline)
+    elif args == ['--office']:
+        write_office(offline)
     elif args == ['--prayers']:
         write_prayers(offline)
     elif args == []:

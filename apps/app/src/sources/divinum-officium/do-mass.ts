@@ -15,6 +15,7 @@ import { ordinaryChants } from '@/features/chant/ordinary'
 import { findMassChants } from '@/features/chant/propers'
 import type { ContentSource, SourceFetchContext } from '../types'
 import { mapItemsToPrimitives } from './blocks'
+import { chantPrimitive, partNames, withChant } from './chant'
 import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
@@ -42,7 +43,7 @@ export const doMassSource: ContentSource<Primitive[]> = {
         weekday: dayofweek,
         commune,
       })
-      return withChant(mass.vernacular ?? mass.latin, mass.latin, ordinary)
+      return withChant(mass.vernacular ?? mass.latin, mass.latin, massChant(ordinary))
     }
     // The columns pair by position and only the Latin heads are the same in
     // every language, so the Latin column says which items to keep in both.
@@ -57,58 +58,16 @@ export const doMassSource: ContentSource<Primitive[]> = {
 const head = /^(?:#|!!)\s*(.*)/
 
 /**
- * The Mass as primitives, each sung part followed by its chant where the corpus
- * has it: a proper's, found by its text, and the ordinary's, which the day's
- * rank chooses from the Kyriale. Items are mapped in runs that end at such a
- * part; a run starts on an item's head, which is where the mapper starts afresh
- * anyway.
+ * The chant of an item of the Mass: a proper's, found by its text, or the
+ * ordinary's, which the day's rank chose from the Kyriale.
  */
-async function withChant(
-  primary: string[],
-  latin: string[],
-  ordinary: Record<string, Chant>,
-): Promise<Primitive[]> {
-  const chants = await Promise.all(
-    latin.map(async (item): Promise<Primitive[]> => {
-      const [first, ...lines] = item.split('\n')
-      const name = head.exec(first)?.[1].trim()
-      if (!name) return []
-      if (ordinary[name]) return [chantPrimitive(ordinary[name])]
-      const propers = await findMassChants(name, lines)
-      return propers.map((chant) => chantPrimitive(chant, partNames[chant.genre]))
-    }),
-  )
-  const out: Primitive[] = []
-  let start = 0
-  chants.forEach((found, i) => {
-    if (!found.length) return
-    out.push(...mapItemsToPrimitives(primary.slice(start, i + 1), latin.slice(start, i + 1)))
-    out.push(...found)
-    start = i + 1
-  })
-  out.push(...mapItemsToPrimitives(primary.slice(start), latin.slice(start)))
-  return out
-}
-
-function chantPrimitive(chant: Chant, part?: string): Primitive {
-  return {
-    type: 'chant',
-    name: chant.name,
-    part,
-    mode: chant.mode,
-    commentary: chant.commentary,
-    book: chant.book,
-    transcriber: chant.transcriber,
-    score: chant.score,
+function massChant(ordinary: Record<string, Chant>) {
+  return async (item: string): Promise<Primitive[]> => {
+    const [first, ...lines] = item.split('\n')
+    const name = head.exec(first)?.[1].trim()
+    if (!name) return []
+    if (ordinary[name]) return [chantPrimitive(ordinary[name])]
+    const propers = await findMassChants(name, lines)
+    return propers.map((chant) => chantPrimitive(chant, partNames[chant.genre]))
   }
-}
-
-const partNames = {
-  in: 'Introitus',
-  gr: 'Graduale',
-  al: 'Alleluia',
-  tr: 'Tractus',
-  of: 'Offertorium',
-  co: 'Communio',
-  se: 'Sequentia',
 }

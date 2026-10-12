@@ -34,10 +34,16 @@ const noteGroups = /(\([^)]*\))/
  * resolved or dropped, the notation itself untouched.
  */
 export function engravableScore(score: string): string {
-  return score
-    .split(noteGroups)
-    .map((part, i) => (i % 2 ? engravableNotes(part) : engravableText(part)))
-    .join('')
+  return (
+    score
+      // Verbatim TeX that holds a parenthesis — an alternate word set beside
+      // the text, `[<v>\\textup{(Haec)}</v>]` — would be read as a group of
+      // notes once the score is split on them. It goes first, brackets and all.
+      .replace(/\[?<v>[^<]*[()][^<]*<\/v>\]?/g, '')
+      .split(noteGroups)
+      .map((part, i) => (i % 2 ? engravableNotes(part) : engravableText(part)))
+      .join('')
+  )
 }
 
 function engravableText(text: string): string {
@@ -50,6 +56,8 @@ function engravableText(text: string): string {
       .replace(/<v>\\greheightstar<\/v>/g, '*')
       // Any other verbatim TeX command is spacing (`\kern 6mm`, `\hspace`).
       .replace(/<v>\\[a-zA-Z]+[^<]*<\/v>/g, '')
+      // A TeX command dressing a word (`\\textup{(Haec)}`): the word stays, undressed.
+      .replace(/\\[a-zA-Z]+\{([^}]*)\}/g, '$1')
       // TeX's spaces — the non-breaking `~` and the forced `\\ ` — used to nudge a syllable along the staff.
       .replace(/~|\\ /g, ' ')
   )

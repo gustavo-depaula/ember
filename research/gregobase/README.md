@@ -4,8 +4,8 @@
 library to browse (the Kyriale, shipped), where else in Ember does that data
 belong, and by what mechanism does a score get to the text it sets?
 
-**Where things stand.** Three mechanisms are built and running on a branch;
-one more is measured and not built. The numbers below are reproducible with the
+**Where things stand.** Six uses are built and running on a branch; what was
+left unbuilt is listed with the reason. The numbers below are reproducible with the
 scripts here.
 
 ## The idea everything rests on: link by the words
@@ -81,8 +81,9 @@ to must not be in it. Hence two tiers:
   each): browsable, searchable, addressable as `chant/<id>`.
 - **Propers** — a score reached only through the text it sets
   (`content/chant-propers/`): bundled 48 to a blob by genre, behind one
-  `chant-index` blob that maps a text's folded opening to `<bundle>/<chant>`.
-  A Mass opens the index and five or six bundles.
+  `chant-index/<genre>` blob a genre that maps a text's folded opening to
+  `<bundle>/<chant>`. A Mass opens six small indexes and as many bundles, and
+  never the antiphons' index, which is the large one (≈120 KB).
 
 ## What is built (branch, not main)
 
@@ -119,13 +120,38 @@ Two ways a text gets its chant were tried side by side on purpose:
 | Choice of melody | the importer's book ranking | explicit, reviewable in the diff |
 | Fits | machine-assembled liturgy | hand-authored practices |
 
+6. **The day hours sing.** After <https://breviariumgregorianum.com>, which
+   builds the sung Office of 1962 from the same three things Ember already
+   holds (Divinum Officium's text, GregoBase's scores, exsurge). The antiphons,
+   hymns and short responsories of Lauds to Compline are followed by their
+   chant, by the same text index. 1,502 scores from the Roman books (Liber
+   antiphonarius 1960, Liber Usualis, Antiphonale Romanum 1912). Assembling
+   the seven day hours on every fifth day of a year and looking each piece up:
+
+   | | Antiphons | Hymn | Short responsory |
+   |---|---|---|---|
+   | Lauds | 449 / 455 | 73 / 73 | — |
+   | Prime | 69 / 75 | 73 / 73 | 73 / 73 |
+   | Terce, Sext, None | 210 / 225 | 218 / 219 | 213 / 219 |
+   | Vespers | 417 / 418 | 71 / 74 | — |
+   | Compline | 150 / 150 | 74 / 74 | 74 / 74 |
+
+   The psalter's antiphons are not under sections named for antiphons in
+   Divinum Officium (`[Day0 Vespera]`, `Feria II = …`), so they are known by
+   the shape of their line; that alone took Vespers from 39% to 100%.
+
 ## Not built, and why
 
-- **The Divine Office.** 80% of its chant is in GregoBase and the same index
-  would serve it. Not imported: 920 of those scores are from the *Nocturnale
-  Romanum* (2002), a modern edition whose 33 flagged chants suggest its status
-  wants a look before 900 more ship; and the hours need a decision on where a
-  score sits beside a psalm it is only the antiphon of.
+- **Matins.** Its responsories are 920 scores of the *Nocturnale Romanum*
+  (2002, the edition that site also draws on). GregoBase flags 33 of that
+  book's chants as copyrighted, so its status wants a look before 900 more
+  ship; and a responsory has no line of its own in an assembled hour to hang a
+  chant on.
+- **Notated psalmody**, the other half of what that site does: the psalm
+  itself pointed to its tone, verse by verse. It needs the eight tones and
+  their endings as data, Latin accentuation for the cadences, and the tone of
+  each psalm read from its antiphon's mode and `euouae`. A project of its own;
+  the antiphons now in the corpus carry the mode and ending it would start from.
 - **The Ordinary Form.** The Graduale Romanum of 1974 is thin in GregoBase
   (≈300 scores) and the Missal's spoken antiphons often differ from the
   Gradual's sung ones, so text-linking will not carry it. It needs the *Ordo
