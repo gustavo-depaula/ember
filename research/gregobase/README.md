@@ -147,11 +147,8 @@ Two ways a text gets its chant were tried side by side on purpose:
   book's chants as copyrighted, so its status wants a look before 900 more
   ship; and a responsory has no line of its own in an assembled hour to hang a
   chant on.
-- **Notated psalmody**, the other half of what that site does: the psalm
-  itself pointed to its tone, verse by verse. It needs the eight tones and
-  their endings as data, Latin accentuation for the cadences, and the tone of
-  each psalm read from its antiphon's mode and `euouae`. A project of its own;
-  the antiphons now in the corpus carry the mode and ending it would start from.
+- **Notated psalmody in the app** — see the next section: it works here, in
+  Node, and is not yet wired to a screen.
 - **The Ordinary Form.** The Graduale Romanum of 1974 is thin in GregoBase
   (≈300 scores) and the Missal's spoken antiphons often differ from the
   Gradual's sung ones, so text-linking will not carry it. It needs the *Ordo
@@ -160,6 +157,40 @@ Two ways a text gets its chant were tried side by side on purpose:
   larger sections with no head of their own to hang a chant line on.
 - **Melody in the app.** `melodyOf` is shared code, but `expo-audio` is excluded
   from the native build, so playback there waits on a rebuild.
+
+## Notated psalmody (`psalmody/`): works, not yet in the app
+
+The other half of what breviariumgregorianum.com does: the psalm itself set
+to its tone, every verse pointed. Everything it needs is already in the corpus
+or in the public domain:
+
+- **The tone** is the antiphon's mode. **The ending** is in the antiphon's own
+  score: the notes over its closing `E u o u a e`. Matching those six groups
+  against each ending of the tone names it.
+- **The pointing** — which syllable takes which note of the cadence — is
+  jgabc's `psalmtone.js` (github.com/bbloomf/jgabc, The Unlicense), the code
+  that site uses. Vendored here unchanged; it runs in Node with three stubs.
+- **The verses** come from the assembled hour, already marked with `*` and
+  with their accents.
+
+Of the 1,264 antiphons imported for the Office:
+
+| | antiphons |
+|---|---|
+| name their psalm's tone and ending | 798 |
+| transcribed without an `euouae` (Benedictus and Magnificat antiphons, mostly) | 383 |
+| carry an ending the tone tables do not list (64 of them in tone 8) | 73 |
+| have no mode, or the tonus peregrinus | 10 |
+
+`node research/gregobase/psalmody/psalmody.cjs an-magna-opera-domini-2908
+"Confitébor tibi, Dómine, in toto corde meo: * in consílio justórum, et
+congregatióne." …` gives GABC in tone 3 b, which the app's engraver draws as
+any other score (`psalmody/sample-psalm-110.svg`). Not heard: the pointing was
+read, not sung, by its author.
+
+To put it in the app: `psalmtone.js` is a browser script of 2012 that wants to
+be made a module, and a psalm of thirty verses is thirty staves — it wants
+the "folded line" treatment the antiphons have, per psalm.
 
 ## Open questions for a human
 
@@ -174,6 +205,8 @@ Two ways a text gets its chant were tried side by side on purpose:
 
 ## Files
 
+- `psalmody/` — the tone-and-ending finder and pointing trial, with jgabc's
+  `psalmtone.js` vendored under its Unlicense.
 - `gb.py` — the dump as records; `link_mass.py`, `link_office.py`,
   `link_practices.py` — the three linking runs and their `*-links.json`;
   `pack.py` — the shipping measurements.
