@@ -36,8 +36,10 @@ export function SungBlock({
   // Engraving a score is work: it waits until the reader first turns towards it.
   const [engraved, setEngraved] = useState(false)
 
-  // The title stays put over both faces, and the staff sits on its line.
-  const title = text[0]?.type === 'heading' ? text[0] : undefined
+  // The title stays put over both faces, and the staff sits on its line. In
+  // the Mass that is a heading; an hour names its psalm in a rubric.
+  const title = text[0]?.type === 'heading' || text[0]?.type === 'rubric' ? text[0] : undefined
+  const heading = title?.type === 'heading' ? title : undefined
   const body = title ? text.slice(1) : text
   // Under the notes, what they say: the Latin is in the score, so one who reads
   // in another language gets the words back, quietly. Of a psalm only its
@@ -45,9 +47,11 @@ export function SungBlock({
   const latin = usePreferencesStore((s) => s.contentLanguage) === 'la'
   const gloss = latin ? [] : glossOf(body)
 
+  // The staff only asks the pager to turn. Which face shows is read back from
+  // where the pager actually is, so the two can never disagree: a turn that is
+  // interrupted leaves the block on the face it stopped at, at that face's height.
   function turn(to: boolean) {
     setEngraved(true)
-    setSung(to)
     pager.current?.scrollTo({ x: to ? width : 0, animated: true })
   }
 
@@ -70,12 +74,16 @@ export function SungBlock({
   }
 
   // The pager is as tall as the face it shows; left alone it would take the
-  // taller one's height and leave a gap under the other.
+  // taller one's height and leave a gap under the other. Until a face has been
+  // measured it is left alone: a gap is better than a block shut to nothing.
   const height = (sung ? heights.score : heights.text) || undefined
 
   return (
     <YStack onLayout={(e) => setWidth(e.nativeEvent.layout.width)}>
-      <XStack alignItems="flex-start" gap="$sm">
+      {/* Centred on the title's line. A heading keeps its top padding and may
+          carry a note beneath: the staff takes the same padding and stays by
+          the first line. */}
+      <XStack alignItems={heading?.note ? 'flex-start' : 'center'} gap="$sm">
         <YStack flex={1}>{title ? renderText(title, 0) : null}</YStack>
         <Pressable
           onPress={() => turn(!sung)}
@@ -86,8 +94,11 @@ export function SungBlock({
           })}
           accessibilityState={{ selected: sung }}
           aria-selected={sung}
-          // Lowered onto the title's own line, which sits under the heading's top padding.
-          style={{ minHeight: 32, marginTop: title ? 14 : 0, justifyContent: 'center' }}
+          style={{
+            minHeight: 32,
+            paddingTop: heading ? headingPadding : 0,
+            justifyContent: 'center',
+          }}
         >
           <Staff color={sung ? theme.color.val : theme.accentHover.val} />
           <View
@@ -107,7 +118,8 @@ export function SungBlock({
           style={{ height }}
           contentContainerStyle={{ alignItems: 'flex-start' }}
           onScrollBeginDrag={() => setEngraved(true)}
-          onMomentumScrollEnd={(e) => setSung(e.nativeEvent.contentOffset.x > width / 2)}
+          scrollEventThrottle={16}
+          onScroll={(e) => setSung(e.nativeEvent.contentOffset.x > width / 2)}
         >
           <YStack
             width={width}
@@ -122,7 +134,7 @@ export function SungBlock({
           <YStack
             width={width}
             gap="$lg"
-            paddingBottom="$sm"
+            paddingBottom={engraved ? '$sm' : 0}
             onLayout={(e) => {
               const score = e.nativeEvent.layout.height
               setHeights((was) => ({ ...was, score }))
@@ -153,6 +165,9 @@ export function SungBlock({
     </YStack>
   )
 }
+
+// SectionHeading's own top padding (`$sm`), which the staff beside it matches.
+const headingPadding = 8
 
 // A proper of the Mass runs to a few lines; a psalm or a hymn to dozens, which
 // under a score would be the whole text over again.
