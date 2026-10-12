@@ -1,3 +1,5 @@
+import type { ServiceKind } from '@ember/api'
+
 export type Tier = 'essential' | 'ideal' | 'extra'
 export type TimeBlock = 'morning' | 'daytime' | 'evening' | 'flexible'
 
@@ -76,4 +78,24 @@ export type UserCollectionItem = {
   label?: string
   position: number
   addedAt: number
+}
+
+/** A church the user keeps to hand, with enough of it to list without the network. */
+export type FavoriteChurch = {
+  id: string
+  name: string
+  city?: string
+  region?: string
+}
+
+export type CheckInKind = ServiceKind | 'visit'
+
+/** A visit recorded while there, naming what it was for. */
+export type CheckIn = {
+  id: string
+  churchId: string
+  churchName: string
+  kind: CheckInKind
+  note?: string
+  at: string // ISO timestamp
 }

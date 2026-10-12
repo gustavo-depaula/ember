@@ -41,8 +41,6 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { useDbInit } from '@/db/client'
-import { useCheckInsStore } from '@/features/mass-times/checkins'
-import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
@@ -113,16 +111,12 @@ export default function RootLayout() {
     hydrate: hydratePrefs,
   } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
-  const hydrateFavorites = useFavoritesStore((s) => s.hydrate)
-  const hydrateCheckIns = useCheckInsStore((s) => s.hydrate)
 
   useEffect(() => {
     if (!dbReady) return
     hydratePrefs()
     hydrateBible()
-    hydrateFavorites()
-    hydrateCheckIns()
-  }, [dbReady, hydratePrefs, hydrateBible, hydrateFavorites, hydrateCheckIns])
+  }, [dbReady, hydratePrefs, hydrateBible])
 
   const [corpusReady, setCorpusReady] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)

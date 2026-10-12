@@ -302,6 +302,34 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
+    case 'ChurchFavorited': {
+      draft.favoriteChurches.set(event.church.id, event.church)
+      break
+    }
+
+    case 'ChurchUnfavorited': {
+      draft.favoriteChurches.delete(event.churchId)
+      break
+    }
+
+    case 'CheckInLogged': {
+      draft.checkIns.set(event.checkIn.id, event.checkIn)
+      break
+    }
+
+    case 'CheckInRemoved': {
+      draft.checkIns.delete(event.checkInId)
+      break
+    }
+
+    case 'ReadingLogged': {
+      const read = draft.reading.get(event.bookId) ?? { ms: 0, days: new Set<string>() }
+      read.ms += event.ms
+      read.days.add(event.date)
+      draft.reading.set(event.bookId, read)
+      break
+    }
+
     case 'PreferenceSet': {
       if (event.value === null) draft.preferences.delete(event.key)
       else draft.preferences.set(event.key, event.value)

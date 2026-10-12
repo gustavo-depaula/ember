@@ -10,7 +10,7 @@ import type { NearbyChurch } from '@/lib/mass-times'
 import { nextService, useChurch, useChurchSearch, wallClockNow } from '@/lib/mass-times'
 import { useDebounced } from '@/lib/useDebounced'
 import { useCheckInCount } from '../checkins'
-import { useFavoritesStore } from '../favorites'
+import { useFavorites } from '../favorites'
 import { dayLabel, daysAway, formatDistanceKm, formatTimeOfDay } from '../format'
 import { type MassFilter, type MassTimesNearby, passesFilter } from '../useMassTimesNearby'
 import { ChurchDetail } from './ChurchDetail'
@@ -260,7 +260,7 @@ function BrowseSearch({
   const debounced = useDebounced(query.trim(), 250)
   const searching = debounced.length >= 2
   const search = useChurchSearch(debounced, nearby.kind, nearby.center)
-  const favorites = useFavoritesStore((s) => s.favorites)
+  const favorites = useFavorites()
   const results = (search.data ?? []).filter((c) => passesFilter(c, filter, favorites))
 
   return (

@@ -1,4 +1,11 @@
-import type { CompletionVia, HolyCardCopy, Tier, TimeBlock } from '../schema'
+import type {
+  CheckIn,
+  CompletionVia,
+  FavoriteChurch,
+  HolyCardCopy,
+  Tier,
+  TimeBlock,
+} from '../schema'
 
 type PracticeCreated = {
   type: 'PracticeCreated'
@@ -209,6 +216,22 @@ export type CollectionEvent =
   | CollectionItemRemoved
   | CollectionItemsReordered
 
+type ChurchFavorited = { type: 'ChurchFavorited'; church: FavoriteChurch }
+
+type ChurchUnfavorited = { type: 'ChurchUnfavorited'; churchId: string }
+
+type CheckInLogged = { type: 'CheckInLogged'; checkIn: CheckIn }
+
+type CheckInRemoved = { type: 'CheckInRemoved'; checkInId: string }
+
+export type ChurchEvent = ChurchFavorited | ChurchUnfavorited | CheckInLogged | CheckInRemoved
+
+// Time spent reading a book on `date`. Each is an addition, so what two
+// devices read apart sums; `ms: 0` only marks the day as one the book was read.
+type ReadingLogged = { type: 'ReadingLogged'; bookId: string; date: string; ms: number }
+
+export type ReadingEvent = ReadingLogged
+
 // A preference that follows the person from device to device; null clears it.
 type PreferenceSet = { type: 'PreferenceSet'; key: string; value: string | null }
 
@@ -221,6 +244,8 @@ export type AppEvent =
   | HolyCardEvent
   | SavedItemEvent
   | CollectionEvent
+  | ChurchEvent
+  | ReadingEvent
   | PreferenceEvent
 
 export type StoredEvent = {

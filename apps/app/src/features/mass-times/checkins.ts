@@ -1,122 +1,77 @@
-import type { ServiceKind } from '@ember/api'
 import { format } from 'date-fns'
-import { create } from 'zustand'
-import { immer } from 'zustand/middleware/immer'
-import { useShallow } from 'zustand/react/shallow'
+import { useMemo } from 'react'
+
+import { emit, useEventStore } from '@/db/events'
+import type { CheckIn, CheckInKind } from '@/db/schema'
 import { completePractice } from '@/features/plan-of-life'
 import { getToday } from '@/hooks/useToday'
 import { randomId } from '@/lib/id'
-import { loadJson, saveJson, withRetry } from './persisted'
+import { withRetry } from './persisted'
 
-// A personal, on-device log of church check-ins — visits you record while you're there (a quiet
-// devotional record, not a leaderboard). A check-in names what you were there for; a Mass check-in
+// A personal log of church check-ins — visits you record while you're there (a quiet devotional
+// record, not a leaderboard). A check-in names what you were there for; a Mass check-in
 // additionally completes the "mass" practice (see CheckInButton), so Mass attendance isn't a separate
-// concept from the plan of life. Persisted as JSON in the preferences KV. Newest first.
+// concept from the plan of life.
 
-const storageKey = 'mass-times.checkins'
+export type { CheckIn, CheckInKind }
 
-export type CheckInKind = ServiceKind | 'visit'
-
-export type CheckIn = {
-  id: string
-  churchId: string
-  churchName: string
-  kind: CheckInKind
-  note?: string
-  at: string // ISO timestamp
+/** Rejects, leaving the log as it was, when the check-in could not be saved. */
+export async function checkIn(
+  church: { id: string; name: string },
+  details: { kind: CheckInKind; note?: string },
+  at = new Date(),
+): Promise<void> {
+  const entry: CheckIn = {
+    id: randomId(),
+    churchId: church.id,
+    churchName: church.name,
+    kind: details.kind,
+    note: details.note?.trim() || undefined,
+    at: at.toISOString(),
+  }
+  await withRetry(() => emit({ type: 'CheckInLogged', checkIn: entry }))
+  // A Mass check-in IS a completion of the "mass" practice — record it so it flows into the plan
+  // of life / streaks rather than being a parallel tally. (Domain rule lives here, not the UI.)
+  if (details.kind !== 'mass') return
+  try {
+    await withRetry(() =>
+      completePractice('mass', format(getToday(), 'yyyy-MM-dd'), { via: 'checkin' }),
+    )
+  } catch (err) {
+    await emit({ type: 'CheckInRemoved', checkInId: entry.id })
+    throw err
+  }
 }
 
-type CheckInsState = {
-  checkins: CheckIn[]
-  hydrated: boolean
-  /** Both reject, leaving the log as it was, when the change could not be saved. */
-  checkIn: (
-    church: { id: string; name: string },
-    details: { kind: CheckInKind; note?: string },
-    at?: Date,
-  ) => Promise<void>
-  remove: (id: string) => Promise<void>
-  hydrate: () => Promise<void>
+/** Rejects, leaving the log as it was, when the removal could not be saved. */
+export async function removeCheckIn(id: string): Promise<void> {
+  await emit({ type: 'CheckInRemoved', checkInId: id })
 }
-
-export const useCheckInsStore = create<CheckInsState>()(
-  immer((set, get) => ({
-    checkins: [],
-    hydrated: false,
-
-    // The log changes on screen only once it is on disk: a check-in that shows
-    // and then is gone after a restart is worse than one that says it failed.
-    checkIn: async (church, details, at = new Date()) => {
-      const entry: CheckIn = {
-        id: randomId(),
-        churchId: church.id,
-        churchName: church.name,
-        kind: details.kind,
-        note: details.note?.trim() || undefined,
-        at: at.toISOString(),
-      }
-      const before = get().checkins
-      await saveJson(storageKey, [entry, ...before])
-      // A Mass check-in IS a completion of the "mass" practice — record it so it flows into the plan
-      // of life / streaks rather than being a parallel tally. (Domain rule lives here, not the UI.)
-      if (details.kind === 'mass') {
-        try {
-          await withRetry(() =>
-            completePractice('mass', format(getToday(), 'yyyy-MM-dd'), { via: 'checkin' }),
-          )
-        } catch (err) {
-          await saveJson(storageKey, before)
-          throw err
-        }
-      }
-      set((state) => {
-        state.checkins.unshift(entry)
-      })
-    },
-
-    remove: async (id) => {
-      await saveJson(
-        storageKey,
-        get().checkins.filter((c) => c.id !== id),
-      )
-      set((state) => {
-        state.checkins = state.checkins.filter((c) => c.id !== id)
-      })
-    },
-
-    hydrate: async () => {
-      const stored = await loadJson<CheckIn[]>(storageKey, [])
-      set((state) => {
-        state.checkins = stored
-        state.hydrated = true
-      })
-    },
-  })),
-)
 
 export function useCheckInCount(): number {
-  return useCheckInsStore((s) => s.checkins.length)
+  return useEventStore((s) => s.checkIns.size)
 }
 
+/** Every check-in, newest first. */
 export function useRecentCheckIns(): CheckIn[] {
-  return useCheckInsStore((s) => s.checkins)
+  const checkIns = useEventStore((s) => s.checkIns)
+  return useMemo(() => [...checkIns.values()].sort((a, b) => b.at.localeCompare(a.at)), [checkIns])
 }
 
 // One local day's check-ins, in the order they happened.
 export function useCheckInsOn(date: string): CheckIn[] {
-  return useCheckInsStore(
-    useShallow((s) =>
-      s.checkins.filter((c) => format(new Date(c.at), 'yyyy-MM-dd') === date).reverse(),
-    ),
+  const recent = useRecentCheckIns()
+  return useMemo(
+    () => recent.filter((c) => format(new Date(c.at), 'yyyy-MM-dd') === date).reverse(),
+    [recent, date],
   )
 }
 
 // Per-church: how many times you've checked in, and when last.
 export function useChurchAttendance(churchId: string): { count: number; last?: string } {
-  return useCheckInsStore(
-    useShallow((s) => {
-      const mine = s.checkins.filter((c) => c.churchId === churchId)
-      return { count: mine.length, last: mine[0]?.at }
-    }),
-  )
+  const recent = useRecentCheckIns()
+  return useMemo(() => {
+    const mine = recent.filter((c) => c.churchId === churchId)
+    return { count: mine.length, last: mine[0]?.at }
+  }, [recent, churchId])
 }

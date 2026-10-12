@@ -1,14 +1,28 @@
+import { format } from 'date-fns'
+
 import type { EmberDb } from '@/lib/db-shared/protocol'
 
 import { emitBatch, useEventStore } from './events'
 import type { AppEvent } from './events/types'
 import { syncedPreferences } from './repositories/preferences'
+import type { CheckIn, FavoriteChurch } from './schema'
 
-// The shelf, the user's collections and the preferences that follow the person
-// were rows in tables of their own, which only this database could read. They
-// belong to the event log now; rows written before are carried into it here,
-// and their tables dropped. Carrying them twice would change nothing, so a
-// launch cut short between the two steps is safe.
+// Kept in the preferences table as one value each; events and cursors now.
+const keptAsValues = {
+  favorites: 'mass-times.favorites',
+  checkIns: 'mass-times.checkins',
+  bibleBook: 'bible-book',
+  bibleChapter: 'bible-chapter',
+  bibleUpdatedAt: 'bible-updated-at',
+  biblePlaces: 'bible-places',
+}
+
+// The shelf, the user's collections, favourite churches, check-ins, the place in
+// the Bible and the preferences that follow the person were rows of tables only
+// this database could read. They belong to the event log now; rows written
+// before are carried into it here, and their tables dropped. Carrying them
+// twice would change nothing, so a launch cut short between the two steps is
+// safe.
 export async function adoptLegacyTables(db: EmberDb): Promise<void> {
   const tables = new Set(
     (
@@ -18,7 +32,7 @@ export async function adoptLegacyTables(db: EmberDb): Promise<void> {
     ).map((row) => row.name),
   )
   const travelling = 'key IN (SELECT value FROM json_each(?))'
-  const keys = [JSON.stringify([...syncedPreferences])]
+  const keys = [JSON.stringify([...syncedPreferences, ...Object.values(keptAsValues)])]
   const preferences = await db.getAllAsync<{ key: string; value: string }>(
     `SELECT key, value FROM preferences WHERE ${travelling}`,
     keys,
@@ -73,8 +87,40 @@ export async function adoptLegacyTables(db: EmberDb): Promise<void> {
   }
 
   const known = useEventStore.getState().preferences
-  for (const { key, value } of preferences) {
-    if (!known.has(key)) events.push({ type: 'PreferenceSet', key, value })
+  const stored = new Map(preferences.map(({ key, value }) => [key, value]))
+  for (const [key, value] of stored) {
+    if (syncedPreferences.has(key) && !known.has(key)) {
+      events.push({ type: 'PreferenceSet', key, value })
+    }
+  }
+
+  const favorites = stored.get(keptAsValues.favorites)
+  for (const church of Object.values(favorites ? JSON.parse(favorites) : {}) as FavoriteChurch[]) {
+    events.push({ type: 'ChurchFavorited', church })
+  }
+  const checkIns = stored.get(keptAsValues.checkIns)
+  for (const checkIn of (checkIns ? JSON.parse(checkIns) : []) as CheckIn[]) {
+    events.push({ type: 'CheckInLogged', checkIn })
+  }
+
+  const startedAt = format(new Date(), 'yyyy-MM-dd')
+  const bookId = stored.get(keptAsValues.bibleBook)
+  if (bookId) {
+    const position = {
+      bookId,
+      chapter: Number(stored.get(keptAsValues.bibleChapter) ?? 1),
+      updatedAt: Number(stored.get(keptAsValues.bibleUpdatedAt)) || undefined,
+    }
+    events.push({
+      type: 'CursorSet',
+      cursorId: 'bible',
+      position: JSON.stringify(position),
+      startedAt,
+    })
+  }
+  const places = stored.get(keptAsValues.biblePlaces)
+  if (places) {
+    events.push({ type: 'CursorSet', cursorId: 'bible/places', position: places, startedAt })
   }
 
   if (events.length > 0) await emitBatch(events)

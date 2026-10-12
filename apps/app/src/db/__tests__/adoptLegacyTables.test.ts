@@ -10,7 +10,7 @@ import { beforeEach, describe, expect, it } from 'vitest'
 import { createEventsTable, replayAll, useEventStore } from '@/db/events'
 import { setDb } from '@/db/instance'
 import initialMigration from '@/db/migrations/0001_initial.sql'
-import { createPracticeWithSlot, logCompletion } from '@/db/repositories'
+import { createPracticeWithSlot, getCursor, logCompletion } from '@/db/repositories'
 import { getAllPreferences, getPreference, setPreference } from '@/db/repositories/preferences'
 import { getSavedItems } from '@/db/repositories/savedItems'
 import { getUserCollectionItems, getUserCollections } from '@/db/repositories/userCollections'
@@ -32,7 +32,11 @@ INSERT INTO user_collection_items VALUES
   ('lent', 'practice/stations', 'default', NULL, 1, 50),
   ('lent', 'practice/rosary', 'default', NULL, 0, 60),
   ('advent', 'practice/angelus', 'default', NULL, 0, 70);
-INSERT INTO preferences VALUES ('translation', 'DRB'), ('jurisdiction', 'BR'), ('theme', 'dark');
+INSERT INTO preferences VALUES ('translation', 'DRB'), ('jurisdiction', 'BR'), ('theme', 'dark'),
+  ('mass-times.favorites', '{"c1":{"id":"c1","name":"Sé","city":"São Paulo"}}'),
+  ('mass-times.checkins', '[{"id":"k2","churchId":"c1","churchName":"Sé","kind":"mass","at":"2026-05-17T13:00:00.000Z"},{"id":"k1","churchId":"c1","churchName":"Sé","kind":"visit","at":"2026-05-10T13:00:00.000Z"}]'),
+  ('bible-book', 'john'), ('bible-chapter', '6'), ('bible-updated-at', '1700000000000'),
+  ('bible-places', '[{"bookId":"john","chapter":6}]');
 `
 
 async function state() {
@@ -42,6 +46,9 @@ async function state() {
     collections: collections.map((c) => `${c.name} ${c.description} ${c.coverTone} ${c.updatedAt}`),
     lent: (await getUserCollectionItems('lent')).map((i) => `${i.ref} ${i.addedAt}`),
     preferences: await getAllPreferences(),
+    churches: [...useEventStore.getState().favoriteChurches.values()].map((c) => c.name),
+    checkIns: [...useEventStore.getState().checkIns.values()].map((c) => `${c.id} ${c.kind}`),
+    bible: [getCursor('bible')?.position, getCursor('bible/places')?.position],
   }
 }
 
@@ -65,6 +72,12 @@ describe('opening a database that kept the shelf and collections in tables', () 
       collections: ['Lent Forty days 2 900', 'Advent undefined 0 500'],
       lent: ['practice/rosary 60', 'practice/stations 50'],
       preferences: { translation: 'DRB', jurisdiction: 'BR', theme: 'dark' },
+      churches: ['Sé'],
+      checkIns: ['k2 mass', 'k1 visit'],
+      bible: [
+        '{"bookId":"john","chapter":6,"updatedAt":1700000000000}',
+        '[{"bookId":"john","chapter":6}]',
+      ],
     })
 
     await replayAll()

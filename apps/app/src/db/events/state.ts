@@ -5,8 +5,10 @@ import { immer } from 'zustand/middleware/immer'
 enableMapSet()
 
 import type {
+  CheckIn,
   Completion,
   Cursor,
+  FavoriteChurch,
   HolyCardCopy,
   SavedItem,
   Tier,
@@ -50,6 +52,10 @@ export type EventStoreState = {
   /** The library shelf, in the order saved. */
   savedItems: Map<string, SavedItem>
   collections: Map<string, CollectionState>
+  favoriteChurches: Map<string, FavoriteChurch>
+  checkIns: Map<string, CheckIn>
+  /** Per book: the time read and the days it was read on. */
+  reading: Map<string, { ms: number; days: Set<string> }>
   /** The preferences that follow the person: see `syncedPreferences`. */
   preferences: Map<string, string>
 
@@ -69,6 +75,9 @@ function emptyState() {
     holyCards: new Map<string, HolyCardCopy>(),
     savedItems: new Map<string, SavedItem>(),
     collections: new Map<string, CollectionState>(),
+    favoriteChurches: new Map<string, FavoriteChurch>(),
+    checkIns: new Map<string, CheckIn>(),
+    reading: new Map<string, { ms: number; days: Set<string> }>(),
     preferences: new Map<string, string>(),
   }
 }

@@ -61,7 +61,7 @@ import { ReaderTocSheet } from './ReaderTocSheet'
 import { useReaderFontFaces } from './readerFontFaces'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
 import { getReadingStreak, touchReadingStreak } from './readingStreak'
-import { getReadingTimeMs, persistReadingTimeMs } from './readingTime'
+import { addReadingTime, getReadingTimeMs } from './readingTime'
 import { recordReadingSession } from './sessionToast'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
@@ -446,11 +446,11 @@ export function BookReader({ bookId, chapter }: Props) {
     return () => clearTimeout(tid)
   }, [justCompletedTitle])
 
-  // Per-session reading time accrual. The local accumulator owns the running
-  // total so concurrent AppState flushes (iOS fires `inactive` then
-  // `background` back-to-back) don't race a read-then-write against the
-  // cursor store. Only `background` triggers a flush; `inactive` resets the
-  // session start. Initial total seeded from the persisted value on mount.
+  // Per-session reading time accrual. Each flush records what was read since
+  // the last one, so iOS firing `inactive` then `background` back-to-back
+  // can't count a stretch twice. Only `background` triggers a flush;
+  // `inactive` resets the session start. The total shown starts from what was
+  // read before this mount.
   const sessionStartRef = useRef(Date.now())
   const totalMsRef = useRef(getReadingTimeMs(bookId))
   // Counters scoped to this mount, surfaced via `recordReadingSession` on
@@ -465,7 +465,7 @@ export function BookReader({ bookId, chapter }: Props) {
       if (elapsed < 1000) return
       totalMsRef.current += elapsed
       sessionMsRef.current += elapsed
-      void persistReadingTimeMs(bookId, totalMsRef.current)
+      void addReadingTime(bookId, elapsed)
     }
     const sub = AppState.addEventListener('change', (s) => {
       if (s === 'background') flush()

@@ -17,7 +17,7 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, useThemeName } from 'tamagui'
 import { AnimatedPressable, GlassSurface } from '@/components'
 import type { Cluster } from '@/lib/mass-times'
-import { useFavoritesStore } from '../favorites'
+import { useFavorites } from '../favorites'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 import { clusterPrefix, pinColor } from './mapPins'
 import type { CameraIdle, CameraPosition, MapHandle, PinnedChurch } from './NativeChurchesMap'
@@ -66,7 +66,7 @@ const NativeChurchesMap = forwardRef<
   const accent = theme.accent.val
   const favoriteTint = theme.colorBurgundy?.val ?? accent
   const { churches, clusters, location } = nearby
-  const favorites = useFavoritesStore((s) => s.favorites)
+  const favorites = useFavorites()
 
   const cameraRef = useRef<CameraRef>(null)
   const [selectedId, setSelectedId] = useState('')
@@ -109,7 +109,7 @@ const NativeChurchesMap = forwardRef<
       type: 'FeatureCollection',
       features: [
         ...pins.map((p) => {
-          const isFavorite = Boolean(favorites[p.id])
+          const isFavorite = favorites.has(p.id)
           return {
             type: 'Feature' as const,
             geometry: { type: 'Point' as const, coordinates: [p.lng, p.lat] },
