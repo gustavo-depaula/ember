@@ -42,7 +42,7 @@
     // Cloudflare Access: the team's domain (<team>.cloudflareaccess.com) and the application's
     // audience tag. While either is empty the Worker answers on localhost only.
     "ACCESS_TEAM_DOMAIN": "dpgu.cloudflareaccess.com",
-    "ACCESS_AUD": ""
+    "ACCESS_AUD": "2c5de1710991624d71aa7a79db76f51ae30f12814f25dd163851626399df3104"
   }
   // Secret: CLAUDE_CODE_OAUTH_TOKEN, from `claude setup-token` (`wrangler secret put`, or
   // .dev.vars for `wrangler dev`).
