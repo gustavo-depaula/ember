@@ -66,7 +66,11 @@ async function renameToCorpusIds(): Promise<void> {
 async function recordReadingKeptAsTotals(): Promise<void> {
   const events: AppEvent[] = []
   const lastDayOf = new Map<string, string>()
-  const cursors = [...useEventStore.getState().cursors.values()]
+  const { reading, cursors: held } = useEventStore.getState()
+  // A book already recorded by the day was converted on a launch cut short.
+  const cursors = [...held.values()].filter(
+    (cursor) => !reading.has(/^book\/(.+)\/(streak|read-time)$/.exec(cursor.id)?.[1] ?? ''),
+  )
 
   for (const cursor of cursors) {
     const bookId = /^book\/(.+)\/streak$/.exec(cursor.id)?.[1]
