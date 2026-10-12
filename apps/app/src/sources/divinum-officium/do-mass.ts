@@ -10,6 +10,8 @@
 
 import { assembleMass, doLangDir, efVersion } from '@ember/divinum-officium'
 import type { Primitive } from '@/content/primitives'
+import type { Chant } from '@/features/chant/chants'
+import { ordinaryChants } from '@/features/chant/ordinary'
 import { findMassChants } from '@/features/chant/propers'
 import type { ContentSource, SourceFetchContext } from '../types'
 import { mapItemsToPrimitives } from './blocks'
@@ -17,7 +19,7 @@ import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
   id: 'producer/do-mass',
-  version: '12',
+  version: '13',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -31,7 +33,17 @@ export const doMassSource: ContentSource<Primitive[]> = {
       lang2: doLangDir(ctx.prefs.lang),
       propers: parts !== undefined,
     })
-    if (!parts) return withChant(mass.vernacular ?? mass.latin, mass.latin)
+    if (!parts) {
+      const { winner, rank, dayname, dayofweek, commune } = mass.day
+      const ordinary = await ordinaryChants({
+        winner,
+        rank,
+        week: dayname[0],
+        weekday: dayofweek,
+        commune,
+      })
+      return withChant(mass.vernacular ?? mass.latin, mass.latin, ordinary)
+    }
     // The columns pair by position and only the Latin heads are the same in
     // every language, so the Latin column says which items to keep in both.
     const wanted = mass.latin.map((item) =>
@@ -45,16 +57,25 @@ export const doMassSource: ContentSource<Primitive[]> = {
 const head = /^(?:#|!!)\s*(.*)/
 
 /**
- * The Mass as primitives, each sung proper followed by its chant where the
- * corpus has it. Items are mapped in runs that end at such a proper; a run
- * starts on an item's head, which is where the mapper starts afresh anyway.
+ * The Mass as primitives, each sung part followed by its chant where the corpus
+ * has it: a proper's, found by its text, and the ordinary's, which the day's
+ * rank chooses from the Kyriale. Items are mapped in runs that end at such a
+ * part; a run starts on an item's head, which is where the mapper starts afresh
+ * anyway.
  */
-async function withChant(primary: string[], latin: string[]): Promise<Primitive[]> {
+async function withChant(
+  primary: string[],
+  latin: string[],
+  ordinary: Record<string, Chant>,
+): Promise<Primitive[]> {
   const chants = await Promise.all(
-    latin.map((item) => {
+    latin.map(async (item): Promise<Primitive[]> => {
       const [first, ...lines] = item.split('\n')
       const name = head.exec(first)?.[1].trim()
-      return name ? findMassChants(name, lines) : []
+      if (!name) return []
+      if (ordinary[name]) return [chantPrimitive(ordinary[name])]
+      const propers = await findMassChants(name, lines)
+      return propers.map((chant) => chantPrimitive(chant, partNames[chant.genre]))
     }),
   )
   const out: Primitive[] = []
@@ -62,22 +83,24 @@ async function withChant(primary: string[], latin: string[]): Promise<Primitive[
   chants.forEach((found, i) => {
     if (!found.length) return
     out.push(...mapItemsToPrimitives(primary.slice(start, i + 1), latin.slice(start, i + 1)))
-    for (const chant of found) {
-      out.push({
-        type: 'chant',
-        name: chant.name,
-        part: partNames[chant.genre],
-        mode: chant.mode,
-        commentary: chant.commentary,
-        book: chant.book,
-        transcriber: chant.transcriber,
-        score: chant.score,
-      })
-    }
+    out.push(...found)
     start = i + 1
   })
   out.push(...mapItemsToPrimitives(primary.slice(start), latin.slice(start)))
   return out
+}
+
+function chantPrimitive(chant: Chant, part?: string): Primitive {
+  return {
+    type: 'chant',
+    name: chant.name,
+    part,
+    mode: chant.mode,
+    commentary: chant.commentary,
+    book: chant.book,
+    transcriber: chant.transcriber,
+    score: chant.score,
+  }
 }
 
 const partNames = {
