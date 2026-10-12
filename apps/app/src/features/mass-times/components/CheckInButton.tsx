@@ -6,7 +6,7 @@ import { Input, useTheme, XStack, YStack } from 'tamagui'
 import { AnimatedPressable, Typography } from '@/components'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import type { CheckInKind } from '../checkins'
-import { useCheckInsStore, useChurchAttendance } from '../checkins'
+import { checkIn, useChurchAttendance } from '../checkins'
 import { ChipButton } from './ChipButton'
 import { SmallCaps } from './SheetType'
 import { useSheetLift } from './sheetLift'
@@ -26,7 +26,6 @@ export function CheckInButton({
 }) {
   const { t } = useTranslation()
   const theme = useTheme()
-  const checkIn = useCheckInsStore((s) => s.checkIn)
   const liftSheet = useSheetLift()
   const { count, last } = useChurchAttendance(church.id)
 

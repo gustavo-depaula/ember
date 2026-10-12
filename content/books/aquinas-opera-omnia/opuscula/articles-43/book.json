@@ -3,19 +3,23 @@
   "cover": "label",
   "name": {
     "en-US": "Letter to John of Vercelli on the 43 Articles",
-    "la": "Epistola ad Ioannem Vercellensem de 43 Articulis"
+    "la": "Epistola ad Ioannem Vercellensem de 43 Articulis",
+    "pt-BR": "Carta a João de Vercelli sobre os 43 Artigos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's response to the Master General of the Dominicans, John of Vercelli, on 43 propositions excerpted from the works of a friar that were under inquiry — Aquinas defends most as orthodox and explains the others.",
-    "la": "Responsum Thomae Magistro Generali Ordinis Praedicatorum Ioanni Vercellensi, ad 43 propositiones ex operibus cuiusdam fratris excerptas — pleraeque a Thoma ut orthodoxae defenduntur."
+    "la": "Responsum Thomae Magistro Generali Ordinis Praedicatorum Ioanni Vercellensi, ad 43 propositiones ex operibus cuiusdam fratris excerptas — pleraeque a Thoma ut orthodoxae defenduntur.",
+    "pt-BR": "Resposta de Tomás ao Mestre Geral dos Dominicanos, João de Vercelli, sobre 43 proposições extraídas das obras de um frade que estavam sob exame — Tomás defende a maioria como ortodoxas e explica as demais."
   },
   "composed": 1271,
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -29,224 +33,256 @@
       "id": "43articuli-c01",
       "title": {
         "en-US": "Prologue",
-        "la": "Prologue"
+        "la": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "43articuli-c02",
       "title": {
         "en-US": "Articulus 1",
-        "la": "Articulus 1"
+        "la": "Articulus 1",
+        "pt-BR": "Artigo 1"
       }
     },
     {
       "id": "43articuli-c03",
       "title": {
         "en-US": "Articuli 2-3",
-        "la": "Articuli 2-3"
+        "la": "Articuli 2-3",
+        "pt-BR": "Artigos 2-3"
       }
     },
     {
       "id": "43articuli-c04",
       "title": {
         "en-US": "Articuli 4-5",
-        "la": "Articuli 4-5"
+        "la": "Articuli 4-5",
+        "pt-BR": "Artigos 4-5"
       }
     },
     {
       "id": "43articuli-c05",
       "title": {
         "en-US": "Articuli 6-7",
-        "la": "Articuli 6-7"
+        "la": "Articuli 6-7",
+        "pt-BR": "Artigos 6-7"
       }
     },
     {
       "id": "43articuli-c06",
       "title": {
         "en-US": "Articulus 8",
-        "la": "Articulus 8"
+        "la": "Articulus 8",
+        "pt-BR": "Artigo 8"
       }
     },
     {
       "id": "43articuli-c07",
       "title": {
         "en-US": "Articulus 9",
-        "la": "Articulus 9"
+        "la": "Articulus 9",
+        "pt-BR": "Artigo 9"
       }
     },
     {
       "id": "43articuli-c08",
       "title": {
         "en-US": "Articulus 10",
-        "la": "Articulus 10"
+        "la": "Articulus 10",
+        "pt-BR": "Artigo 10"
       }
     },
     {
       "id": "43articuli-c09",
       "title": {
         "en-US": "Articulus 11",
-        "la": "Articulus 11"
+        "la": "Articulus 11",
+        "pt-BR": "Artigo 11"
       }
     },
     {
       "id": "43articuli-c10",
       "title": {
         "en-US": "Articuli 12-14",
-        "la": "Articuli 12-14"
+        "la": "Articuli 12-14",
+        "pt-BR": "Artigos 12-14"
       }
     },
     {
       "id": "43articuli-c11",
       "title": {
         "en-US": "Articulus 15",
-        "la": "Articulus 15"
+        "la": "Articulus 15",
+        "pt-BR": "Artigo 15"
       }
     },
     {
       "id": "43articuli-c12",
       "title": {
         "en-US": "Articulus 16",
-        "la": "Articulus 16"
+        "la": "Articulus 16",
+        "pt-BR": "Artigo 16"
       }
     },
     {
       "id": "43articuli-c13",
       "title": {
         "en-US": "Articulus 17",
-        "la": "Articulus 17"
+        "la": "Articulus 17",
+        "pt-BR": "Artigo 17"
       }
     },
     {
       "id": "43articuli-c14",
       "title": {
         "en-US": "Articulus 18",
-        "la": "Articulus 18"
+        "la": "Articulus 18",
+        "pt-BR": "Artigo 18"
       }
     },
     {
       "id": "43articuli-c15",
       "title": {
-        "en-US": "Articul 19-23",
-        "la": "Articul 19-23"
+        "en-US": "Articuli 19-23",
+        "la": "Articuli 19-23",
+        "pt-BR": "Artigos 19-23"
       }
     },
     {
       "id": "43articuli-c16",
       "title": {
         "en-US": "Articuli 24-25",
-        "la": "Articuli 24-25"
+        "la": "Articuli 24-25",
+        "pt-BR": "Artigos 24-25"
       }
     },
     {
       "id": "43articuli-c17",
       "title": {
         "en-US": "Articulus 26",
-        "la": "Articulus 26"
+        "la": "Articulus 26",
+        "pt-BR": "Artigo 26"
       }
     },
     {
       "id": "43articuli-c18",
       "title": {
         "en-US": "Articulus 27",
-        "la": "Articulus 27"
+        "la": "Articulus 27",
+        "pt-BR": "Artigo 27"
       }
     },
     {
       "id": "43articuli-c19",
       "title": {
         "en-US": "Articulus 28",
-        "la": "Articulus 28"
+        "la": "Articulus 28",
+        "pt-BR": "Artigo 28"
       }
     },
     {
       "id": "43articuli-c20",
       "title": {
         "en-US": "Articulus 29",
-        "la": "Articulus 29"
+        "la": "Articulus 29",
+        "pt-BR": "Artigo 29"
       }
     },
     {
       "id": "43articuli-c21",
       "title": {
         "en-US": "Articulus 30",
-        "la": "Articulus 30"
+        "la": "Articulus 30",
+        "pt-BR": "Artigo 30"
       }
     },
     {
       "id": "43articuli-c22",
       "title": {
         "en-US": "Articulus 31",
-        "la": "Articulus 31"
+        "la": "Articulus 31",
+        "pt-BR": "Artigo 31"
       }
     },
     {
       "id": "43articuli-c23",
       "title": {
         "en-US": "Articulus 32",
-        "la": "Articulus 32"
+        "la": "Articulus 32",
+        "pt-BR": "Artigo 32"
       }
     },
     {
       "id": "43articuli-c24",
       "title": {
         "en-US": "Articulus 33",
-        "la": "Articulus 33"
+        "la": "Articulus 33",
+        "pt-BR": "Artigo 33"
       }
     },
     {
       "id": "43articuli-c25",
       "title": {
         "en-US": "Articuli 34-35",
-        "la": "Articuli 34-35"
+        "la": "Articuli 34-35",
+        "pt-BR": "Artigos 34-35"
       }
     },
     {
       "id": "43articuli-c26",
       "title": {
         "en-US": "Articulus 36",
-        "la": "Articulus 36"
+        "la": "Articulus 36",
+        "pt-BR": "Artigo 36"
       }
     },
     {
       "id": "43articuli-c27",
       "title": {
         "en-US": "Articulus 37",
-        "la": "Articulus 37"
+        "la": "Articulus 37",
+        "pt-BR": "Artigo 37"
       }
     },
     {
       "id": "43articuli-c28",
       "title": {
         "en-US": "Articulus 38",
-        "la": "Articulus 38"
+        "la": "Articulus 38",
+        "pt-BR": "Artigo 38"
       }
     },
     {
       "id": "43articuli-c29",
       "title": {
         "en-US": "Articulus 39",
-        "la": "Articulus 39"
+        "la": "Articulus 39",
+        "pt-BR": "Artigo 39"
       }
     },
     {
       "id": "43articuli-c30",
       "title": {
         "en-US": "Articulus 40",
-        "la": "Articulus 40"
+        "la": "Articulus 40",
+        "pt-BR": "Artigo 40"
       }
     },
     {
       "id": "43articuli-c31",
       "title": {
         "en-US": "Articulus 41",
-        "la": "Articulus 41"
+        "la": "Articulus 41",
+        "pt-BR": "Artigo 41"
       }
     },
     {
       "id": "43articuli-c32",
       "title": {
         "en-US": "Articulus 42",
-        "la": "Articulus 42"
+        "la": "Articulus 42",
+        "pt-BR": "Artigo 42"
       }
     }
   ]

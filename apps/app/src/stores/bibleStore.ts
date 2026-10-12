@@ -1,6 +1,13 @@
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
+import { followLog } from '@/db/events'
+import {
+  biblePlacesCursorId,
+  biblePositionCursorId,
+  getCursor,
+  setCursor,
+} from '@/db/repositories/cursors'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 import { defaultCommentarySource, findCommentarySource } from '@/features/bible/commentary'
 import { type BiblePlace, recordPlace } from '@/features/bible/recents'
@@ -45,6 +52,8 @@ async function slugForSavedBook(saved: string): Promise<string | undefined> {
   return protocanon[Number(saved) - 1]?.id
 }
 
+type Position = { bookId: string; chapter: number; updatedAt?: number }
+
 export const useBibleStore = create<BibleState>()(
   immer((set, get) => ({
     bookId: 'genesis',
@@ -60,9 +69,7 @@ export const useBibleStore = create<BibleState>()(
         state.chapter = chapter
         state.updatedAt = now
       })
-      setPreference('bible-book', bookId)
-      setPreference('bible-chapter', String(chapter))
-      setPreference('bible-updated-at', String(now))
+      setCursor(biblePositionCursorId, JSON.stringify({ bookId, chapter, updatedAt: now }))
     },
 
     recordReading: (books) => {
@@ -71,7 +78,7 @@ export const useBibleStore = create<BibleState>()(
       set((state) => {
         state.places = next
       })
-      setPreference('bible-places', JSON.stringify(next))
+      setCursor(biblePlacesCursorId, JSON.stringify(next))
     },
 
     setPaneKind: (id) => {
@@ -82,18 +89,15 @@ export const useBibleStore = create<BibleState>()(
     },
 
     hydrate: async () => {
-      const [savedBook, chapter, updatedAt, places, commentary] = await Promise.all([
-        getPreference('bible-book'),
-        getPreference('bible-chapter'),
-        getPreference('bible-updated-at'),
-        getPreference('bible-places'),
-        getPreference('bible-commentary'),
-      ])
-      const bookId = savedBook && (await slugForSavedBook(savedBook))
+      const position = getCursor(biblePositionCursorId)?.position
+      const saved = position ? (JSON.parse(position) as Position) : undefined
+      const places = getCursor(biblePlacesCursorId)?.position
+      const commentary = await getPreference('bible-commentary')
+      const bookId = saved && (await slugForSavedBook(saved.bookId))
       set((state) => {
         if (bookId) state.bookId = bookId
-        if (chapter) state.chapter = Number.parseInt(chapter, 10)
-        if (updatedAt) state.updatedAt = Number(updatedAt)
+        if (saved?.chapter) state.chapter = saved.chapter
+        if (saved?.updatedAt) state.updatedAt = saved.updatedAt
         if (places) state.places = JSON.parse(places)
         if (commentary) {
           state.paneKind = isReferenceKind(commentary)
@@ -104,4 +108,15 @@ export const useBibleStore = create<BibleState>()(
       })
     },
   })),
+)
+
+// The position lives in the event log, which can change under this store.
+followLog(
+  (state, previous) =>
+    useBibleStore.getState().hydrated &&
+    (state.preferences !== previous.preferences ||
+      [biblePositionCursorId, biblePlacesCursorId].some(
+        (id) => state.cursors.get(id) !== previous.cursors.get(id),
+      )),
+  () => useBibleStore.getState().hydrate(),
 )

@@ -1,7 +1,7 @@
 /**
  * Harness smoke test. Verifies the integration-test scaffolding boots:
- * real SQLite (better-sqlite3), real Hearth corpus (local disk), seeded
- * practice events, provider tree mounts in jsdom.
+ * real SQLite (better-sqlite3), real Hearth corpus (local disk), a fixture
+ * plan, provider tree mounts in jsdom.
  *
  * If this fails, no `*.test.tsx` integration test can work — start here.
  */
@@ -18,9 +18,10 @@ function SmokeScreen() {
 }
 
 describe('renderApp harness', () => {
-  it('boots, loads the catalog, seeds practices, mounts a screen', async () => {
+  it('boots, loads the catalog, mounts a screen', async () => {
     const { screen } = await renderApp({
       route: '/smoke',
+      fixtures: { enableSlotKeys: ['practice/grace-meals::1'] },
       routes: [{ pattern: '/smoke', loader: async () => ({ default: SmokeScreen }) }],
     })
 
@@ -30,8 +31,8 @@ describe('renderApp harness', () => {
     expect(manifests.length).toBeGreaterThan(0)
     expect(manifests.find((m) => m.id.endsWith('grace-meals'))).toBeDefined()
 
-    const eventState = useEventStore.getState()
-    expect(eventState.practices.size).toBeGreaterThan(0)
-    expect(eventState.slots.size).toBeGreaterThan(0)
+    const { practices, slots } = useEventStore.getState()
+    expect([...practices.keys()]).toEqual(['practice/grace-meals'])
+    expect(slots.get('practice/grace-meals::1')?.enabled).toBe(1)
   }, 30_000)
 })

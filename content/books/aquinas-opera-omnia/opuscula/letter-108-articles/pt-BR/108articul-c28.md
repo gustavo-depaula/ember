@@ -1,0 +1,3 @@
+# Artigo 27
+
+O que se põe em vigésimo sétimo lugar: *não se segue que seja mais autor, porque o é mediata e imediatamente*, se entende o modo absoluto, é falso. Mas, se entende o modo relativo, quanto a algo é verdadeiro e quanto a algo é falso: porque a relação pela qual o Filho é princípio do Espírito Santo é comum ao Pai e ao Filho. Por isso, quanto a esta, o modo relativo é o mesmo; mas a relação pela qual o Filho é do Pai é-lhe própria. Segundo este modo, portanto, pode dizer-se que o Filho é autor do Espírito Santo de outro modo que o Pai, enquanto o Filho tem estas coisas de outro, e não o Pai. E o mesmo se pode dizer de todas as coisas que convêm ao Pai e ao Filho, porque o Filho tem todas as coisas do Pai, e o Pai de ninguém.

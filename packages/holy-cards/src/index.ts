@@ -2,6 +2,7 @@
 // acts, the calendar and the catalog. Nothing here reads storage or the clock.
 
 export { drawCard, grants, historyStart, pendingCards, redeem } from './engine'
+export { type DayAct, type Offer, offersToday } from './today'
 export type {
   Act,
   Calendar,

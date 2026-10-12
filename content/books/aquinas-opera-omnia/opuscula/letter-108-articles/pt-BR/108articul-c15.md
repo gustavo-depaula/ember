@@ -1,0 +1,3 @@
+# Artigo 14
+
+O que se põe em décimo quarto lugar: *pois as potências têm distinção da parte das operações, a saber, da criação e da geração, que são diversas, e segundo se relacionam como anterior e posterior*, tem sentido são. Pois, embora a potência de criar e de gerar seja a essência divina, como o objetante toca, importa, contudo, uma relação que a essência não importa; e quanto a esta relação distingue-se a potência, embora não se distinga a essência. De modo semelhante, também, embora a ação de criação seja Deus e a essência divina, conota, contudo, o efeito segundo o qual a criação se distingue da geração, não, porém, segundo a própria essência da ação, enquanto é a própria essência divina.

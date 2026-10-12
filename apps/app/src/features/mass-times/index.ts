@@ -2,7 +2,6 @@ export {
   type CheckIn,
   useCheckInCount,
   useCheckInsOn,
-  useCheckInsStore,
   useChurchAttendance,
   useRecentCheckIns,
 } from './checkins'
@@ -10,7 +9,6 @@ export { ChurchSheet } from './components/ChurchSheet'
 export {
   type FavoriteChurch,
   useFavoriteChurches,
-  useFavoritesStore,
   useIsFavorite,
 } from './favorites'
 export { type DeviceLocation, useDeviceLocation } from './useDeviceLocation'

@@ -8,6 +8,7 @@ import { beforeEach, describe, expect, it } from 'vitest'
 
 import { setDb } from '@/db/instance'
 import { addSlot, createPracticeWithSlot, logCompletion, updatePractice } from '@/db/repositories'
+import { addSlotUnderKey } from '@/db/test-fixtures'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 import { useEventStore } from '../state'
@@ -36,11 +37,11 @@ beforeEach(async () => {
 describe('merging a bare-id practice into its canonical twin', () => {
   it('carries slots and their completions across, renumbering a slot that collides', async () => {
     // The twin seeding leaves: one slot, switched off.
-    const seeded = await createPracticeWithSlot({ id: 'practice/mass' }, { schedule: sunday })
+    const seeded = await addSlotUnderKey({ id: 'practice/mass' }, '1', { schedule: sunday })
     await emit({ type: 'SlotUpdated', slotKey: seeded, changes: { enabled: 0 } })
     // The one a template added and the user has been keeping.
-    await createPracticeWithSlot({ id: 'mass' }, { schedule: sunday, time: '10:00' })
-    await addSlot('mass', { time: '19:00' })
+    await addSlotUnderKey({ id: 'mass' }, '1', { schedule: sunday, time: '10:00' })
+    await addSlotUnderKey({ id: 'mass' }, '2', { time: '19:00' })
     await logCompletion('mass', '2026-05-10', '1', 'mass', 'checkin')
     await logCompletion('mass', '2026-05-12', '2', 'mass', 'amen')
     await logCompletion('mass', '2026-05-13', 'default', 'mass', 'checkin')
@@ -64,9 +65,9 @@ describe('merging a bare-id practice into its canonical twin', () => {
   })
 
   it('keeps the form the plan was praying and brings an archived twin back', async () => {
-    await createPracticeWithSlot({ id: 'practice/mass', activeVariant: 'practice/mass' }, {})
+    await addSlotUnderKey({ id: 'practice/mass', activeVariant: 'practice/mass' }, '1')
     await emit({ type: 'PracticeArchived', practiceId: 'practice/mass' })
-    await createPracticeWithSlot({ id: 'mass' }, {})
+    await addSlotUnderKey({ id: 'mass' }, '1')
     await updatePractice('mass', { activeVariant: 'practice/mass-vetus-ordo' })
 
     await emit({ type: 'PracticeMerged', fromId: 'mass', toId: 'practice/mass' })
@@ -78,7 +79,7 @@ describe('merging a bare-id practice into its canonical twin', () => {
   })
 
   it('renames a practice with no twin, and its program cursor with it', async () => {
-    const slot = await createPracticeWithSlot({ id: 'novena-x' }, {})
+    const slot = await addSlotUnderKey({ id: 'novena-x' }, '1')
     await emit({
       type: 'CursorSet',
       cursorId: 'program/novena-x',

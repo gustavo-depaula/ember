@@ -2,7 +2,7 @@ import { useMutation } from '@tanstack/react-query'
 import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
-import { bareId } from '@/content/contentIndex'
+import { bareId, canonicalize } from '@/content/contentIndex'
 import type { EventStoreState, SlotState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'
 import {
@@ -84,7 +84,11 @@ export function completionTarget(
   }
 
   const practiceId = planPracticeFor(prayedId, state)
-  if (!practiceId) return { practiceId: prayedId, subId: 'default' }
+  // Outside the plan a prayer is kept under the id the plan would use, so it
+  // joins the practice's record if the practice is added later.
+  if (!practiceId) {
+    return { practiceId: canonicalize(prayedId, 'practice') ?? prayedId, subId: 'default' }
+  }
   if (state.practices.get(practiceId)?.archived) return { practiceId, subId: 'default' }
 
   const done = completedSlotKeys(completionsOn(date, state))
@@ -130,7 +134,7 @@ export async function completePractice(
  * unslotted beside the plan's own practice, so the Mass was counted and the
  * day's row stayed open. Each moves to the open due slot; if that row was since
  * ticked by hand, the misfiled one is the same prayer counted twice and is
- * dropped. Run at startup; a no-op once the record is straight.
+ * dropped. Run by `straightenPlanOnce`.
  */
 export async function refileMisplacedCompletions(): Promise<void> {
   const { practices, slots, completions } = useEventStore.getState()

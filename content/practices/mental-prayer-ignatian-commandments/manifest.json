@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 15,
+	"duration": { "type": "chosen", "default": 15, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The first of St. Ignatius' three methods of prayer: take the Commandments — or the capital sins, the powers of the soul, the five senses — and dwell on each in turn, looking at what God wills and asking pardon for what was lacking. More than an examination of conscience, because its eyes are on Him.",
 		"pt-BR": "O primeiro dos três modos de orar de Santo Inácio: tome os Mandamentos — ou os pecados capitais, as potências da alma, os cinco sentidos — e detenha-se em cada um por sua vez, olhando o que Deus quer e pedindo perdão do que faltou. Mais do que um exame de consciência, porque os olhos estão n'Ele."

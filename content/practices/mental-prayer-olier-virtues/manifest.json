@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 15,
+	"duration": { "type": "chosen", "default": 15, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The Sulpician method at its barest: take one virtue, look at it in Jesus, ask His Spirit to form it in you, and give yourself to Him to work it through you. Three points, each ending in silence.",
 		"pt-BR": "O método sulpiciano no que tem de mais despojado: tome uma virtude, olhe-a em Jesus, peça ao seu Espírito que a forme em si, e entregue-se a Ele para que a opere por meio de si. Três pontos, cada um terminando em silêncio."

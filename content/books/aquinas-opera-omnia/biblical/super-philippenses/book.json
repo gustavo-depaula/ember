@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Philippians",
-    "la": "Super Philippenses lectura"
+    "la": "Super Philippenses lectura",
+    "pt-BR": "Comentário à Epístola aos Filipenses"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the Letter to the Philippians.",
-    "la": "Expositio Thomae in Epistolam ad Philippenses."
+    "la": "Expositio Thomae in Epistolam ad Philippenses.",
+    "pt-BR": "Comentário de Tomás à Epístola aos Filipenses."
   },
   "composed": "1268–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Chapter 1 — Proverbs 4:18",
-        "la": "Caput 1"
+        "la": "Caput 1",
+        "pt-BR": "Capítulo 1 — Provérbios 4, 18"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Proverbs 4:18",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Provérbios 4, 18"
           }
         }
       ]
@@ -51,35 +57,40 @@
       "id": "g2",
       "title": {
         "en-US": "Chapter 2 — Paul’s Trust in Christ",
-        "la": "Caput 2"
+        "la": "Caput 2",
+        "pt-BR": "Capítulo 2 — A confiança de Paulo em Cristo"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Greeting",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Saudação"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Prayer",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Oração"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — Paul’s desire to be with Christ",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — O desejo de Paulo de estar com Cristo"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — Behave worthily of the Gospel",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Vivei de modo digno do Evangelho"
           }
         }
       ]
@@ -88,35 +99,40 @@
       "id": "g3",
       "title": {
         "en-US": "Chapter 3 — Hymn to Christ",
-        "la": "Caput 3"
+        "la": "Caput 3",
+        "pt-BR": "Capítulo 3 — Hino a Cristo"
       },
       "children": [
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Lecture 1 — Unity of Christians",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A unidade dos cristãos"
           }
         },
         {
           "id": "g3-c002",
           "title": {
             "en-US": "Lecture 2 — Christ’s humility unto death",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A humildade de Cristo até a morte"
           }
         },
         {
           "id": "g3-c003",
           "title": {
             "en-US": "Lecture 3 — Exaltation of Christ",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A exaltação de Cristo"
           }
         },
         {
           "id": "g3-c004",
           "title": {
             "en-US": "Lecture 4 — Paul sends ministers",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — Paulo envia ministros"
           }
         }
       ]
@@ -125,28 +141,32 @@
       "id": "g4",
       "title": {
         "en-US": "Chapter 4 — Conformity to Christ",
-        "la": "Caput 4"
+        "la": "Caput 4",
+        "pt-BR": "Capítulo 4 — A conformidade com Cristo"
       },
       "children": [
         {
           "id": "g4-c001",
           "title": {
             "en-US": "Lecture 1 — Have no confidence in the flesh",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Não tenhais confiança na carne"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Lecture 2 — Likeness to Christ",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — A semelhança com Cristo"
           }
         },
         {
           "id": "g4-c003",
           "title": {
             "en-US": "Lecture 3 — Imitate Christ through Paul",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — Imitai a Cristo por meio de Paulo"
           }
         }
       ]
@@ -155,21 +175,24 @@
       "id": "g5",
       "title": {
         "en-US": "Chapter 5 — Exhortations to Holiness",
-        "la": "Caput 5"
+        "la": "Caput 5",
+        "pt-BR": "Capítulo 5 — Exortações à santidade"
       },
       "children": [
         {
           "id": "g5-c001",
           "title": {
             "en-US": "Lecture 1 — Rejoice in the Lord always",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — Alegrai-vos sempre no Senhor"
           }
         },
         {
           "id": "g5-c002",
           "title": {
             "en-US": "Lecture 2 — Contentment through Christ",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — O contentamento por Cristo"
           }
         }
       ]

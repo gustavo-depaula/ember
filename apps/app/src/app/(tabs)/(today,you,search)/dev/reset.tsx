@@ -1,5 +1,5 @@
 // biome-ignore-all lint/correctness/useHookAtTopLevel: dev-only screen; the __DEV__ guard is compiled out of production
-// Dev-only deep link used by Maestro flows. Wipes the DB, reseeds, and applies
+// Dev-only deep link used by Maestro flows. Wipes the DB and applies
 // fixtures (time-travel date, enabled slots) before navigating home so each
 // flow starts from a known state. Returns a redirect in production builds so
 // the route is never exposed to end users.

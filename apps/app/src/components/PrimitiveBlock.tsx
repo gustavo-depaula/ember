@@ -3,6 +3,7 @@
 import { memo, useCallback } from 'react'
 import { View, YStack } from 'tamagui'
 import type { Primitive } from '@/content/primitives'
+import { SungBlock } from '@/features/chant/SungBlock'
 import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
 import { PrayerLines } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
@@ -104,6 +105,13 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
           attribution={primitive.attribution}
         />
       )
+
+    // A chant with no text of its own to turn from: a block with the one face.
+    case 'chant':
+      return <SungBlock text={[]} chants={[primitive]} renderText={renderChild} />
+
+    case 'sung':
+      return <SungBlock text={primitive.text} chants={primitive.chants} renderText={renderChild} />
 
     case 'gallery':
       return (

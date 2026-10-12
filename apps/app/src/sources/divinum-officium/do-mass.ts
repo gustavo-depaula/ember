@@ -9,14 +9,18 @@
 // without being the Mass.
 
 import { assembleMass, doLangDir, efVersion } from '@ember/divinum-officium'
-import type { Primitive } from '@/content/primitives'
+import type { ChantPrimitive, Primitive } from '@/content/primitives'
+import type { Chant } from '@/features/chant/chants'
+import { ordinaryChants } from '@/features/chant/ordinary'
+import { findMassChants } from '@/features/chant/propers'
 import type { ContentSource, SourceFetchContext } from '../types'
 import { mapItemsToPrimitives } from './blocks'
+import { chantPrimitive, partNames, withChant } from './chant'
 import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
   id: 'producer/do-mass',
-  version: '11',
+  version: '14',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -30,7 +34,17 @@ export const doMassSource: ContentSource<Primitive[]> = {
       lang2: doLangDir(ctx.prefs.lang),
       propers: parts !== undefined,
     })
-    if (!parts) return mapItemsToPrimitives(mass.vernacular ?? mass.latin, mass.latin)
+    if (!parts) {
+      const { winner, rank, dayname, dayofweek, commune } = mass.day
+      const ordinary = await ordinaryChants({
+        winner,
+        rank,
+        week: dayname[0],
+        weekday: dayofweek,
+        commune,
+      })
+      return withChant(mass.vernacular ?? mass.latin, mass.latin, massChant(ordinary))
+    }
     // The columns pair by position and only the Latin heads are the same in
     // every language, so the Latin column says which items to keep in both.
     const wanted = mass.latin.map((item) =>
@@ -39,4 +53,21 @@ export const doMassSource: ContentSource<Primitive[]> = {
     const pick = (items: string[]) => items.filter((_, i) => wanted[i])
     return mapItemsToPrimitives(pick(mass.vernacular ?? mass.latin), pick(mass.latin))
   },
+}
+
+const head = /^(?:#|!!)\s*(.*)/
+
+/**
+ * The chant of an item of the Mass: a proper's, found by its text, or the
+ * ordinary's, which the day's rank chose from the Kyriale.
+ */
+function massChant(ordinary: Record<string, Chant>) {
+  return async (item: string): Promise<ChantPrimitive[]> => {
+    const [first, ...lines] = item.split('\n')
+    const name = head.exec(first)?.[1].trim()
+    if (!name) return []
+    if (ordinary[name]) return [chantPrimitive(ordinary[name])]
+    const propers = await findMassChants(name, lines)
+    return propers.map((chant) => chantPrimitive(chant, partNames[chant.genre]))
+  }
 }

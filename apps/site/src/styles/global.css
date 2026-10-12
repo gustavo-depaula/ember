@@ -2515,3 +2515,69 @@ main {
   border: 2px solid var(--background);
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
+
+/* A chant score: ink in the text colour, rubrics in the missal's red, the
+   lyrics in the face they were measured in (features/chant/layoutScore). */
+svg.score {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: var(--color);
+  font-family: 'EB Garamond', serif;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures;
+  font-variant-numeric: normal;
+}
+
+svg.score .rubric {
+  fill: var(--color-burgundy);
+}
+
+/* A chant folded under the text it sets: one quiet line, which opens in place
+   onto the score. */
+details.chant > summary {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6em;
+  padding-block: 8px;
+  cursor: pointer;
+  color: var(--color-secondary);
+  list-style: none;
+}
+
+details.chant > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.chant > summary::before {
+  content: '›';
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+
+details.chant[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.chant-kicker {
+  font-family: var(--font-heading);
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.chant-mode {
+  margin-left: auto;
+  font-size: 15px;
+  font-variant-numeric: lining-nums;
+}
+
+.chant-sheet {
+  padding-top: var(--space-sm);
+}
+
+.chant-credit {
+  padding-block: var(--space-sm);
+  font-variant-numeric: lining-nums;
+}
+

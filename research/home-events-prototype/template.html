@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Today — the events row</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+@font-face { font-family: Junicode; src: url('__JUNICODE__'); }
+:root {
+  --bg: #fff; --ink: #2C2418; --muted: #6B5D4F; --gold: #C9A84C; --goldDeep: #A8872E; --line: #E5DDD2;
+  --burgundy: #6B1D2A; --surface: #F7F2E8; --wallEmpty: #ECE6DA; --blockInk: #F5EFE2; --blockLabel: #E8C97A;
+  --head: Cinzel, 'Trajan Pro', serif; --title: Junicode, 'EB Garamond', serif; --body: 'EB Garamond', Georgia, serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; padding: 30px 28px 60px; background: #E4DCCB; color: var(--ink); font: 18px/25px var(--body); }
+h1 { font: 400 20px var(--head); letter-spacing: 3px; margin: 0 0 6px; color: #4A3C22; }
+.lede { max-width: 900px; margin: 0 0 30px; color: #5D5039; }
+.dir { display: flex; gap: 34px; align-items: flex-start; margin-bottom: 54px; }
+.side { flex: 1; min-width: 0; }
+.side h2 { font: 400 15px var(--head); letter-spacing: 2.5px; margin: 6px 0 6px; color: #4A3C22; }
+.side p { max-width: 640px; margin: 0 0 10px; color: #5D5039; }
+.side .cap { font: 400 11px var(--head); letter-spacing: 2px; color: #7C6E55; margin: 20px 0 8px; }
+.unrolled { background: var(--bg); border-radius: 18px; padding: 18px 0 20px 20px; overflow-x: auto;
+  box-shadow: 0 8px 24px rgba(60,45,20,.14); }
+.unrolled .row { padding-right: 20px; }
+::-webkit-scrollbar { display: none; }
+
+.phone { flex: 0 0 390px; width: 390px; background: var(--bg); border-radius: 38px; padding: 22px 0 26px; overflow: hidden;
+  box-shadow: 0 0 0 8px #15120E, 0 22px 44px rgba(0,0,0,.3); }
+.sec { padding: 0 20px; margin-bottom: 26px; }
+.label { font: 400 13px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--ink); margin-bottom: 9px;
+  display: flex; gap: 8px; align-items: center; }
+.label i { font-style: normal; color: var(--gold); }
+.row { display: flex; gap: 12px; overflow-x: auto; margin: 0 -20px; padding: 0 20px 16px; align-items: flex-start; }
+.unrolled .row { margin: 0; padding: 0 20px 16px 0; overflow: visible; width: max-content; }
+
+/* FeatureTile, as in the Daily Meditations row */
+.tile { flex: 0 0 200px; height: 240px; border-radius: 16px; overflow: hidden; position: relative;
+  box-shadow: 0 6px 12px rgba(0,0,0,.18); background: #5A1722 center top / cover; cursor: pointer; }
+.tile .veil { position: absolute; inset: 0; background: linear-gradient(180deg, transparent 30%, rgba(0,0,0,.55) 58%, rgba(0,0,0,.88)); }
+.tile .capt { position: absolute; top: 50%; left: 0; right: 0; padding: 12px; }
+.tile .tl { font: 400 10.5px var(--head); letter-spacing: 2px; text-transform: uppercase; color: var(--blockLabel); margin-bottom: 4px; }
+.tile .tt { font: 600 19px/22px var(--title); color: var(--blockInk); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.tile .ts { font-size: 15px; line-height: 18px; color: rgba(245,239,226,.82); margin-top: 4px; }
+.tile.ev .veil { background: linear-gradient(180deg, transparent 20%, rgba(0,0,0,.66) 50%, rgba(0,0,0,.92)); }
+.tile.jewel { background: linear-gradient(135deg, #5A1722, #24090E); }
+.tile .fan { position: absolute; top: 14px; left: 0; right: 0; height: 112px; display: flex; justify-content: center; }
+.mini { border-radius: 5px; background: #2a2118 center / cover; box-shadow: 0 5px 12px rgba(0,0,0,.45); flex: none; }
+.mini.back { display: flex; align-items: center; justify-content: center; color: #6E521F; font-family: var(--head); }
+.fan .mini { width: 70px; height: 105px; }
+.fan .mini:first-child { transform: rotate(-9deg) translate(10px, 4px); font-size: 22px; }
+.fan .mini:last-child { transform: rotate(6deg) translate(-8px, 0); }
+.dots { display: flex; gap: 4px; margin-top: 8px; }
+.dots i { width: 7px; height: 7px; border-radius: 50%; border: 1px solid var(--blockLabel); }
+.dots i.on { background: var(--blockLabel); }
+.dots.ink i { border-color: var(--goldDeep); width: 9px; height: 9px; border-width: 1.5px; }
+.dots.ink i.on { background: var(--goldDeep); }
+.dots.ink i.now { box-shadow: 0 0 0 2px var(--surface), 0 0 0 3.5px var(--burgundy); }
+
+/* B — almanac rail */
+.rail { gap: 0; }
+.col { flex: none; padding-right: 16px; }
+.col .hd { display: flex; align-items: baseline; gap: 7px; height: 38px; }
+.col .hd b { font: 400 30px/38px var(--title); }
+.col .hd b.w { font-style: italic; font-size: 27px; }
+.col .hd span { font: 400 10px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); }
+.col.now .hd span, .col.run .hd span { color: var(--burgundy); }
+.col .tick { height: 17px; margin-right: -16px; border-top: 1px solid var(--line); position: relative; }
+.col:last-child .tick { margin-right: 0; }
+.col .tick::before { content: ''; position: absolute; left: 0; top: -5px; width: 9px; height: 9px; border-radius: 50%;
+  background: var(--bg); border: 1.5px solid var(--goldDeep); }
+.col.now .tick::before, .col.run .tick::before { background: var(--goldDeep); }
+.hc { width: 124px; height: 186px; border-radius: 8px; background: #2a2118 center / cover; box-shadow: 0 6px 12px rgba(0,0,0,.2); cursor: pointer; }
+.hc.back { display: flex; flex-direction: column; align-items: center; justify-content: center; color: #6E521F; font: 400 12px/16px var(--head);
+  text-align: center; padding: 0 22px; gap: 6px; }
+.hc.back b { font-weight: 400; font-size: 24px; }
+.pair { display: flex; gap: 10px; }
+.col .cn { font: 400 12px/15px var(--head); width: 124px; margin-top: 9px; letter-spacing: .3px; }
+.col .cs { font-size: 14.5px; line-height: 18px; color: var(--muted); width: 124px; margin-top: 2px; }
+.col .cs em { color: var(--burgundy); font-style: normal; }
+
+/* C — today panel and invitations */
+.panel { flex: none; height: 222px; border-radius: 16px; background: var(--surface); box-shadow: 0 6px 12px rgba(60,45,20,.13); padding: 14px 16px; cursor: pointer; }
+.panel.today { width: 304px; }
+.ph { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 4px; }
+.ph b { font: 400 11px var(--head); letter-spacing: 2px; color: var(--burgundy); text-transform: uppercase; }
+.ph span { font-style: italic; color: var(--muted); font-size: 15px; }
+.door { display: flex; gap: 11px; align-items: center; padding: 9px 0; border-top: 1px solid var(--line); }
+.door svg { flex: none; }
+.door .dx { flex: 1; min-width: 0; }
+.door .da { font: 400 10px var(--head); letter-spacing: 1.5px; text-transform: uppercase; color: var(--muted); }
+.door .dc { font: 400 18px/21px var(--title); }
+.door .dn { font-size: 14px; line-height: 17px; color: var(--muted); font-style: italic; }
+.door .mini { width: 42px; height: 63px; border-radius: 4px; font-size: 15px; box-shadow: 0 3px 8px rgba(0,0,0,.28); }
+.panel.inv { width: 268px; display: flex; gap: 15px; align-items: center; }
+.inv .hc { width: 104px; height: 156px; flex: none; transform: rotate(-2.5deg); }
+.inv .ix { min-width: 0; }
+.inv .il { font: 400 10.5px var(--head); letter-spacing: 2px; text-transform: uppercase; color: var(--burgundy); }
+.inv .it { font: 400 19px/22px var(--title); margin-top: 4px; }
+.inv .id { font-size: 15px; line-height: 19px; color: var(--muted); margin-top: 3px; }
+.pill { display: inline-block; font: 400 10px var(--head); letter-spacing: 1.5px; text-transform: uppercase; border: 1px solid var(--gold);
+  color: var(--goldDeep); border-radius: 14px; padding: 5px 12px; margin-top: 11px; white-space: nowrap; }
+.pill.solid { background: var(--burgundy); border-color: var(--burgundy); color: var(--blockInk); }
+
+/* D — medallions that open in place */
+.meds { gap: 16px; padding-top: 10px; }
+.med { flex: 0 0 78px; text-align: center; cursor: pointer; }
+.med .ring { width: 78px; height: 78px; border-radius: 50%; padding: 4px; background: var(--line); position: relative; }
+.med .ring > div { width: 100%; height: 100%; border-radius: 50%; border: 2.5px solid var(--bg); background: #2a2118 center 12% / cover; }
+.med .stack { width: 78px; height: 78px; display: flex; justify-content: center; align-items: center; position: relative; }
+.med .stack .mini { width: 44px; height: 66px; border-radius: 4px; font-size: 14px; }
+.med .stack .mini:first-child { transform: rotate(-10deg) translateX(10px); }
+.med .stack .mini:last-child { transform: rotate(7deg) translateX(-10px); }
+.med .ml { font: 400 9.5px var(--head); letter-spacing: 1.3px; text-transform: uppercase; color: var(--burgundy); margin-top: 8px; }
+.med .mn { font-size: 14.5px; line-height: 17px; margin-top: 1px; }
+.med.sel .mn { text-decoration: underline; text-decoration-color: var(--gold); text-underline-offset: 4px; }
+.open { background: var(--surface); border-radius: 16px; padding: 14px 16px; box-shadow: 0 6px 12px rgba(60,45,20,.13); margin-top: 2px; position: relative; }
+.open::before { content: ''; position: absolute; top: -7px; width: 14px; height: 14px; background: var(--surface); transform: rotate(45deg); left: var(--nib, 32px); }
+.open.inv { display: flex; gap: 15px; align-items: center; }
+
+/* Fidelity, below the row */
+.fid { text-align: center; padding-top: 6px; }
+.fid .label { justify-content: center; font-size: 12px; }
+.wall { display: inline-grid; grid-template-columns: repeat(10, 11px); gap: 6px; }
+.wall i { width: 11px; height: 11px; border-radius: 50%; background: var(--wallEmpty); }
+.wall i.on { background: var(--gold); }
+</style>
+</head>
+<body>
+<h1>TODAY — THE EVENTS ROW</h1>
+<p class="lede">Four directions for a row under Daily Meditations: the first card says which holy cards today can give and how, the rest are the programs coming up. Drawn as on Saturday 10 October 2026, with the cards and novenas the corpus really has for these weeks. The rows scroll; each is also laid out whole beside its phone.</p>
+<div id="app"></div>
+<script>
+/*DATA*/
+
+const { today, events, meditations, frame } = data
+const bg = (src) => `style="background-image:url(${src})"`
+const back = (mark = '✠') => `<div class="mini back" ${bg(frame)}>${mark}</div>`
+const dots = (total, done, cls = '', now = -1) =>
+  `<div class="dots ${cls}">${Array.from({ length: total }, (_, i) => `<i class="${i < done ? 'on' : ''} ${i === now ? 'now' : ''}"></i>`).join('')}</div>`
+
+const glyphs = {
+  chalice: '<svg width="26" height="26" viewBox="0 0 28 28" fill="none" stroke="#A8872E" stroke-width="1.4"><path d="M8 4h12c0 6-2.5 9-6 9s-6-3-6-9z"/><path d="M14 13v8M9 24h10M11 21h6"/></svg>',
+  book: '<svg width="26" height="26" viewBox="0 0 28 28" fill="none" stroke="#A8872E" stroke-width="1.4"><path d="M4 6c4-1 7 0 10 2 3-2 6-3 10-2v16c-4-1-7 0-10 2-3-2-6-3-10-2z"/><path d="M14 8v16"/></svg>',
+}
+
+const tile = (m) => `<div class="tile ${m.label ? 'ev' : ''}" ${bg(m.art)}><div class="veil"></div><div class="capt">
+  ${m.label ? `<div class="tl">${m.label}</div>` : ''}<div class="tt">${m.title}</div><div class="ts">${m.sub}</div>${m.extra ?? ''}</div></div>`
+
+const borgia = today.ways[0]
+
+// A — the same tiles as the row above
+function rowA() {
+  const first = `<div class="tile jewel"><div class="fan">${back()}<div class="mini" ${bg(borgia.art)}></div></div><div class="capt">
+    <div class="tl">Santinhos de hoje</div><div class="tt">${borgia.card}</div>
+    <div class="ts">Pelo Ofício ou pelo dia rezado. Na Missa, uma carta do altar.</div></div></div>`
+  return `<div class="row">${first}${events.map((e) => tile({
+    art: e.art, label: e.label, title: e.title, sub: e.dates,
+    extra: e.state === 'running' ? dots(9, e.day) : '',
+  })).join('')}</div>`
+}
+
+// B — holy cards hung on a rail of dates
+function rowB() {
+  const first = `<div class="col now"><div class="hd"><b class="w">Hoje</b><span>sáb · 10</span></div><div class="tick"></div>
+    <div class="pair">
+      <div><div class="hc" ${bg(borgia.art)}></div><div class="cn">${borgia.card}</div><div class="cs">pelo Ofício ou pelo dia rezado</div></div>
+      <div><div class="hc back" ${bg(frame)}><b>✠</b>Carta do altar</div><div class="cn">Uma das 73</div><div class="cs">sorteada na Missa</div></div>
+    </div></div>`
+  const col = (e) => `<div class="col ${e.state === 'running' ? 'run' : e.state === 'today' ? 'now' : ''}">
+    <div class="hd"><b>${e.state === 'running' ? e.day + 'º' : e.num}</b><span>${e.state === 'running' ? 'dia de 9' : e.state === 'today' ? 'começa hoje' : e.dow + (e.in < 10 ? ' · em ' + e.in + ' dias' : '')}</span></div>
+    <div class="tick"></div><div class="hc" ${bg(e.art)}></div>
+    <div class="cn">${e.short}</div><div class="cs">${e.state === 'running' ? '<em>termina amanhã</em>' : 'novena · ' + e.dates.replace(' de outubro', ' out').replace(' de novembro', ' nov')}</div></div>`
+  return `<div class="row rail">${first}${events.map(col).join('')}</div>`
+}
+
+// C — a ledger of today's doors, then invitations
+const doors = () => today.ways.map((w) => `<div class="door">${glyphs[w.glyph]}<div class="dx">
+  <div class="da">${w.act}</div><div class="dc">${w.card}</div><div class="dn">${w.alt}</div></div>
+  ${w.art ? `<div class="mini" ${bg(w.art)}></div>` : back()}</div>`).join('')
+const invite = (e) => `<div class="hc" ${bg(e.art)}></div><div class="ix">
+  <div class="il">${e.label}</div><div class="it">${e.title}</div><div class="id">${e.dates}</div>
+  ${e.state === 'running' ? dots(9, e.day - 1, 'ink', e.day - 1) + `<span class="pill solid">Rezar o ${e.day}º dia</span>` : `<span class="pill">Entrar</span>`}</div>`
+const todayHead = `<div class="ph"><b>Santinhos de hoje</b><span>${today.date.toLowerCase()}</span></div>`
+function rowC() {
+  return `<div class="row"><div class="panel today">${todayHead}${doors()}</div>
+    ${events.map((e) => `<div class="panel inv">${invite(e)}</div>`).join('')}</div>`
+}
+
+// D — medallions; the one tapped opens beneath the row
+function rowD(sel) {
+  const meds = [`<div class="med ${sel === 0 ? 'sel' : ''}" data-i="0"><div class="stack">${back()}<div class="mini" ${bg(borgia.art)}></div></div>
+    <div class="ml">Hoje</div><div class="mn">2 santinhos</div></div>`,
+    ...events.map((e, i) => {
+      const turn = e.state === 'running' ? e.day / 9 : 0
+      const ring = turn ? `style="background:conic-gradient(var(--goldDeep) ${turn}turn, var(--line) 0)"` : e.state === 'today' ? 'style="background:var(--gold)"' : ''
+      return `<div class="med ${sel === i + 1 ? 'sel' : ''}" data-i="${i + 1}"><div class="ring" ${ring}><div ${bg(e.art)}></div></div>
+        <div class="ml">${e.state === 'running' ? 'Dia ' + e.day : e.state === 'today' ? 'Hoje' : e.in + ' dias'}</div><div class="mn">${e.short}</div></div>`
+    })].join('')
+  const nib = `style="--nib:${Math.min(32 + sel * 94, 330)}px"`
+  const open = sel === 0 ? `<div class="open" ${nib}>${todayHead}${doors()}</div>` : `<div class="open inv" ${nib}>${invite(events[sel - 1])}</div>`
+  return `<div class="row meds">${meds}</div>${open}`
+}
+
+const wall = Array.from({ length: 30 }, (_, i) => `<i class="${[0, 1, 3, 4, 5, 7, 8, 10, 11, 12, 13, 15, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28].includes(i) ? 'on' : ''}"></i>`).join('')
+
+const dirs = [
+  { key: 'A', name: 'The same tile', row: rowA, title: 'Eventos',
+    notes: ['The row above, continued: the same 200×240 painting tiles, the gold line saying when. Today is the one jewel-toned tile, the two cards fanned on it.',
+      'Costs nothing new to learn and the page keeps one rhythm. The price: the today tile has room for one sentence, so the how is compressed, and two painting rows in a row may blur into one.'] },
+  { key: 'B', name: 'The almanac rail', row: rowB, title: 'Nos próximos dias',
+    notes: ['The cards themselves, in their own shape, hung from a rail of dates. Today holds its two cards side by side, each with its door beneath; every novena hangs from the day it begins.',
+      'Time is the layout, so "approaching" needs no words, and the holy-card shape sets this row apart from the meditations. It reads as a calendar more than an invitation: there is no join button, the card opens the program.'] },
+  { key: 'C', name: 'The ledger and the invitations', row: rowC, title: 'Eventos',
+    notes: ['Parchment panels instead of paintings. Today is a small ledger: one line per door, what to do on the left, the card it gives on the right. Each program is an invitation with its card, its dates and a button to join from the row.',
+      'The clearest answer to "how", and the only one where joining takes one tap. Heaviest of the four, and the least like the rest of Today.'] },
+  { key: 'D', name: 'Medallions that open', row: rowD, title: 'Eventos',
+    notes: ['A short strip of medallions, a ring filling as a novena is prayed. Tapping one opens its panel beneath, in place: nothing covers the page. (Tap them here.)',
+      'Smallest footprint closed, the full ledger on demand, and it scales to many events. But the how is hidden until a tap, and round portraits lose most of each card.'] },
+]
+
+let selected = 0
+function render() {
+  document.getElementById('app').innerHTML = dirs.map((d) => {
+    const row = d.key === 'D' ? d.row(selected) : d.row()
+    return `<section class="dir"><div class="phone">
+      <div class="sec"><div class="label">Meditações diárias</div><div class="row">${meditations.map(tile).join('')}</div></div>
+      <div class="sec"><div class="label">${d.title} <i>→</i></div>${row}</div>
+      <div class="fid"><div class="label">Fidelidade</div><div class="wall">${wall}</div></div>
+    </div><div class="side"><h2>${d.key} · ${d.name.toUpperCase()}</h2>${d.notes.map((n) => `<p>${n}</p>`).join('')}
+      <div class="cap">THE WHOLE ROW</div><div class="unrolled">${d.key === 'D' ? d.row(selected).split('</div><div class="open')[0] + '</div>' : row}</div></div></section>`
+  }).join('')
+  document.querySelectorAll('.phone .med').forEach((el) => el.addEventListener('click', () => { selected = Number(el.dataset.i); render() }))
+}
+render()
+</script>
+</body>
+</html>

@@ -1,6 +1,7 @@
 export { AddToCollectionSheet } from './AddToCollectionSheet'
 export { ContinueRow } from './ContinueRow'
 export { CreateCollectionSheet } from './CreateCollectionSheet'
+export { favoritesId, favoritesTone } from './favorites'
 export { LibraryActionRow } from './LibraryActionRow'
 export { LibraryFeed } from './LibraryFeed'
 export { ManageCollectionSheet } from './ManageCollectionSheet'

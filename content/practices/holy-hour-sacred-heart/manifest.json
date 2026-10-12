@@ -11,6 +11,7 @@
     "adoration"
   ],
   "estimatedMinutes": 60,
+  "duration": { "type": "chosen", "default": 60, "choices": [15, 30, 45, 60] },
   "flowMode": "scroll",
   "completion": "flow-end",
   "flow": "flow.json",

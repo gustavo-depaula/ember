@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 20,
+	"duration": { "type": "chosen", "default": 20, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "A method written for Capuchin novices, and one of the simplest and most attractive there is: twelve acts in three fours. Its mark is that the meditation begins not with ourselves but with God, whose perfection the mystery shows.",
 		"pt-BR": "Um método escrito para noviços capuchinhos, e um dos mais simples e atraentes que há: doze atos em três grupos de quatro. A sua marca é que a meditação começa não por nós, mas por Deus, cuja perfeição o mistério manifesta."

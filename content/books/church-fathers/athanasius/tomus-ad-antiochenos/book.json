@@ -2,13 +2,16 @@
   "id": "athanasius-tomus-ad-antiochenos",
   "cover": "quarter",
   "name": {
-    "en-US": "Tomus ad Antiochenos"
+    "en-US": "Tomus ad Antiochenos",
+    "pt-BR": "Tomus ad Antiochenos"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Tomus ad Antiochenos"
+        "en-US": "Tomus ad Antiochenos",
+        "pt-BR": "Tomus ad Antiochenos"
       }
     }
   ]

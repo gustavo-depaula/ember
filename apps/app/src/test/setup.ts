@@ -299,7 +299,12 @@ vi.mock('expo-notifications', () => ({
   getAllScheduledNotificationsAsync: async () => [],
   setNotificationChannelAsync: async () => {},
   AndroidImportance: { HIGH: 4 },
-  SchedulableTriggerInputTypes: { CALENDAR: 'calendar', DAILY: 'daily', WEEKLY: 'weekly' },
+  SchedulableTriggerInputTypes: {
+    CALENDAR: 'calendar',
+    DAILY: 'daily',
+    WEEKLY: 'weekly',
+    DATE: 'date',
+  },
 }))
 
 vi.mock('expo-splash-screen', () => ({

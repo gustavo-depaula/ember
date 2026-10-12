@@ -1,0 +1,53 @@
+{
+	"id": "trisagion-prayers",
+	"icon": "candle",
+	"name": {
+		"en-US": "Trisagion Prayers",
+		"pt-BR": "Orações do Trisagion"
+	},
+	"source": {
+		"en-US": "Text as in the corpus's Byzantine morning rule: structured after the [Byzantine Catholic morning rule of prayer](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) (byzcath.org); Portuguese text from the *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019).",
+		"pt-BR": "Texto como na regra matinal bizantina do corpus: estruturado conforme a [regra matinal bizantina católica](https://www.byzcath.org/index.php/resources/worship-prayer-old/a-rule-of-prayer?view=article&id=2705:a-morning-rule-of-prayer&catid=31) (byzcath.org); texto português retirado do *Pequeno Devocionário Ortodoxo* (Ortodoxia.pt, 2019)."
+	},
+	"categories": [
+		"daily",
+		"byzantine"
+	],
+	"estimatedMinutes": 3,
+	"flowMode": "scroll",
+	"completion": "flow-end",
+	"flow": "flow.json",
+	"description": {
+		"en-US": "The opening prayers of nearly every Byzantine service and private rule: *O Heavenly King*, the thrice-holy hymn, the prayer to the Most Holy Trinity and the Our Father.",
+		"pt-BR": "As orações iniciais de quase todo ofício bizantino e de toda regra privada: *Ó Rei celeste*, o hino três vezes santo, a oração à Santíssima Trindade e o Pai-Nosso."
+	},
+	"history": {
+		"en-US": "*Trisagion* is Greek for \"thrice holy\". The hymn *Holy God, Holy Mighty, Holy Immortal* has been sung in the liturgy of Constantinople since the fifth century, and the short sequence built around it opens the hours of the *Horologion*, the Divine Liturgy's preparation and the daily prayers of the faithful, Catholic and Orthodox alike.",
+		"pt-BR": "*Trisagion* é o grego para \"três vezes santo\". O hino *Santo Deus, Santo Forte, Santo Imortal* é cantado na liturgia de Constantinopla desde o século V, e a breve sequência construída em torno dele abre as horas do *Horológio*, a preparação da Divina Liturgia e as orações diárias dos fiéis, católicos e ortodoxos."
+	},
+	"howToPray": {
+		"en-US": "Pray standing before an icon, making the sign of the cross and a small bow at each *Holy God* and at each *Glory*. They can stand alone as a short rule, or open any other prayer.",
+		"pt-BR": "Reze de pé diante de um ícone, fazendo o sinal da cruz e uma pequena inclinação a cada *Santo Deus* e a cada *Glória*. Podem ser rezadas sozinhas, como regra breve, ou abrir qualquer outra oração."
+	},
+	"tags": [
+		"byzantine",
+		"eastern",
+		"horologion",
+		"trinity",
+		"morning",
+		"evening"
+	],
+	"defaults": {
+		"sortOrder": 21,
+		"slots": [
+			{
+				"schedule": {
+					"type": "daily"
+				},
+				"time": "07:00",
+				"tier": "extra",
+				"enabled": false
+			}
+		]
+	}
+}

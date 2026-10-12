@@ -141,11 +141,8 @@ export function roundActs(
   const todayStr = format(today, 'yyyy-MM-dd')
   const acts: Act[] = []
   const cards: Record<string, string> = {}
-  const seen = new Set<string>()
-  for (const slot of plan.slots.values()) {
-    const practiceId = slot.practice_id
-    if (seen.has(practiceId)) continue
-    seen.add(practiceId)
+  // A round is kept by marking its days, in the plan or not.
+  for (const practiceId of plan.completionsByPractice.keys()) {
     const program = manifestOf(practiceId)?.program
     if (!program?.days) continue
     Object.assign(cards, program.holyCard)

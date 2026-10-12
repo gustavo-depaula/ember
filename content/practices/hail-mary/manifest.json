@@ -39,7 +39,8 @@
 					"sl": "Zdrava, Marija, milosti polna, Gospod je s teboj, blagoslovljena si med ženami in blagoslovljen je sad tvojega telesa, Jezus.\n\nSveta Marija, Mati Božja, prosi za nas grešnike zdaj in ob naši smrtni uri. Amen.",
 					"sv": "Var hälsad, Maria, full av nåd, Herren är med dig. Välsignad är du bland kvinnor, och välsignad är din livsfrukt, Jesus.\n\nHeliga Maria, Guds moder, bed för oss syndare, nu och i vår dödsstund. Amen."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/ave-maria"}
 		]
 	}
 }

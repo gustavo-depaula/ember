@@ -3,7 +3,7 @@ import { useMemo } from 'react'
 import { useWindowDimensions } from 'react-native'
 import type { Bbox, Cluster, NearbyChurch } from '@/lib/mass-times'
 import { useMapView } from '@/lib/mass-times'
-import { useFavoritesStore } from './favorites'
+import { useFavorites } from './favorites'
 import type { DeviceLocation } from './useDeviceLocation'
 import { useDeviceLocation } from './useDeviceLocation'
 
@@ -57,9 +57,9 @@ export const emptyFilter: MassFilter = { kind: undefined, favoritesOnly: false }
 export function passesFilter(
   church: { id: string },
   filter: MassFilter,
-  favorites: Record<string, unknown>,
+  favorites: { has(id: string): boolean },
 ): boolean {
-  return !filter.favoritesOnly || Boolean(favorites[church.id])
+  return !filter.favoritesOnly || favorites.has(church.id)
 }
 
 export type MassTimesNearby = {
@@ -81,7 +81,7 @@ export type MassTimesNearby = {
 // as do `favoritesOnly`. Distance is from the user, never the map center, and only once located.
 export function useMassTimesNearby(filter: MassFilter, region?: MapRegion): MassTimesNearby {
   const location = useDeviceLocation()
-  const favorites = useFavoritesStore((s) => s.favorites)
+  const favorites = useFavorites()
 
   const view: MapRegion = region ?? {
     latitude: location.coords.lat,

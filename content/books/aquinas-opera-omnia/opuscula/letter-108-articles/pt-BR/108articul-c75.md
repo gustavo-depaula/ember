@@ -1,0 +1,3 @@
+# Artigo 74
+
+O que se põe em septuagésimo quarto lugar: *a predestinação é a causa primeira da salvação, o livre-arbítrio a próxima; e o efeito segue mais a condição da causa próxima, como é patente na geração das coisas inferiores a partir do movimento necessário das superiores*, é verdadeiro quanto a algo, a saber, quanto à contingência e à necessidade: porque, se a causa primeira é necessária e a segunda contingente, segue-se um efeito contingente; mas não devia ser proposto de modo geral. Mas o que o objetante cavila, que Deus é mais causa próxima do que o livre-arbítrio, é inteiramente frívolo: pois Deus é causa próxima segundo a eficácia da ação, e não segundo a ordem de enumeração das causas.

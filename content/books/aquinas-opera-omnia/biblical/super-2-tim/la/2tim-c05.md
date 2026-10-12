@@ -272,7 +272,7 @@ secundo ostendit poenam eius futuram, ibi ***reddet ei***, etc.;
 
 tertio ostendit quomodo sit etiam secundum Ecclesiam puniendus, ibi ***quem et tu devita***.  
 
-**160**. Videtur quod hic Alexander fuit artifex aeris, vel custos aerarii; et erat de his qui dixerunt legalia esse de necessitate salutis servanda. I Tim. I, 19: *circa fidem naufragaverunt, ex quibus est Hymenaeus et Alexander*. Et dicunt quidam, quod iste est de quo dicitur Act. XIX, 24, quia concitavit seditionem in Apostolum; sed nomen dissonat, quia ille Demetrius, hic Alexander, et Lucas; quia ille Ephesi, iste Romae fuit.  
+**160**. Videtur quod hic Alexander fuit artifex aeris, vel custos aerarii; et erat de his qui dixerunt legalia esse de necessitate salutis servanda. I Tim. I, 19: *circa fidem naufragaverunt, ex quibus est Hymenaeus et Alexander*. Et dicunt quidam, quod iste est de quo dicitur Act. XIX, 24, quia concitavit seditionem in Apostolum; sed nomen dissonat, quia ille Demetrius, hic Alexander, et locus; quia ille Ephesi, iste Romae fuit.  
 
 Et subiungit ***multa mala mihi ostendit***. Et nota quod non dicit *fecit*, sed quod ***ostendit***, quia impii adversus iustos animum ostendere possunt, sed non semper explent, Ier. c. I, 19. Ier. XV, 20: *bellabunt adversum te, et non praevalebunt, quia ego tecum sum*. Iob V, 12: *qui dissipat cogitationes malignorum, ne possint adimplere manus eorum quod coeperunt. Qui apprehendit sapientes in astutia eorum, et consilium pravorum dissipat*.  
 

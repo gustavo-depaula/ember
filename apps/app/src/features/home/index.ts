@@ -1,6 +1,7 @@
 export {
   Aspiratio,
   DateScrubber,
+  EventsRow,
   FidelitySheet,
   LiturgicalHeader,
   NavigationMedallion,

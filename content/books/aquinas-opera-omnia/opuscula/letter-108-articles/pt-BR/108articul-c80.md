@@ -1,0 +1,3 @@
+# Artigo 79
+
+O que se põe em septuagésimo nono lugar: *Deus é verdadeiramente tudo o que é para si: entende-se das coisas que é para si absolutamente, como bom, sábio, e não das que é para si segundo o modo de entender, como finito, compreensível*, deve-se acrescentar "segundo um certo modo de entender": pois, quando se diz que Deus é para si finito ou compreensível, não se diz do mesmo modo que se dizem finitas e compreensíveis as outras coisas, mas de um certo modo especial, de sorte que se entenda dito mais negativa do que afirmativamente: pois diz-se para si compreensível porque não excede o seu intelecto; e finito porque não é para si desconhecido ou impercorrível segundo o intelecto; mas bom e sábio diz-se afirmativamente.

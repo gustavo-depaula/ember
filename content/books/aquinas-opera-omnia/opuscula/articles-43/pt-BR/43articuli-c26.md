@@ -1,0 +1,5 @@
+# Artigo 36
+
+O trigésimo sexto artigo é se os corpos glorificados dos santos brilharão mais que o sol, e o sol sete vezes mais que agora, e os corpos dos santos sete vezes mais que o sol de então.
+
+Diz-se, quanto ao primeiro, que Crisóstomo, expondo aquilo de Mt 13, 43: *então os justos brilharão como o sol no reino de seu Pai*, diz: *não porque só tanto quanto o sol, mas porque não conhecemos nada mais luminoso que este astro*. Quanto às outras coisas que se seguem, não me ocorre por que não possam ser ditas com segurança; sobretudo porque, na renovação do mundo, é certo segundo a doutrina católica que toda a criatura corporal será melhorada, *a qual espera a revelação dos filhos de Deus*, como se diz em Rm 8, 19. Também Jerônimo diz, sobre aquilo de Mt 24, 29: *o sol escurecer-se-á, e a lua não dará a sua luz: isto não acontecerá por diminuição da luz, já que lemos que o sol há de ter sete vezes mais luz; mas, em comparação com a verdadeira luz, todas as coisas aparecerão tenebrosas à vista*.

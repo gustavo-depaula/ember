@@ -41,11 +41,8 @@ import {
   warmDeferredManifests,
 } from '@/content/resolver'
 import { useDbInit } from '@/db/client'
-import { canonicalizePracticeIds, seedCursors, seedPractices } from '@/db/seed'
-import { useCheckInsStore } from '@/features/mass-times/checkins'
-import { useFavoritesStore } from '@/features/mass-times/favorites'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
-import { refileMisplacedCompletions } from '@/features/plan-of-life'
+import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
@@ -114,18 +111,14 @@ export default function RootLayout() {
     hydrate: hydratePrefs,
   } = usePreferencesStore()
   const { hydrated: bibleHydrated, hydrate: hydrateBible } = useBibleStore()
-  const hydrateFavorites = useFavoritesStore((s) => s.hydrate)
-  const hydrateCheckIns = useCheckInsStore((s) => s.hydrate)
 
   useEffect(() => {
     if (!dbReady) return
     hydratePrefs()
     hydrateBible()
-    hydrateFavorites()
-    hydrateCheckIns()
-  }, [dbReady, hydratePrefs, hydrateBible, hydrateFavorites, hydrateCheckIns])
+  }, [dbReady, hydratePrefs, hydrateBible])
 
-  const [seeded, setSeeded] = useState(false)
+  const [corpusReady, setCorpusReady] = useState(false)
   const [bootStatus, setBootStatus] = useState<string | undefined>(undefined)
   // undefined until detected. Returning launches (cached catalog) boot from
   // local cache and keep the native splash up; only a true first launch shows
@@ -179,14 +172,12 @@ export default function RootLayout() {
         })
 
         setBootStatus(i18n.t('boot.almostReady'))
-        await Promise.all([seedPractices(), seedCursors()])
-        await canonicalizePracticeIds()
-        await refileMisplacedCompletions()
-        mark('seeded')
+        await straightenPlanOnce()
+        mark('plan settled')
       } catch (err) {
         console.error('[startup] initCorpus failed:', err)
       } finally {
-        setSeeded(true)
+        setCorpusReady(true)
         setupNotifications()
           .then(() => rescheduleAllReminders())
           .then(() => cancelRetiredMassReminders())
@@ -195,7 +186,6 @@ export default function RootLayout() {
         InteractionManager.runAfterInteractions(() => {
           loadCatalogFromHearth()
             .then(() => Promise.all([warmCriticalManifests(), warmDeferredManifests()]))
-            .then(() => seedPractices())
             .then(() =>
               maybeRunCacheEviction().catch((err) =>
                 console.warn('[startup] cache eviction failed:', err),
@@ -212,16 +202,16 @@ export default function RootLayout() {
   // Core UI infra (fonts, theme, db, prefs) — gates the splash hide so we can
   // show a custom loading screen while the corpus warms.
   const coreReady = fontsLoaded && prefsHydrated && bibleHydrated && dbReady
-  const ready = coreReady && seeded
+  const ready = coreReady && corpusReady
   // First launch must download content (show the loader immediately); a
   // returning launch only reveals it if warming overruns the grace window.
-  const showBootScreen = coreReady && !seeded && (firstLaunch === true || graceExpired)
+  const showBootScreen = coreReady && !corpusReady && (firstLaunch === true || graceExpired)
 
   useEffect(() => {
-    if (firstLaunch !== false || !coreReady || seeded) return
+    if (firstLaunch !== false || !coreReady || corpusReady) return
     const t = setTimeout(() => setGraceExpired(true), 450)
     return () => clearTimeout(t)
-  }, [firstLaunch, coreReady, seeded])
+  }, [firstLaunch, coreReady, corpusReady])
 
   useEffect(() => {
     if (ready || showBootScreen) SplashScreen.hideAsync()

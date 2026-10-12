@@ -1,5 +1,6 @@
 export { Aspiratio } from './Aspiratio'
 export { DateScrubber } from './DateScrubber'
+export { EventsRow } from './EventsRow'
 export { FidelitySheet, openFidelity } from './FidelitySheet'
 export { LiturgicalHeader } from './LiturgicalHeader'
 export { NavigationMedallion } from './NavigationMedallion'

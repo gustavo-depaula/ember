@@ -1,8 +1,9 @@
 import { openDatabaseAsync } from 'expo-sqlite'
 import { Platform } from 'react-native'
 
-import { eventsTableSql } from '@/db/events/store'
+import { createEventsTable } from '@/db/events/store'
 import initialMigration from '@/db/migrations/0001_initial.sql'
+import { adaptNativeDb } from './native-adapter'
 
 /**
  * `crypto` isn't a global on React Native's JS engine, and expo-crypto's
@@ -187,7 +188,7 @@ async function sendRequest(body: RequestBody): Promise<unknown> {
 async function becomeLeader(): Promise<void> {
   realDb = await openDatabaseAsync('ember.db')
   await realDb.execAsync(initialMigration)
-  await realDb.execAsync(eventsTableSql)
+  await createEventsTable(adaptNativeDb(realDb))
   isLeader = true
   ensureChannel().postMessage({ type: 'leader-ready', leaderId: tabId })
   leaderReady.resolve()

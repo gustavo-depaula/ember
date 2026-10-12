@@ -29,6 +29,10 @@ export type CatalogItemKind =
   | 'loth-extras'
   | 'loth-library'
   | 'do-data'
+  | 'chant'
+  | 'chant-book'
+  | 'chant-index'
+  | 'chant-bundle'
   | 'collection'
   | 'plan-of-life-template'
   | 'checkup'
@@ -77,8 +81,13 @@ export type CatalogEntry = {
   form?: 'prayer'
   liturgical?: boolean
   estimatedMinutes?: number
+  // An office's shortest and longest hour, in place of its `hourMinutes`.
+  minutesRange?: [number, number]
+  duration?: PracticeDuration
   cover?: string
   subtitle?: LocalizedText
+  /** A chant's mode, as its book numbers it (`1`–`8`, or a letter for a tonus). */
+  mode?: string
   // Praying this practice is Mass or the Office (holy cards); forms carry their
   // group primary's, resolved at build.
   liturgicalAct?: LiturgicalAct
@@ -88,6 +97,16 @@ export type CatalogEntry = {
 }
 
 export type LiturgicalAct = 'mass' | 'office'
+
+/**
+ * A length the text can't give. `chosen`: as long as the person gives it
+ * (mental prayer, a holy hour) — the plan keeps their choice among `choices`.
+ * `by-day`: as long as the celebration, which Sundays and holy days of
+ * obligation lengthen (Mass).
+ */
+export type PracticeDuration =
+  | { type: 'chosen'; default: number; choices: number[] }
+  | { type: 'by-day'; weekday: number; sunday: number }
 
 /** The morning offering, the rosary and the examination of conscience: all three prayed on one day give what the Office gives. */
 export type DayPrayer = 'offering' | 'rosary' | 'examen'
@@ -165,7 +184,15 @@ export type PracticeManifest = {
   history?: LocalizedText
   howToPray?: LocalizedText
   categories?: string[]
+  // Minutes to pray it. What a manifest leaves out is counted from its text at
+  // build: `estimatedMinutes`, and for an office `hourMinutes` (by option id
+  // of its hour select). An office an engine assembles has no text to count:
+  // its `hourMinutes` are measured by scripts/measure-hour-minutes.ts.
+  // `duration` is for a length no text gives. Read them through
+  // `practiceMinutes`.
   estimatedMinutes?: number
+  hourMinutes?: Record<string, number>
+  duration?: PracticeDuration
   icon?: string
   image?: string
   thumbnail?: string
@@ -191,6 +218,13 @@ export type PracticeManifest = {
   vars?: Record<string, string>
   pack?: string
   tags?: string[]
+  // What search reads beyond the names, by language. Written by the corpus
+  // build: `keywords` are the manifest's own plus the collection headings the
+  // practice is filed under; `lines` open the prayers its flow words itself.
+  search?: {
+    keywords?: Partial<Record<string, string[]>>
+    lines?: Partial<Record<string, string[]>>
+  }
   defaults?: { sortOrder?: number; slots?: SlotDefault[] }
   notifications?: NotificationsManifest
   /** Inline flow — alternative to a separate flow.json hashed into flowHash. */

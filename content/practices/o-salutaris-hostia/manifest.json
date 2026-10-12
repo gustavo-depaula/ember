@@ -22,7 +22,8 @@
 					"pt-BR": "Ó Hóstia salutar,\nque do céu nos abris a porta,\nos inimigos nos oprimem:\ndai-nos força, trazei-nos socorro.\n\nAo Senhor Uno e Trino\nseja dada sempiterna glória;\nque nos conceda a vida sem fim,\nna pátria, juntamente. Amém.",
 					"la": "O salutaris Hostia,\nquae caeli pandis ostium:\nbella premunt hostilia,\nda robur, fer auxilium.\n\nUni trinoque Domino\nsit sempiterna gloria,\nqui vitam sine termino\nnobis donet in patria. Amen."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/o-salutaris-hostia"}
 		]
 	}
 }

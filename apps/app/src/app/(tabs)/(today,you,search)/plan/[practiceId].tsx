@@ -67,7 +67,7 @@ const tiers: Tier[] = ['essential', 'ideal', 'extra']
 type Sheet =
   | { kind: 'when'; mode: 'edit' | 'days'; slots: SlotState[] }
   | { kind: 'new'; schedule: Schedule; time: string; pins?: Record<string, string> }
-  | { kind: 'tier' | 'reminder' | 'hours' | 'form' }
+  | { kind: 'tier' | 'reminder' | 'length' | 'hours' | 'form' }
 
 /**
  * A practice in the rule of life, set like its prayer page: the rule written
@@ -88,7 +88,7 @@ export default function PlanPracticeScreen() {
   const group = useMemo(() => getAlternativeGroup(practiceId), [practiceId])
   const programProgress = useProgramProgress(practiceId, manifest?.program)
   const enabled = slots.filter((s) => s.enabled === 1)
-  // Archived, or only the switched-off placeholder every practice is seeded with.
+  // Archived, or taken out of the plan with its slots switched off.
   const outOfRule = practice?.archived === 1 || enabled.length === 0
   const plan = usePracticePlan(baseManifest)
 
@@ -221,6 +221,7 @@ export default function PlanPracticeScreen() {
       data: { tier, time, schedule: JSON.stringify(schedule), pins },
     })
     if (first.notify) updateSlot.mutate({ id: key, data: { notify: first.notify } })
+    if (first.minutes) updateSlot.mutate({ id: key, data: { minutes: first.minutes } })
   }
 
   const setAll = (data: Parameters<typeof updateSlot.mutate>[0]['data']) => {
@@ -245,7 +246,16 @@ export default function PlanPracticeScreen() {
     .filter(Boolean)
     .join(' · ')
 
-  const closing = templatePieces(t('rule.closing', nodeMarkers('tier', 'reminder')), {
+  // A practice as long as its person makes it says for how long.
+  const length = manifest?.duration?.type === 'chosen' ? manifest.duration : undefined
+  const minutes = first.minutes ?? length?.default ?? 0
+  const closingKey = length ? 'rule.closingFor' : 'rule.closing'
+  const closing = templatePieces(t(closingKey, nodeMarkers('tier', 'length', 'reminder')), {
+    length: {
+      text: t('rule.length', { count: minutes }),
+      onPress: () => show({ kind: 'length' }),
+      label: t('a11y.ruleEditLength'),
+    },
     tier: {
       text: t(`tier.${tier}`).toLocaleLowerCase(),
       onPress: () => show({ kind: 'tier' }),
@@ -515,6 +525,23 @@ export default function PlanPracticeScreen() {
                 ? { enabled: false }
                 : { enabled: true, reminders: [{ offset: Number(k) }] }
             setAll({ notify: JSON.stringify(next) })
+            close()
+          }}
+        />
+      ) : null}
+
+      {sheet?.kind === 'length' && length ? (
+        <ChoiceSheet
+          open={open}
+          onClose={close}
+          title={t('rule.lengthTitle')}
+          // A length kept from before the choices changed stays on the list.
+          options={[...new Set([...length.choices, minutes])]
+            .sort((a, b) => a - b)
+            .map((m) => ({ key: String(m), label: t('rule.length', { count: m }) }))}
+          selected={String(minutes)}
+          onPick={(k) => {
+            setAll({ minutes: Number(k) })
             close()
           }}
         />

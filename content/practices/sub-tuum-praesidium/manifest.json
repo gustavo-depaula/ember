@@ -20,7 +20,8 @@
 					"pt-BR": "A vossa proteção recorremos, Santa Mãe de Deus. Não desprezeis as nossas súplicas em nossas necessidades, mas livrai-nos sempre de todos os perigos, ó Virgem gloriosa e bendita. Amém.",
 					"la": "Sub tuum praesidium confugimus, sancta Dei Genitrix. Nostras deprecationes ne despicias in necessitatibus, sed a periculis cunctis libera nos semper, Virgo gloriosa et benedicta. Amen."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/sub-tuum-praesidium"}
 		]
 	}
 }

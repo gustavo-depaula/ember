@@ -301,7 +301,7 @@ function PracticeSheet({ actions }: { actions: Actions }) {
           <LabeledGlyph
             icon={Star}
             filled={save.saved}
-            label={save.saved ? t('library.saved') : t('library.save')}
+            label={save.saved ? t('library.favorited') : t('library.favorite')}
             active={save.saved}
             disabled={save.isWorking}
             onPress={actions.onSave}

@@ -9,9 +9,11 @@
 // today's office.
 
 import { assembleHour, doLangDir, officeVersion } from '@ember/divinum-officium'
-import type { Primitive } from '@/content/primitives'
+import type { ChantPrimitive, Primitive } from '@/content/primitives'
+import { findOfficeChants } from '@/features/chant/propers'
+import { type PsalmTone, pointPsalm, psalmOf, toneOf } from '@/features/chant/psalmody'
 import type { ContentSource, SourceFetchContext } from '../types'
-import { mapItemsToPrimitives } from './blocks'
+import { chantPrimitive, partNames, withChant } from './chant'
 import { createCorpusDoLoader } from './loader'
 
 const hours = [
@@ -29,7 +31,7 @@ type Hour = (typeof hours)[number]
 
 export const doHourSource: ContentSource<Primitive[]> = {
   id: 'producer/do-hour',
-  version: '11',
+  version: '14',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -49,6 +51,38 @@ export const doHourSource: ContentSource<Primitive[]> = {
       lang2: doLangDir(ctx.prefs.lang),
       votive,
     })
-    return mapItemsToPrimitives(assembled.vernacular ?? assembled.latin, assembled.latin)
+    // What is sung in the hour — antiphons, the hymn, the short responsory — is
+    // one block with its chant where the corpus has it, found by the text. An
+    // antiphon is printed before its psalms and after them, in the little hours
+    // items apart: its chant goes with the first.
+    //
+    // A psalm follows its antiphon's tone, which the antiphon's score names; in
+    // the little hours one antiphon governs three psalms, so the tone carries
+    // from item to item until another antiphon gives another.
+    const latin = assembled.latin
+    const found = await Promise.all(latin.map((item) => findOfficeChants(item.split('\n'))))
+    const set = new Set<string>()
+    let tone: PsalmTone | undefined
+    const chants = latin.map((item, i): ChantPrimitive[] => {
+      const out: ChantPrimitive[] = []
+      for (const chant of found[i]) {
+        if (chant.genre === 'an') tone = toneOf(chant.mode, chant.score)
+        if (set.has(chant.id)) continue
+        set.add(chant.id)
+        out.push(chantPrimitive(chant, partNames[chant.genre]))
+      }
+      const psalm = psalmOf(item.split('\n'))
+      if (psalm && tone) {
+        out.push({
+          type: 'chant',
+          name: psalm.name,
+          part: 'Psalmus',
+          commentary: `Tonus ${tone.name}`,
+          score: pointPsalm(tone, psalm.verses),
+        })
+      }
+      return out
+    })
+    return withChant(assembled.vernacular ?? latin, latin, (_, i) => chants[i])
   },
 }

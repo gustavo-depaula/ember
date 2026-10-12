@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-holy-trinity-and-of-the-godhead-of-the-holy-spirit",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Holy Trinity, and of the Godhead of the Holy Spirit (To Eustathius)"
+    "en-US": "On the Holy Trinity, and of the Godhead of the Holy Spirit (To Eustathius)",
+    "pt-BR": "Sobre a Santíssima Trindade e a Divindade do Espírito Santo (A Eustácio)"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Holy Trinity, and of the Godhead of the Holy Spirit (To Eustathius)"
+        "en-US": "On the Holy Trinity, and of the Godhead of the Holy Spirit (To Eustathius)",
+        "pt-BR": "Sobre a Santíssima Trindade e a Divindade do Espírito Santo (A Eustácio)"
       }
     }
   ]

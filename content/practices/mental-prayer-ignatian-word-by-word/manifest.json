@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 15,
+	"duration": { "type": "chosen", "default": 15, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The second of St. Ignatius' three methods: take the Our Father — or any prayer, psalm or passage of Scripture — and stay on each word for as long as you find something in it. The simplest door into affective prayer.",
 		"pt-BR": "O segundo dos três modos de orar de Santo Inácio: tome o Pai Nosso — ou qualquer oração, salmo ou passagem da Escritura — e fique em cada palavra enquanto nela achar alguma coisa. A porta mais simples para a oração afetiva."

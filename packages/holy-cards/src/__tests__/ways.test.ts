@@ -3,6 +3,7 @@ import { fileURLToPath } from 'node:url'
 import type { MissalCalendar } from '@ember/missal'
 import { describe, expect, it } from 'vitest'
 import { grants } from '../engine'
+import { offersToday } from '../today'
 import type { Act, Catalog, EngineInput } from '../types'
 import { waysToReceive } from '../ways'
 
@@ -115,5 +116,32 @@ describe('Other doors', () => {
     expect(ways('triduum', '2026-10-02')).toEqual([
       { door: 'triduum', days: ['2027-03-25', '2027-03-26', '2027-03-27'] },
     ])
+  })
+})
+
+describe("Today's cards", () => {
+  // 10 Oct 2026: a Saturday with no saint at Mass; Francis Borgia's day off the calendar.
+  const today = '2026-10-10'
+  const offers = (acts: Act[] = []) =>
+    offersToday(input(acts), today).map((o) => [o.act, o.done, o.grant.choice.join()])
+
+  it("draws a liturgical card at Mass and gives the day's saint by the Office or a prayed day", () => {
+    expect(offers()).toEqual([
+      ['mass', false, 'kyrie,chalice'],
+      ['office', false, 'francis_borgia'],
+      ['prayedDay', false, 'francis_borgia'],
+    ])
+  })
+
+  it('marks what is done, and gives a lone saint once', () => {
+    expect(offers([{ kind: 'office', date: today }])).toEqual([
+      ['mass', false, 'kyrie,chalice'],
+      ['office', true, 'francis_borgia'],
+    ])
+  })
+
+  it("gives the season's card with the Mass that completes it", () => {
+    const sundays = offersToday(input(mass('2026-11-29', '2026-12-06', '2026-12-13')), '2026-12-20')
+    expect(sundays.map((o) => o.grant.door)).toContain('seasonSunday')
   })
 })

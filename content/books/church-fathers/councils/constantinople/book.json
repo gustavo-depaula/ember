@@ -2,13 +2,16 @@
   "id": "councils-constantinople",
   "cover": "quarter",
   "name": {
-    "en-US": "Constantinople (382)"
+    "en-US": "Constantinople (382)",
+    "pt-BR": "Constantinopla (382)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Constantinople (382)"
+        "en-US": "Constantinople (382)",
+        "pt-BR": "Constantinopla (382)"
       }
     }
   ]

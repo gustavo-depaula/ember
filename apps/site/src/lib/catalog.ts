@@ -1,11 +1,11 @@
 import { getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
+import { minutesText, practiceMinutes } from '@/content/duration'
 import type { CatalogEntry } from '@/content/manifestTypes'
 import { coverFor, type TileCover } from '@/features/covers/coverFor'
 import { artFor } from '@/features/explore/artMap'
 import { localizeContent } from '@/lib/i18n'
 import { href, hrefForRef } from '~/routes'
 import { type Locale, locales } from './locale'
-import { siteStrings } from './strings'
 
 type Localized = Record<string, string | undefined>
 
@@ -72,7 +72,7 @@ export function tileFor(ref: string, locale: Locale): TileData | undefined {
       ? href.bookChapter(chapterHome(entry.langs ?? ['en-US'], locale).locale, id, chapter)
       : hrefForRef(locale, ref)
   if (!entry || !to) return undefined
-  const s = siteStrings(locale)
+  const minutes = minutesText(practiceMinutes(entry))
   const subtitle =
     entry.kind === 'book'
       ? entry.author && localizeContent(entry.author as Localized)
@@ -80,9 +80,7 @@ export function tileFor(ref: string, locale: Locale): TileData | undefined {
         ? countLabel(locale, entry.itemCounts)
         : entry.kind === 'chapter'
           ? entry.subtitle && localizeContent(entry.subtitle as Localized)
-          : entry.estimatedMinutes
-            ? s('minutes', { count: entry.estimatedMinutes })
-            : undefined
+          : minutes
   return {
     ref,
     href: to,
@@ -95,7 +93,7 @@ export function tileFor(ref: string, locale: Locale): TileData | undefined {
 }
 
 export function listEntries(
-  kind: 'collection' | 'book' | 'chapter' | 'plan-of-life-template' | 'creator',
+  kind: 'collection' | 'book' | 'chapter' | 'plan-of-life-template' | 'creator' | 'chant',
 ) {
   return getEntriesByKind(kind).filter(([id]) => !isMetaId(id))
 }

@@ -5,64 +5,37 @@
  * collections (`usercollection/<id>`, no catalog entry) can be saved too.
  */
 
-import { broadcastChange } from '@/lib/db-shared/manager'
-import { getDb } from '../client'
+import { emit, useEventStore } from '../events'
+import type { SavedItem } from '../schema'
 
-export type SavedItem = {
-  itemId: string
-  kind: string
-  savedAt: number
-}
+export type { SavedItem }
 
-type Row = {
-  item_id: string
-  kind: string
-  saved_at: number
-}
-
-function rowToItem(row: Row): SavedItem {
-  return { itemId: row.item_id, kind: row.kind, savedAt: row.saved_at }
-}
-
-// `rowid DESC` breaks ties when several items are saved in the same millisecond,
-// so the most recently saved always sorts first.
+// Most recently saved first; the shelf's own order breaks a tie between items
+// saved in the same millisecond.
 export async function getSavedItems(): Promise<SavedItem[]> {
-  const rows = await getDb().getAllAsync<Row>(
-    'SELECT item_id, kind, saved_at FROM saved_items ORDER BY saved_at DESC, rowid DESC',
-  )
-  return rows.map(rowToItem)
+  return [...useEventStore.getState().savedItems.values()]
+    .reverse()
+    .sort((a, b) => b.savedAt - a.savedAt)
 }
 
 export async function getSavedItemsByKind(kind: string): Promise<SavedItem[]> {
-  const rows = await getDb().getAllAsync<Row>(
-    'SELECT item_id, kind, saved_at FROM saved_items WHERE kind = ? ORDER BY saved_at DESC, rowid DESC',
-    [kind],
-  )
-  return rows.map(rowToItem)
+  return (await getSavedItems()).filter((item) => item.kind === kind)
 }
 
 export async function isItemSaved(itemId: string): Promise<boolean> {
-  const row = await getDb().getFirstAsync<{ item_id: string }>(
-    'SELECT item_id FROM saved_items WHERE item_id = ?',
-    [itemId],
-  )
-  return Boolean(row)
+  return useEventStore.getState().savedItems.has(itemId)
 }
 
 export async function getSavedItemIds(): Promise<Set<string>> {
-  const rows = await getDb().getAllAsync<{ item_id: string }>('SELECT item_id FROM saved_items')
-  return new Set(rows.map((r) => r.item_id))
+  return new Set(useEventStore.getState().savedItems.keys())
 }
 
 export async function saveItem(itemId: string, kind: string): Promise<void> {
-  await getDb().runAsync(
-    'INSERT INTO saved_items (item_id, kind, saved_at) VALUES (?, ?, ?) ON CONFLICT (item_id) DO NOTHING',
-    [itemId, kind, Date.now()],
-  )
-  broadcastChange({ kind: 'invalidate', tags: ['saved-items'] })
+  if (useEventStore.getState().savedItems.has(itemId)) return
+  await emit({ type: 'ItemSaved', itemId, kind, savedAt: Date.now() })
 }
 
 export async function unsaveItem(itemId: string): Promise<void> {
-  await getDb().runAsync('DELETE FROM saved_items WHERE item_id = ?', [itemId])
-  broadcastChange({ kind: 'invalidate', tags: ['saved-items'] })
+  if (!useEventStore.getState().savedItems.has(itemId)) return
+  await emit({ type: 'ItemUnsaved', itemId })
 }

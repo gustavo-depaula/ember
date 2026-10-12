@@ -45,7 +45,8 @@
 					"sl": "Moja duša poveličuje Gospoda, moje srce se raduje v Bogu, mojem zveličarju. Ozrl se je na nizkost svoje dekle.\n\nGlej, odslej me bodo blagrovali vsi rodovi. Velike reči mi je storil Vsemogočni, njegovo ime je sveto. Iz roda v rod skazuje svoje usmiljenje vsem, ki mu zvesto služijo.\n\nDvignil je svojo močno roko, razkropil je vse, ki so napuhnjenih misli. Mogočne je vrgel s prestola in povišal je nizke. Lačne je napolnil z dobrotami in bogate je odpustil prazne.\n\nSprejel je svoje izvoljeno ljudstvo, kakor je obljubil našim očetom. Spomnil se je svoje dobrote do Abrahama in vseh njegovih potomcev.\n\nSlava Očetu in Sinu in Svetemu Duhu. Kakor je bilo v začetku, tako zdaj in vselej in vekomaj. Amen.",
 					"sv": "Min själ prisar Herrens storhet, min ande jublar över Gud min frälsare. Han har vänt sin blick till sin ringa tjänarinna, från denna stund skall alla släkten prisa mig salig.\n\nStora ting låter den Mäktige ske med mig, hans namn är heligt\noch hans förbarmande med dem som fruktar honom varar från släkte till släkte.\n\nHan gör mäktiga verk med sin arm, han skingrar dem som har övermodiga planer. Han störtar härskare från deras troner, och han upphöjer de ringa. Hungriga mättar han med sina gåvor, och rika visar han tomhänta från sig.\n\nHan tar sig an sin tjänare Israel och håller sitt löfte till våra fäder: att förbarma sig över Abraham och hans barn för evigt.\n\nÄra vare Fadern och Sonen och den Helige Ande, nu och alltid och i evigheters evighet. Amen."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/magnificat"}
 		]
 	},
 	"subtitle": {

@@ -1,0 +1,3 @@
+# Artigo 15
+
+O que se põe em décimo quinto lugar: *assim como o eterno é anterior ao temporal, assim algo eterno é anterior segundo a ordem ao temporal; por isso, a ordenação da potência ao ato eterno de gerar é anterior à sua ordem ao ato temporal de criar*, não dá lugar a censura: porque o ato de criar diz-se temporal quanto ao efeito conotado, em razão do qual não se concede que Deus crie desde a eternidade, embora a sua ação, que é a essência divina, seja eterna. Também o eterno, embora não tenha ordem a algo temporal como ao fim, tem, contudo, ordem a algo temporal como o princípio ao efeito; pois Deus, que é eterno, é princípio e fim de toda criatura.

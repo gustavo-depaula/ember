@@ -32,7 +32,6 @@ export function ruleTimeline(practiceId: string, events: TimedEvent[]): RuleSnap
     completionsByDate: new Map(),
     completionsByPractice: new Map(),
     cursors: new Map(),
-    nextCompletionId: 1,
   } as unknown as WritableDraft<EventStoreState>
   const snapshots: RuleSnapshot[] = []
 

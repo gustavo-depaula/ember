@@ -3,7 +3,7 @@ import { forwardRef, useImperativeHandle, useMemo, useRef } from 'react'
 import { Platform } from 'react-native'
 import { useTheme } from 'tamagui'
 import type { Cluster } from '@/lib/mass-times'
-import { useFavoritesStore } from '../favorites'
+import { useFavorites } from '../favorites'
 import type { MassTimesNearby } from '../useMassTimesNearby'
 import { clusterPrefix, pinColor } from './mapPins'
 
@@ -54,8 +54,8 @@ const NativeChurchesMap = forwardRef<
   const accent = theme.accent?.val
   const favoriteTint = theme.colorBurgundy?.val ?? accent
   const { churches, clusters } = nearby
-  // Raw record is referentially stable; we derive the per-marker icon from it in the memos below.
-  const favorites = useFavoritesStore((s) => s.favorites)
+  // The map is the same object until a favourite changes; the memos below derive each marker's icon from it.
+  const favorites = useFavorites()
 
   const appleRef = useRef<React.ElementRef<typeof AppleMaps.View>>(null)
   const googleRef = useRef<React.ElementRef<typeof GoogleMaps.View>>(null)
@@ -110,7 +110,7 @@ const NativeChurchesMap = forwardRef<
   const appleMarkers = useMemo(
     () => [
       ...pins.map((p) => {
-        const isFavorite = Boolean(favorites[p.id])
+        const isFavorite = favorites.has(p.id)
         return {
           id: p.id,
           coordinates: { latitude: p.lat, longitude: p.lng },

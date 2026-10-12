@@ -94,3 +94,20 @@ test("the Ember Days read the day's Mass from the 1962 missal, its lessons folde
   expect(plain).toContain('Advent Ember Days: Wednesday, December 16')
   expect(plain).not.toContain('Gospel')
 })
+
+test('a prayer kept in its own flow file is still prayed where another flow embeds it', async () => {
+  const rosary = await renderPractice('rosary', 'pt-BR', { date })
+  expect(JSON.stringify(rosary?.primitives)).toContain('Torre de marfim')
+  // Every practice that closes or opens on a litany, a Confiteor, a prayer to a saint.
+  for (const id of [
+    'rosary-54-day-novena',
+    'friday-passion',
+    'mental-prayer-alcantarine',
+    'thursday-eucharist',
+    'tuesday-angels',
+    'wednesday-joseph',
+  ]) {
+    const practice = await renderPractice(id, 'pt-BR', { date })
+    expect(JSON.stringify(practice?.primitives), id).not.toContain('Unknown prayer ref')
+  }
+})

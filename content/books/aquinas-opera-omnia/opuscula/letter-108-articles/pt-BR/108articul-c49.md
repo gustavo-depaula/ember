@@ -1,0 +1,3 @@
+# Artigo 48
+
+O que se põe em quadragésimo oitavo lugar: *o poder e o agir das coisas eternas não são de todo simultâneos, mas sucessivos; não, porém, contínuos, mas interrompidos*, é verdadeiro das ações segundo a sua natureza: pois têm ações sucessivas; por isso diz Agostinho que *Deus move a criatura espiritual pelo tempo*, e ser movido pelo tempo é ser movido por ações; mas as ações dos anjos segundo as quais fruem do Verbo são sem sucessão, e segundo elas estão na participação da eternidade. Também o poder do anjo se diz interrompido, não quanto à essência da potência, mas enquanto o poder se divide contra o agir, porque o anjo às vezes pode agir alguma coisa, às vezes age.

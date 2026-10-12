@@ -206,3 +206,18 @@ if (outline && flow) {
     if ((event.target as Element).closest('.picker')) window.setTimeout(draw)
   })
 }
+
+// A chant folded under a prayer is engraved when it is first opened; the
+// engraver is a large module, fetched only then (scripts/engrave.ts).
+for (const chant of document.querySelectorAll<HTMLDetailsElement>('details.chant')) {
+  chant.addEventListener(
+    'toggle',
+    async () => {
+      const sheet = chant.querySelector<HTMLElement>('.chant-sheet')
+      if (!sheet) return
+      const { engrave } = await import('./engrave')
+      engrave(sheet, chant.dataset.gabc ?? '', chant.dataset.name ?? '')
+    },
+    { once: true },
+  )
+}

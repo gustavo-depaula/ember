@@ -2,13 +2,16 @@
   "id": "athanasius-luke-10",
   "cover": "quarter",
   "name": {
-    "en-US": "On Luke 10:22 (Matthew 11:27)"
+    "en-US": "On Luke 10:22 (Matthew 11:27)",
+    "pt-BR": "Sobre Lucas 10:22 (Mateus 11:27)"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Luke 10:22 (Matthew 11:27)"
+        "en-US": "On Luke 10:22 (Matthew 11:27)",
+        "pt-BR": "Sobre Lucas 10:22 (Mateus 11:27)"
       }
     }
   ]

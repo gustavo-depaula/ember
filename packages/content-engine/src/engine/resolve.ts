@@ -112,6 +112,9 @@ export function resolveSection(
         },
       ]
 
+    case 'chant':
+      return [{ type: 'chant', ref: section.ref }]
+
     case 'prayer':
       if ('ref' in section) {
         const resolved = resolvePrayerRef(

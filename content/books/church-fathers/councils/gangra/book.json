@@ -2,13 +2,16 @@
   "id": "councils-gangra",
   "cover": "quarter",
   "name": {
-    "en-US": "Gangra (343)"
+    "en-US": "Gangra (343)",
+    "pt-BR": "Gangra (343)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Gangra (343)"
+        "en-US": "Gangra (343)",
+        "pt-BR": "Gangra (343)"
       }
     }
   ]

@@ -28,15 +28,13 @@ export function useCrossTabSync(): void {
         return
       }
       if (payload.kind === 'invalidate') {
-        for (const tag of payload.tags) {
-          if (tag === 'preferences') {
-            usePreferencesStore
-              .getState()
-              .hydrate()
-              .catch((err) => {
-                console.warn('[cross-tab] failed to re-hydrate preferences:', err)
-              })
-          }
+        if (payload.tags.includes('preferences')) {
+          usePreferencesStore
+            .getState()
+            .hydrate()
+            .catch((err) => {
+              console.warn('[cross-tab] failed to re-hydrate preferences:', err)
+            })
         }
       }
     })

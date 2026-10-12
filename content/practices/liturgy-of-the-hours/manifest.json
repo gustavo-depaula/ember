@@ -11,6 +11,15 @@
     "liturgical"
   ],
   "estimatedMinutes": 15,
+  "hourMinutes": {
+    "office-of-readings": 14,
+    "lauds": 11,
+    "terce": 6,
+    "sext": 6,
+    "none": 6,
+    "vespers": 10,
+    "compline": 8
+  },
   "description": {
     "en-US": "The official daily prayer of the Church, with today's texts for all seven canonical hours — from the Office of Readings to Compline — provided by iBreviary.",
     "pt-BR": "A oração diária oficial da Igreja, com os textos do dia para as sete horas canônicas — do Ofício das Leituras às Completas — na edição brasileira da Liturgia das Horas."

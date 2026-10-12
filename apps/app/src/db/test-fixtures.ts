@@ -3,13 +3,16 @@
 
 import { format, subDays } from 'date-fns'
 
-import { parseSlotKey } from '@/lib/slotKey'
+import { getManifest } from '@/content/resolver'
+import { defaultSlotOf } from '@/features/plan-of-life/defaultSlot'
+import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
+import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { useEventStore } from './events'
+import { nextId, useEventStore } from './events'
 import { emitBatch } from './events/store'
 import { getDb } from './instance'
-import { seedCursors, seedPractices } from './seed'
+import type { Tier } from './schema'
 
 const wipeSql = `
 DELETE FROM events;
@@ -41,19 +44,17 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
   // since `_layout.tsx` waits on these flags before rendering.
   await useBibleStore.getState().hydrate()
 
-  // Serial: each seed call ends up in `emitBatch` -> `runBatchInTx`, and a
-  // single expo-sqlite connection can't hold two transactions at once.
-  await seedPractices()
-  await seedCursors()
-
-  if (fixtures.enableSlotKeys?.length) {
-    await emitBatch(
-      fixtures.enableSlotKeys.map((slotKey) => ({
-        type: 'SlotUpdated' as const,
-        slotKey,
-        changes: { enabled: 1 },
-      })),
-    )
+  // Each joins the plan as it would from its own page, under the key given.
+  // Serial: a single expo-sqlite connection can't hold
+  // two transactions at once.
+  for (const slotKey of fixtures.enableSlotKeys ?? []) {
+    const { practiceId, slotId } = parseSlotKey(slotKey)
+    const manifest = getManifest(practiceId)
+    const schedule = manifest?.defaults?.slots?.[0]?.schedule
+    await addSlotUnderKey({ id: practiceId, activeVariant: practiceId }, slotId, {
+      ...defaultSlotOf(manifest),
+      schedule: schedule && JSON.stringify(schedule),
+    })
   }
 
   if (fixtures.historyDays && fixtures.enableSlotKeys?.length) {
@@ -72,7 +73,6 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
 async function seedHistory(slotKeys: string[], days: number, now?: string): Promise<void> {
   const db = getDb()
   const end = now ? new Date(`${now}T12:00:00`) : new Date()
-  let completionId = useEventStore.getState().nextCompletionId
   const events = slotKeys.map((slotKey, slotIndex) => {
     const { practiceId, slotId } = parseSlotKey(slotKey)
     const entries = Array.from({ length: days }, (_, i) => i + 1)
@@ -80,7 +80,7 @@ async function seedHistory(slotKeys: string[], days: number, now?: string): Prom
       .map((back) => {
         const day = subDays(end, back)
         return {
-          completionId: completionId++,
+          completionId: nextId(),
           date: format(day, 'yyyy-MM-dd'),
           subId: slotId,
           completedAt: day.getTime(),
@@ -96,4 +96,44 @@ async function seedHistory(slotKeys: string[], days: number, now?: string): Prom
     "UPDATE events SET timestamp = ? WHERE type IN ('PracticeCreated', 'SlotAdded', 'SlotUpdated')",
     [subDays(end, days + 1).getTime()],
   )
+}
+
+/**
+ * A practice's slot under a key the caller chooses, where the app would give
+ * it one of its own: for a flow that taps a known row, and for a test of a log
+ * whose slots were still numbered.
+ */
+export async function addSlotUnderKey(
+  practice: { id: string; customName?: string; customIcon?: string; activeVariant?: string },
+  slotId: string,
+  slot: { tier?: Tier; time?: string; schedule?: string; sortOrder?: number } = {},
+): Promise<string> {
+  const { practices, slots } = useEventStore.getState()
+  const slotKey = composeSlotKey(practice.id, slotId)
+  const time = slot.time ?? null
+  await emitBatch([
+    ...(practices.has(practice.id)
+      ? []
+      : [
+          {
+            type: 'PracticeCreated' as const,
+            practiceId: practice.id,
+            customName: practice.customName,
+            customIcon: practice.customIcon,
+            activeVariant: practice.activeVariant,
+          },
+        ]),
+    {
+      type: 'SlotAdded' as const,
+      practiceId: practice.id,
+      slotKey,
+      tier: slot.tier ?? 'ideal',
+      time,
+      timeBlock: deriveTimeBlock(time),
+      schedule: slot.schedule ?? '{"type":"daily"}',
+      sortOrder: slot.sortOrder ?? slots.size + 1,
+      enabled: 1,
+    },
+  ])
+  return slotKey
 }

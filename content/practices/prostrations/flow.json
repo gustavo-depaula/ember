@@ -1,0 +1,39 @@
+{
+	"sections": [
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Stand before an icon. For each prostration, make the sign of the cross, kneel, touch your forehead to the ground, and rise again, saying:",
+				"pt-BR": "De pé diante de um ícone. A cada prostração, faça o sinal da cruz, ajoelhe-se, toque a fronte no chão e levante-se de novo, dizendo:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "O God, be merciful to me a sinner.",
+				"pt-BR": "Ó Deus, sede misericordioso comigo, pecador."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Or, with each prostration, the Jesus Prayer:",
+				"pt-BR": "Ou, a cada prostração, a Oração de Jesus:"
+			}
+		},
+		{
+			"type": "prayer",
+			"inline": {
+				"en-US": "Lord Jesus Christ, Son of God, have mercy on me, a sinner.",
+				"pt-BR": "Senhor Jesus Cristo, Filho de Deus, tende misericórdia de mim, pecador."
+			}
+		},
+		{
+			"type": "rubric",
+			"text": {
+				"en-US": "Keep a number you can sustain — three, twelve, or a count of the prayer rope. Where a full prostration is not possible, bow from the waist and touch the ground with your hand.",
+				"pt-BR": "Mantenha um número que possa sustentar — três, doze, ou uma contagem do cordão de orações. Onde a prostração completa não for possível, incline-se da cintura e toque o chão com a mão."
+			}
+		}
+	]
+}

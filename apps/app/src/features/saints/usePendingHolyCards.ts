@@ -1,8 +1,12 @@
 import {
   type Catalog,
   type Copy,
+  type DayAct,
+  type EngineInput,
   type Grant,
   historyStart,
+  type Offer,
+  offersToday,
   pendingCards,
   redeem,
   type Season,
@@ -86,10 +90,11 @@ export function holyCardCatalog(
 }
 
 /**
- * The holy cards waiting to be redeemed today — sealed envelopes, soonest
- * deadline first. Undefined while the calendar and the cards load.
+ * What the holy-card rules read: the acts the plan's records hold, the
+ * calendar and the cards drawn so far. Undefined while the calendar and the
+ * cards load.
  */
-export function usePendingHolyCards(): Grant[] | undefined {
+function useHolyCardInput(): { input: EngineInput; today: string } | undefined {
   const day = useToday()
   const today = format(day, 'yyyy-MM-dd')
   const holyCards = useHolyCardCatalog()
@@ -107,7 +112,6 @@ export function usePendingHolyCards(): Grant[] | undefined {
   })
   const start = useMemo(() => historyStart(today, transfers), [today, transfers])
   const completions = useCompletionRange(start, today)
-  const copies = useEventStore((s) => s.holyCards)
   const plan = useEventStore(
     useShallow((s) => ({
       slots: s.slots,
@@ -140,16 +144,70 @@ export function usePendingHolyCards(): Grant[] | undefined {
 
   return useMemo(() => {
     if (!statics || !catalog || !since) return undefined
-    return pendingCards({
-      acts,
-      occurrences: [],
-      calendar: { statics, regions, transfers },
-      catalog,
-      firstOpened: since,
-      copies: [...copies.values()],
-      today,
-    })
-  }, [statics, regions, transfers, catalog, since, acts, copies, today])
+    const calendar = { statics, regions, transfers }
+    return { input: { acts, occurrences: [], calendar, catalog, firstOpened: since }, today }
+  }, [statics, regions, transfers, catalog, since, acts, today])
+}
+
+/**
+ * The holy cards waiting to be redeemed today — sealed envelopes, soonest
+ * deadline first. Undefined while the calendar and the cards load.
+ */
+export function usePendingHolyCards(): Grant[] | undefined {
+  const rules = useHolyCardInput()
+  const copies = useEventStore((s) => s.holyCards)
+  return useMemo(
+    () =>
+      rules && pendingCards({ ...rules.input, copies: [...copies.values()], today: rules.today }),
+    [rules, copies],
+  )
+}
+
+/**
+ * A card today can give: the acts that give it (the Office and a prayed day
+ * give the same saint, so they share a line), and how far it has come — still
+ * to be won, won and waiting in its envelope, or opened, when `card` is the
+ * one it held.
+ */
+export type TodayCard = {
+  acts: DayAct[]
+  grant: Grant
+  state: 'open' | 'won' | 'redeemed'
+  card?: string
+}
+
+/**
+ * Today's cards, in the order of their acts; `opened` is the card each
+ * redeemed grant gave. Pure, so the merging can be read apart from the hooks.
+ */
+export function todayCards(offers: Offer[], opened: ReadonlyMap<string, string>): TodayCard[] {
+  const cards: TodayCard[] = []
+  for (const { act, done, grant } of offers) {
+    const card = opened.get(grant.id)
+    const state = done ? (card ? 'redeemed' : 'won') : 'open'
+    const same = cards.find(
+      (c) =>
+        state === 'open' && c.state === 'open' && c.grant.choice.join() === grant.choice.join(),
+    )
+    if (same && !grant.drawn) same.acts.push(act)
+    else cards.push({ acts: [act], grant, state, card })
+  }
+  return cards
+}
+
+/** The holy cards today's Mass, Office and prayed day give. Undefined while the calendar and the cards load. */
+export function useCardsToday(): TodayCard[] | undefined {
+  const rules = useHolyCardInput()
+  const copies = useEventStore((s) => s.holyCards)
+  return useMemo(
+    () =>
+      rules &&
+      todayCards(
+        offersToday(rules.input, rules.today),
+        new Map([...copies.values()].map((c) => [c.grant, c.card])),
+      ),
+    [rules, copies],
+  )
 }
 
 /** Redeem an envelope: store its copy for good. `card` is the pick when it offers a choice. */

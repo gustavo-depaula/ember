@@ -2,13 +2,16 @@
   "id": "lactantius-poem-on-the-passion-of-the-lord",
   "cover": "quarter",
   "name": {
-    "en-US": "A Poem on the Passion of the Lord"
+    "en-US": "A Poem on the Passion of the Lord",
+    "pt-BR": "Poema sobre a Paixão do Senhor"
   },
   "author": {
-    "en-US": "Lactantius"
+    "en-US": "Lactantius",
+    "pt-BR": "Lactâncio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Poem on the Passion of the Lord"
+        "en-US": "A Poem on the Passion of the Lord",
+        "pt-BR": "Poema sobre a Paixão do Senhor"
       }
     }
   ]

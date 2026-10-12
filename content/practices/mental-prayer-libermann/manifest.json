@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 20,
+	"duration": { "type": "chosen", "default": 20, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "A gentle method from Libermann's letters of direction. If you reason, prayer becomes a labour; if you do not, you drift. His answer: fix on our Lord in one of His mysteries, take two or three simple, practical looks at Him, and each time adhere with your will to what you see — without agitation, without effort.",
 		"pt-BR": "Um método suave, tirado das cartas de direção de Libermann. Se raciocina, a oração torna-se trabalho; se não raciocina, fica à deriva. A sua resposta: fixar-se no Senhor num dos seus mistérios, lançar-Lhe dois ou três olhares simples e práticos, e de cada vez aderir com a vontade ao que vê — sem agitação, sem esforço."

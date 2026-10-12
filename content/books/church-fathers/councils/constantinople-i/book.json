@@ -2,13 +2,16 @@
   "id": "councils-constantinople-i",
   "cover": "quarter",
   "name": {
-    "en-US": "Constantinople I (381)"
+    "en-US": "Constantinople I (381)",
+    "pt-BR": "Constantinopla I (381)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Constantinople I (381)"
+        "en-US": "Constantinople I (381)",
+        "pt-BR": "Constantinopla I (381)"
       }
     }
   ]

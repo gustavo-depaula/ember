@@ -9,6 +9,7 @@
     "liturgical"
   ],
   "estimatedMinutes": 60,
+  "duration": { "type": "by-day", "weekday": 40, "sunday": 75 },
   "description": {
     "en-US": "The Mass of the 1962 Missale Romanum with the day's propers — follow along in Latin with your language beside it.",
     "pt-BR": "A Missa do Missale Romanum de 1962 com os próprios do dia — acompanhe em latim com o seu idioma ao lado."

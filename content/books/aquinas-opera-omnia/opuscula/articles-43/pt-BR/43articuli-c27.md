@@ -1,0 +1,5 @@
+# Artigo 37
+
+O trigésimo sétimo artigo é se os anjos que Maria Madalena viu junto ao sepulcro do Senhor, depois da sua ressurreição, a consolaram com voz chorosa.
+
+A isto parece-me que se deve dizer que aquilo que acontece na aparição dos anjos deve referir-se a uma certa significação, e não à propriedade da substância deles, como se vê por Dionísio, no último capítulo da *Hierarquia Celeste*; por isso, assim como nas Sagradas Escrituras se leem de Deus, por semelhança, algumas coisas que pertencem à ira, à tristeza ou a algo humano, assim também nada impede que nas aparições dos anjos se mostre algo semelhante em razão de alguma significação. E, embora aos anjos mensageiros da ressurreição conviessem mais os sinais de alegria, por causa da coisa anunciada, nada impede, contudo, que mostrassem alguns sinais de dor, de modo que se mostrassem à mulher que chorava tais como ela própria se apresentava interiormente, como diz Gregório do Senhor, que apareceu aos dois discípulos sob a figura de um peregrino.

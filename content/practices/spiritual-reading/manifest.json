@@ -10,6 +10,7 @@
 		"formation"
 	],
 	"estimatedMinutes": 15,
+	"duration": { "type": "chosen", "default": 15, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "A daily time set aside for reading spiritual books: the lives of the saints, spiritual classics, Scripture, the writings of the Fathers, or documents of the Church's Magisterium. Spiritual reading forms the mind in the things of God and nourishes prayer with living material.",
 		"pt-BR": "Um tempo diário reservado para leitura de livros espirituais: vidas dos santos, clássicos espirituais, Escrituras, escritos dos Padres ou documentos do Magistério da Igreja. A leitura espiritual forma a mente nas coisas de Deus e alimenta a oração com material vivo."

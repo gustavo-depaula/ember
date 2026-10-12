@@ -28,7 +28,8 @@
 					"pt-BR": "Ave, Rainha dos Céus,\nAve, Senhora dos Anjos.\nSalve, raiz; salve, porta\nde onde nasceu a Luz do mundo.\nAlegrai-vos, Virgem gloriosa,\nmais bela do que todas as outras.\nSalve, ó toda formosa,\ne rogai a Cristo por nós.",
 					"la": "Ave, Regína cælórum,\nAve, Dómina Angelórum:\nSalve, radix, salve, porta\nex qua mundo lux est orta:\nGaude, Virgo gloriósa,\nsuper omnes speciósa,\nVale, o valde decóra,\net pro nobis Christum exóra."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/ave-regina-caelorum"}
 		]
 	}
 }

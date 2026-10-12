@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 30,
+	"duration": { "type": "chosen", "default": 30, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "The first distinct method given in the Teresian Carmel, and long the textbook of its novitiates. It keeps the six parts of Luis of Granada and St. Peter of Alcántara, but shortens the reasoning: the meditation is \"a discourse addressed by the intellect to the will\", and the shorter it is, the better the prayer.",
 		"pt-BR": "O primeiro método distinto dado no Carmelo teresiano, e por muito tempo o manual dos seus noviciados. Conserva as seis partes de Frei Luís de Granada e São Pedro de Alcântara, mas abrevia o raciocínio: a meditação é \"um discurso que o entendimento dirige à vontade\", e quanto mais breve for, melhor será a oração."

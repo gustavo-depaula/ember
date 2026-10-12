@@ -3,19 +3,23 @@
   "cover": "label",
   "name": {
     "en-US": "On the Catholic Faith of the Greek Fathers (Contra Errores Graecorum)",
-    "la": "Contra Errores Graecorum"
+    "la": "Contra Errores Graecorum",
+    "pt-BR": "Contra os Erros dos Gregos"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "São Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's defence of the Catholic faith against the Greek positions on the Trinity, the procession of the Holy Spirit, the primacy of the Pope, and other contested doctrines — written for Urban IV in connection with reunion attempts.",
-    "la": "Defensio Thomae fidei catholicae contra positiones Graecas de Trinitate, processione Spiritus Sancti, primatu Papae, aliisque dogmatibus contestatis — Urbano IV pro tentamine reunionis composita."
+    "la": "Defensio Thomae fidei catholicae contra positiones Graecas de Trinitate, processione Spiritus Sancti, primatu Papae, aliisque dogmatibus contestatis — Urbano IV pro tentamine reunionis composita.",
+    "pt-BR": "Defesa da fé católica, por São Tomás, contra as posições gregas sobre a Trindade, a processão do Espírito Santo, o primado do Papa e outras doutrinas contestadas, escrita para Urbano IV no contexto das tentativas de reunião."
   },
   "composed": "c. 1263–1264",
   "languages": [
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -29,238 +33,272 @@
       "id": "g1",
       "title": {
         "en-US": "Part 1 — Part 1",
-        "la": "Pars 1"
+        "la": "Pars 1",
+        "pt-BR": "Parte 1"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Part 1",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         },
         {
           "id": "g1-c001",
           "title": {
             "en-US": "Chapter 1 — How the Son is understood to be related to the Father as something caused to its cause",
-            "la": "Caput 1"
+            "la": "Caput 1",
+            "pt-BR": "Capítulo 1 — Como se entende o que se diz: que o Filho tem do Pai como o causado da causa"
           }
         },
         {
           "id": "g1-c002",
           "title": {
             "en-US": "Chapter 2 — How the Son is to be understood as second from the Father and the Holy Spirit third",
-            "la": "Caput 2"
+            "la": "Caput 2",
+            "pt-BR": "Capítulo 2 — Como se entende quando se diz que o Filho é segundo a partir do Pai e o Espírito Santo é terceiro"
           }
         },
         {
           "id": "g1-c003",
           "title": {
             "en-US": "Chapter 3 — How the Holy Spirit is to be understood as third light",
-            "la": "Caput 3"
+            "la": "Caput 3",
+            "pt-BR": "Capítulo 3 — Como se entende que o Espírito Santo seja o terceiro lume"
           }
         },
         {
           "id": "g1-c004",
           "title": {
             "en-US": "Chapter 4 — How the essence is to understood as begotten in the Son and spirated in the Holy Spirit",
-            "la": "Caput 4"
+            "la": "Caput 4",
+            "pt-BR": "Capítulo 4 — Como se entende que a essência seja gerada no Filho e espirada no Espírito Santo"
           }
         },
         {
           "id": "g1-c005",
           "title": {
             "en-US": "Chapter 5 — How Jesus is to be understood as Son of the paternal essence",
-            "la": "Caput 5"
+            "la": "Caput 5",
+            "pt-BR": "Capítulo 5 — Como se entende que Jesus seja chamado Filho da essência paterna"
           }
         },
         {
           "id": "g1-c006",
           "title": {
             "en-US": "Chapter 6 — How properties of the Father are to be understood as proper to the Son",
-            "la": "Caput 6"
+            "la": "Caput 6",
+            "pt-BR": "Capítulo 6 — Como se entende que as coisas que são naturalmente próprias do Pai são próprias do Filho"
           }
         },
         {
           "id": "g1-c007",
           "title": {
             "en-US": "Chapter 7 — How the Father is to be understood as needing neither Son nor Holy Spirit for his perfection",
-            "la": "Caput 7"
+            "la": "Caput 7",
+            "pt-BR": "Capítulo 7 — Como se entende que o Pai não necessita nem do Filho nem do Espírito Santo para a sua perfeição"
           }
         },
         {
           "id": "g1-c008",
           "title": {
             "en-US": "Chapter 8 — How the Holy Spirit is to be understood as unbegotten",
-            "la": "Caput 8"
+            "la": "Caput 8",
+            "pt-BR": "Capítulo 8 — Como se entende que o Espírito Santo seja chamado ingênito"
           }
         },
         {
           "id": "g1-c009",
           "title": {
             "en-US": "Chapter 9 — How the Holy Spirit is to be understood as the mean between Father and Son",
-            "la": "Caput 9"
+            "la": "Caput 9",
+            "pt-BR": "Capítulo 9 — Como se entende que o Espírito Santo seja chamado meio entre o Pai e o Filho"
           }
         },
         {
           "id": "g1-c010",
           "title": {
             "en-US": "Chapter 10 — How the Holy Spirit is to be understood as the image of the Son",
-            "la": "Caput 10"
+            "la": "Caput 10",
+            "pt-BR": "Capítulo 10 — Como se entende o que se diz: que o Espírito Santo seja imagem do Filho"
           }
         },
         {
           "id": "g1-c011",
           "title": {
             "en-US": "Chapter 11 — How the Holy Spirit is to be understood in the Father as in his image",
-            "la": "Caput 11"
+            "la": "Caput 11",
+            "pt-BR": "Capítulo 11 — Como se entende que o Filho esteja no Pai como em sua imagem"
           }
         },
         {
           "id": "g1-c012",
           "title": {
             "en-US": "Chapter 12 — How the Holy Spirit is to be understood to be the word of the Son",
-            "la": "Caput 12"
+            "la": "Caput 12",
+            "pt-BR": "Capítulo 12 — Como se entende que o Espírito Santo seja chamado verbo do Filho"
           }
         },
         {
           "id": "g1-c013",
           "title": {
             "en-US": "Chapter 13 — How by the name of Christ is to be understood the Holy Spirit",
-            "la": "Caput 13"
+            "la": "Caput 13",
+            "pt-BR": "Capítulo 13 — Como se entende o que se diz: que pelo nome de Cristo se entende o Espírito Santo"
           }
         },
         {
           "id": "g1-c014",
           "title": {
             "en-US": "Chapter 14 — How the assertion that the Holy Spirit does not send the Son is to be understood",
-            "la": "Caput 14"
+            "la": "Caput 14",
+            "pt-BR": "Capítulo 14 — Como se entende o que se diz: que o Espírito Santo não envia o Filho"
           }
         },
         {
           "id": "g1-c015",
           "title": {
             "en-US": "Chapter 15 — How the assertion that the Holy Spirit truly works through the Son is to be understood",
-            "la": "Caput 15"
+            "la": "Caput 15",
+            "pt-BR": "Capítulo 15 — Como se entende o que se diz: que o Espírito Santo verdadeiramente opera pelo Filho"
           }
         },
         {
           "id": "g1-c016",
           "title": {
             "en-US": "Chapter 16 — How God is to be understood as not dwelling in men before the incarnation of Christ",
-            "la": "Caput 16"
+            "la": "Caput 16",
+            "pt-BR": "Capítulo 16 — Como se entende que Deus não tenha habitado pela graça nos homens antes da encarnação de Cristo"
           }
         },
         {
           "id": "g1-c017",
           "title": {
             "en-US": "Chapter 17 — How the divine essence is to be understood as conceived and born",
-            "la": "Caput 17"
+            "la": "Caput 17",
+            "pt-BR": "Capítulo 17 — Como se entende que a essência divina foi concebida e nasceu"
           }
         },
         {
           "id": "g1-c018",
           "title": {
             "en-US": "Chapter 18 — How the assertion that the deity was made is to be understood",
-            "la": "Caput 18"
+            "la": "Caput 18",
+            "pt-BR": "Capítulo 18 — Como se entende quando se diz que a deidade se fez homem"
           }
         },
         {
           "id": "g1-c019",
           "title": {
             "en-US": "Chapter 19 — How the Son of God is to be understood to have assumed a human nature in his essence",
-            "la": "Caput 19"
+            "la": "Caput 19",
+            "pt-BR": "Capítulo 19 — Como se entende que o Filho de Deus assumiu a natureza humana na sua essência"
           }
         },
         {
           "id": "g1-c020",
           "title": {
             "en-US": "Chapter 20 — How the assertion that a man was assumed is to be understood",
-            "la": "Caput 20"
+            "la": "Caput 20",
+            "pt-BR": "Capítulo 20 — Como se entende quando se diz que o homem foi assumido"
           }
         },
         {
           "id": "g1-c021",
           "title": {
             "en-US": "Chapter 21 — How the assertion \"God made man God\" is to be understood",
-            "la": "Caput 21"
+            "la": "Caput 21",
+            "pt-BR": "Capítulo 21 — Como se entende o que se diz: que Deus fez o homem Deus"
           }
         },
         {
           "id": "g1-c022",
           "title": {
             "en-US": "Chapter 22 — How the likeness of the first parent is to be understood as erased in Christ",
-            "la": "Caput 22"
+            "la": "Caput 22",
+            "pt-BR": "Capítulo 22 — Como se entende que foi removida de Cristo a imagem do primeiro pai"
           }
         },
         {
           "id": "g1-c023",
           "title": {
             "en-US": "Chapter 23 — How the assertion that \"the creature cannot cooperate with the Creator,\" is to be understood",
-            "la": "Caput 23"
+            "la": "Caput 23",
+            "pt-BR": "Capítulo 23 — Como se entende o que se diz: que a criatura não pode cooperar com o Criador"
           }
         },
         {
           "id": "g1-c024",
           "title": {
             "en-US": "Chapter 24 — How the assertion that \"the creature does not belong to the Creator,\" is to be understood",
-            "la": "Caput 24"
+            "la": "Caput 24",
+            "pt-BR": "Capítulo 24 — Como se entende o que se diz: que a criatura não é própria do Criador"
           }
         },
         {
           "id": "g1-c025",
           "title": {
             "en-US": "Chapter 25 — How our assertion that the angels by nature are not ranked second and third is to be understood",
-            "la": "Caput 25"
+            "la": "Caput 25",
+            "pt-BR": "Capítulo 25 — Como se entende que nos anjos, quanto à natureza, não dizemos haver segundo e terceiro"
           }
         },
         {
           "id": "g1-c026",
           "title": {
             "en-US": "Chapter 26 — How the assertion that even the Seraphim learn from Paul as a teacher is to be understood",
-            "la": "Caput 26"
+            "la": "Caput 26",
+            "pt-BR": "Capítulo 26 — Como se entende o que se diz: que, ensinando Paulo, também os serafins aprendem"
           }
         },
         {
           "id": "g1-c027",
           "title": {
             "en-US": "Chapter 27 — How the assertion that the breath of life which God breathed into the face of man is not the rational soul, but the outpouring of the Holy Spirit is to be understood",
-            "la": "Caput 27"
+            "la": "Caput 27",
+            "pt-BR": "Capítulo 27 — Como se entende quando se diz que o sopro que Deus soprou no rosto do homem não é a alma racional, mas a efusão do Espírito Santo"
           }
         },
         {
           "id": "g1-c028",
           "title": {
             "en-US": "Chapter 28 — How the impossibility of not blaspheming for one who has once blasphemed is to be understood",
-            "la": "Caput 28"
+            "la": "Caput 28",
+            "pt-BR": "Capítulo 28 — Como se entende que para quem blasfema uma vez é impossível não blasfemar"
           }
         },
         {
           "id": "g1-c029",
           "title": {
             "en-US": "Chapter 29 — How the assertion that faith cannot be preached is to be understood",
-            "la": "Caput 29"
+            "la": "Caput 29",
+            "pt-BR": "Capítulo 29 — Como se entende o que se diz: que a fé não é pregável"
           }
         },
         {
           "id": "g1-c030",
           "title": {
             "en-US": "Chapter 30 — How the assertion that faith is not ministered to us by angels is to be understood",
-            "la": "Caput 30"
+            "la": "Caput 30",
+            "pt-BR": "Capítulo 30 — Como se entende o que se diz: que a fé não nos foi ministrada pelos anjos"
           }
         },
         {
           "id": "g1-c031",
           "title": {
             "en-US": "Chapter 31 — How the assertion that even the New Testament is a death-dealing letter is to be understood",
-            "la": "Caput 31"
+            "la": "Caput 31",
+            "pt-BR": "Capítulo 31 — Como se entende o que se diz: que também a letra do Novo Testamento é mortal"
           }
         },
         {
           "id": "g1-c032",
           "title": {
             "en-US": "Chapter 32 — How the sole definition of the Nicene Council is to be understood as the unique and true possession of the faithful",
-            "la": "Caput 32"
+            "la": "Caput 32",
+            "pt-BR": "Capítulo 32 — Como se entende que só a definição do Concílio de Niceia é a única e verdadeira posse dos fiéis"
           }
         }
       ]
@@ -269,294 +307,336 @@
       "id": "g2",
       "title": {
         "en-US": "Part 2 — Part 2",
-        "la": "Pars 2"
+        "la": "Pars 2",
+        "pt-BR": "Parte 2"
       },
       "children": [
         {
           "id": "g2-pr",
           "title": {
             "en-US": "Prologue — Part 2",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Proêmio"
           }
         },
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Chapter 1 — That the Holy Spirit is the Spirit of the Son",
-            "la": "Caput 1"
+            "la": "Caput 1",
+            "pt-BR": "Capítulo 1 — Que o Espírito Santo é o Espírito do Filho"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Chapter 2 — That the Son sends the Holy Spirit",
-            "la": "Caput 2"
+            "la": "Caput 2",
+            "pt-BR": "Capítulo 2 — Que o Filho envia o Espírito Santo"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Chapter 3 — That the Holy Spirit receives of that which is the Son’s",
-            "la": "Caput 3"
+            "la": "Caput 3",
+            "pt-BR": "Capítulo 3 — Que o Espírito Santo recebe daquilo que é do Filho"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Chapter 4 — That the Son works through the Holy Spirit",
-            "la": "Caput 4"
+            "la": "Caput 4",
+            "pt-BR": "Capítulo 4 — Que o Filho opera pelo Espírito Santo"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Chapter 5 — That the Holy Spirit is the image of the Son",
-            "la": "Caput 5"
+            "la": "Caput 5",
+            "pt-BR": "Capítulo 5 — Que o Espírito Santo é imagem do Filho"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Chapter 6 — That he is the character of the Son",
-            "la": "Caput 6"
+            "la": "Caput 6",
+            "pt-BR": "Capítulo 6 — Que é o caráter do Filho"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Chapter 7 — That he is also the seal of the Son",
-            "la": "Caput 7"
+            "la": "Caput 7",
+            "pt-BR": "Capítulo 7 — Igualmente, que é o selo do Filho"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Chapter 8 — That the Holy Spirit is from the Father through the Son",
-            "la": "Caput 8"
+            "la": "Caput 8",
+            "pt-BR": "Capítulo 8 — Igualmente, que o Espírito Santo é a partir do Pai pelo Filho"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Chapter 9 — That the Holy Spirit is from the Son",
-            "la": "Caput 9"
+            "la": "Caput 9",
+            "pt-BR": "Capítulo 9 — Que o Espírito Santo é a partir do Filho"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Chapter 10 — That he is jointly from Father and Son",
-            "la": "Caput 10"
+            "la": "Caput 10",
+            "pt-BR": "Capítulo 10 — Que é conjuntamente a partir do Pai e do Filho"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Chapter 11 — That he is from both from eternity",
-            "la": "Caput 11"
+            "la": "Caput 11",
+            "pt-BR": "Capítulo 11 — Que é a partir de ambos desde a eternidade"
           }
         },
         {
           "id": "g2-c012",
           "title": {
             "en-US": "Chapter 12 — That the Holy Spirit is a person from persons",
-            "la": "Caput 12"
+            "la": "Caput 12",
+            "pt-BR": "Capítulo 12 — Que o Espírito Santo é pessoa a partir de pessoas"
           }
         },
         {
           "id": "g2-c013",
           "title": {
             "en-US": "Chapter 13 — That he is also from the essence of Father and Son",
-            "la": "Caput 13"
+            "la": "Caput 13",
+            "pt-BR": "Capítulo 13 — Igualmente, que é da essência do Pai e do Filho"
           }
         },
         {
           "id": "g2-c014",
           "title": {
             "en-US": "Chapter 14 — That he also is naturally from the Son",
-            "la": "Caput 14"
+            "la": "Caput 14",
+            "pt-BR": "Capítulo 14 — Igualmente, que é naturalmente a partir do Filho"
           }
         },
         {
           "id": "g2-c015",
           "title": {
             "en-US": "Chapter 15 — That the Son also spirates the Holy Spirit",
-            "la": "Caput 15"
+            "la": "Caput 15",
+            "pt-BR": "Capítulo 15 — Igualmente, que o Filho espira o Espírito Santo"
           }
         },
         {
           "id": "g2-c016",
           "title": {
             "en-US": "Chapter 16 — That the Son spirates he has from a personal property",
-            "la": "Caput 16"
+            "la": "Caput 16",
+            "pt-BR": "Capítulo 16 — Que o Filho tem por sua propriedade o espirar"
           }
         },
         {
           "id": "g2-c017",
           "title": {
             "en-US": "Chapter 17 — That on the same grounds he is spirated by Father and Son",
-            "la": "Caput 17"
+            "la": "Caput 17",
+            "pt-BR": "Capítulo 17 — Que pela mesma razão é espirado pelo Pai e pelo Filho"
           }
         },
         {
           "id": "g2-c018",
           "title": {
             "en-US": "Chapter 18 — That he is spirated from the Son eternally",
-            "la": "Caput 18"
+            "la": "Caput 18",
+            "pt-BR": "Capítulo 18 — Que é espirado eternamente pelo Filho"
           }
         },
         {
           "id": "g2-c019",
           "title": {
             "en-US": "Chapter 19 — That the Holy Spirit is spirated from the essence of the Son",
-            "la": "Caput 19"
+            "la": "Caput 19",
+            "pt-BR": "Capítulo 19 — Que o Espírito Santo é espirado da essência do Filho"
           }
         },
         {
           "id": "g2-c020",
           "title": {
             "en-US": "Chapter 20 — That the Holy Spirit emanates from the Son",
-            "la": "Caput 20"
+            "la": "Caput 20",
+            "pt-BR": "Capítulo 20 — Que o Espírito Santo emana do Filho"
           }
         },
         {
           "id": "g2-c021",
           "title": {
             "en-US": "Chapter 21 — That the Holy Spirit flows from the Son and this from eternity",
-            "la": "Caput 21"
+            "la": "Caput 21",
+            "pt-BR": "Capítulo 21 — Que o Espírito Santo flui do Filho, e isto desde a eternidade"
           }
         },
         {
           "id": "g2-c022",
           "title": {
             "en-US": "Chapter 22 — That the Son also originates the Holy Spirit",
-            "la": "Caput 22"
+            "la": "Caput 22",
+            "pt-BR": "Capítulo 22 — Igualmente, que o Filho origina o Espírito Santo"
           }
         },
         {
           "id": "g2-c023",
           "title": {
             "en-US": "Chapter 23 — That the Son is the author of the Holy Spirit",
-            "la": "Caput 23"
+            "la": "Caput 23",
+            "pt-BR": "Capítulo 23 — Que o Filho é autor do Espírito Santo"
           }
         },
         {
           "id": "g2-c024",
           "title": {
             "en-US": "Chapter 24 — That the Son is also principle of the Holy Spirit",
-            "la": "Caput 24"
+            "la": "Caput 24",
+            "pt-BR": "Capítulo 24 — Igualmente, que o Filho é princípio do Espírito Santo"
           }
         },
         {
           "id": "g2-c025",
           "title": {
             "en-US": "Chapter 25 — That the Son is also source of the Holy Spirit",
-            "la": "Caput 25"
+            "la": "Caput 25",
+            "pt-BR": "Capítulo 25 — Igualmente, que o Filho é fonte do Espírito Santo"
           }
         },
         {
           "id": "g2-c026",
           "title": {
             "en-US": "Chapter 26 — The general conclusion: that the Spirit proceeds from the Son",
-            "la": "Caput 26"
+            "la": "Caput 26",
+            "pt-BR": "Capítulo 26 — Conclusão, a partir de todas estas coisas, de que o Espírito procede do Filho"
           }
         },
         {
           "id": "g2-c027",
           "title": {
             "en-US": "Chapter 27 — That in the divine person to flow and to proceed is the same",
-            "la": "Caput 27"
+            "la": "Caput 27",
+            "pt-BR": "Capítulo 27 — Que nas pessoas divinas fluir e proceder são o mesmo"
           }
         },
         {
           "id": "g2-c028",
           "title": {
             "en-US": "Chapter 28 — That to demonstrate the procession of the Holy Spirit the Greek and Latin Doctors use the same arguments",
-            "la": "Caput 28"
+            "la": "Caput 28",
+            "pt-BR": "Capítulo 28 — Que, para mostrar a processão do Espírito Santo, os doutores gregos e latinos usam as mesmas razões"
           }
         },
         {
           "id": "g2-c029",
           "title": {
             "en-US": "Chapter 29 — That the Holy Spirit is distinguished from the Son in this that he is from him",
-            "la": "Caput 29"
+            "la": "Caput 29",
+            "pt-BR": "Capítulo 29 — Que o Espírito Santo se distingue do Filho por proceder dele"
           }
         },
         {
           "id": "g2-c030",
           "title": {
             "en-US": "Chapter 30 — That the distinction of persons should be according to some order of nature",
-            "la": "Caput 30"
+            "la": "Caput 30",
+            "pt-BR": "Capítulo 30 — Que é preciso que a distinção das pessoas seja segundo alguma ordem de natureza"
           }
         },
         {
           "id": "g2-c031",
           "title": {
             "en-US": "Chapter 31 — That to believe the Holy Spirit is from the Son is necessary for salvation",
-            "la": "Caput 31"
+            "la": "Caput 31",
+            "pt-BR": "Capítulo 31 — Que crer que o Espírito Santo procede do Filho é necessário à salvação"
           }
         },
         {
           "id": "g2-c032",
           "title": {
             "en-US": "Chapter 32 — That the Roman Pontiff is the first and greatest among all bishops",
-            "la": "Caput 32"
+            "la": "Caput 32",
+            "pt-BR": "Capítulo 32 — Que o Romano Pontífice é o primeiro e o maior entre todos os bispos"
           }
         },
         {
           "id": "g2-c033",
           "title": {
             "en-US": "Chapter 33 — That the same Pontiff has universal jurisdiction over the entire Church of Christ",
-            "la": "Caput 33"
+            "la": "Caput 33",
+            "pt-BR": "Capítulo 33 — Que o mesmo Pontífice tem prelazia universal sobre toda a Igreja de Cristo"
           }
         },
         {
           "id": "g2-c034",
           "title": {
             "en-US": "Chapter 34 — That the same possesses in the Church a fullness of power",
-            "la": "Caput 34"
+            "la": "Caput 34",
+            "pt-BR": "Capítulo 34 — Que o mesmo tem na Igreja a plenitude do poder"
           }
         },
         {
           "id": "g2-c035",
           "title": {
             "en-US": "Chapter 35 — That he enjoys the same power conferred on Peter by Christ",
-            "la": "Caput 35"
+            "la": "Caput 35",
+            "pt-BR": "Capítulo 35 — Que está no mesmo poder que foi conferido a Pedro por Cristo"
           }
         },
         {
           "id": "g2-c036",
           "title": {
             "en-US": "Chapter 36 — That to him belongs the right of deciding what pertains to faith",
-            "la": "Caput 36"
+            "la": "Caput 36",
+            "pt-BR": "Capítulo 36 — Que a ele pertence determinar as coisas que são da fé"
           }
         },
         {
           "id": "g2-c037",
           "title": {
             "en-US": "Chapter 37 — That he is the superior of the other patriarchs",
-            "la": "Caput 37"
+            "la": "Caput 37",
+            "pt-BR": "Capítulo 37 — Que ele é o prelado dos outros patriarcas"
           }
         },
         {
           "id": "g2-c038",
           "title": {
             "en-US": "Chapter 38 — That to be subject to the Roman Pontiff is necessary for salvation",
-            "la": "Caput 38"
+            "la": "Caput 38",
+            "pt-BR": "Capítulo 38 — Que estar sujeito ao Romano Pontífice é necessário à salvação"
           }
         },
         {
           "id": "g2-c039",
           "title": {
             "en-US": "Chapter 39 — Against the position of those who deny the Sacrament may be confected with unleavened bread",
-            "la": "Caput 39"
+            "la": "Caput 39",
+            "pt-BR": "Capítulo 39 — Contra os que negam que se possa confeccionar com ázimo"
           }
         },
         {
           "id": "g2-c040",
           "title": {
             "en-US": "Chapter 40 — That there exists a purgatory wherein souls are cleansed from sins not cleansed in the present life",
-            "la": "Caput 40"
+            "la": "Caput 40",
+            "pt-BR": "Capítulo 40 — Que há um purgatório, no qual as almas são purificadas dos pecados não purificados na vida presente"
           }
         }
       ]

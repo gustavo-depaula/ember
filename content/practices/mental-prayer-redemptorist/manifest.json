@@ -26,6 +26,7 @@
 		"contemplative"
 	],
 	"estimatedMinutes": 20,
+	"duration": { "type": "chosen", "default": 20, "choices": [10, 15, 20, 30, 45, 60] },
 	"description": {
 		"en-US": "St. Alphonsus does not give a detailed method as St. Ignatius or St. Francis de Sales do, but it is easy to construct one from his teaching, and long use has proved its peculiar and practical value. Its mark is his insistence that the principal fruit of meditation is *prayer*: we do not reflect in order to reflect, but in order to ask.",
 		"pt-BR": "Santo Afonso não dá um método detalhado como Santo Inácio ou São Francisco de Sales, mas é fácil construir um a partir do seu ensino, e o longo uso provou o seu valor peculiar e prático. A sua marca é a insistência em que o principal fruto da meditação é a *oração*: não refletimos para refletir, mas para pedir."

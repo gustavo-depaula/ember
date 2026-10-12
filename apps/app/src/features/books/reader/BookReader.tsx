@@ -61,7 +61,7 @@ import { ReaderTocSheet } from './ReaderTocSheet'
 import { useReaderFontFaces } from './readerFontFaces'
 import { appendTurn, estimateMinutesPerPage, type PageTurn } from './readingPace'
 import { getReadingStreak, touchReadingStreak } from './readingStreak'
-import { getReadingTimeMs, persistReadingTimeMs } from './readingTime'
+import { addReadingTime, getReadingTimeMs } from './readingTime'
 import { recordReadingSession } from './sessionToast'
 import { useReaderConfig } from './useReaderConfig'
 import { useReaderCursor } from './useReaderCursor'
@@ -77,6 +77,11 @@ type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlig
 // Every state the reader can open into — title page, error, not found — keeps
 // the reader's own close button. An external book's first open waits on a
 // network build, and a stalled or failed one must not leave the user stranded.
+/** Reading time worth showing: nothing until a minute has passed. */
+function wholeMinutes(ms: number): number | undefined {
+  return ms > 60_000 ? Math.round(ms / 60_000) : undefined
+}
+
 function ReaderFrame({
   background,
   color,
@@ -446,13 +451,11 @@ export function BookReader({ bookId, chapter }: Props) {
     return () => clearTimeout(tid)
   }, [justCompletedTitle])
 
-  // Per-session reading time accrual. The local accumulator owns the running
-  // total so concurrent AppState flushes (iOS fires `inactive` then
-  // `background` back-to-back) don't race a read-then-write against the
-  // cursor store. Only `background` triggers a flush; `inactive` resets the
-  // session start. Initial total seeded from the persisted value on mount.
+  // Per-session reading time accrual. Each flush records what was read since
+  // the last one, so iOS firing `inactive` then `background` back-to-back
+  // can't count a stretch twice. Only `background` triggers a flush;
+  // `inactive` resets the session start.
   const sessionStartRef = useRef(Date.now())
-  const totalMsRef = useRef(getReadingTimeMs(bookId))
   // Counters scoped to this mount, surfaced via `recordReadingSession` on
   // unmount so the frontispiece can show a celebratory toast.
   const sessionMsRef = useRef(0)
@@ -463,9 +466,8 @@ export function BookReader({ bookId, chapter }: Props) {
       const elapsed = Date.now() - sessionStartRef.current
       sessionStartRef.current = Date.now()
       if (elapsed < 1000) return
-      totalMsRef.current += elapsed
       sessionMsRef.current += elapsed
-      void persistReadingTimeMs(bookId, totalMsRef.current)
+      void addReadingTime(bookId, elapsed)
     }
     const sub = AppState.addEventListener('change', (s) => {
       if (s === 'background') flush()
@@ -1067,8 +1069,7 @@ export function BookReader({ bookId, chapter }: Props) {
           else void clearBookPaletteOverride(bookId)
         }}
         stats={{
-          minutesRead:
-            totalMsRef.current > 60_000 ? Math.round(totalMsRef.current / 60_000) : undefined,
+          minutesRead: wholeMinutes(getReadingTimeMs(bookId)),
           streakDays: getReadingStreak(bookId) || undefined,
           completedChapters: completed.size,
           totalChapters: leaves.length,

@@ -1,5 +1,6 @@
 import type { CycleData } from '@ember/content-engine'
 import { getCollectionsForItem, getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
+import { minutesText, practiceMinutes } from '@/content/duration'
 import type { CatalogEntry, PracticeManifest } from '@/content/manifestTypes'
 import type { Primitive } from '@/content/primitives'
 import {
@@ -70,7 +71,7 @@ export type PrayerPage = {
   history?: string
   howToPray?: string
   source?: string
-  minutes?: number
+  minutes?: string
   art?: string
   primitives: Primitive[]
   hasLatin: boolean
@@ -109,7 +110,7 @@ export async function loadPrayerPage(
       history: opt(manifest.history),
       howToPray: opt(manifest.howToPray),
       source: opt(manifest.source),
-      minutes: manifest.estimatedMinutes,
+      minutes: minutesText(practiceMinutes(manifest)),
       art: artFor(id)?.uri,
       primitives: rendered.primitives,
       hasLatin: JSON.stringify(rendered.primitives).includes('"secondary":"'),

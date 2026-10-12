@@ -14,6 +14,16 @@
     "liturgical"
   ],
   "estimatedMinutes": 15,
+  "hourMinutes": {
+    "Matutinum": 39,
+    "Laudes": 15,
+    "Prima": 14,
+    "Tertia": 8,
+    "Sexta": 8,
+    "Nona": 9,
+    "Vespera": 12,
+    "Completorium": 12
+  },
   "description": {
     "en-US": "The traditional Divine Office, hour by hour — choose the hour and the Church's daily round of psalms, lessons, and prayer is assembled for today.",
     "pt-BR": "O Ofício Divino tradicional, hora por hora — escolha a hora e o ciclo diário de salmos, lições e oração da Igreja é montado para hoje."

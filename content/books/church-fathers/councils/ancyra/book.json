@@ -2,13 +2,16 @@
   "id": "councils-ancyra",
   "cover": "quarter",
   "name": {
-    "en-US": "Ancyra (314)"
+    "en-US": "Ancyra (314)",
+    "pt-BR": "Ancira (314)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Ancyra (314)"
+        "en-US": "Ancyra (314)",
+        "pt-BR": "Ancira (314)"
       }
     }
   ]

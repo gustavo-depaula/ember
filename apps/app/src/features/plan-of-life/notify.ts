@@ -1,6 +1,8 @@
 import type { LocalizedMessagePool, NotificationsManifest } from '@/content/manifestTypes'
 import type { NotifyConfig, NotifyReminder } from '@/db/schema'
 
+import type { Schedule } from './schedule'
+
 export const DEFAULT_REMINDER: NotifyReminder = { offset: 0 }
 
 export const REMINDER_PRESETS: number[] = [0, 5, 15, 30, 60, 120]
@@ -68,6 +70,50 @@ export function computeTriggerTime(
     weekdayShift -= 1
   }
   return { hour: Math.floor(total / 60), minute: total % 60, weekdayShift }
+}
+
+export type ReminderRecurrence =
+  | { kind: 'daily' }
+  | { kind: 'weekly'; days: number[] }
+  | { kind: 'dated' }
+
+/**
+ * The OS repeats a reminder by the clock or by the weekday and by nothing
+ * else. A rule that follows the month, a program's dates or the liturgical
+ * year is laid out date by date, or it would ring every day of the year.
+ */
+export function reminderRecurrence(schedule: Schedule): ReminderRecurrence {
+  if (schedule.seasons?.length) return { kind: 'dated' }
+  if (schedule.type === 'daily') return { kind: 'daily' }
+  if (schedule.type === 'days-of-week') return { kind: 'weekly', days: schedule.days }
+  return { kind: 'dated' }
+}
+
+/** When a dated rule's reminder rings over the `days` from `from`, soonest first. */
+export function datedReminderTimes(args: {
+  slotTime: string
+  offset: number
+  from: Date
+  days: number
+  isDue: (date: Date) => boolean
+}): Date[] {
+  const { slotTime, offset, from, days, isDue } = args
+  const trigger = computeTriggerTime(slotTime, offset)
+  if (!trigger) return []
+  const times: Date[] = []
+  for (let i = 0; i < days; i++) {
+    const day = new Date(from.getFullYear(), from.getMonth(), from.getDate() + i)
+    if (!isDue(day)) continue
+    const at = new Date(
+      day.getFullYear(),
+      day.getMonth(),
+      day.getDate() + trigger.weekdayShift,
+      trigger.hour,
+      trigger.minute,
+    )
+    if (at > from) times.push(at)
+  }
+  return times
 }
 
 export function shiftWeekday(weekday: number, shift: number): number {

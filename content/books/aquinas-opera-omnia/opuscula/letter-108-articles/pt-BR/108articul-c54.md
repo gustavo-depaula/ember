@@ -1,0 +1,3 @@
+# Artigo 53
+
+O que se põe em quinquagésimo terceiro lugar: *a hipóstase encerra no seu conceito tanto as naturezas comuns como a propriedade, não de modo que uma destas coisas esteja na outra, mas de modo que ambas estejam nela*, está bem dito; mas é repreendido pelo objetante de modo demasiado caviloso; pois diz-se que as propriedades estão inerentes às pessoas, assim como também que estão nas pessoas; e, de modo semelhante, a essência divina está no Pai, e é o Pai. Deste modo, porém, poderiam ser reprovadas todas as coisas que se dizem de Deus, uma vez que nada se pode dizer propriamente de Deus com as nossas palavras.

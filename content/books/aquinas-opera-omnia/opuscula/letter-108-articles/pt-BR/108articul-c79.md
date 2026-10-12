@@ -1,0 +1,3 @@
+# Artigo 78
+
+O que se põe em septuagésimo oitavo lugar: *a infinidade da potência considera-se toda segundo a relação com os potenciais, mas a infinidade da essência não se considera só segundo ser isto e não aquilo, mas segundo estar nisto e em qualquer outro ente, e até em infinitos, se fossem infinitos*, diz-se ou mal ou defeituosamente; pois, se dissesse assim: a infinidade da potência, enquanto é potência, considera-se toda segundo a relação com os potenciais, poderia sustentar-se, porque a potência importa relação com os potenciais. Mas o que se diz da infinidade da essência não se explica bem: pois a infinidade da essência divina não provém de Deus poder estar em infinitos, mas ela é infinita por si.

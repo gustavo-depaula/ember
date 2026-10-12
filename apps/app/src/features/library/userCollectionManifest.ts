@@ -27,7 +27,6 @@ export function buildUserCollectionManifest(
   const blocks: CollectionBlock[] = items.map((it) => ({
     kind: 'item',
     ref: it.ref,
-    label: plain(it.label),
   }))
 
   return {

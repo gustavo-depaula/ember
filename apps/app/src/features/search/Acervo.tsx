@@ -1,3 +1,4 @@
+import { useQuery } from '@tanstack/react-query'
 import { Image, type ImageSource } from 'expo-image'
 import type { Href } from 'expo-router'
 import type { ReactNode } from 'react'
@@ -10,6 +11,7 @@ import { Typography } from '@/components/typography'
 import { getEntriesByKind, getEntry, isMetaId } from '@/content/contentIndex'
 import { getAllManifests, isAlternateForm } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
+import { loadChant, ScoreView } from '@/features/chant'
 import { coverFor, GeneratedCover } from '@/features/covers'
 import { artFor } from '@/features/explore/artMap'
 import { toneForKey } from '@/features/explore/bgColor'
@@ -36,7 +38,7 @@ const fannedBooks = [
 ]
 
 /**
- * The whole corpus behind three doors — prayers, books, collections — each
+ * The whole corpus behind its doors — prayers, books, collections, chant — each
  * naming how much is inside. Search's empty state is a lobby; the catalogue
  * itself lives on the screens these open.
  */
@@ -50,6 +52,7 @@ export function Acervo() {
       prayers: getAllManifests().filter((m) => !isAlternateForm(m) && !isMetaId(m.id)).length,
       books: getEntriesByKind('book').filter(([id]) => !isMetaId(id)).length,
       collections: getEntriesByKind('collection').length,
+      chants: getEntriesByKind('chant').length,
     }),
     [catalogVersion],
   )
@@ -83,6 +86,17 @@ export function Acervo() {
       >
         <ArtFan ids={collectionArt} />
       </Door>
+      {/* An app update can reach a phone before the corpus that holds its chants. */}
+      {counts.chants > 0 && (
+        <Door
+          count={counts.chants}
+          title={t('search.chant')}
+          subtitle={t('search.chantHint')}
+          href="/browse/chant"
+        >
+          <LeafFan />
+        </Door>
+      )}
     </YStack>
   )
 }
@@ -166,6 +180,51 @@ function ArtFan({ ids }: { ids: string[] }) {
       />
     </Fanned>
   ))
+}
+
+// Three leaves of the Kyriale, fanned as the other doors fan their art. A leaf
+// is parchment and ink in either theme, as a painting keeps its own colours.
+const chantLeaves = ['chant/kyrie-xi', 'chant/sanctus-xi', 'chant/agnus-dei-xi']
+const leafPalette = { ink: '#2B2118', rubric: '#8C1D2B' }
+
+function LeafFan() {
+  return chantLeaves.map((id, i) => (
+    <Fanned key={id} index={i}>
+      <Leaf id={id} />
+    </Fanned>
+  ))
+}
+
+function Leaf({ id }: { id: string }) {
+  const catalogVersion = useCatalogVersion()
+  const chant = useQuery({
+    queryKey: ['chant', id, catalogVersion],
+    queryFn: async () => (await loadChant(id)) ?? null,
+    staleTime: Number.POSITIVE_INFINITY,
+  }).data
+  return (
+    <YStack
+      width={74}
+      height={96}
+      borderRadius={8}
+      overflow="hidden"
+      backgroundColor="#EFE4CB"
+      paddingLeft={6}
+      paddingTop={2}
+    >
+      {/* Set wider than the leaf and cut by its edge, as the fan cuts a painting. */}
+      {chant && (
+        <ScoreView
+          score={chant.score}
+          width={132}
+          scale={0.5}
+          label={chant.name}
+          lines={3}
+          palette={leafPalette}
+        />
+      )}
+    </YStack>
+  )
 }
 
 function BookFan() {
