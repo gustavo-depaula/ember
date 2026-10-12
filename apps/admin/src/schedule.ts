@@ -31,6 +31,19 @@ export const kindLabels: Record<string, string> = {
   adoration: 'Adoration',
 }
 
+// The rites a Mass can be tagged with, as a moderator reads them. An unknown value shows as it is.
+export const riteLabels: Record<string, string> = {
+  latin_novus_ordo: 'Novus Ordo',
+  latin_tridentine: 'Tridentine',
+  byzantine: 'Byzantine',
+  maronite: 'Maronite',
+  chaldean: 'Chaldean',
+  syro_malabar: 'Syro-Malabar',
+  melkite: 'Melkite',
+  ukrainian_greek: 'Ukrainian Greek',
+  ordinariate_divine_worship: 'Ordinariate',
+}
+
 export const serviceContent = [
   'kind',
   'rite',

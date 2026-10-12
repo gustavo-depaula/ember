@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite build && wrangler dev --persist-to ../backend/.wrangler/state",
+    "dev": "vite build && wrangler dev --persist-to ../backend/.wrangler/state --var ACCESS_AUD: --var ACCESS_TEAM_DOMAIN:",
     "deploy": "vite build && wrangler deploy",
     "db:migrate:local": "wrangler d1 migrations apply ember-mass-times --local --persist-to ../backend/.wrangler/state",
     "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.worker.json"

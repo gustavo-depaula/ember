@@ -40,7 +40,8 @@
   "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Reviewer"] }],
   "vars": {
     // Cloudflare Access: the team's domain (<team>.cloudflareaccess.com) and the application's
-    // audience tag. While either is empty the Worker answers on localhost only.
+    // audience tag. While either is empty the Worker answers on localhost only, which is how
+    // `pnpm admin` runs it (the dev script blanks both).
     "ACCESS_TEAM_DOMAIN": "dpgu.cloudflareaccess.com",
     "ACCESS_AUD": "2c5de1710991624d71aa7a79db76f51ae30f12814f25dd163851626399df3104"
   }

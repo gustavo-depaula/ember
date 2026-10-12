@@ -1,9 +1,10 @@
 import type { Proposal } from '@ember/api/src/moderation'
 import type { Case } from './types'
 
-// Raise this when the brief changes what a review can propose (as when it learned about chapels),
-// so drafts written under the old one are shown as out of date instead of passing for current.
-export const briefVersion = 2
+// Raise this when the brief changes what a review can propose (as when it learned about chapels,
+// and then about rites), so drafts written under the old one are shown as out of date instead of
+// passing for current.
+export const briefVersion = 3
 
 // The brief for a headless review. The case itself travels as files in the working directory
 // (see `caseFile`), so the prompt stays the same for every church.
@@ -22,10 +23,18 @@ How to work:
 4. Propose the record as it should be after the change.
 
 The record:
-- \`services\` is the schedule, one entry per pattern and time. \`rrule\` is an iCal RRULE holding ONE pattern (FREQ=WEEKLY;BYDAY=SU, FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR, FREQ=MONTHLY;BYDAY=1FR). \`startTime\` and \`endTime\` are 24-hour HH:MM on the church's own clock. Two times on one day are two entries. \`kind\` is mass, confession or adoration. \`rite\` (Mass only: latin_novus_ordo, latin_tridentine, ...) and \`language\` (ISO 639) follow the church's other Masses unless the evidence says otherwise.
+- \`services\` is the schedule, one entry per pattern and time. \`rrule\` is an iCal RRULE holding ONE pattern (FREQ=WEEKLY;BYDAY=SU, FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR, FREQ=MONTHLY;BYDAY=1FR). \`startTime\` and \`endTime\` are 24-hour HH:MM on the church's own clock. Two times on one day are two entries. \`kind\` is mass, confession or adoration. \`language\` (ISO 639) follows the church's other Masses unless the evidence says otherwise.
 - When the schedule changes, return \`services\` as the WHOLE schedule afterwards: copy each untouched entry exactly, with its \`id\`; keep the \`id\` on an entry you modify; give a new entry no \`id\`. Omit \`services\` when the schedule does not change. \`texts\` and \`links\` work the same way.
 - \`texts\` are free-text schedule notes shown beside the structured times. If one would contradict the schedule you propose, rewrite or drop it.
 - \`fields\` holds only the church fields that change (for a confirmed permanent closure, status: "closed"). An empty string clears a field. Use {} when none change.
+
+Rite and affiliation:
+The directory can say which rite each Mass is celebrated in, and almost no record says it yet. Classify what the evidence lets you, as part of every review.
+- A Mass's \`rite\` is one of: latin_novus_ordo (the ordinary form, the Missal of Paul VI, in any language), latin_tridentine (the 1962 Missal: "Missa Tridentina", "forma extraordinária", "Traditional Latin Mass", "rito romano antigo"), byzantine, maronite, chaldean, syro_malabar, melkite, ukrainian_greek, ordinariate_divine_worship. Confession and adoration have none.
+- Set it on each Mass the evidence classifies: the bulletin or the parish's pages name the form, the church belongs to an institute or an Eastern church whose rite is known, or its own pages show an ordinary diocesan parish (then latin_novus_ordo). One church can have Masses in different rites; tag each by its own evidence. A Mass in Latin is not thereby Tridentine.
+- Leave \`rite\` off a Mass you cannot classify. Never guess, and never clear a rite the record already has without evidence against it.
+- Tagging is a change like any other: return the whole \`services\` with the rites added, ids kept, even when no time changes, and say in \`reasoning\` what each classification rests on.
+- On the church itself, when a source states it, set in \`fields\`: \`institute\` (the institute or society that runs it: FSSP, ICKSP, IBP, SSPX, OSB, OP, SJ, Opus Dei, ...), \`administration\` (diocesan, religious_institute, society_apostolic_life, personal_prelature, ordinariate, independent or other) and \`canonicalStatus\` (full_communion, irregular or not_in_communion). The same goes for a church in \`related\` or \`created\`.
 
 More than one church:
 A parish often serves chapels and communities under the same priest and prints one schedule for all of them. In the directory each place of worship is its own record, and a chapel's \`parishId\` is the id of its parish church (a parish church has none). \`otherChurches\` lists the records already in this church's parish (\`sameParish\`) and every record within a few kilometres.

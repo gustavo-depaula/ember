@@ -1,4 +1,5 @@
-import type { Church } from '@ember/api/src/schema'
+import type { ProposedService } from '@ember/api/src/moderation'
+import type { Church, Service } from '@ember/api/src/schema'
 import { type ReactNode, useState } from 'react'
 import type { Case } from '../worker/types'
 import { useSearch } from './api'
@@ -10,7 +11,7 @@ import {
   type RecordDraft,
   recordOf,
 } from './draft'
-import { asProposed, describeService, diffSchedule, kindLabels } from './schedule'
+import { asProposed, describeService, diffSchedule, kindLabels, riteLabels } from './schedule'
 
 type Change = {
   key: string
@@ -28,6 +29,13 @@ const markClass = { '+': 'add', '~': 'mod', '−': 'del' }
 function onlyIn<T>(these: T[], those: T[]): T[] {
   const others = new Set(those.map((entry) => JSON.stringify(entry)))
   return these.filter((entry) => !others.has(JSON.stringify(entry)))
+}
+
+// A service as a diff line reads it: when it is, then its rite, language and notes.
+function withDetails(service: ProposedService | Service): string {
+  const rite = service.rite && (riteLabels[service.rite] ?? service.rite)
+  const details = [rite, service.language, service.locationNote, service.note].filter(Boolean)
+  return [describeService(service), ...details].join(' · ')
 }
 
 // What a record changes on its church. `nameOf` turns a parish id into the parish's name.
@@ -54,10 +62,7 @@ function listChanges(
       }
       const { index, service } = row
       const label = kindLabels[service.kind] ?? service.kind
-      const details = [service.language, service.locationNote, service.note]
-        .filter(Boolean)
-        .join(' · ')
-      const after = `${describeService(service)}${details ? ` · ${details}` : ''}`
+      const after = withDetails(service)
       if (row.state === 'added') {
         return [
           {
@@ -74,7 +79,8 @@ function listChanges(
           key: `changed-${index}`,
           mark: '~',
           label,
-          before: describeService(row.before),
+          // With its details too: a Mass can change in nothing but its rite.
+          before: withDetails(row.before),
           after,
           drop: () =>
             setServices(record.services.map((s, i) => (i === index ? asProposed(row.before) : s))),

@@ -9,6 +9,7 @@ import {
   describeTime,
   diffSchedule,
   kindLabels,
+  riteLabels,
   type ScheduleRow,
   serviceKinds,
   weeklyDays,
@@ -106,7 +107,8 @@ function Line({
   onRestore: (service: NonNullable<Church['services']>[number]) => void
 }) {
   const service = row.state === 'removed' ? row.before : row.service
-  const details = [service.language, service.rite, service.locationNote, service.note]
+  const rite = service.rite && (riteLabels[service.rite] ?? service.rite)
+  const details = [service.language, rite, service.locationNote, service.note]
     .filter(Boolean)
     .join(' · ')
 
