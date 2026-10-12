@@ -42,8 +42,9 @@ def sung(key, label, text):
 
 
 mass = {
-    "title": "I Domingo do Advento",
-    "kicker": "Missa · 1962",
+    "title": "Santa Missa",
+    "caption": "domingo, 29 de novembro",
+    "kicker": "Missa",
     "blocks": [
         sung("introit", "Intróito", proper("Introitus", slice(0, 4))),
         {"label": "Oração", "pt": [l for l in section("Portugues", "Oratio") if l[0] != "$"]},
@@ -63,6 +64,7 @@ for block in mass["blocks"]:
 verum = json.load(open("content/practices/ave-verum/flow.json", encoding="utf-8"))["sections"][0]["inline"]
 prayer = {
     "title": "Ave verum",
+    "caption": "segunda-feira, 12 de outubro",
     "kicker": "Oração",
     "blocks": [
         sung(
@@ -85,6 +87,7 @@ faces = "".join(
         ("EB Garamond", 400, "normal", "EBGaramond-400Regular"),
         ("EB Garamond", 400, "italic", "EBGaramond-400Regular_Italic"),
         ("EB Garamond", 700, "normal", "EBGaramond-700Bold"),
+        ("Junicode", 400, "normal", "Junicode"),
         ("Cinzel", 400, "normal", "Cinzel-400Regular"),
         ("Cinzel", 600, "normal", "Cinzel-600SemiBold"),
     )

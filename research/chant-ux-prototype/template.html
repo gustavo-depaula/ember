@@ -27,14 +27,20 @@ header.top h1 { font-family: var(--head); font-weight: 600; font-size: 20px; mar
 .phone ::-webkit-scrollbar { display: none; }
 
 /* the reading page */
-.bar { position: absolute; top: 0; left: 0; right: 0; height: 96px; padding: 50px 14px 0; display: flex; align-items: center; background: rgba(255,255,255,.96); border-bottom: 1px solid var(--line); z-index: 3; }
-.bar .back { width: 36px; font-size: 30px; line-height: 30px; color: var(--ink2); text-align: left; padding-left: 6px; }
-.bar .title { flex: 1; text-align: center; font-family: var(--head); font-size: 14px; letter-spacing: 1.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.bar .acts { min-width: 36px; display: flex; justify-content: flex-end; }
-.page { position: absolute; inset: 96px 0 0 0; overflow-y: auto; padding: 22px 24px 120px; }
+.page { position: absolute; inset: 0; overflow-y: auto; padding: 58px 24px 120px; }
+.ph { display: flex; flex-direction: column; align-items: center; margin-bottom: 34px; }
+.ph .r { display: flex; align-items: center; gap: 16px; align-self: stretch; }
+.ph .r > i, .ph .half > i { flex: 1; height: 1px; background: var(--line); }
+.ph .half { flex: 1; display: flex; align-items: center; gap: 16px; }
+.ph .back { margin-left: -5px; display: flex; color: var(--ink); }
+.ph .x { color: var(--burgundy); font-size: 15px; }
+.ph h3 { font-family: 'Junicode', var(--body); font-weight: 400; font-size: 46px; line-height: 58px; margin: 32px 0 4px; text-align: center; }
+.ph .cap { font-style: italic; font-size: 18px; line-height: 24px; color: var(--ink2); padding-top: 4px; }
+.ph .r.low { padding-top: 24px; }
+.ph .acts { display: flex; align-items: center; gap: 16px; color: var(--ink2); }
+.ph .acts svg.ic { width: 22px; height: 22px; display: block; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
 .kicker { text-align: center; font-family: var(--head); font-size: 11px; letter-spacing: 2.5px; text-transform: uppercase; color: var(--ink2); }
-.h { text-align: center; font-family: var(--head); font-size: 25px; line-height: 31px; font-weight: 400; margin: 6px 0 4px; }
-.orn { text-align: center; color: var(--gold); font-size: 15px; margin-bottom: 20px; }
+.h { text-align: center; font-family: 'Junicode', var(--body); font-size: 30px; line-height: 38px; font-weight: 400; margin: 6px 0 16px; }
 .block { margin-bottom: 28px; }
 .lrow { display: flex; align-items: center; min-height: 30px; gap: 10px; margin-bottom: 4px; }
 .label { font-family: var(--head); font-size: 11.5px; letter-spacing: 2px; text-transform: uppercase; color: var(--burgundy); flex: 1; }
@@ -52,7 +58,7 @@ header.top h1 { font-family: var(--head); font-weight: 600; font-size: 20px; mar
 .mark .neume { width: 19px; height: 15px; }
 
 /* A — one control for the page */
-.sing { width: 40px; height: 34px; border-radius: 17px; display: flex; align-items: center; justify-content: center; color: var(--ink2); border: 1px solid var(--line); transition: background .2s, color .2s; }
+.sing { width: 38px; height: 30px; border-radius: 15px; display: flex; align-items: center; justify-content: center; color: var(--ink2); border: 1px solid var(--line); transition: background .2s, color .2s; }
 .sing.on { background: var(--ink); color: #F5EEE1; border-color: var(--ink); }
 
 /* B — two faces of a block */
@@ -64,11 +70,12 @@ header.top h1 { font-family: var(--head); font-weight: 600; font-size: 20px; mar
 .flip > div { flex: 0 0 342px; scroll-snap-align: start; scroll-snap-stop: always; }
 
 /* D — the chant book, a page of its own */
+
 .cantar { font-family: var(--head); font-size: 10.5px; letter-spacing: 1.5px; text-transform: uppercase; color: var(--goldDeep); display: flex; align-items: center; gap: 6px; border-bottom: 1px solid var(--gold); padding-bottom: 3px; }
 .cantar .neume { width: 17px; height: 14px; }
 .book { position: absolute; inset: 0; background: var(--paper); z-index: 6; transform: translateX(100%); transition: transform .32s cubic-bezier(.2,.8,.2,1); display: flex; flex-direction: column; }
 .book.open { transform: none; }
-.book .bar { position: static; flex: 0 0 96px; border-bottom: 0; }
+.book .ph { padding: 58px 24px 0; margin-bottom: 14px; }
 .tabs { display: flex; gap: 22px; padding: 0 24px; border-bottom: 1px solid var(--line); position: relative; flex: 0 0 auto; }
 .tabs button { font-family: var(--head); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; padding: 9px 0 11px; color: var(--ink2); }
 .tabs button.on { color: var(--burgundy); }
@@ -108,8 +115,12 @@ const text = (b) => `${b.ptCite ? `<div class="cite">${b.ptCite}</div>` : ''}<di
 const score = (b) => `${b.svg}<div class="gloss">${paras(b.pt)}</div><div class="ref">${b.book} · GregoBase, CC0</div>`;
 const mode = (b) => `<span class="mode">Modo ${b.mode}</span>`;
 const label = (b, extra = '') => (b.label || extra ? `<div class="lrow"><span class="label">${b.label}</span>${extra}</div>` : '');
-const opening = (s) => `<div class="kicker">${s.kicker}</div><h3 class="h">${s.title}</h3><div class="orn">✠</div>`;
-const bar = (s, acts = '', back = '') => `<div class="bar"><button class="back" ${back} aria-label="Voltar">‹</button><div class="title">${s.title}</div><div class="acts">${acts}</div></div>`;
+const chevron = `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>`;
+const typeIcon = `<svg class="ic" viewBox="0 0 24 24"><path d="M4 7V4h16v3M9 20h6M12 4v16"/></svg>`;
+const plusIcon = `<svg class="ic" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M8 12h8M12 8v8"/></svg>`;
+const upper = (back = '') => `<div class="r"><div class="half"><button class="back" ${back} aria-label="Voltar">${chevron}</button><i></i></div><span class="x">✠</span><i></i></div>`;
+// The app's PracticeHeader: a rule broken by a red ✠, the name, the day, and a lower rule that runs into the page's actions.
+const header = (s, acts = '') => `<div class="ph">${upper()}<h3>${s.title}</h3><div class="cap">${s.caption}</div><div class="r low"><i></i><div class="acts">${acts}${typeIcon}${plusIcon}</div></div></div>`;
 const underline = (strip) => {
   const on = strip.querySelector('.on'), line = strip.querySelector('i');
   line.style.left = on.offsetLeft + 'px';
@@ -119,13 +130,12 @@ const underline = (strip) => {
 const directions = [
   {
     name: 'A · Modo cantado',
-    what: 'Um só botão, no cabeçalho, liga o canto para a página inteira: todo texto que tem melodia passa a ser a sua partitura, com a tradução por baixo. A escolha fica lembrada. <b>Um gesto serve a Missa toda</b>; quem só lê nunca vê uma nota.',
+    what: 'Um só botão, junto às ações do cabeçalho, liga o canto para a página inteira: todo texto que tem melodia passa a ser a sua partitura, com a tradução por baixo. A escolha fica lembrada. <b>Um gesto serve a Missa toda</b>; quem só lê nunca vê uma nota.',
     build(phone, s) {
       let on = demo;
       const draw = () => {
         const top = phone.querySelector('.page')?.scrollTop ?? 0;
-        phone.innerHTML = bar(s, `<button class="sing ${on ? 'on' : ''}" aria-label="Modo cantado" aria-pressed="${on}">${neume}</button>`) +
-          `<div class="page">${opening(s)}${s.blocks.map((b) => `<div class="block">${
+        phone.innerHTML = `<div class="page">${header(s, `<button class="sing ${on ? 'on' : ''}" aria-label="Modo cantado" aria-pressed="${on}">${neume}</button>`)}${s.blocks.map((b) => `<div class="block">${
             b.sung && on ? label(b, mode(b)) + score(b) : label(b) + text(b)
           }</div>`).join('')}</div>`;
         phone.querySelector('.page').scrollTop = top;
@@ -138,7 +148,7 @@ const directions = [
     name: 'B · Duas faces',
     what: 'Cada texto cantado tem duas faces, <i>Texto</i> e <i>Canto</i>, ditas na sua própria linha de título. Desliza-se o bloco para o lado (ou toca-se na palavra) e ele vira partitura ali mesmo. <b>Escolhe-se peça a peça</b>, sem sair do lugar.',
     build(phone, s) {
-      phone.innerHTML = bar(s) + `<div class="page">${opening(s)}${s.blocks.map((b) => b.sung
+      phone.innerHTML = `<div class="page">${header(s)}${s.blocks.map((b) => b.sung
         ? `<div class="block">${`<div class="lrow"><span class="label">${b.label}</span><div class="faces"><button class="on">Texto</button><button>Canto</button><i></i></div></div>`}<div class="flip"><div>${text(b)}</div><div>${score(b)}</div></div></div>`
         : `<div class="block">${label(b)}${text(b)}</div>`).join('')}</div>`;
       phone.querySelectorAll('.block').forEach((block, n) => {
@@ -161,23 +171,22 @@ const directions = [
     name: 'C · Sempre à vista',
     what: 'Sem controle nenhum: onde há canto, a partitura está lá, sob o título, e a tradução logo abaixo — como num livro de canto com glosa. <b>Impossível não achar</b>; em troca, a Missa e as Horas ficam bem mais longas para quem só reza lendo.',
     build(phone, s) {
-      phone.innerHTML = bar(s) + `<div class="page">${opening(s)}${s.blocks.map((b) => `<div class="block">${
+      phone.innerHTML = `<div class="page">${header(s)}${s.blocks.map((b) => `<div class="block">${
         b.sung ? label(b, mode(b)) + score(b) : label(b) + text(b)
       }</div>`).join('')}</div>`;
     },
   },
   {
     name: 'D · Livro de canto',
-    what: 'O texto fica intocado. <i>Cantar</i>, no cabeçalho, abre uma página à parte, composta como um Gradual: só as partituras, uma por página, que se folheiam de lado — o mesmo paginador do Kyriale. A marca junto de um título abre o livro já naquela peça.',
+    what: 'O texto fica intocado. <i>Cantar</i>, junto às ações do cabeçalho, abre uma página à parte, composta como um Gradual: só as partituras, uma por página, que se folheiam de lado — o mesmo paginador do Kyriale. A marca junto de um título abre o livro já naquela peça.',
     build(phone, s) {
       const sung = s.blocks.filter((b) => b.sung);
-      phone.innerHTML = bar(s, `<button class="cantar">${neume}Cantar</button>`) +
-        `<div class="page">${opening(s)}${s.blocks.map((b) => `<div class="block">${
+      phone.innerHTML = `<div class="page">${header(s, `<button class="cantar">${neume}Cantar</button>`)}${s.blocks.map((b) => `<div class="block">${
           label(b, b.sung && b.label ? `<button class="mark" data-i="${sung.indexOf(b)}" aria-label="Cantar ${b.label}">${neume}</button>` : '')
         }${text(b)}</div>`).join('')}</div>` +
-        `<div class="book">${bar({ title: 'Canto' }, '', 'data-close')}${
+        `<div class="book"><div class="ph">${upper('data-close')}</div>${
           sung.length > 1 ? `<div class="tabs">${sung.map((b, i) => `<button class="${i ? '' : 'on'}">${b.label}</button>`).join('')}<i></i></div>` : ''
-        }<div class="pager">${sung.map((b) => `<div><div class="kicker">${b.label || s.kicker} · Modo ${b.mode}</div><h3 class="h">${b.name}</h3><div class="orn">✠</div>${score(b)}</div>`).join('')}</div></div>`;
+        }<div class="pager">${sung.map((b) => `<div><div class="kicker">${b.label || s.kicker} · Modo ${b.mode}</div><h3 class="h">${b.name}</h3>${score(b)}</div>`).join('')}</div></div>`;
       const book = phone.querySelector('.book'), pager = book.querySelector('.pager'), strip = book.querySelector('.tabs');
       const tabs = strip ? [...strip.querySelectorAll('button')] : [];
       const show = (i) => { tabs.forEach((t, k) => t.classList.toggle('on', k === i)); if (strip) underline(strip); };
@@ -195,7 +204,7 @@ const directions = [
     what: 'Uma pauta fica encostada ao pé da página, como a estante do cantor, e acompanha a leitura: mostra sempre o canto do trecho que está na tela. Puxa-se para cima e a partitura sobe sob o texto, que continua rolando por cima.',
     build(phone, s) {
       const sung = s.blocks.filter((b) => b.sung);
-      phone.innerHTML = bar(s) + `<div class="page">${opening(s)}${s.blocks.map((b) => `<div class="block" ${b.sung ? `data-i="${sung.indexOf(b)}"` : ''}>${label(b)}${text(b)}</div>`).join('')}</div>` +
+      phone.innerHTML = `<div class="page">${header(s)}${s.blocks.map((b) => `<div class="block" ${b.sung ? `data-i="${sung.indexOf(b)}"` : ''}>${label(b)}${text(b)}</div>`).join('')}</div>` +
         `<div class="dock"><button class="grip" aria-label="Partitura"><div class="handle"></div><div class="now">${neume}<b></b><span></span><em class="mode"></em></div></button><div class="body"></div></div>`;
       const page = phone.querySelector('.page'), dock = phone.querySelector('.dock');
       let current = -1;
