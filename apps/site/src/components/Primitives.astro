@@ -140,7 +140,7 @@ function wrap(node: { type: string; text: string }): string {
           <summary>
             <span class="chant-kicker">{pt ? 'Canto' : 'Chant'}</span>
             <em>{p.name}</em>
-            {mode && <span class="chant-mode">{pt ? 'Modo' : 'Mode'} {mode}</span>}
+            {mode ? <span class="chant-mode">{pt ? 'Modo' : 'Mode'} {mode}</span> : p.commentary && <span class="chant-mode">{p.commentary}</span>}
           </summary>
           <div class="chant-sheet" />
           <p class="t-annotation chant-credit">{credit}</p>

@@ -42,7 +42,7 @@ export function chantPrimitive(chant: Chant, part?: string): Primitive {
 export async function withChant(
   primary: string[],
   latin: string[],
-  chantsOf: (latinItem: string) => Promise<Primitive[]>,
+  chantsOf: (latinItem: string, index: number) => Promise<Primitive[]> | Primitive[],
 ): Promise<Primitive[]> {
   const chants = await Promise.all(latin.map(chantsOf))
   const out: Primitive[] = []

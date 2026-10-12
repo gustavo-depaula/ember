@@ -52,7 +52,10 @@ export function ChantBlock({ chant }: { chant: ChantPrimitive }) {
           <Typography flex={1} fontStyle="italic" tone="muted" numberOfLines={1} paddingLeft="$xs">
             {chant.name}
           </Typography>
-          {mode && <Typography variant="annotation">{t('chant.mode', { mode })}</Typography>}
+          {/* A chant has a mode; a psalm set to a tone has the tone, which its note says. */}
+          <Typography variant="annotation">
+            {mode ? t('chant.mode', { mode }) : chant.commentary}
+          </Typography>
         </XStack>
       </Pressable>
       {open && width > 0 && (

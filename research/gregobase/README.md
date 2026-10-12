@@ -4,7 +4,7 @@
 library to browse (the Kyriale, shipped), where else in Ember does that data
 belong, and by what mechanism does a score get to the text it sets?
 
-**Where things stand.** Six uses are built and running on a branch; what was
+**Where things stand.** Seven uses are built and running on a branch; what was
 left unbuilt is listed with the reason. The numbers below are reproducible with the
 scripts here.
 
@@ -147,8 +147,9 @@ Two ways a text gets its chant were tried side by side on purpose:
   book's chants as copyrighted, so its status wants a look before 900 more
   ship; and a responsory has no line of its own in an assembled hour to hang a
   chant on.
-- **Notated psalmody in the app** — see the next section: it works here, in
-  Node, and is not yet wired to a screen.
+- **The canticles' tones.** The Benedictus and Magnificat are sung to solemn
+  forms of the tones, and their antiphons are mostly transcribed without an
+  `euouae`, so they get no pointed score.
 - **The Ordinary Form.** The Graduale Romanum of 1974 is thin in GregoBase
   (≈300 scores) and the Missal's spoken antiphons often differ from the
   Gradual's sung ones, so text-linking will not carry it. It needs the *Ordo
@@ -158,10 +159,10 @@ Two ways a text gets its chant were tried side by side on purpose:
 - **Melody in the app.** `melodyOf` is shared code, but `expo-audio` is excluded
   from the native build, so playback there waits on a rebuild.
 
-## Notated psalmody (`psalmody/`): works, not yet in the app
+## Notated psalmody: built
 
 The other half of what breviariumgregorianum.com does: the psalm itself set
-to its tone, every verse pointed. Everything it needs is already in the corpus
+to its tone, every verse pointed. Everything it needs was already in the corpus
 or in the public domain:
 
 - **The tone** is the antiphon's mode. **The ending** is in the antiphon's own
@@ -169,9 +170,15 @@ or in the public domain:
   against each ending of the tone names it.
 - **The pointing** — which syllable takes which note of the cadence — is
   jgabc's `psalmtone.js` (github.com/bbloomf/jgabc, The Unlicense), the code
-  that site uses. Vendored here unchanged; it runs in Node with three stubs.
+  that site uses. `scripts/vendor-psalmtone.mjs` takes it at a pinned commit
+  and wraps it as a module, unrewritten; it runs under Hermes.
 - **The verses** come from the assembled hour, already marked with `*` and
   with their accents.
+
+In the hours, a psalm now has a second folded line under its antiphon's —
+`CHANT · Psalmus 110 · Tonus 3 b` — which opens onto the whole psalm in notes
+(`features/chant/psalmody.ts`; seen on the Android emulator). In the little
+hours the one antiphon's tone carries across its three psalms.
 
 Of the 1,264 antiphons imported for the Office:
 
@@ -182,15 +189,10 @@ Of the 1,264 antiphons imported for the Office:
 | carry an ending the tone tables do not list (64 of them in tone 8) | 73 |
 | have no mode, or the tonus peregrinus | 10 |
 
-`node research/gregobase/psalmody/psalmody.cjs an-magna-opera-domini-2908
-"Confitébor tibi, Dómine, in toto corde meo: * in consílio justórum, et
-congregatióne." …` gives GABC in tone 3 b, which the app's engraver draws as
-any other score (`psalmody/sample-psalm-110.svg`). Not heard: the pointing was
-read, not sung, by its author.
-
-To put it in the app: `psalmtone.js` is a browser script of 2012 that wants to
-be made a module, and a psalm of thirty verses is thirty staves — it wants
-the "folded line" treatment the antiphons have, per psalm.
+`psalmody/psalmody.cjs` is the first run of the idea, kept with its own copy of
+the script; `psalmody/sample-psalm-110.svg` is what it drew. Not heard: the
+pointing was read, not sung, by its author — a singer should check a psalm in
+each tone before this is trusted.
 
 ## Open questions for a human
 

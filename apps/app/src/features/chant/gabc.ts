@@ -52,6 +52,8 @@ function engravableText(text: string): string {
       // `<clear>` asks TeX to keep a syllable clear of the notes after it, and
       // `<nlba>` forbids a line break inside it. Layout hints for one page width.
       .replace(/<\/?(clear|nlba|eu)>/g, '')
+      // A star written as a special character is the star.
+      .replace(/<sp>\*<\/sp>/g, '*')
       // The asterisk raised to the staff, in verbatim TeX.
       .replace(/<v>\\greheightstar<\/v>/g, '*')
       // Any other verbatim TeX command is spacing (`\kern 6mm`, `\hspace`).
