@@ -9,11 +9,18 @@ import { Typography } from '@/components/typography'
 import { CollectionHero, SectionList } from '@/features/collections'
 import { userCollectionCover } from '@/features/covers'
 import { toneByIndex } from '@/features/explore/bgColor'
-import { ManageCollectionSheet, userCollectionRef, useUserCollection } from '@/features/library'
+import {
+  favoritesId,
+  favoritesTone,
+  ManageCollectionSheet,
+  userCollectionRef,
+  useUserCollection,
+} from '@/features/library'
 
 /**
  * A user-authored collection, fed from a locally-assembled manifest. The hero
- * has no offline action — the content is already local.
+ * has no offline action — the content is already local. Favorites opens here
+ * too, with nothing to manage: its star is on each prayer and book.
  */
 export default function UserCollectionScreen() {
   const { collectionId } = useLocalSearchParams<{ collectionId: string }>()
@@ -45,6 +52,7 @@ export default function UserCollectionScreen() {
   const collection = data?.collection
   const sections = data?.manifest.sections
   const hasItems = (data?.items.length ?? 0) > 0
+  const isFavorites = collectionId === favoritesId
 
   return (
     <>
@@ -64,9 +72,9 @@ export default function UserCollectionScreen() {
             name={collection.name}
             tagline={collection.description}
             cover={userCollectionCover}
-            tone={toneByIndex(collection.coverTone)}
+            tone={isFavorites ? favoritesTone : toneByIndex(collection.coverTone)}
             scrollY={scrollY}
-            onEdit={() => setManaging(true)}
+            onEdit={isFavorites ? undefined : () => setManaging(true)}
           />
         )}
 
@@ -86,7 +94,9 @@ export default function UserCollectionScreen() {
               <Typography variant="label" textTransform="uppercase" letterSpacing={1.5}>
                 {t('collections.empty')}
               </Typography>
-              <Typography variant="whisper">{t('collections.emptyHint')}</Typography>
+              <Typography variant="whisper">
+                {isFavorites ? t('library.favoritesEmptyHint') : t('collections.emptyHint')}
+              </Typography>
             </YStack>
           )}
         </YStack>

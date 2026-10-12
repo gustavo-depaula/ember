@@ -1,5 +1,5 @@
 import { useRouter } from 'expo-router'
-import { Plus } from 'lucide-react-native'
+import { Plus, Star } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { YStack } from 'tamagui'
@@ -12,26 +12,22 @@ import { coverFor, userCollectionCover } from '@/features/covers'
 import { ArtCarousel } from '@/features/explore/ArtCarousel'
 import { ArtCoverCard } from '@/features/explore/ArtCoverCard'
 import { artFor } from '@/features/explore/artMap'
-import { blockInk, toneByIndex, toneForKey } from '@/features/explore/bgColor'
-import { practiceHref } from '@/features/practices/practiceHref'
+import { toneByIndex, toneForKey } from '@/features/explore/bgColor'
 import { useHeldCards, useSaintsCatalog } from '@/features/saints'
 import { localizeContent } from '@/lib/i18n'
 import { CreateCollectionSheet } from './CreateCollectionSheet'
+import { favoritesId, favoritesTone, isFavoritable } from './favorites'
 import { useSavedItems } from './savedHooks'
 import { useUserCollections } from './userCollectionHooks'
-
-// A saved catalog entry carried with the moment it was kept, so each shelf can
-// surface the most recently saved items first.
-type Shelf = Array<[id: string, entry: CatalogEntry, savedAt: number]>
 
 const newCollectionTone = toneForKey('new-collection')
 
 /**
- * The user's own shelf, shown on Me: their own collections, shelves of saved
- * books, prayers and collections, and a gallery of holy cards. Saving is a
- * bookmark (offline is separate), so a shelf can be deep without costing
- * storage. Derived off the live catalog, so a shelf fills in as deferred
- * manifests warm (`useCatalogVersion`).
+ * The user's own shelf, shown on Me: a gallery of holy cards and one row of
+ * collections — Favorites first (every favorited prayer and book), then the
+ * collections they authored and the corpus collections they saved. Derived off
+ * the live catalog, so the row fills in as deferred manifests warm
+ * (`useCatalogVersion`).
  */
 export function LibraryFeed() {
   const { t } = useTranslation()
@@ -50,38 +46,23 @@ export function LibraryFeed() {
 
   // Re-derive only when the saved set or the catalog changes, not on every tick.
   // biome-ignore lint/correctness/useExhaustiveDependencies: keyed on catalogVersion
-  const shelves = useMemo(() => {
-    const books: Shelf = []
-    const prayers: Shelf = []
-    const collections: Shelf = []
-    for (const s of saved ?? []) {
-      if (s.kind === 'usercollection') continue // surfaced by their own shelf
-      const entry = getEntry(s.itemId)
-      if (!entry) continue
-      const row: Shelf[number] = [s.itemId, entry, s.savedAt]
-      if (entry.kind === 'book') books.push(row)
-      else if (entry.kind === 'collection') collections.push(row)
-      else if (entry.kind === 'practice') prayers.push(row)
-    }
-    const byRecent = (a: Shelf[number], b: Shelf[number]) => b[2] - a[2]
-    books.sort(byRecent)
-    prayers.sort(byRecent)
-    collections.sort(byRecent)
-    return { books, prayers, collections }
-  }, [saved, catalogVersion])
+  const savedCollections = useMemo(
+    () =>
+      (saved ?? []).flatMap((s): Array<[id: string, entry: CatalogEntry]> => {
+        const entry = getEntry(s.itemId)
+        return entry?.kind === 'collection' ? [[s.itemId, entry]] : []
+      }),
+    [saved, catalogVersion],
+  )
 
   const myCollections = userCollections ?? []
   const hasPersonal =
-    shelves.books.length > 0 ||
-    shelves.prayers.length > 0 ||
-    shelves.collections.length > 0 ||
+    (saved ?? []).some((s) => isFavoritable(s.itemId)) ||
+    savedCollections.length > 0 ||
     myCollections.length > 0
 
-  const goBook = (id: string) =>
-    router.push({ pathname: '/browse/book/[bookId]', params: { bookId: bareId(id) } })
   const goCollection = (id: string) =>
     router.push({ pathname: '/browse/[collectionId]', params: { collectionId: bareId(id) } })
-  const goPractice = (id: string) => router.push(practiceHref(bareId(id)))
   // The gallery first, so closing the card lands on it rather than back here.
   const goCard = (id: string) => {
     router.push('/saints')
@@ -108,6 +89,13 @@ export function LibraryFeed() {
       )}
 
       <ArtCarousel title={t('library.yourCollections')}>
+        <ArtCoverCard
+          title={t('library.favorites')}
+          tone={favoritesTone}
+          cover={userCollectionCover}
+          glyph={<Star size={40} color={favoritesTone.from} strokeWidth={1.5} />}
+          href={{ pathname: '/browse/my/[collectionId]', params: { collectionId: favoritesId } }}
+        />
         {myCollections.map((c) => (
           <ArtCoverCard
             key={c.id}
@@ -118,6 +106,16 @@ export function LibraryFeed() {
             href={{ pathname: '/browse/my/[collectionId]', params: { collectionId: c.id } }}
           />
         ))}
+        {savedCollections.map(([id, entry]) => (
+          <ArtCoverCard
+            key={id}
+            title={localizeContent(entry.name ?? {})}
+            image={artFor(id)}
+            cover={coverFor(entry)}
+            tone={toneForKey(id)}
+            onPress={() => goCollection(id)}
+          />
+        ))}
         <ArtCoverCard
           title={t('library.newCollection')}
           tone={newCollectionTone}
@@ -126,55 +124,6 @@ export function LibraryFeed() {
           onPress={() => setCreating(true)}
         />
       </ArtCarousel>
-
-      {shelves.books.length > 0 && (
-        <ArtCarousel title={t('library.savedBooks')}>
-          {shelves.books.map(([id, entry]) => (
-            <ArtCoverCard
-              key={id}
-              title={localizeContent(entry.name ?? entry.title ?? {})}
-              subtitle={entry.author ? localizeContent(entry.author) : undefined}
-              image={artFor(id)}
-              tone={toneForKey(id)}
-              cover={coverFor(entry)}
-              size={118}
-              aspectRatio={1.5}
-              radius={4}
-              onPress={() => goBook(id)}
-            />
-          ))}
-        </ArtCarousel>
-      )}
-
-      {shelves.prayers.length > 0 && (
-        <ArtCarousel title={t('library.savedPrayers')}>
-          {shelves.prayers.map(([id, entry]) => (
-            <ArtCoverCard
-              key={id}
-              title={localizeContent(entry.name ?? entry.title ?? {})}
-              image={artFor(id)}
-              tone={toneForKey(id)}
-              cover={coverFor(entry)}
-              onPress={() => goPractice(id)}
-            />
-          ))}
-        </ArtCarousel>
-      )}
-
-      {shelves.collections.length > 0 && (
-        <ArtCarousel title={t('library.savedCollections')}>
-          {shelves.collections.map(([id, entry]) => (
-            <ArtCoverCard
-              key={id}
-              title={localizeContent(entry.name ?? {})}
-              image={artFor(id)}
-              cover={coverFor(entry)}
-              tone={toneForKey(id)}
-              onPress={() => goCollection(id)}
-            />
-          ))}
-        </ArtCarousel>
-      )}
 
       {!hasPersonal && (
         <YStack gap="$xs" paddingVertical="$sm">

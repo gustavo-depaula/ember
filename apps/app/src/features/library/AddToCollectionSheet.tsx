@@ -1,5 +1,5 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { Check, Plus } from 'lucide-react-native'
+import { Check, Plus, Star } from 'lucide-react-native'
 import { useMemo, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Pressable, ScrollView } from 'react-native'
@@ -7,8 +7,10 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
 import { pullDown } from '@/components/NativeSheet'
 import { Typography } from '@/components/typography'
-import { toneByIndex } from '@/features/explore/bgColor'
+import { blockInk, toneByIndex } from '@/features/explore/bgColor'
 import { CreateCollectionSheet } from './CreateCollectionSheet'
+import { favoritesTone, isFavoritable } from './favorites'
+import { useSaveToggle } from './savedHooks'
 import {
   useAddToCollection,
   useCollectionsContainingRef,
@@ -20,7 +22,8 @@ import {
  * Add an item to one of the user's collections. Native sheet, manuscript
  * content: each collection is a small jewel row (tone ground + name), checked in
  * gold when the ref already belongs. The top row opens the create flow and adds
- * the ref to the fresh collection.
+ * the ref to the fresh collection; Favorites leads the list for anything that
+ * can be favorited.
  */
 export function AddToCollectionSheet({
   itemRef,
@@ -39,6 +42,8 @@ export function AddToCollectionSheet({
   const add = useAddToCollection()
   const remove = useRemoveFromCollection()
   const [creating, setCreating] = useState(false)
+  // The kind is the ref's prefix: every catalog id carries it.
+  const favorite = useSaveToggle(itemRef, itemRef?.split('/')[0] ?? '')
 
   const memberSet = useMemo(() => new Set(memberOf ?? []), [memberOf])
   const list = collections ?? []
@@ -86,6 +91,39 @@ export function AddToCollectionSheet({
                   </Text>
                 </XStack>
               </Pressable>
+
+              {itemRef && isFavoritable(itemRef) && (
+                <Pressable
+                  onPress={favorite.toggle}
+                  disabled={favorite.isWorking}
+                  accessibilityRole="checkbox"
+                  accessibilityState={{ checked: favorite.saved }}
+                  accessibilityLabel={t('library.favorites')}
+                >
+                  <XStack alignItems="center" gap="$md" paddingVertical="$sm">
+                    <YStack
+                      width={40}
+                      height={40}
+                      borderRadius={20}
+                      alignItems="center"
+                      justifyContent="center"
+                      backgroundColor={favoritesTone.from}
+                    >
+                      <Star size={18} color={blockInk} fill={blockInk} />
+                    </YStack>
+                    <Text
+                      flex={1}
+                      fontFamily="$heading"
+                      fontSize="$3"
+                      color="$color"
+                      numberOfLines={1}
+                    >
+                      {t('library.favorites')}
+                    </Text>
+                    {favorite.saved && <Check size={20} color={theme.accent?.val} />}
+                  </XStack>
+                </Pressable>
+              )}
 
               {list.map((c) => {
                 const member = memberSet.has(c.id)
