@@ -1,3 +1,4 @@
+import { format } from 'date-fns'
 import { describe, expect, it } from 'vitest'
 
 import type { NotificationsManifest } from '@/content/manifestTypes'
@@ -5,13 +6,16 @@ import type { NotifyConfig } from '@/db/schema'
 
 import {
   computeTriggerTime,
+  datedReminderTimes,
   describeLeadTime,
   localizeMessages,
   parseNotifyConfig,
   pickMessage,
+  reminderRecurrence,
   resolveReminders,
   shiftWeekday,
 } from './notify'
+import { isApplicableOn } from './schedule'
 
 describe('parseNotifyConfig', () => {
   it('returns undefined for empty or malformed input', () => {
@@ -122,5 +126,55 @@ describe('describeLeadTime', () => {
     [90, { kind: 'minutes', count: 90 }],
   ])('%i minutes → %o', (offset, expected) => {
     expect(describeLeadTime(offset)).toEqual(expected)
+  })
+})
+
+describe('reminderRecurrence', () => {
+  it('repeats by clock or weekday only when nothing else bounds the rule', () => {
+    expect(reminderRecurrence({ type: 'daily' })).toEqual({ kind: 'daily' })
+    expect(reminderRecurrence({ type: 'days-of-week', days: [1, 5] })).toEqual({
+      kind: 'weekly',
+      days: [1, 5],
+    })
+    expect(reminderRecurrence({ type: 'daily', seasons: ['easter'] })).toEqual({ kind: 'dated' })
+    expect(reminderRecurrence({ type: 'ember-days' })).toEqual({ kind: 'dated' })
+    expect(reminderRecurrence({ type: 'nth-weekday', n: [1], day: 5 })).toEqual({ kind: 'dated' })
+  })
+})
+
+describe('datedReminderTimes', () => {
+  const emberDays = (from: Date, offset: number) =>
+    datedReminderTimes({
+      slotTime: '07:30',
+      offset,
+      from,
+      days: 90,
+      isDue: (date) => isApplicableOn({ type: 'ember-days' }, date),
+    }).map((d) => format(d, 'yyyy-MM-dd HH:mm'))
+
+  it('rings the Ember days on their own dates and no other', () => {
+    expect(emberDays(new Date(2026, 9, 12, 9, 0), 0)).toEqual([
+      '2026-12-16 07:30',
+      '2026-12-18 07:30',
+      '2026-12-19 07:30',
+    ])
+  })
+
+  it('leaves out a reminder whose hour has passed today', () => {
+    expect(emberDays(new Date(2026, 11, 16, 8, 0), 0).slice(0, 2)).toEqual([
+      '2026-12-18 07:30',
+      '2026-12-19 07:30',
+    ])
+  })
+
+  it('carries a lead time past midnight to the eve', () => {
+    const times = datedReminderTimes({
+      slotTime: '00:30',
+      offset: 60,
+      from: new Date(2026, 9, 12, 9, 0),
+      days: 90,
+      isDue: (date) => isApplicableOn({ type: 'ember-days' }, date),
+    })
+    expect(format(times[0], 'yyyy-MM-dd HH:mm')).toBe('2026-12-15 23:30')
   })
 })

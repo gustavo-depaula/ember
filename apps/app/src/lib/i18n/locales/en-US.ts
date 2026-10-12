@@ -1378,6 +1378,7 @@ export default {
     titleInMinutes: '{{name}} in {{count}} min',
     titleInHours_one: '{{name}} in {{count}} hr',
     titleInHours_other: '{{name}} in {{count}} hrs',
+    fallbackTitle: 'Time for prayer',
     bodyPool: [
       'Time for prayer.',
       'A few minutes with the Lord.',

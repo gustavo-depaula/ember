@@ -8,7 +8,7 @@ import { confirm } from '@/components'
 import { getManifest, loadFlow } from '@/content/resolver'
 import type { ProgramConfig } from '@/content/types'
 import type { SlotState } from '@/db/events'
-import { resolveCompletions, useEventStore } from '@/db/events'
+import { useEventStore } from '@/db/events'
 import {
   addSlot,
   archivePractice,
@@ -24,7 +24,7 @@ import {
   updatePractice,
   updateSlot,
 } from '@/db/repositories'
-import type { Completion, UserPractice } from '@/db/schema'
+import type { UserPractice } from '@/db/schema'
 import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
@@ -38,6 +38,9 @@ import {
   standingAheadDays,
 } from './program'
 import { parseSchedule } from './schedule'
+import { isHiddenByProgram, sortedCompletionDates } from './utils'
+
+export { sortedCompletionDates }
 
 function sortedSlots(slots: Iterable<SlotState>): SlotState[] {
   return [...slots].sort((a, b) => a.sort_order - b.sort_order)
@@ -83,15 +86,6 @@ export function useSlotsForPractice(practiceId: string | undefined): SlotState[]
 
 export function usePractice(practiceId: string | undefined): UserPractice | undefined {
   return useEventStore((s) => (practiceId ? s.practices.get(practiceId) : undefined))
-}
-
-export function sortedCompletionDates(
-  ids: Set<number> | undefined,
-  completions: Map<number, Completion>,
-): string[] {
-  const dates = new Set<string>()
-  for (const c of resolveCompletions(ids, completions)) dates.add(c.date)
-  return [...dates].sort()
 }
 
 export function useRestartNeededPractices(): Set<string> {
@@ -312,29 +306,7 @@ export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
       const practice = practices.get(slot.practice_id)
       if (practice?.archived) continue
 
-      const manifest = getManifest(slot.practice_id)
-      const program = manifest?.program
-      if (!program) continue
-
-      const schedule = parseSchedule(slot.schedule)
-      const cursor = programCursor(
-        program,
-        schedule,
-        cursors.get(`program/${slot.practice_id}`),
-        targetDate,
-      )
-      const projection = projectProgramAtDate({
-        program,
-        schedule,
-        cursor,
-        completionDatesAsc: sortedCompletionDates(
-          completionsByPractice.get(slot.practice_id),
-          completions,
-        ),
-        realToday,
-        targetDate,
-      })
-      if (!projection.visible) result.add(slot.id)
+      if (isHiddenByProgram(slot, targetDate, realToday)) result.add(slot.id)
     }
 
     return result
