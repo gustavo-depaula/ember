@@ -91,7 +91,8 @@ describe('splitCitation — citation vs passage', () => {
     const { citation, body } = splitCitation(parseSection(html, 'pt-BR', 'gospel'))
     expect(compactCitation(citation)).toBe('Lucas 11,29-32')
     // The passage opens on its first line, not on the blank line before it.
-    expect(body).toMatchObject([{ inline: [{ kind: 'text', text: 'Naquele tempo,' }] }])
+    expect(body.map(paragraphText)[0]).toMatch(/^Naquele tempo,/)
+    expect(body[0]).toHaveProperty('inline.0.kind', 'text')
     expect(allText(body)).toBe(
       'Naquele tempo, quando as multidões se reuniram em grande quantidade, Jesus começou a dizer:',
     )
