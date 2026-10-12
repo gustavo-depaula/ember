@@ -22,6 +22,9 @@ export type Review = {
   suggestionIds: string[]
   reviewedAt: string
   costUsd?: number
+  // The version of the brief it was written under, and whether that is no longer the current one.
+  brief?: number
+  outdated?: boolean
 }
 
 export type Run = {

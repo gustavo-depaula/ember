@@ -5,11 +5,13 @@ import { CasePane } from './CasePane'
 import { ChangeLog } from './ChangeLog'
 import { type Draft, proposalDraft } from './draft'
 
-// Whether Claude's draft still covers exactly the suggestions that are waiting.
+// Whether Claude's draft still covers exactly the suggestions that are waiting, and was written
+// under the brief the desk gives today.
 export function reviewIsCurrent(item: Case): boolean {
   const ids = item.review?.suggestionIds
   return (
     ids !== undefined &&
+    !item.review?.outdated &&
     ids.length === item.suggestions.length &&
     item.suggestions.every((suggestion) => ids.includes(suggestion.id))
   )
@@ -19,7 +21,7 @@ function caseState(item: Case): { label: string; tone: string } {
   if (item.run?.status === 'failed') return { label: 'Review failed', tone: 'bad' }
   if (item.run) return { label: 'Claude is reading…', tone: 'busy' }
   if (!item.review) return { label: 'Not reviewed', tone: 'idle' }
-  if (!reviewIsCurrent(item)) return { label: 'New since review', tone: 'warn' }
+  if (!reviewIsCurrent(item)) return { label: 'Review out of date', tone: 'warn' }
   if (item.review.proposal.question) return { label: 'Needs you', tone: 'warn' }
   return { label: `Ready · ${item.review.proposal.confidence}`, tone: 'good' }
 }

@@ -1,5 +1,9 @@
 import type { Case } from './types'
 
+// Raise this when the brief changes what a review can propose (as when it learned about chapels),
+// so drafts written under the old one are shown as out of date instead of passing for current.
+export const briefVersion = 2
+
 // The brief for a headless review. The case itself travels as files in the working directory
 // (see `caseFile`), so the prompt stays the same for every church.
 export const reviewPrompt = `You are reviewing crowd-sourced suggestions about one church in Ember's Mass-times directory. A moderator will read your proposal and approve, edit or discard it; nothing you return is applied on its own.

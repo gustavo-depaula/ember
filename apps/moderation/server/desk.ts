@@ -15,7 +15,7 @@ import { planResolution, restoreToSql } from '@ember/backend/src/lib/moderation'
 import { runClaude } from './claude'
 import { type D1, fromRow, lit, type Row } from './d1'
 import { appRoot, safeName } from './paths'
-import { caseFile, refinePrompt, reviewPrompt } from './prompt'
+import { briefVersion, caseFile, refinePrompt, reviewPrompt } from './prompt'
 import { caseDir, clearCase, readHistory, readReview, writeHistory, writeReview } from './store'
 import type {
   Case,
@@ -63,7 +63,11 @@ export function createDesk(d1: D1, url: string) {
     return {
       target: d1.target,
       loadedAt: loadedAt ?? '',
-      cases: cases.map((item) => ({ ...item, run: runs.get(item.churchId) })),
+      cases: cases.map((item) => ({
+        ...item,
+        review: item.review && { ...item.review, outdated: item.review.brief !== briefVersion },
+        run: runs.get(item.churchId),
+      })),
       history,
       log,
     }
@@ -281,7 +285,8 @@ export function createDesk(d1: D1, url: string) {
 
   function reviewAll() {
     for (const item of cases) {
-      const fresh = item.review && sameIds(item.review.suggestionIds, item.suggestions)
+      const fresh =
+        item.review?.brief === briefVersion && sameIds(item.review.suggestionIds, item.suggestions)
       if (!fresh) review(item.churchId)
     }
   }
@@ -357,6 +362,7 @@ export function createDesk(d1: D1, url: string) {
         suggestionIds: item.suggestions.map((suggestion) => suggestion.id),
         reviewedAt: new Date().toISOString(),
         costUsd,
+        brief: briefVersion,
       }
       await writeReview(churchId, reviewed)
       // The queue may have been reloaded while Claude worked; attach to whatever holds the case now.

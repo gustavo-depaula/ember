@@ -485,6 +485,11 @@ blockquote {
   color: var(--orange);
 }
 
+.question button.link {
+  font-weight: 600;
+  text-decoration: underline;
+}
+
 .evidence,
 .activity {
   margin: 10px 0 0;

@@ -115,7 +115,7 @@ export function CasePane({
           )}
         </header>
 
-        <ClaudePanel item={item} />
+        <ClaudePanel item={item} onAnswer={() => setAsking(true)} />
 
         {/* Evidence on the left, the change it argues for on the right. */}
         <div className="columns">
@@ -154,7 +154,11 @@ export function CasePane({
               autoFocus
               rows={2}
               value={instruction}
-              placeholder="What should be different? (“the Saturday Mass is 17h, look again at the photo”, “don’t trust the website, only the bulletin”)"
+              placeholder={
+                item.review?.proposal.question
+                  ? 'Answer Claude’s question, or say what should be different'
+                  : 'What should be different? (“the Saturday Mass is 17h, look again at the photo”, “don’t trust the website, only the bulletin”)'
+              }
               onChange={(event) => setInstruction(event.target.value)}
               onKeyDown={(event) => {
                 if (event.key === 'Enter' && (event.metaKey || event.ctrlKey)) ask()
@@ -419,7 +423,7 @@ function SuggestionCard({
   )
 }
 
-function ClaudePanel({ item }: { item: Case }) {
+function ClaudePanel({ item, onAnswer }: { item: Case; onAnswer: () => void }) {
   const review = useReview()
   const stop = useStop()
   const [instruction, setInstruction] = useState('')
@@ -454,8 +458,17 @@ function ClaudePanel({ item }: { item: Case }) {
           {proposal && !(run && run.status !== 'failed') ? (
             <>
               {reviewIsCurrent(item) ? null : (
-                <p className="error">
-                  Suggestions arrived or were settled since this review. Ask Claude again.
+                <p className="question">
+                  {item.review?.outdated
+                    ? 'This review is from before the desk could change a parish’s chapels and search the directory, so it only covers this one church.'
+                    : 'Suggestions arrived or were settled since this review.'}{' '}
+                  <button
+                    type="button"
+                    className="link"
+                    onClick={() => review.mutate({ churchId: item.churchId })}
+                  >
+                    Review again
+                  </button>
                 </p>
               )}
               <p className="summary">{proposal.summary}</p>
@@ -465,7 +478,14 @@ function ClaudePanel({ item }: { item: Case }) {
                 </span>{' '}
                 reviewed {timeAgo(item.review?.reviewedAt ?? '')}
               </p>
-              {proposal.question ? <p className="question">{proposal.question}</p> : null}
+              {proposal.question ? (
+                <p className="question">
+                  {proposal.question}{' '}
+                  <button type="button" className="link" onClick={onAnswer}>
+                    Answer
+                  </button>
+                </p>
+              ) : null}
               <p>{proposal.reasoning}</p>
               <details>
                 <summary>Where it looked ({proposal.evidence.length})</summary>
