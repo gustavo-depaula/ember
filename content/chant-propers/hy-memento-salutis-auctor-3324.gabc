@@ -1,18 +1,19 @@
 name: Memento salutis Auctor;
 office-part: Hymnus;
+mode: 2;
 book: Antiphonale Romanum, 1912, p. [91];
 gregobase: 3324;
 %%
-(c4)Me(h)men(hg)to,(ed) sa(g)lu(hj)tis(ji) Au(h)ctor,(i) (;)
-quod(hk) no(k)stri(i) quon(ji)dam(h) cor(ih)po(g)ris,(h) (:)
-ex(k) il(k)li(i)ba(k)ta(klk) Vir(ji)gi(hi)ne(ivHG) (;)
-na(ji)scen(jk)do,(i) for(ji)mam(h) sum(ih)pse(g)ris.(h) (::)
-2. Ma(h)ri(hg)a,(ed) ma(g)ter(hj) gra(ji)ti(h)ae,(i) (;)
-ma(hk)ter(k) mi(i)se(ji)ri(h)cor(ih)di(g)ae,(h) (:)
-tu(k) nos(k) ab(i) ho(k)ste(klk) pro(ji)te(hi)ge,(ivHG) (;)
-et(ji) ho(jk)ra(i) mor(ji)tis(h) sus(ih)ci(g)pe.(h) (::)
-3. Glo(h)ri(hg)a(ed) ti(g)bi,(hj) Do(ji)mi(h)ne,(i) (;)
-qui(hk) na(k)tus(i) es(ji) de(h) Vir(ih)gi(g)ne,(h) (:)
-cum(k) Patr<i>e</i>(k) et(i) San(k)cto(klk) Spi(ji)ri(hi)tu(ivHG) (;)
-in(ji) sem(jk)pi(i)ter(ji)na(h) sae(ih)cu(g)la.(h) (::)
+(c4)ME(h)MEN(hg)TO,(ed) re(g)rum(hj) Cón(ji)di(h)tor,(i) (;)
+No(hk)stri(k) quod(i) o(ji)lim(h) cór(ih)po(g)ris,(h) (:)
+Sa(k)crá(k)t<i>a</i>(i) ab(i) al(k)vo(klk) Vír(ji)gi(hi)nis(ivHG) (;)
+Na(ji)scén(jk)do,(i) for(ji)mam(h) súm(ih)pse(g)ris.(h) (::)
+2. Ma(h)ri(hg)a,(ed) ma(g)ter(hj) gra(ji)ti(h)æ,(i) (;)
+Dul(hk)cis(k) Pa(i)rens(ji) cle(h)mén(ih)ti(g)æ,(h) (:)
+Tu(k) nos(k) ab(i) ho(k)ste(klk) pró(ji)te(hi)ge,(ivHG) (;)
+Et(ji) mor(jk)tis(i) ho(ji)ra(h) sú(ih)sci(g)pe.(h) (::)
+3. Je(h)su(hg) ti(ed)bi(g) sit(hj) gló(ji)ri(h)a,(i) (;)
+Qui(hk) na(k)tus(i) es(ji) de(h) Vír(ih)gi(g)ne,(h) (:)
+Cum(k) Pa(k)tr<i>e</i>(i) et(i) San(k)cto(klk) Spí(ji)ri(hi)tu(ivHG) (;)
+In(ji) sem(jk)pi(i)tér(ji)na(h)  s<sp>'ae</sp>(ih)cu(g)la.(h) (::)
 A(hih)men.(gh) (::)
