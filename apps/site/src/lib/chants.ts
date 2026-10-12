@@ -6,7 +6,7 @@ import {
   romanMode,
   sectionOf,
 } from '@/features/chant/chants'
-import { layoutScore } from '@/features/chant/layoutScore'
+import { layoutScore, melodyOf, type Tone } from '@/features/chant/layoutScore'
 import { scoreSvg } from '@/features/chant/scoreSvg'
 import { localizeContent } from '@/lib/i18n'
 import { href, slugOf } from '~/routes'
@@ -81,6 +81,8 @@ export type ChantPage = {
   section?: { title: string; name?: string; href: string }
   previous?: ChantLink
   next?: ChantLink
+  /** The tune as notes to sound: what the Listen button plays. */
+  melody: Tone[]
   /** The score as SVG markup, set for the column and for a phone. */
   wide: string
   narrow: string
@@ -111,6 +113,7 @@ export async function loadChantPage(id: string, locale: Locale): Promise<ChantPa
     previous: section && at > 0 ? link(section.chants[at - 1], locale) : undefined,
     next:
       section && at < section.chants.length - 1 ? link(section.chants[at + 1], locale) : undefined,
+    melody: melodyOf(chant.score),
     wide: scoreSvg(layoutScore(chant.score, { width: deskWidth, scale: deskScale }), {
       idPrefix: `${slug}-w-`,
       label: chant.name,

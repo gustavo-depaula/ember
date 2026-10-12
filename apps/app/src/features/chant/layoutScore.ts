@@ -121,7 +121,13 @@ type Line = {
   origin: { y: number }
   createSvgTree: (ctxt: Context, top: number) => Tree
 }
+// What the score was parsed into, before any drawing: neumes with their notes, and the bars between.
+type Notation = {
+  isDivider?: boolean
+  notes?: Array<{ pitch: { toInt: () => number }; morae: unknown[]; episemata: unknown[] }>
+}
 type Score = {
+  notations: Notation[]
   lines: Line[]
   performLayout: (ctxt: Context) => void
   layoutChantLines: (ctxt: Context, width: number) => void
@@ -132,6 +138,9 @@ type Exsurge = {
   Gabc: { createMappingsFromSource: (ctxt: Context, gabc: string) => unknown }
   TextMeasuringStrategy: { OpenTypeJS: number }
   TextTypes: Record<string, { cssClass: string }>
+  QuarterBar: new () => object
+  HalfBar: new () => object
+  Virgula: new () => object
 }
 // exsurge ships one CommonJS bundle. Metro hands its exports over as the
 // namespace; Node's ESM loader, which builds the website, as the default.
@@ -165,11 +174,49 @@ function context(scale: number) {
   return ctxt
 }
 
-export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): ScoreLayout {
+function parse(gabc: string, scale: number) {
   const ctxt = context(scale)
   const mappings = exsurge.Gabc.createMappingsFromSource(ctxt, engravableScore(gabc))
   const score = new exsurge.ChantScore(ctxt, mappings, true)
   score.performLayout(ctxt)
+  return { ctxt, score }
+}
+
+export type Tone = {
+  /** Semitones above the C below the staff's `do`; absent for a breath. */
+  pitch?: number
+  /** Length in pulses: a plain note is one. */
+  beats: number
+}
+
+/**
+ * A score as the line of notes a voice would sing: each note's pitch, flats
+ * applied, and its length by the Solesmes signs — a dotted note doubled, one
+ * under an episema held, the note before a bar let ring, and a breath at each
+ * bar as long as the bar is tall.
+ */
+export function melodyOf(gabc: string): Tone[] {
+  const { score } = parse(gabc, 1)
+  const tones: Tone[] = []
+  for (const notation of score.notations) {
+    if (notation.notes) {
+      for (const note of notation.notes) {
+        const held = note.morae.length ? 2 : note.episemata.length ? 1.5 : 1
+        tones.push({ pitch: note.pitch.toInt(), beats: held })
+      }
+    } else if (notation.isDivider && tones.length) {
+      const last = tones[tones.length - 1]
+      if (last.pitch === undefined) continue
+      last.beats = Math.max(last.beats, 2)
+      const small = notation instanceof exsurge.QuarterBar || notation instanceof exsurge.Virgula
+      tones.push({ beats: small ? 0.5 : notation instanceof exsurge.HalfBar ? 1 : 2 })
+    }
+  }
+  return tones
+}
+
+export function layoutScore(gabc: string, { width, scale = 1 }: ScoreOptions): ScoreLayout {
+  const { ctxt, score } = parse(gabc, scale)
   const tail = staffTail * scale
   const setWidth = width - tail
   score.layoutChantLines(ctxt, setWidth)

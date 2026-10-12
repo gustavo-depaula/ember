@@ -8,7 +8,7 @@ import { describe, expect, it } from 'vitest'
 
 import { engravableScore, parseGabc } from '../gabc'
 import { inkPaths } from '../inkPath'
-import { layoutScore, type ScoreLayout, type ScoreText } from '../layoutScore'
+import { layoutScore, melodyOf, type ScoreLayout, type ScoreText } from '../layoutScore'
 import { scoreSvg } from '../scoreSvg'
 
 const content = resolve(dirname(fileURLToPath(import.meta.url)), '../../../../../../content')
@@ -130,6 +130,24 @@ describe('layoutScore', () => {
     const large = layoutScore(score, { width: 340, scale: 1.4 })
     expect(large.lines.length).toBeGreaterThan(small.lines.length)
     expect(large.lines[0].height).toBeGreaterThan(small.lines[0].height)
+  })
+})
+
+describe('melodyOf', () => {
+  it('reads the notes a voice sings: flats applied, dots doubled, a breath at the bar', () => {
+    // Kyrie XI opens la–te♭–la–sol–la–re., on a staff with the flat: D is 14, A 21, B♭ 22.
+    const melody = melodyOf(chant('kyrie-xi').score)
+    expect(melody.slice(0, 7)).toEqual([
+      { pitch: 21, beats: 1 },
+      { pitch: 22, beats: 1 },
+      { pitch: 21, beats: 1 },
+      { pitch: 19, beats: 1 },
+      { pitch: 21, beats: 1 },
+      { pitch: 14, beats: 2 },
+      { beats: 0.5 },
+    ])
+    // Mode I: it ends on its final, D.
+    expect(melody.filter((tone) => tone.pitch !== undefined).at(-1)?.pitch).toBe(14)
   })
 })
 

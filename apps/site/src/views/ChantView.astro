@@ -32,6 +32,11 @@ const description = pt
       <h1>{page.name}</h1>
       {page.subtitle && <p class="variant">{page.subtitle}</p>}
       {meta && <p class="date" style="text-transform:none">{meta}</p>}
+      <p class="listen">
+        <button type="button" class="xref" aria-pressed="false" data-melody={JSON.stringify(page.melody)} data-play={pt ? 'Ouvir a melodia' : 'Hear the melody'} data-stop={pt ? 'Parar' : 'Stop'}>
+          {pt ? 'Ouvir a melodia' : 'Hear the melody'}
+        </button>
+      </p>
     </header>
     <div class="score-sheet score-wide" set:html={page.wide} />
     <div class="score-sheet score-narrow" set:html={page.narrow} />
@@ -55,7 +60,26 @@ const description = pt
   </article>
 </Base>
 
+<script>
+  import '~/scripts/sing'
+</script>
+
 <style>
+  .listen {
+    padding-top: var(--space-sm);
+  }
+  .listen button {
+    font: inherit;
+    font-size: 17px;
+    padding: 0;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    color: var(--color-muted-blue);
+    text-decoration: underline;
+    text-decoration-thickness: 0.5px;
+    text-underline-offset: 3px;
+  }
   /* As wide as the score was set for a desk: `deskWidth` in lib/chants.ts. */
   .chant {
     width: 100%;
