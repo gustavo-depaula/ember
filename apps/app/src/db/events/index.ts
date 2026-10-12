@@ -1,5 +1,6 @@
 export { nextId } from './clock'
 export { dropPlaceholders } from './compact'
+export { followLog } from './followLog'
 export type {
   EventStoreState,
   SlotState,

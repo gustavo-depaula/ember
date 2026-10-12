@@ -1,3 +1,4 @@
+import { bareId } from '@/content/contentIndex'
 import type { EmberDb } from '@/lib/db-shared/protocol'
 import { parseSlotKey } from '@/lib/slotKey'
 import type { AppEvent, StoredEvent } from './types'
@@ -5,12 +6,6 @@ import type { AppEvent, StoredEvent } from './types'
 // The plan holds only what its owner added to it. A log written when launch
 // filled it with every practice in the corpus — a `PracticeCreated` and a
 // switched-off `SlotAdded` each — is brought to that shape here.
-
-// A bare id and its canonical twin name one practice; the corpus that says so
-// isn't loaded when the log opens.
-function key(practiceId: string): string {
-  return practiceId.replace(/^practice\//, '')
-}
 
 /** The practices an event shows its owner took up; undefined for one of launch's placeholders. */
 function taken(event: AppEvent): string[] | undefined {
@@ -38,12 +33,13 @@ function placeholderSequences(rows: { sequence: number; event: AppEvent }[]): nu
   for (const { sequence, event } of rows) {
     const practices = taken(event)
     if (practices) {
-      for (const id of practices) kept.add(key(id))
+      // A bare id and its canonical twin name one practice.
+      for (const id of practices) kept.add(bareId(id))
     } else if ('practiceId' in event) {
       placeholders.push({ sequence, practiceId: event.practiceId })
     }
   }
-  return placeholders.filter((p) => !kept.has(key(p.practiceId))).map((p) => p.sequence)
+  return placeholders.filter((p) => !kept.has(bareId(p.practiceId))).map((p) => p.sequence)
 }
 
 export async function dropPlaceholders(db: EmberDb): Promise<void> {

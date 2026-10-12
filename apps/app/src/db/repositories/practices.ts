@@ -69,8 +69,6 @@ type SlotInput = {
   pins?: Record<string, string>
   // Where the slot stands in the plan; after every other when absent.
   sortOrder?: number
-  // For a caller that has to know the slot's key beforehand (test fixtures).
-  slotId?: string
 }
 
 // A slot is the user's own making, so its id is one no other device can give
@@ -78,7 +76,7 @@ type SlotInput = {
 // `offset` spaces the sort orders of slots built together in one batch, before
 // any of them reaches the store the counter reads from.
 function buildSlotAddedEvent(practiceId: string, data: SlotInput, offset = 0) {
-  const slotKey = composeSlotKey(practiceId, data.slotId ?? randomId())
+  const slotKey = composeSlotKey(practiceId, randomId())
   const time = data.time ?? null
   return {
     event: {

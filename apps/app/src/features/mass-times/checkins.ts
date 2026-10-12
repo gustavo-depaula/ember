@@ -6,7 +6,6 @@ import type { CheckIn, CheckInKind } from '@/db/schema'
 import { completePractice } from '@/features/plan-of-life'
 import { getToday } from '@/hooks/useToday'
 import { randomId } from '@/lib/id'
-import { withRetry } from './persisted'
 
 // A personal log of church check-ins — visits you record while you're there (a quiet devotional
 // record, not a leaderboard). A check-in names what you were there for; a Mass check-in
@@ -52,10 +51,21 @@ export function useCheckInCount(): number {
   return useEventStore((s) => s.checkIns.size)
 }
 
+// Sorted once for each state of the log, however many rows ask.
+let sorted: { of: Map<string, CheckIn>; newestFirst: CheckIn[] } | undefined
+
+function newestFirst(checkIns: Map<string, CheckIn>): CheckIn[] {
+  if (sorted?.of !== checkIns) {
+    // ISO timestamps order as text.
+    const list = [...checkIns.values()].sort((a, b) => (a.at < b.at ? 1 : a.at > b.at ? -1 : 0))
+    sorted = { of: checkIns, newestFirst: list }
+  }
+  return sorted.newestFirst
+}
+
 /** Every check-in, newest first. */
 export function useRecentCheckIns(): CheckIn[] {
-  const checkIns = useEventStore((s) => s.checkIns)
-  return useMemo(() => [...checkIns.values()].sort((a, b) => b.at.localeCompare(a.at)), [checkIns])
+  return useEventStore((s) => newestFirst(s.checkIns))
 }
 
 // One local day's check-ins, in the order they happened.
@@ -74,4 +84,19 @@ export function useChurchAttendance(churchId: string): { count: number; last?: s
     const mine = recent.filter((c) => c.churchId === churchId)
     return { count: mine.length, last: mine[0]?.at }
   }, [recent, churchId])
+}
+
+// SQLite refuses a write while something else holds the database ("database is
+// locked"). That clears within moments, so a write is tried again before it fails.
+const retryDelaysMs = [150, 500]
+
+async function withRetry<T>(write: () => Promise<T>): Promise<T> {
+  for (const delay of retryDelaysMs) {
+    try {
+      return await write()
+    } catch {
+      await new Promise((resolve) => setTimeout(resolve, delay))
+    }
+  }
+  return write()
 }

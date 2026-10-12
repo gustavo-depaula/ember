@@ -19,9 +19,6 @@ export const syncedPreferences = new Set([
   'secondary-language',
   'display-mode',
   'bible-commentary',
-  // Not a preference: marks a log whose old defects were repaired
-  // (`straightenPlanOnce`), so a device that joins it doesn't repair it again.
-  'plan-straightened',
 ])
 
 function synced(): Map<string, string> {

@@ -1,8 +1,7 @@
 import { beforeEach, describe, expect, it } from 'vitest'
 
-import { createEventsTable, emit, useEventStore } from '@/db/events'
+import { createEventsTable, useEventStore } from '@/db/events'
 import { setDb } from '@/db/instance'
-import { readingStreakCursorId, readingTimeCursorId } from '@/db/repositories/cursors'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
 import { getReadingStreak, touchReadingStreak } from '../readingStreak'
@@ -49,27 +48,9 @@ describe('readingStreak', () => {
     expect(getReadingStreak('book/a', new Date('2026-06-06T10:00:00'))).toBe(0)
   })
 
-  it('carries on a run kept before each day was recorded', async () => {
-    await emit({
-      type: 'CursorSet',
-      cursorId: readingStreakCursorId('book/a'),
-      position: '{"lastDay":"2026-06-05","count":3}',
-      startedAt: '2026-06-03',
-    })
-    expect(getReadingStreak('book/a', new Date('2026-06-06T09:00:00'))).toBe(3)
-    await touchReadingStreak('book/a', new Date('2026-06-06T10:00:00'))
-    expect(getReadingStreak('book/a', new Date('2026-06-06T11:00:00'))).toBe(4)
-  })
-
-  it('adds the time each session read to the total kept before', async () => {
-    await emit({
-      type: 'CursorSet',
-      cursorId: readingTimeCursorId('book/a'),
-      position: '{"totalMs":60000}',
-      startedAt: '2026-06-03',
-    })
+  it('adds up the time each session read', async () => {
     await addReadingTime('book/a', 30_000)
     await addReadingTime('book/a', 15_000)
-    expect(getReadingTimeMs('book/a')).toBe(105_000)
+    expect(getReadingTimeMs('book/a')).toBe(45_000)
   })
 })

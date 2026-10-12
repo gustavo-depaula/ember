@@ -77,6 +77,11 @@ type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlig
 // Every state the reader can open into — title page, error, not found — keeps
 // the reader's own close button. An external book's first open waits on a
 // network build, and a stalled or failed one must not leave the user stranded.
+/** Reading time worth showing: nothing until a minute has passed. */
+function wholeMinutes(ms: number): number | undefined {
+  return ms > 60_000 ? Math.round(ms / 60_000) : undefined
+}
+
 function ReaderFrame({
   background,
   color,
@@ -449,10 +454,8 @@ export function BookReader({ bookId, chapter }: Props) {
   // Per-session reading time accrual. Each flush records what was read since
   // the last one, so iOS firing `inactive` then `background` back-to-back
   // can't count a stretch twice. Only `background` triggers a flush;
-  // `inactive` resets the session start. The total shown starts from what was
-  // read before this mount.
+  // `inactive` resets the session start.
   const sessionStartRef = useRef(Date.now())
-  const totalMsRef = useRef(getReadingTimeMs(bookId))
   // Counters scoped to this mount, surfaced via `recordReadingSession` on
   // unmount so the frontispiece can show a celebratory toast.
   const sessionMsRef = useRef(0)
@@ -463,7 +466,6 @@ export function BookReader({ bookId, chapter }: Props) {
       const elapsed = Date.now() - sessionStartRef.current
       sessionStartRef.current = Date.now()
       if (elapsed < 1000) return
-      totalMsRef.current += elapsed
       sessionMsRef.current += elapsed
       void addReadingTime(bookId, elapsed)
     }
@@ -1067,8 +1069,7 @@ export function BookReader({ bookId, chapter }: Props) {
           else void clearBookPaletteOverride(bookId)
         }}
         stats={{
-          minutesRead:
-            totalMsRef.current > 60_000 ? Math.round(totalMsRef.current / 60_000) : undefined,
+          minutesRead: wholeMinutes(getReadingTimeMs(bookId)),
           streakDays: getReadingStreak(bookId) || undefined,
           completedChapters: completed.size,
           totalChapters: leaves.length,

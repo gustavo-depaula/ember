@@ -15,6 +15,8 @@ import { setDb } from '@/db/instance'
 import initialMigration from '@/db/migrations/0001_initial.sql'
 import { getSavedItems } from '@/db/repositories/savedItems'
 import { upgradeLog } from '@/db/upgradeLog'
+import { getReadingStreak } from '@/features/books/reader/readingStreak'
+import { getReadingTimeMs } from '@/features/books/reader/readingTime'
 import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
 import { renderApp } from '@/test/renderApp'
 import { openDatabaseAsync } from '@/test/sqlite-better'
@@ -100,6 +102,19 @@ const use: Loose[] = [
     position: '{"index":4}',
     startedAt: '2026-05-01',
   },
+  // Reading kept as running totals: half an hour in all, a run of three days.
+  {
+    type: 'CursorSet',
+    cursorId: 'book/imitation/read-time',
+    position: '{"totalMs":1800000}',
+    startedAt: '2026-05-01',
+  },
+  {
+    type: 'CursorSet',
+    cursorId: 'book/imitation/streak',
+    position: '{"lastDay":"2026-05-17","count":3}',
+    startedAt: '2026-05-15',
+  },
 ]
 
 function plan() {
@@ -166,6 +181,8 @@ describe('opening a released install’s database', () => {
       'practice/rosary',
     ])
     expect((await getSavedItems()).map((s) => s.itemId)).toEqual(['book/imitation'])
+    expect(getReadingTimeMs('imitation')).toBe(1_800_000)
+    expect(getReadingStreak('imitation', new Date('2026-05-18T09:00:00'))).toBe(3)
     expect(useEventStore.getState().cursors.get('bible')?.position).toBe(
       '{"bookId":"john","chapter":6}',
     )
@@ -173,7 +190,7 @@ describe('opening a released install’s database', () => {
     const count = async () =>
       (await db.getFirstAsync<{ n: number }>('SELECT COUNT(*) AS n FROM events'))?.n
     const settled = await count()
-    expect(settled).toBeLessThan(40)
+    expect(settled).toBeLessThan(50)
     await open()
     expect(await count()).toBe(settled)
     expect(plan()).toEqual(after)

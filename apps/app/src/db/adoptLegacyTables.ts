@@ -4,6 +4,7 @@ import type { EmberDb } from '@/lib/db-shared/protocol'
 
 import { emitBatch, useEventStore } from './events'
 import type { AppEvent } from './events/types'
+import { biblePlacesCursorId, biblePositionCursorId } from './repositories/cursors'
 import { syncedPreferences } from './repositories/preferences'
 import type { CheckIn, FavoriteChurch } from './schema'
 
@@ -113,14 +114,19 @@ export async function adoptLegacyTables(db: EmberDb): Promise<void> {
     }
     events.push({
       type: 'CursorSet',
-      cursorId: 'bible',
+      cursorId: biblePositionCursorId,
       position: JSON.stringify(position),
       startedAt,
     })
   }
   const places = stored.get(keptAsValues.biblePlaces)
   if (places) {
-    events.push({ type: 'CursorSet', cursorId: 'bible/places', position: places, startedAt })
+    events.push({
+      type: 'CursorSet',
+      cursorId: biblePlacesCursorId,
+      position: places,
+      startedAt,
+    })
   }
 
   if (events.length > 0) await emitBatch(events)

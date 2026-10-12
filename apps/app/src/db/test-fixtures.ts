@@ -5,13 +5,14 @@ import { format, subDays } from 'date-fns'
 
 import { getManifest } from '@/content/resolver'
 import { defaultSlotOf } from '@/features/plan-of-life/defaultSlot'
-import { parseSlotKey } from '@/lib/slotKey'
+import { deriveTimeBlock } from '@/features/plan-of-life/timeBlocks'
+import { composeSlotKey, parseSlotKey } from '@/lib/slotKey'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 import { nextId, useEventStore } from './events'
 import { emitBatch } from './events/store'
 import { getDb } from './instance'
-import { createPracticeWithSlot } from './repositories'
+import type { Tier } from './schema'
 
 const wipeSql = `
 DELETE FROM events;
@@ -50,10 +51,10 @@ export async function resetForTests(fixtures: TestFixtures = {}): Promise<void> 
     const { practiceId, slotId } = parseSlotKey(slotKey)
     const manifest = getManifest(practiceId)
     const schedule = manifest?.defaults?.slots?.[0]?.schedule
-    await createPracticeWithSlot(
-      { id: practiceId, activeVariant: practiceId },
-      { ...defaultSlotOf(manifest), slotId, schedule: schedule && JSON.stringify(schedule) },
-    )
+    await addSlotUnderKey({ id: practiceId, activeVariant: practiceId }, slotId, {
+      ...defaultSlotOf(manifest),
+      schedule: schedule && JSON.stringify(schedule),
+    })
   }
 
   if (fixtures.historyDays && fixtures.enableSlotKeys?.length) {
@@ -95,4 +96,44 @@ async function seedHistory(slotKeys: string[], days: number, now?: string): Prom
     "UPDATE events SET timestamp = ? WHERE type IN ('PracticeCreated', 'SlotAdded', 'SlotUpdated')",
     [subDays(end, days + 1).getTime()],
   )
+}
+
+/**
+ * A practice's slot under a key the caller chooses, where the app would give
+ * it one of its own: for a flow that taps a known row, and for a test of a log
+ * whose slots were still numbered.
+ */
+export async function addSlotUnderKey(
+  practice: { id: string; customName?: string; customIcon?: string; activeVariant?: string },
+  slotId: string,
+  slot: { tier?: Tier; time?: string; schedule?: string; sortOrder?: number } = {},
+): Promise<string> {
+  const { practices, slots } = useEventStore.getState()
+  const slotKey = composeSlotKey(practice.id, slotId)
+  const time = slot.time ?? null
+  await emitBatch([
+    ...(practices.has(practice.id)
+      ? []
+      : [
+          {
+            type: 'PracticeCreated' as const,
+            practiceId: practice.id,
+            customName: practice.customName,
+            customIcon: practice.customIcon,
+            activeVariant: practice.activeVariant,
+          },
+        ]),
+    {
+      type: 'SlotAdded' as const,
+      practiceId: practice.id,
+      slotKey,
+      tier: slot.tier ?? 'ideal',
+      time,
+      timeBlock: deriveTimeBlock(time),
+      schedule: slot.schedule ?? '{"type":"daily"}',
+      sortOrder: slot.sortOrder ?? slots.size + 1,
+      enabled: 1,
+    },
+  ])
+  return slotKey
 }

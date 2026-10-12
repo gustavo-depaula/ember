@@ -1,9 +1,8 @@
 import { canonicalizePracticeIds } from '@/db/canonicalizePracticeIds'
-import { getPreference, setPreference } from '@/db/repositories/preferences'
+import { getDb } from '@/db/client'
+import { once } from '@/db/upgradeLog'
 
 import { refileMisplacedCompletions } from './completion'
-
-const doneKey = 'plan-straightened'
 
 /**
  * Repairs of what earlier versions wrote into the log: practices kept under a
@@ -12,9 +11,9 @@ const doneKey = 'plan-straightened'
  * again, because each writes its fix from what this device sees — on a log
  * two devices share, both would write one.
  */
-export async function straightenPlanOnce(): Promise<void> {
-  if (await getPreference(doneKey)) return
-  await canonicalizePracticeIds()
-  await refileMisplacedCompletions()
-  await setPreference(doneKey, '1')
+export function straightenPlanOnce(): Promise<void> {
+  return once(getDb(), 2, async () => {
+    await canonicalizePracticeIds()
+    await refileMisplacedCompletions()
+  })
 }

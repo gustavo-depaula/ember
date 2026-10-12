@@ -1,8 +1,13 @@
 import { create } from 'zustand'
 import { immer } from 'zustand/middleware/immer'
 
-import { useEventStore } from '@/db/events'
-import { getCursor, setCursor } from '@/db/repositories/cursors'
+import { followLog } from '@/db/events'
+import {
+  biblePlacesCursorId,
+  biblePositionCursorId,
+  getCursor,
+  setCursor,
+} from '@/db/repositories/cursors'
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 import { defaultCommentarySource, findCommentarySource } from '@/features/bible/commentary'
 import { type BiblePlace, recordPlace } from '@/features/bible/recents'
@@ -47,11 +52,6 @@ async function slugForSavedBook(saved: string): Promise<string | undefined> {
   return protocanon[Number(saved) - 1]?.id
 }
 
-// Where the reader stands and the books lately read are reading positions,
-// kept with the books' own as cursors.
-const positionCursor = 'bible'
-const placesCursor = 'bible/places'
-
 type Position = { bookId: string; chapter: number; updatedAt?: number }
 
 export const useBibleStore = create<BibleState>()(
@@ -69,7 +69,7 @@ export const useBibleStore = create<BibleState>()(
         state.chapter = chapter
         state.updatedAt = now
       })
-      setCursor(positionCursor, JSON.stringify({ bookId, chapter, updatedAt: now }))
+      setCursor(biblePositionCursorId, JSON.stringify({ bookId, chapter, updatedAt: now }))
     },
 
     recordReading: (books) => {
@@ -78,7 +78,7 @@ export const useBibleStore = create<BibleState>()(
       set((state) => {
         state.places = next
       })
-      setCursor(placesCursor, JSON.stringify(next))
+      setCursor(biblePlacesCursorId, JSON.stringify(next))
     },
 
     setPaneKind: (id) => {
@@ -89,15 +89,15 @@ export const useBibleStore = create<BibleState>()(
     },
 
     hydrate: async () => {
-      const position = getCursor(positionCursor)?.position
+      const position = getCursor(biblePositionCursorId)?.position
       const saved = position ? (JSON.parse(position) as Position) : undefined
-      const places = getCursor(placesCursor)?.position
+      const places = getCursor(biblePlacesCursorId)?.position
       const commentary = await getPreference('bible-commentary')
-      const bookId = saved && (await slugForSavedBook(String(saved.bookId)))
+      const bookId = saved && (await slugForSavedBook(saved.bookId))
       set((state) => {
         if (bookId) state.bookId = bookId
-        if (saved?.chapter) state.chapter = Number(saved.chapter)
-        if (saved?.updatedAt) state.updatedAt = Number(saved.updatedAt)
+        if (saved?.chapter) state.chapter = saved.chapter
+        if (saved?.updatedAt) state.updatedAt = saved.updatedAt
         if (places) state.places = JSON.parse(places)
         if (commentary) {
           state.paneKind = isReferenceKind(commentary)
@@ -110,16 +110,13 @@ export const useBibleStore = create<BibleState>()(
   })),
 )
 
-// The position lives in the event log, which can change under this store:
-// another tab's write, another device's reading.
-useEventStore.subscribe((state, previous) => {
-  if (!useBibleStore.getState().hydrated) return
-  const moved = [positionCursor, placesCursor].some(
-    (id) => state.cursors.get(id) !== previous.cursors.get(id),
-  )
-  if (!moved && state.preferences === previous.preferences) return
-  useBibleStore
-    .getState()
-    .hydrate()
-    .catch((err) => console.warn('[bible] failed to follow the log:', err))
-})
+// The position lives in the event log, which can change under this store.
+followLog(
+  (state, previous) =>
+    useBibleStore.getState().hydrated &&
+    (state.preferences !== previous.preferences ||
+      [biblePositionCursorId, biblePlacesCursorId].some(
+        (id) => state.cursors.get(id) !== previous.cursors.get(id),
+      )),
+  () => useBibleStore.getState().hydrate(),
+)

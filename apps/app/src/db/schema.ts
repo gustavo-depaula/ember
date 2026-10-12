@@ -75,7 +75,6 @@ export type UserCollectionItem = {
   collectionId: string
   ref: string
   sectionId: string
-  label?: string
   position: number
   addedAt: number
 }

@@ -14,6 +14,7 @@ import { createPracticeWithSlot, getCursor, logCompletion } from '@/db/repositor
 import { getAllPreferences, getPreference, setPreference } from '@/db/repositories/preferences'
 import { getSavedItems } from '@/db/repositories/savedItems'
 import { getUserCollectionItems, getUserCollections } from '@/db/repositories/userCollections'
+import { addSlotUnderKey } from '@/db/test-fixtures'
 import { upgradeLog } from '@/db/upgradeLog'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
@@ -118,9 +119,10 @@ describe('opening a database that kept the shelf and collections in tables', () 
     setDb(db as never)
     await db.execAsync(initialMigration)
     await createEventsTable(db as never)
-    await createPracticeWithSlot(
+    await addSlotUnderKey(
       { id: 'three-oclock', customName: "Three O'Clock Prayer", customIcon: 'clock' },
-      { time: '15:00', slotId: '1' },
+      '1',
+      { time: '15:00' },
     )
     await logCompletion('three-oclock', '2026-05-10', '1', 'three-oclock', 'checklist')
 

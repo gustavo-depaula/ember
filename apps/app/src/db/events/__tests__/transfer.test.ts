@@ -17,6 +17,7 @@ import {
 import { setPreference } from '@/db/repositories/preferences'
 import { saveItem, unsaveItem } from '@/db/repositories/savedItems'
 import { addItemToCollection, createUserCollection } from '@/db/repositories/userCollections'
+import { addSlotUnderKey } from '@/db/test-fixtures'
 import { parseSlotKey } from '@/lib/slotKey'
 import { openDatabaseAsync, resetAllTestDbs } from '@/test/sqlite-better'
 
@@ -60,10 +61,7 @@ describe('two devices exchanging their logs', () => {
     const web = await device('web.db')
 
     await use(phone)
-    const rosary = await createPracticeWithSlot(
-      { id: 'practice/rosary' },
-      { time: '07:00', slotId: '1' },
-    )
+    const rosary = await addSlotUnderKey({ id: 'practice/rosary' }, '1', { time: '07:00' })
     await logCompletion('practice/rosary', '2026-05-10', '1', 'rosary', 'amen')
     await logCompletion('practice/rosary', '2026-05-11', '1', 'rosary', 'amen')
     await saveItem('book/imitation', 'book')
@@ -73,7 +71,7 @@ describe('two devices exchanging their logs', () => {
     await setPreference('translation', 'DRB')
 
     await use(web)
-    await createPracticeWithSlot({ id: 'practice/angelus' }, { time: '12:00', slotId: '1' })
+    await addSlotUnderKey({ id: 'practice/angelus' }, '1', { time: '12:00' })
     await logCompletion('practice/angelus', '2026-05-10', '1', 'angelus', 'amen')
     await saveItem('book/confessions', 'book')
     await setPreference('translation', 'NABRE')
@@ -109,7 +107,7 @@ describe('two devices exchanging their logs', () => {
   it('keep both times when each adds one to the same practice, and what a deleted time recorded', async () => {
     const phone = await device('phone.db')
     await use(phone)
-    await createPracticeWithSlot({ id: 'practice/mass' }, { time: '10:00', slotId: '1' })
+    await addSlotUnderKey({ id: 'practice/mass' }, '1', { time: '10:00' })
     const shared = await exportLog()
 
     const web = await device('web.db')

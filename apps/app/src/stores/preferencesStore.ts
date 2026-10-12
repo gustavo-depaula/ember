@@ -5,7 +5,7 @@ import { immer } from 'zustand/middleware/immer'
 import { READER_FLOW_MODES, type ReaderFlowMode } from '@/config/readerFlow'
 import { READER_PALETTE_IDS, type ReaderPaletteId } from '@/config/readerPalettes'
 import { type ReadingFontId, readingFonts } from '@/config/readingFonts'
-import { useEventStore } from '@/db/events'
+import { followLog } from '@/db/events'
 import { getAllPreferences, removePreference, setPreference } from '@/db/repositories/preferences'
 import { defaultTranslationForLanguage, findTranslation } from '@/lib/bibleTranslations'
 import i18n from '@/lib/i18n'
@@ -279,7 +279,7 @@ export const usePreferencesStore = create<PreferencesState>()(
         }
         if (prefs['psalter-cycle'] === '30-day') state.psalterCycle = '30-day'
         if (prefs.language) state.language = prefs.language
-        if (prefs.jurisdiction) state.jurisdiction = prefs.jurisdiction
+        state.jurisdiction = prefs.jurisdiction || undefined
         if (prefs['time-travel-date']) {
           state.timeTravelDate = prefs['time-travel-date']
           state.persistedTimeTravelDate = prefs['time-travel-date']
@@ -292,9 +292,10 @@ export const usePreferencesStore = create<PreferencesState>()(
           state.contentLanguage = prefs.language as ContentLanguage
         }
         const sl = prefs['secondary-language']
-        if (sl && contentLanguages.includes(sl as ContentLanguage)) {
-          state.secondaryLanguage = sl as ContentLanguage
-        }
+        state.secondaryLanguage =
+          sl && contentLanguages.includes(sl as ContentLanguage)
+            ? (sl as ContentLanguage)
+            : undefined
         const dm = prefs['display-mode']
         if (dm === 'side-by-side' || dm === 'tap-to-switch') state.displayMode = dm
 
@@ -338,7 +339,7 @@ export const usePreferencesStore = create<PreferencesState>()(
         state.hydrated = true
       })
 
-      if (prefs.language) {
+      if (prefs.language && prefs.language !== i18n.language) {
         i18n.changeLanguage(prefs.language)
       }
     },
@@ -346,12 +347,9 @@ export const usePreferencesStore = create<PreferencesState>()(
 )
 
 // Some preferences live in the event log (`syncedPreferences`), which can
-// change under this store: another tab's write, another device's log merged in.
-useEventStore.subscribe((state, previous) => {
-  if (state.preferences === previous.preferences) return
-  if (!usePreferencesStore.getState().hydrated) return
-  usePreferencesStore
-    .getState()
-    .hydrate()
-    .catch((err) => console.warn('[preferences] failed to follow the log:', err))
-})
+// change under this store.
+followLog(
+  (state, previous) =>
+    state.preferences !== previous.preferences && usePreferencesStore.getState().hydrated,
+  () => usePreferencesStore.getState().hydrate(),
+)

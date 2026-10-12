@@ -61,6 +61,8 @@ export type EventStoreState = {
 
   apply: (event: AppEvent) => void
   applyBatch: (events: AppEvent[]) => void
+  /** The state of a whole log, in one update: no subscriber sees it half folded. */
+  load: (events: AppEvent[]) => void
   reset: () => void
 }
 
@@ -93,6 +95,14 @@ export const useEventStore = create<EventStoreState>()(
 
     applyBatch: (events: AppEvent[]) =>
       set((draft) => {
+        for (const event of events) {
+          applyEvent(draft, event)
+        }
+      }),
+
+    load: (events: AppEvent[]) =>
+      set((draft) => {
+        Object.assign(draft, emptyState())
         for (const event of events) {
           applyEvent(draft, event)
         }

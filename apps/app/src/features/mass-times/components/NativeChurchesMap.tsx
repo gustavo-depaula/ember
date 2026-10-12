@@ -54,7 +54,7 @@ const NativeChurchesMap = forwardRef<
   const accent = theme.accent?.val
   const favoriteTint = theme.colorBurgundy?.val ?? accent
   const { churches, clusters } = nearby
-  // Raw record is referentially stable; we derive the per-marker icon from it in the memos below.
+  // The map is the same object until a favourite changes; the memos below derive each marker's icon from it.
   const favorites = useFavorites()
 
   const appleRef = useRef<React.ElementRef<typeof AppleMaps.View>>(null)

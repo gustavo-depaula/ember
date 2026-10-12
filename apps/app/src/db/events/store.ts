@@ -107,9 +107,7 @@ export async function replayAll(): Promise<void> {
   const db = getDb()
   const rows = await db.getAllAsync<StoredEvent>('SELECT * FROM events ORDER BY id')
   observe(rows.at(-1)?.id)
-  const store = useEventStore.getState()
-  store.reset()
-  store.applyBatch(rows.map((row) => JSON.parse(row.payload) as AppEvent))
+  useEventStore.getState().load(rows.map((row) => JSON.parse(row.payload) as AppEvent))
 }
 
 export async function getEventCount(): Promise<number> {
