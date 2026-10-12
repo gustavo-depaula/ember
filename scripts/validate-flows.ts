@@ -129,6 +129,7 @@ const KNOWN_SECTION_TYPES = new Set([
   'divider',
   'heading',
   'image',
+  'chant',
   'prayer',
   'hymn',
   'canticle',
@@ -196,6 +197,16 @@ function visit(node: unknown, path: string, ctx: WalkCtx): void {
         path,
         message: `include missing string \`ref\` field`,
       })
+    }
+    if (obj.type === 'chant' && typeof obj.ref === 'string') {
+      const chant = join(REPO_ROOT, 'content', 'chants', `${obj.ref.replace(/^chant\//, '')}.gabc`)
+      if (!obj.ref.startsWith('chant/') || !existsSync(chant)) {
+        issues.push({
+          file: ctx.file,
+          path,
+          message: `chant.ref="${obj.ref}" — no score with that id exists in content/chants/`,
+        })
+      }
     }
     if (obj.type === 'prayer' && typeof obj.ref === 'string' && !obj.ref.includes('{{')) {
       const ref = obj.ref

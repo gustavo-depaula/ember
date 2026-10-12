@@ -1,6 +1,6 @@
 ---
 import Base from '~/layouts/Base.astro'
-import { loadKyriale } from '~/lib/chants'
+import { loadChantLibrary } from '~/lib/chants'
 import type { Locale } from '~/lib/locale'
 
 interface Props {
@@ -10,40 +10,57 @@ interface Props {
 
 const { locale, alternates } = Astro.props
 const pt = locale === 'pt-BR'
-const book = await loadKyriale(locale)
+const books = await loadChantLibrary(locale)
+const title = pt ? 'Canto gregoriano' : 'Gregorian chant'
+const description = pt
+  ? 'O Kyriale, hinos e antífonas em notação quadrada: o canto da Missa e das orações da Igreja, de leitura gratuita.'
+  : 'The Kyriale, hymns and antiphons in square notes: the chant of the Mass and of the Church’s prayers, free to read.'
 ---
 
-<Base locale={locale} title={pt ? 'Kyriale — canto gregoriano' : 'Kyriale — Gregorian chant'} description={book.description} alternates={alternates} section="chant">
+<Base locale={locale} title={title} description={description} alternates={alternates} section="chant">
   <div class="wide">
     <header class="page-head">
-      <p class="t-kicker">{pt ? 'Canto gregoriano' : 'Gregorian chant'}</p>
-      <h1 class="t-screen">{book.title}</h1>
-      <p class="lede">{book.description}</p>
+      <h1 class="t-screen">{title}</h1>
     </header>
-    <div class="masses">
-      {book.sections.map((section) => (
-        <section class="mass" id={section.id}>
-          <h2 class="row-title">{section.title}{section.name && <em>{section.name}</em>}</h2>
-          {section.occasion && <p class="t-caption">{section.occasion}</p>}
-          <ul>
-            {section.chants.map((chant) => (
-              <li>
-                <a href={chant.href}>
-                  <span>{chant.name}</span>
-                  {chant.subtitle && <span class="nick">{chant.subtitle}</span>}
-                  {chant.mode && <span class="mode">{chant.mode}</span>}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
-    </div>
-    <p class="t-annotation source">{book.source}</p>
+    {books.map((book) => (
+      <section class="book" id={book.id}>
+        <div class="row-head"><h2>{book.title}</h2></div>
+        <p class="lede">{book.description}</p>
+        <div class="masses">
+          {book.sections.map((section) => (
+            <section class="mass" id={section.id}>
+              <h3 class="row-title">{section.title}{section.name && <em>{section.name}</em>}</h3>
+              {section.occasion && <p class="t-caption">{section.occasion}</p>}
+              <ul>
+                {section.chants.map((chant) => (
+                  <li>
+                    <a href={chant.href}>
+                      <span>{chant.name}</span>
+                      {chant.subtitle && <span class="nick">{chant.subtitle}</span>}
+                      {chant.mode && <span class="mode">{chant.mode}</span>}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          ))}
+        </div>
+      </section>
+    ))}
+    <p class="t-annotation source">GregoBase, CC0</p>
   </div>
 </Base>
 
 <style>
+  .book {
+    padding-bottom: var(--space-lg);
+    scroll-margin-top: 88px;
+  }
+  .book .lede {
+    max-width: 34em;
+    padding-bottom: var(--space-md);
+    color: var(--color-secondary);
+  }
   /* The table of a chant book: Masses in columns, as its index prints them. */
   .masses {
     columns: 300px 3;
@@ -54,7 +71,7 @@ const book = await loadKyriale(locale)
     padding-bottom: var(--space-lg);
     scroll-margin-top: 88px;
   }
-  .mass h2 em {
+  .mass h3 em {
     margin-left: 0.5em;
     color: var(--color-secondary);
   }

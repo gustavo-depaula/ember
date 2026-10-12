@@ -1330,6 +1330,99 @@ def build_chants(b: Builder) -> None:
         )
 
 
+# How many scores share a bundle. A Mass sings five or six, of as many genres,
+# so the app opens that many bundles: small enough that each is a quick fetch.
+CHANT_BUNDLE_SIZE = 48
+
+
+def build_chant_propers(b: Builder) -> None:
+    """The chant of the Mass propers (content/chant-propers/), found by text.
+
+    A proper has no id the app could ask for it by: the app holds the Latin of
+    an Introit, as Divinum Officium assembled it for the day. So these scores
+    are filed under the words they set (scripts/chant_link.py):
+
+      chant-index          {keyLength, keys: {genre: {opening: [[length, ref]]}}}
+                           — the folded opening of every text of the Missal
+                           that has a score, and of every score's own text;
+                           `ref` is `<bundle>/<chant>`
+      chant-bundle/<id>    {id, chants: {<chant>: {name, mode, …, score}}}
+    """
+    src = CONTENT / "chant-propers"
+    if not src.is_dir():
+        return
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    import chant_link
+
+    genre_of = {name: genre for genre, name in chant_link.GENRES.items()}
+    chants: dict[str, dict[str, Any]] = {}
+    for f in sorted(src.glob("*.gabc")):
+        text = f.read_text(encoding="utf-8")
+        headers = gabc_headers(text)
+        genre = genre_of.get(headers.get("office-part", ""))
+        if not genre:
+            raise ValueError(f"chant-propers/{f.name}: office-part is not a Mass proper")
+        score = text.partition("\n%%\n")[2]
+        chants[f.stem] = {
+            "genre": genre,
+            "key": chant_link.chant_key(genre, score),
+            "body": {
+                k: v
+                for k, v in (
+                    ("name", headers.get("name")),
+                    ("mode", headers.get("mode")),
+                    ("commentary", headers.get("commentary")),
+                    ("book", headers.get("book")),
+                    ("transcriber", headers.get("transcriber")),
+                    ("score", score),
+                )
+                if v
+            },
+        }
+
+    by_genre: dict[str, list[str]] = {}
+    for stem, chant in chants.items():
+        by_genre.setdefault(chant["genre"], []).append(stem)
+    ref_of: dict[str, str] = {}
+    for genre, stems in sorted(by_genre.items()):
+        for n in range(0, len(stems), CHANT_BUNDLE_SIZE):
+            bundle_id = f"{genre}-{n // CHANT_BUNDLE_SIZE + 1}"
+            members = stems[n : n + CHANT_BUNDLE_SIZE]
+            h, size = b.write_json_blob({"id": bundle_id, "chants": {s: chants[s]["body"] for s in members}})
+            b.add_catalog(f"chant-bundle/{bundle_id}", {"kind": "chant-bundle", "hash": h, "size": size})
+            for s in members:
+                ref_of[s] = f"{bundle_id}/{s}"
+
+    finder = chant_link.Finder((stem, c["genre"], c["key"], 0) for stem, c in chants.items())
+    keys: dict[str, dict[str, list[list[Any]]]] = {}
+
+    def file(genre: str, key: str, stem: str) -> None:
+        entry = [len(key), ref_of[stem]]
+        listed = keys.setdefault(genre, {}).setdefault(key[: chant_link.KEY_LENGTH], [])
+        if entry not in listed:
+            listed.append(entry)
+
+    # A score answers to its own words, whatever prints them…
+    for stem, chant in chants.items():
+        file(chant["genre"], chant["key"], stem)
+    # …and to the Missal's, where the Missal words the text its own way.
+    missal = CONTENT / "do" / "web" / "www"
+    linked = unlinked = 0
+    for (genre, key), _ in chant_link.missal_pieces(missal).items():
+        score, stem = finder.find(chant_link.KIN.get(genre, (genre,)), key)
+        if score >= chant_link.THRESHOLD:
+            file(genre, key, stem)
+            linked += 1
+        else:
+            unlinked += 1
+    for genre in keys:
+        for listed in keys[genre].values():
+            listed.sort()
+    h, size = b.write_json_blob({"keyLength": chant_link.KEY_LENGTH, "keys": keys})
+    b.add_catalog("chant-index", {"kind": "chant-index", "hash": h, "size": size})
+    print(f"  chant propers: {len(chants)} scores, {linked} of {linked + unlinked} Missal texts linked, index {size:,} bytes")
+
+
 # Divinum Officium datasets.
 DO_LANG_DIRS = {"Latin": "la", "English": "en-US", "Portugues": "pt-BR"}
 DO_HORAS_DATASETS = {
@@ -1705,6 +1798,7 @@ def main(argv: list[str]) -> int:
     build_do(b)
     print("[corpus] chants...")
     build_chants(b)
+    build_chant_propers(b)
     print("[corpus] collections...")
     build_collections(b)
     print("[corpus] plan-of-life templates...")

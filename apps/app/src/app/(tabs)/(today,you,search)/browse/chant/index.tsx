@@ -1,73 +1,140 @@
 import { useQuery } from '@tanstack/react-query'
 import { Stack, useRouter } from 'expo-router'
-import { useCallback } from 'react'
+import { useCallback, useMemo } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FlatList, Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
-import { YStack } from 'tamagui'
+import { XStack, YStack } from 'tamagui'
 
 import { InlineRetry, PageHeader, Typography } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { bareId } from '@/content/contentIndex'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
-import { type ChantBookSection, chantSummary, kyrialeId, loadChantBook } from '@/features/chant'
+import {
+  type ChantBook,
+  type ChantBookSection,
+  chantSummary,
+  loadChantBooks,
+  romanMode,
+} from '@/features/chant'
 import { localizeContent } from '@/lib/i18n'
 
-// The Kyriale by its table of contents: one row a Mass, which opens on its chants.
-export default function KyrialeScreen() {
+type Row =
+  | { kind: 'book'; key: string; book: ChantBook }
+  // A section sung through, opened as one: a Mass of the Kyriale.
+  | { kind: 'section'; key: string; section: ChantBookSection }
+  // A section that is a shelf: its name, then each chant on it.
+  | { kind: 'shelf'; key: string; section: ChantBookSection }
+  | { kind: 'chant'; key: string; section: ChantBookSection; chant: string }
+
+function rowsOf(books: ChantBook[]): Row[] {
+  return books.flatMap((book): Row[] => [
+    { kind: 'book', key: book.id, book },
+    ...book.sections.flatMap((section): Row[] => {
+      const key = `${book.id}/${section.id}`
+      if (book.list !== 'chants') return [{ kind: 'section', key, section }]
+      return [
+        { kind: 'shelf', key, section },
+        ...section.chants.map(
+          (chant): Row => ({ kind: 'chant', key: `${key}/${chant}`, section, chant }),
+        ),
+      ]
+    }),
+  ])
+}
+
+// The chant library by its tables of contents: each book, then what it holds.
+export default function ChantLibraryScreen() {
   const { t } = useTranslation()
   const router = useRouter()
   const insets = useSafeAreaInsets()
   const bottomClearance = useBottomClearance()
   const catalogVersion = useCatalogVersion()
 
-  const bookQuery = useQuery({
-    queryKey: ['chant-book', kyrialeId, catalogVersion],
-    queryFn: async () => (await loadChantBook(kyrialeId)) ?? null,
+  const booksQuery = useQuery({
+    queryKey: ['chant-books', catalogVersion],
+    queryFn: loadChantBooks,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const book = bookQuery.data ?? undefined
-  const title = book ? localizeContent(book.name) : t('chant.kyriale')
+  const rows = useMemo(() => rowsOf(booksQuery.data ?? []), [booksQuery.data])
+
+  const open = useCallback(
+    (chant: string, section: ChantBookSection) =>
+      router.push({
+        pathname: '/browse/chant/[chantId]',
+        params: { chantId: bareId(chant), section: section.id },
+      }),
+    [router],
+  )
 
   const renderItem = useCallback(
-    ({ item }: { item: ChantBookSection }) => {
-      const heading = localizeContent(item.title)
-      const names = item.chants.map((id) => chantSummary(id).name).join(' · ')
+    ({ item }: { item: Row }) => {
+      if (item.kind === 'book') {
+        return (
+          <YStack paddingTop="$lg" paddingBottom="$sm" gap="$xs">
+            <Typography variant="section-title">{localizeContent(item.book.name)}</Typography>
+            <Typography tone="muted">{localizeContent(item.book.description)}</Typography>
+          </YStack>
+        )
+      }
+      if (item.kind === 'shelf') {
+        return (
+          <Typography variant="label" paddingTop="$md" paddingBottom="$xs">
+            {localizeContent(item.section.title)}
+          </Typography>
+        )
+      }
+      if (item.kind === 'chant') {
+        const { name, mode } = chantSummary(item.chant)
+        return (
+          <Pressable
+            onPress={() => open(item.chant, item.section)}
+            accessibilityRole="link"
+            accessibilityLabel={t('a11y.openChants', { name })}
+          >
+            <XStack minHeight={44} alignItems="center" gap="$md">
+              <Typography flex={1} fontSize="$4" numberOfLines={1}>
+                {name}
+              </Typography>
+              {mode && <Typography variant="annotation">{romanMode(mode)}</Typography>}
+            </XStack>
+          </Pressable>
+        )
+      }
+      const { section } = item
+      const heading = localizeContent(section.title)
       return (
         <Pressable
-          onPress={() =>
-            router.push({
-              pathname: '/browse/chant/[chantId]',
-              params: { chantId: bareId(item.chants[0]), section: item.id },
-            })
-          }
+          onPress={() => open(section.chants[0], section)}
           accessibilityRole="link"
           accessibilityLabel={t('a11y.openChants', {
-            name: item.name ? `${heading}, ${item.name}` : heading,
+            name: section.name ? `${heading}, ${section.name}` : heading,
           })}
         >
           <YStack paddingVertical="$sm" minHeight={44} justifyContent="center">
             <Typography fontSize="$4">
               {heading}
-              {item.name && (
+              {section.name && (
                 <Typography fontSize="$4" fontStyle="italic" tone="muted">
-                  {`  ${item.name}`}
+                  {`  ${section.name}`}
                 </Typography>
               )}
             </Typography>
             <Typography variant="annotation" numberOfLines={1}>
-              {item.occasion ? localizeContent(item.occasion) : names}
+              {section.occasion
+                ? localizeContent(section.occasion)
+                : section.chants.map((id) => chantSummary(id).name).join(' · ')}
             </Typography>
           </YStack>
         </Pressable>
       )
     },
-    [router, t],
+    [open, t],
   )
 
   return (
     <YStack flex={1} backgroundColor="$background">
-      <Stack.Screen options={{ title }} />
+      <Stack.Screen options={{ title: t('chant.title') }} />
       <FlatList
         style={{ flex: 1 }}
         contentContainerStyle={{
@@ -79,22 +146,19 @@ export default function KyrialeScreen() {
           paddingBottom: insets.bottom + bottomClearance + 24,
         }}
         contentInsetAdjustmentBehavior="never"
-        data={book?.sections}
+        data={rows}
         renderItem={renderItem}
         keyExtractor={keyExtractor}
         ListHeaderComponent={
-          <YStack paddingTop="$lg" paddingBottom="$md" gap="$sm">
-            <PageHeader title={title} />
-            {book && <Typography tone="muted">{localizeContent(book.description)}</Typography>}
-            {bookQuery.isError && <InlineRetry onRetry={() => bookQuery.refetch()} />}
+          <YStack paddingTop="$lg" gap="$sm">
+            <PageHeader title={t('chant.title')} />
+            {booksQuery.isError && <InlineRetry onRetry={() => booksQuery.refetch()} />}
           </YStack>
         }
         ListFooterComponent={
-          book && (
-            <Typography variant="reference" paddingTop="$lg">
-              {book.source}
-            </Typography>
-          )
+          <Typography variant="reference" paddingTop="$lg">
+            {t('chant.license')}
+          </Typography>
         }
         showsVerticalScrollIndicator={false}
       />
@@ -102,4 +166,4 @@ export default function KyrialeScreen() {
   )
 }
 
-const keyExtractor = (section: ChantBookSection) => section.id
+const keyExtractor = (row: Row) => row.key

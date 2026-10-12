@@ -53,7 +53,7 @@ export default {
     booksHint: 'Padres, doutores, clássicos, magistério',
     collectionsHint: 'Devoções, escolas e autores',
     chant: 'Canto',
-    chantHint: 'O Kyriale em notação quadrada',
+    chantHint: 'O Kyriale, hinos e antífonas em notação quadrada',
     recents: 'Recentes',
     allForms: 'Todas',
     allDevotions: 'Toda devoção',
@@ -988,7 +988,8 @@ export default {
   },
 
   chant: {
-    kyriale: 'Kyriale',
+    title: 'Canto gregoriano',
+    cantus: 'Canto',
     mode: 'Modo {{mode}}',
     transcribedBy: 'Transcrição de {{name}}',
     license: 'GregoBase, CC0',
@@ -1544,6 +1545,8 @@ export default {
     },
   },
   a11y: {
+    showChant: 'Mostrar o canto de {{name}}',
+    hideChant: 'Ocultar o canto de {{name}}',
     openChants: 'Abrir {{name}}',
     recenterMap: 'Centralizar o mapa na sua localização',
     clearSearch: 'Limpar a busca',

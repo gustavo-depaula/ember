@@ -1,7 +1,7 @@
 // Chant in the corpus: a score is one GABC file (`chant/<id>`), a book
 // (`chant-book/<id>`) puts scores in order under its sections.
 
-import { getEntry } from '@/content/contentIndex'
+import { getEntriesByKind, getEntry } from '@/content/contentIndex'
 import { getJson, getText } from '@/content/store'
 import type { LocalizedText } from '@/content/types'
 import { localizeContent } from '@/lib/i18n'
@@ -22,6 +22,12 @@ export type ChantBook = {
   name: LocalizedText
   description: LocalizedText
   source: string
+  /**
+   * How the book's table reads. By default a section is a unit sung through —
+   * a Mass of the Kyriale — and the table lists sections; with `chants`, a
+   * section is a shelf and the table lists every chant under it.
+   */
+  list?: 'chants'
   sections: ChantBookSection[]
 }
 
@@ -38,11 +44,14 @@ export type Chant = {
   score: string
 }
 
-export const kyrialeId = 'chant-book/kyriale'
+const kyrialeId = 'chant-book/kyriale'
 
-export async function loadChantBook(id: string): Promise<ChantBook | undefined> {
-  const entry = getEntry(id)
-  return entry?.kind === 'chant-book' ? getJson<ChantBook>(entry.hash) : undefined
+/** Every chant book in the corpus, the Kyriale first: it is the one a Mass is sung from. */
+export async function loadChantBooks(): Promise<ChantBook[]> {
+  const entries = getEntriesByKind('chant-book').sort(
+    ([a], [b]) => Number(b === kyrialeId) - Number(a === kyrialeId) || a.localeCompare(b),
+  )
+  return Promise.all(entries.map(([, entry]) => getJson<ChantBook>(entry.hash)))
 }
 
 export async function loadChant(id: string): Promise<Chant | undefined> {
@@ -80,12 +89,17 @@ export function romanMode(mode: string | undefined): string | undefined {
   return romanModes[Number(mode) - 1] ?? mode
 }
 
-/** The section a chant is read in: the one asked for if it holds the chant, else the first that does. */
+/**
+ * The section a chant is read in, and its book: the section asked for if it
+ * holds the chant, else the first that does.
+ */
 export function sectionOf(
-  book: ChantBook,
+  books: ChantBook[],
   chantId: string,
   preferred?: string,
-): ChantBookSection | undefined {
-  const holding = book.sections.filter((s) => s.chants.includes(chantId))
-  return holding.find((s) => s.id === preferred) ?? holding[0]
+): { book: ChantBook; section: ChantBookSection } | undefined {
+  const holding = books.flatMap((book) =>
+    book.sections.filter((s) => s.chants.includes(chantId)).map((section) => ({ book, section })),
+  )
+  return holding.find(({ section }) => section.id === preferred) ?? holding[0]
 }

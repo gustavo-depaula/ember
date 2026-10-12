@@ -1,5 +1,6 @@
 import type { BilingualText, RenderedSection } from '@ember/content-engine'
 import type { QueryClient } from '@tanstack/react-query'
+import { loadChant } from '@/features/chant/chants'
 import {
   type ContentSource,
   cacheKeyFor,
@@ -96,6 +97,15 @@ async function preprocessSection(
         caption: section.caption,
         attribution: section.attribution,
       }
+
+    case 'chant': {
+      // An app update can reach a phone before the corpus that holds the
+      // score; the prayer is whole without it, so the block is left out.
+      const chant = await loadChant(section.ref)
+      if (!chant) return []
+      const { id: _, name, subtitle: __, ...rest } = chant
+      return { type: 'chant', name, ...rest }
+    }
 
     case 'prose':
       return { type: 'prose', text: section.text }

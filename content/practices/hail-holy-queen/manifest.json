@@ -44,7 +44,8 @@
 					"sl": "Pozdravljena, Kraljica, mati usmiljenja, življenje, veselje in upanje naše, pozdravljena!\n\nK tebi vpijemo izgnani Evini otroci; k tebi zdihujemo žalostni in objokani v tej solzni dolini.\n\nObrni torej, naša pomočnica, svoje milostljive oči v nas\n\nin pokaži nam po tem izgnanstvu Jezusa, blagoslovljeni sad svojega telesa.\n\nO milostljiva, o dobrotljiva, o sladka Devica Marija!",
 					"sv": "Var hälsad, du himmelens drottning, barmhärtighetens moder, du vårt liv, vår salighet och vårt hopp.\n\nTill dig ropar vi, Evas förvisade barn. Till dig riktar vi vår sorg då vi gråter och sörjer i denna tårarnas dal.\n\nVänd därför din blida åsyn till oss, du som för vår talan.\n\nOch när vår landsflykt når sitt slut, låt oss då skåda Jesus, din välsignade livsfrukt.\n\nO kära, o milda, o ljuva jungfru Maria."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/salve-regina"}
 		]
 	}
 }

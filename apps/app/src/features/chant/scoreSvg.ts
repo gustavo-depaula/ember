@@ -22,6 +22,10 @@ function markSvg(mark: ScoreMark, idPrefix: string): string {
       return `<line x1="${round(mark.x1)}" y1="${round(mark.y1)}" x2="${round(mark.x2)}" y2="${round(mark.y2)}" stroke="currentColor" stroke-width="${round(mark.weight)}"/>`
     case 'rect':
       return `<rect x="${round(mark.x)}" y="${round(mark.y)}" width="${round(mark.width)}" height="${round(mark.height)}"/>`
+    case 'shape':
+      return `<path d="${mark.d}"/>`
+    case 'stroke':
+      return `<path d="${mark.d}" fill="none" stroke="currentColor" stroke-width="${round(mark.weight)}"/>`
     case 'glyph':
       return `<use href="#${idPrefix}${mark.glyph}" x="${round(mark.x)}" y="${round(mark.y)}"${mark.transform ? ` transform="${mark.transform}"` : ''}/>`
     case 'text': {

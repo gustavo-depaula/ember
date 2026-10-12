@@ -1,0 +1,9240 @@
+{
+"Commune/Coronatio#Communio": [
+{
+"chant": "509",
+"genre": "co",
+"score": 1.0
+}
+],
+"Commune/Coronatio#Graduale": [
+{
+"chant": "228",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1119",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Commune/Coronatio#GradualeP": [
+{
+"chant": "220",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "228",
+"genre": "al",
+"score": 1.0
+}
+],
+"Commune/Coronatio#Offertorium": [
+{
+"chant": "1234",
+"genre": "of",
+"score": 1.0
+}
+],
+"Commune/Coronatio#Tractus": [
+{
+"chant": "1029",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Commune/Propaganda#Communio": [
+{
+"chant": "322",
+"genre": "co",
+"score": 1.0
+}
+],
+"Commune/Propaganda#GradualeP": [
+{
+"chant": "253",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1164",
+"genre": "al",
+"score": 1.0
+}
+],
+"Commune/Propaganda#Introitus": [
+{
+"chant": "2",
+"genre": "in",
+"score": 1.0
+}
+],
+"Commune/Propaganda#Offertorium": [
+{
+"chant": "1277",
+"genre": "of",
+"score": 1.0
+}
+],
+"Commune/Propaganda#Tractus": [
+{
+"chant": "516",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/01-01#Graduale": [
+{
+"chant": "4775",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1163",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/01-03n#GradualeP": [
+{
+"chant": "954",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/01-03n#Tractus": [
+{
+"chant": "1167",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/01-06#Communio": [
+{
+"chant": "918",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/01-06#Graduale": [
+{
+"chant": "524",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "205",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/01-06#Introitus": [
+{
+"chant": "403",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/01-06#Offertorium": [
+{
+"chant": "1147",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/01-15#Graduale": [
+{
+"chant": "1207",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "34",
+"genre": "gr",
+"score": 0.984
+}
+],
+"Sancti/01-19#Graduale": [
+{
+"chant": "755",
+"genre": "al",
+"score": 0.875
+},
+{
+"chant": "98",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/01-19#Introitus": [
+{
+"chant": "5505",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/01-19#Offertorium": [
+{
+"chant": "1031",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/01-19#Tractus": [
+{
+"chant": "305",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/01-20#Communio": [
+{
+"chant": "902",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/01-20#Graduale": [
+{
+"chant": "106",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "888",
+"genre": "gr",
+"score": 0.939
+}
+],
+"Sancti/01-20#Offertorium": [
+{
+"chant": "786",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/01-20#Tractus": [
+{
+"chant": "888",
+"genre": "tr",
+"score": 0.939
+},
+{
+"chant": "305",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/01-21#Graduale": [
+{
+"chant": "301",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "947",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/01-25#Graduale": [
+{
+"chant": "466",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1347",
+"genre": "gr",
+"score": 0.993
+}
+],
+"Sancti/01-25#Introitus": [
+{
+"chant": "6636",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/01-25#Offertorium": [
+{
+"chant": "499",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/01-25#Tractus": [
+{
+"chant": "1347",
+"genre": "tr",
+"score": 0.993
+},
+{
+"chant": "884",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/01-27#Graduale": [
+{
+"chant": "724",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/01-27#Tractus": [
+{
+"chant": "7670",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/01-31#Communio": [
+{
+"chant": "186",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/01-31#Graduale": [
+{
+"chant": "225",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "21",
+"genre": "gr",
+"score": 0.987
+}
+],
+"Sancti/01-31#GradualeP": [
+{
+"chant": "221",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "225",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/01-31#Introitus": [
+{
+"chant": "1018",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/01-31#Offertorium": [
+{
+"chant": "805",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/01-31#Tractus": [
+{
+"chant": "837",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/02-01#Communio": [
+{
+"chant": "368",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/02-01#Graduale": [
+{
+"chant": "1162",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/02-01#GradualeP": [
+{
+"chant": "1162",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1249",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/02-01#Introitus": [
+{
+"chant": "178",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/02-02#Communio": [
+{
+"chant": "803",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/02-02#Graduale": [
+{
+"chant": "429",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "50",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/02-05#Communio": [
+{
+"chant": "454",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/02-05#Graduale": [
+{
+"chant": "642",
+"genre": "al",
+"score": 0.895
+},
+{
+"chant": "1373",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/02-05#Introitus": [
+{
+"chant": "417",
+"genre": "in",
+"score": 0.899
+}
+],
+"Sancti/02-05#Offertorium": [
+{
+"chant": "768",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/02-05#Tractus": [
+{
+"chant": "1373",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "305",
+"genre": "tr",
+"score": 0.992
+}
+],
+"Sancti/02-11#Communio": [
+{
+"chant": "80",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/02-11#Graduale": [
+{
+"chant": "1258",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "27",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/02-11#Introitus": [
+{
+"chant": "5",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/02-11#Offertorium": [
+{
+"chant": "234",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/02-11#Tractus": [
+{
+"chant": "27",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "485",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/02-12#Communio": [
+{
+"chant": "470",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/02-12#Graduale": [
+{
+"chant": "706",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1084",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/02-12#GradualeP": [
+{
+"chant": "1379",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "706",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/02-12#Introitus": [
+{
+"chant": "312",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/02-12#Offertorium": [
+{
+"chant": "1275",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/02-22#Tractus": [
+{
+"chant": "1119",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/02-24#Communio": [
+{
+"chant": "97",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/02-24#Graduale": [
+{
+"chant": "148",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/02-24#Introitus": [
+{
+"chant": "475",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/02-24#Offertorium": [
+{
+"chant": "5091",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/02-24#Tractus": [
+{
+"chant": "6463",
+"genre": "tr",
+"score": 0.962
+},
+{
+"chant": "148",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/02-27#Communio": [
+{
+"chant": "164",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/02-27#Graduale": [
+{
+"chant": "791",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1291",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/02-27#GradualeP": [
+{
+"chant": "295",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "791",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/02-27#Introitus": [
+{
+"chant": "1025",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/02-27#Offertorium": [
+{
+"chant": "1193",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/02-27#Tractus": [
+{
+"chant": "728",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "1291",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/03-10#Communio": [
+{
+"chant": "9877",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/03-10#Graduale": [
+{
+"chant": "614",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "305",
+"genre": "tr",
+"score": 0.992
+}
+],
+"Sancti/03-10#Introitus": [
+{
+"chant": "788",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/03-10#Offertorium": [
+{
+"chant": "786",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/03-19#Communio": [
+{
+"chant": "139",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/03-19#Graduale": [
+{
+"chant": "600",
+"genre": "gr",
+"score": 0.96
+},
+{
+"chant": "7670",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/03-19#GradualeP": [
+{
+"chant": "14",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1207",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/03-19t#Communio": [
+{
+"chant": "139",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/03-19t#GradualeP": [
+{
+"chant": "14",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1207",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/03-24#Communio": [
+{
+"chant": "1127",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/03-24#Graduale": [
+{
+"chant": "784",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "609",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/03-24#GradualeP": [
+{
+"chant": "1209",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1202",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/03-24#Introitus": [
+{
+"chant": "985",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/03-24#Offertorium": [
+{
+"chant": "302",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/03-24#Tractus": [
+{
+"chant": "609",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/03-25#GradualeP": [
+{
+"chant": "1209",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "281",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/03-25#Tractus": [
+{
+"chant": "738",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "947",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/03-27#Communio": [
+{
+"chant": "601",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/03-27#Graduale": [
+{
+"chant": "310",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "306",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/03-27#GradualeP": [
+{
+"chant": "1048",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "287",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/03-27#Introitus": [
+{
+"chant": "656",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/03-27#Offertorium": [
+{
+"chant": "166",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/03-27#Tractus": [
+{
+"chant": "306",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "35",
+"genre": "tr",
+"score": 0.974
+}
+],
+"Sancti/03-28#Communio": [
+{
+"chant": "877",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/03-28#Graduale": [
+{
+"chant": "192",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "370",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/03-28#GradualeP": [
+{
+"chant": "192",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "304",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/03-28#Introitus": [
+{
+"chant": "52",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/03-28#Offertorium": [
+{
+"chant": "244",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/03-28#Tractus": [
+{
+"chant": "250",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "370",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/04-14#Communio": [
+{
+"chant": "400",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/04-14#Graduale": [
+{
+"chant": "1345",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/04-14#Introitus": [
+{
+"chant": "831",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/04-14#Offertorium": [
+{
+"chant": "285",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/04-14#Tractus": [
+{
+"chant": "969",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/04-23pl#Communio": [
+{
+"chant": "95",
+"genre": "co",
+"score": 0.882
+}
+],
+"Sancti/04-25#Graduale": [
+{
+"chant": "762",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1249",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/04-25#Introitus": [
+{
+"chant": "340",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/04-25#Offertorium": [
+{
+"chant": "1382",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/04-28#Communio": [
+{
+"chant": "732",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/04-28#Graduale": [
+{
+"chant": "476",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1073",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/04-28#Graduale1": [
+{
+"chant": "1233",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "571",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/04-28#Introitus": [
+{
+"chant": "775",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/04-28#Offertorium": [
+{
+"chant": "773",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/04-28#Tractus": [
+{
+"chant": "1005",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/05-01#Communio": [
+{
+"chant": "6774",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/05-01#Graduale": [
+{
+"chant": "762",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1101",
+"genre": "al",
+"score": 0.947
+}
+],
+"Sancti/05-01#Introitus": [
+{
+"chant": "4274",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/05-01#Offertorium": [
+{
+"chant": "1382",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/05-01r#Communio": [
+{
+"chant": "28",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/05-01r#Graduale": [
+{
+"chant": "1324",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "213",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-01r#Introitus": [
+{
+"chant": "646",
+"genre": "in",
+"score": 0.986
+}
+],
+"Sancti/05-01r#Offertorium": [
+{
+"chant": "26",
+"genre": "of",
+"score": 0.98
+}
+],
+"Sancti/05-02#Communio": [
+{
+"chant": "1002",
+"genre": "co",
+"score": 0.979
+}
+],
+"Sancti/05-02#Graduale": [
+{
+"chant": "724",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "477",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-02#Graduale1": [
+{
+"chant": "724",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/05-02#Introitus": [
+{
+"chant": "233",
+"genre": "in",
+"score": 0.982
+}
+],
+"Sancti/05-02#Offertorium": [
+{
+"chant": "779",
+"genre": "of",
+"score": 0.961
+}
+],
+"Sancti/05-03#Communio": [
+{
+"chant": "346",
+"genre": "co",
+"score": 0.966
+}
+],
+"Sancti/05-03#Graduale": [
+{
+"chant": "627",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "859",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-03#Introitus": [
+{
+"chant": "359",
+"genre": "in",
+"score": 0.985
+}
+],
+"Sancti/05-03#Offertorium": [
+{
+"chant": "448",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/05-03pl#Graduale": [
+{
+"chant": "18217",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "18216",
+"genre": "al",
+"score": 0.977
+}
+],
+"Sancti/05-03pl#Introitus": [
+{
+"chant": "18375",
+"genre": "in",
+"score": 0.957
+}
+],
+"Sancti/05-03t#Communio": [
+{
+"chant": "346",
+"genre": "co",
+"score": 0.966
+}
+],
+"Sancti/05-03t#Graduale": [
+{
+"chant": "627",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "859",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-03t#Introitus": [
+{
+"chant": "359",
+"genre": "in",
+"score": 0.985
+}
+],
+"Sancti/05-03t#Offertorium": [
+{
+"chant": "448",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/05-06#Graduale": [
+{
+"chant": "1207",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "5678",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-08#Communio": [
+{
+"chant": "1127",
+"genre": "co",
+"score": 0.975
+}
+],
+"Sancti/05-08#Graduale": [
+{
+"chant": "1017",
+"genre": "al",
+"score": 0.955
+},
+{
+"chant": "1103",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-08#Introitus": [
+{
+"chant": "985",
+"genre": "in",
+"score": 0.973
+}
+],
+"Sancti/05-08#Offertorium": [
+{
+"chant": "302",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/05-12#Graduale": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "590",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-12#Introitus": [
+{
+"chant": "1222",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/05-13#Communio": [
+{
+"chant": "559",
+"genre": "co",
+"score": 0.983
+}
+],
+"Sancti/05-13#Graduale": [
+{
+"chant": "231",
+"genre": "al",
+"score": 0.852
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/05-13#GradualeP": [
+{
+"chant": "231",
+"genre": "al",
+"score": 0.852
+},
+{
+"chant": "1189",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-13#Offertorium": [
+{
+"chant": "102",
+"genre": "of",
+"score": 0.982
+}
+],
+"Sancti/05-13#Tractus": [
+{
+"chant": "1063",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/05-15#Graduale": [
+{
+"chant": "14",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "724",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-20#Graduale": [
+{
+"chant": "724",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "34",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/05-26#Communio": [
+{
+"chant": "1367",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/05-26#Graduale": [
+{
+"chant": "194",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1022",
+"genre": "gr",
+"score": 0.979
+}
+],
+"Sancti/05-26#GradualeP": [
+{
+"chant": "237",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "194",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-26#Introitus": [
+{
+"chant": "530",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/05-26#Offertorium": [
+{
+"chant": "1253",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/05-31#Graduale": [
+{
+"chant": "717",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1368",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/05-31#GradualeP": [
+{
+"chant": "734",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "354",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/05-31#Introitus": [
+{
+"chant": "61",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/05-31#Offertorium": [
+{
+"chant": "719",
+"genre": "of",
+"score": 0.989
+}
+],
+"Sancti/05-31#Tractus": [
+{
+"chant": "18",
+"genre": "tr",
+"score": 0.994
+}
+],
+"Sancti/06-02#Communio": [
+{
+"chant": "209",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-02#Graduale": [
+{
+"chant": "1030",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1009",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-02#GradualeP": [
+{
+"chant": "1030",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "207",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-02#Introitus": [
+{
+"chant": "788",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-04#Communio": [
+{
+"chant": "6",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-04#Graduale": [
+{
+"chant": "594",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "398",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-04#GradualeP": [
+{
+"chant": "1170",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "569",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-04#Introitus": [
+{
+"chant": "1313",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-05#Communio": [
+{
+"chant": "1190",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-05#Graduale": [
+{
+"chant": "198",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1181",
+"genre": "gr",
+"score": 0.995
+}
+],
+"Sancti/06-05#Introitus": [
+{
+"chant": "1224",
+"genre": "in",
+"score": 0.99
+}
+],
+"Sancti/06-05#Offertorium": [
+{
+"chant": "5686",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/06-09#Communio": [
+{
+"chant": "470",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-09#Graduale": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "156",
+"genre": "gr",
+"score": 0.941
+}
+],
+"Sancti/06-09#GradualeP": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "590",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-11#Graduale": [
+{
+"chant": "1030",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "351",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-12o#Communio": [
+{
+"chant": "184",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-12o#Graduale": [
+{
+"chant": "1250",
+"genre": "al",
+"score": 0.975
+},
+{
+"chant": "206",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-14#Graduale": [
+{
+"chant": "1350",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "511",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-15#Communio": [
+{
+"chant": "209",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-15#Graduale": [
+{
+"chant": "106",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "963",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-15#Introitus": [
+{
+"chant": "248",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-18t#Graduale": [
+{
+"chant": "98",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-18t#GradualeP": [
+{
+"chant": "590",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-18t#Offertorium": [
+{
+"chant": "1031",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/06-19o#Communio": [
+{
+"chant": "184",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-19o#Graduale": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "888",
+"genre": "gr",
+"score": 0.939
+}
+],
+"Sancti/06-19o#Introitus": [
+{
+"chant": "271",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-19o#Offertorium": [
+{
+"chant": "786",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/06-21#Communio": [
+{
+"chant": "711",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-21#Graduale": [
+{
+"chant": "1170",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1334",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-21#GradualeP": [
+{
+"chant": "1170",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "741",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-21#Introitus": [
+{
+"chant": "857",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-21#Offertorium": [
+{
+"chant": "1306",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/06-23#Graduale": [
+{
+"chant": "424",
+"genre": "gr",
+"score": 0.941
+}
+],
+"Sancti/06-23#Introitus": [
+{
+"chant": "1141",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-24#Communio": [
+{
+"chant": "133",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-24#Graduale": [
+{
+"chant": "847",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "647",
+"genre": "gr",
+"score": 0.991
+}
+],
+"Sancti/06-24#GradualeP": [
+{
+"chant": "1207",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "847",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-24#Introitus": [
+{
+"chant": "7870",
+"genre": "in",
+"score": 0.985
+}
+],
+"Sancti/06-26#Graduale": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "614",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-26#Offertorium": [
+{
+"chant": "1375",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/06-28#Communio": [
+{
+"chant": "703",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-28#Graduale": [
+{
+"chant": "1015",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "672",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-28#GradualeP": [
+{
+"chant": "262",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1015",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-28#Introitus": [
+{
+"chant": "1093",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-28#Offertorium": [
+{
+"chant": "1300",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/06-28#Tractus": [
+{
+"chant": "110",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/06-28r#Communio": [
+{
+"chant": "846",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/06-28r#Graduale": [
+{
+"chant": "351",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-28r#Introitus": [
+{
+"chant": "1366",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-29#Graduale": [
+{
+"chant": "228",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "307",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-29#Introitus": [
+{
+"chant": "478",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/06-30#Graduale": [
+{
+"chant": "120",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1347",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/06-30#GradualeP": [
+{
+"chant": "220",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "120",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/06-30#Tractus": [
+{
+"chant": "884",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/07-01#Communio": [
+{
+"chant": "1019",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-01#Graduale": [
+{
+"chant": "1038",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1263",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-01#GradualeP": [
+{
+"chant": "983",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "875",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/07-01#Introitus": [
+{
+"chant": "123",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/07-01#Offertorium": [
+{
+"chant": "320",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/07-01#Tractus": [
+{
+"chant": "502",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/07-02#Graduale": [
+{
+"chant": "481",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "392",
+"genre": "gr",
+"score": 0.993
+}
+],
+"Sancti/07-04oct#Graduale": [
+{
+"chant": "8252",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "307",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-04oct#Offertorium": [
+{
+"chant": "570",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/07-05#Communio": [
+{
+"chant": "201",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-05#Graduale": [
+{
+"chant": "96",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "155",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-05#GradualeP": [
+{
+"chant": "1142",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "382",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/07-05#Introitus": [
+{
+"chant": "1349",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/07-05#Offertorium": [
+{
+"chant": "662",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/07-05#Tractus": [
+{
+"chant": "928",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/07-06#Communio": [
+{
+"chant": "209",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-06#Graduale": [
+{
+"chant": "440",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "98",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-10#Graduale": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "432",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-10#GradualeP": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "590",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/07-10#Introitus": [
+{
+"chant": "87",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/07-13pl#Communio": [
+{
+"chant": "1130",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-13pl#Graduale": [
+{
+"chant": "841",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "375",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-13pl#GradualeP": [
+{
+"chant": "893",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "841",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/07-13pl#Introitus": [
+{
+"chant": "864",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/07-13pl#Offertorium": [
+{
+"chant": "369",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/07-13pl#Tractus": [
+{
+"chant": "968",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/07-14#Graduale": [
+{
+"chant": "1187",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "511",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-15pl#Communio": [
+{
+"chant": "126",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-15pl#Graduale": [
+{
+"chant": "495",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/07-15pl#GradualeP": [
+{
+"chant": "642",
+"genre": "al",
+"score": 0.895
+},
+{
+"chant": "495",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/07-15pl#Offertorium": [
+{
+"chant": "436",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/07-16#Communio": [
+{
+"chant": "1053",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-16#Graduale": [
+{
+"chant": "392",
+"genre": "gr",
+"score": 0.993
+}
+],
+"Sancti/07-16#Introitus": [
+{
+"chant": "3353",
+"genre": "in",
+"score": 0.959
+}
+],
+"Sancti/07-16#Offertorium": [
+{
+"chant": "787",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/07-18#Communio": [
+{
+"chant": "1126",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-18#Introitus": [
+{
+"chant": "785",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/07-18o#Introitus": [
+{
+"chant": "788",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/07-20#Communio": [
+{
+"chant": "1014",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-20#Graduale": [
+{
+"chant": "569",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "75",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-20#GradualeP": [
+{
+"chant": "765",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "569",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/07-20#Introitus": [
+{
+"chant": "1297",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/07-20#Offertorium": [
+{
+"chant": "1362",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/07-22#Graduale": [
+{
+"chant": "1076",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "394",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-23#Communio": [
+{
+"chant": "5425",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-25#Graduale": [
+{
+"chant": "1030",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "307",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/07-26#Introitus": [
+{
+"chant": "950",
+"genre": "in",
+"score": 0.991
+}
+],
+"Sancti/07-28#Graduale": [
+{
+"chant": "1250",
+"genre": "al",
+"score": 0.975
+},
+{
+"chant": "888",
+"genre": "gr",
+"score": 0.939
+}
+],
+"Sancti/07-30#Communio": [
+{
+"chant": "184",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-30#Graduale": [
+{
+"chant": "836",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "888",
+"genre": "gr",
+"score": 0.939
+}
+],
+"Sancti/07-31#Communio": [
+{
+"chant": "514",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/07-31#Introitus": [
+{
+"chant": "1033",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-01#Graduale": [
+{
+"chant": "16",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "307",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-01r#Communio": [
+{
+"chant": "699",
+"genre": "co",
+"score": 0.845
+}
+],
+"Sancti/08-01r#Introitus": [
+{
+"chant": "788",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-01r#Offertorium": [
+{
+"chant": "33",
+"genre": "of",
+"score": 0.849
+}
+],
+"Sancti/08-02#Communio": [
+{
+"chant": "1196",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-02#Graduale": [
+{
+"chant": "1094",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "73",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-02#GradualeP": [
+{
+"chant": "1078",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "495",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/08-02#Introitus": [
+{
+"chant": "214",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-02#Offertorium": [
+{
+"chant": "1116",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-02#Tractus": [
+{
+"chant": "437",
+"genre": "tr",
+"score": 0.996
+}
+],
+"Sancti/08-03#Communio": [
+{
+"chant": "920",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-03#Graduale": [
+{
+"chant": "561",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "906",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-03#Introitus": [
+{
+"chant": "4969",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-03#Offertorium": [
+{
+"chant": "462",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-04#Graduale": [
+{
+"chant": "1207",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "34",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-06#Communio": [
+{
+"chant": "885",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-06#Graduale": [
+{
+"chant": "1124",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1308",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-06#Introitus": [
+{
+"chant": "326",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-06#Offertorium": [
+{
+"chant": "125",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-07o#Graduale": [
+{
+"chant": "1309",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "511",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-07o#Offertorium": [
+{
+"chant": "5070",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-08#Graduale": [
+{
+"chant": "560",
+"genre": "al",
+"score": 0.95
+},
+{
+"chant": "16289",
+"genre": "gr",
+"score": 0.99
+}
+],
+"Sancti/08-08#GradualeP": [
+{
+"chant": "762",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "560",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/08-08#Introitus": [
+{
+"chant": "808",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-08#Offertorium": [
+{
+"chant": "786",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-08#Tractus": [
+{
+"chant": "305",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/08-09t#Graduale": [
+{
+"chant": "1212",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-09t#Introitus": [
+{
+"chant": "544",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-09t#Offertorium": [
+{
+"chant": "185",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-10#Communio": [
+{
+"chant": "685",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-10#Graduale": [
+{
+"chant": "1122",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1027",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-10#Introitus": [
+{
+"chant": "956",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-10#Offertorium": [
+{
+"chant": "105",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-14#Graduale": [
+{
+"chant": "392",
+"genre": "gr",
+"score": 0.993
+}
+],
+"Sancti/08-15#Communio": [
+{
+"chant": "286",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-15#Graduale": [
+{
+"chant": "960",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1000",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-15#Introitus": [
+{
+"chant": "23",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-15#Offertorium": [
+{
+"chant": "1083",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-15t#Communio": [
+{
+"chant": "3609",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-15t#Graduale": [
+{
+"chant": "960",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "807",
+"genre": "gr",
+"score": 0.993
+}
+],
+"Sancti/08-15t#Offertorium": [
+{
+"chant": "3447",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-16#Graduale": [
+{
+"chant": "821",
+"genre": "al",
+"score": 0.955
+},
+{
+"chant": "1212",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-16#GradualeP": [
+{
+"chant": "821",
+"genre": "al",
+"score": 0.955
+},
+{
+"chant": "503",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/08-16#Introitus": [
+{
+"chant": "544",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-16#Offertorium": [
+{
+"chant": "407",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-16#Tractus": [
+{
+"chant": "6463",
+"genre": "tr",
+"score": 0.962
+}
+],
+"Sancti/08-17t#Graduale": [
+{
+"chant": "1122",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1206",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-17t#Introitus": [
+{
+"chant": "3849",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-22#Communio": [
+{
+"chant": "982",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-22#Graduale": [
+{
+"chant": "881",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "778",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-22#GradualeP": [
+{
+"chant": "460",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "881",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/08-22#Introitus": [
+{
+"chant": "603",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-22#Offertorium": [
+{
+"chant": "1045",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-22#Tractus": [
+{
+"chant": "793",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/08-24#Graduale": [
+{
+"chant": "442",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "307",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-26pl#Communio": [
+{
+"chant": "18089",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-26pl#Introitus": [
+{
+"chant": "18088",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-27#Communio": [
+{
+"chant": "643",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-27#Graduale": [
+{
+"chant": "724",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "511",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-27#Introitus": [
+{
+"chant": "695",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-27#Offertorium": [
+{
+"chant": "1331",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/08-28#Graduale": [
+{
+"chant": "1350",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "511",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-29#Communio": [
+{
+"chant": "586",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/08-29#Graduale": [
+{
+"chant": "1207",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "34",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/08-29#Introitus": [
+{
+"chant": "115",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/08-30o#Graduale": [
+{
+"chant": "560",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "98",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/09-03#Graduale": [
+{
+"chant": "467",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "977",
+"genre": "gr",
+"score": 0.942
+}
+],
+"Sancti/09-03#GradualeP": [
+{
+"chant": "315",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "467",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/09-03#Introitus": [
+{
+"chant": "452",
+"genre": "in",
+"score": 0.989
+}
+],
+"Sancti/09-03#Offertorium": [
+{
+"chant": "805",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/09-03#Tractus": [
+{
+"chant": "1281",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/09-09n#Communio": [
+{
+"chant": "491",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/09-09n#Graduale": [
+{
+"chant": "1185",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "498",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/09-09n#GradualeP": [
+{
+"chant": "1302",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/09-09n#Introitus": [
+{
+"chant": "573",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/09-09n#Offertorium": [
+{
+"chant": "1269",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/09-09n#Tractus": [
+{
+"chant": "498",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "883",
+"genre": "tr",
+"score": 0.987
+}
+],
+"Sancti/09-14#Communio": [
+{
+"chant": "346",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/09-14#Graduale": [
+{
+"chant": "859",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "873",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/09-14#Introitus": [
+{
+"chant": "359",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/09-14#Offertorium": [
+{
+"chant": "4811",
+"genre": "of",
+"score": 0.987
+}
+],
+"Sancti/09-15#Graduale": [
+{
+"chant": "853",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1383",
+"genre": "gr",
+"score": 0.981
+}
+],
+"Sancti/09-15#Sequentia": [
+{
+"chant": "681",
+"genre": "se",
+"score": 1.0
+}
+],
+"Sancti/09-17#Graduale": [
+{
+"chant": "1200",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "511",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/09-17#Introitus": [
+{
+"chant": "178",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/09-18#Communio": [
+{
+"chant": "976",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/09-18#Graduale": [
+{
+"chant": "473",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "600",
+"genre": "gr",
+"score": 0.887
+}
+],
+"Sancti/09-18#GradualeP": [
+{
+"chant": "14",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "473",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/09-18#Introitus": [
+{
+"chant": "258",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/09-18#Offertorium": [
+{
+"chant": "607",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/09-21#Communio": [
+{
+"chant": "365",
+"genre": "co",
+"score": 0.973
+}
+],
+"Sancti/09-21#Graduale": [
+{
+"chant": "442",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "153",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/09-21#Offertorium": [
+{
+"chant": "6358",
+"genre": "of",
+"score": 0.976
+}
+],
+"Sancti/09-26n#Communio": [
+{
+"chant": "126",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/09-26n#Graduale": [
+{
+"chant": "525",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "432",
+"genre": "gr",
+"score": 0.993
+}
+],
+"Sancti/09-26n#Introitus": [
+{
+"chant": "669",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/09-26n#Offertorium": [
+{
+"chant": "1113",
+"genre": "of",
+"score": 0.935
+}
+],
+"Sancti/09-27#Graduale": [
+{
+"chant": "32",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1009",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/09-29#Graduale": [
+{
+"chant": "1103",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "609",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/09-29#Introitus": [
+{
+"chant": "985",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-02#Communio": [
+{
+"chant": "1127",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/10-02#Graduale": [
+{
+"chant": "784",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "927",
+"genre": "gr",
+"score": 0.991
+}
+],
+"Sancti/10-02#GradualeP": [
+{
+"chant": "377",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "814",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-02#Offertorium": [
+{
+"chant": "1270",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-02#Tractus": [
+{
+"chant": "949",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/10-03#Communio": [
+{
+"chant": "162",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/10-03#Graduale": [
+{
+"chant": "1257",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1034",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-03#GradualeP": [
+{
+"chant": "1304",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1257",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-03#Introitus": [
+{
+"chant": "59",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-03#Offertorium": [
+{
+"chant": "362",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-03#Tractus": [
+{
+"chant": "739",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/10-04#GradualeP": [
+{
+"chant": "765",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1200",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-04#Tractus": [
+{
+"chant": "7670",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/10-07#Communio": [
+{
+"chant": "104",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/10-07#Graduale": [
+{
+"chant": "807",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-07#Introitus": [
+{
+"chant": "61",
+"genre": "in",
+"score": 0.951
+}
+],
+"Sancti/10-07#Offertorium": [
+{
+"chant": "494",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-09#Communio": [
+{
+"chant": "991",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/10-09#Graduale": [
+{
+"chant": "664",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1186",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-09#GradualeP": [
+{
+"chant": "663",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "892",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-09#Introitus": [
+{
+"chant": "41",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-09#Offertorium": [
+{
+"chant": "1098",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-09#Tractus": [
+{
+"chant": "175",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/10-11#Graduale": [
+{
+"chant": "1114",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "471",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-11#Introitus": [
+{
+"chant": "1372",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-11#Offertorium": [
+{
+"chant": "910",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-17#Communio": [
+{
+"chant": "459",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/10-17#Graduale": [
+{
+"chant": "1307",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "790",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-17#GradualeP": [
+{
+"chant": "70",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "882",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-17#Introitus": [
+{
+"chant": "1195",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-17#Offertorium": [
+{
+"chant": "618",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-17#Tractus": [
+{
+"chant": "790",
+"genre": "tr",
+"score": 1.0
+},
+{
+"chant": "63",
+"genre": "tr",
+"score": 0.993
+}
+],
+"Sancti/10-18#Graduale": [
+{
+"chant": "1030",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "351",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-20#Communio": [
+{
+"chant": "1003",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/10-20#Graduale": [
+{
+"chant": "792",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "971",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-20#GradualeP": [
+{
+"chant": "765",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "792",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-20#Introitus": [
+{
+"chant": "970",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-20#Offertorium": [
+{
+"chant": "515",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-21pl#Communio": [
+{
+"chant": "1002",
+"genre": "co",
+"score": 0.84
+}
+],
+"Sancti/10-21pl#Graduale": [
+{
+"chant": "477",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-21pl#GradualeP": [
+{
+"chant": "1118",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "477",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-21pl#Introitus": [
+{
+"chant": "18861",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-21pl#Offertorium": [
+{
+"chant": "18220",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-23r#Graduale": [
+{
+"chant": "1187",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "415",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-23r#Introitus": [
+{
+"chant": "48",
+"genre": "in",
+"score": 0.981
+}
+],
+"Sancti/10-24#Graduale": [
+{
+"chant": "814",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "581",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-24#GradualeP": [
+{
+"chant": "480",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "740",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-24#Introitus": [
+{
+"chant": "985",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-24#Offertorium": [
+{
+"chant": "302",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-24#Tractus": [
+{
+"chant": "671",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/10-27#Graduale": [
+{
+"chant": "206",
+"genre": "gr",
+"score": 0.914
+}
+],
+"Sancti/10-28#Graduale": [
+{
+"chant": "130",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "307",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-31#Graduale": [
+{
+"chant": "963",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-31#Introitus": [
+{
+"chant": "1213",
+"genre": "in",
+"score": 0.974
+}
+],
+"Sancti/10-DU#Communio": [
+{
+"chant": "1229",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/10-DU#Graduale": [
+{
+"chant": "746",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "583",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/10-DU#GradualeP": [
+{
+"chant": "270",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "746",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/10-DU#Introitus": [
+{
+"chant": "128",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/10-DU#Offertorium": [
+{
+"chant": "390",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/10-DU#Tractus": [
+{
+"chant": "483",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/11-01#Communio": [
+{
+"chant": "345",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/11-01#Graduale": [
+{
+"chant": "1237",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "371",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/11-01#Introitus": [
+{
+"chant": "752",
+"genre": "in",
+"score": 0.992
+}
+],
+"Sancti/11-04#Graduale": [
+{
+"chant": "477",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/11-08r#Graduale": [
+{
+"chant": "1250",
+"genre": "al",
+"score": 0.975
+},
+{
+"chant": "888",
+"genre": "gr",
+"score": 0.939
+}
+],
+"Sancti/11-10o#Graduale": [
+{
+"chant": "207",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "206",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/11-10o#Introitus": [
+{
+"chant": "788",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/11-10o#Offertorium": [
+{
+"chant": "786",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/11-11#Graduale": [
+{
+"chant": "988",
+"genre": "al",
+"score": 0.845
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/11-11#GradualeP": [
+{
+"chant": "988",
+"genre": "al",
+"score": 0.845
+},
+{
+"chant": "1118",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/11-13pl#Communio": [
+{
+"chant": "576",
+"genre": "co",
+"score": 0.987
+}
+],
+"Sancti/11-13pl#Graduale": [
+{
+"chant": "434",
+"genre": "al",
+"score": 0.963
+},
+{
+"chant": "54",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/11-13pl#Introitus": [
+{
+"chant": "610",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/11-13pl#Offertorium": [
+{
+"chant": "720",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/11-14#Graduale": [
+{
+"chant": "1118",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "827",
+"genre": "gr",
+"score": 0.96
+}
+],
+"Sancti/11-14#Introitus": [
+{
+"chant": "417",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/11-14#Offertorium": [
+{
+"chant": "401",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/11-22#Graduale": [
+{
+"chant": "301",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "840",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/11-23#Introitus": [
+{
+"chant": "4299",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/11-29#Communio": [
+{
+"chant": "1021",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/11-29#Graduale": [
+{
+"chant": "148",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/11-29#Introitus": [
+{
+"chant": "693",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/11-30#Communio": [
+{
+"chant": "7007",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/11-30#Graduale": [
+{
+"chant": "984",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "307",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-03#Introitus": [
+{
+"chant": "115",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/12-04#Graduale": [
+{
+"chant": "477",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-06#Graduale": [
+{
+"chant": "5678",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "827",
+"genre": "gr",
+"score": 0.96
+}
+],
+"Sancti/12-07#Graduale": [
+{
+"chant": "1187",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-08#Communio": [
+{
+"chant": "1004",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-08#Graduale": [
+{
+"chant": "1057",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "713",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-08#GradualeP": [
+{
+"chant": "1057",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1023",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/12-08#Introitus": [
+{
+"chant": "622",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/12-08#Offertorium": [
+{
+"chant": "210",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/12-08#Tractus": [
+{
+"chant": "689",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/12-12n#Communio": [
+{
+"chant": "1133",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-12n#Graduale": [
+{
+"chant": "232",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "468",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-12n#Offertorium": [
+{
+"chant": "7",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/12-13#Communio": [
+{
+"chant": "1292",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-21#Graduale": [
+{
+"chant": "216",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "148",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-21#Tractus": [
+{
+"chant": "6463",
+"genre": "tr",
+"score": 0.962
+}
+],
+"Sancti/12-24#Communio": [
+{
+"chant": "367",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-24#Graduale": [
+{
+"chant": "202",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-24#Introitus": [
+{
+"chant": "150",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/12-24#Offertorium": [
+{
+"chant": "171",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/12-24s#Communio": [
+{
+"chant": "367",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-24s#Graduale": [
+{
+"chant": "167",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "202",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-24s#Offertorium": [
+{
+"chant": "171",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/12-25m1#Communio": [
+{
+"chant": "117",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-25m1#Graduale": [
+{
+"chant": "890",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "518",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-25m1#Introitus": [
+{
+"chant": "1175",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/12-25m1#Offertorium": [
+{
+"chant": "811",
+"genre": "of",
+"score": 1.0
+}
+],
+"Sancti/12-25m2#Communio": [
+{
+"chant": "1125",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-25m2#Graduale": [
+{
+"chant": "714",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "217",
+"genre": "gr",
+"score": 0.906
+}
+],
+"Sancti/12-25m2#Introitus": [
+{
+"chant": "917",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/12-25m3#Graduale": [
+{
+"chant": "324",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1163",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-26#Graduale": [
+{
+"chant": "561",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "906",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-26#GradualeP": [
+{
+"chant": "1249",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "561",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/12-26#Tractus": [
+{
+"chant": "6463",
+"genre": "tr",
+"score": 0.962
+}
+],
+"Sancti/12-27#Communio": [
+{
+"chant": "781",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-27#Graduale": [
+{
+"chant": "914",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/12-27#GradualeP": [
+{
+"chant": "914",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "5678",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/12-27#Tractus": [
+{
+"chant": "7670",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/12-27o#Communio": [
+{
+"chant": "781",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-27o#Graduale": [
+{
+"chant": "914",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/12-28#Communio": [
+{
+"chant": "4760",
+"genre": "co",
+"score": 1.0
+}
+],
+"Sancti/12-28#Graduale": [
+{
+"chant": "661",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "432",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-28#GradualeP": [
+{
+"chant": "661",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "800",
+"genre": "al",
+"score": 1.0
+}
+],
+"Sancti/12-28#Introitus": [
+{
+"chant": "350",
+"genre": "in",
+"score": 1.0
+}
+],
+"Sancti/12-28#Tractus": [
+{
+"chant": "240",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Sancti/12-29#Graduale": [
+{
+"chant": "1220",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Sancti/12-29#Introitus": [
+{
+"chant": "74",
+"genre": "in",
+"score": 0.958
+}
+],
+"Sancti/12-31#Graduale": [
+{
+"chant": "1350",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "235",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/093-3#Communio": [
+{
+"chant": "496",
+"genre": "co",
+"score": 0.993
+}
+],
+"Tempora/093-3#Graduale": [
+{
+"chant": "1044",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/093-3#GradualeL1": [
+{
+"chant": "472",
+"genre": "gr",
+"score": 0.967
+}
+],
+"Tempora/093-3#Introitus": [
+{
+"chant": "1323",
+"genre": "in",
+"score": 0.985
+}
+],
+"Tempora/093-3#Offertorium": [
+{
+"chant": "810",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/093-5#Communio": [
+{
+"chant": "828",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/093-5#Introitus": [
+{
+"chant": "864",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/093-5#Offertorium": [
+{
+"chant": "1359",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/093-6#Communio": [
+{
+"chant": "1149",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/093-6#GradualeL1": [
+{
+"chant": "332",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/093-6#GradualeL2": [
+{
+"chant": "1226",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/093-6#GradualeL4": [
+{
+"chant": "44",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/093-6#Introitus": [
+{
+"chant": "450",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/093-6#Offertorium": [
+{
+"chant": "542",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Adv1-0#Communio": [
+{
+"chant": "1036",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Adv1-0#Graduale": [
+{
+"chant": "1115",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1169",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv1-0#GradualeF": [
+{
+"chant": "1169",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv1-0#Introitus": [
+{
+"chant": "132",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Adv1-0#Offertorium": [
+{
+"chant": "7437",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Adv2-0#Communio": [
+{
+"chant": "966",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Adv2-0#Graduale": [
+{
+"chant": "1480",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1268",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv2-0#GradualeF": [
+{
+"chant": "1268",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv2-0#Introitus": [
+{
+"chant": "356",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Adv2-0#Offertorium": [
+{
+"chant": "7442",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Adv3-0#Communio": [
+{
+"chant": "218",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Adv3-0#Graduale": [
+{
+"chant": "855",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1007",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-0#GradualeF": [
+{
+"chant": "1007",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-0#Introitus": [
+{
+"chant": "4287",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Adv3-0#Offertorium": [
+{
+"chant": "113",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Adv3-3#Graduale": [
+{
+"chant": "284",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-3#GradualeL1": [
+{
+"chant": "756",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-3#Introitus": [
+{
+"chant": "79",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Adv3-3#Offertorium": [
+{
+"chant": "290",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Adv3-5#Communio": [
+{
+"chant": "439",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Adv3-5#Graduale": [
+{
+"chant": "1055",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-5#Introitus": [
+{
+"chant": "86",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Adv3-5#Offertorium": [
+{
+"chant": "7442",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#Communio": [
+{
+"chant": "88",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#Graduale": [
+{
+"chant": "1157",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#GradualeL1": [
+{
+"chant": "698",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#GradualeL2": [
+{
+"chant": "203",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#GradualeL3": [
+{
+"chant": "38",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#GradualeL4": [
+{
+"chant": "506",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#Introitus": [
+{
+"chant": "169",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Adv3-6#Offertorium": [
+{
+"chant": "929",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Adv4-0#Graduale": [
+{
+"chant": "4958",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "284",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv4-0#GradualeF": [
+{
+"chant": "284",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Adv4-0#Introitus": [
+{
+"chant": "79",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Adv4-0#Offertorium": [
+{
+"chant": "843",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0#Communio": [
+{
+"chant": "626",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0#Graduale": [
+{
+"chant": "816",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "260",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0#Introitus": [
+{
+"chant": "336",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0#Offertorium": [
+{
+"chant": "93",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0#Tractus": [
+{
+"chant": "1153",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0a#Communio": [
+{
+"chant": "705",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0a#Graduale": [
+{
+"chant": "253",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "553",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0a#Introitus": [
+{
+"chant": "20",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Epi1-0a#Offertorium": [
+{
+"chant": "6611",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Epi2-0#Communio": [
+{
+"chant": "5103",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Epi2-0#Graduale": [
+{
+"chant": "538",
+"genre": "al",
+"score": 0.875
+},
+{
+"chant": "932",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Epi2-0#Introitus": [
+{
+"chant": "13",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Epi2-0#Offertorium": [
+{
+"chant": "4862",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Epi3-0#Communio": [
+{
+"chant": "1148",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Epi3-0#Graduale": [
+{
+"chant": "1001",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1173",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Epi3-0#Introitus": [
+{
+"chant": "1123",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Epi3-0#Offertorium": [
+{
+"chant": "47",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Epi5-0#Graduale": [
+{
+"chant": "1001",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1173",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Epi5-0#Offertorium": [
+{
+"chant": "47",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Epi6-0#Offertorium": [
+{
+"chant": "47",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Nat1-0#Communio": [
+{
+"chant": "1282",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Nat1-0#Graduale": [
+{
+"chant": "714",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1308",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Nat1-0#Introitus": [
+{
+"chant": "564",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Nat1-0#Offertorium": [
+{
+"chant": "4933",
+"genre": "of",
+"score": 0.973
+}
+],
+"Tempora/Nat2-0#Communio": [
+{
+"chant": "8",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Nat2-0#Graduale": [
+{
+"chant": "1",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "670",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Nat2-0#GradualeP": [
+{
+"chant": "954",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Nat2-0#Introitus": [
+{
+"chant": "1033",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Nat2-0#Offertorium": [
+{
+"chant": "980",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Nat2-0#Tractus": [
+{
+"chant": "1167",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Nat30#Communio": [
+{
+"chant": "1139",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Nat30#Introitus": [
+{
+"chant": "72",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Nat30#Offertorium": [
+{
+"chant": "1274",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-0#Communio": [
+{
+"chant": "952",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-0#Graduale": [
+{
+"chant": "761",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1075",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-0#Introitus": [
+{
+"chant": "1043",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-0#Offertorium": [
+{
+"chant": "725",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-0#Sequentia": [
+{
+"chant": "4209",
+"genre": "se",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-1#Communio": [
+{
+"chant": "121",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-1#Graduale": [
+{
+"chant": "377",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1150",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-1#Introitus": [
+{
+"chant": "1315",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-1#Offertorium": [
+{
+"chant": "789",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-2#Communio": [
+{
+"chant": "243",
+"genre": "co",
+"score": 0.928
+}
+],
+"Tempora/Pasc0-2#Graduale": [
+{
+"chant": "438",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1188",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-2#Introitus": [
+{
+"chant": "1135",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-2#Offertorium": [
+{
+"chant": "869",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-2t#Communio": [
+{
+"chant": "243",
+"genre": "co",
+"score": 0.928
+}
+],
+"Tempora/Pasc0-2t#Graduale": [
+{
+"chant": "568",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "438",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-2t#Introitus": [
+{
+"chant": "1135",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-2t#Offertorium": [
+{
+"chant": "869",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-3#Communio": [
+{
+"chant": "593",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-3#Graduale": [
+{
+"chant": "1217",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "416",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-3#Introitus": [
+{
+"chant": "997",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-3#Offertorium": [
+{
+"chant": "4818",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-3t#Communio": [
+{
+"chant": "593",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-3t#Graduale": [
+{
+"chant": "6041",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "568",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1217",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-3t#Offertorium": [
+{
+"chant": "4818",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-4#Communio": [
+{
+"chant": "1219",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-4#Graduale": [
+{
+"chant": "215",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "975",
+"genre": "gr",
+"score": 0.935
+}
+],
+"Tempora/Pasc0-4#Introitus": [
+{
+"chant": "1332",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-4#Offertorium": [
+{
+"chant": "1129",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-4t#Communio": [
+{
+"chant": "1219",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-4t#Graduale": [
+{
+"chant": "568",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "215",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-4t#Offertorium": [
+{
+"chant": "1129",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-5#Communio": [
+{
+"chant": "1260",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-5#Graduale": [
+{
+"chant": "627",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1305",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-5#Introitus": [
+{
+"chant": "758",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-5#Offertorium": [
+{
+"chant": "4932",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-5t#Communio": [
+{
+"chant": "1260",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-5t#Graduale": [
+{
+"chant": "866",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "627",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "568",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-5t#Offertorium": [
+{
+"chant": "4932",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6#Communio": [
+{
+"chant": "1293",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6#Graduale": [
+{
+"chant": "568",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "661",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6#Introitus": [
+{
+"chant": "974",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6#Offertorium": [
+{
+"chant": "941",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6t#Communio": [
+{
+"chant": "1293",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6t#Graduale": [
+{
+"chant": "568",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "661",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6t#Introitus": [
+{
+"chant": "974",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc0-6t#Offertorium": [
+{
+"chant": "941",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc1-0#Communio": [
+{
+"chant": "953",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc1-0#Graduale": [
+{
+"chant": "1042",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "275",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc1-0#Introitus": [
+{
+"chant": "25",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc1-0#Offertorium": [
+{
+"chant": "789",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-0#Communio": [
+{
+"chant": "95",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-0#Graduale": [
+{
+"chant": "912",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1220",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-0#Introitus": [
+{
+"chant": "7213",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-0#Offertorium": [
+{
+"chant": "924",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-3#Communio": [
+{
+"chant": "7212",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-3#Graduale": [
+{
+"chant": "1324",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "213",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-3#Introitus": [
+{
+"chant": "5757",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc2-3#Offertorium": [
+{
+"chant": "845",
+"genre": "of",
+"score": 0.938
+}
+],
+"Tempora/Pasc3-0#Communio": [
+{
+"chant": "813",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc3-0#Graduale": [
+{
+"chant": "446",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1341",
+"genre": "al",
+"score": 0.939
+}
+],
+"Tempora/Pasc3-0#Introitus": [
+{
+"chant": "536",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc3-0#Offertorium": [
+{
+"chant": "668",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc3-0r#Communio": [
+{
+"chant": "813",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc3-0r#Graduale": [
+{
+"chant": "446",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1341",
+"genre": "al",
+"score": 0.939
+}
+],
+"Tempora/Pasc3-0r#Offertorium": [
+{
+"chant": "668",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc3-0t#Communio": [
+{
+"chant": "7212",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc3-0t#Graduale": [
+{
+"chant": "1324",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "213",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc3-0t#Offertorium": [
+{
+"chant": "845",
+"genre": "of",
+"score": 0.938
+}
+],
+"Tempora/Pasc4-0#Communio": [
+{
+"chant": "6726",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc4-0#Graduale": [
+{
+"chant": "1348",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "6041",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc4-0#Introitus": [
+{
+"chant": "42",
+"genre": "in",
+"score": 0.963
+}
+],
+"Tempora/Pasc4-0#Offertorium": [
+{
+"chant": "4862",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc4-0t#Communio": [
+{
+"chant": "6726",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc4-0t#Graduale": [
+{
+"chant": "1348",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "6041",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc4-0t#Introitus": [
+{
+"chant": "42",
+"genre": "in",
+"score": 0.963
+}
+],
+"Tempora/Pasc4-0t#Offertorium": [
+{
+"chant": "4862",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-0#Communio": [
+{
+"chant": "5304",
+"genre": "co",
+"score": 0.981
+}
+],
+"Tempora/Pasc5-0#Graduale": [
+{
+"chant": "1040",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "633",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-0#Introitus": [
+{
+"chant": "6200",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-0#Offertorium": [
+{
+"chant": "860",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-0t#Communio": [
+{
+"chant": "5304",
+"genre": "co",
+"score": 0.981
+}
+],
+"Tempora/Pasc5-0t#Graduale": [
+{
+"chant": "1040",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "633",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-0t#Introitus": [
+{
+"chant": "6200",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-0t#Offertorium": [
+{
+"chant": "860",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-1#Communio": [
+{
+"chant": "5618",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-1#Introitus": [
+{
+"chant": "939",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-1#Offertorium": [
+{
+"chant": "5910",
+"genre": "of",
+"score": 0.992
+}
+],
+"Tempora/Pasc5-1t#Communio": [
+{
+"chant": "5618",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-1t#Introitus": [
+{
+"chant": "939",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-1t#Offertorium": [
+{
+"chant": "5910",
+"genre": "of",
+"score": 0.992
+}
+],
+"Tempora/Pasc5-3#Communio": [
+{
+"chant": "5304",
+"genre": "co",
+"score": 0.981
+}
+],
+"Tempora/Pasc5-3#Graduale": [
+{
+"chant": "1040",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "633",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-3#Introitus": [
+{
+"chant": "6200",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-3#Offertorium": [
+{
+"chant": "860",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-4#Communio": [
+{
+"chant": "263",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-4#Graduale": [
+{
+"chant": "17",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "57",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-4#Introitus": [
+{
+"chant": "1355",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc5-4#Offertorium": [
+{
+"chant": "6403",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc6-0#Communio": [
+{
+"chant": "1091",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc6-0#Graduale": [
+{
+"chant": "107",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "405",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc6-0#Introitus": [
+{
+"chant": "990",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc6-0#Offertorium": [
+{
+"chant": "6403",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc6-6r#Communio": [
+{
+"chant": "255",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc6-6r#Introitus": [
+{
+"chant": "418",
+"genre": "in",
+"score": 0.982
+}
+],
+"Tempora/Pasc6-6r#Offertorium": [
+{
+"chant": "1176",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-0#Communio": [
+{
+"chant": "1041",
+"genre": "co",
+"score": 0.909
+}
+],
+"Tempora/Pasc7-0#Graduale": [
+{
+"chant": "99",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-0#Introitus": [
+{
+"chant": "861",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-0#Offertorium": [
+{
+"chant": "361",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-0#Sequentia": [
+{
+"chant": "68",
+"genre": "se",
+"score": 0.998
+}
+],
+"Tempora/Pasc7-1#Communio": [
+{
+"chant": "1151",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-1#Graduale": [
+{
+"chant": "101",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-1#Introitus": [
+{
+"chant": "715",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-1#Offertorium": [
+{
+"chant": "869",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-2#Communio": [
+{
+"chant": "333",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-2#Graduale": [
+{
+"chant": "1197",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-2#Introitus": [
+{
+"chant": "1278",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-2#Offertorium": [
+{
+"chant": "4818",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-3#Graduale": [
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-3#Offertorium": [
+{
+"chant": "1218",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-4#Communio": [
+{
+"chant": "1041",
+"genre": "co",
+"score": 0.909
+}
+],
+"Tempora/Pasc7-4#Graduale": [
+{
+"chant": "99",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-4#Introitus": [
+{
+"chant": "861",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-4#Offertorium": [
+{
+"chant": "361",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-4t#Communio": [
+{
+"chant": "1041",
+"genre": "co",
+"score": 0.909
+}
+],
+"Tempora/Pasc7-4t#Graduale": [
+{
+"chant": "99",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-4t#Introitus": [
+{
+"chant": "861",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-4t#Offertorium": [
+{
+"chant": "361",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5#Communio": [
+{
+"chant": "981",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5#Graduale": [
+{
+"chant": "119",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5#Introitus": [
+{
+"chant": "557",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5#Offertorium": [
+{
+"chant": "668",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5t#Communio": [
+{
+"chant": "981",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5t#Graduale": [
+{
+"chant": "119",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "181",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5t#Introitus": [
+{
+"chant": "557",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-5t#Offertorium": [
+{
+"chant": "668",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-6#Communio": [
+{
+"chant": "6930",
+"genre": "co",
+"score": 0.85
+}
+],
+"Tempora/Pasc7-6#Introitus": [
+{
+"chant": "1228",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-6#Offertorium": [
+{
+"chant": "987",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-6t#Communio": [
+{
+"chant": "6930",
+"genre": "co",
+"score": 0.85
+}
+],
+"Tempora/Pasc7-6t#Graduale": [
+{
+"chant": "1247",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pasc7-6t#Offertorium": [
+{
+"chant": "987",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0#Communio": [
+{
+"chant": "391",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0#Graduale": [
+{
+"chant": "1289",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "965",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0#Offertorium": [
+{
+"chant": "1303",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0a#Communio": [
+{
+"chant": "639",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0a#Graduale": [
+{
+"chant": "103",
+"genre": "al",
+"score": 0.98
+},
+{
+"chant": "399",
+"genre": "gr",
+"score": 0.967
+}
+],
+"Tempora/Pent01-0a#Introitus": [
+{
+"chant": "146",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0a#Offertorium": [
+{
+"chant": "293",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0r#Communio": [
+{
+"chant": "391",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0r#Graduale": [
+{
+"chant": "1289",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "965",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0r#Introitus": [
+{
+"chant": "349",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0r#Offertorium": [
+{
+"chant": "1303",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0t#Communio": [
+{
+"chant": "391",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0t#Graduale": [
+{
+"chant": "1289",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "965",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent01-0t#Offertorium": [
+{
+"chant": "1303",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent01-4#Communio": [
+{
+"chant": "577",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent01-4#Graduale": [
+{
+"chant": "774",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1230",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent01-4#Introitus": [
+{
+"chant": "715",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent01-4#Offertorium": [
+{
+"chant": "645",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent01-4#Sequentia": [
+{
+"chant": "308",
+"genre": "se",
+"score": 0.998
+}
+],
+"Tempora/Pent02-0#Communio": [
+{
+"chant": "794",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent02-0#Graduale": [
+{
+"chant": "801",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "15546",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent02-0#Introitus": [
+{
+"chant": "1111",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent02-0#Offertorium": [
+{
+"chant": "848",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent02-5#Communio": [
+{
+"chant": "1356",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent02-5#Graduale": [
+{
+"chant": "907",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1035",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent02-5#Introitus": [
+{
+"chant": "1320",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent02-5#Offertorium": [
+{
+"chant": "628",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent02-5#Tractus": [
+{
+"chant": "1244",
+"genre": "tr",
+"score": 0.989
+}
+],
+"Tempora/Pent02-5o#Communio": [
+{
+"chant": "3604",
+"genre": "co",
+"score": 0.991
+}
+],
+"Tempora/Pent02-5o#Graduale": [
+{
+"chant": "3230",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "3688",
+"genre": "gr",
+"score": 0.975
+}
+],
+"Tempora/Pent02-5o#Introitus": [
+{
+"chant": "3613",
+"genre": "in",
+"score": 0.96
+}
+],
+"Tempora/Pent03-0r#Communio": [
+{
+"chant": "1058",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent03-0r#Graduale": [
+{
+"chant": "1264",
+"genre": "al",
+"score": 0.984
+},
+{
+"chant": "423",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent03-0r#Introitus": [
+{
+"chant": "1235",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent03-0r#Offertorium": [
+{
+"chant": "1328",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent04-0#Communio": [
+{
+"chant": "512",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent04-0#Graduale": [
+{
+"chant": "727",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "332",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent04-0#Introitus": [
+{
+"chant": "5221",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent04-0#Offertorium": [
+{
+"chant": "5998",
+"genre": "of",
+"score": 0.988
+}
+],
+"Tempora/Pent04-0o#Communio": [
+{
+"chant": "512",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent04-0o#Graduale": [
+{
+"chant": "727",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "332",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent04-0o#Offertorium": [
+{
+"chant": "5998",
+"genre": "of",
+"score": 0.988
+}
+],
+"Tempora/Pent05-0#Communio": [
+{
+"chant": "574",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent05-0#Graduale": [
+{
+"chant": "797",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1226",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent05-0#Introitus": [
+{
+"chant": "396",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent05-0#Offertorium": [
+{
+"chant": "5686",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent05-0o#Communio": [
+{
+"chant": "574",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent05-0o#Graduale": [
+{
+"chant": "797",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1226",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent05-0o#Introitus": [
+{
+"chant": "396",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent05-0o#Offertorium": [
+{
+"chant": "5686",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent06-0#Communio": [
+{
+"chant": "1079",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent06-0#Graduale": [
+{
+"chant": "5743",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1046",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent06-0#Introitus": [
+{
+"chant": "522",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent06-0#Offertorium": [
+{
+"chant": "265",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent07-0#Communio": [
+{
+"chant": "6542",
+"genre": "co",
+"score": 0.943
+}
+],
+"Tempora/Pent07-0#Graduale": [
+{
+"chant": "77",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1022",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent07-0#Introitus": [
+{
+"chant": "1136",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent07-0#Offertorium": [
+{
+"chant": "5001",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent08-0#Communio": [
+{
+"chant": "1203",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent08-0#Graduale": [
+{
+"chant": "709",
+"genre": "al",
+"score": 0.818
+},
+{
+"chant": "886",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent08-0#Introitus": [
+{
+"chant": "1254",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent08-0#Offertorium": [
+{
+"chant": "1080",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent09-0#Communio": [
+{
+"chant": "6212",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent09-0#Graduale": [
+{
+"chant": "879",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1205",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent09-0#Introitus": [
+{
+"chant": "6270",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent09-0#Offertorium": [
+{
+"chant": "6109",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent10-0#Communio": [
+{
+"chant": "1221",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent10-0#Graduale": [
+{
+"chant": "1052",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1088",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent10-0#Introitus": [
+{
+"chant": "299",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent10-0#Offertorium": [
+{
+"chant": "962",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent11-0#Communio": [
+{
+"chant": "1145",
+"genre": "co",
+"score": 0.964
+}
+],
+"Tempora/Pent11-0#Graduale": [
+{
+"chant": "580",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "865",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent11-0#Introitus": [
+{
+"chant": "1026",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent11-0#Offertorium": [
+{
+"chant": "648",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent12-0#Communio": [
+{
+"chant": "1245",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent12-0#Graduale": [
+{
+"chant": "1082",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1182",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent12-0#Introitus": [
+{
+"chant": "501",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent12-0#Offertorium": [
+{
+"chant": "5655",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent13-0#Communio": [
+{
+"chant": "388",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent13-0#Graduale": [
+{
+"chant": "820",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1232",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent13-0#Introitus": [
+{
+"chant": "691",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent13-0#Offertorium": [
+{
+"chant": "967",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent14-0#Communio": [
+{
+"chant": "868",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent14-0#Graduale": [
+{
+"chant": "1246",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "547",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent14-0#Introitus": [
+{
+"chant": "1071",
+"genre": "in",
+"score": 0.989
+}
+],
+"Tempora/Pent14-0#Offertorium": [
+{
+"chant": "747",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent15-0#Graduale": [
+{
+"chant": "1352",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1338",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent15-0#Introitus": [
+{
+"chant": "1165",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent15-0#Offertorium": [
+{
+"chant": "182",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent16-0#Communio": [
+{
+"chant": "1318",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent16-0#Graduale": [
+{
+"chant": "1077",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1173",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent16-0#Introitus": [
+{
+"chant": "335",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent16-0#Offertorium": [
+{
+"chant": "993",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent17-0#Communio": [
+{
+"chant": "1134",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent17-0#Graduale": [
+{
+"chant": "595",
+"genre": "al",
+"score": 0.88
+},
+{
+"chant": "1044",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent17-0#Introitus": [
+{
+"chant": "1284",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent17-0#Offertorium": [
+{
+"chant": "652",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent18-0#Communio": [
+{
+"chant": "404",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent18-0#Graduale": [
+{
+"chant": "1097",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1011",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent18-0#Introitus": [
+{
+"chant": "172",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent18-0#Offertorium": [
+{
+"chant": "838",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent19-0#Communio": [
+{
+"chant": "479",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent19-0#Graduale": [
+{
+"chant": "1192",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "44",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent19-0#Introitus": [
+{
+"chant": "389",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent19-0#Offertorium": [
+{
+"chant": "5929",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent20-0#Graduale": [
+{
+"chant": "745",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1230",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent20-0#Introitus": [
+{
+"chant": "1056",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent20-0#Offertorium": [
+{
+"chant": "812",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent21-0#Communio": [
+{
+"chant": "1290",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent21-0#Graduale": [
+{
+"chant": "1380",
+"genre": "al",
+"score": 0.978
+},
+{
+"chant": "16270",
+"genre": "gr",
+"score": 0.961
+}
+],
+"Tempora/Pent21-0#Introitus": [
+{
+"chant": "1047",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent21-0#Offertorium": [
+{
+"chant": "7542",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent22-0#Communio": [
+{
+"chant": "464",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent22-0#Graduale": [
+{
+"chant": "933",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "614",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Pent22-0#Introitus": [
+{
+"chant": "1271",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent22-0#Offertorium": [
+{
+"chant": "5756",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Pent23-0#Communio": [
+{
+"chant": "592",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Pent23-0#Graduale": [
+{
+"chant": "331",
+"genre": "al",
+"score": 0.811
+},
+{
+"chant": "16279",
+"genre": "gr",
+"score": 0.975
+}
+],
+"Tempora/Pent23-0#Introitus": [
+{
+"chant": "735",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Pent23-0#Offertorium": [
+{
+"chant": "986",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad1-0#Communio": [
+{
+"chant": "6971",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad1-0#Graduale": [
+{
+"chant": "927",
+"genre": "gr",
+"score": 0.991
+},
+{
+"chant": "889",
+"genre": "tr",
+"score": 0.995
+}
+],
+"Tempora/Quad1-0#Introitus": [
+{
+"chant": "327",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad1-0#Offertorium": [
+{
+"chant": "294",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad1-1#Communio": [
+{
+"chant": "623",
+"genre": "co",
+"score": 0.975
+}
+],
+"Tempora/Quad1-1#Graduale": [
+{
+"chant": "1226",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-1#Introitus": [
+{
+"chant": "1330",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad1-1#Offertorium": [
+{
+"chant": "6420",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad1-2#Communio": [
+{
+"chant": "384",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad1-2#Graduale": [
+{
+"chant": "44",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-2#Introitus": [
+{
+"chant": "549",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad1-2#Offertorium": [
+{
+"chant": "967",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad1-3#Communio": [
+{
+"chant": "373",
+"genre": "co",
+"score": 0.988
+}
+],
+"Tempora/Quad1-3#Graduale": [
+{
+"chant": "276",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-3#GradualeL1": [
+{
+"chant": "596",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-3#Introitus": [
+{
+"chant": "1294",
+"genre": "in",
+"score": 0.993
+}
+],
+"Tempora/Quad1-3#Offertorium": [
+{
+"chant": "810",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad1-4#Communio": [
+{
+"chant": "782",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad1-4#Graduale": [
+{
+"chant": "1088",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-4#Introitus": [
+{
+"chant": "956",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad1-4#Offertorium": [
+{
+"chant": "747",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad1-5#Communio": [
+{
+"chant": "484",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad1-5#Graduale": [
+{
+"chant": "1117",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-5#Introitus": [
+{
+"chant": "100",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad1-5#Offertorium": [
+{
+"chant": "1359",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#Communio": [
+{
+"chant": "131",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#Graduale": [
+{
+"chant": "1247",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#GradualeL1": [
+{
+"chant": "332",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#GradualeL2": [
+{
+"chant": "1226",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#GradualeL3": [
+{
+"chant": "1046",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#GradualeL4": [
+{
+"chant": "44",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#Introitus": [
+{
+"chant": "238",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad1-6#Offertorium": [
+{
+"chant": "542",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad2-0#Graduale": [
+{
+"chant": "596",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "455",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad2-0#Introitus": [
+{
+"chant": "1294",
+"genre": "in",
+"score": 0.993
+}
+],
+"Tempora/Quad2-0#Offertorium": [
+{
+"chant": "810",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad2-1#Communio": [
+{
+"chant": "998",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad2-1#Graduale": [
+{
+"chant": "851",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad2-1#Introitus": [
+{
+"chant": "1314",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad2-1#Offertorium": [
+{
+"chant": "5686",
+"genre": "of",
+"score": 0.937
+}
+],
+"Tempora/Quad2-2#Communio": [
+{
+"chant": "639",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad2-2#Graduale": [
+{
+"chant": "423",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad2-2#Introitus": [
+{
+"chant": "751",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad2-2#Offertorium": [
+{
+"chant": "4947",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad2-3#Communio": [
+{
+"chant": "5956",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad2-3#Graduale": [
+{
+"chant": "296",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad2-3#Introitus": [
+{
+"chant": "323",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad2-3#Offertorium": [
+{
+"chant": "962",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad2-4#Graduale": [
+{
+"chant": "332",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad2-4#Introitus": [
+{
+"chant": "501",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad2-4#Offertorium": [
+{
+"chant": "5655",
+"genre": "of",
+"score": 0.972
+}
+],
+"Tempora/Quad2-5#Communio": [
+{
+"chant": "1159",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad2-5#Graduale": [
+{
+"chant": "15546",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad2-5#Introitus": [
+{
+"chant": "830",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad2-5#Offertorium": [
+{
+"chant": "993",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad2-6#Communio": [
+{
+"chant": "1066",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad2-6#Graduale": [
+{
+"chant": "1338",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad2-6#Introitus": [
+{
+"chant": "4282",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad2-6#Offertorium": [
+{
+"chant": "5998",
+"genre": "of",
+"score": 0.988
+}
+],
+"Tempora/Quad3-0#Communio": [
+{
+"chant": "1090",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-0#Graduale": [
+{
+"chant": "1298",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "1329",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-0#Introitus": [
+{
+"chant": "916",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-1#Communio": [
+{
+"chant": "931",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-1#Graduale": [
+{
+"chant": "118",
+"genre": "gr",
+"score": 0.922
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-1#Introitus": [
+{
+"chant": "5209",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-1#Offertorium": [
+{
+"chant": "842",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-2#Communio": [
+{
+"chant": "1340",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-2#Graduale": [
+{
+"chant": "1210",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-2#Introitus": [
+{
+"chant": "558",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-2#Offertorium": [
+{
+"chant": "47",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3#Communio": [
+{
+"chant": "531",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3#Graduale": [
+{
+"chant": "562",
+"genre": "gr",
+"score": 0.98
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3#Introitus": [
+{
+"chant": "4296",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3#Offertorium": [
+{
+"chant": "1369",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3t#Communio": [
+{
+"chant": "531",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3t#Graduale": [
+{
+"chant": "562",
+"genre": "gr",
+"score": 0.98
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3t#Introitus": [
+{
+"chant": "4296",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-3t#Offertorium": [
+{
+"chant": "1369",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4#Communio": [
+{
+"chant": "479",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4#Graduale": [
+{
+"chant": "1230",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4#Introitus": [
+{
+"chant": "389",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4#Offertorium": [
+{
+"chant": "5929",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4t#Communio": [
+{
+"chant": "479",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4t#Graduale": [
+{
+"chant": "1230",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4t#Introitus": [
+{
+"chant": "389",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-4t#Offertorium": [
+{
+"chant": "5929",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5#Communio": [
+{
+"chant": "894",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5#Graduale": [
+{
+"chant": "865",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5#Introitus": [
+{
+"chant": "733",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5#Offertorium": [
+{
+"chant": "293",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5t#Communio": [
+{
+"chant": "894",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5t#Graduale": [
+{
+"chant": "865",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5t#Introitus": [
+{
+"chant": "733",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad3-5t#Offertorium": [
+{
+"chant": "293",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-6#Communio": [
+{
+"chant": "1010",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-6#Graduale": [
+{
+"chant": "1121",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-6#Introitus": [
+{
+"chant": "5005",
+"genre": "in",
+"score": 0.989
+}
+],
+"Tempora/Quad3-6#Offertorium": [
+{
+"chant": "5995",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad3-6t#Communio": [
+{
+"chant": "1010",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad3-6t#Graduale": [
+{
+"chant": "1121",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad3-6t#Introitus": [
+{
+"chant": "5005",
+"genre": "in",
+"score": 0.989
+}
+],
+"Tempora/Quad3-6t#Offertorium": [
+{
+"chant": "5995",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0#Communio": [
+{
+"chant": "1353",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0#Graduale": [
+{
+"chant": "1011",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "1377",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0#Introitus": [
+{
+"chant": "653",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0#Offertorium": [
+{
+"chant": "899",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0t#Communio": [
+{
+"chant": "1353",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0t#Graduale": [
+{
+"chant": "1011",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "1377",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0t#Introitus": [
+{
+"chant": "653",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-0t#Offertorium": [
+{
+"chant": "899",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-1#Communio": [
+{
+"chant": "1316",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-1#Graduale": [
+{
+"chant": "886",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-1#Offertorium": [
+{
+"chant": "6611",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-2#Communio": [
+{
+"chant": "1296",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-2#Graduale": [
+{
+"chant": "152",
+"genre": "gr",
+"score": 0.95
+}
+],
+"Tempora/Quad4-2#Introitus": [
+{
+"chant": "904",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-2#Offertorium": [
+{
+"chant": "182",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-2t#Communio": [
+{
+"chant": "1296",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-2t#Graduale": [
+{
+"chant": "152",
+"genre": "gr",
+"score": 0.95
+}
+],
+"Tempora/Quad4-2t#Offertorium": [
+{
+"chant": "182",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3#Communio": [
+{
+"chant": "989",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3#Graduale": [
+{
+"chant": "1044",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3#GradualeL1": [
+{
+"chant": "1022",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3#Introitus": [
+{
+"chant": "5545",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3#Offertorium": [
+{
+"chant": "860",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3t#Communio": [
+{
+"chant": "989",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3t#Graduale": [
+{
+"chant": "1044",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3t#GradualeL1": [
+{
+"chant": "1022",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-3t#Offertorium": [
+{
+"chant": "860",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-4#Communio": [
+{
+"chant": "1318",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-4#Graduale": [
+{
+"chant": "1232",
+"genre": "gr",
+"score": 0.985
+}
+],
+"Tempora/Quad4-4#Introitus": [
+{
+"chant": "864",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-4#Offertorium": [
+{
+"chant": "5835",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-4t#Communio": [
+{
+"chant": "1318",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-4t#Graduale": [
+{
+"chant": "1232",
+"genre": "gr",
+"score": 0.985
+}
+],
+"Tempora/Quad4-4t#Introitus": [
+{
+"chant": "864",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-4t#Offertorium": [
+{
+"chant": "5835",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad4-5#Communio": [
+{
+"chant": "7057",
+"genre": "co",
+"score": 0.987
+}
+],
+"Tempora/Quad4-5#Graduale": [
+{
+"chant": "547",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-5#Introitus": [
+{
+"chant": "572",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-5t#Communio": [
+{
+"chant": "7057",
+"genre": "co",
+"score": 0.987
+}
+],
+"Tempora/Quad4-5t#Graduale": [
+{
+"chant": "547",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-6#Communio": [
+{
+"chant": "278",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-6#Graduale": [
+{
+"chant": "818",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-6#Introitus": [
+{
+"chant": "6049",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-6#Offertorium": [
+{
+"chant": "18155",
+"genre": "of",
+"score": 0.973
+}
+],
+"Tempora/Quad4-6t#Communio": [
+{
+"chant": "278",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad4-6t#Graduale": [
+{
+"chant": "818",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad4-6t#Introitus": [
+{
+"chant": "6049",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad4-6t#Offertorium": [
+{
+"chant": "18155",
+"genre": "of",
+"score": 0.973
+}
+],
+"Tempora/Quad5-0#Communio": [
+{
+"chant": "726",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-0#Graduale": [
+{
+"chant": "760",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "5139",
+"genre": "tr",
+"score": 0.995
+}
+],
+"Tempora/Quad5-0#Introitus": [
+{
+"chant": "78",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-0#Offertorium": [
+{
+"chant": "318",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad5-1#Communio": [
+{
+"chant": "81",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-1#Graduale": [
+{
+"chant": "621",
+"genre": "gr",
+"score": 0.959
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-1#Introitus": [
+{
+"chant": "138",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-1#Offertorium": [
+{
+"chant": "848",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad5-2#Communio": [
+{
+"chant": "433",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-2#Graduale": [
+{
+"chant": "665",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-2#Introitus": [
+{
+"chant": "60",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-2#Offertorium": [
+{
+"chant": "1328",
+"genre": "of",
+"score": 0.993
+}
+],
+"Tempora/Quad5-2t#Communio": [
+{
+"chant": "433",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-2t#Graduale": [
+{
+"chant": "665",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-2t#Introitus": [
+{
+"chant": "60",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-2t#Offertorium": [
+{
+"chant": "1328",
+"genre": "of",
+"score": 0.993
+}
+],
+"Tempora/Quad5-3#Communio": [
+{
+"chant": "141",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-3#Graduale": [
+{
+"chant": "277",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-3#Introitus": [
+{
+"chant": "1054",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-3#Offertorium": [
+{
+"chant": "245",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad5-3t#Communio": [
+{
+"chant": "141",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-3t#Graduale": [
+{
+"chant": "277",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-3t#Introitus": [
+{
+"chant": "1054",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-3t#Offertorium": [
+{
+"chant": "245",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad5-4#Communio": [
+{
+"chant": "696",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-4#Graduale": [
+{
+"chant": "282",
+"genre": "gr",
+"score": 0.992
+}
+],
+"Tempora/Quad5-4#Introitus": [
+{
+"chant": "1056",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-4#Offertorium": [
+{
+"chant": "812",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad5-4t#Communio": [
+{
+"chant": "696",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-4t#Graduale": [
+{
+"chant": "282",
+"genre": "gr",
+"score": 0.992
+}
+],
+"Tempora/Quad5-4t#Introitus": [
+{
+"chant": "1056",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-4t#Offertorium": [
+{
+"chant": "812",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5#Communio": [
+{
+"chant": "1180",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5#Graduale": [
+{
+"chant": "1383",
+"genre": "gr",
+"score": 0.994
+},
+{
+"chant": "1156",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5#GradualeA": [
+{
+"chant": "853",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "1383",
+"genre": "gr",
+"score": 0.994
+}
+],
+"Tempora/Quad5-5#GradualeP": [
+{
+"chant": "1326",
+"genre": "al",
+"score": 1.0
+},
+{
+"chant": "853",
+"genre": "al",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5#Introitus": [
+{
+"chant": "149",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5#Sequentia": [
+{
+"chant": "681",
+"genre": "se",
+"score": 0.999
+}
+],
+"Tempora/Quad5-5Feria#Communio": [
+{
+"chant": "4833",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5Feria#Graduale": [
+{
+"chant": "819",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5Feria#Introitus": [
+{
+"chant": "267",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-5Feria#Offertorium": [
+{
+"chant": "408",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad5-6#Communio": [
+{
+"chant": "4833",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad5-6#Graduale": [
+{
+"chant": "819",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad5-6#Introitus": [
+{
+"chant": "267",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad5-6#Offertorium": [
+{
+"chant": "408",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad6-0#Communio": [
+{
+"chant": "650",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-0#Graduale": [
+{
+"chant": "49",
+"genre": "gr",
+"score": 0.98
+},
+{
+"chant": "9851",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-0#Introitus": [
+{
+"chant": "6256",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-0#Offertorium": [
+{
+"chant": "15065",
+"genre": "of",
+"score": 0.97
+}
+],
+"Tempora/Quad6-0r#Communio": [
+{
+"chant": "650",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-0r#Graduale": [
+{
+"chant": "49",
+"genre": "gr",
+"score": 0.98
+},
+{
+"chant": "9851",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-0r#Introitus": [
+{
+"chant": "6256",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-0r#Offertorium": [
+{
+"chant": "15065",
+"genre": "of",
+"score": 0.97
+}
+],
+"Tempora/Quad6-1#Communio": [
+{
+"chant": "6809",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-1#Graduale": [
+{
+"chant": "783",
+"genre": "gr",
+"score": 0.966
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-1#Introitus": [
+{
+"chant": "226",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-1#Offertorium": [
+{
+"chant": "411",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad6-2#Communio": [
+{
+"chant": "397",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-2#Graduale": [
+{
+"chant": "903",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-2#Introitus": [
+{
+"chant": "359",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-2#Offertorium": [
+{
+"chant": "1322",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad6-3#Communio": [
+{
+"chant": "588",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-3#Graduale": [
+{
+"chant": "824",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-3#GradualeL1": [
+{
+"chant": "1239",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-3#Introitus": [
+{
+"chant": "7108",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-3#Offertorium": [
+{
+"chant": "867",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4m1#Communio": [
+{
+"chant": "257",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4m1#Introitus": [
+{
+"chant": "1131",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4m2#Communio": [
+{
+"chant": "140",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4m2#Graduale": [
+{
+"chant": "873",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4m2#Introitus": [
+{
+"chant": "359",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4m2#Offertorium": [
+{
+"chant": "47",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4rm2#Communio": [
+{
+"chant": "140",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4rm2#Graduale": [
+{
+"chant": "873",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4rm2#Introitus": [
+{
+"chant": "359",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4rm2#Offertorium": [
+{
+"chant": "47",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4t#Communio": [
+{
+"chant": "140",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4t#Graduale": [
+{
+"chant": "873",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4t#Introitus": [
+{
+"chant": "359",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quad6-4t#Offertorium": [
+{
+"chant": "47",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quadp1-0#Communio": [
+{
+"chant": "640",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quadp1-0#Graduale": [
+{
+"chant": "222",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "926",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quadp1-0#GradualeF": [
+{
+"chant": "222",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quadp1-0#Introitus": [
+{
+"chant": "1168",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quadp1-0#Offertorium": [
+{
+"chant": "1194",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quadp2-0#Communio": [
+{
+"chant": "554",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quadp2-0#Graduale": [
+{
+"chant": "1265",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "1178",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quadp2-0#GradualeF": [
+{
+"chant": "1265",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quadp2-0#Introitus": [
+{
+"chant": "529",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-0#Communio": [
+{
+"chant": "677",
+"genre": "co",
+"score": 0.989
+}
+],
+"Tempora/Quadp3-0#Graduale": [
+{
+"chant": "850",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "6495",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-0#GradualeF": [
+{
+"chant": "850",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-0#Introitus": [
+{
+"chant": "1381",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-0#Offertorium": [
+{
+"chant": "6310",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-3#Communio": [
+{
+"chant": "582",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-3#Graduale": [
+{
+"chant": "754",
+"genre": "gr",
+"score": 1.0
+},
+{
+"chant": "425",
+"genre": "tr",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-3#Introitus": [
+{
+"chant": "533",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-3#Offertorium": [
+{
+"chant": "648",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-4#Communio": [
+{
+"chant": "1221",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-4#Graduale": [
+{
+"chant": "423",
+"genre": "gr",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-4#Introitus": [
+{
+"chant": "299",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-4#Offertorium": [
+{
+"chant": "962",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-5#Communio": [
+{
+"chant": "897",
+"genre": "co",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-5#Introitus": [
+{
+"chant": "45",
+"genre": "in",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-5#Offertorium": [
+{
+"chant": "109",
+"genre": "of",
+"score": 1.0
+}
+],
+"Tempora/Quadp3-6#Graduale": [
+{
+"chant": "229",
+"genre": "gr",
+"score": 1.0
+}
+]
+}

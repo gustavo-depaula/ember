@@ -1,0 +1,1693 @@
+{
+ "practice/a-solis-ortus-cardine": [
+  {
+   "chant": "2628",
+   "score": 1.0,
+   "as": "A solis ortus cardine [hymn, mode 3; The Liber Usualis 1961, p. 400]"
+  },
+  {
+   "chant": "11914",
+   "score": 1.0,
+   "as": "A solis ortus cardine [hymn, mode 3; Liber antiphonarius 1960, p. 266]"
+  },
+  {
+   "chant": "4247",
+   "score": 0.945,
+   "as": "A solis ortus [hymn, mode 3; Liber Hymnarius 1983, p. 22]"
+  },
+  {
+   "chant": "15754",
+   "score": 0.946,
+   "as": "A solis ortus [hymn, mode 3; Antiphonale Romanum I 2020, p. 42]"
+  },
+  {
+   "chant": "7249",
+   "score": 0.93,
+   "as": "A solis ortus [hymn, mode 3; Antiphonale Monasticum 1934, p. 242]"
+  },
+  {
+   "chant": "6724",
+   "score": 0.93,
+   "as": "A solis ortus [hymn, mode 4; Antiphonarium O.P. (Gillet) 1933, p. 354]"
+  }
+ ],
+ "practice/act-of-reparation": [
+  {
+   "chant": "3023",
+   "score": 0.892,
+   "as": "Cor Jesu [varia, mode 1; The Liber Usualis 1961, p. 1853]"
+  },
+  {
+   "chant": "3993",
+   "score": 0.892,
+   "as": "Cor Jesu sacratissimum I [antiphon, mode 1; Cantus selecti 1957, p. 252*]"
+  },
+  {
+   "chant": "4008",
+   "score": 0.892,
+   "as": "Cor Jesu sacratissimum II [antiphon, mode 4; Cantus selecti 1957, p. 252*]"
+  }
+ ],
+ "practice/ad-regias-agni-dapes": [
+  {
+   "chant": "2473",
+   "score": 1.0,
+   "as": "Ad regias Agni dapes (another chant) [hymn, mode 4; The Liber Usualis 1961, p. 814]"
+  },
+  {
+   "chant": "2932",
+   "score": 1.0,
+   "as": "Ad regias Agni dapes [hymn, mode 8; The Liber Usualis 1961, p. 812]"
+  },
+  {
+   "chant": "12282",
+   "score": 1.0,
+   "as": "Ad regias Agni dapes [hymn, mode 8; Liber antiphonarius 1960, p. 453]"
+  },
+  {
+   "chant": "12428",
+   "score": 1.0,
+   "as": "Ad regias Agni dapes (Alter tonus) [hymn, mode 4; Liber antiphonarius 1960, p. 454]"
+  }
+ ],
+ "practice/adoro-te-devote": [
+  {
+   "chant": "3020",
+   "score": 1.0,
+   "as": "Adoro te devote [hymn, mode 5; The Liber Usualis 1961, p. 1855]"
+  },
+  {
+   "chant": "4216",
+   "score": 1.0,
+   "as": "Adoro te devote [hymn, mode 5; —]"
+  },
+  {
+   "chant": "15688",
+   "score": 0.982,
+   "as": "Adoro te devote [hymn, mode 5; —]"
+  },
+  {
+   "chant": "7655",
+   "score": 0.866,
+   "as": "Adoro te devote [hymn, mode –; Cantus varii romano-seraphici 1902, p. 97]"
+  }
+ ],
+ "practice/aeterne-rerum-conditor": [
+  {
+   "chant": "13348",
+   "score": 0.999,
+   "as": "Aeterne rerum Conditor [hymn, mode 1; Liber antiphonarius 1960, p. 6]"
+  },
+  {
+   "chant": "4137",
+   "score": 0.921,
+   "as": "Aeterne rerum [hymn, mode 1; Antiphonale Monasticum 1934, p. 34]"
+  }
+ ],
+ "practice/aeterne-rex-altissime": [
+  {
+   "chant": "2092",
+   "score": 1.0,
+   "as": "Aeterne Rex altissime [hymn, mode 8; The Liber Usualis 1961, p. 952B]"
+  },
+  {
+   "chant": "10252",
+   "score": 1.0,
+   "as": "Aeterne Rex altissime [hymn, mode 4; Nocturnale Romanum 2002, p. 465]"
+  },
+  {
+   "chant": "8704",
+   "score": 0.839,
+   "as": "Aeterne Rex altissime [hymn, mode 8; Liber Hymnarius 1983, p. 92]"
+  },
+  {
+   "chant": "9801",
+   "score": 0.835,
+   "as": "Aeterne Rex altissime [hymn, mode 8; Hymnarium Cisterciense 1909, p. 54]"
+  }
+ ],
+ "practice/alma-redemptoris-mater": [
+  {
+   "chant": "1851",
+   "score": 1.0,
+   "as": "Alma Redemptoris (simple tone) [antiphon, mode 5; The Liber Usualis 1961, p. 277]"
+  },
+  {
+   "chant": "2238",
+   "score": 1.0,
+   "as": "Alma Redemptoris [antiphon, mode 5; The Liber Usualis 1961, p. 273]"
+  },
+  {
+   "chant": "11798",
+   "score": 1.0,
+   "as": "Alma Redemptoris [antiphon, mode 5; The Liber Usualis 1961, p. 277]"
+  },
+  {
+   "chant": "11878",
+   "score": 1.0,
+   "as": "Alma Redemptoris [antiphon, mode 5; The Liber Usualis 1961, p. 273]"
+  },
+  {
+   "chant": "8146",
+   "score": 1.0,
+   "as": "Alma Redemptoris (monasticum) [antiphon, mode 5; Antiphonale Monasticum 1934, p. 173]"
+  },
+  {
+   "chant": "16751",
+   "score": 1.0,
+   "as": "Alma Redemptoris (tonus simplex) [antiphon, mode 5; Antiphonale Monasticum 1934, p. 178]"
+  }
+ ],
+ "practice/anima-christi": [
+  {
+   "chant": "3022",
+   "score": 1.0,
+   "as": "Anima Christi [varia, mode 8; Chants of the Church 1956, p. 83]"
+  },
+  {
+   "chant": "8175",
+   "score": 1.0,
+   "as": "Anima Christi II [varia, mode 1; —]"
+  },
+  {
+   "chant": "8300",
+   "score": 1.0,
+   "as": "Anima Christi IV [varia, mode –; —]"
+  },
+  {
+   "chant": "18047",
+   "score": 1.0,
+   "as": "Anima Christi V [varia, mode 1; —]"
+  }
+ ],
+ "practice/apostles-creed": [
+  {
+   "chant": "9176",
+   "score": 1.0,
+   "as": "Credo in Deum [varia, mode 4; —]"
+  },
+  {
+   "chant": "17739",
+   "score": 1.0,
+   "as": "Credo Apostolorum (altera melodia) [varia, mode 8; —]"
+  }
+ ],
+ "practice/audi-benigne-conditor": [
+  {
+   "chant": "1830",
+   "score": 1.0,
+   "as": "Audi benigne Conditor [hymn, mode 2; The Liber Usualis 1961, p. 539]"
+  },
+  {
+   "chant": "12643",
+   "score": 1.0,
+   "as": "Audi benigne Conditor [hymn, mode 2; The Liber Usualis 1961, p. 539]"
+  },
+  {
+   "chant": "9732",
+   "score": 0.865,
+   "as": "Audi Benigne Conditor [hymn, mode 2; Antiphonale Monasticum 1934, p. 337]"
+  },
+  {
+   "chant": "9945",
+   "score": 0.867,
+   "as": "Audi benigne [hymn, mode 2; Antiphonarium O.P. (Gillet) 1933, p. 75]"
+  },
+  {
+   "chant": "7905",
+   "score": 0.865,
+   "as": "Audi benigne Conditor [hymn, mode 2; Hymnarium Cisterciense 1909, p. 35]"
+  },
+  {
+   "chant": "17673",
+   "score": 0.86,
+   "as": "Audi benigne conditor [hymn, mode 2; Antiphonale Monasticum Solesmense 1935, p. 337]"
+  }
+ ],
+ "practice/aurora-caelum-purpurat": [
+  {
+   "chant": "12253",
+   "score": 1.0,
+   "as": "Aurora caelum (Alter tonus) [hymn, mode 3; Liber antiphonarius 1960, p. 459]"
+  },
+  {
+   "chant": "12353",
+   "score": 1.0,
+   "as": "Aurora caelum [hymn, mode 8; Liber antiphonarius 1960, p. 458]"
+  },
+  {
+   "chant": "10087",
+   "score": 1.0,
+   "as": "Aurora caelum (Alter Tonus) [hymn, mode 3; Antiphonale Romanum 1912, p. 386]"
+  }
+ ],
+ "practice/ave-maris-stella": [
+  {
+   "chant": "1900",
+   "score": 0.995,
+   "as": "Ave maris stella (another chant) (2) [hymn, mode 7; The Liber Usualis 1961, p. 1262]"
+  },
+  {
+   "chant": "2232",
+   "score": 0.995,
+   "as": "Ave maris stella [hymn, mode 1; The Liber Usualis 1961, p. 1259]"
+  },
+  {
+   "chant": "2563",
+   "score": 0.995,
+   "as": "Ave maris stella (another chant) [hymn, mode 4; The Liber Usualis 1961, p. 1261]"
+  },
+  {
+   "chant": "14959",
+   "score": 0.993,
+   "as": "Ave Maris Stella (Off. BMV in Sab.) [hymn, mode 1; Liber antiphonarius 1960, p. [126]]"
+  },
+  {
+   "chant": "14960",
+   "score": 0.993,
+   "as": "Ave Maris Stella (Off. BMV in Sab. Alt.) [hymn, mode 7; Liber antiphonarius 1960, p. [127]]"
+  },
+  {
+   "chant": "9733",
+   "score": 0.995,
+   "as": "Ave Maris Stella [hymn, mode 1; Antiphonale Monasticum 1934, p. 712]"
+  }
+ ],
+ "practice/ave-regina-caelorum": [
+  {
+   "chant": "2153",
+   "score": 1.0,
+   "as": "Ave Regina caelorum (simple tone) [antiphon, mode 6; The Liber Usualis 1961, p. 278]"
+  },
+  {
+   "chant": "2602",
+   "score": 1.0,
+   "as": "Ave Regina caelorum [antiphon, mode 6; The Liber Usualis 1961, p. 274]"
+  },
+  {
+   "chant": "12108",
+   "score": 1.0,
+   "as": "Ave Regina caelorum [antiphon, mode 6; Liber antiphonarius 1960, p. 66]"
+  },
+  {
+   "chant": "12705",
+   "score": 1.0,
+   "as": "Ave Regina caelorum [antiphon, mode 6; Liber antiphonarius 1960, p. 66]"
+  },
+  {
+   "chant": "3300",
+   "score": 1.0,
+   "as": "Ave Regina caelorum (monasticum) [antiphon, mode 6; Antiphonale Monasticum 1934, p. 175]"
+  },
+  {
+   "chant": "18333",
+   "score": 1.0,
+   "as": "Ave Regina caelorum (simple tone) [antiphon, mode 6; Antiphonale Monasticum 1934, p. 179]"
+  }
+ ],
+ "practice/ave-verum": [
+  {
+   "chant": "2441",
+   "score": 1.0,
+   "as": "Ave verum [varia, mode 6; The Liber Usualis 1961, p. 1856]"
+  },
+  {
+   "chant": "17777",
+   "score": 1.0,
+   "as": "Ave verum [varia, mode 6; The Liber Usualis 1961, p. 1856]"
+  },
+  {
+   "chant": "3962",
+   "score": 1.0,
+   "as": "Ave verum [varia, mode 6; Cantus selecti 1957, p. 10*]"
+  }
+ ],
+ "practice/beata-nobis-gaudia": [
+  {
+   "chant": "2926",
+   "score": 1.0,
+   "as": "Beata nobis gaudia [hymn, mode 1; The Liber Usualis 1961, p. 876]"
+  },
+  {
+   "chant": "11858",
+   "score": 1.0,
+   "as": "Beata nobis gaudia [hymn, mode 1; The Liber Usualis 1961, p. 876]"
+  },
+  {
+   "chant": "3979",
+   "score": 1.0,
+   "as": "Beata nobis [hymn, mode 1; Cantus selecti 1957, p. 73*]"
+  },
+  {
+   "chant": "9146",
+   "score": 0.927,
+   "as": "Beata nobis gaudia [hymn, mode 1; Antiphonale Monasticum 1934, p. 522]"
+  },
+  {
+   "chant": "15467",
+   "score": 0.927,
+   "as": "Beata nobis [hymn, mode 1; —]"
+  },
+  {
+   "chant": "6856",
+   "score": 0.835,
+   "as": "Beata nobis [hymn, mode 7; Antiphonarium O.P. (Gillet) 1933, p. 516]"
+  }
+ ],
+ "practice/benedictus": [
+  {
+   "chant": "10064",
+   "score": 1.0,
+   "as": "Benedictus [canticle, mode 8; —]"
+  }
+ ],
+ "practice/caelestis-urbs-ierusalem": [
+  {
+   "chant": "2200",
+   "score": 1.0,
+   "as": "Caelestis urbs Jerusalem [hymn, mode 1; The Liber Usualis 1961, p. 1248]"
+  },
+  {
+   "chant": "16977",
+   "score": 0.993,
+   "as": "Caelestis urbs Jerusalem [hymn, mode 1; Nocturnale Romanum 2002, p. [135]]"
+  }
+ ],
+ "practice/creator-alme-siderum": [
+  {
+   "chant": "2134",
+   "score": 1.0,
+   "as": "Creator alme siderum [hymn, mode 4; The Liber Usualis 1961, p. 324]"
+  },
+  {
+   "chant": "11815",
+   "score": 1.0,
+   "as": "Creator alme siderum [hymn, mode 4; Liber antiphonarius 1960, p. 210]"
+  }
+ ],
+ "practice/crudelis-herodes": [
+  {
+   "chant": "1825",
+   "score": 1.0,
+   "as": "Crudelis Herodes Deum (another chant) [hymn, mode 8; The Liber Usualis 1961, p. 465]"
+  },
+  {
+   "chant": "2129",
+   "score": 1.0,
+   "as": "Crudelis Herodes Deum [hymn, mode 3; The Liber Usualis 1961, p. 464]"
+  },
+  {
+   "chant": "11942",
+   "score": 1.0,
+   "as": "Crudelis Herodes [hymn, mode 3; Liber antiphonarius 1960, p. 308]"
+  },
+  {
+   "chant": "14124",
+   "score": 1.0,
+   "as": "Crudelis Herodes [hymn, mode 3; Nocturnale Romanum 2002, p. 226]"
+  },
+  {
+   "chant": "12846",
+   "score": 0.863,
+   "as": "Crudelis Herodes (Alter tonus) [hymn, mode 8; The Liber Usualis 1961, p. 465]"
+  }
+ ],
+ "practice/custodes-hominum": [
+  {
+   "chant": "2320",
+   "score": 1.0,
+   "as": "Custodes hominum [hymn, mode 3; The Liber Usualis 1961, p. 1666]"
+  },
+  {
+   "chant": "13140",
+   "score": 1.0,
+   "as": "Custodes hominum psallimus [hymn, mode 3; Liber antiphonarius 1960, p. 863]"
+  },
+  {
+   "chant": "4152",
+   "score": 1.0,
+   "as": "Custodes hominum [hymn, mode 7; Antiphonale Monasticum 1934, p. 1065]"
+  },
+  {
+   "chant": "7077",
+   "score": 1.0,
+   "as": "Custodes hominum [hymn, mode 6; Antiphonarium O.P. (Gillet) 1933, p. 960]"
+  },
+  {
+   "chant": "17503",
+   "score": 0.998,
+   "as": "Custodes hominum [hymn, mode 3; Nocturnale Romanum 2002, p. 309*]"
+  }
+ ],
+ "practice/decora-lux-aeternitatis": [
+  {
+   "chant": "2111",
+   "score": 0.974,
+   "as": "Decora lux aeternitatis (another chant) [hymn, mode 1; The Liber Usualis 1961, p. 1523]"
+  },
+  {
+   "chant": "2761",
+   "score": 0.974,
+   "as": "Decora lux aeternitatis [hymn, mode 4; The Liber Usualis 1961, p. 1522]"
+  },
+  {
+   "chant": "11881",
+   "score": 0.974,
+   "as": "Decora lux aeternitatis [hymn, mode 4; Liber antiphonarius 1960, p. 747]"
+  },
+  {
+   "chant": "13012",
+   "score": 0.974,
+   "as": "Decora lux aeternitatis (Alter tonus) [hymn, mode 1; Liber antiphonarius 1960, p. 749]"
+  }
+ ],
+ "practice/deus-tuorum-militum": [
+  {
+   "chant": "2702",
+   "score": 1.0,
+   "as": "Deus tuorum militum [hymn, mode 8; The Liber Usualis 1961, p. 1126]"
+  },
+  {
+   "chant": "2789",
+   "score": 1.0,
+   "as": "Deus tuorum militum (another chant) [hymn, mode 3; The Liber Usualis 1961, p. 1127]"
+  },
+  {
+   "chant": "12521",
+   "score": 1.0,
+   "as": "Deus tuorum militum (Alter tonus) [hymn, mode 3; The Liber Usualis 1961, p. 1127]"
+  },
+  {
+   "chant": "12849",
+   "score": 0.995,
+   "as": "Deus tuorum militum [hymn, mode 8; Liber antiphonarius 1960, p. [13.1]]"
+  },
+  {
+   "chant": "16878",
+   "score": 1.0,
+   "as": "Deus tuorum militum [hymn, mode 8; Nocturnale Romanum 2002, p. [31]]"
+  },
+  {
+   "chant": "16879",
+   "score": 0.99,
+   "as": "Deus tuorum militum (Tonus alter) [hymn, mode 3; Nocturnale Romanum 2002, p. [33]]"
+  }
+ ],
+ "practice/dies-irae": [
+  {
+   "chant": "1198",
+   "score": 1.0,
+   "as": "Dies irae [sequence, mode 1; The Liber Usualis 1961, p. 1810]"
+  },
+  {
+   "chant": "3441",
+   "score": 1.0,
+   "as": "Dies irae [sequence, mode 1; Graduale Romanum 1908, p. 83*]"
+  },
+  {
+   "chant": "6704",
+   "score": 1.0,
+   "as": "Dies irae [sequence, mode 2; Graduale O.P. (Suarez) 1950, p. 119*]"
+  }
+ ],
+ "practice/divine-praises": [
+  {
+   "chant": "16413",
+   "score": 0.967,
+   "as": "Benedictus Deus (Laudes Divinae) [varia, mode –; —]"
+  }
+ ],
+ "practice/en-clara-vox": [
+  {
+   "chant": "11919",
+   "score": 1.0,
+   "as": "En clara vox [hymn, mode 1; Liber antiphonarius 1960, p. 215]"
+  },
+  {
+   "chant": "3958",
+   "score": 1.0,
+   "as": "En clara vox [hymn, mode 1; Cantus selecti 1957, p. 29*]"
+  }
+ ],
+ "practice/exsultet-orbis-gaudiis": [
+  {
+   "chant": "2194",
+   "score": 1.0,
+   "as": "Exsultet orbis gaudiis [hymn, mode 4; The Liber Usualis 1961, p. 1115]"
+  },
+  {
+   "chant": "2351",
+   "score": 1.0,
+   "as": "Exsultet orbis gaudiis (another chant) [hymn, mode 1; The Liber Usualis 1961, p. 1116]"
+  },
+  {
+   "chant": "12058",
+   "score": 1.0,
+   "as": "Exsultet orbis gaudiis [hymn, mode 4; Liber antiphonarius 1960, p. [5]]"
+  },
+  {
+   "chant": "12342",
+   "score": 1.0,
+   "as": "Exsultet orbis gaudiis (Alter tonus) [hymn, mode 1; Liber antiphonarius 1960, p. [6]]"
+  },
+  {
+   "chant": "2191",
+   "score": 0.882,
+   "as": "Exsultet orbis gaudiis (St. John Evangelist) [hymn, mode 1; The Liber Usualis 1961, p. 420]"
+  },
+  {
+   "chant": "13254",
+   "score": 0.882,
+   "as": "Exsultet orbis gaudiis (Pro S. Joanne Evang.) [hymn, mode 1; Liber antiphonarius 1960, p. 280]"
+  }
+ ],
+ "practice/hail-holy-queen": [
+  {
+   "chant": "2435",
+   "score": 0.993,
+   "as": "Salve Regina (simple tone) [antiphon, mode 5; The Liber Usualis 1961, p. 279]"
+  },
+  {
+   "chant": "2715",
+   "score": 0.993,
+   "as": "Salve Regina [antiphon, mode 1; The Liber Usualis 1961, p. 276]"
+  },
+  {
+   "chant": "11861",
+   "score": 0.993,
+   "as": "Salve Regina [antiphon, mode 1; The Liber Usualis 1961, p. 276]"
+  },
+  {
+   "chant": "13136",
+   "score": 0.993,
+   "as": "Salve Regina [antiphon, mode 5; Liber antiphonarius 1960, p. 68]"
+  },
+  {
+   "chant": "8127",
+   "score": 0.993,
+   "as": "Salve Regina (simple tone with English translation) [antiphon, mode 5; Chants of the Church 1956, p. 138]"
+  },
+  {
+   "chant": "3299",
+   "score": 0.993,
+   "as": "Salve Regina (monasticum) [antiphon, mode 1; Antiphonale Monasticum 1934, p. 176]"
+  }
+ ],
+ "practice/hail-mary": [
+  {
+   "chant": "1860",
+   "score": 1.0,
+   "as": "Ave Maria (Salutatio Angelica) [varia, mode 1; The Liber Usualis 1961, p. 1861]"
+  },
+  {
+   "chant": "17826",
+   "score": 1.0,
+   "as": "Ave Maria (Salutatio Angelica) [varia, mode –; —]"
+  },
+  {
+   "chant": "12082",
+   "score": 1.0,
+   "as": "Ave Maria (Salutatio Angelica) [antiphon, mode 6; Cantus Mariales 1906, p. 1]"
+  }
+ ],
+ "practice/iam-lucis-orto-sidere": [
+  {
+   "chant": "2994",
+   "score": 1.0,
+   "as": "Jam lucis orto sidere (ord. Sund.) [hymn, mode 2; The Liber Usualis 1961, p. 224]"
+  },
+  {
+   "chant": "2995",
+   "score": 1.0,
+   "as": "Jam lucis orto sidere (Solemn feasts) [hymn, mode 8; The Liber Usualis 1961, p. 224]"
+  },
+  {
+   "chant": "12563",
+   "score": 1.0,
+   "as": "Jam lucis orto sidere (In Major. Festis) [hymn, mode 8; Liber antiphonarius 1960, p. 14]"
+  },
+  {
+   "chant": "11944",
+   "score": 0.995,
+   "as": "Jam lucis orto sidere (In Feriis et Fest. Simpl.) [hymn, mode 6; Liber antiphonarius 1960, p. 78]"
+  },
+  {
+   "chant": "12589",
+   "score": 0.995,
+   "as": "Jam lucis orto sidere (In Dom. et Minor. Festis) [hymn, mode 2; Liber antiphonarius 1960, p. 13]"
+  },
+  {
+   "chant": "10166",
+   "score": 1.0,
+   "as": "Jam Lucis Orto T.P. [hymn, mode 1; Antiphonale Romanum 1912, p. 387]"
+  }
+ ],
+ "practice/iam-sol-recedit-igneus": [
+  {
+   "chant": "2077",
+   "score": 1.0,
+   "as": "Jam sol recedit igneus [hymn, mode 8; The Liber Usualis 1961, p. 312]"
+  },
+  {
+   "chant": "12474",
+   "score": 1.0,
+   "as": "Jam sol recedit [hymn, mode 8; Liber antiphonarius 1960, p. 206]"
+  },
+  {
+   "chant": "2018",
+   "score": 0.979,
+   "as": "Jam sol recedit igneus (Blessed Trinity) [hymn, mode 8; The Liber Usualis 1961, p. 915]"
+  },
+  {
+   "chant": "12100",
+   "score": 0.979,
+   "as": "Jam sol recedit [hymn, mode 8; Liber antiphonarius 1960, p. 516]"
+  }
+ ],
+ "practice/iesu-corona-virginum": [
+  {
+   "chant": "2587",
+   "score": 1.0,
+   "as": "Jesu corona virginum [hymn, mode 8; The Liber Usualis 1961, p. 1211]"
+  },
+  {
+   "chant": "2143",
+   "score": 0.902,
+   "as": "Jesu corona virginum (In Tempore Paschali) [hymn, mode 4; The Liber Usualis 1961, p. 1213]"
+  },
+  {
+   "chant": "7253",
+   "score": 0.927,
+   "as": "Jesu corona Virginum [hymn, mode 8; Antiphonale Monasticum 1934, p. 677]"
+  },
+  {
+   "chant": "18077",
+   "score": 0.927,
+   "as": "Iesu corona virginum [hymn, mode 8; Hymnarium Cisterciense 1909, p. 29*]"
+  },
+  {
+   "chant": "9085",
+   "score": 0.859,
+   "as": "Jesu corona Virginum (In Tempore Paschali) [hymn, mode 3; Antiphonale Monasticum 1934, p. 677]"
+  },
+  {
+   "chant": "9086",
+   "score": 0.856,
+   "as": "Jesu corona Virginum (In Tempore Ascensionis) [hymn, mode 3; Antiphonale Monasticum 1934, p. 677]"
+  }
+ ],
+ "practice/iesu-dulcis-memoria": [
+  {
+   "chant": "1911",
+   "score": 1.0,
+   "as": "Jesu dulcis memoria [hymn, mode 1; The Liber Usualis 1961, p. 452]"
+  },
+  {
+   "chant": "13299",
+   "score": 1.0,
+   "as": "Jesu dulcis memoria [hymn, mode 1; Liber antiphonarius 1960, p. 300]"
+  },
+  {
+   "chant": "3968",
+   "score": 1.0,
+   "as": "Jesu dulcis memoria [hymn, mode 1; Cantus selecti 1957, p. 38*]"
+  },
+  {
+   "chant": "9635",
+   "score": 1.0,
+   "as": "Jesu dulcis [hymn, mode 1; Antiphonale Monasticum 1934, p. 278]"
+  },
+  {
+   "chant": "17872",
+   "score": 1.0,
+   "as": "Jesu dulcis memoria (alter cantus) [hymn, mode 2; —]"
+  },
+  {
+   "chant": "18262",
+   "score": 1.0,
+   "as": "Jesu dulcis memoria (Nat) [hymn, mode 1; —]"
+  }
+ ],
+ "practice/iesu-redemptor-omnium": [
+  {
+   "chant": "3001",
+   "score": 1.0,
+   "as": "Jesu Redemptor omnium (T. Nativitatis) [hymn, mode 1; The Liber Usualis 1961, p. 365]"
+  },
+  {
+   "chant": "12894",
+   "score": 1.0,
+   "as": "Jesu Redemptor omnium (Nat.) [hymn, mode 1; Liber antiphonarius 1960, p. 260]"
+  },
+  {
+   "chant": "16510",
+   "score": 0.993,
+   "as": "Jesu redemptor omnium [hymn, mode 1; Nocturnale Romanum 2002, p. 157]"
+  }
+ ],
+ "practice/iste-confessor": [
+  {
+   "chant": "16906",
+   "score": 1.0,
+   "as": "Iste Confessorum Domini (in Dominicis) [hymn, mode 8; Nocturnale Romanum 2002, p. [71]]"
+  },
+  {
+   "chant": "16907",
+   "score": 1.0,
+   "as": "Iste Confessorum Domini (in Feriis secundis) [hymn, mode 8; Nocturnale Romanum 2002, p. [72]]"
+  },
+  {
+   "chant": "16909",
+   "score": 1.0,
+   "as": "Iste Confessorum Domini (in Feriis quartis) [hymn, mode 1; Nocturnale Romanum 2002, p. [75]]"
+  },
+  {
+   "chant": "16910",
+   "score": 0.996,
+   "as": "Iste Confessorum Domini (in Feriis quintis) [hymn, mode 5; Nocturnale Romanum 2002, p. [77]]"
+  },
+  {
+   "chant": "16913",
+   "score": 0.996,
+   "as": "Iste Confessorum Domini (ad libitum) [hymn, mode 4; Nocturnale Romanum 2002, p. [81]]"
+  },
+  {
+   "chant": "1919",
+   "score": 0.966,
+   "as": "Iste Confessor. (Conf. Bischop) (another chant) [hymn, mode 8; The Liber Usualis 1961, p. 1178]"
+  }
+ ],
+ "practice/lauda-sion": [
+  {
+   "chant": "308",
+   "score": 0.994,
+   "as": "Lauda Sion [sequence, mode 7; The Liber Usualis 1961, p. 945]"
+  },
+  {
+   "chant": "4211",
+   "score": 0.999,
+   "as": "Lauda Sion [sequence, mode 7; Graduale O.P. (Suarez) 1950, p. 269]"
+  },
+  {
+   "chant": "1485",
+   "score": 0.997,
+   "as": "Lauda Sion [sequence, mode 7; Graduale Romanum 1908, p. 270]"
+  }
+ ],
+ "practice/lucis-creator-optime": [
+  {
+   "chant": "2014",
+   "score": 1.0,
+   "as": "Lucis Creator optime [hymn, mode 8; The Liber Usualis 1961, p. 256]"
+  },
+  {
+   "chant": "2095",
+   "score": 1.0,
+   "as": "Lucis Creator optime (another chant) [hymn, mode 1; The Liber Usualis 1961, p. 258]"
+  },
+  {
+   "chant": "2432",
+   "score": 1.0,
+   "as": "Lucis Creator optime (another chant ad libitum) [hymn, mode 8; The Liber Usualis 1961, p. 257]"
+  },
+  {
+   "chant": "11976",
+   "score": 1.0,
+   "as": "Lucis Creator optime (Alius tonus I (ad libitum)) [hymn, mode 8; Liber antiphonarius 1960, p. 49]"
+  },
+  {
+   "chant": "12055",
+   "score": 1.0,
+   "as": "Lucis Creator optime (Alius tonus II) [hymn, mode 1; Liber antiphonarius 1960, p. 51]"
+  },
+  {
+   "chant": "13307",
+   "score": 1.0,
+   "as": "Lucis Creator optime [hymn, mode 8; Liber antiphonarius 1960, p. 48]"
+  }
+ ],
+ "practice/lux-aeterna": [
+  {
+   "chant": "241",
+   "score": 0.986,
+   "as": "Lux aeterna [communion, mode 8; The Liber Usualis 1961, p. 1815]"
+  },
+  {
+   "chant": "3879",
+   "score": 0.986,
+   "as": "Lux aeterna [communion, mode 8; Graduale Romanum 1908, p. 88*]"
+  },
+  {
+   "chant": "15732",
+   "score": 0.986,
+   "as": "Lux aeterna [communion, mode 8; Graduale Cisterciense 1934, p. 123*]"
+  }
+ ],
+ "practice/magnificat": [
+  {
+   "chant": "15299",
+   "score": 0.984,
+   "as": "Magnificat [psalm, mode 6; —]"
+  }
+ ],
+ "practice/memorare": [
+  {
+   "chant": "4066",
+   "score": 0.986,
+   "as": "Memorare [varia, mode 4; Cantus selecti 1957, p. 173*]"
+  },
+  {
+   "chant": "13125",
+   "score": 1.0,
+   "as": "Memorare [antiphon, mode 1; Cantus Mariales 1906, p. 2]"
+  },
+  {
+   "chant": "18804",
+   "score": 1.0,
+   "as": "Memorare [antiphon, mode 3; —]"
+  },
+  {
+   "chant": "7521",
+   "score": 0.989,
+   "as": "Memorare [antiphon, mode 1; —]"
+  }
+ ],
+ "practice/new-testament-reading": [
+  {
+   "chant": "2515",
+   "score": 1.0,
+   "as": "Loquere Domine [antiphon, mode 1; The Liber Usualis 1961, p. 907]"
+  },
+  {
+   "chant": "13322",
+   "score": 1.0,
+   "as": "Loquere Domine [antiphon, mode 1; The Liber Usualis 1961, p. 907]"
+  },
+  {
+   "chant": "8527",
+   "score": 1.0,
+   "as": "Loquere Domine [antiphon, mode 1; Antiphonale Monasticum 1934, p. 534]"
+  }
+ ],
+ "practice/nunc-sancte-nobis-spiritus": [
+  {
+   "chant": "1913",
+   "score": 1.0,
+   "as": "Nunc Sancte nobis (In Epiphania Domini) [hymn, mode 8; The Liber Usualis 1961, p. 458]"
+  },
+  {
+   "chant": "2003",
+   "score": 1.0,
+   "as": "Nunc Sancte nobis (In Tempore Paschali) [hymn, mode 8; The Liber Usualis 1961, p. 808]"
+  },
+  {
+   "chant": "2044",
+   "score": 1.0,
+   "as": "Nunc Sancte nobis (In Quadragesima) [hymn, mode 1; The Liber Usualis 1961, p. 531]"
+  },
+  {
+   "chant": "2298",
+   "score": 1.0,
+   "as": "Nunc Sancte nobis (In Ascensione) [hymn, mode 4; The Liber Usualis 1961, p. 846]"
+  },
+  {
+   "chant": "2384",
+   "score": 1.0,
+   "as": "Nunc Sancte nobis (In Nativitate Domini) [hymn, mode 8; The Liber Usualis 1961, p. 407]"
+  },
+  {
+   "chant": "2408",
+   "score": 1.0,
+   "as": "Nunc Sancte nobis (In Tempore Passionis) [hymn, mode 2; The Liber Usualis 1961, p. 569]"
+  }
+ ],
+ "practice/o-gloriosa-virginum": [
+  {
+   "chant": "2885",
+   "score": 1.0,
+   "as": "O gloriosa virginum [hymn, mode 2; The Liber Usualis 1961, p. 1314]"
+  },
+  {
+   "chant": "3291",
+   "score": 1.0,
+   "as": "O gloriosa Virginum [hymn, mode 2; Antiphonale Romanum 1912, p. [83]]"
+  },
+  {
+   "chant": "3298",
+   "score": 1.0,
+   "as": "O gloriosa Virginum [hymn, mode 2; Antiphonale Romanum 1912, p. [83]]"
+  },
+  {
+   "chant": "8700",
+   "score": 0.816,
+   "as": "O gloriosa Domina [hymn, mode 2; Antiphonale Monasticum 1934, p. 709]"
+  },
+  {
+   "chant": "18399",
+   "score": 0.816,
+   "as": "O gloriosa Domina [hymn, mode 4; Hymnarium Cisterciense 1952, p. 70]"
+  }
+ ],
+ "practice/o-salutaris-hostia": [
+  {
+   "chant": "3335",
+   "score": 1.0,
+   "as": "O salutaris Hostia I [hymn, mode 8; Cantus selecti 1957, p. 1*]"
+  },
+  {
+   "chant": "3336",
+   "score": 1.0,
+   "as": "O salutaris Hostia II [hymn, mode 7; Cantus selecti 1957, p. 1*]"
+  },
+  {
+   "chant": "3337",
+   "score": 1.0,
+   "as": "O salutaris Hostia III [hymn, mode 1; Cantus selecti 1957, p. 2*-6*]"
+  },
+  {
+   "chant": "3338",
+   "score": 1.0,
+   "as": "O salutaris Hostia IV [hymn, mode 2; Cantus selecti 1957, p. 2*-6*]"
+  },
+  {
+   "chant": "3339",
+   "score": 1.0,
+   "as": "O salutaris Hostia V [hymn, mode 2; Cantus selecti 1957, p. 7*]"
+  },
+  {
+   "chant": "3340",
+   "score": 1.0,
+   "as": "O salutaris Hostia VI [hymn, mode 4; Cantus selecti 1957, p. 7*]"
+  }
+ ],
+ "practice/o-sol-salutis": [
+  {
+   "chant": "12159",
+   "score": 1.0,
+   "as": "O sol salutis intimis [hymn, mode 8; Liber antiphonarius 1960, p. 366]"
+  },
+  {
+   "chant": "12937",
+   "score": 1.0,
+   "as": "O sol salutis intimis (Alter tonus) [hymn, mode 2; Liber antiphonarius 1960, p. 367]"
+  }
+ ],
+ "practice/pange-lingua": [
+  {
+   "chant": "1310",
+   "score": 1.0,
+   "as": "Pange lingua... Corporis [hymn, mode 3; The Liber Usualis 1961, p. 957]"
+  },
+  {
+   "chant": "2888",
+   "score": 1.0,
+   "as": "Pange lingua... Corporis (alter tonus) [hymn, mode 1; The Liber Usualis 1961, p. 950]"
+  },
+  {
+   "chant": "11737",
+   "score": 0.997,
+   "as": "Pange lingua... Corporis [hymn, mode 3; Liber antiphonarius 1960, p. 527]"
+  },
+  {
+   "chant": "8671",
+   "score": 1.0,
+   "as": "Pange lingua... Corporis [hymn, mode –; Liber Hymnarius 1983, p. 110]"
+  },
+  {
+   "chant": "8670",
+   "score": 1.0,
+   "as": "Pange lingua... Corporis [hymn, mode –; Antiphonale Monasticum 1934, p. 547]"
+  },
+  {
+   "chant": "7523",
+   "score": 1.0,
+   "as": "Pange lingua... Corporis [hymn, mode 1; Antiphonale Romanum II 2009, p. 414]"
+  }
+ ],
+ "practice/panis-angelicus": [
+  {
+   "chant": "3334",
+   "score": 1.0,
+   "as": "Panis angelicus I [hymn, mode 4; The Liber Usualis 1961, p. 922]"
+  },
+  {
+   "chant": "3960",
+   "score": 1.0,
+   "as": "Panis angelicus II [hymn, mode 1; Cantus selecti 1957, p. 9*]"
+  },
+  {
+   "chant": "3961",
+   "score": 1.0,
+   "as": "Panis angelicus III [hymn, mode 8; Cantus selecti 1957, p. 9*]"
+  },
+  {
+   "chant": "3037",
+   "score": 1.0,
+   "as": "Panis angelicus [hymn, mode 7; Chants of the Church 1956, p. 127]"
+  },
+  {
+   "chant": "17175",
+   "score": 1.0,
+   "as": "Panis angelicus (Biton) [hymn, mode 6; —]"
+  }
+ ],
+ "practice/placare-christe-servulis": [
+  {
+   "chant": "2829",
+   "score": 1.0,
+   "as": "Placare Christe servulis [hymn, mode 8; The Liber Usualis 1961, p. 1730]"
+  },
+  {
+   "chant": "11738",
+   "score": 1.0,
+   "as": "Placare Christe (Omn. Sanct.) [hymn, mode 8; Liber antiphonarius 1960, p. 895]"
+  },
+  {
+   "chant": "16417",
+   "score": 1.0,
+   "as": "Placare Christe servulis [hymn, mode 8; Nocturnale Romanum 2002, p. 367*]"
+  }
+ ],
+ "practice/prayer-to-st-joseph-before-mass": [
+  {
+   "chant": "4047",
+   "score": 0.872,
+   "as": "O felicem virum [antiphon, mode 1; Cantus selecti 1957, p. 194*]"
+  }
+ ],
+ "practice/quem-terra-pontus-sidera": [
+  {
+   "chant": "4062",
+   "score": 1.0,
+   "as": "Quem terra pontus sidera [hymn, mode 4; Cantus selecti 1957, p. 164*]"
+  },
+  {
+   "chant": "17043",
+   "score": 1.0,
+   "as": "Quem terra pontus sidera [hymn, mode 2; Nocturnale Romanum 2002, p. [154]]"
+  },
+  {
+   "chant": "8680",
+   "score": 0.959,
+   "as": "Quem terra pontus aethera [hymn, mode 2; —]"
+  },
+  {
+   "chant": "9763",
+   "score": 0.896,
+   "as": "Quem terra pontus aethera [hymn, mode 4; Hymnarium Cisterciense 1909, p. 78]"
+  }
+ ],
+ "practice/quicumque-christum-quaeritis": [
+  {
+   "chant": "2309",
+   "score": 1.0,
+   "as": "Quicumque Christum [hymn, mode 4; The Liber Usualis 1961, p. 1590]"
+  },
+  {
+   "chant": "11934",
+   "score": 1.0,
+   "as": "Quicumque Christum quaeritis [hymn, mode 4; Liber antiphonarius 1960, p. 803]"
+  },
+  {
+   "chant": "17424",
+   "score": 1.0,
+   "as": "Quicumque Christum quaeritis [hymn, mode 4; Nocturnale Romanum 2002, p. 237*]"
+  },
+  {
+   "chant": "4609",
+   "score": 0.931,
+   "as": "Quicumque Christum [hymn, mode 4; Antiphonale Monasticum 1934, p. 995]"
+  },
+  {
+   "chant": "6903",
+   "score": 0.921,
+   "as": "Quicumque Christum [hymn, mode 7; Antiphonarium O.P. (Gillet) 1933, p. 887]"
+  }
+ ],
+ "practice/rector-potens-verax-deus": [
+  {
+   "chant": "2239",
+   "score": 1.0,
+   "as": "Rector potens (in Solemnitatibus) [hymn, mode 8; The Liber Usualis 1961, p. 241]"
+  },
+  {
+   "chant": "2348",
+   "score": 1.0,
+   "as": "Rector potens (In Dominicis per Annum) [hymn, mode 8; The Liber Usualis 1961, p. 240]"
+  },
+  {
+   "chant": "11789",
+   "score": 1.0,
+   "as": "Rector potens verax Deus (In Fer. et Fest. Simpl.) [hymn, mode 8; Liber antiphonarius 1960, p. 89]"
+  },
+  {
+   "chant": "12355",
+   "score": 1.0,
+   "as": "Rector potens verax Deus (in Dom. et Minor. Festis) [hymn, mode 8; Liber antiphonarius 1960, p. 32]"
+  },
+  {
+   "chant": "12854",
+   "score": 1.0,
+   "as": "Rector potens verax Deus (In Major. Festis) [hymn, mode 8; Liber antiphonarius 1960, p. 32]"
+  },
+  {
+   "chant": "10384",
+   "score": 1.0,
+   "as": "Rector Potens (In Feriis per annum et Festis Simplicibus) [hymn, mode 8; Antiphonale Romanum 1912, p. 74]"
+  }
+ ],
+ "practice/regina-caeli": [
+  {
+   "chant": "1976",
+   "score": 1.0,
+   "as": "Regina caeli [antiphon, mode 6; The Liber Usualis 1961, p. 275]"
+  },
+  {
+   "chant": "2290",
+   "score": 1.0,
+   "as": "Regina caeli (simple tone) [antiphon, mode 6; The Liber Usualis 1961, p. 278]"
+  },
+  {
+   "chant": "12130",
+   "score": 1.0,
+   "as": "Regina caeli laetare [antiphon, mode 6; Liber antiphonarius 1960, p. 67]"
+  },
+  {
+   "chant": "12975",
+   "score": 1.0,
+   "as": "Regina caeli laetare [antiphon, mode 6; Liber antiphonarius 1960, p. 67]"
+  },
+  {
+   "chant": "14963",
+   "score": 1.0,
+   "as": "Regina caeli (Off. BMV in Sab. T.P.) [antiphon, mode 1; Liber antiphonarius 1960, p. [131]]"
+  },
+  {
+   "chant": "18441",
+   "score": 1.0,
+   "as": "Regina caeli [antiphon, mode 1; Cantus selecti 1957, p. 133*]"
+  }
+ ],
+ "practice/rerum-deus-tenax-vigor": [
+  {
+   "chant": "1836",
+   "score": 1.0,
+   "as": "Rerum Deus (In Solemnitatibus) [hymn, mode 8; The Liber Usualis 1961, p. 245]"
+  },
+  {
+   "chant": "2242",
+   "score": 1.0,
+   "as": "Rerum Deus (In Dominicis per Annum) [hymn, mode 8; The Liber Usualis 1961, p. 245]"
+  },
+  {
+   "chant": "10403",
+   "score": 1.0,
+   "as": "Rerum Deus (BVM) [hymn, mode 2; The Liber Usualis 1961, p. 1256]"
+  },
+  {
+   "chant": "12187",
+   "score": 1.0,
+   "as": "Rerum Deus tenax vigor (In Major. Festis) [hymn, mode 8; The Liber Usualis 1961, p. 245]"
+  },
+  {
+   "chant": "12799",
+   "score": 1.0,
+   "as": "Rerum Deus tenax vigor (In Dom. et Minor. Festis) [hymn, mode 8; Liber antiphonarius 1960, p. 38]"
+  },
+  {
+   "chant": "13226",
+   "score": 1.0,
+   "as": "Rerum Deus tenax vigor (In Fer. et Fest. Simpl.) [hymn, mode 8; Liber antiphonarius 1960, p. 93]"
+  }
+ ],
+ "practice/sacris-solemniis": [
+  {
+   "chant": "1917",
+   "score": 1.0,
+   "as": "Sacris solemniis (another chant) [hymn, mode 1; The Liber Usualis 1961, p. 952]"
+  },
+  {
+   "chant": "2274",
+   "score": 1.0,
+   "as": "Sacris solemniis [hymn, mode 4; The Liber Usualis 1961, p. 920]"
+  },
+  {
+   "chant": "15322",
+   "score": 0.995,
+   "as": "Sacris solemniis [hymn, mode 4; Nocturnale Romanum 2002, p. 529]"
+  },
+  {
+   "chant": "8718",
+   "score": 0.811,
+   "as": "Panis solemnis [hymn, mode 1; —]"
+  }
+ ],
+ "practice/salutis-humanae-sator": [
+  {
+   "chant": "13157",
+   "score": 1.0,
+   "as": "Salutis humanae sator [hymn, mode 4; Liber antiphonarius 1960, p. 488]"
+  },
+  {
+   "chant": "2828",
+   "score": 0.869,
+   "as": "Salutis humanae Sator [hymn, mode 4; The Liber Usualis 1961, p. 852]"
+  }
+ ],
+ "practice/salvete-flores-martyrum": [
+  {
+   "chant": "1963",
+   "score": 1.0,
+   "as": "Salvete flores Martyrum [hymn, mode 1; The Liber Usualis 1961, p. 420]"
+  },
+  {
+   "chant": "13249",
+   "score": 1.0,
+   "as": "Salvete flores Martyrum [hymn, mode 1; Liber antiphonarius 1960, p. 285]"
+  },
+  {
+   "chant": "16744",
+   "score": 0.92,
+   "as": "Salvete flores [hymn, mode 8; Antiphonale Monasticum 1934, p. 261]"
+  },
+  {
+   "chant": "7902",
+   "score": 0.924,
+   "as": "Salvete flores Martyrum [hymn, mode 3; Hymnarium Cisterciense 1909, p. 29]"
+  }
+ ],
+ "practice/sanctorum-meritis": [
+  {
+   "chant": "2026",
+   "score": 1.0,
+   "as": "Sanctorum meritis (another chant) [hymn, mode 3; The Liber Usualis 1961, p. 1159]"
+  },
+  {
+   "chant": "2571",
+   "score": 1.0,
+   "as": "Sanctorum meritis [hymn, mode 2; The Liber Usualis 1961, p. 1157]"
+  },
+  {
+   "chant": "12262",
+   "score": 1.0,
+   "as": "Sanctorum meritis inclyta (Alter tonus) [hymn, mode 3; Liber antiphonarius 1960, p. [38]]"
+  },
+  {
+   "chant": "12412",
+   "score": 1.0,
+   "as": "Sanctorum meritis inclyta [hymn, mode 2; Liber antiphonarius 1960, p. [36]]"
+  },
+  {
+   "chant": "4229",
+   "score": 0.824,
+   "as": "Sanctorum meritis [hymn, mode 2; Antiphonale Monasticum 1934, p. 646]"
+  },
+  {
+   "chant": "5015",
+   "score": 0.824,
+   "as": "Sanctorum meritis inclyta gaudia [hymn, mode 7; Antiphonarium O.P. (Gillet) 1933, p. 60*]"
+  }
+ ],
+ "practice/splendor-paternae-gloriae": [
+  {
+   "chant": "8213",
+   "score": 1.0,
+   "as": "Splendor paternae gloriae [hymn, mode 4; Antiphonale Romanum 1912, p. 61]"
+  },
+  {
+   "chant": "15781",
+   "score": 0.895,
+   "as": "Splendor paternae [hymn, mode 4; Liber antiphonarius 1960, p. 73]"
+  },
+  {
+   "chant": "4140",
+   "score": 0.895,
+   "as": "Splendor paternae gloriae [hymn, mode 1; Antiphonale Monasticum 1934, p. 44]"
+  },
+  {
+   "chant": "4141",
+   "score": 0.895,
+   "as": "Splendor paternae gloriae [hymn, mode 4; Antiphonale Monasticum 1934, p. 44]"
+  }
+ ],
+ "practice/st-michael": [
+  {
+   "chant": "7555",
+   "score": 0.984,
+   "as": "Sancte Michael archangele [varia, mode 4; Cantus varii romano-seraphici 1902, p. 229]"
+  },
+  {
+   "chant": "16169",
+   "score": 0.969,
+   "as": "Sancte Michael Archangele [varia, mode –; —]"
+  }
+ ],
+ "practice/stabat-mater": [
+  {
+   "chant": "2163",
+   "score": 1.0,
+   "as": "Stabat Mater (simple) [hymn, mode 6; The Liber Usualis 1961, p. 1424]"
+  },
+  {
+   "chant": "681",
+   "score": 0.993,
+   "as": "Stabat Mater [sequence, mode 2; The Liber Usualis 1961, p. 1634V]"
+  },
+  {
+   "chant": "5877",
+   "score": 0.98,
+   "as": "Stabat Mater [sequence, mode 1; Graduale O.P. (Suarez) 1950, p. 361]"
+  },
+  {
+   "chant": "3866",
+   "score": 0.975,
+   "as": "Stabat Mater [sequence, mode 2; Graduale Romanum 1908, p. 404]"
+  },
+  {
+   "chant": "18112",
+   "score": 0.943,
+   "as": "Stabat Mater Dolorosa [sequence, mode 2; Graduale Romanum 1974, p. 602]"
+  }
+ ],
+ "practice/sub-tuum-praesidium": [
+  {
+   "chant": "2064",
+   "score": 0.974,
+   "as": "Sub tuum praesidium [antiphon, mode 7; The Liber Usualis 1961, p. 1861]"
+  },
+  {
+   "chant": "18315",
+   "score": 0.974,
+   "as": "Sub tuum praesidium [antiphon, mode 7; Liber antiphonarius 1960, p. [134]]"
+  },
+  {
+   "chant": "16752",
+   "score": 0.974,
+   "as": "Sub tuum [antiphon, mode 7; Antiphonale Monasticum 1934, p. 1258]"
+  },
+  {
+   "chant": "18134",
+   "score": 0.974,
+   "as": "Sub tuum praesidium [antiphon, mode 7; Antiphonale Monasticum 1934, p. 1258]"
+  },
+  {
+   "chant": "15267",
+   "score": 0.974,
+   "as": "Sub tuum præsidium [antiphon, mode 7; Graduale simplex 1975, p. 477]"
+  },
+  {
+   "chant": "17891",
+   "score": 0.974,
+   "as": "Sub tuum II [antiphon, mode 4; —]"
+  }
+ ],
+ "practice/te-decet-laus": [
+  {
+   "chant": "3044",
+   "score": 0.929,
+   "as": "Te decet laus [hymn, mode 1; Cantus selecti 1957, p. 257*]"
+  },
+  {
+   "chant": "4013",
+   "score": 0.929,
+   "as": "Te decet laus II [hymn, mode 2; Cantus selecti 1957, p. 257*]"
+  },
+  {
+   "chant": "15593",
+   "score": 0.929,
+   "as": "Hymnus Te decet laus [hymn, mode 1; Graduale simplex 1975, p. 473]"
+  }
+ ],
+ "practice/te-deum": [
+  {
+   "chant": "2305",
+   "score": 0.996,
+   "as": "Te Deum (Simple tone) [hymn, mode 3; The Liber Usualis 1961, p. 1834]"
+  },
+  {
+   "chant": "2809",
+   "score": 0.996,
+   "as": "Te Deum (Solemn tone) [hymn, mode 3; The Liber Usualis 1961, p. 1832]"
+  },
+  {
+   "chant": "36",
+   "score": 0.995,
+   "as": "Te Deum (sec. mor. Rom.) [hymn, mode 3; Graduale Romanum 1961, p. 147*]"
+  },
+  {
+   "chant": "8719",
+   "score": 0.996,
+   "as": "Te Deum (tonus monasticus) [hymn, mode 3; Antiphonale Monasticum 1934, p. 1250]"
+  },
+  {
+   "chant": "9696",
+   "score": 0.996,
+   "as": "Te Deum [hymn, mode –; Antiphonale Monasticum 1934, p. 1250]"
+  },
+  {
+   "chant": "4207",
+   "score": 0.996,
+   "as": "Te Deum [hymn, mode 4; Matutinum O.P. (Gillet) 1936, p. 230]"
+  }
+ ],
+ "practice/te-ioseph": [
+  {
+   "chant": "17636",
+   "score": 1.0,
+   "as": "Te Ioseph [hymn, mode 1; —]"
+  },
+  {
+   "chant": "6072",
+   "score": 0.982,
+   "as": "Te Joseph celebrent (I) [hymn, mode 6; Antiphonarium O.P. (Gillet) 1933, p. 730]"
+  },
+  {
+   "chant": "2235",
+   "score": 0.978,
+   "as": "Te Joseph celebrent [hymn, mode 1; The Liber Usualis 1961, p. 1447]"
+  },
+  {
+   "chant": "12399",
+   "score": 0.978,
+   "as": "Te Joseph celebrent [hymn, mode 1; Liber antiphonarius 1960, p. 650]"
+  },
+  {
+   "chant": "10159",
+   "score": 0.978,
+   "as": "Te Joseph [hymn, mode 1; Antiphonale Monasticum 1934, p. 884]"
+  },
+  {
+   "chant": "17359",
+   "score": 0.98,
+   "as": "Te Joseph celebrent [hymn, mode 1; Nocturnale Romanum 2002, p. 152*]"
+  }
+ ],
+ "practice/te-lucis-ante-terminum": [
+  {
+   "chant": "1843",
+   "score": 1.0,
+   "as": "Te lucis ante terminum (in dominicis per annum) [hymn, mode 8; The Liber Usualis 1961, p. 266]"
+  },
+  {
+   "chant": "1845",
+   "score": 1.0,
+   "as": "Te lucis ante terminum (In Tempore Paschali) [hymn, mode 8; The Liber Usualis 1961, p. 268]"
+  },
+  {
+   "chant": "2310",
+   "score": 1.0,
+   "as": "Te lucis ante terminum (Lent) [hymn, mode 2; The Liber Usualis 1961, p. 540]"
+  },
+  {
+   "chant": "2498",
+   "score": 1.0,
+   "as": "Te lucis ante terminum (In Adventu) [hymn, mode 2; The Liber Usualis 1961, p. 326]"
+  },
+  {
+   "chant": "2501",
+   "score": 1.0,
+   "as": "Te lucis ante terminum (Passiontide) [hymn, mode 2; The Liber Usualis 1961, p. 577]"
+  },
+  {
+   "chant": "2560",
+   "score": 1.0,
+   "as": "Te lucis ante terminum (In Epiphania Domini) [hymn, mode 8; The Liber Usualis 1961, p. 455]"
+  }
+ ],
+ "practice/te-splendor-et-virtus-patris": [
+  {
+   "chant": "2460",
+   "score": 1.0,
+   "as": "Te splendor et virtus (2) [hymn, mode 2; The Liber Usualis 1961, p. 1661]"
+  },
+  {
+   "chant": "2936",
+   "score": 1.0,
+   "as": "Te splendor et virtus [hymn, mode 4; The Liber Usualis 1961, p. 1463]"
+  },
+  {
+   "chant": "12160",
+   "score": 1.0,
+   "as": "Te splendor et virtus (T. Paschali) [hymn, mode 4; Liber antiphonarius 1960, p. 707]"
+  },
+  {
+   "chant": "12714",
+   "score": 1.0,
+   "as": "Te splendor et virtus [hymn, mode 2; Liber antiphonarius 1960, p. 854]"
+  },
+  {
+   "chant": "17370",
+   "score": 0.988,
+   "as": "Te splendor et virtus Patris [hymn, mode 4; Nocturnale Romanum 2002, p. 173*]"
+  }
+ ],
+ "practice/three-oclock-prayer": [
+  {
+   "chant": "18451",
+   "score": 0.831,
+   "as": "Sanctus Deus [improperia, mode –; Graduale Cisterciense 1934, p. 194]"
+  }
+ ],
+ "practice/ubi-caritas": [
+  {
+   "chant": "1013",
+   "score": 0.972,
+   "as": "Ubi caritas [antiphon, mode 6; The Liber Usualis 1961, p. 675]"
+  },
+  {
+   "chant": "3963",
+   "score": 0.972,
+   "as": "Ubi caritas et amor [varia, mode 6; Cantus selecti 1957, p. 17*]"
+  },
+  {
+   "chant": "1696",
+   "score": 0.972,
+   "as": "Ubi caritas [antiphon, mode 6; Graduale Romanum 1908, p. 175]"
+  },
+  {
+   "chant": "3313",
+   "score": 0.949,
+   "as": "Ubi caritas est vera [offertory, mode 6; Graduale Romanum 1974, p. 168]"
+  },
+  {
+   "chant": "10993",
+   "score": 0.947,
+   "as": "Ubi caritas est vera [offertory, mode 6; Graduale simplex 1975, p. 133]"
+  }
+ ],
+ "practice/ut-queant-laxis": [
+  {
+   "chant": "2539",
+   "score": 1.0,
+   "as": "Ut queant laxis [hymn, mode 2; The Liber Usualis 1961, p. 1504]"
+  },
+  {
+   "chant": "13042",
+   "score": 1.0,
+   "as": "Ut queant laxis resonare [hymn, mode 2; Liber antiphonarius 1960, p. 733]"
+  },
+  {
+   "chant": "8942",
+   "score": 0.932,
+   "as": "Ut queant laxis [hymn, mode 2; Antiphonale Monasticum 1934, p. 922]"
+  },
+  {
+   "chant": "6764",
+   "score": 0.822,
+   "as": "Ut queant laxis [hymn, mode 2; Antiphonarium O.P. (Gillet) 1933, p. 825]"
+  },
+  {
+   "chant": "15660",
+   "score": 0.811,
+   "as": "Ut queant laxis [hymn, mode 2; Liber Hymnarius 1983, p. 382]"
+  }
+ ],
+ "practice/veni-creator-spiritus": [
+  {
+   "chant": "2923",
+   "score": 0.91,
+   "as": "Veni Creator Spiritus [hymn, mode 8; The Liber Usualis 1961, p. 885]"
+  },
+  {
+   "chant": "13353",
+   "score": 0.91,
+   "as": "Veni Creator Spiritus [hymn, mode 8; Liber antiphonarius 1960, p. 500]"
+  },
+  {
+   "chant": "3241",
+   "score": 0.818,
+   "as": "Veni Creator Spiritus [hymn, mode 8; Antiphonale Monasticum 1934, p. 518]"
+  }
+ ],
+ "practice/veni-sancte-spiritus": [
+  {
+   "chant": "7360",
+   "score": 0.998,
+   "as": "Veni Sancte Spiritus et emitte [sequence, mode 1; Graduale Romanum 1974, p. 253]"
+  },
+  {
+   "chant": "11192",
+   "score": 0.998,
+   "as": "Veni Sancte Spiritus [sequence, mode –; Graduale simplex 1975, p. 190]"
+  },
+  {
+   "chant": "68",
+   "score": 0.974,
+   "as": "Veni Sancte Spiritus et emitte [sequence, mode 1; The Liber Usualis 1961, p. 880]"
+  },
+  {
+   "chant": "1402",
+   "score": 0.974,
+   "as": "Veni Sancte Spiritus et emitte [sequence, mode 1; Graduale Romanum 1908, p. 249]"
+  },
+  {
+   "chant": "4213",
+   "score": 0.974,
+   "as": "Veni Sancte Spiritus et emitte [sequence, mode 1; Graduale O.P. (Suarez) 1950, p. 250]"
+  }
+ ],
+ "practice/verbum-supernum": [
+  {
+   "chant": "53",
+   "score": 1.0,
+   "as": "Verbum supernum prodiens nec [hymn, mode 8; The Liber Usualis 1961, p. 940]"
+  },
+  {
+   "chant": "12107",
+   "score": 1.0,
+   "as": "Verbum supernum [hymn, mode 8; Liber antiphonarius 1960, p. 531]"
+  },
+  {
+   "chant": "10359",
+   "score": 1.0,
+   "as": "Verbum supernum prodiens [hymn, mode 8; Antiphonale Monasticum 1934, p. 552]"
+  }
+ ],
+ "practice/victimae-paschali": [
+  {
+   "chant": "1086",
+   "score": 0.992,
+   "as": "Victimae paschali [sequence, mode 1; The Liber Usualis 1961, p. 780]"
+  },
+  {
+   "chant": "4209",
+   "score": 1.0,
+   "as": "Victimae Paschali [sequence, mode 1; Graduale O.P. (Suarez) 1950, p. 198]"
+  },
+  {
+   "chant": "1718",
+   "score": 0.995,
+   "as": "Victimae paschali [sequence, mode 1; Graduale Romanum 1908, p. 204]"
+  },
+  {
+   "chant": "7351",
+   "score": 0.965,
+   "as": "Victimae paschali [sequence, mode 1; Graduale Romanum 1974, p. 198]"
+  },
+  {
+   "chant": "11100",
+   "score": 0.963,
+   "as": "Victimae paschali [sequence, mode –; Graduale simplex 1975, p. 160]"
+  }
+ ]
+}

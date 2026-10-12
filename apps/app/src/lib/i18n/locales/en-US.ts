@@ -53,7 +53,7 @@ export default {
     booksHint: 'Fathers, doctors, classics, magisterium',
     collectionsHint: 'Devotions, schools and authors',
     chant: 'Chant',
-    chantHint: 'The Kyriale in square notes',
+    chantHint: 'The Kyriale, hymns and antiphons in square notes',
     recents: 'Recents',
     allForms: 'All',
     allDevotions: 'Every devotion',
@@ -982,7 +982,8 @@ export default {
   },
 
   chant: {
-    kyriale: 'Kyriale',
+    title: 'Gregorian chant',
+    cantus: 'Chant',
     mode: 'Mode {{mode}}',
     transcribedBy: 'Transcribed by {{name}}',
     license: 'GregoBase, CC0',
@@ -1537,6 +1538,8 @@ export default {
     },
   },
   a11y: {
+    showChant: 'Show the chant of {{name}}',
+    hideChant: 'Hide the chant of {{name}}',
     openChants: 'Open {{name}}',
     recenterMap: 'Centre the map on your location',
     clearSearch: 'Clear the search',

@@ -2,6 +2,7 @@
 import type { BilingualText } from '@ember/content-engine'
 import { parseMarkdown } from '@/components/prayer/parseMarkdown'
 import type { Primitive } from '@/content/primitives'
+import { romanMode } from '@/features/chant/chants'
 import { assetUrl } from '~/lib/assets'
 import { escapeHtml, inlineHtml } from '~/lib/html'
 import type { Locale } from '~/lib/locale'
@@ -125,6 +126,25 @@ function wrap(node: { type: string; text: string }): string {
             )
           })}
         </div>
+      )
+    }
+    if (p.type === 'chant') {
+      const pt = locale === 'pt-BR'
+      const mode = romanMode(p.mode)
+      const credit = [p.book, p.transcriber && `${pt ? 'Transcrição de' : 'Transcribed by'} ${p.transcriber}`, 'GregoBase, CC0']
+        .filter(Boolean)
+        .join(' · ')
+      // The score is engraved in the browser when the reader opens it (scripts/engrave.ts).
+      return (
+        <details class="chant" data-gabc={p.score} data-name={p.name}>
+          <summary>
+            <span class="chant-kicker">{pt ? 'Canto' : 'Chant'}</span>
+            <em>{p.name}</em>
+            {mode && <span class="chant-mode">{pt ? 'Modo' : 'Mode'} {mode}</span>}
+          </summary>
+          <div class="chant-sheet" />
+          <p class="t-annotation chant-credit">{credit}</p>
+        </details>
       )
     }
     if (p.type === 'image') {

@@ -11,6 +11,7 @@
 import * as exsurgeModule from 'exsurge'
 import { getFontMetrics, type TextStyleName } from '@/lib/typography/fontMetrics'
 import { engravableScore } from './gabc'
+import { absoluteSegments, placed } from './pathData'
 
 export type ScoreColor = 'ink' | 'rubric'
 
@@ -27,6 +28,10 @@ export type ScoreMark =
   | { type: 'line'; x1: number; y1: number; x2: number; y2: number; weight: number }
   | { type: 'rect'; x: number; y: number; width: number; height: number }
   | { type: 'glyph'; glyph: string; x: number; y: number; transform?: string }
+  // A filled outline drawn for this place alone, in absolute path data: the beam of a porrectus.
+  | { type: 'shape'; d: string }
+  // A line drawn, not filled: the brace under a group of notes.
+  | { type: 'stroke'; d: string; weight: number }
   | ScoreText
 
 export type ScoreLine = {
@@ -245,6 +250,26 @@ function collect(
         height: num('height'),
       })
       return
+    case 'polygon': {
+      const points = String(p.points)
+        .trim()
+        .split(/[\s,]+/)
+        .map(Number)
+      const segments = points.flatMap((_, i) =>
+        i % 2
+          ? []
+          : [{ command: i ? ('L' as const) : ('M' as const), points: [points[i], points[i + 1]] }],
+      )
+      marks.push({ type: 'shape', d: `${placed(segments, (x, y) => [x + dx, y + dy])}Z` })
+      return
+    }
+    case 'path': {
+      const d = placed(absoluteSegments(String(p.d)), (x, y) => [x + dx, y + dy])
+      if (p.fill === 'none')
+        marks.push({ type: 'stroke', d, weight: parseFloat(String(p.strokeWidth)) })
+      else marks.push({ type: 'shape', d })
+      return
+    }
     case 'use': {
       const glyph = String(p.xlinkHref).slice(1)
       used.add(glyph)

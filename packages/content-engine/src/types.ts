@@ -79,6 +79,9 @@ export type FlowSection = { lang?: string } & (
       from?: string
     }
   | { type: 'image'; src: string; caption?: LocalizedText; attribution?: LocalizedText }
+  // The chant of the text beside it: a score in the corpus (`chant/salve-regina`),
+  // drawn in square notes where the practice is prayed.
+  | { type: 'chant'; ref: string }
   // `defaultOpen: true` renders the embedded prayer expanded on first paint
   // (still tappable to collapse). Use when the prayer isn't reliably known by
   // heart and the text being on the page matters — Te Deum, Anima Christi,
@@ -286,6 +289,7 @@ export type RenderedSection =
   | { type: 'divider' }
   | { type: 'heading'; text: BilingualText }
   | { type: 'image'; src: string; caption?: BilingualText; attribution?: BilingualText }
+  | { type: 'chant'; ref: string }
   | {
       type: 'prayer'
       title: BilingualText

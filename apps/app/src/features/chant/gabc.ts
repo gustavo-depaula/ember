@@ -50,8 +50,8 @@ function engravableText(text: string): string {
       .replace(/<v>\\greheightstar<\/v>/g, '*')
       // Any other verbatim TeX command is spacing (`\kern 6mm`, `\hspace`).
       .replace(/<v>\\[a-zA-Z]+[^<]*<\/v>/g, '')
-      // TeX's non-breaking space, used to nudge a syllable along the staff.
-      .replace(/~/g, ' ')
+      // TeX's spaces — the non-breaking `~` and the forced `\\ ` — used to nudge a syllable along the staff.
+      .replace(/~|\\ /g, ' ')
   )
 }
 

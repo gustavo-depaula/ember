@@ -10,13 +10,14 @@
 
 import { assembleMass, doLangDir, efVersion } from '@ember/divinum-officium'
 import type { Primitive } from '@/content/primitives'
+import { findMassChants } from '@/features/chant/propers'
 import type { ContentSource, SourceFetchContext } from '../types'
 import { mapItemsToPrimitives } from './blocks'
 import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
   id: 'producer/do-mass',
-  version: '11',
+  version: '12',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -30,7 +31,7 @@ export const doMassSource: ContentSource<Primitive[]> = {
       lang2: doLangDir(ctx.prefs.lang),
       propers: parts !== undefined,
     })
-    if (!parts) return mapItemsToPrimitives(mass.vernacular ?? mass.latin, mass.latin)
+    if (!parts) return withChant(mass.vernacular ?? mass.latin, mass.latin)
     // The columns pair by position and only the Latin heads are the same in
     // every language, so the Latin column says which items to keep in both.
     const wanted = mass.latin.map((item) =>
@@ -39,4 +40,52 @@ export const doMassSource: ContentSource<Primitive[]> = {
     const pick = (items: string[]) => items.filter((_, i) => wanted[i])
     return mapItemsToPrimitives(pick(mass.vernacular ?? mass.latin), pick(mass.latin))
   },
+}
+
+const head = /^(?:#|!!)\s*(.*)/
+
+/**
+ * The Mass as primitives, each sung proper followed by its chant where the
+ * corpus has it. Items are mapped in runs that end at such a proper; a run
+ * starts on an item's head, which is where the mapper starts afresh anyway.
+ */
+async function withChant(primary: string[], latin: string[]): Promise<Primitive[]> {
+  const chants = await Promise.all(
+    latin.map((item) => {
+      const [first, ...lines] = item.split('\n')
+      const name = head.exec(first)?.[1].trim()
+      return name ? findMassChants(name, lines) : []
+    }),
+  )
+  const out: Primitive[] = []
+  let start = 0
+  chants.forEach((found, i) => {
+    if (!found.length) return
+    out.push(...mapItemsToPrimitives(primary.slice(start, i + 1), latin.slice(start, i + 1)))
+    for (const chant of found) {
+      out.push({
+        type: 'chant',
+        name: chant.name,
+        part: partNames[chant.genre],
+        mode: chant.mode,
+        commentary: chant.commentary,
+        book: chant.book,
+        transcriber: chant.transcriber,
+        score: chant.score,
+      })
+    }
+    start = i + 1
+  })
+  out.push(...mapItemsToPrimitives(primary.slice(start), latin.slice(start)))
+  return out
+}
+
+const partNames = {
+  in: 'Introitus',
+  gr: 'Graduale',
+  al: 'Alleluia',
+  tr: 'Tractus',
+  of: 'Offertorium',
+  co: 'Communio',
+  se: 'Sequentia',
 }

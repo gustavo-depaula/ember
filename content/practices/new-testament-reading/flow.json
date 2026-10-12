@@ -15,6 +15,7 @@
 				"la": "Lóquere, Dómine, quia audit servus tuus."
 			}
 		},
+		{"type": "chant", "ref": "chant/loquere-domine"},
 		{
 			"type": "divider"
 		},

@@ -39,7 +39,8 @@
 					"sl": "Sveti nadangel Mihael, brani nas v boju; bodi nam v pomoč zoper zlobnost in zalezovanje hudega duha. Ukroti naj ga Bog, ponižno za to prosimo. In ti, vodnik nebeške vojske, satana in druge hudobne duhove, ki hodijo po svetu v pogubo duš, z Božjo pomočjo v pekel pahni. Amen.",
 					"sv": "Helige ärkeängel Mikael, försvara oss i striden, var oss ett värn mot Satans ondska och försåt. ”Må Herren näpsa honom”, så ber vi ödmjukt. Och du, furste över de himmelska härskarorna, störta du med Guds kraft ner djävulen i helvetet med de övriga andar, som till själarnas fördärv vandrar omkring i världen. Amen."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/sancte-michael-archangele"}
 		]
 	}
 }

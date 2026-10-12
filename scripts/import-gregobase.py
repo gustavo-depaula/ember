@@ -12,9 +12,17 @@ CC0. It is read two ways, because it publishes itself two ways:
 So the dump lays a book out, and each score is then read from the live site.
 
     python3 scripts/import-gregobase.py              # (re)write the Kyriale, scores from the live site
-    python3 scripts/import-gregobase.py --offline    # the same from the dump alone
-    python3 scripts/import-gregobase.py --sync       # refresh the scores already in content/chants/
+    python3 scripts/import-gregobase.py --propers    # (re)write the chants of the 1962 Missal's propers
+    python3 scripts/import-gregobase.py --prayers    # the chant of each prayer in content/practices/, and its place in the prayer
+    python3 scripts/import-gregobase.py --offline    # either, from the dump alone
+    python3 scripts/import-gregobase.py --sync       # refresh every score already in content/
     python3 scripts/import-gregobase.py --find "salve regina"
+
+The Kyriale is a book, brought in whole and in its own order (content/chants/,
+content/chant-books/). The propers are brought in by what the Missal prints:
+for each Introit, Gradual, Alleluia, Tract, Offertory, Communion and Sequence in
+Divinum Officium's Latin, the score that sets the same words
+(content/chant-propers/, linked by scripts/chant_link.py).
 
 What lands in content/ is one `.gabc` file per chant — its GregoBase record as
 GABC headers, its score untouched — and one book file giving the chants their
@@ -24,8 +32,13 @@ diffs only where GregoBase itself changed.
 """
 import json, pathlib, re, sys, time, urllib.error, urllib.request
 
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import chant_link  # noqa: E402
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CHANTS = ROOT / 'content/chants'
+PROPERS = ROOT / 'content/chant-propers'
+DO_WWW = ROOT / 'content/do/web/www'
 BOOKS = ROOT / 'content/chant-books'
 COMMIT = '2ebcda3f523f9b19933d59fa32bb4215cd8e7675'
 DUMP_URL = f'https://raw.githubusercontent.com/gregorio-project/GregoBase/{COMMIT}/gregobase_online.sql'
@@ -190,7 +203,7 @@ def sync(files=None):
     """Bring each chant file up to the live site: its score and the headers
     GregoBase owns. Prints what changed; returns the number of files rewritten."""
     changed, gone = [], []
-    files = sorted(files or CHANTS.glob('*.gabc'))
+    files = sorted(files or [*CHANTS.glob('*.gabc'), *PROPERS.glob('*.gabc')])
     for n, f in enumerate(files, 1):
         text = f.read_text(encoding='utf-8')
         head, _, body = text.partition('%%\n')
@@ -211,7 +224,7 @@ def sync(files=None):
             key = line.partition(':')[0]
             if key in UPSTREAM_HEADERS:
                 continue
-            if key == 'book':
+            if key == 'book' or (key == 'gregobase' and 'book:' not in head):
                 # The headers GregoBase owns sit together, after the name and before the book.
                 lines += [f'{k}: {live_headers[k]};' for k in UPSTREAM_HEADERS if live_headers.get(k)]
             lines.append(line)
@@ -224,9 +237,9 @@ def sync(files=None):
         time.sleep(0.2)
     print('\r' + ' ' * 60 + '\r', end='', file=sys.stderr)
     for stem, what in changed:
-        print(f'  updated  chant/{stem} ({", ".join(what)})')
+        print(f'  updated  {stem} ({", ".join(what)})')
     for stem in gone:
-        print(f'  GONE     chant/{stem}: GregoBase no longer serves it; the file is left as it was')
+        print(f'  GONE     {stem}: GregoBase no longer serves it; the file is left as it was')
     print(f'gregobase: {len(files)} chants checked, {len(changed)} updated, {len(gone)} gone')
     return len(changed)
 
@@ -410,6 +423,260 @@ def write_kyriale(offline=False):
         sync([CHANTS / f'{chant_id}.gabc' for chant_id in ids.values()])
 
 
+# The books a 1962 Mass is sung from, best first: where several set a text, the
+# earliest here is taken, and a score in none of them is not taken at all — the
+# Dominican Gradual sets many of the same words to its own rite's melodies.
+# Graduale Romanum 1961, Liber Usualis, Graduale Romanum 1908 and 1974, the Offertoriale.
+MASS_BOOKS = ['2', '3', '1', '4', '32']
+
+
+def plain_gabc(chant):
+    """Whether a score is square notes alone. GregoBase also holds "triplex"
+    transcriptions, whose note groups carry the St Gall neumes after a `|`;
+    the app's engraver reads those as notes."""
+    return not re.search(r'\([^)]*\|', chant['gabc'])
+
+
+def write_propers(offline=False):
+    """The chant of every proper the Missal prints, found by its text."""
+    sql = dump()
+    chants = {c['id']: c for c in rows(sql, 'gregobase_chants') if not int(c['copyrighted']) and c['gabc']}
+    sources = {s['id']: s for s in rows(sql, 'gregobase_sources')}
+    pages = {}
+    for s in rows(sql, 'gregobase_chant_sources'):
+        pages.setdefault(s['chant_id'], []).append((s['source'], s['page']))
+    rank = {b: i for i, b in enumerate(MASS_BOOKS)}
+    book_rank = lambda cid: min((rank.get(src, 99) for src, _ in pages.get(cid, [])), default=99)
+
+    finder = chant_link.Finder(
+        (c['id'], c['office-part'], chant_link.chant_key(c['office-part'], score(c)), book_rank(c['id']))
+        for c in chants.values()
+        if c['office-part'] in chant_link.GENRES and book_rank(c['id']) < 99 and plain_gabc(c)
+    )
+    pieces = chant_link.missal_pieces(DO_WWW)
+    wanted, unlinked = {}, 0
+    for (genre, key), _ in pieces.items():
+        found, cid = finder.find(chant_link.KIN.get(genre, (genre,)), key)
+        if found >= chant_link.THRESHOLD:
+            wanted[cid] = chants[cid]
+        else:
+            unlinked += 1
+    print(f'{len(pieces)} chant texts in the Missal, {len(pieces) - unlinked} with a score, {len(wanted)} scores')
+
+    PROPERS.mkdir(parents=True, exist_ok=True)
+    keep = set()
+    for cid, c in sorted(wanted.items(), key=lambda kv: int(kv[0])):
+        genre = c['office-part']
+        incipit = re.sub(r'\s*\((Intr|Grad|All|Tract|Off|Comm|Seq)\.?\)\s*$', '', c['incipit'].strip())
+        where = sorted(pages.get(cid, []), key=lambda sp: rank.get(sp[0], 99))
+        book = f"{sources[where[0][0]]['title']}, {sources[where[0][0]]['year']}, p. {where[0][1]}" if where else None
+        # The GregoBase id keeps a name unique and stable however the set grows.
+        stem = f'{genre}-{slug(incipit)}-{cid}'
+        keep.add(stem)
+        # A file already here may hold a later score than the dump's: the sync's to refresh, not this.
+        if (PROPERS / f'{stem}.gabc').exists():
+            continue
+        (PROPERS / f'{stem}.gabc').write_text(
+            header('name', incipit)
+            + header('office-part', chant_link.GENRES[genre])
+            + header('mode', c['mode'])
+            + header('commentary', (c['commentary'] or '').strip())
+            + header('transcriber', c['transcriber'])
+            + header('book', book)
+            + header('gregobase', cid)
+            + '%%\n'
+            + score(c),
+            encoding='utf-8',
+        )
+    for stale in PROPERS.glob('*.gabc'):
+        if stale.stem not in keep:
+            stale.unlink()
+    if not offline:
+        sync(sorted(PROPERS.glob('*.gabc')))
+
+
+# Where a prayer's chant is taken from, best first: the books a parish sings from
+# before the monastic ones. Liber Usualis, Graduale Romanum 1961, Liber antiphonarius,
+# Cantus selecti, Chants of the Church, Liber cantualis, Liber Hymnarius, Antiphonale Monasticum.
+PRAYER_BOOKS = ['3', '2', '48', '10', '5', '66', '15', '7']
+# A prayer and a score are the same text only when nearly all of each is in the other.
+PRAYER_THRESHOLD = 0.95
+PRAYER_BOOK = {
+    'id': 'chant-book/cantus',
+    'name': {'en-US': 'Hymns and antiphons', 'pt-BR': 'Hinos e antífonas'},
+    'description': {
+        'en-US': 'The chant of prayers the Church has always sung: the antiphons of Our Lady, the hymns of the Office and of the Blessed Sacrament, the sequences.',
+        'pt-BR': 'O canto de orações que a Igreja sempre cantou: as antífonas de Nossa Senhora, os hinos do Ofício e do Santíssimo Sacramento, as sequências.',
+    },
+    'source': 'GregoBase (CC0)',
+    # Its sections are lists to choose a chant from, not Masses to be sung through.
+    'list': 'chants',
+}
+PRAYER_SECTIONS = [
+    ('antiphons', ('an',), {'en-US': 'Antiphons', 'pt-BR': 'Antífonas'}),
+    ('hymns', ('hy',), {'en-US': 'Hymns', 'pt-BR': 'Hinos'}),
+    ('sequences', ('se',), {'en-US': 'Sequences', 'pt-BR': 'Sequências'}),
+    ('other', (), {'en-US': 'Other chants', 'pt-BR': 'Outros cantos'}),
+]
+OFFICE_PART = {'an': 'Antiphona', 'hy': 'Hymnus', 'se': 'Sequentia', 'ca': 'Canticum', 'co': 'Communio', 'ps': 'Psalmus'}
+
+
+def latin_blocks(node, out):
+    """Every Latin text of a flow, in order."""
+    if isinstance(node, dict):
+        la = node.get('la')
+        if isinstance(la, str) and len(la) > 30:
+            out.append(la)
+        for value in node.values():
+            latin_blocks(value, out)
+    elif isinstance(node, list):
+        for value in node:
+            latin_blocks(value, out)
+
+
+def sections_span(text, start):
+    """In JSON `text`, the `[`…`]` of the first `"sections"` array at or after
+    `start`, and the (begin, end) of each of its elements."""
+    at = text.index('"sections"', start)
+    open_at = text.index('[', at)
+    depth, in_string, escaped, begin, elements = 0, False, False, None, []
+    for i in range(open_at, len(text)):
+        c = text[i]
+        if in_string:
+            escaped = c == '\\' and not escaped
+            if c == '"' and not escaped:
+                in_string = False
+            continue
+        if c == '"':
+            in_string = True
+            if depth == 1 and begin is None:
+                begin = i
+        elif c in '[{':
+            if depth == 1 and begin is None:
+                begin = i
+            depth += 1
+        elif c in ']}':
+            depth -= 1
+            if depth == 1 and begin is not None:
+                elements.append((begin, i + 1))
+                begin = None
+            if depth == 0:
+                return open_at, i, elements
+    raise ValueError('unclosed sections array')
+
+
+def place_chant(path, flow_at, block, ref):
+    """Write `{type: chant, ref}` into the flow in `path`, after the section
+    that holds `block`. The file is edited as text, so nothing else in it moves."""
+    text = path.read_text(encoding='utf-8')
+    if f'"{ref}"' in text:
+        return False
+    _, _, elements = sections_span(text, flow_at(text))
+    for begin, end in elements:
+        held = []
+        latin_blocks(json.loads(text[begin:end]), held)
+        if block in held:
+            line_start = text.rfind('\n', 0, begin) + 1
+            indent = text[line_start:begin] if not text[line_start:begin].strip() else ''
+            node = json.dumps({'type': 'chant', 'ref': ref}, ensure_ascii=False)
+            glue = f',\n{indent}' if indent or '\n' in text[begin:end] else ', '
+            path.write_text(text[:end] + glue + node + text[end:], encoding='utf-8')
+            return True
+    return False
+
+
+def write_prayers(offline=False):
+    """The chant of each prayer the corpus already has, found by the prayer's
+    whole Latin text, brought in as a score and named in the prayer's flow."""
+    sql = dump()
+    chants = {c['id']: c for c in rows(sql, 'gregobase_chants') if not int(c['copyrighted']) and c['gabc']}
+    pages = {}
+    for s in rows(sql, 'gregobase_chant_sources'):
+        pages.setdefault(s['chant_id'], []).append((s['source'], s['page']))
+    sources = {s['id']: s for s in rows(sql, 'gregobase_sources')}
+    rank = {b: i for i, b in enumerate(PRAYER_BOOKS)}
+
+    def preference(c):
+        book = min((rank.get(src, 99) for src, _ in pages.get(c['id'], [])), default=99)
+        # Of two settings in one book, the plain one: not the solemn tone, not "another chant".
+        ornate = bool(re.search(r'solemn|another|alter|monastic|\(\d\)', c['incipit'], re.I))
+        return book * 2 + ornate
+
+    genres = set(OFFICE_PART) | {'va', 'pa', 'su', 'rh'}
+    finder = chant_link.Finder(
+        (c['id'], c['office-part'], chant_link.fold(chant_link.lyrics(score(c))), preference(c))
+        for c in chants.values()
+        if c['office-part'] in genres and plain_gabc(c)
+    )
+
+    placed, files, by_section = [], [], {key: [] for key, _, _ in PRAYER_SECTIONS}
+    used = {}
+    for d in sorted((ROOT / 'content/practices').iterdir()):
+        manifest_path, flow_path = d / 'manifest.json', d / 'flow.json'
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+        flow = json.loads(flow_path.read_text(encoding='utf-8')) if flow_path.exists() else manifest.get('flow')
+        blocks = []
+        latin_blocks(flow, blocks)
+        # One Latin text, or a prayer with its versicle and collect. A whole office is not a prayer.
+        if not blocks or len(blocks) > 3:
+            continue
+        found = finder.settings(genres, chant_link.fold(blocks[0]), PRAYER_THRESHOLD)
+        if not found:
+            continue
+        c = chants[found[0][2]]
+        name = re.sub(r'\s*\([^)]*\)', '', c['incipit']).replace('...', '').strip()
+        name = re.sub(r'\s+(I{1,3}|IV|V)$', '', name)
+        chant_id = used.get(c['id']) or slug(name)
+        if chant_id in used.values() and used.get(c['id']) != chant_id:
+            chant_id = f'{chant_id}-{c["id"]}'
+        if (CHANTS / f'{chant_id}.gabc').exists() and c['id'] not in used:
+            # Already a chant of the library under this name (the Kyriale's, or an earlier run's).
+            existing = (CHANTS / f'{chant_id}.gabc').read_text(encoding='utf-8')
+            if f'gregobase: {c["id"]};' not in existing:
+                chant_id = f'{chant_id}-{c["id"]}'
+        if c['id'] not in used:
+            used[c['id']] = chant_id
+            where = sorted(pages.get(c['id'], []), key=lambda sp: rank.get(sp[0], 99))
+            book = f"{sources[where[0][0]]['title']}, {sources[where[0][0]]['year']}, p. {where[0][1]}" if where else None
+            target = CHANTS / f'{chant_id}.gabc'
+            if not target.exists():
+                target.write_text(
+                    header('name', name)
+                    + header('office-part', OFFICE_PART.get(c['office-part'], 'Varia'))
+                    + header('mode', c['mode'])
+                    + header('commentary', (c['commentary'] or '').strip())
+                    + header('transcriber', c['transcriber'])
+                    + header('book', book)
+                    + header('gregobase', c['id'])
+                    + '%%\n'
+                    + score(c),
+                    encoding='utf-8',
+                )
+            files.append(target)
+            section = next((key for key, kinds, _ in PRAYER_SECTIONS if c['office-part'] in kinds), 'other')
+            by_section[section].append((name, f'chant/{chant_id}'))
+        ref = f'chant/{chant_id}'
+        if flow_path.exists():
+            done = place_chant(flow_path, lambda text: 0, blocks[0], ref)
+        else:
+            done = place_chant(manifest_path, lambda text: text.index('"flow"'), blocks[0], ref)
+        placed.append((d.name, ref, round(found[0][0], 2), len(found), done))
+
+    book = dict(PRAYER_BOOK)
+    book['sections'] = [
+        {'id': key, 'title': title, 'chants': [ref for _, ref in sorted(by_section[key])]}
+        for key, _, title in PRAYER_SECTIONS
+        if by_section[key]
+    ]
+    BOOKS.mkdir(parents=True, exist_ok=True)
+    (BOOKS / 'cantus.json').write_text(json.dumps(book, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    for practice, ref, found_score, settings, done in placed:
+        print(f'  {practice:<34} {ref:<44} {found_score:.2f}  {settings:>2} setting{"s" if settings > 1 else ""}{"" if done else "  (already placed)"}')
+    print(f'{len(placed)} prayers, {len(used)} scores')
+    if not offline:
+        sync(files)
+
+
 def find(query):
     chants, pages, _ = load()
     pat = re.compile(query, re.I)
@@ -421,11 +688,17 @@ def find(query):
 
 if __name__ == '__main__':
     args = sys.argv[1:]
+    offline = '--offline' in args
+    args = [a for a in args if a != '--offline']
     if args[:1] == ['--find'] and len(args) == 2:
         find(args[1])
     elif args == ['--sync']:
         sync()
-    elif args in ([], ['--offline']):
-        write_kyriale(offline=bool(args))
+    elif args == ['--propers']:
+        write_propers(offline)
+    elif args == ['--prayers']:
+        write_prayers(offline)
+    elif args == []:
+        write_kyriale(offline)
     else:
         sys.exit(__doc__)

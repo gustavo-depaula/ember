@@ -31,6 +31,8 @@ export type CatalogItemKind =
   | 'do-data'
   | 'chant'
   | 'chant-book'
+  | 'chant-index'
+  | 'chant-bundle'
   | 'collection'
   | 'plan-of-life-template'
   | 'checkup'

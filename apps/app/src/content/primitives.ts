@@ -74,6 +74,21 @@ export type VersesPrimitive = {
   markup?: 'do'
 }
 
+// A chant score beside the text it sets. The score travels in the primitive —
+// a block never fetches — as GABC, and is engraved where it is drawn, to that
+// screen's width (features/chant).
+export type ChantPrimitive = {
+  type: 'chant'
+  name: string
+  /** What the chant is in its liturgy, in Latin: `Introitus`, `Graduale`. */
+  part?: string
+  mode?: string
+  commentary?: string
+  book?: string
+  transcriber?: string
+  score: string
+}
+
 export type ImagePrimitive = {
   type: 'image'
   src: string
@@ -243,6 +258,7 @@ export type Primitive =
   | DividerPrimitive
   | VersesPrimitive
   | ImagePrimitive
+  | ChantPrimitive
   | GalleryPrimitive
   | HolyCardPrimitive
   | ProsePrimitive

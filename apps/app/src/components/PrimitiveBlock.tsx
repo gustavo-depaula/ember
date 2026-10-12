@@ -3,6 +3,7 @@
 import { memo, useCallback } from 'react'
 import { View, YStack } from 'tamagui'
 import type { Primitive } from '@/content/primitives'
+import { ChantBlock } from '@/features/chant/ChantBlock'
 import { ProducerHtmlBlock } from './include/ProducerHtmlBlock'
 import { PrayerLines } from './PrayerText'
 import { BilingualBlock } from './prayer/BilingualBlock'
@@ -104,6 +105,9 @@ export const PrimitiveBlock = memo(function PrimitiveBlock({
           attribution={primitive.attribution}
         />
       )
+
+    case 'chant':
+      return <ChantBlock chant={primitive} />
 
     case 'gallery':
       return (

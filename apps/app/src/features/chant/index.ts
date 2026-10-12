@@ -3,9 +3,8 @@ export {
   type ChantBook,
   type ChantBookSection,
   chantSummary,
-  kyrialeId,
   loadChant,
-  loadChantBook,
+  loadChantBooks,
   romanMode,
   sectionOf,
 } from './chants'

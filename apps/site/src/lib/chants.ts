@@ -1,9 +1,8 @@
 import {
   type ChantBook,
   chantSummary,
-  kyrialeId,
   loadChant,
-  loadChantBook,
+  loadChantBooks,
   romanMode,
   sectionOf,
 } from '@/features/chant/chants'
@@ -23,7 +22,7 @@ const phoneWidth = 340
 
 export type ChantLink = { id: string; name: string; subtitle?: string; mode?: string; href: string }
 
-export type KyrialeSection = {
+export type LibrarySection = {
   id: string
   title: string
   name?: string
@@ -31,11 +30,12 @@ export type KyrialeSection = {
   chants: ChantLink[]
 }
 
-export type KyrialePage = {
+export type LibraryBook = {
+  id: string
   title: string
   description: string
   source: string
-  sections: KyrialeSection[]
+  sections: LibrarySection[]
 }
 
 function link(id: string, locale: Locale): ChantLink {
@@ -43,27 +43,30 @@ function link(id: string, locale: Locale): ChantLink {
   return { id, name, subtitle, mode: romanMode(mode), href: href.chant(locale, id) }
 }
 
-async function kyriale(): Promise<ChantBook> {
+async function books(): Promise<ChantBook[]> {
   await bootCorpus()
-  const book = await loadChantBook(kyrialeId)
-  if (!book) throw new Error('The Kyriale is missing from the corpus')
-  return book
+  return loadChantBooks()
 }
 
-export async function loadKyriale(locale: Locale): Promise<KyrialePage> {
-  const book = await kyriale()
-  return withLocale(locale, () => ({
-    title: localizeContent(book.name),
-    description: localizeContent(book.description),
-    source: book.source,
-    sections: book.sections.map((section) => ({
-      id: section.id,
-      title: localizeContent(section.title),
-      name: section.name,
-      occasion: section.occasion && localizeContent(section.occasion),
-      chants: section.chants.map((id) => link(id, locale)),
+/** Every chant book, with its sections and the page of each chant. */
+export async function loadChantLibrary(locale: Locale): Promise<LibraryBook[]> {
+  const all = await books()
+  return withLocale(locale, () =>
+    all.map((book) => ({
+      id: slugOf(book.id),
+      title: localizeContent(book.name),
+      description: localizeContent(book.description),
+      source: book.source,
+      sections: book.sections.map((section) => ({
+        // Two books may each have a section called `hymns`; a page anchor must be the page's own.
+        id: `${slugOf(book.id)}-${section.id}`,
+        title: localizeContent(section.title),
+        name: section.name,
+        occasion: section.occasion && localizeContent(section.occasion),
+        chants: section.chants.map((id) => link(id, locale)),
+      })),
     })),
-  }))
+  )
 }
 
 export type ChantPage = {
@@ -84,10 +87,11 @@ export type ChantPage = {
 }
 
 export async function loadChantPage(id: string, locale: Locale): Promise<ChantPage> {
-  const book = await kyriale()
+  const all = await books()
   const chant = await loadChant(id)
   if (!chant) throw new Error(`No chant ${id}`)
-  const section = sectionOf(book, id)
+  const found = sectionOf(all, id)
+  const section = found?.section
   const at = section ? section.chants.indexOf(id) : -1
   const slug = slugOf(id)
   return withLocale(locale, () => ({
@@ -98,11 +102,12 @@ export async function loadChantPage(id: string, locale: Locale): Promise<ChantPa
     commentary: chant.commentary,
     book: chant.book,
     transcriber: chant.transcriber,
-    section: section && {
-      title: localizeContent(section.title),
-      name: section.name,
-      href: `${href.section(locale, 'chant')}#${section.id}`,
-    },
+    section: found &&
+      section && {
+        title: localizeContent(section.title),
+        name: section.name,
+        href: `${href.section(locale, 'chant')}#${slugOf(found.book.id)}-${section.id}`,
+      },
     previous: section && at > 0 ? link(section.chants[at - 1], locale) : undefined,
     next:
       section && at < section.chants.length - 1 ? link(section.chants[at + 1], locale) : undefined,

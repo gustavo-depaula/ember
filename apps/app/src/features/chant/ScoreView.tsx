@@ -85,9 +85,13 @@ const StaffLine = memo(function StaffLine({
   const d = useMemo(() => ink(line), [ink, line])
   const colors = { ink: inkColor, rubric: rubricColor }
   const texts = line.marks.filter((mark): mark is ScoreText => mark.type === 'text')
+  const strokes = line.marks.filter((mark) => mark.type === 'stroke')
   return (
     <Svg width={width} height={line.height} viewBox={`0 ${line.top} ${width} ${line.height}`}>
       <Path d={d} fill={inkColor} />
+      {strokes.map((stroke, i) => (
+        <Path key={i} d={stroke.d} stroke={inkColor} strokeWidth={stroke.weight} fill="none" />
+      ))}
       {texts.map((text, i) => (
         <SvgText key={i} x={text.x} y={text.y} fontSize={text.size} textAnchor={text.anchor}>
           {text.runs.map((run, j) => (

@@ -11,16 +11,16 @@ import { inkPaths } from '../inkPath'
 import { layoutScore, type ScoreLayout, type ScoreText } from '../layoutScore'
 import { scoreSvg } from '../scoreSvg'
 
-const chantsDir = resolve(
-  dirname(fileURLToPath(import.meta.url)),
-  '../../../../../../content/chants',
+const content = resolve(dirname(fileURLToPath(import.meta.url)), '../../../../../../content')
+// The library's scores and the Mass propers': every one has to engrave.
+const chants = ['chants', 'chant-propers'].flatMap((dir) =>
+  readdirSync(resolve(content, dir))
+    .filter((file) => file.endsWith('.gabc'))
+    .map((file) => ({
+      id: file.slice(0, -5),
+      ...parseGabc(readFileSync(resolve(content, dir, file), 'utf8')),
+    })),
 )
-const chants = readdirSync(chantsDir)
-  .filter((file) => file.endsWith('.gabc'))
-  .map((file) => ({
-    id: file.slice(0, -5),
-    ...parseGabc(readFileSync(resolve(chantsDir, file), 'utf8')),
-  }))
 const chant = (id: string) => {
   const found = chants.find((c) => c.id === id)
   if (!found) throw new Error(`no chant ${id}`)
@@ -62,7 +62,7 @@ describe('engravableScore', () => {
 
 describe('layoutScore', () => {
   it('sets every chant in the corpus, with no markup left in the words', () => {
-    expect(chants.length).toBeGreaterThan(100)
+    expect(chants.length).toBeGreaterThan(1000)
     for (const { id, score } of chants) {
       for (const width of [320, 720]) {
         const layout = layoutScore(score, { width })

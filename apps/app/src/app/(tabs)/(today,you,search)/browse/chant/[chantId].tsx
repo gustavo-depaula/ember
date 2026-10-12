@@ -12,9 +12,8 @@ import { useBottomClearance } from '@/components/tabAccessory'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import {
   chantSummary,
-  kyrialeId,
   loadChant,
-  loadChantBook,
+  loadChantBooks,
   romanMode,
   ScoreView,
   sectionOf,
@@ -28,8 +27,8 @@ const viewability = { itemVisiblePercentThreshold: 60 }
 // A staff wider than this spreads its neumes too thin to read as phrases.
 const maxScoreWidth = 720
 
-// One chant in square notes. Opened from a section of the Kyriale, it is a
-// page among that section's chants — the Kyrie, then a swipe to the Gloria.
+// One chant in square notes. Opened from a section of its book, it is a page
+// among that section's chants — the Kyrie, then a swipe to the Gloria.
 export default function ChantScreen() {
   const { t } = useTranslation()
   const { chantId, section } = useLocalSearchParams<{ chantId: string; section?: string }>()
@@ -40,12 +39,12 @@ export default function ChantScreen() {
   const { width: pageWidth } = useWindowDimensions()
   const id = `chant/${chantId}`
 
-  const bookQuery = useQuery({
-    queryKey: ['chant-book', kyrialeId, catalogVersion],
-    queryFn: async () => (await loadChantBook(kyrialeId)) ?? null,
+  const booksQuery = useQuery({
+    queryKey: ['chant-books', catalogVersion],
+    queryFn: loadChantBooks,
     staleTime: Number.POSITIVE_INFINITY,
   })
-  const reading = bookQuery.data ? sectionOf(bookQuery.data, id, section) : undefined
+  const reading = booksQuery.data ? sectionOf(booksQuery.data, id, section)?.section : undefined
   const chants = useMemo(() => reading?.chants ?? [id], [reading, id])
 
   // The page shown, once the reader has moved; until then, the chant asked for.
@@ -144,15 +143,15 @@ export default function ChantScreen() {
         </ScrollView>
       )}
 
-      {bookQuery.isError && (
+      {booksQuery.isError && (
         <YStack paddingHorizontal={gutter}>
-          <InlineRetry onRetry={() => bookQuery.refetch()} />
+          <InlineRetry onRetry={() => booksQuery.refetch()} />
         </YStack>
       )}
 
       {/* Keyed by the section: its chants arrive with the book, and a pager
           cannot move its first page once it has mounted. */}
-      {!bookQuery.isPending && (
+      {!booksQuery.isPending && (
         <FlatList
           key={`${reading?.id}:${pageWidth}`}
           ref={pager}

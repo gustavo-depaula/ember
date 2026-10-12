@@ -1,0 +1,2164 @@
+[
+ {
+  "place": "missa/Latin/Tempora/093-6#GradualeL2",
+  "head": "GradualeL2",
+  "lines": [
+   "!Ps 83:10; 83:9",
+   "Protéctor noster, áspice, Deus, et réspice super servos tuos.",
+   "V. Dómine, Deus virtútum, exáudi preces servórum tuórum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "protectornosteraspicedeusetrespicesuperservostuosdominedeusvirtutumexaudiprecesservorumtuorum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Adv2-0#GradualeF",
+  "head": "GradualeF",
+  "lines": [
+   "!Ps 49:2-3; 49:5",
+   "Ex Sion species decóris ejus: Deus maniféste véniet,",
+   "V. Congregáte illi sanctos ejus, qui ordinavérunt testaméntum ejus super sacrifícia.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "exionspeciesdecoriseiusdeusmanifestevenietcongregateillisanctoseiusquiordinaverunttestamentumeiussupersacrificia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Adv3-3#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Is 35:4.",
+   "Confortámini, et jam nolite timére: ecce enim, Deus noster retríbuet judícium: ipse véniet, et salvos nos fáciet.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "confortaminietiamnolitetimereecceenimdeusnosterretribuetiudiciumipsevenietetsalvosnosfaciet"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Adv3-6#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Zach 9:9",
+   "Exsúlta satis, fília Sion, prǽdica, fília Jerúsalem: ecce, Rex tuus venit tibi sanctus et Salvátor.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "exultasatisfiliasionpredicafiliaierusalemeccerextuusvenittibisanctusetsalvator"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Epi1-0#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Luc 2:51",
+   "Descéndit Jesus cum eis, et venit Názareth, et erat súbditus illis.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "descenditiesuscumeisetvenitnazareteteratsubditusillis"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Epi3-0#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 117:16; 117:17",
+   "Déxtera Dómini fecit virtutem, déxtera Dómini exaltávit me: non móriar, sed vivam, et narrábo ópera Dómini.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "dexteradominifecitvirtutemdexteradominiexaltavitmenonmoriarsedvivametnarrabooperadomini"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Nat2-0#GradualeP",
+  "head": "GradualeP",
+  "lines": [
+   "Allelúja, allelúja",
+   "!Ps 144:21",
+   "Laudem Dómini loquétur os meum, et benedícat omnis caro nomen sanctum ejus. Allelúja.",
+   "!Ps 144:1",
+   "Exaltábo te, Deus meus, Rex: et benedícam nómini sancto tuo, Jesu, in sǽculum, et in sǽculum sǽculi. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "laudemdominiloqueturosmeumetbenedicatomniscaronomensanctumeius"
+   ],
+   [
+    "al",
+    "exaltabotedeusmeusrexetbenedicamnominisanctotuoiesuinseculumetinseculumseculi"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc0-0#Communio",
+  "head": "Communio",
+  "lines": [
+   "!1 Cor 5:7-8",
+   "Pascha nostrum immolátus est Christus, allelúja: itaque epulémur in ázymis sinceritátis et veritátis, allelúja, allelúja, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "pascanostrumimmolatusestcristusalleluiaitaqueepulemurinazimissinceritatisetveritatisalleluiaalleluiaalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc0-2t#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps. 17:14; 17:16",
+   "Intónuit de cœlo Dóminus, et Altíssimus dedit vocem suam: et apparuérunt fontes aquárum, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "intonuitdecelodominusetaltissimusdeditvocemsuametapparueruntfontesaquarumalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc0-4#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Exod 13:5",
+   "In die solemnitátis vestræ, dicit Dóminus, indúcam vos in terram fluéntem lac et mel, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "indiesolemnitatisvestredicitdominusinducamvosinterramfluentemlacetmelalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc0-5t#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Matt 28:18-19",
+   "Data est mihi omnis potéstas in cœlo et in terra, allelúja: eúntes, docéte omnes gentes, baptizántes eos in nómine Patris, et Fílii, et Spíritus Sancti, allelúja, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "dataestmihiomnispotestasinceloetinterraalleluiaeuntesdoceteomnesgentesbaptizanteseosinnominepatrisetfiliietspiritussanctialleluiaalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc1-0#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Matt 28:2; 28:5-6",
+   "Angelus Dómini descéndit de cœlo, et dixit muliéribus: Quem quǽritis, surréxit, sicut dixit, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "angelusdominidescenditdeceloetdixitmulieribusquemqueritissurrexitsicutdixitalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc3-0#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "Allelúja, allelúja.",
+   "!Ps 110:9",
+   "Redemptiónem misit Dóminus pópulo suo. Allelúja.",
+   "!Luc 24:46",
+   "Oportébat pati Christum, et resúrgere a mórtuis: et ita intráre in glóriam suam. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "redemptionemmisitdominuspopulosuo"
+   ],
+   [
+    "al",
+    "oportebatpaticristumetresurgereamortuisetitaintrareingloriamsuam"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc4-0#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 65:1-2; 65:16",
+   "Jubiláte Deo, univérsa terra, psalmum dícite nómini ejus: veníte et audíte, et narrábo vobis, omnes qui timétis Deum, quanta fecit Dóminus ánimæ meæ, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "iubilatedeouniversaterrapsalmumdicitenominieiusveniteetauditeetnarrabovobisomnesquitimetisdeumquantafecitdominusanimemeealleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc5-0t#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "Allelúja, allelúja.",
+   "V. Surréxit Christus, et illúxit nobis, quos rédemit sánguine suo. Allelúja,",
+   "!Joannes 16:28",
+   "Exívi a Patre, et veni in mundum: íterum relínquo mundum, et vado ad Patrem. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "surrexitcristusetilluxitnobisquosredemitsanguinesuo"
+   ],
+   [
+    "al",
+    "exiviapatreetveniinmundumiterumrelinquomundumetvadoadpatrem"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc5-3#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Is 48:20",
+   "v. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja",
+   "!Ps 65:1-2",
+   "Jubiláte Deo, omnis terra, psalmum dícite nómini ejus: date glóriam laudi ejus.",
+   "&Gloria",
+   "v. Vocem jucunditátis annuntiáte, et audiátur, allelúja: annuntiáte usque ad extrémum terræ: liberávit Dóminus pópulum suum, allelúja, allelúja",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "vocemiucunditatisannuntiateetaudiaturalleluiaannuntiateusqueadextremumterreliberavitdominuspopulumsuumalleluiaalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc6-0#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Joannes 17:12-13; 17:15",
+   " Pater, cum essem cum eis, ego servábam eos, quos dedísti mihi, allelúja: nunc autem ad te vénio: non rogo, ut tollas eos de mundo, sed ut serves eos a malo, allelúja, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "patercumessemcumeisegoservabameosquosdedistimihialleluianuncautemadteveniononrogouttollaseosdemundosedutserveseosamaloalleluiaalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc7-1#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "Allelúja, allelúja.",
+   "!Acts 2:4",
+   "Loquebántur váriis linguis Apóstoli magnália Dei. Allelúja. (Hic genuflectitur)",
+   "V. Veni, Sancte Spiritus, reple tuorum corda fidélium: et tui amóris in eis ignem accénde.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "loquebanturvariislinguisapostolimagnaliadei"
+   ],
+   [
+    "al",
+    "venisanctespiritusrepletuorumcordafideliumettuiamorisineisignemaccende"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc7-3#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Joannes 14:27",
+   "Pacem relínquo vobis, allelúja: pacem meam do vobis, allelúja, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "pacemrelinquovobisalleluiapacemmeamdovobisalleluiaalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc7-5#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 145:2",
+   "Lauda, ánima mea, Dóminum: laudábo Dóminum in vita mea: psallam Deo meo, quámdiu ero, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "laudaanimameadominumlaudabodominuminvitameapsallamdeomeoquamdiueroalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc7-6#GradualeL4",
+  "head": "GradualeL4",
+  "lines": [
+   "Allelúja.",
+   "V. (Hic genuflectitur) Veni, Sancte Spíritus, reple tuórum corda fidélium: et tui amóris in eis ignem accénde.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "alleluiavenisanctespiritusrepletuorumcordafideliumettuiamorisineisignemaccende"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pasc7-6t#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Joannes 3:8",
+   "Spíritus, ubi vult, spirat: et vocem ejus audis, allelúja, allelúja: sed nescis, unde véniat aut quo vadat, allelúja, allelúja, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "spiritusubivultspiratetvocemeiusaudisalleluiaalleluiasednescisundeveniatautquovadatalleluiaalleluiaalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent01-0r#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Tob 12:6",
+   "Benedícimus Deum cœli et coram ómnibus vivéntibus confitébimur ei: quia fecit nobíscum misericórdiam suam.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "benedicimusdeumcelietcoramomnibusviventibusconfitebimureiquiafecitnobiscummisericordiamsuam"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent02-0#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 6:5",
+   "Dómine, convértere, et éripe ánimam meam: salvum me fac propter misericórdiam tuam.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "domineconvertereeteripeanimammeamsalvummefacproptermisericordiamtuam"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent02-5o#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Ps. 68",
+   "Improperium expectavit cor meum et miseriam: et sistinui qui simul contristaretur, et non fuit: et qui consolaretur et non inveni.",
+   "!Ps. 21",
+   "Ego autem sum vermis et non homo: opprobrium hominum et abiectio plebes.",
+   "V. Omnes videntes me deriserunt me: locuti sunt labiis moverunt caput.",
+   "V. Sicut aqua effusus sum et dispersa sunt universa ossa mea factum est cor meum tamquam cera liquescens in medio ventris mei.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "improperiumexpectavitcormeumetmiseriametsistinuiquisimulcontristareturetnonfuitetquiconsolareturetnoninveniegoautemsumvermisetnonhomoopprobriumhominumetabiectioplebesomnesvidentesmederiseruntmelocutisuntlabiismoveruntcaputsicutaquaeffusussumetdispersasuntuniversaossameafactumestcormeumtamquamceraliquescensinmedioventrismei"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent04-0o#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 78:9; 78:10",
+   "Propítius esto, Dómine, peccátis nostris: ne quando dicant gentes: Ubi est Deus eórum?",
+   "V. Adjuva nos, Deus, salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos. Allelúja, allelúja",
+   "!Ps 9:5; 9:10",
+   "Deus, qui sedes super thronum, et júdicas æquitátem: esto refúgium páuperum in tribulatióne. Allelúja",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "propitiusestodominepeccatisnostrisnequandodicantgentesubiestdeuseorumadiuvanosdeussalutarisnosteretpropterhonoremnoministuidomineliberanos"
+   ],
+   [
+    "al",
+    "deusquisedessupertronumetiudicasequitatemestorefugiumpauperumintribulatione"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent06-0#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 27:8-9",
+   "v. Dóminus fortitudo plebis suæ, et protéctor salutárium Christi sui est: salvum fac pópulum tuum, Dómine, et benedic hereditáti tuæ, et rege eos usque in sǽculum.",
+   "!Ps 27:1",
+   "Ad te, Dómine, clamábo, Deus meus, ne síleas a me: ne quando táceas a me, et assimilábor descendéntibus in lacum.",
+   "&Gloria",
+   "v. Dóminus fortitudo plebis suæ, et protéctor salutárium Christi sui est: salvum fac pópulum tuum, Dómine, et benedic hereditáti tuæ, et rege eos usque in sǽculum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "dominusfortitudoplebissueetprotectorsalutariumcristisuiestsalvumfacpopulumtuumdomineetbenedicereditatitueetregeeosusqueinseculum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent08-0#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Ps 33:9",
+   "Gustáte et vidéte, quóniam suávis est Dóminus: beátus vir, qui sperat in eo.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "gustateetvidetequoniamsuavisestdominusbeatusvirquisperatineo"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent11-0#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 29:2-3",
+   "Exaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super me: Dómine, clamávi ad te, et sanásti me.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "exaltabotedominequoniamsuscepistimenecdelectastiinimicosmeossupermedomineclamaviadteetsanastime"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent14-0#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 117:8-9",
+   "Bonum est confidére in Dómino, quam confidére in hómine.",
+   "V. Bonum est speráre in Dómino, quam speráre in princípibus. Allelúja, allelúja.",
+   "!Ps 94:1.",
+   "Veníte, exsultémus Dómino, jubilémus Deo, salutári nostro. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "bonumestconfidereindominoquamconfidereinhominebonumestsperareindominoquamsperareinprincipibus"
+   ],
+   [
+    "al",
+    "veniteexultemusdominoiubilemusdeosalutarinostro"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent17-0#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 32:12; 32:6",
+   "Beáta gens, cujus est Dóminus Deus eórum: pópulus, quem elégit Dóminus in hereditátem sibi.",
+   "V. Verbo Dómini cœli firmáti sunt: et spíritu oris ejus omnis virtus eórum. Allelúja, allelúja",
+   "!Ps 101:2",
+   "Dómine, exáudi oratiónem meam, et clamor meus ad te pervéniat. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "beatagenscuiusestdominusdeuseorumpopulusquemelegitdominusinhereditatemsibiverbodominicelifirmatisuntetspirituoriseiusomnisvirtuseorum"
+   ],
+   [
+    "al",
+    "domineexaudiorationemmeametclamormeusadteperveniat"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent20-0#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Dan 3:31; 31:29; 31:35",
+   "v. Omnia, quæ fecísti nobis, Dómine, in vero judício fecísti, quia peccávimus tibi et mandátis tuis non obœdívimus: sed da glóriam nómini tuo, et fac nobíscum secúndum multitúdinem misericórdiæ tuæ.",
+   "!Ps 118:1",
+   "Beáti immaculáti in via: qui ámbulant in lege Dómini.",
+   "&Gloria",
+   "v. Omnia, quæ fecísti nobis, Dómine, in vero judício fecísti, quia peccávimus tibi et mandátis tuis non obœdívimus: sed da glóriam nómini tuo, et fac nobíscum secúndum multitúdinem misericórdiæ tuæ.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "omniaquefecistinobisdomineinveroiudiciofecistiquiapeccavimustibietmandatistuisnonobedivimusseddagloriamnominituoetfacnobiscumsecundummultitudinemmisericordietue"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Pent23-0#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Jer 29:11; 29:12; 29:14",
+   "v. Dicit Dóminus: Ego cógito cogitatiónes pacis, et non afflictiónis: invocábitis me, et ego exáudiam vos: et redúcam captivitátem vestram de cunctis locis.",
+   "!Ps 84:2",
+   "Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob.",
+   "&Gloria",
+   "v. Dicit Dóminus: Ego cógito cogitatiónes pacis, et non afflictiónis: invocábitis me, et ego exáudiam vos: et redúcam captivitátem vestram de cunctis locis.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "dicitdominusegocogitocogitationespacisetnonafflictionisinvocabitismeetegoexaudiamvosetreducamcaptivitatemvestramdecunctislocis"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad1-1#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Matt 25:40; 25:34",
+   "Amen, dico vobis: quod uni ex mínimis meis fecístis, mihi fecístis: veníte, benedícti Patris mei, possidéte parátum vobis regnum ab inítio sǽculi.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "amendicovobisquoduniexminimismeisfecistismihifecistisvenitebenedictipatrismeipossideteparatumvobisregnumabinitioseculi"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad1-4#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 16:8; 16:2",
+   "Custódi me, Dómine, ut pupíllam óculi: sub umbra alárum tuárum prótege me.",
+   "V. De vultu tuo judícium meum pródeat: óculi tui vídeant æquitátem.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "custodimedomineutpupillamoculisubumbraalarumtuarumprotegemedevultutuoiudiciummeumprodeatoculituivideantequitatem"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad1-6#GradualeL4",
+  "head": "GradualeL4",
+  "lines": [
+   "!Ps 140:2",
+   "Dirigátur orátio mea sicut incénsum in conspéctu tuo, Dómine.",
+   "V. Elevátio mánuum meárum sacrifícium vespertínum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "dirigaturoratiomeasicutincensuminconspectutuodomineelevatiomanuummearumsacrificiumvespertinum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad2-2#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 26:8; 26:9",
+   "v. Tibi dixit cor meum, quæsívi vultum tuum. vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me.",
+   "!Ps 26:1",
+   "Dóminus illuminátio mea, et salus mea: quem timébo?",
+   "&Gloria",
+   "v. Tibi dixit cor meum, quæsívi vultum tuum. vultum tuum, Dómine, requíram: ne avértas fáciem tuam a me.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "tibidixitcormeumquesivivultumtuumvultumtuumdominerequiramneavertasfaciemtuamame"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad2-5#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 16:15",
+   "v. Ego autem cum justítia apparébo in conspéctu tuo: satiábor, dum manifestábitur glória tua.",
+   "!Ps 16:1",
+   "Exáudi, Dómine, justitiam meam: inténde deprecatióni meæ.",
+   "&Gloria",
+   "v. Ego autem cum justítia apparébo in conspéctu tuo: satiábor, dum manifestábitur glória tua.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "egoautemcumiustitiaappareboinconspectutuosatiabordummanifestabiturgloriatua"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad3-1#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 55:5.",
+   "v. In Deo laudábo verbum, in Dómino laudábo sermónem: in Deo sperábo, non timebo, quid fáciat mihi homo.",
+   "!Ps 55:2",
+   "Miserére mei, Deus, quóniam conculcávit me homo: tota die bellans tribulávit me.",
+   "&Gloria",
+   "v. In Deo laudábo verbum, in Dómino laudábo sermónem: in Deo sperábo, non timebo, quid fáciat mihi homo.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "indeolaudaboverbumindominolaudabosermonemindeosperabonontimeboquidfaciatmihihomo"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad3-3#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Ps 15:10",
+   "Notas mihi fecísti vias vitæ: adimplébis me lætítia cum vultu tuo, Dómine.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "notasmihifecistiviasviteadimplebismeletitiacumvultutuodomine"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad3-4t#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 137:7",
+   "Si ambulávero in médio tribulatiónis, vivificábis me, Dómine: et super iram inimicórum meorum exténdes manum tuam, et salvum me fáciet déxtera tua.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "siambulaveroinmediotribulationisvivificabismedomineetsuperiraminimicorummeorumextendesmanumtuametsalvummefacietdexteratua"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad3-6#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 22:4",
+   "Si ámbulem in médio umbræ mortis, non timébo mala: quóniam tu mecum es, Dómine.",
+   "V. Virga tua et báculus tuus, ipsa me consoláta sunt.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "siambuleminmedioumbremortisnontimebomalaquoniamtumecumesdominevirgatuaetbaculustuusipsameconsolatasunt"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad4-0t#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Is 66:10 et 11",
+   "v. Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ.",
+   "!Ps 121:1.",
+   "Lætátus sum in his, quæ dicta sunt mihi: in domum Dómini íbimus.",
+   "&Gloria",
+   "v. Lætáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum lætítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestræ.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "letareierusalemetconventumfaciteomnesquidiligitiseamgaudetecumletitiaquiintristitiafuistisutexultetisetsatieminiabuberibusconsolationisvestre"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad4-2#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Ps 19:6",
+   "Lætábimur in salutári tuo: et in nómine Dómini, Dei nostri, magnificábimur.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "letabimurinsalutarituoetinnominedominideinostrimagnificabimur"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad4-3t#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 65:8-9, 20",
+   "Benedícite, gentes, Dóminum, Deum nostrum, et obaudíte vocem laudis ejus: qui pósuit ánimam meam ad vitam, et non dedit commovéri pedes meos: benedíctus Dóminus, qui non amóvit deprecatiónem meam, et misericórdiam suam a me.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "benedicitegentesdominumdeumnostrumetobauditevocemlaudiseiusquiposuitanimammeamadvitametnondeditcommoveripedesmeosbenedictusdominusquinonamovitdeprecationemmeametmisericordiamsuamame"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad4-5#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 117:8-9",
+   "Bonum est confídere in Dómino, quam confídere in hómine.",
+   "V. Bonum est speráre in Dómino, quam speráre in princípibus.",
+   "_",
+   "!Tractus",
+   "!Ps 102:10",
+   "Dómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.",
+   "!Ps 78:8-9",
+   "V. Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. (Hic genuflectitur)",
+   "V. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "bonumestconfidereindominoquamconfidereinhominebonumestsperareindominoquamsperareinprincipibus"
+   ],
+   [
+    "tr",
+    "dominenonsecundumpeccatanostraquefecimusnosnequesecunduminiquitatesnostrasretribuasnobisdominenememinerisiniquitatumnostrarumantiquarumcitoanticipentnosmisericordietuequiapauperesfactisumusnimisadiuvanosdeussalutarisnosteretproptergloriamnoministuidomineliberanosetpropitiusestopeccatisnostrispropternomentuum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad4-6t#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Ps 22:1-2",
+   "Dóminus regit me, et nihil mihi déerit: in loco páscuæ ibi me collocávit: super aquam refectiónis educávit me.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "dominusregitmeetnihilmihideeritinlocopascueibimecollocavitsuperaquamrefectioniseducavitme"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad5-2#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 9:11-12, 13",
+   "Sperent in te omnes, qui novérunt nomen tuum, Dómine: quóniam non derelínquis quæréntes te: psállite Dómino, qui hábitat in Sion: quóniam non est oblítus oratiónes páuperum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "sperentinteomnesquinoveruntnomentuumdominequoniamnonderelinquisquerentestepsallitedominoquihabitatinsionquoniamnonestoblitusorationespauperum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad5-3t#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 29:2-4",
+   "Exaltábo te, Dómine, quóniam suscepísti me: nec delectásti inimícos meos super me.",
+   "V. Dómine, Deus meus, clamávi ad te, et sanásti me: Dómine, abstraxísti ab ínferis ánimam meam, salvásti me a descendéntibus in lacum.",
+   "_",
+   "!Tractus",
+   "!Ps 102:10",
+   "Dómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.",
+   "!Ps 78:8-9",
+   "V. Dómine, ne memíneris iniquitátum nostrárum antiquárum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. (Hic genuflectitur)",
+   "V. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, líbera nos: et propítius esto peccátis nostris, propter nomen tuum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "exaltabotedominequoniamsuscepistimenecdelectastiinimicosmeossupermedominedeusmeusclamaviadteetsanastimedomineabstraxistiabinferisanimammeamsalvastimeadescendentibusinlacum"
+   ],
+   [
+    "tr",
+    "dominenonsecundumpeccatanostraquefecimusnosnequesecunduminiquitatesnostrasretribuasnobisdominenememinerisiniquitatumnostrarumantiquarumcitoanticipentnosmisericordietuequiapauperesfactisumusnimisadiuvanosdeussalutarisnosteretproptergloriamnoministuidomineliberanosetpropitiusestopeccatisnostrispropternomentuum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad5-5#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Joann 19:25",
+   "v. Stabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et Salóme et María Magdaléne.",
+   "!Joann 19:26-27.",
+   "Múlier, ecce fílius tuus: dixit Jesus; ad discípulum autem: Ecce Mater tua.",
+   "&Gloria",
+   "v. Stabant juxta Crucem Jesu Mater ejus, et soror Matris ejus, María Cléophæ, et Salóme et María Magdaléne.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "stabantiuxtacrucemiesumatereiusetsorormatriseiusmariacleofeetsalomeetmariamagdalene"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad5-6#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 34:20, 22",
+   "Pacífice loquebántur mihi inimíci mei: et in ira molésti erant mihi.",
+   "V. Vidísti, Dómine, ne síleas: ne discédas a me.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "pacificeloquebanturmihiinimicimeietiniramolestierantmihividistidominenesileasnediscedasame"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad6-1#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 34:1-2.",
+   "v. Júdica, Dómine, nocéntes me, expúgna impugnántes me: apprehénde arma et scutum, et exsúrge in adjutórium meum, Dómine, virtus salútis meæ.",
+   "!Ps 34:3",
+   "Effúnde frámeam, et conclúde advérsus eos, qui persequúntur me: dic ánimæ meæ: Salus tua ego sum.",
+   "v. Júdica, Dómine, nocéntes me, expúgna impugnántes me: apprehénde arma et scutum, et exsúrge in adjutórium meum, Dómine, virtus salútis meæ.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "iudicadominenocentesmeexpugnaimpugnantesmeapprehendearmaetscutumetexurgeinadiutoriummeumdominevirtussalutismee"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad6-3#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 101:2-3",
+   "Dómine, exáudi oratiónem meam, et clamor meus ad te pervéniat: ne avértas fáciem tuam a me.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "domineexaudiorationemmeametclamormeusadteperveniatneavertasfaciemtuamame"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quad6-4rm2#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Phil 2:8-9",
+   "Christus factus est pro nobis obœ́diens usque ad mortem, mortem autem crucis.",
+   "V. Propter quod et Deus exaltávit illum: et dedit illi nomen, quod est super omne nomen.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "cristusfactusestpronobisobediensusqueadmortemmortemautemcrucispropterquodetdeusexaltavitillumetdeditillinomenquodestsuperomnenomen"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quadp1-0#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Ps 30:17-18",
+   "Illúmina fáciem tuam super servum tuum, et salvum me fac in tua misericórdia: Dómine, non confúndar, quóniam invocávi te.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "illuminafaciemtuamsuperservumtuumetsalvummefacintuamisericordiadominenonconfundarquoniaminvocavite"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quadp3-3#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 56:2; 56:4",
+   "Miserére mei, Deus, miserére mei: quóniam in te confídit ánima mea.",
+   "V. Misit de coelo, et liberávit me, dedit in oppróbrium conculcántes me.",
+   "_",
+   "!Tractus",
+   "!Ps 102:10",
+   "Dómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis.",
+   "!Ps 78:8-9",
+   "Dómine, ne memíneris iniquitátum nostrarum antiquarum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. (Hic genuflectitur)",
+   "V. Adjuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, libera nos: et propítius esto peccátis nostris, propter nomen tuum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "misereremeideusmisereremeiquoniaminteconfiditanimameamisitdeceloetliberavitmededitinopprobriumconculcantesme"
+   ],
+   [
+    "tr",
+    "dominenonsecundumpeccatanostraquefecimusnosnequesecunduminiquitatesnostrasretribuasnobisdominenememinerisiniquitatumnostrarumantiquarumcitoanticipentnosmisericordietuequiapauperesfactisumusnimisadiuvanosdeussalutarisnosteretproptergloriamnoministuidomineliberanosetpropitiusestopeccatisnostrispropternomentuum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Tempora/Quadp3-6#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 26:4",
+   "Unam pétii a Dómino, hanc requíram, ut inhábitem in domo Dómini,",
+   "V. Ut vídeam voluptátem Dómini, et prótegar a templo sancto ejus.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "unampetiiadominohancrequiramutinhabitemindomodominiutvideamvoluptatemdominietprotegaratemplosanctoeius"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/01-19#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Ps 125:5-6",
+   "Qui séminant in lácrimis, in gáudio metent.",
+   "V. Eúntes ibant et flébant, mitténtes sémina sua.",
+   "V. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "quiseminantinlacrimisingaudiometenteuntesibantetflebantmittentesseminasuavenientesautemvenientcumexultationeportantesmanipulossuos"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/01-27#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Eccli 44:16",
+   "Ecce sacérdos magnus, qui in diébus suis plácuit Deo.",
+   "!Eccli 44:20",
+   "Non est invéntus símilis illi, qui conserváret legem Excélsi.",
+   "Allelúja, allelúja.",
+   "!Jac 1:12",
+   "Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "eccesacerdosmagnusquiindiebussuisplacuitdeononestinventussimilisilliquiconservaretlegemexcelsi"
+   ],
+   [
+    "al",
+    "beatusvirquisufferttentationemquoniamcumprobatusfueritaccipietcoronamvite"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/02-01#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Eccli 44:16.",
+   "Ecce sacérdos magnus, qui in diébus suis plácuit Deo.",
+   "!Eccli 44:20.",
+   "Non est invéntus símilis illi, qui conserváret legem Excélsi.",
+   "!Ps 20:3-4.",
+   "Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum.",
+   "V. Quoniam prævenísti eum in benedictiónibus dulcedinis.",
+   "V. Posuísti in cápite ejus coronam de lápide pretióso.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "eccesacerdosmagnusquiindiebussuisplacuitdeononestinventussimilisilliquiconservaretlegemexcelsidesideriumanimeeiustribuistieietvoluntatelabiorumeiusnonfraudastieumquoniamprevenistieuminbenedictionibusdulcedinisposuistiincapiteeiuscoronamdelapidepretioso"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/02-11#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Cant 2:12",
+   "Flores apparuérunt in terra nostra, tempus putatiónis advénit, vox túrturis audíta est in terra nostra.",
+   "!Cant 2:10 et 14",
+   "V. Surge, amíca mea, speciósa mea, et veni: colúmba mea in foramínibus petræ, in cavérna macériæ.",
+   "Allelúia, allelúia.",
+   "V. Osténde mihi fáciem tuam, sonet vox tua in áuribus meis: vox enim tua dulcis, et fácies tua decóra. Allelúia.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "floresapparueruntinterranostratempusputationisadvenitvoxturturisauditaestinterranostrasurgeamicameaspeciosameaetvenicolumbameainforaminibuspetreincavernamacerie"
+   ],
+   [
+    "al",
+    "ostendemihifaciemtuamsonetvoxtuainauribusmeisvoxenimtuadulcisetfaciestuadecora"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/02-24#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 138:17",
+   "v. Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.",
+   "!Ps 138:1-2.",
+   "Dómine, probásti me et cognovísti me: tu cognovísti sessiónem meam et resurrectiónem meam.",
+   "&Gloria",
+   "v. Mihi autem nimis honoráti sunt amíci tui, Deus: nimis confortátus est principátus eórum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "mihiautemnimishonoratisuntamicituideusnimisconfortatusestprincipatuseorum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/03-10#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 33:18",
+   "v. Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos.",
+   "!Ps 33:2",
+   "Benedícam Dóminum in omni témpore: semper laus ejus in ore meo.",
+   "&Gloria",
+   "v. Clamavérunt justi, et Dóminus exaudívit eos: et ex ómnibus tribulatiónibus eórum liberávit eos.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "clamaveruntiustietdominusexaudiviteosetexomnibustribulationibuseorumliberaviteos"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/03-24#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 102:20 et 1",
+   "Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus.",
+   "V. Bénedic, ánima mea, Dóminum, et ómnia interióra mea nomen sanctum ejus.",
+   "Allelúja, allelúja.",
+   "!Ps 102:21.",
+   "Benedicite Dómino, omnes virtútes ejus: ministri ejus, qui fácitis voluntátem ejus. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "benedicitedominumomnesangelieiuspotentesvirtutequifacitisverbumeiusbenedicanimameadominumetomniainteriorameanomensanctumeius"
+   ],
+   [
+    "al",
+    "benedicitedominoomnesvirtuteseiusministrieiusquifacitisvoluntatemeius"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/03-27#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Job 14:7",
+   "Lignum habet spem: si præcísum fúerit, rursum viréscit, et rami ejus púllulant.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "lignumhabetspemsiprecisumfueritrursumvirescitetramieiuspullulant"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/04-14#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!1 Cor 2:2;",
+   "Non enim judicávi me scire áliquid inter vos, nisi Jesum Christum, et hunc crucifíxum. (Alleluia.)",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "nonenimiudicavimescirealiquidintervosnisiiesumcristumetunccrucifixum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/04-28#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ephes 5:2",
+   "Ambuláte in dilectióne, sicut et Christus diléxit nos, et trádidit semetípsum pro nobis oblatiónem et hóstiam Deo in odórem suavitátis, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "ambulateindilectionesicutetcristusdilexitnosettradiditsemetipsumpronobisoblationemetostiamdeoinodoremsuavitatisalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/05-02#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "Allelúja, allelúja.",
+   "!Ps 109:4",
+   "Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja",
+   "!Jas 1:12",
+   "Beátus vir, qui suffert tentatiónem: quóniam, cum probátus fúerit, accípiet corónam vitæ. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "tuessacerdosineternumsecundumordinemmelcisedec"
+   ],
+   [
+    "al",
+    "beatusvirquisufferttentationemquoniamcumprobatusfueritaccipietcoronamvite"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/05-03t#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "Allelúja, allelúja.",
+   "!Ps 95:10",
+   "Dícite in géntibus, quia Dóminus regnávit a ligno. Allelúja.",
+   "V. Dulce lignum, dulces clavos, dúlcia ferens póndera: quæ sola fuísti digna sustinére Regem cœlórum et Dóminum. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "diciteingentibusquiadominusregnavitaligno"
+   ],
+   [
+    "al",
+    "dulcelignumdulcesclavosdulciaferensponderaquesolafuistidignasustinereregemcelorumetdominum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/05-13#GradualeP",
+  "head": "GradualeP",
+  "lines": [
+   "Allelúja, allelúja.",
+   "V. Qui docti fúerint fulgébunt quasi splendor firmaménti. Allelúja.",
+   "V. Qui ad justítiam erúdiunt multos quasi stellæ in perpétuas æternitátes. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "quidoctifuerintfulgebuntquasisplendorfirmamenti"
+   ],
+   [
+    "al",
+    "quiadiustitiamerudiuntmultosquasistelleinperpetuaseternitates"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/05-31#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Maríæ Vírginis Regínæ: de cuius solemnitáte gaudent Angeli, et colláudant Fílium Dei. (Alleluia, alleluia.)",
+   "!Ps 44:2",
+   "Effúndit cor meum verbum bonum: dico ego carmen meum Regi.",
+   "&Gloria",
+   "v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beátæ Maríæ Vírginis Regínæ: de cuius solemnitáte gaudent Angeli, et colláudant Fílium Dei. (Alleluia, alleluia.)",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "gaudeamusomnesindominodiemfestumcelebrantessubhonorebeatemarievirginisreginedecuiussolemnitategaudentangelietcollaudantfiliumdei"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/06-04#GradualeP",
+  "head": "GradualeP",
+  "lines": [
+   "Allelúja, allelúja",
+   "!Ps 64:5",
+   "Beátus, quem elegísti et assumpsísti: inhabitábit in átriis tuis. Allelúja.",
+   "!Ps 111:9",
+   "Dispérsit, dedit paupéribus: justítia ejus manet in sǽculum sǽculi. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "beatusquemelegistietassumpsistiinhabitabitinatriistuis"
+   ],
+   [
+    "al",
+    "dispersitdeditpauperibusiustitiaeiusmanetinseculumseculi"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/06-10pl#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 140:2",
+   "Dirigátur, Dómine, orátio mea, sicut incénsum in conspéctu tuo.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "dirigaturdomineoratiomeasicutincensuminconspectutuo"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/06-19o#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 84:9",
+   "v. Loquétur Dóminus pacem in plebem suam: et super sanctos suos, et in eos, qui convertúntur ad ipsum.",
+   "!Ps 84:2",
+   "Benedixísti, Dómine, terram tuam, avertísti captivitátem Jacob.",
+   "&Gloria",
+   "v. Loquétur Dóminus pacem in plebem suam: et super sanctos suos, et in eos, qui convertúntur ad ipsum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "loqueturdominuspaceminplebemsuametsupersanctossuosetineosquiconvertunturadipsum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/06-24#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Isa 49:1; 49:2",
+   "v. De ventre matris meæ vocávit me Dóminus in nómine meo: et pósuit os meum ut gládium acútum: sub teguménto manus suæ protéxit me, et pósuit me quasi sagíttam eléctam.",
+   "!Ps 91:2",
+   "Bonum est confitéri Dómino: et psállere nómini tuo, Altíssime.",
+   "&Gloria",
+   "v. De ventre matris meæ vocávit me Dóminus in nómine meo: et pósuit os meum ut gládium acútum: sub teguménto manus suæ protéxit me, et pósuit me quasi sagíttam eléctam.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "deventrematrismeevocavitmedominusinnominemeoetposuitosmeumutgladiumacutumsubtegumentomanussueprotexitmeetposuitmequasisagittamelectam"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/06-28#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Eccli 24:47",
+   "Vidéte, quóniam non soli mihi laborávi, sed ómnibus exquiréntibus veritátem.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "videtequoniamnonsolimihilaboravisedomnibusexquirentibusveritatem"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/07-01#GradualeP",
+  "head": "GradualeP",
+  "lines": [
+   "Allelúja, allelúja",
+   "!Apoc 5:9",
+   "Dignus es, Dómine, accípere librum, et aperíre signácula ejus: quóniam occísus es, et redemísti nos Deo in sánguine tuo.",
+   "!Exod 12:13",
+   "Erit autem sanguis vobis in signum: et vidébo sánguinem, et transíbo vos: nec erit in vobis plaga dispérdens. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "dignusesdomineacciperelibrumetaperiresignaculaeiusquoniamoccisusesetredemistinosdeoinsanguinetuo"
+   ],
+   [
+    "al",
+    "eritautemsanguisvobisinsignumetvidebosanguinemettransibovosneceritinvobisplagadisperdens"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/07-05#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 137:1-2",
+   "In conspéctu Angelórum psallam tibi: adorábo ad templum sanctum tuum, et confitébor nómini tuo.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "inconspectuangelorumpsallamtibiadoraboadtemplumsanctumtuumetconfitebornominituo"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/07-13pl#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 67:4",
+   "Iusti epulentur, et exsultent in conspectu Dei, et delectentur in laetitia. (T. P. Alleluia.)",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "iustiepulenturetexultentinconspectudeietdelectenturinletitia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/07-16#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Jer 18:20",
+   "Recordáre, Virgo Mater, in conspéctu Dei, ut loquáris pro nobis bona, et ut avértat indignatiónem suam a nobis.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "recordarevirgomaterinconspectudeiutloquarispronobisbonaetutavertatindignationemsuamanobis"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/07-23#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Matt 25:20; 20:21",
+   "Dómine, quinque talénta tradidísti mihi, ecce, ália quinque superlucrátus sum. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "dominequinquetalentatradidistimihieccealiaquinquesuperlucratussumeugeserveboneetfidelisquiainpaucafuistifidelissupramultateconstituamintraingaudiumdominitui"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/08-01r#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Luc 12:4",
+   "Dico autem vobis amícis meis: Ne terreámini ab his qui occídunt corpus.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "dicoautemvobisamicismeisneterreaminiabhisquiocciduntcorpus"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/08-04#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 91:13; 91:14",
+   "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur in domo Dómini.",
+   "!Ps 91:3",
+   "Ad annuntiándum mane misericórdiam tuam, et veritátem tuam per noctem. Allelúja, allelúja.",
+   "!Osee 14:6",
+   "Justus germinábit sicut lílium: et florébit in ætérnum ante Dóminum. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "iustusutpalmaflorebitsicutcedruslibanimultiplicabiturindomodominiadannuntiandummanemisericordiamtuametveritatemtuampernoctem"
+   ],
+   [
+    "al",
+    "iustusgerminabitsicutliliumetflorebitineternumantedominum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/08-08#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 31:11",
+   "Lætámini in Dómino et exsultáte, justi: et gloriámini, omnes recti corde.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "letaminiindominoetexultateiustietgloriaminiomnesrecticorde"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/08-15#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 44:11-12; 44:14",
+   "Audi, fília, et vide, et inclína aurem tuam, et concupíscet rex pulchritúdinem tuam.",
+   "V. Tota decóra ingréditur fília regis, textúræ áureæ sunt amíctus ejus.",
+   "Allelúja, allelúja.",
+   "V. Assumpta est María in cœlum: gaudet exércitus Angelórum. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "audifiliaetvideetinclinaauremtuametconcupiscetrexpulcritudinemtuamtotadecoraingrediturfiliaregistextureaureesuntamictuseius"
+   ],
+   [
+    "al",
+    "assumptaestmariaincelumgaudetexercitusangelorum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/08-17t#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 16:3",
+   "v. Probásti, Dómine, cor meum, et visitásti nocte: igne me examinásti, et non est invénta in me iníquitas.",
+   "!Ps 16:1",
+   "Exáudi, Dómine, justítiam meam: inténde deprecatiónem meam.",
+   "&Gloria",
+   "v. Probásti, Dómine, cor meum, et visitásti nocte: igne me examinásti, et non est invénta in me iníquitas.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "probastidominecormeumetvisitastinocteignemeexaminastietnonestinventainmeiniquitas"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/08-26pl#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 47:13-15",
+   "Circumdate Sion, et complectimini eam, narrate in turribus eius: pronite corda vestra in virtute eius, et distribuite domos eius, ut enarretis in progenie altera: quoniam hic est Deus.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "circumdatesionetcomplectiminieamnarrateinturribuseiuspronitecordavestrainvirtuteeiusetdistribuitedomoseiusutenarretisinprogeniealteraquoniamhicestdeus"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/09-03#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 88:20-22",
+   "v. Extuli eléctum de pópulo, óleo sancto meo unxi eum: ut manus mea sit semper cum eo, et brácchium meum confírmet eum.",
+   "!Ps. 88:2",
+   "Grátias Dómini in ætérnum cantábo: per omnes generatiónes annuntiábo fidelitátem tuam ore meo.",
+   "&Gloria",
+   "v. Extuli eléctum de pópulo, óleo sancto meo unxi eum: ut manus mea sit semper cum eo, et brácchium meum confírmet eum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "extulielectumdepopulooleosanctomeounxieumutmanusmeasitsempercumeoetbracciummeumconfirmeteum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/09-09n#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Ezech. 34:15-16",
+   "Ego pascam oves meas: et ego eas accubáre fáciam, dicit Dóminus Deus. Quod períerat requíram, et quod abiéctum erat redúcam, et quod confráctum fúerat alligábo, et quod infírmum fúerat consolidábo.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "egopascamovesmeasetegoeasaccubarefaciamdicitdominusdeusquodperieratrequirametquodabiectumeratreducametquodconfractumfueratalligaboetquodinfirmumfueratconsolidabo"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/09-18#GradualeP",
+  "head": "GradualeP",
+  "lines": [
+   "Allelúja, allelúja.",
+   "!Eccli 11:13",
+   "Oculus Dei respéxit illum in bono, et eréxit eum ab humilitáte ipsíus, et exaltávit caput ejus. Allelúja",
+   "!Ps 45:9.",
+   "Amávit eum Dóminus, et ornávit eum: stolam glóriæ índuit eum. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "oculusdeirespexitilluminbonoeterexiteumabhumilitateipsiusetexaltavitcaputeius"
+   ],
+   [
+    "al",
+    "amaviteumdominusetornaviteumstolamglorieinduiteum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/09-29#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 102:20",
+   "v. Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus.",
+   "!Ps 102:1",
+   "Benedic, ánima mea, Dómino: et ómnia, quæ intra me sunt, nómini sancto ejus.",
+   "&Gloria",
+   "v. Benedícite Dóminum, omnes Angeli ejus: poténtes virtúte, qui fácitis verbum ejus, ad audiéndam vocem sermónum ejus.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "benedicitedominumomnesangelieiuspotentesvirtutequifacitisverbumeiusadaudiendamvocemsermonumeius"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/10-03#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Luc 1:46-49",
+   "Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo: quia respéxit humilitátem ancíllæ suæ: fecit mihi magna qui potens est.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "magnificatanimameadominumetexultavitspiritusmeusindeosalutarimeoquiarespexitumilitatemancillesuefecitmihimagnaquipotensest"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/10-09#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Ps 54:3-4; 64:17",
+   "Contristátus sum in exercitatióne mea: et conturbátus sum a voce inimíci, et a tribulatióne peccatóris.",
+   "V. Quóniam declinavérunt in me iniquitátes: et in ira molésti erant mihi.",
+   "V. Ego autem ad Deum clamávi: et Dóminus salvábit me.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "contristatussuminexercitationemeaetconturbatussumavoceinimicietatribulationepeccatorisquoniamdeclinaveruntinmeiniquitatesetiniramolestierantmihiegoautemaddeumclamavietdominussalvabitme"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/10-17#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Cant 6:2",
+   "Ego dilécto meo, et diléctus meus mihi, qui páscitur inter lília.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "egodilectomeoetdilectusmeusmihiquipasciturinterlilia"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/10-21pl#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Mt 10:27",
+   "Quod dico vobis in ténebris, dícite in lúmine: et quod in aure audítis, prædicáte super tecta.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "quoddicovobisintenebrisdiciteinlumineetquodinaureauditispredicatesupertecta"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/10-31#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 149:5; 149:1",
+   "Exsultábunt Sancti in glória: lætabúntur in cubílibus suis.",
+   "V. Cantáte Dómino cánticum novum: laus ejus in ecclésia sanctórum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "exultabuntsanctiinglorialetabunturincubilibussuiscantatedominocanticumnovumlauseiusinecclesiasanctorum"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/11-08r#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Exod 15:11",
+   "Gloriósus Deus in Sanctis suis: mirábilis in majestáte, fáciens prodígia.",
+   "!Exod 15:6",
+   "Déxtera tua, Dómine, glorificáta est in virtúte: déxtera manus tua confrégit inimícos. Allelúja, allelúja.",
+   "!Ps 44:14.",
+   "Córpora Sanctórum in pace sepúlta sunt, et nómina eórum vivent in generatiónem et generatiónem. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "gloriosusdeusinsanctissuismirabilisinmaiestatefaciensprodigiadexteratuadomineglorificataestinvirtutedexteramanustuaconfregitinimicos"
+   ],
+   [
+    "al",
+    "corporasanctoruminpacesepultasuntetnominaeorumviventingenerationemetgenerationem"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/11-14#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 88:21-23",
+   "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum.",
+   "V. Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei. Allelúja, allelúja.",
+   "V. Hic est sacérdos, quem coronávit Dóminus. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "invenidavidservummeumoleosanctomeounxieummanusenimmeaauxiliabitureietbraciummeumconfortabiteumnihilproficietinimicusineoetfiliusiniquitatisnonnocebitei"
+   ],
+   [
+    "al",
+    "hicestsacerdosquemcoronavitdominus"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/12-06#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 88:21-23",
+   "Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum.",
+   "V. Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei.",
+   "Allelúja, allelúja.",
+   "!Ps 91:13",
+   "Justus ut palma florébit: sicut cedrus Líbani multiplicábitur. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "invenidavidservummeumoleosanctomeounxieummanusenimmeaauxiliabitureietbraciummeumconfortabiteumnihilproficietinimicusineoetfiliusiniquitatisnonnocebitei"
+   ],
+   [
+    "al",
+    "iustusutpalmaflorebitsicutcedruslibanimultiplicabitur"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/12-13#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Ps 118:161-162",
+   "Príncipes persecúti sunt me gratis, et a verbis tuis formidávit cor meum: lætábor ego super elóquia tua, quasi qui invénit spólia multa.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "principespersecutisuntmegratisetaverbistuisformidavitcormeumletaboregosupereloquiatuaquasiquiinvenitspoliamulta"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/12-25m1#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Ps 2:7.",
+   "v. Dóminus dixit ad me: Fílius meus es tu, ego hódie génui te.",
+   "!Ps 2:1",
+   "Quare fremuérunt gentes: et pópuli meditáti sunt inánia?",
+   "&Gloria",
+   "v. Dóminus dixit ad me: Fílius meus es tu, ego hódie génui te.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "dominusdixitadmefiliusmeusestuegohodiegenuite"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/12-27#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Joann 21:23; 21:19",
+   "Exiit sermo inter fratres, quod discípulus ille non móritur: et non dixit Jesus: Non móritur,",
+   "V. Sed: Sic eum volo manére, donec véniam: tu me séquere.",
+   "Allelúja, allelúja.",
+   "!Joann 21:24",
+   "V. Hic est discípulus ille, qui testimónium pérhibet de his: et scimus, quia verum est testimónium ejus. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "exiitsermointerfratresquoddiscipulusillenonmorituretnondixitiesusnonmoritursedsiceumvolomaneredonecveniamtumesequere"
+   ],
+   [
+    "al",
+    "hicestdiscipulusillequitestimoniumperhibetdehisetscimusquiaverumesttestimoniumeius"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Sancti/12-29#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beáti Thomæ Mártyris: de cujus passióne gaudent Angeli et colláudant Fílium Dei.",
+   "!Ps 32:1.",
+   "Exsultáte, justi, in Dómino: rectos decet collaudátio.",
+   "&Gloria",
+   "v. Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre beáti Thomæ Mártyris: de cujus passióne gaudent Angeli et colláudant Fílium Dei.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "gaudeamusomnesindominodiemfestumcelebrantessubhonorebeatitomemartirisdecuiuspassionegaudentangelietcollaudantfiliumdei"
+   ]
+  ]
+ },
+ {
+  "place": "missa/Latin/Commune/Propaganda#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Ps 95:3-5",
+   "Annuntiáte inter gentes glóriam Dómini, in ómnibus pópulis mirabília ejus.",
+   "V. Quóniam magnus Dóminus, et laudábilis nimis: terríbilis est super omnes deos.",
+   "V. Quóniam omnes dii géntium daemónia: Dóminus autem caelos fecit.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "annuntiateintergentesgloriamdominiinomnibuspopulismirabiliaeiusquoniammagnusdominusetlaudabilisnimisterribilisestsuperomnesdeosquoniamomnesdiigentiumdemoniadominusautemcelosfecit"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C11#Introitus",
+  "head": "Introitus",
+  "lines": [
+   "!Sedulius",
+   "v. Salve, sancta parens, eníxa puérpera Regem: qui cælum terrámque regit in sǽcula sæculórum.",
+   "!Ps 44:2",
+   "Eructávit cor meum verbum bonum: dico ego ópera mea Regi.",
+   "&Gloria",
+   "v. Salve, sancta parens, eníxa puérpera Regem: qui cælum terrámque regit in sǽcula sæculórum.",
+   ""
+  ],
+  "pieces": [
+   [
+    "in",
+    "salvesanctaparensenixapuerperaregemquicelumterramqueregitinseculaseculorum"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C2-1#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 8:6-7",
+   "Glória et honóre coronásti eum.",
+   "V. Et constituísti eum super ópera mánuum tuárum, Dómine. Allelúja, allelúja.",
+   "V. Hic est Sacérdos, quem coronávit Dóminus. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "gloriaetonorecoronastieumetconstituistieumsuperoperamanuumtuarumdomine"
+   ],
+   [
+    "al",
+    "hicestsacerdosquemcoronavitdominus"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C2a-1#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Ps 36:24",
+   "Justus cum cecíderit, non collidétur: quia Dóminus suppónit manum suam.",
+   "!Ps 36:26",
+   "Tota die miserétur, et cómmodat: et semen ejus in benedictióne erit.",
+   "!Ps 111:1-3",
+   "Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis.",
+   "V. Potens in terra erit semen ejus: generátio rectórum benedicétur.",
+   "V. Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "iustuscumcecideritnoncollideturquiadominussupponitmanumsuamtotadiemisereturetcommodatetsemeneiusinbenedictioneeritbeatusvirquitimetdominuminmandatiseiuscupitnimispotensinterraeritsemeneiusgeneratiorectorumbenediceturgloriaetdivitieindomoeiusetiustitiaeiusmanetinseculumseculi"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C2p#Offertorium",
+  "head": "Offertorium",
+  "lines": [
+   "!Ps 88:6",
+   "Confitebúntur cœli mirabília tua, Dómine: et veritátem tuam in ecclésia sanctórum, allelúja, allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "of",
+    "confitebunturcelimirabiliatuadomineetveritatemtuaminecclesiasanctorumalleluiaalleluia"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C3a-1#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Matt 10:27",
+   "Quod dico vobis in ténebris, dícite in lúmine, dicit Dóminus: et quod in aure audítis, prædicáte super tecta.",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "quoddicovobisintenebrisdiciteinluminedicitdominusetquodinaureauditispredicatesupertecta"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C4-1#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 131:16-17",
+   "Sacerdótes ejus índuam salutári: et sancti ejus exsultatióne exsultábunt.",
+   "V. Illuc prodúcam cornu David: parávi lucérnam Christo meo. Allelúja, allelúja.",
+   "!Ps 109:4",
+   "Jurávit Dóminus, et non poenitébit eum: Tu es sacérdos in ætérnum, secúndum órdinem Melchísedech. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "sacerdoteseiusinduamsalutarietsanctieiusexultationeexultabuntillucproducamcornudavidparavilucernamcristomeo"
+   ],
+   [
+    "al",
+    "iuravitdominusetnonpenitebiteumtuessacerdosineternumsecundumordinemmelcisedec"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C4a#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Ps 36:30-31",
+   "Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium.",
+   "V. Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus.",
+   "!Ps 111:1-3",
+   "Beátus vir, qui timet Dóminum: in mandátis ejus cupit nimis.",
+   "V. Potens in terra erit semen ejus: generátio rectórum benedicétur.",
+   "V. Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "osiustimeditabitursapientiametlinguaeiusloqueturiudiciumlexdeieiusincordeipsiusetnonsupplantabunturgressuseiusbeatusvirquitimetdominuminmandatiseiuscupitnimispotensinterraeritsemeneiusgeneratiorectorumbenediceturgloriaetdivitieindomoeiusetiustitiaeiusmanetinseculumseculi"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C5-1#Communio",
+  "head": "Communio",
+  "lines": [
+   "!Matt 19:28-29",
+   "Amen, dico vobis: quod vos, qui reliquístis ómnia et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis. (Allelúja.)",
+   ""
+  ],
+  "pieces": [
+   [
+    "co",
+    "amendicovobisquodvosquireliquistisomniaetsecutiestismecentuplumaccipietisetvitameternampossidebitis"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C6-1#GradualeP",
+  "head": "GradualeP",
+  "lines": [
+   "Allelúja, allelúja.",
+   "V. Hæc est Virgo sápiens, et una de número prudéntum. Allelúja.",
+   "!Sap 4:1",
+   "O quam pulchra et casta generátio cum claritáte! Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "al",
+    "hecestvirgosapiensetunadenumeroprudentum"
+   ],
+   [
+    "al",
+    "oquampulcraetcastageneratiocumclaritate"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C6a-1#Tractus",
+  "head": "Tractus",
+  "lines": [
+   "!Ps 44:12 et 11",
+   "Concupívit Rex decórem tuum, quóniam ipse est Dóminus, Deus tuus.",
+   "V. Audi, fília, et vide, et inclína aurem tuam.",
+   "_",
+   "!Tractus",
+   "!Ps 44:12, 13 et 10",
+   "Quia concupívit Rex spéciem tuam.",
+   "V. Vultum tuum deprecabúntur omnes dívites plebis: fíliæ regum in honóre tuo.",
+   "!Ps 44:15-16",
+   "Adducéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi.",
+   "V. Afferéntur in lætítia et exsultatióne: adducéntur in templum Regis.",
+   ""
+  ],
+  "pieces": [
+   [
+    "tr",
+    "concupivitrexdecoremtuumquoniamipseestdominusdeustuusaudifiliaetvideetinclinaauremtuam"
+   ],
+   [
+    "tr",
+    "quiaconcupivitrexpeciemtuamvultumtuumdeprecabunturomnesdivitesplebisfiliereguminhonoretuoadducenturregivirginesposteamproximeeiusafferenturtibiafferenturinletitiaetexultationeadducenturintemplumregis"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C7a#Graduale",
+  "head": "Graduale",
+  "lines": [
+   "!Ps 44:3; 44:5",
+   "Diffúsa est grátia in labiis tuis: proptérea benedíxit te Deus in ætérnum.",
+   "V. Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter déxtera tua. Allelúja, allelúja.",
+   "!Ps 44:5",
+   "Spécie tua et pulchritúdine tua inténde, próspere procéde et regna. Allelúja.",
+   ""
+  ],
+  "pieces": [
+   [
+    "gr",
+    "diffusaestgratiainlabiistuisproptereabenedixittedeusineternumpropterveritatemetmansuetudinemetiustitiametdeducettemirabiliterdexteratua"
+   ],
+   [
+    "al",
+    "specietuaetpulcritudinetuaintendeprospereprocedeetregna"
+   ]
+  ]
+ },
+ {
+  "place": "horas/Latin/Commune/C9#Sequentia",
+  "head": "Sequentia",
+  "lines": [
+   "Dies iræ, dies illa",
+   "Solvet sæclum in favílla:",
+   "Teste David cum Sibýlla.",
+   "_",
+   "Quantus tremor est futúrus,",
+   "Quando judex est ventúrus,",
+   "Cuncta stricte discussúrus!",
+   "_",
+   "Tuba mirum spargens sonum",
+   "Per sepúlcra regiónum,",
+   "Coget omnes ante thronum.",
+   "_",
+   "Mors stupébit et natúra,",
+   "Cum resúrget creatúra,",
+   "Judicánti responsúra.",
+   "_",
+   "Liber scriptus proferétur,",
+   "In quo totum continétur,",
+   "Unde mundus judicétur.",
+   "_",
+   "Judex ergo cum sedébit,",
+   "Quidquid latet, apparébit:",
+   "Nil inúltum remanébit.",
+   "_",
+   "Quid sum miser tunc dictúrus?",
+   "Quem patrónum rogatúrus,",
+   "Cum vix justus sit secúrus?",
+   "_",
+   "Rex treméndæ majestátis,",
+   "Qui salvándos salvas gratis,",
+   "Salva me, fons pietátis.",
+   "_",
+   "Recordáre, Jesu pie,",
+   "Quod sum causa tuæ viæ:",
+   "Ne me perdas illa die.",
+   "_",
+   "Quærens me, sedísti lassus:",
+   "Redemísti Crucem passus:",
+   "Tantus labor non sit cassus.",
+   "_",
+   "Juste judex ultiónis,",
+   "Donum fac remissiónis",
+   "Ante diem ratiónis.",
+   "_",
+   "Ingemísco, tamquam reus:",
+   "Culpa rubet vultus meus:",
+   "Supplicánti parce, Deus.",
+   "_",
+   "Qui Maríam absolvísti,",
+   "Et latrónem exaudísti,",
+   "Mihi quoque spem dedísti.",
+   "_",
+   "Preces meæ non sunt dignæ:",
+   "Sed tu bonus fac benígne,",
+   "Ne perénni cremer igne.",
+   "_",
+   "Inter oves locum præsta,",
+   "Et ab hœdis me sequéstra,",
+   "Státuens in parte dextra.",
+   "_",
+   "Confutátis maledíctis,",
+   "Flammis ácribus addíctis:",
+   "Voca me cum benedíctis.",
+   "_",
+   "Oro supplex et acclínis,",
+   "Cor contrítum quasi cinis:",
+   "Gere curam mei finis.",
+   "_",
+   "Lacrimósa dies illa,",
+   "Qua resúrget ex favílla",
+   "Judicándus homo reus.",
+   "_",
+   "Huic ergo parce, Deus:",
+   "Pie Jesu Dómine,",
+   "Dona eis réquiem.",
+   "Amen.",
+   ""
+  ],
+  "pieces": [
+   [
+    "se",
+    "diesirediesillasolvetsecluminfavillatestedavidcumsibillaquantustremorestfuturusquandoiudexestventuruscunctastrictediscussurustubamirumspargenssonumpersepulcraregionumcogetomnesantetronummorsstupebitetnaturacumresurgetcreaturaiudicantiresponsuraliberscriptusprofereturinquototumcontineturundemundusiudiceturiudexergocumsedebitquidquidlatetapparebitnilinultumremanebitquidsummisertuncdicturusquempatronumrogaturuscumvixiustussitsecurusrextremendemaiestatisquisalvandossalvasgratissalvamefonspietatisrecordareiesupiequodsumcausatuevienemeperdasilladiequerensmesedistilassusredemisticrucempassustantuslabornonsitcassusiusteiudexultionisdonumfacremissionisantediemrationisingemiscotamquamreusculparubetvultusmeussupplicantiparcedeusquimariamabsolvistietlatronemexaudistimihiquoquespemdedistiprecesmeenonsuntdignesedtubonusfacbenigneneperennicremerigneinteroveslocumprestaetabhedismesequestrastatuensinpartedextraconfutatismaledictisflammisacribusaddictisvocamecumbenedictisorosupplexetaccliniscorcontritumquasicinisgerecurammeifinislacrimosadiesillaquaresurgetexfavillaiudicandushomoreushuicergoparcedeuspieiesudominedonaeisrequiemamen"
+   ]
+  ]
+ }
+]

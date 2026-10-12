@@ -75,7 +75,8 @@
 					"sl": "Spomni se, o premila Devica Marija, da še nikdar ni bilo slišati, da bi bila ti koga zapustila, ki je pod tvoje varstvo pribežal, tebe pomoči prosil in se tvoji priprošnji priporočal.\n\nS tem zaupanjem hitim k tebi, o devic Devica in Mati; k tebi pridem in pred teboj zdihujoč grešnik stojim.\n\nNikar ne zavrzi, o Mati Besede, mojih besed, temveč milostno me poslušaj in usliši. Amen.",
 					"sv": "Påminn dig, milda jungfru Maria, att det aldrig någonsin har blivit hört, att någon som tagit sin tillflykt till dig och anropat din förbön har blivit övergiven.\n\nFull av förtröstan kommer jag därför, arma syndare, till dig, min moder, du jungfrurnas jungfru.\n\nÖverge mig inte i min nöd, utan hör mig och hjälp mig, du Ordets moder, Maria. Amen."
 				}
-			}
+			},
+			{"type": "chant", "ref": "chant/memorare"}
 		]
 	}
 }
