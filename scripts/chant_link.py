@@ -307,6 +307,18 @@ def breviary_pieces(www):
                     key = fold(text)
                     if len(key) >= 12:
                         out.setdefault((genre, key), text)
+    # The antiphon of Our Lady that closes Compline, one to a season: the whole
+    # text of a section, up to its versicle.
+    for lines in sections(www / 'horas/Latin/Psalterium/Mariaant.txt').values():
+        antiphon = []
+        for line in (re.sub(r'\{:.*?:\}', '', l) for l in lines):
+            if line.startswith(('V.', '_')):
+                break
+            if line and line[0] not in '!&$@#(':
+                antiphon.append(re.sub(r'^v\.\s*', '', line).strip())
+        text = ' '.join(antiphon)
+        if len(fold(text)) >= 12:
+            out.setdefault(('an', fold(text)), text)
     return out
 
 

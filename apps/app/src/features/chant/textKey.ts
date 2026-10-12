@@ -140,6 +140,17 @@ export function officePieces(lines: string[]): OfficePiece[] {
       out.push({ genre, text })
     }
   }
+  // The antiphon of Our Lady that closes Compline: the whole item, up to its versicle.
+  if (/^#\s*Antiphona finalis/.test(lines[0] ?? '')) {
+    const end = lines.findIndex((line, i) => i > 0 && /^(V\.|_)/.test(line))
+    const text = lines
+      .slice(1, end < 0 ? undefined : end)
+      .map((line) => line.replace(/^v\.\s*/, '').trim())
+      .filter(Boolean)
+      .join(' ')
+    add('an', text)
+    return out
+  }
   lines.forEach((line, i) => {
     const antiphon = /^Ant\.\s+(.*)/.exec(line)
     if (antiphon) add('an', antiphon[1])

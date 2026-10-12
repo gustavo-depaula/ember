@@ -95,4 +95,16 @@ describe('findOfficeChants', () => {
     ])
     expect(respond).toMatchObject({ genre: 'rb' })
   })
+
+  it('finds the antiphon of Our Lady that closes Compline, by its whole text', async () => {
+    const [chant] = await findOfficeChants([
+      '#Antiphona finalis B.M.V.',
+      'v. Salve, Regína, mater misericórdiæ;',
+      'vita, dulcédo et spes nóstra, salve.',
+      'Ad te clamámus éxsules fílii Hevæ.',
+      '_',
+      'V. Ora pro nobis, sancta Dei Génetrix.',
+    ])
+    expect(chant).toMatchObject({ genre: 'an', name: 'Salve Regina' })
+  })
 })
