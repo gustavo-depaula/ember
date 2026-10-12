@@ -9,7 +9,7 @@
 // today's office.
 
 import { assembleHour, doLangDir, officeVersion } from '@ember/divinum-officium'
-import type { Primitive } from '@/content/primitives'
+import type { ChantPrimitive, Primitive } from '@/content/primitives'
 import { findOfficeChants } from '@/features/chant/propers'
 import { type PsalmTone, pointPsalm, psalmOf, toneOf } from '@/features/chant/psalmody'
 import type { ContentSource, SourceFetchContext } from '../types'
@@ -31,7 +31,7 @@ type Hour = (typeof hours)[number]
 
 export const doHourSource: ContentSource<Primitive[]> = {
   id: 'producer/do-hour',
-  version: '13',
+  version: '14',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -52,7 +52,7 @@ export const doHourSource: ContentSource<Primitive[]> = {
       votive,
     })
     // What is sung in the hour — antiphons, the hymn, the short responsory — is
-    // followed by its chant where the corpus has it, found by the text. An
+    // one block with its chant where the corpus has it, found by the text. An
     // antiphon is printed before its psalms and after them, in the little hours
     // items apart: its chant goes with the first.
     //
@@ -63,8 +63,8 @@ export const doHourSource: ContentSource<Primitive[]> = {
     const found = await Promise.all(latin.map((item) => findOfficeChants(item.split('\n'))))
     const set = new Set<string>()
     let tone: PsalmTone | undefined
-    const chants = latin.map((item, i): Primitive[] => {
-      const out: Primitive[] = []
+    const chants = latin.map((item, i): ChantPrimitive[] => {
+      const out: ChantPrimitive[] = []
       for (const chant of found[i]) {
         if (chant.genre === 'an') tone = toneOf(chant.mode, chant.score)
         if (set.has(chant.id)) continue

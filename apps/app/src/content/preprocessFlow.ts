@@ -50,7 +50,16 @@ export async function preprocessFlow(
 ): Promise<Primitive[]> {
   const accessor = makeSourceAccessor(ctx)
   const resolved = await Promise.all(sections.map((s) => preprocessSection(s, ctx, accessor)))
-  return resolved.flat()
+  const blocks = resolved.map((block) => [block].flat())
+  // A chant node sets the section before it: the two become one block, which
+  // shows the text or its score.
+  sections.forEach((section, i) => {
+    const [chant] = blocks[i]
+    if (section.type !== 'chant' || chant?.type !== 'chant' || !blocks[i - 1]?.length) return
+    blocks[i] = [{ type: 'sung', text: blocks[i - 1], chants: [chant] }]
+    blocks[i - 1] = []
+  })
+  return blocks.flat()
 }
 
 async function preprocessSection(

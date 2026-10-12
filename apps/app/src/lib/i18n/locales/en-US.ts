@@ -983,7 +983,6 @@ export default {
 
   chant: {
     title: 'Gregorian chant',
-    cantus: 'Chant',
     mode: 'Mode {{mode}}',
     transcribedBy: 'Transcribed by {{name}}',
     license: 'GregoBase, CC0',

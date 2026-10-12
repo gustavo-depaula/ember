@@ -9,7 +9,7 @@
 // without being the Mass.
 
 import { assembleMass, doLangDir, efVersion } from '@ember/divinum-officium'
-import type { Primitive } from '@/content/primitives'
+import type { ChantPrimitive, Primitive } from '@/content/primitives'
 import type { Chant } from '@/features/chant/chants'
 import { ordinaryChants } from '@/features/chant/ordinary'
 import { findMassChants } from '@/features/chant/propers'
@@ -20,7 +20,7 @@ import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
   id: 'producer/do-mass',
-  version: '13',
+  version: '14',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
@@ -62,7 +62,7 @@ const head = /^(?:#|!!)\s*(.*)/
  * ordinary's, which the day's rank chose from the Kyriale.
  */
 function massChant(ordinary: Record<string, Chant>) {
-  return async (item: string): Promise<Primitive[]> => {
+  return async (item: string): Promise<ChantPrimitive[]> => {
     const [first, ...lines] = item.split('\n')
     const name = head.exec(first)?.[1].trim()
     if (!name) return []

@@ -989,7 +989,6 @@ export default {
 
   chant: {
     title: 'Canto gregoriano',
-    cantus: 'Canto',
     mode: 'Modo {{mode}}',
     transcribedBy: 'Transcrição de {{name}}',
     license: 'GregoBase, CC0',

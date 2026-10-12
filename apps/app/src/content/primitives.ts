@@ -89,6 +89,16 @@ export type ChantPrimitive = {
   score: string
 }
 
+// A text with the chant it is sung to: two faces of one block, of which the
+// page shows one at a time. `text` is what would stand there unsung; a text
+// set to more than one piece (a gradual and its Alleluia, an antiphon and its
+// psalm) carries them in the order they are sung.
+export type SungPrimitive = {
+  type: 'sung'
+  text: Primitive[]
+  chants: ChantPrimitive[]
+}
+
 export type ImagePrimitive = {
   type: 'image'
   src: string
@@ -259,6 +269,7 @@ export type Primitive =
   | VersesPrimitive
   | ImagePrimitive
   | ChantPrimitive
+  | SungPrimitive
   | GalleryPrimitive
   | HolyCardPrimitive
   | ProsePrimitive
