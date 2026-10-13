@@ -39,7 +39,7 @@ const prayed = (...dates: string[]) => dates.map((date) => ({ date, subId: '1' }
 
 function record(
   events: TimedEvent[],
-  completions: { date: string; subId: string }[],
+  completions: { date: string; subId: string; pins?: Record<string, string> }[],
   today: string,
 ) {
   return practiceRecord({
@@ -116,6 +116,15 @@ describe('practiceRecord', () => {
       '2026-09-05',
     )
     expect(r.since).toBe('2026-09-04')
+  })
+
+  it('does not let another hour stand in for the one a time pins', () => {
+    const r = record(
+      [added('2026-09-01'), updated('2026-09-01', { pins: { hour: 'Prima' } })],
+      [{ date: '2026-09-04', subId: 'beside', pins: { hour: 'Matutinum' } }],
+      '2026-09-05',
+    )
+    expect(r.since).toBeUndefined()
   })
 
   it('asks nothing while the practice is out of the rule', () => {

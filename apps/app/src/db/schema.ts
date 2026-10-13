@@ -36,6 +36,9 @@ export type Completion = {
   // read it through `prayedIdOf`.
   prayed_id?: string
   via?: CompletionVia
+  // The pinnable choices it was prayed with (`{ hour: 'Matutinum' }`), keyed
+  // as a slot's pins are. Kept by the prayer screen only.
+  pins?: Record<string, string>
 }
 
 /**

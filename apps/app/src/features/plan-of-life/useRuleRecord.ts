@@ -92,7 +92,8 @@ export function useRuleRecord(practiceId: string, wallDays: number) {
     useShallow((s) => ({ ids: s.completionsByPractice.get(practiceId), all: s.completions })),
   )
   const completions = useMemo(
-    () => resolveCompletions(ids, all).map((c) => ({ date: c.date, subId: c.sub_id })),
+    () =>
+      resolveCompletions(ids, all).map((c) => ({ date: c.date, subId: c.sub_id, pins: c.pins })),
     [ids, all],
   )
 
@@ -132,6 +133,7 @@ export function usePlanFidelity(weeks: number) {
       date: c.date,
       practiceId: c.practice_id,
       subId: c.sub_id,
+      pins: c.pins,
     }))
     const start = startOfWeek(subWeeks(today, weeks - 1), { weekStartsOn: 1 })
     const days = differenceInCalendarDays(today, start) + 1
@@ -230,13 +232,15 @@ export function useChronicle():
         .map((id) => [id, ruleTimeline(id, events)] as const)
         .filter(([, timeline]) => timeline.some((s) => s.slots.length > 0)),
     )
-    const byDate = new Map<
-      string,
-      { practiceId: string; subId: string | null; completedAt: number }[]
-    >()
+    const byDate = new Map<string, Parameters<typeof chronicleDay>[0]['completions']>()
     for (const c of completions.values()) {
       const list = byDate.get(c.date) ?? []
-      list.push({ practiceId: c.practice_id, subId: c.sub_id, completedAt: c.completed_at })
+      list.push({
+        practiceId: c.practice_id,
+        subId: c.sub_id,
+        pins: c.pins,
+        completedAt: c.completed_at,
+      })
       byDate.set(c.date, list)
     }
     const first = [format(events[0]?.timestamp ?? today, 'yyyy-MM-dd'), ...byDate.keys()].sort()[0]

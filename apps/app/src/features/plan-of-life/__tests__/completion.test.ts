@@ -85,6 +85,38 @@ describe('completing a prayed practice', () => {
     expect(doneOn(date)).toEqual([weekdays])
   })
 
+  it('keeps an hour the plan does not pin beside the plan', async () => {
+    await createPracticeWithSlot({ id: 'practice/breviary' }, { pins: { hour: 'Prima' } })
+
+    await completePractice('practice/breviary', date, { pins: { hour: 'Matutinum' } })
+
+    expect(doneOn(date)).toEqual(['practice/breviary::beside'])
+  })
+
+  it('does not fill the tapped slot with another hour than it pins', async () => {
+    const prime = await createPracticeWithSlot(
+      { id: 'practice/breviary' },
+      { pins: { hour: 'Prima' } },
+    )
+
+    await completePractice('practice/breviary', date, {
+      slotKey: prime,
+      pins: { hour: 'Matutinum' },
+    })
+
+    expect(doneOn(date)).toEqual(['practice/breviary::beside'])
+  })
+
+  it('fills the slot pinned to the hour prayed, whatever its place', async () => {
+    await createPracticeWithSlot({ id: 'practice/breviary' }, { pins: { hour: 'Prima' } })
+    await addSlot('practice/breviary', {})
+    const vespers = await addSlot('practice/breviary', { pins: { hour: 'Vespera' } })
+
+    await completePractice('practice/breviary', date, { pins: { hour: 'Vespera' } })
+
+    expect(doneOn(date)).toEqual([vespers])
+  })
+
   it('logs a practice outside the plan unslotted, under the prayed id', async () => {
     await completePractice('practice/our-father', date)
 

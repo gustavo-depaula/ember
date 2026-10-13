@@ -37,6 +37,7 @@ export {
   useDeletePractice,
   useDeleteSlot,
   useEnableSlotsForPractice,
+  useFlows,
   useHandleProgramCompletion,
   usePinnedFlows,
   usePractice,

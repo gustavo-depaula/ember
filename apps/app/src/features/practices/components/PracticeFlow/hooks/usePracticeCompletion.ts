@@ -3,6 +3,7 @@ import { useRouter } from 'expo-router'
 import { useCallback, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { confirm } from '@/components'
+import { getPinnableSelects } from '@/content/pins'
 import type { RenderedSection } from '@/content/types'
 import { useAdvanceCursor } from '@/features/divine-office'
 import {
@@ -34,7 +35,7 @@ export function usePracticeCompletion(
 ) {
   const { t } = useTranslation()
   const router = useRouter()
-  const { manifest, programProgress } = usePractice(practiceId, programDayProp)
+  const { manifest, flow, programProgress } = usePractice(practiceId, programDayProp)
   const { trackDefs } = usePracticeTracks(practiceId)
   const completePractice = useCompletePractice()
   const advanceCursor = useAdvanceCursor()
@@ -45,8 +46,18 @@ export function usePracticeCompletion(
   const handleComplete = useCallback(() => {
     const date = dayDate ?? format(getToday(), 'yyyy-MM-dd')
 
+    // What the flow's pinnable selects stood at: the tab switched to, else the
+    // engine's pick. It says which of an office's hours this was.
+    const pinnable = new Set(getPinnableSelects(flow).map((s) => s.key))
+    const prayed = renderedSections
+      .filter((s) => s.type === 'select')
+      .filter((s) => pinnable.has(s.overrideKey))
+      .map((s) => [s.overrideKey, selectOverrides[s.overrideKey] || s.selectedId])
+      .filter(([, id]) => id)
+    const pins = prayed.length > 0 ? Object.fromEntries(prayed) : undefined
+
     completePractice.mutate(
-      { prayedId: practiceId, date, slotKey },
+      { prayedId: practiceId, date, slotKey, pins },
       {
         onSuccess: async () => {
           successBuzz()
@@ -88,6 +99,7 @@ export function usePracticeCompletion(
     )
   }, [
     practiceId,
+    flow,
     slotKey,
     dayDate,
     completePractice,

@@ -490,9 +490,11 @@ export function usePinnedFlows(slots: SlotState[]): number {
 // the same flow.
 export function useSlotFlows(slots: SlotState[]): number {
   const practices = useEventStore((s) => s.practices)
-  const ids = [
-    ...new Set(slots.map((s) => practices.get(s.practice_id)?.active_variant ?? s.practice_id)),
-  ]
+  return useFlows(slots.map((s) => practices.get(s.practice_id)?.active_variant ?? s.practice_id))
+}
+
+export function useFlows(practiceIds: string[]): number {
+  const ids = [...new Set(practiceIds)]
   const results = useQueries({
     queries: ids.map((id) => ({
       queryKey: ['flow', id, null],

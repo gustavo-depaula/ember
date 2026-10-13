@@ -250,6 +250,7 @@ export async function logCompletion(
   subId: string,
   prayedId: string,
   via: CompletionVia,
+  pins?: Record<string, string>,
 ): Promise<void> {
   await emit({
     type: 'CompletionLogged',
@@ -260,6 +261,7 @@ export async function logCompletion(
     completedAt: Date.now(),
     prayedId,
     via,
+    ...(pins ? { pins } : {}),
   })
 }
 
@@ -309,6 +311,7 @@ export async function moveCompletion(id: string, slotKey: string): Promise<void>
       completedAt: completion.completed_at,
       prayedId: completion.prayed_id,
       via: completion.via,
+      pins: completion.pins,
     },
   ])
 }

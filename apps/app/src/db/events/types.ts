@@ -110,6 +110,7 @@ type CompletionLogged = {
   completedAt: number
   prayedId?: string
   via?: CompletionVia
+  pins?: Record<string, string>
 }
 
 type CompletionRemoved = {

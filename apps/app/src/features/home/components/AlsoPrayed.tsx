@@ -6,9 +6,11 @@ import { Text, useTheme, View, XStack, YStack } from 'tamagui'
 
 import { PracticeIcon } from '@/components'
 import { getEntry } from '@/content/contentIndex'
+import { getPinLabels } from '@/content/pins'
+import { getLoadedFlow } from '@/content/resolver'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { getPractice } from '@/db/repositories/practices'
-import { usePrayedBeyond } from '@/features/plan-of-life'
+import { useFlows, usePrayedBeyond } from '@/features/plan-of-life'
 import { localizeContent } from '@/lib/i18n'
 import type { TodayPlan } from '../useTodayPlan'
 
@@ -31,6 +33,8 @@ export function AlsoPrayed({
   // Names and icons arrive as deferred manifests warm in.
   useCatalogVersion()
   const prayed = usePrayedBeyond(selectedDate, todaySlots)
+  // An hour prayed beyond the plan reads "Matins", as a pinned row does.
+  useFlows(prayed.filter((p) => p.pins).map((p) => `practice/${p.id}`))
   if (prayed.length === 0) return null
 
   return (
@@ -51,14 +55,18 @@ export function AlsoPrayed({
           {t('home.beyondPlan')}
         </Text>
       </YStack>
-      {prayed.map((id) => {
+      {prayed.map(({ id, pins }) => {
         const entry = getEntry(`practice/${id}`)
-        const name = entry?.name
+        const practiceName = entry?.name
           ? localizeContent(entry.name)
           : (getPractice(id)?.custom_name ?? id)
+        const pinLabel = getPinLabels(getLoadedFlow(`practice/${id}`), pins)
+          .map(localizeContent)
+          .join(' · ')
+        const name = pinLabel || practiceName
         return (
           <Pressable
-            key={id}
+            key={JSON.stringify([id, pins])}
             onPress={() => {
               onLeave()
               // A practice of the user's own has no flow to pray, only its page.
@@ -80,9 +88,16 @@ export function AlsoPrayed({
                 name={getPractice(id)?.custom_icon ?? entry?.icon ?? 'prayer'}
                 size={20}
               />
-              <Text flex={1} fontFamily="$body" fontSize="$4" color="$colorSecondary">
-                {name}
-              </Text>
+              <YStack flex={1}>
+                <Text fontFamily="$body" fontSize="$4" color="$colorSecondary">
+                  {name}
+                </Text>
+                {pinLabel !== '' && (
+                  <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+                    {practiceName}
+                  </Text>
+                )}
+              </YStack>
               <ChevronRight size={16} color={theme.accentSubtle?.val} />
             </XStack>
           </Pressable>

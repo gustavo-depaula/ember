@@ -47,6 +47,17 @@ export function getHourSelect(flow: FlowDefinition | undefined) {
   )
 }
 
+// Whether a prayer was the one a slot pins. A slot that pins nothing takes any
+// choice, and a prayer that kept none (a checklist tick, a Mass check-in, a
+// record from before they were kept) fits any slot.
+export function pinsAgree(
+  slotPins: Record<string, string> | undefined,
+  prayed: Record<string, string> | undefined,
+): boolean {
+  if (!slotPins || !prayed) return true
+  return Object.entries(slotPins).every(([key, id]) => (prayed[key] ?? id) === id)
+}
+
 // Labels of the options a slot's pins name, in flow order; pins that no longer
 // match an option (renamed in the corpus) are dropped.
 export function getPinLabels(

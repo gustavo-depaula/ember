@@ -1,6 +1,7 @@
 import { addDays, format, parseISO, subDays } from 'date-fns'
 import type { WritableDraft } from 'immer'
 
+import { pinsAgree } from '@/content/pins'
 import type { EventStoreState } from '@/db/events'
 import { applyEvent } from '@/db/events/projections'
 import type { AppEvent } from '@/db/events/types'
@@ -14,8 +15,18 @@ export type TimedEvent = { event: AppEvent; timestamp: number }
 /** The practice's rule as it stood at the end of `date`: its enabled times. */
 export type RuleSnapshot = {
   date: string
-  slots: { id: string; schedule: Schedule; tier: Tier; time: string | null; timeBlock: TimeBlock }[]
+  slots: {
+    id: string
+    schedule: Schedule
+    tier: Tier
+    time: string | null
+    timeBlock: TimeBlock
+    pins?: Record<string, string>
+  }[]
 }
+
+/** A completion as the record reads it: the slot it was filed on, the choices prayed. */
+export type Prayed = { subId: string | null; pins?: Record<string, string> }
 
 type DayKeeping = 'kept' | 'missed' | 'partial' | 'free'
 
@@ -50,6 +61,7 @@ export function ruleTimeline(practiceId: string, events: TimedEvent[]): RuleSnap
             tier: s.tier,
             time: s.time,
             timeBlock: s.time_block,
+            pins: s.pins,
           }))
     if (snapshots.at(-1)?.date === date) snapshots[snapshots.length - 1] = { date, slots }
     else snapshots.push({ date, slots })
@@ -78,27 +90,37 @@ export function snapshotAt(timeline: RuleSnapshot[], date: string): RuleSnapshot
  * How a day went against the rule in force on it. A time owed all day — in
  * the rule since before the day began — has to be prayed; one added or moved
  * onto the day that same day counts only if it was. Completions logged outside
- * any due time (prayed from the library, say) stand in for a due one.
+ * any due time (prayed from the library, say) stand in for a due one, unless
+ * it pins another choice than the one prayed.
  */
 function keepingOn(
   timeline: RuleSnapshot[],
   date: string,
-  prayed: string[],
+  prayed: Prayed[],
   ctx: ScheduleContext | undefined,
 ): DayKeeping {
   const day = parseISO(date)
   const dueIn = (s: RuleSnapshot | undefined) =>
-    (s?.slots ?? []).filter((slot) => isApplicableOn(slot.schedule, day, ctx)).map((x) => x.id)
+    (s?.slots ?? []).filter((slot) => isApplicableOn(slot.schedule, day, ctx))
   const dueByEnd = dueIn(snapshotAt(timeline, date))
   if (dueByEnd.length === 0) return 'free'
-  const owed = new Set(dueIn(snapshotAt(timeline, format(subDays(day, 1), 'yyyy-MM-dd'))))
-  const required = dueByEnd.filter((id) => owed.has(id))
-
-  const matched = required.filter((id) => prayed.includes(id)).length
-  const spare = prayed.filter((id) => !dueByEnd.includes(id)).length
+  const owed = new Set(
+    dueIn(snapshotAt(timeline, format(subDays(day, 1), 'yyyy-MM-dd'))).map((s) => s.id),
+  )
+  const required = dueByEnd.filter((s) => owed.has(s.id))
   if (required.length === 0) return prayed.length > 0 ? 'kept' : 'free'
-  if (matched + spare >= required.length) return 'kept'
-  return matched + spare > 0 ? 'partial' : 'missed'
+
+  const filedOn = new Set(prayed.map((p) => p.subId ?? 'default'))
+  const spare = prayed.filter((p) => !dueByEnd.some((s) => s.id === (p.subId ?? 'default')))
+  const kept = required.filter((slot) => {
+    if (filedOn.has(slot.id)) return true
+    const i = spare.findIndex((p) => pinsAgree(slot.pins, p.pins))
+    if (i === -1) return false
+    spare.splice(i, 1)
+    return true
+  }).length
+  if (kept >= required.length) return 'kept'
+  return kept > 0 ? 'partial' : 'missed'
 }
 
 export type PracticeRecord = {
@@ -120,7 +142,7 @@ export function practiceRecord({
   contextFor,
 }: {
   timeline: RuleSnapshot[]
-  completions: { date: string; subId: string | null }[]
+  completions: ({ date: string } & Prayed)[]
   today: string
   contextFor: (date: Date) => ScheduleContext | undefined
 }): PracticeRecord {
@@ -152,7 +174,7 @@ export function recordWall({
   contextFor,
 }: {
   timeline: RuleSnapshot[]
-  completions: { date: string; subId: string | null }[]
+  completions: ({ date: string } & Prayed)[]
   today: string
   days: number
   contextFor: (date: Date) => ScheduleContext | undefined
@@ -188,7 +210,7 @@ export function planFidelity({
   contextFor,
 }: {
   timelines: Map<string, RuleSnapshot[]>
-  completions: { date: string; practiceId: string; subId: string | null }[]
+  completions: ({ date: string; practiceId: string } & Prayed)[]
   today: string
   days: number
   contextFor: (date: Date) => ScheduleContext | undefined
@@ -202,10 +224,10 @@ export function planFidelity({
     practiceId,
     timeline: timeline.map((s) => ({ ...s, slots: s.slots.filter((x) => x.tier === 'essential') })),
   }))
-  const prayedBy = new Map<string, Map<string, string[]>>()
+  const prayedBy = new Map<string, Map<string, Prayed[]>>()
   for (const c of completions) {
-    const day = prayedBy.get(c.date) ?? new Map<string, string[]>()
-    day.set(c.practiceId, [...(day.get(c.practiceId) ?? []), c.subId ?? 'default'])
+    const day = prayedBy.get(c.date) ?? new Map<string, Prayed[]>()
+    day.set(c.practiceId, [...(day.get(c.practiceId) ?? []), c])
     prayedBy.set(c.date, day)
   }
   const firstDay = [
@@ -246,11 +268,11 @@ export function planFidelity({
   return { wall, streak, prayedDays, countedDays }
 }
 
-function byDate(completions: { date: string; subId: string | null }[]): Map<string, string[]> {
-  const map = new Map<string, string[]>()
+function byDate(completions: ({ date: string } & Prayed)[]): Map<string, Prayed[]> {
+  const map = new Map<string, Prayed[]>()
   for (const c of completions) {
     const list = map.get(c.date) ?? []
-    list.push(c.subId ?? 'default')
+    list.push(c)
     map.set(c.date, list)
   }
   return map

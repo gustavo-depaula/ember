@@ -3,6 +3,7 @@ import { useMemo } from 'react'
 import { useShallow } from 'zustand/react/shallow'
 
 import { bareId, canonicalize } from '@/content/contentIndex'
+import { pinsAgree } from '@/content/pins'
 import type { EventStoreState, SlotState } from '@/db/events'
 import { resolveCompletions, useEventStore } from '@/db/events'
 import {
@@ -24,9 +25,13 @@ import { filterSlotsForDate } from './utils'
 // halves of a slot key — but what the user prays is often not that practice:
 // the plan keeps the base practice and prays its active variant, routes carry
 // bare ids ('mass') while the plan holds canonical ones ('practice/mass'), and
-// one practice can hold several slots, each kept on its own days. This module
-// maps what was prayed onto the slot it fulfils, so no screen composes practice
-// ids or slot keys.
+// one practice can hold several slots, each kept on its own days or pinned to
+// its own hour. This module maps what was prayed onto the slot it fulfils, so
+// no screen composes practice ids or slot keys.
+
+// Where a prayer no slot of its practice pins is kept: beside the plan, under
+// an id no slot bears. `default` won't do — an early plan's slots are named so.
+const besidePlan = 'beside'
 
 type PlanState = Pick<EventStoreState, 'practices' | 'slots' | 'completions' | 'completionsByDate'>
 
@@ -71,15 +76,22 @@ function completionsOn(date: string, state: PlanState): Completion[] {
  * not yet done, so a weekday Mass fills the weekday row rather than Sunday's,
  * and praying a twice-daily practice twice fills both rows. A practice outside
  * the plan is logged under the prayed id, unslotted.
+ *
+ * `pins` are the choices it was prayed with. A slot pinned to another is not
+ * the prayer made — Matins doesn't keep Prime, even opened from Prime's row
+ * and switched there — and the slot that names the choice comes before one
+ * that takes any. When none fits, the prayer is kept beside the plan.
  */
 export function completionTarget(
   prayedId: string,
   date: string,
-  slotKey?: string,
+  { slotKey, pins }: { slotKey?: string; pins?: Record<string, string> } = {},
   state: PlanState = useEventStore.getState(),
 ): { practiceId: string; subId: string } {
-  if (slotKey && state.slots.has(slotKey)) {
-    const { practiceId, slotId } = parseSlotKey(slotKey)
+  const fits = (slot: SlotState) => pinsAgree(slot.pins, pins)
+  const tapped = slotKey ? state.slots.get(slotKey) : undefined
+  if (tapped && fits(tapped)) {
+    const { practiceId, slotId } = parseSlotKey(tapped.id)
     return { practiceId, subId: slotId }
   }
 
@@ -95,10 +107,14 @@ export function completionTarget(
   const enabled = [...state.slots.values()]
     .filter((s) => s.practice_id === practiceId && s.enabled)
     .sort((a, b) => a.sort_order - b.sort_order)
-  const due = slotsDueOn(enabled, date)
-  const candidates = due.length > 0 ? due : enabled
+  if (enabled.length === 0) return { practiceId, subId: 'default' }
+  const fitting = enabled.filter(fits)
+  const due = slotsDueOn(fitting, date)
+  const inOrder = due.length > 0 ? due : fitting
+  const names = (slot: SlotState) => Object.keys(slot.pins ?? {}).some((key) => pins?.[key])
+  const candidates = [...inOrder.filter(names), ...inOrder.filter((s) => !names(s))]
   const slot = candidates.find((s) => !done.has(s.id)) ?? candidates[0]
-  return { practiceId, subId: slot ? parseSlotKey(slot.id).slotId : 'default' }
+  return { practiceId, subId: slot ? parseSlotKey(slot.id).slotId : besidePlan }
 }
 
 // What praying a plan practice prays: its active variant, or itself. A
@@ -121,10 +137,14 @@ export function prayedIdOf(completion: Completion, state: PlanState = useEventSt
 export async function completePractice(
   prayedId: string,
   date: string,
-  { slotKey, via = 'amen' }: { slotKey?: string; via?: CompletionVia } = {},
+  {
+    slotKey,
+    via = 'amen',
+    pins,
+  }: { slotKey?: string; via?: CompletionVia; pins?: Record<string, string> } = {},
 ): Promise<void> {
-  const { practiceId, subId } = completionTarget(prayedId, date, slotKey)
-  await logCompletion(practiceId, date, subId, bareId(prayedId), via)
+  const { practiceId, subId } = completionTarget(prayedId, date, { slotKey, pins })
+  await logCompletion(practiceId, date, subId, bareId(prayedId), via, pins)
 }
 
 /**
@@ -175,7 +195,7 @@ export async function refileMisplacedCompletions(): Promise<void> {
       const slot = slotOf(completion)
       if (slot && dueKeys.has(slot.id)) continue
       if (slot && parseSchedule(slot.schedule).type === 'holy-days-of-obligation') continue
-      const open = due.find((s) => !done.has(s.id))
+      const open = due.find((s) => !done.has(s.id) && pinsAgree(s.pins, completion.pins))
       if (open) {
         done.add(open.id)
         await moveCompletion(completion.id, open.id)
@@ -209,18 +229,24 @@ export function usePrayedOn(date: string): Set<string> {
 }
 
 /**
- * Bare ids of the practices prayed on `date` beyond the slots due that day —
- * one outside the plan, or a plan practice on a day it isn't due — in the order
- * they were first prayed.
+ * What was prayed on `date` beyond the slots due that day — a practice outside
+ * the plan, a plan practice on a day it isn't due, an hour the plan doesn't
+ * pin — in the order first prayed: the bare id, and the choices it was prayed
+ * with, so Matins and Lauds of one breviary are two.
  */
-export function usePrayedBeyond(date: string, dueSlots: SlotState[]): string[] {
+export function usePrayedBeyond(
+  date: string,
+  dueSlots: SlotState[],
+): { id: string; pins?: Record<string, string> }[] {
   const completions = useEventStore(useShallow((s) => completionsOn(date, s)))
   return useMemo(() => {
     const due = new Set(dueSlots.map((s) => s.id))
     const beyond = completions
       .filter((c) => !isBackfill(c) && !due.has(slotKeyOf(c)))
       .sort((a, b) => a.completed_at - b.completed_at)
-    return [...new Set(beyond.map((c) => bareId(prayedIdOf(c))))]
+    const prayed = beyond.map((c) => ({ id: bareId(prayedIdOf(c)), pins: c.pins }))
+    const keyOf = (p: (typeof prayed)[number]) => JSON.stringify([p.id, p.pins])
+    return [...new Map(prayed.map((p) => [keyOf(p), p])).values()]
   }, [completions, dueSlots])
 }
 
@@ -244,11 +270,13 @@ export function useCompletePractice() {
       prayedId,
       date,
       slotKey,
+      pins,
     }: {
       prayedId: string
       date: string
       slotKey?: string
-    }) => completePractice(prayedId, date, { slotKey }),
+      pins?: Record<string, string>
+    }) => completePractice(prayedId, date, { slotKey, pins }),
   })
 }
 
