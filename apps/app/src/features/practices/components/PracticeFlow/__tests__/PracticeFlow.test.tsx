@@ -19,7 +19,10 @@ describe('PracticeFlow — grace-meals (select DSL)', () => {
       routes: [
         {
           pattern: '/pray/[practiceId]',
-          loader: () => import('@/app/(tabs)/(today,you,search)/pray/[practiceId]'),
+          loader: () =>
+            import(
+              '@/app/(tabs)/(today,you,search,prayers,bible,library,saints,calendar)/pray/[practiceId]'
+            ),
         },
       ],
     })

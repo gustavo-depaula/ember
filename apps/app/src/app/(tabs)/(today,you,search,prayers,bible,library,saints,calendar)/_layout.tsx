@@ -6,7 +6,7 @@ import { TabBarInsets } from '@/components/TabBarInsets'
 import { useTabBarOnTop } from '@/components/tabAccessory'
 import { fullScreenRoutes } from '@/lib/fullScreenRoutes'
 
-// Shared array group: the same route files back all three tabs, each with its
+// Shared array group: the same route files back every tab, each with its
 // own stack, so detail routes stay reachable from whichever tab is active and
 // "back" returns to the tab you opened them from. Today keeps the `index`
 // anchor so `/` (router.push('/') "go home") still resolves to it.
@@ -14,6 +14,12 @@ export const unstable_settings = {
   anchor: 'index',
   you: { anchor: 'you' },
   search: { anchor: 'search' },
+  // The sections an iPad's sidebar adds; a phone never shows these tabs.
+  prayers: { anchor: 'prayers' },
+  bible: { anchor: 'bible' },
+  library: { anchor: 'library' },
+  saints: { anchor: 'saints/index' },
+  calendar: { anchor: 'calendar/index' },
 }
 
 // The native stack hides the tab bar for full-screen routes in step with the

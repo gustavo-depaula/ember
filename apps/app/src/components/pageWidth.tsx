@@ -51,9 +51,14 @@ export function useGridCells(
   return gridCells(usePageWidth(), minCell, gap, minColumns)
 }
 
-/** Which of the wide layouts the window has room for. Follows live resizing. */
+/**
+ * Which of the wide layouts the window has room for. Follows live resizing, and
+ * the system sidebar: open, it takes its width out of the safe area.
+ */
 export function useWidthClass(): { medium: boolean; expanded: boolean; rails: boolean } {
-  const { width } = useWindowDimensions()
+  const { width: window } = useWindowDimensions()
+  const insets = useSafeAreaInsets()
+  const width = window - insets.left - insets.right
   return {
     medium: width >= breakpoints.medium,
     expanded: width >= breakpoints.expanded,

@@ -16,6 +16,7 @@ const youIcon = require('../../assets/nav-icons/you.png')
 const searchIcon = require('../../assets/nav-icons/search.png')
 
 const searchTab = '(search)'
+const padOnlyTabs = ['(prayers)', '(bible)', '(library)', '(saints)', '(calendar)']
 
 const icons: Record<string, number> = {
   '(today)': todayIcon,
@@ -72,6 +73,11 @@ export function AppTabs() {
       <Tabs.Screen name="(today)" options={{ title: labels['(today)'] }} />
       <Tabs.Screen name="(you)" options={{ title: labels['(you)'] }} />
       <Tabs.Screen name={searchTab} options={{ title: labels[searchTab] }} />
+      {/* The iPad sidebar's sections share the route group; here they are
+          reached through Today and Search, as on a phone. */}
+      {padOnlyTabs.map((name) => (
+        <Tabs.Screen key={name} name={name} options={{ href: null }} />
+      ))}
     </Tabs>
   )
 }
@@ -145,7 +151,9 @@ function FloatingTabBar({
         blurTarget={blurTarget}
         style={[styles.pill, { left: edge, bottom }]}
       >
-        {state.routes.filter((r) => r.name !== searchTab).map((r) => tab(r, false))}
+        {state.routes
+          .filter((r) => r.name !== searchTab && !padOnlyTabs.includes(r.name))
+          .map((r) => tab(r, false))}
       </ChromeSurface>
       {search && (
         <ChromeSurface

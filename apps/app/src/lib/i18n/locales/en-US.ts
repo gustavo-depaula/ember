@@ -1,5 +1,9 @@
 export default {
   nav: {
+    prayers: 'Prayers',
+    bible: 'Bible',
+    saints: 'Saints',
+    calendar: 'Calendar',
     today: 'Today',
     explore: 'Explore',
     library: 'Library',

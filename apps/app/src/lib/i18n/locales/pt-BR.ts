@@ -1,5 +1,9 @@
 export default {
   nav: {
+    prayers: 'Orações',
+    bible: 'Bíblia',
+    saints: 'Santos',
+    calendar: 'Calendário',
     today: 'Hoje',
     explore: 'Explorar',
     library: 'Biblioteca',

@@ -7,6 +7,8 @@ import {
 
 import { topTabBarInset, useTabBarOnTop } from './tabAccessory'
 
+const sidebarInset = 120
+
 const WindowInsetsContext = createContext<EdgeInsets | undefined>(undefined)
 
 /**
@@ -17,7 +19,9 @@ const WindowInsetsContext = createContext<EdgeInsets | undefined>(undefined)
  */
 export function TabBarInsets({ skip, children }: { skip?: boolean; children: ReactNode }) {
   const insets = useSafeAreaInsets()
-  const onTop = useTabBarOnTop()
+  // An open sidebar holds the tabs itself: there is no bar across the top then,
+  // and the sidebar shows as a left inset no device edge would give.
+  const onTop = useTabBarOnTop() && insets.left < sidebarInset
   const underBar = useMemo(
     () => (onTop && !skip ? { ...insets, top: topTabBarInset } : insets),
     [insets, onTop, skip],
