@@ -35,11 +35,14 @@ const hues: Record<'dark' | 'light', Record<Exclude<DayPart, 'flexible'>, string
   },
 }
 
-export function hourHue(time: string | null, dark: boolean): string {
+export function dayPartHue(part: DayPart, dark: boolean): string {
   const palette = dark ? hues.dark : hues.light
-  if (!time) return palette.morning
-  const part = dayPartOfHour(Number.parseInt(time.slice(0, 2), 10))
   return part === 'flexible' ? palette.morning : palette[part]
+}
+
+export function hourHue(time: string | null, dark: boolean): string {
+  if (!time) return dayPartHue('flexible', dark)
+  return dayPartHue(dayPartOfHour(Number.parseInt(time.slice(0, 2), 10)), dark)
 }
 
 /** A novena or other program runs its course; the string holds the lasting rule. */

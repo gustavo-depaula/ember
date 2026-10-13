@@ -18,8 +18,8 @@ import { localizeContent } from '@/lib/i18n'
 
 import { enrichSlot } from '../getPracticeName'
 import { useArchivedPractices, usePinnedFlows } from '../hooks'
-import { beadRadius, formatSlotTime, hourHue, slotDaysLabel } from '../ruleString'
-import { getActiveBlocks } from '../timeBlocks'
+import { beadRadius, dayPartHue, formatSlotTime, hourHue, slotDaysLabel } from '../ruleString'
+import { dayPartOrder, getActiveBlocks } from '../timeBlocks'
 
 const sheet = createSheet()
 
@@ -70,22 +70,29 @@ export function PlanSheet({ slots }: { slots: SlotState[] }) {
 function HueKey() {
   const { t } = useTranslation()
   const dark = useThemeName().startsWith('dark')
-  const keys = [
-    ['06:00', 'plan.hueDawn'],
-    ['12:00', 'plan.hueDay'],
-    ['18:00', 'plan.hueDusk'],
-    ['22:00', 'plan.hueNight'],
-  ] as const
   return (
-    <XStack gap="$md" accessibilityElementsHidden importantForAccessibility="no-hide-descendants">
-      {keys.map(([time, key]) => (
-        <XStack key={key} alignItems="center" gap={5}>
-          <YStack width={8} height={8} borderRadius={4} backgroundColor={hourHue(time, dark)} />
-          <Typography tone="muted" fontSize="$1">
-            {t(key)}
-          </Typography>
-        </XStack>
-      ))}
+    <XStack
+      columnGap="$md"
+      rowGap="$xs"
+      flexWrap="wrap"
+      accessibilityElementsHidden
+      importantForAccessibility="no-hide-descendants"
+    >
+      {dayPartOrder
+        .filter((part) => part !== 'flexible')
+        .map((part) => (
+          <XStack key={part} alignItems="center" gap={5}>
+            <YStack
+              width={8}
+              height={8}
+              borderRadius={4}
+              backgroundColor={dayPartHue(part, dark)}
+            />
+            <Typography tone="muted" fontSize="$1">
+              {t(`dayPart.${part}`).toLowerCase()}
+            </Typography>
+          </XStack>
+        ))}
     </XStack>
   )
 }

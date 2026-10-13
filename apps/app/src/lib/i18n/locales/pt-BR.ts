@@ -410,10 +410,6 @@ export default {
     timeCount_other: '{{count}} horários',
     inProgress: 'Em curso',
     traditions: 'Tradições',
-    hueDawn: 'aurora',
-    hueDay: 'dia',
-    hueDusk: 'tarde',
-    hueNight: 'noite',
     title: 'Plano de Vida',
     dayStreak: 'Sequ\u00eancia de Dias',
     completion: 'Conclus\u00e3o',
@@ -481,12 +477,12 @@ export default {
   },
 
   dayPart: {
-    dawn: 'Amanhecer',
+    dawn: 'Aurora',
     morning: 'Manhã',
     midday: 'Meio-dia',
     afternoon: 'Tarde',
-    evening: 'Noite',
-    night: 'Antes de dormir',
+    evening: 'Anoitecer',
+    night: 'Noite',
     flexible: 'Flexível',
   },
   timeBlock: {
