@@ -139,7 +139,11 @@ export async function withSyncHeld<T>(change: () => Promise<T>): Promise<T> {
 }
 
 function stateOf(err: unknown): SyncState {
-  if (!isRelayError(err)) throw err
+  // Anything else is a fault of ours: it is thrown, but the status is not left saying "syncing".
+  if (!isRelayError(err)) {
+    useSync.setState({ state: 'waiting' })
+    throw err
+  }
   if (err.status === 426) return 'outdated'
   if (err.status === 413) return 'full'
   return 'waiting'
