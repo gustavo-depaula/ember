@@ -1,0 +1,55 @@
+<!doctype html><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap">
+<style>
+body{margin:0;background:#050505;color:#EDE6D6;font-family:"EB Garamond",serif;padding:24px;display:flex;gap:24px;width:max-content}
+.col{width:390px}
+.tag{font:11px Cinzel;letter-spacing:2px;color:#E8C97A;margin-bottom:6px}
+.why{font:italic 14px/18px "EB Garamond";color:#9a948a;height:56px;margin-bottom:10px}
+.sheet{background:#0e0d0c;border-radius:34px 34px 0 0;padding:14px 26px 30px;height:800px;overflow:hidden;position:relative;border:1px solid #1c1a18;border-bottom:0}
+.grab{width:36px;height:5px;border-radius:3px;background:#55524e;margin:0 auto 22px}
+h1{font:italic 400 31px "EB Garamond";margin:0 0 30px}
+.sec{margin-bottom:22px}
+.lab{display:flex;align-items:baseline;gap:10px;font:13px Cinzel;letter-spacing:3px;color:#a8a296;text-transform:uppercase}
+.lab small{font:13px "EB Garamond";letter-spacing:0;color:#7d786f;text-transform:none}
+.lab.open{justify-content:space-between;border-bottom:.5px solid #4a4030;padding-bottom:5px}
+.lab .hr{font:12px "EB Garamond";letter-spacing:.5px;color:#7d786f;text-transform:none}
+.prev{font-size:14px;line-height:19px;color:#77726a;margin-top:5px}
+.row{display:flex;align-items:center;gap:14px;padding:12px 2px}
+.row.tight{padding:8px 2px}
+.box{width:20px;height:20px;border-radius:50%;border:1.2px solid #6d675d;flex:none;display:flex;align-items:center;justify-content:center;font-size:12px;color:#C9A84C}
+.box.on{border-color:#C9A84C}
+.ic{width:18px;height:18px;flex:none;border:1.2px solid #8a8376;border-radius:4px;opacity:.55}
+.nm{flex:1;font-size:18px}
+.nm.done{color:#7d786f}
+.nm.late{color:#d26a6a}
+.t{font-size:13px;color:#7d786f}
+.dots{display:flex;gap:4px}.dots i{width:6px;height:6px;border-radius:3px;display:block}
+.e i{background:#8B2332}.i i{background:#C9A84C}
+.ch{color:#4a4030;font-size:18px}
+.fold{font:italic 14px "EB Garamond";color:#77726a;padding:6px 2px}
+.now{font:13px Cinzel;letter-spacing:3px;color:#E8C97A}
+</style>
+<script>
+const P=(n,tier,time,st)=>({n,tier,time,st})
+const noite=[P('Visita ao Santíssimo','i','17:30','done'),P('Preces (Opus Dei)','e','18:00','done'),P('Vésperas','i','18:30','late'),P('Oração Mental','e','19:00','late'),P('Leitura Espiritual','e','20:30',''),P('Exame de Consciência','e','22:00',''),P('Três Ave-Marias','i','22:15',''),P('Completas','i','22:30','')]
+const row=(p,o={})=>`<div class="row ${o.tight?'tight':''}"><div class="box ${p.st=='done'?'on':''}">${p.st=='done'?'✓':''}</div><div class="ic"></div><div class="nm ${p.st=='done'?'done':''} ${o.late&&p.st=='late'?'late':''}">${p.n}</div>${o.time?`<span class="t">${p.time}</span>`:''}${p.st!='done'&&p.tier!='x'?`<span class="dots ${p.tier}">${p.tier=='e'?'<i></i><i></i>':'<i></i>'}</span>`:''}<span class="ch">›</span></div>`
+const closed=(l,c,names)=>`<div class="sec"><div class="lab">${l}<small>${c}</small></div>${names?`<div class="prev">${names}</div>`:''}</div>`
+const open=(l,c,rows,hr)=>`<div class="sec"><div class="lab open"><span>${l}${hr?` <span class="hr">${hr}</span>`:''}</span><small>${c}</small></div>${rows}</div>`
+const frame=(tag,why,body)=>`<div class="col"><div class="tag">${tag}</div><div class="why">${why}</div><div class="sheet"><div class="grab"></div><h1>Plano de Vida</h1>${body}</div></div>`
+const names=a=>a.map(p=>p.n).join(' · ')
+document.write(
+frame('Hoje · 21:00','Noite aberta: oito linhas cheias de uma vez, as já rezadas no meio.',
+ closed('Manhã','6/7')+closed('Diurno','2/3')+open('Noite','2/8',noite.map(p=>row(p)).join('')))
++frame('A · Partes mais finas','Seis partes pelo horário de cada prática. Só a parte atual abre; as vizinhas ficam em uma linha.',
+ closed('Amanhecer','3/3')+closed('Manhã','3/4')+closed('Meio-dia','2/3')
+ +closed('Tarde','2/4',names(noite.slice(2,4)))
+ +open('Noite','0/1',row(noite[4]),'19h–22h')
+ +closed('Antes de dormir','0/3',names(noite.slice(5))))
++frame('B · «Agora» no topo','Uma seção com o que está devido: atrasadas e as próximas. O resto do dia fica nas três partes, fechadas.',
+ `<div class="sec"><div class="lab open"><span class="now">Agora</span><small>3 pendentes</small></div>${[noite[2],noite[3],noite[4]].map(p=>row(p,{late:1,time:1})).join('')}</div>`
+ +closed('Manhã','6/7')+closed('Diurno','2/3')+closed('Noite','2/8',names(noite.slice(5))))
++frame('C · Três partes, enxutas','Mesmas três partes; as rezadas dobram em uma linha e as linhas ficam mais baixas, com o horário.',
+ closed('Manhã','6/7')+closed('Diurno','2/3')
+ +open('Noite','2/8',`<div class="fold">2 rezadas · Visita ao Santíssimo, Preces</div>`+noite.slice(2).map(p=>row(p,{tight:1,time:1})).join('')))
+)
+</script>
