@@ -344,6 +344,7 @@ def nextBatches(name, count):
             for n, c in take[b:b + batchSize]:
                 f.write(batchLine(n, c, own.get(c['id'], (None, []))[1]) + '\n')
     saveJson(os.path.join(cache, 'round.json'), {str(n): c['id'] for n, c in take})
+    saveJson(os.path.join(cache, 'round-names.json'), {str(n): c.get('longName') or c['name'] for n, c in take})
     print(json.dumps({'stage': name, 'churches': len(rows), 'pending': len(pending),
                       'batches': -(-len(take) // batchSize), 'dir': batchDir}))
 
@@ -367,8 +368,11 @@ def ingest(name, journal):
             got = [r.get('n') for r in rows]
             if len(rows) == len(batch) and got in (list(range(1, len(rows) + 1)), list(range(len(rows)))) \
                     and not all(str(n) in batch for n in got):
+                names = loadJson(os.path.join(cache, 'round-names.json'), {})
                 for r, n in zip(rows, batch):
-                    r['n'] = int(n)
+                    want, have = set(key(names.get(n, '')).split()), set(key(r.get('name') or '').split())
+                    # Without the name to check against, a reordered answer would land on the wrong church.
+                    r['n'] = int(n) if not r.get('name') or len(want & have) >= min(2, len(want)) else -1
                 counts['renumbered'] += len(rows)
             for r in rows:
                 if str(r.get('n')) not in ids or (batch and str(r['n']) not in batch):

@@ -3,7 +3,7 @@ export const meta = {
   description: 'Instagram search for one round of Brazilian churches (batches of 10, Haiku, 15 searches per batch)',
   phases: [{ title: 'Search', detail: 'one Haiku agent per batch of 10 churches', model: 'haiku' }],
 }
-const SCHEMA = { type: 'object', properties: { blocked: { type: 'boolean' }, results: { type: 'array', items: { type: 'object', properties: { n: { type: 'integer' }, instagram: { type: ['string', 'null'] }, match: { type: 'string', enum: ['confirmed', 'probable', 'none', 'not_searched'] }, owner: { type: ['string', 'null'], enum: ['own', 'parent', null] }, evidence: { type: 'string' }, candidates: { type: 'array', items: { type: 'string' } }, searches: { type: 'integer' } }, required: ['n', 'instagram', 'match', 'owner', 'evidence', 'searches'] } } }, required: ['results', 'blocked'] }
+const SCHEMA = { type: 'object', properties: { blocked: { type: 'boolean' }, results: { type: 'array', items: { type: 'object', properties: { n: { type: 'integer' }, name: { type: 'string' }, instagram: { type: ['string', 'null'] }, match: { type: 'string', enum: ['confirmed', 'probable', 'none', 'not_searched'] }, owner: { type: ['string', 'null'], enum: ['own', 'parent', null] }, evidence: { type: 'string' }, candidates: { type: 'array', items: { type: 'string' } }, searches: { type: 'integer' } }, required: ['n', 'name', 'instagram', 'match', 'owner', 'evidence', 'searches'] } } }, required: ['results', 'blocked'] }
 function prompt(b) {
   return `Find the Instagram account of each Catholic church listed in ${args.dir}/batch_${b}.txt (read it first; one church per line, all in Brazil, each with its "cidade: City/UF"; each line starts with its number "n=…", which you must copy back unchanged).
 
@@ -24,7 +24,7 @@ What counts as a match. Brazil has dozens of churches per patron saint and a lar
 Chapels and "Comunidade"/"CEB" entries usually have no account of their own. Only return a parent's account (owner "parent") when it is the parent PARISH and something ties it to this chapel (the email often names the parent parish). Do not return the account of a hospital, school, university or religious order as the chapel's account — that is "none".
 If a line lists "handles seen on its site", pick the church's own (not the diocese's, an order's or a priest's personal account) and treat it as confirmed if the name fits; that needs no search.
 
-"owner" is "own", "parent", or null. "evidence" is one short sentence quoting what tied it (or why candidates were rejected). Return one result per line of the file, same "n" values, nothing skipped.`
+"owner" is "own", "parent", or null. "evidence" is one short sentence quoting what tied it (or why candidates were rejected). Return one result per line of the file, in the file's order, nothing skipped. "n" is the number written after "n=" on that church's line (a number such as 2267, NOT 1 to 10), and "name" is the church name copied from the same line.`
 }
 phase('Search')
 const out = await parallel(
