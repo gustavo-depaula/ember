@@ -4,6 +4,7 @@
 
 import type { ChantPrimitive, Primitive } from '@/content/primitives'
 import type { Chant } from '@/features/chant/chants'
+import { sungSpan } from '@/features/chant/sungSpan'
 import type { ChantGenre } from '@/features/chant/textKey'
 import { mapItemsToPrimitives } from './blocks'
 
@@ -35,9 +36,10 @@ export function chantPrimitive(chant: Chant, part?: string): ChantPrimitive {
 }
 
 /**
- * The items as primitives, an item that is sung made one block with its
- * chants. An item is mapped on its own there, which loses nothing: it opens on
- * its heading, where the mapper starts afresh anyway.
+ * The items as primitives, what is sung in an item made one block with its
+ * chants: the part of it their scores cover, the rest left as it reads. An item
+ * is mapped on its own there, which loses nothing: it opens on its heading,
+ * where the mapper starts afresh anyway.
  */
 export async function withChant(
   primary: string[],
@@ -50,7 +52,8 @@ export async function withChant(
   chants.forEach((found, i) => {
     if (!found.length) return
     out.push(...mapItemsToPrimitives(primary.slice(start, i), latin.slice(start, i)))
-    out.push({ type: 'sung', text: mapItemsToPrimitives([primary[i]], [latin[i]]), chants: found })
+    const { before, text, after } = sungSpan(mapItemsToPrimitives([primary[i]], [latin[i]]), found)
+    out.push(...before, { type: 'sung', text, chants: found }, ...after)
     start = i + 1
   })
   out.push(...mapItemsToPrimitives(primary.slice(start), latin.slice(start)))

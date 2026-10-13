@@ -20,7 +20,7 @@ import { createCorpusDoLoader } from './loader'
 
 export const doMassSource: ContentSource<Primitive[]> = {
   id: 'producer/do-mass',
-  version: '14',
+  version: '15',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {
