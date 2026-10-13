@@ -307,8 +307,9 @@ def results(name):
     if os.path.exists(path):
         for line in open(path):
             r = json.loads(line)
-            if r['match'] != 'not_searched' and (r['match'] != 'none' or r.get('searches', 0) > 0 or r.get('instagram')):
-                out[r['id']] = r
+            refused = re.search(r'limit|budget|blocked|exhaust|not searched', (r.get('evidence') or '').lower())
+            if r['match'] != 'not_searched' or not refused:
+                out[r['id']] = {**r, 'match': 'none' if r['match'] == 'not_searched' else r['match']}
     return out
 
 
@@ -349,24 +350,42 @@ def nextBatches(name, count):
 
 def ingest(name, journal):
     ids = loadJson(os.path.join(cache, 'round.json'), {})
+    order = sorted(ids, key=int)
     os.makedirs(os.path.join(here, 'results'), exist_ok=True)
-    counts, searches = Counter(), 0
+    counts, searches, labels = Counter(), 0, {}
     with open(os.path.join(here, 'results', f'{name}.jsonl'), 'a') as f:
         for line in open(journal):
             entry = json.loads(line)
+            if entry.get('type') == 'started':
+                labels[entry['key']] = entry.get('label') or ''
             if entry.get('type') != 'result' or not isinstance(entry.get('result'), dict):
                 continue
-            for r in entry['result'].get('results') or []:
-                if str(r.get('n')) not in ids:
+            rows = entry['result'].get('results') or []
+            # Some agents renumber their rows 1..10; the batch's own order gives the numbers back.
+            m = re.search(r'\d+', labels.get(entry['key'], ''))
+            batch = order[int(m.group()) * batchSize:(int(m.group()) + 1) * batchSize] if m else []
+            got = [r.get('n') for r in rows]
+            if len(rows) == len(batch) and got in (list(range(1, len(rows) + 1)), list(range(len(rows)))) \
+                    and not all(str(n) in batch for n in got):
+                for r, n in zip(rows, batch):
+                    r['n'] = int(n)
+                counts['renumbered'] += len(rows)
+            for r in rows:
+                if str(r.get('n')) not in ids or (batch and str(r['n']) not in batch):
                     counts['unknown n'] += 1
                     continue
                 r['id'] = ids[str(r['n'])]
-                if r['match'] == 'none' and not r.get('searches') and not r.get('instagram'):
+                # An agent may skip a school or hospital without searching; only a refused search is retried.
+                refused = re.search(r'limit|budget|blocked|exhaust|not searched', (r.get('evidence') or '').lower())
+                if r['match'] == 'none' and not r.get('searches') and not r.get('instagram') and refused:
                     r['match'] = 'not_searched'
+                elif r['match'] == 'not_searched' and not refused:
+                    r['match'] = 'none'
                 counts[r['match']] += 1
                 searches += r.get('searches') or 0
                 f.write(json.dumps(r, ensure_ascii=False) + '\n')
-    print(json.dumps({**counts, 'searches': searches, 'missing': len(ids) - sum(counts.values()) + counts['unknown n']}))
+    done = sum(v for k, v in counts.items() if k not in ('renumbered', 'unknown n'))
+    print(json.dumps({**counts, 'searches': searches, 'missing': len(ids) - done}))
 
 
 # ---- merge -----------------------------------------------------------------
