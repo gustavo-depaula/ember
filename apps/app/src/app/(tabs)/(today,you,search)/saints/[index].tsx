@@ -1,4 +1,11 @@
-import { Stack, useLocalSearchParams, useRouter } from 'expo-router'
+import {
+  type NativeStackNavigationProp,
+  Stack,
+  useLocalSearchParams,
+  useNavigation,
+  useRouter,
+} from 'expo-router'
+import { useEffect, useState } from 'react'
 import { useTranslation } from 'react-i18next'
 
 import { SaintCardViewer } from '@/features/saints/components'
@@ -15,13 +22,24 @@ export default function SaintViewerScreen() {
   // `arrived`: replacing the redeem screen, whose page this already shows.
   const { index, arrived } = useLocalSearchParams<{ index: string; arrived?: string }>()
   const { t } = useTranslation()
+  // The swap in is unanimated, but a screen leaves by the animation it holds
+  // then: once it has landed it takes the slide back, or closing would cut.
+  const navigation = useNavigation<NativeStackNavigationProp<Record<string, undefined>>>()
+  const [landed, setLanded] = useState(!arrived)
+  useEffect(
+    () =>
+      navigation.addListener('transitionEnd', (e) => {
+        if (!e.data.closing) setLanded(true)
+      }),
+    [navigation],
+  )
 
   return (
     <>
       <Stack.Screen
         options={{
           title: t('saints.title'),
-          animation: arrived ? 'none' : 'slide_from_bottom',
+          animation: landed ? 'slide_from_bottom' : 'none',
         }}
       />
       <SaintCardViewer initialId={index ?? ''} onClose={() => router.back()} />
