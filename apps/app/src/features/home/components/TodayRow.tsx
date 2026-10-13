@@ -51,7 +51,10 @@ export function TodayRow({ plan }: { plan: TodayPlan }) {
 
   return (
     <CardRow>
-      <PlanOfLifeCard plan={plan} onPress={openTodayPlan} />
+      <PlanOfLifeCard
+        plan={plan}
+        onPress={plan.slots.length > 0 ? openTodayPlan : () => router.navigate('/(tabs)/(you)/you')}
+      />
       <ObligationCard date={plan.now} />
       {massFirst && massTile}
       {rosary && <PracticeTile id={rosaryId} entry={rosary} />}

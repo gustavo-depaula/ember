@@ -22,7 +22,7 @@ import { TierLegend, TimeBlockSection } from './TimeBlockSection'
 
 /** The day's plan of life as a checklist, one section per part of the day. */
 export function TodayChecklist({
-  plan: { selectedDate, isFutureDate, todaySlots, completedIds, onPressItem },
+  plan: { selectedDate, isFutureDate, slots, todaySlots, completedIds, onPressItem },
   onLeave,
 }: {
   plan: TodayPlan
@@ -69,7 +69,7 @@ export function TodayChecklist({
       >
         <YStack alignItems="center" paddingHorizontal="$lg" gap="$sm" marginTop="$md">
           <Typography tone="muted" fontSize="$2" textAlign="center">
-            {t('home.emptyPlan')}
+            {t(slots.length > 0 ? 'home.planNothingToday' : 'home.emptyPlan')}
           </Typography>
           <Typography fontSize="$2" fontWeight="500" color="$accent">
             {t('home.emptyPlanAction')}

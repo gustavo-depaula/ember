@@ -116,6 +116,12 @@ export default {
     planForToday: 'O plano de hoje',
     beyondPlan: 'Além do plano',
     planCount: '{{done}} de {{total}}',
+    planSetUp: 'Monte seu plano',
+    planToBegin: 'A começar',
+    planInvite: 'Poucas práticas, rezadas todos os dias.',
+    planSetUpAction: 'Montar meu plano →',
+    planEmptyDay: 'Dia vazio',
+    planNothingToday: 'Nenhuma prática do plano cai hoje.',
     planStanding: {
       done: 'Completo',
       ontrack: 'Em dia',

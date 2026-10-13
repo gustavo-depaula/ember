@@ -116,6 +116,12 @@ export default {
     planForToday: 'The plan for today',
     beyondPlan: 'Beyond the plan',
     planCount: '{{done}} of {{total}}',
+    planSetUp: 'Build your plan',
+    planToBegin: 'To begin',
+    planInvite: 'A few practices, prayed every day.',
+    planSetUpAction: 'Build my plan →',
+    planEmptyDay: 'Empty day',
+    planNothingToday: 'No practice of your plan falls today.',
     planStanding: {
       done: 'Complete',
       ontrack: 'On track',
