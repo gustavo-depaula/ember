@@ -190,4 +190,44 @@ describe('mapItemsToPrimitives', () => {
       { type: 'text', markup: 'do', text: { primary: 'Te ígitur, clementíssime Pater.' } },
     ])
   })
+  it('keeps an antiphon beside its own Latin when the psalm under it has fewer lines', () => {
+    const vernacular = [
+      'Ant. Olhou para mim * o Senhor.\n!Salmo 39(2-9) [1]\n/:39:2:/ Ouviu as minhas súplicas.\n/:39:3:/ Meus pés pôs sobre pedra.',
+    ]
+    const latin = [
+      'Ant. Respéxit me * Dóminus.\n!Psalmus 39(2-9) [1]\n/:39:2:/ Exspéctans exspectávi.\n/:39:3:/ Et exaudívit.\n/:39:3:/ Et státuit.',
+    ]
+    const out = mapItemsToPrimitives(vernacular, latin)
+
+    expect(out[0]).toMatchObject({
+      type: 'verses',
+      items: [
+        { text: { primary: 'Olhou para mim * o Senhor.', secondary: 'Respéxit me * Dóminus.' } },
+      ],
+    })
+    expect(out[1]).toMatchObject({
+      type: 'rubric',
+      text: { primary: 'Salmo 39(2-9) [1]', secondary: 'Psalmus 39(2-9) [1]' },
+    })
+    expect(out[2]).toMatchObject({
+      type: 'text',
+      text: {
+        primary: '/:39:2:/ Ouviu as minhas súplicas.\n/:39:3:/ Meus pés pôs sobre pedra.',
+        secondary: '/:39:2:/ Exspéctans exspectávi.\n/:39:3:/ Et exaudívit.\n/:39:3:/ Et státuit.',
+      },
+    })
+  })
+
+  it('does not count a dagger left alone on a line', () => {
+    // The Latin antiphon of the next psalm matched its opening words; the
+    // Portuguese did not.
+    const out = mapItemsToPrimitives(
+      ['/:139:14:/ Os rectos habitarão.\n\nAnt. Não me desampareis.\n'],
+      ['/:139:14:/ Et habitábunt recti.\n\nAnt. Ne derelínquas me.\n /:‡:/'],
+    )
+    expect(out).toMatchObject([
+      { type: 'text', text: { secondary: '/:139:14:/ Et habitábunt recti.' } },
+      { type: 'verses', items: [{ text: { secondary: 'Ne derelínquas me.' } }] },
+    ])
+  })
 })

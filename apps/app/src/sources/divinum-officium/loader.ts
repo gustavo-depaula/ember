@@ -3,10 +3,17 @@
 // indexes and fetches the per-file blobs. Dataset manifests are loaded once
 // and remembered; file blobs ride the content-addressed blob cache.
 
-import { type DoLoader, memoizedLoader, parseDoFile } from '@ember/divinum-officium'
+import {
+  type DoLoader,
+  isSectioned,
+  memoizedLoader,
+  type ParsedDoFile,
+  parseDoFile,
+} from '@ember/divinum-officium'
 import { ensureManifestBody, getEntry } from '@/content/contentIndex'
 import type { DoDataItemManifest } from '@/content/manifestTypes'
 import { getText } from '@/content/store'
+import { alignPsalmNumbering, latinPsalmPath } from './psalmNumbering'
 
 const horasDatasets: Record<string, string> = {
   Tempora: 'horas-tempora',
@@ -65,22 +72,31 @@ async function datasetIndex(dataset: string): Promise<DoDataItemManifest | undef
   return ensureManifestBody<DoDataItemManifest>(entry.hash)
 }
 
+async function loadFile(path: string): Promise<ParsedDoFile | undefined> {
+  const ref = refFor(path)
+  if (!ref) return undefined
+  const index = await datasetIndex(ref.dataset)
+  if (!index?.files) return undefined
+  const fileEntry = index.files[ref.fileId]
+  if (!fileEntry) return undefined
+  const blobRef = index.localized
+    ? (fileEntry as Record<string, { hash: string }>)[ref.lang ?? '']
+    : (fileEntry as { hash: string })
+  if (!blobRef) return undefined
+  // Blobs are the raw upstream `.txt`; parse to the engine's structured
+  // form on read (the engine intentionally ships its files unflattened).
+  return parseDoFile(path, await getText(blobRef.hash))
+}
+
 export function createCorpusDoLoader(): DoLoader {
   return memoizedLoader({
     async load(path) {
-      const ref = refFor(path)
-      if (!ref) return undefined
-      const index = await datasetIndex(ref.dataset)
-      if (!index?.files) return undefined
-      const fileEntry = index.files[ref.fileId]
-      if (!fileEntry) return undefined
-      const blobRef = index.localized
-        ? (fileEntry as Record<string, { hash: string }>)[ref.lang ?? '']
-        : (fileEntry as { hash: string })
-      if (!blobRef) return undefined
-      // Blobs are the raw upstream `.txt`; parse to the engine's structured
-      // form on read (the engine intentionally ships its files unflattened).
-      return parseDoFile(path, await getText(blobRef.hash))
+      const file = await loadFile(path)
+      const latinPath = latinPsalmPath(path)
+      if (!file || isSectioned(file) || !latinPath) return file
+      const latin = await loadFile(latinPath)
+      if (!latin || isSectioned(latin)) return file
+      return { lines: alignPsalmNumbering(file.lines, latin.lines) }
     },
     async exists(path) {
       return (await this.load(path)) !== undefined

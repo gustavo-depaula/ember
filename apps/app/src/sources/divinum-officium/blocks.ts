@@ -74,7 +74,11 @@ function classify(raw: string): Line {
     }
   }
   if (/^_\s*$/.test(line)) return { kind: 'divider', text: '' }
-  if (/^\s*$/.test(line)) return { kind: 'break', text: '' }
+  // A line that is a dagger and nothing else: DO marks the antiphon whose
+  // psalm opens with its words, and where the antiphon closes the item before,
+  // the mark falls on the empty line after it. Only the column whose words
+  // match gets it, so left in it would be a line the other column lacks.
+  if (/^\s*(\/:‡:\/)?\s*$/.test(line)) return { kind: 'break', text: '' }
   const label = labelMarker.exec(line)
   if (label) {
     const mark = label[1].replace(/^R\./, '℟.')
@@ -97,8 +101,8 @@ function classify(raw: string): Line {
 // at the end). When the content counts differ (translations legitimately split
 // prayers across more lines than the Latin), pair greedily by line KIND:
 // rubric with rubric, verse with verse, leaving the extra vernacular lines
-// unpaired. If that would drop Latin content, fall back to whole-chunk pairing
-// (the full Latin chunk as secondary on the first text block).
+// unpaired. If that would drop Latin content, pair run by run, and failing that
+// the whole chunk (the full Latin as secondary on the first text block).
 function pairLines(
   primaryLines: Line[],
   latinLines: Line[] | undefined,
@@ -126,19 +130,46 @@ function pairLines(
   const latinFullyConsumed = latinLines.slice(j).every((x) => !isContent(x))
   if (latinFullyConsumed) return kindPairs
 
+  // Runs: a stretch of body text or of versicles is one run, any other line a
+  // run of its own. When both columns have the same runs, each keeps to its
+  // own (an antiphon, a psalm's title, the psalm), and only a run whose line
+  // counts differ is set whole beside its Latin, on its first line.
+  const join = (kind: Line['kind'], lines: Line[]): Line => ({
+    kind,
+    text: lines.map((x) => x.text).join('\n'),
+  })
+  const runsOf = (lines: Line[]) =>
+    lines.filter(isContent).reduce<Line[][]>((runs, l) => {
+      const last = runs.at(-1)
+      if (last && last[0].kind === l.kind && (l.kind === 'text' || l.kind === 'verse')) last.push(l)
+      else runs.push([l])
+      return runs
+    }, [])
+  const runs = runsOf(primaryLines)
+  const latinRuns = runsOf(latinLines)
+  if (
+    runs.length === latinRuns.length &&
+    runs.every((r, i) => r[0].kind === latinRuns[i][0].kind)
+  ) {
+    const paired = new Map<Line, Line>()
+    for (const [i, run] of runs.entries()) {
+      const other = latinRuns[i]
+      if (run.length !== other.length) paired.set(run[0], join(run[0].kind, other))
+      else for (const [n, l] of run.entries()) paired.set(l, other[n])
+    }
+    return primaryLines.map((l) => [l, paired.get(l)])
+  }
+
   let attached = false
   return primaryLines.map((l) => {
     if (!attached && (l.kind === 'text' || l.kind === 'verse')) {
       attached = true
       return [
         l,
-        {
-          kind: l.kind,
-          text: latinLines
-            .filter((x) => x.kind === 'text' || x.kind === 'verse')
-            .map((x) => x.text)
-            .join('\n'),
-        },
+        join(
+          l.kind,
+          latinLines.filter((x) => x.kind === 'text' || x.kind === 'verse'),
+        ),
       ]
     }
     return [l, undefined]
