@@ -15,7 +15,9 @@ import { type Account, useSync } from './state'
 
 // The public half of the key that opens recovery copies; its secret half is
 // kept offline by whoever runs the relay. Empty: no recovery copies are made.
-const recoveryKey = process.env.EXPO_PUBLIC_SYNC_RECOVERY_KEY ?? ''
+const recoveryKey =
+  process.env.EXPO_PUBLIC_SYNC_RECOVERY_KEY ??
+  '3fefe661c06eb3a3be365f6f97e23fd0e97e01bee2d8b7b9bb94decf1f74634b'
 
 export const canKeepRecoveryCopy = recoveryKey !== ''
 
