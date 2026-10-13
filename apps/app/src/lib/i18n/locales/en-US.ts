@@ -572,6 +572,7 @@ export default {
     devices: 'Devices',
     thisDevice: 'This device',
     lastSeen: 'Last seen {{when}}',
+    seenThisHour: 'Seen in the last hour',
     rename: 'Rename',
     remove: 'Remove',
     save: 'Save',

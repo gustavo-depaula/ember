@@ -577,6 +577,7 @@ export default {
     devices: 'Aparelhos',
     thisDevice: 'Este aparelho',
     lastSeen: 'Visto {{when}}',
+    seenThisHour: 'Visto na última hora',
     rename: 'Renomear',
     remove: 'Remover',
     save: 'Salvar',

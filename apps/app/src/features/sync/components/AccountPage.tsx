@@ -193,13 +193,16 @@ function DeviceRow({
   })
   const remove = useMutation({ mutationFn: () => removeDevice(device.id) })
   const Icon = device.platform === 'web' ? Laptop : Smartphone
-  const caption = mine
-    ? t('account.thisDevice')
-    : seenAt
-      ? t('account.lastSeen', {
-          when: formatDistanceToNow(seenAt, { addSuffix: true, locale: getDateLocale() }),
-        })
-      : undefined
+  const caption = (() => {
+    if (mine) return t('account.thisDevice')
+    if (!seenAt) return undefined
+    // The relay notes a device at most once an hour, so within the hour it
+    // cannot tell a minute ago from fifty.
+    if (Date.now() - seenAt < 3_600_000) return t('account.seenThisHour')
+    return t('account.lastSeen', {
+      when: formatDistanceToNow(seenAt, { addSuffix: true, locale: getDateLocale() }),
+    })
+  })()
 
   async function askToRemove() {
     const ok = await confirm({
