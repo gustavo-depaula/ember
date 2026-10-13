@@ -292,13 +292,14 @@ function AboutYou({
   const queryClient = useQueryClient()
   const [draft, setDraft] = useState(profile)
   // On by default: it is kept unless the person says not to.
-  const [keepCopy, setKeepCopy] = useState(recoverable || !profile.email)
+  const [keepCopy, setKeepCopy] = useState(recoverable || !(profile.email || profile.phone))
   useEffect(() => setDraft(profile), [profile])
 
+  const reachable = Boolean(draft.email || draft.phone)
   const dirty =
     fields.some((field) => (draft[field] ?? '') !== (profile[field] ?? '')) ||
     Boolean(draft.news) !== Boolean(profile.news) ||
-    (Boolean(draft.email) && canKeepRecoveryCopy && keepCopy !== recoverable)
+    (reachable && canKeepRecoveryCopy && keepCopy !== recoverable)
   const save = useMutation({
     mutationFn: () => saveProfile(draft, keepCopy),
     onSuccess: () => queryClient.invalidateQueries({ queryKey: ['account-view', account.device] }),
@@ -366,7 +367,7 @@ function AboutYou({
           </YStack>
         ))}
       </YStack>
-      {draft.email && canKeepRecoveryCopy ? (
+      {reachable && canKeepRecoveryCopy ? (
         <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
           <XStack alignItems="center" justifyContent="space-between">
             <Text fontFamily="$body" fontSize="$2" color="$color">

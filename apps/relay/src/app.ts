@@ -215,7 +215,7 @@ const app = new Hono<{ Bindings: Env; Variables: Vars }>()
           body.phone || null,
           body.birthday || null,
           body.news ? 1 : 0,
-          body.email ? body.recovery : null,
+          body.email || body.phone ? body.recovery : null,
           c.get('account').id,
         )
         .run()

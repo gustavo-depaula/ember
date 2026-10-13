@@ -591,7 +591,7 @@ export default {
     news: 'Send me news about Ember',
     recovery: 'Keep a recovery copy',
     recoveryHint:
-      'If you lose every device, we can help you get back in through this email. For that we keep a sealed copy of your key, which we open only to return your account to you.',
+      'If you lose every device, we can help you get back in through your email or phone. For that we keep a sealed copy of your key, which we open only to return your account to you.',
     leaving: 'Leaving',
     removeThis: 'Remove this device',
     removeThisHint: 'Erases Ember’s data on this device. Your account stays.',

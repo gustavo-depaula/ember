@@ -596,7 +596,7 @@ export default {
     news: 'Quero receber novidades do Ember',
     recovery: 'Manter uma cópia de recuperação',
     recoveryHint:
-      'Se você perder todos os aparelhos, podemos ajudar você a voltar por este e-mail. Para isso guardamos uma cópia lacrada da sua chave, que só abrimos para devolver a conta a você.',
+      'Se você perder todos os aparelhos, podemos ajudar você a voltar pelo seu e-mail ou telefone. Para isso guardamos uma cópia lacrada da sua chave, que só abrimos para devolver a conta a você.',
     leaving: 'Sair',
     removeThis: 'Remover este aparelho',
     removeThisHint: 'Apaga os dados do Ember neste aparelho. Sua conta permanece.',

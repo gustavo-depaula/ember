@@ -140,13 +140,23 @@ describe('an account', () => {
     expect(events).toEqual({ n: 0 })
   })
 
-  it('keeps a recovery copy only beside an email', async () => {
+  it('keeps a recovery copy only beside a way to reach its owner', async () => {
     const a = await account('profile')
     await call(`/accounts/${a.id}/profile`, 'PUT', { name: 'Ana', recovery: 'sealed' }, a.one)
     const view = (await (
       await call(`/accounts/${a.id}/view`, 'GET', undefined, a.one)
     ).json()) as AccountView
     expect(view).toMatchObject({ profile: { name: 'Ana', news: false }, recoverable: false })
+    await call(
+      `/accounts/${a.id}/profile`,
+      'PUT',
+      { phone: '+55 11 5555-0100', recovery: 'sealed' },
+      a.one,
+    )
+    const reachable = (await (
+      await call(`/accounts/${a.id}/view`, 'GET', undefined, a.one)
+    ).json()) as AccountView
+    expect(reachable.recoverable).toBe(true)
   })
 
   it('asks an older app to update once a newer one has written', async () => {

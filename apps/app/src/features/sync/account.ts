@@ -148,14 +148,14 @@ export function loadAccountView(): Promise<AccountView> {
 }
 
 /**
- * Saves what the person tells about themselves. With an email and
+ * Saves what the person tells about themselves. With an email or a phone and
  * `recoverable`, a copy of the account's secret goes too, sealed for the
- * recovery key, so the account can be handed back to that email's owner.
+ * recovery key, so the account can be handed back to whoever answers there.
  */
 export async function saveProfile(profile: Profile, recoverable: boolean): Promise<void> {
   const account = signedIn()
   const recovery =
-    profile.email && recoverable && canKeepRecoveryCopy
+    (profile.email || profile.phone) && recoverable && canKeepRecoveryCopy
       ? sealFor(recoveryKey, account.secret)
       : null
   await relay.saveProfile(accountKeys(account.secret).account, account.token, {
