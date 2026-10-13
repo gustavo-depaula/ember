@@ -475,6 +475,15 @@ export default {
     last: 'Last',
   },
 
+  dayPart: {
+    dawn: 'Dawn',
+    morning: 'Morning',
+    midday: 'Midday',
+    afternoon: 'Afternoon',
+    evening: 'Evening',
+    night: 'Before bed',
+    flexible: 'Flexible',
+  },
   timeBlock: {
     morning: 'Morning',
     daytime: 'Daytime',

@@ -6,26 +6,40 @@ import type { SlotState } from '@/db/events'
 import type { Tier } from '@/db/schema'
 
 import { parseSchedule } from './schedule'
+import { type DayPart, dayPartOfHour } from './timeBlocks'
 
 // The rule drawn as a string of beads: one bead per prayer time, in the day's
 // order, coloured by the hour it falls in and sized by its tier.
 
 export const beadRadius: Record<Tier, number> = { essential: 9, ideal: 7, extra: 5 }
 
-// Dawn, day, dusk, night. The light theme's are deeper so they hold on white.
-const hues = {
-  dark: { dawn: '#E08A6E', day: '#E3B04B', dusk: '#B07FD0', night: '#6F95D8' },
-  light: { dawn: '#C8664A', day: '#B8871F', dusk: '#8E5BB0', night: '#4A6FB5' },
+// The sun's day, one hue per part: rose at dawn, gold climbing to a pale noon,
+// amber as it sinks, then violet and blue. The light theme's are deeper so
+// they hold on white.
+const hues: Record<'dark' | 'light', Record<Exclude<DayPart, 'flexible'>, string>> = {
+  dark: {
+    dawn: '#E2849A',
+    morning: '#E3B04B',
+    midday: '#F0DC8C',
+    afternoon: '#DE8F48',
+    evening: '#B07FD0',
+    night: '#6F95D8',
+  },
+  light: {
+    dawn: '#C2567A',
+    morning: '#B8871F',
+    midday: '#CDAA00',
+    afternoon: '#C0651E',
+    evening: '#8E5BB0',
+    night: '#4A6FB5',
+  },
 }
 
 export function hourHue(time: string | null, dark: boolean): string {
   const palette = dark ? hues.dark : hues.light
-  if (!time) return palette.day
-  const hour = Number.parseInt(time.slice(0, 2), 10)
-  if (hour < 7) return palette.dawn
-  if (hour < 17) return palette.day
-  if (hour < 21) return palette.dusk
-  return palette.night
+  if (!time) return palette.morning
+  const part = dayPartOfHour(Number.parseInt(time.slice(0, 2), 10))
+  return part === 'flexible' ? palette.morning : palette[part]
 }
 
 /** A novena or other program runs its course; the string holds the lasting rule. */

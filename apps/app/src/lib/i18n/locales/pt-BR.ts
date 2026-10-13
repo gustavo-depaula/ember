@@ -480,6 +480,15 @@ export default {
     last: 'Última',
   },
 
+  dayPart: {
+    dawn: 'Amanhecer',
+    morning: 'Manhã',
+    midday: 'Meio-dia',
+    afternoon: 'Tarde',
+    evening: 'Noite',
+    night: 'Antes de dormir',
+    flexible: 'Flexível',
+  },
   timeBlock: {
     morning: 'Manh\u00e3',
     daytime: 'Diurno',

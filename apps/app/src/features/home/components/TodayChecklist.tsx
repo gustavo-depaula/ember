@@ -7,12 +7,11 @@ import { YStack } from 'tamagui'
 import { Typography } from '@/components'
 import {
   type BlockState,
+  type DayPart,
+  dayPartStates,
   enrichSlot,
-  getActiveBlocks,
+  getActiveDayParts,
   getBlockCompletion,
-  getBlockState,
-  getCurrentTimeBlock,
-  type TimeBlock,
   useRestartNeededPractices,
   useSetSlotDone,
 } from '@/features/plan-of-life'
@@ -20,7 +19,7 @@ import { useCurrentHour } from '@/hooks/useCurrentHour'
 import type { TodayPlan } from '../useTodayPlan'
 import { TierLegend, TimeBlockSection } from './TimeBlockSection'
 
-/** The day's plan of life as a checklist, one section per part of the day. */
+/** The day's plan of life as a checklist, one section per part of the day, the current one open. */
 export function TodayChecklist({
   plan: { selectedDate, isFutureDate, slots, todaySlots, completedIds, onPressItem },
   onLeave,
@@ -31,11 +30,11 @@ export function TodayChecklist({
 }) {
   const { t } = useTranslation()
   const router = useRouter()
-  const currentBlock = getCurrentTimeBlock(useCurrentHour())
+  const hour = useCurrentHour()
   const setSlotDone = useSetSlotDone()
   const restartNeededIds = useRestartNeededPractices()
 
-  const [overrides, setOverrides] = useState<Partial<Record<TimeBlock, BlockState>>>({})
+  const [overrides, setOverrides] = useState<Partial<Record<DayPart, BlockState>>>({})
 
   // Overrides also hold a block open once its last practice is ticked, so the
   // list never folds up under the user's finger. The sheet mounts the list
@@ -43,18 +42,12 @@ export function TodayChecklist({
   // biome-ignore lint/correctness/useExhaustiveDependencies: reset when the day changes
   useEffect(() => setOverrides({}), [selectedDate])
 
-  const activeBlocks = useMemo(() => getActiveBlocks(todaySlots), [todaySlots])
-  const shownBlocks = activeBlocks.map(({ block, def }) => ({
-    block,
-    def,
-    state:
-      overrides[block] ??
-      getBlockState(
-        block,
-        currentBlock,
-        completedIds,
-        def.slots.map((s) => s.id),
-      ),
+  const parts = useMemo(() => getActiveDayParts(todaySlots), [todaySlots])
+  const states = dayPartStates(parts, hour, completedIds)
+  const shownBlocks = parts.map(({ part, slots }) => ({
+    block: part,
+    def: { slots },
+    state: overrides[part] ?? states.get(part) ?? 'preview',
   }))
 
   if (todaySlots.length === 0)
@@ -88,7 +81,7 @@ export function TodayChecklist({
         return (
           <TimeBlockSection
             key={block}
-            label={t(`timeBlock.${block}`)}
+            label={t(`dayPart.${block}`)}
             items={def.slots.map((s) => enrichSlot(s, t))}
             completedIds={completedIds}
             restartNeededIds={restartNeededIds}

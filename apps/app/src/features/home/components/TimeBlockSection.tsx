@@ -98,7 +98,10 @@ export function TimeBlockSection({
             </Typography>
           </XStack>
           <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" opacity={0.6}>
-            {items.map((i) => i.name).join(' · ')}
+            {items
+              .filter((i) => !completedIds.has(i.id))
+              .map((i) => i.name)
+              .join(' · ')}
           </Text>
         </YStack>
       </Pressable>
