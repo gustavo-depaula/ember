@@ -215,7 +215,7 @@ def handlesIn(text):
     found = []
     for h in handleRe.findall(text.replace('\\/', '/').replace('%2F', '/')):
         h = h.strip('.').lower()
-        if h and h not in notProfiles and h not in found:
+        if h and h not in notProfiles and h not in found and not re.search(r'\.(js|php|html?|css|png|jpg)$', h):
             found.append(h)
     return found
 
@@ -284,7 +284,7 @@ def ownSiteHandles(all_):
         if not isinstance(found, list) or len(byUrl[u]) > 2:
             continue
         # A handle on three or more pages of one host is the site template's (the diocese's) account.
-        kept = [h for h in found if len(hostPages[host(u)][h]) < 3 and not blockRe.search(h)]
+        kept = [h for h in found if len(hostPages[host(u)][h]) < 3 and not blockRe.search(h) and handlesIn('instagram.com/' + h)]
         if len(kept) == 1:
             out[c['id']] = (kept[0], [], 'own website')
         elif kept:
@@ -391,6 +391,12 @@ def merge(name):
         if handle:
             row.update(instagram=handle, status='confirmed', account_of='own', source=source,
                        evidence=f'linked from {website(c)}')
+            # A lone handle on the page can still be the web designer's or a priest's.
+            letters = re.sub(r'[^a-z]', '', handle)
+            near = re.sub(r'[^a-z]', '', key(host(website(c)).split('.')[0] + row['name'] + city))
+            if source == 'own website' and not any(letters[i:i + 5] in near for i in range(max(1, len(letters) - 4))):
+                row['status'] = 'probable'
+                row['flags'].append('handle unlike the church name and its site')
         elif r:
             h = (r.get('instagram') or '').strip().lstrip('@').lower()
             h = re.sub(r'^https?://(www\.)?instagram\.com/', '', h).strip('/')

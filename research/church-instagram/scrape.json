@@ -5582,5 +5582,1410 @@
  },
  "https://www.dasgracas.com.br/": [],
  "https://www.diocesecampomourao.org.br/paroquias/100/paroquia-nossa-senhora-de-fatima": [],
- "https://www.diocesecampomourao.org.br/paroquias/82/paroquia-sao-gabriel-arcanjo-e-sao-sebastiao": []
+ "https://www.diocesecampomourao.org.br/paroquias/82/paroquia-sao-gabriel-arcanjo-e-sao-sebastiao": [],
+ "https://www.diocesecampomourao.org.br/paroquias/89/paroquia-sao-francisco-de-assis": [],
+ "https://www.diocesecriciuma.com.br": [
+  "diocese.criciuma"
+ ],
+ "https://www.diocesecriciuma.com.br/": [
+  "diocese.criciuma"
+ ],
+ "https://www.diocesecriciuma.com.br/paroquia/paroquia-nossa-senhora-auxiliadora-balneario-gaivota-sc-": [
+  "diocese.criciuma"
+ ],
+ "https://www.diocesecriciuma.com.br/paroquia/paroquia-santo-antonio-quarta-linha-criciuma": [
+  "diocese.criciuma",
+  "paroquiaquartalinha"
+ ],
+ "https://www.diocesecriciuma.com.br/paroquia/paroquia-sao-marcos-nova-veneza-centro": [
+  "diocese.criciuma",
+  "paroquiasaomarcosnv"
+ ],
+ "https://www.diocesecriciuma.com.br/paroquia/paroquia-sao-miguel-arcanjo-icara-vila-nova": [
+  "diocese.criciuma",
+  "paroquiasaomiguelarcanjo_icara"
+ ],
+ "https://www.diocesedeanapolis.org.br/pagina-inicial/": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=paroquia-militar-nossa-senhora-de-loreto": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=paroquia-nossa-senhora-de-fatima": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=paroquia-sagrado-coracao-de-jesus": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=paroquia-santa-clara": [
+  "dioceseanapolis"
+ ],
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=paroquia-santuario-santo-antonio": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=paroquia-sao-joaquim": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=paroquia-sao-pedro-e-sao-paulo": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeanapolis.org.br/paroquia/?id=sao-pedro-apostolo": {
+  "error": "TimeoutError"
+ },
+ "https://www.diocesedeassis.org/": [],
+ "https://www.diocesedebarretos.com.br/": [
+  "diocesedebarretos"
+ ],
+ "https://www.diocesedebraganca.com.br": [
+  "diocesedebragancapaulista",
+  "paroquiatibagi"
+ ],
+ "https://www.diocesedebraganca.com.br/paroquias/54/paroquia-nossa-senhora-do-perpetuo-socorro": [
+  "diocesedebragancapaulista",
+  "paroquiatibagi"
+ ],
+ "https://www.diocesedebragancapa.org.br/": [
+  "diocesedebragancapa"
+ ],
+ "https://www.diocesedecaceres.com.br/paroquia/setor-6--paroquia-santa-cruz-barra-do-bugres-": [],
+ "https://www.diocesedecamacari.com.br/paroquia/santo-antonio-de-sant-anna-galvao-dias-d-avila-": [
+  "diocesedecamacari"
+ ],
+ "https://www.diocesedecaxias.org.br": [
+  "diocesedecaxias"
+ ],
+ "https://www.diocesedecaxias.org.br/": [
+  "diocesedecaxias"
+ ],
+ "https://www.diocesedecaxias.org.br/paroquias/all/0": [
+  "diocesedecaxias"
+ ],
+ "https://www.diocesedejanauba.com.br/paroquia/catedral-sagrado-coracao-de-jesus/": [
+  "diocesedejanauba"
+ ],
+ "https://www.diocesedejatai.org/it/team-5/par%C3%B3quia-s%C3%A3o-jo%C3%A3o-batista-": [
+  "diocesedejataioficial"
+ ],
+ "https://www.diocesedejatai.org/team-5/par%C3%B3quia-sagrado-cora%C3%A7%C3%A3o-de-jesus": [
+  "diocesedejataioficial"
+ ],
+ "https://www.diocesedejiparana.org.br/noticias-det.php?cod=493": [],
+ "https://www.diocesedelimoeiro.org/copia-zonal-da-varzea": {
+  "error": "URLError"
+ },
+ "https://www.diocesedemacapa.com.br/": [
+  "diocesedemacapa"
+ ],
+ "https://www.diocesedemacapa.com.br/nossasradenazare/": [
+  "diocesedemacapa"
+ ],
+ "https://www.diocesedemacapa.com.br/nossasradoperpetuosocorro/": [
+  "diocesedemacapa"
+ ],
+ "https://www.diocesedemacapa.com.br/saojose/": [
+  "diocesedemacapa"
+ ],
+ "https://www.diocesedemarilia.com.br": [
+  "diocesedemariliaoficial",
+  "adora.comunicacao"
+ ],
+ "https://www.diocesedemogi.org.br/": [],
+ "https://www.diocesedemogi.org.br/paroquias_pagina.php?id=49": [],
+ "https://www.diocesedeosasco.com.br/capela/comunidade-cristo-redentor/": [
+  "diocesedeosasco"
+ ],
+ "https://www.diocesedeosasco.com.br/capela/comunidade-nossa-senhora-desatadora-dos-nos/": [
+  "diocesedeosasco"
+ ],
+ "https://www.diocesedeosorio.org/local/paroquia-nossa-senhora-da-saude-01-01-1984": [
+  "dioceseosorio"
+ ],
+ "https://www.diocesedeosorio.org/local/paroquia-santo-antonio-08-10-1763": [
+  "dioceseosorio"
+ ],
+ "https://www.diocesedeosorio.org/local/paroquia-sao-jose-25-12-1959": [
+  "dioceseosorio"
+ ],
+ "https://www.diocesedeosorio.org/local/paroquia-sao-pedro-06-12-2008": [
+  "dioceseosorio"
+ ],
+ "https://www.diocesedepatosdeminas.org.br": [
+  "diocesedepatosdeminas"
+ ],
+ "https://www.diocesedepenedo.com.br/products/paroquia-n-sra-da-concei%C3%A7%C3%A3o-feira-grande/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedepiracicaba.org.br/capa.asp?paroquia=71": {
+  "error": "HTTPError"
+ },
+ "https://www.diocesederegistro.com.br/paroquias/": [
+  "diocesederegistrosp"
+ ],
+ "https://www.diocesederubiataba.com/catedral": {
+  "error": "HTTPError"
+ },
+ "https://www.diocesedesantos.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/capela-nossa-senhora-do-desterro/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-bom-pastor-e-madre-tereza-de-calcuta/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-divino-espirito-santo-2/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-divino-espirito-santo/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-dom-bosco/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-nossa-senhora-aparecida-11/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-nossa-senhora-aparecida/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-nossa-senhora-da-esperanca/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-nossa-senhora-da-piedade/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-nossa-senhora-das-dores-2/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-nossa-senhora-de-nazare/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-santa-rita/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-sao-jose-o-carpinteiro/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/comunidade-sao-paulo-e-sao-pedro-apostolo/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/cristo-operario/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/capela/jt-comunidade-nossa-senhora-mae-da-igreja/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/horarios-das-missas/comunidade-s-joao-batista-guaruja": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/horarios-das-missas/comunidade-sao-judas-guaruja": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/index.php/paroquias/santos/catedral-nossa-senhora-do-rosario": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/index.php/paroquias/santos/nossas-senhora-do-rosario-de-pompeia": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/cidades/sao-vicente/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/cristo-rei-sao-vicente/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/nossa-senhora-aparecida-sao-vicente/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/nossa-senhora-da-assuncao/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/santa-margarida-maria/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/sao-joao-batista-nova-cintra/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/sao-joao-evangelista/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/sao-judas-tadeu/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesantos.com.br/paroquias/sao-tiago-apostolo/": {
+  "error": "URLError"
+ },
+ "https://www.diocesedesetelagoas.com.br/": [
+  "diocesedesetelagoas"
+ ],
+ "https://www.diocesedeuruguaiana.org.br/paroquias/paroquia-imaculada-conceicao": [
+  "diocesedeuruguaiana"
+ ],
+ "https://www.diocesedeuruguaiana.org.br/paroquias/paroquia-nossa-senhora-do-carmo": [
+  "diocesedeuruguaiana"
+ ],
+ "https://www.diocesedeuruguaiana.org.br/paroquias/paroquia-s-joao-batista": [
+  "diocesedeuruguaiana"
+ ],
+ "https://www.diocesedeuruguaiana.org.br/paroquias/paroquia-sao-francisco-de-borja": [
+  "diocesedeuruguaiana"
+ ],
+ "https://www.diocesedivinopolis.org.br/missas/detalhes?paroquia=catedral-divino-espirito-santo": {
+  "error": "HTTPError"
+ },
+ "https://www.diocesedoriogrande.com.br/area/13/SaoJose": [
+  "diocesedorg"
+ ],
+ "https://www.diocesedoriogrande.com.br/area/5/SagradaFamiliaCassino": [
+  "diocesedorg"
+ ],
+ "https://www.diocesedoriogrande.com.br/area/7/CatedraldeSaoPedro": [
+  "diocesedorg"
+ ],
+ "https://www.diocesefranca.org.br/compartilhar.php?id_conteudo=2045": [],
+ "https://www.diocesefw.com.br/paroquia/27/erval-seco-paroquia-santa-terezinha": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/29/humaita-paroquia-santa-cecilia": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/40/redentora-paroquia-cristo-redentor": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/43/sao-jose-das-missoes-paroquia-sao-jose": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/44/sao-martinho-paroquia-sao-martinho-bispo": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/46/sede-nova-paroquia-sao-jose": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/50/tres-palmeiras-paroquia-imaculado-coracao-de-maria": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/52/trindade-do-sul-paroquia-nossa-senhora-senhora-aparecida": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/paroquia/81/nova-candelaria-paroquia-nossa-senhora-da-purificacao": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesefw.com.br/site/paroquia/37/palmitinho-paroquia-santa-terezinha": [
+  "diocese_frederico_westphalen"
+ ],
+ "https://www.diocesegaranhuns.org/paroquia/13-garanhuns--sao-sebastiao": [],
+ "https://www.diocesegaranhuns.org/paroquia/18-garanhuns--cristo-redentor": [],
+ "https://www.diocesegaranhuns.org/paroquia/36-sao-joao": [],
+ "https://www.diocesejoinville.com.br/paroquia/paroquia-divino-espirito-santo--costa-e-silva-joinville-sc-costa-e-silva": {
+  "error": "HTTPError"
+ },
+ "https://www.diocesemontenegro.org.br/paroquias/paroquia-nossa-senhora-da-conceicao-1": [
+  "diocesedemontenegro"
+ ],
+ "https://www.diocesepalmasbeltrao.com.br/instituicoes-diocesanas/santuario/9/santuario-nossa-senhora-de-fatima-palmas/": [],
+ "https://www.diocesepalmasbeltrao.com.br/paroquia/10/decanato-de-francisco-beltrao/15/nossa-senhora-d": [],
+ "https://www.diocesepalmasbeltrao.com.br/paroquia/10/decanato-de-francisco-beltrao/53/nossa-senhora-d": [],
+ "https://www.diocesepalmasbeltrao.com.br/paroquia/11/decanato-de-sao-joao/31/nossa-senhora-mae-da-igreja-saudade-do-iguacu/": [],
+ "https://www.diocesepalmasbeltrao.com.br/paroquia/6/decanato-de-palmas/21/nossa-senhora-da-luz-clevelandia/": [],
+ "https://www.diocesepalmasbeltrao.com.br/paroquia/6/decanato-de-palmas/23/sao-sebastiao-e-nossa-senhora-dos-pobres-honorio-serpa/": [],
+ "https://www.diocesepalmasbeltrao.com.br/paroquia/8/decanato-de-pato-branco/19/sao-francisco-de-sales-mariopolis/": [],
+ "https://www.diocesepalmasbeltrao.com.br/paroquia/8/decanato-de-pato-branco/36/nossa-senhora-do-bom-sucesso-bom-sucesso-do-sul/": [],
+ "https://www.diocesepontagrossa.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.diocesepresidenteprudente.com.br/paroquia/paroquia-sao-jeronimo-emiliani/": [
+  "dioceseprudente"
+ ],
+ "https://www.diocesepresidenteprudente.com.br/paroquia/paroquia-sao-miguel-arcanjo-pp/": [
+  "dioceseprudente",
+  "paroquiasaomiguelarcanjopp"
+ ],
+ "https://www.diocesesa.org.br/": [
+  "franciscus",
+  "diocesedesantoandre"
+ ],
+ "https://www.diocesesaocarlos.org.br/": [
+  "diocesedesaocarlos"
+ ],
+ "https://www.diocesesaocarlos.org.br/paroquia/paroquia-sao-cristovao/": [
+  "diocesedesaocarlos",
+  "paroquiasaocristovaoscsp"
+ ],
+ "https://www.diocesesaocarlos.org.br/paroquias/paroquia-sao-francisco-de-assis-5/": {
+  "error": "HTTPError"
+ },
+ "https://www.diocesesaojoao.org.br/fnsd_casabranca.php": {
+  "error": "HTTPError"
+ },
+ "https://www.diocesesaojoao.org.br/sao-jose-do-rio-pardo/": [
+  "diocesesjbvsp"
+ ],
+ "https://www.diocesesjp.org.br/paroquias/fazenda-rio-grande/paroquia-n-sra-da-luz": [],
+ "https://www.diocesesjp.org.br/paroquias/fazenda-rio-grande/paroquia-n-sra-das-gracas": [],
+ "https://www.diocesesjp.org.br/paroquias/fazenda-rio-grande/paroquia-n-sra-de-fatima": [],
+ "https://www.diocesesjp.org.br/paroquias/fazenda-rio-grande/paroquia-sao-gabriel-da-virgem-dolorosa": [],
+ "https://www.diocesesjp.org.br/paroquias/piraquara/paroquia-n-sra-do-perpetuo-socorro": [],
+ "https://www.diocesesjp.org.br/paroquias/quatro-barras/paroquia-sao-sebastiao": [],
+ "https://www.diocesetoledo.org/paroquias/ler/258": [],
+ "https://www.diocesetoledo.org/paroquias/ler/268": [],
+ "https://www.dioceseunivitoria.org.br/": [
+  "dioceseunivitoria"
+ ],
+ "https://www.dioceseunivitoria.org.br/paroquias/paroquia-nossa-senhora-das-dores/": [
+  "dioceseunivitoria"
+ ],
+ "https://www.dioceseunivitoria.org.br/paroquias/paroquia-nossa-senhora-do-rocio/": [
+  "dioceseunivitoria"
+ ],
+ "https://www.dioceseunivitoria.org.br/paroquias/paroquia-sagrada-familia-de-nazare/": [
+  "dioceseunivitoria"
+ ],
+ "https://www.dioceseunivitoria.org.br/paroquias/paroquia-sao-cristovao-e-nossa-senhora-da-salete/": [
+  "dioceseunivitoria"
+ ],
+ "https://www.dioceseunivitoria.org.br/paroquias/paroquia-sao-judas-tadeu/": [
+  "dioceseunivitoria"
+ ],
+ "https://www.dioceseunivitoria.org.br/paroquias/paroquia-sao-mateus/": [
+  "dioceseunivitoria"
+ ],
+ "https://www.diocesevacaria.com.br": [
+  "diocesedevacaria"
+ ],
+ "https://www.diocesevacaria.com.br/": [
+  "diocesedevacaria"
+ ],
+ "https://www.diocesevacaria.com.br/paroquias/paroquia-nossa-senhora-da-gloria-vacaria/": [
+  "diocesedevacaria"
+ ],
+ "https://www.diocesevacaria.com.br/paroquias/paroquia-nossa-senhora-da-oliveira-catedral/": [
+  "diocesedevacaria"
+ ],
+ "https://www.diocesevr.com.br/comunidade/117/sao-jose-de-anchieta": [
+  "diocesebpvr"
+ ],
+ "https://www.diocesevr.com.br/paroquia/33/paroquia-de-santana-pirai": [
+  "diocesebpvr"
+ ],
+ "https://www.divinojatiuca.com.br/": [],
+ "https://www.divinorog.com.br": {
+  "error": "URLError"
+ },
+ "https://www.divinosalvador.com.br": [
+  "divinosalvadorsp"
+ ],
+ "https://www.ecyd.org/": [
+  "ecyd.international"
+ ],
+ "https://www.ensamparo.com.br/capela": [
+  "educandarioamparo.rj"
+ ],
+ "https://www.escoladombosco.org.br/": [
+  "escoladomboscorecife"
+ ],
+ "https://www.evocomercial.com.br/igrejamap": [
+  "paroquiasenhorbomjesusmap",
+  "evocomercial"
+ ],
+ "https://www.fatima.com.br": [
+  "santuariodefatimasp"
+ ],
+ "https://www.fatimamacae.com.br/": [
+  "pascomfatimamacae"
+ ],
+ "https://www.freisalvador.org.br": {
+  "error": "HTTPError"
+ },
+ "https://www.gospamira.com.br": [
+  "gospamiraoficial"
+ ],
+ "https://www.gracasportao.com.br": [
+  "gracasportao"
+ ],
+ "https://www.guadalupe.org.br": {
+  "error": "URLError"
+ },
+ "https://www.guadalupemanaus.com.br/": [],
+ "https://www.hisbsb.com.br/": [],
+ "https://www.horariomissa.org/igreja/catedral-de-nossa-senhora-do-carmo/831/": [],
+ "https://www.hospitalsantalucinda.com.br/": [],
+ "https://www.hrpresidenteprudente.org.br/pagina.aspx?id=119": [],
+ "https://www.ides-sc.org.br/capela": {
+  "error": "HTTPError"
+ },
+ "https://www.igrejabomconselho.com.br/": [],
+ "https://www.igrejadapenharj.org.br": [
+  "igrejadapenharj"
+ ],
+ "https://www.igrejadapenna.com.br": [
+  "igrejanossasenhoradapenna"
+ ],
+ "https://www.igrejadapompeia.org.br": {
+  "error": "URLError"
+ },
+ "https://www.igrejadefatima.com.br/": [
+  "igrejadefatimaoficial",
+  "igrejadefatima"
+ ],
+ "https://www.igrejadejesuseucaristia.org/": [
+  "mariapolisginetta"
+ ],
+ "https://www.igrejadospassarinhos.com.br/": [
+  "igrejadospassarinhos"
+ ],
+ "https://www.igrejamadalenacanoas.org/": [],
+ "https://www.igrejamaronita.org.br": {
+  "error": "URLError"
+ },
+ "https://www.igrejamatrizsa.com/": [],
+ "https://www.igrejasantana.com": {
+  "error": "URLError"
+ },
+ "https://www.igrejasantarita.com.br/": [],
+ "https://www.igrejasantoantonio.net.br/": [
+  "paroquiasantoantoniobatistini"
+ ],
+ "https://www.igrejasaocarlos.com.br/": [
+  "igrejasaocarlosborromeu"
+ ],
+ "https://www.igrejasaojoaobatista.com.br/": [],
+ "https://www.igrejasaosebastiao.com.br/": [],
+ "https://www.imaculada.org/": {
+  "error": "URLError"
+ },
+ "https://www.imaculadaconceicao.org/": [
+  "matrizdiadema"
+ ],
+ "https://www.imaculadaconceicao.org/nossa-paroquia/capelas/": [
+  "matrizdiadema"
+ ],
+ "https://www.imaculadadv.com.br/": [],
+ "https://www.imaculadasp.com.br/": [
+  "imaculadabelavista"
+ ],
+ "https://www.imaculadocoracaodemariacg.com.br": [],
+ "https://www.insf.org.br/": [
+  "colegiodospadres"
+ ],
+ "https://www.instagram.com.br/paroquiansrosariogru": [
+  "rsrc.php",
+  "ajax"
+ ],
+ "https://www.institutohesed.org.br": [
+  "institutohesed.oficial"
+ ],
+ "https://www.instragram.com/vozdarainha": {
+  "error": "URLError"
+ },
+ "https://www.iparoquia.com/saojudas/": {
+  "error": "URLError"
+ },
+ "https://www.ipmmi.org.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.irmadulce.org.br/santuario/p%C3%A1gina/conteudo/santuario": {
+  "error": "HTTPError"
+ },
+ "https://www.irmascarmelitas.com.br/index.php?pr=conteudo&mn_codigo=14&ct_codigo=129": [],
+ "https://www.irmascarmelitas.com.br/index.php?pr=conteudo&mn_codigo=14&ct_codigo=133": [],
+ "https://www.irmasicm.org.br": [
+  "irmasicm",
+  "vocacional.icm"
+ ],
+ "https://www.iscal.com.br": [
+  "iscal.londrina"
+ ],
+ "https://www.iscm.org.br/": {
+  "error": "URLError"
+ },
+ "https://www.itaici.org.br": [],
+ "https://www.jesusmariajose.com.br": {
+  "error": "URLError"
+ },
+ "https://www.jesusressuscitado.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.lojadocarmelodepelotas.com.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.lojamaedoamor.com.br/": [
+  "lojamaedoamor"
+ ],
+ "https://www.maeaparecida.com.br": [],
+ "https://www.maedoshomens.cuiaba.br/": [
+  "maedoshomenscuiaba"
+ ],
+ "https://www.matrizsagradafamilia.org.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.matrizsantana.com.br/": [
+  "ociceropr"
+ ],
+ "https://www.matrizsantarosadelima.com.br": [],
+ "https://www.matrizsantarosadelima.com.br/": [],
+ "https://www.matrizsantarosadelima.com.br/comunidades/sao-jose-operario": [],
+ "https://www.meldedeus.com": {
+  "error": "RemoteDisconnected"
+ },
+ "https://www.meldedeus.com/": {
+  "error": "RemoteDisconnected"
+ },
+ "https://www.miliciadaimaculada.org.br/": [
+  "miliciadaimaculada"
+ ],
+ "https://www.missaonspaz.org/": [
+  "missaopazsp"
+ ],
+ "https://www.mitranh.org.br/paroquias/22/sao-jose-primavera-novo-hamburgo": [
+  "diocese.nh"
+ ],
+ "https://www.mnspaz.com/": [
+  "mosteiro_nspaz"
+ ],
+ "https://www.mosteirodaluz.org.br": [],
+ "https://www.mosteirodasantaface.org/msf-contato": [
+  "mosteirodasantaface.oficial",
+  "mosteirodasantaface"
+ ],
+ "https://www.mosteirodavirgem.com.br/": [
+  "mosteirodavirgem"
+ ],
+ "https://www.mosteirodivinamisericordia.com.br/p/contato.html": [
+  "v1",
+  "mosteirodivinamisericordia",
+  "mosteirodadivinamisericordia"
+ ],
+ "https://www.mosteirodoencontro.org.br/": [],
+ "https://www.mosteirosaojose.com.br": {
+  "error": "URLError"
+ },
+ "https://www.mosteirotrapista.org.br/": [],
+ "https://www.msbento.org.br/horarios": {
+  "error": "URLError"
+ },
+ "https://www.nossasenhoradalapa.org.br/bom-jesus-dos-pescadores-tapera-da-barra-do-sul": [
+  "paroquianossasenhoradalapa"
+ ],
+ "https://www.nossasenhoradasdores.org.br/": [
+  "nsradasdoresipiranga"
+ ],
+ "https://www.nossasenhoradasgracas.org.br/": [
+  "paroquianossa.sg"
+ ],
+ "https://www.nossasenhoradeguadalupe.com.br/": [
+  "paroquiaguadalupemorumbi"
+ ],
+ "https://www.nossasenhoradobrasil.com.br/": [
+  "nossasenhoradobrasil",
+  "embed.js"
+ ],
+ "https://www.nossasenhoradorosario.com.br": [
+  "paroquiadorosariosn"
+ ],
+ "https://www.nossasenhoradosorriso.com.br/": [
+  "santuarionossasenhoradosorriso"
+ ],
+ "https://www.nossasenhoradosprazeres.com.br/": [
+  "santuarionsp"
+ ],
+ "https://www.nossasenhoradosprazeres.com.br/comunidade-rainha-da-paz": [
+  "santuarionsp"
+ ],
+ "https://www.nossasenhoramenina.org.br/#": [],
+ "https://www.nossasradorosario.com.br/": [
+  "nsradorosario_paroquia"
+ ],
+ "https://www.nossasradorosario.com.br/missas-celebracoes": [
+  "nsradorosario_paroquia"
+ ],
+ "https://www.nossosenhordospassos.com.br/": [
+  "paroquianossosenhordospassos"
+ ],
+ "https://www.nsazatt.com.br/": [],
+ "https://www.nscandelaria.com.br/": [
+  "nscandelaria"
+ ],
+ "https://www.nscandelaria.org.br/": [
+  "nsracandelaria"
+ ],
+ "https://www.nsdagloria.com.br": {
+  "error": "HTTPError"
+ },
+ "https://www.nsmonteserrate.com.br": [
+  "nsmonteserrate",
+  "wixstudio"
+ ],
+ "https://www.nspslagosul.com.br/?fbclid=IwAR0B7g5-9LKA9MgZD3lYx8_plKY32q4dD-xp9fnZ8cnlxYbPB82-4lThlFE": [
+  "psocorrolagosul"
+ ],
+ "https://www.nsrafatima.org.br": [
+  "nsrafatima.vlsp",
+  "eacleopoldina"
+ ],
+ "https://www.nsrainha.com.br": [
+  "nsrainhabh"
+ ],
+ "https://www.nsrasalette.org.br": [
+  "santuariosalettesp"
+ ],
+ "https://www.nsrf.com.br": [
+  "nsrf_sobradinho"
+ ],
+ "https://www.oarcanjo.net/": [],
+ "https://www.oasidellapace.net/br/": [],
+ "https://www.ocapuchinho.com.br/": [
+  "igrejadoscapuchinhos"
+ ],
+ "https://www.ofmsantoantonio.org/onde-estamos/lagoa-seca--pb": [
+  "ofmsantoantonio"
+ ],
+ "https://www.olinda.pe.gov.br/guia-turistico/igrejas#.VhzpAXUVhBc": {
+  "error": "HTTPError"
+ },
+ "https://www.olmrio.com/": [
+  "olmriooficial"
+ ],
+ "https://www.osj.org.br/josefologia/centro-de-espiritualidade-josefino-marelliana-eis-a-nossa-missao": [
+  "osjoficial"
+ ],
+ "https://www.ouropreto.com.br/atrativos/religiosos/igrejas/igreja-de-sao-jose-antiga-capela-imperial": {
+  "error": "URLError"
+ },
+ "https://www.padremachado.edu.br/pastoral": [
+  "institutopadremachado"
+ ],
+ "https://www.padremarcelorossi.com.br": [
+  "padremarcelorossi"
+ ],
+ "https://www.paieterno.com.br/": [
+  "basilicapaieterno"
+ ],
+ "https://www.pantokrator.org.br": [
+  "compantokrator"
+ ],
+ "https://www.paraiso.org.br": [
+  "nossasenhoradoparaiso"
+ ],
+ "https://www.paroquiaanunciacao.net/comunidade_sao_jose.html": {
+  "error": "HTTPError"
+ },
+ "https://www.paroquiabomjesusararas.com.br/": [
+  "paroquiabomjesusararas"
+ ],
+ "https://www.paroquiacbmdf.com.br/": [
+  "capelania_cbmdf"
+ ],
+ "https://www.paroquiaclaret.com.br/a-paroquia/": [
+  "paroquia_claret"
+ ],
+ "https://www.paroquiaconsolatadf.com.br/": [
+  "nsconsolata"
+ ],
+ "https://www.paroquiacoracaodejesus.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiacristoredentorpoa.org.br/": [],
+ "https://www.paroquiadaassuncao.org.br/": [
+  "paroquiadaassuncao"
+ ],
+ "https://www.paroquiadaimaculada.org.br": [],
+ "https://www.paroquiadapaz.org.br/": [
+  "paroquiadapazfor"
+ ],
+ "https://www.paroquiadasaude.com.br": [
+  "paroquia_da_saude"
+ ],
+ "https://www.paroquiadatrindade.com/": [
+  "paroquiadatrindade"
+ ],
+ "https://www.paroquiadeareiabrancarn.org.br": [],
+ "https://www.paroquiadecandelaria.com.br/": [
+  "pnscandelarianatal"
+ ],
+ "https://www.paroquiadecandelaria.com.br/capela-mae-peregrina": [
+  "pnscandelarianatal"
+ ],
+ "https://www.paroquiadecapoeiras.org.br/post/horario-das-missas": [],
+ "https://www.paroquiadecasaforte.com.br": [],
+ "https://www.paroquiadeitaporanga.com.br/": [],
+ "https://www.paroquiadelucas.com.br/": [
+  "paroquiadelucas"
+ ],
+ "https://www.paroquiademaragogi.com.br/": [
+  "paroquiademaragogi"
+ ],
+ "https://www.paroquiademaragogi.com.br/?fbclid=PAZXh0bgNhZW0CMTEAAaf_OdN1LYV73scONthR9HEvlHC2bU8MpUIl": [
+  "paroquiademaragogi"
+ ],
+ "https://www.paroquiadeondina.com.br/": [
+  "paroquiadeondina"
+ ],
+ "https://www.paroquiadivino.org.br": [
+  "paroquiadivinosalvador"
+ ],
+ "https://www.paroquiadocabral.com.br": [
+  "paroquiadocabral"
+ ],
+ "https://www.paroquiadocalvario.org.br": [],
+ "https://www.paroquiadocampeche.org.br/": [
+  "paroquiadocampeche"
+ ],
+ "https://www.paroquiadocampeche.org.br/sao-pedro-pantano-do-sul": [
+  "paroquiadocampeche"
+ ],
+ "https://www.paroquiadoporto.com.br/": [
+  "paroquiadoporto"
+ ],
+ "https://www.paroquiadorosario.org.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.paroquiadorosariolages.com.br": [
+  "paroquiadorosariolages"
+ ],
+ "https://www.paroquiadorosariolages.com.br/": [
+  "paroquiadorosariolages"
+ ],
+ "https://www.paroquiafatimacancelli.com.br": {
+  "error": "URLError"
+ },
+ "https://www.paroquiafredericoozanam.com.br/capela-nossa-senhora-auxiliadora": [
+  "paroquiafredericoozanam"
+ ],
+ "https://www.paroquiagloria.org.br/": [
+  "paroquiagloriafor",
+  "gloriastore.for"
+ ],
+ "https://www.paroquiaguaratuba.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiaicm.com.br": [
+  "icm.paroquia"
+ ],
+ "https://www.paroquiaimaculadocm.com.br/": [],
+ "https://www.paroquiaingleses.com.br": [
+  "paroquia_ingleses"
+ ],
+ "https://www.paroquiaingleses.com.br/": [
+  "paroquia_ingleses"
+ ],
+ "https://www.paroquiajoanadarc.com.br": [
+  "santajoanacapelacristorei"
+ ],
+ "https://www.paroquiajoanadarc.com.br/": [
+  "santajoanacapelacristorei"
+ ],
+ "https://www.paroquiajr.com.br/agendamentos": [
+  "paroquiajrsp"
+ ],
+ "https://www.paroquiamdi.com.br/": [],
+ "https://www.paroquiammc.com.br/": [
+  "pmariamaedoscaminhantes"
+ ],
+ "https://www.paroquianossasenhoradotrabalho.org/": [
+  "nossasenhoradotrabalho"
+ ],
+ "https://www.paroquianovajerusalem.com.br/": [],
+ "https://www.paroquiansacoxipo.com.br/": [],
+ "https://www.paroquiansassuncao.com.br/": [],
+ "https://www.paroquiansdaconceicao.net.br/": [
+  "paroquia_ns_conceicao"
+ ],
+ "https://www.paroquiansdocarmo.com.br": [],
+ "https://www.paroquiaperpetuosocorro.com.br/": [
+  "meuperpetuosocorro23"
+ ],
+ "https://www.paroquiaponte.com.br/": [],
+ "https://www.paroquiarainhadapaz.com.br/": [],
+ "https://www.paroquiarainhasantaisabel.com.br": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasagradafamilia.org": {
+  "error": "HTTPError"
+ },
+ "https://www.paroquiasagradafamilia.org/": {
+  "error": "HTTPError"
+ },
+ "https://www.paroquiasagradoscoracoes.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasantacecilia.com.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.paroquiasantaedwiges16.org.br/": [
+  "paroquiasantaedwiges16"
+ ],
+ "https://www.paroquiasantafelicidade.com/": [
+  "paroquiasanta"
+ ],
+ "https://www.paroquiasantamaededeusdf.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasantamargarida.com.br": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasantamargarida.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasantana.org.br": [],
+ "https://www.paroquiasantaritavitoria.com.br": [
+  "paroquiasantaritadecassia"
+ ],
+ "https://www.paroquiasantazita.org.br": [
+  "paroquiasantazita"
+ ],
+ "https://www.paroquiasantissimatrindade.com.br/": [],
+ "https://www.paroquiasantoagostinho.com.br/": [
+  "paroquiasantoagostinhoriomaina"
+ ],
+ "https://www.paroquiasantoanastacio.com.br/home.php": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasantoantonio.org.br/": [
+  "santoantoniobauru"
+ ],
+ "https://www.paroquiasantoantoniobarro.com.br": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasantoantoniobg.com.br/": [
+  "paroquiasantoantoniobg"
+ ],
+ "https://www.paroquiasantoantoniodv.com.br/": [],
+ "https://www.paroquiasantoantoniosbo.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasantoestevao.com.br/": [
+  "matrizsantoestevao_"
+ ],
+ "https://www.paroquiasaobenedito.com.br/": [
+  "paroquiasaobeneditoficial"
+ ],
+ "https://www.paroquiasaobento.com.br/": [
+  "paroquiasbento"
+ ],
+ "https://www.paroquiasaobraz.com.br": [
+  "paroquiasaobraz"
+ ],
+ "https://www.paroquiasaocamilodf.com/": [],
+ "https://www.paroquiasaocristovaocco.com.br/": [
+  "paroquia.sao.cristovao"
+ ],
+ "https://www.paroquiasaofranciscoaps.com.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.paroquiasaofranciscojp.com/": [
+  "paroquiasaofranciscojp"
+ ],
+ "https://www.paroquiasaofranciscosp.com.br/": [
+  "paroquiasaofranciscojaguare.sp"
+ ],
+ "https://www.paroquiasaogeraldo.com.br/": [
+  "paroquiasaogeraldoipatinga"
+ ],
+ "https://www.paroquiasaojorge.com.br": [
+  "paroquiasaojorgecuritiba",
+  "pascomsaojorgecuritiba"
+ ],
+ "https://www.paroquiasaojorgebh.org/": [
+  "paroquiasaojorgebh"
+ ],
+ "https://www.paroquiasaojose.org": [
+  "paroquiasaojose.lc"
+ ],
+ "https://www.paroquiasaojoseassai.com.br/site/index.php/capelas/sao-vicente-de-paula": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasaojosebaeta.com.br/": [
+  "paroquiasaojosebaeta"
+ ],
+ "https://www.paroquiasaojosecarapicuiba.com/": [
+  "saojose_vilacretti"
+ ],
+ "https://www.paroquiasaojosemaringa.com.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.paroquiasaojoseoficinas.com.br/": [],
+ "https://www.paroquiasaojoseoperario.com.br/": [
+  "psjojp"
+ ],
+ "https://www.paroquiasaojoseoperario.net/": [
+  "parsaojoseoperario",
+  "capelasantaclaradapsjo"
+ ],
+ "https://www.paroquiasaojudasmga.com.br/": [
+  "paroquiasaojudastadeumga"
+ ],
+ "https://www.paroquiasaojudastadeu.org/": [
+  "igrejasaojudas"
+ ],
+ "https://www.paroquiasaoluisgonzaga.com/": [
+  "matrizsaoluisgonzaga"
+ ],
+ "https://www.paroquiasaomarcos.com.br/s-projects-basic": [
+  "saomarcoscampinas"
+ ],
+ "https://www.paroquiasaomartinho.com.br/": [
+  "paroquiasaomartinho"
+ ],
+ "https://www.paroquiasaomiguel.com/": [],
+ "https://www.paroquiasaopauloapostolo.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasaopedro.org.br": [
+  "paroquiasaopedrovg"
+ ],
+ "https://www.paroquiasaopedrogaribaldi.com.br/": [
+  "saopedrogdi"
+ ],
+ "https://www.paroquiasaopedromaua.org.br/?s=capela&id=12": {
+  "error": "TimeoutError"
+ },
+ "https://www.paroquiasaopedropiracicaba.com.br": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasaopedrotx.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasaopio.com.br/": [
+  "o1",
+  "psaopio"
+ ],
+ "https://www.paroquiasaoroquecvv.com.br/": [],
+ "https://www.paroquiasaosebastiaops.com.br": [
+  "paroquiasaosebastiaops"
+ ],
+ "https://www.paroquiasbento.com.br/": [],
+ "https://www.paroquiascj.com.br/": [
+  "pscj.brooklin"
+ ],
+ "https://www.paroquiascsd.org": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasfdepaula.org.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasfranciscoassiscm.com.br/": [],
+ "https://www.paroquiasjbatista.com.br/": [
+  "paroquia.sjb70"
+ ],
+ "https://www.paroquiasjoaobosco.com/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiaslg.com.br": {
+  "error": "URLError"
+ },
+ "https://www.paroquiasmiguelsexpedito.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.paroquiass.com.br/": [
+  "paroquiass",
+  "embed.js"
+ ],
+ "https://www.paroquiavilaoperaria.org.br/portal/": [],
+ "https://www.paroquiavitoriaeantonio.com": {
+  "error": "URLError"
+ },
+ "https://www.pateodocollegio.com.br/": [
+  "pateodocollegio"
+ ],
+ "https://www.pateodocollegio.com.br/masj": [
+  "pateodocollegio",
+  "museudeartesacradosjesuitas"
+ ],
+ "https://www.pcormaria.com/": {
+  "error": "URLError"
+ },
+ "https://www.pcr.org.br": [
+  "pcrgoiania"
+ ],
+ "https://www.pcr.org.br/": [
+  "pcrgoiania"
+ ],
+ "https://www.pedroapostolo.org.br/": {
+  "error": "URLError"
+ },
+ "https://www.perpetuo.org.br/": [
+  "paroquiansps_e_starosalia"
+ ],
+ "https://www.perpetuosocorro.org.br/": [
+  "perpetuosocorrocuritiba"
+ ],
+ "https://www.perpetuosocorroaraucaria.com/": [
+  "perpetuosocorroaraucaria"
+ ],
+ "https://www.pime.org.br/": [
+  "pimebrasil"
+ ],
+ "https://www.pioxiicolegio.com.br/": [
+  "pioxiicolegiosp"
+ ],
+ "https://www.pnsa.org.br/": [
+  "pnsaparecida_lp"
+ ],
+ "https://www.pnsaparecida.com.br/": [
+  "pnsaigrejinha"
+ ],
+ "https://www.pnsassuncao.org.br/a-paroquia/matriz-auxiliar": [],
+ "https://www.pnsbrasil.org.br/": [
+  "paroquiansbrasil"
+ ],
+ "https://www.pnsbs.com.br/": [
+  "catedralnsbomsucesso"
+ ],
+ "https://www.pnscarmo.org.br": [],
+ "https://www.pnsfatimabsb.com.br/": [
+  "pnsfatimabsb"
+ ],
+ "https://www.pnsfcotia.com.br": [
+  "pnsfcotia"
+ ],
+ "https://www.pnsg.bhz.br/": [
+  "pnsguadalupecastelo"
+ ],
+ "https://www.pnsg.com.br": [],
+ "https://www.pnslourdes.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.pnsrosariosbenedito.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.pnssocorro.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.portadeassis.com.br/paroquia/comunidades-eclesiais": [
+  "portadeassis"
+ ],
+ "https://www.ppsocorro.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.provinciaexaltacao.org.br/default.asp?pag=paroquia&id=24": [
+  "picmariapassionista",
+  "exaltpassio"
+ ],
+ "https://www.psantaterezinhatimbo.com.br/": [],
+ "https://www.pscjlouveira.org.br": [
+  "pscjlouveira"
+ ],
+ "https://www.psdsavio.com.br/": [
+  "psdsavio"
+ ],
+ "https://www.psg.org.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.psjbosco.com.br": [
+  "psjboscoamericana"
+ ],
+ "https://www.psje.com.br/": [
+  "psjemiliani"
+ ],
+ "https://www.psjgaropaba.com.br/": [],
+ "https://www.psmarcos.org.br/": [
+  "saomarcos.pilarzinho"
+ ],
+ "https://www.pspa.org.br": [],
+ "https://www.pspedrosorriso.com.br": [
+  "pspedrosorriso"
+ ],
+ "https://www.psrcpirassununga.org/": [
+  "igreja_santa_rita_pirassununga"
+ ],
+ "https://www.psteresinha.com.br": [],
+ "https://www.puc-rio.br/sobrepuc/admin/reitoria/igreja/index.html": [
+  "scjpucrio"
+ ],
+ "https://www.pucrs.br/pastoral/igreja/": [
+  "pastoralpucrs",
+  "pucrsstore"
+ ],
+ "https://www.radios.com.br/aovivo/radio-nossa-senhora-dos-navegantes/179613": [],
+ "https://www.rainhadapaz.g12.br/": [],
+ "https://www.rainhadetodosossantos.com.br/category/agenda/": [
+  "nsfatimarts"
+ ],
+ "https://www.rainhadosapostolos-am.org.br/": [],
+ "https://www.rainhadosapostolos.com.br/": [
+  "paroquiarainhadosapostolos"
+ ],
+ "https://www.redesagrado.com/corjesu/": [
+  "colegio_corjesu"
+ ],
+ "https://www.renascidosempentecostes.com/centro-de-evangelizacao": [
+  "renascidosempentecostes"
+ ],
+ "https://www.rosariodepompeia.com.br": {
+  "error": "URLError"
+ },
+ "https://www.sagradocoracaopaulinia.org.br/": [
+  "sagradocoracao_paulinia"
+ ],
+ "https://www.sagradocoracaopaulinia.org.br/organismos?id=4": {
+  "error": "HTTPError"
+ },
+ "https://www.sagradocoracaopaulinia.org.br/reconciliacao": {
+  "error": "HTTPError"
+ },
+ "https://www.sagradoeducacao.com.br/sagrado-coracao-sao-paulo/pagina/487-pastoral-educacional": [
+  "colegiosagrado.sp"
+ ],
+ "https://www.salesianorecife.com.br/basilica": [
+  "bscjrecife",
+  "salesianorecife"
+ ],
+ "https://www.salvadordabahia.com/experiencias/igreja-nossa-senhora-do-rosario-dos-pretos/": [
+  "visitsalvadordabahia",
+  "irmandadedoshomenspretos"
+ ],
+ "https://www.sangennaro.org.br": [
+  "festasangennaro"
+ ],
+ "https://www.santacabeca.com.br/": [
+  "santacabeca"
+ ],
+ "https://www.santacandidasp.org.br/in%C3%ADcio": [
+  "santacandidasp"
+ ],
+ "https://www.santacasasp.org.br/portal/capela": [
+  "santacasasp"
+ ],
+ "https://www.santacatarinalaboure.com.br/": [
+  "paroquiasantacatarinabh"
+ ],
+ "https://www.santacecilia.com.br/noticias/missas-na-capela": [
+  "colegiosantacecilia"
+ ],
+ "https://www.santaclaradapiedade.org.br/": [],
+ "https://www.santacruzbarueri.com.br/": [
+  "paroquiasantacruzbarueri"
+ ],
+ "https://www.santainesindaial.com.br": [
+  "santainesindaial"
+ ],
+ "https://www.santaluzia.org.br": {
+  "error": "HTTPError"
+ },
+ "https://www.santaluziacuritiba.org/": [],
+ "https://www.santamargaridamaria.com.br/": [
+  "paroquiasantamargaridamaria"
+ ],
+ "https://www.santanasousas.com.br": [],
+ "https://www.santasuzana.org.br": [
+  "santasuzanaesaocarloacutis"
+ ],
+ "https://www.santateresinhago.com.br/": [
+  "peluizaugusto"
+ ],
+ "https://www.santateresinhahigienopolis.org.br": [
+  "santateresinhahigienopolis"
+ ],
+ "https://www.santateresinhahigienopolis.org.br/": [
+  "santateresinhahigienopolis"
+ ],
+ "https://www.santoafonsorj.org.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.santoantonioealmas.com.br": [
+  "santoantonioealmas"
+ ],
+ "https://www.santoantoniomacae.com.br/": [
+  "santoantoniomacaeoficial"
+ ],
+ "https://www.santoantonioourinhos.com": {
+  "error": "URLError"
+ },
+ "https://www.santoantoniosinop.org.br/": [
+  "paroquiasantoantoniosinop"
+ ],
+ "https://www.santoinacio-rio.com.br/igreja": [
+  "igrejasantoinacio.rio"
+ ],
+ "https://www.santoinaciosp.com.br/": [
+  "paroquiastoinacioespaulo"
+ ],
+ "https://www.santuarioaparecidabauru.com.br/": [],
+ "https://www.santuariodamisericordiarj.org.br/secretaria#missas": [
+  "santuariodivinamisericordiarj"
+ ],
+ "https://www.santuariodasalmas.com.br": [
+  "santuariodasalmas_sp"
+ ],
+ "https://www.santuariodeaparecidarp.com.br": [],
+ "https://www.santuariodecaninde.com": [
+  "santuariocanindece",
+  "diocesedebaturite",
+  "santaclarafm106",
+  "paroquiadecaninde"
+ ],
+ "https://www.santuariodemaria.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.santuariodenavegantes.com.br/": [
+  "santuarionsdosnavegantes"
+ ],
+ "https://www.santuariodorocio.com/": [
+  "santuariodorocio"
+ ],
+ "https://www.santuariodosagradocoracao.com.br": [],
+ "https://www.santuariodosagradocoracao.com.br/": [],
+ "https://www.santuariodosremedios.com.br/": [],
+ "https://www.santuariofatima.org.br/": [],
+ "https://www.santuariofatimadracena.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.santuariofreigalvao.com": [
+  "santuariofreigalvao"
+ ],
+ "https://www.santuarioguadalupe.com.br": [
+  "santuarioguadalupeoficial"
+ ],
+ "https://www.santuariolondrina.com.br/": [],
+ "https://www.santuariolourdes.com.br/": [
+  "snslpascom"
+ ],
+ "https://www.santuariomaedosremedios.com.br/": {
+  "error": "URLError"
+ },
+ "https://www.santuarionsfatima.com.br/home": {
+  "error": "HTTPError"
+ },
+ "https://www.santuarionsgracas.com.br/": [
+  "santuario_nossa_sra_da_gracas"
+ ],
+ "https://www.santuarioperpetuosocorro.org.br": [
+  "santuarions"
+ ],
+ "https://www.santuariosagradafamilia.com.br/": [
+  "bazarsagradafamilia",
+  "centromedicosagradafamilia",
+  "santuariosagradafamilia"
+ ],
+ "https://www.santuariosantaritadecassia.com.br/": [
+  "santaritacuritiba"
+ ],
+ "https://www.santuariosantaritadecassia.com.br/santuario/padre-e-diaconos": [
+  "santaritacuritiba"
+ ],
+ "https://www.santuariosantateresinha.com/": [],
+ "https://www.santuariosantaterezinha.org.br/": [],
+ "https://www.santuariosantoanibal.com.br/": [
+  "santuariostoanibal"
+ ],
+ "https://www.santuariosaocamilo.com.br/": [],
+ "https://www.santuariosaofreigalvao.com": {
+  "error": "URLError"
+ },
+ "https://www.santuariosaojoaopauloii.com.br": [],
+ "https://www.santuariosaojosebh.com.br/": [
+  "santuariosaojosebh"
+ ],
+ "https://www.santuariosaojoseoperario.com.br/": [
+  "santuariosaojoseoperario"
+ ],
+ "https://www.santuariosaojudas.com": {
+  "error": "URLError"
+ },
+ "https://www.santuariosenhorbomjesus.com.br": [],
+ "https://www.saocarlosborromeu.org.br/": [
+  "saocarlosborromeusorocaba"
+ ],
+ "https://www.saocristovaovalinhos.com.br/": [
+  "saocristovaovalinhos"
+ ],
+ "https://www.saofelipe.org.br/comunidade-santa-lidia/": [
+  "paroquiasaofelipe"
+ ],
+ "https://www.saofranciscoindaial.com.br": [
+  "saofranciscoindaial"
+ ],
+ "https://www.saojoaobatistabarueri.com.br/": [
+  "saojoaobatistabarueri"
+ ],
+ "https://www.saojudas.org.br": [
+  "saojudastadeusp"
+ ],
+ "https://www.saojudasgyn.com.br": [],
+ "https://www.saojudassa.com.br/": [
+  "saojudassa"
+ ],
+ "https://www.saopauloapostolosarandi.com/": [
+  "saopauloapostolosarandi"
+ ],
+ "https://www.saopedroapostolo.org.br/": {
+  "error": "URLError"
+ },
+ "https://www.saopedrodealcantara.org.br/": [],
+ "https://www.saopedroesaopaulo.com.br/": [],
+ "https://www.saopedrofourier.com/": {
+  "error": "URLError"
+ },
+ "https://www.saopedrogramado.com.br/": [
+  "igrejasaopedro.gramado",
+  "embed.js"
+ ],
+ "https://www.saopelegrino.com.br/paroquial": [],
+ "https://www.saosebastiao.org.br": [],
+ "https://www.saosebastiaobetania.com.br/": [
+  "saosebastiaobetaniaoficial"
+ ],
+ "https://www.saosebastiaoitupeva.com.br/": [
+  "pssitupeva"
+ ],
+ "https://www.saovicentelondrina.com.br/": [
+  "saovicentelondrina"
+ ],
+ "https://www.sbeneditosalto.com.br": [
+  "sbenedito.salto"
+ ],
+ "https://www.schoenstattlondrina.com.br/": [
+  "santuariodeschoenstattlondrina"
+ ],
+ "https://www.sementesdoverbo.org/": [
+  "sementesdoverbo"
+ ],
+ "https://www.seminariosaopedro.org.br": [
+  "seminariosaopedro"
+ ],
+ "https://www.senhoraaparecida.com.br/": [],
+ "https://www.senhoradabadia.com.br/": [
+  "nsrabadia"
+ ],
+ "https://www.senhoradasaude.org.br": [
+  "senhoradasaudesp"
+ ],
+ "https://www.sjbcampinas.com.br/comunidades/santa-teresinha/missas-e-celebracoes-da-palavra/": [],
+ "https://www.slg21.com.br/": [
+  "paroquiaslg21"
+ ],
+ "https://www.smariagoretti.com.br/": [
+  "par.mariagoretti"
+ ],
+ "https://www.soledadeitajuba.com.br/": [],
+ "https://www.sr22.com.br/horarios/": [
+  "santaritaindaia"
+ ],
+ "https://www.sstrindade.com": [
+  "paroquiadasantissimatrindade"
+ ],
+ "https://www.tagg0.com/LA1FH2RW8DZXP": [
+  "psbomjesus"
+ ],
+ "https://www.tardecommaria.com.br": [
+  "tardecommaria"
+ ],
+ "https://www.tjsc.jus.br/web/memoria/capela": [],
+ "https://www.turismoouropreto.com/igrejas": [
+  "turismoouropreto"
+ ],
+ "https://www.ucs.br/site": [
+  "ucs_oficial"
+ ],
+ "https://www.uniceub.br/asa-norte": [
+  "uniceub_oficial"
+ ],
+ "https://www.vianney.org.br/web/index.php/missas-e-confissao": [],
+ "https://www.vilasaovicente.com/": [
+  "vilasaovicentedepaulo"
+ ],
+ "https://www.vilavicentina.com.br/": {
+  "error": "HTTPError"
+ },
+ "https://www.webprovidencia.com/": [],
+ "https://xingualtamira.com.br/horariosdemissa": []
 }
