@@ -568,7 +568,8 @@ export default {
       full: 'Sua conta está cheia. Escreva para nós e abriremos espaço.',
     },
     intro: 'Tudo o que você reza, lê e guarda acompanha você em cada aparelho que usa.',
-    private: 'Fica em sigilo. Só os seus aparelhos conseguem ler — nem nós conseguimos.',
+    private:
+      'Fica em sigilo: é trancado no seu aparelho antes de ser enviado, com uma chave que só os seus aparelhos têm.',
     start: 'Começar com este aparelho',
     haveOne: 'Já tenho uma conta',
     couldNotReach: 'Não conseguimos alcançar sua conta. Verifique a conexão e tente de novo.',
@@ -595,7 +596,7 @@ export default {
     news: 'Quero receber novidades do Ember',
     recovery: 'Manter uma cópia de recuperação',
     recoveryHint:
-      'Se você perder todos os aparelhos, podemos ajudar você a voltar por este e-mail.',
+      'Se você perder todos os aparelhos, podemos ajudar você a voltar por este e-mail. Para isso guardamos uma cópia lacrada da sua chave, que só abrimos para devolver a conta a você.',
     leaving: 'Sair',
     removeThis: 'Remover este aparelho',
     removeThisHint: 'Apaga os dados do Ember neste aparelho. Sua conta permanece.',
