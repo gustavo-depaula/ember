@@ -1,4 +1,5 @@
 import DateTimePicker from '@react-native-community/datetimepicker'
+import { useMutation, useQueryClient } from '@tanstack/react-query'
 import { format, parseISO } from 'date-fns'
 import Constants from 'expo-constants'
 import * as Updates from 'expo-updates'
@@ -19,8 +20,10 @@ import { ReadingConfig } from '@/components/ReadingConfigModal'
 import { resetDatabase } from '@/db/client'
 import { TranslationModal } from '@/features/bible/components/TranslationModal'
 import { useCacheStats, useClearCache, usePinnedItems } from '@/features/pinning/hooks'
+import { exportBackup, importBackup } from '@/lib/backupFile'
 import { findTranslation } from '@/lib/bibleTranslations'
 import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
+import { rescheduleAllReminders } from '@/lib/notifications'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const themeOptions = [
@@ -222,6 +225,8 @@ export default function SettingsScreen() {
 
         <SectionDivider />
 
+        <ExportData />
+
         <Pressable
           onPress={async () => {
             const ok = await confirm({
@@ -269,6 +274,67 @@ export default function SettingsScreen() {
         </YStack>
       </YStack>
     </ScreenLayout>
+  )
+}
+
+function ExportData() {
+  const { t } = useTranslation()
+  const queryClient = useQueryClient()
+  const save = useMutation({ mutationFn: exportBackup })
+  const load = useMutation({
+    mutationFn: importBackup,
+    onSuccess: (added) => {
+      if (added === undefined) return
+      // What was read from the log and cached is stale, and so are the reminders set from the plan.
+      queryClient.invalidateQueries()
+      rescheduleAllReminders().catch((err) =>
+        console.error('[import] rescheduling reminders failed', err),
+      )
+    },
+  })
+  const rows = [
+    {
+      label: save.data ? t('settings.exportDone') : t('settings.exportData'),
+      hint: t('settings.exportDataHint'),
+      run: () => save.mutate(),
+    },
+    {
+      label:
+        load.data === undefined
+          ? t('settings.importData')
+          : t('settings.importDone', { count: load.data }),
+      hint: t('settings.importDataHint'),
+      run: () => load.mutate(),
+    },
+  ]
+
+  return (
+    <YStack gap="$md">
+      {rows.map((row) => (
+        <Pressable
+          key={row.hint}
+          onPress={row.run}
+          disabled={save.isPending || load.isPending}
+          accessibilityRole="button"
+          accessibilityLabel={`${row.label}. ${row.hint}`}
+        >
+          <YStack
+            backgroundColor="$backgroundSurface"
+            borderRadius="$lg"
+            padding="$md"
+            alignItems="center"
+            gap="$xs"
+          >
+            <Text fontFamily="$body" fontSize="$2" color="$accent">
+              {row.label}
+            </Text>
+            <Text fontFamily="$body" fontSize="$1" color="$colorSecondary" textAlign="center">
+              {row.hint}
+            </Text>
+          </YStack>
+        </Pressable>
+      ))}
+    </YStack>
   )
 }
 

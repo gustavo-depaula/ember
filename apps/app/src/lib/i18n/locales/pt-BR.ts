@@ -550,6 +550,14 @@ export default {
   },
 
   settings: {
+    importData: 'Importar um arquivo',
+    importDataHint:
+      'Acrescenta o que um arquivo .pray guarda ao que está aqui. Nada aqui é substituído.',
+    importDone_one: '{{count}} registro acrescentado',
+    importDone_other: '{{count}} registros acrescentados',
+    exportData: 'Exportar meus dados',
+    exportDataHint: 'Salva tudo o que você fez no Ember em um único arquivo.',
+    exportDone: 'Salvo',
     title: 'Ajustes',
     readingProgress: 'Progresso de Leitura',
     bibleTranslation: 'Tradu\u00e7\u00e3o da B\u00edblia',
