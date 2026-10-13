@@ -563,7 +563,8 @@ export default {
       full: 'Your account is full. Write to us and we will make room.',
     },
     intro: 'Everything you pray, read and save follows you to every device you use.',
-    private: 'It is kept private. Only your own devices can read it — not even we can.',
+    private:
+      'It is kept private: locked on your device before it is sent, with a key only your devices hold.',
     start: 'Start with this device',
     haveOne: 'I already have an account',
     couldNotReach: 'We could not reach your account. Check your connection and try again.',
@@ -589,7 +590,8 @@ export default {
     add: 'Add',
     news: 'Send me news about Ember',
     recovery: 'Keep a recovery copy',
-    recoveryHint: 'If you lose every device, we can help you get back in through this email.',
+    recoveryHint:
+      'If you lose every device, we can help you get back in through this email. For that we keep a sealed copy of your key, which we open only to return your account to you.',
     leaving: 'Leaving',
     removeThis: 'Remove this device',
     removeThisHint: 'Erases Ember’s data on this device. Your account stays.',
