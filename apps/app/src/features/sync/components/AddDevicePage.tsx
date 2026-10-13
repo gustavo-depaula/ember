@@ -89,7 +89,9 @@ export function AddDevicePage() {
                   value={code}
                   onChangeText={setCode}
                   keyboardType="number-pad"
+                  // tamagui's native Input reads only `autoFocusNative`; `autoFocus` is the web's.
                   autoFocus
+                  autoFocusNative
                   maxLength={9}
                   placeholder="0000 0000"
                   placeholderTextColor="$borderColor"

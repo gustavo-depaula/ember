@@ -254,7 +254,9 @@ function DeviceRow({
             unstyled
             value={renaming}
             onChangeText={setRenaming}
+            // tamagui's native Input reads only `autoFocusNative`; `autoFocus` is the web's.
             autoFocus
+            autoFocusNative
             maxLength={60}
             accessibilityLabel={t('account.deviceName')}
             onSubmitEditing={() => renaming.trim() && rename.mutate(renaming.trim())}
