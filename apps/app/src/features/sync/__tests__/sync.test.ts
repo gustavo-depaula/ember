@@ -69,6 +69,8 @@ function fakeD1() {
 // One for the file: the relay makes its tables once per runtime.
 const d1 = fakeD1()
 let offline = false
+// Called as soon as the relay has deleted an account, before the device has taken that in.
+let onAccountDeleted: (() => void) | undefined
 const allow = { limit: async () => ({ success: true }) }
 
 type Device = { name: string; account: Account | undefined }
@@ -91,15 +93,19 @@ const save = (itemId: string) => emit({ type: 'ItemSaved', itemId, kind: 'book',
 beforeEach(async () => {
   resetAllTestDbs()
   offline = false
+  onAccountDeleted = undefined
   erased.times = 0
   backups.length = 0
   vi.stubGlobal('fetch', async (url: string, init: RequestInit) => {
     if (offline) throw new TypeError('Network request failed')
-    return relayApp.request(new URL(url).pathname + new URL(url).search, init, {
+    const path = new URL(url).pathname
+    const res = await relayApp.request(path + new URL(url).search, init, {
       DB: d1,
       LIMITER: allow,
       PAIRING_LIMITER: allow,
     })
+    if (init.method === 'DELETE' && path.split('/').length === 3) onAccountDeleted?.()
+    return res
   })
   await fetch('https://relay/health', {})
   for (const table of ['accounts', 'devices', 'events', 'pairings'])
@@ -230,6 +236,20 @@ describe('an account on two devices', () => {
     await on(phone)
     await startAccount()
     expect(d1.raw.prepare('SELECT count(*) AS n FROM events').get()).toEqual({ n: 2 })
+  })
+
+  it('kept only here, with a sync starting the moment the account is gone: still not erased', async () => {
+    await save('book/mine')
+    await startAccount()
+    let started: Promise<void> | undefined
+    onAccountDeleted = () => {
+      started = sync()
+    }
+    await keepOnlyHere()
+    await started
+    await sync()
+    expect(erased.times).toBe(0)
+    expect(shelf()).toEqual(['book/mine'])
   })
 
   it('deleted: erased everywhere', async () => {

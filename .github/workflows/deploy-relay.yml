@@ -2,7 +2,7 @@ name: Deploy relay
 
 on:
   push:
-    branches: [main, sync-engine]
+    branches: [main]
     paths:
       - 'apps/relay/**'
       - '.github/workflows/deploy-relay.yml'

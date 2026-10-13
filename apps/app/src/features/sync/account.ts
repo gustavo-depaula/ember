@@ -8,7 +8,7 @@ import { broadcastChange } from '@/lib/db-shared/manager'
 import { randomId } from '@/lib/id'
 
 import { saveBackup } from './backup'
-import { accountStatements, forgetAccountSql, push, sync } from './engine'
+import { accountStatements, forgetAccountSql, push, sync, withSyncHeld } from './engine'
 import { accountKeys, newSecret, randomHex, sealFor } from './keys'
 import { relay } from './relay'
 import { type Account, useSync } from './state'
@@ -127,10 +127,12 @@ export async function removeDevice(deviceId: string): Promise<void> {
 }
 
 /** Deletes the account and, through it, erases every other device; this one keeps everything. */
-export async function keepOnlyHere(): Promise<void> {
+export function keepOnlyHere(): Promise<void> {
   const account = signedIn()
-  await relay.deleteAccount(accountKeys(account.secret).account, account.token)
-  await forgetAccount()
+  return withSyncHeld(async () => {
+    await relay.deleteAccount(accountKeys(account.secret).account, account.token)
+    await forgetAccount()
+  })
 }
 
 /** Deletes the account and erases every device, this one included. */

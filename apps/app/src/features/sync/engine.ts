@@ -120,6 +120,23 @@ export async function loadAccount(): Promise<void> {
 let pulledListener: (() => void) | undefined
 let running: Promise<void> | undefined
 let again = false
+let held = false
+
+/**
+ * Runs `change` with syncing stopped: after any exchange under way has ended,
+ * and with none starting until it is done. For a change to the account itself
+ * — a sync that met the account half deleted would take this device for one
+ * of those told to erase themselves.
+ */
+export async function withSyncHeld<T>(change: () => Promise<T>): Promise<T> {
+  held = true
+  try {
+    await running
+    return await change()
+  } finally {
+    held = false
+  }
+}
 
 function stateOf(err: unknown): SyncState {
   if (!isRelayError(err)) throw err
@@ -150,16 +167,15 @@ async function round(): Promise<void> {
 
 /** One exchange with the relay. A call during one already running asks for another after it. */
 export function sync(): Promise<void> {
+  if (held) return Promise.resolve()
   if (running) {
     again = true
     return running
   }
   running = round().finally(() => {
     running = undefined
-    if (again) {
-      again = false
-      sync()
-    }
+    if (again && !held) sync()
+    again = false
   })
   return running
 }

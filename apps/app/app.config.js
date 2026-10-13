@@ -24,9 +24,6 @@ module.exports = ({ config }) => {
   config.android = {
     ...config.android,
     blockedPermissions: [
-      // expo-image-picker: only the library is opened, through the system
-      // photo picker, which needs no permission.
-      'android.permission.CAMERA',
       // expo-audio: nothing records.
       'android.permission.RECORD_AUDIO',
       // expo-audio background playback, for the creators' audio player — a
