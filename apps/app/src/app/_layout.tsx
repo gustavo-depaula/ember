@@ -13,9 +13,17 @@ import {
   notifyManager,
   QueryClient,
   QueryClientProvider,
+  useQueryClient,
 } from '@tanstack/react-query'
 import { useFonts } from 'expo-font'
-import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router'
+import {
+  DarkTheme,
+  DefaultTheme,
+  Stack,
+  ThemeProvider,
+  useGlobalSearchParams,
+  useSegments,
+} from 'expo-router'
 import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import * as SystemUI from 'expo-system-ui'
@@ -43,6 +51,7 @@ import {
 import { useDbInit } from '@/db/client'
 import { rehydratePinned } from '@/features/pinning/pinningManager'
 import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
+import { startSync } from '@/features/sync'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
 import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
@@ -54,6 +63,7 @@ import {
   setupNotifications,
 } from '@/lib/notifications'
 import { startStallMonitor } from '@/lib/stallMonitor'
+import { startUsage, track } from '@/lib/usage'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -94,6 +104,38 @@ if (typeof document !== 'undefined') {
 
 function CrossTabSync() {
   useCrossTabSync()
+  return null
+}
+
+// Mounted once the app is up — the log opened and straightened — so the account
+// is only ever handed a log in its settled shape.
+function AccountSync() {
+  const queryClient = useQueryClient()
+  useEffect(
+    () =>
+      startSync(() => {
+        // Another device's changes are folded in: whatever was read from the
+        // log and cached is stale, and so are the reminders set from the plan.
+        queryClient.invalidateQueries()
+        rescheduleAllReminders().catch((err) =>
+          console.error('[sync] rescheduling reminders failed', err),
+        )
+      }),
+    [queryClient],
+  )
+  return null
+}
+
+function Usage() {
+  const route = useSegments()
+    .filter((segment) => !segment.startsWith('('))
+    .join('/')
+  const { manifestId, bookId } = useGlobalSearchParams<{ manifestId?: string; bookId?: string }>()
+  const id = manifestId ?? bookId
+  useEffect(() => startUsage(), [])
+  useEffect(() => {
+    track('screen', { route: `/${route}`, ...(typeof id === 'string' ? { id } : {}) })
+  }, [route, id])
   return null
 }
 
@@ -263,6 +305,8 @@ export default function RootLayout() {
       <KeyboardProvider preload={false}>
         <QueryClientProvider client={queryClient}>
           <CrossTabSync />
+          <AccountSync />
+          <Usage />
           <TamaguiProvider config={config} defaultTheme={resolvedTheme}>
             <StatusBar hidden />
             <ThemeProvider value={navTheme}>

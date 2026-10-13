@@ -1,7 +1,10 @@
+import { useQueryClient } from '@tanstack/react-query'
 import { useEffect } from 'react'
 import { Platform } from 'react-native'
 
 import { useEventStore } from '@/db/events/state'
+import { replayAll } from '@/db/events/store'
+import { loadAccount } from '@/features/sync/engine'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { subscribeChanges } from './manager'
@@ -15,6 +18,7 @@ import { subscribeChanges } from './manager'
  * Native: no-op (each app process owns its DB; no cross-tab concept).
  */
 export function useCrossTabSync(): void {
+  const queryClient = useQueryClient()
   useEffect(() => {
     if (Platform.OS !== 'web') return
 
@@ -28,6 +32,12 @@ export function useCrossTabSync(): void {
         return
       }
       if (payload.kind === 'invalidate') {
+        // Another tab folded in an account's changes, or joined or left one.
+        if (payload.tags.includes('log')) {
+          Promise.all([replayAll(), loadAccount()])
+            .then(() => queryClient.invalidateQueries())
+            .catch((err) => console.warn('[cross-tab] failed to re-read the log:', err))
+        }
         if (payload.tags.includes('preferences')) {
           usePreferencesStore
             .getState()
@@ -38,5 +48,5 @@ export function useCrossTabSync(): void {
         }
       }
     })
-  }, [])
+  }, [queryClient])
 }

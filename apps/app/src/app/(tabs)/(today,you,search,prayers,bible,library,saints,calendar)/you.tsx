@@ -16,6 +16,7 @@ import { LibraryFeed } from '@/features/library'
 import { ChronicleDayRow } from '@/features/memoria'
 import { FootLink, RuleOfLifeSections, YouMasthead } from '@/features/plan-of-life'
 import { useChronicle } from '@/features/plan-of-life/useRuleRecord'
+import { AccountCard } from '@/features/sync'
 import { useDeferredTabMount } from '@/hooks/useDeferredTabMount'
 
 const flourishDark = require('../../../../assets/textures/notch_you_dark.png')
@@ -73,6 +74,8 @@ function YouPage() {
             <Settings size={28} color={theme.accent?.val} />
           </Pressable>
         </XStack>
+
+        <AccountCard />
 
         {expanded ? (
           <Split asideSide="right" asideWidth={368} gap={28} ruled aside={chronicleSection}>

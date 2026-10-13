@@ -40,6 +40,8 @@ export type SlotState = {
 /** A collection the user authors, with its member refs in order. */
 export type CollectionState = UserCollection & { refs: { ref: string; addedAt: number }[] }
 
+export type DeviceState = { id: string; name: string; platform: string; addedAt: number }
+
 export type EventStoreState = {
   practices: Map<string, UserPractice>
   slots: Map<string, SlotState>
@@ -58,6 +60,8 @@ export type EventStoreState = {
   reading: Map<string, { ms: number; days: Set<string> }>
   /** The preferences that follow the person: see `syncedPreferences`. */
   preferences: Map<string, string>
+  /** The account's devices, as they named themselves. */
+  devices: Map<string, DeviceState>
 
   apply: (event: AppEvent) => void
   applyBatch: (events: AppEvent[]) => void
@@ -81,6 +85,7 @@ function emptyState() {
     checkIns: new Map<string, CheckIn>(),
     reading: new Map<string, { ms: number; days: Set<string> }>(),
     preferences: new Map<string, string>(),
+    devices: new Map<string, DeviceState>(),
   }
 }
 

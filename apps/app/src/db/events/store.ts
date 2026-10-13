@@ -15,7 +15,8 @@ CREATE TABLE IF NOT EXISTS events (
   payload   TEXT NOT NULL,
   timestamp INTEGER NOT NULL,
   version   INTEGER NOT NULL DEFAULT 1,
-  id        TEXT NOT NULL DEFAULT ''
+  id        TEXT NOT NULL DEFAULT '',
+  synced    INTEGER NOT NULL DEFAULT 0
 );
 CREATE INDEX IF NOT EXISTS idx_events_type ON events (type);
 CREATE INDEX IF NOT EXISTS idx_events_timestamp ON events (timestamp);
@@ -26,6 +27,12 @@ export async function createEventsTable(db: EmberDb): Promise<void> {
   const hasId = await db.getAllAsync("SELECT 1 FROM pragma_table_info('events') WHERE name = 'id'")
   if (hasId.length === 0) {
     await db.execAsync("ALTER TABLE events ADD COLUMN id TEXT NOT NULL DEFAULT ''")
+  }
+  const hasSynced = await db.getAllAsync(
+    "SELECT 1 FROM pragma_table_info('events') WHERE name = 'synced'",
+  )
+  if (hasSynced.length === 0) {
+    await db.execAsync('ALTER TABLE events ADD COLUMN synced INTEGER NOT NULL DEFAULT 0')
   }
   await identifyEvents(db)
   await db.execAsync('CREATE UNIQUE INDEX IF NOT EXISTS idx_events_id ON events (id)')
@@ -63,6 +70,18 @@ async function identifyEvents(db: EmberDb): Promise<void> {
   )
 }
 
+const writeListeners = new Set<(events: AppEvent[]) => void>()
+
+/** Calls \`listener\` with each event or batch once it is stored here. Returns the way to stop. */
+export function onEventsWritten(listener: (events: AppEvent[]) => void): () => void {
+  writeListeners.add(listener)
+  return () => writeListeners.delete(listener)
+}
+
+function written(events: AppEvent[]): void {
+  for (const listener of writeListeners) listener(events)
+}
+
 export async function emit(event: AppEvent): Promise<void> {
   useEventStore.getState().apply(event)
 
@@ -73,6 +92,7 @@ export async function emit(event: AppEvent): Promise<void> {
       [nextId(), event.type, JSON.stringify(event), Date.now()],
     )
     broadcastChange({ kind: 'event', event })
+    written([event])
   } catch (err) {
     await replayAll()
     throw err
@@ -97,6 +117,7 @@ export async function emitBatch(events: AppEvent[]): Promise<void> {
       },
     ])
     broadcastChange({ kind: 'event-batch', events })
+    written(events)
   } catch (err) {
     await replayAll()
     throw err

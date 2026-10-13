@@ -337,6 +337,25 @@ export function applyEvent(draft: WritableDraft<EventStoreState>, event: AppEven
       break
     }
 
+    case 'DeviceNamed': {
+      const device = draft.devices.get(event.deviceId)
+      if (device) device.name = event.name
+      else {
+        draft.devices.set(event.deviceId, {
+          id: event.deviceId,
+          name: event.name,
+          platform: event.platform,
+          addedAt: event.at,
+        })
+      }
+      break
+    }
+
+    case 'DeviceRemoved': {
+      draft.devices.delete(event.deviceId)
+      break
+    }
+
     case 'ProgramRestarted': {
       const cursor = draft.cursors.get(event.cursorId)
       if (!cursor) break

@@ -63,6 +63,13 @@
       "expo-sqlite",
       "expo-font",
       [
+        "expo-camera",
+        {
+          "cameraPermission": "Ember uses the camera to scan the code on a device you are adding to your account.",
+          "recordAudioAndroid": false
+        }
+      ],
+      [
         "expo-notifications",
         {
           "icon": "./assets/notification-icon.png",

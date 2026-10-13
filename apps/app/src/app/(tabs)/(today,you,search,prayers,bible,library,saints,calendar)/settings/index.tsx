@@ -1,5 +1,5 @@
 import DateTimePicker from '@react-native-community/datetimepicker'
-import { useMutation, useQueryClient } from '@tanstack/react-query'
+import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query'
 import { format, parseISO } from 'date-fns'
 import Constants from 'expo-constants'
 import * as Updates from 'expo-updates'
@@ -7,7 +7,7 @@ import { useUpdates } from 'expo-updates'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { Platform, Pressable, Switch } from 'react-native'
-import { Text, XStack, YStack } from 'tamagui'
+import { Text, useTheme, XStack, YStack } from 'tamagui'
 import {
   confirm,
   LanguageSettings,
@@ -24,6 +24,7 @@ import { exportBackup, importBackup } from '@/lib/backupFile'
 import { findTranslation } from '@/lib/bibleTranslations'
 import { hearthUrl, isLocalHearth, setLocalHearth } from '@/lib/hearth'
 import { rescheduleAllReminders } from '@/lib/notifications'
+import { isUsageShared, setUsageShared } from '@/lib/usage'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 const themeOptions = [
@@ -254,6 +255,10 @@ export default function SettingsScreen() {
 
         <SectionDivider />
 
+        <PrivacySection />
+
+        <SectionDivider />
+
         <AppUpdateSection />
 
         <SectionDivider />
@@ -334,6 +339,41 @@ function ExportData() {
           </YStack>
         </Pressable>
       ))}
+    </YStack>
+  )
+}
+
+function PrivacySection() {
+  const { t } = useTranslation()
+  const theme = useTheme()
+  const queryClient = useQueryClient()
+  const shared = useQuery({ queryKey: ['usage-shared'], queryFn: isUsageShared })
+  const set = useMutation({
+    mutationFn: setUsageShared,
+    onSuccess: () => queryClient.invalidateQueries({ queryKey: ['usage-shared'] }),
+  })
+
+  return (
+    <YStack gap="$md">
+      <Text fontFamily="$heading" fontSize="$3" color="$color">
+        {t('settings.privacy')}
+      </Text>
+      <YStack backgroundColor="$backgroundSurface" borderRadius="$lg" padding="$md" gap="$sm">
+        <XStack alignItems="center" justifyContent="space-between">
+          <Text fontFamily="$body" fontSize="$2" color="$color">
+            {t('settings.shareUsage')}
+          </Text>
+          <Switch
+            value={shared.data ?? true}
+            onValueChange={(value) => set.mutate(value)}
+            trackColor={{ true: theme.accent?.val }}
+            accessibilityLabel={t('settings.shareUsage')}
+          />
+        </XStack>
+        <Text fontFamily="$body" fontSize="$1" color="$colorSecondary">
+          {t('settings.shareUsageHint')}
+        </Text>
+      </YStack>
     </YStack>
   )
 }

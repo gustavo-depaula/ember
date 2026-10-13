@@ -266,10 +266,11 @@ vi.mock('expo-font', () => ({
 
 // `expo-crypto` pulls `expo-modules-core`'s `ExpoGlobal.EventEmitter` at import
 // time, which is undefined under jsdom (no Expo native host). Stub the only
-// surface our code uses (digestStringAsync) using Node's built-in `crypto`.
+// surface our code uses using Node's built-in `crypto`.
 vi.mock('expo-crypto', async () => {
-  const { createHash } = await import('node:crypto')
+  const { createHash, randomBytes } = await import('node:crypto')
   return {
+    getRandomBytes: (count: number) => new Uint8Array(randomBytes(count)),
     CryptoDigestAlgorithm: { SHA1: 'SHA-1', SHA256: 'SHA-256', SHA512: 'SHA-512' },
     CryptoEncoding: { HEX: 'hex', BASE64: 'base64' },
     async digestStringAsync(algo: string, value: string, opts?: { encoding?: string }) {

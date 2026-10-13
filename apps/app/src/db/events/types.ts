@@ -238,6 +238,19 @@ type PreferenceSet = { type: 'PreferenceSet'; key: string; value: string | null 
 
 export type PreferenceEvent = PreferenceSet
 
+// The devices signed in to the account, as the account's own devices tell
+// it: the relay knows a device only by an id it can't put a name to.
+type DeviceNamed = {
+  type: 'DeviceNamed'
+  deviceId: string
+  name: string
+  platform: string
+  at: number
+}
+type DeviceRemoved = { type: 'DeviceRemoved'; deviceId: string }
+
+export type DeviceEvent = DeviceNamed | DeviceRemoved
+
 export type AppEvent =
   | PracticeEvent
   | CompletionEvent
@@ -248,6 +261,7 @@ export type AppEvent =
   | ChurchEvent
   | ReadingEvent
   | PreferenceEvent
+  | DeviceEvent
 
 export type StoredEvent = {
   sequence: number
@@ -256,4 +270,5 @@ export type StoredEvent = {
   payload: string
   timestamp: number
   version: number
+  synced: number
 }

@@ -6,7 +6,7 @@ export type {
   SlotState,
 } from './state'
 export { useEventStore } from './state'
-export { createEventsTable, emit, emitBatch, replayAll } from './store'
+export { createEventsTable, emit, emitBatch, onEventsWritten, replayAll } from './store'
 export { exportLog, mergeLog } from './transfer'
 export type {
   AppEvent,
