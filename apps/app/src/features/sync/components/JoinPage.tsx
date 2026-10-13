@@ -17,18 +17,24 @@ type Step =
   | { at: 'bringing' }
   | { at: 'done' }
   | { at: 'expired' }
-  | { at: 'failed'; message: string }
+  | { at: 'failed' }
 
 /** The new device's side of a pairing: it shows its code and waits to be let in. */
 export function JoinPage() {
   const { t } = useTranslation()
   const router = useRouter()
   const held = useQuery({ queryKey: ['account-join-held'], queryFn: getEventCount, gcTime: 0 })
+  // What the device held when the page opened: joining fills the log, and the
+  // count read again then would ask an empty device to agree after the fact.
+  const [heldBefore, setHeldBefore] = useState<number>()
+  if (heldBefore === undefined && held.data !== undefined) setHeldBefore(held.data)
   const [agreed, setAgreed] = useState(false)
   const [step, setStep] = useState<Step>()
   const [attempt, setAttempt] = useState(0)
-  const ready = held.data !== undefined && (held.data === 0 || agreed)
+  const ready = heldBefore !== undefined && (heldBefore === 0 || agreed)
 
+  // Nothing here may depend on `t`: joining brings the account's language with
+  // it, and an effect that ran again for that would ask for a second code.
   // biome-ignore lint/correctness/useExhaustiveDependencies: `attempt` asks for a new code
   useEffect(() => {
     if (!ready) return
@@ -49,13 +55,13 @@ export function JoinPage() {
       setStep({ at: 'done' })
     }
     pair().catch((err: unknown) => {
-      if (!stopped) setStep({ at: 'failed', message: t('account.couldNotReach') })
+      if (!stopped) setStep({ at: 'failed' })
       console.warn('[sync] pairing failed', err)
     })
     return () => {
       stopped = true
     }
-  }, [ready, attempt, t])
+  }, [ready, attempt])
 
   const again = () => {
     setStep(undefined)
@@ -66,7 +72,7 @@ export function JoinPage() {
     <ScreenLayout>
       <YStack gap="$lg" paddingVertical="$lg" flexGrow={1}>
         <PageHeader title={t('account.join.title')} />
-        {held.data !== undefined && !ready ? (
+        {heldBefore !== undefined && !ready ? (
           <YStack gap="$xl" flexGrow={1} justifyContent="space-between">
             <Lead>{t('account.join.replaces')}</Lead>
             <YStack gap="$lg" paddingBottom="$lg">
@@ -106,7 +112,9 @@ export function JoinPage() {
         ) : undefined}
         {step?.at === 'expired' || step?.at === 'failed' ? (
           <YStack gap="$lg" paddingTop="$xl">
-            <Lead>{step.at === 'expired' ? t('account.join.expired') : step.message}</Lead>
+            <Lead>
+              {step.at === 'expired' ? t('account.join.expired') : t('account.couldNotReach')}
+            </Lead>
             <GoldButton label={t('account.join.newCode')} onPress={again} />
           </YStack>
         ) : undefined}
