@@ -1,0 +1,23 @@
+<!doctype html><meta charset="utf-8">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cinzel&family=EB+Garamond:ital@0;1&display=swap">
+<style>
+body{margin:0;background:#050505;font-family:"EB Garamond",serif;padding:24px;width:900px}
+.tag{font:11px Cinzel;letter-spacing:2px;color:#E8C97A;margin:0 0 8px}
+.panel{border-radius:14px;padding:22px 24px 14px;margin-bottom:22px}
+.dark{background:#0e0d0c;color:#a8a296}.light{background:#FBF7EE;color:#5B4A38}
+svg{display:block}
+.leg{display:flex;gap:18px;font-size:13px;margin-top:6px;flex-wrap:wrap}
+.leg i{display:inline-block;width:9px;height:9px;border-radius:5px;margin-right:6px}
+</style>
+<script>
+const day=[['06:00',9],['06:15',7],['06:45',9],['07:30',7],['08:00',9],['09:00',7],['11:00',5],['12:00',9],['12:30',7],['15:00',7],['17:30',7],['18:00',9],['18:30',7],['19:00',9],['20:30',9],['22:00',9],['22:15',7],['22:30',7]]
+const old={dark:{dawn:'#E08A6E',day:'#E3B04B',dusk:'#B07FD0',night:'#6F95D8'},light:{dawn:'#C8664A',day:'#B8871F',dusk:'#8E5BB0',night:'#4A6FB5'}}
+const neu={dark:{dawn:'#E2849A',morning:'#E3B04B',midday:'#F0DC8C',afternoon:'#DE8F48',evening:'#B07FD0',night:'#6F95D8'},light:{dawn:'#C2567A',morning:'#B8871F',midday:'#CDAA00',afternoon:'#C0651E',evening:'#8E5BB0',night:'#4A6FB5'}}
+const oldPart=h=>h<7?'dawn':h<17?'day':h<21?'dusk':'night'
+const newPart=h=>h>=21?'night':h>=18?'evening':h>=14?'afternoon':h>=12?'midday':h>=8?'morning':h>=4?'dawn':'night'
+const names={dawn:'Amanhecer',morning:'Manhã',midday:'Meio-dia',afternoon:'Tarde',evening:'Noite',night:'Antes de dormir',day:'Dia',dusk:'Entardecer'}
+const strip=(pal,part,theme)=>{let x=14,o='';for(const [t,r] of day){const c=pal[theme][part(+t.slice(0,2))];o+=`<circle cx="${x+r}" cy="16" r="${r}" fill="${c}"/>`;x+=r*2+26}
+ return `<svg width="850" height="32"><line x1="6" x2="${x-12}" y1="16" y2="16" stroke="${theme=='dark'?'#3a362f':'#d9cdb4'}" stroke-width="1"/>${o}</svg><div class="leg">${Object.keys(pal[theme]).map(k=>`<span><i style="background:${pal[theme][k]}"></i>${names[k]}</span>`).join('')}</div>`}
+for(const [label,pal,part] of [['Hoje · quatro cores',old,oldPart],['Proposta · seis cores, uma por parte do dia',neu,newPart]])
+ document.write(`<div class="tag">${label}</div><div class="panel dark">${strip(pal,part,'dark')}</div><div class="panel light">${strip(pal,part,'light')}</div>`)
+</script>
