@@ -18,13 +18,13 @@ import {
   deleteAccount,
   keepOnlyHere,
   loadAccountView,
-  nameDevice,
   removeDevice,
   removeThisDevice,
   saveProfile,
   sendPending,
   startAccount,
 } from '../account'
+import { nameDevice } from '../device'
 import { type Account, useSync } from '../state'
 import { GoldButton, Lead, Quiet, TextAction } from './parts'
 

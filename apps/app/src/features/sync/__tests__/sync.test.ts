@@ -30,6 +30,12 @@ vi.mock('@/db/client', () => ({
     erased.times++
   },
 }))
+// Which phone the code finds itself on.
+const phoneHardware = vi.hoisted(() => ({ id: undefined as string | undefined }))
+vi.mock('../device', async (original) => ({
+  ...(await original<typeof import('../device')>()),
+  hardwareId: async () => phoneHardware.id,
+}))
 const backups = vi.hoisted(() => [] as string[])
 vi.mock('../backup', () => ({
   saveBackup: async (log: string) => {
@@ -94,6 +100,7 @@ beforeEach(async () => {
   resetAllTestDbs()
   offline = false
   onAccountDeleted = undefined
+  phoneHardware.id = undefined
   erased.times = 0
   backups.length = 0
   vi.stubGlobal('fetch', async (url: string, init: RequestInit) => {
@@ -250,6 +257,32 @@ describe('an account on two devices', () => {
     await sync()
     expect(erased.times).toBe(0)
     expect(shelf()).toEqual(['book/mine'])
+  })
+
+  it('restored from a backup onto another phone, becomes a device of its own', async () => {
+    phoneHardware.id = 'old-phone'
+    await save('book/before')
+    await startAccount()
+    const first = useSync.getState().account
+    await sync()
+    expect(useSync.getState().account).toEqual(first)
+
+    // The same database, now on a new phone, while the old one goes on being used.
+    phoneHardware.id = 'new-phone'
+    offline = true
+    await sync()
+    expect(useSync.getState().account).toEqual(first)
+    offline = false
+    await sync()
+    const second = useSync.getState().account
+    expect(second?.device).not.toBe(first?.device)
+    expect(second?.token).not.toBe(first?.token)
+    expect(useEventStore.getState().devices.size).toBe(2)
+    const known = d1.raw.prepare('SELECT count(*) AS n FROM devices WHERE removed_at IS NULL').get()
+    expect(known).toEqual({ n: 2 })
+    // And it settles: the next exchange registers nothing more.
+    await sync()
+    expect(useSync.getState().account).toEqual(second)
   })
 
   it('deleted: erased everywhere', async () => {

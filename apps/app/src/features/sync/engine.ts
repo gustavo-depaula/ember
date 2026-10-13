@@ -8,6 +8,7 @@ import type { StoredEvent } from '@/db/events/types'
 import { getDb } from '@/db/instance'
 import { broadcastChange } from '@/lib/db-shared/manager'
 
+import { hardwareId, nameDevice, newDevice } from './device'
 import { type AccountKeys, accountKeys, fileKey, open, seal } from './keys'
 import { isRelayError, relay } from './relay'
 import { type Account, type SyncState, useSync } from './state'
@@ -149,12 +150,34 @@ function stateOf(err: unknown): SyncState {
   return 'waiting'
 }
 
+/**
+ * The account as this phone's own. A database restored from a backup onto
+ * another phone brings the first phone's device with it; two phones answering
+ * to one device would never be sent each other's changes. So a phone that
+ * finds itself holding another's device registers as a new one.
+ */
+async function asOwnDevice(account: Account, keys: AccountKeys): Promise<Account> {
+  const here = await hardwareId()
+  if (!here || account.phone === here) return account
+  // Registered before phones were told apart: this is the phone it was registered on.
+  const restored = account.phone !== undefined
+  const device = restored ? newDevice() : { id: account.device, token: account.token }
+  if (restored) await relay.addDevice(keys.account, keys.auth, device)
+  const own = { secret: account.secret, device: device.id, token: device.token, phone: here }
+  // A new device starts from the top: the position kept was the other phone's.
+  await getDb().runBatchInTx(restored ? accountStatements(own) : accountStatements(own).slice(0, 1))
+  useSync.setState({ account: own })
+  if (restored) await nameDevice(own.device)
+  return own
+}
+
 async function round(): Promise<void> {
-  const { account } = useSync.getState()
-  if (!account) return
+  const stored = useSync.getState().account
+  if (!stored) return
   useSync.setState({ state: 'syncing' })
   try {
-    const keys = accountKeys(account.secret)
+    const keys = accountKeys(stored.secret)
+    const account = await asOwnDevice(stored, keys)
     await push(account, keys)
     if (await pull(account, keys)) pulledListener?.()
     useSync.setState({ state: 'ok', syncedAt: Date.now() })

@@ -1,7 +1,13 @@
 import { create } from 'zustand'
 
 /** What this device needs to be one of an account's: kept here only, never in the log. */
-export type Account = { secret: string; device: string; token: string }
+export type Account = {
+  secret: string
+  device: string
+  token: string
+  /** The phone the device was registered on: see `hardwareId`. */
+  phone?: string
+}
 
 export type SyncState =
   /** Nothing waiting, as far as the last exchange showed. */

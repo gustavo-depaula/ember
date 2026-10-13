@@ -1,15 +1,14 @@
 import type { AccountView, Profile } from '@ember/relay'
-import { Platform } from 'react-native'
 
 import { resetDatabase } from '@/db/client'
 import { emit, exportLog, replayAll, useEventStore } from '@/db/events'
 import { getDb } from '@/db/instance'
 import { broadcastChange } from '@/lib/db-shared/manager'
-import { randomId } from '@/lib/id'
 
 import { saveBackup } from './backup'
+import { hardwareId, nameDevice, newDevice } from './device'
 import { accountStatements, forgetAccountSql, push, sync, withSyncHeld } from './engine'
-import { accountKeys, newSecret, randomHex, sealFor } from './keys'
+import { accountKeys, newSecret, sealFor } from './keys'
 import { relay } from './relay'
 import { type Account, useSync } from './state'
 
@@ -27,39 +26,16 @@ function signedIn(): Account {
   return account
 }
 
-function defaultDeviceName(): string {
-  if (Platform.OS === 'android') {
-    const { Brand, Model } = Platform.constants
-    const brand = Brand ? Brand.charAt(0).toUpperCase() + Brand.slice(1) : ''
-    return Model.toLowerCase().startsWith(brand.toLowerCase()) ? Model : `${brand} ${Model}`.trim()
-  }
-  if (Platform.OS === 'ios') return Platform.isPad ? 'iPad' : 'iPhone'
-  const agent = typeof navigator === 'undefined' ? '' : navigator.userAgent
-  const browser = ['Firefox', 'Edg', 'Chrome', 'Safari'].find((name) => agent.includes(name))
-  const system = ['Windows', 'Mac', 'Android', 'iPhone', 'iPad', 'Linux'].find((name) =>
-    agent.includes(name),
-  )
-  return [browser === 'Edg' ? 'Edge' : browser, system].filter(Boolean).join(' · ') || 'Browser'
-}
-
-export function nameDevice(deviceId: string, name: string): Promise<void> {
-  return emit({ type: 'DeviceNamed', deviceId, name, platform: Platform.OS, at: Date.now() })
-}
-
-function newDevice() {
-  return { id: randomId(), token: randomHex(32) }
-}
-
 /** Opens an account with this device as its first. What is here becomes the account's. */
 export async function startAccount(): Promise<void> {
   const secret = newSecret()
   const keys = accountKeys(secret)
   const device = newDevice()
   await relay.createAccount(keys.account, keys.auth, device)
-  const account = { secret, device: device.id, token: device.token }
+  const account = { secret, device: device.id, token: device.token, phone: await hardwareId() }
   await getDb().runBatchInTx(accountStatements(account))
   useSync.setState({ account })
-  await nameDevice(device.id, defaultDeviceName())
+  await nameDevice(device.id)
   await sync()
 }
 
@@ -71,7 +47,7 @@ export async function joinAccount(secret: string): Promise<void> {
   const keys = accountKeys(secret)
   const device = newDevice()
   await relay.addDevice(keys.account, keys.auth, device)
-  const account = { secret, device: device.id, token: device.token }
+  const account = { secret, device: device.id, token: device.token, phone: await hardwareId() }
 
   const db = getDb()
   const held = await db.getFirstAsync<{ n: number }>('SELECT count(*) AS n FROM events')
@@ -81,7 +57,7 @@ export async function joinAccount(secret: string): Promise<void> {
   broadcastChange({ kind: 'invalidate', tags: ['log'] })
   useSync.setState({ account })
   await sync()
-  await nameDevice(device.id, defaultDeviceName())
+  await nameDevice(device.id)
 }
 
 /** Takes the account off this device and leaves what the device holds as it is. */
