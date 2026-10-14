@@ -1,0 +1,156 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story and introduces each speech."
+  },
+  "eliu": {
+   "name": "Eliu",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Son of Barachel the Buzite; the angry young bystander who speaks after the three friends fall silent."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Por fim estes três homens cessaram de responder a Job, porque se tinha por justo."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Então Eliú, filho de Baraquel de Buz, da família de Ram, encheu-se de indignação, e irritou-se contra Job, porque este dizia que era justo diante de Deus."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Irritou-se também contra os seus amigos, por não terem achado resposta conveniente para lhe dar, e por, apesar disso, o haverem condenado."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Eliú havia esperado calado, enquanto eles falavam com Job, porquanto eram mais velhos."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Mas, quando viu que os três não lhe puderam responder, indignou-se fortemente."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Então, tomando a palavra Eliú, filho de Baraquel de Buz, disse:"
+   },
+   {
+    "s": "eliu",
+    "t": "Sou novo ainda, e vós já velhos; portanto, abaixando a minha cabeça, não me atrevi a expor-vos o meu parecer."
+   }
+  ],
+  "7": [
+   {
+    "s": "eliu",
+    "t": "Eu esperava que falasse (com argumentos sólidos) a idade mais madura, e que os muitos anos ensinassem a sabedoria,"
+   }
+  ],
+  "8": [
+   {
+    "s": "eliu",
+    "t": "Mas, pelo que vejo, é o espirito de Deus nos homens, é a inspiração do Omnipotente que dá a inteligência."
+   }
+  ],
+  "9": [
+   {
+    "s": "eliu",
+    "t": "Não são sábios os de muita idade, nem os anciãos os que julgam o que é justo."
+   }
+  ],
+  "10": [
+   {
+    "s": "eliu",
+    "t": "Portanto falarei: Ouvi-me, eu vos mostrarei também o meu pensamento."
+   }
+  ],
+  "11": [
+   {
+    "s": "eliu",
+    "t": "Esperei (que terminassem) os vossos discursos, ouvi as vossas razões, enquanto duraram as vossas disputas;"
+   }
+  ],
+  "12": [
+   {
+    "s": "eliu",
+    "t": "enquanto julguei que poderíeis dizer alguma coisa, atendi. Porém, pelo que vejo, não há entre vós quem possa convencer Job, nem responder às suas razões."
+   }
+  ],
+  "13": [
+   {
+    "s": "eliu",
+    "t": "Não digais porventura: nós encontramos a sabedoria; é Deus que o fere, e não um homem."
+   }
+  ],
+  "14": [
+   {
+    "s": "eliu",
+    "t": "Não (direi) palavras tais, nem lhe responderei segundo os vossos arrazoados."
+   }
+  ],
+  "15": [
+   {
+    "s": "eliu",
+    "t": "(Eis aqui três homens que) estão desconcertados, não têm mais resposta, e a si mesmos taparam a boca."
+   }
+  ],
+  "16": [
+   {
+    "s": "eliu",
+    "t": "Visto, pois, que esperei, e eles não falaram, visto que estão aí sem nada mais responder,"
+   }
+  ],
+  "17": [
+   {
+    "s": "eliu",
+    "t": "responderei eu também pela minha parte, e mostrarei o meu parecer."
+   }
+  ],
+  "18": [
+   {
+    "s": "eliu",
+    "t": "Sinto-me cheio de coisas para dizer, aperta-me o espírito que está dentro de mim."
+   }
+  ],
+  "19": [
+   {
+    "s": "eliu",
+    "t": "Eis que o meu peito é como o mosto sem respiradouro, o qual faz estourar as vasilhas novas"
+   }
+  ],
+  "20": [
+   {
+    "s": "eliu",
+    "t": "Falarei, e respirarei um pouco; abrirei os meus lábios, e responderei."
+   }
+  ],
+  "21": [
+   {
+    "s": "eliu",
+    "t": "Não farei aceitação de pessoa, não adularei seja quem for."
+   }
+  ],
+  "22": [
+   {
+    "s": "eliu",
+    "t": "Não sei usar circunlóquios, e por um pouco me suportará o meu Criador."
+   }
+  ]
+ }
+}

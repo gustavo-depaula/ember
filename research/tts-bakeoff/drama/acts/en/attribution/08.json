@@ -1,0 +1,371 @@
+{
+ "pericopes": [
+  1,
+  4,
+  9,
+  26
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Luke: narration, speech introductions and glosses."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Chief of the apostles; bold and plain-spoken, with authority."
+  },
+  "angel": {
+   "name": "Angel of the Lord",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "A messenger of God; brief, clear command."
+  },
+  "crowd": {
+   "name": "People of Samaria",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The Samaritans, awed by Simon the magician."
+  },
+  "simon-magus": {
+   "name": "Simon the Magician",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Samaritan sorcerer; grasping when he offers money, then frightened."
+  },
+  "holy-spirit": {
+   "name": "The Holy Spirit",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Spirit prompting Philip; quiet, direct."
+  },
+  "philip-the-deacon": {
+   "name": "Philip the Deacon",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "One of the seven, the evangelist (not the apostle); eager and friendly."
+  },
+  "ethiopian-eunuch": {
+   "name": "The Ethiopian Eunuch",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Treasurer of queen Candace; courteous, earnest, joyful in asking for baptism."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And at that time, there was raised a great persecution against the church which was at Jerusalem. And they were all dispersed through the countries of Judea, and Samaria, except the apostles."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And devout men took order for Stephen's funeral and made great mourning over him."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "But Saul made havock of the church, entering in from house to house: and dragging away men and women, committed them to prison."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "They therefore that were dispersed went about preaching the word of God."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Philip, going down to the city of Samaria, preached Christ unto them."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the people with one accord were attentive to those things which were said by Philip, hearing, and seeing the miracles which he did."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "For many of them who had unclean spirits, crying with a loud voice, went out."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And many, taken with the palsy, and that were lame, were healed."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "There was therefore great joy in that city. Now there was a certain man named Simon who before had been a magician in that city, seducing the people of Samaria, giving out that he was some great one:"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "To whom they all gave ear, from the least to the greatest, saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "This man is the power of God, which is called great."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And they were attentive to him, because, for a long time, he had bewitched them with his magical practices."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "But when they had believed Philip preaching of the kingdom of God, in the name of Jesus Christ, they were baptized, both men and women."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Then Simon himself believed also and, being baptized, he adhered to Philip. And being astonished, wondered to see the signs and exceeding great miracles which were done."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Now, when the apostles, who were in Jerusalem, had heard that Samaria had received the word of God, they sent unto them Peter and John."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Who, when they were come, prayed for them that they might receive the Holy Ghost."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "For he was not as yet come upon any of them: but they were only baptized in the name of the Lord Jesus."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Then they laid their hands upon them: and they received the Holy Ghost."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And when Simon saw that, by the imposition of the hands of the apostles, the Holy Ghost was given, he offered them money,"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "simon-magus",
+    "t": "Give me also this power, that on whomsoever I shall lay my hands, he may receive the Holy Ghost."
+   },
+   {
+    "s": "narrator",
+    "t": "But Peter said to him:"
+   }
+  ],
+  "20": [
+   {
+    "s": "peter",
+    "t": "Keep thy money to thyself, to perish with thee: because thou hast thought that the gift of God may be purchased with money."
+   }
+  ],
+  "21": [
+   {
+    "s": "peter",
+    "t": "Thou hast no part nor lot in this matter. For thy heart is not right in the sight of God."
+   }
+  ],
+  "22": [
+   {
+    "s": "peter",
+    "t": "Do penance therefore for this thy wickedness: and pray to God, that perhaps this thought of thy heart may be forgiven thee."
+   }
+  ],
+  "23": [
+   {
+    "s": "peter",
+    "t": "For I see thou art in the gall of bitterness and in the bonds of iniquity."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Then Simon answering, said:"
+   },
+   {
+    "s": "simon-magus",
+    "t": "Pray you for me to the Lord that none of these things which you have spoken may come upon me."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And they indeed, having testified and preached the word of the Lord, returned to Jerusalem: and preached the gospel to many countries of the Samaritans."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Now an angel of the Lord spoke to Philip, saying:"
+   },
+   {
+    "s": "angel",
+    "t": "Arise, go towards the south, to the way that goeth down from Jerusalem into Gaza: this is desert.",
+    "q": "\"this is desert\" may be Luke's own gloss on the road rather than the angel's words; kept with the angel."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And rising up, he went. And behold, a man of Ethiopia, an eunuch, of great authority under Candace the queen of the Ethiopians, who had charge over all her treasures, had come to Jerusalem to adore."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And he was returning, sitting in his chariot and reading Isaias the prophet."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And the Spirit said to Philip:"
+   },
+   {
+    "s": "holy-spirit",
+    "t": "Go near and join thyself to this chariot."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And Philip running thither, heard him reading the prophet Isaias. And he said:"
+   },
+   {
+    "s": "philip-the-deacon",
+    "t": "Thinkest thou that thou understandest what thou readest?"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Who said:"
+   },
+   {
+    "s": "ethiopian-eunuch",
+    "t": "And how can I, unless some man shew me?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he desired Philip that he would come up and sit with him."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And the place of the scripture which he was reading was this:"
+   },
+   {
+    "s": "narrator",
+    "t": "He was led as a sheep to the slaughter: and like a lamb without voice before his shearer, so openeth he not his mouth.",
+    "q": "The Isaias passage the eunuch was reading aloud; treated as written text quoted by the narrator, not as his speech."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "In humility his judgment was taken away. His generation who shall declare, for his life shall be taken from the earth?",
+    "q": "Continuation of the Isaias passage; narrator, as in v. 32."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And the eunuch answering Philip, said:"
+   },
+   {
+    "s": "ethiopian-eunuch",
+    "t": "I beseech thee, of whom doth the prophet speak this? Of himself, or of some other man?"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Then Philip, opening his mouth and beginning at this scripture, preached unto him Jesus."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And as they went on their way, they came to a certain water. And the eunuch said:"
+   },
+   {
+    "s": "ethiopian-eunuch",
+    "t": "See, here is water: What doth hinder me from being baptized?"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And Philip said:"
+   },
+   {
+    "s": "philip-the-deacon",
+    "t": "If thou believest with all thy heart, thou mayest."
+   },
+   {
+    "s": "narrator",
+    "t": "And he answering, said:"
+   },
+   {
+    "s": "ethiopian-eunuch",
+    "t": "I believe that Jesus Christ is the Son of God."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And he commanded the chariot to stand still. And they went down into the water, both Philip and the eunuch. And he baptized him."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And when they were come up out of the water, the Spirit of the Lord took away Philip: and the eunuch saw him no more. And he went on his way rejoicing."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "But Philip was found in Azotus: and passing through, he preached the gospel to all the cities, till he came to Caesarea."
+   }
+  ]
+ }
+}

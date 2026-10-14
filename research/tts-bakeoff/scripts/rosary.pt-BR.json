@@ -1,0 +1,455 @@
+{
+ "lang": "pt-BR",
+ "mysteries": "glorious",
+ "clips": {
+  "sign-of-cross": "Em nome do Pai, e do Filho, e do Espírito Santo. Amém.",
+  "apostles-creed": "Creio em Deus Pai todo-poderoso, Criador do céu e da terra; e em Jesus Cristo, seu único Filho, nosso Senhor, que foi concebido pelo poder do Espírito Santo, nasceu da Virgem Maria; padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus; está sentado à direita de Deus Pai todo-poderoso, de onde há de vir a julgar os vivos e os mortos. Creio no Espírito Santo, na Santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne, na vida eterna. Amém.",
+  "our-father": "Pai nosso, que estais nos céus, santificado seja o vosso nome. Venha a nós o vosso reino. Seja feita a vossa vontade, assim na terra como no céu. O pão nosso de cada dia nos dai hoje, perdoai as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. E não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.",
+  "our-father.v": "Pai nosso, que estais nos céus, santificado seja o vosso nome. Venha a nós o vosso reino. Seja feita a vossa vontade, assim na terra como no céu.",
+  "our-father.r": "O pão nosso de cada dia nos dai hoje, perdoai as nossas ofensas, assim como nós perdoamos a quem nos tem ofendido. E não nos deixeis cair em tentação, mas livrai-nos do mal. Amém.",
+  "hail-mary": "Ave Maria, cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.",
+  "hail-mary.v": "Ave Maria, cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus.",
+  "hail-mary.r": "Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.",
+  "hail-mary.t1": "Ave Maria, cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.",
+  "hail-mary.t2": "Ave Maria, cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.",
+  "hail-mary.t3": "Ave Maria, cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito é o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.",
+  "glory-be": "Glória ao Pai, e ao Filho, e ao Espírito Santo. Assim como era no princípio, agora e sempre, e pelos séculos dos séculos. Amém.",
+  "glory-be.v": "Glória ao Pai, e ao Filho, e ao Espírito Santo.",
+  "glory-be.r": "Assim como era no princípio, agora e sempre, e pelos séculos dos séculos. Amém.",
+  "mystery-1": "Primeiro Mistério: A Ressurreição.",
+  "meditation-1": "No terceiro dia, Jesus ressuscita gloriosamente dos mortos. O túmulo está vazio. O anjo proclama: 'Ele não está aqui; ressuscitou, como havia dito.'",
+  "fatima-prayer": "Ó meu Jesus, perdoai-nos, livrai-nos do fogo do inferno, levai as almas todas para o céu, principalmente aquelas que mais precisarem da vossa misericórdia.",
+  "mystery-2": "Segundo Mistério: A Ascensão.",
+  "meditation-2": "Quarenta dias após a Ressurreição, Jesus sobe aos céus diante dos Seus discípulos. 'Vou preparar-vos um lugar, para que onde Eu estiver, vós também estejais.'",
+  "mystery-3": "Terceiro Mistério: A Vinda do Espírito Santo.",
+  "meditation-3": "O Espírito Santo desce sobre os Apóstolos e a Virgem Maria em forma de línguas de fogo. Ficam cheios de coragem e começam a pregar o Evangelho.",
+  "mystery-4": "Quarto Mistério: A Assunção de Nossa Senhora.",
+  "meditation-4": "Ao fim de sua vida terrena, a Virgem Maria é elevada de corpo e alma à glória celeste. Os anjos se alegram quando sua Rainha entra no paraíso.",
+  "mystery-5": "Quinto Mistério: A Coroação de Nossa Senhora.",
+  "meditation-5": "Maria é coroada Rainha do Céu e da Terra. Ela reina como Mãe e Advogada de todos os seus filhos, intercedendo por nós diante do trono de seu Filho.",
+  "hail-holy-queen": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós bradamos, os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria."
+ },
+ "sequence": [
+  {
+   "clip": "sign-of-cross",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "apostles-creed",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "meditation-1",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "meditation-2",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "meditation-3",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-4",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "meditation-4",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "mystery-5",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "meditation-5",
+   "pauseMs": 2500,
+   "role": "leader"
+  },
+  {
+   "clip": "our-father",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t2",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t3",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-mary.t1",
+   "pauseMs": 900,
+   "role": "leader"
+  },
+  {
+   "clip": "glory-be",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "fatima-prayer",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "hail-holy-queen",
+   "pauseMs": 1200,
+   "role": "leader"
+  },
+  {
+   "clip": "sign-of-cross",
+   "pauseMs": 1200,
+   "role": "leader"
+  }
+ ],
+ "variant": "pt-BR"
+}

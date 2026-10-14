@@ -1,0 +1,185 @@
+{
+ "pericopes": [
+  1,
+  12
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The teller of the story of Esther; measured, courtly, grave as the danger grows."
+  },
+  "assuerus": {
+   "name": "King Assuerus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Persian king; imperious, generous to Esther, quick to wrath."
+  },
+  "aman": {
+   "name": "Aman",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The king's proud chief minister, enemy of the Jews; smooth before the king, boastful and bitter at home."
+  },
+  "zares": {
+   "name": "Zares",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Aman's wife, speaking with his friends and counsellors; hard advice, then foreboding."
+  },
+  "kings-servants": {
+   "name": "The king's servants",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The king's servants and pages speaking together; respectful attendants."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "That night the king passed without sleep, and he commanded the histories and chronicles of former times to be brought him. And when they were reading them before him,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "They came to that place where it was written, how Mardochai had discovered the treason of Bagathan and Thares the eunuchs, who sought to kill king Assuerus."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And when the king heard this, he said:"
+   },
+   {
+    "s": "assuerus",
+    "t": "What honour and reward hath Mardochai received for this fidelity?"
+   },
+   {
+    "s": "narrator",
+    "t": "His servants and ministers said to him:"
+   },
+   {
+    "s": "kings-servants",
+    "t": "He hath received no reward at all."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And the king said immediately:"
+   },
+   {
+    "s": "assuerus",
+    "t": "Who is in the court?"
+   },
+   {
+    "s": "narrator",
+    "t": "for Aman was coming in to the inner court of the king's house, to speak to the king, that he might order Mardochai to be hanged upon the gibbet, which was prepared for him."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "The servants answered:"
+   },
+   {
+    "s": "kings-servants",
+    "t": "Aman standeth in the court,"
+   },
+   {
+    "s": "narrator",
+    "t": "and the king said:"
+   },
+   {
+    "s": "assuerus",
+    "t": "Let him come in."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And when he was come in, he said to him:"
+   },
+   {
+    "s": "assuerus",
+    "t": "What ought to be done to the man whom the king is desirous to honour?"
+   },
+   {
+    "s": "narrator",
+    "t": "But Aman thinking in his heart, and supposing that the king would honour no other but himself,"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Answered:"
+   },
+   {
+    "s": "aman",
+    "t": "The man whom the king desireth to honour,"
+   }
+  ],
+  "8": [
+   {
+    "s": "aman",
+    "t": "Ought to be clothed with the king's apparel, and to be set upon the horse that the king rideth upon, and to have the royal crown upon his head,"
+   }
+  ],
+  "9": [
+   {
+    "s": "aman",
+    "t": "And let the first of the king's princes and nobles hold his horse, and going through the street of the city, proclaim before him and say: Thus shall he be honoured, whom the king hath a mind to honour."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And the king said to him:"
+   },
+   {
+    "s": "assuerus",
+    "t": "Make haste and take the robe and the horse, and do as thou hast spoken to Mardochai the Jew, who sitteth before the gates of the palace. Beware thou pass over any of those things which thou hast spoken."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "So Aman took the robe and the horse, and arraying Mardochai in the street of the city, and setting him on the horse, went before him, and proclaimed:"
+   },
+   {
+    "s": "aman",
+    "t": "This honour is he worthy of, whom the king hath a mind to honour."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "But Mardochai returned to the palace gate: and Aman made haste to go to his house, mourning and having his head covered:"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And he told Zares his wife, and his friends, all that had befallen him. And the wise men whom he had in counsel, and his wife answered him:"
+   },
+   {
+    "s": "zares",
+    "t": "If Mardochai be of the seed of the Jews, before whom thou hast begun to fall, thou canst not resist him, but thou shalt fall in his sight."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "As they were yet speaking, the king's eunuchs came, and compelled him to go quickly to the banquet which the queen had prepared."
+   }
+  ]
+ }
+}

@@ -1,0 +1,196 @@
+{
+ "pericopes": [
+  1,
+  6,
+  10
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The storyteller of Genesis; even, unhurried."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to the patriarchs; majestic, promising."
+  },
+  "isaac": {
+   "name": "Isaac",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Son of Abraham; aged, blind and trembling in the blessing scene, peaceable among the Philistines."
+  },
+  "jacob": {
+   "name": "Jacob",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The younger twin; wary and shrewd, awed at Bethel, ardent for Rachel."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Isaac called Jacob, and blessed him, and charged him, saying:"
+   },
+   {
+    "s": "isaac",
+    "t": "Take not a wife of the stock of Chanaan:"
+   }
+  ],
+  "2": [
+   {
+    "s": "isaac",
+    "t": "But go, and take a journey to Mesopotamia of Syria, to the house of Bathuel, thy mother's father, and take thee a wife thence of the daughters of Laban, thy uncle."
+   }
+  ],
+  "3": [
+   {
+    "s": "isaac",
+    "t": "And God almighty bless thee, and make thee to increase and multiply thee: that thou mayst be a multitude of people."
+   }
+  ],
+  "4": [
+   {
+    "s": "isaac",
+    "t": "And give the blessings of Abraham to thee, and to thy seed after thee: that thou mayst possess the land of thy sojournment, which he promised to thy grandfather."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And when Isaac had sent him away, he took his journey and went to Mesopotamia of Syria, to Laban, the son of Bathuel, the Syrian, brother to Rebecca, his mother."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And Esau seeing that his father had blessed Jacob, and had sent him into Mesopotamia of Syria, to marry a wife thence; and that after the blessing he had charged him, saying:"
+   },
+   {
+    "s": "narrator",
+    "t": "Thou shalt not take a wife of the daughters of Chanaan:",
+    "q": "Isaac's charge recalled inside the narrator's account of what Esau saw; kept with the narrator rather than switching to Isaac mid-sentence"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And that Jacob obeying his parents, was gone into Syria:"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Experiencing also, that his father was not well pleased with the daughters of Chanaan:"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "He went to Ismael, and took to wife, besides them he had before, Maheleth, the daughter of Ismael, Abraham's son, the sister of Nabajoth."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "But Jacob being departed from Bersabee, went on to Haran."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And when he was come to a certain place, and would rest in it after sunset, he took of the stones that lay there, and putting under his head, slept in the same place."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And he saw in his sleep a ladder standing upon the earth, and the top thereof touching heaven: the angels also of God ascending and descending by it."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And the Lord leaning upon the ladder saying to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I am the Lord God of Abraham thy father, and the God of Isaac: The land, wherein thou sleepest, I will give to thee and to thy seed."
+   }
+  ],
+  "14": [
+   {
+    "s": "the-lord",
+    "t": "And thy seed shall be as the dust of the earth: thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and IN THEE and thy seed, all the tribes of the earth SHALL BE BLESSED."
+   }
+  ],
+  "15": [
+   {
+    "s": "the-lord",
+    "t": "And I will be thy keeper whithersoever thou goest, and will bring thee back into this land: neither will I leave thee, till I shall have accomplished all that I have said."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And when Jacob awaked out of sleep, he said:"
+   },
+   {
+    "s": "jacob",
+    "t": "Indeed the Lord is in this place, and I knew it not."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And trembling, he said:"
+   },
+   {
+    "s": "jacob",
+    "t": "How terrible is this place? this is no other but the house of God, and the gate of heaven."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And Jacob arising in the morning, took the stone which he had laid under his head, and set it up for a title, pouring oil upon the top of it."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And he called the name of the city Bethel, which before was called Luza."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And he made a vow, saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "If God shall be with me, and shall keep me in the way, by which I walk, and shall give me bread to eat, and raiment to put on,"
+   }
+  ],
+  "21": [
+   {
+    "s": "jacob",
+    "t": "And I shall return prosperously to my father's house: the Lord shall be my God:"
+   }
+  ],
+  "22": [
+   {
+    "s": "jacob",
+    "t": "And this stone, which I have set up for a title, shall be called the house of God: and of all things that thou shalt give to me, I will offer tithes to thee."
+   }
+  ]
+ }
+}

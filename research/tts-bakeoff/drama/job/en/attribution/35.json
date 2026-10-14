@@ -1,0 +1,116 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story and introduces each speech."
+  },
+  "eliu": {
+   "name": "Eliu",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Son of Barachel the Buzite; the angry young bystander who speaks after the three friends fall silent."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Moreover Eliu spoke these words:"
+   }
+  ],
+  "2": [
+   {
+    "s": "eliu",
+    "t": "Doth thy thought seem right to thee, that thou shouldst say: I am more just than God?"
+   }
+  ],
+  "3": [
+   {
+    "s": "eliu",
+    "t": "For thou saidst: That which is right doth not please thee: or what will it profit thee if I sin?"
+   }
+  ],
+  "4": [
+   {
+    "s": "eliu",
+    "t": "Therefore I will answer thy words, and thy friends with thee."
+   }
+  ],
+  "5": [
+   {
+    "s": "eliu",
+    "t": "Look up to heaven and see, and behold the sky, that it is higher than thee."
+   }
+  ],
+  "6": [
+   {
+    "s": "eliu",
+    "t": "If thou sin, what shalt thou hurt him? and if thy iniquities be multiplied, what shalt thou do against him?"
+   }
+  ],
+  "7": [
+   {
+    "s": "eliu",
+    "t": "And if thou do justly, what shalt thou give him, or what shall he receive of thy hand?"
+   }
+  ],
+  "8": [
+   {
+    "s": "eliu",
+    "t": "Thy wickedness may hurt a man that is like thee: and thy justice may help the son of man."
+   }
+  ],
+  "9": [
+   {
+    "s": "eliu",
+    "t": "By reason of the multitude of oppressors they shall cry out: and shall wail for the violence of the arm of tyrants."
+   }
+  ],
+  "10": [
+   {
+    "s": "eliu",
+    "t": "And he hath not said: Where is God, who made me, who hath given songs in the night?"
+   }
+  ],
+  "11": [
+   {
+    "s": "eliu",
+    "t": "Who teacheth us more than the beasts of the earth, and instructeth us more than the fowls of the air."
+   }
+  ],
+  "12": [
+   {
+    "s": "eliu",
+    "t": "There shall they cry, and he will not hear, because of the pride of evil men."
+   }
+  ],
+  "13": [
+   {
+    "s": "eliu",
+    "t": "God therefore will not hear in vain, and the Almighty will look into the causes of every one."
+   }
+  ],
+  "14": [
+   {
+    "s": "eliu",
+    "t": "Yea, when thou shalt say: He considereth not: be judged before him, and expect him."
+   }
+  ],
+  "15": [
+   {
+    "s": "eliu",
+    "t": "For he doth not now bring on his fury, neither doth he revenge wickedness exceedingly."
+   }
+  ],
+  "16": [
+   {
+    "s": "eliu",
+    "t": "Therefore Job openeth his mouth in vain, and multiplieth words without knowledge."
+   }
+  ]
+ }
+}

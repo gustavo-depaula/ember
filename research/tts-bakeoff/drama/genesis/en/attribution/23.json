@@ -1,0 +1,165 @@
+{
+ "pericopes": [
+  1
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The sacred writer: narration and the words that introduce speech."
+  },
+  "abraham": {
+   "name": "Abraham",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The patriarch mourning Sara; humble, courteous, insisting on paying."
+  },
+  "children-of-heth": {
+   "name": "Children of Heth",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Hethites of Hebron speaking together at the city gate; respectful, generous."
+  },
+  "ephron": {
+   "name": "Ephron the Hethite",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Ephron son of Seor, owner of the field; elaborate bargaining courtesy."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Sara lived a hundred and twenty-seven years."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And she died in the city of Arbee which is Hebron, in the land of Chanaan: and Abraham came to mourn and weep for her."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And after he rose up from the funeral obsequies, he spoke to the children of Heth, saying:"
+   }
+  ],
+  "4": [
+   {
+    "s": "abraham",
+    "t": "I am a stranger and sojourner among you: give me the right of a burying place with you, that I may bury my dead."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "The children of Heth answered, saying:"
+   }
+  ],
+  "6": [
+   {
+    "s": "children-of-heth",
+    "t": "My lord, hear us, thou art a prince of God among us: bury thy dead in our principal sepulchres: and no man shall have power to hinder thee from burying thy dead in his sepulchre."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Abraham rose up, and bowed down to the people of the land, to wit, the children of Heth:"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And said to them:"
+   },
+   {
+    "s": "abraham",
+    "t": "If it please your soul that I should bury my dead, hear me, and intercede for me to Ephron the son of Seor."
+   }
+  ],
+  "9": [
+   {
+    "s": "abraham",
+    "t": "That he may give me the double cave, which he hath in the end of his field: For as much money as it is worth he shall give it me before you, for a possession of a burying place."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Now Ephron dwelt in the midst of the children of Heth. And Ephron made answer to Abraham in the hearing of all that went in at the gate of the city, saying:"
+   }
+  ],
+  "11": [
+   {
+    "s": "ephron",
+    "t": "Let it not be so, my lord, but do thou rather hearken to what I say: The field I deliver to thee, and the cave that is therein; in the presence of the children of my people, bury thy dead."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Abraham bowed down before the people of the land."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And he spoke to Ephron, in the presence of the people:"
+   },
+   {
+    "s": "abraham",
+    "t": "I beseech thee to hear me: I will give money for the field; take it, and so will I bury my dead in it."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And Ephron answered:"
+   }
+  ],
+  "15": [
+   {
+    "s": "ephron",
+    "t": "My lord, hear me. The ground which thou desirest, is worth four hundred sicles of silver: this is the price between me and thee: but what is this? bury thy dead."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And when Abraham had heard this, he weighed out the money that Ephron had asked, in the hearing of the children of Heth, four hundred sicles of silver, of common current money."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And the field that before was Ephron's, wherein was the double cave, looking towards Mambre, both it and the cave, and all the trees thereof, in all its limits round about,"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Was made sure to Abraham for a possession, in the sight of the children of Heth, and of all that went in at the gate of his city."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And so Abraham buried Sara, his wife, in the double cave of the field, that looked towards Mambre, this is Hebron in the land of Chanaan."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And the field was made sure to Abraham, and the cave that was in it, for a possession to bury in, by the children of Heth."
+   }
+  ]
+ }
+}

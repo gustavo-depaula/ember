@@ -1,0 +1,381 @@
+{
+ "pericopes": [
+  1,
+  16
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Abraham; steady and grave."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Abraham and others; majestic, calm, sovereign."
+  },
+  "abraham": {
+   "name": "Abraham",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The patriarch (Abram until 17:5), near a hundred years old; reverent, hospitable, bold yet humble in pleading."
+  },
+  "sarah": {
+   "name": "Sarah",
+   "kind": "individual",
+   "gender": "female",
+   "age": "old",
+   "note": "Abraham's wife (Sarai until 17:15), aged and barren; aggrieved in ch. 16, incredulous then afraid in ch. 18."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And the Lord appeared to him in the vale of Mambre as he was sitting at the door of his tent, in the very heat of the day."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And when he had lifted up his eyes, there appeared to him three men standing near to him: and as soon as he saw them, he ran to meet them from the door of his tent, and adored down to the ground."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "abraham",
+    "t": "Lord, if I have found favour in thy sight, pass not away from thy servant."
+   }
+  ],
+  "4": [
+   {
+    "s": "abraham",
+    "t": "But I will fetch a little water, and wash ye your feet, and rest ye under the tree."
+   }
+  ],
+  "5": [
+   {
+    "s": "abraham",
+    "t": "And I will set a morsel of bread, and strengthen ye your heart, afterwards you shall pass on: for therefore are you come aside to your servant."
+   },
+   {
+    "s": "narrator",
+    "t": "And they said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Do as thou hast spoken."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Abraham made haste into the tent to Sara, and said to her:"
+   },
+   {
+    "s": "abraham",
+    "t": "Make haste, temper together three measures of flour, and make cakes upon the hearth."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And he himself ran to the herd, and took from thence a calf, very tender and very good, and gave it to a young man, who made haste and boiled it."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "He took also butter and milk, and the calf which he had boiled, and set before them: but he stood by them under the tree."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And when they had eaten, they said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Where is Sara thy wife?"
+   },
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "abraham",
+    "t": "Lo she is in the tent."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And he said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I will return and come to thee at this time, life accompanying, and Sara, thy wife, shall have a son."
+   },
+   {
+    "s": "narrator",
+    "t": "Which when Sara heard, she laughed behind the door of the tent."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Now they were both old, and far advanced in years, and it had ceased to be with Sara after the manner of women."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And she laughed secretly, saying:"
+   },
+   {
+    "s": "sarah",
+    "t": "After I am grown old, and my lord is an old man, shall I give myself to pleasure?",
+    "q": "said secretly to herself; given to Sarah's voice"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Abraham:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Why did Sara laugh, saying: Shall I, who am an old woman, bear a child indeed?"
+   }
+  ],
+  "14": [
+   {
+    "s": "the-lord",
+    "t": "Is there any thing hard to God? According to appointment I will return to thee at this same time, life accompanying, and Sara shall have a son."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Sara denied, saying:"
+   },
+   {
+    "s": "sarah",
+    "t": "I did not laugh:"
+   },
+   {
+    "s": "narrator",
+    "t": "for she was afraid. But the Lord said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Nay; but thou didst laugh."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And when the men rose up from thence, they turned their eyes towards Sodom: and Abraham walked with them, bringing them on the way."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Can I hide from Abraham what I am about to do:"
+   }
+  ],
+  "18": [
+   {
+    "s": "the-lord",
+    "t": "Seeing he shall become a great and mighty nation, and in him all the nations of the earth shall be blessed?"
+   }
+  ],
+  "19": [
+   {
+    "s": "the-lord",
+    "t": "For I know that he will command his children, and his household after him, to keep the way of the Lord, and do judgment and justice: that for Abraham's sake, the Lord may bring to effect all the things he hath spoken unto him."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "The cry of Sodom and Gomorrha is multiplied, and their sin is become exceedingly grievous."
+   }
+  ],
+  "21": [
+   {
+    "s": "the-lord",
+    "t": "I will go down and see whether they have done according to the cry that is come to me; or whether it be not so, that I may know."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And they turned themselves from thence, and went their way to Sodom: but Abraham as yet stood before the Lord."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And drawing nigh, he said:"
+   },
+   {
+    "s": "abraham",
+    "t": "Wilt thou destroy the just with the wicked?"
+   }
+  ],
+  "24": [
+   {
+    "s": "abraham",
+    "t": "If there be fifty just men in the city, shall they perish withal? and wilt thou not spare that place for the sake of the fifty just, if they be therein?"
+   }
+  ],
+  "25": [
+   {
+    "s": "abraham",
+    "t": "Far be it from thee to do this thing, and to slay the just with the wicked, and for the just to be in like case as the wicked; this is not beseeming thee: thou who judgest all the earth, wilt not make this judgment."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "If I find in Sodom fifty just within the city, I will spare the whole place for their sake."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And Abraham answered, and said:"
+   },
+   {
+    "s": "abraham",
+    "t": "Seeing I have once begun, I will speak to my Lord, whereas I am dust and ashes."
+   }
+  ],
+  "28": [
+   {
+    "s": "abraham",
+    "t": "What if there be five less than fifty just persons? wilt thou for five and forty destroy the whole city:"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I will not destroy it, if I find five and forty."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And again he said to him:"
+   },
+   {
+    "s": "abraham",
+    "t": "But if forty be found there, what wilt thou do?"
+   },
+   {
+    "s": "narrator",
+    "t": "He said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I will not destroy it for the sake of forty."
+   }
+  ],
+  "30": [
+   {
+    "s": "abraham",
+    "t": "Lord,"
+   },
+   {
+    "s": "narrator",
+    "t": "saith he,"
+   },
+   {
+    "s": "abraham",
+    "t": "be not angry, I beseech thee, if I speak: What if thirty shall be found there?"
+   },
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I will not do it, if I find thirty there."
+   }
+  ],
+  "31": [
+   {
+    "s": "abraham",
+    "t": "Seeing,"
+   },
+   {
+    "s": "narrator",
+    "t": "saith he,"
+   },
+   {
+    "s": "abraham",
+    "t": "I have once begun, I will speak to my Lord: What if twenty be found there?"
+   },
+   {
+    "s": "narrator",
+    "t": "He said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I will not destroy it for the sake of twenty."
+   }
+  ],
+  "32": [
+   {
+    "s": "abraham",
+    "t": "I beseech thee,"
+   },
+   {
+    "s": "narrator",
+    "t": "saith he,"
+   },
+   {
+    "s": "abraham",
+    "t": "be not angry, Lord, if I speak yet once more: What if ten shall be found there?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I will not destroy it for the sake of ten."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And the Lord departed, after he had left speaking to Abraham: and Abraham returned to his place."
+   }
+  ]
+ }
+}

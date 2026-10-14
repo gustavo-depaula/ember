@@ -1,0 +1,486 @@
+{
+ "pericopes": [
+  1,
+  12,
+  15,
+  19,
+  25,
+  28
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the Passion and Resurrection; grave, steady."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord in his Passion and risen; calm, sovereign, tender with his own."
+  },
+  "soldiers": {
+   "name": "Soldiers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The cohort and temple servants sent to arrest Jesus, and the soldiers of Pilate; curt, mocking."
+  },
+  "peter": {
+   "name": "Simon Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle; fearful in his denials, humbled and earnest by the lake."
+  },
+  "servant-girl": {
+   "name": "The portress",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "Maid keeping the door of the high priest; a pointed challenge."
+  },
+  "high-priests-servant": {
+   "name": "Servant of the high priest",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "An attendant standing by who strikes Jesus; indignant."
+  },
+  "bystanders": {
+   "name": "Servants at the fire",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Servants and ministers warming themselves in the courtyard; suspicious."
+  },
+  "malchus-kinsman": {
+   "name": "Kinsman of Malchus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Servant of the high priest, relative of the man Peter wounded; accusing."
+  },
+  "pilate": {
+   "name": "Pontius Pilate",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman governor; impatient, wary, cynical."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The accusers gathered before the governor's hall; insistent, shouting."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "When Jesus had said these things, he went forth with his disciples over the brook Cedron, where there was a garden, into which he entered with his disciples."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And Judas also, who betrayed him, knew the place: because Jesus had often resorted thither together with his disciples."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Judas therefore having received a band of soldiers and servants from the chief priests and the Pharisees, cometh thither with lanterns and torches and weapons."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore, knowing all things that should come upon him, went forth and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Whom seek ye?"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "They answered him:"
+   },
+   {
+    "s": "soldiers",
+    "t": "Jesus of Nazareth."
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "I am he."
+   },
+   {
+    "s": "narrator",
+    "t": "And Judas also, who betrayed him, stood with them."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "As soon therefore as he had said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "I am he;",
+    "q": "narrator repeating the words Jesus just spoke; given to his voice"
+   },
+   {
+    "s": "narrator",
+    "t": "they went backward and fell to the ground."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Again therefore he asked them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Whom seek ye?"
+   },
+   {
+    "s": "narrator",
+    "t": "And they said:"
+   },
+   {
+    "s": "soldiers",
+    "t": "Jesus of Nazareth."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "I have told you that I am he. If therefore you seek me, let these go their way,"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "That the word might be fulfilled which he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Of them whom thou hast given me, I have not lost any one.",
+    "q": "evangelist citing an earlier saying of Jesus (17:12); given to his voice rather than narrator"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Then Simon Peter, having a sword, drew it and struck the servant of the high priest and cut off his right ear. And the name of thee servant was Malchus."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore said to Peter:"
+   },
+   {
+    "s": "jesus",
+    "t": "Put up thy sword into the scabbard. The chalice which my father hath given me, shall I not drink it?"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Then the band and the tribune and the servants of the Jews took Jesus and bound him."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And they led him away to Annas first, for he was father-in-law to Caiphas, who was the high priest of that year."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Now Caiphas was he who had given the counsel to the Jews: That it was expedient that one man should die for the people."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Simon Peter followed Jesus: and so did another disciple. And that disciple was known to the high priest and went in with Jesus into the court of the high priest."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But Peter stood at the door without. The other disciple therefore, who was known to the high priest, went out and spoke to the portress and brought in Peter."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "The maid therefore that was portress saith to Peter:"
+   },
+   {
+    "s": "servant-girl",
+    "t": "Art not thou also one of this man's disciple?"
+   },
+   {
+    "s": "narrator",
+    "t": "He saith"
+   },
+   {
+    "s": "peter",
+    "t": "I am not."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Now the servants and ministers stood at a fire of coals, because it was cold, and warmed themselves. And with them was Peter also, standing and warming himself."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "The high priest therefore asked Jesus of his disciples and of his doctrine."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered him:"
+   },
+   {
+    "s": "jesus",
+    "t": "I have spoken openly to the world. I have always taught in the synagogue and in the temple, whither all the Jews resort: and in secret I have spoken nothing."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "Why askest thou me? Ask them who have heard what I have spoken unto them. Behold they know what things I have said."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And when he had said these things, one of the servants standing by gave Jesus a blow, saying:"
+   },
+   {
+    "s": "high-priests-servant",
+    "t": "Answerest thou the high priest so?"
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered him:"
+   },
+   {
+    "s": "jesus",
+    "t": "If I have spoken evil, give testimony of the evil; but if well, why strikest thou me?"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And Annas sent him bound to Caiphas the high priest."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And Simon Peter was standing and warming himself. They said therefore to him:"
+   },
+   {
+    "s": "bystanders",
+    "t": "Art not thou also one of his disciples?"
+   },
+   {
+    "s": "narrator",
+    "t": "He denied it and said:"
+   },
+   {
+    "s": "peter",
+    "t": "I am not."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "One of the servants of the high priest (a kinsman to him whose ear Peter cut off) saith to him:"
+   },
+   {
+    "s": "malchus-kinsman",
+    "t": "Did not I see thee in the garden with him?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Again therefore Peter denied: and immediately the cock crew."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Then they led Jesus from Caiphas to the governor's hall. And it was morning: and they went not into the hall, that they might not be defiled, but that they might eat the pasch."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Pilate therefore went out to them, and said:"
+   },
+   {
+    "s": "pilate",
+    "t": "What accusation bring you against this man?"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "They answered and said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "If he were not a malefactor, we would not have delivered him up to thee."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Pilate therefore said to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "Take him you, and judge him according to your law."
+   },
+   {
+    "s": "narrator",
+    "t": "The Jews therefore said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "It is not lawful for us to put any man to death."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "That the word of Jesus might be fulfilled, which he said, signifying what death he should die."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Pilate therefore went into the hall again and called Jesus and said to him:"
+   },
+   {
+    "s": "pilate",
+    "t": "Art thou the king of the Jews?"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "Sayest thou this thing of thyself, or have others told it thee of me?"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Pilate answered:"
+   },
+   {
+    "s": "pilate",
+    "t": "Am I a Jew? Thy own nation and the chief priests have delivered thee up to me. What hast thou done?"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "My kingdom is not of this world. If my kingdom were of this world, my servants would certainly strive that I should not be delivered to the Jews: but now my kingdom is not from hence."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Pilate therefore said to him:"
+   },
+   {
+    "s": "pilate",
+    "t": "Art thou a king then?"
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou sayest that I am a king. For this was I born, and for this came I into the world; that I should give testimony to the truth. Every one that is of the truth heareth my voice."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Pilate saith to him:"
+   },
+   {
+    "s": "pilate",
+    "t": "What is truth?"
+   },
+   {
+    "s": "narrator",
+    "t": "And when he said this, he went out again to the Jews and saith to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "I find no cause in him."
+   }
+  ],
+  "39": [
+   {
+    "s": "pilate",
+    "t": "But you have a custom that I should release one unto you at the Pasch. Will you, therefore, that I release unto you the king of the Jews?"
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "Then cried they all again, saying:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Not this man, but Barabbas."
+   },
+   {
+    "s": "narrator",
+    "t": "Now Barabbas was a robber."
+   }
+  ]
+ }
+}

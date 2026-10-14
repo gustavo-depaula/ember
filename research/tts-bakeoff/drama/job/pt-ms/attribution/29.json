@@ -1,0 +1,170 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The afflicted just man of Hus, defending his innocence before his friends and God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Job, continuando a sua parábola, acrescentou:"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "Quem me dera ser como fui nos meses antigos, como nos dias em que Deus me guardava,"
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "quando a sua lâmpada luzia sobre a minha cabeça, e quando eu, guiado pela sua luz, caminhava (seguro) entre as trevas!"
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "Como fui nos dias do meu outono, quando Deus protegia a minha casa,"
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "quando o Omnipotente estava comigo, e meus filhos em volta de mim;"
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "quando eu (por assim dizer) lavava os meus pés em leite, e quando a pedra derramava para mim arrolos de azeite;"
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "quando eu saia até à porta da cidade, e me sentava numa cadeira na praça pública!"
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "Viam-me (nessa altura) os jovens e retiravam-se (reverentes); os velhos, levantando-se, punham-se de pé."
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "Os príncipes cessavam de falar, e punham a mão sobre a sua boca."
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "Os grandes continham a sua voz, e a sua língua ficava pegada ao paladar."
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "O ouvido que me escutava, chamava-me bem-aventurado, e os olhos que me viam, davam (bom) testemunho de mim,"
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "porque eu livrava o aflito suplicante, e o órfão, que não tinha quem o socorresse,"
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "A bênção do que estava a perecer vinha sobre mim, e eu consolava o coração da viúva."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "Revesti-me de justiça, e a equidade serviu-me como de vestido e de diadema."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "Fui o olho do cego, e o pé do coxo."
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "Eu era o pai dos pobres, e as causas (dos pobres) de que eu não tinha conhecimento, informava-me delas com toda a diligência."
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "Eu quebrava as maxilas do iníquo, e tirava-lhe a presa dentre os dentes."
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "Eu dizia: Morrerei no meu ninho, e multiplicarei os dias como a areia."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "A minha raiz estende-se ao longo das águas, e o orvalho descansa sobre os meus ramos."
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "A minha glória sempre se renovará, e o meu arco fortificar-se-á na minha mão."
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "Os que me ouviam esperavam a minha opinião, e em silêncio estavam atentos ao meu conselho."
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "Não ousavam juntar nada ás minhas palavras, e as minhas razões caíam sobre eles como orvalho."
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "Esperavam-me como a chuva, e abriam a sua boca como (faz a terra seca) às águas da primavera."
+   }
+  ],
+  "24": [
+   {
+    "s": "job",
+    "t": "Se alguma vez lhes sorria, não o acreditavam, e a luz do meu rosto não caia por terra."
+   }
+  ],
+  "25": [
+   {
+    "s": "job",
+    "t": "Quando ia ter com eles, sentava-me no primeiro lugar, como um rei no meio do seu exército, como um consolador dos aflitos."
+   }
+  ]
+ }
+}

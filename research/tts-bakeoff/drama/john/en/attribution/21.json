@@ -1,0 +1,345 @@
+{
+ "pericopes": [
+  1,
+  15,
+  20,
+  24
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the Passion and Resurrection; grave, steady."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord in his Passion and risen; calm, sovereign, tender with his own."
+  },
+  "peter": {
+   "name": "Simon Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle; fearful in his denials, humbled and earnest by the lake."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostles together; glad witnesses, plain fishermen."
+  },
+  "john": {
+   "name": "John, the beloved disciple",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "The disciple whom Jesus loved; quick, quiet recognition."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "After this, Jesus shewed himself to the disciples at the sea of Tiberias. And he shewed himself after this manner."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "There were together: Simon Peter and Thomas, who is called Didymus, and Nathanael, who was of Cana of Galilee, and the sons of Zebedee and two others of his disciples."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Simon Peter saith to them:"
+   },
+   {
+    "s": "peter",
+    "t": "I go a fishing."
+   },
+   {
+    "s": "narrator",
+    "t": "They say to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "We also come with thee."
+   },
+   {
+    "s": "narrator",
+    "t": "And they went forth and entered into the ship: and that night they caught nothing."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "But when the morning was come, Jesus stood on the shore: yet the disciples knew not that it was Jesus."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Children, have you any meat?"
+   },
+   {
+    "s": "narrator",
+    "t": "They answered him:"
+   },
+   {
+    "s": "disciples",
+    "t": "No."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "He saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Cast the net on the right side of the ship; and you shall find."
+   },
+   {
+    "s": "narrator",
+    "t": "They cast therefore: and now they were not able to draw it, for the multitude of fishes."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "That disciple therefore whom Jesus loved said to Peter:"
+   },
+   {
+    "s": "john",
+    "t": "It is the Lord."
+   },
+   {
+    "s": "narrator",
+    "t": "Simon Peter, when he heard that it was the Lord, girt his coat about him (for he was naked) and cast himself into the sea."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "But the other disciples came in the ship (for they were not far from the land, but as it were two hundred cubits) dragging the net with fishes."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "As soon then as they came to land they saw hot coals lying, and a fish laid thereon, and bread."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Bring hither of the fishes which you have now caught."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Simon Peter went up and drew the net to land, full of great fishes, one hundred and fifty-three. And although there were so many, the net was not broken."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Come and dine."
+   },
+   {
+    "s": "narrator",
+    "t": "And none of them who were at meat, durst ask him: Who art thou? Knowing that it was the Lord.",
+    "q": "\"Who art thou?\" is the question nobody dared ask, so it stays narration"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And Jesus cometh and taketh bread and giveth them: and fish in like manner."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "This is now the third time that Jesus was manifested to his disciples, after he was risen from the dead."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "When therefore they had dined, Jesus saith to Simon Peter:"
+   },
+   {
+    "s": "jesus",
+    "t": "Simon, son of John, lovest thou me more than these?"
+   },
+   {
+    "s": "narrator",
+    "t": "He saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Yea, Lord, thou knowest that I love thee."
+   },
+   {
+    "s": "narrator",
+    "t": "He saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Feed my lambs."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "He saith to him again:"
+   },
+   {
+    "s": "jesus",
+    "t": "Simon, son of John, lovest thou me?"
+   },
+   {
+    "s": "narrator",
+    "t": "He saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "yea, Lord, thou knowest that I love thee."
+   },
+   {
+    "s": "narrator",
+    "t": "He saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Feed my lambs."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "He said to him the third time:"
+   },
+   {
+    "s": "jesus",
+    "t": "Simon, son of John, lovest thou me?"
+   },
+   {
+    "s": "narrator",
+    "t": "Peter was grieved because he had said to him the third time:"
+   },
+   {
+    "s": "jesus",
+    "t": "Lovest thou me?",
+    "q": "narrator repeating the question Jesus just asked; given to his voice"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Lord, thou knowest all things: thou knowest that I love thee."
+   },
+   {
+    "s": "narrator",
+    "t": "He said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Feed my sheep."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to thee, When thou wast younger, thou didst gird thyself and didst walk where thou wouldst. But when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee and lead thee whither thou wouldst not."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And this he said, signifying by what death he should glorify God. And when he had said this, he saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Follow me."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Peter turning about, saw that disciple whom Jesus loved following, who also leaned on his breast at supper and said:"
+   },
+   {
+    "s": "john",
+    "t": "Lord, who is he that shall betray thee?",
+    "q": "flashback to the beloved disciple's question at the supper (13:25), recalled by the narrator; given to his voice"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Him therefore when Peter had seen, he saith to Jesus:"
+   },
+   {
+    "s": "peter",
+    "t": "Lord, and what shall this man do?"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "So I will have him to remain till I come, what is it to thee? Follow thou me."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "This saying therefore went abroad among the brethren, that that disciple should not die. And Jesus did not say to him: He should not die; but:"
+   },
+   {
+    "s": "jesus",
+    "t": "So I will have him to remain till I come, what is it to thee?",
+    "q": "narrator repeating the exact saying of Jesus; given to his voice. \"He should not die\" is what Jesus did not say, so it stays narration"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "This is that disciple who giveth testimony of these things and hath written these things: and we know that his testimony is true."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "But there are also many other things which Jesus did which, if they were written every one, the world itself. I think, would not be able to contain the books that should be written."
+   }
+  ]
+ }
+}

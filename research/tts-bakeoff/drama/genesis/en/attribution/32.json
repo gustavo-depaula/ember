@@ -1,0 +1,317 @@
+{
+ "pericopes": [
+  1,
+  3,
+  13,
+  22
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads all narration, speech introductions and glosses on names."
+  },
+  "angel": {
+   "name": "The man who wrestles with Jacob",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "The mysterious wrestler at the ford of Jaboc; terse, withholding his name, then blessing."
+  },
+  "jacob": {
+   "name": "Jacob",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The patriarch returning from Mesopotamia; aggrieved with Laban, fearful and deferential before Esau, commanding with his household."
+  },
+  "messengers": {
+   "name": "Jacob's messengers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Servants reporting back that Esau approaches; urgent."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Jacob also went on the journey he had begun: and the angels of God met him."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And when he saw them, he said:"
+   },
+   {
+    "s": "jacob",
+    "t": "These are the camps of God,"
+   },
+   {
+    "s": "narrator",
+    "t": "and he called the name of that place Mahanaim, that is, Camps."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And he sent messengers before him to Esau, his brother, to the land of Seir, to the country of Edom:"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And he commanded them, saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "Thus shall ye speak to my lord Esau: Thus saith thy brother Jacob: I have sojourned with Laban, and have been with him until this day:"
+   }
+  ],
+  "5": [
+   {
+    "s": "jacob",
+    "t": "I have oxen, and asses, and sheep, and menservants, and womenservants: and now I send a message to my lord, that I may find favour in thy sight."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the messengers returned to Jacob, saying:"
+   },
+   {
+    "s": "messengers",
+    "t": "We came to Esau, thy brother, and behold he cometh with speed to meet thee with four hundred men."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Then Jacob was greatly afraid; and in his fear divided the people that was with him, and the flocks, and the sheep, and the oxen, and the camels, into two companies,"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "If Esau come to one company, and destroy it, the other company that is left, shall escape.",
+    "q": "Jacob's reasoning, spoken or thought; given to his voice."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And Jacob said:"
+   },
+   {
+    "s": "jacob",
+    "t": "O God of my father Abraham, and God of my father Isaac: O Lord who saidst to me, Return to thy land, and to the place of thy birth, and I will do well for thee."
+   }
+  ],
+  "10": [
+   {
+    "s": "jacob",
+    "t": "I am not worthy of the least of all thy mercies, and of thy truth which thou hast fulfilled to thy servant. With my staff I passed over this Jordan; and now I return with two companies."
+   }
+  ],
+  "11": [
+   {
+    "s": "jacob",
+    "t": "Deliver me from the hand of my brother Esau, for I am greatly afraid of him; lest perhaps he come, and kill the mother with the children."
+   }
+  ],
+  "12": [
+   {
+    "s": "jacob",
+    "t": "Thou didst say, that thou wouldst do well by me, and multiply my seed like the sand of the sea, which cannot be numbered for multitude."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And when he had slept there that night, he set apart, of the things which he had, presents for his brother Esau,"
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Two hundred she-goats, twenty he-goats, two hundred ewes, and twenty rams,"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Thirty milch camels with their colts, forty kine, and twenty bulls, twenty she-asses, and ten of their foals."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And he sent them by the hands of his servants, every drove by itself, and he said to his servants:"
+   },
+   {
+    "s": "jacob",
+    "t": "Go before me, and let there be a space between drove and drove."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And he commanded the first, saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "If thou meet my brother Esau, and he ask thee: Whose art thou? or whither goest thou? or whose are these before thee?"
+   }
+  ],
+  "18": [
+   {
+    "s": "jacob",
+    "t": "Thou shalt answer: Thy servant Jacob's: he hath sent them as a present to my lord Esau; and he cometh after us."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "In like manner he commanded the second, and the third, and all that followed the droves, saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "Speak ye the same words to Esau, when ye find him."
+   }
+  ],
+  "20": [
+   {
+    "s": "jacob",
+    "t": "And ye shall add: Thy servant Jacob himself also followeth after us; for he said: I will appease him with the presents that go before, and afterwards I will see him, perhaps he will be gracious to me."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "So the presents went before him, but himself lodged that night in the camp."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And rising early, he took his two wives and his two handmaids, with his eleven sons, and passed over the ford of Jaboc."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And when all things were brought over that belonged to him,"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "He remained alone; and behold, a man wrestled with him till morning."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And when he saw that he could not overcome him, he touched the sinew of his thigh, and forthwith it shrank."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And he said to him:"
+   },
+   {
+    "s": "angel",
+    "t": "Let me go, for it is break of day."
+   },
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "jacob",
+    "t": "I will not let thee go, except thou bless me."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "angel",
+    "t": "What is thy name?"
+   },
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "jacob",
+    "t": "Jacob."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "angel",
+    "t": "Thy name shall not be called Jacob, but Israel; for if thou hast been strong against God, how much more shalt thou prevail against men?"
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Jacob asked him:"
+   },
+   {
+    "s": "jacob",
+    "t": "Tell me by what name art thou called?"
+   },
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "angel",
+    "t": "Why dost thou ask my name?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he blessed him in the same place."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And Jacob called the name of the place Phanuel, saying:"
+   },
+   {
+    "s": "jacob",
+    "t": "I have seen God face to face, and my soul has been saved."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And immediately the sun rose upon him, after he was past Phanuel; but he halted on his foot."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Therefore the children of Israel, unto this day, eat not the sinew, that shrank in Jacob's thigh: because he touched the sinew of his thigh and it shrank."
+   }
+  ]
+ }
+}

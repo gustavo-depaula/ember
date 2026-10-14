@@ -1,0 +1,424 @@
+{
+ "pericopes": [
+  1,
+  17,
+  25,
+  28,
+  31,
+  38
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the Passion and Resurrection; grave, steady."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord in his Passion and risen; calm, sovereign, tender with his own."
+  },
+  "soldiers": {
+   "name": "Soldiers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The cohort and temple servants sent to arrest Jesus, and the soldiers of Pilate; curt, mocking."
+  },
+  "pilate": {
+   "name": "Pontius Pilate",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman governor; impatient, wary, cynical."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The accusers gathered before the governor's hall; insistent, shouting."
+  },
+  "chief-priests": {
+   "name": "The chief priests",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "Temple leaders pressing for the crucifixion; hard, vehement."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then therefore Pilate took Jesus and scourged him."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the soldiers platting a crown of thorns, put it upon his head: and they put on him a purple garment."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And they came to him and said:"
+   },
+   {
+    "s": "soldiers",
+    "t": "Hail, king of the Jews."
+   },
+   {
+    "s": "narrator",
+    "t": "And they gave him blows."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Pilate therefore went forth again and saith to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "Behold, I bring him forth unto you, that you may know that I find no cause in him."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "(Jesus therefore came forth, bearing the crown of thorns and the purple garment.) And he saith to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "Behold the Man."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "When the chief priests, therefore, and the servants had seen him, they cried out, saying:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "Crucify him, Crucify him."
+   },
+   {
+    "s": "narrator",
+    "t": "Pilate saith to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "Take him you, and crucify him: for I find no cause in him."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "The Jews answered him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "We have a law; and according to the law he ought to die, because he made himself the Son of God."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "When Pilate therefore had heard this saying, he feared the more."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he entered into the hall again; and he said to Jesus:"
+   },
+   {
+    "s": "pilate",
+    "t": "Whence art thou?"
+   },
+   {
+    "s": "narrator",
+    "t": "But Jesus gave him no answer."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Pilate therefore saith to him:"
+   },
+   {
+    "s": "pilate",
+    "t": "Speakest thou not to me? Knowest thou not that I have power to crucify thee, and I have power to release thee?"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou shouldst not have any power against me, unless it were given thee from above. Therefore, he that hath delivered me to thee hath the greater sin."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And from henceforth Pilate sought to release him. But the Jews cried out, saying:"
+   },
+   {
+    "s": "the-jews",
+    "t": "If thou release this man, thou art not Caesar's friend. For whosoever maketh himself a king speaketh against Caesar."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Now when Pilate had heard these words, he brought Jesus forth and sat down in the judgment seat, in the place that is called Lithostrotos, and in Hebrew Gabbatha."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And it was the parasceve of the pasch, about the sixth hour: and he saith to the Jews:"
+   },
+   {
+    "s": "pilate",
+    "t": "Behold your king."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "But they cried out:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Away with him: Away with him: Crucify him."
+   },
+   {
+    "s": "narrator",
+    "t": "Pilate saith to them:"
+   },
+   {
+    "s": "pilate",
+    "t": "shall I crucify your king?"
+   },
+   {
+    "s": "narrator",
+    "t": "The chief priests answered:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "We have no king but Caesar."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Then therefore he delivered him to them to be crucified. And they took Jesus and led him forth."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And bearing his own cross, he went forth to the place which is called Calvary, but in Hebrew Golgotha."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Where they crucified him, and with him two others, one on each side, and Jesus in the midst."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And Pilate wrote a title also: and he put it upon the cross. And the writing was: JESUS OF NAZARETH, THE KING OF THE JEWS."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "This title therefore many of the Jews did read: because the place where Jesus was crucified was nigh to the city. And it was written in Hebrew, in Greek, and in Latin."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Then the chief priests of the Jews said to Pilate:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "Write not: The King of the Jews. But that he said: I am the King of the Jews."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Pilate answered:"
+   },
+   {
+    "s": "pilate",
+    "t": "What I have written, I have written."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "The soldiers therefore, when they had crucified him, took his garments, (and they made four parts, to every soldier a part) and also his coat. Now the coat was without seam, woven from the top throughout."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "They said then one to another:"
+   },
+   {
+    "s": "soldiers",
+    "t": "Let us not cut it but let us cast lots for it, whose it shall be;"
+   },
+   {
+    "s": "narrator",
+    "t": "that the scripture might be fulfilled, saying: They have parted my garments among them, and upon my vesture they have cast lots. And the soldiers indeed did these things."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Now there stood by the cross of Jesus, his mother and his mother's sister, Mary of Cleophas, and Mary Magdalen."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "When Jesus therefore had seen his mother and the disciple standing whom he loved, he saith to his mother:"
+   },
+   {
+    "s": "jesus",
+    "t": "Woman, behold thy son."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "After that, he saith to the disciple:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold thy mother."
+   },
+   {
+    "s": "narrator",
+    "t": "And from that hour, the disciple took her to his own."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Afterwards, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "I thirst."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Now there was a vessel set there, full of vinegar. And they, putting a sponge full of vinegar about hyssop, put it to his mouth."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore, when he had taken the vinegar, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "It is consummated."
+   },
+   {
+    "s": "narrator",
+    "t": "And bowing his head, he gave up the ghost."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Then the Jews (because it was the parasceve), that the bodies might not remain upon the cross on the sabbath day (for that was a great sabbath day), besought Pilate that their legs might be broken: and that they might be taken away."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "The soldiers therefore came: and they broke the legs of the first, and of the other that was crucified with him."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "But after they were come to Jesus, when they saw that he was already dead, they did not break his legs."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "But one of the soldiers with a spear opened his side: and immediately there came out blood and water."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And he that saw it hath given testimony: and his testimony is true. And he knoweth that he saith true: that you also may believe."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "For these things were done that the scripture might be fulfilled: You shall not break a bone of him."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And again another scripture saith: They shall look on him whom they pierced."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And after these things, Joseph of Arimathea (because he was a disciple of Jesus, but secretly for fear of the Jews), besought Pilate that he might take away the body of Jesus. And Pilate gave leave. He came therefore and took away the body of Jesus."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And Nicodemus also came (he who at the first came to Jesus by night), bringing a mixture of myrrh and aloes, about an hundred pound weight."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "They took therefore the body of Jesus and bound it in linen cloths, with the spices, as the manner of the Jews is to bury."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "Now there was in the place where he was crucified a garden: and in the garden a new sepulchre, wherein no man yet had been laid."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "There, therefore, because of the parasceve of the Jews, they laid Jesus: because the sepulchre was nigh at hand."
+   }
+  ]
+ }
+}

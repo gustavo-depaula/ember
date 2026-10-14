@@ -1,0 +1,271 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; sober, urgent storytelling, grave through the Passion."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; authoritative and prophetic in ch. 13, sorrowful yet resolute in the Passion, commanding after the Resurrection."
+  },
+  "a-disciple": {
+   "name": "One of the disciples",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "An unnamed disciple marvelling aloud at the temple buildings."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers; earnest questions, then dismay at the supper."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Quando saía do templo, disse-lhe um dos seus discípulos:"
+   },
+   {
+    "s": "a-disciple",
+    "t": "\"Olha, Mestre, que pedras e que construções!\""
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Jesus disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Vês estes grandes edifícios? Não ficará pedra sobre pedra, que não seja derribada.\""
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Estando sentado sobre o monte das Oliveiras, defronte do templo, interrogaram-no aparte Pedro, Tiago, João e André:"
+   }
+  ],
+  "4": [
+   {
+    "s": "disciples",
+    "t": "\"Diz-nos quando sucederão estas coisas, e que sinal haverá, quando tudo isto estiver para se cumprir?\"",
+    "q": "Peter, James, John and Andrew ask together (13:3); given to the generic disciples group"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Então Jesus começou a dizer-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Vede que ninguém vos engane."
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "Muitos virão em meu nome, dizendo; Sou eu; e enganarão muitos."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "Quando ouvirdes falar de guerras e de rumores de guerras, não temais; porque importa que estas coisas aconteçam; mas não será ainda o fim."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "Levantar-se-á nação contra nação, reino contra reino. Haverá terremotos em diversas partes, e fomes. Estas coisas serão o princípio das dores."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "Tomai, porém, cuidado convosco. Hão-de-vos entregar nos tribunais, sereis açoutados nas sinagogas, sereis, por minha causa, levados diante dos governadores e dos reis, para dar testemunho de mim perante eles."
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "Mas, antes, deve o Evangelho ser pregado a todas as nações."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "Quando, pois, vos levarem para vos entregar, não premediteis no que haveis de dizer, mas dizei o que vos for inspirado nessa hora; porque não sois vós que falais, mas o Espírito Santo."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "Então o irmão entregará à morte o seu irmão, o pai o filho; os filhos levantar-se-ão contra os pais e lhes darão a morte."
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "Sereis odiados de todos por causa do meu nome. Mas o que perseverar até ao fim, esse será salvo."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "Quando, pois, virdes a abominação da desolação posta onde não devia estar - leitor, atende bem! - então os que estiverem na Judeia fujam para os montes,",
+    "q": "\"let him that readeth, understand\" may be an aside of the evangelist; kept with Jesus as part of the discourse"
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "o que estiver sobre o telhado, não desça nem entre para levar coisa alguma de sua casa;"
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "e o que se encontrar no campo, não volte atrás a buscar o seu manto."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "Ai das mulheres grávidas, e das que tiverem crianças de peito naqueles dias!"
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "Rogai, pois, que não suceda isto no inverno."
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "Porque, naqueles dias, haverá tribulações, quais não houve desde o principio do mundo, que Deus criou, até agora, nem mais haverá."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "E se o Senhor não abreviasse aqueles dias, nenhuma pessoa se salvaria; mas ele os abreviou, em atenção aos eleitos que escolheu."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "Então, se alguém vos disser: Eis aqui está o Cristo, ei-lo acolá, não deis crédito."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "Porque se levantarão falsos cristos e falsos profetas, e farão milagres e prodígios para enganarem, se fosse possível, até os mesmos escolhidos."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "Estai, pois, de sobreaviso, eis que eu vos predisse tudo."
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "Naqueles dias, depois daquela tribulação, o sol escurecerá, a lua não dará o seu resplendor,"
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "as estrelas cairão do céu, e serão abaladas as potestades que estão nos céus."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "Então verão o Filho do homem vir sobre as nuvens, com grande poder e glória."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "E enviará logo os seus anjos, e juntará os seus escolhidos dos quatro ventos, desde a extremidade da terra até à extremidade do céu."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Ouvi uma comparação tirada da figueira: Quando os seus ramos estão já tenros e as folhas brotam, sabeis que está perto o estio;"
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "assim também quando virdes acontecer estas coisas, sabei que (a vinda do Filho do homem para o juízo final) está perto, às portas.",
+    "q": "the parenthesis \"(a vinda do Filho do homem para o juízo final)\" is the translator's editorial gloss inside Jesus' speech; kept with Jesus"
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "Na verdade vos digo que não passará esta geração, sem que se cumpram todas estas coisas."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "O céu e a terra passarão, mas as minhas palavras não passarão."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "A respeito, porém, desse dia ou dessa hora, ninguém sabe, nem os anjos do céu, nem o Filho, mas só o Pai."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "Estai de sobreaviso, vigiai, porque não sabeis quando será o momento."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "Será como um homem que, empreendendo uma viagem, deixou a sua casa, deu autoridade, aos seus servos, indicando a cada um a sua tarefa, e ordenou ao porteiro que estivesse vigilante."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "Vigiai, pois, visto que não sabeis quando virá o senhor da casa, se de tarde, se à meia-noite, se ao cantar do galo, se pela manhã,"
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "para que, vindo de repente, vos não encontre dormindo."
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "O que eu, pois, digo a vós, o digo a todos: Vigiai!\""
+   }
+  ]
+ }
+}

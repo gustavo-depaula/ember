@@ -1,0 +1,124 @@
+{
+ "pericopes": [
+  1,
+  7
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "the storyteller of the Book of Judith; grave, measured chronicle"
+  },
+  "joachim": {
+   "name": "Eliachim the high priest",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "high priest of the Lord, exhorting Israel to persevere in fasting and prayer"
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then the children of Israel, who dwelt in the land of Juda, hearing these things, were exceedingly afraid of him."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Dread and horror seized upon their minds, lest he should do the same to Jerusalem and to the temple of the Lord, that he had done to other cities and their temples."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And they sent into all Samaria round about, as far as Jericho, and seized upon all the tops of the mountains:"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And they compassed their towns with walls and gathered together corn for provision for war."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Eliachim the priest wrote to all that were over against Esdrelon, which faceth the great plain near Dothain, and to all by whom there might be a passage of way, that they should take possession of the ascents of the mountains, by which there might be any way to Jerusalem, and should keep watch where the way was narrow between the mountains."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the children of Israel did as the priests of the Lord Eliachim had appointed them."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And all the people cried to the Lord with great earnestness, and they humbled their souls in fastings, and prayers, both they and their wives."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And the priests put on haircloths, and they caused the little children to lie prostrate before the temple of the Lord, and the altar of the Lord they covered with haircloth."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And they cried to the Lord the God of Israel with one accord, that their children might not be made a prey, and their wives carried off, and their cities destroyed, and their holy things profaned, and that they might not be made a reproach to the Gentiles."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Then Eliachim the high priest of the Lord went about all Israel and spoke to them,"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "joachim",
+    "t": "Know ye that the Lord will hear your prayers, if you continue with perseverance in fastings and prayers in the sight of the Lord."
+   }
+  ],
+  "12": [
+   {
+    "s": "joachim",
+    "t": "Remember Moses the servant of the Lord overcame Amalec that trusted in his own strength, and in his power, and in his army, and in his shields, and in his chariots, and in his horsemen, not by fighting with the sword, but by holy prayers:"
+   }
+  ],
+  "13": [
+   {
+    "s": "joachim",
+    "t": "So all the enemies of Israel be, if you persevere in this work which you have begun."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "So they being moved by this exhortation of his, prayed to the Lord, and continued in the sight of the Lord."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "So that even they who offered the holocausts to the Lord, offered the sacrifices to the Lord girded with haircloths, and with ashes upon their head."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And they all begged of God with all their heart, that he would visit his people Israel."
+   }
+  ]
+ }
+}

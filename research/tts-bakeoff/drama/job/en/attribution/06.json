@@ -1,0 +1,200 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the prose frame and introduces each speech."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Upright man of Hus, father of ten grown children, stricken and lamenting."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "But Job answered, and said:"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "O that my sins, whereby I have deserved wrath, and the calamity that I suffer, were weighed in a balance."
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "As the sand of the sea, this would appear heavier: therefore, my words are full of sorrow:"
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "For the arrows of the Lord are in me, the rage whereof drinketh up my spirit, and the terrors of the Lord war against me."
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "Will the wild ass bray when he hath grass? or will the ox low when he standeth before a full manger?"
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "Or can an unsavoury thing be eaten, that is not seasoned with salt? or can a man taste that which, when tasted, bringeth death?"
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "The things which before my soul would not touch, now, through anguish, are my meats."
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "Who will grant that my request may come: and that God may give me what I look for?"
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "And that he that hath begun may destroy me, that he may let loose his hand, and cut me off?"
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "And that this may be my comfort, that afflicting me with sorrow, he spare not, nor I contradict the words of the Holy one."
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "For what is my strength, that I can hold out? or what is my end, that I should keep patience?"
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "My strength is not the strength of stones, nor is my flesh of brass."
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "Behold there is no help for me in myself, and my familiar friends also are departed from me."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "He that taketh away mercy from his friend, forsaketh the fear of the Lord."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "My brethren have passed by me, as the torrent that passeth swiftly in the valleys."
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "They that fear the hoary frost, the snow shall fall upon them."
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "At the time when they shall be scattered they shall perish: and after it groweth hot, they shall be melted out of their place."
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "The paths of their steps are entangled: they shall walk in vain, and shall perish."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "Consider the paths of Thema, the ways of Saba, and wait a little while."
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "They are confounded, because I have hoped: they are come also even unto me, and are covered with shame."
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "Now you are come: and now, seeing my affliction, you are afraid."
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "Did I say: Bring to me, and give me of your substance?"
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "Or deliver me from the hand of the enemy, and rescue me out of the hand of the mighty?"
+   }
+  ],
+  "24": [
+   {
+    "s": "job",
+    "t": "Teach me, and I will hold my peace: and if I have been ignorant of any thing, instruct me."
+   }
+  ],
+  "25": [
+   {
+    "s": "job",
+    "t": "Why have you detracted the words of truth, whereas there is none of you that can reprove me?"
+   }
+  ],
+  "26": [
+   {
+    "s": "job",
+    "t": "You dress up speeches only to rebuke, and you utter words to the wind."
+   }
+  ],
+  "27": [
+   {
+    "s": "job",
+    "t": "You rush in upon the fatherless, and you endeavour to overthrow your friend."
+   }
+  ],
+  "28": [
+   {
+    "s": "job",
+    "t": "However, finish what you have begun: give ear and see whether I lie."
+   }
+  ],
+  "29": [
+   {
+    "s": "job",
+    "t": "Answer, I beseech you, without contention: and speaking that which is just, judge ye."
+   }
+  ],
+  "30": [
+   {
+    "s": "job",
+    "t": "And you shall not find iniquity in my tongue, neither shall folly sound in my mouth."
+   }
+  ]
+ }
+}

@@ -1,0 +1,246 @@
+{
+ "pericopes": [
+  1,
+  6,
+  12,
+  20,
+  24
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Luke: narration, speech introductions and asides."
+  },
+  "angel": {
+   "name": "Angel",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "An angel of the Lord rousing Peter in prison; brisk, urgent commands."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostle freed from Herod's prison; dazed, then certain, then urgent and hushed at the door."
+  },
+  "gathered-believers": {
+   "name": "Believers at Mary's house",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The church gathered at night in prayer at the house of Mary, mother of John Mark; incredulous at Rhode's news."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people of Tyre and Sidon flattering Herod at Caesarea; shouting acclamation."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And at the same time, Herod the king stretched forth his hands, to afflict some of the church."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And he killed James, the brother of John, With the sword."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And seeing that it pleased the Jews, he proceeded to take up Peter also. Now it was in the days of the Azymes."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And when he had apprehended him, he cast him into prison, delivering him to four files of soldiers, to be kept, intending, after the pasch, to bring him forth to the people."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Peter therefore was kept in prison. But prayer was made without ceasing by the church unto God for him."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And when Herod would have brought him forth, the same night, Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And behold an angel of the Lord stood by him and a light shined in the room. And he, striking Peter on the side, raised him up, saying:"
+   },
+   {
+    "s": "angel",
+    "t": "Arise quickly."
+   },
+   {
+    "s": "narrator",
+    "t": "And the chains fell off from his hands."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And the angel said to him:"
+   },
+   {
+    "s": "angel",
+    "t": "Gird thyself and put on thy sandals."
+   },
+   {
+    "s": "narrator",
+    "t": "And he did so. And he said to him:"
+   },
+   {
+    "s": "angel",
+    "t": "Cast thy garment about thee and follow me,"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And going out, he followed him. And he knew not that it was true which was done by the angel: but thought he saw a vision."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And passing through the first and the second ward, they came to the iron gate that leadeth to the city which of itself opened to them. And going out, they passed on through one street. And immediately the angel departed from him."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And Peter coming to himself, said:"
+   },
+   {
+    "s": "peter",
+    "t": "Now I know in very deed that the Lord hath sent his angel and hath delivered me out of the hand of Herod and from all the expectation of the people of the Jews."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And considering, he came to the house of Mary the mother of John, who was surnamed Mark, where many were gathered together and praying."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And when he knocked at the door of the gate, a damsel came to hearken. whose name was Rhode."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And as soon as she knew Peter's voice, she opened not the gate for joy: but running in she told that Peter stood before the gate."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "But they said to her:"
+   },
+   {
+    "s": "gathered-believers",
+    "t": "Thou art mad."
+   },
+   {
+    "s": "narrator",
+    "t": "But she affirmed that it was so. Then said they:"
+   },
+   {
+    "s": "gathered-believers",
+    "t": "It is his angel."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "But Peter continued knocking. And when they had opened, they saw him and were astonished."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "But he, beckoning to them with his hand to hold their peace, told how the Lord had brought him out of prison. And he said:"
+   },
+   {
+    "s": "peter",
+    "t": "Tell these things to James and to the brethren."
+   },
+   {
+    "s": "narrator",
+    "t": "And going out, he went into another place."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Now when day was come, there was no small stir among the soldiers, what was become of Peter."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And when Herod had sought for him and found him not, having examined the keepers, he commanded they should be put to death. And going down from Judea to Caesarea, he abode there."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And he was angry with the Tyrians and the Sidonians. But they with one accord came to him: and, having gained Blastus who was the king's chamberlain, they desired peace, because their countries were nourished by him."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And upon a day appointed, Herod being arrayed in kingly apparel, sat in the judgment seat and made an oration to them."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And the people made acclamation, saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "It is the voice of a god, and not of a man."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And forthwith an angel of the Lord struck him, because he had not given the honour to God: and, being eaten up by worms, he gave up the ghost."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "But the word of the Lord increased and multiplied."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And Barnabas and Saul, returned from Jerusalem, having fulfilled their ministry, taking with them John who was surnamed Mark."
+   }
+  ]
+ }
+}

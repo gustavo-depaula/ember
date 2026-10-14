@@ -1,0 +1,286 @@
+{
+ "pericopes": [
+  1,
+  14,
+  18
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Joseph in Egypt; steady, warm storyteller."
+  },
+  "joseph-the-patriarch": {
+   "name": "Joseph",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jacob's son, about thirty to forty, governor of Egypt; wise and commanding, stern with his brothers while hiding deep emotion, tender when he reveals himself."
+  },
+  "josephs-brothers": {
+   "name": "Joseph's brothers",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The sons of Jacob speaking together; humble and frightened before the lord of Egypt, uneasy in conscience."
+  },
+  "judah": {
+   "name": "Juda",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Fourth son of Jacob, spokesman of the brothers; earnest, firm with his father, humble and pleading before Joseph."
+  },
+  "josephs-steward": {
+   "name": "Joseph's steward",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Egyptian steward of Joseph's house; courteous and reassuring, then stern when he accuses them."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Joseph commanded the steward of his house, saying:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Fill their sacks with corn, as much as they can hold: and put the money of every one in the top of his sack."
+   }
+  ],
+  "2": [
+   {
+    "s": "joseph-the-patriarch",
+    "t": "And in the mouth of the younger's sack put my silver cup, and the price which he gave for the wheat."
+   },
+   {
+    "s": "narrator",
+    "t": "And it was so done."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And when the morning arose, they were sent away with their asses."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And when they were now departed out of the city, and had gone forward a little way: Joseph sending for the steward of his house, said:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Arise, and pursue after the men: and when thou hast overtaken them, say to them: Why have you returned evil for good?"
+   }
+  ],
+  "5": [
+   {
+    "s": "joseph-the-patriarch",
+    "t": "The cup which you have stolen, is that in which my lord drinketh, and in which he is wont to divine: you have done a very evil thing."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "He did as he had commanded him. And having overtaken them, he spoke to them the same words."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And they answered:"
+   },
+   {
+    "s": "josephs-brothers",
+    "t": "Why doth our lord speak so, as though thy servants had committed so heinous a fact?"
+   }
+  ],
+  "8": [
+   {
+    "s": "josephs-brothers",
+    "t": "The money, that we found in the top of our sacks, we brought back to thee from the land of Chanaan: how then should it be that we should steal out of thy lord's house, gold or silver?"
+   }
+  ],
+  "9": [
+   {
+    "s": "josephs-brothers",
+    "t": "With whomsoever of thy servants shall be found that which thou seekest, let him die, and we will be the bondmen of my lord."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "josephs-steward",
+    "t": "Let it be according to your sentence: with whomsoever it shall be found, let him be my servant, and you shall be blameless."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Then they speedily took down their sacks to the ground, and every man opened his sack."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Which when he had searched, beginning at the eldest, and ending at the youngest, he found the cup in Benjamin's sack."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Then they rent their garments, and loading their asses again, returned into the town."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And Juda at the head of his brethren went in to Joseph (for he was not yet gone out of the place) and they all together fell down before him on the ground."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "Why would you do so? know you not that there is no one like me in the science of divining."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And Juda said to him:"
+   },
+   {
+    "s": "judah",
+    "t": "What shall we answer my lord? or what shall we say, or be able justly to allege? God hath found out the iniquity of thy servants: behold, we are all bondmen to my lord, both we, and he with whom the cup was found."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Joseph answered:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "God forbid that I should do so: he that stole the cup, he shall be my bondman: and go you away free to your father."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Then Juda coming nearer, said boldly:"
+   },
+   {
+    "s": "judah",
+    "t": "I beseech thee, my lord, let thy servant speak a word in thy ears, and be not angry with thy servant: for after Pharao thou art."
+   }
+  ],
+  "19": [
+   {
+    "s": "judah",
+    "t": "My lord. Thou didst ask thy servants the first time: Have you a father or a brother."
+   }
+  ],
+  "20": [
+   {
+    "s": "judah",
+    "t": "And we answered thee, my lord: We have a father an old man, and a young boy, that was born in his old age; whose brother by the mother is dead; and he alone is left of his mother, and his father loveth him tenderly."
+   }
+  ],
+  "21": [
+   {
+    "s": "judah",
+    "t": "And thou saidst to thy servants: Bring him hither to me, and I will set my eyes on him."
+   }
+  ],
+  "22": [
+   {
+    "s": "judah",
+    "t": "We suggested to my lord: The boy cannot leave his father: for if he leave him, he will die."
+   }
+  ],
+  "23": [
+   {
+    "s": "judah",
+    "t": "And thou saidst to thy servants: Except your youngest brother come with you, you shall see my face no more."
+   }
+  ],
+  "24": [
+   {
+    "s": "judah",
+    "t": "Therefore when we were gone up to thy servant our father, we told him all that my lord had said."
+   }
+  ],
+  "25": [
+   {
+    "s": "judah",
+    "t": "And our father said: Go again, and buy us a little wheat."
+   }
+  ],
+  "26": [
+   {
+    "s": "judah",
+    "t": "And we said to him: We cannot go: if our youngest brother go down with us, we will set out together: otherwise, without him we dare not see the man's face."
+   }
+  ],
+  "27": [
+   {
+    "s": "judah",
+    "t": "Whereunto he answered: You know that my wife bore me two."
+   }
+  ],
+  "28": [
+   {
+    "s": "judah",
+    "t": "One went out, and you said: A beast devoured him; and hitherto he appeareth not."
+   }
+  ],
+  "29": [
+   {
+    "s": "judah",
+    "t": "If you take this also, and any thing befall him in the way, you will bring down my grey hairs with sorrow unto hell."
+   }
+  ],
+  "30": [
+   {
+    "s": "judah",
+    "t": "Therefore, if I shall go to thy servant, our father, and the boy be wanting, (whereas his life dependeth upon the life of him,)"
+   }
+  ],
+  "31": [
+   {
+    "s": "judah",
+    "t": "And he shall see that he is not with us, he will die, and thy servants shall bring down his grey hairs with sorrow unto hell."
+   }
+  ],
+  "32": [
+   {
+    "s": "judah",
+    "t": "Let me be thy proper servant, who took him into my trust, and promised, saying: If I bring him not again, I will be guilty of sin against my father for ever."
+   }
+  ],
+  "33": [
+   {
+    "s": "judah",
+    "t": "Therefore I, thy servant, will stay instead of the boy in the service of my lord, and let the boy go up with his brethren."
+   }
+  ],
+  "34": [
+   {
+    "s": "judah",
+    "t": "For I cannot return to my father without the boy, lest I be a witness of the calamity that will oppress my father."
+   }
+  ]
+ }
+}

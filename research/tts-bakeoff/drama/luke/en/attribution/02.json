@@ -1,0 +1,396 @@
+{
+ "pericopes": [
+  1,
+  8,
+  21,
+  22,
+  39,
+  41
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke: measured, warm, orderly storyteller."
+  },
+  "mary": {
+   "name": "Mary",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "The mother of Jesus; humble, recollected, jubilant in the Magnificat."
+  },
+  "angel": {
+   "name": "Angel of the Lord",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "The angel who announces the birth to the shepherds; radiant and reassuring."
+  },
+  "angels": {
+   "name": "The heavenly army",
+   "kind": "angel",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "A multitude of angels praising God together; a jubilant chorus."
+  },
+  "shepherds": {
+   "name": "Shepherds",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Shepherds near Bethlehem keeping the night watch; eager and simple."
+  },
+  "simeon": {
+   "name": "Simeon",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Just and devout old man in the temple; peaceful, prophetic, grave when he turns to Mary."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; speaks with quiet authority, firm against the tempter and in the synagogue."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass that in those days there went out a decree from Caesar Augustus that the whole world should be enrolled."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "This enrolling was first made by Cyrinus, the governor of Syria."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And all went to be enrolled, every one into his own city."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem: because he was of the house and family of David."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "To be enrolled with Mary his espoused wife, who was with child."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass that when they were there, her days were accomplished that she should be delivered."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And she brought forth her first born son and wrapped him up in swaddling clothes and laid him in a manger: because there was no room for them in the inn."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And there were in the same country shepherds watching and keeping the night watches over their flock."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And behold an angel of the Lord stood by them and the brightness of God shone round about them: and they feared with a great fear."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And the angel said to them:"
+   },
+   {
+    "s": "angel",
+    "t": "Fear not; for, behold, I bring you good tidings of great joy that shall be to all the people:"
+   }
+  ],
+  "11": [
+   {
+    "s": "angel",
+    "t": "For, this day is born to you a Saviour, who is Christ the Lord, in the city of David."
+   }
+  ],
+  "12": [
+   {
+    "s": "angel",
+    "t": "And this shall be a sign unto you. You shall find the infant wrapped in swaddling clothes and laid in a manger."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And suddenly there was with the angel a multitude of the heavenly army, praising God and saying:"
+   }
+  ],
+  "14": [
+   {
+    "s": "angels",
+    "t": "Glory to God in the highest: and on earth peace to men of good will."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, after the angels departed from them into heaven, the shepherds said one to another:"
+   },
+   {
+    "s": "shepherds",
+    "t": "Let us go over to Bethlehem and let us see this word that is come to pass, which the Lord hath shewed to us."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And they came with haste: and they found Mary and Joseph, and the infant lying in the manger."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And seeing, they understood of the word that had been spoken to them concerning this child."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And all that heard wondered: and at those things that were told them by the shepherds."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "But Mary kept all these words, pondering them in her heart."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And the shepherds returned, glorifying and praising God for all the things they had heard and seen, as it was told unto them."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And after eight days were accomplished, that the child should be circumcised, his name was called JESUS, which was called by the angel before he was conceived in the womb."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And after the days of her purification, according to the law of Moses, were accomplished, they carried him to Jerusalem, to present him to the Lord:"
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "As it is written in the law of the Lord: Every male opening the womb shall be called holy to the Lord:"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And to offer a sacrifice, according as it is written in the law of the Lord, a pair of turtledoves or two young pigeons:"
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And behold there was a man in Jerusalem named Simeon: and this man was just and devout, waiting for the consolation of Israel. And the Holy Ghost was in him."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And he had received an answer from the Holy Ghost, that he should not see death before he had seen the Christ of the Lord."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And he came by the Spirit into the temple. And when his parents brought in the child Jesus, to do for him according to the custom of the law,"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "He also took him into his arms and blessed God and said"
+   }
+  ],
+  "29": [
+   {
+    "s": "simeon",
+    "t": "Now thou dost dismiss thy servant, O Lord, according to thy word in peace:"
+   }
+  ],
+  "30": [
+   {
+    "s": "simeon",
+    "t": "Because my eyes have seen thy salvation,"
+   }
+  ],
+  "31": [
+   {
+    "s": "simeon",
+    "t": "Which thou hast prepared before the face of all peoples:"
+   }
+  ],
+  "32": [
+   {
+    "s": "simeon",
+    "t": "A light to the revelation of the Gentiles and the glory of thy people Israel."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And his father and mother were wondering at those things which were spoken concerning him."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And Simeon blessed them and said to Mary his mother:"
+   },
+   {
+    "s": "simeon",
+    "t": "Behold this child is set for the fall and for the resurrection of many in Israel and for a sign which shall be contradicted."
+   }
+  ],
+  "35": [
+   {
+    "s": "simeon",
+    "t": "And thy own soul a sword shall pierce, that, out of many hearts thoughts may be revealed."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser. She was far advanced in years and had lived with her husband seven years from her virginity."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And she was a widow until fourscore and four years: who departed not from the temple, by fastings and prayers serving night and day."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Now she, at the same hour, coming in, confessed to the Lord: and spoke of him to all that looked for the redemption of Israel."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And after they had performed all things according to the law of the Lord, they returned into Galilee, to their city Nazareth."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And the child grew and waxed strong, full of wisdom: and the grace of God was in him."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And his parents went every year to Jerusalem, at the solemn day of the pasch."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "And when he was twelve years old, they going up into Jerusalem, according to the custom of the feast,"
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "And having fulfilled the days, when they returned, the child Jesus remained in Jerusalem. And his parents knew it not."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "And thinking that he was in the company, they came a day's journey and sought him among their kinsfolks and acquaintance."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "And not finding him, they returned into Jerusalem, seeking him."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, that, after three days, they found him in the temple, sitting in the midst of the doctors, hearing them and asking them questions."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "And all that heard him were astonished at his wisdom and his answers."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "And seeing him, they wondered. And his mother said to him:"
+   },
+   {
+    "s": "mary",
+    "t": "Son, why hast thou done so to us? Behold thy father and I have sought thee sorrowing."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "How is it that you sought me? Did you not know that I must be about my father's business?",
+    "q": "Jesus is twelve here; kept on the one jesus id (cast age adult) so he keeps one voice"
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "And they understood not the word that he spoke unto them."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And he went down with them and came to Nazareth and was subject to them. And his mother kept all these words in her heart."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "And Jesus advanced in wisdom and age and grace with God and men."
+   }
+  ]
+ }
+}

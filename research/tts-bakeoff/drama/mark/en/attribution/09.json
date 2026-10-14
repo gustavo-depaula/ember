@@ -1,0 +1,446 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; brisk, vivid storytelling through the Transfiguration and the healing of the possessed boy."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; exasperated at unbelief, commanding with the spirit, then patient and grave teaching the twelve about humility and scandal."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle on the mountain; awestruck and frightened, blurting out without knowing what he says."
+  },
+  "god-the-father": {
+   "name": "God the Father",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "The voice from the cloud at the Transfiguration; majestic and solemn."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "In v10 Peter, James and John coming down the mountain, puzzled; in v27 the nine who failed to cast out the spirit, asking privately and chastened."
+  },
+  "father-of-possessed-boy": {
+   "name": "Father of the possessed boy",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A man from the multitude whose son has a dumb spirit; desperate, pleading, then crying out with tears."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The multitude around the boy; hushed and shocked, taking him for dead."
+  },
+  "john": {
+   "name": "John",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Apostle, son of Zebedee; reporting earnestly, expecting approval."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And after six days Jesus taketh with him Peter, and James, and John: and leadeth them up to a high mountain apart by themselves, and was transfigured before them."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And his garments became shining, and exceeding white as snow, so as no fuller on earth can make white."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And there appeared to them Elias with Moses: and they were talking with Jesus."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And Peter answering, said to Jesus:"
+   },
+   {
+    "s": "peter",
+    "t": "Rabbi, it is good for us to be here: and let us make three tabernacles, one for thee, and one for Moses, and one for Elias."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "For he knew not what he said: for they were struck with fear."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And there was a cloud that overshadowed them, and a voice came out of the cloud, saying:"
+   },
+   {
+    "s": "god-the-father",
+    "t": "This is my most beloved Son: hear ye him."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And immediately looking about, they saw no man any more, but Jesus only with them."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And as they came down from the mountain, he charged them not to tell any man what things they had seen, till the Son of man shall be risen again from the dead."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And they kept the word to themselves: questioning together what that should mean:"
+   },
+   {
+    "s": "narrator",
+    "t": "When he shall be risen from the dead.",
+    "q": "Not a speech act: the phrase of Jesus the three disciples are puzzling over, quoted by the narrator; could be voiced by disciples instead"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And they asked him, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "Why then do the Pharisees and Scribes say, that Elias must come first?",
+    "q": "Speakers are only Peter, James and John (coming down the mountain), labelled with the general disciples group"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "He answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Elias, when he shall come first, shall restore all things: and how it is written of the Son of man, that he must suffer many things, and be despised."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "But I say to you, that Elias also is come, (and they have done to him whatsoever they would) as it is written of him."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And coming to his disciples, he saw a great multitude about them, and the Scribes questioning with them."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And presently all the people seeing Jesus, were astonished and struck with fear: and running to him, they saluted him."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And he asked them,"
+   },
+   {
+    "s": "jesus",
+    "t": "What do you question about among you?"
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And one of the multitude, answering, said:"
+   },
+   {
+    "s": "father-of-possessed-boy",
+    "t": "Master, I have brought to thee my son who hath a dumb spirit."
+   }
+  ],
+  "17": [
+   {
+    "s": "father-of-possessed-boy",
+    "t": "Who wheresoever he taketh him, dasheth him, and he foameth, and gnasheth with his teeth, and pineth away; and I spoke to thy disciples to cast him out, and they could not."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "He answering them, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "O incredulous generation, how long shall I be with you? how long shall I suffer you? bring him to me."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And they brought him. And when he had seen him, immediately the spirit troubled him: and being thrown down upon the ground, he rolled about, foaming."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And he asked his father:"
+   },
+   {
+    "s": "jesus",
+    "t": "How long time is it since this hath happened unto him?"
+   },
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "father-of-possessed-boy",
+    "t": "From his infancy:"
+   }
+  ],
+  "21": [
+   {
+    "s": "father-of-possessed-boy",
+    "t": "And oftentimes hath he cast him into the fire, and into waters, to destroy him. But if thou canst do any thing, have compassion on us, and help us."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "If thou canst believe, all things are possible to him that believeth."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And immediately the father of the boy crying out, with tears, said:"
+   },
+   {
+    "s": "father-of-possessed-boy",
+    "t": "I do believe, Lord; help my unbelief."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And when Jesus saw the multitude running together, he threatened the unclean spirit, saying to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou deaf and dumb spirit, I command thee, go out of him; and enter no more into him."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And crying out, and greatly tearing him, he went out of him, and he became as one dead, insomuch that many said,"
+   },
+   {
+    "s": "crowd",
+    "t": "He is dead."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "But Jesus taking him by the hand, lifted him up, and he arose."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And when he was come into the house, his disciples asked him privately;"
+   },
+   {
+    "s": "disciples",
+    "t": "Why could not we cast him out?"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "This kind can go out by nothing, but by prayer and fasting."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And departing from thence, they passed through Galilee, and he would not that any man should know it."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And he taught his disciple, and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "The Son of man shall be delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise again the third day."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "But they understood not the word: and they were afraid to ask him."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And they came to Capharnaum. And when they were in the house, he asked them:"
+   },
+   {
+    "s": "jesus",
+    "t": "What did you treat of in the way?"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "But they held their peace: for in the way they had disputed among themselves, which of them should be the greatest."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And sitting down, he called the twelve, and saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "If any man desire to be first, he shall be the last of all, and the servant of all."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And taking a child, he set him in the midst of them: and when he had embraced, he saith to them:"
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "Whosoever shall receive one such child as this in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "John answered him, saying:"
+   },
+   {
+    "s": "john",
+    "t": "Master, we saw one casting out devils in thy name, who followeth not us, and we forbade him."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "But Jesus said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Do not forbid him: For there is no man that doth a miracle in my name, that can soon speak ill of me."
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "For he that is not against you, is for you."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "For whosoever shall give you to drink a cup of water in my name, because you belong to Christ, Amen, I say to you, he shall not lose his reward."
+   }
+  ],
+  "41": [
+   {
+    "s": "jesus",
+    "t": "And whosoever shall scandalize one of these little ones that believe in me, it were better for him that a mill-stone were hanged about his neck, and he were cast into the sea."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "And if thy hand scandalize thee, cut it off: it is better for thee to enter into life maimed, than, having two hands, to go into hell, into unquenchable fire:"
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "Where their worm dieth not, and the fire is not extinguished."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "And if thy foot scandalize thee, cut it off; it is better for thee to enter lame into life everlasting, than having two feet, to be cast into the hell of unquenchable fire:"
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "Where their worm dieth not, and the fire is not extinguished."
+   }
+  ],
+  "46": [
+   {
+    "s": "jesus",
+    "t": "And if thy eye scandalize thee, pluck it out: it is better for thee, with one eye, to enter into the kingdom of God; than, having two eyes, to be cast into the hell of fire:"
+   }
+  ],
+  "47": [
+   {
+    "s": "jesus",
+    "t": "Where their worm dieth not, and the fire is not extinguished."
+   }
+  ],
+  "48": [
+   {
+    "s": "jesus",
+    "t": "For every one shall be salted with fire: and every victim shall be salted with salt."
+   }
+  ],
+  "49": [
+   {
+    "s": "jesus",
+    "t": "Salt is good: but if the salt became unsavoury; wherewith will you season it? Have salt in you, and have peace among you."
+   }
+  ]
+ }
+}

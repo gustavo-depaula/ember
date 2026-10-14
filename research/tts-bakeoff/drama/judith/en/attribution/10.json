@@ -1,0 +1,195 @@
+{
+ "pericopes": [
+  1,
+  11
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Judith in a plain, reverent manner."
+  },
+  "judith": {
+   "name": "Judith",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "A devout and beautiful widow of Bethulia: fervent in prayer, composed and shrewd before the enemy, exultant in victory."
+  },
+  "ancients-of-bethulia": {
+   "name": "Ancients of Bethulia",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The elders of the city, with Ozias at the gate, blessing Judith as she goes out."
+  },
+  "people-of-bethulia": {
+   "name": "People of Bethulia",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The townspeople speaking together, in acclamation and assent."
+  },
+  "assyrians": {
+   "name": "Assyrians",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Holofernes' watchmen, officers and servants speaking together: rough soldiers, struck by Judith's beauty, scornful of the Hebrews."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, when she had ceased to cry to the Lord, that she rose from the place wherein she lay prostrate before the Lord."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And she called her maid, and going down into her house she took off her haircloth, and put away the garments of her widowhood,"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And she washed her body, and anointed herself with the best ointment, and plaited the hair of her head, and put a bonnet upon her head, and clothed herself with the garments of her gladness, and put sandals on her feet, and took her bracelets, and lilies, and earlets, and rings, and adorned herself with all her ornaments."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And the Lord also gave her more beauty: because all this dressing up did not proceed from sensuality, but from virtue: and therefore the Lord increased this her beauty, so that she appeared to all men's eyes incomparably lovely."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And she gave to her maid a bottle of wine to carry, and a vessel of oil, and parched corn, and dry figs, and bread and cheese, and went out."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And when they came to the gate of the city, they found Ozias, and the ancients of the city waiting."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And when they saw her they were astonished, and admired her beauty exceedingly."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "But they asked her no question, only they let her pass, saying:"
+   },
+   {
+    "s": "ancients-of-bethulia",
+    "t": "The God of our fathers give thee grace, and may he strengthen all the counsel of thy heart with his power, that Jerusalem may glory in thee, and thy name may be in the number of the holy and just.",
+    "q": "Ozias and the ancients speak together; given to the ancients as a group"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And they that were there said, all with one voice:"
+   },
+   {
+    "s": "people-of-bethulia",
+    "t": "So be it, so be it.",
+    "q": "\"they that were there\" at the gate: taken as the bystanders of the city, not only the ancients"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "But Judith praying to the Lord, passed through the gates, she and her maid."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, when she went down the hill, about break of day, that the watchmen of the Assyrians met her, and stopped her, saying:"
+   },
+   {
+    "s": "assyrians",
+    "t": "Whence comest thou or whither goest thou?"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And she answered:"
+   },
+   {
+    "s": "judith",
+    "t": "I am a daughter of the Hebrews, and I am fled from them, because I knew they would be made a prey to you, because they despised you, and would not of their own accord yield themselves, that they might find mercy in your sight."
+   }
+  ],
+  "13": [
+   {
+    "s": "judith",
+    "t": "For this reason I thought with myself, saying: I will go to the presence of the prince Holofernes, that I may tell him their secrets, and shew him by what way he may take them, without the loss of one man of his army."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And when the men had heard her words, they beheld her face, and their eyes were amazed, for they wondered exceedingly at her beauty."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And they said to her:"
+   },
+   {
+    "s": "assyrians",
+    "t": "Thou hast saved thy life by taking this resolution, to come down to our lord."
+   }
+  ],
+  "16": [
+   {
+    "s": "assyrians",
+    "t": "And be assured of this, that when thou shalt stand before him, he will treat thee well, and thou wilt be most acceptable to his heart."
+   },
+   {
+    "s": "narrator",
+    "t": "And they brought her to the tent of Holofernes, telling him of her."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And when she was come into his presence, forthwith Holofernes was caught by his eyes."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And his officers said to him:"
+   },
+   {
+    "s": "assyrians",
+    "t": "Who can despise the people of the Hebrews, who have such beautiful women, that we should not think it worth our while for their sakes to fight against them?"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And Judith seeing Holofernes sitting under a canopy, which was woven of purple and gold, with emeralds and precious stones:"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "After she had looked on his face, bowed down to him, prostrating herself to the ground. And the servants of Holofernes lifted her up, by the command of their master."
+   }
+  ]
+ }
+}

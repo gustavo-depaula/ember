@@ -1,0 +1,237 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story and introduces each speech."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God, answering Job out of the whirlwind and judging the friends."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The just man of Hus, afflicted and now humbled before the Lord."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "the-lord",
+    "t": "Porventura conheces o tempo em que as cabras montesas dão à luz nos rechedos, ou observaste o parto das corsas?"
+   }
+  ],
+  "2": [
+   {
+    "s": "the-lord",
+    "t": "Contaste os meses da sua gravidez, e sabes o tempo do seu parto?"
+   }
+  ],
+  "3": [
+   {
+    "s": "the-lord",
+    "t": "Encurvam-se para darem à luz a sua cria, e (assim) se livram das suas dores."
+   }
+  ],
+  "4": [
+   {
+    "s": "the-lord",
+    "t": "Tornam-se vigorosos os seus filhos, crescem nos campos, saem, e não voltam para junto delas."
+   }
+  ],
+  "5": [
+   {
+    "s": "the-lord",
+    "t": "Quem pôs o asno montês em liberdade, e quem soltou as suas prisões?"
+   }
+  ],
+  "6": [
+   {
+    "s": "the-lord",
+    "t": "Dei-lhe uma casa no deserto, lugar onde albergar-se em terra estéril."
+   }
+  ],
+  "7": [
+   {
+    "s": "the-lord",
+    "t": "Ele despreza o tumulto da cidade, e não ouve os gritos de um patrão duro."
+   }
+  ],
+  "8": [
+   {
+    "s": "the-lord",
+    "t": "Vagueia pelos montes onde pasta, anda buscando tudo o que está verde."
+   }
+  ],
+  "9": [
+   {
+    "s": "the-lord",
+    "t": "Porventura quererá o búfalo servir-te, ou ficará ele no teu estábulo?"
+   }
+  ],
+  "10": [
+   {
+    "s": "the-lord",
+    "t": "Acaso prendê-lo-ás ao teu arado para lavrar, ou será ele que atrás de ti quebra os torrões dos teus vales?"
+   }
+  ],
+  "11": [
+   {
+    "s": "the-lord",
+    "t": "Porventura terás confiança na sua grande força, e lhe deixarás o cuidado da tua lavoura?"
+   }
+  ],
+  "12": [
+   {
+    "s": "the-lord",
+    "t": "Porventura fiarás dele que te torne o que semeaste, e que te encha a tua eira?"
+   }
+  ],
+  "13": [
+   {
+    "s": "the-lord",
+    "t": "A pena da avestruz é semelhante às penas da cegonha e do falcão."
+   }
+  ],
+  "14": [
+   {
+    "s": "the-lord",
+    "t": "Ele abandona por terra os seus ovos, deixa-os aquecer sobre a areia,"
+   }
+  ],
+  "15": [
+   {
+    "s": "the-lord",
+    "t": "não pensando que algum pé lhos pisará, ou que algum animal do campo lhos quebrará."
+   }
+  ],
+  "16": [
+   {
+    "s": "the-lord",
+    "t": "É cruel com seus filhos, como se não foram seus, e não se inquieta com que seja (possa ser) vã a sua fadiga."
+   }
+  ],
+  "17": [
+   {
+    "s": "the-lord",
+    "t": "Deus negou-lhe a sabedoria, não lhe deu inteligência."
+   }
+  ],
+  "18": [
+   {
+    "s": "the-lord",
+    "t": "Mas, quando chega a ocasião, levanta ao alto o voo, e faz zombaria do cavalo e do cavaleiro."
+   }
+  ],
+  "19": [
+   {
+    "s": "the-lord",
+    "t": "És tu que dás fortaleza ao cavalo, que circundas o seu pescoço de crina flutuante?"
+   }
+  ],
+  "20": [
+   {
+    "s": "the-lord",
+    "t": "E’s tu que o ensinas a saltar como o gafanhoto? o fogoso respirar das suas ventas faz terror,"
+   }
+  ],
+  "21": [
+   {
+    "s": "the-lord",
+    "t": "Escava a terra com o seu casco, salta com brio, corre ao encontro dos (inimigos) armados."
+   }
+  ],
+  "22": [
+   {
+    "s": "the-lord",
+    "t": "Ri-se do medo, nada o aterra, não retrocede diante da espada."
+   }
+  ],
+  "23": [
+   {
+    "s": "the-lord",
+    "t": "Sobre ele fará ruido á aljava, cintilará a lança e o escudo;"
+   }
+  ],
+  "24": [
+   {
+    "s": "the-lord",
+    "t": "espumando e relinchando (como que) devora a terra, e não faz caso do som da trombeta."
+   }
+  ],
+  "25": [
+   {
+    "s": "the-lord",
+    "t": "Ouvindo o clarim, (como que) diz: Avancemos! Fareja de longe a batalha, a exortação dos capitães e o alarido do exército."
+   }
+  ],
+  "26": [
+   {
+    "s": "the-lord",
+    "t": "Acaso o açor levanta o voo pela tua sabedoria, estendendo as suas asas para o meio-dia?"
+   }
+  ],
+  "27": [
+   {
+    "s": "the-lord",
+    "t": "Porventura ao teu mandado se remontará a águia, e porá o seu ninho em lugares altos?"
+   }
+  ],
+  "28": [
+   {
+    "s": "the-lord",
+    "t": "Mora nos rochedos, aí passa a noite, nos penhasco escarpados, no alto das rochas inacessíveis."
+   }
+  ],
+  "29": [
+   {
+    "s": "the-lord",
+    "t": "Dali espreita a sua presa; os seus olhos descobrem muito ao longe."
+   }
+  ],
+  "30": [
+   {
+    "s": "the-lord",
+    "t": "Os seus filhinhos chupam o sangue, e ela, onde houver carne morta, logo se encontra."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "O Senhor, dirigindo-se a Job, acrescentou:"
+   }
+  ],
+  "32": [
+   {
+    "s": "the-lord",
+    "t": "Porventura o censor do Omnipotente quer disputar com ele? Que aquele, que censura a Deus, responda."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Job, porém, respondendo ao Senhor, disse:"
+   }
+  ],
+  "34": [
+   {
+    "s": "job",
+    "t": "Eu, desprezível como sou, que coisa posso responder? Ponho a minha mão sobre a minha boca."
+   }
+  ],
+  "35": [
+   {
+    "s": "job",
+    "t": "Uma coisa disse - oxalá não tivesse dito! - e uma outra também, às quais nada mais acrescentarei."
+   }
+  ]
+ }
+}

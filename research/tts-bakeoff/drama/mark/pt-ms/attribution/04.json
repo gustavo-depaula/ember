@@ -1,0 +1,323 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Mark; brisk, plain storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching, commanding and healing."
+  },
+  "disciples": {
+   "name": "Disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers speaking together (Simon and his companions; the men in the boat); eager or frightened."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Começou de novo a ensinar à beira do mar; e juntou-se à roda dele tão grande multidão que teve de subir para uma barca e sentar-se dentro dela no mar, enquanto que toda a multidão estava em terra na praia."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "E ensinava-lhes muitas coisas por meio de parábolas. Dizia-lhes segundo o seu meio de ensinar:"
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "\"Ouvi: Eis saiu o semeador a semear."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "Enquanto semeava, uma parte da semente caiu ao longo do caminho, e vieram as aves do céu, e comeram-na."
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "Outra parte caiu sobre pedregulho, onde tinha pouca terra; e nasceu logo, porque não havia profundidade de terra;"
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "mas, quando saiu o sol, foi crestada pelo calor, e, como não tinha raiz, secou."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "Outra parte caiu entre espinhos; e cresceram os espinhos, e a sufocaram, e não deu fruto."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "Outra caiu em boa terra; e deu fruto que vingou, e cresceu, e um grão deu trinta, outro sessenta, e outro cem.\""
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "E acrescentava;"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Quem tem ouvidos para ouvir, ouça.\""
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Quando se encontrou só, os doze, que estavam com ele, interrogaram-no sobre a parábola."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Disse-lhes;"
+   },
+   {
+    "s": "jesus",
+    "t": "\"A vós é concedido conhecer o mistério do reino de Deus; porém, aos que são de fora, tudo se lhes propõe em parábolas,"
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "para que, olhando, não vejam, ouvindo, não entendam, de sorte que não se convertam, e lhes sejam perdoados os pecados.\""
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "E acrescentou:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Não entendeis esta parábola? Então como entendereis todas as outras?"
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "O que o semeador semeia é a palavra."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "Uns encontram-se ao longo do caminho onde ela é semeada; logo que a ouviram, vem Satanás tirar a palavra semeada neles."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "Outros recebem a semente em terreno pedregoso; ouvem a palavra, logo a recebem com gosto;"
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "mas não têm raízes em si, são inconstantes; depois, levantando-se a tribulação ou a perseguição por causa da palavra, sucumbem imediatamente."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "Outros recebem a semente entre espinhos; ouvem a palavra,"
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "mas as solicitudes do século, a sedução das riquezas, e os outros afetos desordenados, entrando, afogam a palavra, e ela fica infrutuosa."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "Outros recebem a semente em boa terra; ouvem a palavra, recebem-na, e dão fruto, um a trinta, outro a sessenta, e outro a cem por um."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Dizia-lhes mais:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Porventura traz-se a lucerna para a meter debaixo do alqueire ou debaixo do leito? Não é para ser posta sobre o candelabro?"
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "Porque não há coisa alguma escondida que não venha a ser manifesta, nem que seja feita para estar oculta, mas para vir a descoberto."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "Se alguém tem ouvidos para ouvir, ouça."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Dizia-lhes mais:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Atendei ao que ouvis. Com a medida com que medirdes, vos medirão a vós, e ainda se vos acrescentará."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "Porque ao que tem, dar-se-lhe-á ainda mais e ao que não tem, ainda o que tem, lhe será tirado.\""
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Dizia também:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"O reino de Deus é como um homem que lança a semente à terra."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "Dorme e se levanta, noite e dia, e a semente brota e cresce sem ele saber como."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Porque a terra por si mesma produz, primeiramente, a erva, depois a espiga, e por último o trigo grado na espiga."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "E, quando o fruto está maduro, mete logo a fouce, porque está chegado o tempo da ceifa.\""
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Dizia mais:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"A que coisa compararemos nós o reino de Deus? Com que parábola o figuraremos?"
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "É como um grão de mostarda que, quando se semeia na terra, é a menor de todas as sementes que há na terra;"
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "mas, depois que é semeado, cresce e torna-se maior que todas as hortaliças, e cria grandes ramos, de modo que as aves do céu podem vir pousar à sua sombra."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Assim lhes propunha a palavra com muitas parábolas como estas, conforme o permitia a capacidade dos ouvintes."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Não lhes falava sem parábolas; porém, tudo explicava em particular a seus discípulos."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Naquele mesmo dia, já sobre a tarde, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Passemos à outra banda.\""
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Deixando a multidão, o levaram, assim como estava, na barca. Outras embarcações o seguiram."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Então levantou-se uma grande tormenta de vento, e as ondas lançavam-se sobre a barca, de sorte que a barca se enchia de água."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Jesus estava dormindo na popa, sobre um travesseiro. Acordaram-no, e disseram-lhe:"
+   },
+   {
+    "s": "disciples",
+    "t": "\"Mestre, não se te dá que pereçamos?"
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Ele levantou-se, ameaçou o vento, e disse para o mar:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Cala-te, emudece.\""
+   },
+   {
+    "s": "narrator",
+    "t": "O vento amainou, e seguiu-se uma grande bonança."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "Depois disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Porque sois tão tímidos? Ainda não tendes fé?\""
+   },
+   {
+    "s": "narrator",
+    "t": "Ficaram cheios de grande temor, e diziam uns para os outros:"
+   },
+   {
+    "s": "disciples",
+    "t": "\"Quem será este, que até o vento e o mar lhe obedecem?\""
+   }
+  ]
+ }
+}

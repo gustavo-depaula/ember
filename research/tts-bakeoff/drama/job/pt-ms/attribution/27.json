@@ -1,0 +1,158 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "job": {
+   "name": "Job",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The afflicted just man of Hus, defending his innocence before his friends and God."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Em seguida Job, continuando a sua parábola, acrescentou:"
+   }
+  ],
+  "2": [
+   {
+    "s": "job",
+    "t": "Por Deus (o qual parece) que abandonou a minha causa (ao juízo dos homens), pelo Omnipotente, que submergiu a minha alma na amargura,"
+   }
+  ],
+  "3": [
+   {
+    "s": "job",
+    "t": "(juro que) enquanto em mim houver alento, enquanto Deus me conservar a respiração,"
+   }
+  ],
+  "4": [
+   {
+    "s": "job",
+    "t": "os meus lábios não dirão uada de injusto, nem a minha língua proferirá mentira."
+   }
+  ],
+  "5": [
+   {
+    "s": "job",
+    "t": "Longe de mim o eu ter-vos por justos; enquanto eu viver, defenderei a minha inocência,"
+   }
+  ],
+  "6": [
+   {
+    "s": "job",
+    "t": "não abandonarei a justificação que comecei a fazer, porque o meu coração nada me reprova em toda a minha vida."
+   }
+  ],
+  "7": [
+   {
+    "s": "job",
+    "t": "Seja tido como culpado o meu inimigo, e o meu adversário seja como o iníquo."
+   }
+  ],
+  "8": [
+   {
+    "s": "job",
+    "t": "Qual é a esperança do ímpio, quando Deus lhe arrancar a vida?"
+   }
+  ],
+  "9": [
+   {
+    "s": "job",
+    "t": "Porventura ouvirá Deus o seu clamor, quando lhe sobrevier a tribulação?"
+   }
+  ],
+  "10": [
+   {
+    "s": "job",
+    "t": "Poderá ele deleitar-se no Omnipotente, e invocar a Deus em todo o tempo?"
+   }
+  ],
+  "11": [
+   {
+    "s": "job",
+    "t": "Eu vos ensinarei, com o auxilio de Deus, o que faz o Omnipotente, não vo-lo esconderei."
+   }
+  ],
+  "12": [
+   {
+    "s": "job",
+    "t": "Mas todos vós já o sabeis; porque proferia inútilmente palavras vãs?"
+   }
+  ],
+  "13": [
+   {
+    "s": "job",
+    "t": "Esta é a sorte do homem ímpio diante de Deus, esta a herança que os violentos receberão da Omnipotente."
+   }
+  ],
+  "14": [
+   {
+    "s": "job",
+    "t": "Se os teus filhos se multiplicarem, serão para a espada, e os seus netos não serão fartos de pão."
+   }
+  ],
+  "15": [
+   {
+    "s": "job",
+    "t": "Os que ficarem da sua linhagem serão sepultados na sua ruína, e as suas viúvas não chorarão."
+   }
+  ],
+  "16": [
+   {
+    "s": "job",
+    "t": "Se ele amontoar prata como terra, e se juntar vestidos como pó,"
+   }
+  ],
+  "17": [
+   {
+    "s": "job",
+    "t": "ele sim os juntará, mas o justo se vestirá com eles,"
+   }
+  ],
+  "18": [
+   {
+    "s": "job",
+    "t": "Fabricou como a traça a sua casa, e como o guarda fez a sua choupana."
+   }
+  ],
+  "19": [
+   {
+    "s": "job",
+    "t": "O rico deita-se: é pela última vez; abre os olhos, e já não existe."
+   }
+  ],
+  "20": [
+   {
+    "s": "job",
+    "t": "O terror o surpreenderá como uma inundação, de noite o arrastará a tempestade."
+   }
+  ],
+  "21": [
+   {
+    "s": "job",
+    "t": "Um vento abrasador o tirará e levará, e como fim redemoinho o arrebatará do seu lugar."
+   }
+  ],
+  "22": [
+   {
+    "s": "job",
+    "t": "Deus mandará sobre ele (estas coisas), e não o poupará, e ele se esforçará por fugir da sua mão."
+   }
+  ],
+  "23": [
+   {
+    "s": "job",
+    "t": "Quem vir o seu lugar, baterá palmas (contra ele) e assobiará sobre ele (escarnecendo)."
+   }
+  ]
+ }
+}

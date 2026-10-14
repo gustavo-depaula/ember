@@ -1,0 +1,687 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; sober, urgent storytelling, grave through the Passion."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; authoritative and prophetic in ch. 13, sorrowful yet resolute in the Passion, commanding after the Resurrection."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers; earnest questions, then dismay at the supper."
+  },
+  "chief-priests": {
+   "name": "The chief priests",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "Temple leaders, here speaking together with the scribes; scheming in private, mocking at the cross."
+  },
+  "indignant-guests": {
+   "name": "Indignant guests at Bethania",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Some at table in Simon's house, grumbling at the waste of the ointment."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Simon Peter; vehement in his promises, frightened and blustering in his denials."
+  },
+  "judas": {
+   "name": "Judas Iscariot",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The betrayer; low and furtive giving the sign, falsely warm in his greeting."
+  },
+  "false-witnesses": {
+   "name": "False witnesses",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Men testifying against Jesus before the council; assertive but inconsistent."
+  },
+  "high-priest": {
+   "name": "The high priest",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Presides over the council; imperious, then theatrically outraged."
+  },
+  "council-members": {
+   "name": "Members of the council",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Some of those who condemned Jesus, jeering as they strike him blindfolded."
+  },
+  "servant-girl": {
+   "name": "Maid-servant of the high priest",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "A servant in the courtyard; sharp and accusing as she recognises Peter."
+  },
+  "bystanders": {
+   "name": "Bystanders",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those standing by: pressing Peter in the courtyard; mishearing Jesus' cry at the cross."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Now the feast of the Pasch, and of the azymes, was after two days: and the chief priests, and the Scribes, sought how they might by craft lay hold on him, and kill him."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "But they said:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "Not on the festival day, lest there should be a tumult among the people.",
+    "q": "spoken by the chief priests and the scribes together (14:1)"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And when he was in Bethania, in the house of Simon, the leper, and was at meat; there came a woman, having an alabaster-box of ointment of precious spikenard, and breaking the alabaster-box, she poured it out upon his head."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Now there were some that had indignation within themselves, and said:"
+   },
+   {
+    "s": "indignant-guests",
+    "t": "Why was this waste of the ointment made?"
+   }
+  ],
+  "5": [
+   {
+    "s": "indignant-guests",
+    "t": "For this ointment might have been sold for more than three hundred pence, and given to the poor."
+   },
+   {
+    "s": "narrator",
+    "t": "And they murmured against her."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "But Jesus said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Let her alone; why do you molest her? She hath wrought a good work upon me."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "For the poor you have always with you; and whensoever you will, you may do them good: but me you have not always."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "What she had she hath done: she is come beforehand to anoint my body for the burial."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you, wheresoever this gospel shall be preached in the whole world, that also which she hath done, shall be told for a memorial of her."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And Judas Iscariot, one of the twelve, went to the chief priests, to betray him to them."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "They hearing it, were glad: and promised to give him money. And he sought how he might conveniently betray him."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Now, on the first day of the unleavened bread, when they sacrificed the Pasch, the disciples say to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Whither wilt thou that we go, and prepare for thee to eat the Pasch?"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And he sendeth two of his disciples, and saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go ye into the city: and there shall meet you a man carrying a pitcher of water, follow him;"
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "And wheresoever he shall go in, say to the master of the house: The master saith, Where is my refectory: where I may eat the Pasch with my disciples?"
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "And he will shew you a large dining-room, furnished: and there prepare ye for us."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And his disciples went their way, and came into the city: and they found as he had told them, and they prepared the Pasch."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And when evening was come, he cometh with the twelve."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And when they were at table, and eating, Jesus saith:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you, that one of you who eateth with me, shall betray me."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "But they began to be sorrowful, and to say to him one by one:"
+   },
+   {
+    "s": "disciples",
+    "t": "Is it I?",
+    "q": "said by each disciple in turn, not in unison"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "He saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "One of the twelve who dippeth his hand in the dish with me."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "And the Son of man indeed goeth, as it is written of him: but wo to that man, by whom the Son of man shall be betrayed. It were better for him, if that man had not been born."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And whilst they were eating, Jesus took bread: and blessing, broke, and gave to them, and said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Take ye, This is my body."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And having taken the chalice, giving thanks, he gave to them, and they all drank of it."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "This is my blood of the New Testament, which shall be shed for many."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "Amen, I say unto you, that I will drink no more of this fruit of the vine, until that day when I shall drink it new in the kingdom of God."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And when they had sung a hymn, they went forth to the mount of Olives."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "You will all be scandalized in me this night: for it is written: I will strike the shepherd, and the sheep shall be dispersed;"
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "But after I shall be risen again, I will go before you into Galilee."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "But Peter saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Although all shall be scandalized in thee, yet not I."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, I say to thee, to-day, even in this night, before the cock crow twice, thou shalt deny me thrice."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "But he spoke the more vehemently:"
+   },
+   {
+    "s": "peter",
+    "t": "Although I should die together with thee, I will not deny thee:"
+   },
+   {
+    "s": "narrator",
+    "t": "And in like manner also said they all."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And they came to a farm called Gethsemani. And he saith to his disciples:"
+   },
+   {
+    "s": "jesus",
+    "t": "Sit you here while I pray."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And he taketh Peter and James, and John, with him; and he began to fear, and to be heavy."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And he saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "My soul is sorrowful even unto death: stay you here and watch."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And when he had gone forward a little, he fell flat on the ground: and he prayed, that, if it could be, the hour might pass from him:"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Abba, Father, all things are possible to thee; take away this chalice from me: but not what I will, but what thou wilt."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And he cometh, and findeth them sleeping. And he saith to Peter:"
+   },
+   {
+    "s": "jesus",
+    "t": "Simon, sleepest thou? couldst thou not watch one hour?"
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "Watch ye, and pray that you enter not into temptation. The spirit indeed is willing, but the flesh is weak."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "A going away again, he prayed, saying the same words."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And when he returned, he found them again asleep, (for their eyes were heavy) and they knew not what to answer him."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And he cometh the third time, and saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Sleep ye now, and take your rest. It is enough: the hour is come: behold the Son of man shall be betrayed into the hands of sinners."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "Rise up: let us go. Behold, he that will betray me, is at hand."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "And while he was yet speaking, cometh Judas Iscariot, one of the twelve: and with him a great multitude, with swords and staves, from the chief priests, and the Scribes, and the ancients."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "And he that betrayed him had given them a sign, saying:"
+   },
+   {
+    "s": "judas",
+    "t": "Whomsoever I shall kiss, that is he, lay hold on him, and lead him away cautiously."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "And when he was come, immediately going up to him, he saith:"
+   },
+   {
+    "s": "judas",
+    "t": "Hail, Rabbi:"
+   },
+   {
+    "s": "narrator",
+    "t": "and he kissed him."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "But they laid hands on him, and held him."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "An one of them that stood by drawing a sword, struck a servant of the chief priest, and cut off his ear."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "are you come out as against a robber with swords and staves to apprehend me?"
+   }
+  ],
+  "49": [
+   {
+    "s": "jesus",
+    "t": "I was daily with you in the temple teaching, and you did not lay hands on me. But, that the Scriptures may be fulfilled."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "Then his disciples leaving him, all fled away."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And a certain young man followed him, having a linen cloth cast about his naked body: and they laid hold on him."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "But he casting off the linen cloth, fled from them naked."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "And they brought Jesus to the high priest: and all the priests, and the Scribes, and the ancients, assembled together."
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants at the fire, and warmed himself."
+   }
+  ],
+  "55": [
+   {
+    "s": "narrator",
+    "t": "And the chief priests, and all the council, sought for evidence against Jesus, that they might put him to death; and they found none."
+   }
+  ],
+  "56": [
+   {
+    "s": "narrator",
+    "t": "For many bore false witness against him, and their evidence did not agree."
+   }
+  ],
+  "57": [
+   {
+    "s": "narrator",
+    "t": "And some rising up, bore false witness against him, saying:"
+   }
+  ],
+  "58": [
+   {
+    "s": "false-witnesses",
+    "t": "We heard him say: I will destroy this temple made with hands, and within three days I will build another, not made with hands."
+   }
+  ],
+  "59": [
+   {
+    "s": "narrator",
+    "t": "And their witness did not agree."
+   }
+  ],
+  "60": [
+   {
+    "s": "narrator",
+    "t": "And the high priest rising up in the midst, asked Jesus, saying:"
+   },
+   {
+    "s": "high-priest",
+    "t": "Answerest thou nothing to the things that are laid to thy charge by these men?"
+   }
+  ],
+  "61": [
+   {
+    "s": "narrator",
+    "t": "But he held his peace, and answered nothing. Again the high priest asked him, and said to him:"
+   },
+   {
+    "s": "high-priest",
+    "t": "Art thou the Christ, the Son of the blessed God?"
+   }
+  ],
+  "62": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "I am: And you shall see the Son of man sitting on the right hand of the power of God, and coming with the clouds of heaven."
+   }
+  ],
+  "63": [
+   {
+    "s": "narrator",
+    "t": "Then the high priest rending his garments, saith:"
+   },
+   {
+    "s": "high-priest",
+    "t": "What need we any farther witnesses?"
+   }
+  ],
+  "64": [
+   {
+    "s": "high-priest",
+    "t": "You have heard the blasphemy. What think you?"
+   },
+   {
+    "s": "narrator",
+    "t": "They all condemned him to be guilty of death."
+   }
+  ],
+  "65": [
+   {
+    "s": "narrator",
+    "t": "And some began to spit on him, and to cover his face, and to buffet him, and to say to him:"
+   },
+   {
+    "s": "council-members",
+    "t": "Prophesy:",
+    "q": "the \"some\" who mock are taken as members of the council that just condemned him"
+   },
+   {
+    "s": "narrator",
+    "t": "and the servants struck him with the palms of their hands."
+   }
+  ],
+  "66": [
+   {
+    "s": "narrator",
+    "t": "Now, when Peter was in the court below, there cometh one of the maid-servants of the high priest:"
+   }
+  ],
+  "67": [
+   {
+    "s": "narrator",
+    "t": "And when she had seen Peter warming himself, looking on him, she saith:"
+   },
+   {
+    "s": "servant-girl",
+    "t": "Thou also wast with Jesus of Nazareth."
+   }
+  ],
+  "68": [
+   {
+    "s": "narrator",
+    "t": "But he denied, saying:"
+   },
+   {
+    "s": "peter",
+    "t": "I neither know nor understand what thou sayest."
+   },
+   {
+    "s": "narrator",
+    "t": "And he went forth before the court; and the cock crew."
+   }
+  ],
+  "69": [
+   {
+    "s": "narrator",
+    "t": "And again a maid-servant seeing him, began to say to the standers-by:"
+   },
+   {
+    "s": "servant-girl",
+    "t": "This is one of them.",
+    "q": "text says \"a maid-servant\"; taken as the same maid as 14:66-67 (Matthew has another maid)"
+   }
+  ],
+  "70": [
+   {
+    "s": "narrator",
+    "t": "But he denied again. And after a while they that stood by, said again to Peter:"
+   },
+   {
+    "s": "bystanders",
+    "t": "Surely thou art one of them: for thou art also a Galilean."
+   }
+  ],
+  "71": [
+   {
+    "s": "narrator",
+    "t": "But he began to curse and to swear, saying;"
+   },
+   {
+    "s": "peter",
+    "t": "I know not this man of whom you speak."
+   }
+  ],
+  "72": [
+   {
+    "s": "narrator",
+    "t": "And immediately the cock crew again. And Peter remembered the word that Jesus had said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Before the cock crow twice, thou shalt deny me thrice.",
+    "q": "Jesus' earlier words (14:30) recalled by Peter inside narration; given to Jesus as a remembered voice, could be narrator"
+   },
+   {
+    "s": "narrator",
+    "t": "And he began to weep."
+   }
+  ]
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Mark; brisk, plain storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth, about thirty; calm authority, teaching, commanding and healing."
+  },
+  "unclean-spirit": {
+   "name": "Unclean spirit",
+   "kind": "spirit",
+   "gender": "male",
+   "age": "adult",
+   "note": "Demon(s) crying out through the possessed on recognising Jesus; shrieking, terrified."
+  },
+  "friends-of-jesus": {
+   "name": "Jesus' friends",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "His own people who set out to lay hold on him; alarmed, dismissive."
+  },
+  "scribes": {
+   "name": "Scribes",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Teachers of the law; suspicious and accusing."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people gathered around Jesus in Capharnaum; amazed, or relaying a message to him."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And he entered again into the synagogue, and there was a man there who had a withered hand."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And they watched him, whether he would heal on the sabbath-day: that they might accuse him."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And he saith to the man who had the withered hand:"
+   },
+   {
+    "s": "jesus",
+    "t": "Stand up in the midst."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And he saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Is it lawful to do good on the sabbath-day, or to do evil? to save life, or to destroy?"
+   },
+   {
+    "s": "narrator",
+    "t": "But they held their peace."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And looking round about on them with anger, being grieved for the blindness of their hearts, he saith to the man:"
+   },
+   {
+    "s": "jesus",
+    "t": "Stretch forth thy hand."
+   },
+   {
+    "s": "narrator",
+    "t": "And he stretched it forth; and his hand was restored unto him."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the Pharisees going out immediately, made a consultation with the Herodians against him, how they might destroy him."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "But Jesus retired with his disciples to the sea; and a great multitude followed him from Galilee and Judea,"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And from Jerusalem, and from Idumea, and from beyond the Jordan: and they about Tyre and Sidon, a great multitude, hearing the things which he did, came to him."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he spoke to his disciples that a small ship should wait on him, because of the multitude, lest they should throng him:"
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "For he healed many, so that they pressed upon him to touch him, as many as had evils."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And the unclean spirits, when they saw him, fell down before him: and they cried, saying:"
+   }
+  ],
+  "12": [
+   {
+    "s": "unclean-spirit",
+    "t": "Thou art the Son of God.",
+    "q": "Many unclean spirits cry out together here; the canonical singular id is used"
+   },
+   {
+    "s": "narrator",
+    "t": "And he strictly charged them that they should not make him known."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And going up into a mountain, he called unto him whom he would himself: and they came to him."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And he made that twelve should be with him: and that he might send them to preach."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And he gave them power to heal sicknesses, and to cast out devils."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And to Simon he gave the name of Peter:"
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And James, the son of Zebedee, and John, the brother of James; and he named them Boanerges, which is, The sons of thunder:"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And Andrew and Philip, and Bartholomew and Matthew, and Thomas, and James, of Alpheus, and Thaddeus, and Simon the Cananean:"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And Judas Iscariot, who also betrayed him."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And they come to a house: and the multitude cometh together again, so that they could not so much as eat bread."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And when his friends had heard of it, they went out to lay hold on him: for they said:"
+   },
+   {
+    "s": "friends-of-jesus",
+    "t": "He is become mad.",
+    "q": "\"They said\" may mean his friends/kin or people in general; taken as his friends"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And the Scribes, who were come down from Jerusalem, said:"
+   },
+   {
+    "s": "scribes",
+    "t": "He hath Beelzebub, and by the prince of devils he casteth out devils."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And after he had called them together, he said to them in parables:"
+   },
+   {
+    "s": "jesus",
+    "t": "How can Satan cast out Satan?"
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "And if a kingdom be divided against itself, that kingdom cannot stand."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "And if a house be divided against itself, that house cannot stand."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "And if Satan be risen up against himself, he is divided, and cannot stand, but hath an end."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "No man can enter into the house of a strong man, and rob him of his goods, unless he first bind the strong man, and then shall he plunder his house."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you, that all sins shall be forgiven unto the sons of men, and the blasphemies wherewith they shall blaspheme:"
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "But he that shall blaspheme against the Holy Ghost, shall never have forgiveness, but shall be guilty of an everlasting sin."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Because they said:"
+   },
+   {
+    "s": "scribes",
+    "t": "He hath an unclean spirit.",
+    "q": "Narrator's aside recalling the scribes' charge from 3:22"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And his mother and his brethren came: and standing without, sent to him, calling him."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And the multitude sat about him: and they say to him:"
+   },
+   {
+    "s": "crowd",
+    "t": "Behold thy mother and thy brethren, without, seek for thee."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And answering them, he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Who is my mother and my brethren?"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And looking round on them who sat about him, he saith:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold my mother and my brethren."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "For whosoever shall do the will of God, he is my brother, and my sister, and mother."
+   }
+  ]
+ }
+}

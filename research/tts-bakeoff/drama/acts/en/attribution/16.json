@@ -1,0 +1,375 @@
+{
+ "pericopes": [
+  1,
+  6,
+  11,
+  16,
+  25,
+  35
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Luke, the author of Acts: measured, warm, orderly storyteller; at times a travelling companion (\"we\")."
+  },
+  "paul": {
+   "name": "Paul",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostle (also called Saul): ardent, learned, forceful preacher; stern in rebuke, bold before authorities."
+  },
+  "paul-and-silas": {
+   "name": "Paul and Silas",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The two prisoners answering the jailer at Philippi: steady, joyful, direct."
+  },
+  "man-of-macedonia": {
+   "name": "Man of Macedonia",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A man seen by Paul in a night vision at Troas, beseeching; pleading, urgent."
+  },
+  "lydia": {
+   "name": "Lydia",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "A seller of purple from Thyatira, newly baptized at Philippi; warm, pressing hospitality."
+  },
+  "slave-girl": {
+   "name": "The girl with a pythonical spirit",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "A divining slave girl at Philippi crying out after Paul; loud, shrill, possessed."
+  },
+  "slave-owners": {
+   "name": "The masters of the girl",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Her owners, their gain lost, accusing Paul and Silas before the magistrates; angry, self-righteous."
+  },
+  "jailer": {
+   "name": "The jailer",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The keeper of the prison at Philippi: terrified and trembling after the earthquake, then relieved and kindly."
+  },
+  "magistrates": {
+   "name": "The magistrates",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Roman magistrates of Philippi; curt, official order."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And he came to Derbe and Lystra. And behold, there was a certain disciple there named Timothy, the son of a Jewish woman that believed: but his father was a Gentile."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "To this man the brethren that were in Lystra and Iconium gave a good testimony."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Him Paul would have to go along with him: and taking him, he circumcised him, because of the Jews who were in those places. For they all knew that his father was a Gentile."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And as they passed through the cities, they delivered unto them the decrees for to keep, that were decreed by the apostles and ancients who were at Jerusalem."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the churches were confirmed in faith and increased in number daily."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And when they had passed through Phrygia and the country of Galatia, they were forbidden by the Holy Ghost to preach the word in Asia."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And when they were come into Mysia, they attempted to go into Bithynia: and the Spirit of Jesus suffered them not."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And when they had passed through Mysia, they went down to Troas."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And a vision was shewed to Paul in the night, which was a man of Macedonia standing and beseeching him and saying:"
+   },
+   {
+    "s": "man-of-macedonia",
+    "t": "Pass over into Macedonia and help us."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And as soon as he had seen the vision, immediately we sought to go into Macedonia: being assured that God had called us to preach the gospel to them."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And sailing from Troas, we came with a straight course to Samothracia, and the day following to Neapolis."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And from thence to Philippi, which is the chief city of part of Macedonia, a colony. And we were in this city some days conferring together."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And upon the Sabbath day, we went forth without the gate by a river side, where it seemed that there was prayer: and sitting down, we spoke to the women that were assembled."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And a certain woman named Lydia, a seller of purple, of the city of Thyatira, one that worshipped God, did hear: whose heart the Lord opened to attend to those things which were said by Paul."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And when she was baptized, and her household, she besought us, saying:"
+   },
+   {
+    "s": "lydia",
+    "t": "If you have judged me to be faithful to the Lord, come into my house and abide there."
+   },
+   {
+    "s": "narrator",
+    "t": "And she constrained us."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, as we went to prayer, a certain girl having a pythonical spirit met us, who brought to her masters much gain by divining."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "This same following Paul and us, cried out, saying:"
+   },
+   {
+    "s": "slave-girl",
+    "t": "These men are the servants of the Most High God, who preach unto you the way of salvation.",
+    "q": "the spirit speaks through the girl; voiced as the girl per the brief"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And this she did many days. But Paul being grieved, turned and said to the spirit:"
+   },
+   {
+    "s": "paul",
+    "t": "I command thee, in the name of Jesus Christ, to go from her."
+   },
+   {
+    "s": "narrator",
+    "t": "And he went out the same hour."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "But her masters, seeing that the hope of their gain was gone, apprehending Paul and Silas, brought them into the market place to the rulers."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And presenting them to the magistrates, they said:"
+   },
+   {
+    "s": "slave-owners",
+    "t": "These men disturb our city, being Jews:"
+   }
+  ],
+  "21": [
+   {
+    "s": "slave-owners",
+    "t": "And preach a fashion which it is not lawful for us to receive nor observe, being Romans."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And the people ran together against them: and the magistrates, rending off their clothes, commanded them to be beaten with rods."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And when they had laid many stripes upon them, they cast them into prison, charging the gaoler to keep them diligently."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Who having received such a charge, thrust them into the inner prison and made their feet fast in the stocks."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And at midnight, Paul and Silas, praying, praised God. And they that were in prison heard them."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And suddenly there was a great earthquake, so that the foundations of the prison were shaken. And immediately all the doors were opened and the bands of all were loosed."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And the keeper of the prison, awakening out of his sleep and seeing the doors of the prison open, drawing his sword, would have killed himself, supposing that the prisoners had been fled."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "But Paul cried with a loud voice, saying:"
+   },
+   {
+    "s": "paul",
+    "t": "Do thyself no harm, for we all are here."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Then calling for a light, he went in: and trembling, fell down at the feet of Paul and Silas."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And bringing them out, he said:"
+   },
+   {
+    "s": "jailer",
+    "t": "Masters, what must I do, that I may be saved?"
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "But they said:"
+   },
+   {
+    "s": "paul-and-silas",
+    "t": "believe in the Lord Jesus: and thou shalt be saved, and thy house."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And they preached the word of the Lord to him and to all that were in his house."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And he, taking them the same hour of the night, washed their stripes: and himself was baptized, and all his house immediately."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And when he had brought them into his own house, he laid the table for them: and rejoiced with all his house, believing God."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And when the day was come, the magistrates sent the serjeants, saying:"
+   },
+   {
+    "s": "magistrates",
+    "t": "Let those men go.",
+    "q": "the order as sent by the magistrates, relayed by the serjeants"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And the keeper of the prison told these words to Paul:"
+   },
+   {
+    "s": "jailer",
+    "t": "The magistrates have sent to let you go. Now therefore depart. And go in peace."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "But Paul said to them:"
+   },
+   {
+    "s": "paul",
+    "t": "They have beaten us publicly, uncondemned, men that are Romans, and have cast us into prison. And now do they thrust us out privately? Not so: but let them come."
+   }
+  ],
+  "38": [
+   {
+    "s": "paul",
+    "t": "And let us out themselves."
+   },
+   {
+    "s": "narrator",
+    "t": "And the serjeants told these words to the magistrates. And they were afraid: hearing that they were Romans."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And coming, they besought them: and bringing them out, they desired them to depart out of the city."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And they went out of the prison and entered into the house of Lydia: and having seen the brethren, they comforted them and departed."
+   }
+  ]
+ }
+}

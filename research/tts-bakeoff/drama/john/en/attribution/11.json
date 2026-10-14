@@ -1,0 +1,569 @@
+{
+ "pericopes": [
+  1,
+  17,
+  38,
+  45
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the story."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; calm authority, tender with the afflicted, grave in discourse."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Judean authorities and their party; hostile, pressing, sometimes merely onlookers."
+  },
+  "other-jews": {
+   "name": "Others of the Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "A second party among the Jews answering or doubting the first."
+  },
+  "disciples": {
+   "name": "Disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Twelve; questioning, anxious for their master."
+  },
+  "thomas": {
+   "name": "Thomas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Thomas called Didymus; grim, loyal resolve."
+  },
+  "martha": {
+   "name": "Martha",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Sister of Lazarus; grieving but full of faith, practical."
+  },
+  "mary-of-bethany": {
+   "name": "Mary of Bethany",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Sister of Lazarus; weeping at the feet of Jesus."
+  },
+  "sisters-of-lazarus": {
+   "name": "Martha and Mary",
+   "kind": "group",
+   "gender": "female",
+   "age": "adult",
+   "note": "The sisters of Lazarus sending word to Jesus; urgent, trusting."
+  },
+  "council-members": {
+   "name": "Council members",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "Chief priests and Pharisees in council; alarmed, calculating."
+  },
+  "high-priest": {
+   "name": "Caiphas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "High priest that year; curt, contemptuous, politic."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The multitude of pilgrims and hearers; acclaiming, wondering, questioning."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Now there was a certain man sick, named Lazarus, of Bethania, of the town of Mary and of Martha her sister."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "(And Mary was she that anointed the Lord with ointment and wiped his feet with her hair: whose brother Lazarus was sick.)"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "His sisters therefore sent to him, saying:"
+   },
+   {
+    "s": "sisters-of-lazarus",
+    "t": "Lord, behold, he whom thou lovest is sick.",
+    "q": "message sent by both sisters (through a messenger); given to the sisters as a pair"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And Jesus hearing it, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "This sickness is not unto death, but for the glory of God: that the Son of God may be glorified by it."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Now Jesus loved Martha and her sister Mary and Lazarus."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "When he had heard therefore that he was sick, he still remained in the same place two days."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Then after that, he said to his disciples:"
+   },
+   {
+    "s": "jesus",
+    "t": "Let us go into Judea again."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "The disciples say to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Rabbi, the Jews but now sought to stone thee. And goest thou thither again?"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "Are there not twelve hours of the day? If a man walk in the day he stumbleth not, because he seeth the light of this world:"
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "But if he walk in the night, he stumbleth, because the light is not in him."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "These things he said; and after that he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Lazarus our friend sleepeth: but I go that I may awake him out of sleep."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "His disciples therefore said:"
+   },
+   {
+    "s": "disciples",
+    "t": "Lord, if he sleep, he shall do well."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "But Jesus spoke of his death: and they thought that he spoke of the repose of sleep."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Then therefore Jesus said to them plainly:"
+   },
+   {
+    "s": "jesus",
+    "t": "Lazarus is dead."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "And I am glad, for your sakes; that I was not there, that you may believe. But, let us go to him."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Thomas therefore, who is called Didymus, said to his fellow disciples:"
+   },
+   {
+    "s": "thomas",
+    "t": "Let us also go, that we may die with him."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore came: and found that he had been four days already in the grave."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "(Now Bethania was near Jerusalem, about fifteen furlongs off.)"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And many of the Jews were come to Martha and Mary, to comfort them concerning their brother."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Martha therefore, as soon as she heard that Jesus was come, went to meet him: but Mary sat at home."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Martha therefore said to Jesus:"
+   },
+   {
+    "s": "martha",
+    "t": "Lord, if thou hadst been here, my brother had not died."
+   }
+  ],
+  "22": [
+   {
+    "s": "martha",
+    "t": "But now also I know that whatsoever thou wilt ask of God, God will give it thee."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thy brother shall rise again."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Martha saith to him:"
+   },
+   {
+    "s": "martha",
+    "t": "I know that he shall rise again, in the resurrection at the last day."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "Jesus said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "I am the resurrection and the life: he that believeth in me, although he be dead, shall live:"
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "And every one that liveth and believeth in me shall not die for ever. Believest thou this?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "She saith to him:"
+   },
+   {
+    "s": "martha",
+    "t": "Yea, Lord, I have believed that thou art Christ, the Son of the living God, who art come into this world."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And when she had said these things, she went and called her sister Mary secretly, saying:"
+   },
+   {
+    "s": "martha",
+    "t": "The master is come and calleth for thee."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "She, as soon as she heard this, riseth quickly and cometh to him."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "For Jesus was not yet come into the town: but he was still in that place where Martha had met him."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore, who were with her in the house and comforted her, when they saw Mary, that she rose up speedily and went out, followed her, saying:"
+   },
+   {
+    "s": "the-jews",
+    "t": "She goeth to the grave to weep there."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "When Mary therefore was come where Jesus was, seeing him, she fell down at his feet and saith to him."
+   },
+   {
+    "s": "mary-of-bethany",
+    "t": "Lord, if thou hadst been here, my brother had not died."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Jesus, therefore, when he saw her weeping, and the Jews that were come with her weeping, groaned in the spirit and troubled himself,"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Where have you laid him?"
+   },
+   {
+    "s": "narrator",
+    "t": "They say to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Lord, come and see.",
+    "q": "\"they\" are Mary and the Jews with her (v33); given to the group"
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And Jesus wept."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore said:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Behold how he loved him."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "But some of them said:"
+   },
+   {
+    "s": "other-jews",
+    "t": "Could not he that opened the eyes of the man born blind have caused that this man should not die?",
+    "q": "\"some of them\", the sceptical part of the mourners; second group voice"
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore again groaning in himself, cometh to the sepulchre. Now it was a cave; and a stone was laid over it."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith:"
+   },
+   {
+    "s": "jesus",
+    "t": "Take away the stone."
+   },
+   {
+    "s": "narrator",
+    "t": "Martha, the sister of him that was dead, saith to him:"
+   },
+   {
+    "s": "martha",
+    "t": "Lord, by this time he stinketh, for he is now of four days."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Did not I say to thee that if thou believe, thou shalt see the glory of God?"
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "They took therefore the stone away. And Jesus lifting up his eyes, said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Father, I give thee thanks that thou hast heard me."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "And I knew that thou hearest me always: but because of the people who stand about have I said it, that they may believe that thou hast sent me."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "When he had said these things, he cried with a loud voice:"
+   },
+   {
+    "s": "jesus",
+    "t": "Lazarus, come forth."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "And presently he that had been dead came forth, bound feet and hands with winding bands. And his face was bound about with a napkin. Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Loose him and let him go."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "Many therefore of the Jews, who were come to Mary and Martha and had seen the things that Jesus did, believed in him."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "But some of them went to the Pharisees and told them the things that Jesus had done."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "The chief priests, therefore, and the Pharisees gathered a council and said:"
+   },
+   {
+    "s": "council-members",
+    "t": "What do we, for this man doth many miracles?"
+   }
+  ],
+  "48": [
+   {
+    "s": "council-members",
+    "t": "If we let him alone so, all will believe in him; and the Romans will come, and take away our place and nation."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "But one of them, named Caiphas, being the high priest that year, said to them:"
+   },
+   {
+    "s": "high-priest",
+    "t": "You know nothing."
+   }
+  ],
+  "50": [
+   {
+    "s": "high-priest",
+    "t": "Neither do you consider that it is expedient for you that one man should die for the people and that the whole nation perish not."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "And this he spoke not of himself: but being the high priest of that year, he prophesied that Jesus should die for the nation."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "And not only for the nation, but to gather together in one the children of God that were dispersed."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "From that day therefore they devised to put him to death."
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "Wherefore Jesus walked no more openly among the Jews: but he went into a country near the desert, unto a city that is called Ephrem. And there he abode with his disciples."
+   }
+  ],
+  "55": [
+   {
+    "s": "narrator",
+    "t": "And the pasch of the Jews was at hand: and many from the country went up to Jerusalem, before the pasch, to purify themselves."
+   }
+  ],
+  "56": [
+   {
+    "s": "narrator",
+    "t": "They sought therefore for Jesus; and they discoursed one with another, standing in the temple:"
+   },
+   {
+    "s": "crowd",
+    "t": "What think you that he is not come to the festival day?"
+   }
+  ],
+  "57": [
+   {
+    "s": "narrator",
+    "t": "And the chief priests and Pharisees had given a commandment that, if any man knew where he was, he should tell, that they might apprehend him."
+   }
+  ]
+ }
+}

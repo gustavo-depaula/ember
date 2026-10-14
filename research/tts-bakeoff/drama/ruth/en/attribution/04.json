@@ -1,0 +1,240 @@
+{
+ "pericopes": [
+  1,
+  13,
+  18
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Ruth plainly and warmly, including every speech introduction and gloss."
+  },
+  "booz": {
+   "name": "Booz",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Wealthy landowner of Bethlehem, kinsman of Elimelech; older than Ruth, courteous, generous and upright."
+  },
+  "near-kinsman": {
+   "name": "The nearer kinsman",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The unnamed nearer relative at the gate; eager for the field, then cautious and yielding."
+  },
+  "elders-of-bethlehem": {
+   "name": "Elders and people at the gate",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The ten ancients of the city with the people in the gate, witnessing and blessing solemnly."
+  },
+  "women-of-bethlehem": {
+   "name": "Women of Bethlehem",
+   "kind": "group",
+   "gender": "female",
+   "age": "adult",
+   "note": "The townswomen and neighbours of Noemi; astonished at her return, later rejoicing with her."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then Booz went up to the gate, and sat there. And when he had seen the kinsman going by, of whom he had spoken before, he said to him, calling him by his name:"
+   },
+   {
+    "s": "booz",
+    "t": "Turn aside for a little while, and sit down here."
+   },
+   {
+    "s": "narrator",
+    "t": "He turned aside, and sat down."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And Booz, taking ten men of the ancients of the city, said to them:"
+   },
+   {
+    "s": "booz",
+    "t": "Sit ye down here."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "They sat down, and he spoke to the kinsman:"
+   },
+   {
+    "s": "booz",
+    "t": "Noemi, who is returned from the country of Moab will sell a parcel of land that belonged to our brother Elimelech."
+   }
+  ],
+  "4": [
+   {
+    "s": "booz",
+    "t": "I would have thee to understand this, and would tell thee before all that sit here, and before the ancients of my people. If thou wilt take possession of it by the right of kindred: buy it, and possess it: but if it please thee not, tell me so, that I may know what I have to do. For there is no near kinsman besides thee, who art first, and me, who am second."
+   },
+   {
+    "s": "narrator",
+    "t": "But he answered:"
+   },
+   {
+    "s": "near-kinsman",
+    "t": "I will buy the field."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Booz said to him:"
+   },
+   {
+    "s": "booz",
+    "t": "When thou shalt buy the field at the woman's hand, thou must take also Ruth, the Moabitess, who was the wife of the deceased: to raise up the name of thy kinsman in his inheritance."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "near-kinsman",
+    "t": "I yield up my right of next akin: for I must not cut off the posterity of my own family. Do thou make use of my privilege, which I profess I do willingly forego."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Now this in former times was the manner in Israel between kinsmen, that if at any time one yielded his right to another: that the grant might be sure, the man put off his shoe and gave it to his neighbour; this was a testimony of cession of right in Israel."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "So Booz said to his kinsman:"
+   },
+   {
+    "s": "booz",
+    "t": "Put off thy shoe.",
+    "q": "the Douay text makes Booz the speaker (\"Booz said to his kinsman\"); in the Hebrew this verse is the kinsman speaking"
+   },
+   {
+    "s": "narrator",
+    "t": "And immediately he took it off from his foot."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he said to the ancients, and to all the people:"
+   },
+   {
+    "s": "booz",
+    "t": "You are witnesses this day, that I have bought all that was Elimelech's, and Chelion's, and Mahalon's, of the hand of Noemi:"
+   }
+  ],
+  "10": [
+   {
+    "s": "booz",
+    "t": "And have taken to wife Ruth, the Moabitess, the wife of Mahalon, to raise up the name of the deceased in his inheritance lest his name be cut off, from among his family and his brethren and his people. You, I say, are witnesses of this thing."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Then all the people that were in the gate, and the ancients, answered:"
+   },
+   {
+    "s": "elders-of-bethlehem",
+    "t": "We are witnesses: The Lord make this woman who cometh into thy house, like Rachel, and Lia, who built up the house of Israel: that she may be an example of virtue in Ephrata, and may have a famous name in Bethlehem:",
+    "q": "spoken by all the people in the gate together with the ancients; given to the elders' group voice"
+   }
+  ],
+  "12": [
+   {
+    "s": "elders-of-bethlehem",
+    "t": "And that the house may be, as the house of Phares, whom Thamar bore unto Juda, of the seed which the Lord shall give thee of this young woman."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Booz therefore took Ruth, and married her: and went in unto her, and the Lord gave her to conceive, and to bear a son."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And the women said to Noemi:"
+   },
+   {
+    "s": "women-of-bethlehem",
+    "t": "Blessed be the Lord, who hath not suffered thy family to want a successor: that his name should be preserved in Israel."
+   }
+  ],
+  "15": [
+   {
+    "s": "women-of-bethlehem",
+    "t": "And thou shouldst have one to comfort thy soul, and cherish thy old age. For he is born of thy daughter in law: who loveth thee: and is much better to thee, than if thou hadst seven sons."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And Noemi taking the child, laid it in her bosom, and she carried it, and was a nurse unto it."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And the women, her neighbours, congratulating with her, and saying,"
+   },
+   {
+    "s": "women-of-bethlehem",
+    "t": "There is a son born to Noemi,"
+   },
+   {
+    "s": "narrator",
+    "t": "called his name Obed: he is the father of Isai, the father of David."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "These are the generations of Phares: Phares begot Esron,"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Esron begot Aram, Aram begot Aminadab,"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Aminadab begot Nahasson, Nahasson begot Salmon,"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Salmon begot Booz, Booz begot Obed,"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Obed begot Isai, Isai begot David."
+   }
+  ]
+ }
+}

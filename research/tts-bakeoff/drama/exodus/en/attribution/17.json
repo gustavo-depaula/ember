@@ -1,0 +1,175 @@
+{
+ "pericopes": [
+  1,
+  8
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the journey from Elim to Sinai and the giving of the Law, plain and grave."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Moses in the desert and from Sinai, and proclaiming the Ten Commandments; sovereign, measured."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Leader and mediator of Israel, about eighty; firm with the murmuring people, pleading before God."
+  },
+  "israelites": {
+   "name": "The people of Israel",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people speaking together: murmuring from hunger and thirst, then pledging obedience and trembling at Sinai."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Then all the multitude of the children of Israel setting forward from the desert of Sin, by their mansions, according to the word of the Lord, encamped in Raphidim, where there was no water for the people to drink."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And they chode with Moses, and said:"
+   },
+   {
+    "s": "israelites",
+    "t": "Give us water, that we may drink."
+   },
+   {
+    "s": "narrator",
+    "t": "And Moses answered them:"
+   },
+   {
+    "s": "moses",
+    "t": "Why chide you with me? Wherefore do you tempt the Lord?"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "So the people were thirsty there for want of water, and murmured against Moses, saying:"
+   },
+   {
+    "s": "israelites",
+    "t": "Why didst thou make us go forth out of Egypt, to kill us and our children, and our beasts with thirst?"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And Moses cried to the Lord, saying:"
+   },
+   {
+    "s": "moses",
+    "t": "What shall I do to this people? Yet a little more and they will stone me."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Go before the people, and take with thee of the ancients of Israel: and take in thy hand the rod wherewith thou didst strike the river, and go."
+   }
+  ],
+  "6": [
+   {
+    "s": "the-lord",
+    "t": "Behold I will stand there before thee, upon the rock Horeb, and thou shalt strike the rock, and water shall come out of it that the people may drink."
+   },
+   {
+    "s": "narrator",
+    "t": "Moses did so before the ancients of Israel:"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And he called the name of that place Temptation, because of the chiding of the children of Israel, and for that they tempted the Lord, saying:"
+   },
+   {
+    "s": "israelites",
+    "t": "Is the Lord amongst us or not?"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And Amalec came, and fought against Israel in Raphidim."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And Moses said to Josue:"
+   },
+   {
+    "s": "moses",
+    "t": "Choose out men; and go out and fight against Amalec: tomorrow I will stand on the top of the hill, having the rod of God in my hand."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Josue did as Moses had spoken, and he fought against Amalec; but Moses, and Aaron, and Hur, went up upon the top of the hill."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And when Moses lifted up his hands, Israel overcame; but if he let them down a little, Amalec overcame."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And Moses's hands were heavy: so they took a stone, and put under him, and he sat on it: and Aaron and Hur stayed up his hands on both sides. And it came to pass, that his hands were not weary until sunset."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And Josue put Amalec and his people to flight, by the edge of the sword."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Write this for a memorial in a book, and deliver it to the ears of Josue; for I will destroy the memory of Amalec from under heaven."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Moses built an altar; and called the name thereof, The Lord, my exaltation, saying:"
+   }
+  ],
+  "16": [
+   {
+    "s": "moses",
+    "t": "Because the hand of the throne of the Lord, and the war of the Lord shall be against Amalec, from generation to generation.",
+    "q": "Moses explaining the altar name; the name itself in v.15 is left to the narrator"
+   }
+  ]
+ }
+}

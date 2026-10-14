@@ -1,0 +1,167 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; sober, urgent storytelling, grave through the Passion."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; authoritative and prophetic in ch. 13, sorrowful yet resolute in the Passion, commanding after the Resurrection."
+  },
+  "women-at-tomb": {
+   "name": "The women at the tomb",
+   "kind": "group",
+   "gender": "female",
+   "age": "adult",
+   "note": "Mary Magdalene, Mary the mother of James, and Salome; anxious, talking among themselves."
+  },
+  "angel-at-tomb": {
+   "name": "The young man in white",
+   "kind": "divine",
+   "gender": "male",
+   "age": "young",
+   "note": "The angel seated in the sepulchre; calm, reassuring, announcing the Resurrection."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Passado o dia de sábado, Maria Madalena, Maria, mãe de Tiago, e Salomé compraram aromas para irem embalsamar Jesus."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Partindo no primeiro dia da semana, de manhã cedo, chegaram ao sepulcro, quando o sol já era nascido."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Diziam entre si:"
+   },
+   {
+    "s": "women-at-tomb",
+    "t": "\"Quem nos há-de revolver a pedra da boca do sepulcro?",
+    "q": "the Portuguese text has no closing quote; the whole question is the women's"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Mas, olhando, viram revolvida a pedra, que era muito grande."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Entrando no sepulcro, viram um jovem sentado do lado direito, vestido de uma túnica branca, e ficaram assustadas."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Ele disse-lhes:"
+   },
+   {
+    "s": "angel-at-tomb",
+    "t": "\"Não temais. Buscais a Jesus Nazareno, o crucificado? Ressuscitou, não está aqui. Eis o lugar onde o depositaram."
+   }
+  ],
+  "7": [
+   {
+    "s": "angel-at-tomb",
+    "t": "Mas ide, dizei a seus discípulos, e especialmente a Pedro, que ele vai adiante de vós para a Galileia; lá o vereis, como ele vos disse.\""
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Elas, saindo do sepulcro, fugiram, porque as tinha assaltado o temor e estavam fora de si. Não disseram nada a ninguém, tal era o medo que tinham."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Jesus tendo ressuscitado de manhã, no primeiro dia da semana, apareceu primeiramente a Maria Madalena, da qual tinha expulsado sete demônios."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Ela foi noticiá-lo aos que tinham andado com ele, os quais estavam aflitos e chorosos."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Tendo eles ouvido dizer que Jesus estava vivo, e que fora visto por ela, não acreditaram."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Depois disto, mostrou-se sob outra forma a dois deles, enquanto iam para a aldeia;"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "os quais foram anunciar aos outros, que nem a estes deram crédito."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Finalmente apareceu aos onze, quando estavam à mesa, e censurou-lhes a sua incredulidade e dureza de coração, por não terem dado crédito aos que o viram ressuscitado."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Ide por todo o mundo, pregai o Evangelho a toda a criatura."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "O que crer e for batizado, será salvo; o que, porém, não crer, será condenado."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "Eis os milagres que acompanharão os que crerem: Expulsarão os demônios em meu nome, falarão novas línguas,"
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "manusearão as serpentes, e, se beberem alguma coisa mortífera, não lhes fará mal; imporão as mãos sobre os enfermos, e serão curados.\""
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "O Senhor, depois que assim lhes falou, elevou-se ao céu, e foi sentar-se à direita de Deus."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Eles, tendo partido, pregaram por toda a parte, cooperando com eles o Senhor, e confirmando a palavra com os milagres que a acompanhavam."
+   }
+  ]
+ }
+}

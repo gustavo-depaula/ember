@@ -1,0 +1,147 @@
+{
+ "pericopes": [
+  1,
+  8
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Tobias; calm, warm storyteller."
+  },
+  "tobias-the-elder": {
+   "name": "Tobias the elder",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The father, a devout old exile in Ninive; anxious for his son, then joyful and prophetic once his sight is restored."
+  },
+  "tobias-the-younger": {
+   "name": "Tobias the younger",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "The son, newly married; earnest, reverent and grateful, eager to return to his parents."
+  },
+  "anna-wife-of-tobias": {
+   "name": "Anna, wife of Tobias",
+   "kind": "individual",
+   "gender": "female",
+   "age": "old",
+   "note": "The mother; grieving for her absent son, then overjoyed at seeing him come."
+  },
+  "raguel": {
+   "name": "Raguel",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Sara's father; fearful for his son in law at night, then relieved, generous and affectionate."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "But as Tobias made longer stay upon occasion of the marriage, Tobias his father was solicitous, saying:"
+   },
+   {
+    "s": "tobias-the-elder",
+    "t": "Why thinkest thou doth my son tarry, or why is he detained there?"
+   }
+  ],
+  "2": [
+   {
+    "s": "tobias-the-elder",
+    "t": "Is Gabelus dead, thinkest thou, and no man will pay him the money?"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And he began to be exceeding sad, both he and Anna his wife with him: and they began both to weep together, because their son did not return to them on the day appointed."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "But his mother wept and was quite disconsolate, and said:"
+   },
+   {
+    "s": "anna-wife-of-tobias",
+    "t": "Woe, woe is me, my son; why did we send thee to go to a strange country, the light of our eyes, the staff of our old age, the comfort of our life, the hope of our posterity?"
+   }
+  ],
+  "5": [
+   {
+    "s": "anna-wife-of-tobias",
+    "t": "We having all things together in thee alone, ought not to have let thee go from us."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And Tobias said to her:"
+   },
+   {
+    "s": "tobias-the-elder",
+    "t": "Hold thy peace, and be not troubled, our son is safe: that man with whom we sent him is very trusty."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "But she could by no means be comforted, but daily running out looked round about, and went into all the ways by which there seemed any hope he might return, that she might if possible see him coming afar off."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "But Raguel said to his son in law:"
+   },
+   {
+    "s": "raguel",
+    "t": "Stay here, and I will send a messenger to Tobias thy father, that thou art in health."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And Tobias said to him:"
+   },
+   {
+    "s": "tobias-the-younger",
+    "t": "I know that my father and mother now count the days, and their spirit is grievously afflicted within them."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And when Raguel had pressed Tobias with many words, and he by no means would hearken to him, he delivered Sara unto him, and half of all his substance in menservants, and womenservants, in cattle, in camels, and in kine, and in much money, and sent him away safe and joyful from him,"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "raguel",
+    "t": "The holy angel of the Lord be with you in your journey, and bring you through safe, and that you may find all things well about your parents, and my eyes may see your children before I die."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And the parents taking their daughter kissed her, and let her go:"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Admonishing her to honour her father and mother in law, to love her husband, to take care of the family, to govern the house, and to behave herself irreprehensibly."
+   }
+  ]
+ }
+}

@@ -1,0 +1,309 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; narrating the entry into Jerusalem, the fig tree and the cleansing of the temple."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; giving calm instructions, indignant in the temple, then teaching on faith and outmanoeuvring his questioners."
+  },
+  "bystanders": {
+   "name": "Bystanders",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Men standing near the tied colt; challenging, mildly suspicious."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those going before and following at the entry into Jerusalem; jubilant shouted acclamation."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Apostle; surprised, pointing out the withered fig tree."
+  },
+  "chief-priests": {
+   "name": "The chief priests, scribes and ancients",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The chief priests with the scribes and ancients in the temple; hostile and demanding aloud, wary and calculating when reasoning among themselves, then evasive."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Quando se iam aproximando de Jerusalém, nas proximidades de Betfagé e de Betânia, perto do monte das Oliveiras, enviou dois dos seus discípulos,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "e disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Ide à aldeia, que está defronte de vós. Logo que entrardes nela, encontrareis preso um jumentinho, em que ainda não montou homem algum; soltai-o e trazei-o."
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "Se alguém vos disser: Porque fazeis isso? Dizei-lhe: O Senhor tem necessidade dele; e logo o deixará trazer.\""
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Indo eles, encontraram o jumentinho preso fora da porta numa encruzilhada; e desprenderam-no."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Alguns dos que estavam ali disseram-lhes:"
+   },
+   {
+    "s": "bystanders",
+    "t": "\"Que fazeis, desprendendo o jumentinho?\""
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Eles responderam-lhes como Jesus lhes tinha mandado, e deixaram-lho levar."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Levaram o jumentinho a Jesus, puseram sobre ele os seus mantos, e Jesus montou em cima."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Muitos estenderam os seus mantos pelo caminho, outros cortavam ramos das árvores nos campos e juncavam com eles a estrada."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Os que iam adiante, e os que seguiam atrás, clamavam, dizendo:"
+   },
+   {
+    "s": "crowd",
+    "t": "\"Hosana! Bendito o que vem em nome do Senhor!"
+   }
+  ],
+  "10": [
+   {
+    "s": "crowd",
+    "t": "Bendito o reino que vem do nosso pai David! Hosana no mais alto dos céus!\""
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Entrou em Jerusalém no templo, e. tendo observado tudo, como fosse já tarde, foi para Betânia com os doze."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Ao outro dia, depois que saíram de Betânia, teve fome."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Vendo ao longe uma figueira que tinha folhas, foi lá ver se encontrava nela algum fruto. Aproximando-se, nada encontrou senão folhas, porque não era tempo de figos."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Então disse à figueira:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Nunca jamais coma alguém fruto de ti.\""
+   },
+   {
+    "s": "narrator",
+    "t": "Ouviram-no os seus discípulos."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Chegaram a Jerusalém. Tendo entrado no templo, começou a lançar fora os que vendiam e compravam no templo, e derribou as mesas dos banqueiros e as cadeiras dos que vendiam pombas."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "E não consentia que alguém transportasse qualquer objeto pelo templo;"
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "e os ensinava, dizendo:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Porventura não está escrito: A minha casa será chamada casa de oração para todas as gentes?. Mas vós fizestes dela um covil de ladrões.\""
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Ouvindo isto os príncipes dos sacerdotes e os escribas, procuravam o modo de o perder; porque o temiam, visto todo o povo admirar a sua doutrina."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "Quando se fez tarde, saíram da cidade."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "No outro dia pela manhã, ao passarem, viram a figueira seca até às raízes."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Então Pedro, recordando-se, disse-lhe:"
+   },
+   {
+    "s": "peter",
+    "t": "\"Olha, Mestre, como se secou a figueira que amaldiçoaste.\""
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "Jesus, respondendo, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Tende fé em Deus."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "Em verdade vos digo que todo o que disser a este monte: Tira-te daí, e lança-te no mar, e não hesitar no seu coração, mas tiver fé de que tudo o que disser seja feito, lhe será feito."
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "Por isso vos digo: Tudo o que pedirdes na oração, crede que o haveis de conseguir, e que o obtereis."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "Quando estiverdes orando, se tendes alguma coisa contra alguém, perdoai-lhe, para que também vosso Pai, que está nos céus, vos perdoe os vossos pecados."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "Porque, se vós não perdoardes, também o vosso Pai, que está nos céus, vos não perdoará os vossos pecados.\""
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Voltaram a Jerusalém. E, andando Jesus pelo templo, aproximaram-se dele os príncipes dos sacerdotes, os escribas e os anciães,"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "e disseram-lhe:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "\"Com que autoridade fazes tu estas coisas? E quem te deu o direito de as fazer?\""
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Jesus disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Eu também vos farei uma pergunta; respondei-me a ela primeiro, e eu vos direi depois com que autoridade faço estas coisas."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "O batismo de João era do céu ou dos homens? Respondei-me.\""
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Mas eles discorriam entre si:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "Se respondermos que era do céu, ele dirá: Por que razão logo não crestes nele?",
+    "q": "No quote marks in the source; private reasoning of the chief priests, mirroring the English"
+   }
+  ],
+  "32": [
+   {
+    "s": "chief-priests",
+    "t": "Responderemos que era dos homens?...",
+    "q": "No quote marks in the source; the trailing \"...\" ends their reasoning"
+   },
+   {
+    "s": "narrator",
+    "t": "Temiam o povo, porque todos tinham a João por um verdadeiro profeta.",
+    "q": "English note: read as the narrator explaining their fear; could instead be the end of their private reasoning. In the Portuguese \"Temiam o povo\" is third person, so the narration starts one clause earlier than in the English (\"we fear the people\" is speech there)"
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Então responderam a Jesus:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "\"Não sabemos.\""
+   },
+   {
+    "s": "narrator",
+    "t": "E Jesus disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Pois nem eu tão pouco vos direi com que autoridade faço estas coisas.\""
+   }
+  ]
+ }
+}

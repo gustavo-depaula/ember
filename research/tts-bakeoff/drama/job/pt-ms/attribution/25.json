@@ -1,0 +1,56 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Reads the lines that introduce each speech."
+  },
+  "baldad": {
+   "name": "Baldad the Suhite",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Second of Job's friends; his brief third speech on God's majesty and man's uncleanness."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Então, respondendo Baldad Suita, disse:"
+   }
+  ],
+  "2": [
+   {
+    "s": "baldad",
+    "t": "O poder e o terror estão naquele que mantém a concórdia (a harmonia) nos seus altos (céus)."
+   }
+  ],
+  "3": [
+   {
+    "s": "baldad",
+    "t": "Porventura têm número as suas (celestiais) milicias? E sobre quem é que não se levanta a sua luz?"
+   }
+  ],
+  "4": [
+   {
+    "s": "baldad",
+    "t": "Porventura pode justificar-se o homem, comparado com Deus, ou aparecer puro o que nasceu da mulher?"
+   }
+  ],
+  "5": [
+   {
+    "s": "baldad",
+    "t": "Eis que a mesma lua não tem resplendor, e as mesmas estrelas não são puras na sua presença;"
+   }
+  ],
+  "6": [
+   {
+    "s": "baldad",
+    "t": "quanto menos o homem, que é podridão, e o filho do homem, que é um verme!"
+   }
+  ]
+ }
+}

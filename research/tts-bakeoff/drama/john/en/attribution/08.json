@@ -1,0 +1,545 @@
+{
+ "pericopes": [
+  1,
+  12,
+  21,
+  31,
+  48
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the story."
+  },
+  "scribes-and-pharisees": {
+   "name": "The scribes and Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Accusers of the woman, tempting Jesus."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; teaching with authority, calm and grave."
+  },
+  "adulterous-woman": {
+   "name": "The woman taken in adultery",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Ashamed, quiet, relieved."
+  },
+  "pharisees": {
+   "name": "The Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Pharisees of the council; scornful, accusing."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Jewish authorities and opponents in Jerusalem and Capharnaum; challenging, hostile."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Jesus went unto mount Olivet."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And early in the morning he came again into the temple: and all the people came to him. And sitting down he taught them."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And the scribes and Pharisees bring unto him a woman taken in adultery: and they set her in the midst,"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And said to him:"
+   },
+   {
+    "s": "scribes-and-pharisees",
+    "t": "Master, this woman was even now taken in adultery."
+   }
+  ],
+  "5": [
+   {
+    "s": "scribes-and-pharisees",
+    "t": "Now Moses in the law commanded us to stone such a one. But what sayest thou?"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And this they said tempting him, that they might accuse him. But Jesus bowing himself down, wrote with his finger on the ground."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "When therefore they continued asking him, he lifted up himself and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "He that is without sin among you, let him first cast a stone at her."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And again stooping down, he wrote on the ground."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "But they hearing this, went out one by one, beginning at the eldest. And Jesus alone remained, and the woman standing in the midst."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Then Jesus lifting up himself, said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Woman, where are they that accused thee? Hath no man condemned thee?"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Who said:"
+   },
+   {
+    "s": "adulterous-woman",
+    "t": "No man, Lord."
+   },
+   {
+    "s": "narrator",
+    "t": "And Jesus said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Neither will I condemn thee. Go, and now sin no more."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Again therefore, Jesus spoke to: them, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "I am the light of the world. He that followeth me walketh not in darkness, but shall have the light of life."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "The Pharisees therefore said to him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Thou givest testimony of thyself. Thy testimony is not true."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Although I give testimony of myself, my testimony is true: for I know whence I came and whither I go."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "You judge according to the flesh: I judge not any man."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "And if I do judge, my judgment is true: because I am not alone, but I and the Father that sent me."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "And in your law it is written that the testimony of two men is true."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "I am one that give testimony of myself: and the Father that sent me giveth testimony of me."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "They said therefore to him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Where is thy Father?"
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "Neither me do you know, nor my Father. If you did know me, perhaps you would know my Father also."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "These words Jesus spoke in the treasury, teaching in the temple: and no man laid hands on him, because his hour was not yet come."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Again therefore Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "I go: and you shall seek me. And you shall die in your sin. Whither I go, you cannot come."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore said:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Will he kill himself, because he said: Whither I go you cannot come?"
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "You are from beneath: I am from above. You are of this world: I am not of this world."
+   }
+  ],
+  "24": [
+   {
+    "s": "jesus",
+    "t": "Therefore I said to you that you shall die in your sins. For if you believe not that I am he, you shall die in your sin."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "They said therefore to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Who art thou?"
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "The beginning, who also speak unto you."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "Many things I have to speak and to judge of you. But he that sent me, is true: and the things I have heard of him, these same I speak in the world."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And they understood not that he called God his Father."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "When you shall have lifted up, the Son of man, then shall you know that I am he and that I do nothing of myself. But as the Father hath taught me, these things I speak."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "And he that sent me is with me: and he hath not left me alone. For I do always the things that please him."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "When he spoke these things, many believed in him."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Then Jesus said to those Jews who believed him:"
+   },
+   {
+    "s": "jesus",
+    "t": "If you continue in my word, you shall be my disciples indeed."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "And you shall know the truth: and the truth shall make you free."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "They answered him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "We are the seed of Abraham: and we have never been slaves to any man. How sayest thou: You shall be free?"
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say unto you that whosoever committeth sin is the servant of sin."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "Now the servant abideth not in the house for ever: but the son abideth for ever."
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "If therefore the son shall make you free, you shall be free indeed."
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "I know that you are the children of Abraham: but you seek to kill me, because my word hath no place in you."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "I speak that which I have seen with my Father: and you do the things that you have seen with your father."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "They answered and said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Abraham is our father."
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus saith them:"
+   },
+   {
+    "s": "jesus",
+    "t": "If you be the children of Abraham, do the works of Abraham."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "But now you seek to kill me, a man who have spoken the truth to you, which I have heard of God. This Abraham did not."
+   }
+  ],
+  "41": [
+   {
+    "s": "jesus",
+    "t": "You do the works of your father."
+   },
+   {
+    "s": "narrator",
+    "t": "They said therefore to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "We are not born of fornication: we have one Father, even God."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Jesus therefore said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "If God were your Father, you would indeed love me. For from God I proceeded and came. For I came not of myself: but he sent me."
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "Why do you not know my speech? Because you cannot hear my word."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "You are of your father the devil: and the desires of your father you will do. He was a murderer from the beginning: and he stood not in the truth, because truth is not in him. When he speaketh a lie, he speaketh of his own: for he is a liar, and the father thereof."
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "But if I say the truth, you believe me not."
+   }
+  ],
+  "46": [
+   {
+    "s": "jesus",
+    "t": "Which of you shall convince me of sin? If I say the truth to you, why do you not believe me:"
+   }
+  ],
+  "47": [
+   {
+    "s": "jesus",
+    "t": "He that is of God heareth the words of God. Therefore you hear them not, because you are not of God."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore answered and said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Do not we say well that thou art a Samaritan and hast a devil?"
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "I have not a devil: but I honour my Father. And you have dishonoured me."
+   }
+  ],
+  "50": [
+   {
+    "s": "jesus",
+    "t": "But I seek not my own glory: there is one that seeketh and judgeth."
+   }
+  ],
+  "51": [
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you: If any man keep my word, he shall not see death for ever."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore said:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Now we know that thou hast a devil. Abraham is dead, and the prophets: and thou sayest: If any man keep my word, he shall not taste death for ever."
+   }
+  ],
+  "53": [
+   {
+    "s": "the-jews",
+    "t": "Art thou greater than our father Abraham who is dead? And the prophets are dead. Whom dost thou make thyself?"
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "If I glorify myself, my glory is nothing. It is my Father that glorifieth me, of whom you say that he is your God."
+   }
+  ],
+  "55": [
+   {
+    "s": "jesus",
+    "t": "And you have not known him: but I know him. And if I shall say that I know him not, I shall be like to you, a liar. But I do know him and do keep his word."
+   }
+  ],
+  "56": [
+   {
+    "s": "jesus",
+    "t": "Abraham your father rejoiced that he might see my day: he saw it and was glad."
+   }
+  ],
+  "57": [
+   {
+    "s": "narrator",
+    "t": "The Jews therefore said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Thou art not yet fifty years old. And hast thou seen Abraham?"
+   }
+  ],
+  "58": [
+   {
+    "s": "narrator",
+    "t": "Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you, before Abraham was made, I AM."
+   }
+  ],
+  "59": [
+   {
+    "s": "narrator",
+    "t": "They took up stones therefore to cast at him. But Jesus hid himself and went out of the temple."
+   }
+  ]
+ }
+}

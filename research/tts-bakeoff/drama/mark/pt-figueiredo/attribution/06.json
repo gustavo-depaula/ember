@@ -1,0 +1,516 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; brisk storytelling, darker in the account of John's death."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Rueful at Nazareth, instructing the twelve, calm and reassuring on the sea."
+  },
+  "crowd": {
+   "name": "People of Nazareth",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Hearers in the synagogue of his own town; astonished, then dismissive and offended."
+  },
+  "herod": {
+   "name": "Herod Antipas",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The tetrarch; haunted by guilt over John, boastful and rash at his banquet."
+  },
+  "some-people": {
+   "name": "Some of the people",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Popular rumour about Jesus: those who say he is Elias."
+  },
+  "other-people": {
+   "name": "Others of the people",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Popular rumour about Jesus: those who say he is a prophet."
+  },
+  "john-the-baptist": {
+   "name": "John the Baptist",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The prophet rebuking the king; stern and fearless."
+  },
+  "herodias-daughter": {
+   "name": "The daughter of Herodias",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "A girl who has just danced for the court; eager asking her mother, then bold before the king."
+  },
+  "herodias": {
+   "name": "Herodias",
+   "kind": "individual",
+   "gender": "female",
+   "age": "adult",
+   "note": "Herod's unlawful wife; cold and vengeful."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Practical and anxious about feeding the multitude."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Tendo Jesus saído dali foi para a sua pátria: E o seguiam os seus discípulos:"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "E chegando o dia de sábado começou a ensinar na sinagoga: E muitos dos que o ouviam, se admiravam da sua doutrina, dizendo:"
+   },
+   {
+    "s": "crowd",
+    "t": "Donde vêm a este todas estas coisas? e que sabedoria é esta que lhe foi dada? E donde tais maravilhas que pelas suas mãos são obradas?"
+   }
+  ],
+  "3": [
+   {
+    "s": "crowd",
+    "t": "Não é este o oficial, filho de Maria, irmão de Tiago, e de José, e de Judas, e de Simão? não vivem aqui entre nós também suas irmãs?"
+   },
+   {
+    "s": "narrator",
+    "t": "E daqui tomavam motivo para se escandalizarem."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Mas Jesus lhes dizia:"
+   },
+   {
+    "s": "jesus",
+    "t": "Um profeta só deixa de ser honrado na sua pátria, e na sua casa, e entre os seus parentes."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "E não podia fazer ali milagre algum, senão foi que curou alguns poucos enfermos, impondo-lhes as mãos:"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "E Jesus se admirava da incredulidade deles, e andava pregando por todas as aldeias circunvizinhas."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "E chamou os doze: E começou a enviá-los a dois e dois, e lhes dava poder contra os espíritos imundos."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "E ordenou-lhes que não levassem nada nas jornadas, senão somente um bordão; nem levassem alforge, nem pão, nem dinheiro na cinta."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Mas que fossem calçados de sandálias, e que não se provessem de duas túnicas."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "E dizia-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "Em qualquer casa onde entrardes, ficai nela, até sairdes do lugar:"
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "E quando alguns vos não receberem, nem vos escutarem, saindo dali, sacudi o pó dos vossos pés, em testemunho contra eles."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "E saindo eles pregavam aos povos, que fizessem penitência:"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "E expeliam muitos demônios, e ungiam com óleo a muitos enfermos, e os curavam."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "E ouviu isto o rei Herodes, (porque o seu nome se tinha feito célebre) e dizia:"
+   },
+   {
+    "s": "herod",
+    "t": "É que João Batista ressurgiu dentre os mortos: E por isso os prodígios obram nele."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Outros porém diziam:"
+   },
+   {
+    "s": "some-people",
+    "t": "É Elias."
+   },
+   {
+    "s": "narrator",
+    "t": "E diziam outros:"
+   },
+   {
+    "s": "other-people",
+    "t": "É profeta como um dos profetas."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Herodes, que ouvia estes rumores, disse:"
+   },
+   {
+    "s": "herod",
+    "t": "Este é João a quem eu mandei degolar e que ressurgiu dos mortos."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Porque é de saber que o mesmo Herodes, como tinha casado com Herodíades, sendo esta mulher de seu irmão Felipe, mandou prender, e meter em ferros a João, por causa desta mulher."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Porque dizia João a Herodes:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "Não te é lícito ter a mulher de teu irmão."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "E Herodíades lhe andava espreitando alguma ocasião: E o queria fazer morrer, porém não podia."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Porque Herodes temia a João, sabendo que ele era varão justo e santo: E o protegia e pelo seu conselho fazia muitas coisas, e o ouvia de boa vontade."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Até que ultimamente chegou um dia favorável, em que Herodes celebrava o dia do seu nascimento, dando um banquete aos grandes da sua corte, aos tribunos, e aos principais da Galileia."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "E havendo entrado no festim a filha da mesma Herodíades, e dançado, e dado gosto a Herodes, e aos que com ele estavam à mesa, disse o rei à moça:"
+   },
+   {
+    "s": "herod",
+    "t": "Pede-me o que quiseres que eu to darei:"
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "E lhe jurou:"
+   },
+   {
+    "s": "herod",
+    "t": "Tudo o que me pedires te darei, ainda que seja metade do meu reino."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Tendo ela saído, disse a sua mãe:"
+   },
+   {
+    "s": "herodias-daughter",
+    "t": "Que hei de eu pedir?"
+   },
+   {
+    "s": "narrator",
+    "t": "e ela respondeu:"
+   },
+   {
+    "s": "herodias",
+    "t": "A cabeça de João Batista."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "E tornando logo a entrar a grã pressa onde estava o rei, pediu, dizendo:"
+   },
+   {
+    "s": "herodias-daughter",
+    "t": "Quero que sem mais demora me dês num prato a cabeça de João Batista."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "E o rei se entristeceu, mas por causa do juramento, e pelos que com ele estavam ali à mesa, não quis desgostá-la."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Mas enviando um dos da sua guarda, lhe mandou trazer a cabeça de João num prato, e ele indo o degolou no cárcere."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "E trouxe a sua cabeça num prato, e a deu à moça, e a moça a deu a sua mãe."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "O que ouvindo seus discípulos, vieram e levaram o seu corpo, e o puseram no sepulcro."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Ora, os Apóstolos ajuntando-se onde Jesus estava, contaram-lhe tudo o que haviam feito, e ensinado."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "E ele lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Vinde, retirai-vos a algum lugar deserto, e descansai um pouco."
+   },
+   {
+    "s": "narrator",
+    "t": "Porque eram muitos os que entravam e saíam: E não tinham tempo para comer."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Entrando pois numa barca, retiraram-se a um lugar deserto, por estarem sós."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "E muitos os viram partir, e outros tiveram disso notícia, e concorreram lá a pé de todas as cidades, e chegaram primeiro que eles."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "E ao desembarcar viu Jesus uma grande multidão de povo, e teve compaixão deles, porque eram como ovelhas que não têm pastor, e começou a ensinar-lhes muitas coisas."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "E como fosse já mui tarde, chegaram-se a ele seus discípulos, dizendo:"
+   },
+   {
+    "s": "disciples",
+    "t": "Este lugar é deserto, e a hora é já passada:"
+   }
+  ],
+  "36": [
+   {
+    "s": "disciples",
+    "t": "Despede-os, que vão por esses casais e aldeias da comarca, a comprar alguma coisa que comam."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "E ele respondendo lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Dai-lhes vós outros de comer."
+   },
+   {
+    "s": "narrator",
+    "t": "E eles lhe tornaram:"
+   },
+   {
+    "s": "disciples",
+    "t": "Será logo preciso que vamos com duzentos dinheiros comprar pão, para haver de lhes darmos de comer."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "E Jesus lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Quantos pães tendes vós? ide, e vede lá isso."
+   },
+   {
+    "s": "narrator",
+    "t": "E depois de o terem examinado, lhe vêm dizer:"
+   },
+   {
+    "s": "disciples",
+    "t": "Temos cinco e dois peixes."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "Então lhes mandou que os fizessem recostar a todos em ranchos sobre a verde relva."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "E se recostaram em ranchos, de cento em cento, e de cinquenta em cinquenta."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "E Jesus tomando os cinco pães, e os dois peixes, com os olhos no Céu, abençoou e partiu os pães, e os deu a seus discípulos, para que lhos pusessem diante: E repartiu por todos os dois peixes."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "E todos comeram, e ficaram fartos."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "E levantaram doze cestos cheios de pedaços, que sobejaram dos pães, e dos peixes."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "Ora os que comeram, eram cinco mil homens."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "E imediatamente obrigou Jesus a seus discípulos a se embarcarem, para chegarem primeiro que ele à banda dalém a Betsaida, enquanto ele despedia o povo."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "E depois que os despediu, retirou-se a um monte a fazer oração."
+   }
+  ],
+  "47": [
+   {
+    "s": "narrator",
+    "t": "E chegada a tarde achava-se a barca no meio do mar e ele só em terra."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "E vendo o trabalho que eles tinham em remar (porque o vento lhes era contrário), lá junto da quarta vigília da noite foi ter com eles, andando por cima das águas: E queria passar-lhes adiante."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "Quando eles porém o viram caminhar sobre as águas, cuidaram que era algum fantasma, e puseram-se a gritar."
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "Porque todos o viram, e se turbaram. Mas ele logo falou com eles, e lhes disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "Tende ânimo, sou eu, não temais."
+   }
+  ],
+  "51": [
+   {
+    "s": "narrator",
+    "t": "E meteu-se na barca para ir ter com eles, e cessou o vento. E eles ainda mais se espantavam no seu interior do que viam:"
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "Pois ainda não tinham conhecido o milagre dos pães: Porque estava obcecado o seu coração."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "E tendo passado à outra banda, vieram ao país de Genesaré, e tomaram ali porto."
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "E como saíram da barca, logo o conheceram:"
+   }
+  ],
+  "55": [
+   {
+    "s": "narrator",
+    "t": "E correndo por todo aquele país, começaram onde quer que sabiam que Jesus estava, a trazerem-lhe de todas as partes, nos leitos, os que padeciam algum mal."
+   }
+  ],
+  "56": [
+   {
+    "s": "narrator",
+    "t": "E donde quer que ele entrava, fosse nas aldeias, ou nos casais, ou nas cidades, punham os enfermos no meio das praças, e pediam-lhe que os deixasse tocar ao menos a orla do seu vestido, e todos os que o tocavam, ficavam sãos."
+   }
+  ]
+ }
+}

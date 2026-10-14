@@ -1,0 +1,446 @@
+{
+ "pericopes": [
+  1,
+  10,
+  18,
+  24,
+  31,
+  34,
+  36,
+  44,
+  47,
+  53
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Matthew; orderly, measured storytelling, including his own Scripture citations."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus of Nazareth; calm authority, teaching in parables, commanding and healing."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers speaking together; questioning, practical and anxious, slow to understand, awed in the boat."
+  },
+  "crowd": {
+   "name": "People of Nazareth",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Hearers in the synagogue of his own town; astonished, then dismissive and offended."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "The same day Jesus going out of the house, sat by the sea side."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And great multitudes were gathered together unto him, so that he went up into a boat and sat: and all the multitude stood on the shore."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And he spoke to them many things in parables, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "Behold the sower went forth to sow."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "And whilst he soweth some fell by the way side, and the birds of the air came and ate them up."
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "And other some fell upon stony ground, where they had not much earth: and they sprung up immediately, because they had no deepness of earth."
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "And when the sun was up they were scorched: and because they had not root, they withered away."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "And others fell among thorns: and the thorns grew up and choked them."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "And others fell upon good ground: and they brought forth fruit, some an hundred fold, some sixty fold, and some thirty fold."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "He that hath ears to hear, let him hear."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And his disciples came and said to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Why speakest thou to them in parables?"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "Who answered and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Because to you it is given to know the mysteries of the kingdom of heaven: but to them it is not given."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "For he that hath, to him shall be given, and he shall abound: but he that hath not, from him shall be taken away that also which he hath."
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "Therefore do I speak to them in parables: because seeing they see not, and hearing they hear not, neither do they understand."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "And the prophecy of Isaias is fulfilled in them, who saith: By hearing you shall hear, and shall not understand: and seeing you shall see, and shall not perceive."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "For the heart of this people is grown gross, and with their ears they have been dull of hearing, and their eyes they have shut: lest at any time they should see with their eyes, and hear with their ears, and understand with their heart, and be converted, and I should heal them."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "But blessed are your eyes, because they see, and your ears, because they hear."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "For, amen, I say to you, many prophets and just men have desired to see the things that you see, and have not seen them: and to hear the things that you hear and have not heard them."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "Hear you therefore the parable of the sower."
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "When any one heareth the word of the kingdom, and understandeth it not, there cometh the wicked one, and catcheth away that which was sown in his heart: this is he that received the seed by the way side."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "And he that received the seed upon stony ground, is he that heareth the word, and immediately receiveth it with joy."
+   }
+  ],
+  "21": [
+   {
+    "s": "jesus",
+    "t": "Yet hath he not root in himself, but is only for a time: and when there ariseth tribulation and persecution because of the word, he is presently scandalized."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "And he that received the seed among thorns, is he that heareth the word, and the care of this world and the deceitfulness of riches choketh up the word, and he becometh fruitless."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "But he that received the seed upon good ground, is he that heareth the word, and understandeth, and beareth fruit, and yieldeth the one an hundredfold, and another sixty, and another thirty."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Another parable he proposed to them, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "The kingdom of heaven is likened to a man that sowed good seed in his field."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "But while men were asleep, his enemy came and oversowed cockle among the wheat and went his way."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "And when the blade was sprung up, and had brought forth fruit, then appeared also the cockle."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "And the servants of the good man of the house coming said to him. Sir, didst thou not sow good seed in thy field? Whence then hath it cockle?"
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "And he said to them: An enemy hath done this. And the servants said to him: Wilt thou that we go and gather it up?"
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "And he said: No, lest perhaps gathering up the cockle, you root up the wheat also together with it."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "Suffer both to grow until the harvest, and in the time of the harvest I will say to the reapers: Gather up first the cockle, and bind it into bundles to burn, but the wheat gather ye into my barn."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Another parable he proposed unto them, saying:"
+   },
+   {
+    "s": "jesus",
+    "t": "The kingdom of heaven is like to a grain of mustard seed, which a man took and sowed in his field."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "Which is the least indeed of all seeds; but when it is grown up, it is greater than all herbs, and becometh a tree, so that the birds of the air come, and dwell in the branches thereof."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "Another parable he spoke to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "The kingdom of heaven is like to leaven, which a woman took and hid in three measures of meal, until the whole was leavened."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "All these things Jesus spoke in parables to the multitudes: and without parables he did not speak to them."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "That it might be fulfilled which was spoken by the prophet, saying: I will open my mouth in parables, I will utter things hidden from the foundation of the world."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Then having sent away the multitudes, he came into the house, and his disciples came to him, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "Expound to us the parable of the cockle of the field."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Who made answer and said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "He that soweth the good seed is the Son of man."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "And the field is the world. And the good seed are the children of the kingdom. And the cockle are the children of the wicked one."
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "And the enemy that sowed them, is the devil. But the harvest is the end of the world. And the reapers are the angels."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "Even as cockle therefore is gathered up, and burnt with fire: so shall it be at the end of the world."
+   }
+  ],
+  "41": [
+   {
+    "s": "jesus",
+    "t": "The Son of man shall send his angels, and they shall gather out of his kingdom all scandals, and them that work iniquity."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "And shall cast them into the furnace of fire: there shall be weeping and gnashing of teeth."
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "Then shall the just shine as the sun, in the kingdom of their Father. He that hath ears to hear, let him hear."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "The kingdom of heaven is like unto a treasure hidden in a field. Which a man having found, hid it, and for joy thereof goeth, and selleth all that he hath, and buyeth that field."
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "Again the kingdom of heaven is like to a merchant seeking good pearls."
+   }
+  ],
+  "46": [
+   {
+    "s": "jesus",
+    "t": "Who when he had found one pearl of great price, went his way, and sold all that he had, and bought it."
+   }
+  ],
+  "47": [
+   {
+    "s": "jesus",
+    "t": "Again the kingdom of heaven is like to a net cast into the sea, and gathering together of all kinds of fishes."
+   }
+  ],
+  "48": [
+   {
+    "s": "jesus",
+    "t": "Which, when it was filled, they drew out, and sitting by the shore, they chose out the good into vessels, but the bad they cast forth."
+   }
+  ],
+  "49": [
+   {
+    "s": "jesus",
+    "t": "So shall it be at the end of the world. The angels shall go out, and shall separate the wicked from among the just."
+   }
+  ],
+  "50": [
+   {
+    "s": "jesus",
+    "t": "And shall cast them into the furnace of fire: there shall be weeping and gnashing of teeth."
+   }
+  ],
+  "51": [
+   {
+    "s": "jesus",
+    "t": "Have ye understood all these things?"
+   },
+   {
+    "s": "narrator",
+    "t": "They say to him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Yes."
+   }
+  ],
+  "52": [
+   {
+    "s": "narrator",
+    "t": "He said unto them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Therefore every scribe instructed in the kingdom of heaven, is like to a man that is a householder, who bringeth forth out of his treasure new things and old."
+   }
+  ],
+  "53": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass: when Jesus had finished these parables, he passed from thence."
+   }
+  ],
+  "54": [
+   {
+    "s": "narrator",
+    "t": "And coming into his own country, he taught them in their synagogues, so that they wondered and said:"
+   },
+   {
+    "s": "crowd",
+    "t": "How came this man by this wisdom and miracles?"
+   }
+  ],
+  "55": [
+   {
+    "s": "crowd",
+    "t": "Is not this the carpenter's son? Is not his mother called Mary, and his brethren James, and Joseph, and Simon, and Jude:"
+   }
+  ],
+  "56": [
+   {
+    "s": "crowd",
+    "t": "And his sisters, are they not all with us? Whence therefore hath he all these things?"
+   }
+  ],
+  "57": [
+   {
+    "s": "narrator",
+    "t": "And they were scandalized in his regard. But Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "A prophet is not without honour, save in his own country, and in his own house."
+   }
+  ],
+  "58": [
+   {
+    "s": "narrator",
+    "t": "And he wrought not many miracles there, because of their unbelief."
+   }
+  ]
+ }
+}

@@ -9,6 +9,7 @@ Long-running investigations whose output is a method plus a text or dataset, not
 | [`missale-romanum/`](missale-romanum/README.md) | Can the Ordinary Form Mass be rebuilt from the original app its texts came from, with the selection logic re-expressed as data? |
 | [`clerus-index/`](clerus-index/README.md) | For any passage of Scripture, where has the Church spoken of it, and can a reader reach that from a verse? |
 | [`gregobase/`](gregobase/README.md) | Where in Ember does GregoBase's chant belong beyond a library, and how does a score get to the text it sets? |
+| [`tts-bakeoff/`](tts-bakeoff/README.md) | Can the prayers and the Bible be voiced well enough to listen to in English, Brazilian Portuguese and Latin, and at what cost: free on one consumer GPU, or with a paid service? |
 
 A project is a folder with a `README.md` (what is being asked, where things stand) and a design doc. Everything else is up to the project — add structure when the work asks for it, not before.
 

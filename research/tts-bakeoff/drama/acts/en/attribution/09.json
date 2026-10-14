@@ -1,0 +1,391 @@
+{
+ "pericopes": [
+  1,
+  10,
+  20,
+  26,
+  32,
+  36
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Luke: narration, speech introductions and asides."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The risen Lord speaking from heaven to Saul and in a vision to Ananias; sovereign, calm, piercing."
+  },
+  "paul": {
+   "name": "Saul (Paul)",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Saul of Tarsus, the persecutor struck down on the Damascus road; trembling and astonished."
+  },
+  "ananias-of-damascus": {
+   "name": "Ananias of Damascus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A disciple at Damascus; ready, then fearful of Saul, then brotherly when he lays hands on him."
+  },
+  "crowd": {
+   "name": "Crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Those who heard Saul in the synagogues of Damascus; astonished."
+  },
+  "peter": {
+   "name": "Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The apostle visiting the saints at Lydda and Joppe; speaks healing with simple authority."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Saul, as yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high priest"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And asked of him letters to Damascus, to the synagogues: that if he found any men and women of this way, he might bring them bound to Jerusalem."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And as he went on his journey, it came to pass that he drew nigh to Damascus. And suddenly a light from heaven shined round about him."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And falling on the ground, he heard a voice saying to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Saul, Saul, why persecutest thou me?"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Who said:"
+   },
+   {
+    "s": "paul",
+    "t": "Who art thou, Lord?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he:"
+   },
+   {
+    "s": "jesus",
+    "t": "I am Jesus whom thou persecutest. It is hard for thee to kick against the goad."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And he, trembling and astonished, said:"
+   },
+   {
+    "s": "paul",
+    "t": "Lord, what wilt thou have me to do?"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Arise and go into the city; and there it shall be told thee what thou must do."
+   },
+   {
+    "s": "narrator",
+    "t": "Now the men who went in company with him stood amazed, hearing indeed a voice but seeing no man."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And Saul arose from the ground: and when his eyes were opened, he saw nothing. But they, leading him by the hands, brought him to Damascus."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And he was there three days without sight: and he did neither eat nor drink."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Now there was a certain disciple at Damascus, named Ananias. And the Lord said to him in a vision:"
+   },
+   {
+    "s": "jesus",
+    "t": "Ananias,"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "ananias-of-damascus",
+    "t": "Behold I am here, Lord."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Arise and go into the street that is called Strait and seek in the house of Judas, one named Saul of Tarsus. For behold he prayeth."
+   }
+  ],
+  "12": [
+   {
+    "s": "jesus",
+    "t": "(And he saw a man named Ananias coming in and putting his hands upon him, that he might receive his sight.)",
+    "q": "DR sets this verse in parentheses as an aside; in the Greek and Vulgate it continues the Lord's words to Ananias"
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "But Ananias answered:"
+   },
+   {
+    "s": "ananias-of-damascus",
+    "t": "Lord, I have heard by many of this man, how much evil he hath done to thy saints in Jerusalem."
+   }
+  ],
+  "14": [
+   {
+    "s": "ananias-of-damascus",
+    "t": "And here he hath authority from the chief priests to bind all that invoke thy name."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go thy way: for this man is to me a vessel of election, to carry my name before the Gentiles and kings and the children of Israel."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "For I will shew him how great things he must suffer for my name's sake."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And Ananias went his way and entered into the house. And laying his hands upon him, he said:"
+   },
+   {
+    "s": "ananias-of-damascus",
+    "t": "Brother Saul, the Lord Jesus hath sent me, he that appeared to thee in the way as thou camest, that thou mayest receive thy sight and be filled with the Holy Ghost."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And immediately there fell from his eyes as it were scales: and he received his sight. And rising up, he was baptized."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And when he had taken meat, he was strengthened. And he was with the disciples that were at Damascus, for some days."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And immediately he preached Jesus in the synagogues, that he is the son of God."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And all that heard him were astonished and said:"
+   },
+   {
+    "s": "crowd",
+    "t": "Is not this he who persecuted in Jerusalem those that called upon this name and came hither for that intent, that he might carry them bound to the chief priests?"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "But Saul increased much more in strength and confounded the Jews who dwelt at Damascus, affirming that this is the Christ."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And when many days were passed, the Jews consulted together to kill him."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "But their lying in wait was made known to Saul. And they watched the gates also day and night, that they might kill him."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "But the disciples, taking him in the night, conveyed him away by the wall, letting him down in a basket."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And when he was come into Jerusalem, he essayed to join himself to the disciples: and they all were afraid of him, not believing that he was a disciple."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "But Barnabas took him and brought him to the apostles and told them how he had seen the Lord, and that he had spoken to him: and how in Damascus he had dealt confidently in the name of Jesus."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And he was with them, coming in and going out in Jerusalem and dealing confidently in the name of the Lord."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "He spoke also to the Gentiles and disputed with the Greeks. But they sought to kill him."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "Which when the brethren had known, they brought him down to Caesarea and sent him away to Tarsus."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "Now, the church had peace throughout all Judea and Galilee and Samaria: and was edified, walking in the fear of the Lord: and was filled with the consolation of the Holy Ghost."
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass that Peter, as he passed through, visiting all, came to the saints who dwelt at Lydda."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And he found there a certain man named Eneas, who had kept his bed for eight years, who was ill of the palsy."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And Peter said to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Eneas, the Lord Jesus Christ healeth thee. Arise and make thy bed."
+   },
+   {
+    "s": "narrator",
+    "t": "And immediately he arose."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And all that dwelt at Lydda and Saron saw him: who were converted to the Lord."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And in Joppe there was a certain disciple named Tabitha, which by interpretation is called Dorcas. This woman was full of good works and almsdeeds which she did."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass in those days that she was sick and died. Whom when they had washed, they laid her in an upper chamber."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And forasmuch as Lydda was nigh to Joppe, the disciples, hearing that Peter was there, sent unto him two men, desiring him that he would not be slack to come unto them."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And Peter rising up went with them. And when he was come, they brought him into the upper chamber. And all the widows stood about him, weeping and shewing him the coats and garments which Dorcas made them."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And they all being put forth, Peter, kneeling down, prayed. And turning to the body, he said:"
+   },
+   {
+    "s": "peter",
+    "t": "Tabitha, arise."
+   },
+   {
+    "s": "narrator",
+    "t": "And she opened her eyes and, seeing Peter, sat up."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "And giving her his hand, he lifted her up. And when he had called the saints and the widows, he presented her alive."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "And it was made known throughout all Joppe. And many believed in the Lord."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "And it cane to pass that he abode many days in Joppe, with one Simon a tanner."
+   }
+  ]
+ }
+}

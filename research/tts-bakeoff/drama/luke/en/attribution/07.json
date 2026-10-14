@@ -1,0 +1,477 @@
+{
+ "pericopes": [
+  1,
+  11,
+  18,
+  24,
+  36
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Luke: orderly, warm, unhurried storyteller."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord: calm authority, tender with the suffering, firm with his critics."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Onlookers seized with awe, glorifying God."
+  },
+  "jewish-elders": {
+   "name": "Elders of the Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "Elders of Capharnaum sent by the centurion, pleading earnestly on his behalf."
+  },
+  "centurion": {
+   "name": "The centurion",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Roman officer of Capharnaum; soldierly, humble, full of faith. His message is carried by friends."
+  },
+  "john-the-baptist": {
+   "name": "John the Baptist",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The prophet in prison, sending his question to Jesus; grave and searching."
+  },
+  "johns-disciples": {
+   "name": "Two disciples of John",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Messengers delivering John's question, respectful and earnest."
+  },
+  "a-pharisee": {
+   "name": "Simon the Pharisee",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The host at table: polite on the surface, privately judging."
+  },
+  "guests": {
+   "name": "The guests at table",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Simon's fellow guests, murmuring to themselves in scandalized surprise."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And when he had finished all his words in the hearing of the people, he entered into Capharnaum."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the servant of a certain centurion who was dear to him, being sick, was ready to die."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And when he had heard of Jesus, he sent unto him the ancients of the Jews, desiring him to come and heal his servant."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And when they came to Jesus, they besought him earnestly, saying to him:"
+   },
+   {
+    "s": "jewish-elders",
+    "t": "He is worthy that thou shouldest do this for him."
+   }
+  ],
+  "5": [
+   {
+    "s": "jewish-elders",
+    "t": "For he loveth our nation: and he hath built us a synagogue."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And Jesus went with them. And when he was now not far from the house, the centurion sent his friends to him, saying:"
+   },
+   {
+    "s": "centurion",
+    "t": "Lord, trouble not thyself; for I am not worthy that thou shouldst enter under my roof.",
+    "q": "spoken by the friends he sent, but in the centurion's own first person; given to him like a message read out (vv 6-8)"
+   }
+  ],
+  "7": [
+   {
+    "s": "centurion",
+    "t": "For which cause neither did I think myself worthy to come to thee: but say the word, and my servant shall be healed."
+   }
+  ],
+  "8": [
+   {
+    "s": "centurion",
+    "t": "For I also am a man subject to authority, having under me soldiers: and I say to one, Go, and he goeth: and to another, Come, and he cometh; and to my servant, Do this, and he doth it."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Which Jesus hearing, marvelled: and turning about to the multitude that followed him, he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen I say to you, I have not found so great faith, not even in Israel."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And they who were sent, being returned to the house, found the servant whole who had been sick."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass afterwards that he went into a city that is called Naim: and there went with him his disciples and a great multitude."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And when he came nigh to the gate of the city, behold a dead man was carried out, the only son of his mother: and she was a widow. And a great multitude of the city was with her."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Whom when the Lord had seen, being moved with mercy towards her, he said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Weep not."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And he came near and touched the bier. And they that carried it stood still. And he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Young man, I say to thee, arise."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And he that was dead sat up and begun to speak. And he gave him to his mother."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And there came a fear upon them all: and they glorified God saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "A great prophet is risen up among us:"
+   },
+   {
+    "s": "narrator",
+    "t": "and,"
+   },
+   {
+    "s": "crowd",
+    "t": "God hath visited his people."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And this rumour of him went forth throughout all Judea and throughout all the country round about."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And John's disciples told him of all these things."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And John called to him two of his disciples and sent them to Jesus, saying:"
+   },
+   {
+    "s": "john-the-baptist",
+    "t": "Art thou he that art to come? Or look we for another?",
+    "q": "the question John gives his messengers to carry; read as his own words"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And when the men were come unto him, they said:"
+   },
+   {
+    "s": "johns-disciples",
+    "t": "John the Baptist hath sent us to thee, saying: Art thou he that art to come? Or look we for another?"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "(And in that same hour, he cured many of their diseases and hurts and evil spirits: and to many that were blind he gave sight.)"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And answering, he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go and relate to John what you have heard and seen: the blind see, the lame walk, the lepers are made clean, the deaf hear, the dead rise again, to the poor the gospel is preached."
+   }
+  ],
+  "23": [
+   {
+    "s": "jesus",
+    "t": "And blessed is he whosoever shall not be scandalized in me."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And when the messengers of John were departed, he began to speak to the multitudes concerning John."
+   },
+   {
+    "s": "jesus",
+    "t": "What went ye out into the desert to see? A reed shaken with the wind?"
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "But what went you out to see? A man clothed in soft garments? Behold they that are in costly apparel and live delicately are in the houses of kings."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "But what went you out to see? A prophet? Yea, I say to you, and more than a prophet."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "This is he of whom it is written: Behold I send my angel before thy face, who shall prepare thy way before thee."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "For I say to you: Amongst those that are born of men, there is not a greater prophet than John the Baptist. But he that is the lesser in the kingdom of God is greater than he."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And all the people hearing, and the publicans, justified God, being baptized with John's baptism.",
+    "q": "vv 29-30 read as the evangelist's aside (v31 reintroduces \"And the Lord said\"), not as Jesus continuing"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "But the Pharisees and the lawyers despised the counsel of God against themselves, being not baptized by him."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And the Lord said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Whereunto then shall I liken the men of this generation? And to what are they like?"
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "They are like to children sitting in the marketplace and speaking one to another and saying: We have piped to you, and you have not danced: we have mourned, and you have not wept."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "For John the Baptist came neither eating bread nor drinking wine. And you say: He hath a devil."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "The Son of man is come eating and drinking. And you say: Behold a man that is a glutton and a drinker of wine, a friend of publicans and sinners."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "And wisdom is justified by all her children."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And one of the Pharisees desired him to eat with him. And he went into the house of the Pharisee and sat down to meat."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And behold a woman that was in the city, a sinner, when she knew that he sat at meat in the Pharisee's house, brought an alabaster box of ointment."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And standing behind at his feet. she began to wash his feet with tears and wiped them with the hairs of her head and kissed his feet and anointed them with the ointment."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And the Pharisee, who had invited him, seeing it, spoke within himself, saying:"
+   },
+   {
+    "s": "a-pharisee",
+    "t": "This man, if he were if a prophet, would know surely who and what manner of woman this is that toucheth him, that she is a sinner.",
+    "q": "unspoken thought (\"spoke within himself\"), voiced by Simon the Pharisee"
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Simon, I have somewhat to say to thee."
+   },
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "a-pharisee",
+    "t": "Master, say it."
+   }
+  ],
+  "41": [
+   {
+    "s": "jesus",
+    "t": "A certain creditor had two debtors: the one owed five hundred pence and the other fifty."
+   }
+  ],
+  "42": [
+   {
+    "s": "jesus",
+    "t": "And whereas they had not wherewith to pay, he forgave them both. Which therefore of the two loveth him most?"
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "Simon answering, said:"
+   },
+   {
+    "s": "a-pharisee",
+    "t": "I suppose that he to whom he forgave most."
+   },
+   {
+    "s": "narrator",
+    "t": "And he said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou hast judged rightly."
+   }
+  ],
+  "44": [
+   {
+    "s": "narrator",
+    "t": "And turning to the woman, he said unto Simon:"
+   },
+   {
+    "s": "jesus",
+    "t": "Dost thou see this woman? I entered into thy house: thou gavest me no water for my feet. But she with tears hath washed my feet; and with her hairs hath wiped them."
+   }
+  ],
+  "45": [
+   {
+    "s": "jesus",
+    "t": "Thou gavest me no kiss. But she, since she cane in, hath not ceased to kiss my feet."
+   }
+  ],
+  "46": [
+   {
+    "s": "jesus",
+    "t": "My head with oil thou didst not anoint. But she with ointment hath anointed my feet."
+   }
+  ],
+  "47": [
+   {
+    "s": "jesus",
+    "t": "Wherefore, I say to thee: Many sins are forgiven her, because she hath loved much. But to whom less is forgiven, he loveth less."
+   }
+  ],
+  "48": [
+   {
+    "s": "narrator",
+    "t": "And he said to her:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thy sins are forgiven thee."
+   }
+  ],
+  "49": [
+   {
+    "s": "narrator",
+    "t": "And they that sat at meat with him began to say within themselves:"
+   },
+   {
+    "s": "guests",
+    "t": "Who is this that forgiveth sins also?",
+    "q": "said \"within themselves\": inner murmur voiced as group speech"
+   }
+  ],
+  "50": [
+   {
+    "s": "narrator",
+    "t": "And he said to the woman:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thy faith hath made thee safe. Go in peace."
+   }
+  ]
+ }
+}

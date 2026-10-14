@@ -1,0 +1,274 @@
+{
+ "pericopes": [
+  1,
+  8,
+  20,
+  35
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the making and raising of the tabernacle; measured, orderly."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Leader of Israel; here his order, cried through the camp, that the offerings stop."
+  },
+  "craftsmen": {
+   "name": "The craftsmen",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The workmen of the sanctuary reporting to Moses that the people bring too much."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Beseleel therefore, and Ooliab, and every wise man, to whom the Lord gave wisdom and understanding, to know how to work artificially, made the things that are necessary for the uses of the sanctuary, and which the Lord commanded."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And when Moses had called them, and every skilful man, to whom the Lord had given wisdom, and such as of their own accord had offered themselves to the making of the work,"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "He delivered all the offerings of the children of Israel unto them. And while they were earnest about the work, the people daily in the morning offered their vows."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Whereupon the workmen being constrained to come,"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Said to Moses:"
+   },
+   {
+    "s": "craftsmen",
+    "t": "The people offereth more than is necessary."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "Moses therefore commanded proclamation to be made by the crier's voice:"
+   },
+   {
+    "s": "moses",
+    "t": "Let neither man nor woman offer any more for the work of the sanctuary.",
+    "q": "the proclamation is voiced by a crier but the words are Moses' command; given to Moses"
+   },
+   {
+    "s": "narrator",
+    "t": "And so they ceased from offering gifts,"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Because the things that were offered did suffice, and were too much."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And all the men that were wise of heart, to accomplish the work of the tabernacle, made ten curtains of twisted fine linen, and violet, and purple, and scarlet twice dyed, with varied work, and the art of embroidering:"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "The length of one curtain was twenty-eight cubits, and the breadth four: all the curtains were of the same size."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And he joined five curtains, one to another, and the other five he coupled one to another."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "He made also loops of violet in the edge of one curtain on both sides, and in the edge of the other curtain in like manner,"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "That the loops might meet one against another, and might be joined each with the other."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Whereupon also he cast fifty rings of gold, that might catch the loops of the curtains, and they might be made one tabernacle."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "He made also eleven curtains of goats' hair, to cover the roof of the tabernacle:"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "One curtain was thirty cubits long, and four cubits broad: all the curtains were of one measure."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Five of which he joined apart, and the other six apart."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And he made fifty loops in the edge of one curtain, and fifty in the edge of another curtain, that they might be joined one to another."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And fifty buckles of brass wherewith the roof might be knit together, that of all the curtains there might be made one covering."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "He made also a cover for the tabernacle of rams' skins dyed red; and another cover over that of violet skins."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "He made also the boards of the tabernacle of setim wood standing."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "The length of one board was ten cubits; and the breadth was one cubit and a half."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "There were two mortises throughout every board, that one might be joined to the other. And in this manner he made for all the boards of the tabernacle."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Of which twenty were at the south side southward,"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "With forty sockets of silver, two sockets were put under one board on the two sides of the corners, where the mortises of the sides end in the corners."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "At that side also of the tabernacle, that looketh towards the north, he made twenty boards,"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "With forty sockets of silver, two sockets for every board."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "But against the west, to wit, at that side of the tabernacle, which looketh to the sea, he made six boards,"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And two others at each corner of the tabernacle behind:"
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Which were also joined from beneath unto the top, and went together into one joint. Thus he did on both sides at the corners:"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "So there were in all eight boards, and they had sixteen sockets of silver, to wit, two sockets under every board."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "He made also bars of setim wood, five to hold together the boards of one side of the tabernacle,"
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "And five others to join together the boards of the other side; and besides these, five other bars at the west side of the tabernacle towards the sea."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "He made also another bar, that might come by the midst of the boards from corner to corner."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And the boards themselves he overlaid with gold casting for them sockets of silver. And their rings he made of gold, through which the bars might be drawn: and he covered the bars themselves with plates of gold."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "He made also a veil of violet, and purple, scarlet and fine twisted linen, varied and distinguished with embroidery:"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And four pillars of setim wood, which with their heads he overlaid with gold, casting for them sockets of silver."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "He made also a hanging in the entry of the tabernacle of violet, purple, scarlet, and fine twisted linen, with the work of an embroiderer."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And five pillars with their heads, which he covered with gold, and their sockets he cast of brass."
+   }
+  ]
+ }
+}

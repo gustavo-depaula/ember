@@ -1,0 +1,379 @@
+{
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; narrating the controversies in the temple."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord teaching in the temple; pointed in the parable, unruffled and incisive in debate, warm toward the scribe, quietly moved by the widow."
+  },
+  "pharisees-and-herodians": {
+   "name": "Pharisees and Herodians",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Pharisees and Herodians sent to trap him over the tribute; smooth, flattering, insincere."
+  },
+  "sadducees": {
+   "name": "The Sadducees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Sadducees, who deny the resurrection; posing their riddle with sceptical, faintly mocking confidence."
+  },
+  "scribe-who-asks": {
+   "name": "The scribe who asks about the first commandment",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "A scribe impressed by his answers; sincere, thoughtful and approving."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "E começou a falar-lhes por parábolas:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Um homem plantou uma vinha, cercou-a com uma sebe, cavou nela um lagar, edificou uma torre, e arrendou-a a uns vinhateiros, e ausentou-se daquele país."
+   }
+  ],
+  "2": [
+   {
+    "s": "jesus",
+    "t": "Chegado o tempo, enviou aos vinhateiros um servo para receber deles a sua parte dos frutos da vinha."
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "Mas eles, apanhando-o, bateram-lhe, e remeteram-no com as mãos vazias."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "Enviou-lhes de novo outro servo, e também a este o feriram na cabeça, e o carregaram de afrontas."
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "Enviou de novo outro, e mataram-no. Assim fizeram a muitos outros, dos quais bateram nuns, e mataram outros."
+   }
+  ],
+  "6": [
+   {
+    "s": "jesus",
+    "t": "Tendo ainda um filho querido, também lho enviou por último, dizendo: Terão respeito a meu filho."
+   }
+  ],
+  "7": [
+   {
+    "s": "jesus",
+    "t": "Porém aqueles vinhateiros disseram uns para os outros: Este é o herdeiro, vinde, matemo-lo, e será nossa a herança."
+   }
+  ],
+  "8": [
+   {
+    "s": "jesus",
+    "t": "Pegaram nele, mataram-no, e lançaram-no fora da vinha."
+   }
+  ],
+  "9": [
+   {
+    "s": "jesus",
+    "t": "Que fará pois o senhor da vinha? Virá, exterminará os vinhateiros, e dará a vinha a outros."
+   }
+  ],
+  "10": [
+   {
+    "s": "jesus",
+    "t": "Vós nunca leste este lugar da Escritura: A pedra que fora rejeitada pelos que edificavam, tornou-se cabeça do ângulo."
+   }
+  ],
+  "11": [
+   {
+    "s": "jesus",
+    "t": "Pelo Senhor foi feito isto, e é coisa maravilhosa aos nossos olhos.\""
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Procuravam apoderar-se dele, mas temeram o povo. Tinham compreendido bem que dissera esta parábola contra eles. E, deixando-o, retiraram-se."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "Enviaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem em alguma palavra."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Chegando eles, disseram-lhe:"
+   },
+   {
+    "s": "pharisees-and-herodians",
+    "t": "\"Mestre, sabemos que és verdadeiro, que não atendes a respeitos humanos; porque não consideras o exterior dos homens, mas ensinas o caminho de Deus, segundo a verdade: É lícito pagar o tributo a César, ou não? Devemos pagar ou não?\""
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Jesus, conhecendo a sua perfídia, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Porque me tentais? Trazei-me um dinheiro para o ver.\""
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Eles lho trouxeram. Então disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"De quem é esta imagem e inscrição?\""
+   },
+   {
+    "s": "narrator",
+    "t": "Responderam-lhe:"
+   },
+   {
+    "s": "pharisees-and-herodians",
+    "t": "\"De César.\""
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Então Jesus disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Dai, pois, o que é de César a César, e o que é de Deus a Deus.\""
+   },
+   {
+    "s": "narrator",
+    "t": "E admiravam-no."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "Foram ter com ele os saduceus, que negam a ressurreição, e interrogaram-no, dizendo:"
+   }
+  ],
+  "19": [
+   {
+    "s": "sadducees",
+    "t": "\"Mestre, Moisés deixou-nos escrito que, se morrer o irmão de algum e deixar a mulher sem filhos, seu irmão tome a mulher dele e dê descendência a seu irmão."
+   }
+  ],
+  "20": [
+   {
+    "s": "sadducees",
+    "t": "Ora havia sete irmãos. O primeiro tomou mulher, e morreu sem deixar filhos."
+   }
+  ],
+  "21": [
+   {
+    "s": "sadducees",
+    "t": "O segundo tomou-a, e morreu também sem deixar filhos. Da mesma sorte o terceiro."
+   }
+  ],
+  "22": [
+   {
+    "s": "sadducees",
+    "t": "Nenhum dos sete deixou filhos. Depois deles todos, morreu também a mulher."
+   }
+  ],
+  "23": [
+   {
+    "s": "sadducees",
+    "t": "Na ressurreição, pois, quando tornarem a viver, de qual deles será a mulher? Porque os sete a tiveram por mulher.\""
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Jesus respondeu-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Não estais vós em erro, porque não compreendeis as Escrituras, nem o poder de Deus?"
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "Quando ressuscitarem de entre os mortos, nem os homens tomarão mulheres, nem as mulheres homens, mas todos serão como os anjos no céu."
+   }
+  ],
+  "26": [
+   {
+    "s": "jesus",
+    "t": "Relativamente à ressurreição dos mortos, não tendes lido no livro de Moisés, como Deus lhe falou sobre a sarça, dizendo: Eu sou o Deus de Abraão, o Deus de Isaac, o Deus de Jacob?."
+   }
+  ],
+  "27": [
+   {
+    "s": "jesus",
+    "t": "Ele não é Deus dos mortos, mas dos vivos. Logo vós estais num grande erro.\""
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Então aproximou-se um dos escribas, que os tinha ouvido discutir. Vendo que Jesus lhes tinha respondido bem, perguntou-lhe:"
+   },
+   {
+    "s": "scribe-who-asks",
+    "t": "\"Qual é o primeiro de todos os mandamentos?\"",
+    "q": "Direct speech in the Portuguese; the English reports the question indirectly and gives the whole verse to the narrator"
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "Jesus respondeu-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"O primeiro de todos os mandamentos é este: Ouve, Israel! O Senhor nosso Deus é o único Senhor."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "Amarás o Senhor teu Deus com todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "O segundo é este: Amarás o teu próximo como a ti mesmo. Não há outro mandamento maior do que estes.\""
+   }
+  ],
+  "32": [
+   {
+    "s": "narrator",
+    "t": "Então o escriba disse-lhe:"
+   },
+   {
+    "s": "scribe-who-asks",
+    "t": "\"Mestre, disseste bem e com verdade que Deus é um só, e que não há outro fora dele;"
+   }
+  ],
+  "33": [
+   {
+    "s": "scribe-who-asks",
+    "t": "e que o amá-lo com todo o coração, com todo o entendimento, com toda a alma, e com todas as forças, e amar o próximo como a si mesmo, vale mais que todos os holocaustos e sacrifícios.\""
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "Vendo Jesus que tinha respondido sabiamente, disse-lhe:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Não estás longe do reino de Deus.\""
+   },
+   {
+    "s": "narrator",
+    "t": "Desde então, ninguém mais ousava interrogá-lo."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Continuando a ensinar no templo, Jesus tomou a palavra e disse:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Como dizem os escribas que o Cristo é filho de David?"
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "O mesmo David, inspirado pelo Espírito Santo, diz: Disse o Senhor ao meu Senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo de teus pés."
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "O mesmo David portanto lhe chama Senhor, como é ele pois seu filho?"
+   },
+   {
+    "s": "narrator",
+    "t": "A grande multidão o ouvia com gosto.",
+    "q": "Source text has no closing quote before this sentence; it is narration, as in the English"
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Dizia-lhes ainda nos seus ensinamentos:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Guardai-vos dos escribas, que gostam de andar com roupas largas, de serem saudados nas praças,"
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "e de ocuparem as primeiras cadeiras nas sinagogas, e os primeiros lugares nos banquetes,"
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "que devoram as casas das viúvas, sob o pretexto de longas orações. Serão julgados com maior rigor.\""
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "Estando Jesus sentado defronte do gazofilácio, observava como o povo deitava ali dinheiro. Muitos ricos deitavam em abundância."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Tendo chegado uma pobre viúva, lançou duas pequenas moedas, que valem um quarto de um asse."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "Chamando os seus discípulos, disse-lhes:"
+   },
+   {
+    "s": "jesus",
+    "t": "\"Na verdade vos digo que esta pobre viúva deu mais que todos os outros que lançaram no gazofilácio,"
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "porque todos os outros deitaram do que lhes sobejava, ela porém deitou do seu necessário tudo o que possuía, tudo o que tinha para viver.\""
+   }
+  ]
+ }
+}

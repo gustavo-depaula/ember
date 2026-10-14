@@ -1,0 +1,423 @@
+{
+ "pericopes": [
+  1,
+  25
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The storyteller of Genesis; even, unhurried."
+  },
+  "jacob": {
+   "name": "Jacob",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The younger twin; wary and shrewd, awed at Bethel, ardent for Rachel."
+  },
+  "laban": {
+   "name": "Laban",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Rebecca's brother, father of Lia and Rachel; cordial and calculating."
+  },
+  "rachel": {
+   "name": "Rachel",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "Laban's younger daughter, Jacob's beloved wife; anguished at her barrenness."
+  },
+  "leah": {
+   "name": "Lia",
+   "kind": "individual",
+   "gender": "female",
+   "age": "young",
+   "note": "Laban's elder daughter, Jacob's unloved wife; longing, grateful at each birth."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Rachel seeing herself without children, envied her sister, and said to her husband:"
+   },
+   {
+    "s": "rachel",
+    "t": "Give me children, otherwise I shall die."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And Jacob being angry with her, answered:"
+   },
+   {
+    "s": "jacob",
+    "t": "Am I as God, who hath deprived thee of the fruit of thy womb?"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "But she said:"
+   },
+   {
+    "s": "rachel",
+    "t": "I have here my servant Bala: go in unto her, that she may bear upon my knees, and I may have children by her."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And she gave him Bala in marriage: who,"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "When her husband had gone in unto her, conceived and bore a son."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And Rachel said:"
+   },
+   {
+    "s": "rachel",
+    "t": "The Lord hath judged for me, and hath heard my voice, giving me a son;"
+   },
+   {
+    "s": "narrator",
+    "t": "and therefore she called his name Dan."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And again Bala conceived, and bore another,"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "For whom Rachel said:"
+   },
+   {
+    "s": "rachel",
+    "t": "God hath compared me with my sister, and I have prevailed:"
+   },
+   {
+    "s": "narrator",
+    "t": "and she called him Nephthali."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Lia perceiving that she had left of bearing, gave Zelpha, her handmaid, to her husband."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And when she had conceived, and brought forth a son,"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "She said:"
+   },
+   {
+    "s": "leah",
+    "t": "Happily."
+   },
+   {
+    "s": "narrator",
+    "t": "And therefore called his name Gad."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Zelpha also bore another."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And Lia said:"
+   },
+   {
+    "s": "leah",
+    "t": "This is for my happiness: for women will call me blessed."
+   },
+   {
+    "s": "narrator",
+    "t": "Therefore she called him Aser."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And Ruben going out in the time of the wheat harvest into the field, found mandrakes: which he brought to his mother Lia. And Rachel said:"
+   },
+   {
+    "s": "rachel",
+    "t": "Give me part of thy son's mandrakes."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "She answered:"
+   },
+   {
+    "s": "leah",
+    "t": "Dost thou think it a small matter, that thou hast taken my husband from me, unless thou take also my son's mandrakes?"
+   },
+   {
+    "s": "narrator",
+    "t": "Rachel said:"
+   },
+   {
+    "s": "rachel",
+    "t": "He shall sleep with thee this night, for thy son's mandrakes."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And when Jacob returned at even from the field, Lia went out to meet him, and said:"
+   },
+   {
+    "s": "leah",
+    "t": "Thou shalt come in unto me, because I have hired thee for my son's mandrakes."
+   },
+   {
+    "s": "narrator",
+    "t": "And he slept with her that night."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And God heard her prayers; and she conceived: and bore a fifth son:"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And said:"
+   },
+   {
+    "s": "leah",
+    "t": "God hath given me a reward, because I gave my handmaid to my husband."
+   },
+   {
+    "s": "narrator",
+    "t": "And she called his name Issachar."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And Lia conceived again, and bore the sixth son,"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And said:"
+   },
+   {
+    "s": "leah",
+    "t": "God hath endowed me with a good dowry; this turn also my husband will be with me, because I have borne him six sons:"
+   },
+   {
+    "s": "narrator",
+    "t": "and therefore she called his name Zabulon."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "After whom she bore a daughter, named Dina."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "The Lord also remembering Rachel, heard her, and opened her womb."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And she conceived, and bore a son, saying:"
+   },
+   {
+    "s": "rachel",
+    "t": "God hath taken away my reproach."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And she called his name Joseph: saying:"
+   },
+   {
+    "s": "rachel",
+    "t": "The Lord give me also another son."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And when Joseph was born, Jacob said to his father-in-law:"
+   },
+   {
+    "s": "jacob",
+    "t": "Send me away, that I may return into my country, and to my land."
+   }
+  ],
+  "26": [
+   {
+    "s": "jacob",
+    "t": "Give me my wives, and my children, for whom I have served thee, that I may depart: thou knowest the service that I have rendered thee."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "Laban said to him:"
+   },
+   {
+    "s": "laban",
+    "t": "Let me find favour in thy sight: I have learned, by experience, that God hath blessed me for thy sake."
+   }
+  ],
+  "28": [
+   {
+    "s": "laban",
+    "t": "Appoint thy wages which I shall give thee."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "But he answered:"
+   },
+   {
+    "s": "jacob",
+    "t": "Thou knowest how I have served thee, and how great thy possession hath been in my hands."
+   }
+  ],
+  "30": [
+   {
+    "s": "jacob",
+    "t": "Thou hadst but little before I came to thee, and now thou art become rich: and the Lord hath blessed thee at my coming. It is reasonable, therefore, that I should now provide also for my own house."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And Laban said:"
+   },
+   {
+    "s": "laban",
+    "t": "What shall I give thee?"
+   },
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "jacob",
+    "t": "I require nothing; but if thou wilt do what I demand, I will feed and keep thy sheep again."
+   }
+  ],
+  "32": [
+   {
+    "s": "jacob",
+    "t": "Go round through all thy flocks, and separate all the sheep of divers colours, and speckled; and all that is brown and spotted, and of divers colours, as well among the sheep as among the goats, shall be my wages."
+   }
+  ],
+  "33": [
+   {
+    "s": "jacob",
+    "t": "And my justice shall answer for me tomorrow before thee, when the time of the bargain shall come; and all that is not of divers colours, and spotted, and brown, as well among the sheep as among the goats, shall accuse me of theft."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "And Laban said:"
+   },
+   {
+    "s": "laban",
+    "t": "I like well what thou demandest."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "And he separated the same day the she-goats, and the sheep, and the he-goats, and the rams of divers colours, and spotted; and all the flock of one colour, that is, of white and black fleece, he delivered into the hands of his sons."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "And he set the space of three days journey betwixt himself and his son-in-law, who fed the rest of his flock."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And Jacob took green rods of poplar, and of almond, and of plane-trees, and pilled them in part: so when the bark was taken off, in the parts that were pilled, there appeared whiteness: but the parts that were whole, remained green: and by this means the colour was divers."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And he put them in the troughs, where the water was poured out; that when the flocks should come to drink, they might have the rods before their eyes, and in the sight of them might conceive."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And it came to pass, that in the very heat of coition, the sheep beheld the rods, and brought forth spotted, and of divers colours, and speckled."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And Jacob separated the flock, and put the rods in the troughs before the eyes of the rams; and all the white and the black were Laban's, and the rest were Jacob's, when the flocks were separated one from the other."
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "So when the ewes went first to ram, Jacob put the rods in the troughs of water before the eyes of the rams, and of the ewes, that they might conceive while they were looking upon them."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "But when the later coming was, and the last conceiving, he did not put them. And those that were lateward, became Laban's; and they of the first time, Jacob's."
+   }
+  ],
+  "43": [
+   {
+    "s": "narrator",
+    "t": "And the man was enriched exceedingly, and he had many flocks, maid-servants and men-servants, camels and asses."
+   }
+  ]
+ }
+}

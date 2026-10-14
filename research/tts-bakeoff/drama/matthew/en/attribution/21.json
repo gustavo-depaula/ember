@@ -1,0 +1,445 @@
+{
+ "pericopes": [
+  1,
+  12,
+  18,
+  23,
+  28,
+  33
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; narrating the entry into Jerusalem, the cleansing of the temple, the fig tree and the disputes in the temple."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; calm instructions, stern in the temple, then pressing the chief priests with question and parable."
+  },
+  "crowd": {
+   "name": "The crowd",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The multitudes going before and following at the entry; jubilant shouted acclamation, then proud explanation to the city."
+  },
+  "people-of-jerusalem": {
+   "name": "The people of Jerusalem",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The stirred city as he enters; startled, asking who he is."
+  },
+  "children": {
+   "name": "Children in the temple",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "child",
+   "note": "Children crying out in the temple; bright, shouted praise."
+  },
+  "chief-priests": {
+   "name": "The chief priests, scribes and ancients",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The chief priests with the scribes and ancients in the temple; indignant and demanding, calculating among themselves, evasive, then drawn into condemning themselves."
+  },
+  "disciples": {
+   "name": "The disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Jesus' followers; astonished at the withered fig tree."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And when they drew nigh to Jerusalem and were come to Bethphage, unto mount Olivet, then Jesus sent two disciples,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Saying to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go ye into the village that is over against you: and immediately you shall find an ass tied and a colt with her. Loose them and bring them to me."
+   }
+  ],
+  "3": [
+   {
+    "s": "jesus",
+    "t": "And if any man shall say anything to you, say ye that the Lord hath need of them. And forthwith he will let them go."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "Now all this was done that it might be fulfilled which was spoken by the prophet, saying:"
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "Tell ye the daughter of Sion: Behold thy king cometh to thee, meek and sitting upon an ass and a colt, the foal of her that is used to the yoke."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And the disciples going, did as Jesus commanded them."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And they brought the ass and the colt and laid their garments upon them and made him sit thereon."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And a very great multitude spread their garments in the way: and others cut boughs from the trees and strewed them in the way."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And the multitudes that went before and that followed cried, saying:"
+   },
+   {
+    "s": "crowd",
+    "t": "Hosanna to the son of David: Blessed is he that cometh in the name of the Lord: Hosanna in the highest."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And when he was come into Jerusalem, the whole city was moved, saying:"
+   },
+   {
+    "s": "people-of-jerusalem",
+    "t": "Who is this?",
+    "q": "the whole city asks; kept apart from the multitudes who answer in v.11"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And the people said:"
+   },
+   {
+    "s": "crowd",
+    "t": "This is Jesus, the prophet from Nazareth of Galilee."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And Jesus went into the temple of God and cast out all them that sold and bought in the temple and overthrew the tables of the money changers and the chairs of them that sold doves."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And he saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "It is written, My house shall be called the house of prayer; but you have made it a den of thieves."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And there came to him the blind and the lame in the temple: and he healed them."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And the chief priests and scribes, seeing the wonderful things that he did and the children crying in the temple and saying:"
+   },
+   {
+    "s": "children",
+    "t": "Hosanna to the son of David,",
+    "q": "the children's cry is reported inside the narration; given to them as direct speech"
+   },
+   {
+    "s": "narrator",
+    "t": "were moved with indignation,"
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And said to him:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "Hearest thou what these say?"
+   },
+   {
+    "s": "narrator",
+    "t": "And Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Yea, have you never read: Out of the mouth of infants and of sucklings thou hast perfected praise?"
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And leaving them, he went out of the city into Bethania and remained here."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And in the morning, returning into the city, he was hungry."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And seeing a certain fig tree by the way side, he came to it and found nothing on it but leaves only. And he saith to it:"
+   },
+   {
+    "s": "jesus",
+    "t": "May no fruit grow on thee henceforward for ever."
+   },
+   {
+    "s": "narrator",
+    "t": "And immediately the fig tree withered away."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And the disciples seeing it wondered, saying:"
+   },
+   {
+    "s": "disciples",
+    "t": "How is it presently withered away?"
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And Jesus answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, I say to you, if you shall have faith and stagger not, not only this of the fig tree shall you do, but also if you shall say to this mountain, Take up and cast thyself into the sea, it shall be done."
+   }
+  ],
+  "22": [
+   {
+    "s": "jesus",
+    "t": "And all things whatsoever you shall ask in prayer believing, you shall receive."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And when he was come into the temple, there came to him, as he was teaching, the chief priests and ancients of the people, saying:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "By what authority dost thou these things? And who hath given thee this authority?"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Jesus answering, said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "I also will ask you one word, which if you shall tell me, I will also tell you by what authority I do these things."
+   }
+  ],
+  "25": [
+   {
+    "s": "jesus",
+    "t": "The baptism of John, whence was it? From heaven or from men?"
+   },
+   {
+    "s": "narrator",
+    "t": "But they thought within themselves, saying:"
+   }
+  ],
+  "26": [
+   {
+    "s": "chief-priests",
+    "t": "If we shall say, from heaven, he will say to us: Why then did you not believe him? But if we shall say, from men, we are afraid of the multitude: for all held John as a prophet."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And answering Jesus, they said:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "We know not."
+   },
+   {
+    "s": "narrator",
+    "t": "He also said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Neither do I tell you by what authority I do these things."
+   }
+  ],
+  "28": [
+   {
+    "s": "jesus",
+    "t": "But what think you? A certain man had two sons: and coming to the first, he said: Son, go work to day in my vineyard."
+   }
+  ],
+  "29": [
+   {
+    "s": "jesus",
+    "t": "And he answering, said: I will not. But afterwards, being moved with repentance, he went."
+   }
+  ],
+  "30": [
+   {
+    "s": "jesus",
+    "t": "And coming to the other, he said in like manner. And he answering said: I go, Sir. And he went not."
+   }
+  ],
+  "31": [
+   {
+    "s": "jesus",
+    "t": "Which of the two did the father's will?"
+   },
+   {
+    "s": "narrator",
+    "t": "They say to him:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "The first."
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen I say to you that the publicans and the harlots shall go into the kingdom of God before you."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "For John came to you in the way of justice: and you did not believe him. But the publicans and the harlots believed him: but you, seeing it, did not even afterwards repent, that you might believe him."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "Hear ye another parable. There was a man, an householder, who planted a vineyard and made a hedge round about it and dug in it a press and built a tower and let it out to husbandmen and went into a strange country."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "And when the time of the fruits drew nigh, he sent his servants to the husbandmen that they might receive the fruits thereof."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "And the husbandmen laying hands on his servants, beat one and killed another and stoned another."
+   }
+  ],
+  "36": [
+   {
+    "s": "jesus",
+    "t": "Again he sent other servants, more than the former; and they did to them in like manner."
+   }
+  ],
+  "37": [
+   {
+    "s": "jesus",
+    "t": "And last of all he sent to them his son, saying: They will reverence my son."
+   }
+  ],
+  "38": [
+   {
+    "s": "jesus",
+    "t": "But the husbandmen seeing the son, said among themselves: This is the heir: come, let us kill him, and we shall have his inheritance."
+   }
+  ],
+  "39": [
+   {
+    "s": "jesus",
+    "t": "And taking him, they cast him forth out of the vineyard and killed him."
+   }
+  ],
+  "40": [
+   {
+    "s": "jesus",
+    "t": "When therefore the lord of the vineyard shall come, what will he do to those husbandmen?"
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "They say to him:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "He will bring those evil men to an evil end and let out his vineyard to other husbandmen that shall render him the fruit in due season."
+   }
+  ],
+  "42": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Have you never read in the Scriptures: The stone which the builders rejected, the same is become the head of the corner? By the Lord this has been done; and it is wonderful in our eyes."
+   }
+  ],
+  "43": [
+   {
+    "s": "jesus",
+    "t": "Therefore I say to you that the kingdom of God shall be taken from you and shall be given to a nation yielding the fruits thereof."
+   }
+  ],
+  "44": [
+   {
+    "s": "jesus",
+    "t": "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it shall grind him to powder."
+   }
+  ],
+  "45": [
+   {
+    "s": "narrator",
+    "t": "And when the chief priests and Pharisees had heard his parables, they knew that he spoke of them."
+   }
+  ],
+  "46": [
+   {
+    "s": "narrator",
+    "t": "And seeking to lay hands on him, they feared the multitudes, because they held him as a prophet."
+   }
+  ]
+ }
+}

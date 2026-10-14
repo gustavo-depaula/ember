@@ -1,0 +1,267 @@
+{
+ "pericopes": [
+  1,
+  8,
+  28
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story; calm and unhurried."
+  },
+  "jacob": {
+   "name": "Jacob (Israel)",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "The aged patriarch, near death; frail but weighty, prophetic when he blesses."
+  },
+  "joseph-the-patriarch": {
+   "name": "Joseph",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Ruler of Egypt under Pharao; capable, tender toward his father and forgiving toward his brothers."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Jacob in a night vision; reassuring and majestic."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Israel taking his journey, with all that he had, came to the well of the oath, and killing victims there to the God of his father Isaac,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "He heard him, by a vision in the night, calling him, and saying to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Jacob, Jacob."
+   },
+   {
+    "s": "narrator",
+    "t": "And he answered him:"
+   },
+   {
+    "s": "jacob",
+    "t": "Lo, here I am."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "God said to him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I am the most mighty God of thy father; fear not, go down into Egypt, for I will make a great nation of thee there."
+   }
+  ],
+  "4": [
+   {
+    "s": "the-lord",
+    "t": "I will go down with thee thither, and will bring thee back again from thence: Joseph also shall put his hands upon thy eyes."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And Jacob rose up from the well of the oath: and his sons took him up, with their children and wives in the wagons, which Pharao had sent to carry the old man,"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And all that he had in the land of Chanaan: and he came into Egypt with all his seed;"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "His sons, and grandsons, daughters, and all his offspring together."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And these are the names of the children of Israel, that entered into Egypt, he and his children. His firstborn Ruben,"
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "The sons of Ruben: Henoch and Phallu, and Hesron and Charmi."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "The sons of Simeon: Jamuel and Jamin and Ahod, and Jachin and Sohar, and Saul, the son of a woman of Chanaan."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "The sons of Levi: Gerson and Caath, and Merari."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "The sons of Juda: Her and Onan, and Sela, and Phares and Zara. And Her and Onan died in the land of Chanaan. And sons were born to Phares: Hesron and Hamul."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "The sons of Issachar: Thola and Phua, and Job and Semron."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "The sons of Zabulon: Sared, and Elon, and Jahelel."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "These are the sons of Lia, whom she bore in Mesopotamia of Syria, with Dina, his daughter. All the souls of her sons and daughters, thirty-three."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "The sons of Gad: Sephion and Haggi, and Suni and Esebon, and Heri and Arodi, and Areli."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "The sons of Aser: Jamne and Jesua, and Jessuri and Beria, and Sara their sister. The sons of Beria: Heber and Melchiel."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "These are the sons of Zelpha, whom Laban gave to Lia, his daughter. And these she bore to Jacob, sixteen souls."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "The sons of Rachel, Jacob's wife: Joseph and Benjamin."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And sons were born to Joseph, in the land of Egypt, whom Aseneth, the daughter of Putiphare, priest of Heliopolis, bore him: Manasses and Ephraim."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "The sons of Benjamin: Bela and Bechor, and Asbel and Gera, and Naaman and Echi, and Ross and Mophim, and Ophim and Ared."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "These are the sons of Rachel, whom she bore to Jacob: all the souls, fourteen."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "The sons of Dan: Husim."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "The sons of Nephthali: Jaziel and Guni, and Jeser and Sallem."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "These are the sons of Bala, whom Laban gave to Rachel, his daughter: and these she bore to Jacob: all the souls, seven."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "All the souls that went with Jacob into Egypt, and that came out of his thigh, besides his sons' wives, sixty-six."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And the sons of Joseph, that were born to him in the land of Egypt, two souls. All the souls of the house of Jacob, that entered into Egypt, were seventy."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And he sent Juda before him to Joseph, to tell him; and that he should meet him in Gessen."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And when he was come thither, Joseph made ready his chariot, and went up to meet his father in the same place: and seeing him, he fell upon his neck, and embracing him, wept."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And the father said to Joseph:"
+   },
+   {
+    "s": "jacob",
+    "t": "Now shall I die with joy, because I have seen thy face, and leave thee alive."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And Joseph said to his brethren, and to all his father's house:"
+   },
+   {
+    "s": "joseph-the-patriarch",
+    "t": "I will go up, and will tell Pharao, and will say to him: My brethren, and my father's house, that were in the land of Chanaan, are come to me:"
+   }
+  ],
+  "32": [
+   {
+    "s": "joseph-the-patriarch",
+    "t": "And the men are shepherds, and their occupation is to feed cattle; their flocks, and herds, and all they have, they have brought with them."
+   }
+  ],
+  "33": [
+   {
+    "s": "joseph-the-patriarch",
+    "t": "And when he shall call you, and shall say: What is your occupation?"
+   }
+  ],
+  "34": [
+   {
+    "s": "joseph-the-patriarch",
+    "t": "You shall answer: We, thy servants, are shepherds, from our infancy until now, both we and our fathers. And this you shall say, that you may dwell in the land of Gessen, because the Egyptians have all shepherds in abomination."
+   }
+  ]
+ }
+}

@@ -1,0 +1,354 @@
+{
+ "pericopes": [
+  1,
+  21,
+  31,
+  36
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist; grave and intimate, the night of the Last Supper."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord at the Last Supper: tender, unhurried farewell to his own; solemn in the priestly prayer."
+  },
+  "peter": {
+   "name": "Simon Peter",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "Impetuous and devoted; protests the washing, then vows to lay down his life."
+  },
+  "john": {
+   "name": "John, the beloved disciple",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "The disciple whom Jesus loved, leaning on his breast; a quiet, close question."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "Before the festival day of the pasch, Jesus knowing that his hour was come, that he should pass out of this world to the Father: having loved his own who were in the world, he loved them unto the end."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And when supper was done (the devil having now put into the heart of Judas Iscariot, the son of Simon, to betray him),"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Knowing that the Father had given him all things into his hands and that he came from God and goeth to God,"
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "He riseth from supper and layeth aside his garments and, having taken a towel, girded himself."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "After that, he putteth water into a basin and began to wash the feet of the disciples and to wipe them with the towel wherewith he was girded."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "He cometh therefore to Simon Peter. And Peter saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Lord, dost thou wash my feet?"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered and said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "What I do, thou knowest not now; but thou shalt know hereafter."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "Peter saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Thou shalt never wash my feet,"
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus answered him:"
+   },
+   {
+    "s": "jesus",
+    "t": "If I wash thee not, thou shalt have no part with me."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Simon Peter saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Lord, not only my feet, but also my hands and my head."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "Jesus saith to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "He that is washed needeth not but to wash his feet, but is clean wholly. And you are clean, but not all."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "For he knew who he was that would betray him; therefore he said:"
+   },
+   {
+    "s": "jesus",
+    "t": "You are not all clean.",
+    "q": "the narrator repeats Jesus' words of v.10 in direct form; given to jesus as spoken words, could stay narrator"
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "Then after he had washed their feet and taken his garments, being set down again, he said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "Know you what I have done to you?"
+   }
+  ],
+  "13": [
+   {
+    "s": "jesus",
+    "t": "You call me Master and Lord. And you say well: for so I am."
+   }
+  ],
+  "14": [
+   {
+    "s": "jesus",
+    "t": "If then I being your Lord and Master, have washed your feet; you also ought to wash one another's feet."
+   }
+  ],
+  "15": [
+   {
+    "s": "jesus",
+    "t": "For I have given you an example, that as I have done to you, so you do also."
+   }
+  ],
+  "16": [
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you: The servant is not greater than his lord: neither is the apostle greater than he that sent him."
+   }
+  ],
+  "17": [
+   {
+    "s": "jesus",
+    "t": "If you know these things, you shall be blessed if you do them."
+   }
+  ],
+  "18": [
+   {
+    "s": "jesus",
+    "t": "I speak not of you all: I know whom I have chosen. But that the scripture may be fulfilled: He that eateth bread with me shall lift up his heel against me,"
+   }
+  ],
+  "19": [
+   {
+    "s": "jesus",
+    "t": "At present I tell you, before it come to pass: that when it shall come to pass, you may believe that I am he."
+   }
+  ],
+  "20": [
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you, he that receiveth whomsoever I send receiveth me: and he that receiveth me receiveth him that sent me."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "When Jesus had said these things, he was troubled in spirit; and he testified, and said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Amen, amen, I say to you, one of you shall betray me."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "The disciples therefore looked one upon another, doubting of whom he spoke."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Now there was leaning on Jesus' bosom one of his disciples, whom Jesus loved."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "Simon Peter therefore beckoned to him and said to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Who is it of whom he speaketh?"
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "He therefore, leaning on the breast of Jesus, saith to him:"
+   },
+   {
+    "s": "john",
+    "t": "Lord, who is it?"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "He it is to whom I shall reach bread dipped."
+   },
+   {
+    "s": "narrator",
+    "t": "And when he had dipped the bread, he gave it to Judas Iscariot, the son of Simon."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And after the morsel, Satan entered into him. And Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "That which thou dost, do quickly."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "Now no man at the table knew to what purpose he said this unto him."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "For some thought, because Judas had the purse, that Jesus had said to him: Buy those things which we have need of for the festival day: or that he should give something to the poor.",
+    "q": "words some supposed Jesus had said (Buy those things...): a conjecture trailing into indirect speech, never actually spoken, so kept as narration"
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "He therefore, having received the morsel, went out immediately. And it was night."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "When he therefore was gone out, Jesus said:"
+   },
+   {
+    "s": "jesus",
+    "t": "Now is the Son of man glorified; and God is glorified in him."
+   }
+  ],
+  "32": [
+   {
+    "s": "jesus",
+    "t": "If God be glorified in him, God also will glorify him in himself: and immediately will he glorify him."
+   }
+  ],
+  "33": [
+   {
+    "s": "jesus",
+    "t": "Little children, yet a little while I am with you. You shall seek me. And as I said to the Jews: Whither I go you cannot come; so I say to you now."
+   }
+  ],
+  "34": [
+   {
+    "s": "jesus",
+    "t": "A new commandment I give unto you: That you love one another, as I have loved you, that you also love one another."
+   }
+  ],
+  "35": [
+   {
+    "s": "jesus",
+    "t": "By this shall all men know that you are my disciples, if you have love one for another."
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "Simon Peter saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Lord, whither goest thou?"
+   },
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "Whither I go, thou canst not follow me now: but thou shalt follow hereafter."
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "Peter saith to him:"
+   },
+   {
+    "s": "peter",
+    "t": "Why cannot I follow thee now? I will lay down my life for thee."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Wilt thou lay down thy life for me? Amen, amen, I say to thee, the cock shall not crow, till thou deny me thrice."
+   }
+  ]
+ }
+}

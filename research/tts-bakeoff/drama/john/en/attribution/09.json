@@ -1,0 +1,499 @@
+{
+ "pericopes": [
+  1,
+  13,
+  35
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist telling the story."
+  },
+  "jesus": {
+   "name": "Jesus",
+   "kind": "individual",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Lord; calm authority, tender with the afflicted, grave in discourse."
+  },
+  "man-born-blind": {
+   "name": "The man born blind",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Beggar healed at Siloe; plain, increasingly bold and wry before his interrogators, then adoring."
+  },
+  "the-jews": {
+   "name": "The Jews",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Judean authorities and their party; hostile, pressing, sometimes merely onlookers."
+  },
+  "pharisees": {
+   "name": "Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Strict teachers of the law; censorious, stung."
+  },
+  "other-pharisees": {
+   "name": "Other Pharisees",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The dissenting Pharisees, puzzled by the miracle."
+  },
+  "neighbours": {
+   "name": "Neighbours",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Neighbours of the blind beggar; astonished, curious."
+  },
+  "other-neighbours": {
+   "name": "Other neighbours",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "Neighbours who doubt it is the same man."
+  },
+  "parents-of-blind-man": {
+   "name": "Parents of the blind man",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "old",
+   "note": "His father and mother; frightened, evasive before the authorities."
+  },
+  "disciples": {
+   "name": "Disciples",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "The Twelve; questioning, anxious for their master."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And Jesus passing by, saw a man who was blind from his birth."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And his disciples asked him:"
+   },
+   {
+    "s": "disciples",
+    "t": "Rabbi, who hath sinned, this man or his parents, that he should be born blind?"
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "Jesus answered:"
+   },
+   {
+    "s": "jesus",
+    "t": "Neither hath this man sinned, nor his parents; but that the works of God should be made manifest in him."
+   }
+  ],
+  "4": [
+   {
+    "s": "jesus",
+    "t": "I must work the works of him that sent me, whilst it is day: the night cometh, when no man can work."
+   }
+  ],
+  "5": [
+   {
+    "s": "jesus",
+    "t": "As long as I am in the world, I am the light of the world."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "When he had said these things, he spat on the ground and made clay of the spittle and spread the clay upon his eyes,"
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Go, wash in the pool of Siloe,"
+   },
+   {
+    "s": "narrator",
+    "t": "which is interpreted, Sent. He went therefore and washed: and he came seeing."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "The neighbours, therefore, and they who had seen him before that he was a beggar, said:"
+   },
+   {
+    "s": "neighbours",
+    "t": "Is not this he that sat and begged?"
+   },
+   {
+    "s": "narrator",
+    "t": "Some said:"
+   },
+   {
+    "s": "neighbours",
+    "t": "This is he."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "But others said:"
+   },
+   {
+    "s": "other-neighbours",
+    "t": "No, but he is like him.",
+    "q": "\"others\" of the neighbours contradict the first; given a second group voice"
+   },
+   {
+    "s": "narrator",
+    "t": "But he said:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "I am he."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "They said therefore to him:"
+   },
+   {
+    "s": "neighbours",
+    "t": "How were thy eyes opened?"
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "He answered:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "That man that is called Jesus made clay and anointed my eyes and said to me: Go to the pool of Siloe and wash. And I went: I washed: and I see."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And they said to him:"
+   },
+   {
+    "s": "neighbours",
+    "t": "Where is he?"
+   },
+   {
+    "s": "narrator",
+    "t": "He saith:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "I know not."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "They bring him that had been blind to the Pharisees."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Now it was the sabbath, when Jesus made the clay and opened his eyes."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "Again therefore the Pharisees asked him how he had received his sight. But he said to them:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "He put clay upon my eyes: and I washed: and I see."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Some therefore of the Pharisees said:"
+   },
+   {
+    "s": "pharisees",
+    "t": "This man is not of God, who keepeth not the sabbath."
+   },
+   {
+    "s": "narrator",
+    "t": "But others said:"
+   },
+   {
+    "s": "other-pharisees",
+    "t": "How can a man that is a sinner do such miracles?",
+    "q": "the dissenting Pharisees; second group voice so the division is audible"
+   },
+   {
+    "s": "narrator",
+    "t": "And there was a division among them."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "They say therefore to the blind man again:"
+   },
+   {
+    "s": "pharisees",
+    "t": "What sayest thou of him that hath opened thy eyes?"
+   },
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "He is a prophet."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "The Jews then did not believe concerning him, that he had been blind and had received his sight, until they called the parents of him that had received his sight,"
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And asked them, saying:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Is this your son, who you say was born blind? How then doth he now see?",
+    "q": "v18 calls the interrogators \"the Jews\" although they are the Pharisees of v13-17; followed the wording through v34"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "His parents answered them and said:"
+   },
+   {
+    "s": "parents-of-blind-man",
+    "t": "We know that this is our son and that he was born blind:"
+   }
+  ],
+  "21": [
+   {
+    "s": "parents-of-blind-man",
+    "t": "But how he now seeth, we know not: or who hath opened his eyes, we know not. Ask himself: he is of age: Let him speak for himself."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "These things his parents said, because they feared the Jews: for the Jews had already agreed among themselves that if any man should confess him to be Christ, he should be put out of the synagogue."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "Therefore did his parents say:"
+   },
+   {
+    "s": "parents-of-blind-man",
+    "t": "He is of age. Ask himself.",
+    "q": "narrator citing the parents' words again; kept as direct speech"
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "They therefore called the man again that had been blind and said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Give glory to God. We know that this man is a sinner."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "He said therefore to them:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "If he be a sinner, I know not. One thing I know, that whereas I was blind. now I see."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "They said then to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "What did he to thee? How did he open thy eyes?"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "He answered them:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "I have told you already, and you have heard. Why would you hear it again? Will you also become his disciples?"
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "They reviled him therefore and said:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Be thou his disciple; but we are the disciples of Moses."
+   }
+  ],
+  "29": [
+   {
+    "s": "the-jews",
+    "t": "We know that God spoke to Moses: but as to this man, we know not from whence he is."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "The man answered and said to them:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "why, herein is a wonderful thing, that you know not from whence he is, and he hath opened my eyes."
+   }
+  ],
+  "31": [
+   {
+    "s": "man-born-blind",
+    "t": "Now we know that God doth not hear sinners: but if a man be a server of God and doth his, will, him he heareth."
+   }
+  ],
+  "32": [
+   {
+    "s": "man-born-blind",
+    "t": "From the beginning of the world it hath not been heard, that any man hath opened the eyes of one born blind."
+   }
+  ],
+  "33": [
+   {
+    "s": "man-born-blind",
+    "t": "Unless this man were of God, he could not do anything."
+   }
+  ],
+  "34": [
+   {
+    "s": "narrator",
+    "t": "They answered and said to him:"
+   },
+   {
+    "s": "the-jews",
+    "t": "Thou wast wholly born in sins; and dost thou teach us?"
+   },
+   {
+    "s": "narrator",
+    "t": "And they cast him out."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "Jesus heard that they had cast him out. And when he had found him, he said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Dost thou believe in the Son of God?"
+   }
+  ],
+  "36": [
+   {
+    "s": "narrator",
+    "t": "He answered, and said:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "Who is he, Lord, that I may believe in him?"
+   }
+  ],
+  "37": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said to him:"
+   },
+   {
+    "s": "jesus",
+    "t": "Thou hast both seen him; and it is he that talketh with thee."
+   }
+  ],
+  "38": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "man-born-blind",
+    "t": "I believe, Lord."
+   },
+   {
+    "s": "narrator",
+    "t": "And falling down, he adored him."
+   }
+  ],
+  "39": [
+   {
+    "s": "narrator",
+    "t": "And Jesus said:"
+   },
+   {
+    "s": "jesus",
+    "t": "For judgment I am come into this world: that they who see not may see; and they who see may become blind."
+   }
+  ],
+  "40": [
+   {
+    "s": "narrator",
+    "t": "And some of the Pharisees, who were with him, heard: and they said unto him:"
+   },
+   {
+    "s": "pharisees",
+    "t": "Are we also blind?"
+   }
+  ],
+  "41": [
+   {
+    "s": "narrator",
+    "t": "Jesus said to them:"
+   },
+   {
+    "s": "jesus",
+    "t": "If you were blind, you should not have sin: but now you say: We see. Your sin remaineth."
+   }
+  ]
+ }
+}

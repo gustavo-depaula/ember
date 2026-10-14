@@ -1,0 +1,338 @@
+{
+ "pericopes": [
+  1,
+  7,
+  15,
+  25,
+  30
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of Israel at Sinai; steady and grave."
+  },
+  "the-lord": {
+   "name": "The Lord",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking to Moses on Sinai; majestic and sovereign, angered at the calf, then merciful."
+  },
+  "moses": {
+   "name": "Moses",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Leader and lawgiver of Israel, past eighty; bold intercessor before God, stern with the people."
+  },
+  "aaron": {
+   "name": "Aaron",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Moses' elder brother, the priest; yielding to the people, then evasive and excusing himself."
+  },
+  "israelites": {
+   "name": "The Israelites",
+   "kind": "group",
+   "gender": "mixed",
+   "age": "adult",
+   "note": "The people speaking together; impatient and clamorous, demanding gods and hailing the calf."
+  },
+  "joshua": {
+   "name": "Joshua",
+   "kind": "individual",
+   "gender": "male",
+   "age": "young",
+   "note": "Josue son of Nun, Moses' young servant; a soldier's alarm at the noise from the camp."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "And the people seeing that Moses delayed to come down from the mount, gathering together against Aaron, said:"
+   },
+   {
+    "s": "israelites",
+    "t": "Arise, make us gods, that may go before us: For as to this Moses, the man that brought us out of the land of Egypt, we know not what has befallen him."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And Aaron said to them:"
+   },
+   {
+    "s": "aaron",
+    "t": "Take the golden earrings from the ears of your wives, and your sons and daughters, and bring them to me."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And the people did what he had commanded, bringing the earrings to Aaron."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And when he had received them, he fashioned them by founders' work, and made of them a molten calf. And they said:"
+   },
+   {
+    "s": "israelites",
+    "t": "These are thy gods, O Israel, that have brought thee out of the land of Egypt."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And when Aaron saw this, he built an altar before it, and made proclamation by a crier's voice, saying"
+   },
+   {
+    "s": "aaron",
+    "t": "To morrow is the solemnity of the Lord.",
+    "q": "proclaimed 'by a crier's voice' but the words are Aaron's proclamation; given to Aaron rather than a separate crier"
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And rising in the morning, they offered holocausts, and peace victims, and the people sat down to eat and drink, and they rose up to play."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And the Lord spoke to Moses, saying:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Go, get thee down: thy people, which thou hast brought out of the land of Egypt, hath sinned."
+   }
+  ],
+  "8": [
+   {
+    "s": "the-lord",
+    "t": "They have quickly strayed from the way which thou didst shew them: and they have made to themselves a molten calf, and have adored it, and sacrificing victims to it, have said: These are thy gods, O Israel, that have brought thee out of the land of Egypt."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "And again the Lord said to Moses:"
+   },
+   {
+    "s": "the-lord",
+    "t": "I see that this people is stiffnecked:"
+   }
+  ],
+  "10": [
+   {
+    "s": "the-lord",
+    "t": "Let me alone, that my wrath may be kindled against them, and that I may destroy them, and I will make of thee a great nation."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "But Moses besought the Lord his God, saying:"
+   },
+   {
+    "s": "moses",
+    "t": "Why, O Lord, is thy indignation enkindled against thy people, whom thou hast brought out of the land of Egypt, with great power, and with a mighty hand?"
+   }
+  ],
+  "12": [
+   {
+    "s": "moses",
+    "t": "Let not the Egyptians say, I beseech thee: He craftily brought them out, that he might kill them in the mountains, and destroy them from the earth: let thy anger cease, and be appeased upon the wickedness of thy people."
+   }
+  ],
+  "13": [
+   {
+    "s": "moses",
+    "t": "Remember Abraham, Isaac, and Israel, thy servants, to whom thou sworest by thy own self, saying: I will multiply your seed as the stars of heaven: and this whole land that I have spoken of, I will give to your seed, and you shall possess it for ever:"
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And the Lord was appeased from doing the evil which he had spoken against his people."
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "And Moses returned from the mount, carrying the two tables of the testimony in his hand, written on both sides,"
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And made by the work of God; the writing also of God was graven in the tables."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And Josue hearing the noise of the people shouting, said to Moses:"
+   },
+   {
+    "s": "joshua",
+    "t": "The noise of battle is heard in the camp."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "But he answered:"
+   },
+   {
+    "s": "moses",
+    "t": "It is not the cry of men encouraging to fight, nor the shout of men compelling to flee: but I hear the voice of singers."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And when he came nigh to the camp, he saw the calf, and the dances: and being very angry, he threw the tables out of his hand, and broke them at the foot of the mount:"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "And laying hold of the calf which they had made, he burnt it, and beat it to powder, which he strewed into water, and gave thereof to the children of Israel to drink."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And he said to Aaron:"
+   },
+   {
+    "s": "moses",
+    "t": "What has this people done to thee, that thou shouldst bring upon them a most heinous sin?"
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And he answered him:"
+   },
+   {
+    "s": "aaron",
+    "t": "Let not my lord be offended; for thou knowest this people, that they are prone to evil."
+   }
+  ],
+  "23": [
+   {
+    "s": "aaron",
+    "t": "They said to me: make us gods, that may go before us; for as to this Moses, who brought us forth out of the land of Egypt, we know not what is befallen him."
+   }
+  ],
+  "24": [
+   {
+    "s": "aaron",
+    "t": "And I said to them: Which of you hath any gold? and they took and brought it to me; and I cast it into the fire, and this calf came out."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And when Moses saw that the people were naked, (for Aaron had stripped them by occasion of the shame of the filth, and had set them naked among their enemies)"
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "Then standing in the gate of the camp, he said:"
+   },
+   {
+    "s": "moses",
+    "t": "If any man be on the Lord's side, let him join with me."
+   },
+   {
+    "s": "narrator",
+    "t": "And all the sons of Levi gathered themselves together unto him:"
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And he said to them:"
+   },
+   {
+    "s": "moses",
+    "t": "Thus saith the Lord God of Israel: Put every man his sword upon his thigh: go, and return from gate to gate through the midst of the camp, and let every man kill his brother, and friend, and neighbour."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And the sons of Levi did according to the words of Moses, and there were slain that day about three and twenty thousand men."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And Moses said:"
+   },
+   {
+    "s": "moses",
+    "t": "You have consecrated your hands this day to the Lord, every man in his son and in his brother, that a blessing may be given to you."
+   }
+  ],
+  "30": [
+   {
+    "s": "narrator",
+    "t": "And when the next day was come, Moses spoke to the people:"
+   },
+   {
+    "s": "moses",
+    "t": "You have sinned a very great sin: I will go up to the Lord, if by any means I may be able to entreat him for your crime."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And returning to the Lord, he said:"
+   },
+   {
+    "s": "moses",
+    "t": "I beseech thee: this people hath sinned a heinous sin, and they have made to themselves gods of gold: either forgive them this trespass,"
+   }
+  ],
+  "32": [
+   {
+    "s": "moses",
+    "t": "Or if thou do not, strike me out of the book that thou hast written."
+   }
+  ],
+  "33": [
+   {
+    "s": "narrator",
+    "t": "And the Lord answered him:"
+   },
+   {
+    "s": "the-lord",
+    "t": "He that hath sinned against me, him will I strike out of my book:"
+   }
+  ],
+  "34": [
+   {
+    "s": "the-lord",
+    "t": "But go thou, and lead this people whither I have told thee: my angel shall go before thee. And I in the day of revenge will visit this sin also of theirs."
+   }
+  ],
+  "35": [
+   {
+    "s": "narrator",
+    "t": "The Lord therefore struck the people for the guilt, on occasion of the calf which Aaron had made."
+   }
+  ]
+ }
+}

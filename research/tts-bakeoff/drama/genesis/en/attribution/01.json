@@ -1,0 +1,282 @@
+{
+ "pericopes": [
+  1,
+  6,
+  9,
+  14,
+  20,
+  24
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "Tells the story of the beginnings: measured, solemn, unhurried."
+  },
+  "the-lord": {
+   "name": "The Lord God",
+   "kind": "divine",
+   "gender": "male",
+   "age": "adult",
+   "note": "God speaking: the Creator's commands, calm and sovereign, each one bringing a thing into being."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "In the beginning God created heaven, and earth."
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "And the earth was void and empty, and darkness was upon the face of the deep; and the spirit of God moved over the waters."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And God said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Be light made."
+   },
+   {
+    "s": "narrator",
+    "t": "And light was made."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And God saw the light that it was good; and he divided the light from the darkness."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "And he called the light Day, and the darkness Night; and there was evening and morning one day."
+   }
+  ],
+  "6": [
+   {
+    "s": "narrator",
+    "t": "And God said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Let there be a firmament made amidst the waters: and let it divide the waters from the waters."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "And God made a firmament, and divided the waters that were under the firmament, from those that were above the firmament, and it was so."
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And God called the firmament, Heaven; and the evening and morning were the second day."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "God also said;"
+   },
+   {
+    "s": "the-lord",
+    "t": "Let the waters that are under the heaven, be gathered together into one place: and let the dry land appear."
+   },
+   {
+    "s": "narrator",
+    "t": "And it was so done."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And God called the dry land, Earth; and the gathering together of the waters, he called Seas. And God saw that it was good."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "let the earth bring forth green herb, and such as may seed, and the fruit tree yielding fruit after its kind, which may have seed in itself upon the earth."
+   },
+   {
+    "s": "narrator",
+    "t": "And it was so done."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And the earth brought forth the green herb, and such as yieldeth seed according to its kind, and the tree that beareth fruit, having seed each one according to its kind. And God saw that it was good."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And the evening and the morning were the third day."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "And God said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Let there be lights made in the firmament of heaven, to divide the day and the night, and let them be for signs, and for seasons, and for days and years:"
+   }
+  ],
+  "15": [
+   {
+    "s": "the-lord",
+    "t": "To shine in the firmament of heaven, and to give light upon the earth,"
+   },
+   {
+    "s": "narrator",
+    "t": "and it was so done."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "And God made two great lights: a greater light to rule the day; and a lesser light to rule the night: and the stars."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "And he set them in the firmament of heaven to shine upon the earth."
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "And to rule the day and the night, and to divide the light and the darkness. And God saw that it was good."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "And the evening and morning were the fourth day."
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "God also said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "let the waters bring forth the creeping creature having life, and the fowl that may fly over the earth under the firmament of heaven."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "And God created the great whales, and every living and moving creature, which the waters brought forth, according to their kinds, and every winged fowl according to its kind. And God saw that it was good."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "And he blessed them, saying:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Increase and multiply, and fill the waters of the sea: and let the birds be multiplied upon the earth."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And the evening and morning were the fifth day."
+   }
+  ],
+  "24": [
+   {
+    "s": "narrator",
+    "t": "And God said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Let the earth bring forth the living creature in its kind, cattle and creeping things, and beasts of the earth, according to their kinds."
+   },
+   {
+    "s": "narrator",
+    "t": "And it was so done."
+   }
+  ],
+  "25": [
+   {
+    "s": "narrator",
+    "t": "And God made the beasts of the earth according to their kinds, and cattle, and every thing that creepeth on the earth after its kind. And God saw that it was good."
+   }
+  ],
+  "26": [
+   {
+    "s": "narrator",
+    "t": "And he said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Let us make man to our image and likeness: and let him have dominion over the fishes of the sea, and the fowls of the air, and the beasts, and the whole earth, and every creeping creature that moveth upon the earth."
+   }
+  ],
+  "27": [
+   {
+    "s": "narrator",
+    "t": "And God created man to his own image: to the image of God he created him: male and female he created them."
+   }
+  ],
+  "28": [
+   {
+    "s": "narrator",
+    "t": "And God blessed them, saying:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Increase and multiply, and fill the earth, and subdue it, and rule over the fishes of the sea, and the fowls of the air, and all living creatures that move upon the earth."
+   }
+  ],
+  "29": [
+   {
+    "s": "narrator",
+    "t": "And God said:"
+   },
+   {
+    "s": "the-lord",
+    "t": "Behold I have given you every herb bearing seed upon the earth, and all trees that have in themselves seed of their own kind, to be your meat:"
+   }
+  ],
+  "30": [
+   {
+    "s": "the-lord",
+    "t": "And to all beasts of the earth, and to every fowl of the air, and to all that move upon the earth, and wherein there is life, that they may have to feed upon."
+   },
+   {
+    "s": "narrator",
+    "t": "And it was so done."
+   }
+  ],
+  "31": [
+   {
+    "s": "narrator",
+    "t": "And God saw all the things that he had made, and they were very good. And the evening and morning were the sixth day."
+   }
+  ]
+ }
+}

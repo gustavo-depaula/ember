@@ -1,0 +1,207 @@
+{
+ "pericopes": [
+  1,
+  13,
+  16,
+  19
+ ],
+ "cast": {
+  "narrator": {
+   "name": "Narrator",
+   "kind": "narrator",
+   "gender": "male",
+   "age": "adult",
+   "note": "The evangelist Matthew: orderly, solemn storyteller, attentive to the fulfilment of the prophets."
+  },
+  "angel": {
+   "name": "Angel of the Lord",
+   "kind": "angel",
+   "gender": "male",
+   "age": "adult",
+   "note": "The angel who appears to Joseph in sleep; calm, reassuring, commanding."
+  },
+  "magi": {
+   "name": "The wise men",
+   "kind": "group",
+   "gender": "male",
+   "age": "adult",
+   "note": "Wise men from the East arriving in Jerusalem; dignified, eager, openly asking for the newborn king."
+  },
+  "chief-priests": {
+   "name": "The chief priests and scribes",
+   "kind": "group",
+   "gender": "male",
+   "age": "old",
+   "note": "The chief priests and scribes of the people assembled by Herod; learned, answering readily from the prophet."
+  },
+  "herod-the-great": {
+   "name": "King Herod",
+   "kind": "individual",
+   "gender": "male",
+   "age": "old",
+   "note": "Herod the Great, king at the birth of Jesus (not Herod Antipas); troubled and cunning, feigning piety to the wise men."
+  }
+ },
+ "verses": {
+  "1": [
+   {
+    "s": "narrator",
+    "t": "When Jesus therefore was born in Bethlehem of Juda, in the days of king Herod, behold, there came wise men from the East to Jerusalem,"
+   }
+  ],
+  "2": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "magi",
+    "t": "Where is he that is born king of the Jews? For we have seen his star in the East, and are come to adore him."
+   }
+  ],
+  "3": [
+   {
+    "s": "narrator",
+    "t": "And king Herod hearing this, was troubled, and all Jerusalem with him."
+   }
+  ],
+  "4": [
+   {
+    "s": "narrator",
+    "t": "And assembling together all the chief priests and the scribes of the people, he inquired of them where Christ should be born."
+   }
+  ],
+  "5": [
+   {
+    "s": "narrator",
+    "t": "But they said to him:"
+   },
+   {
+    "s": "chief-priests",
+    "t": "In Bethlehem of Juda. For so it is written by the prophet:"
+   }
+  ],
+  "6": [
+   {
+    "s": "chief-priests",
+    "t": "And thou Bethlehem the land of Juda art not the least among the princes of Juda: for out of thee shall come forth the captain that shall rule my people Israel.",
+    "q": "The prophecy is read as the continuation of the priests' answer (\"For so it is written\"), not as the evangelist's own citation."
+   }
+  ],
+  "7": [
+   {
+    "s": "narrator",
+    "t": "Then Herod, privately calling the wise men learned diligently of them the time of the star which appeared to them;"
+   }
+  ],
+  "8": [
+   {
+    "s": "narrator",
+    "t": "And sending them into Bethlehem, said:"
+   },
+   {
+    "s": "herod-the-great",
+    "t": "Go and diligently inquire after the child, and when you have found him, bring me word again, that I also may come and adore him.",
+    "q": "Herod the Great, a different man from the `herod` (Antipas) of Mark and Luke, so a separate id."
+   }
+  ],
+  "9": [
+   {
+    "s": "narrator",
+    "t": "Who having heard the king, went their way; and behold the star which they had seen in the East, went before them, until it came and stood over where the child was."
+   }
+  ],
+  "10": [
+   {
+    "s": "narrator",
+    "t": "And seeing the star they rejoiced with exceeding great joy."
+   }
+  ],
+  "11": [
+   {
+    "s": "narrator",
+    "t": "And entering into the house, they found the child with Mary his mother, and falling down they adored him: and opening their treasures, they offered him gifts; gold, frankincense, and myrrh."
+   }
+  ],
+  "12": [
+   {
+    "s": "narrator",
+    "t": "And having received an answer in sleep that they should not return to Herod, they went back another way into their country."
+   }
+  ],
+  "13": [
+   {
+    "s": "narrator",
+    "t": "And after they were departed, behold an angel of the Lord appeared in sleep to Joseph, saying:"
+   },
+   {
+    "s": "angel",
+    "t": "Arise, and take the child and his mother, and fly into Egypt: and be there until I shall tell thee. For it will come to pass that Herod will seek the child to destroy him."
+   }
+  ],
+  "14": [
+   {
+    "s": "narrator",
+    "t": "Who arose, and took the child and his mother by night, and retired into Egypt: and he was there until the death of Herod:"
+   }
+  ],
+  "15": [
+   {
+    "s": "narrator",
+    "t": "That it might be fulfilled which the Lord spoke by the prophet, saying: Out of Egypt have I called my son."
+   }
+  ],
+  "16": [
+   {
+    "s": "narrator",
+    "t": "Then Herod perceiving that he was deluded by the wise men, was exceeding angry: and sending killed all the menchildren that were in Bethlehem, and in all the borders thereof, from two years old and under, according to the time which he had diligently inquired of the wise men."
+   }
+  ],
+  "17": [
+   {
+    "s": "narrator",
+    "t": "Then was fulfilled that which was spoken by Jeremias the prophet, saying:"
+   }
+  ],
+  "18": [
+   {
+    "s": "narrator",
+    "t": "A voice in Rama was heard, lamentation and great mourning; Rachel bewailing her children, and would not be comforted, because they are not."
+   }
+  ],
+  "19": [
+   {
+    "s": "narrator",
+    "t": "But when Herod was dead, behold an angel of the Lord appeared in sleep to Joseph in Egypt,"
+   }
+  ],
+  "20": [
+   {
+    "s": "narrator",
+    "t": "Saying:"
+   },
+   {
+    "s": "angel",
+    "t": "Arise, and take the child and his mother, and go into the land of Israel. For they are dead that sought the life of the child."
+   }
+  ],
+  "21": [
+   {
+    "s": "narrator",
+    "t": "Who arose, and took the child and his mother, and came into the land of Israel."
+   }
+  ],
+  "22": [
+   {
+    "s": "narrator",
+    "t": "But hearing that Archclaus reigned in Judea in the room of Herod his father, he was afraid to go thither: and being warned in sleep retired into the quarters of Galilee."
+   }
+  ],
+  "23": [
+   {
+    "s": "narrator",
+    "t": "And coming he dwelt in a city called Nazareth: that it might be fulfilled which was said by the prophets: That he shall be called a Nazarene."
+   }
+  ]
+ }
+}
