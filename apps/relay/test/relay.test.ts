@@ -221,4 +221,24 @@ describe('usage', () => {
     const row = await env.DB.prepare('SELECT name, props FROM analytics').first()
     expect(row).toEqual({ name: 'practice_prayed', props: '{"practice":"practice/rosary"}' })
   })
+
+  it('keeps the hour and the update when the app sends them, and goes without', async () => {
+    const batch = { install: 'install-2', platform: 'ios', version: '1.1.0', language: 'en-US' }
+    await call('/analytics', 'POST', {
+      ...batch,
+      build: '2026-10-14T09:30',
+      events: [{ name: 'app_opened', day: '2026-10-14', hour: 6 }],
+    })
+    await call('/analytics', 'POST', {
+      ...batch,
+      events: [{ name: 'app_opened', day: '2026-10-14' }],
+    })
+    const { results } = await env.DB.prepare(
+      "SELECT hour, build FROM analytics WHERE install = 'install-2' ORDER BY id",
+    ).all()
+    expect(results).toEqual([
+      { hour: 6, build: '2026-10-14T09:30' },
+      { hour: null, build: null },
+    ])
+  })
 })

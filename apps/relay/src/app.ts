@@ -397,12 +397,14 @@ const app = new Hono<{ Bindings: Env; Variables: Vars }>()
         platform: z.string().max(16),
         version: z.string().max(32),
         language: z.string().max(16),
+        build: z.string().max(32).optional(),
         events: z
           .array(
             z.object({
               name: z.string().max(64),
               props: z.record(z.string().max(32), z.string().max(200)).optional(),
               day: z.string().length(10),
+              hour: z.number().int().min(0).max(23).optional(),
             }),
           )
           .max(200),
@@ -412,12 +414,19 @@ const app = new Hono<{ Bindings: Env; Variables: Vars }>()
       const body = c.req.valid('json')
       if (!(await c.env.LIMITER.limit({ key: body.install })).success) return c.json({}, 429)
       await c.env.DB.prepare(
-        `INSERT INTO analytics (day, install, platform, version, language, name, props)
-          SELECT json_extract(value, '$.day'), ?, ?, ?, ?, json_extract(value, '$.name'),
-                 json_extract(value, '$.props')
+        `INSERT INTO analytics (day, install, platform, version, language, build, name, props, hour)
+          SELECT json_extract(value, '$.day'), ?, ?, ?, ?, ?, json_extract(value, '$.name'),
+                 json_extract(value, '$.props'), json_extract(value, '$.hour')
           FROM json_each(?)`,
       )
-        .bind(body.install, body.platform, body.version, body.language, JSON.stringify(body.events))
+        .bind(
+          body.install,
+          body.platform,
+          body.version,
+          body.language,
+          body.build ?? null,
+          JSON.stringify(body.events),
+        )
         .run()
       return c.json({})
     },

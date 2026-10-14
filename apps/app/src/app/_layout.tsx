@@ -63,7 +63,7 @@ import {
   setupNotifications,
 } from '@/lib/notifications'
 import { startStallMonitor } from '@/lib/stallMonitor'
-import { startUsage, track } from '@/lib/usage'
+import { corpusRef, startUsage, track } from '@/lib/usage'
 import { useBibleStore } from '@/stores/bibleStore'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -130,11 +130,15 @@ function Usage() {
   const route = useSegments()
     .filter((segment) => !segment.startsWith('('))
     .join('/')
-  const { manifestId, bookId } = useGlobalSearchParams<{ manifestId?: string; bookId?: string }>()
-  const id = manifestId ?? bookId
+  const params = useGlobalSearchParams<{
+    manifestId?: string
+    practiceId?: string
+    bookId?: string
+  }>()
+  const id = corpusRef(params.manifestId ?? params.practiceId ?? params.bookId)
   useEffect(() => startUsage(), [])
   useEffect(() => {
-    track('screen', { route: `/${route}`, ...(typeof id === 'string' ? { id } : {}) })
+    track('screen', { route: `/${route}`, ...(id ? { id } : {}) })
   }, [route, id])
   return null
 }

@@ -36,7 +36,11 @@ export type AnalyticsBatch = {
   platform: string
   version: string
   language: string
-  events: { name: string; props?: Record<string, string>; day: string }[]
+  // The update the app runs: when it was published, or 'embedded' for the
+  // JavaScript the binary shipped with.
+  build?: string
+  // `day` and `hour` are the device's own, so a habit reads in its owner's time.
+  events: { name: string; props?: Record<string, string>; day: string; hour?: number }[]
 }
 
 export const maxEventsPerPush = 200
