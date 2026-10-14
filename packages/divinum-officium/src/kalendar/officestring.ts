@@ -52,15 +52,17 @@ export async function officestring(
     m = Number(md[1])
     w = Number(md[2])
   }
-  const weeks = ['I.', 'II.', 'III.', 'IV.', 'V.']
   let mStr: string | number = m
   let wStr: string | number = w
+  const comment = await setupstring(langSession, 'Psalterium/Comment')
   if (m) {
-    const comment = await setupstring(langSession, 'Psalterium/Comment')
     const months = (comment?.Menses ?? '').split('\n')
     mStr = months[m - 8] ?? ''
   }
-  if (w) wStr = weeks[w - 1] ?? ''
+  if (w) {
+    const weeks = (comment?.Hebdomadae ?? '').split('\n')
+    wStr = weeks[w - 1] ?? ''
+  }
   rank[0] = `${rank[0] ?? ''} ${wStr} ${mStr}`
   s.Rank = rank.join(';;')
 

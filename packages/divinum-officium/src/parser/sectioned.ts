@@ -63,8 +63,7 @@ export function isPlainPath(path: string): boolean {
     path.startsWith('Tabulae/') ||
     path.startsWith('horas/Ordinarium/') ||
     path.includes('/Psalterium/Psalmorum/') ||
-    path.includes('/Regula/') ||
-    (/\/Martyrologium[^/]*\//.test(path) && !/\/Mobile(\.txt)?$/.test(path))
+    path.includes('/Regula/')
   )
 }
 

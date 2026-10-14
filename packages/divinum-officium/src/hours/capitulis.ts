@@ -199,7 +199,13 @@ async function getPrimaResponsory(state: HoursState, lang: string): Promise<stri
   if (/196/.test(version) && month === 12 && day > 8 && day < 16 && day !== 12) {
     key = 'Adv'
   }
-  if (/196/.test(version) && /Corp|Heart/.test(key)) key = ''
+  if (
+    /196/.test(version) &&
+    (/Corp|Heart/.test(key) ||
+      (/Nat/.test(key) && /Dominica.*Post Pente/i.test(state.day.winnerSections.Rank ?? '')))
+  ) {
+    key = ''
+  }
   if (!key) return ''
 
   const t = await setup(state, lang, 'Psalterium/Special/Prima Special')
