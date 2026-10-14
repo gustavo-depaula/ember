@@ -37,7 +37,7 @@ vi.mock('../device', async (original) => ({
   hardwareId: async () => phoneHardware.id,
 }))
 const backups = vi.hoisted(() => [] as string[])
-vi.mock('../backup', () => ({
+vi.mock('@/lib/backupFile', () => ({
   saveBackup: async (log: string) => {
     backups.push(log)
   },
