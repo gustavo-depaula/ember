@@ -1,7 +1,7 @@
 // The site's URL space. Section names are localized (`/prayers/`, `/pt/oracoes/`);
 // item slugs are the corpus ids the app uses (`rosary`, `kempis-imitation-of-christ`),
 // so a link, a saved item or a reading position means the same thing in both.
-import { type Locale, localePrefix } from './lib/locale'
+import { type Locale, localePrefix } from './lib/locales'
 
 const sections = {
   'en-US': {

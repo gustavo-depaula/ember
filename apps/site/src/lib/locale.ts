@@ -1,12 +1,9 @@
 import { AsyncLocalStorage } from 'node:async_hooks'
 import i18n from '@/lib/i18n'
 
-export const locales = ['en-US', 'pt-BR'] as const
-export type Locale = (typeof locales)[number]
+import { type Locale, localePrefix, locales } from './locales'
 
-// URL prefix per locale. English lives at the root so the bare domain is a
-// real, indexable page.
-export const localePrefix: Record<Locale, string> = { 'en-US': '', 'pt-BR': '/pt' }
+export { type Locale, localePrefix, locales }
 // The site has no reader's settings: each edition follows the calendar of the
 // country it is written for.
 export const jurisdiction: Record<Locale, string> = { 'en-US': 'US', 'pt-BR': 'BR' }

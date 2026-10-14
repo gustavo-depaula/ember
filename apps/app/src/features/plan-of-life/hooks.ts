@@ -28,7 +28,7 @@ import type { UserPractice } from '@/db/schema'
 import { getToday, useStableToday, useToday } from '@/hooks/useToday'
 import i18n from '@/lib/i18n'
 import { rescheduleAllReminders } from '@/lib/notifications'
-
+import { planSlots, programHides } from './due'
 import {
   isUnderWay,
   nextStandingStart,
@@ -38,7 +38,7 @@ import {
   standingAheadDays,
 } from './program'
 import { parseSchedule } from './schedule'
-import { isHiddenByProgram, sortedCompletionDates } from './utils'
+import { sortedCompletionDates } from './utils'
 
 export { sortedCompletionDates }
 
@@ -60,15 +60,7 @@ function resyncReminders() {
 }
 
 export function useSlots(): SlotState[] {
-  return useEventStore(
-    useShallow((s) =>
-      sortedSlots(
-        [...s.slots.values()].filter(
-          (slot) => slot.enabled && !s.practices.get(slot.practice_id)?.archived,
-        ),
-      ),
-    ),
-  )
+  return useEventStore(useShallow(planSlots))
 }
 
 export function useAllSlots(): SlotState[] {
@@ -296,21 +288,11 @@ export function useProgramHidesForDate(dateStr: string): ReadonlySet<string> {
 
   const realKey = realToday.getTime()
 
-  // biome-ignore lint/correctness/useExhaustiveDependencies: realKey gates recomputation; realToday is captured by closure
-  return useMemo(() => {
-    const result = new Set<string>()
-    const targetDate = new Date(`${dateStr}T00:00:00`)
-
-    for (const slot of slots.values()) {
-      if (!slot.enabled) continue
-      const practice = practices.get(slot.practice_id)
-      if (practice?.archived) continue
-
-      if (isHiddenByProgram(slot, targetDate, realToday)) result.add(slot.id)
-    }
-
-    return result
-  }, [slots, practices, cursors, completionsByPractice, completions, dateStr, realKey])
+  // biome-ignore lint/correctness/useExhaustiveDependencies: realKey gates recomputation; realToday is captured by closure; the cursors and completions are what a program's course reads
+  return useMemo(
+    () => programHides({ slots, practices }, dateStr, realToday),
+    [slots, practices, cursors, completionsByPractice, completions, dateStr, realKey],
+  )
 }
 
 export function useArchivedPractices(): UserPractice[] {

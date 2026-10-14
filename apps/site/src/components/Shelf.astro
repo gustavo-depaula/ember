@@ -25,6 +25,7 @@ const { title, tiles, locale, more, width = 150 } = Astro.props
     )
   }
   <div class="shelf">
+    <slot />
     {tiles.map((tile) => <Tile tile={tile} locale={locale} width={tile.shape === 'book' ? Math.round(width * 0.8) : width} />)}
   </div>
 </section>

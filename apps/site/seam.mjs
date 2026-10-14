@@ -36,6 +36,10 @@ const replacedPackages = {
 const browserAppModules = {
   'db/client': 'browser/dbClient.ts',
   'lib/backupFile': 'browser/backupFile.ts',
+  'content/store': 'browser/store.ts',
+  'lib/hearth': 'browser/hearth.ts',
+  'stores/preferencesStore': 'browser/preferencesStore.ts',
+  'lib/i18n/detectLanguage': 'browser/detectLanguage.ts',
 }
 
 const browserPackages = {
@@ -50,6 +54,7 @@ const byPath = (modules) =>
     Object.entries(modules).map(([mod, file]) => [resolve(appSrc, mod), resolve(platform, file)]),
   )
 const byAbsolutePath = byPath(replacedAppModules)
+// Later entries win: a browser stand-in replaces the build's.
 const inBrowserByAbsolutePath = new Map([...byAbsolutePath, ...byPath(browserAppModules)])
 
 function stripExtension(path) {

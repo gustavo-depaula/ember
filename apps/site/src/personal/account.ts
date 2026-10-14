@@ -45,8 +45,12 @@ async function start() {
     })
   })
   await loadAccount()
-  if (useSync.getState().account) keepInStep()
-  else connected.set(false)
+  if (useSync.getState().account) {
+    keepInStep()
+    if (document.querySelector('[data-plan]')) (await import('./plan')).mountPlan()
+  } else {
+    connected.set(false)
+  }
 
   const connect = document.querySelector<HTMLElement>('[data-connect]')
   if (connect) (await import('./connect')).mountConnect(connect)

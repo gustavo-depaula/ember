@@ -5,6 +5,7 @@ import appShotEn from '../../../hearth/site/img/en-US-01-today.webp'
 import appShotPt from '../../../hearth/site/img/pt-BR-01-today.webp'
 import Celebrations from '~/components/Celebrations.astro'
 import MassTimesNotice from '~/components/MassTimesNotice.astro'
+import PersonalPlan from '~/components/PersonalPlan.astro'
 import Shelf from '~/components/Shelf.astro'
 import Base from '~/layouts/Base.astro'
 import { bibleRefFor } from '~/lib/citations'
@@ -124,7 +125,9 @@ const pillars = pt
           <button class="carousel-next" type="button" data-carousel-next hidden aria-label={pt ? 'Próximos' : 'More'}>→</button>
         </section>
 
-        <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150} />
+        <Shelf title={pt ? 'Rezar' : 'Pray'} tiles={home.pray} locale={locale} more={href.section(locale, 'prayers')} width={150}>
+          <PersonalPlan locale={locale} part="card" />
+        </Shelf>
 
         {home.meditations.length > 0 && (
           <section>
@@ -145,6 +148,7 @@ const pillars = pt
       </div>
 
       <aside class="dash-aside" aria-label={pt ? 'A liturgia de hoje' : 'The liturgy today'}>
+        <PersonalPlan locale={locale} part="panel" />
         <section class="panel">
           <h2 class="t-marker">{pt ? 'Santa Missa' : 'Holy Mass'}</h2>
           <p class="t-kicker">{home.of.dayName}</p>

@@ -9,3 +9,9 @@ export async function hasCached(): Promise<boolean> {
 export async function setCache(): Promise<void> {}
 
 export async function clearCache(): Promise<void> {}
+
+export async function getCachedWithAge<T>(): Promise<{ data: T; cachedAt: number } | undefined> {
+  return undefined
+}
+
+export async function clearCacheOlderThan(): Promise<void> {}

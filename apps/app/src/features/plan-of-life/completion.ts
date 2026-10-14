@@ -214,6 +214,11 @@ export async function setSlotDone(slotKey: string, date: string, done: boolean):
 }
 
 /** Slot keys completed on `date` — compare against `SlotState.id`. */
+export function completedSlotsOn(date: string, state: PlanState): Set<string> {
+  return completedSlotKeys(completionsOn(date, state))
+}
+
+/** Slot keys completed on `date` — compare against `SlotState.id`. */
 export function useCompletedSlots(date: string): Set<string> {
   const completions = useEventStore(useShallow((s) => completionsOn(date, s)))
   return useMemo(() => completedSlotKeys(completions), [completions])
