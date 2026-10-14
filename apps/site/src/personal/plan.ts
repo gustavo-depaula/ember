@@ -12,9 +12,13 @@ import {
   getRememberedManifest,
   rememberManifestBody,
 } from '@/content/contentIndex'
-import { loadCatalogFromHearth, loadFlow } from '@/content/resolver'
+import { getManifest, loadCatalogFromHearth, loadFlow } from '@/content/resolver'
 import { getJson } from '@/content/store'
-import { type SlotState, useEventStore } from '@/db/events'
+import { resolveCompletions, type SlotState, useEventStore } from '@/db/events'
+import { artFor } from '@/features/explore/artMap'
+import { toneForKey } from '@/features/explore/bgColor'
+import { backbonePractices, prayNowFor } from '@/features/explore/prayNow'
+import { clockOf } from '@/features/explore/prayNowOrder'
 import { entriesAround, owedAt, planStanding } from '@/features/home/planStanding'
 import { completedSlotsOn, setSlotDone } from '@/features/plan-of-life/completion'
 import { planSlots, scheduleContextFor, slotsDueOn } from '@/features/plan-of-life/due'
@@ -29,7 +33,7 @@ import {
   getBlockCompletion,
   getCurrentTimeBlock,
 } from '@/features/plan-of-life/timeBlocks'
-import i18n from '@/lib/i18n'
+import i18n, { localizeContent } from '@/lib/i18n'
 import {
   loadMissalCalendar,
   regionsForJurisdiction,
@@ -83,7 +87,11 @@ async function warm(slots: SlotState[]): Promise<void> {
   catalog ??= loadCatalogFromHearth()
   await catalog
   const { practices } = useEventStore.getState()
-  const ids = slots.flatMap((s) => [s.practice_id, practices.get(s.practice_id)?.active_variant])
+  // The backbone too: Pray now offers it when the plan has nothing timed.
+  const ids = [
+    ...slots.flatMap((s) => [s.practice_id, practices.get(s.practice_id)?.active_variant]),
+    ...backbonePractices,
+  ]
   await Promise.all(
     [...new Set(ids)].map(async (id) => {
       const entry = id ? getEntry(canonicalize(id, 'practice') ?? id) : undefined
@@ -91,11 +99,10 @@ async function warm(slots: SlotState[]): Promise<void> {
       rememberManifestBody(entry.hash, await getJson(entry.hash))
     }),
   )
-  // A pinned slot is named by its choice ("Sext"), which its flow holds.
+  // A pinned slot is named by its choice ("Sext"), and an office known by its
+  // hours, both held in the flow.
   await Promise.all(
-    slots
-      .filter((s) => s.pins)
-      .map((s) => loadFlow(practices.get(s.practice_id)?.active_variant ?? s.practice_id)),
+    slots.map((s) => loadFlow(practices.get(s.practice_id)?.active_variant ?? s.practice_id)),
   )
 }
 
@@ -116,10 +123,12 @@ function yearCalendar(year: number, jurisdiction: string | undefined) {
 // ── The day ─────────────────────────────────────────────────────────────
 
 type Day = {
+  today: Date
   date: string
   slots: SlotState[]
   due: SlotState[]
   done: Set<string>
+  holyDay: boolean
 }
 
 async function readDay(): Promise<Day> {
@@ -132,10 +141,12 @@ async function readDay(): Promise<Day> {
   const calendar = await yearCalendar(today.getFullYear(), jurisdiction)
   const ctx = scheduleContextFor(today, transfersForJurisdiction(jurisdiction), calendar)
   return {
+    today,
     date,
     slots,
     due: slotsDueOn(useEventStore.getState(), date, ctx, today),
     done: completedSlotsOn(date, useEventStore.getState()),
+    holyDay: ctx?.dayCalendar?.principal?.entry.holyDayOfObligation === true,
   }
 }
 
@@ -259,6 +270,67 @@ function cardHtml(day: Day): string {
   <span class="caption">${esc(t('home.planForToday'))}</span>`
 }
 
+// What to pray now: the app's own pick (PrayNowCard), in the carousel's
+// first place, where a visitor sees the card that presents the app.
+function fillPrayNow(day: Day): void {
+  const card = document.querySelector<HTMLAnchorElement>('[data-pray-now]')
+  const mark = document.querySelector<HTMLElement>('[data-pray-mark]')
+  if (!card || !mark) return
+  for (const el of document.querySelectorAll<HTMLElement>('[data-app-card], [data-app-mark]')) {
+    el.hidden = true
+  }
+  const { completions, completionsByDate } = useEventStore.getState()
+  const prayedToday = resolveCompletions(completionsByDate.get(day.date), completions).map(
+    (c) => c.practice_id,
+  )
+  const pick = prayNowFor({
+    slots: day.due,
+    completedIds: day.done,
+    prayedToday,
+    today: day.today,
+    holyDay: day.holyDay,
+    wall: new Date(),
+    t,
+  })
+  card.hidden = !pick
+  mark.hidden = !pick
+  // The carousel's marks follow the cards in view.
+  card.parentElement?.dispatchEvent(new Event('scroll'))
+  if (!pick) return
+  const { next, comingUp, suggestion, block, minutes } = pick
+  const ref = canonicalize(next.practice_id, 'practice') ?? next.practice_id
+  const manifest = getManifest(next.practice_id)
+  const marker = t(
+    (() => {
+      if (suggestion) return 'explore.prayNow.suggestion'
+      if (comingUp) return 'explore.prayNow.comingUp'
+      return 'explore.prayNow.label'
+    })(),
+  )
+  const tone = toneForKey(ref)
+  card.style.setProperty('--from', tone.from)
+  card.style.setProperty('--to', tone.to)
+  card.href = getEntry(ref) ? href.prayer(locale, bareId(ref)) : href.section(locale, 'prayers')
+  const art = artFor(ref)?.uri
+  const artBox = card.querySelector<HTMLElement>('[data-pray-art]')
+  const plate = card.querySelector<HTMLElement>('[data-pray-plate]')
+  if (artBox && plate) {
+    artBox.hidden = !art
+    plate.hidden = !!art
+    if (art) artBox.querySelector('img')?.setAttribute('src', art)
+  }
+  const description = manifest?.description ? localizeContent(manifest.description) : undefined
+  const text = (name: string, value: string) => {
+    const el = card.querySelector<HTMLElement>(`[data-pray-${name}]`)
+    if (el) el.textContent = value
+  }
+  text('kicker', `${marker} · ${comingUp ? clockOf(next.due) : t(`timeBlock.${block}`)}`)
+  text('title', next.name)
+  text('sub', [next.subtitle, description].filter(Boolean).join(' — '))
+  text('minutes', minutes ?? '')
+  text('tier', suggestion ? '' : t(`tier.${next.tier}`))
+}
+
 // ── Mounting ────────────────────────────────────────────────────────────
 
 export function mountPlan(): void {
@@ -284,6 +356,7 @@ export function mountPlan(): void {
     const list = listHtml(day)
     for (const el of lists) el.innerHTML = list
     card.innerHTML = cardHtml(day)
+    fillPrayNow(day)
     panel.hidden = false
     card.hidden = false
   }
