@@ -1,20 +1,11 @@
 // biome-ignore-all lint/suspicious/noArrayIndexKey: parsed inline nodes never reorder
 import { Fragment } from 'react'
-import { Platform, Text as RNText, type TextStyle } from 'react-native'
+import { Text as RNText, type TextStyle } from 'react-native'
 
 import { bodyFont } from '@/config/fonts'
 import type { TextStyleName } from '@/lib/typography/fontMetrics'
 
 import { type InlineNode, parseInline } from './parseMarkdown'
-
-// react-native-web's Text base class sets the `font` shorthand (14px, black),
-// which resets every font property a nested span doesn't name — emphasis inside
-// 19px burgundy text rendered 14px black. Re-inherit what the span doesn't
-// override. Native nested <Text> inherits correctly; the cast is because
-// `inherit` isn't in RN's style types.
-const inheritFromParent = (
-  Platform.OS === 'web' ? { color: 'inherit', fontSize: 'inherit', lineHeight: 'inherit' } : {}
-) as TextStyle
 
 /**
  * EB Garamond's italics are separate families, so the face carries the slant
@@ -66,7 +57,7 @@ export function composeStyle(node: InlineNode['type'], base: TextStyleName): Tex
 // set, so nested emphasis must resolve a concrete face.
 export function styleToFace(baseFamily: string, style: TextStyleName): TextStyle {
   const { bold, italic } = styleParts[style]
-  return { ...inheritFromParent, ...faceProps(baseFamily, bold ? 700 : 400, italic) }
+  return { ...faceProps(baseFamily, bold ? 700 : 400, italic) }
 }
 
 /**

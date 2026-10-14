@@ -355,29 +355,64 @@ vi.mock('expo-linking', () => ({
   addEventListener: () => ({ remove: () => {} }),
 }))
 
-vi.mock('expo-file-system', () => ({
-  Directory: class {
-    exists = false
+// Files live in memory for the test run, so the blob store caches what it
+// fetches from the local corpus as it does on a phone.
+vi.mock('expo-file-system', () => {
+  const files = new Map<string, Uint8Array>()
+  const join = (base: unknown, rel = '') =>
+    `${typeof base === 'string' ? base : (base as { uri: string }).uri}/${rel}`.replace(/\/+/g, '/')
+  class Directory {
+    uri: string
+    constructor(base: unknown, rel?: string) {
+      this.uri = join(base, rel)
+    }
+    get exists() {
+      return [...files.keys()].some((path) => path.startsWith(this.uri))
+    }
     create() {}
-    delete() {}
+    delete() {
+      for (const path of [...files.keys()]) if (path.startsWith(this.uri)) files.delete(path)
+    }
     list() {
       return []
     }
-  },
-  File: class {
-    exists = false
-    uri = ''
-    write() {}
-    delete() {}
+  }
+  class File {
+    uri: string
+    constructor(base: unknown, rel?: string) {
+      this.uri = join(base, rel)
+    }
+    get exists() {
+      return files.has(this.uri)
+    }
+    get size() {
+      return files.get(this.uri)?.byteLength ?? 0
+    }
+    write(data: string | Uint8Array) {
+      files.set(this.uri, typeof data === 'string' ? new TextEncoder().encode(data) : data)
+    }
+    delete() {
+      files.delete(this.uri)
+    }
+    move(to: File) {
+      files.set(to.uri, files.get(this.uri) as Uint8Array)
+      files.delete(this.uri)
+    }
     async bytes() {
-      return new Uint8Array()
+      return files.get(this.uri) ?? new Uint8Array()
     }
     async text() {
-      return ''
+      return new TextDecoder().decode(files.get(this.uri))
     }
-  },
-  Paths: { document: '/tmp/test-documents' },
-}))
+    static async downloadFileAsync(url: string, to: File) {
+      const res = await fetch(url)
+      if (!res.ok) throw new Error(`download ${url}: ${res.status}`)
+      to.write(new Uint8Array(await res.arrayBuffer()))
+      return to
+    }
+  }
+  return { Directory, File, Paths: { document: '/documents', cache: '/cache' } }
+})
 
 vi.mock('expo-image', async () => {
   const React = await import('react')

@@ -26,7 +26,7 @@ export function useSaintOfDayBookImage(chapter: string | undefined): ImageSource
       const rel = `${chapter}.webp`
       const image = manifest.images?.find((i) => i.rel === rel)
       if (!image) return undefined
-      const uri = await blobUri(image.hash, image.mime)
+      const uri = await blobUri(image.hash)
       return { uri } satisfies ImageSource
     },
   })

@@ -4,7 +4,7 @@ How Ember breaks lines. Every reading surface is justified with [Justif](https:/
 
 | Surface | Engine | Integration |
 |---|---|---|
-| Book reader | DOM in a WebView (iframe on web) | Justif's own DOM renderer |
+| Book reader | DOM in a WebView | Justif's own DOM renderer |
 | Everything else (prayer, practice, prose, Bible, Catechism, missal) | Native `Text` | `justif/core` + a custom renderer |
 
 ## Book reader

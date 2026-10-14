@@ -2117,7 +2117,6 @@ export default {
     removeCheckIn: 'Remove check-in',
     logEmpty: 'No check-ins yet.',
     logEmptyHint: 'Check in at a church to start your log.',
-    mapWeb: 'The map is available in the Ember app.',
     mapUnavailable: 'Map unavailable. Showing the list instead.',
     kind: {
       mass: 'Mass',

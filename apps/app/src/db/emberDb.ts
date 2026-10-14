@@ -1,16 +1,36 @@
 import type { SQLiteDatabase } from 'expo-sqlite'
 
-import type { EmberDb, Statement } from './protocol'
+export type SqlBindValue = string | number | boolean | null | Uint8Array
+export type SqlBindParams = SqlBindValue[]
+
+export type Statement = { sql: string; params?: SqlBindParams }
 
 /**
- * Wraps the real `SQLiteDatabase` (native) so it satisfies `EmberDb`.
- * The only departure is `runBatchInTx`, which composes `withTransactionAsync`
- * + `runAsync` so call sites have a single API across native and web.
+ * The database API the app's code is written against. On a phone it wraps
+ * expo-sqlite's `SQLiteDatabase`; the website runs the same code over a
+ * SQLite of its own.
  *
+ * Departure from `SQLiteDatabase`: a transaction is `runBatchInTx(statements)`,
+ * a list of statements run together, rather than a callback holding the
+ * transaction open, so callers can't use intermediate results inside it.
+ */
+export type EmberDb = {
+  execAsync(sql: string): Promise<void>
+  runAsync(
+    sql: string,
+    params?: SqlBindParams,
+  ): Promise<{ lastInsertRowId: number; changes: number }>
+  getAllAsync<T>(sql: string, params?: SqlBindParams): Promise<T[]>
+  getFirstAsync<T>(sql: string, params?: SqlBindParams): Promise<T | null>
+  runBatchInTx(statements: Statement[]): Promise<void>
+  closeAsync(): Promise<void>
+}
+
+/**
  * `withTransactionAsync` is documented as non-exclusive and can be interrupted
  * by other async queries — concurrent calls race on BEGIN/COMMIT/ROLLBACK and
- * surface as "cannot rollback - no transaction is active". We serialize
- * batched-transaction calls per connection to prevent that race.
+ * surface as "cannot rollback - no transaction is active". Batched
+ * transactions are serialized per connection to prevent that race.
  */
 export function adaptNativeDb(db: SQLiteDatabase): EmberDb {
   const serialize = createSerialQueue()

@@ -1,5 +1,3 @@
-import { Platform } from 'react-native'
-
 import { getFontFamily } from '@/config/readingFonts'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
@@ -17,9 +15,6 @@ export const readingScale = {
 const maxMeasureEm = 34
 
 const marginMap = { narrow: '$sm', normal: '$md', wide: '$lg' } as const
-
-// Prevents justify from stretching letters — only word spacing
-const webJustifyStyle = { textJustify: 'inter-word' } as Record<string, string>
 
 export function useReadingStyle() {
   const fontFamilyId = usePreferencesStore((s) => s.fontFamily)
@@ -43,7 +38,6 @@ export function useReadingStyle() {
     // equivalent, which is why the app breaks its own lines. See
     // `docs/design/typography-justification.md`.
     android_hyphenationFrequency: 'full' as const,
-    ...(textAlign === 'justify' && Platform.OS === 'web' ? { style: webJustifyStyle } : {}),
   }
 }
 

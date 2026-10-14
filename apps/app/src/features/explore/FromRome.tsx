@@ -3,7 +3,7 @@
  * white embed widget. Pulls the official widget fragment (see `vaticanContent.ts`),
  * then lays it out as stacked editorial sections: a videos row, Vatican News
  * headlines, the day's acts of the Holy See, and outlet tiles. Links open in an
- * in-app bottom-sheet browser (native) / new tab (web); videos play inline via
+ * in-app bottom-sheet browser; videos play inline via
  * the shared `YouTubePlayer`. Falls back to the `<VaticanNews>` embed if the
  * fragment can't be parsed.
  */
@@ -14,7 +14,6 @@ import { Image, type ImageSource } from 'expo-image'
 import * as WebBrowser from 'expo-web-browser'
 import { type ReactNode, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform } from 'react-native'
 import { useTheme, YStack } from 'tamagui'
 
 import { AnimatedPressable, useRoomWidth } from '@/components'
@@ -192,7 +191,6 @@ export function FromRome() {
   const { data: newsImages } = useQuery({
     queryKey: ['vatican-news-images', lang],
     queryFn: () => fetchNewsImages(lang),
-    enabled: Platform.OS !== 'web',
     staleTime: 15 * 60 * 1000,
     gcTime: 6 * 60 * 60 * 1000,
     retry: 0,
@@ -220,10 +218,6 @@ export function FromRome() {
   }
 
   const openArticle = (url: string) => {
-    if (Platform.OS === 'web') {
-      window.open(url, '_blank', 'noopener')
-      return
-    }
     // Native in-app browser (SFSafariViewController / Custom Tabs): full-screen,
     // swipe-to-dismiss, share/reader.
     WebBrowser.openBrowserAsync(url, {

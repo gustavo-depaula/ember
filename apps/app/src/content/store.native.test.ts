@@ -15,11 +15,6 @@ const fsState = vi.hoisted(() => ({
 
 vi.mock('react-native', () => ({ Platform: { OS: 'ios' } }))
 vi.mock('@/lib/hearth', () => ({ hearthUrl: (p: string) => `https://hearth.test/${p}` }))
-vi.mock('@/lib/idb-fs', () => ({
-  idbReadBinary: vi.fn(),
-  idbWriteFile: vi.fn(),
-  idbDeletePrefix: vi.fn(),
-}))
 vi.mock('expo-file-system', () => {
   class Directory {
     path: string

@@ -1,26 +1,19 @@
 /**
- * Content-addressed blob cache. Hashes never change for a given content, so
- * cache hits never expire. Native: filesystem under `documentDirectory/blobs/`.
- * Web: IndexedDB at key `blob:{hash}`.
+ * Content-addressed blob cache under `documentDirectory/blobs/`. Hashes never
+ * change for a given content, so cache hits never expire.
  */
 
-import * as expoFs from 'expo-file-system'
-import { Platform } from 'react-native'
+import { Directory, File as NativeFile, Paths } from 'expo-file-system'
 import { yieldToUI } from '@/lib/async'
 import { hearthUrl } from '@/lib/hearth'
-import { idbDeletePrefix, idbReadBinary, idbWriteFile } from '@/lib/idb-fs'
-
-// Static import (expo-file-system ships a web variant) so vitest's module
-// mock can intercept it; the Platform guard keeps every native call gated.
-const nativeFs = Platform.OS !== 'web' ? expoFs : undefined
 
 // Concurrent ensureBlobCached/getBlob calls for the same hash share one
 // download pipeline instead of racing each other.
 const inflight = new Map<string, Promise<void>>()
 
-// On native this is Expo's pure-JS polyfill (Hermes has none), which decodes
-// byte by byte on the JS thread — far too slow for blobs. Native text reads go
-// through File.text() instead; this only serves web and the network fallback.
+// Expo's pure-JS polyfill (Hermes has none), which decodes byte by byte on the
+// JS thread — far too slow for blobs. Text reads go through File.text()
+// instead; this only serves the network fallback.
 const TEXT_DECODER = new TextDecoder()
 
 export function blobPath(hash: string): string {
@@ -28,29 +21,18 @@ export function blobPath(hash: string): string {
 }
 
 function blobsDir() {
-  if (!nativeFs) throw new Error('blobsDir() called on web')
-  const { Directory, Paths } = nativeFs
   return new Directory(Paths.document, 'blobs/')
 }
 
 function blobFile(hash: string) {
-  if (!nativeFs) throw new Error('blobFile() called on web')
-  const { File: NativeFile, Paths } = nativeFs
   return new NativeFile(Paths.document, blobPath(hash))
 }
 
 export async function hasBlob(hash: string): Promise<boolean> {
-  if (Platform.OS === 'web') {
-    const bytes = await idbReadBinary(`blob:${hash}`)
-    return bytes !== undefined
-  }
   return blobFile(hash).exists
 }
 
 async function readFromCache(hash: string): Promise<Uint8Array | undefined> {
-  if (Platform.OS === 'web') {
-    return idbReadBinary(`blob:${hash}`)
-  }
   const f = blobFile(hash)
   if (!f.exists) return undefined
   try {
@@ -61,46 +43,37 @@ async function readFromCache(hash: string): Promise<Uint8Array | undefined> {
 }
 
 function shardDir(hash: string) {
-  const { Directory, Paths } = nativeFs!
   return new Directory(Paths.document, `blobs/${hash.slice(0, 2)}/${hash.slice(2, 4)}/`)
 }
 
 async function writeToCache(hash: string, data: Uint8Array): Promise<void> {
-  if (Platform.OS === 'web') {
-    await idbWriteFile(`blob:${hash}`, data)
-    return
-  }
   shardDir(hash).create({ intermediates: true, idempotent: true })
   blobFile(hash).write(data)
 }
 
-// Staging area for native downloads. Lives OUTSIDE blobs/ so the eviction walk
+// Staging area for downloads. Lives OUTSIDE blobs/ so the eviction walk
 // and cache stats never see partial files; a same-volume move into blobs/ is
 // atomic, so a truncated download can never appear as a (permanently) cached
 // blob — hashes are immutable and cache hits are trusted forever.
 const TMP_DIR = 'blobs-tmp/'
 
 function tmpFile(hash: string) {
-  const { File: NativeFile, Paths } = nativeFs!
   return new NativeFile(Paths.document, `${TMP_DIR}${hash}`)
 }
 
-/** Remove leftover partial downloads (app killed mid-download). Native only. */
+/** Remove leftover partial downloads (app killed mid-download). */
 export async function clearBlobTmp(): Promise<void> {
-  if (Platform.OS === 'web') return
-  const { Directory, Paths } = nativeFs!
   const dir = new Directory(Paths.document, TMP_DIR)
   if (dir.exists) dir.delete()
 }
 
 /**
- * Native disk-to-disk download: the bytes never cross the JS bridge, unlike
+ * Disk-to-disk download: the bytes never cross the JS bridge, unlike
  * fetch + arrayBuffer + write, which blocks the JS thread for the whole body.
  * Rejects on non-2xx (verified in FileSystemModule's downloadFileAsync), on a
  * zero-byte body, and on a size mismatch when the manifest told us the size.
  */
 async function downloadToCache(hash: string, expectedSize?: number): Promise<void> {
-  const { Directory, File: NativeFile, Paths } = nativeFs!
   new Directory(Paths.document, TMP_DIR).create({ intermediates: true, idempotent: true })
   const tmp = tmpFile(hash)
   try {
@@ -142,13 +115,11 @@ export async function ensureBlobCached(hash: string, expectedSize?: number): Pro
 
 async function ensureCachedUnshared(hash: string, expectedSize?: number): Promise<void> {
   if (await hasBlob(hash)) return
-  if (Platform.OS !== 'web') {
-    try {
-      await downloadToCache(hash, expectedSize)
-      return
-    } catch (err) {
-      console.warn(`[store] native download failed for ${hash.slice(0, 8)}, falling back:`, err)
-    }
+  try {
+    await downloadToCache(hash, expectedSize)
+    return
+  } catch (err) {
+    console.warn(`[store] native download failed for ${hash.slice(0, 8)}, falling back:`, err)
   }
   const data = await fetchBlob(hash)
   await writeToCache(hash, data)
@@ -174,16 +145,12 @@ export async function getBlob(hash: string): Promise<Uint8Array> {
   await ensureBlobCached(hash)
   const data = await readFromCache(hash)
   if (data) return data
-  // ensureBlobCached succeeded but the read failed (e.g. write quota on web) —
+  // ensureBlobCached succeeded but the read failed —
   // serve the bytes straight from the network rather than failing the caller.
   return fetchBlob(hash)
 }
 
 async function readTextFromCache(hash: string): Promise<string | undefined> {
-  if (Platform.OS === 'web') {
-    const bytes = await idbReadBinary(`blob:${hash}`)
-    return bytes && TEXT_DECODER.decode(bytes)
-  }
   const f = blobFile(hash)
   if (!f.exists) return undefined
   try {
@@ -199,7 +166,7 @@ export async function getText(hash: string): Promise<string> {
   await ensureBlobCached(hash)
   const text = await readTextFromCache(hash)
   if (text !== undefined) return text
-  // Cached but unreadable (e.g. write quota on web) — decode straight from the network.
+  // Cached but unreadable — decode straight from the network.
   return TEXT_DECODER.decode(await fetchBlob(hash))
 }
 
@@ -207,13 +174,8 @@ export async function getJson<T>(hash: string): Promise<T> {
   return JSON.parse(await getText(hash)) as T
 }
 
-/** A URI that can be passed to Image source.uri (file:// on native, blob: on web). */
-export async function blobUri(hash: string, mime = 'application/octet-stream'): Promise<string> {
-  if (Platform.OS === 'web') {
-    const bytes = await getBlob(hash)
-    const buffer = bytes.buffer.slice(bytes.byteOffset, bytes.byteOffset + bytes.byteLength)
-    return URL.createObjectURL(new Blob([buffer as ArrayBuffer], { type: mime }))
-  }
+/** A file:// URI that can be passed to Image source.uri. */
+export async function blobUri(hash: string): Promise<string> {
   await ensureBlobCached(hash)
   return blobFile(hash).uri
 }
@@ -258,7 +220,6 @@ type FsNode = {
 export type CachedBlob = { hash: string; size: number; mtime: number }
 
 export async function listCachedBlobs(): Promise<CachedBlob[]> {
-  if (Platform.OS === 'web') return []
   const root = blobsDir()
   if (!root.exists) return []
   const out: CachedBlob[] = []
@@ -292,17 +253,12 @@ export type CacheStats = {
 
 /**
  * LRU eviction: deletes oldest blobs until the cache is under `budgetBytes`,
- * never touching `protectedHashes` (pinned). Native only — on web the
- * browser's IndexedDB quota handles eviction.
+ * never touching `protectedHashes` (pinned).
  */
 export async function evictTo(
   budgetBytes: number,
   protectedHashes: ReadonlySet<string>,
 ): Promise<{ totalBytes: number; deleted: number }> {
-  if (Platform.OS === 'web') {
-    return { totalBytes: 0, deleted: 0 }
-  }
-
   const blobs = await listCachedBlobs()
   let total = blobs.reduce((s, b) => s + b.size, 0)
   if (total <= budgetBytes) return { totalBytes: total, deleted: 0 }
@@ -327,16 +283,6 @@ export async function evictTo(
 }
 
 export async function getCacheStats(protectedHashes: ReadonlySet<string>): Promise<CacheStats> {
-  if (Platform.OS === 'web') {
-    try {
-      const est = await (
-        navigator as unknown as { storage?: { estimate?: () => Promise<{ usage?: number }> } }
-      ).storage?.estimate?.()
-      return { totalBytes: est?.usage ?? 0, blobCount: 0, pinnedBytes: 0 }
-    } catch {
-      return { totalBytes: 0, blobCount: 0, pinnedBytes: 0 }
-    }
-  }
   const blobs = await listCachedBlobs()
   let totalBytes = 0
   let pinnedBytes = 0
@@ -348,10 +294,6 @@ export async function getCacheStats(protectedHashes: ReadonlySet<string>): Promi
 }
 
 export async function deleteBlob(hash: string): Promise<void> {
-  if (Platform.OS === 'web') {
-    await idbDeletePrefix(`blob:${hash}`)
-    return
-  }
   const f = blobFile(hash)
   if (f.exists) f.delete()
 }

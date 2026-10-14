@@ -4,7 +4,6 @@ import { resetDatabase } from '@/db/client'
 import { emit, exportLog, replayAll, useEventStore } from '@/db/events'
 import { getDb } from '@/db/instance'
 import { saveBackup } from '@/lib/backupFile'
-import { broadcastChange } from '@/lib/db-shared/manager'
 import { hardwareId, nameDevice, newDevice } from './device'
 import { accountStatements, forgetAccountSql, push, sync, withSyncHeld } from './engine'
 import { accountKeys, newSecret, sealFor } from './keys'
@@ -53,7 +52,6 @@ export async function joinAccount(secret: string): Promise<void> {
   if (held?.n) await saveBackup(await exportLog())
   await db.runBatchInTx([{ sql: 'DELETE FROM events' }, ...accountStatements(account)])
   await replayAll()
-  broadcastChange({ kind: 'invalidate', tags: ['log'] })
   useSync.setState({ account })
   await sync()
   await nameDevice(device.id)
@@ -70,7 +68,6 @@ async function forgetAccount(): Promise<void> {
   ])
   useSync.setState({ account: undefined, syncedAt: undefined, state: 'ok' })
   await replayAll()
-  broadcastChange({ kind: 'invalidate', tags: ['log'] })
 }
 
 /** Whether everything written here has reached the account. */

@@ -1,6 +1,4 @@
-import { broadcastChange } from '@/lib/db-shared/manager'
-
-import type { EmberDb } from '@/lib/db-shared/protocol'
+import type { EmberDb } from '@/db/emberDb'
 import { getDb } from '../instance'
 import { idsInOrder, newWriterTag, nextId, observe } from './clock'
 import { useEventStore } from './state'
@@ -91,7 +89,6 @@ export async function emit(event: AppEvent): Promise<void> {
       'INSERT INTO events (id, type, payload, timestamp, version) VALUES (?, ?, ?, ?, 1)',
       [nextId(), event.type, JSON.stringify(event), Date.now()],
     )
-    broadcastChange({ kind: 'event', event })
     written([event])
   } catch (err) {
     await replayAll()
@@ -116,7 +113,6 @@ export async function emitBatch(events: AppEvent[]): Promise<void> {
         params: [ts, JSON.stringify(events.map((event) => [nextId(ts), event]))],
       },
     ])
-    broadcastChange({ kind: 'event-batch', events })
     written(events)
   } catch (err) {
     await replayAll()

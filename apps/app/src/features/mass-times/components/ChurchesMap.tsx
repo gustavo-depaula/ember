@@ -1,6 +1,5 @@
 import { lazy, Suspense, useCallback, useEffect, useRef } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform } from 'react-native'
 import { YStack } from 'tamagui'
 import { Typography } from '@/components'
 import type { Cluster } from '@/lib/mass-times'
@@ -144,8 +143,6 @@ export function ChurchesMap({
     })
     mapRef.current?.select(fId)
   }, [fId, fLat, fLng])
-
-  if (Platform.OS === 'web') return <MapUnavailable message={t('massTimes.mapWeb')} />
 
   return (
     <YStack flex={1}>

@@ -1,17 +1,12 @@
+import * as Notifications from 'expo-notifications'
 import { Platform } from 'react-native'
-
 import i18n from '@/lib/i18n'
-
 import { parseHHmm } from './time'
 import type { Commitment } from './types'
-
-// biome-ignore lint: conditional require for platform compat
-const Notifications: any = Platform.OS !== 'web' ? require('expo-notifications') : undefined
 
 const CUSTODY_CHANNEL = 'custody'
 
 export async function setupCustodyNotifications(): Promise<void> {
-  if (!Notifications) return
   if (Platform.OS === 'android') {
     await Notifications.setNotificationChannelAsync(CUSTODY_CHANNEL, {
       name: 'Custody',
@@ -21,7 +16,6 @@ export async function setupCustodyNotifications(): Promise<void> {
 }
 
 async function cancelForCommitment(commitmentId: string): Promise<void> {
-  if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const n of scheduled) {
     if (n.content?.data?.custodyCommitmentId === commitmentId) {
@@ -31,7 +25,6 @@ async function cancelForCommitment(commitmentId: string): Promise<void> {
 }
 
 export async function scheduleNudgesForCommitment(commitment: Commitment): Promise<void> {
-  if (!Notifications) return
   // Clear stale schedules first so edits don't double-fire.
   await cancelForCommitment(commitment.id)
 
@@ -81,7 +74,6 @@ export async function scheduleNudgesForCommitment(commitment: Commitment): Promi
 const DAILY_EXAMEN_ID_KEY = 'custodyExamenReminder'
 
 export async function scheduleDailyExamenReminder(hour = 21, minute = 0): Promise<void> {
-  if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const n of scheduled) {
     if (n.content?.data?.kind === DAILY_EXAMEN_ID_KEY) {
@@ -108,7 +100,6 @@ export async function scheduleDailyExamenReminder(hour = 21, minute = 0): Promis
 }
 
 export async function cancelAllCustodyNotifications(): Promise<void> {
-  if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const n of scheduled) {
     const data = n.content?.data

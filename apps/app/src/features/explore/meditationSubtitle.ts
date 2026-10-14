@@ -1,6 +1,5 @@
 import { type LiturgicalDayMap, resolveLiturgicalDay } from '@ember/liturgical'
 import { useQuery } from '@tanstack/react-query'
-import { Platform } from 'react-native'
 import { loadBook } from '@/content/books'
 import type { TocNode } from '@/content/manifestTypes'
 import type { Primitive } from '@/content/primitives'
@@ -63,10 +62,8 @@ async function bookMeditationTitle(
 }
 
 // Today's Office of Readings second-reading source line ("From a treatise of
-// St Cyprian…"). Native only — iBreviary sends no CORS headers, so the web
-// card keeps its fixed tagline.
+// St Cyprian…").
 async function patristicSourceLine(appLang: string, date: Date): Promise<string | undefined> {
-  if (Platform.OS === 'web') return undefined
   const ibLang = ibLangFor(appLang)
   const html = await fetchSectionHtml(ibLang, date, hourSections['office-of-readings'])
   const reading = extractSecondReading(parseHourPage(html, 'office-of-readings', ibLang), appLang)
@@ -91,7 +88,7 @@ export async function resolveMeditationSubtitle(
 }
 
 /** Lazily resolve a Daily Meditations card's subtitle to today's title/theme.
- *  Returns undefined until loaded (or on web/error) so callers show the fixed
+ *  Returns undefined until loaded (or on error) so callers show the fixed
  *  tagline meanwhile. Cached per day + language. Keyed on `useCatalogVersion`
  *  so it re-runs once the (deferred-warmed) book manifest becomes resident —
  *  otherwise the first run loses the race to warming and the card is stuck on

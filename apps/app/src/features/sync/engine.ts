@@ -6,7 +6,6 @@ import { resetDatabase } from '@/db/client'
 import { onEventsWritten, replayAll } from '@/db/events'
 import type { StoredEvent } from '@/db/events/types'
 import { getDb } from '@/db/instance'
-import { broadcastChange } from '@/lib/db-shared/manager'
 
 import { hardwareId, nameDevice, newDevice } from './device'
 import { type AccountKeys, accountKeys, fileKey, open, seal } from './keys'
@@ -107,7 +106,6 @@ export async function pull(account: Account, keys: AccountKeys): Promise<boolean
   }
   if (changed) {
     await replayAll()
-    broadcastChange({ kind: 'invalidate', tags: ['log'] })
   }
   return changed
 }

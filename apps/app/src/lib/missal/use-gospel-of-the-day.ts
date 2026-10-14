@@ -1,7 +1,6 @@
 import type { Lang } from '@ember/missal'
 import { useQuery } from '@tanstack/react-query'
 import { format } from 'date-fns'
-import { Platform } from 'react-native'
 import { useToday } from '@/hooks/useToday'
 import { fetchVaticanGospelText, narrowLang } from '@/sources/vatican-news'
 import { usePreferencesStore } from '@/stores/preferencesStore'
@@ -10,9 +9,8 @@ import { type GospelOfDay, loadGospelOfDay } from './gospelOfDay'
 export type GospelOfTheDay = GospelOfDay
 
 /**
- * Today's Gospel (text + citation). Vatican News is the primary source on
- * native, with the corpus-computed Gospel as the offline / web (CORS)
- * fallback.
+ * Today's Gospel (text + citation). Vatican News is the primary source, with
+ * the corpus-computed Gospel as the offline fallback.
  */
 export function useGospelOfTheDay(): {
   data: GospelOfTheDay | undefined
@@ -27,10 +25,8 @@ export function useGospelOfTheDay(): {
   const query = useQuery({
     queryKey: ['gospel-of-the-day', dateKey, contentLanguage, jurisdiction ?? null],
     queryFn: async (): Promise<GospelOfTheDay | null> => {
-      if (Platform.OS !== 'web') {
-        const vn = await fetchVaticanGospelText(narrowLang(contentLanguage), today)
-        if (vn) return vn
-      }
+      const vn = await fetchVaticanGospelText(narrowLang(contentLanguage), today)
+      if (vn) return vn
       return (await loadGospelOfDay(today, contentLanguage as Lang, jurisdiction)) ?? null
     },
     staleTime: 60 * 60 * 1000,

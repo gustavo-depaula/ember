@@ -1,16 +1,12 @@
 /**
- * Web stand-in for `@expo/ui`.
+ * Stand-in for `@expo/ui` in tests, which render through react-native-web.
  *
  * Every `@expo/ui` entry point calls `requireNativeView(...)` at *module scope*,
- * which throws `UnavailabilityError` on web. Because the call runs on import
- * rather than on render, a single `<BottomSheet>` anywhere in the tree takes the
- * whole web bundle down at boot — not just that component. Metro rewrites
- * `@expo/ui*` to this module for `platform === 'web'` (see metro.config.js).
- *
- * These aren't no-ops: the sheets and the segmented control are real, if plain,
- * web implementations, so the app is navigable in a browser. The SwiftUI-only
- * surface (`Host`, `Group`, `RNHostView`, and the presentation modifiers) has no
- * web meaning and passes through.
+ * which throws outside a native build, so a single `<BottomSheet>` anywhere in
+ * the tree takes the whole render down. The sheets and the segmented control
+ * here are real, if plain, implementations, so tests can open and use them. The
+ * SwiftUI-only surface (`Host`, `Group`, `RNHostView`, and the presentation
+ * modifiers) passes through.
  */
 import type { ReactNode } from 'react'
 import { Pressable, ScrollView, StyleSheet, Text, View } from 'react-native'
@@ -133,6 +129,7 @@ export const RNHostView = ({ children }: Children) => <>{children}</>
 const modifier = () => undefined
 export const ignoreSafeArea = modifier
 export const interactiveDismissDisabled = modifier
+export const presentationBackground = modifier
 export const presentationBackgroundInteraction = modifier
 export const presentationDetents = modifier
 export const presentationDragIndicator = modifier
@@ -150,6 +147,7 @@ const named: Record<string, unknown> = {
   RNHostView,
   ignoreSafeArea,
   interactiveDismissDisabled,
+  presentationBackground,
   presentationBackgroundInteraction,
   presentationDetents,
   presentationDragIndicator,

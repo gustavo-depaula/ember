@@ -1,16 +1,11 @@
 import { deleteDatabaseAsync, openDatabaseAsync } from 'expo-sqlite'
 import { useEffect, useReducer } from 'react'
-import { Platform } from 'react-native'
 
-import { adaptNativeDb } from '@/lib/db-shared/native-adapter'
-
+import { adaptNativeDb } from './emberDb'
 import { createEventsTable, replayAll } from './events'
 import { getDb, setDb } from './instance'
 import initialMigration from './migrations/0001_initial.sql'
 import { upgradeLog } from './upgradeLog'
-
-// biome-ignore lint: conditional require for platform compat
-const expo = Platform.OS !== 'web' ? (require('expo') as any) : undefined
 
 export { getDb }
 
@@ -26,31 +21,23 @@ type DbState = { success: boolean; error: unknown }
 let opening: Promise<void> | undefined
 
 async function openDb() {
-  if (Platform.OS === 'web') {
-    // Web: leader-elect via Web Locks; only the leader opens the OPFS-backed
-    // SQLite file. Followers proxy SQL through BroadcastChannel.
-    const { initEmberDb } = await import('@/lib/db-shared/manager')
-    const proxy = await initEmberDb()
-    setDb(proxy)
-  } else {
-    const rawDb = await openDatabaseAsync('ember.db')
-    // An on-device `commitments` table with a `severity` or
-    // `shield_anchor` column predates the current custody schema, which
-    // `CREATE TABLE IF NOT EXISTS` can't reshape: drop the custody tables
-    // so the migration recreates them. A no-op once they're current.
-    const legacy = await rawDb.getFirstAsync<{ sql: string | null }>(
-      "SELECT sql FROM sqlite_master WHERE type='table' AND name='commitments'",
+  const rawDb = await openDatabaseAsync('ember.db')
+  // An on-device `commitments` table with a `severity` or
+  // `shield_anchor` column predates the current custody schema, which
+  // `CREATE TABLE IF NOT EXISTS` can't reshape: drop the custody tables
+  // so the migration recreates them. A no-op once they're current.
+  const legacy = await rawDb.getFirstAsync<{ sql: string | null }>(
+    "SELECT sql FROM sqlite_master WHERE type='table' AND name='commitments'",
+  )
+  if (legacy?.sql?.includes('severity') || legacy?.sql?.includes('shield_anchor')) {
+    await rawDb.execAsync(
+      'DROP TABLE IF EXISTS commitment_events; DROP TABLE IF EXISTS custody_sessions; DROP TABLE IF EXISTS commitments;',
     )
-    if (legacy?.sql?.includes('severity') || legacy?.sql?.includes('shield_anchor')) {
-      await rawDb.execAsync(
-        'DROP TABLE IF EXISTS commitment_events; DROP TABLE IF EXISTS custody_sessions; DROP TABLE IF EXISTS commitments;',
-      )
-    }
-    await rawDb.execAsync(initialMigration)
-    const adapted = adaptNativeDb(rawDb)
-    await createEventsTable(adapted)
-    setDb(adapted)
   }
+  await rawDb.execAsync(initialMigration)
+  const adapted = adaptNativeDb(rawDb)
+  await createEventsTable(adapted)
+  setDb(adapted)
 
   await upgradeLog(getDb())
   await replayAll()
@@ -99,14 +86,10 @@ export async function resetDatabase() {
   opening = undefined
   await deleteDatabaseAsync('ember.db')
 
-  if (Platform.OS === 'web') {
-    const { idbClearAll } = await import('@/lib/idb-fs')
-    await idbClearAll()
-    window.location.reload()
-  } else {
-    const fs = require('expo-file-system') as typeof import('expo-file-system')
-    const blobsDir = new fs.Directory(fs.Paths.document, 'blobs/')
-    if (blobsDir.exists) blobsDir.delete()
-    await expo.reloadAppAsync('Database reset')
-  }
+  const fs = require('expo-file-system') as typeof import('expo-file-system')
+  const blobsDir = new fs.Directory(fs.Paths.document, 'blobs/')
+  if (blobsDir.exists) blobsDir.delete()
+  // Required here, not imported: importing `expo` at module scope breaks vitest.
+  const { reloadAppAsync } = require('expo') as typeof import('expo')
+  await reloadAppAsync('Database reset')
 }

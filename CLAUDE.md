@@ -1,6 +1,6 @@
 # Ember
 
-A multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (web + iOS + Android), and a platform for preserving and distributing the Catholic literary tradition in open formats. Three pillars: **Fidelity** (plan of life), **Devotion** (saints, liturgical milestones — collectibles that teach, not trophies), **Wisdom** (library, formation, study tools).
+A multilingual Catholic prayer app (English + Brazilian Portuguese) built with Expo (iOS + Android) with a companion website, and a platform for preserving and distributing the Catholic literary tradition in open formats. Three pillars: **Fidelity** (plan of life), **Devotion** (saints, liturgical milestones — collectibles that teach, not trophies), **Wisdom** (library, formation, study tools).
 
 Personal project with a single user, so schema changes are made in place: add a database migration only when asked.
 

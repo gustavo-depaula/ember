@@ -28,7 +28,7 @@ import * as SplashScreen from 'expo-splash-screen'
 import { StatusBar } from 'expo-status-bar'
 import * as SystemUI from 'expo-system-ui'
 import { useEffect, useState } from 'react'
-import { Appearance, InteractionManager, LogBox, Platform, useColorScheme } from 'react-native'
+import { Appearance, InteractionManager, LogBox, useColorScheme } from 'react-native'
 import { GestureHandlerRootView } from 'react-native-gesture-handler'
 import { KeyboardProvider } from 'react-native-keyboard-controller'
 import { TamaguiProvider } from 'tamagui'
@@ -54,7 +54,6 @@ import { straightenPlanOnce } from '@/features/plan-of-life/straighten'
 import { startSync } from '@/features/sync'
 import { useKeepAwake } from '@/hooks/useKeepAwake'
 import { registerDataSources } from '@/lib/data-sources/register'
-import { useCrossTabSync } from '@/lib/db-shared/useCrossTabSync'
 import { initHearth } from '@/lib/hearth'
 import i18n from '@/lib/i18n'
 import {
@@ -95,17 +94,6 @@ const queryClient = new QueryClient({
     },
   }),
 })
-
-if (typeof document !== 'undefined') {
-  const style = document.createElement('style')
-  style.textContent = 'input, textarea { outline: none !important; }'
-  document.head.appendChild(style)
-}
-
-function CrossTabSync() {
-  useCrossTabSync()
-  return null
-}
 
 // Mounted once the app is up — the log opened and straightened — so the account
 // is only ever handed a log in its settled shape.
@@ -273,11 +261,7 @@ export default function RootLayout() {
   // switch; 'unspecified' lets 'system' keep following the device.
   useEffect(() => {
     SystemUI.setBackgroundColorAsync(rootBg)
-    // Native-only: react-native-web has no `setColorScheme`, and calling it
-    // throws out of the effect and takes the whole app down on web.
-    if (Platform.OS !== 'web') {
-      Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
-    }
+    Appearance.setColorScheme(themePreference === 'system' ? 'unspecified' : themePreference)
   }, [rootBg, themePreference])
 
   if (!coreReady) return undefined
@@ -308,7 +292,6 @@ export default function RootLayout() {
           JS timer — for most of a second just as Today first painted. */}
       <KeyboardProvider preload={false}>
         <QueryClientProvider client={queryClient}>
-          <CrossTabSync />
           <AccountSync />
           <Usage />
           <TamaguiProvider config={config} defaultTheme={resolvedTheme}>

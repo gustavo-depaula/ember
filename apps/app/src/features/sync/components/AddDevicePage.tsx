@@ -3,7 +3,6 @@ import { requireOptionalNativeModule } from 'expo'
 import { useRouter } from 'expo-router'
 import { useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Platform } from 'react-native'
 import { Input, YStack } from 'tamagui'
 
 import { PageHeader, ScreenLayout } from '@/components'
@@ -14,10 +13,9 @@ import { BigDigits, GoldButton, Lead, Quiet, TextAction } from './parts'
 
 // The camera arrived in a later build than sync did: an install without it
 // pairs by typing the code.
-const camera =
-  Platform.OS !== 'web' && requireOptionalNativeModule('ExpoCamera')
-    ? (require('expo-camera') as typeof import('expo-camera'))
-    : undefined
+const camera = requireOptionalNativeModule('ExpoCamera')
+  ? (require('expo-camera') as typeof import('expo-camera'))
+  : undefined
 
 /** The signed-in device's side of a pairing: it reads the new device's code and lets it in. */
 export function AddDevicePage() {

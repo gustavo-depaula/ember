@@ -28,19 +28,6 @@ describe('InlineMarkdownRubric', () => {
     expect(span).toHaveStyle({ fontFamily: 'EBGaramond_400Regular', fontStyle: 'normal' })
   })
 
-  // React Native Web's Text base class carries `font: 14px …` — a shorthand that
-  // resets size, leading and ink. Without an explicit `inherit` an emphasis span
-  // drops the rubric's burgundy and its 16px, and renders 14px black.
-  // Asserted on the inline style rather than the computed one: jsdom resolves an
-  // inherited length back to a px value, which would hide the very thing at issue.
-  it('keeps the surrounding ink, size and leading', () => {
-    renderRubric('the encyclical *Quamquam Pluries*')
-    const style = screen.getByText('Quamquam Pluries').getAttribute('style') ?? ''
-    expect(style).toContain('color: inherit')
-    expect(style).toContain('font-size: inherit')
-    expect(style).toContain('line-height: inherit')
-  })
-
   it('keeps the slant on **bold** and adds weight', () => {
     renderRubric('**Chew the word.** Repeat it.')
     const span = screen.getByText('Chew the word.')
@@ -62,14 +49,11 @@ describe('InlineMarkdownRubric', () => {
   })
 })
 
-// The same trap on the shared path — prayer bodies, annotation rows, todo notes.
-// Emphasis names a face; it must never name an ink, a size or a leading.
+// The shared path — prayer bodies, annotation rows, todo notes. Emphasis names
+// a face; it never names an ink, a size or a leading.
 describe('styleToFace', () => {
-  const inherited = { color: 'inherit', fontSize: 'inherit', lineHeight: 'inherit' }
-
-  it('inherits ink, size and leading for the EB Garamond faces', () => {
+  it('names the EB Garamond face and nothing else', () => {
     expect(styleToFace('EBGaramond_400Regular', 'boldItalic')).toEqual({
-      ...inherited,
       fontFamily: 'EBGaramond_700Bold_Italic',
       // The face is already italic; asking for italic on top would shear it twice.
       fontStyle: 'normal',
@@ -80,15 +64,13 @@ describe('styleToFace', () => {
   // inherited italic shears the roman glyphs and the flip never shows.
   it('states fontStyle: normal on an upright face, not just italic on a slanted one', () => {
     expect(styleToFace('EBGaramond_400Regular', 'regular')).toEqual({
-      ...inherited,
       fontFamily: 'EBGaramond_400Regular',
       fontStyle: 'normal',
     })
   })
 
-  it('inherits them on the synthetic fallback for fonts without italic faces', () => {
+  it('slants synthetically for fonts without italic faces', () => {
     expect(styleToFace('Lora', 'boldItalic')).toEqual({
-      ...inherited,
       fontFamily: 'Lora',
       fontWeight: '700',
       fontStyle: 'italic',

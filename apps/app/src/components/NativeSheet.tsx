@@ -7,7 +7,7 @@ import {
   presentationDragIndicator,
 } from '@expo/ui/swift-ui/modifiers'
 import { type ReactElement, useEffect } from 'react'
-import { Platform, StyleSheet, useWindowDimensions } from 'react-native'
+import { useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme } from 'tamagui'
 
@@ -68,12 +68,7 @@ export function NativeSheet({
   useEffect(() => () => sheet.store.setState({ phase: 'closed', reopen: false }), [sheet])
 
   return (
-    // On web a stand-in draws the sheet inside the Host, so there it spans the
-    // screen and lets taps through to the screen.
-    <Host
-      style={Platform.OS === 'web' ? StyleSheet.absoluteFill : { position: 'absolute', width }}
-      pointerEvents={Platform.OS === 'web' ? 'box-none' : 'none'}
-    >
+    <Host style={{ position: 'absolute', width }} pointerEvents="none">
       <BottomSheet
         isPresented={phase === 'open'}
         onIsPresentedChange={(presented) => !presented && sheet.close()}

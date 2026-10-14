@@ -15,7 +15,7 @@ export function newDevice() {
 /**
  * What tells this phone from every other, where the system has such a thing:
  * it stays the same while the app is installed and differs on another phone.
- * Kept beside the account and never sent anywhere. Undefined in a browser.
+ * Kept beside the account and never sent anywhere. Undefined on the website.
  */
 export async function hardwareId(): Promise<string | undefined> {
   if (Platform.OS === 'web') return undefined

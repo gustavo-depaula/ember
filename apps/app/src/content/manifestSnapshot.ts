@@ -8,21 +8,13 @@
  * catalog references.
  */
 
-import * as expoFs from 'expo-file-system'
-import { Platform } from 'react-native'
-import { idbReadText, idbWriteFile } from '@/lib/idb-fs'
-
-const fileName = 'manifest-snapshot-v1.json'
-
-const nativeFs = Platform.OS !== 'web' ? expoFs : undefined
+import { File, Paths } from 'expo-file-system'
 
 function snapshotFile() {
-  if (!nativeFs) throw new Error('snapshotFile() called on web')
-  return new nativeFs.File(nativeFs.Paths.document, fileName)
+  return new File(Paths.document, 'manifest-snapshot-v1.json')
 }
 
 async function readText(): Promise<string | undefined> {
-  if (Platform.OS === 'web') return idbReadText(fileName)
   const f = snapshotFile()
   return f.exists ? f.text() : undefined
 }
@@ -38,10 +30,5 @@ export async function readManifestSnapshot(): Promise<Record<string, unknown> | 
 }
 
 export async function writeManifestSnapshot(bodies: Record<string, unknown>): Promise<void> {
-  const text = JSON.stringify(bodies)
-  if (Platform.OS === 'web') {
-    await idbWriteFile(fileName, text)
-    return
-  }
-  snapshotFile().write(text)
+  snapshotFile().write(JSON.stringify(bodies))
 }

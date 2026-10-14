@@ -1,4 +1,4 @@
-import type { EmberDb } from '@/lib/db-shared/protocol'
+import type { EmberDb } from '@/db/emberDb'
 
 let _db: EmberDb | undefined
 

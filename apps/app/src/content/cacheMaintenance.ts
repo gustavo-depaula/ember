@@ -5,8 +5,6 @@
  * The cap is soft, so enforcing it once a day is plenty.
  */
 
-import { Platform } from 'react-native'
-
 import { getPreference, setPreference } from '@/db/repositories/preferences'
 import { pinnedHashes } from '@/features/pinning/pinningManager'
 import { clearBlobTmp, evictTo } from './store'
@@ -18,7 +16,6 @@ const evictionIntervalMs = 24 * 60 * 60 * 1000
 const lastEvictionKey = 'last-eviction-at'
 
 export async function maybeRunCacheEviction(): Promise<void> {
-  if (Platform.OS === 'web') return
   const last = Number(await getPreference(lastEvictionKey)) || 0
   if (Date.now() - last < evictionIntervalMs) return
 

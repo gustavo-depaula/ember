@@ -1,5 +1,5 @@
 import { bareId } from '@/content/contentIndex'
-import type { EmberDb } from '@/lib/db-shared/protocol'
+import type { EmberDb } from '@/db/emberDb'
 import { parseSlotKey } from '@/lib/slotKey'
 import type { AppEvent, StoredEvent } from './types'
 

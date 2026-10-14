@@ -1,5 +1,4 @@
 import type { Lang as MissalLang } from '@ember/missal'
-import { Platform } from 'react-native'
 import type { Primitive, ProseBlock, TextPrimitive } from '@/content/primitives'
 import { loadGospelOfDay } from '@/lib/missal/gospelOfDay'
 import type { SourceFetchContext } from '../types'
@@ -32,7 +31,7 @@ function gospelPrimitives(citation: string | undefined, body: ProseBlock[]): Pri
   return out
 }
 
-// Offline / web fallback: the corpus-computed Gospel of the day's Mass
+// Offline fallback: the corpus-computed Gospel of the day's Mass
 // (the same reading Explore's Gospel of the Day shows).
 async function fallback(ctx: SourceFetchContext, lang: Lang): Promise<Primitive[] | TextPrimitive> {
   const gospel = await loadGospelOfDay(ctx.date, lang as MissalLang, ctx.prefs.jurisdiction)
@@ -93,8 +92,7 @@ export function compactCitation(full: string | undefined): string | undefined {
 }
 
 // Today's Gospel as plain citation + text, for compact surfaces (the Explore
-// "Evangelho do Dia" card). Native only — returns undefined on web or any
-// fetch/parse failure so the caller can fall back to the offline mass-of
+// "Evangelho do Dia" card). Returns undefined on any fetch/parse failure so the caller can fall back to the offline mass-of
 // Gospel, keeping the card consistent with the practice's Gospel tab.
 export async function fetchVaticanGospelText(
   lang: Lang,
@@ -110,8 +108,8 @@ export async function fetchVaticanGospelText(
   }
 }
 
-// Today's Gospel from vaticannews.va (native), falling back to the offline
-// mass-of Gospel on web (CORS-blocked) or any fetch/parse failure — so the
+// Today's Gospel from vaticannews.va, falling back to the offline
+// mass-of Gospel on any fetch/parse failure — so the
 // Gospel tab is always populated. `dateScoped` keys the cache per day.
 export const gospelOfTheDaySource = {
   id: 'producer/gospel-of-the-day',
@@ -120,7 +118,6 @@ export const gospelOfTheDaySource = {
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[] | TextPrimitive> {
     const lang = narrowLang(ctx.prefs.lang)
-    if (Platform.OS === 'web') return fallback(ctx, lang)
 
     try {
       const html = await fetchDay(lang, ctx.date)

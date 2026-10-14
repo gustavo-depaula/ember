@@ -1,25 +1,23 @@
 /**
  * Vatican News embed — the official `<vaticannews-widget>` custom element loaded
- * from vaticannews.va. Native uses a `react-native-webview`, web a plain
- * `<iframe srcDoc>` (mirrors the YouTubePlayer cross-platform pattern). The
- * widget fetches from its own domain, so we give the native WebView a
- * vaticannews.va `baseUrl` to keep those requests same-origin.
+ * from vaticannews.va in a `react-native-webview`. The widget fetches from its
+ * own domain, so we give the WebView a vaticannews.va `baseUrl` to keep those
+ * requests same-origin.
  *
  * The widget renders into an OPEN Shadow DOM, so the injected click interceptor
  * walks `composedPath()` (not `closest`) to find anchors across the shadow
  * boundary. Intercepted links open in the native in-app browser
- * (SFSafariViewController / Custom Tabs) on native — mirroring `FromRome` — or a
- * new tab on web (news pages typically block being framed). The widget has no
+ * (SFSafariViewController / Custom Tabs), mirroring `FromRome`. The widget has no
  * dark-mode attribute — its `type="grey"` is the dark variant — and no intrinsic
  * sizing, so it reports its height back and we grow the container to fit (and
  * disable inner scroll, so it scrolls with the page).
  */
 
 import * as WebBrowser from 'expo-web-browser'
-import { useCallback, useEffect, useMemo, useState } from 'react'
-import { Platform, View } from 'react-native'
+import { useCallback, useMemo, useState } from 'react'
+import { View } from 'react-native'
+import WebView from 'react-native-webview'
 import { useTheme } from 'tamagui'
-
 import i18n from '@/lib/i18n'
 import { vaticanWidgetLang } from './vaticanContent'
 
@@ -37,7 +35,7 @@ function isDarkHex(hex: string | undefined): boolean {
   return (0.299 * r + 0.587 * g + 0.114 * b) / 255 < 0.5
 }
 
-// Runs inside the widget document (native + web). Intercepts link clicks across
+// Runs inside the widget document. Intercepts link clicks across
 // the open shadow boundary and reports content height back to the host.
 const hostScript = `
 <script>
@@ -53,13 +51,11 @@ const hostScript = `
     var href = a.href;
     if(!/^https?:/i.test(href)) return;
     e.preventDefault(); e.stopPropagation();
-    if (window.ReactNativeWebView) window.ReactNativeWebView.postMessage(JSON.stringify({ type:'open', url:href }));
-    else window.open(href, '_blank', 'noopener');
+    window.ReactNativeWebView.postMessage(JSON.stringify({ type:'open', url:href }));
   }, true);
   function reportHeight(){
     var h = Math.max(document.documentElement.scrollHeight, document.body ? document.body.scrollHeight : 0);
-    if (window.ReactNativeWebView) window.ReactNativeWebView.postMessage(JSON.stringify({ type:'height', value:h }));
-    else if (window.parent) window.parent.postMessage({ source:'vnw', type:'height', value:h }, '*');
+    window.ReactNativeWebView.postMessage(JSON.stringify({ type:'height', value:h }));
   }
   window.addEventListener('load', reportHeight);
   var n=0, iv=setInterval(function(){ reportHeight(); if(++n>24) clearInterval(iv); }, 500);
@@ -76,9 +72,6 @@ const widgetHtml = (lang: string, dark: boolean) => `<!doctype html>
 <script src="${widgetOrigin}/widget.js"></script>
 ${hostScript}
 </body></html>`
-
-// biome-ignore lint/suspicious/noExplicitAny: WebView type not exported
-const WebView: any = Platform.OS !== 'web' ? require('react-native-webview').default : undefined
 
 export function VaticanNews() {
   const theme = useTheme()
@@ -110,30 +103,6 @@ export function VaticanNews() {
     },
     [theme.accent?.val, theme.background?.val],
   )
-
-  // Web: receive the iframe's height postMessages.
-  useEffect(() => {
-    if (Platform.OS !== 'web') return
-    const onWindowMessage = (e: MessageEvent) => {
-      const d = e.data
-      if (d && d.source === 'vnw' && d.type === 'height' && d.value) setHeight(clampHeight(d.value))
-    }
-    window.addEventListener('message', onWindowMessage)
-    return () => window.removeEventListener('message', onWindowMessage)
-  }, [])
-
-  if (Platform.OS === 'web') {
-    return (
-      <View style={{ width: '100%', height, borderRadius: 12, overflow: 'hidden' }}>
-        <iframe
-          title="Vatican News"
-          srcDoc={html}
-          style={{ width: '100%', height: '100%', border: 'none' }}
-          referrerPolicy="strict-origin-when-cross-origin"
-        />
-      </View>
-    )
-  }
 
   return (
     <View style={{ width: '100%', height, borderRadius: 12, overflow: 'hidden' }}>

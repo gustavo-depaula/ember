@@ -1,5 +1,6 @@
 import { type DayCalendar, getCelebrationsForDate } from '@ember/liturgical'
 import { buildOfYearCalendar } from '@ember/missal'
+import * as Notifications from 'expo-notifications'
 import { Platform } from 'react-native'
 import { getEntry } from '@/content/contentIndex'
 import { getManifest } from '@/content/resolver'
@@ -36,23 +37,17 @@ import { parseSlotKey } from '@/lib/slotKey'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 // expo-notifications is native-only
-// biome-ignore lint: conditional require for platform compat
-const Notifications: any = Platform.OS !== 'web' ? require('expo-notifications') : undefined
-
-if (Notifications) {
-  Notifications.setNotificationHandler({
-    handleNotification: async () => ({
-      shouldShowAlert: true,
-      shouldShowBanner: true,
-      shouldShowList: true,
-      shouldPlaySound: true,
-      shouldSetBadge: false,
-    }),
-  })
-}
+Notifications.setNotificationHandler({
+  handleNotification: async () => ({
+    shouldShowAlert: true,
+    shouldShowBanner: true,
+    shouldShowList: true,
+    shouldPlaySound: true,
+    shouldSetBadge: false,
+  }),
+})
 
 export async function requestNotificationPermission(): Promise<boolean> {
-  if (!Notifications) return false
   const { status: existing } = await Notifications.getPermissionsAsync()
   if (existing === 'granted') return true
 
@@ -61,7 +56,6 @@ export async function requestNotificationPermission(): Promise<boolean> {
 }
 
 export async function setupNotifications() {
-  if (!Notifications) return
   if (Platform.OS === 'android') {
     await Notifications.setNotificationChannelAsync('practice-reminders', {
       name: 'Practice Reminders',
@@ -86,7 +80,10 @@ function reminderName(slot: SlotState, practice: UserPractice | undefined): stri
 }
 
 type ReminderContent = { title: string; body: string; data: Record<string, unknown> }
-type RepeatingReminder = { content: ReminderContent; trigger: Record<string, unknown> }
+type RepeatingReminder = {
+  content: ReminderContent
+  trigger: Notifications.NotificationTriggerInput
+}
 type DatedReminder = { content: ReminderContent; at: Date }
 
 // A year reaches every rule the plan knows (the Ember weeks, a yearly novena);
@@ -193,7 +190,6 @@ async function loadContextFor(
 }
 
 export async function cancelPracticeReminder(practiceId: string): Promise<void> {
-  if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const notification of scheduled) {
     if (notification.content.data?.practiceId === practiceId) {
@@ -205,7 +201,6 @@ export async function cancelPracticeReminder(practiceId: string): Promise<void> 
 // Only the practice reminders — custody notifications share the OS schedule and must survive the
 // practice reschedule that runs on every launch.
 async function cancelAllPracticeReminders(): Promise<void> {
-  if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const notification of scheduled) {
     if (notification.content.data?.practiceId) {
@@ -217,7 +212,6 @@ async function cancelAllPracticeReminders(): Promise<void> {
 // Mass Times once scheduled weekly reminders before every Mass at a church; the feature is gone, but
 // the OS keeps repeating whatever a phone registered until something cancels it.
 export async function cancelRetiredMassReminders(): Promise<void> {
-  if (!Notifications) return
   const scheduled = await Notifications.getAllScheduledNotificationsAsync()
   for (const notification of scheduled) {
     if (notification.content.data?.massReminderChurchId) {
@@ -227,7 +221,6 @@ export async function cancelRetiredMassReminders(): Promise<void> {
 }
 
 export async function rescheduleAllReminders(): Promise<void> {
-  if (!Notifications) return
   const slots = await getEnabledSlots()
   const notifiable = slots.filter((s) => parseNotifyConfig(s.notify)?.enabled && s.time)
 

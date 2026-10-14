@@ -1,6 +1,6 @@
 import { format } from 'date-fns'
 
-import type { EmberDb } from '@/lib/db-shared/protocol'
+import type { EmberDb } from '@/db/emberDb'
 
 import { emitBatch, useEventStore } from './events'
 import type { AppEvent } from './events/types'

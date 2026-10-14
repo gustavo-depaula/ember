@@ -1,6 +1,6 @@
 import { subDays } from 'date-fns'
 
-import type { EmberDb } from '@/lib/db-shared/protocol'
+import type { EmberDb } from '@/db/emberDb'
 
 import { adoptLegacyTables } from './adoptLegacyTables'
 import { dropPlaceholders, emitBatch, replayAll, useEventStore } from './events'
