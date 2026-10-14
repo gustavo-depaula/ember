@@ -26,13 +26,26 @@ export async function hardwareId(): Promise<string | undefined> {
   return (await application.getIosIdForVendorAsync()) ?? undefined
 }
 
+// iOS gives the name its owner chose ("Gustavo's iPhone") only to an app
+// holding Apple's user-assigned-device-name entitlement; any other app is told
+// the bare family, "iPhone". Then the model tells two phones apart. A build
+// from before expo-device has neither, and says the family.
+function iosDeviceName(isPad: boolean): string {
+  const family = isPad ? 'iPad' : 'iPhone'
+  const { requireOptionalNativeModule } = require('expo') as typeof import('expo')
+  if (!requireOptionalNativeModule('ExpoDevice')) return family
+  const { deviceName, modelName } = require('expo-device') as typeof import('expo-device')
+  if (deviceName && !/^(iPhone|iPad|iPod touch)$/.test(deviceName)) return deviceName
+  return modelName ?? family
+}
+
 function defaultDeviceName(): string {
   if (Platform.OS === 'android') {
     const { Brand, Model } = Platform.constants
     const brand = Brand ? Brand.charAt(0).toUpperCase() + Brand.slice(1) : ''
     return Model.toLowerCase().startsWith(brand.toLowerCase()) ? Model : `${brand} ${Model}`.trim()
   }
-  if (Platform.OS === 'ios') return Platform.isPad ? 'iPad' : 'iPhone'
+  if (Platform.OS === 'ios') return iosDeviceName(Platform.isPad)
   const agent = typeof navigator === 'undefined' ? '' : navigator.userAgent
   const browser = ['Firefox', 'Edg', 'Chrome', 'Safari'].find((name) => agent.includes(name))
   const system = ['Windows', 'Mac', 'Android', 'iPhone', 'iPad', 'Linux'].find((name) =>
