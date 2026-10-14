@@ -31,7 +31,7 @@ type Hour = (typeof hours)[number]
 
 export const doHourSource: ContentSource<Primitive[]> = {
   id: 'producer/do-hour',
-  version: '15',
+  version: '16',
   prefsDeps: ['lang'],
   dateScoped: true,
   async fetch(ctx: SourceFetchContext): Promise<Primitive[]> {

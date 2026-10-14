@@ -40,12 +40,23 @@ function latinLines(primitive: Primitive): string[] | undefined {
  * without being set by it. Undefined for what has no words to ask about.
  */
 function sungBy(primitive: Primitive, lyrics: string): boolean | undefined {
-  const lines = latinLines(primitive)
-    ?.map(fold)
-    .filter((line) => line.length >= shortestLine)
+  const lines = latinLines(primitive)?.filter((line) => fold(line).length >= shortestLine)
   if (!lines?.length) return undefined
-  const found = lines.map((line) => lyrics.includes(line.slice(0, openingLength)))
+  const found = lines.map((line) => inLyrics(line, lyrics))
   return found[0] && found.filter(Boolean).length * 2 >= found.length
+}
+
+/**
+ * Whether a line is in the score: by its opening, or, where the books differ
+ * by a word (the breviary's "Jucundáre, fília Sion, et exsúlta" is sung
+ * without the "et"), by a shorter opening and nearly all of its words.
+ */
+function inLyrics(line: string, lyrics: string): boolean {
+  const folded = fold(line)
+  if (lyrics.includes(folded.slice(0, openingLength))) return true
+  if (!lyrics.includes(folded.slice(0, shortestLine))) return false
+  const words = line.split(/\s+/).map(fold).filter(Boolean)
+  return words.filter((word) => lyrics.includes(word)).length * 5 >= words.length * 4
 }
 
 /**

@@ -87,6 +87,22 @@ describe('withChant', () => {
     expect(words(out.slice(out.indexOf(sung) + 1))).toMatch(/Confitébor tibi/)
   })
 
+  // The breviary and the antiphonal differ by a word here and there.
+  it('turns an antiphon whose score drops a word of the breviary’s text', async () => {
+    const item = [
+      'Ant. Jucundáre, * fília Sion, et exsúlta satis, fília Jerúsalem, allelúja.',
+      '!Psalmus 110 [2]',
+      '110:1 Confitébor tibi, Dómine, in toto corde meo: * in consílio iustórum, et congregatióne.',
+      '110:2 Magna ópera Dómini: * exquisíta in omnes voluntátes eius.',
+    ].join('\n')
+    const out = await withChant([item], [item], () => [chant('an-jucundare-filia-sion')])
+    const sung = sungOf(out)
+    if (sung.type !== 'sung') throw new Error('unreachable')
+
+    expect(words(sung.text)).toMatch(/^Jucundáre/)
+    expect(words(sung.text)).not.toMatch(/Confitébor/)
+  })
+
   it('keeps a proper’s title and citation with the text its score sets', async () => {
     const item = [
       '#Introitus',
