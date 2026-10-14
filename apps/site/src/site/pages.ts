@@ -41,6 +41,7 @@ export type Page =
   | { view: 'church'; id: string }
   | { view: 'place'; country: string; place: string }
   | { view: 'search' }
+  | { view: 'connect' }
   | { view: 'plans' }
   | { view: 'plan'; id: string }
   | { view: 'voices' }
@@ -201,6 +202,7 @@ async function drafts(): Promise<Draft[]> {
   }
 
   out.push({ page: { view: 'search' }, path: (l) => href.section(l, 'search') })
+  out.push({ page: { view: 'connect' }, path: (l) => href.section(l, 'connect') })
   out.push({ page: { view: 'plans' }, path: (l) => href.section(l, 'plans') })
   for (const [id] of listEntries('plan-of-life-template')) {
     out.push(catalogDraft({ view: 'plan', id }, id, (l) => href.plan(l, id)))

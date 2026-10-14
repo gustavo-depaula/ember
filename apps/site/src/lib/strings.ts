@@ -40,6 +40,13 @@ const strings = {
     footEmber: 'Ember',
     about: 'About',
     privacy: 'Privacy',
+    connect: 'Your account',
+    connectHere: 'Use your account here',
+    connectBody:
+      'Connect this browser to your Ember account, and what you pray, read and save here is kept with everything on your phone.',
+    connectNeedsApp: 'An account begins in the Ember app on your phone.',
+    connected: 'This browser is connected to your account.',
+    syncing: 'Bringing in your latest changes…',
     source: 'Source code',
     footFine:
       'Ember is free and open source. Scripture is the Douay-Rheims Bible, in the public domain. The traditional Breviary and Missal are from Divinum Officium.',
@@ -99,6 +106,13 @@ const strings = {
     footEmber: 'Ember',
     about: 'Sobre',
     privacy: 'Privacidade',
+    connect: 'Sua conta',
+    connectHere: 'Use sua conta aqui',
+    connectBody:
+      'Conecte este navegador à sua conta do Ember, e o que você reza, lê e guarda aqui fica junto com tudo o que está no seu celular.',
+    connectNeedsApp: 'Uma conta começa no aplicativo Ember, no seu celular.',
+    connected: 'Este navegador está conectado à sua conta.',
+    syncing: 'Trazendo suas últimas mudanças…',
     source: 'Código-fonte',
     footFine:
       'O Ember é gratuito e de código aberto. A Escritura em inglês é a Bíblia Douay-Rheims, em domínio público. O Breviário e o Missal tradicionais vêm do Divinum Officium.',

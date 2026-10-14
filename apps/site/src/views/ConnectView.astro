@@ -1,0 +1,153 @@
+---
+import Base from '~/layouts/Base.astro'
+import { type Locale, translator } from '~/lib/locale'
+import { siteStrings } from '~/lib/strings'
+import { href } from '~/routes'
+
+interface Props {
+  locale: Locale
+  alternates: Partial<Record<Locale, string>>
+}
+
+const { locale, alternates } = Astro.props
+const t = translator(locale)
+const s = siteStrings(locale)
+const statusLabels = {
+  ok: t('account.card.upToDate'),
+  syncing: s('syncing'),
+  waiting: t('account.card.waiting'),
+  outdated: t('account.card.outdated'),
+  full: t('account.card.full'),
+}
+---
+
+<Base locale={locale} title={s('connect')} alternates={alternates} section="connect" noindex>
+  <div class="column connect" data-connect>
+    <header class="page-head">
+      <h1 class="t-screen">{s('connect')}</h1>
+    </header>
+
+    <section data-step="asking" hidden>
+      <p class="lede">{s('connectBody')}</p>
+      <p class="t-caption">{t('account.private')}</p>
+      <p class="instructions">{t('account.join.instructions')}</p>
+      <div class="qr" data-qr></div>
+      <p class="t-caption center">{t('account.join.orType')}</p>
+      <p class="digits" data-code></p>
+      <p class="t-caption center">
+        {t('account.join.lasts')} · <span data-remaining data-template={t('account.join.remaining', { time: '{{time}}' })}></span>
+      </p>
+      <p class="t-caption aside">{s('connectNeedsApp')} <a class="go" href={href.landing(locale)}>{s('seeTheApp')} →</a></p>
+    </section>
+
+    <section data-step="checking" hidden>
+      <p class="lede">{t('account.join.checkTitle')}</p>
+      <p class="digits" data-check></p>
+      <p class="t-caption center">{t('account.join.checkHint')}</p>
+    </section>
+
+    <section data-step="bringing" hidden>
+      <p class="lede">{t('account.join.bringing')}</p>
+    </section>
+
+    <section data-step="done" class="center" hidden>
+      <p class="cross" aria-hidden="true">✠</p>
+      <h2 class="t-section">{t('account.join.done')}</h2>
+      <p class="t-caption">{t('account.join.doneBody')}</p>
+      <a class="cta" href={href.home(locale)}>{t('account.join.goToday')}</a>
+    </section>
+
+    <section data-step="expired" hidden>
+      <p class="lede">{t('account.join.expired')}</p>
+      <button class="cta" type="button" data-again>{t('account.join.newCode')}</button>
+    </section>
+
+    <section data-step="failed" hidden>
+      <p class="lede">{t('account.couldNotReach')}</p>
+      <button class="cta" type="button" data-again>{t('account.join.newCode')}</button>
+    </section>
+
+    <section data-step="connected" hidden>
+      <p class="lede">{s('connected')}</p>
+      <p class="t-caption" data-status data-labels={JSON.stringify(statusLabels)}></p>
+      <div class="leaving">
+        <h2 class="t-label">{t('account.leaving')}</h2>
+        <button
+          class="go"
+          type="button"
+          data-remove
+          data-confirm={t('account.removeThisConfirm')}
+          data-failed={t('account.couldNotReach')}
+        >
+          {t('account.removeThis')}
+        </button>
+        <p class="t-caption">{t('account.removeThisHint')}</p>
+      </div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .connect section {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-md);
+    padding-bottom: var(--space-xl);
+  }
+  .connect section[hidden] {
+    display: none;
+  }
+  .connect .center,
+  .connect section.center {
+    text-align: center;
+    align-items: center;
+  }
+  .connect .lede {
+    font-size: 19px;
+    line-height: 28px;
+  }
+  .connect .aside {
+    padding-top: var(--space-lg);
+  }
+  .qr {
+    align-self: center;
+    width: 252px;
+    padding: 16px;
+    border-radius: 12px;
+    background: #ffffff;
+  }
+  .qr :global(svg) {
+    display: block;
+    width: 220px;
+    height: 220px;
+  }
+  .digits {
+    font-family: var(--font-heading);
+    font-size: 40px;
+    letter-spacing: 6px;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+  }
+  .cross {
+    font-size: 32px;
+    color: var(--accent);
+  }
+  .connect .cta {
+    align-self: center;
+    border: 0;
+    cursor: pointer;
+  }
+  .leaving {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-sm);
+    padding-top: var(--space-lg);
+  }
+  .leaving .go {
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+</style>

@@ -22,6 +22,7 @@ const sections = {
     search: 'search',
     library: 'library',
     day: 'day',
+    connect: 'connect',
   },
   'pt-BR': {
     prayers: 'oracoes',
@@ -41,6 +42,7 @@ const sections = {
     search: 'busca',
     library: 'biblioteca',
     day: 'dia',
+    connect: 'conectar',
   },
 } as const satisfies Record<Locale, Record<string, string>>
 

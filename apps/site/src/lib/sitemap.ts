@@ -12,7 +12,7 @@ const groups: Record<string, (entry: PageEntry) => boolean> = {
 }
 
 // Client-rendered shells: nothing for a crawler to read.
-const unlisted = new Set(['search', 'churchShell'])
+const unlisted = new Set(['search', 'churchShell', 'connect'])
 
 const chapterChunk = 20_000
 

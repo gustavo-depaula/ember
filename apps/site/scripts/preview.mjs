@@ -25,6 +25,7 @@ const types = {
   '.jpg': 'image/jpeg',
   '.webp': 'image/webp',
   '.woff2': 'font/woff2',
+  '.wasm': 'application/wasm',
 }
 
 function fileFor(pathname) {
