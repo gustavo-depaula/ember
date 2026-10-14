@@ -1,11 +1,11 @@
 import { Image } from 'expo-image'
 import { useRouter } from 'expo-router'
 import { useTranslation } from 'react-i18next'
-import { Pressable, useWindowDimensions } from 'react-native'
+import { Pressable } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useThemeName, View, YStack } from 'tamagui'
 
-import { Typography, useWidthClass } from '@/components'
+import { Typography, useRoomWidth, useWidthClass } from '@/components'
 import { formatLocalized } from '@/lib/i18n/dateLocale'
 import type { LiturgicalSeason } from '@/lib/liturgical'
 
@@ -35,7 +35,7 @@ export function LiturgicalHeader({
   const { t } = useTranslation()
   const router = useRouter()
   const isDark = useThemeName().startsWith('dark')
-  const { width: windowWidth } = useWindowDimensions()
+  const windowWidth = useRoomWidth()
   const cornerWidth = Math.min(windowWidth, cornerMaxWidth)
   // The corner was drawn for a phone, to hang in its notch over the date. On a
   // wider page it has no notch to hang in and nothing to frame.

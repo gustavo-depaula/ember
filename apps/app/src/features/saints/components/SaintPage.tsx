@@ -14,7 +14,7 @@ import { initialWindowMetrics, useSafeAreaInsets } from 'react-native-safe-area-
 import Svg, { Defs, RadialGradient, Rect, Stop } from 'react-native-svg'
 import { Text, View, XStack, YStack } from 'tamagui'
 
-import { AnimatedPressable } from '@/components'
+import { AnimatedPressable, PageWidth } from '@/components'
 import { Typography } from '@/components/typography'
 import type { SaintEntry } from '../data/catalog'
 import { useSaintsCatalog } from '../data/catalog'
@@ -43,6 +43,9 @@ const chipsRow = 36
 const tabBarHeight = 64
 const peek = 96
 const pagePadding = 24
+// The page below the hero reads as a column; the hero and the tinted bands
+// still run the screen's width.
+const pageMeasure = 720
 const numerals = ['I', 'II', 'III', 'IV', 'V', 'VI']
 // Each page's measured name block, so a page mounted again (the card's screen
 // taking over from the redeem screen's copy of it) lays its card out at the
@@ -181,6 +184,7 @@ export const SaintPage = memo(function SaintPage({
     return out
   })()
   const hasChips = chapters.length > 1
+  const side = Math.max(pagePadding, (width - pageMeasure) / 2)
 
   const [nameHeight, setNameHeight] = useState(() => nameHeights.get(saint.id) ?? 96)
   const {
@@ -287,7 +291,7 @@ export const SaintPage = memo(function SaintPage({
         contentContainerStyle={{ paddingTop: full, paddingBottom: insets.bottom + 120 }}
       >
         {held && saint.prayerExcerpt && (
-          <YStack alignItems="center" gap="$sm" paddingHorizontal={36} paddingTop="$xl">
+          <YStack alignItems="center" gap="$sm" paddingHorizontal={side + 12} paddingTop="$xl">
             <Text fontFamily="$heading" fontSize={17} color="$accent">
               ✠
             </Text>
@@ -305,7 +309,7 @@ export const SaintPage = memo(function SaintPage({
 
         {hasChips && (
           <YStack
-            marginHorizontal={pagePadding}
+            marginHorizontal={side}
             marginTop="$xl"
             paddingVertical="$xs"
             borderTopWidth={1}
@@ -337,7 +341,7 @@ export const SaintPage = memo(function SaintPage({
           <YStack
             key={chapter.key}
             onLayout={(e) => setTop(i, e.nativeEvent.layout.y)}
-            paddingHorizontal={pagePadding}
+            paddingHorizontal={side}
             paddingTop="$xl"
             paddingBottom={chapter.band ? '$xl' : 0}
             marginTop={chapter.band ? '$xl' : '$sm'}
@@ -354,7 +358,7 @@ export const SaintPage = memo(function SaintPage({
                 {chapter.title}
               </Typography>
             </YStack>
-            {chapter.body}
+            <PageWidth width={width - side * 2}>{chapter.body}</PageWidth>
           </YStack>
         ))}
       </Animated.ScrollView>

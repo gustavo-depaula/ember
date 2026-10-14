@@ -68,7 +68,7 @@ export default function AllCollectionsScreen() {
   }, [catalogVersion])
 
   return (
-    <ScreenLayout>
+    <ScreenLayout measure="wide">
       <YStack gap="$lg" paddingVertical="$lg">
         <PageHeader title={t('pray.allCollections')} />
 

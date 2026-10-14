@@ -4,6 +4,7 @@ import { FlatList, Pressable, StyleSheet, useWindowDimensions, type ViewToken } 
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import Svg, { Path } from 'react-native-svg'
 import { View } from 'tamagui'
+import { useRoomWidth } from '@/components/pageWidth'
 import type { SaintEntry } from '../data/catalog'
 import { useSaintsCatalog } from '../data/catalog'
 import { useSaintsViewStore } from '../store'
@@ -23,7 +24,8 @@ export function SaintCardViewer({
   const orderedIds = useSaintsViewStore((s) => s.orderedIds)
   const setOrderedIds = useSaintsViewStore((s) => s.setOrderedIds)
   const { t } = useTranslation()
-  const { width: screenWidth, height: screenHeight } = useWindowDimensions()
+  const { height: screenHeight } = useWindowDimensions()
+  const screenWidth = useRoomWidth()
   const insets = useSafeAreaInsets()
   const list = useRef<FlatList<SaintEntry>>(null)
 

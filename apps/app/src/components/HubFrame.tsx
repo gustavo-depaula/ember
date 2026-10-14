@@ -1,11 +1,11 @@
 import { createContext, type ReactNode, useContext, useMemo, useRef, useState } from 'react'
-import { Animated, ScrollView, useWindowDimensions } from 'react-native'
+import { Animated, ScrollView } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { YStack } from 'tamagui'
 
 import { pageGutter, pageOuterWidth } from '@/lib/layout'
 
-import { PageWidth, useWidthClass } from './pageWidth'
+import { PageWidth, useRoomWidth, useWidthClass } from './pageWidth'
 import { useBottomClearance } from './tabAccessory'
 
 const indexWidth = 200
@@ -35,13 +35,12 @@ const HubContext = createContext<Hub | undefined>(undefined)
  */
 export function HubFrame({ index, children }: { index?: ReactNode; children: ReactNode }) {
   const insets = useSafeAreaInsets()
-  const { width } = useWindowDimensions()
   const { expanded } = useWidthClass()
   const bottomClearance = useBottomClearance()
   const scrollY = useRef(new Animated.Value(0)).current
   const [headerHeight, setHeaderHeight] = useState(0)
 
-  const room = width - insets.left - insets.right
+  const room = useRoomWidth()
   const outer = pageOuterWidth(room, 'wide')
   const showIndex = expanded && !!index
   const indexInset = showIndex ? indexWidth + indexGap : 0

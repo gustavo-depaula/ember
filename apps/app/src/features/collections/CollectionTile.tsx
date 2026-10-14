@@ -152,10 +152,14 @@ export function CollectionTile({
     return (
       <ZoomLink href={href}>
         <AnimatedPressable accessibilityRole="link" accessibilityLabel={label}>
-          <YStack flex={1} justifyContent="flex-end" gap="$sm">
-            <YStack>
-              <GeneratedCover cover={cover} title={label} tone={tone} width={coverWidth} />
-              {inPlan && <InPlanBadge inset={coverWidth * 0.1} />}
+          <YStack gap="$sm">
+            {/* A height of its own, not a share of the row's: a shelf that wraps
+                gives its lines no height to share, and the covers collapsed. */}
+            <YStack height={Math.round(width / aspectRatio)} justifyContent="flex-end">
+              <YStack>
+                <GeneratedCover cover={cover} title={label} tone={tone} width={coverWidth} />
+                {inPlan && <InPlanBadge inset={coverWidth * 0.1} />}
+              </YStack>
             </YStack>
             {/* The name beneath, as on the shelf cards: two lines' room whatever
                 its length, so a row of covers keeps one baseline. */}

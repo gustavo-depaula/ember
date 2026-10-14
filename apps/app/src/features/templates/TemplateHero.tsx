@@ -8,8 +8,10 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, YStack } from 'tamagui'
 
 import { GlassCircle, textShadow } from '@/components/ornaments'
+import { useFrameWidth } from '@/components/pageWidth'
 import { Typography } from '@/components/typography'
 import { type BlockTone, blockInk, blockLabelInk } from '@/features/explore/bgColor'
+import { type PageMeasure, pageGutter, pageOuterWidth } from '@/lib/layout'
 
 /**
  * The illuminated doorway into a tradition — twin of `BookHero`. A jewel-toned
@@ -22,12 +24,15 @@ export function TemplateHero({
   attribution,
   tone,
   image,
+  measure = 'column',
   scrollY,
 }: {
   name: string
   attribution?: string
   tone: BlockTone
   image?: ImageSource
+  /** The measure of the page beneath, so the title stands over its left edge. */
+  measure?: PageMeasure
   scrollY: SharedValue<number>
 }) {
   const router = useRouter()
@@ -35,6 +40,7 @@ export function TemplateHero({
   const insets = useSafeAreaInsets()
   const { height: windowHeight } = useWindowDimensions()
   const heroHeight = Math.round(windowHeight * 0.42) + insets.top
+  const outer = pageOuterWidth(useFrameWidth(), measure)
   const initial = Array.from(name.trim())[0]?.toUpperCase() ?? '✠'
 
   const stretch = useAnimatedStyle(() => {
@@ -91,7 +97,14 @@ export function TemplateHero({
         </GlassCircle>
       </YStack>
 
-      <YStack padding="$lg" gap="$xs">
+      <YStack
+        width="100%"
+        maxWidth={outer}
+        alignSelf="center"
+        paddingHorizontal={pageGutter}
+        paddingVertical="$lg"
+        gap="$xs"
+      >
         <Typography variant="screen-title" textAlign="left" color={blockInk} style={textShadow}>
           {name}
         </Typography>

@@ -6,7 +6,10 @@ import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, YStack } from 'tamagui'
 
+import { PageColumn } from '@/components/PageColumn'
+import { useWidthClass } from '@/components/pageWidth'
 import { SectionDivider } from '@/components/SectionDivider'
+import { Split } from '@/components/Split'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { PrologueProse } from '@/features/collections'
@@ -28,6 +31,7 @@ export default function TemplateDetailScreen() {
   const router = useRouter()
   const bottomClearance = useBottomClearance()
   const [adopting, setAdopting] = useState(false)
+  const { expanded } = useWidthClass()
 
   const scrollY = useSharedValue(0)
   const onScroll = useAnimatedScrollHandler((e) => {
@@ -56,6 +60,24 @@ export default function TemplateDetailScreen() {
   const attribution = manifest.attribution ? localizeContent(manifest.attribution) : undefined
   const manifesto = localizeContent(manifest.manifesto)
 
+  const proposal = (
+    <>
+      <ProposedPractices template={manifest} />
+
+      <Pressable
+        onPress={() => setAdopting(true)}
+        accessibilityRole="button"
+        accessibilityLabel={t('templates.adopt')}
+      >
+        <YStack backgroundColor="$accent" borderRadius="$md" padding="$md" alignItems="center">
+          <Typography variant="label" fontSize="$3" color="$background">
+            {t('templates.adopt')}
+          </Typography>
+        </YStack>
+      </Pressable>
+    </>
+  )
+
   return (
     <>
       <Animated.ScrollView
@@ -72,36 +94,35 @@ export default function TemplateDetailScreen() {
           attribution={attribution}
           tone={toneByIndex(toneIndexForId(id))}
           image={artFor(id)}
+          measure={expanded ? 'wide' : 'column'}
           scrollY={scrollY}
         />
 
-        <YStack
-          width="100%"
-          maxWidth={640}
-          alignSelf="center"
-          paddingHorizontal="$lg"
+        <PageColumn
+          measure={expanded ? 'wide' : 'column'}
           paddingTop="$lg"
           gap="$lg"
           backgroundColor="$background"
         >
-          <PrologueProse text={manifesto} />
-
-          <SectionDivider />
-
-          <ProposedPractices template={manifest} />
-
-          <Pressable
-            onPress={() => setAdopting(true)}
-            accessibilityRole="button"
-            accessibilityLabel={t('templates.adopt')}
-          >
-            <YStack backgroundColor="$accent" borderRadius="$md" padding="$md" alignItems="center">
-              <Typography variant="label" fontSize="$3" color="$background">
-                {t('templates.adopt')}
-              </Typography>
-            </YStack>
-          </Pressable>
-        </YStack>
+          {expanded ? (
+            // The rule beside its reasons: what it asks stays in view, with the
+            // way in, while the manifesto is read.
+            <Split
+              asideSide="right"
+              asideWidth={380}
+              ruled
+              aside={<YStack gap="$lg">{proposal}</YStack>}
+            >
+              <PrologueProse text={manifesto} />
+            </Split>
+          ) : (
+            <>
+              <PrologueProse text={manifesto} />
+              <SectionDivider />
+              {proposal}
+            </>
+          )}
+        </PageColumn>
       </Animated.ScrollView>
 
       <AdoptSheet

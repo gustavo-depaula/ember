@@ -2,11 +2,11 @@ import { type Href, useLocalSearchParams, useRouter } from 'expo-router'
 import { Check, ChevronDown, ChevronLeft, ChevronRight, Search } from 'lucide-react-native'
 import { type ReactNode, useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { Pressable, ScrollView, useWindowDimensions } from 'react-native'
+import { Pressable, ScrollView } from 'react-native'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { useTheme, XStack, YStack } from 'tamagui'
-import { useWidthClass } from '@/components'
+import { useRoomWidth, useWidthClass } from '@/components'
 import { useBottomClearance } from '@/components/tabAccessory'
 import { Typography } from '@/components/typography'
 import { ZoomLink } from '@/components/ZoomLink'
@@ -64,9 +64,8 @@ export default function BookDetailScreen() {
   // With room for it the cover and its actions hold the left while the
   // contents scroll, as the website's book page does.
   const { expanded: split } = useWidthClass()
-  const { width: windowWidth } = useWindowDimensions()
   // The pair is centred: what the aside, the gap and a full body leave over.
-  const room = windowWidth - insets.left - insets.right
+  const room = useRoomWidth()
   const side = Math.max(pageGutter, (room - asideWidth - splitGap - bodyMaxWidth) / 2)
 
   const [addingToCollection, setAddingToCollection] = useState(false)

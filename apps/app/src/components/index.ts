@@ -37,6 +37,7 @@ export {
   useFrameWidth,
   useGridCells,
   usePageWidth,
+  useRoomWidth,
   useWidthClass,
 } from './pageWidth'
 export {
