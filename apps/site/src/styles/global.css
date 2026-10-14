@@ -2533,37 +2533,85 @@ svg.score .rubric {
   fill: var(--color-burgundy);
 }
 
-/* A chant folded under the text it sets: one quiet line, which opens in place
-   onto the score. */
-details.chant > summary {
+/* A text and its chant, two faces of one block: the title stays, and the staff
+   on its line turns what is under it from the words to the score. */
+.sung,
+.sung-score {
   display: flex;
-  align-items: baseline;
-  gap: 0.6em;
-  padding-block: 8px;
-  cursor: pointer;
-  color: var(--color-secondary);
-  list-style: none;
+  flex-direction: column;
+  gap: var(--space-md);
 }
 
-details.chant > summary::-webkit-details-marker {
+.sung-score {
+  gap: var(--space-lg);
+}
+
+.sung [hidden] {
   display: none;
 }
 
-details.chant > summary::before {
-  content: '›';
-  display: inline-block;
-  transition: transform 0.15s ease;
+.sung-title {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
 }
 
-details.chant[open] > summary::before {
-  transform: rotate(90deg);
+.sung-title > div {
+  flex: 1;
 }
 
-.chant-kicker {
-  font-family: var(--font-heading);
-  font-size: 13px;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+/* A heading keeps its top padding and may carry a note beneath: the staff
+   takes the same padding and stays by the first line. */
+.sung-title.noted {
+  align-items: flex-start;
+}
+
+.sung-title:has(.heading) .sung-mark {
+  margin-top: var(--space-sm);
+}
+
+.sung-mark {
+  display: grid;
+  place-items: center;
+  min-width: 38px;
+  min-height: 37px;
+  color: var(--gold-ink);
+}
+
+.sung-mark svg {
+  padding-bottom: 4px;
+  border-bottom: 1.5px solid transparent;
+  box-sizing: content-box;
+}
+
+.sung-mark:hover,
+.sung-mark[aria-pressed='true'] {
+  color: var(--color);
+}
+
+.sung-mark[aria-pressed='true'] svg {
+  border-bottom-color: var(--accent);
+}
+
+.sung-gloss {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+  font-style: italic;
+  font-size: 0.8em;
+  line-height: 1.4;
+  color: var(--color-secondary);
+}
+
+.sung-gloss:empty {
+  display: none;
+}
+
+.chant-caption {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-sm);
+  color: var(--color-secondary);
 }
 
 .chant-mode {
@@ -2573,11 +2621,10 @@ details.chant[open] > summary::before {
 }
 
 .chant-sheet {
-  padding-top: var(--space-sm);
+  padding-block: var(--space-sm);
 }
 
 .chant-credit {
-  padding-block: var(--space-sm);
   font-variant-numeric: lining-nums;
 }
 

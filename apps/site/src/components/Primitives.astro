@@ -3,6 +3,7 @@ import type { BilingualText } from '@ember/content-engine'
 import { parseMarkdown } from '@/components/prayer/parseMarkdown'
 import type { Primitive } from '@/content/primitives'
 import { romanMode } from '@/features/chant/chants'
+import { glossOf } from '@/features/chant/gloss'
 import { assetUrl } from '~/lib/assets'
 import { escapeHtml, inlineHtml } from '~/lib/html'
 import type { Locale } from '~/lib/locale'
@@ -128,26 +129,64 @@ function wrap(node: { type: string; text: string }): string {
         </div>
       )
     }
-    if (p.type === 'sung') {
-      return <Astro.self items={[...p.text, ...p.chants]} locale={locale} />
-    }
-    if (p.type === 'chant') {
+    if (p.type === 'sung' || p.type === 'chant') {
       const pt = locale === 'pt-BR'
-      const mode = romanMode(p.mode)
-      const credit = [p.book, p.transcriber && `${pt ? 'Transcrição de' : 'Transcribed by'} ${p.transcriber}`, 'GregoBase, CC0']
-        .filter(Boolean)
-        .join(' · ')
-      // The score is engraved in the browser when the reader opens it (scripts/engrave.ts).
+      const text = p.type === 'sung' ? p.text : []
+      const chants = p.type === 'sung' ? p.chants : [p]
+      // The title stays put over both faces, and the staff sits on its line. In
+      // the Mass that is a heading; an hour names its psalm in a rubric.
+      const title = text[0]?.type === 'heading' || text[0]?.type === 'rubric' ? text[0] : undefined
+      const body = title ? text.slice(1) : text
+      // One piece under its own title needs no second naming of what it is.
+      const named = chants.length > 1 || !title
+      // The score is engraved in the browser when the reader turns to it (scripts/engrave.ts).
+      const sheets = chants.map((chant) => {
+        const mode = romanMode(chant.mode)
+        const credit = [chant.book, chant.transcriber && `${pt ? 'Transcrição de' : 'Transcribed by'} ${chant.transcriber}`, 'GregoBase, CC0']
+          .filter(Boolean)
+          .join(' · ')
+        return (
+          <div class="chant" data-gabc={chant.score} data-name={chant.name}>
+            <p class="chant-caption">
+              <em>{[named && chant.part, chant.name].filter(Boolean).join(' · ')}</em>
+              {/* A chant has a mode; a psalm set to a tone has the tone, which its note says. */}
+              <span class="chant-mode">{mode ? `${pt ? 'Modo' : 'Mode'} ${mode}` : chant.commentary}</span>
+            </p>
+            <div class="chant-sheet" />
+            <p class="t-annotation chant-credit">{credit}</p>
+          </div>
+        )
+      })
+      // A chant with no text of its own to turn from is simply shown.
+      if (text.length === 0) return <div class="sung-score">{sheets}</div>
+      const show = `${pt ? 'Mostrar o canto de' : 'Show the chant of'} ${chants[0].name}`
+      const hide = `${pt ? 'Ocultar o canto de' : 'Hide the chant of'} ${chants[0].name}`
       return (
-        <details class="chant" data-gabc={p.score} data-name={p.name}>
-          <summary>
-            <span class="chant-kicker">{pt ? 'Canto' : 'Chant'}</span>
-            <em>{p.name}</em>
-            {mode ? <span class="chant-mode">{pt ? 'Modo' : 'Mode'} {mode}</span> : p.commentary && <span class="chant-mode">{p.commentary}</span>}
-          </summary>
-          <div class="chant-sheet" />
-          <p class="t-annotation chant-credit">{credit}</p>
-        </details>
+        <div class="sung">
+          <div class={`sung-title ${title?.type === 'heading' && title.note ? 'noted' : ''}`}>
+            <div>{title && <Astro.self items={[title]} locale={locale} />}</div>
+            <button type="button" class="sung-mark" aria-pressed="false" aria-label={show} title={show} data-show={show} data-hide={hide}>
+              {/* Three square notes climbing a four-line staff: the sign that a text has its chant. */}
+              <svg width="22" height="18" viewBox="0 0 22 18" aria-hidden="true">
+                <path d="M0 2.5h22M0 6.8h22M0 11.1h22M0 15.4h22" stroke="currentColor" stroke-width="0.9" opacity="0.55" />
+                <rect x="3" y="9" width="4.2" height="4.2" fill="currentColor" />
+                <rect x="8.6" y="4.7" width="4.2" height="4.2" fill="currentColor" />
+                <rect x="14.4" y="0.4" width="4.2" height="4.2" fill="currentColor" />
+                <rect x="8.5" y="4.7" width="0.9" height="8.5" fill="currentColor" />
+              </svg>
+            </button>
+          </div>
+          <div class="sung-text flow-group">
+            <Astro.self items={body} locale={locale} />
+          </div>
+          <div class="sung-score" hidden>
+            {sheets}
+            {/* Under the notes, what they say: the Latin is in the score. */}
+            <div class="sung-gloss">
+              {glossOf(body).map((line) => <p>{line}</p>)}
+            </div>
+          </div>
+        </div>
       )
     }
     if (p.type === 'image') {
