@@ -26,7 +26,7 @@
     },
     // The relay's (apps/relay), for the usage desk, which only reads it. The relay makes its own
     // tables; locally, `pnpm --filter @ember/admin seed:usage` fills them with made-up installs.
-    { "binding": "RELAY", "database_name": "ember-relay", "database_id": "TODO-ember-relay-id" }
+    { "binding": "RELAY", "database_name": "ember-relay", "database_id": "6c2767ab-fa31-4043-96b1-53ac9c254e96" }
   ],
   // One box that runs the Claude Code CLI for the moderation desk (reviewer/).
   "containers": [
