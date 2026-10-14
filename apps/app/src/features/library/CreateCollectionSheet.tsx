@@ -76,7 +76,9 @@ export function CreateCollectionSheet({
             placeholder={t('collections.namePlaceholder')}
             fontFamily="$heading"
             fontSize="$5"
+            // tamagui's native Input reads only `autoFocusNative`; `autoFocus` is the web's.
             autoFocus
+            autoFocusNative
             onSubmitEditing={submit}
             returnKeyType="done"
           />
