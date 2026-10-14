@@ -5,6 +5,7 @@ import { createDesk, issues, message } from './desk'
 import type { Env } from './env'
 import { reviewer } from './reviewer'
 import type { Seen } from './types'
+import { loadUsage } from './usage'
 
 // Ember's admin panel. Its first desk is Mass-times moderation, under /api; the page is the static
 // build in dist/. Reviews by Claude run in the Reviewer container.
@@ -84,6 +85,17 @@ app.post('/history/:id/undo', async (c) => c.json(await desk(c).undo(c.req.param
 app.post('/history/:id/shared', async (c) => {
   const { shared } = await c.req.json<{ shared?: boolean }>()
   return c.json(await desk(c).markShared(c.req.param('id'), shared === true))
+})
+
+app.get('/usage', async (c) => {
+  const days = Number(c.req.query('days'))
+  return c.json(
+    await loadUsage(c.env.RELAY, {
+      days: [7, 28, 90].includes(days) ? days : 28,
+      platform: c.req.query('platform') ?? '',
+      language: c.req.query('language') ?? '',
+    }),
+  )
 })
 
 app.all('*', (c) => c.json({ error: `No route for ${c.req.method} ${c.req.path}` }, 404))

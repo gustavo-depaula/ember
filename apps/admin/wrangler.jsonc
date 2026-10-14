@@ -23,7 +23,10 @@
       "database_name": "ember-mass-times",
       "database_id": "a7116073-ff15-4499-a18d-cef9cb4dbfb3",
       "migrations_dir": "../backend/migrations"
-    }
+    },
+    // The relay's (apps/relay), for the usage desk, which only reads it. The relay makes its own
+    // tables; locally, `pnpm --filter @ember/admin seed:usage` fills them with made-up installs.
+    { "binding": "RELAY", "database_name": "ember-relay", "database_id": "TODO-ember-relay-id" }
   ],
   // One box that runs the Claude Code CLI for the moderation desk (reviewer/).
   "containers": [

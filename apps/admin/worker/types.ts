@@ -84,3 +84,55 @@ export type Progress = { runs: Record<string, Run>; reviewedAt: Record<string, s
 // What the page saw of each church a resolution names (its `updatedAt`), so a row that moved since
 // is refused instead of overwritten.
 export type Seen = Record<string, string | null>
+
+// The usage desk. Every count is of installs unless it says otherwise.
+
+export type UsageFilter = { days: number; platform: string; language: string }
+
+export type Usage = {
+  // The latest day any install has reached, which the periods end on.
+  today: string
+  filter: UsageFilter
+  pulse: {
+    today: number
+    yesterday: number
+    week: number
+    weekBefore: number
+    month: number
+    monthBefore: number
+    prayingWeek: number
+    prayingWeekBefore: number
+    ever: number
+  }
+  newcomers: { period: number; before: number }
+  daily: {
+    day: string
+    active: number
+    praying: number
+    new: number
+    week: number
+    opens: number
+  }[]
+  cohorts: { cohort: string; week: number; installs: number }[]
+  habit: { days: number; installs: number }[]
+  practices: { id: string; times: number; installs: number; before: number; opened?: number }[]
+  books: { id: string; installs: number; sittings: number; minutes: number }[]
+  hours: { weekday: number; hour: number; times: number }[]
+  screens: { route: string; views: number; installs: number }[]
+  actions: { name: string; times: number; installs: number }[]
+  audience: {
+    facet: 'platform' | 'language' | 'version' | 'update'
+    value: string
+    installs: number
+  }[]
+  accounts: {
+    accounts: number
+    reachable: number
+    news: number
+    recovery: number
+    deleted: number
+    activeWeek: number
+    devices: { devices: number; accounts: number }[]
+    weekly: { week: string; created: number; deleted: number }[]
+  }
+}

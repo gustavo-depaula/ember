@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite build && wrangler dev --persist-to ../backend/.wrangler/state --var ACCESS_AUD: --var ACCESS_TEAM_DOMAIN:",
     "deploy": "vite build && wrangler deploy",
+    "seed:usage": "mkdir -p .wrangler && node scripts/seed-usage.ts > .wrangler/seed-usage.sql && wrangler d1 execute RELAY --local --persist-to ../backend/.wrangler/state --file .wrangler/seed-usage.sql",
     "db:migrate:local": "wrangler d1 migrations apply ember-mass-times --local --persist-to ../backend/.wrangler/state",
     "typecheck": "tsc -p tsconfig.json && tsc -p tsconfig.worker.json"
   },

@@ -87,6 +87,7 @@ export function App() {
     <div className={`desk${logOpen || (caseOpen && current) ? ' desk--case' : ''}`}>
       <header className="top">
         <h1>Mass times desk</h1>
+        <a href="/usage">Usage</a>
         <span className={`target target--${desk.data.target}`}>
           {desk.data.target === 'remote' ? 'Production D1' : 'Local D1'}
         </span>

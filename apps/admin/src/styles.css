@@ -1054,3 +1054,291 @@ button.reject:not(:disabled) {
     min-height: 36px;
   }
 }
+
+/* Usage */
+
+.usage .top {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: var(--bg);
+  flex-wrap: wrap;
+}
+
+.usage .top select {
+  width: auto;
+}
+
+.segmented {
+  display: flex;
+}
+
+.segmented button {
+  border-radius: 0;
+  margin-left: -1px;
+}
+
+.segmented button:first-child {
+  border-radius: 8px 0 0 8px;
+}
+
+.segmented button:last-child {
+  border-radius: 0 8px 8px 0;
+}
+
+.segmented button.on {
+  background: var(--text);
+  color: var(--bg);
+}
+
+.usage-body {
+  display: grid;
+  gap: 28px;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 24px 24px 60px;
+}
+
+.usage-body section {
+  display: grid;
+  gap: 10px;
+  align-content: start;
+  min-width: 0;
+}
+
+.usage-body h2 {
+  font: 600 11px var(--ui);
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.lede {
+  font: 16px / 1.4 var(--body);
+  color: var(--text-2);
+}
+
+.columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  gap: 28px;
+}
+
+.pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.tiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 10px;
+}
+
+.tile {
+  display: grid;
+  gap: 2px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+}
+
+.tile-label {
+  font-size: 12px;
+  color: var(--text-2);
+}
+
+.tile-value {
+  font: 500 30px / 1.1 var(--body);
+}
+
+.tiles--small .tile-value {
+  font-size: 24px;
+}
+
+.tile-note {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.change {
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.change--up {
+  color: var(--green);
+}
+
+.change--down {
+  color: var(--red);
+}
+
+.chart {
+  margin: 0;
+}
+
+.chart svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.chart .grid {
+  stroke: var(--border);
+}
+
+.chart .bar {
+  fill: color-mix(in srgb, var(--accent) 45%, var(--surface));
+}
+
+.chart .bar:hover {
+  fill: var(--accent);
+}
+
+.chart .line {
+  fill: none;
+  stroke: var(--burgundy);
+  stroke-width: 2;
+}
+
+.chart .line--dashed {
+  stroke: var(--text-2);
+  stroke-width: 1.5;
+  stroke-dasharray: 4 4;
+}
+
+.chart .tick {
+  fill: var(--muted);
+  font-size: 11px;
+  text-anchor: middle;
+}
+
+.chart .tick--top {
+  text-anchor: end;
+}
+
+.chart figcaption {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--text-2);
+}
+
+.key {
+  display: inline-block;
+  width: 14px;
+  height: 8px;
+  margin-left: 8px;
+}
+
+.key--bar {
+  margin-left: 0;
+  background: color-mix(in srgb, var(--accent) 45%, var(--surface));
+}
+
+.key--line {
+  height: 2px;
+  background: var(--burgundy);
+}
+
+.key--dashed {
+  height: 0;
+  border-top: 2px dashed var(--text-2);
+}
+
+.ranked,
+.cohorts,
+.heat {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.ranked th,
+.cohorts th {
+  padding: 4px 6px;
+  text-align: left;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.ranked td {
+  padding: 4px 6px;
+  border-top: 1px solid var(--border);
+}
+
+.ranked .num,
+.cohorts td,
+.cohorts th {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.ranked .wide {
+  width: 30%;
+}
+
+.ranked .id {
+  font-size: 11px;
+}
+
+.meter {
+  display: block;
+  height: 8px;
+  border-radius: 4px;
+  background: var(--panel);
+}
+
+.meter span {
+  display: block;
+  height: 100%;
+  border-radius: 4px;
+  background: var(--accent);
+}
+
+.cohorts td {
+  padding: 5px 6px;
+  border: 1px solid var(--bg);
+}
+
+.cohorts td:first-child,
+.cohorts td:nth-child(2) {
+  color: var(--text-2);
+}
+
+.heat th {
+  padding: 0 4px;
+  font-weight: 500;
+  font-size: 11px;
+  color: var(--muted);
+  text-align: left;
+}
+
+.heat td {
+  height: 20px;
+  border: 1px solid var(--bg);
+  border-radius: 3px;
+}
+
+.blind p {
+  font: 15px / 1.45 var(--body);
+  color: var(--text-2);
+  max-width: 70ch;
+}
+
+@media (max-width: 860px) {
+  .columns {
+    grid-template-columns: 1fr;
+  }
+
+  .pair {
+    grid-template-columns: 1fr;
+  }
+}
