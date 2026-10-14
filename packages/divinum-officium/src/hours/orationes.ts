@@ -1086,12 +1086,10 @@ export async function getsuffragium(state: HoursState, lang: string): Promise<[s
   const hora = state.hora
   const kal = state.day.state
 
-  // Sancta Maria in Sabbato commemorated on Friday Vespers — Perl mutates the
-  // global $commune here; the only later reader on our paths is none, so the
-  // assignment is tracked but not propagated.
-  let commune = state.day.commune
-  if (/C1[012]/.test(kal.cwinnerSections.Rank ?? '') && hora === 'Vespera') commune = 'C10'
-  void commune
+  // Sancta Maria in Sabbato commemorated on Friday Vespers. Perl sets the
+  // global $commune, which the `commune C1[012]` condition in [Suffragium]
+  // reads when Major Special is loaded below.
+  if (/C1[012]/.test(kal.cwinnerSections.Rank ?? '') && hora === 'Vespera') ctx.commune = 'C10'
 
   const comment = /altovadensis/i.test(version)
     ? 5

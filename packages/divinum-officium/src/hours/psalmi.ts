@@ -486,9 +486,16 @@ async function psalmiMinor(state: HoursState, lang: string): Promise<string[]> {
 
     if (name === 'Adv') {
       name = ctx.dayname[0]
-      if (day > 16 && day < 24 && dayofweek) {
-        name = `Adv4${dayofweek + 1}`
+      if (day > 16 && day < 24 && dayofweek && !/cist/i.test(version)) {
+        let i: number | string = dayofweek + 1
+        // Saturday takes the antiphons of the feria Dec 21st falls on, and on
+        // Dec 23rd the Sunday's.
+        if (dayofweek === 6 && /trident|monastic.*divino/i.test(version)) {
+          i = day === 23 ? '' : getStThomasFeria(ctx.year) + 1
+        }
+        name = `Adv4${i}`
       }
+      if (/praedicatorum/i.test(version)) name = name.replace(/\d+$/, 'OP')
     }
     if (name === 'Pasch' && (!/Pasc7/i.test(ctx.dayname[0]) || /Completorium/i.test(hora))) {
       ind = 0

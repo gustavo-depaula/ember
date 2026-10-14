@@ -288,3 +288,15 @@ export function loadspecial(text: string, version: string): string[] {
   }
   return t.split('\n')
 }
+
+// Port of checkcommemoratio — the office's first non-empty Commemoratio
+// section, which callers search for an octave.
+export function checkcommemoratio(sections: Record<string, string>): string {
+  return (
+    sections.Commemoratio ||
+    sections['Commemoratio 1'] ||
+    sections['Commemoratio 2'] ||
+    sections['Commemoratio 3'] ||
+    ''
+  )
+}

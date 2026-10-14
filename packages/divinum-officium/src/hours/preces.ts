@@ -2,17 +2,11 @@
 // Psalterium preces lookup.
 
 import { emberday } from '../kalendar/occurrence'
+import { officestring } from '../kalendar/officestring'
 import { num } from '../kalendar/state'
+import { checkcommemoratio } from './helpers'
 import { setup } from './proprium'
 import type { HoursState } from './state'
-
-// Port of checkcommemoratio (orationes.pl:7) — first '!'-line of the office's
-// own Commemoratio section.
-export function checkcommemoratio(sections: Record<string, string>): string {
-  const text = sections['Commemoratio'] ?? sections['Commemoratio 2'] ?? ''
-  const m = /^!(.*)/m.exec(text)
-  return m ? m[1] : ''
-}
 
 // Port of preces($item) — returns true when the preces are to be said; sets
 // state.precesferiales.
@@ -64,7 +58,7 @@ export async function preces(state: HoursState, item: string): Promise<boolean> 
       } else {
         for (const commemo of state.day.commemoentries) {
           if (!commemo) continue
-          const c = await setup(state, 'Latin', commemo)
+          const c = (await officestring(state.day.state, 'Latin', commemo)) ?? {}
           const cr = (c.Rank ?? '').split(';;')
           if (
             num(cr[2]) >= ranklimit ||

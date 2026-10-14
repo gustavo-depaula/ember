@@ -78,7 +78,7 @@ export function createKalendarState(init: {
   directorium: Directorium
   caller?: number
 }): KalendarState {
-  return {
+  const state: KalendarState = {
     ctx: init.ctx,
     session: init.session,
     directorium: init.directorium,
@@ -127,6 +127,18 @@ export function createKalendarState(init: {
     communeSections: {},
     scripturaSections: {},
   }
+  // The `commune` condition reads Perl's live $commune global, which is this
+  // state's commune: bind the context to it, so a file loaded after the
+  // commune is resolved (or reassigned, as getsuffragium does) sees the value.
+  Object.defineProperty(init.ctx, 'commune', {
+    get: () => state.commune,
+    set: (value: string) => {
+      state.commune = value
+    },
+    enumerable: true,
+    configurable: true,
+  })
+  return state
 }
 
 // Port of subdirname(): version-specific data directory.

@@ -50,6 +50,11 @@ const dates: Array<[number, number, number]> = [
   [8, 15, 2026], // Assumption (I. cl. on a Saturday — concurrence with Sunday)
   [1, 1, 2026], // Circumcision / octave day of Christmas
   [11, 2, 2026], // All Souls (Office of the Dead at the major hours)
+  [3, 26, 2027], // Passiontide feria (Gloria Patri omitted, with its notice)
+  [1, 30, 2027], // I Vespers of a Sunday, morrow's Duplex commemorated (no suffrage)
+  [10, 22, 2027], // Friday Vespers before Our Lady on Saturday (suffrage without her)
+  [9, 23, 2028], // September Ember Saturday under a Semiduplex (preces said)
+  [12, 23, 2028], // Saturday Dec 23rd (Prime takes the Advent IV Sunday antiphon)
 ]
 
 // Extract one column of the hour from Pofficium's HTML: cells alternate
