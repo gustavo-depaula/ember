@@ -8,6 +8,7 @@ import {
   practiceRecord,
   recordWall,
   ruleTimeline,
+  ruleTimelines,
   type TimedEvent,
 } from '../record'
 
@@ -242,5 +243,34 @@ describe('planFidelity', () => {
     expect(
       fidelityOf(events, [...prayed, on('2026-09-13', rosary)], '2026-09-13', 30),
     ).toMatchObject({ prayedDays: 3, countedDays: 4 })
+  })
+
+  it('owes a merged practice’s essentials under the id its prayers moved to', () => {
+    // The plan once held the rosary under a bare id; folding it into the
+    // canonical one moves its slots and completions there.
+    const created = (practiceId: string): TimedEvent => ({
+      event: { type: 'PracticeCreated', practiceId },
+      timestamp: at('2026-09-01'),
+    })
+    const merged: TimedEvent = {
+      event: { type: 'PracticeMerged', fromId: 'rosary', toId: rosary },
+      timestamp: at('2026-09-05'),
+    }
+    const events = [created('rosary'), slot('rosary', 'essential', '2026-09-01'), merged]
+    const r = planFidelity({
+      timelines: ruleTimelines(events),
+      completions: [on('2026-09-04', rosary), on('2026-09-08', rosary)],
+      today: '2026-09-09',
+      days: 6,
+      contextFor: () => undefined,
+    })
+    expect(r.wall.map((d) => d.value)).toEqual([
+      fidelity.kept,
+      fidelity.none,
+      fidelity.none,
+      fidelity.none,
+      fidelity.kept,
+      fidelity.open,
+    ])
   })
 })

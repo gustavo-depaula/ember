@@ -21,7 +21,14 @@ import { useOfTransfers } from '@/lib/missal/useOfTransfers'
 
 import { type ChronicleDay, type ChronicleProgram, chronicleDay } from './chronicle'
 import { joinsRound, programDayDates, programRounds } from './program'
-import { planFidelity, practiceRecord, recordWall, ruleTimeline, type TimedEvent } from './record'
+import {
+  planFidelity,
+  practiceRecord,
+  recordWall,
+  ruleTimeline,
+  ruleTimelines,
+  type TimedEvent,
+} from './record'
 import { parseSchedule } from './schedule'
 
 const ruleEventTypes = [
@@ -29,6 +36,7 @@ const ruleEventTypes = [
   'PracticeArchived',
   'PracticeUnarchived',
   'PracticeDeleted',
+  'PracticeMerged',
   'SlotAdded',
   'SlotUpdated',
   'SlotDeleted',
@@ -126,9 +134,7 @@ export function usePlanFidelity(weeks: number) {
 
   return useMemo(() => {
     if (!events) return undefined
-    const practiceIds = new Set<string>()
-    for (const { event } of events) if ('practiceId' in event) practiceIds.add(event.practiceId)
-    const timelines = new Map([...practiceIds].map((id) => [id, ruleTimeline(id, events)]))
+    const timelines = ruleTimelines(events)
     const completions = [...all.values()].map((c) => ({
       date: c.date,
       practiceId: c.practice_id,
@@ -220,17 +226,11 @@ export function useChronicle():
   const base = useMemo(() => {
     if (!events) return undefined
     const programIds = new Set(programs.map((p) => p.practiceId))
-    const practiceIds = new Set<string>()
-    for (const { event } of events) {
-      if ('practiceId' in event && !programIds.has(event.practiceId)) {
-        practiceIds.add(event.practiceId)
-      }
-    }
     // A practice never enabled in the plan asks nothing of any day.
     const timelines = new Map(
-      [...practiceIds]
-        .map((id) => [id, ruleTimeline(id, events)] as const)
-        .filter(([, timeline]) => timeline.some((s) => s.slots.length > 0)),
+      [...ruleTimelines(events)].filter(
+        ([id, timeline]) => !programIds.has(id) && timeline.some((s) => s.slots.length > 0),
+      ),
     )
     const byDate = new Map<string, Parameters<typeof chronicleDay>[0]['completions']>()
     for (const c of completions.values()) {

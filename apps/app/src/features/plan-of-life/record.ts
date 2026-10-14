@@ -4,6 +4,7 @@ import type { WritableDraft } from 'immer'
 import { pinsAgree } from '@/content/pins'
 import type { EventStoreState } from '@/db/events'
 import { applyEvent } from '@/db/events/projections'
+import type { SlotState } from '@/db/events/state'
 import type { AppEvent } from '@/db/events/types'
 import type { Tier, TimeBlock } from '@/db/schema'
 import { parseSlotKey } from '@/lib/slotKey'
@@ -31,11 +32,13 @@ export type Prayed = { subId: string | null; pins?: Record<string, string> }
 type DayKeeping = 'kept' | 'missed' | 'partial' | 'free'
 
 /**
- * The rule's history, one snapshot per day it changed, replayed through the
- * store's own projection so archive, unarchive and slot edits mean here exactly
- * what they mean in the plan.
+ * Every practice's rule history, one snapshot per day it changed, replayed
+ * through the store's own projection so archive, unarchive, slot edits and
+ * merges mean here exactly what they mean in the plan. A practice merged into
+ * another is filed under the id it ended with, as its completions are, so the
+ * days before the merge ask for what was prayed under the old id.
  */
-export function ruleTimeline(practiceId: string, events: TimedEvent[]): RuleSnapshot[] {
+export function ruleTimelines(events: TimedEvent[]): Map<string, RuleSnapshot[]> {
   const state = {
     practices: new Map(),
     slots: new Map(),
@@ -44,41 +47,92 @@ export function ruleTimeline(practiceId: string, events: TimedEvent[]): RuleSnap
     completionsByPractice: new Map(),
     cursors: new Map(),
   } as unknown as WritableDraft<EventStoreState>
-  const snapshots: RuleSnapshot[] = []
+  // The projection moves a merged slot by renaming it in place, so a capture
+  // that holds the slot itself reads its final key once the log is replayed.
+  type Captured = { date: string; slots: { slot: SlotState; fields: SnapshotSlotFields }[] }
+  const captured = new Map<string, Captured[]>()
+  const mergedInto = new Map<string, string>()
 
   for (const { event, timestamp } of events) {
-    if (!concerns(event, practiceId)) continue
+    const touched = practicesOf(event)
+    if (touched.length === 0) continue
     applyEvent(state, event)
+    if (event.type === 'PracticeMerged') mergedInto.set(event.fromId, event.toId)
     const date = format(timestamp, 'yyyy-MM-dd')
-    const archived = state.practices.get(practiceId)?.archived === 1
-    const slots = archived
-      ? []
-      : [...state.slots.values()]
-          .filter((s) => s.practice_id === practiceId && s.enabled === 1)
-          .map((s) => ({
-            id: parseSlotKey(s.id).slotId,
-            schedule: parseSchedule(s.schedule),
-            tier: s.tier,
-            time: s.time,
-            timeBlock: s.time_block,
-            pins: s.pins,
-          }))
-    if (snapshots.at(-1)?.date === date) snapshots[snapshots.length - 1] = { date, slots }
-    else snapshots.push({ date, slots })
+    for (const practiceId of touched) {
+      const archived = state.practices.get(practiceId)?.archived === 1
+      const slots = archived
+        ? []
+        : [...state.slots.values()]
+            .filter((s) => s.practice_id === practiceId && s.enabled === 1)
+            .map((slot) => ({
+              slot,
+              fields: {
+                schedule: parseSchedule(slot.schedule),
+                tier: slot.tier,
+                time: slot.time,
+                timeBlock: slot.time_block,
+                pins: slot.pins,
+              },
+            }))
+      const days = captured.get(practiceId) ?? []
+      if (days.at(-1)?.date === date) days[days.length - 1] = { date, slots }
+      else days.push({ date, slots })
+      captured.set(practiceId, days)
+    }
   }
-  return snapshots
+
+  const finalId = (practiceId: string) => {
+    let id = practiceId
+    for (let hops = 0; mergedInto.has(id) && hops < mergedInto.size; hops++) {
+      id = mergedInto.get(id) as string
+    }
+    return id
+  }
+  const sources = new Map<string, Captured[][]>()
+  for (const [practiceId, days] of captured) {
+    const id = finalId(practiceId)
+    sources.set(id, [...(sources.get(id) ?? []), days])
+  }
+
+  // A practice and those merged into it each hold their own slots until the
+  // merge; the plan on a day had all of them.
+  const timelines = new Map<string, RuleSnapshot[]>()
+  for (const [practiceId, parts] of sources) {
+    const dates = [...new Set(parts.flatMap((days) => days.map((d) => d.date)))].sort()
+    timelines.set(
+      practiceId,
+      dates.map((date) => ({
+        date,
+        slots: parts.flatMap((days) =>
+          (snapshotAt(days, date)?.slots ?? []).map(({ slot, fields }) => ({
+            id: parseSlotKey(slot.id).slotId,
+            ...fields,
+          })),
+        ),
+      })),
+    )
+  }
+  return timelines
 }
 
-function concerns(event: AppEvent, practiceId: string): boolean {
-  if ('practiceId' in event) {
-    return event.practiceId === practiceId && !event.type.startsWith('Completion')
-  }
-  if (event.type === 'SlotUpdated') return parseSlotKey(event.slotKey).practiceId === practiceId
-  return false
+/** One practice's rule history; see `ruleTimelines`. */
+export function ruleTimeline(practiceId: string, events: TimedEvent[]): RuleSnapshot[] {
+  return ruleTimelines(events).get(practiceId) ?? []
 }
 
-export function snapshotAt(timeline: RuleSnapshot[], date: string): RuleSnapshot | undefined {
-  let found: RuleSnapshot | undefined
+type SnapshotSlotFields = Omit<RuleSnapshot['slots'][number], 'id'>
+
+function practicesOf(event: AppEvent): string[] {
+  if (event.type.startsWith('Completion')) return []
+  if (event.type === 'PracticeMerged') return [event.fromId, event.toId]
+  if ('practiceId' in event) return [event.practiceId]
+  if (event.type === 'SlotUpdated') return [parseSlotKey(event.slotKey).practiceId]
+  return []
+}
+
+export function snapshotAt<T extends { date: string }>(timeline: T[], date: string): T | undefined {
+  let found: T | undefined
   for (const s of timeline) {
     if (s.date > date) break
     found = s
