@@ -2,7 +2,7 @@
 // log folded, and the account kept in step while a page of the site is open.
 // Loaded by `boot.ts` only for such a browser, and on the page that connects one.
 import { replayAll } from '@/db/events'
-import { loadAccount, startSync, sync } from '@/features/sync/engine'
+import { loadAccount, startSync } from '@/features/sync/engine'
 import { useSync } from '@/features/sync/state'
 import { openDatabase } from '~/platform/browser/dbClient'
 import { connected } from './connected'
@@ -19,20 +19,20 @@ function changed() {
   for (const listener of listeners) listener()
 }
 
-let leading = false
+let keeping = false
 
 /**
- * Keeps the account in step from this tab, or from whichever tab of the site
- * opened first: one tab talks to the relay, and the others see what it
- * brings through the database they share.
+ * Keeps the account in step from this tab: on opening, a few seconds after a
+ * change made here, on coming back into view, and about once a minute while
+ * in view. Every tab does so for itself, as a tab left in the background
+ * fetches nothing: two tabs sending the same change is harmless, since the
+ * relay keeps an event once however often it arrives.
  */
 export function keepInStep(): void {
   connected.set(true)
-  navigator.locks.request('ember-sync', () => {
-    leading = true
-    startSync(changed)
-    return new Promise<never>(() => {})
-  })
+  if (keeping) return
+  keeping = true
+  startSync(changed)
 }
 
 async function start() {
@@ -41,7 +41,6 @@ async function start() {
       // An account removed from this browser in another tab.
       if (!useSync.getState().account) connected.set(false)
       changed()
-      if (leading) sync()
     })
   })
   await loadAccount()
