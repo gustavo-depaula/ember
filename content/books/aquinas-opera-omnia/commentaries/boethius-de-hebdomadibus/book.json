@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Boethius's De Hebdomadibus",
-    "la": "Super Boethium De Hebdomadibus"
+    "la": "Super Boethium De Hebdomadibus",
+    "pt-BR": "Comentário ao De Hebdomadibus de Boécio"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Boethius's *De Hebdomadibus* — the brief but influential treatise on how things are good in virtue of their participation in the First Good. A key text for Thomistic metaphysics of participation.",
-    "la": "Expositio Thomae in *De Hebdomadibus* Boethii — tractatum brevem sed influentem de modo quo res bonae sunt per participationem in Primo Bono. Textus clavis metaphysicae participationis Thomisticae."
+    "la": "Expositio Thomae in *De Hebdomadibus* Boethii — tractatum brevem sed influentem de modo quo res bonae sunt per participationem in Primo Bono. Textus clavis metaphysicae participationis Thomisticae.",
+    "pt-BR": "Comentário de Tomás de Aquino ao *De Hebdomadibus* de Boécio — o breve mas influente tratado sobre o modo como as coisas são boas por sua participação no Primeiro Bem. Texto-chave da metafísica tomista da participação."
   },
   "composed": "1257–1259",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,42 +39,48 @@
       "id": "deheb-c01",
       "title": {
         "en-US": "Prologue",
-        "la": "Prologue"
+        "la": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "deheb-c02",
       "title": {
         "en-US": "L. 1 - Boethius' Preface",
-        "la": "L. 1 - Boethius' Preface"
+        "la": "L. 1 - Boethius' Preface",
+        "pt-BR": "L. 1 - Prefácio de Boécio"
       }
     },
     {
       "id": "deheb-c03",
       "title": {
         "en-US": "L. 2 - Commentary on the Rules",
-        "la": "L. 2 - Commentary on the Rules"
+        "la": "L. 2 - Commentary on the Rules",
+        "pt-BR": "L. 2 - Comentário às regras"
       }
     },
     {
       "id": "deheb-c04",
       "title": {
         "en-US": "L. 3 - Commentary on the Problem",
-        "la": "L. 3 - Commentary on the Problem"
+        "la": "L. 3 - Commentary on the Problem",
+        "pt-BR": "L. 3 - Comentário ao problema"
       }
     },
     {
       "id": "deheb-c05",
       "title": {
         "en-US": "L. 4 - Commentary on the Solution",
-        "la": "L. 4 - Commentary on the Solution"
+        "la": "L. 4 - Commentary on the Solution",
+        "pt-BR": "L. 4 - Comentário à solução"
       }
     },
     {
       "id": "deheb-c06",
       "title": {
         "en-US": "L. 5 - Commentary on the Objections and Replies",
-        "la": "L. 5 - Commentary on the Objections and Replies"
+        "la": "L. 5 - Commentary on the Objections and Replies",
+        "pt-BR": "L. 5 - Comentário às objeções e respostas"
       }
     }
   ]
