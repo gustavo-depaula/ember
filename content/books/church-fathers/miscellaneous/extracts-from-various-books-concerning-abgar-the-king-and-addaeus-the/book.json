@@ -2,13 +2,16 @@
   "id": "miscellaneous-extracts-from-various-books-concerning-abgar-the-king-and-addaeus-",
   "cover": "quarter",
   "name": {
-    "en-US": "Extracts from Various Books Concerning Abgar the King and Addaeus the Apostle (unknown date)"
+    "en-US": "Extracts from Various Books Concerning Abgar the King and Addaeus the Apostle (unknown date)",
+    "pt-BR": "Extratos de Diversos Livros Acerca do Rei Abgar e do Apóstolo Adeu (data desconhecida)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Extracts from Various Books Concerning Abgar the King and Addaeus the Apostle (unknown date)"
+        "en-US": "Extracts from Various Books Concerning Abgar the King and Addaeus the Apostle (unknown date)",
+        "pt-BR": "Extratos de Diversos Livros Acerca do Rei Abgar e do Apóstolo Adeu (data desconhecida)"
       }
     }
   ]
