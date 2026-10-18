@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Matthew (Reportatio of Peter of Scala)",
-    "la": "Super Matthaeum (Reportatio Petri de Scala)"
+    "la": "Super Matthaeum (Reportatio Petri de Scala)",
+    "pt-BR": "Comentário ao Evangelho de Mateus (Reportatio de Pedro de Scala)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A *reportatio* of Aquinas's Matthew lectures by Peter of Scala — an alternate transmission of the Matthew commentary chapters that complements R. F. Larcher's text.",
-    "la": "*Reportatio* Petri de Scala lectionum Thomae in Matthaeum — transmissio alternativa quae *reportationem* Legerii Bisuntini complet."
+    "la": "*Reportatio* Petri de Scala lectionum Thomae in Matthaeum — transmissio alternativa quae *reportationem* Legerii Bisuntini complet.",
+    "pt-BR": "*Reportatio* das lições de Tomás sobre Mateus feita por Pedro de Scala — uma transmissão alternativa de capítulos do comentário a Mateus, que complementa a *reportatio* de Léger de Besançon."
   },
   "composed": "c. 1269–1270",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,7 +39,8 @@
       "id": "ch006",
       "title": {
         "en-US": "Chapter 6",
-        "la": "Caput 6 — Lectio 1 — Petri de Scala"
+        "la": "Caput 6 — Lectio 1 — Petri de Scala",
+        "pt-BR": "Capítulo 6 — Lição 1 — Pedro de Scala"
       }
     }
   ]
