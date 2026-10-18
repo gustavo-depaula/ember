@@ -2,13 +2,16 @@
   "id": "gregory-nyssa-great-catechism",
   "cover": "quarter",
   "name": {
-    "en-US": "The Great Catechism"
+    "en-US": "The Great Catechism",
+    "pt-BR": "A Grande Catequese"
   },
   "author": {
-    "en-US": "Gregory of Nyssa"
+    "en-US": "Gregory of Nyssa",
+    "pt-BR": "Gregório de Nissa"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Great Catechism"
+        "en-US": "The Great Catechism",
+        "pt-BR": "A Grande Catequese"
       }
     }
   ]
