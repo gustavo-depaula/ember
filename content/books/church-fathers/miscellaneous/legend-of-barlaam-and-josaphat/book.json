@@ -2,13 +2,16 @@
   "id": "miscellaneous-legend-of-barlaam-and-josaphat",
   "cover": "quarter",
   "name": {
-    "en-US": "The Legend of Barlaam and Josaphat"
+    "en-US": "The Legend of Barlaam and Josaphat",
+    "pt-BR": "A Lenda de Barlaão e Josafá"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Legend of Barlaam and Josaphat"
+        "en-US": "The Legend of Barlaam and Josaphat",
+        "pt-BR": "A Lenda de Barlaão e Josafá"
       }
     }
   ]
