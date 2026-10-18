@@ -2,13 +2,16 @@
   "id": "tertullian-appendix",
   "cover": "quarter",
   "name": {
-    "en-US": "Appendix (Against All Heresies)"
+    "en-US": "Appendix (Against All Heresies)",
+    "pt-BR": "Apêndice (Contra todas as heresias)"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Appendix (Against All Heresies)"
+        "en-US": "Appendix (Against All Heresies)",
+        "pt-BR": "Apêndice (Contra todas as heresias)"
       }
     }
   ]
