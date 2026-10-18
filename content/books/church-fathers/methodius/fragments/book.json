@@ -2,13 +2,16 @@
   "id": "methodius-fragments",
   "cover": "quarter",
   "name": {
-    "en-US": "Fragments"
+    "en-US": "Fragments",
+    "pt-BR": "Fragmentos"
   },
   "author": {
-    "en-US": "Methodius"
+    "en-US": "Methodius",
+    "pt-BR": "Metódio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Fragments"
+        "en-US": "Fragments",
+        "pt-BR": "Fragmentos"
       }
     }
   ]
