@@ -2,13 +2,16 @@
   "id": "hilary-homilies-on-the-psalms",
   "cover": "quarter",
   "name": {
-    "en-US": "Homilies on the Psalms"
+    "en-US": "Homilies on the Psalms",
+    "pt-BR": "Homilias sobre os Salmos"
   },
   "author": {
-    "en-US": "Hilary of Poitiers"
+    "en-US": "Hilary of Poitiers",
+    "pt-BR": "Santo Hilário de Poitiers"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,19 +24,22 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Psalm 1"
+        "en-US": "Psalm 1",
+        "pt-BR": "Salmo 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Psalm 54/53"
+        "en-US": "Psalm 54/53",
+        "pt-BR": "Salmo 54/53"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Psalm 131/130"
+        "en-US": "Psalm 131/130",
+        "pt-BR": "Salmo 131/130"
       }
     }
   ]
