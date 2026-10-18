@@ -2,13 +2,16 @@
   "id": "novatian-jewish-meats",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Jewish Meats"
+    "en-US": "On the Jewish Meats",
+    "pt-BR": "Sobre os alimentos judaicos"
   },
   "author": {
-    "en-US": "Novatian"
+    "en-US": "Novatian",
+    "pt-BR": "Novaciano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Jewish Meats"
+        "en-US": "On the Jewish Meats",
+        "pt-BR": "Sobre os alimentos judaicos"
       }
     }
   ]
