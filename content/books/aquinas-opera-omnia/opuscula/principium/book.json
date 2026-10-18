@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Inaugural Sermons (Rigans montes / Hic est liber)",
-    "la": "Principia: Rigans montes / Hic est liber"
+    "la": "Principia: Rigans montes / Hic est liber",
+    "pt-BR": "Sermões Inaugurais (Rigans montes / Hic est liber)"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's two inaugural lectures as Master of Theology at Paris (Spring 1256): *Rigans montes de superioribus suis* on the dignity of Sacred Scripture, and *Hic est liber mandatorum Dei* — the commendation and division of Scripture that every new master delivered.",
-    "la": "Duo principia Thomae cum suscepta licentia magistri in theologia Parisiis (vere 1256): *Rigans montes de superioribus suis* de dignitate Sacrae Scripturae, et *Hic est liber mandatorum Dei* — commendatio et divisio Sacrae Scripturae quae a novo magistro fiebat."
+    "la": "Duo principia Thomae cum suscepta licentia magistri in theologia Parisiis (vere 1256): *Rigans montes de superioribus suis* de dignitate Sacrae Scripturae, et *Hic est liber mandatorum Dei* — commendatio et divisio Sacrae Scripturae quae a novo magistro fiebat.",
+    "pt-BR": "Os dois sermões inaugurais de Santo Tomás como mestre em teologia em Paris (primavera de 1256): *Rigans montes de superioribus suis*, sobre a dignidade da Sagrada Escritura, e *Hic est liber mandatorum Dei* — a recomendação e a divisão da Escritura que todo novo mestre proferia."
   },
   "composed": "1256",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "ch001",
       "title": {
         "en-US": "Chapter 1 — This is the book",
-        "la": "Caput 1 — This is the book"
+        "la": "Caput 1 — This is the book",
+        "pt-BR": "Capítulo 1 — Este é o livro"
       }
     },
     {
       "id": "ch002",
       "title": {
         "en-US": "Chapter 2 — Watering the hills",
-        "la": "Caput 2 — Watering the hills"
+        "la": "Caput 2 — Watering the hills",
+        "pt-BR": "Capítulo 2 — Regando os montes"
       }
     }
   ]
