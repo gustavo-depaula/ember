@@ -2,13 +2,16 @@
   "id": "miscellaneous-martyrdom-of-barsamya",
   "cover": "quarter",
   "name": {
-    "en-US": "The Martyrdom of Barsamya (unknown date)"
+    "en-US": "The Martyrdom of Barsamya (unknown date)",
+    "pt-BR": "O Martírio de Barsamya (data desconhecida)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Martyrdom of Barsamya (unknown date)"
+        "en-US": "The Martyrdom of Barsamya (unknown date)",
+        "pt-BR": "O Martírio de Barsamya (data desconhecida)"
       }
     }
   ]
