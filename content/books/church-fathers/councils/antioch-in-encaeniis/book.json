@@ -2,13 +2,16 @@
   "id": "councils-antioch-in-encaeniis",
   "cover": "quarter",
   "name": {
-    "en-US": "Antioch in Encaeniis (341)"
+    "en-US": "Antioch in Encaeniis (341)",
+    "pt-BR": "Antioquia in Encaeniis (341)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Antioch in Encaeniis (341)"
+        "en-US": "Antioch in Encaeniis (341)",
+        "pt-BR": "Antioquia in Encaeniis (341)"
       }
     }
   ]
