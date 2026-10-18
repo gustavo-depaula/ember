@@ -62,3 +62,4 @@ Verdict: 0 meaning-level, 1 minor. Leitura integral dos 24 blocos, de book.json 
 Verdict: 0 meaning-level, 0 minor. Delta read of ch001 [11]–[13]: the translator's note on ekklesía/ekkaléo in [12] is correct; no defects found.
 - Rejected: pt-BR/ch001.md [12] — The shown paragraph contains the [^1] call but not its definition, so the note might be missing or duplicated. — Footnote definitions are not part of the paragraph display. The listed change adds the definition right after [12], and the mechanical audit finds the markup counts balanced. Nothing shown is defective.
 - Rejected: pt-BR/ch001.md [13] — "mas por sua simples vontade" adds "mas", which the source does not have. — It is the normal Portuguese link after "não a partir de…" and adds no content.
+- Revertida (orquestrador): a nota acrescentada em `pt-BR/ch001.md` [12] duplicava a definição já existente do mesmo marcador; o revisor não via as notas do tradutor.

@@ -88,3 +88,4 @@ Verdict: 0 meaning-level, 0 minor. Leitura delta de ch1261 [3]–[7], do diário
 - Rejected: pt-BR/ch1261.md [4] — «podestás» não é a forma dicionarizada; os dicionários registram «podestade». — «podestá» é a adaptação corrente do italiano *podestà* na historiografia em português. A forma está coerente com a tabela de termos. É escolha defensável, não erro.
 - Rejected: pt-BR/ch1261.md [6] — Plural em «usá-los» e «deles» para *pater noster*, que está no singular. — O latim usa o plural *eisdem*, e o sentido é distributivo: os cordões de cada frade. A concordância está correta.
 - Rejected: pt-BR/ch1261.md [7] — «por toda a província» acrescenta «toda» a *per provinciam*. — *per* com acusativo indica distribuição pelo território. «por toda a província» é uma tradução fiel, não um acréscimo de conteúdo.
+- Revertida (orquestrador): a nota acrescentada em `pt-BR/ch1261.md` [6] duplicava a definição já existente do mesmo marcador; o revisor não via as notas do tradutor.
