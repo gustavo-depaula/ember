@@ -2,13 +2,16 @@
   "id": "theodoret-counter-statements-to-cyril-s-12-anathemas-against-nestorius",
   "cover": "quarter",
   "name": {
-    "en-US": "Counter-Statements to Cyril's 12 Anathemas against Nestorius"
+    "en-US": "Counter-Statements to Cyril's 12 Anathemas against Nestorius",
+    "pt-BR": "Réplicas aos 12 Anátemas de Cirilo contra Nestório"
   },
   "author": {
-    "en-US": "Theodoret"
+    "en-US": "Theodoret",
+    "pt-BR": "Teodoreto"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Counter-Statements to Cyril's 12 Anathemas against Nestorius"
+        "en-US": "Counter-Statements to Cyril's 12 Anathemas against Nestorius",
+        "pt-BR": "Réplicas aos 12 Anátemas de Cirilo contra Nestório"
       }
     }
   ]
