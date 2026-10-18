@@ -2,13 +2,16 @@
   "id": "miscellaneous-acts-of-sharbil",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts of Sharbil (unknown date)"
+    "en-US": "Acts of Sharbil (unknown date)",
+    "pt-BR": "Atas de Sharbil (data desconhecida)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts of Sharbil (unknown date)"
+        "en-US": "Acts of Sharbil (unknown date)",
+        "pt-BR": "Atas de Sharbil (data desconhecida)"
       }
     }
   ]
