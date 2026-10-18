@@ -2,13 +2,16 @@
   "id": "gregory-thaumaturgus-four-homilies",
   "cover": "quarter",
   "name": {
-    "en-US": "Four Homilies"
+    "en-US": "Four Homilies",
+    "pt-BR": "Quatro Homilias"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,25 +24,29 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily 1"
+        "en-US": "Homily 1",
+        "pt-BR": "Homilia 1"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Homily 2"
+        "en-US": "Homily 2",
+        "pt-BR": "Homilia 2"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Homily 3"
+        "en-US": "Homily 3",
+        "pt-BR": "Homilia 3"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Homily 4"
+        "en-US": "Homily 4",
+        "pt-BR": "Homilia 4"
       }
     }
   ]
