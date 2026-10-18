@@ -2,13 +2,16 @@
   "id": "athanasius-de-sententia-dionysii",
   "cover": "quarter",
   "name": {
-    "en-US": "De Sententia Dionysii"
+    "en-US": "De Sententia Dionysii",
+    "pt-BR": "De Sententia Dionysii"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "De Sententia Dionysii"
+        "en-US": "De Sententia Dionysii",
+        "pt-BR": "De Sententia Dionysii"
       }
     }
   ]
