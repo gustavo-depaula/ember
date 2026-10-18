@@ -2,26 +2,31 @@
   "id": "tertullian-idolatry",
   "cover": "quarter",
   "name": {
-    "en-US": "On Idolatry"
+    "en-US": "On Idolatry",
+    "pt-BR": "Sobre a idolatria"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/0302.htm",
-      "description": "Translated by S. Thelwall. From Ante-Nicene Fathers, Vol. 3, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight."
+      "description": "Translated by S. Thelwall. From Ante-Nicene Fathers, Vol. 3, Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co 1885. Revised and edited for New Advent by Kevin Knight.",
+      "pt-BR": "Traduzido por S. Thelwall. De Ante-Nicene Fathers, vol. 3, editado por Alexander Roberts, James Donaldson e A. Cleveland Coxe, Buffalo, NY: Christian Literature Publishing Co., 1885. Revisado e editado para o New Advent por Kevin Knight."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "On Idolatry"
+        "en-US": "On Idolatry",
+        "pt-BR": "Sobre a idolatria"
       }
     }
   ]
