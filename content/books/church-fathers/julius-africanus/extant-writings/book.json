@@ -2,13 +2,16 @@
   "id": "julius-africanus-extant-writings",
   "cover": "quarter",
   "name": {
-    "en-US": "Extant Writings"
+    "en-US": "Extant Writings",
+    "pt-BR": "Escritos Remanescentes"
   },
   "author": {
-    "en-US": "Julius Africanus"
+    "en-US": "Julius Africanus",
+    "pt-BR": "Júlio Africano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Extant Writings"
+        "en-US": "Extant Writings",
+        "pt-BR": "Escritos Remanescentes"
       }
     }
   ]
