@@ -2,13 +2,16 @@
   "id": "athenagoras-resurrection-of-the-dead",
   "cover": "quarter",
   "name": {
-    "en-US": "The Resurrection of the Dead"
+    "en-US": "The Resurrection of the Dead",
+    "pt-BR": "A Ressurreição dos Mortos"
   },
   "author": {
-    "en-US": "Athenagoras"
+    "en-US": "Athenagoras",
+    "pt-BR": "Atenágoras"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The Resurrection of the Dead"
+        "en-US": "The Resurrection of the Dead",
+        "pt-BR": "A Ressurreição dos Mortos"
       }
     }
   ]
