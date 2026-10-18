@@ -2,13 +2,16 @@
   "id": "gennadius-illustrious-men",
   "cover": "quarter",
   "name": {
-    "en-US": "Illustrious Men (Supplement to Jerome)"
+    "en-US": "Illustrious Men (Supplement to Jerome)",
+    "pt-BR": "Homens Ilustres (Suplemento a Jerônimo)"
   },
   "author": {
-    "en-US": "Gennadius of Marseilles"
+    "en-US": "Gennadius of Marseilles",
+    "pt-BR": "Genádio de Marselha"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Illustrious Men (Supplement to Jerome)"
+        "en-US": "Illustrious Men (Supplement to Jerome)",
+        "pt-BR": "Homens Ilustres (Suplemento a Jerônimo)"
       }
     }
   ]
