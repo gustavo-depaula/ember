@@ -18,6 +18,10 @@ Recebei, ó Virgem benigna, esta pequena oferta de minha escravidão, em honra e
 
 Ó Virgem fiel, tornai-me em todas as coisas um tão perfeito discípulo, imitador e escravo da Sabedoria encarnada, Jesus Cristo vosso Filho, que eu chegue, por vossa intercessão e a vosso exemplo, à plenitude de sua idade na terra e de sua glória nos céus. Amém.
 
-*Qui potest capere capiat.* "Que aquele que pode compreender, compreenda."
+*Qui potest capere capiat.*[^291] "Que aquele que pode compreender, compreenda."
 
-*Quis sapiens, et intelliget haec?* "Quem é sábio? Ele compreenderá estas coisas."
+*Quis sapiens, et intelliget haec?*[^292] "Quem é sábio? Ele compreenderá estas coisas."
+
+[^291]: « Que aquele que pode compreender, compreenda. »
+
+[^292]: « Quem é sábio? Ele compreenderá estas coisas. »
