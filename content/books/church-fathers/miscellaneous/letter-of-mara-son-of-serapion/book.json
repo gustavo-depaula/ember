@@ -2,13 +2,16 @@
   "id": "miscellaneous-letter-of-mara-son-of-serapion",
   "cover": "quarter",
   "name": {
-    "en-US": "A Letter of Mara, Son of Serapion (unknown date)"
+    "en-US": "A Letter of Mara, Son of Serapion (unknown date)",
+    "pt-BR": "Uma Carta de Mara, Filho de Serapião (data desconhecida)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Letter of Mara, Son of Serapion (unknown date)"
+        "en-US": "A Letter of Mara, Son of Serapion (unknown date)",
+        "pt-BR": "Uma Carta de Mara, Filho de Serapião (data desconhecida)"
       }
     }
   ]
