@@ -68,3 +68,5 @@ Target: pt-BR (Brazilian Portuguese)
 | di piu | além disso | |
 | per altro | aliás / de resto | |
 | a questo servono | para isto servem | |
+
+- Notas da fonte não localizadas no português de `parte-2-preliminare-2.md` (o trecho a que se referem não foi encontrado): [^67].
