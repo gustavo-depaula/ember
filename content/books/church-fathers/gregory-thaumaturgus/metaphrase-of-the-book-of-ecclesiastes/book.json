@@ -2,13 +2,16 @@
   "id": "gregory-thaumaturgus-metaphrase-of-the-book-of-ecclesiastes",
   "cover": "quarter",
   "name": {
-    "en-US": "A Metaphrase of the Book of Ecclesiastes"
+    "en-US": "A Metaphrase of the Book of Ecclesiastes",
+    "pt-BR": "Metáfrase do Livro do Eclesiastes"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Metaphrase of the Book of Ecclesiastes"
+        "en-US": "A Metaphrase of the Book of Ecclesiastes",
+        "pt-BR": "Metáfrase do Livro do Eclesiastes"
       }
     }
   ]
