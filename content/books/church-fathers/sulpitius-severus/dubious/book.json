@@ -2,13 +2,16 @@
   "id": "sulpitius-severus-dubious",
   "cover": "quarter",
   "name": {
-    "en-US": "Dubious"
+    "en-US": "Dubious",
+    "pt-BR": "Cartas duvidosas"
   },
   "author": {
-    "en-US": "Sulpitius Severus (c. 363-c. 420)"
+    "en-US": "Sulpitius Severus (c. 363-c. 420)",
+    "pt-BR": "Sulpício Severo (c. 363-c. 420)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Dubious"
+        "en-US": "Dubious",
+        "pt-BR": "Cartas duvidosas"
       }
     }
   ]
