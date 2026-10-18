@@ -2,13 +2,16 @@
   "id": "gregory-thaumaturgus-subject-of-the-soul",
   "cover": "quarter",
   "name": {
-    "en-US": "On the Subject of the Soul"
+    "en-US": "On the Subject of the Soul",
+    "pt-BR": "Sobre a Alma"
   },
   "author": {
-    "en-US": "Gregory Thaumaturgus"
+    "en-US": "Gregory Thaumaturgus",
+    "pt-BR": "Gregório Taumaturgo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "On the Subject of the Soul"
+        "en-US": "On the Subject of the Soul",
+        "pt-BR": "Sobre a Alma"
       }
     }
   ]
