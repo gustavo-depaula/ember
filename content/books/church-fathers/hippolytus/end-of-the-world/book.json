@@ -2,13 +2,16 @@
   "id": "hippolytus-end-of-the-world",
   "cover": "quarter",
   "name": {
-    "en-US": "The End of the World (Pseudonymous)"
+    "en-US": "The End of the World (Pseudonymous)",
+    "pt-BR": "O Fim do Mundo (Pseudônimo)"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "The End of the World (Pseudonymous)"
+        "en-US": "The End of the World (Pseudonymous)",
+        "pt-BR": "O Fim do Mundo (Pseudônimo)"
       }
     }
   ]
