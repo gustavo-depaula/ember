@@ -4,14 +4,14 @@
 
 6. A casa da minha alma é estreita demais para que nela entreis; seja ela dilatada por Vós. Está em ruínas; restaurai-a Vós. Há nela muito que deve ofender os vossos olhos; eu o confesso e sei. Mas quem a purificará? Ou a quem clamarei, senão a Vós? "Purificai-me Vós das minhas faltas ocultas", ó Senhor, "e preservai o vosso servo dos pecados alheios."[^2] "Cri, e por isso falei."[^3] Mas Vós, ó Senhor, Vós sabeis. Não vos confessei as minhas transgressões, ó meu Deus? E não afastastes a iniquidade do meu coração?[^4] Não contendo em juízo convosco,[^5] que sois a própria verdade; e não quereria enganar-me a mim mesmo, para que a minha iniquidade não minta até a si mesma. Não contendo, pois, em juízo convosco, pois "se Vós, Senhor, observardes as iniquidades, Senhor, quem subsistirá?"[^6]
 
-[^1]: Ps. 35:3.
+[^1]: Salmos 35:3.
 
-[^2]: Cf. Ps. 19:12, 13.
+[^2]: Cf. Salmos 19:12, 13.
 
-[^3]: Ps. 116:10.
+[^3]: Salmos 116:10.
 
-[^4]: Cf. Ps. 32:5.
+[^4]: Cf. Salmos 32:5.
 
 [^5]: Cf. Jó 9:2.
 
-[^6]: Ps. 130:3.
+[^6]: Salmos 130:3.

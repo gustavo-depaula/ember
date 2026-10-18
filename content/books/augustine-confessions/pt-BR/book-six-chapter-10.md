@@ -10,4 +10,4 @@ Havia, porém, uma questão que atraía seu amor pelo estudo, na qual esteve mui
 
 [^2]: Lucas 16:11, 12.
 
-[^3]: Cf. Ps. 145:15.
+[^3]: Cf. Salmos 145:15.

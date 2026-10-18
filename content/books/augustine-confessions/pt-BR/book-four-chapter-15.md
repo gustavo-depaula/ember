@@ -18,9 +18,9 @@
 
 Ó Senhor nosso Deus, sob a sombra das vossas asas esperemos — defendei-nos e sustentai-nos.[^13] Vós nos carregareis quando formos pequenos, e até os nossos cabelos brancos Vós nos levareis. Pois a nossa estabilidade, quando está em Vós, é estabilidade verdadeira; mas quando está em nós mesmos, então é toda ela instável. O nosso bem vive para sempre convosco, e, quando nos desviamos de Vós com aversão, caímos na nossa própria perversão. Voltemos agora, ó Senhor, para que não sejamos derrubados, porque, junto de Vós, o nosso bem vive sem mácula — pois o nosso bem sois Vós mesmo. E não precisamos temer que não encontraremos lugar para onde voltar, por termos caído dele. Pois, na nossa ausência, a nossa morada — que é a vossa eternidade — não desaparece.
 
-[^1]: Ps. 72:18.
+[^1]: Salmos 72:18.
 
-[^2]: Ps. 18:28.
+[^2]: Salmos 18:28.
 
 [^3]: João 1:16.
 
@@ -30,11 +30,11 @@
 
 [^6]: Cf. Tiago 4:6; 1 Pedro 5:5.
 
-[^7]: Ps. 78:39.
+[^7]: Salmos 78:39.
 
 [^8]: Cf. Jeremias 25:10; 33:11; João 3:29; Apocalipse 18:23.
 
-[^9]: Cf. Ps. 51:8.
+[^9]: Cf. Salmos 51:8.
 
 [^10]: A primeira seção do *Organon*, que analisa o problema da predicação e desenvolve "as dez categorias" da *essência* e dos nove "acidentes". Essa obra existia numa tradução latina de Victorinus, que também traduziu as *Enéadas* de Plotino, às quais Agostinho se refere infra, Livro VIII, Cap. II, 3.
 
@@ -42,4 +42,4 @@
 
 [^12]: Novamente, o tema do Filho Pródigo; cf. Lucas 15:13.
 
-[^13]: Cf. Ps. 17:8.
+[^13]: Cf. Salmos 17:8.

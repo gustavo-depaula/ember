@@ -22,8 +22,8 @@ E eu, ó meu Deus e minha Alegria, também elevo um hino a Vós por todas essas 
 
 [^5]: Novamente, Ambrósio, *Deus, creator omnium*, evidentemente um dos favoritos de Agostinho. Ver acima, Livro IX, Cap. XII, 32.
 
-[^6]: Ps. 25:15.
+[^6]: Salmos 25:15.
 
-[^7]: Ps. 121:4.
+[^7]: Salmos 121:4.
 
-[^8]: Ps. 26:3.
+[^8]: Salmos 26:3.

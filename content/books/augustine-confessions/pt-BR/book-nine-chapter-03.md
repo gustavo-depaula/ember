@@ -8,8 +8,8 @@ Assim, pois, íamos consolando o infeliz Verecundo — sem que nossa amizade se 
 
 [^1]: Lucas 14:14.
 
-[^2]: Ps. 125:3.
+[^2]: Salmos 125:3.
 
 [^3]: A heresia do docetismo, um dos mais antigos e persistentes de todos os erros cristológicos.
 
-[^4]: Cf. Ps. 27:8.
+[^4]: Cf. Salmos 27:8.

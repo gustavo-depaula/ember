@@ -6,9 +6,9 @@ Por essa altura minha mãe havia chegado até mim, tendo reunido a coragem de su
 
 Ela me encontrou em perigo mortal, por causa do meu desespero de algum dia encontrar a verdade. Mas quando lhe disse que eu já não era maniqueu, embora ainda não fosse cristão católico, ela não saltou de alegria como se isso fosse inesperado; pois já havia sido tranquilizada quanto àquela parte da minha miséria pela qual me chorara como a um morto, mas também como a alguém que haveria de ressuscitar para Vós. Ela me havia carregado sobre o esquife de seus pensamentos, para que Vós dissésseis ao filho da viúva: "Jovem, eu te digo: levanta-te!"[^3], e então ele reviveria e começaria a falar, e Vós o entregaríeis à sua mãe. Por isso, o coração dela não se agitou com nenhuma exultação violenta quando ouviu que uma parte tão grande daquilo que ela Vos suplicava diariamente já se havia de fato realizado — que, embora eu ainda não houvesse alcançado a verdade, eu havia sido resgatado da falsidade. Ao contrário, ela estava plenamente confiante de que Vós, que lhe havíeis prometido o todo, lhe daríeis o resto, e assim, com a maior serenidade e um coração plenamente confiante, respondeu-me que cria, em Cristo, que antes de morrer me veria fiel católico. E não me disse mais do que isso. Mas a Vós, ó Fonte de misericórdia, ela derramava orações e lágrimas ainda mais frequentes, para que apressásseis o vosso auxílio e iluminásseis minhas trevas, e corria com mais zelo ainda à igreja e se prendia às palavras de Ambrósio, orando pela fonte de água que jorra para a vida eterna.[^4] Pois amava aquele homem como a um anjo de Deus, pois sabia que fora por meio dele que eu havia sido conduzido até àquele estado vacilante de agitação em que agora me encontrava, pelo qual ela estava plenamente persuadida de que eu passaria da doença para a saúde, ainda que fosse depois de uma convulsão ainda mais aguda, a qual os médicos chamam "a crise".
 
-[^1]: Cf. Ps. 71:5.
+[^1]: Cf. Salmos 71:5.
 
-[^2]: Cf. Ps. 10:1.
+[^2]: Cf. Salmos 10:1.
 
 [^3]: Cf. Lucas 7:11-17.
 
