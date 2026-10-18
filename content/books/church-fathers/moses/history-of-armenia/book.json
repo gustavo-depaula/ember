@@ -2,13 +2,16 @@
   "id": "moses-history-of-armenia",
   "cover": "quarter",
   "name": {
-    "en-US": "History of Armenia"
+    "en-US": "History of Armenia",
+    "pt-BR": "História da Armênia"
   },
   "author": {
-    "en-US": "Moses of Chorene (c. 400-c. 490)"
+    "en-US": "Moses of Chorene (c. 400-c. 490)",
+    "pt-BR": "Moisés de Corene (c. 400-c. 490)"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "History of Armenia"
+        "en-US": "History of Armenia",
+        "pt-BR": "História da Armênia"
       }
     }
   ]
