@@ -2,13 +2,16 @@
   "id": "dionysius-great-miscellaneous-fragments",
   "cover": "quarter",
   "name": {
-    "en-US": "Miscellaneous Fragments"
+    "en-US": "Miscellaneous Fragments",
+    "pt-BR": "Fragmentos Diversos"
   },
   "author": {
-    "en-US": "Dionysius the Great"
+    "en-US": "Dionysius the Great",
+    "pt-BR": "Dionísio Magno"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Miscellaneous Fragments"
+        "en-US": "Miscellaneous Fragments",
+        "pt-BR": "Fragmentos Diversos"
       }
     }
   ]
