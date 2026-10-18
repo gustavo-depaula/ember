@@ -2,13 +2,16 @@
   "id": "athanasius-circular-letter",
   "cover": "quarter",
   "name": {
-    "en-US": "Circular Letter"
+    "en-US": "Circular Letter",
+    "pt-BR": "Carta Circular"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Circular Letter"
+        "en-US": "Circular Letter",
+        "pt-BR": "Carta Circular"
       }
     }
   ]
