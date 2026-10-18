@@ -2,13 +2,16 @@
   "id": "councils-constantinople-ii",
   "cover": "quarter",
   "name": {
-    "en-US": "Constantinople II (553)"
+    "en-US": "Constantinople II (553)",
+    "pt-BR": "Constantinopla II (553)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Constantinople II (553)"
+        "en-US": "Constantinople II (553)",
+        "pt-BR": "Constantinopla II (553)"
       }
     }
   ]
