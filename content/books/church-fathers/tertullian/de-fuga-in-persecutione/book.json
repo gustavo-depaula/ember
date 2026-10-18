@@ -2,13 +2,16 @@
   "id": "tertullian-de-fuga-in-persecutione",
   "cover": "quarter",
   "name": {
-    "en-US": "De Fuga in Persecutione"
+    "en-US": "De Fuga in Persecutione",
+    "pt-BR": "De Fuga in Persecutione"
   },
   "author": {
-    "en-US": "Tertullian"
+    "en-US": "Tertullian",
+    "pt-BR": "Tertuliano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "De Fuga in Persecutione"
+        "en-US": "De Fuga in Persecutione",
+        "pt-BR": "De Fuga in Persecutione"
       }
     }
   ]
