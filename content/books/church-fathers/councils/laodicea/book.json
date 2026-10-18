@@ -2,13 +2,16 @@
   "id": "councils-laodicea",
   "cover": "quarter",
   "name": {
-    "en-US": "Laodicea (390)"
+    "en-US": "Laodicea (390)",
+    "pt-BR": "Laodiceia (390)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Laodicea (390)"
+        "en-US": "Laodicea (390)",
+        "pt-BR": "Laodiceia (390)"
       }
     }
   ]
