@@ -2,13 +2,16 @@
   "id": "augustine-acts-or-disputation-against-fortunatus-the-manichaean",
   "cover": "quarter",
   "name": {
-    "en-US": "Acts or Disputation Against Fortunatus the Manichaean"
+    "en-US": "Acts or Disputation Against Fortunatus the Manichaean",
+    "pt-BR": "Atas ou Disputa contra Fortunato, o Maniqueu"
   },
   "author": {
-    "en-US": "Augustine of Hippo"
+    "en-US": "Augustine of Hippo",
+    "pt-BR": "Agostinho de Hipona"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Acts or Disputation Against Fortunatus the Manichaean"
+        "en-US": "Acts or Disputation Against Fortunatus the Manichaean",
+        "pt-BR": "Atas ou Disputa contra Fortunato, o Maniqueu"
       }
     }
   ]
