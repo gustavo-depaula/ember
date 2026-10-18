@@ -148,3 +148,11 @@
 - "se mettre en peine" → "preocupar-se"
 - "mourir à soi-même" → "morrer a si mesmo"
 - "propre volonté" → "própria vontade"
+
+- Notas da fonte não localizadas no português de `part-1-ch-1.md` (o trecho a que se referem não foi encontrado): [^32], [^54].
+
+- Notas da fonte não localizadas no português de `part-2-ch-2.md` (o trecho a que se referem não foi encontrado): [^140], [^161].
+
+- Notas da fonte não localizadas no português de `part-2-ch-5.md` (o trecho a que se referem não foi encontrado): [^262].
+
+- Notas da fonte não localizadas no português de `part-2-ch-6.md` (o trecho a que se referem não foi encontrado): [^288].
