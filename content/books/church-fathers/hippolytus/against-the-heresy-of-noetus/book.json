@@ -2,13 +2,16 @@
   "id": "hippolytus-against-the-heresy-of-noetus",
   "cover": "quarter",
   "name": {
-    "en-US": "Against the Heresy of Noetus"
+    "en-US": "Against the Heresy of Noetus",
+    "pt-BR": "Contra a Heresia de Noeto"
   },
   "author": {
-    "en-US": "Hippolytus"
+    "en-US": "Hippolytus",
+    "pt-BR": "Hipólito"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Against the Heresy of Noetus"
+        "en-US": "Against the Heresy of Noetus",
+        "pt-BR": "Contra a Heresia de Noeto"
       }
     }
   ]
