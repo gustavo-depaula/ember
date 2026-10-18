@@ -1,4 +1,4 @@
-# 9 — A IMACULADA CONCEIÇÃO
+# 9 — A IMACULADA CONCEIÇÃO[^1]
 
 **Presença de Deus.** — *Ponho-me na presença de Maria Imaculada, minha doce Mãe, escutando o seu convite: "Vinde a mim, vós todos que me amais, e vos contarei quanto Deus fez à minha alma".*
 
@@ -33,3 +33,5 @@ A mim, tão relutante, tão preguiçoso e avaro em dar-me a Deus, tão mergulhad
 Com a luz que emana da tua resplandecente pureza, ilumina, pois, a minha mente para que nenhum apego, nenhum afeto terreno permaneça oculto em mim, impedindo-me de uma vida de real e plena consagração ao meu Deus.
 
 A ti confio, de modo todo particular, o meu voto de castidade; guarda-o e faze que eu seja puro não só de corpo, mas também de mente e de coração. Com a tua ajuda, minha Mãe, estou pronto a renunciar a qualquer afeto, ainda mínimo, que me possa ligar às criaturas; quero que o meu coração seja todo para Deus; por Ele quero guardar todos os seus palpites num espírito de total castidade.
+
+[^1]: Mover esta meditação conforme o calendário do ano.

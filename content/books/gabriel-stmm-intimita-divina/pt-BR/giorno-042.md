@@ -1,6 +1,6 @@
 # 42 — A SAGRADA FAMÍLIA
 
-*I domingo depois da Epifania*
+*I domingo depois da Epifania*[^1]
 
 **Presença de Deus.** — *Peço a Maria SS.ma que me admita na humilde casa de Nazaré para considerar a admirável vida que Jesus ali conduz.*
 
@@ -30,3 +30,4 @@ Mas foi só por um instante, e logo quiseste voltar ao escondimento da tua humil
 
 \* Mover esta meditação conforme o calendário do ano.
 
+[^1]: Mover esta meditação conforme o calendário do ano.

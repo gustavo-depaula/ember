@@ -24,7 +24,7 @@ Depois do desaparecimento súbito do insigne mestre, as Carmelitas, na posse de 
 
 A primeira edição de Intimidade Divina, rapidamente esgotada, foi acolhida com verdadeiro entusiasmo pelas almas espirituais. Foi pedida a tradução em várias línguas. E as numerosíssimas cartas de altos Prelados, de Diretores de Seminários, de Superiores e Superioras de casas religiosas, de Sacerdotes e de leigos atestam o bem que as almas recebem desta publicação.
 
-Nas edições sucessivas foi simplificado o calendário das meditações, abolindo a divisão em meses e seguindo unicamente a ordem das semanas litúrgicas. Em consequência, as meditações das festas fixas foram reunidas ao fim de cada volume. (Excetuam-se as meditações das festas do Natal, da Circuncisão e da Epifania, que, seguindo o uso geral, são inseridas no decorrer das semanas litúrgicas. O mesmo foi feito para a festa da Imaculada Conceição.)
+Nas edições sucessivas foi simplificado o calendário das meditações, abolindo a divisão em meses e seguindo unicamente a ordem das semanas litúrgicas. Em consequência, as meditações das festas fixas foram reunidas ao fim de cada volume.[^1] (Excetuam-se as meditações das festas do Natal, da Circuncisão e da Epifania, que, seguindo o uso geral, são inseridas no decorrer das semanas litúrgicas. O mesmo foi feito para a festa da Imaculada Conceição.)
 
 Foi completado o ciclo das meditações para as semanas depois da Epifania.
 
@@ -56,3 +56,5 @@ Santa Teresinha do Menino Jesus - HISTÓRIA DE UMA ALMA - L.I.C.E. - Turim, 1943
 Santa Teresinha do Menino Jesus - CARTAS. - Postulação O.C.D. - Roma, 1955.
 
 Irmã Elisabete da Trindade - TESTAMENTO ESPIRITUAL - Postulação O.C.D. - Roma, 1950.
+
+[^1]: Excetuam-se as meditações das festas do Natal, da Circuncisão e da Epifania, que, seguindo o uso geral, são inseridas no decorrer das semanas litúrgicas. O mesmo foi feito para a festa da Imaculada Conceição.
