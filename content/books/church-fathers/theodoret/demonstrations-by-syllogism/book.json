@@ -2,13 +2,16 @@
   "id": "theodoret-demonstrations-by-syllogism",
   "cover": "quarter",
   "name": {
-    "en-US": "Demonstrations by Syllogism"
+    "en-US": "Demonstrations by Syllogism",
+    "pt-BR": "Demonstrações por Silogismo"
   },
   "author": {
-    "en-US": "Theodoret"
+    "en-US": "Theodoret",
+    "pt-BR": "Teodoreto"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Demonstrations by Syllogism"
+        "en-US": "Demonstrations by Syllogism",
+        "pt-BR": "Demonstrações por Silogismo"
       }
     }
   ]
