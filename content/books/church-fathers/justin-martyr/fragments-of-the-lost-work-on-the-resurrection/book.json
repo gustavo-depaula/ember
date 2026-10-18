@@ -2,13 +2,16 @@
   "id": "justin-martyr-fragments-of-the-lost-work-on-the-resurrection",
   "cover": "quarter",
   "name": {
-    "en-US": "Fragments of the Lost Work on the Resurrection"
+    "en-US": "Fragments of the Lost Work on the Resurrection",
+    "pt-BR": "Fragmentos da obra perdida sobre a ressurreição"
   },
   "author": {
-    "en-US": "Justin Martyr"
+    "en-US": "Justin Martyr",
+    "pt-BR": "Justino Mártir"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Fragments of the Lost Work on the Resurrection"
+        "en-US": "Fragments of the Lost Work on the Resurrection",
+        "pt-BR": "Fragmentos da obra perdida sobre a ressurreição"
       }
     }
   ]
