@@ -2,13 +2,16 @@
   "id": "methodius-oration-on-the-psalms",
   "cover": "quarter",
   "name": {
-    "en-US": "Oration on the Psalms"
+    "en-US": "Oration on the Psalms",
+    "pt-BR": "Oração sobre os Salmos"
   },
   "author": {
-    "en-US": "Methodius"
+    "en-US": "Methodius",
+    "pt-BR": "Metódio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Oration on the Psalms"
+        "en-US": "Oration on the Psalms",
+        "pt-BR": "Oração sobre os Salmos"
       }
     }
   ]
