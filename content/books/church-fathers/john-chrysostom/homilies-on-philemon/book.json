@@ -2,44 +2,52 @@
   "id": "john-chrysostom-homilies-on-philemon",
   "cover": "quarter",
   "name": {
-    "en-US": "Homilies on Philemon"
+    "en-US": "Homilies on Philemon",
+    "pt-BR": "Homilias sobre Filêmon"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
       "language": "en-US",
       "url": "http://www.newadvent.org/fathers/2309.htm",
-      "description": "Translated by Philip Schaff. From Nicene and Post-Nicene Fathers, First Series, Vol. 13, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1889. Revised and edited for New Advent by Kevin Knight."
+      "description": "Translated by Philip Schaff. From Nicene and Post-Nicene Fathers, First Series, Vol. 13, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1889. Revised and edited for New Advent by Kevin Knight.",
+      "pt-BR": "Tradução de Philip Schaff. De Nicene and Post-Nicene Fathers, First Series, vol. 13, editado por Philip Schaff, Buffalo, NY: Christian Literature Publishing Co., 1889. Revisado e editado para New Advent por Kevin Knight."
     }
   ],
   "toc": [
     {
       "id": "ch001",
       "title": {
-        "en-US": "Argument"
+        "en-US": "Argument",
+        "pt-BR": "Argumento"
       }
     },
     {
       "id": "ch002",
       "title": {
-        "en-US": "Homily 1"
+        "en-US": "Homily 1",
+        "pt-BR": "Homilia 1"
       }
     },
     {
       "id": "ch003",
       "title": {
-        "en-US": "Homily 2"
+        "en-US": "Homily 2",
+        "pt-BR": "Homilia 2"
       }
     },
     {
       "id": "ch004",
       "title": {
-        "en-US": "Homily 3"
+        "en-US": "Homily 3",
+        "pt-BR": "Homilia 3"
       }
     }
   ]
