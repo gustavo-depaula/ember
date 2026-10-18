@@ -2,13 +2,16 @@
   "id": "miscellaneous-treatise-on-re-baptism",
   "cover": "quarter",
   "name": {
-    "en-US": "A Treatise on Re-Baptism (c. 255)"
+    "en-US": "A Treatise on Re-Baptism (c. 255)",
+    "pt-BR": "Tratado sobre o Rebatismo (c. 255)"
   },
   "author": {
-    "en-US": "Miscellaneous"
+    "en-US": "Miscellaneous",
+    "pt-BR": "Diversos"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "A Treatise on Re-Baptism (c. 255)"
+        "en-US": "A Treatise on Re-Baptism (c. 255)",
+        "pt-BR": "Tratado sobre o Rebatismo (c. 255)"
       }
     }
   ]
