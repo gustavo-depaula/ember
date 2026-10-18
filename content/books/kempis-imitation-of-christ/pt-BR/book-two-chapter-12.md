@@ -1,6 +1,6 @@
 # Da estrada real da santa cruz
 
-A muitos parece dura esta palavra: Renuncia a ti mesmo, toma a tua cruz e segue a Jesus Cristo (Mt 16,24). Muito mais duro, porém, será de ouvir aquela sentença final: Apartai-vos de mim, malditos, para o fogo eterno (Mt 25,41). Pois os que agora ouvem e seguem, docilmente, a palavra da cruz não recearão então a sentença da eterna condenação. Este sinal da cruz estará no céu, quando o Senhor vier para julgar. Então todos os servos da cruz, que em vida se conformam com Cristo crucificado, com grande confiança chegar-se-ão a Cristo juiz.
+A muitos parece dura esta palavra: Renuncia a ti mesmo, toma a tua cruz e segue a Jesus Cristo (Mt 16,24).[^1] Muito mais duro, porém, será de ouvir aquela sentença final: Apartai-vos de mim, malditos, para o fogo eterno (Mt 25,41).[^2] Pois os que agora ouvem e seguem, docilmente, a palavra da cruz não recearão então a sentença da eterna condenação. Este sinal da cruz estará no céu, quando o Senhor vier para julgar. Então todos os servos da cruz, que em vida se conformam com Cristo crucificado, com grande confiança chegar-se-ão a Cristo juiz.
 
 Por que temes, pois, tomar a cruz, pela qual se caminha ao reino do céu? Na cruz está a salvação, na cruz a vida, na cruz o amparo contra os inimigos, na cruz a abundância da suavidade divina, na cruz a fortaleza do coração, na cruz o compêndio das virtudes, na cruz a perfeição da santidade. Não há salvação da alma nem esperança da vida, senão na cruz. Toma, pois, a tua cruz, segue a Jesus e entrarás na vida eterna. O Senhor foi adiante, com a cruz às costas, e nela morreu por teu amor, para que tu também leves a tua cruz e nela desejes morrer. Porquanto, se com ele morreres, também com ele viverás. E, se fores seu companheiro na pena, também o serás na glória.
 
@@ -10,7 +10,7 @@ Ora serás desamparado de Deus, ora perseguido do próximo, e o que é pior não
 
 Se levares a cruz de boa vontade, ela te há de levar e conduzir ao termo desejado, onde acaba o sofrimento, posto que não seja neste mundo. Se a levares de má vontade, aumenta-lhe o peso efardo maior te impões; contudo é forçoso que a leves. Se rejeitares uma cruz, sem dúvida acharás outra, talvez mais pesada.
 
-Pensas tu escapar àquilo de que nenhum mortal pôde eximir-se? Que santo houve no mundo sem tribulação? Nem Jesus Cristo, Senhor Nosso, esteve uma hora, em toda a sua vida, sem dor e sofrimento. Convinha, disse ele, que Cristo sofresse e ressurgisse dos mortos, e assim entrasse na sua glória (Lc 24,26). Como, pois, buscas tu outro caminho que não seja o caminho real da santa cruz?
+Pensas tu escapar àquilo de que nenhum mortal pôde eximir-se? Que santo houve no mundo sem tribulação? Nem Jesus Cristo, Senhor Nosso, esteve uma hora, em toda a sua vida, sem dor e sofrimento. Convinha, disse ele, que Cristo sofresse e ressurgisse dos mortos, e assim entrasse na sua glória (Lc 24,26).[^3] Como, pois, buscas tu outro caminho que não seja o caminho real da santa cruz?
 
 Toda a vida de Cristo foi cruz e martírio; e tu procuras só descanso e gozo? Andas errado, e muito errado, se outra coisa procuras e não sofrimentos e tribulações; pois toda esta vida mortal está cheia de misérias e assinalada de cruzes. E quanto mais uma pessoa faz progressos na vida espiritual, tanto maiores cruzes encontra, muitas vezes, porque o amor lhe torna o exílio mais doloroso.
 
@@ -22,10 +22,20 @@ Portanto, como bom e fiel servo de Cristo, dispõe-te a levar a cruz do teu Senh
 
 Quando chegares a tal ponto que a tribulação te seja doce e amável por amor de Cristo, dá-te por feliz, pois achaste o paraíso na terra. Enquanto o padecer te é molesto e procuras fugir-lhe, andas mal, e em toda parte te persegue o medo da tribulação.
 
-Se te resolveres ao que deves, isto é, a padecer e morrer, logo te sentirás melhor e acharás paz. Ainda que fosses arrebatado, com S.Paulo, ao terceiro céu, nem por isso estarias livre de sofrer alguma contrariedade. Eu, diz Jesus, mostrar-lhes-ei quanto terá de sofrer por meu nome (At 9,16). Não te resta, pois, senão sofrer se pretendes amar e servir a Jesus para sempre.
+Se te resolveres ao que deves, isto é, a padecer e morrer, logo te sentirás melhor e acharás paz. Ainda que fosses arrebatado, com S.Paulo, ao terceiro céu, nem por isso estarias livre de sofrer alguma contrariedade. Eu, diz Jesus, mostrar-lhes-ei quanto terá de sofrer por meu nome (At 9,16).[^4] Não te resta, pois, senão sofrer se pretendes amar e servir a Jesus para sempre.
 
 Oxalá fosses digno de sofrer alguma coisa pelo nome de Jesus! Que grande glória resultaria para ti, que alegria para os santos de Deus, e que edificação para o próximo! Pois todos recomendam a paciência, ainda que poucos queiram praticá-la. Com razão devias padecer, de bom grado, este pouco por amor de Cristo, quando muitos sofrem pelo mundo coisas incomparavelmente maiores.
 
 Fica sabendo e tem por certo que tua vida deve ser uma morte contínua, e quanto mais cada um morre a si mesmo, tanto mais começa a viver para Deus. Só é capaz de compreender as coisas do céu quem por Cristo se resolve a sofrer toda adversidade. Nada neste mundo é mais agradável a Deus nem mais proveitoso a ti, que o sofrer, de bom grado, por Cristo. E se te dessem a escolha, antes deverias desejar sofrer adversidade, por amor de Cristo, do que ser recreado com muitas consolações porque assim serias mais conforme a Cristo, e mais semelhante a todos os santos. Porquanto não consiste nosso merecimento e progresso espiritual em ter muitas doçuras e consolações, mas em sofrer grandes angústias e tribulações.
 
-Se houvera coisa melhor e mais proveitosa para a salvação dos homens do que o padecer, Cristo, de certo, o teria ensinado com palavras e exemplo. Pois claramente exorta seus discípulos equantos o desejam seguir a que levem a cruz, dizendo: Quem quiser vir após mim renuncie a si mesmo, tome sua cruz, e siga-me (Lc 9,23). Seja, pois, de todas as lições e estudos este o resultado final: Cumpre-nos passar por muitas tribulações, para entrar no reino de Deus (At 14,21).
+Se houvera coisa melhor e mais proveitosa para a salvação dos homens do que o padecer, Cristo, de certo, o teria ensinado com palavras e exemplo. Pois claramente exorta seus discípulos equantos o desejam seguir a que levem a cruz, dizendo: Quem quiser vir após mim renuncie a si mesmo, tome sua cruz, e siga-me (Lc 9,23).[^5] Seja, pois, de todas as lições e estudos este o resultado final: Cumpre-nos passar por muitas tribulações, para entrar no reino de Deus (At 14,21).
+
+[^1]: Mateus 16,24.
+
+[^2]: Mateus 25,41.
+
+[^3]: Lucas 24,46.26.
+
+[^4]: Atos 9,16.
+
+[^5]: Lucas 9,23.

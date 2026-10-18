@@ -8,4 +8,6 @@ Que te aproveita discutires sabiamente sobre a SS. Trindade, se não és humilde
 
 Vaidade é, pois, buscar riquezas perecedoras e confiar nelas. Vaidade é também ambicionar honras e desejar posição elevada. Vaidade, seguir os apetites da carne e desejar aquilo pelo que, depois, serás gravemente castigado. Vaidade, desejar longa vida e, entretanto, descuidar-se de que seja boa. Vaidade, só atender à vida presente sem providenciar para a futura. Vaidade, amar o que passa tão rapidamente, e não buscar, pressuroso, a felicidade que sempre dura.
 
-Lembra-te a miúdo do provérbio: Os olhos não se fartam de ver, nem os ouvidos de ouvir (Ecle 1,8). Portanto, procura desapegar teu coração do amor às coisas visíveis e afeiçoá-lo às invisíveis: pois aqueles que satisfazem seus apetites sensuais mancham a consciência e perdem a graça de Deus.
+Lembra-te a miúdo do provérbio: Os olhos não se fartam de ver, nem os ouvidos de ouvir (Ecle 1,8).[^1] Portanto, procura desapegar teu coração do amor às coisas visíveis e afeiçoá-lo às invisíveis: pois aqueles que satisfazem seus apetites sensuais mancham a consciência e perdem a graça de Deus.
+
+[^1]: Ecle 1,8.

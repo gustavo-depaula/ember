@@ -1,6 +1,6 @@
 # Em que consiste a firme paz do coração e o verdadeiro aproveitamento
 
-Jesus: Filho, eu disse a meus discípulos: Eu vos deixo a paz; dou-vos a minha paz; não vo-la dou como a dá o mundo (Jo 14,27). Todos desejam a paz, mas nem todos buscam as coisas que produzem a verdadeira paz. A minha paz está com os humildes e mansos de coração. Na muita paciência encontrarás a tua paz. Se me ouvires e seguires a minha voz, poderás gozar grande paz.
+Jesus: Filho, eu disse a meus discípulos: Eu vos deixo a paz; dou-vos a minha paz; não vo-la dou como a dá o mundo (Jo 14,27).[^1] Todos desejam a paz, mas nem todos buscam as coisas que produzem a verdadeira paz. A minha paz está com os humildes e mansos de coração. Na muita paciência encontrarás a tua paz. Se me ouvires e seguires a minha voz, poderás gozar grande paz.
 
 A alma: Que hei de fazer, pois, Senhor?
 
@@ -11,3 +11,5 @@ Nunca sentir, porém, inquietação, nem sofrer moléstia alguma do corpo ou do 
 A alma: Em que consiste, pois, Senhor?
 
 Jesus: Em te ofereceres de todo o teu coração à divina vontade, sem buscares o teu próprio interesse em coisa alguma, nem eterna; de sorte que com igualdade de ânimo dês graças a Deus na ventura e na desgraça, pesando tudo na mesma balança. Se fores tão forte e constante na esperança que, privado de toda consolação interior, disponhas teu coração para maiores provações, sem te justificares, como se não deveras sofrer tanto, e antes louvares a santidade e a justiça em todas as minhas disposições, então andarás no verdadeiro e reto caminho da paz e poderás ter certíssima esperança de contemplar novamente minha face com júbilo. E, se chegares ao perfeito desprezo de ti mesmo, fica sabendo que então gozarás da abundância da paz, no grau possível nesta peregrinação terrestre.
+
+[^1]: João 14,27.
