@@ -2,13 +2,16 @@
   "id": "john-chrysostom-homily-on-the-passage-father-if-it-be-possible",
   "cover": "quarter",
   "name": {
-    "en-US": "Homily on the Passage \"Father, if it be possible . . .\""
+    "en-US": "Homily on the Passage \"Father, if it be possible . . .\"",
+    "pt-BR": "Homilia sobre a passagem “Pai, se é possível…”"
   },
   "author": {
-    "en-US": "John Chrysostom"
+    "en-US": "John Chrysostom",
+    "pt-BR": "João Crisóstomo"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Homily on the Passage \"Father, if it be possible . . .\""
+        "en-US": "Homily on the Passage \"Father, if it be possible . . .\"",
+        "pt-BR": "Homilia sobre a passagem “Pai, se é possível…”"
       }
     }
   ]
