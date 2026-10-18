@@ -2,13 +2,16 @@
   "id": "athanasius-de-decretis",
   "cover": "quarter",
   "name": {
-    "en-US": "De Decretis"
+    "en-US": "De Decretis",
+    "pt-BR": "De Decretis"
   },
   "author": {
-    "en-US": "Athanasius"
+    "en-US": "Athanasius",
+    "pt-BR": "Atanásio"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "De Decretis"
+        "en-US": "De Decretis",
+        "pt-BR": "De Decretis"
       }
     }
   ]
