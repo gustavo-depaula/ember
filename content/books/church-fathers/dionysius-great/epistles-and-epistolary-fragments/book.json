@@ -2,13 +2,16 @@
   "id": "dionysius-great-epistles-and-epistolary-fragments",
   "cover": "quarter",
   "name": {
-    "en-US": "Epistles and Epistolary Fragments"
+    "en-US": "Epistles and Epistolary Fragments",
+    "pt-BR": "Epístolas e Fragmentos Epistolares"
   },
   "author": {
-    "en-US": "Dionysius the Great"
+    "en-US": "Dionysius the Great",
+    "pt-BR": "Dionísio Magno"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Epistles and Epistolary Fragments"
+        "en-US": "Epistles and Epistolary Fragments",
+        "pt-BR": "Epístolas e Fragmentos Epistolares"
       }
     }
   ]
