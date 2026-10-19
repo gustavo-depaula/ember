@@ -743,6 +743,7 @@ def build_chapters(b: Builder) -> None:
 SEARCH_STEMMERS: dict[str, str | None] = {
     "en-US": "english",
     "pt-BR": "portuguese",
+    "es-419": "spanish",
     "la": None,
 }
 
@@ -919,9 +920,11 @@ def build_search_index_for_book(
 
     indexes: dict[str, dict] = {}
     for lang in sorted(langs):
-        algo = SEARCH_STEMMERS.get(lang)
+        # A second translation (`en-US-x-pusey`) is indexed as its language.
+        base = lang.split("-x-")[0]
+        algo = SEARCH_STEMMERS.get(base)
         stemmer = snowballstemmer.stemmer(algo) if algo else None
-        stopwords = SEARCH_STOPWORDS.get(lang, set())
+        stopwords = SEARCH_STOPWORDS.get(base, set())
         if stemmer is not None and stopwords:
             stopwords = set(stemmer.stemWords(sorted(stopwords)))
 

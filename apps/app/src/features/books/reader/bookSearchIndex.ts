@@ -16,6 +16,7 @@
 import { newStemmer, type SnowballStemmer } from 'snowball-stemmers'
 import type { BookEntry } from '@/content/manifestTypes'
 import { getJson } from '@/content/store'
+import { baseLanguage } from '@/features/books/editions'
 
 export type BookSearchIndex = {
   v: number
@@ -33,16 +34,18 @@ export type ChapterMatch = {
   score: number
 }
 
-/** Snowball algorithm names per app content language. `undefined` = no stemming. */
+/** Snowball algorithm names per language. `undefined` = no stemming. */
 const STEMMER_ALGO: Record<string, string | undefined> = {
   'en-US': 'english',
   'pt-BR': 'portuguese',
+  'es-419': 'spanish',
   la: undefined,
 }
 
 const stemmerCache = new Map<string, SnowballStemmer>()
 function getStemmer(lang: string): SnowballStemmer | undefined {
-  const algo = STEMMER_ALGO[lang]
+  // A second translation (`en-US-x-pusey`) stems as its language, as the build does.
+  const algo = STEMMER_ALGO[baseLanguage(lang)]
   if (!algo) return undefined
   let s = stemmerCache.get(algo)
   if (!s) {

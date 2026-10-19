@@ -1,4 +1,5 @@
 ---
+import { baseLanguage } from '@/features/books/editions'
 import { bookCoverFormat } from '@/features/covers/coverFor'
 import Cover from '~/components/Cover.astro'
 import TocList from '~/components/TocList.astro'
@@ -25,8 +26,10 @@ if (!book) throw new Error(`No book ${id}`)
 
 const pt = locale === 'pt-BR'
 const languageNames: Record<string, string> = pt
-  ? { 'en-US': 'inglês', 'pt-BR': 'português', la: 'latim', it: 'italiano', 'fr-FR': 'francês' }
-  : { 'en-US': 'English', 'pt-BR': 'Portuguese', la: 'Latin', it: 'Italian', 'fr-FR': 'French' }
+  ? { 'en-US': 'inglês', 'pt-BR': 'português', la: 'latim', it: 'italiano', 'fr-FR': 'francês', 'es-419': 'espanhol' }
+  : { 'en-US': 'English', 'pt-BR': 'Portuguese', la: 'Latin', it: 'Italian', 'fr-FR': 'French', 'es-419': 'Spanish' }
+// A second translation (`en-US-x-pusey`) is another English text, not another language.
+const languages = [...new Set(book.langs.map(baseLanguage))]
 const foreign = book.lang !== locale
 const description = plainExcerpt(
   book.description ??
@@ -51,7 +54,7 @@ const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <
     '@type': 'Book',
     name: book.title,
     author: book.author && { '@type': 'Person', name: book.author },
-    inLanguage: book.langs,
+    inLanguage: languages,
     datePublished: book.composed,
     isAccessibleForFree: true,
     description,
@@ -68,7 +71,7 @@ const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <
       <dl class="facts">
         {book.composed && (<><dt>{pt ? 'Escrito' : 'Written'}</dt><dd>{book.composed}</dd></>)}
         <dt>{pt ? 'Língua' : 'Language'}</dt>
-        <dd>{book.langs.map((l) => languageNames[l] ?? l).join(', ')}</dd>
+        <dd>{languages.map((l) => languageNames[l] ?? l).join(', ')}</dd>
         <dt>{s('contents')}</dt>
         <dd>{s('chapters', { count: book.chapterCount })}</dd>
       </dl>

@@ -1145,6 +1145,7 @@ export default {
     toSource: 'A incluir',
   },
   book: {
+    edition: 'Texto',
     startReading: 'Começar a ler',
     continue: 'Continuar',
     contents: 'Sumário',
@@ -1757,6 +1758,9 @@ export default {
     'en-US': 'Inglês',
     'pt-BR': 'Português',
     la: 'Latim',
+    'es-419': 'Espanhol',
+    it: 'Italiano',
+    'fr-FR': 'Francês',
   },
   creators: {
     title: 'Criadores',

@@ -12,13 +12,15 @@ import { GlassSurface } from '@/components/GlassSurface'
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookCatalogEntry, loadBook } from '@/content/books'
-import { useBookManifest } from '@/features/books/hooks'
+import { bookCursorId, setCursor } from '@/db/repositories/cursors'
+import { type BookEdition, baseLanguage } from '@/features/books/editions'
+import { useBookEdition, useBookManifest } from '@/features/books/hooks'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { bookLang, buildTitleLookup, openBookSession } from './bookContent'
+import { buildTitleLookup, nearestLeafIndex, openBookSession } from './bookContent'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
@@ -166,11 +168,58 @@ function LoadingPane({
   )
 }
 
+/**
+ * Opens the book in its chosen edition. Each edition is its own reader
+ * (WebView, session, chapter cache), keyed so a switch remounts it at the
+ * position just saved; a deep-linked `chapter` applies only to the first.
+ */
 export function BookReader({ bookId, chapter }: Props) {
+  const router = useRouter()
+  const { data: bookEntry, entry } = useBookManifest(bookId)
+  const { edition, editions, setEdition, ready } = useBookEdition(bookId, bookEntry, entry?.langs)
+  const [switched, setSwitched] = useState(false)
+  const rawConfig = useReaderConfig()
+
+  if (!ready) {
+    return (
+      <LoadingPane
+        background={rawConfig.background}
+        color={rawConfig.color}
+        isDark={rawConfig.isDark}
+        title={entry ? localizeContent(entry.name as never) : ''}
+        onClose={() => router.back()}
+      />
+    )
+  }
+  return (
+    <EditionReader
+      key={edition}
+      bookId={bookId}
+      chapter={switched ? undefined : chapter}
+      lang={edition}
+      editions={editions}
+      onEdition={async (next) => {
+        setSwitched(true)
+        await setEdition(next)
+      }}
+    />
+  )
+}
+
+function EditionReader({
+  bookId,
+  chapter,
+  lang,
+  editions,
+  onEdition,
+}: Props & {
+  lang: string
+  editions: BookEdition[]
+  onEdition: (edition: string) => Promise<void>
+}) {
   const { t } = useTranslation()
   const router = useRouter()
   const insets = useSafeAreaInsets()
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const hintSeen = usePreferencesStore((s) => s.bookReaderHintSeen)
   const setHintSeen = usePreferencesStore((s) => s.setBookReaderHintSeen)
   const [showHint, setShowHint] = useState(!hintSeen)
@@ -183,11 +232,6 @@ export function BookReader({ bookId, chapter }: Props) {
     isError: manifestError,
     refetch: refetchManifest,
   } = useBookManifest(bookId)
-
-  const lang = useMemo(() => {
-    if (!bookEntry) return 'en-US'
-    return bookLang(bookEntry.languages ?? [], contentLanguage)
-  }, [bookEntry, contentLanguage])
 
   const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
 
@@ -215,7 +259,7 @@ export function BookReader({ bookId, chapter }: Props) {
     const base = {
       ...rawConfig,
       marginPx: Math.max(rawConfig.marginPx, insets.top + 16, insets.bottom + 56),
-      lang,
+      lang: baseLanguage(lang),
     }
     if (!paletteOverride) return base
     const palette = resolvePalette(paletteOverride, rawConfig.isDark)
@@ -241,11 +285,16 @@ export function BookReader({ bookId, chapter }: Props) {
       if (target && idx >= 0) {
         return { startIndex: idx, startFraction: 0, startElement: target.element ?? chapter }
       }
+      const near = bookEntry?.toc ? nearestLeafIndex(bookEntry.toc, leaves, chapter) : -1
+      if (near >= 0) return { startIndex: near, startFraction: 0 }
     }
     const pos = cursor.initial.position
     if (pos) {
       const idx = leaves.findIndex((l) => l.id === pos.chapterId)
       if (idx >= 0) return { startIndex: idx, startFraction: pos.fraction }
+      // A chapter this edition lacks (Pilkington has no Revisions): the next it has.
+      const near = bookEntry?.toc ? nearestLeafIndex(bookEntry.toc, leaves, pos.chapterId) : -1
+      if (near >= 0) return { startIndex: near, startFraction: 0 }
     }
     return { startIndex: 0, startFraction: 0 }
   }, [leaves, chapter, cursor.initial, bookEntry])
@@ -721,6 +770,23 @@ export function BookReader({ bookId, chapter }: Props) {
   )
 
   const currentChapterId = leaves[chapterIndex]?.id
+
+  // Save the place before the switch remounts the reader on the other text:
+  // the cursor's own debounced write might not land before the new one reads it.
+  const switchEdition = useCallback(
+    async (next: string) => {
+      if (next === lang) return
+      setSheet(null)
+      if (currentChapterId) {
+        await setCursor(
+          bookCursorId(bookId),
+          JSON.stringify({ chapterId: currentChapterId, fraction, updatedAt: Date.now() }),
+        )
+      }
+      await onEdition(next)
+    },
+    [lang, currentChapterId, fraction, bookId, onEdition],
+  )
   const currentChapterTitle = currentChapterId ? titleLookup.get(currentChapterId) : undefined
   const handleAddBookmark = useCallback(async () => {
     if (!currentChapterId) return
@@ -1029,6 +1095,9 @@ export function BookReader({ bookId, chapter }: Props) {
       <ReaderMenuSheet
         open={sheet === 'menu'}
         onClose={() => setSheet(null)}
+        editions={editions}
+        edition={lang}
+        onEdition={switchEdition}
         onContents={bookEntry.toc && bookEntry.toc.length > 0 ? () => setSheet('toc') : undefined}
         onSearch={() => setSheet('search')}
         onBookmarks={() => setSheet('bookmarks')}

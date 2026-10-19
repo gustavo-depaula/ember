@@ -4,10 +4,15 @@ import { useTranslation } from 'react-i18next'
 import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
 import { Text, useTheme, XStack, YStack } from 'tamagui'
+import { EditionSelector } from '../EditionSelector'
+import type { BookEdition } from '../editions'
 
 type Props = {
   open: boolean
   onClose: () => void
+  editions: BookEdition[]
+  edition: string
+  onEdition: (edition: string) => void
   /** Omit to hide the row (e.g. books with no TOC). */
   onContents?: () => void
   onSearch: () => void
@@ -21,10 +26,16 @@ type Props = {
 // fraction would leave dead space on books without a TOC.
 const ROW_FRACTION = 0.09
 const CHROME_FRACTION = 0.13
+// The edition pills: a label line plus wrapped rows, about two pills a row.
+const EDITION_LABEL_FRACTION = 0.04
+const EDITION_ROW_FRACTION = 0.055
 
 export function ReaderMenuSheet({
   open,
   onClose,
+  editions,
+  edition,
+  onEdition,
   onContents,
   onSearch,
   onBookmarks,
@@ -37,7 +48,11 @@ export function ReaderMenuSheet({
   const { height } = useWindowDimensions()
 
   const rowCount = (onContents ? 1 : 0) + 4
-  const sheetFraction = CHROME_FRACTION + rowCount * ROW_FRACTION
+  const editionFraction =
+    editions.length > 1
+      ? EDITION_LABEL_FRACTION + Math.ceil(editions.length / 2) * EDITION_ROW_FRACTION
+      : 0
+  const sheetFraction = CHROME_FRACTION + rowCount * ROW_FRACTION + editionFraction
 
   return (
     <BottomSheet
@@ -54,6 +69,9 @@ export function ReaderMenuSheet({
         paddingBottom={insets.bottom + 16}
         gap="$xs"
       >
+        <YStack paddingHorizontal="$sm" paddingBottom={editions.length > 1 ? '$sm' : 0}>
+          <EditionSelector editions={editions} edition={edition} onChange={onEdition} />
+        </YStack>
         {onContents ? (
           <MenuRow
             icon={<List size={22} color={theme.color?.val} />}

@@ -1137,6 +1137,7 @@ export default {
     toSource: 'To source',
   },
   book: {
+    edition: 'Text',
     startReading: 'Start reading',
     continue: 'Continue',
     contents: 'Contents',
@@ -1748,6 +1749,9 @@ export default {
     'en-US': 'English',
     'pt-BR': 'Portuguese',
     la: 'Latin',
+    'es-419': 'Spanish',
+    it: 'Italian',
+    'fr-FR': 'French',
   },
   creators: {
     title: 'Creators',

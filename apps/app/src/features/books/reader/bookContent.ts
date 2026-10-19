@@ -4,6 +4,7 @@ import { findBookImage, loadBook, loadChapterSource } from '@/content/books'
 import type { BookEntry } from '@/content/manifestTypes'
 import type { TocNode } from '@/content/resolver'
 import { getBlob, getText } from '@/content/store'
+import { baseLanguage } from '@/features/books/editions'
 import { galleryExtension } from '@/features/books/markedGalleryExtension'
 
 const md = new Marked().use(markedFootnote()).use(galleryExtension())
@@ -95,8 +96,8 @@ function inferRole(node: TocNode, depth: number): TocRole {
 
 /**
  * The reading flow: every node the reader paginates through, in DFS preorder.
- * A leaf is always a page, even without a body entry (external books populate
- * their chapter map lazily). A group node (Part/Section) becomes a page only
+ * A leaf is a page even without a body entry (external books populate their
+ * chapter map lazily), unless it has bodies in other languages only. A group node (Part/Section) becomes a page only
  * when it carries a body file for this language — otherwise it stays a pure
  * structural grouping, visible in the TOC sheet but not in the flow.
  */
@@ -109,8 +110,11 @@ export function flattenReadingFlow(
   function walk(nodes: TocNode[], depth: number) {
     for (const node of nodes) {
       const isGroup = !!node.children?.length
-      const hasBody = !!manifest.chapters?.[node.id]?.[lang]
-      if (!isGroup || hasBody) {
+      const bodies = manifest.chapters?.[node.id]
+      const hasBody = !!bodies?.[lang]
+      // e.g. a translation that skips the Revisions chapter.
+      const missing = !!bodies && !hasBody
+      if (isGroup ? hasBody : !missing) {
         flow.push({ id: node.id, index: flow.length, role: inferRole(node, depth) })
       }
       if (isGroup) walk(node.children as TocNode[], depth + 1)
@@ -125,9 +129,31 @@ export function bookLang(langs: readonly string[], preferred: string): string {
   return langs.includes(preferred) ? preferred : (langs[0] ?? 'en-US')
 }
 
-/** A node's title in `lang`, falling back to the first language present. */
+/** Index in `leaves` of the first leaf at or after `chapterId` in TOC order —
+ *  where to land in an edition that lacks that chapter. -1 when none follows. */
+export function nearestLeafIndex(
+  toc: TocNode[],
+  leaves: readonly { id: string }[],
+  chapterId: string,
+): number {
+  const order = new Map<string, number>()
+  function walk(nodes: TocNode[]) {
+    for (const node of nodes) {
+      order.set(node.id, order.size)
+      if (node.children) walk(node.children)
+    }
+  }
+  walk(toc)
+  const target = order.get(chapterId)
+  if (target === undefined) return -1
+  return leaves.findIndex((leaf) => (order.get(leaf.id) ?? -1) >= target)
+}
+
+/** A node's title in `lang` — for a second translation, its language's title
+ *  unless it sets its own — falling back to the first language present. */
 export function localizedTitle(title: TocNode['title'], lang: string): string | undefined {
-  return (title as Record<string, string>)[lang] ?? Object.values(title)[0]
+  const titles = title as Record<string, string>
+  return titles[lang] ?? titles[baseLanguage(lang)] ?? Object.values(title)[0]
 }
 
 export function buildTitleLookup(toc: TocNode[], lang: string): Map<string, string> {

@@ -13,10 +13,10 @@ import { ZoomLink } from '@/components/ZoomLink'
 import type { TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
 import { BookHero } from '@/features/books/BookHero'
-import { useBookManifest } from '@/features/books/hooks'
+import { EditionSelector } from '@/features/books/EditionSelector'
+import { useBookEdition, useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
-  bookLang,
   buildCompletedLeafIndex,
   buildLeafCountIndex,
   buildTitleLookup,
@@ -42,7 +42,6 @@ import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
 import { pageGutter } from '@/lib/layout'
 import { formatSoftRelative } from '@/lib/softRelative'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function formatMinutes(minutes: number): string {
   if (minutes < 60) return `${minutes} min`
@@ -58,7 +57,6 @@ export default function BookDetailScreen() {
   const insets = useSafeAreaInsets()
   const router = useRouter()
   const bottomClearance = useBottomClearance()
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const background = theme.background?.val ?? '#000000'
 
   // With room for it the cover and its actions hold the left while the
@@ -81,10 +79,7 @@ export default function BookDetailScreen() {
   // and languages meanwhile.
   const { data: book, entry } = useBookManifest(bookId)
 
-  const lang = useMemo(
-    () => bookLang(book?.languages ?? entry?.langs ?? [], contentLanguage),
-    [book?.languages, entry?.langs, contentLanguage],
-  )
+  const { edition: lang, editions, setEdition } = useBookEdition(bookId, book, entry?.langs)
 
   const { flow: leaves, readableIds } = useReadingFlow(book, lang)
   const titleLookup = useMemo(
@@ -211,11 +206,14 @@ export default function BookDetailScreen() {
     />
   )
   const actions = (
-    <LibraryActionRow
-      itemId={bookRef}
-      kind="book"
-      onAddToCollection={() => setAddingToCollection(true)}
-    />
+    <>
+      <LibraryActionRow
+        itemId={bookRef}
+        kind="book"
+        onAddToCollection={() => setAddingToCollection(true)}
+      />
+      <EditionSelector editions={editions} edition={lang} onChange={(id) => void setEdition(id)} />
+    </>
   )
   const progress = progressFraction > 0 && (
     <BookProgressLine

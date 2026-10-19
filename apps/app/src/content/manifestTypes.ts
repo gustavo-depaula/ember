@@ -274,6 +274,9 @@ export type BookEntry = {
   description?: LocalizedText
   composed?: number | string
   languages?: string[]
+  /** Provenance per language; `label` names the translation when a language
+   *  has more than one (see features/books/editions.ts). */
+  sources?: { language: string; url?: string; description?: string; label?: string }[]
   toc?: TocNode[]
   image?: string
   style?: BlobRef

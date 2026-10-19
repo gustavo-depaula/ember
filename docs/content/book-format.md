@@ -24,6 +24,7 @@ content/books/<dir>/
 The shape is `BookEntry` / `TocNode` in `apps/app/src/content/manifestTypes.ts`. Every book sets `id`, `name`, `author`, `description`, `languages`, `sources`, `toc` and `cover`; set `composed` when the date is known.
 
 - **`sources`**: `[{ language, url, description }]`, the provenance of each language's text. Several books (the Trent catechism, both Pius X catechisms, Morrow, …) align *independent historical translations*, and `sources` is where that shows.
+- **A second translation in one language** takes a BCP 47 private-use tag as its language: `en-US-x-pusey/` beside `en-US/`, listed in `languages` and given a `sources` entry with a short `label` (`"E. B. Pusey (1838)"`) that the edition picker shows. Its TOC titles fall back to the language's (`en-US`), so a node only sets `title["en-US-x-pusey"]` where the translation's own differs. It may lack chapters the book has; the reader skips them in that text. The plain tag (`en-US`) is the default text of the language. Readers choose an edition per book on the book page or in the reader menu (`apps/app/src/features/books/editions.ts`).
 - **`cover`**: the generated bound-volume format for a book without art. One of `classic`, `gilt`, `label`, `quarter`, `arch`, `watermark`, `banded`, `missal` (`apps/app/src/features/covers/coverFor.ts`).
 
 ### Book id
