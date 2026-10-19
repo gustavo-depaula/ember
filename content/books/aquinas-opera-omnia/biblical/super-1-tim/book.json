@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on 1 Timothy",
-    "la": "Super Epistolam ad Timotheum Primam"
+    "la": "Super Epistolam ad Timotheum Primam",
+    "pt-BR": "Comentário à Primeira Epístola a Timóteo"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the First Epistle to Timothy.",
-    "la": "Expositio Thomae in Epistolam ad Timotheum Primam."
+    "la": "Expositio Thomae in Epistolam ad Timotheum Primam.",
+    "pt-BR": "Comentário de Santo Tomás de Aquino à Primeira Epístola a Timóteo."
   },
   "composed": "1265–1273",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,49 +39,56 @@
       "id": "1tim-c01",
       "title": {
         "en-US": "Pr. (Eccl 10:4) - Ecclesiasticus 10:4",
-        "la": "Pr. (Eccl 10:4) - Ecclesiasticus 10:4"
+        "la": "Pr. (Eccl 10:4) - Ecclesiasticus 10:4",
+        "pt-BR": "Prólogo (Eclo 10:4) - Eclesiástico 10:4"
       }
     },
     {
       "id": "1tim-c02",
       "title": {
         "en-US": "C. 1 - Introduction",
-        "la": "C. 1 - Introduction"
+        "la": "C. 1 - Introduction",
+        "pt-BR": "C. 1 - Introdução"
       }
     },
     {
       "id": "1tim-c03",
       "title": {
         "en-US": "C. 2 - Prayers and Obedience",
-        "la": "C. 2 - Prayers and Obedience"
+        "la": "C. 2 - Prayers and Obedience",
+        "pt-BR": "C. 2 - Orações e obediência"
       }
     },
     {
       "id": "1tim-c04",
       "title": {
         "en-US": "C. 3 - Presbyterial Conduct",
-        "la": "C. 3 - Presbyterial Conduct"
+        "la": "C. 3 - Presbyterial Conduct",
+        "pt-BR": "C. 3 - Conduta presbiteral"
       }
     },
     {
       "id": "1tim-c05",
       "title": {
         "en-US": "C. 4 - Exhortation to Holiness",
-        "la": "C. 4 - Exhortation to Holiness"
+        "la": "C. 4 - Exhortation to Holiness",
+        "pt-BR": "C. 4 - Exortação à santidade"
       }
     },
     {
       "id": "1tim-c06",
       "title": {
         "en-US": "C. 5 - Widows and Priests",
-        "la": "C. 5 - Widows and Priests"
+        "la": "C. 5 - Widows and Priests",
+        "pt-BR": "C. 5 - Viúvas e sacerdotes"
       }
     },
     {
       "id": "1tim-c07",
       "title": {
         "en-US": "C. 6 - Dangers of Riches",
-        "la": "C. 6 - Dangers of Riches"
+        "la": "C. 6 - Dangers of Riches",
+        "pt-BR": "C. 6 - Os perigos das riquezas"
       }
     }
   ]
