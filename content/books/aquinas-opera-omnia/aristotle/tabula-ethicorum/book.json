@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Table of the Ethics",
-    "la": "Tabula Libri Ethicorum"
+    "la": "Tabula Libri Ethicorum",
+    "pt-BR": "Tábua do Livro da Ética"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "A reference index Aquinas compiled of moral concepts in Aristotle's *Nicomachean Ethics*, organized alphabetically by Latin lemma. A scholarly companion to the *Sententia Libri Ethicorum*.",
-    "la": "Index alphabeticus conceptuum moralium ex *Ethicis Nicomacheis* Aristotelis a Thoma compositus. Comes scholaris *Sententiae Libri Ethicorum*."
+    "la": "Index alphabeticus conceptuum moralium ex *Ethicis Nicomacheis* Aristotelis a Thoma compositus. Comes scholaris *Sententiae Libri Ethicorum*.",
+    "pt-BR": "Índice de referência dos conceitos morais da *Ética a Nicômaco* de Aristóteles, compilado por Santo Tomás e ordenado alfabeticamente pelo lema latino. Um complemento de estudo da *Sententia Libri Ethicorum*."
   },
   "composed": "1270",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,133 +39,152 @@
       "id": "tabula-c01",
       "title": {
         "en-US": "Chapter 1",
-        "la": "Chapter 1"
+        "la": "Chapter 1",
+        "pt-BR": "Capítulo 1"
       }
     },
     {
       "id": "tabula-c02",
       "title": {
         "en-US": "Chapter 2",
-        "la": "Chapter 2"
+        "la": "Chapter 2",
+        "pt-BR": "Capítulo 2"
       }
     },
     {
       "id": "tabula-c03",
       "title": {
         "en-US": "Chapter 3",
-        "la": "Chapter 3"
+        "la": "Chapter 3",
+        "pt-BR": "Capítulo 3"
       }
     },
     {
       "id": "tabula-c04",
       "title": {
         "en-US": "Chapter 4",
-        "la": "Chapter 4"
+        "la": "Chapter 4",
+        "pt-BR": "Capítulo 4"
       }
     },
     {
       "id": "tabula-c05",
       "title": {
         "en-US": "Chapter 5",
-        "la": "Chapter 5"
+        "la": "Chapter 5",
+        "pt-BR": "Capítulo 5"
       }
     },
     {
       "id": "tabula-c06",
       "title": {
         "en-US": "Chapter 6",
-        "la": "Chapter 6"
+        "la": "Chapter 6",
+        "pt-BR": "Capítulo 6"
       }
     },
     {
       "id": "tabula-c07",
       "title": {
         "en-US": "Chapter 7",
-        "la": "Chapter 7"
+        "la": "Chapter 7",
+        "pt-BR": "Capítulo 7"
       }
     },
     {
       "id": "tabula-c08",
       "title": {
         "en-US": "Chapter 8",
-        "la": "Chapter 8"
+        "la": "Chapter 8",
+        "pt-BR": "Capítulo 8"
       }
     },
     {
       "id": "tabula-c09",
       "title": {
         "en-US": "Chapter 9",
-        "la": "Chapter 9"
+        "la": "Chapter 9",
+        "pt-BR": "Capítulo 9"
       }
     },
     {
       "id": "tabula-c10",
       "title": {
         "en-US": "Chapter 10",
-        "la": "Chapter 10"
+        "la": "Chapter 10",
+        "pt-BR": "Capítulo 10"
       }
     },
     {
       "id": "tabula-c11",
       "title": {
         "en-US": "Chapter 11",
-        "la": "Chapter 11"
+        "la": "Chapter 11",
+        "pt-BR": "Capítulo 11"
       }
     },
     {
       "id": "tabula-c12",
       "title": {
         "en-US": "Chapter 12",
-        "la": "Chapter 12"
+        "la": "Chapter 12",
+        "pt-BR": "Capítulo 12"
       }
     },
     {
       "id": "tabula-c13",
       "title": {
         "en-US": "Chapter 13",
-        "la": "Chapter 13"
+        "la": "Chapter 13",
+        "pt-BR": "Capítulo 13"
       }
     },
     {
       "id": "tabula-c14",
       "title": {
         "en-US": "Chapter 14",
-        "la": "Chapter 14"
+        "la": "Chapter 14",
+        "pt-BR": "Capítulo 14"
       }
     },
     {
       "id": "tabula-c15",
       "title": {
         "en-US": "Chapter 15",
-        "la": "Chapter 15"
+        "la": "Chapter 15",
+        "pt-BR": "Capítulo 15"
       }
     },
     {
       "id": "tabula-c16",
       "title": {
         "en-US": "Chapter 16",
-        "la": "Chapter 16"
+        "la": "Chapter 16",
+        "pt-BR": "Capítulo 16"
       }
     },
     {
       "id": "tabula-c17",
       "title": {
         "en-US": "Chapter 17",
-        "la": "Chapter 17"
+        "la": "Chapter 17",
+        "pt-BR": "Capítulo 17"
       }
     },
     {
       "id": "tabula-c18",
       "title": {
         "en-US": "Chapter 18",
-        "la": "Chapter 18"
+        "la": "Chapter 18",
+        "pt-BR": "Capítulo 18"
       }
     },
     {
       "id": "tabula-c19",
       "title": {
         "en-US": "Chapter 19",
-        "la": "Chapter 19"
+        "la": "Chapter 19",
+        "pt-BR": "Capítulo 19"
       }
     }
   ]
