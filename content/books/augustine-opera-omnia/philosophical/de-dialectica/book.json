@@ -4,12 +4,14 @@
   "name": {
     "la": "De dialectica",
     "en-US": "On Dialectic",
-    "pt-BR": "A dialética"
+    "pt-BR": "A dialética",
+    "es-419": "La dialéctica"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A handbook of dialectic, “the science of arguing well”: simple and combined words, what words signify, the origin of words, and the obscurity and ambiguity that keep a hearer from the truth.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deDial",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deDial",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deDial",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De dialectica",
         "en-US": "On Dialectic",
-        "pt-BR": "A dialética"
+        "pt-BR": "A dialética",
+        "es-419": "La dialéctica"
       }
     }
   ]

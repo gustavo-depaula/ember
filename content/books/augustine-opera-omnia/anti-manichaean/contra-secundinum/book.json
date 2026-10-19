@@ -4,12 +4,14 @@
   "name": {
     "la": "Contra Secundinum Manichaeum",
     "en-US": "Answer to Secundinus, a Manichean",
-    "pt-BR": "Contra Secundino, o maniqueu"
+    "pt-BR": "Contra Secundino, o maniqueu",
+    "es-419": "Contra Secundino, el maniqueo"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Augustine's reply to a friendly letter from Secundinus, a Manichean \"hearer\" who urged him to stop attacking the sect and to embrace it. Secundinus's letter comes first; Augustine judged this answer the best of his writings against the Manicheans.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Secundinus",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Secundinus",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Secundinus",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Secundini Manichaei ad Sanctum Augustinum epistola",
         "en-US": "The letter of Secundinus the Manichean to Saint Augustine",
-        "pt-BR": "Carta de Secundino, o maniqueu, a Santo Agostinho"
+        "pt-BR": "Carta de Secundino, o maniqueu, a Santo Agostinho",
+        "es-419": "Carta de Secundino maniqueo a san Agustín"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Contra Secundinum Manichaeum",
         "en-US": "Answer to Secundinus, a Manichean",
-        "pt-BR": "Contra Secundino, o maniqueu"
+        "pt-BR": "Contra Secundino, o maniqueu",
+        "es-419": "Contra Secundino maniqueo"
       }
     }
   ]

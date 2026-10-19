@@ -4,12 +4,14 @@
   "name": {
     "la": "Enarrationes in Psalmos",
     "en-US": "Expositions of the Psalms",
-    "pt-BR": "Comentários aos Salmos"
+    "pt-BR": "Comentários aos Salmos",
+    "es-419": "Comentarios a los Salmos"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Augustine’s expositions of all 150 Psalms (Vulgate numbering), from brief notes to long sermons; Psalm 118 alone fills more than thirty discourses. He reads the Psalter as the voice of the whole Christ, head and body.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Ps1-32",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Ps1-32",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Ps1-32",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Psalmi 1–32",
         "en-US": "Psalms 1–32",
-        "pt-BR": "Salmos 1–32"
+        "pt-BR": "Salmos 1–32",
+        "es-419": "Salmos 1–32"
       },
       "children": [
         {
@@ -52,7 +64,8 @@
           "title": {
             "la": "Enarratio in Psalmum 1",
             "en-US": "Exposition of Psalm 1",
-            "pt-BR": "Comentário ao Salmo 1"
+            "pt-BR": "Comentário ao Salmo 1",
+            "es-419": "Exposición del Salmo 1"
           }
         },
         {
@@ -60,7 +73,8 @@
           "title": {
             "la": "Enarratio in Psalmum 2",
             "en-US": "Exposition of Psalm 2",
-            "pt-BR": "Comentário ao Salmo 2"
+            "pt-BR": "Comentário ao Salmo 2",
+            "es-419": "Exposición del Salmo 2"
           }
         },
         {
@@ -68,7 +82,8 @@
           "title": {
             "la": "Enarratio in Psalmum 3",
             "en-US": "Exposition of Psalm 3",
-            "pt-BR": "Comentário ao Salmo 3"
+            "pt-BR": "Comentário ao Salmo 3",
+            "es-419": "Exposición del Salmo 3"
           }
         },
         {
@@ -76,7 +91,8 @@
           "title": {
             "la": "Enarratio in Psalmum 4",
             "en-US": "Exposition of Psalm 4",
-            "pt-BR": "Comentário ao Salmo 4"
+            "pt-BR": "Comentário ao Salmo 4",
+            "es-419": "Exposición del Salmo 4"
           }
         },
         {
@@ -84,7 +100,8 @@
           "title": {
             "la": "Enarratio in Psalmum 5",
             "en-US": "Exposition of Psalm 5",
-            "pt-BR": "Comentário ao Salmo 5"
+            "pt-BR": "Comentário ao Salmo 5",
+            "es-419": "Exposición del Salmo 5"
           }
         },
         {
@@ -92,7 +109,8 @@
           "title": {
             "la": "Enarratio in Psalmum 6",
             "en-US": "Exposition of Psalm 6",
-            "pt-BR": "Comentário ao Salmo 6"
+            "pt-BR": "Comentário ao Salmo 6",
+            "es-419": "Exposición del Salmo 6"
           }
         },
         {
@@ -100,7 +118,8 @@
           "title": {
             "la": "Enarratio in Psalmum 7",
             "en-US": "Exposition of Psalm 7",
-            "pt-BR": "Comentário ao Salmo 7"
+            "pt-BR": "Comentário ao Salmo 7",
+            "es-419": "Exposición del Salmo 7"
           }
         },
         {
@@ -108,7 +127,8 @@
           "title": {
             "la": "Enarratio in Psalmum 8",
             "en-US": "Exposition of Psalm 8",
-            "pt-BR": "Comentário ao Salmo 8"
+            "pt-BR": "Comentário ao Salmo 8",
+            "es-419": "Exposición del Salmo 8"
           }
         },
         {
@@ -116,7 +136,8 @@
           "title": {
             "la": "Enarratio in Psalmum 9",
             "en-US": "Exposition of Psalm 9",
-            "pt-BR": "Comentário ao Salmo 9"
+            "pt-BR": "Comentário ao Salmo 9",
+            "es-419": "Exposición del Salmo 9"
           }
         },
         {
@@ -124,7 +145,8 @@
           "title": {
             "la": "Enarratio in Psalmum 10",
             "en-US": "Exposition of Psalm 10",
-            "pt-BR": "Comentário ao Salmo 10"
+            "pt-BR": "Comentário ao Salmo 10",
+            "es-419": "Exposición del Salmo 10"
           }
         },
         {
@@ -132,7 +154,8 @@
           "title": {
             "la": "Enarratio in Psalmum 11",
             "en-US": "Exposition of Psalm 11",
-            "pt-BR": "Comentário ao Salmo 11"
+            "pt-BR": "Comentário ao Salmo 11",
+            "es-419": "Exposición del Salmo 11"
           }
         },
         {
@@ -140,7 +163,8 @@
           "title": {
             "la": "Enarratio in Psalmum 12",
             "en-US": "Exposition of Psalm 12",
-            "pt-BR": "Comentário ao Salmo 12"
+            "pt-BR": "Comentário ao Salmo 12",
+            "es-419": "Exposición del Salmo 12"
           }
         },
         {
@@ -148,7 +172,8 @@
           "title": {
             "la": "Enarratio in Psalmum 13",
             "en-US": "Exposition of Psalm 13",
-            "pt-BR": "Comentário ao Salmo 13"
+            "pt-BR": "Comentário ao Salmo 13",
+            "es-419": "Exposición del Salmo 13"
           }
         },
         {
@@ -156,7 +181,8 @@
           "title": {
             "la": "Enarratio in Psalmum 14",
             "en-US": "Exposition of Psalm 14",
-            "pt-BR": "Comentário ao Salmo 14"
+            "pt-BR": "Comentário ao Salmo 14",
+            "es-419": "Exposición del Salmo 14"
           }
         },
         {
@@ -164,7 +190,8 @@
           "title": {
             "la": "Enarratio in Psalmum 15",
             "en-US": "Exposition of Psalm 15",
-            "pt-BR": "Comentário ao Salmo 15"
+            "pt-BR": "Comentário ao Salmo 15",
+            "es-419": "Exposición del salmo 15"
           }
         },
         {
@@ -172,7 +199,8 @@
           "title": {
             "la": "Enarratio in Psalmum 16",
             "en-US": "Exposition of Psalm 16",
-            "pt-BR": "Comentário ao Salmo 16"
+            "pt-BR": "Comentário ao Salmo 16",
+            "es-419": "Exposición del salmo 16"
           }
         },
         {
@@ -180,7 +208,8 @@
           "title": {
             "la": "Enarratio in Psalmum 17",
             "en-US": "Exposition of Psalm 17",
-            "pt-BR": "Comentário ao Salmo 17"
+            "pt-BR": "Comentário ao Salmo 17",
+            "es-419": "Exposición del salmo 17"
           }
         },
         {
@@ -188,7 +217,8 @@
           "title": {
             "la": "Enarratio in Psalmum 18",
             "en-US": "Exposition of Psalm 18",
-            "pt-BR": "Comentário ao Salmo 18"
+            "pt-BR": "Comentário ao Salmo 18",
+            "es-419": "Exposición del salmo 18"
           }
         },
         {
@@ -196,7 +226,8 @@
           "title": {
             "la": "In eumdem Psalmum 18",
             "en-US": "On the Same Psalm 18",
-            "pt-BR": "Sobre o mesmo Salmo 18"
+            "pt-BR": "Sobre o mesmo Salmo 18",
+            "es-419": "Sobre el mismo salmo 18"
           }
         },
         {
@@ -204,7 +235,8 @@
           "title": {
             "la": "Enarratio in Psalmum 19",
             "en-US": "Exposition of Psalm 19",
-            "pt-BR": "Comentário ao Salmo 19"
+            "pt-BR": "Comentário ao Salmo 19",
+            "es-419": "Exposición del salmo 19"
           }
         },
         {
@@ -212,7 +244,8 @@
           "title": {
             "la": "Enarratio in Psalmum 20",
             "en-US": "Exposition of Psalm 20",
-            "pt-BR": "Comentário ao Salmo 20"
+            "pt-BR": "Comentário ao Salmo 20",
+            "es-419": "Exposición del salmo 20"
           }
         },
         {
@@ -220,7 +253,8 @@
           "title": {
             "la": "Enarratio in Psalmum 21",
             "en-US": "Exposition of Psalm 21",
-            "pt-BR": "Comentário ao Salmo 21"
+            "pt-BR": "Comentário ao Salmo 21",
+            "es-419": "Exposición del salmo 21"
           }
         },
         {
@@ -228,7 +262,8 @@
           "title": {
             "la": "In eumdem Psalmum 21",
             "en-US": "On the Same Psalm 21",
-            "pt-BR": "Sobre o mesmo Salmo 21"
+            "pt-BR": "Sobre o mesmo Salmo 21",
+            "es-419": "Sobre el mismo salmo 21"
           }
         },
         {
@@ -236,7 +271,8 @@
           "title": {
             "la": "Enarratio in Psalmum 22",
             "en-US": "Exposition of Psalm 22",
-            "pt-BR": "Comentário ao Salmo 22"
+            "pt-BR": "Comentário ao Salmo 22",
+            "es-419": "Exposición del Salmo 22"
           }
         },
         {
@@ -244,7 +280,8 @@
           "title": {
             "la": "Enarratio in Psalmum 23",
             "en-US": "Exposition of Psalm 23",
-            "pt-BR": "Comentário ao Salmo 23"
+            "pt-BR": "Comentário ao Salmo 23",
+            "es-419": "Exposición del Salmo 23"
           }
         },
         {
@@ -252,7 +289,8 @@
           "title": {
             "la": "Enarratio in Psalmum 24",
             "en-US": "Exposition of Psalm 24",
-            "pt-BR": "Comentário ao Salmo 24"
+            "pt-BR": "Comentário ao Salmo 24",
+            "es-419": "Exposición del Salmo 24"
           }
         },
         {
@@ -260,7 +298,8 @@
           "title": {
             "la": "Enarratio in Psalmum 25",
             "en-US": "Exposition of Psalm 25",
-            "pt-BR": "Comentário ao Salmo 25"
+            "pt-BR": "Comentário ao Salmo 25",
+            "es-419": "Exposición del Salmo 25"
           }
         },
         {
@@ -268,7 +307,8 @@
           "title": {
             "la": "In eumdem Psalmum 25",
             "en-US": "On the Same Psalm 25",
-            "pt-BR": "Sobre o mesmo Salmo 25"
+            "pt-BR": "Sobre o mesmo Salmo 25",
+            "es-419": "Sobre el mismo Salmo 25"
           }
         },
         {
@@ -276,7 +316,8 @@
           "title": {
             "la": "Enarratio in Psalmum 26",
             "en-US": "Exposition of Psalm 26",
-            "pt-BR": "Comentário ao Salmo 26"
+            "pt-BR": "Comentário ao Salmo 26",
+            "es-419": "Exposición del Salmo 26"
           }
         },
         {
@@ -284,7 +325,8 @@
           "title": {
             "la": "In eumdem Psalmum 26",
             "en-US": "On the Same Psalm 26",
-            "pt-BR": "Sobre o mesmo Salmo 26"
+            "pt-BR": "Sobre o mesmo Salmo 26",
+            "es-419": "Sobre el mismo Salmo 26"
           }
         },
         {
@@ -292,7 +334,8 @@
           "title": {
             "la": "Enarratio in Psalmum 27",
             "en-US": "Exposition of Psalm 27",
-            "pt-BR": "Comentário ao Salmo 27"
+            "pt-BR": "Comentário ao Salmo 27",
+            "es-419": "Exposición del Salmo 27"
           }
         },
         {
@@ -300,7 +343,8 @@
           "title": {
             "la": "Enarratio in Psalmum 28",
             "en-US": "Exposition of Psalm 28",
-            "pt-BR": "Comentário ao Salmo 28"
+            "pt-BR": "Comentário ao Salmo 28",
+            "es-419": "Exposición del Salmo 28"
           }
         },
         {
@@ -308,7 +352,8 @@
           "title": {
             "la": "Enarratio in Psalmum 29",
             "en-US": "Exposition of Psalm 29",
-            "pt-BR": "Comentário ao Salmo 29"
+            "pt-BR": "Comentário ao Salmo 29",
+            "es-419": "Exposición del Salmo 29"
           }
         },
         {
@@ -316,7 +361,8 @@
           "title": {
             "la": "In eumdem Psalmum 29",
             "en-US": "On the Same Psalm 29",
-            "pt-BR": "Sobre o mesmo Salmo 29"
+            "pt-BR": "Sobre o mesmo Salmo 29",
+            "es-419": "Sobre el mismo Salmo 29"
           }
         },
         {
@@ -324,7 +370,8 @@
           "title": {
             "la": "Enarratio in Psalmum 30",
             "en-US": "Exposition of Psalm 30",
-            "pt-BR": "Comentário ao Salmo 30"
+            "pt-BR": "Comentário ao Salmo 30",
+            "es-419": "Exposición del Salmo 30"
           }
         },
         {
@@ -332,7 +379,8 @@
           "title": {
             "la": "In eumdem Psalmum 30",
             "en-US": "On the Same Psalm 30",
-            "pt-BR": "Sobre o mesmo Salmo 30"
+            "pt-BR": "Sobre o mesmo Salmo 30",
+            "es-419": "Sobre el mismo Salmo 30"
           }
         },
         {
@@ -340,7 +388,8 @@
           "title": {
             "la": "In eumdem Psalmum 30 (2)",
             "en-US": "On the Same Psalm 30 (2)",
-            "pt-BR": "Sobre o mesmo Salmo 30 (2)"
+            "pt-BR": "Sobre o mesmo Salmo 30 (2)",
+            "es-419": "Sobre el mismo Salmo 30 (2)"
           }
         },
         {
@@ -348,7 +397,8 @@
           "title": {
             "la": "In eumdem Psalmum 30 (3)",
             "en-US": "On the Same Psalm 30 (3)",
-            "pt-BR": "Sobre o mesmo Salmo 30 (3)"
+            "pt-BR": "Sobre o mesmo Salmo 30 (3)",
+            "es-419": "Sobre el mismo Salmo 30 (3)"
           }
         },
         {
@@ -356,7 +406,8 @@
           "title": {
             "la": "Enarratio in Psalmum 31",
             "en-US": "Exposition of Psalm 31",
-            "pt-BR": "Comentário ao Salmo 31"
+            "pt-BR": "Comentário ao Salmo 31",
+            "es-419": "Exposición del Salmo 31"
           }
         },
         {
@@ -364,7 +415,8 @@
           "title": {
             "la": "In eumdem Psalmum 31",
             "en-US": "On the Same Psalm 31",
-            "pt-BR": "Sobre o mesmo Salmo 31"
+            "pt-BR": "Sobre o mesmo Salmo 31",
+            "es-419": "Sobre el mismo Salmo 31"
           }
         },
         {
@@ -372,7 +424,8 @@
           "title": {
             "la": "Enarratio in Psalmum 32",
             "en-US": "Exposition of Psalm 33 (32)",
-            "pt-BR": "Comentário ao Salmo 32 (33)"
+            "pt-BR": "Comentário ao Salmo 32 (33)",
+            "es-419": "Exposición del Salmo 32"
           }
         },
         {
@@ -380,7 +433,8 @@
           "title": {
             "la": "In eumdem Psalmum 32",
             "en-US": "On the Same Psalm 33 (32)",
-            "pt-BR": "Sobre o mesmo Salmo 32 (33)"
+            "pt-BR": "Sobre o mesmo Salmo 32 (33)",
+            "es-419": "Sobre el mismo Salmo 32"
           }
         },
         {
@@ -388,7 +442,8 @@
           "title": {
             "la": "In eumdem Psalmum 32 (2)",
             "en-US": "On the Same Psalm 33 (32) (2)",
-            "pt-BR": "Sobre o mesmo Salmo 32 (33) (2)"
+            "pt-BR": "Sobre o mesmo Salmo 32 (33) (2)",
+            "es-419": "Sobre el mismo Salmo 32 (2)"
           }
         }
       ]
@@ -398,7 +453,8 @@
       "title": {
         "la": "Psalmi 33–50",
         "en-US": "Psalms 33–50",
-        "pt-BR": "Salmos 33–50"
+        "pt-BR": "Salmos 33–50",
+        "es-419": "Salmos 33–50"
       },
       "children": [
         {
@@ -406,7 +462,8 @@
           "title": {
             "la": "Enarratio in Psalmum 33",
             "en-US": "Exposition of Psalm 33",
-            "pt-BR": "Comentário ao Salmo 33"
+            "pt-BR": "Comentário ao Salmo 33",
+            "es-419": "Exposición sobre el Salmo 34 (33): Sermón 1"
           }
         },
         {
@@ -414,7 +471,8 @@
           "title": {
             "la": "Enarratio in Psalmum 33 (2)",
             "en-US": "Exposition of Psalm 33 (2)",
-            "pt-BR": "Comentário ao Salmo 33 (2)"
+            "pt-BR": "Comentário ao Salmo 33 (2)",
+            "es-419": "Exposición sobre el Salmo 34 (33): Sermón 2"
           }
         },
         {
@@ -422,7 +480,8 @@
           "title": {
             "la": "Enarratio in Psalmum 34",
             "en-US": "Exposition of Psalm 34",
-            "pt-BR": "Comentário ao Salmo 34"
+            "pt-BR": "Comentário ao Salmo 34",
+            "es-419": "Exposición sobre el Salmo 35 (34): Sermón 1"
           }
         },
         {
@@ -430,7 +489,8 @@
           "title": {
             "la": "Enarratio in Psalmum 34 (2)",
             "en-US": "Exposition of Psalm 34 (2)",
-            "pt-BR": "Comentário ao Salmo 34 (2)"
+            "pt-BR": "Comentário ao Salmo 34 (2)",
+            "es-419": "Exposición sobre el Salmo 35 (34): Sermón 2"
           }
         },
         {
@@ -438,7 +498,8 @@
           "title": {
             "la": "Enarratio in Psalmum 35",
             "en-US": "Exposition of Psalm 35",
-            "pt-BR": "Comentário ao Salmo 35"
+            "pt-BR": "Comentário ao Salmo 35",
+            "es-419": "Exposición sobre el Salmo 36 (35): Sermón al pueblo"
           }
         },
         {
@@ -446,7 +507,8 @@
           "title": {
             "la": "Enarratio in Psalmum 36",
             "en-US": "Exposition of Psalm 36",
-            "pt-BR": "Comentário ao Salmo 36"
+            "pt-BR": "Comentário ao Salmo 36",
+            "es-419": "Exposición sobre el Salmo 37 (36): Sermón 1"
           }
         },
         {
@@ -454,7 +516,8 @@
           "title": {
             "la": "Enarratio in Psalmum 36 (2)",
             "en-US": "Exposition of Psalm 36 (2)",
-            "pt-BR": "Comentário ao Salmo 36 (2)"
+            "pt-BR": "Comentário ao Salmo 36 (2)",
+            "es-419": "Exposición del Salmo 37 (36): Sermón 2"
           }
         },
         {
@@ -462,7 +525,8 @@
           "title": {
             "la": "Enarratio in Psalmum 36 (3)",
             "en-US": "Exposition of Psalm 36 (3)",
-            "pt-BR": "Comentário ao Salmo 36 (3)"
+            "pt-BR": "Comentário ao Salmo 36 (3)",
+            "es-419": "Exposición del Salmo 37 (36): Sermón 3"
           }
         },
         {
@@ -470,7 +534,8 @@
           "title": {
             "la": "Enarratio in Psalmum 37",
             "en-US": "Exposition of Psalm 37",
-            "pt-BR": "Comentário ao Salmo 37"
+            "pt-BR": "Comentário ao Salmo 37",
+            "es-419": "Exposición del Salmo 38 (37): Sermón al pueblo"
           }
         },
         {
@@ -478,7 +543,8 @@
           "title": {
             "la": "Enarratio in Psalmum 38",
             "en-US": "Exposition of Psalm 38",
-            "pt-BR": "Comentário ao Salmo 38"
+            "pt-BR": "Comentário ao Salmo 38",
+            "es-419": "Exposición sobre el Salmo 39 (38): Sermón"
           }
         },
         {
@@ -486,7 +552,8 @@
           "title": {
             "la": "Enarratio in Psalmum 39",
             "en-US": "Exposition of Psalm 39",
-            "pt-BR": "Comentário ao Salmo 39"
+            "pt-BR": "Comentário ao Salmo 39",
+            "es-419": "Exposición sobre el Salmo 40 (39): Sermón al pueblo"
           }
         },
         {
@@ -494,7 +561,8 @@
           "title": {
             "la": "Enarratio in Psalmum 40",
             "en-US": "Exposition of Psalm 40",
-            "pt-BR": "Comentário ao Salmo 40"
+            "pt-BR": "Comentário ao Salmo 40",
+            "es-419": "Exposición sobre el Salmo 41 (40): Sermón al pueblo"
           }
         },
         {
@@ -502,7 +570,8 @@
           "title": {
             "la": "Enarratio in Psalmum 41",
             "en-US": "Exposition of Psalm 41",
-            "pt-BR": "Comentário ao Salmo 41"
+            "pt-BR": "Comentário ao Salmo 41",
+            "es-419": "Exposición sobre el Salmo 42 (41): Sermón al pueblo"
           }
         },
         {
@@ -510,7 +579,8 @@
           "title": {
             "la": "Enarratio in Psalmum 42",
             "en-US": "Exposition of Psalm 42",
-            "pt-BR": "Comentário ao Salmo 42"
+            "pt-BR": "Comentário ao Salmo 42",
+            "es-419": "Exposición del Salmo 43 (42): Sermón al pueblo"
           }
         },
         {
@@ -518,7 +588,8 @@
           "title": {
             "la": "Enarratio in Psalmum 43",
             "en-US": "Exposition of Psalm 43",
-            "pt-BR": "Comentário ao Salmo 43"
+            "pt-BR": "Comentário ao Salmo 43",
+            "es-419": "Exposición del Salmo 44 (43): Sermón al pueblo"
           }
         },
         {
@@ -526,7 +597,8 @@
           "title": {
             "la": "Enarratio in Psalmum 44",
             "en-US": "Exposition of Psalm 44",
-            "pt-BR": "Comentário ao Salmo 44"
+            "pt-BR": "Comentário ao Salmo 44",
+            "es-419": "Exposición del Salmo 45 (44): Sermón"
           }
         },
         {
@@ -534,7 +606,8 @@
           "title": {
             "la": "Enarratio in Psalmum 45",
             "en-US": "Exposition of Psalm 45",
-            "pt-BR": "Comentário ao Salmo 45"
+            "pt-BR": "Comentário ao Salmo 45",
+            "es-419": "Exposición sobre el Salmo 46 (45): Sermón al pueblo."
           }
         },
         {
@@ -542,7 +615,8 @@
           "title": {
             "la": "Enarratio in Psalmum 46",
             "en-US": "Exposition of Psalm 46",
-            "pt-BR": "Comentário ao Salmo 46"
+            "pt-BR": "Comentário ao Salmo 46",
+            "es-419": "Exposición sobre el Salmo 47 (46): Sermón al pueblo"
           }
         },
         {
@@ -550,7 +624,8 @@
           "title": {
             "la": "Enarratio in Psalmum 47",
             "en-US": "Exposition of Psalm 47",
-            "pt-BR": "Comentário ao Salmo 47"
+            "pt-BR": "Comentário ao Salmo 47",
+            "es-419": "Exposición sobre el Salmo 48 (47): Sermón al pueblo"
           }
         },
         {
@@ -558,7 +633,8 @@
           "title": {
             "la": "Enarratio in Psalmum 48",
             "en-US": "Exposition of Psalm 48",
-            "pt-BR": "Comentário ao Salmo 48"
+            "pt-BR": "Comentário ao Salmo 48",
+            "es-419": "Exposición sobre el Salmo 49 (48): Sermón 1"
           }
         },
         {
@@ -566,7 +642,8 @@
           "title": {
             "la": "Enarratio in Psalmum 48 (2)",
             "en-US": "Exposition of Psalm 48 (2)",
-            "pt-BR": "Comentário ao Salmo 48 (2)"
+            "pt-BR": "Comentário ao Salmo 48 (2)",
+            "es-419": "Exposición sobre el Salmo 49 (48): Sermón 2"
           }
         },
         {
@@ -574,7 +651,8 @@
           "title": {
             "la": "Enarratio in Psalmum 49",
             "en-US": "Exposition of Psalm 49",
-            "pt-BR": "Comentário ao Salmo 49"
+            "pt-BR": "Comentário ao Salmo 49",
+            "es-419": "Exposición sobre el Salmo 50 (49): Sermón al pueblo"
           }
         },
         {
@@ -582,7 +660,8 @@
           "title": {
             "la": "Enarratio in Psalmum 50",
             "en-US": "Exposition of Psalm 50",
-            "pt-BR": "Comentário ao Salmo 50"
+            "pt-BR": "Comentário ao Salmo 50",
+            "es-419": "Exposición sobre el Salmo 51 (50): Sermón"
           }
         }
       ]
@@ -592,7 +671,8 @@
       "title": {
         "la": "Psalmi 51–72",
         "en-US": "Psalms 51–72",
-        "pt-BR": "Salmos 51–72"
+        "pt-BR": "Salmos 51–72",
+        "es-419": "Salmos 51–72"
       },
       "children": [
         {
@@ -600,7 +680,8 @@
           "title": {
             "la": "Enarratio in Psalmum 51",
             "en-US": "Exposition of Psalm 51",
-            "pt-BR": "Comentário ao Salmo 51"
+            "pt-BR": "Comentário ao Salmo 51",
+            "es-419": "Exposición del salmo 52 (51): Sermón al pueblo"
           }
         },
         {
@@ -608,7 +689,8 @@
           "title": {
             "la": "Enarratio in Psalmum 52",
             "en-US": "Exposition of Psalm 52",
-            "pt-BR": "Comentário ao Salmo 52"
+            "pt-BR": "Comentário ao Salmo 52",
+            "es-419": "Exposición del salmo 53 (52): Sermón"
           }
         },
         {
@@ -616,7 +698,8 @@
           "title": {
             "la": "Enarratio in Psalmum 53",
             "en-US": "Exposition of Psalm 53",
-            "pt-BR": "Comentário ao Salmo 53"
+            "pt-BR": "Comentário ao Salmo 53",
+            "es-419": "Exposición del salmo 54 (53): Sermón al pueblo"
           }
         },
         {
@@ -624,7 +707,8 @@
           "title": {
             "la": "Enarratio in Psalmum 54",
             "en-US": "Exposition of Psalm 54",
-            "pt-BR": "Comentário ao Salmo 54"
+            "pt-BR": "Comentário ao Salmo 54",
+            "es-419": "Exposición del salmo 55 (54): Sermón al pueblo"
           }
         },
         {
@@ -632,7 +716,8 @@
           "title": {
             "la": "Enarratio in Psalmum 55",
             "en-US": "Exposition of Psalm 55",
-            "pt-BR": "Comentário ao Salmo 55"
+            "pt-BR": "Comentário ao Salmo 55",
+            "es-419": "Exposición del salmo 56 (55): Sermón"
           }
         },
         {
@@ -640,7 +725,8 @@
           "title": {
             "la": "Enarratio in Psalmum 56",
             "en-US": "Exposition of Psalm 56",
-            "pt-BR": "Comentário ao Salmo 56"
+            "pt-BR": "Comentário ao Salmo 56",
+            "es-419": "Enarración sobre el Salmo 57 (56): Sermón al pueblo"
           }
         },
         {
@@ -648,7 +734,8 @@
           "title": {
             "la": "Enarratio in Psalmum 57",
             "en-US": "Exposition of Psalm 57",
-            "pt-BR": "Comentário ao Salmo 57"
+            "pt-BR": "Comentário ao Salmo 57",
+            "es-419": "Enarración sobre el Salmo 58 (57): Sermón al pueblo"
           }
         },
         {
@@ -656,7 +743,8 @@
           "title": {
             "la": "Enarratio in Psalmum 58",
             "en-US": "Exposition of Psalm 58",
-            "pt-BR": "Comentário ao Salmo 58"
+            "pt-BR": "Comentário ao Salmo 58",
+            "es-419": "Enarración sobre el Salmo 59 (58): Sermón 1"
           }
         },
         {
@@ -664,7 +752,8 @@
           "title": {
             "la": "In Eundem Psalmum 58",
             "en-US": "On the Same Psalm 58",
-            "pt-BR": "Sobre o Mesmo Salmo 58"
+            "pt-BR": "Sobre o Mesmo Salmo 58",
+            "es-419": "Sobre el Mismo Salmo 59 (58): Sermón 2"
           }
         },
         {
@@ -672,7 +761,8 @@
           "title": {
             "la": "Enarratio in Psalmum 59",
             "en-US": "Exposition of Psalm 59",
-            "pt-BR": "Comentário ao Salmo 59"
+            "pt-BR": "Comentário ao Salmo 59",
+            "es-419": "Exposición del salmo 60 (59): Sermón al pueblo"
           }
         },
         {
@@ -680,7 +770,8 @@
           "title": {
             "la": "Enarratio in Psalmum 60",
             "en-US": "Exposition of Psalm 60",
-            "pt-BR": "Comentário ao Salmo 60"
+            "pt-BR": "Comentário ao Salmo 60",
+            "es-419": "Exposición del salmo 61 (60): Sermón al pueblo."
           }
         },
         {
@@ -688,7 +779,8 @@
           "title": {
             "la": "Enarratio in Psalmum 61",
             "en-US": "Exposition of Psalm 61",
-            "pt-BR": "Comentário ao Salmo 61"
+            "pt-BR": "Comentário ao Salmo 61",
+            "es-419": "Exposición del salmo 62 (61): Sermón al pueblo"
           }
         },
         {
@@ -696,7 +788,8 @@
           "title": {
             "la": "Enarratio in Psalmum 62",
             "en-US": "Exposition of Psalm 62",
-            "pt-BR": "Comentário ao Salmo 62"
+            "pt-BR": "Comentário ao Salmo 62",
+            "es-419": "Exposición del salmo 63 (62): Sermón al pueblo"
           }
         },
         {
@@ -704,7 +797,8 @@
           "title": {
             "la": "Enarratio in Psalmum 63",
             "en-US": "Exposition of Psalm 63",
-            "pt-BR": "Comentário ao Salmo 63"
+            "pt-BR": "Comentário ao Salmo 63",
+            "es-419": "Exposición del salmo 64 (63): Sermón al pueblo."
           }
         },
         {
@@ -712,7 +806,8 @@
           "title": {
             "la": "Enarratio in Psalmum 64",
             "en-US": "Exposition of Psalm 64",
-            "pt-BR": "Comentário ao Salmo 64"
+            "pt-BR": "Comentário ao Salmo 64",
+            "es-419": "Exposición del salmo 65 (64): Sermón al pueblo."
           }
         },
         {
@@ -720,7 +815,8 @@
           "title": {
             "la": "Enarratio in Psalmum 65",
             "en-US": "Exposition of Psalm 65",
-            "pt-BR": "Comentário ao Salmo 65"
+            "pt-BR": "Comentário ao Salmo 65",
+            "es-419": "Exposición del salmo 66 (65): Sermón al pueblo"
           }
         },
         {
@@ -728,7 +824,8 @@
           "title": {
             "la": "Enarratio in Psalmum 66",
             "en-US": "Exposition of Psalm 66",
-            "pt-BR": "Comentário ao Salmo 66"
+            "pt-BR": "Comentário ao Salmo 66",
+            "es-419": "Exposición del salmo 67 (66): Sermón al pueblo"
           }
         },
         {
@@ -736,7 +833,8 @@
           "title": {
             "la": "Enarratio in Psalmum 67",
             "en-US": "Exposition of Psalm 67",
-            "pt-BR": "Comentário ao Salmo 67"
+            "pt-BR": "Comentário ao Salmo 67",
+            "es-419": "Exposición del salmo 68 (67)"
           }
         },
         {
@@ -744,7 +842,8 @@
           "title": {
             "la": "Enarratio in Psalmum 68",
             "en-US": "Exposition of Psalm 68",
-            "pt-BR": "Comentário ao Salmo 68"
+            "pt-BR": "Comentário ao Salmo 68",
+            "es-419": "Exposición del Salmo 69 (68): Sermón 1"
           }
         },
         {
@@ -752,7 +851,8 @@
           "title": {
             "la": "In Eundem Psalmum 68",
             "en-US": "On the Same Psalm 68",
-            "pt-BR": "Sobre o Mesmo Salmo 68"
+            "pt-BR": "Sobre o Mesmo Salmo 68",
+            "es-419": "Sobre el Mismo Salmo 69 (68): Exposición"
           }
         },
         {
@@ -760,7 +860,8 @@
           "title": {
             "la": "Enarratio in Psalmum 69",
             "en-US": "Exposition of Psalm 69",
-            "pt-BR": "Comentário ao Salmo 69"
+            "pt-BR": "Comentário ao Salmo 69",
+            "es-419": "Exposición del Salmo 70 (69): Sermón"
           }
         },
         {
@@ -768,7 +869,8 @@
           "title": {
             "la": "Enarratio in Psalmum 70",
             "en-US": "Exposition of Psalm 70",
-            "pt-BR": "Comentário ao Salmo 70"
+            "pt-BR": "Comentário ao Salmo 70",
+            "es-419": "Exposición del Salmo 71 (70): Sermón 1"
           }
         },
         {
@@ -776,7 +878,8 @@
           "title": {
             "la": "In Eundem Psalmum 70",
             "en-US": "On the Same Psalm 70",
-            "pt-BR": "Sobre o Mesmo Salmo 70"
+            "pt-BR": "Sobre o Mesmo Salmo 70",
+            "es-419": "Sobre el Mismo Salmo 71 (70): Exposición"
           }
         },
         {
@@ -784,7 +887,8 @@
           "title": {
             "la": "Enarratio in Psalmum 71",
             "en-US": "Exposition of Psalm 71",
-            "pt-BR": "Comentário ao Salmo 71"
+            "pt-BR": "Comentário ao Salmo 71",
+            "es-419": "Exposición del Salmo 72 (71)"
           }
         },
         {
@@ -792,7 +896,8 @@
           "title": {
             "la": "Enarratio in Psalmum 72",
             "en-US": "Exposition of Psalm 72",
-            "pt-BR": "Comentário ao Salmo 72"
+            "pt-BR": "Comentário ao Salmo 72",
+            "es-419": "Exposición del salmo 73 (72): Sermón"
           }
         }
       ]
@@ -802,7 +907,8 @@
       "title": {
         "la": "Psalmi 73–98",
         "en-US": "Psalms 73–98",
-        "pt-BR": "Salmos 73–98"
+        "pt-BR": "Salmos 73–98",
+        "es-419": "Salmos 73–98"
       },
       "children": [
         {
@@ -810,7 +916,8 @@
           "title": {
             "la": "Enarratio in Psalmum 73",
             "en-US": "Exposition of Psalm 73",
-            "pt-BR": "Comentário ao Salmo 73"
+            "pt-BR": "Comentário ao Salmo 73",
+            "es-419": "Exposición del Salmo 74 (73): Sermón al pueblo"
           }
         },
         {
@@ -818,7 +925,8 @@
           "title": {
             "la": "Enarratio in Psalmum 74",
             "en-US": "Exposition of Psalm 74",
-            "pt-BR": "Comentário ao Salmo 74"
+            "pt-BR": "Comentário ao Salmo 74",
+            "es-419": "Exposición del Salmo 75 (74): Sermón al pueblo."
           }
         },
         {
@@ -826,7 +934,8 @@
           "title": {
             "la": "Enarratio in Psalmum 75",
             "en-US": "Exposition of Psalm 75",
-            "pt-BR": "Comentário ao Salmo 75"
+            "pt-BR": "Comentário ao Salmo 75",
+            "es-419": "Exposición del Salmo 76 (75): Sermón al pueblo"
           }
         },
         {
@@ -834,7 +943,8 @@
           "title": {
             "la": "Enarratio in Psalmum 76",
             "en-US": "Exposition of Psalm 76",
-            "pt-BR": "Comentário ao Salmo 76"
+            "pt-BR": "Comentário ao Salmo 76",
+            "es-419": "Exposición del salmo 77 (76): Sermón al pueblo."
           }
         },
         {
@@ -842,7 +952,8 @@
           "title": {
             "la": "Enarratio in Psalmum 77",
             "en-US": "Exposition of Psalm 77",
-            "pt-BR": "Comentário ao Salmo 77"
+            "pt-BR": "Comentário ao Salmo 77",
+            "es-419": "Exposición del salmo 78 (77)"
           }
         },
         {
@@ -850,7 +961,8 @@
           "title": {
             "la": "Enarratio in Psalmum 78",
             "en-US": "Exposition of Psalm 78",
-            "pt-BR": "Comentário ao Salmo 78"
+            "pt-BR": "Comentário ao Salmo 78",
+            "es-419": "Exposición del salmo 79 (78)"
           }
         },
         {
@@ -858,7 +970,8 @@
           "title": {
             "la": "Enarratio in Psalmum 79",
             "en-US": "Exposition of Psalm 79",
-            "pt-BR": "Comentário ao Salmo 79"
+            "pt-BR": "Comentário ao Salmo 79",
+            "es-419": "Exposición del salmo 80 (79): Sermón"
           }
         },
         {
@@ -866,7 +979,8 @@
           "title": {
             "la": "Enarratio in Psalmum 80",
             "en-US": "Exposition of Psalm 80",
-            "pt-BR": "Comentário ao Salmo 80"
+            "pt-BR": "Comentário ao Salmo 80",
+            "es-419": "Exposición del salmo 81 (80): Sermón"
           }
         },
         {
@@ -874,7 +988,8 @@
           "title": {
             "la": "Enarratio in Psalmum 81",
             "en-US": "Exposition of Psalm 81",
-            "pt-BR": "Comentário ao Salmo 81"
+            "pt-BR": "Comentário ao Salmo 81",
+            "es-419": "Exposición del salmo 82 (81)"
           }
         },
         {
@@ -882,7 +997,8 @@
           "title": {
             "la": "Enarratio in Psalmum 82",
             "en-US": "Exposition of Psalm 82",
-            "pt-BR": "Comentário ao Salmo 82"
+            "pt-BR": "Comentário ao Salmo 82",
+            "es-419": "Exposición del salmo 83 (82)"
           }
         },
         {
@@ -890,7 +1006,8 @@
           "title": {
             "la": "Enarratio in Psalmum 83",
             "en-US": "Exposition of Psalm 83",
-            "pt-BR": "Comentário ao Salmo 83"
+            "pt-BR": "Comentário ao Salmo 83",
+            "es-419": "Exposición del salmo 84 (83)"
           }
         },
         {
@@ -898,7 +1015,8 @@
           "title": {
             "la": "Enarratio in Psalmum 84",
             "en-US": "Exposition of Psalm 84",
-            "pt-BR": "Comentário ao Salmo 84"
+            "pt-BR": "Comentário ao Salmo 84",
+            "es-419": "Exposición del salmo 85 (84): Sermón al pueblo"
           }
         },
         {
@@ -906,7 +1024,8 @@
           "title": {
             "la": "Enarratio in Psalmum 85",
             "en-US": "Exposition of Psalm 85",
-            "pt-BR": "Comentário ao Salmo 85"
+            "pt-BR": "Comentário ao Salmo 85",
+            "es-419": "Exposición del salmo 86 (85): Sermón"
           }
         },
         {
@@ -914,7 +1033,8 @@
           "title": {
             "la": "Enarratio in Psalmum 86",
             "en-US": "Exposition of Psalm 86",
-            "pt-BR": "Comentário ao Salmo 86"
+            "pt-BR": "Comentário ao Salmo 86",
+            "es-419": "Exposición del salmo 87 (86): Sermón"
           }
         },
         {
@@ -922,7 +1042,8 @@
           "title": {
             "la": "Enarratio in Psalmum 87",
             "en-US": "Exposition of Psalm 87",
-            "pt-BR": "Comentário ao Salmo 87"
+            "pt-BR": "Comentário ao Salmo 87",
+            "es-419": "Exposición del salmo 88 (87)"
           }
         },
         {
@@ -930,7 +1051,8 @@
           "title": {
             "la": "Enarratio in Psalmum 88",
             "en-US": "Exposition of Psalm 88",
-            "pt-BR": "Comentário ao Salmo 88"
+            "pt-BR": "Comentário ao Salmo 88",
+            "es-419": "Exposición del salmo 89 (88): Sermón"
           }
         },
         {
@@ -938,7 +1060,8 @@
           "title": {
             "la": "In eumdem Psalmum 88",
             "en-US": "On the Same Psalm 88",
-            "pt-BR": "Sobre o mesmo Salmo 88"
+            "pt-BR": "Sobre o mesmo Salmo 88",
+            "es-419": "Sobre el mismo salmo 89 (88): Exposición"
           }
         },
         {
@@ -946,7 +1069,8 @@
           "title": {
             "la": "Enarratio in Psalmum 89",
             "en-US": "Exposition of Psalm 89",
-            "pt-BR": "Comentário ao Salmo 89"
+            "pt-BR": "Comentário ao Salmo 89",
+            "es-419": "Sobre el salmo 90 (89): Exposición."
           }
         },
         {
@@ -954,7 +1078,8 @@
           "title": {
             "la": "Enarratio in Psalmum 90",
             "en-US": "Exposition of Psalm 90",
-            "pt-BR": "Comentário ao Salmo 90"
+            "pt-BR": "Comentário ao Salmo 90",
+            "es-419": "Exposición del salmo 91 (90): Sermón 1"
           }
         },
         {
@@ -962,7 +1087,8 @@
           "title": {
             "la": "In eumdem Psalmum 90",
             "en-US": "On the Same Psalm 90",
-            "pt-BR": "Sobre o mesmo Salmo 90"
+            "pt-BR": "Sobre o mesmo Salmo 90",
+            "es-419": "Sobre el mismo salmo 91 (90): Exposición"
           }
         },
         {
@@ -970,7 +1096,8 @@
           "title": {
             "la": "Enarratio in Psalmum 91",
             "en-US": "Exposition of Psalm 91",
-            "pt-BR": "Comentário ao Salmo 91"
+            "pt-BR": "Comentário ao Salmo 91",
+            "es-419": "Exposición del salmo 92 (91): Sermón"
           }
         },
         {
@@ -978,7 +1105,8 @@
           "title": {
             "la": "Enarratio in Psalmum 92",
             "en-US": "Exposition of Psalm 92",
-            "pt-BR": "Comentário ao Salmo 92"
+            "pt-BR": "Comentário ao Salmo 92",
+            "es-419": "Exposición del salmo 93 (92): Sermón al Pueblo"
           }
         },
         {
@@ -986,7 +1114,8 @@
           "title": {
             "la": "Enarratio in Psalmum 93",
             "en-US": "Exposition of Psalm 93",
-            "pt-BR": "Comentário ao Salmo 93"
+            "pt-BR": "Comentário ao Salmo 93",
+            "es-419": "Exposición del Salmo 94 (93): Sermón"
           }
         },
         {
@@ -994,7 +1123,8 @@
           "title": {
             "la": "Enarratio in Psalmum 94",
             "en-US": "Exposition of Psalm 94",
-            "pt-BR": "Comentário ao Salmo 94"
+            "pt-BR": "Comentário ao Salmo 94",
+            "es-419": "Exposición del Salmo 95 (94): Sermón"
           }
         },
         {
@@ -1002,7 +1132,8 @@
           "title": {
             "la": "Enarratio in Psalmum 95",
             "en-US": "Exposition of Psalm 95",
-            "pt-BR": "Comentário ao Salmo 95"
+            "pt-BR": "Comentário ao Salmo 95",
+            "es-419": "Exposición del Salmo 96 (95): Sermón"
           }
         },
         {
@@ -1010,7 +1141,8 @@
           "title": {
             "la": "Enarratio in Psalmum 96",
             "en-US": "Exposition of Psalm 96",
-            "pt-BR": "Comentário ao Salmo 96"
+            "pt-BR": "Comentário ao Salmo 96",
+            "es-419": "Exposición del salmo 97 (96): Sermón al pueblo"
           }
         },
         {
@@ -1018,7 +1150,8 @@
           "title": {
             "la": "Enarratio in Psalmum 97",
             "en-US": "Exposition of Psalm 97",
-            "pt-BR": "Comentário ao Salmo 97"
+            "pt-BR": "Comentário ao Salmo 97",
+            "es-419": "Exposición del salmo 98 (97): Sermón al pueblo"
           }
         },
         {
@@ -1026,7 +1159,8 @@
           "title": {
             "la": "Enarratio in Psalmum 98",
             "en-US": "Exposition of Psalm 99 (98)",
-            "pt-BR": "Comentário ao Salmo 98"
+            "pt-BR": "Comentário ao Salmo 98",
+            "es-419": "Sobre el salmo 99 (98): Exposición."
           }
         }
       ]
@@ -1036,7 +1170,8 @@
       "title": {
         "la": "Psalmi 99–120",
         "en-US": "Psalms 99–120",
-        "pt-BR": "Salmos 99–120"
+        "pt-BR": "Salmos 99–120",
+        "es-419": "Salmos 99–120"
       },
       "children": [
         {
@@ -1044,7 +1179,8 @@
           "title": {
             "la": "Enarratio in Psalmum 99",
             "en-US": "Exposition of Psalm 99",
-            "pt-BR": "Comentário ao Salmo 99"
+            "pt-BR": "Comentário ao Salmo 99",
+            "es-419": "Exposición sobre el Salmo 99"
           }
         },
         {
@@ -1052,7 +1188,8 @@
           "title": {
             "la": "Enarratio in Psalmum 100",
             "en-US": "Exposition of Psalm 100",
-            "pt-BR": "Comentário ao Salmo 100"
+            "pt-BR": "Comentário ao Salmo 100",
+            "es-419": "Exposición sobre el Salmo 100"
           }
         },
         {
@@ -1060,7 +1197,8 @@
           "title": {
             "la": "Enarratio in Psalmum 101",
             "en-US": "Exposition of Psalm 101",
-            "pt-BR": "Comentário ao Salmo 101"
+            "pt-BR": "Comentário ao Salmo 101",
+            "es-419": "Exposición sobre el Salmo 101"
           }
         },
         {
@@ -1068,7 +1206,8 @@
           "title": {
             "la": "In eumdem Psalmum 101",
             "en-US": "On the Same Psalm 101",
-            "pt-BR": "Sobre o mesmo Salmo 101"
+            "pt-BR": "Sobre o mesmo Salmo 101",
+            "es-419": "Sobre el mismo Salmo 101"
           }
         },
         {
@@ -1076,7 +1215,8 @@
           "title": {
             "la": "Enarratio in Psalmum 102",
             "en-US": "Exposition of Psalm 102",
-            "pt-BR": "Comentário ao Salmo 102"
+            "pt-BR": "Comentário ao Salmo 102",
+            "es-419": "Exposición sobre el Salmo 102"
           }
         },
         {
@@ -1084,7 +1224,8 @@
           "title": {
             "la": "Enarratio in Psalmum 103",
             "en-US": "Exposition of Psalm 103",
-            "pt-BR": "Comentário ao Salmo 103"
+            "pt-BR": "Comentário ao Salmo 103",
+            "es-419": "Exposición sobre el Salmo 103"
           }
         },
         {
@@ -1092,7 +1233,8 @@
           "title": {
             "la": "In eumdem Psalmum 103",
             "en-US": "On the Same Psalm 103",
-            "pt-BR": "Sobre o mesmo Salmo 103"
+            "pt-BR": "Sobre o mesmo Salmo 103",
+            "es-419": "Sobre el mismo Salmo 103"
           }
         },
         {
@@ -1100,7 +1242,8 @@
           "title": {
             "la": "In eumdem Psalmum 103 (2)",
             "en-US": "On the Same Psalm 103 (2)",
-            "pt-BR": "Sobre o mesmo Salmo 103 (2)"
+            "pt-BR": "Sobre o mesmo Salmo 103 (2)",
+            "es-419": "Sobre el mismo Salmo 103 (2)"
           }
         },
         {
@@ -1108,7 +1251,8 @@
           "title": {
             "la": "In eumdem Psalmum 103 (3)",
             "en-US": "On the Same Psalm 103 (3)",
-            "pt-BR": "Sobre o mesmo Salmo 103 (3)"
+            "pt-BR": "Sobre o mesmo Salmo 103 (3)",
+            "es-419": "Sobre el mismo Salmo 103 (3)"
           }
         },
         {
@@ -1116,7 +1260,8 @@
           "title": {
             "la": "Enarratio in Psalmum 104",
             "en-US": "Exposition of Psalm 104",
-            "pt-BR": "Comentário ao Salmo 104"
+            "pt-BR": "Comentário ao Salmo 104",
+            "es-419": "Exposición sobre el Salmo 104"
           }
         },
         {
@@ -1124,7 +1269,8 @@
           "title": {
             "la": "Enarratio in Psalmum 105",
             "en-US": "Exposition of Psalm 105",
-            "pt-BR": "Comentário ao Salmo 105"
+            "pt-BR": "Comentário ao Salmo 105",
+            "es-419": "Exposición sobre el Salmo 105"
           }
         },
         {
@@ -1132,7 +1278,8 @@
           "title": {
             "la": "Enarratio in Psalmum 106",
             "en-US": "Exposition of Psalm 106",
-            "pt-BR": "Comentário ao Salmo 106"
+            "pt-BR": "Comentário ao Salmo 106",
+            "es-419": "Exposición sobre el Salmo 106"
           }
         },
         {
@@ -1140,7 +1287,8 @@
           "title": {
             "la": "Enarratio in Psalmum 107",
             "en-US": "Exposition of Psalm 107",
-            "pt-BR": "Comentário ao Salmo 107"
+            "pt-BR": "Comentário ao Salmo 107",
+            "es-419": "Exposición sobre el Salmo 107"
           }
         },
         {
@@ -1148,7 +1296,8 @@
           "title": {
             "la": "Enarratio in Psalmum 108",
             "en-US": "Exposition of Psalm 108",
-            "pt-BR": "Comentário ao Salmo 108"
+            "pt-BR": "Comentário ao Salmo 108",
+            "es-419": "Exposición sobre el Salmo 108"
           }
         },
         {
@@ -1156,7 +1305,8 @@
           "title": {
             "la": "Enarratio in Psalmum 109",
             "en-US": "Exposition of Psalm 109",
-            "pt-BR": "Comentário ao Salmo 109"
+            "pt-BR": "Comentário ao Salmo 109",
+            "es-419": "Exposición sobre el Salmo 109"
           }
         },
         {
@@ -1164,7 +1314,8 @@
           "title": {
             "la": "Enarratio in Psalmum 110",
             "en-US": "Exposition of Psalm 110",
-            "pt-BR": "Comentário ao Salmo 110"
+            "pt-BR": "Comentário ao Salmo 110",
+            "es-419": "Exposición sobre el Salmo 110"
           }
         },
         {
@@ -1172,7 +1323,8 @@
           "title": {
             "la": "Enarratio in Psalmum 111",
             "en-US": "Exposition of Psalm 111",
-            "pt-BR": "Comentário ao Salmo 111"
+            "pt-BR": "Comentário ao Salmo 111",
+            "es-419": "Exposición sobre el Salmo 111"
           }
         },
         {
@@ -1180,7 +1332,8 @@
           "title": {
             "la": "Enarratio in Psalmum 112",
             "en-US": "Exposition of Psalm 112",
-            "pt-BR": "Comentário ao Salmo 112"
+            "pt-BR": "Comentário ao Salmo 112",
+            "es-419": "Exposición sobre el Salmo 112"
           }
         },
         {
@@ -1188,7 +1341,8 @@
           "title": {
             "la": "Enarratio in Psalmum 113",
             "en-US": "Exposition of Psalm 113",
-            "pt-BR": "Comentário ao Salmo 113"
+            "pt-BR": "Comentário ao Salmo 113",
+            "es-419": "Exposición sobre el Salmo 113"
           }
         },
         {
@@ -1196,7 +1350,8 @@
           "title": {
             "la": "In eumdem Psalmum 113",
             "en-US": "On the Same Psalm 113",
-            "pt-BR": "Sobre o mesmo Salmo 113"
+            "pt-BR": "Sobre o mesmo Salmo 113",
+            "es-419": "Sobre el mismo Salmo 113"
           }
         },
         {
@@ -1204,7 +1359,8 @@
           "title": {
             "la": "Enarratio in Psalmum 114",
             "en-US": "Exposition of Psalm 114",
-            "pt-BR": "Comentário ao Salmo 114"
+            "pt-BR": "Comentário ao Salmo 114",
+            "es-419": "Exposición sobre el Salmo 114"
           }
         },
         {
@@ -1212,7 +1368,8 @@
           "title": {
             "la": "Enarratio in Psalmum 115",
             "en-US": "Exposition of Psalm 115",
-            "pt-BR": "Comentário ao Salmo 115"
+            "pt-BR": "Comentário ao Salmo 115",
+            "es-419": "Exposición sobre el Salmo 115"
           }
         },
         {
@@ -1220,7 +1377,8 @@
           "title": {
             "la": "Enarratio in Psalmum 116",
             "en-US": "Exposition of Psalm 116",
-            "pt-BR": "Comentário ao Salmo 116"
+            "pt-BR": "Comentário ao Salmo 116",
+            "es-419": "Exposición sobre el Salmo 116"
           }
         },
         {
@@ -1228,7 +1386,8 @@
           "title": {
             "la": "Enarratio in Psalmum 117",
             "en-US": "Exposition of Psalm 117",
-            "pt-BR": "Comentário ao Salmo 117"
+            "pt-BR": "Comentário ao Salmo 117",
+            "es-419": "Exposición sobre el Salmo 117"
           }
         },
         {
@@ -1236,7 +1395,8 @@
           "title": {
             "la": "Enarratio in Psalmum 118: Prooemium",
             "en-US": "Exposition of Psalm 118: Prologue",
-            "pt-BR": "Comentário ao Salmo 118: Prólogo"
+            "pt-BR": "Comentário ao Salmo 118: Prólogo",
+            "es-419": "Exposición sobre el Salmo 118: Prólogo"
           }
         },
         {
@@ -1244,7 +1404,8 @@
           "title": {
             "la": "In eumdem Psalmum 118",
             "en-US": "On the Same Psalm 118",
-            "pt-BR": "Sobre o mesmo Salmo 118"
+            "pt-BR": "Sobre o mesmo Salmo 118",
+            "es-419": "Sobre el mismo Salmo 118"
           }
         },
         {
@@ -1252,7 +1413,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (2)",
             "en-US": "On the Same Psalm 118 (2)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (2)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (2)",
+            "es-419": "Sobre el mismo Salmo 118 (2)"
           }
         },
         {
@@ -1260,7 +1422,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (3)",
             "en-US": "On the Same Psalm 118 (3)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (3)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (3)",
+            "es-419": "Sobre el mismo Salmo 118 (3)"
           }
         },
         {
@@ -1268,7 +1431,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (4)",
             "en-US": "On the Same Psalm 118 (4)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (4)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (4)",
+            "es-419": "Sobre el mismo Salmo 118 (4)"
           }
         },
         {
@@ -1276,7 +1440,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (5)",
             "en-US": "On the Same Psalm 118 (5)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (5)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (5)",
+            "es-419": "Sobre el mismo Salmo 118 (5)"
           }
         },
         {
@@ -1284,7 +1449,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (6)",
             "en-US": "On the Same Psalm 118 (6)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (6)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (6)",
+            "es-419": "Sobre el mismo Salmo 118 (6)"
           }
         },
         {
@@ -1292,7 +1458,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (7)",
             "en-US": "On the Same Psalm 118 (7)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (7)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (7)",
+            "es-419": "Sobre el mismo Salmo 118 (7)"
           }
         },
         {
@@ -1300,7 +1467,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (8)",
             "en-US": "On the Same Psalm 118 (8)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (8)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (8)",
+            "es-419": "Sobre el mismo Salmo 118 (8)"
           }
         },
         {
@@ -1308,7 +1476,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (9)",
             "en-US": "On the Same Psalm 118 (9)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (9)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (9)",
+            "es-419": "Sobre el mismo Salmo 118 (9)"
           }
         },
         {
@@ -1316,7 +1485,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (10)",
             "en-US": "On the Same Psalm 118 (10)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (10)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (10)",
+            "es-419": "Sobre el mismo Salmo 118 (10)"
           }
         },
         {
@@ -1324,7 +1494,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (11)",
             "en-US": "On the Same Psalm 118 (11)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (11)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (11)",
+            "es-419": "Sobre el mismo Salmo 118 (11)"
           }
         },
         {
@@ -1332,7 +1503,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (12)",
             "en-US": "On the Same Psalm 118 (12)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (12)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (12)",
+            "es-419": "Sobre el mismo Salmo 118 (12)"
           }
         },
         {
@@ -1340,7 +1512,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (13)",
             "en-US": "On the Same Psalm 118 (13)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (13)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (13)",
+            "es-419": "Sobre el mismo Salmo 118 (13)"
           }
         },
         {
@@ -1348,7 +1521,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (14)",
             "en-US": "On the Same Psalm 118 (14)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (14)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (14)",
+            "es-419": "Sobre el mismo Salmo 118 (14)"
           }
         },
         {
@@ -1356,7 +1530,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (15)",
             "en-US": "On the Same Psalm 118 (15)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (15)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (15)",
+            "es-419": "Sobre el mismo Salmo 118 (15)"
           }
         },
         {
@@ -1364,7 +1539,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (16)",
             "en-US": "On the Same Psalm 118 (16)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (16)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (16)",
+            "es-419": "Sobre el mismo Salmo 118 (16)"
           }
         },
         {
@@ -1372,7 +1548,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (17)",
             "en-US": "On the Same Psalm 118 (17)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (17)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (17)",
+            "es-419": "Sobre el mismo Salmo 118 (17)"
           }
         },
         {
@@ -1380,7 +1557,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (18)",
             "en-US": "On the Same Psalm 118 (18)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (18)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (18)",
+            "es-419": "Sobre el mismo Salmo 118 (18)"
           }
         },
         {
@@ -1388,7 +1566,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (19)",
             "en-US": "On the Same Psalm 118 (19)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (19)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (19)",
+            "es-419": "Sobre el mismo Salmo 118 (19)"
           }
         },
         {
@@ -1396,7 +1575,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (20)",
             "en-US": "On the Same Psalm 118 (20)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (20)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (20)",
+            "es-419": "Sobre el mismo Salmo 118 (20)"
           }
         },
         {
@@ -1404,7 +1584,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (21)",
             "en-US": "On the Same Psalm 118 (21)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (21)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (21)",
+            "es-419": "Sobre el mismo Salmo 118 (21)"
           }
         },
         {
@@ -1412,7 +1593,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (22)",
             "en-US": "On the Same Psalm 118 (22)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (22)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (22)",
+            "es-419": "Sobre el mismo Salmo 118 (22)"
           }
         },
         {
@@ -1420,7 +1602,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (23)",
             "en-US": "On the Same Psalm 118 (23)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (23)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (23)",
+            "es-419": "Sobre el mismo Salmo 118 (23)"
           }
         },
         {
@@ -1428,7 +1611,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (24)",
             "en-US": "On the Same Psalm 118 (24)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (24)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (24)",
+            "es-419": "Sobre el mismo Salmo 118 (24)"
           }
         },
         {
@@ -1436,7 +1620,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (25)",
             "en-US": "On the Same Psalm 118 (25)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (25)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (25)",
+            "es-419": "Sobre el mismo Salmo 118 (25)"
           }
         },
         {
@@ -1444,7 +1629,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (26)",
             "en-US": "On the Same Psalm 118 (26)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (26)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (26)",
+            "es-419": "Sobre el mismo Salmo 118 (26)"
           }
         },
         {
@@ -1452,7 +1638,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (27)",
             "en-US": "On the Same Psalm 118 (27)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (27)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (27)",
+            "es-419": "Sobre el mismo Salmo 118 (27)"
           }
         },
         {
@@ -1460,7 +1647,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (28)",
             "en-US": "On the Same Psalm 118 (28)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (28)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (28)",
+            "es-419": "Sobre el mismo Salmo 118 (28)"
           }
         },
         {
@@ -1468,7 +1656,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (29)",
             "en-US": "On the Same Psalm 118 (29)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (29)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (29)",
+            "es-419": "Sobre el mismo Salmo 118 (29)"
           }
         },
         {
@@ -1476,7 +1665,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (30)",
             "en-US": "On the Same Psalm 118 (30)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (30)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (30)",
+            "es-419": "Sobre el mismo Salmo 118 (30)"
           }
         },
         {
@@ -1484,7 +1674,8 @@
           "title": {
             "la": "In eumdem Psalmum 118 (31)",
             "en-US": "On the Same Psalm 118 (31)",
-            "pt-BR": "Sobre o mesmo Salmo 118 (31)"
+            "pt-BR": "Sobre o mesmo Salmo 118 (31)",
+            "es-419": "Sobre el mismo Salmo 118 (31)"
           }
         },
         {
@@ -1492,7 +1683,8 @@
           "title": {
             "la": "Enarratio in Psalmum 119",
             "en-US": "Exposition of Psalm 119",
-            "pt-BR": "Comentário ao Salmo 119"
+            "pt-BR": "Comentário ao Salmo 119",
+            "es-419": "Exposición sobre el Salmo 119"
           }
         },
         {
@@ -1500,7 +1692,8 @@
           "title": {
             "la": "Enarratio in Psalmum 120",
             "en-US": "Exposition of Psalm 120",
-            "pt-BR": "Comentário ao Salmo 120"
+            "pt-BR": "Comentário ao Salmo 120",
+            "es-419": "Exposición sobre el Salmo 120"
           }
         }
       ]
@@ -1510,7 +1703,8 @@
       "title": {
         "la": "Psalmi 121–150",
         "en-US": "Psalms 121–150",
-        "pt-BR": "Salmos 121–150"
+        "pt-BR": "Salmos 121–150",
+        "es-419": "Salmos 121–150"
       },
       "children": [
         {
@@ -1518,7 +1712,8 @@
           "title": {
             "la": "Enarratio in Psalmum 121",
             "en-US": "Exposition of Psalm 122",
-            "pt-BR": "Comentário ao Salmo 122 (121)"
+            "pt-BR": "Comentário ao Salmo 122 (121)",
+            "es-419": "Exposición del Salmo 122 (121): Sermón al pueblo"
           }
         },
         {
@@ -1526,7 +1721,8 @@
           "title": {
             "la": "Enarratio in Psalmum 122",
             "en-US": "Exposition of Psalm 123",
-            "pt-BR": "Comentário ao Salmo 123 (122)"
+            "pt-BR": "Comentário ao Salmo 123 (122)",
+            "es-419": "Exposición del Salmo 123 (122): Sermón al pueblo"
           }
         },
         {
@@ -1534,7 +1730,8 @@
           "title": {
             "la": "Enarratio in Psalmum 123",
             "en-US": "Exposition of Psalm 124",
-            "pt-BR": "Comentário ao Salmo 124 (123)"
+            "pt-BR": "Comentário ao Salmo 124 (123)",
+            "es-419": "Exposición del Salmo 124 (123): Sermón al pueblo"
           }
         },
         {
@@ -1542,7 +1739,8 @@
           "title": {
             "la": "Enarratio in Psalmum 124",
             "en-US": "Exposition of Psalm 125",
-            "pt-BR": "Comentário ao Salmo 125 (124)"
+            "pt-BR": "Comentário ao Salmo 125 (124)",
+            "es-419": "Exposición del salmo 125 (124): Sermón al pueblo"
           }
         },
         {
@@ -1550,7 +1748,8 @@
           "title": {
             "la": "Enarratio in Psalmum 125",
             "en-US": "Exposition of Psalm 126",
-            "pt-BR": "Comentário ao Salmo 126 (125)"
+            "pt-BR": "Comentário ao Salmo 126 (125)",
+            "es-419": "Exposición del salmo 126 (125): Sermón al pueblo"
           }
         },
         {
@@ -1558,7 +1757,8 @@
           "title": {
             "la": "Enarratio in Psalmum 126",
             "en-US": "Exposition of Psalm 127",
-            "pt-BR": "Comentário ao Salmo 127 (126)"
+            "pt-BR": "Comentário ao Salmo 127 (126)",
+            "es-419": "Exposición del salmo 127 (126): Sermón al pueblo"
           }
         },
         {
@@ -1566,7 +1766,8 @@
           "title": {
             "la": "Enarratio in Psalmum 127",
             "en-US": "Exposition of Psalm 128",
-            "pt-BR": "Comentário ao Salmo 128 (127)"
+            "pt-BR": "Comentário ao Salmo 128 (127)",
+            "es-419": "Exposición del salmo 128 (127): Sermón al pueblo"
           }
         },
         {
@@ -1574,7 +1775,8 @@
           "title": {
             "la": "Enarratio in Psalmum 128",
             "en-US": "Exposition of Psalm 129",
-            "pt-BR": "Comentário ao Salmo 129 (128)"
+            "pt-BR": "Comentário ao Salmo 129 (128)",
+            "es-419": "Exposición del salmo 129 (128): Sermón al pueblo"
           }
         },
         {
@@ -1582,7 +1784,8 @@
           "title": {
             "la": "Enarratio in Psalmum 129",
             "en-US": "Exposition of Psalm 130",
-            "pt-BR": "Comentário ao Salmo 130 (129)"
+            "pt-BR": "Comentário ao Salmo 130 (129)",
+            "es-419": "Exposición del salmo 130 (129): Sermón al pueblo"
           }
         },
         {
@@ -1590,7 +1793,8 @@
           "title": {
             "la": "Enarratio in Psalmum 130",
             "en-US": "Exposition of Psalm 131",
-            "pt-BR": "Comentário ao Salmo 131 (130)"
+            "pt-BR": "Comentário ao Salmo 131 (130)",
+            "es-419": "Exposición del salmo 131 (130): Sermón al pueblo"
           }
         },
         {
@@ -1598,7 +1802,8 @@
           "title": {
             "la": "Humilitas superbiam, non sapientiam, excludit.",
             "en-US": "Humility excludes pride, not wisdom.",
-            "pt-BR": "A humildade exclui a soberba, não a sabedoria."
+            "pt-BR": "A humildade exclui a soberba, não a sabedoria.",
+            "es-419": "La humildad excluye la soberbia, no la sabiduría."
           }
         },
         {
@@ -1606,7 +1811,8 @@
           "title": {
             "la": "Enarratio in Psalmum 131",
             "en-US": "Exposition of Psalm 132",
-            "pt-BR": "Comentário ao Salmo 132 (131)"
+            "pt-BR": "Comentário ao Salmo 132 (131)",
+            "es-419": "Exposición del salmo 132 (131): Sermón al pueblo"
           }
         },
         {
@@ -1614,7 +1820,8 @@
           "title": {
             "la": "Enarratio in Psalmum 132",
             "en-US": "Exposition of Psalm 133",
-            "pt-BR": "Comentário ao Salmo 133 (132)"
+            "pt-BR": "Comentário ao Salmo 133 (132)",
+            "es-419": "Exposición del Salmo 133 (132): Sermón al pueblo"
           }
         },
         {
@@ -1622,7 +1829,8 @@
           "title": {
             "la": "Enarratio in Psalmum 133",
             "en-US": "Exposition of Psalm 134",
-            "pt-BR": "Comentário ao Salmo 134 (133)"
+            "pt-BR": "Comentário ao Salmo 134 (133)",
+            "es-419": "Exposición del salmo 134 (133)"
           }
         },
         {
@@ -1630,7 +1838,8 @@
           "title": {
             "la": "Enarratio in Psalmum 134",
             "en-US": "Exposition of Psalm 135",
-            "pt-BR": "Comentário ao Salmo 135 (134)"
+            "pt-BR": "Comentário ao Salmo 135 (134)",
+            "es-419": "Exposición del salmo 135 (134): Sermón al pueblo"
           }
         },
         {
@@ -1638,7 +1847,8 @@
           "title": {
             "la": "Enarratio in Psalmum 135",
             "en-US": "Exposition of Psalm 136",
-            "pt-BR": "Comentário ao Salmo 136 (135)"
+            "pt-BR": "Comentário ao Salmo 136 (135)",
+            "es-419": "Exposición del salmo 136 (135)"
           }
         },
         {
@@ -1646,7 +1856,8 @@
           "title": {
             "la": "Enarratio in Psalmum 136",
             "en-US": "Exposition of Psalm 137",
-            "pt-BR": "Comentário ao Salmo 137 (136)"
+            "pt-BR": "Comentário ao Salmo 137 (136)",
+            "es-419": "Exposición del salmo 137 (136): Sermón al pueblo"
           }
         },
         {
@@ -1654,7 +1865,8 @@
           "title": {
             "la": "Enarratio in Psalmum 137",
             "en-US": "Exposition of Psalm 138",
-            "pt-BR": "Comentário ao Salmo 138 (137)"
+            "pt-BR": "Comentário ao Salmo 138 (137)",
+            "es-419": "Exposición del salmo 138 (137): Sermón al pueblo"
           }
         },
         {
@@ -1662,7 +1874,8 @@
           "title": {
             "la": "Enarratio in Psalmum 138",
             "en-US": "Exposition of Psalm 139",
-            "pt-BR": "Comentário ao Salmo 139 (138)"
+            "pt-BR": "Comentário ao Salmo 139 (138)",
+            "es-419": "Exposición del salmo 139 (138): Sermón al pueblo"
           }
         },
         {
@@ -1670,7 +1883,8 @@
           "title": {
             "la": "Enarratio in Psalmum 139",
             "en-US": "Exposition of Psalm 140",
-            "pt-BR": "Comentário ao Salmo 140"
+            "pt-BR": "Comentário ao Salmo 140",
+            "es-419": "Exposición del salmo 140 (139): Sermón al pueblo"
           }
         },
         {
@@ -1678,7 +1892,8 @@
           "title": {
             "la": "Enarratio in Psalmum 140",
             "en-US": "Exposition of Psalm 141",
-            "pt-BR": "Comentário ao Salmo 141"
+            "pt-BR": "Comentário ao Salmo 141",
+            "es-419": "Exposición del salmo 141 (140): Sermón al pueblo"
           }
         },
         {
@@ -1686,7 +1901,8 @@
           "title": {
             "la": "Enarratio in Psalmum 141",
             "en-US": "Exposition of Psalm 142",
-            "pt-BR": "Comentário ao Salmo 142"
+            "pt-BR": "Comentário ao Salmo 142",
+            "es-419": "Exposición del salmo 142 (141): Sermón al pueblo"
           }
         },
         {
@@ -1694,7 +1910,8 @@
           "title": {
             "la": "Enarratio in Psalmum 142",
             "en-US": "Exposition of Psalm 143",
-            "pt-BR": "Comentário ao Salmo 143"
+            "pt-BR": "Comentário ao Salmo 143",
+            "es-419": "Exposición del salmo 143 (142): Sermón al pueblo"
           }
         },
         {
@@ -1702,7 +1919,8 @@
           "title": {
             "la": "Enarratio in Psalmum 143",
             "en-US": "Exposition of Psalm 144",
-            "pt-BR": "Comentário ao Salmo 144"
+            "pt-BR": "Comentário ao Salmo 144",
+            "es-419": "Exposición sobre el salmo 144 (143): Sermón al pueblo"
           }
         },
         {
@@ -1710,7 +1928,8 @@
           "title": {
             "la": "Enarratio in Psalmum 144",
             "en-US": "Exposition of Psalm 145",
-            "pt-BR": "Comentário ao Salmo 145"
+            "pt-BR": "Comentário ao Salmo 145",
+            "es-419": "Exposición sobre el salmo 145 (144): Sermón"
           }
         },
         {
@@ -1718,7 +1937,8 @@
           "title": {
             "la": "Enarratio in Psalmum 145",
             "en-US": "Exposition of Psalm 146",
-            "pt-BR": "Comentário ao Salmo 146"
+            "pt-BR": "Comentário ao Salmo 146",
+            "es-419": "Exposición del salmo 146 (145): Sermón al pueblo"
           }
         },
         {
@@ -1726,7 +1946,8 @@
           "title": {
             "la": "Enarratio in Psalmum 146",
             "en-US": "Exposition of Psalm 147 (Part 1: vv. 1-11)",
-            "pt-BR": "Comentário ao Salmo 147 (Parte 1: vv. 1-11)"
+            "pt-BR": "Comentário ao Salmo 147 (Parte 1: vv. 1-11)",
+            "es-419": "Exposición del salmo 147 (146), primera parte: Sermón"
           }
         },
         {
@@ -1734,7 +1955,8 @@
           "title": {
             "la": "Enarratio in Psalmum 147",
             "en-US": "Exposition of Psalm 147 (Part 2: vv. 12-20)",
-            "pt-BR": "Comentário ao Salmo 147 (Parte 2: vv. 12-20)"
+            "pt-BR": "Comentário ao Salmo 147 (Parte 2: vv. 12-20)",
+            "es-419": "Exposición del salmo 147 (147), segunda parte: Sermón al pueblo"
           }
         },
         {
@@ -1742,7 +1964,8 @@
           "title": {
             "la": "Enarratio in Psalmum 148",
             "en-US": "Exposition of Psalm 148",
-            "pt-BR": "Comentário ao Salmo 148"
+            "pt-BR": "Comentário ao Salmo 148",
+            "es-419": "Exposición del salmo 148: Sermón al pueblo"
           }
         },
         {
@@ -1750,7 +1973,8 @@
           "title": {
             "la": "Enarratio in Psalmum 149",
             "en-US": "Exposition of Psalm 149",
-            "pt-BR": "Comentário ao Salmo 149"
+            "pt-BR": "Comentário ao Salmo 149",
+            "es-419": "Exposición del salmo 149: Sermón al pueblo"
           }
         },
         {
@@ -1758,7 +1982,8 @@
           "title": {
             "la": "Enarratio in Psalmum 150",
             "en-US": "Exposition of Psalm 150",
-            "pt-BR": "Comentário ao Salmo 150"
+            "pt-BR": "Comentário ao Salmo 150",
+            "es-419": "Exposición del salmo 150"
           }
         }
       ]

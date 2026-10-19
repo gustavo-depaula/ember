@@ -4,12 +4,14 @@
   "name": {
     "la": "De civitate Dei",
     "en-US": "The City of God",
-    "pt-BR": "A Cidade de Deus"
+    "pt-BR": "A Cidade de Deus",
+    "es-419": "La ciudad de Dios"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Twenty-two books begun after Alaric's Goths sacked Rome, against pagans who blamed the disaster on Christianity. Ten refute the worship of the gods; twelve trace the rise, course and ends of the two cities, God's and this world's.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deCiv",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deCiv",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deCiv",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Epistola 212/a",
         "en-US": "Letter 212/a",
-        "pt-BR": "Carta 212/a"
+        "pt-BR": "Carta 212/a",
+        "es-419": "Carta 212/a"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions, Book II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones, libro II"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber I: An temporum calamitates Dei providentia regantur",
         "en-US": "Book I: Whether the calamities of the times are governed by the providence of God",
-        "pt-BR": "Livro I: Se as calamidades dos tempos são governadas pela providência de Deus"
+        "pt-BR": "Livro I: Se as calamidades dos tempos são governadas pela providência de Deus",
+        "es-419": "Libro I: Si las calamidades de los tiempos son gobernadas por la providencia de Dios"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Liber II: Plurimum deorum cultus mores pravos efficit",
         "en-US": "Book II: How greatly the worship of the gods produces depraved morals",
-        "pt-BR": "Livro II: Quão grandemente o culto dos deuses produz costumes depravados"
+        "pt-BR": "Livro II: Quão grandemente o culto dos deuses produz costumes depravados",
+        "es-419": "Libro II: Cuánto el culto de los dioses produce costumbres depravadas"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Liber III: Romanorum res gestae iudicio percurruntur",
         "en-US": "Book III: The deeds of the Romans are surveyed with judgment",
-        "pt-BR": "Livro III: Os feitos dos romanos são percorridos com juízo"
+        "pt-BR": "Livro III: Os feitos dos romanos são percorridos com juízo",
+        "es-419": "Libro III: Las hazañas de los romanos se recorren con juicio"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "Liber IV: Nihil multi dii potuerunt ad augendum imperium",
         "en-US": "Book IV: The many gods availed nothing toward enlarging the empire.",
-        "pt-BR": "Livro IV: Nada puderam os muitos deuses para engrandecer o império"
+        "pt-BR": "Livro IV: Nada puderam os muitos deuses para engrandecer o império",
+        "es-419": "Libro IV: En nada pudieron los muchos dioses para acrecentar el imperio"
       }
     },
     {
@@ -92,7 +109,8 @@
       "title": {
         "la": "Liber V: Utrum rerum gestarum ratio sit an non",
         "en-US": "Book V: Whether there is a rational account of events or not.",
-        "pt-BR": "Livro V: Se há ou não uma razão dos acontecimentos"
+        "pt-BR": "Livro V: Se há ou não uma razão dos acontecimentos",
+        "es-419": "Libro V: Si los hechos tienen o no una razón"
       }
     },
     {
@@ -100,7 +118,8 @@
       "title": {
         "la": "Liber VI: Indigne se gerunt cultores deorum",
         "en-US": "Book VI: The worshippers of the gods conduct themselves unworthily.",
-        "pt-BR": "Livro VI: Os cultores dos deuses conduzem-se indignamente."
+        "pt-BR": "Livro VI: Os cultores dos deuses conduzem-se indignamente.",
+        "es-419": "Libro VI: Los adoradores de los dioses se comportan de manera indigna"
       }
     },
     {
@@ -108,7 +127,8 @@
       "title": {
         "la": "Liber VII: Physicorum ratione de diis selectis nihil quod ad veram felicitatem pertineat continetur",
         "en-US": "Book VII: The natural philosophers' account of the select gods contains nothing that pertains to true happiness",
-        "pt-BR": "Livro VII: A razão dos filósofos naturais acerca dos deuses seletos nada contém que pertença à verdadeira felicidade"
+        "pt-BR": "Livro VII: A razão dos filósofos naturais acerca dos deuses seletos nada contém que pertença à verdadeira felicidade",
+        "es-419": "Libro VII: Según la razón de los físicos, nada que atañe a la verdadera felicidad se contiene en los dioses selectos"
       }
     },
     {
@@ -116,7 +136,8 @@
       "title": {
         "la": "Liber VIII: Cum platonicis conferenda Christi religio",
         "en-US": "Book VIII: The Religion of Christ to Be Compared with the Platonists",
-        "pt-BR": "Livro VIII: A religião de Cristo deve ser comparada com os platônicos"
+        "pt-BR": "Livro VIII: A religião de Cristo deve ser comparada com os platônicos",
+        "es-419": "Libro VIII: Con los platónicos ha de compararse la religión de Cristo"
       }
     },
     {
@@ -124,7 +145,8 @@
       "title": {
         "la": "Liber IX: Quae quaesita iam sint de diis bonis et daemonibus",
         "en-US": "Book IX: What Has Already Been Inquired Concerning the Good Gods and the Demons",
-        "pt-BR": "Livro IX: O que já se investigou acerca dos deuses bons e dos demônios"
+        "pt-BR": "Livro IX: O que já se investigou acerca dos deuses bons e dos demônios",
+        "es-419": "Libro IX: Qué se ha investigado ya acerca de los dioses buenos y los demonios"
       }
     },
     {
@@ -132,7 +154,8 @@
       "title": {
         "la": "Liber X: Angelis placet ut uni Deo sacrificemus",
         "en-US": "Book X: The angels are pleased that we sacrifice to the one God.",
-        "pt-BR": "Livro X: Agrada aos anjos que sacrifiquemos a um só Deus"
+        "pt-BR": "Livro X: Agrada aos anjos que sacrifiquemos a um só Deus",
+        "es-419": "Libro X: A los ángeles les place que sacrifiquemos al único Dios."
       }
     },
     {
@@ -140,7 +163,8 @@
       "title": {
         "la": "Liber XI: Quae sit in secunda libri parte disputatio",
         "en-US": "Book XI: What the discussion is in the second part of the work",
-        "pt-BR": "Livro XI: Qual é a discussão na segunda parte da obra"
+        "pt-BR": "Livro XI: Qual é a discussão na segunda parte da obra",
+        "es-419": "Libro XI: Cuál es la disputa en la segunda parte de la obra"
       }
     },
     {
@@ -148,7 +172,8 @@
       "title": {
         "la": "Liber XII: Deus bonos angelos et semel in tempore hominem creavit",
         "en-US": "Book XII: God created the good angels, and man once in time",
-        "pt-BR": "Livro XII: Deus criou os bons anjos, e o homem uma só vez no tempo"
+        "pt-BR": "Livro XII: Deus criou os bons anjos, e o homem uma só vez no tempo",
+        "es-419": "Libro XII: Dios creó a los ángeles buenos y, una sola vez en el tiempo, al hombre."
       }
     },
     {
@@ -156,7 +181,8 @@
       "title": {
         "la": "Liber XIII: Ex peccato mors orta est",
         "en-US": "Book XIII: From sin death arose",
-        "pt-BR": "Livro XIII: Do pecado surgiu a morte"
+        "pt-BR": "Livro XIII: Do pecado surgiu a morte",
+        "es-419": "Libro XIII: Del pecado nació la muerte."
       }
     },
     {
@@ -164,7 +190,8 @@
       "title": {
         "la": "Liber XIV: Ex rebus gestis duae civitates evidentur",
         "en-US": "Book XIV: The two cities shown forth from the things that were done",
-        "pt-BR": "Livro XIV: A partir dos fatos ocorridos manifestam-se as duas cidades"
+        "pt-BR": "Livro XIV: A partir dos fatos ocorridos manifestam-se as duas cidades",
+        "es-419": "Libro XIV: A partir de los hechos se manifiestan las dos ciudades."
       }
     },
     {
@@ -172,7 +199,8 @@
       "title": {
         "la": "[Progressio civitatum duarum]",
         "en-US": "[The progress of the two cities]",
-        "pt-BR": "[O progresso das duas cidades]"
+        "pt-BR": "[O progresso das duas cidades]",
+        "es-419": "[El progreso de las dos ciudades]"
       }
     },
     {
@@ -180,7 +208,8 @@
       "title": {
         "la": "Liber XVI: Sem et Iafet benedicuntur",
         "en-US": "Book XVI: Shem and Japheth Are Blessed",
-        "pt-BR": "Livro XVI: Sem e Jafé são abençoados"
+        "pt-BR": "Livro XVI: Sem e Jafé são abençoados",
+        "es-419": "Libro XVI: Sem y Jafet son bendecidos"
       }
     },
     {
@@ -188,7 +217,8 @@
       "title": {
         "la": "Liber XVII: De Prophetis a Samuele ad Hieremiam agitur",
         "en-US": "Book XVII: The Prophets from Samuel to Jeremiah Are Treated",
-        "pt-BR": "Livro XVII: Trata-se dos Profetas, de Samuel a Jeremias"
+        "pt-BR": "Livro XVII: Trata-se dos Profetas, de Samuel a Jeremias",
+        "es-419": "Libro XVII: Se trata de los Profetas desde Samuel hasta Jeremías"
       }
     },
     {
@@ -196,7 +226,8 @@
       "title": {
         "la": "Liber XVIII: Quae iam digesta sint",
         "en-US": "Book XVIII: What Has Already Been Set Forth",
-        "pt-BR": "Livro XVIII: O que já foi exposto"
+        "pt-BR": "Livro XVIII: O que já foi exposto",
+        "es-419": "Libro XVIII: Lo que ya se ha expuesto"
       }
     },
     {
@@ -204,7 +235,8 @@
       "title": {
         "la": "Liber XIX: Quid sit finis bonorum et malorum",
         "en-US": "Book XIX: What the end of goods and evils is",
-        "pt-BR": "Livro XIX: Qual é o fim dos bens e dos males"
+        "pt-BR": "Livro XIX: Qual é o fim dos bens e dos males",
+        "es-419": "Libro XIX: Qué es el fin de los bienes y de los males"
       }
     },
     {
@@ -212,7 +244,8 @@
       "title": {
         "la": "Liber XX: Quae dicant sacri Libri de iudicio novissimo",
         "en-US": "Book XX: What the Sacred Books Say of the Last Judgment",
-        "pt-BR": "Livro XX: O que dizem os Livros sagrados a respeito do juízo final"
+        "pt-BR": "Livro XX: O que dizem os Livros sagrados a respeito do juízo final",
+        "es-419": "Libro XX: Lo que dicen los libros sagrados acerca del juicio final"
       }
     },
     {
@@ -220,7 +253,8 @@
       "title": {
         "la": "Liber XXI: Prius de supplicio disputandum est",
         "en-US": "Book XXI: The Punishment Must Be Discussed First",
-        "pt-BR": "Livro XXI: Primeiro deve tratar-se do suplício"
+        "pt-BR": "Livro XXI: Primeiro deve tratar-se do suplício",
+        "es-419": "Libro XXI: Primero ha de disputarse acerca del suplicio"
       }
     },
     {
@@ -228,7 +262,8 @@
       "title": {
         "la": "Liber XXII: Quid liber agat de aeternitate",
         "en-US": "Book XXII: What the book treats concerning eternity",
-        "pt-BR": "Livro XXII: Que trata o livro acerca da eternidade"
+        "pt-BR": "Livro XXII: Que trata o livro acerca da eternidade",
+        "es-419": "Libro XXII: De qué trata el libro acerca de la eternidad"
       }
     }
   ]

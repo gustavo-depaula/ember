@@ -4,12 +4,14 @@
   "name": {
     "la": "Contra litteras Petiliani",
     "en-US": "Answer to the Writings of Petilian",
-    "pt-BR": "Contra as cartas de Petiliano"
+    "pt-BR": "Contra as cartas de Petiliano",
+    "es-419": "Contra las cartas de Petiliano"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Three books against the Donatist bishop Petilian of Constantina. Book I answers the first part of his letter to his clergy; Book II, the whole letter, quoting him piece by piece; Book III, Petilian's angry reply to Augustine.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Petilian",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Petilian",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Petilian",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber II",
         "en-US": "Book II",
-        "pt-BR": "Livro II"
+        "pt-BR": "Livro II",
+        "es-419": "Libro II"
       },
       "children": [
         {
@@ -68,7 +82,8 @@
           "title": {
             "la": "Quomodo Aug. agit cum Petil.",
             "en-US": "How Augustine deals with Petilian.",
-            "pt-BR": "Como Agostinho procede com Petiliano."
+            "pt-BR": "Como Agostinho procede com Petiliano.",
+            "es-419": "Cómo trata Agustín con Petiliano."
           }
         },
         {
@@ -76,7 +91,8 @@
           "title": {
             "la": "Quomodo Petil. incipit suam epistolam.",
             "en-US": "How Petilian begins his letter.",
-            "pt-BR": "Como Petiliano começa a sua carta."
+            "pt-BR": "Como Petiliano começa a sua carta.",
+            "es-419": "Cómo comienza Petiliano su carta."
           }
         },
         {
@@ -84,7 +100,8 @@
           "title": {
             "la": "Nonnullae accusationes Petil. et responsiones Aug.",
             "en-US": "Some accusations of Petilian and Augustine's replies.",
-            "pt-BR": "Algumas acusações de Petiliano e as respostas de Agostinho."
+            "pt-BR": "Algumas acusações de Petiliano e as respostas de Agostinho.",
+            "es-419": "Algunas acusaciones de Petiliano y las respuestas de Agustín."
           }
         },
         {
@@ -92,7 +109,8 @@
           "title": {
             "la": "Christus est caput, origo et radix baptizati.",
             "en-US": "Christ is the head, origin, and root of the baptized.",
-            "pt-BR": "Cristo é a cabeça, a origem e a raiz do batizado."
+            "pt-BR": "Cristo é a cabeça, a origem e a raiz do batizado.",
+            "es-419": "Cristo es la cabeza, el origen y la raíz del bautizado."
           }
         },
         {
@@ -100,7 +118,8 @@
           "title": {
             "la": "Baptizator non transmittit peccatum nec sanctitatem.",
             "en-US": "The baptizer transmits neither sin nor holiness.",
-            "pt-BR": "O batizador não transmite nem pecado nem santidade."
+            "pt-BR": "O batizador não transmite nem pecado nem santidade.",
+            "es-419": "El que bautiza no transmite ni el pecado ni la santidad."
           }
         },
         {
@@ -108,7 +127,8 @@
           "title": {
             "la": "Responsio huic affirmationi.",
             "en-US": "A reply to this assertion.",
-            "pt-BR": "Resposta a essa afirmação."
+            "pt-BR": "Resposta a essa afirmação.",
+            "es-419": "Respuesta a esta afirmación."
           }
         },
         {
@@ -116,7 +136,8 @@
           "title": {
             "la": "Baptismus mortuorum non prodest.",
             "en-US": "The baptism of dead men does no good.",
-            "pt-BR": "O batismo dos mortos de nada serve."
+            "pt-BR": "O batismo dos mortos de nada serve.",
+            "es-419": "El bautismo de los muertos no aprovecha."
           }
         },
         {
@@ -124,7 +145,8 @@
           "title": {
             "la": "Christus non est mortuus, sed vivus.",
             "en-US": "Christ is not dead, but living.",
-            "pt-BR": "Cristo não está morto, mas vivo."
+            "pt-BR": "Cristo não está morto, mas vivo.",
+            "es-419": "Cristo no está muerto, sino vivo."
           }
         },
         {
@@ -132,7 +154,8 @@
           "title": {
             "la": "Exemplum Maximianistarum.",
             "en-US": "The example of the Maximianists.",
-            "pt-BR": "O exemplo dos maximianistas."
+            "pt-BR": "O exemplo dos maximianistas.",
+            "es-419": "El ejemplo de los maximianistas."
           }
         },
         {
@@ -140,7 +163,8 @@
           "title": {
             "la": "Iudas Apostolus fuit et mortuus erat.",
             "en-US": "Judas was an apostle and was dead.",
-            "pt-BR": "Judas foi apóstolo e estava morto."
+            "pt-BR": "Judas foi apóstolo e estava morto.",
+            "es-419": "Judas fue apóstol y estaba muerto."
           }
         },
         {
@@ -148,7 +172,8 @@
           "title": {
             "la": "Huic obiectioni Aug. respondit.",
             "en-US": "Augustine replied to this objection.",
-            "pt-BR": "Agostinho respondeu a essa objeção."
+            "pt-BR": "Agostinho respondeu a essa objeção.",
+            "es-419": "Agustín responde a esta objeción."
           }
         },
         {
@@ -156,7 +181,8 @@
           "title": {
             "la": "Petil. non citat bene testimonia Scripturae.",
             "en-US": "Petilian does not cite the testimonies of Scripture well.",
-            "pt-BR": "Petiliano não cita bem os testemunhos da Escritura."
+            "pt-BR": "Petiliano não cita bem os testemunhos da Escritura.",
+            "es-419": "Petiliano no cita bien los testimonios de la Escritura."
           }
         },
         {
@@ -164,7 +190,8 @@
           "title": {
             "la": "Donatistae non comunicant haereditati Christi.",
             "en-US": "The Donatists do not share in the inheritance of Christ.",
-            "pt-BR": "Os donatistas não participam da herança de Cristo."
+            "pt-BR": "Os donatistas não participam da herança de Cristo.",
+            "es-419": "Los donatistas no participan de la herencia de Cristo."
           }
         },
         {
@@ -172,7 +199,8 @@
           "title": {
             "la": "Datur etiam persecutio salutaris.",
             "en-US": "A salutary persecution too can be given.",
-            "pt-BR": "Também se pode dar uma perseguição salutar."
+            "pt-BR": "Também se pode dar uma perseguição salutar.",
+            "es-419": "También hay una persecución saludable."
           }
         },
         {
@@ -180,7 +208,8 @@
           "title": {
             "la": "Qui sunt veri filii traditoris.",
             "en-US": "Who are the true sons of a betrayer.",
-            "pt-BR": "Quem são os verdadeiros filhos de um traditor."
+            "pt-BR": "Quem são os verdadeiros filhos de um traditor.",
+            "es-419": "Quiénes son los verdaderos hijos del traidor."
           }
         },
         {
@@ -188,7 +217,8 @@
           "title": {
             "la": "Schismatici sunt filii diaboli.",
             "en-US": "Schismatics are sons of the devil.",
-            "pt-BR": "Os cismáticos são filhos do diabo."
+            "pt-BR": "Os cismáticos são filhos do diabo.",
+            "es-419": "Los cismáticos son hijos del diablo."
           }
         },
         {
@@ -196,7 +226,8 @@
           "title": {
             "la": "Qui sunt persecutores Prophetarum.",
             "en-US": "Who are the persecutors of the prophets.",
-            "pt-BR": "Quem são os perseguidores dos profetas."
+            "pt-BR": "Quem são os perseguidores dos profetas.",
+            "es-419": "Quiénes son los perseguidores de los profetas."
           }
         },
         {
@@ -204,7 +235,8 @@
           "title": {
             "la": "Aug.: sunt Donatistae.",
             "en-US": "Augustine: it is the Donatists.",
-            "pt-BR": "Agostinho: são os donatistas."
+            "pt-BR": "Agostinho: são os donatistas.",
+            "es-419": "Agustín: son los donatistas."
           }
         },
         {
@@ -212,7 +244,8 @@
           "title": {
             "la": "Donatistae sunt interfectores Prophetarum, quia respuunt prophetias.",
             "en-US": "The Donatists are the killers of the prophets, because they spurn the prophecies.",
-            "pt-BR": "Os donatistas são os matadores dos profetas, porque rejeitam as profecias."
+            "pt-BR": "Os donatistas são os matadores dos profetas, porque rejeitam as profecias.",
+            "es-419": "Los donatistas son asesinos de los profetas porque rechazan las profecías."
           }
         },
         {
@@ -220,7 +253,8 @@
           "title": {
             "la": "Textus Scripturae de persecutoribus.",
             "en-US": "A text of Scripture about persecutors.",
-            "pt-BR": "Um texto da Escritura sobre os perseguidores."
+            "pt-BR": "Um texto da Escritura sobre os perseguidores.",
+            "es-419": "Texto de la Escritura acerca de los perseguidores."
           }
         },
         {
@@ -228,7 +262,8 @@
           "title": {
             "la": "Donatistae sunt persecutores animarum, quia dividunt Ecclesiam.",
             "en-US": "The Donatists are persecutors of souls, because they divide the Church.",
-            "pt-BR": "Os donatistas são perseguidores das almas, porque dividem a Igreja."
+            "pt-BR": "Os donatistas são perseguidores das almas, porque dividem a Igreja.",
+            "es-419": "Los donatistas son perseguidores de las almas porque dividen la Iglesia."
           }
         },
         {
@@ -236,7 +271,8 @@
           "title": {
             "la": "Lupi rapaces sunt Donatistae, qui se operiunt pellibus ovium.",
             "en-US": "The Donatists are ravening wolves, who cover themselves with the skins of sheep.",
-            "pt-BR": "Os donatistas são os lobos vorazes, que se cobrem com peles de ovelhas."
+            "pt-BR": "Os donatistas são os lobos vorazes, que se cobrem com peles de ovelhas.",
+            "es-419": "Los lobos rapaces son los donatistas, que se cubren con pieles de ovejas."
           }
         },
         {
@@ -244,7 +280,8 @@
           "title": {
             "la": "Nonnullae accusationes contra Aug.",
             "en-US": "Some accusations against Augustine.",
-            "pt-BR": "Algumas acusações contra Agostinho."
+            "pt-BR": "Algumas acusações contra Agostinho.",
+            "es-419": "Algunas acusaciones contra Agustín."
           }
         },
         {
@@ -252,7 +289,8 @@
           "title": {
             "la": "Tu nomen episcopi illicite assumis.",
             "en-US": "You unlawfully take the name of bishop.",
-            "pt-BR": "Você assume ilicitamente o nome de bispo."
+            "pt-BR": "Você assume ilicitamente o nome de bispo.",
+            "es-419": "Usted asume ilícitamente el nombre de obispo."
           }
         },
         {
@@ -260,7 +298,8 @@
           "title": {
             "la": "Opus est probare, non inaniter loqui.",
             "en-US": "One must prove, not speak emptily.",
-            "pt-BR": "É preciso provar, não falar em vão."
+            "pt-BR": "É preciso provar, não falar em vão.",
+            "es-419": "Hace falta probar, no hablar vanamente."
           }
         },
         {
@@ -268,7 +307,8 @@
           "title": {
             "la": "Monitum Christi de persecutione.",
             "en-US": "Christ's warning about persecution.",
-            "pt-BR": "A advertência de Cristo sobre a perseguição."
+            "pt-BR": "A advertência de Cristo sobre a perseguição.",
+            "es-419": "Advertencia de Cristo acerca de la persecución."
           }
         },
         {
@@ -276,7 +316,8 @@
           "title": {
             "la": "Hoc monitum non pertinet ad haereticos aut schismaticos.",
             "en-US": "This warning does not pertain to heretics or schismatics.",
-            "pt-BR": "Essa advertência não diz respeito a hereges nem a cismáticos."
+            "pt-BR": "Essa advertência não diz respeito a hereges nem a cismáticos.",
+            "es-419": "Esta advertencia no se refiere a los herejes ni a los cismáticos."
           }
         },
         {
@@ -284,7 +325,8 @@
           "title": {
             "la": "Vos, dicit Petil., vivacem Christum totiens occidistis.",
             "en-US": "You, says Petilian, have so often killed the living Christ.",
-            "pt-BR": "Vocês, diz Petiliano, mataram tantas vezes o Cristo vivo."
+            "pt-BR": "Vocês, diz Petiliano, mataram tantas vezes o Cristo vivo.",
+            "es-419": "Ustedes, dice Petiliano, han matado tantas veces a Cristo vivo."
           }
         },
         {
@@ -292,7 +334,8 @@
           "title": {
             "la": "Aug.: Vos persecuti estis Maximianistas.",
             "en-US": "Augustine: You persecuted the Maximianists.",
-            "pt-BR": "Agostinho: Vocês perseguiram os maximianistas."
+            "pt-BR": "Agostinho: Vocês perseguiram os maximianistas.",
+            "es-419": "Agustín: ustedes persiguieron a los maximianistas."
           }
         },
         {
@@ -300,7 +343,8 @@
           "title": {
             "la": "Haec accusatio non probatur.",
             "en-US": "This accusation is not proved.",
-            "pt-BR": "Essa acusação não se prova."
+            "pt-BR": "Essa acusação não se prova.",
+            "es-419": "Esta acusación no se prueba."
           }
         },
         {
@@ -308,7 +352,8 @@
           "title": {
             "la": "Paulus, persecutor, a Baptismo est sanatus.",
             "en-US": "Paul, a persecutor, was healed by baptism.",
-            "pt-BR": "Paulo, perseguidor, foi curado pelo batismo."
+            "pt-BR": "Paulo, perseguidor, foi curado pelo batismo.",
+            "es-419": "Pablo, perseguidor, fue sanado por el bautismo."
           }
         },
         {
@@ -316,7 +361,8 @@
           "title": {
             "la": "Ne ista quidem accusatio probatur.",
             "en-US": "Not even this accusation is proved.",
-            "pt-BR": "Nem sequer essa acusação se prova."
+            "pt-BR": "Nem sequer essa acusação se prova.",
+            "es-419": "Tampoco se prueba esta acusación."
           }
         },
         {
@@ -324,7 +370,8 @@
           "title": {
             "la": "Sicut Iudas traditor vos non habetis pacem et Baptismum.",
             "en-US": "Like Judas the betrayer, you do not have peace and baptism.",
-            "pt-BR": "Como Judas, o traidor, vocês não têm paz nem batismo."
+            "pt-BR": "Como Judas, o traidor, vocês não têm paz nem batismo.",
+            "es-419": "Como Judas el traidor, ustedes no tienen paz ni bautismo."
           }
         },
         {
@@ -332,7 +379,8 @@
           "title": {
             "la": "Etiam Iuda presente, Apostoli non sunt contaminati.",
             "en-US": "Even with Judas present, the apostles were not contaminated.",
-            "pt-BR": "Mesmo com Judas presente, os apóstolos não foram contaminados."
+            "pt-BR": "Mesmo com Judas presente, os apóstolos não foram contaminados.",
+            "es-419": "Ni siquiera estando presente Judas fueron contaminados los apóstoles."
           }
         },
         {
@@ -340,7 +388,8 @@
           "title": {
             "la": "Petil.: Vos, occiditis et facitis aliquem suo sanguine baptizari.",
             "en-US": "Petilian: You kill someone and make him be baptized in his own blood.",
-            "pt-BR": "Petiliano: Vocês matam alguém e o fazem ser batizado no próprio sangue."
+            "pt-BR": "Petiliano: Vocês matam alguém e o fazem ser batizado no próprio sangue.",
+            "es-419": "Petiliano: ustedes matan y hacen que cada uno sea bautizado en su propia sangre."
           }
         },
         {
@@ -348,7 +397,8 @@
           "title": {
             "la": "Vera mors est separatio vestra ab Ecclesia.",
             "en-US": "The true death is your separation from the Church.",
-            "pt-BR": "A verdadeira morte é a separação de vocês da Igreja."
+            "pt-BR": "A verdadeira morte é a separação de vocês da Igreja.",
+            "es-419": "La verdadera muerte es su separación de la Iglesia."
           }
         },
         {
@@ -356,7 +406,8 @@
           "title": {
             "la": "Crimina aliorum non faciunt reos, nec nos nec vos.",
             "en-US": "The crimes of others do not make us guilty, neither us nor you.",
-            "pt-BR": "Os crimes dos outros não tornam ninguém réu, nem a nós nem a vocês."
+            "pt-BR": "Os crimes dos outros não tornam ninguém réu, nem a nós nem a vocês.",
+            "es-419": "Los crímenes ajenos no nos hacen reos ni a nosotros ni a ustedes."
           }
         },
         {
@@ -364,7 +415,8 @@
           "title": {
             "la": "Quid est catholicum Baptisma.",
             "en-US": "What Catholic baptism is.",
-            "pt-BR": "O que é o Batismo católico."
+            "pt-BR": "O que é o Batismo católico.",
+            "es-419": "Qué es el bautismo católico."
           }
         },
         {
@@ -372,7 +424,8 @@
           "title": {
             "la": "Sanctitas Baptismi non dependet a sanctitate ministri.",
             "en-US": "The holiness of baptism does not depend on the holiness of the minister.",
-            "pt-BR": "A santidade do Batismo não depende da santidade do ministro."
+            "pt-BR": "A santidade do Batismo não depende da santidade do ministro.",
+            "es-419": "La santidad del bautismo no depende de la santidad del ministro."
           }
         },
         {
@@ -380,7 +433,8 @@
           "title": {
             "la": "Unus est Baptismus.",
             "en-US": "There is one baptism.",
-            "pt-BR": "Um só é o Batismo."
+            "pt-BR": "Um só é o Batismo.",
+            "es-419": "El bautismo es uno."
           }
         },
         {
@@ -388,7 +442,8 @@
           "title": {
             "la": "Est Baptismus Christi.",
             "en-US": "It is the baptism of Christ.",
-            "pt-BR": "É o Batismo de Cristo."
+            "pt-BR": "É o Batismo de Cristo.",
+            "es-419": "Es el bautismo de Cristo."
           }
         },
         {
@@ -396,7 +451,8 @@
           "title": {
             "la": "Imago non est veritas.",
             "en-US": "An image is not the truth.",
-            "pt-BR": "A imagem não é a verdade."
+            "pt-BR": "A imagem não é a verdade.",
+            "es-419": "La imagen no es la verdad."
           }
         },
         {
@@ -404,7 +460,8 @@
           "title": {
             "la": "Quomodo agunt Donatistae.",
             "en-US": "How the Donatists act.",
-            "pt-BR": "Como agem os donatistas."
+            "pt-BR": "Como agem os donatistas.",
+            "es-419": "Cómo actúan los donatistas."
           }
         },
         {
@@ -412,7 +469,8 @@
           "title": {
             "la": "Exemplum magistratus.",
             "en-US": "The example of a magistrate.",
-            "pt-BR": "O exemplo do magistrado."
+            "pt-BR": "O exemplo do magistrado.",
+            "es-419": "El ejemplo del magistrado."
           }
         },
         {
@@ -420,7 +478,8 @@
           "title": {
             "la": "Hoc exemplum nihil pertinet ad Catholicos.",
             "en-US": "This example does not pertain to Catholics at all.",
-            "pt-BR": "Este exemplo em nada diz respeito aos católicos."
+            "pt-BR": "Este exemplo em nada diz respeito aos católicos.",
+            "es-419": "Este ejemplo no atañe en nada a los católicos."
           }
         },
         {
@@ -428,7 +487,8 @@
           "title": {
             "la": "Veritas Baptismi non dependet a veritate sacerdotis.",
             "en-US": "The truth of baptism does not depend on the truth of the priest.",
-            "pt-BR": "A verdade do Batismo não depende da verdade do sacerdote."
+            "pt-BR": "A verdade do Batismo não depende da verdade do sacerdote.",
+            "es-419": "La verdad del bautismo no depende de la verdad del sacerdote."
           }
         },
         {
@@ -436,7 +496,8 @@
           "title": {
             "la": "Unde venit potestas baptizandi.",
             "en-US": "Whence comes the power to baptize.",
-            "pt-BR": "De onde vem o poder de batizar."
+            "pt-BR": "De onde vem o poder de batizar.",
+            "es-419": "De dónde procede el poder de bautizar."
           }
         },
         {
@@ -444,7 +505,8 @@
           "title": {
             "la": "Quando Catholica amisit potestatem baptizandi?",
             "en-US": "When did the Catholic Church lose the power to baptize?",
-            "pt-BR": "Quando a Igreja Católica perdeu o poder de batizar?"
+            "pt-BR": "Quando a Igreja Católica perdeu o poder de batizar?",
+            "es-419": "¿Cuándo perdió la Iglesia católica el poder de bautizar?"
           }
         },
         {
@@ -452,7 +514,8 @@
           "title": {
             "la": "Baptismus est unus, sed tribus gradibus consecratum.",
             "en-US": "Baptism is one, but consecrated in three degrees.",
-            "pt-BR": "O Batismo é um só, mas consagrado em três graus."
+            "pt-BR": "O Batismo é um só, mas consagrado em três graus.",
+            "es-419": "El bautismo es uno, pero está consagrado en tres grados."
           }
         },
         {
@@ -460,7 +523,8 @@
           "title": {
             "la": "Petil. est maledicus, non veridicus.",
             "en-US": "Petilian is slanderous, not truthful.",
-            "pt-BR": "Petiliano é maldizente, não veraz."
+            "pt-BR": "Petiliano é maldizente, não veraz.",
+            "es-419": "Petiliano maldice, en vez de decir la verdad."
           }
         },
         {
@@ -468,7 +532,8 @@
           "title": {
             "la": "Quid significantur linguae in Pentecoste.",
             "en-US": "What the tongues at Pentecost signify.",
-            "pt-BR": "O que significam as línguas em Pentecostes."
+            "pt-BR": "O que significam as línguas em Pentecostes.",
+            "es-419": "Qué significan las lenguas en Pentecostés."
           }
         },
         {
@@ -476,7 +541,8 @@
           "title": {
             "la": "Vera explicatio verborum Scripturae.",
             "en-US": "A true explanation of the words of Scripture.",
-            "pt-BR": "A verdadeira explicação das palavras da Escritura."
+            "pt-BR": "A verdadeira explicação das palavras da Escritura.",
+            "es-419": "Explicación verdadera de las palabras de la Escritura."
           }
         },
         {
@@ -484,7 +550,8 @@
           "title": {
             "la": "Non sunt duo Spiritus Sancti.",
             "en-US": "There are not two Holy Spirits.",
-            "pt-BR": "Não há dois Espíritos Santos."
+            "pt-BR": "Não há dois Espíritos Santos.",
+            "es-419": "No hay dos Espíritus Santos."
           }
         },
         {
@@ -492,7 +559,8 @@
           "title": {
             "la": "Quomodo baptizant in nomine Trinitatis qui communicant cum traditoribus?",
             "en-US": "How do those baptize in the name of the Trinity who are in communion with betrayers?",
-            "pt-BR": "Como batizam em nome da Trindade os que comungam com traditores?"
+            "pt-BR": "Como batizam em nome da Trindade os que comungam com traditores?",
+            "es-419": "¿Cómo bautizan en el nombre de la Trinidad quienes están en comunión con los traidores?"
           }
         },
         {
@@ -500,7 +568,8 @@
           "title": {
             "la": "Si peccatores non possunt baptizare, ne vestri quidem potuerunt.",
             "en-US": "If sinners cannot baptize, then not even your people could.",
-            "pt-BR": "Se os pecadores não podem batizar, nem mesmo os de vocês puderam."
+            "pt-BR": "Se os pecadores não podem batizar, nem mesmo os de vocês puderam.",
+            "es-419": "Si los pecadores no pueden bautizar, tampoco pudieron hacerlo los suyos."
           }
         },
         {
@@ -508,7 +577,8 @@
           "title": {
             "la": "Petil. sibi contradicit.",
             "en-US": "Petilian contradicts himself.",
-            "pt-BR": "Petiliano contradiz a si mesmo."
+            "pt-BR": "Petiliano contradiz a si mesmo.",
+            "es-419": "Petiliano se contradice."
           }
         },
         {
@@ -516,7 +586,8 @@
           "title": {
             "la": "Baptismi puritas a puritate accipientis et dantis distincta est.",
             "en-US": "The purity of baptism is distinct from the purity of receiver and giver.",
-            "pt-BR": "A pureza do Batismo é distinta da pureza de quem recebe e de quem dá."
+            "pt-BR": "A pureza do Batismo é distinta da pureza de quem recebe e de quem dá.",
+            "es-419": "La pureza del bautismo es distinta de la pureza de quien lo recibe y de quien lo da."
           }
         },
         {
@@ -524,7 +595,8 @@
           "title": {
             "la": "Nos sumus catholici, quia non deserimus unitatem, vos autem haeretici.",
             "en-US": "We are Catholics, because we do not desert unity, but you are heretics.",
-            "pt-BR": "Nós somos católicos, porque não abandonamos a unidade; vocês, porém, são hereges."
+            "pt-BR": "Nós somos católicos, porque não abandonamos a unidade; vocês, porém, são hereges.",
+            "es-419": "Nosotros somos católicos porque no abandonamos la unidad; ustedes, en cambio, son herejes."
           }
         },
         {
@@ -532,7 +604,8 @@
           "title": {
             "la": "Paulus rebaptizavit?",
             "en-US": "Did Paul rebaptize?",
-            "pt-BR": "Paulo rebatizou?"
+            "pt-BR": "Paulo rebatizou?",
+            "es-419": "¿Rebautizó Pablo?"
           }
         },
         {
@@ -540,7 +613,8 @@
           "title": {
             "la": "Paulus baptizavit quos non habebant Baptismum Christi.",
             "en-US": "Paul baptized those who did not have the baptism of Christ.",
-            "pt-BR": "Paulo batizou os que não tinham o Batismo de Cristo."
+            "pt-BR": "Paulo batizou os que não tinham o Batismo de Cristo.",
+            "es-419": "Pablo bautizó a quienes no tenían el bautismo de Cristo."
           }
         },
         {
@@ -548,7 +622,8 @@
           "title": {
             "la": "Baptismus Ioannis praefigurabat Baptismum Christi.",
             "en-US": "The baptism of John prefigured the baptism of Christ.",
-            "pt-BR": "O batismo de João prefigurava o Batismo de Cristo."
+            "pt-BR": "O batismo de João prefigurava o Batismo de Cristo.",
+            "es-419": "El bautismo de Juan prefiguraba el bautismo de Cristo."
           }
         },
         {
@@ -556,7 +631,8 @@
           "title": {
             "la": "Ergo post Ioannem baptizandum erat.",
             "en-US": "Therefore one had to be baptized after John.",
-            "pt-BR": "Portanto, era preciso ser batizado depois de João."
+            "pt-BR": "Portanto, era preciso ser batizado depois de João.",
+            "es-419": "Por tanto, había que bautizar después de Juan."
           }
         },
         {
@@ -564,7 +640,8 @@
           "title": {
             "la": "Haeretici sunt quaerendi quia sunt haeretici.",
             "en-US": "Heretics are to be sought because they are heretics.",
-            "pt-BR": "Os hereges devem ser procurados porque são hereges."
+            "pt-BR": "Os hereges devem ser procurados porque são hereges.",
+            "es-419": "Hay que buscar a los herejes porque son herejes."
           }
         },
         {
@@ -572,7 +649,8 @@
           "title": {
             "la": "Quid significet nomen Katholicos.",
             "en-US": "What the name 'Catholic' signifies.",
-            "pt-BR": "O que significa o nome “católico”."
+            "pt-BR": "O que significa o nome “católico”.",
+            "es-419": "Qué significa el nombre Katholicos."
           }
         },
         {
@@ -580,7 +658,8 @@
           "title": {
             "la": "Nihil pertinet ad partem Donati pars Macarii.",
             "en-US": "The party of Macarius has nothing to do with the party of Donatus.",
-            "pt-BR": "O partido de Macário nada tem a ver com o partido de Donato."
+            "pt-BR": "O partido de Macário nada tem a ver com o partido de Donato.",
+            "es-419": "El partido de Macario no tiene nada que ver con el partido de Donato."
           }
         },
         {
@@ -588,7 +667,8 @@
           "title": {
             "la": "Petil. non videt totam realitatem mundi.",
             "en-US": "Petilian does not see the whole reality of the world.",
-            "pt-BR": "Petiliano não vê toda a realidade do mundo."
+            "pt-BR": "Petiliano não vê toda a realidade do mundo.",
+            "es-419": "Petiliano no ve toda la realidad del mundo."
           }
         },
         {
@@ -596,7 +676,8 @@
           "title": {
             "la": "Donatistae sunt paleae; quid significet nomen Makarios.",
             "en-US": "The Donatists are chaff; what the name 'Macarius' signifies.",
-            "pt-BR": "Os donatistas são palha; o que significa o nome “Macário”."
+            "pt-BR": "Os donatistas são palha; o que significa o nome “Macário”.",
+            "es-419": "Los donatistas son paja; qué significa el nombre Macario."
           }
         },
         {
@@ -604,7 +685,8 @@
           "title": {
             "la": "Idem Sacramentum potest esse ad salutem vel ad iudicium.",
             "en-US": "The same sacrament can be unto salvation or unto judgment.",
-            "pt-BR": "O mesmo Sacramento pode ser para a salvação ou para o juízo."
+            "pt-BR": "O mesmo Sacramento pode ser para a salvação ou para o juízo.",
+            "es-419": "El mismo sacramento puede servir para salvación o para condenación."
           }
         },
         {
@@ -612,7 +694,8 @@
           "title": {
             "la": "Numquid Iudas pro vobis mortuus est?",
             "en-US": "Did Judas die for you?",
-            "pt-BR": "Porventura Judas morreu por vocês?"
+            "pt-BR": "Porventura Judas morreu por vocês?",
+            "es-419": "¿Acaso Judas murió por ustedes?"
           }
         },
         {
@@ -620,7 +703,8 @@
           "title": {
             "la": "Non pro nobis Iudas, sed Christus mortuus est.",
             "en-US": "Not Judas, but Christ died for us.",
-            "pt-BR": "Não Judas, mas Cristo morreu por nós."
+            "pt-BR": "Não Judas, mas Cristo morreu por nós.",
+            "es-419": "No murió por nosotros Judas, sino Cristo."
           }
         },
         {
@@ -628,7 +712,8 @@
           "title": {
             "la": "Baptizati sumus in nomine Christi, non in nomine Iudae.",
             "en-US": "We were baptized in the name of Christ, not in the name of Judas.",
-            "pt-BR": "Fomos batizados em nome de Cristo, não em nome de Judas."
+            "pt-BR": "Fomos batizados em nome de Cristo, não em nome de Judas.",
+            "es-419": "Fuimos bautizados en el nombre de Cristo, no en el de Judas."
           }
         },
         {
@@ -636,7 +721,8 @@
           "title": {
             "la": "Duae sunt viae: via vitae et via mortis.",
             "en-US": "There are two ways: the way of life and the way of death.",
-            "pt-BR": "Há dois caminhos: o caminho da vida e o caminho da morte."
+            "pt-BR": "Há dois caminhos: o caminho da vida e o caminho da morte.",
+            "es-419": "Hay dos caminos: el de la vida y el de la muerte."
           }
         },
         {
@@ -644,7 +730,8 @@
           "title": {
             "la": "Quomodo sit accipiendus parvus numerus.",
             "en-US": "How a small number is to be understood.",
-            "pt-BR": "Como se deve entender o pequeno número."
+            "pt-BR": "Como se deve entender o pequeno número.",
+            "es-419": "Cómo debe entenderse el pequeño número."
           }
         },
         {
@@ -652,7 +739,8 @@
           "title": {
             "la": "Citatio psalmi primi, de vero beato.",
             "en-US": "A citation of the first psalm, about the truly blessed man.",
-            "pt-BR": "Citação do primeiro salmo, sobre o verdadeiro bem-aventurado."
+            "pt-BR": "Citação do primeiro salmo, sobre o verdadeiro bem-aventurado.",
+            "es-419": "Cita del salmo primero, acerca del verdadero bienaventurado."
           }
         },
         {
@@ -660,7 +748,8 @@
           "title": {
             "la": "Quis sit beatus vir.",
             "en-US": "Who the blessed man is.",
-            "pt-BR": "Quem é o varão bem-aventurado."
+            "pt-BR": "Quem é o varão bem-aventurado.",
+            "es-419": "Quién es el varón bienaventurado."
           }
         },
         {
@@ -668,7 +757,8 @@
           "title": {
             "la": "Citatio Psalmi 22.",
             "en-US": "A citation of Psalm 23.",
-            "pt-BR": "Citação do Salmo 23."
+            "pt-BR": "Citação do Salmo 23.",
+            "es-419": "Cita del salmo 23 (22)."
           }
         },
         {
@@ -676,7 +766,8 @@
           "title": {
             "la": "Hic Psalmus loquitur de Ecclesia universali.",
             "en-US": "This psalm speaks of the universal Church.",
-            "pt-BR": "Este salmo fala da Igreja universal."
+            "pt-BR": "Este salmo fala da Igreja universal.",
+            "es-419": "Este salmo habla de la Iglesia universal."
           }
         },
         {
@@ -684,7 +775,8 @@
           "title": {
             "la": "Sacramentum Dei semper sanctum est, et in malis hominibus.",
             "en-US": "The sacrament of God is always holy, even in evil men.",
-            "pt-BR": "O Sacramento de Deus é sempre santo, mesmo nos homens maus."
+            "pt-BR": "O Sacramento de Deus é sempre santo, mesmo nos homens maus.",
+            "es-419": "El sacramento de Dios es siempre santo, también en los hombres malos."
           }
         },
         {
@@ -692,7 +784,8 @@
           "title": {
             "la": "Non sufficit cognoscere Sacram Scripturam.",
             "en-US": "It is not enough to know Sacred Scripture.",
-            "pt-BR": "Não basta conhecer a Sagrada Escritura."
+            "pt-BR": "Não basta conhecer a Sagrada Escritura.",
+            "es-419": "No basta conocer la Sagrada Escritura."
           }
         },
         {
@@ -700,7 +793,8 @@
           "title": {
             "la": "Diabolus est magister traditoris et tentavit Christum ut se praecipitaret.",
             "en-US": "The devil is the master of the betrayer and tempted Christ to throw himself down.",
-            "pt-BR": "O diabo é mestre do traidor e tentou Cristo a lançar-se do alto."
+            "pt-BR": "O diabo é mestre do traidor e tentou Cristo a lançar-se do alto.",
+            "es-419": "El diablo es el maestro del traidor y tentó a Cristo para que se arrojara al vacío."
           }
         },
         {
@@ -708,7 +802,8 @@
           "title": {
             "la": "Quaere quid verum dicas.",
             "en-US": "Look for what truth you may say.",
-            "pt-BR": "Procure o que possa dizer de verdadeiro."
+            "pt-BR": "Procure o que possa dizer de verdadeiro.",
+            "es-419": "Busque decir la verdad."
           }
         },
         {
@@ -716,7 +811,8 @@
           "title": {
             "la": "Petil. non affert documenta, sed vana convicia.",
             "en-US": "Petilian brings no proofs, but empty insults.",
-            "pt-BR": "Petiliano não apresenta provas, mas injúrias vãs."
+            "pt-BR": "Petiliano não apresenta provas, mas injúrias vãs.",
+            "es-419": "Petiliano no presenta pruebas, sino insultos vanos."
           }
         },
         {
@@ -724,7 +820,8 @@
           "title": {
             "la": "Vestrum sacrificium est immundum.",
             "en-US": "Your sacrifice is unclean.",
-            "pt-BR": "O sacrifício de vocês é imundo."
+            "pt-BR": "O sacrifício de vocês é imundo.",
+            "es-419": "Su sacrificio es impuro."
           }
         },
         {
@@ -732,7 +829,8 @@
           "title": {
             "la": "Tale cuique fit sacrificium, qualis accedit ut offerat.",
             "en-US": "The sacrifice becomes for each such as is the one who approaches to offer it.",
-            "pt-BR": "O sacrifício se torna para cada um tal qual é quem se aproxima para oferecê-lo."
+            "pt-BR": "O sacrifício se torna para cada um tal qual é quem se aproxima para oferecê-lo.",
+            "es-419": "El sacrificio resulta para cada uno según sea quien se acerca a ofrecerlo."
           }
         },
         {
@@ -740,7 +838,8 @@
           "title": {
             "la": "Vestrae preces nihil vobis prosunt.",
             "en-US": "Your prayers do you no good.",
-            "pt-BR": "As orações de vocês em nada lhes aproveitam."
+            "pt-BR": "As orações de vocês em nada lhes aproveitam.",
+            "es-419": "Sus plegarias no les aprovechan en nada."
           }
         },
         {
@@ -748,7 +847,8 @@
           "title": {
             "la": "Moderate Aug. corripit Donatistas.",
             "en-US": "Augustine rebukes the Donatists with moderation.",
-            "pt-BR": "Agostinho repreende os donatistas com moderação."
+            "pt-BR": "Agostinho repreende os donatistas com moderação.",
+            "es-419": "Agustín corrige con moderación a los donatistas."
           }
         },
         {
@@ -756,7 +856,8 @@
           "title": {
             "la": "Petil. confitetur etiam peccatores valide invocare nomen Christi.",
             "en-US": "Petilian confesses that even sinners effectively invoke the name of Christ.",
-            "pt-BR": "Petiliano confessa que também os pecadores invocam eficazmente o nome de Cristo."
+            "pt-BR": "Petiliano confessa que também os pecadores invocam eficazmente o nome de Cristo.",
+            "es-419": "Petiliano reconoce que también los pecadores invocan eficazmente el nombre de Cristo."
           }
         },
         {
@@ -764,7 +865,8 @@
           "title": {
             "la": "Petil. recusat miracula Catholicorum.",
             "en-US": "Petilian refuses the miracles of the Catholics.",
-            "pt-BR": "Petiliano recusa os milagres dos católicos."
+            "pt-BR": "Petiliano recusa os milagres dos católicos.",
+            "es-419": "Petiliano rechaza los milagros de los católicos."
           }
         },
         {
@@ -772,7 +874,8 @@
           "title": {
             "la": "Maximum miraculum est caritas.",
             "en-US": "The greatest miracle is love.",
-            "pt-BR": "O maior milagre é a caridade."
+            "pt-BR": "O maior milagre é a caridade.",
+            "es-419": "El mayor milagro es el amor."
           }
         },
         {
@@ -780,7 +883,8 @@
           "title": {
             "la": "Sequenda est Lex Domini: ne occidas.",
             "en-US": "The Lord's law is to be followed: you shall not kill.",
-            "pt-BR": "Deve-se seguir a lei do Senhor: não matarás."
+            "pt-BR": "Deve-se seguir a lei do Senhor: não matarás.",
+            "es-419": "Hay que seguir la Ley del Señor: no matarás."
           }
         },
         {
@@ -788,7 +892,8 @@
           "title": {
             "la": "Ne moechaberis.",
             "en-US": "You shall not commit adultery.",
-            "pt-BR": "Não cometerás adultério."
+            "pt-BR": "Não cometerás adultério.",
+            "es-419": "No cometerás adulterio."
           }
         },
         {
@@ -796,7 +901,8 @@
           "title": {
             "la": "Ne falsum testimonium reddas.",
             "en-US": "You shall not bear false witness.",
-            "pt-BR": "Não darás falso testemunho."
+            "pt-BR": "Não darás falso testemunho.",
+            "es-419": "No darás falso testimonio."
           }
         },
         {
@@ -804,7 +910,8 @@
           "title": {
             "la": "Vos estis falsi testes, quia resistitis veritati et hoc ostendistis in iudicio contra Maximianistas.",
             "en-US": "You are the false witnesses, because you resist the truth, and you have shown this in the trial against the Maximianists.",
-            "pt-BR": "Vocês é que são falsas testemunhas, porque resistem à verdade, e isso mostraram no julgamento contra os maximianistas."
+            "pt-BR": "Vocês é que são falsas testemunhas, porque resistem à verdade, e isso mostraram no julgamento contra os maximianistas.",
+            "es-419": "Ustedes son falsos testigos, porque se oponen a la verdad, y lo demostraron en el juicio contra los maximianistas."
           }
         },
         {
@@ -812,7 +919,8 @@
           "title": {
             "la": "Non concupisces.",
             "en-US": "You shall not covet.",
-            "pt-BR": "Não cobiçarás."
+            "pt-BR": "Não cobiçarás.",
+            "es-419": "No codiciarás."
           }
         },
         {
@@ -820,7 +928,8 @@
           "title": {
             "la": "Omnia bona Donatistarum sunt Ecclesiae.",
             "en-US": "All the goods of the Donatists belong to the Church.",
-            "pt-BR": "Todos os bens dos donatistas pertencem à Igreja."
+            "pt-BR": "Todos os bens dos donatistas pertencem à Igreja.",
+            "es-419": "Todos los bienes de los donatistas pertenecen a la Iglesia."
           }
         },
         {
@@ -828,7 +937,8 @@
           "title": {
             "la": "Evangelium vos condemnat.",
             "en-US": "The Gospel condemns you.",
-            "pt-BR": "O Evangelho condena vocês."
+            "pt-BR": "O Evangelho condena vocês.",
+            "es-419": "El Evangelio los condena."
           }
         },
         {
@@ -836,7 +946,8 @@
           "title": {
             "la": "Quomodo Aug. interpretatur verba Evangelii a Petil. citata.",
             "en-US": "How Augustine interprets the words of the Gospel cited by Petilian.",
-            "pt-BR": "Como Agostinho interpreta as palavras do Evangelho citadas por Petiliano."
+            "pt-BR": "Como Agostinho interpreta as palavras do Evangelho citadas por Petiliano.",
+            "es-419": "Cómo interpreta Agustín las palabras del Evangelio citadas por Petiliano."
           }
         },
         {
@@ -844,7 +955,8 @@
           "title": {
             "la": "Alia verba Evangelii a Petil. allata.",
             "en-US": "Other words of the Gospel brought forward by Petilian.",
-            "pt-BR": "Outras palavras do Evangelho aduzidas por Petiliano."
+            "pt-BR": "Outras palavras do Evangelho aduzidas por Petiliano.",
+            "es-419": "Otras palabras del Evangelio aducidas por Petiliano."
           }
         },
         {
@@ -852,7 +964,8 @@
           "title": {
             "la": "De peccato contra Spiritum Sanctum.",
             "en-US": "On the sin against the Holy Spirit.",
-            "pt-BR": "Sobre o pecado contra o Espírito Santo."
+            "pt-BR": "Sobre o pecado contra o Espírito Santo.",
+            "es-419": "Sobre el pecado contra el Espíritu Santo."
           }
         },
         {
@@ -860,7 +973,8 @@
           "title": {
             "la": "Beati pauperes.",
             "en-US": "Blessed are the poor.",
-            "pt-BR": "Bem-aventurados os pobres."
+            "pt-BR": "Bem-aventurados os pobres.",
+            "es-419": "Bienaventurados los pobres."
           }
         },
         {
@@ -868,7 +982,8 @@
           "title": {
             "la": "Beati mansueti.",
             "en-US": "Blessed are the meek.",
-            "pt-BR": "Bem-aventurados os mansos."
+            "pt-BR": "Bem-aventurados os mansos.",
+            "es-419": "Bienaventurados los mansos."
           }
         },
         {
@@ -876,7 +991,8 @@
           "title": {
             "la": "Ecclesia est universalis.",
             "en-US": "The Church is universal.",
-            "pt-BR": "A Igreja é universal."
+            "pt-BR": "A Igreja é universal.",
+            "es-419": "La Iglesia es universal."
           }
         },
         {
@@ -884,7 +1000,8 @@
           "title": {
             "la": "Beati qui lugent.",
             "en-US": "Blessed are those who mourn.",
-            "pt-BR": "Bem-aventurados os que choram."
+            "pt-BR": "Bem-aventurados os que choram.",
+            "es-419": "Bienaventurados los que lloran."
           }
         },
         {
@@ -892,7 +1009,8 @@
           "title": {
             "la": "Donatistae multum luctum fecerunt, clamantes Deo laudes.",
             "en-US": "The Donatists caused much mourning, shouting \"Praises to God.\"",
-            "pt-BR": "Os donatistas causaram muito pranto, gritando “Louvores a Deus”."
+            "pt-BR": "Os donatistas causaram muito pranto, gritando “Louvores a Deus”.",
+            "es-419": "Los donatistas causaron mucho llanto gritando «Alabanzas a Dios»."
           }
         },
         {
@@ -900,7 +1018,8 @@
           "title": {
             "la": "Donatistae non observabant beatitudinem misericordiae.",
             "en-US": "The Donatists did not observe the beatitude of mercy.",
-            "pt-BR": "Os donatistas não observavam a bem-aventurança da misericórdia."
+            "pt-BR": "Os donatistas não observavam a bem-aventurança da misericórdia.",
+            "es-419": "Los donatistas no observaban la bienaventuranza de la misericordia."
           }
         },
         {
@@ -908,7 +1027,8 @@
           "title": {
             "la": "Beati mundo corde.",
             "en-US": "Blessed are the pure in heart.",
-            "pt-BR": "Bem-aventurados os puros de coração."
+            "pt-BR": "Bem-aventurados os puros de coração.",
+            "es-419": "Bienaventurados los limpios de corazón."
           }
         },
         {
@@ -916,7 +1036,8 @@
           "title": {
             "la": "Quae est vera et magna caecitas Donatistarum.",
             "en-US": "What the true and great blindness of the Donatists is.",
-            "pt-BR": "Qual é a verdadeira e grande cegueira dos donatistas."
+            "pt-BR": "Qual é a verdadeira e grande cegueira dos donatistas.",
+            "es-419": "Cuál es la verdadera y gran ceguera de los donatistas."
           }
         },
         {
@@ -924,7 +1045,8 @@
           "title": {
             "la": "Beati pacifici.",
             "en-US": "Blessed are the peacemakers.",
-            "pt-BR": "Bem-aventurados os pacíficos."
+            "pt-BR": "Bem-aventurados os pacíficos.",
+            "es-419": "Bienaventurados los pacíficos."
           }
         },
         {
@@ -932,7 +1054,8 @@
           "title": {
             "la": "Catholici predicant pacem ex Evangelio, et faciunt bellum caritatis.",
             "en-US": "The Catholics preach peace from the Gospel and wage the war of love.",
-            "pt-BR": "Os católicos pregam a paz a partir do Evangelho e travam a guerra da caridade."
+            "pt-BR": "Os católicos pregam a paz a partir do Evangelho e travam a guerra da caridade.",
+            "es-419": "Los católicos predican la paz según el Evangelio y hacen la guerra del amor."
           }
         },
         {
@@ -940,7 +1063,8 @@
           "title": {
             "la": "Pax quaerenda est.",
             "en-US": "Peace must be sought.",
-            "pt-BR": "A paz deve ser buscada."
+            "pt-BR": "A paz deve ser buscada.",
+            "es-419": "Hay que buscar la paz."
           }
         },
         {
@@ -948,7 +1072,8 @@
           "title": {
             "la": "Pax vera est in sustinenda mala.",
             "en-US": "True peace lies in bearing with evils.",
-            "pt-BR": "A verdadeira paz está em suportar os males."
+            "pt-BR": "A verdadeira paz está em suportar os males.",
+            "es-419": "La verdadera paz consiste en soportar los males."
           }
         },
         {
@@ -956,7 +1081,8 @@
           "title": {
             "la": "Pax est in Ecclesia universali.",
             "en-US": "Peace is in the universal Church.",
-            "pt-BR": "A paz está na Igreja universal."
+            "pt-BR": "A paz está na Igreja universal.",
+            "es-419": "La paz está en la Iglesia universal."
           }
         },
         {
@@ -964,7 +1090,8 @@
           "title": {
             "la": "Catholici non sunt beati, sed faciunt martyres beatos.",
             "en-US": "The Catholics are not blessed, but make the martyrs blessed.",
-            "pt-BR": "Os católicos não são bem-aventurados, mas fazem bem-aventurados os mártires."
+            "pt-BR": "Os católicos não são bem-aventurados, mas fazem bem-aventurados os mártires.",
+            "es-419": "Los católicos no son bienaventurados, sino que hacen mártires bienaventurados."
           }
         },
         {
@@ -972,7 +1099,8 @@
           "title": {
             "la": "Donatistae se ipsos praecipitant et non sunt martyres.",
             "en-US": "The Donatists hurl themselves down and are not martyrs.",
-            "pt-BR": "Os donatistas se lançam ao precipício e não são mártires."
+            "pt-BR": "Os donatistas se lançam ao precipício e não são mártires.",
+            "es-419": "Los donatistas se arrojan a los precipicios y no son mártires."
           }
         },
         {
@@ -980,7 +1108,8 @@
           "title": {
             "la": "Catholici non sunt beati, quia falsant mandata Evangelii.",
             "en-US": "The Catholics are not blessed, because they falsify the commandments of the Gospel.",
-            "pt-BR": "Os católicos não são bem-aventurados, porque falsificam os mandamentos do Evangelho."
+            "pt-BR": "Os católicos não são bem-aventurados, porque falsificam os mandamentos do Evangelho.",
+            "es-419": "Los católicos no son bienaventurados, porque falsean los mandamientos del Evangelio."
           }
         },
         {
@@ -988,7 +1117,8 @@
           "title": {
             "la": "Pharisei non dabant bis circoncisionem.",
             "en-US": "The Pharisees did not administer circumcision twice.",
-            "pt-BR": "Os fariseus não davam duas vezes a circuncisão."
+            "pt-BR": "Os fariseus não davam duas vezes a circuncisão.",
+            "es-419": "Los fariseos no administraban dos veces la circuncisión."
           }
         },
         {
@@ -996,7 +1126,8 @@
           "title": {
             "la": "Catholici sunt lupi rapaces.",
             "en-US": "The Catholics are ravening wolves.",
-            "pt-BR": "Os católicos são lobos rapaces."
+            "pt-BR": "Os católicos são lobos rapaces.",
+            "es-419": "Los católicos son lobos rapaces."
           }
         },
         {
@@ -1004,7 +1135,8 @@
           "title": {
             "la": "Donatistae sunt vere lupi non oves, quia non audiunt vocem pastoris.",
             "en-US": "The Donatists are truly wolves, not sheep, because they do not hear the voice of the shepherd.",
-            "pt-BR": "Os donatistas são verdadeiramente lobos, não ovelhas, porque não ouvem a voz do pastor."
+            "pt-BR": "Os donatistas são verdadeiramente lobos, não ovelhas, porque não ouvem a voz do pastor.",
+            "es-419": "Los donatistas son verdaderamente lobos, no ovejas, porque no escuchan la voz del pastor."
           }
         },
         {
@@ -1012,7 +1144,8 @@
           "title": {
             "la": "Catholici sunt traditores.",
             "en-US": "The Catholics are traitors.",
-            "pt-BR": "Os católicos são traditores."
+            "pt-BR": "Os católicos são traditores.",
+            "es-419": "Los católicos son traidores."
           }
         },
         {
@@ -1020,7 +1153,8 @@
           "title": {
             "la": "Donatistae sunt miseri haeretici.",
             "en-US": "The Donatists are wretched heretics.",
-            "pt-BR": "Os donatistas são miseráveis hereges."
+            "pt-BR": "Os donatistas são miseráveis hereges.",
+            "es-419": "Los donatistas son miserables herejes."
           }
         },
         {
@@ -1028,7 +1162,8 @@
           "title": {
             "la": "Christus praecepit nobis caritatem.",
             "en-US": "Christ commanded us love.",
-            "pt-BR": "Cristo nos ordenou a caridade."
+            "pt-BR": "Cristo nos ordenou a caridade.",
+            "es-419": "Cristo nos mandó el amor."
           }
         },
         {
@@ -1036,7 +1171,8 @@
           "title": {
             "la": "Vos non diligitis caritatem.",
             "en-US": "You do not love love.",
-            "pt-BR": "Vocês não amam a caridade."
+            "pt-BR": "Vocês não amam a caridade.",
+            "es-419": "Ustedes no aman el amor."
           }
         },
         {
@@ -1044,7 +1180,8 @@
           "title": {
             "la": "Catholici fratres sunt falsi, qui Paulum persequebantur.",
             "en-US": "The Catholics are the false brothers who were persecuting Paul.",
-            "pt-BR": "Os católicos são os falsos irmãos que perseguiam Paulo."
+            "pt-BR": "Os católicos são os falsos irmãos que perseguiam Paulo.",
+            "es-419": "Los católicos son los falsos hermanos que perseguían a Pablo."
           }
         },
         {
@@ -1052,7 +1189,8 @@
           "title": {
             "la": "Sed Paulus eos tollerabat.",
             "en-US": "But Paul bore with them.",
-            "pt-BR": "Mas Paulo os tolerava."
+            "pt-BR": "Mas Paulo os tolerava.",
+            "es-419": "Pero Pablo los toleraba."
           }
         },
         {
@@ -1060,7 +1198,8 @@
           "title": {
             "la": "Cui non habet caritatem fides non prodest.",
             "en-US": "Faith does not profit him who has no love.",
-            "pt-BR": "A fé não aproveita a quem não tem caridade."
+            "pt-BR": "A fé não aproveita a quem não tem caridade.",
+            "es-419": "La fe no aprovecha a quien no tiene amor."
           }
         },
         {
@@ -1068,7 +1207,8 @@
           "title": {
             "la": "Extra Ecclesiam caritas non prodest.",
             "en-US": "Outside the Church love does not profit.",
-            "pt-BR": "Fora da Igreja a caridade não aproveita."
+            "pt-BR": "Fora da Igreja a caridade não aproveita.",
+            "es-419": "Fuera de la Iglesia el amor no aprovecha."
           }
         },
         {
@@ -1076,7 +1216,8 @@
           "title": {
             "la": "Caritas non persequitur.",
             "en-US": "Love does not persecute.",
-            "pt-BR": "A caridade não persegue."
+            "pt-BR": "A caridade não persegue.",
+            "es-419": "El amor no persigue."
           }
         },
         {
@@ -1084,7 +1225,8 @@
           "title": {
             "la": "Qui habent caritatem congaudent veritati.",
             "en-US": "Those who have love rejoice with the truth.",
-            "pt-BR": "Os que têm caridade alegram-se com a verdade."
+            "pt-BR": "Os que têm caridade alegram-se com a verdade.",
+            "es-419": "Quienes tienen amor se alegran con la verdad."
           }
         },
         {
@@ -1092,7 +1234,8 @@
           "title": {
             "la": "Non adest lex persequendi Donatistas.",
             "en-US": "There is no law for persecuting the Donatists.",
-            "pt-BR": "Não há lei para perseguir os donatistas."
+            "pt-BR": "Não há lei para perseguir os donatistas.",
+            "es-419": "No existe una ley para perseguir a los donatistas."
           }
         },
         {
@@ -1100,7 +1243,8 @@
           "title": {
             "la": "Donatistae peccant contra legem.",
             "en-US": "The Donatists sin against the law.",
-            "pt-BR": "Os donatistas pecam contra a lei."
+            "pt-BR": "Os donatistas pecam contra a lei.",
+            "es-419": "Los donatistas pecan contra la ley."
           }
         },
         {
@@ -1108,7 +1252,8 @@
           "title": {
             "la": "Christus neminem persecutus est.",
             "en-US": "Christ persecuted no one.",
-            "pt-BR": "Cristo não perseguiu ninguém."
+            "pt-BR": "Cristo não perseguiu ninguém.",
+            "es-419": "Cristo no persiguió a nadie."
           }
         },
         {
@@ -1116,7 +1261,8 @@
           "title": {
             "la": "Extra Ecclesiam valet Baptismus nomine Trinitatis confertum.",
             "en-US": "Outside the Church baptism conferred in the name of the Trinity is valid.",
-            "pt-BR": "Fora da Igreja vale o Batismo conferido em nome da Trindade."
+            "pt-BR": "Fora da Igreja vale o Batismo conferido em nome da Trindade.",
+            "es-419": "Fuera de la Iglesia es válido el bautismo conferido en nombre de la Trinidad."
           }
         },
         {
@@ -1124,7 +1270,8 @@
           "title": {
             "la": "Exemplum Pauli est contra Donatistas, quia non tenent unitatem.",
             "en-US": "The example of Paul is against the Donatists, because they do not hold unity.",
-            "pt-BR": "O exemplo de Paulo é contra os donatistas, porque não guardam a unidade."
+            "pt-BR": "O exemplo de Paulo é contra os donatistas, porque não guardam a unidade.",
+            "es-419": "El ejemplo de Pablo está contra los donatistas, porque no mantienen la unidad."
           }
         },
         {
@@ -1132,7 +1279,8 @@
           "title": {
             "la": "Homines non sunt ad fidem cogendi.",
             "en-US": "Men are not to be compelled to faith.",
-            "pt-BR": "Os homens não devem ser coagidos à fé."
+            "pt-BR": "Os homens não devem ser coagidos à fé.",
+            "es-419": "No se debe obligar a los hombres a la fe."
           }
         },
         {
@@ -1140,7 +1288,8 @@
           "title": {
             "la": "Non cogimus ad fidem sed ad salutem.",
             "en-US": "We do not compel to faith but to salvation.",
-            "pt-BR": "Não coagimos à fé, mas à salvação."
+            "pt-BR": "Não coagimos à fé, mas à salvação.",
+            "es-419": "No obligamos a la fe, sino a la salvación."
           }
         },
         {
@@ -1148,7 +1297,8 @@
           "title": {
             "la": "Donatistae non cogunt ad fidem.",
             "en-US": "The Donatists do not compel to faith.",
-            "pt-BR": "Os donatistas não coagem à fé."
+            "pt-BR": "Os donatistas não coagem à fé.",
+            "es-419": "Los donatistas no obligan a la fe."
           }
         },
         {
@@ -1156,7 +1306,8 @@
           "title": {
             "la": "Auctoritas debet evitare malum.",
             "en-US": "Authority ought to prevent evil.",
-            "pt-BR": "A autoridade deve impedir o mal."
+            "pt-BR": "A autoridade deve impedir o mal.",
+            "es-419": "La autoridad debe evitar el mal."
           }
         },
         {
@@ -1164,7 +1315,8 @@
           "title": {
             "la": "Deus reliquit homines liberos credendi an non.",
             "en-US": "God left men free to believe or not.",
-            "pt-BR": "Deus deixou os homens livres para crer ou não."
+            "pt-BR": "Deus deixou os homens livres para crer ou não.",
+            "es-419": "Dios dejó a los hombres libres para creer o no."
           }
         },
         {
@@ -1172,7 +1324,8 @@
           "title": {
             "la": "Deus etiam attrahaendo reliquit homines liberos.",
             "en-US": "God left men free even in drawing them.",
-            "pt-BR": "Deus deixou os homens livres mesmo ao atraí-los."
+            "pt-BR": "Deus deixou os homens livres mesmo ao atraí-los.",
+            "es-419": "Dios, incluso al atraerlos, dejó libres a los hombres."
           }
         },
         {
@@ -1180,7 +1333,8 @@
           "title": {
             "la": "Multum interest inter verba Donatistarum et verba Christi.",
             "en-US": "There is a great difference between the words of the Donatists and the words of Christ.",
-            "pt-BR": "Há grande diferença entre as palavras dos donatistas e as palavras de Cristo."
+            "pt-BR": "Há grande diferença entre as palavras dos donatistas e as palavras de Cristo.",
+            "es-419": "Hay gran diferencia entre las palabras de los donatistas y las de Cristo."
           }
         },
         {
@@ -1188,7 +1342,8 @@
           "title": {
             "la": "Deus non iussit inferri mortem schismaticis.",
             "en-US": "God did not command death to be inflicted on schismatics.",
-            "pt-BR": "Deus não mandou infligir a morte aos cismáticos."
+            "pt-BR": "Deus não mandou infligir a morte aos cismáticos.",
+            "es-419": "Dios no mandó dar muerte a los cismáticos."
           }
         },
         {
@@ -1196,7 +1351,8 @@
           "title": {
             "la": "Aug.: sed non sumus schismatici.",
             "en-US": "Augustine: but we are not schismatics.",
-            "pt-BR": "Agostinho: mas nós não somos cismáticos."
+            "pt-BR": "Agostinho: mas nós não somos cismáticos.",
+            "es-419": "Agustín: pero nosotros no somos cismáticos."
           }
         },
         {
@@ -1204,7 +1360,8 @@
           "title": {
             "la": "Deus non laetatur sanguine.",
             "en-US": "God does not delight in blood.",
-            "pt-BR": "Deus não se alegra com o sangue."
+            "pt-BR": "Deus não se alegra com o sangue.",
+            "es-419": "Dios no se alegra con la sangre."
           }
         },
         {
@@ -1212,7 +1369,8 @@
           "title": {
             "la": "Donatistae interimunt omnes homines odio.",
             "en-US": "The Donatists slay all men by hatred.",
-            "pt-BR": "Os donatistas matam todos os homens pelo ódio."
+            "pt-BR": "Os donatistas matam todos os homens pelo ódio.",
+            "es-419": "Los donatistas matan a todos los hombres con su odio."
           }
         },
         {
@@ -1220,7 +1378,8 @@
           "title": {
             "la": "Christus moriendo instituit formam moriendi, non occidendi.",
             "en-US": "Christ by dying established a form of dying, not of killing.",
-            "pt-BR": "Cristo, ao morrer, instituiu uma forma de morrer, não de matar."
+            "pt-BR": "Cristo, ao morrer, instituiu uma forma de morrer, não de matar.",
+            "es-419": "Cristo, al morir, estableció un modelo de morir, no de matar."
           }
         },
         {
@@ -1228,7 +1387,8 @@
           "title": {
             "la": "Donatistae non sequuntur formam Christi, quia persequuntur.",
             "en-US": "The Donatists do not follow the form of Christ, because they persecute.",
-            "pt-BR": "Os donatistas não seguem a forma de Cristo, porque perseguem."
+            "pt-BR": "Os donatistas não seguem a forma de Cristo, porque perseguem.",
+            "es-419": "Los donatistas no siguen el modelo de Cristo, porque persiguen."
           }
         },
         {
@@ -1236,7 +1396,8 @@
           "title": {
             "la": "Exemplum Petri.",
             "en-US": "The example of Peter.",
-            "pt-BR": "O exemplo de Pedro."
+            "pt-BR": "O exemplo de Pedro.",
+            "es-419": "El ejemplo de Pedro."
           }
         },
         {
@@ -1244,7 +1405,8 @@
           "title": {
             "la": "Circumcelliones utuntur fustibus contra Catholicos.",
             "en-US": "The Circumcellions use clubs against the Catholics.",
-            "pt-BR": "Os circunceliões usam bastões contra os católicos."
+            "pt-BR": "Os circunceliões usam bastões contra os católicos.",
+            "es-419": "Los circunceliones usan garrotes contra los católicos."
           }
         },
         {
@@ -1252,7 +1414,8 @@
           "title": {
             "la": "Mori pro Christo prodest christianis.",
             "en-US": "To die for Christ profits Christians.",
-            "pt-BR": "Morrer por Cristo aproveita aos cristãos."
+            "pt-BR": "Morrer por Cristo aproveita aos cristãos.",
+            "es-419": "Morir por Cristo aprovecha a los cristianos."
           }
         },
         {
@@ -1260,7 +1423,8 @@
           "title": {
             "la": "Donatistae persequuntur triticum Christi in toto orbe terrarum.",
             "en-US": "The Donatists persecute the wheat of Christ throughout the whole earth.",
-            "pt-BR": "Os donatistas perseguem o trigo de Cristo em todo o orbe da terra."
+            "pt-BR": "Os donatistas perseguem o trigo de Cristo em todo o orbe da terra.",
+            "es-419": "Los donatistas persiguen el trigo de Cristo en todo el mundo."
           }
         },
         {
@@ -1268,7 +1432,8 @@
           "title": {
             "la": "Vos estis zizania et spinas.",
             "en-US": "You are weeds and thorns.",
-            "pt-BR": "Vocês são joio e espinhos."
+            "pt-BR": "Vocês são joio e espinhos.",
+            "es-419": "Ustedes son cizaña y espinas."
           }
         },
         {
@@ -1276,7 +1441,8 @@
           "title": {
             "la": "Et vos, quid estis?",
             "en-US": "And you, what are you?",
-            "pt-BR": "E vocês, o que são?"
+            "pt-BR": "E vocês, o que são?",
+            "es-419": "Y ustedes, ¿qué son?"
           }
         },
         {
@@ -1284,7 +1450,8 @@
           "title": {
             "la": "Sicut Christus christiani persecutiones patiuntur.",
             "en-US": "Christians suffer persecutions as Christ did.",
-            "pt-BR": "Os cristãos padecem perseguições como Cristo."
+            "pt-BR": "Os cristãos padecem perseguições como Cristo.",
+            "es-419": "Los cristianos padecen persecuciones como Cristo."
           }
         },
         {
@@ -1292,7 +1459,8 @@
           "title": {
             "la": "Circumcelliones persequuntur christianos.",
             "en-US": "The Circumcellions persecute Christians.",
-            "pt-BR": "Os circunceliões perseguem os cristãos."
+            "pt-BR": "Os circunceliões perseguem os cristãos.",
+            "es-419": "Los circunceliones persiguen a los cristianos."
           }
         },
         {
@@ -1300,7 +1468,8 @@
           "title": {
             "la": "Agitur de regibus qui persequuntur christianos.",
             "en-US": "The matter concerns kings who persecute Christians.",
-            "pt-BR": "Trata-se dos reis que perseguem os cristãos."
+            "pt-BR": "Trata-se dos reis que perseguem os cristãos.",
+            "es-419": "Se trata de los reyes que persiguen a los cristianos."
           }
         },
         {
@@ -1308,7 +1477,8 @@
           "title": {
             "la": "Petil. sibi contradicit. (2)",
             "en-US": "Petilian contradicts himself. (2)",
-            "pt-BR": "Petiliano contradiz a si mesmo. (2)"
+            "pt-BR": "Petiliano contradiz a si mesmo. (2)",
+            "es-419": "Petiliano se contradice. (2)"
           }
         },
         {
@@ -1316,7 +1486,8 @@
           "title": {
             "la": "Saepe Scriptura dicit reges adiuvisse fideles.",
             "en-US": "Scripture often says that kings helped the faithful.",
-            "pt-BR": "A Escritura diz muitas vezes que os reis ajudaram os fiéis."
+            "pt-BR": "A Escritura diz muitas vezes que os reis ajudaram os fiéis.",
+            "es-419": "La Escritura dice a menudo que los reyes ayudaron a los fieles."
           }
         },
         {
@@ -1324,7 +1495,8 @@
           "title": {
             "la": "Donatistae supplicaverunt Iuliano.",
             "en-US": "The Donatists made supplication to Julian.",
-            "pt-BR": "Os donatistas suplicaram a Juliano."
+            "pt-BR": "Os donatistas suplicaram a Juliano.",
+            "es-419": "Los donatistas suplicaron a Juliano."
           }
         },
         {
@@ -1332,7 +1504,8 @@
           "title": {
             "la": "Donatistae quando persequuntur Catholicos putant se Deo officium reddere.",
             "en-US": "When the Donatists persecute the Catholics they think they render God a service.",
-            "pt-BR": "Quando os donatistas perseguem os católicos, julgam prestar um serviço a Deus."
+            "pt-BR": "Quando os donatistas perseguem os católicos, julgam prestar um serviço a Deus.",
+            "es-419": "Los donatistas, cuando persiguen a los católicos, piensan que prestan un servicio a Dios."
           }
         },
         {
@@ -1340,7 +1513,8 @@
           "title": {
             "la": "Exempla a Donatistis allata non sunt vere huic quaestioni pertinentia.",
             "en-US": "The examples brought forward by the Donatists do not truly bear on this question.",
-            "pt-BR": "Os exemplos apresentados pelos donatistas não dizem verdadeiramente respeito a esta questão."
+            "pt-BR": "Os exemplos apresentados pelos donatistas não dizem verdadeiramente respeito a esta questão.",
+            "es-419": "Los ejemplos aducidos por los donatistas no corresponden verdaderamente a esta cuestión."
           }
         },
         {
@@ -1348,7 +1522,8 @@
           "title": {
             "la": "Agitur de Macario et de Ursatio.",
             "en-US": "The matter concerns Macarius and Ursacius.",
-            "pt-BR": "Trata-se de Macário e de Ursácio."
+            "pt-BR": "Trata-se de Macário e de Ursácio.",
+            "es-419": "Se trata de Macario y Ursacio."
           }
         },
         {
@@ -1356,7 +1531,8 @@
           "title": {
             "la": "Respuitur argomentatio Petil.",
             "en-US": "Petilian's argument is rejected.",
-            "pt-BR": "Rejeita-se a argumentação de Petiliano."
+            "pt-BR": "Rejeita-se a argumentação de Petiliano.",
+            "es-419": "Se refuta el argumento de Petiliano."
           }
         },
         {
@@ -1364,7 +1540,8 @@
           "title": {
             "la": "Aliqua explicatio de psalmo secundo.",
             "en-US": "Some explanation of the second psalm.",
-            "pt-BR": "Alguma explicação sobre o segundo salmo."
+            "pt-BR": "Alguma explicação sobre o segundo salmo.",
+            "es-419": "Una explicación del salmo segundo."
           }
         },
         {
@@ -1372,7 +1549,8 @@
           "title": {
             "la": "Agitur de tribus pueris in fornace ignis proiectis.",
             "en-US": "The matter concerns the three boys cast into the furnace of fire.",
-            "pt-BR": "Trata-se dos três jovens lançados na fornalha de fogo."
+            "pt-BR": "Trata-se dos três jovens lançados na fornalha de fogo.",
+            "es-419": "Se trata de los tres jóvenes arrojados al horno de fuego."
           }
         },
         {
@@ -1380,7 +1558,8 @@
           "title": {
             "la": "Si reges persequuntur Donatistas non sunt persecutores.",
             "en-US": "If kings persecute the Donatists they are not persecutors.",
-            "pt-BR": "Se os reis perseguem os donatistas, não são perseguidores."
+            "pt-BR": "Se os reis perseguem os donatistas, não são perseguidores.",
+            "es-419": "Si los reyes persiguen a los donatistas, no son perseguidores."
           }
         },
         {
@@ -1388,7 +1567,8 @@
           "title": {
             "la": "emenda ergo.",
             "en-US": "Correct it, then.",
-            "pt-BR": "Corrija, pois."
+            "pt-BR": "Corrija, pois.",
+            "es-419": "Corríjase, pues."
           }
         },
         {
@@ -1396,7 +1576,8 @@
           "title": {
             "la": "Caedes et mortes nec facimus nec iubemus.",
             "en-US": "We neither commit nor command slaughter and deaths.",
-            "pt-BR": "Não cometemos nem mandamos cometer matanças e mortes."
+            "pt-BR": "Não cometemos nem mandamos cometer matanças e mortes.",
+            "es-419": "Ni cometemos ni ordenamos matanzas y muertes."
           }
         },
         {
@@ -1404,7 +1585,8 @@
           "title": {
             "la": "Catholici agunt semper ex caritate.",
             "en-US": "The Catholics always act out of love.",
-            "pt-BR": "Os católicos agem sempre por caridade."
+            "pt-BR": "Os católicos agem sempre por caridade.",
+            "es-419": "Los católicos actúan siempre por amor."
           }
         },
         {
@@ -1412,7 +1594,8 @@
           "title": {
             "la": "Aug.: nos non cupimus haereticorum communionem.",
             "en-US": "Augustine: we do not desire the communion of heretics.",
-            "pt-BR": "Agostinho: nós não desejamos a comunhão dos hereges."
+            "pt-BR": "Agostinho: nós não desejamos a comunhão dos hereges.",
+            "es-419": "Agustín: no deseamos la comunión de los herejes."
           }
         },
         {
@@ -1420,7 +1603,8 @@
           "title": {
             "la": "Aug. fefellit acutissimam complexionem Petil.",
             "en-US": "Augustine refuted Petilian's most acute dilemma.",
-            "pt-BR": "Agostinho refutou o agudíssimo dilema de Petiliano."
+            "pt-BR": "Agostinho refutou o agudíssimo dilema de Petiliano.",
+            "es-419": "Agustín deshace el agudísimo dilema de Petiliano."
           }
         },
         {
@@ -1428,7 +1612,8 @@
           "title": {
             "la": "Sequitur confutatio Petil.",
             "en-US": "There follows the refutation of Petilian.",
-            "pt-BR": "Segue-se a refutação de Petiliano."
+            "pt-BR": "Segue-se a refutação de Petiliano.",
+            "es-419": "Continúa la refutación de Petiliano."
           }
         },
         {
@@ -1436,7 +1621,8 @@
           "title": {
             "la": "Donatistae suplicando Iuliano posuerunt spem in homine.",
             "en-US": "The Donatists, by making supplication to Julian, placed their hope in man.",
-            "pt-BR": "Os donatistas, ao suplicarem a Juliano, puseram a esperança no homem."
+            "pt-BR": "Os donatistas, ao suplicarem a Juliano, puseram a esperança no homem.",
+            "es-419": "Los donatistas, al suplicar a Juliano, pusieron su esperanza en un hombre."
           }
         },
         {
@@ -1444,7 +1630,8 @@
           "title": {
             "la": "Altera accusatio Petil. contra Catholicos.",
             "en-US": "Another accusation of Petilian against the Catholics.",
-            "pt-BR": "Outra acusação de Petiliano contra os católicos."
+            "pt-BR": "Outra acusação de Petiliano contra os católicos.",
+            "es-419": "Otra acusación de Petiliano contra los católicos."
           }
         },
         {
@@ -1452,7 +1639,8 @@
           "title": {
             "la": "Aug. hortatur Donatistas ad salvandas animas et non ad salvanda bona.",
             "en-US": "Augustine exhorts the Donatists to save their souls and not to save their goods.",
-            "pt-BR": "Agostinho exorta os donatistas a salvar as almas e não a salvar os bens."
+            "pt-BR": "Agostinho exorta os donatistas a salvar as almas e não a salvar os bens.",
+            "es-419": "Agustín exhorta a los donatistas a salvar sus almas, no sus bienes."
           }
         },
         {
@@ -1460,7 +1648,8 @@
           "title": {
             "la": "Nos sumus pauperes spiritu non divites.",
             "en-US": "We are poor in spirit, not rich.",
-            "pt-BR": "Nós somos pobres de espírito, não ricos."
+            "pt-BR": "Nós somos pobres de espírito, não ricos.",
+            "es-419": "Somos pobres de espíritu, no ricos."
           }
         },
         {
@@ -1468,7 +1657,8 @@
           "title": {
             "la": "Paupertas sine caritate nihil est.",
             "en-US": "Poverty without love is nothing.",
-            "pt-BR": "A pobreza sem caridade nada é."
+            "pt-BR": "A pobreza sem caridade nada é.",
+            "es-419": "La pobreza sin amor nada es."
           }
         },
         {
@@ -1476,7 +1666,8 @@
           "title": {
             "la": "De fratribus inimicis.",
             "en-US": "On the enemy brothers.",
-            "pt-BR": "Sobre os irmãos inimigos."
+            "pt-BR": "Sobre os irmãos inimigos.",
+            "es-419": "Sobre los hermanos enemigos."
           }
         },
         {
@@ -1484,7 +1675,8 @@
           "title": {
             "la": "Aug.: Vos trucidatis animas.",
             "en-US": "Augustine: you slaughter souls.",
-            "pt-BR": "Agostinho: vocês trucidam as almas."
+            "pt-BR": "Agostinho: vocês trucidam as almas.",
+            "es-419": "Agustín: ustedes matan las almas."
           }
         },
         {
@@ -1492,7 +1684,8 @@
           "title": {
             "la": "Petil: Vos onoratis animas vestras reorum criminibus.",
             "en-US": "Petilian: you burden your souls with the crimes of the guilty.",
-            "pt-BR": "Petiliano: vocês oneram as suas almas com os crimes dos réus."
+            "pt-BR": "Petiliano: vocês oneram as suas almas com os crimes dos réus.",
+            "es-419": "Petiliano: ustedes cargan sus almas con los delitos de los reos."
           }
         },
         {
@@ -1500,7 +1693,8 @@
           "title": {
             "la": "Aug.: Qui acclamant verba Petil. non habent aures in corde, sed cor in auribus.",
             "en-US": "Augustine: those who applaud Petilian's words have not ears in the heart, but the heart in the ears.",
-            "pt-BR": "Agostinho: os que aclamam as palavras de Petiliano não têm ouvidos no coração, mas o coração nos ouvidos."
+            "pt-BR": "Agostinho: os que aclamam as palavras de Petiliano não têm ouvidos no coração, mas o coração nos ouvidos.",
+            "es-419": "Agustín: quienes aclaman las palabras de Petiliano no tienen oídos en el corazón, sino el corazón en los oídos."
           }
         },
         {
@@ -1508,7 +1702,8 @@
           "title": {
             "la": "Sententia Petil. est contra Scripturam.",
             "en-US": "Petilian's statement is against Scripture.",
-            "pt-BR": "A sentença de Petiliano é contra a Escritura."
+            "pt-BR": "A sentença de Petiliano é contra a Escritura.",
+            "es-419": "La sentencia de Petiliano está contra la Escritura."
           }
         },
         {
@@ -1516,7 +1711,8 @@
           "title": {
             "la": "Verus sensus testimonii Ieremiae 15, 18.",
             "en-US": "The true sense of the testimony of Jeremiah 15:18.",
-            "pt-BR": "O verdadeiro sentido do testemunho de Jeremias 15,18."
+            "pt-BR": "O verdadeiro sentido do testemunho de Jeremias 15,18.",
+            "es-419": "El verdadero sentido del testimonio de Jeremías 15,18."
           }
         },
         {
@@ -1524,7 +1720,8 @@
           "title": {
             "la": "Traditor non est idem ac persecutor.",
             "en-US": "A traitor is not the same as a persecutor.",
-            "pt-BR": "Um traditor não é o mesmo que um perseguidor."
+            "pt-BR": "Um traditor não é o mesmo que um perseguidor.",
+            "es-419": "Traidor no es lo mismo que perseguidor."
           }
         },
         {
@@ -1532,7 +1729,8 @@
           "title": {
             "la": "Citatio Psalmi 140, 5.",
             "en-US": "Citation of Psalm 141:5.",
-            "pt-BR": "Citação do Salmo 141,5."
+            "pt-BR": "Citação do Salmo 141,5.",
+            "es-419": "Cita del Salmo 141,5 (140,5)."
           }
         },
         {
@@ -1540,7 +1738,8 @@
           "title": {
             "la": "Quomodo allegorice hic Psalmus intelligitur.",
             "en-US": "How this psalm is understood allegorically.",
-            "pt-BR": "Como este Salmo é entendido alegoricamente."
+            "pt-BR": "Como este Salmo é entendido alegoricamente.",
+            "es-419": "Cómo se entiende alegóricamente este salmo."
           }
         },
         {
@@ -1548,7 +1747,8 @@
           "title": {
             "la": "Orandum est etiam pro sacerdotibus.",
             "en-US": "Prayer must be made even for priests.",
-            "pt-BR": "Deve-se orar também pelos sacerdotes."
+            "pt-BR": "Deve-se orar também pelos sacerdotes.",
+            "es-419": "También hay que orar por los sacerdotes."
           }
         },
         {
@@ -1556,7 +1756,8 @@
           "title": {
             "la": "Non communicare idem est ac non consentire.",
             "en-US": "Not to communicate is the same as not to consent.",
-            "pt-BR": "Não comunicar é o mesmo que não consentir."
+            "pt-BR": "Não comunicar é o mesmo que não consentir.",
+            "es-419": "No participar equivale a no consentir."
           }
         },
         {
@@ -1564,7 +1765,8 @@
           "title": {
             "la": "Multum interest inter consentientes et tolerantes.",
             "en-US": "There is a great difference between those who consent and those who tolerate.",
-            "pt-BR": "Há grande diferença entre os que consentem e os que toleram."
+            "pt-BR": "Há grande diferença entre os que consentem e os que toleram.",
+            "es-419": "Hay una gran diferencia entre quienes consienten y quienes toleran."
           }
         },
         {
@@ -1572,7 +1774,8 @@
           "title": {
             "la": "Petil. hortatur Catholicos ut veniant ad Ecclesiam.",
             "en-US": "Petilian exhorts the catholics to come to the Church.",
-            "pt-BR": "Petiliano exorta os católicos a virem à Igreja."
+            "pt-BR": "Petiliano exorta os católicos a virem à Igreja.",
+            "es-419": "Petiliano exhorta a los católicos a acudir a la Iglesia."
           }
         },
         {
@@ -1580,7 +1783,8 @@
           "title": {
             "la": "Ecclesia non est in parte Donati, sed in toto mundo.",
             "en-US": "The Church is not in the party of Donatus, but in the whole world.",
-            "pt-BR": "A Igreja não está no partido de Donato, mas no mundo inteiro."
+            "pt-BR": "A Igreja não está no partido de Donato, mas no mundo inteiro.",
+            "es-419": "La Iglesia está en el mundo entero, no en el partido de Donato."
           }
         }
       ]
@@ -1590,7 +1794,8 @@
       "title": {
         "la": "Liber III",
         "en-US": "Book III",
-        "pt-BR": "Livro III"
+        "pt-BR": "Livro III",
+        "es-419": "Libro III"
       }
     }
   ]

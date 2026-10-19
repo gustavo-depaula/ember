@@ -4,12 +4,14 @@
   "name": {
     "la": "In Iohannis Evangelium tractatus",
     "en-US": "Homilies on the Gospel of John",
-    "pt-BR": "Tratados sobre o Evangelho de João"
+    "pt-BR": "Tratados sobre o Evangelho de João",
+    "es-419": "Tratados sobre el Evangelio de Juan"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "One hundred twenty-four homilies preached to the people of Hippo on the Gospel of John, taken lection by lection from the Prologue to the final chapter.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~GosJohn",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~GosJohn",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~GosJohn",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Tractatus 1",
         "en-US": "Homily 1",
-        "pt-BR": "Homilia 1"
+        "pt-BR": "Homilia 1",
+        "es-419": "Tratado 1"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Tractatus 2",
         "en-US": "Homily 2",
-        "pt-BR": "Homilia 2"
+        "pt-BR": "Homilia 2",
+        "es-419": "Tratado 2"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Tractatus 3",
         "en-US": "Homily 3",
-        "pt-BR": "Homilia 3"
+        "pt-BR": "Homilia 3",
+        "es-419": "Tratado 3"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Tractatus 4",
         "en-US": "Homily 4",
-        "pt-BR": "Homilia 4"
+        "pt-BR": "Homilia 4",
+        "es-419": "Tratado 4"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Tractatus 5",
         "en-US": "Homily 5",
-        "pt-BR": "Homilia 5"
+        "pt-BR": "Homilia 5",
+        "es-419": "Tratado 5"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "Tractatus 6",
         "en-US": "Homily 6",
-        "pt-BR": "Homilia 6"
+        "pt-BR": "Homilia 6",
+        "es-419": "Tratado 6"
       }
     },
     {
@@ -92,7 +109,8 @@
       "title": {
         "la": "Tractatus 7",
         "en-US": "Homily 7",
-        "pt-BR": "Homilia 7"
+        "pt-BR": "Homilia 7",
+        "es-419": "Tratado 7"
       }
     },
     {
@@ -100,7 +118,8 @@
       "title": {
         "la": "Tractatus 8",
         "en-US": "Homily 8",
-        "pt-BR": "Tratado 8"
+        "pt-BR": "Tratado 8",
+        "es-419": "Tratado 8"
       }
     },
     {
@@ -108,7 +127,8 @@
       "title": {
         "la": "Tractatus 9",
         "en-US": "Homily 9",
-        "pt-BR": "Tratado 9"
+        "pt-BR": "Tratado 9",
+        "es-419": "Tratado 9"
       }
     },
     {
@@ -116,7 +136,8 @@
       "title": {
         "la": "Tractatus 10",
         "en-US": "Homily 10",
-        "pt-BR": "Tratado 10"
+        "pt-BR": "Tratado 10",
+        "es-419": "Tratado 10"
       }
     },
     {
@@ -124,7 +145,8 @@
       "title": {
         "la": "Tractatus 11",
         "en-US": "Homily 11",
-        "pt-BR": "Tratado 11"
+        "pt-BR": "Tratado 11",
+        "es-419": "Tratado 11"
       }
     },
     {
@@ -132,7 +154,8 @@
       "title": {
         "la": "Tractatus 12",
         "en-US": "Homily 12",
-        "pt-BR": "Tratado 12"
+        "pt-BR": "Tratado 12",
+        "es-419": "Tratado 12"
       }
     },
     {
@@ -140,7 +163,8 @@
       "title": {
         "la": "Tractatus 13",
         "en-US": "Homily 13",
-        "pt-BR": "Tratado 13"
+        "pt-BR": "Tratado 13",
+        "es-419": "Tratado 13"
       }
     },
     {
@@ -148,7 +172,8 @@
       "title": {
         "la": "Tractatus 14",
         "en-US": "Homily 14",
-        "pt-BR": "Tratado 14"
+        "pt-BR": "Tratado 14",
+        "es-419": "Tratado 14"
       }
     },
     {
@@ -156,7 +181,8 @@
       "title": {
         "la": "Tractatus 15",
         "en-US": "Homily 15",
-        "pt-BR": "Tratado 15"
+        "pt-BR": "Tratado 15",
+        "es-419": "Tratado 15"
       }
     },
     {
@@ -164,7 +190,8 @@
       "title": {
         "la": "Tractatus 16",
         "en-US": "Homily 16",
-        "pt-BR": "Tratado 16"
+        "pt-BR": "Tratado 16",
+        "es-419": "Tratado 16"
       }
     },
     {
@@ -172,7 +199,8 @@
       "title": {
         "la": "Tractatus 17",
         "en-US": "Homily 17",
-        "pt-BR": "Tratado 17"
+        "pt-BR": "Tratado 17",
+        "es-419": "Tratado 17"
       }
     },
     {
@@ -180,7 +208,8 @@
       "title": {
         "la": "Tractatus 18",
         "en-US": "Homily 18",
-        "pt-BR": "Tratado 18"
+        "pt-BR": "Tratado 18",
+        "es-419": "Tratado 18"
       }
     },
     {
@@ -188,7 +217,8 @@
       "title": {
         "la": "Tractatus 19",
         "en-US": "Homily 19",
-        "pt-BR": "Tratado 19"
+        "pt-BR": "Tratado 19",
+        "es-419": "Tratado 19"
       }
     },
     {
@@ -196,7 +226,8 @@
       "title": {
         "la": "Tractatus 20",
         "en-US": "Homily 20",
-        "pt-BR": "Tratado 20"
+        "pt-BR": "Tratado 20",
+        "es-419": "Tratado 20"
       }
     },
     {
@@ -204,7 +235,8 @@
       "title": {
         "la": "Tractatus 21",
         "en-US": "Homily 21",
-        "pt-BR": "Tratado 21"
+        "pt-BR": "Tratado 21",
+        "es-419": "Tratado 21"
       }
     },
     {
@@ -212,7 +244,8 @@
       "title": {
         "la": "Tractatus 22",
         "en-US": "Homily 22",
-        "pt-BR": "Homilia 22"
+        "pt-BR": "Homilia 22",
+        "es-419": "Tratado 22"
       }
     },
     {
@@ -220,7 +253,8 @@
       "title": {
         "la": "Tractatus 23",
         "en-US": "Homily 23",
-        "pt-BR": "Homilia 23"
+        "pt-BR": "Homilia 23",
+        "es-419": "Tratado 23"
       }
     },
     {
@@ -228,7 +262,8 @@
       "title": {
         "la": "Tractatus 24",
         "en-US": "Homily 24",
-        "pt-BR": "Homilia 24"
+        "pt-BR": "Homilia 24",
+        "es-419": "Tratado 24"
       }
     },
     {
@@ -236,7 +271,8 @@
       "title": {
         "la": "Tractatus 25",
         "en-US": "Homily 25",
-        "pt-BR": "Homilia 25"
+        "pt-BR": "Homilia 25",
+        "es-419": "Tratado 25"
       }
     },
     {
@@ -244,7 +280,8 @@
       "title": {
         "la": "Tractatus 26",
         "en-US": "Homily 26",
-        "pt-BR": "Homilia 26"
+        "pt-BR": "Homilia 26",
+        "es-419": "Tratado 26"
       }
     },
     {
@@ -252,7 +289,8 @@
       "title": {
         "la": "Tractatus 27",
         "en-US": "Homily 27",
-        "pt-BR": "Homilia 27"
+        "pt-BR": "Homilia 27",
+        "es-419": "Tratado 27"
       }
     },
     {
@@ -260,7 +298,8 @@
       "title": {
         "la": "Tractatus 28",
         "en-US": "Homily 28",
-        "pt-BR": "Homilia 28"
+        "pt-BR": "Homilia 28",
+        "es-419": "Tratado 28"
       }
     },
     {
@@ -268,7 +307,8 @@
       "title": {
         "la": "Tractatus 29",
         "en-US": "Tractate 29",
-        "pt-BR": "Homilia 29"
+        "pt-BR": "Homilia 29",
+        "es-419": "Tratado 29"
       }
     },
     {
@@ -276,7 +316,8 @@
       "title": {
         "la": "Tractatus 30",
         "en-US": "Tractate 30",
-        "pt-BR": "Homilia 30"
+        "pt-BR": "Homilia 30",
+        "es-419": "Tratado 30"
       }
     },
     {
@@ -284,7 +325,8 @@
       "title": {
         "la": "Tractatus 31",
         "en-US": "Tractate 31",
-        "pt-BR": "Homilia 31"
+        "pt-BR": "Homilia 31",
+        "es-419": "Tratado 31"
       }
     },
     {
@@ -292,7 +334,8 @@
       "title": {
         "la": "Tractatus 32",
         "en-US": "Tractate 32",
-        "pt-BR": "Tratado 32"
+        "pt-BR": "Tratado 32",
+        "es-419": "Tratado 32"
       }
     },
     {
@@ -300,7 +343,8 @@
       "title": {
         "la": "Tractatus 33",
         "en-US": "Tractate 33",
-        "pt-BR": "Tratado 33"
+        "pt-BR": "Tratado 33",
+        "es-419": "Tratado 33"
       }
     },
     {
@@ -308,7 +352,8 @@
       "title": {
         "la": "Tractatus 34",
         "en-US": "Tractate 34",
-        "pt-BR": "Tratado 34"
+        "pt-BR": "Tratado 34",
+        "es-419": "Tratado 34"
       }
     },
     {
@@ -316,7 +361,8 @@
       "title": {
         "la": "Tractatus 35",
         "en-US": "Tractate 35",
-        "pt-BR": "Tratado 35"
+        "pt-BR": "Tratado 35",
+        "es-419": "Tratado 35"
       }
     },
     {
@@ -324,7 +370,8 @@
       "title": {
         "la": "Tractatus 36",
         "en-US": "Tractate 36",
-        "pt-BR": "Tratado 36"
+        "pt-BR": "Tratado 36",
+        "es-419": "Tratado 36"
       }
     },
     {
@@ -332,7 +379,8 @@
       "title": {
         "la": "Tractatus 37",
         "en-US": "Tractate 37",
-        "pt-BR": "Tratado 37"
+        "pt-BR": "Tratado 37",
+        "es-419": "Tratado 37"
       }
     },
     {
@@ -340,7 +388,8 @@
       "title": {
         "la": "Tractatus 38",
         "en-US": "Tractate 38",
-        "pt-BR": "Tratado 38"
+        "pt-BR": "Tratado 38",
+        "es-419": "Tratado 38"
       }
     },
     {
@@ -348,7 +397,8 @@
       "title": {
         "la": "Tractatus 39",
         "en-US": "Tractate 39",
-        "pt-BR": "Tratado 39"
+        "pt-BR": "Tratado 39",
+        "es-419": "Tratado 39"
       }
     },
     {
@@ -356,7 +406,8 @@
       "title": {
         "la": "Tractatus 40",
         "en-US": "Tractate 40",
-        "pt-BR": "Tratado 40"
+        "pt-BR": "Tratado 40",
+        "es-419": "Tratado 40"
       }
     },
     {
@@ -364,7 +415,8 @@
       "title": {
         "la": "Tractatus 41",
         "en-US": "Tractate 41",
-        "pt-BR": "Tratado 41"
+        "pt-BR": "Tratado 41",
+        "es-419": "Tratado 41"
       }
     },
     {
@@ -372,7 +424,8 @@
       "title": {
         "la": "Tractatus 42",
         "en-US": "Tractate 42",
-        "pt-BR": "Tratado 42"
+        "pt-BR": "Tratado 42",
+        "es-419": "Tratado 42"
       }
     },
     {
@@ -380,7 +433,8 @@
       "title": {
         "la": "Tractatus 43",
         "en-US": "Tractate 43",
-        "pt-BR": "Tratado 43"
+        "pt-BR": "Tratado 43",
+        "es-419": "Tratado 43"
       }
     },
     {
@@ -388,7 +442,8 @@
       "title": {
         "la": "Tractatus 44",
         "en-US": "Tractate 44",
-        "pt-BR": "Tratado 44"
+        "pt-BR": "Tratado 44",
+        "es-419": "Tratado 44"
       }
     },
     {
@@ -396,7 +451,8 @@
       "title": {
         "la": "Tractatus 45",
         "en-US": "Tractate 45",
-        "pt-BR": "Tratado 45"
+        "pt-BR": "Tratado 45",
+        "es-419": "Tratado 45"
       }
     },
     {
@@ -404,7 +460,8 @@
       "title": {
         "la": "Tractatus 46",
         "en-US": "Tractate 46",
-        "pt-BR": "Tratado 46"
+        "pt-BR": "Tratado 46",
+        "es-419": "Tratado 46"
       }
     },
     {
@@ -412,7 +469,8 @@
       "title": {
         "la": "Tractatus 47",
         "en-US": "Tractate 47",
-        "pt-BR": "Tratado 47"
+        "pt-BR": "Tratado 47",
+        "es-419": "Tratado 47"
       }
     },
     {
@@ -420,7 +478,8 @@
       "title": {
         "la": "Tractatus 48",
         "en-US": "Tractate 48",
-        "pt-BR": "Tratado 48"
+        "pt-BR": "Tratado 48",
+        "es-419": "Tratado 48"
       }
     },
     {
@@ -428,7 +487,8 @@
       "title": {
         "la": "Tractatus 49",
         "en-US": "Tractate 49",
-        "pt-BR": "Tratado 49"
+        "pt-BR": "Tratado 49",
+        "es-419": "Tratado 49"
       }
     },
     {
@@ -436,7 +496,8 @@
       "title": {
         "la": "Tractatus 50",
         "en-US": "Tractate 50",
-        "pt-BR": "Tratado 50"
+        "pt-BR": "Tratado 50",
+        "es-419": "Tratado 50"
       }
     },
     {
@@ -444,7 +505,8 @@
       "title": {
         "la": "Tractatus 51",
         "en-US": "Tractate 51",
-        "pt-BR": "Tratado 51"
+        "pt-BR": "Tratado 51",
+        "es-419": "Tratado 51"
       }
     },
     {
@@ -452,7 +514,8 @@
       "title": {
         "la": "Tractatus 52",
         "en-US": "Tractate 52",
-        "pt-BR": "Tratado 52"
+        "pt-BR": "Tratado 52",
+        "es-419": "Tratado 52"
       }
     },
     {
@@ -460,7 +523,8 @@
       "title": {
         "la": "Tractatus 53",
         "en-US": "Tractate 53",
-        "pt-BR": "Tratado 53"
+        "pt-BR": "Tratado 53",
+        "es-419": "Tratado 53"
       }
     },
     {
@@ -468,7 +532,8 @@
       "title": {
         "la": "Tractatus 54",
         "en-US": "Tractate 54",
-        "pt-BR": "Tratado 54"
+        "pt-BR": "Tratado 54",
+        "es-419": "Tratado 54"
       }
     },
     {
@@ -476,7 +541,8 @@
       "title": {
         "la": "Tractatus 55",
         "en-US": "Tractate 55",
-        "pt-BR": "Tratado 55"
+        "pt-BR": "Tratado 55",
+        "es-419": "Tratado 55"
       }
     },
     {
@@ -484,7 +550,8 @@
       "title": {
         "la": "Tractatus 56",
         "en-US": "Tractate 56",
-        "pt-BR": "Tratado 56"
+        "pt-BR": "Tratado 56",
+        "es-419": "Tratado 56"
       }
     },
     {
@@ -492,7 +559,8 @@
       "title": {
         "la": "Tractatus 57",
         "en-US": "Tractate 57",
-        "pt-BR": "Tratado 57"
+        "pt-BR": "Tratado 57",
+        "es-419": "Tratado 57"
       }
     },
     {
@@ -500,7 +568,8 @@
       "title": {
         "la": "Tractatus 58",
         "en-US": "Tractate 58",
-        "pt-BR": "Tratado 58"
+        "pt-BR": "Tratado 58",
+        "es-419": "Tratado 58"
       }
     },
     {
@@ -508,7 +577,8 @@
       "title": {
         "la": "Tractatus 59",
         "en-US": "Tractate 59",
-        "pt-BR": "Tratado 59"
+        "pt-BR": "Tratado 59",
+        "es-419": "Tratado 59"
       }
     },
     {
@@ -516,7 +586,8 @@
       "title": {
         "la": "Tractatus 60",
         "en-US": "Tractate 60",
-        "pt-BR": "Tratado 60"
+        "pt-BR": "Tratado 60",
+        "es-419": "Tratado 60"
       }
     },
     {
@@ -524,7 +595,8 @@
       "title": {
         "la": "Tractatus 61",
         "en-US": "Tractate 61",
-        "pt-BR": "Tratado 61"
+        "pt-BR": "Tratado 61",
+        "es-419": "Tratado 61"
       }
     },
     {
@@ -532,7 +604,8 @@
       "title": {
         "la": "Tractatus 62",
         "en-US": "Tractate 62",
-        "pt-BR": "Tratado 62"
+        "pt-BR": "Tratado 62",
+        "es-419": "Tratado 62"
       }
     },
     {
@@ -540,7 +613,8 @@
       "title": {
         "la": "Tractatus 63",
         "en-US": "Tractate 63",
-        "pt-BR": "Tratado 63"
+        "pt-BR": "Tratado 63",
+        "es-419": "Tratado 63"
       }
     },
     {
@@ -548,7 +622,8 @@
       "title": {
         "la": "Tractatus 64",
         "en-US": "Tractate 64",
-        "pt-BR": "Tratado 64"
+        "pt-BR": "Tratado 64",
+        "es-419": "Tratado 64"
       }
     },
     {
@@ -556,7 +631,8 @@
       "title": {
         "la": "Tractatus 65",
         "en-US": "Tractate 65",
-        "pt-BR": "Tratado 65"
+        "pt-BR": "Tratado 65",
+        "es-419": "Tratado 65"
       }
     },
     {
@@ -564,7 +640,8 @@
       "title": {
         "la": "Tractatus 66",
         "en-US": "Tractate 66",
-        "pt-BR": "Tratado 66"
+        "pt-BR": "Tratado 66",
+        "es-419": "Tratado 66"
       }
     },
     {
@@ -572,7 +649,8 @@
       "title": {
         "la": "Tractatus 67",
         "en-US": "Tractate 67",
-        "pt-BR": "Tratado 67"
+        "pt-BR": "Tratado 67",
+        "es-419": "Tratado 67"
       }
     },
     {
@@ -580,7 +658,8 @@
       "title": {
         "la": "Tractatus 68",
         "en-US": "Tractate 68",
-        "pt-BR": "Tratado 68"
+        "pt-BR": "Tratado 68",
+        "es-419": "Tratado 68"
       }
     },
     {
@@ -588,7 +667,8 @@
       "title": {
         "la": "Tractatus 69",
         "en-US": "Tractate 69",
-        "pt-BR": "Tratado 69"
+        "pt-BR": "Tratado 69",
+        "es-419": "Tratado 69"
       }
     },
     {
@@ -596,7 +676,8 @@
       "title": {
         "la": "Tractatus 70",
         "en-US": "Tractate 70",
-        "pt-BR": "Tratado 70"
+        "pt-BR": "Tratado 70",
+        "es-419": "Tratado 70"
       }
     },
     {
@@ -604,7 +685,8 @@
       "title": {
         "la": "Tractatus 71",
         "en-US": "Tractate 71",
-        "pt-BR": "Tratado 71"
+        "pt-BR": "Tratado 71",
+        "es-419": "Tratado 71"
       }
     },
     {
@@ -612,7 +694,8 @@
       "title": {
         "la": "Tractatus 72",
         "en-US": "Tractate 72",
-        "pt-BR": "Tratado 72"
+        "pt-BR": "Tratado 72",
+        "es-419": "Tratado 72"
       }
     },
     {
@@ -620,7 +703,8 @@
       "title": {
         "la": "Tractatus 73",
         "en-US": "Tractate 73",
-        "pt-BR": "Tratado 73"
+        "pt-BR": "Tratado 73",
+        "es-419": "Tratado 73"
       }
     },
     {
@@ -628,7 +712,8 @@
       "title": {
         "la": "Tractatus 74",
         "en-US": "Tractate 74",
-        "pt-BR": "Tratado 74"
+        "pt-BR": "Tratado 74",
+        "es-419": "Tratado 74"
       }
     },
     {
@@ -636,7 +721,8 @@
       "title": {
         "la": "Tractatus 75",
         "en-US": "Tractate 75",
-        "pt-BR": "Tratado 75"
+        "pt-BR": "Tratado 75",
+        "es-419": "Tratado 75"
       }
     },
     {
@@ -644,7 +730,8 @@
       "title": {
         "la": "Tractatus 76",
         "en-US": "Tractate 76",
-        "pt-BR": "Tratado 76"
+        "pt-BR": "Tratado 76",
+        "es-419": "Tratado 76"
       }
     },
     {
@@ -652,7 +739,8 @@
       "title": {
         "la": "Tractatus 77",
         "en-US": "Tractate 77",
-        "pt-BR": "Tratado 77"
+        "pt-BR": "Tratado 77",
+        "es-419": "Tratado 77"
       }
     },
     {
@@ -660,7 +748,8 @@
       "title": {
         "la": "Tractatus 78",
         "en-US": "Tractate 78",
-        "pt-BR": "Tratado 78"
+        "pt-BR": "Tratado 78",
+        "es-419": "Tratado 78"
       }
     },
     {
@@ -668,7 +757,8 @@
       "title": {
         "la": "Tractatus 79",
         "en-US": "Tractate 79",
-        "pt-BR": "Tratado 79"
+        "pt-BR": "Tratado 79",
+        "es-419": "Tratado 79"
       }
     },
     {
@@ -676,7 +766,8 @@
       "title": {
         "la": "Tractatus 80",
         "en-US": "Tractate 80",
-        "pt-BR": "Tratado 80"
+        "pt-BR": "Tratado 80",
+        "es-419": "Tratado 80"
       }
     },
     {
@@ -684,7 +775,8 @@
       "title": {
         "la": "Tractatus 81",
         "en-US": "Tractate 81",
-        "pt-BR": "Tratado 81"
+        "pt-BR": "Tratado 81",
+        "es-419": "Tratado 81"
       }
     },
     {
@@ -692,7 +784,8 @@
       "title": {
         "la": "Tractatus 82",
         "en-US": "Tractate 82",
-        "pt-BR": "Tratado 82"
+        "pt-BR": "Tratado 82",
+        "es-419": "Tratado 82"
       }
     },
     {
@@ -700,7 +793,8 @@
       "title": {
         "la": "Tractatus 83",
         "en-US": "Tractate 83",
-        "pt-BR": "Tratado 83"
+        "pt-BR": "Tratado 83",
+        "es-419": "Tratado 83"
       }
     },
     {
@@ -708,7 +802,8 @@
       "title": {
         "la": "Tractatus 84",
         "en-US": "Tractate 84",
-        "pt-BR": "Tratado 84"
+        "pt-BR": "Tratado 84",
+        "es-419": "Tratado 84"
       }
     },
     {
@@ -716,7 +811,8 @@
       "title": {
         "la": "Tractatus 85",
         "en-US": "Tractate 85",
-        "pt-BR": "Tratado 85"
+        "pt-BR": "Tratado 85",
+        "es-419": "Tratado 85"
       }
     },
     {
@@ -724,7 +820,8 @@
       "title": {
         "la": "Tractatus 86",
         "en-US": "Tractate 86",
-        "pt-BR": "Tratado 86"
+        "pt-BR": "Tratado 86",
+        "es-419": "Tratado 86"
       }
     },
     {
@@ -732,7 +829,8 @@
       "title": {
         "la": "Tractatus 87",
         "en-US": "Tractate 87",
-        "pt-BR": "Tratado 87"
+        "pt-BR": "Tratado 87",
+        "es-419": "Tratado 87"
       }
     },
     {
@@ -740,7 +838,8 @@
       "title": {
         "la": "Tractatus 88",
         "en-US": "Tractate 88",
-        "pt-BR": "Tratado 88"
+        "pt-BR": "Tratado 88",
+        "es-419": "Tratado 88"
       }
     },
     {
@@ -748,7 +847,8 @@
       "title": {
         "la": "Tractatus 89",
         "en-US": "Tractate 89",
-        "pt-BR": "Tratado 89"
+        "pt-BR": "Tratado 89",
+        "es-419": "Tratado 89"
       }
     },
     {
@@ -756,7 +856,8 @@
       "title": {
         "la": "Tractatus 90",
         "en-US": "Tractate 90",
-        "pt-BR": "Tratado 90"
+        "pt-BR": "Tratado 90",
+        "es-419": "Tratado 90"
       }
     },
     {
@@ -764,7 +865,8 @@
       "title": {
         "la": "Tractatus 91",
         "en-US": "Tractate 91",
-        "pt-BR": "Tratado 91"
+        "pt-BR": "Tratado 91",
+        "es-419": "Tratado 91"
       }
     },
     {
@@ -772,7 +874,8 @@
       "title": {
         "la": "Tractatus 92",
         "en-US": "Tractate 92",
-        "pt-BR": "Tratado 92"
+        "pt-BR": "Tratado 92",
+        "es-419": "Tratado 92"
       }
     },
     {
@@ -780,7 +883,8 @@
       "title": {
         "la": "Tractatus 93",
         "en-US": "Tractate 93",
-        "pt-BR": "Tratado 93"
+        "pt-BR": "Tratado 93",
+        "es-419": "Tratado 93"
       }
     },
     {
@@ -788,7 +892,8 @@
       "title": {
         "la": "Tractatus 94",
         "en-US": "Tractate 94",
-        "pt-BR": "Tratado 94"
+        "pt-BR": "Tratado 94",
+        "es-419": "Tratado 94"
       }
     },
     {
@@ -796,7 +901,8 @@
       "title": {
         "la": "Tractatus 95",
         "en-US": "Tractate 95",
-        "pt-BR": "Tratado 95"
+        "pt-BR": "Tratado 95",
+        "es-419": "Tratado 95"
       }
     },
     {
@@ -804,7 +910,8 @@
       "title": {
         "la": "Tractatus 96",
         "en-US": "Tractate 96",
-        "pt-BR": "Tratado 96"
+        "pt-BR": "Tratado 96",
+        "es-419": "Tratado 96"
       }
     },
     {
@@ -812,7 +919,8 @@
       "title": {
         "la": "Tractatus 97",
         "en-US": "Tractate 97",
-        "pt-BR": "Tratado 97"
+        "pt-BR": "Tratado 97",
+        "es-419": "Tratado 97"
       }
     },
     {
@@ -820,7 +928,8 @@
       "title": {
         "la": "Tractatus 98",
         "en-US": "Tractate 98",
-        "pt-BR": "Tratado 98"
+        "pt-BR": "Tratado 98",
+        "es-419": "Tratado 98"
       }
     },
     {
@@ -828,7 +937,8 @@
       "title": {
         "la": "Tractatus 99",
         "en-US": "Tractate 99",
-        "pt-BR": "Tratado 99"
+        "pt-BR": "Tratado 99",
+        "es-419": "Tratado 99"
       }
     },
     {
@@ -836,7 +946,8 @@
       "title": {
         "la": "Tractatus 100",
         "en-US": "Tractate 100",
-        "pt-BR": "Tratado 100"
+        "pt-BR": "Tratado 100",
+        "es-419": "Tratado 100"
       }
     },
     {
@@ -844,7 +955,8 @@
       "title": {
         "la": "Tractatus 101",
         "en-US": "Tractate 101",
-        "pt-BR": "Tratado 101"
+        "pt-BR": "Tratado 101",
+        "es-419": "Tratado 101"
       }
     },
     {
@@ -852,7 +964,8 @@
       "title": {
         "la": "Tractatus 102",
         "en-US": "Tractate 102",
-        "pt-BR": "Tratado 102"
+        "pt-BR": "Tratado 102",
+        "es-419": "Tratado 102"
       }
     },
     {
@@ -860,7 +973,8 @@
       "title": {
         "la": "Tractatus 103",
         "en-US": "Tractate 103",
-        "pt-BR": "Tratado 103"
+        "pt-BR": "Tratado 103",
+        "es-419": "Tratado 103"
       }
     },
     {
@@ -868,7 +982,8 @@
       "title": {
         "la": "Tractatus 104",
         "en-US": "Tractate 104",
-        "pt-BR": "Tratado 104"
+        "pt-BR": "Tratado 104",
+        "es-419": "Tratado 104"
       }
     },
     {
@@ -876,7 +991,8 @@
       "title": {
         "la": "Tractatus 105",
         "en-US": "Tractate 105",
-        "pt-BR": "Tratado 105"
+        "pt-BR": "Tratado 105",
+        "es-419": "Tratado 105"
       }
     },
     {
@@ -884,7 +1000,8 @@
       "title": {
         "la": "Tractatus 106",
         "en-US": "Tractate 106",
-        "pt-BR": "Tratado 106"
+        "pt-BR": "Tratado 106",
+        "es-419": "Tratado 106"
       }
     },
     {
@@ -892,7 +1009,8 @@
       "title": {
         "la": "Tractatus 107",
         "en-US": "Tractate 107",
-        "pt-BR": "Tratado 107"
+        "pt-BR": "Tratado 107",
+        "es-419": "Tratado 107"
       }
     },
     {
@@ -900,7 +1018,8 @@
       "title": {
         "la": "Tractatus 108",
         "en-US": "Tractate 108",
-        "pt-BR": "Tratado 108"
+        "pt-BR": "Tratado 108",
+        "es-419": "Tratado 108"
       }
     },
     {
@@ -908,7 +1027,8 @@
       "title": {
         "la": "Tractatus 109",
         "en-US": "Tractate 109",
-        "pt-BR": "Tratado 109"
+        "pt-BR": "Tratado 109",
+        "es-419": "Tratado 109"
       }
     },
     {
@@ -916,7 +1036,8 @@
       "title": {
         "la": "Tractatus 110",
         "en-US": "Tractate 110",
-        "pt-BR": "Tratado 110"
+        "pt-BR": "Tratado 110",
+        "es-419": "Tratado 110"
       }
     },
     {
@@ -924,7 +1045,8 @@
       "title": {
         "la": "Tractatus 111",
         "en-US": "Tractate 111",
-        "pt-BR": "Tratado 111"
+        "pt-BR": "Tratado 111",
+        "es-419": "Tratado 111"
       }
     },
     {
@@ -932,7 +1054,8 @@
       "title": {
         "la": "Tractatus 112",
         "en-US": "Tractate 112",
-        "pt-BR": "Tratado 112"
+        "pt-BR": "Tratado 112",
+        "es-419": "Tratado 112"
       }
     },
     {
@@ -940,7 +1063,8 @@
       "title": {
         "la": "Tractatus 113",
         "en-US": "Tractate 113",
-        "pt-BR": "Tratado 113"
+        "pt-BR": "Tratado 113",
+        "es-419": "Tratado 113"
       }
     },
     {
@@ -948,7 +1072,8 @@
       "title": {
         "la": "Tractatus 114",
         "en-US": "Tractate 114",
-        "pt-BR": "Tratado 114"
+        "pt-BR": "Tratado 114",
+        "es-419": "Tratado 114"
       }
     },
     {
@@ -956,7 +1081,8 @@
       "title": {
         "la": "Tractatus 115",
         "en-US": "Tractate 115",
-        "pt-BR": "Tratado 115"
+        "pt-BR": "Tratado 115",
+        "es-419": "Tratado 115"
       }
     },
     {
@@ -964,7 +1090,8 @@
       "title": {
         "la": "Tractatus 116",
         "en-US": "Tractate 116",
-        "pt-BR": "Tratado 116"
+        "pt-BR": "Tratado 116",
+        "es-419": "Tratado 116"
       }
     },
     {
@@ -972,7 +1099,8 @@
       "title": {
         "la": "Tractatus 117",
         "en-US": "Tractate 117",
-        "pt-BR": "Tratado 117"
+        "pt-BR": "Tratado 117",
+        "es-419": "Tratado 117"
       }
     },
     {
@@ -980,7 +1108,8 @@
       "title": {
         "la": "Tractatus 118",
         "en-US": "Tractate 118",
-        "pt-BR": "Tratado 118"
+        "pt-BR": "Tratado 118",
+        "es-419": "Tratado 118"
       }
     },
     {
@@ -988,7 +1117,8 @@
       "title": {
         "la": "Tractatus 119",
         "en-US": "Tractate 119",
-        "pt-BR": "Tratado 119"
+        "pt-BR": "Tratado 119",
+        "es-419": "Tratado 119"
       }
     },
     {
@@ -996,7 +1126,8 @@
       "title": {
         "la": "Tractatus 120",
         "en-US": "Tractate 120",
-        "pt-BR": "Tratado 120"
+        "pt-BR": "Tratado 120",
+        "es-419": "Tratado 120"
       }
     },
     {
@@ -1004,7 +1135,8 @@
       "title": {
         "la": "Tractatus 121",
         "en-US": "Tractate 121",
-        "pt-BR": "Tratado 121"
+        "pt-BR": "Tratado 121",
+        "es-419": "Tratado 121"
       }
     },
     {
@@ -1012,7 +1144,8 @@
       "title": {
         "la": "Tractatus 122",
         "en-US": "Tractate 122",
-        "pt-BR": "Tratado 122"
+        "pt-BR": "Tratado 122",
+        "es-419": "Tratado 122"
       }
     },
     {
@@ -1020,7 +1153,8 @@
       "title": {
         "la": "Tractatus 123",
         "en-US": "Tractate 123",
-        "pt-BR": "Tratado 123"
+        "pt-BR": "Tratado 123",
+        "es-419": "Tratado 123"
       }
     },
     {
@@ -1028,7 +1162,8 @@
       "title": {
         "la": "Tractatus 124",
         "en-US": "Tractate 124",
-        "pt-BR": "Tratado 124"
+        "pt-BR": "Tratado 124",
+        "es-419": "Tratado 124"
       }
     }
   ]

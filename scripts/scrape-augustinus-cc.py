@@ -41,14 +41,25 @@ CACHE = ROOT / "scripts" / "_cache" / "augustinus-cc"
 BASE = "https://augustinus.cc"
 USER_AGENT = "Mozilla/5.0 (compatible; EmberAugustineImporter/1.0; +https://github.com/gustavo-depaula/ember)"
 
-# Corpus language → the document-name prefix augustinus.cc uses for it.
-# Only the Aquinas Institute translations cover every work; the older
-# Confessions translations (Pilkington, Pusey, Outler) are left out.
-DOC_NAMES = {
-    "la": "Latin",
-    "en-US": "English - Aquinas Institute",
-    "pt-BR": "Português - Aquinas Institute",
+# Corpus rendition → (augustinus.cc document name, picker label, provenance
+# note, site path language). A second translation in one language takes a
+# BCP 47 private-use tag, `en-US-x-pusey`: the corpus keys chapters,
+# search indexes and catalog languages by this string, and readers strip
+# the `-x-` part wherever they need the language itself.
+RENDITIONS = {
+    "la": ("Latin", None, "Latin text (public domain), mirrored from augustinus.cc.", "la"),
+    "en-US": ("English - Aquinas Institute", "Aquinas Institute", "English translation by the Aquinas Institute, mirrored from augustinus.cc.", "en"),
+    "pt-BR": ("Português - Aquinas Institute", "Aquinas Institute", "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.", "pt"),
+    "es-419": ("Español - Aquinas Institute", "Aquinas Institute", "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.", "es"),
+    "en-US-x-pilkington": ("English - Pilkington", "J. G. Pilkington (1876)", "English translation by J. G. Pilkington (1876), as in the Nicene and Post-Nicene Fathers (public domain); mirrored from augustinus.cc.", "en"),
+    "en-US-x-pusey": ("English - Pusey", "E. B. Pusey (1838)", "English translation by E. B. Pusey, Library of the Fathers (1838, public domain); mirrored from augustinus.cc.", "en"),
+    "en-US-x-outler": ("English - Outler", "Albert C. Outler (1955)", "English translation by Albert C. Outler (1955); mirrored from augustinus.cc.", "en"),
 }
+
+
+def base_lang(rendition: str) -> str:
+    return rendition.split("-x-")[0]
+
 
 session = requests.Session()
 session.headers.update({"User-Agent": USER_AGENT})
@@ -83,7 +94,7 @@ def catalog() -> list[dict]:
     for category, entries, _ in init["navTreeRoot"]:
         for wid, title, docs, rows, _flag, abbr in entries:
             dids = {}
-            for lang, name in DOC_NAMES.items():
+            for lang, (name, *_) in RENDITIONS.items():
                 did = next((d[0] for d in docs if d[1] == name), None)
                 if did is not None:
                     dids[lang] = did
@@ -132,7 +143,7 @@ def fetch(abbrs: list[str]) -> None:
         styles, _ = structure(w["wid"])
         if len(styles) != w["rows"]:
             print(f"  ! {w['abbr']}: style string has {len(styles)} rows, catalog says {w['rows']}")
-        for lang, did in w["dids"].items():
+        for did in w["dids"].values():
             cells(did, len(styles))
         print(f"{w['abbr']:12} {w['rows']:6} rows  {', '.join(w['dids'])}", flush=True)
 
@@ -149,8 +160,7 @@ def dump(abbr: str, limit: int) -> None:
 # ── Metadata ────────────────────────────────────────────────────────────
 
 BOOKS_ROOT = ROOT / "content" / "books" / "augustine-opera-omnia"
-LANGS = ("la", "en-US", "pt-BR")
-AUTHOR = {"la": "Sanctus Augustinus Hipponensis", "en-US": "St. Augustine of Hippo", "pt-BR": "Santo Agostinho de Hipona"}
+AUTHOR = {"la": "Sanctus Augustinus Hipponensis", "en-US": "St. Augustine of Hippo", "pt-BR": "Santo Agostinho de Hipona", "es-419": "San Agustín de Hipona"}
 
 # Site category → (directory, la, en-US, pt-BR).
 CATEGORIES = {
@@ -169,160 +179,154 @@ CATEGORIES = {
     "Expositions of the Psalms": ("psalms", "Enarrationes in Psalmos", "Expositions of the Psalms", "Comentários aos Salmos"),
 }
 
-# abbr → (id suffix, la, en-US, pt-BR). Ids follow the Aquinas opera omnia:
+# abbr → (id suffix, la, en-US, pt-BR, es-419). Ids follow the Aquinas opera omnia:
 # the Latin title, so they never collide with the NPNF English-title ids
 # already under church-fathers/augustine/.
 WORKS = {
-    "Conf": ("confessiones", "Confessiones", "The Confessions", "Confissões"),
-    "Rev": ("retractationes", "Retractationes", "Revisions", "Revisões"),
-    "Vita": ("possidius-vita", "Vita Sancti Augustini", "Life of St. Augustine", "Vida de Santo Agostinho"),
-    "Solil": ("soliloquia", "Soliloquia", "The Soliloquies", "Solilóquios"),
-    "Acad": ("contra-academicos", "Contra Academicos", "Answer to the Skeptics", "Contra os acadêmicos"),
-    "deBea": ("de-beata-vita", "De beata vita", "The Happy Life", "A vida feliz"),
-    "deOrd": ("de-ordine", "De ordine", "On Order", "A ordem"),
-    "deImm": ("de-immortalitate-animae", "De immortalitate animae", "On the Immortality of the Soul", "A imortalidade da alma"),
-    "deGramB": ("ars-breviata", "De grammatica: Ars breviata", "On Grammar: The Abridged Art", "A gramática: a arte abreviada"),
-    "deGramR": ("regulae-grammaticae", "De grammatica: Regulae", "On Grammar: The Rules", "A gramática: as regras"),
-    "deRhet": ("de-rhetorica", "De rhetorica", "On Rhetoric", "A retórica"),
-    "deDial": ("de-dialectica", "De dialectica", "On Dialectic", "A dialética"),
-    "deQuan": ("de-quantitate-animae", "De quantitate animae", "On the Size of the Soul", "A grandeza da alma"),
-    "deMus": ("de-musica", "De musica", "On Music", "A música"),
-    "deMag": ("de-magistro", "De magistro", "The Teacher", "O mestre"),
-    "deLib": ("de-libero-arbitrio", "De libero arbitrio", "On Free Will", "O livre-arbítrio"),
-    "deTrin": ("de-trinitate", "De Trinitate", "The Trinity", "A Trindade"),
-    "deCiv": ("de-civitate-dei", "De civitate Dei", "The City of God", "A Cidade de Deus"),
-    "deVera": ("de-vera-religione", "De vera religione", "True Religion", "A verdadeira religião"),
-    "deUtil": ("de-utilitate-credendi", "De utilitate credendi", "The Advantage of Believing", "A utilidade de crer"),
-    "deFideSym": ("de-fide-et-symbolo", "De fide et symbolo", "Faith and the Creed", "A fé e o símbolo"),
-    "deFideRe": ("de-fide-rerum-invisibilium", "De fide rerum quae non videntur", "Faith in the Unseen", "A fé nas coisas que não se veem"),
-    "deDivin": ("de-divinatione-daemonum", "De divinatione daemonum", "Demonic Divination", "A adivinhação dos demônios"),
-    "deFideOper": ("de-fide-et-operibus", "De fide et operibus", "Faith and Works", "A fé e as obras"),
-    "Ench": ("enchiridion-ad-laurentium", "Enchiridion de fide, spe et caritate", "Enchiridion on Faith, Hope, and Charity", "Enquirídio sobre a fé, a esperança e a caridade"),
-    "Marr": ("de-bono-coniugali", "De bono coniugali", "The Excellence of Marriage", "O bem do matrimônio"),
-    "Virg": ("de-sancta-virginitate", "De sancta virginitate", "Holy Virginity", "A santa virgindade"),
-    "Widow": ("de-bono-viduitatis", "De bono viduitatis", "The Excellence of Widowhood", "O bem da viuvez"),
-    "AdulMarr": ("de-coniugiis-adulterinis", "De coniugiis adulterinis", "Adulterous Marriages", "Os matrimônios adulterinos"),
-    "Cont": ("de-continentia", "De continentia", "Continence", "A continência"),
-    "DeAC": ("de-agone-christiano", "De agone christiano", "The Christian Combat", "O combate cristão"),
-    "DeCat": ("de-catechizandis-rudibus", "De catechizandis rudibus", "The Catechizing of the Uninstructed", "A catequese dos principiantes"),
-    "DeMen": ("de-mendacio", "De mendacio", "Lying", "A mentira"),
-    "ConMen": ("contra-mendacium", "Contra mendacium", "Against Lying", "Contra a mentira"),
-    "DeOpMon": ("de-opere-monachorum", "De opere monachorum", "The Work of Monks", "O trabalho dos monges"),
-    "DeCura": ("de-cura-pro-mortuis", "De cura pro mortuis gerenda", "The Care to Be Taken for the Dead", "O cuidado devido aos mortos"),
-    "DePat": ("de-patientia", "De patientia", "Patience", "A paciência"),
-    "DeUI": ("de-utilitate-ieiunii", "De utilitate ieiunii", "The Usefulness of Fasting", "A utilidade do jejum"),
-    "Regula": ("regula", "Regula ad servos Dei", "The Rule", "Regra aos servos de Deus"),
-    "DeDiscChr": ("de-disciplina-christiana", "De disciplina christiana", "On Christian Discipline", "A disciplina cristã"),
-    "ExcidRoma": ("de-excidio-urbis", "De excidio urbis Romae", "On the Sack of the City of Rome", "O saque da cidade de Roma"),
-    "SymbCatech": ("de-symbolo-ad-catechumenos", "De symbolo ad catechumenos", "On the Creed, to Catechumens", "O símbolo, aos catecúmenos"),
-    "OrdoMon": ("ordo-monasterii", "Ordo monasterii", "The Order of the Monastery", "A ordem do mosteiro"),
-    "Doct": ("de-doctrina-christiana", "De doctrina christiana", "Teaching Christianity", "A doutrina cristã"),
-    "83Qs": ("de-diversis-quaestionibus-83", "De diversis quaestionibus octoginta tribus", "Miscellany of Eighty-three Questions", "Oitenta e três questões diversas"),
-    "Simpl": ("ad-simplicianum", "Ad Simplicianum de diversis quaestionibus", "Miscellany of Questions in Response to Simplician", "Diversas questões a Simpliciano"),
-    "Dulc": ("de-octo-dulcitii-quaestionibus", "De octo Dulcitii quaestionibus", "Eight Questions of Dulcitius", "As oito questões de Dulcício"),
-    "GenMani": ("de-genesi-contra-manichaeos", "De Genesi contra Manichaeos", "On Genesis: A Refutation of the Manichees", "O Gênesis contra os maniqueus"),
-    "GenImperf": ("de-genesi-imperfectus", "De Genesi ad litteram imperfectus liber", "Unfinished Literal Commentary on Genesis", "Comentário literal inacabado ao Gênesis"),
-    "GenLit": ("de-genesi-ad-litteram", "De Genesi ad litteram", "The Literal Meaning of Genesis", "O sentido literal do Gênesis"),
-    "QsHept": ("quaestiones-in-heptateuchum", "Quaestiones in Heptateuchum", "Questions on the Heptateuch", "Questões sobre o Heptateuco"),
-    "ExpHept": ("locutiones-in-heptateuchum", "Locutiones in Heptateuchum", "Expressions in the Heptateuch", "Locuções do Heptateuco"),
-    "Job": ("annotationes-in-iob", "Annotationes in Iob", "Notes on Job", "Anotações sobre Jó"),
-    "8QsOT": ("de-octo-quaestionibus-vt", "De octo quaestionibus ex Veteri Testamento", "Eight Questions from the Old Testament", "As oito questões do Antigo Testamento"),
-    "Jews": ("adversus-iudaeos", "Adversus Iudaeos", "Answer to the Jews", "Contra os judeus"),
-    "SermMt": ("de-sermone-domini-in-monte", "De sermone Domini in monte", "The Lord's Sermon on the Mount", "O Sermão do Senhor na Montanha"),
-    "Consensu": ("de-consensu-evangelistarum", "De consensu Evangelistarum", "Agreement among the Evangelists", "A harmonia dos evangelistas"),
-    "QsGosp": ("quaestiones-evangeliorum", "Quaestiones Evangeliorum", "Questions on the Gospels", "Questões sobre os Evangelhos"),
-    "QsMatt": ("quaestiones-xvii-in-matthaeum", "Quaestiones septendecim in Evangelium secundum Matthaeum", "Seventeen Questions on Matthew", "Dezessete questões sobre Mateus"),
-    "Mirror": ("speculum", "De Scriptura sacra speculum", "The Mirror of Sacred Scripture", "O espelho da Sagrada Escritura"),
-    "PropRom": ("propositiones-ad-romanos", "Expositio quarumdam propositionum ex Epistola ad Romanos", "Commentary on Statements in the Letter to the Romans", "Exposição de algumas proposições da Carta aos Romanos"),
-    "InchoRom": ("inchoata-expositio-ad-romanos", "Epistolae ad Romanos inchoata expositio", "Unfinished Commentary on the Letter to the Romans", "Exposição inacabada da Carta aos Romanos"),
-    "Gal": ("expositio-ad-galatas", "Expositio Epistolae ad Galatas", "Commentary on the Letter to the Galatians", "Exposição da Carta aos Gálatas"),
-    "Heres": ("de-haeresibus", "De haeresibus", "Heresies", "As heresias"),
-    "PrisOrig": ("contra-priscillianistas", "Contra Priscillianistas et Origenistas", "A Refutation of the Priscillianists and Origenists", "Contra os priscilianistas e os origenistas"),
-    "ArianSerm": ("contra-sermonem-arianorum", "Contra sermonem Arianorum", "Answer to an Arian Sermon", "Contra um sermão dos arianos"),
-    "DebateMax": ("collatio-cum-maximino", "Collatio cum Maximino Arianorum episcopo", "Debate with Maximinus", "Debate com Maximino"),
-    "ContraMax": ("contra-maximinum", "Contra Maximinum Arianum", "Answer to Maximinus the Arian", "Contra Maximino, o ariano"),
-    "LawProph": ("contra-adversarium-legis", "Contra adversarium legis et prophetarum", "Answer to an Enemy of the Law and the Prophets", "Contra o adversário da Lei e dos Profetas"),
-    "WaysLife": ("de-moribus-ecclesiae", "De moribus Ecclesiae catholicae et de moribus Manichaeorum", "The Catholic Way of Life and the Manichean Way of Life", "Os costumes da Igreja Católica e os costumes dos maniqueus"),
-    "TwoSouls": ("de-duabus-animabus", "De duabus animabus", "The Two Souls", "As duas almas"),
-    "DebateFort": ("contra-fortunatum", "Acta seu disputatio contra Fortunatum Manichaeum", "A Debate with Fortunatus, a Manichean", "Debate com Fortunato, o maniqueu"),
-    "Adiman": ("contra-adimantum", "Contra Adimantum Manichaei discipulum", "Answer to Adimantus, a Disciple of Mani", "Contra Adimanto, discípulo de Mani"),
-    "LetterMani": ("contra-epistolam-fundamenti", "Contra epistolam Manichaei quam vocant Fundamenti", "Answer to the Letter of Mani Known as The Foundation", "Contra a carta de Mani chamada do Fundamento"),
-    "Felix": ("contra-felicem", "Contra Felicem Manichaeum", "Answer to Felix, a Manichean", "Contra Félix, o maniqueu"),
-    "NatureGood": ("de-natura-boni", "De natura boni", "The Nature of the Good", "A natureza do bem"),
-    "Secundinus": ("contra-secundinum", "Contra Secundinum Manichaeum", "Answer to Secundinus, a Manichean", "Contra Secundino, o maniqueu"),
-    "Faustus": ("contra-faustum", "Contra Faustum Manichaeum", "Answer to Faustus, a Manichean", "Contra Fausto, o maniqueu"),
-    "PsDon": ("psalmus-contra-partem-donati", "Psalmus contra partem Donati", "Psalm against the Party of Donatus", "Salmo contra o partido de Donato"),
-    "Petilian": ("contra-litteras-petiliani", "Contra litteras Petiliani", "Answer to the Writings of Petilian", "Contra as cartas de Petiliano"),
-    "Parmen": ("contra-epistolam-parmeniani", "Contra epistolam Parmeniani", "Answer to the Letter of Parmenian", "Contra a carta de Parmeniano"),
-    "Baptism": ("de-baptismo", "De baptismo", "Baptism", "O batismo"),
-    "LetterDon": ("epistola-ad-catholicos", "Epistola ad Catholicos de secta Donatistarum", "Letter to Catholics on the Sect of the Donatists", "Carta aos católicos sobre a seita dos donatistas"),
-    "Crescon": ("contra-cresconium", "Contra Cresconium grammaticum Donatistam", "Answer to Cresconius the Donatist Grammarian", "Contra Crescônio, o gramático donatista"),
-    "UnicoBap": ("de-unico-baptismo", "De unico baptismo contra Petilianum", "The One Baptism, in Answer to Petilian", "O único batismo, contra Petiliano"),
-    "Brev": ("breviculus-collationis", "Breviculus collationis cum Donatistis", "A Summary of the Meeting with the Donatists", "Resumo da conferência com os donatistas"),
-    "PostColl": ("post-collationem", "Post collationem contra Donatistas", "To the Donatists after the Conference", "Aos donatistas depois da conferência"),
-    "Caesar": ("sermo-ad-caesariensis", "Sermo ad Caesariensis Ecclesiae plebem", "Sermon to the People of the Church of Caesarea", "Sermão ao povo da Igreja de Cesareia"),
-    "deGestis": ("de-gestis-cum-emerito", "De gestis cum Emerito Donatistarum episcopo", "The Proceedings with Emeritus", "As atas com Emérito"),
-    "Gaudentium": ("contra-gaudentium", "Contra Gaudentium Donatistarum episcopum", "Answer to Gaudentius, a Donatist Bishop", "Contra Gaudêncio, bispo donatista"),
-    "Gesta": ("collatio-carthaginensis", "Gesta collationis Carthaginensis", "Proceedings of the Conference of Carthage", "Atas da Conferência de Cartago"),
-    "VersNabor": ("versus-de-nabore", "Versus de Nabore", "Verses on Nabor", "Versos sobre Nabor"),
-    "DPMe": ("de-peccatorum-meritis", "De peccatorum meritis et remissione et de baptismo parvulorum", "The Punishment and Forgiveness of Sins and the Baptism of Little Ones", "O castigo e o perdão dos pecados e o batismo das crianças"),
-    "DSeL": ("de-spiritu-et-littera", "De spiritu et littera", "The Spirit and the Letter", "O espírito e a letra"),
-    "DNeG": ("de-natura-et-gratia", "De natura et gratia", "Nature and Grace", "A natureza e a graça"),
-    "DPIH": ("de-perfectione-iustitiae", "De perfectione iustitiae hominis", "The Perfection of Human Righteousness", "A perfeição da justiça do homem"),
-    "DeGP": ("de-gestis-pelagii", "De gestis Pelagii", "The Deeds of Pelagius", "Os atos de Pelágio"),
-    "DGCe": ("de-gratia-christi", "De gratia Christi et de peccato originali", "The Grace of Christ and Original Sin", "A graça de Cristo e o pecado original"),
-    "DAeE": ("de-anima-et-eius-origine", "De anima et eius origine", "The Nature and Origin of the Soul", "A alma e a sua origem"),
-    "deNuptiis": ("de-nuptiis-et-concupiscentia", "De nuptiis et concupiscentia", "Marriage and Desire", "As núpcias e a concupiscência"),
-    "Duas": ("contra-duas-epistulas", "Contra duas epistulas Pelagianorum", "Answer to the Two Letters of the Pelagians", "Contra as duas cartas dos pelagianos"),
-    "Iulianum": ("contra-iulianum", "Contra Iulianum", "Answer to Julian", "Contra Juliano"),
-    "JulianImp": ("contra-iulianum-imperfectum", "Contra secundam Iuliani responsionem opus imperfectum", "Unfinished Work in Answer to Julian", "Obra inacabada contra Juliano"),
-    "Grace": ("de-gratia-et-libero-arbitrio", "De gratia et libero arbitrio", "Grace and Free Choice", "A graça e o livre-arbítrio"),
-    "Rebuke": ("de-correptione-et-gratia", "De correptione et gratia", "Rebuke and Grace", "A correção e a graça"),
-    "Predest": ("de-praedestinatione-sanctorum", "De praedestinatione sanctorum", "The Predestination of the Saints", "A predestinação dos santos"),
-    "Persev": ("de-dono-perseverantiae", "De dono perseverantiae", "The Gift of Perseverance", "O dom da perseverança"),
-    "GosJohn": ("in-iohannis-evangelium", "In Iohannis Evangelium tractatus", "Homilies on the Gospel of John", "Tratados sobre o Evangelho de João"),
-    "EpJohn": ("in-epistulam-iohannis", "In Epistulam Iohannis ad Parthos tractatus", "Homilies on the First Epistle of John", "Homilias sobre a Primeira Carta de João"),
+    "Conf": ("confessiones", "Confessiones", "The Confessions", "Confissões", "Confesiones"),
+    "Rev": ("retractationes", "Retractationes", "Revisions", "Revisões", "Revisiones"),
+    "Vita": ("possidius-vita", "Vita Sancti Augustini", "Life of St. Augustine", "Vida de Santo Agostinho", "Vida de san Agustín"),
+    "Solil": ("soliloquia", "Soliloquia", "The Soliloquies", "Solilóquios", "Soliloquios"),
+    "Acad": ("contra-academicos", "Contra Academicos", "Answer to the Skeptics", "Contra os acadêmicos", "Contra los académicos"),
+    "deBea": ("de-beata-vita", "De beata vita", "The Happy Life", "A vida feliz", "La vida feliz"),
+    "deOrd": ("de-ordine", "De ordine", "On Order", "A ordem", "El orden"),
+    "deImm": ("de-immortalitate-animae", "De immortalitate animae", "On the Immortality of the Soul", "A imortalidade da alma", "La inmortalidad del alma"),
+    "deGramB": ("ars-breviata", "De grammatica: Ars breviata", "On Grammar: The Abridged Art", "A gramática: a arte abreviada", "La gramática: el arte abreviado"),
+    "deGramR": ("regulae-grammaticae", "De grammatica: Regulae", "On Grammar: The Rules", "A gramática: as regras", "La gramática: las reglas"),
+    "deRhet": ("de-rhetorica", "De rhetorica", "On Rhetoric", "A retórica", "La retórica"),
+    "deDial": ("de-dialectica", "De dialectica", "On Dialectic", "A dialética", "La dialéctica"),
+    "deQuan": ("de-quantitate-animae", "De quantitate animae", "On the Size of the Soul", "A grandeza da alma", "La grandeza del alma"),
+    "deMus": ("de-musica", "De musica", "On Music", "A música", "La música"),
+    "deMag": ("de-magistro", "De magistro", "The Teacher", "O mestre", "El maestro"),
+    "deLib": ("de-libero-arbitrio", "De libero arbitrio", "On Free Will", "O livre-arbítrio", "El libre albedrío"),
+    "deTrin": ("de-trinitate", "De Trinitate", "The Trinity", "A Trindade", "La Trinidad"),
+    "deCiv": ("de-civitate-dei", "De civitate Dei", "The City of God", "A Cidade de Deus", "La ciudad de Dios"),
+    "deVera": ("de-vera-religione", "De vera religione", "True Religion", "A verdadeira religião", "La verdadera religión"),
+    "deUtil": ("de-utilitate-credendi", "De utilitate credendi", "The Advantage of Believing", "A utilidade de crer", "La utilidad de creer"),
+    "deFideSym": ("de-fide-et-symbolo", "De fide et symbolo", "Faith and the Creed", "A fé e o símbolo", "La fe y el símbolo"),
+    "deFideRe": ("de-fide-rerum-invisibilium", "De fide rerum quae non videntur", "Faith in the Unseen", "A fé nas coisas que não se veem", "La fe en las cosas que no se ven"),
+    "deDivin": ("de-divinatione-daemonum", "De divinatione daemonum", "Demonic Divination", "A adivinhação dos demônios", "La adivinación de los demonios"),
+    "deFideOper": ("de-fide-et-operibus", "De fide et operibus", "Faith and Works", "A fé e as obras", "La fe y las obras"),
+    "Ench": ("enchiridion-ad-laurentium", "Enchiridion de fide, spe et caritate", "Enchiridion on Faith, Hope, and Charity", "Enquirídio sobre a fé, a esperança e a caridade", "Enquiridión sobre la fe, la esperanza y la caridad"),
+    "Marr": ("de-bono-coniugali", "De bono coniugali", "The Excellence of Marriage", "O bem do matrimônio", "El bien del matrimonio"),
+    "Virg": ("de-sancta-virginitate", "De sancta virginitate", "Holy Virginity", "A santa virgindade", "La santa virginidad"),
+    "Widow": ("de-bono-viduitatis", "De bono viduitatis", "The Excellence of Widowhood", "O bem da viuvez", "El bien de la viudez"),
+    "AdulMarr": ("de-coniugiis-adulterinis", "De coniugiis adulterinis", "Adulterous Marriages", "Os matrimônios adulterinos", "Los matrimonios adulterinos"),
+    "Cont": ("de-continentia", "De continentia", "Continence", "A continência", "La continencia"),
+    "DeAC": ("de-agone-christiano", "De agone christiano", "The Christian Combat", "O combate cristão", "El combate cristiano"),
+    "DeCat": ("de-catechizandis-rudibus", "De catechizandis rudibus", "The Catechizing of the Uninstructed", "A catequese dos principiantes", "La catequesis de los principiantes"),
+    "DeMen": ("de-mendacio", "De mendacio", "Lying", "A mentira", "La mentira"),
+    "ConMen": ("contra-mendacium", "Contra mendacium", "Against Lying", "Contra a mentira", "Contra la mentira"),
+    "DeOpMon": ("de-opere-monachorum", "De opere monachorum", "The Work of Monks", "O trabalho dos monges", "El trabajo de los monjes"),
+    "DeCura": ("de-cura-pro-mortuis", "De cura pro mortuis gerenda", "The Care to Be Taken for the Dead", "O cuidado devido aos mortos", "El cuidado que se debe a los muertos"),
+    "DePat": ("de-patientia", "De patientia", "Patience", "A paciência", "La paciencia"),
+    "DeUI": ("de-utilitate-ieiunii", "De utilitate ieiunii", "The Usefulness of Fasting", "A utilidade do jejum", "La utilidad del ayuno"),
+    "Regula": ("regula", "Regula ad servos Dei", "The Rule", "Regra aos servos de Deus", "Regla a los siervos de Dios"),
+    "DeDiscChr": ("de-disciplina-christiana", "De disciplina christiana", "On Christian Discipline", "A disciplina cristã", "La disciplina cristiana"),
+    "ExcidRoma": ("de-excidio-urbis", "De excidio urbis Romae", "On the Sack of the City of Rome", "O saque da cidade de Roma", "El saqueo de la ciudad de Roma"),
+    "SymbCatech": ("de-symbolo-ad-catechumenos", "De symbolo ad catechumenos", "On the Creed, to Catechumens", "O símbolo, aos catecúmenos", "El símbolo, a los catecúmenos"),
+    "OrdoMon": ("ordo-monasterii", "Ordo monasterii", "The Order of the Monastery", "A ordem do mosteiro", "El orden del monasterio"),
+    "Doct": ("de-doctrina-christiana", "De doctrina christiana", "Teaching Christianity", "A doutrina cristã", "La doctrina cristiana"),
+    "83Qs": ("de-diversis-quaestionibus-83", "De diversis quaestionibus octoginta tribus", "Miscellany of Eighty-three Questions", "Oitenta e três questões diversas", "Ochenta y tres cuestiones diversas"),
+    "Simpl": ("ad-simplicianum", "Ad Simplicianum de diversis quaestionibus", "Miscellany of Questions in Response to Simplician", "Diversas questões a Simpliciano", "Diversas cuestiones a Simpliciano"),
+    "Dulc": ("de-octo-dulcitii-quaestionibus", "De octo Dulcitii quaestionibus", "Eight Questions of Dulcitius", "As oito questões de Dulcício", "Las ocho cuestiones de Dulcicio"),
+    "GenMani": ("de-genesi-contra-manichaeos", "De Genesi contra Manichaeos", "On Genesis: A Refutation of the Manichees", "O Gênesis contra os maniqueus", "El Génesis contra los maniqueos"),
+    "GenImperf": ("de-genesi-imperfectus", "De Genesi ad litteram imperfectus liber", "Unfinished Literal Commentary on Genesis", "Comentário literal inacabado ao Gênesis", "Comentario literal inconcluso al Génesis"),
+    "GenLit": ("de-genesi-ad-litteram", "De Genesi ad litteram", "The Literal Meaning of Genesis", "O sentido literal do Gênesis", "El sentido literal del Génesis"),
+    "QsHept": ("quaestiones-in-heptateuchum", "Quaestiones in Heptateuchum", "Questions on the Heptateuch", "Questões sobre o Heptateuco", "Cuestiones sobre el Heptateuco"),
+    "ExpHept": ("locutiones-in-heptateuchum", "Locutiones in Heptateuchum", "Expressions in the Heptateuch", "Locuções do Heptateuco", "Locuciones del Heptateuco"),
+    "Job": ("annotationes-in-iob", "Annotationes in Iob", "Notes on Job", "Anotações sobre Jó", "Anotaciones sobre Job"),
+    "8QsOT": ("de-octo-quaestionibus-vt", "De octo quaestionibus ex Veteri Testamento", "Eight Questions from the Old Testament", "As oito questões do Antigo Testamento", "Las ocho cuestiones del Antiguo Testamento"),
+    "Jews": ("adversus-iudaeos", "Adversus Iudaeos", "Answer to the Jews", "Contra os judeus", "Contra los judíos"),
+    "SermMt": ("de-sermone-domini-in-monte", "De sermone Domini in monte", "The Lord's Sermon on the Mount", "O Sermão do Senhor na Montanha", "El sermón del Señor en la montaña"),
+    "Consensu": ("de-consensu-evangelistarum", "De consensu Evangelistarum", "Agreement among the Evangelists", "A harmonia dos evangelistas", "La concordancia de los evangelistas"),
+    "QsGosp": ("quaestiones-evangeliorum", "Quaestiones Evangeliorum", "Questions on the Gospels", "Questões sobre os Evangelhos", "Cuestiones sobre los Evangelios"),
+    "QsMatt": ("quaestiones-xvii-in-matthaeum", "Quaestiones septendecim in Evangelium secundum Matthaeum", "Seventeen Questions on Matthew", "Dezessete questões sobre Mateus", "Diecisiete cuestiones sobre Mateo"),
+    "Mirror": ("speculum", "De Scriptura sacra speculum", "The Mirror of Sacred Scripture", "O espelho da Sagrada Escritura", "El espejo de la Sagrada Escritura"),
+    "PropRom": ("propositiones-ad-romanos", "Expositio quarumdam propositionum ex Epistola ad Romanos", "Commentary on Statements in the Letter to the Romans", "Exposição de algumas proposições da Carta aos Romanos", "Exposición de algunas proposiciones de la Epístola a los Romanos"),
+    "InchoRom": ("inchoata-expositio-ad-romanos", "Epistolae ad Romanos inchoata expositio", "Unfinished Commentary on the Letter to the Romans", "Exposição inacabada da Carta aos Romanos", "Exposición inconclusa de la Carta a los Romanos"),
+    "Gal": ("expositio-ad-galatas", "Expositio Epistolae ad Galatas", "Commentary on the Letter to the Galatians", "Exposição da Carta aos Gálatas", "Exposición de la Carta a los Gálatas"),
+    "Heres": ("de-haeresibus", "De haeresibus", "Heresies", "As heresias", "Las herejías"),
+    "PrisOrig": ("contra-priscillianistas", "Contra Priscillianistas et Origenistas", "A Refutation of the Priscillianists and Origenists", "Contra os priscilianistas e os origenistas", "Contra los priscilianistas y los origenistas"),
+    "ArianSerm": ("contra-sermonem-arianorum", "Contra sermonem Arianorum", "Answer to an Arian Sermon", "Contra um sermão dos arianos", "Contra un sermón de los arrianos"),
+    "DebateMax": ("collatio-cum-maximino", "Collatio cum Maximino Arianorum episcopo", "Debate with Maximinus", "Debate com Maximino", "Debate con Maximino"),
+    "ContraMax": ("contra-maximinum", "Contra Maximinum Arianum", "Answer to Maximinus the Arian", "Contra Maximino, o ariano", "Contra Maximino, el arriano"),
+    "LawProph": ("contra-adversarium-legis", "Contra adversarium legis et prophetarum", "Answer to an Enemy of the Law and the Prophets", "Contra o adversário da Lei e dos Profetas", "Contra el adversario de la Ley y los Profetas"),
+    "WaysLife": ("de-moribus-ecclesiae", "De moribus Ecclesiae catholicae et de moribus Manichaeorum", "The Catholic Way of Life and the Manichean Way of Life", "Os costumes da Igreja Católica e os costumes dos maniqueus", "Las costumbres de la Iglesia católica y las costumbres de los maniqueos"),
+    "TwoSouls": ("de-duabus-animabus", "De duabus animabus", "The Two Souls", "As duas almas", "Las dos almas"),
+    "DebateFort": ("contra-fortunatum", "Acta seu disputatio contra Fortunatum Manichaeum", "A Debate with Fortunatus, a Manichean", "Debate com Fortunato, o maniqueu", "Debate con Fortunato, el maniqueo"),
+    "Adiman": ("contra-adimantum", "Contra Adimantum Manichaei discipulum", "Answer to Adimantus, a Disciple of Mani", "Contra Adimanto, discípulo de Mani", "Contra Adimanto, discípulo de Mani"),
+    "LetterMani": ("contra-epistolam-fundamenti", "Contra epistolam Manichaei quam vocant Fundamenti", "Answer to the Letter of Mani Known as The Foundation", "Contra a carta de Mani chamada do Fundamento", "Contra la carta de Mani llamada del Fundamento"),
+    "Felix": ("contra-felicem", "Contra Felicem Manichaeum", "Answer to Felix, a Manichean", "Contra Félix, o maniqueu", "Contra Félix, el maniqueo"),
+    "NatureGood": ("de-natura-boni", "De natura boni", "The Nature of the Good", "A natureza do bem", "La naturaleza del bien"),
+    "Secundinus": ("contra-secundinum", "Contra Secundinum Manichaeum", "Answer to Secundinus, a Manichean", "Contra Secundino, o maniqueu", "Contra Secundino, el maniqueo"),
+    "Faustus": ("contra-faustum", "Contra Faustum Manichaeum", "Answer to Faustus, a Manichean", "Contra Fausto, o maniqueu", "Contra Fausto, el maniqueo"),
+    "PsDon": ("psalmus-contra-partem-donati", "Psalmus contra partem Donati", "Psalm against the Party of Donatus", "Salmo contra o partido de Donato", "Salmo contra el partido de Donato"),
+    "Petilian": ("contra-litteras-petiliani", "Contra litteras Petiliani", "Answer to the Writings of Petilian", "Contra as cartas de Petiliano", "Contra las cartas de Petiliano"),
+    "Parmen": ("contra-epistolam-parmeniani", "Contra epistolam Parmeniani", "Answer to the Letter of Parmenian", "Contra a carta de Parmeniano", "Contra la carta de Parmeniano"),
+    "Baptism": ("de-baptismo", "De baptismo", "Baptism", "O batismo", "El bautismo"),
+    "LetterDon": ("epistola-ad-catholicos", "Epistola ad Catholicos de secta Donatistarum", "Letter to Catholics on the Sect of the Donatists", "Carta aos católicos sobre a seita dos donatistas", "Carta a los católicos sobre la secta de los donatistas"),
+    "Crescon": ("contra-cresconium", "Contra Cresconium grammaticum Donatistam", "Answer to Cresconius the Donatist Grammarian", "Contra Crescônio, o gramático donatista", "Contra Cresconio, el gramático donatista"),
+    "UnicoBap": ("de-unico-baptismo", "De unico baptismo contra Petilianum", "The One Baptism, in Answer to Petilian", "O único batismo, contra Petiliano", "El único bautismo, contra Petiliano"),
+    "Brev": ("breviculus-collationis", "Breviculus collationis cum Donatistis", "A Summary of the Meeting with the Donatists", "Resumo da conferência com os donatistas", "Resumen de la conferencia con los donatistas"),
+    "PostColl": ("post-collationem", "Post collationem contra Donatistas", "To the Donatists after the Conference", "Aos donatistas depois da conferência", "A los donatistas después de la conferencia"),
+    "Caesar": ("sermo-ad-caesariensis", "Sermo ad Caesariensis Ecclesiae plebem", "Sermon to the People of the Church of Caesarea", "Sermão ao povo da Igreja de Cesareia", "Sermón al pueblo de la Iglesia de Cesarea"),
+    "deGestis": ("de-gestis-cum-emerito", "De gestis cum Emerito Donatistarum episcopo", "The Proceedings with Emeritus", "As atas com Emérito", "Las actas con Emérito"),
+    "Gaudentium": ("contra-gaudentium", "Contra Gaudentium Donatistarum episcopum", "Answer to Gaudentius, a Donatist Bishop", "Contra Gaudêncio, bispo donatista", "Contra Gaudencio, obispo donatista"),
+    "Gesta": ("collatio-carthaginensis", "Gesta collationis Carthaginensis", "Proceedings of the Conference of Carthage", "Atas da Conferência de Cartago", "Actas de la Conferencia de Cartago"),
+    "VersNabor": ("versus-de-nabore", "Versus de Nabore", "Verses on Nabor", "Versos sobre Nabor", "Versos sobre Nabor"),
+    "DPMe": ("de-peccatorum-meritis", "De peccatorum meritis et remissione et de baptismo parvulorum", "The Punishment and Forgiveness of Sins and the Baptism of Little Ones", "O castigo e o perdão dos pecados e o batismo das crianças", "El castigo y el perdón de los pecados y el bautismo de los niños"),
+    "DSeL": ("de-spiritu-et-littera", "De spiritu et littera", "The Spirit and the Letter", "O espírito e a letra", "El espíritu y la letra"),
+    "DNeG": ("de-natura-et-gratia", "De natura et gratia", "Nature and Grace", "A natureza e a graça", "La naturaleza y la gracia"),
+    "DPIH": ("de-perfectione-iustitiae", "De perfectione iustitiae hominis", "The Perfection of Human Righteousness", "A perfeição da justiça do homem", "La perfección de la justicia del hombre"),
+    "DeGP": ("de-gestis-pelagii", "De gestis Pelagii", "The Deeds of Pelagius", "Os atos de Pelágio", "Los actos de Pelagio"),
+    "DGCe": ("de-gratia-christi", "De gratia Christi et de peccato originali", "The Grace of Christ and Original Sin", "A graça de Cristo e o pecado original", "La gracia de Cristo y el pecado original"),
+    "DAeE": ("de-anima-et-eius-origine", "De anima et eius origine", "The Nature and Origin of the Soul", "A alma e a sua origem", "El alma y su origen"),
+    "deNuptiis": ("de-nuptiis-et-concupiscentia", "De nuptiis et concupiscentia", "Marriage and Desire", "As núpcias e a concupiscência", "Las nupcias y la concupiscencia"),
+    "Duas": ("contra-duas-epistulas", "Contra duas epistulas Pelagianorum", "Answer to the Two Letters of the Pelagians", "Contra as duas cartas dos pelagianos", "Contra dos cartas de los pelagianos"),
+    "Iulianum": ("contra-iulianum", "Contra Iulianum", "Answer to Julian", "Contra Juliano", "Contra Juliano"),
+    "JulianImp": ("contra-iulianum-imperfectum", "Contra secundam Iuliani responsionem opus imperfectum", "Unfinished Work in Answer to Julian", "Obra inacabada contra Juliano", "Obra inconclusa contra Juliano"),
+    "Grace": ("de-gratia-et-libero-arbitrio", "De gratia et libero arbitrio", "Grace and Free Choice", "A graça e o livre-arbítrio", "La gracia y el libre albedrío"),
+    "Rebuke": ("de-correptione-et-gratia", "De correptione et gratia", "Rebuke and Grace", "A correção e a graça", "La corrección y la gracia"),
+    "Predest": ("de-praedestinatione-sanctorum", "De praedestinatione sanctorum", "The Predestination of the Saints", "A predestinação dos santos", "La predestinación de los santos"),
+    "Persev": ("de-dono-perseverantiae", "De dono perseverantiae", "The Gift of Perseverance", "O dom da perseverança", "El don de la perseverancia"),
+    "GosJohn": ("in-iohannis-evangelium", "In Iohannis Evangelium tractatus", "Homilies on the Gospel of John", "Tratados sobre o Evangelho de João", "Tratados sobre el Evangelio de Juan"),
+    "EpJohn": ("in-epistulam-iohannis", "In Epistulam Iohannis ad Parthos tractatus", "Homilies on the First Epistle of John", "Homilias sobre a Primeira Carta de João", "Homilías sobre la Primera Carta de Juan"),
 }
 
 # Volumes the site splits only for size, joined into one book each; every
-# volume becomes a TOC group. series id → (category, la, en-US, pt-BR, [(abbr, la, en, pt)]).
+# volume becomes a TOC group. series id → (category, la, en-US, pt-BR, es-419,
+# [(abbr, la, en-US, pt-BR, es-419)]).
 SERIES = {
-    "epistulae": ("Letters", "Epistulae", "Letters", "Cartas", [
-        ("Ep1-99", "Epistulae 1–99", "Letters 1–99", "Cartas 1–99"),
-        ("Ep100-155", "Epistulae 100–155", "Letters 100–155", "Cartas 100–155"),
-        ("Ep156-210", "Epistulae 156–210", "Letters 156–210", "Cartas 156–210"),
-        ("Ep211-270", "Epistulae 211–270, 1*–29*", "Letters 211–270, 1*–29*", "Cartas 211–270, 1*–29*"),
+    "epistulae": ("Letters", "Epistulae", "Letters", "Cartas", "Cartas", [
+        ("Ep1-99", "Epistulae 1–99", "Letters 1–99", "Cartas 1–99", "Cartas 1–99"),
+        ("Ep100-155", "Epistulae 100–155", "Letters 100–155", "Cartas 100–155", "Cartas 100–155"),
+        ("Ep156-210", "Epistulae 156–210", "Letters 156–210", "Cartas 156–210", "Cartas 156–210"),
+        ("Ep211-270", "Epistulae 211–270, 1*–29*", "Letters 211–270, 1*–29*", "Cartas 211–270, 1*–29*", "Cartas 211–270, 1*–29*"),
     ]),
-    "sermones": ("Sermons", "Sermones", "Sermons", "Sermões", [
-        ("Sermons1", "Sermones 1–19", "Sermons 1–19", "Sermões 1–19"),
-        ("Sermons2", "Sermones 20–50", "Sermons 20–50", "Sermões 20–50"),
-        ("Sermons3", "Sermones 51–94", "Sermons 51–94", "Sermões 51–94"),
-        ("Sermons4", "Sermones 94A–147A", "Sermons 94A–147A", "Sermões 94A–147A"),
-        ("Sermons5", "Sermones 148–183", "Sermons 148–183", "Sermões 148–183"),
-        ("Sermons6", "Sermones 184–229Z", "Sermons 184–229Z", "Sermões 184–229Z"),
-        ("Sermons7", "Sermones 230–272Z", "Sermons 230–272Z", "Sermões 230–272Z"),
-        ("Sermons8", "Sermones 273–305A", "Sermons 273–305A", "Sermões 273–305A"),
-        ("Sermons9", "Sermones 306–340A", "Sermons 306–340A", "Sermões 306–340A"),
-        ("Sermons10", "Sermones 341–400", "Sermons 341–400", "Sermões 341–400"),
-        ("SermonsNew", "Sermones nuper reperti", "Newly Discovered Sermons", "Sermões recém-descobertos"),
-        ("SermSup", "Sermones supplementarii", "Supplementary Sermons", "Sermões suplementares"),
+    "sermones": ("Sermons", "Sermones", "Sermons", "Sermões", "Sermones", [
+        ("Sermons1", "Sermones 1–19", "Sermons 1–19", "Sermões 1–19", "Sermones 1–19"),
+        ("Sermons2", "Sermones 20–50", "Sermons 20–50", "Sermões 20–50", "Sermones 20–50"),
+        ("Sermons3", "Sermones 51–94", "Sermons 51–94", "Sermões 51–94", "Sermones 51–94"),
+        ("Sermons4", "Sermones 94A–147A", "Sermons 94A–147A", "Sermões 94A–147A", "Sermones 94A–147A"),
+        ("Sermons5", "Sermones 148–183", "Sermons 148–183", "Sermões 148–183", "Sermones 148–183"),
+        ("Sermons6", "Sermones 184–229Z", "Sermons 184–229Z", "Sermões 184–229Z", "Sermones 184–229Z"),
+        ("Sermons7", "Sermones 230–272Z", "Sermons 230–272Z", "Sermões 230–272Z", "Sermones 230–272Z"),
+        ("Sermons8", "Sermones 273–305A", "Sermons 273–305A", "Sermões 273–305A", "Sermones 273–305A"),
+        ("Sermons9", "Sermones 306–340A", "Sermons 306–340A", "Sermões 306–340A", "Sermones 306–340A"),
+        ("Sermons10", "Sermones 341–400", "Sermons 341–400", "Sermões 341–400", "Sermones 341–400"),
+        ("SermonsNew", "Sermones nuper reperti", "Newly Discovered Sermons", "Sermões recém-descobertos", "Sermones recién descubiertos"),
+        ("SermSup", "Sermones supplementarii", "Supplementary Sermons", "Sermões suplementares", "Sermones suplementarios"),
     ]),
-    "enarrationes-in-psalmos": ("Expositions of the Psalms", "Enarrationes in Psalmos", "Expositions of the Psalms", "Comentários aos Salmos", [
-        ("Ps1-32", "Psalmi 1–32", "Psalms 1–32", "Salmos 1–32"),
-        ("Ps33-50", "Psalmi 33–50", "Psalms 33–50", "Salmos 33–50"),
-        ("Ps51-72", "Psalmi 51–72", "Psalms 51–72", "Salmos 51–72"),
-        ("Ps73-98", "Psalmi 73–98", "Psalms 73–98", "Salmos 73–98"),
-        ("Ps99-120", "Psalmi 99–120", "Psalms 99–120", "Salmos 99–120"),
-        ("Ps121-150", "Psalmi 121–150", "Psalms 121–150", "Salmos 121–150"),
+    "enarrationes-in-psalmos": ("Expositions of the Psalms", "Enarrationes in Psalmos", "Expositions of the Psalms", "Comentários aos Salmos", "Comentarios a los Salmos", [
+        ("Ps1-32", "Psalmi 1–32", "Psalms 1–32", "Salmos 1–32", "Salmos 1–32"),
+        ("Ps33-50", "Psalmi 33–50", "Psalms 33–50", "Salmos 33–50", "Salmos 33–50"),
+        ("Ps51-72", "Psalmi 51–72", "Psalms 51–72", "Salmos 51–72", "Salmos 51–72"),
+        ("Ps73-98", "Psalmi 73–98", "Psalms 73–98", "Salmos 73–98", "Salmos 73–98"),
+        ("Ps99-120", "Psalmi 99–120", "Psalms 99–120", "Salmos 99–120", "Salmos 99–120"),
+        ("Ps121-150", "Psalmi 121–150", "Psalms 121–150", "Salmos 121–150", "Salmos 121–150"),
     ]),
 }
-
-SOURCE_NOTES = {
-    "la": "Latin text (public domain), mirrored from augustinus.cc.",
-    "en-US": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
-    "pt-BR": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
-}
-SITE_LANG = {"la": "la", "en-US": "en", "pt-BR": "pt"}
 
 # ── Row classification ──────────────────────────────────────────────────
 
@@ -582,6 +586,7 @@ SMALL_WORDS = {
     "a", "an", "and", "of", "the", "to", "in", "on", "for", "with", "against", "from", "by",
     "e", "o", "os", "as", "de", "da", "do", "das", "dos", "em", "ao", "aos", "à", "às", "contra", "para", "com", "por", "sobre", "na", "no",
     "et", "ad", "cum", "ex", "seu", "vel", "pro", "qui", "quae", "quod",
+    "y", "el", "la", "los", "las", "del", "al", "en", "con", "sobre",
 }
 ROMAN_RE = re.compile(r"^[IVXLCDM]+[.,:;]?$")
 
@@ -716,7 +721,7 @@ def render_unit(unit: Unit, doc: list[str], kinds, title: str, notes: list[str])
 
 # ── Books ───────────────────────────────────────────────────────────────
 
-BOOK_WORD = {"la": "Liber", "en-US": "Book", "pt-BR": "Livro"}
+BOOK_WORD = {"la": "Liber", "en-US": "Book", "pt-BR": "Livro", "es-419": "Libro"}
 ROMAN = [(1000, "M"), (900, "CM"), (500, "D"), (400, "CD"), (100, "C"), (90, "XC"), (50, "L"), (40, "XL"), (10, "X"), (9, "IX"), (5, "V"), (4, "IV"), (1, "I")]
 
 
@@ -728,10 +733,45 @@ def roman(n: int) -> str:
     return out
 
 
+NOTE_RE = re.compile(r"\s*\[nota\b")
+
+
+def clean_spanish(html_: str) -> str:
+    """The Spanish carries its translators' notes inline, in brackets.
+    `[nota 3: Censorino, Sobre el día natal 10.3]` is a reference, often one
+    restored from the digital Latin edition, and becomes a footnote;
+    `[nota de referencia: …]`, `[nota textual: …]`, `[nota de fuente: …]` and
+    the like record how the translation was made and are dropped. Brackets
+    nest (`12 [13]`), so each note runs to its matching bracket."""
+    out, pos = [], 0
+    for m in NOTE_RE.finditer(html_):
+        if m.start() < pos:
+            continue
+        depth, j = 0, html_.index("[", m.start())
+        for j in range(j, len(html_)):
+            depth += {"[": 1, "]": -1}.get(html_[j], 0)
+            if depth == 0:
+                break
+        body = html_[html_.index("[", m.start()) + 1 : j]
+        out.append(html_[pos : m.start()])
+        pos = j + 1
+        before = "".join(out)
+        in_note = before.count("<fn>") > before.count("</fn>")
+        numbered = re.match(r"nota \d+:\s*(.*)", body, re.S)
+        if numbered and not in_note:
+            out.append(f"<fn>{numbered.group(1).strip()}</fn>")
+    out.append(html_[pos:])
+    return "".join(out)
+
+
 def load_work(abbr: str, series: bool):
+    """The work's style string, its documents keyed by rendition (in
+    RENDITIONS order) and the row kinds read off the English."""
     w = work_by_abbr(abbr)
     styles, _ = structure(w["wid"])
-    docs = {lang: cells(w["dids"][lang], len(styles)) for lang in LANGS}
+    docs = {lang: cells(w["dids"][lang], len(styles)) for lang in RENDITIONS if lang in w["dids"]}
+    if "es-419" in docs:
+        docs["es-419"] = [clean_spanish(h) for h in docs["es-419"]]
     kinds = classify(styles, docs["en-US"], series)
     return w, styles, docs, kinds
 
@@ -747,19 +787,28 @@ def work_units(abbr: str, series: bool):
             for n, start in enumerate(bounds):
                 end = bounds[n + 1] if n + 1 < len(bounds) else len(styles)
                 units.append(Unit(rows=list(range(start, end)), title_rows=[],
-                                  synthetic_title={lang: f"{BOOK_WORD[lang]} {roman(n + 1)}" for lang in LANGS}))
+                                  synthetic_title={lang: f"{BOOK_WORD[base_lang(lang)]} {roman(n + 1)}" for lang in docs}))
             return w, docs, kinds, units
     sizes = [len(plain(h)) for h in docs["en-US"]]
     return w, docs, kinds, split_rows(rows, kinds, sizes)
 
 
+def _localized(d: dict, lang: str) -> str:
+    return d.get(lang) or d.get(base_lang(lang)) or d["en-US"]
+
+
 def unit_title(unit: Unit, docs, kinds, fallback: dict) -> dict:
+    """Title per rendition. A rendition whose own header rows are empty
+    (Pusey sets no chapter titles) takes its language's, then the English."""
     if unit.synthetic_title:
         return unit.synthetic_title
     out = {}
-    for lang in LANGS:
-        t = heading_text(unit.title_rows, docs[lang], kinds, None) if unit.title_rows else ""
-        out[lang] = t or heading_text(unit.title_rows, docs["en-US"], kinds, None) or fallback[lang]
+    for lang in docs:
+        for source in (lang, base_lang(lang), "en-US"):
+            t = heading_text(unit.title_rows, docs[source], kinds, None) if unit.title_rows else ""
+            if t:
+                break
+        out[lang] = t or _localized(fallback, lang)
     return out
 
 
@@ -770,35 +819,75 @@ def toc_label(md_title: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(t)).strip()
 
 
-def emit_units(units: list[Unit], docs, kinds, out_dir: Path, prefix: str, book_title: dict, used: set) -> list[dict]:
+def _has_text(unit: Unit, doc: list[str], kinds) -> bool:
+    return any(plain(doc[r]) for r in unit.rows if kinds[r][0] in ("body", "quote", "list"))
+
+
+def emit_units(units: list[Unit], docs, kinds, out_dir: Path, prefix: str, book_title: dict, used: set, written: set) -> list[dict]:
     toc = []
     for n, unit in enumerate(units, 1):
         node_id = f"{prefix}ch{n:03d}" if not unit.children else f"{prefix}p{n:02d}"
         title = unit_title(unit, docs, kinds, book_title)
         # Two expositions of one psalm share a heading; number them.
-        for lang in LANGS:
+        for lang in docs:
             base, k = title[lang], 2
             while (lang, title[lang]) in used:
                 title[lang] = f"{base} ({k})"
                 k += 1
             used.add((lang, title[lang]))
-        node = {"id": node_id, "title": {lang: toc_label(title[lang]) for lang in LANGS}}
+        labels = {lang: toc_label(title[lang]) for lang in docs}
+        # A second translation's label is stored only where it differs from
+        # its language's, which the reader falls back to.
+        node = {"id": node_id, "title": {
+            lang: t for lang, t in labels.items() if lang == base_lang(lang) or t != labels.get(base_lang(lang))
+        }}
         if unit.children:
-            node["children"] = emit_units(unit.children, docs, kinds, out_dir, f"{node_id}-", title, used)
+            node["children"] = emit_units(unit.children, docs, kinds, out_dir, f"{node_id}-", title, used, written)
         else:
-            for lang in LANGS:
+            for lang in docs:
+                # Some translations cover only part of a work (Pilkington has
+                # no Revisions chapter); they get no page there.
+                if not _has_text(unit, docs[lang], kinds):
+                    continue
                 notes: list[str] = []
                 md = render_unit(unit, docs[lang], kinds, title[lang], notes)
                 (out_dir / lang).mkdir(parents=True, exist_ok=True)
                 (out_dir / lang / f"{node_id}.md").write_text(md, encoding="utf-8")
+                written.add(lang)
         toc.append(node)
     return toc
 
 
-def write_book(out_dir: Path, book_id: str, names: dict, sources: list[dict], toc: list[dict]) -> None:
+def _source(lang: str, abbr: str) -> dict:
+    _, label, note, site = RENDITIONS[lang]
+    entry = {"language": lang, "url": f"{BASE}/{site}/{site}/~{abbr}", "description": note}
+    return {**entry, "label": label} if label else entry
+
+
+def write_book(out_dir: Path, book_id: str, names: dict, langs: list[str], sources: list[dict], toc: list[dict]) -> None:
+    """Write book.json. What is not this importer's — descriptions, dates,
+    and translations from elsewhere merged into the book (their language
+    directories, `languages`/`sources` entries and TOC labels) — is kept."""
     meta_path = out_dir / "book.json"
-    # Descriptions and dates are written by hand; keep them across rebuilds.
     old = json.loads(meta_path.read_text()) if meta_path.is_file() else {}
+    foreign_langs = [lang for lang in old.get("languages", []) if lang not in RENDITIONS]
+    foreign_sources = [src for src in old.get("sources", []) if src["language"] not in RENDITIONS]
+    old_titles: dict[str, dict] = {}
+
+    def index(nodes):
+        for node in nodes:
+            old_titles[node["id"]] = node["title"]
+            index(node.get("children") or [])
+
+    def merge(nodes):
+        for node in nodes:
+            for lang, t in old_titles.get(node["id"], {}).items():
+                if lang not in RENDITIONS:
+                    node["title"][lang] = t
+            merge(node.get("children") or [])
+
+    index(old.get("toc", []))
+    merge(toc)
     meta = {
         "id": book_id,
         "cover": "label",
@@ -806,55 +895,54 @@ def write_book(out_dir: Path, book_id: str, names: dict, sources: list[dict], to
         "author": AUTHOR,
         **({"description": old["description"]} if "description" in old else {}),
         **({"composed": old["composed"]} if "composed" in old else {}),
-        "languages": list(LANGS),
-        "sources": sources,
+        "languages": langs + foreign_langs,
+        "sources": sources + foreign_sources,
         "toc": toc,
     }
     meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def _reset(out_dir: Path) -> None:
-    for lang in LANGS:
+    for lang in RENDITIONS:
         d = out_dir / lang
         if d.is_dir():
             for f in d.glob("*.md"):
                 f.unlink()
 
 
-def _sources(abbr: str) -> list[dict]:
-    return [{"language": lang, "url": f"{BASE}/{SITE_LANG[lang]}/{SITE_LANG[lang]}/~{abbr}", "description": SOURCE_NOTES[lang]} for lang in LANGS]
-
-
 def build_work(abbr: str) -> None:
-    slug, la, en, pt = WORKS[abbr]
+    slug, la, en, pt, es = WORKS[abbr]
     w = work_by_abbr(abbr)
     out_dir = BOOKS_ROOT / CATEGORIES[w["category"]][0] / slug
     print(f"{abbr:10} → {out_dir.relative_to(ROOT)}")
     _, docs, kinds, units = work_units(abbr, series=False)
-    names = {"la": la, "en-US": en, "pt-BR": pt}
+    names = {"la": la, "en-US": en, "pt-BR": pt, "es-419": es}
     _reset(out_dir)
-    toc = emit_units(units, docs, kinds, out_dir, "", names, set())
-    write_book(out_dir, f"augustine-{slug}", names, _sources(abbr), toc)
+    written: set[str] = set()
+    toc = emit_units(units, docs, kinds, out_dir, "", names, set(), written)
+    langs = [lang for lang in docs if lang in written]
+    write_book(out_dir, f"augustine-{slug}", names, langs, [_source(lang, abbr) for lang in langs], toc)
 
 
 def build_series(series_id: str) -> None:
-    category, la, en, pt, volumes = SERIES[series_id]
+    category, la, en, pt, es, volumes = SERIES[series_id]
     out_dir = BOOKS_ROOT / CATEGORIES[category][0]
     print(f"{series_id:10} → {out_dir.relative_to(ROOT)}")
     _reset(out_dir)
-    toc, used = [], set()
-    for n, (abbr, vla, ven, vpt) in enumerate(volumes, 1):
+    toc, used, written = [], set(), set()
+    for n, (abbr, vla, ven, vpt, ves) in enumerate(volumes, 1):
         _, docs, kinds, units = work_units(abbr, series=True)
-        vtitle = {"la": vla, "en-US": ven, "pt-BR": vpt}
+        vtitle = {"la": vla, "en-US": ven, "pt-BR": vpt, "es-419": ves}
         prefix = f"v{n:02d}-"
         toc.append({"id": f"v{n:02d}", "title": vtitle,
-                    "children": emit_units(units, docs, kinds, out_dir, prefix, vtitle, used)})
-    sources = [{"language": lang, "url": f"{BASE}/{SITE_LANG[lang]}/{SITE_LANG[lang]}/~{volumes[0][0]}", "description": SOURCE_NOTES[lang]} for lang in LANGS]
-    write_book(out_dir, f"augustine-{series_id}", {"la": la, "en-US": en, "pt-BR": pt}, sources, toc)
+                    "children": emit_units(units, docs, kinds, out_dir, prefix, vtitle, used, written)})
+    langs = [lang for lang in RENDITIONS if lang in written]
+    names = {"la": la, "en-US": en, "pt-BR": pt, "es-419": es}
+    write_book(out_dir, f"augustine-{series_id}", names, langs, [_source(lang, volumes[0][0]) for lang in langs], toc)
 
 
 def build(targets: list[str]) -> None:
-    series_of = {abbr: sid for sid, s in SERIES.items() for abbr, *_ in s[4]}
+    series_of = {abbr: sid for sid, s in SERIES.items() for abbr, *_ in s[5]}
     if not targets:
         targets = list(WORKS) + list(SERIES)
     for t in targets:

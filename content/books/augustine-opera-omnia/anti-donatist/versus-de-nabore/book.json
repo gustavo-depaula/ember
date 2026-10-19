@@ -4,12 +4,14 @@
   "name": {
     "la": "Versus de Nabore",
     "en-US": "Verses on Nabor",
-    "pt-BR": "Versos sobre Nabor"
+    "pt-BR": "Versos sobre Nabor",
+    "es-419": "Versos sobre Nabor"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "An acrostic epitaph for Nabor, a former Donatist killed by Donatists after his conversion, honoring him as a true martyr for the peace of the Church; the first letters of the lines spell a title of honor.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~VersNabor",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~VersNabor",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~VersNabor",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Versus de Nabore",
         "en-US": "Verses on Nabor",
-        "pt-BR": "Versos sobre Nabor"
+        "pt-BR": "Versos sobre Nabor",
+        "es-419": "Versos sobre Nabor"
       }
     }
   ]

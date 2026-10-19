@@ -4,12 +4,14 @@
   "name": {
     "la": "De octo quaestionibus ex Veteri Testamento",
     "en-US": "Eight Questions from the Old Testament",
-    "pt-BR": "As oito questões do Antigo Testamento"
+    "pt-BR": "As oito questões do Antigo Testamento",
+    "es-419": "Las ocho cuestiones del Antiguo Testamento"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Short notes on Old Testament sayings from Proverbs, Ecclesiasticus and Deuteronomy, including the levirate law and the command not to boil a kid in its mother's milk, preceded by brief reflections on sin, the Word and the will.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~8QsOT",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~8QsOT",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~8QsOT",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De octo quaestionibus ex Veteri Testamento",
         "en-US": "Eight Questions from the Old Testament",
-        "pt-BR": "As oito questões do Antigo Testamento"
+        "pt-BR": "As oito questões do Antigo Testamento",
+        "es-419": "Las ocho cuestiones del Antiguo Testamento"
       }
     }
   ]

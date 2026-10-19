@@ -4,12 +4,14 @@
   "name": {
     "la": "De divinatione daemonum",
     "en-US": "Demonic Divination",
-    "pt-BR": "A adivinhação dos demônios"
+    "pt-BR": "A adivinhação dos demônios",
+    "es-419": "La adivinación de los demonios"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A short book arising from a discussion during the Octave: God's permitting pagan rites does not make them good, and demons foretell things through the keen senses of their aerial bodies and long experience, which sets them no higher than good human beings.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deDivin",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deDivin",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deDivin",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     }
   ]

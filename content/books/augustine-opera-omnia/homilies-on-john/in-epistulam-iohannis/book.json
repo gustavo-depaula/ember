@@ -4,12 +4,14 @@
   "name": {
     "la": "In Epistulam Iohannis ad Parthos tractatus",
     "en-US": "Homilies on the First Epistle of John",
-    "pt-BR": "Homilias sobre a Primeira Carta de João"
+    "pt-BR": "Homilias sobre a Primeira Carta de João",
+    "es-419": "Homilías sobre la Primera Carta de Juan"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Ten homilies on the First Letter of John, preached over a week of feast days that interrupted Augustine's series on John's Gospel. Their constant theme is love: \"He said much, and nearly everything about love.\"",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~EpJohn",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~EpJohn",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~EpJohn",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Prologus",
         "en-US": "Prologue",
-        "pt-BR": "Prólogo"
+        "pt-BR": "Prólogo",
+        "es-419": "Prólogo"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Tractatus I: Quod erat ab initio",
         "en-US": "Homily 1: That which was from the beginning",
-        "pt-BR": "Homilia 1: O que era desde o princípio"
+        "pt-BR": "Homilia 1: O que era desde o princípio",
+        "es-419": "Tratado I: Lo que era desde el principio"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Tractatus II: Scribo vobis, filioli",
         "en-US": "Homily 2: I write to you, little children",
-        "pt-BR": "Homilia 2: Escrevo a vocês, filhinhos"
+        "pt-BR": "Homilia 2: Escrevo a vocês, filhinhos",
+        "es-419": "Tratado II: Os escribo, hijitos"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Tractatus III: Pueri, novissima hora est",
         "en-US": "Homily 3: Children, it is the last hour",
-        "pt-BR": "Homilia 3: Meninos, é a última hora"
+        "pt-BR": "Homilia 3: Meninos, é a última hora",
+        "es-419": "Tratado III: Niños, es la última hora"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Tractatus IV: Et verax est",
         "en-US": "Homily 4: And it is true",
-        "pt-BR": "Homilia 4: E é verdadeira"
+        "pt-BR": "Homilia 4: E é verdadeira",
+        "es-419": "Tratado IV: Y es verdadera"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "Tractatus V: Qui natus est ex Deo",
         "en-US": "Homily 5: He who is born of God",
-        "pt-BR": "Homilia 5: Aquele que nasceu de Deus"
+        "pt-BR": "Homilia 5: Aquele que nasceu de Deus",
+        "es-419": "Tratado V: Quien ha nacido de Dios"
       }
     },
     {
@@ -92,7 +109,8 @@
       "title": {
         "la": "Tractatus VI: Filioli, non diligamus",
         "en-US": "Homily 6: Little children, let us not love",
-        "pt-BR": "Homilia 6: Filhinhos, não amemos"
+        "pt-BR": "Homilia 6: Filhinhos, não amemos",
+        "es-419": "Tratado VI: Hijitos, no amemos"
       }
     },
     {
@@ -100,7 +118,8 @@
       "title": {
         "la": "Tractatus VII: Iam vos ex Deo estis",
         "en-US": "Tractate 7: Now you are from God",
-        "pt-BR": "Homilia 7: Já vós sois de Deus"
+        "pt-BR": "Homilia 7: Já vós sois de Deus",
+        "es-419": "Tratado VII: Ya vosotros sois de Dios"
       }
     },
     {
@@ -108,7 +127,8 @@
       "title": {
         "la": "Tractatus VIII: Deum nemo vidit",
         "en-US": "Tractate 8: No one has seen God",
-        "pt-BR": "Tratado 8: Ninguém jamais viu a Deus"
+        "pt-BR": "Tratado 8: Ninguém jamais viu a Deus",
+        "es-419": "Tratado VIII: Nadie ha visto a Dios"
       }
     },
     {
@@ -116,7 +136,8 @@
       "title": {
         "la": "Tractatus IX: In hoc perfecta est dilectio",
         "en-US": "Tractate 9: In this love has been perfected",
-        "pt-BR": "Tratado 9: Nisto o amor é perfeito"
+        "pt-BR": "Tratado 9: Nisto o amor é perfeito",
+        "es-419": "Tratado IX: En esto el amor ha llegado a su perfección"
       }
     },
     {
@@ -124,7 +145,8 @@
       "title": {
         "la": "Tractatus X: Omnis qui credit",
         "en-US": "Tractate 10: Everyone who believes",
-        "pt-BR": "Tratado 10: Todo aquele que crê"
+        "pt-BR": "Tratado 10: Todo aquele que crê",
+        "es-419": "Tratado X: Todo el que cree"
       }
     }
   ]

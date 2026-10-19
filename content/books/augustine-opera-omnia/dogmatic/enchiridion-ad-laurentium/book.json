@@ -4,12 +4,14 @@
   "name": {
     "la": "Enchiridion de fide, spe et caritate",
     "en-US": "Enchiridion on Faith, Hope, and Charity",
-    "pt-BR": "Enquirídio sobre a fé, a esperança e a caridade"
+    "pt-BR": "Enquirídio sobre a fé, a esperança e a caridade",
+    "es-419": "Enquiridión sobre la fe, la esperanza y la caridad"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A short handbook written at the request of Laurentius, who wanted a book of Augustine's never to leave his hands. It sets out how God is to be worshiped through faith, hope and charity, following the Creed and the Lord's Prayer.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Ench",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Ench",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Ench",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     }
   ]

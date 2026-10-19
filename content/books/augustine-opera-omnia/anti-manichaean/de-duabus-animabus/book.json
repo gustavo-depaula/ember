@@ -4,12 +4,14 @@
   "name": {
     "la": "De duabus animabus",
     "en-US": "The Two Souls",
-    "pt-BR": "As duas almas"
+    "pt-BR": "As duas almas",
+    "es-419": "Las dos almas"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Written while Augustine was a priest, against the Manichean teaching that each person has two souls, a good one from God and an evil one from the race of darkness. He argues that every life comes from God and that sin lies only in the will.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~TwoSouls",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~TwoSouls",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~TwoSouls",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes I",
         "en-US": "Revisions I",
-        "pt-BR": "Revisões I"
+        "pt-BR": "Revisões I",
+        "es-419": "Revisiones I"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     }
   ]

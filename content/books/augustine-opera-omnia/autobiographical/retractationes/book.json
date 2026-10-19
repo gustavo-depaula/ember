@@ -4,12 +4,14 @@
   "name": {
     "la": "Retractationes",
     "en-US": "Revisions",
-    "pt-BR": "Revisões"
+    "pt-BR": "Revisões",
+    "es-419": "Revisiones"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Augustine's review, late in life, of his own works in two books, taken in order of composition: for each he notes the occasion and purpose and corrects, as with a censor's pen, whatever now displeased him.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Rev",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Rev",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Rev",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Prologus",
         "en-US": "Prologue",
-        "pt-BR": "Prólogo"
+        "pt-BR": "Prólogo",
+        "es-419": "Prólogo"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber II",
         "en-US": "Book II",
-        "pt-BR": "Livro II"
+        "pt-BR": "Livro II",
+        "es-419": "Libro II"
       }
     }
   ]

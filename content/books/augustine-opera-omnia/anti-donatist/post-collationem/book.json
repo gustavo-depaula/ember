@@ -4,12 +4,14 @@
   "name": {
     "la": "Post collationem contra Donatistas",
     "en-US": "To the Donatists after the Conference",
-    "pt-BR": "Aos donatistas depois da conferência"
+    "pt-BR": "Aos donatistas depois da conferência",
+    "es-419": "A los donatistas después de la conferencia"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Addressed to the Donatist laity after the Conference of Carthage, answering their bishops' claim that the judge had been bribed and showing from the proceedings that the Donatist case had been defeated.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~PostColl",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~PostColl",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~PostColl",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Post collationem contra Donatistas",
         "en-US": "To the Donatists after the Conference",
-        "pt-BR": "Aos donatistas depois da conferência"
+        "pt-BR": "Aos donatistas depois da conferência",
+        "es-419": "A los donatistas después de la conferencia"
       }
     }
   ]

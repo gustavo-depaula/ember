@@ -4,12 +4,14 @@
   "name": {
     "la": "Contra Priscillianistas et Origenistas",
     "en-US": "A Refutation of the Priscillianists and Origenists",
-    "pt-BR": "Contra os priscilianistas e os origenistas"
+    "pt-BR": "Contra os priscilianistas e os origenistas",
+    "es-419": "Contra los priscilianistas y los origenistas"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A brief reply to the Spanish presbyter Orosius on the errors of the Priscillianists and on opinions of Origen that the Catholic faith rejects. Orosius's own inquiry is placed at the head of Augustine's answer.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~PrisOrig",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~PrisOrig",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~PrisOrig",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Consultatio Orosii ad Augustinum: De errore Priscillianistarum et Origenistarum",
         "en-US": "The Inquiry of Orosius to Augustine: On the Error of the Priscillianists and Origenists",
-        "pt-BR": "Consulta de Orósio a Agostinho: Sobre o erro dos priscilianistas e dos origenistas"
+        "pt-BR": "Consulta de Orósio a Agostinho: Sobre o erro dos priscilianistas e dos origenistas",
+        "es-419": "Consulta o advertencia de Orosio a Agustín: Sobre el error de los priscilianistas y los origenistas"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Ad Orosium: Contra Priscillianistas et Origenistas",
         "en-US": "To Orosius: A Refutation of the Priscillianists and Origenists",
-        "pt-BR": "A Orósio: Contra os priscilianistas e os origenistas"
+        "pt-BR": "A Orósio: Contra os priscilianistas e os origenistas",
+        "es-419": "A Orosio: Contra los priscilianistas y los origenistas"
       }
     }
   ]

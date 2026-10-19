@@ -4,12 +4,14 @@
   "name": {
     "la": "De opere monachorum",
     "en-US": "The Work of Monks",
-    "pt-BR": "O trabalho dos monges"
+    "pt-BR": "O trabalho dos monges",
+    "es-419": "El trabajo de los monjes"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Written at the bidding of Aurelius about monks who refused manual labor, pleading the Gospel’s birds of the air and lilies of the field. From Paul’s “If anyone will not work, let him not eat” Augustine argues that monks should work with their hands, and rebukes those who let their hair grow long.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~DeOpMon",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~DeOpMon",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~DeOpMon",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De opere monachorum",
         "en-US": "The Work of Monks",
-        "pt-BR": "O trabalho dos monges"
+        "pt-BR": "O trabalho dos monges",
+        "es-419": "El trabajo de los monjes"
       }
     }
   ]

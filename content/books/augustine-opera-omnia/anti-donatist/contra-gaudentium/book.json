@@ -4,12 +4,14 @@
   "name": {
     "la": "Contra Gaudentium Donatistarum episcopum",
     "en-US": "Answer to Gaudentius, a Donatist Bishop",
-    "pt-BR": "Contra Gaudêncio, bispo donatista"
+    "pt-BR": "Contra Gaudêncio, bispo donatista",
+    "es-419": "Contra Gaudencio, obispo donatista"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Two books answering Gaudentius, Donatist bishop of Thamugadi, who threatened to burn himself in his church rather than accept unity. Book I refutes his two letters to the tribune Dulcitius; Book II replies to his answer to Augustine.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Gaudentium",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Gaudentium",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Gaudentium",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber II",
         "en-US": "Book II",
-        "pt-BR": "Livro II"
+        "pt-BR": "Livro II",
+        "es-419": "Libro II"
       }
     }
   ]

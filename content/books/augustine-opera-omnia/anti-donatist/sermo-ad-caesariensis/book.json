@@ -4,12 +4,14 @@
   "name": {
     "la": "Sermo ad Caesariensis Ecclesiae plebem",
     "en-US": "Sermon to the People of the Church of Caesarea",
-    "pt-BR": "Sermão ao povo da Igreja de Cesareia"
+    "pt-BR": "Sermão ao povo da Igreja de Cesareia",
+    "es-419": "Sermón al pueblo de la Iglesia de Cesarea"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Sermon preached to the people of the Church of Caesarea in the presence of the Donatist bishop Emeritus, taking his words \"I cannot refuse to will what you will, but I can will what I will\" as a call to unity.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Caesar",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Caesar",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Caesar",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Sermo ad Caesariensis Ecclesiae plebem",
         "en-US": "Sermon to the People of the Church of Caesarea",
-        "pt-BR": "Sermão ao povo da Igreja de Cesareia"
+        "pt-BR": "Sermão ao povo da Igreja de Cesareia",
+        "es-419": "Sermón al pueblo de la Iglesia de Cesarea"
       }
     }
   ]

@@ -4,12 +4,14 @@
   "name": {
     "la": "Breviculus collationis cum Donatistis",
     "en-US": "A Summary of the Meeting with the Donatists",
-    "pt-BR": "Resumo da conferência com os donatistas"
+    "pt-BR": "Resumo da conferência com os donatistas",
+    "es-419": "Resumen de la conferencia con los donatistas"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Augustine's numbered abridgment of the very long record of the conference between Catholic and Donatist bishops held at Carthage by imperial order before the tribune Marcellinus, made so that readers could find any point in the proceedings.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Brev",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Brev",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Brev",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Breviculus collationis cum Donatistis",
         "en-US": "A Summary of the Meeting with the Donatists",
-        "pt-BR": "Resumo da conferência com os donatistas"
+        "pt-BR": "Resumo da conferência com os donatistas",
+        "es-419": "Resumen de la conferencia con los donatistas"
       }
     }
   ]

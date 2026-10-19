@@ -4,12 +4,14 @@
   "name": {
     "la": "Contra secundam Iuliani responsionem opus imperfectum",
     "en-US": "Unfinished Work in Answer to Julian",
-    "pt-BR": "Obra inacabada contra Juliano"
+    "pt-BR": "Obra inacabada contra Juliano",
+    "es-419": "Obra inconclusa contra Juliano"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A point-by-point reply to Julian's eight books against the second book of *Marriage and Desire*, quoting Julian's words and answering each in turn. It was left unfinished after six books.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~JulianImp",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~JulianImp",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~JulianImp",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Praefatio",
         "en-US": "Preface",
-        "pt-BR": "Prefácio"
+        "pt-BR": "Prefácio",
+        "es-419": "Prefacio"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber Primus",
         "en-US": "Book One",
-        "pt-BR": "Livro Primeiro"
+        "pt-BR": "Livro Primeiro",
+        "es-419": "Libro primero"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber Secundus",
         "en-US": "Book Two",
-        "pt-BR": "Livro Segundo"
+        "pt-BR": "Livro Segundo",
+        "es-419": "Libro segundo"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Liber Tertius",
         "en-US": "Book Three",
-        "pt-BR": "Livro Terceiro"
+        "pt-BR": "Livro Terceiro",
+        "es-419": "Libro tercero"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Liber Quartus",
         "en-US": "Book Four",
-        "pt-BR": "Livro Quarto"
+        "pt-BR": "Livro Quarto",
+        "es-419": "Libro cuarto"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "Liber Quintus",
         "en-US": "Book Five",
-        "pt-BR": "Livro Quinto"
+        "pt-BR": "Livro Quinto",
+        "es-419": "Libro quinto"
       }
     },
     {
@@ -92,7 +109,8 @@
       "title": {
         "la": "Liber Sextus",
         "en-US": "Book Six",
-        "pt-BR": "Livro Sexto"
+        "pt-BR": "Livro Sexto",
+        "es-419": "Libro sexto"
       }
     }
   ]

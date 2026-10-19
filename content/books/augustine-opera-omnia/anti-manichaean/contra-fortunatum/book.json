@@ -4,12 +4,14 @@
   "name": {
     "la": "Acta seu disputatio contra Fortunatum Manichaeum",
     "en-US": "A Debate with Fortunatus, a Manichean",
-    "pt-BR": "Debate com Fortunato, o maniqueu"
+    "pt-BR": "Debate com Fortunato, o maniqueu",
+    "es-419": "Debate con Fortunato, el maniqueo"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Stenographic record of Augustine's two-day public debate as a priest at Hippo with Fortunatus, a Manichean priest. Augustine argues that evil arises from the free choice of the will, against the claim that a nature of evil is coeternal with God.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~DebateFort",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~DebateFort",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~DebateFort",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes I",
         "en-US": "Revisions I",
-        "pt-BR": "Revisões I"
+        "pt-BR": "Revisões I",
+        "es-419": "Revisiones I"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     }
   ]

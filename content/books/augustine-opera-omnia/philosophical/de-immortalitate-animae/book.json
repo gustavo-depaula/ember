@@ -4,12 +4,14 @@
   "name": {
     "la": "De immortalitate animae",
     "en-US": "On the Immortality of the Soul",
-    "pt-BR": "A imortalidade da alma"
+    "pt-BR": "A imortalidade da alma",
+    "es-419": "La inmortalidad del alma"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A terse chain of arguments that the mind is immortal: the unchangeable disciplines and truth it holds cannot exist in what perishes, and so the mind in which they exist must live forever.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deImm",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deImm",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deImm",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De immortalitate animae",
         "en-US": "On the Immortality of the Soul",
-        "pt-BR": "A imortalidade da alma"
+        "pt-BR": "A imortalidade da alma",
+        "es-419": "La inmortalidad del alma"
       }
     }
   ]

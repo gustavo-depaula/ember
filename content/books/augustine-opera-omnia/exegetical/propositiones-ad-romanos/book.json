@@ -4,12 +4,14 @@
   "name": {
     "la": "Expositio quarumdam propositionum ex Epistola ad Romanos",
     "en-US": "Commentary on Statements in the Letter to the Romans",
-    "pt-BR": "Exposição de algumas proposições da Carta aos Romanos"
+    "pt-BR": "Exposição de algumas proposições da Carta aos Romanos",
+    "es-419": "Exposición de algunas proposiciones de la Epístola a los Romanos"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Brief explanations of selected statements in Paul's Letter to the Romans, taken in order through the letter, whose question Augustine names at the start as that of the works of the Law and grace.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~PropRom",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~PropRom",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~PropRom",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Expositio quarumdam propositionum ex Epistola ad Romanos",
         "en-US": "Commentary on Statements in the Letter to the Romans",
-        "pt-BR": "Exposição de algumas proposições da Carta aos Romanos"
+        "pt-BR": "Exposição de algumas proposições da Carta aos Romanos",
+        "es-419": "Exposición de algunas proposiciones de la Epístola a los Romanos"
       }
     }
   ]

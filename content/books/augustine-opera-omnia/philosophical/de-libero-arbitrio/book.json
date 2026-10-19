@@ -4,12 +4,14 @@
   "name": {
     "la": "De libero arbitrio",
     "en-US": "On Free Will",
-    "pt-BR": "O livre-arbítrio"
+    "pt-BR": "O livre-arbítrio",
+    "es-419": "El libre albedrío"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Three books of dialogue with Evodius, opening with the question whether God is the author of evil. Evil is traced to the free choice of the will, which is itself a good given by God.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deLib",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deLib",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deLib",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber II",
         "en-US": "Book II",
-        "pt-BR": "Livro II"
+        "pt-BR": "Livro II",
+        "es-419": "Libro II"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber III",
         "en-US": "Book III",
-        "pt-BR": "Livro III"
+        "pt-BR": "Livro III",
+        "es-419": "Libro III"
       }
     }
   ]

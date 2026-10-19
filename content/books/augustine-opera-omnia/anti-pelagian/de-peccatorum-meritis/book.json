@@ -4,12 +4,14 @@
   "name": {
     "la": "De peccatorum meritis et remissione et de baptismo parvulorum",
     "en-US": "The Punishment and Forgiveness of Sins and the Baptism of Little Ones",
-    "pt-BR": "O castigo e o perdão dos pecados e o batismo das crianças"
+    "pt-BR": "O castigo e o perdão dos pecados e o batismo das crianças",
+    "es-419": "El castigo y el perdón de los pecados y el bautismo de los niños"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Augustine's first writing against the Pelagians, three books to Marcellinus on infant baptism, original sin and the grace that justifies, holding that no one in this life is without need to pray *Forgive us our debts*.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~DPMe",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~DPMe",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~DPMe",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber II",
         "en-US": "Book II",
-        "pt-BR": "Livro II"
+        "pt-BR": "Livro II",
+        "es-419": "Libro II"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Liber III",
         "en-US": "Book III",
-        "pt-BR": "Livro III"
+        "pt-BR": "Livro III",
+        "es-419": "Libro III"
       }
     }
   ]

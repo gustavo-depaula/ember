@@ -4,12 +4,14 @@
   "name": {
     "la": "De Scriptura sacra speculum",
     "en-US": "The Mirror of Sacred Scripture",
-    "pt-BR": "O espelho da Sagrada Escritura"
+    "pt-BR": "O espelho da Sagrada Escritura",
+    "es-419": "El espejo de la Sagrada Escritura"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A \"mirror\" gathering from the canonical books, Old and New Testament, the commands and prohibitions that still bind Christians, so that a believer resolved to obey God can see how far he has advanced and what he still lacks.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Mirror",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Mirror",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Mirror",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Praefatio",
         "en-US": "Preface",
-        "pt-BR": "Prefácio"
+        "pt-BR": "Prefácio",
+        "es-419": "Prólogo"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Haec de Libro Legis, qui Exodus Nominatur",
         "en-US": "These Are from the Book of the Law, Which Is Called Exodus",
-        "pt-BR": "Estas São do Livro da Lei, Que Se Chama Êxodo"
+        "pt-BR": "Estas São do Livro da Lei, Que Se Chama Êxodo",
+        "es-419": "Estos Pasajes Proceden del Libro de la Ley Llamado Éxodo"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "De Levitico",
         "en-US": "From Leviticus",
-        "pt-BR": "Do Levítico"
+        "pt-BR": "Do Levítico",
+        "es-419": "Del Levítico"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "De Numeris",
         "en-US": "From Numbers",
-        "pt-BR": "Dos Números"
+        "pt-BR": "Dos Números",
+        "es-419": "De los Números"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Haec de Numeris invenimus, quae inspicienda putavimus. Deuteronomium deinceps considerabimus.: De Deuteronomio",
         "en-US": "These things we found in Numbers, which we thought worth inspecting. Next we will consider Deuteronomy.: From Deuteronomy",
-        "pt-BR": "Estas coisas encontramos nos Números, que julgamos dignas de exame. A seguir consideraremos o Deuteronômio.: Do Deuteronômio"
+        "pt-BR": "Estas coisas encontramos nos Números, que julgamos dignas de exame. A seguir consideraremos o Deuteronômio.: Do Deuteronômio",
+        "es-419": "Estos son los pasajes que encontramos en Números y consideramos que debían examinarse. A continuación consideraremos el Deuteronomio.: Del Deuteronomio"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "De Iesu Nave",
         "en-US": "From Joshua",
-        "pt-BR": "De Josué"
+        "pt-BR": "De Josué",
+        "es-419": "De Josué"
       }
     },
     {
@@ -92,7 +109,8 @@
       "title": {
         "la": "De Psalmis",
         "en-US": "From the Psalms",
-        "pt-BR": "Dos Salmos"
+        "pt-BR": "Dos Salmos",
+        "es-419": "De los Salmos"
       }
     },
     {
@@ -100,7 +118,8 @@
       "title": {
         "la": "45. 45. [Ps 30]. Confortamini, et roboretur cor vestrum, omnes qui exspectatis Dominum [30, 25].",
         "en-US": "45. 45. [Ps 31 (30)]. Take courage, and let your heart be strengthened, all you who wait for the Lord [31:25 (30:25)].",
-        "pt-BR": "45. 45. [Sl 31 (30)]. Tende ânimo, e fortaleça-se o vosso coração, todos vós que esperais o Senhor [31,25 (30,25)]."
+        "pt-BR": "45. 45. [Sl 31 (30)]. Tende ânimo, e fortaleça-se o vosso coração, todos vós que esperais o Senhor [31,25 (30,25)].",
+        "es-419": "45. 45. [Sal 31 (30)]. Cobren ánimo y fortalézcase su corazón, todos los que esperan al Señor [31,24 (30,25)]."
       }
     },
     {
@@ -108,7 +127,8 @@
       "title": {
         "la": "57. 57. [Ps 63]. Laetabitur iustus in Domino, et sperabit in eo [63, 11].",
         "en-US": "57. 57. [Ps 64 (63)]. The just man shall rejoice in the Lord, and shall hope in him [64:11 (63:11)].",
-        "pt-BR": "57. 57. [Sl 64 (63)]. Alegrar-se-á o justo no Senhor, e nele esperará [64,11 (63,11)]."
+        "pt-BR": "57. 57. [Sl 64 (63)]. Alegrar-se-á o justo no Senhor, e nele esperará [64,11 (63,11)].",
+        "es-419": "57. 57. [Sal 64 (63)]. El justo se alegrará en el Señor y esperará en él [64,10 (63,11)]."
       }
     },
     {
@@ -116,7 +136,8 @@
       "title": {
         "la": "65. 65. [Ps 91]. Bonum est confiteri Domino, et psallere nomini tuo, Altissime [91, 2].",
         "en-US": "65. 65. [Ps 92 (91)]. It is good to give praise to the Lord, and to sing to your name, O Most High [92:2 (91:2)].",
-        "pt-BR": "65. 65. [Sl 92 (91)]. Bom é louvar o Senhor, e salmodiar ao teu nome, ó Altíssimo [92,2 (91,2)]."
+        "pt-BR": "65. 65. [Sl 92 (91)]. Bom é louvar o Senhor, e salmodiar ao teu nome, ó Altíssimo [92,2 (91,2)].",
+        "es-419": "65. 65. [Sal 92 (91)]. Bueno es alabar al Señor y cantar a tu nombre, Altísimo [92,1 (91,2)]."
       }
     },
     {
@@ -124,7 +145,8 @@
       "title": {
         "la": "70. 70. [Ps 97]. Iubilate Domino, omnis terra; vociferamini, et laudate, et canite [97, 4].: 71. 71. [Ps 98]. Exaltate Dominum Deum nostrum, et adorate scabellum pedum eius, quia sanctus est [98, 5].",
         "en-US": "70. 70. [Ps 98 (97)]. Shout with joy to the Lord, all the earth; cry aloud, and rejoice, and sing [98:4 (97:4)].: 71. 71. [Ps 99 (98)]. Exalt the Lord our God, and adore his footstool, for it is holy [99:5 (98:5)].",
-        "pt-BR": "70. 70. [Sl 98 (97)]. Jubilai ao Senhor, toda a terra; clamai, e louvai, e cantai [98,4 (97,4)].: 71. 71. [Sl 99 (98)]. Exaltai o Senhor nosso Deus, e adorai o escabelo dos seus pés, porque é santo [99,5 (98,5)]."
+        "pt-BR": "70. 70. [Sl 98 (97)]. Jubilai ao Senhor, toda a terra; clamai, e louvai, e cantai [98,4 (97,4)].: 71. 71. [Sl 99 (98)]. Exaltai o Senhor nosso Deus, e adorai o escabelo dos seus pés, porque é santo [99,5 (98,5)].",
+        "es-419": "70. 70. [Sal 98 (97)]. Aclame al Señor toda la tierra; griten, alaben y canten [98,4 (97,4)].: 71. 71. [Sal 99 (98)]. Exalten al Señor nuestro Dios y adoren el estrado de sus pies, porque él es santo [99,5 (98,5)]."
       }
     },
     {
@@ -132,7 +154,8 @@
       "title": {
         "la": "82. 82. [Ps 116]. Laudate Dominum, omnes gentes; collaudate eum, universi populi [116, 1].",
         "en-US": "82. 82. [Ps 117 (116)]. Praise the Lord, all you nations; praise him together, all you peoples [117:1 (116:1)].",
-        "pt-BR": "82. 82. [Sl 117 (116)]. Louvai o Senhor, todas as gentes; louvai-o juntamente, todos os povos [117,1 (116,1)]."
+        "pt-BR": "82. 82. [Sl 117 (116)]. Louvai o Senhor, todas as gentes; louvai-o juntamente, todos os povos [117,1 (116,1)].",
+        "es-419": "82. 82. [Sal 117 (116)]. Alaben al Señor, todas las naciones; alábenlo juntos, todos los pueblos [117,1 (116,1)]."
       }
     },
     {
@@ -140,7 +163,8 @@
       "title": {
         "la": "85. 85. [Ps 119]. Ego pacifica loquebar, et illi debellabant ea [119, 7].",
         "en-US": "85. 85. [Ps 120 (119)]. I spoke peaceable things, but they made war upon them [120:7 (119:7)].",
-        "pt-BR": "85. 85. [Sl 120 (119)]. Eu falava coisas pacíficas, e eles guerreavam contra elas [120,7 (119,7)]."
+        "pt-BR": "85. 85. [Sl 120 (119)]. Eu falava coisas pacíficas, e eles guerreavam contra elas [120,7 (119,7)].",
+        "es-419": "85. 85. [Sal 120 (119)]. Yo hablaba de paz y ellos combatían mis palabras [120,7 (119,7)]."
       }
     },
     {
@@ -148,7 +172,8 @@
       "title": {
         "la": "89. 89. [Ps 127]. Beatus omnis qui timet Dominum, qui ambulat in viis eius [127, 1].: 90. 90. [Ps 129]. Sustinui Dominum, sustinuit anima mea, et verbum eius exspectavi [129, 4].",
         "en-US": "89. 89. [Ps 128 (127)]. Blessed is everyone who fears the Lord, who walks in his ways [128:1 (127:1)].: 90. 90. [Ps 130 (129)]. I have waited for the Lord, my soul has waited, and in his word I have hoped [130:4 (129:4)].",
-        "pt-BR": "89. 89. [Sl 128 (127)]. Bem-aventurado todo aquele que teme o Senhor, que anda nos seus caminhos [128,1 (127,1)].: 90. 90. [Sl 130 (129)]. Esperei o Senhor, esperou a minha alma, e na sua palavra esperei [130,4 (129,4)]."
+        "pt-BR": "89. 89. [Sl 128 (127)]. Bem-aventurado todo aquele que teme o Senhor, que anda nos seus caminhos [128,1 (127,1)].: 90. 90. [Sl 130 (129)]. Esperei o Senhor, esperou a minha alma, e na sua palavra esperei [130,4 (129,4)].",
+        "es-419": "89. 89. [Sal 128 (127)]. Dichoso todo el que teme al Señor, el que camina por sus sendas [128,1 (127,1)].: 90. 90. [Sal 130 (129)]. Aguardé al Señor, mi alma aguardó y esperé su palabra [130,5 (129,4)]."
       }
     },
     {
@@ -156,7 +181,8 @@
       "title": {
         "la": "92. 92. [Ps 132]. Ecce quam bonum et quam decorum, habitare fratres in unum [132, 1].",
         "en-US": "92. 92. [Ps 133 (132)]. Behold how good and how pleasant it is for brothers to dwell together in unity [133:1 (132:1)].",
-        "pt-BR": "92. 92. [Sl 133 (132)]. Eis quão bom e quão agradável é habitarem os irmãos em unidade [133,1 (132,1)]."
+        "pt-BR": "92. 92. [Sl 133 (132)]. Eis quão bom e quão agradável é habitarem os irmãos em unidade [133,1 (132,1)].",
+        "es-419": "92. 92. [Sal 133 (132)]. ¡Qué bueno y qué hermoso es que los hermanos habiten unidos! [133,1 (132,1)]."
       }
     },
     {
@@ -164,7 +190,8 @@
       "title": {
         "la": "De Proverbiis",
         "en-US": "From Proverbs",
-        "pt-BR": "Dos Provérbios"
+        "pt-BR": "Dos Provérbios",
+        "es-419": "De los Proverbios"
       }
     },
     {
@@ -172,7 +199,8 @@
       "title": {
         "la": "139. 139. [Prov 31]. Et post paululum: Aperi os tuum, discerne quod iustum est, et iudica inopem et pauperem [31, 9].",
         "en-US": "139. 139. [Prov 31]. And after a little: Open your mouth, discern what is just, and judge the needy and the poor [31:9].",
-        "pt-BR": "139. 139. [Pr 31]. E depois de um pouco: Abre a tua boca, discerne o que é justo, e julga o necessitado e o pobre [31,9]."
+        "pt-BR": "139. 139. [Pr 31]. E depois de um pouco: Abre a tua boca, discerne o que é justo, e julga o necessitado e o pobre [31,9].",
+        "es-419": "139. 139. [Pr 31]. Y poco después: Abre tu boca, discierne lo que es justo y haz justicia al indigente y al pobre [31,9]."
       }
     },
     {
@@ -180,7 +208,8 @@
       "title": {
         "la": "Deecclesiaste",
         "en-US": "From Ecclesiastes",
-        "pt-BR": "Do Eclesiastes"
+        "pt-BR": "Do Eclesiastes",
+        "es-419": "Del Eclesiastés"
       }
     },
     {
@@ -188,7 +217,8 @@
       "title": {
         "la": "De Cantico Canticorum",
         "en-US": "From the Song of Songs",
-        "pt-BR": "Do Cântico dos Cânticos"
+        "pt-BR": "Do Cântico dos Cânticos",
+        "es-419": "Del Cantar de los Cantares"
       }
     },
     {
@@ -196,7 +226,8 @@
       "title": {
         "la": "149. 149. [Cant 2]. Legitur etiam in eodem Cantico: Ordinate in me caritatem [2, 4].: 150. 150. [Cant 6]. Christus quoque ipse ibi dicit: Pulchra es, amica mea, suavis et decora sicut Ierusalem [6, 3].: 151. 151. [Cant 7]. Et alibi: Quam pulchra es et quam decora, carissima, in deliciis! [7, 6].",
         "en-US": "149. 149. [Song 2]. It is also read in the same Song: Set love in order within me [2:4].: 150. 150. [Song 6]. Christ himself also says there: You are beautiful, my love, sweet and comely as Jerusalem [6:3].: 151. 151. [Song 7]. And elsewhere: How beautiful you are, and how comely, my dearest, in delights! [7:6].",
-        "pt-BR": "149. 149. [Ct 2]. Lê-se também no mesmo Cântico: Ordenai em mim a caridade [2,4].: 150. 150. [Ct 6]. O próprio Cristo também ali diz: És formosa, amiga minha, suave e formosa como Jerusalém [6,3].: 151. 151. [Ct 7]. E em outra parte: Quão formosa és e quão graciosa, ó caríssima, nas delícias! [7,6]."
+        "pt-BR": "149. 149. [Ct 2]. Lê-se também no mesmo Cântico: Ordenai em mim a caridade [2,4].: 150. 150. [Ct 6]. O próprio Cristo também ali diz: És formosa, amiga minha, suave e formosa como Jerusalém [6,3].: 151. 151. [Ct 7]. E em outra parte: Quão formosa és e quão graciosa, ó caríssima, nas delícias! [7,6].",
+        "es-419": "149. 149. [Ct 2]. También se lee en el mismo Cantar: Ordenen en mí el amor [2,4].: 150. 150. [Ct 6]. También el propio Cristo dice allí: Eres hermosa, amiga mía, dulce y bella como Jerusalén [6,3].: 151. 151. [Ct 7]. Y en otro lugar: ¡Qué hermosa y qué bella eres, amadísima, entre delicias! [7,6]."
       }
     },
     {
@@ -204,7 +235,8 @@
       "title": {
         "la": "De Libro Iob",
         "en-US": "From the Book of Job",
-        "pt-BR": "Do Livro de Jó"
+        "pt-BR": "Do Livro de Jó",
+        "es-419": "Del Libro de Job"
       }
     },
     {
@@ -212,7 +244,8 @@
       "title": {
         "la": "De Libro Osee",
         "en-US": "From the Book of Hosea",
-        "pt-BR": "Do Livro de Oseias"
+        "pt-BR": "Do Livro de Oseias",
+        "es-419": "Del Libro de Oseas"
       }
     },
     {
@@ -220,7 +253,8 @@
       "title": {
         "la": "De Libro Ioel",
         "en-US": "From the Book of Joel",
-        "pt-BR": "Do Livro de Joel"
+        "pt-BR": "Do Livro de Joel",
+        "es-419": "Del Libro de Joel"
       }
     },
     {
@@ -228,7 +262,8 @@
       "title": {
         "la": "De Libro Amos",
         "en-US": "From the Book of Amos",
-        "pt-BR": "Do Livro de Amós"
+        "pt-BR": "Do Livro de Amós",
+        "es-419": "Del Libro de Amós"
       }
     },
     {
@@ -236,7 +271,8 @@
       "title": {
         "la": "De Libro Michaeae",
         "en-US": "From the Book of Micah",
-        "pt-BR": "Do Livro de Miqueias"
+        "pt-BR": "Do Livro de Miqueias",
+        "es-419": "Del Libro de Miqueas"
       }
     },
     {
@@ -244,7 +280,8 @@
       "title": {
         "la": "De Libro Habacuc",
         "en-US": "From the Book of Habakkuk",
-        "pt-BR": "Do Livro de Habacuc"
+        "pt-BR": "Do Livro de Habacuc",
+        "es-419": "Del Libro de Habacuc"
       }
     },
     {
@@ -252,7 +289,8 @@
       "title": {
         "la": "De Libro Sophoniae",
         "en-US": "From the Book of Zephaniah",
-        "pt-BR": "Do Livro de Sofonias"
+        "pt-BR": "Do Livro de Sofonias",
+        "es-419": "Del Libro de Sofonías"
       }
     },
     {
@@ -260,7 +298,8 @@
       "title": {
         "la": "De Libro Zachariae",
         "en-US": "From the Book of Zechariah",
-        "pt-BR": "Do Livro de Zacarias"
+        "pt-BR": "Do Livro de Zacarias",
+        "es-419": "Del Libro de Zacarías"
       }
     },
     {
@@ -268,7 +307,8 @@
       "title": {
         "la": "De Libro Malachiae",
         "en-US": "From the Book of Malachi",
-        "pt-BR": "Do Livro de Malaquias"
+        "pt-BR": "Do Livro de Malaquias",
+        "es-419": "Del Libro de Malaquías"
       }
     },
     {
@@ -276,7 +316,8 @@
       "title": {
         "la": "De Libro Isaiae",
         "en-US": "From the Book of Isaiah",
-        "pt-BR": "Do Livro de Isaías"
+        "pt-BR": "Do Livro de Isaías",
+        "es-419": "Del Libro de Isaías"
       }
     },
     {
@@ -284,7 +325,8 @@
       "title": {
         "la": "De Libro Ieremiae",
         "en-US": "From the Book of Jeremiah",
-        "pt-BR": "Do Livro de Jeremias"
+        "pt-BR": "Do Livro de Jeremias",
+        "es-419": "Del Libro de Jeremías"
       }
     },
     {
@@ -292,7 +334,8 @@
       "title": {
         "la": "211. 211. [Ier 3]. Et paulo post: Convertimini, filii, revertentes, dicit Dominus, quia ego vir vester [3, 14].",
         "en-US": "211. 211. [Jer 3]. And a little later: Return, you backsliding children, says the Lord, for I am your husband [3:14].",
-        "pt-BR": "211. 211. [Jr 3]. E pouco depois: Convertei-vos, filhos, ó desviados, diz o Senhor, porque eu sou o vosso marido [3,14]."
+        "pt-BR": "211. 211. [Jr 3]. E pouco depois: Convertei-vos, filhos, ó desviados, diz o Senhor, porque eu sou o vosso marido [3,14].",
+        "es-419": "211. 211. [Jr 3]. Y poco después: Conviértanse, hijos que regresan, dice el Señor, porque yo soy su esposo [3,14]."
       }
     },
     {
@@ -300,7 +343,8 @@
       "title": {
         "la": "223. 223. [Ier 48]. Et aliquanto post: Maledictus qui facit opus Domini fraudulenter [48, 10].",
         "en-US": "223. 223. [Jer 48]. And somewhat later: Cursed be he who does the work of the Lord fraudulently [48:10].",
-        "pt-BR": "223. 223. [Jr 48]. E um pouco depois: Maldito quem faz a obra do Senhor fraudulentamente [48,10]."
+        "pt-BR": "223. 223. [Jr 48]. E um pouco depois: Maldito quem faz a obra do Senhor fraudulentamente [48,10].",
+        "es-419": "223. 223. [Jr 48]. Y algo después: Maldito quien hace la obra del Señor fraudulentamente [48,10]."
       }
     },
     {
@@ -308,7 +352,8 @@
       "title": {
         "la": "De Libro Ezechielis",
         "en-US": "From the Book of Ezekiel",
-        "pt-BR": "Do Livro de Ezequiel"
+        "pt-BR": "Do Livro de Ezequiel",
+        "es-419": "Del Libro de Ezequiel"
       }
     },
     {
@@ -316,7 +361,8 @@
       "title": {
         "la": "16, 49-50].",
         "en-US": "16:49-50].",
-        "pt-BR": "16,49-50]."
+        "pt-BR": "16,49-50].",
+        "es-419": "16,49–50]."
       }
     },
     {
@@ -324,7 +370,8 @@
       "title": {
         "la": "De Libro Sapientiae",
         "en-US": "From the Book of Wisdom",
-        "pt-BR": "Do Livro da Sabedoria"
+        "pt-BR": "Do Livro da Sabedoria",
+        "es-419": "Del Libro de la Sabiduría"
       }
     },
     {
@@ -332,7 +379,8 @@
       "title": {
         "la": "De Ecclesiastico",
         "en-US": "From Ecclesiasticus",
-        "pt-BR": "Do Eclesiástico"
+        "pt-BR": "Do Eclesiástico",
+        "es-419": "Del Eclesiástico"
       }
     },
     {
@@ -340,7 +388,8 @@
       "title": {
         "la": "De libro Tobiae ista ponenda credidimus.: De Tobiae Libro",
         "en-US": "From the book of Tobit we have judged that these things should be set down.: From the Book of Tobit",
-        "pt-BR": "Do livro de Tobias julgamos que estas coisas se deviam pôr aqui.: Do Livro de Tobias"
+        "pt-BR": "Do livro de Tobias julgamos que estas coisas se deviam pôr aqui.: Do Livro de Tobias",
+        "es-419": "Del libro de Tobías hemos creído que deben presentarse estos pasajes.: Del Libro de Tobías"
       }
     },
     {
@@ -348,7 +397,8 @@
       "title": {
         "la": "De Evangelio Secundum Matthaeum",
         "en-US": "From the Gospel According to Matthew",
-        "pt-BR": "Do Evangelho Segundo Mateus"
+        "pt-BR": "Do Evangelho Segundo Mateus",
+        "es-419": "Del Evangelio Según Mateo"
       }
     },
     {
@@ -356,7 +406,8 @@
       "title": {
         "la": "297. 297. [Mt 26]. Et aliquanto post: Vigilate, et orate, ut non intretis in tentationem [26, 41].: De Evangelio Secundum Marcum",
         "en-US": "297. 297. [Matt 26]. And somewhat later: Keep watch and pray, so that you may not enter into temptation [26:41].: From the Gospel According to Mark",
-        "pt-BR": "297. 297. [Mt 26]. E algum tempo depois: Vigiai, e orai, para que não entreis em tentação [26,41].: Do Evangelho Segundo Marcos"
+        "pt-BR": "297. 297. [Mt 26]. E algum tempo depois: Vigiai, e orai, para que não entreis em tentação [26,41].: Do Evangelho Segundo Marcos",
+        "es-419": "297. 297. [Mt 26]. Y algo después: Velen y oren para no entrar en tentación [26,41].: Del Evangelio Según Marcos"
       }
     },
     {
@@ -364,7 +415,8 @@
       "title": {
         "la": "De Evangelio Secundum Lucam: 305. 305. [Lc 2]. Gloria in altissimis Deo, et in terra pax hominibus bonae voluntatis [2, 14].",
         "en-US": "From the Gospel According to Luke: 305. 305. [Luke 2]. Glory to God in the highest places, and peace on earth to people of good will [2:14].",
-        "pt-BR": "Do Evangelho Segundo Lucas: 305. 305. [Lc 2]. Glória a Deus nas alturas, e paz na terra aos homens de boa vontade [2,14]."
+        "pt-BR": "Do Evangelho Segundo Lucas: 305. 305. [Lc 2]. Glória a Deus nas alturas, e paz na terra aos homens de boa vontade [2,14].",
+        "es-419": "Del Evangelio Según Lucas: 305. 305. [Lc 2]. Gloria a Dios en las alturas y en la tierra paz a los hombres de buena voluntad [2,14]."
       }
     },
     {
@@ -372,7 +424,8 @@
       "title": {
         "la": "De Evangelio Secundum Ioannem",
         "en-US": "From the Gospel According to John",
-        "pt-BR": "Do Evangelho Segundo João"
+        "pt-BR": "Do Evangelho Segundo João",
+        "es-419": "Del Evangelio Según Juan"
       }
     },
     {
@@ -380,7 +433,8 @@
       "title": {
         "la": "De Libro Actuum Apostolorum",
         "en-US": "From the Book of the Acts of the Apostles",
-        "pt-BR": "Do Livro dos Atos dos Apóstolos"
+        "pt-BR": "Do Livro dos Atos dos Apóstolos",
+        "es-419": "Del Libro de los Hechos de los Apóstoles"
       }
     },
     {
@@ -388,7 +442,8 @@
       "title": {
         "la": "De Epistola Pauli Apostoli ad Romanos",
         "en-US": "From the Letter of the Apostle Paul to the Romans",
-        "pt-BR": "Da Carta do Apóstolo Paulo aos Romanos"
+        "pt-BR": "Da Carta do Apóstolo Paulo aos Romanos",
+        "es-419": "De la Carta del Apóstol Pablo a los Romanos"
       }
     },
     {
@@ -396,7 +451,8 @@
       "title": {
         "la": "DE EPISTOLA AD CORINTHIOS prima",
         "en-US": "From the First Letter to the Corinthians",
-        "pt-BR": "Da Primeira Carta aos Coríntios"
+        "pt-BR": "Da Primeira Carta aos Coríntios",
+        "es-419": "De la Primera Carta a los Corintios"
       }
     },
     {
@@ -404,7 +460,8 @@
       "title": {
         "la": "De Epistola ad Corinthios Secunda",
         "en-US": "From the Second Letter to the Corinthians",
-        "pt-BR": "Da Segunda Carta aos Coríntios"
+        "pt-BR": "Da Segunda Carta aos Coríntios",
+        "es-419": "De la Segunda Carta a los Corintios"
       }
     },
     {
@@ -412,7 +469,8 @@
       "title": {
         "la": "De Epistola ad Galatas: 370. 370. [Gal 1]. Si adhuc hominibus placerem, Christi servus non essem [1, 10].",
         "en-US": "From the Letter to the Galatians: 370. 370. [Gal 1]. If I were still pleasing people, I would not be Christ's slave [1:10].",
-        "pt-BR": "Da Carta aos Gálatas: 370. 370. [Gl 1]. Se ainda agradasse aos homens, não seria servo de Cristo [1,10]."
+        "pt-BR": "Da Carta aos Gálatas: 370. 370. [Gl 1]. Se ainda agradasse aos homens, não seria servo de Cristo [1,10].",
+        "es-419": "De la Carta a los Gálatas: 370. 370. [Ga 1]. Si todavía agradara a los hombres, no sería siervo de Cristo [1,10]."
       }
     },
     {
@@ -420,7 +478,8 @@
       "title": {
         "la": "De Epistola ad Ephesios",
         "en-US": "From the Letter to the Ephesians",
-        "pt-BR": "Da Carta aos Efésios"
+        "pt-BR": "Da Carta aos Efésios",
+        "es-419": "De la Carta a los Efesios"
       }
     },
     {
@@ -428,7 +487,8 @@
       "title": {
         "la": "De Epistola ad Philippenses",
         "en-US": "From the Letter to the Philippians",
-        "pt-BR": "Da Carta aos Filipenses"
+        "pt-BR": "Da Carta aos Filipenses",
+        "es-419": "De la Carta a los Filipenses"
       }
     },
     {
@@ -436,7 +496,8 @@
       "title": {
         "la": "De Epistola ad Thessalonicenses Prima",
         "en-US": "From the First Letter to the Thessalonians",
-        "pt-BR": "Da Primeira Carta aos Tessalonicenses"
+        "pt-BR": "Da Primeira Carta aos Tessalonicenses",
+        "es-419": "De la Primera Carta a los Tesalonicenses"
       }
     },
     {
@@ -444,7 +505,8 @@
       "title": {
         "la": "De Epistola ad Thessalonicenses Secunda",
         "en-US": "From the Second Letter to the Thessalonians",
-        "pt-BR": "Da Segunda Carta aos Tessalonicenses"
+        "pt-BR": "Da Segunda Carta aos Tessalonicenses",
+        "es-419": "De la Segunda Carta a los Tesalonicenses"
       }
     },
     {
@@ -452,7 +514,8 @@
       "title": {
         "la": "De Epistola ad Colossenses",
         "en-US": "From the Letter to the Colossians",
-        "pt-BR": "Da Carta aos Colossenses"
+        "pt-BR": "Da Carta aos Colossenses",
+        "es-419": "De la Carta a los Colosenses"
       }
     },
     {
@@ -460,7 +523,8 @@
       "title": {
         "la": "De Epistola ad Timotheum Prima",
         "en-US": "From the First Letter to Timothy",
-        "pt-BR": "Da Primeira Carta a Timóteo"
+        "pt-BR": "Da Primeira Carta a Timóteo",
+        "es-419": "De la Primera Carta a Timoteo"
       }
     },
     {
@@ -468,7 +532,8 @@
       "title": {
         "la": "DE EPISTOLA AD TIMOTHEUM secunda",
         "en-US": "From the Second Letter to Timothy",
-        "pt-BR": "Da Segunda Carta a Timóteo"
+        "pt-BR": "Da Segunda Carta a Timóteo",
+        "es-419": "De la Segunda Carta a Timoteo"
       }
     },
     {
@@ -476,7 +541,8 @@
       "title": {
         "la": "De Epistola ad Titum",
         "en-US": "From the Letter to Titus",
-        "pt-BR": "Da Carta a Tito"
+        "pt-BR": "Da Carta a Tito",
+        "es-419": "De la Carta a Tito"
       }
     },
     {
@@ -484,7 +550,8 @@
       "title": {
         "la": "De Epistola ad Philemonem",
         "en-US": "From the Letter to Philemon",
-        "pt-BR": "Da Carta a Filêmon"
+        "pt-BR": "Da Carta a Filêmon",
+        "es-419": "De la Carta a Filemón"
       }
     },
     {
@@ -492,7 +559,8 @@
       "title": {
         "la": "De Epistola ad Hebraeos",
         "en-US": "From the Letter to the Hebrews",
-        "pt-BR": "Da Carta aos Hebreus"
+        "pt-BR": "Da Carta aos Hebreus",
+        "es-419": "De la Carta a los Hebreos"
       }
     },
     {
@@ -500,7 +568,8 @@
       "title": {
         "la": "De Epistola Petri Prima",
         "en-US": "From the First Letter of Peter",
-        "pt-BR": "Da Primeira Carta de Pedro"
+        "pt-BR": "Da Primeira Carta de Pedro",
+        "es-419": "De la Primera Carta de Pedro"
       }
     },
     {
@@ -508,7 +577,8 @@
       "title": {
         "la": "De Epistola Eiusdem Secunda",
         "en-US": "From the Second Letter of the Same Apostle",
-        "pt-BR": "Da Segunda Carta do Mesmo"
+        "pt-BR": "Da Segunda Carta do Mesmo",
+        "es-419": "De la Segunda Carta del Mismo"
       }
     },
     {
@@ -516,7 +586,8 @@
       "title": {
         "la": "De Epistola Iacobi",
         "en-US": "From the Letter of James",
-        "pt-BR": "Da Carta de Tiago"
+        "pt-BR": "Da Carta de Tiago",
+        "es-419": "De la Carta de Santiago"
       }
     },
     {
@@ -524,7 +595,8 @@
       "title": {
         "la": "De Epistola Ioannis Prima",
         "en-US": "From the First Letter of John",
-        "pt-BR": "Da Primeira Carta de João"
+        "pt-BR": "Da Primeira Carta de João",
+        "es-419": "De la Primera Carta de Juan"
       }
     },
     {
@@ -532,7 +604,8 @@
       "title": {
         "la": "De Epistola Eiusdem Secunda (2)",
         "en-US": "From the Second Letter of the Same Apostle (2)",
-        "pt-BR": "Da Segunda Carta do Mesmo (2)"
+        "pt-BR": "Da Segunda Carta do Mesmo (2)",
+        "es-419": "De la Segunda Carta del Mismo (2)"
       }
     },
     {
@@ -540,7 +613,8 @@
       "title": {
         "la": "De Epistola Eiusdem Tertia",
         "en-US": "On His Third Letter",
-        "pt-BR": "Da Terceira Carta do Mesmo"
+        "pt-BR": "Da Terceira Carta do Mesmo",
+        "es-419": "De la Tercera Carta del Mismo"
       }
     },
     {
@@ -548,7 +622,8 @@
       "title": {
         "la": "De Epistola Iudae Apostoli",
         "en-US": "On the Letter of the Apostle Jude",
-        "pt-BR": "Da Carta do Apóstolo Judas"
+        "pt-BR": "Da Carta do Apóstolo Judas",
+        "es-419": "De la Carta del Apóstol Judas"
       }
     },
     {
@@ -556,7 +631,8 @@
       "title": {
         "la": "De Libro Cuiusnomenestapocalypsis Ioannis",
         "en-US": "On the Book Whose Name Is the Revelation of John",
-        "pt-BR": "Do Livro Cujo Nome É o Apocalipse de João"
+        "pt-BR": "Do Livro Cujo Nome É o Apocalipse de João",
+        "es-419": "Del Libro Llamado Apocalipsis de Juan"
       }
     }
   ]

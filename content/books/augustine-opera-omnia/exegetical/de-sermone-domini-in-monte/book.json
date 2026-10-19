@@ -4,12 +4,14 @@
   "name": {
     "la": "De sermone Domini in monte",
     "en-US": "The Lord's Sermon on the Mount",
-    "pt-BR": "O Sermão do Senhor na Montanha"
+    "pt-BR": "O Sermão do Senhor na Montanha",
+    "es-419": "El sermón del Señor en la montaña"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Two books expounding the Sermon on the Mount in Matthew, from the Beatitudes onward, as the pattern of the Christian life. In the *Revisions* Augustine qualifies what he said there about perfection in this life.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~SermMt",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~SermMt",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~SermMt",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes I",
         "en-US": "Revisions I",
-        "pt-BR": "Revisões I"
+        "pt-BR": "Revisões I",
+        "es-419": "Revisiones I"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I: Praecepta quae ad informandam vitam pertinent",
         "en-US": "Book I: The Precepts That Pertain to the Forming of Life",
-        "pt-BR": "Livro I: Os preceitos que pertencem à formação da vida"
+        "pt-BR": "Livro I: Os preceitos que pertencem à formação da vida",
+        "es-419": "Libro I: Los preceptos que pertenecen a la formación de la vida"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber II: De beatitudinibus quibus videtur Deus",
         "en-US": "Book II: On the Beatitudes by Which God Is Seen",
-        "pt-BR": "Livro II: Sobre as bem-aventuranças pelas quais se vê a Deus"
+        "pt-BR": "Livro II: Sobre as bem-aventuranças pelas quais se vê a Deus",
+        "es-419": "Libro II: Sobre las bienaventuranzas por las que se ve a Dios"
       }
     }
   ]

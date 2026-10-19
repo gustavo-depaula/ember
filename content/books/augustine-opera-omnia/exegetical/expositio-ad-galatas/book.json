@@ -4,12 +4,14 @@
   "name": {
     "la": "Expositio Epistolae ad Galatas",
     "en-US": "Commentary on the Letter to the Galatians",
-    "pt-BR": "Exposição da Carta aos Gálatas"
+    "pt-BR": "Exposição da Carta aos Gálatas",
+    "es-419": "Exposición de la Carta a los Gálatas"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A continuous commentary on Paul's Letter to the Galatians, whose theme Augustine states at the outset: by God's grace believers are no longer under the burdens of the Law that Judaizing teachers wanted to impose.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Gal",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Gal",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Gal",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Expositio Epistolae ad Galatas",
         "en-US": "Commentary on the Letter to the Galatians",
-        "pt-BR": "Exposição da Carta aos Gálatas"
+        "pt-BR": "Exposição da Carta aos Gálatas",
+        "es-419": "Exposición de la Carta a los Gálatas"
       }
     }
   ]

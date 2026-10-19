@@ -4,12 +4,14 @@
   "name": {
     "la": "Annotationes in Iob",
     "en-US": "Notes on Job",
-    "pt-BR": "Anotações sobre Jó"
+    "pt-BR": "Anotações sobre Jó",
+    "es-419": "Anotaciones sobre Job"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Terse notes on the Book of Job, gathered by others from Augustine's marginal glosses in a manuscript. In the *Revisions* he doubted whether to count them his own, calling them obscure and full of copyists' errors.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Job",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Job",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Job",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II: Caput XIII (XL): Annotationes in Iob, liber unus",
         "en-US": "Revisions II: Chapter 13 (40): Notes on Job, one book",
-        "pt-BR": "Revisões II: Capítulo 13 (40): Anotações sobre Jó, um livro"
+        "pt-BR": "Revisões II: Capítulo 13 (40): Anotações sobre Jó, um livro",
+        "es-419": "Revisiones II: Capítulo XIII (XL): Anotaciones sobre Job, un libro"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book 1",
-        "pt-BR": "Livro 1"
+        "pt-BR": "Livro 1",
+        "es-419": "Libro I"
       }
     }
   ]

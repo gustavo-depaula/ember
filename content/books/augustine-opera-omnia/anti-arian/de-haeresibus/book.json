@@ -4,12 +4,14 @@
   "name": {
     "la": "De haeresibus",
     "en-US": "Heresies",
-    "pt-BR": "As heresias"
+    "pt-BR": "As heresias",
+    "es-419": "Las herejías"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A catalogue of eighty-eight heresies from Simon Magus onward, written at the insistent request of the Carthaginian deacon Quodvultdeus, whose letters and Augustine's replies are included. An appendix adds later notices on further heresies.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Heres",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Heres",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Heres",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Epistolae",
         "en-US": "Letters",
-        "pt-BR": "Cartas"
+        "pt-BR": "Cartas",
+        "es-419": "Cartas"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Praefatio",
         "en-US": "Preface",
-        "pt-BR": "Prefácio"
+        "pt-BR": "Prefácio",
+        "es-419": "Prefacio"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Capitula",
         "en-US": "Chapters",
-        "pt-BR": "Capítulos"
+        "pt-BR": "Capítulos",
+        "es-419": "Capítulos"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Epilogus",
         "en-US": "Epilogue",
-        "pt-BR": "Epílogo"
+        "pt-BR": "Epílogo",
+        "es-419": "Epílogo"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Appendix",
         "en-US": "Appendix",
-        "pt-BR": "Apêndice"
+        "pt-BR": "Apêndice",
+        "es-419": "Apéndice"
       }
     }
   ]

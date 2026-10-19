@@ -4,12 +4,14 @@
   "name": {
     "la": "De musica",
     "en-US": "On Music",
-    "pt-BR": "A música"
+    "pt-BR": "A música",
+    "es-419": "La música"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Six books of dialogue between a teacher and a student. The first five treat rhythm and meter; the sixth rises from the numbers in sounds and senses to the unchangeable numbers of truth and to God.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deMus",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deMus",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deMus",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber II",
         "en-US": "Book II",
-        "pt-BR": "Livro II"
+        "pt-BR": "Livro II",
+        "es-419": "Libro II"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber III",
         "en-US": "Book III",
-        "pt-BR": "Livro III"
+        "pt-BR": "Livro III",
+        "es-419": "Libro III"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Liber IV",
         "en-US": "Book IV",
-        "pt-BR": "Livro IV"
+        "pt-BR": "Livro IV",
+        "es-419": "Libro IV"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Liber V",
         "en-US": "Book V",
-        "pt-BR": "Livro V"
+        "pt-BR": "Livro V",
+        "es-419": "Libro V"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "Liber VI",
         "en-US": "Book VI",
-        "pt-BR": "Livro VI"
+        "pt-BR": "Livro VI",
+        "es-419": "Libro VI"
       }
     }
   ]

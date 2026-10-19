@@ -4,12 +4,14 @@
   "name": {
     "la": "De praedestinatione sanctorum",
     "en-US": "The Predestination of the Saints",
-    "pt-BR": "A predestinação dos santos"
+    "pt-BR": "A predestinação dos santos",
+    "es-419": "La predestinación de los santos"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "The first of two books to Prosper and Hilary, for brothers who rejected Pelagius yet were unsettled by the predestination of the saints. Augustine argues that even the beginning of faith is God's gift.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Predest",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Predest",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Predest",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De praedestinatione sanctorum",
         "en-US": "The Predestination of the Saints",
-        "pt-BR": "A predestinação dos santos"
+        "pt-BR": "A predestinação dos santos",
+        "es-419": "La predestinación de los santos"
       }
     }
   ]

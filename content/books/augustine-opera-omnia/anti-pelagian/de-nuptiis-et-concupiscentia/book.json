@@ -4,12 +4,14 @@
   "name": {
     "la": "De nuptiis et concupiscentia",
     "en-US": "Marriage and Desire",
-    "pt-BR": "As núpcias e a concupiscência"
+    "pt-BR": "As núpcias e a concupiscência",
+    "es-419": "Las nupcias y la concupiscencia"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Two books to Count Valerius answering the Pelagian charge that teaching original sin condemns marriage: Augustine distinguishes the good of marriage from the evil of carnal desire. The second book answers excerpts from Julian.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deNuptiis",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deNuptiis",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deNuptiis",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Epistola ad Valerium Comitem",
         "en-US": "Letter to Count Valerius",
-        "pt-BR": "Carta ao Conde Valério"
+        "pt-BR": "Carta ao Conde Valério",
+        "es-419": "CARTA AL CONDE VALERIO — Agustín saluda en el Señor al ilustre señor Valerio, merecidamente distinguidísimo y amadísimo hijo en el amor de Cristo."
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber Primus",
         "en-US": "Book One",
-        "pt-BR": "Livro Primeiro"
+        "pt-BR": "Livro Primeiro",
+        "es-419": "Libro Primero"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber Secundus",
         "en-US": "Book Two",
-        "pt-BR": "Livro Segundo"
+        "pt-BR": "Livro Segundo",
+        "es-419": "Libro Segundo"
       }
     }
   ]

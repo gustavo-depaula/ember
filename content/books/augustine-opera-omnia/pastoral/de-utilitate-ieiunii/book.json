@@ -4,12 +4,14 @@
   "name": {
     "la": "De utilitate ieiunii",
     "en-US": "The Usefulness of Fasting",
-    "pt-BR": "A utilidade do jejum"
+    "pt-BR": "A utilidade do jejum",
+    "es-419": "La utilidad del ayuno"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A sermon on what fasting is for: in this life we hunger and thirst for a righteousness that will fill us only in the next, and fasting brings the flesh under the spirit. It ends with an appeal to brothers who have broken away to share the undivided inheritance of unity.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~DeUI",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~DeUI",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~DeUI",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De utilitate ieiunii",
         "en-US": "The Usefulness of Fasting",
-        "pt-BR": "A utilidade do jejum"
+        "pt-BR": "A utilidade do jejum",
+        "es-419": "La utilidad del ayuno"
       }
     }
   ]

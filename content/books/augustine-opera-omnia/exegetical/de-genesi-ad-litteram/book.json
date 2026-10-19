@@ -4,12 +4,14 @@
   "name": {
     "la": "De Genesi ad litteram",
     "en-US": "The Literal Meaning of Genesis",
-    "pt-BR": "O sentido literal do Gênesis"
+    "pt-BR": "O sentido literal do Gênesis",
+    "es-419": "El sentido literal del Génesis"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Twelve books on Genesis from creation to the expulsion from paradise, read not allegorically but according to what actually happened. Augustine admits that more is asked than found; the twelfth book treats paradise and visions.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~GenLit",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~GenLit",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~GenLit",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber II",
         "en-US": "Book II",
-        "pt-BR": "Livro II"
+        "pt-BR": "Livro II",
+        "es-419": "Libro II"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Liber III",
         "en-US": "Book III",
-        "pt-BR": "Livro III"
+        "pt-BR": "Livro III",
+        "es-419": "Libro III"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Liber IV",
         "en-US": "Book IV",
-        "pt-BR": "Livro IV"
+        "pt-BR": "Livro IV",
+        "es-419": "Libro IV"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "Liber V",
         "en-US": "Book V",
-        "pt-BR": "Livro V"
+        "pt-BR": "Livro V",
+        "es-419": "Libro V"
       }
     },
     {
@@ -92,7 +109,8 @@
       "title": {
         "la": "Liber VI",
         "en-US": "Book VI",
-        "pt-BR": "Livro VI"
+        "pt-BR": "Livro VI",
+        "es-419": "Libro VI"
       }
     },
     {
@@ -100,7 +118,8 @@
       "title": {
         "la": "Liber VII",
         "en-US": "Book VII",
-        "pt-BR": "Livro VII"
+        "pt-BR": "Livro VII",
+        "es-419": "Libro VII"
       }
     },
     {
@@ -108,7 +127,8 @@
       "title": {
         "la": "Liber VIII",
         "en-US": "Book VIII",
-        "pt-BR": "Livro VIII"
+        "pt-BR": "Livro VIII",
+        "es-419": "Libro VIII"
       }
     },
     {
@@ -116,7 +136,8 @@
       "title": {
         "la": "Liber IX",
         "en-US": "Book IX",
-        "pt-BR": "Livro IX"
+        "pt-BR": "Livro IX",
+        "es-419": "Libro IX"
       }
     },
     {
@@ -124,7 +145,8 @@
       "title": {
         "la": "Liber X",
         "en-US": "Book X",
-        "pt-BR": "Livro X"
+        "pt-BR": "Livro X",
+        "es-419": "Libro X"
       }
     },
     {
@@ -132,7 +154,8 @@
       "title": {
         "la": "Liber XI: Hominis tentatio ac lapsus secundum Gen 2, 25 - 3, 24.",
         "en-US": "Book XI: The temptation and fall of man according to Genesis 2:25–3:24.",
-        "pt-BR": "Livro XI: A tentação e a queda do homem, segundo o Gênesis 2,25–3,24."
+        "pt-BR": "Livro XI: A tentação e a queda do homem, segundo o Gênesis 2,25–3,24.",
+        "es-419": "Libro XI: La tentación y caída del hombre según Gn 2,25–3,24."
       }
     },
     {
@@ -140,7 +163,8 @@
       "title": {
         "la": "Liber XII",
         "en-US": "Book XII",
-        "pt-BR": "Livro XII"
+        "pt-BR": "Livro XII",
+        "es-419": "Libro XII"
       }
     }
   ]

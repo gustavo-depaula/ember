@@ -4,12 +4,14 @@
   "name": {
     "la": "Gesta collationis Carthaginensis",
     "en-US": "Proceedings of the Conference of Carthage",
-    "pt-BR": "Atas da Conferência de Cartago"
+    "pt-BR": "Atas da Conferência de Cartago",
+    "es-419": "Actas de la Conferencia de Cartago"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "The official proceedings of the Conference of Carthage between Catholic and Donatist bishops, presided over by the tribune Marcellinus, with Aurelius, Augustine and Alypius among the Catholic spokesmen and Primian, Petilian and Emeritus for the Donatists.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Gesta",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Gesta",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Gesta",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Gesta collationis Carthaginensis",
         "en-US": "Proceedings of the Conference of Carthage",
-        "pt-BR": "Atas da Conferência de Cartago"
+        "pt-BR": "Atas da Conferência de Cartago",
+        "es-419": "Actas de la Conferencia de Cartago"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Gesta Collationis Carthaginiensis",
         "en-US": "Proceedings of the Conference of Carthage (2)",
-        "pt-BR": "Atas da Conferência de Cartago (2)"
+        "pt-BR": "Atas da Conferência de Cartago (2)",
+        "es-419": "Actas de la Conferencia de Cartago (2)"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Gesta Collationis Carthaginiensis (2)",
         "en-US": "Proceedings of the Conference of Carthage (3)",
-        "pt-BR": "Atas da Conferência de Cartago (3)"
+        "pt-BR": "Atas da Conferência de Cartago (3)",
+        "es-419": "Actas de la Conferencia de Cartago (3)"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Gesta Collationis Carthaginiensis (3)",
         "en-US": "Proceedings of the Conference of Carthage (4)",
-        "pt-BR": "Atas da Conferência de Cartago (4)"
+        "pt-BR": "Atas da Conferência de Cartago (4)",
+        "es-419": "Actas de la Conferencia de Cartago (4)"
       }
     }
   ]

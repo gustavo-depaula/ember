@@ -4,12 +4,14 @@
   "name": {
     "la": "De fide rerum quae non videntur",
     "en-US": "Faith in the Unseen",
-    "pt-BR": "A fé nas coisas que não se veem"
+    "pt-BR": "A fé nas coisas que não se veem",
+    "es-419": "La fe en las cosas que no se ven"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A short work against those who mock Christian faith for believing what cannot be seen. We already trust a friend's unseen goodwill, and the Church's spread fulfills the prophecies, so what is unseen must be believed.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deFideRe",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deFideRe",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deFideRe",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De fide rerum quae non videntur",
         "en-US": "Faith in the Unseen",
-        "pt-BR": "A fé nas coisas que não se veem"
+        "pt-BR": "A fé nas coisas que não se veem",
+        "es-419": "La fe en las cosas que no se ven"
       }
     }
   ]

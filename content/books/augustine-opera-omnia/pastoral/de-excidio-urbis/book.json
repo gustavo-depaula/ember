@@ -4,12 +4,14 @@
   "name": {
     "la": "De excidio urbis Romae",
     "en-US": "On the Sack of the City of Rome",
-    "pt-BR": "O saque da cidade de Roma"
+    "pt-BR": "O saque da cidade de Roma",
+    "es-419": "El saqueo de la ciudad de Roma"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A sermon preached soon after the sack of Rome, answering those who asked why God had not spared the city for the sake of its just. Drawing on Daniel’s confession and Abraham’s plea for Sodom, Augustine reads the disaster as a father’s chastisement.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~ExcidRoma",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~ExcidRoma",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~ExcidRoma",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De excidio urbis Romae",
         "en-US": "On the Sack of the City of Rome",
-        "pt-BR": "O saque da cidade de Roma"
+        "pt-BR": "O saque da cidade de Roma",
+        "es-419": "El saqueo de la ciudad de Roma"
       }
     }
   ]

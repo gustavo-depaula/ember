@@ -4,12 +4,14 @@
   "name": {
     "la": "De diversis quaestionibus octoginta tribus",
     "en-US": "Miscellany of Eighty-three Questions",
-    "pt-BR": "Oitenta e três questões diversas"
+    "pt-BR": "Oitenta e três questões diversas",
+    "es-419": "Ochenta y tres cuestiones diversas"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Answers dictated to the brethren from the time of Augustine's return to Africa after his conversion, later gathered and numbered into one book when he was a bishop. They range from the soul, free choice and evil to the Trinity and passages of Scripture.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~83Qs",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~83Qs",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~83Qs",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes I",
         "en-US": "Revisions I",
-        "pt-BR": "Revisões I"
+        "pt-BR": "Revisões I",
+        "es-419": "Revisiones I"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber I",
         "en-US": "Book I",
-        "pt-BR": "Livro I"
+        "pt-BR": "Livro I",
+        "es-419": "Libro I"
       },
       "children": [
         {
@@ -60,7 +73,8 @@
           "title": {
             "la": "Utrum anima a se ipsa sit",
             "en-US": "Whether the Soul Is from Itself",
-            "pt-BR": "Se a alma é de si mesma"
+            "pt-BR": "Se a alma é de si mesma",
+            "es-419": "Si el alma procede de sí misma"
           }
         },
         {
@@ -68,7 +82,8 @@
           "title": {
             "la": "De libero arbitrio",
             "en-US": "On Free Choice",
-            "pt-BR": "Sobre o livre-arbítrio"
+            "pt-BR": "Sobre o livre-arbítrio",
+            "es-419": "Sobre el libre albedrío"
           }
         },
         {
@@ -76,7 +91,8 @@
           "title": {
             "la": "Utrum Deo auctore sit homo deterior",
             "en-US": "Whether, with God as Author, a Human Being Is Made Worse",
-            "pt-BR": "Se, tendo Deus por autor, o homem se torna pior"
+            "pt-BR": "Se, tendo Deus por autor, o homem se torna pior",
+            "es-419": "Si Dios es el autor de que el hombre empeore"
           }
         },
         {
@@ -84,7 +100,8 @@
           "title": {
             "la": "Quae sit causa ut sit homo deterior",
             "en-US": "What the Cause Is That a Human Being Is Made Worse",
-            "pt-BR": "Qual é a causa de o homem se tornar pior"
+            "pt-BR": "Qual é a causa de o homem se tornar pior",
+            "es-419": "Cuál es la causa de que el hombre empeore"
           }
         },
         {
@@ -92,7 +109,8 @@
           "title": {
             "la": "Utrum animal irrationale beatum esse possit",
             "en-US": "Whether an Irrational Animal Can Be Happy",
-            "pt-BR": "Se um animal irracional pode ser feliz"
+            "pt-BR": "Se um animal irracional pode ser feliz",
+            "es-419": "Si un animal irracional puede ser feliz"
           }
         },
         {
@@ -100,7 +118,8 @@
           "title": {
             "la": "De malo",
             "en-US": "On Evil",
-            "pt-BR": "Sobre o mal"
+            "pt-BR": "Sobre o mal",
+            "es-419": "Sobre el mal"
           }
         },
         {
@@ -108,7 +127,8 @@
           "title": {
             "la": "Quae proprie in animante anima dicatur",
             "en-US": "What in a Living Being Is Properly Called Soul",
-            "pt-BR": "O que propriamente se chama alma no ser vivo"
+            "pt-BR": "O que propriamente se chama alma no ser vivo",
+            "es-419": "Qué se llama propiamente alma en el ser viviente"
           }
         },
         {
@@ -116,7 +136,8 @@
           "title": {
             "la": "Utrum per se anima moveatur",
             "en-US": "Whether the Soul Is Moved of Itself",
-            "pt-BR": "Se a alma se move por si mesma"
+            "pt-BR": "Se a alma se move por si mesma",
+            "es-419": "Si el alma se mueve por sí misma"
           }
         },
         {
@@ -124,7 +145,8 @@
           "title": {
             "la": "Utrum corporis sensibus percipi veritas possit",
             "en-US": "Whether Truth Can Be Perceived by the Senses of the Body",
-            "pt-BR": "Se a verdade pode ser percebida pelos sentidos do corpo"
+            "pt-BR": "Se a verdade pode ser percebida pelos sentidos do corpo",
+            "es-419": "Si la verdad puede percibirse por los sentidos del cuerpo"
           }
         },
         {
@@ -132,7 +154,8 @@
           "title": {
             "la": "Utrum corpus a Deo sit",
             "en-US": "Whether the Body Is from God",
-            "pt-BR": "Se o corpo é de Deus"
+            "pt-BR": "Se o corpo é de Deus",
+            "es-419": "Si el cuerpo procede de Dios"
           }
         },
         {
@@ -140,7 +163,8 @@
           "title": {
             "la": "Quare Christus de femina natus sit",
             "en-US": "Why Christ Was Born of a Woman",
-            "pt-BR": "Por que Cristo nasceu de uma mulher"
+            "pt-BR": "Por que Cristo nasceu de uma mulher",
+            "es-419": "Por qué Cristo nació de una mujer"
           }
         },
         {
@@ -148,7 +172,8 @@
           "title": {
             "la": "Sententia cuiusdam sapientis",
             "en-US": "The Opinion of a Certain Wise Man",
-            "pt-BR": "A sentença de certo sábio"
+            "pt-BR": "A sentença de certo sábio",
+            "es-419": "Sentencia de cierto sabio"
           }
         },
         {
@@ -156,7 +181,8 @@
           "title": {
             "la": "Quo documento constet homines bestiis excellere",
             "en-US": "By What Proof It Is Established That Human Beings Excel the Beasts",
-            "pt-BR": "Por qual prova se estabelece que os homens excedem os animais"
+            "pt-BR": "Por qual prova se estabelece que os homens excedem os animais",
+            "es-419": "Con qué prueba consta que los hombres superan a las bestias"
           }
         },
         {
@@ -164,7 +190,8 @@
           "title": {
             "la": "Non fuisse corpus Domini nostri Iesu Christi fantasma",
             "en-US": "That the Body of Our Lord Jesus Christ Was Not a Phantasm",
-            "pt-BR": "Que o corpo de nosso Senhor Jesus Cristo não foi um fantasma"
+            "pt-BR": "Que o corpo de nosso Senhor Jesus Cristo não foi um fantasma",
+            "es-419": "Que el cuerpo de nuestro Señor Jesucristo no fue un fantasma"
           }
         },
         {
@@ -172,7 +199,8 @@
           "title": {
             "la": "De intellectu",
             "en-US": "On the Intellect",
-            "pt-BR": "Sobre o intelecto"
+            "pt-BR": "Sobre o intelecto",
+            "es-419": "Sobre el entendimiento"
           }
         },
         {
@@ -180,7 +208,8 @@
           "title": {
             "la": "De Filio Dei",
             "en-US": "On the Son of God",
-            "pt-BR": "Sobre o Filho de Deus"
+            "pt-BR": "Sobre o Filho de Deus",
+            "es-419": "Sobre el Hijo de Dios"
           }
         },
         {
@@ -188,7 +217,8 @@
           "title": {
             "la": "De scientia Dei",
             "en-US": "On the Knowledge of God",
-            "pt-BR": "Sobre a ciência de Deus"
+            "pt-BR": "Sobre a ciência de Deus",
+            "es-419": "Sobre la ciencia de Dios"
           }
         },
         {
@@ -196,7 +226,8 @@
           "title": {
             "la": "De Trinitate",
             "en-US": "On the Trinity",
-            "pt-BR": "Sobre a Trindade"
+            "pt-BR": "Sobre a Trindade",
+            "es-419": "Sobre la Trinidad"
           }
         },
         {
@@ -204,7 +235,8 @@
           "title": {
             "la": "De Deo et creatura",
             "en-US": "On God and the Creature",
-            "pt-BR": "Sobre Deus e a criatura"
+            "pt-BR": "Sobre Deus e a criatura",
+            "es-419": "Sobre Dios y la criatura"
           }
         },
         {
@@ -212,7 +244,8 @@
           "title": {
             "la": "De loco Dei",
             "en-US": "On the Place of God",
-            "pt-BR": "Sobre o lugar de Deus"
+            "pt-BR": "Sobre o lugar de Deus",
+            "es-419": "Sobre el lugar de Dios"
           }
         },
         {
@@ -220,7 +253,8 @@
           "title": {
             "la": "Utrum Deus mali auctor non sit",
             "en-US": "Whether God Is Not the Author of Evil",
-            "pt-BR": "Se Deus não é autor do mal"
+            "pt-BR": "Se Deus não é autor do mal",
+            "es-419": "Si Dios no es el autor del mal"
           }
         },
         {
@@ -228,7 +262,8 @@
           "title": {
             "la": "Deum non pati necessitatem",
             "en-US": "That God Does Not Suffer Necessity",
-            "pt-BR": "Que Deus não padece necessidade"
+            "pt-BR": "Que Deus não padece necessidade",
+            "es-419": "Que Dios no padece necesidad"
           }
         },
         {
@@ -236,7 +271,8 @@
           "title": {
             "la": "De Patre et Filio",
             "en-US": "On the Father and the Son",
-            "pt-BR": "Sobre o Pai e o Filho"
+            "pt-BR": "Sobre o Pai e o Filho",
+            "es-419": "Sobre el Padre y el Hijo"
           }
         },
         {
@@ -244,7 +280,8 @@
           "title": {
             "la": "Utrum et peccatum et recte factum — in libero sit voluntatis arbitrio",
             "en-US": "Whether Both Sin and Right Action — Lie within the Free Choice of the Will",
-            "pt-BR": "Se tanto o pecado quanto a ação reta — estão no livre-arbítrio da vontade"
+            "pt-BR": "Se tanto o pecado quanto a ação reta — estão no livre-arbítrio da vontade",
+            "es-419": "Si tanto el pecado como la acción recta están — en el libre albedrío de la voluntad"
           }
         },
         {
@@ -252,7 +289,8 @@
           "title": {
             "la": "De cruce Christi",
             "en-US": "On the Cross of Christ",
-            "pt-BR": "Sobre a cruz de Cristo"
+            "pt-BR": "Sobre a cruz de Cristo",
+            "es-419": "Sobre la cruz de Cristo"
           }
         },
         {
@@ -260,7 +298,8 @@
           "title": {
             "la": "De differentia peccatorum",
             "en-US": "On the Difference of Sins",
-            "pt-BR": "Sobre a diferença dos pecados"
+            "pt-BR": "Sobre a diferença dos pecados",
+            "es-419": "Sobre la diferencia de los pecados"
           }
         },
         {
@@ -268,7 +307,8 @@
           "title": {
             "la": "De providentia",
             "en-US": "On Providence",
-            "pt-BR": "Sobre a providência"
+            "pt-BR": "Sobre a providência",
+            "es-419": "Sobre la providencia"
           }
         },
         {
@@ -276,7 +316,8 @@
           "title": {
             "la": "Quare Deus mundum facere voluerit",
             "en-US": "Why God Willed to Make the World",
-            "pt-BR": "Por que Deus quis fazer o mundo"
+            "pt-BR": "Por que Deus quis fazer o mundo",
+            "es-419": "Por qué Dios quiso hacer el mundo"
           }
         },
         {
@@ -284,7 +325,8 @@
           "title": {
             "la": "Utrum aliquid sit sursum aut deorsum universo",
             "en-US": "Whether There Is Anything Above or Below in the Universe",
-            "pt-BR": "Se há algo acima ou abaixo no universo"
+            "pt-BR": "Se há algo acima ou abaixo no universo",
+            "es-419": "Si hay algo por encima o por debajo del universo"
           }
         },
         {
@@ -292,7 +334,8 @@
           "title": {
             "la": "Utrum omnia in utilitatem hominis creata sint",
             "en-US": "Whether All Things Have Been Created for the Use of Man",
-            "pt-BR": "Se todas as coisas foram criadas para a utilidade do homem"
+            "pt-BR": "Se todas as coisas foram criadas para a utilidade do homem",
+            "es-419": "Si todo fue creado para utilidad del hombre"
           }
         },
         {
@@ -300,7 +343,8 @@
           "title": {
             "la": "Sententia Ciceronis, quemadmodum virtutes — animi ab illo divisae ac definitae sint",
             "en-US": "The Opinion of Cicero, How the Virtues — of the Mind Were Divided and Defined by Him",
-            "pt-BR": "A sentença de Cícero, sobre como as virtudes — do ânimo foram por ele divididas e definidas"
+            "pt-BR": "A sentença de Cícero, sobre como as virtudes — do ânimo foram por ele divididas e definidas",
+            "es-419": "Sentencia de Cicerón: cómo dividió y definió — las virtudes del ánimo"
           }
         },
         {
@@ -308,7 +352,8 @@
           "title": {
             "la": "Utrum rem ullam alius alio magis intellegat, atque — ita eiusdem rei per infinitum eat intellegentia",
             "en-US": "Whether One Person Understands Any Thing More Than Another, and — Whether the Understanding of the Same Thing Thus Proceeds to Infinity",
-            "pt-BR": "Se alguém entende alguma coisa mais do que outro, e se — assim a inteligência da mesma coisa vai ao infinito"
+            "pt-BR": "Se alguém entende alguma coisa mais do que outro, e se — assim a inteligência da mesma coisa vai ao infinito",
+            "es-419": "Si alguien entiende alguna cosa más que otro y así — la comprensión de una misma cosa puede avanzar hasta el infinito"
           }
         },
         {
@@ -316,7 +361,8 @@
           "title": {
             "la": "De metu",
             "en-US": "On Fear",
-            "pt-BR": "Sobre o medo"
+            "pt-BR": "Sobre o medo",
+            "es-419": "Sobre el miedo"
           }
         },
         {
@@ -324,7 +370,8 @@
           "title": {
             "la": "Utrum non aliud amandum sit quam metu carere",
             "en-US": "Whether Nothing Other Than to Be Free from Fear Is to Be Loved",
-            "pt-BR": "Se não se deve amar outra coisa senão estar livre do medo"
+            "pt-BR": "Se não se deve amar outra coisa senão estar livre do medo",
+            "es-419": "Si no debe amarse otra cosa que carecer de miedo"
           }
         },
         {
@@ -332,7 +379,8 @@
           "title": {
             "la": "Quid amandum sit",
             "en-US": "What Is to Be Loved",
-            "pt-BR": "O que se deve amar"
+            "pt-BR": "O que se deve amar",
+            "es-419": "Qué debe amarse"
           }
         },
         {
@@ -340,7 +388,8 @@
           "title": {
             "la": "De nutrienda caritate",
             "en-US": "On Nourishing Love",
-            "pt-BR": "Sobre como nutrir a caridade"
+            "pt-BR": "Sobre como nutrir a caridade",
+            "es-419": "Sobre el crecimiento de la caridad"
           }
         },
         {
@@ -348,7 +397,8 @@
           "title": {
             "la": "De semper nato",
             "en-US": "On Him Who Is Ever Born",
-            "pt-BR": "Sobre aquele que é sempre nascido"
+            "pt-BR": "Sobre aquele que é sempre nascido",
+            "es-419": "Sobre el que siempre ha nacido"
           }
         },
         {
@@ -356,7 +406,8 @@
           "title": {
             "la": "De conformatione animae",
             "en-US": "On the Conformation of the Soul",
-            "pt-BR": "Sobre a conformação da alma"
+            "pt-BR": "Sobre a conformação da alma",
+            "es-419": "Sobre la conformación del alma"
           }
         },
         {
@@ -364,7 +415,8 @@
           "title": {
             "la": "De alimentis",
             "en-US": "On Nourishment",
-            "pt-BR": "Sobre os alimentos"
+            "pt-BR": "Sobre os alimentos",
+            "es-419": "Sobre los alimentos"
           }
         },
         {
@@ -372,7 +424,8 @@
           "title": {
             "la": "Cum animarum natura una sit, unde — hominum diversae voluntates?",
             "en-US": "Since the Nature of Souls Is One, Whence — Come the Diverse Wills of Human Beings?",
-            "pt-BR": "Sendo uma a natureza das almas, donde — vêm as diversas vontades dos homens?"
+            "pt-BR": "Sendo uma a natureza das almas, donde — vêm as diversas vontades dos homens?",
+            "es-419": "Si la naturaleza de las almas es una, ¿de dónde proceden — las diversas voluntades de los hombres?"
           }
         },
         {
@@ -380,7 +433,8 @@
           "title": {
             "la": "Cum omnia Deus fecerit, quare non aequaliter fecit?",
             "en-US": "Since God Made All Things, Why Did He Not Make Them Equal?",
-            "pt-BR": "Tendo Deus feito todas as coisas, por que não as fez iguais?"
+            "pt-BR": "Tendo Deus feito todas as coisas, por que não as fez iguais?",
+            "es-419": "Si Dios hizo todas las cosas, ¿por qué no las hizo iguales?"
           }
         },
         {
@@ -388,7 +442,8 @@
           "title": {
             "la": "Quemadmodum Christus et in utero matris fuerit et in caelis",
             "en-US": "How Christ Was Both in His Mother's Womb and in the Heavens",
-            "pt-BR": "De que modo Cristo esteve tanto no ventre da mãe como nos céus"
+            "pt-BR": "De que modo Cristo esteve tanto no ventre da mãe como nos céus",
+            "es-419": "Cómo Cristo estuvo tanto en el seno de su madre como en los cielos"
           }
         },
         {
@@ -396,7 +451,8 @@
           "title": {
             "la": "Quare Filius Dei in homine apparuit — et Spiritus Sanctus in columba?",
             "en-US": "Why Did the Son of God Appear in a Man — and the Holy Spirit in a Dove?",
-            "pt-BR": "Por que o Filho de Deus apareceu num homem — e o Espírito Santo numa pomba?"
+            "pt-BR": "Por que o Filho de Deus apareceu num homem — e o Espírito Santo numa pomba?",
+            "es-419": "¿Por qué apareció el Hijo de Dios en un hombre — y el Espíritu Santo en una paloma?"
           }
         },
         {
@@ -404,7 +460,8 @@
           "title": {
             "la": "Quare tanto post venit Dominus Iesus Christus, — et non in principio peccati hominis?",
             "en-US": "Why Did the Lord Jesus Christ Come So Long Afterward, — and Not at the Beginning of Man's Sin?",
-            "pt-BR": "Por que veio tanto tempo depois o Senhor Jesus Cristo, — e não no princípio do pecado do homem?"
+            "pt-BR": "Por que veio tanto tempo depois o Senhor Jesus Cristo, — e não no princípio do pecado do homem?",
+            "es-419": "¿Por qué vino tanto tiempo después el Señor Jesucristo, — y no al comienzo del pecado del hombre?"
           }
         },
         {
@@ -412,7 +469,8 @@
           "title": {
             "la": "Adversus mathematicos",
             "en-US": "Against the Astrologers",
-            "pt-BR": "Contra os matemáticos"
+            "pt-BR": "Contra os matemáticos",
+            "es-419": "Contra los astrólogos"
           }
         },
         {
@@ -420,7 +478,8 @@
           "title": {
             "la": "De ideis",
             "en-US": "On the Ideas",
-            "pt-BR": "Sobre as ideias"
+            "pt-BR": "Sobre as ideias",
+            "es-419": "Sobre las ideas"
           }
         },
         {
@@ -428,7 +487,8 @@
           "title": {
             "la": "Utrum aliquando cogitationes nostras videre possimus",
             "en-US": "Whether We Can Ever See Our Own Thoughts",
-            "pt-BR": "Se alguma vez poderemos ver os nossos pensamentos"
+            "pt-BR": "Se alguma vez poderemos ver os nossos pensamentos",
+            "es-419": "Si alguna vez podremos ver nuestros pensamientos"
           }
         },
         {
@@ -436,7 +496,8 @@
           "title": {
             "la": "De credibilibus",
             "en-US": "On Things to Be Believed",
-            "pt-BR": "Sobre as coisas que se devem crer"
+            "pt-BR": "Sobre as coisas que se devem crer",
+            "es-419": "Sobre las cosas creíbles"
           }
         },
         {
@@ -444,7 +505,8 @@
           "title": {
             "la": "Quare filii Israel sacrificabant visibiliter — pecorum victimas?",
             "en-US": "Why Did the Children of Israel Offer Visibly — the Victims of Animals?",
-            "pt-BR": "Por que os filhos de Israel sacrificavam visivelmente — vítimas de animais?"
+            "pt-BR": "Por que os filhos de Israel sacrificavam visivelmente — vítimas de animais?",
+            "es-419": "¿Por qué los hijos de Israel sacrificaban visiblemente — víctimas de ganado?"
           }
         },
         {
@@ -452,7 +514,8 @@
           "title": {
             "la": "De aequalitate Filii",
             "en-US": "On the Equality of the Son",
-            "pt-BR": "Sobre a igualdade do Filho"
+            "pt-BR": "Sobre a igualdade do Filho",
+            "es-419": "Sobre la igualdad del Hijo"
           }
         },
         {
@@ -460,7 +523,8 @@
           "title": {
             "la": "De homine facto ad imaginem et similitudinem Dei",
             "en-US": "On Man Made to the Image and Likeness of God",
-            "pt-BR": "Sobre o homem feito à imagem e semelhança de Deus"
+            "pt-BR": "Sobre o homem feito à imagem e semelhança de Deus",
+            "es-419": "Sobre el hombre hecho a imagen y semejanza de Dios"
           }
         },
         {
@@ -468,7 +532,8 @@
           "title": {
             "la": "De eo quod dictum est: Paenitet me hominem fecisse 28",
             "en-US": "On What Was Said, I Repent That I Made Man",
-            "pt-BR": "Sobre o que foi dito: Arrependo-me de ter feito o homem"
+            "pt-BR": "Sobre o que foi dito: Arrependo-me de ter feito o homem",
+            "es-419": "Sobre lo dicho: «Me arrepiento de haber hecho al hombre»"
           }
         },
         {
@@ -476,7 +541,8 @@
           "title": {
             "la": "De auro et argento quod Israelitae ab Aegyptiis acceperunt",
             "en-US": "On the Gold and Silver That the Israelites Received from the Egyptians",
-            "pt-BR": "Sobre o ouro e a prata que os israelitas receberam dos egípcios"
+            "pt-BR": "Sobre o ouro e a prata que os israelitas receberam dos egípcios",
+            "es-419": "Sobre el oro y la plata que los israelitas recibieron de los egipcios"
           }
         },
         {
@@ -484,7 +550,8 @@
           "title": {
             "la": "De eo quod scriptum est: — Mihi autem adhaerere Deo bonum est 42",
             "en-US": "On What Is Written, But for Me It Is Good to Cling to God",
-            "pt-BR": "Sobre o que está escrito: Para mim, porém, é bom aderir a Deus"
+            "pt-BR": "Sobre o que está escrito: Para mim, porém, é bom aderir a Deus",
+            "es-419": "Sobre lo escrito: — «Para mí, estar unido a Dios es bueno»"
           }
         },
         {
@@ -492,7 +559,8 @@
           "title": {
             "la": "De eo quod scriptum est: — Sexaginta sunt reginae et octoginta concubinae — et adolescentulae quarum non est numerus 44",
             "en-US": "On What Is Written, — There Are Sixty Queens and Eighty Concubines — and Young Maidens without Number",
-            "pt-BR": "Sobre o que está escrito: — São sessenta as rainhas e oitenta as concubinas — e as jovens de que não há número"
+            "pt-BR": "Sobre o que está escrito: — São sessenta as rainhas e oitenta as concubinas — e as jovens de que não há número",
+            "es-419": "Sobre lo escrito: — «Sesenta son las reinas, ochenta las concubinas, — y las jóvenes no tienen número»"
           }
         },
         {
@@ -500,7 +568,8 @@
           "title": {
             "la": "De annis quadraginta sex — aedificati templi",
             "en-US": "On the Forty-six Years — of the Building of the Temple",
-            "pt-BR": "Sobre os quarenta e seis anos — da edificação do templo"
+            "pt-BR": "Sobre os quarenta e seis anos — da edificação do templo",
+            "es-419": "Sobre los cuarenta y seis años — de la construcción del templo"
           }
         },
         {
@@ -508,7 +577,8 @@
           "title": {
             "la": "De centum quinquaginta tribus piscibus 47",
             "en-US": "On the One Hundred Fifty-three Fish",
-            "pt-BR": "Sobre os cento e cinquenta e três peixes"
+            "pt-BR": "Sobre os cento e cinquenta e três peixes",
+            "es-419": "Sobre los ciento cincuenta y tres peces"
           }
         },
         {
@@ -516,7 +586,8 @@
           "title": {
             "la": "58. - De Ioanne Baptista",
             "en-US": "On John the Baptist",
-            "pt-BR": "58. - Sobre João Batista"
+            "pt-BR": "58. - Sobre João Batista",
+            "es-419": "58. - Sobre Juan Bautista"
           }
         },
         {
@@ -524,7 +595,8 @@
           "title": {
             "la": "De decem virginibus",
             "en-US": "On the Ten Virgins",
-            "pt-BR": "Sobre as dez virgens"
+            "pt-BR": "Sobre as dez virgens",
+            "es-419": "Sobre las diez vírgenes"
           }
         },
         {
@@ -532,7 +604,8 @@
           "title": {
             "la": "De die autem illo et hora nemo scit, — neque angeli caelorum, neque Filius hominis — nisi Pater solus 109",
             "en-US": "But of That Day and Hour No One Knows, — Neither the Angels of Heaven, nor the Son of Man, — but the Father Alone",
-            "pt-BR": "Daquele dia e hora, porém, ninguém sabe, — nem os anjos dos céus, nem o Filho do homem, — senão só o Pai"
+            "pt-BR": "Daquele dia e hora, porém, ninguém sabe, — nem os anjos dos céus, nem o Filho do homem, — senão só o Pai",
+            "es-419": "Sobre aquel día y aquella hora, nadie lo sabe, — ni los ángeles de los cielos ni el Hijo del hombre, — sino solo el Padre"
           }
         },
         {
@@ -540,7 +613,8 @@
           "title": {
             "la": "De eo quod scriptum est in Evangelio, — turbas Dominum in monte pavisse de panibus quinque",
             "en-US": "On What Is Written in the Gospel, — That the Lord Fed the Crowds on the Mountain with Five Loaves",
-            "pt-BR": "Sobre o que está escrito no Evangelho, — que o Senhor alimentou as multidões no monte com cinco pães"
+            "pt-BR": "Sobre o que está escrito no Evangelho, — que o Senhor alimentou as multidões no monte com cinco pães",
+            "es-419": "Sobre lo escrito en el Evangelio: — que el Señor alimentó a las multitudes en el monte con cinco panes"
           }
         },
         {
@@ -548,7 +622,8 @@
           "title": {
             "la": "62. - Ad id quod scriptum est in Evangelio: — Quod baptizabat Iesus plures quam Ioannes, — quamvis ipse non baptizaret sed discipuli eius 139",
             "en-US": "On what is written in the Gospel: — That Jesus baptized more than John, — although he himself did not baptize, but his disciples",
-            "pt-BR": "62. - Sobre o que está escrito no Evangelho: — Que Jesus batizava mais do que João, — ainda que ele mesmo não batizasse, mas os seus discípulos"
+            "pt-BR": "62. - Sobre o que está escrito no Evangelho: — Que Jesus batizava mais do que João, — ainda que ele mesmo não batizasse, mas os seus discípulos",
+            "es-419": "62. - Sobre lo escrito en el Evangelio: — «Que Jesús bautizaba a más personas que Juan, — aunque no bautizaba él mismo, sino sus discípulos»"
           }
         },
         {
@@ -556,7 +631,8 @@
           "title": {
             "la": "De Verbo",
             "en-US": "On the Word",
-            "pt-BR": "Sobre o Verbo"
+            "pt-BR": "Sobre o Verbo",
+            "es-419": "Sobre la Palabra"
           }
         },
         {
@@ -564,7 +640,8 @@
           "title": {
             "la": "De muliere Samaritana 151",
             "en-US": "On the Samaritan Woman",
-            "pt-BR": "Sobre a mulher samaritana"
+            "pt-BR": "Sobre a mulher samaritana",
+            "es-419": "Sobre la mujer samaritana"
           }
         },
         {
@@ -572,7 +649,8 @@
           "title": {
             "la": "De resurrectione Lazari 174",
             "en-US": "On the Resurrection of Lazarus",
-            "pt-BR": "Sobre a ressurreição de Lázaro"
+            "pt-BR": "Sobre a ressurreição de Lázaro",
+            "es-419": "Sobre la resurrección de Lázaro"
           }
         },
         {
@@ -580,7 +658,8 @@
           "title": {
             "la": "De eo quod scriptum est: An ignoratis, fratres — (scientibus enim legem loquor), quia lex dominatur homini, — in quantum tempus vivit?, usque ad eum locum in quo — scriptum est: Vivificabit et mortalia corpora vestra — per inhabitantem Spiritum eius in vobis 189",
             "en-US": "On what is written: Or do you not know, brothers — (for I speak to those who know the law), that the law has dominion over a person — so long as he lives in time?, up to that place where — it is written: He will also give life to your mortal bodies — through his Spirit who dwells in you",
-            "pt-BR": "Sobre o que está escrito: Ou ignorais, irmãos — (pois falo aos que conhecem a lei), que a lei domina sobre o homem — enquanto ele vive no tempo?, até aquele lugar em que — está escrito: Vivificará também os vossos corpos mortais — pelo seu Espírito que habita em vós"
+            "pt-BR": "Sobre o que está escrito: Ou ignorais, irmãos — (pois falo aos que conhecem a lei), que a lei domina sobre o homem — enquanto ele vive no tempo?, até aquele lugar em que — está escrito: Vivificará também os vossos corpos mortais — pelo seu Espírito que habita em vós",
+            "es-419": "Sobre lo escrito: «¿Acaso ignoráis, hermanos — —pues hablo a quienes conocen la Ley—, que la Ley domina al hombre — mientras vive?», hasta el lugar donde — está escrito: «Vivificará también vuestros cuerpos mortales — por su Espíritu que habita en vosotros»"
           }
         },
         {
@@ -588,7 +667,8 @@
           "title": {
             "la": "De eo quod scriptum est: Existimo enim quod — non sint condignae, passiones huius temporis ad futuram — gloriam quae revelabitur in nobis, usque ad id — quod dictum est: Spe enim salvi facti sumus 230",
             "en-US": "On what is written: For I consider that — the sufferings of this present time are not worthy of the future — glory that will be revealed in us, up to that — which was said: For we are saved by hope",
-            "pt-BR": "Sobre o que está escrito: Julgo, com efeito, que — não são dignos os sofrimentos deste tempo em relação à futura — glória que será revelada em nós, até aquilo — que foi dito: Pois pela esperança fomos salvos"
+            "pt-BR": "Sobre o que está escrito: Julgo, com efeito, que — não são dignos os sofrimentos deste tempo em relação à futura — glória que será revelada em nós, até aquilo — que foi dito: Pois pela esperança fomos salvos",
+            "es-419": "Sobre lo que está escrito: Considero, en efecto, que — los padecimientos de este tiempo no son comparables con la futura — gloria que se revelará en nosotros, hasta lo — que se dijo: Pues en esperanza hemos sido salvados"
           }
         },
         {
@@ -596,7 +676,8 @@
           "title": {
             "la": "De eo quod scriptum est: — O homo, tu quis es, qui respondeas Deo?",
             "en-US": "On what is written: — O man, who are you to answer back to God?",
-            "pt-BR": "Sobre o que está escrito: — Ó homem, quem és tu para responderes a Deus?"
+            "pt-BR": "Sobre o que está escrito: — Ó homem, quem és tu para responderes a Deus?",
+            "es-419": "Sobre lo que está escrito: — ¡Oh hombre!, ¿quién eres tú para responder a Dios?"
           }
         },
         {
@@ -604,7 +685,8 @@
           "title": {
             "la": "De eo quod scriptum est: Tunc et ipse Filius — subiectus erit ei qui illi subiecit omnia 299",
             "en-US": "On what is written: Then the Son himself — will also be subjected to him who subjected all things to him",
-            "pt-BR": "Sobre o que está escrito: Então também o próprio Filho — estará sujeito àquele que lhe sujeitou todas as coisas"
+            "pt-BR": "Sobre o que está escrito: Então também o próprio Filho — estará sujeito àquele que lhe sujeitou todas as coisas",
+            "es-419": "Sobre lo escrito: «Entonces también el propio Hijo — se someterá a aquel que le sometió todas las cosas»"
           }
         },
         {
@@ -612,7 +694,8 @@
           "title": {
             "la": "De eo quod Apostolus dicit: Absorta est mors — in victoriam. Ubi est, mors, contentio tua? — Ubi est, mors, aculeus tuus? Aculeus autem — mortis peccatum, virtus autem peccati lex 336",
             "en-US": "On what the Apostle says: Death is swallowed up — in victory. Where, death, is your striving? — Where, death, is your sting? But the sting — of death is sin, and the power of sin is the law",
-            "pt-BR": "Sobre o que diz o Apóstolo: Absorvida foi a morte — na vitória. Onde está, ó morte, a tua contenda? — Onde está, ó morte, o teu aguilhão? Ora, o aguilhão — da morte é o pecado, e a força do pecado é a lei"
+            "pt-BR": "Sobre o que diz o Apóstolo: Absorvida foi a morte — na vitória. Onde está, ó morte, a tua contenda? — Onde está, ó morte, o teu aguilhão? Ora, o aguilhão — da morte é o pecado, e a força do pecado é a lei",
+            "es-419": "Sobre lo que dice el Apóstol: «La muerte ha sido absorbida — en la victoria. ¿Dónde está, muerte, tu contienda? — ¿Dónde está, muerte, tu aguijón? El aguijón — de la muerte es el pecado, y la fuerza del pecado es la Ley»"
           }
         },
         {
@@ -620,7 +703,8 @@
           "title": {
             "la": "De eo quod scriptum est: Invicem onera vestra — portate, et sic adimplebitis legem Christi 338",
             "en-US": "On what is written: Bear one another's burdens, — and so you will fulfill the law of Christ",
-            "pt-BR": "Sobre o que está escrito: Levai uns as cargas dos outros, — e assim cumprireis a lei de Cristo"
+            "pt-BR": "Sobre o que está escrito: Levai uns as cargas dos outros, — e assim cumprireis a lei de Cristo",
+            "es-419": "Sobre lo escrito: «Llevad los unos las cargas — de los otros, y así cumpliréis la ley de Cristo»"
           }
         },
         {
@@ -628,7 +712,8 @@
           "title": {
             "la": "De temporibus aeternis",
             "en-US": "On Eternal Times",
-            "pt-BR": "Sobre os tempos eternos"
+            "pt-BR": "Sobre os tempos eternos",
+            "es-419": "Sobre los tiempos eternos"
           }
         },
         {
@@ -636,7 +721,8 @@
           "title": {
             "la": "De eo quod scriptum est: Et habitu inventus ut homo 350",
             "en-US": "On what is written: And found in appearance as a man",
-            "pt-BR": "Sobre o que está escrito: E encontrado no hábito como homem"
+            "pt-BR": "Sobre o que está escrito: E encontrado no hábito como homem",
+            "es-419": "Sobre lo escrito: «Y hallado en su condición como hombre»"
           }
         },
         {
@@ -644,7 +730,8 @@
           "title": {
             "la": "De eo quod scriptum est in Epistula Pauli ad Colossenses: — In quo habemus redemtionem et remissionem peccatorum — qui est imago Dei invisibilis 352",
             "en-US": "On what is written in Paul's Letter to the Colossians: — In whom we have redemption and the remission of sins, — who is the image of the invisible God",
-            "pt-BR": "Sobre o que está escrito na Carta de Paulo aos Colossenses: — No qual temos a redenção e a remissão dos pecados, — o qual é imagem do Deus invisível"
+            "pt-BR": "Sobre o que está escrito na Carta de Paulo aos Colossenses: — No qual temos a redenção e a remissão dos pecados, — o qual é imagem do Deus invisível",
+            "es-419": "Sobre lo escrito en la carta de Pablo a los colosenses: — «En quien tenemos la redención y la remisión de los pecados, — que es imagen del Dios invisible»"
           }
         },
         {
@@ -652,7 +739,8 @@
           "title": {
             "la": "75. - De hereditate Dei",
             "en-US": "On the Inheritance of God",
-            "pt-BR": "Sobre a herança de Deus"
+            "pt-BR": "Sobre a herança de Deus",
+            "es-419": "75. - Sobre la herencia de Dios"
           }
         },
         {
@@ -660,7 +748,8 @@
           "title": {
             "la": "De eo quod Iacobus apostolus dicit: — Vis autem scire, o homo inanis, quia — fides sine operibus otiosa est? 366",
             "en-US": "On what the apostle James says: — But do you wish to know, O empty man, that — faith without works is idle?",
-            "pt-BR": "Sobre o que diz o apóstolo Tiago: — Queres, porém, saber, ó homem vão, que — a fé sem obras é ociosa?"
+            "pt-BR": "Sobre o que diz o apóstolo Tiago: — Queres, porém, saber, ó homem vão, que — a fé sem obras é ociosa?",
+            "es-419": "Sobre lo que dice el apóstol Santiago: — «¿Quieres saber, hombre vano, que — la fe sin obras es inactiva?»"
           }
         },
         {
@@ -668,7 +757,8 @@
           "title": {
             "la": "De timore utrum peccatum sit",
             "en-US": "On Whether Fear Is a Sin",
-            "pt-BR": "Se o temor é pecado"
+            "pt-BR": "Se o temor é pecado",
+            "es-419": "Sobre el temor, si es pecado"
           }
         },
         {
@@ -676,7 +766,8 @@
           "title": {
             "la": "De pulchritudine simulacrorum",
             "en-US": "On the Beauty of Images",
-            "pt-BR": "Sobre a beleza dos simulacros"
+            "pt-BR": "Sobre a beleza dos simulacros",
+            "es-419": "Sobre la belleza de las imágenes"
           }
         },
         {
@@ -684,7 +775,8 @@
           "title": {
             "la": "Quare magi Pharaonis fecerunt quaedam — miracula sicut Moyses famulus Dei? 378",
             "en-US": "Why did the magicians of Pharaoh perform certain — miracles like Moses the servant of God? 378",
-            "pt-BR": "Por que os magos do Faraó fizeram certos — milagres como Moisés, servo de Deus? 378"
+            "pt-BR": "Por que os magos do Faraó fizeram certos — milagres como Moisés, servo de Deus? 378",
+            "es-419": "¿Por qué los magos del faraón hicieron algunos — milagros como Moisés, siervo de Dios?"
           }
         },
         {
@@ -692,7 +784,8 @@
           "title": {
             "la": "Adversus Apollinaristas",
             "en-US": "Against the Apollinarists",
-            "pt-BR": "Contra os apolinaristas"
+            "pt-BR": "Contra os apolinaristas",
+            "es-419": "Contra los apolinaristas"
           }
         },
         {
@@ -700,7 +793,8 @@
           "title": {
             "la": "De Quadragesima et Quinquagesima",
             "en-US": "On Lent and Pentecost",
-            "pt-BR": "Sobre a Quaresma e a Quinquagésima"
+            "pt-BR": "Sobre a Quaresma e a Quinquagésima",
+            "es-419": "Sobre la Cuaresma y la Quincuagésima"
           }
         },
         {
@@ -708,7 +802,8 @@
           "title": {
             "la": "De eo quod scriptum est: — Quem enim diligit Dominus corripit, — flagellat autem omnem filium quem recipit 418",
             "en-US": "On what is written: — For whom the Lord loves he rebukes, — and he scourges every son whom he receives 418",
-            "pt-BR": "Sobre o que está escrito: — Porque o Senhor repreende a quem ama, — e açoita a todo filho que recebe"
+            "pt-BR": "Sobre o que está escrito: — Porque o Senhor repreende a quem ama, — e açoita a todo filho que recebe",
+            "es-419": "Sobre lo escrito: — «El Señor corrige a quien ama — y azota a todo hijo que recibe»"
           }
         },
         {
@@ -716,7 +811,8 @@
           "title": {
             "la": "De coniugio, in eo quod Dominus ait: — Si quis dimiserit uxorem suam, — excepta causa fornicationis, et cetera 420",
             "en-US": "On Marriage, in what the Lord says: — If anyone dismisses his wife, — except for the cause of fornication, and the rest 420",
-            "pt-BR": "Sobre o matrimônio, no que diz o Senhor: — Se alguém repudiar a sua mulher, — exceto por causa de fornicação, e o restante"
+            "pt-BR": "Sobre o matrimônio, no que diz o Senhor: — Se alguém repudiar a sua mulher, — exceto por causa de fornicação, e o restante",
+            "es-419": "Sobre el matrimonio, acerca de lo que dice el Señor: — «Si alguien repudia a su mujer, — excepto por causa de fornicación», etcétera"
           }
         }
       ]

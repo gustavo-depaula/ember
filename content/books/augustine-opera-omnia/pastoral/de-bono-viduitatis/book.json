@@ -4,12 +4,14 @@
   "name": {
     "la": "De bono viduitatis",
     "en-US": "The Excellence of Widowhood",
-    "pt-BR": "O bem da viuvez"
+    "pt-BR": "O bem da viuvez",
+    "es-419": "El bien de la viudez"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A letter-treatise to Juliana, a consecrated widow, on the profession of holy widowhood. Starting from Paul's counsel to the unmarried and widows, it instructs and encourages her and others through her.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Widow",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Widow",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Widow",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De bono viduitatis",
         "en-US": "The Excellence of Widowhood",
-        "pt-BR": "O bem da viuvez"
+        "pt-BR": "O bem da viuvez",
+        "es-419": "El bien de la viudez"
       }
     }
   ]

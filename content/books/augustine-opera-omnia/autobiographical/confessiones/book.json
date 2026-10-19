@@ -4,12 +4,14 @@
   "name": {
     "la": "Confessiones",
     "en-US": "The Confessions",
-    "pt-BR": "Confissões"
+    "pt-BR": "Confissões",
+    "es-419": "Confesiones"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Thirteen books praising God for Augustine's evil deeds and good alike: the first ten tell of his own life up to and after his conversion, the last three expound Genesis from *In the beginning* to the Sabbath rest.",
@@ -19,7 +21,11 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419",
+    "en-US-x-pilkington",
+    "en-US-x-pusey",
+    "en-US-x-outler"
   ],
   "sources": [
     {
@@ -30,12 +36,38 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Conf",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Conf",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Conf",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "en-US-x-pilkington",
+      "url": "https://augustinus.cc/en/en/~Conf",
+      "description": "English translation by J. G. Pilkington (1876), as in the Nicene and Post-Nicene Fathers (public domain); mirrored from augustinus.cc.",
+      "label": "J. G. Pilkington (1876)"
+    },
+    {
+      "language": "en-US-x-pusey",
+      "url": "https://augustinus.cc/en/en/~Conf",
+      "description": "English translation by E. B. Pusey, Library of the Fathers (1838, public domain); mirrored from augustinus.cc.",
+      "label": "E. B. Pusey (1838)"
+    },
+    {
+      "language": "en-US-x-outler",
+      "url": "https://augustinus.cc/en/en/~Conf",
+      "description": "English translation by Albert C. Outler (1955); mirrored from augustinus.cc.",
+      "label": "Albert C. Outler (1955)"
     }
   ],
   "toc": [
@@ -44,7 +76,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +85,11 @@
       "title": {
         "la": "Liber I: Ortus, infantia et pueritia",
         "en-US": "Book 1: Birth, Infancy, and Boyhood",
-        "pt-BR": "Livro I: Nascimento, infância e meninice"
+        "pt-BR": "Livro I: Nascimento, infância e meninice",
+        "es-419": "Libro I: Nacimiento, infancia y niñez",
+        "en-US-x-pilkington": "Book 1: His Birth, Infancy, and Boyhood",
+        "en-US-x-pusey": "Book 1: Birth, infancy, and boyhood",
+        "en-US-x-outler": "Book 1: Infancy and boyhood up to age 14"
       }
     },
     {
@@ -60,7 +97,11 @@
       "title": {
         "la": "Liber II: Sextus decimus annus aetatis",
         "en-US": "Book 2: The Sixteenth Year of His Life",
-        "pt-BR": "Livro II: O décimo sexto ano de idade"
+        "pt-BR": "Livro II: O décimo sexto ano de idade",
+        "es-419": "Libro II: El decimosexto año de vida",
+        "en-US-x-pilkington": "Book 2: His Sixteenth Year",
+        "en-US-x-pusey": "Book 2: Sixteenth year of age",
+        "en-US-x-outler": "Book 2: Fall amongst bad companions, which leads to thievery and lust —"
       }
     },
     {
@@ -68,7 +109,11 @@
       "title": {
         "la": "Liber III: Carthagine honestis studiis deditus",
         "en-US": "Book 3: Given Over to Honorable Studies at Carthage",
-        "pt-BR": "Livro III: Dedicado, em Cartago, aos estudos honrosos"
+        "pt-BR": "Livro III: Dedicado, em Cartago, aos estudos honrosos",
+        "es-419": "Libro III: Dedicado a estudios honorables en Cartago",
+        "en-US-x-pilkington": "Book 3: He is Sent to Advanced Studies in Carthage",
+        "en-US-x-pusey": "Book 3: He is given to advanced studies in Carthage",
+        "en-US-x-outler": "Chapter 3: Studies at Carthage, conversion to Manichaeism, and continued indulgence in lust (age 16-19)"
       }
     },
     {
@@ -76,7 +121,11 @@
       "title": {
         "la": "Liber IV: Per novem annos doctor Tagaste et Carthagine",
         "en-US": "Book 4: For Nine Years a Teacher at Thagaste and Carthage",
-        "pt-BR": "Livro IV: Por nove anos, professor em Tagaste e Cartago"
+        "pt-BR": "Livro IV: Por nove anos, professor em Tagaste e Cartago",
+        "es-419": "Libro IV: Durante nueve años, maestro en Tagaste y Cartago",
+        "en-US-x-pilkington": "Book 4: He Becomes a Teacher in Thagaste and Carthage for Nine Years",
+        "en-US-x-pusey": "Book 4: A teacher in Thagaste and Carthage for nine years",
+        "en-US-x-outler": "Book 4: Loss of a friend, studies in Aristotle, the fit and the fair (age 20-29)"
       }
     },
     {
@@ -84,7 +133,11 @@
       "title": {
         "la": "Liber V: Carthaginem relinquens petit Romam atque inde Mediolanium",
         "en-US": "Book 5: Leaving Carthage, He Seeks Rome, and from There Milan",
-        "pt-BR": "Livro V: Deixando Cartago, dirige-se a Roma e, dali, a Milão"
+        "pt-BR": "Livro V: Deixando Cartago, dirige-se a Roma e, dali, a Milão",
+        "es-419": "Libro V: Deja Cartago y se dirige a Roma, y de allí a Milán",
+        "en-US-x-pilkington": "Book 5: Leaving Carthage, He Journeys to Rome and Thence to Milan",
+        "en-US-x-pusey": "Book 5: Leaving Carthage, he heads to Rome and thence to Milan",
+        "en-US-x-outler": "Book 5: Moving away from Manichaeism under the influence of St. Ambrose in Milan (age 29)"
       }
     },
     {
@@ -92,7 +145,11 @@
       "title": {
         "la": "Liber VI: Tricenaria aetas",
         "en-US": "Book 6: The Thirtieth Year of His Age",
-        "pt-BR": "Livro VI: A idade dos trinta anos"
+        "pt-BR": "Livro VI: A idade dos trinta anos",
+        "es-419": "Libro VI: A los treinta años",
+        "en-US-x-pilkington": "Book 6: His Thirties",
+        "en-US-x-pusey": "Book 6: Thirties",
+        "en-US-x-outler": "Chapter 6: Moving towards Catholicism under the influence of St. Ambrose (age 30)"
       }
     },
     {
@@ -100,7 +157,11 @@
       "title": {
         "la": "Liber VII: Ascensio ad veritam",
         "en-US": "Book 7: The Ascent to the Truth",
-        "pt-BR": "Livro VII: A ascensão à verdade"
+        "pt-BR": "Livro VII: A ascensão à verdade",
+        "es-419": "Libro VII: Ascenso a la verdad",
+        "en-US-x-pilkington": "Book 7: Ascent to Truth",
+        "en-US-x-pusey": "Book 7: Ascent to truth",
+        "en-US-x-outler": "Book 7: Moving towards a greater understanding of God (age 31)"
       }
     },
     {
@@ -108,7 +169,10 @@
       "title": {
         "la": "Liber VIII: Conversio ad unum verum Deum",
         "en-US": "Book 8: Conversion to the One True God",
-        "pt-BR": "Livro VIII: Conversão ao único Deus verdadeiro"
+        "pt-BR": "Livro VIII: Conversão ao único Deus verdadeiro",
+        "es-419": "Libro VIII: Conversión al único Dios verdadero",
+        "en-US-x-pusey": "Book 8: Conversion to the one true God",
+        "en-US-x-outler": "Book 8: Conversion to Christianity and instruction by Simplicianus on how to convert others (age 32)"
       }
     },
     {
@@ -116,7 +180,11 @@
       "title": {
         "la": "Liber IX: Baptismus et reditus in Africam",
         "en-US": "Book 9: Baptism and the Return to Africa",
-        "pt-BR": "Livro IX: Batismo e o retorno à África"
+        "pt-BR": "Livro IX: Batismo e o retorno à África",
+        "es-419": "Libro IX: Bautismo y regreso a África",
+        "en-US-x-pilkington": "Book 9: His Baptism and Return to Africa",
+        "en-US-x-pusey": "Book 9: Baptism and return to Africa",
+        "en-US-x-outler": "Book 9: Baptism, the death of his mother Monica, the death of his friends Nebridius and Vecundus, and his abandonment of his studies of rhetoric (age 33)"
       }
     },
     {
@@ -124,7 +192,11 @@
       "title": {
         "la": "Liber X: Post Deum Quaesitum ed cognitum",
         "en-US": "Book 10: After God has been sought and known",
-        "pt-BR": "Livro X: Depois de Deus buscado e conhecido"
+        "pt-BR": "Livro X: Depois de Deus buscado e conhecido",
+        "es-419": "Libro X: Después de buscar y conocer a Dios",
+        "en-US-x-pilkington": "Book 10: The Period After God Had Been Sought and Known",
+        "en-US-x-pusey": "Book 10: After God was sought and known",
+        "en-US-x-outler": "Book 10: Continued reflections on the values of confessions and on the workings of memory, as related to the 5 senses"
       }
     },
     {
@@ -132,7 +204,11 @@
       "title": {
         "la": "Liber XI: Commentatio principii, quo Deus dicitur caelum et terram creavisse",
         "en-US": "Book 11: A meditation on the \"beginning\" in which God is said to have created heaven and earth",
-        "pt-BR": "Livro XI: Meditação sobre o 'princípio' em que se diz que Deus criou o céu e a terra"
+        "pt-BR": "Livro XI: Meditação sobre o 'princípio' em que se diz que Deus criou o céu e a terra",
+        "es-419": "Libro XI: Comentario del principio en el que se dice que Dios creó el cielo y la tierra",
+        "en-US-x-pilkington": "Book 11: A Commentary on the Principles by Which God is Said to Have Created Heaven and Earth",
+        "en-US-x-pusey": "Book 11: A commentary on the principles by which God is said to have created heaven and earth",
+        "en-US-x-outler": "Book 11: Reflections on Genesis and searching for the meaning of time"
       }
     },
     {
@@ -140,7 +216,11 @@
       "title": {
         "la": "Liber XII: Commentatio caeli et terrae, quae Deus dicitur fecisse",
         "en-US": "Book 12: A meditation on heaven and earth, which God is said to have made",
-        "pt-BR": "Livro 12: Meditação sobre o céu e a terra, que se diz ter Deus feito"
+        "pt-BR": "Livro 12: Meditação sobre o céu e a terra, que se diz ter Deus feito",
+        "es-419": "Libro XII: Reflexión sobre el cielo y la tierra que, según se dice, hizo Dios",
+        "en-US-x-pilkington": "Book 12: A Commentary on Heaven and Earth, Which God Is Said to Have Made",
+        "en-US-x-pusey": "Book 12: Commentary on heaven and earth, which God is said to have made",
+        "en-US-x-outler": "Book 12: Continued reflections on the book of Genesis"
       }
     },
     {
@@ -148,7 +228,11 @@
       "title": {
         "la": "Liber XIII: Creatura mundi allegorice inspecta",
         "en-US": "Book 13: The creation of the world allegorically considered",
-        "pt-BR": "Livro XIII: A criação do mundo considerada alegoricamente"
+        "pt-BR": "Livro XIII: A criação do mundo considerada alegoricamente",
+        "es-419": "Libro XIII: La creación del mundo examinada alegóricamente",
+        "en-US-x-pilkington": "Book 13: The Creation of the World, Viewed Allegorically",
+        "en-US-x-pusey": "Book 13: The creation of the world viewed allegorically",
+        "en-US-x-outler": "Book 13: Exploration of the meaning of Genesis and the Trinity"
       }
     }
   ]

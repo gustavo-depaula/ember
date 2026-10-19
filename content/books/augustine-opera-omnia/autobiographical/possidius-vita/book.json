@@ -4,12 +4,14 @@
   "name": {
     "la": "Vita Sancti Augustini",
     "en-US": "Life of St. Augustine",
-    "pt-BR": "Vida de Santo Agostinho"
+    "pt-BR": "Vida de Santo Agostinho",
+    "es-419": "Vida de san Agustín"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "The life of Augustine by Possidius, bishop of Calama, who lived in friendship with him for many years: his conversion and ministry in order, then his character and way of life, then his death.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Vita",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Vita",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Vita",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Vita Sancti Augustini",
         "en-US": "Life of St. Augustine",
-        "pt-BR": "Vida de Santo Agostinho"
+        "pt-BR": "Vida de Santo Agostinho",
+        "es-419": "Vida de san Agustín"
       }
     }
   ]

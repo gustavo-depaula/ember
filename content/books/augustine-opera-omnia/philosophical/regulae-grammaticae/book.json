@@ -4,12 +4,14 @@
   "name": {
     "la": "De grammatica: Regulae",
     "en-US": "On Grammar: The Rules",
-    "pt-BR": "A gramática: as regras"
+    "pt-BR": "A gramática: as regras",
+    "es-419": "La gramática: las reglas"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "A handbook of rules of Latin grammar arranged by the eight parts of speech, dwelling especially on the endings, genders and declension of nouns, with Latin and Greek examples.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~deGramR",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~deGramR",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~deGramR",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "De grammatica: Regulae",
         "en-US": "On Grammar: The Rules",
-        "pt-BR": "A gramática: as regras"
+        "pt-BR": "A gramática: as regras",
+        "es-419": "La gramática: las reglas"
       }
     }
   ]

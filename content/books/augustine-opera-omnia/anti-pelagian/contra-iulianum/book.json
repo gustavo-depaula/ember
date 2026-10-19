@@ -4,12 +4,14 @@
   "name": {
     "la": "Contra Iulianum",
     "en-US": "Answer to Julian",
-    "pt-BR": "Contra Juliano"
+    "pt-BR": "Contra Juliano",
+    "es-419": "Contra Juliano"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Six books against Julian of Eclanum's four. The first two answer his charge of Manicheism with the testimony of earlier Catholic Fathers on original sin; the other four reply to his books one by one.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~Iulianum",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~Iulianum",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~Iulianum",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Retractationes II",
         "en-US": "Revisions II",
-        "pt-BR": "Revisões II"
+        "pt-BR": "Revisões II",
+        "es-419": "Revisiones II"
       }
     },
     {
@@ -52,7 +64,8 @@
       "title": {
         "la": "Liber 1",
         "en-US": "Book 1",
-        "pt-BR": "Livro 1"
+        "pt-BR": "Livro 1",
+        "es-419": "Libro 1"
       }
     },
     {
@@ -60,7 +73,8 @@
       "title": {
         "la": "Liber 2",
         "en-US": "Book 2",
-        "pt-BR": "Livro 2"
+        "pt-BR": "Livro 2",
+        "es-419": "Libro 2"
       }
     },
     {
@@ -68,7 +82,8 @@
       "title": {
         "la": "Liber 3",
         "en-US": "Book 3",
-        "pt-BR": "Livro 3"
+        "pt-BR": "Livro 3",
+        "es-419": "Libro 3"
       }
     },
     {
@@ -76,7 +91,8 @@
       "title": {
         "la": "Liber 4",
         "en-US": "Book 4",
-        "pt-BR": "Livro 4"
+        "pt-BR": "Livro 4",
+        "es-419": "Libro 4"
       }
     },
     {
@@ -84,7 +100,8 @@
       "title": {
         "la": "Liber 5",
         "en-US": "Book 5",
-        "pt-BR": "Livro 5"
+        "pt-BR": "Livro 5",
+        "es-419": "Libro 5"
       }
     },
     {
@@ -92,7 +109,8 @@
       "title": {
         "la": "Liber 6",
         "en-US": "Book 6",
-        "pt-BR": "Livro 6"
+        "pt-BR": "Livro 6",
+        "es-419": "Libro 6"
       }
     }
   ]

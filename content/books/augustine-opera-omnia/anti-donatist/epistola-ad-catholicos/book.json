@@ -4,12 +4,14 @@
   "name": {
     "la": "Epistola ad Catholicos de secta Donatistarum",
     "en-US": "Letter to Catholics on the Sect of the Donatists",
-    "pt-BR": "Carta aos católicos sobre a seita dos donatistas"
+    "pt-BR": "Carta aos católicos sobre a seita dos donatistas",
+    "es-419": "Carta a los católicos sobre la secta de los donatistas"
   },
   "author": {
     "la": "Sanctus Augustinus Hipponensis",
     "en-US": "St. Augustine of Hippo",
-    "pt-BR": "Santo Agostinho de Hipona"
+    "pt-BR": "Santo Agostinho de Hipona",
+    "es-419": "San Agustín de Hipona"
   },
   "description": {
     "en-US": "Also known as *On the Unity of the Church*: a letter to Catholics on where the Church is to be found. Augustine argues from the clear testimonies of Scripture that it is the Church spread throughout the world, not the party of Donatus.",
@@ -19,7 +21,8 @@
   "languages": [
     "la",
     "en-US",
-    "pt-BR"
+    "pt-BR",
+    "es-419"
   ],
   "sources": [
     {
@@ -30,12 +33,20 @@
     {
       "language": "en-US",
       "url": "https://augustinus.cc/en/en/~LetterDon",
-      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     },
     {
       "language": "pt-BR",
       "url": "https://augustinus.cc/pt/pt/~LetterDon",
-      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
+    },
+    {
+      "language": "es-419",
+      "url": "https://augustinus.cc/es/es/~LetterDon",
+      "description": "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.",
+      "label": "Aquinas Institute"
     }
   ],
   "toc": [
@@ -44,7 +55,8 @@
       "title": {
         "la": "Epistola ad Catholicos de secta Donatistarum",
         "en-US": "Letter to Catholics on the Sect of the Donatists",
-        "pt-BR": "Carta aos católicos sobre a seita dos donatistas"
+        "pt-BR": "Carta aos católicos sobre a seita dos donatistas",
+        "es-419": "Carta a los católicos sobre la secta de los donatistas"
       }
     }
   ]
