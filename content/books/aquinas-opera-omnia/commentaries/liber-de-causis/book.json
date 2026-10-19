@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the Book of Causes",
-    "la": "Super Librum De Causis"
+    "la": "Super Librum De Causis",
+    "pt-BR": "Comentário ao Livro das Causas"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the *Liber de Causis* — the Neoplatonic compilation derived from Proclus's *Elements of Theology*. Aquinas was the first medieval to identify its source as Proclus rather than Aristotle.",
-    "la": "Expositio Thomae in *Librum de Causis* — compilationem Neoplatonicam ex *Elementatione Theologica* Procli derivatam. Thomas primus medii aevi fontem eius Proclum, non Aristotelem esse identificavit."
+    "la": "Expositio Thomae in *Librum de Causis* — compilationem Neoplatonicam ex *Elementatione Theologica* Procli derivatam. Thomas primus medii aevi fontem eius Proclum, non Aristotelem esse identificavit.",
+    "pt-BR": "Comentário de Tomás de Aquino ao *Liber de Causis* — a compilação neoplatônica derivada dos *Elementos de teologia* de Proclo. Tomás foi o primeiro medieval a identificar Proclo, e não Aristóteles, como sua fonte."
   },
   "composed": "1271–1272",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,231 +39,264 @@
       "id": "libcaus-c01",
       "title": {
         "en-US": "Prologue",
-        "la": "Prologue"
+        "la": "Prologue",
+        "pt-BR": "Prólogo"
       }
     },
     {
       "id": "libcaus-c02",
       "title": {
         "en-US": "Proposition 1",
-        "la": "Proposition 1"
+        "la": "Proposition 1",
+        "pt-BR": "Proposição 1"
       }
     },
     {
       "id": "libcaus-c03",
       "title": {
         "en-US": "Proposition 2",
-        "la": "Proposition 2"
+        "la": "Proposition 2",
+        "pt-BR": "Proposição 2"
       }
     },
     {
       "id": "libcaus-c04",
       "title": {
         "en-US": "Proposition 3",
-        "la": "Proposition 3"
+        "la": "Proposition 3",
+        "pt-BR": "Proposição 3"
       }
     },
     {
       "id": "libcaus-c05",
       "title": {
         "en-US": "Proposition 4",
-        "la": "Proposition 4"
+        "la": "Proposition 4",
+        "pt-BR": "Proposição 4"
       }
     },
     {
       "id": "libcaus-c06",
       "title": {
         "en-US": "Proposition 5",
-        "la": "Proposition 5"
+        "la": "Proposition 5",
+        "pt-BR": "Proposição 5"
       }
     },
     {
       "id": "libcaus-c07",
       "title": {
         "en-US": "Proposition 6",
-        "la": "Proposition 6"
+        "la": "Proposition 6",
+        "pt-BR": "Proposição 6"
       }
     },
     {
       "id": "libcaus-c08",
       "title": {
         "en-US": "Proposition 7",
-        "la": "Proposition 7"
+        "la": "Proposition 7",
+        "pt-BR": "Proposição 7"
       }
     },
     {
       "id": "libcaus-c09",
       "title": {
         "en-US": "Proposition 8",
-        "la": "Proposition 8"
+        "la": "Proposition 8",
+        "pt-BR": "Proposição 8"
       }
     },
     {
       "id": "libcaus-c10",
       "title": {
         "en-US": "Proposition 9",
-        "la": "Proposition 9"
+        "la": "Proposition 9",
+        "pt-BR": "Proposição 9"
       }
     },
     {
       "id": "libcaus-c11",
       "title": {
         "en-US": "Proposition 10",
-        "la": "Proposition 10"
+        "la": "Proposition 10",
+        "pt-BR": "Proposição 10"
       }
     },
     {
       "id": "libcaus-c12",
       "title": {
         "en-US": "Proposition 11",
-        "la": "Proposition 11"
+        "la": "Proposition 11",
+        "pt-BR": "Proposição 11"
       }
     },
     {
       "id": "libcaus-c13",
       "title": {
         "en-US": "Proposition 12",
-        "la": "Proposition 12"
+        "la": "Proposition 12",
+        "pt-BR": "Proposição 12"
       }
     },
     {
       "id": "libcaus-c14",
       "title": {
         "en-US": "Proposition 13",
-        "la": "Proposition 13"
+        "la": "Proposition 13",
+        "pt-BR": "Proposição 13"
       }
     },
     {
       "id": "libcaus-c15",
       "title": {
         "en-US": "Proposition 14",
-        "la": "Proposition 14"
+        "la": "Proposition 14",
+        "pt-BR": "Proposição 14"
       }
     },
     {
       "id": "libcaus-c16",
       "title": {
         "en-US": "Proposition 15",
-        "la": "Proposition 15"
+        "la": "Proposition 15",
+        "pt-BR": "Proposição 15"
       }
     },
     {
       "id": "libcaus-c17",
       "title": {
         "en-US": "Proposition 16",
-        "la": "Proposition 16"
+        "la": "Proposition 16",
+        "pt-BR": "Proposição 16"
       }
     },
     {
       "id": "libcaus-c18",
       "title": {
         "en-US": "Proposition 17",
-        "la": "Proposition 17"
+        "la": "Proposition 17",
+        "pt-BR": "Proposição 17"
       }
     },
     {
       "id": "libcaus-c19",
       "title": {
         "en-US": "Proposition 18",
-        "la": "Proposition 18"
+        "la": "Proposition 18",
+        "pt-BR": "Proposição 18"
       }
     },
     {
       "id": "libcaus-c20",
       "title": {
         "en-US": "Proposition 19",
-        "la": "Proposition 19"
+        "la": "Proposition 19",
+        "pt-BR": "Proposição 19"
       }
     },
     {
       "id": "libcaus-c21",
       "title": {
         "en-US": "Proposition 20",
-        "la": "Proposition 20"
+        "la": "Proposition 20",
+        "pt-BR": "Proposição 20"
       }
     },
     {
       "id": "libcaus-c22",
       "title": {
         "en-US": "Proposition 21",
-        "la": "Proposition 21"
+        "la": "Proposition 21",
+        "pt-BR": "Proposição 21"
       }
     },
     {
       "id": "libcaus-c23",
       "title": {
         "en-US": "Proposition 22",
-        "la": "Proposition 22"
+        "la": "Proposition 22",
+        "pt-BR": "Proposição 22"
       }
     },
     {
       "id": "libcaus-c24",
       "title": {
         "en-US": "Proposition 23",
-        "la": "Proposition 23"
+        "la": "Proposition 23",
+        "pt-BR": "Proposição 23"
       }
     },
     {
       "id": "libcaus-c25",
       "title": {
         "en-US": "Proposition 24",
-        "la": "Proposition 24"
+        "la": "Proposition 24",
+        "pt-BR": "Proposição 24"
       }
     },
     {
       "id": "libcaus-c26",
       "title": {
         "en-US": "Proposition 25",
-        "la": "Proposition 25"
+        "la": "Proposition 25",
+        "pt-BR": "Proposição 25"
       }
     },
     {
       "id": "libcaus-c27",
       "title": {
         "en-US": "Proposition 26",
-        "la": "Proposition 26"
+        "la": "Proposition 26",
+        "pt-BR": "Proposição 26"
       }
     },
     {
       "id": "libcaus-c28",
       "title": {
         "en-US": "Proposition 27",
-        "la": "Proposition 27"
+        "la": "Proposition 27",
+        "pt-BR": "Proposição 27"
       }
     },
     {
       "id": "libcaus-c29",
       "title": {
         "en-US": "Proposition 28",
-        "la": "Proposition 28"
+        "la": "Proposition 28",
+        "pt-BR": "Proposição 28"
       }
     },
     {
       "id": "libcaus-c30",
       "title": {
         "en-US": "Proposition 29",
-        "la": "Proposition 29"
+        "la": "Proposition 29",
+        "pt-BR": "Proposição 29"
       }
     },
     {
       "id": "libcaus-c31",
       "title": {
         "en-US": "Proposition 30",
-        "la": "Proposition 30"
+        "la": "Proposition 30",
+        "pt-BR": "Proposição 30"
       }
     },
     {
       "id": "libcaus-c32",
       "title": {
         "en-US": "Proposition 31",
-        "la": "Proposition 31"
+        "la": "Proposition 31",
+        "pt-BR": "Proposição 31"
       }
     },
     {
       "id": "libcaus-c33",
       "title": {
         "en-US": "Proposition 32",
-        "la": "Proposition 32"
+        "la": "Proposition 32",
+        "pt-BR": "Proposição 32"
       }
     }
   ]
