@@ -2,13 +2,16 @@
   "id": "victorinus-commentary-on-the-apocalypse-of-the-blessed-john",
   "cover": "quarter",
   "name": {
-    "en-US": "Commentary on the Apocalypse of the Blessed John"
+    "en-US": "Commentary on the Apocalypse of the Blessed John",
+    "pt-BR": "Comentário ao Apocalipse do Bem-aventurado João"
   },
   "author": {
-    "en-US": "Victorinus"
+    "en-US": "Victorinus",
+    "pt-BR": "Vitorino"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Commentary on the Apocalypse of the Blessed John"
+        "en-US": "Commentary on the Apocalypse of the Blessed John",
+        "pt-BR": "Comentário ao Apocalipse do Bem-aventurado João"
       }
     }
   ]
