@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on Boethius's De Trinitate",
-    "la": "Expositio super librum Boethii De Trinitate"
+    "la": "Expositio super librum Boethii De Trinitate",
+    "pt-BR": "Comentário ao De Trinitate de Boécio"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on the first three chapters of Boethius's *De Trinitate*. Famous for its prologue's discussion of the division of the speculative sciences. Unfinished.",
-    "la": "Expositio Thomae primorum trium capitum *De Trinitate* Boethii. Prooemium continet discussionem Thomae celeberrimam de divisione scientiae speculativae. Opus inchoatum."
+    "la": "Expositio Thomae primorum trium capitum *De Trinitate* Boethii. Prooemium continet discussionem Thomae celeberrimam de divisione scientiae speculativae. Opus inchoatum.",
+    "pt-BR": "Comentário de Santo Tomás aos três primeiros capítulos do *De Trinitate* de Boécio. Célebre pela discussão, em seu prólogo, da divisão das ciências especulativas. Inacabado."
   },
   "composed": "1257–1259",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Book 1 — St. Thomas’ Introduction",
-        "la": "Liber 1"
+        "la": "Liber 1",
+        "pt-BR": "Livro 1 — Introdução de Santo Tomás"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — St. Thomas’ Introduction",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Introdução de Santo Tomás"
           }
         }
       ]
@@ -51,14 +57,16 @@
       "id": "g2",
       "title": {
         "en-US": "Book 2 — Boethius’ Preface",
-        "la": "Liber 2"
+        "la": "Liber 2",
+        "pt-BR": "Livro 2 — Prefácio de Boécio"
       },
       "children": [
         {
           "id": "g2-pr",
           "title": {
             "en-US": "Prologue — Boethius’ Preface",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo — Prefácio de Boécio"
           }
         }
       ]
@@ -67,21 +75,24 @@
       "id": "g3",
       "title": {
         "en-US": "Book 3",
-        "la": "Liber 3"
+        "la": "Liber 3",
+        "pt-BR": "Livro 3"
       },
       "children": [
         {
           "id": "g3-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "g3-c001",
           "title": {
             "en-US": "Chapter 1 — Exposition of Chapter 1",
-            "la": "Caput 1"
+            "la": "Caput 1",
+            "pt-BR": "Capítulo 1 — Exposição do capítulo 1"
           }
         }
       ]
@@ -90,21 +101,24 @@
       "id": "g4",
       "title": {
         "en-US": "Book 4",
-        "la": "Liber 4"
+        "la": "Liber 4",
+        "pt-BR": "Livro 4"
       },
       "children": [
         {
           "id": "g4-pr",
           "title": {
             "en-US": "Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         },
         {
           "id": "g4-c002",
           "title": {
             "en-US": "Chapter 2 — Exposition of Chapter 2",
-            "la": "Caput 2"
+            "la": "Caput 2",
+            "pt-BR": "Capítulo 2 — Exposição do capítulo 2"
           }
         }
       ]
