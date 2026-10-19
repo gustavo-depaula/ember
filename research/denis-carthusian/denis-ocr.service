@@ -1,0 +1,15 @@
+# Install: see "Running the full drafts" in README.md.
+[Unit]
+Description=Denis the Carthusian: dots.mocr drafts of every volume
+After=network-online.target
+
+[Service]
+Type=simple
+ExecStart=%h/Documents/ember/.claude/worktrees/bridge-cse_01JRg9EA6b5WHThBdtG4ivyc/research/denis-carthusian/pipeline.sh
+Restart=on-failure
+RestartSec=60
+# Let in-flight pages finish writing before vLLM is torn down.
+TimeoutStopSec=60
+
+[Install]
+WantedBy=default.target

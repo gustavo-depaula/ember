@@ -2,12 +2,12 @@
 
 **Question.** Can the *Opera Omnia* of Dionysius Cartusianus (Montreuil/Tournai, 1896–1913, 42 volumes, all in Latin) be brought into the corpus as faithful text? It exists only as page scans, and the OCR that ships with them is unusable.
 
-**Where things stand (2026-10-18).** An OCR bake-off on five pages. Two engines are good enough to build on:
+**Where things stand (2026-10-18).** The method is settled, in two passes:
 
-- **dots.mocr** runs locally on the RTX 4070 Ti at no cost. It has 0.84% character error and keeps every æ/œ, but drops italics. Doing all 25,610 Internet Archive pages would take about 37 hours.
-- **Claude Sonnet 5.5** is near-perfect (0.04%) and keeps italics. At Batch API rates it would cost an estimated $300 for the same pages.
+1. **dots.mocr drafts every page** on the local RTX 4070 Ti, at no cost. It is running for all 36 Internet Archive volumes (25,610 pages, about 32 hours) as a systemd service that survives a power cut; see [Running the full drafts](#running-the-full-drafts).
+2. **Claude Sonnet proofreads each draft** through the Claude Code subscription: one lean `claude -p` call per page, with the page cropped to its text, returning only a list of fixes. The result scores 0.03% character error with italics restored, slightly better than Sonnet transcribing alone (0.04%). It costs about $0.03 per page at API rates, around $770 for the set, paid from subscription limits.
 
-Nothing is in `content/` yet. Which engine to use, and how to split the volumes into books, are still open.
+Nothing is in `content/` yet. Next is a pilot volume taken all the way into the corpus, which also measures what the check costs in subscription limits.
 
 ## The edition
 
@@ -36,9 +36,44 @@ Five pages from five volumes: a faded commentary page (vol. 1), the Psalms (6), 
 - **olmOCR** dropped a whole column on two of the five pages and writes `ae` for `æ`.
 - **Mistral OCR 4.1** was not tried: it needs a `MISTRAL_API_KEY`. At about $2 per 1,000 pages in batch, it would cost about $60 for the set.
 
+## The Claude check
+
+On the subscription, the budget is usage limits, not dollars. That changed the design, because the cost of an agent is dominated by its own setup. All figures are from each call's own usage records, priced at API rates as a common yardstick.
+
+| Setup | CER | Cost per page |
+| --- | --- | --- |
+| Subagent, one page each | 0.04% | ~$0.27 |
+| Subagent, 5 / 10 / 20 pages each, fixing the dots.mocr draft | 0.11% | $0.09 / $0.073 / $0.066 |
+| `claude -p`, one page per call, whole page | 0.11% | $0.039 |
+| **`claude -p`, one page per call, page cropped to 1600 px, tuned prompt** | **0.03%** | **$0.030** |
+
+- **A subagent carries about 60k tokens of system prompt** before it reads a page. Putting more pages in one agent barely helps, because each page's image and draft stay in context and are re-read at every later step.
+- **`check_pages.py` runs a stripped `claude -p`**: the fix-list instructions (`fix-prompt.md`) as the whole system prompt, the Read tool only, no MCP servers, no settings, run outside the repo so CLAUDE.md and memory don't load. That is about 3.5k tokens of overhead. `--bare` would be leaner, but it accepts only an API key.
+- **Fixing a draft rather than transcribing** cuts output from about 1.5k to under 1k tokens a page. `apply_fixes.py` applies the fixes and skips any whose search text is missing or not unique, so a bad fix can never land in the wrong place.
+- **Cropping to the text block** (taken from dots.mocr's layout boxes) shrinks the image. At 1200 px one fix that fell on a line break (`possu-|mus`) was missed, so 1600 px it is.
+- **Lower effort** saved little output and fumbled fixes; default effort stays.
+- **Most of the remaining cost is cache writes.** Claude Code writes each page to cache with a 1-hour lifetime, at twice the input price, though the page is never read again.
+- **The clean-up in `ocr_local.dots_markdown`** also matters. It moves reference-only blocks to the margin note and drops lone A–D letters. It also rejoins leftover line-end hyphens, so Sonnet has less to fix.
+
+## Running the full drafts
+
+```bash
+ln -s "$PWD/denis-ocr.service" ~/.config/systemd/user/
+systemctl --user daemon-reload && systemctl --user enable --now denis-ocr.service
+loginctl enable-linger      # start at boot, before anyone logs in
+journalctl --user -u denis-ocr -f      # or: tail -f ~/ember-data/denis-carthusian/progress.log
+```
+
+- `pipeline.sh` starts vLLM and runs `run_volumes.py`. If either dies, systemd restarts both a minute later.
+- Data lives in `~/ember-data/denis-carthusian/`, outside the worktree.
+- **Recovery.** A volume's zip is downloaded with resume and only used once its size matches the archive's listing. Each page's draft is written to a temporary file, synced and renamed into place. A restart skips every page that has a draft. Tested by killing the service mid-volume: it came back on its own and resumed at "809 of 830 pages to do".
+- **Failures.** A page whose model output won't parse gets a `.err` file and is skipped. Retry those with `run_volumes.py --retry-failed`.
+- The raw layout JSON is kept beside each draft, so the markdown can be regenerated whenever `dots_markdown` improves, without the GPU.
+
 ## Still open
 
-- **Engine.** Options: dots.mocr alone, free but without italics; Sonnet alone, about $300 in batch; or dots.mocr everywhere with Sonnet only on the pages where it is unsure. The last keeps italics only if Sonnet re-reads every page with italics, which in the commentaries is nearly all of them.
+- **The pilot volume, and what the check costs in limits.** `/usage` reports whole percentages and other sessions share the limit, so the conversion needs a run of several hundred pages.
+- **Mistral OCR 4.1** is untested (no key yet). `ocr_mistral.py` is ready. At about $2–3.5 per 1,000 pages, it would be worth having if it keeps italics.
 - **Volumes 37–41 and 14bis** need HathiTrust access from a US address, or another copy of the scans.
 - **Splitting the set into books.** One book per work, not per volume: the minor works (vols. 33–41) hold about 150 treatises. The Latin is the canonical language; there are no translations.
 

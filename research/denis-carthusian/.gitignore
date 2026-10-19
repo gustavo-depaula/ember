@@ -3,3 +3,4 @@ consult/
 scans/
 out/
 __pycache__/
+.env

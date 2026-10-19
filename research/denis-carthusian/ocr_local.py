@@ -58,6 +58,19 @@ def data_url(image: Image.Image) -> str:
     return "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
 
 
+# One scripture reference as the edition prints them in the margin: "Matth. v, 44, 45.",
+# "1 Cor. VII, 3.", "Ibid. 28.", "Gen. II, 24; Ephes. V, 29." The roman chapter is
+# sometimes read with a u for v ("xu").
+scripture_ref = re.compile(
+    r"(?:\d\s*)?[A-Z][a-zæœ]{0,8}\.?\s*(?:[ivxlcuIVXLCU]+\s*,\s*)?\d+(?:\s*[,;]\s*(?:[ivxlcuIVXLCU]+\s*,\s*)?\d+)*\.?"
+)
+
+
+def only_references(text: str) -> bool:
+    rest = scripture_ref.sub("", text)
+    return bool(scripture_ref.search(text)) and not re.search(r"[A-Za-zæœ]{2,}", rest)
+
+
 def dots_markdown(raw: str) -> str:
     cells = [c for c in json.loads(raw) if c.get("category") not in ("Page-header", "Page-footer", "Picture")]
     widths = sorted(c["bbox"][2] - c["bbox"][0] for c in cells if c["category"] == "Text")
@@ -65,9 +78,13 @@ def dots_markdown(raw: str) -> str:
     body, margin = [], []
     for c in cells:
         text = c.get("text", "").strip()
+        # The A–D section letters in the gutter sometimes come back as blocks of their own.
+        if re.fullmatch(r"[A-D]", text):
+            continue
         # Scripture references and verse numbers printed in the outer margins come back
-        # as Text blocks a fraction of a column wide.
-        if c["category"] == "Text" and c["bbox"][2] - c["bbox"][0] < column * 0.3:
+        # as Text blocks a fraction of a column wide, or, when a column of them is read
+        # together, as one block as wide as the text that holds nothing else.
+        if c["category"] == "Text" and (c["bbox"][2] - c["bbox"][0] < column * 0.3 or only_references(text)):
             margin.append(text)
             continue
         if c["category"] in ("Section-header", "Title"):
@@ -82,7 +99,9 @@ def dots_markdown(raw: str) -> str:
             continue
         body.append(text)
     notes = f"\n\n<!-- margin: {' | '.join(margin)} -->" if margin else ""
-    return "\n\n".join(body) + notes
+    # Line-end hyphens the model kept inside a word ("vi- detur", "omni-bus", soft hyphens).
+    text = re.sub(r"(?<=[a-zæœ])-\s?(?=[a-zæœ])", "", "\n\n".join(body).replace("\xad", ""))
+    return text + notes
 
 
 def olmocr_markdown(raw: str) -> str:
