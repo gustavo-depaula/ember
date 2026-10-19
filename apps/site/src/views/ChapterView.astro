@@ -5,7 +5,7 @@ import Reader from '~/components/Reader.astro'
 import ReaderTools from '~/components/ReaderTools.astro'
 import TocList from '~/components/TocList.astro'
 import Base from '~/layouts/Base.astro'
-import { loadChapterPage } from '~/lib/books'
+import { editionName, loadChapterPage } from '~/lib/books'
 import { plainExcerpt } from '~/lib/html'
 import { htmlLang, type Locale } from '~/lib/locale'
 import { siteStrings } from '~/lib/strings'
@@ -13,18 +13,22 @@ import { siteStrings } from '~/lib/strings'
 interface Props {
   locale: Locale
   alternates: Partial<Record<Locale, string>>
+  canonical?: string
   id: string
   nodeId: string
+  edition: string
 }
 
-const { locale, alternates, id, nodeId } = Astro.props
+const { locale, alternates, canonical, id, nodeId, edition } = Astro.props
 const s = siteStrings(locale)
-const page = await loadChapterPage(id, nodeId, locale)
+const page = await loadChapterPage(id, nodeId, locale, edition)
 if (!page) throw new Error(`No chapter ${id}#${nodeId}`)
 
 const text = page.html?.replace(/<[^>]+>/g, ' ') ?? ''
 const description = plainExcerpt(text.replace(page.title, '')) || `${page.title} — ${page.bookTitle}`
 const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
+const otherTexts = locale === 'pt-BR' ? 'Outros textos' : 'Other texts'
+
 ---
 
 <Base
@@ -32,6 +36,8 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
   title={`${page.title} — ${page.bookTitle}`}
   description={description}
   alternates={alternates}
+  canonical={canonical}
+  noindex={!!canonical}
   section="books"
   ogType="article"
   jsonLd={{
@@ -62,6 +68,14 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
     </Fragment>
     <Fragment slot="right">
       <RailTools locale={locale} />
+      {page.others.length > 0 && (
+        <nav class="rail-block" aria-label={otherTexts}>
+          <p class="rail-title">{otherTexts}</p>
+          <div class="rail-list sub">
+            {page.others.map((other) => <a href={other.href}>{editionName(locale, other)}</a>)}
+          </div>
+        </nav>
+      )}
       <Outline locale={locale} />
       {page.position && (
         <div class="rail-block">
@@ -79,6 +93,17 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
       <ol class="crumbs">
         {page.trail.map((crumb) => <li>{crumb.href ? <a href={crumb.href}>{crumb.title}</a> : crumb.title}</li>)}
       </ol>
+      {page.others.length > 0 && (
+        <p class="t-annotation others">
+          {otherTexts}:{' '}
+          {page.others.map((other, i) => (
+            <>
+              {i > 0 && ' · '}
+              <a class="xref" href={other.href}>{editionName(locale, other)}</a>
+            </>
+          ))}
+        </p>
+      )}
     </nav>
 
     {
@@ -137,6 +162,9 @@ const bodyLang = htmlLang[page.lang as Locale] ?? page.lang.split('-')[0]
   .part {
     margin-bottom: 6px;
     font-style: italic;
+  }
+  .others {
+    margin-top: var(--space-xs);
   }
   .part-title {
     padding-block: var(--space-xl) var(--space-lg);

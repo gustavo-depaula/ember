@@ -127,8 +127,9 @@ export const href = {
   shareCard: (l: Locale, id: string) => `/share/${shareDirs[l]}/${slugOf(id)}.jpg`,
   collection: (l: Locale, id: string) => join(l, sections[l].collections, slugOf(id)),
   book: (l: Locale, id: string) => join(l, sections[l].books, slugOf(id)),
-  bookChapter: (l: Locale, id: string, chapter: string) =>
-    join(l, sections[l].books, slugOf(id), chapter),
+  /** `edition` is the URL segment of a text other than the side's default (`la`, `npnf-en`). */
+  bookChapter: (l: Locale, id: string, chapter: string, edition?: string) =>
+    join(l, sections[l].books, slugOf(id), edition, chapter),
   reading: (l: Locale, id: string) => join(l, sections[l].readings, slugOf(id)),
   bibleBook: (l: Locale, book: string) => join(l, sections[l].bible, book),
   bibleChapter: (l: Locale, book: string, chapter: number) =>

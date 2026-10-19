@@ -2,17 +2,25 @@ import { findBookImage, loadBook } from '@/content/books'
 import { ensureManifestBody, getEntry, isMetaId } from '@/content/contentIndex'
 import type { BookEntry, CatalogEntry, TocNode } from '@/content/manifestTypes'
 import {
+  type BookEdition,
+  bookEditions,
+  matchingNode,
+  versionView,
+} from '@/features/books/editions'
+import {
   type BookSession,
   flattenReadingFlow,
   localizedTitle,
   openBookSession,
 } from '@/features/books/reader/bookContent'
 import { localizeContent } from '@/lib/i18n'
+import enUS from '@/lib/i18n/locales/en-US'
+import ptBR from '@/lib/i18n/locales/pt-BR'
 import { blobUrl } from '~/platform/store'
 import { href } from '~/routes'
-import { chapterHome, listEntries } from './catalog'
+import { listEntries } from './catalog'
 import { bootCorpus } from './corpus'
-import { type Locale, withLocale } from './locale'
+import { type Locale, locales, withLocale } from './locale'
 
 /** A table of contents longer than this is split across pages, one per part. */
 const tocPageLimit = 400
@@ -43,19 +51,99 @@ export type TocItem = {
 }
 
 type BookContext = {
+  /** The book as the edition's version presents it. */
   book: BookEntry
+  manifest: BookEntry
+  edition: BookEdition
+  editions: BookEdition[]
   lang: string
+  /** The side whose pages hold this edition's chapters. */
   home: Locale
+  /** The edition's URL segment there; none for that side's default text. */
+  slug?: string
   readable: Set<string>
 }
 
-async function contextFor(id: string, locale: Locale): Promise<BookContext | undefined> {
+/**
+ * Where an edition's chapters are pages: a text in a site language on that
+ * language's side, a text in any other (Latin, Spanish) on both.
+ */
+export function editionSides(edition: BookEdition): Locale[] {
+  return (locales as readonly string[]).includes(edition.language)
+    ? [edition.language as Locale]
+    : [...locales]
+}
+
+/** The text a side opens a book on, whose pages keep the plain URLs. */
+function sideDefault(editions: BookEdition[], locale: Locale): BookEdition | undefined {
+  return (
+    editions.find((e) => !e.version && e.language === locale) ??
+    editions.find((e) => !e.version && editionSides(e).includes(locale))
+  )
+}
+
+/** An edition's URL segment on a side: none for the side's default text,
+ *  else its language (`la`) or its version and language (`npnf-en`). */
+function editionSlug(
+  editions: BookEdition[],
+  edition: BookEdition,
+  side: Locale,
+): string | undefined {
+  if (sideDefault(editions, side)?.id === edition.id) return undefined
+  const short = edition.language.split('-')[0]
+  return edition.version ? `${edition.version}-${short}` : short
+}
+
+const contexts = new Map<string, Promise<BookContext | undefined>>()
+
+// Every chapter page asks for its book's contexts: each is built once.
+function contextFor(
+  id: string,
+  locale: Locale,
+  editionId?: string,
+): Promise<BookContext | undefined> {
+  const key = `${id}\n${locale}\n${editionId ?? ''}`
+  let ctx = contexts.get(key)
+  if (!ctx) {
+    ctx = buildContext(id, locale, editionId)
+    contexts.set(key, ctx)
+  }
+  return ctx
+}
+
+async function buildContext(
+  id: string,
+  locale: Locale,
+  editionId?: string,
+): Promise<BookContext | undefined> {
   await bootCorpus()
-  const book = await loadBook(id)
-  if (!book) return undefined
-  const { locale: home, lang } = chapterHome(book.languages ?? ['en-US'], locale)
-  const flow = flattenReadingFlow(book.toc ?? [], book, lang)
-  return { book, lang, home, readable: new Set(flow.map((n) => n.id)) }
+  const manifest = await loadBook(id)
+  if (!manifest) return undefined
+  const editions = bookEditions(manifest)
+  const edition = editionId
+    ? editions.find((e) => e.id === editionId)
+    : // A book with no text of its own on this side (English only, seen from
+      // the Portuguese) opens on the text another side hosts.
+      (sideDefault(editions, locale) ?? editions.find((e) => !e.version) ?? editions[0])
+  if (!edition) return undefined
+  const sides = editionSides(edition)
+  const home = sides.includes(locale) ? locale : sides[0]
+  const book = versionView(manifest, edition.version)
+  const flow = flattenReadingFlow(book.toc ?? [], book, edition.language)
+  return {
+    book,
+    manifest,
+    edition,
+    editions,
+    lang: edition.language,
+    home,
+    slug: editionSlug(editions, edition, home),
+    readable: new Set(flow.map((n) => n.id)),
+  }
+}
+
+function chapterHref(ctx: BookContext, nodeId: string): string {
+  return href.bookChapter(ctx.home, ctx.manifest.id, nodeId, ctx.slug)
 }
 
 // A group with no body of its own is a page only in a long book, where it
@@ -69,7 +157,7 @@ function tocItems(ctx: BookContext, nodes: TocNode[], split: boolean, depth: num
     return {
       id: node.id,
       title: localizedTitle(node.title, ctx.lang) ?? node.id,
-      href: readable || paged ? href.bookChapter(ctx.home, ctx.book.id, node.id) : undefined,
+      href: readable || paged ? chapterHref(ctx, node.id) : undefined,
       range: node.pointRange ? `${node.pointRange.from}–${node.pointRange.to}` : undefined,
       leaves: isGroup ? countLeaves(children) : 0,
       children: paged ? [] : tocItems(ctx, children, split, depth + 1),
@@ -86,29 +174,84 @@ function findNode(nodes: TocNode[], id: string, trail: TocNode[] = []): TocNode[
   return undefined
 }
 
+/** A language's name on a side, from the app's own names. Portuguese writes
+ *  it lower-case mid-sentence ("Este livro está em latim"). */
+export function languageName(locale: Locale, language: string): string {
+  const names: Record<string, string> = (locale === 'pt-BR' ? ptBR : enUS).languages
+  const name = names[language] ?? language
+  return locale === 'pt-BR' ? name.toLocaleLowerCase('pt-BR') : name
+}
+
+/** How a text is named in a book's switch: its language, and its translator
+ *  where one language has several texts. */
+export function editionName(locale: Locale, edition: { language: string; label?: string }): string {
+  const language = languageName(locale, edition.language)
+  const capital = language.charAt(0).toLocaleUpperCase(locale) + language.slice(1)
+  return edition.label ? `${capital} — ${edition.label}` : capital
+}
+
+/** One text of a book as its page shows it: its contents and where they lead. */
+export type EditionPanel = {
+  id: string
+  /** The edition's name in the page's links (`npnf-en`), stable across sides. */
+  key: string
+  /** The language of the text, and the translator where that tells it apart. */
+  language: string
+  label?: string
+  /** The side hosting this text's chapters. */
+  home: Locale
+  toc: TocItem[]
+  chapterCount: number
+  firstChapter?: string
+  sources: { url?: string; description?: string }[]
+}
+
 export type BookPage = {
   id: string
   title: string
   author?: string
   description?: string
   composed?: string
-  sources: { url?: string; description?: string }[]
   cover: string | undefined
+  /** Every language some text of the book is in. */
   langs: string[]
-  /** The language the chapters are read in, and the locale hosting them. */
-  lang: string
-  home: Locale
-  toc: TocItem[]
-  chapterCount: number
-  firstChapter?: string
+  editions: EditionPanel[]
+  /** The edition the page opens on. */
+  edition: string
+}
+
+function editionKey(edition: BookEdition): string {
+  const short = edition.language.split('-')[0]
+  return edition.version ? `${edition.version}-${short}` : short
+}
+
+function panel(ctx: BookContext): EditionPanel {
+  const toc = ctx.book.toc ?? []
+  const first = flattenReadingFlow(toc, ctx.book, ctx.lang)[0]
+  return {
+    id: ctx.edition.id,
+    key: editionKey(ctx.edition),
+    language: ctx.edition.language,
+    label: ctx.edition.label,
+    home: ctx.home,
+    toc: tocItems(ctx, toc, countNodes(toc) > tocPageLimit, 0),
+    chapterCount: ctx.readable.size,
+    firstChapter: first && chapterHref(ctx, first.id),
+    sources: (ctx.book.sources ?? []).filter((source) => source.language === ctx.lang),
+  }
 }
 
 export async function loadBookPage(id: string, locale: Locale): Promise<BookPage | undefined> {
   const ctx = await contextFor(id, locale)
   if (!ctx) return undefined
-  const { book } = ctx
-  const toc = book.toc ?? []
-  const first = flattenReadingFlow(toc, book, ctx.lang)[0]
+  const { manifest: book } = ctx
+  const others = await Promise.all(
+    ctx.editions.filter((e) => e.id !== ctx.edition.id).map((e) => contextFor(id, locale, e.id)),
+  )
+  const order = (c: BookContext) => ctx.editions.findIndex((e) => e.id === c.edition.id)
+  const panels = [ctx, ...others.filter((c): c is BookContext => !!c)]
+    .sort((a, b) => order(a) - order(b))
+    .map(panel)
   return withLocale(locale, () => ({
     id: book.id,
     title: localizeContent(book.name),
@@ -116,24 +259,40 @@ export async function loadBookPage(id: string, locale: Locale): Promise<BookPage
     // A blurb written only in the other language would read as a stray paragraph.
     description: (book.description as Record<string, string | undefined> | undefined)?.[locale],
     composed: book.composed === undefined ? undefined : String(book.composed),
-    sources:
-      (book as unknown as { sources?: { url?: string; description?: string }[] }).sources ?? [],
     cover: getEntry(book.id)?.cover,
-    langs: book.languages ?? ['en-US'],
-    lang: ctx.lang,
-    home: ctx.home,
-    toc: tocItems(ctx, toc, countNodes(toc) > tocPageLimit, 0),
-    chapterCount: ctx.readable.size,
-    firstChapter: first && href.bookChapter(ctx.home, book.id, first.id),
+    langs: [...new Set(ctx.editions.map((e) => e.language))],
+    editions: panels,
+    edition: ctx.edition.id,
   }))
 }
 
 export type BookNodeListing = { nodeId: string; kind: 'chapter' | 'part' }
 
-/** Every node of a book that has a page under `locale`, or none if another locale hosts it. */
-export async function listBookNodes(id: string, locale: Locale): Promise<BookNodeListing[]> {
-  const ctx = await contextFor(id, locale)
-  if (!ctx || ctx.home !== locale) return []
+/** A book's texts, each with the sides that host its chapters. */
+export async function listBookEditions(
+  id: string,
+): Promise<{ edition: BookEdition; sides: Locale[] }[]> {
+  const ctx = await contextFor(id, 'en-US')
+  return (ctx?.editions ?? []).map((edition) => ({ edition, sides: editionSides(edition) }))
+}
+
+/** A text's URL segment on each side hosting it (none for a side's default). */
+export async function editionSlugs(
+  id: string,
+  edition: string,
+): Promise<Partial<Record<Locale, string>>> {
+  const out: Partial<Record<Locale, string>> = {}
+  const ctx = await contextFor(id, 'en-US', edition)
+  for (const side of ctx ? editionSides(ctx.edition) : []) {
+    out[side] = editionSlug(ctx?.editions ?? [], ctx?.edition as BookEdition, side)
+  }
+  return out
+}
+
+/** Every node of one text of a book that is a page. */
+export async function listBookNodes(id: string, edition: string): Promise<BookNodeListing[]> {
+  const ctx = await contextFor(id, 'en-US', edition)
+  if (!ctx) return []
   const split = countNodes(ctx.book.toc ?? []) > tocPageLimit
   const out: BookNodeListing[] = []
   // A contents list may name one chapter twice (the Catholic Encyclopedia files
@@ -160,11 +319,11 @@ export async function listBookNodes(id: string, locale: Locale): Promise<BookNod
 
 const sessions = new Map<string, Promise<BookSession | undefined>>()
 
-function sessionFor(id: string, lang: string): Promise<BookSession | undefined> {
-  const key = `${id}\n${lang}`
+function sessionFor(id: string, edition: BookEdition): Promise<BookSession | undefined> {
+  const key = `${id}\n${edition.id}`
   let session = sessions.get(key)
   if (!session) {
-    session = openBookSession(id, lang)
+    session = openBookSession(id, edition.language, edition.version)
     sessions.set(key, session)
   }
   return session
@@ -181,8 +340,13 @@ function withImageUrls(html: string, book: BookEntry): string {
 
 export type Crumb = { title: string; href?: string }
 
+/** Another text of the book, from a chapter: its matching page, or its contents. */
+export type OtherEdition = { language: string; label?: string; href: string }
+
 export type ChapterPage = {
   bookId: string
+  /** The book's other texts, each opened where it matches this page. */
+  others: OtherEdition[]
   bookTitle: string
   author?: string
   title: string
@@ -203,14 +367,15 @@ export async function loadChapterPage(
   id: string,
   nodeId: string,
   locale: Locale,
+  edition?: string,
 ): Promise<ChapterPage | undefined> {
-  const ctx = await contextFor(id, locale)
+  const ctx = await contextFor(id, locale, edition)
   if (!ctx) return undefined
   const { book, lang } = ctx
   const path = findNode(book.toc ?? [], nodeId)
   if (!path) return undefined
   const node = path[path.length - 1]
-  const session = await sessionFor(id, lang)
+  const session = await sessionFor(id, ctx.edition)
   if (!session) return undefined
   const index = session.chapterIds.indexOf(nodeId)
   const titleOf = (n: TocNode) => localizedTitle(n.title, lang) ?? n.id
@@ -220,14 +385,14 @@ export async function loadChapterPage(
     return found
       ? {
           title: titleOf(found[found.length - 1]),
-          href: href.bookChapter(ctx.home, book.id, chapterId),
+          href: chapterHref(ctx, chapterId),
         }
       : undefined
   }
   const split = countNodes(book.toc ?? []) > tocPageLimit
   const linkable = (n: TocNode) =>
     ctx.readable.has(n.id) || (split && countNodes(n.children ?? []) > 12)
-      ? href.bookChapter(ctx.home, book.id, n.id)
+      ? chapterHref(ctx, n.id)
       : undefined
   // A part can hold hundreds of chapters (a letter of the Encyclopedia): the
   // rail shows the stretch around this one.
@@ -241,8 +406,10 @@ export async function loadChapterPage(
     current: n.id === nodeId,
   }))
   const html = index >= 0 ? withImageUrls(await session.getChapterPlain(index), book) : undefined
+  const others = await otherEditions(ctx, nodeId, locale)
   return withLocale(locale, () => ({
     bookId: book.id,
+    others,
     bookTitle: localizeContent(book.name),
     author: book.author ? localizeContent(book.author) : undefined,
     title: titleOf(node),
@@ -250,12 +417,15 @@ export async function loadChapterPage(
     html,
     toc: node.children?.length ? tocItems(ctx, node.children, split, path.length) : [],
     trail: [
-      { title: localizeContent(book.name), href: href.book(locale, book.id) },
+      {
+        title: localizeContent(book.name),
+        href: `${href.book(locale, book.id)}#${editionKey(ctx.edition)}`,
+      },
       ...path.slice(0, -1).map((n) => ({
         title: titleOf(n),
         href:
           ctx.readable.has(n.id) || (split && countNodes(n.children ?? []) > 12)
-            ? href.bookChapter(ctx.home, book.id, n.id)
+            ? chapterHref(ctx, n.id)
             : undefined,
       })),
     ],
@@ -264,6 +434,34 @@ export async function loadChapterPage(
     previous: index > 0 ? crumb(index - 1) : undefined,
     next: index >= 0 ? crumb(index + 1) : undefined,
   }))
+}
+
+async function otherEditions(
+  ctx: BookContext,
+  nodeId: string,
+  locale: Locale,
+): Promise<OtherEdition[]> {
+  const out: OtherEdition[] = []
+  for (const edition of ctx.editions) {
+    if (edition.id === ctx.edition.id) continue
+    const other = await contextFor(ctx.manifest.id, locale, edition.id)
+    if (!other) continue
+    // Another language of this text has the same pages; another version
+    // lands where its `match` says, else on its contents.
+    const target =
+      edition.version === ctx.edition.version
+        ? nodeId
+        : matchingNode(ctx.manifest, ctx.edition.version, nodeId, edition.version)
+    out.push({
+      language: edition.language,
+      label: edition.label,
+      href:
+        target && other.readable.has(target)
+          ? chapterHref(other, target)
+          : `${href.book(locale, ctx.manifest.id)}#${editionKey(edition)}`,
+    })
+  }
+  return out
 }
 
 export async function bookManifest(id: string): Promise<BookEntry | undefined> {

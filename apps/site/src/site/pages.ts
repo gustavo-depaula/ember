@@ -3,7 +3,7 @@
 // without being reachable and declared.
 import { getEntry } from '@/content/contentIndex'
 import { getDrbBooks } from '@/lib/content'
-import { listBookNodes, listBooks } from '~/lib/books'
+import { editionSlugs, listBookEditions, listBookNodes, listBooks } from '~/lib/books'
 import { isLocalized, listEntries } from '~/lib/catalog'
 import { bootCorpus } from '~/lib/corpus'
 import { calendarYears, liturgyDates } from '~/lib/dates'
@@ -24,7 +24,7 @@ export type Page =
   | { view: 'collection'; id: string }
   | { view: 'books' }
   | { view: 'book'; id: string }
-  | { view: 'chapter'; id: string; nodeId: string }
+  | { view: 'chapter'; id: string; nodeId: string; edition: string }
   | { view: 'reading'; id: string }
   | { view: 'bible' }
   | { view: 'bibleBook'; book: string }
@@ -102,12 +102,17 @@ async function drafts(): Promise<Draft[]> {
   for (const book of await listBooks()) {
     if (bookFilter && !bookFilter.has(book.id)) continue
     out.push(catalogDraft({ view: 'book', id: book.id }, book.id, (l) => href.book(l, book.id)))
-    for (const locale of locales) {
-      for (const node of await listBookNodes(book.id, locale)) {
+    // Each text's chapters, on the sides that host it: a text in a site
+    // language on its side, any other on both — the Portuguese side's copy a
+    // mirror whose search credit goes to the English.
+    for (const { edition, sides } of await listBookEditions(book.id)) {
+      const slugs = await editionSlugs(book.id, edition.id)
+      for (const node of await listBookNodes(book.id, edition.id)) {
         out.push({
-          page: { view: 'chapter', id: book.id, nodeId: node.nodeId },
-          locales: [locale],
-          path: (l) => href.bookChapter(l, book.id, node.nodeId),
+          page: { view: 'chapter', id: book.id, nodeId: node.nodeId, edition: edition.id },
+          locales: sides,
+          localized: sides.length > 1 ? () => false : undefined,
+          path: (l) => href.bookChapter(l, book.id, node.nodeId, slugs[l]),
         })
       }
     }

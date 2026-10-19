@@ -55,7 +55,7 @@ const { page, locale, alternates, canonical } = entry
 {page.view === 'collection' && <CollectionView locale={locale} alternates={alternates} canonical={canonical} id={page.id} />}
 {page.view === 'books' && <BooksView locale={locale} alternates={alternates} />}
 {page.view === 'book' && <BookView locale={locale} alternates={alternates} canonical={canonical} id={page.id} />}
-{page.view === 'chapter' && <ChapterView locale={locale} alternates={alternates} id={page.id} nodeId={page.nodeId} />}
+{page.view === 'chapter' && <ChapterView locale={locale} alternates={alternates} canonical={canonical} id={page.id} nodeId={page.nodeId} edition={page.edition} />}
 {page.view === 'reading' && <ReadingView locale={locale} alternates={alternates} id={page.id} />}
 {page.view === 'bible' && <BibleView locale={locale} alternates={alternates} />}
 {page.view === 'bibleBook' && <BibleBookView locale={locale} alternates={alternates} book={page.book} />}

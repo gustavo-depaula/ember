@@ -1,11 +1,9 @@
 ---
-import enUS from '@/lib/i18n/locales/en-US'
-import ptBR from '@/lib/i18n/locales/pt-BR'
 import { bookCoverFormat } from '@/features/covers/coverFor'
 import Cover from '~/components/Cover.astro'
 import TocList from '~/components/TocList.astro'
 import Base from '~/layouts/Base.astro'
-import { loadBookPage } from '~/lib/books'
+import { editionName, languageName, loadBookPage } from '~/lib/books'
 import { plainExcerpt } from '~/lib/html'
 import { htmlLang, type Locale, translator } from '~/lib/locale'
 import { proseHtml } from '~/lib/markdown'
@@ -26,19 +24,15 @@ const book = await loadBookPage(id, locale)
 if (!book) throw new Error(`No book ${id}`)
 
 const pt = locale === 'pt-BR'
-// The app's language names; Portuguese writes them lower-case mid-sentence.
-const languageNames: Record<string, string> = Object.fromEntries(
-  Object.entries(pt ? ptBR.languages : enUS.languages).map(([k, v]) => [k, pt ? v.toLocaleLowerCase('pt-BR') : v]),
-)
-const languages = book.langs
-const foreign = book.lang !== locale
+// The text the page opens on; the switch shows another's contents in place.
+const opening = book.editions.find((e) => e.id === book.edition) ?? book.editions[0]
+const foreign = opening.language !== locale
 const description = plainExcerpt(
   book.description ??
     (pt
       ? `${book.title}${book.author ? `, de ${book.author}` : ''}. Leia online, gratuitamente, capítulo a capítulo.`
       : `${book.title}${book.author ? `, by ${book.author}` : ''}. Read it online, free, chapter by chapter.`),
 )
-const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <= 60
 ---
 
 <Base
@@ -55,7 +49,7 @@ const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <
     '@type': 'Book',
     name: book.title,
     author: book.author && { '@type': 'Person', name: book.author },
-    inLanguage: languages,
+    inLanguage: book.langs,
     datePublished: book.composed,
     isAccessibleForFree: true,
     description,
@@ -66,15 +60,15 @@ const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <
       <div class="cover-wrap">
         <Cover cover={{ kind: 'book', format: bookCoverFormat(book.cover), author: book.author }} id={id} title={book.title} locale={locale} />
       </div>
-      {book.firstChapter && (
-        <a class="cta" href={book.firstChapter}>{t('book.startReading', { defaultValue: pt ? 'Começar a ler' : 'Start reading' })}</a>
+      {opening.firstChapter && (
+        <a class="cta" href={opening.firstChapter} data-edition-start>{t('book.startReading', { defaultValue: pt ? 'Começar a ler' : 'Start reading' })}</a>
       )}
       <dl class="facts">
         {book.composed && (<><dt>{pt ? 'Escrito' : 'Written'}</dt><dd>{book.composed}</dd></>)}
         <dt>{pt ? 'Língua' : 'Language'}</dt>
-        <dd>{languages.map((l) => languageNames[l] ?? l).join(', ')}</dd>
+        <dd>{book.langs.map((l) => languageName(locale, l)).join(', ')}</dd>
         <dt>{s('contents')}</dt>
-        <dd>{s('chapters', { count: book.chapterCount })}</dd>
+        <dd data-edition-count>{s('chapters', { count: opening.chapterCount })}</dd>
       </dl>
     </aside>
 
@@ -87,35 +81,87 @@ const shortToc = book.toc.reduce((n, item) => n + 1 + item.children.length, 0) <
       {foreign && (
         <p class="t-caption">
           {pt
-            ? `Este livro está em ${languageNames[book.lang] ?? book.lang}.`
-            : `This book is in ${languageNames[book.lang] ?? book.lang}.`}
+            ? `Este livro está em ${languageName(locale, opening.language)}.`
+            : `This book is in ${languageName(locale, opening.language)}.`}
         </p>
       )}
       {book.description && <div class="prose" set:html={proseHtml(book.description)} />}
 
-      <section class="stack-sm">
+      <section class="stack-sm" data-editions>
         <div class="section-head"><h2 class="t-section">{s('contents')}</h2></div>
-        <nav class="toc" aria-label={s('contents')} lang={htmlLang[book.lang as Locale] ?? book.lang}>
-          <TocList items={book.toc} locale={locale} open={shortToc} />
-        </nav>
+        {book.editions.length > 1 && (
+          <div class="facets" role="group" aria-label={pt ? 'Texto' : 'Text'}>
+            {book.editions.map((e) => (
+              <button
+                type="button"
+                data-edition={e.key}
+                data-start={e.firstChapter}
+                data-count={s('chapters', { count: e.chapterCount })}
+                aria-pressed={String(e.id === opening.id)}
+              >
+                {editionName(locale, e)}
+              </button>
+            ))}
+          </div>
+        )}
+        {book.editions.map((e) => (
+          <div data-edition-panel={e.key} hidden={e.id !== opening.id}>
+            <nav class="toc" aria-label={s('contents')} lang={htmlLang[e.language as Locale] ?? e.language}>
+              <TocList items={e.toc} locale={locale} open={e.toc.reduce((n, item) => n + 1 + item.children.length, 0) <= 60} />
+            </nav>
+            {e.sources.length > 0 && (
+              <p class="t-annotation sources">
+                {pt ? 'Fonte: ' : 'Source: '}
+                {e.sources.map((source, i) => (
+                  <>
+                    {i > 0 && ' · '}
+                    {source.url ? <a class="xref" href={source.url} rel="noopener nofollow">{source.description ?? source.url}</a> : source.description}
+                  </>
+                ))}
+              </p>
+            )}
+          </div>
+        ))}
       </section>
-
-      {book.sources.length > 0 && (
-        <p class="t-annotation">
-          {pt ? 'Fonte: ' : 'Source: '}
-          {book.sources.map((source, i) => (
-            <>
-              {i > 0 && ' · '}
-              {source.url ? <a class="xref" href={source.url} rel="noopener nofollow">{source.description ?? source.url}</a> : source.description}
-            </>
-          ))}
-        </p>
-      )}
     </div>
   </div>
 </Base>
 
+<script>
+  // The switch shows one text's contents at a time, and points the start link
+  // at it. A link ending in #<edition> (from a chapter's "Other texts") opens
+  // on that text.
+  const root = document.querySelector<HTMLElement>('[data-editions]')
+  const start = document.querySelector<HTMLAnchorElement>('[data-edition-start]')
+  const count = document.querySelector<HTMLElement>('[data-edition-count]')
+  const show = (key: string) => {
+    const button = root?.querySelector<HTMLButtonElement>(`button[data-edition="${key}"]`)
+    if (!root || !button) return
+    for (const other of root.querySelectorAll('button[data-edition]')) {
+      other.setAttribute('aria-pressed', String(other === button))
+    }
+    for (const panel of root.querySelectorAll<HTMLElement>('[data-edition-panel]')) {
+      panel.hidden = panel.dataset.editionPanel !== key
+    }
+    if (start && button.dataset.start) start.href = button.dataset.start
+    if (count && button.dataset.count) count.textContent = button.dataset.count
+  }
+  root?.addEventListener('click', (event) => {
+    const button = (event.target as Element).closest<HTMLButtonElement>('button[data-edition]')
+    if (!button?.dataset.edition) return
+    show(button.dataset.edition)
+    history.replaceState(null, '', `#${button.dataset.edition}`)
+  })
+  if (location.hash) show(location.hash.slice(1))
+</script>
+
 <style>
+  [data-edition-panel][hidden] {
+    display: none;
+  }
+  .sources {
+    margin-top: var(--space-md);
+  }
   .book-page {
     padding-top: var(--space-xl);
   }

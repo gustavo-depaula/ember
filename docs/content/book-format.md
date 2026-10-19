@@ -44,7 +44,7 @@ A book's top-level `toc`, `languages` and `sources` are its main text. An older 
 
 - A node's **`match`** names the main-text node it corresponds to. Switching text lands there; a node without one takes the nearest earlier node's (a chapter lands on its Book). A version cut exactly like the main text matches every node.
 - Readers choose an edition (a language of the main text or of a version) per book, on the book page or in the reader menu (`apps/app/src/features/books/editions.ts`). Each version keeps its own reading position, bookmarks, highlights and finished chapters.
-- The website reads the main text only.
+- The website publishes every text: one in a site language on that side, one in any other (Latin, Spanish) on both, the Portuguese copy a mirror crediting the English. A side's own text keeps the plain chapter URLs; any other text adds its segment (`/books/<id>/la/…`, `/npnf-en/…`). The book page switches its contents between texts in place, and each chapter links to the same place in the others.
 
 ### Book id
 
