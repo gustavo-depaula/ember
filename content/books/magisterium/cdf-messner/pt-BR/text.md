@@ -1,9 +1,5 @@
 # Notificação sobre algumas publicações do Prof. Dr. Messner, 30 de novembro de 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ** *NOTIFICAÇÃO SOBRE ALGUMAS PUBLICAÇÕES DO PROFESSOR DR. REINHARD MESSNER* ***\**
@@ -141,5 +137,3 @@ Os Padres do Concílio de Trento estavam bem conscientes da diferença entre a �
 20\) Cf. Concílio Vaticano II, *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html)*, 10.
 
 21\) Cf. Concílio de Trento: *DS* 1601, 1670 e 1701.
-
-[](#top)

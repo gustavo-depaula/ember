@@ -1469,5 +1469,3 @@ Jegyzetek:
 [\[260\]](#JB260) PL 35:1568. (Szent Ágoston: In Ioannis evangelium XXI:8.)  
 [\[261\]](#JB261) Vö. Enchiridion Vaticanum 7, 445-453.  
 [\[262\]](#JB262) LG 64.
-
-** **

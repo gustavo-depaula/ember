@@ -1,9 +1,5 @@
 # Epistula Em.mo ac Rev.mo Domino Iosepho Card. Höffner, Archiepiscopo Colonien., missa: De peracto examine circa “Opus Angelorum”, d. 24 m. Septembris a. 1983, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **EPISTULA EM.MO AC REV.MO DOMINO IOSEPHO CARD. HÖFFNER, ARCHIEPISCOPO COLONIEN., MISSA: DE PERACTO EXAMINE CIRCA « OPUS ANGELORUM »** \*
@@ -35,5 +31,3 @@ Eminentiae Tuae Rev.mae add.mus
 *Datum Romae, die 24 mensis Septembris, A. D. 1983.*
 
 \* *AAS* 76 (1984), 175-176.
-
-[](#top)

@@ -1,15 +1,5 @@
 # Lettre au supérieur général des Frères de la Charité à propos de la question de l’euthanasie dans les hôpitaux psychiatriques en Belgique
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI

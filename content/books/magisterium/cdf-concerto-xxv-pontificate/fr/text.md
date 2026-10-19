@@ -1,9 +1,5 @@
 # Concert offert par le Mitteldeutscher Rundfunk, à l'occasion du XXV anniversaire du Pontificat du Pape Jean-Paul II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 XXV ANNIVERSAIRE DU PONTIFICAT DE JEAN-PAUL II:  
 CONCERT OFFERT PAR LE "MITTELDEUTSCHER RUNDFUNK"
 
@@ -26,5 +22,3 @@ Contrairement à la présence de la foi intacte qui transparaît dans l'*Hymne �
 Le bon Père, dont parle l'ode, n'est pas pour lui un postulat, comme pourrait le suggérer le texte de Schiller, mais plutôt une certitude ultime. Beethoven savait également que nous pouvons nous fier au Père, car dans son Fils, il est devenu proche de nous. Et, ainsi, nous pouvons facilement comprendre l'étincelle divine, la joie dont parle l'ode, comme étincelle de Dieu qui se communique à nous à travers la musique et nous rassure: oui, le bon Père existe vraiment et il n'est pas loin du tout, au-delà du firmament, mais, grâce à son Fils, il est parmi nous.
 
 Monsieur l'Intendant, permettez-moi avec une joie reconnaissante de vous saluer, vous qui avez rendu ce concert possible et, avec vous, de saluer le Chef d'Orchestre, M. Howart Arman, les solistes, ainsi que le chœur et l'orchestre. Nous vous remercions d'avoir voulu nous offrir l'étincelle divine de la joie et nous espérons que celle-ci puisse s'allumer en vous et en nous tous.
-
-[](#top)

@@ -1,13 +1,5 @@
 # Una caro. Lobpreis der Monogamie. Lehrmäßige Note über den Wert der Ehe als ausschließliche Verbindung und gegenseitige Zugehörigkeit
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DIKASTERIUM FÜR DIE GLAUBENSLEHRE
@@ -38,7 +30,7 @@ DIKASTERIUM FÜR DIE GLAUBENSLEHRE
 > [Einige mittelalterliche und moderne Autoren](#Einige_mittelalterliche_und_moderne_Autoren)  
 > [Die Entwicklung der theologischen Sichtweise in jüngerer Zeit](#Die_Entwicklung_der_theologischen_Sichtweise_in_jungerer_Zeit)  
 > [Stellungnahmen des Lehramtes](#Stellungnahmen_des_Lehramtes)
->
+
 > > *[Die ersten Stellungnahmen](#Die_ersten_Stellungnahmen) [Leo XIII.](#Leo_XIII.) [Pius XI.](#Pius_XI.) [Die Zeit des Zweiten Vatikanischen Konzils](#Die_Zeit_des_Zweiten_Vatikanischen_Konzils) [Der hl. Johannes Paul II.](#Der_hl._Johannes_Paul_II.) [Benedikt XVI.](#Benedikt_XVI.) [Franziskus](#Franziskus) [Leo XIV.](#Leo_XIV.)*
 
 **[IV. Einige Blickpunkte aus der Philosophie und verschiedenen Kulturen](#IV._Einige_Blickpunkte_aus_der_Philosophie_und_verschiedenen_Kulturen_)**
@@ -56,11 +48,11 @@ DIKASTERIUM FÜR DIE GLAUBENSLEHRE
 **[VI. Einige Überlegungen, die der Vertiefung bedürfen](#VI._Einige_Uberlegungen,_die_der_Vertiefung%C2%A0bedurfen)**
 
 > [Gegenseitige Zugehörigkeit](#Gegenseitige_Zugehorigkeit_)
->
+
 > > *[Die Verwandlung](#Die_Verwandlung) [Die Nichtzugehörigkeit](#Die_Nichtzugehorigkeit) [Gegenseitige Hilfe](#Gegenseitige_Hilfe)*
->
+
 > [Eheliche Liebe](#Eheliche_Liebe)
->
+
 > > *[Eine besondere Form der Freundschaft](#Eine_besondere_Form_der_Freundschaft) [In Leib und Seele](#In_Leib_und_Seele) [Die vielfältige Fruchtbarkeit der Liebe](#Die_vielfaltige_Fruchtbarkeit_der_Liebe) [Eine für alle offene Freundschaft](#Eine_fur_alle_offene_Freundschaft)*
 
 **[VII. Abschluss](#VII._Abschluss)**
@@ -360,7 +352,7 @@ Sucht man hingegen nur eine kurze Synthese der Gründe zugunsten einer ausschlie
 > Wir sind gekreist und gekreist,  
 > bis wir wieder zuHause angekommen sind  
 > – wir zwei.[^172]
->
+
 > Niemand sonst, Liebes, wird mit meinen Träumen schlafen.  
 > Du wirst gehen, wir werden gemeinsam gehen durch die Wasser der Zeit …[^173]
 
@@ -372,7 +364,7 @@ Sucht man hingegen nur eine kurze Synthese der Gründe zugunsten einer ausschlie
 > von uns beiden  
 > die einzigen wahren Pupillen, wenn auch so sehr getrübt,  
 > waren die Deinen.[^174]
->
+
 > Ich gebe dir mich selbst,  
 > meine schlaflosen Nächte,  
 > die tiefen Himmels- und Sternenschlucke  
@@ -506,9 +498,9 @@ Sucht man hingegen nur eine kurze Synthese der Gründe zugunsten einer ausschlie
 145\. Eine integrale Sicht der ehelichen Nächstenliebe verleugnet nicht ihre Fruchtbarkeit, also die Möglichkeit neues Leben zu zeugen, denn die „Ganzheit, wie sie die eheliche Liebe verlangt, entspricht auch den Forderungen, wie sie sich aus einer verantworteten Fruchtbarkeit ergeben“[^232]. Die geschlechtliche Vereinigung, als eine Ausdrucksweise der ehelichen Liebe, muss ganz natürlich offen bleiben für die Weitergabe des Lebens,[^233] auch wenn dies nicht bedeutet, dass sie ein ausdrückliches Ziel eines jeden geschlechtlichen Aktes sein müsste. So können sich drei legitime Situationen ergeben:
 
 > a\) Einem Paar ist es nicht möglich Kinder zu zeugen. Karol Wojtyła geht sehr gut darauf ein, wenn er daran erinnert, dass die Ehe „eine zwischenpersonale Struktur \[besitzt\]. Sie ist Verbindung und Gemeinschaft zweier Personen \[…\]. \[Die Weiterentwicklung der Ehe zur Familie\] kann jedoch aus einer Vielzahl von Gründen auch nicht erfolgen. Doch beraubt das Fehlen der Familie die Ehe in keiner Weise ihres eigentümlichen Charakters. Die innere und wesentliche Daseinsberechtigung der Ehe ist nicht einfach die schlussendliche Umwandlung in eine Familie, sondern die Schaffung einer dauerhaften personalen Verbindung zwischen einem Mann und einer Frau, die auf Liebe gegründet ist. \[…\] Eine Ehe, die ohne Schuld der Gatten kinderlos ist, behält ihren vollen Wert als Institution \[…\], verliert nicht ihre Bedeutung.“[^234]
->
+
 > b)   Ein Paar sucht in bewusster Weise einen bestimmten geschlechtlichen Akt nicht mit dem Ziel der Zeugung. Hierzu stellt Wojtyła fest, dass es sich um „einen Akt der Liebe handeln \[muss\], einen Akt der Vereinigung der Personen, und nicht bloß um das ,Instrument‘ oder ,Mittel‘ der Fortpflanzung“[^235].
->
+
 > c\) Ein Paar beachtet die natürlichen Zeiten der Unfruchtbarkeit. Diesbezüglich erklärt der hl. Paul VI., dass „es nach kirchlicher Lehre den Gatten erlaubt \[ist\], dem natürlichen Zyklus der Zeugungsfunktionen zu folgen \[und\] dabei den ehelichen Verkehr auf die empfängnisfreien Zeiten zu beschränken“[^236]. Dies kann nicht nur dazu dienen, die „Zahl der Kinder zu planen“, sondern auch dazu, den günstigsten Zeitpunkt für die Empfängnis eines neuen Lebens zu wählen. In der Zwischenzeit kann das Paar diese Zeiträume nutzen, um „seine Zuneigung zu bekunden und die gegenseitige Treue zu bewahren. Auf diese Weise beweisen sie ihre wahrhaftige und uneingeschränkt ehrliche Liebe“[^237].
 
 146\. All das zeigt die wichtige Neuheit, die Papst Pius XI. beiträgt, wenn er feststellt, dass „die eheliche Liebe alle Pflichten des Ehelebens durchdringt und gewissermaßen den Vorrang an Adel in der christlichen Ehe innehat“[^238]. Auf diese Weise hilft er, die Diskussion über das Verhältnis zwischen den Zwecken oder Sinngehalten der Ehe (Zeugung/Fortpflanzung und Vereinigung) und der zwischen ihnen bestehenden Ordnung zu überwinden, indem er die eheliche Liebe über diese Dialektik der Ziele und Güter als zentrale Frage des Ehelebens stellt, was ihr wiederum eine vielfältige Fruchtbarkeit verleiht. So können die Ehegatten auch in den schwierigsten Momenten sagen: „Wir sind Freunde, wir lieben uns, wir schätzen uns, wir haben beschlossen, unser ganzes Leben miteinander zu teilen, wir gehören zusammen, und wir haben uns frei für diese Verbindung entschieden, die Gott selbst gesegnet und gefestigt hat. Wenn derzeit keine Kinder da sind, bleiben wir vereint und sind auf andere Weise fruchtbar. Wenn gewisse Zeit kein geschlechtlicher Verkehr möglich ist, leben wir weiterhin diese einzigartige, ausschließliche und umfassende Freundschaft, die auch unser bester Weg zur Reife und Heiligung ist.“
@@ -528,11 +520,11 @@ Sucht man hingegen nur eine kurze Synthese der Gründe zugunsten einer ausschlie
 152\. Das Risiko einer „Endogamie“, d. h. eines geschlossenen „Wir“, widerspricht dem Wesen der Nächstenliebe und kann ihr tödlichen Schaden zufügen. Vier Faktoren können diesem, die Bedeutung des Ehebundes verzerrenden und verarmenden geschlossenen „Wir“ entgegenwirken:
 
 > a\) Die Freiräume, die jeder Ehepartner bei der Arbeit, bei persönlichen Initiativen, beim Lernen und bei der Weiterentwicklung außerhalb des Ehelebens hat. Wenn einer der beiden keinen eigenen Beruf ausübt, ist es zum Wohle der Ehe notwendig, diese Freiräume zu schaffen, um den Dialog und die Beziehung im Allgemeinen zu bereichern.
->
+
 > b\) Der Sinngehalt der Fortpflanzung in der Ehe als Sichtbarmachen der Fruchtbarkeit der Liebe, die sich nicht der Weitergabe des Lebens verschließt. Bei jenen, die unter Kinderlosigkeit leiden, können die Adoption oder andere Formen dauerhafter Unterstützung für die Kinder anderer Paare ein Weg sein, solche Fruchtbarkeit zu verwirklichen.
->
+
 > c\) Die Zeit, die man mit anderen verheirateten Freunden verbringt, und in der man zwar aus den Erfahrungen der anderen lernt und von ihnen Unterstützung erhält, aber auch stets bereit ist, ihnen in schwierigen Zeiten beizustehen, sodass das Paar dank der Freundschaft mit anderen Paaren sich zugleich seiner selbst als Einheit bewusst werden kann.
->
+
 > d\) Das soziale Gespür des Paares, das getreu der sozialen Dimension des christlichen Lebens nach Wegen sucht, um der Gesellschaft und der Kirche zu dienen, indem es sich gemeinsam für das Gemeinwohl einsetzt: „Auch die kinderreiche Familie ist berufen, in der Gesellschaft, in der sie lebt, ihre Spuren zu hinterlassen, um andere Formen der Fruchtbarkeit zu entwickeln, welche die Liebe, von der sie selbst getragen wird, gleichsam ausdehnen \[…\]. Sie verharrt nicht in Wartestellung, sondern verlässt in solidarischer Suche das eigene Nest.“[^247] „Die soziale Liebe, ein Abglanz der Dreifaltigkeit, ist in Wirklichkeit das, was den geistlichen Sinngehalt der Familie und ihre Mission außerhalb ihrer selbst zusammenschließt.“[^248]
 
 153\. Ein besonderer Beweis für die Offenheit des Paares gegenüber anderen und für die Fruchtbarkeit ihrer Nächstenliebe zeigt sich in ihrer Aufmerksamkeit gegenüber den Armen. So erinnert Papst Leo XIV.: „Christen dürfen die Armen nicht bloß als soziales Problem betrachten: Sie sind eine ‚Familienangelegenheit‘. Sie gehören ‚zu den Unsrigen‘.“[^249] Und ebenso: „Deshalb ist die Liebe zu den Armen – in welcher Form auch immer sich diese Armut zeigt – die evangeliumsgemäße Garantie für eine Kirche, die dem Herzen Gottes treu ist.“[^250] Diese Tatsache spiegelt sich in einer der Wahlmöglichkeiten für den Schlusssegen des Römischen Trauungsritus, die mit diesem Gebet abschließt: „Seid in der Welt Zeugen der göttlichen Liebe und hilfsbereit zu den Armen und Bedrückten, damit sie euch einst in den ewigen Wohnungen empfangen.“[^251]

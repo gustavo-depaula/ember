@@ -4,8 +4,6 @@ GIOVANNI PAOLO II
 
 ***LETTERA APOSTOLICA A TUTTI I VESCOVI DELLA CHIESA CATTOLICA SULLA SITUAZIONE NEL LIBANO***
 
-*** ***
-
 1\. Ancora una volta, con la stessa fiducia ma con maggiore tristezza, desidero sollecitare la vostra fraterna solidarietà per i nostri fratelli del Libano, che continuano ad essere vittime di una impietosa violenza, da nessuna causa giustificata.
 
 Di fronte ai ripetuti drammi, che ciascuno degli abitanti di questa terra conosce, noi prendiamo coscienza dell'estremo pericolo che minaccia l'esistenza stessa del Paese: il Libano non può essere abbandonato nella sua solitudine.
@@ -44,6 +42,4 @@ Nel dare appuntamento a voi, cari fratelli nell'Episcopato, come anche ai fedeli
 
 Con la mia benedizione apostolica.
 
-*Dal Vaticano, il 7 settembre 1989.*  
-
-* *
+*Dal Vaticano, il 7 settembre 1989.*

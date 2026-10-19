@@ -1,9 +1,5 @@
 # Ratio Agendi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***REGULAMENTO A SEGUIR NO EXAME DAS DOUTRINAS***
@@ -85,8 +81,6 @@ Roma, da Sede da Congregação para a Doutrina da Fé, a 29 Junho de 1997, na So
 \+ Tarcisio Bertone, S.D.B. *Arcebispo emérito de Vercelli Secretário*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cfr. Const. *Apost. Pastor* bonus, art. 48: AAS 80 (1988) 873.
 

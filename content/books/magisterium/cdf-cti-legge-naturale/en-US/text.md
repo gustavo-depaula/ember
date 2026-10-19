@@ -1,13 +1,5 @@
 # In Search of a Universal Ethic: A New Look at the Natural Law, 2009
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 INTERNATIONAL THEOLOGICAL COMMISSION

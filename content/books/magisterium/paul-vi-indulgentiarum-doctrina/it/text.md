@@ -35,43 +35,43 @@ In tal modo si manifesta il "tesoro della chiesa". Infatti, non lo si deve consi
 **NORME**
 
 > **N. 1.** L’indulgenza è la remissione dinanzi a Dio della pena temporale per i peccati, già rimessi quanto alla colpa, che il fedele, debitamente disposto e a determinate condizioni, acquista per intervento della chiesa, la quale, come ministra della redenzione, autoritativamente dispensa ed applica il tesoro delle soddisfazioni di Cristo e dei santi.
->
+
 > **N. 2**. L’indulgenza è parziale o plenaria secondo che libera in parte o in tutto dalla pena temporale dovuta per i peccati.
->
+
 > **N. 3.** Le indulgenze sia parziali che plenarie possono essere sempre applicate ai defunti a modo di suffragio.
->
+
 > **N. 4.** L’indulgenza parziale d’ora in poi sarà indicata con le sole parole "indulgenza parziale", senza alcuna determinazione di giorni o di anni.
->
+
 > **N. 5.** Il fedele, che almeno col cuore contrito compie una azione, alla quale è annessa l’indulgenza parziale, ottiene, in aggiunta alla remissione della pena temporale che percepisce con la sua azione, altrettanta remissione di pena per intervento della chiesa.
->
+
 > **N. 6.** L’indulgenza plenaria può essere acquistata una sola volta al giorno, salvo quanto è disposto al n. 18 per coloro che sono in punto di morte. L’indulgenza parziale invece può essere acquistata più volte al giorno, salvo esplicita indicazione in contrario.
->
+
 > **N. 7.** Per acquistare l’indulgenza plenaria è necessario eseguire l’opera indulgenziata e adempiere tre condizioni: confessione sacramentale, comunione eucaristica e preghiera secondo le intenzioni del sommo pontefice. Si richiede inoltre che sia escluso qualsiasi affetto al peccato anche veniale. Se manca la piena disposizione o non sono poste le predette tre condizioni, l’indulgenza è solamente parziale, salvo quanto è prescritto al n. 11 per gli impediti.
->
+
 > **N. 8.** Le tre condizioni possono essere adempiute parecchi giorni prima o dopo di aver compiuto l’opera prescritta; tuttavia conviene che la comunione e la preghiera secondo le intenzioni del sommo pontefice siano fatte nello stesso giorno, in cui si compie l’opera.
->
+
 > **N. 9.** Con una sola confessione sacramentale si possono acquistare più indulgenze plenarie; ma con una sola comunione eucaristica e una sola preghiera secondo le intenzioni del sommo pontefice si lucra una sola indulgenza plenaria.
->
+
 > **N. 10.** Si adempie pienamente la condizione di pregare secondo le intenzioni del sommo pontefice, recitando secondo le sue intenzioni un Pater e un’Ave; è data tuttavia ai singoli fedeli la facoltà di recitare qualsiasi altra preghiera secondo la pietà e la devozione di ciascuno verso il romano pontefice.
->
+
 > **N. 11.** Ferma restando la facoltà concessa dal can. 935 del CIC ai confessori di commutare per gli impediti sia l’opera prescritta sia le condizioni richieste per l’acquisto delle indulgenze, gli ordinari locali possono concedere ai fedeli, sui quali esercitano la loro autorità a norma del diritto, se risiedono in luoghi dove in nessun modo o almeno molto difficilmente possono accostarsi ai sacramenti della comunione, di poter acquistare l’indulgenza plenaria senza l’attuale confessione e comunione, purché siano contriti e propongano di accostarsi ai predetti sacramenti appena è loro possibile.
->
+
 > N. 12. È abolita la divisione delle indulgenze in personali, reali e locali, perché più chiaramente appaia che le indulgenze sono concesse alle azioni dei fedeli, sebbene esse siano talvolta collegate ad un oggetto o ad un luogo.
->
+
 > **N. 13.** Il manuale delle indulgenze sarà riveduto in modo che solamente le più importanti preghiere e opere di pietà, di carità e di penitenza siano indulgenziate.
->
+
 > **N. 14.** Gli elenchi e i sommari delle indulgenze per gli ordini e congregazioni religiose, per le società che vivono in comune senza voti, per gli istituti secolari e per le pie associazioni di fedeli, saranno quanto prima riveduti, in modo che l’indulgenza plenaria possa lucrarsi soltanto in giorni particolari stabiliti dalla santa sede, su proposta del superiore generale o, se si tratta di pie associazioni, dell’ordinario del luogo.
->
+
 > **N. 15.** In tutte le chiese oratori pubblici o, per quelli che ne usano legittimamente, semipubblici, si può acquistare il 2 novembre una indulgenza plenaria da applicarsi soltanto ai defunti. Nelle chiese parrocchiali si può lucrare inoltre l’indulgenza plenaria due volte all’anno, cioè nella festa del santo titolare e il 2 agosto, in cui ricorre l’indulgenza della Porziuncola, oppure in altro giorno opportunamente stabilito dall’ordinario. Le predette indulgenze si possono acquistare o nei giorni sopra stabiliti, oppure, col consenso dell’ordinario, la domenica antecedente o successiva. Tutte le altre indulgenze concesse alle chiese od oratori dovranno quanto prima essere rivedute.
->
+
 > **N. 16.** L’opera prescritta per lucrare l’indulgenza plenaria annessa a una chiesa o a un oratorio consiste nella devota visita di questi luoghi sacri, recitando in essi un Pater e un Credo.
->
+
 > **N. 17.** Il fedele che devotamente usa un oggetto di pietà (crocifisso, croce, corona, scapolare, medaglia), debitamente benedetto da un sacerdote, può lucrare una indulgenza parziale. Se poi tale oggetto religioso è benedetto dal sommo pontefice o da un vescovo, i fedeli, che devotamente lo usano, possono acquistare anche l’indulgenza plenaria nella festa dei ss. apostoli Pietro e Paolo, aggiungendo però la professione di fede con qualsiasi legittima formula.
->
+
 > N. 18. Al fedele in pericolo di morte, che non possa essere assistito da un sacerdote che gli amministri i sacramenti e gli impartisca la benedizione apostolica con l’annessa indulgenza plenaria a norma del can. 468,2 del CIC, la santa madre chiesa concede ugualmente l’indulgenza plenaria in punto di morte, purché sia bene disposto e abbia recitato durante la vita qualche preghiera. Per l’acquisto di tale indulgenza è raccomandabile l’uso del crocifisso o della croce. Questa stessa indulgenza plenaria in punto di morte può essere lucrata dal fedele, che nello stesso giorno abbia già acquistato un’altra indulgenza plenaria.
->
+
 > **N. 19.** Le norme stabilite circa l’indulgenza plenaria, specialmente quella recensita nel n. 6, si applicano anche alle indulgenze plenarie cosiddette "ogni volta che".
->
+
 > **N. 20.** La santa madre chiesa, massimamente sollecita per i fedeli defunti, ha stabilito di suffragarli nella più larga misura in tutte le messe, abolendo ogni particolare privilegio.
 
 Le nuove norme, che regolano l’acquisto delle indulgenze, entreranno in vigore dopo tre mesi dalla data di pubblicazione di questa costituzione su "Acta Apostolicae Sedis". Le indulgenze, annesse all’uso degli oggetti di pietà, che non sono sopra riferite, cessano dopo tre mesi dalla data di pubblicazione della presente costituzione su "Acta Apostolicae Sedis". Le revisioni, di cui si tratta nei nn. 14 e 15, debbono essere proposte alla sacra penitenzieria apostolica entro un anno; trascorso un biennio dalla data di questa costituzione, le indulgenze, che non siano state confermate, decadranno. Queste nostre norme e prescrizioni al presente e per l’avvenire vogliamo che siano stabili ed efficaci, nonostante, in quanto è necessario, le costituzioni e gli ordinamenti apostolici emanati dai nostri predecessori, e tutte le altre prescrizioni, anche se degne di particolare menzione e deroga.

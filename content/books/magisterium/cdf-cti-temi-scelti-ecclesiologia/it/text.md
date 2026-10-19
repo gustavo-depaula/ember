@@ -1,9 +1,5 @@
 # Documento riguardante temi scelti di ecclesiologia
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **DOCUMENTO DELLA COMMISSIONE TEOLOGICA INTERNAZIONALE RIGUARDANTE [TEMI SCELTI DI ECCLESIOLOGIA](/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_it.html)**
 
 **(Comunicato Radio Vaticana, 10 dicembre 1985)**
@@ -15,5 +11,3 @@ I temi presi in esame sono 10 e precisamente: [La fondazione della Chiesa ad ope
 In un [preambolo](/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_it.html#Preambolo) al documento il [cardinale Ratzinger](/roman_curia/congregations/cfaith/doc_rat_index_it.htm), che è presidente della [Commissione Teologica Internazionale](/roman_curia/congregations/cfaith/cti_index_it.htm), mette in rilievo che sono stati enucleati alcuni temi, i quali nel dibattito postconciliare hanno provocato nuove questioni e richiedono chiarimenti o anche completamenti e approfondimenti. Egli avverte anche che nessuno dei capitoli del documento, pur accostandovisi, può esaurire il suo tema. Non vengono proposte ricerche scientifiche sui punti particolari, ma è presentata la comune conoscenza, che nuovamente chiarisce e porta avanti le linee fondamentali. La convinzione del cardinale Ratzinger è che il documento in questione può costituire un prezioso sussidio orientativo per riappropriarsi dell’eredità del [Concilio](/archive/hist_councils/ii_vatican_council/index_it.htm) e svilupparla in modo adeguato. 
 
 Il testo del documento, secondo gli statuti e la prassi della [Commissione Teologica Internazionale](/roman_curia/congregations/cfaith/cti_index_it.htm), è frutto dell’elaborazione di vari studi, in particolare di due specifiche riunioni della sottocommissione “De Ecclesia” a Parigi e Friburgo e delle discussioni della sessione plenaria dell’ottobre scorso. L’ultima stesura del documento, che è stato distribuito ai Padri prima dell’ultimo Sinodo, è del presidente della predetta sottocommissione, mons. Pierre Eyt, rettore dell’*Institut Catholique* di Parigi.
-
-[](#top)

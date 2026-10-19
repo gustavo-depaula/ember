@@ -136,5 +136,3 @@ Pour que se réalisent ces voeux et ces présages qui jaillissent d'une âme pat
 *Donné à Rome, près de Saint-Pierre, en la fête des saints apôtres Pierre et Paul, en l'an 1936, quinzième de notre Pontificat.*
 
 **PIE XI.**
-
-*  *

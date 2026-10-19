@@ -23,9 +23,9 @@ Com a presente Carta Apostólica sob forma de *Motu Proprio* adopto as seguintes
 Os Dicastérios da Cúria Romana e os demais organismos e entidades vinculados à Santa Sé, além das organizações sem finalidade de lucro com personalidade jurídica canónica e com sede no Estado da Cidade do Vaticano devem observar as leis do Estado da Cidade do Vaticano em matéria de:
 
 > a\) medidas para a prevenção e o combate à lavagem de dinheiro e ao financiamento do terrorismo;
->
+
 > b\) medidas contra os sujeitos que ameaçam a paz e a segurança internacional;
->
+
 > c\) vigilância sensata das entidades que desempenham profissionalmente uma actividade de natureza financeira.
 
 **Artigo 2**

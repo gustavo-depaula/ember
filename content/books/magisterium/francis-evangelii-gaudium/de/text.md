@@ -1,6 +1,5 @@
 # "Evangelii Gaudium": Apostolisches Schreiben über die Verkündigung des Evangeliums in der Welt von heute
 
-[](/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium_ge.pdf)  
 PDF HERUNTERLADEN
 
 APOSTOLISCHES SCHREIBEN  

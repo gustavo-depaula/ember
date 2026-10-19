@@ -1,9 +1,5 @@
 # Kolekta
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](http://www.vatican.va/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 ***ŚW. JANA PAWŁA II, PAPIEŻA***
@@ -21,5 +17,3 @@ na działanie zbawczej łaski Chrystusa,
 jedynego Odkupiciela człowieka.  
 Który z Tobą żyje i króluje w jedności Ducha Świętego, Bóg,  
 przez wszystkie wieki wieków.
-
-[](#top)

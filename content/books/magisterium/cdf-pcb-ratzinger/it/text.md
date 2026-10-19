@@ -1,9 +1,5 @@
 # Il rapporto fra Magistero della Chiesa ed esegesi a 100 anni dalla costituzione della Pontificia Commissione Biblica - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 ***IL RAPPORTO FRA MAGISTERO DELLA CHIESA ED ESEGESI A 100 ANNI DALLA COSTITUZIONE  DELLA PONTIFICIA COMMISSIONE BIBLICA***
 
 **Joseph Cardinal Ratzinger**
@@ -35,8 +31,6 @@ La Terra Promessa della libertà è più affascinante e multiforme di quello ch
 ------------------------------------------------------------------------
 
 NOTE
-
-[](#top)
 
 [^1]: \[\] *Enchiridion Biblicum*. Documenti della Chiesa sulla Sacra Scrittura (Bologna 1993) Nr. 400a, p. 354ss.
 

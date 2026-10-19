@@ -1,14 +1,8 @@
 # SU ALCUNI ASPETTI DELLA CHIESA INTESA COME COMUNIONE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***LETTERA AI VESCOVI DELLA CHIESA CATTOLICA SU ALCUNI ASPETTI DELLA CHIESA INTESA COME COMUNIONE***
-
-*** ***
 
 **INTRODUZIONE**
 
@@ -279,5 +273,3 @@ Nel concludere questa *Lettera*, la Congregazione per la Dottrina della Fede, ri
 \(82\) S. Cromazio di Aquileia, *Sermo* 30, 1: *Sources Chrétiennes* 1 64, p. 134. Cf. Paolo VI, Esort apost. *Marialis cultus*, 2-II-1974, n. 28: *AAS* 66 (1974) 141.
 
 \(83\) Cf. Costit. dogm. *Lumen gentium*, n. 69.
-
-[](#top)

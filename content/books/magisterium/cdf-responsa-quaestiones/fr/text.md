@@ -1,9 +1,5 @@
 # Réponses à des questions concernant certains aspects de la doctrine sur l'Église
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***RÉPONSES À DES QUESTIONS CONCERNANT CERTAINS ASPECTS DE LA DOCTRINE SUR L’ÉGLISE***
@@ -127,5 +123,3 @@ Ces deux expressions se trouvent dans le Décr. *Unitatis redintegratio*, nn. 2.
 19 Cf. CONCILE ŒCUMÉNIQUE VATICAN II, Décr. *Unitatis redintegratio*, n. 22.3.
 
 20 Cf. CONGRÉGATION POUR LA DOCTRINE DE LA FOI, Décl. *Dominus Iesus*, n. 17.2 : AAS 92 \[2000-II\] 758.
-
-[](#top)

@@ -1,8 +1,4 @@
-# 
-
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
+# Introduction of Card. Joseph Ratzinger to the Compendium of the Catechism of the Catholic Church (March 20, 2005)
 
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
@@ -43,8 +39,6 @@ A quarta parte, intitulada “A oração cristã”, oferece uma síntese da “
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: JOÃO PAULO II, Constituição Apostólica *Fidei depositum*, 11 de Outubro de 1992.
 

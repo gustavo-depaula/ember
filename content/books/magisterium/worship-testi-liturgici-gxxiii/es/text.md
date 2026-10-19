@@ -1,9 +1,5 @@
 # Textos litúrgicos en honor de San Juan XXIII, Papa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA EL CULTO DIVINO  
 Y LA DISCIPLINA DE LOS SACRAMENTOS
 
@@ -82,5 +78,3 @@ R/. Dios la ha fundado para siempre. \* Y el poder del infierno.
 Oración
 
 Dios todopoderoso y eterno, que en san Juan, papa, has hecho resplandecer ante el mundo la imagen viva de Cristo, Buen Pastor, concédenos, por su intercesión, manifestar con gozo la plenitud de la caridad cristiana. Por nuestro Señor Jesucristo.
-
-[](#top)

@@ -49,11 +49,11 @@ Itaque, omnibus mature perpensis, pro Nostra reverentia atque caritate erga sing
 **14.** Concedendi confessariis scientia et prudentia conspicuis, facultatem fedeles quoslibet absolvendi in actu sacramentalis confessionis ab omnibus censuris, etiam reservatis, exceptis tamen:
 
 > *a)* censuris ab homine;
->
+
 > *b)* censuris specialissimo modo Apostolicae Sedi reservatis;
->
+
 > *c)* censuris quae sunt adnexae revelationi secreti Sancti Officii;
->
+
 > *d)* excommunicatione qua plectuntur sacerdotes omnesque cum illis matrimonium etiam civiliter tantum contrahere praesumentes et actu simul conviventes.
 
 **15.** Dispensandi, iusta de causa, super ordinandorum defectu aetatis, qui sex integros menses non excedat.
@@ -121,11 +121,11 @@ Itaque, omnibus mature perpensis, pro Nostra reverentia atque caritate erga sing
 **4.** Fideles quoslibet ubique absolvendi in actu sacramentalis confessionis ab omnibus censuris, etiam reservatis, exceptis tamen:
 
 > *a)* censuris ab homine;
->
+
 > *b)* censuris specialissimo modo Apostolicae Sedi reservatis;
->
+
 > *c)* censuris quae sunt adnexae revelationi secreti Sancti Officii;
->
+
 > *d)* excommunicatione qua plectuntur sacerdotes omnesque cum illis matrimonium etiam civiliter tantum contrahere praesumentes et actu simul conviventes.
 
 Hac facultate Episcopi residentiales pro suis subditis uti possunt etiam pro foro externo.

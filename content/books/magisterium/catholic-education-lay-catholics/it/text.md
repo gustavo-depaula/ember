@@ -1,9 +1,5 @@
 # Il Laico Cattolico Testimone della Fede, 1982
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SACRA CONGREGAZIONE  
 PER L'EDUCAZIONE CATTOLICA
 
@@ -401,5 +397,3 @@ Secondo, un'autentica partecipazione dei laici alle responsabilità della scuola
 \(56\) Cf. Giovanni Paolo II, Enc*. [Laborem exercens](http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens_it.html)*, AAS 73. (1981) n. p. 614. 
 
 \(57\) *[Apostolicam actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_it.html)*, n. 33.
-
-[](#top)

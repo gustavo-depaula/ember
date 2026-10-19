@@ -1,13 +1,5 @@
 # Déclaration sur le livre du R.P. Jacques Pohier «Quand je dis Dieu», 3 avril 1979
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**

@@ -1,9 +1,5 @@
 # El abuso sexual de menores: Una respuesta polifacética al reto, 6 febrero 2012, Card. William Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***EL ABUSO SEXUAL DE MENORES: UNA RESPUESTA POLIFACÉTICA AL RETO***
 
 **Cardenal William Levada**
@@ -73,5 +69,3 @@ El camino “*Hacia la Curación y la Renovación*” tiene que recorrerlo toda 
 Espero que mis comentarios en esta tarde constituyan una pequeña contribución a esta esperanza renovada, en la medida en que presentan las medidas concretas que está adoptando una Iglesia que recibe el nombre de “Católica” —universal— en un intento de abordar las variadas facetas del reto que representa el abuso sexual de menores por parte de clérigos. Merece la pena repetir que los abusos han sido cometidos por una pequeña minoría dentro de un clero fiel y comprometido. No obstante, esta pequeña minoría ha infligido un gran daño a las víctimas, y a la misión de la Iglesia de llevar el amor de Cristo al mundo de hoy.
 
 Personalmente, estoy convencido de que las medidas que se están adoptando, representadas por el *motu proprio SST* y por la *[Carta Circular](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20110503_abuso-minori_sp.html)* de la Congregación, junto con las innumerables iniciativas locales adoptadas como respuesta al reto del abuso sexual de menores por parte de clérigos, nos ayudarán a seguir ofreciendo respuestas fructíferas para curar las heridas del pasado, y para renovar nuestro compromiso con el futuro lleno de esperanza que nuestro Dios misericordioso había prometido. Gracias por la iniciativa de celebrar este Simposio “Hacia la Curación y la Renovación”: Ojalá sea un modelo para futuros estudios que pueda ayudarnos a todos a afrontar lo que tenemos que hacer como Iglesia. Ojalá constituya también una fuente de conocimientos y esperanza para quienes aspiran a erradicar el flagelo del abuso sexual de menores de toda la sociedad.
-
-[](#top)

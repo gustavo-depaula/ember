@@ -4,10 +4,6 @@
 
 SOME ASPECTS OF THE CHURCH UNDERSTOOD AS COMMUNION
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***LETTER TO THE BISHOPS OF THE CATHOLIC CHURCH ON SOME ASPECTS OF THE CHURCH UNDERSTOOD AS COMMUNION***
@@ -283,5 +279,3 @@ C), 1.
 \(82\) ST. CROMATIUS OF AQUILEIA, *Sermo* 30, 1: "Sources ChrJtiennes" 164, p. 134. Cf. PAUL VI, Ap. Exh. *Marialis cultus*, 2-II-1974, n. 28.
 
 \(83\) Cf. Const. *Lumen gentium*, n. 69.
-
-[](#top)

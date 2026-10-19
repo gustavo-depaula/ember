@@ -281,9 +281,9 @@ Labor humani cordis, labor conscientiae, quo haec « metanoia » fit, seu conver
 **46.** Ratione habita rerum, quas hactenus diximus, melius alia Iesu verba conturbantia et terrifica intelleguntur, quae appellare possumus verba de « *non-venia* ». Haec nobis referuntur a Synopticis quoad peculiare peccatum, quod vocatur « blasphemia contra Spiritum Sanctum ». Ita in triplici evangelistarum narratione exponuntur:
 
 > *Matthaeus:* « Omne peccatum et blasphemia remittetur hominibus, Spiritus autem blasphemia non remittetur. Et quicumque dixerit verbum contra Filium hominis, remittetur ei; qui autem dixerit contra Spiritum Sanctum, non remittetur ei neque in hoc saeculo neque in futuro » (180).
->
+
 > *Marcus*: « Omnia dimittentur filiis hominum peccata et blasphemiae, quibus blasphemaverint; qui autem blasphemaverit in Spiritum Sanctum, non habet remissionem in aeternum, sed reus est aeterni delitti » (181).
->
+
 > *Lucas*: « Omnis, qui dicet verbum in Filium hominis, remittetur illi; ei autem qui in Spiritum Sanctum blasphemaverit, non remittetur » (182).
 
 Cur blasphemiae in Spiritum Sanctum nulla venia davi potest? Quomodo haec blasphemia est intellegenda? Sanctus Thomas Aquinas respondet agi de peccato « irremissibili secundum suam naturam, in quantum excludit ea per quae fit remissio peccatorum » (183).

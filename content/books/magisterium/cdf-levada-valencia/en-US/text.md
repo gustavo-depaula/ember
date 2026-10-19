@@ -1,9 +1,5 @@
 # The Family in the Catechism of the Catholic Church
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***The Family in the *Catechism of the Catholic Church* By Cardinal William J. Levada***
 
 *Valencia (Spain), July 7, 2006*
@@ -75,5 +71,3 @@ In the first place, the Catechism itself has been adapted to serve families in a
 In addition, the Catechism and its new Compendium can serve as an instrument for a more effective pastoral work on behalf of families (pastorale familiare). Today many families have found the support and Christian formation they need in one of the many new ecclesial movements that have sprung up during the past century. But too often the basic cell of Church life, the parish, has not yet responded effectively to assist families live out their high vocation in the midst of an increasingly secularized world. The Catechism and the new Compendium lend themselves as tools that can bring families together to help each other deepen their understanding of the faith, to realize the ideals contained in the virtues as a way of living “in Christ,” and to challenge each other to live out their Christian faith in love with a truly apostolic, missionary spirit.
 
 Finally, the Catechism in the family can help every member in it realize that primary vocation that each human person has: “to know, love and serve God in this life, and to be happy with Him forever in the next. This vocation as Jesus spoke it are the words with which the Catechism begins, and sum up its whole purpose: “Father,... this is eternal life, that they may know you, the only true God, and Jesus Christ whom you have sent” (Jn 17:3).
-
-[](#top)

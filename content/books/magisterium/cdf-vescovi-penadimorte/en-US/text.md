@@ -1,15 +1,5 @@
 # Letter to the Bishops regarding the new revision of number 2267 of the Catechism of the Catholic Church on the death penalty, from the Congregation for the Doctrine of the Faith
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR THE DOCTRINE OF THE FAITH

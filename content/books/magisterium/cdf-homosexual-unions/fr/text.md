@@ -1,9 +1,5 @@
 # Considérations à propos des projets de reconnaissance juridique des unions entre personnes homosexuelles
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***CONSIDÉRATIONS À PROPOS DES PROJETS DE RECONNAISSANCE JURIDIQUE DES UNIONS ENTRE PERSONNES HOMOSEXUELLES***
@@ -131,5 +127,3 @@ Rome, au siège de la Congrégation pour la Doctrine de la Foi, le 3 juin 2003, 
 \(17\) Il ne faut pas non plus oublier que le danger existe toujours «  qu'une législation qui fait de l'homosexualité une base pour avoir des droits puisse de fait encourager une personne qui a des tendances homosexuelles à déclarer son homosexualité ou même à chercher un partenaire dans le but de profiter des dispositions de la loi  » (Congrégation pour la doctrine de la foi, *Quelques considérations concernant la réponse aux propositions de loi sur la non-discrimination des personnes homosexuelles*, 24 juillet 1992, n. 14).
 
 \(18\) Jean-Paul II, Lettre encyclique *Evangelium vitae,* 25 mars 1995, n. 73.
-
-[](#top)

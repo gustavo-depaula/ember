@@ -1,9 +1,5 @@
 # Pour lire le document : « Le sensus fidei dans la vie de l’Eglise », Fr. Serge-Thomas Bonino, o.p.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Pour lire le document : [« Le *sensus fidei* dans la vie de l’Eglise »](/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_sensus-fidei_fr.html)**
 
 1\. **Un document rejoint par l’actualité**
@@ -21,9 +17,9 @@ Or, dès l’époque de ses études en théologie, J. Bergoglio semble avoir tro
 Rien d’étonnant dès lors à ce que les thèmes qui gravitent autour du *sensus fidei* soient très présents dans les enseignements de la première année du pontificat du [pape François](/content/francesco/fr.html). En voici quelques témoignages[^7]. Dans l’entretien « programmatique » avec le P. Antonio Spadaro, publié dans les revues jésuites en septembre 2013, le [pape François](/content/francesco/fr.html) évoque plusieurs thématiques connexes au *sensus fidei* (l’*infallibilitas in credendo* du peuple chrétien ; le *sentire cum Ecclesia*) dans le cadre d’une développement sur le concept clé de « peuple » :
 
 > « L’image de l’Église qui me plaît est celle du peuple de Dieu, saint et fidèle. C’est la définition que j’utilise souvent, et c’est celle de *Lumen gentium* au numéro 12. L’appartenance à un peuple a une forte valeur théologique : Dieu dans l’histoire du salut a sauvé un peuple. Il n’y a pas d’identité pleine et entière sans appartenance à un peuple. Personne ne se sauve tout seul, en individu isolé, mais Dieu nous attire en considérant la trame complexe des relations interpersonnelles qui se réalisent dans la communauté humaine. Dieu entre dans cette dynamique populaire.
->
+
 > Le peuple est sujet. Et l’Église est le peuple de Dieu cheminant dans l’histoire, avec joies et douleurs. *Sentire cum Ecclesia* (sentir avec l’Église), c’est, pour moi, être au milieu de ce peuple. L’ensemble des fidèles est infaillible dans le croire, et il manifeste son *infallibilitas in credendo* à travers le sens surnaturel de la foi de tout le peuple en marche. Voilà pour moi le *sentir avec l’Église* dont parle saint Ignace. Quand le dialogue entre les personnes, les évêques et le Pape va dans cette direction et est loyal, alors il est assisté par l’Esprit Saint. Ce n’est donc pas un sentir faisant référence aux théologiens.
->
+
 > C’est comme avec Marie : si nous voulons savoir qui elle est, nous nous adressons aux théologiens ; si nous voulons savoir comment l’aimer, il faut le demander au peuple. Marie elle-même aima Jésus avec le cœur du peuple, comme nous le lisons dans le Magnificat. Il ne faut donc pas penser que la compréhension du *sentir avec l’Église* ne soit référée qu’à sa dimension hiérarchique \[...\] Evidemment, il faut rester bien attentif et ne pas penser que cette *infallibilitas* de tous les fidèles, dont je suis en train de parler à la lumière du Concile, soit une forme de populisme. Non, c’est l’expérience de notre *Sainte Mère l’Église hiérarchique*, comme l’appelait saint Ignace, de l’Église comme peuple de Dieu, pasteurs et peuple tous ensemble. L’Église est la totalité du peuple de Dieu[^8] ».
 
 Des idées similaires sont égrenées tout au long de la feuille de route du nouveau pontificat que constitue à bien des égards l’exhortation apostolique *[Evangelii gaudium](/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 novembre 2013). Ainsi trouve-t-on au ch. 2, consacré au peuple de Dieu comme « sujet » de l’annonce de l’Evangile, un enseignement très classique sur le *sensus fidei* comme instinct de la foi qui assure l’*infallibilitas in credendo* du peuple de Dieu :
@@ -136,8 +132,6 @@ Fr. Serge-Thomas Bonino, o.p.
 *Secrétaire général de la Commission théologique internationale*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Répondant à une proposition faite par la première assemblée ordinaire du Synode des évêques, le pape [Paul VI](/holy_father/paul_vi/index_fr.htm) institua le 11 avril 1969 auprès de la Congrégation pour la doctrine de la foi une Commission théologique internationale. La mission de cette Commission est d’aider le Saint-Siège, et principalement la Congrégation pour la doctrine de la foi, dans l’examen des questions doctrinales d’importance majeure. Le président de la Commission est le cardinal Préfet de la Congrégation pour la doctrine de la foi. La Commission est composée de théologiens de diverses écoles et nations, éminents par leur science et leur fidélité au magistère de l’Église. Les membres – limités à trente – sont nommés par le Saint-Père «*ad* *quinquennium*» \[pour cinq ans\], sur proposition du cardinal Préfet de la Congrégation et après consultation des Conférences épiscopales. La coordination et la publication des travaux sont assurées par le Secrétaire général. Sur la fondation de la CTI, cf. Ph. Chenaux, « La Commission théologique internationale entre centre et périphérie », dans : *Un nouvel âge de la théologie ? 1965-1980*, Colloque de Montpellier, juin 2007, sous la dir. de D. Avon et M. Fourcade, p. 37-44 ; E. Avallone, « Paolo VI e la nascità della Commissione teologica internazionale », dans : *Paolo VI e la crisi postconciliare*, a cura di J. Ernesti, « Pubblicazione dell’Istituto Paolo VI, 32 », Brescia, 2013, p. 94-117. Les textes français des documents publiés par la CTI sont réunis en deux volumes : Commission théologique internationale, *Textes et documents I (1969-1985)*, Préface du Cardinal Joseph Ratzinger, Paris, Cerf, 2013 \[1^(er) éd. : 1988\] ; *Documents II (1986-2009)*, édité par Gilles Emery, Préface du Cardinal William Joseph Levada, Paris, Cerf, 2013.
 

@@ -1,9 +1,5 @@
 # Notification on the book Just Love. A Framework for Christian Sexual Ethics by Sr. Margaret A. Farley, R.S.M.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **NOTIFICATION ON THE BOOK *JUST LOVE. A FRAMEWORK FOR CHRISTIAN SEXUAL ETHICS* BY SR. MARGARET A. FARLEY, R.S.M.**
@@ -68,8 +64,6 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, March 
 Titular Archbishop of Thibica *Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *Catechism of the Catholic Church*, n. 2352; cf; CONGREGATION FOR THE DOCTRINE OF THE FAITH, Declaration *Persona humana* on Certain Questions Concerning Sexual Ethics (December 29, 1975), n. 9: *AAS* 68 (1976), 85-87.
 

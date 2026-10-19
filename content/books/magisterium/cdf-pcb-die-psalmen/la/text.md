@@ -1,9 +1,5 @@
 # De libro R.D. Bernardi Bonkamp, cui titulus: «Die Psalmen» - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE LIBRO R.D. BERNARDI BONKAMP, CUI TITULUS: «DIE PSALMEN»**
@@ -15,5 +11,3 @@ Opus a R.D. Bernardo Bonkamp editum: *Die Psalmen nach dem hebräischen Grundtex
 *Die autem 9 Iunii 1953, in audientia infrascripto Consultori ab Actis benigne concessa, Ss.mus Dominus Noster Pius Pp. XII praedictam Declarationem ratam habuit et publici iuris fieri mandavit.*
 
 Athanasius Miller, O.S.B. *Consultor ab Actis.*
-
-[](#top)

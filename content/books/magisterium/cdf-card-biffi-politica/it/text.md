@@ -1,9 +1,5 @@
 # Card. Biffi: Cultura cattolica per un vero umanesimo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Cultura cattolica per un vero umanesimo***
 
 “La fede in Gesù Cristo che ha definito se stesso ‘la via, la verità e la vita’ (Gv 14,6) chiede ai cristiani lo sforzo di inoltrarsi con maggior impegno nella costruzione di una cultura che, ispirata al Vangelo, riproponga il patrimonio di valori e contenuti della Tradizione cattolica” (*[Nota dottrinale circa alcune questioni riguardanti l’impegno e il comportamento dei cattolici nella vita politica](rc_con_cfaith_doc_20021124_politica_it.html)* n. 7).
@@ -65,5 +61,3 @@ Nei duemila anni della nostra storia, molti contributi decisivi dati all’eleva
 Tra i compiti del cattolico politicamente impegnato c’è anche quello di tutelare, far conoscere, far apprezzare - anche al servizio di un vero umanesimo - questo nostro impareggiabile “tesoro di famiglia”. 
 
 **Card. Giacomo Biffi** *Arcivescovo di Bologna*
-
-[](#top)

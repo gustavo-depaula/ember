@@ -2,15 +2,9 @@
 
 Pe. Anthony de Mello
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***NOTIFICAÇÃO SOBRE OS ESCRITOS DO PADRE ANTHONY DE MELLO (SJ)***
-
-*** ***
 
 O padre jesuíta indiano Anthony de Mello (1931-1987) é muito conhecido pelas suas numerosas publicações, que, traduzidas para diversas línguas, tiveram uma notável difusão em muitos países, mesmo se nem sempre se trata de textos por ele autorizados. As suas obras, quase sempre em forma de pequenos contos, contêm elementos válidos, provenientes da sabedoria oriental, que podem ajudar a adquirir um auto-controle, a romper os laços e afetos que nos impedem de ser livres, a enfrentar com serenidade os acontecimentos bons e maus da vida. Sobretudo nos seus primeiros escritos, o padre de Mello, embora já evidenciando uma clara influência das correntes espirituais budistas e taoístas, manteve-se, todavia, dentro das linhas da espiritualidade cristã. Nesses livros, trata dos diversos tipos de oração: de petição, de intercessão e louvor, bem como da contemplação dos mistérios da vida de Cristo, etc.
 
@@ -29,5 +23,3 @@ Roma, sede da Congregação para a Doutrina da Fé, 24 de junho de 1998, solenid
 **Joseph Card. Ratzinger** *Prefeito*
 
 **Tarcisio Bertone (SDB)** *Arcebispo Emérito de Vercelli  Secretário*
-
-[](#top)

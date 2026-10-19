@@ -1,13 +1,5 @@
 # Deklaracja Dignitas infinita o godności człowieka
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_po.html) - [ZH_CN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_zh_cn.html) - [ZH_TW](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_zh_tw.html)\]
@@ -542,8 +534,6 @@ Franciscus
 \[115\] Franciszek, Enc. *[Fratelli tutti](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html)* (3 października 2020), nr 195: *AAS* 112 (2020), 1038, cytat wewnętrzny: Tenże, Adhort. apost. *[Evangelii gaudium](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 listopada 2013), nr 274: *AAS* 105 (2013), s. 1130.
 
 \[116\] Franciszek, Enc. *[Laudato si’](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)* (24 maja 2015), nr 205: *AAS* 107 (2015), s. 928.
-
-** **
 
 ------------------------------------------------------------------------
 

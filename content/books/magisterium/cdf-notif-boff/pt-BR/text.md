@@ -1,9 +1,5 @@
 # Notificação sobre o livro Igreja: carisma e poder. Ensaios de eclesiologia militante de Leonardo Boff, O.F.M.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***NOTIFICAÇÃO SOBRE O LIVRO «IGREJA: CARISMA E PODER. ENSAIOS DE ECLESIOLOGIA MILITANTE» DE FREI LEONARDO BOFF, O.F.M.***
@@ -69,5 +65,3 @@ Ao tornar público o que acima ficou exposto, a Congregação sente-se na obriga
 **Joseph Card. Ratzinger** *Prefeito*
 
 **+ Alberto Bovone** *Arcebispo tit. de Cesarea de Numidia Secretário*
-
-[](#top)

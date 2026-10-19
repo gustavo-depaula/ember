@@ -1,9 +1,5 @@
 # Na marginesie «Noty» Kongregacji Nauki Wiary w sprawie niektórych pism o. Marciana Vidala CSsR
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Na marginesie «Noty» Kongregacji Nauki Wiary w sprawie niektórych pism o. Marciana Vidala CSsR**
 
 1\. W życiu Kościoła teologia moralna wzbudzała w ostatnich dziesięcioleciach zainteresowanie, jakim nie cieszyła się od dawna. Wiele czynników tłumaczy ten stan rzeczy. Uwaga, jaką poświęcił Sobór Watykański II człowiekowi i problemom nękającym jego serce; ukształtowanie się świadomości słusznej autonomii rzeczywistości ziemskiej; nowe rozumienie godności sumienia i należnego mu szacunku; potrzeba odnowy teologii moralnej według modelu lepiej odpowiadającego przymierzu Boga z ludem, którego centrum stanowi Osoba Chrystusa; pojawienie się antropologii o charakterze bardziej personalistycznym; odkrycie powołaniowego aspektu chrześcijańskiego małżeństwa; wielkie wyzwania, jakimi stały się dla nauki i kultury odkrycia w dziedzinie bioinżynierii — oto niektóre z decydujących czynników, które zwróciły uwagę teologów na moralność.
@@ -65,5 +61,3 @@ Te same uzasadnienia znaleźć można w nauczaniu Magisterium na temat sztuczneg
 12. Kongregacja Nauki Wiary, instr. Donum vitae (22 lutego 1987), n. II, B, 5: AAS 80 (1988) 92-94.
 
 13. Jan Paweł II, enc. Evangelium vitae (25 marca 1995), n. 58-62: AAS 87 (1995) 466-472.
-
-[](#top)

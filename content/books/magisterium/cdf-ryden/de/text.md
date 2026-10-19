@@ -1,9 +1,5 @@
 # Notifikation über die Schriften und Aktivitäten von Frau Vassula Ryden
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Kongregation für die Glaubenslehre
 
 **Notifikation über die Schriften und Aktivitäten von Frau Vassula Ryden**
@@ -29,5 +25,3 @@ In Anbetracht dessen, daß, trotz einiger positiver Aspekte, die Aktivitäten vo
 **+ Tarcisio Bertone, S.D.B.** em. Erzbischof von Vercelli *Sekretär*
 
 \[*L’Osservatore Romano*, Wochenausgabe in deutscher Sprache, 1995, Nr. 44, S. 4\].
-
-[](#top)

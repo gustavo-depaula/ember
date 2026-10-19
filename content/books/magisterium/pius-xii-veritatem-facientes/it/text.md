@@ -10,8 +10,6 @@ AI VENERABILI FRATELLI E AI DILETTI FIGLI
 VESCOVI E AL CLERO E AL POPOLO DELLA ROMANIA  
 CHE HANNO PACE E COMUNIONE CON LA SEDE APOSTOLICA
 
-*** ***
-
 *Venerabili Fratelli e Diletti Figli, salute e Apostolica Benedizione.*
 
 « *Seguendo la verità nella carità* »(1), mentre consideriamo le tristissime condizioni in cui versa tra voi la Chiesa Cattolica, non possiamo fare a meno di lodare il vostro mirabile esempio di cristiana fortezza; e di rammaricarCi per il gravissimo pericolo in cui si trovano i sacri diritti della religione cattolica, e specialmente la sua libertà.

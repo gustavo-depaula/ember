@@ -1,15 +1,5 @@
 # Lettera circolare ai Vescovi sul pane e il vino per l'Eucaristia - Congregazione per il Culto Divino e la Disciplina dei Sacramenti
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER IL CULTO DIVINO  
@@ -30,15 +20,15 @@ Spetta inoltre all’Ordinario informare e richiamare al rispetto assoluto delle
 3\. Le norme circa la materia eucaristica, indicate nel can. 924 del CIC e ai numeri 319 - 323 dell’*Institutio generalis Missalis Romani*, sono già state spiegate nell’Istruzione *[Redemptionis Sacramentum](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_it.html)* di questa Congregazione (25 marzo 2004):
 
 > a\) «Il pane utilizzato nella celebrazione del santo Sacrificio eucaristico deve essere azzimo, esclusivamente di frumento e preparato di recente, in modo che non ci sia alcun rischio di decomposizione. [^123] [^124]» (n. 48).
->
+
 > b\) «Il vino utilizzato nella celebrazione del santo Sacrificio eucaristico deve essere naturale, del frutto della vite, genuino, non alterato, né commisto a sostanze estranee. \[…\][^127] È assolutamente vietato usare del vino, sulla cui genuinità e provenienza ci sia dubbio: la Chiesa esige, infatti, certezza rispetto alle condizioni necessarie per la validità dei sacramenti. Non si ammetta, poi, nessun pretesto a favore di altre bevande di qualsiasi genere, che non costituiscono materia valida» (n. 50).
 
 4\. La Congregazione per la Dottrina della Fede, nella *[Lettera circolare ai Presidenti delle Conferenze Episcopali circa l’uso del pane con poca quantità di glutine e del mosto come materia eucaristica](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_it.html)* (24 luglio 2003, Prot. N. 89/78 – 17498), ha reso noto le norme riguardanti le persone che, per diverse e gravi motivazioni, non possono assumere pane normalmente confezionato o vino normalmente fermentato:
 
 > a\) «Le ostie *completamente* prive di glutine sono materia invalida per l'Eucaristia. Sono materia valida le ostie *parzialmente* prive di glutine e tali che sia in esse presente una quantità di glutine sufficiente per ottenere la panificazione senza aggiunta di sostanze estranee e senza ricorrere a procedimenti tali da snaturare il pane» (A. 1-2).
->
+
 > b\) «Il *mosto,* cioè il succo d'uva, sia fresco sia conservato sospendendone la fermentazione tramite procedure che non ne alterino la natura (ad es. congelamento), è materia valida per l'Eucaristia» (A. 3).
->
+
 > c\) «Gli Ordinari sono competenti a concedere la licenza di usare pane a basso tenore di glutine o mosto come materia dell'Eucaristia a favore di un singolo fedele o di un sacerdote. La licenza può essere concessa abitualmente, finché duri la situazione che ne ha motivato la concessione» (C. 1).
 
 5\. La medesima Congregazione ha inoltre deciso che la materia eucaristica confezionata con organismi geneticamente modificati può essere considerata materia valida (cf. Lettera al Prefetto della Congregazione per il Culto Divino e la Disciplina dei Sacramenti, 9 dicembre 2013, Prot. N. 89/78 – 44897).

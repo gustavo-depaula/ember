@@ -1,15 +1,5 @@
 # Thư Placuit Deo - Kính gửi các Giám mục của Hội Thánh Công Giáo Về một vài khía cạnh của ơn cứu độ Kitô giáo
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 BỘ GIÁO LÝ ĐỨC TIN

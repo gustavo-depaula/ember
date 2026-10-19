@@ -1,15 +1,11 @@
 # Arquivo - Conselho Pontifício para a Pastoral no Campo de Saúde
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Conselho Pontifício para a Pastoral no Campo de Saúde**
 
 ***ARQUIVO ***
 
 > **[Dolentium Hominum - Igreja e Saúde no mundo](rc_pc_hlthwork_doc_09061997_magazine_it.html)**
->
+
 > - **"A atenção aos doentes nos Padres da Igreja" - Pe. Carlo Cremona**  
 >   \[[Espanhol](rc_pc_hlthwork_doc_05101997_cremona_sp.html), [Francês](rc_pc_hlthwork_doc_05101997_cremona_fr.html), [Inglês](rc_pc_hlthwork_doc_05101997_cremona_en.html), [Italiano](rc_pc_hlthwork_doc_05101997_cremona_it.html)\]
 > - **"Hipócrates nos documentos eclesiásticos e nas obras teológicas" - Dr. Med. Gottfried Roth**  
@@ -26,5 +22,3 @@
 >   \[[Espanhol](rc_pc_hlthwork_doc_30061997_poupard_sp.html), [Francês](rc_pc_hlthwork_doc_30061997_poupard_fr.html), [Inglês](rc_pc_hlthwork_doc_30061997_poupard_en.html), [Italiano](rc_pc_hlthwork_doc_30061997_poupard_it.html)\]
 > - **Curar as feridas: os «Rachel Groups» - Cardenal John O'Connor**  
 >   \[[Espanhol](rc_pc_hlthwork_doc_23071997_oconnor_sp.html), [Francês](rc_pc_hlthwork_doc_23071997_oconnor_fr.html), [Inglês](rc_pc_hlthwork_doc_23071997_oconnor_en.html), [Italiano](rc_pc_hlthwork_doc_23071997_oconnor_it.html)\]
-
-[](#top)

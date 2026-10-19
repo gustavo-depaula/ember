@@ -1,9 +1,5 @@
 # VIEROUČNÁ NÓTA O NIEKTORÝCH ASPEKTOCH EVANJELIZÁCIE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGÁCIA PRE NÁUKU VIERY
 
 *VIEROUČNÁ NÓTA O NIEKTORÝCH ASPEKTOCH EVANJELIZÁCIE\**
@@ -211,5 +207,3 @@ Poznámky pod čiarou
 56\. BENEDIKT XVI.: encyklika Deus caritas est, 18.
 
 \* [www.kbs.sk](http://www.kbs.sk)
-
-[](#top)

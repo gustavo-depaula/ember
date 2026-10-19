@@ -7,8 +7,6 @@
 
 ***Ad perpetuam rei memoriam***
 
-*** ***
-
 **1. Inter munera academiarum** a Romanis Pontificibus saeculorum decursu conditarum investigatio in disciplinis philosophicis et theologicis eminent.
 
 In recentioribus Litteris Nostris Encyclicis *Fides et Ratio*, magnum momentum dialogo inter theologicas et philosophicas disciplinas tribuimus et de sententiis sancti Thomae Aquinatis mentem Nostram aperuimus, agnoscentes perennem sententiarum eius novitatem (Cf. n. 43-44).

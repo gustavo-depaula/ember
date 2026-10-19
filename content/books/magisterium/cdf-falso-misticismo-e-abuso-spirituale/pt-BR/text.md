@@ -1,20 +1,8 @@
 # Folha para Audiência: “Falso misticismo e abuso espiritual”
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
-
-** **
 
 **FOLHETO PARA A AUDIÊNCIA**
 
@@ -38,8 +26,6 @@ Víctor Manuel Card. Fernández *Prefeito*
 
 *Ex Audientia Die* 22.11.2024  
 Franciscus
-
-* *
 
 *O Prefeito do Dicastério para os Textos Legislativos aceitou a proposta e procede à constituição do Grupo de Trabalho previsto, composto por membros indicados por ambos os Dicastérios, para cumprir o mais rapidamente possível a tarefa que lhe foi confiada.*
 

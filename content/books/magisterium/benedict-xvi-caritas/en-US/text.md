@@ -8,8 +8,6 @@ OF THE SUPREME PONTIFF
 
 **ON THE SERVICE OF CHARITY**
 
-** **
-
 **Introduction**
 
 “*The Church’s deepest nature* is expressed in her three-fold responsibility: of proclaiming the word of God (*kerygma-martyria*), celebrating the sacraments (*leitourgia*) and exercising the ministry of charity (*diakonia*). These duties presuppose each other and are inseparable” (*[Deus Caritas Est](/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*, 25).
@@ -105,5 +103,3 @@ I order that everything I have laid down in this Apostolic Letter issued *Motu P
 *Given in Rome, at Saint Peter’s, on 11 November, in the year 2012, the eighth of my Pontificate*.
 
 **BENEDICTUS PP. XVI**
-
-** **

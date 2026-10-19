@@ -152,5 +152,3 @@ Komm, Heiliger Geist! Komm und mach unseren Dienst für Gott und an den Brüdern
 Indem ich meine Zuneigung Euch gegenüber erneuere und euch jeglichen göttlichen Trost für Euer Amt wünsche, erteile ich Euch aus ganzem Herzen den besonderen Apostolischen Segen.
 
 *Aus dem Vatikan, am 25. März, dem Hochfest der Verkündigung des Herrn 1998 im 20. Jahr des Pontifikates.*
-
-*  *

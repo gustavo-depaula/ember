@@ -1,9 +1,5 @@
 # Responses to Some Questions Regarding Certain Aspects of the Doctrine on the Church
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***RESPONSES TO SOME QUESTIONS REGARDING CERTAIN ASPECTS OF THE DOCTRINE ON THE CHURCH***
@@ -96,8 +92,6 @@ D\) \[In Nr. 2 Schema *Decreti*: Act Syn III/II 297s\]
 
 *“Pag. 6, lin. 1- 24: Clarius exprimatur unicitas Ecclesiae. Non sufficit inculcare, ut in textu fit, unitatem Ecclesiae. R(espondetur): a) Ex toto textu clare apparet identificatio Ecclesiae Christi cum Ecclesia catholica, quamvis, ut oportet, efferantur elementa ecclesialia aliarum communitatum”. “Pag. 7, lin. 5: Ecclesia a successoribus Apostolorum cum Petri successore capite gubernata (cf. novum textum ad pag. 6, lin.33-34) explicite dicitur ‘unicus Dei grex’ et lin. 13 ‘una et unica Dei Ecclesia’ ”* (Act Syn III/VII).  
 The two expressions quoted are those of *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)* 2.5 e 3.1.
-
-[](#top)
 
 [^1]: John XXIII, *Address* of 11 October 1962: “…The Council…wishes to transmit Catholic doctrine, whole and entire, without alteration or deviation…To be sure, at the present time, it is necessary that Christian doctrine in its entirety, and with nothing taken away from it, is accepted with renewed enthusiasm, and serene and tranquil adherence… it is necessary that the very same doctrine be understood more widely and more profoundly as all those who sincerely adhere to the Christian, Catholic and Apostolic faith strongly desire …it is necessary that this certain and unchangeable doctrine, to which is owed the obedience of faith, be explored and expounded in the manner required by our times. For the deposit of faith itself, or the truths which are contained in our venerable doctrine, are one thing; another thing is the way in which they are expressed, with however the same meaning and signification”: AAS 54 \[1962\] 791-792
 

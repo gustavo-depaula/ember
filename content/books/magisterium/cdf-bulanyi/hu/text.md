@@ -1,9 +1,5 @@
 # Lettera a György Bulányi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Hittani Kongregáció**
 
 **LETTERA A GYÖRGY BULÁNYI**\*
@@ -83,5 +79,3 @@ Joseph Card. Ratzinger *Prefektus*
 ------------------------------------------------------------------------
 
 \* *Magyar Kurir*, 11 giugno 1987, 313-318 (trad. ungherese).
-
-[](#top)

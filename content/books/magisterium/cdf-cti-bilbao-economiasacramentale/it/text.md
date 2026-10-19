@@ -1,15 +1,5 @@
 # Significato e piano del documento “Reciprocità tra fede e sacramenti nell’economia sacramentale” – P. Gabino Uríbarri Bilbao, S.I.
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SIGNIFICATO E PIANO DEL DOCUMENTO**

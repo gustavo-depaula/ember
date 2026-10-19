@@ -107,8 +107,6 @@ The radiant crown of glory with which the most pure brow of the Virgin Mother wa
 
 48\. Meanwhile, may the Apostolic Benediction which We impart most lovingly in the Lord to all of you, Venerable Brethren, as also to your clergy and people, be a pledge of heavenly gifts and a token of Our paternal benevolence.
 
-* *
-
 Given at St. Peter's Rome, on the eighth day of September, on the Feast of the Nativity of the Blessed Virgin Mary, in the year 1953, the fifteenth of Our Pontificate.  
 
 **PIUS XII**

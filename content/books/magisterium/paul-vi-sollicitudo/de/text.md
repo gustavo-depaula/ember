@@ -29,15 +29,15 @@ Ihrer Natur nach kommt es der Bischofssynode zu, Rat und Informationen zu geben.
 1\. Die allgemeinen Ziele der Bischofssynode sind:  
 
 > a\) die enge Verbindung und hilfreiche Zusammenarbeit zwischen Papst und Bischöfen des ganzen Erdkreises zu fördern;
->
+
 > b\) dafür zu sorgen, dass eine unmittelbare und wirkliche Kenntnis über Fragen und Verhältnisse verfügbar ist, die das innere Leben der Kirche und ihre pflichtgemäße Aktion in der heutigen Welt betreffen;
->
+
 > c\) die Übereinstimmung in den Urteilen leichter zu machen, wenigstens bezüglich der wesentlichen Inhalte der Lehre und der Art des Fortschritts im Leben der Kirche.
 
 2\. Spezielle und nächste Ziele sind:
 
 > a\) geeignete Nachrichten sich gegenseitig zu vermitteln;
->
+
 > b\) gemeinsam über die Angelegenheiten zu beraten, derentwegen die Synode in den einzelnen Fällen zusammengerufen wird.
 
 **III.**
@@ -45,15 +45,15 @@ Ihrer Natur nach kommt es der Bischofssynode zu, Rat und Informationen zu geben.
 Die Bischofssynode untersteht direkt und unmittelbar der Autorität des Papstes, dem es außerdem zusteht,
 
 > 1\. die Synode einzuberufen, sooft ihm das angebracht erscheint, unter Bezeichnung auch des Ortes, wo die Versammlungen abzuhalten sind;
->
+
 > 2\. die Wahl der Mitglieder zu bestätigen, die gemäß Nr. V und VIII erfolgt;
->
+
 > 3\. die Themen der zu behandelnden Fragen festzusetzen, möglichst wenigstens sechs Monate vor Zusammentritt der Synode;
->
+
 > 4\. zu bestimmen, dass das Material der zu beratenden Gegenstände denen übersandt werde, die diese Fragen behandeln müssen;
->
+
 > 5\. die Tagesordnung der zu behandelnden Dinge festzulegen;
->
+
 > 6\. persönlich oder durch andere die Synode zu leiten.
 
 **IV.**
@@ -67,11 +67,11 @@ Die zur Generalversammlung vereinte Bischofssynode umfasst zunächst und an sich
 1\.
 
 > a\) die Patriarchen sowie die Großerzbischöfe und Metropoliten außerhalb der Patriarchate der katholischen Kirchen des orientalischen Ritus;
->
+
 > b\) die von den einzelnen nationalen Bischofskonferenzen gemäß Nr. VIII gewählten Bischöfe;
->
+
 > c\) die von den Bischofskonferenzen mehrerer Nationen, das heißt von den für Nationen ohne eigene Bischofskonferenz bestehenden übernationalen Konferenzen gemäß Nr. VIII gewählten Bischöfe;
->
+
 > d\) dazu kommen zehn Ordensmänner als Vertreter der klerikalen Ordensinstitute, die von der römischen Union der Generaloberen gewählt sind.
 
 2\. An der Generalversammlung der Bischofssynode nehmen auch die den Ämtern der römischen Kurie vorgesetzten Kardinäle teil.
@@ -83,11 +83,11 @@ Die zur außerordentlichen Versammlung vereinte Bischofssynode umfasst:
 1\.
 
 > a\) die Patriarchen sowie die Großerzbischöfe und Metropoliten außerhalb der Patriarchate der katholischen Kirchen des orientalischen Ritus;
->
+
 > b\) die Präsidenten der nationalen Bischofskonferenzen;
->
+
 > c\) die Präsidenten der Bischofskonferenzen mehrerer Nationen, das heißt der für Nationen ohne eigene Bischofskonferenz bestehenden übernationalen Konferenzen;
->
+
 > d\) drei Ordensmänner als Vertreter der klerikalen Ordensinstitute, die von der römischen Union der Generaloberen gewählt sind.
 
 2\. An der außerordentlichen Versammlung der Bischofssynode nehmen auch die den Ämtern der römischen Kurie vorgesetzten Kardinäle teil.
@@ -101,11 +101,11 @@ Die zur Spezialversammlung vereinte Bischofssynode umfasst die Patriarchen, Gro�
 Die Bischöfe, die die einzelnen nationalen Bischofskonferenzen vertreten, werden gewählt wie folgt: 
 
 > a\) ein Vertreter für jede nationale Bischofskonferenz, die aus nicht mehr als 25 Mitgliedern besteht;
->
+
 > b\) zwei Vertreter für jede nationale Bischofskonferenz, die aus nicht mehr als 50 Mitgliedern besteht;
->
+
 > c\) drei Vertreter für jede nationale Bischofskonferenz, die aus nicht mehr als 100 Mitgliedern besteht;
->
+
 > d\) vier Vertreter für jede nationale Bischofskonferenz, die aus mehr als 100 Mitgliedern besteht.
 
 Die Bischofskonferenzen mehrerer Nationen wählen ihre Vertreter nach den gleichen Normen.

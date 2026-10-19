@@ -1,9 +1,5 @@
 # Sanctorum Mater - Instruction for conducting diocesan or eparchial Inquiries in the Causes of Saints
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE CAUSES OF SAINTS
 
 ***SANCTORUM MATER***
@@ -1624,5 +1620,3 @@ The present *Instruction* was submitted for examination to the Cardinals and Bis
 \(194\) Cfr *supra* Art. 141; can. 2096 *CIC* 1917.
 
 \(195\) Cfr can. 1190 §1 *CIC* 1983, can. 888 § 2 *CCEO.*
-
-[](#top)

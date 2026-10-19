@@ -31,6 +31,4 @@ Quaecumque vero a Nobis hisce Apostolicis Litteris motu proprio datis decreta su
 
 **PAULUS PP. VI**
 
-** **
-
 \* AAS 58 (1966), pp. 465-466

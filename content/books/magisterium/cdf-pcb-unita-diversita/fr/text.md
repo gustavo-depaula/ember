@@ -1,9 +1,5 @@
 # Unité et Diversité dans l'Église
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSION PONTIFICAL BIBLIQUE
 
 **UNITÉ ET DIVERSITÉ DANS L'ÉGLISE**
@@ -29,7 +25,7 @@ D'où le plan suivant:
 ***[I. Diversité dans l'unité, au-delà de la division et de l'uniformité, selon l'Ancien Testament](#I.__DIVERSITÉ_DANS_LUNITÉ_AU-DELÀ__DE_LA_DIVISION_ET_DE_LUNIFORMITÉ,__SELON_LANCIEN_TESTAMENT_)***
 
 > [1. La diversité dans l'univers](#1._La_diversité_dans_lunivers)
->
+
 > [2. Les principes d'unité](#2._Les_principes_dunité)  
 > [3. L'unité par l'institution sacerdotale](#3._Lunité_par_linstitution_sacerdotale)
 
@@ -365,5 +361,3 @@ Les dynamismes de ce monde sont nombreux, les charismes des Eglises sont variés
 Grâce à cet amour diffusé dans les coeurs par l'Esprit (Rm 5,5), grâce à la fraction du pain (1 Co 10,16-17), grâce au témoignage des Douze, dont Pierre, «premier» (Mt 10,2), est chargé par Jésus de paître ses brebis (Jn 21,16-17), grâce à la prédication de Paul, continuée par ses collaborateurs, par Tite et Timothée, grâce au message des quatre évangiles, l'unité de l'Eglise du Christ se réalise à travers toutes les diversités. Elle est la réconciliation des peuples divisés par la haine (Ep 2,14-16). Par la miséricorde de Dieu, par l'action du Christ ressuscité et par la puissance de l'Esprit, l'unité de l'Eglise peut surmonter des divisions en apparence insurmontables. En elle, les diversités légitimes trouvent une merveilleuse fécondité.
 
 *Rome, 11 avril 1988*
-
-[](#top)

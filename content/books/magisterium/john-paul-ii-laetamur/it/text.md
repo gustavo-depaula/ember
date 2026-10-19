@@ -4,8 +4,6 @@
 
 **LETTERA APOSTOLICA *LAETAMUR MAGNOPERE* CON LA QUALE È APPROVATA E PROMULGATA L'EDIZIONE TIPICA LATINA DEL CATECHISMO DELLA CHIESA CATTOLICA **
 
-** **
-
 E' motivo di grande gioia la pubblicazione dell'edizione tipica latina del Catechismo della Chiesa Cattolica, che viene da me approvata e promulgata con questa Lettera Apostolica e che diventa così il testo definitivo del suddetto Catechismo. Questo accade a circa 5 anni dalla Costituzione Apostolica [Fidei depositum](/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html) dell'11 ottobre 1992, che ha accompagnato, nel trentesimo anniversario dell'apertura del Concilio Vaticano II, la pubblicazione del primo testo, in lingua francese, del Catechismo.
 
 Tutti abbiamo potuto felicemente constatare la generale positiva accoglienza e la vasta diffusione che il Catechismo ha avuto in questi anni, in particolare nelle Chiese locali, che hanno proceduto alla sua traduzione nelle rispettive lingue così da renderlo il più possibile accessibile alle varie comunità linguistiche del mondo. Tale fatto conferma la positività della richiesta, presentatami nel 1985 dall'Assemblea Straordinaria del Sinodo dei Vescovi, perché venisse composto un catechismo o compendio di tutta la dottrina cattolica sia per la fede che per la morale.
@@ -31,5 +29,3 @@ Grazie all'impegno concorde e complementare di tutte le categorie che compongono
 A Maria Madre di Cristo, che oggi celebriamo assunta al Cielo in corpo ed anima, affido questi auspici, perché si realizzino per il bene di tutta l'umanità.
 
 *Da Castel Gandolfo, 15 Agosto dell'anno 1997, decimonono di Pontificato.*
-
-*  *

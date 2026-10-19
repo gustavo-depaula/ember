@@ -1,9 +1,5 @@
 # Artículo de comentario a las Respuestas
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **ARTÍCULO DE COMENTARIO a las Respuestas a algunas preguntas acerca de ciertos aspectos de la doctrina sobre la Iglesia**
@@ -63,8 +59,6 @@ Retomando sustancialmente la enseñanza conciliar y el Magisterio post-conciliar
 El ecumenismo católico puede presentarse a primera vista paradójico. Con la expresión “*subsistit in*”, el Concilio Vaticano II quiso armonizar dos afirmaciones doctrinales: por un lado, que la Iglesia de Cristo, a pesar de las divisiones entre los cristianos, sigue existiendo plenamente sólo en la Iglesia católica, y, por el otro, la existencia de numerosos elementos de santificación y verdad fuera de su entramado, o sea, en las Iglesias y Comunidades eclesiales que todavía no están en plena comunión con la Iglesia católica. Al respecto, el mismo Decreto del Concilio Vaticano II sobre el ecumenismo, *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)*, introdujo el término *plenitudo (unitatis/catholicitatis)* precisamente para ayudar a comprender mejor esta situación en cierto modo paradójico. Aunque la Iglesia católica tenga la plenitud de los medios de salvación, «sin embargo, las divisiones de los cristianos impiden que la Iglesia lleve a efecto su propia plenitud de catolicidad en aquellos hijos que, estando verdaderamente incorporados a ella por el bautismo, están, sin embargo, separados de su plena comunión»[^16]. Se trata, pues, de la plenitud de la Iglesia católica, que es ya actual, pero que tiene que crecer en los hermanos que no están en plena comunión con ella y en sus propios hijos, que son pecadores, hasta que el pueblo de Dios «arribe gozoso a la total plenitud de la gloria eterna en la Jerusalén celestial»[^17]. El progreso en la plenitud está arraigado en el dinamismo de la unión con Cristo: «La unión con Cristo es al mismo tiempo unión con todos los demás a los que él se entrega. No puedo tener a Cristo sólo para mí; únicamente puedo pertenecerle en unión con todos los que son suyos o lo serán. La comunión me hace salir de mí mismo para ir hacia Él, y por tanto, también hacia la unidad con todos los cristianos»[^18].        
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Pablo VI, *Discurso de clausura de la III sesión del Concilio Vaticano II,* (21 de noviembre de 1964), n. 12: AAS 56 \[1964\] 1012.
 

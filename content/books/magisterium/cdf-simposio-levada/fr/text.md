@@ -1,9 +1,5 @@
 # Abus sexuels sur mineurs. Une réponse multi-facettes, 6 février 2012 - Cardinal Wiliam Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***L’ABUS SEXUEL DE MINEURS : UNE RÉPONSE MULTI-FACETTES À CE DÉFI ***
 
 *par le Cardinal William Levada*
@@ -77,5 +73,3 @@ Le chemin «Vers la guérison et le renouveau » doit être parcouru ensemble pa
 J’espère que mes propos de ce soir contribueront à cet espoir renouvelé, en ce qu’ils attirent l’attention sur les mesures concrètes adoptées par une Eglise qualifiée de « catholique » - universelle - pour aborder les différentes facettes du défi que représente l’abus sexuel de mineurs par des clercs. Il convient de répéter que les auteurs de ces abus ne représentent qu’une toute petite minorité d’un clergé fidèle et engagé. Et pourtant cette minorité a fait beaucoup de mal aux victimes et a porté atteinte à la mission de l’Eglise, qui est de porter l’amour du Christ dans le monde d’aujourd’hui.
 
 Je suis personnellement convaincu que les actions en cours, à savoir le motu proprio SST et la Lettre circulaire de la Congrégation, ainsi que les innombrables initiatives locales entreprises pour répondre au défi de l’abus sexuel de mineurs commis par des clercs, nous aideront à trouver de nombreuses réponses utiles afin de guérir les blessures du passé et à renouveler notre engagement pour un avenir rempli d’espoir, comme notre Dieu miséricordieux nous l’a promis. Merci d’avoir pris l’initiative de ce symposium « Vers la guérison et le renouveau » : qu’il soit un modèle pour de futures études qui nous aident tous à affronter ce qu’il faut que nous fassions en tant qu’Eglise. Qu’il soit aussi une source de savoir-faire et d’espoir pour ceux qui cherchent à éliminer de la société dans son ensemble le fléau de l’abus sexuel à l’égard de mineurs.
-
-[](#top)

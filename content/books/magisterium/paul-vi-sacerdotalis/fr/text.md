@@ -6,8 +6,6 @@ LETTRE ENCYCLIQUE
 DE SA SAINTETÉ LE PAPE PAUL VI  
 SUR LE CÉLIBAT SACERDOTAL
 
-* *
-
 *Aux Evêques A ses confrères dans le sacerdoce et aux fidèles du monde catholique tout entier*
 
 *Vénérables Frères, chers Fils, Salut et Bénédiction Apostolique*

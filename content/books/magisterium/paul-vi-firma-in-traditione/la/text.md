@@ -33,9 +33,9 @@ Ab eodem die modo terminali revocantur, quod ad Missarum stipendia attinet, omne
 Huiusmodi facta revocatione, has tantummodo facultates in posterum vigere statuimus:
 
 > *a)* facultates nunc Sacris Romanae Curiae Congregationibus, de quibus in n. I agitur, concessas;
->
+
 > *b)* facultates, quae in Litteris Apostolicis «Pastorale munus» motu proprio datis et in «Indicibus Facultatum», quae Ordinaries locorum et Legatis Pontificiis tribut solent, continentur;
->
+
 > *c)* novas facultates Episcopis, per has Litteras Apostolicas motu proprio datas, impertitas, de quibus infra, n. III, fit sermo.
 
 **III.**
@@ -43,9 +43,9 @@ Huiusmodi facta revocatione, has tantummodo facultates in posterum vigere statui
 Iis namque personis, quae in Litteris Apostolicis «*[Pastorale munus](/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19631130_pastorale-munus.html)*» motu proprio datis, memorantur, iidem quidem servatis condicionibus ibidem statutes, a die item prima mensis Iulii has facultates tribuimus:
 
 > *a)* facultaterm permittendi sacerdotibus, qui Missas *binatas* vel *trinatas* in dioecesi celebrant, eas applicandi, stipe percepta, quae in necessitates ab Episcopo dioecesano praefinitas erit eroganda, aut applicandi secundum illas intentiones, quarum causa secus postulanda esset condonatio aut sola reductio. Quae facultas non extenditur ad Missas binatas concelebratas, de quibus agitur in Declaratione Sacrae Congregationis pro Cultu Divino, die 7 mensis Augusti, anno 1972 edita, n. 3 b (AAS, 64, 1972, pp. 561-563), pro quibus stipendium quolibet titulπ percept vetatur;
->
+
 > *b)* facultatem reducendi, pro ratione reditibus imminutis congruenti, onus quo Capitula cathedralia vel collegialia gravantur, Messam conventualem cotidie pro benefactoribus applicandi, excepta tamen, singulis mensibus, una saltem Missa conventuali;
->
+
 > *c)* facultatem transferendi, cοngrua de causa, onera Missarum in dies, ecclesias vel altaria diversa ab illis, quae in fundationibus sunt statuta.
 
 Hae normae vigere incipiunt a die I insequentis mensis Iulii.
@@ -55,7 +55,5 @@ Quaecumque vero a Nobis hisce Litteris motu proprio dates decreta sunt, ea omnia
 *Datum Romae, apud Sanctum Petrum, die XIII mensis Iunii, in Sollemnitate SS. Corporis et Sanguinis Christi, anno MCMLXXIV, Pontificatus Nostri undecimo*.
 
 **PAULUS PP. VI**
-
-** **
 
 \* AAS 66 (1974), pp. 308-311

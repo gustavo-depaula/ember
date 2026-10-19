@@ -322,5 +322,3 @@ Et nous demandons à vous tous qui *souffrez* de nous aider. A vous précisémen
 A tous, Frères et Soeurs très chers, j'adresse ma Bénédiction Apostolique.
 
 *Donné à Rome, près de Saint-Pierre, en la célébration liturgique de Notre-Dame de Lourdes, le 11 février 1984, en la sixième année de mon pontificat.*
-
-* *

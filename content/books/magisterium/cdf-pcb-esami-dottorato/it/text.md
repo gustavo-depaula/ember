@@ -1,9 +1,5 @@
 # Gli esami per il dottorato - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **GLI ESAMI PER IL DOTTORATO**
@@ -16,5 +12,3 @@ Sì, purché o entrambe le prove preliminari si facciano insieme, o la lezione p
 
 Jacques M. Vosté, O.P.  
 *Segretario consultore*
-
-[](#top)

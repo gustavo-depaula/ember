@@ -1,9 +1,5 @@
 # Schreiben an die Ortsordinarien bezüglich der Normen zum Exorzismus, 24. September 1985
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Kongregation für die Glaubenslehre
 
 Schreiben an die Ortsordinarien  
@@ -32,7 +28,3 @@ Hochachtungsvoll,
 **Joseph Card. Ratzinger ** *Präfekt*
 
 ***+* Alberto Bovone ** *Sekretär*
-
-*    *
-
-[](#top)

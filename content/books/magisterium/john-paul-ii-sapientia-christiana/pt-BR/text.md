@@ -177,11 +177,11 @@ OS PROFESSORES
 ***Art.* 25**. § 1. Para que alguém possa ser legitimamente cooptado entre os professores estáveis ou fixos de uma Faculdade eclesiástica, requere-se que:
 
 > 1° se distinga por riqueza de doutrina, pelo testemunho de vida exemplar e pelo sentido de responsabilidade;
->
+
 > 2° esteja munido do côngruo doutoramento, ou de um título equivalente, ou de méritos científicos realmente excepcionais;
->
+
 > 3° tenha comprovado com documentos seguros, nomeadamente com as dissertações publicadas, ser idóneo para a investigação científica;
->
+
 > 4° demonstre ter as reais aptidões pedagógicas para ensinar.
 
 § 2. As condições que se requerem para serem assumidos professores estáveis ou fixos, devem também verificar-se e demandar-se, com congruente critério, para os professores não estáveis.
@@ -203,7 +203,7 @@ OS PROFESSORES
 ***Art*. 30**. Os Estatutos devem determinar:
 
 > a\) quando e em que condições é que os professores hão-de deixar de exercer o seu cargo;
->
+
 > b\) quais as causas e qual o modo de proceder para que se possam suspender ou então privar do cargo os professores, de tal sorte que fiquem convenientemente tutelados os direitos, tanto dos mesmos professores, como da Faculdade ou Universidade e sobretudo dos alunos, e ainda os da comunidade eclesial.
 
 **Título IV**
@@ -243,11 +243,11 @@ A ORDENAÇÃO DOS ESTUDOS
 ***Art.* 39**. § 1. Em conformidade com o II Concílio do Vaticano e segundo a índole própria de cada Faculdade:
 
 > 1° seja reconhecida uma justa liberdade [^17] na investigação e no ensino, para que se possa obter um verdadeiro progresso no conhecimento e na inteligência de verdade divina;
->
+
 > 2° ao mesmo tempo, porém, fique bem claro:
->
+
 > a\) que a verdadeira liberdade no ensinar deve necessariamente conter-se dentro dos limites traçados pela Palavra de Deus, tal como ela é constantemente ensinada pelo Magistério vivo da Igreja;
->
+
 > b\) que a verdadeira liberdade no investigar, de igual modo, se apoia necessariamente numa firme adesão à Palavra de Deus e numa a disposição de acatamento do Magistério da Igreja, ao qual foi confiado o múnus de interpretar autenticamente a Palavra de Deus.
 
 § 2. Por isso mesmo, em assunto de tão grande importância e de tanta delicadeza, há-de proceder-se com confiança e sem suspeições, mas também com prudência e sem temeridades, principalmente no ensinar; além disso, deve-se procurar harmonizar, com diligência, as exigências científicas com as necessidades pastorais do Povo de Deus.
@@ -255,9 +255,9 @@ A ORDENAÇÃO DOS ESTUDOS
 ***Art.* 40**. Em todas as Faculdades os cursos dos estudos hão-de ser organizados em diversos graus ou ciclos, que serão dispostos conforme o exigir a matéria, de tal maneira que habitualmente:
 
 > a\) primeiro, seja dada uma formação geral, mediante uma exposição sistemática de todas as disciplinas, simultaneamente com uma introdução ao uso do método científico;
->
+
 > b\) em seguida, passe-se a um estudo mais aprofundado de um particular sector das disciplinas e, simultaneamente, procure-se que os alunos se exercitem com mais apuro no uso do método da investigação científica;
->
+
 > c\) por fim, faça-se um ulterior passo em frente para a maturidade científica, principalmente mediante a elaboração de um trabalho escrito, que contribua efectivamente para o avanço da ciência.
 
 ***Art.* 41.** § 1. Sejam determinadas aquelas disciplinas que se requerem como necessárias para se alcançarem as finalidades próprias da Faculdade; ao mesmo tempo, assinalem-se também aquelas outras que, de diverso modo, ajudam na consecução de tais finalidades; e isto de maneira a ver-se a distinção entre elas, como convém.
@@ -371,19 +371,19 @@ A FACULDADE DE SAGRADA TEOLOGIA
 ***Art.* 72**. O curso de estudos da Faculdade de Sagrada Teologia compreende:
 
 > a\) o primeiro ciclo, institucional, que se prolongará por um quinquénio ou por dez semestres; ou então por um triénio, se antes tiver sido exigido o biénio de Filosofia.
->
+
 > Além de uma sólida formação em Filosofia, cujo estudo há-de ser necessariamente propedêutico à Teologia, as disciplinas teológicas devem ser ensinadas de tal maneira que se patenteie uma orgânica exposição de toda a doutrina católica; ao mesmo tempo, far-se-á a iniciação ao método da investigação científica.
->
+
 > O ciclo concluir-se-á com o grau académico do Bacharelado ou com outro côngruo grau académico, conforme for precisado nos Estatutos da Faculdade.
->
+
 > b\) o segundo ciclo, de especialização, que se prolongará por um biénio ou por quatro semestres.
->
+
 > Durante ele sejam ensinadas as disciplinas especiais de acordo com a diversa índole da especialização, e façam-se aqueles trabalhos práticos e aqueles seminários de estudo convenientes para a aquisição da prática da pesquisa científica.
->
+
 > O ciclo concluir-se-á com o grau académico da Licenciatura especializada.
->
+
 > c\) o terceiro ciclo, que durará um período de tempo conveniente e durante o qual se aperfeiçoará a formação teológica científica, principalmente com a elaboração da dissertação doutoral.
->
+
 > O ciclo concluir-se-á com o grau académico do Doutoramento
 
 ***Art.* 73.** § 1. Para que alguém possa inscrever-se numa Faculdade de Sagrada Teologia, é necessário que tenha completado antes os estudos para isso requeridos, em conformidade com o art. 32 da presente Constituição.
@@ -403,9 +403,9 @@ A FACULDADE DE DIREITO CANÓNICO
 ***Art.* 76.** O curso dos estudos na Faculdade de Direito Canónico compreende:
 
 > a\) o primeiro ciclo, que deve prolongar-se ao menos por um ano ou por dois semestres, durante o qual o estudo será dedicado às instituições gerais de Direito Canónico e àquelas disciplinas que são requeridas para uma formação jurídica superior;
->
+
 > b\) o segundo ciclo, que deve prolongar-se por um biénio, ou por quatro semestres, o qual será dedicado a um estudo aprofundado de todo o Código de Direito Canónico, acrescentando as disciplinas afins;
->
+
 > c\) o terceiro ciclo, que deve durar pelo menos um ano, ou dois semestres; durante este tempo aperfeiçoar-se-á a formação jurídica e será elaborada a dissertação doutoral.
 
 ***Art.* 77.** § 1. Pelo que respeita às disciplinas prescritas no primeiro ciclo, a Faculdade poderá utilizar-se de cursos dados noutras Faculdades, que sejam por ela reconhecidos como correspondentes às próprias exigências.
@@ -429,9 +429,9 @@ A FACULDADE DE FILOSOFIA
 ***Art.* 81**. O curso de estudos da Faculdade de Filosofia compreende:
 
 > a\) o primeiro ciclo, institucional, durante o qual, ao longo de um biénio ou de quatro semestres, se fará uma exposição orgânica das várias partes da Filosofia, que tratam do mundo, do homem e de Deus, como também da História da Filosofia, simultaneamente com a introdução ao método da investigação cientifica;
->
+
 > b\) o segundo ciclo, ou ciclo da iniciada; especialização, durante o qual, pelo espaço de um biénio ou de quatro semestres, se procederá; a uma reflexão filosófica mais profunda, mediante; disciplinas especiais e adequados seminários de testudo, nalgum dos sectores da Filosofia;
->
+
 > c\) o terceiro ciclo, no qual, durante um côngruo período de tempo, se promoverá a maturidade filosófica, especialmente com a elaboração da dissertação doutoral.
 
 ***Art.* 82**. O primeiro ciclo concluir-se-á com o Bacharelado, o segundo com a Licenciatura especializada, e o terceiro com o Doutoramento.
@@ -445,11 +445,11 @@ OUTRAS FACULDADES
 ***Art.* 84.** Além das Faculdades de Sagrada Teologia, de Direito Canónico e de Filosofia, outras Faculdades eclesiásticas foram erigidas canonicamente ou podem vir a sê-lo, atendendo às necessidades da Igreja para alcançar alguns objectivos particulares, quais são, por exemplo:
 
 > a\) uma mais aprofundada investigação de algumas disciplinas de maior importância entre as matérias teológicas, jurídicas e filosóficas;
->
+
 > b\) a promoção de outras ciências, em primeiro lugar das ciências humanas, que estão mais estreitamente conexas com as disciplinas teológicas ou com a obra da evangelização;
->
+
 > c\) ou ainda o estudo aprofundado das letras, as quais ajudam de um modo especial quer a compreender a Revelação cristã, quer a actuar com maior eficácia a obra da evangelização;
->
+
 > d\) por fim, uma mais acurada preparação tanto dos membros de clero como dos leigos para se desempenharem dignamente de alguns encargos apostólicos especiais.
 
 **Art. 85.** Para se alcançarem os objectivos expostos no artigo precedente, estão já erigidas e habilitadas para conferir graus académicos por autoridade da Santa Sé as seguintes Faculdades, ou Institutos «ad instar Facultatis» de:
@@ -525,11 +525,11 @@ Esta diversidade deve ser tida em conta na ordenação do curso dos estudos e na
 ***Art.* 5.** As Conferências Episcopais, também nisto unidas à Sé Apostólica, hão-de interessar-se pelas Universidades e Faculdades; assim:
 
 > 1° juntamente com os Grão Chanceleres favoreçam o seu progresso e, mantida a devida autonomia da ciência segundo o pensamento do II Concílio Vaticano, sejam solícitas, em primeiro lugar, da sua situação no campo científico e eclesial;
->
+
 > 2° quanto às questões comuns existentes no âmbito da própria região, ajudem a actividade das Faculdades, inspirem-na e ajudem a resolver devidamente tais questões;
->
+
 > 3° cuidem de que haja um número adequado de Faculdades, tendo em conta as necessidades da Igreja e o progresso cultural da própria região;
->
+
 > 4° para alcançar tal objectivo constituam no seu seio uma Comissão, que seja coadjuvada por um grupo de especialistas.
 
 ***Art.* 6** Na elaboração dos Estatutos e no planeamento dos estudos tenham-se presentes as Normas contidas no Apêndice I destas Disposições.
@@ -548,15 +548,15 @@ A COMUNIDADE ACADÉMICA E O SEU GOVERNO
 ***Art.* 8.** Ao Grão Chanceler compete:
 
 > 1° fazer progredir a Universidade ou Faculdade constantemente; promover o empenho científico e fazer com que a doutrina católica seja integralmente guardada e com que sejam fielmente observados os Estatutos e as normas 0 prescritas pela Santa Sé;
->
+
 > 2° favorecer estreitas relações entre todos os membros da comunidade académica;
->
+
 > 3° propor à Sagrada Congregação para a Educação Católica os nomes quer de quem há-de ser nomeado Reitor ou Director, quer dos Professores para os quais deve ser pedido o «nada obsta»;
->
+
 > 4° receber a profissão de fé do Reitor ou Director;
->
+
 > 5° dar ou retirar a licença para ensinar ou a missão canónica aos professores, em conformidade com as normas da Constituição;
->
+
 > 6° informar a Sagrada Congregação para a Educação Católica sobre os assuntos mais importantes e enviar-lhe, de três em três anos, um relatório pormenorizado acerca da situação académica, moral e económica da Universidade ou da Faculdade.
 
 ***Art*. 9**. No caso de a Universidade ou a Faculdade depender de uma autoridade colegial (por exemplo, da Conferência Episcopal), deve ser designada uma pessoa que dela faça parte para exercitar o cargo de Grão Chanceler.
@@ -574,27 +574,27 @@ A COMUNIDADE ACADÉMICA E O SEU GOVERNO
 ***Art.* 14**. Ao múnus de Reitor ou de Director compete:
 
 > 1° dirigir, promover e coordenar toda a actividade da Comunidade académica;
->
+
 > 2° representar a Universidade, o Instituto, ou a Faculdade «sui iuris»;
->
+
 > 3° convocar os Conselhos de Universidade, de Instituto, ou de Faculdade «sui iuris», e presidí-los em conformidade com os Estatutos;
->
+
 > 4° vigiar a administração temporal;
->
+
 > 5° informar o Grão Chanceler sobre as coisas mais importantes;
->
+
 > 6° enviar cada ano à Sagrada Congregação para a Educação Católica o inventário estatístico, em conformidade com o esquema predisposto para isso pela mesma Sagrada Congregação.
 
 ***Art.* 15**. Ao Decano de Faculdade compete:
 
 > 1° promover e coordenar toda a actividade da Faculdade, especialmente no que se refere aos estudos, e prover tempestivamente às suas necessidades;
->
+
 > 2° convocar o Conselho de Faculdade e presidí-lo;
->
+
 > 3° admitir ou demitir, em nome do Reitor, os alunos, de acordo com as normas dos Estatutos;
->
+
 > 4° informar o Reitor daquilo que se faz na Faculdade ou que pela mesma é proposto;
->
+
 > 5° procurar que seja executado tudo aquilo que é estabelecido pelas Autoridades superiores.  
 
 **Título III**
@@ -642,7 +642,7 @@ OS ALUNOS
 ***Art.* 24**. § 1. O regular atestado, em conformidade com o art. 31 da Constituição, versará:
 
 > 1° sobre a honestidade da vida: para os membros do clero e seminaristas, será passado pelo Prelado Ordinário ou por um seu delegado; para os demais, por uma pessoa eclesiástica;
->
+
 > 2° sobre os estudos prévios: é o título de estudo requerido segundo o teor do art. 32 da Constituição.
 
 § 2. Uma vez que os estudos requeridos para entrar numa Universidade nas diversas Nações são diferentes, a Faculdade tem o direito e o dever de verificar se de facto foram estudadas todas as disciplinas consideradas necessárias pela mesma Faculdade.
@@ -732,9 +732,9 @@ O PLANEAMENTO E A COLABORAÇÃO DAS FACULDADES
 ***Art.* 45.** § 1. Quando se houver de erigir uma nova Universidade ou Faculdade, é necessário que:
 
 > a\) tenha sido demonstrada a sua necessidade ou verdadeira utilidade, a que não seja possível satisfazer simplesmente mediante a afiliação, ou a agregação, ou a incorporação;
->
+
 > b\) haja os requisitos necessários para isso; destes os principais são;
->
+
 > > 1° o número de professores, aplicados k de modo estável, e a sua habilitação, de acordo com a natureza e as exigências da Faculdade;
 > >
 > > 2° um número congruente de alunos;
@@ -742,7 +742,7 @@ O PLANEAMENTO E A COLABORAÇÃO DAS FACULDADES
 > > 3° a biblioteca, os demais subsídios científicos e as necessárias instalações;
 > >
 > > 4° os recursos económicos realmente suficientes para uma Universidade ou Faculdade;
->
+
 > c\) sejam apresentados os Estatutos, juntamente com o plano de estudos, uns e outro em conformidade com a presente Constituição e as relativas Disposições.
 
 § 2. A Sagrada Congregação para a Educação Católica — depois de ouvido o parecer, não só da Conferência Episcopal, principalmente quanto ao aspecto pastoral, mas também de peritos, em particular das Faculdades mais próximas, sobretudo a respeito do aspecto científico — decidirá acerca da oportunidade de se proceder à ; nova erecção, a qual será concedida, geralmente, - «ad experimentum» durante um côngruo período de tempo, antes de lhe dar a confirmação ; definitiva.
@@ -750,7 +750,7 @@ O PLANEAMENTO E A COLABORAÇÃO DAS FACULDADES
 ***Art.* 46**. Para ser aprovada uma Universidade ou Faculdade requere-se:
 
 > a\) a anuência tanto da Conferência Episcopal como da Autoridade diocesana;
->
+
 > b\) que sejam satisfeitas as condições estabelecidas no art. 45, § 1, b) e c).
 
 ***Art.* 47**. As condições para a afiliação referem-se sobretudo ao número e à qualidade dos professores, ao plano de estudos, à biblioteca e ao dever da Faculdade afiliação de prestar assistência ao Instituto afiliado; por isso, normalmente, hão-de a Faculdade afiliante e o Instituto afiliado encontrar-se na mesma nação ou região cultural.
@@ -781,9 +781,9 @@ A FACULDADE DE SAGRADA TEOLOGIA
 1° no primeiro ciclo:
 
 > a\) as disciplinas filosóficas requeridas para a Teologia, quais são sobretudo a Filosofia sistemática, com as suas partes principais e a sua evolução histórica;
->
+
 > b\) as disciplinas teológicas, ou seja:
->
+
 > > — a Sagrada Escritura: introdução e exegese;  
 > > — a Teologia fundamental, com referência também às questões respeitantes ao ecumenismo, às religiões não cristãs e ao ateísmo;  
 > > — a Teologia dogmática;  
@@ -792,7 +792,7 @@ A FACULDADE DE SAGRADA TEOLOGIA
 > > — a Liturgia;  
 > > — a História da Igreja, a Patrologia e a Arqueologia  
 > > — o Direito Canónico.
->
+
 > c\) as disciplinas auxiliares, isto é, algumas ciências humanas e, além da língua latina, as línguas bíblicas, na medida em que sejam necessárias para os ciclos seguintes.
 
 2° No segundo ciclo:
@@ -822,13 +822,13 @@ A FACULDADE DE DIREITO CANÓNICO
 1° no primeiro ciclo:
 
 > a\) as Instituições gerais de Direito Canónico;
->
+
 > b\) os Elementos de Sagrada Teologia (especialmente de Eclesiologia e de Teologia sacramental) e de Filosofia (especialmente de Ética e de Direito natural), que se requerem por sua mesma natureza antes do estudo do Direito Canónico; a estes poder-se-ão utilmente acrescentar elementos das ciências antropológicas conexas com a ciência jurídica.
 
 2° No segundo ciclo:
 
 > a\) o Código de Direito Canónico com todas as suas partes, e as outras leis canónicas;
->
+
 > b\) as disciplinas conexas, que são: a Filosofia do Direito, o Direito Público Eclesiástico, as Instituições de Direito Romano, os Elementos de Direito Civil e a História do Direito Canónico, incluindo uma dissertação escrita.
 
 3° No terceiro ciclo:
@@ -856,9 +856,9 @@ A FACULDADE DE FILOSOFIA
 1° no primeiro ciclo:
 
 > a\) a Filosofia sistemática (precedida de uma introdução geral), com as suas partes principais, a saber: a Filosofia do conhecimento, a Filosofia da natureza, a Filosofia do homem, a Filosofia do ser (que compreende a Teologia natural) e a Filosofia moral;
->
+
 > b\) a História da Filosofia, sobretudo da Filosofia moderna, com um acurado exame daqueles sistemas que têm maior influência;
->
+
 > c\) as disciplinas auxiliares, ou seja, ciências oportunamente escolhidas dentre as de carácter antropológico e natural.
 
 2° No segundo ciclo:
@@ -918,57 +918,57 @@ Tendo em conta aquilo que se contém na Constituição Apostólica e nas Disposi
 *Advertência*. - Enumeram-se aqui a seguir, por ordem alfabética latina, cada um dos Sectores dos Estudos, e refere-se, entre parênteses, a forma de organização académica (Faculdade, ou Instituto «ad instar», ou Secção de Especialização) com que estão em vigor, pelo menos nalguns Centros Académicos eclesiásticos. Não se elencam os estudos teológicos, canónicos e filosóficos, uma vez que deles se tratou nos art.s 51, 56, e 60 das presentes Disposições.
 
 > 1\. Estudos *Arábico-Islamicos* (Instituto «ad instar», Secção de Especialização na Faculdade de Teologia).
->
+
 > 2\. Estudos de *Arqueologia Cristã* (Instituto «ad instar»).
->
+
 > 3\. Estudos sobre o *Ateísmo* (Secção de Especialização na Faculdade de Teologia e/ou de Filosofia).
->
+
 > 4\. Estudos *Bíblicos* (Faculdade de Ciências Bíblicas, Secção de Especialização na Faculdade de Teologia).
->
+
 > 5\. Estudos *Catequéticos* (Secção de Especialização na Faculdade de Teologia, ou de Ciências da Educação).
->
+
 > 6\. Estudos *Eclesiásticos Orientais* (Faculdade de Ciências Eclesiásticas Orientais).
->
+
 > 7\. Estudos *Ecuménicos* ( Secção de Especialização na Faculdade de Teologia).
->
+
 > 8\. Estudos sobre a *Educação* (Faculdade de Ciências da Educação).
->
+
 > 9\. Estudos de *Espiritualidade* (Secção de Especialização na Faculdade de Teologia).
->
+
 > 10\. Estudos de *História da Igreja* (Faculdade de História Eclesiástica, Secção de Especialização na Faculdade Teologia).
->
+
 > 11\. Estudos *Jurídico-Canónicos* - de Direito Civil Comparado (Faculdade de Direito Civil Comparado).
->
+
 > 12\. Estudos de *Literatura Clássica e Cristã* (Faculdade de Letras Clássicas e Cristãs).
->
+
 > 13\. Estudos *Litúrgicos* (Faculdade, Secção de Especialização na Faculdade de Teologia).
->
+
 > 14\. Estudos *Mariológicos* (Secção de Especialização na Faculdade de Teologia).
->
+
 > 15\. Estudos *Medievais* (Instituto «ad instar», Secção de Especialização na Faculdade de Teologia, ou de Direito Canónico, ou de Filosofia).
->
+
 > 16\. Estudos *Missiológicos* (Faculdade de Missiologia, Secção de Especialização na Faculdade de Teologia).
->
+
 > 17\. Estudos *Morais* (Secção de Especialização na Faculdade de Teologia).
->
+
 > 18\. Estudos de *Música Sacra* (Instituto «ad instar», Secção de Especialização na Faculdade de Teologia).
->
+
 > 19\. Estudos *Orientalísticos* (Faculdade do Oriente Antigo, Secção de Especialização na Faculdade de Teologia, ou de Filosofia).
->
+
 > 20\. Estudos *Pastorais* (Secção de Especialização na Faculdade de Teologia).
->
+
 > 21\. Estudos *Patrísticos* (Secção de Especialização na Faculdade de Teologia).
->
+
 > 22\. Estudos *Pedagógicos* (Faculdade de Pedagogia, Secção de Especialização na Faculdade de Filosofia, ou de Ciências da Educação).
->
+
 > 23\. Estudos *Psicológicos* (Instituto «ad instar», Secção de Especialização na Faculdade de Filosofia, ou de Pedagogia, ou de Ciências da Educação).
->
+
 > 24\. Estudos das *Religiões e do Fenómeno Religioso* (Secção de Especialização na Faculdade de Teologia, ou de Filosofia).
->
+
 > 25\. Estudos *Religiosos católicos* ( Instituto Superior de Ciências Religiosas).
->
+
 > 26\. Estudos *Sociológicos* (Faculdade de Ciências Sociais, Secção de Especialização na Faculdade de Ciências da Educação).
->
+
 > 27\. Estudos de *Teologia da Vida Religiosa* (Secção de Especialização na Faculdade de Teologia).
 
 ------------------------------------------------------------------------

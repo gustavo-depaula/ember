@@ -1,9 +1,5 @@
 # Decreto circa il culto liturgico da tributare in onore del Beato Giovanni Paolo II, Papa, 2 aprile 2011
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](http://www.vatican.va/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 ***DECRETO *** * ** CIRCA IL CULTO LITURGICO DA TRIBUTARE IN ONORE DEL BEATO GIOVANNI PAOLO II, PAPA***
@@ -37,5 +33,3 @@ Nonostante qualsiasi cosa in contrario.
 (**Antonius Card. Cañizares Llovera**) *Praefectus*
 
 (**+ Iosephus Augustinus Di Noia, OP**) *Archiepiscopus a Secretis*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Testi liturgici in onore di San Giovanni XXIII, Papa
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
 Die 11 octobris
@@ -81,5 +77,3 @@ V/. Deus fundávit eam in aetérnum. \* Et portae.
 Oratio
 
 Omnípotens sempitérne Deus, qui per orbem terrárum in beáto Ioánne, papa, Christi boni pastóris vivum effulgére fecísti exémplum, concéde nobis, quaésumus, ut, eius intercessióne, abundántiam christiánae caritátis laetánter effúndere valeámus. Per Dóminum.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Statuta ad experimentum, 12 Iulii 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Commissio_Theologica_Internationalis)
-
 **COMMISSIO THEOLOGICA INTERNAZIONALIS**
 
 **Statuta ad experimentum**\*
@@ -39,5 +35,3 @@ Franciscus Card. Šeper
 *Praefectus*
 
 \* *AAS* 61 (1969) 540-541.
-
-[](#top)

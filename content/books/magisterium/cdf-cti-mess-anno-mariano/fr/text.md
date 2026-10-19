@@ -1,9 +1,5 @@
 # Message au Cardinal Luigi Dadaglio, Président du Comité central pour l'année mariale, 1987
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 ***MESSAGE AU CARDINAL LUIGI DADAGLIO, PRÉSIDENT DU COMITÉ CENTRAL POUR L'ANNÉE MARIALE****\**
@@ -33,5 +29,3 @@ Philippe DELHAYE
 *secrétaire*
 
 \* Texte original français dans *L’Osservatore Romano* du 24 décembre 1987.
-
-[](#top)

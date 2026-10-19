@@ -1,9 +1,5 @@
 # De organo officiali Commissionis biblicae - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE ORGANO OFFICIALI COMMISSIONIS BIBLICAE**
@@ -14,7 +10,3 @@ Quum de expressa voluntate SS. D. N. Pii PP. X *Acta Apostolicae Sedis* typis Va
 
 Fulcranus Vigouroux, P.S.S.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-**                                     **
-
-[](#top)

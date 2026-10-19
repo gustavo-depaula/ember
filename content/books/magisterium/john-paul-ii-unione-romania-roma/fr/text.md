@@ -2,10 +2,6 @@
 
 ***LETTRE APOSTOLIQUE  DU PAPE JEAN-PAUL II  POUR LE III CENTENAIRE DE L'UNION  DE L'EGLISE GRECQUE-CATHOLIQUE ROUMAINE  AVEC L'EGLISE DE ROME***
 
-*** ***
-
-** **
-
 *Très chers frères et sœurs de l'Eglise grecque-catholique* *de Roumanie!*
 
 1\. En ce temps pascal de ce Jubilé de l'An 2000, nous célébrons le troisième centenaire de l'union de votre Eglise avec l'Eglise de Rome. L'Année jubilaire est une année de grâce au cours de laquelle toute l'Eglise rappelle que notre Seigneur Jésus-Christ, il y a deux mille ans, s'est fait homme dans le sein de la Très Sainte Vierge. Dans la joyeuse évocation de cet événement admirable, la communauté chrétienne reprend courage pour annoncer au monde avec une nouvelle ardeur la joyeuse nouvelle du salut.
@@ -91,5 +87,3 @@ Avec ce souhait, je donne de tout cœur  au  vénéré  Frère,  le  Cardin
 *Du Vatican, le 7 mai 2000, Vingt-deuxième année de mon pontificat. *
 
 **IOANNES PAULUS PP. II**
-
-**                **

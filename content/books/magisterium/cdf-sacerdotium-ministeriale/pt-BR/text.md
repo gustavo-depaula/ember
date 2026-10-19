@@ -1,9 +1,5 @@
 # Sacerdotium Ministeriale sobre o Ministro da Eucaristia, 6 de agosto de 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***SACERDOTIUM MINISTERIALE***
@@ -77,8 +73,6 @@ Que a solicitude colegial encontre, pois, nestas circunstâncias, uma aplicaçã
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Notas**
-
-[](#top)
 
 [^1]: Conc. Ecum. Vat. II, Const. dogm. *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html)*, nn. 10, 17, 26 28; Const. *[Sacrosanctum Concilium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html)*, n. 7; Decr. *[Christus Dominus](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_po.html)*, n. 15; Decr. *[Presbyterorum Ordinis](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_po.html)*, nn. 2 e 3; cf. também Paulo VI, Enc. *[Mysterium Fidei](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_03091965_mysterium_po.html)*, de 3 de Set. de 1965: *AAS* 51 (1965), p. 761.
 

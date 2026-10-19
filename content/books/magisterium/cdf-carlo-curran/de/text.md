@@ -1,9 +1,5 @@
 # Schreiben an Prof. Charles Curran, 25. Juli 1986 - Kongregation für die Glaubenslehre
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Schreiben an Prof. Charles Curran\***
@@ -37,5 +33,3 @@ Schließlich möchte ich meiner aufrichtigen Hoffnung Ausdruck geben, daß diese
 **JOSEPH Kardinal RATZINGER** * Präfekt*
 
 \* *AAS* 79 (1987), 116-118.
-
-[](#top)

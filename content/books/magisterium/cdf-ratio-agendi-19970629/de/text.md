@@ -1,14 +1,8 @@
 # Ratio Agendi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***ORDNUNG FÜR DIE LEHRÜBERPRÜFUNG***
-
-*** ***
 
 Art. 1. Die Kongregation für die Glaubenslehre hat die Aufgabe, die Glaubens- und Sittenlehre in der ganzen katholischen Kirche zu fördern und zu schützen[^1]. In der Erfüllung dieser Aufgabe leistet sie einen Dienst an der Wahrheit und schützt sie das Recht des Volkes Gottes auf die getreue und vollständige Verkündigung des Evangeliums. Damit Glaube und Sitten durch verbreitete Irrtümer keinen Schaden leiden, hat sie auch die Pflicht, Schriften und Meinungen zu überprüfen, die dem rechten Glauben entgegengesetzt oder gefährlich scheinen[^2].
 
@@ -87,8 +81,6 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, dem 29. Juni 1997, am Hoch
 \+ Tarcisio Bertone, S.D.B. *Erzbischof em. von Vercelli Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Vgl. Apostolische Konstitution *Pastor bonus*, Art. 48: AAS 80 (1988) 873.
 

@@ -1,9 +1,5 @@
 # A zsidó nép és szent iratai a keresztény Bibliában
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PÁPAI BIBLIKUS BIZOTTSÁG:**
 
 **A ZSIDÓ NÉP ÉS SZENT IRATAI A KERESZTÉNY BIBLIÁBAN**
@@ -1255,8 +1251,6 @@ Természetesen el kell ismerni, hogy az említett szövegek közül több helyte
 Mivel az Újszövetség lényege szerint azt hirdeti, hogy Isten üdvösségterve Jézus Krisztusban beteljesedett, alapvető ellentétben áll a zsidó nép nagy többségével, amely nem hisz ebben a beteljesedésben. Így az Újszövetség egyszerre fejezi ki az ószövetségi kinyilatkoztatás elfogadását s ugyanakkor a Zsinagógával való egyetértésének hiányát. Az egyetértésnek ezt a hiányát nem lehet „antijudaizmusnak” nevezni, mert a hitbeli meggyőződés szintjén való egyenetlenségről van szó. Ebből két olyan embercsoport vallásos szembenállása származott, akik hitükben ugyanabból az ószövetségi alapból indulnak ki, de azután eltér a véleményük arról, milyen értelemben fejlődhet tovább ez a hit. Bármilyen mélyreható is legyen az egyet nem értésük, semmiképpen sem igazolhat valamiféle kölcsönös ellenségeskedést. Pál példája a Róm 9-11-ben inkább elismerő, tisztelettel és szeretettel teljes magatartást mutat a zsidó néppel szemben. Ez az egyetlen valódi keresztény magatartás egy olyan üdvtörténeti helyzetben, amely titokzatos módon része Isten teljesen pozitív üdvösségtervének. A párbeszéd lehetősége megvan, mert a zsidók és keresztények gazdag közös hagyományt birtokolnak, amely összeköti őket. E dialógus egyben nagyon is kívánatos azért, hogy általa mindkét oldalon leküzdjük az előítéleteket és félreértéseket, így pedig jobban megismerjük a közös örökséget, és megerősítsük a kölcsönös kapcsolatokat.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Vö. Szent Ágoston lelki útjának, illetve ezen szakaszának bemutatását P. Brown, *Augustine of Hippo, a Biography,* London 1967, 40-45; magyarul: *Szent Ágoston élete,* Budapest 2003, 47-53.  
 [\[2\]](#_ftnref2) A. von Harnack, *Marcion,* 1920. Reprint Darmstadt 1985, XII. és 217.  

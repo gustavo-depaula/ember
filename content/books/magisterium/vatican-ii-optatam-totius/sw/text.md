@@ -1,13 +1,5 @@
 # Optatam totius
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dikrii juu ya malezi ya Waseminari**
@@ -16,8 +8,6 @@ Paulo Askofu
 Mtumishi wa Watumishi wa Mungu  
 pamoja na Mababa wa Mtaguso Mkuu  
 ataka haya yakumbukwe daima
-
-** **
 
 **UTANGULIZI**
 
@@ -180,8 +170,6 @@ Mababa wa Mtaguso Mkuu, wakiendeleza kazi iliyoanzishwa na Mtaguso wa Trento, kw
 *Mambo yote yaliyoamuliwa katika dikrii hii, na kila moja kati yao, yamewapendeza Mababa wa Mtaguso Mkuu. Nasi, kadiri ya mamlaka ya kitume tuliyopewa na Kristo, pamoja na Mababa waheshimiwa, katika Roho Mtakatifu, tunayakubali, tunayaidhinisha na tunayathibitisha. Na yale yote yaliyoamuliwa kwa pamoja katika sinodi hii, tunaamuru yawekwe kwa ajili ya utukufu wa Mungu.*
 
 *Roma, katika Kanisa la Mt. Petro, 28 Oktoba 1965*
-
-* *
 
 Mimi mwenyewe, Paulo, Askofu wa Kanisa Katoliki
 

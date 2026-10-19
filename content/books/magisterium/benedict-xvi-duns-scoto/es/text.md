@@ -1,7 +1,7 @@
 # Carta Apostólica al Card. Joachim Meisner con ocasión del VII centenario de la muerte del beato Juan Duns Scoto
 
 **BENEDICTO XVI** SUMO PONTÍFICE  
-** **  
+
 **CARTA APOSTÓLICA** A NUESTRO VENERADO HERMANO  
 JOACHIM MEISNER, ARZOBISPO DE COLONIA,  
 CARDENAL DE LA SANTA IGLESIA ROMANA,  

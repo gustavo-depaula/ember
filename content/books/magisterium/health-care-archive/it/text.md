@@ -1,16 +1,12 @@
 # Archivio - Pontificio Consiglio della Pastorale per gli Operatori Sanitari
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIO CONSIGLIO DELLA PASTORALE  
 PER GLI OPERATORI SANITARI
 
 ***ARCHIVIO***
 
 > [**Dolentium Hominum - Chiesa e Salute nel Mondo**](rc_pc_hlthwork_doc_09061997_magazine_it.html)
->
+
 > - [**"L'attenzione al malato nei Padri della Chiesa", P. Carlo Cremona**](rc_pc_hlthwork_doc_05101997_cremona_it.html)  
 >   \[[Francese](rc_pc_hlthwork_doc_05101997_cremona_fr.html), [Inglese](rc_pc_hlthwork_doc_05101997_cremona_en.html), [Italiano](rc_pc_hlthwork_doc_05101997_cremona_it.html), [Spagnolo](rc_pc_hlthwork_doc_05101997_cremona_sp.html)\]
 > - [**"Ippocrate nei documenti ecclesiastici e nelle opere teologiche", Dott. Gottfried Roth**](rc_pc_hlthwork_doc_05101997_roth_it.html)  
@@ -27,5 +23,3 @@ PER GLI OPERATORI SANITARI
 >   \[[Francese](rc_pc_hlthwork_doc_30061997_poupard_fr.html), [Inglese](rc_pc_hlthwork_doc_30061997_poupard_en.html), [Italiano](rc_pc_hlthwork_doc_30061997_poupard_it.html), [Spagnolo](rc_pc_hlthwork_doc_30061997_poupard_sp.html)\]
 > - [**Guarire le ferite: i "Rachel Groups", Card.John O'Connor**](rc_pc_hlthwork_doc_23071997_oconnor_it.html)  
 >   \[[Francese](rc_pc_hlthwork_doc_23071997_oconnor_fr.html), [Inglese](rc_pc_hlthwork_doc_23071997_oconnor_en.html), [Italiano](rc_pc_hlthwork_doc_23071997_oconnor_it.html), [Spagnolo](rc_pc_hlthwork_doc_23071997_oconnor_sp.html)\]
-
-[](#top)

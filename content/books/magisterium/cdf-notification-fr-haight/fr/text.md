@@ -1,9 +1,5 @@
 # Notification sur le livre "Jesus Symbol of God" du Père Roger Haight, s.j.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***NOTIFICATION SUR LE LIVRE JESUS SYMBOL OF GOD DU PÈRE ROGER HAIGHT, S.J.***
@@ -101,5 +97,3 @@ En rendant publique cette Notification, la Congrégation pour la Doctrine de la 
 6) Concilium Nicaenum, *Professio fidei*:  DH 125; Concilium Tridentinum, *Decretum de iustificatione*:  DH 1522, 1523; *De poenitentia*:  DH 1690; *De Sacrificio Missae*:  DH 1740; Concilium Vaticanum II, Const. dogm. *Lumen gentium*, nn. 3, 5, 9; Const. pastor. *Gaudium et spes*, n. 22; Ioannes Paulus II, Litt. Encycl. *Ecclesia de Eucharistia*, n. 12.
 
 7) Cf. Innocentius XI, Const. *Cum occasione*, n. 5:  DH 2005; Sanctum Officium, Decr. *Errores Iansenistarum*, n. 4:  DH 2304; Concilium Vaticanum II, Const. dogm. *Lumen gentium*, n. 8; Const. pastor. *Gaudium et spes*, n. 22; Decr. *Ad gentes*, n. 3; Ioannes Paulus II, Litt. Encycl. *Redemptoris missio*, nn. 4-6; Congregatio pro Doctrina Fidei, Decl. *Dominus Iesus*, nn. 13-15. Concernant l'universalité de la mission de l'Eglise cf. *Lumen gentium*, nn. 13, 17; *Ad gentes*, n. 7; *Redemptoris missio*, nn. 9-11; *Dominus Iesus*, nn. 20-22.
-
-[](#top)

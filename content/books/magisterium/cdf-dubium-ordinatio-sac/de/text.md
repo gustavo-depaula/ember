@@ -1,9 +1,5 @@
 # Antwort auf den Zweifel bezüglich der im Apostolischen Schreiben Ordinatio Sacerdotalis vorgelegten Lehre, 28. Oktober 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Kongregation für die Glaubenslehre**
 
 **Antwort auf den Zweifel bezüglich der im Apostolischen Schreiben »Ordinatio sacerdotalis« vorgelegten Lehre**
@@ -23,5 +19,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, den 28. Oktober 1995, am F
 **+ Tarcisio Bertone, S.D.B.** em. Erzbischof von Vercelli *Sekretär*
 
 \[*L’Osservatore Romano*, Wochenausgabe in deutscher Sprache, 1995, Nr. 47, S. 4\].
-
-[](#top)

@@ -1,9 +1,5 @@
 # Decreto sobre el culto litúrgico por tributar en honor del beato Juan Pablo II, Papa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA EL CULTO DIVINO  
 Y LA DISCIPLINA DE LOS SACRAMENTOS
 
@@ -40,5 +36,3 @@ No obstante cualquier disposición contraria.
 
 **Iosephus Augustinus Di Noia, o.p.,**  
 *Archiepiscopus, a Secretis*
-
-[](#top)

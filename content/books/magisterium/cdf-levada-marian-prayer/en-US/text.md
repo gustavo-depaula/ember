@@ -1,9 +1,5 @@
 # Concluding Marian Prayer Service - Belo Horizonte
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Concluding Marian Prayer Service**
 
 ***Reflection***
@@ -29,5 +25,3 @@ The receptive virginity of Mary is also exemplified by her *fiat* at the foot of
 The power of this fundamental attitude of receptivity, this virginal *fiat*, is also revealed in the light of Easter through the gift of the Holy Spirit to the disciples at Pentecost. With the Apostles gathered around Mary to receive the gift of the Spirit, her prayer of *fiat* became the fundamental attitude of the Church at prayer. The power of the Spirit meets the virginal openness of the disciple’s faith, fills it with the light of heavenly grace, empowering the disciple to bear much fruit in a life of ministry and active charity. Indeed, Mary’s virginity demonstrates that “to receive God” is the most fruitful activity of the human person.
 
 Dear friends in Christ, in receiving the gift of celibacy, each of us has responded with openness and faith to the initiative of the Father’s love. Turning our eyes to Mary, Mother of Jesus and Mother of the Church, we entrust ourselves to her maternal intercession and we invoke her prayer upon all priests. In Mary we venerate the image of perfect charity, faith, responsiveness and union with Christ Jesus. May her prayer of *fiat* become ever more our prayer as well so that the Church might rejoice in the many rich graces of Christ poured out through the ministry of priests to the glory of God and for the salvation of souls. Amen.
-
-[](#top)

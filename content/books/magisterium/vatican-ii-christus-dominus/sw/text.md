@@ -1,15 +1,5 @@
 # Christus dominus
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dikrii juu ya utume wa kichungaji wa Maaskofu katika Kanisa** 
@@ -18,8 +8,6 @@ Paulo Askofu
 Mtumishi wa Watumishi wa Mungu  
 pamoja na Mababa wa Mtaguso Mkuu  
 ataka haya yakumbukwe daima
-
-**  **
 
 **UTANGULIZI**
 
@@ -398,8 +386,6 @@ Kwa sababu hiyo Maaskofu wa majimbo wampatie Vika wa kijeshi mapadre wa kutosha 
 Mtaguso Mkuu huu unaagiza pia kwamba iandaliwe miongozo ya jumla juu ya uangalizi wa roho ya kutumiwa na Maaskofu na maparoko pia, kwa lengo la kuwasaidia kuratibu mbinu za kutekeleza jukumu lao la kichungaji kwa manufaa na urahisi zaidi.
 
 Vilevile uandaliwe mwongozo mahsusi kwa ajili ya uangalizi wa roho kwa ajili ya matabaka ya pekee za waamini, baada ya kuzingatia tabia na hali tofauti za nchi au kanda mbalimbali; na mwongozo kwa ajili ya mafundisho ya katekesi kwa wakristo, ambao ndani yake yawemo maelezo kuhusu kanuni za msingi za mafundisho hayo na za mwelekeo wake, pia za utungaji wa vitabu vihusuvyo mada hiyo. Katika kuandaa miongozo hiyo, vilevile yazingatiwe mapendekezo yaliyotolewa na Tume mbalimbali au na Mababa wa Mtaguso.
-
-* *
 
 *Mambo yote yaliyoamuliwa katika dikrii hii, na kila moja kati yao, yamewapendeza Mababa wa Mtaguso Mkuu. Nasi, kadiri ya mamlaka ya kitume tuliyopewa na Kristo, na pamoja na Mababa waheshimiwa, katika Roho Mtakatifu, tunayakubali, tunayaidhinisha na tunayathibitisha. Na yale yote yaliyoamuliwa kwa pamoja katika sinodi hii, tunaamuru yawekwe kwa ajili ya utukufu wa Mungu.*
 

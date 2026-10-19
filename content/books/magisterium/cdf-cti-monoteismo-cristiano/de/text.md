@@ -1,9 +1,5 @@
 # Der christliche Monotheismus gegen die Gewalt. Der Dreifaltige Gott, Einheit des Menschen
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONALE THEOLOGISCHE KOMMISSION
 
 **Der Dreifaltige Gott, Einheit der Menschen**
@@ -38,7 +34,6 @@ III\. KAPITEL: **Gott, um uns aus der Gewalt zu retten**
 >   2. Die Überwindung der Gewalt im Sohn  
 >   3. Der Leib des Menschen, zu Gottes Herrlichkeit bestimmt  
 >   4. Die Hoffnung der Völker, der Glaube der Kirche  
->  
 
 IV\. KAPITEL: **Der Glaube in Auseinandersetzung mit der Weite der Vernunft**
 
@@ -85,5 +80,3 @@ Im *vierten Kapitel* beschäftigen sich unsere Überlegungen mit Annährungsvers
 Im *fünften Kapitel* fassen wir die Elemente des christlichen Proprium zusammen, die die  Botschaft der Kirche um Versöhnung der Menschen mit Gott und untereinander ausmachen. Die christliche Offenbarung läutert die Religion, indem sie ihr zugleich ihre grundsätzliche Bedeutung für die menschliche Erfahrung von Sinn zurückgibt. Darum, besonders angesichts des gegenwärtigen Kulturhorizont, halten wir uns in unserer Einladung zum Nachdenken die besonders dringende Notwendigkeit vor Augen, den theologischen Inhalt und die geschichtliche Entwicklung der christlichen Offenbarung Gottes immer gemeinsam zu betrachten.
 
 [\[\*\]](#_ftnref*) In Erwartung der Übersetzung des Dokuments verweisen wir Sie auf die *Einführung* zu dem Text
-
-[](#top)

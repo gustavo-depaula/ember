@@ -17,9 +17,9 @@ The objective of the Pontifical Academy for Life is the defence and promotion of
 § 2 - The specific responsibility of the Academy is:
 
 > *a) to study*, from an interdisciplinary perspective, the problems connected with the promotion and defence of human life;
->
+
 > *b) to form* persons in a culture of life – in the areas of its proper competence – through appropriate initiatives, and always with full respect for the Magisterium of the Church;
->
+
 > *c) to inform*, in a clear and timely manner, Church leaders, the various biomedical science institutions and societal health care organizations, the media, and civil society in general, about the most significant results of its own study and research (Cf. *Vitae Mysterium,* 4).
 
 § 3 - The Academy has a primarily scientific role, for the promotion and defence of human life (Cf. *Vitae Mysterium*, 4). In particular, it studies various matters dealing with care for the dignity of the human person at different stages of life, mutual respect between the sexes and generations; the defence of the dignity of each individual human being; and the promotion of a quality of human life that integrates material and spiritual values. It does so in the context of a genuine “human ecology” that seeks to recover the original balance in creation between the human person and the whole universe (cf. [*Chirograph* of 15 August 2016](http://w2.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20160815_sedula-mater.html)).
@@ -43,39 +43,39 @@ The Office of the President consists of the President, the Chancellor and the Go
 § 1 - *The President*
 
 > *a)* The President is appointed by the Pope. He or she remains in office for the term laid down in the Letter of Appointment, and can be reappointed.
->
+
 > *b)* The President is the official representative of the Pontifical Academy. He or she directs it in all its activities and has responsibility for it before the Holy Father; convenes and chairs the meetings of the Governing Council; sets the agenda for such meetings and oversees the execution of resolutions passed by the Council. The President also convenes and chairs the General Assemblies of the Academy. In special circumstances, the President can call on the assistance of individual Members.
 
 § 2 - *The Chancellor*
 
 > *a)* The Chancellor is appointed by the Pope for the term laid down in the Letter of Appointment, and can be reappointed.
->
+
 > *b)* The Chancellor can represent the Pontifical Academy for Life on behalf of the President, and cooperates with the President in the direction and governance of the activities of the Academy.
 
 § 3 - *The Governing Council*
 
 > *a)* The Governing Council of the Pontifical Academy for Life is composed of the President, a Vice President if one is chosen, the Chancellor and six Counsellors appointed by the Pope. Of the latter, four are chosen from among the Ordinary Members of the Academy, a fifth is proposed by the Dicastery for Laity, the Family and Life, and the sixth is the President of the Pontifical John Paul II Institute for Studies on Marriage and Family. Each Counsellor remains in office for five years and can be reappointed. If an Ecclesiastical Counsellor is named, he too is a member of the Governing Council (See § 4 of this Article II)
->
+
 > *b)* The Governing Council holds at least two ordinary meetings each year to decide on the general direction of ordinary affairs and to address any particular issues that might arise regarding the life of the Academy.
->
+
 > *c)* The Governing Council can meet in special session to consider urgent and serious issues that cannot be deferred.
->
+
 > At such meetings, all members of the Governing Council who are present have the right to vote.
->
+
 > *d)* The Governing Council, taking into account, if it chooses, suggestions from outside the Council, selects and appoints the *Corresponding* Members of the Pontifical Academy for Life referred to in Art. 5, §3 of these Statutes. It also approves the programmes of study of the General Assemblies and the curricula of formational activities, providing input into the general direction of the Academy’s annual programmes.
->
+
 > *e)* The President selects and appoints the Coordinator of the Secretariat, as referred to in Art. 4, §2 of these Statutes.  
 
 § 4 - *The Ecclesiastical Counsellor*
 
 > *a)* The Ecclesiastical Counsellor is appointed by the Pope for a term of five years and can be reappointed. This office remains vacant if the office of President or Chancellor is held by a cleric.
->
+
 > *b)* The Ecclesiastical Counsellor is responsible for ensuring that the statements of the Pontifical Academy for Life are in conformity with Catholic doctrine as proposed by the Church’s Magisterium. In addition, he is charged with maintaining relations with Ecclesiastical Superiors.
 
 **Art. 4 - The Central Office**
 
 > *a)* The Central Office of the Pontifical Academy for Life is located in Vatican City State. It is the executive agency of the Office of the President and is charged with structuring, implementing and coordinating the Academy’s activities. The Office carries out its duties under the direction of the President and the Chancellor.
->
+
 > *b)* To carry out its activities more efficiently, the Central Office is divided into two sections: the scientific section and the technical-administrative section, or Secretariat.
 
 § 1 - *The scientific section*
@@ -115,17 +115,17 @@ Young Researcher Members come from fields related to the Academy’s own areas o
 § 5 – *Guidelines and rules concerning membership*
 
 > *a)* Academicians are selected, without regard for their religion, from among distinguished ecclesiastical, religious and lay persons of various nationalities expert in fields pertaining to human life (medicine, the biological sciences, theology, philosophy, anthropology, law, sociology and so forth).
->
+
 > *b)* New Academicians commit themselves to promoting and defending the principles regarding the value of life and the dignity of the human person, interpreted in a way consonant with the Church’s Magisterium.
->
+
 > *c)* Academicians are required to take part in the General Assemblies, at which they present scientific reports, notes and communications, engage in discussions, vote and enjoy the right to suggest to the Governing Council possible members and areas for study and research.
->
+
 > *d)* If it is impossible for a Member to take part in the work of an Assembly, he or she must give a sufficient explanation for that absence.
->
+
 > Unjustified absence from more than two Assemblies within any five-year term results *ipso facto* in loss of membership in the Academy.
->
+
 > *e)* Status as an Academician can be revoked pursuant to the Academy’s own Regulations in the event of a public and deliberate action or statement by a Member clearly contrary to the principles stated in paragraph *b)* above, or seriously offensive to the dignity and prestige of the Catholic Church or of the Academy itself.
->
+
 > *f)* Political office, in one’s own country or abroad, are incompatible with appointment to or the exercise of membership in the Pontifical Academy for Life. Consequently, should a member of the Academy accept such an office, he or she is suspended from activity in the Academy and may not publicly use the title of Member of the Academy until his or her term of office has come to an end.
 
 ***TITLE III***
@@ -139,17 +139,17 @@ The scientific and interdisciplinary activity of the Pontifical Academy for Life
 To accomplish its statutory aims (cf. Art. 1), the Pontifical Academy for Life:
 
 > *a)* organizes a General Assembly each year, in which all Members take part;
->
+
 > *b)* convenes and coordinates the activities of working groups, both national and international;
->
+
 > *c)* studies legislation in force in the various countries as well the various approaches in international healthcare policy, and the principal intellectual currents that bear upon the contemporary culture of life;
->
+
 > *d)* publishes the results of its studies and research and disseminates its cultural and operational proposals in publications and other media;
->
+
 > *e)* organizes national and international conferences dealing with bioethical questions of significant interest;
->
+
 > *f)* organizes educational initiatives in the area of bioethics, takes part in them and offers its own contributions;
->
+
 > *g)* participates through its representatives in the more important initiatives in the areas of science, biomedicine, law, politics, philosophy, anthropology, charitable assistance, morality, pastoral care and so forth, related to the Academy’s purposes.
 
 ***TITLE IV***

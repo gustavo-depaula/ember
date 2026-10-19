@@ -1,20 +1,10 @@
 # Schreiben an die Bischöfe der katholischen Kirche über den Kommunionempfang von wiederverheirateten geschiedenen Gläubigen – Annus Internationalis Familiae
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE ÜBER DEN KOMMUNIONEMPFANG VON WIEDERVERHEIRATETEN GESCHIEDENEN GLÄUBIGEN***
-
-*** ***
 
 *Exzellenz!*
 

@@ -1,13 +1,5 @@
 # Decreto con il quale si dichiarano le pene canoniche incorse dallÂÂÂ’Arcivescovo Pierre-Martin Ngô-dińh-Thuc e complici per le ordinazioni illecite di presbiteri e vescovi in località El Palmar de Troya
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Sacra Congregazione per la Dottrina della Fede**

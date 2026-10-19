@@ -1,15 +1,5 @@
 # Mater Populi fidelis - Nota doctrinal sobre algunos títulos marianos referidos a la cooperación de María en la obra de la salvación
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIO PARA LA DOCTRINA DE LA FE
@@ -29,19 +19,19 @@ DICASTERIO PARA LA DOCTRINA DE LA FE
 [*Títulos referidos a la cooperación de María en la salvación*](#_Toc203121414)
 
 > [**Corredentora**](#_Toc203121415)
->
+
 > [**Mediadora**](#_Toc203121416)
->
+
 > > *[María en la mediación única de Cristo](#_Toc203121417)*  
 > > *[Fecundos en el Cristo glorioso](#_Toc203121418)*
->
+
 > [**Madre de los creyentes**](#_Toc203121419)
->
+
 > > *[Intercesión](#_Toc203121420)*  
 > > *[Cercanía materna](#_Toc203121421)*
->
+
 > [**Madre de la gracia**](#_Toc203121422)
->
+
 > > *[Allí donde sólo Dios puede llegar](#_Toc203121423)*  
 > > *[El agua viva que fluye](#_Toc203121424)*  
 > > *[Amor que se comunica en el mundo](#_Toc203121425)*  

@@ -1,9 +1,5 @@
 # Bibbia e cristologia - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **BIBBIA E CRISTOLOGIA**  
@@ -403,5 +399,3 @@ Poiché Gesù è stato inviato per annunciare il Vangelo ai poveri, liberare i p
 b\) Tutto ciò non può avvenire senza fatica e dolore (*Mt* 5,11; *Gv* 15,20; 16,33; *Col* 1,24). Il peccato, che è entrato in questo mondo fin dall'inizio (*Rm* 5,12), continua a portarvi i suoi danni. Il regno di Dio, già iniziato, non si è ancora pienamente manifestato. Si sviluppa a poco a poco attraverso una sofferenza simile a quella della donna che partorisce (*Mt* 24,8; *Gv* 16,21-22). La creazione stessa, sottoposta alla vanità, attende la liberazione dalla schiavitù della corruzione (*Rm* 8,20-30). Cristo poi, per mezzo della sua morte e resurrezione, ha vinto il peccato, sconfiggendo il «Principe di questo mondo» (*Gv* 12,31; 16,11.-33). Pertanto i cristiani, prendendo esempio da Lui e con l'aiuto della Sua grazia, devono lottare e soffrire, qualora fosse necessario, fino al martirio e alla morte (*Mt* 24,9-13 e par.; *Gv* 16,2; *Ap* 6,9-11), affinché il bene trionfi sul male, nell'attesa che giungano «nuovi cieli e una terra nuova, nei quali avrà stabile dimora la giustizia» (*2 Pt* 3,13).
 
 Allora, Colui che per primo ci ha amati (*1 Gv* 4,19) sarà riconosciuto, amato e adorato, servito da tutti gli uomini, divenuti suoi figli per adozione (*Ef* 1,5). In tal modo nell'eternità felice si compirà l'opera di salvezza che Egli stesso ha perseguito per mezzo della Sua misericordia, fedeltà e inesauribile pazienza (cf. *Rm* 2,4-5; 3,25-26; 9,22), dalla prima chiamata cui il genere umano si era sottratto, fino al giorno in cui tutti lo acclameranno, in una felicità senza fine. «A Colui che siede sul trono, e all'Agnello, lode, onore, gloria e potenza, nei secoli dei secoli» (*Ap* 5,13).
-
-[](#top)

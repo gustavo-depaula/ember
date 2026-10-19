@@ -1,13 +1,5 @@
 # Declaratio de sensu tribuendo adprobationi versionum formularum sacramentalium, d. 25 m. Ianuarii a. 1974, Congregatio pro Doctrina Fide
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

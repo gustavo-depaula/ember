@@ -1,9 +1,5 @@
 # Einleitung zum Kompendium des Katechismus der Katholischen Kirche
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***EINLEITUNG VON KARD. JOSEPH RATZINGER***
 
 **KOMPENDIUM DES KATECHISMUS DER KATHOLISCHEN KIRCHE**
@@ -40,8 +36,6 @@ Der vierte Teil - ÂÂÂ„Das christliche GebetÂÂÂ“ - bietet eine Zusammen
 *Präsident der Spezialkommission*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Johannes Paul II., Apost. Konstitution *Fidei depositum*, 11. Oktober 1992.
 

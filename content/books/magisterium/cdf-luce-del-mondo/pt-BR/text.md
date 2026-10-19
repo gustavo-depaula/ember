@@ -1,9 +1,5 @@
 # Nota da Congregação para a Doutrina da Fé sobre a banalização da sexualidade. A propósito de algumas leituras de Luz do Mundo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **NOTA SOBRE A BANALIZAÇÃO DA SEXUALIDADE A PROPÓSITO DE ALGUMAS LEITURAS DE «LUZ DO MUNDO»**  
@@ -21,5 +17,3 @@ A este respeito, é preciso assinalar que a situação que se criou por causa da
 Alguns interpretaram as palavras de Bento XVI, recorrendo à teoria do chamado «mal menor». Todavia esta teoria é susceptível de interpretações desorientadoras de matriz proporcionalista (cf. João Paulo II, Encíclica *[Veritatis splendor](/edocs/POR0072/_INDEX.HTM)*, nn.^(os) 75-77). Toda a acção que pelo seu objecto seja um mal, ainda que um mal menor, não pode ser licitamente querida. O Santo Padre não disse que a prostituição valendo-se do preservativo pode ser licitamente escolhida como mal menor, como alguém sustentou. A Igreja ensina que a prostituição é imoral e deve ser combatida. Se alguém, apesar disso, pratica a prostituição mas, porque se encontra também infectado pelo HIV, esforça-se por diminuir o perigo de contágio inclusive mediante o recurso ao preservativo, isto pode constituir um primeiro passo no respeito pela vida dos outros, embora a malícia da prostituição permaneça em toda a sua gravidade. Estas ponderações estão na linha de quanto a tradição teológico-moral da Igreja defendeu mesmo no passado.
 
 Em conclusão, na luta contra o HIV-SIDA, os membros e as instituições da Igreja Católica saibam que é preciso acompanhar as pessoas, curando os doentes e formando a todos para que possam viver a abstinência antes do matrimónio e a fidelidade dentro do pacto conjugal. A este respeito, é preciso também denunciar os comportamentos que banalizam a sexualidade, porque – como diz o Papa – são eles precisamente que representam a perigosa razão pela qual muitas pessoas deixaram de ver na sexualidade a expressão do seu amor. «Por isso, também a luta contra a banalização da sexualidade é parte do grande esforço a fazer para que a sexualidade seja avaliada positivamente e possa exercer o seu efeito positivo sobre o ser humano na sua totalidade» («Luce del mondo», p. 170).
-
-[](#top)

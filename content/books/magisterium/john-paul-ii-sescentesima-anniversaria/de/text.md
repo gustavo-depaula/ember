@@ -115,5 +115,3 @@ Euch, verehrte liebe Mitbrüder, Euren Gläubigen, allen Litauern überall in de
 *Gegeben zu Rom, bei St. Peter, am 5. Juni 1987.*
 
 **IOANNES PAULUS PP. II**
-
-* *

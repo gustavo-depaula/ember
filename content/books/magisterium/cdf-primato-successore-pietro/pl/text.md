@@ -1,9 +1,5 @@
 # PRYMAT NASTĘPCY PIOTRA W TAJEMNICY KOŚCIOŁA
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **PRYMAT NASTĘPCY PIOTRA W TAJEMNICY KOŚCIOŁA. Uwagi Kongregacji Nauki Wiary**
 
 1\. Na obecnym etapie życia Kościoła kwestia Prymatu Piotra i jego Następców ma szczególne znaczenie, także ekumeniczne. Podkreśla to często Jan Paweł II, zwłaszcza w encyklice Ut unum sint, gdzie zwraca się ze szczególnym wezwaniem do pasterzy i teologów, aby szukali «takiej formy sprawowania prymatu, która nie odrzucając bynajmniej istotnych elementów tej misji, byłaby otwarta na nową sytuację»(1).
@@ -165,5 +161,3 @@ Kiedy i jak zostanie osiągnięta tak bardzo upragniona jedność wszystkich chr
 49\. Por. 2 Kor 4, 7.
 
 50. Jan Paweł II, enc. Ut unum sint, 102.
-
-[](#top)

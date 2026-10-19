@@ -1,9 +1,5 @@
 # Donum Vitae - Il rispetto della vita umana nascente e la dignità della procreazione
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE  
 PER LA DOTTRINA DELLA FEDE
 
@@ -272,5 +268,3 @@ umano, dal momento del suo concepimento fino alla morte, non può essere sfrutta
 59 GIOVANNI PAOLO II, Esort. apost. *Familiaris Consortio*, 14: AAS 74 (1982) 97
 
 60 Cf. Dichiar. *Dignitatis humanae*, 7.
-
-[](#top)

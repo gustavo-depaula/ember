@@ -1,9 +1,5 @@
 # Préface aux Normes pour procéder au discernement d'apparitions ou révélations présumes - Card. William Levada, 14 décembre 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **NORMES PROCÉDURALES POUR LE DISCERNEMENT DES APPARITIONS OU RÉVÉLATIONS PRÉSUMÉES**
@@ -30,7 +26,5 @@ En tenant compte de ce qui précède, le Saint-Père Benoît XVI relève :
 *De* *la Cité* *du Vatican, le 14 décembre 2011, mémoire liturgique de saint Jean de* *la Croix.*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Exhortation Apostolique post-synodale [*Verbum Domini*](/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini_fr.html) sur la Parole de Dieu dans la vie et dans la mission de l’Église, 30 septembre 2010, n. 14 : *AAS* 102 (2010) 695-696. À ce sujet, voir aussi les passages du *[Catéchisme de l’Église catholique](/archive/FRA0013/_INDEX.HTM)* dédiés à ce thème (cf. nn. 66-67).

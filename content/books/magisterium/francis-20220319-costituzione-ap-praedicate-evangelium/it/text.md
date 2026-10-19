@@ -265,15 +265,15 @@ La competenza delle Istituzioni curiali si determina ordinariamente in ragione d
 Ciascuna delle Istituzioni curiali, nell’ambito della propria competenza:
 
 > 1\. tratta gli affari che per loro natura o per disposizione del diritto sono riservati alla Sede Apostolica;
->
+
 > 2\. tratta gli affari assegnati dal Romano Pontefice;
->
+
 > 3\. esamina le questioni e i problemi che superano l’ambito di competenza dei singoli Vescovi diocesani/eparchiali o degli organismi episcopali (Conferenze o Strutture gerarchiche orientali);
->
+
 > 4\. studia i problemi più gravi del tempo presente, allo scopo di promuovere l’azione pastorale della Chiesa in maniera più adeguata, coordinata ed efficace, sempre d’intesa e nel rispetto delle competenze delle Chiese particolari, delle Conferenze episcopali, delle loro Unioni regionali e continentali e delle Strutture gerarchiche orientali;
->
+
 > 5\. promuove, favorisce e incoraggia le iniziative e le proposte per il bene della Chiesa universale;
->
+
 > 6\. esamina e, se del caso, decide le questioni che i fedeli, usando del loro diritto, deferiscono direttamente alla Sede Apostolica.
 
 **Art. 22**
@@ -293,9 +293,9 @@ I Capi delle Istituzioni curiali o, in loro vece, i Segretari, sono ricevuti per
 Spetta al Capo Dicastero, salva diversa disposizione per singoli Dicasteri, riunire il Congresso, composto dallo stesso, dal Segretario, dal Sottosegretario e, a giudizio del Capo Dicastero, di tutti o parte degli Officiali:
 
 > 1\. per esaminare specifiche questioni ed individuare la risoluzione con decisione immediata, oppure proponendo di sottoporle alla Sessione ordinaria o plenaria o ad una riunione interdicasteriale, o di presentarle al Romano Pontefice;
->
+
 > 2\. per assegnare ai Consultori o ad altri esperti le questioni che esigono uno studio particolare;
->
+
 > 3\. per esaminare richieste di facoltà e rescritti, secondo le competenze del Dicastero.
 
 **Art. 26**
@@ -581,11 +581,11 @@ La Sezione collabora con i Vescovi, le Conferenze episcopali, gli Istituti di Vi
 Per incrementare la cooperazione missionaria, la Sezione:
 
 > 1   procura di accompagnare le nuove Chiese particolari verso l’autonomia economica concorrendo a crearne i presupposti;
->
+
 > 2   aiuta a costituire i Fondi necessari per sostenere le nuove Chiese particolari e a preparare il personale competente per la loro raccolta e per la cooperazione con le altre Chiese particolari;
->
+
 > 3   promuove presso le nuove Chiese particolari e i loro raggruppamenti la creazione di organi amministrativi e di controllo dell’impiego delle risorse e della qualità degli investimenti;
->
+
 > 4   sostiene le nuove Chiese particolari nella gestione del personale.
 
 **Art. 66**
@@ -627,7 +627,7 @@ La Sezione Dottrinale favorisce e sostiene lo studio e la riflessione sulla comp
 Per salvaguardare la verità della fede e l’integrità dei costumi, la Sezione Dottrinale:
 
 > 1\. esamina gli scritti e le opinioni che appaiono contrari o dannosi alla retta fede e ai costumi; cerca il dialogo con i loro autori e presenta i rimedi idonei da apportare, secondo le norme proprie;
->
+
 > 2\. si adopera affinché non manchi un’adeguata confutazione degli errori e dottrine pericolosi, che vengono diffusi nel popolo cristiano.
 
 **Art. 74**
@@ -741,9 +741,9 @@ Il Dicastero promuove ed anima la celebrazione periodica dei Congressi Eucaristi
 Il Dicastero si occupa degli ambiti concernenti la vita liturgica:
 
 > 1\. promuovendo la formazione liturgica a vari livelli, anche tramite convegni pluriregionali;
->
+
 > 2\. sostenendo le Commissioni o gli Istituti creati per promuovere l’apostolato liturgico, la musica, il canto e l’arte sacra;
->
+
 > 3\. erigendo associazioni che promuovano tali finalità aventi carattere internazionale, o approvandone gli Statuti.
 
 **Art. 93**
@@ -889,11 +889,11 @@ Il Dicastero ha competenza su tutto ciò che spetta alla Santa Sede circa le Pre
 Il Dicastero tratta le questioni di competenza della Santa Sede riguardanti:
 
 > 1\. la disciplina generale riguardante il Consiglio diocesano per gli affari economici, il Consiglio presbiterale, il Collegio dei consultori, il Capitolo dei canonici, il Consiglio pastorale diocesano, le Parrocchie, le Chiese;
->
+
 > 2\. le associazioni dei chierici e le associazioni pubbliche clericali; a queste ultime può concedere la facoltà di incardinare, sentiti i Dicasteri competenti e ricevuta l’approvazione dal Romano Pontefice;
->
+
 > 3\. gli archivi ecclesiastici;
->
+
 > 4\. l’estinzione delle pie volontà in genere e delle pie fondazioni.
 
 **Art. 119**
@@ -929,27 +929,27 @@ Il Dicastero si adopera affinché gli Istituti di Vita Consacrata e le Società 
 § 1. In conformità con le normative canoniche, il Dicastero tratta le questioni di competenza della Sede Apostolica riguardanti la vita e l’attività degli Istituti di Vita Consacrata e delle Società di Vita Apostolica, in modo particolare per quanto attiene:
 
 > 1\. l’approvazione delle Costituzioni e le loro modifiche;
->
+
 > 2\. il governo ordinario e la disciplina dei membri;
->
+
 > 3\. l’incorporazione e la formazione dei membri, anche mediante apposite norme e direttive;
->
+
 > 4\. i beni temporali e la loro amministrazione;
->
+
 > 5\. l’apostolato;
->
+
 > 6\. i provvedimenti straordinari di governo.
 
 § 2. Sono altresì di competenza del Dicastero, a norma del diritto:
 
 > 1\. il passaggio di un membro ad altra forma di vita consacrata approvata;
->
+
 > 2\. la proroga dell’assenza e dell’esclaustrazione oltre il termine concesso dai Moderatori supremi;
->
+
 > 3\. l’indulto di uscita dei membri di voti perpetui dagli Istituti di Vita Consacrata o dalle Società di Vita Apostolica di diritto pontificio;
->
+
 > 4\. l’esclaustrazione imposta;
->
+
 > 5\. l’esame dei ricorsi contro il decreto di dimissione dei membri.
 
 **Art. 125**
@@ -1185,11 +1185,11 @@ Il Dicastero, in collaborazione con le Conferenze episcopali, le loro Unioni reg
 Nella propria attività di promozione della giustizia e della pace il Dicastero:
 
 > 1\. si adopera attivamente per la prevenzione e la risoluzione dei conflitti, anche individuando e analizzando, d’intesa con la Segreteria di Stato e il coinvolgimento delle Conferenze episcopali e delle Strutture gerarchiche orientali, possibili situazioni che possano provocarli;
->
+
 > 2\. si impegna a difendere e promuovere la dignità e i diritti fondamentali della persona umana e altresì quelli sociali, economici e politici;
->
+
 > 3\. sostiene iniziative contro la tratta di esseri umani, la prostituzione forzata, lo sfruttamento dei minori e delle persone vulnerabili e le varie forme di schiavitù e di tortura e si adopera affinché la Comunità internazionale sia attenta e sensibile al tema del trattamento dei carcerati e delle loro condizioni di vita e si impegna per l’abolizione della pena di morte;
->
+
 > 4\. si adopera perché nelle Chiese particolari sia offerta un’efficace e appropriata assistenza materiale e spirituale – se necessario anche mediante opportune strutture pastorali – ai migranti, ai rifugiati, agli sfollati e agli altri soggetti di mobilità umana bisognosi di una pastorale specifica.
 
 **Art. 166**
@@ -1349,11 +1349,11 @@ La Segnatura Apostolica esercita la funzione di Supremo Tribunale della Chiesa e
 La Segnatura Apostolica, quale Tribunale di giurisdizione ordinaria, giudica:
 
 > 1\. le querele di nullità e le richieste di *restitutio in integrum* contro le Sentenze della Rota Romana;
->
+
 > 2\. i ricorsi, nelle cause circa lo stato delle persone, contro il diniego di un nuovo esame della causa deciso dalla Rota Romana;
->
+
 > 3\. le eccezioni di suspicione ed altre cause contro i giudici della Rota Romana per atti posti nell’esercizio della loro funzione;
->
+
 > 4\. i conflitti di competenza tra Tribunali, che non dipendono dal medesimo Tribunale d’appello.
 
 **Art. 197**
@@ -1369,13 +1369,13 @@ La Segnatura Apostolica, quale Tribunale di giurisdizione ordinaria, giudica:
 Alla Segnatura Apostolica, quale organo amministrativo di giustizia in materia disciplinare, compete anche di:
 
 > 1\. esercitare la vigilanza sulla retta amministrazione della giustizia nei vari Tribunali ecclesiastici e prendere misure, se necessario, nei confronti di ministri, di avvocati o di procuratori;
->
+
 > 2\. giudicare circa le petizioni rivolte alla Sede Apostolica per ottenere il deferimento della causa alla Rota Romana;
->
+
 > 3\. giudicare circa qualsiasi richiesta relativa all’amministrazione della giustizia;
->
+
 > 4\. prorogare la competenza dei Tribunali di grado inferiore;
->
+
 > 5\. concedere l’approvazione del Tribunale di appello, come pure, se riservata alla Santa Sede, l’approvazione dell’erezione di Tribunali interdiocesani/intereparchiali/interrituali, regionali, nazionali e, se necessario, anche sovranazionali.
 
 **Art. 199**
@@ -1411,11 +1411,11 @@ La Segnatura Apostolica è retta da una sua propria legge.
 § 1. La Rota Romana, inoltre, giudica in prima istanza:
 
 > 1\. i Vescovi nelle cause contenziose, purché non si tratti dei diritti o dei beni temporali di una persona giuridica rappresentata dal Vescovo;
->
+
 > 2\. gli Abati primati, o gli Abati superiori di Congregazioni monastiche e i Moderatori supremi degli Istituti di Vita Consacrata e Società di Vita Apostolica di diritto pontificio;
->
+
 > 3\. le Diocesi/Eparchie o altre persone ecclesiastiche, sia fisiche sia giuridiche, che non hanno un Superiore al di sotto del Romano Pontefice;
->
+
 > 4\. le cause che il Romano Pontefice abbia affidato al medesimo Tribunale.
 
 § 2. Giudica le medesime cause anche in seconda ed ulteriore istanza, se non sia previsto altrimenti.
@@ -1447,11 +1447,11 @@ Il Tribunale della Rota Romana è retto da una sua propria legge.
 Il Consiglio sottopone all’approvazione del Romano Pontefice indirizzi e norme volti ad assicurare che:
 
 > 1\. siano tutelati i beni degli Enti e delle Amministrazioni sottoposti alla sua vigilanza;
->
+
 > 2\. siano ridotti i rischi patrimoniali e finanziari;
->
+
 > 3\. le risorse umane, materiali e finanziarie siano attribuite in maniera razionale e gestite con prudenza, efficienza e trasparenza;
->
+
 > 4\. gli Enti e le Amministrazioni svolgano i propri compiti in modo efficiente, secondo le attività, i programmi e i bilanci preventivi per essi approvati.
 
 **Art. 208**
@@ -1501,11 +1501,11 @@ Il Consiglio esamina le proposte avanzate dalla Segreteria per l’economia, non
 La Segreteria per l’economia:
 
 > 1\. emana indirizzi in materia economica e finanziaria per la Santa Sede e controlla che le attività si svolgano nel rispetto dei piani operativi e dei programmi approvati;
->
+
 > 2\. monitora le attività amministrative, economiche e finanziarie delle Istituzioni affidate al suo controllo e vigilanza; propone e assicura eventuali azioni correttive;
->
+
 > 3\. predispone il bilancio preventivo annuale, controllando poi che venga rispettato, e il bilancio consuntivo consolidato della Santa Sede e li sottopone al Consiglio per l’economia;
->
+
 > 4\. realizza la valutazione annuale del rischio della situazione patrimoniale e finanziaria della Santa Sede e la sottopone al Consiglio per l’economia.
 
 **Art. 216**
@@ -1513,7 +1513,7 @@ La Segreteria per l’economia:
 La Segreteria per l’economia:
 
 > 1\. formula linee guida, indirizzi, modelli e procedure in materia di appalti, volti ad assicurare che tutti i beni e servizi richiesti dalle Istituzioni curiali e dagli Uffici e dalle Istituzioni collegate con la Santa Sede o che fanno riferimento ad essa, siano acquisiti nel modo più prudente, efficiente ed economicamente vantaggioso, in conformità ad appropriate verifiche e procedure interne;
->
+
 > 2\. predispone strumenti informatici appropriati che rendano efficace e trasparente la gestione amministrativa, economica e finanziaria e assicurino che gli archivi e la contabilità siano tenuti in modo fedele, conformemente alle norme e alle procedure approvate.
 
 **Art. 217**
@@ -1577,7 +1577,7 @@ All’Ufficio del Revisore Generale è affidato il compito della revisione conta
 Alla Commissione di Materie Riservate compete:
 
 > 1\. autorizzare qualsiasi atto di natura giuridica, economica o finanziaria che per un bene maggiore della Chiesa o delle persone debba essere coperto dal segreto e sottratto al controllo e alla vigilanza degli organi competenti;
->
+
 > 2\. controllare i contratti della Santa Sede che secondo la legge richiedono riservatezza e vigilare su di essi.
 
 **Art. 226**
@@ -1659,9 +1659,9 @@ Il compito di curare e amministrare i beni ed i diritti temporali della Sede Apo
 Quando la Sede Apostolica è vacante, è diritto e dovere del Cardinale Camerlengo di Santa Romana Chiesa:
 
 > 1\. richiedere a tutte le Amministrazioni dipendenti dalla Santa Sede le relazioni circa il loro stato patrimoniale ed economico, come pure le informazioni intorno agli affari straordinari, che siano in corso;
->
+
 > 2\. richiedere al Consiglio per l’economia i bilanci preventivi e consolidati dalla Santa Sede dell’anno precedente, nonché il bilancio preventivo per l’anno seguente;
->
+
 > 3\. domandare, nella misura in cui sia necessario, alla Segreteria per l’economia qualsiasi informazione sullo stato economico della Santa Sede.
 
 **IX AVVOCATI**

@@ -1,9 +1,5 @@
 # Carta Circular aos presidentes das Conferências Episcopais sobre os escritos e a atividade da Sra. Vassula Rydén, 25 de janeiro de 2007
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA CIRCULAR AOS PRESIDENTES DAS CONFERÊNCIAS EPISCOPAIS SOBRE OS ESCRITOS E A ATIVIDADE DA SENHORA VASSULA RYDÉN***
@@ -29,5 +25,3 @@ de Vossa Em.cia / Ex.cia Reverendíssima
 devotado
 
 **William Cardeal Levada** *Prefeito*
-
-[](#top)

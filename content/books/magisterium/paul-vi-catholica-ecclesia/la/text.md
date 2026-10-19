@@ -15,11 +15,11 @@ Haec sane commutatio non imminuit auctoritatem et «praeclara merita longo saecu
 Itaque, Dicasteriis Romanae Curiae quorum interest auditis eorumque sententiis mature perpensis, certa scientia atque suprema et apostolica Nostra auctoritate, has quae sequuntur normas de Abbatiis nullius dioeceseos edere statuimus, simul abrogantes praescripta vigentia iisdem normis quomodocumque contraria.
 
 > **1.** Abbatiae nullius dioeceseos (Cfr. *Codex Iuris Canonici*, can. 319 § 1) in posterum ne erigantur, nisi peculiarissima adiuncta in bonum animarum cedentia aliter suadeant.
->
+
 > **2.** Abbatiae nullius in praesens extantes, iis exceptis quae singulari iure reguntur (*Ibid*. § 2),audita Conferentia episcopali cuius interest, aptius ad territorium quod attinet definiantur vel in alias ecclesiasticas circumscriptiones convertantur, iuxta normas a Concilio Oecumenico Vaticano II statutas (Cfr. *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)*, 23: *AAS* 58 (1966) 684).
->
+
 > **3.** Abbatia nullius, cuius territorium ex toto in aliam ecclesiasticam circumscriptionem versum est, in statum iuris communis restituetur vel iure singulari regetur, prout Apostolica Sedes singulis in casibus decreverit.
->
+
 > **4.** Sacramenti Ordinis plenitudo episcopali consecratione Abbatibus ne conferatur, nisi spiritualis auctoritas et peculiaris status Abbatiae, quae portionem Populi Dei complectitur (*[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)*. 11: *AAS* 58 (1966) 677), id postulent. Quae vero a Nobis bisce Litteris, motu proprio datis, decreta sunt pro universa Ecclesia, ea omnia rata ac firma esse iubemus, contrariis quibuslibet etiam specialissima mentione dignis, non obstantibus.
 
 *Datum Romae, apud Sanctum Petrum, die XXIII mensis Octobris, anno MCMLXXVI, Pontificatus Nostri quarto decimo.*

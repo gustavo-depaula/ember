@@ -1,9 +1,5 @@
 # Decretum, die 1 mensis Maii anno 2013
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 **CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM**
 
 **DECRETUM**
@@ -100,5 +96,3 @@ II Modlitwa eucharystyczna: «*z Najświętszą Bogurodzicą Dziewicą Maryją, 
 III Modlitwa eucharystyczna: «*z Najświętszą Dziewicą, Bogurodzicą Maryją, **ze świętym Józefem, Jej Oblubieńcem**, ze świętymi Apostołami...*»;
 
 IV Modlitwa eucharystyczna: «*z Najświętszą Dziewicą, Bogurodzicą Maryją, **ze świętym Józefem, Jej Oblubieńcem**, z Apostołami...*».
-
-[](#top)

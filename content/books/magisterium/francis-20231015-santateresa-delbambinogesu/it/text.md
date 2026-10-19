@@ -146,17 +146,17 @@ percorrere tu vuoi e guidarli al Cielo». [^62]
 52\. Dal cielo alla terra, l’attualità di Santa Teresa di Gesù Bambino e del Volto Santo rimane in tutta la sua “piccola grandezza”.
 
 > In un tempo che invita a chiudersi nei propri interessi, Teresina ci mostra la bellezza di fare della vita un dono.
->
+
 > In un momento nel quale prevalgono i bisogni più superficiali, lei è testimone della radicalità evangelica.
->
+
 > In un tempo di individualismo, lei ci fa scoprire il valore dell’amore che diventa intercessione.
->
+
 > In un momento nel quale l’essere umano è ossessionato dalla grandezza e da nuove forme di potere, lei indica la via della piccolezza.
->
+
 > In un tempo nel quale si scartano tanti esseri umani, lei ci insegna la bellezza della cura, di farsi carico dell’altro.
->
+
 > In un momento di complessità, lei può aiutarci a riscoprire la semplicità, il primato assoluto dell’amore, della fiducia e dell’abbandono, superando una logica legalista ed eticista che riempie la vita cristiana di obblighi e precetti e congela la gioia del Vangelo.
->
+
 > In un tempo di ripiegamenti e chiusure, Teresina ci invita all’uscita missionaria, conquistati dall’attrazione di Gesù Cristo e del Vangelo.
 
 53\. Un secolo e mezzo dopo la sua nascita, Teresina è più viva che mai in mezzo alla Chiesa in cammino, nel cuore del Popolo di Dio. Sta pellegrinando con noi, facendo il bene sulla terra, come ha tanto desiderato. Il segno più bello della sua vitalità spirituale sono le innumerevoli “rose” che va spargendo, cioè le grazie che Dio ci dona per la sua intercessione piena d’amore, per sostenerci nel percorso della vita.

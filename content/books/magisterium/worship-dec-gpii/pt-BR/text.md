@@ -1,9 +1,5 @@
 # Decreto acerca do culto litúrgico a conceder em honra do Beato João Paulo II, Papa 2 de abril de 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGAÇÃO PARA O CULTO DIVINO E A DISCIPLINA DOS SACRAMENTOS
 
 ***DECRETO ACERCA DO CULTO LITÚRGICO A CONCEDER EM HONRA DO BEATO JOÃO PAULO II, PAPA ***
@@ -37,5 +33,3 @@ Não obstante qualquer coisa em contrário.
 (Antonius Card. Cañizares Llovera) *Praefectus*
 
 (**+ Iosephus Augustinus Di Noia, OP**) *Archiepiscopus a Secretis*
-
-[](#top)

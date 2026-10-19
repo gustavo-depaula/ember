@@ -7,8 +7,6 @@
 
 ***Blessing***
 
-*** ***
-
 *Czcigodni Bracia w biskupstwie, pozdrowienie i Apostolskie Błogosławieństwo!*
 
 Wiara i rozum (*Fides et ratio*) są jak dwa skrzydła, na których duch ludzki unosi się ku kontemplacji prawdy. Sam Bóg zaszczepił w ludzkim sercu pragnienie poznania prawdy, którego ostatecznym celem jest poznanie Jego samego, aby człowiek poznając Go i miłując mógł dotrzeć także do pełowiek — poznając Go i miłując — mógł dotrzeć także do pełnej prawdy o sobie (por. Wj 33, 18; Ps 27 \[26\],
@@ -512,8 +510,6 @@ Na koniec pragnę zwrócić się także do naukowców, których poszukiwania są
 108\. Na koniec zwracam się myślą ku Tej, którą Kościół wzywa w modlitwie jako Stolicę Mądrości. Samo Jej życie jest niczym przypowieść, zdolna rzucić światło na rozważania, które tutaj przeprowadziłem. Można bowiem dostrzec głębokie podobieństwo między powołaniem Błogosławionej Dziewicy a powołaniem autentycznej filozofii. Podobnie jak Maryja Panna została wezwana do ofiarowania całego swojego człowieczeństwa i kobiecości, aby Słowo Boże mogło przyjąć ciało i stać się jednym z nas, tak też filozofia ma się przyczyniać swą refleksją racjonalną i krytyczną do tego, by teologia jako rozumienie wiary była owocna i skuteczna. I podobnie jak Maryja, wyrażając przyzwolenie na zamysł zwiastowany Jej przez Gabriela, nie straciła bynajmniej swego prawdziwego człowieczeństwa i wolności, tak też myśl filozoficzna, przyjmując wyzwanie, jakie rzuca jej prawda Ewangelii, nic nie traci ze swej autonomii, gdyż dzięki temu wszelkie jej poszukiwania zostają skierowane ku najwznioślejszym celom. Dobrze rozumieli tę prawdę świątobliwi mnisi chrześcijańskiej starożytności, gdy nazywali Maryję «podporą rozumienia wiary»^([132](#%243O)). Widzieli w Niej wierny wizerunek prawdziwej filozofii i byli przekonani, że należy philosophari in Maria.
 
 Niech Stolica Mądrości będzie bezpiecznym portem dla tych, którzy uczynili swoje życie poszukiwaniem mądrości. Oby dążenie do mądrości, ostatecznego i właściwego celu każdej prawdziwej wiedzy, nie napotykało już żadnych przeszkód dzięki wstawiennictwu Tej, która rodząc Prawdę i zachowując ją w swoim sercu, na zawsze obdarzyła nią całą ludzkość.
-
-* *
 
 *W Rzymie, u Św. Piotra , dnia 14 września 1998, w święto Podwyższenia Krzyża Świętego, w dwudziestym roku mego Pontyfikatu.*
 

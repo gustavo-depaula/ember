@@ -1,13 +1,5 @@
 # Una caro. Éloge de la monogamie. Note doctrinale sur la valeur du mariage comme union exclusive et appartenance réciproque
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI
@@ -38,7 +30,7 @@ DICASTÈRE POUR LA DOCTRINE DE LA FOI
 > [Quelques auteurs médiévaux et modernes](#Quelques_auteurs_medievaux_et_modernes)  
 > [Le développement de la vision théologale dans les temps modernes](#Le_developpement_de_la_vision_theologale_dans_les_temps_modernes)  
 > [Interventions magistérielles](#Interventions_magisterielles)
->
+
 > > [Premières interventions](#Premieres_interventions)  
 > > [Léon XIII](#Leon_XIII)  
 > > [Pie XI](#Pie_XI)  
@@ -63,13 +55,13 @@ DICASTÈRE POUR LA DOCTRINE DE LA FOI
 **[VI. Quelques réflexions à approfondir](#VI._Quelques_reflexions_a_approfondir)**
 
 > [Appartenance réciproque](#Appartenance_reciproque)
->
+
 > > [La transformation](#La_transformation)  
 > > [La non-appartenance](#La_non-appartenance)  
 > > [Aide réciproque](#Aide_reciproque)
->
+
 > [Charité conjugale](#Charite_conjugale)
->
+
 > > [Une forme particulière d’amitié](#Une_forme_particuliere_d’amitie)  
 > > [Dans le corps et l’âme](#Dans_le_corps_et_l’ame)  
 > > [La fécondité multiforme de l’amour](#La_fecondite_multiforme_de_l’amour)  
@@ -370,7 +362,7 @@ Si, en revanche, on souhaite simplement lire une brève synthèse pour motiver l
 **109**. Il faut noter que de nombreux poètes ont cherché à exprimer la beauté de cette union unique et exclusive. Reconnaître aujourd’hui la force de leur poésie n’implique certainement pas de soutenir que leur vie a été parfaite ou qu’ils ont toujours été fidèles en amour. Quoi qu’il en soit, il apparaît clairement que, lorsqu’ils ont trouvé l’amour et décidé d’appartenir exclusivement à une autre personne, ou lorsqu’ils ont perçu la valeur d’une union exclusive, ces poètes ont eu besoin de l’exprimer à travers leur art, comme pour indiquer qu’il s’agit de quelque chose qui va au-delà de la satisfaction sexuelle, de la satisfaction d’un besoin personnel ou d’une aventure superficielle. Voyons quelques exemples :
 
 > *Nous avons tourné et tourné, Jusqu’à ce que nous rentrions à la maison, nous deux.*[^172]
->
+
 > *Aucune autre, mon amour, ne dormira avec mes rêves. Tu iras, nous irons ensemble à travers les eaux du temps...*[^173]
 
 **110**. Par ces vers, on perçoit que, dans un cheminement de respect et de liberté, le temps consacre le choix réciproque, renforce le lien, approfondit la satisfaction d’appartenir l’un à l’autre, rend précieux ce “nous” qui finit par être perçu comme indestructible. Dans le contexte de cette union, chacun des deux sait que, tout comme il a donné quelque chose de lui-même à l’autre, il a également reçu beaucoup de son bien-aimé :
@@ -378,7 +370,7 @@ Si, en revanche, on souhaite simplement lire une brève synthèse pour motiver l
 *J’ai descendu des millions d’escaliers en te donnant le bras non pas parce qu’à quatre yeux on voit peut-être mieux.*
 
 > *Je les ai descendus avec toi parce que je savais que de nous deux les seules vraies pupilles, bien que très voilées, étaient les tiennes.*[^174]
->
+
 > *Je te donne moi-même, mes nuits sans sommeil, les longues gorgées de ciel et d’étoiles – bues sur les montagnes, la brise des mers parcourues vers des aubes lointaines. \[…\] Et tu accueilles mon émerveillement de créature, mon frémissement de tige vivante dans le cercle des horizons, courbée au vent limpide – de la beauté : et tu me laisses regarder ces yeux que Dieu t’a donnés, si denses de ciel – profonds comme des siècles de lumière engloutis au-delà des sommets -*[^175]
 
 **111**. La relation est considérée comme irremplaçable, de sorte que, lorsque le poète veut retrouver ses racines, il se conçoit comme lié à l’autre personne, avec une force qui transcende le temps :
@@ -476,9 +468,9 @@ Si, en revanche, on souhaite simplement lire une brève synthèse pour motiver l
 **145**. Une vision intégrale de la charité conjugale ne nie pas sa fécondité, la possibilité de générer une nouvelle vie, car « cette totalité, requise par l’amour conjugal, correspond également aux exigences d’une fécondité responsable ».[^232] L’union sexuelle, en tant que mode d’expression de la charité conjugale, doit naturellement rester ouverte à la transmission de la vie[^233] sans pour autant que cela doive être un but explicite de chaque acte sexuel. En effet, trois situations légitimes peuvent se présenter :
 
 > a\) Un couple ne peut pas avoir d’enfants. Karol Wojtyła l’explique magnifiquement, lorsqu’il rappelle que le mariage possède « une structure interpersonnelle, il est une union et une communauté de deux personnes. \[...\] Pour bien des raisons, le mariage peut ne pas devenir famille, mais le manque de celle-ci ne le prive pas de son caractère essentiel. En effet, la raison d’être intérieure et essentielle du mariage n’est pas seulement de se transformer en famille, mais surtout de constituer une union de deux personnes, une union durable et fondée sur l’amour. \[...\] Un mariage où il n’y a pas d’enfants, sans la faute des époux, garde la valeur intégrale de l’institution \[...\], mais \[il\] ne perd rien de son importance ».[^234]
->
+
 > b\) Un couple ne recherche pas consciemment un acte sexuel déterminé comme moyen de procréation. Wojtyła le dit également, affirmant qu’un acte conjugal qui, « *étant en lui-même un acte d’amour unissant deux personnes, ne doit pas être nécessairement considéré par elles comme un moyen conscient et voulu de procréation* ».[^235]
->
+
 > c\) Un couple respecte les temps naturels d’infertilité. Suivant cette ligne de réflexion, comme l’affirme saint Paul VI, « l’Église enseigne qu’il est alors permis de tenir compte des rythmes naturels, inhérents aux fonctions de la génération, pour user du mariage dans les seules périodes infécondes ».[^236] Cela peut servir non seulement à « réguler la natalité », mais aussi à choisir les moments les plus opportuns pour accueillir une nouvelle vie. Entre-temps, le couple peut profiter de ces périodes, telle une « manifestation d’affection et sauvegarde de mutuelle fidélité. Ce faisant, ils donnent la preuve d’un amour vraiment et intégralement honnête ».[^237]
 
 **146**. Tout cela montre l’importante nouveauté qu’offre le Pape Pie XI, lorsqu’il affirme que l’amour conjugal « imprègne tous les devoirs de la vie conjugale et occupe, dans le mariage chrétien, la première place en termes de noblesse ».[^238] Il contribue ainsi à dépasser la discussion sur la relation entre les fins ou les significations du mariage (procréative et unitive) et l’ordre qui existe entre elles, en plaçant la charité conjugale au-dessus de cette dialectique des fins et des biens comme question centrale de la vie conjugale, qui lui confère à son tour une fécondité multiforme. Même dans les moments les plus difficiles, les époux peuvent dire : “Nous sommes amis, nous nous aimons, nous nous valorisons, nous avons décidé de partager toute notre vie, nous nous appartenons, et nous avons librement choisi cette union que Dieu lui-même a bénie et consolidée. Si, à un moment donné, nous n’avons pas d’enfants, nous restons unis et nous sommes féconds d’autres manières ; si, à un moment donné, nous n’avons pas de relations sexuelles, nous continuons à vivre cette amitié unique, exclusive et totalisante, qui est aussi notre meilleur chemin de maturation et de sanctification”.
@@ -498,13 +490,13 @@ Si, en revanche, on souhaite simplement lire une brève synthèse pour motiver l
 **152**. Le risque d’“endogamie”, c’est-à-dire d’un “nous” fermé, contredit la nature même de la charité et peut la blesser mortellement. Quatre facteurs peuvent prévenir cette “endogamie” qui dénature et appauvrit le sens de l’union conjugale :
 
 > a\) Les espaces que chacun des conjoints vit dans le travail, dans les initiatives personnelles, dans les moments d’apprentissage et de développement en dehors de la vie conjugale ; si l’un des deux n’a pas d’emploi, il devient nécessaire de créer ces espaces qui concourent au bien du mariage, en enrichissant le dialogue et la relation en général.
->
+
 > b\) La signification procréative du mariage manifeste la fécondité de l’amour qui n’est pas fermé à la communication de la vie. Pour ceux qui ne peuvent pas avoir d’enfants, l’adoption ou d’autres formes de soutien stable aux enfants d’autres couples peuvent être un moyen de réaliser cette fécondité.
->
+
 > c\) Le temps partagé avec d’autres amis mariés, au cours duquel, tout en apprenant des expériences des autres et en recevant leur soutien, il y a une disponibilité constante à donner un coup de main dans les moments difficiles, tout en aidant le couple à prendre conscience de lui-même en tant qu’union grâce à l’amitié avec d’autres couples.
->
+
 > d\) Le sens social du couple qui, fidèle à la dimension sociale de la vie chrétienne, cherche les moyens de rendre service à la société et à l’Église, en s’engageant ensemble dans la recherche du bien commun : « Même la famille qui a de nombreux enfants est appelée à laisser ses empreintes dans la société où elle est insérée, afin de développer d’autres formes de fécondité qui sont comme la prolongation de l’amour qui l’anime \[...\]. Elle ne reste pas à attendre, mais sort d’elle-même dans une recherche solidaire ».[^247] « L’amour social, reflet de la Trinité, est en réalité ce qui unifie le sens spirituel de la famille et sa mission extérieure ».[^248]
->
+
 > **153.** Une preuve particulière de l’ouverture de l’amitié du couple envers les autres et de la fécondité de leur charité se manifeste dans leur attention envers les pauvres. En effet, rappelle le Pape Léon XIV, « le chrétien ne peut considérer les pauvres uniquement comme un problème social : ils sont une “question familiale”. Ils sont “des nôtres” ».[^249] De plus, « l’amour envers les pauvres – quelle que soit la forme que prenne cette pauvreté – est la garantie évangélique d’une Église fidèle au cœur de Dieu ».[^250] Ce fait se reflète dans l’une des options pour la bénédiction finale du rite latin du mariage, qui se termine par la prière : « Soyez dans le monde les témoins de l’amour de Dieu : ouvrez votre porte aux malheureux et aux pauvres, qui vous recevront un jour avec reconnaissance dans la demeure éternelle de Dieu ».[^251]
 
 **VII. Conclusion**

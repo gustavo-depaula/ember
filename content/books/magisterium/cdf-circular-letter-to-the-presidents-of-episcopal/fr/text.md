@@ -1,13 +1,5 @@
 # Lettre aux Présidents des Conférences épiscopales au sujet de certains abus et d'opinions erronées dans l'interprétation de la doctrine du Concile Vatican II, 24 juillet 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRÉE CONGRÉGATION POUR LA DOCTRINE DE LA FOI**

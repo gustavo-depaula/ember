@@ -1,9 +1,5 @@
 # Responsum Bautismo de los "mormones"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***RESPUESTA A UNA DUDA* sobre la validez del bautismo conferido por «*La Iglesia de Jesucristo de los Santos del Ultimo Día*», conocida como «*Mormones*»**
@@ -23,5 +19,3 @@ Sede de la Congregación para la Doctrina de la Fe, 5 de junio de 2001.
 \+ **Tarsicio BERTONE, S.D.B.**
 
 *Arzobispo emérito de Vercelli Secretario*
-
-[](#top)

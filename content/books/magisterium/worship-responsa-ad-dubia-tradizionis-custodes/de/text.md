@@ -1,15 +1,5 @@
 # Responsa ad dubia zu einigen Bestimmungen des Apostolischen Schreibens in Form eines „Motu Proprio“ TRADITIONIS CUSTODES von Papst FRANZISKUS
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Kongregation für den Gottesdienst und die Sakramentenordnung
@@ -59,11 +49,11 @@ Präfekt
 *Papst Franziskus wurde im Rahmen einer dem Präfekten dieser Kongregation am 18. November 2021 gewährten Audienz über die vorliegenden* RESPONSA AD DUBIA *samt den beigefügten ERLÄUTERNDEN NOTEN informiert und hat ihre Veröffentlichung gutgeheißen.*
 
 > *Traditionis custodes*
->
+
 > Art. 3.  Episcopus, in dioecesibus ubi adhuc unus vel plures coetus celebrant secundum Missale antecedens instaurationem anni 1970:
->
+
 > \[…\]
->
+
 > § 2.      statuat unum vel plures locos ubi fideles, qui his coetibus adhaerent, convenire possint ad Eucharistiam celebrandam (nec autem in ecclesiis paroecialibus nec novas paroecias personales erigens);
 
 ***Auf das vorgelegte Dubium:***
@@ -85,9 +75,9 @@ Außerdem ist es nicht angemessen, eine solche Feier in die Gottesdienstordnung 
 Mit diesen Bestimmungen wird nicht beabsichtigt, die Gläubigen, die in der vorhergehenden Zelebrationsform verwurzelt sind, auszugrenzen: Sie haben nur den Zweck, daran zu erinnern, dass es sich (in Anbetracht des gemeinsamen Gebrauchs der einzigen Ausdrucksform der *lex orandi* des Römischen Ritus) um ein Zugeständnis aus Sorge um ihr Wohl handelt und nicht um eine Gelegenheit, den vorherigen Ritus zu fördern.  
 
 > *Traditionis custodes *
->
+
 > Art. 1.  Libri liturgici a sanctis Pontificibus Paulo VI et Ioanne Paulo II promulgati, iuxta decreta Concilii Vaticani II, unica expressio “legis orandi” Ritus Romani sunt.
->
+
 > Art. 8.  Normae, dispositiones, concessiones et consuetudines antecedentes, quae conformes non sint cum harum Litterarum Apostolicarum Motu Proprio datarum praescriptis, abrogantur.
 
 ***Auf das vorgelegte Dubium:***
@@ -115,9 +105,9 @@ Mit dieser Bestimmung soll die Notwendigkeit unterstrichen werden, die vom Motu 
 Bei der Umsetzung der Bestimmungen ist darauf zu achten, dass all jene, die in der früheren Zelebrationsform verwurzelt sind, zu einem vollen Verständnis des Wertes der Zelebration in der rituellen Form, die uns durch die Reform des Zweiten Vatikanischen Konzils geschenkt wurde, geführt werden, und zwar durch eine angemessene Ausbildung, die es ermöglicht, zu entdecken, wie diese Zeugnis eines unveränderten Glaubens, Ausdruck einer erneuerten Ekklesiologie und primäre Quelle der Spiritualität des christlichen Lebens ist.
 
 > *Traditionis custodes*
->
+
 > Art. 3.  Episcopus, in dioecesibus ubi adhuc unus vel plures coetus celebrant secundum Missale antecedens instaurationem anni 1970:
->
+
 > § 1.      certior fiat coetus illos auctoritatem ac legitimam naturam instaurationis liturgicae, normarum Concilii Vaticani II Magisteriique Summorum Pontificum non excludere;
 
 ***Auf das vorgelegte Dubium:***
@@ -143,11 +133,11 @@ Der ausdrückliche Wille, nicht an der Konzelebration, insbesondere bei der Chri
 *Bevor der Bischof jedoch die Erlaubnis zur Verwendung des Missale Romanum von 1962 widerruft, bietet er dem Priester die nötige Zeit für einen aufrichtigen Austausch über die tieferen Beweggründe an, die ihn dazu veranlassen, den Wert der Konzelebration nicht anzuerkennen, insbesondere in der Messe, der der Bischof vorsteht, und ihn einzuladen, in der beredten Geste der Konzelebration jene kirchliche Gemeinschaft zu leben, die eine notwendige Voraussetzung dafür ist, am Tisch des eucharistischen Opfers teilnehmen zu können.*
 
 > *Traditionis custodes *
->
+
 > Art. 3.  Episcopus, in dioecesibus ubi adhuc unus vel plures coetus celebrant secundum Missale antecedens instaurationem anni 1970:
->
+
 > \[…\]
->
+
 > § 3.      constituat, in loco statuto, dies quibus celebrationes eucharisticae secundum Missale Romanum a sancto Ioanne XXIII anno 1962 promulgatum permittuntur. His in celebrationibus, lectiones proclamentur lingua vernacula, adhibitis Sacrae Scripturae translationibus ad usum liturgicum ab unaquaque Conferentia Episcoporum approbatis;
 
 ***Auf das vorgelegte Dubium:***
@@ -169,7 +159,7 @@ Die Veröffentlichung volkssprachlicher Lektionare, die den Lesezyklus des vorhe
 Hier ist daran zu erinnern, dass das vorliegende Lektionar eine der wertvollsten Früchte der Liturgiereform des Zweiten Vatikanischen Konzils ist. Die Veröffentlichung des Lektionars überwindet nicht nur die „vollständige“ Form des *Missale Romanum* von 1962 und kehrt zu der alten Tradition der einzelnen Bücher zurück, die den einzelnen Diensten entsprechen, sondern erfüllt auch den in *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_ge.html)*, Nr. 51, geäußerten Wunsch: „Auf dass den Gläubigen der Tisch des Gotteswortes reicher bereitet werde, soll die Schatzkammer der Bibel weiter aufgetan werden, so dass innerhalb einer bestimmten Anzahl von Jahren die wichtigsten Teile der Heiligen Schrift dem Volk vorgetragen werden.“
 
 > *Traditionis custodes*
->
+
 > Art. 4.  Presbyteri ordinati post has Litteras Apostolicas Motu Proprio datas promulgatas, celebrare volentes iuxta Missale Romanum anno 1962 editum, petitionem formalem Episcopo dioecesano mittere debent, qui, ante concessionem, a Sede Apostolica licentiam rogabit.
 
 ***Auf das vorgelegte Dubium:***
@@ -195,7 +185,7 @@ Das Motu Proprio bringt deutlich den Willen zum Ausdruck, als einzigen Ausdruck 
 Da es unsere Absicht ist, mit Eifer in die von Papst Franziskus angegebene Richtung zu gehen, werden alle Ausbilder der Seminare ermutigt, die zukünftigen Diakone und Priester zu begleiten, damit sie den Reichtum der vom Zweiten Vatikanischen Konzil gewünschten Liturgiereform verstehen und erfahren: Sie hat es verstanden, jedes Element des Römischen Ritus wertzuschätzen und – wie die Konzilsväter wünschten – jene volle, bewusste und tätige Teilnahme des ganzen Gottesvolkes an der Liturgie zu fördern (vgl. *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_ge.html)* Nr. 14), die die Hauptquelle der authentischen christlichen Spiritualität ist.
 
 > *Traditionis custodes*
->
+
 > Art. 5.  Presbyteri, qui iam secundum Missale Romanum anno 1962 editum celebrant, ab Episcopo dioecesano licentiam rogabunt ad hanc facultatem servandam.
 
 ***Auf das vorgelegte Dubium:***

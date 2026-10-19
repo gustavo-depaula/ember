@@ -1,14 +1,8 @@
 # Esclarecimentos sobre o aborto provocado, 11 de julho de 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **ESCLARECIMENTO SOBRE O ABORTO PROVOCADO**
-
-*** ***
 
 Recentemente chegaram à Santa Sé várias cartas, inclusive da parte de altas personalidades da vida política e eclesial, que informaram sobre a confusão que se criou em vários países, sobretudo na América Latina, após a manipulação e instrumentalização de um artigo de sua excelência Dom Rino Fisichella, Presidente da Academia Pontifícia para a Vida, sobre o triste caso da “menina brasileira”. Nesse artigo, publicado no *L’Osservatore Romano* a 15 de março de 2009, apresentava-se a doutrina da Igreja, levando em consideração a situação dramática desta menina, que –como se pôde constatar posteriormente– tinha sido acompanhada com toda delicadeza pastoral, em particular pelo então arcebispo de Olinda e Recife, Sua Excelência Dom José Cardoso Sobrinho. A esse respeito, a Congregação para a Doutrina da Fé confirma que a doutrina da Igreja sobre o aborto provocado não mudou nem pode mudar. Esta doutrina foi exposta nos números 2270-2273 do [*Catecismo da Igreja Católica*](/archive/cathechism_po/index_new/prima-pagina-cic_po.html) nestes termos:
 
@@ -27,5 +21,3 @@ No que se refere ao aborto provocado em algumas situações difíceis e complexa
 Pelo que se refere ao problema de determinados tratamentos médicos para preservar a saúde da mãe, é necessário distinguir bem entre dois fatos diferentes: por um lado, uma intervenção que diretamente provoca a morte do feto, chamada em ocasiões de maneira inapropriada de aborto “terapêutico”, que nunca pode ser lícito, pois constitui o assassinato direto de um ser humano inocente; por outro lado, uma intervenção não abortiva em si mesma que pode ter, como consequência colateral, a morte do filho: “Se, por exemplo, a salvação da vida da futura mãe, independentemente de seu estado de gravidez, requerer urgentemente uma intervenção cirúrgica, ou outro tratamento terapêutico, que teria como consequência acessória, de nenhum modo querida nem pretendida, mas inevitável, a morte do feto, um ato assim já não se poderia considerar um atentado direto contra a vida inocente. Nestas condições, a operação poderia ser considerada lícita, igualmente a outras intervenções médicas similares, sempre que se trate de um bem de elevado valor –como é a vida– e que não seja possível postergá-la após o nascimento do filho, nem recorrer a outro remédio eficaz” (Pio XII, *Discurso “Frente à Família” e à Associação de Famílias Numerosas*, 27 de novembro de 1951).
 
 Pelo que se refere à responsabilidade dos agentes sanitários, é necessário recordar as palavras do Papa João Paulo II: “a sua profissão pede-lhes que sejam guardiães e servidores da vida humana. No actual contexto cultural e social, em que a ciência e a arte médica correm o risco de extraviar-se da sua dimensão ética originária, podem ser às vezes fortemente tentados a transformarem-se em fautores de manipulação da vida, ou mesmo até em agentes de morte. Perante tal tentação, a sua responsabilidade é hoje muito maior e encontra a sua inspiração mais profunda e o apoio mais forte precisamente na intrínseca e imprescindível dimensão ética da profissão clínica, como já reconhecia o antigo e sempre actual juramento de Hipócrates, segundo o qual é pedido a cada médico que se comprometa no respeito absoluto da vida humana e da sua sacralidade” (*[Evangelium vitae](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae_po.html)*, 89).
-
-[](#top)

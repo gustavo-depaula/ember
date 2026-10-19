@@ -1,9 +1,5 @@
 # Nota su Rosmini
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***NOTA* sul valore dei Decreti dottrinali concernenti il pensiero e le opere del *REV.DO SAC. ANTONIO ROSMINI SERBATI***  
@@ -47,8 +43,6 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, il 1° luglio 2
 *Arcivescovo emerito di Vercelli Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: ANTONIO ROSMINI, *Lettera al Papa Pio IX*, in: *Epistolario completo*, Casale Monferrato, tip. Pane 1892, vol. X, 541 (lett. 6341).
 

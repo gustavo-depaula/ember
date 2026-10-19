@@ -1,13 +1,5 @@
 # Litterae circulares omnibus locorum Ordinariis et Moderatoribus generalibus religionum clericaliumde dispensatione a sacerdotali coelibatu, d. 14 m. Octobris a. 1980, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

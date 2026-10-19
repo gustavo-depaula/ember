@@ -1,9 +1,5 @@
 # Notificación acerca del libro de Sor Margaret A. Farley, R.S.M
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 Notificación acerca del libro *Just Love. A Framework for Christian Sexual Ethics* de Sor Margaret A. Farley, R.S.M.
@@ -69,8 +65,6 @@ Con esta Notificación, la Congregación para la Doctrina de la Fe lamenta profu
 *Arzobispo titular de Thibica Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *[Catecismo de la Iglesia Católica](/archive/catechism_sp/p3s2c2a6_sp.html#II%20La%20vocación%20a%20la%20castidad)*, núm. 2352; cf. Congregación para la Doctrina de la Fe, Declaración *Persona humana* acerca de ciertas cuestiones de ética sexual (29 de diciembre de 1975), núm. 9: *AAS* 68 (1976), 85-87.
 

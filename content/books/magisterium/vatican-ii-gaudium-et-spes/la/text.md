@@ -1,15 +1,5 @@
 # Gaudium et spes
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAULUS EPISCOPUS  
@@ -856,15 +846,15 @@ Ad verum ordinem oeconomicum universalem instaurandum abolenda sunt nimia lucror
 Pro hac cooperatione sequentes normae opportunae videntur:
 
 > **a)** Gentes progredientes valde cordi habeant ut tamquam finem progressus expresse et firmiter plenam perfectionem humanam suorum civium appetant. Meminerint ex labore ante omnia et ingenio ipsarum gentium oriri et crescere progressum quippe qui non solis opibus alienis, sed propriis plene explicandis necnon ingenio et traditione propria colendis imprimis inniti debeat. Qua in re illi excellant oportet, qui maiorem influxum in alios exercent.
->
+
 > **b)** Gentium autem progressarum officium gravissimum est progredientes populos ad supradicta munera implenda adiuvandi. Quapropter mentales et materiales accommodationes, quae ad hanc universalem cooperationem stabiliendam requiruntur, apud seipsas perficiant.
->
+
 > Ita in negotiatione cum debilioribus et pauperioribus nationibus bonum illarum sedulo respiciant; nam hae proventibus quos ex venditione rerum a se productarum accipiunt, ad propriam suam sustentationem indigent.
->
+
 > **c)** Communitatis vero internationalis est incrementum componere et stimulare, ita tamen ut de opibus ad hoc ordinatis quam efficacissime et plena cum aequitate disponatur. Ad hanc quoque communitatem pertinet, principio subsidiarietatis utique servato, rationes oeconomicas in toto mundo ordinare ut ad normam iustitiae explicentur.
->
+
 > Condantur instituta apta ad promovenda et ordinanda negotia internationalia, praesertim cum nationibus minus progressis et ad compensandos defectus qui ex nimia inaequalitate potentiae inter nationes manant. Huiusmodi ordinatio, cum adiumentis technicis, culturalibus et nummariis coniuncta, nationibus ad progressum intendentibus subsidia necessaria praestare debet ut incrementa oeconomiae suae convenienter consequi valeant.
->
+
 > **d)** In multis casibus urget necessitas recognoscendi oeconomicas socialesque structuras; sed cavendum est a solutionibus technicis immature propositis, imprimis ab illis quae, dum homini commoda materialia praebent, eius spirituali indoli ac profectui adversantur. Nam "non in solo pane vivit homo, sed in omni verbo quod procedit de ore Dei" (*Mt* 4,4). Quaelibet autem humanae familiae pars in seipsa et in suis melioribus traditionibus aliquam partem thesauri spiritualis a Deo humanitati concrediti secumfert, etsi multi nesciunt ex qua origine procedat.
 
 **87**. **De cooperatione internationali quoad incrementum incolarum***.*

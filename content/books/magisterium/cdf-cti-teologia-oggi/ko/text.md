@@ -1,9 +1,5 @@
 # Theology Today: Perspectives, Principles and Criteria
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Theology Today: Perspectives, Principles and Criteria***
 
 **오늘의 신학: 전망, 원칙, 기준**
@@ -15,31 +11,31 @@
 제1장 하느님 말씀의 경청 · 
 
 > 1\. 하느님 말씀의 수위권 · 
->
+
 > 2\. 신앙, 하느님 말씀에 대한 응답 · 
->
+
 > 3\. 신학, 신앙의 이해 · 
 
 제2장 교회의 친교 안에 머무름 · 
 
 > 1\. 신학의 영혼인 성경 연구 · 
->
+
 > 2\. 사도적 전승에 대한 충실성 · 
->
+
 > 3\. ‘신자들의 신앙 감각’(sensus fidelium)에 주목함 · 
->
+
 > 4\. 교회 교도권에 대한 책임 있는 추종 · 
->
+
 > 5\. 신학자들의 공동체 · 
->
+
 > 6\. 세상과 대화하며 · 
 
 제3장 하느님의 진리를 설명함 · 
 
 > 1\. 하느님의 진리와 신학의 합리성 · 
->
+
 > 2\. 신학의 단일성과 그 방법 및 분야의 다수성 ·
->
+
 > 3\. 학문과 지혜 ·
 
 결론 · 
@@ -631,5 +627,3 @@
 162\. 성 토마스 아퀴나스, 『전능에 관한 논제』(Quaestiones Disputatae de Potentia), q.7, a.5, ad 2. 여기에서 토마스는 디오니시오의 가르침을 해석한다.
 
 163\. 성 아우구스티노, “우리는 하느님에 대해 말한다. 당신이 이해하지 못한다면 얼마나 놀라운 일인가? 만일 당신이 이해한다면 그분은 하느님이 아니기 때문이다.”(De Deo loquimur, quid mirum si non comprehendis? Si enim comprehendis, non est Deus.: Sermo 117,3,5; PL 38,663); “만일 당신이 마치 파악할 수 있었던 것처럼 생각된다면, 당신의 인식은 당신을 속였던 것이다.”(Si quasi comprehendere potuisti, cogitatione tua te decepisti) (Sermo 52,6,16; PL 38,360).
-
-[](#top)

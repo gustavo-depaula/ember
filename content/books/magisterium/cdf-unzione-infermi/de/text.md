@@ -1,9 +1,5 @@
 # Note bezüglich des Spenders des Sakraments der Krankensalbung
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***Note bezüglich des Spenders des Sakraments der Krankensalbung***
@@ -78,5 +74,3 @@ Bei der Sakramentenspendung handelt er »*in persona Christi Capitis*« und »*i
 **Anmerkung**
 
 \(1\) Auch die Orthodoxen sind der Meinung, daß der Spender der Salbung nur der Bischof oder der Priester sein darf.
-
-[](#top)

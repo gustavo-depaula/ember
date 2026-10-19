@@ -1,9 +1,5 @@
 # Schreiben über einige Aspekte der christlichen Meditation
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE*** ***ÜBER EINIGE ASPEKTE DER CHRISTLICHEN MEDITATION***
@@ -152,8 +148,6 @@ Joseph Kardinal Ratzinger *Präfekt*
 *Tit.-Erzbischof von Cäsarea in Numidien Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: **Fußnoten**  
 

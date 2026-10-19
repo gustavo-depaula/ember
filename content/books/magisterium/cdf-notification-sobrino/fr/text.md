@@ -1,13 +1,5 @@
 # Notification sur les œuvres du P. Jon SOBRINO s.j
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
@@ -17,8 +9,6 @@ CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 **sur les œuvres du P. Jon SOBRINO, s.j. :**  
 *Jesucristo liberador. Lectura histórico-teológica de Jesús de Nazaret* (Madrid, 1991)  
 et *La fe en Jesucristo. Ensayo desde las víctimas* (San Salvador, 1999).
-
-** **
 
 **Introduction**
 

@@ -1,9 +1,5 @@
 # Christian monotheism and its opposition to violence. God the Trinity and the unity of humanity
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONAL THEOLOGICAL COMMISSION
 
 **God the Trinity and the unity of humanity**
@@ -85,7 +81,3 @@ Discussion of the theme took place at various meetings of the subcommission and 
 *Finally, in* Chapter V*, we summarise the specifically Christian elements which determine the Church’s task of witnessing to the reconciliation both of God and humanity and of human beings with one another. Christian revelation purifies religion, by restoring to the latter its fundamental role in the human search for meaning. For that reason, in our invitation to reflection we are very conscious of the particular need - especially in today’s cultural context – always to treat together the theological content and the historical development of the Christian revelation of God.*
 
 [\[\*\]](#_ftnref*) While waiting for the translations of the document, here is an introductory *Presentation*
-
-*  *
-
-[](#top)

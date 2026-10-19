@@ -26,6 +26,4 @@ Fraternamente,
 
 *Roma, São João de Latrão, Semana Santa de 2024.*
 
-* *
-
                                                                                                   FRANCISCO

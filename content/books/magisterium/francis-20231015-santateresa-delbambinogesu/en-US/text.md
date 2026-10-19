@@ -150,17 +150,17 @@ That you like to walk to guide them to heaven”. [^62]
 52\. From heaven to earth, the timely witness of Saint Therese of the Child Jesus and the Holy Face endures in all the grandeur of her little way.
 
 > In an age that urges us to focus on ourselves and our own interests, Therese shows us the beauty of making our lives a gift.
->
+
 > At a time when the most superficial needs and desires are glorified, she testifies to the radicalism of the Gospel.
->
+
 > In an age of individualism, she makes us discover the value of a love that becomes intercession for others.
->
+
 > At a time when human beings are obsessed with grandeur and new forms of power, she points out to us the little way.
->
+
 > In an age that casts aside so many of our brothers and sisters, she teaches us the beauty of concern and responsibility for one another.
->
+
 > At a time of great complexity, she can help us rediscover the importance of simplicity, the absolute primacy of love, trust and abandonment, and thus move beyond a legalistic or moralistic mindset that would fill the Christian life with rules and regulations, and cause the joy of the Gospel to grow cold.
->
+
 > In an age of indifference and self-absorption, Therese inspires us to be missionary disciples, captivated by the attractiveness of Jesus and the Gospel.
 
 53\. A century and a half after her birth, Therese is more alive than ever in the pilgrim Church, in the heart of God’s people. She accompanies us on our pilgrim way, doing good on earth, as she had so greatly desired. The most lovely signs of her spiritual vitality are the innumerable “roses” that Therese continues to strew: the graces God grants us through her loving intercession in order to sustain us on our journey through life.

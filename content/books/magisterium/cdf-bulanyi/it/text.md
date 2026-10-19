@@ -1,9 +1,5 @@
 # Lettera a György Bulányi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 *****LETTERA A GYÖRGY BULÁNYI***** \*
@@ -81,5 +77,3 @@ Con sensi di religioso ossequio
 \+ **Alberto Bovone**, *Segretario*
 
 \* *Magyar Kurir*, 11 giugno 1987, 313-318 (trad. ungherese).
-
-[](#top)

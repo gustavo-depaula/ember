@@ -1,13 +1,5 @@
 # Declaración de Su Eminencia el cardenal Víctor Manuel Fernández, prefecto del Dicasterio para la Doctrina de la Fe
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIUM PRO DOCTRINA FIDEI

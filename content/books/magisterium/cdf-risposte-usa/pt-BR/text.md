@@ -1,9 +1,5 @@
 # Perguntas e respostas da Conferência Episcopal dos Estados Unidos
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ### *RESPOSTAS E PERGUNTAS DA CONFERÊNCIA EPISCOPAL DOS ESTADOS UNIDOS  SOBRE A ALIMENTAÇÃO E HIDRATAÇÃO ARTIFICIAIS*
@@ -23,5 +19,3 @@ O Sumo Pontífice Bento XVI, durante a Audiência concedida ao abaixo-assinado C
 **William Cardeal Levada** *Prefeito*
 
 ** Angelo Amato, s.d.b.** *Arcesbispo tit. de Sila Secretário*
-
-[](#top)

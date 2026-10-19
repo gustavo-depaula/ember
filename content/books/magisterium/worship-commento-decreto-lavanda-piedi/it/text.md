@@ -1,15 +1,5 @@
 # Commento al Decreto sul Rito della "Lavanda dei Piedi" - Congregazione per il Culto Divino e la Disciplina dei Sacramenti
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER IL CULTO DIVINO  

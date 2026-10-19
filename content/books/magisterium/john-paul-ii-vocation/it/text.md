@@ -5,8 +5,6 @@ XII GIORNATA MONDIALE DELLA GIOVENTÙ (21-24 AGOSTO 1997)
 
 ***MESSAGGIO DI GIOVANNI PAOLO II AI GIOVANI RADUNATI IN OCCASIONE DELLA VEGLIA DI PREGHIERA PER LE VOCAZIONI***
 
-*    *
-
 *Al Venerato Fratello Mons. LOUIS-MARIE BILLÉ Arcivescovo di Aix, Arles e Embrun Presidente della Conferenza Episcopale Francese per i giovani riuniti a Notre-Dame di Parigi, giovedì, 21 agosto 1997 per riflettere e pregare sulle vocazioni*
 
 *Cari giovani,*

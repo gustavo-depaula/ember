@@ -1,9 +1,5 @@
 # Note mit pastoralen Hinweisen zum Jahr des Glaubens, 6. Januar 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***Note mit pastoralen Hinweisen zum Jahr des Glaubens***
@@ -136,8 +132,6 @@ Der Glaube „ist ein Gefährte unseres Lebens, der es erlaubt, mit stets neuem 
 *Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benedikt XVI., Enzyklika *[Deus caritas est](/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_ge.html)* (25. Dezember 2005), Nr. 1.
 

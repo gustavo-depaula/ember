@@ -1,10 +1,6 @@
 # Carta Circular às Conferências Episcopais sobre casos de abuso sexual, 3 de maio de 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGREGAÇÃO PARA A DOUTRINA DA FÉ
+CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA CIRCULAR PARA AJUDAR AS CONFERÊNCIAS EPISCOPAIS  NA PREPARAÇÃO DE LINHAS DIRETRIZES NO TRATAMENTO DOS CASOS DE ABUSO SEXUAL  CONTRA MENORES POR PARTE DE CLÉRIGOS***
 
@@ -91,5 +87,3 @@ Roma, da sede da Congregação para a Doutrina da Fé, 3 de Maio de 2011
 **William Cardinale Levada** Prefeito
 
 **+ Luis F. Ladaria, S.I.** Arcebispo Tit. de Thibica Secretário
-
-[](#top)

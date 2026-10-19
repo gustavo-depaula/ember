@@ -1,9 +1,5 @@
 # Carta a los obispos de la Iglesia católica sobre la atención pastoral a las personas homosexuales
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***CARTA A LOS OBISPOS DE LA IGLESIA CATÓLICA SOBRE LA ATENCIÓN PASTORAL A LAS PERSONAS HOMOSEXUALES***
@@ -115,5 +111,3 @@ Al evaluar eventuales proyectos legislativos, se deberá poner en primer plano e
 **Joseph Card. Ratzinger** *Prefecto*
 
 **+ Alberto Bovone** *Arzob. tit. de Cesárea de Numidia Secretario*
-
-[](#top)

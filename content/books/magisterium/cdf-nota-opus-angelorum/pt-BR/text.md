@@ -1,9 +1,5 @@
 # Artigo ilustrativo sobre a Carta Circular sobre Associação do Opus Sanctorum Angelorus, Senhora Gabriele Bitterlich, áustria, 16 de março de 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Artigo ilustrativo sobre a Carta Circular sobre a Associação *do Opus Sanctorum Angelorum\****
 
 Com data de 2 de outubro de 2010, a Congregação para a Doutrina da Fé enviou aos presidentes das Conferências episcopais uma [carta circular sobre a associação “Opus Angelorum”](rc_con_cfaith_doc_20101002_opus-angelorum_po.html), carta depois publicada na edição portuguesa de *L’Osservatore Romano*, no dia 13 de novembro de 2010, p. 16. Nesta carta, a Congregação informa, em particular, sobre a aprovação do “Estatuto do *Opus Sanctorum Angelorum*” por parte da *Congregação para os Institutos de Vida Consagrada e as Sociedades de Vida Apostólica* e sobre a aprovação da “fórmula de uma consagração aos Santos Anjos para o *Opus Angelorum*” por parte da Congregação para a Doutrina da Fé. Parece, portanto, oportuno ilustrar brevemente a espiritualidade desta *Obra dos Santos Anjos*, a qual, assim como se apresenta hoje, é “uma associação pública da Igreja em conformidade com a doutrina tradicional e as directivas da Suprema Autoridade; difunde entre os fiéis a devoção aos Santos Anjos, exorta à oração pelos sacerdotes, promove o amor a Jesus Cristo na Sua paixão e a união à mesma” (Carta da CDF).
@@ -41,8 +37,6 @@ Com a aprovação do *Opus Angelorum*, a Igreja deu a bênção a um movimento q
 \* *L’Osservatore Romano*, edição semanal em português, número 12, 19 de Março de 2011, página 6-7.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Decreto *[Litteris diei](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19920606_opus-angelorum_po.html)* da Congregação para a Doutrina da Fé, de 6 de junho de 1992.
 

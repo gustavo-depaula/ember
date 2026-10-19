@@ -22,5 +22,3 @@ Tuttavia confidiamo che coloro che finora si ostinarono nella loro ribellione po
 Quanto a voi che, sebbene circondati da difficoltà e pericoli, rimaneste saldi, cercate di procedere cautamente, resi accorti dalla separazione di costoro; rafforzatevi nella vostra fede, e sempre più devotamente ubbidite ai vostri superiori, ricordando che ogni potere, soprattutto se sacro, viene da Dio. Animati dalla Nostra sollecitudine e dalla cura della vostra salute e del vostro vantaggio, con zelo coltivate in voi quella religiosa osservanza con cui seguite la Santa Sede e quella carità filiale con la quale vi unite a Noi, in modo che possiate sempre essere uniti con Noi in Gesù Cristo e meritare le Sue benedizioni. Tutto ciò con insistenza chiediamo al Padre delle misericordie, la cui grazia desideriamo si effonda con abbondanza su di voi. E invero, come auspicio di fervido amore e come pegno della Nostra benevolenza, impartiamo a voi, con molto affetto, l’Apostolica Benedizione.
 
 *Dato a Roma, presso San Pietro, il 20 maggio 1870, nell’anno ventiquattresimo del Nostro Pontificato.*
-
-* *

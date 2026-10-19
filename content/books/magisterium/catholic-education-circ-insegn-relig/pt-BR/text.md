@@ -1,9 +1,5 @@
 # Carta Circular sobre o Ensino da Religião na Escola, Congregação para a Educação Católica
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A EDUCAÇÃO CATÓLICA
 
 **CARTA CIRCOLAR N. 520/2009 AOS PRESIDENTES DAS CONFERÊNCIAS EPISCOPAIS SOBRE O ENSINO DA RELIGIÃO NA ESCOLA**
@@ -118,5 +114,3 @@ devotamente no Senhor
 **Zenon Card. GROCHOLEWSKI,** *Prefeito*
 
 **Jean-Louis BRUGUÈS, O.P.,** *Secretário*
-
-[](#top)

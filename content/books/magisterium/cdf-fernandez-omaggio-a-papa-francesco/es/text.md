@@ -1,18 +1,8 @@
 # Homenaje al Papa Francisco: En el seguimiento de un Padre. El cardenal Víctor Manuel Fernández en diálogo con la Sección Doctrinal del Dicasterio
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Víctor Manuel Fernández *Prefecto del Dicasterio para la Doctrina della Fe*
-
-* *
 
 **Homenaje al Papa Francisco**
 

@@ -8,8 +8,6 @@ ANLÄSSLICH DER APPROBATION UND VERÖFFENTLICHUNG
 DER LATEINISCHEN "EDITIO TYPICA"  
 DES KATECHISMUS DER KATHOLISCHEN KIRCHE 
 
-** **
-
 *An die ehrwürdigen Brüder Kardinäle, Patriarchen, Erzbischöfe, Bischöfe, Priester und Diakone und die übrigen Mitglieder des Volkes Gottes!*
 
 Anlaß zu großer Freude ist für mich die Veröffentlichung der lateinischen Ausgabe des Katechismus der Katholischen Kirche, die von mir mit diesem Apostolischen Schreiben approbiert und promulgiert wird und somit zum endgültigen Text des erwähnten Katechismus wird. Das erfolgt ungefähr fünf Jahre nach dem Erlaß der Apostolischen Konstitution *[Fidei depositum](/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)* vom 11. Oktober 1992, mit der am dreißigsten Jahrestag der Eröffnung des II. Vatikanischen Konzils die Veröffentlichung des in französischer Sprache geschriebenen ersten Textes des Katechismus veranlaßt wurde.
@@ -37,5 +35,3 @@ Möge dank dem einvernehmlichen und sich gegenseitig ergänzenden Engagement all
 Maria, der Mutter Christi, deren leibliche und geistige Aufnahme in den Himmel wir heute feiern, vertraue ich diese Wünsche an, auf daß sie sich zum geistlichen Wohl aller Menschen erfüllen.
 
 *Aus Castelgandolfo, am 15. August 1997, dem 19. Jahr meines Pontifikats.*
-
-*  *

@@ -1,15 +1,5 @@
 # "L’unique Croix du salut". Lettre à l’Évêque de Bayeux-Lisieux à propos des apparitions présumées de Notre Seigneur Jésus-Christ à Dozulé
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI

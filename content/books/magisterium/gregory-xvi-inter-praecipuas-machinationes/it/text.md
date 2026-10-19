@@ -5,8 +5,6 @@ GREGORIO XVI
 
 ***INTER PRAECIPUAS***
 
-* *
-
 *Ai Venerabili Fratelli Patriarchi, Primati, Arcivescovi e Vescovi.*
 
 *Il Papa Gregorio XVI.  Venerabili Fratelli, salute e Apostolica Benedizione.*

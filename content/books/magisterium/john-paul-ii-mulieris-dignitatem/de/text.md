@@ -422,7 +422,3 @@ Maria, die der ganzen Kirche »auf dem Weg des Glaubens, der Liebe und der vollk
 Mit diesen Wünschen erteile ich allen Gläubigen und in besonderer Weise den Frauen als Schwestern in Christus den Apostolischen Segen.
 
 *Gegeben zu Rom, bei St. Peter, am 15. August, dem Hochfest der Aufnahme Marias in den Himmel des Jahres 1988, im 10. Jahr meines Pontifikates.*
-
-*  *  
-
-*   *

@@ -144,3 +144,5 @@ JOHN PAUL II
 (27)Cf. Can. 964 § 3.
 
 (28)Pontifical Council for the Interpretation of Legislative Texts, Responsa ad propositum dubium: de loco excipiendi sacramentales confessiones (7 July 1998): AAS 90 (1998) 711.
+
+Copyright © Libreria Editrice Vaticana

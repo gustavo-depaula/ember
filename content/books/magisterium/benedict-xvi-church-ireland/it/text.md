@@ -4,8 +4,6 @@ LETTERA PASTORALE
 DEL SANTO PADRE  
 **BENEDETTO XVI** AI CATTOLICI DELL’IRLANDA
 
-*** ***
-
 1\. Cari fratelli e sorelle della Chiesa in Irlanda, è con grande preoccupazione che vi scrivo come Pastore della Chiesa universale. Come voi, sono stato profondamente turbato dalle notizie apparse circa l’abuso di ragazzi e giovani vulnerabili da parte di membri della Chiesa in Irlanda, in particolare da sacerdoti e da religiosi. Non posso che condividere lo sgomento e il senso di tradimento che molti di voi hanno sperimentato al venire a conoscenza di questi atti peccaminosi e criminali e del modo in cui le autorità della Chiesa in Irlanda li hanno affrontati.
 
 Come sapete, ho recentemente invitato i vescovi irlandesi ad un incontro qui a Roma per riferire su come hanno affrontato queste questioni nel passato e indicare i passi che hanno preso per rispondere a questa grave situazione. Insieme con alcuni alti Prelati della Curia Romana ho ascoltato quanto avevano da dire, sia individualmente che come gruppo, mentre proponevano un’analisi degli errori compiuti e delle lezioni apprese, e una descrizione dei programmi e dei protocolli oggi in essere. Le nostre riflessioni sono state franche e costruttive. Nutro la fiducia che, come risultato, i vescovi si trovino ora in una posizione più forte per portare avanti il compito di riparare alle ingiustizie del passato e per affrontare le tematiche più ampie legate all’abuso dei minori secondo modalità conformi alle esigenze della giustizia e agli insegnamenti del Vangelo.
@@ -96,8 +94,6 @@ Desidero concludere questa Lettera con una speciale *Preghiera per la Chiesa in 
 
 **Preghiera per la Chiesa in Irlanda**
 
-** **
-
 Dio dei padri nostri,  
 rinnovaci nella fede che è per noi vita e salvezza,  
 nella speranza che promette perdono e rinnovamento interiore,  
@@ -130,5 +126,3 @@ affidiamo noi stessi, i nostri ragazzi,
 e le necessità della Chiesa in Irlanda.
 
 Amen.
-
-** **

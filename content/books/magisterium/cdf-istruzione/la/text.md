@@ -4,10 +4,6 @@
 
 Instructio de orationibus ad obtinendam a Deo sanationem
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 ***INSTRUCTIO DE ORATIONIBUS AD OBTINENDAM A DEO SANATIONEM***
 
 **Introductio**
@@ -134,8 +130,6 @@ Archiepiscopus Em. Vercellensis
 *Secretarius*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: \[\] IOANNES PAULUS II, Adhortatio Apostolica *[Christifideles laici](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici_lt.html)*, n. 53, AAS 81(1989), p. 498.
 

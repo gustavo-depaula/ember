@@ -1,9 +1,5 @@
 # Urteil der Kirche unverändert - 26. November 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***URTEIL DER KIRCHE UNVERÄNDERT***

@@ -1,15 +1,5 @@
 # Inter mirifica
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAUL, ÉVÊQUE,  
@@ -157,8 +147,6 @@ Tout l’ensemble et chacun des points qui ont été édictés dans ce décret o
 Moi, Paul, évêque de l’Église catholique.
 
 *(Suivent les signatures des Pères)*
-
-* *
 
 ------------------------------------------------------------------------
 

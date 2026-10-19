@@ -1,9 +1,5 @@
 # Gott der Erlöser - zu einigen ausgewählten Fragen, 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Internationale Theologische Kommission**
 
 GOTT DER ERLÖSER **zu einigen ausgewählten Fragen**
@@ -66,5 +62,3 @@ GOTT DER ERLÖSER **zu einigen ausgewählten Fragen**
 *i. Gesellschaft und Kosmos*
 
 *j. Eschatologische Perspektiven*
-
-[](#top)

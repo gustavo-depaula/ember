@@ -1,9 +1,5 @@
 # Actus formalis defectionis ab Ecclesia catholica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PÄPSTLICHER RAT FÜR DIE GESETZESTEXTE**
 
 ***ACTUS FORMALIS DEFECTIONIS AB ECCLESIA CATHOLICA***
@@ -55,5 +51,3 @@ im Herrn Ihr
 ------------------------------------------------------------------------
 
 *Die vorliegende Mitteilung wurde approbiert von Papst Benedikt XVI, der die amtliche Bekanntmachung an alle Präsidenten der Bischofskonferenzen angeordnet hat.*
-
-[](#top)

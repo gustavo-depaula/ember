@@ -1,9 +1,5 @@
 # INFORMACJA O KARACH KANONICZNYCH, KTÓRYM PODLEGAJĄ BISKUPI KONSEKRUJĄCY BISKUPÓW BEZ ZEZWOLENIA
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Święta Kongregacja Nauki Wiary**
 
 **INFORMACJA O KARACH KANONICZNYCH, KTÓRYM PODLEGAJĄ BISKUPI KONSEKRUJĄCY BISKUPÓW BEZ ZEZWOLENIA**\*
@@ -33,5 +29,3 @@ Kongregacja uważa ponadto za swój obowiązek upomnieć wszystkich wiernych chr
 **+ JÉRÔME HAMER, O.P.** * Arcybiskup tytularny Loreny Sekretarz*
 
 \* *AAS* 75 (1983) 392-393.
-
-[](#top)

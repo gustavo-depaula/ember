@@ -29,5 +29,3 @@ The maternal love of the Catholic Church embraces all people. As you know,venera
 *Given in Rome, at St. Peter's, on November 20, 1890, in the thirteenth yearof Our pontificate.*
 
 **LEO XIII**
-
-*    *

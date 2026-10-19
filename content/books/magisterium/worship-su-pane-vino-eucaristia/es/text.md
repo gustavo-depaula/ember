@@ -1,15 +1,5 @@
 # Carta circular a los Obispos sobre el pan y el vino para la Eucaristía - Congregación para el Culto Divino y la Disciplina de los Sacramentos
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGACIÓN PARA EL CULTO DIVINO  
@@ -30,15 +20,15 @@ Además, corresponde al Ordinario informar y recordar a los productores del vino
 3\. Las normas acerca de la materia eucarística, indicadas en el can. 924 del CIC y en los números 319 - 323 de la *Institutio generalis* *Missalis Romani,* han sido ya explicadas en la Instrucción *[Redemptionis Sacramentum](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_sp.html)* de esta Congregación (25 de marzo de 2004):
 
 > a\) “El pan que se emplea en el santo Sacrificio de la Eucaristía debe ser ázimo, de sólo trigo y hecho recientemente, para que no haya ningún peligro de que se corrompa. Por consiguiente, no puede constituir la materia válida, para la realización del Sacrificio y del Sacramento eucarístico, el pan elaborado con otras sustancias, aunque sean cereales, ni aquel que lleva mezcla de una sustancia diversa del trigo, en tal cantidad que, según la valoración común, no se puede llamar pan de trigo. Es un abuso grave introducir, en la fabricación del pan para la Eucaristía, otras sustancias como frutas, azúcar o miel. Es claro que las hostias deben ser preparadas por personas que no sólo se distingan por su honestidad, sino que además sean expertas en la elaboración y dispongan de los instrumentos adecuados” ([n. 48](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_sp.html#CAPÍTULO%20III)).
->
+
 > b\) “El vino que se utiliza en la celebración del santo Sacrificio eucarístico debe ser natural, del fruto de la vid, puro y sin corromper, sin mezcla de sustancias extrañas. \[...\] Téngase diligente cuidado de que el vino destinado a la Eucaristía se conserve en perfecto estado y no se avinagre. Está totalmente prohibido utilizar un vino del que se tiene duda en cuanto a su carácter genuino o a su procedencia, pues la Iglesia exige certeza sobre las condiciones necesarias para la validez de los sacramentos. No se debe admitir bajo ningún pretexto otras bebidas de cualquier género, que no constituyen una materia válida” [(n. 50](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_sp.html#CAPÍTULO%20III)).
 
 4\. La Congregación para la Doctrina de la Fe, en la [Carta circular a los Presidentes de las Conferencias Episcopales acerca del uso del pan con poca cantidad de gluten y del mosto como materia eucarística](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_sp.html) (24 de julio de 2003,  Prot. N. 89/78 – 17498), ha indicado las normas respecto a las personas que, por diversos y graves motivos, no pueden tomar pan preparado normalmente o vino normalmente fermentado:
 
 > a\) “Las hostias *sin nada* de gluten son materia inválida para la Eucaristía. Son materia válida las hostias con la *mínima cantidad* de gluten necesaria para obtener la panificación sin añadir sustancias extrañas ni recurrir a procedimientos que desnaturalicen el pan” (A. 1-2).
->
+
 > b\) “Es materia válida para la Eucaristía el *mosto*, esto es, el zumo de uva fresco o conservado, cuya fermentación haya sido suspendida por medio de procedimientos que no alteren su naturaleza (por ejemplo el congelamiento)” (A. 3).
->
+
 > c\) “Es competencia del Ordinario conceder a los fieles y a los sacerdotes la licencia para usar pan con una mínima cantidad de gluten o mosto como materia para la Eucaristía. La licencia puede ser concedida habitualmente, mientras dure la situación que la ha motivado” (C. 1).
 
 5\. Además, dicha Congregación ha decidido que la eucarística preparada con organismos genéticamente modificados puede ser considerada materia válida (cf. Carta al Prefecto de la Congregación para el Culto Divino y la Disciplina de los Sacramentos acerca de la materia eucarística preparada con organismos genéticamente modificados, 9 de diciembre de 2013, Prot. N. 89/78 – 44897).

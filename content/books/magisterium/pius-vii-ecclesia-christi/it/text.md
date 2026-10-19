@@ -4,8 +4,6 @@ BOLLA
 ***ECCLESIA CHRISTI*** DEL SOMMO PONTEFICE  
 **PIO VII**
 
-* *
-
 *Il Vescovo Pio, servo dei servi di Dio. A perpetua memoria.*
 
 1\. La Chiesa di Gesù Cristo, che l’evangelista Giovanni vide discendere dal Cielo, da Dio, come la città santa, la nuova Gerusalemme, trae principalmente la sua stabilità e gli altri pregi di cui è fornita non solo dall’esser santa, cattolica ed apostolica, ma anche dall’essere una, fondata sulla solidità di una sola pietra. Dalla ferma e costante unione di tutte le membra della Chiesa nella medesima fede, nei medesimi sacramenti, nei medesimi legami della carità e nella soggezione e nell’ossequio di tutti al Capo legittimo, nascono tutta quella forza e quella bellezza per cui il suo corpo mistico è nobilitato e prestigioso.

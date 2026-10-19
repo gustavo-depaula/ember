@@ -296,5 +296,3 @@ Dieses Anliegen der ganzen Kirche vertraue ich der mütterlichen Fürsprache Mar
 Mit diesen Wünschen an alle erteile ich meinen Segen.
 
 *Aus dem Vatikan, am 10. November des Jahres 1994, im 17. Jahr meines Pontifikates.*
-
-*  *

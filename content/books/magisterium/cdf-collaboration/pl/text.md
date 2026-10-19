@@ -1,9 +1,5 @@
 # LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O WSPÓŁDZIAŁANIU MĘŻCZYZNY I KOBIETY W KOŚCIELE I ŚWIECIE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O WSPÓŁDZIAŁANIU MĘŻCZYZNY I KOBIETY W KOŚCIELE I ŚWIECIE**
 
 **WPROWADZENIE**
@@ -181,5 +177,3 @@ Rzym, wsiedzibie Kongregacji Nauki Wiary, 31 maja 2004 r., wŚwięto Nawiedzenia
 ²¹List encyklika *Laborem exercens* (14 września 1981), 19: *AAS* 73 (1981), 627.
 
 ²²Jan Paweł II, List apostolski *Ordinatio sacerdotalis* (22 maja 1994): *AAS* 86 (1994), 545-548; Kongregacja Nauki Wiary, Odpowiedź na wątpliwości dotyczące doktryny Listu apostolskiego *Ordinatio sacerdotalis* (28 października 1995): *AAS* 87 (1995), 1114.
-
-[](#top)

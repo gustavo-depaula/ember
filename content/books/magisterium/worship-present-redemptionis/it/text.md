@@ -1,9 +1,5 @@
 # PRESENTAZIONE DELLA "REDEMPTIONIS SACRAMENTUM"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI 
 
@@ -126,5 +122,3 @@ In conclusione, fornendo questo strumento di indirizzo - teologico-pastorale e g
 Ma ritengo importante che se ne colga, al di là del senso correttivo, l’intimo senso promozionale. Pur in filigrana, traspaiono le linee di una *spiritualità liturgica* e di una *pastorale liturgica*. E’ qui indubbiamente l’antidoto radicale agli abusi. Letta così, l’[Istruzione](rc_con_ccdds_doc_20040423_redemptionis-sacramentum_it.html) elaborata dalla Congregazione del Culto Divino e la Disciplina dei Sacramenti, d’intesa con la Congregazione per la Dottrina della fede, mi pare possa essere accolta come uno strumento utile, e spero efficace, perché, a quarant’anni dalla *[Sacrosanctum Concilium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_it.html)*, e mentre ci si avvia a un altro momento importante come l’annunciato *Sinodo sull’Eucaristia*, la liturgia sia sempre meglio vissuta come fonte e culmine della vita ecclesiale.
 
 *23 aprile 2004*
-
-[](#top)

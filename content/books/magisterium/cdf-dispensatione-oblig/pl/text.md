@@ -1,13 +1,5 @@
 # NORMY OKREŚLAJĄCE SPOSÓB PRZYGOTOWANIA W KURIACH DIECEZJALNYCH I ZAKONNYCH SPRAW DOTYCZĄCYCH PRZENIESIENIA KAPŁANA DO STANU ŚWIECKIEGO Z DYSPENSĄ OD OBOWIĄZKÓW WYNIKAJĄCYCH ZE ŚWIĘCEŃ WYŻSZYCH
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Święta Kongregacja Nauki Wiary

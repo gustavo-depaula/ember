@@ -1,9 +1,5 @@
 # Preface of Card. Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***PREFACE***
@@ -27,7 +23,5 @@ Bearing this in mind, the Holy Father, Benedict XVI, notes the following:
 Vatican City State, 14 December 2011, Feast of Saint John of the Cross.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Post-Synodal Apostolic Exhortation, *[Verbum Domini](/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini_en.html)*, on the Word of God in the life and mission of the Church, 30 September 2010, n. 14: *AAS* 102 (2010) 695-696. See also those passages of the *Catechism for the Catholic Church* dedicated to this topic (nn. 66-67).

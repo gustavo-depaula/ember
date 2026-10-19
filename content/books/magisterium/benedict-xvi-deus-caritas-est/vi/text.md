@@ -15,8 +15,6 @@ VỀ ĐỨC ÁI KITÔ GIÁO
 
 **DẪN NHẬP**
 
-** **
-
 1*. “Thiên chúa là tình yêu: ai ở lại trong tình yêu thì ở lại trong Thiên Chúa và Thiên Chúa ở lại trong người ấy” *(1Ga 4,16). Những lời này được trích từ Thư thứ nhất của Thánh Gioan, diễn tả rõ ràng điều làm nên trọng tâm đức tin Kitô giáo: hình ảnh Thiên Chúa của Kitô giáo, từ hình ảnh này rút ra hình ảnh con người và con đường của họ. Thêm nữa, cũng ngay trong câu đó, Thánh Gioan đưa ra cho chúng ta một công thức tóm tắt đời sống Kitô hữu: *“Chúng ta đã nhận biết và tin vào tình yêu Thiên Chúa dành cho chúng ta”.*
 
 *“Chúng ta đã tin vào tình yêu Thiên Chúa”: *Người Kitô hữu có thể diễn tả quyết định căn bản của đời mình như thế. Khởi đầu cho cuộc sống Kitô hữu không phải là một quyết định đạo đức hay một tư tưởng vĩ đại, nhưng là sự gặp gỡ với một biến cố với một Con Người, Đấng đem lại cho đời sống chúng ta một chân trời mới và từ đó một định hướng dứt khoát. Trong Phúc Âm, Thánh Gioan nhấn mạnh sự kiện này với những lời như sau: *“Thiên Chúa yêu thế gian đến nỗi đã ban Con Một, để ai tin vào Con của Người… thì được sống muôn đời” *(Ga 3,16). Khi nhận ra đặc tính trung tâm của tình yêu, niềm tin Kitô giáo đã đón nhận điều cốt lõi của đức tin Israel và đồng thời mang lại cho cốt lõi này một chiều sâu rộng mới. Người Do Thái đạo đức cầu nguyện hằng ngày với lời kinh rút từ sách Đệ nhị luật, trong đó họ nhận ra trọng tâm cuộc sống của mình: *“Nghe đây, hỡi Israel! Đức Chúa, Thiên Chúa chúng ta, là Đức Chúa duy nhất. Hãy yêu mến Đức Chúa, Thiên Chúa của anh em, hết lòng hết dạ, hết sức anh em” *(Đnl 6,4-5). Đức Giêsu đã nối kết giới răn mến Chúa với giới răn yêu người rút từ sách Lêvi: *“Ngươi phải yêu đồng loại như chính mình” *(Lv 19,18) thành một mệnh lệnh duy nhất (x. Mc 12,29-31). Vì Thiên Chúa đã yêu chúng ta trước (x. lGa 4,l0), nên tình yêu không còn là một “*giới luật*”, nhưng là lời đáp trả cho hồng ân “*tình yêu*” qua đó Thiên Chúa đến gặp gỡ chúng ta.
@@ -28,8 +26,6 @@ Trong một thế giới, nơi danh Thiên Chúa đôi khi bị nối kết vớ
 **SỰ THỐNG NHẤT CỦA TÌNH YÊU**
 
 **TRONG SÁNG TẠO VÀ LỊCH SỬ CỨU ĐỘ**
-
-** **
 
 *Một vấn đề ngôn ngữ*
 
@@ -105,8 +101,6 @@ Hai vị ngôn sứ Hôsê và Êdêkien đã đặc biệt diễn tả đam mê
 
 **NHƯ LÀ MỘT “CỘNG ĐOÀN CỦA TÌNH YÊU”**
 
-** **
-
 *Hoạt động bác ái của Hội Thánh như cách thể hiện tình yêu mang đặc tính Chúa Ba Ngôi*
 
 19\. Thánh Augustinô viết:  *“Nếu anh thấy tình yêu, anh thấy Ba Ngôi cực thánh”* [^11]. Trong những suy tư trên dây, chúng ta đã hướng cái nhìn của chúng ta vào cạnh sườn được khai mở của Đức Giêsu, nhìn vào Đấng  *“họ đã đâm thâu” *(x. Ga 19,37; Dcr 12,10) và qua đó chúng ta có thể nhận ra kế hoạch của Chúa Cha, Đấng vì yêu (x. Ga 3,16) đã sai Con yêu dấu của mình đi vào trần gian, để cứu độ nhân loại. Trong cái chết trên thập tự, như thánh sử Gioan nhấn mạnh, Đức Giêsu đã  *“trao ban thần khí” *(x. Ga 19,30) — khởi đầu cho quà tặng là Chúa Thánh Thần mà Người sẽ ban sau khi Phục Sinh (x Ga 20,22). Như thế lời hứa về  *“những dòng nước hằng sống” *được ứng nghiệm, những dòng nước nhờ việc tuôn đổ Thánh Thần sẽ tuôn chảy từ nội tâm của các tín hữu (x. Ga 7,38-39). Chúa Thánh Thần là sức mạnh bên trong làm hòa nhịp trái tim của họ với trái tim của Đức Kitô và thúc đẩy họ * *yêu thương anh em mình như chính Đức Kitô đã yêu họ *, *khi Người cúi xuống để rửa chân cho các môn đệ (x. Ga 13,1-13) và đặc biệt khi Người hiến dâng mạng sống của mình cho tất cả (x. Ga 13,1 ; 15,1a).
@@ -128,8 +122,6 @@ Thánh Thần cũng là một sức mạnh chuyển đổi trái tim Cộng đo�
 21\. Về điểm này, chúng ta nắm vững hai nhận thức căn bản từ những suy luận của chúng ta:
 
 *a*) Bản chất Hội Thánh được thể hiện qua một trách nhiệm có ba mặt: rao giảng Lời Chúa  *(kerygma-martyria) *cử hành các Bí tích  *(leiturgia), *phục vụ bác ái  *(diakonia). *Đó là những trách nhiệm lệ thuộc vào nhau và không thể tách rời nhau được. Việc phục vụ bác ái đối với Hội Thánh không phải là một cách thức hoạt động trợ giúp có thể giao cho người khác, nhưng nó thuộc về bản chất của Hội Thánh, là một biểu lộ bản chất không thể từ bỏ được [^17].
-
-* *
 
 *b*) Hội Thánh là gia đình của Thiên Chúa giữa trần gian. Trong gia đình, không được phép có những người túng thiếu. Đồng thời *caritas-agape *phải vượt qua ranh giới của Hội Thánh: dụ ngôn người Samaritanô nhân hậu vẫn phải là tiêu chuẩn, đòi buộc tính phổ quát của tình yêu, một tình yêu luôn hướng đến những người túng quẫn mà chúng ta *“tình cờ”* gặp gỡ (x. Lc 10,31), dù họ là ai đi nữa. Có một mệnh lệnh đặc biệt trong Hội Thánh không làm giảm đi tính phổ quát của giới răn tình yêu này — đó là, trong Hội Thánh như là một gia đình, không được phép để một ai phải túng quẫn. Những lời trích từ Thư gởi giáo đoàn Galát cũng nằm trong ý nghĩa này: *“Vậy bao lâu còn thời giờ, chúng ta hãy làm điều thiện cho mọi người, nhất là cho những anh em trong đại gia đình đức tin” *(Gl 6,10).
 
@@ -217,8 +209,6 @@ Xin dạy chúng con biết Người và yêu mến Người,
 Để tất cả chúng con cũng có thể trở thành những người yêu đích thực  
 Và thờ thành nguồn mạch của Nước hằng sống  
 Giữa một thế giới đang khát nước. 
-
-* *
 
 *Ban hành tại Rôma, tại Đền Thánh Phêrô*, *ngày 25.12.2005, *vào *Đại lễ Sinh nhật của Chúa, năm đầu triều đại Giáo hoàng của tôi.*
 

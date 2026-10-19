@@ -1,9 +1,5 @@
 # PROHLÁŠENÍ O „TAJNÉ CÍRKVI“
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PROHLÁŠENÍ KONGREGACE PRO NAUKU VÍRY O „TAJNÉ CÍRKVI“
 
 KONGREGACE PRO NAUKU VÍRY
@@ -66,5 +62,3 @@ kard. Joseph Ratzinger
 *sekretář*
 
 *Kongregace pro nauku víry*
-
-[](#top)

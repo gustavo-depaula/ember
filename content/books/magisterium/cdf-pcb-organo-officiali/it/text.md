@@ -1,9 +1,5 @@
 # L'organo ufficiale della Pontificia Commissione Biblica - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **L'ORGANO UFFICIALE DELLA PONTIFICIA COMMISSIONE BIBLICA**
@@ -14,5 +10,3 @@ Essendo per espressa volontà del nostro santo padre Pio PP. X gli *Acta Apostol
 
 Fulcrano Vigoroux, P.S.S.  
 Lorenzo Janssens, O.S.B. *Segretari consultori*
-
-[](#top)

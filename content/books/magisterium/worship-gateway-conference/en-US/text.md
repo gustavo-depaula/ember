@@ -1,9 +1,5 @@
 # Keynote Address by Card. Arinze at the Gateway Liturgical Conference
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 GATEWAY LITURGICAL CONFERENCE
 
 ***ADDRESS OF HIS EMINENCE CARDINAL FRANCIS ARINZE***
@@ -172,5 +168,3 @@ All those responsible for vernacular translations should strive to provide the v
 Language is not everything. But it is one of most important elements that need attention for good and faith-filled liturgical celebrations.
 
 It is an honour for us to be allowed to become part of the voice of the Church in her public prayer. May the Most Blessed Virgin Mary, Mother of the Word made flesh whose mysteries we celebrate in the sacred liturgy, obtain for all of us the grace to do our part to join in singing the praises of the Lord both in Latin and in the vernacular.
-
-[](#top)

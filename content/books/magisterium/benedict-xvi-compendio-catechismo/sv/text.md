@@ -4,8 +4,6 @@
 
 **för godkännande och utgivning Katolska Kyrkans lilla katekes**
 
-** **
-
 *Till mina vördnadsvärda bröder kardinalerna, patriarkerna, ärkebiskoparna, biskoparna, prästerna och diakonerna samt  till alla medlemmar av Guds folk** ***
 
 För tjugo år sedan påbörjades arbetet med *Katolska Kyrkans Katekes,* som den extraordinarie biskopssynoden hade begärt, vilken samlats med anledning av att det gått tjugo år sedan det ekumeniska Andra Vatikankonciliet avslutats.

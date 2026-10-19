@@ -1,16 +1,10 @@
 # Decree granting a special faculty for the celebration of the Conversion of St Paul
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 CONGREGATION FOR DIVINE WORSHIP AND THE DISCIPLINE OF THE SACRAMENTS
 
 ***DECREE***
 
 ***granting a special faculty for the celebration of the Conversion of St Paul, Apostle in the Jubilee Year bimillennium of his birth***
-
-*** ***
 
 The Apostle St Paul, who proclaimed the truth of Christ to the entire world and, after having been his persecutor, employed all means to announce the Good News to the peoples, committing himself with zeal for the unity and harmony of all Christians, has always been and is still now venerated by the faithful, especially in this particular Year, bimillennium of his birth, that the Supreme Pontiff Benedict XVI has willed to institute it as a special Jubilee Year.
 
@@ -25,5 +19,3 @@ Notwithstanding anything to the contrary.
 *Prefect*
 
 **Archbishop Albert Malcolm Ranjith** *Secretary*
-
-[](#top)

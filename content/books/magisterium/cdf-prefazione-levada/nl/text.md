@@ -1,9 +1,5 @@
 # Normen voor de procedure ter beoordeling van vermeende verschijningen en openbaringen - VOORWOORD
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 CONGREGATIE VOOR DE GELOOFSLEER
 
 **Normen voor de procedure ter beoordeling van vermeende verschijningen en openbaringen**
@@ -27,7 +23,5 @@ In het licht van het bovenstaande merkt de Heilige Vader, Benedictus XVI, het vo
 *Vaticaanstad, 14 december 2011, gedachtenis van de heilige Johannes van het Kruis.*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: postsynodale apostolische exhortatie, Verbum Domini, over het Woord van God in het leven en de zending van de Kerk, 30 septem­ber 2010, n. 14: AAS 102 (2010) 695-696. Zie ook de passages van de Catechismus van de Katholieke Kerk die gewijd zijn aan dit onderwerp (nn. 66-67).

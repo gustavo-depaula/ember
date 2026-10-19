@@ -4,10 +4,6 @@
 
 Instruction on respect for human life
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***INSTRUCTION ON RESPECT FOR HUMAN LIFE IN ITS ORIGIN AND ON THE DIGNITY OF PROCREATION REPLIES TO CERTAIN QUESTIONS OF THE DAY***
@@ -341,5 +337,3 @@ Given at Rome, from the Congregation for the Doctrine of the Faith, February 22,
 \(59\) POPE JOHN PAUL II, Apostolic Exhortation *Familiaris Consortio*, 14: AAS 74 (1982) 97.
 
 \(60\) Cf. Declaration *Dignitatis Humanae*, 7.
-
-[](#top)

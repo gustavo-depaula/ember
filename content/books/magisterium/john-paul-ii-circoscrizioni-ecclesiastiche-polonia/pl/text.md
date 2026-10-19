@@ -2,8 +2,6 @@
 
 ***List do Kościoła w Polsce   w zwiazku z ustanowieniem nowej  organizacji kościelnej.***
 
-***  ***
-
 *Na ręce Episkopatu  pod przewodnictwem  Ks. Kardynała Józefa Glempa  Przewodniczacego Konferencji  Biskupów  i Prymasa Polski*
 
 1\. “Polonia cepit habere episcopum” – takie słowa znajdujemy w najstarszych zapisach, pod rokiem 968. W dwa lata po Chrzcie przyjętym przez Mieszka z rodu Piastów, pierwszego historycznego władcę, Polska otrzymała po raz pierwszy biskupa. Był to zapewne biskup misyjny imieniem Jordan, siedzibą jego był prawdopodobnie Poznań, a zasięg biskupiej posługi szedł w parze z postępem ewangelizacji piastowskiej dziedziny.

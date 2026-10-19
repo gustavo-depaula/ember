@@ -1,15 +1,5 @@
 # Carta do Santo Padre ao Prefeito da Congregação para a Doutrina da Fé sobre o acesso das mulheres aos ministérios do leitorado e do acolitado
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CARTA DO PAPA FRANCISCO  AO PERFEITO DA CONGREGAÇÃO PARA A DOUTRINA DA FÉ SOBRE O ACESSO DAS MULHERES AOS MINISTÉRIOS  DO LEITORADO E DO ACOLITADO**

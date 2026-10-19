@@ -1,9 +1,5 @@
 # Note of the Congregation for the Doctrine of the Faith on the banalization of sexuality regarding certain interpretations of Light of the World
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Note on the banalization of sexuality Regarding certain interpretations of "Light of the World"***
@@ -20,6 +16,4 @@ In this regard, it must be noted that the situation created by the spread of AID
 
 Some commentators have interpreted the words of Benedict XVI according to the so-called theory of the "lesser evil". This theory is, however, susceptible to proportionalistic misinterpretation (cf. John Paul II, Encyclical Letter [*Veritatis splendor*, n. 75-77](/edocs/ENG0222/__P8.HTM)). An action which is objectively evil, even if a lesser evil, can never be licitly willed. The Holy Father did not say – as some people have claimed – that prostitution with the use of a condom can be chosen as a lesser evil. The Church teaches that prostitution is immoral and should be shunned. However, those involved in prostitution who are HIV positive and who seek to diminish the risk of contagion by the use of a condom may be taking the first step in respecting the life of another – even if the evil of prostitution remains in all its gravity. This understanding is in full conformity with the moral theological tradition of the Church.
 
-In conclusion, in the battle against AIDS, the Catholic faithful and the agencies of the Catholic Church should be close to those affected, should care for the sick and should encourage all people to live abstinence before and fidelity within marriage. In this regard it is also important to condemn any behaviour which cheapens sexuality because, as the Pope says, such behaviour is the reason why so many people no longer see in sexuality an expression of their love: "This is why the fight against the banalization of sexuality is also part of the struggle to ensure that sexuality is treated as a positive value and to enable it to have a positive effect on the whole of man’s being" (*Light of the World*, p. 119).  
-
-[](#top)
+In conclusion, in the battle against AIDS, the Catholic faithful and the agencies of the Catholic Church should be close to those affected, should care for the sick and should encourage all people to live abstinence before and fidelity within marriage. In this regard it is also important to condemn any behaviour which cheapens sexuality because, as the Pope says, such behaviour is the reason why so many people no longer see in sexuality an expression of their love: "This is why the fight against the banalization of sexuality is also part of the struggle to ensure that sexuality is treated as a positive value and to enable it to have a positive effect on the whole of man’s being" (*Light of the World*, p. 119).

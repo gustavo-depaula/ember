@@ -1,9 +1,5 @@
 # Nota com indicações pastorais para o Ano da Fé, 6 janeiro 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***Nota com indicações pastorais para o Ano da Fé***
@@ -137,8 +133,6 @@ A fé “é companheira de vida, que permite perceber, com um olhar sempre novo,
 *Arcebispo titular de Thibica Secretário*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Bento XVI, Carta Enc. *[Deus caritas est](/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_po.html)*, 25 de dezembro de 2005, n. 1.
 

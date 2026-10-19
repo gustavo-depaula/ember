@@ -1,9 +1,5 @@
 # Explanatory Note on the Notification on the works of Fr. Jon Sobrino, SJ
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH  
 
 ***EXPLANATORY NOTE on the NOTIFICATION on the works of Father Jon SOBRINO, SJ***
@@ -33,8 +29,6 @@ In this regard, the Congregation for the Doctrine of the faith wrote: “a theol
 It is hoped that this *Notification* will offer to both the pastors and to the faithful of the Church a secure basis, founded upon the doctrine of the Church, upon which to judge these questions, which are relevant both for theology and pastoral practice. 
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. John Paul II, Apostolic Constitution *Pastor Bonus*, 48: AAS 80 (1988), 841-934.
 

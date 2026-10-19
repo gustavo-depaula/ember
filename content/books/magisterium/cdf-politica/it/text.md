@@ -1,16 +1,10 @@
 # Nota circa l'impegno dei cattolici nella vita politica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***NOTA DOTTRINALE*** **circa alcune questioni riguardanti  l'impegno e il comportamento dei cattolici nella vita politica **
 
 > *La Congregazione per la Dottrina della Fede, sentito anche il parere del Pontificio Consiglio per i Laici, ha ritenuto opportuno pubblicare la presente “Nota dottrinale circa alcune questioni riguardanti l'impegno e il comportamento dei cattolici nella vita politica”. La Nota è indirizzata ai Vescovi della Chiesa Cattolica e, in special modo, ai politici cattolici e a tutti i fedeli laici chiamati alla partecipazione della vita pubblica e politica nelle società democratiche. *
-
-*  *
 
 **I. *Un insegnamento costante***  **           **
 
@@ -78,8 +72,6 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, il 24 novembre 
 Arcivescovo emerito di Vercelli *Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: [](#_ftnref1) LETTERA A DIOGNETO, 5, 5. Cfr. anche *Catechismo della Chiesa Cattolica*, n. 2240.
 

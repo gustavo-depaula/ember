@@ -1,9 +1,5 @@
 # L'eresia della violenza "in nome di Dio" - P. Serge-Thomas Bonino, O.P.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **L’ERESIA DELLA VIOLENZA “IN NOME DI DIO”**
 
 (Serge-Thomas Bonino, O.P. Segretario generale della CTI)
@@ -25,5 +21,3 @@ Nel dibattito su monoteismo e violenza, il documento ha fatto attenzione a evita
 Una seconda facile soluzione apologetica sarebbe stata quella di dissociare la fede cristiana dalla religione: sì, concediamo che la religione sia fattore di violenza, ma precisiamo subito che il cristianesimo non deriva dalla religione ma dalla fede. Al contrario, il documento insiste sul valore intrinseco dell’esperienza religiosa in quanto tale. Come la grazia non distrugge la natura ma la guarisce e la porta al suo compimento, così la fede cristiana assume la dimensione religiosa della condizione umana. La purifica riconducendola alla sua essenza autentica, la quale unisce inseparabilmente amore di Dio e amore del prossimo, di modo che ogni violenza in nome di Dio sia “una *corruzione* dell’esperienza religiosa” ([n. 95](/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_monoteismo-cristiano_it.html#95)).
 
 Questo punto è fondamentale per il dialogo interreligioso. I teologi cattolici che hanno redatto questo documento non hanno voluto parlare a nome dei credenti delle altre religioni monoteiste, ma li invitano a intraprendere un analogo percorso di purificazione all’interno delle proprie tradizioni. Nella misura in cui queste sono l’espressione di una religione autentica, non possono che rifiutare la violenza religiosa. Non è significativo che il beato [Giovanni Paolo II](/holy_father/john_paul_ii/index_it.htm) abbia posto l’[incontro interreligioso di Assisi del 1986](/holy_father/john_paul_ii/speeches/1986/october/documents/hf_jp-ii_spe_19861027_prayer-peace-assisi_it.html) sotto il segno della pace? Lungi dall’essere fattori di divisione, le religioni, quando sono fedeli alla loro essenza e senza rinnegare nulla del loro senso dell’assoluto, sono fermenti di pace. Ecco perché sarebbe un suicidio tenerle separate dalla vita sociale e politica.
-
-[](#top)

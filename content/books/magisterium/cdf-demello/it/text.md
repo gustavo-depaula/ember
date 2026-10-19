@@ -1,9 +1,5 @@
 # Notificazione sugli scritti del P. Anthony de Mello, S.I. - Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **NOTIFICAZIONE SUGLI SCRITTI DEL P. ANTHONY DE MELLO, S.I.**
@@ -25,5 +21,3 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, 24 giugno 1998,
 **Joseph Card. Ratzinger** * Prefetto*
 
 **+Tarcisio Bertone, S.D.B.** Arcivescovo emerito di Vercelli *Segretario*
-
-[](#top)

@@ -1,13 +1,5 @@
 # Epistula ad Episcopum Clevelandensum circa dubia proposita de foetus vel membrorum corporis humani crematione
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
@@ -17,7 +9,7 @@ SACRA CONGREGATIO PRO DOCTRINA FIDEI
 Litteris die 16 novembris anni 1966 datis, Reverendus N.N., cappellanus nosocomii sic dicti “Evangelical Deacones Hospital”, in ista civitate, huic Sacrae Congregationi dua dubia proposuit quorum solutionem exquirit.
 
 > a\) An catholicis licitum sit propria sua voluntate mandare, ut sua aliorumve membra amputata et notabiles partes recisae igne comburantur, etiam extra casus adjuncta, in quibus incineratio ex rationibus medicis set socialibus imponitur.
->
+
 > b\) Foetus anta exactam 17 hebdomadam gestationis, ex quibus multi baptizantur, et notabiles partes humani corporis raro sepeliuntur, sed cremationi tradi solent.
 
 Estne haec praxis intrinsece reprobanda, juxta principia fundamentalia moralitatis?

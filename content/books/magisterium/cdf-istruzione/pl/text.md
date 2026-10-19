@@ -1,9 +1,5 @@
 # INSTRUKCJA NA TEMAT MODLITW W CELU OSIĄGNIĘCIA UZDROWIENIA POCHODZĄCEGO OD BOGA
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY
 
 **INSTRUKCJA NA TEMAT MODLITW W CELU OSIĄGNIĘCIA UZDROWIENIA** **POCHODZĄCEGO OD BOGA**
@@ -193,5 +189,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 14 września 2000 r. w Święto Podwy
 \[32\] Por. *De Exorcismis et Supplicationibus ąuibusdam*, Praenotanda, 13-19, Editio Typica, Typis Vaticanis MIM.
 
 \* *L’Osservatore Romano*, 24 listopada 2000, s. 6.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Observações sobre o documento da ARCIC II «A salvação e a Igreja», 18 de novembro de 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ** *OBSERVAÇÕES SOBRE O DOCUMENTO DA ARCIC II: «A SALVAÇÃO E A IGREJA»****\**
@@ -51,5 +47,3 @@ As divergências que, à luz deste documento, permanecem ainda entre a Igreja ca
 A visão da Igreja como sacramento da salvação e a dimensão propriamente sacramental da justificação e da santificação do “dom” continuam muito vagas e fracas, para que seja permitido afirmar que a ARCIC-II chegou a um acordo substancial.
 
 \* *L’Osservatore Romano*, Edição semanal, 27 de Novembro de 1988, Pág. 12 (652).
-
-[](#top)

@@ -1,9 +1,5 @@
 # 40th anniversary of Gaudium et Spes - Homily of Card. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 40th ANNIVERSARY OF GAUDIUM ET SPES
 
 ***HOMILY OF CARD. JOSEPH RATZINGER***
@@ -46,5 +42,3 @@ In the Easter Vigil, the light of God's justice banishes the darkness of sin and
 And we who have been baptized, as children of a world which is still to come, in the liturgy of the Easter Vigil, catch a glimpse of that world and breathe the atmosphere of that world, where God's justice will dwell for ever.
 
 And then, renewed and transformed by the Mysteries we celebrate, we can walk in this world justly, living - as the Preface for Lent says so beautifully - "in this passing world with our heart set on the world that will never end" (*Preface for Lent II*).
-
-[](#top)

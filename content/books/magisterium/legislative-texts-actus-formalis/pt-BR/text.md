@@ -1,9 +1,5 @@
 # Actus formalis defectionis ab Ecclesia catholica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PONTIFÍCIO CONSELHO PARA OS TEXTOS LEGISLATIVOS**
 
 ***ACTUS FORMALIS DEFECTIONIS AB ECCLESIA CATHOLICA***
@@ -57,5 +53,3 @@ dev.^(mo) *in Domino*
 ------------------------------------------------------------------------
 
 *A presente comunicação foi aprovada pelo Sumo Pontífice, Bento XVI, que dispôs a sua notificação aos Em.^(mos) e Ex.^(mos) Presidentes de todas as Conferências Episcopais.*
-
-[](#top)

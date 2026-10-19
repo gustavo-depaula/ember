@@ -1,10 +1,6 @@
 # Las catorce encíclicas de Juan Pablo II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGRESO "JUAN PABLO II: 25 AÑOS DE PONTIFICADO.  
+CONGRESO "JUAN PABLO II: 25 AÑOS DE PONTIFICADO.  
 LA IGLESIA AL SERVICIO DEL HOMBRE"  
 PONTIFICIA UNIVERSIDAD LATERANENSE  
 (ROMA, 8-10 DE MAYO)  
@@ -79,5 +75,3 @@ Se podría decir que el Papa, de un modo nuevo, apela a una razón que se ha hec
 Una vez más, se ve que la fe defiende al hombre en su realidad de ser humano. Josef Pieper expresó una vez este pensamiento:  "En la época final de la historia, bajo el señorío de la sofística y de una pseudofilosofía corrupta, la verdadera filosofía se podrá unir en la unidad primordial con la teología" y afirmó que así, al final de la historia, "la raíz de todas las cosas y el sentido último de la existencia -que quiere decir:  el objeto específico de la filosofía- será visto y considerado sólo por los que creen".  
 
 Ahora bien, nosotros no estamos, en la medida en que se puede saber, al final de la historia. Pero corremos el peligro de negar a la razón su auténtica grandeza. Y el Papa considera, con razón, que la fe está llamada a impulsar a la razón a tener nuevamente la valentía de la verdad. Sin la razón, la fe fracasa; sin la fe, la razón corre el riesgo de atrofiarse. Está en juego el hombre. Pero, para que el hombre sea redimido, hace falta el Redentor. Necesitamos a Cristo, hombre, que es hombre y Dios, "sin confusión ni división" en una única persona, *[Redemptor hominis](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis_sp.html)*.
-
-[](#top)

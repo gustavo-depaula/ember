@@ -1,9 +1,5 @@
 # Nota Esplicativa relativa alla notificazione sulle opere del P. Jon Sobrino S.I.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE 
 
 ***NOTA ESPLICATIVA***  
@@ -34,8 +30,6 @@ A tal proposito, la Congregazione per la Dottrina della Fede già scriveva: “U
 Con questa *Notificazione* si intende perciò offrire ai pastori ed ai fedeli un criterio sicuro, radicato nella dottrina della Chiesa, per valutare correttamente le suddette questioni, assai rilevanti sia sotto il profilo teologico che pastorale.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Giovanni Paolo II, Cost. Apost. *Pastor bonus*, 48: AAS 80 (1988), 841-934.
 

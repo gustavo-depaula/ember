@@ -1,9 +1,5 @@
 # O Leigo católico testemunha da fé na Escola, 15 de outubro de 1982
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A EDUCAÇÃO CATÓLICA
 
 ***O LEIGO CATÓLICO TESTEMUNHA DA FÉ NA ESCOLA***
@@ -300,8 +296,6 @@ A ESCOLA CATÓLICA E OS LEIGOS
 ------------------------------------------------------------------------
 
 **NOTAS**
-
-[](#top)
 
 [^1]: Conc. Vat. II, Const. Dogm. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html)*, n. 31: "Por leigos entendem-se aqui todos os fiéis, com exceção daqueles que receberam uma ordem sagrada ou abraçaram o estado religioso aprovado pela Igreja".
 

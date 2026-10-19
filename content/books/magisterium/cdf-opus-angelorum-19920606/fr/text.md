@@ -1,9 +1,5 @@
 # Décret sur l'examen des doctrines de l'association «Opus Angelorum», 6 juin 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR** **LA DOCTRINE DE** **LA FOI**
 
 **DÉCRET SUR L'EXAMEN DES DOCTRINES DE L'ASSOCIATION "OPUS ANGELORUM"**\*
@@ -55,5 +51,3 @@ Rome, au Siège de la Congrégation pour la Doctrine de la Foi , le 6 juin l992.
 \* *AAS* 84 (1992) 805-806.
 
 \(1\) Cf. Benoît XIV, *Doctrina de Beatificatione Servorum Dei et de Canonizatione Beatorum*, lib. IV, Pars II, cap. XXX, *De Angeli set eorum cultu*, Venetiis 1777.
-
-[](#top)

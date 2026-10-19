@@ -1,9 +1,5 @@
 # Responses to questions proposed on the validity of Baptism
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 RESPONSES TO QUESTIONS PROPOSED
@@ -32,5 +28,3 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, Februa
 
 ** Angelo Amato, S.D.B.**  
 Titular Archbishop of Sila *Secretary*
-
-[](#top)

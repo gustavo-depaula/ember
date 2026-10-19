@@ -1,9 +1,5 @@
 # La «Résurrection de la Chair» dans le Symbole des Apôtres, 14 décembre 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **LA «RÉSURRECTION DE LA CHAIR» DANS LE SYMBOLE DES APÔTRES**
@@ -55,5 +51,3 @@ CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 \- «Die Auferstehung der Toten» (*Missel pour les diocèses de langue allemande*, 1974, l^(re) partie, p. 119);
 
 \- «La resurreccion de los muertos» (*Livre du Secrétariat national de liturgie*, Madrid 1983, p. 394).
-
-[](#top)

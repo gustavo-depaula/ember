@@ -1,9 +1,5 @@
 # Reflections on Objectives and Methods of the Commission
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **INTERNATIONAL THEOLOGICAL COMMISSION**
 
 **REFLECTIONS ON OBJECTIVES AND METHODS OF THE COMMISSION**
@@ -37,15 +33,13 @@ The methodological norms to be applied in the future work of the Commission were
 At present, from among the subjects that the Commission offered to study, the four following questions have been chosen:
 
 > 1\. the unity of the Faith,
->
+
 > 2\. the priesthood,
->
+
 > 3\. the theology of hope: the Christian Faith and the future of humanity,
->
+
 > 4\. the criteria for Christian moral conscience.
 
 Four subcommissions were formed to study these themes. It is up to each group to decide precisely on its particular theme.
 
 Other themes will be dealt with later.
-
-[](#top)

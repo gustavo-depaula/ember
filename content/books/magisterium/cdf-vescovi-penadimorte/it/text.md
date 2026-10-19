@@ -1,15 +1,5 @@
 # Lettera ai Vescovi circa la nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte a cura della Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE

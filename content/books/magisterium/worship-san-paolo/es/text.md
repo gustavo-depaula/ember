@@ -1,9 +1,5 @@
 # Decreto para la celebración de la Conversión de San Pablo apóstol
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA EL CULTO DIVINO Y LA DISCIPLINA DE LOS SACRAMENTOS
 
 **Decreto**
@@ -24,7 +20,3 @@ No obstante cualquier disposición contraria.
 *Prefecto*
 
 **Mons. Albert Malcolm RANJITH** *Arzobispo secretario*
-
-* *
-
-[](#top)

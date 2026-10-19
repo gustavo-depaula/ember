@@ -1,9 +1,5 @@
 # Decree of Excommunication
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***Decree of Excommunication***\*
@@ -31,5 +27,3 @@ In having to take this action, the Congregation trusts that, by the grace of the
 “*On 5 August the Congregation for the Doctrine of the Faith published the Decree of Excommunication of the seven women who took part in an invalid ordination ceremony in Austria on Saturday, 29 June.*
 
 *The ceremony which took place on a boat on the Danube River in Austria, was performed by Romulo Antonio Braschi, an Argentinian priest, who broke with the Catholic Church in 1998, and was ordained a Bishop in the Schismatic Catholic Apostolic Church of Brazil. That group broke away from the Holy See in 1945. The seven women, from Germany, Austria and the United States are: Christine Mayr-Lumetzberger, Adelinde Theresia Roitinger, Gisela Forster, Iris Müller, Ida Raming, Pia Brunner and Angela White. The women were given time to repent and renounce their ordination, but the Congregation for the Doctrine of the Faith noted that they have given no sign of repentance*”.
-
-[](#top)

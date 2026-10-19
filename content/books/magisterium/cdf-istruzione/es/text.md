@@ -1,9 +1,5 @@
 # Instrucción sobre las oraciones para obtener de Dios la curación - Cong. para la Doctrina de la Fe
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***INSTRUCCIÓN SOBRE LAS ORACIONES PARA OBTENER DE DIOS LA CURACIÓN***
@@ -194,5 +190,3 @@ Arzobispo emérito de Vercelli
 \(31\) Congregatio Pro Doctrina Fidei, Epistula *Inde ab aliquot annis*, Ordinariis locorum missa: in mentem normae vigentes de exorcismis revocatur, 29 septembris 1985, in AAS 77(1985), pp. 1169-1170.
 
 \(32\) Cf. *Rituale Romanum*, Ex Decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum, Auctoritate Ioannis Pauli PP. VI promulgatum, *De exorcismis et supplicationibus quibusdam,* Edtio tyipica, Typis Polyglottis Vaticanis, MIM, *Praenotanda*, nn. 13-19.
-
-[](#top)

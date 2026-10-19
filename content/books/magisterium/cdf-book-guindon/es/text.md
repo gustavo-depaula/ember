@@ -1,9 +1,5 @@
 # Nota sobre el libro del P. André Guindon, OMI, The Sexual Creators, 31 enero 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTA SOBRE EL LIBRO DEL P. ANDRÉ GUINDON, OMI, «THE SEXUAL CREATORS. AN ETHICAL PROPOSAL FOR CONCERNED CHRISTIANS» (University Press of America, Lanham-Nueva York-Londres 1986)**
@@ -97,5 +93,3 @@ Por el bien espiritual de los fieles, la Congregación para la Doctrina de la Fe
 La Congregación pide además que el autor confirme y explique públicamente el significado de tres importantes declaraciones hechas privadamente en su carta al superior general (15 de agosto de 1990), en concreto: 1) que al escribir *The Sexual Creators* ha buscado ser fiel al patrimonio de la Tradición católica en materia de moral sexual; 2) que en ninguna parte del libro quiso negar la autoridad del Magisterio en ética católica; 3) que no contradice la constante enseñanza de la Iglesia, recientemente reafirmada en *[Persona humana](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_sp.html)*, según la cual el uso de la función sexual tiene su ámbito legítimo únicamente dentro de un verdadero matrimonio.
 
 La Congregación pide también que el P. Guindon resuelva en una declaración pública la contradicción, indicada en esta *Nota*, entre las anteriores afirmaciones hechas a su superior general y el texto *The Sexual Creators*, desarrollando su pensamiento de forma más coherente, para disipar así las incongruencias presentes en su libro (como por ejemplo una utilización selectiva e inconstante de la Tradición y del Magisterio) y reconocer a la doctrina del Magisterio el puesto y la autoridad que le competen.
-
-[](#top)

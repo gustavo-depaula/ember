@@ -1,23 +1,11 @@
 # Lettre \<i>Placuit Deo\</i> aux Évêques de l’Église catholique sur certains aspects du salut chrétien
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 Lettre ***Placuit Deo*** aux Évêques de l’Église catholique  
 sur certains aspects du salut chrétien
-
-** **
 
 **I. Introduction**
 

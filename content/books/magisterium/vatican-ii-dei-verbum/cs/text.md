@@ -1,15 +1,5 @@
 # Dei verbum
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Věroučná konstituce o Božím zjevení**
@@ -86,8 +76,6 @@ Je tedy zřejmé, že posvátná tradice, Písmo svaté a učitelský úřad cí
 
 **BOŽSKÁ INSPIRACE A VÝKLAD PÍSMA SVATÉHO**
 
-** **
-
 **BOŽSKÁ INSPIRACE A PRAVDIVOST PÍSMA SVATÉHO**
 
 **11** Co bylo Bohem zjeveno a je v Písmě svatém obsaženo a vyjádřeno, bylo zaznamenáno z vnuknutí Ducha svatého. Svatá matka církev totiž považuje podle apoštolské víry všechny knihy jak Starého, tak Nového zákona se všemi jejich částmi za posvátné a kanonické, protože jejich původcem je Bůh, neboť byly sepsány z vnuknutí Ducha svatého (srov. Jan 20,31; 2 Tim 3,16; 2 Petr 1,19-21; 3,15-16), a jako takové byly církvi předány. (1)((1/Srov. 1. vat. koncil, Věrouč. konst. o katolické víře Dei Filius, kap. 2: Denz. 1787 (3006). Papež. bibl. komise, dekret 18.6.1915: Denz. 2180 (3629); EB 420. S. S. C. S. Officii, Epist. 22.12.1923: EB 499.)) K sepsání posvátných knih si však Bůh vybral lidi a použil jich s jejich schopnostmi a silami, (2)((2/Srov. Pius XII., enc. Divino afflante, 30.9.1943: AAS 35 (1943), 314; EB 556.)) působil v nich a skrze ně, (3)((3/*V* člověku a *skrze* člověka: srov. Žid 1,1 a 4,7 (*v*): 2 Sam 23,2; Mt 1,22 a jinde (*skrze*); 1. vat. koncil, Schéma o katolické nauce, pozn. 9: Coll. Lac. VII, 552.)) aby jako praví autoři zapsali všechno to a pouze to, co on chtěl. (4)((4/Lev XIII., enc. Providentissimus Deus, 18.11.1893: Denz. 1952 (3293); EB 125.)) 
@@ -113,8 +101,6 @@ Protože však se má Písmo svaté číst a vykládat v témž Duchu, ve které
 **KAPITOLA 4**
 
 **STARÝ ZÁKON**
-
-** **
 
 **DĚJINY SPÁSY V KNIHÁCH STARÉHO ZÁKONA**
 

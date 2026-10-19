@@ -50,7 +50,7 @@ PREMIER CHAPITRE
 > où la torture a vécu,  
 > et vastes les forêts  
 > achetées au milieu de mille morts ».[^3]
->
+
 > « Les bûcherons possèdent des parlementaires  
 > et notre Amazonie, personne ne la défend \[...\].  
 > Les perroquets et les singes sont exilés \[...\]  
@@ -127,7 +127,7 @@ DEUXIEME CHAPITRE
 > « Il était une fois un paysage qui se dévoilait avec son fleuve, ses animaux, ses nuages et ses arbres.  
 > Mais parfois, quand on ne voyait nulle part le paysage avec son fleuve et ses arbres,  
 > il fallait que les choses sortent de l’imagination d'un garçon ».[^33]
->
+
 > « De la rivière, fais ton sang \[...\]  
 > Ensuite, plante-toi,  
 > germe et croîs.  

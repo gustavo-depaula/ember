@@ -1,9 +1,5 @@
 # De experimentis ad Prolytatum - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE EXPERIMENTIS AD PROLYTATUM**
@@ -17,5 +13,3 @@ Superatis vero ceteris experimentis programmatis (ibid., nn. 352, 353, 354, 357 
 *Quod responsum Ss.mus D.N. Pius Pp. XII, in audientia die 6 Iulii an. 1942 infrascripto Rev.mo Consultori ab Actis benigne concessa, ratum habuit et publici iuris fieri mandavit.*
 
 Iacobus M. Vosté, O.P. *Consultor ab Actis.*
-
-[](#top)

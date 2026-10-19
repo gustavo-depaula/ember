@@ -1,9 +1,5 @@
 # Aos Bispos da Igreja Católica acerca alguns aspectos da meditação cristã, 15 de outubro de 1989
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA AOS BISPOS DA IGREJA CATÓLICA ACERCA DE ALGUNS ASPECTOS DA MEDITAÇÃO CRISTÃ([\*](#*))***
@@ -209,5 +205,3 @@ Secretário
 35\. Cfr. Santa Teresa de Jesus, *Castillo interior* VII, 4, 6.
 
 36\. Santo Agostinho, *Enarrationes in Psalmos* CXLII, 6: PL 37, 1849. Consulte-se também: Santo Agostinho, *Tract. in Joh.* IV, 9: PL 35, 1410: « Quando autem nec ad hoc dignum se dicit, vere plenus Spiritu Sancto erat, qui sic servus Dominum agnovit, et ex servo amicus fieri meruit ».
-
-[](#top)

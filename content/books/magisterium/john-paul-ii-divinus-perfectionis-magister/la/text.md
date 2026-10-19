@@ -37,17 +37,17 @@ In posterum, igitur, abrogatis ad rem quod attinet omnibus legibus cuiusvis gene
 2\) In huiusmodi inquisitionibus Episcopus iuxta peculiares Normas a Sacra Congregatione pro Causis Sanctorum edendas procedat, hoc quidem ordine:
 
 > 1° A postulatore causae, legitime ab actore nominato, accuratam informationem de Servi Dei vita exquirat, simulque ab eo edoceatur de rationibus quae causae canonizationis promovendae favere videantur.
->
+
 > 2° Si Servus Dei scripta a se exarata publice edidit, Episcopus curet ut eadem a censoribus theologis examinentur.
->
+
 > 3° Si nihil contra fidem bonosque mores in iisdem scriptis repertum fuerit, tunc Episcopus alia scripta inedita (epistulas, diaria etc.) necnon omnia documenta, quoquo modo causam respicientia, perquiri iubeat a personis ad hoc idoneis, quae, postquam munus suum fideliter expleverint, relationem de perquisitionibus factis componant.
->
+
 > 4° Si ex hucusque factis Episcopus prudenter iudicaverit ad ulteriora procedi posse, curet ut testes a postulatore inducti aliique ex officio vocandi rite examinentur.
 
 Si vero urgeat examen testium ne pereant probationes, ipsi interrogandi sunt etiam nondum completa perquisitione documentorum.
 
 > **[5°](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_divinus-perfectionis-magister.html#Ad_art._2,5)** Inquisitio de assertis miraculis ab inquisitione de virtutibus vel de martyrio separatim fiat.
->
+
 > 6° Inquisitionibus peractis, transumptum omnium actorum in duplici exemplari ad Sacram Congregationem mittatur, una cum exemplari librorum Servi Dei a censoribus theologis examinatorum eorumque iudicio.
 
 Episcopus praeterea adiungat declarationem de observantia decretorum Urbani VIII super non cultu.
@@ -63,9 +63,9 @@ Ad eamdem Congregationem spectat decernere de iis omnibus quae ad authenticitate
 4\) Secretarii officium est:
 
 > 1° relationes cum externis, praesertim cum Episcopis qui causas instruunt, curare;
->
+
 > 2° discussiones de merito causae participare, votum ferendo in congregatione Patrum Cardinalium et Episcoporum;
->
+
 > 3° relationem, Summo Pontifici tradendam, de votis Cardinalium et Episcoporum conficere.
 
 5\) In munere suo adimplendo Secretarius adiuvatur a Subsecretario, cui competit praesertim videre utrum legis praescripta in causarum instructione adimpleta fuerint, necnon a congruo numero Officialium minorum.
@@ -75,9 +75,9 @@ Ad eamdem Congregationem spectat decernere de iis omnibus quae ad authenticitate
 7\) Singulorum Relatorum est:
 
 > **[1°](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_divinus-perfectionis-magister.html#Ad_art._7,1)** una cum externis cooperatoribus causis sibi commissis studere atque Positiones super virtutibus vel super martyrio parare;
->
+
 > 2° enodationes historicas, si quae a Consultoribus requisitae fuerint, scriptis exarare;
->
+
 > 3° Congressui theologorum tamquam expertos adesse, sine tamen voto.
 
 8\) Inter Relatores unus aderit specialiter deputatus pro elucubratione Positionum super miraculis, qui intererit Coetui medicorum et Congressui theologorum.
@@ -87,9 +87,9 @@ Ad eamdem Congregationem spectat decernere de iis omnibus quae ad authenticitate
 10\) Apud Sacram Congregationem unus adest Promotor fidei seu Praelatus theologus, cuius est:
 
 > 1° Congressui theologorum praeesse, in quo votum fert;
->
+
 > 2° relationem de ipso Congressu parare;
->
+
 > 3° congregationi Patrum Cardinalium et Episcoporum tamquam expertum adesse, sine tamen voto.
 
 Pro una aliave causa, si opus fuerit, a Cardinali Praefecto nominari poterit Promotor fidei ad casum.
@@ -105,21 +105,21 @@ Pro una aliave causa, si opus fuerit, a Cardinali Praefecto nominari poterit Pro
 13\) Cum omnia acta et documenta causam respicientia Episcopus Romam miserit, in Sacra Congregatione pro Causis Sanctorum hoc modo procedatur:
 
 > 1° Ante omnia Subsecretarius scrutatur utrum in inquisitionibus ab Episcopo factis omnia legis statuta servata sint, et de exitu examinis in Congressu ordinario referet.
->
+
 > **[2°](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_25011983_divinus-perfectionis-magister.html#Ad_art._13,2)** Si Congressus iudicaverit causam instructam fuisse ad legis normas, statuet cuinam ex Relatoribus committenda sit; Relator vero una cum cooperatore externo Positionem super virtutibus vel super martyrio conficiet iuxta regulas artis criticae in hagiographia servandas.
->
+
 > 3° In causis antiquis et in iis recentioribus, quarum peculiaris indoles de iudicio Relatoris generalis id postulaverit, edita Positio examini subicienda erit Consultorum in re speciatim peritorum, ut de eius valore scientifico necnon sufficientia ad effectum de quo agitur votum ferant.
 
 In singulis casibus Sacra Congregatio potest Positionem etiam aliis viris doctis, in Consultorum numerum non relatis, examinandam tradere.
 
 > 4° Positio (una cum votis scriptis Consultorum historicorum necnon novis enodationibus Relatoris, si quae necessariae sint) tradetur Consultoribus theologis, qui de merito causae votum ferent; quorum est, una cum Promotore fidei, causae ita studere, ut, antequam ad discussionem in Congressu peculiari deveniatur, quaestiones theologicae controversae, si quae sint, funditus examinentur.
->
+
 > 5° Vota definitiva Consultorum theologorum, una cum conclusionibus a Promotore fidei exaratis, Cardinalibus atque Episcopis iudicaturis tradentur.
 
 14\) De assertis miraculis Congregatio cognoscit sequenti ratione:
 
 > 1° Asserta miracula, super quibus a Relatore ad hoc deputato paratur Positio, expenduntur in coetu peritorum (si de sanationibus agitur, in coetu medicorum), quorum vota et conclusiones in accurata relatione exponuntur.
->
+
 > 2° Deinde miracula discutienda sunt in peculiari Congressu theologorum, ac denique in congregatione Patrum Cardinalium et Episcoporum.
 
 15\) Sententiae Patrum Cardinalium et Episcoporum referuntur ad Summum Pontificem, cui uni competit ius decernendi cultum publicum ecclesiasticum Servis Dei praestandum.

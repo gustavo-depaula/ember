@@ -1,9 +1,5 @@
 # DEKLARACJA O STOWARZYSZENIACH MASOŃSKICH
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **DEKLARACJA O STOWARZYSZENIACH MASOŃSKICH**
@@ -23,5 +19,3 @@ Rzym, w siedzibie Świętej Kongregacji Nauki Wiary, 26 listopada 1983 r.
 **JOSEPH Kard. RATZINGER** *Prefekt*
 
 **+ JÉRÔME HAMER OP** *Abp tyt. Loreny Sekretarz*
-
-[](#top)

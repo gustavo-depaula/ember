@@ -1,16 +1,10 @@
 # Responsa ad quaestiones de aliquibus sententiis ad doctrinam de Ecclesia pertinentibus
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 *RESPONSA AD QUAESTIONES DE ALIQUIBUS SENTENTIIS AD DOCTRINAM DE ECCLESIA PERTINENTIBUS*
 
 Introductio
-
-[](#top)
 
 1. Ad catholicam profundius intelligendam ecclesiologiam nemo ignorat quantum Oecumenica Vaticana Synodus II contulerit, sive per dogmaticam Constitutionem *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html),* sive per Decreta de Oecumenismo (*Unitatis redintegratio*) atque Orientalibus de Catholicis Ecclesiis (*Orientalium Ecclesiarum*). Ad hoc Romani autem Pontifices peropportune rem aestimaverunt penitus indagari, praesertim quod ad praxim recte dirigendam spectat: exinde Litterae Encyclicae *[Ecclesiam suam](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_19640806_ecclesiam_lt.html)* Pauli PP. VI (1964), necnon *[Ut unum sint](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint_lt.html)* (1995) Ioannis Pauli PP. II.
 

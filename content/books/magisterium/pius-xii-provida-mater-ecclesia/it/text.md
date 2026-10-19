@@ -53,15 +53,15 @@ Art. I - Le società, clericali o laicali, i cui membri, vivendo nel mondo, prof
 Art. II - § 1. Gli Istituti Secolari, poiché non ammettono i tre voti pubblici di Religione (cann. 1308, § 1; 488, 1°), e non esigono la vita comune, cioè la dimora sotto il medesimo tetto per tutti i membri a norma dei canoni (cann. 487ss., 673ss.): 
 
 > 1° - Giuridicamente, per regola, non sono né si possono dire Religioni (cann. 487 e 488, 1°) o Società di vita comune (can. 673 § 1). 
->
+
 > 2° - Non sono tenuti al diritto proprio e particolare delle Religioni e delle Società di vita comune e neppure possono usarne, se non in quanto qualche prescritto di tale diritto, specialmente di quello che usano le Società senza voti pubblici, per eccezione sia stato loro legittimamente adattato ed applicato. 
 
 § 2. Gli Istituti, salve le norme comuni di diritto canonico che li riguardano, sono retti, come da legislazione propria maggiormente rispondente alla loro natura e condizione, dai seguenti prescritti:
 
 > 1° - Dalle norme generali della presente Costituzione Apostolica, che costituiscono come lo Statuto proprio di tutti gli Istituti Secolari.
->
+
 > 2° - Dalle norme che la Sacra Congregazione dei Religiosi, secondo la necessità lo richieda o l'esperienza suggerisca, crederà bene di pubblicare per tutti o solamente per alcuni di questi Istituti, sia interpretando la Costituzione Apostolica, sia perfezionandola o applicandola.
->
+
 > 3° - Dalle Costituzioni particolari approvate a norma degli articoli seguenti (art. V-VIII), che adattino prudentemente le norme generali e particolari di diritto sopra descritte (ai nn. 1° e 2°), agli scopi dei singoli Istituti, alle loro necessità, e alle circostanze tra loro tanto diverse. 
 
 Art. III - § 1. Perché una pia Associazione di fedeli possa ottenere la erezione in Istituto Secolare a norma degli articoli seguenti, oltre gli altri requisiti comuni, deve avere anche questi (§§ 2 e 4): 
@@ -69,23 +69,23 @@ Art. III - § 1. Perché una pia Associazione di fedeli possa ottenere la erezio
 § 2. *Circa la consacrazione della vita e la professione di perfezione cristiana, i* soci che desiderano ascriversi agli Istituti come membri in senso stretto, oltre che praticare quegli esercizi di pietà e di abnegazione che sono necessari a tutti coloro che aspirano alla perfezione della vita cristiana, devono inoltre ad essa efficacemente tendere nel modo particolare che qui viene indicato: 
 
 > 1° - Con la professione del celibato e perfetta castità, fatta davanti a Dio, e confermata con voto, giuramento o consacrazione che obblighi in coscienza a norma delle costituzioni. 
->
+
 > 2° - Col voto o promessa di obbedienza, cosicché legati da un vincolo stabile, si dedichino totalmente a Dio ed alle opere di carità o di apostolato, e in tutto siano sempre moralmente sotto la mano e la guida dei Superiori, a norma delle Costituzioni. 
->
+
 > 3° - Col voto o promessa di povertà, in forza della quale l'uso dei beni temporali non sia libero, ma sia definito e limitato a norma delle Costituzioni. 
 
 § 3*. Circa l'incorporazione dei soci al proprio Istituto ed il vincolo che da essa nasce*, occorre che il vincolo che unisce l'Istituto Secolare coi suoi membri propriamente detti, sia: 
 
 > 1° - Stabile, a norma delle Costituzioni, perpetuo o temporaneo, da rinnovarsi scaduto il tempo (can. 488, 1°); 
->
+
 > 2° - Mutuo e pieno, di modo che, a norma delle Costituzioni, il socio si dia interamente all'Istituto e l'Istituto abbia cura del socio e ne risponda. 
 
 § 4. *Circa le sedi e le case comuni degli Istituti.* Sebbene gli Istituti Secolari non impongano a tutti i loro membri la vita comune e cioè l'abitazione sotto il medesimo tetto a norma del diritto (art. II, § 1), tuttavia, secondo la necessità o utilità, è necessario abbiano una o più case comuni, nelle quali: 
 
 > 1° - Possano risiedere coloro che hanno il governo dell'Istituto, specialmente quello generale o regionale. 
->
+
 > 2° - Possano abitare o radunarsi i soci, per ricevere o completare la formazione, per fare gli Esercizi spirituali ed altre pratiche del genere. 
->
+
 > 3° - Si possano ricoverare i soci che per malattia o per altre circostanze non possono provvedere a se stessi, o per i quali non è conveniente restare in privato a casa propria o presso gli altri. 
 
 Art. IV - § 1. Gli Istituti Secolari (art. I) dipendono dalla Sacra Congregazione dei Religiosi, salvi i diritti della Sacra Congregazione di Propaganda Fide, a norma del can. 252, § 3, circa le Società e Seminari destinati alle Missioni. 
@@ -107,9 +107,9 @@ Art. VII - § 1. Gli Istituti Secolari che hanno ottenuto dalla Santa Sede l'app
 § 3. Per la prima approvazione di questi Istituti e delle loro Costituzioni, e se il caso lo richieda, per una ulteriore e definitiva approvazione, si procederà in questo modo: 
 
 > 1° - Si farà una prima discussione della causa, preparata al modo solito ed illustrata dallo studio e dal voto di almeno un consultore, nella Commissione dei consultori, sotto la guida dell'eccellentissimo Segretario della Sacra Congregazione o di altro che ne faccia le veci. 
->
+
 > 2° - Poi tutta la questione sarà sottoposta all'esame e alla decisione del Congresso plenario della Sacra Congregazione, presieduto dall'eminentissimo Cardinale Prefetto, invitando per un esame più diligente della causa, secondo che la necessità od utilità suggerisce, Consultori maggiormente periti. 
->
+
 > 3° - La risoluzione del Congresso sarà riferita in udienza al Santo Padre dall'eminentissimo Cardinale Prefetto, e dall'eccellentissimo Segretario, e sottomessa al suo supremo giudizio.
 
 Art. VIII - Gli Istituti Secolari, oltre che alle proprie leggi se ce ne sono o che verranno in seguito date, sono soggetti agli Ordinari a norma del diritto vigente per le Congregazioni e Società di vita comune non esenti. 

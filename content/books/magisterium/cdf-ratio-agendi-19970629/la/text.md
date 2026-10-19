@@ -1,9 +1,5 @@
 # Ratio Agendi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 ***AGENDI RATIO IN DOCTRINARUM EXAMINE***
@@ -86,8 +82,6 @@ Romae, a Sede Congregationis pro Doctrina Fidei, die 29 Junii 1997, in Sollemnit
 *Archiepiscopus Emeritus Vercellensis Secretarius*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Const. Ap. *[Pastor bonus](/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index_lt.html)*, art. 48: AAS 80 (1988) 873.
 

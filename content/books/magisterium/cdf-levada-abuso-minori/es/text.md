@@ -1,9 +1,5 @@
 # Carta del Card. Levada, 3 mayo 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 *CARTA* ***DEL CARDENAL WILLIAM LEVADA PARA LA PRESENTACIÓN DE LA CIRCULAR A LAS CONFERENCIAS EPISCOPALES SOBRE LAS LÍNEAS GUÍA PARA LOS CASOS DE ABUSOS SEXUALES DE MENORES POR PARTE DEl CLERO***
@@ -26,5 +22,3 @@ Con mis mejores deseos, quedo suyo en el Señor,
 
 **William Card. Levada**  
 *Prefecto  *
-
-[](#top)

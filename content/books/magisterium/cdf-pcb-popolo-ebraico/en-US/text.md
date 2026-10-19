@@ -1,9 +1,5 @@
 # The Jewish People and their Sacred Scriptures in the Christian Bible
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 THE PONTIFICAL BIBLICAL COMMISSION
 
 ***THE JEWISH PEOPLE AND THEIR SACRED SCRIPTURES IN THE CHRISTIAN BIBLE***
@@ -17,57 +13,57 @@ THE PONTIFICAL BIBLICAL COMMISSION
 - **[I. The Sacred Scriptures of the Jewish people are a fundamental part of the Christian Bible](#I.)**
 
 > **[A. *The New Testament recognizes the authority of the Sacred Scripture of the Jewish people*](#A.%20The%20New%20Testament%20recognizes%20the%20authority%20of%20the%20Sacred%20Scriptures%20of%20the%20Jewish%20people)**
->
+
 > > **[1. Implicit recognition of authority](#1.%20Implicit%20recognition%20of%20authority) [2. Explicit recourse to the authority of the Jewish Scriptures](#2.%20Explicit%20recourse%20to%20the%20authority%20of%20the%20Jewish%20Scriptures)**
->
+
 > **[B. *The New Testament attests conformity to the Jewish Scriptures*](#B.%20The%20New%20Testament%20attests%20conformity%20to%20the%20Jewish%20Scriptures)**
->
+
 > > **[1. Necessity of fulfilling the Scriptures](#1.%20Necessity%20of%20fulfilling%20the%20Scriptures) [2. Conformity to the Scriptures](#2.%20Conformity%20to%20the%20Scriptures) [3. Conformity and Difference](#3.%20Conformity%20and%20Difference)**
->
+
 > **[C. *Scripture and Oral Tradition in Judaism and Christianity*](#C.%20Scripture%20and%20Oral%20Tradition%20in%20Judaism%20and%20Christianity)**
->
+
 > > **[1. Scripture and Tradition in the Old Testament and Judaism](#1.%20Scripture%20and%20Tradition%20in%20the%20Old%20Testament%20and%20Judaism) [2. Scripture and Tradition in Early Christianity](#2.%20Scripture%20and%20Tradition%20in%20Early%20Christianity) [3. Relationships between the two perspectives](#3.%20Relationship%20between%20the%20two%20perspectives)**
->
+
 > **[D. *Jewish Exegetical Methods employed in the New Testament*](#D.%20Jewish%20Exegetical%20Methods%20employed%20in%20the%20New%20Testament)**
->
+
 > > **[1. Jewish Methods of Exegesis](#1.%20Jewish%20Methods%20of%20Exegesis) [2. Exegesis at Qumran and in the New Testament](#2.%20Exegesis%20at%20Qumran%20and%20in%20the%20New%20Testament) [3. Rabbinic Methods in the New Testament](#3.%20Rabbinic%20Methods%20in%20the%20New%20Testament) [4. Important Allusions to the Old Testament](#4.%20Important%20Allusions%20to%20the%20Old%20Testament)**
->
+
 > **[E. *The Extension of the Canon of Scripture*](#E.%20The%20Extension%20of%20the%20Canon%20of%20Scripture)**
->
+
 > > **[1. In Judaism](#1.%20In%20Judaism) [2. In the Early Church](#2.%20In%20the%20Early%20Church) [3. Formation of the Christian Canon](#3.%20Formation%20of%20the%20Christian%20Canon)**
 
 - **[II. Fundamental themes in the Jewish Scriptures and their reception into faith in Christ](#II.)**
 
 > **[A. *Christian Understanding of the relationships between the Old and New Testaments*](#A.%20Christian%20Understanding%20of%20the%20relationships%20between%20the%20Old%20and%20New%20Testaments)**
->
+
 > > **[1. Affirmation of a reciprocal relationship](#1.%20Affirmation%20of%20a%20reciprocal%20relationship) [2. Re-reading the Old Testament in the light of Christ](#2.%20Re-reading%20the%20Old%20Testament%20in%20the%20light%20of%20Christ) [3. Allegorical Re-reading](#3.%20Allegorical%20Re-reading) [4. Return to the Literal Sense](#4.%20Return%20to%20the%20Literal%20Sense) [5. The unity of God's Plan and the Idea of Fulfilment](#5.%20The%20Unity%20of%20God's%20Plan%20and%20the%20Idea%20of%20Fulfilment) [6. Current Perspectives](#6.%20Current%20Perspectives) [7. Contribution of Jewish reading of the Bible](#7.%20Contribution%20of%20Jewish%20reading%20of%20the%20Bible)**
->
+
 > **[B. *Shared Fundamental Themes*](#B.%20Shared%20Fundamental%20Themes)**
->
+
 > > **[1. Revelation of God](#1.%20Revelation%20of%20God) [2. The Human Person: Greatness and Wretchedness](#2.%20The%20Human%20Person:%20Greatness%20and%20Wretchedness) [3. God, Liberator and Saviour](#3.%20God,%20Liberator%20and%20Saviour) [4. The Election of Israel](#4.%20The%20Election%20of%20Israel) [5. The Covenant](#5.%20The%20Covenant) [6. The Law](#6.%20The%20Law) [7. Prayer and Cult, Jerusalem and Temple](#7.%20Prayer%20and%20Cult,%20Jerusalem%20and%20Temple) [8. Divine Reproaches and Condemnations](#8.%20Divine%20Reproaches%20and%20Condemnations) [9. The Promises](#9.%20The%20Promises)**
->
+
 > **[C. *Conclusion*](#C.%20Conclusion)**
->
+
 > > **[1. Continuity](#1.%20Continuity) [2. Discontinuity](#2.%20Discontinuity) [3. Progression](#3.%20Progression)**
 
 - **[III. The Jews in the New Testament](#III.)**
 
 > **[A. *Different viewpoints within post-exilic Judaism*](#A.%20Different%20Viewpoints%20within%20post-exilic%20Judaism)**
->
+
 > > **[1. The last centuries before Jesus Christ](#1.%20The%20last%20centuries%20before%20Jesus%20Christ) [2. The first third of the first century A.D. in Palestine](#2.%20The%20first%20third%20of%20the%20first%20century%20A.D.%20in%20Palestine) [3. The second third of the first century](#3.%20The%20second%20third%20of%20the%20first%20century) [4. The final third of the first century](#4.%20The%20final%20third%20of%20the%20first%20century)**
->
+
 > **[B. *Jews in the Gospels and Acts of the Apostles*](#B.%20Jews%20in%20the%20Gospels%20and%20Acts%20of%20the%20Apostles)**
->
+
 > > **[1. The Gospel according to Matthew](#1.%20The%20Gospel%20according%20to%20Matthew) [2. The Gospel according to Mark](#2.%20The%20Gospel%20according%20to%20Mark) [3. The Gospel according to Luke and the Acts of the Apostles](#3.%20The%20Gospel%20according%20to%20Luke%20and%20the%20Acts%20of%20the%20Apostles) [4. The Gospel according to John](#4.%20The%20Gospel%20according%20to%20John) [5. Conclusion](#5.%20Conclusion)**
->
+
 > **[C. *The Jews in the Pauline Letters and other New Testament Writings*](#C.%20The%20Jews%20in%20the%20Pauline%20Letters%20and%20other%20New%20Testament%20Writings)**
->
+
 > > **[1. Jews in the undisputed Pauline Letters](#1.%20Jews%20in%20the%20undisputed%20Pauline%20Letters) [2. Jews in the other Letters](#2.%20Jews%20in%20the%20other%20Letters) [3. Jews in the Book of Revelation](#3.%20Jews%20in%20the%20Book%20of%20Revelation)**
 
 - **[IV. Conclusions](#IV.)**
 
 > **[A. *General Conclusion*](#A.%20General%20Conclusion) [B. *Pastoral Orientations*](#B.%20Pastoral%20Orientations)**
->
+
 > **[NOTES](#NOTES)**
 
 **PREFACE**
@@ -1907,5 +1903,3 @@ Tel. (06) 698.85003 - Fax (06) 698.84716
 ISBN 88-209-7919-0
 
 www.libreriaeditricevaticana.com
-
-[](#top)

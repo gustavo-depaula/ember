@@ -1,9 +1,5 @@
 # Nota zawierająca wskazania duszpasterskie na Rok Wiary, 6 stycznia 2012 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY  
 
 ***Nota zawierająca wskazania duszpasterskie na Rok Wiary  ***
@@ -135,8 +131,6 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 6 stycznia 2012 r., w uroczystość O
 **+ luis F. Ladaria, S.J.** *Arcybiskup tytularny Thibica Sekretarz*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benedykt XVI, Encyklika *Deus caritas est*, 25 grudnia 2005 r., 1.
 

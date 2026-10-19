@@ -1,9 +1,5 @@
 # A MEGVÁLTÁS TEOLÓGIÁJÁVAL KAPCSOLATOS NÉHÁNY KÉRDÉS, 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG
 
 **A MEGVÁLTÁS TEOLÓGIÁJÁVAL KAPCSOLATOS NÉHÁNY KÉRDÉS\***
@@ -179,8 +175,6 @@ Az itt közölt olasz szöveg (néhány szerkesztési változtatással) megtalá
 41\. Ennek a dokumentumnak nem célja az, hogy a megváltás teológiájának egész területét kimerítő traktátus legyen, sokkal inkább szembesülni kíván néhány elsődleges kérdéssel, amelyek érintik a megváltás teológiáját, és ma különleges súlyuk van az egyházban.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Ter 1,31
 

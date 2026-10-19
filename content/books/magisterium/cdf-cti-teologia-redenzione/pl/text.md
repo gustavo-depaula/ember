@@ -1,9 +1,5 @@
 # TEOLOGIA ODKUPIENIA, 1995 - Międzynarodowa Komisja Teologiczna
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Międzynarodowa Komisja Teologiczna**
 
 **TEOLOGIA ODKUPIENIA[\*](#*)**
@@ -667,5 +663,3 @@ Ogólna dyskusja na ten temat miała miejsce podczas kilku spotkań podkomisji i
 ¹⁰⁰Jan Paweł II, Abort, apost. *Reconciliatio et paenitentia*, 16.
 
 ¹⁰¹ *Terra, pontus, astra, mundus / quo lavantur flumine!, Ad laudes matutinas*, Hymnus; w: *Liturgia horarum*, t. 2, editio tipica altera, Libreria Editrice Vaticana 1986, s. 331.
-
-[](#top)

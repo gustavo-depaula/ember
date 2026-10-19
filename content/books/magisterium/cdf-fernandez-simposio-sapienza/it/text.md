@@ -1,13 +1,5 @@
 # Il flusso reciproco tra teologia e vita alla luce di San Bonaventura e di altri maestri. Conferenza per il Simposio monastico “Sapienza. Forma di vita e di pensiero” presso il Pontificio Ateneo Sant’Anselmo
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Victor Manuel Fernández *Prefetto del Dicastero per la Dottrina della Fede  *

@@ -1,13 +1,5 @@
 # Antiqua et nova. Note on the Relationship Between Artificial Intelligence and Human Intelligence
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERY FOR THE DOCTRINE OF THE FAITH DICASTERY FOR CULTURE AND EDUCATION
@@ -329,17 +321,17 @@ Secretary, Culture Section
 **III. [Intelligence in the Philosophical and Theological Tradition](#Intelligence_in_the_Philosophical)**
 
 > [Rationality](#Rationality)
->
+
 > [Embodiment](#Embodiment)
->
+
 > [Relationality](#Relationality)
->
+
 > [Relationship with the Truth](#Relationship_with_the_Truth)
->
+
 > [Stewardship of the World](#Stewardship_of_the_World)
->
+
 > [An Integral Understanding of Human Intelligence](#An_Integral)
->
+
 > [The Limits of AI](#The_Limits_of_AI)
 
 **IV. [The Role of Ethics in Guiding the Development and Use of AI](#The_Role_of_Ethics)**
@@ -349,23 +341,23 @@ Secretary, Culture Section
 **V. [Specific Questions](#Specific_Questions)**
 
 > [AI and Society](#AI_and_Society)
->
+
 > [AI and Human Relationships](#AI_and_Human_Relationships)
->
+
 > [AI, the Economy, and Labor](#AI,_the_Economy,_and_Labor)
->
+
 > [AI and Healthcare](#AI_and_Healthcare)
->
+
 > [AI and Education](#AI_and_Education)
->
+
 > [AI, Misinformation, Deepfakes, and Abuse](#AI,_Misinformation)
->
+
 > [AI, Privacy, and Surveillance](#AI,_Privacy)
->
+
 > [AI and the Protection of Our Common Home](#AI_and_the_Protection)
->
+
 > [AI and Warfare](#AI_and_Warfare)
->
+
 > [AI and Our Relationship with God](#AI_and_Our)
 
 **VI. [Concluding Reflections](#Concluding_Reflections)**

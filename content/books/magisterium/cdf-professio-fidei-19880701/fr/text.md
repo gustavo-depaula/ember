@@ -1,9 +1,5 @@
 # Profession de foi et serment de fidélité dans l'exercise d'une fonction au nom de l'Eglise, 1er juillet 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***PROFESSION DE FOI***
 
 *(Formule à utiliser désormais dans les cas où la Profession de Foi est prescrite par le droit)  *
@@ -39,5 +35,3 @@ Qu’ainsi Dieu me vienne en aide, et les saints Evangiles de Dieu que je touche
 Je favoriserai la discipline commune de toute l’Eglise, et je veillerai à l’observance de toutes les lois ecclésiastiques, surtout de celles qui sont contenues dans le Code de Droit canonique.
 
 Par obéissance chrétienne, je me conformerai à ce que les Pasteurs déclarent en tant que docteurs et maîtres authentiques de la foi ou décident en tant que chefs de l’Eglise; et aux évêques diocésains, j’apporterai volontiers ma collaboration, de telle sorte que l’action apostolique, qui doit s’exercer au nom de l’Eglise et sur son mandat, se réalise, étant sauves la nature et la finalité de mon Institut, dans la communion de cette même Eglise.
-
-[](#top)

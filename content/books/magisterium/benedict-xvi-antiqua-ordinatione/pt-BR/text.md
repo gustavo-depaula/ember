@@ -9,8 +9,6 @@ sob forma de *MOTU PROPRIO* do
 
 com a qual se promulga a *Lei própria* do Supremo Tribunal da Assinatura Apostólica
 
-** **
-
 Há um século, suprimido o antigo ordenamentodos tribunais da Assinatura de Graça papal e da Assinatura de Justiça, o nosso Predecessor São Pio X reconstituiu, ou melhor, instituiu o Supremo Tribunal da Assinatura Apostólica através da Constituição apostólica *Sapienti consilio,* publicada em 29 de junho de 1908, com a qual se renovava de forma adequada o ordenamento da Cúria Romana, anexando-lhe a *Lex propria Sacrae Romanae Rotae et Signaturae Apostolicae*. Em 6 de março de 1912, o mesmo Sumo Pontífice quis confirmar e ratificar as *Regulae servandae in iudiciis apud Supremum Apostolicae Signaturae Tribunal;* e além disso, atribuindo-lhes a força e a autoridade de *Legis peculiare* para o Supremo Tribunal da Assinatura Apostólica, ordenou que fossem publicadas nos Atos da Sé Apostólica*,* promulgadas e observadas rigorosamente, dali em diante, por quantos a isso estivessem obrigados.
 
 As competências da Assinatura Apostólica, assim definidas, foram aumentadas pelo seu Sucessor, o Sumo Pontífice Bento XV, sob instância do Eminentíssimo Cardeal Michele Lega, Prefeito do Supremo Tribunal, com o quirógrafo *Attentis expositis,* de 28 de junho de 1915, e expostas novamente depois no *Codex Iuris Canonici,* promulgado pouco tempo depois, em 27 de maio de 1917, pelo mesmo Nosso Predecessor.
@@ -35,8 +33,6 @@ Capítulo I
 Constituição da Assinatura Apostólica  
 \[arts. 1-4\]
 
-** **
-
 Art. 1 – § 1. O Supremo Tribunal da Assinatura Apostólica é constituído por um grupo de Padres Cardeais e Bispos, nomeados pelo Sumo Pontífice; a ele preside o Cardeal Prefeito, escolhido pelo mesmo Sumo Pontífice.
 
 § 2.   Ao grupo dos Membros podem ser agregados também alguns clérigos de íntegra fama, doutores em direito canónico, que se distingam pela doutrina canónica.
@@ -56,8 +52,6 @@ Art. 4. O Secretário, o Promotor de justiça, o Defensor do vínculo, os Promot
 Capítulo II  
 Os diversos cargos  
 \[arts. 5-15\]
-
-** **
 
 Art. 5 – § 1. O Prefeito é o moderador da Assinatura Apostólica, dirige-a e representa-a.
 
@@ -131,8 +125,6 @@ Capítulo III
 Os Patronos  
 \[arts. 16-20\]
 
-** **
-
 Art. 16 – § 1. As partes podem estar em juízo apenas através dum Patrono, ou seja, por meio dum procurador-advogado.
 
 § 2. No caso da parte recorrente, informada a tal propósito, não tiver providenciado a nomeação do Patrono dentro do prazo estabelecido, nem tiver dado uma justificação adequada ou não tiver obtido o patrocínio gratuito, o Secretário declara a causa perenta.
@@ -158,8 +150,6 @@ Art. 20. Os Patronos, sob disposição do Secretario, são obrigados a prestar o
 Capítulo IV  
 A disciplina que se deve observar  
 \[arts. 21-29\]
-
-** **
 
 Art. 21. O Colégio dos Juízes é constituído por cinco membros, a não ser que o Prefeito, em Congresso, estabeleça que o recurso contra um decreto de rejeição emitido em Congresso, quando for previsto, deve ser julgado por um Colégio de três Juízes.
 
@@ -200,8 +190,6 @@ Art. 29 – § 1. É possível dirigir-se à Assinatura Apostólica na língua o
 Capítulo V  
 Custas e patrocínio gratuito  
 \[arts. 30-31\]
-
-** **
 
 Art. 30 – § 1. O Congresso estabelece as normas sobre as cauções a depositar, sobre as despesas judiciárias, os honorários e as taxas para os rescritos.
 
@@ -319,8 +307,6 @@ Capítulo II
 As *querelae nullitatis* contra decisões da Rota Romana  
 \[arts. 51-54\]
 
-** **
-
 Art. 51. A *querela nullitatis* pode ser proposta não só contra as sentenças definitivas, mas também contra as sentenças interlocutórias e os decretos, de qualquer modo emitidos pela Rota Romana, contanto que tenham valor de sentença definitiva, salvo legítima disposição diversa.
 
 Art. 52 – § 1. Se alguém agiu em nome de outrem sem legítimo mandato, o vício considera-se sanado com a apelação feita pela própria parte antes de ser objetada a nulidade; aliás é sanado por meio de qualquer ato realizado pela parte antes da querela, desde que corresponda a uma ratificação.
@@ -336,8 +322,6 @@ Art. 54. Admitido o recurso, a dúvida deve ser expressa de acordo com a seguint
 Capítulo III  
 Os pedidos de *restitutio in integrum* contra decisões da Rota Romana  
 \[arts. 55-57\]
-
-** **
 
 Art. 55 – § 1. O pedido de *restitutio in integrum* suspende a execução, ainda não iniciada, da sentença.
 
@@ -379,8 +363,6 @@ Capítulo VI
 As causas contra Juízes da Rota Romana  
 \[arts. 66-69\]
 
-** **
-
 Art. 66 – § 1. O processo nas causas, quer penais quer contenciosas, contra Juízes da Rota Romana por atos realizados no exercício do seu cargo, desenrola-se, com as devidas adaptações, segundo os arts. 36-49 e as prescrições do direito do Código.
 
 § 2. A parte lesada pode promover, no mesmo juízo penal, a ação contenciosa para a reparação dos danos sofridos por causa do delito.
@@ -396,8 +378,6 @@ Art. 69. A parte que se considera agravada e o Promotor de justiça têm à disp
 Capítulo VII  
 Os conflitos de competência entre Tribunais  
 \[arts. 70-72\]
-
-** **
 
 Art. 70. Salvaguardada a competência prevista no art. 35/2º e 3º, a Assinatura Apostólica, denunciado um conflito de competência, certifica-se antes de mais nada que se se trata realmente dum conflito e se este deve ser resolvido nos termos dos artigos deste capítulo.
 

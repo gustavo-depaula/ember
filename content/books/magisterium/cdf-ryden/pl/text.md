@@ -1,9 +1,5 @@
 # INFORMACJA NA TEMAT PISM I DZIAŁALNOŚCI PANI VASSULI RYDEN, 6 października 1995 r."
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 INFORMACJA NA TEMAT PISM I DZIAŁALNOŚCI PANI VASSULI RYDEN*\**
@@ -29,5 +25,3 @@ Zważywszy na to, że mimo pewnych aspektów pozytywnych ogólny rezultat dział
 ***Abp*** **TARCISIO BERTONE, SDB** *Em. Arcybiskup Vercelli Sekretarz*
 
 \* *AAS* 88 (1996) 956-957.
-
-[](#top)

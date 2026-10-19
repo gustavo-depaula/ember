@@ -1,9 +1,5 @@
 # Sobre la alimentación e hidratación artificiales
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***RESPUESTAS A ALGUNAS PREGUNTAS DE LA CONFERENCIA EPISCOPAL ESTADOUNIDENSE SOBRE LA ALIMENTACIÓN E HIDRATACIÓN ARTIFICIALES***
@@ -25,5 +21,3 @@ El Sumo Pontífice Benedicto XVI, en la audiencia concedida al infrascrito Carde
 
 **Angelo Amato, S.D.B**.  
 *Arzobispo titular de Sila Secretario*
-
-[](#top)

@@ -1,18 +1,8 @@
 # Notifikation Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
-** **
-
 ***NOTIFIKATION bezüglich des Buches von  JACQUES DUPUIS ,,Verso una teologia cristiana del pluralismo religioso"***
-
-** **
-
-** **
 
 **Einleitung**
 
@@ -66,8 +56,6 @@ Erzbischof em. von Vercelli
 *Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Die Kongregation für die Glaubenslehre hat aufgrund von Tendenzen, die sich in verschiedenen Bereichen zeigten und auch im Denken der Gläubigen immer mehr Widerhall fanden, die Erklärung *Dominus Iesus. Über die Einzigkeit und die Heilsuniversalität Jesu Christi und der Kirche* (AAS 92 \[2000\] 742-765) veröffentlicht, um die wesentlichen Elemente des katholischen Glaubens zu schützen. Die *Notifikation* hält sich in der Beurteilung des Werkes von J. Dupuis an die in der genannten *Erklärung* angeführten Prinzipien.
 

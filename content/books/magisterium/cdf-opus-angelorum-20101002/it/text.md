@@ -1,9 +1,5 @@
 # Lettera circolare ai Presidenti delle Conferenze Episcopali sull'associazione Opus Angelorum, 2 ottobre 2010
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***LETTERA CIRCOLARE AI PRESIDENTI DELLE CONFERENZE EPISCOPALI SULL'ASSOCIAZIONE OPUS ANGELORUM***
@@ -45,5 +41,3 @@ devotissimi
 * Arcivescovo tit. di Thibica*
 
 Segretario
-
-[](#top)

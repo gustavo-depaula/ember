@@ -56,39 +56,39 @@ Tempus, quo quis in officio maneat, potest Summus Pontifex prolatare.
 **6.** *§ 1.* Cappella Pontificia, praeter ecclesiasticos viros in Pontificiam Familiam allectos eosdemque in n. 7 § 1 descriptos, hos etiam, qui sequuntur, viros complectitur:
 
 > \- Purpuratos Patres e Sacri Collegii ordinibus
->
+
 > \- Patriarchas, Archiepiscopos atque Episcopos seu Eparchos Pontificio Solio estantes, sive Latini sive Orientalium Rituum
->
+
 > \- Alterum a Camerario S. R. E.
->
+
 > \- Singularum Ss. Congregationum Moderatorem Praelatum, Supremi Tribunalis Apostolicae Signaturae Secretarium, Sacrae Romanae Rotae Decanum
->
+
 > \- Sacram Paenitentiariam Apostolicam Regentem 
->
+
 > \- Apostolicam Cancellariam Regentem
->
+
 > \- Moderatores Praelatos trium Secretariatuum
->
+
 > \- Praelatum Moderatorem Pontificii Consilii instrumentis Communicationis socialis praepositi
->
+
 > \- Abbatem Archicoenobii Montis Casini, simulque Generales Abbates Regularium Canonicorum et Sacrorum Ordinum Monachorum
->
+
 > \- Summum Moderatorem vel, eo absente, Generalem Procuratorem Ordinum religiosorum stipem quaeritantium 
->
+
 > \- Auditores Sacrae Romanae Rotae
->
+
 > \- Viros in Supremo Tribunali Apostolicae Signaturae votantes.
->
+
 > \- Viros e Canonicorum Collegiis trium Patriarchalium Basilicarum Urbis
->
+
 > \- Sacri Consistorii Advocatos 
->
+
 > \- Parochos Urbis.
->
+
 > \- Clericos Ministrantes Summo Pontifici sacris operanti (cfr. n. 6 § 5)
->
+
 > \- Viros sive e Concilio de Laicis sive e Pontificia Commissione a Iustitia et Pace nuncupata
->
+
 > \- Summi Pontificis Familiares.
 
 *§ 2.* Quas modo commemoravimus, Dignitates sacris sollemnibus intersunt, quae vel Summus Pontifex ipse perpetret, vel quae, Ipso adstante, perpetrentur (cfr. n. 4 § 2); ubi singulae quaeque proprium locum tenent, secundum priorum partium legem, peculiaribus normis definiendam.
@@ -106,59 +106,59 @@ Tempus, quo quis in officio maneat, potest Summus Pontifex prolatare.
 § 1. In Pontificiam Familiam ecclesiasticam hi ascribuntur viri, qui sequuntur:
 
 > \- Substitutus Secretariae Status idemque Notarum arcanarum Summi Pontificis Secretarius
->
+
 > \- Sacri Consilii pro publicis Ecclesiae negotiis a Secretis
->
+
 > \- Eleemosynarius Sanctitatis Suae
->
+
 > \- Vicarius Generalis Sanctitatis Suae pro Civitate Vaticana (cfr. n. 7 § 5)
->
+
 > \- Pontificiae Academias Ecclesiasticae Praeses
->
+
 > \- Pontificalis Domus Doctor Theologus (cfr. n. 7 § 4) 
->
+
 > \- Secretarius Epistularum Summi Pontificis ad Principes
->
+
 > \- Secretarius Litterarum Latinarum Summi Pontificis 
->
+
 > \- Protonotarii Apostolici
->
+
 > \- Praelati Pontificali Aulae addicti (cfr. n. 7 § 11) 
->
+
 > \- Magistri pontificalium caeremoniarum
->
+
 > \- Praelati honorarii Sanctitatis Suae (cfr. n. 7 § 6) 
->
+
 > \- Cappellani Sanctitatis Suae (cfr. n. 7 § 6)
->
+
 > \- Sacer Pontificalis Domus Concionator.
 
 *§ 2.* Familia Pontificia, quae laicis constat, complectitur:
 
 > \- Astatores ad Solium
->
+
 > \- Delegatum Specialem Pontificiae Commissionis pro Civitate Vaticana.
->
+
 > \- Consiliarium Generalem Civitatis Vaticanae
->
+
 > \- Praefectum Cohortis Honorariae Summi Pontificis (cfr. n. 9)
->
+
 > \- Praefectum Pontificiae Helvetiorum Cohortis 
->
+
 > \- Praefectum Palatinas Cohortis Honorariae
->
+
 > \- Praefectum Pontificiae Cohortis a publica tutela 
->
+
 > \- Consultores Civitatis Vaticanae
->
+
 > \- Praesidem Pontificiae Academiae Scientiarum
->
+
 > \- Honoratos viros Summo Pontifici Astantes (vulgo *Gentiluomini di Sua Santità*; cfr. n. 7 § 7)
->
+
 > \- Curatores Sacri Palatii Apostolici
->
+
 > \- Addictos Aulae Pontificiae (cfr. n. 7 § 7) 
->
+
 > \- Summi Pontificis Familiares.
 
 *§ 3.* In Familia Pontificia igitur munera et appellationes tolluntur, quae antea spectabant ad: Cardinales Palatinos, Praelatos Palatinos (hoc est: Diaetarchum Sanctitatis Suae, Praefectum Cubiculi Secreti Pontificis, Auditorem Ss.mi Domini Nostri Papae), Magistrum Sacri Hospitii, Suppellectilis Pontificiae Domus Procuratorem, Praefectum stabuli, Praefectum Tabellariorum, Latores Rosae Aureae, Secretarium Legationum, Nobilis Pontificiae Cohortis Tribunum Exemptum, Cubicularios honorarios, Cubicularios honorarios extra Urbem, Cappellanos Secretos, Cappellanos Secretos honorarios, Cappellanos Secretos honorarios extra Urbem, Clericos Secretos, Cappellanos communes, Familiae Pontificiae a sacris confessionibus, Praegustatorem Secretum.

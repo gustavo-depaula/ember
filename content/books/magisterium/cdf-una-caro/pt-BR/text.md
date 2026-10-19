@@ -1,13 +1,5 @@
 # Una caro. Elogio à monogamia. Nota doutrinal sobre o valor do matrimônio como união exclusiva e pertencimento recíproco
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÉRIO PARA A DOUTRINA DA FÉ
@@ -38,7 +30,7 @@ DICASTÉRIO PARA A DOUTRINA DA FÉ
 > [Alguns autores medievais e modernos](#_Toc211638021)  
 > [O desenvolvimento da visão teologal nos tempos recentes](#_Toc211638022)  
 > [Intervenções magisteriais](#_Toc211638023)
->
+
 > > *[Primeiras intervenções](#_Toc211638024) [Leão XIII](#_Toc211638025) [Pio XI](#_Toc211638026) [Os tempos do Concílio](#_Toc211638027) [São João Paulo II](#_Toc211638028) [Bento XVI](#_Toc211638029) [Francisco](#_Toc211638030) [Leão XIV](#_Toc211638031)*
 
 **[IV. Algumas reflexões da filosofia e das culturas](#_Toc211638032)**
@@ -56,13 +48,13 @@ DICASTÉRIO PARA A DOUTRINA DA FÉ
 **[VI.Algumas reflexões a aprofundar](#_Toc211638041)**
 
 > [Pertencimento recíproco](#_Toc211638042)
->
+
 > > [A transformação](#_Toc211638043)  
 > > [A não pertenç](#_Toc211638044)  
 > > [Ajuda mútua](#_Toc211638045)
->
+
 > [Caridade conjugal](#_Toc211638046)
->
+
 > > [Uma forma especial de amizade](#_Toc211638047)  
 > > [Em corpo e alma](#_Toc211638048)  
 > > [A fecundidade multiforme do amor](#_Toc211638049)  
@@ -467,9 +459,9 @@ Caso se deseje apenas uma breve síntese reflexiva para motivar a escolha de uma
 145\. Uma visão integral da caridade conjugal não nega a sua fecundidade, a possibilidade de gerar uma nova vida, porque esta «totalidade, pedida pelo amor conjugal, corresponde também às exigências de uma fecundidade responsável»[^232]. A união sexual, como forma de expressão da caridade conjugal, deve naturalmente permanecer aberta à comunicação da vida[^233], mesmo que isso não signifique que este deva ser um objetivo explícito de cada ato sexual. Com efeito, podem ocorrer três situações legítimas:
 
 > a\) Que um casal não possa ter filhos. Karol Wojtyła explica isso magnificamente, quando lembra que o casamento possui «uma estrutura interpessoal, é uma união e uma comunidade de duas pessoas \[...\]. Por muitas razões, o casamento pode não se tornar família, mas a falta desta não o priva de seu caráter essencial. De fato, a razão de ser interior e essencial do matrimônio não é apenas transformar-se em família, mas sobretudo constituir uma união de duas pessoas, uma união duradoura e fundada no amor \[...\]. Um matrimônio em que não há filhos, sem culpa dos cônjuges, conserva o valor integral da instituição \[...\] não perde nada de sua importância»[^234].
->
+
 > b\) Que um casal não procure conscientemente um determinado ato sexual como meio de procriação. Wojtyła também o afirma, sustentando que um ato conjugal, que «*sendo em si mesmo um ato de amor que une duas pessoas, pode não ser necessariamente considerado por elas como um meio consciente e desejado de procriação*»[^235].
->
+
 > c\) Que um casal respeite os períodos naturais de infertilidade. Seguindo esta linha de reflexão, como afirma São Paulo VI: «a Igreja ensina que então é lícito ter em conta os ritmos naturais imanentes às funções geradoras, para usar do matrimônio só nos períodos infecundos»[^236]. Isso pode servir não só para «regular a natalidade», mas também para escolher os momentos mais oportunos para acolher uma nova vida. Enquanto isso, o casal pode aproveitar esses períodos «como manifestação de afeto e como salvaguarda da fidelidade mútua. Procedendo assim, eles dão prova de amor verdadeira e integralmente honesto»[^237].
 
 146\. Tudo isso mostra a importante novidade que o Papa Pio XI oferece quando afirma que o amor conjugal «permeia todos os deveres da vida conjugal e, no matrimônio cristão, tem como primazia a nobreza»[^238]. Desta forma, ele ajuda a superar a discussão sobre a relação entre os fins ou significados do matrimônio (procriador e unitivo) e a ordem que existe entre eles, colocando a caridade conjugal acima desta dialética dos fins e dos bens como questão central da vida conjugal, o que, por sua vez, lhe confere uma fecundidade multiforme. Os cônjuges, mesmo nos momentos mais difíceis, podem dizer: “Somos amigos, nos amamos, nos valorizamos, decidimos compartilhar toda a nossa vida, pertencemos um ao outro e escolhemos livremente esta união que o próprio Deus abençoou e consolidou. Se em um momento não há filhos, permanecemos unidos e somos fecundos de outras maneiras; se em um momento não há sexo, continuamos a viver esta amizade única, exclusiva e totalizante, que é também o nosso melhor caminho de amadurecimento e santificação”.
@@ -489,11 +481,11 @@ Caso se deseje apenas uma breve síntese reflexiva para motivar a escolha de uma
 152\. O risco da “endogamia”, ou seja, de um “nós” fechado, contradiz a própria natureza da caridade e pode feri-la mortalmente. Quatro fatores podem prevenir essa “endogamia” que desvirtua e empobrece o sentido da união conjugal:
 
 > a\) Os espaços que cada um dos cônjuges vive no trabalho, nas iniciativas pessoais, nos momentos de aprendizagem e desenvolvimento fora da vida matrimonial. Se um dos dois não tem um emprego, torna-se necessário criar esses espaços para o bem do casamento, enriquecendo o diálogo e a relação em geral.
->
+
 > b\) O significado procriador do casamento, que manifesta a fecundidade do amor que não se fecha à transmissão da vida. Para aqueles que não podem ter filhos, a adoção ou outras formas de apoio estável aos filhos de outros casais podem ser uma forma de realizar esta fecundidade.
->
+
 > c\) O tempo que se compartilha com outros amigos casados, durante o qual, além de aprender com as experiências dos outros e receber apoio deles, há uma disponibilidade constante para auxiliar nos momentos difíceis, ajudando ao mesmo tempo o casal a tomar consciência de si mesmo como união, graças à amizade com outros casais.
->
+
 > d\) O sentido social do casal, que, fiel à dimensão social da vida cristã, busca maneiras de prestar um serviço à sociedade e à Igreja, comprometendo-se juntos na busca do bem comum: «Mesmo a família com muitos filhos é chamada a deixar a sua marca na sociedade onde está inserida, desenvolvendo outras formas de fecundidade que são uma espécie de extensão do amor que a sustenta \[...\]. Não fica à espera, mas sai de si mesma à procura de solidariedade»[^247]. «O amor social, reflexo da Trindade, é o que unifica o sentido espiritual da família e a sua missão fora de si mesma»[^248].
 
 153\. Uma prova particular da abertura da amizade do casal para com os outros e da fecundidade da sua caridade manifesta-se na sua atenção para com os pobres. A propósito, recorda o Papa Leão XIV que «o cristão não pode considerar os pobres apenas como um problema social: eles são uma “questão familiar”. Pertencem “aos nossos”»[^249]. Além disso, «o amor aos pobres – seja qual for a forma dessa pobreza – é a garantia evangélica de uma Igreja fiel ao coração de Deus»[^250]. Esta realidade reflete-se em uma das opções para a bênção final no rito latino do matrimônio, que termina com a oração: «Sede no mundo um sinal do amor de Deus, abri vossas portas aos pobres e infelizes, que um dia vos receberão, agradecidos, na casa do Pai»[^251].

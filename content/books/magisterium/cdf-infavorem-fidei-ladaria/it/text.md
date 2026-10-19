@@ -1,15 +1,5 @@
 # Lo scioglimento del matrimonio in favorem fidei nel contesto della pastorale familiare unitaria
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Luis F. Card. Ladaria, S.I. *Prefetto della Congregazione per la Dottrina della Fede*
@@ -31,13 +21,13 @@ Tramite tale disposizione – che esplicitamente si riferisce all’indagine pre
 L’importanza dell’**inclusione di *tutta* la realtà del matrimonio in un quadro di carattere pastorale** è stata ben descritta già nel *Codice di Diritto Canonico* del 1983. Concretamente, penso ad uno dei primi canoni sul matrimonio, il can. 1063 – e lo leggo, in questo foro, poiché ritengo che probabilmente sia uno dei più belli tra i canoni di diritto matrimoniale nel Codice. Dice, il can. 1063, che…
 
 > …i pastori d’anime sono tenuti all’obbligo di provvedere che la propria comunità ecclesiastica presti ai fedeli quell’assistenza mediante la quale lo stato matrimoniale perseveri nello spirito cristiano e progredisca in perfezione. Tale assistenza va prestata innanzitutto:
->
+
 > 1\) con la predicazione, con una adeguata catechesi ai minori, ai giovani e agli adulti, e anche con l’uso degli strumenti di comunicazione sociale, mediante i quali i fedeli vengano istruiti sul significato del matrimonio cristiano e sul compito dei coniugi e genitori cristiani;
->
+
 > 2\) con la preparazione personale alla celebrazione del matrimonio, per cui gli sposi si dispongano alla santità e ai doveri del loro nuovo stato;
->
+
 > 3\) con una fruttuosa celebrazione liturgica del matrimonio, in cui appaia manifesto che i coniugi significano e partecipano al mistero di unione e di amore fecondo tra Cristo e la Chiesa;
->
+
 > 4\) offrendo aiuto ai coniugi perché questi, osservando e custodendo con fedeltà il patto coniugale, giungano a condurre una vita familiare ogni giorno più santa e più intensa.
 
 Facilmente si intende che l’idea che il suddetto canone ha del matrimonio nonché del relativo accompagnamento è *unitaria*, in vari sensi: è unitaria in quanto affida l’accompagnamento relativo non solo alle Autorità ecclesiali, ma a *tutta* la comunità ecclesiale; inoltre, è unitaria poiché tale cura pastorale e fraterna concerne non solo la celebrazione stessa del matrimonio, ma *tutte* le sue fasi, preparatorie e successive.

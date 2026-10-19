@@ -1,10 +1,6 @@
 # Relationship between Magisterium and exegetes
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  **PONTIFICAL BIBLICAL COMMISSION** **
+**PONTIFICAL BIBLICAL COMMISSION** **
 
 ***oOn the 100th anniversary of the Pontifical Biblical Commission***
 
@@ -97,7 +93,3 @@ Yet, neither do we lightly condemn the past, even if we see it as a necessary pa
 And thus, at the 100th anniversary of the establishment of the Biblical Commission, despite all the problems which have arisen during this length of time, we can still look, thankfully and hopefully, upon the path which lies ahead of us.
 
 **Cardinal Joseph Ratzinger** *President of the Pontifical Biblical Commission Prefect of the Congregation for the Doctrine of the Faith and Dean of the College of Cardinals*
-
-*   *
-
-[](#top)

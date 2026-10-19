@@ -1,9 +1,5 @@
 # Décret d'érection de l'Ordinariat Personnel de la Chaire de Saint-Pierre, 1er janvier 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***DÉCRET D'ÉRECTION DE L'ORDINARIAT PERSONNEL DE LA CHAIRE DE SAINT-PIERRE***
@@ -85,5 +81,3 @@ Nonobstant toute disposition contraire.
 \(14\) Cf. *[Normes complémentaires](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_fr.html)*, Art. 10 § 3 ; voir aussi Constitution apostolique *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_fr.html)*, Art. 6 § 2.
 
 \(15\) Cf. *[Normes complémentaires](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_fr.html)* Art. 12 § 1 ; Art. 13 § 2.
-
-[](#top)

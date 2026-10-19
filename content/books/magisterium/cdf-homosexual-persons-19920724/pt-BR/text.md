@@ -1,9 +1,5 @@
 # Algumas reflexões acerca da resposta a propostas legislativas sobre a não-discriminação das pessoas homossexuais
 
-[](.http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **Algumas reflexões acerca da resposta a propostas legislativas sobre a não-discriminação das pessoas homossexuais**\*
@@ -65,5 +61,3 @@ Além disso, existe o perigo de a legislação, que faz da homossexualidade uma 
 16\. Por fim, quando a questão do bem comum entra em jogo, não é conveniente que as Autoridades eclesiásticas apoiem, nem que permaneçam neutrais perante legislações adversas, mesmo que elas admitam excepções às Organizações e Instituições da Igreja. A Igreja tem a responsabilidade de promover a vida familiar e a moralidade pública da sociedade civil inteira, com base nos valores morais fundamentais, e não unicamente de se defender a si mesma das aplicações de leis nocivas (cf. *[Ibid](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html).*, n. 17).
 
 \* *L’Osservatore Romano*, Edição semanal, N. 32, 9 de Agosto de 1992, Pág. 6 (418).
-
-[](#top)

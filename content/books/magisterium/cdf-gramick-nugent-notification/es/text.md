@@ -1,9 +1,5 @@
 # Notificación sobre los escritos y las actividades de la Hermana Jeannine Gramick, S.N.D. y del Padre Robert Nugent, S.D.S, 31 mayo 1999
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE LA HERMANA JEANNINE GRAMICK, SSND, Y EL PADRE ROBERT NUGENT, SDS**
@@ -43,7 +39,5 @@ Ante el fracaso de los repetidos intentos de las autoridades legítimas de la Ig
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: *Voices of Hope: A Collection of Positive Catholic Writings on Gay & Lesbian Issues* (New York: Center for Homophobia Education, 1995) ix.

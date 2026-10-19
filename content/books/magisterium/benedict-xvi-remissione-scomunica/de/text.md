@@ -28,6 +28,4 @@ im Herrn Euer
 
 **BENEDICTUS PP. XVI**
 
-** **
-
 *Aus dem Vatikan, am 10. März 2009*

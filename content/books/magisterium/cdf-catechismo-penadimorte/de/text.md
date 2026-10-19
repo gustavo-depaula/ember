@@ -1,15 +1,5 @@
 # Neue Formulierung der Nr. 2267 des Katechismus der katholischen Kirche bezüglich der Todesstrafe
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **NEUE FORMULIERUNG DER NR. 2267 DES *KATECHISMUS DER KATHOLISCHEN KIRCHE* BEZÜGLICH DER TODESSTRAFE * ***

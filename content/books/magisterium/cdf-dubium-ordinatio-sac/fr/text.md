@@ -1,9 +1,5 @@
 # Réponse à un doute sur la doctrine de la Lettre apostolique Ordinatio Sacerdotalis, 28 octobre 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 **RÉPONSE À UN DOUTE SUR LA DOCTRINE DE LA LETTRE APOSTOLIQUE « [ORDINATIO SACERDOTALIS](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html) »\***
@@ -54,5 +50,3 @@ Devant cet acte magistériel précis du Pontife romain, explicitement adressé �
 Enfin, certains commentaires de la Lettre [*Ordinatio*](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html) [*sacerdotalis*](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html) n’ont pas manqué d’affirmer que celle-ci constituerait une difficulté de plus, et donc inopportune, sur le chemin déjà difficile du mouvement œcuménique. À cet égard, il ne faut pas oublier que selon la lettre et l’esprit du [Concile Vatican II](/archive/hist_councils/ii_vatican_council/index_fr.htm) (cf. Décret *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_fr.html)*, 11), l’authentique engagement œcuménique, auquel l’Église catholique ne peut pas et ne veut pas faire défaut, exige une pleine sincérité et clarté dans la présentation de sa propre foi. Il faut en outre souligner que la doctrine réaffirmée par la Lettre [*Ordinatio*](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html) [*sacerdotalis*](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html) ne peut pas ne pas être utile à la recherche de la pleine communion avec les Églises orthodoxes, lesquelles, conformément à la Tradition , ont maintenu et maintiennent avec fidélité le même enseignement.
 
 L’originalité singulière de l’Église et, à l’intérieur de celle-ci, du sacerdoce ministériel, requiert précision et clarté dans les critères. Concrètement, on ne doit jamais perdre de vue que l’Église ne trouve pas la source de sa foi et de sa structure constitutive dans les principes de la vie sociale de chaque époque historique. Tout en portant attention au monde dans lequel elle vit et pour le salut duquel elle travaille, l’Église a conscience qu’elle est porteuse d’une fidélité supérieure à laquelle elle est liée. Il s’agit de la fidélité radicale à la Parole de Dieu reçue par cette même Église établie par Jésus-Christ jusqu’à la fin des temps. Cette Parole de Dieu, en proclamant la valeur essentielle et le destin éternel de toute personne, manifeste le fondement ultime de la dignité de tout être humain : de toute femme et de tout homme.
-
-[](#top)

@@ -30,12 +30,12 @@ TABLE DES MATIÈRES
 
 > [A. «Laissez-vous réconcilier avec Dieu» (*2 Co* 5, 20b)](#A._%C2%AB_LAISSEZ-VOUS_R%C3%89CONCILIER_AVEC_DIEU_%C2%BB_(2_Co_5,_20b))  
 > [B. Devenir justes et construire un ordre social juste](#B.%20DEVENIR_JUSTES_ET_CONSTRUIRE_UN_ORDRE_SOCIAL_JUSTE)
->
+
 > > [1. Vivre de la justice du Christ](#1._VIVRE_DE_LA_JUSTICE_DU_CHRIST)  
 > > [2. Créer un ordre juste dans la logique des Béatitudes](#2._CR%C3%89ER_UN_ORDRE_JUSTE_DANS_LA_LOGIQUE_DES_B%C3%89ATITUDES)
->
+
 > [C. L'amour dans la vérité: source de paix](#C._L%E2%80%99AMOUR_DANS_LA_V%C3%89RIT%C3%89_:_SOURCE_DE_PAIX_)
->
+
 > > [1. Service fraternel concret](#1._SERVICE_FRATERNEL_CONCRET)  
 > > [2. L'Église comme une sentinelle](#2._L%E2%80%99%C3%89GLISE_COMME_UNE_SENTINELLE)
 
@@ -71,10 +71,10 @@ TABLE DES MATIÈRES
 
 > [A. Le dialogue œcuménique et le défi des nouveaux mouvements religieux](#A.%20LE_DIALOGUE_%C5%92CUM%C3%89NIQUE_ET_LE_D%C3%89FI_DES_NOUVEAUX_MOUVEMENTS_RELIGIEUX)  
 > [B. Le dialogue interreligieux](#B.%20LE_DIALOGUE_INTERRELIGIEUX_)
->
+
 > > [1. Les religions traditionnelles africaines](#1._LES_RELIGIONS_TRADITIONNELLES_AFRICAINES)  
 > > [2. L’Islam](#2._L%E2%80%99ISLAM)
->
+
 > [C. Devenir «sel de la terre» et «lumière du monde»](#C.%20DEVENIR_%C2%AB_SEL_DE_LA_TERRE_%C2%BB_ET_%C2%AB_LUMI%C3%88RE_DU_MONDE_%C2%BB)
 
 [DEUXIÈME PARTIE](#DEUXI%C3%88ME_PARTIE_)  

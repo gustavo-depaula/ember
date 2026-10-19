@@ -1,15 +1,5 @@
 # Presentazione al documento. Che cosa è l’uomo? Un itinerario di antropologia biblica
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Luis F. Card. Ladaria, S.I. *Prefetto della Congregazione per la Dottrina della Fede*

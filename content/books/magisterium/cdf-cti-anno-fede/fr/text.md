@@ -1,9 +1,5 @@
 # Message de la Commission théologique internationale à l’occasion de l’année de la foi, 16 octobre 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Message de la Commission théologique internationale à l’occasion de l’année de la foi***
 
 *Fides quaerens intellectum*, la théologie n’existe qu’en relation au don de la foi. Elle suppose la vérité de la foi et elle se propose d’en manifester l’« insondable richesse » (*Ep* 3, 8) pour la joie spirituelle de toute la communauté des croyants et au service de sa mission évangélisatrice.
@@ -19,5 +15,3 @@ Le théologien travaille donc à « inculturer » dans l’intelligence humaine 
 Le travail du théologien est non seulement suspendu à la foi vivante du peuple chrétien, attentif à ce que « l’Esprit dit aux Eglises » (*Ap* 2, 7), mais il est tout entier finalisé par la croissance de la foi dans le peuple de Dieu et la mission évangélisatrice de l’Eglise. Ne vise-t-il pas à « engendrer, nourrir, défendre et fortifier la foi très salutaire » (Augustin, *De Trinitate*, XIV, 1, 3) ? Le théologien, en collaboration responsable avec le Magistère, se veut donc par vocation au service de la foi du peuple de Dieu (cf. Instruction *Donum veritatis* du 24 mai 1990).
 
 Par le fait même, le théologien est serviteur de la joie chrétienne qui est « joie de la vérité (*gaudium de veritate*) » (Augustin, *Confessiones*, X, 23, 33). Saint Thomas d’Aquin distingue dans l’acte de foi comme trois dimensions : « Ce n’est pas la même chose que de dire ‘je crois Dieu \[*credo Deum*\]’ (je désigne ainsi l’objet), ‘je crois à Dieu \[*credo Deo*\]’ (je désigne ainsi le témoin) et ‘je crois en vue de Dieu \[*credo in Deum*\]’ (je désigne ainsi la fin). Dieu peut être considéré comme objet, témoin ou fin de la foi, mais si l’objet ou le témoin de la foi peut être une créature, la fin de la foi ne peut être que Dieu parce que notre esprit ne se porte qu’à Dieu comme à sa fin » (Thomas d’Aquin, *In Ioannem*, c. 6, lectio 3). Croire en vue de Dieu (*credere in Deum*) est essentiel au dynamisme de la foi. Cela signifie que par son adhésion de foi personnelle à la Parole de Dieu le croyant consent à l’attrait souverain qu’exerce sur lui le Bien comblant et absolu qu’est la Trinité bienheureuse. C’est en effet le désir de la béatitude, inviscéré au plus profond de lui-même, qui met l’esprit humain sous tension et le conduit à s’accomplir dans la remise confiante de toute sa vie au Dieu et Père de notre Seigneur Jésus-Christ. En ce sens, la foi – et la théologie comme science de la foi et sagesse – procure à tous « les amants de la beauté spirituelle » (Augustin, *Regula ad servos Dei*, 8, 1) un savoureux avant-goût de la joie éternelle.
-
-[](#top)

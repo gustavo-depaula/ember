@@ -26,11 +26,11 @@ Ad impensius vero procurandam spiritualem salutem eorum, qui procul a sedibus pr
 Huius autem Commissionis haec erit ordinatio:
 
 > **1.** Munere Praesidis fungitur Cardinalis Praefectus Sacrae Congregationis prο Episcopis eique adest Pro-Praeses, episcopali dignitate auctus, qui scilicet illius vices gerit, opero ferente Secretario. Praeterea eiusdem Commissionis Membra sunt Substitutus Secretariae Status seu Papalis, Secretarius Consilii pro Publicis Ecclesiae Negotiis, Secretarii Sacrarum Congregationum pro Episcopis, pro Clericis, pro Religiosis et Institutis saecularibus, pro Gentium Evangelizatione seu de Propaganda Fide, pro Institutione Catholica, Consilii «de Laicis», Pontificiae Commissionis a «Iustitia et Pace» atque quinque Episcopi Dioecesani a Nobis nominati. Cardinalis Praefectus Sacrae Congregationis prο Episcopis, Substitutus Secretariae Status et Secretaris ut Membra recensiti, proprio munere durante, officium in hac Commissione gerunt: ceterorum munus, expleto quinquennio, cessat, integrum tamen est Apostolicae Sedi his iisdem munus, exacto quinquennio, prorogare.
->
+
 > **2.** Commissio, quamquam, ut supra dictum est, e Sacra Congregatione prο Episcopis pendet, tamen certa autonomia in gerendis suis muneribus fruitur. Eius imprimis est de cura pastorali hominum praedicto modo se moventium agere cum Coetibus Episcopalibus Nationum, qui secundum regionum necessitates et opportunitates rem ad effectum deducere studebunt.
->
+
 > **3.** In certum ac definitum numerum Consultorum, ad quinquennium, ascribuntur delecti homines, sive ex clero sive ex ordine laicorum, qui, ad migrationes quod attinet, peculiari peritia commendantur.
->
+
 > **4.** Quoniam harum Litterarum vi iura quaeque praedictis institutis concessa desinunt, Nostrum erit eas novae huic Commissioni tribuere facultates, quae necessariae et opportunae videantur. Per specialem vero «Ordinem servandum» rationes, quae inter Sacram Congregationem pro Episcopis et hanc Commissionem ita a Nobis constitutam, intercedant, accuratius describantur.
 
 Spem igitur fovemus bonam fore, ut ex hac Commissione, quippe cui novae singularesque apostolatus formae sint mandatae, fructus pastorales oriantur nec pauci nec leves, atque ut materna sollicitudo Ecclesiae, signa et necessitates temporum perspicientis, magis clarescat eademque testimonium ipsius evadat animos blande alliciens.

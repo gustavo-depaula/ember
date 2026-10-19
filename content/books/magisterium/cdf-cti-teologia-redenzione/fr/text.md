@@ -1,16 +1,10 @@
 # Le Dieu Rédempteur : questions choisies, 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 ***LE DIEU RÉDEMPTEUR : QUESTIONS CHOISIES**[^1]*
 
 **(1995)**
-
-**  **
 
 **1. La condition humaine et la réalité de la rédemption**
 
@@ -465,8 +459,6 @@ COMMISSION THÉOLOGIQUE INTERNATIONALE
 ------------------------------------------------------------------------
 
 Le texte original de ce document est en anglais. Nous reproduisons ici, avec un bon nombre de corrections et de modifications, ainsi que des adaptations éditoriales, la traduction publiée dans *La Documentation catholique* 93 (1996), p. 707-731. Une version officielle latine a été publiée : « *Quaestiones selectae de Deo Redemptore* », *Gregorianum* 78 (1997), p. 421-476.
-
-[](#top)
 
 [^1]: L’étude de la théologie de la rédemption fut proposée aux membres de la Commission théologique internationale par Sa Sainteté le pape Jean-Paul II en 1992. Une sous-commission fut constituée pour préparer cette étude, composée des professeurs Jan Ambaum, Joseph Doré, Avery Dulles, Joachim Gnilka, Sebastian Karotemprel, Mgr Michael Ledwith (président), Francis Moloney, Max Thurian et Lászlo Vanyo. Des débats de caractère général eurent lieu sur ce thème lors de plusieurs rencontres de la sous-commission et lors des sessions plénières de la Commission théologique internationale tenues à Rome en 1992, 1993 et 1994. Ce texte a été approuvé *in forma specifica* par vote de la Commission le 29 novembre 1994 puis soumis à son président, S. Ém. le cardinal Joseph Ratzinger, préfet de la Congrégation pour la Doctrine de la Foi et président de la Commission théologique internationale, qui en autorisa la publication. La Commission théologique internationale n’entend pas apporter ici de nouveaux éléments théologiques mais plutôt, en fournissant une synthèse des approches théologiques contemporaines, offrir un point de référence sûr au débat et à l’exploration en cours de cette question.
 

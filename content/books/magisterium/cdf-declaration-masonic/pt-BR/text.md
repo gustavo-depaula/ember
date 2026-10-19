@@ -1,9 +1,5 @@
 # Declaração sobre a Maçonaria - 26 de Novembro de 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***DECLARAÇÃO SOBRE A MAÇONARIA***

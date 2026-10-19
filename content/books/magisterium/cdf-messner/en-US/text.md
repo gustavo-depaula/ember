@@ -1,9 +1,5 @@
 # Notification on some of the publications of Professor, Doctor Reinhard Messner, Eucharist, Martin Luther, Reconciliation, Magisterium, Liturgy, Tradition, Scripture, Penance, 30 November 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***NOTIFICATION* On some of the publications of Professor, Doctor REINHARD MESSNER**
@@ -141,5 +137,3 @@ The Fathers of the Council of Trent were well aware of the difference between â€
 \[20\] Cfr. Vatican Council II, [Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html), 10.
 
 \[21\] Cfr. Council of Trent: DS 1601, 1670, 1701.
-
-[](#top)

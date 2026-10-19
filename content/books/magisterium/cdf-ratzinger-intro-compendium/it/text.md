@@ -1,9 +1,5 @@
 # Introduzione al Compendio del Catechismo della Chiesa Cattolica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INTRODUZIONE DEL CARDINALE JOSEPH RATZINGER AL COMPENDIO DEL CATECHISMO DELLA CHIESA CATTOLICA ***
 
 1\. L'11 ottobre del 1992, Papa Giovanni Paolo II consegnava ai fedeli di tutto il mondo il Catechismo della Chiesa Cattolica, presentandolo come «testo di riferimento»¹ per una catechesi rinnovata alle vive sorgenti della fede. A trent'anni dall'apertura del Concilio Vaticano II (1962-1965), veniva così portato a felice compimento l'auspicio espresso nel 1985 dall'Assemblea Straordinaria del Sinodo dei Vescovi, perché venisse composto un catechismo di tutta la dottrina cattolica sia per la fede che per la morale.
@@ -42,5 +38,3 @@ La quarta parte, intitolata «La preghiera cristiana», offre una sintesi della 
 1 GIOVANNI PAOLO II, Cost. ap. *Fidei depositum*, 11 ottobre 1992.
 
 2 GIOVANNI PAOLO II, Lett. Ap. *Laetamur magnoepre*, 15 agosto 1997.
-
-[](#top)

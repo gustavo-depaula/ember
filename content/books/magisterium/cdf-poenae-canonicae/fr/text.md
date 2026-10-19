@@ -1,13 +1,5 @@
 # Notification par laquelle sont de nouveau déclarées les peines canoniques encourues par Mgr. Pierre-Martin Ngô-dińh-Thuc et ses complices pour les ordinations illicites de prêtres et d'évêques, 12 mars 1983
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI

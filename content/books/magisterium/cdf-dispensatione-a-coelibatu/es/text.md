@@ -1,13 +1,5 @@
 # Carta a los ordinarios del lugar y superiores generales sobre el procedimiento para el examen y resolución de las peticiones referentes a la dispensa del celibato, 14 octubre 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE

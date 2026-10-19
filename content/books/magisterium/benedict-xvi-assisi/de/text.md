@@ -31,5 +31,3 @@ Das beschließen und bestimmen Wir mit Unserer Autorität, ungeachtet irgendeine
 *Gegeben zu Rom, bei Sankt Peter, am 9. November, Einweihungsfest der Lateranbasilika, im Jahr des Herrn 2005, dem ersten Jahr Unseres Pontifikats.*
 
 **BENEDIKT PP. XVI.**
-
-** **

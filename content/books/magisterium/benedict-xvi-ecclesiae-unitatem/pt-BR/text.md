@@ -19,9 +19,9 @@
 6\. Portanto, a [Pontifícia Comissão *EcclesiaDei*](http://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/index_po.htm) terá a seguinte configuração:
 
 > a\) O Presidente da Comissão é o Prefeito da Congregação para a Doutrina da Fé.
->
+
 > b\) A Comissão dispõe de um seu organigrama, composto pelo Secretário e por Oficiais.
->
+
 > c\) Será tarefa do Presidente, coadjuvado pelo Secretário, submeter os principais casos e as questões de índole doutrinal ao estudo e ao discernimento das instâncias ordinárias da Congregação para a Doutrina da Fé, e também submeter os seus resultados às disposições superiores do Sumo Pontífice.
 
 7\. Com esta decisão eu quis, de maneira particular, mostrar solicitude paterna à "Fraternidade São Pio X", com a finalidade de reencontrar a plena comunhão com a Igreja.

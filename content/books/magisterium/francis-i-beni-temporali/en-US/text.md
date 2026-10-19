@@ -22,49 +22,49 @@ Therefore, having carefully examined the matter in question and after due consul
 1\. In the Secretariat for the Economy, the *Section for control and vigilance* is responsible for monitoring and overseeing the activity of the Administration of the Patrimony of the Apostolic See. This includes:
 
 > a\) issuing general executive decrees and instructions in conformity with art. 6 § 1 of the Statutes of the Secretariat for the Economy, after appropriate consultation as established by art. 7 of the same Statutes;
->
+
 > b\) providing assistance and support in conformity with art. 6 § 2 of the Statutes of the Secretariat for the Economy;
->
+
 > c\) carrying out the activities of monitoring, verification, analysis and offering recommendations in conformity with art. 8 of the Statutes of the Secretariat for the Economy;
->
+
 > d\) submitting annually to the Council for the Economy the budget and balance sheet of the Administration of the Patrimony of the Apostolic See, in conformity with art. 9 § 1 of the Statutes of the Secretariat for the Economy;
->
+
 > e\) formulating recommendations and/or requesting information and documentation pursuant to art. 9 § 2 of the Statutes of the Secretariat for the Economy;
->
+
 > f\) approving, on the basis of the criteria established by the High Authority in conformity with art. 11 of the Statutes of the Secretariat for the Economy, every act of alienation, acquisition, and extraordinary administration undertaken by the Administration of the Patrimony of the Apostolic See;
->
+
 > g\) ensuring that adequate corrective measures are taken whensoever potential harm to the patrimony comes to light, in conformity with art. 12 of the Statutes of the Secretariat for the Economy;
->
+
 > h\) requesting that the Office of the Auditor General make specific inspections in conformity with art. 13 of the Statutes of the Secretariat for the Economy;
->
+
 > i\) carrying out the provisions of art. 14 of the Statutes of the Secretariat for the Economy, regarding the exchange of information of a fiscal nature that may involve the Administration of the Patrimony of the Apostolic See.
 
 2\. With regard to the Administration of the Patrimony of the Apostolic See, the *Administrative Section* of the Secretariat for the Economy is responsible for:
 
 > a\) formulating guidelines, models, procedures, and indicating best practices with regard to contracts, according to art. 15 of the Statutes of the Secretariat for the Economy, which the Administration of the Patrimony of the Apostolic See must follow in the acquisition of goods and services both for itself and for the Dicasteries and Institutions that consult it;
->
+
 > b\) fulfilling — with due respect for the competencies of the Secretariat of State — all aspects regarding personnel in conformity with art. 16 of the Statutes of the Secretariat for the Economy, except for the payment of salaries, which will continue to be the responsibility of the Administration of the Patrimony of the Apostolic See;
->
+
 > c\) ensuring that the norms in force are respected, including those regarding the remuneration of personnel;
->
+
 > d\) providing assistance, in conformity with the respective Statutes, to the Pension Fund (*Fondo Pensioni*) and the Health Care Fund (*Fondo di Assistenza Sanitaria*), in conformity with art. 18 of the Statutes of the Secretariat for the Economy.
 
 3\. The Administration of the Patrimony of the Apostolic See is responsible for:
 
 > a\) administering the patrimony, including both movable assets and real estate, both of the Holy See and of entities that have entrusted their assets to it, in conformity with the revised text of [art. 172](http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-roman-curia_en.html#ADMINISTRATIVE%20SERVICES) of *[Pastor Bonus](http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus_en.html)* (cf. art. 1 of the Motu Proprio *[Confirming a centuries-old tradition](/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20140708_trasferimento-apsa.html)* of 8 July 2014);
->
+
 > b\) acquiring goods and services from external suppliers for itself, for the Dicasteries of the Holy See and associated Institutions, in accordance with the appropriate procedures and internal controls, with due regard for point “2. a” above;
->
+
 > c\) paying invoices, acquiring them in the original form, and entering them into the balance sheet of each Dicastery, following the methodology indicated by the Secretariat for the Economy;
->
+
 > d\) carrying out treasury services, paying salaries to personnel; thus it is the responsibility of the Secretariat for the Economy to calculate salaries, and it is the responsibility of the Administration of the Patrimony of the Apostolic See to pay them;
->
+
 > e\) following the norms and guidelines given by the Secretariat for the Economy in keeping accounts payable and in preparing balance sheets;
->
+
 > f\) preparing its own balance sheet, separate from that of Dicasteries, in such a way that each maintains separate balance sheets, provided that all follow the methodology indicated by the Secretariat for the Economy;
->
+
 > g\) arranging for auxiliary personnel to serve the Dicasteries of the Holy See and to maintain property;
->
+
 > h\) exercising responsibility for the *Peregrinatio ad Petri Sedem*.
 
 4\. In light of the above, I hereby abrogate art. 17 of the Statutes of the Secretariat for the Economy.

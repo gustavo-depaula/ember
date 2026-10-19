@@ -1,9 +1,5 @@
 # Instrucción sobre algunos aspectos de la «teología de la liberación» -Libertatis nuntius
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***INSTRUCCIÓN SOBRE ALGUNOS ASPECTOS DE LA «TEOLOGÍA DE LA LIBERACIÓN»***
@@ -302,8 +298,6 @@ Las palabras de Pablo VI, en el *Credo del pueblo de Dios*, expresan con plena c
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Cf. *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, n. 4.
 

@@ -1,9 +1,5 @@
 # De libri Isaiae indole et auctore - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE LIBRI ISAIAE INDOLE ET AUCTORE**
@@ -34,7 +30,3 @@ Propositis sequentibus dubiis Commissio Pontificia de Re Biblica sequenti modo r
 
 Fulcranus Vigouroux, P.S.S.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-* *
-
-[](#top)

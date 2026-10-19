@@ -1,9 +1,5 @@
 # Pontifical North American College - Ordination of Deacons
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Pontifical North American College**
 
 **Ordination of Deacons**
@@ -41,5 +37,3 @@ Dear brothers in Christ, as you respond to the call of Christ to dedicate your l
 In his [Encyclical Letter on priestly celibacy](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis_en.html)—an Encyclical that is as timely and cogent today as it was at its publication in 1967—Pope Paul VI reflected that the overarching motivation for the promise of celibacy is nothing less than the love of Christ Jesus revealed definitively on the Cross when He laid down His own life for His friends. For those who embrace the celibate life, says Pope Paul, it *“is the mystery of the newness of Christ, of all that He is and stands for; it is the sum of the highest ideals of the Gospel and of the kingdom; it is a particular manifestation of grace, which springs from the Paschal mystery of the Savior. This is what makes the choice of celibacy desirable and worthwhile to those called by our Lord Jesus. Thus they intend not only to participate in His priestly office, but also to share with Him His very condition of living”* (n.23).
 
 Dear friends, let us pray for these men today, that God’s grace of Holy Orders may make them dedicated servants in ministry to the Church. May Mary, Mother of the Clergy, intercede for them, so that—as future priests—they too may show forth the face of Christ, the face of God’s own love, to a waiting world.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Sul carattere storico dei primi tre capitoli della Genesi - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **SUL CARATTERE STORICO DEI PRIMI TRE CAPITOLI DELLA GENESI**
@@ -46,5 +42,3 @@ Risposta: Sì.
 
 Fulcrano Vigouroux, P.S.S.  
 Lorenzo Janssens, O.S.B. *Segretari conssultori*
-
-[](#top)

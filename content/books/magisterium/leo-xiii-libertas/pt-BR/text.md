@@ -20,8 +20,6 @@ O libertador do gênero humano, Jesus Cristo, tendo restaurado e aumentado a ant
 
 **A) A LIBERDADE MORAL NO INDIVÍDUO.**
 
-** **
-
 3. O que diretamente Nós temos em vista é a liberdade *moral*, considerada quer nos indivíduos, quer na sociedade. É bom, entretanto, dizer em primeiro lugar algumas palavras sobre a liberdade *natural*, a qual, apesar de ser completamente distinta da liberdade moral, é contudo a fonte e o princípio donde toda a espécie de liberdade dimana por si mesma e como espontaneamente.
 
 **A liberdade natural é própria dos seres racionais.**

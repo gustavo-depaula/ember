@@ -1,15 +1,5 @@
 # Extracto del discurso del Santo Padre Francisco durante la Audiencia a los Participantes en la Sesión Plenaria del Dicasterio para la Doctrina de la Fe
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Extracto del discurso del Santo Padre Francisco durante la [Audiencia a los Participantes en la Sesión Plenaria del Dicasterio para la Doctrina de la Fe](https://www.vatican.va/content/francesco/es/events/event.dir.html/content/vaticanevents/es/2024/1/26/plenaria-ddf.html)**

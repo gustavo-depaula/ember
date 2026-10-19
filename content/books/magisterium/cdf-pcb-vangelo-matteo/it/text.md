@@ -1,14 +1,8 @@
 # Autore, tempo di composizione e verità storica del vangelo secondo Matteo - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **AUTORE, TEMPO DI COMPOSIZIONE E VERITÀ STORICA DEL VANGELO SECONDO MATTEO**
-
-** **
 
 Ai seguenti dubbi presentati, la Pontificia Commissione biblica ha deciso di rispondere come segue:
 
@@ -46,5 +40,3 @@ Risposta: Sì.
 
 Fulcrano VIGOUROUX, P.S.S.  
 Lorenzo JANSSENS, O.S.B.
-
-[](#top)

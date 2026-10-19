@@ -1,9 +1,5 @@
 # Nota de la Congregación para la Doctrina de la Fe Sobre la banalización de la sexualidad A propósito de algunas lecturas de «Luz del mundo»
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTA SOBRE LA BANALIZACIÓN DE LA SEXUALIDAD A PROPÓSITO DE ALGUNAS LECTURAS DE «LUZ DEL MUNDO**
@@ -21,5 +17,3 @@ En este sentido, es necesario poner de relieve que la situación que en muchas �
 Algunos han interpretado las palabras de Benedicto XVI valiéndose de la teoría del llamado "mal menor". Esta teoría, sin embargo, es susceptible de interpretaciones desviadas de tipo proporcionalista (cf. Juan Pablo II, Encíclica *[Veritatis splendor](/edocs/ESL0044/_INDEX.HTM)*, nn. [75](/edocs/ESL0044/__PQ.HTM)-[77](/edocs/ESL0044/__PR.HTM)). No es lícito querer una acción que es mala por su objeto, aunque se trate de un mal menor. El Santo Padre no ha dicho, como alguno ha sostenido, que la prostitución con el recurso al profiláctico pueda ser una opción lícita en cuanto mal menor. La Iglesia enseña que la prostitución es inmoral y hay que luchar contra ella. Sin embargo, si alguien, practicando la prostitución y estando además infectado por el VIH, se esfuerza por disminuir el peligro de contagio, a través incluso del uso del profiláctico, esto puede constituir un primer paso en el respeto de la vida de los demás, si bien el mal de la prostitución siga conservando toda su gravedad. Dichas apreciaciones concuerdan con lo que la tradición teológico moral ha sostenido también en el pasado.
 
 En conclusión, los miembros y las instituciones de la Iglesia Católica deben saber que en la lucha contra el sida hay que estar cerca de las personas, curando a los enfermos y formando a todos para que puedan vivir la abstinencia antes del matrimonio y la fidelidad dentro del pacto conyugal. En este sentido, hay que denunciar también aquellos comportamientos que banalizan la sexualidad, porque, como dice el Papa, representan precisamente la peligrosa razón por la que muchos ya no ven en la sexualidad una expresión de su amor. «Por eso la lucha contra la banalización de la sexualidad forma parte de la lucha para que la sexualidad sea valorada positivamente y pueda desplegar su acción positiva en la totalidad de la condición humana» (*Luz del mundo*, p. 131).
-
-[](#top)

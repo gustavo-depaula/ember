@@ -291,7 +291,7 @@ Façamos nossos os sentimentos de S. Tomás de Aquino, máximo teólogo e ao mes
 « *Bone Pastor, panis vere Iesu, notri miserere*... ».
 
 > « *Bom Pastor, pão da verdade, Tende de nós piedade, Conservai-nos na unidade, Extingui nossa orfandade E conduzi-nos ao Pai.*
->
+
 > *Aos mortais dando comida Dais também o pão da vida: Que a família assim nutrida Seja um dia reunida Aos convivas lá do Céu* ».
 
 *Dado em Roma, junto de S. Pedro, no dia 17 de Abril, Quinta-feira Santa, do ano 2003, vigésimo quinto do meu Pontificado e Ano do Rosário.*

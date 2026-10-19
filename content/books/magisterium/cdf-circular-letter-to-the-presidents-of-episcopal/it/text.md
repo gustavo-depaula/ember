@@ -1,13 +1,5 @@
 # Lettera circolare ai Presidenti delle Conferenze Episcopali circa alcune sentenze ed errori insorgenti sull’interpretazione dei decreti del Concilio Vaticano II, 24 luglio 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**

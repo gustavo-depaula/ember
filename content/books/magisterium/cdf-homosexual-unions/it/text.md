@@ -1,9 +1,5 @@
 # Considerazioni circa i progetti di riconoscimento legale delle unioni tra persone omosessuali
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***CONSIDERAZIONI CIRCA I PROGETTI DI RICONOSCIMENTO LEGALE DELLE UNIONI TRA PERSONE OMOSESSUALI***
@@ -97,8 +93,6 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, il 3 giugno 200
 ------------------------------------------------------------------------
 
 **NOTE**
-
-[](#top)
 
 [^1]: (#fnref1)) Cf. Giovanni Paolo II, *Allocuzioni in occasione della recita dell'Angelus*, 20 febbraio 1994 e 19 giugno 1994; *Discorso ai partecipanti dell'Assemblea Plenaria del Pontificio Consiglio per la Famiglia*, 24 marzo 1999; *Catechismo della Chiesa Cattolica*, nn. 2357-2359, 2396; Congregazione per la Dottrina della Fede, Dichiarazione *Persona humana*, 29 dicembre 1975, n. 8; *Lettera sulla cura pastorale delle persone omosessuali*, 1º ottobre 1986; *Alcune Considerazioni concernenti la Risposta a proposte di legge sulla non discriminazione delle persone omosessuali*, 24 luglio 1992; Pontificio Consiglio per la Famiglia, Lettera ai Presidenti delle Conferenze Episcopali d'Europa circa la risoluzione del Parlamento Europeo in merito alle coppie omosessuali, 25 marzo 1994; *Famiglia, matrimonio e «  unioni di fatto  »,* 26 luglio 2000, n. 23.
 

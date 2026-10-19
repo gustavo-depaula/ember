@@ -1,9 +1,5 @@
 # Instrucción Sanctorum Mater sobre el procedimiento instructorio diocesano o eparquial en las Causas de los Santos
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN DE LAS CAUSAS DE LOS SANTOS
 
 ***SANCTORUM MATER***
@@ -36,19 +32,19 @@ O EPARQUIAL EN LAS CAUSAS DE LOS SANTOS
 
 > Título I. Oficiales del procedimiento instructorio en general  
 > Título II. Oficiales del procedimiento instructorio en particular
->
+
 > > Capitulo I. Delegado episcopal  
 > > Capítulo II. Promotor de justicia  
 > > Capítulo III. Notario  
 > > Capítulo IV. Perito médico
->
+
 > Título III. Sede de las sesiones
 
 **[Parte IV. Pruebas documentales](#PARTE_IV)**
 
 > Título I. Censores teólogos  
 > Título II. Peritos históricos y archivísticos (*Comisión histórica*)
->
+
 > > Capítulo I. Peritos  
 > > Capítulo II. pruebas documentales  
 > > Capítulo III. Relación de los peritos  
@@ -60,26 +56,26 @@ O EPARQUIAL EN LAS CAUSAS DE LOS SANTOS
 > Título II. "Para que no se pierden las pruebas" (*Ne pereant probationes*)  
 > Título III. Citación para las sesiones  
 > Título IV. Primera sesión o sesión de apertura
->
+
 > > Capítulo I. Participantes  
 > > Capítulo II. Actas de la primera sesión  
 > > Capítulo III. Notario de la primera sesión
->
+
 > Título V. Participación del promotor de justicia  
 > Título VI. Participación del perito médico  
 > Título VII. Participación del postulador y/o vicepostulador  
 > Título VIII. Los testigos y sus declaraciones
->
+
 > > Capítulo I. Quién puede ser testigo  
 > > Capítulo II. Quién no puede ser testigo  
 > > Capítulo III. Declaraciones de los testigos  
 > > Capítulo IV. Declaraciones escritas de los testigos  
 > > Capítulo V. Testimonios de los médicos que atendieron al enfermo  
 > > Capítulo VI. Peritos médicos *ab inspectione*
->
+
 > Título IX. Uso del magnetófono y del ordenador  
 > Título X. Procedimiento rogatorial
->
+
 > > Capítulo I. Interrogatorio de los testigos  
 > > Capítulo II. Conservación y envío de las actas
 
@@ -92,12 +88,12 @@ O EPARQUIAL EN LAS CAUSAS DE LOS SANTOS
 > Título V. Cotejo de las actas (*collatio et auscultati*o)  
 > Título VI. El portador (*portitor*)  
 > Título VII. Última sesión o sesión de clausura
->
+
 > > Capítulo I. Última sesión en general  
 > > Capítulo II. Actos de la última sesión
->
+
 > Título VIII. Actos conclusivos
->
+
 > > Capítulo I. Inscripción interior  
 > > Capítulo II. Cartas de los oficiales del procedimiento instructorio  
 > > Capítulo III. Instrumento de clausura
@@ -304,11 +300,11 @@ Art. 36 - § 1. El libelo de demanda es la instancia escrita con la que el postu
 Art. 37 - Como anexos del libelo de demanda sobre las virtudes o el martirio, el postulador presentará al Obispo diocesano o eparquial:
 
 > 1\. tanto en las causas recientes como en las antiguas, una biografía de cierto valor histórico sobre el Siervo de Dios, o, en su defecto, una cuidadosa relación cronológica sobre la vida y las actividades del Siervo de Dios, sus virtudes o su martirio, la fama de santidad o de martirio y la *fama signorum,* sin omitir lo que pueda resultar peyorativo o desfavorable para la causa [^52]
->
+
 > 2\. un ejemplar auténtico de las publicaciones del Siervo de Dios[^53].
->
+
 > 3\. asimismo una lista de posibles testigos, es decir:
->
+
 > > a\. *en las causas recientes:* nombres de aquellas personas que puedan contribuir a esclarecer la verdad sobre las virtudes o el martirio del Siervo de Dios, así como su fama de santidad o de martirio y la *fama signorum,* no omitiendo a los que podrían impugnar esa fama[^54].
 > >
 > > b\. *en las causas antiguas:* lista de algunos testigos que puedan declarar sobre la fama de santidad o de martirio y sobre la *fama signorum* en el presente entre una porción significativa del pueblo de Dios [^55].
@@ -316,9 +312,9 @@ Art. 37 - Como anexos del libelo de demanda sobre las virtudes o el martirio, el
 Art. 38 - § 1. Como anexos del libelo de demanda para la instrucción del procedimiento sobre un presunto milagro, el postulador entregará al Obispo diocesano o eparquial:
 
 > 1\. una relación breve y detallada sobre las circunstancias particulares que caracterizan el caso;
->
+
 > 2\. lista de testigos;
->
+
 > 3\. todos los documentos que se refieran al caso[^56].
 
 § 2. Sobre las supuestas curaciones milagrosas es preciso presentar documentos médicos, clínicos e instrumentales (por ejemplo, la historia clínica, pareceres médicos, análisis de laboratorio y exploraciones instrumentales).
@@ -506,13 +502,13 @@ Art. 73 - § 1. Concluidas las investigaciones y recogidos los escritos inédito
 § 2. En la relación, los peritos deben:
 
 > 1\. garantizar que han cumplido fielmente su tarea;
->
+
 > 2\. enumerar los archivos consultados;
->
+
 > 3\. adjuntar lista de los escritos y documentos hallados;
->
+
 > 4.  dar su parecer sobre la autenticidad y el valor de esos escritos y documentos;
->
+
 > 5\. expresar su juicio sobre la personalidad y la espiritualidad del Siervo de Dios, según pueden deducirse de los mismos escritos y documentos, no dejando de poner en evidencia los posibles aspectos negativos[^93].
 
 § 3. Los peritos deben indicar los eventuales obstáculos al Obispo o a su delegado, que informará al postulador para que pueda removerlos[^94].
@@ -532,9 +528,9 @@ Art. 76 - § 1. Los peritos deben ser llamados a declarar por separado, como tes
 § 2. Declaran con juramento:
 
 > 1\. que han llevado a cabo todas las investigaciones;
->
+
 > 2\. que han recogido todo el material relacionado con la causa;
->
+
 > 3\. que no han alterado o mutilado ningún documento o texto [^98].
 
 § 3. A los peritos pueden hacerse otras preguntas de oficio acerca de la personalidad y la actividad del Siervo de Dios, con el fin de aclarar también los aspectos negativos de cierta importancia para la causa[^99].
@@ -612,25 +608,25 @@ Art. 88 - En las iglesias, y fuera de ellas, es muy importante abstenerse siempr
 Art. 89 - A las actas de la primera sesión se adjuntan los actos de la causa ya realizados y todo el material recogido:
 
 > 1\. el rescripto del traslado de competencia, si lo hay [^113];
->
+
 > 2\. la documentación presentada al Obispo para demostrar la fama de santidad o de martirio y la *fama signorum* de que goza el Siervo de Dios [^114];
->
+
 > 3\. el mandato de nombramiento del postulador y/o vicepostulador [^115];
->
+
 > 4\. el libelo de demanda del postulador, junto con el material prescrito en el n. 10 de las *Normae servandae* [^116];
->
+
 > 5\. si el caso lo requiere, la declaración sobre las razones del retraso en el inicio de la causa[^117];
->
+
 > 6\. el parecer de los demás Obispos sobre la oportunidad de la causa [^118];
->
+
 > 7\. el edicto del Obispo[^119];
->
+
 > 8\. la carta con el *nihil obstat* de la Santa Sede[^120];
->
+
 > 9\. los decretos de nombramiento de los oficiales[^121]; \[
->
+
 > 10\. los dictámenes de los censores teólogos o bien la declaración de que no existen publicaciones del Siervo de Dios [^122];
->
+
 > 11\. el material recogido por los peritos históricos y archivísticos con su relación [^123].
 
 *Capítulo III Notario de la primera sesión*
@@ -680,13 +676,13 @@ Art. 95 - § 1. Una vez publicadas las actas del procedimiento, se debe dar al p
 Art. 96 - Deben ser llamados a declarar como testigos:
 
 > 1\. los testigos presentados por el postulador en el libelo de demanda[^132].\[
->
+
 > 2\. los testigos *ex officio,* especialmente si son contrarios a la causa[^133].
->
+
 > 3\. los contestes mencionados por los testigos en sus declaraciones;
->
+
 > 4\. los peritos históricos y archivísticos como testigos *ex officio*[^134].
->
+
 > 5\. en el procedimiento sobre una supuesta curación milagrosa, los médicos que atendieron al que quedó sanado y los peritos médicos *ab inspectione*[^135].
 
 Art. 97 - El Obispo o su delegado pueden limitar el número excesivo de testigos[^136].
@@ -1049,8 +1045,6 @@ La presente Instrucción ha sido sometida al parecer de los Cardenales y Obispos
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Cfr Conc. Vat. II, Const. dogm. *Lumen Gentium,* nn. 50-51.
 

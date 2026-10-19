@@ -2,10 +2,6 @@
 
 ***LETTRE PASTORALE DU SAINT-PÈRE*** ***BENOÎT XVI*** ***AUX CATHOLIQUES D'IRLANDE***
 
-*** ***
-
-*** * ** ** **
-
 *Traduction non officielle*
 
 1\. Chers frères et sœurs de l’Eglise en Irlande, c'est avec une profonde préoccupation que je vous écris en tant que Pasteur de l'Eglise universelle. Comme vous, j'ai été profondément bouleversé par les nouvelles apparues concernant l'abus d'enfants et de jeunes vulnérables par des membres de l'Eglise en Irlande, en particulier par des prêtres et des religieux. Je ne peux que partager le désarroi et le sentiment de trahison que nombre d'entre vous ont ressentis en prenant connaissance de ces actes scandaleux et criminels et de la façon dont les autorités de l'Eglise en Irlande les ont affrontés.

@@ -185,8 +185,6 @@ SULLA CRISI CLIMATICA
 
 *Dato a Roma, presso San Giovanni in Laterano, il 4 ottobre, Festa di San Francesco d’Assisi, dell’anno 2023, undicesimo del mio Pontificato.*
 
-* *
-
 FRANCESCO
 
 ------------------------------------------------------------------------

@@ -4,8 +4,6 @@ ENCICLICA
 ***IAM VOS OMNES*** DEL SOMMO PONTEFICE  
 **PIO IX**
 
-* *
-
 *A tutti i Protestanti e agli altri acattolici. Il Papa Pio IX.*
 
 Tutti voi sarete senz’altro a conoscenza che Noi, innalzati, pur senza alcun merito, a questa Cattedra di Pietro e posti quindi a capo del supremo governo e della cura dell’intera Chiesa Cattolica dallo stesso Signore Nostro Gesù Cristo, abbiamo ritenuto opportuno convocare presso di Noi i Venerabili Fratelli Vescovi di tutto il mondo e di riunirli, nel prossimo anno, in Concilio Ecumenico, per approntare, con gli stessi Venerabili Fratelli chiamati a condividere la Nostra sollecitudine pastorale, quei provvedimenti che risulteranno più idonei e più incisivi sia a dissipare le tenebre di tanti pestiferi errori che ovunque, con sommo danno delle anime, ogni giorno più si affermano e trionfano, sia a dare sempre più consistenza e a diffondere nei popoli cristiani, affidati alla Nostra vigilanza, il regno della vera fede, della giustizia e dell’autentica pace di Dio.

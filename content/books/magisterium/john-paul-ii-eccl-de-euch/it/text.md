@@ -294,7 +294,7 @@ Facciamo nostri i sentimenti di san Tommaso d'Aquino, sommo teologo e insieme ap
 « *Bone pastor, panis vere,*  *Iesu, nostri miserere...* ». 
 
 > “*Buon pastore, vero pane, o Gesù, pietà di noi: nutrici e difendici, portaci ai beni eterni nella terra dei viventi.* 
->
+
 > *Tu che tutto sai e puoi, che ci nutri sulla terra, conduci i tuoi fratelli alla tavola del cielo nella gioia dei tuoi santi*”. 
 
 *Dato a Roma, presso San Pietro, il 17 aprile, Giovedì Santo, dell'anno 2003, venticinquesimo del mio Pontificato, Anno del Rosario. *

@@ -1,10 +1,6 @@
 # Decreto de inscripción en el Calendario romano general de san Juan XXIII y san Juan Pablo II
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGREGACIÓN PARA EL CULTO DIVINO  
+CONGREGACIÓN PARA EL CULTO DIVINO  
 Y LA DISCIPLINA DE LOS SACRAMENTOS
 
 Prot. N. 309/14
@@ -28,5 +24,3 @@ No obstante cualquier disposición contraria.
 **(Antonio Card. Cañizares Llovera)** *Prefecto*
 
 **(+ Arthur Roche)** *Arzobispo Secretario*
-
-[](#top)

@@ -1,15 +1,5 @@
 # Directoire sur la piété populaire et la liturgie. Principes et orientations
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGRÉGATION POUR LE CULTE DIVIN  
@@ -71,9 +61,9 @@ Responsabilités et compétences (21)
 [DEUXIÈME PARTIE](#DEUXIÈME%20PARTIE)
 
 > ORIENTATIONS
->
+
 > EN VUE DE L’HARMONISATION DE LA PIÉTÉ POPULAIRE AVEC LA LITURGIE (93-287)
->
+
 > Avant-propos (93)
 
 **[Chap. IV.](#Chapitre%20IV)** [ANNÉE LITURGIQUE ET PIÉTÉ POPULAIRE](#Chapitre%20IV) (94-182)
@@ -94,14 +84,10 @@ Responsabilités et compétences (21)
 
 **[Chap. V.](#Chapitre%20V)** [LA VÉNÉRATION ENVERS LA SAINTE MÈRE DU SEIGNEUR](#Chapitre%20V) (183-207)
 
-> 
->
 > Quelques principes Les temps des pieux exercices mariaux (187-189) La célébration de la fête (187) Le samedi (188) Triduums, septénaires, neuvaines (189) Les "mois de Marie" (190-191) Quelques pieux exercices recommandés par le Magistère (192-207) La méditation de la Parole de Dieu (193-194) L’Angelus (195) Le "Regina cæli" (196) Le Rosaire (197-202) Les Litanies de la Sainte Vierge (203) La consécration à la Vierge Marie (204) Le scapulaire du Carmel et les autres scapulaires (205) Les médailles de la Vierge Marie (206) L’hymne "Akathistos" (207)
 
 **[Chap. VI.](#Chapitre%20VI)** [LA VÉNÉRATION DES SAINTS ET DES BIENHEUREUX](#Chapitre%20VI) (208-247)
 
-> 
->
 > Quelques principes (208-212) Les Saints Anges (213-217) Saint Joseph (218-223) Saint Jean Baptiste (224-225) Le culte des Saints et des Bienheureux (226-247) La célébration des Saints (227-229) Le jour de la fête (230-233) Au cours de la célébration de l’Eucharistie (234) Dans les Litanies des Saints (235) Les reliques des Saints (236-237) Les saintes images (238-244) Les processions (245-247)
 
 **[Chap. VII](#Chapitre%20VII)**[. LES SUFFRAGES POUR LES DÉFUNTS](#Chapitre%20VII) (248-260)

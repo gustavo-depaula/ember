@@ -2,8 +2,6 @@
 
 **LETTRE DU PAPE JEAN-PAUL II *AUX PRETRES* POUR LE JEUDI SAINT 1999**
 
-**   **
-
 *« Abba, Père! »*
 
 Chers Frères dans le sacerdoce, mon rendez vous avec vous pour le Jeudi saint, en cette année qui précède et prépare immédiatement le grand Jubilé de l'An 2000, se place sous le signe de cette invocation, dans laquelle résonnent, selon les exégètes, l'*ipsissima vox Iesu*. Dans cette invocation se trouve contenu l'insondable mystère du Verbe incarné, envoyé du Père dans le monde pour le salut de l'humanité.
@@ -57,5 +55,3 @@ En ce Jeudi saint, chers prêtres du monde entier, nous souvenant de l'onction d
 *Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipotenti, in unitate Spiritus Sancti, omnis honor et gloria per omnia sæcula sæculorum. Amen!*
 
 *Du Vatican, le 14 mars 1999, quatrième dimanche de carême, en la vingt et unième année de mon pontificat.*
-
-*  *

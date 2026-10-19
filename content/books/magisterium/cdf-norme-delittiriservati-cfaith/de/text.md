@@ -1,20 +1,8 @@
 # Normen über die Straftaten, die der Kongregation für die Glaubenslehre reserviert sind
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **NORMEN ÜBER DIE STRAFTATEN, DIE DER KONGREGATION FÜR DIE GLAUBENSLEHRE RESERVIERT SIND**
-
-** **
 
 **Erster Teil**
 

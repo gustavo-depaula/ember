@@ -1,13 +1,5 @@
 # “Pasci il tuo popolo con il tuo bastone” - Omelia del Cardinale Víctor M. Fernández nel Convegno Internazionale “Uomo - Donna immagine di Dio. Per una antropologia delle vocazioni”, Basilica di San Pietro
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Victor Manuel Fernández *Prefetto del Dicastero per la Dottrina della Fede*

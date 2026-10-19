@@ -1,12 +1,6 @@
 # Notifikation bezüglich einiger Schriften von P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
-
-** **
 
 ***NOTIFIKATION***
 
@@ -197,5 +191,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, dem 22. Februar 2001, am F
 56 Vgl. Ma II/1, 408 = 442, 444.
 
 57 Vgl. Erklärung De abortu procurato, 19-23: AAS 66 (1974) 742-744; Enzyklika Evangelium vitae, 71-74: AAS 87 (1995) 483-488.
-
-[](#top)

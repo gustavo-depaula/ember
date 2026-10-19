@@ -1,9 +1,5 @@
 # Réflexions sur les buts et les méthodes - Commission théologique internationale
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 **Réflexions sur les buts et les méthodes**
@@ -41,5 +37,3 @@ Pour le moment, parmi les sujets que la Commission se propose d’étudier, les 
 Quatre sous-Commissions ont été constituées pour l’étude de ces thèmes. Il appartient à chacune de déterminer plus précisément son thème particulier.
 
 D’autres thèmes seront traités ultérieurement.
-
-[](#top)

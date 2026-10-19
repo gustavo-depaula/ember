@@ -294,7 +294,7 @@ Faisons nôtres les sentiments de saint Thomas d'Aquin, théologien par excellen
 *« Bone pastor, panis vere, Iesu, nostri miserere... ».*
 
 > *Bon pasteur, pain véritable, Jésus aie pitié de nous nourris-nous, protège-nous, fais-nous voir le bien suprême, dans la terre des vivants.*
->
+
 > *Toi qui sais et qui peux tout, toi notre nourriture d'ici-bas, prends-nous là-haut pour convives et pour héritiers à jamais dans la famille des saints.*
 
 *Donné à Rome, près de Saint-Pierre, le 17 avril 2003, Jeudi saint, en la vingt-cinquième année de mon pontificat et en l'année du Rosaire.*

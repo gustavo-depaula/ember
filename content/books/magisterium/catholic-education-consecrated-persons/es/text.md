@@ -1,9 +1,5 @@
 # Las personas consagradas y su misión en la escuela
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA EDUCACIÓN CATÓLICA**
 
 ***LAS PERSONAS CONSAGRADAS Y SU MISIÓN EN LA ESCUELA***
@@ -37,34 +33,34 @@
 *Quisiéramos ver a Jesús* (Jn 12,21)
 
 > ***[El dinamismo de la reciprocidad](#El%20dinamismo%20de%20la%20reciprocidad)***
->
+
 > > *[La dimensión relacional](#La%20dimensión%20relacional) [La comunidad educativa](#La%20comunidad%20educativa)*
->
+
 > ***[En camino hacia el Otro](#En%20camino%20hacia%20el%20Otro)* **
->
+
 > > *[Orientar hacia la búsqueda de sentido](#Orientar%20hacia%20la%20búsqueda%20de%20sentido) [La enseñanza de la religión](#La%20enseñanza%20de%20la%20religión)*
->
+
 > ***[La vida como vocación](#La%20vida%20como%20vocación)***
->
+
 > > *[Cultura de la vocación](#Cultura%20de%20la%20vocación)*
 
 **[Educadores llamados a formar en el vivir juntos](#Educadores%20llamados%20a%20formar%20en%20el%20vivir%20juntos)**[ ](#Educadores%20llamados%20a%20formar%20en%20el%20vivir%20juntos)  
 *... en esto conocerán que sois discípulos míos: en que os amáis unos a otros* (Jn 13,35)
 
 > ***[A medida de la persona humana](#A%20medida%20de%20la%20persona%20humana)*[ ](#A%20medida%20de%20la%20persona%20humana)**
->
+
 > > *[Acompañamiento personalizado ](#Acompañamiento%20personalizado) [Dignidad de la mujer y su vocación](#Dignidad%20de%20la%20mujer%20y%20su%20vocación) *
->
+
 > ***[Perspectiva intercultural ](#Perspectiva%20intercultural)***
->
+
 > > *[Educación intercultural](#Educación%20intercultural) [Acogida de las diferencias](#Acogida%20de%20las%20diferencias)*
->
+
 > ***[Coparticipación solidaria con los pobres ](#Coparticipación%20solidaria%20con%20los%20pobres)***
->
+
 > > *[Proyectar partiendo desde los últimos](#Proyectar%20partiendo%20desde%20los%20últimos) [Dar voz a los pobres](#Dar%20voz%20a%20los%20pobres)*
->
+
 > ***[Cultura de la paz ](#Cultura%20de%20la%20paz)***
->
+
 > > *[Educar para la paz partiendo del corazón](#Educar%20para%20la%20paz%20partiendo%20del%20corazón)  [Educar a vivir juntos ](#Educar%20a%20vivir%20juntos)*
 
 **[CONCLUSIÓN](#CONCLUSIÓN)        **
@@ -370,8 +366,6 @@ El Santo Padre, en el desarrollo de la Audiencia concedida al suscrito Prefecto,
 ------------------------------------------------------------------------
 
 **NOTAS**
-
-[](#top)
 
 [^1]: Cf. JUAN PABLO II, Exhort. ap. *Vita Consecrata*, 25 de marzo de 1996, nn. 72-73, *AAS* 88 (1996), pp. 447-449.
 

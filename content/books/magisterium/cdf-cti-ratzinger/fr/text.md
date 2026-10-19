@@ -1,9 +1,5 @@
 # Discours du Cardinal Joseph Ratzinger pour le XXVe anniversaire de la Commission Théologique Internationale, 4 décembre 1994
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Discours du cardinal Joseph Ratzinger, président de la Commission théologique internationale pour le XXV**^(**e**) **anniversaire de sa création**
 
 Salle du Consistoire, 2 décembre 1994
@@ -25,5 +21,3 @@ C’est ainsi qu’ont vu le jour, entre 1970 et 1991, [seize documents](/roman_
 Ces documents, comme j’ai cru pouvoir l’écrire en présentant le premier volume qui les rassemble, « constituent une tranche d’histoire de la théologie post-conciliaire, dont l’importance n’a pas encore été reconnue », malgré tant d’efforts pour les faire connaître dans des conditions techniquement ardues, et parfois même peu favorables. Considérant ce Corpus déjà réalisé, pensant aussi aux travaux de ce quinquennat déjà en cours de réalisation sur la théologie de la Rédemption et les rapports entre le christianisme et les religions non chrétiennes, on ne peut que souhaiter que les textes de la Commission connaissent une plus large diffusion. Ce vingt-cinquième anniversaire constitue une occasion favorable pour appeler fortement sur eux l’attention des théologiens et des pasteurs.
 
 Très Saint Père, merci de votre accueil. En vous assurant de notre communion dans la prière et le service de l’Église, nous sollicitons de Votre Sainteté le précieux encouragement de Votre paternelle bénédiction apostolique.
-
-[](#top)

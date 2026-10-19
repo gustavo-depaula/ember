@@ -1,9 +1,5 @@
 # Declaração da ilegitimidade das ordenações feitas pelo Arcebispo Pierre Martin Ngô-dinh-Thuc e cúmplices, 12 de março de 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 DECLARAÇÃO\*
@@ -35,7 +31,3 @@ Além disso, esta Sagrada Congregação julga seu dever admoestar encarecidament
 \* *L’Osservatore Romano*, Edição semanal, 17 de Abril de 1983, Pág. 2 (186) = *AAS* 75 (1983) p. 392-393.
 
 \(1\) Quanto à concordância de cada um dos cânones, aqui referidos, com a legislação canónica há pouco promulgada no novo Código de Direito Canónico, ver os cânones 1.015 parágrafo 1, 1.013, 1.382, 1.383, 1041 6°.
-
-*     *
-
-[](#top)

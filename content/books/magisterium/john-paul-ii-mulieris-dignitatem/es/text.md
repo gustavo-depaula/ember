@@ -439,5 +439,3 @@ Que María, que «precede a toda la Iglesia en el camino de la fe, de la caridad
 Con estos deseos imparto a todos los fieles y, de modo especial, a las mujeres, hermanas en Cristo, la Bendición Apostólica.
 
 *Dado en Roma, junto a San Pedro, el día 15 de agosto, solemnidad de la Asunción de la Virgen María, del año 1988, décimo de mi Pontificado.*
-
-*  *

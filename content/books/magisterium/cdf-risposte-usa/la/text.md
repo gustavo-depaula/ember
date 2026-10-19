@@ -1,9 +1,5 @@
 # Responsa ad quaestiones propositas circa cibum et potum artificialiter praebenda
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 ***RESPONSA AD QUAESTIONES AB EPISCOPALI CONFERENTIA FOEDERATORUM AMERICAE STATUUM PROPOSITAS CIRCA CIBUM ET POTUM ARTIFICIALITER PRAEBENDA***
@@ -24,5 +20,3 @@ Datum Romae, ex Aedibus Congregationis pro Doctrina Fidei, die I mensis Augusti 
 
 **Angelus Amato, S.D.B.**  
 Archiepiscopus tit. Silensis *Secretarius*
-
-[](#top)

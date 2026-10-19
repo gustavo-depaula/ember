@@ -357,5 +357,3 @@ Dans un esprit de charité fraternelle, je suis heureux de vous donner, à vous 
 \(72\) Cf. s. Augustin, *In Evangelium Ioannis* tract. 26, 13 : PL 35, 1612-1613.
 
 \(73\) Ep 4. 30.
-
-*  *

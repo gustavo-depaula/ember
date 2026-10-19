@@ -5,8 +5,6 @@ LETTERA ENCICLICA ***CENTESIMUS ANNUS*** DEL SOMMO PONTEFICE
 
 **Introduzione**
 
-* *
-
 *Venerati Fratelli, carissimi Figli e Figlie, salute e Apostolica Benedizione!*
 
 1\. Il centenario della promulgazione dell'Enciclica del mio predecessore [Leone XIII](http://www.vatican.va/holy_father/leo_xiii/index_it.htm) di v.m., che inizia con le parole *Rerum novarum*,^([1](#$1)) segna una data di rilevante importanza nella presente storia della Chiesa ed anche nel mio pontificato. Essa, infatti, ha avuto il privilegio di esser commemorata con solenni Documenti dai Sommi Pontefici, a partire dal quarantesimo anniversario fino al novantesimo: si può dire che il suo iter storico è stato ritmato da altri scritti, che la rievocavano ed insieme la attualizzavano.^([2](#$2))

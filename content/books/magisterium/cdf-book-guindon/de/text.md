@@ -1,9 +1,5 @@
 # Anmerkungen zum Buch «The Sexual Creators, An Ethical proposal for Concerned Christians» (University Press of America, Lanham-New York-London 1986) von P. André Guindon, O.M.I.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 **Anmerkung zum Buch "The Sexual Creators, An Ethical proposal for Concerned Christians" (University Press of America, Lanham-New York-London 1986) von P. André Guindon, O.M.I.**
@@ -105,8 +101,6 @@ Ferner verlangt die Kongregation, dass der Autor die Bedeutung von drei wichtige
 3\. dass er der andauernden und jüngst in *[Persona humana](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_ge.html)* bekräftigten Lehre der Kirche nicht widerspricht, nach der die sexuelle Funktion ihren rechtmäßigen Platz nur in einer wahren Ehe hat.
 
 Die Kongregation verlangt ferner, dass P. Guindon in einer öffentlichen Erklärung den in dieser *Anmerkung* aufgezeigten Widerspruch zwischen den zuvor gegenüber seinem Generaloberen gemachten Behauptungen und dem Text von *The Sexual Creators* auflöst, indem er seinen Gedankengang in einer kohärenteren Weise entfaltet und so die im Buch vorhandenen Ungereimtheiten (wie den selektiven und unbeständigen Gebrauch der Tradition und des Lehramtes) auflöst und der Lehre des Lehramtes den Platz und die Maßgeblichkeit zuerkennt, die ihr zukommt.
-
-[](#top)
 
 1. Apostolische Konstitution *[Pastor Bonus](/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index_ge.html)*, Art. 48.  
 [\[2\]](#_ftnref2) *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_ge.html)*, Nr. 49.  

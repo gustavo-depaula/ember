@@ -1,22 +1,10 @@
 # Note über die Moralität des Gebrauchs einiger Impfungen gegen Covid-19
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Note über die Moralität des Gebrauchs einiger Impfungen gegen Covid-19**
-
-** **
 
 Die Frage über den Gebrauch von Impfstoffen ist generell oft im Zentrum anhaltender Diskussionen der öffentlichen Meinung. In den letzten Monaten erhielt diese Kongregation mehrere Bitten um eine Weisung in Bezug auf den Gebrauch von Impfungen gegen das SARS-CoV-2 Virus, das Covid-19 verursacht, welche im Forschungs- und Produktionsverfahren Zelllinien benutzt haben, die aus Geweben stammen, die auf zwei Abtreibungen des vergangenen Jahrhunderts zurückgehen. In derselben Zeit haben diverse und manchmal sich widerstreitende Aussagen von Bischöfen, katholischen Vereinigungen und Fachleuten in den Massenmedien Fragen über die Sittlichkeit aufgeworfen, solche Impfstoffe zu gebrauchen.
 

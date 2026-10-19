@@ -1,9 +1,5 @@
 # Reception of Holy Communion by divorced and remarried, Card. Joseph Ratzinger, 1998
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***CONCERNING SOME OBJECTIONS TO THE CHURCH'S TEACHING ON THE RECEPTION OF HOLY COMMUNION BY DIVORCED AND REMARRIED MEMBERS OF THE FAITHFUL*** [^1]
@@ -79,8 +75,6 @@ Certainly, it is difficult to make the demands of the Gospel understandable to s
 Furthermore, concerning the position of the Magisterium as regards the question of divorced and remarried members of the faithful, it must be stressed that the more recent documents of the Church bring together the demands of truth with those of love in a very balanced way. If at times in the past, love shone forth too little in the explanation of the truth, so today the danger is great that in the name of love, truth is either to be silenced or compromised. Assuredly, the word of truth can be painful and uncomfortable. But it is the way to holiness, to peace, and to inner freedom. A pastoral approach which truly wants to help the people concerned must always be grounded in the truth. In the end, only the truth can be pastoral. “Then you will know the truth, and the truth will set you free” (Jn. 8:32).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: This text reproduces the third part of Cardinal Ratzinger’s Introduction to Volume 17 of the series produced by the Congregation for the Doctrine of the Faith, entitled “Documenti e Studi”,  *On the Pastoral Care of the Divorced and Remarried*, LEV, Vatican City 1998, pp. 20-29. Footnotes have been added.
 

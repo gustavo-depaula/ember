@@ -1,9 +1,5 @@
 # Note sur les écrits du Père Anthony Di Mello, s.j., 24 juin 1998
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION POUR LA DOCTRINE DE LA FOI
 
 Note sur les écrits du Père Anthony Di Mello, s.j.\*
@@ -27,5 +23,3 @@ Rome, au Siège de la Congrégation pour la Doctrine de la Foi, le 24 juin 1998,
 + Tarcisio BERTONE, S.D.B. *Archevêque émérite de Vercelli Secrétaire*
 
 \* *L’Osservatore Romano*, édition en langue française, n. 34, 25 août 1998, p. 8.
-
-[](#top)

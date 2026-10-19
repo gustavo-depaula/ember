@@ -1,9 +1,5 @@
 # Consistório para a criação de novos cardeais
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONSISTÓRIO ORDINÁRIO PÚBLICO PARA A CRIAÇÃO DE NOVOS CARDEAIS**
 
 ***SAUDAÇÃO DO CARDEAL WILLIAM JOSEPH LEVADA AO PAPA BENTO XVI EM NOME DOS NOVOS CARDEAIS***
@@ -27,5 +23,3 @@ Apraz-me recordar o trecho da catequese que Vossa Santidade pronunciou a 22 de F
 Hoje, nós invocamos de modo especial o Espírito Santo para que ampare com a sua luz e a sua força o Ministério Apostólico de Vossa Santidade e conceda a todos nós, chamados a cooperar no serviço do Sucessor de Pedro, e a quantos nos acompanham com a sua presença, com as suas orações e o seu afecto, a generosidade no compromisso cristão e a alegria de nos sentirmos e permanecermos servos do Evangelho.
 
 A Virgem Maria, Mãe da Igreja e Rainha dos Apóstolos, nos assista na proximidade da Solenidade Litúrgica da Anunciação. O seu *fiat* seja também o nosso.
-
-[](#top)

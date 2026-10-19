@@ -1,13 +1,5 @@
 # Ausgewählte Themen der Ekklesiologie zum 20 Jahrestag des Abschlusses des Zweiten Vatikanischen Konzils, 1984
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **INTERNATIONALE THEOLOGISCHE KOMMISSION**

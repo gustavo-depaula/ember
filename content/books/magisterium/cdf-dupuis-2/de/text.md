@@ -1,9 +1,5 @@
 # Kommentar zur Notifikation in Bezug auf das Buch von J. Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***KOMMENTAR ZUR NOTIFIKATION DER KONGREGATION FÜR DIE GLAUBENSLEHRE IN BEZUG AUF DAS BUCH VON J. DUPUIS: "VERSO UNA TEOLOGIA CRISTIANA DEL PLURALISMO RELIGIOSO"*** [^1]
 
 1\. Zu allen Zeiten ist die theologische Forschung wichtig für den Evangelisierungsauftrag der Kirche als Antwort auf den Plan Gottes, der will, “dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit gelangen“ (1 *Tim* 2,4). Das immer tiefere Verständnis des Wortes Gottes, das in den inspirierten Schriften enthalten ist und von der lebendigen Tradition der Kirche weitergegeben wird, bereichert nämlich das ganze Volk Gottes, das “Salz der Erde“ und “Licht der Welt“ ist (*Mt* 5,13f.). Es hilft ihm, die Wahrheit der christlichen Offenbarung zu bezeugen und jedem Rede und Antwort zu stehen, der nach seiner Hoffnung fragt (vgl. 1 *Petr* 3,15). 
@@ -53,8 +49,6 @@ Falsch ist also die Meinung, dass der darlegende/bekräftigende Stil der Erklär
 Im Übrigen bringt die einfache Bekräftigung der Wahrheit die Einheit im Glauben an den einen und dreifaltigen Gott zum Ausdruck und festigt die Gemeinschaft in der Kirche. Die Zustimmung zur Wahrheit ist Zustimmung zu Christus und seiner Kirche und bildet den wahren Raum der menschlichen Freiheit: “Die Wege, um die Wahrheit zu erreichen, sind vielfältig; dennoch kann, da die christliche Wahrheit Heilswert besitzt, jeder dieser Wege nur dann eingeschlagen werden, wenn er zum letzten Ziel, das heißt zur Offenbarung Jesu Christi, führt“[^8]. “Die Wahrheit, die Christus ist, erscheint nötig als universale Autorität. Das christliche Mysterium überwindet jede Schranke von Zeit und Raum und verwirklicht die Einheit der Menschheitsfamilie“[^9].
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Der mit drei Sternchen gezeichnete Kommentar wurde zugleich mit der *Notifikation* im “L’Osservatore Romano” vom 27. Februar 2001 veröffentlicht.
 

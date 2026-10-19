@@ -1,9 +1,5 @@
 # Educare insieme nella scuola cattolica. Missione condivisa di persone consacrate e fedeli laici
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER L’EDUCAZIONE CATTOLICA (dei Seminari e degli Istituti di Studi)**
 
 *EDUCARE INSIEME NELLA SCUOLA CATTOLICA*
@@ -23,11 +19,11 @@ INDICE
 [II. UN CAMMINO DI FORMAZIONE PER EDUCARE INSIEME](#II._Un_cammino_di_formazione_per_educare_insieme)
 
 > **[Formazione professionale](#Formazione_professionale) [Formazione teologica e spirituale](#Formazione_teologica_e_spirituale)**
->
+
 > > ***[Il contributo dei consacrati alla formazione condivisa](#Il_contributo_dei_consacrati_alla_formazione_condivisa)* *[Il contributo dei laici alla formazione condivisa](#Il_contributo_dei_laici_alla_formazione_condivisa)***
->
+
 > **[Formazione allo spirito di comunione per educare](#Formazione_allo_spirito_di_comunione_per_educare)**
->
+
 > > ***[Testimonianza e cultura della comunione](#Testimonianza_e_cultura_della_comunione) [Comunità educativa e pastorale vocazionale](#Comunità_educativa_e_pastorale_vocazionale)***
 
 [III. LA COMUNIONE PER APRIRSI AGLI ALTRI](#III._La_comunione_per_aprirsi_agli_altri)
@@ -197,8 +193,6 @@ Anche le persone consacrate partecipano, come «vero segno di Cristo nel mondo»
 **Mons. Angelo Vincenzo Zani ** *Sottosegretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benedetto XVI, [Discorso all’apertura del Convegno ecclesiale della Diocesi di Roma su famiglia e comunità cristiana](/holy_father/benedict_xvi/speeches/2005/june/documents/hf_ben-xvi_spe_20050606_convegno-famiglia_it.html) (6 giugno 2005): *AAS* 97 (2005), 816.
 

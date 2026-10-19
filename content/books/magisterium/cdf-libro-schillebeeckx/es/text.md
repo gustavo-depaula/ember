@@ -1,9 +1,5 @@
 # Notificación sobre el libro «Pleidooi voor mensen in de Kerk» del Prof. Edward Schillebeeckx, O.P.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE EL LIBRO «PLEIDOOI VOOR MENSEN IN DE KERK» (NELISSEN, BAARN 1985) DEL PROF. EDWARD SCHILLEBEECKX, O.P.**
@@ -33,5 +29,3 @@ CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 **JOSEPH Card. RATZINGER** *Prefecto*
 
 **ALBERTO BOVONE** *Arzobispo titular de Cesarea de Numidia Secretario*
-
-[](#top)

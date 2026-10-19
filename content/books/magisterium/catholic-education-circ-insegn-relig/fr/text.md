@@ -1,9 +1,5 @@
 # Lettre circulaire sur l'enseignement de la religion dans l'école
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR L'ÉDUCATION CATHOLIQUE
 
 **LETTRE CIRCULAIRE N. 520/2009 AUX PRÉSIDENTS DES CONFÉRENCES EPISCOPALES LLSS SUR L'ENSEIGNEMENT DE LA RELIGION DANS L'ÉCOLE**
@@ -113,5 +109,3 @@ Eminence/Excellence, tout en vous priant de faire connaître le contenu de cette
 **Zenon Card. GROCHOLEWSKI**, *Préfet*
 
 \+**Jean-Louis BRUGUÈS, O.P.**, *Secrétaire*
-
-[](#top)

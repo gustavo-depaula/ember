@@ -1,9 +1,5 @@
 # LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ZAGADNIENIACH DOTYCZĄCYCH SZAFARZA EUCHARYSTII
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **ŚWIĘTA KONGREGACJA NAUKI WIARY**
 
 **LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ZAGADNIENIACH DOTYCZĄCYCH SZAFARZA EUCHARYSTII\***
@@ -97,5 +93,3 @@ Rzym, w siedzibie Świętej Kongregacji Nauki Wiary, 6 sierpnia 1983 r., w świ�
 \[11\] Por. JAN PAWEŁ II, List *Novo incipiente nostro* (8 kwietnia 1979), 10: *AAS* 71 (1979) 411-415; Jeśli chodzi o skuteczność pragnienia sakramentu por. SOB. TRYD., Dekr. *De iustificatione*, c. 4: *DS* 1524; Dekr. *De sacramentis*, can. 4: *DS* 1604; SOB. WAT. II, Konst. *Lumen gentium*, 14; ŚWIĘTE OFICJUM, *List do abpa Bostonu* (8 sierpnia 1949): *DS* 3870, 3872.
 
 \[12\] Por. SOB. WAT. II, Konst. *Lumen gentium*, 23.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Decreto Generale circa il delitto di attentata ordinazione sacra di una donna
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **DECRETO GENERALE *circa il delitto di attentata ordinazione sacra di una donna***
@@ -26,5 +22,3 @@ Arcivescovo titolare di Sila
 *Segretario*
 
 *In Congr. pro Doctrina Fidei tab., n. 337/02*
-
-[](#top)

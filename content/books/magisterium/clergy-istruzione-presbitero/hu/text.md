@@ -1,9 +1,5 @@
 # A pap mint a plébániai közösség pásztora és vezetője, Instrukció, 2002. augusztus 4.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **A pap mint a plébániai közösség pásztora és vezetője**  
 
 A Klérus Kongregáció dokumentuma  
@@ -394,8 +390,6 @@ Amen. [^150]\]
 ------------------------------------------------------------------------
 
 Jegyzetek
-
-[](#top)
 
 [^1]: II. János Pál pápa: *Levél a papokhoz 2001 nagycsütörtökén*, 1. p.  
 [\[2\]](#sdfootnote2anc "sdfootnote2sym")*De Trinitate* 13, 19, 24: *NBA* 4,555.  

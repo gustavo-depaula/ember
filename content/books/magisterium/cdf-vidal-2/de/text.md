@@ -1,12 +1,6 @@
 # Anmerkungen zur Notifikation bezüglich einiger Schriften von P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
-
-** **
 
 **Anmerkungen zur *NOTIFIKATION* der Kongregation für die Glaubenslehre  bezüglich einiger Schriften von  *P. MARCIANO VIDAL, C.Ss.R.***
 
@@ -73,5 +67,3 @@ Die gleichen Beweggründe finden sich in den Aussagen des Lehramts über die hom
 12 Vgl. Kongregation für die Glaubenslehre, Instruktion Donum vitae (22. Februar 1987), II, B, 5: AAS (1988) 92-94.
 
 13 Johannes Paul II., Enzyklika Evangelium vitae (25. März 1995), 58-62: AAS 87 (1995) 466-472.
-
-[](#top)

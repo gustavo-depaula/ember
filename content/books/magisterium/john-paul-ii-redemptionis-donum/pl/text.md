@@ -90,8 +90,6 @@ Tak oto — wraz z profesją rad ewangelicznych, w sposób daleko dojrzalszy i b
 
 8\. Tak więc, drodzy Bracia i Siostry — wszyscy, którzy w całym Kościele żyjecie ewangelicznym przymierzem profesji rad ewangelicznych, odnawiajcie w tym świętym Roku Odkupienia świadomość Waszego szczególnego uczestnictwa w krzyżowej śmierci Odkupiciela — uczestnictwa, poprzez które wspólnie z Nim zmartwychwstaliście, i stale zmartwychwstajecie, do nowego życia. Pan mówi do każdego i każdej z Was tak, jak przemówił kiedyś przez Izajasza proroka:
 
-* *
-
 „Nie lękaj się, bo cię wykupiłem,
 
 wezwałem cię po imieniu:
@@ -108,8 +106,6 @@ Sięgamy więc — w tym szczególnym kontekście Roku Odkupienia — do tajemni
 
 Niechże, wraz z tą miłością, pogłębia się w każdym i każdej z Was *radość, że należycie wyłącznie do Boga*, że jesteście szczególnym dziedzictwem Trójcy Przenajświętszej, Ojca — Syna — Ducha Świętego. Powtarzajcie nieraz wspólnie z Psalmistą te natchnione słowa:
 
-* *
-
     „Kogo prócz Ciebie mam w niebie?
 
     Gdy jestem z Tobą, nie cieszy mnie ziemia.
@@ -120,11 +116,7 @@ Niechże, wraz z tą miłością, pogłębia się w każdym i każdej z Was *rad
 
     i mym udziałem na wieki”37.
 
-* *
-
 Albo też:
-
-* *
 
     „Mówię Panu: «Tyś jest Panem moim;
 
@@ -133,8 +125,6 @@ Albo też:
     Pan częścią dziedzictwa mego i kielicha mego:
 
     To właśnie Ty mój los zabezpieczasz”38.
-
-* *
 
 Świadomość przynależenia do Boga samego w Jezusie Chrystusie, Odkupicielu świata i Oblubieńcu Kościoła, *niech pieczętuje Wasze serca*^([39](#p39)), wszystkie Wasze myśli, słowa i uczynki, znamieniem biblijnej oblubienicy. Wiecie o tym, że to serdeczne i dogłębne poznanie Chrystusa dokonuje się i pogłębia z każdym dniem coraz bardziej dzięki życiu modlitwy osobistej, wspólnotowej i liturgicznej, właściwej każdej z Waszych Rodzin zakonnych. Również w tym, nad wszystko inne, Zakonnicy i Zakonnice całkowicie oddani kontemplacji stanowią istotną pomoc i zachętę dla swych braci i sióstr zajmujących się dziełami apostolskimi. Niech ta świadomość przynależności do Chrystusa *otwiera* Wasze serca, myśli i uczynki, kluczem tajemnicy Odkupienia na wszystkie cierpienia, potrzeby i nadzieje ludzi i świata, pośród których wasza ewangeliczna konsekracja została zaszczepiona jako szczególny znak obecności Boga, „dla którego wszyscy żyją”^([40](#p40)), ogarnięci niewidzialnym wymiarem Jego królestwa.
 

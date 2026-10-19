@@ -1,9 +1,5 @@
 # Encounter with the Fullness of Truth in Christ
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Pauline Year/International Scientific Conference: *Sanctitas, Caritas, Veritas***
 
 *Faculty of Theology University of Cardinal Stefan Wyszyński of Warsaw 18 May 2009*
@@ -87,8 +83,6 @@ The attribution of supremacy to intellectual criteria and to this-worldly projec
 The main effort in preaching and teaching in the Church is addressed not to atheists but to believers, especially when their life of faith may be undeveloped and even latent. The teaching mission of the Church and of all those who in some way participate in that teaching is to facilitate in the working out of a comprehensive and cohesive worldview, well understood, firmly rooted in the mind, illuminating various implications and ramifications that extend out into all aspects of thinking and into the entire ethos, with full respect towards the achievements of the natural reason and of contemporary culture, but always profoundly and primarily rooted within the revealed truths and opening out towards the never fully exhausted mystery of the living God. It is only when the mysterious truths of faith have been received as such, forming permanent structures in the mind and heart, that Christians may live consistently according to the Gospel, and then that Gospel may become a life giving leaven to civilization. I conclude with a final thought of Cardinal Newman: “Say they are few, such high Christians; and what follows? They are enough to carry on God’s noiseless work. The Apostles were such men.”[^3]
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Sermon IV, 4, *Fifteen Sermons Preached Before the University at Oxford Between A.D. 1826 and 1843*, (Notre Dame: University of Notre Dame Press, 1997), p. 58.
 

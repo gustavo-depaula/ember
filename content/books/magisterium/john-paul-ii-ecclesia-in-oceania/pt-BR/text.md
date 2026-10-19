@@ -351,8 +351,6 @@ Não há lugar aqui para um elenco exaustivo dos serviços sociais prestados pel
 
 É frequente haver voluntários que oferecem o seu tempo, energias e serviços profissionais a estas formas de apostolado, sem qualquer remuneração. É que quantos escolheram, como modo de vida, amar sacrificando-se a si próprios, não o fizeram à espera de agradecimento ou recompensa humana, nem haveria uma adequada; toda a sua preocupação é desempenhar a parte que lhes cabe na missão eclesial de proclamar a verdade de Jesus Cristo, seguir o seu caminho e viver a sua vida. Estas pessoas são de importância fundamental em qualquer planificação para uma nova evangelização dos povos da Oceânia. A fé é despertada pela pregação da palavra de Deus, e a esperança é alimentada pela promessa do seu Reino, mas a caridade é infundida pelo Espírito Santo, « Senhor que dá a vida ». 
 
-*  *
-
 **CAPÍTULO IV **
 
 **VIVENDO A VIDA DE JESUS CRISTO NA OCEÂNIA **

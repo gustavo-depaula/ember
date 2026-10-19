@@ -1,15 +1,5 @@
 # Christus dominus
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAULUS EPISCOPUS  
@@ -59,7 +49,7 @@ II\. Episcopi et Apostolica Sedes
 8\.
 
 > a\) Episcopis, ut Apostolorum successoribus, in dioecesibus ipsis commissis per se omnis competit potestas ordinaria, propria ac immediata, quae ad exercitium eorum muneris pastoralis requiritur, firma semper in omnibus potestate quam, vi muneris sui, Romanus Pontifex habet sibi vel alii Auctoritati causas reservandi.
->
+
 > b\) Singulis Episcopis dioecesanis facultas fit a lege generali Ecclesiae in casu particulari dispensandi fideles in quos ad normam iuris exercent auctoritatem, quoties id ad eorum bonum spirituale conferre iudicent, nisi a Suprema Ecclesiae Auctoritate specialis reservatio facta fuerit.
 
 9\. In exercenda suprema, plena et immediata potestate in universam Ecclesiam, Romanus Pontifex utitur Romanae Curiae Dicasteriis, quae proinde nomine et auctoritate illius munus suum explent in bonum Ecclesiarum et in servitium Sacrorum Pastorum.
@@ -209,17 +199,17 @@ Eximiam quoque adiutricem operam praestant sacerdotes, quibus ab Episcopo divers
 30\. Praecipua autem ratione Episcopi cooperatores sunt parochi, quibus, tamquam pastoribus propriis, animarum cura committitur in determinata dioecesis parte sub illius auctoritate.
 
 > 1\) In hac autem cura gerenda parochi, cum suis adiutoribus ita munus docendi, sanctificandi et regendi adimpleant, ut fideles atque communitates paroeciales, tum dioecesis tum totius Ecclesiae universalis membra revera se sentiant. Quapropter cum aliis parochis collaborent necnon cum sacerdotibus, qui munus pastorale in territorio exercent (uti sunt e. g. Vicarii Foranei, Decani), vel operibus indolis supraparoecialis sunt addicti, ut cura pastoralis in dioecesi unitate non careat atque efficacior reddatur.
->
+
 > Praeterea cura animarum spiritu missionali semper informetur, ita ut ad omnes in paroecia degentes, debito modo, se extendat. Quodsi parochi quosdam personarum coetus attingere nequeant, alios, etiam laicos, in proprium adiutorium vocent, qui sibi auxilium praestent in iis quae ad apostolatum spectant.
->
+
 > Ad eamdem vero animarum curam efficaciorem reddendam, vita communis sacerdotum, praesertim eidem paroeciae addictorum, enixe commendatur, quae, dum actionem apostolicam fovet, caritatis et unitatis exemplum fidelibus praebet.
->
+
 > 2\) In exsequendo munere magisterii, parochorum est: verbum Dei praedicare omnibus christifidelibus, ut hi in fide, spe et caritate radicati, in Christo crescant et communitas christiana illud testimonium caritatis reddat, quod Dominus commendavit;[^32] itemque catechetica instructione fideles ad plenam mysterii salutis cognitionem ducere, unicuique aetati accommodatam. Ad hanc autem instructionem tradendam non solum religiosorum auxilium quaerant, sed etiam laicorum cooperationem, erecta quoque Confraternitate Doctrinae Christianae.
->
+
 > In perficiendo opere sanctificationis, curent parochi ut celebratio \[689\] Eucharistici Sacrificii centrum sit et culmen totius vitae communitatis christianae; itemque adlaborent ut fideles spirituali pabulo pascantur per devotam et frequentem Sacramentorum receptionem atque per consciam et actuosam in Liturgia participationem. Meminerint etiam parochi quam maxime sacramentum Poenitentiae ad vitam christianam fovendam conferre; quare faciles se praebeant ad fidelium confessiones audiendas, advocatis ad hoc, si opus fuerit, aliis etiam sacerdotibus, qui varias linguas calleant.
->
+
 > In officio pastoris adimplendo, imprimis curent parochi proprium gregem cognoscere. Cum autem omnium ovium sint ministri, vitae christianae incrementum foveant tum in singulis fidelibus, tum in familiis, tum in associationibus praesertim apostolatui addictis, tum in universa communitate paroeciali. Domos igitur et scholas visitent, prout pastorale munus id exigat; adulescentibus et iuvenibus studiose prospiciant; pauperes et infirmos paterna caritate prosequantur; peculiarem denique curam de opificibus habeant atque adlaborent ut fideles operibus apostolatus auxilium praestent.
->
+
 > 3\) Vicarii paroeciales tamquam parochi cooperatores, praestantem et actuosam operam quotidie impendunt in ministerio pastorali sub parochi auctoritate exercendo. Quare inter parochum eiusque vicarios fraterna habeatur conversatio, mutua caritas et reverentia semper vigeat iidemque consiliis, auxilio et exemplo sese invicem adiuvent, paroeciali curae concordi voluntate communique studio providentes.
 
 31\. In iudicio efformando de sacerdotis idoneitate ad aliquam paroeciam regendam, Episcopus rationem habeat, non solum de illius doctrina, sed etiam de pietate, zelo apostolico, ceterisque dotibus ac qualitatibus, quae ad curam animarum rite exercendam requiruntur.
@@ -241,17 +231,17 @@ Hos vero fines promovere tenentur imprimis oratione, poenitentiae operibus et pr
 35\. Ad hoc autem ut apostolatus opera in singulis dioecesibus concorditer semper exerceantur atque unitas dioecesanae disciplinae sarta tecta servetur, haec principia fundamentalia statuuntur:
 
 > 1\) Episcopos, utpote Apostolorum successores, Religiosi omnes devoto semper obsequio ac reverentia prosequantur. Praeterea quoties ad apostolatus opera legitime vocantur ita munia sua exercere tenentur ut Episcopis auxiliatores adsint et subsint.[^33] Quin immo Religiosi Episcoporum postulationibus votisque prompte ac fideliter obsecundent ut ampliores partes in salutis humanae ministerium suscipiant, salva Instituti indole et secundum Constitutiones, quae, si necesse sit, ad hunc finem accommodentur, inspectis huius Decreti Concilii principiis. Praesertim, attentis urgentibus animarum necessitatibus atque cleri dioecesani penuria, Instituta religiosa, quae vitae mere contemplativae non addicuntur, ab Episcopis advocari possunt ut in variis ministeriis pastoralibus operam adiutricem impendant, inspecta tamen propria cuiusque Instituti indole; quam operam ut praestent, in paroeciis quoque suscipiendis etiam ad tempus, Superiores pro viribus faveant.
->
+
 > 2\) Religiosi autem, in externum apostolatum immissi, spiritu religionis propriae imbuti sint, atque fideles permaneant regulari observantiae et subiectioni erga proprios Superiores; quam obligationem ipsi Episcopi urgere ne omittant.
->
+
 > 3\) Exemptio, qua Religiosi ad Summum Pontificem vel ad aliam ecclesiasticam Auctoritatem advocantur et ab Episcoporum iurisdictione subducuntur, ordinem Institutorum internum potissimum respicit, quo melius in iisdem omnia sint inter se apta et connexa atque incremento et perfectioni religiosae conversationis consulatur;[^34] necnon ut de illis disponere possit Summus Pontifex in bonum Ecclesiae universae,[^35] alia vero competens Auctoritas in bonum Ecclesiarum propriae iurisdictionis. Haec autem exemptio non impedit quominus Religiosi in singulis dioecesibus Episcoporum iurisdictioni subsint ad normam iuris, prout horum pastorale munus perfungendum et animarum rite ordinanda curatio requirunt.[^36]
->
+
 > 4\) Omnes Religiosi, exempti et non exempti, Ordinariorum locorum potestati subsunt in iis quae ad publicum exercitium cultus divini, salva quidem Rituum diversitate, ad curam animarum, ad sacram praedicationem populo tradendam, ad christifidelium, praesertim puerorum, religiosam et moralem educationem, catecheticam institutionem et liturgicam efformationem atque ad status clericalis decorem spectant necnon ad varia opera in iis quae sacri apostolatus exercitium respiciunt. Religiosorum quoque scholae catholicae Ordinariis locorum subsunt ad earum generalem ordinationem et vigilantiam quod attinet, firmo tamen iure Religiosorum quoad earumdem moderamen. Pariter Religiosi tenentur servare ea omnia quae Episcoporum Concilia aut Conferentiae ab omnibus servanda legitime edixerint.
->
+
 > 5\) Inter varia Instituta religiosa atque inter eadem et clerum dioecesanum, ordinata foveatur cooperatio. Arcta insuper habeatur omnium operum et actionum apostolicarum coordinatio, quae maxime pendet a supernaturali animorum et mentium habitu, in caritate radicato et fundato. Hanc autem coordinationem curare Apostolicae Sedi competit pro universa Ecclesia; sacris vero Pastoribus in sua cuiusque dioecesi; Patriarchalibus demum Synodis et Episcoporum Conferentiis in proprio territorio.
->
+
 > Episcopi vel Episcoporum Conferentiae et Superiores religiosi vel Conferentiae Superiorum Maiorum, pro operibus apostolatus quae a Religiosis exercentur, praeviis consiliis mutuo inter se collatis procedere velint.
->
+
 > 6\) Ad fovendas concorditer et fructuose mutuas relationes inter Episcopos et Religiosos, statis temporibus et quoties id opportunum videbitur, Episcopi et Superiores religiosi convenire velint ad negotia tractanda, quae universim ad apostolatum in territorio pertinent.
 
 **CAPUT III**
@@ -269,19 +259,19 @@ Exoptat haec Sancta Oecumenica Synodus ut veneranda Synodorum et Conciliorum ins
 38\.
 
 > 1\) Est Episcoporum Conferentia veluti coetus in quo sacrorum Antistites cuiusdam nationis vel territorii munus suum pastorale coniunctim exercent ad maius bonum, quod hominibus praebet Ecclesia, provehendum, praesertim per apostolatus formas et rationes occurrentibus aetatis adiunctis apte compositas.
->
+
 > 2\) Omnes Ordinarii locorum cuiuscumque ritus, Vicariis Generalibus exceptis, Coadiutores, Auxiliares aliique Episcopi titulares peculiari munere vel ab Apostolica Sede vel ab Episcoporum Conferentiis demandato fungentes ad Episcoporum Conferentiam pertinent. Ceteri Episcopi titulares necnon, ob singulare quod obeunt in territorio officium, Legati Romani Pontificis non sunt de iure membra Conferentiae.
->
+
 > Ordinariis locorum necnon Coadiutoribus competit suffragium deliberativum. Auxiliaribus aliisque Episcopis, quibus ius est Conferentiae interesse, suffragium deliberativum aut consultivum decernent statuta Conferentiae.
->
+
 > 3\) Quaelibet Conferentia Episcoporum sua conficiat statuta, ab Apostolica Sede recognoscenda, in quibus -praeter alia media- officia provideantur quae fini consequendo efficacius consulant, e. g. Consilium permanens Episcoporum, Commissiones Episcopales, Secretariatus Generalis.
->
+
 > 4\) Decisiones Conferentiae Episcoporum, dummodo legitime et per duas saltem ex tribus partibus suffragiorum Praesulum, qui voto deliberativo fruentes ad Conferentiam pertinent, prolatae fuerint et ab Apostolica Sede recognitae, vim habeant iuridice obligandi in casibus dumtaxat in quibus aut ius commune id praescripserit aut peculiare Apostolicae Sedis mandatum, motu proprio aut ad petitionem ipsius Conferentiae datum, id statuerit.
->
+
 > 5\) Ubi peculiaria adiuncta id postulent, Episcopi plurium nationum, Apostolica Sede approbante, unam poterunt Conferentiam constituere.
->
+
 > Foveantur insuper relationes inter Conferentias Episcopales diversarum nationum ad maius bonum promovendum ac tuendum.
->
+
 > 6\) Enixe commendatur ut Praesules Orientalium Ecclesiarum, in disciplina propriae Ecclesiae in Synodis promovenda et ad opera in bonum religionis efficacius fovenda, rationem etiam habeant boni communis totius territorii, ubi plures Ecclesiae diversorum rituum exstant, consiliis in conventibus interritualibus collatis, iuxta normas a competenti Auctoritate statuendas.
 
 **II. Provinciarum ecclesiasticarum circumscriptio et regionum ecclesiasticarum erectio**
@@ -291,9 +281,9 @@ Exoptat haec Sancta Oecumenica Synodus ut veneranda Synodorum et Conciliorum ins
 40\. Itaque, ad memoratos fines consequendos, Sacrosancta Synodus haec statuenda decernit:
 
 > 1\) Provinciarum ecclesiasticarum circumscriptiones opportune recognoscantur et iura ac privilegia Metropolitarum novis aptisque normis definiantur.
->
+
 > 2\) Pro regula habeatur ut omnes dioeceses aliaeque territoriales circumscriptiones quae iure dioecesibus aequiparantur alicui provinciae ecclesiasticae adscribantur. Proinde dioeceses quae nunc Apostolicae Sedi immediate sint subiectae quaeque nulli alii uniantur, aut in novam provinciam ecclesiasticam, si id fieri possit, sunt simul componendae aut illi provinciae aggregandae, quae vicinior seu opportunior sit, et iuri metropolitico Archiepiscopi sunt subiciendae ad normam iuris communis.
->
+
 > 3\) Ubi utilitas id suadet, provinciae ecclesiasticae in regiones ecclesiasticas componantur, quarum ordinatio iure est statuenda.
 
 41\. Expedit ut competentes Episcoporum Conferentiae quaestionem de huiusmodi provinciarum circumscriptione aut regionum erectione examini subiciant, iuxta normas iam de dioecesium circumscriptione in nn. 23 et 24 statutas, et consilia ac vota sua Apostolicae Sedi proponant.

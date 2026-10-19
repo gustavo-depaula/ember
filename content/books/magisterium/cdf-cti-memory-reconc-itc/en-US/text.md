@@ -1,16 +1,10 @@
 # Memory and Reconciliation: the Church and the faults of the past 7 March 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 International Theological Commission
 
 ***MEMORY AND RECONCILIATION: THE CHURCH AND THE FAULTS OF THE PAST***
 
 *December 1999*
-
-* *
 
 *PRELIMINARY NOTE*
 
@@ -45,8 +39,6 @@ The study of the topic “The Church and the Faults of the Past” was proposed 
 > *6.1. [The Pastoral Aims](#The%20Pastoral%20Aims) 6.2. [The Ecclesial Implications](#Ecclesial%20Implications) 6.3. [The Implications for Dialogue and Mission](#The%20Implications%20for%20Dialogue%20and%20Mission)*
 
 ***[Conclusion](#II%20Conclusion)***
-
-*** ***
 
 **Introduction**
 
@@ -521,5 +513,3 @@ At the conclusion of this reflection, it is appropriate to stress yet again that
 \(101\) *Discourse at the Centre de l’Organisation europeénne pour la recherche nucléaire,* Geneva (June 15, 1982) in *Insegnamenti di Giovanni Paolo II,* V, 2, (Vatican, 1982), 2321.
 
 \(102\) *TMA,* 33.
-
-[](#top)

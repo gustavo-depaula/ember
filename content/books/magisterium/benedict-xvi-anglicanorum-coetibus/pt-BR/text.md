@@ -39,9 +39,9 @@ IV\. Um Ordinariato Pessoal é confiado ao cuidado pastoral de um Ordinário nom
 V. O poder *(potestas)* do Ordinariato é:
 
 > a\. *ordinári*o: anexado pelo próprio direito ao cargo que lhe é conferido pelo Romano Pontífice, pelo foro interno e pelo foro externo;
->
+
 > b\. *vicário:* exercido em nome do Romano Pontífice;
->
+
 > c\. *pessoal:* exercido sobre quantos pertencem ao Ordinariato.
 
 Ele é *exercido de modo conjunto* com o do Bispo diocesano local nos casos previstos pelas Normas Complementares.

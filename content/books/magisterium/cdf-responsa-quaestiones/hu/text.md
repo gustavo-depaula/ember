@@ -1,9 +1,5 @@
 # Válaszok az Egyházról szóló tanítás néhány szempontjával kapcsolatban feltett kérdésekre
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **A Hittani Kongregáció július 10-én *"Válaszok az Egyházról szóló tanítás néhány szempontjával kapcsolatban feltett kérdésekre"* címmel dokumentumot adott ki a II. Vatikáni Zsinat egyházról szóló tanításának értelmezéséről. A dokumentum, melyet az alábbiakban teljes terjedelmében közlünk, kérdés-felelet formában öt pontot érint.**
 
 **Bevezetés**  
@@ -92,5 +88,3 @@ E két mondat megtalálható az *Unitatis redintegratio* határozatban (2,5 és 
 [\[20\]](#JB20) Vö. Hittani Kongregáció: *Dominus Jesus* nyilatkozat 17,2: AAS 92(2000-II)758.
 
 \[www.katolikus.hu\]
-
-[](#top)

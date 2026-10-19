@@ -1,9 +1,5 @@
 # Unità e diversità nella chiesa - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **UNITÀ E DIVERSITÀ NELLA CHIESA**
@@ -29,7 +25,6 @@ Da qui il seguente piano:
 **[*I.* *La diversità nell'unità, oltre la divisione e l'uniformità, secondo l'antico Testamento*](#I._LA_DIVERSITÀ_NELLUNITÀ,_OLTRE_LA_DIVISIONE_E_LUNIFORMITÀ,_SECONDO_LANTICO_TESTAMENTO)**
 
 > *[1. La diversità](#1._La_diversità) [2. L'unità attraverso i Patriarchi, l'Alleanza, i Re e i Profeti](#2._Lunità_attraverso_i_Patriarchi,_lAlleanza,_i_Re_e_i_Profeti) [3. L'unità attraverso l'istituzione sacerdotale](#3._Lunità_attraverso_listituzione_sacerdotale_)*  
->  
 
 ***[II. Dall'Antico al Nuovo Testamento](#II._DALLANTICO__AL_NUOVO_TESTAMENTO_)***
 
@@ -38,28 +33,22 @@ Da qui il seguente piano:
 ***[III. Unità e diversità nel Corpus paolino](#III._UNITÀ_E_DIVERSITÀ__NEL_CORPUS_PAOLINO)***
 
 > *[1. Le lettere cosiddette «proto-paoline»](#1._Le_lettere_cosiddette_«proto-paoline») [2. Le lettere cosiddette «della prigionia»](#2._Le_lettere_cosiddette_«della_prigionia»_) [3. Le lettere cosiddette «pastorali»](#3._Le_lettere_cosiddette_«pastorali»)*  
->  
 
 ***[IV. Unità e diversità nei Vangeli sinottici e negli Atti](#IV.__UNITÀ_E_DIVERSITÀ_NEI_VANGELI_SINOTTICI__E_NEGLI_ATTI)***
 
 > *[1. Marco](#1.) [2. Matteo](#2.) [3. Luca e Atti](#3.)*  
->  
 
 ***[V. Altri scritti](#V.__ALTRI_SCRITTI_)***
 
 > *[1. La lettera agli Ebrei](#1._La_lettera_agli_Ebrei) [2. La prima lettera di Pietro](#2._La_prima_lettera_di_Pietro)*  
->  
 
 ***[VI. Unità e diversità nel Corpus giovanneo](#VI.__UNITÀ_E_DIVERSITÀ__NEL_CORPUS_GIOVANNEO)***
 
 > *[1. Il IV Vangelo](#1._Il_IV_Vangelo) [2. Le lettere di Giovanni](#2._Le_lettere_di_Giovanni) [3. L'Apocalisse](#3._LApocalisse)*  
->  
 
 **[B. BREVE SINTESI DELLA TESTIMONIANZA BIBLICA](#B._BREVE_SINTESI__DELLA_TESTIMONIANZA_BIBLICA_)**
 
 > *[1. I diversi nomi dell'unica Chiesa](#1._I_diversi_nomi_dellunica_Chiesa) [2. La comunione ecclesiale nella diversità](#2._La_comunione_ecclesiale_nella_diversità)*
->
->  
 
 ------------------------------------------------------------------------
 
@@ -362,5 +351,3 @@ I dinamismi di questo mondo sono numerosi, i carismi della Chiesa sono vari, l'a
 Grazie a quest'amore diffuso nei cuori dallo Spirito (Rm 5,5), grazie alla frazione del pane (1Cor 10,16-17), grazie alla testimonianza dei Dodici, dei quali Pietro, come «primo» (Mt 10,2), è incaricato da Gesù di pascere le sue pecore (Gv 21,16-17), grazie alla predicazione di Paolo, continuata dai suoi collaboratori, Tito e Timoteo, grazie al messaggio dei quattro vangeli, l'unità della Chiesa del Cristo si realizza attraverso tutte le diversità. Essa è la riconciliazione dei popoli divisi dall'odio (Ef 2,14-16). Per la misericordia di Dio, per l'azione del Cristo risorto e per la potenza dello Spirito, l'unità della Chiesa può superare divisioni apparentemente insuperabili. In essa, le diversità legittime trovano una meravigliosa fecondità.
 
 *Roma, 11 aprile 1988*
-
-[](#top)

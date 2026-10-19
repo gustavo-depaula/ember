@@ -1,9 +1,5 @@
 # Erwägungen zu den Entwürfen einer rechtlichen Anerkennung der Lebensgemeinschaften zwischen homosexuellen Personen
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***ERWÄGUNGEN ZU DEN ENTWÜRFEN EINER RECHTLICHEN ANERKENNUNG DER LEBENSGEMEINSCHAFTEN ZWISCHEN HOMOSEXUELLEN PERSONEN***
@@ -129,5 +125,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 3. Juni 2003, dem Geden
 \(17\) Darüber hinaus besteht immer die Gefahr, dies darf man nicht vergessen,  »dass ein Gesetz, welches aus der Homosexualität eine Grundlage zur Erlangung von Rechten macht, faktisch eine Person mit homosexueller Neigung ermutigen kann, sich als homosexuell zu deklarieren oder sogar einen Partner zu suchen, um die Anordnungen des Gesetzes auszunützen«  (Kongregation für die Glaubenslehre, *Einige Erwägungen bezüglich der Antwort auf Gesetzesvorschläge über die Nicht-Diskriminierung homosexueller Personen*, 24. Juli 1992, 14).
 
 \(18\) Johannes Paul II., Enzyklika *Evangelium vitae*, 25. März 1995, 73.
-
-[](#top)

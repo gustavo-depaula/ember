@@ -1,16 +1,10 @@
 # Bibbia e morale. Radici bibliche dell'agire cristiano - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **BIBBIA E MORALE**
 
 **RADICI BIBLICHE DELL’AGIRE CRISTIANO**
-
-** **
 
 **[Prefazione](#PREFAZIONE)**
 
@@ -54,11 +48,11 @@ PONTIFICIA COMMISSIONE BIBLICA
 > 2.2.1. L'alleanza con Noè e con "ogni carne".  
 > 2.2.2. L'alleanza con Abramo  
 > 2.2.3. L'alleanza con Mosè e il popolo d'Israele.
->
+
 > > 2.2.3.1. Il Decalogo.  
 > > 2.2.3.2. I codici legislativi.  
 > > 2.2.3.3. L'insegnamento morale dei Profeti.
->
+
 > 2.2.4. L'alleanza con Davide.  
 > 2.2.5. La "nuova alleanza" secondo Geremia.  
 > 2.2.6. L'insegnamento morale dei sapienti.
@@ -195,8 +189,6 @@ Non desiderare la moglie del tuo prossimo, né il suo schiavo, né la sua schiav
 
 ***Matteo 5,3-12***
 
-* *
-
 Beati i poveri in spirito, perché di essi è il regno dei cieli.
 
 Beati gli afflitti, perché saranno consolati.  
@@ -286,8 +278,6 @@ Si avrà cura dunque di non opporre Antico e Nuovo Testamento, in materia di mor
 
 **PRIMA PARTE**
 
-** **
-
 **UNA MORALE RIVELATA: DONO DIVINO E RISPOSTA UMANA**
 
 **7.** Il rapporto fra dono divino e risposta umana, fra azione antecedente di Dio e compito dell’uomo, è determinante per la Bibbia e per la morale in essa rivelata. Cominciando dalla creazione cerchiamo di descrivere i doni di Dio, secondo le diverse fasi del suo agire in favore dell’umanità e del popolo eletto, e aggiungiamo sempre i compiti che Dio ha connesso con i suoi doni.
@@ -365,8 +355,6 @@ Ciascuna delle caratteristiche che rendono l’uomo « immagine » di Dio porta 
 **12.** Il riconoscimento di Dio come Creatore conduce alla lode e all’adorazione di Dio, poiché la creazione attesta la divina saggezza, potenza e fedeltà. Lodando, insieme al salmista, Dio per lo splendore, l’ordine e la bellezza della creazione, siamo incitati a un profondo rispetto verso il mondo del quale gli uomini fanno parte. La persona umana costituisce il culmine della creazione perché solamente gli uomini possono avere un rapporto personale con Dio e possono articolare la lode di Dio anche come vicari delle altre creature. Per mezzo degli uomini e mediante il culto della comunità tutta la creazione esprime la lode di Dio creatore (cf. Sal 148). I salmi della creazione conducono anche a una sana e positiva valutazione del mondo attuale, perché la vita in questo mondo è fondamentalmente buona. Nel passato poté accadere che la tradizione cristiana fosse tanto occupata della salvezza eterna degli uomini che essa mancava di dare la giusta attenzione al mondo naturale. La dimensione cosmica della fede nella creazione articolata nei salmi esige che l’attenzione venga rivolta alla natura e alla storia, al mondo umano e sub-umano, coinvolgendo contemporaneamente sia cosmologia sia antropologia e teologia.
 
 Il Salterio si occupa dei temi inevitabili dell’esistenza umana in un mondo di mistero, incertezza e minaccia (cf. salmi di lamentazione). I salmisti mantengono la fiducia in un creatore benevolo che continuamente ha cura delle sue creature. Ciò suscita un continuo inno di lode e di ringraziamento: “Lodate il Signore perché è buono, perché eterna è la sua misericordia” (Sal 136,1).
-
-** **
 
 **1.2.3. Conclusione: sulle tracce di Gesù**
 
@@ -579,25 +567,25 @@ Ciascuno di questi valori apre un ‘programma’ cioè un compito morale mai co
 Tre valori verticali (riguardano le relazioni della persona umana con Dio):
 
 > 1\. rendere un culto a un unico Assoluto
->
+
 > 2\. rispettare la presenza e la missione di Dio nel mondo (ciò che il “nome” simboleggia)
->
+
 > 3\. valorizzare la dimensione sacra del tempo
 
 Sette valori orizzontali (riguardano le relazioni fra le persone umane):
 
 > 4\. onorare la famiglia
->
+
 > 5\. promuovere il diritto alla vita
->
+
 > 6\. mantenere l’unione della coppia marito e moglie
->
+
 > 7\. difendere il diritto per ognuno di vedere la propria libertà e dignità rispettata da tutti
->
+
 > 8\. preservare la reputazione degli altri
->
+
 > 9\. rispettare le persone (che appartengono a una casa, una famiglia, un’impresa)
->
+
 > 10\. lasciare all’altro le sue proprietà materiali.
 
 Analizzando i dieci valori presenti nel Decalogo, si nota che essi seguono un ordine di progressione decrescente (dal valore prioritario a quello meno importante), Dio al primo posto e le cose materiali all’ultimo; e, all’interno dei rapporti umani, si trova all’inizio della lista famiglia, vita, matrimonio stabile.
@@ -611,23 +599,23 @@ Il Decalogo, invece, apre largamente la via a una morale liberatrice: lasciare i
 **31.** In una prospettiva prevalente di attualizzazione questi dieci valori che sono alla base del Decalogo offrono un fondamento chiaro per una carta dei diritti e delle libertà, valevole per tutta l’umanità:
 
 > 1\. diritto a un rapporto religioso con Dio,
->
+
 > 2\. diritto al rispetto delle credenze e simboli religiosi,
->
+
 > 3\. diritto alla libertà della pratica religiosa e, in secondo luogo, al riposo, al tempo libero, alla qualità di vita,
->
+
 > 4\. diritto delle famiglie a politiche giuste e favorevoli, diritto dei figli al sostegno da parte dei loro genitori, al primo apprendistato della socializzazione, diritto dei genitori anziani al rispetto e al sostegno da parte dei loro figli,
->
+
 > 5\. diritto alla vita (a nascere), al rispetto della vita (a crescere e morire in modo naturale), all’educazione,
->
+
 > 6\. diritto della persona alla libera scelta del coniuge, diritto della coppia al rispetto, all’incoraggiamento e al sostegno da parte dello stato e della società in generale, diritto del figlio alla stabilità (emozionale, affettiva, finanziaria) dei genitori,
->
+
 > 7\. diritto al rispetto delle libertà civili (integrità corporale, scelta della vita e della carriera, libertà a muoversi e ad esprimersi),
->
+
 > 8\. diritto alla reputazione e, in secondo luogo, al rispetto della vita privata, a una informazione non deformata,
->
+
 > 9\. diritto alla sicurezza e alla tranquillità domestica e professionale, e, in secondo luogo, diritto alla libera impresa,
->
+
 > 10\. diritto alla proprietà privata (ivi compresa una garanzia di protezione civile dei beni materiali).
 
 Ma nell’ottica di una “morale rivelata” questi diritti umani inalienabili sono assolutamente subordinati al diritto divino, cioè alla sovranità universale di Dio. Il decalogo inizia così: “Io sono il SIGNORE, tuo Dio, che ti ha fatto uscire dal paese d’Egitto” (Es 20,2; Dt 5,6). Questa sovranità divina, così come si manifesta già nell’evento fondatore dell’esodo, si esercita non secondo uno schema autoritario e dispotico, che si trova troppo spesso nella gestione umana dei diritti e delle libertà, bensì in un’ottica della liberazione della persona e delle comunità umane. Essa implica, tra l’altro, da parte dell’uomo, un culto esclusivo, un tempo consacrato alla preghiera personale e comunitaria, il riconoscimento del potere ultimo che Dio ha di regolare la vita delle sue creature, di governare le persone e i popoli, di esercitare il giudizio; in fine, il discorso biblico della sovranità divina suggerisce una visione del mondo secondo cui non solamente la Chiesa ma il cosmo, l’ambiente circostante e la totalità dei beni della terra sono, in ultima analisi, proprietà di Dio (cf. Es 19,5).
@@ -1290,15 +1278,11 @@ Effettivamente, la Bibbia offre un orizzonte prezioso per chiarire tutte le ques
 
 Nel pensiero biblico che cosa spiega, in fondo, un simile rispetto per la vita? Né più né meno che la sua origine divina. Il dono della vita all’umanità è descritto simbolicamente come un gesto di “soffiare” da parte di Dio (Gn 2,7). Più ancora, questo “soffio interminabile è in tutte le cose”, esso “riempie il cosmo” (Sap 12,1; 1,7).
 
-** **
-
 **b. La coppia**
 
 **99.** Certamente l’espressione del dovere al negativo (evitare, astenersi, non fare) non esaurisce il campo etico relativo alla coppia. L’orizzonte morale aperto dal comandamento si esprimerà, fra l’altro, in termini di responsabilità personale, mutua, solidale: per esempio tocca a ognuno dei coniugi prendere sul serio il dovere di rinnovare costantemente il proprio impegno iniziale; ad ambedue di tenere conto della psicologia dell’altro, del suo ritmo, dei suoi gusti, del suo cammino spirituale (1Pt 3,1-2.7), di coltivare il rispetto, di praticare l’uno verso l’altro l’amore-sottomissione (Ef 5,21-22.28.33), di risolvere i conflitti o le divergenze di vedute, di sviluppare rapporti armoniosi; e alla coppia in quanto tale di prendere impegni responsabili in materia di natalità, di contribuzione sociale e anche di irraggiamento spirituale. Di fatto la celebrazione rituale del matrimonio cristiano implica essenzialmente un progetto dinamico, mai compiuto una volta per tutte: divenire sempre più coppia sacramentale, che attesta e simboleggia, nel cuore di un mondo di relazioni spesso effimere o superficiali la stabilità, l’irreversibilità e la fecondità dell’impegno d’amore di Dio verso l’umanità, di Cristo verso la Chiesa.
 
 Si comprende che la Chiesa, nel suo impegno di fedeltà senza cedimenti alla Parola, abbia sempre esaltato la grandezza della coppia uomo-donna, sia nella sua dignità fondamentale di “immagine di Dio” (creazione) sia nel suo legame di mutuo impegno davanti a Dio e con lui (alleanza). Nel suo richiamo costante e irriducibile all’importanza e alla santità del matrimonio, la Chiesa agisce non tanto con la denuncia di licenze morali quanto con la difesa instancabile e accorata di una pienezza di senso della realtà matrimoniale, secondo il progetto di Dio.
-
-** **
 
 **1.2. Secondo criterio fondamentale: Conformità all’esempio di Gesù**
 
@@ -1310,8 +1294,6 @@ Si comprende che la Chiesa, nel suo impegno di fedeltà senza cedimenti alla Par
 
 **101.** Anche qui ci appoggiamo su un testo base, che orienta e anticipa la proclamazione della nuova Legge nel primo vangelo.
 
-** **
-
 **a. Le beatitudini (Mt 5,1-12)**
 
 Fin dall’inizio le beatitudini situano la moralità in un orizzonte radicale. A mo’ di paradosso esse affermano la dignità fondamentale dell’essere umano sotto i tratti delle persone più sfavorite, che Dio difende in modo preferenziale : i poveri, gli afflitti, i miti, gli affamati, i perseguitati; essi sono “figli di Dio” (v. 9), eredi e cittadini “del regno dei cieli” (vv. 3.10). Ora Gesù rappresenta, in tutta la sua radicalità, il tipo del “povero” (Mt 8,19; cf. 2 Cor 8,9; Fil 2,6-8), del “mite e umile” (Mt 11,29) e del “perseguitato per la giustizia”.
@@ -1321,8 +1303,6 @@ Fin dall’inizio le beatitudini situano la moralità in un orizzonte radicale. 
 Evidentemente non si possono leggere le beatitudini facendo astrazione dal lungo discorso che esse introducono. Esso presenta una prospettiva di fondo sulla vita morale e costituisce una specie di parallelo al decalogo, malgrado la differenza di forma e di intenzione. Nella composizione del primo vangelo si tratta del primo, più lungo e programmatico discorso di Gesù che ci immerge immediatamente nel cuore di ciò che significa essere un figlio fedele di Dio nel mondo. L’idea di una “giustizia che supera” (verbo *perisseuein pleion*) ne costituisce in qualche modo la tela di fondo (Mt 5,20; cf. anche 3,15; 5,6.10; 6,1.33; 23,23).
 
 Di questa giustizia superiore Gesù non solo è il rivelatore ma anche il modello. Il principio di base viene enunciato in 5,17-20. Nell’affermazione iniziale si vede un programma per tutto il vangelo: “Non crediate che io sia venuto ad abolire la Legge o i Profeti; non sono venuto ad abolire ma a dare loro pieno compimento”. La persona, l’agire e l’insegnamento di Gesù rappresentano la piena rivelazione di ciò che Dio ha voluto attraverso la Legge e i Profeti, e annunciano la presenza imminente del Regno di Dio. Da un certo punto di vista, il lungo discorso culmina nell’affermazione “Siate perfetti come è perfetto il Padre vostro celeste” (5,48). Così l’idea dell’uomo creato a “immagine e somiglianza di Dio” si trova restituita e trasposta in un registro specificamente morale. Dio stesso è modello di ogni agire (*teleios,*“perfetto”, nel senso di “completo”, “compiuto”). Di qui l’esortazione “Cercate anzitutto il suo regno e la sua giustizia” (6,33) e attendete a fare “la volontà del Padre mio che è nei cieli” (7,21). Di questa perfezione morale Cristo è il modello perfetto (cf. Mt 19,16-22).
-
-** **
 
 **1.2.3. Orientamenti per l’oggi**
 
@@ -1446,8 +1426,6 @@ Apocalisse 17-18 descrive la ricchezza e il lusso della Babilonia (Roma) condann
 
 Questo messaggio paradigmatico può essere applicato a tutti i cristiani in simili situazioni ed essi sono esortati a difendersi contro una tale insidiosa pressione che pervade tutto. Ciò richiede la capacità di leggere i segni dei tempi e di riconoscere “la cifra della bestia” (13,18), nella certa speranza che tutti questi regimi demoniaci sono condannati alla distruzione. Solo in tal modo i cristiani saranno capaci di fare scelte adeguate e di pianificare un modo di agire maturo e responsabile.
 
-** **
-
 **2.2.2. Orientamenti per l’oggi**
 
 **117.** I comportamenti sbagliati di oggi che richiedono una chiara e decisa presa di posizione, non si manifestano come idolatria in quanto venerazione di immagini e statue, ma come idolatria di se stessi, che si tratti di singole persone o di classi sociali o di stati. La libertà, per quanto possibile, totale dell’individuo oppure il potere onnicomprensivo dello stato vengono considerati valori supremi. Questi atteggiamenti vengono descritti come secolarismo, capitalismo, materialismo, consumismo, individualismo, edonismo, totalitarismo ecc. Comune a questi –ismi è il fatto che concepiscono la vita umana in un modo immanentista, ridotto al mondo attuale e, soffocando la trascendenza, prescindono da Dio, negandolo o trascurandolo, e non lo riconoscono come origine di tutto e come fine di tutto. Tale dimenticanza e trascuratezza nei confronti di Dio va svelata e resa conscia.
@@ -1465,8 +1443,6 @@ Ma dopo un secolo in cui regimi totalitari hanno devastato continenti e trucidat
 **c.  Autosufficienza illusoria**
 
 **119.** Alla base delle ideologie è la volontà umana che aspira al possesso di un potere senza limiti. Questa volontà è radicata nel rifiuto di riconoscere la condizione creaturale in dipendenza da Dio e nella rivolta contro Dio, e cerca di realizzare con molta determinazione una illusoria trasformazione dell’esistenza umana, qua e adesso. In ultima analisi, non si tratta di aspirazioni economiche, politiche o scientifiche ma della volontà di disporre autonomamente di se stessi e del proprio destino e di realizzare un paradiso terrestre che porterà all’era finale di felicità universale. Questa aura di attesa escatologica può spiegare l’illusione sempre più diffusa che le persone umane da sole siano capaci di provvedere al loro ordine morale e politico, in una comunità secolare in cui Dio viene sistematicamente escluso o almeno messo al bando. Benché questa ideologia eserciti ancora un fascino intellettuale e continui ad avere influenza politica, diventa sempre più evidente che il futuro non può riservarci un illimitato progresso tecnologico, industriale, sociale e politico.
-
-** **
 
 **2.3. Terzo criterio specifico: La progressione**
 
@@ -1624,13 +1600,9 @@ Nei diversi livelli della vita umana è presente la comunità, sempre con una pr
 
 Molti valori sono rilevanti in tutte le scelte morali che concernono il cristiano di oggi, ma è l’amore, l’impegno profondo di trascendere se stesso per il bene di altri, che porta e determina tutti gli altri valori sociali secondo la prospettiva cristiana. Mentre la comunità civile è obbligata ad assicurare strutture sociali giuste che proteggano i cittadini e garantiscano le necessità della vita, la prospettiva morale cristiana è complementare e trascende le esigenze di giustizia. L’ordine giusto, creato attraverso i mezzi politici, non può soddisfare tutti gli aneliti del cuore umano. L’impegno morale della Chiesa per l’amore del prossimo, nelle diverse sfere della comunità umana, può raggiungere le più profonde aspirazioni dello spirito umano. Le tradizionali opere di carità della Chiesa, su livello individuale e istituzionale, possono ispirare l’ordine politico a riconoscere la bellezza trascendente e il destino ultimo della persona umana creata da Dio.
 
-** **
-
 **c. Necessità odierne**
 
 La dimensione comunitaria della rivelazione biblica può ricordare alle persone di buona volontà aspetti essenziali della vita morale di oggi. L’individualismo eccessivo che minaccia la stessa compagine di molte comunità, l’isolamento degli anziani e degli handicappati, la mancanza di protezione per i membri più deboli della società, la crescente disparità fra nazioni povere e ricche, il ricorso a violenza e tortura per malvagità o per prassi politica – sono situazioni che vengono profondamente contestate dalla visione biblica della persona e della comunità umane dinnanzi a Dio. L’insegnamento della Chiesa sugli obblighi dell’amore del prossimo derivano dall’insegnamento di Gesù e l’intera tradizione biblica è una sfida diretta per queste mancanze morali. Allo stesso tempo l’impegno della Chiesa, nel servizio amorevole per poveri, ammalati e deboli, serve anche come ispirazione per le comunità civili che si sforzano di costruire una società giusta.
-
-** **
 
 **2.5. Quinto criterio specifico: La finalità**
 
@@ -1659,8 +1631,6 @@ La persecuzione dei Maccabei offre la prima chiara connessione tra moralità e v
 Nel libro della Sapienza la ricompensa futura e la punizione dopo morte sono una motivazione importante in riferimento alla moralità. Sotto l’influsso della filosofia greca e più specificamente della filosofia medioplatonica, la speranza per il futuro è espressa in termini di immortalità dell’anima. Le anime dei giusti sono in pace (3,1-3), essendo state trovate degne di essere con Dio, di vivere con lui in rapporto amoroso (3,5.9). Dall’altra parte gli adulteri non hanno né speranza né conforto nel giorno del giudizio, perché la fine della razza degli operatori di male è severa (3,19). L’immortalità dell’anima è vista come immortalità personale.
 
 In conclusione rileviamo che questi spiragli che si vanno aprendo sono già orientativi per ogni eventuale novità di situazione che possa presentarsi. Essi infatti chiariscono la natura effimera del bene presente e insegnano a riconoscere la precedenza assoluta a ogni realizzazione che torni coerente al clima di amicizia perenne che è offerta al partner umano del rapporto con Dio.
-
-** **
 
 **b. Il cammino esemplare di Gesù**
 
@@ -1738,13 +1708,9 @@ Uno sviluppo progressivo si ritrova anche nella venuta di Cristo nella storia. E
 
 L’autore dell’Apocalisse prospetta questi risultati escatologici a una Chiesa ancora in cammino. Guardando in avanti verso l’approdo escatologico, la Chiesa, che avverte adesso la gioia tormentosa di un amore in crescendo, sa che, un giorno, riuscirà ad amare Cristo come Cristo ama lei. Impegnata com’è nel superamento del male e nel potenziamento del bene accanto a Cristo che sta venendo, sa, guardando al futuro escatologico, che il male opprimente dell’anti-creazione finirà, anche per opera sua. Parimenti tutto il bene derivante dalla novità di Cristo, che sarà stato immesso nella storia grazie anche al suo contributo, raggiungerà nella Gerusalemme nuova il massimo del suo sviluppo. La Chiesa si sente davvero la fidanzata che si sta confezionando l’abito da sposa.
 
-** **
-
 **4) Conclusione**
 
 **146.** Tutte le componenti di questa complessa economia dell’attesa e della preparazione danno origine, nella Chiesa, a una spinta verso un meglio, verso un di più che si esprime in un’invocazione accorata: “Lo Spirito e la fidanzata dicono: ‘Vieni!’” (22,17). A questa invocazione Cristo stesso dà ripetutamente una risposta che rassicura: “Ecco: sto venendo presto” (Ap 22,7). “Sì, sto venendo presto” (Ap 22,20a). Promette, con questo, come imminente una fase della sua venuta, non la conclusione escatologica, e fa pressione sulla Chiesa perché vi presti attenzione (“ecco”, letteralmente “vedi”). Ci sarà presto, e la Chiesa lo vedrà, quel “di più” di Cristo - nell’ambito intra-ecclesiale e nel resto del mondo - a cui la Chiesa aspira. Costituirà una tappa verso la realizzazione della nuzialità e della Gerusalemme nuova.
-
-** **
 
 **2.5.2. Orientamenti per l’oggi**
 
@@ -1757,8 +1723,6 @@ Eppure il presente si connota per limiti vistosi, dovuti alle sue insicurezze e 
 L’illusione posta nel presente e la delusione che ne consegue costantemente può provocare la fuga nel consumismo, sempre più raffinato ed esasperato, che manca però di prospettiva e diventa fonte di nuova delusione. Né si può sperare di superarlo, finché si rimane nel quadro di pensiero immanente del secolarismo.
 
 La speranza porta equilibro allo scompenso del presente, perché è apertura motivata verso un futuro che ha la sua fondazione nella fermezza eterna di Dio. Eb 13,14 dichiara in modo perentorio: “Non abbiamo quaggiù una città stabile, ma andiamo in cerca di quella futura.” Nulla è tanto efficace nell’impostazione di un orientamento d’azione e di vita quanto la consapevolezza della dimensione effimera nella quale si muove ciò che si desidera e si opera al presente: si crea necessariamente una gerarchia dei valori nella quale riferimento ultimo viene fatto a un altro, non solo a se stessi, a un futuro e non solo al presente. L’Altro è il Signore risorto, che è andato a prepararci un posto (Gv 14,2) e che pure resta interlocutore nascosto d’un quotidiano che sperimenta tutte le difficoltà e le gioie della fede e della speranza. La fede impone il superamento dell’immediato. La speranza porta un anticipo del futuro, in dialogo continuo d’amore con Colui che è passato, presente e futuro.
-
-** **
 
 **b. Chiamata all’eroismo**
 
@@ -1774,8 +1738,6 @@ In questo senso la speranza cristiana non è semplicemente orientata al futuro, 
 
 Il criterio della tensione escatologica concorre a correggere questi atteggiamenti. L’orizzonte dell’uomo non è delimitato dalla sua personalità bensì dal dialogo con una personalità ben più grande e affidabile; non è esaurito nei confronti del presente, bensì lo travalica per inverarsi in un futuro che, solo, sarà “finale”. Le sue decisioni sono dunque valide solo se prese in dialogo con il suo Creatore e Salvatore e solo se si finalizzano a una realizzazione che sia valida non solo per il presente ma pure per il futuro senza termine.
 
-** **
-
 **2.6. Sesto criterio specifico: Il discernimento**
 
 **150.** Tutti convengono che non si possono mettere sullo stesso piano tutte le regole morali enunciate dalla Bibbia né si può riconoscere uguale valore a tutti gli esempi di moralità che essa presenta.
@@ -1783,8 +1745,6 @@ Il criterio della tensione escatologica concorre a correggere questi atteggiamen
 Qui, per scopi sia pedagogici sia teorici, ci è parso utile sviluppare l’esposizione attorno a una nozione chiave in teologia morale: la prudenza. Essa implica, sul piano dell’intelligenza, che si possieda il senso delle proporzioni e, sul piano della decisione pratica, che si prendano delle precauzioni. Da una parte infatti è necessario distinguere le consegne fondamentali, che hanno valore obbligatorio universale, dai semplici consigli o ancora dai precetti legati a una tappa dell’evoluzione spirituale. D’altra parte la prudenza esige che in anticipo si pesino i propri atti, che si rifletta sulla loro portata, sulle loro conseguenze, in modo da individuare i danni che essi comportano ed evitare, nell’applicazione dei principi, gli errori e addirittura i rischi inutili.
 
 In materia di morale la Sacra Scrittura fornisce i gavitelli essenziali di un sano discernimento. Questo si effettua su tre piani: letterario, spirituale comunitario e spirituale personale.
-
-** **
 
 **2.6.1. Dati biblici**
 
@@ -1808,21 +1768,15 @@ Per esempio, nella prima parte del codice dell’alleanza (Es 21,1-22,19), le pr
 
 Questo rapporto di continuità e discontinuità tra la riflessione morale delle comunità credenti e quella della società circostante si ritrova ugualmente nel Nuovo Testamento. Così le “tavole dei doveri domestici” di Ef 5,21-6,9 e Col 3,18-4,1, anche se non hanno paralleli letterari stretti nella letteratura greca, sono segnati dalla cultura e dalla sapienza del loro tempo. La fede in Cristo dà un significato specifico alle relazioni sociali tra padroni e schiavi e alle relazioni familiari tra genitori e figli, tra mariti e mogli, pur assumendo la cultura nella quale esse prendono origine. Per chiarire l’etica familiare e sociale d’oggi si darà dunque la preferenza alle motivazioni teologiche: prendere Cristo come modello (Ef 5,23.25-27.29), ispirarsi alla pedagogia di Dio (6,4), fare la sua “volontà” (6,6), imitare il “Signore nei cieli”, che “non fa accezione di persone” (6,9), ricercare “ciò che è bello nel Signore” (Col 3,20), coltivare il “timore del Signore” (3,22) – da comprendere nel senso d’un profondo rispetto religioso -, agire in tutto “per il Signore” (3,23), nella prospettiva della “ricompensa” finale (Ef 6,7-8; Col 3,20-4,1). Quanto ai modelli sociologici in vigore allora, in buona e sana esegesi, è chiaro che non li si deve potenziare indebitamente in modo da accordare loro un valore perenne. La ricerca di modelli più adeguati al nostro tempo, in caso di  mancanza, si porterà piuttosto su un altro aspetto essenziale di discernimento: il discernimento spirituale, soprattutto comunitario.
 
-** **
-
 **3) Retroterra culturale**
 
 Anche con difetto di fondamento o giustificazione teologica, si giunge benissimo a determinare se una norma biblica è o no applicabile tal quale alla situazione odierna. L’esegesi vi concorre analizzando il retroterra culturale. Prendiamo due esempi di proibizioni alimentari. Anzitutto, “non cuocere un capretto nel latte di sua madre” (Es 23,19; 34,26; Dt 14,21). Quest’uso cananeo, attestato a Ugarit, è passato attraverso tre tradizioni bibliche che sono ritenute generalmente differenti e ha dato luogo nel giudaismo a regole alimentari complesse che la Chiesa rispetta ma non ha mai sentito il bisogno di assumere, perché dal punto di vista dell’esegesi cristiana esse risentono di una cultura particolare.
 
 L’altro esempio è più delicato: «Non mangiare del sangue». Anche in questo caso, la proibizione si trova in più di una tradizione anticotestamentaria (Lv 3,17; 7,26; Dt 12,23-24); e il Nuovo Testamento l’assume senza reticenza, al punto da imporla ai cristiani venuti dal paganesimo (At 15,29; 21,25). Dal punto di vista dell’esegesi, la giustificazione esplicita della proibizione non è propriamente teologica, ma risente piuttosto di una rappresentazione simbolica: “la vita (*nepheš*) di ogni carne è nel sangue” (Lv 17,11.14; Dt 12,23). Dopo l’età apostolica la Chiesa non si è più sentita obbligata, su questa sola base, a emettere regole precise per il macello e la cucina, e meno ancora nei nostri tempi, per proibire le trasfusioni di sangue. Il  valore transculturale soggiacente alle due proibizioni, il solo che può e deve ispirare tutta l’etica, è il rispetto dovuto a ogni creatura vivente. E il valore transculturale soggiacente alla decisione particolare della Chiesa, in Atti 15, è la preoccupazione di favorire l’integrazione armoniosa dei gruppi diversi, anche a prezzo di compromessi provvisori.
 
-** **
-
 **4) Continuità**
 
 La continuità con cui un tema morale appare in testi biblici diversi, tanto dal punto di vista delle tradizioni letterarie, degli autori e della datazione quanto dei generi letterari, conduce a considerare questo tema come strutturante ed essenziale per l’interpretazione morale dell’intero corpus biblico. Per esempio, l’attenzione privilegiata da accordare ai poveri risponde a questo criterio di continuità. Si trova questo tema da un capo all’altro della Scrittura. Basti portare un argomento *a fortiori*: Ben Sira, pur essendo ghiotto della buona carne, del vino e dei viaggi, ne fa come un *leitmotiv* del suo scritto di sapienza.
-
-** **
 
 **5) Affinamento della coscienza**
 
@@ -1832,13 +1786,9 @@ In fine, nel discernimento morale importa tenere conto dell’affinamento progre
 
 **152.** Con tutta evidenza, il processo del discernimento non saprebbe limitarsi al cammino esegetico, anche se volesse usare le diverse risorse congiunte dei diversi metodi oggi in voga. A riguardo della Scrittura la comunità è un luogo essenziale di discernimento.
 
-** **
-
 **1)** **Antico Testamento**
 
 A modo suo, l’Antico Testamento lo mostra fin dal momento in cui evoca la necessità di una evoluzione delle regole della vita comunitaria d’Israele, in funzione di situazioni storiche o sociali nuove. Prendiamo un esempio, che non è banale, se si pensa alla rivalutazione dei diritti femminili nel nostro tempo. Il libro dei Numeri pone in maniera inedita la questione dell’eredità della discendenza femminile da una tribù o da un clan (Nm 27,1-11; 36,1-12). Mosè è presentato come il mediatore abilitato ad esporre al Signore le domande della comunità e a comunicare al popolo la risposta legislativa che ne deriva. Il testo alterna dunque l’espressione dei bisogni del popolo, l’intervento di mediatori qualificati (Mosè, Eleazaro) e l’autorità sovrana del Signore.
-
-** **
 
 **2) Nuovo Testamento**
 
@@ -1849,8 +1799,6 @@ a\) “Gli apostoli e gli anziani si riunirono per esaminare questo problema” 
 b\) Per trovare una soluzione adatta, i responsabili cercano di distinguere l’urgente (i valori di fondo da salvaguardare) e il possibile (la possibilità di assorbimento di ognuna delle parti in causa). Intervengono quattro personaggi. Pietro dà l’orientamento di fondo (non imporre fardelli inutili), invocando tre motivi teologici: Dio non fa distinzione tra le persone; lo Spirito Santo ha suscitato i medesimi segni presso  i pagani come presso gli ebrei; e, soprattutto, la fede è pura gratuità di Dio (15,7-11). Paolo e Barnaba fanno parlare l’esperienza, il linguaggio del vissuto (15,12). Alla fine Giacomo, il saggio, propone un compromesso: non dei sovrappesi; ma, almeno, evitare gli scandali e tenere conto gli uni degli altri (15,13-21). Compromesso temporaneo, su un punto o sull’altro, in modo da risolvere la crisi qui e ora. Poco dopo Paolo stesso circonciderà Timoteo… per paura dei giudei (At 16,1-13). Quanto alle proibizioni morali, quelle relative agli idolotiti e alle carni poco o niente dissanguate (15,20) non sono sopravvissute a lungo nella Chiesa, come informa la storia successiva. La posta di questa decisione prudenziale allora era precisa e circostanziale: l’unità da ricostituire nella comunità. Quanto al valore transculturale soggiacente, lo si può esprimere così: l’apertura alla differenza, a un certo pluralismo sociologico, che era preparata già dal tema veterotestamentario della circoncisone del cuore (Dt 10,16; Ger 4,4; cf. Rm 2,25-29).
 
 c\) In fine, si comunica il risultato del discernimento con una lettera collettiva (15,23-29). Quattro elementi attirano più particolarmente l’attenzione. Anzitutto l’effetto dividente delle decisioni prese senza mandato, al di fuori della comunione della Chiesa (15,24). Poi la dichiarazione: “Lo Spirito Santo e noi abbiamo deciso…”, segno evidente di un discernimento propriamente spirituale, effettuato nella deliberazione e nella preghiera (15,28). Notiamo anche, per la scelta dei delegati, l’apertura a una consultazione più larga, che coinvolge “l’intera Chiesa” (15,22). E l’appello, non all’ubbidienza cieca, ma alla coscienza morale delle comunità destinatarie del messaggio (15,29b).
-
-** **
 
 **c. Discernimento personale**
 
@@ -1868,8 +1816,6 @@ c\) Paolo affronta in seguito la questione della verginità (7,25-38), stato di 
 
 d\) L’altro parere dato da Paolo corrisponde direttamente alla questione iniziale posta dalla comunità: la fondazione dell’astinenza sessuale, per motivi spirituali, per una coppia sposata (7,1-9). Anche qui l’apostolo usa prudenza nel suo discernimento. Valuta i rischi concreti di una posizione troppo radicale, in materia di sessualità coniugale. Autorizza l’astinenza come “una concessione e non un ordine”, a tre condizioni: l’accordo dei due coniugi, il carattere provvisorio (solo “per un tempo”), e soprattutto l’obiettivo essenzialmente spirituale (“attendere alla preghiera”). E approfitta dell’occasione  per affermare la perfetta reciprocità e uguaglianza dei coniugi nella libera disposizione del corpo dell’altro.
 
-** **
-
 **2.6.2. Orientamenti per l’oggi**
 
 **154.** Evidentemente non è possibile applicare queste considerazioni a tutte le problematiche nuove con cui si confronta la morale nel contesto attuale: globalizzazione dell’economia, delle comunicazioni e degli scambi, sovrappopolazione, sconvolgimenti nei mestieri e professioni, sviluppo di tecnologie militari sofisticate, emergenza di una società di piaceri, scardinamento della struttura familiare tradizionale, educazione e confessionalità ecc. Basti indicare qualche saggio che possa aiutare non solo i moralisti ma i gruppi e gli individui che vogliono ispirarsi alla Scrittura, a praticare un sano discernimento.
@@ -1883,8 +1829,6 @@ d\) L’altro parere dato da Paolo corrisponde direttamente alla questione inizi
 **CONCLUSIONE GENERALE**
 
 **155.** Tenuto conto dello sviluppo degli approcci interdisciplinari sempre più sofisticati per trattare le grandi questioni che riguardano l’essere umano e tenuto conto più specificamente della complessità attuale delle problematiche morali sia sul piano individuale sia su quello collettivo, il presente documento non pretende di essere altro che un modesto seme di riflessione. Tuttavia esso comporta punti di originalità non trascurabili: ne sottolineiamo soprattutto tre. Inoltre esso apre qualche prospettiva per il futuro.
-
-** **
 
 **1. Elementi di originalità**
 
@@ -1914,8 +1858,6 @@ Secondo: sul piano pratico, un approccio come il nostro aiuta a definire meglio 
 
 \- preoccupata di accostare con prudenza le questioni difficili, con il triplice ricorso alle risorse dell’esegesi, all’illuminazione delle autorità ecclesiali e alla formazione di una coscienza corretta nello Spirito Santo, in modo da non causare mai ‘cortocircuito’ nel delicato processo del giudizio morale (discernimento).
 
-** **
-
 **2. Prospettive per l’avvenire**
 
 **159.** Quanto precede mostra bene per un lato alcune linee di forza e per altro lato anche il carattere incompiuto e, comunque, pure impossibile da portare a compimento, di un documento della Commissione Biblica sulla morale.
@@ -1929,5 +1871,3 @@ Ci auguriamo che la nostra riflessione possa suscitare tre tipi di attività suc
 **161.** 2) Pensiamo anche che una riflessione come la nostra, se suscita qualche interesse, potrebbe aiutare i pastori e i teologi a trovare *strategie mediatiche* appropriate affinché l’insegnamento morale della Chiesa sia percepito sotto un aspetto positivo e in tutta la sua ricchezza. Certo, per essere fedele a Cristo e al servizio degli uomini, la Chiesa non può astenersi dal presentare con chiarezza i diritti e i doveri del credente e di ogni uomo, e perciò non può prescindere da certe regole e  proibizioni. Ma la contrapposizione, soprattutto quando prende lo stile di una lotta giudicata necessaria, non è che uno degli otto criteri che abbiamo enunciato. Presentare la “morale rivelata” in tutta la sua ampiezza e fecondità, nell’asse della Scrittura, potrebbe tracciare i contorni di una pedagogia rinnovata.
 
 **162.** 3) In fine, per avere seguito, il presente documento avrà bisogno, ne siamo convinti, di uno sforzo di *volgarizzazione*. Solo così potrà portare aiuto ai pastori, agli animatori pastorali, ai catechisti, agli insegnanti, senza dimenticare i genitori cristiani, che hanno la missione bella e insostituibile di educare i loro giovani alla vita, alla fede, all’uso di una libertà responsabile, e di guidarli sulla via della vera felicità, che termina oltre il mondo presente.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Clarification on procured abortion
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Congregation for the Doctrine of the Faith**
 
 ***Clarification on procured abortion\****
@@ -27,5 +23,3 @@ As for the problem of specific medical treatments intended to preserve the healt
 As for the responsibility of medical workers, the words of Pope John Paul II must be recalled: «Their profession calls for them to be guardians and servants of human life. In today’s cultural and social context, in which science and the practice of medicine risk losing sight of their inherent ethical dimension, health-care professionals can be strongly tempted at times to become manipulators of life, or even agents of death. In the face of this temptation their responsibility today is greatly increased. Its deepest inspiration and strongest support lie in the intrinsic and undeniable ethical dimension of the health-care profession, something already recognized by the ancient and still relevant Hippocratic Oath, which requires every doctor to commit himself to absolute respect for human life and its sacredness» (Encyclical *[Evangelium Vitae](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae_en.html)*, no. 89).
 
 \* *L’Osservatore Romano*,11 July 2009.
-
-[](#top)

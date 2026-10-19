@@ -1,9 +1,5 @@
 # Hommage de S.Em. le Card. William Joseph Levada au Saint-Père
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONSISTOIRE ORDINAIRE PUBLIC
 
 ***HOMMAGE*** ***DU CARDINAL WILLIAM JOSEPH LEVADA AU SAINT-PÈRE***
@@ -27,5 +23,3 @@ Je voudrais rappeler le passage de la catéchèse que Votre Sainteté a tenue le
 Nous-mêmes, aujourd'hui, invoquons plus particulièrement l'Esprit Saint, afin qu'il soutienne par sa lumière et sa force le Ministère apostolique de Votre Sainteté et nous donne à tous, appelés à coopérer au service du Successeur de  Pierre,  et  à  tous  ceux qui nous accompagnent par leur présence, par leurs prières et par leur affection, la générosité de l'engagement chrétien et la joie de nous sentir et de demeurer des serviteurs de l'Evangile.
 
 Que la Vierge Marie, Mère de l'Eglise et Reine des Apôtres, nous assiste, à la veille de la solennité liturgique de l'Annonciation. Que son *fiat* soit aussi le nôtre.
-
-[](#top)

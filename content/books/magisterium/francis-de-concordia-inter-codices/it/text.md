@@ -32,23 +32,23 @@ Tutto ciò considerato, dispongo ora quanto segue:
 **Art. 1.** Il can. 111 CIC è integralmente sostituito dal testo seguente, che include un nuovo paragrafo e modifica alcune espressioni:
 
 > §1 Con la ricezione del battesimo è ascritto alla Chiesa latina il figlio dei genitori, che ad essa appartengono o, se uno dei due non appartiene ad essa, ambedue i genitori di comune accordo abbiano optato che la prole fosse battezzata nella Chiesa latina; che, se manca il comune accordo, è ascritto alla Chiesa *sui iuris,* cui appartiene il padre.
->
+
 > *§2 Se poi soltanto uno dei genitori è cattolico, è ascritto alla Chiesa alla quale il genitore cattolico appartiene.*
->
+
 > §3 Qualsiasi battezzando che abbia compiuto quattordici anni di età, può liberamente scegliere di essere battezzato nella Chiesa latina o in un'altra Chiesa *sui iuris;* nel qual caso, egli appartiene a quella Chiesa che avrà scelto.
 
 **Art. 2.** Il can. 112 CIC è integralmente sostituito dal testo seguente, che include un nuovo paragrafo e modifica alcune espressioni:
 
 > §1. Dopo aver ricevuto il battesimo, sono ascritti a un'altra Chiesa *sui iuris:*
->
+
 > 1° chi ne abbia ottenuto la licenza da parte della Sede Apostolica;
->
+
 > 2° il coniuge che, nel celebrare il matrimonio o durante il medesimo, abbia dichiarato di voler passare alla Chiesa *sui iuris* dell'altro coniuge; sciolto però il matrimonio, può ritornare liberamente alla Chiesa latina;
->
+
 > 3° i figli di quelli, di cui nei nn. 1 e 2, prima del compimento dei quattordici anni di età e parimenti, nel matrimonio misto, i figli della parte cattolica, che sia passata legittimamente a un'altra Chiesa *sui iuris;* raggiunta però questa età, i medesimi possono ritornare alla Chiesa latina.
->
+
 > §2. L'usanza, anche se a lungo protratta, di ricevere i sacramenti secondo il rito di un’altra Chiesa *sui iuris*, non comporta l'ascrizione alla medesima Chiesa.
->
+
 > *§3. Ogni passaggio ad altra Chiesa sui iuris ha valore dal momento della dichiarazione fatta alla presenza dell'Ordinario del luogo della medesima Chiesa o del parroco proprio oppure del sacerdote delegato da uno di essi e di due testimoni, a meno che un rescritto della Sede Apostolica non disponga diversamente; e si annoti nel libro dei battezzati.*
 
 **Art. 3.** Il paragrafo secondo del can. 535 CIC è integralmente sostituito dal testo seguente:

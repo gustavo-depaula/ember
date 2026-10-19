@@ -1,9 +1,5 @@
 # Notificação sobre o padre Georges de Nantes, 13 de maio de 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 *NOTIFICAÇÃO SOBRE O PADRE GEORGES DE NANTES \**
@@ -25,5 +21,3 @@ Em seguida, Dom Hamer declarou ao Padre de Nantes:
 4\. que, enquanto esta retratação não for feita, bem como aquela relativa aos ataques da mesma natureza contra a pessoa de Sua Santidade João Paulo II, não se poderá acreditar seriamente no desejo de reconciliação, que ele mesmo manifestou nas duas reuniões em 1978 e em 1981, e que o Santo Padre continua sempre disposto a recebê-lo.
 
 \* *L’Osservatore Romano*, Edição semanal, 22 de Maio de 1983, Pág. 2 (246).
-
-[](#top)

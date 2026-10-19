@@ -1,9 +1,5 @@
 # Antwort auf vorgelegte Zweifel über die Gültigkeit der Taufe unter Anwendung der Formeln
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **ANTWORT AUF VORGELEGTE ZWEIFEL *über die Gültigkeit der Taufe unter Anwendung der Formeln*** *«I baptize you in the name of the Creator, and of the Redeemer, and of the Sanctifier» **und** «I baptize you in the name of the Creator, and of the Liberator, and of the Sustainer».*
@@ -27,6 +23,4 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 1. Februar 2008.
 William Kardinal Levada *Präfekt*
 
  + Angelo Amato, S.D.B.  
-Titularerzbischof von Sila *Sekretär*  
-
-[](#top)
+Titularerzbischof von Sila *Sekretär*

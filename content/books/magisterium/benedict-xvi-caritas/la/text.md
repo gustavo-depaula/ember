@@ -9,8 +9,6 @@ MOTU PROPRIO DATAE
 
 DE CARITATE MINISTRANDA
 
-** **
-
 **Prooemium **
 
 “*Intima Ecclesiae natura* triplici exprimitur munere: praedicatione Verbi Dei (*kerygma*, *martyria*), celebratione Sacramentorum (*leiturgia*), ministerio caritatis (*diakonia*). Munia sunt quae vicissim se praesupponunt et invicem seiungi nequeunt” (Litt. enc. *[Deus caritas est](/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html)*, 25).
@@ -138,5 +136,3 @@ Quae autem Nos hisce Litteris Apostolicis Motu Proprio editis deliberavimus, pra
 *Datum Romae, apud Sanctum Petrum, die XI mensis Novembris, anno Domini bis millesimo duodecimo, Pontificatus Nostri octavo*.
 
 **BENEDICTUS PP. XVI**
-
-** **

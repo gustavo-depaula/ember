@@ -1,15 +1,5 @@
 # Directory on popular piety and the liturgy. Principles and guidelines
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR DIVINE WORSHIP  
@@ -29,7 +19,7 @@ SUMMARY
 > [Abbreviations](#ABBREVIATIONS)  
 > [Extracts from the address of His Holiness Pope John Paul II](#Extracts%20from%20the%20address%20of%20His%20Holiness%20Pope%20John%20Paul%20II%20to%20the%20Plenary%20Meeting%20of%20The%20Congregatiion%20for%20Divine%20Worship%20and%20the%20Discipline%20of%20the%20Sacraments)  
 > [Decree](#DECREE)
->
+
 > \*\*\*
 
 **[INTRODUCTION](#INTRODUCTION)** (1-21)
@@ -92,9 +82,9 @@ SUMMARY
 **[PART TWO](#PART%20TWO)**
 
 > GUIDELINES
->
+
 > FOR THE HARMONIZATION OF POPULAR PIETY WITH THE LITURGY (93-287)
->
+
 > Forward (93)
 
 **[Chapter IV.](#Chapter%20Four)** [THE LITURGICAL YEAR AND POPULAR PIETY (94-118)](#Chapter%20Four)

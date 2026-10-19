@@ -2,8 +2,6 @@
 
 **SCHREIBEN VON JOHANNES PAUL II. *AN DIE PRIESTER* ZUM GRÜNDONNERSTAG 1999**
 
-**     **
-
 « *Abbà*, Vater! »
 
 Liebe Brüder im Priesteramt, meine Begegnung mit euch am Gründonnerstag in diesem dem Groben Jubiläumsjahr 2000 unmittelbar voraufgehenden Jahr steht unter dem Zeichen dieser Anrufung, in der nach Meinung der Exegeten die *ipsissima vox Iesu*, die ureigene Stimme Jesu durchklingt. Diese Anrede birgt das unergründliche Geheimnis des Mensch gewordenen Wortes, das vom Vater in die Welt gesandt wurde zum Heil der Menschheit.

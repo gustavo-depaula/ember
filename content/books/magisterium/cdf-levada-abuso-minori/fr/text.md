@@ -1,9 +1,5 @@
 # Lettre du Card. William Levada à l'occasion de la présentation de la Lettre circulaire pour aider les Conférences épiscopales à établir des Directives pour le traitement des cas d’abus sexuel commis par des clercs à l’égard de mineurs
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 ***LETTRE DU CARDINAL WILLIAM LEVADA À L'OCCASION DE LA PRÉSENTATION DE LA LETTRE CIRCULAIRE POUR AIDER LES CONFÉRENCES ÉPISCOPALES À ÉTABLIR DES DIRECTIVES POUR LE TRAITEMENT DES CAS D'ABUS SEXUEL COMMIS PAR DES CLERCS À L'ÉGARD DE MINEURS***
@@ -26,5 +22,3 @@ En vous assurant de ma fraternelle communion dans la prière, je vous prie d’a
 
 William Card. Levada  
 Préfet
-
-[](#top)

@@ -196,8 +196,6 @@ Egy eucharisztikus kompendium szükséges volta(93)
 
 **„Istennek tetsző cselekedet az, hogy higgyetek abban, akit Ő küldött” (*Jn* 6,29)**
 
-** **
-
 ***Az Egyház eucharisztikus hite***
 
 6\. „Íme, hitünk szent titka!” E kiáltással, mely közvetlenül a konszekráció szavai után hangzik el, a pap kihirdeti az ünnepelt misztériumot, és kifejezi csodálatát a kenyérnek az Úr Jézus testévé és a bornak az Ő vérévé történt lényegi átváltozása miatt, mely minden emberi megértést felülmúló valóság. Valóban, az Eucharisztia kiváltképpen „hitünk misztériuma”: „hitünk összefoglalása és lényege”.\[13\] Az Egyház hite lényege szerint eucharisztikus hit, és egész különlegesen az Eucharisztia asztaláról táplálkozik. A hit és a szentségek az egyházi élet két egymást kiegészítő összetevője. Az Isten Igéje hirdetése által fölébresztett hit a föltámadott Úrral való, a Szentségekben megvalósuló kegyelmi találkozásból táplálkozik és növekszik: „A hit fejeződik ki a szertartásban, és a szertartás erősíti és bátorítja a hitet.”\[14\] Ezért az Oltáriszentség mindig az Egyház életének középpontja; „az Eucharisztiának köszönhetően az Egyház mindig újjászületik!”\[15\] Minél elevenebb Isten népében az eucharisztikus hit, annál mélyebb a részesedése az egyházi életben, meggyőződéses ragaszkodása által ahhoz a küldetéshez, melyet Krisztus tanítványaira bízott. Ennek tanúja magának az Egyháznak a története. Bizonyos formában minden nagy megújulás annak a hitnek új fölfedezéséhez kötődik, hogy az Úr az Eucharisztiában jelen van népe között.
@@ -347,8 +345,6 @@ Ezért valahányszor az eucharisztikus liturgiában Krisztus testéhez és vér�
 **AZ EUCHARISZTIA MISZTÉRIUM, AMELYET ÜNNEPELNÜNK KELL**
 
 **„Bizony, bizony mondom nektek: Nem Mózes adott nektek kenyeret az égből, hanem Atyám adja nektek az igazi mennyei kenyeret” (*Jn* 6,32)**
-
-** **
 
 *A lex orandi és a lex credendi*
 
@@ -526,8 +522,6 @@ Elismerésemet és bátorításomat szeretném kifejezni az Istennek szentelt é
 **AZ EUCHARISZTIA MISZTÉRIUM, AMELYET ÉLNÜNK KELL**
 
 **„Miként az élő Atya küldött és én az Atya által élek, úgy az is, aki engem eszik, általam fog élni” (*Jn* 6,57)**
-
-** **
 
 **A keresztény élet eucharisztikus formája**
 

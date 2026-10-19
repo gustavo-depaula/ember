@@ -1,9 +1,5 @@
 # Concerning the Reply of the Congregation for the Doctrine of the Faith on the Teaching Contained in the Apostolic Letter Ordinatio Sacerdotalis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Concerning the Reply of the Congregation for the Doctrine of the Faith on the Teaching Contained in the Apostolic Letter *Ordinatio Sacerdotalis***
 
 The publication of the Reply of the Congregation for the Doctrine of the Faith to a *dubium* regarding the reason for which the teaching contained in the Apostolic Letter *[Ordinatio Sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_en.html)* is to be considered *definitive tenenda* seems the appropriate moment to offer certain reflections.
@@ -31,5 +27,3 @@ In response to this precise act of the Magisterium of the Roman Pontiff, explici
 Finally, there have been some commentaries on the Letter *[Ordinatio Sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_en.html)* which have suggested that the document constitutes an additional and inopportune obstacle on the already difficult path of ecumenism. In this regard, it should not be forgotten that according to both the letter and the spirit of the Second Vatican Council (cf. *[Unitatis Redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)*, 11), the authentic ecumenical task, to which the Catholic Church is unequivocally and permanently committed, requires complete sincerity and clarity in the presentation of one’s own faith. Furthermore, it should be noted that the doctrine reaffirmed by the Letter *[Ordinatio Sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_en.html)* cannot but further the pursuit of full communion with the Orthodox Churches which, in fidelity to Tradition, have maintained and continue to maintain the same teaching.
 
 The singular originality of the Church and of the priestly ministry within the Church requires a precise clarity of criteria. Concretely, one must never lose sight of the fact that the Church does not find the source of her faith and her constitutive structure in the principles of the social order of any historical period. While attentive to the world in which she lives and for whose salvation she labours, the Church is conscious of being the bearer of a higher fidelity to which she is bound. It is a question of a radical faithfulness to the Word of God which she has received from Christ who established her to last until the end of the ages. This Word of God, in proclaiming the essential value and eternal destiny of every person, reveals the ultimate foundation of the dignity of every human being, of every woman and of every man.
-
-[](#top)

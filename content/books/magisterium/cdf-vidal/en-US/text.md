@@ -2,10 +2,6 @@
 
 Notification regarding certain writing of Fr. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***NOTIFICATION***
@@ -15,8 +11,6 @@ Notification regarding certain writing of Fr. Marciano Vidal, C.Ss.R.
 ***FR. MARCIANO VIDAL, C.Ss.R.***
 
 **PREFACE**
-
-** **
 
 One of the responsibilities of the Congregation for the Doctrine of the Faith is to watch over and protect the doctrine of the faith, so that the People of God may remain faithful to the teaching which has been received. At times, the Congregation must proceed to a doctrinal examination and point out, even by means of a public notification, the ambiguities and errors contained in widely-distributed works that may be harmful to the faith of the People of God, in order to make the necessary corrections. On some occasions, such a notification is necessary even when the author is disposed to correct his writings or when the corrections have already been made. 
 
@@ -199,5 +193,3 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, Februa
 \(56\) Ma II/1, 408 = 442 (and 444).
 
 \(57\) Cf. Declaration De abortu procurato, 19-23: AAS 66 (1974), 742-744; Encyclical Letter Evangelium vitae, 71-74: AAS 87 (1995), 483-488.
-
-[](#top)

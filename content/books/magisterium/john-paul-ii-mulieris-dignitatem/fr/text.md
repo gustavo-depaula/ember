@@ -425,8 +425,6 @@ En exprimant ces voeux, j'accorde à tous les fidèles, et spécialement aux fem
 
 *Donné à Rome, près de Saint-Pierre, le 15 août 1988, Solennité de l'Assomption de la Bienheureuse Vierge Marie, en la dixième année de mon pontificat.*
 
-* *
-
 ------------------------------------------------------------------------
 
 NOTES

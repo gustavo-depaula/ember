@@ -289,8 +289,6 @@ Der Apostolischen Signatur steht es auch zu, die geordnete Amtsführung im Geric
 > 4° die dem Heiligen Stuhl vorbehaltene Genehmigung eines Berufungsgerichts zu gewähren;  
 > 5° die Errichtung von interdiözesanen Gerichten zu fördern und zu genehmigen;  
 > 6° über dasjenige zu befinden, was der Apostolischen Signatur aufgrund der Verträge zwischen dem Heiligen Stuhl und den Staaten zukommt.
->
->  
 
 **TITEL III**
 

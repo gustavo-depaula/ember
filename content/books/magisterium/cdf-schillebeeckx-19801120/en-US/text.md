@@ -1,13 +1,5 @@
 # Letter to Father E. Schillebeeckx, 20 November 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH**
@@ -41,13 +33,13 @@ In formulating their conclusions, which were approved by the Holy Father, the ca
 Consequently, speaking in their name, in my capacity as Prefect of this Congregation, I want to communicate to you what follows:
 
 > — 1. The Congregation takes note of the clarifications, precisions and corrections that you made at the colloquium and in your letter, in relation to your published works (cf. attached document, pp. 1-4).
->
+
 > — 2. It judges nevertheless that on certain points the explanations provided have not sufficed to do away with the ambiguities (cf. attached document, pp. 4-5).
 
 For this reason, I ask you:
 
 > 1\) To make known to the public which has access to your works the clarifications, precisions and corrections which emerge from the recent explanations that you have given to the Congregation. It must in fact be kept in mind that the book, *Jesus...* is known to a vast public. Therefore, your explanations which, on decisive points, go further than the affirmations of the published books, are important not only for the ecclesiastical Magisterium, but also for your readers who have the right to be informed about indications of such importance.
->
+
 > 2\) To review in the light of Catholic doctrine the points on which a certain ambiguity still weighs, and to manifest publicly your intention to comply with this request.
 
 Furthermore, it must be recognized that, despite the extent of its program, the colloquium was not able to press far enough the clarifications which would have been required, on the one hand, by the manner in which you consider the relations between revelation and experience, and on the other hand, by the role which you attribute in theology to a *manuductio* (leading by hand) of an apologetic type. By reason of that and of the doubts which still remain, the Congregation, which abstains for the moment from forming a judgment on this subject, cannot dispense itself from stressing the necessity of a perfect conformity to the principles to which any theological work must adhere. As far as the relation between revelation and experience is concerned (with its consequences for the normative role of the formal teachings of the Bible and the documents of the Magisterium), it particularly draws your attention to what is set forth in the "*Declaration in Defense of Catholic Doctrine on the Church Against Certain Errors of the Present Day*," 5 (AAS LXV, 1973, pp. 402-404).

@@ -1,9 +1,5 @@
 # Nota sull'espressione «Chiese sorelle», 30 giugno 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 NOTA  
@@ -75,13 +71,9 @@ Di conseguenza è da evitare come fonte di malintesi e di confusione teologica l
 
  + **Tarcisio Bertone, S.D.B.** *Arcivescovo emerito di Vercelli Segretario*
 
-* *
-
 ------------------------------------------------------------------------
 
 **Note**
-
-[](#top)
 
 [^1]: Paolo VI e Atenagora I, Dichiarazione comune *Pénétrés de reconnaissance* (7-XII-1965), n. 3: *AAS* 58 (1966) 20. Le scomuniche sono state reciprocamente soppresse nel 1965: «il Papa Paolo VI e il Patriarca Atenagora I nel suo sinodo (...) dichiarano di comune accordo (...) di deplorare anche, e di cancellare dalla memoria e dal seno della Chiesa, le sentenze di scomunica» (*ibid.*, n. 4); cf. anche Paolo VI, Lett. Apost. *Ambulate in dilectione* (7-XII-1965): *AAS* 58 (1966) 40-41; Atenagora I, *Tomos* *Agapis* (7-XII-1965)*, Vatican-Phanar* 1958-1970 (Romae et Istanbul 1970) 388-390.
 

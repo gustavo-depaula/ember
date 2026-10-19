@@ -2,8 +2,6 @@
 
 ***LETTERA DI SUA SANTITÀ PIO XII AI REVERENDI PADRI DELLA «COMPAGNIA DI GESÙ»,*** ***REDATTORI DEL PERIODICO «LA CIVILTÀ CATTOLICA»***
 
-*** ***
-
 *Ai Reverendi Padri della « Compagnia di Gesù » impegnati a redigere il periodico « La Civiltà Cattolica ».*
 
 Diletti figli, salute e Apostolica Benedizione.

@@ -1,9 +1,5 @@
 # Chiarificazione sull'aborto procurato, 11 luglio 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Kongregacja Nauki Wiary
 
 *** Wyjaśnienie o aborcji***  
@@ -25,5 +21,3 @@ Gdy chodzi o umyślnie wywołaną aborcję w pewnych trudnych, złożonych sytua
 Gdy chodzi o problem pewnych terapii mających na celu zachowanie zdrowia matki, to trzeba dobrze rozróżnić między dwoma odmiennymi przypadkami: z jednej strony zabiegiem powodującym bezpośrednio śmierć płodu, zwanym czasem niewłaściwie aborcją „terapeutyczną”, który nigdy nie może być dozwolony, gdyż jest bezpośrednim zabójstwem niewinnej istoty ludzkiej, a z drugiej strony zabiegiem, który sam w sobie nie jest aborcją, choć może wywołać jako uboczny skutek śmierć dziecka: „Jeśli na przykład ratowanie życia przyszłej matki, niezależnie od tego, że jest ona w stanie ciąży, wymagałoby pilnie operacji chirurgicznej czy innego zabiegu terapeutycznego, który miałby jako uboczny skutek, bynajmniej nie chciany ani nie zamierzony, jednak nieunikniony, śmierć płodu, to takiego aktu nie można by nazwać bezpośrednim zamachem na niewinne życie. W takich warunkach operację można uznać za dozwoloną, tak jak inne podobne zabiegi medyczne, zawsze pod warunkiem, że chodzi o dobro wysokiej wartości, jakim jest życie, i że niemożliwe jest przesunięcie jej po urodzeniu dziecka ani zastosowanie innego skutecznego środka” (Pius XII, *Przemówienie do „Frontu Rodziny” i Stowarzyszenia Rodzin Wielodzietnych*, 27 listopada 1951 r.).
 
 Gdy chodzi o odpowiedzialność pracowników służby zdrowia, trzeba przypomnieć słowa Papieża Jana Pawła II: „Ich zawód każe im strzec ludzkiego życia i służyć mu. W dzisiejszym kontekście kulturowym i społecznym, w którym nauka i sztuka medyczna zdają się tracić swój wrodzony wymiar etyczny, mogą doznawać oni często silnej pokusy manipulowania życiem, z czasem wręcz powodowania śmierci. Wobec istnienia takiej pokusy wzrasta niezmiernie ich odpowiedzialność, która znajduje najgłębszą inspirację i najmocniejsze oparcie właśnie we wrodzonym i niezbywalnym wymiarze etycznym zawodu lekarskiego, o czym świadczy już starożytna, ale zawsze aktualna przysięga Hipokratesa, według której każdy lekarz jest zobowiązany okazywać najwyższy szacunek życiu ludzkiemu i jego świętości” (Encyklika *Evangelium vitae*, nr 89).
-
-[](#top)

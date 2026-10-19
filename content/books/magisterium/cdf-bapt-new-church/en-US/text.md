@@ -1,9 +1,5 @@
 # Notification on the validity of the baptism conferred in «The New Church», 20th November 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 *** Notification on the validity of the baptism conferred in “The New Church”***
@@ -15,5 +11,3 @@ This Congregation, having completed a diligent exam, has determined the response
 Rome, November 20, 1992. 
 
 **Joseph Cardinal Ratzinger** *Prefect*
-
-[](#top)

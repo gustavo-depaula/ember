@@ -58,8 +58,6 @@ IN THE TIME OF ARTIFICIAL INTELLIGENCE
 **[CONCLUSION](#CONCLUSION)**  
 *[The Word became flesh](#The_Word_became_flesh) [One body in Christ](#One_body_in_Christ) [The construction site of our time](#The_construction) [The song of hope: the](#The_song_of_hope)*[ Magnificat](#The_song_of_hope)
 
-** **
-
 **INTRODUCTION**
 
 1\. Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world. Whenever humanity is in danger of marring its true identity, we Christians lift our eyes to the Incarnate God, knowing that it is “only in the mystery of the Word made flesh that the mystery of humanity truly becomes clear.” [^1] In Jesus Christ, this humanity in its grandeur becomes the Way, the Truth and the Life, opening the path for each of us to grow toward fullness.

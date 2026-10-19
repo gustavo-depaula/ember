@@ -31,5 +31,3 @@ So erheben Wir Unsere Gebete zum Himmel, damit die göttliche Gnade Sie und Ihre
 *Gegeben zu Rom bei Sankt Peter, am 15. Juli 1971, im neunten Jahr Unseres Pontifikates.*
 
 **PAULUS PP. VI.**
-
-**      **

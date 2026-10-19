@@ -1,9 +1,5 @@
 # Dignitas personae - Conference of Cardinal William Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Dignitas personae***
 
 **Conference of Cardinal William Levada Prefect of the Congregation for the Doctrine of the Faith**
@@ -79,5 +75,3 @@ Recently, *hybrid cloning* has been proposed, in which the oocytes of animals ar
 **Conclusion**
 
 The new Instruction begins with the programmatic words *Dignitas personae*—the dignity of the person—which is to be recognized in each and every human being form conception to natural death. The document encourages biomedical research which respects this dignity of the person and the dignity of procreation, hoping “that the results of such research may also be made available in areas of the world that are poor and afflicted by disease, so that those who are most in need will receive humanitarian assistance” (n. 3). At the same time, the Church feels the duty to give voice to the voiceless, and so the Document excludes as ethically illicit several forms of biomedical technology. “The fulfillment of this duty implies courageous opposition to all those practices which result in grave and unjust discrimination against unborn human beings, who have the dignity of a person, created like others in the image of God. Behind every “no” in the difficult task of discerning between good and evil, there shines a great “yes” to the recognition of the dignity and inalienable value of every single and unique human being called into existence” (n. 37). One may hope that the faithful and all men and women of good will, in particular physicians and medical researchers, will be open to dialogue and desire to perceive the truth of human dignity and so find themselves in agreement with the fundamental principles of the Instruction “which seek to safeguard the vulnerable condition of human beings in the first stages of life and to promote a more human civilization” (n. 37).
-
-[](#top)

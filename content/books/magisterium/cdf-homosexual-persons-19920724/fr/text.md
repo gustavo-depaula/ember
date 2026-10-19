@@ -1,9 +1,5 @@
 # Observations au sujet des propositions de loi sur la non-discrimination des personnes homosexuelles, 23 juillet 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 OBSERVATIONS AU SUJET DES PROPOSITIONS DE LOI  
@@ -60,5 +56,3 @@ De plus, il y a un danger qu’une législation qui ferait de l’homosexualité
 15\. Puisque « dans l’appréciation d’éventuelles propositions de loi, on devra avant tout favoriser l’engagement en faveur de la défense et de la promotion de la vie de la famille » (cf. n. 17), il faudra faire strictement attention aux dispositions particulières des mesures proposées. En quoi influenceraient-elles les adoptions ou les placements d’enfants ? Protégeraient-elles les actes homosexuels, publics ou privés ? Confèrent-elles aux unions homosexuelles un statut familial équivalent, par exemple, eu égard au logement public ou en donnant droit au partenaire homosexuel à des prérogatives d’emploi pouvant inclure des choses comme la participation de la « famille » à l’assurance maladie donnée aux employés (cf. n. 9).
 
 16\. Finalement, là où il s’agit d’une question de bien commun, il ne convient pas que les autorités ecclésiales approuvent une législation contraire ou y restent indifférentes, même si celle-ci accorde des exceptions aux organisations et institutions ecclésiales. L’Église a la responsabilité de promouvoir la vie de la famille et la moralité publique de toute la société civile à partir de valeurs morales fondamentales, pas simplement de se protéger de l’application de lois nuisibles (cf. n. 17).
-
-[](#top)

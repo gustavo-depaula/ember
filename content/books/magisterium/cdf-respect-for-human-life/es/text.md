@@ -1,9 +1,5 @@
 # Instrucción Donum vitae, 22-febr.-1987
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 INSTRUCCIÓN  
@@ -332,8 +328,6 @@ El sumo pontífice Juan Pablo II, en el transcurso de la audiencia concedida al 
 
 > a\) la mujer que lleva la gestación de un embrión implantado en su útero, que le es genéticamente ajeno, obtenido mediante la unión de gametos de "donadores", con el compromiso de entregar el niño, inmediatamente después del nacimiento, a quien ha encargado o contratado la gestación;  
 > b) la mujer que lleva la gestación de un embrión a cuya procreación ha colaborado con la donación de un óvulo propio, fecundado mediante la inseminación con el esperma de un hombre diverso de su marido, con el compromiso de entregar el hijo, después de nacer, a quien ha encargado o contratado la gestación.
-
-[](#top)
 
 [^1]: Juan Pablo II, *Discurso a los participantes en el 81º Congreso de la Sociedad Italiana de Medicina Interna y en el 82º Congreso de la Sociedad Italiana de Cirugía General*, 27 de octubre de 1980: *AAS* 72 (1980), 1126.
 

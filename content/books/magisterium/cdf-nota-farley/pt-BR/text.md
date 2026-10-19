@@ -1,9 +1,5 @@
 # Notificação sobre o livro Just love. A Framework for Christian Sexual Ethics de Irmã Margaret A. Farley, R.S.M. - Congregação para a Doutrina da Fé
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 NOTIFICAÇÃO SOBRE O LIVRO *JUST* *LOVE. A FRAMEWORK FOR CHRISTIAN SEXUAL* *ETHICS* DE IRMÃ MARGARETH A. FARLEY, R.S.M.
@@ -67,8 +63,6 @@ Com esta Notificação, a Congregação para a Doutrina da Fé expressa profundo
 **+ Luís F. Ladaria, S.I.** Arcebispo tit. de Thibica *Secretário*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-[](#top)
 
 [^1]: *[Catecismo da Igreja Católica](/archive/cathechism_po/index_new/prima-pagina-cic_po.html)*, n. 2352; cf. Congregação para a Doutrina da Fé, [Declaração *Persona Humana* sobre algumas questões de ética sexual](rc_con_cfaith_doc_19751229_persona-humana_po.html) (29 de dezembro de 1975), n. 9: *AAS* 68 (1976), 85-87.
 

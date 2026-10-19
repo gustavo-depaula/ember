@@ -155,17 +155,17 @@ si želela hoditi in jih voditi v nebo.« [^62]
 52\. Aktualnost svete Terezije Deteta Jezusa in Svetega obličja, od nebes do zemlje, je v njeni »majhni veličini«.
 
 > V časih, ki nas vabijo k zaprtosti v svoje lastne interese, nam Terezija kaže, da je lepo iz življenja narediti dar.
->
+
 > V trenutkih, ko se zdi, da prevladujejo površne potrebe, je ona priča evangeljskega radikalizma.
->
+
 > V časih individualizma nam odkriva vrednost ljubezni, ki postane posredniška.
->
+
 > V trenutkih, ko je človek obseden z gospodovalnostjo in novimi oblikami moči, nam kaže malo pot.
->
+
 > V časih, v katerih so mnoga človeška življenja zavržena, nas uči lepote pozornosti in skrbi do drugih.
->
+
 > V trenutkih kompleksnosti nas uči ponovno odkrivati preprostost, zaupanje in predanost, absolutno prednost ljubezni in s tem prelomiti z legalistično in moralistično logiko, ki zapolnjuje krščansko življenje s pravili in normami ter hromi radost evangelija.
->
+
 > V časih brezbrižnosti in ukvarjanja s seboj nas Terezija vabi k misijonarskemu duhu, ki ga osvojimo prek privlačnosti Jezusa Kristusa in evangelija.
 
 53\. Terezija je stoletje in pol po svojem rojstvu v srcu potujoče Cerkve, v srcu Božjega ljudstva bolj živa kot kdajkoli prej. Z nami je na romanju in dela dobro na zemlji, kot si je to tako želela. Nepreštevna množica »vrtnic«, ki jih Terezija trosi, je najlepše znamenje njene duhovne vitalnosti, z drugimi besedami »množica« milosti, ki nam jih Bog podarja po njeni ljubezni polni priprošnji, da bi nas podpiral na poti življenja.

@@ -19,8 +19,6 @@ Avec notre dévouement dans le Christ
 
 *LETTRE DU PAPE BENOÎT XVI*
 
-* *
-
 A Sa Béatitude Antonios NAGUIB  
 Patriarche d'Alexandrie des Coptes
 

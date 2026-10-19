@@ -1,9 +1,5 @@
 # Missa pelo Papas Paulo VI e João Paulo I
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***HOMILIA DO CARDEAL JOSEPH RATZINGER  NA RECORDAÇÃO DO 26° ANIVERSÁRIO DA MORTE  DO PAPA PAULO VI E DO PAPA JOÃO PAULO I***
 
 *Terça-feira, 28 de Setembro de 2004*
@@ -23,5 +19,3 @@ Sem a verdade, o amor seria cego. E por isso, aquele que deve preceder no amor, 
 "Sei que o meu Redentor está vivo", diz o texto de Job na primeira leitura da nossa Liturgia di-lo num momento de extrema provação; di-lo quando Deus se esconde e parece ser o seu adversário. Coberto com o véu do sofrimento, sem conhecer o seu nome e o seu rosto, Job "sabe" que o seu Redentor está vivo, e esta certeza é a sua grande consolação nas trevas da prova. Jesus Cristo tirou o véu que, para Job, cobria o rosto de Deus: sim, o nosso Redentor está vivo, e "nós todos que, com o rosto descoberto, reflectimos a glória do Senhor, somos transfigurados na sua própria imagem, de glória em glória, pelo Senhor que é Espírito", afirma São Paulo (*2 Cor* 3, 18). O nosso Redentor está vivo tem um rosto e um nome: Jesus Cristo. Os nossos "olhos contemplá-lo-ão" recebemos esta certeza dos nossos Papas defuntos, que assim nos orientam "rumo à plena posse da verdade", confirmando-nos na fé do nosso Redentor.
 
 Amém!
-
-[](#top)

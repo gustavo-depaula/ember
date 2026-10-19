@@ -62,7 +62,7 @@ Todavia, como a música moderna foi inventada principalmente para uso profano, d
 11\. Observem-se, em particular, as normas seguintes:
 
 > a\) O *Kyrie*, o *Glória*, o *Credo*, etc., da Missa, devem conservar a unidade de composição própria do texto. Por conseguinte, não é lícito compô-las como peças separadas, de modo que, cada uma destas forme uma composição musical tão completa que possa separar-se das restantes e ser substituída por outra.
->
+
 > b\) No ofício de Vésperas deve seguir-se, ordinariamente, a norma do *Caeremoniale Episcoporum* que prescreve o canto gregoriano para a salmodia, e permite a música figurada nos versículos do *Gloria Patri* e no *hino*.
 
 Contudo, é permitido, nas maiores solenidades, alternar o canto gregoriano do coro com os chamados "falsibordoni" ou com versos de modo semelhante convenientemente compostos. Poderá também conceder-se, uma vez por outra, que cada um dos salmos seja totalmente musicado, contanto que, em tais composições, se conserve a forma própria da salmodia, isto é, que os cantores pareçam salmodiar entre si, já com motivos musicais novos, já com motivos tirados do canto gregoriano, ou imitados deste.
@@ -70,7 +70,7 @@ Contudo, é permitido, nas maiores solenidades, alternar o canto gregoriano do c
 Ficam proibidos, nas cerimônias litúrgicas, os salmos de concerto.
 
 > c\) Conserve-se, nas músicas da Igreja, a forma tradicional do hino. Não é permitido compor, por exemplo, o *Tantum ergo* de modo que a primeira estrofe apresente a forma de *romanza*, *cavatina* ou *adágio* e o *Genitori* a de *allegro*.
->
+
 > d\) As *antífonas* de Vésperas têm de ser cantadas, ordinariamente, com a melodia gregoriana que lhes é própria. Porém, se em algum caso particular se cantarem em música, não deverão nunca ter a forma de melodia de concerto, nem a amplitude dum *motete* ou de *cantata*.
 
 **V. *Os cantores***

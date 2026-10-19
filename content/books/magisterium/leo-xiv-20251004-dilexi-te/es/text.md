@@ -96,8 +96,6 @@ DIOS OPTA POR LOS POBRES
 
 34\. La vida de las primeras comunidades eclesiales, narrada en el canon bíblico y que ha llegado a nosotros como Palabra revelada, se nos ofrece como ejemplo a imitar y como testimonio de la fe que obra por medio de la caridad, y que continúa como exhortación permanente para las generaciones venideras. A lo largo de los siglos, estas páginas han interpelado los corazones de los cristianos a amar y a realizar obras de caridad, como semillas fecundas que no cesan de producir fruto.
 
-** **
-
 CAPÍTULO TERCERO
 
 UNA IGLESIA PARA LOS POBRES
@@ -271,8 +269,6 @@ UNA HISTORIA QUE CONTINÚA
 101\. Todo esto comporta la presencia de un aspecto en la opción por los pobres que debemos recordar constantemente: esta opción, en efecto, exige de nuestra parte «una atención puesta en el otro \[…\]. Esta atención amante es el inicio de una verdadera preocupación por su persona, a partir de la cual deseo buscar efectivamente su bien. Esto implica valorar al pobre en su bondad propia, con su forma de ser, con su cultura, con su modo de vivir la fe. El verdadero amor siempre es contemplativo, nos permite servir al otro no por necesidad o por vanidad, sino porque él es bello, más allá de su apariencia. \[…\] Sólo desde esta cercanía real y cordial podemos acompañarlos adecuadamente en su camino de liberación». [^111] ^(^(\[11\])) Por esta razón, dirijo un sincero agradecimiento a todos los que han escogido vivir entre los pobres; es decir, a aquellos que no van a visitarlos de vez en cuando, sino que viven con ellos y como ellos. Esta es una opción que debe encontrar lugar entre las formas más altas de vida evangélica.
 
 102\. En esta perspectiva, aparece claramente la necesidad de que «todos nos dejemos evangelizar» [^112] ^(^(\[12\])) por los pobres, y que todos reconozcamos «la misteriosa sabiduría que Dios quiere comunicarnos a través de ellos». [^113] ^(^(\[13\])) Crecidos en la extrema precariedad, aprendiendo a sobrevivir en medio de las condiciones más difíciles, confiando en Dios con la certeza de que nadie más los toma en serio, ayudándose mutuamente en los momentos más oscuros, los pobres han aprendido muchas cosas que conservan en el misterio de su corazón. Aquellos entre nosotros que no han experimentado situaciones similares, de una vida vivida en el límite, seguramente tienen mucho que recibir de esa fuente de sabiduría que constituye la experiencia de los pobres. Sólo comparando nuestras quejas con sus sufrimientos y privaciones, es posible recibir un reproche que nos invite a simplificar nuestra vida.
-
-** **
 
 CAPÍTULO QUINTO
 

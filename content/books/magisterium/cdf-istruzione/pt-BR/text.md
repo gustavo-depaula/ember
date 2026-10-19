@@ -1,9 +1,5 @@
 # Instrução sobre as orações para alcançar de Deus a cura
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INSTRUÇÃO SOBRE AS ORAÇÕES PARA ALCANÇAR DE DEUS A CURA***
 
 **Introdução**
@@ -191,5 +187,3 @@ Arc. *Emérito de Vercelli,  Secretário*
 \(31\) CONGREGATIO PRO DOCTRINA FIDEI, Epistula *Inde ab aliquot annis*, Ordinariis locorum missa: in mentem normae vigentes de exorcismis revocantur, 29 septembris 1985, in AAS 77(1985), pp. 1169-1170.
 
 \(32\) Cfr. *Rituale Romanum*, Ex Decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum, Auctoritate Pauli PP. VI promulgatum, *De exorcismis et supplicationibus quibusdam*, Editio typica, Typis Vaticanis, MIM, *Praenotanda*, nn. 13-19.
-
-[](#top)

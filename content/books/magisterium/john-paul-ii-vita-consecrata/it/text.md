@@ -120,8 +120,6 @@ Mentre confido che i figli della Chiesa, e in particolare le persone consacrate,
 
 **ALLE SORGENTI CRISTOLOGICO-TRINITARIE DELLA VITA CONSACRATA**
 
-** **
-
 ***L'icona di Cristo trasfigurato***
 
 14\. Il fondamento evangelico della vita consacrata va cercato nel rapporto speciale che Gesù, nella sua esistenza terrena, stabilì con alcuni dei suoi discepoli, invitandoli non solo ad accogliere il Regno di Dio nella propria vita, ma a porre la propria esistenza a servizio di questa causa, lasciando tutto e imitando da vicino la sua *forma di vita*.

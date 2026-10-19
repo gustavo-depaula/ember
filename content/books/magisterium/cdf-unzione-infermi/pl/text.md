@@ -1,9 +1,5 @@
 # NOTA Kongregacji Nauki Wiary dotycząca szafarza sakramentu Namaszczenia Chorych
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 41/74
 
 **NOTA Kongregacji Nauki Wiary dotycząca szafarza sakramentu Namaszczenia Chorych**
@@ -73,7 +69,5 @@ Doktryna, według której szafarzem sakramentu namaszczenia chorych „est omnis
 Na zakończenie wydaje się słusznym przypomnieć, że kapłan, przez otrzymany sakrament święceń, uobecnia w sposób wyjątkowy Jezusa Chrystusa, Głowę Kościoła. Sprawując sakramenty działa on *in persona Christi Capitis* i *in* *persona Ecclesiae*. Tym, który działa w sakramencie namaszczenia jest sam Jezus Chrystus, a kapłan jest tylko żywym i widzialnym narzędziem. Reprezentuje on i czyni obecnym Chrystusa w sposób wyjątkowy przez co sakrament ma szczególną godność i skuteczność w relacji do sakramentaliów tak, że – jak mówi Słowo natchnione odnośnie namaszczenia chorych – „Pan go podźwignie” (Jk 5,15). Ponadto kapłan działa *in persona Ecclesiae*. Modlitwa „kapłanów Kościoła” reprezentuje modlitwę całego Kościoła (por. Jk 5,14), jak to stwierdza św. Tomasz z Akwinu: „oratio illa non fit a sacerdote in persona sua \[...\], sed fit in persona totius Ecclesiae” (*Summa Theologiae*, Supplementum, q. 31, a. 1, ad 1). A taka modlitwa zostaje wysłuchana.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Jest godnym podkreślenia fakt, że również według Prawosławnych szafarzem namaszczenia chorych jest tylko Biskup lub prezbiter.

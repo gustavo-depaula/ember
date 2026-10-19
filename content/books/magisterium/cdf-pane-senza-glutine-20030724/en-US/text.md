@@ -1,9 +1,5 @@
 # Circular Letter to all Presidents of the Episcopal Conferences concerning the use of low-gluten altar breads and mustum as matter for the celebration of the Eucharist
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **Circular Letter to all Presidents of the Episcopal Conferences concerning the use of low-gluten altar breads and mustum as matter for the celebration of the Eucharist**
@@ -61,7 +57,3 @@ Asking you to kindly communicate the contents of this letter to the members of y
 Sincerely yours in Christ,
 
 **Joseph Card. Ratzinger** * Prefect*
-
-*   *
-
-[](#top)

@@ -25,8 +25,6 @@ Radost ljubezni
 
 7\. Zaradi bogastva dveletnih sinodalnih razmišljanj tudi ta spodbuda na različne načine načenja mnoge in raznolike teme. Zato je tudi tako obsežna. Zato svetujem, da je ne preberemo na dušek. Bolj bo koristila tako družinam kot tudi delujočim v družinski pastorali, če se z njo potrpežljivo ukvarjajo del za delom ali v njej iščejo, kar bi lahko potrebovali v vsaki konkretni situaciji. Zakonci se bodo mogoče bolj prepoznali v četrtem in petem poglavju, pastoralne delavce bo morda bolj zanimalo šesto poglavje, vse pa bo morda zelo nagovorilo osmo poglavje. Upam, da se bo ob branju vsak čutil poklicanega, da se z ljubeznijo zavzame za družine, kajti te »niso težava, \[temveč\] so v prvi vrsti priložnost«. [^4]
 
-* *
-
 **Prvo poglavje**
 
 **V LUČI BESEDE**
@@ -913,8 +911,6 @@ Jezus, Marija in Jožef,
 poslušajte in uslišite našo prošnjo! Amen.
 
 *Dano v Rimu, pri Svetem Petru, v izrednem svetem letu usmiljenja, 19. marca, na praznik svetega Jožefa, leta 2016, v četrtem mojega pontifikata.*
-
-* *
 
 Papež Frančišek
 

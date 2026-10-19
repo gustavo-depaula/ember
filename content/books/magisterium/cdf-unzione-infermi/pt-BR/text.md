@@ -1,9 +1,5 @@
 # Nota sobre o Ministro do Sacramento da Unção dos Enfermos
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***Nota sobre o Ministro do Sacramento da Unção dos Enfermos***
@@ -72,8 +68,4 @@ Concluindo, será de facto oportuno recordar que o sacerdote, devido ao Sacramen
 Aquele que administra este Sacramento é Jesus Cristo, o sacerdote é o instrumento vivo e visível. Ele representa e torna presente Cristo de modo especial, portanto este Sacramento possui uma dignidade particular e eficaz em relação a um sacramental: desta forma, como diz a Palavra inspirada acerca da Unção dos Enfermos, "o Senhor o aliviará" *(Tg* 5, 15). O sacerdote age além disso *in persona Ecclesiae.* Os "presbíteros da Igreja" reúnem na sua oração *(Tg* 5, 14) a oração de toda a Igreja; como diz Tomás de Aquino a este propósito: "oratio illa non fit a sacerdote in persona sua \[...\], sed fit in persona totius Ecclesiae" *(Summa Theologiae,* Supplementum, q. 31,a.1,ad1).Uma tal oração tem o seu cumprimento.
 
 **Nota**  
-Observa-se que também os Ortodoxos consideram que ministro da Unção seja unicamente o Bispo ou o presbítero. 
-
-* *
-
-[](#top)
+Observa-se que também os Ortodoxos consideram que ministro da Unção seja unicamente o Bispo ou o presbítero.

@@ -1,9 +1,5 @@
 # COMMENTARY ON THE INSTRUCTION "REDEMPTIONIS SACRAMENTUM"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR DIVINE WORSHIP  
 AND THE DISCIPLINE OF THE SACRAMENT 
 
@@ -80,5 +76,3 @@ Over and above the corrective sense, however, I consider it important to grasp i
 In my opinion, when read in this manner, the Instruction that the Congregation for Divine Worship and the Discipline of the Sacraments has compiled, in agreement with the Congregation for the Doctrine of the Faith, can be welcomed as a useful, and I hope effective, instrument to enable us, 40 years after *[Sacrosanctum Concilium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html),* to journey on towards another important milestone:  the Synod on the Eucharist which has already been announced, so that we may live ever better the Eucharist as the source and summit of ecclesial life.
 
 *23 April 2004*
-
-[](#top)

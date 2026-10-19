@@ -1,9 +1,5 @@
 # Risposte a quesiti circa l'alimentazione e l'idratazione artificiali
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***RISPOSTE A QUESITI DELLA CONFERENZA EPISCOPALE STATUNITENSE CIRCA L’ALIMENTAZIONE E L’IDRATAZIONE ARTIFICIALI***
@@ -25,7 +21,3 @@ Il Sommo Pontefice Benedetto XVI, nel corso dell’Udienza concessa al sottoscri
 
 **Angelo Amato, S.D.B.**  
 Arcivescovo tit. di Sila *Segretario*
-
-* *
-
-[](#top)

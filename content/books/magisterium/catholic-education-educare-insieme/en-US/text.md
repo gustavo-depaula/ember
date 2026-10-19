@@ -1,9 +1,5 @@
 # Educating Together in Catholic Schools. A Shared Mission between Consecrated Persons and the Lay Faithful
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR CATHOLIC EDUCATION (of Seminaries and Educational Institutions)**
 
 ***EDUCATING TOGETHER IN CATHOLIC SCHOOLS***
@@ -23,11 +19,11 @@
 **[II. A JOURNEY OF FORMATION FOR EDUCATING TOGETHER](#II._A_JOURNEY_OF_FORMATION_FOR_EDUCATING_TOGETHER)**
 
 > **[Professional formation](#Professional_formation) [Theological and spiritual formation](#Theological_and_spiritual_formation)**
->
+
 > > ***[The contribution of consecrated persons to shared formation](#The_contribution_of_consecrated_persons_to_shared_formation) [The contribution of lay persons to shared formation](#The_contribution_of_lay_persons_to_shared_formation)***
->
+
 > **[Formation in the spirit of communion for educating](#Formation_in_the_spirit_of_communion_for_educating)**
->
+
 > > ***[Witness and culture of communion](#Witness_and_culture_of_communion) [Educational community and vocational pastoral activity](#Educational_community_and_vocational_pastoral_activity)***
 
 **[III. COMMUNION FOR OPENING ONESELF TOWARDS OTHERS](#III._COMMUNION_FOR_OPENING_ONESELF_TOWARDS_OTHERS)**
@@ -197,8 +193,6 @@ Consecrated persons also participate, as «true signs of Christ in the world»[^
 **Msgr. Angelo Vincenzo Zani** * Undersecretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benedict XVI, [Address to Rome’s Ecclesial Diocesan Convention on the Family and Christian Community](http://www.vatican.va/holy_father/benedict_xvi/speeches/2005/june/documents/hf_ben-xvi_spe_20050606_convegno-famiglia_en.html) (6^(th) June 2005): *AAS* 97 (2005), 816.
 

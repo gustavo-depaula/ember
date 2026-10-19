@@ -1,9 +1,5 @@
 # Commentarium - Fedeltà nella verità, 14 settembre 1994
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMMENTARIUM**
 
 ***«FEDELTÀ NELLA VERITÀ»***\*
@@ -63,5 +59,3 @@ I «destinatari» della *[Lettera](/roman_curia/congregations/cfaith/documents/r
 \+ **Dionigi Tettamanzi**
 
 \* *Notitiae* 30 (1994) 554-562.
-
-[](#top)

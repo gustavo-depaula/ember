@@ -1,9 +1,5 @@
 # Erklärender Artikel zu dem Rundschreiben über das Opus Sanctorum Angelorum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Das Opus Sanctorum Angelorum**\*
 
 Mit Datum vom 2. Oktober 2010 hat die Kongregation für die Glaubenslehre den Vorsitzenden der Bischofskonferenzen einen [Rundbrief](rc_con_cfaith_doc_20101002_opus-angelorum_ge.html) gesandt über die Vereinigung „Opus Angelorum“ (Engelwerk). Dieser wurde dann in *L’Osservatore Romano* vom 12. November 2010, S. 16, veröffentlicht. In diesem Brief informiert die Kongregation insbesondere über die Approbation des „Statuts des *Opus Sanctorum Angelorum*“ von Seiten der *Kongregation für die Institute des geweihten Lebens und die Gesellschaften des apostolischen Lebens* und über die Approbation der „Formel einer Weihe an die heiligen Engel“ für das *Opus Angelorum* von Seiten der Kongregation für die Glaubenslehre. Es scheint daher angebracht zu sein, die Spiritualität dieses *Werkes der heiligen Engel* kurz zu erklären. Es ist, so wie es sich heute darstellt, „ein öffentlicher Verein der Kirche in Übereinstimmung mit der überlieferten Lehre und den Weisungen der höchsten Autorität. Es verbreitet die Verehrung der heiligen Engel unter den Gläubigen, ruft zum Gebet für die Priester auf, fördert die Liebe zu Christus in seinem Leiden und die Verbundenheit mit ihm“ ([Brief](rc_con_cfaith_doc_20101002_opus-angelorum_ge.html)  der Kongregation für die Glaubenslehre).
@@ -41,8 +37,6 @@ Mit der Approbation des *Opus Angelorum* hat die Kirche einer Bewegung den Segen
 \* *L’Osservatore Romano*, Wochenausgabe in deutscher Sprache, Nummer 15, 15. April 2011, S. 9.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 7. Siehe Dekret *Litteris diei* der Kongregation für die Glaubenslehre, vom 6. Juni 1992.
 

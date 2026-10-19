@@ -1,9 +1,5 @@
 # Le peuple Juif et ses Saintes Écritures dans la Bible Chrétienne
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMMISSION PONTIFICAL BIBLIQUE** 
 
 ***LE PEUPLE JUIF ET SES SAINTES ÉCRITURES DANS LA BIBLE CHRÉTIENNE ***
@@ -2044,6 +2040,4 @@ Tel. (06) 698.85003 - Fax (06) 698.84716 
 
 ISBN 88-209-7919-0 
 
-TYPOGRAPHIE VATICANE 
-
-[](#top)
+TYPOGRAPHIE VATICANE

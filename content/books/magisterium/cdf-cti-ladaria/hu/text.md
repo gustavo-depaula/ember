@@ -1,9 +1,5 @@
 # A kereszténység és a vallások, A Nemzetközi Teológiai Bizottság dokumentumának bemutatása
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **A KERESZTÉNYSÉG ÉS A VALLÁSOK**
 
 **A NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG DOKUMENTUMÁNAK BEMUTATÁSA**
@@ -71,7 +67,5 @@ De főleg azt szögezi le világosan, hogy az, ami azokban érvényes és jó le
 (8/03/2012)
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *De res. mort.* 6,3: „Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus”.

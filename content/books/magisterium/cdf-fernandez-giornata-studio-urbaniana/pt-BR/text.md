@@ -1,13 +1,5 @@
 # Introdução aos trabalhos do Dia de Estudo para a apresentação do documento «Jesus Cristo, Filho de Deus, Salvador» da Comissão Teológica Internacional
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Cardeal Victor Manuel Fernández *Prefeito do Dicasterio para a Doutrina da Fé*

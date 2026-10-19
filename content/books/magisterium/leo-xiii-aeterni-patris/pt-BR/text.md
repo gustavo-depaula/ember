@@ -132,8 +132,6 @@ Por último, sustentados com a esperança do divino auxílio, e confiantes, em v
 
 *Dado em Roma, em São Pedro a 4 de Agosto de 1879. No ano segundo de nosso Pontificado *
 
-* *
-
 ------------------------------------------------------------------------
 
 [^1]: [Mt 28, 19](http://www.bibliacatolica.com.br/01/47/28.php).

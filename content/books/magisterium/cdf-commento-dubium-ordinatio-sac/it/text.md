@@ -1,9 +1,5 @@
 # Sulla Risposta della Congregazione per la Dottrina della Fede circa la dottrina proposta nella Lettera apostolica Ordinatio sacerdotalis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Sulla Risposta della Congregazione per la Dottrina della Fede circa la dottrina proposta nella Lettera apostolica Ordinatio sacerdotalis**
 
 In occasione della pubblicazione della Risposta della Congregazione per la Dottrina della Fede ad un dubbio riguardante il motivo per cui è da considerarsi definitive tenenda la dottrina esposta nella Lettera apostolica *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_it.html)*, sembrano opportune alcune riflessioni.
@@ -31,5 +27,3 @@ Davanti a questo preciso atto magisteriale del Romano Pontefice, esplicitamente 
 Infine, non sono mancati alcuni commenti alla Lettera *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_it.html)* secondo cui quest’ultima costituirebbe un’ulteriore e non opportuna difficoltà nel già difficile cammino del movimento ecumenico. A questo riguardo bisogna non dimenticare che secondo la lettera e lo spirito del [Concilio Vaticano II](/archive/hist_councils/ii_vatican_council/index_it.htm) (cf. Decr. *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_it.html)*, 11), l’autentico impegno ecumenico, al quale la Chiesa Cattolica non vuole né può venir meno, esige una piena sincerità e chiarezza nella presentazione dell’identità della propria fede. Inoltre occorre rilevare che la dottrina riaffermata dalla Lettera *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_it.html)* non può non giovare alla ricerca della piena comunione con le Chiese ortodosse le quali, conformemente alla Tradizione, hanno mantenuto e mantengono con fedeltà lo stesso insegnamento.
 
 La singolare originalità della Chiesa e del sacerdozio ministeriale al suo interno, richiede una precisa chiarezza di criteri. Concretamente, non si deve perdere mai di vista che la Chiesa non trova la fonte della propria fede e della propria struttura costitutiva nei principi della vita sociale di ogni momento storico. Pur guardando con attenzione al mondo nel quale vive e per la cui salvezza opera, la Chiesa ha la coscienza di essere portatrice di una fedeltà superiore alla quale è legata. Si tratta della radicale fedeltà alla Parola di Dio ricevuta dalla stessa Chiesa stabilita da Gesù Cristo fino alla fine dei tempi. Questa Parola di Dio, nel proclamare il valore essenziale e il destino eterno di ogni persona, manifesta il fondamento ultimo della dignità di ogni essere umano: di ogni donna e di ogni uomo.
-
-[](#top)

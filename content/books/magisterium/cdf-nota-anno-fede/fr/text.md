@@ -1,9 +1,5 @@
 # Note avec indications pastorales pour l’Année de la foi, 6 janvier 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***Note avec indications pastorales pour l’Année de la foi***
@@ -137,8 +133,6 @@ Rome, au siège de la Congrégation pour la Doctrine de la Foi, le 6 janvier 201
 *Archevêque titulaire de Thibica Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benoît XVI, Lettre enc. *[Deus caritas est](/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_fr.html)*, 25 décembre 2005, n. 1.
 

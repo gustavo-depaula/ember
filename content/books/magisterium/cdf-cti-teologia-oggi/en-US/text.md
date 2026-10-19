@@ -1,9 +1,5 @@
 # Theology Today: Perspectives, Principles and Criteria
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **INTERNATIONAL THEOLOGICAL COMMISSION**
 
 ***THEOLOGY TODAY: PERSPECTIVES, PRINCIPLES AND CRITERIA***
@@ -285,8 +281,6 @@ The general discussions of this theme were held in numerous meetings of the subc
 100\. As theology is a service rendered to the Church and to society, so the present text, written by theologians, seeks to be of service to our theologian colleagues and also to those with whom Catholic theologians engage in dialogue. Written with respect for all who pursue theological enquiry, and with a profound sense of the joy and privilege of a theological vocation, it strives to indicate perspectives and principles which characterise Catholic theology and to offer criteria by which that theology may be identified. In summary, it may be said that Catholic theology studies the Mystery of God revealed in Christ, and articulates the experience of faith that those in the communion of the Church, participating in the life of God, have, by the grace of the Holy Spirit, who leads the Church into the truth (Jn 16:13). It ponders the immensity of the love by which the Father gave his Son to the world (cf. Jn 3:16), and the glory, grace and truth that were revealed in him for our salvation (cf. Jn 1:14); and it emphasises the importance of hope in God rather than in created things, a hope it strives to explain (cf. 1Pet 3:15). In all its endeavours, in accordance with Paul’s injunction always to ‘be thankful’ (Col 3:15; 1Thess 5:18), even in adversity (cf. Rom 8:31-39), it is fundamentally doxological, characterised by praise and thanksgiving. As it considers the work of God for our salvation and the surpassing nature of his accomplishments, glory and praise is its most appropriate modality, as St Paul not only teaches but also exemplifies: ‘Now to him who by the power at work within us is able to accomplish abundantly far more than all we can ask or imagine, to him be glory in the church and in Christ Jesus to all generations, forever and ever. Amen’ (Eph 3:20-21).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Second Vatican Council, *Gaudium et Spes* 3. Unless otherwise indicated, quotations from Vatican II documents are taken from *Vatican Council II*, vol.1, *The Conciliar and Post Conciliar Documents*, ed. Austin Flannery (Northport, NY: Costello Publishing Company and Dublin: Dominican Publications, 1996).
 

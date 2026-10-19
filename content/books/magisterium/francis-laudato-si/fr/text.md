@@ -4,8 +4,6 @@ LETTRE ENCYCLIQUE ***LAUDATO SI’*** DU SAINT-PÈRE
 **FRANÇOIS** SUR LA SAUVEGARDE DE LA  
 MAISON COMMUNE
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_fr.pdf)
-
 1. « Laudato si’, mi’ Signore »*,* - « Loué sois-tu, mon Seigneur », chantait saint François d’Assise. Dans ce beau cantique, il nous rappelait que notre maison commune est aussi comme une sœur, avec laquelle nous partageons l’existence, et comme une mère, belle, qui nous accueille à bras ouverts : « Loué sois-tu, mon Seigneur, pour sœur notre mère la terre, qui nous soutient et nous gouverne, et produit divers fruits avec les fleurs colorées et l’herbe ».[^1]
 
 2. Cette sœur crie en raison des dégâts que nous lui causons par l’utilisation irresponsable et par l’abus des biens que Dieu a déposés en elle. Nous avons grandi en pensant que nous étions ses propriétaires et ses dominateurs, autorisés à l’exploiter. La violence qu’il y a dans le cœur humain blessé par le péché se manifeste aussi à travers les symptômes de maladie que nous observons dans le sol, dans l’eau, dans l’air et dans les êtres vivants. C’est pourquoi, parmi les pauvres les plus abandonnés et maltraités, se trouve notre terre opprimée et dévastée, qui « gémit en travail d’enfantement » (*Bm* 8, 22). Nous oublions que nous-mêmes, nous sommes poussière (cf. *Gn* 2, 7). Notre propre corps est constitué d’éléments de la planète, son air nous donne le souffle et son eau nous vivifie comme elle nous restaure.

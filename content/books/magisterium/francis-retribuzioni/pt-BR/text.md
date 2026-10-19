@@ -11,17 +11,17 @@
 Um futuro economicamente sustentável exige hoje, entre outras decisões, inclusive a adoção de medidas relativas às retribuições do pessoal.
 
 > a\) Tendo em conta o défice que há vários anos carateriza a gestão económica da Santa Sé;
->
+
 > b\) considerando o agravamento desta situação após a emergência sanitária causada pela propagação da Covid-19, que influenciou negativamente todas as fontes de receitas da Santa Sé e do Estado da Cidade do Vaticano;
->
+
 > c\) tendo em conta que os custos com o pessoal constituem um relevante item de despesa no orçamento da Santa Sé e do Estado da Cidade do Vaticano;
->
+
 > d\) considerando que, apesar de uma adequada capitalização da Santa Sé e do Estado da Cidade do Vaticano, era necessário assegurar a sustentabilidade e o equilíbrio entre receitas e despesas na gestão económica e financeira corrente;
->
+
 > e\) tendo em conta que, a tal propósito, era preciso agir segundo critérios de proporcionalidade e progressividade;
->
+
 > f\) em vista de salvaguardar os atuais postos de trabalho;
->
+
 > g\) tendo recebido o parecer competente da Secretaria para a Economia e depois de ter examinado cuidadosamente todas as questões relativas à matéria, estabeleço o seguinte:
 
 **Artigo 1 Retribuições dos Cardeais**
@@ -41,9 +41,9 @@ Um futuro economicamente sustentável exige hoje, entre outras decisões, inclus
 A redução prevista nos artigos 1, 2 e 3 não se aplica se a pessoa em questão apresentar documentos de que não pode suportar os custos fixos decorrentes da sua própria saúde ou da saúde de um parente até ao segundo grau de parentesco. Os pressupostos para a aplicação do presente artigo serão avaliados anualmente. A relativa documentação deverá ser apresentada:
 
 > a\) à Secretaria para a Economia, para os funcionários que dela dependem administrativamente;
->
+
 > b\) ao Governatorato do Estado da Cidade do Vaticano, para os seus funcionários;
->
+
 > c\) à Instituição a que pertencem, para os funcionários da Congregação para a Evangelização dos Povos e das Entidades citadas no art. 6.
 
 **Artigo 5 Escalões bienais de antiguidade**

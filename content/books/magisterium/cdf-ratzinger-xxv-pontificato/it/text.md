@@ -1,9 +1,5 @@
 # XXV Anniversario di Pontificato - Saluto introduttivo del Card. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***SALUTO INTRODUTTIVO DELLÂ’EM.MO CARD. JOSEPH RATZINGER ALL'INIZIO DELLA CELEBRAZIONE EUCARISTICA IN OCCASIONE DEL XXV ANNIVERSARIO DI PONTIFICATO DI GIOVANNI PAOLO II  ***
 
 *Giovedì, 16 ottobre 2003*
@@ -23,5 +19,3 @@ E' una *beatitudo,* questa, che dipende anche - lo sappiamo bene - dalla fedelt�
 Con questi sentimenti Le diciamo dal profondo del cuore:
 
 Auguri, Santo Padre!
-
-[](#top)

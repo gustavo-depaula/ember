@@ -1,9 +1,5 @@
 # Theologie vandaag. Teologia oggi, commenti, 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **“Theologie vandaag” … en morgen**
 
 ***Collationes. Tijdschrift voor Theologie en Pastoraal* 43, n. 3 \[2013\] 241-310,**
@@ -27,5 +23,3 @@ Dieter Van Belle,
 
 Erik Borgman,  
 *Theologie vandaag … en morgen dan? Enkele notities bij een opmerkelijk document* (301-310).
-
-[](#top)

@@ -1,13 +1,5 @@
 # Notifikation über die Verehrung der göttlichen Barmherzigkeit in den von Schwester Faustina vorgeschlagenen Formen, 15 April 1978
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Hl. Kongregation für die Glaubenslehre**

@@ -4,8 +4,6 @@
 
 ***LETTERA APOSTOLICA PER IL CENTENARIO DELL'OPERA DI SAN PIETRO APOSTOLO***
 
-*** ***
-
 *Venerabili fratelli, cari figli e figli, salute e apostolica benedizione!*
 
 1\. In questo tempo in cui le Chiese di recente fondazione vedono dei giovani sempre più numerosi rispondere alla chiamata del Signore ed assumersi il compito sacerdotale, è giusto che tutto il Popolo di Dio celebri nella gioia e nel rendimento di grazie il centesimo anniversario della fondazione dell'Opera di san Pietro apostolo per la promozione del clero autoctono e lo sviluppo dei seminari nelle Chiese locali dei territori di missione. Godendo della collaborazione di innumerevoli fratelli e sorelle mobilitati per questa Opera, in realtà, un gran numero di vocazioni seminate nelle giovani Chiese sono germogliate e hanno portato frutti di grazia e di salvezza. Si sono costruiti e messi in funzione seminari minori e maggiori, si sono create case di formazione alla vita religiosa per rispondere al desiderio di quanti volevano consacrare radicalmente la loro vita alla proclamazione del Vangelo.
@@ -62,8 +60,4 @@ La benedizione di Dio sia la ricompensa di tutti coloro che si associano all'Ope
 
 *Dal Vaticano, 1° ottobre 1989, festa di santa Teresa del Bambin Gesù e del Volto santo, undicesimo anno del mio Pontificato.*
 
-IOANNES PAULUS II 
-
-*  *
-
-* *
+IOANNES PAULUS II

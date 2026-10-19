@@ -2,8 +2,6 @@
 
 **LETTER OF THE HOLY FATHER POPE JOHN PAUL II *TO PRIESTS* FOR HOLY THURSDAY 1999**
 
-**   **
-
 *“Abba,* Father!”
 
 Dear Brothers in the priesthood, my Holy Thursday appointment with you in this year which immediately precedes the Great Jubilee of the Year 2000 focuses on this invocation in which, the exegetes tell us, we hear the *ipsissima vox Iesu.* It is an invocation which encloses the unfathomable mystery of the Word made flesh, sent by the Father into the world for the salvation of humanity.
@@ -57,5 +55,3 @@ This Holy Thursday, dear priests throughout the world, as we recall the anointin
 *Per ipsum, et cum ipso, et in ipso, est tibi Deo Patri omnipotenti, in unitate Spiritus Sancti, omnis honor et gloria per omnia saecula saeculorum. Amen!*
 
 *From the Vatican, on 14 March, the Fourth Sunday of Lent, in the year 1999, the twenty-first of my Pontificate.*
-
-*  *

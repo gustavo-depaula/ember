@@ -1,9 +1,5 @@
 # INFORMACJA DOTYCZĄCA NIEKTÓRYCH PUBLIKACJI PROFESORA DRA REINHARDA MEßNERA
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **INFORMACJA DOTYCZĄCA NIEKTÓRYCH PUBLIKACJI PROFESORA DRA REINHARDA MEßNERA***\**
@@ -137,5 +133,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 30 listopada 2000 r.
 \[20\] Por. SOB. WAT. II, Konst. *Lumen gentium*, 10.
 
 \[21\] Por. SOB. TRYD.: DS 1601, 1670, 1701.
-
-[](#top)

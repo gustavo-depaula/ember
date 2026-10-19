@@ -1,15 +1,5 @@
 # Commentary of His Eminence Cardinal Robert Sarah, prefect of the Congregation for Divine Worship and the Discipline of the Sacraments: A couragious Apostle of the Gospel
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

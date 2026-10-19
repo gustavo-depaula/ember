@@ -1,9 +1,5 @@
 # Lettera circolare ai Presidenti delle Conferenze Episcopali circa l'uso del pane con poca quantità di glutine e del mosto come materia eucaristica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ****Lettera circolare ai Presidenti delle Conferenze Episcopali circa l'uso del pane con poca quantità di glutine e del mosto come materia eucaristica****
@@ -61,5 +57,3 @@ Nel pregarLa cortesemente di comunicare quanto sopra a tutti i membri di codesta
 dev.mo
 
 + **Joseph Card. RATZINGER** *Prefetto*
-
-[](#top)

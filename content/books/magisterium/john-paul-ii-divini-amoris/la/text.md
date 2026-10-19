@@ -4,8 +4,6 @@
 
 ***Sancta Teresia a Iesu Infante et a Sacro Vultu Doctor Ecclesiae universalis renuntiatur***
 
-*** ***
-
 1\. DIVINI AMORIS SCIENTIA, quam Pater misericordiarum per Iesum Christum in Spiritu Sancto effundit, donum est, parvulis tributum humilibusque, ut ii cognoscant atque enuntient Regni arcana eruditis abscondita et sapientibus; quam ob causam exsultavit in Spiritu Sancto Iesus Patri laudes referens quoniam ita fieri voluit (cfr Lc 10, 21-22; Mt 11, 25-26).
 
 Exsultat pariter Mater Ecclesia cum intellegat saeculorum decursu Dominum pergere sese patefacere parvulis humilibusque ac per ipsum Spiritum qui "omnia scrutatur, etiam profunda Dei" (1 Cor 2, 10) aptos reddere electos suos ad ea dicenda "quae a Deo donata sunt nobis ..., non in doctis humanae sapientiae, sed in doctis Spiritus verbis, spiritalibus spiritalia comparantes" (1 Cor 2, 12.13). Universam hoc modo ad veritatem Sanctus Spiritus Ecclesiam perducit, variis eam instruit muneribus suisque honestat fructibus, eamque Evangelii virtute iuvenilem efficit temporumque scrutandis signis idoneam reddit, unde melius congruat cum Dei voluntate (cfr Lumen gentium, 4. 12; Gaudium et spes, 4).

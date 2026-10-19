@@ -1,9 +1,5 @@
 # Decreto de excomunión contra algunas mujeres católicas, 5 agosto 2002
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **DECRETO DE EXCOMUNIÓN**
@@ -24,5 +20,3 @@ Al realizar esta obligada intervención, la Congregación confía en que, auxili
 
 **Tarcisio Bertone, S.D.B.** *Arzobispo emérito de Vercelli*  
 *Secretario*
-
-[](#top)

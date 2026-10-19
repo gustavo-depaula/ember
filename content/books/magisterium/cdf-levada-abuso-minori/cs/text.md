@@ -1,9 +1,5 @@
 # Průvodní list kard. Williama Levady prezentující okružní list biskupským konferencím o příručce pro případy pohlavního zneužití nezletilých duchovními
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Průvodní list kard. Williama Levady prezentující okružní list biskupským konferencím o příručce pro případy pohlavního zneužití nezletilých duchovními (3. května 2011)**
 
 KONGREGACE PRO NAUKU VÍRY
@@ -25,5 +21,3 @@ Dále Vám budu vděčný za zaslání exempláře řečené příručky této k
 Ujišťuji Vás, že na Vás myslím ve svých modlitbách, a zůstávám s Vámi spojen v Kristu.
 
 **kard. William Levada** *prefekt*
-
-[](#top)

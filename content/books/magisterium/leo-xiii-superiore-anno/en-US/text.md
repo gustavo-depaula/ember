@@ -22,5 +22,3 @@ Last year, as each of you is aware, We decreed by an Encyclical Letter that, to 
 *Given in Rome, at St. Peter's, the 30th ofAugust, 1884, in the Seventh Year of Our Pontificate.*
 
 ** LEO XIII**
-
-*     *

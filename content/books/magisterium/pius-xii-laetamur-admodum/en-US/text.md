@@ -1,7 +1,5 @@
 # Laetamur Admodum
 
-*** ***
-
 ***LAETAMUR ADMODUM***
 
 ENCYCLICAL OF POPE PIUS XII  

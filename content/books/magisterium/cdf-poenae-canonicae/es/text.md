@@ -1,9 +1,5 @@
 # Notificación por la que se declaran de nuevo las penas canónicas en las que han incurrido los obispos que ordenaron ilícitametne a otros obispos y los que han sido ordenados ilegítimamente
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN POR LA QUE SE DECLARAN DE NUEVO LAS PENAS CANÓNICAS EN LAS QUE HAN INCURRIDO LOS OBISPOS QUE ORDENARON ILÍCITAMENTE OTROS OBISPOS Y LOS QUE HAN SIDO ORDENADOS ILEGÍTIMAMENTE**
@@ -33,7 +29,5 @@ Esta Sagrada Congregación tiene el deber de advertir claramente a los fieles cr
 *Arzobispo titular de Lorium Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: En cuanto a la concordancia de los cánones a que aquí se hace referencia con la legislación canónica recientemente promulgada, cf. en el nuevo [CIC](/archive/ESL0020/_INDEX.HTM) can. [1051](/archive/ESL0020/__P3R.HTM) § 1, [1031](/archive/ESL0020/__P3O.HTM), [1382](/archive/ESL0020/__P52.HTM), [1383](/archive/ESL0020/__P52.HTM), [1041](/archive/ESL0020/__P3Q.HTM) § 6.

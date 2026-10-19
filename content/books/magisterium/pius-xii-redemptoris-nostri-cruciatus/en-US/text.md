@@ -47,5 +47,3 @@ IN PEACE AND COMMUNION WITH THE APOSTOLIC SEE
 *Given at Rome, St. Peter's the fifteenth day of the month of April, Good Friday, in the year 1949, the eleventh of Our Pontificate.*
 
 **PIUS XII**
-
-*       *

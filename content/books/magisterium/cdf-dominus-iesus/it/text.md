@@ -1,13 +1,5 @@
 # Dichiarazione sull’unicità e l’universalità salvifica di Gesù Cristo e della Chiesa – Dominus Iesus, 6 agosto 2000
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE

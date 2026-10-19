@@ -1,9 +1,5 @@
 # Il Figlio incarnato e il significato dell’unità divina, di Gilles Emery
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Nel documento della Commissione teologica internazionale su monoteismo e violenza
 
 **Il Figlio incarnato e il significato dell’unità divina\***
@@ -25,5 +21,3 @@ La fede cattolica sottolinea poi che Dio invita le creature a collaborare con lu
 ------------------------------------------------------------------------
 
 *\*L'Osservatore Romano*, ed. quotidiana, Anno CLIV, n.023, Giov. 30/01/2014
-
-[](#top)

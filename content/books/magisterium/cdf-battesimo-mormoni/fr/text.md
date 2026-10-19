@@ -1,9 +1,5 @@
 # Réponse quant à la validité du baptême conféré par les mormons, 5 juin 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***RÉPONSE AU DOUTE QUANT À LA VALIDITÉ DU BAPT******ÊME CONFÉRÉ PAR « L'ÉGLISE DE JÉSUS-CHRIST DES SAINTS DU DERNIER JOUR », DITE  « MORMONS »***
@@ -20,5 +16,3 @@ Au Siège de la Congrégation pour la Doctrine de la Foi , le 5 juin 2001.
 *Préfet*
 
 **+ Tarcisio Bertone, S.D.B.** *Archevêque émérite de Verceil Secrétaire*
-
-[](#top)

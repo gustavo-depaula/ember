@@ -1,9 +1,5 @@
 # Ergänzende Normen zur Apostolischen Konstitution »Anglicanorum coetibus«
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Ergänzende Normen zur Apostolischen Konstitution *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_ge.html)***
@@ -152,7 +148,5 @@ Der Heilige Vater Papst Benedikt XVI. hat in der dem unterzeichneten Kardinalpr�
 **Luis. F. Ladaria, S.J.** *Titularerzbischof von Thibica Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Dieser Paragraph wurde dem Text der ergänzenden Normen hinzugefügt aufgrund einer Entscheidung der Ordentlichen Versammlung vom 29. Mai 2013, die von Papst Franziskus am 31. Mai 2013 approbiert worden ist.

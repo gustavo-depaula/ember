@@ -1,20 +1,10 @@
 # Carta sobre algunas cuestiones referentes a la escatología
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***CARTA SOBRE ALGUNAS CUESTIONES REFERENTES A LA ESCATOLOGÍA***
-
-*** ***
 
 Los recientes Sínodos de los Obispos, dedicados respectivamente a la Evangelización y a la Catequesis, han conseguido crear una conciencia más viva de la necesidad de una perfecta fidelidad a las verdades fundamentales de la fe, de manera especial hoy, cuando los profundos cambios de la comunidad humana y el deseo de insertar la fe en los diversos ambientes culturales de los pueblos, imponen un esfuerzo mayor que antaño, para hacer la fe accesible y comunicable. Esta última exigencia, tan urgente actualmente, requiere la máxima atención para asegurar la autenticidad y la integridad de la fe.
 

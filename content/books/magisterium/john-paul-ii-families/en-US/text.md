@@ -445,5 +445,3 @@ With these sentiments I bless every family in the name of the Most Holy Trinity:
 *Given in Rome, at Saint Peter's, on 2 February, the Feast of the Presentation of the Lord, in the year 1994, the sixteenth of my Pontificate.*
 
 **JOHN PAUL II**
-
-*  *

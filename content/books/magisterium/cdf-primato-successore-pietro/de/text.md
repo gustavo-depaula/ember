@@ -1,9 +1,5 @@
 # Der Primat des Nachfolgers Petri im Geheimnis der Kirche
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Kongregation für die Glaubenslehre**
 
 **Der Primat des Nachfolgers Petri im Geheimnis der Kirche**
@@ -179,5 +175,3 @@ Wann und wie wird das so sehr ersehnte Ziel der Einheit aller Christen erreicht 
 ⁵⁰ Johannes Paul II., Enzyklika *[Ut unum sint](/edocs/DEU0079/_INDEX.HTM)*, 102.
 
 \[*L'Osservatore Romano*, Wochenausgabe in deutscher Sprache, 11. Dezember 1998; Orig. ital. in *L’Osservatore Romano* 31.10.98\].
-
-[](#top)

@@ -1,9 +1,5 @@
 # INTRODUCING ÂÂ“REDEMPTIONIS SACRAMENTUMÂÂ”
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR DIVINE WORSHIP  
 AND THE DISCIPLINE OF THE SACRAMENT
 
@@ -68,5 +64,3 @@ The *Instruction* therefore concludes that the Congregation for Divine Worship a
 **Francis Card. Arinze**
 
 23^(rd) April 2004
-
-[](#top)

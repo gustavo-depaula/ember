@@ -1,14 +1,8 @@
 # Ad Officium lectionis
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1))
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
 **SANCTI** **IOANNIS PAULI II, PAPAE**
-
-** **
 
 Carolus Iosephus Wojtyła anno 1920 in civitate *Wadowice* in Polonia natus est. Presbyteratu auctus, studiis theologiae in Urbe completis, in patriam reditus variis pastoralibus academicisque muneribus functus est. Iam Episcopus auxiliaris Cracoviensis, anno 1964 Archiepiscopus nominatus est et Sacrosancto Concilio Oecumenico Vaticano II interfuit. Summus Pontifex die 16 octobris 1978, Ioannis Pauli II sumpto nomine, electus, summa apostolica praesertim familiarum iuvenumque et aegrotantium sollicitudine emicuit, quae eum ad innumeras populi Dei ubique per orbem terrarum Visitationes duxit cuiusque fructus, inter multos alios, eximius Ecclesiae hereditate relictus ditissimum eius Magisterium et promulgationes Catechismi Catholicae Ecclesiae atque Codicum Iuris Canonici sive Ecclesiae Latinae sive Ecclesiarum Orientalium. In Urbe die 2 aprilis 2005, in vigilia dominicae II Paschatis seu de divina misericordia, pie in Domino quievit.
 
@@ -53,5 +47,3 @@ V/. Vocámur in Ecclésia, ut eius participémus potestátem. \* Aperíte.
 **Oratio**
 
 Deus, dives in misericórdia, qui beatum Ioánnem Paulum, papam, univérsae Ecclésiae tuae praeésse voluísti, praesta, quaésumus, ut, eius institútis edócti, corda nostra salutíferae grátiae Christi, uníus redemptóris hóminis, fidénter aperiámus. Qui tecum.
-
-[](#top)

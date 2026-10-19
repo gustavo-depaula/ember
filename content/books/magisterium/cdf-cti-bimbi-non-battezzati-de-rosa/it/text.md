@@ -1,13 +1,5 @@
 # C'è una speranza di salvezza per i bambini morti senza Battesimo - Giuseppe De Rosa S.I.
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **C’È UNA SPERANZA DI SALVEZZA PER I BAMBINI MORTI SENZA IL BATTESIMO**  

@@ -4,10 +4,6 @@
 
 Letter to the Bishops of the Catholic Church on the Pastoral Care of Homosexual Persons
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***LETTER TO THE BISHOPS OF THE CATHOLIC CHURCH ON THE PASTORAL CARE OF HOMOSEXUAL PERSONS***
@@ -123,5 +119,3 @@ In assessing proposed legislation, the Bishops should keep as their uppermost co
 
 **ALBERTO BOVONE**  
 *Titular Archbishop of Caesarea in Numidia Secretary*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Discours du Cardinal Ratzinger à l'occasion du centenaire de la mort du Cardinal John H. Newman
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***DISCOURS DE SON ÉMINENCE LE CARDINAL JOSEPH RATZINGER À L'OCCASION DU CENTENAIRE DE LA MORT DU CARDINAL JOHN HENRY NEWMAN***
 
 *Rome Samedi 28 avril 1990*
@@ -39,8 +35,6 @@ L’expérience d’Augustin était différente: il apprendra qu’être chréti
 Newman, dans son idée d’évolution, a présenté sa propre expérience de conversion, jamais achevée; il nous a offert ainsi l’interprétation non seulement de la doctrine chrétienne, mais aussi de la vie chrétienne. Je crois que le signe caractéristique d’un grand maître dans l’Eglise est qu’il enseigne non pas seulement par ses idées et ses paroles mais aussi par sa vie car en lui pensée et vie se compénètrent et se déterminent mutuellement. Si cela est vrai, Newman appartient en vérité au nombre des grands maîtres de l’Eglise car il touche notre cœur et illumine notre intelligence.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: \[\] Affirmation de Hermann Goering, citée dans Th. Schieder, *Hermann Rauschning «Gespräche mit Hitler» als Geschichtsquelle*, Opladen 1972, p. 19, note 25.
 

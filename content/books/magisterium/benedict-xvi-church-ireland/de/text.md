@@ -4,10 +4,6 @@ HIRTENBRIEF
 DES HEILIGEN VATERS  
 **BENEDIKT XVI.** AN DIE KATHOLIKEN IN IRLAND
 
-*** ***
-
-*** * ** ** **
-
 1. Liebe Brüder und Schwestern der Kirche in Irland, mit großer Sorge schreibe ich Euch als Hirt der universalen Kirche. Ebenso wie Euch hat auch mich die ans Licht gekommene Information über den Mißbrauch an Kindern und Schutzbefohlenen durch Vertreter der Kirche Irlands, besonders durch Priester und Ordensleute, sehr getroffen. Ich kann nur die Bestürzung und das Gefühl des Vertrauensbruchs teilen, die so viele von Euch verspürten, als sie von diesen sündhaften und kriminellen Taten erfahren haben und davon, wie die kirchlichen Autoritäten in Irland damit umgegangen sind.
 
 Wie Ihr wißt, habe ich kürzlich die irischen Bischöfe zu einem Treffen hier nach Rom eingeladen. Sie sollten über ihren Umgang mit diesen Fällen in der Vergangenheit berichten und die Schritte aufzeigen, die sie unternommen haben, um auf diese ernste Situation zu reagieren. Zusammen mit hochrangigen Vertretern der Römischen Kurie habe ich dem Gehör geschenkt, was sie sowohl einzeln als auch als Gruppe zu sagen hatten, als sie eine Analyse der begangenen Fehler und der sich daraus ergebenen Konsequenzen sowie eine Beschreibung der Programme und jetzt geltenden Richtlinien darboten. Unsere Beratungen waren offen und konstruktiv. Ich bin zuversichtlich, daß die Bischöfe auf der Grundlage dieser Gespräche nun besser in der Lage sind, sich der Aufgabe zu widmen, das in der Vergangenheit begangene Unrecht wieder gutzumachen und die mit dem Mißbrauch an Minderjährigen zusammenhängenden umfangreicheren Themen in einer Weise anzugehen, die den Anforderungen der Gerechtigkeit und der Lehre des Evangeliums entspricht.

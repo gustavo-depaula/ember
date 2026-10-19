@@ -1,9 +1,5 @@
 # Lettre aux Évêques de l'Église Catholique sur la collaboration de l'homme et de la femme dans l'Église et dans le monde
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **LETTRE AUX ÉVÊQUES DE L'ÉGLISE CATHOLIQUE SUR LA COLLABORATION DE L'HOMME ET DE LA FEMME DANS L'ÉGLISE ET DANS LE MONDE**
 
 **INTRODUCTION**
@@ -186,5 +182,3 @@ Archevêque titulaire de Sila *Secrétaire*
 ²¹Encycl. *Laborem exercens* (14 septembre 1981), n.19: *AAS* 73 (1981), p.627*; La Documentation catholique* 78 (1981), p.849.
 
 ²²Cf. Jean-Paul II, Lettre apost. *Ordinatio sacerdotalis* (22 mai 1994): *AAS* 86 (1994), pp.545-548; *La Documentation catholique* 92 (1995), pp.1079-1081; Congrégation pour la Doctrine de la Foi, Réponse à un doute sur la doctrine de la lettre apostolique *Ordinatio sacerdotalis* (28 octobre 1995): *AAS* 87 (1995), p.1114; *La Documentation catholique* 92 (1995), p.1079.
-
-[](#top)

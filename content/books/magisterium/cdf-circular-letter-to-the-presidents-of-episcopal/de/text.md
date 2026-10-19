@@ -1,13 +1,5 @@
 # Rundschreiben an die Präsidenten der Bischofskonferenzen zu einigen Erklärungen und Irrtümner bezüglich der Interpretation der Beschlüsse des Zweiten Vatikanischen Konzils, 24. Juli 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HEILIGE KONGREGATION FÜR DIE GLAUBENSLEHRE

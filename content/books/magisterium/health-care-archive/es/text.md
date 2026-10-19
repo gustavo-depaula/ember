@@ -1,15 +1,11 @@
 # Archivio - Pontificio Consejo para la Pastoral de los Agentes Sanitarios
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Pontificio Consejo para la Pastoral de los Agentes Sanitarios**
 
 ***ARCHIVIO***
 
 > **[Dolentium Hominum - Iglesia y Salud en el Mundo](rc_pc_hlthwork_doc_09061997_magazine_it.html)**
->
+
 > - [**"La atención al enfermo en los Padres de la Iglesia" - P. Carlo Cremona**](rc_pc_hlthwork_doc_05101997_cremona_sp.html)  
 >   \[[Español](rc_pc_hlthwork_doc_05101997_cremona_sp.html), [Francés](rc_pc_hlthwork_doc_05101997_cremona_fr.html), [Inglés](rc_pc_hlthwork_doc_05101997_cremona_en.html), [Italiano](rc_pc_hlthwork_doc_05101997_cremona_it.html)\]
 > - [**"Hipócrates, en los documentos eclesiásticos y en las obras teológicas" - Gottfried Roth**](rc_pc_hlthwork_doc_05101997_roth_sp.html)  
@@ -26,5 +22,3 @@
 >   \[[Español](rc_pc_hlthwork_doc_30061997_poupard_sp.html), [Francés](rc_pc_hlthwork_doc_30061997_poupard_fr.html), [Inglés](rc_pc_hlthwork_doc_30061997_poupard_en.html), [Italiano](rc_pc_hlthwork_doc_30061997_poupard_it.html)\]
 > - [**Curar las heridas: los "Rachel Groups", Card.John O'Connor**](rc_pc_hlthwork_doc_23071997_oconnor_sp.html)  
 >   \[[Español](rc_pc_hlthwork_doc_23071997_oconnor_sp.html), [Francés](rc_pc_hlthwork_doc_23071997_oconnor_fr.html), [Inglés](rc_pc_hlthwork_doc_23071997_oconnor_en.html), [Italiano](rc_pc_hlthwork_doc_23071997_oconnor_it.html)\]
-
-[](#top)

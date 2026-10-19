@@ -1,9 +1,5 @@
 # Lettera ai Vescovi della Chiesa Cattolica sulla collaborazione dellÂÂÂ’uomo e della donna nella Chiesa e nel mondo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **LETTERA AI VESCOVI DELLA CHIESA CATTOLICA SULLA COLLABORAZIONE DELL'UOMO E DELLA DONNA NELLA CHIESA E NEL MONDO**
 
 **INTRODUZIONE**
@@ -183,6 +179,4 @@ Arcivescovo titolare di Sila *Segretario*
 
 ²¹Lett. enc. *[Laborem exercens](http://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html)* (14 settembre 1981), 19: *AAS* 73 (1981), 627.
 
-²²Cfr Giovanni Paolo II, Lett. ap. *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_it.html)* (22 maggio 1994): *AAS* 86 (1994), 545-548; Congregazione per la Dottrina della Fede, Risposta al dubbio circa la dottrina della Lettera apostolica *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_it.html)* (28 ottobre 1995): *AAS* 87 (1995), 1114. 
-
-[](#top)
+²²Cfr Giovanni Paolo II, Lett. ap. *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_it.html)* (22 maggio 1994): *AAS* 86 (1994), 545-548; Congregazione per la Dottrina della Fede, Risposta al dubbio circa la dottrina della Lettera apostolica *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_it.html)* (28 ottobre 1995): *AAS* 87 (1995), 1114.

@@ -1,15 +1,5 @@
 # Décret d’application des dispositions du can. 838 du Code de Droit Canonique
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
@@ -343,8 +333,6 @@ Si quæ vero rubricas vel textus adicere opportunum videatur, congruo signo vel 
 
             …
 
-* *
-
 *IN ORDINEM BAPTISMI PARVULORUM*
 
 DE INITIATIONE CHRISTIANA
@@ -396,8 +384,6 @@ PRÆNOTANDA
 3\) Versiones textuum parare, ita ut indoli variorum sermonum atque ingenio diversarum culturarum vere accommodentur, necnon eas approbare, actis ab Apostolica Sede confirmatis. Possunt præterea addere, quoties opportunum fuerit, melodias cantui aptas.
 
 4\) In editionibus parandis, materiam ordinare modo qui ad usum pastoralem aptior videatur.
-
-* *
 
 *IN ORDINEM UNCTIONIS INFIRMORUM EORUMQUE PASTORALIS CURÆ*
 

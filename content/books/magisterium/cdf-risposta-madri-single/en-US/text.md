@@ -1,15 +1,5 @@
 # Letter to His Excellency, the Most Reverend Ramón Alfredo de la Cruz Baldera, Bishop of the Diocese of San Francisco de Macorís (Dominican Republic) Regarding Access to Eucharistic Communion for Single Mothers
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**

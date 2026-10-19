@@ -1,9 +1,5 @@
 # Sensus fidei in the life of the Church
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONAL THEOLOGICAL COMMISSION
 
 ***SENSUS FIDEI* IN THE LIFE OF THE CHURCH**[\*](#*)  
@@ -16,13 +12,13 @@ INTERNATIONAL THEOLOGICAL COMMISSION
 **[Chapter One: The *sensus fidei* in Scripture and Tradition](#Chapter_1:_The_sensus_fidei_in_Scripture_and_Tradition)**
 
 > **[1. Biblical teaching](#1._Biblical_teaching)**
->
+
 > > a\) Faith as response to the Word of God  
 > > b) The personal and ecclesial dimensions of faith  
 > > c) The capacity of believers to know and witness to the truth
->
+
 > **[2. The development of the idea, and its place in the history of the Church](#2._The_development_of_the_idea,_and_its_place_in_the_history_of_the_Church)**
->
+
 > > a\) Patristic period  
 > > b) Medieval period  
 > > c) Reformation and post-Reformation period  
@@ -32,39 +28,39 @@ INTERNATIONAL THEOLOGICAL COMMISSION
 **[Chapter Two: The *sensus fidei fidelis* in the personal life of the believer](#Chapter_2:_The_sensus_fidei_fidelis_in_the_personal_life_of_the_believer)**
 
 > **[1. The *sensus fidei* as an instinct of faith](#1._The_sensus_fidei_as_an_instinct_of_faith)**
->
+
 > **[2. Manifestations of the *sensus fidei* in the personal life of believers](#2._Manifestations_of_the_sensus_fidei_in_the_personal_life_of_believers)**
 
 **[Chapter Three: The *sensus fidei fidelium* in the life of the Church](#Chapter_3:_The_sensus_fidei_fidelium_in_the_life_of_the_Church)**
 
 > **[1. The *sensus fidei* and the development of Christian doctrine and practice](#1._The_sensus_fidei_and_the_development_of_Christian_doctrine_and_practice)**
->
+
 > > a\) Retrospective and prospective aspects of the *sensus fidei* b) The contribution of the laity to the *sensus fidelium*
->
+
 > **[2. The *sensus fidei* and the magisterium](#2._The_sensus_fidei_and_the_magisterium)**
->
+
 > > a\) The magisterium listens to the *sensus fidelium* b) The magisterium nurtures, discerns and judges the *sensus fidelium*  
 > > c) Reception
->
+
 > **[3. The *sensus fidei* and theology](#3._The_sensus_fidei_and_theology)**
->
+
 > > a\) Theologians depend on the *sensus fidelium* b) Theologians reflect on the *sensus fidelium*
->
+
 > **[4. Ecumenical aspects of the *sensus fidei*](#4._Ecumenical_aspects_of_the_sensus_fidei)**
 
 **[Chapter Four: How to discern authentic manifestations of the *sensus fidei*](#Chapter_4:_How_to_discern_authentic_manifestations_of_the_sensus_fidei)**
 
 > **[1. Dispositions needed for authentic participation in the *sensus fidei*](#1._Dispositions_needed_for_authentic_participation_in_the_sensus_fidei)**
->
+
 > > a\) Participation in the life of the Church  
 > > b) Listening to the word of God  
 > > c) Openness to reason  
 > > d) Adherence to the magisterium  
 > > e) Holiness – humility, freedom and joy  
 > > f) Seeking the edification of the Church
->
+
 > **[2. Applications](#2._Applications_)**
->
+
 > > a\) The *sensus fidei* and popular religiosity  
 > > b) The *sensus fidei* and public opinion  
 > > c) Ways of consulting the faithful
@@ -114,15 +110,15 @@ b\) The personal and ecclesial dimensions of faith
 12\. In its personal and ecclesial dimensions, faith has the following essential aspects:
 
 > i\) Faith requires repentance. In the proclamation of the prophets of Israel and of John the Baptist (cf. Mk 1:4), as well as in the preaching of the Good News by Jesus himself (Mk 1:14f.) and in the mission of the Apostles (Acts 2:38-42; 1Thess 1:9f.), repentance means the confession of one’s sins and the beginning of a new life lived within the community of the covenant of God (cf. Rom 12:1f.).
->
+
 > ii\) Faith is both expressed in and nourished by prayer and worship (*leiturgia*). Prayer can take various forms - begging, imploring, praising, thanksgiving - and the confession of faith is a special form of prayer. Liturgical prayer, and pre-eminently the celebration of the Eucharist, has from the very beginning been essential to the life of the Christian community (cf. Acts 2:42). Prayer takes place both in public (cf. 1Cor 14) and in private (cf. Mt 6:5). For Jesus, the Our Father (Mt 6:9-13; Lk 11:1-4) expresses the essence of faith. It is a ‘summary of the whole Gospel’.[^7] Significantly, its language is that of ‘we’, ‘us’ and ‘our’.
->
+
 > iii\) Faith brings knowledge. The one who believes is able to recognise the truth of God (cf. Phil 3:10f.). Such knowledge springs from reflection on the experience of God, based on revelation and shared in the community of believers. This is the witness of both Old and New Testament Wisdom theology (Ps 111:10; cf. Prov 1:7; 9:10; Mt 11:27; Lk 10:22).
->
+
 > iv\) Faith leads to confession (*marturia*). Inspired by the Holy Spirit, believers know the one in whom they have placed their trust (cf. 2Tim 1:12), and are able to give an account of the hope that is in them (cf. 1Pet 3:15), thanks to the prophetic and apostolic proclamation of the Gospel (cf. Rom 10:9f.). They do that in their own name; but they do it from within the communion of believers.
->
+
 > v\) Faith involves confidence. To trust in God means to base one’s whole life on the promise of God. In Heb 11, many Old Testament believers are mentioned as members of a great procession through time and space to God in heaven, guided by Jesus the ‘the pioneer and perfecter of our faith’ (Heb 12:3). Christians are part of this procession, sharing the same hope and conviction (Heb 11:1), and already ‘surrounded by so great a cloud of witnesses’ (Heb 12:1).
->
+
 > vi\) Faith entails responsibility, and especially charity and service (*diakonia*). The disciples will be known ‘by their fruits’ (Mt 7:20). The fruits belong essentially to faith, because faith, which comes from listening to the word of God, requires obedience to his will. The faith which justifies (Gal 2:16) is ‘faith working through love’ (Gal 5:6; cf. Jas 2:21-24). Love for one’s brother and sister is in fact the criterion for love of God (1Jn 4:20).
 
 c\) The capacity of believers to know and witness to the truth
@@ -276,9 +272,9 @@ b\) The contribution of the laity to the *sensus fidelium*
 73\. What is less well known, and generally receives less attention, is the role played by the laity with regard to the development of the moral teaching of the Church. It is therefore important to reflect also on the function played by the laity in discerning the Christian understanding of appropriate human behaviour in accordance with the Gospel. In certain areas, the teaching of the Church has developed as a result of lay people discovering the imperatives arising from new situations. The reflection of theologians, and then the judgment of the episcopal magisterium, was based on the Christian experience already clarified by the faithful intuition of lay people. Some examples might illustrate the role of the *sensus fidelium* in the development of moral doctrine:
 
 > i\) Between canon 20 of the Council of Elvira (c. 306 AD), which forbade clerics and lay people to receive interest, and the response, *Non esse inquietandos*, of Pope Pius VIII to the bishop of Rennes (1830),[^87] there is a clear development of teaching, due to both the emergence of a new awareness among lay people involved in business as well as new reflection on the part of theologians with regard to the nature of money.
->
+
 > ii\) The openness of the Church towards social problems, especially manifest in Pope Leo XIII’s Encyclical Letter, *Rerum Novarum* (1896), was the fruit of a slow preparation in which lay ‘social pioneers’, activists as well as thinkers, played a major role.
->
+
 > iii\) The striking albeit homogeneous development from the condemnation of ‘liberal’ theses in part 10 of the Syllabus of Errors (1864) of Pope Pius IX to the declaration on religious liberty, *Dignitatis Humanae* (1965), of Vatican II would not have been possible without the commitment of many Christians in the struggle for human rights.
 
 The difficulty of discerning the authentic *sensus fidelium* in cases such as those above particularly indicates the need to identify dispositions required for authentic participation in the *sensus fidei*, dispositions which may serve, in turn, as criteria for discerning the authentic *sensus fidei*.[^88]
@@ -314,9 +310,9 @@ a\) Theologians depend on the *sensus fidelium*
 82\. By placing itself in the school of the *sensus fidelium*, theology steeps itself in the reality of the apostolic Tradition which underlies and overflows the strict bounds of the statements in which the teaching of the Church is formulated, because it comprises ‘all that she herself is, all that she believes’.[^101] In this regard, three particular considerations arise:
 
 > i\) Theology should strive to detect the word which is growing like a seed in the earth of the lives of the people of God, and, having determined that a particular accent, desire or attitude does indeed come from the Spirit, and so corresponds to the *sensus fidelium*, it should integrate it into its research.
->
+
 > ii\) By means of the *sensus fidelium*, the people of God intuitively senses what in a multitude of ideas and doctrines presented to it actually corresponds to the Gospel, and can therefore be received. Theology should apply itself carefully to investigating the various levels of reception that occur in the life of the people of God.
->
+
 > iii\) The *sensus fidelium* both gives rise to and recognises the authenticity of the symbolic or mystical language often found in the liturgy and in popular religiosity. Aware of the manifestations of popular religiosity,[^102] the theologian needs actually to participate in the life and liturgy of the local church, so as to be able to grasp in a deep way, not only with the head but also with the heart, the real context, historical and cultural, within which the Church and her members are striving to live their faith and bear witness to Christ in the world of today.
 
 b\) Theologians reflect on the *sensus fidelium*
@@ -332,7 +328,7 @@ b\) Theologians reflect on the *sensus fidelium*
 86\. Two particular questions related to the *sensus fidelium* arise in the context of the ecumenical dialogue to which the Catholic Church is irrevocably committed:[^107]
 
 > i\) Should only those doctrines which gain the common consent of all Christians be regarded as expressing the *sensus fidelium* and therefore as true and binding? This proposal goes counter to the Catholic Church’s faith and practice. By means of dialogue, Catholic theologians and those of other traditions seek to secure agreement on Church-dividing questions, but the Catholic participants cannot suspend their commitment to the Catholic Church’s own established doctrines.
->
+
 > ii\) Should separated Christians be understood as participating in and contributing to the *sensus fidelium* in some manner? The answer here is undoubtedly in the affirmative.[^108] The Catholic Church acknowledges that ‘many elements of sanctification and truth’ are to be found outside her own visible bounds,[^109] that ‘certain features of the Christian mystery have at times been more effectively emphasised’ in other communities,[^110] and that ecumenical dialogue helps her to deepen and clarify her own understanding of the Gospel.
 
 **Chapter 4: How to discern authentic manifestations of the *sensus fidei***
@@ -422,7 +418,7 @@ b\) The *sensus fidei* and public opinion
 118\. It is clear that there can be no simple identification between the *sensus fidei* and public or majority opinion. These are by no means the same thing.
 
 > i\) First of all, the *sensus fidei* is obviously related to faith, and faith is a gift not necessarily possessed by all people, so the *sensus fidei* can certainly not be likened to public opinion in society at large. Then also, while Christian faith is, of course, the primary factor uniting members of the Church, many different influences combine to shape the views of Christians living in the modern world. As the above discussion of dispositions implicitly shows, the *sensus fidei* cannot simply be identified, therefore, with public or majority opinion in the Church, either. Faith, not opinion, is the necessary focus of attention. Opinion is often just an expression, frequently changeable and transient, of the mood or desires of a certain group or culture, whereas faith is the echo of the one Gospel which is valid for all places and times.
->
+
 > ii\) In the history of the people of God, it has often been not the majority but rather a minority which has truly lived and witnessed to the faith. The Old Testament knew the ‘holy remnant’ of believers, sometimes very few in number, over against the kings and priests and most of the Israelites. Christianity itself started as a small minority, blamed and persecuted by public authorities. In the history of the Church, evangelical movements such as the Franciscans and Dominicans, or later the Jesuits, started as small groups treated with suspicion by various bishops and theologians. In many countries today, Christians are under strong pressure from other religions or secular ideologies to neglect the truth of faith and weaken the boundaries of ecclesial community. It is therefore particularly important to discern and listen to the voices of the ‘little ones who believe’ (Mk 9:42).
 
 119\. It is undoubtedly necessary to distinguish between the *sensus fidei* and public or majority opinion, hence the need to identify dispositions necessary for participation in the *sensus fidei*, such as those elaborated above. Nevertheless, it is the whole people of God which, in its inner unity, confesses and lives the true faith. The magisterium and theology must work constantly to renew the presentation of the faith in different situations, confronting if necessary dominant notions of Christian truth with the actual truth of the Gospel, but it must be recalled that the experience of the Church shows that sometimes the truth of the faith has been conserved not by the efforts of theologians or the teaching of the majority of bishops but in the hearts of believers.
@@ -450,8 +446,6 @@ c\) Ways of consulting the faithful
 128\. The *sensus fidei* is closely related to the *‘infallibilitas in credendo’* that the Church as a whole has as a believing ‘subject’ making its pilgrim way in history.[^147] Sustained by the Holy Spirit, it enables the witness that the Church gives and the discernment that the members of the Church must constantly make, both as individuals and as a community, of how best to live and act and speak in fidelity to the Lord. It is the instinct by which each and all ‘think with the Church’,[^148] sharing one faith and one purpose. It is what unites pastors and people, and makes dialogue between them, based on their respective gifts and callings, both essential and fruitful for the Church.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Pope Francis, Angelus address, 17 March, 2013.
 

@@ -1,15 +1,5 @@
 # New revision of number 2267 of the Catechism of the Catholic Church on the death penalty – Rescriptum “ex Audientia SS.mi”
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **NEW REVISION OF NUMBER 2267 OF THE *CATECHISM OF THE CATHOLIC CHURCH* ON THE DEATH PENALTY – RESCRIPTUM “EX AUDIENTIA SS.MI”**

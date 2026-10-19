@@ -1,9 +1,5 @@
 # Decreto per la menzione del nome divino di San Giuseppe nelle Preghiere Eucaristiche II, III, IV del Messale Romano, 1° maggio 2013
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI
 
@@ -102,5 +98,3 @@ II Modlitwa eucharystyczna: «*z Najświętszą Bogurodzicą Dziewicą Maryją, 
 III Modlitwa eucharystyczna: «*z Najświętszą Dziewicą, Bogurodzicą Maryją, **ze świętym Józefem, Jej Oblubieńcem**, ze świętymi Apostołami...*»;
 
 IV Modlitwa eucharystyczna: «*z Najświętszą Dziewicą, Bogurodzicą Maryją, **ze świętym Józefem, Jej Oblubieńcem**, z Apostołami...*».
-
-[](#top)

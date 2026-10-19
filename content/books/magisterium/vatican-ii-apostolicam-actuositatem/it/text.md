@@ -1,15 +1,5 @@
 # Apostolicam actuositatem
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAOLO VESCOVO  
@@ -257,11 +247,11 @@ Salvo il dovuto legame con l'autorità ecclesiastica (31) i laici hanno il dirit
 Queste forme di apostolato, si chiamino esse Azione cattolica o con altro nome, esercitano oggi un apostolato prezioso. Esse sono costituite dal concorso delle seguenti note caratteristiche prese tutte insieme:
 
 > a\) Fine immediato di tali organizzazioni è il fine apostolico della Chiesa, cioè l'evangelizzazione e la santificazione degli uomini e la formazione cristiana della loro coscienza, in modo che riescano ad impregnare dello spirito evangelico le varie comunità e i vari ambienti.
->
+
 > b\) I laici, collaborando con la gerarchia secondo il modo loro proprio, portano la loro esperienza e assumono la loro responsabilità nel dirigere tali organizzazioni, nel ponderare le circostanze in cui si deve esercitare l'azione pastorale della Chiesa e nella elaborazione ed esecuzione del loro programma di azione.
->
+
 > c\) I laici agiscono uniti a guisa di corpo organico, affinché sia meglio espressa la comunità della Chiesa e l'apostolato riesca più efficace.
->
+
 > d\) Questi laici, sia che si offrano spontaneamente, o siano invitati all'azione e alla cooperazione diretta con l'apostolato gerarchico, agiscono sotto la superiore direzione della gerarchia medesima, la quale può sancire tale cooperazione anche per mezzo di un « mandato » esplicito.
 
 Le organizzazioni in cui, a giudizio della gerarchia, si trovano tutte insieme queste note, si devono ritenere Azione cattolica, anche se, per esigenze di luoghi e di popoli, prendono varie forme e nomi. Il sacro Concilio raccomanda vivamente queste istituzioni, che certamente in molti paesi rispondono alle necessità dell'apostolato della Chiesa; invita i sacerdoti e i laici che lavorano in esse a tradurre sempre più in atto le note sopra ricordate e a cooperare sempre fraternamente nella Chiesa con tutte le altre forme di apostolato.
@@ -365,9 +355,9 @@ Anzi ognuno deve fattivamente prepararsi all'apostolato, cosa che urge maggiorme
 31\. Le varie forme di apostolato richiedono pure una formazione particolare adeguata.
 
 > a\) Quanto all'apostolato per l'evangelizzazione e la santificazione degli uomini, i laici debbono essere particolarmente formati a stabilire il dialogo con gli altri, credenti o non credenti, per annunziare a tutti il messaggio di Cristo (49). E poiché nel tempo nostro il materialismo di vario tipo sta diffondendosi largamente dovunque, anche in mezzo ai cattolici, i laici non soltanto imparino con maggior diligenza la dottrina cattolica, specialmente in quei punti nei quali la dottrina stessa viene messa in questione, ma contro ogni forma di materialismo offrano anche la testimonianza di una vita evangelica.
->
+
 > b\) Quanto alla trasformazione cristiana dell'ordine temporale, i laici siano istruiti sul vero significato e valore dei beni temporali in se stessi e rispetto a tutte le finalità della persona umana; si esercitino nel retto uso delle cose e dell'organizzazione delle istituzioni, avendo sempre di mira il bene comune secondo i principi della dottrina morale e sociale della Chiesa. Assimilino soprattutto i principi della dottrina sociale e le sue applicazioni, affinché si rendano capaci sia di collaborare, per quanto loro spetta, al progresso della dottrina stessa, sia di applicarla correttamente ai singoli casi (50).
->
+
 > c\) Poiché le opere di carità e di misericordia offrono una splendida testimonianza di vita cristiana, la formazione apostolica deve portare pure all'esercizio di esse, affinché i fedeli, fin dalla fanciullezza, imparino a immedesimarsi nelle sofferenze dei fratelli e a soccorrerli generosamente quando versano in necessità (51).
 
 ***I sussidi***

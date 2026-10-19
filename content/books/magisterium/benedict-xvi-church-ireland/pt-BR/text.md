@@ -2,10 +2,6 @@
 
 **Carta Pastoral do Santo Padre Bento XVI aos Católicos na Irlanda**
 
-*** ***
-
-*** * ** ** **
-
 *Tradução não oficial*
 
 1\. Amados Irmãos e Irmãs da Igreja na Irlanda, é com grande preocupação que vos escrevo como Pastor da Igreja universal. Como vós, fiquei profundamente perturbado com as notícias dadas sobre o abuso de crianças e jovens vulneráveis da parte de membros da Igreja na Irlanda, sobretudo de sacerdotes e religiosos. Não posso deixar de partilhar o pavor e a sensação de traição que muitos de vós experimentastes ao tomar conhecimento destes actos pecaminosos e criminais e do modo como as autoridades da Igreja na Irlanda os enfrentaram.

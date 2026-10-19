@@ -46,11 +46,11 @@ Omnibus igitur mature perpensis, peritorum voto exquisito atque Conferentiis Epi
 **I.**
 
 > *a)* Ritus inducitur admissionis inter candidatos ad Diaconatum et Presbyteratum. Ad quam admissionem rite habendam requiritur libera adspirantis petitio, propria manu exarata ac subscripta, necnon competentis Superioris ecclesiastici acceptio scripto data, vi cuius Ecclesiae electio efficitur.
->
+
 > Professi in religionibus clericalibus, ad Presbyteratum contendentes, hoc ritu non tenentur.
->
+
 > *b)* Superior competens pro hac acceptione est Ordinarius (Episcopus et, in clericalibus institutes perfections, Superior Maior). Acceptari possunt ii, qui signa verge vocationis praebeant, atque, bonis moribus ornati et, a mentis corporisque defectibus immunes, vitam suam Ecclesiae servitio dicare velint ad Dei gloriam animarumque bonum. Oportet, ut, qui ad Diaconatum transeuntem adspirant, vigesimum saltem aetatis annum expleverint et studiorum theologicorum curriculum coeperint.
->
+
 > *c)* Vi acceptionis candidatos vocationem suam peculiari modo curare altiusque excolere debet; atque ius acquirit ad necessaria subsidia spiritualia, quibus vocationem suam colere atque Dei vοluntati, nulla condicione apposita, obtemperare possit.
 
 **II.**
@@ -80,7 +80,7 @@ Diaconi quoque uxorati, amissa uxore, ex tradita Ecclesiae disciplina ad novum m
 **VII.**
 
 > *a)* Diaconi ad Presbyteratum vocati ne ordinentur nasi prius expleverint studiorum curriculum, Apostolicae Sedai praescriptionibus definitum.
->
+
 > *b)* Quod spectat ad theologicorum studiorum cursum, ordinationi Diaconarum permanentium praeponendum, Episcoporum Conferentiae, attentis locorum adiunctis, congruas normas tradant easque Sacrae Congregationi pro Institutione Catholica apprοbationi subiciant.
 
 **VIII.**
@@ -88,7 +88,7 @@ Diaconi quoque uxorati, amissa uxore, ex tradita Ecclesiae disciplina ad novum m
 Ad normam, nn. 29-30 Institutions generalis de Liturgia Horarum:
 
 > *a)* Diaconi ad Presbyteratum vocati ex ipsa sacra ordinatione obstringuntur obligatione Liturgiam Horarum celebrandi;
->
+
 > *b)* maxime decet stabiles Diaconos aliquam saltem partem Liturgiae Horarum, ab Episcopali Conferentia definiendam, cotidie recitare.
 
 **IX.**

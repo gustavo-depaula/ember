@@ -15,5 +15,3 @@ Dans l'esprit du grand Jubilé, et faisant écho à l'appel des évêques rassem
 En confiant *Encuentro 2000*  à la protection de Notre-Dame de Guadalupe, Mère et Patronne de l'Amérique, je prie pour qu'à travers son intercession puissante, l'Evangile s'enracine encore plus profondément dans les cœurs des fidèles et contribue au renouveau spirituel de la société américaine. Aux organisateurs et à tous les participants, je donne cordialement ma Bénédication apostolique en signe de joie et de paix dans notre Seigneur Jésus-Christ.* *
 
 *Du Vatican, le 16 juin 2000*
-
-*                                 *

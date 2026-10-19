@@ -42,13 +42,13 @@ A obra do Conselho, que se realiza em colaboração com os demais Dicastérios e
 Entre as tarefas específicas do Conselho salientam-se:
 
 > 1\. aprofundar o significado teológico e pastoral da nova evangelização;
->
+
 > 2\. promover e favorecer, em estreita colaboração com as Conferências Episcopais interessadas, que poderão dispor de um organismo *ad hoc,* o estudo, a difusão e a aplicação do Magistério pontifício relativo às temáticas vinculadas à nova evangelização;
->
+
 > 3\. dar a conhecer e incentivar iniciativas ligadas à nova evangelização já em curso nas várias Igrejas particulares e promover a realização de outras novas, comprometendo também concretamente os recursos presentes nos [Institutos de Vida Consagrada e nas Sociedades de Vida Apostólica](http://www.vatican.va/roman_curia/congregations/ccscrlife/index_po.htm), assim como nas agregações de fiéis e nas novas comunidades;
->
+
 > 4\. estudar e favorecer a utilização das formas de comunicação modernas, como instrumentos para a nova evangelização;
->
+
 > 5\. promover o uso do [Catecismo da Igreja católica](http://www.vatican.va/archive/cathechism_po/index_new/prima-pagina-cic_po.html), como formulação essencial e completa do conteúdo da fé para os homens do nosso tempo.
 
 **Art. 4**

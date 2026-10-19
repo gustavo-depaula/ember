@@ -1,9 +1,5 @@
 # Réponses aux questions sur la validité du baptême, 11 février 2008
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 RÉPONSES AUX QUESTIONS
@@ -31,5 +27,3 @@ Rome, le 1^(er) février 2008, au Siège de la Congrégation pour la Doctrine de
 **William Cardinal Levada** * Préfet*
 
 **+ Angelo Amato, S.D.B.** Archevêque tit. de Sila *Secrétaire*
-
-[](#top)

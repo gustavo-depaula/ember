@@ -1,9 +1,5 @@
 # Ad exsequendam ecclesiasticam legem - d. 18 Maii 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 EPISTULA **** ***AD EXSEQUENDAM ECCLESIASTICAM LEGEM***  
@@ -24,19 +20,19 @@ Graviora delicta tum in sacramentorum celebratione tum contra mores, Congregatio
 – *Delicta contra sanctitatem augustissimi Eucharistiae Sacrificii et sacramenti*, videlicet:
 
 > 1° abductio vel retentio in sacrilegum finem, aut abiectio consecratarum specierum;\[ [^4]\]  
->   
+
 > 2° attentatio liturgicae eucharistici Sacrificii actionis vel eiusdem simulatio \[ [^5]\];  
->   
+
 > 3° vetita eucharistici Sacrificii concelebratio una cum ministris communitatum ecclesialium, qui successionem apostolicam non habent nec agnoscunt ordinationis sacerdotalis sacramentalem dignitatem \[ [^6]\];  
->   
+
 > 4° consecratio in sacrilegum finem alterius materiae sine altera in eucharistica celebratione, aut etiam utriusque extra eucharisticam celebrationem \[ [^7];
 
 – *Delicta contra sanctitatem sacramenti Paenitentiae*, videlicet:
 
 > 1° absolutio complicis in peccato contra sextum Decalogi praeceptum \[ [^8]\];  
->   
+
 > 2° sollicitatio in actu vel occasione vel praetextu confessionis ad peccatum contra sextum Decalogi praeceptum, si ad peccandum cum ipso confessario dirigitur \[ [^9]\];  
->   
+
 > 3° violatio directa sigilli sacramentalis \[ [^10]\];
 
 – *Delictum contra mores*, videlicet: delictum contra sextum Decalogi praeceptum cum minore infra aetatem duodeviginti annorum a clerico commissum.Haec tantum, quae supra indicantur delicta cum sua definitione, Congregationis pro Doctrina Fidei Tribunali Apostolico reservantur.
@@ -64,8 +60,6 @@ Per hanc Epistulam, de mandato Summi Pontificis omnibus Ecclesiae Catholicae Epi
 ------------------------------------------------------------------------
 
 Cf. et Pontificium Consilium De Legum Textibus Interpretandis, [Responsio ad propositum dubium](../../../pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_19990703_utrum-1367_lt.html), 4 Iunii 1999.
-
-[](#top)
 
 [^1]: Ioannes Paulus PP. II, Constitutio Apostolica [*Pastor bonus*, De Romana Curia, 28 Iunii 1988, art. 52](/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-roman-curia_lt.html#CONGREGATIONES), in *AAS* 80 (1988) 874.
 

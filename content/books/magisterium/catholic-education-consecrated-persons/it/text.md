@@ -1,9 +1,5 @@
 # LE PERSONE CONSACRATE E LA LORO MISSIONE NELLA SCUOLA. Riflessioni e Orientamenti
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER L'EDUCAZIONE CATTOLICA
 
 ***LE PERSONE CONSACRATE E LA LORO MISSIONE NELLA SCUOLA***
@@ -13,17 +9,17 @@ CONGREGAZIONE PER L'EDUCAZIONE CATTOLICA
 **INDICE**
 
 > **[INTRODUZIONE](#INTRODUZIONE)**
->
+
 > **[I. PROFILO DELLE PERSONE CONSACRATE](#PROFILO%20DELLE%20PERSONE%20CONSACRATE)**
->
+
 > **[Alla scuola di Cristo maestro](#Alla%20scuola%20di%20Cristo%20maestro) [Risposta radicale](#Risposta%20radicale) [Nella Chiesa comunione](#Nella%20Chiesa%20comunione) [Di fronte al mondo](#Di%20fronte%20al%20mondo)*** *
->
+
 > **[II. LA MISSIONE EDUCATIVA DELLE PERSONE CONSACRATE OGGI](#LA%20MISSIONE%20EDUCATIVA%20DELLE%20PERSONE%20CONSACRATE%20OGGI)**  **[Educatori chiamati ad evangelizzare](#Educatori%20chiamati%20ad%20evangelizzare)**  ***Andate... predicate il Vangelo ad ogni creatura*** (Mc 16,15)
->
+
 > > ***[Di fronte alle sfide attuali](#Di%20fronte%20alle%20sfide%20attuali) [Una esplicita visione antropologica](#Una%20esplicita%20visione%20antropologica)* **
->
+
 > **[Educatori chiamati ad accompagnare verso l’Altro](#Educatori%20chiamati%20ad%20accompagnare%20verso%20lÂÂ’Altro)**  ***Vogliamo vedere Gesù*** (Gv 12,21)
->
+
 > > *[**Il dinamismo della reciprocità**](#Il%20dinamismo%20della%20reciprocità)*
 > >
 > > > **[La dimensione relazionale](#La%20dimensione%20relazionale) [La comunità educativa](#La%20comunità%20educativa)**
@@ -35,9 +31,9 @@ CONGREGAZIONE PER L'EDUCAZIONE CATTOLICA
 > > *[**La vita come vocazione**](#La%20vita%20come%20vocazione)*
 > >
 > > > **[Cultura della vocazione](#Cultura%20della%20vocazione)**
->
+
 > **[Educatori chiamati a formare al vivere insieme](#Educatori%20chiamati%20a%20formare%20al%20vivere%20insieme)** ***....tutti sapranno che siete miei discepoli se avrete amore gli uni per gli altri*** (Gv 13,35)
->
+
 > > *[**A misura della persona umana**](#A%20misura%20della%20persona%20umana)*
 > >
 > > > **[Accompagnamento personalizzato](#Accompagnamento%20personalizzato) [Dignità della donna e sua vocazione](#Dignità%20della%20donna%20e%20sua%20vocazione)**
@@ -53,9 +49,9 @@ CONGREGAZIONE PER L'EDUCAZIONE CATTOLICA
 > > *[**Cultura della pace**](#Cultura%20della%20pace)*
 > >
 > > > **[Educare alla pace partendo dal cuore](#Educare%20alla%20pace%20partendo%20dal%20cuore) [Educare a vivere insieme](#Educare%20a%20vivere%20insieme)**
->
+
 > **[CONCLUSIONE](#CONCLUSIONE%C2%A0)**
->
+
 > **[NOTE](#NOTE)**
 
 ------------------------------------------------------------------------
@@ -113,8 +109,6 @@ Risulta così evidente che le persone consacrate nella scuola, in comunione con 
 *Dono per tutti  *
 
 11\. La scuola dei sentimenti del Figlio apre progressivamente l’esistenza consacrata anche all’urgenza della testimonianza, affinché il *dono ricevuto giunga a tutti*. Cristo, infatti, “non considerò un tesoro geloso la sua uguaglianza con Dio” (*Fil* 2,6), non tenne nulla per sé, ma condivise con gli uomini la propria ricchezza di essere Figlio. Per tale ragione, anche quando la testimonianza contesta alcuni elementi della cultura circostante, le persone consacrate cercano di entrare in dialogo per condividere i beni di cui sono portatrici.Ciò significa che la testimonianza dovrà essere nitida ed inequivocabile, chiara e comprensibile a tutti, così da mostrare che la consacrazione religiosa può dire molto ad ogni cultura in quanto aiuta a svelare la verità dell’essere umano.* *
-
-** **
 
 **Risposta radicale **
 
@@ -195,10 +189,6 @@ La chiamata a donarsi nella scuola, in disponibilità totale, in profonda e vera
 *guardando a Maria *
 
 28\. Le persone consacrate trovano in Maria il modello a cui ispirarsi nel rapporto con Dio e nel vivere la storia umana. Maria rappresenta l’icona della speranza profetica per la sua capacità di accogliere e di meditare a lungo la Parola nel suo cuore, di leggere la storia secondo il progetto di Dio, di contemplare Dio presente ed operante nel tempo. Nel suo sguardo traspare la sapienza che unisce in armonia l’estasi dell’incontro con Dio e il più grande realismo critico nei confronti del mondo. Il *Magnificat* è la profezia per eccellenza della Vergine, che risuona sempre nuovo nello spirito della persona consacrata, come lode perenne al Signore che si china sui piccoli e sui poveri per donare loro vita e misericordia.
-
-** **
-
-** **
 
 **II.  LA MISSIONE EDUCATIVA DELLE PERSONE CONSACRATE OGGI** 
 
@@ -545,8 +535,6 @@ Roma, 28 ottobre 2002, XXXVII anniversario della promulgazione della dichiarazio
 ------------------------------------------------------------------------
 
 **NOTE **
-
-[](#top)
 
 [^1]: Cf GIOVANNI PAOLO II, Esort. ap. *Vita consecrata*, 25 marzo 1996, nn. 72-73, *AAS* 88 (1996), 447-449.
 

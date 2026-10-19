@@ -1,15 +1,5 @@
 # Decreto sobre a inscrição das celebrações de São Gregório de Narek, abade e doutor da Igreja, São João De Ávila, presbítero e doutor da Igreja e de Santa Hildegarda de Bingen, virgem e doutora da Igreja, no Calendário Romano Geral
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

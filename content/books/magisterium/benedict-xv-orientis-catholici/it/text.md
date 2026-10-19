@@ -18,13 +18,13 @@ III\. L’Istituto avrà una propria e distinta sede nell’edificio presso il V
 IV\. Nell’Istituto si insegnino le seguenti discipline:
 
 > a\) Teologia ortodossa che comprenda le diverse dottrine dei cristiani orientali sulle cose divine, con corsi di Patrologia orientale, di Teologia storica e di Patristica.
->
+
 > b\) Diritto canonico di tutte le genti cristiane d’Oriente.
->
+
 > c\) Le varie forme della Liturgia Orientale.
->
+
 > d\) La Storia, sia sacra che civile, di Bisanzio e del resto dell’Oriente. Si aggiungeranno corsi di Geografia etnografica, di Archeologia sacra e sulla Costituzione civile e politica di quei popoli.
->
+
 > e\) Letteratura e lingue orientali.
 
 V. Il corso di tutti questi studi si compia in un biennio.

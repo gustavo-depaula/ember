@@ -1,9 +1,5 @@
 # Notificação sobre alguns escritos do R.P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***NOTIFICAÇÃO***
@@ -195,5 +191,3 @@ Roma, sede da Congregação para a Doutrina da Fé, 22 de Fevereiro de 2001, Fes
 56 Cfr. Ma II/1, p. 408 = 442. 444.
 
 57 Cfr. Decl. De abortu procurato, nn. 19-23: AAS 66 (1974) 742-744; Carta Enc. Evangelium vitae, nn. 71-74: AAS 87 (1995) 483-488.
-
-[](#top)

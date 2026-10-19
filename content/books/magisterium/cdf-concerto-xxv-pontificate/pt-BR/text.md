@@ -1,9 +1,5 @@
 # Saudação do Cardeal Ratzinger no Concerto pelo XXV Aniversário Pontificado
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ** XXV ANIVERSÁRIO DE PONTIFICADO DO PAPA JOÃO PAULO II**
 
 ***SAUDAÇÃO DO CARDEAL JOSEPH RATZINGER NO INÍCIO DO CONCERTO DA ORQUESTRA  "MITTELDEUTSCHER RUNDFUNK"***
@@ -23,5 +19,3 @@ A diferença da presença intacta da fé que transparece no *Hino à alegria,* d
 *No final, o Senhor Cardeal quis agradecer directamente aos componentes da orquestra e do coro, com as seguintes palavras: *
 
 É com alegria que o saúdo, Senhor Director, porque tornou possível este concerto. Saúdo também o Maestro da Orquestra, Senhor Howart Arman, as solistas e os solistas, os componentes do Coro e da Orquestra. Estamos agradecidos por nos ter oferecido a "inspiração divina da alegria" e esperamos que Ele a queira acender em sua pessoa e em nós.
-
-[](#top)

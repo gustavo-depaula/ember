@@ -7,8 +7,6 @@ LETTERA APOSTOLICA 
 DEL SANTO PADRE   
 PAOLO VI
 
-** **
-
 Le cause matrimoniali sono state sempre oggetto di speciale sollecitudine da parte della santa madre chiesa, la quale con esse si sforza di tutelare la santità e la genuina natura del sacro vincolo del matrimonio. Difatti il ministero dei giudici ecclesiastici dimostra chiaramente, pur nelle modalità che gli sono proprie, la carità pastorale della chiesa, che ben conosce quale e quanta importanza abbiano i processi matrimoniali per la salvezza delle anime.
 
 Dato però che nel nostro tempo il numero di queste cause tende a crescere sempre più, la chiesa non può fare a meno di guardare con grande preoccupazione al fenomeno. Un tale aumento, infatti, come dicemmo già ai prelati uditori del tribunale della sacra romana rota, "è un segno caratteristico dell’indebolito senso della sacralità della legge, su cui è fondata la famiglia cristiana, dell’inquietudine della vita moderna, della precarietà di condizioni sociali ed economiche, in cui essa si svolge, e del pericolo perciò che può minacciare la saldezza, la vitalità, la felicità dell’istituto familiare".

@@ -1,13 +1,5 @@
 # Schreiben über die Unauflöslichkeit der Ehe, 11. April 1973
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HEILIGE KONGREGATION FÜR DIE GLAUBENSLEHRE
@@ -29,8 +21,6 @@ Indem ich Ihnen dies zur Kenntnis bringe, verbleibe ich hochachtungsvoll Ihr erg
 **Franjo Card. Šeper ** *Präfekt*
 
 **Fr. Jérôme Hamer OP ** *Sekretär*
-
-* *
 
 Rom, 11. April 1973
 

@@ -1,9 +1,5 @@
 # Aos Presidentes das Conferências Episcopais sobre a Associação Opus Angelorum, 2 de outubro de 2010
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA CIRCULAR AOS PRESIDENTES DAS CONFERÊNCIAS EPISCOPAIS SOBRE A ASSOCIAÇÃO OPUS ANGELORUM***

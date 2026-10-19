@@ -1,9 +1,5 @@
 # The Catholic School
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 THE SACRED CONGREGATION FOR CATHOLIC EDUCATION 
 
 ***THE CATHOLIC SCHOOL ***
@@ -364,5 +360,3 @@ Consequently, the Catholic school is aware of the importance of the Gospel-teach
 \(47\) Cf SECOND VATICAN COUNCIL, *Declaration on the Relationship of the Church to Non-christian Religions " Nostra Aetate "*, 2. 
 
 \(48\) SECOND VATICAN COUNCIL, *Declaration on Christian Education "Gravissimum Educationis "*. Conclusion.
-
-[](#top)

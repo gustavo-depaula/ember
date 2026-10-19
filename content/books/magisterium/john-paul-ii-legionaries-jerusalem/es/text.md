@@ -20,11 +20,11 @@ En efecto, es bien sabido que dicha Congregación tiene como finalidad específi
 Por tanto, creo que la congregación de los Legionarios de Cristo será capaz de proveer: 
 
 > - a la hospitalidad de los peregrinos que, procedentes de todas las partes del mundo, visitan Tierra Santa, y de modo especial a los sacerdotes y a las personas consagradas;
->
+
 > - a las iniciativas propias del Instituto "Notre Dame of Jerusalem Center", lugar privilegiado de encuentro y de diálogo entre religiones, culturas y pueblos;
->
+
 > - a actividades de formación para continuar la obra llevada a cabo hasta ahora en el Instituto pontificio;
->
+
 > - a todo lo que resulte necesario para el mejor cuidado y gestión del "Notre Dame of Jerusalem Center".
 
 Con un decreto especial, encomiendo al cardenal Angelo Sodano, secretario de Estado, dar cumplimiento a este encargo. Él proveerá a emanar las normas y las directrices necesarias o útiles, en conformidad con mi decreto de erección y teniendo en cuenta los Estatutos y las demás leyes y disposiciones vigentes que se refieran al Instituto pontificio "Notre Dame of Jerusalem Center".

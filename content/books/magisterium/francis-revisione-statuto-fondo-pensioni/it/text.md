@@ -247,5 +247,3 @@ Il presente Statuto viene approvato *ad experimentum.* Ordino che sia promulgato
 *Dal Vaticano, il 28 maggio 2015, terzo di Pontificato.*
 
 **FRANCESCO**
-
-** **

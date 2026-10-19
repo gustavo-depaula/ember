@@ -1,9 +1,5 @@
 # DEKRET O EKSKOMUNICE, KTÓREJ PODLEGAJĄ UJAWNIAJĄCY TREŚĆ SPOWIEDZI, 23 września 1988 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 LIST DO KARDYNAŁA JOSEPHA HÖFFNERA, **ARCYBISKUPA KOLONII, §O PRZEPROWADZONYM BADANIU** DOTYCZĄCYM «OPUS ANGELORUM»\*
@@ -35,5 +31,3 @@ Arcybiskup tytularny Loreny *Sekretarz*
 *Rzym, 24 września 1983 r.*
 
 \* AAS 76 (1984) 175-176.
-
-[](#top)

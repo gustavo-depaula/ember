@@ -1,10 +1,6 @@
 # Comentario a la Notificación sobre Dupuis, 12-marzo-2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  CONGREGACIÓN PARA LA DOCTRINA DE LA FE
+CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***ARTÍCULO DE COMENTARIO A LA NOTIFICACIÓN A PROPÓSITO DEL LIBRO DEL P. JACQUES DUPUIS «HACIA UNA TEOLOGÍA CRISTIANA DEL PLURALISMO RELIGIOSO»***
 
@@ -73,5 +69,3 @@ Por lo demás, el hecho de volver a proponer sencillamente la verdad expresa la 
 7\) Juan Pablo II, Carta Enc. *Fides et ratio*, 38. 
 
 8\) Congregación para la Doctrina de la Fe, Decl. *Dominus Iesus*, 23.
-
-[](#top)

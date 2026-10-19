@@ -1,9 +1,5 @@
 # Notifikation über den Priester Georges de Nantes, 13. Mai 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 Notifikation über den Priester Georges de Nantes
@@ -23,5 +19,3 @@ Bischof Hamer erklärte dann:
 3\. dass die Kongregation für die Glaubenslehre von ihm noch immer den Widerruf seiner Fehler und seiner gegen Papst [Paul VI](/holy_father/paul_vi/index_ge.htm). und das [Zweite Vatikanische Konzil](/archive/hist_councils/ii_vatican_council/index_ge.htm) erhobenen Anklage der Häresie erwartet, einen Widerruf, der nach der auf eigenen Antrag erfolgten Untersuchung seiner Schriften und nach seinen Anträgen vom 25. und 29. April, vom 3. Mai und vom 5. Juli1968 von ihm verlangt worden war.
 
 4\. dass man, bis dieser Widerruf nicht erfolgt ist und bis er sich nicht auch auf die Angriffe derselbe Art gegen die Person Seiner Heiligkeit [Johannes Pauls II](/holy_father/john_paul_ii/index_ge.htm). erstreckt, nicht an die Ernsthaftigkeit des Wunsches nach Versöhnung glauben kann, den er selbst zweimal, 1978 und 1981, geäußert hat und zu dessen Annahme der Heilige Vater immer noch bereit ist.
-
-[](#top)

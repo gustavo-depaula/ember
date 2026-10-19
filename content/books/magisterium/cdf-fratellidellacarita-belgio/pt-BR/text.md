@@ -1,15 +1,5 @@
 # Carta ao Superior Geral dos "Irmãos da Caridade" sobre o acompanhamento dos pacientes nos hospitais psiquiátricos da Bélgica
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ

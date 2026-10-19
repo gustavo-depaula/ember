@@ -75,5 +75,3 @@ Omnes ergo filios dilectos hortamur, ut significata praecepta animo sincero ac p
 *Datum Romae, die XXV Ianuarii, anno MCMLXXXIII, apud Vaticanas aedes, Pontificatus Nostri quinto.*  
 
 **IOANNES PAULUS PP. II**
-
-**   **

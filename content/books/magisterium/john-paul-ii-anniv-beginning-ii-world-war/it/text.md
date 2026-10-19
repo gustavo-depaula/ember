@@ -4,8 +4,6 @@ GIOVANNI PAOLO II
 
 ***LETTERA APOSTOLICA IN OCCASIONE DEL 50° ANNIVERSARIO DELL'INIZIO DELLA II GUERRA MONDIALE\****
 
-*** ***
-
 *Ai miei fratelli nell'Episcopato, ai sacerdoti e alle famiglie religiose, ai figli e alle figlie della Chiesa, i governanti, a tutti gli uomini di buona volontà.*
 
 ***L'ora delle tenebre***
@@ -173,5 +171,3 @@ Che la sua pace e la sua benedizione siano con tutti voi!
 ------------------------------------------------------------------------
 
 \**Insegnamenti di Giovanni Paolo II*, vol. XII, 2 p. 381-390.
-
-* *

@@ -1,9 +1,5 @@
 # The Integrity of Faith - Major Documents of the Congregation for the Doctrine of the Faith in the Post-Conciliar Period
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***The Integrity of Faith Major Documents of the Congregation for the Doctrine of the Faith in the Post-Conciliar Period***
 
 **Cardinal William Levada Prefect of the Congregation for the Doctrine of the Faith**
@@ -148,8 +144,6 @@ Thank you for your welcome to Torun, and for your kind attention this morning.
 *Torun, October 12, 2011*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: “Discouse to the Roman Curia on the occasion of Christmas greetings” (December 22, 2005).
 

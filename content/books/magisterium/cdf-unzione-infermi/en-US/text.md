@@ -1,9 +1,5 @@
 # Note on the Minister of the Sacrament of the Anointing of the Sick
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Note on the Minister of the Sacrament of the Anointing of the Sick***
@@ -80,5 +76,3 @@ To conclude, it would indeed be appropriate to recall that through the sacrament
 In the administration of the sacraments, he acts *in persona Christi Capitis* and *in persona Ecclesiae.* The person who acts in this Sacrament is Jesus Christ; the priest is the living and visible instrument. He represents and makes Christ present in a special way, which is why the Sacrament has special dignity and efficacy in comparison with a sacramental: therefore, as the inspired Word says concerning the Anointing of the Sick, "the Lord will raise him up" (Jas 5: 15).
 
 The priest also acts *in persona Ecclesiae*. The "presbyters of the Church" (Jas 5: 14) pray on behalf of the whole Church; as St Thomas Aquinas says on this subject: "oratio illa non fit a sacerdote in persona sua..., sed fit in persona totius Ecclesiae" (*Summa Theologiae,* Supplementum, q. 31, a1, ad 1). Such a prayer is heard.
-
-[](#top)

@@ -39,9 +39,9 @@ I dispose that everything established in this Apostolic Letter issued *Motu Prop
 The Authority shall perform, in full autonomy and independence, the following functions:
 
 > a\) prudential supervision and regulation of those entities that carry out professionally a financial activity;
->
+
 > b\) supervision and regulation for the prevention and countering of money laundering and financing of terrorism;
->
+
 > c\) financial intelligence.
 
 **Chapter II**
@@ -53,15 +53,15 @@ The Authority shall perform, in full autonomy and independence, the following fu
 1\. The organs of the Authority are:
 
 > a\) the President;
->
+
 > b\) the Board of Directors;
->
+
 > c\) the Director.
 
 2\. The Authority has two department:
 
 > a\) the Office of Supervision and Regulation;
->
+
 > b\) the Office of Financial Intelligence.
 
 3\. The Authority shall adopt the necessary measures and procedures to ensure the operational distinction between the supervisory and regulatory function and the financial intelligence function.
@@ -73,35 +73,35 @@ The Authority shall perform, in full autonomy and independence, the following fu
 2\. The Board of Directors shall:
 
 > a\) formulate the Authority’s general policies and fundamental strategies;
->
+
 > b\) adopt the Authority’s internal regulation;
->
+
 > c\) grant the Director the power to sign on behalf of the Authority, according to the modalities set forth in the Authority’s internal regulation;
->
+
 > d\) adopt regulations and guidelines where required by law;
->
+
 > e\) adopt the schedule of off-site and on-site inspections of the supervised subjects prepared by the Director;
->
+
 > f\) apply administrative sanctions in the cases foreseen by the law in force;
->
+
 > g\) propose to the President of the Governorate the application of administrative sanctions in the cases foreseen by law;
->
+
 > h\) approve every year, by 31 March, the Authority’s budget and, by 31 October, its final balance, both prepared by the Director;
->
+
 > i\) approve every year, by 31 March a public report, prepared by the Director, containing non confidential data, information and statistics on the activity carried out by Authority in the exercise of its functions;
->
+
 > j\) approve every year, by 31 March, a confidential report, prepared by the Director, for the use of the Secretariat of State, on the activity carried out by the Authority in the exercise of its functions;
->
+
 > k\) formulate, through its President, proposals on the appointment of the Director, the Deputy-director and the personnel;
->
+
 > l\) request studies and opinions and entrust specific activities to its members, to the Director and to external experts.
 
 3\. The President:
 
 > a\) shall chair the Board of Directors;
->
+
 > b\) is the Authority’s legal representative;
->
+
 > c\) has the power to sign on behalf of the Authority.
 
 **Article 5** – *Meetings of the Board of Directors*
@@ -131,35 +131,35 @@ The Authority shall perform, in full autonomy and independence, the following fu
 2\. The Director, in line with the general policy and fundamental strategies defined by the Board of Directors, shall:
 
 > a\) direct, organize and control the activity of the Authority;
->
+
 > b\) propose to the Board of Directors the appointment of the Deputy-director and the recruitment of the personnel, within the limits of the organizational chart and the budget, and take part in the selection procedure;
->
+
 > c\) supervise the personnel, promoting its continuous training, updating and professional qualification;
->
+
 > d\) adopt instructions and guidelines relating the organization and activity of the personnel;
->
+
 > e\) propose to the Board of Directors the schedule of off-site and on-site inspections of the supervised subjects;
->
+
 > f\) within the framework of the schedule approved by the Board of Directors, prepare and conduct the off-site and on-site inspections of the supervised subjects;
->
+
 > g\) propose to the Board of Directors the application of administrative sanctions in the cases foreseen by law;
->
+
 > h\) propose to the Board of Directors, by 28 February, the Authority’s budget and, by 30 September, its final balance;
->
+
 > i\) propose to the Board of Directors, by 28 February, a public report containing non confidential data, information and statistics on the activities carried out by the Authority in the exercise of its functions;
->
+
 > j\) propose to the Board of Directors, by 28 February, a confidential report for the use of the Secretariat of State on the activities carried out by the Authority in the exercise of its functions;
->
+
 > k\) take part, without right to vote, in the meetings of the Board of Directors;
->
+
 > l\) take part in the meetings of the Financial Security Committee;
->
+
 > m\) disseminates reports, documents, data and information to the Promoter of Justice of the Tribunal of the Vatican City Sate in the cases foreseen by the laws in force;
->
+
 > n\) form part of the delegations of the Holy See to the financial institutions and international technical bodies competent in the area of the prevention and countering of money laundering and the financing of terrorism;
->
+
 > o\) propose to the Board of Directors general policies and fundamental strategies regarding the international cooperation;
->
+
 > p\) sign, if so authorized by the Board of Director, memoranda of understanding with analogous authorities of other States in the cases foreseen by the laws in force.
 
 3\. The Director shall be assisted by a Deputy-director appointed by the Secretary of State for a period of five years, upon a proposal from the President, among persons of proven reputation, free from any conflict of interest and having recognized professional competence in the legal, economic and financial fields as well as in the subject-matters that fall within the scope of activity of the Authority.
@@ -191,9 +191,9 @@ The Authority shall have access to documents, data and information and it shall 
 All the documents, data and information held by the Authority shall be:
 
 > a\) used only for the purposes established by law;
->
+
 > b\) protected with a view to ensuring their security, integrity and confidentiality;
->
+
 > c\) covered by the office secret.
 
 **Article 10 –** *Final Clause*

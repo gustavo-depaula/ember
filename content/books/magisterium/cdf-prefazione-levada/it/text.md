@@ -1,14 +1,8 @@
 # Prefazione alle Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Card. William Levada, 14 dicembre 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **NORME PER PROCEDERE NEL DISCERNIMENTO DI PRESUNTE APPARIZIONI E RIVELAZIONI**
-
-** **
 
 **Prefazione**
 
@@ -32,7 +26,5 @@ Tenendo presente quanto sopra, il Santo Padre [Benedetto XVI](/holy_father/bened
 Città del Vaticano, 14 dicembre 2011, memoria liturgica di San Giovanni della Croce.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Esortazione Apostolica Post-sinodale *[Verbum Domini](/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini_it.html)* sulla Parola di Dio nella vita e nella missione della Chiesa, 30 settembre 2010, n. 14: *AAS* 102 (2010) 695-696 Al riguardo si vedano anche i passi del *[Catechismo della Chiesa Cattolica](/archive/ccc_it/ccc-it_index_it.html)* dedicati al tema (cfr nn. 66-67).

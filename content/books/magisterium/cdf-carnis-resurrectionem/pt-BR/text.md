@@ -1,9 +1,5 @@
 # Tradução do artigo «Carnis resurrectionem» do Símbolo Apostólico, 14 de dezembro de 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***TRADUÇÃO DO ARTIGO «CARNIS RESURRECTIONEM» DO SÍMBOLO APOSTÓLICO\****
@@ -50,8 +46,6 @@ Que induzem à conservação da tradução exata tradicional do art. do Símbolo
 
 \- “Auferstehung der Toten” (*Messbuch für die Bistümer des deutschen Sprachgebietes*, 1974 Teil 1,119);  
 - “La resurrección de los muertos” (*Libro de la Sede*, Secretariado Nacional de Liturgia, Madrid 1983, 394).
-
-[](#top)
 
 [^1]: Cf. tradução em língua italiana, francesa e portuguesa:
 

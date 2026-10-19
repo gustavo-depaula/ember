@@ -1,13 +1,5 @@
 # Istruzione sui Matrimoni Misti, 18 marzo 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRA CONGREGATIONE PER LA DOTTRINA DELLA FEDE**
@@ -69,8 +61,6 @@ I coniugi cattolici poi abbiano cura di irrobustire e accrescere in se stessi il
 **Alfredo Card. Ottavini** *Pro-Prefetto*
 
 **+ Pietro Parente** *Segretario*
-
-* *
 
 *Haec Instructio, publici iuris iam facta die XVIII martii huius anni, his Actibus inserta nunc promulgatur atque vigere incipiet a die XIX mensis maii a. MCMLXVI, in festo Ascensionis Domini nostri Iesu Christi*.
 

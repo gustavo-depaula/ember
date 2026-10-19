@@ -1,13 +1,5 @@
 # Decreto sobre la impotencia que hace nulo el matrimonio, 13 mayo 1977
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE

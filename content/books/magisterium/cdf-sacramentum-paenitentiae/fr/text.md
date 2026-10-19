@@ -1,20 +1,10 @@
 # Normes pastorales pour l'absolution sacramentelle générale, 16 juin 1972
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRÉE CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***NORMES PASTORALES POUR L’ADMINISTRATION DE L’ABSOLUTION SACRAMENTELLE GÉNÉRALE***
-
-*** ***
 
 Le Christ Notre-Seigneur a institué le sacrement de pénitence afin que les fidèles en état de péché obtiennent le pardon de la miséricorde de Dieu qu’ils ont offensé, et qu’ils soient en même temps réconciliés avec l’Église (cf. *Lumen gentium*, n. 11). Il le fit lorsqu’il communiqua aux apôtres et à leurs successeurs légitimes le pouvoir de remettre et de retenir les péchés (cf. Jn 20, 22 s.).
 

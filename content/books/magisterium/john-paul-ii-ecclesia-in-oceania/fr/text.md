@@ -351,8 +351,6 @@ Ce n'est pas ici le lieu de dresser une liste complète des nombreux services so
 
 Ce sont fréquemment des volontaires qui offrent, sans rémunération, leur temps, leurs énergies et leur compétence professionnelle pour accomplir ces formes d'apostolat. Ceux qui ont choisi de vivre un amour désintéressé ne cherchent ni reconnaissance humaine ni récompense; aucune d'ailleurs ne pourrait être à la hauteur de leur don. Par leur engagement multiforme, ils apportent une contribution importante à la mission de l'Église qui proclame la vérité de Jésus Christ, qui marche sur son chemin et qui vit sa vie. Ces personnes sont indispensables pour lancer les différents programmes de la nouvelle évangélisation parmi les peuples de l'Océanie. La foi est éveillée par la prédication de la Parole de Dieu, l'espérance est suscitée par la promesse de son Royaume, mais la charité est infusée par l'Esprit Saint, « qui est Seigneur et qui donne la Vie ». 
 
-* *
-
 **CHAPITRE IV**
 
 **VIVRE LA VIE DE JÉSUS CHRIST** **EN OCÉANIE**

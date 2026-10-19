@@ -1,9 +1,5 @@
 # Decreto per l'apertura della fase diocesana della causa di beatificazione di suor Lucia dos Santos
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE DELLE CAUSE DEI SANTI
 
 ***DECRETO PER L'APERTURA DELLA FASE DIOCESANA DELLA CAUSA DI BEATIFICAZIONE DI SUOR LUCIA DOS SANTOS***
@@ -15,5 +11,3 @@ Instante Exc.mo ac Rev.mo Domino D. Albino Mamede Cleto, Episcopo Conimbricensi,
 **Iosephus Card. Saraiva Martins** *Praefectus*
 
 **Michael Di Ruberto** *Archiep. Tit. Biccarensis A Secretis*
-
-[](#top)

@@ -1,13 +1,5 @@
 # Declaratio de duobus operibus professoris Ioannis Küng in quibus continentur nonnullae opiniones quae doctrinae Ecclesiae Catholicae opponuntur, d. 15 m. Februarii a. 1975, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

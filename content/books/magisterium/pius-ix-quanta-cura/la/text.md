@@ -273,8 +273,6 @@ XXXVIII\. Divisioni Ecclesiae in orientalem atque occidentalem nimia Romanorum P
 
 Litt. Apost. ***Ad apostolicae***, 22 augusti 1851.
 
-*** ***
-
 ***§ VI. Errores de societate civili tum in se tum in suis ad Eccleiam relationibus spectata.***
 
 XXXIX\. Reipublicae status, utpote omnium iurium origo et fons, iure quodam pollet nullis circumscripto limitibus.

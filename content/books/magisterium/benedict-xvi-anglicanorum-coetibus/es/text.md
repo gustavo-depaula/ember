@@ -39,9 +39,9 @@ IV\. Un Ordinariato personal está encomendado al cuidado pastoral de un Ordinar
 V. La potestad (*potestas*) del Ordinario es:
 
 > a\. *ordinaria*: unida por el derecho mismo al oficio conferido por el Romano Pontífice, para el fuero interno y para el fuero externo;
->
+
 > b\. *vicaria*: ejercida en nombre del Romano Pontífice;
->
+
 > c\. *personal*: ejercida sobre todos aquellos que pertenecenal Ordinariato.
 
 Dicha potestad *se ejerce de manera conjunta* con la del obispo diocesano local en los casos previstos por las Normas complementarias.

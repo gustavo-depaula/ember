@@ -1,22 +1,10 @@
 # „Die Königin des Friedens”. Note über die geistliche Erfahrung im Zusammenhang mit Medjugorje
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_fr.html) - [HR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_hr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_po.html) - [ZH_CN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_cn.pdf) - [ZH_TW](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_tw.pdf)\]
 
 DIKASTERIUM FÜR DIE GLAUBENSLEHRE
-
-** **
 
 **„Die Königin des Friedens”**
 
@@ -414,7 +402,5 @@ Franciscus
 *[Tadel und Drohungen](#Tadel_und_Drohungen) [Die Botschaften an die Pfarrei](#Die_Botschaften_an_die_Pfarrei) [Das unablässige Beharren, auf die Botschaften zu hören](#Das_unablassige_Beharren_auf_die_Botschaften_zu_horen) [Die Muttergottes gibt ihren Botschaften den richtigen Stellenwert](#Die_Muttergottes_gibt_ihren_Botschaften_den_richtigen_Stellenwert) [Die ‚Selbsterhöhung’ der Gottesmutter](#Die_Selbsterhöhung_der_Gottesmutter) [Mit uns auf Christus hin](#Mit_uns_auf_Christus_hin)*
 
 **[Schlussfolgerungen](#Schlussfolgerungen)**
-
-** **
 
 ------------------------------------------------------------------------

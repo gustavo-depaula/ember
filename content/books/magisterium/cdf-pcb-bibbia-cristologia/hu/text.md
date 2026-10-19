@@ -1,9 +1,5 @@
 # A Szentírás és a krisztológia, Pápai Biblia Bizottság, 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **A Szentírás és a krisztológia  **
 
 Pápai Biblia Bizottság  
@@ -281,5 +277,3 @@ Akkor majd elismerik, szeretik és imádják őt, aki előbb szeretett minket (1
 Jegyzetek:
 
 [\[1\]](#JB1) Vö. VI. Pál pápa: Sedula cura apostoli levelét, 1971. jún. 27, n. 1: EV 4/981.
-
-[](#top)

@@ -2,8 +2,6 @@
 
 ***LETTERA DI PAPA FRANCESCO A******LLE FAMIGLIE***
 
-*** ***
-
 *Care famiglie,*
 
 mi presento alla soglia della vostra casa per parlarvi di un evento che, come è noto, si svolgerà nel prossimo mese di ottobre in Vaticano. Si tratta dell’Assemblea generale straordinaria del Sinodo dei Vescovi, convocata per discutere sul tema “Le sfide pastorali sulla famiglia nel contesto dell’evangelizzazione”. Oggi, infatti, la Chiesa è chiamata ad annunciare il Vangelo affrontando anche le nuove urgenze pastorali che riguardano la famiglia.

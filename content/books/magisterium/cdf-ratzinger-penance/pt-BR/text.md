@@ -1,9 +1,5 @@
 # Apresentação da Misericordia Dei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***A PALAVRA DO CARDEAL JOSEPH RATZINGER  NA APRESENTAÇÃO DA CARTA APOSTÓLICA  "MISERICORDIA DEI"***
@@ -22,5 +18,3 @@ Este carácter sacramental-jurídico do sacramento tem duas implicações import
 Por isso, não faz parte do poder da Igreja substituir a confissão pessoal pela absolvição geral:  eis o que nos recorda o Papa no novo *Motu proprio,* que é expressão da consciência da Igreja a respeito dos limites do seu poder exprime o vínculo com a palavra do Senhor, que obriga também o Papa. Só numa situação de necessidade, na qual a salvação última do homem está em jogo, a absolvição pode ser antecipada e a confissão adiada para um momento, em que para isso será concedida a possibilidade:  eis o verdadeiro sentido que, de maneira bastante obscura, se dá à expressão *absolvição colectiva.* Portanto, a Igreja tem agora a tarefa de definir quando se está na presença de uma situação de necessidade. Depois de se terem difundido nos últimos decénios como já foi mencionado interpretações extensivas, por muitos motivos inaceitáveis, do conceito de necessidade, o Papa neste documento dá determinações concretas, que devem ser aplicadas pormenorizadamente por parte dos Bispos.
 
 Portanto, trata-se de um texto que acarreta novos pesos sobre os ombros dos cristãos? É precisamente o contrário:  o carácter totalmente pessoal da existência cristã é defendido. Sem dúvida, a confissão da própria culpa pode parecer muitas vezes pesada para a pessoa, porque humilha o seu orgulho e confronta-a com a sua pobreza. Mas é precisamente disto que precisamos; precisamente disto sofremos, que nos fechamos no nosso delírio de inculpabilidade e, desta forma, fechamo-nos também perante os outros e em relação ao próximo. Nas curas psicoterapêuticas exige-se que as pessoas suportem o peso de profundas e muitas vezes perigosas revelações sobre a sua interioridade. No sacramento da Penitência depõe-se com confiança na bondade misericordiosa de Deus a simples confissão da própria culpa. É importante fazer isto sem cair no escrúpulo, num espírito de confiança próprio dos filhos de Deus. Assim, a confissão pode tornar-se uma experiência de libertação, na qual o peso do passado nos abandona e nós podemos sentir-nos rejuvenescidos por mérito da graça de Deus, que, de cada vez, nos dá a juventude do coração.
-
-[](#top)

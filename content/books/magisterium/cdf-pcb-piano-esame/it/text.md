@@ -1,9 +1,5 @@
 # Piano d'esame per i gradi accademici in sacra Scrittura - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **PIANO D'ESAME DEI CANDIDATI AI GRADI ACCADEMICI IN SACRA SCRITTURA  **
@@ -29,11 +25,11 @@ Nelle prove per il baccellierato, nel caso che si facciano per iscritto (II e II
 I. Filologia biblica
 
 > 1\. Lingua ebraica: Genesi 2‑3; 20‑22; Deuteronomio 5‑6; 2 Samuele 10‑12; Isaia 6‑12; 40; 66; Geremia 7; 14; Ezechiele 34; 37; Salmi 1‑8; Qoelet 3; 5.
->
+
 > 2\. Lingua aramaico‑biblica: Esdra 4; Daniele 6.
->
+
 > 3\. Lingua greca: Matteo 5‑7; Marco 5‑7; Luca 1‑2; 22‑24; Giovanni 1‑5; Atti degli Apostoli 17; Galati: tutta; Colossesi: tutta; Tito: tutta; Ebrei 5‑7; Giacomo 2; Giuda: tutta; Apocalisse 1‑2.
->
+
 > Per Sal 1‑8 e Lc 22‑24 il candidato sarà interrogato anche sulla critica testuale.
 
 II.       Storia biblica
@@ -41,13 +37,13 @@ II.       Storia biblica
 Per le questioni scelte che seguono, basta una conoscenza generale, in modo tale tuttavia che appaia chiaramente la collocazione storica e ambientale degli eventi e delle persone.
 
 > 1\. Abramo. Mosè. Esodo. Davide. Salomone. Separazione delle dieci tribù. Restaurazione dopo l'esilio. Esordi della diaspora. Dominazione romana della Giudea.
->
+
 > 2\. Fisionomia del ministero del Cristo, rapportata con le varie religioni giudaiche (con l'azione del Battista, con il fariseismo, con la pietà qumranica, ecc.). La chiesa di Gerusalemme. I viaggi di S. Paolo.
 
 III\. Introduzione generale
 
 > 1\. Ispirazione e verità della S. Scrittura.
->
+
 > 2\. Metodi dell'odierna esegesi, alla luce anche dei seguenti documenti: *[Divino afflante Spiritu](/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu_it.html)*, *[Dei verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html)*, [Lettera della Commissione Biblica sul Pentateuco (1948)](/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19480116_fonti-pentateuco_it.html) e [Istruzione della medesima Commissione sulla verità storica dei vangeli (1964)](rc_con_cfaith_doc_19640421_verita-vangeli_it.html).
 
 **PER LA LICENZA**
@@ -59,21 +55,19 @@ Su una delle questioni di storia sopra elencate (per il baccellierato, II), scel
 II\. Introduzione generale
 
 > 1\. Su talune istituzioni ebraiche, cioè feste, sacerdozio, governo regale.
->
+
 > 2\. Sui principali documenti, scavi e scoperte che illustrano le sacre lettere.
->
+
 > 3\. Sulle scuole esegetiche alessandrina e antiochena, come pure sulle opere esegetiche di S. Girolamo.
->
+
 > 4\. Sulle scuole contemporanee (Formgeschichte, ecc.) e sulla metodologia da adottare.
->
->  
 
 III\. Introduzione speciale
 
 Relativamente ai libri seguenti: le fonti, la storia della tradizione, la redazione del libro, il tenore teologico, le ricerche più recenti.
 
 > 1\. Pentateuco, Isaia, Geremia, Daniele, Siracide.
->
+
 > 2\. I quattro vangeli, Atti degli Apostoli, Lettera ai Romani.
 
 IV\. Teologia e antropologia biblica
@@ -81,13 +75,13 @@ IV\. Teologia e antropologia biblica
 Su uno dei seguenti argomenti, a piacere del candidato:
 
 > 1\. Il regno di Dio nell'Antico Testamento e nella predicazione di Gesù.
->
+
 > 2\. Il messia nell'Antico e nel Nuovo Testamento.
->
+
 > 3\. Lo Spirito di Dio nell'Antico e nel Nuovo Testamento.
->
+
 > 4\. Il popolo di Dio (dal punto di vista teologico) nell'Antico Testamento, e la Chiesa secondo S. Paolo.
->
+
 > 5\. L'uomo, cioè sua origine, natura, fine ultimo, secondo l'uno e l'altro Testamento.
 
 V. Dissertazione scritta senza preavviso (si danno cinque ore di tempo), che in concreto sarà un'esposizione filologica (con l'aggiunta di opportuni commenti presi dalla critica testuale), letteraria e dottrinale di una sezione (a scelta dell'esaminatore) dei testi seguenti: Genesi 12‑25; Isaia 28‑32; 49‑55; Salmi 1-10; Proverbi 8‑9; Matteo 5‑10 (con l'aggiunta della sinossi); Giovanni 6; 13‑17; 1 Corinzi 12‑15; Efesini 1,1‑14.
@@ -105,11 +99,11 @@ Esegesi di una delle seguenti parti della S. Scrittura, indicata in precedenza d
 III.      Introduzione generale
 
 > 1\. Storia del canone dell'uno e dell'altro Testamento.
->
+
 > 2\. Origine e autorità del testo masoretico.
->
+
 > 3\. Versione dei Settanta e altre versioni più antiche della Volgata da usare nella analisi dei testi.
->
+
 > 4\. Storia e uso della Volgata dall'origine fino ai nostri tempi (per sommi capi).
 
 IV\. Lettura pubblica su una questione indicata al candidato un'ora prima, in riferimento a libri dell'Antico e del Nuovo Testamento da egli stesso proposti in precedenza.
@@ -130,5 +124,3 @@ I candidati che, prima della promulgazione di questo piano rinnovato, già avess
 
 Franjo Card. Šeper, *Presidente*.  
 Albert Descamps, vescovo titolare di Tunes, *Segretario*.
-
-[](#top)

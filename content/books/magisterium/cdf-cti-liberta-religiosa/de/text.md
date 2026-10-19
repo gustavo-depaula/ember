@@ -1,15 +1,5 @@
 # Religious Freedom for the Good of All. Theological approaches and contemporary challenges
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Internationale Theologische Kommission

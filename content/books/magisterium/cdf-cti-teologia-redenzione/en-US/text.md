@@ -1,9 +1,5 @@
 # SELECT QUESTIONS ON THE THEOLOGY OF GOD THE REDEEMER
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONAL THEOLOGICAL COMMISSION
 
 ***SELECT QUESTIONS ON THE THEOLOGY OF GOD THE REDEEMER***
@@ -125,9 +121,9 @@ C. *The Christian Doctrine of Redemption and the Modern World*
 4\. Israelite religion developed a liturgy of expiation. It was the symbolic act of homage by which the guilty person covers and repays a debt to YHWH. The essential elements of this liturgy were:
 
 > a\. The rites are of divine institution (holy places, holy priesthood and rites dictated by YHWH).
->
+
 > b\. YHWH is the one who forgives.¹³
->
+
 > c\. The rites are all sacrificial, and generally blood sacrifices, where the blood that represents life is poured out. YHWH gives human beings blood for the rite of forgiveness.¹⁴ Sacrificial blood expresses the gratuity of forgiveness at the level of ritual expression.
 
 5\. Holy people, and especially Moses and the prophets who followed him, had great value before God. This counterbalanced the disvalue of the evil and sin of others. Thus, they attached great importance to intercession for the forgiveness of sin.¹⁵ The figure of the Suffering Servant in Isaiah 53:4-12 would be repeatedly used in the New Testament as a type of Christ the Redeemer.
@@ -147,13 +143,13 @@ C. *The Christian Doctrine of Redemption and the Modern World*
 12\. The New Testament uses sacrificial images to explain the death of Christ. Salvation cannot be obtained through mere moral perfection, and sacrifice cannot be regarded as the relic of an outmoded religiosity. Judaism already provided the model of the expiatory death of the model martyr,³⁵ but this is carried further in the New Testament because of the decisive significance given to “the blood of Christ”. The Cross of Jesus, which occupied a central position in the early proclamation, involved the shedding of blood. The salvific significance of Jesus’ death was explained in terms borrowed from the Old Testament sacrificial liturgy, where blood played an important role. Continuing but transforming the Old Testament understanding of blood as the essential mark of life, sacrificial language and theology emerged in the early Church:
 
 > i\. By a typological argument, the blood of Christ was regarded as effective in establishing a new and perfect covenant between God and the New Israel.³⁶ But unlike the repeated actions of the priests of the former covenant, the blood of Jesus, the only means of obtaining remission and sanctification,³⁷ flows only once, in a sacrifice which is offered once for all.³⁸
->
+
 > ii\. The term “death” by itself would not signify a redemptive work. “Blood” implies more than death. It has the active connotation of life.³⁹ The sprinkling of blood upon the altar was regarded as the essential and decisive act of offering (Leviticus), but for Paul, the efficacy assigned to the blood of Christ (justification, redemption, reconciliation and atonement) goes far beyond the scope claimed for blood in Leviticus, where its effect is only negative, the covering or neutralizing of that which forbids safe or acceptable worship of God (Rom 3:24-25). Christ is regarded as the *kaporeth*: at the same time offering and propitiation.
->
+
 > iii\. To be in covenant means to obey.⁴⁰ The idea of obedience and loyalty to Torah unto death was well known in first-century Judaism. Paul is able to explain the death of Jesus as obedience to the demands of God.⁴¹ This obedience is not the placating of an angry God, but a free offering of self which enables the creation of the New Covenant. The Christian enters the New Covenant by imitating the patience and obedience of Jesus.⁴²
->
+
 > iv\. Like the whole of the earthly life of Jesus⁴³ his death on the Cross took place in the presence of, and with the assistance of, the Holy Spirit.⁴⁴ Here every analogy with the Old Testament falls short. It is Jesus Christ “who through the eternal Spirit offered himself” (Heb 9:14). Everything that happens on the Cross is a witness to the Father, and according to Paul, nobody can call God Father except in the Spirit, and the Spirit of God attests to him in believers.⁴⁵ For the Fourth Gospel the Spirit is given to the Church as Jesus cries out, “It is finished”, and hands down the Spirit (Jn 19:30: *Paredoken to pneuma*).
->
+
 > v\. Jesus’ death was praise and exaltation of God. He remained faithful in death; he demonstrated the reign of God, and thus in the death of Jesus God was present. For this reason the earliest Church attributed to Jesus’ death a redemptive power: “Although he was a Son, he learned obedience through what he suffered; and having been made perfect, he became the source of eternal salvation for all who obey him, having been designated by God a high priest according to the order of Melchizedek” (Heb 5:8-10). The sacrifice of Jesus on the Cross was not only *passio*, but also *actio*. The latter aspect, the voluntary self-offering to the Father, with its pneumatic content, is the most important aspect of his death. The drama is not a conflict between fate and the individual. On the contrary, the Cross is a liturgy of obedience manifesting the unity between the Father and the Son in the eternal Spirit.
 
 13\. Jesus risen affirms God’s gracious response to such self-giving love. In the end, Christianity gazes upon an empty Cross. Jesus of Nazareth’s unconditional acceptance of all that was asked of him by his Father has led to the Father’s unconditional “yes” to all that Jesus has said and done. It is the resurrection which proclaims that the way of Jesus is the way that overcomes sin and death into a life which has no limits.
@@ -167,9 +163,9 @@ C. *The Christian Doctrine of Redemption and the Modern World*
 17\. In the soteriology of the Letter to the Ephesians and the Letter to the Colossians, the themes of peace and reconciliation stand out: “He \[Christ\] is our peace” (Eph 2:14). Peace (*shalom*) and reconciliation here become the heart and best expression of redemption. But this aspect of redemption is not new. The word “peace” is to be understood in the light of its rich use across the biblical tradition. It has a threefold dimension:
 
 > i\. It means peace with God: “Therefore, since we are justified by faith, we have peace with God through our Lord, Jesus Christ” (Rom 5:1).
->
+
 > ii\. It means peace among human beings. It involves their being well-disposed to one another. The peace, which is Christ, destroys the walls of hatred, division and disagreement, and is built upon mutual trust.
->
+
 > iii\. It means the all-important internal peace which the human being can find within himself or herself. This aspect of the peace of Christ has far-reaching consequences. Paul speaks in Romans 7:14-25 of the human person divided against itself, whose will and actions are in conflict with each other. This person, without the liberating power which comes from the gift of the grace and peace of Jesus Christ, can only cry out: “Wretched man that I am! Who will deliver me from this body of death?” (Rom 7:24). Paul immediately provides the answer: “Thanks be to God through Jesus Christ our Lord!” (v. 25a).
 
 18\. In the hymn to Christ which opens the Letter to the Colossians (Col 1:15-20) the redemption brought about by Christ is praised as a universal, cosmic redemption. The whole creation is to be liberated from its bondage to decay to obtain the glorious liberty of the children of God. This theme of the essentially God-oriented integrity of the whole of creation, already eloquently spelt out in Paul's earlier Letter to the Romans,⁵⁵ makes us conscious of our contemporary responsibilities towards creation.
@@ -779,5 +775,3 @@ Eschatological Perspectives
 ¹⁵² Rev 21:1; cf. Is 65:17; 66:22.
 
 ¹⁵³ Rom 5:21; cf. 8:2.
-
-[](#top)

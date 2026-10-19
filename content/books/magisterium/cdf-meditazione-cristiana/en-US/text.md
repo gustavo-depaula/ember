@@ -1,9 +1,5 @@
 # Letter to the Bishops of the Catholic Church on some aspects of Christian Meditation – Orationis formas
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***LETTER TO THE BISHOPS OF THE CATHOLIC CHURCH ON SOME ASPECTS OF CHRISTIAN MEDITATION\****
@@ -201,5 +197,3 @@ St. Bonaventure shows how in every creature Francis perceived the call of God an
 35\. Cf. St. Teresa of Jesus, *Castillo Interior* VII, 4, 6.
 
 36\. St. Augustine, *Enarrationes in Psalmos* CXLII, 6: PL 37, 1849. Also see: St. Augustine, *Tract. in Ioh*. IV, 9: PL 35, 1410: "Quando autem nec ad hoc dignum se dicit, vere plenus Spiritu Sancto erat, qui sic servus Dominum agnovit, et ex servo amicus fieri meruit."
-
-[](#top)

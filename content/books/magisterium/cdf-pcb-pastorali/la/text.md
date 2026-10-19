@@ -1,9 +1,5 @@
 # De auctore, de integritate et de compositionis tempore epistolarum pastoralium Pauli apostoli - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE AUCTORE, DE INTEGRITATE ET DE COMPOSITIONIS TEMPORE EPISTOLARUM PASTORALIUM PAULI APOSTOLI**
@@ -29,7 +25,3 @@ R. Affirmative.
 *Die autem 12 Iunii anni 1913, in audientia infrascripto R.mo Consultori ab Actis benigne concessa, Ss.mus Dominus noster Pius Papa X praedicta responsa rata habuit ac publici iuris fieri mandavit.*
 
 Laurentius Janssens, O.S.B. *Consultor ab Actis.*
-
-*    *
-
-[](#top)

@@ -29,23 +29,23 @@ His omnibus perpensis, quae sequuntur decernimus:
 **Art. 1.** Canon 111 CIC integre sequenti textu substituitur, in quo adiungitur nova paragraphus et nonnullae expressiones mutantur:
 
 > §1. Ecclesiae latinae per receptum baptismum adscribitur filius parentum, qui ad eam pertinent vel, si alteruter ad eam non pertineat, ambo concordi voluntate optaverint ut proles in Ecclesia latina baptizaretur; quodsi concors voluntas desit, *Ecclesiae* *sui iuris* ad quam pater pertinet adscribitur.
->
+
 > *§2. Si vero unus tantum ex parentibus sit catholicus, Ecclesiae ad quam hic parens catholicus pertinet adscribitur.*
->
+
 > §3. Quilibet baptizandus qui quartum decimum aetatis annum expleverit, libere potest eligere ut in Ecclesia latina vel in alia *Ecclesia sui iuris* baptizetur; quo in casu, ipse ad eam Ecclesiam pertinet quam elegerit.
 
 **Art. 2.** Canon 112 CIC integre sequenti textu substituitur, in quo adiungitur nova paragraphus et nonnullae expressiones mutantur:
 
 > §1. Post receptum baptismum, alii *Ecclesiae sui iuris* ascribuntur:
->
+
 > 1° qui licentiam ab Apostolica Sede obtinuerit;
->
+
 > 2° coniux qui, in matrimonio ineundo vel eo durante, ad *Ecclesiam sui iuris* alterius coniugis se transire declaraverit; matrimonio autem soluto, libere potest ad latinam Ecclesiam redire;
->
+
 > 3° filii eorum, de quibus in nn. 1 et 2, ante decimum quartum aetatis annum completum itemque, in matrimonio mixto, filii partis catholicae quae ad aliam *Ecclesiam sui iuris* legitime transierit; adepta vero hac aetate, iidem possunt ad latinam Ecclesiam redire.
->
+
 > §2. Mos, quamvis diuturnus, sacramenta secundum ritum alius *Ecclesiae sui iuris* recipiendi, non secumfert adscriptionem eidem Ecclesiae.
->
+
 > *§3. Omnis transitus ad aliam Ecclesiam sui iuris vim habet a momento declarationis factae coram eiusdem Ecclesiae Ordinario loci vel parocho proprio aut sacerdote ab alterutro delegato et duobus testibus, nisi rescriptum Sedis Apostolicae aliud ferat; et in libro baptizatorum adnotetur.*
 
 **Art. 3.** Paragraphus secunda can. 535 CIC integre sequenti textu substituitur:

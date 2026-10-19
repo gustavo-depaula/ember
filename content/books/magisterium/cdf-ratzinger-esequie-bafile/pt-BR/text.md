@@ -1,9 +1,5 @@
 # Exéquias do Cardeal Corrado Bafile
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***HOMILIA DO CARDEAL JOSEPH RATZINGER NAS EXÉQUIAS DO CARDEAL CORRADO BAFILE***
@@ -27,5 +23,3 @@ Com estas minhas breves observações, desejei frisar o aspecto interior da sua 
 Em Julho de 1975, Corrado Bafile foi chamado a Roma pelo Papa Paulo VI e, no mês de Maio de 1976, criado Cardeal e nomeado Prefeito da Congregação para as Causas dos Santos. *"Vado ad Patrem": * nos quase trinta anos transcorridos desde a sua nomeação como Cardeal manifesta-se cada vez mais visivelmente esta íntima orientação de todo o seu caminho terrestre. O nosso saudoso Purpurado conhecia bem a resposta de Jesus à pergunta levantada pelo Apóstolo S. Tomé, ou seja, qual é o caminho e qual é a meta do nosso itinerário:  "Eu sou o Caminho, a Verdade e a Vida" (*Jo* 14, 6). Ele não conhecia esta resposta exclusivamente sob o ponto de vista intelectual, mas todo o seu ser foi formado e imbuído pela mesma. A sua vida caracterizou-se pela comunhão com Jesus Cristo, Filho de Deus vivo. Neste momento, compreendemos como é actual também a seguinte palavra do Senhor:  "Também vós vos sentis agora tristes, mas Eu hei-de ver-vos de novo! Então, o vosso coração há-de alegrar-se" (*Jo* 16, 22). O Cardeal Bafile viveu com o olhar fixo em Jesus pôs-se a caminho do Pai, rumo ao encontro definitivo com o Senhor ressuscitado, a caminho rumo à alegria que ninguém poderá tirar (cf. *Jo* 16, 22).
 
 *Amém*.
-
-[](#top)

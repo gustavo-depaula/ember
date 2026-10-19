@@ -1,9 +1,5 @@
 # Commentary on Responsa ad quaestiones
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **COMMENTARY ON THE DOCUMENT**
@@ -65,8 +61,6 @@ This new document of the Congregation for the Doctrine of the Faith, which essen
 Catholic ecumenism might seem, at first sight, somewhat paradoxical. The Second Vatican Council used the phrase “*subsistit in*” in order to try to harmonise two doctrinal affirmations: on the one hand, that despite all the divisions between Christians the Church of Christ continues to exist fully only in the Catholic Church, and on the other hand that numerous elements of sanctification and truth do exist outwith the visible boundaries of the Catholic Church whether in the particular Churches or in the ecclesial Communities that are not fully in communion with the Catholic Church. For this reason, the same Decree of Vatican II on ecumenism *[Unitatis Redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_en.html)* introduced the term *fullness* (*unitatis*/*catholicitatis*) specifically to help better understand this somewhat paradoxical situation. Although the Catholic Church has the fullness of the means of salvation, “nevertheless, the divisions among Christians prevent the Church from effecting the fullness of catholicity proper to her in those of her children who, though joined to her by baptism, are yet separated from full communion with her.”[^16] The fullness of the Catholic Church, therefore, already exists, but still has to grow in the brethren who are not yet in full communion with it and also in its own members who are sinners “until it happily arrives at the fullness of eternal glory in the heavenly Jerusalem.”[^17] This progress in fullness is rooted in the ongoing process of dynamic union with Christ: “Union with Christ is also union with all those to whom he gives himself. I cannot possess Christ just for myself; I can belong to him only in union with all those who have become, or will become, his own. Communion draws me out of myself towards him, and thus also towards unity with all Christians.”[^18]
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: PAUL VI, *Discourse* (September 21, 1964): *AAS* 56 (1964) 1012.
 

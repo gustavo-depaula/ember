@@ -1,22 +1,10 @@
 # Notes regarding documentary and procedural aspects of favour of the faith cases
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **NOTES REGARDING DOCUMENTARY AND PROCEDURAL ASPECTS OF FAVOUR OF THE FAITH CASES**
-
-** **
 
 **1) The diocesan Bishop**
 

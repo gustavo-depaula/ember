@@ -1,15 +1,5 @@
 # Nostra aetate
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **A II. Vatikáni Zsinat *NOSTRA AETATE* kezdetű nyilatkozata az Egyház és a nem keresztény vallások kapcsolatáról**

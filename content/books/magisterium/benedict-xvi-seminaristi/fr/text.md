@@ -29,5 +29,3 @@ Chers séminaristes ! J’ai voulu vous montrer par ces lignes combien je pense 
 Vôtre dans le Seigneur  
 
 **BENEDICTUS PP. XVI**
-
-** **

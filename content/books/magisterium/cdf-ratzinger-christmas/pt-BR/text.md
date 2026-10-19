@@ -1,10 +1,6 @@
 # Saudação ao Santo Padre, Natal de 2003
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- ***SAUDAÇÃO DO CARDEAL JOSEPH RATZINGER AO SANTO PADRE, EM NOME DE TODOS OS MEMBROS DA CÚRIA ROMANA***
+***SAUDAÇÃO DO CARDEAL JOSEPH RATZINGER AO SANTO PADRE, EM NOME DE TODOS OS MEMBROS DA CÚRIA ROMANA***
 
 * 22 de Dezembro de 2003*
 
@@ -19,5 +15,3 @@ Com estas palavras Vossa Santidade indicou a direcção e o centro das celebraç
 No fim da sua encíclica sobre a santa eucaristia, Vossa Santidade retomou o fio da *Carta apostólica sobre o rosário*, indicando-nos Maria como mulher eucarística. Partindo da contemplação da Mãe de Deus, Vossa Santidade traduziu o mistério eucarístico no concreto da nossa existência; penso sobretudo na frase:  "Há, portanto, uma analogia profunda entre o *fiat* pronunciado por Maria às Palavras do Anjo, e o amém que cada fiel pronuncia quando recebe o Corpo do Senhor" (VI, 55).
 
 Santo Padre, com estas palavras que falam ao coração, mas ainda mais com o seu exemplo, Vossa Santidade indicou-nos também, ao longo deste ano, o caminho para o futuro. Por isso hoje lhe agradecemos. E, ao dizer-lhe:  Bom Natal e feliz Ano Novo, pedimos-lhe que nos abençoe.
-
-[](#top)

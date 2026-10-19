@@ -1,9 +1,5 @@
 # Instruction sur le respect de la vie humaine naissante et la dignité de la procréation. Réponses à quelques questions d'actualité
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION POUR LA DOCTRINE DE LA FOI
 
 ***I****NSTRUCTION***
@@ -349,8 +345,6 @@ Joseph Card. Ratzinger *Préfet*
 *+* Alberto Bovone *Archevêque tit. de Césarée de Numidie Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: \[\] Jean-Paul II, *Discours aux participants au 81^(e) Congrès de la Société Italienne de Médicine interne et au 82^(e) Congrès de Chirurgie Générale*, 27 octobre 1980: *AAS* 72 (1980) 1126.
 

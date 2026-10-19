@@ -88,6 +88,4 @@ SUAS CAUSAS E SEUS REMÉDIOS
 
 *Dado em Roma, junto a S. Pedro, no dia solene de Páscoa, a 21 de abril do ano de 1878, primeiro ano do Nosso Pontificado.*
 
-* *
-
 **LEÃO XIII, PAPA**

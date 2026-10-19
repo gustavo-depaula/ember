@@ -4,10 +4,6 @@
 
 DE ALIQUIBUS ASPECTIBUS ECCLESIAE PROUT EST COMMUNIO
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO DE DOCTRINA FIDEI
 
 ***LITTERAE AD CATHOLICAE ECCLESIAE EPISCOPOS DE ALIQUIBUS ASPECTIBUS ECCLESIAE PROUT EST COMMUNIO***
@@ -117,8 +113,6 @@ Ut concludat has *Litteras*, Congregatio de Doctrina Fidei, extrema resonans ver
 *Archiep. tit. Caesarien. in Numidia Secretarius*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: \[\] Cf. Const. *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html)*, nn. 4, 8, 13-15, 18, 21, 24-25; Const. *[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lt.html)*, n. 10; Const. *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_lt.html)*, n. 32; Decr. *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_lt.html)*, nn. 2-4, 14-15, 17-19, 22.
 

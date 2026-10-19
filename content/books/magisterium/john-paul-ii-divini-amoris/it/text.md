@@ -6,8 +6,6 @@
 
 ***Sancta Teresia a Iesu Infante et a Sacro Vultu, Doctor Ecclesiae universalis renuntiatur***
 
-*** ***
-
 1\. LA SCIENZA DELL'AMORE DIVINO, che il Padre delle misericordie effonde mediante Gesù Cristo nello Spirito Santo, è un dono, concesso ai piccoli e agli umili, perché conoscano e proclamino i segreti del Regno, nascosti ai dotti e ai sapienti; per questo Gesù ha esultato nello Spirito Santo, rendendo lode al Padre, che così ha disposto (cfr *Lc* 10, 21-22; *Mt* 11,25-26).
 
 Gioisce pure la Madre Chiesa nel costatare come, lungo il corso della storia, il Signore continui a rivelarsi ai piccoli e agli umili, abilitando i suoi eletti, per mezzo dello Spirito che «scruta ogni cosa, anche le profondità di Dio» (1 *Cor* 2, 10), a parlare delle cose «che Dio ci ha donato..., non con un linguaggio suggerito dalla sapienza umana, ma insegnato dallo Spirito, esprimendo cose spirituali in termini spirituali» (1 *Cor* 2,12.13). In questo modo lo Spirito Santo guida la Chiesa verso la verità tutta intera, la provvede di diversi doni, la abbellisce dei suoi frutti, la ringiovanisce con la forza del Vangelo e la rende capace di scrutare i segni dei tempi, per rispondere sempre meglio alla volontà di Dio (cfr *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, n.4.12; *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html)*, n.4).

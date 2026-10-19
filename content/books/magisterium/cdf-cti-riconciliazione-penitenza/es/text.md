@@ -1,13 +1,5 @@
 # La reconciliación y la penitencia, 1982
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL
@@ -29,7 +21,7 @@ COMISIÓN TEOLÓGICA INTERNACIONAL
 > II. [Los fundamentos cristológico](#Los_fundamentos_cristológicos)s  
 > III. [Los fundamentos eclesiales](#Los_fundamentos_eclesiales)  
 > IV. [Fundamentos en la historia de los dogmas y de la teología](#Fundamentos_en_la_historia_de_los_dogmas_y_de_la_teología)
->
+
 > > a\) Las constantes del desarrollo histórico  
 > > b) Las variables del desarrollo histórico  
 > > c) La doctrina del Concilio de Trento

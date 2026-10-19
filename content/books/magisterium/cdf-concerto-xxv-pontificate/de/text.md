@@ -1,9 +1,5 @@
 # Konzert des Mitteldeutschen Rundfunks aus Leipzig anläßlich des XXV. Pontifikatsjubiläums
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 XXV\. PONTIFIKATSJUBILÄUM VON JOHANNES PAUL II.:  
 KONZERT DES MITTELDEUTSCHEN RUNDFUNKS AUS LEIPZIG
 
@@ -26,5 +22,3 @@ Verglichen mit der unzerstörten Gegenwart des Glaubens, die aus Händels »*Hym
 Und Beethoven wußte auch, daß wir dem Vater Jesu trauen dürfen, weil er uns im Sohn nahe geworden ist. Und so dürfen wir den Götterfunken Freude, von dem die Ode redet, ruhig als Gottesfunken verstehen, der sich uns durch die Musik mitteilt und die Gewißheit gibt: Ja, den guten Vater gibt es wirklich, und er ist nicht bloß fern über dem Sternenzelt, sondern durch den Sohn mitten unter uns.
 
 Mit dankbarer Freude darf ich Sie, verehrter Herr Intendant, begrüßen, der Sie dieses Konzert ermöglicht haben, und mit Ihnen den Direktor des Ensembles Herrn Howart Arman, die Solistinnen und die Solisten sowie Chor und Orchester. Wir danken Ihnen, daß Sie uns den Gottesfunken der Freude schenken wollen und wünschen uns, daß er in Ihnen und in uns zünden möge.
-
-[](#top)

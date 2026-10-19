@@ -1,9 +1,5 @@
 # Reflexe nad cíli a metodami této komise - Mezinárodní teologická komise
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **Mezinárodní teologická komise**
 
 **Reflexe nad cíli a metodami této komise**
@@ -46,5 +42,3 @@ Vzhledem ke studiu těchto čtyř témat byly ustanoveny čtyři subkomise. Subk
 Jiná témata budou projednávána později.
 
   **  **
-
-[](#top)

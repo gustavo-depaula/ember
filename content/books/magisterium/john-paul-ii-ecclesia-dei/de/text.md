@@ -4,8 +4,6 @@ JOHANNES PAUL II.
 
 ***APOSTOLISCHES SCHREIBEN "ECCLESIA DEI" IN FORM EINES MOTU PROPRIO***
 
-**** *** ***
-
 1\. Die Kirche Gottes hat mit großer Betrübnis von der unrechtmäßigen Bischofsweihe Kenntnis genommen, die Erzbischof Marcel Lefebvre am vergangenen 30. Juni vorgenommen hat. Dadurch wurden alle Anstrengungen zunichte gemacht, die in den letzten Jahren unternommen worden waren, um der von Msgr. Lefebvre gegründeten Priesterbruderschaft St. Pius X. die volle Gemeinschaft mit der Kirche sicherzustellen. In der Tat blieben alle, besonders in den letzten Monaten sehr intensiven, Bemühungen, in denen der Apostolische Stuhl Geduld und Nachsicht bis an die Grenzen des Möglichen gezeigt hat(1), ohne Erfolg.
 
 2\. Diese Trauer empfindet besonders der Nachfolger Petri, dem es an erster Stelle zukommt, die Einheit der Kirche zu schützen(2), auch wenn die Anzahl derer, die direkt in diese Erreignisse verwickelt sind, klein sein mag; denn jeder Mensch wird um seiner selbst willen von Gott geliebt und wurde durch das Blut Christi erlöst, das zum Heil aller am Kreuz vergossen wurde.

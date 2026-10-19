@@ -29,12 +29,12 @@ II\. Chrystus w centrum realiów afrykańskich: źródło pojednania, sprawiedl
 
 > A. «Pojednajcie się z Bogiem!»  (*2 Kor* 5, 20 b)    
 > B. Stawać się sprawiedliwym i budować sprawiedliwy ład społeczny     
->
+
 > > 1\. *Żyć sprawiedliwością Chrystusa*      
 > > 2. *Tworzyć  sprawiedliwy  ład  w  logice «Błogosławieństw»*  
->
+
 > C. Miłość w prawdzie – źródło pokoju
->
+
 > > 1\. *Konkretna służba braterska* 2. *Kościół jako strażnik* 
 
 **Rozdział II [Obszary pojednania, sprawiedliwości i pokoju](#OBSZARY%20POJEDNANIA,)**
@@ -68,10 +68,10 @@ IV\. Dialog i wspólnota między wierzącymi
 
 > A. Dialog ekumeniczny i nowe ruchy religijne jako wyzwanie     
 > B. Dialog międzyreligijny
->
+
 > > 1\. *Tradycyjne religie afrykańskie*   
 > > 2. *Islam*  
->
+
 > C. Stawać się «solą dla ziemi» i «światłem świata»   
 
 **[Część druga](#Cz%C4%99%C5%9B%C4%87%20druga) «Wszystkim  zaś objawia się duch dla  \[wspólnego\] dobra»**
@@ -683,8 +683,6 @@ w świecie. Są oni również powołani do współpracy z łaską Ducha Święte
 177\. Niech Kościół katolicki będzie zawsze jednym z duchowych płuc ludzkości i każdego dnia coraz bardziej staje się błogosławieństwem dla szlachetnego kontynentu afrykańskiego i dla całego świata!
 
 *W Ouidah, w Beninie, 19 listopada 2011, w siódmym roku mojego Pontyfikatu.*
-
-* *
 
 **BENEDICTUS PP. XVI**
 

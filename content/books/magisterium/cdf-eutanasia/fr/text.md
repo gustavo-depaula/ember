@@ -1,20 +1,10 @@
 # Déclaration Iura et bona sur l’euthanasie, 5 mai 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***DÉCLARATION "IURA ET BONA" SUR L'EUTHANASIE ET SUR S'OBSERVATION D'UN USAGE THÉRAPEUTIQUE DROIT ET PROPORTIONNÉ DES MÉDICAMENTS ANALGÉSIQUES (\*)***
-
-*** ***
 
 **Introduction**
 
@@ -105,8 +95,6 @@ A Rome, au siège de la Congrégation, le 5 mai 1980.
 **Franjo card. ŠEPER,** *Préfet*
 
 **+ Jérôme HAMER, O.P., Arch. tit. di Lorium** *Secrétaire.*
-
-* *
 
 ------------------------------------------------------------------------
 

@@ -79,3 +79,5 @@ Imparto a tutti di gran cuore la benedizione apostolica.
 Dato a Roma, presso san Pietro, nella memoria liturgica di san Giovanni Damasceno, presbitero e dottore della Chiesa, il 4 dicembre 1987, decimo di pontificato.
 
 IOANNES PAULUS II
+
+Copyright © Libreria Editrice Vaticana

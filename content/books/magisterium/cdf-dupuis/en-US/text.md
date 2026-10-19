@@ -2,10 +2,6 @@
 
 Notification 'Dupuis'
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***NOTIFICATION* on the book *Toward a Christian Theology of Religious Pluralism* (Orbis Books: Maryknoll, New York 1997) by Father *JACQUES DUPUIS, S.J.***
@@ -60,8 +56,6 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, Januar
 \+ Tarcisio BERTONE, S.D.B. *Archbishop Emeritus of Vercelli Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Because of  tendencies in some circles, which have become increasingly evident in the thinking of the Christian faithful, the Congregation for the Doctrine of the Faith published the Declaration '*Dominus Iesus*'‌ *on the Unicity and Salvific Universality of Jesus Christ and the Church* (*AAS* 92 \[2000\], 742-765) in order to protect essential truths of the Catholic faith. The *Notification* draws from the principles expressed in *Dominus Iesus* in its evaluation of Father Dupuis' book.
 

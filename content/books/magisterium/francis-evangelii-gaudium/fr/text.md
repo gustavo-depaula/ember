@@ -1,6 +1,5 @@
 # Evangelii Gaudium
 
-[](/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium_fr.pdf)  
 DOWNLOAD PDF
 
 EXHORTATION APOSTOLIQUE  

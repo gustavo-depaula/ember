@@ -1,13 +1,5 @@
 # Bekanntmachung, mit der von Neuem die kanonischen Strafen gegen den Erzbischof Pierre-Martin Ngô-dińh-Thuc und seine Mittäter wegen der widerrechtlichen Weihe von Priestern und Bischöfen kundgetan werden, 12. März 1983
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Heilige Kongregation für die Glaubenslehre**

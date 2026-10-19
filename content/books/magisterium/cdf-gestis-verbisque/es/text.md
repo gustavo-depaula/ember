@@ -1,15 +1,5 @@
 # Nota Gestis Verbisque sobre la validez de los sacramentos
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](https://www.vatican.va/content/romancuria/it/dicasteri/dicastero-dottrina-fede.index.html)
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIO PARA LA DOCTRINA DE LA FE

@@ -1,9 +1,5 @@
 # Exequias del Card. Corrado Bafile - Homilía del Card. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 EXEQUIAS EN SUFRAGIO DEL CARDENAL CORRADO BAFILE
 
 ***HOMILÍA DEL CARDENAL JOSEPH RATZINGER, DECANO DEL COLEGIO CARDENALICIO, DURANTE LA CONCELEBRACIÓN EUCARÍSTICA PRESIDIDA EN NOMBRE DEL SANTO PADRE JUAN PABLO II** Sábado 5 de febrero de 2005*
@@ -29,5 +25,3 @@ En julio de 1975 Corrado Bafile fue llamado por el Papa Pablo VI a Roma y, en ma
 No sólo conocía intelectualmente esta respuesta; todo su ser se formó y quedó impregnado por ella. Vivió una vida de comunión con Jesucristo, el Hijo de Dios vivo. En este momento percibimos también la actualidad de estas otras palabras del Señor:  "Vosotros ahora estáis tristes, pero volveré a veros y se alegrará vuestro corazón" (*Jn* 16, 22). El cardenal Bafile vivió con la mirada puesta en Jesús, en camino hacia el Padre, en camino hacia el encuentro definitivo con el Señor resucitado, en camino hacia la alegría que nadie puede quitar (cf.* Jn* 16, 23).  
 
 Amén.
-
-[](#top)

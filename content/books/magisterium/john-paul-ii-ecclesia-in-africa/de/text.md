@@ -824,5 +824,3 @@ der Stadt der Gerechtigkeit,
 der Liebe und des Friedens.
 
 *Gegeben zu Yaoundé, in Kamerun, am 14. September, dem Fest der Kreuzerhöhung, des Jahres 1995, dem siebzehnten meines Pontifikats.*
-
-* *

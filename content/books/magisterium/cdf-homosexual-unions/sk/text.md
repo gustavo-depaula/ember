@@ -1,9 +1,5 @@
 # ÚVAHY O NÁVRHOCH NA PRÁVNE UZNANIE ZVÄZKOV MEDZI HOMOSEXUÁLNYMI OSOBAMI
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGÁCIA PRE NÁUKU VIERY
 
 **ÚVAHY O NÁVRHOCH NA PRÁVNE UZNANIE ZVÄZKOV MEDZI HOMOSEXUÁLNYMI OSOBAMI**\*
@@ -135,5 +131,3 @@ Poznámky
 \[18\] JÁN PAVOL II.: encyklika Evangelium vitae 73, 25. marec 1995.
 
 \* www.kbs.sk
-
-[](#top)

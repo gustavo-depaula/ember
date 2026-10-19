@@ -57,5 +57,3 @@ Vogliamo infine che questa Nostra Costituzione sia stabile, valida ed efficace e
 *Dato a Roma, presso San Pietro, il 7 ottobre, nella memoria della Beata Vergine del Rosario, l'anno 1982, quarto del Nostro Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-* *

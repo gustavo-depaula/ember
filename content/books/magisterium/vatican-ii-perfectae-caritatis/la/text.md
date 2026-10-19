@@ -1,15 +1,5 @@
 # Perfectae caritatis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAULUS EPISCOPUS  
@@ -31,13 +21,13 @@ Ut autem praestans valor vitae per consiliorum professionem consecratae eiusque 
 2\. Accommodata renovatio vitae religiosae simul complectitur et continuum reditum ad omnis vitae christianae fontes primigeniamque institutorum inspirationem et aptationem ipsorum ad mutatas temporum condiciones. Quae renovatio, sub impulsu Spiritus Sancti et Ecclesia duce, promovenda est secundum principia quae sequuntur:
 
 > a\) Cum vitae religiosae ultima norma sit Christi sequela in Evangelio proposita, haec ab omnibus institutis tamquam suprema regula habeatur.
->
+
 > b\) In ipsum Ecclesiae bonum cedit ut instituta peculiarem suam indolem ac munus habeant. Ideo fideliter agnoscantur et serventur Fundatorum spiritus propriaque proposita, necnon sanae traditiones, quae omnia cuiusque instituti patrimonium constituunt.
->
+
 > c\) Omnia instituta vitam Ecclesiae participent, eiusque incoepta et proposita ut in re biblica, liturgica, dogmatica, pastorali, oecumenica, missionali et sociali, iuxta propriam suam indolem, sua faciant et pro viribus foveant.
->
+
 > d\) Instituta, de hominum temporumque condicionibus deque Ecclesiae necessitatibus, congruam cognitionem apud sodales suos promoveant; ita ut mundi huius aetatis adiuncta in lumine fidei sapienter diiudicantes, atque zelo apostolico exardescentes, efficacius hominibus subvenire valeant.
->
+
 > e\) Cum vita religiosa ante omnia ad hoc ordinetur ut sodales Christum sequantur et Deo uniantur per professionem consiliorum evangelicorum, serio perpendendum est optimas accommodationes ad necessitates temporis nostri peractas effectum non sortiri, nisi animentur renovatione spirituali, cui semper etiam in operibus externis promovendis primae partes tribuendae sunt.
 
 3\. Ratio vivendi, orandi et operandi hodiernis sodalium condicionibus physicis et psychicis, necnon, prout ab indole cuiusque instituti requiritur, apostolatus necessitatibus, culturae exigentiis, circumstantiis socialibus et oeconomicis, ubique, praesertim in missionum locis, apte conveniat.

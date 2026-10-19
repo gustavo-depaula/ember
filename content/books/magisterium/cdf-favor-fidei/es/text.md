@@ -1,9 +1,5 @@
 # Normas para realizar el proceso para la disolución del vínculo matrimonial en favor de la fe, 30 abril 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NORMAS PARA REALIZAR EL PROCESO PARA LA DISOLUCIÓN DEL VÍNCULO MATRIMONIAL EN FAVOR DE LA FE**
@@ -64,7 +60,7 @@ Art. 4
 Para conceder la gracia de la disolución del vínculo se requiere que, en el momento de la concesión:
 
 > 1.° no haya ninguna posibilidad de restaurar la unión de la vida conyugal;
->
+
 > 2.° la parte peticionaria no haya sido la causa culpable, exclusiva o prevalente, del fracaso de la unión matrimonial, ni la parte con la que vaya a contraer o convalidar un nuevo matrimonio haya provocado por su culpa la separación de los cónyuges.
 
 Art. 5
@@ -198,5 +194,3 @@ Art. 25
 § 1. El Obispo envíe a la Congregación para la Doctrina de la Fe tres ejemplares de todas las actas, transcritos en letra impresa, junto con su voto y las observaciones del defensor del vínculo, acompañados de un índice del contenido y un sumario.
 
 § 2. Procure también que las actas de la causa escritas en el estilo y lengua del lugar, sean traducidas a alguna de las lenguas reconocidas en el ordenamiento de la Curia Romana, con la garantía firmada bajo juramento de su fiel trascripción y traducción.
-
-[](#top)

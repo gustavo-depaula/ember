@@ -447,5 +447,3 @@ Voilà, chers Frères et Sœurs, la tâche des familles chrétiennes et le souci
 C'est dans ces sentiments que je bénis chaque famille au nom de la Très Sainte Trinité, Père, Fils et Saint-Esprit.
 
 *Donné à Rome, près de Saint-Pierre, le 2 février 1994, fête de la Présentation du Seigneur, en la seizième année de mon pontificat.*
-
-*  *

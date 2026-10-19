@@ -1,9 +1,5 @@
 # The Opus Sanctorum Angelorum - Illustrative Article
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **The *Opus Sanctorum Angelorum***[^1]
 
 The Congregation for the Doctrine of Faith sent to the presidents of the Bishops’ conferences a [circular letter on the association “Opus Angelorum”](rc_con_cfaith_doc_20101002_opus-angelorum_en.html) that was dated October 2, 2010. It was then published in the *L’Osservatore Romano* on November 24, 2010, p. 17. In this letter, the Congregation informs in particular about the approbation of the “Statutes of the *Opus Sanctorum Angelorum*” by the *Congregation for Institutes of Consecrated Life and Societies of Apostolic Life* and about the approbation of the “formula of a consecration to the Holy Angels for the *Opus Angelorum*” by the Congregation for the Doctrine of Faith. It seems therefore opportune to describe briefly the spirituality of this *Work of the Holy Angels*, which in its present state “is a public association of the Church in conformity with traditional doctrine and with the directives of the Holy See. It spreads devotion to the Holy Angels among the faithful, exhorts them to pray for priests, and promotes love for Christ in His Passion and union with it” (Letter of the CDF).
@@ -41,8 +37,6 @@ With the approbation of the *Opus Ss. Angelorum*, the Church has given her bless
 ------------------------------------------------------------------------
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Decree *Litteris diei* of the Congregation for the Doctrine of Faith, June 6, 1992.
 

@@ -433,5 +433,3 @@ May *Mary,* who "is a model of the Church in the matter of faith, charity, and p
 With these sentiments, I impart the Apostolic Blessing to all the faithful, and in a special way to women, my sisters in Christ.
 
 *Given in Rome, at Saint Peter's, on 15 August, the Solemnity of the Assumption of the Blessed Virgin Mary, in the year 1988, the tenth of my Pontificate.*
-
-*   *

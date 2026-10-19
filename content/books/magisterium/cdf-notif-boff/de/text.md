@@ -1,9 +1,5 @@
 # Sacerdotium ministeriale
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ** Notifikation zu dem Buch „Kirche: Charisma und Macht. Versuch einer militanten Ekklesiologie“ von Pater Leonardo Boff OFM **
 
 **Einführung **
@@ -61,5 +57,3 @@ Präfekt
 
 Erzbischof Alberto Bovone  
 Sekretär
-
-[](#top)

@@ -1,9 +1,5 @@
 # INŠTRUKCIA O MODLITBÁCH ZA UZDRAVENIE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGÁCIA PRE NÁUKU VIERY**
 
 ***INŠTRUKCIA O MODLITBÁCH ZA UZDRAVENIE\****
@@ -189,5 +185,3 @@ Sekretár
 \[32\] Porov. Rituale Romanum, Ex Decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum, Auctoritate Ionnis Pauli II promulgatum, De Exorcismis et Supplicationibus quibusdam, Editio typica, Typis Vaticanis, MIM, Praenotanda, č. 13 - 19.
 
 \* [www.kbs.sk](http://www.kbs.sk)
-
-[](#top)

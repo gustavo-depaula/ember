@@ -1,9 +1,5 @@
 # De auctore, de tempore compositionis et de historica veritate Evangeliorum secundum Marcum et secundum Lucam - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE AUCTORE, DE TEMPORE COMPOSITIONIS ET DE HISTORICA VERITATE EVANGELIORUM SECUNDUM MARCUM ET SECUNDUM LUCAM**
@@ -50,7 +46,3 @@ R. Affirmative ad primam partem, negative ad alteram.
 
 Fulcranus Vigoroux, Gr.S.Sulp.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-* *
-
-[](#top)

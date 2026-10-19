@@ -21,5 +21,3 @@ Certainly We have reason to rejoice, and the Catholic world, on account of itsre
 *Given at Rome, at St. Peter's, the fifteenth day of April, 1902, in the twenty-fifth year of Our Pontificate.*
 
 **LEO XIII**
-
-*    *

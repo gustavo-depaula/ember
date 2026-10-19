@@ -4,8 +4,6 @@ BREVE
 ***CHARITAS QUAE*** DEL SOMMO PONTEFICE  
 **PIO VI**
 
-* *
-
 *Ai diletti Nostri Figli Cardinali di Santa Romana Chiesa ed ai Venerabili Fratelli Arcivescovi e Vescovi, e ai diletti Figli dei Capitoli, al Clero e al Popolo del Regno di Francia. Il Papa Pio VI. Diletti Figli Nostri, Venerabili Fratelli e diletti Figli, salute e Apostolica Benedizione.*
 
 1\. La carità, che – come insegna l’apostolo Paolo – è paziente e benigna, tollera e sopporta tutto, fintanto che rimane la speranza che per mezzo della mansuetudine ci si possa opporre agli errori che ormai hanno cominciato a farsi strada. Tuttavia, se gli errori crescono di giorno in giorno, a tal punto da far precipitare nello scisma, allora le stesse leggi della carità, strettamente congiunte agl’impegni apostolici, che indegnamente svolgiamo, richiedono ed impongono che sia approntata una medicina – paterna, ma pronta ed altrettanto efficace – contro la malattia incipiente, dopo aver mostrato a coloro che sbagliano l’orrore della colpa e la gravità delle pene canoniche nelle quali sono incorsi. In tal modo, coloro che si sono allontanati dalla via della verità possono riaversi e, abiurati gli errori, potranno rientrare nella Chiesa che, come madre affettuosa, accoglierà a braccia aperte il loro ritorno; e gli altri fedeli eviteranno opportunamente gl’inganni degli pseudo-pastori, i quali (entrati nell’ovile in tutti i modi, ma non per la porta) non chiedono altro se non di rubare, uccidere, distruggere.

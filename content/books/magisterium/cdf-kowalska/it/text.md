@@ -1,13 +1,5 @@
 # Notificazione circa la devozione alla Divina Misericordia nelle forme proposte da Suor Faustina Kowalska, 15 aprile 1978
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Sacra Congregazione per la dottrina della fede**

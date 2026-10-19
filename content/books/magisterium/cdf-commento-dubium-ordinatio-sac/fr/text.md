@@ -1,9 +1,5 @@
 # A propos de la Réponse de la Congrégation pour la Doctrine de la Foi sur la doctrine de la Lettre apostolique Ordinatio sacerdotalis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **A propos de la Réponse de la Congrégation pour la Doctrine de la Foi sur la doctrine de la Lettre apostolique Ordinatio sacerdotalis**
 
 Quelques réflexions semblent opportunes à 1^(’)occasion de la publication de la Réponse de la Congrégation pour la Doctrine de la Foi à une question sur la raison de considérer comme “définitive tenenda” la doctrine exposée dans la Lettre apostolique “*[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html)*”.
@@ -31,5 +27,3 @@ Devant cet acte magistériel précis du Pontife Romain, adressé explicitement �
 Enfin, n’ont pas manqué certains commentaires de la Lettre “*[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html)*” selon lesquels cette dernière constituerait une difficulté supplémentaire et inopportune sur le chemin déjà difficile du mouvement œcuménique. A ce sujet, il ne faut pas oublier que selon la lettre et l’esprit de Vatican II (cf. Décret “*[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_fr.html)*”, 11), l’authentique engagement œcuménique, auquel l’Église catholique ne veut et ne peut se soustraire, exige une pleine sincérité et clarté dans la présentation de l’identité de sa propre Église. De plus, il faut souligner que la doctrine réaffirmée par la Lettre “*[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_fr.html)*” ne peut pas ne pas être utile à la recherche de la pleine communion avec les Églises orthodoxes qui, conformément à la Tradition, ont maintenu, et maintiennent avec fidélité cet enseignement.
 
 L’originalité singulière de l’Église et du sacerdoce ministériel au dedans d’elle demande clarté et précision des critères. Concrètement, il ne faut jamais perdre de vue que ce n’est pas dans les principes de la vie sociale à chaque moment de l’histoire que l’Église trouve la source de sa propre foi et de sa propre structure. Bien qu’elle considère avec attention le monde dans lequel elle vit et pour le salut duquel elle agit, elle a conscience d’être porteuse d’une fidélité supérieure à laquelle elle est liée. Il s’agit de la radicale fidélité à la Parole de Dieu reçue par l’Église, qui, elle-même, est établie par le Christ jusqu’à la fin des temps. Cette parole de Dieu, quand elle proclame la valeur essentielle et le destin éternel de chaque personne, manifeste le fondement ultime de la dignité de chaque être humain, de chaque homme et de chaque femme.
-
-[](#top)

@@ -3,8 +3,6 @@
 LETTERA ENCICLICA ***LAUDATO SI’*** DEL SANTO PADRE  
 **FRANCESCO** SULLA CURA DELLA CASA COMUNE
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_it.pdf)
-
 1. «Laudato si’, mi’ Signore», cantava san Francesco d’Assisi. In questo bel cantico ci ricordava che la nostra casa comune è anche come una sorella, con la quale condividiamo l’esistenza, e come una madre bella che ci accoglie tra le sue braccia: «Laudato si’, mi’ Signore, per sora nostra matre Terra, la quale ne sustenta et governa, et produce diversi fructi con coloriti flori et herba».[^1]
 
 2. Questa sorella protesta per il male che le provochiamo, a causa dell’uso irresponsabile e dell’abuso dei beni che Dio ha posto in lei. Siamo cresciuti pensando che eravamo suoi proprietari e dominatori, autorizzati a saccheggiarla. La violenza che c’è nel cuore umano ferito dal peccato si manifesta anche nei sintomi di malattia che avvertiamo nel suolo, nell’acqua, nell’aria e negli esseri viventi. Per questo, fra i poveri più abbandonati e maltrattati, c’è la nostra oppressa e devastata terra, che «geme e soffre le doglie del parto» (*Rm* 8,22). Dimentichiamo che noi stessi siamo terra (cfr *Gen* 2,7). Il nostro stesso corpo è costituito dagli elementi del pianeta, la sua aria è quella che ci dà il respiro e la sua acqua ci vivifica e ristora.

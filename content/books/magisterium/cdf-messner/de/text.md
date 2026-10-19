@@ -1,9 +1,5 @@
 # Notifikation bezüglich einiger Veröffentlichungen von Professor Dr. Reinhard Meßner
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 **** ***NOTIFIKATION* bezüglich einiger Veröffentlichungen *von Professor DR. REINHARD MESSNER***
@@ -27,8 +23,6 @@ Im zweiten Jahrhundert erkennt Meßner dann eine «tiefe Zäsur», den «Überga
 Die Habilitationsschrift von R. Meßner «Feiern der Umkehr und Versöhnung» (in: Gottesdienst der Kirche. Handbuch der Liturgiewissenschaft. Hrsg. von H. B Meyer u. a., Teil 7, 2: R. Meßner-R. Kaczynski, Sakramentliche Feiern I/2. Regensburg 1992, Seite 49-240) diskutiert nicht erneut die Grundlegungsfragen, geht aber von denselben methodischen Voraussetzungen aus. Das Werk bietet ohne Zweifel bedenkenswerte Einsichten in den Gang der Bußgeschichte, wirft aber wiederum hinsichtlich der Herkunft des Sakraments von Christus, des Spenders des Sakraments und seiner Unterscheidung von nichtsakramentalen Formen der Vergebung ähnlich tiefgehende Fragen auf, die über den Bereich der theologischen Diskussion hinaus den Glauben der Kirche als solchen berühren.
 
 Die Kongregation für die Glaubenslehre hat angesichts des Ernstes der hier erscheinenden Fragen im Januar 1998 gemäß ihrer *Agendi ratio in doctrinarum examine* (1997) die Problematik der beiden Werke von Meßner studiert und ihm, der ihr übertragenen Verantwortung entsprechend, am 26. September 1998 über den Bischof von Innsbruck, Dr. Alois Kothgasser, ihre kritischen Ausstellungen zu seinen Arbeiten vorgelegt. Professor Meßner hat mit Datum vom 13. November 1998 auf dieses Schreiben der Kongregation geantwortet und eine Reihe von weiterführenden Klärungen vorgenommen, die allerdings nicht ausreichten, um die Probleme in ihrer Ganzheit zu bereinigen. Die Kongregation hat deshalb unter dem Datum vom 12. August 1999 die verbleibenden Bedenken dargestellt, auf die Professor Meßner am 3. November 1999 geantwortet hat. Auch die zweite Antwort brachte Fortschritte und Klärungen, aber keine eindeutige Lösung bezüglich der Grundentscheidungen seines Buches im Verhältnis zur Glaubenslehre der Kirche. Die Kongregation für die Glaubenslehre sieht es nicht als ihre Aufgabe an, in die historischen und systematischen Debatten einzugreifen, die sich in den beiden Büchern finden. Sie beabsichtigt daher auch nicht, eine abschließende Interpretation dieser Werke vorzulegen. Sie läßt selbstverständlich die rein theologischen Fragen offen, sieht es aber als ihre Pflicht an, unzweideutig die Glaubenslehren herauszustellen, die bei diesen Diskussionen festgehalten werden müssen, wenn eine Theologie als «katholisch» angesehen werden soll. Diese Glaubenslehren werden im Folgenden im Blick auf die Probleme der Schriften dem Verfasser zur Annahme vorgelegt. Sie bilden den verpflichtenden Maßstab für die Verbesserung und Klärung der einzelnen Aussagen der Bücher und für die künftigen Veröffentlichungen des Autors in dieser Materie.  
-
-** **
 
 **I DIE QUELLEN DES GLAUBENS**
 
@@ -88,8 +82,6 @@ Nicht aus eigenem Vermögen und nicht durch einen menschlichen Auftrag, etwa von
 
 *Papst Johannes Paul II. hat in der dem unterzeichneten Sekretär am 27. Oktober 2000* *gewährten Audienz die vorliegende Notifikation, die in der Ordentlichen Versammlung dieser Kongregation beschlossen worden war, approbiert und deren Veröffentlichung angeordnet.*
 
-* *
-
 Rom, am Sitz der Kongregation für die Glaubenslehre, dem 30. November 2000.
 
 +Joseph Card. RATZINGER  
@@ -101,8 +93,6 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, dem 30. November 2000.
 ------------------------------------------------------------------------
 
 Die Konzilsväter von Trient waren sich der Unterscheidung von «apostolischer Tradition» und «Traditionen» der Kirche sehr wohl bewußt. Sie waren sich auch darüber im klaren, daß sie neben geoffenbartem, aus Schrift und Tradition geschöpftem Glauben auch andere Überzeugungen und Gebräuche vorlegten, die sich nicht von der Offenbarung herleiteten, z.B. im Dekret über das Bußsakrament. Die Konzilsväter haben also zwischen «Tradition» und faktischen römisch-katholischen Bräuchen unterschieden. Geschichtlich ist es auch nicht haltbar, daß Trient sich immer und nur gegen vermeintliche falsche Lehren der Reformatoren gewandt habe.
-
-[](#top)
 
 [^1]: «Itaque praedicatio apostolica, quae in inspiratis libris in speciali modo exprimiturÂÂÂ…» (II. Vatikanisches Konzil, *Dei Verbum* 8).
 

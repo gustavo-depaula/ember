@@ -85,5 +85,3 @@ Que Marie, Reine de l'amour, veille sur les femmes et sur leur mission au servic
 Avec ma Bénédiction.
 
 *Du Vatican, le 29 juin 1995, solennité des saints Apôtres Pierre et Paul.*
-
-*  *

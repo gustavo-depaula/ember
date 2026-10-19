@@ -1,15 +1,5 @@
 # Carta al Obispo de Brescia sobre la devoción a María Rosa Mística (Montichiari)
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIO PARA LA DOCTRINA DE LA FE

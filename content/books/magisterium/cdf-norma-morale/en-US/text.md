@@ -1,9 +1,5 @@
 # The moral norm of Humanae Vitae and pastoral duty
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***The moral norm of “Humanae Vitae” and pastoral duty***\*
 
 *With reference to a recent public statement on the teaching of the Magisterium concerning “Humanae Vitae”, made by a well-known moral theologian and widely reported by the press, we publish the following clarifications.*
@@ -61,5 +57,3 @@ With this teaching on the morality of married life, the Magisterium of the Churc
 \* \* \*
 
 \* *L’Osservatore Romano*, English Edition, N. 9, 27 February 1989, Page 7.
-
-[](#top)

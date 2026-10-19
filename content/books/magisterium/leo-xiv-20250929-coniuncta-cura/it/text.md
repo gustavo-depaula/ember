@@ -26,5 +26,3 @@ Quanto deliberato con questa Lettera Apostolica, ordino che abbia fermo e stabil
 *Dato a Roma, presso San Pietro, il giorno 29 settembre dell’anno 2025, Festa dei Santi Arcangeli Michele, Gabriele e Raffaele, primo del Pontificato.*
 
 LEONE PP. XIV
-
-* *

@@ -1,9 +1,5 @@
 # Replies to questions on the interpretation of the decree Ecclesiae Pastorum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Sacred Congregation for the Doctrine of the Faith**
 
 ***Replies to questions on the interpretation of the decree “Ecclesiae Pastorum”***\*
@@ -151,5 +147,3 @@ a\) If approval is requested for the *mere publication* of a catechism, without 
 b\) If approval is requested *for catechisms intended for the official catechesis of the diocese*, in addition to the orthodoxy of the content and the universal norms of catechesis, the Ordinary must take into consideration both the particular rules he himself has decreed in view of the concrete needs of the diocese (new Code, can. 775, par. 1) and the norms set by the Episcopal Conference and approved by the Holy See (*Directorium Catechisticum Generale*, n. 134).
 
 \* *L’Osservatore Romano*, English Edition, 19 December 1983, Pages 9. 11.
-
-[](#top)

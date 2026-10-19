@@ -1,9 +1,5 @@
 # Testi liturgici in onore di San Giovanni XXIII, Papa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 11 ottobre
@@ -87,5 +83,3 @@ R. e le potenze degli inferi non prevarranno su di essa.
 Orazione
 
 Dio onnipotente ed eterno, che in san Giovanni, papa, hai fatto risplendere in tutto il mondo l’immagine viva di Cristo, buon pastore, concedi a noi, per sua intercessione, di effondere con gioia la pienezza della carità cristiana. Per il nostro Signore.
-
-[](#top)

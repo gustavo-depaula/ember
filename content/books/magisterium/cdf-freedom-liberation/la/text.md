@@ -1,21 +1,11 @@
 # Instructio de libertate christiana et liberatione, d. 22 m. Martii a. 1986, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO PRO DOCTRINA FIDEI  
 ***INSTRUCTIO DE LIBERTATE CHRISTIANA ET LIBERATIONE\****
 
 *«Veritas nos liberat»*
-
-* *
 
 **INTRODUCTIO**
 

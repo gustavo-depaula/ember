@@ -1,9 +1,5 @@
 # Notificación sobre algunas publicaciones del Profesor Reinhard Messner, 30 noviembre 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE ALGUNAS PUBLICACIONES DEL PROF. DR. REINHARD MESSNER**
@@ -97,8 +93,6 @@ No por su poder ni por un encargo humano, por ejemplo, por encargo de la comunid
 ------------------------------------------------------------------------
 
 Los padres del Concilio de Trento eran muy conscientes de la diferencia entre «Tradición apostólica» y «tradiciones» de la Iglesia. Tenían muy claro también, por ejemplo en el decreto sobre el sacramento de la penitencia, que, junto con contenidos de fe revelada, tomada de la Escritura y de la Tradición, presentaban también otras convicciones y costumbres que no derivaban de la Revelación. Los padres del Concilio también distinguieron entre «Tradición» y costumbres de hecho católico-romanas. Históricamente tampoco se puede sostener que Trento siempre y sólo se haya dirigido contra presuntas doctrinas falsas de los Reformadores.
-
-[](#top)
 
 [^1]: «Así pues, la predicación apostólica, que se expresa especialmente en los libros inspirados...» (*[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html)*, 8).
 

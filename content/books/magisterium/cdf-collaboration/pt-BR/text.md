@@ -1,9 +1,5 @@
 # Carta aos Bispos da Igreja Católica sobre a colaboração do homem e da mulher na Igreja e no mundo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CARTA AOS BISPOS DA IGREJA CATÓLICA SOBRE A COLABORAÇÃO DO HOMEM E DA MULHER NA IGREJA E NO MUNDO**
 
 **INTRODUÇÃO**
@@ -182,5 +178,3 @@ Arcebispo titular de Sila *Secretário*
 ²¹Carta enc. *Laborem exercens* (14 de Setembro de 1981), 19: *AAS* 73 (1981), 627.
 
 ²²Cfr João Paulo II, Carta apost. *Ordinatio sacerdotalis* (22 de Maio de 1994): *AAS* 86 (1994), 545-548; Congregação para a Doutrina da Fé, Resposta à dúvida sobre a doutrina da Carta apostólica *Ordinatio sacerdotalis* (28 de Outubro de 1995): *AAS* 87 (1995), 1114.
-
-[](#top)

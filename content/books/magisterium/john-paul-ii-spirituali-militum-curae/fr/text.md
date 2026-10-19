@@ -8,8 +8,6 @@ CONSTITUTION APOSTOLIQUE
 
 ***SPIRITUALI MILITUM CURAE***
 
-*** ***
-
 Avec une louable sollicitude, l’Église s’est toujours efforcée de pourvoir à l’assistance spirituelle des militaires, selon les diverses exigences.
 
 Car ils constituent en fait un groupe social déterminé et, « à cause des conditions particulières de leur vie » \[[^1]\], soit qu’ils fassent partie des forces armées volontairement et de manière stable, soit qu’ils y soient appelés par la loi pour un temps déterminé, ils ont besoin d’une forme concrète et spécifique d’assistance pastorale. Au cours des temps, la hiérarchie, et en particulier les Pontifes romains, à cause de leur devoir de service ou « diaconie » \[[^2]\], ont pourvu à cette exigence, dans chaque cas, de la meilleure manière possible, par une juridiction qui correspondait davantage aux personnes et aux circonstances. Ainsi furent constituées peu à peu des structures ecclésiastiques en chaque nation, auxquelles on nommait un prélat muni des facultés nécessaires \[[^3]\].
@@ -100,11 +98,7 @@ Nous voulons que ces dispositions et normes soient valables et efficaces mainten
 
 *Donné à Rome, près de Saint-Pierre, le 21 avril de l’année 1986, huitième de notre pontificat.*
 
-** **
-
 **JEAN-PAUL II**
-
-** **
 
 ------------------------------------------------------------------------
 

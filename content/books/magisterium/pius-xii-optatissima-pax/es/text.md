@@ -52,8 +52,6 @@ Entre las angustias presentes, ponemos gran confianza en las oraciones de los ni
 
 **Notas**
 
-* *
-
 [^1]: San Agustín, *"De Civitate Dei,* lib. 19, cap. XIII; Santo Tomás, II, II, 29, ad primum"*.*
 
 [^2]: Cicerón, *2ª Filípica,* cap. 44.

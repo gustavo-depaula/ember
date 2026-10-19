@@ -1,9 +1,5 @@
 # El presbítero, pastor y guía de la comunidad parroquial
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA EL CLERO
 
 ***“EL PRESBÍTERO, PASTOR Y GUÍA DE LA COMUNIDAD PARROQUIAL”***
@@ -385,8 +381,6 @@ Oh “Madre de los Sacerdotes”,
 Amén
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Juan Pablo II, Carta a los Sacerdotes con ocasión del Jueves Santo de 2001 (25 de marzo de 2001), n. 1.
 

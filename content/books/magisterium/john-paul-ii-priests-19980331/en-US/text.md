@@ -2,8 +2,6 @@
 
 **LETTER OF THE HOLY FATHER POPE JOHN PAUL II *TO PRIESTS* FOR HOLY THURSDAY 1998**
 
-**   **
-
 *My dear Brothers in the Priesthood!*
 
 With mind and heart turned to the Great Jubilee, the solemn celebration of the second millennium of the birth of Christ and the beginning of the third Christian millennium, I wish to join you in invoking the Spirit of the Lord, to whom we dedicate in a special way the second stage of the spiritual journey of immediate preparation for the Holy Year of 2000.
@@ -149,5 +147,3 @@ Come, Holy Spirit! Come, that our service of God and our brothers and sisters ma
 Assuring you once more of my affection and wishing you the consolations of God in your ministry, I impart to you with all my heart a special Apostolic Blessing.
 
 *From the Vatican, on 25 March, Solemnity of the Annunciation of the Lord in the year 1998, the twentieth of my Pontificate.*
-
-*  *

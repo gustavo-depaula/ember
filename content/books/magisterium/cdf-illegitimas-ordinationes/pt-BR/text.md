@@ -1,13 +1,5 @@
 # Decreto sobre algumas ilegítimas ordenações presbiteriais e episcopais, 17 de setembro de 1976
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ

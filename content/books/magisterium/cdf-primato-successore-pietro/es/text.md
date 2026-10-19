@@ -1,9 +1,5 @@
 # El primado del Sucesor de Pedro en el ministerio de la Iglesia- Consderaciones, 31 octubre 1998
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***EL PRIMADO DEL SUCESOR DE PEDRO EN EL MISTERIO DE LA IGLESIA***
@@ -74,8 +70,6 @@ En consecuencia, no es buscando el mínimo de atribuciones ejercidas en la histo
 ------------------------------------------------------------------------
 
 **NOTAS**
-
-[](#top)
 
 [^1]: Juan Pablo II, Carta Encíclica *[Ut unum sint](/edocs/ESL0043/__PS.HTM)*, 25 de mayo de 1995, n. 95.
 

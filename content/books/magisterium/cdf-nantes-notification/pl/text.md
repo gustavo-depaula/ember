@@ -1,9 +1,5 @@
 # INFORMACJA W SPRAWIE KS. GEORGESA DE NANTES, 13 maja 1983 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 INFORMACJA W SPRAWIE KS. GEORGESA DE NANTES\*
@@ -25,5 +21,3 @@ Abp J. Hamer złożył wobec Ks. de Nantes następującą deklarację:
 *Rzym, 13 maja 1983 r.*
 
 \* *L’Osservatore Romano*, 16-17.V.1983, s. 2.
-
-[](#top)

@@ -1,15 +1,5 @@
 # Mater Populi fidelis - Nota dottrinale su alcuni titoli mariani riferiti alla cooperazione di Maria all’opera della salvezza
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI
@@ -29,19 +19,19 @@ DICASTÈRE POUR LA DOCTRINE DE LA FOI
 *[Titres faisant référence à la coopération de Marie au salut](#_Toc199257185)*
 
 > **[Co-rédemptrice](#_Toc199257186)**
->
+
 > **[Médiatrice](#_Toc199257187)**
->
+
 > > *[Marie dans l’unique médiation du Christ](#_Toc199257188)*  
 > > *[Féconds dans le Christ glorieux](#_Toc199257189)*
->
+
 > **[Mère des croyants](#_Toc199257190)**
->
+
 > > *[Intercession](#_Toc199257191)*  
 > > *[Proximité maternelle](#_Toc199257192)*
->
+
 > **[Mère de grâce](#_Toc199257193)**
->
+
 > > *[Là où seul Dieu peut aller](#_Toc199257194)*  
 > > *[De l’eau vive qui jaillit](#_Toc199257195)*  
 > > *[L’amour qui se communique dans le monde](#_Toc199257196)*  

@@ -1,9 +1,5 @@
 # Santa Messa nel XXVI anniversario della morte dei Sommi Pontefici Paolo VI e Giovanni Paolo I
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CAPPELLA PAPALE PER I DEFUNTI SOMMI PONTEFICI  
 PAOLO VI E GIOVANNI PAOLO I
 
@@ -24,5 +20,3 @@ Presiedere nella carità concerne finalmente lÂÂÂ’eucaristia, che è la pre
 LÂÂÂ’amore sarebbe cieco senza la verità. E perciò colui che deve precedere nellÂÂÂ’amore, riceve dal Signore la promessa: "Simone, Simone.. io ho pregato per te, che non venga meno la tua fede" (Lc 22,32). Il Signore vede che Satana cerca "per vagliarvi come il grano" (Lc 22,31). Mentre questa prova concerne tutti i discepoli, Cristo prega in modo speciale "per te" ÂÂÂ– per la fede di Pietro e su questa preghiera è basata la missione "conferma i tuoi fratelli". La fede di Pietro non viene dalle sue proprie forze ÂÂÂ– lÂÂÂ’indefettibilità della fede di Pietro è basata sulla preghiera di Gesù, il Figlio di Dio: "Ho pregato per te, che non venga meno la tua fede". Questa preghiera di Gesù è il fondamento sicuro della funzione di Pietro per tutti i secoli e lÂÂÂ’orazione dopo la comunione può giustamente dire che i Sommi Pontefici Paolo VI e Giovanni Paolo I hanno "con coraggio apostolico" confermato i loro fratelli: In un tempo dove vediamo come Satana "vaglia come il grano" i discepoli di Cristo, la fede imperturbabile dei Papi fu visibilmente la roccia sulla quale sta la Chiesa.
 
 "Io so che il mio Redentore è vivo", dice nella prima lettura della nostra liturgia il testo di Giobbe ÂÂÂ– lo dice in un momento di una estrema prova; lo dice, mentre Dio si nasconde e sembra essere il suo avversario. Coperto dal velo della sofferenza, senza conoscere il suo nome ed il suo volto, Giobbe "sa" che il suo Redentore vive, e questa certezza è la sua grande consolazione nelle tenebre della prova. Gesù Cristo ha tolto il velo, che copriva per Giobbe il volto di Dio: Sì, il nostro Redentore vive, "e noi tutti, a viso scoperto, riflettendo come in uno specchio la gloria del Signore, veniamo trasformati in quella medesima immagine", dice S. Paolo (2 Cor 3,18). Il nostro Redentore vive ÂÂÂ– ha un volto e un nome: Gesù Cristo. I nostri "occhi lo contempleranno" ÂÂÂ– questa certezza ci danno i nostri Papi defunti e così ci guidano "verso il pieno possesso della verità", confermandoci nella fede nel nostro Redentore. Amen.
-
-[](#top)

@@ -8,8 +8,6 @@ ALL'EPISCOPATO, AL CLERO E AI FEDELI
 PER LA RICORRENZA CENTENARIA DELLA *ORIENTALIUM DIGNITAS*  
 DI PAPA LEONE XIII
 
-* *
-
 *Venerati Fratelli, Carissimi Figli e Figlie della Chiesa*
 
 1\. La luce dell'Oriente ha illuminato la Chiesa universale, sin da quando è apparso su di noi «un sole che sorge» (*Lc* 1,78), Gesù Cristo, nostro Signore, che tutti i cristiani invocano quale Redentore dell'uomo e speranza del mondo.

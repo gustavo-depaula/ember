@@ -1,9 +1,5 @@
 # Monotesimo: semplificazioni culturali e teologia biblica. Presentazione dei capitoli 1 e 2 (Pierangelo Sequeri)
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **MONOTEISMO: TEOLOGIA BIBLICA E SEMPLIFICAZIONI CULTURALI\***
 
 Presentazione dei capitoli 1 e 2
@@ -25,5 +21,3 @@ La rilettura della rivelazione evangelica che segue – nella luce dell'odierno 
 ------------------------------------------------------------------------
 
 *\*L'Osservatore Romano*, ed. quotidiana, Anno CLIV, n.022, Merc. 29/01/2014
-
-[](#top)

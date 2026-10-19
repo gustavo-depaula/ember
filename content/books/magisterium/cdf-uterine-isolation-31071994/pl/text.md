@@ -1,9 +1,5 @@
 # ODPOWIEDZI NA PRZEDSTAWIONE WĄTPLIWOŚCI DOTYCZĄCE «IZOLOWANIA MACICY» I INNYCH ZAGADNIEŃ, 31 lipca 1993 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 **ODPOWIEDZI NA PRZEDSTAWIONE WĄTPLIWOŚCI DOTYCZĄCE «IZOLOWANIA MACICY»** I INNYCH ZAGADNIEŃ
@@ -39,5 +35,3 @@ R*zym, w siedzibie Kongregacji Nauki Wiary, 31 lipca 1993 r.*
 **JOSEPH** ***Kard*** **RATZINGER** *Prefekt*
 
 \+ **ALBERTO BOVONE** *Arcybiskup tytularny Cezarei Numidyjskiej Sekretarz*
-
-[](#top)

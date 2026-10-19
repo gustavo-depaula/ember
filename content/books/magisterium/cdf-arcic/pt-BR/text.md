@@ -1,13 +1,5 @@
 # Carta do Cardeal Ratzinger ao Presidente da Comissão Internacional para o Diálogo Anglicano-Católico, 27 de março de 1982
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ

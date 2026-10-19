@@ -1,13 +1,5 @@
 # Vědomí, které měl Ježíš o sobě a o svém poslání, 1985
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 MEZINÁRODNÍ TEOLOGICKÁ KOMISE
@@ -23,11 +15,11 @@ MEZINÁRODNÍ TEOLOGICKÁ KOMISE
 [Čtyři teze](#Čtyři_teze)
 
 > [První teze](#První_teze)
->
+
 > [Druhá teze](#Druhá_teze)
->
+
 > [Třetí teze](#Třetí_teze)
->
+
 > [Čtvrtá teze](#Čtvrtá_teze)
 
 **Vědomí, které měl Ježíš o sobě a o svém poslání** [^1]

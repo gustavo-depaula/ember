@@ -1,9 +1,5 @@
 # Respuestas a las dudas propuestas sobre la interpretación del decreto «Ecclesiae Pastorum»
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **RESPUESTAS A LAS DUDAS PROPUESTAS SOBRE LA INTERPRETACIÓN DEL DECRETO «ECCLESIAE PASTORUM»**
@@ -146,5 +142,3 @@ R. Sí, conforme a la siguiente interpretación:
 *a*) Si la aprobación se solicita sólo para publicar un catecismo, sin que ello suponga aprobar el mismo para texto oficial de la catequesis diocesana, debe otorgarse según los criterios que regulan en general la censura previa de los libros que se someten al juicio del Ordinario, es decir, teniendo en cuenta ante todo la ortodoxia del contenido y las normas eclesiásticas universales referentes a la catequesis (nuevo CIC [can. 823](/archive/ESL0020/__P2O.HTM), § 1; [830](/archive/ESL0020/__P2O.HTM), § 2; *Directorium catechisticum generale*, 119; Proemium § 6).
 
 *b*) Si la aprobación se pide para catecismos destinados a la catequesis oficial de la diócesis, el Ordinario tendrá en cuenta la ortodoxia del contenido y las normas universales de la catequesis; pero también las reglas particulares establecidas por él mismo en función de las necesidades concretas de la diócesis (nuevo CIC, [can. 775](/archive/ESL0020/__P2I.HTM), § 1) y las normas dadas por la Conferencia Episcopal y aprobadas por la Santa Sede (*Directorium catechisticum. generale*, 134).
-
-[](#top)

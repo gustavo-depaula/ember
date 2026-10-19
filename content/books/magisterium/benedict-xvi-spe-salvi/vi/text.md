@@ -153,8 +153,6 @@ Trong sự liên kết với nhau của Hữu Thể, lòng biết ơn đối v�
 
 **BÊNÊĐÍCTÔ XVI**
 
-** **
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [\[1\]](#_ftnref1) *Corpus Inscriptionum Latinarum* VI, no. 26003.

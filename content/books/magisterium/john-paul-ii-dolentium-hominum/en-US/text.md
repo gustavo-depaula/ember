@@ -60,5 +60,3 @@ In fulfilling its mission, the Pontifical Commission may seek the collaboration 
 *Given at Rome, at St. Peter's on February 11, 1985, the seventh year of our Pontificate.*
 
 **JOHN PAUL II**
-
-* *

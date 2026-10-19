@@ -1,9 +1,5 @@
 # Presentazione dell'Em.mo Card. Jorge Arturo Medina Estévez
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 **PRESENTAZIONE DELLA LETTERA APOSTOLICA IN FORMA DI "MOTU PROPRIO" *MISERICORDIA DEI* SU ALCUNI ASPETTI DELLA CELEBRAZIONE DEL SACRAMENTO DELLA PENITENZA**
@@ -27,5 +23,3 @@ Il Sacramento della Penitenza o della Riconciliazione è stato affidato alla Chi
 Il Motu Proprio *[Misericordia Dei](/holy_father/john_paul_ii/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei_it.html)* ribadisce l’insegnamento tradizionale della dottrina della Chiesa, secondo il quale l’unico modo ordinario della celebrazione del Sacramento della Penitenza è quello che comporta la confessione integra dei peccati al sacerdote con l’assoluzione personale. Le cosiddette «assoluzioni collettive» o «generali» sono da considerarsi straordinarie ed eccezionali, alle quali si ricorre solo ed esclusivamente in pericolo di morte o quando è fisicamente o moralmente impossibile la celebrazione del sacramento nella forma ordinaria. Equiparare le «assoluzioni collettive» alla forma ordinaria della celebrazione del Sacramento della Penitenza è un errore dottrinale, un abuso disciplinare e un danno pastorale.
 
 La Chiesa tiene presente l’esempio dei Santi sacerdoti che consacrarono la loro vita all’esercizio del ministero della riconciliazione sacramentale. Si pensi a San Giovanni Maria Vianney, a San Leopoldo Mandic e al Beato Pio da Pietrelcina, del quale riprendo alcune espressioni che sono molto semplici ma nello stesso tempo dense di significato e valore: «Nel tumultuar delle passioni e delle avverse vicende, ci sorregga la cara speranza della inesauribile misericordia \[di Dio\]: corriamo fidenti al tribunale di penitenza, ove egli con ansia di padre in ogni istante ci attende; e, pur consapevoli della nostra insolvibilità dinanzi a Lui, non dubitiamo del perdono solennemente pronunziato sui nostri errori».
-
-[](#top)

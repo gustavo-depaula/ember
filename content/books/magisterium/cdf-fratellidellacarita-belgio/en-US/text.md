@@ -1,15 +1,5 @@
 # Letter to the Superior General of the Congregation of the Brothers of Charity, regarding the accompaniment of patients in psychiatric hospitals of the Congregation’s Belgian branch
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR THE DOCTRINE OF THE FAITH

@@ -1,9 +1,5 @@
 # Observations sur le document de l'ARCIC II: Le Salut et l'Eglise, 18 novembre 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***OBSERVATIONS SUR LE DOCUMENT DE L'ARCIC II « Salvation and the Church »***
@@ -131,5 +127,3 @@ Dans le même sens, il serait souhaitable de voir concédée à la Tradition une
 \(5\) *Ibid.*, 1065. « Il aurait été utile – afin d’évaluer le sens exact de certains points de l’accord – que l’ARCIC indique sa position par rapport aux documents qui ont contribué d’une manière significative à la formulation de l’identité anglicane (les *Thirty-nine articles of religion*, *Book of common prayer*, *Ordinal*), dans les cas où les affirmations du Rapport final semblaient incompatibles avec ces documents. Le manque de prise de position sur ces textes peut donner lieu à une incertitude au sujet de l’exacte signification des accords obtenus » (Sec. A, 2, iii).
 
 \(6\) Déclaration commune, 3, in *AAS* 74 (1982), 925.
-
-[](#top)

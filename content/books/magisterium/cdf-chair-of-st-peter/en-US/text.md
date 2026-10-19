@@ -1,9 +1,5 @@
 # Decree of Erection of the Personal Ordinariate of the Chair of Saint Peter, 1 January 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **Decree of Erection of the Personal Ordinariate of the Chair of Saint Peter**
@@ -55,8 +51,6 @@ Everything to the contrary notwithstanding.
 **Luis F. Ladaria, S.I.** * Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. *AAS* 101 (2009), 985-990.
 

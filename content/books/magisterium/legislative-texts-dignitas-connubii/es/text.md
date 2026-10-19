@@ -1,9 +1,5 @@
 # Instrucción Dignitas Connubii
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIO CONSEJO PARA LOS TEXTOS LEGISLATIVOS
 
 **INSTRUCCIÓN**
@@ -1667,8 +1663,6 @@ La presente instrucción, que este Pontificio Consejo, con la estrecha colaborac
 **Bruno Bertagna** *Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Concilio Vaticano II, Const. past. *Gaudium et spes*, n. 48d.
 

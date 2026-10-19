@@ -493,6 +493,4 @@ Jegyzetek:
 [\[85\]](#JB85) Lásd Szent Ágoston, Vallomások I. 1: CSEL 33, 1 old.  
 [\[86\]](#JB86) Gravissimum educationis, 2.  
 [\[87\]](#JB87) Lásd AAS 58 (1966) 18.  
-[\[88\]](#JB88) Jn 2,5.  
-
-*  *
+[\[88\]](#JB88) Jn 2,5.

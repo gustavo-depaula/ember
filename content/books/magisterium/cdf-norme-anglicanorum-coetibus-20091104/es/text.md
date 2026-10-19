@@ -1,9 +1,5 @@
 # Normas complementarias a la constitución apostólica Anglicanorum coetibus, 4 noviembre 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **Normas complementarias a la constitución apostólica *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_sp.html)***
@@ -152,7 +148,5 @@ El Sumo Pontífice Benedicto XVI, en la audiencia concedida al firmante cardenal
 **X Luis. F. Ladaria, s.j.** *Arzobispo titular de Tibica Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Este párrafo ha sido añadido al texto de Normas complementarias a la constitución apostólica *Anglicanorum coetibus* después de una decisión tomada por la Sección Ordinaria del 29 de mayo de 2013, y aprobada por el Papa Francisco el 21 de mayo 2013.

@@ -1,9 +1,5 @@
 # Statuto provvisorio della Commissione Teologica Internazionale, 12 luglio 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **COMMISSIONE TEOLOGICA INTERNAZIONALE**
 
 **Statuto provvisorio**\*
@@ -38,5 +34,3 @@ Roma, 12 luglio 1969
 S. Congregazione per la Dottrina della Fede
 
 \* *AAS* 61 (1969) 540-541.
-
-[](#top)

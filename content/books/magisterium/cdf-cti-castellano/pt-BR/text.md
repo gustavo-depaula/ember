@@ -1,9 +1,5 @@
 # A razão da verdade de Deus - Pe. Antonio Castellano, S.D.B.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **Para ler o documento da Comissão Teológica Internacional: ** ***[«A Teologia hoje: perspectivas, princípios e critérios»](/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20111129_teologia-oggi_po.html)***
 
 *A razão da verdade de Deus*
@@ -41,5 +37,3 @@ Esta dimensão da teologia deriva antes de tudo da revelção de Deus em Cristo 
 A «sabedoria teológica» distingue-se da sabedoria dos santos, porque é sobretudo fruto da contemplação intelectual de Deus; mas mantém relações estreitas com a sabedoria mística. Para a teologia, o coração e a inteligência podem proceder juntos, e pode-se falar de uma espiritualidade distintiva do teólogo que se põe em profunda sintonia com a índole científica da sua actividade, e mais ainda de uma mística que deriva da Eucaristia que, sendo fonte e ápice da vida da Igreja, também o é para a actividade teológica. Graças à sua dimensão sapiencial, a teologia pode transcender «os limites daquilo que é rigorosamente possível sob um ponto de vista intelectual», e deste modo pode encher o vazio entre os crentes e a reflexão teológica, e ampliar a compreensão da verdade de Deus no encontro com culturas não cristãs.
 
 (*L'Osservatore Romano*, edição em português, 26 de maio de 2012, p. 10)
-
-[](#top)

@@ -6,8 +6,6 @@
 
 **Francesco**
 
-** **
-
 *Chiamato ad esercitare in forza del* munus petrino *poteri sovrani anche sullo Stato della Città del Vaticano, che il Trattato lateranense ha posto come strumento per assicurare alla Santa Sede l'assoluta e visibile indipendenza e per garantirle la sovranità anche nel campo internazionale, ho ritenuto necessario emanare una nuova Legge Fondamentale per rispondere alle necessità dei nostri giorni.*
 
 *Predisposta e formulata per dare costitutiva fisionomia allo Stato, ai suoi poteri e all’esercizio delle derivanti funzioni, questa Legge – che succede a quella del 1929 e sostituisce quella del 2000 – assume e completa gli aggiornamenti normativi sin qui emanati e i mutati profili istituzionali resi operativi nello Stato anzitutto, con la riforma della Legge sulle fonti del diritto, della Legge sul Governo dello Stato e della Legge sull'ordinamento giudiziario.*

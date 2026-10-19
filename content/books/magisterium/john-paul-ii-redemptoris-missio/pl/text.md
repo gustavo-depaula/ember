@@ -7,8 +7,6 @@ IOANNES PAULUS PP. II
 
 ***Blessing***
 
-* *
-
 *Czcigodni Bracia, Drodzy Synowie i Córki, Pozdrowienie i Apostolskie Błogosławieństwo!*
 
 #### Wprowadzenie

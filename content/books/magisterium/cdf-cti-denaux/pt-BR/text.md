@@ -1,9 +1,5 @@
 # O princípio decisivo da teologia católica - Rev. Prof. Adelbert Denaux, Tilburg School of Catholic Theology
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Para ler o documento da Comissão Teológica Internacional: ** ***[«Teologia hoje: perspectivas, princípios e critérios»](/roman_curia/congregations/cfaith/cti_documents/rc_cti_doc_20111129_teologia-oggi_po.html)***
 
 *O princípio decisivo da teologia católica*
@@ -39,5 +35,3 @@ Na terceira parte, a Comissão descreve a «teologia» como inteligência da fé
 (\*) Tilburg School of Catholic Theology
 
 (*L'Osservatore Romano*, edição em português, 19 de maio de 2012, p. 12)
-
-[](#top)

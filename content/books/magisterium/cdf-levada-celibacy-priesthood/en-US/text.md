@@ -1,9 +1,5 @@
 # Celibacy and Priesthood
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Celibacy and Priesthood***
 
 **Cardinal William Levada**
@@ -183,5 +179,3 @@ As I conclude these remarks, in the spirit of my coming golden jubilee of priest
 \(8\) Ibid.
 
 \(9\) Pope John Paul II, Post-Synodal Apostolic Exhortation *Pastores Dabo Vobis –* on the formation of priests in the circumstances of the present day, Vatican City 1992, n. 29.
-
-[](#top)

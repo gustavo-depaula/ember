@@ -1,9 +1,5 @@
 # Autore, integrità e tempo di composizione delle lettere pastorali dell'apostolo Paolo - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **AUTORE, INTEGRITÀ E TEMPO DI COMPOSIZIONE DELLE LETTERE PASTORALI DELL'APOSTOLO PAOLO**
@@ -29,5 +25,3 @@ Risposta: Sì.
 *Il giorno 12 giugno 1913, nell'udienza benignamente concessa al Reverendissimo Segretario consultore sottoscritto, il Nostro Santo Padre Pio Pp. X ha ratificato le suddette risposte e ha comandato di pubblicarle.*
 
 Lorenzo JANSSENS, O.S.B. *Segretario consultore*
-
-[](#top)

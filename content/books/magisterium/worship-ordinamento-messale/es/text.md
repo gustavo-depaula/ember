@@ -1,9 +1,5 @@
 # Instrucción general del Misal Romano
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INSTRUCCIÓN GENERAL DEL MISAL ROMANO***
 
 **ÍNDICE**
@@ -37,7 +33,7 @@
 > - Saludo al altar y al pueblo congregado  
 > - Acto penitencial  
 > - *Señor, ten piedad* - *Gloria a Dios en el cielo* - Colecta
->
+
 > ***[B) Liturgia de la Palabra](#B)_Liturgia_de_la_palabra)* (55 - 71)**  
 > - Silencio  
 > - Lecturas bíblicas  
@@ -46,7 +42,7 @@
 > - Homilía  
 > - Profesión de fe  
 > - Oración universal
->
+
 > ***[C) Liturgia eucarística](#C)_Liturgia_Eucarística)* (72 - 89)**  
 > - Preparación de los dones  
 > - Oración sobre las ofrendas  
@@ -56,7 +52,7 @@
 > - Rito de la paz  
 > - Fracción del Pan  
 > - Comunión
->
+
 > ***[D) Rito de conclusión](#D)_Rito_de_conclusión)* (90)**
 
 **[CAP. III](#Capítulo_III) OFICIOS Y MINISTERIOS EN LA CELEBRACIÓN DE LA MISA**
@@ -80,17 +76,17 @@ Lo que debe prepararse (117 - 119)
 > - Liturgia de la palabra  
 > - Liturgia Eucarística  
 > - Rito de conclusión
->
+
 > ***[B) Misa con diácono](#B)_Misa_con_diácono)* (171 - 186)**  
 > - Ritos iniciales  
 > - Liturgia de la palabra  
 > - Liturgia Eucarística  
 > - Rito de conclusión
->
+
 > ***[C) Ministerios del acólito](#C)_Ministerios_del_acólito)* (187 - 193)**  
 > - Ritos iniciales  
 > - Liturgia Eucarística
->
+
 > ***[D) Ministerios del lector](#D)_Ministerios_del_lector)* (194 - 198)**  
 > - Ritos iniciales  
 > - Liturgia de la palabra
@@ -297,7 +293,7 @@ Por eso las lecturas de la Palabra de Dios, que proporcionan a la Liturgia un el
 37\. Finalmente, de las otras fórmulas:
 
 > a\) Algunas poseen por sí mismas el valor de rito o de acto, como el himno del *Gloria*, el salmo responsorial, el *Aleluya*, el verso antes del Evangelio, el *Santo*, la aclamación de la anámnesis, el canto después de la Comunión.
->
+
 > b\) Otras, en cambio, como los cantos de entrada, al ofertorio, de la fracción (*Cordero de Dios*) y de la Comunión, simplemente acompañan algún rito.
 
 ***Las maneras de pronunciar los diversos textos***
@@ -393,11 +389,11 @@ Se canta o se dice en voz alta los domingos fuera de los tiempos de Adviento y d
 54\. En seguida, el sacerdote invita al pueblo a orar, y todos, juntamente con el sacerdote, guardan un momento de silencio para hacerse conscientes de que están en la presencia de Dios y puedan formular en su espíritu sus deseos. Entonces el sacerdote dice la oración que suele llamarse “colecta” y por la cual se expresa el carácter de la celebración. Por una antigua tradición de la Iglesia, la oración colecta ordinariamente se dirige a Dios Padre, por Cristo en el Espíritu Santo[^57] y termina con la conclusión trinitaria, es decir, con la más larga, de este modo:
 
 > Si se dirige al Padre: *Por nuestro Señor Jesucristo, tu Hijo, que vive y reina contigo en la unidad del Espíritu Santo y es Dios por los siglos de los siglos*.
->
+
 > Si se dirige al Padre, pero al final se menciona al Hijo: *Él, que vive y reina contigo en la unidad del Espíritu Santo y es Dios por los siglos de los siglos.*
->
+
 > Si se dirige al Hijo: *Tú que vives y reinas con el Padre en la unidad del Espíritu Santo y eres Dios por los siglos de los siglos.*
->
+
 > El pueblo uniéndose a la súplica, con la aclamación *Amén* la hace suya la oración.
 
 En la Misa se siempre se dice una sola colecta.
@@ -437,15 +433,15 @@ En vez del salmo asignado en el leccionario, puede también cantarse el responso
 62\. Después de la lectura, que precede inmediatamente al Evangelio, se canta el *Aleluya* u otro canto determinado por las rúbricas, según lo pida el tiempo litúrgico. Esta aclamación constituye por sí misma un rito, o bien un acto, por el que la asamblea de los fieles acoge y saluda al Señor, quien le hablará en el Evangelio, y en la cual profesa su fe con el canto. Se canta estando todos de pie, iniciándolo los cantores o el cantor, y si fuere necesario, se repite, pero el versículo es cantado por los cantores o por un cantor.
 
 > a\) El *Aleluya* se canta en todo tiempo, excepto durante la Cuaresma. Los versículos se toman del leccionario o del Gradual.
->
+
 > b\) En tiempo de Cuaresma, en vez del *Aleluya*, se canta el versículo antes del Evangelio que aparece en el leccionario. También puede cantarse otro salmo u otra selección (tracto), según se encuentra en el Gradual.
 
 63\. Cuando hay solo una lectura antes del Evangelio:
 
 > a\) En el tiempo en que debe decirse *Aleluya*, puede tomarse o el salmo aleluyático o el salmo y el *Aleluya* con su versículo.
->
+
 > b\) En el tiempo en que no debe decirse *Aleluya*, puede tomarse o el salmo y el versículo antes del Evangelio, o solamente el salmo..
->
+
 > c\) El *Aleluya* o el versículo antes del Evangelio, si no se canta, puede omitirse.
 
 64\. La Secuencia, que sólo es obligatoria los días de Pascua y de Pentecostés, se canta antes del *Aleluya*.
@@ -477,11 +473,11 @@ Si no se canta, será recitado por todos en conjunto o en dos coros que se alter
 70\. Las serie de intenciones de ordinario será:
 
 > a\) Por las necesidades de la Iglesia.
->
+
 > b\) Por los que gobiernan y por la salvación del mundo.
->
+
 > c\) Por los que sufren por cualquier dificultad.
->
+
 > d\) Por la comunidad local.
 
 Sin embargo, en alguna celebración particular, como la Confirmación, el Matrimonio o las Exequias, el orden de las intenciones puede tener en cuenta más expresamente la ocasión particular.
@@ -499,9 +495,9 @@ Por su parte, el pueblo, de pie, expresa su súplica, sea con una invocación co
 Cristo, pues, tomó el pan y el cáliz, dio gracias, partió el pan, y los dio a sus discípulos, diciendo: Tomad, comed, bebed; esto es mi Cuerpo; éste es el cáliz de mi Sangre. Haced esto en conmemoración mía. Por eso, la Iglesia ha ordenado toda la celebración de la Liturgia Eucarística con estas partes que responden a las palabras y a las acciones de Cristo, a saber:
 
 > 1\) En la preparación de los dones se llevan al altar el pan y el vino con agua, es decir, los mismos elementos que Cristo tomó en sus manos.
->
+
 > 2\) En la Plegaria Eucarística se dan gracias a Dios por toda la obra de la salvación y las ofrendas se convierten en el Cuerpo y en la Sangre de Cristo.
->
+
 > 3\) Por la fracción del pan y por la Comunión, los fieles, aunque sean muchos, reciben de un único pan el Cuerpo, y de un único cáliz la Sangre del Señor, del mismo modo como los Apóstoles lo recibieron de las manos del mismo Cristo.
 
 ***Preparación de los dones***
@@ -535,19 +531,19 @@ El pueblo uniéndose a la súplica con la aclamación *Amén*, hace suya la orac
 79\. Los principales elementos de que consta la Plegaria Eucarística pueden distinguirse de esta manera:
 
 > a\) Acción de gracias (que se expresa especialmente en el Prefacio), en la cual el sacerdote, en nombre de todo el pueblo santo, glorifica a Dios Padre y le da gracias por toda la obra de salvación o por algún aspecto particular de ella, de acuerdo con la índole del día, de la fiesta o del tiempo litúrgico.
->
+
 > b\) Aclamación: con la cual toda la asamblea, uniéndose a los coros celestiales, canta el *Santo*. Esta aclamación, que es parte de la misma Plegaria Eucarística, es proclamada por todo el pueblo juntamente con el sacerdote.
->
+
 > c\) Epíclesis: con la cual la Iglesia, por medio de invocaciones especiales, implora la fuerza del Espíritu Santo para que los dones ofrecidos por los hombres sean consagrados, es decir, se conviertan en el Cuerpo y en la Sangre de Cristo, y para que la víctima inmaculada que se va a recibir en la Comunión sirva para la salvación de quienes van a participar en ella.
->
+
 > d\) Narración de la institución y consagración: por las palabras y por las acciones de Cristo se lleva a cabo el sacrificio que el mismo Cristo instituyó en la última Cena, cuando ofreció su Cuerpo y su Sangre bajo las especies de pan y vino, y los dio a los Apóstoles para que comieran y bebieran, dejándoles el mandato de perpetuar el mismo misterio.
->
+
 > e\) Anámnesis: por la cual la Iglesia, al cumplir el mandato que recibió de Cristo por medio de los Apóstoles, realiza el memorial del mismo Cristo, renovando principalmente su bienaventurada pasión, su gloriosa resurrección y su ascensión al cielo.
->
+
 > f\) Oblación: por la cual, en este mismo memorial, la Iglesia, principalmente la que se encuentra congregada aquí y ahora, ofrece al Padre en el Espíritu Santo la víctima inmaculada. La Iglesia, por su parte, pretende que los fieles, no sólo ofrezcan la víctima inmaculada, sino que también aprendan a ofrecerse a sí mismos,[^71] y día a día se perfeccionen, por la mediación de Cristo, en la unidad con Dios y entre ellos, para que finalmente, Dios sea todo en todos.[^72]
->
+
 > g\) Intercesiones: por las cuales se expresa que la Eucaristía se celebra en comunión con toda la Iglesia, tanto con la del cielo, como con la de la tierra; y que la oblación se ofrece por ella misma y por todos sus miembros, vivos y difuntos, llamados a participar de la redención y de la salvación adquiridas por el Cuerpo y la Sangre de Cristo.
->
+
 > h\) Doxología final: por la cual se expresa la glorificación de Dios, que es afirmada y concluida con la aclamación *Amén* del pueblo.
 
 ***Rito de la comunión***
@@ -595,9 +591,9 @@ Por otra parte, cuando no hay canto, se puede decir la antífona propuesta en el
 En la Misa se dice una sola oración después de la Comunión, que termina con conclusión breve, es decir:
 
 > — Si se dirige al Padre: *Por Jesucristo, nuestro Señor*.
->
+
 > — Si se dirige al Padre, pero al fin se menciona el Hijo: *Que vive y reina por siglos de los siglos.*
->
+
 > — Si se dirige al Hijo: *Tú, que vives y reinas por los siglos de los siglos*.
 
 El pueblo hace suya la oración con la aclamación: *Amén*.
@@ -607,11 +603,11 @@ El pueblo hace suya la oración con la aclamación: *Amén*.
 90\. Al rito de conclusión pertenecen:
 
 > a\) Breves avisos, si fuere necesario.
->
+
 > b\) El saludo y la bendición del sacerdote, que en algunos días y ocasiones se enriquece y se expresa con la oración sobre el pueblo o con otra fórmula más solemne.
->
+
 > c\) La despedida del pueblo, por parte del diácono o del sacerdote, para que cada uno regrese a su bien obrar, alabando y bendiciendo a Dios.
->
+
 > d\) El beso del altar por parte del sacerdote y del diácono y después la inclinación profunda al altar de parte del sacerdote, del diácono y de los demás ministros.
 
 **Capítulo III**
@@ -669,11 +665,11 @@ En la celebración eucarística el lector tiene un ministerio propio (*cfr. núm
 105\. También ejercen un ministerio litúrgico:
 
 > a\) El sacristán, a quien corresponde disponer diligentemente los libros litúrgicos, los ornamentos y las demás cosas que son necesarias en la celebración de la Misa.
->
+
 > b\) El comentarista, a quien corresponde, según las circunstancias, proponer a los fieles breves explicaciones y moniciones para introducirlos en la celebración y para disponerlos a entenderla mejor. Conviene que las moniciones del comentador estén exactamente preparadas y con perspicua sobriedad. En el ejercicio de su ministerio, el comentarista permanece de pie en un lugar adecuado frente a los fieles, pero no en el ambón.
->
+
 > c\) Los que hacen las colectas en la iglesia.
->
+
 > d\) Los que, en algunas regiones, reciben a los fieles a la puerta de la iglesia, los acomodan en los puestos convenientes y dirigen sus procesiones.
 
 106\. Conviene que al menos en las iglesias catedrales y en las iglesias mayores, haya algún ministro competente, o bien un maestro de ceremonias, con el encargo de disponer debidamente las acciones sagradas para que sean realizadas con decoro, orden y piedad por los ministros sagrados y por los fieles laicos.
@@ -715,9 +711,9 @@ En la Misa que celebra el Obispo, o en la que está presente sin que celebre la 
 118\. Prepárense también:
 
 > a\) Junto a la sede del sacerdote: el misal y, según las circunstancias, el folleto de cantos.
->
+
 > b\) En el ambón: el leccionario.
->
+
 > c\) En la credencia: el cáliz, el corporal, el purificador, y según las circunstancias, la palia; la patena y los copones, si son necesarios; a no ser que sean presentados por los fieles en la procesión del ofertorio: el pan para la Comunión del sacerdote que preside, del diácono, de los ministros y del pueblo y las vinajeras con el vino y el agua; una caldereta con agua para ser bendecida, si se hace aspersión; la patena para la Comunión de los fieles; y todo lo necesario para la ablución de las manos.
 
 Es loable que se cubra el cáliz con un velo, que puede ser del color del día o de color blanco.
@@ -725,9 +721,9 @@ Es loable que se cubra el cáliz con un velo, que puede ser del color del día o
 119\. En la sacristía, para las diversas formas de celebración, prepárense las vestiduras sagradas (cfr. núms. 337 - 341) del sacerdote, del diácono y de los otros ministros:
 
 > a\) Para el sacerdote: el alba, la estola y la casulla o planeta.
->
+
 > b\) Para el diácono: el alba, la estola y la dalmática, la cual, sin embargo, puede omitirse por necesidad o por menor grado de solemnidad.
->
+
 > c\) Para los otros ministros: albas u otras vestiduras legítimamente aprobadas.[^96]
 
 Todos los que se revisten con alba, usarán cíngulo y amito, a no ser que por la forma del alba no se requieran.
@@ -741,13 +737,13 @@ Cuando se tiene procesión de entrada prepárese también el Evangeliario; los d
 120\. Reunido el pueblo, el sacerdote y los ministros, revestidos con sus vestiduras sagradas, proceden hacia el altar en este orden:
 
 > a\) El turiferario con el incensario humeante, cuando se emplea incienso.
->
+
 > b\) Los ministros que llevan los cirios encendidos y, en medio de ellos, el acólito u otro ministro con la cruz.
->
+
 > c\) Los acólitos y los demás ministros.
->
+
 > d\) El lector, que puede llevar el Evangeliario, mas no el leccionario, un poco elevado.
->
+
 > e\) El sacerdote que va a celebrar la Misa.
 
 Si se emplea incienso, el sacerdote antes de iniciar la procesión, pone incienso en el incensario y lo bendice con el signo de la cruz, sin decir nada.
@@ -903,15 +899,15 @@ El Obispo bendice al pueblo con la fórmula correspondiente, haciendo sobre el p
 171\. Cuando en la celebración eucarística está presente un diácono, desempeña su ministerio vestido con las vestiduras sagradas. El Diácono, en general:
 
 > a\) Asiste al sacerdote y está a su lado.
->
+
 > b\) En el altar sirve, en lo referente al cáliz y al libro.
->
+
 > c\) Proclama el Evangelio y puede, por mandato del sacerdote que celebra, hacer la homilía (cfr. n. 66).
->
+
 > d\) Dirige al pueblo fiel mediante oportunas moniciones y enuncia las intenciones de la oración universal.
->
+
 > e\) Ayuda al sacerdote celebrante en la distribución de la Comunión, y purifica y arregla los vasos sagrados.
->
+
 > f\) Desempeña los oficios de otros ministros, él mismo, si no está presente alguno de ellos, según sea necesario.
 
 ***Ritos iniciales***
@@ -1005,11 +1001,11 @@ Desde la epíclesis hasta la elevación del cáliz el diácono, de ordinario, pe
 Sin embargo, se recomienda a no ser que el provecho de los fieles requiera o aconseje otra cosa:
 
 > a\) Para la Misa vespertina en la Cena del Señor.
->
+
 > b\) Para la Misa que se celebra en los Concilios, en las Reuniones de Obispos y en los Sínodos.
->
+
 > c\) Para la Misa conventual y para la Misa principal que se celebra en las iglesias y en los oratorios.
->
+
 > d\) Para las Misas que se celebran en cualquier tipo de reuniones de sacerdotes, tanto seculares como religiosos.[^101]
 
 Sin embargo, es lícito a cada sacerdote celebrar de manera individual la Eucaristía, pero no en el mismo tiempo en el que se tiene concelebración en la misma iglesia u oratorio. No obstante, el Jueves santo en la Cena del Señor y en la Misa de la Vigilia pascual, no se permite ofrecer el sacrificio en forma individual.
@@ -1027,13 +1023,13 @@ Por la misma razón se recomienda la concelebración cuantas veces los sacerdote
 204\. Por una causa especial, como sería el mayor sentido que tiene un rito o de una festividad, se concede facultad de celebrar o concelebrar varias veces en el mismo día, en los siguientes casos:
 
 > a\) Si alguien celebró o concelebró el Jueves Santo en la Misa Crismal, puede celebrar o concelebrar también en la Misa vespertina en la Cena del Señor.
->
+
 > b\) Si alguien celebró o concelebró en la Misa de la Vigilia Pascual, puede celebrar o concelebrar la Misa en día de Pascua.
->
+
 > c\) En la Navidad del Señor todos los sacerdotes pueden celebrar o concelebrar tres Misas, con tal de que ellas se celebren a su tiempo.
->
+
 > d\) El día de la Conmemoración de todos los fieles difuntos, todos los sacerdotes pueden celebrar o concelebrar tres Misas con tal de que las celebraciones se hagan en diversos tiempos y observando lo establecido acerca de la aplicación de la segunda y de la tercera Misa.[^104]
->
+
 > e\) Si alguien concelebra con su Obispo o su delegado en un Sínodo y en la visita pastoral, o con ocasión de reuniones de sacerdotes, puede de nuevo celebrar otra Misa para utilidad de los fieles. Lo mismo vale, observando lo que debe observarse, para las reuniones de religiosos.
 
 205\. La Misa concelebrada se ordena, en cualquiera de sus formas, según las normas que se deben observar comúnmente (cfr. núms. 112-198), observando o cambiando lo que más abajo se expondrá.
@@ -1043,7 +1039,7 @@ Por la misma razón se recomienda la concelebración cuantas veces los sacerdote
 207\. En el presbiterio prepárense:
 
 > a\) Sillas y folletos para los sacerdotes concelebrantes.
->
+
 > b\) En la credencia: un cáliz de suficiente capacidad o varios cálices.
 
 208\. Si no está presente un diácono, los ministerios propios de éste serán desempeñados por algunos de los concelebrantes.
@@ -1095,13 +1091,13 @@ Es muy loable que se canten las partes que deben ser dichas simultáneamente por
 222\. Desde *Bendice y santifica, oh Padre*, hasta *Te pedimos humildemente, Dios todopoderoso*, el celebrante principal hace los gestos, pero todos los concelebrantes dicen todo simultáneamente, de este modo:
 
 > a\) *Bendice y santifica, oh Padre*, con las manos extendidas hacia las ofrendas.
->
+
 > b\) *El cual, la víspera de su Pasión* y *Del mismo modo, acabada la cena*, con las manos juntas.
->
+
 > c\) Las palabras del Señor, si parece conveniente, con la mano derecha extendida hacia el pan y hacia el cáliz; pero en la elevación miran la Hostia y el cáliz y luego se inclinan profundamente.
->
+
 > d\) *Por eso, Padre, nosotros, tus siervos*, y *Mira con ojos de bonda*d, con las manos extendidas.
->
+
 > e\) *Te pedimos humildemente, Dios todopoderoso*, inclinados y con las manos juntas hasta las palabras: *al participar aquí de este altar* y, en seguida, se enderezan, signándose a las palabras *seamos colmados de gracia y bendición.*
 
 223\. La intercesión por los difuntos (*Acuérdate también, Señor, de tus hijos*) y *Y a nosotros pecadores, siervos tuyos*, conviene encomendarlos a uno u otro de los concelebrantes y él solo las pronuncia con las manos extendidas y en voz alta.
@@ -1117,11 +1113,11 @@ Es muy loable que se canten las partes que deben ser dichas simultáneamente por
 227\. Desde *Por eso te pedimos que santifiques*, hasta *Te pedimos humildemente,* todos los concelebrantes lo dicen simultáneamente, de este modo:
 
 > a\) *Por eso te pedimos que santifiques,* con las manos extendidas hacia las ofrendas.
->
+
 > b\) *El cual, cuando iba a ser entregado a su Pasión* y *Del mismo modo, acabada la cena,* con las manos juntas.
->
+
 > c\) Las palabras del Señor, si parece conveniente, con la mano derecha extendida hacia el pan y hacia el cáliz; pero en la elevación miran la Hostia y el cáliz y luego se inclinan profundamente.
->
+
 > d\) *Así, pues, Padre, al celebrar ahora,* y *Te pedimos humildemente, que el Espíritu Santo* con las manos extendidas.
 
 228\. Las intercesiones por los vivos *Acuérdate, Señor, de tu Iglesia* y por los difuntos *Acuérdate también de nuestros hermanos,* conviene encomendarlas a uno u otro de los concelebrantes y las pronuncia él solo con las manos extendidas, en voz alta.
@@ -1133,11 +1129,11 @@ Es muy loable que se canten las partes que deben ser dichas simultáneamente por
 230 Desde *Por eso, Padre, te suplicamos,* hasta *Dirige tu mirada, sobre la ofrenda* lo dicen simultáneamente todos los concelebrantes, de este modo:
 
 > a\) *Por eso, Padre, te suplicamos,* con las manos extendidas hacia las ofrendas.
->
+
 > b\) *Porque él mismo, la noche en que iba a ser entregado* y *Del mismo modo, acabada la cena,* con las manos juntas.
->
+
 > c\) Las palabras del Señor, si parece conveniente, con la mano derecha extendida hacia el pan y hacia el cáliz; pero en la elevación miran la Hostia y el cáliz y luego se inclinan profundamente.
->
+
 > d\) *Así, pues, Padre, al celebrar ahora el memorial* y *Dirige tu mirada sobre la ofrenda de tu Iglesia,* con las manos extendidas.
 
 231\. Las intercesiones: *Que Él nos transforme en ofrenda permanente,* *Te pedimos, Padre, que esta Víctima de reconciliación* y *A nuestros hermanos difuntos* conviene encomendarlas a uno u otro de los concelebrantes, quien las pronuncia en voz alta, solo, con las manos extendidas.
@@ -1149,11 +1145,11 @@ Es muy loable que se canten las partes que deben ser dichas simultáneamente por
 233\. Desde: *Por eso, Padre, te rogamos,* hasta *Dirige tu mirada, sobre esta Víctima* lo dicen simultáneamente todos los concelebrantes, de este modo:
 
 > a\) *Por eso, Padre, te rogamos,* con las manos extendidas hacia las ofrendas.
->
+
 > b\) *Porque Él mismo, llegada la hora* y *Del mismo modo, tomó el cáliz* con las manos juntas.
->
+
 > c\) Las Palabras del Señor, si parece conveniente, con la mano derecha extendida hacia el pan y hacia el cáliz; pero en la elevación miran la Hostia y el cáliz y luego se inclinan profundamente.
->
+
 > d\) *Por eso, Padre, al celebrar ahora el memorial* y *Dirige tu mirada sobre esta Víctima* con las manos extendidas.
 
 234\. La intercesión *Y ahora, Señor, acuérdate, de todos aquellos* y *Padre de bondad, que todos tus hijos nos reunamos* conviene encomendarlas a uno u otro de los concelebrantes y él solo las pronuncia, con las manos extendidas.
@@ -1185,11 +1181,11 @@ Es muy loable que se canten las partes que deben ser dichas simultáneamente por
 246\. Si la Comunión se recibe bebiendo directamente del cáliz, puede emplearse uno de estos modos:
 
 > a\) El celebrante principal de pie, al centro del altar toma el cáliz y dice en secreto: *La Sangre de Cristo me guarde para la vida eterna* y bebe un poco de la Sangre del Señor y entrega el cáliz al diácono o a un concelebrante. Después distribuye la Comunión a los fieles (cfr. núms.160 -162).
->
+
 > Los concelebrantes, uno tras otro, o de dos en dos, si se emplean dos cálices, se acercan al altar, hacen genuflexión, beben la Sangre, limpian el borde del cáliz y vuelven a sus asientos.
->
+
 > b\) El celebrante principal en el centro del altar, de la manera acostumbrada bebe la Sangre del Señor.
->
+
 > Pero los concelebrantes pueden beber la Sangre del Señor permaneciendo en sus lugares y bebiendo del cáliz que les ofrece el diácono o un concelebrante, o también pasándose seguidamente el cáliz. El cáliz siempre se purifica o por el mismo que bebe o por quien presenta el cáliz. Cuando cada uno haya comulgado vuelve a su asiento.
 
 247\. En el altar, el diácono bebe reverentemente toda la Sangre de Cristo que quedó, ayudado, si es el caso, por algunos concelebrantes; después traslada el cáliz a la credencia y allí él mismo, o el acólito ritualmente instituido, lo purifica, lo seca y lo arregla (cfr. n. 183).
@@ -1287,7 +1283,7 @@ Los ministros que llevan la cruz procesional o los cirios, en vez de la genuflex
 275\. Con la inclinación se significa la reverencia y el honor que se tributa a las personas mismas o a sus signos. Hay dos clases de inclinaciones, es a saber, de cabeza y de cuerpo:
 
 > a\) La inclinación de cabeza se hace cuando se nombran al mismo tiempo las tres Divinas Personas, y al nombre de Jesús, de la bienaventurada Virgen María y del Santo en cuyo honor se celebra la Misa.
->
+
 > b\) La inclinación de cuerpo, o inclinación profunda, se hace: al altar, en las oraciones *Purifica mi corazón* y *Acepta, Señor, nuestro corazón contrito*; en el Símbolo, a las palabras *y por obra del Espíritu Santo* o *que fue concebido por obra y gracia del Espíritu Santo;* en el Canon Romano, a las palabras *Te pedimos humildemente.* El diácono hace la misma inclinación cuando pide la bendición antes de la proclamación el Evangelio. El sacerdote, además, se inclina un poco cuando, en la consagración, pronuncia las palabras del Señor.
 
 ***Incensación***
@@ -1297,13 +1293,13 @@ Los ministros que llevan la cruz procesional o los cirios, en vez de la genuflex
 El incienso puede usarse a voluntad en cualquier forma de Misa:
 
 > a\) durante la procesión de entrada;
->
+
 > b\) al inicio de la Misa para incensar la cruz y el altar;
->
+
 > c\) para la procesión y proclamación del Evangelio;
->
+
 > d\) después de ser colocados el pan y el vino sobre el altar, para incensar las ofrendas, la cruz y el altar, así como al sacerdote y al pueblo;
->
+
 > e\) En la elevación de la Hostia y del cáliz después de la consagración.
 
 277\. El sacerdote, cuando pone incienso en el turíbulo, lo bendice con el signo de cruz sin decir nada.
@@ -1317,7 +1313,7 @@ Con dos movimientos del turíbulo se inciensan las reliquias y las imágenes de 
 El altar se inciensa con un único movimiento, de esta manera:
 
 > a\) Si el altar está separado de la pared, el sacerdote lo inciensa circundándolo.
->
+
 > b\) Pero si el altar no está separado de la pared, el sacerdote, al ir pasando, inciensa primero la parte derecha y luego la parte izquierda.
 
 La cruz, sí está sobre el altar o cerca de él, se turifica antes de la incensación del altar, de lo contrario cuando el sacerdote pasa ante ella.
@@ -1345,9 +1341,9 @@ Enseñen además, que en la administración de los Sacramentos, dejando intacto 
 283\. La Comunión bajo las dos especies se permite, además de los casos expuestos en los libros rituales:
 
 > a\) a los sacerdotes que no pueden celebrar o concelebrar el sacrificio;
->
+
 > b\) al diácono y a los demás que desempeñan algún ministerio en la Misa;
->
+
 > c\) a los miembros de las comunidades en la Misa conventual o en la denominada “de comunidad”, a los alumnos de los seminarios, a todos los que se dedican a los ejercicios espirituales o participan en una reunión espiritual o pastoral.
 
 El Obispo diocesano puede establecer para su diócesis las normas acerca de la Comunión bajo las dos especies, que también han de observarse en las iglesias de los religiosos y en pequeños grupos. A este mismo Obispo se da la facultad de permitir la Comunión bajo las dos especies cuantas veces esto le parezca oportuno al sacerdote, al cual, como pastor propio le está encomendada la comunidad, con tal de que los fieles estén bien instruidos y que esté ausente todo peligro de profanación del Sacramento, o que el rito se torne más dificultoso por la multitud de participantes, o por otra causa.
@@ -1357,7 +1353,7 @@ En cuanto al modo de distribuir a los fieles la sagrada Comunión bajo las dos e
 284\. Cuando se distribuye la Comunión bajo las dos especies:
 
 > a\) el diácono, como de costumbre, sirve con el cáliz o, en su ausencia, un presbítero o también un acólito ritualmente instituido u otro ministro extraordinario de la sagrada Comunión; o un fiel, a quien, en caso de necesidad, se le confía este ministerio “ad actum”; (para esta ocasión;)
->
+
 > b\) lo que quizás quede de la Sangre de Cristo, es bebido en el altar por el sacerdote o por el diácono, o por el acólito ritualmente instituido, quien sirvió con el cáliz y que también purifica, seca y arregla los vasos sagrados de la manera acostumbrada.
 
 A los fieles, que quizás quieran comulgar solo bajo la especie de pan, déseles la sagrada Comunión de esta forma.
@@ -1365,7 +1361,7 @@ A los fieles, que quizás quieran comulgar solo bajo la especie de pan, déseles
 285\. Para distribuir la sagrada Comunión bajo las dos especies, prepárese:
 
 > a\) un cáliz de suficiente capacidad o varios cálices si la Comunión se hace bebiendo directamente del cáliz, pero previendo siempre prudentemente que al final de la celebración no quede de la Sangre de Cristo más de lo que es prudente para ser bebida.
->
+
 > b\) Si se hace por intinción, las hostias no sean demasiado delgadas ni demasiado pequeñas, sino de un espesor mayor que el de costumbre, para que las hostias mojadas en parte con la Sangre del Señor puedan ser cómodamente distribuidas.
 
 286\. Si la Comunión de la Sangre del Señor se hace bebiendo del cáliz, quien va a comulgar, después de haber recibido el Cuerpo de Cristo, pasa al ministro del cáliz y permanece de pie ante él. El ministro le dice: *La Sangre de Cristo;* quien va a comulgar responde: *Amén*; y el ministro le entrega el cáliz, para que lo lleve a la boca el mismo que va a comulgar, con sus manos. El que va a comulgar bebe un poco del cáliz, lo devuelve al ministro y se retira; el ministro limpia el borde del cáliz con el purificador.
@@ -1491,7 +1487,7 @@ Como norma general, el tabernáculo debe ser uno solo, inamovible, elaborado de 
 Por esto, es preferible que el tabernáculo, sea colocado de acuerdo con el parecer del Obispo diocesano:
 
 > a\) o en el presbiterio, fuera del altar de la celebración, en la forma y en el lugar más convenientes, sin excluir el antiguo altar que ya no se emplea para la celebración (cfr. n. 303);
->
+
 > b\) o también en alguna capilla idónea para la adoración y la oración privada de los fieles,[^129] que esté armónicamente unida con la iglesia y sea visible para los fieles.
 
 316\. Cerca del sagrario, según la costumbre tradicional, alumbre permanentemente una lámpara especial, alimentada con aceite o cera, por la cual se indique y honre la presencia de Cristo.[^130]
@@ -1575,17 +1571,17 @@ También en este campo búsquese cuidadosamente la noble simplicidad que se une 
 346\. En cuanto al color de las vestiduras, obsérvese el uso tradicional, es decir:
 
 > a\) El color blanco se emplea en los Oficios y en las Misas del Tiempo Pascual y de la Natividad del Señor; además, en las celebraciones del Señor, que no sean de su Pasión, de la bienaventurada Virgen María, de los Santos Ángeles, de los Santos que no fueron Mártires, en la solemnidad de Todos los Santos (1º de noviembre), en la fiesta de San Juan Bautista (24 de junio), en las fiestas de San Juan Evangelista (27 de diciembre), de la Cátedra de San Pedro (22 de febrero) y de la Conversión de San Pablo (25 de enero).
->
+
 > b\) El color rojo se usa el domingo de Pasión y el Viernes Santo, el domingo de Pentecostés, en las celebraciones de la Pasión del Señor, en las fiestas natalicias de Apóstoles y Evangelistas y en las celebraciones de los Santos Mártires.
->
+
 > c\) El color verde se usa en los Oficios y en las Misas del Tiempo Ordinario.
->
+
 > d\) El color morado se usa en los Tiempos de Adviento y de Cuaresma. Puede usarse también en los Oficios y Misas de difuntos.
->
+
 > e\) El color negro puede usarse, donde se acostumbre, en las Misas de difuntos.
->
+
 > f\) El color rosado puede usarse, donde se acostumbre, en los domingos *Gaudete* (III de Adviento) y *Laetere* (IV de Cuaresma).
->
+
 > g\) En los días más solemnes pueden usarse vestiduras sagradas festivas o más nobles, aunque no sean del color del día.
 
 Sin embargo, las Conferencias de Obispos, en lo referente a los colores litúrgicos, pueden determinar y proponer a la Sede Apostólica las adaptaciones que mejor convengan con las necesidades y con la índole de los pueblos.
@@ -1619,15 +1615,15 @@ Pero ya que se presentan múltiples posibilidades de elegir las diversas partes 
 354\. En los domingos y en las ferias de Adviento, Navidad, Cuaresma y Pascua, en las fiestas y en las memorias obligatorias:
 
 > a\) Si la Misa se celebra con pueblo, el sacerdote seguirá el calendario de la iglesia en que celebra.
->
+
 > b\) Si se celebra la Misa, en la cual participa un solo ministro, el sacerdote puede elegir el calendario de la iglesia o el calendario propio.
 
 355\. En las memorias libres:
 
 > a\) En las ferias de Adviento, desde el 17 hasta el 24 de diciembre, los días que corresponden a la Octava de Navidad y las ferias de Cuaresma, excepto el Miércoles de Ceniza, y en las ferias de Semana Santa, se dice la Misa del día litúrgico correspondiente; y de la memoria quizás inscrita en el calendario general, puede tomarse la colecta, con tal de que no coincida con el Miércoles de Ceniza o con una de las ferias de Semana Santa. En las ferias del Tiempo Pascual las memorias de los Santos pueden celebrarse ritualmente íntegras.
->
+
 > b\) En las ferias de Adviento antes del 17 de diciembre, en las ferias del tiempo de Navidad desde el 2 de enero y en las ferias del Tiempo Pascual, puede elegirse la Misa de la feria, o la Misa del Santo, o la de uno de los santos de los que se haga memoria, o la Misa de algún santo que esté inscrito ese día en el Martirologio.
->
+
 > c\) En las ferias del Tiempo Ordinario, puede elegirse la Misa de la feria, o la Misa de una memoria libre que quizás caiga ese día o la Misa de algún Santo inscrito ese día en el Martirologio o una de las Misas por diversas necesidades o una Misa Votiva.
 
 Si celebra con el pueblo, el sacerdote procurará no omitir frecuentemente y sin causa suficiente las lecturas asignadas en el Leccionario Ferial para cada día, pues la Iglesia desea que de esta manera se prepare a los fieles una mesa de la Palabra de Dios más rica.[^141]
@@ -1689,11 +1685,11 @@ Sin embargo, en los tiempos más importantes del año, esta adaptación ya se ha
 365\. La elección entre las Plegarias Eucarísticas, que se encuentran en el Ordinario de la Misa, se rige oportunamente por estas normas.
 
 > a\) La Plegaria Eucarística primera o Canon Romano, que puede emplearse siempre, se dirá más oportunamente en los días que tienen el *Reunidos en comunión* propio, o en las Misas que se enriquecen con el *Acepta, Señor, en tu bondad* propio, también en las celebraciones de los Apóstoles y de los Santos de los que se hace mención en esta misma plegaria; igualmente en los días domingo, a no ser que por motivos pastorales se prefiera la Plegaria Eucarística tercera.
->
+
 > b\) La Plegaria Eucarística segunda, por sus características peculiares, se emplea más oportunamente en los días entre semana, o en circunstancias particulares. Aunque tiene prefacio propio, puede usarse también con otros prefacios, especialmente con aquellos que presentan en forma compendiosa el misterio de la salvación; por ejemplo, con los prefacios comunes. Cuando la Misa se celebra por algún difunto, puede emplearse la fórmula especial, colocada en su lugar, antes de *Acuérdate también de nuestros hermanos*.
->
+
 > c\) La Plegaria Eucarística tercera puede decirse con cualquier prefacio. Prefiérase su uso los domingos y en las fiestas. Y si esta Plegaria se emplea en las Misas de difuntos, puede emplearse la fórmula especial colocada en su lugar, a saber, después de las palabras *Reúne en torno a Ti, Padre misericordioso, a todos tus hijos dispersos por el mundo*.
->
+
 > d\) La Plegaria Eucarística cuarta tiene un prefacio inconmutable y presenta un sumario más completo de la historia de la salvación. Puede emplearse cuando la Misa carece de prefacio propio y en los domingos del Tiempo Ordinario. En esta Plegaria, por razón de su propia estructura, no puede introducirse una fórmula especial por un difunto.
 
 ***El canto***
@@ -1769,17 +1765,17 @@ El Misal Romano debe ser editado íntegramente, tanto en el texto latino, como e
 390\. Corresponde a las Conferencias de Obispos definir las adaptaciones que se indicarán en esta Institución General y en el Ordinario de la Misa, y una vez aprobadas las actas por la Sede Apostólica, introducirlas en el Misa, como son:
 
 > — Los gestos de los fieles y las posturas corporales (cfr. antes n. 43)
->
+
 > — Los gestos de veneración referentes al altar y al Evangeliario (cfr. antes n. 273).
->
+
 > — Los textos de los cantos de entrada, de preparación de los dones y de la Comunión (cfr. antes núms. 48; 74; 87).
->
+
 > — Las lecturas que deben ser tomadas de la Sagrada Escritura para circunstancias especiales (cfr. antes n.362).
->
+
 > — La forma de dar la paz (cfr. antes n.82).
->
+
 > — El modo de recibir la sagrada Comunión (cfr. antes núms. 160; 283).
->
+
 > — El material del altar y de los utensilios sagrados, especialmente de los vasos sagrados y, además, el material, la forma y el color de las vestiduras litúrgicas (cfr. antes núms. 301; 326; 329; 339; 342-346).
 
 Más aun, podrán ser incluidos en el Misal Romano, en un lugar adecuado, con previa aprobación de la Sede Apostólica, los Directorios o Instrucciones Pastorales que las Conferencias de Obispos juzguen útiles.[^150]
@@ -1813,7 +1809,7 @@ Conviene que en la edición del Misal las celebraciones que son propias para tod
 En cuanto a la manera de proceder en esta materia, obsérvese lo siguiente:
 
 > En primer lugar, expóngase detalladamente a la Sede Apostólica la presentación previa, para que una vez concedida la facultad, se proceda a elaborar cada una de las adaptaciones.
->
+
 > Habiendo sido debidamente aprobados estos planes por la Sede Apostólica, se harán los experimentos por el tiempo y en los lugares determinados. Si fuere del caso, terminado el tiempo del experimento, la Conferencia de Obispos determinará la continuación de las adaptaciones y propondrá a la Sede Apostólica una formulación madura del asunto.[^159]
 
 396\. Pero antes de que se llegue a nuevas adaptaciones, principalmente en cuanto corresponde a las más profundas, hay que procurar cuidadosamente que se promueva la debida, sabia y ordenada instrucción del clero y de los fieles, que las facultades ya previstas se lleven a efecto y que las normas pastorales, que responden al espíritu de la celebración, se apliquen plenamente.
@@ -1835,8 +1831,6 @@ Finalmente, la investigación de la inculturación de ningún modo pretende que 
 **Notas**
 
 CEC 1975, Culto eucarístico fuera de la Misa, núms. 11, pág.15); *[Código de Derecho Canónico](/archive/ESL0020/__P3A.HTM),* canon 938, 2; Juan Pablo II, Carta *[Dominicae Cenae](/holy_father/john_paul_ii/letters/documents/hf_jp-ii_let_24021980_dominicae-cenae_sp.html),* día 24 de febrero de 1980, núm. 3: A.A.S. 72 (1980) págs. 117-119.
-
-[](#top)
 
 [^1]: Concilio Ecuménico Tridentino, Sesión XXII, día 17 de septiembre de 1562: Denz.-Schönm. 1738-1759.
 

@@ -1,16 +1,10 @@
 # Notificación sobre algunos escritos del Revdo. P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***NOTIFICACIÓN* sobre algunos escritos del *RVDO. P. MARCIANO VIDAL, C.Ss.R.***
 
 **PREÁMBULO**
-
-** **
 
 Una de las misiones encomendadas a la Congregación para la Doctrina de la Fe es velar y custodiar la doctrina de la fe, para que el Pueblo de Dios se mantenga fiel a la enseñanza recibida. Por ello, en ocasiones, debe hacer juicio de doctrina y advertir, incluso con notificación pública, sobre ambigüedades o errores expresados en algunas publicaciones de especial difusión que pueden dañar la fe del Pueblo de Dios, en orden a su oportuna rectificación. Tal notificación, a veces resulta necesaria, aun cuando el autor se muestre bien dispuesto a rectificar o ya esté rectificando.  
 
@@ -193,5 +187,3 @@ Dado en Roma, en la sede de la Congregación para la Doctrina de la Fe, el 22 de
 56 Cfr. Ma II/1, p. 408 = 442. 444.
 
 57 Cfr. Decl. De abortu procurato, nn. 19-23: AAS 66 (1974) 742-744; Enc. Evangelium vitae, nn. 71-74: AAS 87 (1995) 483-488.
-
-[](#top)

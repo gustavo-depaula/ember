@@ -1,9 +1,5 @@
 # Nota di commento
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***NOTA DI COMMENTO***
@@ -45,7 +41,5 @@ Nell’affermare che la somministrazione di cibo e acqua è moralmente obbligato
 Questi casi eccezionali nulla tolgono però al criterio etico generale, secondo il quale la somministrazione di acqua e cibo, anche quando avvenisse per vie artificiali, rappresenta sempre un *mezzo naturale* di conservazione della vita e non un *trattamento terapeutico*. Il suo uso sarà quindi da considerarsi *ordinario* e *proporzionato*, anche quando lo “stato vegetativo” si prolunghi.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: La terminologia relativa alle diverse fasi e forme dello “stato vegetativo” è controversa, ma per il giudizio morale ciò non ha rilevanza.

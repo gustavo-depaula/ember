@@ -1,9 +1,5 @@
 # Indirizzo di omaggio al Santo Padre del Cardinale Joseph Ratzinger, Decano del Collegio Cardinalizio
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INDIRIZZO DI AUGURIO AL SANTO PADRE DEL DECANO DEL COLLEGIO CARDINALIZIO, EM.MO CARD. JOSEPH RATZINGER***
 
 *Lunedì, 22 dicembre 2003*
@@ -21,5 +17,3 @@ Con queste parole Lei ha indicato la direzione e il centro delle celebrazioni pe
 Alla fine della Sua enciclica sulla santa eucaristia, Lei ha ripreso il filo della *Â„[Lettera apostolica sul rosario](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_20021016_rosarium-virginis-mariae_it.html)"* indicandoci Maria come donna eucaristica. Partendo dalla contemplazione della Madre di Dio, Lei ha tradotto il mistero eucaristico nel concreto della nostra esistenza; penso soprattutto alla frase: Â„C'è pertanto un'analogia profonda tra il fiat pronunciato da Maria alle Parole dell'Angelo, e l'amen che ogni fedele pronuncia quando riceve il Corpo del Signore" (VI, 55):
 
 Santo Padre, con questa parole che parlano al cuore, ma ancor più con il Suo esempio, Lei, nel corso di quest'anno ci ha indicato la via anche per il futuro. Per questo oggi La ringraziamo. E, mentre Le diciamo: Buon Natale e felice Anno Nuovo, Le chiediamo di benedirci.
-
-[](#top)

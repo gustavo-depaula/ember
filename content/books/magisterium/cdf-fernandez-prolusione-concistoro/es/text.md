@@ -1,13 +1,5 @@
 # Releyendo Evangelii Gaudium. Prolusión para el Consistorio Extraordinario del 7-8 de enero de 2026
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Víctor Manuel Fernández *Prefecto del Dicasterio para la Doctrina della Fe*

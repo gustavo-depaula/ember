@@ -6,8 +6,6 @@ DU SOUVERAIN PONTIFE
 **JEAN-PAUL II**  
 AUX RESPONSABLES DES COMMUNICATIONS SOCIALES
 
- *
-
 1\. Le progrès rapide des technologies dans le domaine des médias est assurément un des signes du progrès de la société moderne. En considérant ces nouveautés en évolution continuelle, le texte du Décret du Concile Œ cuménique Vatican II *[Inter mirifica](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_fr.html),* promulgué par mon vénéré prédécesseur, le Serviteur de Dieu Paul VI, le 4 décembre 1963, semble encore plus actuel:  “Parmi les admirables inventions techniques que, Dieu aidant, le génie humain a pu extraire de l’univers créé, l’Église accueille et suit  avec une sollicitude  particulière  celles qui concernent avant tout l’esprit même de l’homme  et qui ont ouvert  des voies nouvelles pour communiquer des informations  de toutes sortes”.\[1\]
 
 **I. *Un chemin fécond dans la ligne du Décret* Inter mirifica**

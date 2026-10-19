@@ -1,9 +1,5 @@
 # Norms on the preparation of the process for the dissolution of the marriage bond in favour of the faith
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***NORMS ON THE PREPARATION OF THE PROCESS FOR THE DISSOLUTION OF THE MARRIAGE BOND IN FAVOUR OF THE FAITH***
@@ -199,5 +195,3 @@ Art. 25
 § 1. The Bishop is to send three typewritten sets of the acts to the Congregation for the Doctrine of the Faith, together with his opinion and the observations of the defender of the bond, an index and the summary of the case.
 
 § 2. Care is also to be taken that the acts of a case drawn up in the language and style of the place are translated into one of those recognized in the regulations of the Roman Curia and confirmed with a sworn declaration that they have been faithfully translated and transcribed.
-
-[](#top)

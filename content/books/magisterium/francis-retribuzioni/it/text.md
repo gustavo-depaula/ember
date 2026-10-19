@@ -11,17 +11,17 @@
 Un futuro sostenibile economicamente richiede oggi, fra altre decisioni, di adottare anche misure riguardanti le retribuzioni del personale.
 
 > a\) Considerato il disavanzo che da diversi anni caratterizza la gestione economica della Santa Sede;
->
+
 > b\) considerato l’aggravamento di tale situazione a seguito dell’emergenza sanitaria determinata dalla diffusione del Covid – 19, che ha inciso negativamente su tutte le fonti di ricavo della Santa Sede e dello Stato della Città del Vaticano;
->
+
 > c\) considerato che i costi per il personale costituiscono una rilevante voce di spesa nel bilancio della Santa Sede e dello Stato della Città del Vaticano;
->
+
 > d\) ritenuto, pur in presenza di adeguata patrimonializzazione della Santa Sede e dello Stato della Città del Vaticano, di dover assicurare la sostenibilità e l’equilibrio tra entrate e uscite nella gestione economica e finanziaria corrente;
->
+
 > e\) ritenuto di dover procedere a riguardo secondo criteri di proporzionalità e progressività;
->
+
 > f)  con la finalità di salvaguardare gli attuali posti di lavoro;
->
+
 > g\) acquisito il competente parere della Segreteria per l’Economia e dopo aver esaminato con cura ogni questione riguardante la materia, stabilisco quanto segue:
 
 **Articolo 1**
@@ -47,9 +47,9 @@ Un futuro sostenibile economicamente richiede oggi, fra altre decisioni, di adot
 §1 La riduzione di cui agli articoli 1, 2 e 3 non si applica qualora l’interessato documenti che gli sia impossibile far fronte a spese fisse connesse allo stato di salute proprio o di parenti entro il secondo grado. I presupposti per l’applicazione del presente articolo sono valutati annualmente. La relativa documentazione è presentata:
 
 > a\) alla Segreteria per l’Economia per i dipendenti che dipendono amministrativamente da essa;
->
+
 > b\) al Governatorato dello Stato della Città del Vaticano per i propri dipendenti;
->
+
 > c\) all’Ente di appartenenza per i dipendenti della Congregazione per l’Evangelizazione dei Popoli e degli Enti di cui all’art. 6;
 
 **Articolo 5**

@@ -1,15 +1,5 @@
 # Homiletic Directory, Congregation for Divine Worship and the Discipline of the Sacraments
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR DIVINE WORSHIP  
@@ -91,37 +81,37 @@ From the offices of the Congregation for Divine Worship and the Discipline of th
 **[ARS PRAEDICANDI](#ARS_PRAEDICANDI)**
 
 > [I. The Paschal Triduum and the Fifty Days](#I._THE_PASCHAL_TRIDUUM_AND_THE_FIFTY_DAYS)
->
+
 > > [A. The Old Testament Reading on Holy Thursday](#A._The_Old_Testament_Reading_on_Holy_Thursday)  
 > > [B. The Old Testament Reading on Good Friday](#B._The_Old_Testament_Reading_on_Good_Friday)   
 > > [C. The Old Testament Readings of the Easter Vigil](#C._The_Old_Testament_Readings_of_the_Easter_Vigil)   
 > > [D. The Easter Lectionary](#D._The_Easter_Lectionary)
->
+
 > [II. The Sundays of Lent](#II._THE_SUNDAYS_OF_LENT)
->
+
 > > [A. The Gospel of the First Sunday of Lent](#A._The_Gospel_of_the_First_Sunday_of_Lent)   
 > > [B. The Gospel of the Second Sunday of Lent](#B._The_Gospel_of_the_Second_Sunday_of_Lent)  
 > > [C. The Third, Fourth, and Fifth Sundays of Lent](#C._The_Third,_Fourth,_and_Fifth_Sundays_of_Lent)  
 > > [D. Palm Sunday of the Lord’s Passion](#D._Palm_Sunday_of_the_Lord’s_Passion)
->
+
 > [III. The Sundays of Advent](#III._THE_SUNDAYS_OF_ADVENT) 
->
+
 > > [A. The First Sunday of Advent](#A._The_First_Sunday_of_Advent)   
 > > [B. The Second and Third Sundays of Advent](#B._The_Second_and_Third_Sundays_of_Advent)  
 > > [C. The Fourth Sunday of Advent](#C._The_Fourth_Sunday_of_Advent)
->
+
 > [IV. The Christmas Season](#IV._THE_CHRISTMAS_SEASON)
->
+
 > > [A. The Liturgies of Christmas](#A._The_Liturgies_of_Christmas)   
 > > [B. The Feast of the Holy Family](#B._The_Feast_of_the_Holy_Family)  
 > > [C. The Solemnity of Mary, the Mother of God](#C._The_Solemnity_of_Mary,_the_Mother_of_God)   
 > > [D. The Solemnity of the Epiphany](#D._The_Solemnity_of_the_Epiphany)  
 > > [E. The Feast of the Baptism of the Lord](#E._The_Feast_of_the_Baptism_of_the_Lord)
->
+
 > [V. The Sundays in Ordinary Time](#V._THE_SUNDAYS_IN_ORDINARY_TIME) 
->
+
 > [VI. Other Occasions](#VI._OTHER_OCCASIONS) 
->
+
 > > [A. Weekday Mass](#A._Weekday_Mass)   
 > > [B. Weddings](#B._Weddings)  
 > > [C. Funerals](#C._Funerals)
@@ -1974,31 +1964,29 @@ The Second Vatican Council
 Papal Magisterium
 
 > Paul VI
->
+
 > > Encyclical *Mysterium fidei*: 36  
 > > Apostolic Exhortation *Evangelii nuntiandi*: 43, 75-76, 78-79
->
+
 > John Paul II
->
+
 > > Apostolic Exhortation *Catechesi tradendae*: 48  
 > > Apostolic Exhortation *Pastores dabo vobis*: 26  
 > > Apostolic Exhortation *Pastores gregis*: 15  
 > > Apostolic Letter *Dies Domini*: 39-41  
 > > Apostolic Letter *Novo millennio ineunte*: 39-40156
->
+
 > Benedict XVI
->
+
 > > Apostolic Exhortation *Sacramentum caritatis*: 45-46  
 > > Apostolic Exhortation *Verbum Domini*: 52-71
->
+
 > Francis
->
+
 > > Apostolic Exhortation *Evangelii gaudium*: 135-159
 
 Liturgical Books
 
-> 
->
 > General Instruction of the Roman Missal: 29, 57, 65-66 *Introduction* of the *Lectionary for Mass*: 4-31, 38-48, 58-110 *Introduction* of the *Order of Funerals*: 15 *Introduction* of the *Rite of Marriage*: 22
 
 Code of Canon Law

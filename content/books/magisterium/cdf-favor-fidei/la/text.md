@@ -1,9 +1,5 @@
 # Normae de conficiendo processu pro solutione vinculi matrimonialis in favorem fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 *NORMAE DE CONFICIENDO PROCESSU PRO SOLUTIONE VINCULI MATRIMONIALIS IN FAVOREM FIDEI \**
@@ -43,8 +39,6 @@ Quibus novis normis statutis, priores normae quae ad horum processuum instructio
 **+ Ioseph Card. Ratzinger,** * Praefectus*
 
 **+ Tharsicius Bertone, S.D.B.,** Archiep. emeritus Vercellen., *a Secretis*
-
-*  * 
 
 **PARS I**
 
@@ -203,5 +197,3 @@ Art. 25
 ------------------------------------------------------------------------
 
 \* Typis Vaticanis, 2001.
-
-[](#top)

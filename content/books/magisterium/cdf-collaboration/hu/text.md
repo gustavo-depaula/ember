@@ -1,9 +1,5 @@
 # Levél a Katolikus Egyház Püspökeihez a férfi és nő együttműködéséről az Egyházban és a világban
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Hittani Kongregáció**
 
 **Levél a Katolikus Egyház Püspökeihez a férfi és nő együttműködéséről az Egyházban és a világban**  
@@ -158,5 +154,3 @@ Jegyzetek:
 [\[22\]](#JB22) Vö. II. János Pál pápa: *Ordinatio sacerdotalis* apostoli levél (1994. V. 22.): AAS 86 (1994), 545-548; Hittani Kongregáció: *Risposta al dubbio circa la dottrina della Lettera apostolica Ordinatio sacerdotalis* (1995. X. 28.): AAS 87 (1995), 1114.
 
 \[www.katolikus.hu\]
-
-[](#top)

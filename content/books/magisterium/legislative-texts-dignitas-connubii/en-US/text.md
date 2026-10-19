@@ -1,9 +1,5 @@
 # Instruction Dignitas Connubii
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICAL COUNCIL FOR LEGISLATIVE TEXTS
 
 **INSTRUCTION**
@@ -1715,5 +1711,3 @@ Given in Rome at the Pontifical Council for Legislative Texts, on the 25th day o
 \(24\) Cf. John Paul II, Alloc. to the Auditors of the Roman Rota, 5 Feb. 1987, in *AAS* 79 (1987) 1453-1459 and 25 Jan. 1988, in *AAS* 80 (1988) 1178-1185.
 
 \(25\) Cf. John Paul II, Alloc. to the Auditors of the Roman Rota, 22 Jan. 1996, n. 4, in *AAS* 88 (1996) 773-777.
-
-[](#top)

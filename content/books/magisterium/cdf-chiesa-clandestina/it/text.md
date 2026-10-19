@@ -1,8 +1,4 @@
-# 
-
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
+# chiesa clandestina
 
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
@@ -69,5 +65,3 @@ Roma, dalla Sede della Congregazione per la Dottrina della Fede, l’11 febbraio
 *Prefetto*
 
  + **Tarcisio Bertone** *Arcivescovo emerito di Vercelli Segretario*
-
-[](#top)

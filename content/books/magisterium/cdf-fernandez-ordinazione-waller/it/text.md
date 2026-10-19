@@ -1,13 +1,5 @@
 # Omelia di Sua Eminenza il Cardinale Víctor Fernández per l’ordinazione episcopale di S. E. Mons David A. Waller, Vescovo dell’Ordinariato personale di Nostra Signora di Walsingham
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Victor Manuel Fernández *Prefetto del Dicastero per la Dottrina della Fede*

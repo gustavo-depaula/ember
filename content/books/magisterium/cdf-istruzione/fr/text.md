@@ -1,9 +1,5 @@
 # Instruction sur les prières pour obtenir de Dieu la guérison - Cong. pour la Doctrine de la Foi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***INSTRUCTION SUR LES PRIÈRES POUR OBTENIR DE DIEU LA GUÉRISON  ***
@@ -194,5 +190,3 @@ Archevêque émérite de Vercelli, 
 \(31\) Cf. CONGREGATIO PRO DOCTRINA FIDEI, Epistula *Inde ab aliquot annis*, Ordinariis locorum missa: in mentem normae vigentes de exorcismis revocantur, 29 septembris 1985, in AAS, 77(1985), pp. 1169-1170.
 
 \(32\) Cf. *Rituale Romanum*, Ex Decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum, Auctoritate Ioannis Pauli II promulgatum, *De exorcismis et supplicationibus quibusdam*, Editio typica, Typis Vaticanis MIM, *Praenotanda*, nn. 13-19.
-
-[](#top)

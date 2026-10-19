@@ -2,8 +2,6 @@
 
 ***LIST OJCA SWIETEGO JANA PAWLA II DO KAPLANÓW NA WIELKI CZWARTEK 1998 ROKU***
 
-***   ***
-
 *Drodzy Bracia w Kaplanstwie!*
 
 Mysla i sercem zwracam sie ku Wielkiemu Jubileuszowi, który jest uroczysta pamiatka dwutysiaclecia narodzin Chrystusa i poczatkiem trzeciego milenium chrzescijanstwa, aby wraz z wami przyzywac Ducha Bozego, któremu jest w szczególny sposób poswiecony drugi etap duchowego programu bezposrednich przygotowan do Roku Swietego 2000.
@@ -149,5 +147,3 @@ Przyjdz, Duchu Swiety! Przyjdz, aby nasza sluzba Bogu i braciom przynosila owoce
 Z pozdrowieniem i zyczeniami wszelkiej Bozej pomocy w waszym poslugiwaniu pasterskim, z calego serca udzielam wam wszystkim Apostolskiego Blogoslawienstwa.
 
 *W Rzymie, dnia 25 marca 1998, w uroczystosc Zwiastowania Panskiego, w dwudziestym roku mego Pontyfikatu.*
-
-*  *

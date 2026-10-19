@@ -175,17 +175,11 @@ The promise of a Redeemer brightens the first page of the history of mankind, an
 
 82\. With eyes lifted on high, our Faith sees the new heavens and the new earth described by Our first Predecessor, St. Peter.\[49\] While the promises of the false prophets of this earth melt away in blood and tears, the great apocalyptic prophecy of the Redeemer shines forth in heavenly splendor: "Behold, I make all things new."\[50\] Venerable Brethren, nothing remains but to raise Our paternal hands to call down upon you, upon your clergy and people, upon the whole Catholic family, the Apostolic Benediction.
 
-* *
-
 Given at Rome, at St. Peter's, on the feast of St. Joseph, patron of the universal Church, on the 19th of March, 1937, the 16th year of our Pontificate.
 
 **PIUS XI**
 
-* *
-
 ------------------------------------------------------------------------
-
-* *
 
 1\. Encycl. *Qui Pluribus*, Nov. 9, 1864 (*Acta Pii* IX, Vol I, p. 13). Cf. *Syllabus*, IV, (A.S.S., vol. III, p. 170).
 

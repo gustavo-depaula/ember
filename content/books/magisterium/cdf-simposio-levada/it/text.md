@@ -1,9 +1,5 @@
 # Per una risposta articolata alla sfida dellÂÂÂabuso sessuale sui minori, Card. William Joseph Levada, 6 febbraio 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***PER UNA RISPOSTA ARTICOLATA ALLA SFIDA DELL'ABUSO SESSUALE SUI MINORI***
 
 **Cardinale William Levada**
@@ -73,5 +69,3 @@ Il viaggio ÂÂÂ“*Verso la guarigione e il ritrovamento*ÂÂÂ” deve essere
 Spero che le mie osservazioni odierne possano fornire un contributo, per quanto piccolo, a questa speranza rinnovata. Ho tentato di concentrare lÂÂÂ’attenzione su misure concrete assunte dalla Chiesa denominata ÂÂÂ“CattolicaÂÂÂ” ÂÂÂ– universale ÂÂÂ– nel tentativo di intervenire sui molteplici aspetti della sfida dellÂÂÂ’abuso sessuale nei confronti dei minori da parte di chierici. Vale la pena ripetere come i responsabili di abusi costituiscano una piccola minoranza di un clero peraltro fedele e impegnato. Tuttavia questa piccola minoranza ha causato un grande danno alle vittime, come pure alla missione della Chiesa volta a portare lÂÂÂ’amore di Cristo nel mondo odierno.
 
 Sono personalmente convinto che i passi attualmente intrapresi, con particolare riferimento al *[motu proprio SST](/holy_father/john_paul_ii/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela_it.html)* e alla *[Lettera circolare](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20110503_abuso-minori_it.html)* della Congregazione, unitamente alle numerosissime iniziative avviate a livello locale in risposta alla sfida dellÂÂÂ’abuso sessuale sui minori da parte di chierici, ci aiuteranno a proseguire in questa risposta attraverso numerose e feconde modalità che guariranno le ferite del passato e ribadiranno il nostro impegno verso un futuro pieno di speranza, quel futuro che Dio misericordioso ci ha promesso. Vi ringrazio per lÂÂÂ’iniziativa di questo Simposio ÂÂÂ“ Verso la guarigione e il rinnovamentoÂÂÂ”: che possa servire da modello per studi futuri che aiutino noi tutti a far fronte a tutte le necessità del nostro agire in quanto Chiesa. Possa questo Simposio essere una fonte di conoscenza e di speranza per quanti si adoperano al fine di eliminare dalla società la piaga dellÂÂÂ’abuso sessuale sui minori.
-
-[](#top)

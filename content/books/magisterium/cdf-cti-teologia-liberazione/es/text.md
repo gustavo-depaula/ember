@@ -1,9 +1,5 @@
 # Teología de la liberación - Comisión Teológica Internacional
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 **Teología de la liberación\***
@@ -44,5 +40,3 @@ Friburgo de Brisgovia, septiembre 1977.
 \*\*\*
 
 \* (Or. alemán: Internationale Theologenkommission, *Theologie der Befreiung*, Sammlung Horizonte Neue Folge 10, Johannes Verlag, Einsiedeln 1977).
-
-[](#top)

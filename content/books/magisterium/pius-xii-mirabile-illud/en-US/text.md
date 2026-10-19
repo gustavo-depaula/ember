@@ -41,5 +41,3 @@ That admirable prodigy of fraternal concord which the numberless multitudes of t
 *Given at Rome from St. Peter's on the sixth day of December, the year 1950, the twelfth of Our Pontificate.*
 
 **PIUS XII**
-
-*  *

@@ -1,9 +1,5 @@
 # Bible et morale. Racines bibliques de l'agir chrétien - Commission Biblique Pontificale
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 COMMISSION BIBLIQUE PONTIFICALE
 
 **BIBLE ET MORALE**
@@ -2007,5 +2003,3 @@ Puisse notre réflexion susciter trois types d’activités ultérieures.
 **161.** 2) Nous pensons aussi qu’une réflexion comme la nôtre, si elle suscite quelque intérêt, pourrait aider les pasteurs et les théologiens à trouver des *stratégies médiatiques* appropriées pour que l’enseignement moral de l’Église soit perçu sous un jour positif et dans toute sa richesse. Certes, pour être fidèle au Christ et au service de l’humanité, l’Église ne peut s’abstenir de présenter clairement les devoirs du croyant et de tout homme, et donc ne pourra jamais faire abstraction des règles et des interdits. Mais l’opposition, surtout quand elle prend l’allure d’un combat jugé nécessaire, n’est qu’un des huit critères que nous avons énoncés. Présenter la « morale révélée » dans toute son ampleur et sa fécondité, dans l’axe de l’Écriture, pourrait tracer les contours d’une pédagogie renouvelée.
 
 **162.** 3) Enfin, pour avoir des suites, le présent document nécessitera, nous en sommes convaincus, un effort de *vulgarisation*. Ainsi seulement, il pourra profiter aux pasteurs, aux agents de pastorale, aux catéchètes, aux enseignants, sans oublier les parents chrétiens qui ont la belle et irremplaçable mission d’éduquer leurs jeunes à la vie, à la foi, à l’usage d’une liberté responsable, et de les guider sur la route du vrai bonheur, celui qui débouche sur l’au-delà de ce monde-ci.
-
-[](#top)

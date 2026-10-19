@@ -5,8 +5,6 @@ ENCICLICA
 DEL SOMMO PONTEFICE  
 **PIO IX**
 
-* *
-
 *Ai Venerabili Fratelli Antonio Pietro IX, Patriarca della Cilicia, e agli Arcivescovi, ai Vescovi e ai diletti Figli, Clero e Popolo, di Rito Armeno che hanno grazia e comunione con la Sede Apostolica. Il Papa Pio IX. Venerabili Fratelli e diletti Figli, salute e Apostolica Benedizione. *
 
 1\. È già trascorso il ventiquattresimo anno da quando, ricorrendo i sacri giorni in cui il nuovo astro sorse in Oriente per illuminare le genti , inviammo una Nostra lettera Apostolica *agli Orientali* per confermare nella fede i cattolici e per richiamare all’unico ovile di Cristo coloro che miseramente si trovano fuori della Chiesa Cattolica. Ci sorrideva la lieta speranza che, con l’aiuto di Dio e del Salvatore nostro Gesù Cristo, la purezza della fede cristiana si sarebbe diffusa sempre più largamente e sarebbe rifiorito in Oriente l’impegno per la disciplina ecclesiastica, alla ricomposizione ed al ristabilimento della quale a norma dei sacri canoni avevamo promesso di non fare mancare la Nostra autorità. Dio sa quanta sollecitudine abbiamo sempre avuto da quel tempo verso gli Orientali e con quanto affetto e carità li abbiamo seguiti: quello che in verità abbiamo compiuto a questo fine tutti lo sanno, e Dio volesse che tutti lo comprendessero. In realtà, per l’imperscrutabile disegno di Dio avvenne che per nulla gli avvenimenti rispondessero all’aspettativa e alle Nostre sollecitudini; e non solo non dobbiamo rallegrarci, ma invece gemere e dolerci per una nuova calamità che affligge alcune Chiese degli Orientali. 

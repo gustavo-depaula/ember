@@ -1,15 +1,5 @@
 # Carta aos Presidentes das Conferências Episcopais acerca das novas invocações nas ladainhas em honra de São José
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

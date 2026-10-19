@@ -8,8 +8,6 @@ ESORTAZIONE APOSTOLICA
 
 AI SACERDOTI E AI CHIERICI CHIAMATI ALLE ARMI
 
-*** ***
-
 Tra le pungenti preoccupazioni addensatesi nell’animo Nostro per l’infierire di una guerra da Noi invano e con ogni mezzo deprecata, è particolarmente sentita quella che Ci viene dalla penosa situazione vostra, dilettissimi sacerdoti e chierici, che dai vostri spirituali ministeri o pacifici studi siete oggi per forza di cose subitamente allontanati e condotti in pieno mondo militare e bellico.
 
 Non assuefatti al genere di vita che ora conducete, eccovi all’improvviso portati a servire nelle caserme, negli ospedali, nelle ambulanze e perfino nelle file dei combattenti, gli uni con funzioni di Cappellani, gli altri — e sono i più — con uffici di ben diverso genere da quelli a cui la vostra vocazione vi ha destinati.

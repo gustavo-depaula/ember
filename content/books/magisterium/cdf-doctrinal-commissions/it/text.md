@@ -1,9 +1,5 @@
 # Lettera ai Presidenti delle Conferenze Episcopali circa le Commissioni Dottrinali, 23 novembre 1990
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***LETTERA AI PRESIDENTI DELLE CONFERENZE EPISCOPALI*** ***CIRCA LE COMMISSIONI DOTTRINALI***
@@ -54,5 +50,3 @@ XIV\. Sarà molto utile, infine, che il Presidente della Commissione Dottrinale 
 
 **ALBERTO BOVONE**  
 Arcivescovo tit. di Cesarea di Numidia *Segretario*
-
-[](#top)

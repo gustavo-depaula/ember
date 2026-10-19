@@ -1,9 +1,5 @@
 # In margine alla Notificazione circa alcuni scritti del R.P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **** **In margine alla *NOTIFICAZIONE* della Congregazione per la Dottrina della Fede circa alcuni scritti del  *R.P. MARCIANO VIDAL, C.Ss.R.***
@@ -71,5 +67,3 @@ Gli stessi motivi si ritrovano nell’insegnamento del Magistero sulla fecondazi
 \(12\) Congregazione per la Dottrina della Fede, Istr. Donum vitae (22 febbraio 1987), n. II, B, 5: AAS 80 (1988) 92-94.
 
 \(13\) Giovanni Paolo II, Lett. Enc. Evangelium vitae (25 marzo 1995), nn. 58-62: AAS 87 (1995)  466-472.
-
-[](#top)

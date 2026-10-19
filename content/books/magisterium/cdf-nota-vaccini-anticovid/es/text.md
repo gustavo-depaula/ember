@@ -1,15 +1,5 @@
 # Nota sobre la moralidad del uso de algunas vacunas contra la Covid-19
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE

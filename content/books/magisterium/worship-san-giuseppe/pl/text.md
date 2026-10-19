@@ -1,9 +1,5 @@
 # Dekret, 1 maja 2013
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1))
-
 KONGREGACJA KULTU BOŻEGO I DYSCYPLINY SAKRAMENTÓW
 
 **DEKRET**
@@ -98,5 +94,3 @@ III Modlitwa eucharystyczna:
 
 IV Modlitwa eucharystyczna:  
 «*z Najświętszą Dziewicą, Bogurodzicą Maryją, **ze świętym Józefem, Jej Oblubieńcem**, z Apostołami...*»*.*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Pope Benedict XVI Preacher and Prophet to the Nations - Address by His Eminence William Cardinal Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Pope Benedict XVI Preacher and Prophet to the Nations**
 
 ***Address of Cardinal William Levada***
@@ -73,8 +69,6 @@ Dear friends, I thank you for this opportunity to visit this wonderful Archdioce
 Thank you very much.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Pope Benedict XVI, Meeting with the Representatives of Science, University of Regensburg, September 12, 2006.
 

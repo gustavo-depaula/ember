@@ -19,21 +19,21 @@ Com o Motu Proprio *[Apostolatus peragendi](/content/paul-vi/la/motu_proprio/doc
 Por isso, tudo bem ponderado, e depois de ter pedido o parecer dos Eminentíssimos Cardeais, na reunião extraordinária de Novembro de 1979, e o parecer do Sínodo dos Bispos e ainda o de peritos, dispõe-se o seguinte:
 
 > — I. É constituído o "Pontifício Conselho para a Família" que sucede, substituindo-a, à Comissão para a Família, a qual portanto cessa imediatamente.
->
+
 > — II. Será presidido por um Cardeal, assistido por una "Comissão de Presidência", composta por Bispos dos diversos continentes e pelo Secretário do mesmo Pontifício Conselho para a Família, e também pelo Vice-Presidente do Pontifício Conselho para os Leigos. O Cardeal Presidente é coadjuvado por um Secretário e por um Subsecretário.
->
+
 > Um conveniente número de Membros escolhidos em vários países entre pessoas que tenham competência e experiência pessoal adequadas na matéria, assegurará o trabalho nas secções.
->
+
 > — III. Membros do Pontifício Conselho são as pessoas, na maioria leigos casados, homens e mulheres que sejam chamados de todas as partes do mundo e dignamente representem as diversas áreas culturais. Os Membros são nomeados pelo Santo Padre. Reunir-se-ão em Assembleia Plenária ao menos uma vez ao ano.
->
+
 > — IV. O Pontifício Conselho utiliza a colaboração de Consultores, peritos nas várias disciplinas com particular referência à problemática da família. Também Sacerdotes e Religiosos podem ser chamados para o cargo de Consultores.
->
+
 > Os Consultores formam a Consulta, que tem a missão de formular conselhos e pareceres acerca das questões propostas pelo Presidente e pelos Membros. Estes poderão ser ouvidos, ou individual ou colectivamente, em encontros periódicos
->
+
 > — V. *Competência*: Pertence ao Pontífice Conselho para a Família a promoção do cuidado pastoral das famílias e do apostolado próprio no campo familiar, em aplicação dos ensinamentos e das orientações que tenham expresso os competentes organismos do Magistério eclesiástico, de maneira que as famílias cristãs possam exercer a função educativa, evangelizadora e apostólica, a que são chamadas.
->
+
 > Em particular:
->
+
 > > a\) em espírito de serviço e de colaboração, e no respeito da acção que lhes é própria, trata — com os Bispos, as Conferências Episcopais e os seus organismos, encarregados da pastoral familiar — dos relatos de informações, de trocas de experiências e de orientações que se inspirem na Pastoral Familiar;
 > >
 > > b\) trata da difusão da doutrina da Igreja acerca dos problemas familiares, de maneira que ela possa ser integralmente conhecida e correctamente proposta ao povo cristão quer na catequese quer no conhecimento científico;
@@ -55,7 +55,7 @@ Por isso, tudo bem ponderado, e depois de ter pedido o parecer dos Eminentíssim
 > > i\) presta a sua colaboração aos Dicastérios e aos organismos da Cúria Romana nas matérias da competência deles, as quais tenham algum reflexo na vida e na pastoral das famílias — recebendo deles por sua vez colaboração — especialmente no que respeita à catequese sobre a família, à formação teológica dos jovens sobre os problemas familiares nos Seminários e nas Universidades Católicas, à formação teológico-pastoral no campo familiar dos futuros missionários e das futuras missionárias, dos religiosos e das religiosas, à operosidade da Santa Sé por meio dos competentes organismos internacionais e junto dos vários Estados, para que os direitos da família sejam cada vez mais reconhecidos e tutelados;
 > >
 > > j\) promove — através das Representações Pontifícias — a recolha das notícias sobre a situação humana, social e pastoral das famílias nos vários países.
->
+
 > — VI. Um "Regulamento" experimental — redigido em aplicação do presente Motu Proprio e observando tudo o que se encontra estabelecido na Constituição *[Regimini Ecclesiae Universae](/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19670815_regimini-ecclesiae-universae.html)* e no "Regulamento Geral da Cúria Romana" — dará as oportunas disposições acerca da vida interna do Pontifício Conselho.
 
 *Dado em Roma, junto de São Pedro, a 9 de Maio de 1981, terceiro do Nosso Pontificado.*

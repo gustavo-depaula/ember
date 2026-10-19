@@ -1,9 +1,5 @@
 # PRESS RELEASE: VOX CLARA COMMITTEE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR DIVINE WORSHIP  
 AND THE DISCIPLINE OF THE SACRAMENTS
 
@@ -26,5 +22,3 @@ The Committee, likewise, made numerous recommendations to the Congregation in re
 The Bishops present also had occasion for an exchange with the Prefect of the Congregation for Divine Worship and the Discipline of the Sacraments, His Eminence Cardinal Francis Arinze, and the Secretary, Archbishop Dominic Sorrentino.
 
 The next meeting of the Vox Clara Committee is scheduled for the spring of 2004.
-
-[](#top)

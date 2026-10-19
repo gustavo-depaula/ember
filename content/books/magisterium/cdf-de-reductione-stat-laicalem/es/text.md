@@ -1,13 +1,5 @@
 # Carta a los Obispos y Superiores Generales sobre la reducción al estado laical, 13 enero 1971
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE

@@ -1,13 +1,5 @@
 # Schreiben an Bischof Alan C. Clark bezüglich des ARCIC-Schlußberichts, 27. März 1982
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **HL. KONGREGATION FÜR DIE GLAUBENSLEHRE**

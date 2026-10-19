@@ -9,8 +9,6 @@ DE CAUSIS AD MATRIMONII NULLITATEM DECLARANDAM REFORMANTUR
 
 **FRANCISCUS**
 
-** **
-
 *Mitis et misericors Iesus*, Pastor et Iudex animarum nostrarum, Petro Apostolo eiusque Successoribus potestatem clavium concredidit ad opus iustitiae et veritatis in Ecclesia absolvendum. Quae suprema et universalis potestas, ligandi nempe ac solvendi his in terris, illam Ecclesiarum particularium Pastorum asserit, roborat et vindicat, cuius vi iidem sacrum ius et coram Domino officium habent in suos subditos iudicium faciendi.[^1]
 
 Veneratus Decessor Noster, sanctus Pontifex Ioannes Paulus II, cum *Codicem Canonum Ecclesiarum Orientalium* promulgavit, adnotatum voluit: «Ipsa inde ab exordiis codificationis canonicae orientalium Ecclesiarum constans Romanorum Pontificum voluntas duos Codices, alterum pro latina Ecclesia alterum pro Ecclesiis orientalibus catholicis, promulgandi, admodum manifesto ostendit velle eosdem servare id quod in Ecclesia, Deo providente, evenit, ut ipsa unico Spiritu congregata quasi duobus pulmonibus Orientis et Occidentis respiret atque uno corde quasi duos ventriculos habente in caritate Christi ardeat».[^2]

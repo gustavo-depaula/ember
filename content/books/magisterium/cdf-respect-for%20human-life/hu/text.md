@@ -1,9 +1,5 @@
 # Donum Vitae - Instrukció a kezdődő emberi élet tiszteletéről és az utódnemzés méltóságáról
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Hittani Kongregáció
 
 **Instrukció a kezdődő emberi élet tiszteletéről és az utódnemzés méltóságáról**  
@@ -408,5 +404,3 @@ Jegyzetek:
 [\[60\]](#JB60 "J60") Tanítás:"Dignitatis humanae" 7
 
 \[www.katolikus.hu\]
-
-[](#top)

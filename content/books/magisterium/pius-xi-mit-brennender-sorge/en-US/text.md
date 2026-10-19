@@ -97,8 +97,6 @@ Parents who are earnest and conscious of their educative duties, have a primary 
 
 43\. He who searches the hearts and reins (*Psalm* vii. 10) is Our witness that We have no greater desire than to see in Germany the restoration of a true peace between Church and State. But if, without any fault of Ours, this peace is not to come, then the Church of God will defend her rights and her freedom in the name of the Almighty whose arm has not shortened. Trusting in Him, "We cease not to pray and to beg" (*Col.* i. 9) for you, children of the Church, that the days of tribulation may end and that you may be found faithful in the day of judgment; for the persecutors and oppressors, that the Father of light and mercy may enlighten them as He enlightened Saul on the road of Damascus. With this prayer in Our heart and on Our lips We grant to you, as a pledge of Divine help, as a support in your difficult resolutions, as a comfort in the struggle, as a consolation in all trials, to You, Bishops and Pastors of the Faithful, priests, Religious, lay apostles of Catholic Action, to all your diocesans, and specially to the sick and the prisoners, in paternal love, Our Apostolic Benediction.
 
-* *
-
 Given at the Vatican on Passion Sunday, March 14, 1937.
 
 **PIUS XI**

@@ -1,9 +1,5 @@
 # Schreiben von Kardinal William Levada zur Vorstellung des Rundschreibens an die Bischofskonferenzen bezüglich der Leitlinien für die Behandlung von Fällen sexuellen Missbrauchs von Minderjährigen durch Kleriker
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE   **
 
 ***SCHREIBEN VON KARDINAL WILLIAM LEVADA ZUR VORSTELLUNG DES RUNDSCHREIBENS AN DIE BISCHOFSKONFERENZEN BEZÜGLICH DER  *** ***LEITLINIEN FÜR DIE BEHANDLUNG VON FÄLLEN SEXUELLEN MISSBRAUCHS VON MINDERJÄHRIGEN DURCH KLERIKER*** **
@@ -29,5 +25,3 @@ im Herrn Ihr
 William Kardinal Levada *Präfekt*
 
 \[00715-05.01\] \[Originalsprache: Italienisch\]
-
-[](#top)

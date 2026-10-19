@@ -1,9 +1,5 @@
 # Le citazioni implicite contenute nella S. Scrittura - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **LE CITAZIONI IMPLICITE CONTENUTE NELLA S. SCRITTURA**
@@ -22,5 +18,3 @@ La citata Commissione ha ritenuto opportuno rispondere:
 *Il giorno 13 febbraio 1905, dopo aver io segretario consultore riferito, Sua Santità ha approvato questa risposta e ha comandato di pubblicarla.*
 
 Fr. David Fleming, O.F.M. *Segretario consultore*
-
-[](#top)

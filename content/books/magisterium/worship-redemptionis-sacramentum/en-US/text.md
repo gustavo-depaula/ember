@@ -1,9 +1,5 @@
 # Instruction Redemptionis Sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 #### CONGREGATION FOR DIVINE WORSHIP AND THE DISCIPLINE OF THE SACRAMENT
 
 #### INSTRUCTION
@@ -586,8 +582,6 @@ From the offices of the Congregation for Divine Worship and the Discipline of th
 ------------------------------------------------------------------------
 
 **NOTES**
-
-[](#top)
 
 [^1]: Cf. Missale Romanum, ex decreto sacrosancti Oecumenici Concilii Vaticani II instauratum, auctoritate Pauli Pp. VI promulgatum, Ioannis Pauli Pp. II cura recognitum, editio typica tertia, diei 20 aprilis 2000, Typis Vaticanis, 2002, Missa votiva de Dei misericordia, oratio super oblata, p. 1159.
 

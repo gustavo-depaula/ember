@@ -1,9 +1,5 @@
 # NOTE ÜBER DEN AUSDRUCK „SCHWESTERKIRCHEN“, Rom, 30. Juni 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 NOTE  
@@ -78,8 +74,6 @@ Um Missverständnisse zu klären und theologischer Verwirrung zuvorzukommen, ist
 ------------------------------------------------------------------------
 
 **Noten**
-
-[](#top)
 
 [^1]: PAUL VI. und ATHENAGORAS I., Gemeinsame Erklärung *Pénetrées de reconnaissance* (7. Dezember 1965), 3: *AAS* 58 (1966) 20. Die Exkommunikationen wurden 1965 wechselseitig aufgehoben: »Papst Paul VI. und Patriarch Athenagoras I. in seiner Synode… erklären einvernehmlich, dass sie auch die Bannsprüche bedauern und aus dem Gedächtnis und dem Schoß der Kirche auslöschen« (ebd., 4). Vgl. auch PAUL VI., Apostolisches Schreiben *Ambulate in dilectione* (7. Dezember 1965): *AAS* 58 (1966) 40-41; ATHENAGORAS I., *Tomos* (7. Dezember 1965): *Tomos Agapis*. Vatikan – Phanar (1958-1970), Rom – Istanbul 1971, 290-295.
 

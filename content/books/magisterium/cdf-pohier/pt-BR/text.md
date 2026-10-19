@@ -1,13 +1,5 @@
 # Declaração sobre o livro do Rev. P. Jacques Pohier, Quand je dis Dieu, 3 de abril de 1979
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ

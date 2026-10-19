@@ -1,10 +1,6 @@
 # Artigo Ilustrativo J. Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
+**CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***ARTIGO ILUSTRATIVO DA NOTIFICAÇÃO A PROPÓSITO DO LIVRO DE JACQUES DUPUIS: "PARA UMA TEOLOGIA CRISTÃ  DO PLURALISMO RELIGIOSO"***
 
@@ -73,5 +69,3 @@ De resto, a reproposição simples da verdade exprime a unidade na fé em Deus U
 7\) João Paulo II, Cart. Enc. *Fides et ratio,* 38.
 
 8\) Congr. para a Doutrina da Fé, Decl. *Dominus Iesus,* 23.
-
-[](#top)

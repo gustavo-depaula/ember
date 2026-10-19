@@ -2,8 +2,6 @@
 
 ***LETTRE APOSTOLIQUE DU PAPE JEAN-PAUL II À L'OCCASION DU QUATRIÈME CENTENAIRE DE L'UNION DE BREST***
 
-***  ***
-
 *Chers Frères et Soeurs,*
 
 1\. Le jour approche où l'Église grecque-catholique d'Ukraine célébrera le quatrième centenaire de l'union entre les évêques de la Province métropolitaine de la Rus' de Kiev et le Siège apostolique. L'union fut établie lors de la rencontre des représentants de la Province métropolitaine de Kiev avec le Pape, qui eut lieu le 23 décembre 1595, et elle fut proclamée solennellement à Brest-Litovsk, sur le fleuve Bug, le 16 octobre 1596. Par la constitution apostolique Magnus Dominus et laudabile nimis(1), le Pape Clément VIII en fit l'annonce à l'Église entière et, par la lettre apostolique Benedictus sit Pastor(2), il s'adressa aux évêques de la Province métropolitaine pour les informer de l'union qui venait de se faire.

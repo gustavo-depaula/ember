@@ -1,20 +1,8 @@
 # Normae de delictis Congregationi pro Doctrina Fidei reservatis (XI mensis Octobris anno Domini MMXI)
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **NORMAE DE DELICTIS CONGREGATIONI PRO DOCTRINA FIDEI RESERVATIS**
-
-** **
 
 **pars prior**
 

@@ -1,13 +1,5 @@
 # SELECT THEMES OF ECCLESIOLOGY ON THE OCCASION OF THE TWENTIETH ANNIVERSARY OF THE CLOSING OF THE SECOND VATICAN COUNCIL, 1984
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 INTERNATIONAL THEOLOGICAL COMMISSION

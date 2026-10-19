@@ -29,9 +29,9 @@ Par conséquent, je dispose :
 a\) les délits contre le sixième commandement du Décalogue consistant à :
 
 > i\. contraindre quelqu’un, avec violence ou menace ou par abus d’autorité, à accomplir ou subir des actes sexuels ;
->
+
 > ii\. accomplir des actes sexuels avec un mineur ou avec une personne vulnérable ;
->
+
 > iii\. produire, exhiber, détenir ou distribuer, même par voie informatique, du matériel pédopornographique, ainsi que recruter ou inciter un mineur ou une personne vulnérable à participer à des exhibitions pornographiques ;
 
 b\) les comportements dont se rendent auteurs les sujets dont il est question à l’article 6 consistant en des actions ou omissions directes visant à interférer ou éluder des enquêtes civiles ou des enquêtes canoniques, administratives ou pénales ouvertes à l’encontre d’un clerc ou d’un religieux pour des délits mentionnés à la lettre a) du présent paragraphe.

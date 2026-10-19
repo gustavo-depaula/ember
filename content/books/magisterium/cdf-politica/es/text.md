@@ -1,9 +1,5 @@
 # Nota sobre el compromiso de los católicos en política
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***NOTA DOCTRINAL*** **sobre algunas cuestiones relativas al  compromiso y la conducta de los católicos en la vida política **
@@ -78,8 +74,6 @@ Arzobispo emérito de Vercelli *Secretario*
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: CARTA A DIOGNETO, 5, 5, Cfr. Ver también *Catecismo de la Iglesia Católica*, n. 2240.
 

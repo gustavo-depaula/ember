@@ -1,9 +1,5 @@
 # La théologie aujourd'hui: Perspectives, principes et critères, 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 ***LA THÉOLOGIE AUJOURD’HUI : PERSPECTIVES, PRINCIPES ET CRITÈRES***
@@ -37,8 +33,6 @@ L’étude du thème du statut de la théologie avait déjà été entreprise pa
 La sous-commission n’ayant pu terminer son travail par la publication d’un document, l’étude fut reprise pendant le *quinquennium* suivant sur la base du travail déjà entrepris. À cet effet, une nouvelle sous-commission fut formée, présidée par Mgr Paul McPartlan et composée des membres suivants : S. Exc. Mgr Jan Liesen, les PP. Serge Thomas Bonino, o.p., Antonio Castellano, s.d.b., Adelbert Denaux, Tomislav Ivančić, Léonard Santedi Kinkupu, Jerzy Szymik, Sœur Sara Butler, m.s.b.t., et le Dr Thomas Söding.
 
 Les discussions générales du thème ont eu lieu lors des nombreuses réunions de la sous-commission, ainsi que lors des sessions plénières de la Commission théologique internationale, tenues à Rome entre 2009 et 2011. Le présent texte a été approuvé *in forma specifica* le 29 novembre 2011 et a ensuite été soumis à son président, S. Ém. le cardinal William Levada, Préfet de la Congrégation pour la doctrine de la foi, qui en a autorisé la publication.
-
-** ** 
 
 **Introduction**
 
@@ -87,8 +81,6 @@ Les discussions générales du thème ont eu lieu lors des nombreuses réunions 
 18\. L’*intellectus fidei* revêt diverses formes dans la vie de l’Église et dans la communauté des croyants, selon les différents dons accordés aux fidèles (*lectio divina*, méditation, prédication, théologie en tant que science, etc.). Il ne devient théologie au sens strict que quand le croyant entreprend de présenter le contenu du mystère chrétien d’une manière rationnelle et scientifique. La théologie est donc *scientia Dei* dans la mesure où elle est une participation rationnelle à la connaissance que Dieu a de lui-même et de toutes choses.
 
 19\. L’un des critères de la théologie catholique est que, précisément en tant que science de la foi — « la foi qui cherche l’intelligence \[*fides quærens intellectum*\][^27], — elle possède une dimension rationnelle. La théologie s’efforce de comprendre ce que l’Église croit, pourquoi elle le croit et ce qui peut être connu *sub specie Dei*. En tant que *scientia Dei*, la théologie a pour but de comprendre de façon rationnelle et systématique la vérité salvifique de Dieu.
-
-** ** 
 
 **Chapitre 2 — Demeurer dans la communion de l’Église**
 
@@ -283,8 +275,6 @@ Les discussions générales du thème ont eu lieu lors des nombreuses réunions 
 100\. La théologie est un service rendu à l’Église et à la société. De même, le présent texte, écrit par des théologiens, se veut un instrument au service de nos collègues théologiens et aussi de ceux avec qui les théologiens catholiques entrent en dialogue. Écrit dans un esprit de respect pour tous ceux qui poursuivent la recherche théologique et avec une profonde conscience de la joie de ce privilège qu’est la vocation théologique, il s’efforce d’indiquer les perspectives et les principes qui caractérisent la théologie catholique et de proposer les critères en fonction desquels on peut identifier cette théologie. En résumé, on peut dire que la théologie catholique étudie le mystère de Dieu révélé dans le Christ, et qu’elle formule l’expérience de foi que font, par la grâce du Saint-Esprit qui introduit l’Église dans la vérité (*Jn* 16, 13), ceux qui sont dans la communion de l’Église et qui participent à la vie de Dieu. Elle médite l’immensité de l’amour par lequel le Père a donné son Fils au monde (cf. *Jn* 3, 16), et la gloire, la grâce et la vérité qui pour notre salut ont été révélées en lui (cf. *Jn* 1, 14) ; et elle souligne l’importance de placer son espérance en Dieu plutôt que dans les créatures, une espérance dont elle s’efforce de rendre raison (cf. 1 *P* 3, 15). Dans toutes ses efforts, elle est fondamentalement doxologique et se caractérise par la louange et l’action de grâces. Elle se conforme ainsi à la consigne de Paul de « vivre dans l’action de grâces » (cf. *Col* 3, 15 ; 1 *Th* 5, 18), même dans l’adversité (cf. *Rm* 8, 31). Quand elle considère l’œuvre de Dieu pour notre salut et le caractère incomparable de ses réalisations, la glorification et la louange s’avèrent ses modalités les plus adéquates, comme saint Paul l’a non seulement enseigné mais en a aussi donné l’exemple : « À celui dont la puissance agissant en nous est capable de faire bien au-delà, infiniment au-delà de tout ce que nous pouvons demander ou concevoir, à lui la gloire, dans l’Église et le Christ Jésus, pour tous les âges et tous les siècles ! Amen. » (*Eph* 3, 20‑21).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Vatican II, *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_fr.html)*, n^(o) 3 \[Les citations des documents de Vatican II sont tirées de l’édition du Centurion, Paris, 1967\].
 

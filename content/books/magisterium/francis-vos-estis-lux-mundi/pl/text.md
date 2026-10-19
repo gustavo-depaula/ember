@@ -27,9 +27,9 @@ Dlatego postanawiam:
 a\) przestępstw przeciwko szóstemu przykazaniu Dekalogu, polegających na:
 
 > i\. zmuszaniu kogoś, stosując przemoc lub groźbę, czy też nadużycie władzy, do dokonywania lub poddawania się czynnościom seksualnym;
->
+
 > ii\. dopuszczaniu się czynności seksualnych z osobą małoletnią lub bezradną;
->
+
 > iii\. wytwarzaniu, prezentowaniu, przechowywaniu lub rozpowszechnianiu, także telematycznie, pornografii dziecięcej, oraz rekrutowaniu lub nakłanianiu osoby małoletniej czy bezradnej do udziału w prezentacjach pornograficznych;
 
 b\) czynów dokonanych przez podmioty, o których mowa w artykule 6, polegających na działaniach lub zaniechaniach, mających na celu zakłócanie lub uniknięcie dochodzeń cywilnych lub kanonicznych, administracyjnych lub karnych, przeciwko duchownemu lub zakonnikowi w związku z przestępstwami, o których mowa w punkcie a) niniejszego paragrafu.

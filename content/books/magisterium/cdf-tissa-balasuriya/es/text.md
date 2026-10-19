@@ -1,9 +1,5 @@
 # Notificación sobre la obra «Mary and Human Liberation» del padre Tissa Balasuriya, o.m.i.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***NOTIFICACIÓN SOBRE LA OBRA* «MARY AND HUMAN LIBERATION» *DEL PADRE TISSA BALASURIYA, O.M.I.***
@@ -67,8 +63,6 @@ El Sumo Pontífice Juan Pablo II, durante la audiencia concedida al infrascrito 
 *Arzobispo emérito de Vercelli Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: El escrito fue publicado en la revista *Logos* 29, 1-2 marzo/julio de 1990 (Colombo, Sri Lanka).
 

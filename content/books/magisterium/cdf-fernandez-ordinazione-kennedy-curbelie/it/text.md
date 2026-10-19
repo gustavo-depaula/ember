@@ -1,13 +1,5 @@
 # Omelia di Sua Eminenza, Víctor M. Card. Fernández, in occasione dell’Ordinazione Episcopale di S.E. Mons. John Kennedy e S.E. Mons. Philippe Curbelié
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Victor Manuel Fernández *Prefetto del Dicastero per la Dottrina della Fede*

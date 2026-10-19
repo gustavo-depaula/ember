@@ -1,9 +1,5 @@
 # ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI DOTYCZĄCE INTERPRETACJI DEKRETU ECCLESIAE PASTORUM
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 ***ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI DOTYCZĄCE INTERPRETACJI*** **DEKRETU *ECCLESIAE PASTORUM***\*
@@ -131,5 +127,3 @@ Odp. *Tak* «iuxta mentem»:
 2\) jeśli prosi się o aprobatę *dla katechizmów przeznaczonych dla katechezy oficjalnej w diecezji*, oprócz prawowierności zawartości i norm ogólnych dotyczących katechezy, Ordynariusz powinien uwzględnić także zasady szczegółowe ustalone przez niego samego w odniesieniu do konkretnych potrzeb diecezji (nowy *KPK*, Kan. 775, § 1) oraz normy określone przez Konferencję Episkopatu i zatwierdzone przez Stolicę Świętą (*Directorium catechisticum generale*, 134).
 
 \* *AAS* 75 (1984) 45-52.
-
-[](#top)

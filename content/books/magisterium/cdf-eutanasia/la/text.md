@@ -1,13 +1,5 @@
 # Declaratio de Euthanasia deque analgesicorum remediorum usu therapeutico recte ac proporzionate servando, d. 5 m. Maii a. 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

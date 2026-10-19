@@ -1,9 +1,5 @@
 # De auctore et veritate historica quarti Evangelii - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE AUCTORE ET VERITATE HISTORICA QUARTI EVANGELII**
@@ -26,5 +22,3 @@ Propositis sequentibus dubiis Commissio Pontificia *de Re Biblica* sequenti modo
 
 Fulcranus Vigouroux, P.S.S.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-[](#top)

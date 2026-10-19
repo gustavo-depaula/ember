@@ -28,6 +28,4 @@ In attesa delle vostre risposte - che ci saranno tanto più gradite quanto più 
 
 *Petizioni sempre più numerose per una definizione dogmatica dell'assunzione di Maria. Il papa chiede il parere all'episcopato cattolico e invita a pregare. Le risposte siano inviate con sollecitudine.*
 
-*     *
-
 [^1]: [\*](#fnref1)) A.A.S. 42 (1950), pp. 782-783.

@@ -1,9 +1,5 @@
 # Note Doctrinale sur certains aspects de l'évangélisation
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***NOTE DOCTRINALE SUR CERTAINS ASPECTS DE L’ÉVANGÉLISATION***
@@ -97,8 +93,6 @@ Cette perspective exige naturellement d’éviter toute pression indue : « Dans
 *Archevêque titulaire de Sila Sécretaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Jean-Paul II, Encycl. *[Redemptoris missio](/edocs/FRA0205/_INDEX.HTM)* (7 décembre 1990), n. 47 : *AAS* 83 (1991), p. 293 ; *La Documentation catholique* 88 (1991), p. 170.
 

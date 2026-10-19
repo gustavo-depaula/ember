@@ -1,9 +1,5 @@
 # Commemoration Mass in honour of the Popes Paul VI and John Paul I
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMEMORATION MASS IN HONOUR  
 OF THE POPES PAUL VI AND JOHN PAUL I
 
@@ -56,5 +52,3 @@ In a time when we are seeing how Satan "sifts" the disciples of Christ "like whe
 Jesus Christ lifted the veil that for Job covered the face of God: Yes, our Redeemer lives, "and we all, with unveiled face, reflecting as in a mirror the glory of the Lord, are being changed into his likeness", says St Paul (cf. II Cor 3: 18).
 
 Our Redeemer lives, he has a face and a name: Jesus Christ. And our "eyes will behold him"; we are assured of this by our late Popes, and thus they guide us "towards full possession of the truth", strengthening us in faith in our Redeemer. Amen.
-
-[](#top)

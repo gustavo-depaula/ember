@@ -1,13 +1,5 @@
 # Alla ricerca di un'etica universale: nuovo sguardo sulla legge naturale, 2009
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSIONE TEOLOGICA INTERNAZIONALE
@@ -86,8 +78,6 @@ La *Dichiarazione universale dei diritti dell’uomo* costituisce uno dei più
 11\. L’idea della legge morale naturale  assume numerosi elementi comuni alle grandi sapienze religiose e filosofiche dell’umanità. Perciò il nostro documento, nel capitolo 1, inizia col ricordare tali «convergenze». Senza pretendere di essere esauriente, indica che queste grandi sapienze religiose e filosofiche sono testimoni dell’esistenza di un patrimonio morale largamente comune, che forma la base di ogni dialogo sulle questioni morali. Ancor più, esse suggeriscono, in un modo o in un altro, che questo patrimonio esplicita un messaggio etico universale immanente alla natura delle cose e che gli uomini sono in grado di decifrare. Il documento ricorda poi alcuni punti di riferimento essenziali dello sviluppo storico dell’idea di legge naturale e cita alcune interpretazioni moderne che sono parzialmente all’origine delle difficoltà che i nostri contemporanei provano dinanzi a tale nozione. Nel capitolo 2 («La percezione dei valori morali comuni»), il nostro documento descrive come, a partire dai dati più semplici dell’esperienza morale, la persona umana coglie immediatamente alcuni beni morali fondamentali e formula di conseguenza i precetti della legge naturale. Questi non costituiscono un codice completo di prescrizioni intangibili, ma un principio permanente e normativo di ispirazione al servizio della vita morale concreta della persona. Il capitolo 3 («I fondamenti della legge naturale»), passando dall’esperienza comune alla teoria, approfondisce i fondamenti filosofici, metafisici e religiosi della legge naturale. Per rispondere ad alcune obiezioni contemporanee, precisa il ruolo della natura  nell’agire personale e si interroga sulla possibilità per la natura di costituire una norma morale. Il capitolo 4 («La legge naturale e la Città») esplicita il ruolo regolatore dei precetti della legge naturale nella vita politica. La dottrina della legge naturale possiede già coerenza e validità sul piano filosofico della ragione comune a tutti gli uomini, ma il capitolo 5 («Gesù Cristo, compimento della legge naturale») mostra che essa acquista il suo senso pieno all’interno della storia della salvezza: infatti Gesù Cristo, inviato dal Padre, è, con il suo Spirito, la pienezza di ogni legge.
 
 **Capitolo primo: convergenze**
-
-** **
 
 **1.1. *Le sapienze e le religioni del mondo***
 

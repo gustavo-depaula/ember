@@ -1,9 +1,5 @@
 # De quaestione synoptica sive de mutuis relationibus inter tria priora Evangelia - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE QUAESTIONE SYNOPTICA SIVE DE MUTUIS RELATIONIBUS INTER TRIA PRIORA EVANGELIA**
@@ -22,7 +18,3 @@ R. Negative ad utramque partem.
 
 Fulcranus Vigoroux, Gr.S.Sulp.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-*  *
-
-[](#top)

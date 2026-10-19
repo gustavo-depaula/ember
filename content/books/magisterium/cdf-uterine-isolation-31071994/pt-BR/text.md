@@ -1,9 +1,5 @@
 # SOBRE O 'ISOLAMENTO UTERINO' E OUTRAS QUESTÕES
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***RESPOSTAS AS DUVIDAS PROPOSTAS SOBRE O 'ISOLAMENTO UTERINO' E OUTRAS QUESTÕES***
@@ -41,5 +37,3 @@ A opinião contrária, que considera as supracitadas práticas referidas nos nú
 
 **+ Alberto Bovone**  
 *Arc. Tit. de Cesarea de Numídia Secretário*
-
-[](#top)

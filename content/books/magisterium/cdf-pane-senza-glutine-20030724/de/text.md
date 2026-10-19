@@ -1,9 +1,5 @@
 # Rundschreiben an die Präsidenten der Bischofskonferenzen über den Gebrauch von Brot mit niedrigem Glutenanteil und von Most als Materie für die Eucharistie
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ****Rundschreiben an die Präsidenten der Bischofskonferenzen über den Gebrauch von Brot mit niedrigem Gluten-Anteil und von Most als Materie für die Eucharistie ****
@@ -59,7 +55,3 @@ Ich bitte Sie, dieses Schreiben allen Mitglieder der Bischofskonferenz zukommen 
 im Herrn Ihr
 
 **Joseph Card. RATZINGER** Präfekt
-
-** **
-
-[](#top)

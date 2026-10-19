@@ -18,8 +18,6 @@
 
 **AICINĀJUMS UZ SVĒTUMU**
 
-** **
-
 **Svētie, kas iedrošina un pavada**
 
 3\. Vēstulē ebrejiem tiek piesaukti dažādi liecinieki, kuri iedrošina apņēmības pilniem skriet “sacīkstēs, kas mums noliktas” (12,1). Tur tiek runāts par Ābrahamu, Sāru, Mozu, Gideonu un vēl citiem (sal. 11,1–12,3), un pirmām kārtām mēs esam aicināti atzīt, ka mums visapkārt ir “liels pulks liecinieku” (12,1), kuri iedvesmo neapstāties ceļā, mudina turpināt virzīties uz mērķi. Viņu vidū var būt māte, vecāmāte vai citi tuvi cilvēki (sal. *2 Tim* 1,5). Iespējams, viņu dzīve ne vienmēr bijusi pilnīga, tomēr arī nepilnību un kritienu vidū tie turpinājuši doties uz priekšu un ir patīkami Kungam.
@@ -98,10 +96,6 @@
 
 34\. Nebaidies mērķēt augstāk, ļauties, lai Dievs tevi mīl un atbrīvo. Nebaidies ļauties, lai Svētais Gars tevi vada. Svētums nemazina tavu cilvēcību, jo tā ir tava vājuma sastapšanās ar žēlastības spēku. Būtībā, kā teicis Leons Bluā (*Léon Bloy*), dzīvē “ir tikai vienas skumjas, proti, par to, ka neesi svēts”.[^32]^(^(\[2\]))
 
-** **
-
-** **
-
 **OTRĀ NODAĻA**
 
 **DIVI SMALKI SVĒTUMA IENAIDNIEKI**
@@ -179,8 +173,6 @@
 61\. Citiem vārdiem sakot: likumu un priekšrakstu biezoknī Jēzus paver ceļu, kas palīdz saskatīt divas sejas – Tēva un brāļa seju. Viņš neiedod vēl divas formulas vai vēl divus baušļus. Viņš dod divas sejas vai drīzāk vienu – Dieva seju, kas atspoguļojas daudzos. Jo katrā līdzcilvēkā, sevišķi jau vismazākajā, vistrauslākajā, visneaizsargātākajā un vistrūcīgākajā, ir klātesošs pats Dieva attēls. Tik tiešām, laiku beigās no šīs ievainojamās cilvēces paliekām Kungs veidos savu pēdējo mākslas darbu. Jo “kas paliek, kam ir vērtība dzīvē, kādas bagātības neizgaist? Pilnīgi droši divas: Kungs un līdzcilvēks. Šīs divas bagātības neizgaist!”[^65]^(^(\[5\]))
 
 62\. Lai Kungs atsvabina Baznīcu no jaunajām gnosticisma un pelagiānisma formām, kas to apgrūtina un apstādina ceļā uz svētumu! Šīs novirzes izpaužas dažādos veidos, atkarībā no katra temperamenta un rakstura iezīmēm. Tāpēc es mudinu katru Dieva priekšā izvaicāt sevi un apsvērt, kā tās varbūt izpaužas viņa dzīvē.
-
-** **
 
 **TREŠĀ NODAĻA**
 
@@ -324,10 +316,6 @@ Katru dienu pieņemt Evaņģēlija ceļu, pat ja tas rada grūtības, – lūk,
 
 109\. Svēto liecības spēks ir viņu dzīve atbilstoši Kalna svētībām un Pastarās tiesas sniegtajam rīcības mēram. Tie ir nedaudzi vārdi, vienkārši, bet praktiski un attiecināmi uz visiem, jo kristietība vispirms jau pastāv tāpēc, lai to praktizētu, un, ja tā ir arī pārdomu objekts, tad tām ir vērtība vienīgi, ja tās palīdz izdzīvot Evaņģēliju ikdienas dzīvē. Es cieši iesaku bieži pārlasīt šos dižos Bībeles tekstus, atcerēties tos, lūgties ar tiem un censties tos īstenot. Tas nāks mums par labu, tas darīs mūs patiesi laimīgus.
 
-** **
-
-** **
-
 **CETURTĀ NODAĻA**
 
 **DAŽAS SVĒTUMA IEZĪMES MŪSDIENU PASAULĒ**
@@ -450,15 +438,11 @@ Maza detaļa, ka ir iekurta uguns un ir pāris zivju uz restēm, kamēr gaida m�
 
 157\. Jēzus sastapšana Rakstos ved pie Euharistijas, kur tas pats Vārds sasniedz savu augstāko iedarbību, jo tā ir Viņa, dzīvā Vārda, reālā klātbūtne. Tur vienīgais Absolūtais saņem vislielāko pielūgsmi, kāda ir iespējama šajā pasaulē, jo tas ir pats Kristus, kas sevi upurē. Un, kad Viņu saņemam Komūnijā, mēs atjaunojam savu derību ar Viņu un ļaujam Viņam arvien vairāk mūs pārveidot.
 
-** **
-
 **PIEKTĀ NODAĻA**
 
 **CĪŅA, MODRĪBA UN IZŠĶIRŠANA**
 
 158\. Kristīgā dzīve ir pastāvīga cīņa. Vajag spēku un drosmi, lai pretotos velna kārdinājumiem un sludinātu Evaņģēliju. Šī cīņa ir ļoti skaista, jo ļauj svinēt ikreiz, kad Kungs uzvar mūsu dzīvē.
-
-** **
 
 **Cīņa un modrība**
 

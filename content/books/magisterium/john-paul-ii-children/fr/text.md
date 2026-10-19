@@ -75,5 +75,3 @@ Je souhaite qu'elles soient pour vous joyeuses et sereines; je souhaite qu'elles
 *Lève ta petite main, Enfant divin, et bénis tes jeunes amis, bénis les enfants de toute la terre!*
 
 *Du Vatican, le 13 décembre 1994.*
-
-*  *

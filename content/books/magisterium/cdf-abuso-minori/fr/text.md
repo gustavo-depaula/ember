@@ -1,9 +1,5 @@
 # Lettre circulaire pour aider les Conférences épiscopales à établir des Directives pour le traitement des cas d’abus sexuel commis par des clercs à l’égard de mineurs
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***LETTRE CIRCULAIRE*** *** ******pour aider les Conférences épiscopales à établir des Directives pour*** ***le traitement des cas d’abus sexuel commis par des clercs à l’égard de mineurs***
@@ -97,5 +93,3 @@ Les Directives préparées par les Conférences épiscopales visent à protéger
 *Archevêque tit. di Thibica*
 
 *Secrétaire*
-
-[](#top)

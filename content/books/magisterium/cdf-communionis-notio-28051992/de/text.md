@@ -1,14 +1,8 @@
 # ÜBER EINIGE ASPEKTE DER KIRCHE ALS COMMUNIO
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE ÜBER EINIGE ASPEKTE DER KIRCHE ALS COMMUNIO***
-
-*** ***
 
 **EINLEITUNG**
 
@@ -280,5 +274,3 @@ Zum Abschluß dieses *Schreibens* lädt die Kongregation für die Glaubenslehre,
 \(82\) CHROMATIUS VON AQUILEJA, *Sermo* 30, 1: „Sources Chrétiennes“ 164, 134. Vgl. PAUL VI., Ap. Schr. *Marialis cultus*, 2.2.1974, Nr. 28.
 
 \(83\) Vgl. Dogm. Konst. *Lumen gentium*, Nr. 69.
-
-[](#top)

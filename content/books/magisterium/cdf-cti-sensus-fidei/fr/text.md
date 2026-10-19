@@ -1,9 +1,5 @@
 # Sensus fidei nella vita della Chiesa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 **Le *sensus fidei* dans la vie de l’Église\***
@@ -422,8 +418,6 @@ La difficulté à discerner le *sensus fidelium* authentique dans des cas comme 
 128\. Le *sensus fidei* est étroitement lié à l’« *infallibilitas in credendo* » que possède l’Église dans son ensemble, en tant que « sujet » croyant, en pèlerinage à travers l’histoire [^147]. Nourri par le Saint-Esprit, il permet à l’Église de rendre témoignage et à ses membres d’opérer le discernement qu’ils doivent sans cesse faire, à la fois en tant qu’individus et en tant que communauté, afin de savoir quelle est la meilleure manière de vivre, agir et parler dans la fidélité au Seigneur. C’est l’instinct par lequel tous et chacun « pensent avec l’Église [^148] », partageant une même foi et un même dessein. C’est lui qui unit les pasteurs et le peuple et qui rend le dialogue entre eux, fondé sur les dons et les vocations de chacun, à la fois essentiel et fructueux pour l’Église.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: . Pape François, paroles prononcées lors de l’[Angélus, 17 mars 2013](/content/francesco/fr/angelus/2013/documents/papa-francesco_angelus_20130317.html).
 

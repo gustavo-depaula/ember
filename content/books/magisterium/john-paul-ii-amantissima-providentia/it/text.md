@@ -112,5 +112,3 @@ Con tali sentimenti nostro animo, a voi, venerabili fratelli e figli diletti d'I
 *Dato a Roma, in san Pietro, il 29 aprile, nella memoria di santa Caterina da Siena, vergine e dottore della Chiesa, nell'anno 1980, secondo del nostro Pontificato.*
 
 GIOVANNI PAOLO II
-
-* *

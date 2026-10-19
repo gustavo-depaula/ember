@@ -37,7 +37,3 @@ All'intercessione della Vergine santissima noi affidiamo questi voti e queste pr
 Con un particolare affetto nel Signore, vi accordo la mia benedizione apostolica.
 
 *Dal Vaticano, 1 maggio 1984*
-
-*  *
-
-* *

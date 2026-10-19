@@ -55,5 +55,3 @@ That divine office which Jesus Christ received from His Father for the welfare o
 *Given at St. Peter's, in Rome, on the 9th day of May, 1897, in the 20th year of Our Pontificate.*
 
 **LEO XIII**
-
-*        *

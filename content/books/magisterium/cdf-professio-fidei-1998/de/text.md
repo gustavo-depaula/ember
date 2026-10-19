@@ -1,9 +1,5 @@
 # Lehramtliche Stellungnahmen zur "Professio fidei"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***KONGREGATION FÜR DIE GLAUBENSLEHRE***
 
 **LEHRAMTLICHE STELLUNGNAHMEN ZUR "PROFESSIO FIDEI"**
@@ -225,5 +221,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, den 29. Juni 1998, am Hoch
 38\. Vgl. II. VAT. KONZIL, Dogm. Konst. *Lumen gentium*, 25; KONGREGATION FÜR DIE GLAUBENSLEHRE, Instr. *Donum Veritatis*, 17, 23, 24: *AAS* 82 (1990) 1557–1558, 1559–1561.
 
 39 Katechismus der Katholischen Kirche, 167.
-
-[](#top)

@@ -24,8 +24,6 @@ Gegenteilige Verfügungen, auch wenn sie besonderer Erwähnung bedürften, stehe
 
 ------------------------------------------------------------------------
 
-** **
-
 [^1]: Papst Benedikt XIV., Apostolische Konstitution *Sacramentum Poenitentiae*, 1. Juni 1741, in *Codex Iuris Canonici*, *Pii X Pontificis Maximi iussu digestus, Benedicti Papae XV auctoritate promulgatus, Documenta, Documentum V,* in *AAS* 9 (1917) Pars II, 505-508.
 
 [^2]: Vgl. cann. 817, 2316, 2320, 2322, 2368 § 1, 2369 § 1 CIC/1917.

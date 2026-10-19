@@ -29,16 +29,12 @@ NEL MONDO CONTEMPORANEO
 
 [Lo gnosticismo attuale](#Lo_gnosticismo_attuale) \[36\]
 
-> 
->
 > *[Una mente senza Dio e senza carne](#Una_mente_senza_Dio_e_senza_carne)* \[37-39\]  
 > *[Una dottrina senza mistero](#Una_dottrina_senza_mistero)* \[40-42\]  
 > *[I limiti della ragione](#I_limiti_della_ragione)* \[43-46\]
 
 [Il Pelagianesimo attuale](#Il_Pelagianesimo_attuale) \[47-48\]
 
-> 
->
 > *[Una volontà senza umiltà](#Una_volontà_senza_umiltà)* \[49-51\]  
 > *[Un insegnamento della Chiesa spesso dimenticato](#Un_insegnamento_della_Chiesa_spesso_dimenticato)* \[52-56\]  
 > *[I nuovi pelagiani](#I_nuovi_pelagiani)* \[57-59\]  
@@ -60,8 +56,6 @@ NEL MONDO CONTEMPORANEO
 
 [La grande regola di comportamento](#La_grande_regola_di_comportamento) \[95\]
 
-> 
->
 > *[Per fedeltà al Maestro](#Per_fedeltà_al_Maestro)* \[96-99\]  
 > *[Le ideologie che mutilano il cuore del Vangelo](#Le_ideologie_che_mutilano_il_cuore_del_Vangelo)* \[100-103\]  
 > *[Il culto che Lui più gradisce](#Il_culto_che_Lui_più_gradisce)* \[104-109\]
@@ -80,16 +74,12 @@ NEL MONDO CONTEMPORANEO
 
 [Il combattimento e la vigilanza](#Il_combattimento_e_la_vigilanza) \[159\]
 
-> 
->
 > *[Qualcosa di più di un mito](#Qualcosa_di_più_di_un_mito)* \[160-161\]  
 > *[Svegli e fiduciosi](#Svegli_e_fiduciosi)* \[162-163\]  
 > *[La corruzione spirituale](#La_corruzione_spirituale)* \[164-165\]
 
 [Il discernimento](#Il_discernimento) \[166\]
 
-> 
->
 > *[Un bisogno urgente](#Un_bisogno_urgente)* \[167-168\]  
 > *[Sempre alla luce del Signore](#Sempre_alla_luce_del_Signore)* \[169\]  
 > *[Un dono soprannaturale](#Un_dono_soprannaturale)* \[170-171\]  

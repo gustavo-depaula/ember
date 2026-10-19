@@ -21,15 +21,15 @@ Volendo ora ribadire l’impegno della Sede Apostolica a cooperare con questi fi
 1\. I competenti organi giudiziari dello Stato della Città del Vaticano esercitano la giurisdizione penale anche in ordine:
 
 > a\) ai reati commessi contro la sicurezza, gli interessi fondamentali o il patrimonio della Santa Sede;
->
+
 > b\) ai reati indicati:
->
+
 > \- nella Legge dello Stato della Città del Vaticano n. VIII, del 11 luglio 2013, recante *Norme complementari in materia penale*;
->
+
 > \- nella Legge dello Stato della Città del Vaticano n. IX, del 11 luglio 2013, recante *Modifiche al codice penale e al codice di procedura penale*;
->
+
 > commessi dalle persone indicate al successivo punto 3 in occasione dell’esercizio delle loro funzioni;
->
+
 > c\) ad ogni altro reato la cui repressione è richiesta da un accordo internazionale ratificato dalla Santa Sede, se l’autore si trova nello Stato della Città del Vaticano e non è estradato all’estero.
 
 2\. I reati menzionati nel punto 1 sono giudicati secondo la legislazione vigente nello Stato della Città del Vaticano al tempo della loro commissione, fatti salvi i principi generali dell’ordinamento giuridico relativi all’applicazione delle leggi penali nel tempo.
@@ -37,11 +37,11 @@ Volendo ora ribadire l’impegno della Sede Apostolica a cooperare con questi fi
 3\. Ai fini della legge penale vaticana sono equiparati ai *«pubblici ufficiali»*:
 
 > a\) i membri, gli officiali e i dipendenti dei vari organismi della Curia Romana e delle Istituzioni ad essa collegate;
->
+
 > b\) i legati pontifici ed il personale di ruolo diplomatico della Santa Sede;
->
+
 > c\) le persone che rivestono funzioni di rappresentanza, di amministrazione o di direzione, nonché coloro che esercitano, anche di fatto, la gestione e il controllo, degli enti direttamente dipendenti dalla Santa Sede ed iscritti nel registro delle persone giuridiche canoniche tenuto presso il Governatorato dello Stato della Città del Vaticano;
->
+
 > d\) ogni altra persona titolare di un mandato amministrativo o giudiziario nella Santa Sede, a titolo permanente o temporaneo, remunerato o gratuito, qualunque sia il suo livello gerarchico.
 
 4\. La giurisdizione di cui al punto 1 si estende anche alla responsabilità amministrativa delle persone giuridiche derivante da reato, come disciplinata dalle leggi dello Stato della Città del Vaticano.

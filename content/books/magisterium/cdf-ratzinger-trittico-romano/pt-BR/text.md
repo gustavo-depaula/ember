@@ -1,9 +1,5 @@
 # Apresentação do livro "Tríptico Romano Meditações
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 *** DISCURSO DO CARDEAL JOSEPH RATZINGER  NA APRESENTAÇÃO DO NOVO LIVRO DE POESIAS DE JOÃO PAULO II "TRÍPTICO ROMANO MEDITAÇÕES"***
@@ -30,5 +26,3 @@ Pelo contrário, é "Comunhão de pessoas... uma doação recíproca...". Se no 
 O imenso arco, que é a verdadeira visão do Tríptico romano, revela-se claramente na terceira tábua, a subida de Abraão e Isaac ao monte de Moria, o monte do sacrifício, da entrega pessoal sem reservas. A subida é a última e decisiva fase do caminho de Abraão, começado com a partida da sua pátria, Ur dos Caldeus; trata-se da fase fundamental na subida rumo aos píncaros, contra a corrente, para a nascente, que é também a meta. No diálogo inexaurível entre pai e filho, feito de poucas palavras e, no silêncio, do acto de conter em conjunto o mistério destas palavras, reflectem-se todas as interrogações da história, os seus sofrimentos, os seus temores e as suas esperanças. No fim, compreende-se que este diálogo entre pai e filho, entre Abraão e Isaac, é o diálogo no próprio Deus, o diálogo entre o Pai eterno e o seu Filho, o Verbo, e que este diálogo eterno representa, ao mesmo tempo, também a resposta ao nosso diálogo humano a ser completado. Com efeito, no fim está a salvação de Isaac, o cordeiro sinal misterioso do Filho, que se torna Cordeiro e vítima do sacrifício, revelando-nos desta forma o verdadeiro rosto de Deus:  aquele Deus que se nos dá a si mesmo, que é inteiramente dom e amor, até às últimas consequências, até ao fim (cf. *Jo* 13, 1). Assim, precisamente neste acontecimento muito concreto da história, que parece afastar-nos tanto das grandes visões da criação da primeira tábua do Tríptico, parece evidente a origem e o fim de tudo, o nexo entre descida e subida, entre fonte, caminho e meta:  torna-se reconhecível o Deus que se entrega a si mesmo, que é mistério e, ao mesmo tempo, caminho e meta. Este Deus transparece na criação e na história. Ele procura-nos nos nossos sofrimentos e nas nossas interrogações. Mostra-nos o que é que significa ser homem:  dar-se no amor, o que nos torna semelhantes a Deus. Através do caminho do Filho, no monte do sacrifício, revela-se "o mistério do princípio do mundo".
 
 O amor que dá é o mistério original e, amando, também nós compreendemos a mensagem da criação e encontramos o caminho.
-
-[](#top)

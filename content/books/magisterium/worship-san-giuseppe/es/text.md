@@ -1,10 +1,6 @@
 # Decreto con el que se añade el nombre de san José en las Plegarias Eucarísticas II, III y IV del Misal Romano, 1 de mayo de 2013
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  CONGREGACIÓN PARA EL CULTO DIVINO  
+CONGREGACIÓN PARA EL CULTO DIVINO  
 Y LA DISCIPLINA DE LOS SACRAMENTOS
 
 **Decreto**  
@@ -112,5 +108,3 @@ III Modlitwa eucharystyczna:
 
 IV Modlitwa eucharystyczna:  
 «*z Najświętszą Dziewicą, Bogurodzicą Maryją*, **ze świętym Józefem, Jej Oblubieńcem**, *z Apostołami...*».
-
-[](#top)

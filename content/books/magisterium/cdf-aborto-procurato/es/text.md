@@ -1,9 +1,5 @@
 # Aclaración sobre el aborto procurado
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***ACLARACIÓN*** ***DE LA CONGREGACIÓN PARA LA DOCTRINA DE LA FE SOBRE EL ABORTO PROCURADO\****
@@ -29,5 +25,3 @@ Por lo que se refiere a la responsabilidad de los agentes sanitarios, es necesar
 ------------------------------------------------------------------------
 
 \*«L'Osservatore Romano», Año CXLIX n. 157 (11 de julio de 2009), p. 7.
-
-[](#top)

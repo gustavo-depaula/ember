@@ -1,15 +1,5 @@
 # Lettre \<i>Iuvenescit Ecclesia\</i> aux évêques de l'Église catholique sur la relation entre dons hiérarchiques et charismatiques pour la vie et la mission de l'Église
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_ge.html) - [EN](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_en.html) - [ES](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sp.html) - [FR](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_fr.html) - [IT](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_it.html)- [SL](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sl.html) - [ZH_CN](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_zh_cn.pdf) - [ZH_TW](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_zh_tw.pdf)\]
@@ -19,8 +9,6 @@ CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 **Lettre *Iuvenescit Ecclesia* aux Évêques de l’Église catholique sur la relation entre les dons hiérarchiques et charismatiques pour la vie et la mission de l’Église**
 
 **Introduction**
-
-** **
 
 *Les dons de l’Esprit Saint dans l’Église en mission*
 

@@ -1,9 +1,5 @@
 # « La session plénière de la Commission théologique internationale » du Fr. Serge-Thomas Bonino, o.p., Secrétaire général de la CTI
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***La session plénière de la Commission théologique internationale***
 
 Du lundi 1^(er) décembre au vendredi 5 décembre s’est tenue au Vatican la première session plénière du IX^(e) quinquennium de la Commission théologique internationale (CTI). La session s’est ouverte par l’eucharistie célébrée dans la chapelle de la Maison Sainte-Marthe par le Cardinal Müller, préfet de la Congrégation pour la doctrine de la foi et, à ce titre, président de la CTI (texte dans OR du 2 décembre) et elle s’est conclue par une audience accordée par le Saint-Père à la CTI. Dans son allocution, le Saint-Père a attiré l’attention sur deux caractéristiques de la nouvelle CTI : la présence plus importante des théologiennes en son sein (cinq femmes sur trente membres) et son caractère international (texte de l’allocution du Saint-Père dans l’OR du 6 décembre). En effet, les membres du nouveau quinquennium, nommés en septembre 2014, proviennent des cinq continents : Europe (14), Amérique (8) \[Amérique latine (5) ; Amérique du Nord (3)\], Asie (4), Afrique (3) et Océanie (1) et on trouve représentés chez eux les différents états de vie : prêtres diocésains, religieux et religieuses, laïcs consacrés, mères de famille...
@@ -20,5 +16,3 @@ Enfin, le troisième sujet choisi par la CTI est « La liberté religieuse dans
 
 **Fr. Serge-Thomas Bonino, o.p.**  
 *Secrétaire général de la CTI*
-
-[](#top)

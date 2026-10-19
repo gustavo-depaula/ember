@@ -36,9 +36,9 @@ Therefore, with the present Letter I decree that:
 2\. Without prejudice to the sacramental seal, the subjects referred to in point 3 of the [Motu Proprio “*In Our Times*”](http://w2.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20130711_organi-giudiziari.html), of 11 July 2013, shall file a report without delay with the Promoter of Justice of the Tribunal of Vatican City State whenever, in the exercise of their functions, they know or have reasonable grounds to believe that a minor or a vulnerable person has suffered of one of the crimes referred to in Article 1 of [Law No. CCXCVII](http://www.vatican.va/resources/resources_protezioneminori-legge297_20190326_en.html), if the offence has been committed either:
 
 > i\. in the territory of the State;
->
+
 > ii\. to the detriment of citizens or residents in the State;
->
+
 > iii\. on occasion of the exercise of their functions, by public officials of the State or by the subjects referred to in point 3 of the [Motu Proprio “*In Our Times*”](http://w2.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20130711_organi-giudiziari.html), of 11 July 2013.
 
 3\. To the persons offended by the crimes referred to in Article 1 of [Law No. CCXCVII](http://www.vatican.va/resources/resources_protezioneminori-legge297_20190326_en.html) will be offered, through the Support Service that is managed by the Department of Health and Hygiene of the Governorate of Vatican City State, spiritual, medical and social assistance, including therapeutic and psychological emergency assistance, as well as useful information of a legal nature.

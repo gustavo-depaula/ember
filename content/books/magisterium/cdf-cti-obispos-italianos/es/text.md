@@ -1,9 +1,5 @@
 # A los obispos italianos, 11 abril 1970
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 ***DISCURSO DE SU SANTIDAD PABLO VI A LOS OBISPOS ITALIANOS***[\*](#_edn*)  
@@ -16,5 +12,3 @@ Y podemos sacar motivo de consuelo para el ejercicio de nuestro magisterio inclu
 ------------------------------------------------------------------------
 
 [\[\*\]](#_ednref*) AAS 62 (1970) 280-281.
-
-[](#top)

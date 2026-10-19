@@ -1,15 +1,5 @@
 # La libérté religieuse pour le bien de tous. Une approche théologique aux défis contemporains
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSION THEOLOGIQUE INTERNATIONALE

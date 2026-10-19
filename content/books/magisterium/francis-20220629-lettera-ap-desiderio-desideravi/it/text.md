@@ -225,8 +225,6 @@ umiliatevi anche voi, perché siate da Lui esaltati.
 Nulla, dunque, di voi trattenete per voi,  
 affinché tutti e per intero vi accolga Colui che tutto a voi si offre.
 
-* *
-
 *San Francesco d’Assisi*  
 *Lettera a tutto l’Ordine* II, 26-29
 

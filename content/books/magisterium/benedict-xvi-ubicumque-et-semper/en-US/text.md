@@ -47,13 +47,13 @@ The action of the Council, which is carried out in collaboration with the other 
 Among the specific tasks of the Council are particularly the following:
 
 > 1º. to examine in depth the theological and pastoral meaning of the new evangelization;
->
+
 > 2º. to promote and to foster, in close collaboration with the Bishops’ Conferences concerned—which may establish *ad hoc* organisms—the study, dissemination, and implementation of the Papal Magisterium related to topics connected with the new evangelization;
->
+
 > 3º. to make known and to support initiatives linked to the new evangelization that are already being put into practice in various particular Churches, and to promote the realization of new projects by actively involving the resources present in Institutes of Consecrated Life and in Societies of Apostolic Life, as well as in groups of the faithful and in new communities;
->
+
 > 4º. to study and to encourage the use of modern forms of communication as instruments for the new evangelization;
->
+
 > 5º. to promote the use of the *Catechism of the Catholic Church* as an essential and complete formulation of the content of the faith for the people of our time.
 
 **Art. 4.**

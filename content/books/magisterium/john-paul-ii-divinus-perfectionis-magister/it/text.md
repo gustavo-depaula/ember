@@ -32,7 +32,7 @@ Dopo le più recenti esperienze, infine, ci è parso opportuno di rivedere la vi
 Per il futuro dunque, abrogate tutte le leggi di qualsiasi genere in materia, abbiamo stabilito che si debbano osservare le norme che seguono.
 
 > **[1.](http://w2.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_25011983_divinus-perfectionis-magister.html#Art._1)** Ai Vescovi diocesani o alle autorità ecclesiastiche e agli altri equiparati nel diritto, entro i confini della loro giurisdizione, sia d'ufficio, sia su istanza dei singoli fedeli o di legittime aggregazioni e dei loro procuratori, compete il diritto di investigare circa la vita, le virtù o il martirio e fama di santità o martirio, i miracoli asseriti, e, se è il caso, l'antico culto del Servo di Dio, del quale viene chiesta la canonizzazione.
->
+
 > 2\. In ricerche di tal genere il Vescovo proceda secondo le Norme particolari da stabilirsi dalla Sacra Congregazione per le Cause dei Santi, in questo ordine:
 
 1\) Richieda al postulatore della causa, nominato legittimamente dal promotore, una accurata informazione sulla vita del Servo ci Dio, e si faccia contemporaneamente da quello accuratamente illustrare i motivi che sembrano richiedere una causa di canonizzazione.

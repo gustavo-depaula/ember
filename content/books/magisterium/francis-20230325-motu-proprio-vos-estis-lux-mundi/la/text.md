@@ -244,6 +244,4 @@ Has Litteras Apostolicas Motu Proprio datas decernimus promulgari per editionem 
 
 *Datum Romae, apud Sanctum Petrum, die XXV mensis Martii, in sollemnitate Annuntiationis Domini Nostri Iesu Christi, anno MMXXIII, Pontificatus Nostri undecimo.  *
 
-* *
-
 FRANCISCUS PP.

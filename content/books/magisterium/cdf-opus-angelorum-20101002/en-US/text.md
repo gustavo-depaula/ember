@@ -1,9 +1,5 @@
 # Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***CIRCULAR LETTER TO THE PRESIDENTS OF THE EPISCOPAL CONFERENCES REGARDING THE ASSOCIATION* *OPUS ANGELORUM***
@@ -34,7 +30,3 @@ Trusting that the members of your Conference of Bishops will take special care i
 
 **Luis F. Ladaria, S.I.**  
 Titular Archbishop of Thibica *Secretary*
-
-*  *
-
-[](#top)

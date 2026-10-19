@@ -1,9 +1,5 @@
 # The Bible and Morality - Biblical Roots of Christian Conduct, Pontifical Biblical Commission, 11 March 2008
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PONTIFICAL BIBLICAL COMMISSION**
 
 ***THE BIBLE AND MORALITY BIBLICAL ROOTS OF CHRISTIAN CONDUCT***
@@ -50,11 +46,11 @@
 > 2.2.1 The Covenant with Noah and with ‘all flesh’  
 > 2.2.2 The Covenant with Abraham  
 > 2.2.3 The Covenant with Moses and with the Israelite people
->
+
 > > 2.2.3.1 The Decalogue  
 > > 2.2.3.2 The legislative codes  
 > > 2.2.3.3 The moral teaching of the prophets
->
+
 > 2.2.4 The Covenant with David  
 > 2.2.5 The ‘New Covenant’ according to Jeremiah  
 > 2.2.6 The moral teaching of the Sages
@@ -1829,5 +1825,3 @@ We hope that our reflections may encourage three types of activity in future.
 **161.** 2) We also think that a reflection such as ours, if it arouses interest, may help pastors and theologians to find appropriate *way of conveying* the moral teaching of the Church so that it may be perceived in its positive aspect and in all its richness. If the Church is to remain faithful to Christ in the service of humanity she cannot refrain from presenting clearly the rights and duties of the believer and of every human being, and can therefore not abandon certain laws and prohibitions. Contrast, however, especially in the form of necessary conflicts, is one of the eight criteria enunciated above. A presentation of ‘revealed morality’ in all the breadth and fruitfulness of the biblical context may also sketch the contours of a renewed pedagogy.
 
 **162.** Lastly, the present document needs to be brought to the ordinary people if it is to be effective. Only in this way can it help pastors, pastoral workers, catechists and teachers, and of course Christian parents who have the irreplaceable mission of educating their young people to life, to the faith, to a responsible use of their liberty and to guide them on the way of true happiness, which attains its goal beyond this present world.
-
-[](#top)

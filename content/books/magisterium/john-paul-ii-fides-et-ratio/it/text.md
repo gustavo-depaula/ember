@@ -535,8 +535,6 @@ Possa, la Sede della Sapienza, essere il porto sicuro per quanti fanno della lor
 
 **GIOVANNI PAOLO II**
 
-** **
-
 ------------------------------------------------------------------------
 
 \(1\) Già lo scrivevo nella mia prima lettera enciclica *[Redemptor hominis](http://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis_it.html)*: « Siamo diventati partecipi di questa missione di Cristo-profeta e, in forza della stessa missione, insieme con lui serviamo la verità divina nella Chiesa. La responsabilità per tale verità significa anche amarla e cercarne la più esatta comprensione, in modo da renderla più vicina a noi stessi e agli altri in tutta la sua forza salvifica, nel suo splendore, nella sua profondità e insieme semplicità ». N. 19: *AAS* 71 (1979), 306.

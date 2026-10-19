@@ -1,9 +1,5 @@
 # Reflexiones sobre los fines y los métodos- 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 **REFLEXIONES SOBRE LOS FINES Y LOS MÉTODOS**[\[\*\]](#_edn*)
@@ -37,11 +33,11 @@ Las normas metodológicas que deben observarse en los futuros trabajos de la Com
 Entre las materias que la Comisión se propone estudiar, se han elegido, por el momento cuatro cuestiones:
 
 > 1\) Unidad de la fe;
->
+
 > 2\) El sacerdocio;
->
+
 > 3\) Teología de la esperanza: fe cristiana y futuro de la humanidad;
->
+
 > 4\) Los criterios del conocimiento moral cristiano.
 
 Cuatro subcomisiones se han constituido para el estudio de estos cuatro temas. Corresponde a las subcomisiones determinar más precisamente su tema particular.
@@ -51,5 +47,3 @@ Otros temas serán tratados sucesivamente.
 ------------------------------------------------------------------------
 
 [\[\*\]](#_ednref*) Texto oficial latino en Commissio Theologica Internationalis, *Documenta (1969-1985)* (Città del Vaticano \[Libreria Editrice Vaticana\] 1988) 22-26.
-
-[](#top)

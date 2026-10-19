@@ -48,10 +48,6 @@ AICINĀJUMS UZ PĀRDOMĀM
 
 Šāds Apustuliskais pamudinājums mums šķiet ļoti svarīgs, jo Baznīcai Evaņģēlija vēsts sludināšana nav uzdevums, kuru tā var veikt vai neveikt, – tas ir pienākums, kas tai uzlikts ar Kunga Jēzus pavēli, lai cilvēki varētu ieticēt un tikt pestīti. Jā, šī vēsts ir absolūti nepieciešama. Tā ir unikāla. Neaizstājama. Tā nepieļauj ne vienaldzību, ne sinkrētismu, ne pielāgošanos. Jo runa ir par cilvēku pestīšanu. Evaņģēlijs atspoguļo dievišķās Atklāsmes skaistumu. Tas ietver gudrību, kas nav no šīs pasaules. Evaņģēlijs pats par sevi spēj modināt ticību, ticību, kuras pamatā ir Dieva spēks [^11]. Evaņģēlijs ir Patiesība. Evaņģēlijs ir tā vērts, lai apustulis tam veltītu visu savu laiku un visus savus spēkus un, ja ir nepieciešams, upurētu par to savu dzīvību.
 
-** **
-
-** **
-
 **1. NO EVAŅĢELIZĒTĀJA KRISTUS LĪDZ BAZNĪCAI, KURA EVAŅĢELIZĒ**
 
 JĒZUS LIECĪBA UN MISIJA
@@ -115,8 +111,6 @@ BAZNĪCA NAV ŠĶIRAMA NO KRISTUS
 Šis ir īstais brīdis, lai atgādinātu, un ne bez skumjām, ka ir cilvēki – gribas ticēt, ka tiem ir labi nodomi, taču viņu attieksme noteikti ir maldīga –, kas apgalvo, ka viņi var mīlēt Kristu, bet bez Baznīcas, klausīt Kristu, bet ne Baznīcu, piederēt Kristum, bet ārpus Baznīcas. To, cik absurds ir šāds divdalījums, skaidri atklāj šie Evaņģēlija vārdi: “Kas jūs noraida, tas noraida mani.” [^44] Un kā var gribēt mīlēt Kristu, nemīlot Baznīcu, ja skaistākā no visām liecībām par Kristu ir ietverta svētā Pāvila vārdos: “Kristus ir mīlējis Baznīcu un sevi atdevis par viņu.” [^45]
 
 **2. KO NOZĪMĒ – EVAŅĢELIZĒT?**
-
-** **
 
 EVAŅĢELIZĀCIJAS DARBA SAREŽĢĪTĪBA
 
@@ -400,8 +394,6 @@ Ievērojot šos nosacījumus, kuri, protams, ir prasīgi, taču arī iedvesmojo�
 
 **6. EVAŅĢELIZĀCIJAS VEICĒJI**
 
-** **
-
 VISA BAZNĪCA IR MISIONĀRA
 
 59\. Ja ir cilvēki, kuri pasaulē sludina pestīšanas Evaņģēliju, tad viņi to dara, izpildot pavēli, Kristus – Pestītāja – vārdā un ar Viņa žēlastību. “Bet kā gan lai sludina, ja nav sūtīto” [^81] rakstīja tas, kas neapšaubāmi bija viens no izcilākajiem Evaņģēlija sludinātājiem. Tātad neviens nevar veikt šo uzdevumu, ja nav ticis sūtīts.
@@ -599,8 +591,6 @@ Evaņģēlija sludinātājam ir ne vien tiesības, bet arī pienākums cieņpiln
 Tāpēc saglabāsim gara degsmi, vairosim maigo un pacilājošo evaņģelizācijas prieku pat tad, kad ir jāsēj ar asarām. Lai tas mums tāpat kā Jānim Kristītājam, Pēterim un Pāvilam, pārējiem apustuļiem un lielam skaitam apbrīnojamu Evaņģēlija sludinātāju Baznīcas vēsturē kļūst par iekšējo dzenuli, ko ne cilvēki, ne norises nespēs noslāpēt. Lai tas ir mūsu kalpošanai veltītās dzīves lielais prieks. Lai mūsdienu pasaule, kas reizēm sāpēs, citkārt cerībā meklē, varētu saņemt Labo Vēsti nevis no skumjiem un cerību zaudējušiem, nepacietīgiem un raižpilniem evaņģelizētājiem, bet gan no Evaņģēlija kalpiem, kuru dzīve izstaro degsmi, kuri savu prieku guvuši Kristū un kuri nevilcinās savu dzīvi veltīt Valstības sludināšanai un Baznīcas veidošanai pasaulē.
 
 **NOBEIGUMS**
-
-** **
 
 SVĒTĀ GADA VELTE
 

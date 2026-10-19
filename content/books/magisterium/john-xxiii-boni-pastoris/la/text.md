@@ -11,7 +11,6 @@ PONTIFICIUM CONSILIUM
 REI CINEMATOGRAPHICAE,  
 RADIOPHONICAE ET TELEVISIFICAE PRAEPOSITUM  
 NOVIS LEGIBUS CONSTITUITUR.  
-** **
 
 Ad perpetuam rei memoriam — Boni Pastoris universi gregis Dominici munus, quod, Summus Pontifex inaugurati, « Nobis peculiarissimo modo cordi esse» asseveravimus (1), Nos iubet cum animum ad quamvis Ecclesiae necessitatem numquam non referre, tum praecipua sollicitudine ea expendere omnia, quae, progrediente civili cultu hac aetate invecta, non parvum momentum habent ad spiritualem hominum vitam; in quibus radiophonium, televisio, cinematographeum merito numerantur.
 

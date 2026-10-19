@@ -1,9 +1,5 @@
 # Schreiben an die Präsidenten der Bischofskonferenzen
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***Schreiben an die Präsidenten der Bischofskonferenzen über die Lehrkommissionen***
@@ -53,7 +49,3 @@ XIV. Endlich wäre es recht nützlich, wenn der Vorsitzende der Glaubenskommiss
 **JOSEPH** **Kardinal** **RATZINGER** *Präfekt*
 
 **ALBERTO BOVONE** Tit.-Erzbischof von Cäsarea in Numidien *Sekretär*
-
-* *
-
-[](#top)

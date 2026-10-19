@@ -5,8 +5,6 @@ CARTA APOSTÓLICA*** «DIVINI AMORIS SCIENTIA» ***  DE SUA SANTIDADE
 
 ***Santa Teresa do Menino Jesus e da Santa Face é proclamada Doutora da Igreja***
 
-** **
-
 1\. A CIÊNCIA DO AMOR DIVINO, que o Pai das misericórdias efunde mediante Jesus Cristo no Espírito Santo, é um dom concedido aos pequeninos e aos humildes, para que conheçam e proclamem os segredos do Reino, escondidos aos entendidos e aos sábios: por isso Jesus exultou no Espírito Santo, dando louvor ao Pai, que assim dispôs (cf. *Lc* 10, 21-22; *Mt* 11, 25-26).
 
 Alegra-se também a Mãe Igreja ao constatar como, ao longo do decurso da história, o Senhor continua a revelar-Se aos pequeninos e aos humildes, habilitando os Seus eleitos, por meio do Espírito, o Qual «tudo penetra até às profundezas de Deus» (*1 Cor* 2, 10), a falarem das graças «que Deus nos concedeu...

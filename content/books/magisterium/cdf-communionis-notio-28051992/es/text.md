@@ -1,9 +1,5 @@
 # SOBRE ALGUNOS ASPECTOS DE LA IGLESIA
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***CARTA A LOS OBISPOS DE LA IGLESIA CATÓLICA SOBRE ALGUNOS ASPECTOS DE LA IGLESIA CONSIDERADA COMO COMUNIÓN***
@@ -279,5 +275,3 @@ Al concluir esta *Carta*, la Congregación para la Doctrina de la Fe, haciendo e
 \(82\) 82 S. CROMACIO DE AQUILEYA, *Sermo* 30, 1: "Sources Chrétiennes", 164, p. 134. Cfr. PABLO VI, Exh. Ap. *Marialis cultus*, 2-II-1974, n. 28.
 
 \(83\) 83 Cfr. Const. *Lumen gentium*, n. 69.
-
-[](#top)

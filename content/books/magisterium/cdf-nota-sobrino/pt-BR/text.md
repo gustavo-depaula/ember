@@ -1,9 +1,5 @@
 # Nota explicativa Jon Sobrino
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***NOTA EXPLICATIVA*** ***NOTIFICAÇÃO SOBRE AS OBRAS DO P. JON SOBRINO** **S.I.***
@@ -33,8 +29,6 @@ A tal propósito, escrevia a Congregação para a Doutrina da Fé: “uma reflex
 Daí a esperança que esta *Notificação* ofereça aos pastores e aos fiéis um critério seguro, fundado na doutrina da Igreja, em ordem a um juízo recto sobre essas questões de grande relevância tanto do ponto de vista teológico como pastoral.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. João Paulo II, Const. Apost. *Pastor Bonus*, 48: AAS 80 (1988), 841-934.
 

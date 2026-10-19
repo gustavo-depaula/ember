@@ -1,13 +1,5 @@
 # Communion and Stewardship: Human Persons Created in the Image of God, 2004
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_fr.html) - [HU](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_hu.html) - [KO](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_ko.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_it.html) - [LIT](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_lit.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_po.html) - [RU](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_ru.html) - [ZH_CN](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_zh_cn.pdf) - [ZH_TW](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_zh_tw.pdf)\] 
@@ -25,29 +17,29 @@
 제1장 하느님 모습으로 창조된 인간
 
 > 1\. 성경과 성전에 나타난 하느님 모습
->
+
 > 2\. 하느님 모습의 신학에 대한 현대적 비판­
->
+
 > 3\. 제2차 바티칸 공의회와 현대 신학에서 보는 하느님 모습
 
 제2장 하느님 모습: 친교를 맺는 인간
 
 > 1\. 육체와 영혼
->
+
 > 2\. 남자와 여자
->
+
 > 3\. 인간과 공동체
->
+
 > 4\. 죄와 구원
->
+
 > 5\. 하느님 모습과 그리스도 모습
 
 제3장 하느님 모습 안에서: 가시적 피조 세계에 대한 봉사
 
 > 1\. 과학과 지식의 봉사
->
+
 > 2\. 창조된 세계에 대한 책임
->
+
 > 3\. 인간의 생물학적 통합성에 대한 책임
 
 결 론

@@ -1,15 +1,5 @@
 # Decree giving effect to the dispositions of can. 838 of the Code of Canon Law
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
@@ -41,7 +31,7 @@ NORMS AND PROCEDURES
 4\. In reforming the liturgical books of the Roman Rite, in accordance with the provisions of the Second Vatican Council, the need for their translation into spoken languages and their adaptation to the cultural diversity of peoples was kept in mind, as were the problems inherent in such work. In this regard, it should not be forgotten that:
 
 > a\) the translations of the liturgical texts, being part of the rites themselves, are the voice of the Church which celebrates the divine mysteries, and they have the same value as the liturgical texts in Latin.[^9] They must therefore strive to become “liturgical” languages and, despite their diversity, always maintain the one and the same voice of the Church, the one and the same “lex orandi”. Therefore, the translations of the liturgical books cannot be left to the judgement of individuals but, entrusted to the responsibility of the Bishops, must be approved by their Conferences;
->
+
 > b\) for the pastoral benefit of the faithful, in addition to the adaptations already provided for in the liturgical books, which are the responsibility of the celebrant, there are also other types of necessary or useful adaptations which are left to the decision and approval of the Conferences of Bishops.
 
 5\. “according to what is stated in the Constitution *Sacrosanctum Concilium,* in particular in articles 36 §§ 3-4, 40 and 63 and in the Apostolic Letter Motu Proprio *Sacram Liturgiam,* n. IX”,[^10] the Motu Proprio *Magnum Principium* has modified the canonical norms in such a way that “the competency of the Apostolic See surrounding the translation of liturgical books and the more radical adaptations established and approved by Episcopal Conferences be made clearer, among which can also be numbered eventual new texts to be inserted into these books”.[^11] Consequently, “the right and duty of Episcopal Conferences” is also clarified, facilitating fraternal “collaboration … between the Apostolic See and Episcopal Conferences”[^12] regarding the publication of liturgical books in current languages.
@@ -163,7 +153,7 @@ Propers of Dioceses and Religious Families
 50\. Although canon 838 does not concern the particular liturgical texts of Dioceses and Religious Families, this matter requires normative adjustment as it is tightly bound up with the liturgical books. In this regard:
 
 > a\) dioceses, institutes of consecrated life, societies of apostolic life and others with a particular right have: a Particular Calendar, a Proper of Masses and Liturgy of the Hours, as well as a Martyrology;[^52]
->
+
 > b\) for Religious Families the adaptation of the *Ordo Professionis Religiosae*[^53]and other particular celebrations is also anticipated.
 
 51\. Proper celebrations are to be harmoniously integrated into the General Roman Calendar. The diocesan liturgical calendar shall take into account national and regional calendars. All particular Calendars, composed by the competent authority, must be approved by the Apostolic See.[^54]
@@ -394,8 +384,6 @@ PRÆNOTANDA 
 3)      Versiones textuum parare, ita ut indoli variorum sermonum atque ingenio diversarum culturarum vere accommodentur, necnon eas approbare, actis ab Apostolica Sede confirmatis. Possunt præterea addere, quoties opportunum fuerit, melodias cantui aptas.
 
 4)      In editionibus parandis, materiam ordinare modo qui ad usum pastoralem aptior videatur.* *
-
-*  *
 
 * IN ORDINEM UNCTIONIS INFIRMORUM EORUMQUE PASTORALIS CURÆ* 
 

@@ -1,9 +1,5 @@
 # O Primado do sucessor de Pedro no mistério da Igreja, 31 de outubro de 1998
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***O PRIMADO DO SUCESSOR DE PEDRO  NO MISTÉRIO DA IGREJA***
@@ -75,8 +71,6 @@ Quando e como se alcançará a tão desejada meta da unidade de todos os cristã
 \* *L’Osservatore Romano*, ed. port., n. 47, 21 de Novembro de 1998, p. 6-7.
 
 **Notas**
-
-[](#top)
 
 [^1]: João Paulo II, Carta Enc. *[Ut unum sint](/edocs/POR0069/_INDEX.HTM)*, 25/5/1995, n. 95.
 

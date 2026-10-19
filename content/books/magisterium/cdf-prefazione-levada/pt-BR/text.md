@@ -1,9 +1,5 @@
 # Prefácio das normas para proceder no discernimento de presumíveis aparições e revelações, Cardeal Levada, 14 de dezembro de 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***NORMAS PARA PROCEDER NO DISCERNIMENTO  DE PRESUMÍVEIS APARIÇÕES E REVELAÇÕES***
@@ -33,5 +29,3 @@ Cidade do Vaticano, 14 de Dezembro de 2011, memória litúrgica de São João da
 ------------------------------------------------------------------------
 
 1\) Exortação Apostólica pós-sinodal *[Verbum Domini](/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini_po.html)* sobre a Palavra de Deus na vida e na missão da Igreja, 30 de Setembro de 2010, n. 14: AAS 102 (2010), 695-696. A tal propósito, vejam-se também os trechos do *[Catecismo da Igreja Católica](/archive/cathechism_po/index_new/prima-pagina-cic_po.html)* dedicados a este tema (cf. nn. 66-67).
-
-[](#top)

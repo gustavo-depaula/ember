@@ -1,10 +1,6 @@
 # Nota acerca del ministro del sacramento de la Unción de los enfermos
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  CONGREGACIÓN PARA LA DOCTRINA DE LA FE
+CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***Nota acerca del ministro del sacramento de la Unción de los enfermos***
 
@@ -68,7 +64,3 @@ Por otra parte, todos los Rituales del sacramento de la Unción de los enfermos 
 La doctrina según la cual el ministro del sacramento de la Unción de los enfermos "*est omnis et solus sacerdos"* goza de tal certeza teológica, que debe ser calificada como doctrina "*definitive tenenda*". El sacramento es inválido si un diácono o un laico intenta administrarlo. Esa acción constituiría un delito de simulación en la administración del sacramento, punible a tenor del canon 1379 del *[Código de derecho canónico](/archive/ESL0020/__P52.HTM)* (cf. canon 1443 del *Código de cánones de las Iglesias orientales*).  
 
 Como conclusión, conviene recordar que el sacerdote, por el sacramento que ha recibido, hace presente de una manera totalmente particular a nuestro Señor Jesucristo, Cabeza de la Iglesia. En la administración de los sacramentos actúa *in persona Christi Capitis* y también *in persona Ecclesiae*. Quien actúa en este sacramento es Jesucristo; el sacerdote es el instrumento vivo y visible. Representa y hace presente a Cristo de modo especial, por lo cual este sacramento tiene una dignidad y eficacia particulares con respecto a un sacramental, pues, como dice la Palabra inspirada acerca de la Unción de los enfermos, "el Señor hará que se levante" (*St* 5, 15). El sacerdote actúa también *in persona Ecclesiae*. Los "presbíteros de la Iglesia" recogen en su plegaria (cf. *St* 5, 14) la oración de toda la Iglesia; como dice santo Tomás de Aquino a este respecto:  "oratio illa non fit a sacerdote in persona sua (...), sed fit in persona totius Ecclesiae" (*Summa Theol.,* Suppl., q. 31, a. 1, ad 1). Esa oración es escuchada. * *
-
-* *
-
-[](#top)

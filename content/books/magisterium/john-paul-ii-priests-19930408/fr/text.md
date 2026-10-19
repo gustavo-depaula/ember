@@ -2,8 +2,6 @@
 
 **LETTRE DU PAPE JEAN-PAUL II *AUX PRÊTRES* POUR LE JEUDI SAINT 1993**
 
-***   ***
-
 1\. " *Jésus-Christ est le même hier et aujourd’hui, il le sera à jamais "* (*He* 13, 8). Chers frères dans le sacerdoce du Christ, nous nous retrouvons aujourd’hui, membres de la communauté presbytérale de toutes les Églises avec les Pasteurs des diocèses, auprès des nombreux sièges épiscopaux du monde, et à notre esprit reviennent avec une force nouvelle ces paroles sur Jésus-Christ qui sont devenues le fil conducteur du cinq centième anniversaire de l’évangélisation du Nouveau Monde.
 
 " *Jésus-Christ est le même hier et aujourd’hui, il le sera à jamais "* : telles sont les paroles qui désignent le *Prêtre unique et éternel,* le Prêtre qui " entra une fois pour toutes dans le sanctuaire… avec son propre sang, nous ayant acquis une rédemption éternelle " (*He* 9, 12). Nous voici parvenus au " Triduum sacré " de la sainte liturgie de l’Église, ces jours où, avec un esprit de vénération et d’adoration plus profondes, nous renouvelons la Pâque du Christ, " son heure " (cf. *Jn* 2, 4 ; 13, 1) qui n’est autre que le moment béni de la " plénitude des temps " (*Ga* 4, 4).

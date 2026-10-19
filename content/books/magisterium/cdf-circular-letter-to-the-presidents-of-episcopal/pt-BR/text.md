@@ -1,13 +1,5 @@
 # Carta sobre opiniões errôneas na interpretação dos decretos do Concílio Vaticano II, 24 de julho de 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
  CONGREGAÇÃO PARA A DOUTRINA DA FÉ

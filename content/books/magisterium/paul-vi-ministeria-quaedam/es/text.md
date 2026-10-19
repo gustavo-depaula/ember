@@ -50,9 +50,9 @@ VII. La institución de Lector y de Acólito, según la venerable tradición de 
 VIII. Para que alguien pueda ser admitido a estos ministerios se requiere:
 
 > *a)* petición libremente escrita y firmada por el aspirante, que ha de ser presentada al Ordinario (al Obispo y, en los Institutos clericales de perfección, al Superior Mayor) a quien corresponde la aceptación;
->
+
 > *b)* edad conveniente y dotes peculiares, que deben ser determinadas por la Conferencia Episcopal;
->
+
 > *c)* firme voluntad de servir fielmente a Dios y al pueblo cristiano.
 
 IX. Los ministerios son conferidos por el Ordinario (el Obispo. y, en los Institutos clericales de perfección, el Superior Mayor) mediante el rito litúrgico « De Institutione Lectoris » y « De Institutione Acolythi », aprobado por la Sede Apostólica.

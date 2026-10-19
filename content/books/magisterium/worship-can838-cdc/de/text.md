@@ -1,15 +1,5 @@
 # DEKRET Anwendung der Bestimmungen des can. 838 des Kodex des Kanonischen Rechts
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
@@ -41,7 +31,7 @@ Normen und Vorgehensweise
 4\. Bei der Reform der liturgischen Bücher des Römischen Ritus gemäß den Bestimmungen des Zweiten Vatikanischen Konzils wurden Fragen bezüglich der Notwendigkeit ihrer Übersetzung in die Volkssprachen und ihrer Anpassung an die kulturelle Vielfalt der Völker ebenso berücksichtigt wie die mit einer solchen Arbeit verbundenen Schwierigkeiten. In diesem Zusammenhang darf nicht vergessen werden:
 
 > a\) dass die Fassungen der liturgischen Texte als Teil der Riten selbst die Stimme der Kirche sind, die die göttlichen Geheimnisse feiert, und deshalb den gleichen Wert haben wie die in lateinischer Sprache überlieferten liturgischen Texte.[^9] Deshalb müssen sie danach streben, „liturgische“ Sprachen zu werden, und – trotz ihrer Vielfalt – immer die eine und gleiche Stimme der Kirche, also die eine und gleiche *„lex orandi“*, wahren. Daher können die Fassungen der liturgischen Bücher nicht dem Ermessen einzelner Personen überlassen werden, sondern müssen der Verantwortung der Bischöfe anvertraut und von deren Konferenzen genehmigt werden;
->
+
 > b\) dass für das pastorale Wohl der Gläubigen neben den bereits in den liturgischen Büchern vorgesehenen Anpassungen, die in der Verantwortung desjenigen liegen, der einer Feier vorsteht, auch andere notwendige oder nützliche Arten von Anpassungen vorgesehen werden können, die der Entscheidung und Genehmigung der Bischofskonferenzen überlassen sind.
 
 5\. „Entsprechend der Absicht der Konstitution *Sacrosanctum Concilium*, insbesondere wie sie in den Nrn. 36, § 3-4, 40 und 63 zum Ausdruck kommt, wie auch des als Motu Proprio erlassenen Apostolischen Schreibens *Sacram Liturgiam*, Nr. IX“,[^10] hat das Motu Proprio *Magnum Principium* die kanonischen Normen von can. 838 §§ 2 und 3 so abgeändert, dass „die Zuständigkeit des Apostolischen Stuhls * *hinsichtlich der Übersetzungen der liturgischen Bücher und tiefgreifenderer Anpassungen deutlicher zutage trete, unter die auch einige darin neu einzufügende Texte gezählt werden können, die von den Bischofskonferenzen festgesetzt und approbiert wurden.“[^11]  Folglich werden auch „das Recht und die Aufgabe der Bischofskonferenzen“ verdeutlicht, „um die Zusammenarbeit zwischen dem Apostolischen Stuhl und den Bischofskonferenzen“ bei der Veröffentlichung liturgischer Bücher in den Volkssprachen „leichter und fruchtbarer zu gestalten“.[^12]
@@ -161,7 +151,7 @@ Verantwortung und Zuständigkeit der Bischofskonferenzen
 50\. Auch wenn can. 838 die liturgischen Eigentexte der Diözesen und der Ordensgemeinschaften nicht direkt berücksichtigt, verlangt das Thema, das eng mit den liturgischen Büchern verbunden ist, dass auch die *latae normae* angepasst werden.
 
 > a\. Ein Eigenkalender, Eigenfeiern im Missale und im Stundenbuch und nicht zuletzt im Martyrologium[^52] kommen legitim den Diözesen, den Instituten des geweihten Lebens, den Gemeinschaften des apostolischen Lebens und anderen zu, die ein Eigenrecht haben.
->
+
 > b\. Für die Ordensgemeinschaft ist auch die Anpassung der Feier der Ordensprofess[^53] und anderer Eigenfeiern vorgesehen.
 
 51\. Eigenfeiern werden in den Römischen Generalkalender an der passenden Stelle eingefügt. Der Diözesankalender muss den National- und den Regionalkalender berücksichtigen. Alle Eigenkalender, die von der zuständigen Autorität beschlossen werden, müssen vom Apostolischen Stuhl approbiert werden.[^54]
@@ -298,7 +288,7 @@ PRÆNOTANDA 
 **17**. Episcoporum Conferentia considerabit num, attentis locorum et rerum adiunctis necnon ingenio et traditionibus populorum, opportunum sit: 
 
 > a\) convenienter aptare formulas, quibus promissiones et professiones baptismales renoventur, sive ad ipsum textum in Ordine Baptismi occurrentem attendendo, sive ipsas formulas accommodando, quo aptius confirmandorum condicioni respondeant, actis ab Apostolica Sede recognitis;
->
+
 > b\) alium modum inducere ad pacem per ministrum dandam post unctionem sive singulis sive omnibus simul confirmatis, actis ab Apostolica Sede recognitis. 
 
 *IN ORDINEM DEDICATIONIS ECCLESIÆ ET ALTARIS*
@@ -324,15 +314,15 @@ PRÆNOTANDA 
             Qua in aptatione, Conferentiarum Episcopalium erit: 
 
 > 1\) Aptationes definire, intra limites in hoc titulo statutos.
->
+
 > 2\) Sedulo et prudenter considerare quid ex traditionibus ingenioque singulorum populorum opportune admitti possit, ideoque alias aptationes, quæ utiles vel necessariæ existimentur, Apostolicæ Sedi proponere \[…\] et, post ipsius recognitionem, introducere.
->
+
 > 3\) Propria autem Ritualium particularium iam exstantium elementa, si quæ habeantur, retinere, dummodo cum Constitutione de sacra Liturgia et necessitatibus hodiernis componi possint, vel ea aptare, actis ab Apostolica Sede recognitis.
->
+
 > 4\) Versiones textuum parare, ita ut ingenio variarum linguarum culturarumque vere sint accommodatæ, et eas approbare, actis ab Apostolica Sede confirmatis, additis, quotiescumque opportunum fuerit, melodiis cantui aptis.
->
+
 > 5\) Prænotanda, quæ in Rituali Romano habentur, aptare atque complere, ita ut ministri significationem rituum plene intellegant et effectu compleant, actis ab Apostolica Sede recognitis.
->
+
 > 6\) In editionbus librorum liturgicorum cura Conferentiarum Episcopalium parandis, materiam ordinare modo qui ad usum pastoralem aptissimus videatur ita, tamen, ut de materia, quæ in hac editione typica continetur, nihil omittatur.
 
 Si quæ vero rubricas vel textus adicere opportunum videatur, congruo signo vel charactere typographico distinguantur a rubricis et textibus Ritualis Romani. 
@@ -354,15 +344,15 @@ PRÆNOTANDA GENERALIA 
             Qua in re, Conferentiarum Episcopalium erit: 
 
 > 1) Aptationes definire, de quibus in art. 39 Constitutionis de sacra Liturgia, actis ab Apostolica Sede recognitis.
->
+
 > 2) Sedulo et prudenter considerare quid ex traditionibus ingenioque singulorum populorum opportune admitti possit; ideoque alias aptationes, quæ utiles vel necessariæ existimantur, Apostolicæ Sedi proponere \[…\] et, post ipsius recognitionem, introducere.
->
+
 > 3) Propria autem Ritualium particularium iam exstantium elementa, si quæ habentur, retinere, dummodo cum Constitutione de sacra Liturgia et necessitatibus hodiernis componi queant, vel ea aptare, actis ab Apostolica Sede recognitis.
->
+
 > 4\) Versiones textuum parare, ita ut ingenio variarum linguarum atque culturarum vere sint accommodatæ, necnon eas approbare, actis ab Apostolica Sede confirmatis. Addere possunt, quoties opportunum fuerit, melodias cantui aptas.
->
+
 > 5\) Prænotanda, quæ in Rituali Romano habentur, aptare et complere, ita ut ministri significationem rituum plene intellegant et effectu compleant, actis ab Apostolica Sede recognitis.
->
+
 > 6\) In editionbus librorum liturgicorum cura Conferentiarum Episcopalium parandis, materiam ordinare modo qui ad usum pastoralem aptissimus videatur. 
 
 **31**. Attentis præsertim normis in nn. 37-40 et 65 Constitutionis de sacra Liturgia, in terris Missionum, Conferentiarum Episcopalium est iudicare an elementa initiationis, quæ apud aliquos populos in usu esse reperiuntur, ritui Baptismatis christiani accommodari possint, et decernere an sint in eo admittenda, actis ab Apostolica Sede recognitis. 
@@ -386,14 +376,12 @@ PRÆNOTANDA
 **40**. Qua de re, Conferentiarum Episcoporum erit:  
 
 > 1\) Aptationes definire, de quibus infra (nn. 41-44), actis ab Apostolica Sede recognitis.
->
-> 2\) Prænotanda, quæ in Rituali Romano habentur inde a n. 36 et sequentibus (De ritu adhibendo), si casus fert, aptare et complere ad participationem fidelium consciam et actuosam reddendam, actis ab Apostolica Sede recognitis.
->
-> 3\) Versiones textuum parare, ita ut indoli variorum sermonum atque ingenio diversarum culturarum vere accommodentur, necnon eas approbare, actis ab Apostolica Sede confirmatis. Possunt præterea addere, quoties opportunum fuerit, melodias cantui aptas.
->
-> 4\) In editionibus parandis, materiam ordinare modo qui ad usum pastoralem aptior videatur.
 
-*   *
+> 2\) Prænotanda, quæ in Rituali Romano habentur inde a n. 36 et sequentibus (De ritu adhibendo), si casus fert, aptare et complere ad participationem fidelium consciam et actuosam reddendam, actis ab Apostolica Sede recognitis.
+
+> 3\) Versiones textuum parare, ita ut indoli variorum sermonum atque ingenio diversarum culturarum vere accommodentur, necnon eas approbare, actis ab Apostolica Sede confirmatis. Possunt præterea addere, quoties opportunum fuerit, melodias cantui aptas.
+
+> 4\) In editionibus parandis, materiam ordinare modo qui ad usum pastoralem aptior videatur.
 
 * IN ORDINEM UNCTIONIS INFIRMORUM EORUMQUE PASTORALIS CURÆ*
 
@@ -406,15 +394,15 @@ PRÆNOTANDA 
             Qua in re, Conferentiarum Episcopalium erit: 
 
 > *a)* Aptationes definire, de quibus in art. 39 Constitutionis de sacra Liturgia, actis ab Apostolica Sede recognitis.
->
+
 > *b)* Sedulo et prudenter considerare quid ex traditionibus ingenioque singulorum populorum opportune admitti possit; ideoque alias aptationes, quæ utiles vel necessariæ existimantur, Apostolicæ Sedi proponere \[…\] et, post ipsius recognitionem, introducere.
->
+
 > *c)* Quædam propria Ritualium particularium circa infirmos iam exstantium elementa, si quæ habentur, retinere, dummodo cum Constitutione de sacra Liturgia et necessitatibus hodiernis componi queant, vel ea aptare, actis ab Apostolica Sede recognitis.
->
+
 > *d)* Versiones textuum parare, ita ut indoli variorum sermonum atque ingenii culturarum vere accommodentur, necnon eas approbare, actis ab Apostolica Sede confirmatis. Præterea addere possunt, quoties opportunum fuerit, melodias cantui aptas.
->
+
 > *e)* Prænotanda, quæ in Rituali Romano habentur, si casus fert, aptare et complere ad participationem fidelium consciam et actuosam reddendam, actis ab Apostolica Sede recognitis.
->
+
 > *f)* In editionbus librorum liturgicorum cura Conferentiarum Episcopalium parandis, materiam ordinare modo qui ad usum pastoralem aptissimus videatur.
 
 **39**. Quando Rituale Romanum Baptismi plures exhibet formulas ad libitum, Ritualia particularia possunt alias formulas eiusdem generis adicere, actis ab Apostolica Sede recognitis. 
@@ -430,9 +418,9 @@ De aptationibus quas Conferentiæ Episcopales facere possunt 
 ** 38**. Conferentiis Episcopalibus competit, in Ritualibus particularibus apparandis, hunc Ordinem Pænitentiæ accommodare singularum regionum necessitatibus, ut, actis ab Apostolica Sede confirmatis vel recognitis, in regionibus ad quas pertinent, adhibeantur. Qua in re Conferentiarum Episcopalium erit: 
 
 > *a)* Normas circa disciplinam sacramenti Pænitentiæ statuere, in iis præsertim quæ ad ministerium sacerdotum et reservationem peccatorum spectant, actis ab Apostolica Sede recognitis.
->
+
 > *b)* Normas pressius determinare quoad locum aptum ad ordinariam sacramenti Pænitentiæ celebrationem et quoad signa pænitentiæ a fidelibus exhibenda in absolutione generali (cf. Supra n. 35), actis ab Apostolica Sede recognitis.
->
+
 > *c)* Versiones textuum parare, quæ uniuscuiusque populi indoli et sermoni vere sint accommodatæ, atque eas approbare, actis ab Apostolica Sede confirmatis. Itemque novos textus componere pro precibus sive fidelium sive ministri, formula sacramentali integre servata, actis ab Apostolica Sede recognitis. 
 
 * IN DE SACRA COMMUNIONE ET DE CULTU MYSTERII EUCHARISTICI EXTRA MISSAM*
@@ -446,7 +434,7 @@ IV. DE IIS QUÆ CONFERENTIIS EPISCOPALIBUS COMPETUNT 
             Qua in re Conferentiarum Episcopalium erit: 
 
 > a\) sedulo et prudenter considerare quænam elementa, si quæ habeantur, ex traditionibus populorum retineri aut admitti possint, dummodo cum spiritu sacræ Liturgiæ componi queant; ideoque aptationes, quæ utiles vel necessariæ existimantur, Apostolicæ Sedi proponere \[…\] et, post ipsius recognitionem, introducere.
->
+
 > b\) versiones textuum parare, ita ut indoli variorum sermonum atque ingenio culturarum vere accommodentur, necnon eas approbare, actis ab Apostolica Sede confirmatis. Alios textus, præsertim pro cantu, parare et approbare ad normam iuris. 
 
 * IN DE BENEDICTIONIBUS* 
@@ -460,19 +448,19 @@ V. DE APTATIONIBUS QUÆ CONFERENTIIS  EPISCOPORUM COMPETUNT 
             Qua in re, Conferentiarum Episcoporum erit:  
 
 > *a)* Aptationes definire, iuxta principia in hoc libro statuta rituum tamen structura propria servata atque eas, post Apostolicæ Sedis recognitionem, introducere.
->
+
 > *b)* Sedulo ac prudenter considerare quid ex traditionibus ingenioque singulorum populorum opportune admitti possit, ideoque alias aptationes, quæ utiles vel necessariæ existimentur, proponere et, post Apostolicæ Sedis recognitionem, introducere. ³⁶
->
+
 > *c)* Proprias autem Ritualium particularium iam exstantium benedictiones si quæ habentur, vel antiqui Ritualis Romani et quæ adhuc in usu sint, retinere, dummodo cum mente Constitutionis de Sacra Liturgia, et principiis in hoc titulo expositis ac necessitatibus hodiernis componi queant; vel ea aptare et, post Apostolicæ Sedis recognitionem, introducere.
->
+
 > *d)* In variis benedictionum Ordinibus, præsertim quando plures formulæ ad libitum eligendæ exhibentur, alias etiam formulas eiusdem generis præter eas quæ in Rituali Romano inveniuntur, adicere et, post Apostolicæ Sedis recognitionem, introducere.
->
+
 > *e)* Prænotanda, sive generalia sive particularia uniuscuiusque Ordinis, quæ in hoc libro habentur, non solum integre vertere, sed, si casus ferat, complere, actis ab Apostolica Sede debite recognitis, ita ut ministri significationem rituum plenius intellegant ac fidelium participatio conscia et actuosa reddatur.
->
+
 > *f)* Illas partes complere quæ in libro desiderantur, ut v. gr. alias lectiones præbere, quæ utiles esse possunt; cantus aptiores indicare.
->
+
 > *g)* Versiones textuum parare, ita ut indoli variorum sermonum atque ingenio diversarum culturarum accommodentur, necnon eas approbare et ad confirmationem Apostolicæ Sedis præbere.
->
+
 > *h)* In editionibus libri materiam ordinare modo qui ad usum pastoralem aptior videatur, partes libri separatim edere, præcipuis prænotandis semper præmissis, actis ab Apostolica Sede confirmatis. 
 
 * IN DE EXORCISMIS ET SUPPLICATIONIBUS QUIBUSDAM*
@@ -484,7 +472,7 @@ VI\. DE APTATIONIBUS QUÆ CONFERENTIIS EPISCOPORUM COMPETUNT
 **37**. Conferentiarum Episcoporum est:  
 
 > *a)* Versiones textuum parare integras et amussim fideles textui originali authentico apparare, approbare et confirmationi Apostolicæ Sedis præbere.
->
+
 > *b)* Signa et gestus ipsius ritus, si hoc necessarium vel utile iudicatur, attenta cultura et genio ipsius populi, de consensu Sanctæ Sedis aptare, et actis recognitis in hunc Ritualis titulum introducere. 
 
 IN MARTYROLOGIUM ROMANUM

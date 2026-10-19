@@ -1,13 +1,5 @@
 # Homily of His Eminence, Cardinal Víctor Fernández for the Episcopal Ordination of Bishop David A. Waller, Bishop of the Personal Ordinariate of Our Lady of Walsingham
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Cardinal Victor Manuel Fernández *Prefect of the Dicastery for the Doctrine of the Faith*

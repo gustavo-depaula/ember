@@ -81,11 +81,11 @@ Itaque, quoniam universi nominis christiani refert sacra haec saecularia digne c
 Nos vero ad eiusdem solemnitatis vel splendorem vel fructum augendum haec pro Apostolica Nostra potestate tribuimus:
 
 > 1\) ut in omnibus Ordinis Praedicatorum ecclesiis itemque in quavis alla sacra aede aut sacello quod populo pateat vel patere possit, praesertim apud Seminaria, Collegia vel domus sacrae iuventuti educandae, supplicationes in triduum vel in octavum vel in nonum diem habeantur, propositis iisdem pontificalis indulgentiae muneribus, quae in usitatis sanctorum beatorumque caelitum supplicationibus lucranda proponuntur;
->
+
 > 2\) ut in ecclesiis tum Fratrum tum Sororum ex Ordine Sancti Dominici semel per solemnia saecularia, quolibet ex iis diebus, liceat omnibus rite peccata confessis et Eucharistico epulo refectis plenariam peccatorum veniam consegui toties, quoties ad altare Sancti Thomae pias preces fuderint;
->
+
 > 3\) ut item in ecclesiis Ordinis Dominiciani possint sacerdotes sodales vel tertiarii, anno saeculari vertente, quavis feria quarta aut primo quoque die per hebdomadam libero, Missam in honorem Sancti Thomae, ut in eius festo celebrare, cum Gloria tamen et Credo, vel sine iis, pro diei ritu, et plenariam peccatorum remissionem lucrari; cuius indulgentiae etiam qui eidem Missae adfuerint, usitatis quidem condicionibus, compotes sint.
->
+
 > Praeterea faciendum est, ut apud sacra Seminaria ceterasque domos clericis instituendis hoc toto temporis spatio aliqua celebris de philosophia aliisve gravioribus disciplinis disputatio in honorem Angelici Doctoris habeatur. Atque ad agendum posthac ita festum diem Sancti Thomae, quemadmodum patrono omnium scholarum catholicarum dignum est, volumus eum diem studiosis esse feriatum, eumque non tantum solemni sacro, sed etiam – saltem in Seminariis et apud Religiosorum familias – eiusmodi disputatione celebrari, quam modo diximus.
 
 Ad extremum, quo nostrorum studia, Aquinate Magistro, in Dei gloriam Ecclesiaeque fructum cedant quotidie maiorem, his Litteris precandi formulam, qua ipse utebatur, adiungimus, l,rosque obsecramus ut evulgandam curetis. Eam autem quotiescumque quis rite recitaverit, sciat, auctoritate Nostra, septem annorum totidemque quadragenarum poenam sibi esse remissam.

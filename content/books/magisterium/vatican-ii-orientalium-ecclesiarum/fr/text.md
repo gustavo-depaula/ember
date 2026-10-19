@@ -1,15 +1,5 @@
 # Orientalium ecclesiarium
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAUL, ÉVÊQUE,  
@@ -192,8 +182,6 @@ Sequuntur ceterae subsignationes.
 Ita est.
 
 † Ego PERICLES FELICI *Archiepiscopus tit. Samosatensis Ss. Concilii Secretarius Generalis* † Ego IOSEPHUS ROSSI *Episcopus tit. Palmyrenus Ss. Concilii Notarius* † Ego FRANCISCUS HANNIBAL FERRETTI *Ss. Concilii Notarius*
-
-* *
 
 ------------------------------------------------------------------------
 

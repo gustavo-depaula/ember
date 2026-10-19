@@ -27,9 +27,9 @@ Esta es la razón por la que la Iglesia, especialmente después del Concilio Vat
 Pertenece a este Instituto conferir, por derecho propio, los siguientes grados académicos:
 
 > — doctorado en sagrada teología con especialización en ciencias teológicas del matrimonio y la familia.
->
+
 > — licenciatura en teología del matrimonio y la familia.
->
+
 > — diploma en ciencias del matrimonio y la familia.
 
 4\. El Instituto conseguirá estos fines:

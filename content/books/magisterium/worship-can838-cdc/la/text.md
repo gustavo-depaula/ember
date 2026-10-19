@@ -1,15 +1,5 @@
 # Decretum ad dispositiones can. 838 Codicis Iuris Canonici efficiendas
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
@@ -41,7 +31,7 @@ Normae et agendi modus
 4\. In libros liturgicos Ritus Romani instaurandos, ad mentem eorum quae a Concilio Vaticano II decreta sunt, quaestiones sive de necessitate eos vertendi in linguas vernaculas sive de eorum aptatione, iuxta populorum varietatem culturalem, simul ac huic operi pertinentes difficultates, perpensae sunt. In hac igitur re non obliviscendum est quod: 
 
 > a\) versiones textuum liturgicorum, utpote pars ipsorum rituum, vox sunt Ecclesiae divina mysteria celebrantis, ac tam pollent quam textus liturgici lingua latina traditi;[^9] idcirco tendere debent ut linguae fiant “liturgicae”, et quamvis variae sint, unam et eandem Ecclesiae vocem servare, id est unam et eandem “legem orandi”. Ideo versiones librorum liturgicorun ad arbitrium singulorum relinqui nequeunt, sed Episcoporum officio committi debent et ab eorum Conferentiis approbari; 
->
+
 > b\) pro pastorali fidelium bono, praeter aptationes iam in libris liturgicis praevisas, quae pertinent illi qui celebrationi praesidet, aliae quoque species aptationum, necessariae vel utiles, provideri possunt, deliberationi et approbationi Conferentiarum Episcoporum traditae. 
 
 5\. “Ad mentem Constitutionis *Sacrosanctum Concilium*, praesertim in nn. 36 §§ 3-4, 40 et 63, expressam, necnon Litterarum Apostolicarum Motu Proprio datarum *Sacram Liturgiam,* n. IX”,[^10] Litterae Apostolicae *Magnum Principium* Motu Proprio datae canonicam normam can. 838 §§ 2 et 3 mutant, quo “evidentior appareat competentia Apostolicae Sedis quoad translationes librorum liturgicorum et profundiores aptationes, inter quas annumerari possunt etiam novi quidam textus in illis inserendi, a Conferentiis Episcoporum statutas atque approbatas”.[^11] Igitur “ius et munus Conferentiarum Episcoporum” quoque explanantur “ad faciliorem uberioremque collaborationem reddendam inter Apostolicam Sedem et Conferentias Episcoporum”[^12] quoad librorum liturgicorum editionem in linguas vernaculas.
@@ -161,7 +151,7 @@ De Dioecesium et Familiarum Religiosarum Propriis
 50\. Etiamsi can. 838 textus liturgicos proprios Dioecesium et Familiarum Religiosarum non directo consideret, argumentum hoc, stricte cum libris liturgicis coniunctum, requirit ut etiam latae normae adaequentur.
 
 > a\) Calendarium particulare, Proprium Missarum et Liturgiae Horarum necnon Martyrologii[^52] iure habent Dioeceses, Instituta vitae consecratae, Societates vitae apostolicae et alii ius peculiare habentes.
->
+
 > b\) Pro Familiis Religiosis praevidetur quoque adaptatio *Ordinis Professionis Religiosae*[^53] aliarumque celebrationum propriarum.
 
 51\. Celebrationes propriae in Calendarium Romanum generale congruenter inseruntur. Calendarium liturgicum dioecesanum prae oculis Calendarium nationale et regionale habere oportet. Omnia Calendaria particularia, a competenti auctoritate confecta, ab Apostolica Sede approbari debent[^54].

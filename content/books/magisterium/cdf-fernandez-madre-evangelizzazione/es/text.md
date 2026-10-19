@@ -1,13 +1,5 @@
 # La Madre de la evangelización. ¿Por qué María es la primera evangelizadora? Conferencia en el Encuentro con sacerdotes, religiosas y seminaristas latinoamericanos que estudian en Roma
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Víctor Manuel Fernández *Prefecto del Dicasterio para la Doctrina della Fe*

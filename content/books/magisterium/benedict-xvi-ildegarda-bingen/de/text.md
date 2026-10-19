@@ -59,5 +59,3 @@ Am 27. Mai 2012, dem Pfingstsonntag, hatten wir die Freude, auf dem Petersplatz 
 *Gegeben zu Rom, bei Sankt Peter, mit dem Siegel des Fischers, am 7. Oktober 2012, dem achten Jahr Unseres Pontifikats.*
 
 **BENEDIKT PP. XVI**
-
-** **

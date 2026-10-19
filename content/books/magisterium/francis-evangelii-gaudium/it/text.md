@@ -1,6 +1,5 @@
 # "Evangelii gaudium": Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale
 
-[](/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium_it.pdf)  
 DOWNLOAD PDF
 
 ESORTAZIONE APOSTOLICA  
@@ -143,10 +142,8 @@ NEL MONDO ATTUALE
 
 > *[Il dono di Gesù al suo popolo](/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Il_dono_di_Ges%C3%B9_al_suo_popolo)* \[285-286\]  
 > *[La Stella della nuova evangelizzazione](/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#La_Stella_della_nuova_evangelizzazione)* \[287-288\]
->
+
 > ------------------------------------------------------------------------
->
->  
 
 1\. La gioia del Vangelo riempie il cuore e la vita intera di coloro che si incontrano con Gesù. Coloro che si lasciano salvare da Lui sono liberati dal peccato, dalla tristezza, dal vuoto interiore, dall’isolamento. Con Gesù Cristo sempre nasce e rinasce la gioia. In questa Esortazione desidero indirizzarmi ai fedeli cristiani, per invitarli a una nuova tappa evangelizzatrice marcata da questa gioia e indicare vie per il cammino della Chiesa nei prossimi anni.
 

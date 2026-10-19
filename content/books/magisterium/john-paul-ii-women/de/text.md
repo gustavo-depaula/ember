@@ -85,5 +85,3 @@ Maria, Königin der Liebe, wache über die Frauen und über ihre Sendung im Dien
 Mit meinem Segen.
 
 *Aus dem Vatikan, am 29. Juni 1995, dem Hochfest der Apostel Petrus und Paulus.*
-
-*  *

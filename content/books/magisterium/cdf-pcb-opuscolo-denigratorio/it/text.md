@@ -1,9 +1,5 @@
 # Un opuscolo anonimo denigratorio - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 ***LETTERA AGLI ECC.MI PP.DD. ARCIVESCOVI E VESCOVI ITALIANI***
@@ -59,5 +55,3 @@ E. Card. Tisserant, *Presidente*.
 Fr. G.M. Vosté, O.P., *Segretario*.
 
 *Roma, 20 agosto 1941*
-
-[](#top)

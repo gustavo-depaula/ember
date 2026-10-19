@@ -1,9 +1,5 @@
 # Some considerations concerning the response to legislative proposals on the non-discrimination of homosexual persons
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***SOME CONSIDERATIONS CONCERNING THE RESPONSE TO LEGISLATIVE PROPOSALS ON THE NON-DISCRIMINATION OF HOMOSEXUAL PERSONS***\*
@@ -65,5 +61,3 @@ In addition, there is a danger that legislation which would make homosexuality a
 16\. Finally, where a matter of the common good is concerned, it is inappropriate for Church authorities to endorse or remain neutral toward adverse legislation even if it grants exceptions to Church organizations and institutions. The Church has the responsibility to promote family life and the public morality of the entire civil society on the basis of fundamental moral values, not simply to protect herself from the application of harmful laws (cf. no. 17).
 
 \* *OR* 24 luglio 1992, 4.
-
-[](#top)

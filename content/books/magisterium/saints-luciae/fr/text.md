@@ -1,12 +1,6 @@
 # Cause de béatification de Soeur Lucie de Fatima
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***DÉCRET DE LA CONGRÉGATION POUR LES COUSES DES SAINTS  POUR L'OUVERTURE DE LA PHASE DIOCÉSAINE DE LA CAUSE DE BÉATIFICATION DE SŒUR LÚCIA DOS SANTOS***
-
-* *
 
 *Le Saint-Père Benoît XVI, accueillant avec bienveillance la demande présentée par l'Evêque de Coimbra, S.Exc. Mgr Albino Mamede Cleto, et partagée par de nombreux évêques et fidèles de toutes les parties du monde, a permis que, dérogeant au quinquennat disposé par la norme canonique (cf. art. 9 des "Normae servandae"), puisse être entamée, trois ans seulement après sa mort, la phase diocésaine de la cause de béatification de sœur Lucia dos Santos, carmélite, connue dans le monde comme  l'une  des  trois  voyantes  de Fatima.*
 
@@ -19,5 +13,3 @@ Instante Exc.mo ac Rev.mo Domino D. Albino Mamede Cleto, Episcopo Conimbricensi,
 ** Iosephus Card. Saraiva Martins** *Praefectus*
 
 **Michael Di Ruberto** *Archiep. Tit. Biccarensis  a Secretis*
-
-[](#top)

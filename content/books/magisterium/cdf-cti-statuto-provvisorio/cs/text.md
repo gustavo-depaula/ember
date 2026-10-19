@@ -1,9 +1,5 @@
 # Provizorní statuta - Mezinárodní Teologická Komise
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **Mezinárodní Teologická Komise**
 
 **Provizorní statuta**\*
@@ -38,5 +34,3 @@ Róma 12. července 1969
 prefekt Kongregace pro nauku víry
 
 \* *AAS* 61 (1969) s. 540-541.
-
-[](#top)

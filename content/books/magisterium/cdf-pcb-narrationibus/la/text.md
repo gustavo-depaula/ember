@@ -1,9 +1,5 @@
 # De narrationibus specietenus tantum historicis in S. Scripturae libris qui pro historicis habentur - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE NARRATIONIBUS SPECIETENUS TANTUM HISTORICIS IN S. SCRIPTURAE LIBRIS QUI PRO HISTORICIS HABENTUR**
@@ -17,7 +13,3 @@ Proposito sequenti dubio Consilium Pontificium pro studiis de re biblica provehe
 *Die autem 23 Iunii a.c. in Audientia ambobus R.mis Consultorius ab Actis benigne concessa, Sanctissimus praedictum Responsum ratum habuit ac publici iuris fieri mandavit.*
 
 Fr. David Fleming O.F.M. *Consultor ab Actis*
-
-* *
-
-[](#top)

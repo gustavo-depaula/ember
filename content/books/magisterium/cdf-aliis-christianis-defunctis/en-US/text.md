@@ -1,13 +1,5 @@
 # DECREE REGARDING PUBLIC CELEBRATION OF MASS IN THE CATHOLIC CHURCH FOR OTHER CHRISTIANS WHO HAVE DIED
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH**

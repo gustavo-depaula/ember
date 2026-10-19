@@ -85,7 +85,7 @@ Mary, “Mother of God’s Word” and “Mother of Faith” \[27-28\]
 > The word of God and the Liturgy of the Hours \[62\]  
 > The word of God and the Book of Blessings \[63\]  
 > Suggestions and practical proposals for promoting fuller participation in the liturgy \[64\]
->
+
 > > a\) Celebrations of the word of God \[65\]  
 > > b) The word and silence \[66\]  
 > > c) The solemn proclamation of the word of God \[67\]  
@@ -102,13 +102,13 @@ Mary, “Mother of God’s Word” and “Mother of Faith” \[27-28\]
 > The biblical formation of Christians \[75\]  
 > Sacred Scripture in large ecclesial gatherings \[76\]  
 > The word of God and vocations \[77\]
->
+
 > > a\) Ordained ministers and the word of God \[78-81\]  
 > > b) The word of God and candidates for Holy Orders \[82\]  
 > > c) The word of God and the consecrated life \[83\]  
 > > d) The word of God and the lay faithful \[84\]  
 > > e) The word of God, marriage and the family \[85\]
->
+
 > The prayerful reading of sacred Scripture and “lectio divina” \[86-87\]  
 > The word of God and Marian prayer \[88\]  
 > The word of God and the Holy Land \[89\]
@@ -386,7 +386,7 @@ This far-sighted reflection enables us to see how a hermeneutical approach to sa
 While obviously lacking the philological and historical resources at the disposal of modern exegesis, the patristic and mediaeval tradition could recognize the different senses of Scripture, beginning with the literal sense, namely, “the meaning conveyed by the words of Scripture and discovered by exegesis, following the rules of sound interpretation”.[^120] Saint Thomas of Aquinas, for example, states that “all the senses of sacred Scripture are based on the literal sense”.[^121] It is necessary, however, to remember that in patristic and medieval times every form of exegesis, including the literal form, was carried out on the basis of faith, without there necessarily being any distinction between the *literal sense* and the *spiritual sense*. One may mention in this regard the medieval couplet which expresses the relationship between the different senses of Scripture:
 
 > “*Littera gesta docet, quid credas allegoria, Moralis quid agas, quo tendas anagogia.*
->
+
 > The letter speaks of deeds; allegory about the faith;  
 > The moral about our actions; anagogy about our destiny”.[^122]
 

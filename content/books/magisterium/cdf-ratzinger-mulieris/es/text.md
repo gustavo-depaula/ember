@@ -1,9 +1,5 @@
 # Presentación de la “Mulieris Dignitatem” de Juan Pablo II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***PRESENTACIÓN DE LA CARTA APOSTÓLICA* MULIERIS DIGNITATEM *DE JUAN PABLO II SOBRE LA DIGNIDAD Y LA VOCACIÓN DE LA MUJER***  
 
 *30 de septiembre de 1988*
@@ -39,5 +35,3 @@ c\) El sacerdocio es un misterio de servicio con un profundo ligamen simbólico 
 Al comienzo he hablado de un doble contexto de la Carta papal: el Año Mariano y el Sínodo de los Obispos. Esta perspectiva esencialmente intereclesial se abre, al final del documento, al panorama de la historia mundial. El Papa se fija en la lucha que hoy se realiza a favor del hombre y su humanidad. Ve descrita en modo arquetípico esta lucha en el Génesis y en el Apocalipsis, en el primero y en el último libro de la Biblia: “...en el paradigma bíblico de la ‘mujer’ se encuadra... la lucha a favor del hombre, de su verdadero bien, de su salvación” (VIII, 30). Concretamente esto significa que en un unilateral progreso material de la humanidad se esconde el peligro de una gradual desaparición de la sensibilidad por el hombre, por lo que es esencialmente humano (VIII, 30). En esta situación necesitamos que aparezca claro el “genio” de la mujer, su sensibilidad por el ser humano, simplemente porque él es hombre (VIII, 30), El Papa fundamenta esta afirmación humanística sobre una base teológica, con la convicción de que Dios ha confiado el ser humano, de un modo específico, a la mujer, ya que su misión particular está en el orden del amor. La mujer guardiana del ser humano, de su humanidad: ésta es la afirmación programática y la apasionada llamada, en la que desemboca este importante documento. A un lector superficial y apresurado la Carta del Papa podría parecer sólo una meditación edificante, bien poco interesante. Quien acepte la fatiga de sumergirse más profundamente en este documento reconocerá en él, además de su riqueza teológica. también un texto de gran calidad humana, portador de un mensaje que nos incumbe a todos.
 
 **Card. Joseph RATZINGER**.
-
-[](#top)

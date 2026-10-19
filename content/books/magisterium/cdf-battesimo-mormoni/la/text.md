@@ -4,10 +4,6 @@
 
 Responsum de validitate baptismatis apud Â«mormonsÂ»
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 **RESPONSUM* AD PROPOSITUM DUBIUM DE VALIDITATE BAPTISMATIS* apud communitatem «The Church of Jesus Christ of Latter-day Saints»**
@@ -27,5 +23,3 @@ CONGREGATIO PRO DOCTRINA FIDEI
 + **Tharsicius BERTONE, S.D.B.**
 
 * archiep. em. Vercellensis a Secretis*
-
-[](#top)

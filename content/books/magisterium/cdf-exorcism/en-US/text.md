@@ -1,9 +1,5 @@
 # Letter to Ordinaries regarding norms on Exorcism
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Letter to Ordinaries regarding norms on Exorcism***
@@ -31,5 +27,3 @@ Your most esteemed in Christ,
 **Joseph Cardinal Ratzinger** *Prefect*
 
 **Alberto Bovone** * Secretary*
-
-[](#top)

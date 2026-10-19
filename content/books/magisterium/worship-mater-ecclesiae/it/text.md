@@ -1,15 +1,5 @@
 # Decreto sulla celebrazione della beata Vergine Maria Madre della Chiesa nel Calendario Romano Generale
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER IL CULTO DIVINO  

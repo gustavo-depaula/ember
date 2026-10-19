@@ -1,9 +1,5 @@
 # Notification sur la validité du baptême conféré dans «The New Church», 20 novembre 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **Notification sur la validité du baptême conféré dans « The New Church »**
@@ -19,5 +15,3 @@ Joseph Card. Ratzinger
 *Préfet*
 
    *       *
-
-[](#top)

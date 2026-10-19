@@ -1,9 +1,5 @@
 # Address of Card. Ratzinger at the beginning of the Thanksgiving Mass for the 25th Anniversary of the Pontificate of John Paul II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***ADDRESS OF CARDINAL JOSEPH RATZINGER AT THE BEGINNING OF THE THANKSGIVING MASS FOR THE 25th ANNIVERSARY OF THE PONTIFICATE OF JOHN PAUL II***
 
 *Thursday, 16 October 2003*
@@ -23,7 +19,3 @@ Holy Father, today the whole Church thanks you for your service in the past 25 y
 This is a *beatitude* that also depends - as we well know - on the fidelity of all of us to your person and to your task as Successor of Peter. We gladly make the most of this opportunity to reaffirm to you our desire to persevere "*cum Petro et sub Petro*" in our service to Christ and to the Church.
 
 With these sentiments, we say to you with heartfelt feeling:  *"Congratulations, Holy Father!*
-
-*   *
-
-[](#top)

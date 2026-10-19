@@ -534,5 +534,3 @@ A tutti, Fratelli e Sorelle carissimi, invio la mia Apostolica Benedizione.
 \(102\) Cfr. *Io*. 17, 11. 21-22.
 
 \(103\) Cfr. *ibid*. 19, 25.
-
-*  *

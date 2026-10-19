@@ -1,13 +1,5 @@
 # Note. A Journey of Hope. Sixty Years of Interreligious Dialogue and Fraternity in the Light of the Conciliar Declaration Nostra Aetate
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_po.html)\]

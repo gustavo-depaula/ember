@@ -1,13 +1,5 @@
 # Homélie de Son Éminence le Cardinal Víctor Fernández pour l’Ordination Épiscopale de l’Archevêque John Kennedy et l’Archevêque Philippe Curbelié
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Cardinal Victor Manuel Fernández *Préfet du Dicastère pour la Doctrine de la Foi*

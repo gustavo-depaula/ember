@@ -1,9 +1,5 @@
 # En la comunión de la Iglesia, por Paul McPartlan
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***En la comunión de la Iglesia***
 
 **Paul McPartlan**
@@ -27,5 +23,3 @@ El siguiente apartado examina de modo sincero y realista la “colaboración de 
 El trabajo de los teólogos es siempre provisional, y debe ofrecerse a la Iglesia en su conjunto “para su escrutinio y evaluación” (nº 47). Los teólogos realizan el valioso servicio del “mutuo cuestionamiento y corrección”, pero este mecanismo de autocorrección no siempre es adecuado, especialmente hoy en día cuando las ideas pueden difundirse rápidamente más allá de la comunidad teológica en toda la Iglesia. Los obispos que guían la Iglesia pueden actuar para censurar el trabajo teológico que es erróneo y dañino” (nº 48).
 
 El concilio Vaticano II enseñó que la Iglesia debe leer los signos de los tiempos e interpretarlos en la luz del Evangelio (nº 51, cf. *[Gaudium et Spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)*, [GS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html) 4), y que mientras toda la Iglesia debe desarrollar esta tarea, guiada por el Espiritu, esto compete particularmente a los obispos y teólogos (nº 52, cf. [GS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html) 44). El último apartado del segundo capítulo trata la responsabilidad específica de los teólogos a este respecto. A través de su “diálogo constante con las corrientes sociales, religiosas y culturales del momento” y a través de su apertura a las otras ciencias que examinan los mismos fenómenos con sus propios métodos, los teólogos ayudan a los fieles y al magisterio a apreciar y evaluar los desarrollos y acontecimientos de su tiempo, para discernir cómo el Espíritu puede estar hablando a la Iglesia y al mundo a través de ellos. (nº 53). El texto señala que una comprensión más profunda del mundo y sus necesidades permite una comprensión más penetrante de Cristo y del Evangelio “puesto que Cristo es el Salvador del mundo” (nº 55). A través de su diálogo constante con el mundo, los teólogos son capaces de facilitar e incluso guiar la misión salvadora de la Iglesia (cf. Nº 47, 58).
-
-[](#top)

@@ -1,9 +1,5 @@
 # Autore e modo di composizione della lettera agli Ebrei - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **AUTORE E MODO DI COMPOSIZIONE DELLA LETTERA AGLI EBREI**
@@ -26,5 +22,3 @@ Risposta: No, salvo ulteriore giudizio della Chiesa.
 
 Lorenzo JANSSENS, O.S.B.  
 *Segretario consultore*
-
-[](#top)

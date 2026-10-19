@@ -1,9 +1,5 @@
 # Antworten auf Fragen bezüglich der Auslegung des Dekrets ECCLESIAE PASTORUM, 7. Juli 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***ANTWORTEN AUF FRAGEN BEZÜGLICH DER AUSLEGUNG DES DEKRETS »ECCLESIAE PASTORUM«***
@@ -159,6 +155,4 @@ a\) Wenn die Approbation verlangt wird für die bloße Veröffentlichung eines 
 
 b\) Wenn die Approbation verlangt wird für Katechismen, die für die offizielle Katechese in der Diözese bestimmt sind,* *muß der Ordinarius, über die Rechtgläubigkeit des Inhalts und die universalen Normen für die Katechese hinaus, auch die Partikularbestimmungen berücksichtigen, die er selbst im Hinblick auf die konkreten Bedürfnisse der Diözese erlassen hat (neuer *CIC*, can. 775, § 1), sowie die Normen, die von der Bischofskonferenz festgelegt und vom Heiligen Stuhl approbiert sind (*Directorium catechisticum generale*,* *n. 134).
 
-\* *AAS* 76 (1984) 45-52; *AfkKR* 152 (1983) 520-525.  
-
-[](#top)
+\* *AAS* 76 (1984) 45-52; *AfkKR* 152 (1983) 520-525.

@@ -1,28 +1,14 @@
 # “La Reine de la Paix”. Note sur l’expérience spirituelle liée à Medjugorje
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_fr.html) - [HR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_hr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_po.html) - [ZH_CN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_cn.pdf) - [ZH_TW](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_tw.pdf)\]
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI
 
-** **
-
 **“La Reine de la Paix”**
 
 ***Note sur l’expérience spirituelle liée à Medjugorje***
-
-*** ***
 
 **Avant-propos**
 
@@ -416,7 +402,5 @@ Franciscus
 *[Réprimandes et menaces](#Reprimandes_et_menaces) [Les messages à la paroisse](#Les_messages_a_la_paroisse) [L’insistance constante sur l’écoute des messages](#L_insistance_constante_sur_l_ecoute_des_messages) [La Vierge donne la juste valeur de ses messages](#La_Vierge_donne_la_juste_valeur_de_ses_messages) [“Auto-exaltation” de la Vierge](#Auto-exaltation_de_la_Vierge) [Avec nous vers le Christ](#Avec_nous_vers_le_Christ)*
 
 **[Conclusions](#Conclusions)**
-
-** **
 
 ------------------------------------------------------------------------

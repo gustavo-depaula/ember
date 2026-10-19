@@ -1,15 +1,5 @@
 # A propósito de algunas dudas acerca del carácter definitivo de la doctrina de \<i>Ordinatio sacerdotalis\</i>
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 LUIS F. LADARIA, S.I.

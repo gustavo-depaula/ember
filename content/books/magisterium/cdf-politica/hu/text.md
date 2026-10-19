@@ -1,12 +1,6 @@
 # A Hittani Kongregáció dokumentuma – 2003. január 16.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **A Hittani Kongregáció dokumentuma – 2003. január 16.**
-
-** **
 
 **I. Egy állandó tanítás**
 
@@ -110,5 +104,3 @@ Jegyzetek:
 [\[31\]](#JB31) II. Vatikáni Zsinat *Gaudium et spes* lelkipásztori konstitúció 43; vö.: II. János Pál pápa *Christifideles laici* apostoli levél, 59: AAS 81 (1989) 509-510.
 
 \[www.katolikus.hu\]
-
-[](#top)

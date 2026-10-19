@@ -1,9 +1,5 @@
 # Zu einigen Einwänden gegen die kirchliche Lehre über den Kommunionempfang von wiederverheirateten geschiedenen Gläubigen
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***ZU EINIGEN EINWÄNDEN GEGEN DIE KIRCHLICHE LEHRE ÜBER DEN KOMMUNIONEMPFANG VON WIEDERVERHEIRATETEN GESCHIEDENEN GLÄUBIGEN***[^1]
 
 Joseph Kardinal Ratzinger
@@ -71,8 +67,6 @@ Man kann ohne weiteres zugeben, daß die Ausdrucksform des kirchlichen Lehramtes
 Was die Position des Lehramts zur Frage der wiederverheirateten geschiedenen Gläubigen anbelangt, muß zudem betont werden, daß die neueren Dokumente der Kirche in sehr ausgewogener Weise die Forderungen der Wahrheit mit jenen der Liebe verbinden. Wenn früher bei der Darlegung der Wahrheit vielleicht gelegentlich die Liebe zu wenig aufleuchtete, so ist heute die Gefahr groß, im Namen der Liebe die Wahrheit zu verschweigen oder zu kompromittieren. Sicherlich kann das Wort der Wahrheit weh tun und unbequem sein. Aber es ist der Weg zur Heilung, zum Frieden, zur inneren Freiheit. Eine Pastoral, die den betroffenen Menschen wirklich helfen will, muß immer in der Wahrheit gründen. Nur das Wahre kann letzten Endes auch pastoral sein. „Dann werdet ihr die Wahrheit erkennen, und die Wahrheit wird euch befreien“ (*Joh* 8,32).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Bei diesem Text handelt es sich um eine deutsche Übersetzung des dritten Teils der *Einleitung* von Kardinal Joseph Ratzinger zum Band 17 der von der Glaubenskongregation veröffentlichten Reihe „Documenti e Studi“: *Sulla pastorale dei divorziati risposati. Documenti, commenti e studi*, Città del Vaticano 1998, 20-29. Die Fußnoten wurden hinzugefügt.
 

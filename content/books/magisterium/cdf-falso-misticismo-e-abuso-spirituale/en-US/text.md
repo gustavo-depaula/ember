@@ -1,24 +1,10 @@
 # “Foglio” for the Audience with the Holy Father: "False Misticism and Spiritual Abuse"
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
 
-** **
-
 **“FOGLIO” FOR THE AUDIENCE**
-
-** **
 
 **False Mysticism and Spiritual Abuse**
 

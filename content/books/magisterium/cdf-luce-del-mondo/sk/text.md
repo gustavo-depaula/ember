@@ -1,9 +1,5 @@
 # NÓTA O ZNEHODNOCOVANÍ SEXUALITY V SÚVISLOSTI S ISTÝMI INTERPRETÁCIAMI KNIHY “LUCE DEL MONDO” (“SVETLO SVETA”)
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGÁCIE PRE NÁUKU VIERY**
 
 ***NÓTA O ZNEHODNOCOVANÍ SEXUALITY*** ***V SÚVISLOSTI S ISTÝMI INTERPRETÁCIAMI KNIHY “LUCE DEL MONDO” (“SVETLO SVETA”)\****
@@ -23,5 +19,3 @@ Niektorí interpretovali slová Benedikta XVI. tak, že sa odvolávali na tzv. t
 A konečne, v boji proti aidsu majú byť katolíci a inštitúcie Katolíckej cirkvi nablízku postihnutým ľuďom, majú sa starať o chorých a povzbudzovať všetkých, aby žili v predmanželskej zdržanlivosti a v rámci manželstva boli verní. V tejto súvislosti treba tiež odsúdiť také správanie, ktoré znehodnocuje sexualitu, lebo, ako hovorí pápež, práve to predstavuje nebezpečný dôvod, pre ktorý mnohí ľudia už viac nevidia v sexualite výraz svojej lásky. „Preto je aj boj proti znehodnocovaniu sexuality súčasťou veľkého úsilia o to, aby bola sexualita hodnotená kladne a mohla pozitívne vplývať na ľudskú bytosť v jej celku“ (Luce del mondo, s. 170).
 
 \* www.kbs.sk
-
-[](#top)

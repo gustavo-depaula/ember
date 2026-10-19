@@ -125,5 +125,3 @@ powierzamy nas samych, nasze dzieci
 i potrzeby Kościoła w Irlandii.
 
 Amen.
-
-** **

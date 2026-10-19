@@ -6,8 +6,6 @@ PAPA EUGENIO IV
 
 *4 febbraio 1442*
 
-* *
-
 CONCILIO DI FIRENZE (17° ECUMENICO)
 
 26 febbraio 1439 - agosto (?) 1445

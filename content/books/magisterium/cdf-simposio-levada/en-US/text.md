@@ -1,9 +1,5 @@
 # The Sexual Abuse of Minors: A Multi-faceted Response to the Challenge by Cardinal William Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***The Sexual Abuse of Minors: A Multi-faceted Response to the Challenge***
 
 **by Cardinal William Levada**
@@ -73,5 +69,3 @@ The journey "*Towards Healing and Renewal*" is one that the entire Church must m
 I hope my remarks here this evening may be some small contribution to this renewed hope, insofar as they call attention to concrete steps being taken by a Church that is called "Catholic" – universal – in an attempt to address the varied facets of the challenge presented by sexual abuse of minors by clerics. It bears repeating that the abusers are a tiny minority of an otherwise faithful, committed clergy. Nevertheless, this tiny minority has done great harm to victims, and to the Church’s mission of bringing Christ’s love to the world of today.
 
 Personally I am convinced that the steps currently underway, represented by the *[motu proprio SST](/holy_father/john_paul_ii/motu_proprio/documents/hf_jp-ii_motu-proprio_20020110_sacramentorum-sanctitatis-tutela_en.html)* and by the Congregation’s *Circular Letter,* together with the innumerable local initiatives undertaken in response to the challenge of sexual abuse of minors by clerics, will help us to continue to respond in many fruitful ways to heal the wounds of the past, and to renew our commitment to a future full of hope, as our gracious God has promised. Thank you for the initiative of this Symposium "Toward Healing and Renewal": may it be a model for future studies that can help us all confront what we need to do as Church. May it also be a source of expertise and hope for those who seek to eliminate the scourge of sexual abuse of minors from society at large.
-
-[](#top)

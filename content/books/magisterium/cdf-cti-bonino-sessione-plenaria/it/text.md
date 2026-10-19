@@ -1,9 +1,5 @@
 # « La session plénière de la Commission théologique internationale » du Fr. Serge-Thomas Bonino, o.p., Secrétaire général de la CTI
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **I programmi della Commissione teologica internazionale**
 
 ***In cammino***
@@ -26,5 +22,3 @@ Ma già nel Vangelo vediamo che Cristo guarisce attraverso un duplice contatto: 
 Terzo tema scelto è, infine, «La libertà religiosa nel contesto attuale». La dichiarazione conciliare *Dignitatis humanae* costituisce una tappa importante nella maturazione del pensiero della Chiesa, insegnando esplicitamente che «gli esseri umani devono essere immuni dalla coercizione da parte dei singoli individui, di gruppi sociali e di qualsivoglia potere umano, così che in materia religiosa nessuno sia forzato ad agire contro la sua coscienza né sia impedito, entro debiti limiti, di agire in conformità ad essa: privatamente o pubblicamente, in forma individuale o associata». La ricezione post-conciliare di questa dottrina è stata difficile ma il lavoro di numerosi teologi ha mostrato che essa s’iscrive in modo omogeneo nella continuità della tradizione e non contraddice i testi magisteriali anteriori che condannavano una libertà religiosa disgiunta dall’esigenza di cercare la verità e fondata sul solo relativismo. Ma dalla *Dignitatis humanae*, redatta in un contesto dominato dall’esperienza dei grandi totalitarismi del XX secolo, il contesto culturale è considerevolmente cambiato. Da una parte, il risorgere del fondamentalismo religioso ha portato alla negazione dei diritti delle minoranze religiose, anzi a una vera persecuzione. Dall’altra, soprattutto nelle società occidentali, l’inflazione dei diritti individuali, privati di ogni riferimento obiettivo alla legge naturale, conduce sempre di più a limitare la libertà religiosa. La laicità, che era all’origine una semplice neutralità dello Stato, volta a favorire la coesistenza pacifica di tutti, tende a divenire una religione di Stato che promuove la secolarizzazione a oltranza della società civile. Per far rispettare i diritti illimitati degli individui, lo Stato arriva in effetti a bandire dalla vita pubblica le religioni (e i credenti) le quali, facendo riferimento alla trascendenza, sembrano minacciare una società fondata sul principio di immanenza e sull’assolutizzazione del diritto positivo. L’inquietante riduzione del diritto all’obiezione di coscienza, le crescenti ingerenze dello Stato, in nome della difesa dei diritti individuali, nella vita interiore della Chiesa o nella sfera familiare, sono i segni di questo totalitarismo soft. La Cti al contrario si propone di mostrare come la libertà religiosa, proteggendo l’apertura costitutiva della persona alla trascendenza, garantisca la vera libertà e contribuisca al bene comune delle società.
 
 \* *L'Osservatore Romano*, ed. quotidiana, Anno CLIV, n.288, Gio. 18/12/2014
-
-[](#top)

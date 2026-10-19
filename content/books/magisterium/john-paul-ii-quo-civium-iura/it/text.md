@@ -39,5 +39,3 @@ Vogliamo che le decisioni stabilite con questa lettera apostolica scritta «motu
 *Roma, presso San Pietro, 21 novembre 1987, anno decimo del nostro Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-* *

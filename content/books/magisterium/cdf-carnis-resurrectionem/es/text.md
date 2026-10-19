@@ -1,9 +1,5 @@
 # Traducción al artículo «Carnis resurrectionem» del Símbolo Apostólico, 14 diciembre 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **TRADUCCIÓN AL ARTÍCULO «CARNIS RESURRECTIONEM» DEL SÍMBOLO APOSTÓLICO**
@@ -47,8 +43,6 @@ CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 — «Auferstehung der Toten» *(Messbuch* für die Bistümer des deutschen Sprachgebietes \[1974\] Teil 1, p. 119);
 
 — «La resurrección de los muertos» (*Libro de la sede*, Secretariado Nacional de Liturgia \[Madrid 1983\] p. 394).
-
-[](#top)
 
 [^1]: Cf. Traducción al italiano, francés y portugués.
 

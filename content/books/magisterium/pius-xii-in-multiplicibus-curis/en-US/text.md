@@ -1,7 +1,5 @@
 # In Multiplicibus Curis
 
-*** ***
-
 ***IN MULTIPLICIBUS CURIS***
 
 ENCYCLICAL OF POPE PIUS XII  
@@ -29,8 +27,6 @@ Among the multiple preoccupations which beset us in this period of time, so full
 9\. And God grant that the day may soon dawn when Christians may resume their pilgrimages to the Holy Places, there to see more clearly revealed, as they contemplate the evidence of the love of Jesus Christ, Who gave His life for His brethren, how men and nations may live harmoniously together, at peace with their world and themselves.
 
 10\. With reliance, then, on this hope, as a pledge of heavenly favors and in token of our affection, gladly in the Lord do we impart to you, Venerable Brethren, and to your flocks, as to all who will take this appeal of Ours to heart, Our Apostolic Benediction.
-
-* *
 
 Given at Castel Gandolfo, near Rome, on the 24th day of October, in the year 1948, the tenth of Our Pontificate.  
 

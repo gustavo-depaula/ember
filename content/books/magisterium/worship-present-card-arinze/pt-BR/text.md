@@ -1,16 +1,10 @@
 # Apresentação Redemptionis Sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **  CONGREGAÇÃO PARA O CULTO DIVINO  E A DISCIPLINA DOS SACRAMENTOS**
 
 ***APRESENTAÇÃO DA INSTRUÇÃO "REDEMPTIONIS SACRAMENTUM"***
 
 ***Sobre alguns aspectos que se devem observar  e evitar acerca da Santíssima Eucaristia***
-
-*   *
 
 1\. **A origem da presente** ***Instrução***
 
@@ -68,5 +62,3 @@ Considerando o artigo de fé, segundo o qual a Missa é uma nova apresentação 
 Por conseguinte, a *Instrução* termina afirmando que a Congregação para o Culto Divino e a Disciplina dos Sacramentos *"formula votos a fim de que inclusivamente mediante a aplicação atenta de quanto se deseja recordar à mente na presente* Instrução, *a fragilidade humana obste em menor medida a acção do Santíssimo Sacramento da Eucaristia e, removendo todas as irregularidades, eliminando todo o uso desaprovado, por intercessão da Bem-Aventurada Virgem Maria, "mulher eucarística", a presença salvífica de Cristo no Sacramento do seu Corpo e do seu Sangue resplandeça sobre todos os homens"* (*Instrução,* 185).
 
 **Francis Card. Arinze**
-
-[](#top)

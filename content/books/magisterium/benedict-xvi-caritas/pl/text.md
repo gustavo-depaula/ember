@@ -6,8 +6,6 @@
 
 **O posłudze miłości**
 
-** **
-
 ***Proemio***
 
 *„Wewnętrzna natura Kościoła* wyraża się w potrójnym zadaniu: głoszenie Słowa Bożego (*kerygma-martyria*), sprawowanie Sakramentów (*leiturgia*), posługa miłości (*diakonia*). Są to zadania ściśle ze sobą związane i nie mogą być od siebie oddzielone” (enc. *Deus caritas est*, 25).
@@ -133,5 +131,3 @@ Rozporządzam, aby wszystkie postanowienia, które zawarłem w niniejszym liści
 *Watykan, 11 listopada 2012 r., w ósmym roku mojego Pontyfikatu*
 
 **BENEDICTUS PP XVI**
-
-** **

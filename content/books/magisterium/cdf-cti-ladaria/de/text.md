@@ -1,9 +1,5 @@
 # Das Christentum und die Religionen: Vorstellung des Dokuments der Internationalen Theologischen Kommission - Mons. Luis F. Ladaria
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 # *"Das Christentum und die Religionen": VORSTELLUNG des Dokuments der Internationalen Theologischen Kommission*
 
 **+ Luis F. Ladaria**
@@ -67,7 +63,5 @@ Das Dokument bewegt sich in zwei Richtungen: zum einen stellt es sich dar als ei
 Letztlich geht es vor allem darum, deutlich zu machen, dass alles, was in ihnen gut und wertvoll ist, von Christus kommt und auf den Geist zurückzuführen ist, der nach seiner Auferstehung vergossen wurde. An der Einzigkeit der Mittlerschaft „des Menschen Jesus Christus“ (1 *Tim* 2,5) muss unter allen Umständen festgehalten werden. Er ist der einzige Weg zum Vater (vgl. *Joh* 14,6), und kein Weg, der nicht mit diesem konvergiert, kann wahr sein. Komplementäre oder parallele Wege gibt es nicht. Aus diesem Grund kann niemand gleichgültig bleiben vor der Begegnung mit Christus und der Eingliederung in seinen Leib, die Kirche. Und darum hat auch die Kirche die ungebrochene Pflicht, Christus denen zu verkünden, die ihn noch nicht kennen, bis zu seiner herrlichen Wiederkunft am Ende der Zeit, wenn er kommt, zu richten die Lebenden und die Toten.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: De res. mort. 6,3: „Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus“.

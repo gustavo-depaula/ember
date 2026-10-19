@@ -1,14 +1,8 @@
 # L'autenticità mosaica del Pentateuco - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **L'AUTENTICITÀ MOSAICA DEL PENTATEUCO**
-
-** **
 
 Ai seguenti dubbi presentati, il Pontificio Consiglio per gli studi biblici ha ritenuto opportuno rispondere come segue:
 
@@ -32,7 +26,3 @@ IV\. Salva sostanzialmente l'autenticità mosaica e l'integrità del Pentateuco,
 
 Fulcrano G. Vigouroux, P.S.S.  
 Lorenzo Janssens, O.S.B. *Segretari consultori*
-
-* *
-
-[](#top)

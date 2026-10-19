@@ -1,13 +1,5 @@
 # Décret d'interprétation de la notification du 14 juin 1966 sur l'index des livres interdits, 15 novembre 1966, Congrégation pour la Doctrine de la Foi
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRÉE CONGRÉGATION POUR LA DOCTRINE DE LA FOI

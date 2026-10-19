@@ -1,13 +1,5 @@
 # Formula da adoperarsi d’ora in poi nei casi in cui è prescritta dal diritto la Professione di Fede, in sostituzione della formula tridentina e del giuramento antimodernista, 17 luglio 1967
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE

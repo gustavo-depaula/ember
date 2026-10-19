@@ -69,11 +69,11 @@ Salvis facultatibus Legatis Romani Pontificis et Ordinariis specialiter tributis
 **3.** A vetito, quod in clericos in sacro Ordine constitutos cadit:
 
 > *a)* exercendi medicinam vel chirurgiam;
->
+
 > *b)* assumendi officia publica, quae exercitium laicalis iurisdictionis vel adminiatrationis secum ferant;
->
+
 > *c)* exquirendi vel assumendi munus senatoris vel legiferi deputati, in locis ubi pontificia prohibitio intercesserit;
->
+
 > *d)* exercendi per se vel per alios negotiationem aut mercaturam, sive in propriam sive in aliorum utilitatem.
 
 **4.** A legibus generalibus, quae afficiunt religiosos qua tales, non autem quatenus iidem Ordinariis locorum ad normam iuris commutis et praesertim Decreti Conciliaris *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)* (nn. 33-35) subsunt, firma semper manente religiosa disciplina et salvo iure proprii Superioris. A ceteris legibus generalibus, tantum si agatur de sodalibus Religionis clericalis exemptae.
@@ -89,13 +89,13 @@ Salvis facultatibus Legatis Romani Pontificis et Ordinariis specialiter tributis
 **9.** Ab irregularitatibus et impedimentis ad ordines suscipiendos:
 
 > *a)* ab irregularitate ex defectu, si agatur de filiis adulterinis vel sacrilegis, de corpore vitiatis, de epilepticis et amentibus;
->
+
 > *b)* ab irregularitate ex delicto publico eorum, qui apostasiam a fide consummaverint, aut ad haeresim vel schisma transierint;
->
+
 > *c)* ab irregularitate ex delicto publico eorum qui matrimonium attentare, aut civilem tantum actum povere ausi sint, vel ipsimet vinculo matrimoniali aut ordine sacro aut votis religiosis etiam simplicibus ac temporariis ligati, vel cum muliere iisdem votis adstricta aut matrimonio valido coniuncta (Can. 985, 3);
->
+
 > *d)* ab irregularitate ex delicto sive publico sive occulto eorum qui voluntarium homicidium perpetrarint, aut fetus humani abortum procuraverint, effectu secuto, omniumque cooperatorum (Can. 985, 4);
->
+
 > *e)* ab impedimento quo viri uxorem habentes prohibentur sacrum ordinem presbyteratus recipere.
 
 **10.** Ad exercitium ordinis iam suscepti, quod attinet, ab irregularitatibus de quibus in can. 985, 3, in casibus tantum publicis; et 4, etiam in casibus occultis, nisi recursus ad S. Poenitentiariam sit impossibilis, firmo tamen onere in ipso dispensato recurrendi quam primum ad eandem S. Poenitentiariam.
@@ -115,11 +115,11 @@ Salvis facultatibus Legatis Romani Pontificis et Ordinariis specialiter tributis
 **17.** A forma iure praescripta ad valide contrahendum matrimonium.
 
 > **18.** A lege renovandi consensum matrimonialem in sanatione in radice, quoties:
->
+
 > *a)* requiritur dispensatio super impedimento Sedi Apostolicae reservato;
->
+
 > *b)* agitur de impedimento iuris naturalis vel divini, quod iam cessaverit;
->
+
 > *c)* agitur de matrimoniis mixtis, cum servatae non fuerint condiciones praescriptae in commemorata Instructione S. Congregationis pro Doctrina fidei, n. I.
 
 **19.** A poena vindicativa iure communi statuta, quae ab ipsa Sede Apostolica declarata vel inflicta fuerit.

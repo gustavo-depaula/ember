@@ -1,14 +1,8 @@
 # Antworten auf vorgelegte Zweifel zur Gebärmutterisolierung und auf andere Fragen
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***ANTWORTEN AUF VORGELEGTE ZWEIFEL ZUR "GEBÄRMUTTERISOLIERUNG" UND AUF ANDERE FRAGEN***
-
-*** ***
 
 *Die Mitglieder der Kongregation für die Glaubenslehre hielten es für angezeigt, auf die ihnen während der ordentlichen Versammlung vorgelegten und unten wiedergegebenen Zweifel wie folgt im einzelnen antworten zu sollen:*
 
@@ -43,7 +37,3 @@ Die gegenteilige Auffassung, welche die obengenannten Praktiken bezüglich der N
 
 **+ Alberto Bovone**  
 *Tit.-Erzbischof von Cäsarea in Numidien Sekretär*
-
-* *
-
-[](#top)

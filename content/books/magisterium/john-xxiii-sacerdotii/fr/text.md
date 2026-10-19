@@ -176,8 +176,6 @@ Avec la vive espérance que ce centenaire de la mort de saint Jean-Marie Vianney
 
 **IOANNES PP. XXIII**  
 
-* *
-
 ------------------------------------------------------------------------
 
 NOTES

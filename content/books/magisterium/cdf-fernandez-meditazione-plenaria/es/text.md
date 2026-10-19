@@ -1,13 +1,5 @@
 # “No preguntes a la luz, sino al fuego”. Meditación en la apertura de la Sesión Plenaria del Dicasterio para la Doctrina de la Fe
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Víctor Manuel Fernández *Prefecto del Dicasterio para la Doctrina de la Fe*
@@ -39,7 +31,7 @@ El problema es que lo mismo puede ocurrir en la vida de todos nosotros. De hecho
 Esto nos llama a tomar conciencia de dos cuestiones:
 
 > 1\. Que para comprenderlo todo plenamente necesitamos ser iluminados por Dios, nos hace falta invocarle, orar, escucharle, dejarnos guiar por Él en medio de las sombras. La fe nos asegura que realmente podemos hacerlo, y que es posible que Él nos ilumine para ver mejor. Confiamos en Él (credere *Deo*).
->
+
 > 2\. Que debemos reflexionar, pensar, analizar la realidad, pero escuchando a los demás, acogiendo sus perspectivas que nos permiten percibir otros aspectos de la realidad misma gracias a otros puntos de vista. Por esta razón, es bueno que prestemos atención a las "periferias" desde donde las cosas se ven de forma diferente.
 
 En esta línea, el Papa León afirmó recientemente que “ninguno posee la verdad toda entera, todos la debemos buscar con humildad, y juntos”. En consecuencia, propuso “una Iglesia que no se cierra en sí misma, sino que permanece a la escucha de Dios para poder, al mismo tiempo, escuchar a todos” (*[Homilía para los Equipos Sinodales](https://www.vatican.va/content/leo-xiv/es/homilies/2025/documents/20251026-giubileo-equipe-sinodali.html)*, 26 de octubre de 2025).

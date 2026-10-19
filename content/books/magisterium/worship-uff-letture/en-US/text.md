@@ -1,14 +1,8 @@
 # Office of readings
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGATION FOR DIVINE WORSHIP AND THE DISCIPLINE OF THE SACRAMENTS
 
 ***SAINT*** ***JOHN PAUL II, POPE***
-
-*** ***
 
 Charles Joseph Wotjtyła was born in 1920 in Wadowice, Poland. After his ordination to the priesthood and theological studies in Rome, he returned to his homeland and resumed various pastoral and academic tasks. He became first auxiliary bishop and, in 1964, Archbishop of Krakow and took part in the Second Vatican Council. On 16 October 1978 he was elected pope and took the name John Paul II. His exceptional apostolic zeal, particularly for families, young people and the sick, led him to numerous pastoral visits throughout the world. Among the many fruits which he has left as a heritage to the Church are above all his rich Magisterium and the promulgation of the Catechism of the Catholic Church as well as the Code of Canon Law for the Latin Church and for the Eastern Churches. In Rome on 2 April 2005, the eve of the Second Sunday of Easter (or of Divine Mercy), he departed peacefully in the Lord.
 
@@ -53,5 +47,3 @@ V/. In the Church we are called to partake of his power. \* Open, open wide th
 **Oration**
 
 O God, who are rich in mercy and who willed that the Saint John Paul the Second should preside as Pope over your universal Church, grant, we pray, that instructed by his teaching, we may open our hearts to the saving grace of Christ, the sole Redeemer of mankind. Who lives and reigns.
-
-[](#top)

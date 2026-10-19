@@ -1,9 +1,5 @@
 # ODPOWIEDZI NA PYTANIA DOTYCZĄCE NIEKTÓRYCH ASPEKTÓW NAUKI O KOŚCIELE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY
 
 *ODPOWIEDZI NA PYTANIA DOTYCZĄCE NIEKTÓRYCH ASPEKTÓW NAUKI O KOŚCIELE*
@@ -128,5 +124,3 @@ Oba przytoczone wyrażenia znajdują się w Dekrecie *Unitatis redintegratio* 2.
 18 Por. *tamże*.
 
 8 Por. KONGREGACJA NAUKI WIARY, Deklaracja *Mysterium Ecclesiae*, 1.1: AAS 65 (1973) 397; Deklaracja *Dominus Iesus*, 16.3: AAS 92 (2000-II) 757-758; *Notyfikacja o książce Ojca Leonarda Boffa, O.F.M.,* „*Chiesa: carisma e potere \[Kościół: charyzmat i władza\]"*: AAS 77 (1985-II) 758-759.
-
-[](#top)

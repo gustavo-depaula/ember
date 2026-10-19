@@ -1,9 +1,5 @@
 # Bemerkungen zum Dokument der ARCIC II: Das Heil und die Kirche, 18. November 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 *Bemerkungen zum Dokument der ARCIC-II „Das Heil und die Kirche“*
@@ -121,5 +117,3 @@ Ohne irgendetwas an einer Methode zu schmälern, die unbestreitbare Früchte geb
 Ebenso würde man gern ein wenig mehr Raum für die Tradition zugestanden sehen, zumal die patristische, für das Lehramt der katholischen Kirche wie für die amtlichen Akten der anglikanischen Gemeinschaft, z. B. für die „Thirty-nine Articles of Religion“.
 
 Diese von der Kongregation für die Glaubenslehre gestellten Fragen und vorgebrachten Gedanken haben kein anderes Ziel, als die Mitglieder von ARCIC-II zu ermuntern, weiterzugehen auf dem Weg, der 1982 begann, als Papst [Johannes Paul II.](/holy_father/john_paul_ii/index_ge.htm) und der anglikanische Primas Dr. Robert Runcie diese zweite Kommission einsetzten und ihr die besondere Aufgabe stellten, „zumal im Licht unserer Urteile über den Schlußbericht (ARCIC-I) die wichtigsten lehrmäßigen Unterschiede zu prüfen, die uns noch trennen, um eventuell zu einer künftigen Lösung zu kommen“. (*AAS* LXXIV \[1982\], 925).
-
-[](#top)

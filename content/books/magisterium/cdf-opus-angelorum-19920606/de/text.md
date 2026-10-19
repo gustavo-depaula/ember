@@ -1,9 +1,5 @@
 # Dekret über Lehre und Praktiken der sogenannten Gemeinschaft Engelwerk, 6 Juni 1992, Kongregation für die Glaubenslehre
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **DEKRET ÜBER LEHRE UND PRAKTIKEN DER SOGENANNTEN GEMEINSCHAFT »ENGELWERK«**
@@ -48,5 +44,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, den 6. Juni 1992.
 *Tit.-Erzbischof von Cäsarea in Numidien Sekretär*
 
 ¹ Vgl. Benedictus XIV, *Doctrina de Beatificatione Servorum Dei et de Canonizatione Beatorum*, lib. IV, Pars II, cap. XXX, *De Angeli set eorum cultu*, Venetiis 1777.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Glaubensbekenntnis, 1. Juli 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ** *KONGREGATION FÜR DIE GLAUBENSLEHRE***
 
 **LEHRAMTLICHE STELLUNGNAHMEN ZUR "PROFESSIO FIDEI"**
@@ -45,5 +41,3 @@ So wahr mir Gott helfe und diese heiligen Evangelien, die ich mit meinen Händen
 Ich werde die Disziplin der Gesamtkirche fördern und zur Einhaltung aller kirchlichen Gesetze anhalten, vor allem jener, die im Codex des kanonischen Rechtes enthalten sind.
 
 In christlichem Gehorsam werde ich dem Folge leisten, was die Bischöfe als authentische Künder und Lehrer des Glaubens vortragen oder als Leiter der Kirche festsetzen. Unter Wahrung der Anlage und der Zielsetzung meines Instituts werde ich den Diözesanbischöfen gern beistehen, um den apostolischen Dienst, der im Namen und im Auftrag der Kirche auszuüben ist, in Gemeinschaft mit eben dieser Kirche zu verrichten.
-
-[](#top)

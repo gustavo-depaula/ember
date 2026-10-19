@@ -1,9 +1,5 @@
 # Oração
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](http://www.vatican.va/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGAÇÃO PARA O CULTO DIVINO E A DISCIPLINA DOS SACRAMENTOS
 
 ***SANTO*** ***JOÃO PAULO II, PAPA***
@@ -21,5 +17,3 @@ possamos abrir confiadamente os nossos corações
 Ele que convosco vive e reina,  
 na unidade do Espírito Santo,  
 por todos os séculos dos séculos.
-
-[](#top)

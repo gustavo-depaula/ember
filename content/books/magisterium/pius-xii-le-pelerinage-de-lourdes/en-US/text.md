@@ -136,17 +136,11 @@ Deep in our soul are profound and pleasant memories of the pilgrimage to Lourdes
 
 63\. And in inviting you to sing to God together with the Immaculate Virgin the Magnificat of your gratitude, We invoke upon you and your faithful, on the shrine of Lourdes and its pilgrims, on all those who bear the responsibilities of the centenary celebration, the most bounteous outpouring of grace. In token of which We impart with all Our heart, and with Our constant and paternal best wishes, the Apostolic Benediction.
 
-* *
-
 Given at Rome, from Saint Peter's, on the feast of the Visitation of the Most Holy Virgin, July 2, 1957, the nineteenth year of Our Pontificate.  
 
 **PIUS XII**
 
-* *
-
 ------------------------------------------------------------------------
-
-* *
 
 1\. Letter of July 12, 1914: *Acta Apostolicae Sedis* 6: 1914, p. 376.
 

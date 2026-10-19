@@ -1,9 +1,5 @@
 # Ese principio decisivo de la teología católica, Adelbert Denaux
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Ese principio decisivo de la teología católica***
 
 **Adelbert Denaux**
@@ -27,5 +23,3 @@ El primer apartado explica entonces lo que la Comisión teológica internacional
 El segundo apartado – “La fe, respuesta a la Palabra de Dios” – empieza con una meditación bíblica sobre la observación del apóstol Pablo, quien señala que la fe procede de la escucha de la palabra de Cristo (nº 10). Esta “obediencia” de la fe es al mismo tiempo el acto de confiar (*fides qua*) y esto que es creído o confesado (*fides quae*): “Ambos aspectos trabajan juntos de manera inseparable, puesto que la confianza es adhesión a un mensaje con un contenido inteligible, y la confesión no puede reducirse a meras palabras vacías, debe surgir del corazón. La fe es al mismo tiempo una realidad profundamente personal y eclesial” (nº 13). La Comisión, además, destaca el hecho de que desde los comienzos de la Iglesia, algunas personas han propuesto interpretaciones “heréticas” de la fe común. Esta sombra permanente de la herejía sobre la vida de la Iglesia distorsiona el Evangelio y daña la comunión eclesial (nº 14). Por tanto, un \[segundo\] criterio de la teología católica es que ésta toma la fe de la Iglesia como su fuente, contexto y norma. La teología mantiene juntas la *fides qua* y la *fides quae*. “Expone la enseñanza de los apóstoles, la buena nueva sobre Jesucristo «según las Escrituras» (1 Cor 15,3s), como norma y estímulo de la fe de la Iglesia” (nº 15).
 
 En el tercer apartado, la Comisión describe la “teología” como comprensión de la fe. De hecho, la fe abre la inteligencia del creyente a nuevos horizontes. Le lleva a conocer la gloria de Dios en el rostro de Jesucristo (2 Cor 4,6). Este “*intellectus fidei* adopta distintas formas en la vida de la Iglesia y en la comunidad de creyentes según los diferentes dones del fiel (*lectio divina*, meditación, predicación, la teología como una ciencia, etc.). En sentido estricto, se hace teología cuando el creyente se compromete a presentar el contenido del misterio cristiano de una manera racional y científica. La Teología es por tanto *scientia Dei* en tanto que es participación racional de la sabiduría que Dios tiene de sí y de todas las cosas” (nº 18). Los teólogos no son los únicos creyentes que “saben”, participan también en el conocimiento de todos los creyentes; su conocimiento tiene, pero, un carácter más sistemático y “científico”. Por tanto, “un \[tercer\] criterio de la teología católica es que, precisamente como ciencia de la fe, “fe que busca comprender \[*fides quaerens intellectum*\]”, está dotada de una dimensión racional. La teología se esfuerza en comprender esto en que la Iglesia cree, porque cree, y qué puede ser conocido *sub specie dei*. “Como  *scientia Diei*, la teología aspira a comprender de manera racional y sistemática la verdad salvadora de Dios” (nº 19).
-
-[](#top)

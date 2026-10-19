@@ -1,13 +1,5 @@
 # Notificação sobre a situação do índice dos livros proibidos, 14 de junho de 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**

@@ -1,13 +1,5 @@
 # Carta da Sagrada Congregação para a Doutrina da Fé ao Padre E. Schillebeeckx, 20 de novembro de 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 ***CARTA DA SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ AO REV. PADRE EDWARD SCHILLEBEECKX***

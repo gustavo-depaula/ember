@@ -1,9 +1,5 @@
 # Nota doktrynalna o niektórych aspektach działalności i postępowania katolików w życiu politycznym
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **Nota doktrynalna o niektórych aspektach działalności i postępowania katolików w życiu politycznym**
@@ -137,5 +133,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 24 listopada 2002 r., w uroczystość
 30. Por. Pius IX, Enc. *Quanta cura,* ASS 3 (1867), 162; Leon XIII, Enc. *Immortale Dei,* ASS 18 (1885), 170-171; Pius XI, Enc. *Quas primas,* AAS 17 (1925), 604-605; Katechizm Kościoła Katolickiego, 2108; Kongregacja Nauki Wiary, Deki. *Dominus Iesus,* 22.
 
 31. Sobór Wat. II, Konst. duszpast. o Kościele w świecie współczesnym *Gaudium et spes,* 43. Por. także Jan Paweł II, Adhort. apost. *Christifideles laici,* 59.
-
-[](#top)

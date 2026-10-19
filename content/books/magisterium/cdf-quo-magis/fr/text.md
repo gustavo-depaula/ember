@@ -1,15 +1,5 @@
 # Décret, Quo magis altera
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
@@ -17,8 +7,6 @@ CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 Prot. N. 137/2009P – ED
 
 **DÉCRET**
-
-** **
 
 Pour favoriser l’enrichissement réciproque des deux formes du Rite romain, le Pape Benoît XVI a décidé, dans sa lettre du 7 juillet 2007 adressée à tous les Évêques de l’Église latine[^1], de faire insérer certaines des nouvelles préfaces dans le Missel ancien.
 

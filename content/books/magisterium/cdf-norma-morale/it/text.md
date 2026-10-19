@@ -1,9 +1,5 @@
 # La norma morale di «Humanae vitae» e il compito pastorale
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **La norma morale di «Humanae vitae» e il compito pastorale**\*
 
 Non sono mancate, in queste ultime settimane, osservazioni critiche, talvolta pesanti, circa la morale coniugale come viene insegnata dal Magistero della Chiesa e in particolare dall’enciclica *[Humanae vitae](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae_it.html)* di Paolo VI.
@@ -61,5 +57,3 @@ Con questo insegnamento sulla morale coniugale il Magistero della Chiesa vive e 
 \* *L’Osservatore Romano*, 16 febbraio 1989, p. 1.
 
 Il testo fu allora preceduto dalla seguente nota editoriale: «In merito a un recente pubblico intervento sull’insegnamento del magistero circa *Humanae vitae* da parte di un noto teologo moralista, che ha avuto larga eco sulla stampa, pubblichiamo le seguenti precisazioni».
-
-[](#top)

@@ -59,5 +59,3 @@ Tutto ciò che è stabilito con la presente Lettera «motu proprio» ordiniamo c
 *Dato a Roma, presso san Pietro, il 6 agosto 1982, festa della Trasfigurazione di nostro Signore Gesù Cristo, anno quarto del mio Pontificato.*
 
 **IOANNES PAULUS PP. II**
-
-* *

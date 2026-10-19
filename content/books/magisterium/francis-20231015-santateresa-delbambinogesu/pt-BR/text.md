@@ -147,17 +147,17 @@ Que te apraz caminhar guiando-os para o Céu». [^62]
 52\. Do céu à terra, a atualidade de Santa Teresa do Menino Jesus e da Santa Face permanece em toda a sua «pequena grandeza».
 
 > Num tempo que nos convida a fechar-nos nos próprios interesses, Teresinha mostra a beleza de fazer da vida um dom.
->
+
 > Num período em que prevalecem as necessidades mais superficiais, ela é testemunha da radicalidade evangélica.
->
+
 > Numa época de individualismo, ela faz-nos descobrir o valor do amor que se torna intercessão.
->
+
 > Num momento em que o ser humano vive obcecado pela grandeza e por novas formas de poder, ela aponta a via da pequenez.
->
+
 > Num tempo em que se descartam tantos seres humanos, ela ensina-nos a beleza do cuidado, do ocupar-se do outro.
->
+
 > Num momento de complexidade, ela pode ajudar-nos a redescobrir a simplicidade, o primado absoluto do amor, da confiança e do abandono, superando uma lógica legalista e moralista que enche a vida cristã de obrigações e preceitos e congela a alegria do Evangelho.
->
+
 > Num tempo de entrincheiramento e reclusão, Teresinha convida-nos à saída missionária, conquistados pela atração de Jesus Cristo e do Evangelho.
 
 53\. Século e meio depois do seu nascimento, Teresa está mais viva do que nunca no meio da Igreja em caminho, no coração do Povo de Deus. Está a peregrinar connosco, fazendo o bem sobre a terra, como tanto desejou. O sinal mais belo da sua vitalidade espiritual são as inúmeras «rosas» que vai espalhando, isto é, as graças que Deus nos concede pela sua intercessão cheia de amor, para nos sustentar no percurso da vida.

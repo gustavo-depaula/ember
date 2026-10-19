@@ -1,9 +1,5 @@
 # A „sensus fidei” az egyház életében
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG
 
 **A „sensus fidei” az egyház életében\***
@@ -448,8 +444,6 @@ A hiteles „sensus fidelium” megkülönböztetésének nehézsége – mint a
 **128.** A „sensus fidei” szorosan kötődik a hitbeli tévedhetetlenséghez, az „infallibilitas in credendo”-hoz, amit az egyház a maga teljességében birtokol a történelemben zarándokló hívő „alanyként”.[^147] A Szentlélek által táplálva a „sensus fidei” képessé teszi az egyházat a tanúságtételre, tagjait pedig annak a megkülönböztetésnek állandó munkálására, amit nekik gyakorolniuk kell mind egyénileg, mind közösségileg, hogy felismerjék, milyen módon lehet élni, cselekedni, beszélni az Úrhoz való hűségben. Ez az az érzék, amivel mindannyian „együtt gondolkodunk az egyházzal”,[^148] osztozva hitében és céljaiban. Ez az, ami egyesíti a lelkipásztorokat és a népet, párbeszédet hoz létre közöttük, adományaikra és hivatásukra alapozva, ami együtt lényeges és gyümölcsöző az egyház számára.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: FERENC PÁPA, *Angelus,* 2013. március 17.
 

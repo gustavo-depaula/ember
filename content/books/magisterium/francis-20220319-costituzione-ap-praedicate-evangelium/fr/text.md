@@ -497,8 +497,6 @@ Il lui revient de :
 
 § 3. La Section exerce ses fonctions en étroite collaboration avec la Section pour les Affaires Générales et avec la Section pour les Relations avec les États et les Organisations Internationales, lesquelles, chacune dans ses domaines spécifiques, traitent également des questions concernant les représentants pontificaux.
 
-** **
-
 **V DICASTÈRES**
 
 **Dicastère pour l’Évangélisation**
@@ -1424,8 +1422,6 @@ La Signature Apostolique est régie par une loi propre.
 **Art. 204**
 
 Le Tribunal de la Rote Romaine est régi par une loi propre.
-
-** **
 
 **VII Organismes Économiques**
 

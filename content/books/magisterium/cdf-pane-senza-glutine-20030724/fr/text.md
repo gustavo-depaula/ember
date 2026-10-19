@@ -1,10 +1,6 @@
 # Lettre à tous les Présidents des Conférences épiscopales sur l’usage du pain pauvre en gluten et du moût comme matière eucharistique
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGRÉGATION POUR LA DOCTRINE DE LA FOI
+CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **Lettre à tous les Présidents des Conférences épiscopales sur l’usage du pain pauvre en gluten et du moût comme matière eucharistique**
 
@@ -59,7 +55,3 @@ Il est opportun maintenant de reprendre l’argument et d’apporter, à la lumi
 En vous priant de communiquer ces nouvelles dispositions aux membres de votre Conférence Episcopale, je vous prie d’agréer, Eminence, l’expression de ma gratitude et de mes sentiments dévoués dans le Seigneur.
 
 **+ Joseph Card. RATZINGER** * Préfet*
-
-* *
-
-[](#top)

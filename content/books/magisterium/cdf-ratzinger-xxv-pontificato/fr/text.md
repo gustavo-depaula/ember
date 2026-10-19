@@ -1,9 +1,5 @@
 # XXV Anniversaire du Pontificat - Salut introductif du Card. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***SALUT INTRODUCTIF DU CARDINAL JOSEPH RATZINGER AU D**ÉBUT DE LA MESSE D'ACTION DE GRÂCE À L'OCCASION DU XXV ANNIVERSAIRE DU PONTIFICAT DE JEAN-PAUL II***
 
 *Très Saint-Père,*
@@ -21,5 +17,3 @@ Il s'agit là d'une *beatitudo* qui dépend également - nous le savons bien - d
 Avec ces sentiments, nous vous souhaitons du plus profond du cœur:
 
 *Meilleurs vœux, Très Saint-Père!*
-
-[](#top)

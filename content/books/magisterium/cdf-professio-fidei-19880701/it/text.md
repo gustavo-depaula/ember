@@ -1,12 +1,6 @@
 # Professione di fede, 1 luglio 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***PROFESSIONE DI FEDE E GIURAMENTO DI FEDELTÀ NELLÂÂÂ’ASSUMERE UN UFFICIO DA ESERCITARE A NOME DELLA CHIESA ***
-
-** **
 
 **NOTA DI PRESENTAZIONE**
 
@@ -57,5 +51,3 @@ Così Dio mi aiuti e questi santi Vangeli che tocco con le mie mani.
 Sosterrò la disciplina comune a tutta la Chiesa e promuoverò lÂÂÂ’osservanza di tutte le leggi ecclesiastiche, in particolare di quelle contenute nel Codice di Diritto Canonico.
 
 Osserverò con cristiana obbedienza ciò che i sacri Pastori dichiarano come autentici dottori e maestri della fede o stabiliscono come capi della Chiesa, e in unione con i Vescovi diocesani, fatti salvi lÂÂÂ’indole e il fine del mio Istituto, presterò volentieri la mia opera perché lÂÂÂ’azione apostolica, da esercitare in nome e per mandato della Chiesa, sia compiuta in comunione con la Chiesa stessa.
-
-[](#top)

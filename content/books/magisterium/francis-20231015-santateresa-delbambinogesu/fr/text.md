@@ -147,17 +147,17 @@ Qu’il te plait de marcher pour les guider aux Cieux. » [^62]
 52\. Du ciel à la terre, l’actualité de sainte Thérèse de l’Enfant Jésus et de la Sainte Face demeure dans toute sa “petite grandeur”.
 
 > En un temps qui nous invite à nous enfermer dans nos intérêts particuliers, Thérèse nous montre qu’il est beau de faire de la vie un don.
->
+
 > À un moment où les besoins les plus superficiels prévalent, elle est témoin du radicalisme évangélique.
->
+
 > En un temps d’individualisme, elle nous fait découvrir la valeur de l’amour qui devient intercession.
->
+
 > À un moment où l’être humain est obsédé par la grandeur et par de nouvelles formes de pouvoir, elle montre le chemin de la petitesse.
->
+
 > En un temps où de nombreux êtres humains sont rejetés, elle nous enseigne la beauté d’être attentif, de prendre soin de l’autre.
->
+
 > À un moment de complexité, elle peut nous aider à redécouvrir la simplicité, la primauté absolue de l’amour, la confiance et l’abandon, en dépassant une logique légaliste et moralisante qui remplit la vie chrétienne d’observances et de préceptes et fige la joie de l’Évangile.
->
+
 > En un temps de replis et d’enfermements, Thérèse nous invite à une sortie missionnaire, conquis par l’attrait de Jésus Christ et de l’Évangile.
 
 53\. Un siècle et demi après sa naissance, Thérèse est plus vivante que jamais au cœur de l’Église en chemin, au cœur du Peuple de Dieu. Elle est en pèlerinage avec nous, faisant le bien sur la terre, comme elle le désira tant. Les innombrables “roses” que Thérèse répand sont le signe le plus beau de sa vitalité spirituelle, c’est-à-dire les grâces que Dieu nous donne par son intercession comblée d’amour, pour nous soutenir sur le chemin de la vie.

@@ -22,13 +22,9 @@ Voici le texte reconnu de la *Loi propre du Tribunal Suprême de la Signature Ap
 
 **LA CONSTITUTION ET LES FONCTIONS**
 
-** **
-
 **Chapitre 1**
 
 **LA CONSTITUTION DE LA SIGNATURE APOSTOLIQUE**
-
-** **
 
 Art. 1 § 1 Le Tribunal Suprême de la Signature Apostolique est constitué d'un groupe de cardinaux et évêques, nommés par le Souverain Pontife. Il est présidé par un cardinal préfet choisi par le même Souverain Pontife.
 
@@ -152,8 +148,6 @@ Art. 20 Sur mandat du secrétaire, les avocats-procureurs sont astreints à une 
 
 **LA DISCIPLINE À OBSERVER**
 
-** **
-
 Art. 21 Le Collège des juges est composé de cinq membres, à moins qu'en Congrès le préfet ne décide que le recours contre un décret de rejet pris dans un Congrès, chaque fois que c'est le cas, ne doive être jugé que par trois juges.
 
 Art. 22 § 1 En Congrès, le préfet prend la décision, étant intervenus le secrétaire, le promoteur de justice, le défenseur du lien et les promoteurs de justice substituts ainsi que les autres personnes éventuellement nommées pour exercer la fonction de promoteur de justice ou de défenseur du lien dans les causes à traiter, et étant présent le chancelier. A son jugement, le préfet peut y inviter des référendaires dont la présence serait jugée utile.
@@ -190,13 +184,9 @@ Art. 29 § 1 Il est permis de s'adresser à la Signature Apostolique, outre dans
 
 § 2 Toutes les autres instances, défenses et *vota* doivent être présentés en langue latine.
 
-** **
-
 **Chapitre 5**
 
 **LES FRAIS ET L'ASSISTANCE JUDICIAIRE GRATUITE**
-
-** **
 
 Art. 30 § 1 Le Congrès fixe les normes concernant les cautions à déposer, les frais judiciaires, les honoraires et les taxes pour les rescrits.
 
@@ -215,8 +205,6 @@ Art. 31 § 1 Celui qui demande l'assistance judiciaire gratuite doit avoir pour 
 **TITRE II**
 
 **LA COMPÉTENCE DE LA SIGNATURE APOSTOLIQUE**
-
-** **
 
 Art. 32 Outre la fonction de Tribunal Suprême, qu'il exerce, le dicastère veille à ce que la justice soit correctement administrée dans l'Église.
 
@@ -255,8 +243,6 @@ Art. 35 Il appartient également à la Signature Apostolique de veiller à la co
 **TITRE III**
 
 **LES PROCÈS JUDICIAIRES**
-
-** **
 
 **Chapitre 1**
 
@@ -352,8 +338,6 @@ Art. 57 La remise en l'état étant concédée, à moins que le Souverain Pontif
 
 **DE LA CAUSE REFUSÉ PAR LA ROTE ROMAINE**
 
-** **
-
 Art. 58 Dans les causes concernant l'état des personnes, le recours contre un nouvel examen de la cause refusé par la Rote romaine peut être proposé dans un délai péremptoire de trente jours.
 
 Art. 59 § 1 L'autre partie ayant été informée, le secrétaire fixe à la partie qui fait recours un bref délai pour présenter les motifs de sa demande. Ensuite, le défenseur du lien écrit ses remarques ; et, en dernier, le promoteur de justice remet son *votum pro rei ventate.*
@@ -370,8 +354,6 @@ Art. 61 Le recours auprès de la Signature Apostolique étant pendant, le Congr�
 
 **CONTRE LES JUGES DE LA ROTE ROMAINE**
 
-** **
-
 Art. 62 L'exception de suspicion contre un juge de la Rote romaine peut être proposée dans les cas dont il s'agit aux c. 1448 § 1 et 1624 du *Code de Droit Canonique* et 1106, § 1 et 1305 du *Code des Canons des Églises Orientales.*
 
 Art. 63 § 1 Le juge récusé étant aussitôt informé, le secrétaire fixe un délai à celui qui présente l'exception pour qu'il fournisse les arguments qu'il avance. Ensuite, ayant été reçus les mémoires des parties ainsi que les remarques du défenseur du lien, s'il participe, et le *votum pro rei veritate* du promoteur de justice, la cause est déférée au Congrès.
@@ -385,8 +367,6 @@ Art. 65 Le décret pris par le Congrès est notifié au plus vite au Doyen de la
 **Chapitre 6**
 
 **LES CAUSES CONTRE LES JUGES DE LA ROTE ROMAINE**
-
-** **
 
 Art. 66 § 1 Dans les causes, tant pénales que contentieuses, contre les juges de la Rote romaine, pour des actes accomplis dans l'exercice de leurs
 
@@ -417,8 +397,6 @@ Art. 72 § 1 Les actes de la cause et les mémoires des parties étant rassembl�
 **TITRE IV**
 
 **LE PROCÈS CONTENTIEUX ADMINISTRATIF**
-
-** **
 
 **Chapitre 1**
 
@@ -574,8 +552,6 @@ Art. 100 En ce qui concerne les actions et les exceptions de séquestre d'un bie
 
 **LA RÉPARATION DES DOMMAGES**
 
-** **
-
 Art. 101 La demande de réparation des dommages provenant d'un acte illégitime, dont il s'agit dans l'art. 34, § 2, peut être proposée jusqu'au moment de la discussion orale sommaire.
 
 Art. 102 L'Autorité est citée et répond en ce qui concerne les dommages prétendus, pour autant que ceux-ci proviennent de ses propres décisions.
@@ -636,8 +612,6 @@ Art. 112 Il appartient aux pères de la Signature Apostolique, ensemble avec le 
 
 **LES SANCTIONS DISCIPLINAIRES**
 
-** **
-
 Art. 113 § 1 S'il semble qu'une sanction doive être prise contre des ministres de quelque tribunal, des avocats ou des procureurs, le préfet ordonne normalement au modérateur du tribunal d'examiner l'affaire, d'y pourvoir, s'il y a lieu, et ensuite d'en référer. Mais sa décision peut, même d'office, être révoquée ou amendée en Congrès.
 
 § 2 Si une action disciplinaire est engagée devant la Signature Apostolique, le promoteur de justice rédige le libelle et, après avoir examiné la défense, il le confirme ou l'amende. La faculté de répondre étant donnée, la question est ensuite examinée dans le Congrès.
@@ -674,8 +648,6 @@ Art. 117 La manière de procéder dont il s'agit â l'art. 106, § 1 sera appliq
 
 **LA DÉCLARATION DE NULLITÉ DU MARIAGE**
 
-** **
-
 Art. 118 Si la Signature Apostolique relève la nullité du mariage à déclarer dans des cas qui n'exigent pas d'enquête ou d'investigation plus approfondie, la cause, les remarques du défenseur du lien et l'avis du promoteur de justice ayant été obtenus, sera déférée au Congrès.
 
 **Chapitre 6**
@@ -699,8 +671,6 @@ Art. 121 Dans les causes de dissolution du lien du mariage conclu et non consomm
 **TITRE VI**
 
 **L'APPLICATION DU DROIT**
-
-** **
 
 Art. 122 Quant aux questions qui ne sont pas prévues dans cette loi propre, on observe, pour autant qu'elles puissent être appliquées, les normes processuelles des Codes, en tenant aussi compte de la tradition canonique et de la pratique de la Signature Apostolique.
 

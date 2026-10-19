@@ -1,13 +1,5 @@
 # Déclaration pour protéger de certaines erreurs récentes la foi dans les mystères de l'Incarnation et de la Sainte Trinité, 21 février 1972
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**

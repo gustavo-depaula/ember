@@ -513,5 +513,3 @@ Wir bitten Dich darum, dass der höchste Herr aller Dinge, Vater, Sohn und Heili
 *Gegeben zu Rom, bei Sankt Peter, am 25. März, dem Hochfest der Verkündigung des Herrn, des Jahres 1996, dem 18. Jahr meines Pontifikats.*
 
 **JOHANNES PAUL II.**
-
-* *

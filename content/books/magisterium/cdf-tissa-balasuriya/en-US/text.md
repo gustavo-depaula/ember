@@ -1,9 +1,5 @@
 # Notification concerning the Text «Mary and Human Liberation» by Father Tissa Balasuriya, OMI
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Notification concerning the Text «Mary and Human Liberation» by Father Tissa Balasuriya, OMI***
@@ -65,8 +61,6 @@ Rome, from the offices of the Congregation for the Doctrine of the Faith, 2 Janu
 **Tarcisio Bertone** * Archbishop Emeritus of Vercelli Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: The text was published in the journal *Logos* 29, 1-2; March/July 1990 (Colombo, Sri Lanka).
 

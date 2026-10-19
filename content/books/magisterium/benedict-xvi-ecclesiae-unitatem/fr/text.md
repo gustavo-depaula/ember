@@ -19,9 +19,9 @@
 6\. La [Commission pontificale *Ecclesia Dei*](http://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/index_fr.htm) aura donc la configuration suivante:
 
 > a\) le président de la Commission est le préfet de la Congrégation pour la doctrine de la foi.
->
+
 > b\) la Commission a son propre organigramme, composé d'un secrétaire et d'officials.
->
+
 > c\) Il reviendra au président, assisté par le secrétaire, de soumettre les cas principaux et les questions à caractère doctrinal à l'étude et au discernement des instances ordinaires de la Congrégation pour la doctrine de la foi, ainsi que de soumettre les résultats aux dispositions supérieures du Souverain Pontife.
 
 7\. Par cette décision, j'ai voulu en particulier faire preuve de sollicitude paternelle envers la "Fraternité Saint Pie X", dans le but de retrouver la pleine communion avec l'Eglise.

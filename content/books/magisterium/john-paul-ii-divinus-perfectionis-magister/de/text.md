@@ -93,5 +93,3 @@ Unter Abschaffung aller diesbezüglichen Gesetze jedweder Art legen Wir fest, da
 *Gegeben zu Rom, bei St. Peter, am 25. Januar 1983, im fünften Jahr Unseres Pontifikates.*
 
 **JOHANNES PAUL II., PAPST**
-
-* *

@@ -1,13 +1,5 @@
 # Resposta sobre a esterilização realizada em hospitais católicos, 13 de março de 1975
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ

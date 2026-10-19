@@ -1,9 +1,5 @@
 # Le christianisme et les religions. Présentation du document de la Commission Théologique Internationale - Mgr. Luis F. Ladaria
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Le Christianisme et les religions**
 
 ** Présentation du document de la Commission Théologique Internationale **
@@ -71,5 +67,3 @@ Mais par-dessus tout est affirmé clairement le fait que tout ce qui en elles a 
 ------------------------------------------------------------------------
 
 (1) *De res. Mort.* 6, 3 : « Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus ».
-
-[](#top)

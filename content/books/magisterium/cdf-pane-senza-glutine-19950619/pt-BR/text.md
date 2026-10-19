@@ -1,9 +1,5 @@
 # Carta sobre o uso do pão com pouca quantidade de glúten e do mosto como matéria eucarística, 19 de junho de 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **Carta aos Presidentes das Conferências Episcopais sobre o uso do pão com pouca quantidade de glúten e do mosto como matéria eucarística**
@@ -61,5 +57,3 @@ Ao comunicar-lhe o referido, aproveito a circunstância para render-lhe obséqui
 dev.mo
 
 **Joseph *Card.* Ratzinger** *Prefetto*
-
-[](#top)

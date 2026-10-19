@@ -1,9 +1,5 @@
 # Notification sur certains écrits du révérend P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***NOTIFICATION***
@@ -195,5 +191,3 @@ Le Souverain Pontife Jean-Paul II, au cours de l’Audience accordée au Cardina
 56 Cf. Ma II/1, p. 408 = 442. 444.
 
 57 Cf. Décl. De abortu procurato, nn. 19-23: AAS 66 (1974) 742-744; Lettre enc. Evangelium vitae, nn. 71-74: AAS 87 (1995) 483-488.
-
-[](#top)

@@ -39,9 +39,9 @@ IV\. A Personal Ordinariate is entrusted to the pastoral care of an Ordinary app
 V. The power (*potestas*) of the Ordinary is:
 
 > a\. *ordinary*: connected by the law itself to the office entrusted to him by the Roman Pontiff, for both the internal forum and external forum;
->
+
 > b\. *vicarious*: exercised in the name of the Roman Pontiff;
->
+
 > c\. *personal*: exercised over all who belong to the Ordinariate;
 
 This power is *to be exercised jointly* with that of the local Diocesan Bishop, in those cases provided for in the Complementary Norms.

@@ -31,7 +31,7 @@ Tudo o que deliberei com a presente Carta Apostólica em forma de *Motu Proprio,
 **Artigo 1** – *Natureza e sede*
 
 > 1\. A [Autoridade de Informação Financeira](http://www.vatican.va/roman_curia/institutions_connected/aif/index_po.htm) (AIF) é uma Instituição ligada à Santa Sé segundo a norma dos artigos 186 e seguintes da Constituição Apostólica *[Pastor bonus](http://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index_po.html)*.
->
+
 > 2\. A Autoridade é dotada de personalidade jurídica canónica pública e tem sede no Estado da Cidade do Vaticano.
 
 **Artigo 2** – *Funções*
@@ -39,9 +39,9 @@ Tudo o que deliberei com a presente Carta Apostólica em forma de *Motu Proprio,
 A Autoridade desempenha, em plena autonomia e independência, as seguintes funções:
 
 > a\) vigilância e regulamentação, com finalidades prudenciais, das entidades que desempenham profissionalmente uma actividade de natureza financeira;
->
+
 > b\) vigilância e regulamentação, com finalidades de prevenção e de combate à lavagem de dinheiro e ao financiamento do terrorismo;
->
+
 > c\) informação financeira.
 
 **Título II Órgãos, estrutura e pessoal**
@@ -51,15 +51,15 @@ A Autoridade desempenha, em plena autonomia e independência, as seguintes funç
 1\. Os órgãos da Autoridade são:
 
 > a\) o Presidente;
->
+
 > b\) o Conselho directivo;
->
+
 > c\) o Director.
 
 2\. A Autoridade está subdividida em dois escritórios:
 
 > a\) o escritório para a vigilância e a regulamentação;
->
+
 > b\) o escritório para a informação financeira.
 
 3\. A Autoridade adopta os procedimentos e as medidas necessárias para garantir a separação operativa entre a função de vigilância e regulamentação, e a função de informação financeira.
@@ -71,35 +71,35 @@ A Autoridade desempenha, em plena autonomia e independência, as seguintes funç
 2\. O Conselho directivo desempenha as seguintes funções:
 
 > a\) formula as linhas de política geral e as estratégias fundamentais da Autoridade;
->
+
 > b\) emana o Regulamento interno da Autoridade;
->
+
 > c\) confere ao Director o poder de assinatura, segundo as modalidades previstas pelo Regulamento interno da Autoridade;
->
+
 > d\) adopta os regulamentos e as linhas-guia nos casos estabelecidos pelo ordenamento;
->
+
 > e\) aprova o programa das verificações à distância e das inspecções *in loco* dos sujeitos vigiados, predisposto pelo Director;
->
+
 > f\) aplica as sanções administrativas nos casos estabelecidos pelo ordenamento em vigor;
->
+
 > g\) propõe ao Presidente do Governatorado a aplicação de sanções administrativas nos casos estabelecidos pelo ordenamento;
->
+
 > h\) aprova cada ano, até 31 de Março o balanço, e até 31 de Outubro o orçamento da Autoridade, predispostos pelo Director;
->
+
 > i\) aprova cada ano, até 31 de Março, um relatório público que contenha dados, informações e estatísticas não reservados sobre a actividade levada a cabo pela Autoridade no exercício das suas funções, predisposto pelo Director;
->
+
 > j\) aprova cada ano, até 31 de Março, um relatório confidencial para a Secretaria de Estado sobre a actividade levada a cabo pela Autoridade no exercício das suas funções, predisposto pelo Director;
->
+
 > k\) formula mediante o Presidente as propostas de nomeação do Director, do Vice-Director e de admissão do pessoal;
->
+
 > l\) pode solicitar estudos e pareceres, ou o cumprimento de actividades específicas aos próprios membros, ao Director ou a especialistas externos.
 
 3\. O Presidente desempenha as seguintes funções:
 
 > a\) preside ao Conselho directivo;
->
+
 > b\) tem a representação legal da Autoridade;
->
+
 > c\) tem o poder de assinatura.
 
 **Artigo 5** – *Sessões do Conselho directivo*
@@ -129,35 +129,35 @@ A Autoridade desempenha, em plena autonomia e independência, as seguintes funç
 2\. O Director, em sintonia com as linhas de política geral e com as estratégias fundamentais estabelecidas pelo Conselho directivo, desempenha as seguintes funções:
 
 > a\) dirige, organiza e controla a actividade da Autoridade;
->
+
 > b\) propõe ao Conselho directivo a nomeação do Vice-Director e a admissão do pessoal, segundo os limites estabelecidos pela Tabela orgânica do orçamento, participante no procedimento de selecção;
->
+
 > c\) superintende o pessoal, promovendo a sua formação e a actualização e a qualificação profissional constantes;
->
+
 > d\) adopta instruções e linhas-guia em matéria de organização e de actividade do pessoal;
->
+
 > e\) propõe ao Conselho directivo o programa das verificações à distância e das inspecções *in loco* dos sujeitos vigiados;
->
+
 > f\) no quadro do programa aprovado pelo Conselho directivo, dispõe e põe em prática as verificações à distância e as inspecções *in loco* dos sujeitos vigiados;
->
+
 > g\) propõe ao Conselho directivo a aplicação de sanções administrativas, nos casos estabelecidos pelo ordenamento em vigor;
->
+
 > h\) propõe ao Conselho directivo, até 28 de Fevereiro, o balanço e até 30 de Setembro o orçamento da Autoridade;
->
+
 > i\) propõe ao Conselho directivo, até 28 de Fevereiro, um relatório público que contenha dados, informações e estatísticas não reservados sobre a actividade levada a cabo pela Autoridade no exercício das suas funções;
->
+
 > j\) propõe ao Conselho directivo, até 28 de Fevereiro, um relatório confidencial para a Secretaria de Estado sobre a actividade levada a cabo pela Autoridade no exercício das suas funções;
->
+
 > k\) participa nas sessões do Conselho directivo, sem direito de voto;
->
+
 > l\) participa nas sessões da Comissão de Segurança Financeira;
->
+
 > m\) transmite relatórios, documentos, dados e informações ao Promotor de Justiça do Tribunal do Estado da Cidade do Vaticano, nos casos estabelecidos pelo ordenamento em vigor;
->
+
 > n\) participa nas delegações da Santa Sé junto das instituições financeiras e dos organismos técnicos internacionais competentes em matéria de prevenção e de combate à lavagem de dinheiro e ao financiamento do terrorismo;
->
+
 > o\) propõe ao Conselho directivo as linhas de política geral e as estratégias fundamentais para a colaboração internacional;
->
+
 > p\) tem poder de assinatura, se for delegado pelo Conselho directivo, inclusive na estipulação de protocolos de entendimento com autoridades análogas de outros Estados, nos casos estabelecidos pelo ordenamento em vigor.
 
 3\. O Director é coadjuvado por um Vice-Director, nomeado pelo Secretário de Estado *ad quinquennium*, por proposta formulada pelo Presidente, entre pessoas de comprovada honradez, sem conflitos de interesses e com uma reconhecida competência nos campos jurídico, económico e financeiro, e nos âmbitos objecto da actividade da Autoridade.
@@ -189,9 +189,9 @@ A Autoridade acede aos documentos, dados e informações, colabora e permuta inf
 Todos os documentos, dados e informações possuídos pela Autoridade são:
 
 > a\) utilizados exclusivamente para as finalidades estabelecidas pelo ordenamento;
->
+
 > b\) protegidos com a finalidade de garantir a sua segurança, integridade e discrição;
->
+
 > c\) salvaguardados pelo segredo de ofício.
 
 **Artigo 10** – *Norma final*

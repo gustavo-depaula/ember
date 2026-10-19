@@ -1,26 +1,12 @@
 # Décret, Cum sanctissima
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
-** **
-
 Prot. N. 137/2009S – ED
 
 **DÉCRET**
-
-** **
 
 Puisque la très sainte vertu de Jésus Christ resplendit dans celles des Saints, dont l’exemple doit toujours être proposé aux fidèles[^1], le Pape [Benoît XVI](/content/benedict-xvi/fr.html), dans [sa lettre du 7 juillet 2007](/content/benedict-xvi/fr/letters/2007/documents/hf_ben-xvi_let_20070707_lettera-vescovi.html), a confié à la Commission Pontificale “Ecclesia Dei” le soin de faire en sorte que certains de ceux qui avaient été inscrits dans le calendrier des saints au cours des dernières décennies puissent être vénérés également selon la forme extraordinaire du Rite Romain[^2]. En effet, “il convient au plus haut point que celui qui est saint aux yeux de Dieu soit également tenu pour saint par les hommes”[^3], et “il n’est pas peu utile aux fidèles chrétiens d’avoir toujours de nouveaux exemples de vertus à imiter”[^4].
 
@@ -54,8 +40,6 @@ Luis F. Card. Ladaria, S.I. *Préfet de la Congrégation pour la Doctrine de la 
 
 ✠ Giacomo Morandi  
 Archevêque tit. de Cerveteri *Secrétaire*
-
-* *
 
 ------------------------------------------------------------------------
 

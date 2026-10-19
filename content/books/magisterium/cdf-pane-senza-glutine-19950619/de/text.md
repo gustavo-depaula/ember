@@ -1,9 +1,5 @@
 # Lettera sull’uso del pane con poca quantità di glutine e del mosto come materia eucaristica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 Rundschreiben an die Vorsitzenden der Bischofskonferenzen über den Gebrauch von Brot mit geringem Gluten-Anteil und von Most als Materie für die Eucharistie
@@ -57,5 +53,3 @@ F. Die zuständigen Bischofskonferenzen sind gebeten, oben genannter Kongregatio
 Indem ich Ihnen diese Regelungen zur Kenntnis bringe, verbleibe ich hochachtungsvoll Ihr
 
 **Joseph** ***Kard*****. Ratzinger** Präfekt
-
-[](#top)

@@ -1,9 +1,5 @@
 # Decree concerning the inscription of the Saints John XXIII and John Paul II in the General Roman Calendar
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR DIVINE WORSHIP  
 AND THE DISCIPLINE OF THE SACRAMENTS
 
@@ -30,5 +26,3 @@ All things to the contrary notwithstanding.
 **Antonio Card. Cañizares Llovera** *Prefect*
 
 > **+ Arthur Roche** *Archbishop Secretary*
-
-[](#top)

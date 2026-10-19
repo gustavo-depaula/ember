@@ -1,9 +1,5 @@
 # Décret d'inscription dans le Calendrier Romain général des saints Jean XXIII et Jean-Paul II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LE CULTE DIVIN ET LA DISCIPLINE DES SACREMENTS
 
 ***DÉCRET***
@@ -25,5 +21,3 @@ De la Congrégation pour le culte divin et la discipline des sacrements, 29 mai 
 **Antonio Card. Cañizares Llovera** *Préfet*
 
 > **Arthur Roche** *Archevêque-secrétaire*
-
-[](#top)

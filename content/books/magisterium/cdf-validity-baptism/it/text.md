@@ -1,9 +1,5 @@
 # Risposte a quesiti proposti sulla validità del Battesimo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 RISPOSTE A QUESITI PROPOSTI
@@ -32,5 +28,3 @@ Dalla sede della Congregazione per la Dottrina della Fede, il 1° febbraio 2008.
 
   **Angelo AMATO, S.D.B.**  
 Arcivescovo tit. di Sila *Segretario*
-
-[](#top)

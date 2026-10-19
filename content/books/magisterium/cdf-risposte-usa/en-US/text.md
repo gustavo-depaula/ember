@@ -1,9 +1,5 @@
 # Responses to Certain Questions Concerning Artificial Nutrition and Hydration
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***RESPONSES TO CERTAIN QUESTIONS OF THE UNITED STATES CONFERENCE OF CATHOLIC BISHOPS CONCERNING ARTIFICIAL NUTRITION AND HYDRATION***
@@ -25,5 +21,3 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, August
 **William Cardinal Levada** *Prefect*
 
 **Angelo Amato, S.D.B.** *Titular Archbishop of Sila *Secretary
-
-[](#top)

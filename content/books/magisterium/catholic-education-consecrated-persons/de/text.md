@@ -1,9 +1,5 @@
 # PERSONEN DES GEWEIHTEN LEBENS UND IHRE SENDUNG IN DER SCHULE - BETRACHTUNGEN UND ORIENTIERUNGEN
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DAS KATHOLISCHE BILDUNGSWESEN
 
 ***PERSONEN DES GEWEIHTEN LEBENS UND IHRE SENDUNG IN DER SCHULE***
@@ -22,17 +18,17 @@ KONGREGATION FÜR DAS KATHOLISCHE BILDUNGSWESEN
 
 > **[Erzieher – gerufen zu evangelisieren](#Erzieher%20ÂÂ–%20gerufen%20zu%20evangelisieren)**  
 > *Geht hinaus… verkündet das Evangelium allen Menschen* (Mk 16,15)
->
+
 > > **[Angesichts der aktuellen Herausforderungen](#Angesichts%20der%20aktuellen%20Herausforderungen) [Eine ausdrückliche anthropologische Vision](#Eine%20ausdrückliche%20anthropologische%20Vision)**
->
+
 > **[Erzieher – gerufen, Weggefährte zum Anderen zu sein](#Erzieher%20ÂÂ–%20gerufen,%20Weggefährte%20zum%20Anderen%20zu%20sein)**  
 > *Wir möchten Jesus sehen* (Joh 12,21) ***Die Dynamik der Wechselbeziehung***
->
+
 > > **[Die Dimension der Beziehung](#Die%20Dimension%20der%20Beziehung) [Die Erziehungsgemeinschaft](#Die%20Erziehungsgemeinschaft) [Auf dem Weg zum Anderen](#Auf%20dem%20Weg%20zum%20Anderen) [Zur Sinnsuche anleiten](#Zur%20Sinnsuche%20anleiten) [Der Religionsunterricht](#Der%20Religionsunterricht) [Leben als Berufung](#Leben%20als%20Berufung) [Kultur der Berufung](#Kultur%20der%20Berufung)**
->
+
 > **[Erzieher – gerufen, Gemeinschaft zu stiften](#Erzieher%20ÂÂ–%20gerufen,%20Gemeinschaft%20zu%20stiften)**  
 > *...daran werden alle erkennen, dass ihr meine Jünger seid: wenn ihr einander liebt* (Joh 13,35) ***Nach dem Maß der menschlichen Person***
->
+
 > > **[Persönliche Weggefährtenschaft](#Persönliche%20Weggefährtenschaft) [Würde der Frau und ihre Berufung](#Würde%20der%20Frau%20und%20ihre%20Berufung) [Interkulturelle Perspektive](#Interkulturelle%20Perspektive) [Interkulturelle Erziehung](#Interkulturelle%20Erziehung) [Nebeneinander der Verschiedenheiten](#Nebeneinander%20der%20Verschiedenheiten) [Solidarisch teilen mit den Armen](#Solidarisch%20teilen%20mit%20den%20Armen) [Konzepte entwickeln im Blick auf die Geringsten](#Konzepte%20entwickeln%20im%20Blick%20auf%20die%20Geringsten) [Armen eine Stimme geben](#Armen%20eine%20Stimme%20geben) [Kultur des Friedens](#Kultur%20des%20Friedens) [Aus dem Herzen zum Frieden erziehen](#Aus%20dem%20Herzen%20zum%20Frieden%20erziehen) [Erziehung zur Gemeinschaft](#Erziehung%20zur%20Gemeinschaft)**
 
 **[SCHLUSS](#SCHLUSS)**
@@ -519,8 +515,6 @@ Rom, den 28. Oktober 2002, am XXXVII. Jahrestag des Erlasses der Erklärung *Gra
 *Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Vgl. JOHANNES PAUL II., Nachsynodales Apostolisches Schreiben *Vita Consecrata*, 25. März 1996, Nrn. 72-73, *AAS* 88 (1996), 447-449.
 

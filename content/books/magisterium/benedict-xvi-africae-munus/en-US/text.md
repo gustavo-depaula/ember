@@ -27,12 +27,12 @@ You are the light of the world »
 
 > A. “Be reconciled with God” (*2 Cor* 5:20b) \[19-21\]  
 > B. Becoming just and building a just social order \[22-23\]
->
+
 > > 1\. *Living in accordance with Christ’s justice* \[24-25\]  
 > > 2. *Creating a just order in the spirit of the Beatitudes* \[26-27\]
->
+
 > C. Love in truth: the source of peace \[28\]
->
+
 > > 1\. *Concrete fraternal service* \[29\]  
 > > 2. *The Church as a sentinel* \[30\]
 
@@ -67,11 +67,11 @@ You are the light of the world »
 
 > A. Ecumenical dialogue and the challenge of new religious movements \[89-91\]  
 > B. Interreligious dialogue \[92-93\]
->
+
 > > 1\. *Traditional African religions* \[92-93\]
 > >
 > > 2\. *Islam* \[94\]
->
+
 > C. Becoming “the salt of the earth” and “the light of the world” \[95-96\]
 
 **[Part two](#Part_two)**
@@ -109,8 +109,6 @@ You are the light of the world »
 > A. Bearers of Christ, “the light of the world” \[160-162\]  
 > B. Witnesses of the risen Christ \[163-166\]  
 > C. Missionaries in the footsteps of Christ \[167-171\]
->
->  
 
 **[CONCLUSION](#CONCLUSION)**: “Take heart; rise, he is calling” (*Mk* 10:49) \[172-177\]
 

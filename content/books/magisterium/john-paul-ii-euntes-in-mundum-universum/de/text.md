@@ -217,5 +217,3 @@ Richten wir hierfür unser Gebet mit ganzem Herzen an die Heiligste Dreifaltigke
 \[24\] Enzyklika *Redemptoris Mater*, 50: AAS 79 (1987) 429.
 
 \[25\] *Ebd*., 30: *AAS* 79 (1987) 402.
-
-* *

@@ -1,16 +1,8 @@
 # NOTA W SPRAWIE NIEKTÓRYCH PISM O. MARCIANA VIDALA CSSR
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **NOTA W SPRAWIE NIEKTÓRYCH PISM O. MARCIANA VIDALA CSSR**
-
-** **
-
-** **
 
 **Wprowadzenie**
 
@@ -191,5 +183,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 22 lutego 2001 r., w święto Katedry
 56. Por. Ma II/1, s. 442. 444 = 408.
 
 57. Por. dekl. De abortu procurato, n. 19-23: AAS 66 (1974) 742-744; enc. Evangelium vitae, n. 71-74: AAS 87 (1995) 483-488.
-
-[](#top)

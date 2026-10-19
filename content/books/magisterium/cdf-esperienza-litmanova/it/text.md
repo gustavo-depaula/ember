@@ -1,15 +1,5 @@
 # “Lascia che Gesù ti renda libero”. Lettera all'Arcieparca di Prešov circa l’esperienza spirituale sul monte Zvir (Litmanová, Slovacchia)
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERO PER LA DOTTRINA DELLA FEDE

@@ -1,9 +1,5 @@
 # Estatutos ad experimentum de la Comisión Teológica Internacional, 12 julio 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 **Estatutos «ad experimentum»\***
@@ -40,5 +36,3 @@ Su Santidad el papa Pablo VI, en el transcurso de la audiencia concedida el 11 d
 ------------------------------------------------------------------------
 
 \* *AAS* 61 (1969) 540-541.
-
-[](#top)

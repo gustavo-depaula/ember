@@ -1,9 +1,5 @@
 # Istruzione Dignitas Connubii
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIO CONSIGLIO PER I TESTI LEGISLATIVI
 
 **ISTRUZIONE**
@@ -1715,5 +1711,3 @@ La presente Istruzione, emanata da questo Pontificio Consiglio per mandato *pro 
 \(24\) Cf. Giovanni Paolo II, Allocuzioni agli Uditori della Rota Romana, 5 febbr. 1987, in *AAS* 79 (1987) 1453-1459 e 25 genn. 1988, in *AAS* 80 (1988) 1178-1185.
 
 \(25\) Cf. Giovanni Paolo II, Alloc. agli Uditori della Rota Romana, 22 genn. 1996, n. 4, in *AAS* 88 (1996) 773-777.
-
-[](#top)

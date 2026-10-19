@@ -1,9 +1,5 @@
 # Zur Antwort der Glaubenskongregation über die im Schreiben Ordinatio sacerdotalis vorgelegte Lehre
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Zur Antwort der Glaubenskongregation* *über die im Apostolischen Schreiben «Ordinatio sacerdotalis»**** ****vorgelegte LehrE***
 
 Anläßlich der Veröffentlichung der Antwort der Kongregation für die Glaubenslehre zu einem Zweifel bezüglich des Grundes, dessentwegen die im Apostolischen Schreiben «[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_ge.html)» dargelegte Lehre als endgültig zu haltende (“definitive tenenda”) zu betrachten ist, scheinen einige Überlegungen angebracht.
@@ -33,5 +29,3 @@ Kongregation für die Glaubenslehre mit päpstlicher Billigung eine offizielle A
 Schließlich wurde in einigen Kommentaren zum Schreiben «[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_ge.html)» behauptet, daß dieses ein weiteres und nicht angebrachtes Hindernis auf dem ohnedies schwierigen Weg der ökumenischen Bewegung bilde. Diesbezüglich darf nicht vergessen werden, daß der authentische ökumenische Einsatz, den die katholische Kirche nicht abbrechen will und nicht abbrechen kann, gemäß dem Buchstaben und dem Geist des Zweiten Vatikanischen Konzils (vgl. Dekret «[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_ge.html)», Nr. 11) volle Aufrichtigkeit und Klarheit in der Darlegung der Identität des eigenen Glaubens verlangt. Zudem muß betont werden, daß die im Schreiben «[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_ge.html)» wieder vorgelegte Lehre nicht anders als hilfreich sein kann bei der Suche nach der vollen Gemeinschaft mit den orthodoxen Kirchen, die in Übereinstimmung mit der Tradition diesselbe Lehre in Treue gewahrt haben und wahren.
 
 Die einzigartige Originalität der Kirche und des Amtspriestertums in ihrem Inneren erfordert genaue und klare Kriterien. Konkret darf man nie aus den Augen verlieren, daß die Kirche die Quelle des eigenen Glaubens und der eigenen konstitutiven Struktur nicht in den Prinzipien des sozialen Lebens eines jeden geschichtlichen Momentes findet. Obwohl die Kirche mit Aufmerksamkeit auf die Welt blickt, in der sie lebt und für deren Heil sie wirkt, ist sie sich bewußt, Trägerin einer höheren Treue zu sein, an die sie gebunden ist. Es handelt sich um die radikale Treue zum Wort Gottes, das sie von derselben Kirche empfangen hat, die Jesus Christus bis zum Ende der Zeiten gegründet hat. Indem dieses Wort Gottes den wesentlichen Wert und die ewige Bestimmung jeder Person verkündet, offenbart es das letzte Fundament der Würde jedes Menschen, jeder Frau und jedes Mannes.
-
-[](#top)

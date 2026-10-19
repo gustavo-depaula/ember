@@ -84,5 +84,3 @@ Queste cose decretiamo e ordiniamo, stabilendo che questa lettera sia e rimanga 
 *Dato a Roma, presso San Pietro,col sigillo del Pescatore, il 7 ottobre 2012, anno ottavo del Nostro Pontificato*
 
 **BENEDETTO PP. XVI**
-
-** **

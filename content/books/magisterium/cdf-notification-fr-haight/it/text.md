@@ -1,9 +1,5 @@
 # Notificazione sul libro "Jesus Symbol of God" di Padre Roger Haight S.J.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***NOTIFICAZIONE SUL LIBRO JESUS SYMBOL OF GOD DI PADRE ROGER HAIGHT, S.J.***
@@ -99,8 +95,6 @@ Nel rendere pubblica questa Notificazione, la Congregazione per la Dottrina dell
 ------------------------------------------------------------------------
 
 **Note**
-
-[](#top)
 
 [^1]: Cfr Concilium Nicaenum, *Professio fidei*: DH 125; Concilium Chalcedonense, *Professio fidei*: DH 301, 302; Concilium Constantinopolitanum II, *Canones*: DH 424, 426.
 

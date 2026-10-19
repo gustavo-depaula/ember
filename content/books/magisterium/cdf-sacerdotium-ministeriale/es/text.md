@@ -1,9 +1,5 @@
 # Sacerdotium ministeriale, Carta a los obispos de la Iglesia católica sobre algunas cuestiones concernientes al ministro de la Eucaristía
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***SACERDOTIUM MINISTERIALE***
@@ -78,8 +74,6 @@ Que la solicitud colegial encuentre en semejantes circunstancias una aplicación
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Conc. Ecum. Vat. II, Const. dogm. *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, nn. 10, 17, 26, 28; Const. *[Sacrosanctum Concilium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html)*, n. 7; Decr. *[Christus Dominus](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html)*, n. 15; Decr. *[Presbyterorum Ordinis](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_sp.html)*, nn. 2 y 3. Cf. también Pablo VI, Encicl. *[Mysterium fidei](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_03091965_mysterium_sp.html)* del 3 sept. 1965: *AAS* 51 (1965) 761.
 

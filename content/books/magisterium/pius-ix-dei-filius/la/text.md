@@ -10,8 +10,6 @@ SACRO APPROBANTE CONCILIO
 
 *Ad perpetuam rei memoriam*
 
-* *
-
 Dei Filius et generis humani Redemptor Dominus Noster Iesus Christus, ad Patrem caelestem rediturus, cum Ecclesia sua in terris militante, omnibus diebus usque ad consummationem saeculi futurum se esse promisit. Quare dilectae sponsae praesto esse, adsistere docenti, operanti benedicere, perìclitanti opem ferre nullo unquam tempore destitit. Haec vero salutaris eius providentia, cum ex aliis beneficiis innumeris continenter apparuit, tum iis manifestissime comperta est fructibus, qui orbi christiano e Conciliis oecumenicis ac nominatim e Tridentino, iniquis licet temporibus celebrato, amplissimi provenerunt. Hinc enim sanctissima religionis dogmata pressius definita uberiusque exposita, errores damnati atque cohibiti; hinc ecclesiastica disciplina restituta firmiusque sancita, promotum in Clero scientiae et pietatis studium, parata adolescentibus ad sacram militiam educandis collegia, christiani denique populi mores et accuratiore fidelium eruditione et frequentiore sacramentorum usu instaurati. Hinc praeterea arctior membrorum cum visibili Capite communio, universoque corpori Christi mystico additus vigor; hinc religiosae multiplicatae familiae, aliaque christianae pietatis instituta; hinc ille etiam assiduus et usque ad sanguinis effusionem constans ardor in Christi regno late per orbem propagando.
 
 Verumtamen haec aliaque insignia emolumenta, quae per ultimam maxime oecumenicam Synodum divina clementia Ecclesiae largita est, dum grato, quo par est, animo recolimus; acerbum compescere haud possumus dolorem ob mala gravissima, inde potissimum orta, quod eiusdem sacrosanctae Synodi apud permultos vel auctoritas contempta, vel sapientissima neglecta fuere Decreta.

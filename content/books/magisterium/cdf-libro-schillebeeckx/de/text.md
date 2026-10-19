@@ -1,9 +1,5 @@
 # Notifikation zu einem Buch von Prof. Edward Schillebeeckx
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Notifikation zu einem Buch ** ** von Prof. EDWARD Schillebeeckx\***
@@ -35,5 +31,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, 15. September 1986.
 \+ **Erzbischof Alberto Bovone** *Sekretär*
 
 \* *L’Osservatore Romano*, Wochenausgabe in deutscher Sprache, Nr. 40, 3. Oktober 1986, Seite 3 (*AAS* 79 \[1987\], S. 221-223).
-
-[](#top)

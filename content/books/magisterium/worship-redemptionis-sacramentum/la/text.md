@@ -1,9 +1,5 @@
 # INSTRUCTIO Redemptionis sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO DE CULTU DIVINO  
 ET DISCIPLINA SACRAMENTORUM
 
@@ -585,8 +581,6 @@ Ex aedibus Congregationis de Cultu Divino et Disciplina Sacramentorum, Romae, di
 **Dominicus Sorrentino** * Archiepiscopus a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Missale Romanum, *ex decreto sacrosancti Oecumenici Concilii Vaticani II instauratum, auctoritate Pauli Pp. VI promulgatum, Ioannis Pauli Pp. II cura recognitum*, editio typica tertia, diei 20 aprilis 2000, Typis Vaticanis, 2002, Missa votiva de Dei misericordia, oratio super oblata, p. 1159.
 

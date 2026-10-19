@@ -1,15 +1,5 @@
 # Sempre di più e sempre oltre. L’impegno della Commissione Teologica Internazionale – Piero Coda
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_index-documentazione_it.html)
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Sempre di più e sempre oltre**

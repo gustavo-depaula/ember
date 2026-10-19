@@ -1,9 +1,5 @@
 # Bóg Trójca, jedność ludzi. Chrześcijański monoteizm przeciwko przemocy
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 MIĘDZYNARODOWA KOMISJA TEOLOGICZNA
 
 **Bóg Trójca, jedność ludzi.**
@@ -88,5 +84,3 @@ ROZPROSZONE I ZGROMADZONE NA NOWO DZIECI BOŻE
 > 4. Moc pokoju z Bogiem, misja Kościoła
 
 \* L’edizione polacca: Międzynarodowa Komisja Teologiczna, *Bóg Trójca, jedność ludzi. Monoteizm chrześcijański przeciwko przemocy*, Wydawnictwo Księży Sercanów, Kraków 2014, ss. 120.
-
-[](#top)

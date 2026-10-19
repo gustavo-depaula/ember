@@ -1,13 +1,5 @@
 # Quo vadis, humanitas? Reflexão sobre a antropologia cristã perante alguns cenários sobre o futuro do ser humano
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISSÃO TEOLÓGICA INTERNACIONAL
@@ -63,8 +55,6 @@ CENÁRIOS SOBRE O FUTURO DO SER HUMANO
 **[CONCLUSÃO: O DOM DA DIVINIZAÇÃO COMO VERDADEIRA UMANIZAÇÃO](#Conclusao)**
 
 **[1. A Mãe plenamente humana](#1._A_Mae_plenamente_humana) [2. O desafio dos pobres](#2._O_desafio_dos_pobres)**
-
-** **
 
 ------------------------------------------------------------------------
 
@@ -495,8 +485,6 @@ O *transumanismo* imagina um futuro em que os seres humanos aperfeiçoarão a fo
 164\. O desenvolvimento tecnológico imparável que consideramos neste texto e que favorece sobretudo aqueles que já têm muito poder, desafia-nos a voltar o nosso olhar para os mais pobres. Se este desenvolvimento, como vimos, juntamente com as ideologias que o acompanham, implica sérios riscos, estes serão ainda maiores para os mais fracos e indefesos, ou seja, para aqueles que não contam nada por que não servem aos interesses dos mais poderosos. Eles correm o risco de se tornarem matéria descartável, “danos colaterais”, varridos sem piedade. Como cristãos, porém, somos chamados a olhar para eles com os olhos de Cristo, que diz a cada um deles: “Eu te amei” (*Ap* 3,9). Como explica o Papa Leão XIV, Cristo “com o seu amor doado até ao fim, mostra a dignidade de cada ser humano”.[^199] E isso nos estimula a “perceber a forte ligação que existe entre o amor de Cristo e o seu apelo a aproximarmo-nos dos pobres”.[^200]
 
 Daí decorre o dever de estar particularmente atentos, como humildes sentinelas, às consequências que os novos desenvolvimentos da sociedade podem ter para a vida dos últimos. Não obstante, reagir com uma palavra profética e um envolvimento generoso. É assim que se joga a autenticidade da nossa fé e o valor humano da nossa vida.
-
-** **
 
 ------------------------------------------------------------------------
 

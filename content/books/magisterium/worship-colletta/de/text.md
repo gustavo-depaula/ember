@@ -1,9 +1,5 @@
 # Tagesgebet
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 KONGREGATION FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG
 
 ***HEILIGER*** ***JOHANNES PAUL II., PAPST***
@@ -22,5 +18,3 @@ des einzigen Erlösers der Menschheit.
 Der mit dir lebt und herrscht  
 in der Einheit des Heiligen Geistes,  
 Gott, von Ewigkeit zu Ewigkeit.
-
-[](#top)

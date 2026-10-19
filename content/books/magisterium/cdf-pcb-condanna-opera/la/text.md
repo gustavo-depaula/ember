@@ -1,9 +1,5 @@
 # De opere R.D. Friderici Schmidtke, cui titulus Die Einwanderung Israels in Kanaan - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE OPERE R.D. FRIDERICI SCHMIDTKE, CUI TITULUS DIE EINWANDERUNG ISRAELS IN KANAAN**
@@ -29,5 +25,3 @@ Praeterea in mentem omnium christifidelium revocat quae de decretorum Pontificia
 *Die autem 27 Februarii 1934, in audientia infrascripto R.mo Consultori ab Actis benigne concessa, Ss.mus Dominus Noster Pius Pp. XI praedictum responsum necnon monitum rata habuit et publici iuris fieri mandavit.*
 
 Ioannes Baptista Frey, C.S.Sp. *Consultor ab Actis.*
-
-[](#top)

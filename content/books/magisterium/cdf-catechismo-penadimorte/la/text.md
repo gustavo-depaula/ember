@@ -1,15 +1,5 @@
 # Nuova redazione del n. 2267 del Catechismo della Chiesa Cattolica sulla pena di morte – Rescriptum “ex Audientia SS.mi”
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **RESCRIPTUM “EX AUDIENTIA SS.MI”**

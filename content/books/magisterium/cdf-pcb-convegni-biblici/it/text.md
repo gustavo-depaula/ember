@@ -1,9 +1,5 @@
 # Le Associazioni bibliche e convegni di natura biblica - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **LE ASSOCIAZIONI BIBLICHE E CONVEGNI DI NATURA BIBLICA**
@@ -37,5 +33,3 @@ Quando tutte queste cose siano fatte con zelo e accuratezza, è lecito sperare c
 *Roma, 15 dicembre 1955.*
 
 Atanasio Miller, O.S.B. *Segretario consultare*
-
-[](#top)

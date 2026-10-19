@@ -1,9 +1,5 @@
 # Notificazione riguardante alcuni scritti del R.P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE** ****
 
 ***NOTIFICAZIONE***
@@ -13,8 +9,6 @@
 ***R.P. MARCIANO VIDAL, C.Ss.R.***
 
 **PREAMBOLO**
-
-*** ***
 
 Uno dei compiti affidati alla Congregazione per la Dottrina della Fede è di vigilare e custodire la dottrina della fede, affinché il Popolo di Dio rimanga fedele all’insegnamento ricevuto. Talvolta la Congregazione deve procedere a un esame dottrinale e segnalare, anche con una notificazione pubblica, le ambiguità o gli errori contenuti in opere di ampia diffusione che possono nuocere alla fede del Popolo di Dio, affinché sia fatta l’opportuna rettifica. Tale notificazione, in alcune occasioni, si rende necessaria anche quando l’autore è disponibile per la rettifica o addirittura questa sia già in atto.
 
@@ -81,8 +75,6 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, il 22 febbraio 
 
 +Tarcisio Bertone, S.D.B.  
 *Arcivescovo emerito di Vercelli Segretario*
-
-* *
 
 ------------------------------------------------------------------------
 
@@ -199,5 +191,3 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, il 22 febbraio 
 \(56\) Cfr. Ma II/1, pp. 442. 444 = 408.
 
 \(57\) Cfr. Dich. De abortu procurato, nn. 19-23: AAS 66 (1974) 742-744; Lett. Enc. Evangelium vitae, nn. 71-74: AAS 87 (1995) 483-488.
-
-[](#top)

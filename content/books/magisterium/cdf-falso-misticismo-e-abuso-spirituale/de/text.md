@@ -1,20 +1,8 @@
 # „Foglio per l‘Udienza“: „Falscher Mystizismus und geistlicher Missbrauch“
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
-
-** **
 
 **FOGLIO PER L’UDIENZA**
 
@@ -38,8 +26,6 @@ Víctor Manuel Kard. Fernández *Präfekt*
 
 *Ex Audientia Die* 22.11.2024  
 Franciscus
-
-* *
 
 *Der Präfekt des Dikasteriums für Gesetzestexte hat den Vorschlag angenommen und leitet die Einrichtung der vorgesehenen Arbeitsgruppe ein, die sich aus von beiden Dikasterien benannten Mitgliedern zusammensetzt, um die ihm übertragene Aufgabe so rasch wie möglich zu erfüllen.*
 

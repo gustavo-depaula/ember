@@ -1,9 +1,5 @@
 # Dignitatis connubii
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIUM CONSILIUM DE LEGUM TEXTIBUS
 
 ***DIGNITAS CONNUBII***
@@ -59,7 +55,7 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 § 2. Matrimonium inter partem catholicam et partem baptizatam non catholicam, regitur etiam:
 
 > 1º iure proprio Ecclesiae vel Communitatis ecclesialis, ad quam pars acatholica pertinet, si haec communitas ius matrimoniale proprium habet;
->
+
 > 2º iure, quo utitur Communitas ecclesialis ad quam pars acatholica pertinet, si haec Communitas iure matrimoniali proprio caret.
 
 **Art. 3** – § 1. Causae matrimoniales baptizatorum iure proprio ad iudicem ecclesiasticum spectant (can. 1671).
@@ -71,13 +67,13 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 4** – § 1. Quoties iudex ecclesiasticus cognoscere debeat de nullitate matrimonii acatholicorum baptizatorum:
 
 > 1º quod attinet ad ius, quo partes tempore celebrationis matrimonii tenebantur, servetur art. 2, § 2;
->
+
 > 2º quod attinet ad formam celebrationis matrimonii, Ecclesia agnoscit quamlibet formam iure praescriptam vel admissam in Ecclesia vel Communitate ecclesiali ad quam partes tempore celebrationis matrimonii pertinebant, dummodo, si una saltem pars est christifidelis alicuius Ecclesiae orientalis acatholicae, matrimonium ritu sacro celebratum sit.
 
 § 2. Quoties iudex ecclesiasticus videre debeat de nullitate matrimonii initi a duobus non baptizatis:
 
 > 1º causa nullitatis cognoscitur iure processuali canonico;
->
+
 > 2º nullitas autem matrimonii definitur, salvo iure divino, iure quo partes tempore celebrationis matrimonii tenebantur.
 
 **Art. 5** – § 1. Causae nullitatis matrimonii tantum per sententiam tribunalis competentis definiri possunt.
@@ -101,7 +97,7 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 9** – § 1. Incompetentia iudicis est etiam absoluta:
 
 > 1º si causa legitime pendet apud aliud tribunal (cf. can. 1512, n. 2);
->
+
 > 2º si non servetur competentia ratione gradus vel ratione materiae (cf. can. 1440).
 
 § 2. Ideo incompetentia iudicis est absoluta ratione gradus si eadem causa, postquam lata fuerit sententia definitiva, iterum in eadem instantia pertractetur, nisi forte sententia nulla declarata fuerit; ratione autem materiae, si causa nullitatis matrimonii cognoscatur a tribunali, quod tantummodo causas alius generis definire valet.
@@ -111,11 +107,11 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 10** – § 1. In causis de matrimonii nullitate, quae non sint Sedi Apostolicae reservatae vel ad eandem advocatae, in primo iurisdictionis gradu sunt competentia:
 
 > 1º tribunal loci in quo matrimonium celebratum est;
->
+
 > 2º tribunal loci in quo pars conventa domicilium vel quasi-domicilium habet;
->
+
 > 3º tribunal loci in quo pars actrix domicilium habet, dummodo utraque pars in territorio eiusdem Episcoporum conferentiae degat et accedat consensus Vicarii iudicialis domicilii partis conventae, qui prius ipsam interroget, num quid excipiendum habeat;
->
+
 > 4º tribunal loci in quo de facto colligendae sunt pleraeque probationes, dummodo accedat consensus Vicarii iudicialis domicilii partis conventae, qui prius ipsam interroget, num quid excipiendum habeat (cf. can. 1673).
 
 § 2. Incompetentia iudicis cui nullus ex his titulis suffragatur, dicitur relativa, salvis utcumque praescriptis de incompetentia absoluta (cf. can. 1407, § 2).
@@ -151,7 +147,7 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 16** – § 1. Tribunal Ecclesiae latinae, salvis artt. 8-15, causam nullitatis matrimonii catholicorum alterius Ecclesiae sui iuris cognoscere potest:
 
 > 1º ipso iure in territorio ubi, praeter Ordinarium loci Ecclesiae latinae, non habetur alius Hierarcha loci cuiusvis alterius Ecclesiae sui iuris, vel ubi cura pastoralis christifidelium Ecclesiae sui iuris, de qua agitur, Ordinario loci Ecclesiae latinae commissa est ex designatione ab Apostolica Sede vel saltem de eius assensu (cf. can. 916, § 5, CCEO);
->
+
 > 2º ceteris in casibus ex prorogatione competentiae a Signatura Apostolica sive stabiliter sive ad casum concessa.
 
 § 2. Tribunal Ecclesiae latinae in casu procedat oportet iuxta legem processualem propriam, sed nullitas matrimonii definienda est secundum leges Ecclesiae sui iuris ad quam partes pertinent.
@@ -190,11 +186,11 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 25** – Quod attinet ad tribunalia secundae instantiae, salvo art. 27 et salvis indultis a Sede Apostolica concessis:
 
 > 1º a tribunali Episcopi suffraganei appellatur ad tribunal Metropolitae, salvis praescriptis nn. 3-4 (cf. can. 1438, n. 1);
->
+
 > 2º in causis in prima instantia pertractatis coram Metropolita fit appellatio ad tribunal quod ipse, probante Sede Apostolica, stabiliter designaverit (can. 1438, n. 2);
->
+
 > 3º si unicum tribunal primae instantiae pro pluribus dioecesibus, ad normam art. 23, constitutum sit, Episcoporum conferentia debet tribunal secundae instantiae, probante Sede Apostolica, constituere, nisi dioeceses sint omnes eiusdem archidioecesis suffraganeae (cf. can. 1439, § 1);
->
+
 > 4º Episcoporum conferentia potest, probante Sede Apostolica, unum vel plura tribunalia secundae instantiae constituere, etiam praeter casus de quibus in n. 3 (cf. can. 1439, § 2).
 
 **Art. 26** – Episcoporum coetus quoad tribunal de quo in art. 23, et Episcoporum conferentia quoad tribunalia de quibus in art. 25, nn. 3-4, vel Episcopus ab eisdem designatus, omnes habent potestates, quae Episcopo dioecesano competunt circa suum tribunal (cf. cann. 1423, § 1; 1439, § 3).
@@ -230,7 +226,7 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 33** – Attenta gravitate et difficultate causarum nullitatis matrimonii, Episcoporum est curare:
 
 > 1º ut idonei ministri iustitiae pro suis tribunalibus efformentur;
->
+
 > 2º ut ad hoc ministerium selecti sedulo et ad normam iuris suo quisque munere fungantur.
 
 **Art. 34** – § 1. Ministri tribunalis dioecesani ab Episcopo dioecesano, ministri autem tribunalis interdioecesani, nisi aliud expresse statutum fuerit, a coetu vel, prout casus ferat, a conferentia Episcoporum nominantur.
@@ -288,29 +284,29 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 45** – Tribunalis collegialis est:
 
 > 1º definire causam principalem (cf. art. 30, §§ 1, 3);
->
+
 > 2º videre de exceptione incompetentiae (cf. art. 78);
->
+
 > 3º videre de recursu ad se proposito adversus libelli reiectionem (cf. art. 124, § 1);
->
+
 > 4º videre de recursu adversus decretum praesidis vel ponentis, quo formula dubii vel dubiorum statuitur (cf. art. 135, § 4);
->
+
 > 5º rem expeditissime definire, si pars instet ut probatio reiecta admittatur (cf. art. 158, § 1);
->
+
 > 6º definire quaestiones incidentes iuxta artt. 217-228;
->
+
 > 7º gravi ex ratione tempus ultra mensem praestituere ad sententiam edendam (cf. art. 249, § 5);
->
+
 > 8º imponere, si casus ferat, vetitum (cf. artt. 250, n. 3; 251);
->
+
 > 9º statuere de expensis iudicialibus et videre de recursu adversus pronuntiationem circa expensas et honoraria (cf. artt. 250, n. 4; 304, § 2);
->
+
 > 10º errorem materialem in sententiae textu corrigere (cf. art. 260);
->
+
 > 11º in gradu appellationis ad normam art. 265 sententiam pro matrimonii nullitate in primo iudicii gradu latam suo decreto continenter confirmare aut ad ordinarium examen novi gradus admittere;
->
+
 > 12º videre de nullitate sententiae (cf. artt. 269; 274, § 1; 275; 276, § 2; 277, § 2);
->
+
 > 13º ponere alios actus processuales quos collegium sibi reservaverit vel qui ad ipsum delati fuerint.
 
 **Art. 46** – § 1. Tribunali collegiali praeesse debet Vicarius iudicialis vel Vicarius iudicialis adiunctus, vel, si id fieri nequit, clericus e collegio ab alterutro designatus (cf. can. 1426, § 2).
@@ -318,47 +314,47 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 § 2. Praesidis collegii est:
 
 > 1º ponentem designare aliumque in eius locum ex iusta causa substituere (cf. art. 47);
->
+
 > 2º auditorem designare vel iusta de causa personam idoneam ad actum delegare ad partem vel testem interrogandum (cf. artt. 50, § 1; 51);
->
+
 > 3º videre de exceptione adversus defensorem vinculi, promotorem iustitiae vel alios tribunalis administros (cf. art. 68, § 4);
->
+
 > 4º animadvertere in assistentes iudicio ad normam cann. 1457, § 2; 1470, § 2; 1488-1489 (cf. artt. 75, § 1; 87; 111, § 1; 307, § 3);
->
+
 > 5º curatorem admittere aut designare (cf. artt. 99, § 1; 144, § 2); 6o circa procuratoris vel advocati ministerium providere ad normam artt. 101, §§ 1, 3; 102; 105, § 3; 106, § 2; 109; 144, § 2;
->
+
 > 7º libellum admittere aut reicere atque partem conventam in iudicium vocare ad normam artt. 119-120; 126;
->
+
 > 8º curam habere ut decretum citationis in iudicium statim notificetur, necnon, si casus ferat, partes et defensorem vinculi novo decreto convocare (cf. artt. 126, § 1; 127, § 1);
->
+
 > 9º decernere libellum significandum non esse parti conventae, antequam haec in iudicio deposuerit (cf. art. 127, § 3);
->
+
 > 10º formulam dubii vel dubiorum proponere et statuere (cf. artt. 127, § 2; 135, § 1);
->
+
 > 11º causae instructionem disponere et peragere (cf. artt. 137; 155ss; 239);
->
+
 > 12º partem conventam absentem a iudicio declarare et curare ut eadem ab absentia recedat (cf. artt. 138; 142);
->
+
 > 13º procedere ad normam art. 140 si actor citationi non paruerit (cf. art. 142);
->
+
 > 14º instantiam peremptam declarare vel renuntiationem admittere (cf. artt. 146-147; 150, § 2);
->
+
 > 15º peritos nominare et, si casus ferat, relationes ab aliis peritis iam factas assumere (cf. art. 204);
->
+
 > 16º petitionem, ut causa incidens instituatur, ad normam art. 220 in limine reicere vel impugnatum decretum a se latum revocare (cf. art. 221, § 2);
->
+
 > 17º de mandato collegii quaestionem incidentem per decretum ad normam art. 225 definire;
->
+
 > 18º decernere actorum publicationem ac conclusionem in causa et eius discussionem moderari (cf. artt. 229-245);
->
+
 > 19º statuere sessionem collegii ad causam definiendam et discussionem collegii moderari (cf. art. 248);
->
+
 > 20º providere ad normam art. 255, si iudex sententiae subscriptionem apponere non possit;
->
+
 > 21º in processu de quo in art. 265, suo decreto acta defensori vinculi pro voto transmittere et partes monere ut, si velint, animadversiones proponant;
->
+
 > 22º gratuitum patrocinium praebere (cf. artt. 306-307);
->
+
 > 23º ponere alios actus processuales qui ipso iure vel per actum collegii non fuerint collegio reservati.
 
 **Art. 47** – § 1. Ponens seu relator, a praeside ex iudicibus collegii designatus, in coetu iudicum de causa referat, decisionem sub forma responsionis ad propositum dubium scribat necnon sententiam et decreta in causis incidentibus in scriptis redigat (cf. can. 1429; artt. 248, §§ 3, 6; 249, § 1).
@@ -424,7 +420,7 @@ Proinde in pertractandis causis de matrimonii nullitate penes tribunalia dioeces
 **Art. 59** – Nisi aliud expresse caveatur:
 
 > 1º quoties lex praecipit ut iudex partes earumve alteram audiat, etiam vinculi defensor et promotor iustitiae, si iudicio intersit, audiendi sunt;
->
+
 > 2º quoties instantia partis requiritur ut iudex aliquid decernere possit, instantia vinculi defensoris vel promotoris iustitiae, si iudicio intersit, eandem vim habet (cf. can. 1434).
 
 **Art. 60** – Defensore vinculi vel promotore iustitiae, si eius praesentia requiritur, non citatis, acta irrita sunt, nisi ipsi, etsi non citati, revera interfuerint, aut saltem ante sententiam, actis inspectis, munere suo fungi potuerint (cf. can. 1433).
@@ -638,11 +634,11 @@ ET DE MODO CONFICIENDI ET CONSERVANDI ACTA
 **Art. 110** – Advocati et procuratores vetantur:
 
 > 1º renuntiare mandato, causa pendente, sine iusta ratione;
->
+
 > 2º sibi de immodico emolumento pacisci: quod si fecerint, pactio nulla est;
->
+
 > 3º ob dona, pollicitationes aliamve causam prodere officium;
->
+
 > 4º causas a competentibus tribunalibus subtrahere vel quomodocumque in fraudem legis agere (cf. cann. 1488-1489).
 
 **Art. 111** – § 1. Advocati et procuratores, qui contra sibi commissum munus deliquerint, puniantur ad normam iuris (cf. cann. 1386; 1389; 1391, n. 2; 1470, § 2; 1488-1489).
@@ -676,13 +672,13 @@ ET DE MODO CONFICIENDI ET CONSERVANDI ACTA
 **Art. 116** – § 1. Libellus, quo causa introducitur, debet:
 
 > 1º exprimere coram quo tribunali causa introducatur;
->
+
 > 2º circumscribere obiectum causae, scilicet determinare matrimonium de quo agitur, exhibere declarationis nullitatis petitionem, proponere, etsi non necessario verbis technicis, rationem petendi seu caput vel capita nullitatis quibus matrimonium impugnatur;
->
+
 > 3º indicare saltem generatim quibus factis et probationibus innitatur actor ad evincenda ea quae asseruntur;
->
+
 > 4º subscribi ab actore vel eius procuratore, appositis die, mense et anno, necnon loco in quo actor vel eius procurator habitant, aut residere se dixerint actorum recipiendorum gratia;
->
+
 > 5º indicare domicilium vel quasi-domicilium alterius coniugis (cf. can. 1504).
 
 § 2. Libello addantur exemplar authenticum celebrati matrimonii atque, si casus ferat, documentum de statu civili partium.
@@ -706,11 +702,11 @@ ET DE MODO CONFICIENDI ET CONSERVANDI ACTA
 **Art. 121** – § 1. Libellus reici potest tantum:
 
 > 1º si tribunal incompetens sit;
->
+
 > 2º si petitio sine dubio exhibita sit ab eo qui impugnandi matrimonium iure non pollet (cf. artt. 92-93; 97, §§ 1-2; 106, § 2);
->
+
 > 3º si non servata sint praescripta art. 116, § 1, nn. 1-4;
->
+
 > 4º si certo pateat ex ipso libello petitionem quolibet carere fundamento, neque fieri posse, ut aliquod ex processu fundamentum appareat (cf. can. 1505, § 2).
 
 § 2. Decretum saltem summarie motiva reiectionis exprimere et quam primum parti actrici et, si casus ferat, defensori vinculi notificari debet (cf. can. 1617).
@@ -800,9 +796,9 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 140** – Si die et hora ad formulam dubii concordandam praestitutis actor neque per se neque per procuratorem comparuerit nec idoneam excusationem attulerit:
 
 > 1º praeses vel ponens eum citet iterum;
->
+
 > 2º si actor novae citationi non paruerit, causa a praeside vel ponente deserta declarabitur, nisi pars conventa vel promotor iustitiae, ad normam art. 92, n. 2, instet pro matrimonii nullitate;
->
+
 > 3º quod si postea in processu intervenire velit, servetur art. 139 (cf. can. 1594).
 
 **Art. 141** – Quoad partem cuius absentia a iudicio declarata fuerit servetur art. 134, § 3.
@@ -817,7 +813,7 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 143** – Si coniux moriatur durante processu:
 
 > 1º causa nondum conclusa, instantia suspenditur donec alter coniux vel alius, cuius intersit, instet pro prosecutione; quo in casu legitimum interesse probandum est;
->
+
 > 2º causa vero ad normam art. 237 conclusa, iudex procedere debet ad ulteriora, citato procuratore, si adsit, secus defuncti herede vel successore (cf. cann. 1518; 1675, § 2).
 
 **Art. 144** – § 1. Si a munere cesset curator vel procurator, qui sit ad normam art. 101, § 2 necessarius, instantia interim suspenditur (cf. can. 1519, § 1).
@@ -886,7 +882,7 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 159** – § 1. Defensori vinculi et partium advocatis ius est:
 
 > 1º examini partium, testium et peritorum adesse, nisi iudex, ad advocatos quod attinet, propter rerum et personarum adiuncta censuerit secreto esse procedendum;
->
+
 > 2º acta iudicialia, etsi nondum publicata, invisere et documenta a partibus producta recognoscere (cf. cann. 1678, § 1; 1559).
 
 § 2. Examini, de quo in § 1, n. 1, partes assistere nequeunt (can. 1678, § 2).
@@ -1010,9 +1006,9 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 § 2. Salvo praescripto art. 196, § 2, n. 2, ab obligatione respondendi eximuntur:
 
 > 1º clerici, quod attinet ad ea quae ipsis manifestata sunt ratione sacri ministerii;
->
+
 > 2º civitatum magistratus, medici, obstetrices, advocati, notarii aliique qui ad secretum officii etiam ratione praestiti consilii tenentur, quod attinet ad negotia huic secreto obnoxia;
->
+
 > 3º qui ex testificatione sua sibi aut coniugi aut proximis consanguineis vel affinibus infamiam, periculosas vexationes, aliave mala gravia obventura timent (cf. can. 1548, § 2).
 
 **Art. 195** – Omnes possunt esse testes, nisi expresse iure repellantur vel in totum vel ex parte (can. 1549).
@@ -1022,7 +1018,7 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 § 2. Incapaces habentur:
 
 > 1º qui partes sunt in causa, aut partium nomine in iudicio consistunt, iudex eiusve assistentes, advocatus aliique qui partibus in eadem causa assistunt vel astiterunt; ideo cavendum est ne huiusmodi munera in causa assumant qui per suum testimonium aliquid conferre possint ad veritatem detegendam;
->
+
 > 2º sacerdotes, quod attinet ad ea omnia quae ipsis ex confessione sacramentali innotuerunt, etsi poenitens eorum manifestationem petierit; immo audita a quovis et quoquo modo occasione confessionis, ne ut indicium quidem veritatis recipi possunt (cf. can. 1550, § 2).
 
 **Art. 197** – Pars, quae testem induxit, potest eius examini renuntiare; sed altera pars vel defensor vinculi postulare possunt ut nihilominus testis examinetur (cf. can. 1551).
@@ -1036,13 +1032,13 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 201** – In aestimandis testimoniis iudex, requisitis, si opus sit, testimonialibus litteris, consideret:
 
 > 1º quae condicio sit personae, quaeve honestas;
->
+
 > 2º utrum de scientia propria, praesertim de visu et auditu proprio testificetur, an de sua opinione, de fama, aut de auditu ab aliis;
->
+
 > 3º quandonam cognoverit ea quae asserit, praesertim num tempore non suspecto, seu quando partes nondum cogitaverant de causa introducenda;
->
+
 > 4º utrum testis constans sit et firmiter sibi cohaereat, an varius, incertus vel vacillans;
->
+
 > 5º utrum testimonii contestes habeat, aliisve probationis elementis confirmetur necne (cf. can. 1572).
 
 **Art. 202** – Unius testis depositio plenam fidem facere non potest, nisi agatur de teste qualificato qui deponat de rebus ex officio gestis, aut rerum et personarum adiuncta aliud suadeant (can. 1573).
@@ -1076,9 +1072,9 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 § 2. Singillatim:
 
 > 1º in causis ob defectum usus rationis, quaerat utrum anomalia graviter tempore celebrationis matrimonii usum rationis perturbaverit; qua intensitate et quibus indiciis sese revelaverit;
->
+
 > 2º in causis ob defectum discretionis iudicii, quaerat qualis fuerit anomaliae effectus in facultatem criticam et electivam ad decisiones graves eliciendas, peculiariter ad statum vitae libere eligendum;
->
+
 > 3º in causis denique ob incapacitatem assumendi obligationes matrimonii essentiales, quaerat quaenam sit natura et gravitas causae psychicae ob quam pars non tantum gravi difficultate sed etiam impossibilitate laboret ad sustinendas actiones matrimonii obligationibus inhaerentes.
 
 § 3. Peritus in suo voto singulis capitibus in decreto iudicis definitis iuxta propriae artis et scientiae praecepta respondere debet; caveat autem ne limites sui muneris ultragrediens iudicia quae ad iudicem spectant emittat (cf. cann. 1577, § 1; 1574).
@@ -1258,11 +1254,11 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 250** – Sententia debet:
 
 > 1º definire quaestionem coram tribunali agitatam, data singulis dubiis congrua responsione;
->
+
 > 2º exponere argumenta seu motiva, in iure et in facto, quibus dispositiva sententiae pars innititur;
->
+
 > 3º apponere, si casus ferat, vetitum de quo in art. 251;
->
+
 > 4º statuere de expensis iudicialibus (cf. can. 1611).
 
 **Art. 251** – § 1. Si pars in processu absolute impotens vel matrimonii incapax reperta fuerit incapacitate permanenti, vetitum sententiae apponatur quo, inconsulto ipso tribunali quod sententiam fert, a matrimonio novo ineundo prohibeatur.
@@ -1354,19 +1350,19 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 270** – Ad normam can. 1620, sententia vitio insanabilis nullitatis laborat, si:
 
 > 1º lata est a iudice absolute incompetenti;
->
+
 > 2º lata est ab eo, qui careat potestate iudicandi in tribunali in quo causa definita est;
->
+
 > 3º iudex vi vel metu gravi coactus sententiam tulit;
->
+
 > 4º iudicium factum est sine iudiciali petitione, de qua in art. 114, vel non institutum fuit adversus aliquam partem conventam;
->
+
 > 5º lata est inter partes, quarum altera saltem non habeat personam standi in iudicio;
->
+
 > 6º nomine alterius quis egit sine legitimo mandato;
->
+
 > 7º ius defensionis alterutri parti denegatum fuit;
->
+
 > 8º controversia ne ex parte quidem definita est.
 
 **Art. 271** – Querela nullitatis, de qua in art. 270, proponi potest per modum exceptionis in perpetuum, per modum vero actionis intra decem annos a die publicationis sententiae (cf. can. 1621).
@@ -1374,15 +1370,15 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 272** – Sententia vitio sanabilis nullitatis dumtaxat laborat, si:
 
 > 1º lata est a non legitimo numero iudicum, contra praescriptum art. 30;
->
+
 > 2º motiva seu rationes decidendi non continet;
->
+
 > 3º subscriptionibus caret iure praescriptis;
->
+
 > 4º non refert indicationem anni, mensis, diei et loci in quo prolata fuit;
->
+
 > 5º actu iudiciali nullo innititur, cuius nullitas non sit sanata;
->
+
 > 6º lata est contra partem legitime absentem ad normam art. 139, § 2 (cf. can. 1622).
 
 **Art. 273** – Querela nullitatis in casibus, de quibus in art. 272, proponi potest intra tres menses a notitia publicationis sententiae; quo termino elapso, sententia ipso iure censetur sanata (cf. can. 1623).
@@ -1416,13 +1412,13 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 280** – § 1. Non est locus appellationi:
 
 > 1º a sententia ipsius Summi Pontificis vel Signaturae Apostolicae;
->
+
 > 2º a sententia vitio nullitatis infecta, nisi cumuletur cum querela nullitatis ad normam art. 274, § 3;
->
+
 > 3º a sententia quae in rem iudicatam transiit;
->
+
 > 4º a iudicis decreto vel a sententia interlocutoria, quae non habeant vim sententiae definitivae, nisi cumuletur cum appellatione a sententia definitiva;
->
+
 > 5º a sententia vel a decreto in causa de qua ius cavet expeditissime rem esse definiendam (can. 1629).
 
 § 2. Praescriptum autem, de quo in § 1, n. 3, haud respicit sententiam qua ipsa causa principalis nullitatis matrimonii definitur (cf. can. 1643).
@@ -1531,13 +1527,13 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 303** – § 1. Episcopus dioecesanus quoad tribunal dioecesanum, coetus vero Episcoporum vel Episcopus ab eis designatus quoad tribunal interdioecesanum, statuat normas:
 
 > 1º de expensis iudicialibus solvendis vel compensandis;
->
+
 > 2º de procuratorum, advocatorum, peritorum et interpretum honorariis deque testium indemnitate;
->
+
 > 3º de gratuito patrocinio vel expensarum deminutione concedendis;
->
+
 > 4º de refectione damnorum si quae alteri parti forte illata fuerint;
->
+
 > 5º de pecuniae deposito vel cautione praestanda circa expensas solvendas et damna reficienda (cf. can. 1649, § 1).
 
 § 2. In his normis statuendis, Episcopus peculiarem naturam causarum matrimonialium prae oculis habeat, quae postulat ut, quantum fieri potest, uterque coniux processui nullitatis intersit (cf. art. 95, § 1).
@@ -1551,11 +1547,11 @@ Art. 126 – § 1. In decreto, quo actoris libellus admittitur, debet praeses pa
 **Art. 306** – In statuendis normis, de quibus in art. 303, § 1, n. 3, Episcopus haec opportune prae oculis habeat:
 
 > 1º qui exemptionem ab expensis iudicialibus vel earum deminutionem et gratuitum patrocinium vult obtinere, Vicario iudiciali vel praesidi libellum tradere debet, probationibus vel documentis adductis, quibus quaenam sit eius oeconomica condicio demonstret;
->
+
 > 2º debet autem causa, praesertim si agatur de quaestione incidenti ab eodem proposita, praesumpto bono iure frui;
->
+
 > 3º Vicarius iudicialis aut praeses, si opportunum duxerit, exquirat, ante concessionem gratuiti patrocinii vel expensarum deminutionis, votum promotoris iustitiae et vinculi defensoris, ad eosdem transmissis libello et documentis;
->
+
 > 4º exemptio totalis vel partialis expensarum praesumitur perseverare in ulteriore instantia, nisi praeses eam iusta de causa revocet.
 
 **Art. 307** – § 1. Si praeses censet gratuitum patrocinium concedendum esse, a Vicario iudiciali postulet ut designare velit advocatum qui gratuitum patrocinium suscipiat.
@@ -1575,8 +1571,6 @@ Hanc instructionem, de mandato Summi Pontificis Ioannis Pauli II pro hac vice da
 **+ Bruno Bertagna** *a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Concilium Vaticanum II, Const. past. *Gaudium et spes*, n. 48d.
 

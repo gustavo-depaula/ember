@@ -1,9 +1,5 @@
 # Notification à propos de l'ouvrage «Mary and human liberation» du P. Tissa Balasuriya, O.M.I., 2 janvier 1997
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 *** NOTIFICATION À PROPOS DE L’OUVRAGE « MARY AND HUMAN LIBERATION » DU P. TISSA BALASURIYA, O.M.I.***\*
@@ -86,5 +82,3 @@ Rome, au Siège de la Congrégation pour la Doctrine de la Foi , le 2 janvier 19
 \(7\) Cf. Concile Vatican II, Const. dogm. *Dei Verbum*, 8-9.
 
 \(8\) Cf. Concile Vatican I, Const. dogm. *Pastor aeternus*, *DS* 3074 ; Concile Vatican II, Const. dogm. *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html)*, 18, 22, 25.
-
-[](#top)

@@ -1,9 +1,5 @@
 # A Hittani Kongregáció útmutatója a szexualitás banalizálásával kapcsolatosan a "Világ világossága" című könyv néhány értelmezésére vonatkozóan
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **A Hittani Kongregáció útmutatója a szexualitás banalizálásával kapcsolatosan a "Világ világossága" című könyv néhány értelmezésére vonatkozóan**
 
 XVI. Benedek a „Világ világossága” című interjúkötetének megjelenése kapcsán olyan különböző helytelen értelmezések terjedtek el, amelyek a Katolikus Egyháznak a szexuál erkölcs néhány kérdésére vonatkozó álláspontjával kapcsolatban zavart okoztak. A pápa gondolatát gyakran manipulálták szavainak értelmétől távol álló célokból és érdekekből, ami nyilvánvalónak bizonyul, ha egészében olvassuk azokat a fejezeteket, ahol említésre kerül az emberi szexualitás. A Szentatya szándéka világosan látszik: újra felfedezni Isten tervének nagyságát a szexualitásra vonatkozóan, elkerülve annak a ma annyira elterjedt banalizálását.  
@@ -21,5 +17,3 @@ Egyesek XVI. Benedek szavait az úgynevezett „kisebb rossz” elmélet szerint
 Végül az AIDS elleni küzdelemben a Katolikus Egyház tagjainak és intézményeinek tudniuk kell, hogy szükséges az emberekhez közel lenni, kezelve a betegeket és tanítva mindenkit, hogy megélhessék a nemi élettől való tartózkodást a házasság előtt és a hűséget a házasságon belül. Erre vonatkozóan el kell ítélnünk azokat a magatartásformákat, amelyek banalizálják a szexualitást, mert – ahogyan a pápa mondja – éppen ezek a veszélyes okai annak, hogy sok ember a szexualitásban nem látja szeretetének kifejeződését. „Ezért a szexualitás banalizálása elleni küzdelem is része a nagy erőfeszítésnek, hogy a szexualitást pozitívan értékeljük és kifejthesse pozitív hatását a maga teljességében vett emberre”.
 
 \[www.katolikus.hu\]
-
-[](#top)

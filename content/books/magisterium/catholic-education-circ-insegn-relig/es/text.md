@@ -1,9 +1,5 @@
 # Carta circular N. 520/2009 a los presidentes de las Conferencias episcopales, 5 mayo 2009
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CARTA CIRCULAR N. 520/2009 A LOS EMINENTÍSIMOS Y EXCELENTÍSIMOS** **PRESIDENTES DE LAS CONFERENCIAS EPISCOPALES SOBRE LA ENSEÑANZA DE LA RELIGIÓN EN LA ESCUELA** *Roma, el 5 de mayo de 2009*
 
 *Eminencia/Excelencia Reverendísima,*
@@ -116,5 +112,3 @@ Devotísimo en el Señor
 *Prefecto*
 
 **Jean-Louis BRUGUÈS, O.P,** *Secretario*
-
-[](#top)

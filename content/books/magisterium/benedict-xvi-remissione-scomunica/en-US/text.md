@@ -2,8 +2,6 @@
 
 *LETTER OF HIS HOLINESS POPE BENEDICT XVI TO THE BISHOPS OF THE CATHOLIC CHURCH CONCERNING THE REMISSION OF THE EXCOMMUNICATION OF THE FOUR BISHOPS CONSECRATED BY ARCHBISHOP LEFEBVRE*
 
-* *
-
 *Dear Brothers in the Episcopal Ministry!*
 
 The [remission of the excommunication of the four Bishops](http://www.vatican.va/roman_curia/congregations/cbishops/documents/rc_con_cbishops_doc_20090121_remissione-scomunica_en.html) consecrated in 1988 by Archbishop Lefebvre without a mandate of the Holy See has for many reasons caused, both within and beyond the Catholic Church, a discussion more heated than any we have seen for a long time. Many Bishops felt perplexed by an event which came about unexpectedly and was difficult to view positively in the light of the issues and tasks facing the Church today. Even though many Bishops and members of the faithful were disposed in principle to take a positive view of the Pope’s concern for reconciliation, the question remained whether such a gesture was fitting in view of the genuinely urgent demands of the life of faith in our time. Some groups, on the other hand, openly accused the Pope of wanting to turn back the clock to before the Council: as a result, an avalanche of protests was unleashed, whose bitterness laid bare wounds deeper than those of the present moment. I therefore feel obliged to offer you, dear Brothers, a word of clarification, which ought to help you understand the concerns which led me and the competent offices of the Holy See to take this step. In this way I hope to contribute to peace in the Church.

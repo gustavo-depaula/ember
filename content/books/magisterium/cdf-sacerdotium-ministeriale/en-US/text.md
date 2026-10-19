@@ -1,9 +1,5 @@
 # Letter to Bishops of the Catholic Church on Certain Questions Concerning the Minister of the Eucharist
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***LETTER TO BISHOPS OF THE CATHOLIC CHURCH ON CERTAIN QUESTIONS CONCERNING THE MINISTER OF THE EUCHARIST***
@@ -98,5 +94,3 @@ At Rome, from the offices of the Sacred Congregation for the Doctrine of the Fai
 ¹¹ Cf. John Paul II, letter *Novo incipiente nostro*, 10: *AAS* 71 (1979) 411-415. Concerning the value of the desire for the sacrament, cf. Council of Trent, decree *De Iustificatione*, chap. 4: DS 1524; decree *De Sacramentis*, can. 4: DS 1604; Vatican Council II, *Lumen Gentium*, 14; Holy Office, *Letter to the Archbishop of Boston*, Aug. 8, 1949: DS 3870, 3872.
 
 ¹² Cf. Vatican Council II, *Lumen Gentium*, 23.
-
-[](#top)

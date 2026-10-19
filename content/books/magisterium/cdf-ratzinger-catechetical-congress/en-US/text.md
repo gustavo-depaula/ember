@@ -1,9 +1,5 @@
 # Current Doctrinal Relevance of the Catechism of the Catholic Church
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***ADDRESS OF CARDINAL JOSEPH RATZINGER***
@@ -105,5 +101,3 @@ One could perhaps marvel over the relatively reduced role which Christology has 
 The original function of the Decalogue - to recall to us the ultimate depth of our reason - is not abolished by the encounter with Christ, but only led to its full maturity. An ethics that in listening to revelation also wishes to be authentically rational, in this way responds precisely to the encounter with Christ which the new Covenant gives us.
 
 Those who search for a new theological system in the *Catechism,* or for surprising new hypotheses, will be disappointed. This is not the concern of the *Catechism*. Drawing from Sacred Scripture and the complex richness of tradition in its many forms and inspired by the Second Vatican Council, it offers an organic vision of the entirety of the Catholic faith, which is beautiful in its entirety - with a beauty in which the splendour of the truth shines forth. The present relevance of the *Catechism* is the relevance of the truth formulated and thought afresh once again. This relevance will remain intact far beyond the murmurings of its critics.
-
-[](#top)

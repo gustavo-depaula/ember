@@ -1,13 +1,5 @@
 # DEKLARACJA O ZNACZENIU POTWIERDZENIA PRZEKŁADÓW FORMUŁ SAKRAMENTALNYCH, 25 stycznia 1974 r.
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 ŚWIĘTA KONGREGACJA NAUKI WIARY

@@ -149,17 +149,17 @@ auf dem *gewöhnlichen Weg* zu gehen, um sie zum Himmel zu führen!«. [^62]
 52\. Vom Himmel bis zur Erde bleibt die Aktualität der heiligen Theresia vom Kinde Jesus und vom Heiligen Antlitz in ihrer ganzen „kleinen Größe“ erhalten.
 
 > In einer Zeit, die uns dazu bringen will, uns in unsere eigenen Interessen zu verschließen, zeigt uns die kleine Therese, wie schön es ist, das eigene Leben zu einem Geschenk zu machen.
->
+
 > In einem Augenblick, in dem es vornehmlich um oberflächlichste Bedürfnisse geht, ist sie Zeugin der Radikalität des Evangeliums.
->
+
 > In einer Zeit des Individualismus lässt sie uns den Wert der Liebe entdecken, die zur Fürsprache wird.
->
+
 > In einem Augenblick, in dem der Mensch von der Größe und von neuen Formen der Macht besessen ist, zeigt sie uns den Weg der Kleinheit.
->
+
 > In einer Zeit, in der viele Menschen ausgesondert werden, lehrt sie uns die Schönheit der Fürsorge und des Daseins für die Anderen.
->
+
 > In einem komplexen Augenblick kann sie uns helfen, die Einfachheit, den absoluten Vorrang der Liebe, des Vertrauens und der Hingabe wiederzuentdecken und eine gesetzes- oder ethikzentrierte Logik zu überwinden, die das christliche Leben mit Pflichten und Vorschriften füllt und die Freude des Evangeliums einfriert.
->
+
 > In einer Zeit des Rückzugs und der Abschottung lädt die kleine Therese uns, die wir von der Anziehungskraft Jesu Christi und seines Evangeliums erfasst wurden, zum missionarischen Aufbruch ein.
 
 53\. Eineinhalb Jahrhunderte nach ihrer Geburt ist die kleine Therese lebendiger denn je inmitten der pilgernden Kirche, im Herzen des Volkes Gottes. Sie geht mit uns und tut Gutes auf Erden, wie sie es sich so sehr gewünscht hat. Das schönste Zeichen ihrer geistlichen Lebendigkeit sind die zahllosen „Rosen“, die Theresia verbreitet, das heißt die Gnaden, die Gott uns auf ihre liebevolle Fürsprache hin schenkt, um uns auf dem Weg des Lebens beizustehen.

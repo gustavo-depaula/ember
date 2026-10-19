@@ -1,9 +1,5 @@
 # Risposte a quesiti riguardanti alcuni aspetti circa la dottrina sulla Chiesa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 *RISPOSTE A QUESITI RIGUARDANTI ALCUNI ASPETTI CIRCA LA DOTTRINA SULLA CHIESA*
@@ -61,8 +57,6 @@ D’altra parte l’universalità propria della Chiesa, governata dal Successore
 ------------------------------------------------------------------------
 
 \[\]
-
-[](#top)
 
 [^2]: \[\] Cf. PAOLO VI, *Allocuzione* del 29 settembre 1963: AAS 55 \[1963\] 847-852.
 

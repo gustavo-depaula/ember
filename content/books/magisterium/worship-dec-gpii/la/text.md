@@ -1,16 +1,10 @@
 # Decretum de cultu liturgico in honorem beati Ioannis Pauli II, Papae, tribuendo
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](http://www.vatican.va/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
 ***DECRETUM***
 
 ***DE CULTU LITURGICO IN HONOREM BEATI IOANNIS PAULI II, PAPAE, TRIBUENDO***
-
-*** ***
 
 Praecipuitatis mira virtute sua, quam universa catholica Ecclesia ubique per orbem terrarum diffusa agnoscit, beatificatio Venerabilis Ioannis Pauli II, felicis recordationis, die 1 mensis maii anno 2011 apud Basilicam Sancti Petri in Urbe, Summo Pontifice Benedicto XVI praesidente, celebranda, praestat. Qua attenta eminentia ac petitionibus innumeris circa cultum liturgicum in honorem proximi Beati iuxta locos et modos iure statutos perpensis, haec Congregatio de Cultu Divino et Disciplina Sacramentorum quae de hac re decreta sunt publici iuris facere properavit.
 
@@ -41,5 +35,3 @@ Contrariis quibuslibet minime obstantibus.
 (**Antonius Card. Cañizares Llovera**) *Praefectus*
 
 (**+ Iosephus Augustinus Di Noia, OP**) *Archiepiscopus a Secretis*
-
-[](#top)

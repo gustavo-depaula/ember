@@ -1,9 +1,5 @@
 # Ad exsequendam ecclesiasticam legem - Lettera ai Vescovi e altri Ordinari e Gerarchi della Chiesa Cattolica interessati circa i delitti più gravi riservati alla Congregazione per la Dottrina della Fede, 18 maggio 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 LETTERA ***AD EXSEQUENDAM ECCLESIASTICAM LEGEM*** AI VESCOVI E ALTRI ORDINARI E GERARCHI  
@@ -50,15 +46,12 @@ Le cause di questo genere sono soggette al segreto pontificio.
 Con la presente lettera, inviata per mandato del Sommo Pontefice a tutti i vescovi della Chiesa cattolica, ai superiori generali degli istituti religiosi clericali di diritto pontificio e delle società di vita apostolica clericali di diritto pontificio e agli altri ordinari e gerarchi interessati, si auspica che non solo siano evitati del tutto i delitti più gravi, ma soprattutto che, per la santità dei chierici e dei fedeli da procurarsi anche mediante necessarie sanzioni, da parte degli ordinari e dei gerarchi ci sia una sollecita cura pastorale.
 
 *Roma, dalla sede della Congregazione per la dottrina della fede, 18 maggio 2001.*  
-* *  
 
 **Joseph card. Ratzinger** *Prefetto*
 
 **Tarcisio Bertone, SDB** *Arcivescovo emerito di Vercelli Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: \[\] Ioannes Paulus II, [Constitutio apostolica *Pastor bonus* de Romana curia, 28.6.1988, art. 52](/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-roman-curia_it.html#CONGREGAZIONI): "Acta Apostolicae Sedis" (AAS) 80 (1988), 874.
 

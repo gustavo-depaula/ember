@@ -75,7 +75,7 @@ Por su misma naturaleza, este género ofrece la máxima oposición al canto greg
 11\. En este particular obsérvense las normas siguientes:
 
 > A\) El *Kyrie*, *Gloria*, *Credo*, etc., de la misa deben conservar la unidad de composición que corresponde a su texto. No es, por tanto, lícito componerlos en piezas separadas, de manera que cada una de ellas forme una composición musical completa, y tal que pueda separarse de las restantes y reemplazarse con otra.
->
+
 > B\) En el oficio de vísperas deben seguirse ordinariamente las disposiciones del *Caeremoniale episcoporum*, que prescribe el canto gregoriano para la salmodia y permite la música figurada en los versos del *Gloria Patri* y en el *himno*.
 
 Sin embargo, será lícito en las mayores solemnidades alternar, con el canto gregoriano del coro, el llamado de contrapunto, o con versos de parecida manera convenientemente compuestos.
@@ -85,7 +85,7 @@ También podrá permitirse alguna vez que cada uno de los salmos se ponga entera
 Pero quedan para siempre excluidos y prohibidos los salmos llamados de concierto.
 
 > C\) En los himnos de la Iglesia consérvese la forma tradicional de los mismos. No es, por consiguiente, lícito componer, por ejemplo, el *Tantum ergo* de manera que la primera estrofa tenga la forma de *romanza*, *cavatina* o *adagio*, y el *Genitori* de *allegro*.
->
+
 > D\) Las *antífonas* de vísperas deben ser cantadas ordinariamente con la melodía gregoriana que les es propia; mas si en algún caso particular se cantasen con música, no deberán tener, de ningún modo, ni la forma de melodía de concierto, ni la amplitud de un *motete* o de una *cantata*.  
 
 **V. CANTORES**

@@ -1,15 +1,5 @@
 # Gaudium et spes
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Pastorální konstituce o církvi v dnešním světě**
@@ -45,8 +35,6 @@ Proto posvátný sněm hlásá vznešené povolání člověka, uznává v něm 
 **ÚVODNÍ VÝKLAD**
 
 **POSTAVENÍ ČLOVĚKA V DNEŠNÍM SVĚTĚ**
-
-** **
 
 **NADĚJE A ÚZKOST**
 
@@ -318,8 +306,6 @@ Tato solidárnost má stále růst až do dne, kdy bude dovršena a kdy lidé sp
 
 **LIDSKÁ ČINNOST VE SVĚTĚ**
 
-** **
-
 **NASTÍNĚNÍ PROBLÉMU**
 
 **33** Člověk se vždy snažil rozvíjet svůj život prací a důvtipem; zejména pomocí vědy a techniky nyní rozšířil a neustále rozšiřuje svou nadvládu téměř nad celou přírodou. Rozvojem nejrůznějších prostředků mezinárodních styků se lidská rodina ponenáhlu chápe a ustavuje jako jedno celosvětové společenství. Z toho vyplývá, že mnoho dobrého, co kdysi člověk očekával především od vyšších sil, dnes si už opatří vlastním přičiněním.
@@ -375,8 +361,6 @@ Neboť hodnoty lidské důstojnosti, bratrského společenství a svobody, všec
 **KAPITOLA 4 **
 
 **ÚKOL CÍRKVE V DNEŠNÍM SVĚTĚ**
-
-** **
 
 **VZÁJEMNÝ VZTAH MEZI CÍRKVÍ A SVĚTEM**
 
@@ -520,8 +504,6 @@ Konečně sami manželé, stvoření k obrazu živého Boha a začleněni v opra
 
 **ROZVOJ KULTURY**
 
-** **
-
 **ÚVOD**
 
 **53** K lidské osobě patří to, že nemůže dospět k pravému a plnému lidství jinak než prostřednictvím kultury, to znamená záměrným rozvíjením hodnot přírody a ducha. Kdekoli tedy jde o lidský život, příroda a kultura velmi těsně souvisí.
@@ -533,8 +515,6 @@ Z toho plyne, že kultura má nutně dějinnou a společenskou stránku, a slovo
 **ODDÍL 1**
 
 **SITUACE KULTURY V DNEŠNÍM SVĚTĚ**
-
-** **
 
 **NOVÉ ZPŮSOBY ŽIVOTA**
 
@@ -604,8 +584,6 @@ To vše též vyžaduje, aby člověk mohl – pokud zachovává mravní řád a
 
 **NĚKTERÉ NALÉHAVĚJŠÍ ÚKOLY KŘESŤANŮ V KULTUŘE**
 
-** **
-
 **PRÁVO VŠECH LIDÍ NA KULTURU, JEHO UZNÁNÍ A USKUTEČNĚNÍ**
 
 **60** Jelikož se dnes naskýtá možnost osvobodit množství lidí od bídy nevědomosti, je povinností nanejvýš odpovídající naší době, a to zvláště pro křesťany, všemi silami se přičinit, aby se jak v hospodářství, tak v politice, jak na národním, tak na mezinárodním poli činila zásadní rozhodnutí, kterými by se všude a všem přiznalo a uskutečnilo právo na civilizaci přiměřenou důstojnosti lidské osobnosti, bez rozdílu rasy, pohlaví, národnosti, náboženství nebo společenského postavení. Je proto třeba zajistit všem dostatečné množství kulturních hodnot, hlavně takzvanou základní kulturu, aby negramotnost a neschopnost odpovědného jednání nebránily širokým vrstvám v opravdu lidské spolupráci na obecném blahu.
@@ -643,8 +621,6 @@ Teologičtí pracovníci v seminářích a na univerzitách se mají snažit, ab
 **KAPITOLA 3**
 
 **HOSPODÁŘSKO-SPOLEČENSKÝ ŽIVOT**
-
-** **
 
 **NĚKTERÉ STRÁNKY HOSPODÁŘSKÉHO ŽIVOTA**
 
@@ -687,8 +663,6 @@ V hospodářských celcích procházejících vývojem, stejně jako v nových f
 **NĚKTERÉ ZÁSADY**
 
 **TÝKAJÍCÍ SE CELÉHO HOSPODÁŘSKO-SPOLEČENSKÉHO ŽIVOTA**
-
-** **
 
 **PRÁCE, JEJÍ PODMÍNKY A VOLNÝ ČAS**
 
@@ -798,8 +772,6 @@ Pozemské věci jsou ovšem těsně spojeny s tím, co v člověku převyšuje t
 
 **MÍR A SPOLEČENSTVÍ NÁRODŮ **
 
-**  **
-
 **ÚVOD **
 
 **77** V těchto letech, kdy stále ještě na lidi těžce doléhají útrapy a obavy z rozpoutaných nebo hrozících válek, dospěla celá lidská rodina v průběhu svého zrání k nanejvýš rozhodujícímu okamžiku. Pozvolna se sjednocuje a všude si už lépe uvědomuje svou jednotu, nemůže však uskutečnit dílo, které má před sebou – vybudování lidštějšího světa pro všechny lidi všude na zemi –, neobrátí-li se všichni s obnoveným duchem k pravému míru. Proto v naší době začalo zářit novým jasem poselství evangelia, které v souladu s vyššími snahami a tužbami lidstva prohlašuje za blahoslavené tvůrce míru, „neboť budou nazváni Božími dětmi“ (Mt 5,9). 
@@ -823,8 +795,6 @@ Protože lidé jsou hříšní, hrozí jim nebezpečí války a bude hrozit až 
 **ODDÍL 1 **
 
 **VYLOUČENÍ VÁLKY **
-
-**  **
 
 **ZMENŠIT NELIDSKOST VÁLKY **
 
@@ -875,8 +845,6 @@ Nenechme se oklamat nesprávnou nadějí! Nepřestane-li nepřátelství a nená
 **ODDÍL 2 **
 
 **BUDOVÁNÍ MEZINÁRODNÍHO SPOLEČENSTVÍ **
-
-**  **
 
 **PŘÍČINY ROZPORŮ A JAK JE ODSTRANIT **
 
@@ -945,8 +913,6 @@ Konečně je žádoucí, aby se katolíci při plnění svého úkolu v mezinár
 Protože má koncil na zřeteli nesmírné utrpení, které i nyní sužuje převážnou část lidstva, a protože chce povzbudit ke spravedlnosti a Kristově lásce k chudým, považuje za velmi žádoucí vytvořit celosvětový církevní orgán, jenž by měl za úkol vybízet katolickou veřejnost k uskutečňování rozvoje ve strádajících zemích a k sociální spravedlnosti mezi národy. 
 
 **ZÁVĚR **
-
-**  **
 
 **ÚKOL JEDNOTLIVÝCH VĚŘÍCÍCH A MÍSTNÍCH CÍRKVÍ **
 

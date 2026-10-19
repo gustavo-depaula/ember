@@ -1,9 +1,5 @@
 # Messe en mémoire des Souverains Pontifes défunts Paul VI et Jean-Paul I
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CHAPELLE PAPALE EN MÉMOIRE DES SOUVERAINS PONTIFES DÉFUNTS  
 PAUL VI ET JEAN-PAUL I
 
@@ -23,5 +19,3 @@ Présider dans la charité concerne enfin l'Eucharistie, qui est la présence r�
 L'amour serait aveugle sans la vérité. Et c'est pourquoi celui qui doit précéder dans l'amour reçoit du Seigneur la promesse:  *"Simon, Simon... mais moi j'ai prié pour toi, afin que ta foi ne défaille pas"* (*Lc* 22, 32). Le Seigneur voit que Satan cherche "pour vous cribler comme le froment" (*Lc* 22, 31). Alors que cette épreuve concerne tous les disciples, le Christ prie en particulier "pour toi" - pour la foi de Pierre et sur cette prière est fondée la mission "Confirme tes frères". La foi de Pierre ne vient pas de ses propres forces - l'indéfectibilité de la foi de Pierre est fondée sur le prière de Jésus, le Fils de Dieu:  "J'ai prié pour toi, afin que ta foi ne défaille pas". Cette prière de Jésus est le fondement sûr de la fonction de Pierre pour tous les siècles et la prière après la communion peut, à juste titre, dire que les Souverains Pontifes Paul VI et Jean-Paul I ont "avec courage apostolique" confirmé leurs frères:  à une époque où nous voyons comment Satan "crible comme le froment" les disciples du Christ, la foi imperturbable des Papes, fut de façon visible le roc sur lequel repose l'Eglise.
 
 "Je sais que mon Rédempteur est vivant", dit dans la première lecture de notre liturgie le texte de Job - il le dit à un moment d'épreuve extrême; il le dit alors que Dieu se cache et semble être son adversaire. Couvert par le voile de la souffrance, sans connaître son nom ni son visage, Job *"sait"* que son rédempteur est vivant, et cette certitude est sa grande consolation dans les ténèbres de l'épreuve. Jésus a levé le voile qui couvrait pour Job le visage de Dieu:  Oui, notre Rédempteur est vivant, *"et nous tous qui, le visage découvert, réfléchissons comme en un miroir la gloire du Seigneur, nous sommes transformés en cette même image"* dit saint Paul (2 *Co* 3, 18). Notre Rédempteur est vivant - il a un visage et un nom:  Jésus Christ. Nos *"yeux le contempleront"* - c'est cette certitude que nous donne les  Papes défunts et ils nous guident ainsi *"vers la pleine possession de la vérité"*, en nous confirmant dans la foi de notre Rédempteur. Amen.
-
-[](#top)

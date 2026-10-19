@@ -1,9 +1,5 @@
 # Considerações sobre os projectos de reconhecimento legal das uniões entre pessoas homossexuais
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CONSIDERAÇÕES SOBRE OS PROJECTOS DE RECONHECIMENTO LEGAL DAS UNIÕES ENTRE PESSOAS HOMOSSEXUAIS***
@@ -129,5 +125,3 @@ Roma, sede da Congregação para a Doutrina da Fé, 3 de Junho de 2003, memória
 \(17\) Deve, além disso, ter-se presente que existe sempre «  o perigo de uma legislação, que faça da homossexualidade uma base para garantir direitos, poder vir de facto a encorajar uma pessoa com tendências homossexuais a declarar a sua homossexualidade ou mesmo a procurar um parceiro para tirar proveito das disposições da lei  » (Congregação para a Doutrina da Fé, *Algumas Considerações sobre a Resposta a propostas de lei em matéria de não discriminação das pessoas homossexuais*, 24 de Julho de 1992, n. 14).
 
 \(18\) João Paulo II, Carta encíclica *Evangelium vitae*, 25 de Março de 1995, n. 73.
-
-[](#top)

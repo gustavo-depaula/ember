@@ -1,16 +1,10 @@
 # Bibel und Moral, Biblische Wurzeln des christlichen Handelns - Päpstliche Bibelkommission"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 PÄPSTLICHE BIBELKOMMISSION
 
 **BIBEL UND MORAL**
 
 ###### **BIBLISCHE WURZELN DES CHRISTLICHEN HANDELNS**
-
-** **
 
 **[Vorwort](#VORWORT)**
 
@@ -291,13 +285,9 @@ Es ist also darauf zu achten, Altes und Neues Testament nicht gegeneinander zu s
 
  **EINE GEOFFENBARTE MORAL: GÖTTLICHES GESCHENK UND MENSCHLICHE ANTWORT**
 
-** **
-
 **7. **Die Beziehung zwischen göttlichem Geschenk und menschlicher Antwort, zwischen vorausgehendem Handeln Gottes und der Aufgabe des Menschen ist bestimmend für die Bibel und die in ihr geoffenbarten Moral. Von der Schöpfung angefangen, suchen wir die Gaben Gottes zu beschreiben, nach den verschieden Phasen seines Handelns zugunsten der Menschheit und des auserwählten Volkes, und wir nennen auch immer die Aufgaben, die Gott mit seinen Gaben verbunden hat.
 
 Außer der Beziehung, die wir gerade beschrieben haben, sind noch zwei andere Faktoren grundlegend für die biblische Moral. Sie ist nicht durch einen unerbittlichen Moralismus gekennzeichnet, sondern die Vergebung, die denen gewährt wird, die versagt haben, gehört zur Gabe Gottes. Und wie es sich klar im Neuen Testament zeigt, vollzieht sich das irdische Handeln vor dem Horizont des ewigen Lebens, der Gabe, durch die  Gott sein Geben vollendet.**  **
-
-** **
 
 **1. DAS GESCHENK DER SCHÖPFUNG UND SEINE BEDEUTUNG FÜR DIE             MORAL**
 
@@ -1881,7 +1871,5 @@ Wir wünschen, dass unsere Besinnung drei Arten von Reaktionen hervorruft:
 **161**. 2) Wir denken, dass unsere Besinnung, wenn sie Interesse findet, Seelsorger und Theologen anregen könnte, Ausdrucksmittel im Bereich der Medien zu finden, die geeignet sind, die Morallehre der Kirche in ihrem positiven Charakter und in ihrem ganzen Reichtum erfahrbar zu machen. Es ist sicher, dass die Kirche, um Christus treu zu sein und um den Menschen zu dienen, nicht davon absehen kann, die Rechte und Pflichten des Gläubigen und jedes Menschen mit Klarheit zu vertreten, und dass sie daher von bestimmten Regeln und Verboten nicht abweichen kann. Aber der Gegensatz, besonders wenn er die Form eines als notwendig angesehenen Kampfes annimmt, ist nur eines der Kriterien, die wir aufgeführt haben. Die „geoffenbarte Moral“ in ihrer ganzen Weite und Fruchtbarkeit von der Heiligen Schrift her darstellen, könnte auch heißen, die Umrisse einer erneuerten Pädagogik angeben.
 
 **162**. 3) Wir sind überzeugt, dass dieses Dokument der mühsamen und überlegten Erläuterung und Umsetzung bedarf, um wirksam zu werden. Nur so könnte es den Seelsorgern, den pastoralen Helfern, den Katechisten, den Lehrern und nicht zuletzt den christlichen Eltern eine Hilfe bieten – nämlich all denen, die die schöne und unersetzliche Aufgabe haben, die jungen Menschen für das Leben, für den Glauben, für den verantwortlichen Gebrauch ihrer Freiheit zu erziehen und sie auf den Weg des wahren Glückes zu führen, der sein Ziel jenseits der gegenwärtigen Welt hat.
-
-[](#top)
 
 [^1]: Übersetzung aus dem Italienischen von P. Klemens Stock S.J.

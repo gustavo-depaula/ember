@@ -1,9 +1,5 @@
 # Address of His Eminence William Cardinal Levada - Five Hundred Years After St. John Fisher: Pope Benedict’s Initiatives Regarding the Anglican Communion
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Address of His Eminence William Cardinal Levada Prefect of the Congregation for the Doctrine of the Faith***
 
 **St. John Fisher Visitor Lecture Series**
@@ -103,8 +99,6 @@ The unity Christ desires is visible. It is not elusive or even unreachable. Like
 The Eucharist is the summit and the source of Christian life. It is celebrated in notably different ways in the various Churches that make up the Catholic world. Each liturgical rite sheds light on the mystery of the Eucharist—its re-presentation of the sacrifice of Calvary; its strengthening of the Mystical Body, the Church; the Real Presence of our Savior; the foretaste of the heavenly banquet, and so on. May the diversity in unity that is the Eucharist—Joseph Ratzinger has said there is really just one Eucharist with many altars—be a model for the Christian unity to which we are all committed.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. \#1577.
 

@@ -1,13 +1,5 @@
 # Nota esplicativa del Dicastero per la Dottrina della Fede
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERO PER LA DOTTRINA DELLA FEDE**
@@ -21,9 +13,9 @@ Dai tempi di San Paolo VI fino agli ultimi colloqui, svoltisi recentemente press
 A tale riguardo, d’ora in poi:
 
 > 1\. I ministri sacri appartenenti alla Fraternità Sacerdotale San Pio X, sono nello scisma e devono pertanto essere considerati scismatici (cfr. *[Ecclesia Dei](https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_02071988_ecclesia-dei.html)*, 5 c; Pontificio Consiglio per i Testi Legislativi, *[Nota esplicativa sulla scomunica per scisma in cui incorrono gli aderenti al movimento del Vescovo Marcel Lefebvre](https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_19960824_vescovo-lefebvre_it.html)*, 24.08.1996, 5-6), risultando soggetti alla scomunica prevista dal diritto (can. 1364 § 1 CIC).
->
+
 > 2\. Per quanto concerne i fedeli laici, sono da ritenersi scismatici e scomunicati coloro che aderiscono formalmente alla Fraternità Sacerdotale San Pio X alle condizioni stabilite nella *[Nota esplicativa](https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_19960824_vescovo-lefebvre_it.html)* dal Pontificio Consiglio per i Testi Legislativi del 1996 (cfr. *[ibidem](https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_19960824_vescovo-lefebvre_it.html)*, 7), ancora vigente, che questo Dicastero fa propria.
->
+
 > 3\. Si avverte, infine, il santo Popolo di Dio che i ministri sacri della Fraternità Sacerdotale San Pio X amministrano illecitamente i sacramenti e che il sacramento della penitenza da loro amministrato e il matrimonio da loro assistito sono invalidi.
 
 La Chiesa, come madre premurosa, accoglierà con sincero affetto e viva sollecitudine tutti coloro che desiderano tornare alla piena comunione. I Nunzi Apostolici disporranno delle procedure che gli Ordinari potranno utilizzare nei diversi casi.

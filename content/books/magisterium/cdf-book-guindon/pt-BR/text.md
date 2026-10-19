@@ -1,9 +1,5 @@
 # Nota sobre o livro do P. Guidon: «The Sexual Creators, An Ethical proposal for Concerned Christians», 31 de janeiro de 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **NOTA SOBRE O LIVRO DO P. ANDRÉ GUIDON, O.M.I. «THE SEXUAL CREATORS. AN ETHICAL PROPOSAL FOR CONCERNED CHRISTIANS» (UNIVERSITY PRESS OF AMERICA, LANHAM-NEW YORK-LONDON 1986)**\*
@@ -105,5 +101,3 @@ A Congregação, além disso, pede que o Autor confirme e explique publicamente 
 A Congregação pede também que o P. Guindon resolva, numa declaração pública, a contradição, indicada nesta Nota, entre as afirmações feitas ao seu Superior-Geral e o texto do livro *The Sexual Creators*, desenvolvendo deste modo o seu pensamento de forma mais coerente, para dissipar as incongruências presentes no seu livro (como, por exemplo, uma utilização selectiva e inconstante da Tradição e do Magistério), e reconhecer à doutrina do Magistério o próprio lugar e a verdadeira autoridade que lhe competem.
 
 \* *L’Osservatore Romano*, Edição semanal, N. 6, 9 de Fevereiro de 1992, Pág. 6 (70).
-
-[](#top)

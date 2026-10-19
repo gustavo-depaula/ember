@@ -1,9 +1,5 @@
 # Presentation by Card. Ratzinger on the 1st centenary of Card. Newman's death
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 P***RESENTATION BY HIS EMINENCE CARD. JOSEPH RATZINGER ON THE OCCASION OF THE FIRST CENTENARY OF THE DEATH OF CARD. JOHN HENRY NEWMAN***
 
 *Rome, 28 April 1990*
@@ -63,5 +59,3 @@ The image of *ascensus* is exchanged for that of *iter*, whose tiring weight is 
 In the idea of "development" Newman had written his own experience of a never finished conversion and interpreted for us, not only the way of Christian doctrine, but that of the Christian life.
 
 The characteristic of the great Doctor of the Church, it seems to me, is that he teaches not only through his thought and speech but also by his life, because within him, thought and life are interpenetrated and defined. If this is so, then Newman belongs to the great teachers of the Church, because he both touches our hearts and enlightens our thinking.
-
-[](#top)

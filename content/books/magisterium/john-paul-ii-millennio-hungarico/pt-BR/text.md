@@ -2,8 +2,6 @@
 
 ***CARTA APOSTÓLICA DO PAPA JOÃO PAULO II AO POVO CATÓLICO DA NAÇÃO HÚNGARA POR OCASIÃO DO ENCERRAMENTO DO "MILÉNIO HÚNGARO"***
 
-* *
-
 *Ao nosso venerável Irmão Cardeal LÁSZLÓ PASKAI Arcebispo de Esztergom-Budapeste, Primaz da Hungria*
 
 1\. *"A minha alma glorifica ao Senhor e o meu espírito exulta de alegria em Deus, meu Salvador"* (*Lc* 1, 46). Na iminente solenidade da Assunção da Virgem Maria, na Basílica de Esztergom-Budapeste será elevado com especial devoção o seu cântico de louvor a Deus, no momento em que o povo húngaro recorda o glorioso acontecimento do baptismo dos seus antepassados, ocorrido há mil anos por obra de Santo Estêvão. Sem dúvida, esta recordação levará os ânimos a dar graças pelos inúmeros benefícios recebidos durante este milénio, por intercessão da grande "Senhora dos Húngaros". Nesse mesmo dia também eu, espiritualmente presente em companhia do clero e dos fiéis reunidos na Basílica de Esztergom-Budapeste, me unirei ao cântico da Santíssima Virgem:  a minha alma glorifica ao Senhor e o meu espírito exulta de alegria em Deus, meu Salvador.

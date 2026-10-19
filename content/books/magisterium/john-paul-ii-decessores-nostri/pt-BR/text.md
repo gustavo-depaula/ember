@@ -19,11 +19,11 @@ Por isso Nós, Motu proprio, com conhecimento de causa e após amadurecida refle
 II\. A Comissão realiza também uma obra de específica conexão entre a Sé Apostólica e os diversos Organismos internacionais ou nacionais para a América Latina. Concretamente ela está em contacto frequente:
 
 > *a)* com o Conselho Episcopal Latino-Americano e o seu Secretariado Geral, tendo relação continua com os mesmos e seguindo de modo diligente quanto se refere às suas tarefas e iniciativas; de acordo com os competentes organismos da Cúria Romana, ocupa-se sobretudo de examinar as resoluções e propostas formuladas pelo CELAM nas suas próprias reuniões;
->
+
 > *b)* com os Organismos episcopais nacionais e com outras Instituições de ajuda à América Latina;
->
+
 > *c)* com a Conferência Latino-Americana de Religiosos (CLAR), consultando a Congregação, que se chamará para os *Institutos de vida consagrada e as Sociedades de vida apostólica*, especialmente naquilo que se refere à integração e participação dos religiosos na pastoral da Igreja na América Latina e, portanto, às relações da mencionada Confederação com os Bispos diocesanos, com as Conferências Episcopais e com o próprio CELAM;
->
+
 > d\) com as Instituições Católicas Internacionais e outras associações e movimentos que operam na América Latina, escutando oportunamente o parecer do Conselho para os Leigos.
 
 III\. Presidente desta Pontifícia Comissão é o Prefeito da Congregação para os Bispos, o qual será ajudado por um Bispo Vice-Presidente.
@@ -41,9 +41,9 @@ VI\. A Comissão para a América Latina reunir-se-á geralmente de três em trê
 VII\. Para o estudo de questões gerais de maior importância, a Pontifícia Comissão para a América Latina celebra, pelo menos uma vez por ano, Sessão geral para a qual serão convidados, além dos membros da Comissão:
 
 > — O Presidente do Conselho Episcopal Latino-Americano;
->
+
 > — Os Presidentes e os Secretários dos Organismos episcopais locais ou nacionais para a ajuda à Igreja na América Latina e de outras instituições, a critério da Santa Sé;
->
+
 > — Os Presidentes da União de Superiores-Gerais, da União Internacional das Superioras-Gerais e da Conferência Latino-Americana de Religiosos.
 
 VIII\. Num Regulamento, que se submeterá à Nossa aprovação, serão especificadas concretamente e desenvolvidas amplamente as normas, segundo as quais se regerá e funcionará esta Pontifícia Comissão. Tudo o que estabelecemos nesta Carta em forma de « Motu Proprio », ordenamos que fique confirmado e ratificado, sem que obste nada em contrário.

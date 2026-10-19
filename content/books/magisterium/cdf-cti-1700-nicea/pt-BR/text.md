@@ -1,13 +1,5 @@
 # Jesus Cristo, Filho de Deus, Salvador - 1700° aniversário do Concílio Ecumênico de Niceia
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISSÃO TEOLÓGICA INTERNACIONAL
@@ -105,8 +97,6 @@ COMISSÃO TEOLÓGICA INTERNACIONAL
 **Jesus Cristo, Filho de Deus, Salvador**
 
 **1700^(o) aniversário do Concílio Ecumênico de Niceia 325-2025**
-
-** **
 
 **Nota preliminar**
 

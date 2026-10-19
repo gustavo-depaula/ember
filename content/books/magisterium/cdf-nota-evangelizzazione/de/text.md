@@ -1,9 +1,5 @@
 # Lehrmäßige Note zu einigen Aspekten der Evangelisierung
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***LEHRMÄSSIGE NOTE  ZU EINIGEN ASPEKTEN DER EVANGELISIERUNG***
@@ -96,8 +92,6 @@ Papst Benedikt XVI. hat in der dem unterzeichneten Kardinalpräfekten gewährten
 *Titularerzbischof von Sila Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Johannes Paul II., Enzyklika *[Redemptoris missio](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio_ge.html)* (7. Dezember 1990), 47: *AAS* 83 (1991), 293.
 

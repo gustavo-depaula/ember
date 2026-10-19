@@ -1,9 +1,5 @@
 # Considerations on the Delicta graviora
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***CONSIDERATIONS ON THE DELICTA GRAVIORA***
 
 **CARDINAL WILLIAM LEVADA**
@@ -154,9 +150,9 @@ In the category of offences against morality the New Version of the *motu propri
 With regard to the offence of sexual abuse of a minor there are a number of specific developments which have been clarified through the practice of the Congregation for the Doctrine of the Faith:
 
 > a\) The *motu proprio* speaks of “offences with a minor”. This does not signify only physical contact or direct abuse but also includes indirect abuse (for example: showing pornography to a minor, or exposing oneself in front of minors).
->
+
 > b\) The *Code of Canon Law* speaks in can. 1395, §2, of offences with a minor of “under the age of sixteen years.” However, the *motu proprio* speaks rather of “an offence with a minor under the age of eighteen years”. Between the ages of sixteen and eighteen years some “minors” are able to pass and be perceived as adults and sometimes as objects of either homosexual or heterosexual attraction. Some civil legislatures consider a sixteen year old capable of giving consent for sexual activity. The *motu proprio*, however, stigmatises as a more grave offence (*deluctum gravius*) every violation by a cleric of the sixth commandment with a minor under eighteen, whether it be of a paedophile, ephebophile, heterosexual or homosexual nature. This means that the law itself has changed in regard to the age of the victim: before 2001 (except where a special indult may have applied, such as in the United States), for a *delictum gravius* to have been committed, the minor had to be under 16; after 2001, under 18, since a new Church law cannot be applied retroactively.
->
+
 > c\) Some cases of serial sexual abuse of minors between the ages of sixteen and eighteen years committed before 30^(th) April 2001 have been processed according to the norm of can. 1399: “Besides, the cases prescribed in this or in other laws, the external violation of divine or canon law can be punished, and with a just penalty, only when the special gravity of the violation requires it and necessity demands that scandal be prevented or repaired.” Because this canon speaks only of “just penalty” according to can. 1349 the judge is not able, therefore, to threaten perpetual punishments.
 
 The *motu proprio Sacramentorum sanctitatis tutela* imposed a time limit on the *actio criminalis* in these cases of “more grave crimes.” Art. 7, § 1 of the 2010 Motu Proprio indicates a time limit of 20 years, while Art. 7, § 2 states that these 20 years run according to the norm of can. 1362 § 2 *Code of Canon Law* (“Prescription runs from the day on which the delict was committed or, if the delict is continuous or habitual, from the day on which it ceased”). In cases of sexual abuse the twenty years commence from the day on which the minor reaches eighteen years. Moreover, Art 7, § 1 of the 2010 Motu Proprio recognises the right of the Congregation for the Doctrine of the Faith to derogate from the statute of limitation on a case by case basis.
@@ -202,5 +198,3 @@ Our seventh area is **care for both victims and perpetrators.** We know how ofte
 Finally, **commitment and accountability** in this matter must truly be embraced by all of us in the Church. It is especially important to learn from experience that the Church is not served by attempts to conceal the abuse of children to protect her good name.
 
 In conclusion, let me say that I appreciate the invitation to speak to you about a subject both delicate and difficult. I am convinced that the leadership given by our Holy Father Pope Benedict XVI in this area, both as Cardinal Prefect of the Congregation for the Doctrine of the Faith, and all the more so as Supreme Pontiff, should be an example and encouragement for all of us, and merits our gratitude to Almighty God. Finally, let us recall the beautiful words of St. Paul’s Letter to the Ephesians: “Christ loved the church and gave himself up for her, that he might sanctify her, having cleansed her by the washing of water with the word, that he might present the church to himself in splendor, without spot or wrinkle or any such thing, that she might be holy and without blemish” (Eph 5:25-27).
-
-[](#top)

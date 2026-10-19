@@ -1,10 +1,6 @@
 # Mensaje de la Comisión Teológica Internacional con ocasión del Año de la fe, 16 octubre 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- ***Mensaje de la Comisión Teológica Internacional con ocasión del Año de la fe***
+***Mensaje de la Comisión Teológica Internacional con ocasión del Año de la fe***
 
 *Fides quaerens intellectum*, la teología sólo existe en relación con el don de la fe. Presupone la verdad de la fe y se propone manifestar su «insondable riqueza» (*Ef* 3, 8), para la alegría espiritual de toda la comunidad de los creyentes y el servicio a su misión evangelizadora.
 
@@ -19,5 +15,3 @@ El teólogo, pues, trabaja para «inculturar» en la inteligencia humana, bajo l
 El trabajo del teólogo no sólo está arraigado en la fe viva del pueblo cristiano, atento a lo que «el Espíritu dice a las Iglesias» (*Ap* 2, 7), sino que también se orienta al crecimiento de la fe en el pueblo de Dios y a la misión evangelizadora de la Iglesia. En efecto, ¿acaso su tarea no es precisamente la de apuntar a un «conocimiento que genere, alimente, defienda y fortalezca la fe supremamente saludable?» (Agustín, *De Trinitate*, XIV, 1, 3). Por tanto, el teólogo, en su colaboración responsable con el Magisterio, abraza el servicio a la fe del pueblo de Dios como su propia vocación (cf. Instrucción *[Donum veritatis](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_sp.html)*, 24 de mayo de 1990).
 
 Al mismo tiempo, el teólogo es servidor de la alegría cristiana, que es «la alegría de la verdad, *gaudium de veritate*» (Agustín, *Confesiones*, x, 23, 33). Santo Tomás de Aquino distingue en el acto de la fe tres dimensiones: «hay diferencia entre decir “creo en Dios” (*credo Deum*), donde lo considero como el objeto de la fe, y decir “creo a Dios (*credo Deo*), donde lo indico como aquel que atestigua; o “creo en Dios” (*credo in Deum*), donde lo indico como el destinatario de mi acto de fe. Dios puede ser considerado el objeto, el testigo y el fin de la fe; pero si el objeto o el testigo de la fe puede ser también una criatura, el fin último de la fe solamente puede ser Dios, porque nuestro espíritu no puede dirigirse a nadie más que a Dios como a su propio fin» (Tomás de Aquino, *In Ioannem*, c. 6, lectio 3). Por consiguiente, creer en Dios (*credere in Deum*) es el rasgo constitutivo y esencial del dinamismo de la fe. Esto significa que, en su adhesión personal de fe a la Palabra de Dios, el creyente es atraído soberanamente por ese bien absoluto que es la santísima Trinidad. En efecto, es el deseo de bienaventuranza, arraigado en lo más profundo de nosotros mismos, el que pone en tensión al espíritu humano para conducirlo al abandono confiado de toda su vida en el Dios y Padre de nuestro Señor Jesucristo. En este sentido, se puede decir verdaderamente que la fe —y la misma teología, como *scientia fidei* y sabiduría— proporciona a todos los «enamorados de la belleza espiritual» (Agustín, *Regula ad servos Dei*, 8, 1) una pregustación real de la alegría eterna.
-
-[](#top)

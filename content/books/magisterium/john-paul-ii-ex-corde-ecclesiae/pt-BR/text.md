@@ -57,11 +57,11 @@ Faço votos por que estas disposições, fundamentadas no ensinamento do Concíl
 13\. Uma vez que o objectivo de uma Universidade católica é garantir em forma institucional uma presença cristã no mundo universitário perante os grandes problemas da sociedade e da cultura, [^16] ela deve possuir, enquanto *católica*, as seguintes *características essenciais*:
 
 > 1\. uma inspiração cristã não só dos indivíduos, mas também da Comunidade universitária enquanto tal;
->
+
 > 2\. uma reflexão incessante, à luz da fé católica, sobre o tesouro crescente do conhecimento humano, ao qual procura dar um contributo mediante as próprias investigações;
->
+
 > 3\. a fidelidade à mensagem cristã tal como é apresentada pela Igreja;
->
+
 > 4\. o empenho institucional ao serviço do povo de Deus e da família humana no seu itinerário rumo àquele objectivo transcendente que dá significado à vida. [^17]
 
 14\. « À luz destas quatro características, é evidente que para além do ensino, da investigação e dos serviços comuns a todas as Universidades, uma Universidade Católica, em virtude do *empenho institucional*, traz à sua missão a inspiração e a luz da *mensagem cristã*. Numa Universidade Católica, portanto, os ideais, as atitudes e os princípios católicos impregnam e modelam as actividades universitárias de acordo com a natureza e a autonomia próprias de tais actividades. Numa palavra, sendo ao mesmo tempo Universidade e Católica, ela deve ser juntamente uma comunidade de estudiosos, que representam diversos campos do conhecimento humano, e uma instituição académica, na qual o cristianismo está presente dum modo vital ». [^18]

@@ -1,9 +1,5 @@
 # Sobre el uso del pan con poca cantidad de gluten y del mosto come materia eucarística, 24 julio 2003
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **Carta circular a los Presidentes de las Conferencias Episcopales acerca del uso del pan con poca cantidad de gluten y del mosto come materia eucarística**
@@ -60,5 +56,3 @@ Mientras le solicito que transmita la presente a los demás miembros de esa Conf
 
 **+ Joseph Card. Ratzinger**  
 *Prefecto*
-
-[](#top)

@@ -1,15 +1,5 @@
 # Apostolicam actuositatem
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAULUS EPISCOPUS  
@@ -181,11 +171,11 @@ Debita cum auctoritate ecclesiastica relatione servata,[^31] ius est laicis cons
 Hae apostolatus formae sive nomen Actionis Catholicae habeant sive aliud, quae nostris temporibus pretiosum apostolatum exercent, sequentium notarum concursu et cumulata acceptione constituuntur:
 
 > a\) Finis immediatus huiusmodi organizationum finis apostolicus Ecclesiae est, scilicet in ordine ad homines evangelizandos et sanctificandos eorumque conscientiam christiane efformandam ita ut varias communitates variosque ambitus spiritu Evangelii imbuere valeant;
->
+
 > b\) Laici, cooperantes iuxta modum proprium cum Hierarchia, suam experientiam afferunt et responsabilitatem assumunt in iis organizationibus moderandis, in condicionibus perpendendis in quibus actio pastoralis Ecclesiae exercenda sit, atque in elaboranda et exsequenda ratione rerum agendarum;
->
+
 > c\) Laici agunt uniti ad instar organici corporis, ita ut aptius Ecclesiae communitas significetur et efficacior evadat apostolatus;
->
+
 > d\) Laici, sive sponte sese offerentes, sive invitati ad actionem et directam cooperationem cum apostolatu hierarchico, agunt sub superiore moderamine ipsius Hierarchiae, quae potest hanc cooperationem etiam per explicitum mandatum sancire.
 
 Organizationes in quibus hae notae simul sumptae iudicio Hierarchiae reperiuntur, Actio Catholica censendae sunt, etsi ob locorum ac populorum exigentias, varias formas et nomina assumunt.
@@ -269,11 +259,11 @@ Huiusmodi formatio ita ordinanda est ut ratio habeatur totius apostolatus laicor
 31\. Variae formae apostolatus peculiariter congruentem formationem quoque expostulant.
 
 > a\) Quoad apostolatum ad homines evangelizandos et sanctificandos, laici specialiter formandi sunt ad colloquium instaurandum cum aliis, credentibus vel non credentibus, ad nuntium Christi omnibus manifestandum.[^49]
->
+
 > Cum autem nostris temporibus diversi generis materialismus late ubique, etiam inter catholicos, diffundatur, laici non tantum diligentius doctrinam catholicam ediscant, ea peculiariter capita quae in controversiam vocantur, sed etiam contra quamlibet formam materialismi exhibeant testimonium vitae evangelicae.
->
+
 > b\) Quoad instaurationem christianam ordinis rerum temporalium, laici edoceantur de vera significatione et valore bonorum temporalium, tum in se ipsis, tum ad omnes fines personae humanae quod attinet; exerceantur in recto usu rerum et organizatione institutionum, semper attendentes ad bonum commune iuxta principia doctrinae moralis et socialis Ecclesiae. Socialis doctrinae imprimis principia eiusque conclusiones ita laici addiscant, ut capaces reddantur, tum ad operam pro parte sua praestandam doctrinae progressui, tum ad eadem singulis casibus rite applicanda.[^50]
->
+
 > c\) Cum caritatis et misericordiae opera praeclarissimum testimonium christianae vitae efferant, formatio apostolica ad haec quoque exercenda adducere debet, ut discant christifideles ab ipsa pueritia fratribus compati eiusque indigentibus generoso animo subvenire.[^51]
 
 32\. Laicis apostolatui deditis iam exstant multa subsidia, scilicet sessiones, congressus, recollectiones, exercitia spiritualia, frequentes conventus, conferentiae, libri, commentaria, ad altiorem cognitionem Sacrae Scripturae et doctrinae catholicae consequendam, ad vitam spiritualem alendam necnon ad mundi condiciones dignoscendas et aptas methodos inveniendas et excolendas.[^52]

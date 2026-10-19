@@ -1,9 +1,5 @@
 # De mosaica authentia Pentateuchi - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE MOSAICA AUTHENTIA PENTATEUCHI**
@@ -30,7 +26,3 @@ IV\. Utrum, salva substantialiter Mosaica authentia et integritate Pentateuchi, 
 
 Fulcranus G. Vigouroux, P.S.S.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-* *
-
-[](#top)

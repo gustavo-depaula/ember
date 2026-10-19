@@ -21,11 +21,11 @@ I. La Pontificia Comisión para América Latina tiene la tarea primordial de est
 II\. La Comisión realiza también una obra de específica conexión entre la Sede Apostólica y los diversos Organismos supranacionales o nacionales para América Latina. Concretamente, ella está en contacto frecuente:
 
 > *a)* con el Consejo Episcopal Latino-Americano (CELAM) y su Secretariado General, teniendo relación continua con los mismos y siguiendo diligentemente cuanto se refiere a sus tareas y a sus iniciativas, en particular, de acuerdo con los competentes organismos de la Curia Romana, se ocupa de examinar las resoluciones y propuestas formuladas por el CELAM en sus propias reuniones;
->
+
 > *b)* con. los Organismos episcopales nacionales y con otras Instituciones de ayuda a América Latina:
->
+
 > *c)* con la Confederación Latino-Americana de Religiosos (CLAR), consultando a la Congregación, que se llamará para los *Institutos de vida consagrada y Sociedades de vida apostólica*, especialmente por lo que se refiere a la inserción y participación de los religiosos en la pastoral de la Iglesia en América Latina y, por tanto, a las relaciones de dicha Confederación con los obispos diocesanos, con las Conferencias Episcopales y con el mismo CELAM;
->
+
 > *d)* con las Instituciones Católicas Internacionales y otras asociaciones y movimientos que operan en América Latina, escuchando oportunamente el parecer del Consejo para los Laicos.
 
 III\. Presidente de esta Pontificia Comisión es el Prefecto de la Congregación para los Obispos, que será ayudado por un Obispo Vicepresidente. Les asisten, como Consejeros, algunos obispos, elegidos por el Romano Pontífice, tanto de la Curia Romana como de los Episcopados de América Latina.
@@ -39,9 +39,9 @@ VI\. La Comisión para América Latina se reunirá en pleno cada tres meses para
 VII\. Para el estudio de cuestiones generales de mayor importancia, la Pontificia Comisión para América Latina convoca, al menos una vez al año, una sesión general a la cual serán invitados, además de los miembros de la Comisión:
 
 > —  el Presidente del Consejo Episcopal Latino Americano;
->
+
 > — los Presidentes y los Secretarios de los Organismos episcopales nacionales para la ayuda a la Iglesia en América Latina y de otras instituciones, a juicio de la Santa Sede;
->
+
 > — los Presidentes de la Unión de Superiores Generales, de la Unión Internacional de las Superioras Generales y de la Confederación Latino-Americana de Religiosos.
 
 VIII\. En un reglamento, que se someterá a Nuestra aprobación, se especificarán concretamente y se desarrollarán ampliamente las normas según las cuales se regirá y funcionará esta Pontificia Comisión.

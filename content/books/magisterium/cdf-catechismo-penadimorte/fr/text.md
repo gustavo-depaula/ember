@@ -1,15 +1,5 @@
 # Nouvelle formulation du n.2267 du Catéchisme de l’Église Catholique sur la peine de mort - Rescriptum “ex Audientia SS.mi”
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **NOUVELLE FORMULATION DU N.2267 DU *CATÉCHISME DE L'ÉGLISE CATHOLIQUE* SUR LA PEINE DE MORT**

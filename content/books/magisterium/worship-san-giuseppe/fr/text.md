@@ -1,9 +1,5 @@
 # Décret pour la mention du nom divin de saint Joseph dans les prières eucharistiques II, III, IV du Missel Romain, 1er mai 2013
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 CONGRÉGATION POUR LE CULTE DIVIN  
 ET LA DISCIPLINE DES SACREMENTS
 
@@ -102,5 +98,3 @@ III Modlitwa eucharystyczna:
 
 IV Modlitwa eucharystyczna:  
 «z Najświętszą Dziewicą, Bogurodzicą Maryją, **ze świętym Józefem, Jej Oblubieńcem**, z Apostołami...».
-
-[](#top)

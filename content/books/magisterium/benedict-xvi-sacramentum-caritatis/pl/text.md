@@ -501,8 +501,6 @@ Dlatego jest rzeczą konieczną, by w Kościele naprawdę wierzono w tę najświ
 
 **BENEDICTUS PP. XVI**
 
-** **
-
 ------------------------------------------------------------------------
 
 **SPIS TREŚCI**

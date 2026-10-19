@@ -1,9 +1,5 @@
 # Normes Complémentaires à la Constitution Apostolique Anglicanorum coetibus, 4 novembre 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **Normes complémentaires à la Constitution Apostolique *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_fr.html)***
@@ -149,5 +145,3 @@ L'ordinaire, dans l'exercice de sa charge, doit conserver des liens étroits de 
 
 **X Luis F. Ladaria, S.J.**  
 *Archevêque titulaire de Thibica Secrétaire*
-
-[](#top)

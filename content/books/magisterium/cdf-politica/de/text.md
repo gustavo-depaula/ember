@@ -1,9 +1,5 @@
 # Lehrmäßige Note zu einigen Fragen über den Einsatz und das Verhalten der Katholiken im politischen Leben
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***LEHRMÄßIGE NOTE* zu einigen Fragen über den Einsatz und das Verhalten der Katholiken im politischen Leben** 
@@ -75,8 +71,6 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 24. November 2002, dem 
 **X**Tarcisio Bertone, S.D.B. *Erzbischof em. von Vercelli Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *Schrift an Diognet* 5,5; vgl. *Katechismus der Katholischen Kirche*, 2240.
 

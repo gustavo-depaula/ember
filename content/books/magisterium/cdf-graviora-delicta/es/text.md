@@ -1,9 +1,5 @@
 # Carta a los obispos sobre los delitos más graves reservados a la Congregación para la Doctrina de la Fe, 18 mayo 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **CARTA A LOS OBISPOS DE LA IGLESIA CATÓLICA Y A OTROS ORDINARIOS Y JERARCAS SOBRE LOS DELITOS MÁS GRAVES RESERVADOS A LA CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
@@ -19,19 +15,19 @@ Los delitos más graves tanto en la celebración de los sacramentos como contra 
 ― *Delitos contra la santidad del augustísimo sacrificio* *y sacramento de la Eucaristía,* esto es:
 
 > 1° apropiarse o retener para un fin sacrílego, o tirar las especies consagradas[^4];
->
+
 > 2° atentar la celebración litúrgica del sacrificio eucarístico o simularla[^5]:
->
+
 > 3° concelebración prohibida del sacrificio eucarístico con ministros de comunidades eclesiales que no tienen la sucesión apostólica, ni reconocen la dignidad sacramental de la ordenación sacerdotal[^6];
->
+
 > 4° consagrar para un fin sacrílego una materia sin la otra en la celebración eucarística, o de ambas fuera de la celebración eucarística[^7];
 
 ― *Delitos contra la santidad del sacramento de la penitencia*, esto es:
 
 > 1° absolución del cómplice en un pecado contra el sexto mandamiento[^8];
->
+
 > 2° solicitación en el acto o con ocasión o pretexto de la confesión, a un pecado contra el sexto mandamiento del decálogo, si se dirige a pecar con el mismo confesor[^9];
->
+
 > 3° violación directa del sigilo sacramental[^10];
 
 ― *Delitos contra las costumbres*, esto es:
@@ -59,8 +55,6 @@ Mediante esta carta enviada por mandato del Sumo Pontífice a todos los Obispos 
 **+ Tarcisio Bertone, S.D.B.** *Arzobispo emérito de Vercelli Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Juan Pablo II, Const. apost. *Pastor Bonus* sobre la Curia Romana (28.6.1988) art. 52: *AAS* 80 (1988) 874.
 

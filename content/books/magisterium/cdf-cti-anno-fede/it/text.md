@@ -1,9 +1,5 @@
 # Messaggio della Commissione Teologica Internazionale in occasione dell’Anno della fede, 16 ottobre 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Messaggio della Commissione Teologica Internazionale in occasione dell’Anno della fede***
 
 *Fides quaerens intellectum*, la teologia non esiste che in relazione al dono della fede. Essa presuppone la verità della fede e si propone di manifestarne «le imperscrutabili ricchezze» (*Ef* 3, 8) per la gioia spirituale di tutta la comunità dei credenti e il servizio della sua missione evangelizzatrice.
@@ -19,5 +15,3 @@ Il teologo lavora dunque per «inculturare» nell’intelligenza umana, sotto le
 Il lavoro del teologo non soltanto è radicato nella fede vivente del popolo cristiano, attento a quello che «lo Spirito dice alle Chiese» (*Ap* 2, 7), ma è tutto intero finalizzato alla crescita della fede nel popolo di Dio e alla missione evangelizzatrice della Chiesa. In effetti, il suo compito non è forse proprio quello di puntare ad una «conoscenza che genera, nutre, difende e fortifica la fede supremamente salutare» (Agostino, *De Trinitate*, XIV, 1, 3) ? Il teologo, dunque, nella collaborazione responsabile con il Magistero, abbraccia il servizio della fede del popolo di Dio come la sua propria vocazione (cf. Istruzione *[Donum veritatis](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_it.html)* del 24 maggio 1990).
 
 Nello stesso tempo, il teologo è servitore della gioia cristiana, che è «la gioia della verità (*gaudium de veritate*)» (Agostino, *Confessiones*, X, 23, 33). San Tommaso d’Aquino distingue nell’atto della fede tre dimensioni : «c’è differenza tra dire ‘credo Dio' \[*credo Deum*\] (dove lo intendendo come l’oggetto della fede) e dire ‘credo a Dio' \[*credo Deo*\] (dove lo indico come colui che attesta), oppure ‘credo in Dio' \[*credo in Deum*\] (dove lo indico come la destinazione del mio atto di fede). Dio può essere considerato l'oggetto, il testimone e il fine della fede: ma se oggetto o testimone della fede può essere anche una creatura, il fine ultimo della fede non può essere che Dio soltanto, perché il nostro spirito non può essere indirizzato altro che a Dio come al proprio fine» (Tommaso d’Aquino, *In Ioannem*, c. 6, lectio 3). Credere in Dio (*credere in Deum*), perciò, è il tratto costitutivo essenziale del dinamismo della fede. Ciò significa che, nella sua personale adesione di fede alla Parola di Dio, il credente è attratto sovranamente da quel Bene assoluto che è la beata Trinità. È il desiderio della beatitudine, infatti, radicato nel più profondo di noi stessi, che mette lo spirito umano in tensione, per condurlo al fiducioso abbandono di tutta la sua vita al Dio e Padre del Signore nostro Gesù Cristo. In questo senso, si può dire con verità che la fede – e la stessa teologia, come *scientia fidei* e sapienza – procura a tutti gli «innamorati della bellezza spirituale» (Agostino, *Regula ad servos Dei*, 8, 1) una reale pregustazione della gioia eterna.
-
-[](#top)

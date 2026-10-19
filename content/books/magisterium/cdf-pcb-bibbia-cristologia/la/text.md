@@ -1,9 +1,5 @@
 # De Sacra Scriptura et christologia - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE SACRA SCRIPTURA ET CHRISTOLOGIA**
@@ -401,5 +397,3 @@ Cum Iesus missus sit, ut Evangelium pauperibus afferret, captivos liberaret, et 
 b\) Quae omnia fieri nequeunt sine labore et dolore (Matth. 5,11; Ioan. 15,20; 16,33; Col. 1,24). Peccatum, quod in hunc mundum intravit iam ab initio (Rom. 5,12), malos suos fructus in eo gignere pergit. Regnum Dei, etsi iam sumpsit exordium, nondum plene manifestatum est, sed paulatim progreditur inter dolores quasi parturientis (Matth. 24,8; Ioan. 16,21-22). Creatura ipsa, vanitati subiecta, liberationem exspectat a servitute corruptionis (Rom. 8,29-31). Christus autem per mortem et resurrectionem suam de peccato triumphavit, «Principemque huius mundi» devicit (Ioan. 12,31; 16,11.33). Christiani igitur, ab Eo exemplum capientes atque Eius gratia suffulti, dimicare ac pati debent, si necesse erit, usque ad martyrium et mortem (Matth. 24,9-13 et par.; Ioan. 16,2; Apoc. 6,9-11), ut bonum de malo triumphet, donec adveniant «novi caeli et nova terra in quibus iustitia habitat» (II Petr. 3,13).
 
 Tunc Ille, qui prior dilexit nos (I Ioan. 4,19), agnoscetur, diligetur, adorabitur, famulatumque accipiet ab omnibus hominibus, qui Eius filii adoptionis fient (Eph. 1,5). Ita in beata acternitate opus illud salutis complebitur, quod Ipse misericordia sua, fidelitate et indefatigabili patienta prosequitur (cf. Rom. 2,4-5; 3,25-26; 9,22), a prima vocatione cui genus humanum se subduxerat, usque ad diem quo omnes felicitate sine fine perfruentes Ei acclamabunt: «Sedenti super thronum et Agno, benedictio et honor et gloria et potestas in saecula saeculorum» (Apoc. 5,13).
-
-[](#top)

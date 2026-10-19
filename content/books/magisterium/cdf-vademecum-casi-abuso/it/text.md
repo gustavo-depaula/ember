@@ -1,15 +1,5 @@
 # Vademecum su alcuni punti di procedura nel trattamento dei casi di abuso sessuale di minori commessi da chierici
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE

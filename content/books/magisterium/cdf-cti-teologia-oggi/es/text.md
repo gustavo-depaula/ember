@@ -1,9 +1,5 @@
 # La teologia hoy: perspectivas, principios y criterios, 29 de noviembre de 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 ***LA TEOLOGÍA HOY: PERSPECTIVAS, PRINCIPIOS Y CRITERIOS***
@@ -617,8 +613,6 @@ Las conversaciones generales sobre este tema se mantuvieron a lo largo de numero
 [\[50\]](#_ednref50c3) Cf. Santo Tomás de Aquino, *Quaestiones disputatae de potentia,* q.7, a.5, ad.2, donde proporciona una interpretación de la enseñanza de Dionisio.
 
 [\[51\]](#_ednref51c3) San Agustín, «De Deo loquimur, quid mirum si non comprehendis? Si enim comprehendis, non est Deus» *(Sermo* 117, 3, 5: PL 38,663); «Si quasi comprehendere potuisti, cogitatione tua te decepisti» *(Sermo* 52, 6, 16: PL 38,360).
-
-[](#top)
 
 [^1]: Concilio Vaticano II, *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)* 3. Las citas de los documentos del Vaticano II están tomadas de *Concilio Vaticano II, Constituciones, Decretos y Declaraciones* (BAC, Madrid 1993). Las de la constitución *[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html),* en cambio, son de la edición más reciente en *Enquiridion bíblico. Documentos del Magisterio sobre la Sagrada Escritura* (BAC, Madrid 2010).
 

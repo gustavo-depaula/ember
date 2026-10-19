@@ -1,15 +1,5 @@
 # Gaudium et spes
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAUL, ÉVÊQUE,  
@@ -111,8 +101,6 @@ Les joies et les espoirs, les tristesses et les angoisses des hommes de ce temps
 2\. L’Église, quant à elle, croit que le Christ, mort et ressuscité pour tous \[[^4]\], offre à l’homme, par son Esprit, lumière et forces pour lui permettre de répondre à sa très haute vocation. Elle croit qu’il n’est pas sous le ciel d’autre nom donné aux hommes par lequel ils doivent être sauvés \[[^5]\]. Elle croit aussi que la clé, le centre et la fin de toute histoire humaine se trouve en son Seigneur et Maître. Elle affirme en outre que, sous tous les changements, bien des choses demeurent qui ont leur fondement ultime dans le Christ, le même hier, aujourd’hui et à jamais \[[^6]\]. C’est pourquoi, sous la lumière du Christ, image du Dieu invisible, premier-né de toute créature \[[^7]\], le Concile se propose de s’adresser à tous, pour éclairer le mystère de l’homme et pour aider le genre humain à découvrir la solution des problèmes majeurs de notre temps.
 
 ***Première partie : L’Église et la vocation humaine***
-
-*** ***
 
 ***11. Répondre aux appels de l’Esprit***
 

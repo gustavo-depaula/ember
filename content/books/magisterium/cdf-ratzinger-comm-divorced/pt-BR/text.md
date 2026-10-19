@@ -1,9 +1,5 @@
 # A propósito de algumas objeções contra a doutrina da Igreja acerca da recepção da eucaristia da parte dos fiéis divorciados recasados - Joseph Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 *A PROPÓSITO DE ALGUMAS OBJECÇÕES CONTRA A DOUTRINA DA IGREJA ACERCA  DA RECEPÇÃO DA COMUNHÃO EUCARÍSTICA  DA PARTE DE FIÉIS DIVORCIADOS RECASADOS (*[^1])
 
 **Joseph Card. Ratzinger**
@@ -77,8 +73,6 @@ No que diz respeito à posição do Magistério sobre o problema dos fiéis divo
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: . Este texto retoma a terceira parte da Introdução do Cardeal Joseph Ratzinger no número 17 da Colecção «Documentos e Estudos», dirigida pela Congregação para a Doutrina da Fé, *Sulla pastorale dei divorziati risposati,* LEV, Città del Vaticano, 1998, p. 20-29. As notas foram acrescentadas.
 

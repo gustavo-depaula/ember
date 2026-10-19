@@ -1,13 +1,5 @@
 # L'interpretazione della Bibbia nella Chiesa
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PONTIFICIA COMMISSIONE BIBLICA
@@ -39,8 +31,6 @@ Per raggiungere questo scopo, il presente documento: 
 3\. proporrà una riflessione sulle dimensioni caratteristiche dell'interpretazione cattolica della Bibbia e sui suoi rapporti con le altre discipline teologiche; 
 
 4\. considererà infine il posto che occupa l'interpretazione della Bibbia nella vita della Chiesa. **   **
-
-**  **
 
 **I METODI E APPROCCI PER L'INTERPRETAZIONE** 
 
@@ -340,8 +330,6 @@ Infine, nel suo attaccamento al principio del “sola Scrittura”, il fondament
 
 L'approccio fondamentalista è pericoloso, perché attira le persone che cercano risposte bibliche ai loro problemi di vita. Tale approccio può includerle offrendo interpretazioni pie ma illusorie, invece di dire loro che la Bibbia non contiene necessariamente una risposta immediata a ciascuno di questi problemi. Il fondamentalismo invita, senza dirlo, a una forma di suicidio del pensiero. Mette nella vita una falsa certezza, poiché confonde inconsciamente i limiti umani del messaggio biblico con la sostanza divina dello stesso messaggio. **  **
 
-**  **
-
 **II QUESTIONI DI ERMENEUTICA**  
 
 **A. Ermeneutiche filosofiche**  
@@ -421,8 +409,6 @@ Relativamente recente, l'appellativo “senso pieno” (*sensus plenior*) suscit
 Si tratta allora o del significato che un autore biblico attribuisce a un testo biblico a lui anteriore, quando lo riprende in un contesto che gli conferisce un senso letterale nuovo, o del significato che una tradizione dottrinale autentica o una definizione conciliare da a un testo della Bibbia. Per esempio, il contesto di Mt 1, 23 dà il senso pieno all'oracolo di Is 7, 14 sulla *almah* che concepirà un figlio, utilizzando la traduzione dei Settanta (*parthenos*): «La vergine concepirà». L'insegnamento patristico e conciliare sulla Trinità esprime il senso pieno dell'insegnamento del Nuovo Testamento su Dio il Padre, il Figlio e lo Spirito. La definizione del peccato originale da parte del Concilio di Trento fornisce il senso pieno, dell'insegnamento di Paolo in Rm 5, 12-21 circa le conseguenze del peccato di Adamo per l'umanità. Ma quando manca un controllo di questo genere, da parte di un testo biblico esplicito o di una tradizione dottrinale autentica, il ricorso a un preteso senso pieno potrebbe portare a interpretazioni soggettive prive di ogni validità.
 
 In definitiva, si potrebbe considerare il “senso pieno” come un altro modo di designare il senso spirituale di un testo biblico, nel caso in cui il senso spirituale si distingua dal senso letterale. Suo fondamento è il fatto che lo Spirito Santo, autore principale della Bibbia, può guidare l'autore umano nella scelta delle sue espressioni in modo tale che queste esprimano una verità di cui egli non percepisce tutta la profondità. Questa viene rivelata in modo più completo nel corso del tempo, grazie, da una parte, a ulteriori realizzazioni divine che manifestano meglio la portata dei testi, e grazie anche, d'altra parte, all'inserimento dei testi nel canone delle Scritture. In questo modo viene creato un nuovo contesto, che fa apparire delle potenzialità di significato che il contesto primitivo lasciava nell'ombra.
-
-**  **
 
 **III DIMENSIONI CARATTERISTICHE DELL'INTERPRETAZIONE CATTOLICA **   
 

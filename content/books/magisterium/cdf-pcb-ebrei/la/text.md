@@ -1,9 +1,5 @@
 # De auctore et de modo compositionis epistolae ad Hebraeos - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE AUCTORE ET DE MODO COMPOSITIONIS EPISTOLAE AD HEBRAEOS**
@@ -25,7 +21,3 @@ Resp. Negative, salvo ulteriori Ecclesiae iudicio.
 *Die autem 24 Iunii anni 1914, in audientia infrascripto R.mo Consultori ab Actis benigne concessa, Ss.mus dominus Noster Pius PP. X praedicta responsa rata habuit ac publici iuris fieri mandavit.*
 
 Laurentius Janssens, O.S.B. *Consultor ab Actis.*
-
-*    *
-
-[](#top)

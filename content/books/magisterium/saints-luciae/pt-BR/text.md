@@ -1,12 +1,6 @@
 # Decreto para a abertura da Fase Diocesana da Causa de Beatificação a Irmã Lúcia
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***DECRETO DA CONGREGAÇÃO PARA AS CAUSAS DOS SANTOS  PARA A ABERTURA DA FASE DIOCESANA DA CAUSA DE BEATIFICAÇÃO DA IRMÃ LÚCIA DOS SANTOS***
-
-* *
 
 *O Santo Padre Bento XVI, acolhendo favoravelmente o pedido apresentado pelo Bispo de Coimbra, D. Albino Mamede Cleto, e partilhada por numerosos Bispos e fiéis de todas as partes do mundo, concedeu que, derrogando do quinquénio disposto pela norma canónica (cf. art. 9 das "Normae servandae"), se possa iniciar, a três anos da morte, a fase diocesana da causa de beatificação da Irmã Lúcia dos Santos, carmelita, conhecida no mundo como um dos três videntes de Fátima.*
 
@@ -19,5 +13,3 @@ Instante Exc.mo ac Rev.mo Domino D. Albino Mamede Cleto, Episcopo Conimbricensi,
 ** Iosephus Card. Saraiva Martins** *Praefectus*
 
 **Michael Di Ruberto** *Archiep. Tit. Biccarensis  a Secretis*
-
-[](#top)

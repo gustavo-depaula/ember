@@ -1,9 +1,5 @@
 # Antworten auf Fragen bezüglich der künstlichen Ernährung und Wasserversorgung
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***Antworten auf Fragen der Bischofskonferenz der Vereinigten Staaten bezüglich der künstlichen Ernährung und Wasserversorgung***
@@ -25,5 +21,3 @@ Papst Benedikt XVI. hat in der dem unterzeichneten Kardinalpräfekten gewährten
 
 **Angelo Amato, S.D.B.**  
 Titularerzbischof von Sila *Sekretär*
-
-[](#top)

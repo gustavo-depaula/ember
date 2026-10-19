@@ -1,13 +1,5 @@
 # Formula to adopt from now on in cases in which the Profession of Faith is prescribed by law in substitution of the Tridentine formula and the oath against modernism, 17 July 1967
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**

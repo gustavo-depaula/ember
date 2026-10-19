@@ -1,9 +1,5 @@
 # Instrutktion LIBERTATIS NUNTIUS über einige Aspekte der "Theologie der Befreiung"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE 
 
 ***INSTRUKTION ÜBER EINIGE ASPEKTE DER "THEOLOGIE DER BEFREIUNG"***
@@ -369,5 +365,3 @@ Die Worte Pauls VI. in seinem Credo des Gottesvolkes sprechen in großer Klarhei
 \[34\] Vgl. *Dokument von Puebla IV*, II, 2. 3.
 
 \[35\] Papst Paul VI., *Credo des Gottesvolkes*, 30. Juni 1968: *AAS* 60 (1968) 443-444.
-
-[](#top)

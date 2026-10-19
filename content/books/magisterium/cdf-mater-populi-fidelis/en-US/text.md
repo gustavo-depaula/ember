@@ -1,15 +1,5 @@
 # Mater Populi fidelis - Doctrinal Note on Some Marian Titles Regarding Mary’s Cooperation in the Work of Salvation
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERY FOR THE DOCTRINE OF THE FAITH
@@ -29,19 +19,19 @@ DICASTERY FOR THE DOCTRINE OF THE FAITH
 [*Titles Referring to Mary’s Cooperation in Salvation*](#_Toc201667038)
 
 > **[Co-redemptrix](#_Toc201667039)**
->
+
 > **[Mediatrix](#_Toc201667040)**
->
+
 > > *[Mary in the Unique Mediation of Christ](#_Toc201667041)*  
 > > *[Fruitful in the Glorious Christ](#_Toc201667042)*
->
+
 > **[Mother of Believer](#_Toc201667043)**
->
+
 > > *[Intercession](#_Toc201667044)*  
 > > *[Maternal Closeness](#_Toc201667045)*
->
+
 > **[Mother of Grace](#_Toc201667046)**
->
+
 > *[Where Only God Can Reach](#_Toc201667047)*  
 > *[The Living Water That Flows](#_Toc201667048)*  
 > *[The Love That Gives Itself in the World](#_Toc201667049)*  
@@ -53,8 +43,6 @@ DICASTERY FOR THE DOCTRINE OF THE FAITH
 [*Mother of the Faithful People of God*](#_Toc201667054)
 
 > *[Love Pauses, Contemplates the Mystery and Enjoys it in Silence](#love_pauses)*
-
-* *
 
 *Presentation*
 

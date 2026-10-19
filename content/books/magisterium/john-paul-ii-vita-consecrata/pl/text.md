@@ -54,8 +54,6 @@ Także na Zachodzie od pierwszych stuleci istnienia Kościoła praktykowano życ
 
 7\. Radością i nadzieją napawa fakt, że znów rozkwita dziś starożytny stan *dziewic Bogu poświęconych*, którego istnienie w chrześcijańskich wspólnotach jest poświadczone od czasów apostolskich¹³. Dziewice konsekrowane przez Biskupa łączą się szczególną więzią z Kościołem lokalnym, któremu służą z poświęceniem, chociaż pozostają w świecie. Żyjąc osobno lub wespół z innymi, są *szczególnym eschatologicznym wizerunkiem niebiańskiej Oblubienicy i przyszłego życia*, w którym Kościół zazna wreszcie pełni miłości do Chrystusa-Oblubieńca.
 
-* *
-
 Pustelnicy i pustelnice, należący do starożytnych Zakonów lub do nowych Zgromadzeń, czy też podlegający bezpośrednio Biskupowi, przez wewnętrzne i zewnętrzne oderwanie od świata świadczą o przemijalności obecnej epoki, a przez post i pokutę ukazują, że nie samym chlebem żyje człowiek, ale słowem Bożym (por. *Mt* 4, 4). Tego rodzaju „życie na pustyni” jest wezwaniem skierowanym do bliźnich i do całej wspólnoty kościelnej, *aby nie traciła nigdy z oczu najwyższego powołania*, które polega na nieustannym przebywaniu z Panem.
 
 Ostatnio odrodziła się też praktyka konsekracji *wdów*¹⁴, znana od czasów apostolskich (por. *1 Tm* 5, 5. 9-10; *1 Kor* 7, 8) oraz konsekracja wdowców. Osoby te, składając wieczysty ślub czystości, przeżywanej jako znak Królestwa Bożego, konsekrują swój stan życia, aby poświęcić się modlitwie i służbie Kościołowi.
@@ -174,15 +172,9 @@ Pierwszym zadaniem życia konsekrowanego jest *ukazywanie* wielkich dzieł, jaki
 
 21\. Więź między radami ewangelicznymi a Trójcą Świętą i uświęcającą ujawnia ich najgłębszy sens. Są one mianowicie wyrazem miłości, którą Syn darzy Ojca w jedności Ducha Świętego. Praktykując je, osoba konsekrowana przeżywa szczególnie głęboko charakter trynitarny i chrystologiczny całego życia chrześcijańskiego.
 
-* *
-
 Czystość celibatariuszy i dziewic, jako wyraz oddania się Bogu *niepodzielnym sercem* (por.*2 Kor* 7, 32-34), jest odblaskiem nieskończonej miłości łączącej trzy Boskie Osoby w tajemniczej głębi życia trynitarnego; miłości, której Słowo Wcielone dało świadectwo aż po ofiarę z własnego życia; miłości, która „rozlana jest w sercach naszych przez Ducha Świętego” (*Rz* 5, 5), przynaglającego nas, byśmy odpowiedzieli na nią całkowitą miłością do Boga i do braci.
 
-* *
-
 Ubóstwo głosi, że Bóg jest jedynym prawdziwym bogactwem człowieka. Przeżywane na wzór Chrystusa, który „będąc bogaty (...) stał się ubogim” (*2 Kor* 8, 9), wyraża *całkowity dar z siebie*, jaki składają sobie nawzajem trzy Osoby Boskie. Ten dar przelewa się w stworzenie i objawia się w pełni we Wcieleniu Słowa i w Jego odkupieńczej śmierci.
-
-* *
 
 Posłuszeństwo praktykowane na wzór Chrystusa, którego pokarmem było wypełnianie woli Ojca (por. *J* 4, 34), objawia wyzwalające piękno *uległości synowskiej, a nie niewolniczej*, wzbogaconej poczuciem odpowiedzialności i przenikniętej wzajemnym zaufaniem: to zaufanie jest doczesnym odblaskiem *harmonii miłości*, właściwej trzem Boskim Osobom.
 

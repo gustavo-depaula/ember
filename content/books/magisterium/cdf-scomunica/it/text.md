@@ -1,9 +1,5 @@
 # Decreto di scomunica, 5 agosto 2002
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Congregazione per la Dottrina della Fede**
 
 **DECRETO DI SCOMUNICA \***
@@ -26,5 +22,3 @@ Nell'adempiere tale doveroso intervento, la Congregazione confida che esse, sorr
 Arcivescovo emerito di Vercelli, *Segretario*
 
 \* *OR* 5-6 agosto 2002, 5.
-
-[](#top)

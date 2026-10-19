@@ -1,9 +1,5 @@
 # Decreto di Riforma degli studi ecclesiastici di Filosofia - Congregazione per l'Educazione Cattolica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER L'EDUCAZIONE CATTOLICA**
 
 ***DECRETO DI RIFORMA DEGLI STUDI ECCLESIASTICI DI FILOSOFIA***
@@ -245,8 +241,6 @@ Datum Romæ, ex ædibus eiusdem Congregationis, in memoria sancti Thomæ Aquinat
 **Ioannes Ludovicus Brugues, O.P.** *a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Lettera enciclica *[Fides et ratio](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio_it.html)* (14 settembre 1998), *AAS* 91 (1999), 5-88, n. 3. Nella Lettera, Giovanni Paolo II concentra l’attenzione sul tema stesso della verità e sul suo fondamento in rapporto alla fede, continuando la riflessione fatta nella Lettera enciclica *[Veritatis splendor](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor_it.html)* (6 agosto 1993) circa la verità sul piano morale (cfr *[Fides et ratio](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio_it.html)*, n. 6), la quale abbraccia anche alcune verità fondamentali razionali.
 

@@ -1,9 +1,5 @@
 # Lettre à S.Em. le Card. Ioseph Höffner, Archevêque de Cologne, au sujet de l'«Opus Angelorum», 24 septembre 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SACRÉE CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***LETTRE À S.Em. LE CARD. IOSEPH H******ÖFFNER, ARCHEVÊQUE DE COLOGNE AU SUJET DE L’«OPUS ANGELORUM»***
@@ -32,5 +28,3 @@ Je profite de l’occasion pour exprimer les plus sincères sentiments de mon es
 *Secrétaire*
 
 *Rome, le 24 septembre 1983.*
-
-[](#top)

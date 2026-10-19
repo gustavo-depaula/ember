@@ -1,9 +1,5 @@
 # Mitteilung zur Gültigkeite der Taufe in «The New Church», 20. November 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 *MITTEILUNG ZUR GÜLTIGKEIT DER TAUFE IN „THE NEW CHURCH“\**
@@ -21,5 +17,3 @@ Präfekt
 \* AAS 85 (1993) 179.
 
    *       *
-
-[](#top)

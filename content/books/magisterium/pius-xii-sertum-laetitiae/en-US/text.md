@@ -105,5 +105,3 @@ When Pope Pius VI gave you your first Bishop in the person of the American John 
 *Given at the Vatican, on the Feast of All Saints, in the Year of Our Lord 1939, the first of Our Pontificate.*
 
 **PIUS XII**
-
-**  **

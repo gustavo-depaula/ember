@@ -136,8 +136,6 @@ f) Laien, die Vorsitzende von internationalen Vereinen von Gläubigen sind oder
 
 **Art. 8 – Verfahren, das im Fall einer Meldung über einen Bischof der Lateinischen Kirche und andere in Artikel 6 genannte Personen anzuwenden ist**
 
-** **
-
 § 1. Die Autorität, die eine Meldung erhält, leitet diese sowohl an das zuständige Dikasterium als auch an den Metropoliten der Kirchenprovinz weiter, in der die gemeldete Person ihren Wohnsitz hat.
 
 § 2. Wenn die Meldung den Metropoliten betreffen oder der Metropolitansitz vakant sein sollte, wird diese sowohl an den Heiligen Stuhl als auch an den dienstältesten Suffraganbischof übermittelt, für den in diesem Fall die folgenden Bestimmungen hinsichtlich des Metropoliten anzuwenden sind. Ebenso wird dem Heiligen Stuhl die Meldung weitergeleitet, die diejenigen betrifft, die die pastorale Leitung kirchlicher Jurisdiktionsbezirke innehaben, die demselben Heiligen Stuhl unmittelbar unterstellt sind.

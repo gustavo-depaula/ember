@@ -1,9 +1,5 @@
 # DEKRET DOTYCZĄCY "OPUS ANGELORUM"
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 ###  
@@ -50,5 +46,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 6 czerwca 1992 r.
 Sekretarz
 
 1\. Por. BENEDICTUS PP. XIV, Doctrina de Beatificatione Servorum Dei et de Canonizatione Beatorum, Lib. IV, Pars II, Cap. XXX, De Angelis et eorum cultu, Venetiis 1777.
-
-[](#top)

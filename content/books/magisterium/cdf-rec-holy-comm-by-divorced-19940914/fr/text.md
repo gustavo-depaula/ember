@@ -1,9 +1,5 @@
 # Sur l'accès à la communion eucharistique des divorcés remariés
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***LETTRE AUX ÉVÊQUES DE L'ÉGLISE CATHOLIQUE SUR L'ACCÈS À LA COMMUNION EUCHARISTIQUE DE LA PART DES FIDÈLES DIVORCÉS-REMARIÉS***
@@ -97,5 +93,3 @@ Uni avec vous dans l'engagement collégial à faire resplendir la vérité de J�
 \(18\) Cf. les canons 1536 § 2 et 1679 du *Code du Droit Canonique* et les canons 1217 § 2 et 1365 du *Code des canons des Eglises orientales* sur la force de preuve qu'ont les déclarations des parties dans de tels procès.
 
 \(19\) Cf. Mt 11, 30.
-
-[](#top)

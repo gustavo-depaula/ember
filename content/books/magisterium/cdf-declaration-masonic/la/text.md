@@ -1,9 +1,5 @@
 # Declaratio de associationibus massonicis, d. 26 m. Novembris a. 1983, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **DECLARATIO DE ASSOCIATIONIBUS MASSONICIS** \*
@@ -25,5 +21,3 @@ Auctoritatibus ecclesiasticis localibus facultas non est proferendi iudicium cir
 **+ Fr. Hieronymus Hamer, O.P., Archiep. tit. Loriensis,** * a Secretis* 
 
 \* *AAS* 76 (1984), 300.
-
-[](#top)

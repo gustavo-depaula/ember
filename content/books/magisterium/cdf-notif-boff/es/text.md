@@ -1,9 +1,5 @@
 # Notificación sobre el volumen del P. Leonardo Boff, O.F.M. «Iglesia: carisma y poder. Ensayo de eclesiología militante», 11 marzo 1985
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE EL VOLUMEN DEL P. LEONARDO BOFF, O.F.M., «IGLESIA: CARISMA Y PODER. ENSAYO DE ECLESIOLOGÍA MILITANTE»**
@@ -74,5 +70,3 @@ Al hacer público todo lo anterior, la Congregación se siente también obligada
 
 **ALBERTO BOVONE**  
 *Arzobispo titular de Cesarea de Numidia Secretario*
-
-[](#top)

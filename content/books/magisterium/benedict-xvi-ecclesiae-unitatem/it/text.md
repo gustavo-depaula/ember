@@ -19,9 +19,9 @@
 6\. La [Pontificia Commissione *Ecclesia Dei*](http://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/index_it.htm) avrà, pertanto, la seguente configurazione:
 
 > a\) Il Presidente della Commissione è il Prefetto della Congregazione per la Dottrina della Fede.
->
+
 > b\) La Commissione ha una propria tabella organica composta dal Segretario e da Officiali.
->
+
 > c\) Sarà compito del Presidente, coadiuvato dal Segretario, sottoporre i principali casi e le questioni di carattere dottrinale allo studio e al discernimento delle istanze ordinarie della Congregazione per la Dottrina della Fede, nonché sottometterne le risultanze alle superiori disposizioni del Sommo Pontefice.
 
 7\. Con questa decisione ho voluto, in particolare, mostrare paterna sollecitudine verso la "Fraternità San Pio X" al fine di ritrovare la piena comunione con la Chiesa.
@@ -29,8 +29,6 @@
 Rivolgo a tutti un pressante invito a pregare senza sosta il Signore, per l'intercessione della Beata Vergine Maria, "ut unum sint".
 
 *Dato a Roma, presso San Pietro, il 2 luglio 2009, anno quinto del Nostro Pontificato.*
-
-* *
 
 **BENEDICTUS PP. XVI**
 

@@ -1,9 +1,5 @@
 # DODATKOVÉ NORMY K APOŠTOLSKEJ KONŠTITÚCII ANGLICANORUM COETIBUS
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Kongregácia pre náuku viery**
 
 **Dodatkové normy k apoštolskej konštitúcii *Anglicanorum coetibus*\***
@@ -126,5 +122,3 @@ Dané v Ríme v sídle Kongregácie pre náuku viery 4. novembra 2009, v deň sp
 *titulárny arcibiskup thibský,* *sekretár*
 
 \* www.kbs.sk
-
-[](#top)

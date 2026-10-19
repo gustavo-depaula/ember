@@ -1,9 +1,5 @@
 # Autori e tempo di composizione dei Salmi - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **AUTORI E TEMPO DI COMPOSIZIONE DEI SALMI**
@@ -46,5 +42,3 @@ Risposta: Sì per entrambe le parti.
 
 Fulcrano Vigouroux, P.S.S.  
 Lorenzo Janssens, O.S.B. *Segretari consultori*
-
-[](#top)

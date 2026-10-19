@@ -75,5 +75,3 @@ Vi auguro che esse siano gioiose e serene; vi auguro di fare in esse una più in
 *Dal Vaticano, 13 dicembre 1994.*
 
 **GIOVANNI PAOLO II**
-
-*   *

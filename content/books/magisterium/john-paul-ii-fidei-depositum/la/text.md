@@ -86,5 +86,3 @@ Hic Catechismus non vult detrudere catechismos variis in nationibus compositos a
 Sub fine huius documenti, quod Catholicae Ecclesiae Catechismum profert, Nos Sanctissimam Virginem Mariam, Verbi Incarnati et Ecclesiae Matrem, precamur, ut sua valida intercessione opus sustineat catecheticum totius Ecclesiae per omnes gradus, hoc tempore quo Ecclesia vocatur ad novum evangelizationis conatum. Utinam verae fidei lux liberet homines ab ignorantia peccatique servitute, ut eos conducat ad unicam libertatem hoc nomine dignam:12 ad vitam scilicet in Christo Iesu sub Spiritus Sancti ductu hic in terra agendam, et in Regno caelorum ad plenitudinem felicis contemplationis Dei facie ad faciem! 13
 
 *Datum die xi mensis Octobris, anno mcmxcii, triginta exactis annis ab inito Concilio Oecumenico Vaticano II, Pontificatus Nostri quarto decimo.*
-
-* *

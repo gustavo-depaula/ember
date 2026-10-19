@@ -1,14 +1,8 @@
 # Ispiarazione e Verità della Sacra Scrittura - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **ISPIRAZIONE E VERITÀ DELLA SACRA SCRITTURA**
-
-** **
 
 **La Parola che viene da Dio e parla di Dio per salvare il mondo**
 
@@ -720,8 +714,6 @@ A differenza del Canone veterotestamentario, i ventisette libri del Nuovo Testam
 
 Come già detto, per la Chiesa Cattolica il riconoscimento definitivo e ufficiale sia del Canone ‘lungo’ dell’Antico Testamento sia dei ventisette scritti del Nuovo Testamento avvenne nel Concilio di Trento (D-S 1501-1503). La definizione era stata resa necessaria dal fatto che i riformatori escludevano i libri deuterocanonici dal Canone tradizionale.
 
-**   **
-
 **SECONDA PARTE**
 
 **LA TESTIMONIANZA DEGLI SCRITTI BIBLICI SULLA LORO VERITÀ**
@@ -1160,8 +1152,6 @@ Questa verità su Dio e sulla salvezza del genere umano, che costituisce il cent
 
 Così, il Canone delle Scritture dà accesso allo stesso tempo alla dinamica con cui Dio si comunica personalmente agli uomini per mezzo di profeti, scrittori biblici, e ultimamente in Gesù di Nazaret, e anche al processo per cui le comunità accolgono, nello Spirito, questa rivelazione e ne consegnano il tenore per iscritto.
 
-**  **
-
 **TERZA PARTE**
 
 **L’INTERPRETAZIONE DELLA PAROLA DI DIO E LE SUE SFIDE**
@@ -1418,8 +1408,6 @@ La presenza della legge dello sterminio e di testi simili mostra un altro elemen
 
 Infine, è fondamentale che l’orientamento del lettore della Sacra Scrittura sia quello di ricercare che cosa essa dica su Dio e sulla salvezza degli uomini. Così facendo, se non raggiungerà sempre una comprensione adeguata del testo che sta leggendo, progredirà tuttavia sempre nella conoscenza della verità della Bibbia, nella sapienza spirituale che è cammino per una piena comunione con Dio.
 
-**  **
-
 **CONCLUSIONE GENERALE**
 
 **137.** La Chiesa Cattolica, con un pronunciamento solenne e normativo (al Concilio di Trento, EB 58-60), ha accolto il Canone dei libri sacri, definendo così i parametri fondamentali del suo credere. La Chiesa ha esplicitato quali testi siano da ritenere ”scritti per ispirazione dello Spirito Santo” (*[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html)*, n. 11), e quindi indispensabili per la formazione e l’edificazione del credente e dell’intera comunità cristiana (cf. 2 Tm 3,15-16). Se, da un lato, si ha piena consapevolezza che tali scritti sono stati composti da autori umani, i quali li hanno marcati con la loro particolare genialità letteraria, d’altro lato, viene parimenti riconosciuta loro una qualità divina del tutto speciale, variamente attestata dai testi sacri e variamente spiegata dai teologi nel corso della storia.
@@ -1505,5 +1493,3 @@ Da qualche tempo infatti si sono fatte più insistenti delle riserve concernenti
 Il presente Documento della Pontificia Commissione Biblica ha perciò selezionato alcuni dei maggiori problemi che oggi pongono difficoltà al lettore, e ha suggerito alcune piste per una loro possibile interpretazione, nel quadro della nostra fede. La brevità della trattazione non potrà sempre soddisfare, ma non mancheranno di utilità i principi ermeneutici esposti, né alcune indicazioni in merito a specifiche questioni.
 
 Più che una definitiva ed esaustiva disamina delle problematiche difficili poste dal testo sacro, viene qui formulato un possibile percorso ermeneutico, nell’intento di suscitare un’ulteriore riflessione, in dialogo con altri interpreti del testo sacro. Nel comune sforzo di ricerca, il cammino verso la verità risulterà più umile, e, al tempo stesso, più luminoso, perché intriso di reciproco ascolto del medesimo Spirito.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Lettera Circolare per aiutare le Conferenze Episcopali nel preparare Linee guida per il trattamento dei casi di abuso sessuale nei confronti di minori da parte di chierici
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 *****LETTERA CIRCOLARE******  PER AIUTARE LE CONFERENZE EPISCOPALI  NEL PREPARARE LINEE GUIDA PER IL TRATTAMENTO DEI CASI DI ABUSO SESSUALE NEI CONFRONTI DI MINORI DA PARTE DI CHIERICI*****
@@ -93,5 +89,3 @@ Le Linee guida preparate dalle Conferenze Episcopali mirano a proteggere i minor
 **William Cardinale Levada** *Prefetto*
 
 **+ Luis F. Ladaria, S.I.** *Arcivescovo tit. di Thibica Segretario*
-
-[](#top)

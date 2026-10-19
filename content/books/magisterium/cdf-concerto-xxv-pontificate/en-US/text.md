@@ -1,9 +1,5 @@
 # Concert offered by the orchestra and choir of the Mitteldeutscher Rundfunk
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 25th ANNIVERSARY OF THE PONTIFICATE OF JOHN PAUL II:  
 CONCERT OFFERED BY THE MITTELDEUTSCHER RUNDFUNK ORCHESTRA
 
@@ -22,5 +18,3 @@ Compared with the intact presence of the faith that transpires in Händel's *Hym
 Nevertheless, we should not forget that Beethoven is also the composer of the *Missa Solemnis*. The good Father, of which the Ode speaks, is not so much a supposition, as Schiller's text might suggest, but rather, an ultimate certainty. Beethoven also knew that we can entrust ourselves to the Father because in the Son he made himself close to us. And thus, we can calmly see the divine spark, of whose joy the Ode speaks, as that spark of God which is communicated to us through the music and reassures us:  yes, the good Father truly exists and is not utterly remote, far beyond the firmament, but thanks to the Son is here in our midst.
 
 I greet with gratitude and joy those distinguished persons who have made this concert possible, and with you, the conductor of the ensemble, Mr Howard Arman, the soloists as well as the choir and orchestra. We thank you because you have given us this spark of God filled with joy, which God enables to be kindled in you and in us.
-
-[](#top)

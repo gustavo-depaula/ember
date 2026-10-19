@@ -1,15 +1,5 @@
 # DEKRET über die Eintragung der Feiern des heiligen Gregor von Narek, Abt und Kirchenlehrer, des heiligen Johannes De Avila, Priester und Kirchenlehrer, und der heiligen Hildegard von Bingen, Jungfrau und Kirchenlehrerin, in den Römischen Generalkalender
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

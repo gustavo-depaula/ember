@@ -1,9 +1,5 @@
 # NOTIFICATION
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Congregation for the Doctrine of the Faith**
 
 ***NOTIFICATION***\*
@@ -32,5 +28,3 @@ Given the negative effect of Vassula Ryden's activities, despite some positive a
 ------------------------------------------------------------------------
 
 \* *L’Osservatore Romano*, English Edition, N. 43, 25 October 1995, Page 12.
-
-[](#top)

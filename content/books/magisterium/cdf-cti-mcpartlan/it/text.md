@@ -1,9 +1,5 @@
 # Nella comunione della Chiesa, di Paul McPartlan
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Per leggere il documento della Commissione Teologica Internazionale**
 
 ***Nella comunione della Chiesa***
@@ -33,5 +29,3 @@ Il concilio Vaticano ii, com’è noto, ha insegnato che la Chiesa deve leggere 
 \*Catholic University of America
 
 (*L'Osservatore Romano*, 4 maggio 2012, p. 7)
-
-[](#top)

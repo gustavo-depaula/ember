@@ -224,9 +224,9 @@ Art. 1. Ratione habita can. 20 CIC, supra expositis perattente 37 articulis perp
 Et singillatim, qua huic Constitutioni directe sunt contrarii, articulis, qui normas vel dispositiones praebent:
 
 > – Constitutionis Apostolicae Pii PP. XII *[Sponsa Christi](http://w2.vatican.va/content/pius-xii/la/apost_constitutions/documents/hf_p-xii_apc_19501121_sponsa-christi.html)*, diei 21 novembris 1950: Statuta generalia Monialium;
->
+
 > – Instructionis Sacrae Congregationis Religiosorum *[Inter praeclara](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_19501123_inter-praeclara_it.html)*, diei 23 novembris 1950;
->
+
 > – Instructionis Congregationis pro Institutis vitae consecratae et Societatibus vitae apostolicae *[Verbi Sponsa](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_13051999_verbi-sponsa_lt.html)*, de vita contemplativa deque monialium clausura, diei 13 maii 1999.
 
 Art. 2 § 1. Haec Constitutio adloquitur sive Congregationem pro Institutis vitae consecratae et Societatibus vitae apostolicae sive singula monasteria monialium vitae contemplativae vel quae integre ad vitam contemplativam ordinantur, foederata vel non foederata.

@@ -1,9 +1,5 @@
 # Decree regarding the mention of the divine name of St. Joseph in the Eucharistic Prayers II, III, and IV of the Roman Missal, 1st May 2013
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 CONGREGATION FOR DIVINE WORSHIP AND THE DISCIPLINE  
 OF THE SACRAMENTS
 
@@ -111,5 +107,3 @@ III Modlitwa eucharystyczna:
 
 IV Modlitwa eucharystyczna:  
 «*z Najświętszą Dziewicą, Bogurodzicą Maryją*, **ze świętym Józefem, Jej Oblubieńcem**, *z Apostołami...*».
-
-[](#top)

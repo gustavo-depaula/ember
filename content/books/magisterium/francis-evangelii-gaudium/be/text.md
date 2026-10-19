@@ -1,6 +1,5 @@
 # Evangelii Gaudium: Esortazione Apostolica sull'annuncio del Vangelo nel mondo attuale
 
-[](/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium_be.pdf)  
 DOWNLOAD PDF
 
 Апостальская адгартацыя

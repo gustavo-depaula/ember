@@ -32,17 +32,17 @@ A tal fine essa esercita azione di direzione, di consulenza e d'ispezione, ispir
 5\. Sono membri della commissione:
 
 > a\) Il Segretario della Sacra Congregazione del Concilio;
->
+
 > b\) Il Segretario della Sacra Congregazione dei Religiosi;
->
+
 > c\) Il Segretario della Sacra Congregazione dei Seminari e delle Università degli studi;
->
+
 > d\) un rappresentante della Segreteria di Stato di Sua Santità;
->
+
 > e\) un rappresentante dell'Amministrazione dei Beni della Santa Sede;
->
+
 > f\) il Direttore della Scuola Vaticana di Paleografia e Diplomatica e del corso di archivistica;
->
+
 > g\) altri eventualmente nominati dal Santo Padre su proposta del Presidente.
 
 É compito dei membri di partecipare alle sedute della Commissione, di esaminare collegialmente le materie proposte ed esprimere su di esse il loro voto.
@@ -59,21 +59,21 @@ Al Segretario spetta di preparare le materie da trattare nelle sedute, di redige
 9\. É particolare compito della Commissione di:
 
 > a\) favorire ogni mezzo che assicuri la buona amministrazione e conservazione degli archivi, il loro ordinamento, il restauro di materiale documentario e il facile accesso agli studiosi;
->
+
 > b\) accertare lo stato e i bisogni degli archivi locali, anche mediante visite;
->
+
 > c\) completare e aggiornare le notizie sugli archivi raccolte con il censimento 1942;
->
+
 > d\) provvedere che in ogni archivio si abbia un inventario, che renda possibili le revisioni e le facili ricerche;
->
+
 > e\) prestare aiuto ed intervenire anche presso l'autorità civile, per eliminare eventuali difficoltà e inconvenienti;
->
+
 > f\) diffondere nel Clero una più profonda conoscenza della funzione degli archivi ecclesiastici, con lezioni da tenersi nelle sedi opportune;
->
+
 > g\) curare la preparazione del personale destinato agli archivi mediante corsi di archivistica;
->
+
 > h\) incoraggiare le attività degli archivisti locali ed accrescere la loro esperienza personale per mezzo di convegni nazionali e regionali;
->
+
 > i\) promuovere la pubblicazione di istruzioni, titolari e manuali pratici sulla manutenzione degli archivi.
 
 10\. La Commissione si riunirà almeno due volte l'anno e ogni altra volta che il Presidente lo ritenga necessario.

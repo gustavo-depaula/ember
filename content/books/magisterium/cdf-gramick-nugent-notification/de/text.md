@@ -1,9 +1,5 @@
 # Notifikation über die Schriften und Aktivitäten von Sr. Jeannine Gramick, S.S.N.D und P. Robert Nugent, S.D.S., 31. Mai 1999
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***Notifikation betreffend Schwester Jeannine Gramick SSND und Pater Robert nUGENt SDS\****
@@ -53,5 +49,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, dem 31. Mai 1999.
 3\) Vgl. *Gen* 19,1-11; *Lev* 18,22; 20,13; *1 Kor* 6,9; *Rom* 1,18-32; *1 Tim* 1,10; *Katechismus der Katholischen Kirche*, 2357-2359, 2396; Kongregation für die Glaubenslehre, Erklärung [*Persona humana*,](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_ge.html) Nr. 8: *AAS* 68 (1976) 84-85; Schreiben *Homosexualitatis problema*: *AAS* 79 (1987) 543-554.
 
 4\) *KKK*, 2358.
-
-[](#top)

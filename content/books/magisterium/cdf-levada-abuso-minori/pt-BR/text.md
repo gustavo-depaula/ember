@@ -1,9 +1,5 @@
 # Carta do Cardeal Levada para a apresentação da circular na preparação de linhas-guia no tratamento dos casos de abuso sexual contra menores
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA DO CARDEAL WILLIAM JOSEPH LEVADA PARA A APRESENTAÇÃO DA CIRCULAR ÀS CONFERÊNCIAS EPISCOPAIS NA PREPARAÇÃO DE LINHAS-GUIA NO TRATAMENTO DOS CASOS DE ABUSO SEXUAL CONTRA MENORES POR PARTE DOS CLÉRIGOS *([\*](#*))**
@@ -30,5 +26,3 @@ sinceramente seu em Cristo.
 *Prefeito*
 
 (\*) *L'Osservatore Romano*, ed. em Português, 21 de Maio de 2011
-
-[](#top)

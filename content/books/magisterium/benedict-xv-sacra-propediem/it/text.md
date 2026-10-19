@@ -39,9 +39,9 @@ Noi pertanto nutriamo fiducia che i prossimi festeggiamenti centenari segneranno
 Per rendere più fruttuose le celebrazioni centenarie, su richiesta dei Ministri Generali delle tre Famiglie francescane, Noi concediamo, dal tesoro della Santa Chiesa, quanto segue:
 
 > **1.** Che in tutte le chiese, dove esiste il Sodalizio del Terz’Ordine, canonicamente eretto, celebrandovi entro un anno, a cominciare dal 16 aprile prossimo, un sacro triduo per solennizzare questo Centenario, i Terziari possano acquistare l’indulgenza plenaria, alle solite condizioni, in ciascuno dei tre giorni, e gli altri una volta soltanto; coloro poi che, pentiti dei propri peccati, visiteranno nelle suddette chiese il Santissimo Sacramento, lucreranno l’indulgenza di 7 anni ogni volta;
->
+
 > **2.** Che nei detti giorni tutti gli altari di tali chiese siano « privilegiati »; e che in quel triduo ogni sacerdote possa celebrare la Messa di San Francesco, come « votiva pro re gravi et publica simul causa », osservando le rubriche generali del Messale Romano, come vengono proposte nell’ultima edizione vaticana;
->
+
 > **3.** Che tutti i sacerdoti addetti a dette chiese possano, in quei giorni, benedire Rosari, medaglie e simili oggetti sacri, applicando ad essi le indulgenze apostoliche, come pure benedire i Rosari dei Crocigeri e di Santa Brigida.
 
 Quale auspicio dei celesti favori e a testimonianza della Nostra benevolenza, impartiamo affettuosamente a voi, Venerabili Fratelli, e a tutti i membri del Terz’Ordine l’Apostolica Benedizione.

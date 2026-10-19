@@ -1,16 +1,10 @@
 # Note de la Congrégation pour la Doctrine de la foi sur la banalisation de la sexualité, 21 décembre 2010
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***NOTE*** ***SUR LA BANALISATION DE LA SEXUALITÉ A PROPOS DE CERTAINES INTERPRÉTATIONS DE "LUMIÈRE DU MONDE"***
 
 *21 décembre 2010*
-
-* *
 
 A l’occasion de la publication du livre d’entretiens de Benoît XVI, *Lumière du monde*, ont été diffusées diverses interprétations erronées, qui ont semé la confusion au sujet de la position de l’Eglise catholique sur certaines questions de morale sexuelle. La pensée du Pape a été souvent instrumentalisée à des fins et à des intérêts sans lien avec le sens de ses paroles, alors qu’elle se comprend très bien quand on lit dans leur intégralité les chapitres où il est fait allusion à la sexualité humaine. L’intention du Saint-Père est claire: retrouver la grandeur du dessein de Dieu sur la sexualité, en évitant sa banalisation aujourd’hui courante.
 
@@ -25,5 +19,3 @@ A ce propos, il convient de relever que la situation qui s’est créée, par su
 Certains ont interprété les paroles de Benoît XVI en recourant à la théorie de ce qu’on appelle le «moindre mal». Cette théorie, toutefois, est susceptible d’interprétations déviantes de caractère proportionnaliste (cf. [Jean-Paul II](/holy_father/john_paul_ii/index_fr.htm), Encyclique *[Veritatis splendor](/edocs/FRA0081/_INDEX.HTM)*, nn. 75-77). Une action mauvaise par son objet, même s’il s’agit d’un moindre mal, ne peut être licitement voulue. Le Saint-Père n’a pas dit que la prostitution avec recours au préservatif pouvait être licitement choisie comme un moindre mal, comme certains l’ont soutenu. L’Eglise enseigne que la prostitution est immorale et doit être combattue. Celui qui, pourtant, en la pratiquant, tout en étant infecté par le VIH, s’emploie à réduire le risque de contamination, y compris par l’utilisation du préservatif, peut accomplir un premier pas vers le respect de la vie des autres, même si le mal de la prostitution demeure dans toute sa gravité. Ces jugements sont en harmonie avec tout ce que la tradition théologico-morale de l’Eglise a soutenu aussi par le passé.
 
 En conclusion, dans la lutte contre le sida, les membres et les institutions de l’Eglise catholique savent qu’ils doivent rester proches des personnes, en soignant les malades; ils savent aussi qu’ils doivent former tout le monde à vivre l’abstinence avant le mariage et la fidélité au sein de l’alliance conjugale. A cet égard, il faut également dénoncer les comportements qui banalisent la sexualité, car comme le dit le Pape, ils sont justement à l’origine d’un phénomène dangereux: bien des personnes ne perçoivent plus dans la sexualité l’expression de leur amour. «C’est la raison pour laquelle le combat contre la banalisation de la sexualité est aussi une partie de la lutte menée pour que la sexualité soit vue sous un jour positif, et pour qu’elle puisse exercer son effet bénéfique dans tout ce qui constitue notre humanité» (*Lumière du monde*, p. 160).
-
-[](#top)

@@ -4,8 +4,6 @@ ENCICLICA
 ***QUI NUPER*** DEL SOMMO PONTEFICE  
 **PIO IX**
 
-* *
-
 *A tutti i Patriarchi, Primati, Arcivescovi, Vescovi e a tutti gli Ordinari aventi grazia e comunione con la Sede Apostolica. Il Papa Pio IX. Venerabili Fratelli, salute e Apostolica Benedizione. *
 
 Quel moto di sedizione testé scoppiato in Italia contro i legittimi Principi, anche nei paesi confinanti con i Domini Pontifici, invase pure, come una fiamma d’incendio, alcune delle Nostre Province; le quali, mosse da quel funesto esempio e spinte da eccitamenti esterni, si sottrassero alla Nostra paterna autorità, cercando anzi, con lo sforzo di pochi, di sottoporsi a quel Governo italiano che in questi ultimi anni fu avverso alla Chiesa, ai legittimi suoi diritti ed ai sacri Ministri. Ora, mentre Noi riproviamo e lamentiamo questi atti di ribellione con i quali una sola parte del popolo, in quelle province così ingiustamente disturbate, risponde alle Nostre paterne cure e sollecitudini, e mentre apertamente dichiariamo essere necessario a questa Santa Sede il principato civile, perché senza alcun impedimento possa esercitare, nell’interesse della Religione, la sua sacra potestà (principato civile che i perversissimi nemici della Chiesa di Cristo si sforzano di strapparle), a Voi, Venerabili Fratelli, in così gran turbine di avvenimenti indirizziamo la presente lettera per dare qualche sollievo al Nostro dolore.

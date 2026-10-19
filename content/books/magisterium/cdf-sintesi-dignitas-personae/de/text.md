@@ -1,9 +1,5 @@
 # Zusammenfassung der Instrutktion DIGNITAS PERSONAE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***ZUSAMMENFASSUNG DER*** ***INSTRUKTION DIGNITAS PERSONAE ÜBER EINIGE FRAGEN DER BIOETHIK***
@@ -41,7 +37,7 @@ Die Instruktion «umfasst drei Teile: Im ersten Teil werden einige anthropologis
 ***Die zwei Grundprinzipien***
 
 > «Der Mensch muss von seiner Empfängnis an als Person geachtet und behandelt werden und infolgedessen muss man ihm von diesem Augenblick an die Rechte der Person zuerkennen und darunter vor allem das unverletzliche Recht jedes unschuldigen Menschen auf Leben» (Nr. 4).
->
+
 > «Der Ursprung des menschlichen Lebens hat... seinen authentischen Ort in Ehe und Familie, wo es durch einen Akt gezeugt wird, der die gegenseitige Liebe von Mann und Frau zum Ausdruck bringt. Eine gegenüber dem Ungeborenen wahrhaft verantwortliche Zeugung muss die Frucht der Ehe sein» (Nr. 6).
 
 ***Glaube und Menschenwürde***
@@ -65,21 +61,21 @@ Die Instruktion «umfasst drei Teile: Im ersten Teil werden einige anthropologis
 Heute werden folgende Techniken zur Behandlung der Unfruchtbarkeit angewandt:
 
 > «Techniken der heterologen künstlichen Befruchtung» (Nr. 12): diese sind darauf ausgerichtet, «künstlich eine menschliche Empfängnis herbeizuführen, und zwar ausgehend von Keimzellen, die mindestens von einem Spender stammen, der von den in der Ehe verbundenen Gatten verschieden ist» (Fußnote 22);
->
+
 > «Techniken der homologen künstlichen Befruchtung» (Nr. 12): diese sind darauf ausgerichtet, künstlich eine menschliche Empfängnis herbeizuführen, und zwar ausgehend von den Keimzellen zweier verheirateter Eheleute (vgl. Fußnote 23);
->
+
 > «Techniken, die sich als Hilfe für den ehelichen Akt und für dessen Fruchtbarkeit erweisen» (Nr. 12);
->
+
 > «Eingriffe zur gezielten Entfernung von Hindernissen, die der natürlichen Fruchtbarkeit entgegenstehen» (Nr. 13);
->
+
 > «das Verfahren zur Adoption» (Nr. 13).
 
 Sittlich erlaubt sind alle Techniken, die folgende Güter achten: «das Recht jedes Menschen auf Leben und physische Unversehrtheit»; «die Einheit der Ehe, welche die gegenseitige Achtung des Rechtes der Eheleute einschließt, dass der eine nur durch den anderen Vater oder Mutter wird»; «die eigentlich menschlichen Werte der Geschlechtlichkeit, die erfordern, dass die Zeugung einer menschlichen Person als Frucht des spezifisch ehelichen Aktes der Liebe zwischen den Eheleuten angestrebt werden muss» (Nr. 12).
 
 > Zulässig sind also «Techniken, die sich als Hilfe für den ehelichen Akt und für dessen Fruchtbarkeit erweisen... Der medizinische Eingriff achtet die Würde der Personen dann, wenn er darauf abzielt, den ehelichen Akt zu unterstützen, indem er seinen Vollzug erleichtert oder ihm sein Ziel zu erreichen hilft, sobald er in normaler Weise vollzogen worden ist» (Nr. 12).
->
+
 > Erlaubt sind gewiss «die Eingriffe zur gezielten Entfernung von Hindernissen, die der natürlichen Fruchtbarkeit entgegenstehen» (Nr. 13).
->
+
 > Es wäre wünschenswert, «das Verfahren zur Adoption der zahlreichen Waisenkinder... zu unterstützen, zu fördern und... zu erleichtern». Man soll «die Forschungen und Investitionen ermutigen..., die sich mit der Prävention der Sterilität beschäftigen» (Nr. 13).
 
 ***In-vitro-Befruchtung und willentliche Beseitigung von Embryonen***
@@ -99,7 +95,7 @@ Diese Technik ist sittlich unerlaubt: «Sie bewirkt eine vollständige Trennung 
 «Um die Eingriffe zur Entnahme von Eizellen nicht zu wiederholen, werden der Frau bei einem einzigen Eingriff mehrere Eizellen entnommen. Hierauf wird ein beträchtlicher Teil der in vitro erzeugten Embryonen eingefroren: entweder für einen zweiten Behandlungszyklus, wenn der erste erfolglos bleibt, oder für den Fall eines weiteren Kinderwunsches der Eltern» (Nr. 18). «Beim Einfrieren, auch Kryokonservierung genannt, werden die Embryonen auf ganz niedrige Temperaturen abgekühlt, um sie lange erhalten zu können» ([^35]).
 
 > «Die Kryokonservierung ist unvereinbar mit der Achtung, die den menschlichen Embryonen geschuldet ist: Sie setzt ihre Produktion in vitro voraus und ist mit schwerwiegenden Gefahren des Todes oder der Schädigung ihrer physischen Unversehrtheit verbunden, weil ein hoher Prozentsatz die Prozedur des Einfrierens und Auftauens nicht überlebt. Sie entzieht die Embryonen wenigstens zeitweise der mütterlichen Aufnahme und Austragung und setzt sie der Gefahr weiterer Verletzungen und Manipulationen aus» (Nr. 18).
->
+
 > Im Zusammenhang mit der großen Anzahl von schon bestehenden eingefrorenen Embryonen stellt sich die Frage: Was soll man mit ihnen machen? Alle diesbezüglichen Vorschläge (diese Embryonen für die Forschung verwenden oder für therapeutische Zwecke einsetzen; sie auftauen und, ohne sie zu aktivieren, für die Forschung verwenden, als ob es sich um gewöhnliche Leichen handelte; sie unfruchtbaren Paaren als „Therapie der Unfruchtbarkeit“ zur Verfügung stellen; eine Art „pränatale Adoption“ vornehmen) werfen Probleme unterschiedlicher Art auf. «Alles in allem muss man festhalten, dass die Embryonen, die zu Tausenden verlassen worden sind, eine faktisch irreparable Situation der Ungerechtigkeit schaffen. Deshalb richtete Johannes Paul II. einen Appell an das Gewissen der Verantwortlichen in der Welt der Wissenschaft und in besonderer Weise an die Ärzte, dass die Produktion menschlicher Embryonen eingestellt werde, denn man sieht keinen moralisch erlaubten Ausweg für das menschliche Los tausender und tausender „eingefrorener“ Embryonen, die doch immer Träger der Grundrechte sind und bleiben und deshalb rechtlich wie menschliche Personen zu schützen sind» (Nr. 19).
 
 ***Das Einfrieren von Eizellen***
@@ -125,7 +121,7 @@ Die Kryokonservierung von Eizellen, die an sich nicht unsittlich ist und auch in
 Es gibt technische Mittel, die nach einer Befruchtung wirken, also zu einem Zeitpunkt, an dem der Embryo bereits gebildet ist.
 
 > «Diese Techniken sind interzeptiv, wenn sie die Einnistung des Embryos in der Gebärmutter verhindern» (Nr. 23), etwa durch «die Spirale» oder «die so genannte „Pille danach“» ([^42]).
->
+
 > Sie sind kontragestiv, wenn sie die Vernichtung des schon eingenisteten Embryos zur Folge haben» (Nr. 23), zum Beispiel durch die «Pille RU 486» ([^43]).
 
 Die Interzeptiva bewirken nicht immer, wenn sie eingenommen werden, eine Abtreibung, auch weil es nicht nach jedem Geschlechtsverkehr zu einer Befruchtung kommt. Man muss jedoch anmerken, «dass bei denen, welche die Einnistung eines möglicherweise empfangenen Embryos verhindern wollen und deshalb solche Mittel wünschen oder verschreiben, im Allgemeinen die Vorsätzlichkeit zur Abtreibung vorhanden ist». Bei der Kontragestion «handelt es sich um die Abtreibung eines bereits eingenisteten Embryos... Deshalb zählt die Anwendung der interzeptiven und der kontragestiven Mittel zur Sünde der Abtreibung und ist in schwerwiegender Weise unsittlich» (Nr. 23).
@@ -139,15 +135,15 @@ Die Interzeptiva bewirken nicht immer, wenn sie eingenommen werden, eine Abtreib
 Unter Gentherapie versteht man «die Anwendung genetischer Techniken auf den Menschen mit einer therapeutischen Zielsetzung, das heißt zum Zweck der Heilung von Krankheiten auf genetischer Basis» (Nr. 25).
 
 > Die somatische Gentherapie «zielt darauf ab, genetische Defekte auf der Ebene der Körperzellen zu beheben oder zu vermindern» (Nr. 25).
->
+
 > Die Keimbahntherapie «möchte genetische Defekte beheben, die in den Zellen der Keimbahn vorhanden sind, und so bewirken, dass die erreichten therapeutischen Erfolge auf die eventuelle Nachkommenschaft des betreffenden Menschen übertragen werden» (Nr. 25).
 
 In ethischer Hinsicht gelten folgende Prinzipien:
 
 > Die somatische Gentherapie ist «prinzipiell sittlich erlaubt... Weil die Gentherapie ernsthafte Risiken für den Patienten mit sich bringen kann, muss der allgemeine ethische Grundsatz befolgt werden, gemäß dem es notwendig ist, vor der Durchführung eines therapeutischen Eingriffs sicherzustellen, dass der behandelte Mensch nicht Risiken für seine Gesundheit oder seine grundlegende Unversehrtheit ausgesetzt ist, die exzessiv oder unverhältnismäßig sind im Vergleich zur Schwere der Pathologie, die geheilt werden soll. Auch die nach Aufklärung erfolgte Zustimmung des Patienten oder seines rechtmäßigen Vertreters ist erforderlich» (Nr. 26).
->
+
 > Bei der Keimbahntherapie sind «die mit jeder Genmanipulation verbundenen Risiken beträchtlich und noch wenig kontrollierbar». Deshalb «ist es zum gegenwärtigen Zeitpunkt sittlich nicht erlaubt, etwas zu tun, das mögliche davon herrührende Schäden auf die Nachkommen überträgt» (Nr. 26).
->
+
 > Bezüglich der Hypothese, die Gentechnik zum Ziel einer vermeintlichen Verbesserung oder Potenzierung der genetischen Ausstattung des Menschen auszuwenden, muss festgestellt werden, dass solche Manipulationen «eine eugenische Mentalität fördern, ein indirektes soziales Stigma gegenüber jenen einführen, die keine besonderen Gaben besitzen, und zugleich Begabungen in den Mittelpunkt stellen, die von bestimmten Kulturen und Gesellschaften geschätzt werden, aber an sich nicht das spezifisch Menschliche ausmachen. Dies widerspräche der grundlegenden Wahrheit der Gleichheit aller Menschen, aus der sich der Grundsatz der Gerechtigkeit ergibt. Die Missachtung dieses Grundsatzes würde auf lange Sicht gesehen das friedliche Zusammenleben unter den Menschen gefährden... Man muss schließlich festhalten, dass der Versuch, einen neuen Menschentyp zu schaffen, eine ideologische Dimension aufweist, gemäß der sich der Mensch anmaßt, den Platz des Schöpfers einzunehmen» (Nr. 27).
 
 ***Das menschliche Klonen***
@@ -157,9 +153,9 @@ Unter menschlichem Klonen ist «die asexuelle und agamische Reproduktion des ges
 Das Klonen «ist in sich unerlaubt, weil es einen neuen Menschen ohne Verbindung mit dem Akt der gegenseitigen Hingabe von zwei Ehegatten und, noch radikaler, ohne irgendeine Beziehung zur Geschlechtlichkeit ins Leben rufen will. Ein solches Vorgehen öffnet die Tür für Missbräuche und Manipulationen, die schwer gegen die Menschenwürde verstoßen» (Nr. 28).
 
 > «Beim Klonen mit einer reproduktiven Zielsetzung würde dem geklonten Menschen ein vorausbestimmtes genetisches Erbgut auferlegt; wie man gesagt hat, wäre er faktisch einer Art biologischer Sklaverei unterworfen, aus der er sich nur schwer befreien könnte. Dass eine Person sich das Recht anmaßt, willkürlich die genetischen Merkmale einer anderen Person zu bestimmen, ist ein schwerer Verstoß gegen dessen Würde und gegen die grundlegende Gleichheit aller Menschen... Jeder von uns begegnet im anderen einem Menschen, der das eigene Dasein und die eigenen Merkmale der Liebe Gottes verdankt. Nur die Liebe zwischen den Ehegatten ist eine Vermittlung dieser Liebe, die dem Plan des Schöpfers und himmlischen Vaters entspricht» (Nr. 29).
->
+
 > Bezüglich des therapeutischen Klonens ist klarzustellen: «Die Herstellung von Embryonen mit der Absicht, sie zu zerstören, auch wenn man dadurch Kranken helfen möchte, ist mit der Menschenwürde vollkommen unvereinbar, weil so ein Mensch im Embryonalzustand zu einem bloßen Mittel wird, das man gebraucht und vernichtet. Es ist in schwerwiegender Weise unmoralisch, ein menschliches Leben für eine therapeutische Zielsetzung zu opfern» (Nr. 30).
->
+
 > Als Alternative zum therapeutischen Klonen haben einige Wissenschaftler neue Techniken entwickelt, von denen behauptet wird, dass man damit Stammzellen embryonaler Art herstellen könnte, ohne echte menschliche Embryonen zu vernichten, zum Beispiel durch die Übertragung eines alterierten Zellkerns (Altered Nuclear Transfer: ANT) oder die assistierte Reprogrammierung einer Eizelle (Oocyte Assisted Reprogramming: OAR). Diesbezüglich müssen aber noch die Zweifel «in Bezug auf den ontologischen Status des so erzeugten „Produktes“» geklärt werden (Nr. 30).
 
 ***Die therapeutische Verwendung der Stammzellen***
@@ -169,9 +165,9 @@ Das Klonen «ist in sich unerlaubt, weil es einen neuen Menschen ohne Verbindung
 Für die ethische Bewertung muss man vor allem die Methoden für die Gewinnung der Stammzellen in Betracht ziehen.
 
 > «Als erlaubt sind die Methoden anzusehen, die dem Menschen, dem die Stammzellen entnommen werden, keinen schweren Schaden zufügen. Dies ist gewöhnlich der Fall bei der Entnahme: a) aus Geweben des erwachsenen Organismus; b) aus dem Nabelschnurblut bei der Geburt; c) aus Geweben von Föten, die eines natürlichen Todes gestorben sind» (Nr. 32).
->
+
 > «Die Entnahme von Stammzellen aus dem lebendigen menschlichen Embryo führt... unvermeidlich zu seiner Vernichtung und ist deshalb in schwerwiegender Weise unerlaubt. In diesem Fall stellt sich die Forschung... nicht wirklich in den Dienst der Menschheit. Sie beschreitet nämlich einen Weg über die Vernichtung menschlicher Lebewesen, die dieselbe Würde besitzen wie die anderen Menschen und die Forscher selbst» (Nr. 32).
->
+
 > «Die Verwendung von embryonalen Stammzellen oder daraus entwickelten differenzierten Zellen, die nach der Vernichtung der Embryonen möglicherweise von anderen Forschern geliefert werden oder im Handel erhältlich sind, ist sehr problematisch: Sie bedeutet eine Mitwirkung am Bösen und ruft Ärgernis hervor» (Nr. 32). 
 
 Es ist zudem anzufügen, dass zahlreiche Untersuchungen den adulten Stammzellen positivere Ergebnisse als den embryonalen Stammzellen bescheinigen.
@@ -185,9 +181,7 @@ Es ist zudem anzufügen, dass zahlreiche Untersuchungen den adulten Stammzellen 
 Für die wissenschaftliche Forschung und für die Herstellung von verschiedenen Produkten werden gelegentlich Zelllinien verwendet, die das Resultat einer unrechtmäßigen Handlung gegen das Leben oder die physische Unversehrtheit eines Menschen sind.
 
 > Die Durchführung von Versuchen an Embryonen «stellt ein Verbrechen dar gegen ihre Würde als menschliche Geschöpfe, die das Recht auf dieselbe Achtung haben, die dem bereits geborenen Kind und jeder Person geschuldet wird. Die Durchführung von solchen Versuchen stellt immer ein schweres sittliches Vergehen dar» (Nr. 34).
->
-> Wenn Forscher „biologisches Material“ unerlaubten Ursprungs verwenden, das außerhalb ihrer Forschungszentren produziert wurde oder auf dem Markt erhältlich ist, muss immer «die moralische Forderung bestehen bleiben, dass dabei keine Beihilfe zu einer gewollten Abtreibung stattgefunden hat und dass die Gefahr des Ärgernisses vermieden wird. In diesem Zusammenhang ist das Kriterium der Unabhängigkeit, das von einigen Ethikkommissionen formuliert wurde, unzureichend. Dieses Kriterium besagt, dass die Verwendung von „biologischem Material“ unerlaubten Ursprungs immer dann ethisch zulässig wäre, wenn es eine klare Trennung gäbe zwischen jenen, die auf der einen Seite die Embryonen herstellen, einfrieren und töten, und den Forschern, die andererseits wissenschaftliche Experimente damit durchführen». Es ist klarzustellen, «dass die Verpflichtung zur Ablehnung eines derartigen „biologischen Materials“... von der Verpflichtung herrührt, sich bei der Ausübung der eigenen Forschungstätigkeit von einem schwer ungerechten gesetzlichen Rahmen abzugrenzen und klar den Wert des menschlichen Lebens zu bezeugen. Darum ist das oben genannte Kriterium der Unabhängigkeit notwendig, kann aber in ethischer Sicht nicht ausreichend sein» (Nr. 35).
->
-> «Natürlich gibt es innerhalb dieses allgemeinen Rahmens differenzierte Verantwortlichkeiten. Aus gewichtigen Gründen könnte die Verwendung des genannten „biologischen Materials“ sittlich angemessen und gerechtfertigt sein. So dürfen zum Beispiel Eltern wegen der Gefahr für die Gesundheit der Kinder die Verwendung von Impfstoffen gestatten, bei deren Vorbereitung Zelllinien unerlaubten Ursprungs verwenden wurden, wobei jedoch alle verpflichtet sind, dagegen Einspruch zu erheben und zu fordern, dass die Gesundheitssysteme andere Arten von Impfstoffen zur Verfügung stellen. Man muss auch beachten, dass in Betrieben, die Zelllinien ungerechten Ursprungs verwenden, jene, die keine Entscheidungsvollmacht haben, nicht dieselbe Verantwortung tragen wie jene, die über die Ausrichtung der Produktion entscheiden» (Nr. 35).
 
-[](#top)
+> Wenn Forscher „biologisches Material“ unerlaubten Ursprungs verwenden, das außerhalb ihrer Forschungszentren produziert wurde oder auf dem Markt erhältlich ist, muss immer «die moralische Forderung bestehen bleiben, dass dabei keine Beihilfe zu einer gewollten Abtreibung stattgefunden hat und dass die Gefahr des Ärgernisses vermieden wird. In diesem Zusammenhang ist das Kriterium der Unabhängigkeit, das von einigen Ethikkommissionen formuliert wurde, unzureichend. Dieses Kriterium besagt, dass die Verwendung von „biologischem Material“ unerlaubten Ursprungs immer dann ethisch zulässig wäre, wenn es eine klare Trennung gäbe zwischen jenen, die auf der einen Seite die Embryonen herstellen, einfrieren und töten, und den Forschern, die andererseits wissenschaftliche Experimente damit durchführen». Es ist klarzustellen, «dass die Verpflichtung zur Ablehnung eines derartigen „biologischen Materials“... von der Verpflichtung herrührt, sich bei der Ausübung der eigenen Forschungstätigkeit von einem schwer ungerechten gesetzlichen Rahmen abzugrenzen und klar den Wert des menschlichen Lebens zu bezeugen. Darum ist das oben genannte Kriterium der Unabhängigkeit notwendig, kann aber in ethischer Sicht nicht ausreichend sein» (Nr. 35).
+
+> «Natürlich gibt es innerhalb dieses allgemeinen Rahmens differenzierte Verantwortlichkeiten. Aus gewichtigen Gründen könnte die Verwendung des genannten „biologischen Materials“ sittlich angemessen und gerechtfertigt sein. So dürfen zum Beispiel Eltern wegen der Gefahr für die Gesundheit der Kinder die Verwendung von Impfstoffen gestatten, bei deren Vorbereitung Zelllinien unerlaubten Ursprungs verwenden wurden, wobei jedoch alle verpflichtet sind, dagegen Einspruch zu erheben und zu fordern, dass die Gesundheitssysteme andere Arten von Impfstoffen zur Verfügung stellen. Man muss auch beachten, dass in Betrieben, die Zelllinien ungerechten Ursprungs verwenden, jene, die keine Entscheidungsvollmacht haben, nicht dieselbe Verantwortung tragen wie jene, die über die Ausrichtung der Produktion entscheiden» (Nr. 35).

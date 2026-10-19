@@ -27,5 +27,3 @@ Drodzy seminarzyści! W tych zdaniach chciałem pokazać wam, jak dużo o was my
 *Watykan, 18 października 2010, w święto św. Łukasza Ewangelisty.*
 
 Oddany w Panu **BENEDICTUS PP. XVI**
-
-**  **

@@ -1,18 +1,8 @@
 # A Tribute to Pope Francis: In the Footsteps of a Father. Cardinal Víctor Manuel Fernández in Dialogue with the Doctrinal Section of the Dicastery
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Cardinal Víctor Manuel Fernández *Prefect of the Dicastery for the Doctrine of the Faith*
-
-* *
 
 **A Tribute to Pope Francis:**
 

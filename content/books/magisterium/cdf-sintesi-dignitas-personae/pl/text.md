@@ -1,12 +1,6 @@
 # WOKÓŁ INSTRUKCJI DIGNITAS PERSONAE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **WOKÓŁ INSTRUKCJI *DIGNITAS PERSONAE***
-
-** **
 
 **Cel Dokumentu**
 
@@ -39,7 +33,7 @@ Instrukcja «składa się z trzech części: pierwsza przypomina niektóre aspek
 **Dwie podstawowe zasady**
 
 >  «Istota ludzka powinna być szanowana i traktowana jako osoba od chwili swojego poczęcia i dlatego od tej samej chwili należy uznać jej prawa osoby, a wśród nich nade wszystko nienaruszalne prawo każdej niewinnej istoty ludzkiej do życia» (n. 4).
->
+
 >  «Początek życia człowieka ma swój prawdziwy kontekst w małżeństwie i w rodzinie, w której zostaje ono poczęte poprzez akt wyrażający wzajemną miłość mężczyzny i kobiety. Prokreacja prawdziwie odpowiedzialna wobec mającego się narodzić dziecka winna być owocem małżeństwa» (n. 6).
 
 **Wiara i godność ludzka**
@@ -63,21 +57,21 @@ Instrukcja «składa się z trzech części: pierwsza przypomina niektóre aspek
 Wśród technik stosowanych w celu przezwyciężenia bezpłodności są aktualnie dostępne:
 
 > «techniki sztucznego zapłodnienia heterologicznego» (n. 12): podejmowane «dla uzyskania w sposób sztuczny poczęcia ludzkiego z gamet pobranych przynajmniej od jednego dawcy innego niż małżonkowie złączeni węzłem małżeńskim» (przypis 22);
->
+
 > «techniki sztucznego zapłodnienia homologicznego» (n. 12): podejmowane «dla uzyskania poczęcia ludzkiego z gamet małżonków złączonych węzłem małżeńskim» (przypis 23);
->
+
 > «metody, które mają na celu wspieranie aktu małżeńskiego i jego płodności» (n. 12);
->
+
 > «interwencje mające na celu usuniecie przeszkód uniemożliwiających naturalną płodność» (n. 13);
->
+
 > «procedura adopcji» (n. 13).
 
 W tej dziedzinie są godziwe wszystkie te techniki, które szanują: «prawo do życia i do integralności fizycznej każdej istoty ludzkiej od poczęcia aż do naturalnej śmierci», «jedność małżeństwa, pociągającą za sobą wzajemne poszanowanie prawa małżonków do stania się ojcem i matką wyłącznie dzięki sobie» i «specyficznie ludzkie wartości płciowości, które wymagają, by przekazanie życia osobie ludzkiej nastąpiło jako owoc właściwego aktu małżeńskiego, aktu miłości między małżonkami» (n. 12).
 
 > Są więc «dopuszczalne te metody, które mają na celu wspieranie aktu małżeńskiego i jego płodności (…) Lekarz pozostaje w służbie osób i przekazywania życia ludzkiego. Nie jest uprawniony do dysponowania nimi, ani do decydowania o nich. Interwencja lekarska szanuje godność osób, gdy ułatwia ten akt lub pozwala uzyskać jego cel, jeśli został dokonany w sposób normalny» (n. 12).
->
+
 > Są «z pewnością dopuszczalne działania mające na celu usunięcie przeszkód uniemożliwiających naturalną płodność» (n. 13).
->
+
 > Należy «zachęcać do adopcji licznych sierot (…) propagować ją i ułatwiać związane z nią procedury». Zasługują na zachętę «badania i inwestycje ukierunkowane na zapobieganie niepłodności» (n. 13).
 
 **Zapłodnienie in vitro i zamierzone niszczenie embrionów**
@@ -97,7 +91,7 @@ Ta technika jest moralnie niegodziwą: «powoduje ona całkowite oddzielenie pro
 «W celu uniknięcia powtórnego pobierania owocytów od kobiety stosuje się jednorazowe pobranie większej ich liczby, po czym znaczna część embrionów uzyskanych in vitro zostaje poddana kriokonserwacji, z myślą o drugim cyklu zabiegu w wypadku niepowodzenia pierwszego bądź w wypadku, gdyby rodzice pragnęli następnej ciąży» (n. 18). Zamrażanie czy kriokonserwacja w przypadku embrionów «polega na zamrażaniu w bardzo niskiej temperaturze, by móc je długo przechowywać» (przypis 35).
 
 > «Kriokonserwacja jest nie do pogodzenia z szacunkiem należnym embrionom ludzkim: zakłada ich produkowanie in vitro; wystawia je na poważne niebezpieczeństwo śmierci albo naruszenie ich integralności fizycznej, ponieważ znaczący ich procent nie przeżywa procesu zamrożenia i rozmrożenia; pozbawia je, przynajmniej czasowo, możliwości przyjęcia i kształtowania w łonie matki; naraża je na dalsze szkody i manipulacje» (n. 18)
->
+
 > Jeśli chodzi o wielką ilość zamrożonych obecnie embrionów stawia się pytanie: co z nimi robić? W tej kwestii wszystkie propozycje (wykorzystania tych embrionów w celach badawczych albo przeznaczenie ich do celów terapeutycznych; rozmrożenie ich i, bez reaktywacji, użycie do badań, jak gdyby były normalnymi zwłokami, oddanie ich parom bezpłodnym, jako “terapia niepłodności”; proponowanie formy “adopcji prenatalnej”) przedstawiają problemy różnej natury. «Trzeba na koniec stwierdzić, że tysiące porzuconych embrionów stwarzają sytuację niesprawiedliwości nie do naprawienia. Dlatego Jan Paweł II odwołał się do sumienia osób sprawujących odpowiedzialne funkcje w środowisku naukowym, a w szczególny sposób do lekarzy, aby została wstrzymana produkcja ludzkich embrionów, zważywszy że nie ma moralnie godziwego rozwiązania, które zapewniłoby ludzką przyszłość wielu tysiącom „zamrożonych” embrionów, choć przecież mają one i zawsze zachowają swoje podstawowe prawa i tym samym winny być chronione przez prawo jako ludzkie osoby» (n. 19).
 
 **Zamrażanie owocytów**
@@ -123,7 +117,7 @@ Kriokonserwacja owocytów, sama przez się nie jest niemoralna i proponowana tak
 Istnieją także techniki, działające po zapłodnieniu, kiedy embrion już jest ukonstytuowany.
 
 > «Są to techniki «„przechwytujące”, jeśli wychwytują embrion przed jego zagnieżdżeniem się w macicy matki» (n. 23), na przykład przez «spiralę albo (…) tak zwaną „pigułką następnego dnia”» (przypis 42).
->
+
 > Są one «„przeciwciążowe”, jeśli powodują zniszczenie embrionu dopiero co zagnieżdżonego» (n. 23), na przykład przy użyciu «pigułki RU-486» (przypis 43).
 
 Nawet jeśli środki te nie powodują aborcji za każdym razem, gdy zostają przyjęte, również dlatego, że nie zawsze po stosunku płciowym dochodzi do zapłodnienia, należy stwierdzić «u osoby, która chce uniemożliwić implantację embrionu, który ewentualnie został poczęty i w tym celu prosi o tego rodzaju środki farmakologiczne, bądź je przepisuje, w ogólnym nastawieniu występuje zamiar aborcji». W przypadku zapobiegania ciąży «chodzi o aborcję embrionu dopiero co zagnieżdżonego (…) Stosowanie środków „przechwytujących” i przeciwciążowych wchodzi w zakres grzechu aborcji i jest poważnie niemoralne » (n. 23).
@@ -137,15 +131,15 @@ Nawet jeśli środki te nie powodują aborcji za każdym razem, gdy zostają prz
 Przez terapię genową rozumie się «zastosowanie wobec człowieka technik inżynierii genetycznej w celach terapeutycznych, czyli innymi słowy, by leczyć choroby genetyczne» (n. 25).
 
 > Terapia genowa komórek somatycznych «jest wyeliminowaniem lub ograniczeniem wad genetycznych występujących w komórkach somatycznych» (n. 25).
->
+
 > Terapia genowa komórek zarodkowych ma na celu «korygowanie wad genetycznych, występujących w komórkach zarodkowych, aby efekty terapeutyczne, osiągnięte u danego osobnika, przenosiły się na jego ewentualne potomstwo» (n. 25).
 
 Z punktu widzenia etycznego:
 
 > Jeśli chodzi o zabiegi terapii genowej komórek somatycznych, «są z zasady moralnie godziwe (…) Zważywszy na fakt, że terapia genowa może pociągać za sobą znaczne ryzyko dla pacjenta, należy przestrzegać głównej zasady deontologii, według której przed podjęciem zabiegu terapeutycznego należy upewnić się, że wiążące się z nim ryzyko dla zdrowia pacjenta lub dla jego zasadniczej integralności nie będzie nadmierne lub nieproporcjonalne w stosunku do zagrożeń związanych z patologią, którą zamierza się leczyć. Potrzebna jest również zgoda poinformowanego o wszystkim pacjenta lub jego prawnego opiekuna» (n. 26).
->
+
 > Jeśli chodzi o zabiegi terapii genowej komórek zarodkowych, «ryzyko związane z każdą manipulacją genetyczną jest wysokie i jak dotąd trudne do kontrolowania» i dlatego «przy obecnym stanie badań działanie powodujące przechodzenie na potomstwo potencjalnych szkód, nie jest moralnie dopuszczalne» (n. 26).
->
+
 > Jeśli chodzi zaś o hipotezę zastosowania technik inżynierii genetycznej do manipulacji mających rzekomo doprowadzić do udoskonalenia i wzmocnienia naszego wyposażenia genetycznego, należy stwierdzić, że takie manipulacje sprzyjałyby «mentalności eugenicznej» i wprowadziłyby «pośrednio społeczne piętno na osoby nie posiadające określonych cech i uwypukliłyby jednocześnie cechy cenione w tych kulturach i społecznościach, które same w sobie nie stanowią o ludzkiej specyfice. Byłoby to sprzeczne z podstawową prawdą o równości wszystkich istot ludzkich, przekładającą się na zasadę sprawiedliwości, której pogwałcenie, w dalszej perspektywie, stałoby się zamachem na pokojowe współżycie jednostek (…) Trzeba na koniec powiedzieć, że w próbie stworzenia nowego rodzaju człowieka dostrzec można zarys ideologii, w której człowiek rości sobie prawo do zastąpienia Stwórcy» (n. 27).
 
 **Klonowanie ludzi**
@@ -155,9 +149,9 @@ Przez klonowanie ludzki rozumie się «rozmnażanie bezpłciowe i agamiczne cał
 Klonowanie «jest ze swej natury niedopuszczalne, gdyż (…) doprowadzając do skrajności zło sztucznego zapłodnienia, ma na celu wytwarzanie nowych istot ludzkich w sposób nie mający żadnego związku z aktem wzajemnego obdarowania dwojga małżonków i jeszcze bardziej radykalnie, bez żadnego związku z płciowością. Prowadzi to do nadużyć i manipulacji, stanowiących poważne pogwałcenie ludzkiej godności» (n. 28).
 
 > Jeśli chodzi o klonowanie reprodukcyjne, «podmiotowi klonowanemu narzucałoby się z góry określony materiał genetyczny, skazując go w rzeczywistości – jak zostało powiedziane – na swego rodzaju niewolnictwo biologiczne, z którego trudno byłoby mu się oswobodzić. Fakt, że człowiek rości sobie prawo do samowolnego określania cech genetycznych innej osoby, stanowi poważną obrazę jej godności oraz zasadniczej równości ludzi (…) Każdy z nas spotyka w drugim istotę ludzką, zawdzięczającą swoje istnienie i swoje własne cechy miłości Boga, dla której jedynie miłość między małżonkami jest pośrednikiem, odpowiadającym zamysłowi Stwórcy i Ojca Niebieskiego» (n. 29).
->
+
 > Jeśli chodzi o klonowanie terapeutyczne, należy podkreślić, że «tworzenie embrionów z zamiarem ich zniszczenia, nawet jeśli przyświeca temu intencja niesienia pomocy chorym, jest całkowicie niezgodne z godnością człowieka, ponieważ czyni z życia istoty ludzkiej, choć jest ona w stadium embrionalnym, jedynie narzędzie do wykorzystania i zniszczenia. Poświęcanie ludzkiego życia dla celów terapeutycznych jest głęboko niemoralne» (n. 30).
->
+
 > Jako alternatywę dla klonowania terapeutycznego, pojawiły się propozycje nowych technik zdolnych rzekomo produkować komórki macierzyste typu embrionalnego bez konieczności zabijania prawdziwych embrionów ludzkich, na przykład, przez transfer jądra komórki metodą (ANT) i przez reprogramowanie oocytów (OAR). W tej dziedzinie pozostają jeszcze do wyjaśnienia wątpliwości «dotyczące przede wszystkim statusu ontologicznego otrzymanego w ten sposób “produktu”» (n. 30).
 
 **Wykorzystywanie komórek macierzystych do celów terapeutycznych**
@@ -167,9 +161,9 @@ Klonowanie «jest ze swej natury niedopuszczalne, gdyż (…) doprowadzając do 
 W celu oceny etycznej należy rozważyć przede wszystkim metody pobierania komórek macierzystych.
 
 > «Za dopuszczalne uważa się te metody, które nie powodują poważnego uszczerbku u osoby, od której są pobierane komórki macierzyste. Ten warunek jest zazwyczaj spełniony w przypadku, gdy pobiera się je: a) z tkanki dorosłego osobnika; b) z krwi pępowinowej w momencie porodu; c) z tkanki płodu zmarłego śmiercią naturalną» (n. 32).
->
+
 > «Pobranie komórek macierzystych z żywego ludzkiego embrionu (…) prowadzi nieuchronnie do jego zniszczenia, a zatem jest w poważnym stopniu niedopuszczalne. W tym przypadku badania (…) nie służą w rzeczywistości człowiekowi. Ich ceną jest bowiem zagłada istot ludzkich, które mają taką samą godność jak inne ludzkie jednostki i sami badacze» (n. 32).
->
+
 > «Wykorzystywanie embrionalnych komórek macierzystych lub pochodzących od nich komórek zróżnicowanych dostarczonych ewentualnie przez innych badaczy, którzy uzyskali je, niszcząc embriony, jak również dostępnych w handlu, pociąga za sobą poważne problemy z zakresu współdziałania ze złem i powodowania zgorszenia» (n. 32).
 
 Należy podkreślić w każdym razie, że badania i eksperymenty prowadzone na wysokim poziomie naukowym, zdają się przynosić lepsze rezultaty na dorosłych komórkach macierzystych niż badania na komórkach embrionalnych.
@@ -183,9 +177,7 @@ Należy podkreślić w każdym razie, że badania i eksperymenty prowadzone na w
 Wykorzystanie ludzkiego „materiału biologicznego” z nielegalnego źródła Do badań naukowych oraz do produkcji szczepionek lub innych produktów bywają niekiedy wykorzystywane embriony albo linie komórkowe, powstałe w wyniku niegodziwego zabiegu, wymierzonego przeciwko ludzkiemu życiu lub fizycznej integralności bytu ludzkiego.
 
 > Jeśli chodzi o eksperymenty na embrionach, takie działanie «jest przestępstwem przeciw ich godności istot ludzkich, które mają prawo do takiego samego szacunku jak dziecko już narodzone i jak każdy człowiek. Tego typu eksperymenty stanowią zawsze poważny nieład moralny» (n. 34).
->
-> Jeśli chodzi o wykorzystanie przez badaczy „materiału biologicznego” z niegodziwego źródła, który został wyprodukowany poza ich ośrodkiem badawczym lub jest dostępny w sprzedaży, obowiązuje zawsze «wymóg moralny, żeby nie było w tym żadnego współudziału w dobrowolnym przerywaniu ciąży i nie spowodowało się zgorszenia. W odniesieniu do tego niewystarczające jest formułowane przez niektóre komitety etyczne kryterium niezależności, czyli uznanie, iż jest rzekomo etycznie godziwe wykorzystanie „materiału biologicznego” z niegodziwego źródła, pod warunkiem że istnieje wyraźny rozdział pomiędzy tymi, którzy produkują, zamrażają i uśmiercają embriony, a uczonymi, którzy prowadzą doświadczenia naukowe. Kryterium niezależności nie wystarcza, by uniknąć sprzeczności w postawie osoby, która twierdzi, że nie popiera nieprawości popełnianej przez innych, ale jednocześnie akceptuje dla potrzeb własnej pracy „materiał biologiczny” uzyskiwany przez innych w wyniku takiej nieprawości (…) wynika z obowiązku wyrażenia sprzeciwu, w zakresie dotyczącym własnej pracy badawczej, wobec głęboko niesprawiedliwego rozwiązania ustawodawczego oraz z obowiązku potwierdzania w sposób wyraźny wartości ludzkiego życia. Dlatego też wspomniane wyżej kryterium niezależności jest konieczne, ale z etycznego punktu widzenia może być niewystarczające» (n. 35).
->
-> «Naturalnie w ramach tych ogólnych założeń istnieje zróżnicowana odpowiedzialność, i ważne racje mogłyby po części usprawiedliwić moralnie wykorzystanie rzeczonego „materiału biologicznego”. Tak więc na przykład zagrożenie życia dziecka może upoważnić rodziców do zastosowania szczepionki wyprodukowanej przy użyciu linii komórkowych niegodziwego pochodzenia, nie mniej jednak pozostaje obowiązek wszystkich by wyrazić swój sprzeciw i zażądać od osób odpowiedzialnych za systemy opieki zdrowotnej, by dostępne były inne rodzaje szczepionek. Z drugiej strony należy pamiętać, że w firmach wykorzystujących linie komórkowe niegodziwego pochodzenia nie jest taka sama odpowiedzialność tych, którzy decydują o kierunkach produkcji, i tych którzy nie mają żadnej władzy decyzyjnej» (n. 35).
 
-[](#top)
+> Jeśli chodzi o wykorzystanie przez badaczy „materiału biologicznego” z niegodziwego źródła, który został wyprodukowany poza ich ośrodkiem badawczym lub jest dostępny w sprzedaży, obowiązuje zawsze «wymóg moralny, żeby nie było w tym żadnego współudziału w dobrowolnym przerywaniu ciąży i nie spowodowało się zgorszenia. W odniesieniu do tego niewystarczające jest formułowane przez niektóre komitety etyczne kryterium niezależności, czyli uznanie, iż jest rzekomo etycznie godziwe wykorzystanie „materiału biologicznego” z niegodziwego źródła, pod warunkiem że istnieje wyraźny rozdział pomiędzy tymi, którzy produkują, zamrażają i uśmiercają embriony, a uczonymi, którzy prowadzą doświadczenia naukowe. Kryterium niezależności nie wystarcza, by uniknąć sprzeczności w postawie osoby, która twierdzi, że nie popiera nieprawości popełnianej przez innych, ale jednocześnie akceptuje dla potrzeb własnej pracy „materiał biologiczny” uzyskiwany przez innych w wyniku takiej nieprawości (…) wynika z obowiązku wyrażenia sprzeciwu, w zakresie dotyczącym własnej pracy badawczej, wobec głęboko niesprawiedliwego rozwiązania ustawodawczego oraz z obowiązku potwierdzania w sposób wyraźny wartości ludzkiego życia. Dlatego też wspomniane wyżej kryterium niezależności jest konieczne, ale z etycznego punktu widzenia może być niewystarczające» (n. 35).
+
+> «Naturalnie w ramach tych ogólnych założeń istnieje zróżnicowana odpowiedzialność, i ważne racje mogłyby po części usprawiedliwić moralnie wykorzystanie rzeczonego „materiału biologicznego”. Tak więc na przykład zagrożenie życia dziecka może upoważnić rodziców do zastosowania szczepionki wyprodukowanej przy użyciu linii komórkowych niegodziwego pochodzenia, nie mniej jednak pozostaje obowiązek wszystkich by wyrazić swój sprzeciw i zażądać od osób odpowiedzialnych za systemy opieki zdrowotnej, by dostępne były inne rodzaje szczepionek. Z drugiej strony należy pamiętać, że w firmach wykorzystujących linie komórkowe niegodziwego pochodzenia nie jest taka sama odpowiedzialność tych, którzy decydują o kierunkach produkcji, i tych którzy nie mają żadnej władzy decyzyjnej» (n. 35).

@@ -6,8 +6,6 @@
 
 ***LAUDATO SI'***
 
-*** ***
-
 *1. **Laudato si', mi' Signore - Hvaljen, moj Gospod,*** je pel sv. Frančišek Asiški. V tej lepi hvalnici nas spominja, da je naš skupni dom kakor sestra, s katero si delimo življenje, in dobra kakor mati, ki nas sprejema v svoje naročje. »Hvaljen, moj Gospod, v naši sestri zemlji, ki nas kakor mati hrani in nam gospodinji in prinaša različno sadje in pisane rože z zelenjem.« [^1]
 
 2\. Ta sestra se pritožuje zaradi zla, ki ji ga povzročamo z neodgovorno rabo in zlorabo dobrin, s katerimi jo je obdaril Bog. Rastli smo z mislijo, da smo njeni lastniki in gospodarji, da nam je dovoljeno njeno ropanje. Nasilje, ki tli v človeškem srcu, ranjenem zaradi greha, se razodeva tudi v bolezenskih znakih, ki jih opažamo v prsti, vodi, zraku in v živih bitjih. Zato je naša izčrpana in opustošena zemlja, ki »skupno zdihuje in trpi porodne bolečine« (Rim 8,22), med najbolj zapuščenimi in trpinčenimi. Pozabljamo, da smo mi sami prah zemlje (prim. 1 Mz 2,7). Naše telo sestavljajo prvine planeta, njen zrak nam omogoča dihanje, njena voda nas oživlja in krepča.
@@ -725,8 +723,6 @@ Frančišek
 ------------------------------------------------------------------------
 
 **KRATICE**
-
-** **
 
 AAS           Acta Apostolicae sedis (Rim)
 

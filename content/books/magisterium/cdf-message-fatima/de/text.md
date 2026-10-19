@@ -1,9 +1,5 @@
 # Die Botschaft von Fatima
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***DIE BOTSCHAFT VON FATIMA***
@@ -310,5 +306,3 @@ Ich möchte am Ende noch ein weiteres mit Recht berühmt gewordenes Stichwort de
 \(7\) In der zitierten "vierten Erinnerung" fügt Schwester Lucia an: "In Portugal wird man stets das Dogma des Glaubens bewahren, usw".
 
 \(8\) In der Übersetzung wurde der Originaltext auch in den Ungenauigkeiten der Interpunktion geachtet. Diese behindern übrigens das Verständnis dessen, was die Seherin sagen wollte, nicht.
-
-[](#top)

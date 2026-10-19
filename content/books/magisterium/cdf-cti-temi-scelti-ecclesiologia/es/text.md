@@ -1,9 +1,5 @@
 # Comunicado de Radio Vaticana del 10 de diciembre de 1985 sobre el documento relativo a temas selectos de eclesiología
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **DOCUMENTO DE LA COMISIÓN TEOLÓGICA INTERNACIONAL RELATIVO A TEMAS SELECTOS DE ECLESIOLOGÍA**
 
 **(Comunicado Radio Vaticana, 10 de diciembre de 1985)**
@@ -15,5 +11,3 @@ Los temas sujetos a examen son 10: [La fundación de la Iglesia por Jesucristo](
 [En un preámbulo al documento](/roman_curia/congregations/cfaith/cti_documents/rc_cti_1984_ecclesiologia_sp.html#Prólogo), el cardenal Ratzinger, presidente de la Comisión Teológica Internacional, pone de relieve que se han seleccionado algunos temas que han provocado en el debate posconciliar nuevas cuestiones, y que requieren clarificación o también integración e investigación más profunda. Él advierte también que ninguno de los capítulos del documento ofrece una aproximación exhaustiva del tema. No se proponen investigaciones científicas sobre determinados puntos, sino que se presenta el conocimiento común, que nuevamente esclarece y avanza las líneas fundamentales. La convicción del cardenal Ratzinger es que el documento en cuestión puede constituir un precioso complemento orientativo para captar de nuevo la herencia del Concilio y desarrollarla de forma adecuada.
 
 El texto del documento, según los estatutos y la praxis de la Comisión Teológica Internacional, es fruto de la elaboración de varios estudios, en particular de dos reuniones específicas de la subcomisión “*De Ecclesia*” en París y Friburgo, y de las discusiones de la sesión plenaria del mes de octubre de 1984. La última redacción del documento, que ha sido distribuido a los los Padres antes del último Sínodo, es del presidente de dicha subcomisión, mons. Pierre Eyt, rector del *Institut Catholique* de Paris.
-
-[](#top)

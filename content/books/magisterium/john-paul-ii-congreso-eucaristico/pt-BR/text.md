@@ -43,5 +43,3 @@ Enquanto me sinto unido a vós nestes dias de graça, concedo-vos a todos, Pasto
 *Vaticano, 13 de Maio de 1999, Solenidade da Ascensão do Senhor.*
 
 **PAPA JOÃO PAULO II**
-
-** **

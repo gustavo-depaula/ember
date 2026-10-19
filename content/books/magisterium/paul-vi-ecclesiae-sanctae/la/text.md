@@ -48,13 +48,13 @@ Quo facilius igitur et aptius Episcopi suum pastorale munus exercere valeant atq
 **3.** Ut transitus clericorum ab una ad aliam dioecesim facilior reddatur, - firmo manente incardinationis et excardinationis instituto, utique novis adiunctis aptando — haec servanda statuuntur:
 
 > *§ 1.* Clerici in Seminaris ita instituantur, ut non tantum dioecesis, in cuius servitium ordinantur, sed universae Ecclesiae quoque sollicitudinem habeant, utque, de licentia proprii Episcopi, paratos se exhibeant qui Ecclesiis particularibus, quarum gravis urget necessitas, sese devoveant;
->
+
 > *§ 2.* Extra casum verae necessitatis propriae dioecesis, Ordinarii seu Hierarchae ne denegent licentiam emigrandi clericis, quos paratos sciant atque aptos aestiment qui regiones petant gravi cleri inopia laborantes, ibidem sacrum ministerium peracturi, curent vero, ut per conventionem scriptam cum Ordinario loci quem petunt iura et officia eorum clericorum stabiliantur;
->
+
 > *§ 3.* Curent autem iidem Ordinarii, ut clerici a propria dioecesi ad dioecesim alterius nationis transmigrare intendentes apte praeparentur ad ibidem sacrum ministerium exercendum, ut scilicet et linguae regionis scientiam acquirant, et eiusdem institutorum, condicionum socialium, usuum et consuetudinum intellegentiam habeant;
->
+
 > *§ 4.* Ordinarii licentiam ad aliam dioecesim transmigrandi concedere possunt suis clericis, ad tempus praefinitum, etiam pluries renovandum, ita tamen ut iidem clerici in propria dioecesi incardinati maneant, atque in eandem redeuntes omnibus iuribus gaudeant, quae haberent si in ea sacro ministerio addicti fuissent;
->
+
 > *§ 5.* Clericus autem qui a propria dioecesi in aliam legitime transmigraverit, huic dioecesi, transacto quinquennio, ipso iure incardinatur, si talem voluntatem in scriptis manifestaverit tum Ordinario dioecesis hospitis tum Ordinario proprio, nec horum alteruter ipsi contrariam scripto mentem intra quattuor menses significaverit.
 
 **4.** Praeterea, ad peculiaria opera pastoralia vel missionaria perficienda pro variis regionibus aut coetibus socialibus, qui speciali indigent adiutorio, possunt ab Apostolica Sede utiliter erigi Praelaturae, quae constent presbyteris cleri saecularis, peculiari formatione donatis, quaeque sunt sub regimine proprii Praelati et propriis gaudent statutis.  
@@ -107,7 +107,7 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **12.**
 
 > § 1. Ut dioecesium circumscriptiones congrue recognosci possint, Conferentiae Episcopales, pro suo quaeque territorio, condita, si casus ferat, peculiari Commissione, examini subiciant praesentes Ecclesiarum divisiones territoriales. Quare oportet ut dioecesium status, quoad territorium, personas et res, rite investigetur; singuli Episcopi, quorum directe intersit, necnon Episcopi totius provinciae vel regionis ecclesiasticae intra cuius fines dioecesium recognitio fiat, audiantur; virorum vere peritorum, sive ecclesiasticorum, sive laicorum, auxilium pro posse adhibeatur; in natura sitae rationes, quae circumscriptiones immutare forte suadeant, aequo animo perpendantur; omnes innovationes forte introducendae, de quibus in nn. 22-23 Decreti [*Christus* *Dominus*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html), proponantur; in dioecesium divisione vel dismembratione, aequa et apta presbyterorum necnon Seminarii alumnorum distributio, attentis tum necessitatibus ministerii salutis in unaquaque dioecesi exercendi, tum peculiaribus illorum conditionibus et votis, curetur.
->
+
 > § 2. Pro Ecclesiis Orientalibus vero optandum est ut, in definiendis eparchiarum circumscriptionibus, ratio quoque habeatur maioris propinquitatis illorum locorum, in quibus fideles eiusdem ritus commorantur.
 
 **EPISCOPORUM AUXILIARIUM FACULTATES**  (nn. 25-26 Decr. *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)*)
@@ -115,25 +115,25 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **13.**
 
 > *§ 1.* Episcopos Auxiliares pro aliqua dioecesi constituere necesse est, quoties id exigant verae necessitates apostolatus in illa exercendi. Iamvero, pascendi dominici gregis bonum, unitas regiminis in dioecesi moderanda, condicio membri Collegii Episcopalis, qua Auxiliaris decoratur, necnon efficax cum Episcopo dioecesano cooperatio, principia constituunt praecipua prae oculis habenda, quando de potestate Episcopo Auxiliari tribuenda agitur.
->
+
 > *§ 2.* Episcopus dioecesanus debet Auxiliarem constituere aut Vicarium Generalem seu Syncellum aut Vicarium Episcopalem, ita tamen ut, quolibet in casu, ab Episcopi dioecesani auctoritate unice dependeat.
->
+
 > *§ 3.* Ut bono communi dioecesis sufficienter provideatur et Episcopi Auxiliaris dignitas in tuto collocetur, voluit Concilium suum optatum manifestare ut, sede vacante, Auxiliari vel, ubi plures sint, uni ex Auxiliaribus, ab illis quorum ius est dioecesis regimen committatur. Attamen, nisi aliud a competenti Auctoritate in casu peculiari statutum fuerit, Episcopus Auxiliaris, sede vacante, potestates et facultates non amittit quibus sede plena a iure gaudebat, tamquam Vicarius Generalis vel tamquam Vicarius Episcopalis. Tunc autem Auxiliaris, ad munus Vicarii Capitularis non electus, hac sua potestate, a iure quidem collata, usque dum novus Episcopus possessionem sedis ceperit, gaudet, plena concordia exercenda cum Vicario Capitulari, qui regimini dioecesis praeest.
->
+
 > **VICARII EPISCOPALES**  
 >  (n. 27 Decr. *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)*)
 
 **14.**
 
 > *§ 1.* Novum officium Vicarii Episcopalis in iure ideo a Concilio conditum est, ut Episcopus novis cooperatoribus auctus, meliore quo fieri possit modo regimen pastorale dioecesis exercere valeat. Quare unum vel plures Vicarios Episcopales constituere libere Episcopi dioecesani determinationi relinquitur, iuxta peculiares loci necessitates; imo et firma manet ei facultas unum vel plures Vicarios Generales, ad normam can. 366 C. I. C., nominandi.
->
+
 > *§ 2.* Vicarii Episcopales, in determinata dioecesis parte aut in certo negotiorum genere aut quoad fideles determinati ritus seu coetus personarum, iuxta Episcopi dioecesani nominationem, potestate ordinaria vicaria gaudent, quam ius commune Vicario Generali tribuit. Quare, intra limites suae competentiae, ad eos pertinent facultates habituales ab Apostolica Sede Episcopo concessae, necnon rescriptorum exsecutio, nisi aliud expresse cautum fuerit aut electa fuerit industria personae Episcopi. Attamen Episcopo dioecesano liberum est causas quas maluerit sibi vel Vicario Generali reservare, itemque speciale mandatum, quod a iure communi pro certis negotiis praescribitur, Vicario Episcopali conferre.
->
+
 > *§ 3.* Tamquam officii episcopalis cooperator, Vicarius Episcopalis omnia, ab ipso gesta vel gerenda, Episcopo dioecesano referre debet; imo et numquam agat contra illius mentem et voluntatem. Praeterea, cum ceteris Episcopi cooperatoribus — ac praesertim cum Vicario Generali, modis ab Episcopo dioecesano statuendis — frequens colloquium instituere ne omittat, ad firmandam in clero et populo disciplinae unitatem necnon ad uberiores fructus in dioecesi obtinendos.
->
+
 > *§ 4.* Gratia a Vicario Generali vel a Vicario Episcopali denegata ab alio Vicario eiusdem Episcopi, etiam habitis a Vicario denegante denegationis rationibus, valide concedi nequit.  
 > Praeterea, gratia a Vicario Generali seu Syncello vel a Vicario Episcopali denegata et postea, nulla facta huius denegationis mentione, ab Episcopo impetrata, invalida est; gratia autem ab Episcopo denegata nequit valide, etiam facta denegationis mentione, a Vicario Generali vel a Vicario Episcopali, non consentiente Episcopo, impetrari.
->
+
 > *§ 5.* Vicarii Episcopales, qui Episcopi Auxiliares non sint, nominantur ad tempus, in ipso constitutionis actu determinandum; possunt tamen ad nutum Episcopi amoveri. Sede vacante, visi sint Episcopi Auxiliares, a munere cessant; expedit tamen ut Vicarius Capitularis iis, tamquam suis delegatis, utatur, ne bonum dioecesis ullum detrimentum capiat.
 
 **CONSILIUM PRESBYTERALE ET CONSILIUM PASTORALE**  
@@ -142,35 +142,35 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **15.** Ad Consilium Presbyterale quod attinet:
 
 > *§ 1.* In unaquaque dioecesi, modis ac formis ab Episcopo statuendis, habeatur Consilium Presbyterale, scilicet coetus seu senatus sacerdotum, Presbyterium repraesentantium, qui Episcopum in regimine dioecesis suis consiliis efficaciter adiuvare possit. In hoc Consilio Episcopus sacerdotes suos audiat, consulat et cum eis colloquatur de iis quae ad necessitates operis pastoralis et bonum dioecesis spectant.
->
+
 > *§ 2.* Inter membra Consilii Presbyteralis cooptari poterunt etiam Religiosi, quatenus in cura animarum atque apostolatus operibus exercendis partem habeant.
->
+
 > *§ 3.* Consilium Presbyterale vocem tantum consultivam habet.
->
+
 > *§ 4.* Sede vacante, Consilium Presbyterale cessat, nisi in peculiaribus adiunctis a Sancta Sede recognoscendis Vicarius Capitularis vel Administrator Apostolicus illud confirmet.  
 > Novus autem Episcopus ipse sibi novum Consilium Presbyterale constituet.
 
 **16.** Ad Consilium Pastorale, a Decreto *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)* valde commendatum, quod attinet:
 
 > § 1. Consilii Pastoralis est ea omnia quae ad opera pastoralia spectant investigare, perpendere atque de eis expromere conclusiones practicas, ita ut vitae et actionis Populi Dei conformitas cum Evangelio promoveatur.
->
+
 > § 2. Consilium Pastorale, quod voce consultiva tantum gaudet, diversa ratione constitui potest. Ordinarie, licet natura sua sit institutum permanens, quoad membra et actionem potest esse ad tempus atque ex occasione munere suo perfungens. Episcopus illud convocare poterit, quotiescumque id ipsi opportunum videbitur.
->
+
 > § 3. In Consilio Pastorali clerici, Religiosi et laici, specialiter ab Episcopo delecti, partes habent.
->
+
 > § 4. Ut finis huius Consilii ad effectum reapse deducatur, expedit ut laborem communem studium praevium praecedat, ope adhibita, si casus ferat, Institutorum seu officiorum, quae in hunc finem adlaborent.
->
+
 > § 5. Ubi adsunt in eodem territorio Hierarchiae diversi ritus, valde commendatur ut, quantum possibile est, Consilium Pastorale sit indolis interritualis, hoc est e clericis, Religiosis et laicis diveгsorum rituum constet.
->
+
 > § 6. Ceterae dispositiones liberae Episcopi dioecesani determinationi relinquuntur, habita ratione de iis quae in n.17 dicuntur.
 
 **17.**
 
 > *§ 1.* Expedit ut in quaestionibus tum Consilium Presbyterale, tum Consilium Pastorale, tum rationem eorumdem sive ad invicem sive ad Consilia Episcopi vi iuris vigentis iam exsistentia spectantibus, Episcopi, praesertim in Conferentiis adunati, communia Consilia capiant et normas edant similes in omnibus territorii dioecesibus.  
 > Consulant quoque Episcopi ut omnia Consilia dioecesana quam aptissime coordinentur ope accuratae definitionis competentiae, participationis membrorum mutuae, communium vel continuarum sessionum et aliis modis.
->
+
 > *§ 2.* Interea Consilia Episcopi, vi iuris vigentis exsistentia, id est Capitulum Cathedrale et Coetus consultorum vel alia huiusmodi, si quae sint, donet recognoscantur, proprium servant mursus propriamque competentiam.
->
+
 > **SUPPRESSIO IURIUM ET PRIVILEGIORUM  IN CONFERENDIS OFFICIIS VEL BENEFICIIS**  
 > (n. 28 Decr. *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)*)
 
@@ -178,7 +178,7 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 
 > *§ 1.* Bonum animarum postulat, ut Episcopus congrua libertate gaudeat ad officia et beneficia, etiam non curata, apte et aeque clericis magis idoneis conferenda. Ipsa Apostolica Sedes non amplius sibi reservat collationem officiorum aut beneficiorum, curata sint vel non curata, visi sint consistorialia; in lege fundationis cuiuscumque beneficii, illae clausulae in posterum prohibentur, quae Episcopi libertatem quoad ipsius collationem coarctent; privilegia non onerosa, personis physicis vel moralibus hucusque forte concessa, quae ius electionis, nominationis vel praesentationis pro quocumque officio vel beneficio non consistoriali vacanti secumferunt, abrogantur; abrogantur consuetudines et tolluntur iura nominandi, eligendi, praesentandi presbyteros ad officium aut beneficium paroeciale; lex concursus, etiam pro officiis aut beneficiis non curatis, supprimitur.  
 > Quod autem attinet ad electiones populares, quas vocant, ubi vigent, Conferentiae Episcopalis est ea quae opportuniora videantur Apostolicae Sedi proponere, ut, quantum fieri potest, abrogentur.
->
+
 > *§ 2.* Si tamen iura et privilegia, in hac materia, constituta fuerint vi conventionis inter Apostolicam Sedem et Nationem aut vi contractus cum personis sive physicis vel moralibus initi, de illorum cessatione cum iis, quorum interest, agendum est.
 
 **VICARII FORANEI**  
@@ -187,7 +187,7 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **19.**
 
 > *§ 1.* Inter proximiores Episcopi dioecesani cooperatores recensentur illi presbyteri, qui munus pastorale exercent indolis supraparoecialis, inter quos memorandi sunt Vicarii Foranei, qui etiam dicuntur Archipresbyteri seu Decani et apud Orientales Protopresbyteri. Ad hoc munus exercendum presbyteri constituantur doctrina et apostolica alacritate praestantiores, qui, debitis facultatibus ab Episcopo instructi, pastoralem actionem communem in territorio sibi commisso apte promovere ac moderari valeant. Quare huiusmodi officium determinatae sedi paroeciali non est affixum.
->
+
 > *§ 2.* Vicarii Foranei, Archipresbyteri seu Decani constituantur ad tempus iure peculiari determinandum; ii tamen ad nutum Episcopi amoveri poterunt. Expedit ut Episcopus dioecesanus illos audiat, quoties de nominatione, translatione aut amotione parochorum agatur, in territorio cui praesunt commorantium.
 
 **PAROCHORUM AMOTIO, TRANSLATIO ET RENUNTIATIO**  
@@ -206,9 +206,9 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **21.**
 
 > *§ 1.* Omnino enitendum est ut paroeciae, in quibus ob nimium fidelium numerum aut territorium nimis extensum vel, qualibet de causa, nonnisi difficulter aut minus apte apostolica actuositas exerceri possit, congrue pro diversis adiunctis dividantur aut dismembrentur. Item nimis parvas paroecias quantum res postulat et sinunt rerum adiuncta, in unam redigere oportet.
->
+
 > *§ 2.* Paroeciae ne amplius uniantur pleno iure Capitulis canonicorum. Si quae unitae exstent, auditis tum Capitulo tum Consilio Presbyterali, separentur et parochus instituatur — sive inter capitulares selectus sive non — qui omnibus facultatibus gaudeat, quae ex iuris praescripto parochis competunt.
->
+
 > *§ 3.* Paroecias erigere aut supprimere vel eas quoquo modo innovare Episcopus dioecesanus propria auctoritate, audito Consilio Presbyterali, potest, ita tamen ut, si sint conventiones inter Apostolicam Sedem et Gubernium civile vel iura aliis personis physicis vel moralibus quaesita, cum iisdem a competenti Auctoritate res apte componantur.
 
 **RELIGIOSI**  
@@ -219,7 +219,7 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **23.**
 
 > *§ 1.* Religiosi omnes, exempti quoque, operam navantes in locis ubi ritus a proprio diversus unicus est vel ita fidelium numero praevalet ut communi aestimatione unicus censeatur, a loci Ordinario vel Hierarcha huius ritus in iis quae opera externa ministerii respiciunt, pendent, eique ad normam iuris subiciuntur.
->
+
 > *§ 2.* Ubi vero plures sunt loci Ordinarii vel Hierarchae, iidem Religiosi in munere obeundo apud fideles rituum diversorum, tenentur normis quae ab ipsis Ordinariis et Hierarchis communi consilio dantur.
 
 **24.** Licet etiam in locis Missionum vigeat exemptio Religiosorum intra ambitum suum legitimum, tamen, propter peculiaria adiuncta sacri ministerii in his locis exercendi, ad mentem Decreti *[Ad gentes divinitus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_lt.html)*, observanda sunt specialia statuta a Sede Apostolica data vel approbata quoad rationes inter Ordinarium loci et Superiorem religiosum moderandas, praesertim in Missione alicui Instituto concredita.
@@ -227,9 +227,9 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **25.**
 
 > *§ 1.* Omnes Religiosi, etiam exempti, tenentur legibus, decretis et ordinationibus, ab Ordinario loci latis, quoad varia opera, in iis quae sacri apostolatus exercitium respiciunt, necnon actionem pastoralem et socialem ab Ordinario loci praescriptam aut commendatam.
->
+
 > *§ 2.* Item tenentur legibus, decretis et ordinationibus ab Ordinario loci vel a Conferentia Episcoporum latis, quae respiciunt, inter alia:
->
+
 > > *a)* usum publicum instrumentorum omnium communicationis socialis, ad normam n. 20 et 21 Decreti *[Inter mirifica](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19631204_inter-mirifica_lt.html)*;
 > >
 > > *b)* accessum ad publica spectacula;
@@ -251,13 +251,13 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **29.**
 
 > *§ 1.* Opera propria seu peculiaria quae in Instituti domibus, etiam conductis, exercentur, ab eiusdem Superioribus dependent, qui iuxta Constitutiones ea regunt ac moderantur. Attamen etiam huiusmodi opera Ordinarii loci iurisdictioni, ad normam iuris, subiciuntur.
->
+
 > *§ 2.* Opera vero, etiam Instituti propria seu peculiaria, quae ab Ordinario loci committuntur, eiusdem Ordinarii auctoritati et directioni subsunt, firmo tamen manente iure Superiorum religiosorum invigilandi super sodalium vitam et etiam, cumulative cum Ordinario loci, super munerum ipsis commissorum adimpletionem.
 
 **30.**
 
 > *§ 1.* Pro quavis commissione operis apostolatus ab Ordinario loci alicui Instituto facienda, servatis ceteris de iure servandis, ineatur conventio scripta inter ipsum et competentem Instituti Superiorem, qua, inter alia, perspicue definiantur quae ad opus explendum, ad sodales eidem addicendos et ad res oeconomicas spectant.
->
+
 > *§ 2.* Pro hisce autem operibus, sodales religiosi vere idonei a proprio Superiore religioso, mutuis praehabitis cum Ordinario loci consiliis, seligendi sunt atque, si de munere ecclesiastico alicui sodali conferendo agatur, ab ipso Ordinario loti Religiosus nominari debet, praesentante vel saltem assentiente proprio Superiore, ad certum tempus mutuo consensu definitum.
 
 **31.** Etiam cum ab Ordinario loci vel a Conferentia Episcopali aliquod munus alicui Religioso committendum sit, id fiat de consensu eius Superioris et per conventionem scriptam.
@@ -267,15 +267,15 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **33.**
 
 > *§ 1.* Ordinarius loci auctoritate propria potest, de consensu competentis Superioris, paroeciam religioso Instituto committere, etiam in ecclesia religiosa ipsius Instituti eam erigendo. Haec paroeciae commissio potest fieri sive in perpetuum sive ad certum praefinitum tempus: in utroque casu id fieri debet mediante conventione scripta inter Ordinarium et competentem Superiorem Instituti, qua, inter alia, expresse et accurate indicentur quae ad opus explendum, ad personas eidem addicendas et ad res oeconomicas spectant.
->
+
 > *§ 2.* Loci Ordinarius potest etiam pro paroecia Religioni non concredita, Religiosum, de licentia proprii Superioris, parochum constituere, peculiari congrua conventione inita cum eiusdem Religionis competenti Superiore.
 
 **34.**
 
 > *§ 1.* Domus religiosa sive formata sive non formata, ad Religionem exemptam pertinens, supprimi nequit sine beneplacito Apostolico et inconsulto Ordinario loci.
->
+
 > *§ 2.* Superiores religiosi qui, quacumque de causa, suppressionem alicuius domus vel operis petant, id ne propere faciant; meminerint enim omnibus Religiosis officium incumbere impense diligenterque adlaborandi, non solum ad aedificationem et incrementum totius Mystici Corporis Christi, sed etiam in bonum Ecclesiarum particularium.
->
+
 > *§ 3.* Cum autem a Superioribus praesertim ob personarum penuriam suppressio alicuius domus vel operis petitur, Ordinarius foci petitionem benigne consideret.
 
 **35.** Fidelium associationes, quae subsunt ductui ac moderamini alicuius Religionis, etiam si sint ab Apostolica Sede erectae, iurisdictioni subsunt et vigilantiae Ordinarii loci, qui ad normam sacrorum canonum eas invisendi ius habet et munus. Quod si in externa apostolatus opera vel in cultum divinum promovendum incumbant, praescripta de hac re sive ab Ordinario loci sive a Conferentia Episcopali edita servare debent.
@@ -283,7 +283,7 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **36.**
 
 > *§ 1.* Apostolica navitas sodalium Institutorum perfectionis, qui vitam mere contemplativam non profitentur, non ita circumscribitur operibus sive propriis Instituti sive ceteris occasionaliter assumptis, ut pro urgentibus animarum necessitatibus et Cleri penuria, ab Ordinariis locorum, inspecta propria cuiusque Instituti indole, et de consensu competentis Superioris religiosi, advocari nequeant non tantum Sacerdotes, sed et omnes sodales viri et mulieres, ut in variis dioecesium vel regionum ministerris adiutricem operam praestent.
->
+
 > *§ 2.* Si Ordinarii loci iudicio Religiosorum auxilium necessarium aut valde utile censeatur ad multiplicem apostolatus operam exercendam et ad caritatis ac pastoralis muneris incepta fovenda in paroeciis saecularibus vel in dioecesanis associationibus, a Superioribus religiosis, eodem Ordinario postulante, petitum auxilium pro viribus praestandum est.
 
 **37.** In omnibus ecclesiis et in omnibus oratoriis publicis vel semipublicis, ad Religiosos pertinentibus, quae de facto habitualiter christifidelibus pateant, Ordinarius loci praecipere potest ut episcopalia documenta publice legantur et catechetica institutio habeatur, ut denique specialis stips colligatur pro determinatis inceptis parcecialibus vel dioecesanis, nationalibus vel universalibus, ad Episcopalem Curiam postea sedulo mittenda.
@@ -293,7 +293,7 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **39.**
 
 > *§ 1.* Ad normam n. 35, 4 Decreti *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)*, generalis ordinatio scholarum catholicarum Institutorum religiosorum secumfert, firmo quidem ipsorum iure quoad earumdem moderamen, et servatis normis ibidem (n. 35, 5) circa praevia consilia mutuo inter Episcopos et Superiores religiosos ineunda stabilitis, generalem omnium scholarum catholicarum in dioecesi distributionem, earum inter se cooperationem atque earumdem vigilantiam, ut non minus quam aliae scholae ad fines culturales et sociales prosequendos aptatae sint.
->
+
 > *§ 2.* Ordinarius loci quaslibet Institutorum religiosorum scholas, collegia, oratoria, recreatoria, patronatus, hospitalia, orphanotrophia aliaque similia instituta, ad opera religionis vel caritatis sive spiritualis sive temporalis destinata, exceptis tantum scholis internis quae exclusive patent pro propriis Instituti alumnis, visitare potest, sive per se sive per alium, ad normam sacrorum canonum.
 
 **40.** Normae de sodalium immissione in opera et ministeria dioecesana, sub moderamine Episcoporum exercenda, ad alia quoque opera et ministeria quae ambitum dioecesis superant, congrua congruis referendo, applicandae sunt.
@@ -304,15 +304,15 @@ Episcopus, cuius renuntiatio ab officio acceptata fuerit, habitationis sedem ali
 **41.**
 
 > *§ 1.* Episcopi nationum vel territoriorum, in quibus Conferentia Episcopalis nondum habetur, ad normam Decreti *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)*, quam cito illam constituendam curent atque Statuta eiusdem conficiant, ab Apostolica Sede recognoscenda.
->
+
 > *§ 2.* Conferentiae Episcopales iam constituere propria Statuta conficere debent, iuxta praescripta Sacrosancti Concilii vel, si iam confecta habeant, ad mentem eiusdem Concilii renovent et Apostolicae Sedi recognoscenda remittant.
->
+
 > *§ 3.* Episcopi nationum, in quibus difficile est Conferentiam constituere, consiliis initis cum Apostolica Sede, illi Conferentiae adhaereant, quae cum apostolatus necessitatibus suae nationis magis congruat.
->
+
 > *§ 4.* Conferentiae Episcopales plurium nationum seu internationales possunt constitui tantummodo Apostolica Sede approbante, cuius est peculiares normas statuere. Quoties autem actiones aut rationes a Conferentiis ineuntur formam internationalem praeseferentes, Sancta Sedes praemoneatur oportet.
->
+
 > *§ 5.* Rationes inter Conferentias Episcopales praesertim finitimarum nationum opportunis et congruentibus modis haberi poterunt per earumdem Conferentiarum Secretariatus. Inter alia, haec praesertim spectare poterunt:
->
+
 > > *a)* communicare praecipuas agendi rationes praesertim in re et actione pastorali;
 > >
 > > *b)* transmittere scripta vel folia, quae decisiones Conferentiae referant vel acta seu documenta, quae ab Episcopis communi consilio edantur;
@@ -400,9 +400,9 @@ Illae vero normae, quae praesenti aetati, sodalium condicionibus physicis, psych
 **16.** Curent Instituta ut principia, quae in n. 2 Decreti *[Perfectae caritatis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_perfectae-caritatis_lt.html)* sanciuntur, revera informert renovationem propriae vitae religiosae; quapropter:
 
 > *§ 1.* Studium et meditatio Evangeliorum totiusque Sacrae Scripturae apud omnes sodales inde a novitiatu impensius foveatur. Item curandum est ut iidem Ecclesiae mysterium et vitam aptioribus mediis participent;
->
+
 > *§ 2.* Doctrina de vita religiosa sub variis aspectibus (theologico, historico, canonico, etc.) investigetur et exponatur;
->
+
 > *§ 3.* Ad ipsum bonum Ecclesiae procurandum, germanam cognitionem sui primigenii spiritus Instituta prosequantur, ita ut, eodem fideliter servato in aptationibus decernendis, vita religiosa ab elementis alienis purificetur et ab obsoletis liberetur.
 
 **17.** Obsoleta reputanda sunt quae naturam et fines Instituti non constituunt atque, significatione et vi sua amissa, vitam religiosam revera iam non adiuvant, habita tamen ratione testimonii, quod status religiosus pro suo munere praestare debet.
@@ -545,7 +545,7 @@ Ut autem maior unitas et efficacitas obtineantur, Episcopi utantur Consilio Nati
 **13.**
 
 > § 1. Pro omnibus missionibus unum tantum sit oportet Dicasterium competens, nempe Sacra Congregatio de Propaganda Fide. Cum tamen quaedam missiones propter peculiares rationes aliis Dicasteriis pro tempore adhuc subiectae sint, in his Dicasteriis interim instituatur sectio missionalis, quae relationem intimam habeat cum Sacra Congregatione de Propaganda Fide, ut in omnibus missionibus ordinandis ac dirigendis ratio et norma omnino constans atque uniformis haberi possit (n. 29).
->
+
 > § 2. Subiecta sunt Sacrae Congregationi de Propaganda Fide Opera Pontificia Missionaria, hempe Opus Pontificium Propagationis Fidei, Opus S. Petri pro clero indigena, Unio cleri pro missionibus et Opus S. Infantiae.
 
 **14.** Praeses Secretariatus ad unitatem Christianorum fovendam, vi ipsius muneris, est membrum Sacrae Congregationis de Propaganda Fide; secretarius eiusdem Secretariatus inter consultores Sacrae Congregationis de Propaganda Fide cooptatur (n. 29).  
@@ -563,15 +563,15 @@ In his conventionibus ineundis ratio habeatur tum operis missionalis continuandi
 Harum Conferentiarum est, in connexione cum Sacra Congregatione de Propaganda Fide:
 
 > *1°* Quaerere modos, etiam novos, quibus christifideles et missionalia Instituta, coniunctis viribus, sese inserere debeant in populos vel coetus, inter quos conversantur vel ad quos mittuntur (nn. 10, 11) et quibuscum colloquium salutis facere oporteat.
->
+
 > *2°* Instituere coetus a studiis qui investigent populorum cogitandi modos de universo, de homine, et de eius mentis habitu erga Deum, quique in considerationem theologicam (n. 22) assumant quaecumque sunt bona et vera.  
 > Tale theologicam studium fundamentum necessarium praebeat accommodationibus faciendis, in quarum studium incumbere quoque debent praedicti coetus a studiis. Quae accommodationes respiciant inter alia methodos evangelizationis, formas liturgicas, vitam religiosum et legislationem ecclesiasticam (n. 19).  
 > Quoad methodos evangelizationis et catecheseos perficiendas (nn. 11, 13, 14), promoveatur a Sacra Congregatione de Propaganda Fide arcta cooperatio inter Instituta Pastoralia superiora.  
 > Quoad formas liturgicas, coetus a studiis documenta et vota mittant Consilio ad exsequendam Constitutionem de Sacra Liturgia.  
 > Quod ad statum religiosum vero attinet (n. 18), cavendum est ne formae exteriori (cuius modi sunt gestus, vestes, artes, etc.) maior cura impertiatur quam indoli religiosae populorum assumendae vel perfectioni evangelicae assimilandae.
->
+
 > 3° Promovere, statis temporibus, conventus Docentium in Seminariis ad rationes studiorum aptandas et informationes mutuo communicandas, collato consilio cum coetibus a studiis de quibus supra, ut aptius prospiciatur hodiernis necessitatibus institutionis sacerdotalis (n. 16).
->
+
 > 4° Examinare modum aptiorem quo vires (sacerdotes, catechistae, Instituta, etc.) in territorio distribui possint, imprimis quo penuriae virium in locis populo perfrequentibus melius consulatur.
 
 **19.** In distribuendis subsidiis congrua pars singulis annis reservetur formationi et sustentationi tum cleri localis tum missionariorum tum catechistarum, et coetibus a studiis, de quibus supra ad n. 18. Episcopi de his rebus documenta ad Sacram Congregationem de Propaganda Fide referent (nn. 17, 29).
@@ -587,11 +587,11 @@ Harum Conferentiarum est, in connexione cum Sacra Congregatione de Propaganda Fi
 **24.** Quoad laicos in missionibus:
 
 > *§ 1.* Urgeatur sincera intentio missionibus serviendi, maturitas, apta praeparatio, specializatio professionalis, quae dicitur, et tempus congrue in missione protrahendum.
->
+
 > *§ 2.* Efficaciter inter se coordinentur consociationes laicorum pro missionibus.
->
+
 > *§ 3.* Episcopus loci missionis sollicitus sit de huiusmodi laicis.
->
+
 > *§ 4.* Securitas socialis istorum laicorum in tuto ponatur (n. 41).
 
 \* *AAS* 58 (1966), pp. 757-787

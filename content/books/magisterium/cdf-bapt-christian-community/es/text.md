@@ -1,9 +1,5 @@
 # Notificación sobre la validez de bautismo en la «Christian Community» del señor Rudolf Steiner, 9 marzo 1991
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE LA VALIDEZ DEL BAUTISMO EN LA “CHRISTIAN COMMUNITY” DE RUDOLF STEINER**
@@ -15,5 +11,3 @@ Esta Congregación, después de realizar un examen diligente, ha decidido que se
 *Roma, 9 de marzo de 1991.*
 
 **+ Joseph Card. Ratzinger** *Prefecto*
-
-[](#top)

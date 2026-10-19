@@ -1,15 +1,5 @@
 # Nostra aetate
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAVAO BISKUP  
@@ -19,8 +9,6 @@ NA TRAJAN SPOMEN
 
 DEKLARACIJA O ODNOSU CRKVE  
 PREMA NEKRŠĆANSKIM RELIGIJAMA*** NOSTRA AETATE***
-
-* *
 
 ***Uvod*** 
 

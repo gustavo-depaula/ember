@@ -1,13 +1,5 @@
 # pe" content="text/html; charset=iso-8859-1" /> \<meta name="title" content="Declaratio quoad interpretationem quarundam dispositionum, quae Normis, die XIII Ianuarii 1971 editis, statutae sunt, d. 26 m. Iunii a. 1972, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

@@ -1,20 +1,8 @@
 # Folha para Audiência: Confirmação do Presidente para o Grupo de Trabalho sobre Abuso Espiritual
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
-
-** **
 
 **FOLHA PARA AUDIÊNCIA**
 

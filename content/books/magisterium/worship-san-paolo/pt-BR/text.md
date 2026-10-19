@@ -1,9 +1,5 @@
 # Decreto para a celebração da Conversão de São Paulo Apóstolo no ano jubilar
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA O CULTO DIVINO E A DISCIPLINA DOS SACRAMENTOS
 
 Decreto
@@ -22,5 +18,3 @@ Não obstante qualquer coisa em contrário.
 Card. FRANCIS ARINZE *Prefeito*
 
 ALBERT MALCOLM RANJITH *Arcebispo Secretário*
-
-[](#top)

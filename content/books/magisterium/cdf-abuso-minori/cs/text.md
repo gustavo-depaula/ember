@@ -1,9 +1,5 @@
 # Okružní list Kongregace pro nauku víry biskupským konferencím o příručce pro případy pohlavního zneužívání nezletilých duchovními
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Okružní list Kongregace pro nauku víry biskupským konferencím o příručce pro případy pohlavního zneužívání nezletilých duchovními (3. května 2011)**
 
 Mezi důležité úkoly diecézního biskupa v péči o zajištění obecného dobra věřících a obzvláště o ochranu dětí a mládeže patří úkol přiměřeně reagovat na případy eventuálního pohlavního zneužívání mladistvých duchovními v jeho diecézi. To v sobě zahrnuje vytvoření procedury, která zajistí jak potřebnou pomoc obětem takového zneužívání, tak výchovu církevního společenství s ohledem na ochranu nezletilých. Procedura musí přispívat k aplikaci příslušných norem kanonického práva a zároveň brát v potaz předpisy světského práva.
@@ -93,5 +89,3 @@ V paláci Svatého Oficia dne 3. května 2011.
 titulární arcibiskup z Thibiky
 
 *sekretář*
-
-[](#top)

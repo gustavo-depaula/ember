@@ -6,13 +6,7 @@ LITTERAE APOSTOLICAE
 
 PIUS PP. IX
 
-* *
-
 *Venerabili Fratri Antonio Iosepho Pluym Archiepiscopo Tyanen *Ven. Frater, Salutem et Apostolicam Benedictionem**
-
-* *
-
-* *
 
 Religiosas regularium Ordinum familias, quae Dominico agro tanto usui sunt atque ornamento, Romani Pontifices in deliciis semper habuerunt, adeoque de potiori hac dominici agri parte fuere solliciti, ut, vix noverint inimicum hominem clanculum superseminare zizania in medio tritici, et parvulas vulpes demoliri florentes palmites, curas omnes ad radicitus evellendum destruendumque quidquid uberrimos ac lectissimos iacti boni seminis fructus posset impedire, contulerint.
 

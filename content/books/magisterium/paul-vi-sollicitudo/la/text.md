@@ -23,11 +23,11 @@ Haec Synodus, quae omnium humanorum institutorum more, successu temporis, perfec
 Synodus Episcoporum, qua Episcopi selecti e diversis orbis regionibus supremo Ecclesiae Pastori validiorem praestant adiutricem operam, ita constituitur, ut sit:
 
 > *a)* institutum ecclesiasticum centrale;
->
+
 > *b)* partes agens totius catholici Episcopatus;
->
+
 > *c)* natura sua perpetuum;
->
+
 > *d)* quoad structuram, ad tempus atque ex occasione munere suo perfungens.
 
 **II**
@@ -35,17 +35,17 @@ Synodus Episcoporum, qua Episcopi selecti e diversis orbis regionibus supremo Ec
 Ad Synodum Episcoporum suapte natura munus pertinet edocendi et consilia dandi. Poterit etiam potestate deliberativa gaudere, ubi haec ei collata fuerit a Romano Pontifice, cuius erit in hoc casu decisiones Synodi ratas habere.
 
 > **1.** Fines generales Synodi Episcoporum sunt:
->
+
 > > *a)* fovere artam coniunctionem et adiutricem operam inter Summum Pontificem et Episcopos totius orbis terrarum;
 > >
 > > *b)* curare ut directa ac vera notitia habeatur de quaestionibus et de rerum condicionibus, quae spectant ad vitam internam Ecclesiae eiusque debitam in hodierno mundo actionem;
 > >
 > > *c)* faciliorem efficere concordiam sententiarum saltem quoad essentialia capita doctrinae et quoad modum procedersdi in vita Ecclesiae.
->
+
 > **2.** Fines speciales atque proximi sunt:
->
+
 > *a)* opportunos nuntios invicem communicare;
->
+
 > *b)* consilia conferre circa negotia, quorum causa Synodus singulis vicibus convocabitur.
 
 **III**
@@ -53,15 +53,15 @@ Ad Synodum Episcoporum suapte natura munus pertinet edocendi et consilia dandi. 
 Synodus Episcoporum directe et immediate subest auctoritati Romani Pontificis, cuius praeterea erit:
 
 > **1.** convocare Synodum, quotiescumque id ipsi opportunum visum erit, loco etiam designato ubi coetus habersdi erunt;
->
+
 > **2.** ratam habere membrorum electionem, de qua in nn. V et VIII;
->
+
 > **3.** statuere arguments quaestionum pertractandarum saltem sex menses, si fieri poterit, antequam Synodus celebretur;
->
+
 > **4.** decernere ut materia rerum pertractandarum iis mittatur, qui harum quaestionum tractationi interesse debeant;
->
+
 > **5.** statuere ordinem rerum agendarum;
->
+
 > **6.** praeesse Synodo per se vel per alios.
 
 **IV**
@@ -73,7 +73,7 @@ Synodus Episcoporum congregari potest in coetum generalem, in coetum extraordina
 Synodus Episcoporum in coetum generalem congregata complectitur primo et per se:
 
 > 1\.
->
+
 > > *a)* Patriarchas, Archiepiscopos Maiores et Metropolitas extra Patriarchatus Ecclesiarum Catholicarum ritus orientalis;
 > >
 > > *b)* Episcopos electos a singulis Conferentiis Episcopalibus Nationalibus, ad normam n. VIII;
@@ -81,7 +81,7 @@ Synodus Episcoporum in coetum generalem congregata complectitur primo et per se:
 > > *c)* Episcopos electos a Conferentiis Episcopalibus plurium Nationum, constitutis scilicet pro iis Nationibus quae propriam Conferentiam non habent, ad normam n. VIII;
 > >
 > > *d)* his accedunt decem viri religiosi qui partes agunt Institutorum Religiosorum Clericalium, electi ab Unione Romana Superiorum Generalium.
->
+
 > **2.** Intersunt coetui generali Synodi Episcoporum etiam Patres Cardinales Dicasteriis Curiae Romanae praepositi.
 
 **VI**
@@ -89,7 +89,7 @@ Synodus Episcoporum in coetum generalem congregata complectitur primo et per se:
 Synodus Episcoporum in coetum extraordinarium congregata complectitur:
 
 > 1\.
->
+
 > > *a)* Patriarchas, Archiepiscopos Maiores et Metropolitas extra Patriarchatus Ecclesiarum Catholicarum ritus orientalis;
 > >
 > > *b)* Praesides Conferentiarum Episcopalium Nationalium;
@@ -97,7 +97,7 @@ Synodus Episcoporum in coetum extraordinarium congregata complectitur:
 > > *c)* Praesides Conferentiarum Episcopalium plurium Nationum, pro iis Nationibus constitutarum quae propriam Conferentiam Episcopalem non habent;
 > >
 > > *d)* tres viros religiosos qui partes agunt Institutorum Religiosorum Clericalium, electos ab Unione Romana Superiorum Generalium.
->
+
 > **2.** Intersunt coetui extraordinario Synodi Episcoporum etiam Patres Cardinales Dicasterfis Curiae Romanae praepositi.
 
 **VII**
@@ -109,11 +109,11 @@ Synodus Episcoporum in coetum specialem congregata complectitur Patriarchas, Arc
 Episcopi, qui partes agunt singularum Conferentiarum Episcopalium Nationalium, ita eliguntur:
 
 > *a)* unus pro unaquaque Conferentia Episcopali Nationali, quae constet non plus quam 25 membris;
->
+
 > *b)* duo pro unaquaque Conferentia Episcopali Nationali, quae constet non plus quam 50 membris;
->
+
 > *c)* tres pro unaquaque Conferentia Episcopali Nationali, quae constet non plus quam 100 membris;
->
+
 > *d)* quattuor pro unaquaque Conferentia Episcopali Nationali, quae constet plus quam 100 membris. Conferentiae Episcopales plurium Nationum eligunt eos, qui suas partes agunt, secundum easdem normas.
 
 **IX**

@@ -1,9 +1,5 @@
 # Decreto di iscrizione nel Calendario Romano Generale dei Santi Giovanni XXIII e Giovanni Paolo II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
 Prot. N. 309/14
@@ -27,5 +23,3 @@ Contrariis quibuslibet minime obstantibus.
 **( Antonius Card. Cañizares Llovera )** *Praefectus*
 
 **( + Arturus Roche )** *Archiepiscopus a Secretis*
-
-[](#top)

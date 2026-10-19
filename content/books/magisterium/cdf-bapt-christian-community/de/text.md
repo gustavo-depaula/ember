@@ -1,9 +1,5 @@
 # Notifikation bezüglich der Gültigkeit der Taufe in der „Christian Community“ oder „Die Christengemeinschaft“ von Rudolf
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ** *Notifikation bezüglich der Gültigkeit der Taufe in der „*Christian Community*“ oder „*Die Christengemeinschaft“ von Rudolf Steiner**\*
@@ -21,5 +17,3 @@ Nach sorgfältiger Prüfung hat diese Kongregation beschlossen: *Negativ*.
 \* *AAS* 83 (1991) 422.
 
   *       *
-
-[](#top)

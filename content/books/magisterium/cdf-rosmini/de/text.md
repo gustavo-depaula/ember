@@ -1,9 +1,5 @@
 # Notifikation zur Bedeutung der lehramtlichen Dekrete zu Antonio Rosmini Serbati
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE **
 
 ***NOTIFIKATION* zur Bedeutung der lehramtlichen Dekrete bezüglich des Denkens und der Werke des  *PRIESTERS ANTONIO ROSMINI SERBATI ***
@@ -45,5 +41,3 @@ Anmerkungen 
 1 Antonio Rosmini, *Lettera al Papa Pio IX*, in: *Epistolario completo*, Casale Monferrato, tip. Panc 1892, vol. X, 541 (lett. 634 1). 
 
 2 Papst Johannes Paul II., Enzyklika *Fides et ratio*, 74, in: *AAS*, XCI, 1999 – 1,62.
-
-[](#top)

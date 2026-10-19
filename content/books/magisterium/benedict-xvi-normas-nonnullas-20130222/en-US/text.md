@@ -30,9 +30,9 @@ No. 47. "All the persons listed in Nos. 46 and 55 § 2 of this Constitution who 
 No. 48. "At a suitable time before the beginning of the election, the persons indicated in Nos. 46 and 55 § 2 of this Constitution, having been duly warned about the meaning and extent of the oath which they are to take, shall, in the presence of the Cardinal Camerlengo or another Cardinal delegated by him, and of two Pronotaries Apostolic de Numero Participantium, swear and sign the oath according to the following formula:
 
 > I, N.N., promise and swear that, unless I should receive a special faculty given expressly by the newly-elected Pontiff or by his successors, I will observe absolute and perpetual secrecy with all who are not part of the College of Cardinal electors concerning all matters directly or indirectly related to the ballots cast and their scrutiny for the election of the Supreme Pontiff.
->
+
 > I likewise promise and swear to refrain from using any audio or video equipment capable of recording anything which takes place during the period of the election within Vatican City, and in particular anything which in any way, directly or indirectly, is related to the process of the election itself.
->
+
 > I declare that I take this oath fully aware that an infraction thereof will incur the penalty of automatic (‘
 
 latae sententiae*’) excommunication reserved to the Apostolic See.*

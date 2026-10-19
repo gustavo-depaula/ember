@@ -1,9 +1,5 @@
 # Note doctrinale illustrant la formule conclusive de la Professio fidei - Congrégation pour la Doctrine de la Foi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 **AVANT-PROPOS**
@@ -57,8 +53,6 @@ Par obéissance chrétienne, je me conformerai à ce que les Pasteurs déclarent
 **JEAN-PAUL II**
 
 **Lettre apostolique en forme de Motu Proprio *AD TUENDAM FIDEM* par laquelle sont insérées plusieurs normes dans le *Code de Droit canonique* et dans le *Code des Canons des Églises orientales***
-
-*** ***
 
 Pour défendre la foi de l'Église catholique contre les erreurs formulées par certains fidèles, surtout ceux qui s'adonnent aux disciplines de la théologie, il m'a semblé absolument nécessaire, à moi dont la fonction première est de confirmer mes frères dans la foi (cf. *Lc* 22, 32), que, dans les textes en vigueur du *Code de Droit canonique* et du *Code des Canons des Églises orientales*, soient ajoutées des normes qui imposent expressément le devoir d'adhérer aux vérités proposées de façon définitive par le Magistère de l'Église, mentionnant aussi les sanctions canoniques concernant cette matière.
 
@@ -253,8 +247,6 @@ A Rome, au siège de la Congrégation pour la Doctrine de la Foi, le 29 juin 199
 \[38\] Cf. Concile Œcuménique Vatican II, Constitution dogmatique [*Lumen Gentium*, n. 25 § 1](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#25.); Congrégation pour la Doctrine de la Foi, Instruction *[Donum Veritatis](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_fr.html)*, nn. 17, 23 et 24.
 
 \[39\] [*Catéchisme de l'Église catholique*, n. 167](/archive/FRA0013/__PZ.HTM).
-
-[](#top)
 
 [^1]: \[\] Congrégation pour la Doctrine de la Foi, [*Professio Fidei et Iusiurandum fidelitatis in suscipiendo officio nomine Ecclesiæ exercendo*, 9 janvier 1989](#PROFESSION_DE_FOI) : *AAS* 81 (1989), p. 105.
 

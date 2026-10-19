@@ -1,9 +1,5 @@
 # Notification on the book 'Pleidooi voor mensen in de kerk. Christelijke identiteit en ambten in de kerk' (Nelissen, Baarn 1985) by Professor Edward Schillebeeckx, O.P.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 **Notification on the book *Pleidooi voor mensen in de kerk. Christelijke identiteit en ambten in de kerk* (Nelissen, Baarn 1985) by Professor Edward Schillebeeckx, O.P.**
@@ -33,5 +29,3 @@ At Rome, from the office of the Congregation for the Doctrine of the Faith, Sept
 **Cardinal Joseph Ratzinger** *Prefect*
 
 **Archbishop Alberto Bovone** *Secretary*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Notification à propos du livre «Église : charisme et pouvoir» du P. Leonardo Boff, O.F.M., 11 mars 1985
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **NOTIFICATION À PROPOS DU LIVRE «ÉGLISE: CHARISME ET POUVOIR» DU P. LEONARDO BOFF**
@@ -74,5 +70,3 @@ Joseph Card. RATZINGER
 Alberto BOVONE  
 Arch. tit. de Césarée de Numidie  
 *Secrétaire*
-
-[](#top)

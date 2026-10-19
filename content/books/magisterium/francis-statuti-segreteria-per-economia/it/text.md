@@ -6,8 +6,6 @@ PAPA FRANCESCO
 
 > ***[Statuto del Consiglio per l'Economia](#STATUTO_DEL_CONSIGLIO_PER_L’ECONOMIA_) [Statuto della Segreteria per l'Economia](#STATUTO_DELLA_SEGRETERIA_PER_L’ECONOMIA_) [Statuto dell'Ufficio del Revisore Generale](#STATUTO_DELL’UFFICIO_DEL_REVISORE_GENERALE_)***
 
-** **
-
 **STATUTO DEL CONSIGLIO PER L’ECONOMIA**
 
 **Natura e competenza**

@@ -1,9 +1,5 @@
 # UWAGI DOTYCZĄCE ODPOWIEDZI NA PROPOZYCJE USTAW O NIEDYSKRYMINACJI OSÓB HOMOSEKSUALNYCH
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **UWAGI DOTYCZĄCE ODPOWIEDZI NA PROPOZYCJE USTAW O NIEDYSKRYMINACJI OSÓB HOMOSEKSUALNYCH**
@@ -59,5 +55,3 @@ Zachodzi ponadto niebezpieczeństwo, że ustawodawstwo uznające homoseksualizm 
 15\. Ponieważ w ocenie projektów ustaw należy kierować się przede wszystkim odpowiedzialnością za ochronę i rozwój życia rodzinnego (por. nr 17), trzeba bardzo dokładnie przemyśleć wszystkie zarządzenia składające się na proponowane zmiany. W jaki sposób wpłyną one na przepisy dotyczące adopcji i opieki zastępczej? Czy zmierzają do ochrony aktów homoseksualnych, publicznych lub prywatnych? Czy przyznają równorzędny status związkom homoseksualnym i rodzinie, na przykład w dziedzinie komunalnego budownictwa mieszkaniowego albo przez uznanie prawa partnera homoseksualnego osoby zatrudnionej do korzystania z przywilejów "rodzinnych", na przykład opieki lekarskiej przysługującej pracownikowi (por. nr 9)?
 
 16\. Na koniec, w sprawach dotyczących dobra wspólnego Kościół nie może aprobować ani przyjmować obojętnie ustaw godzących w to dobro, nawet jeśli nie obowiązują one organizacji i instytucji kościelnych. Kościół ma obowiązek umacniać życie rodzinne i moralność całego społeczeństwa na fundamencie podstawowych wartości moralnych, a nie jedynie bronić siebie przed konsekwencjami szkodliwych praw (por. nr 17).
-
-[](#top)

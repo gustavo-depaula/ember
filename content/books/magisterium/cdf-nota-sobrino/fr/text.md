@@ -1,15 +1,9 @@
 # Note explicative relative à la notification sur les œuvres du P. Jon Sobrino s.j.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***NOTE EXPLICATIVE***  
 ***RELATIVE A LA NOTIFICATION SUR LES ŒUVRES DU P. JON SOBRINO S. J.***
-
-*** ***
 
 **1. *L’intérêt de l’Église pour les pauvres***
 
@@ -36,8 +30,6 @@ Dans le cas présent, la *Notification* même indique les étapes suivies selon 
 Cette *Notification* entend donc donner aux pasteurs et aux fidèles un critère sûr, enraciné dans la doctrine de l’Église, pour évaluer correctement ces questions, aussi importantes d’un point de vue théologique que d’un point de vue pastoral.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Jean Paul II, Const. apost. *Pastor bonus*, 48 : AAS 80 (1988), 841-934.
 

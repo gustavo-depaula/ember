@@ -64,9 +64,9 @@ Institutio Lectoris et Acolythi, iuxta venerabilem traditionem Ecclesiae, viris 
 Ut quis ad ministeria consequenda admitti possit, requiruntur:
 
 > *a)* petitio ab adspirante libere exarata ac subscripta exhibenda Ordinario (Episcopo et, in institutis perfectionis clericalibus, Superiori Maiori), penes quem est acceptio;
->
+
 > *b)* congrua actas et peculiares dotes, a Conferentia Episcopali determinandae;
->
+
 > *c)* firma voluntas fideliter Deo famulandi et christiano populo serviendi.
 
 **IX.**

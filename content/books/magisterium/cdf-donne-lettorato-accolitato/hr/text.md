@@ -1,15 +1,5 @@
 # Pismo Svetoga Oca Franje Prefektu Kongregacije za Nauk Vjere o pristupanju žena službama lektorata i akolitata
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 ***PISMO SVETOGA OCA FRANJE PREFEKTU KONGREGACIJE ZA NAUK VJERE O PRISTUPANJU ŽENA SLUŽBAMA LEKTORATA I AKOLITATA***

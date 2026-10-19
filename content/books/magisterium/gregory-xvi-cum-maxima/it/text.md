@@ -5,8 +5,6 @@ GREGORIO XVI
 
 ***CUM MAXIMA***
 
-*** ***
-
 *Al Venerabile Fratello Luigi Antonio, Arcivescovo di Praga. Venerabile Fratello, salute e Apostolica Benedizione.*
 
 Poiché siamo estremamente addolorati ed angosciati per l’addensarsi da ogni parte, nell’asprezza di questi tempi, di gravissimi danni e pericoli per la Religione Cattolica e l’ovile di Cristo a causa dei subdoli inganni e delle nefande macchinazioni di uomini empi, così, mossi dalla Nostra apostolica sollecitudine, cui è affidata per volontà divina la cura di pascolare e governare l’intero gregge del Signore, non tralasciamo alcuna occasione per incoraggiare la vigilanza dei Venerabili Fratelli, affinché s’impegnino a vanificare i tentativi dei nemici ed operino secondo le loro forze per la salvezza delle amate pecore. Ed è con acerbissimo dolore dell’animo Nostro, Venerabile Fratello, che abbiamo appreso da diverse fonti che ora è divampata in Boemia una terribile e spaventosa guerra contro la Chiesa Cattolica e questa Santa Sede Apostolica, ad opera di scismatici, protestanti ed altri Hussiti, i quali, sebbene divisi tra loro nella mostruosa falsità delle idee e nella pestifera varietà degli errori, sono tuttavia assolutamente concordi, per unanime consenso e nefanda cospirazione, con tenebrose insidie e violentissimi sconvolgimenti, nell’intento di far vacillare, anzi abbattere dalle fondamenta – se mai fosse possibile – la Religione Cattolica e annientare e disperdere il gregge di Cristo. In verità, codesti accortissimi artefici di frode e fabbricatori di menzogna, per indurre all’errore soprattutto gli sprovveduti e gli ignoranti, e strapparli dalla fede cattolica, pongono in atto ogni insidia e inganno per impadronirsi di animi semplici e rozzi, per confonderli con falsità e fandonie.

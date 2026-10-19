@@ -1,9 +1,5 @@
 # ODPOWIEDŹ NA WĄTPLIWOŚCI DOTYCZĄCE DOKTRYNY ZAWARTEJ W LIŚCIE APOSTOLSKIM ORDINATIO SACERDOTALIS, 28 października 1995 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 **ODPOWIEDŹ NA WĄTPLIWOŚCI DOTYCZĄCE DOKTRYNY ZAWARTEJ W LIŚCIE APOSTOLSKIM *ORDINATIO SACERDOTALIS***\*
@@ -23,5 +19,3 @@ Doktryna ta wymaga ostatecznego przyjęcia, ponieważ - oparta na spisanym słow
 ***Abp*** **TARCISIO BERTONE, SDB** *Em. Arcybiskup Vercelli Sekretarz*
 
 \* *AAS* 87 (1995) 1114.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Wyjaśnienie doktrynalne dotyczące końcowej części formuły «Wyznania wiary»
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **Wyjaśnienie doktrynalne dotyczące końcowej części formuły «Wyznania wiary»**
@@ -149,5 +145,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 29 czerwca 1998 r., w uroczystość �
 38. Por. Sobór Watykański II, konst. dogm. *Lumen gentium,* 25; Kongregacja Nauki Wiary, instr. *Donum veritatis,* 17, 23, 24: AAS 82 (1990), 1557-1558; 1559-1561.
 
 39\. Katechizm Kościoła Katolickiego, 167.
-
-[](#top)

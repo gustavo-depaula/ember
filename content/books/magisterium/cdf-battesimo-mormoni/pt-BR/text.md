@@ -1,9 +1,5 @@
 # Resposta à dúvida sobre o Batismo dos Mórmons, 5 de junho de 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ 
 
 RESPOSTA À DÚVIDA PROPOSTA  
@@ -22,5 +18,3 @@ chamada “dos Mórmons”
 **+Joseph Card. RATZINGER** *Prefeito*
 
 **+Tarcisio BERTONE S.D.B.** *Arcebispo Emérito de Vercelli Secretário*
-
-[](#top)

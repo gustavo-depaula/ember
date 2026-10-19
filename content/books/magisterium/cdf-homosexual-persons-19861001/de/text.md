@@ -1,9 +1,5 @@
 # Schreiben an die Bischöfe der katholischen Kirche über die Seelsorge für homosexuelle Personen
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE ÜBER DIE SEELSORGE FÜR HOMOSEXUELLE PERSONEN**
@@ -113,5 +109,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, den 1. Oktober 1986.
 **Joseph Kardinal Ratzinger** * Präfekt*
 
 **+Alberto Bovone** * Titularerzbischof von Cäsarea in Numidien Sekretär*
-
-[](#top)

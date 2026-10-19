@@ -1,13 +1,5 @@
 # Formule de profession de foi, 17 juillet 1967
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRÉE CONGRÉGATION POUR LA DOCTRINE DE LA FOI

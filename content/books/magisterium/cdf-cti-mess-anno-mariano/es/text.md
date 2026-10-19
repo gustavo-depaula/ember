@@ -1,9 +1,5 @@
 # Mensaje con ocasión del Año mariano, 1987
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 **MENSAJE CON OCASIÓN DEL AÑO MARIANO**[\[\*\]](#_edn*)
@@ -31,5 +27,3 @@ LA COMISIÓN TEOLÓGICA INTERNACIONAL
 ------------------------------------------------------------------------
 
 [\[\*\]](#_ednref*) *L'Osservatore Romano,* 6 octubre 1988, 6. Original en francés.
-
-[](#top)

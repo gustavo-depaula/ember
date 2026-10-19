@@ -1,9 +1,5 @@
 # Educar juntos na Escola Católica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A EDUCAÇÃO CATÓLICA
 
 **DOCUMENTO PARA OS SEMINÁRIOS E AS INSTITUIÇÕES DE ESTUDO***[\*](#*)*
@@ -173,8 +169,6 @@ O Santo Padre, durante a Audiência concedida ao abaixo assinado Prefeito, aprov
 Notas
 
 *\** *(Extraído de* L'Osservatore Romano*, ed. portuguesa, nº 48 (1 de Dezembro de 2007), pág. 10-13).*
-
-[](#top)
 
 [^1]: Bento XVI, [Discurso na abertura do Congresso eclesial da Diocese de Roma sobre família e comunidade cristã](/holy_father/benedict_xvi/speeches/2005/june/documents/hf_ben-xvi_spe_20050606_convegno-famiglia_po.html) (6 de Junho de 2005): *AAS* 97 (2005), 816.
 

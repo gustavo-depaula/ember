@@ -1,13 +1,5 @@
 # Decretum de Ecclesiae pastorum vigilantia circa libros, d. 19 m. Martii a. 1975, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

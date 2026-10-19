@@ -1,9 +1,5 @@
 # Orędzie fatimskie
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY
 
 Orędzie fatimskie
@@ -280,5 +276,3 @@ Joseph Kard. Ratzinger *Prefekt Kongregacji Nauki Wiary*
 \(7\) W cytowanym « czwartym wspomnieniu » Siostra Łucja dodaje: « W Portugalii będzie zawsze zachowany dogmat wiary, itd. ».
 
 \(8\) Tłumaczenie odtwarza wiernie tekst oryginalny, w tym także niedokładności interpunkcji, co zresztą nie przeszkadza w zrozumieniu tego, co widząca chciała powiedzieć.
-
-[](#top)

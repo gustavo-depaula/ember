@@ -1,6 +1,5 @@
 # Evangelii Gaudium: Exhortación Apostólica sobre el anuncio del Evangelio en el mundo actual
 
-[](/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium_sp.pdf)  
 DOWNLOAD PDF
 
 EXHORTACIÓN APOSTÓLICA  

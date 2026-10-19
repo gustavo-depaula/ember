@@ -4,10 +4,6 @@
 
 Commentary on the Notification regarding the book Toward a Christian Theology of Religious Pluralism
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
   ***COMMENTARY ON THE NOTIFICATION OF THE CONGREGATION FOR THE DOCTRINE OF THE FAITH REGARDING THE BOOK TOWARD A CHRISTIAN THEOLOGY OF RELIGIOUS PLURALISM BY FATHER JACQUES DUPUIS, S.J.***
 
 1\. In every age, theological research has been important for the Church's mission of evangelization in response to the plan of God who desires 'all men to be saved and to come to the knowledge of the truth'‌ (1 *Tim* 2:4). Indeed, an ever deeper knowledge of God's word contained in the inspired Scriptures and transmitted by the living tradition of the Church enriches the entire people of God, the 'salt of the earth' and 'light of the world'‌ (*Mt* 5:13f.), helping them to bear witness to the truth of Christian revelation and to give an account of their hope to whomever asks (cf. 1 *Pt* 3:15). 
@@ -75,5 +71,3 @@ Finally, the simple reaffirmation of truth expresses the unity of faith in the T
 \(7\) John Paul II, Encyclical Letter *Fides et ratio,* n. 38. 
 
 \(8\) Congregation for the Doctrine of the Faith, Declaration *Dominus Iesus,* n. 23.
-
-[](#top)

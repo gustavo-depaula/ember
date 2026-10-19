@@ -1,9 +1,5 @@
 # L'uso delle versioni della Sacra Scrittura nelle Chiese - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **L'USO DELLE VERSIONI DELLA SACRA SCRITTURA NELLE CHIESE**
@@ -20,5 +16,3 @@ No; si deve leggere pubblicamente ai fedeli una versione della Sacra Scrittura f
 
 Giovanni Battista Frey, C.S.Sp.  
 *Segretario consultore*
-
-[](#top)

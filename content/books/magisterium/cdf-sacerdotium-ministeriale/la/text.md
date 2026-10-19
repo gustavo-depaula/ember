@@ -1,9 +1,5 @@
 # Sacerdotium ministeriale
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **EPISTULA AD ECCLESIAE CATHOLICAE EPISCOPOS DE QUIBUSDAM QUAESTIONIBUS AD EUCHARISTIAE MINISTRUM SPECTANTIBUS** \*
@@ -70,5 +66,3 @@ Collegialis sollicitudo, igitur, hisce in adiunctis ad concretam applicationem p
 
 **+ Fr. Hieronymus Hamer, O.P.,** Archiepiscopus tit. Loriensis,  
  *a Secretis*
-
-[](#top)

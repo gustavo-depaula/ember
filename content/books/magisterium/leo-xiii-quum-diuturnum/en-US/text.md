@@ -25,5 +25,3 @@ As We remember the long course of Our pontificate, We are conscious that We have
 *Given at Rome, at St. Peter's on the very day* *of the birth of Our Lord Jesus Christ, 1898, in the twenty-first year of OurPontificate.*
 
 **LEO XIII**
-
-*     *

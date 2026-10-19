@@ -249,8 +249,6 @@ Uči nas gledati z Jezusovimi očmi, da bo on luč na naši poti. Naj luč vere 
 
 *Dano v Rimu, pri Svetem Petru, 29. junija, na slovesni praznik svetih apostolov Petra in Pavla, v letu 2013, prvem letu mojega papeževanja.*
 
-* *
-
 ***Frančišek***
 
 ------------------------------------------------------------------------

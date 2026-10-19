@@ -1,9 +1,5 @@
 # Az üdvözülés reménye a keresztség nélkül meghalt kisgyermekek számára, 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Nemzetközi Teológiai Bizottság**
 
 **Az üdvözülés reménye a keresztség nélkül meghalt ** **kisgyermekek számára**
@@ -312,8 +308,6 @@ Csak nagyon kevés görög atya foglalkozott a keresztség nélkül meghaló kis
 103\. Ami ki lett nekünk nyilatkoztatva, az az, hogy az üdvözülés rendes útja a keresztség szentségén át vezet. A föntebb előtárt megfontolások egyikét sem szabad a keresztség szükségességének minősítésére használni, sem pedig a szentség kiszolgáltatása késleltetésének igazolására.[^135] Inkább, amint itt a végkövetkeztetésben újra meg akarjuk erősíteni, erős érvek léteznek arra a reményre, hogy Isten üdvözíteni fogja ezeket a kisgyermekeket, miután nekünk nem sikerült megtenni velük azt, ami kívánatos lett volna számukra, hogy megtegyük, azaz megkeresztelni őket az Egyház hitére és életére.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: A szentírási idézeteket a Szent Jeromos Katolikus Bibliatársulat szövegéből vesszük: *Ó- és Újszövetségi Szentírás a Neovulgáta alapján,* Budapest 2001.
 

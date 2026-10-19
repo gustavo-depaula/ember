@@ -1,14 +1,8 @@
 # Clarification sur l'avortement provoqué, 11 juillet 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***CLARIFICATION DE LA CONGRÉGATION POUR LA DOCTRINE DE LA FOI SUR L'AVORTEMENT PROVOQUÉ\****
-
-*** ***
 
 Diverses lettres sont récemment parvenues au Saint-Siège, notamment de la part de hautes personnalités de la vie politique et ecclésiale, qui nous ont informé de la confusion créée dans plusieurs pays, surtout en Amérique Latine, suite à la manipulation et à l’instrumentalisation d’un article de Mgr Rino Fisichella, Président de l’Académie Pontificale pour la Vie , sur les tristes événements concernant la « petite fille brésilienne ». Cet article, publié dans *L’Osservatore Romano* le 15 mars 2009, proposait la doctrine de l’Église, tout en tenant compte de la situation dramatique de cette enfant qui - comme cela a été révélé par la suite - a été accompagnée avec beaucoup de délicatesse pastorale par l’ancien Archevêque de Olinda et Recife, Mgr José Cardoso Sobrinho. A ce sujet, la Congrégation pour la Doctrine de la Foi rappelle que la doctrine de l’Église sur l’avortement provoqué n’a pas changé et ne peut changer. Cette doctrine est exposée aux numéros 2270-2273 du *[Catéchisme de l’Église catholique](/archive/FRA0013/_INDEX.HTM)* en ces termes :
 
@@ -29,5 +23,3 @@ Quant à la problématique de traitements médicaux déterminés afin de préser
 Quant à la responsabilité des responsables de santé, il faut rappeler les paroles de [Jean-Paul II](/holy_father/john_paul_ii/index_fr.htm) : « Leurs professions en font des gardiens et des serviteurs de la vie humaine. Dans le contexte culturel et social actuel, où la science et l’art médical risquent de faire oublier leur dimension éthique naturelle, ils peuvent être parfois fortement tentés de se transformer en agents de manipulation de la vie ou même en artisans de mort. Face à cette tentation, leur responsabilité est aujourd’hui considérablement accrue ; elle puise son inspiration la plus profonde et trouve son soutien le plus puissant justement dans la dimension éthique des professions de santé, dimension qui leur est intrinsèque et qu’on ne peut négliger, comme le reconnaissait déjà l’antique serment d’Hippocrate, toujours actuel, qui demande à tout médecin de s’engager à respecter absolument la vie humaine et son caractère sacré » (Encyclique *[Evangelium vitae](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae_fr.html)*, n. 89).
 
 \* *L’Osservatore Romano,* Edition hebdomadaire en langue française, 11 juillet 2009.
-
-[](#top)

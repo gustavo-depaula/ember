@@ -88,8 +88,6 @@ Affidiamo alla Madre di Dio, proclamata “beata” perché “ha creduto” (*L
 
 **Benedetto XVI**
 
-* *
-
 ------------------------------------------------------------------------
 
 [^1]: *[Omelia per l’inizio del ministero petrino del Vescovo di Roma](/content/benedict-xvi/it/homilies/2005/documents/hf_ben-xvi_hom_20050424_inizio-pontificato.html)* [ (24 aprile 2005)](/content/benedict-xvi/it/homilies/2005/documents/hf_ben-xvi_hom_20050424_inizio-pontificato.html): *AAS* 97(2005), 710.

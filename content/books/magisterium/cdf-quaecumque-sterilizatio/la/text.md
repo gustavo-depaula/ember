@@ -1,13 +1,5 @@
 # Responsa ad quaesita conferentiae episcopalis Americae Septentrionalis circa sterilizationem in nosocomiis catholicis, d. 13 m. Martii a. 1975, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
@@ -35,8 +27,6 @@ Haec Sacra Congregatio sperat criteria in his litteris commemorata expectationi 
 **+ Franciscus Card. Šeper,** * Praefectus*
 
 **+ Fr. Hieronymus Hamer, O.P., Archiep. tit. Lorien.,** * a Secretis*
-
-* *
 
 ------------------------------------------------------------------------
 

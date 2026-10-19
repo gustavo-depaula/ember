@@ -1,9 +1,5 @@
 # Letter to Father Edward Schillebeeckx
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***Letter to Father Edward Schillebeeckx***\*
@@ -49,5 +45,3 @@ Please accept, Reverend Father, the expression of my sentiments of respectful de
 ------------------------------------------------------------------------
 
 \* *AAS* 77 (1985), 994-997.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Decree on the Reform of Ecclesiastical Studies of Philosophy - Congregation for Catholic Education
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR CATHOLIC EDUCATION
 
 ***DECREE ON THE REFORM OF ECCLESIASTICAL STUDIES OF PHILOSOPHY***   
@@ -239,8 +235,6 @@ Datum Romæ, ex ædibus eiusdem Congregationis, in memoria sancti Thomæ Aquinat
 **Ioannes Ludovicus Brugues, O.P.** *a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Encyclical Letter *Fides et ratio* (14 September 1998), *AAS* 91 (1999), pp. 5-88, n. 3. In the Letter, John Paul II concentrates attention on the theme of truth and its foundation in relation to faith, continuing the reflection already made in the Encyclical Letter *Veritatis splendor* (6 August 1993) regarding truth on the moral level (cf. *Fides et ratio*, n. 6), which also embraces some fundamental rational truths.
 

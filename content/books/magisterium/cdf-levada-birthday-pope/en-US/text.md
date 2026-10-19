@@ -1,9 +1,5 @@
 # Remarks on the occasion of the 80th birthday of the Holy Father
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***REMARKS BY H.Em. CARD. WILLIAM JOSEPH LEVADA ON THE OCCASION OF THE 80th BIRTHDAY OF POPE BENEDICT XVI***
 
 *16 April 2007*
@@ -25,5 +21,3 @@ The celebration of Pope Benedict's 80th birthday on the Sunday after Easter will
 Happy Birthday, Holy Father! God bless you *ad multos annos*!
 
 (*L’Osservatore Romano*, 16.04.2007).
-
-[](#top)

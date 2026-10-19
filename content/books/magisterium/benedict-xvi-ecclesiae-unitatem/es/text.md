@@ -19,9 +19,9 @@
 6. Por tanto, la Comisión pontificia *Ecclesia Dei* queda configurada de la siguiente manera: 
 
 > a) El presidente de la Comisión es el prefecto de la Congregación para la doctrina de la fe.
->
+
 > b) La Comisión tiene una estructura orgánica propia, compuesta por el secretario y por oficiales.
->
+
 > c) Al presidente le corresponde, con la ayuda del secretario, someter los principales casos y las cuestiones de carácter doctrinal al estudio y al discernimiento de las instancias ordinarias de la Congregación para la doctrina de la fe, así como someter las conclusiones a las disposiciones superiores del Sumo Pontífice.
 
 7. Con esta decisión he querido, en particular, manifestar solicitud paterna hacia la "Fraternidad San Pío X" para que vuelva a la comunión plena con la Iglesia.

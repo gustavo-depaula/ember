@@ -1,9 +1,5 @@
 # Instruktion über die Gebete um Heilung durch Gott
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE  **
 
 ***Instruktion über die Gebete um Heilung durch Gott  ***
@@ -198,5 +194,3 @@ Krankenpastoral in den katholischen Bistümern des deutschen Sprachgebietes, Zwe
 \(31\) Vgl. KONGREGATION FÜR DIE GLAUBENSLEHRE, Epistula *Inde ab aliquot annis*, Ordinariis locorum missa: in mentem normae vigentes de exorcismis revocantur: AAS 77 (1985) 1169- 1170.
 
 \(32\) Vgl. *Rituale Romanum*, Ex Decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum, Auctoritate Ioannis Pauli PP. II promulgatum, *De Exorcismis et Supplicationibus Quibusdam*, Editio typica, Typis Polyglottis Vaticanis, MIM, Praenotanda, nn. 13-19.
-
-[](#top)

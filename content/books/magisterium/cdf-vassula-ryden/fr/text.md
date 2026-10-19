@@ -1,9 +1,5 @@
 # Lettre circulaire aux Présidents des Conférences épiscopales sur les écrits et l'activité de Mme Vassula Rydén, 25 janvier 2007
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***LETTRE CIRCULAIRE AUX PRÉSIDENTS DES CONFÉRENCES ÉPISCOPALES À PROPOS DES ÉCRITS ET DE L'ACTIVITÉ DE Mme VASSULA RYDÉN***
@@ -26,5 +22,3 @@ En vous transmettant ces éléments, je vous prie de croire à mon cordial dévo
 
 **Cardinal William Levada**  
 *Préfet*
-
-[](#top)

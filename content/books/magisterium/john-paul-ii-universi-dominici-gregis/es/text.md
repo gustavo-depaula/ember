@@ -234,11 +234,11 @@ Todas las personas aquí mencionadas deberán recibir la aprobación previa del 
 48.**[^(n)](https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130222_normas-nonnullas.html)** Las personas señaladas en el n. 46 y en el n. 55, párrafo 2 de la presente Constitución, debidamente advertidas sobre el significado y sobre el alcance del juramento que han de prestar antes del comienzo del proceso de la elección, deberán pronunciar y subscribir a su debido tiempo, ante el Cardenal Camarlengo u otro Cardenal delegado por éste, en presencia de dos Protonotarios apostólicos de Número Participantes, el juramento según la fórmula siguiente:
 
 > *Yo N. N. prometo y juro observar el secreto absoluto con quien no forme parte del Colegio de los Cardenales electores, y esto perpetuamente, a menos que reciba especiales facultades dadas expresamente por el nuevo Pontífice elegido o por sus Sucesores, acerca de todo lo que atañe directa o indirectamente a las votaciones y a los escrutinios para la elección del Sumo Pontífice.*
->
+
 > *Prometo igualmente y juro que me abstendré de hacer uso de cualquier instrumento de grabación, audición o visión de cuanto, durante el período de la elección, se desarrolla dentro del ámbito de la Ciudad del Vaticano, y particularmente de lo que directa o indirectamente de algún modo tiene que ver con las operaciones relacionadas con la elección misma.*
->
+
 > *Declaro emitir este juramento consciente de que una infracción del mismo comportaría para mí la pena de excomunión latae sententiae reservada a la Sede Apostólica.*
->
+
 > *Así Dios me ayude y estos Santos Evangelios que toco con mi mano.*
 
 CAPÍTULO III

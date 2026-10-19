@@ -1,9 +1,5 @@
 # L'hérésie de la violence au nom de Dieu (Serge-Thomas Bonino, o.p., Secrétaire général de la CTI)
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **L’hérésie de la violence ‘au nom de Dieu’**
 
 (Serge-Thomas Bonino, o.p., Secrétaire général de la CTI)
@@ -25,5 +21,3 @@ Dans le débat sur monothéisme et violence, le document a pris soin d’éviter
 Une seconde facilité apologétique aurait été de désolidariser la foi chrétienne de la religion : Oui, concédons que la religion est facteur de violence, mais précisons aussitôt que le christianisme ne relève pas de la religion mais de la foi. Bien au contraire, le document insiste sur la valeur intrinsèque de l’expérience religieuse comme telle. De même que la grâce ne détruit pas la nature mais la guérit et la porte à son accomplissement, de même la foi chrétienne assume la dimension religieuse de la condition humaine. Elle la purifie en la reconduisant à son essence authentique laquelle unit inséparablement amour de Dieu et amour du prochain, de sorte que toute violence au nom de Dieu est « una *corruzione* dell’esperienza religiosa » (n° 95).
 
 Ce point est capital pour le dialogue interreligieux. Les théologiens catholiques qui ont rédigé ce document n’ont pas voulu parler au nom des croyants des autres religions monothéistes mais ils les invitent à entreprendre une démarche analogue de purification à l’intérieur de leurs propres traditions. Dans la mesure où celles-ci sont l’expression d’une religion authentique, elles ne peuvent que rejeter la violence religieuse. N’est-il pas significatif que le bienheureux [Jean-Paul II](/holy_father/john_paul_ii/index_fr.htm) ait placé la [rencontre interreligieuse d’Assise de 1986](/holy_father/john_paul_ii/travels/sub_index1986/trav_perugia-assisi_fr.htm) sous le signe de la paix ? Loin d’être des facteurs de division, les religions, lorsqu’elles sont fidèles à leur essence et sans rien renier de leur sens de l’absolu, sont des ferments de paix. Voilà pourquoi il serait suicidaire de les tenir à l’écart de la vie sociale et politique.
-
-[](#top)

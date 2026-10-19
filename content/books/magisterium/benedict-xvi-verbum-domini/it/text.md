@@ -63,7 +63,6 @@ DELLA CHIESA
 > Bibbia ed ecumenismo \[46\]  
 > Conseguenze sull’impostazione degli studi teologici \[47\]  
 > I Santi e l’interpretazione della Scrittura \[48-49\]  
->  
 
 **SECONDA PARTE *[VERBUM IN ECCLESIA](#SECONDA_PARTE_)***
 
@@ -110,8 +109,6 @@ DELLA CHIESA
 > Lettura orante della sacra Scrittura e «lectio divina» \[86-87\]  
 > Parola di Dio e preghiera mariana \[88\]  
 > Parola di Dio e Terra Santa \[89\]
->
->  
 
 **TERZA PARTE *[VERBUM MUNDO](#TERZA_PARTE)***
 
@@ -198,8 +195,6 @@ Come non ricordare poi che durante tutto il Sinodo ci ha accompagnato la testimo
 **«*In principio era il Verbo, e il Verbo era presso Dio e il Verbo era Dio… e il Verbo si fece carne*»** **(*Gv* 1,1.14)**
 
 **Il Dio che parla**
-
-** **
 
 ***Dio in dialogo***
 
@@ -462,8 +457,6 @@ Di questo legame tra Parola di Dio e santità abbiamo avuto testimonianza dirett
 
 **La Parola di Dio e la Chiesa**
 
-** **
-
 ***La Chiesa accoglie la Parola***
 
 50. Il Signore pronuncia la sua Parola perché venga accolta da coloro che sono stati creati proprio «per mezzo» dello stesso Verbo. «Venne tra i suoi» (*Gv* 1,11): la Parola non ci è originariamente estranea e la creazione è stata voluta in un rapporto di familiarità con la vita divina. Il Prologo del quarto Vangelo ci pone di fronte anche al rifiuto nei confronti della divina Parola da parte dei «suoi» che «non l’hanno accolto» (*Gv* 1,11). Non accoglierlo vuol dire non ascoltare la sua voce, non conformarsi al *Logos*. Invece, là dove l’uomo, pur fragile e peccatore, si apre sinceramente all’incontro con Cristo, inizia una trasformazione radicale: «a quanti però lo hanno accolto ha dato il potere di diventare figli di Dio» (*Gv* 1,12). Accogliere il Verbo vuol dire lasciarsi plasmare da Lui, così da essere, per la potenza dello Spirito Santo, resi conformi a Cristo, al «Figlio unigenito che viene dal Padre» (*Gv* 1,14). È l’inizio di una nuova creazione, nasce la creatura nuova, un popolo nuovo. Quelli che credono, ossia coloro che vivono l’obbedienza della fede, «da Dio sono stati generati» (*Gv* 1,13), vengono resi partecipi della vita divina: *figli nel Figlio* (cfr *Gal* 4,5-6; *Rm* 8,14-17). Dice suggestivamente sant’Agostino commentando questo passo nel Vangelo di Giovanni: «per mezzo del Verbo sei stato fatto, ma è necessario che per mezzo del Verbo tu venga rifatto».[^174] Qui vediamo delinearsi il volto della Chiesa, come realtà definita dall’accoglienza del Verbo di Dio che facendosi carne è venuto a porre *la sua tenda tra noi* (cfr *Gv* 1,14). Questa dimora di Dio tra gli uomini, questa *shekinah* (cfr *Es* 26,1), prefigurata nell’Antico Testamento, si compie ora nella presenza definitiva di Dio con gli uomini in Cristo.
@@ -686,8 +679,6 @@ La Terra Santa rimane ancor oggi meta di pellegrinaggio del popolo cristiano, qu
 
 **La missione della Chiesa: annunciare la Parola di Dio al mondo**
 
-** **
-
 ***La Parola dal Padre e verso il Padre***
 
 90. San Giovanni sottolinea con forza il paradosso fondamentale della fede cristiana: da una parte, egli afferma che «Dio, nessuno lo ha mai visto» (*Gv* 1,18; cfr *1Gv* 4,12). In nessun modo le nostre immagini, concetti o parole possono definire o misurare la realtà infinita dell’Altissimo. Egli rimane il *Deus semper maior*. Dall’altra parte, egli afferma che il Verbo realmente «si fece carne» (*Gv* 1,14). Il Figlio unigenito, che è rivolto verso il seno del Padre, ha rivelato il Dio che «nessuno ha mai visto» (*Gv* 1,18). Gesù Cristo viene a noi, «pieno di grazia e verità» (*Gv* 1,14), che per mezzo di Lui sono donate a noi (cfr *Gv* 1,17); infatti, «dalla sua pienezza noi tutti abbiamo ricevuto: grazia su grazia» (*Gv* 1,16). In tal modo l’evangelista Giovanni nel Prologo contempla il Verbo dal suo stare presso Dio al suo farsi carne, fino al suo ritornare nel seno del Padre portando con sé la nostra stessa umanità, che egli ha assunto per sempre. In questo suo uscire dal Padre e tornare a Lui (cfr *Gv* 13,3; 16,28; 17,8.10) Egli si presenta a noi come il «Narratore» di Dio (cfr *Gv* 1,18).  
@@ -792,8 +783,6 @@ La Chiesa è anche consapevole che esiste una *povertà* come virtù, da coltiva
 ***Parola di Dio e custodia del creato***
 
 108. L’impegno nel mondo richiesto dalla divina Parola ci spinge a guardare con occhi nuovi l’intero cosmo creato da Dio e che porta già in sé le tracce del Verbo, per mezzo del quale tutto è stato fatto (cfr *Gv* 1,2). In effetti c’è una responsabilità che abbiamo come credenti e annunciatori del Vangelo anche nei confronti della creazione. La Rivelazione, mentre ci rende noto il disegno di Dio sul cosmo, ci porta anche a denunciare gli atteggiamenti sbagliati dell’uomo, quando non riconosce tutte le cose come riflesso del Creatore, ma mera materia da manipolare senza scrupoli. Così l’uomo manca di quella essenziale umiltà che gli permette di riconoscere la creazione come dono di Dio da accogliere e usare secondo il suo disegno. Al contrario, l’arroganza dell’uomo che vive come se Dio non ci fosse, porta a sfruttare e deturpare la natura, non riconoscendo in essa un’opera della Parola creatrice. In questo quadro teologico, desidero richiamare le affermazioni dei Padri sinodali, i quali hanno ricordato che «accogliere la Parola di Dio attestata nella sacra Scrittura e nella Tradizione viva della Chiesa genera un nuovo modo di vedere le cose, promuovendo una ecologia autentica, che ha la sua radice più profonda nella obbedienza della fede …(e) sviluppando una rinnovata sensibilità teologica sulla bontà di tutte le cose, create in Cristo».[^352] L’uomo ha bisogno di essere nuovamente educato allo stupore e a riconoscere la bellezza autentica che si manifesta nelle cose create.[^353]
-
-** **
 
 ** Parola di Dio e culture**
 

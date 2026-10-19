@@ -27,27 +27,27 @@ Quoniam vero caritas *foras mittit timorem* (1 *Io* 4,18), tuendae fidei nunc me
 Itaque, ut munus suum promovendae sanae doctrinae navitatisque Ecclesiae circa summa apostolatus officia aptius deinceps haec Sacra Congregatio sustineat, suprema Apostolica Nostra Auctoritate ad eius nomen ordinemque immutandum sequentia statusmus:
 
 > **1.** Quae hactenus appellata est *Sacra Congregatio Sancti Officii*, in posterum appellabitur *Congregatio pro doctrina fidei* cuius munus est doctrinam de fide et moribus in universo catholico orbe tutari.
->
+
 > **2.** Ei praeest Summus Pontifex, eamque dirigit Cardinalis Secretarius, iuvantibus Adsessore, Substituto et Promotore Iustitiae.
->
+
 > **3.** Ad eam proinde spectant quaestiones omnes, quae fidei morunque doctrinam attingunt, vel cum ipsa fide conectuntur.
->
+
 > **4.** Examinat novas doctrinas novasque opiniones, quavis ratione evulgatas, atque studia de hac re promovet, Congressusque virorum doctorum fovet; illas vero reprobat de quibus constat fidei principiis esse oppositas, auditis tamen Episcopis regionum, si eorumdem intersit.
->
+
 > **5.** Delatos sibi libros diligenter excutit, et eos, si oportuerit, reprobat, audito tamen auctore, eique facta facultate sese, etiam scripto, defendendi, et nonnisi praemonito Ordinario, uti iam cautum est in Constitutione Sollicita ac provida Decessoris Nostri f. r. Benedicti XIV.
->
+
 > **6.** Eiusdem pariter est cognoscere in iure aut in facto quae circa privilegium fidei versantur.
->
+
 > **7.** Eidem competit iudicare de delictis contra fidem, iuxta processus ordinarii normas.
->
+
 > **8.** Agit ad sacramenti Poenitentiae dignitatem tutandam, secundum suas emendatas et probatas normas procedens; quae quidem Ordinariis locorum significabuntur, facta reo sese defendendi facultate, eligendive patronum ex iis qui apud Congregationem adprobati sunt.
->
+
 > **9.** Rationes opportunas fovet cum Pontificia Commissione de re biblica.
->
+
 > **10.** Eidem Congregationi coetus Consultorum adest, qui a Summo Pontifice ex viris doctrina, prudentia, usu praestantibus ex universo terrarum orbe eliguntur. Consultoribus adiungi possunt, si materia tractanda id exigat, viri periti, praecipue ex magistris Studiorum Universitatum electi.
->
+
 > **11.** Congregatio duplici modo procedit: vel administrativo vel iudiciali, pro diversa rerum tractandarum natura.
->
+
 > **12.** Regulae ad ordinem internum Congregationis spectantes, peculiari data Instructione, publici iuris fient. Quaeacumque vero a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia firma ac rata esse iubemus, contrariis quibuslibet non obstantibus.
 
 *Datum Romae, apud Sanctum Petrum, die VII mensis Decembris anno MCMLXV, Pontificatus Nostri tertio.*

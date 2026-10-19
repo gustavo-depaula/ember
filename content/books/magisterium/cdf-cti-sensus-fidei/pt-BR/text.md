@@ -1,9 +1,5 @@
 # Sensus fidei na vida da Igreja
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSÃO TEOLÓGICA INTERNACIONAL
 
 **O** ***SENSUS FIDEI* NA VIDA DA IGREJA**
@@ -15,13 +11,13 @@ COMMISSÃO TEOLÓGICA INTERNACIONAL
 **[Capítulo 1: O *sensus* *fidei* na Escritura e na Tradição](#Capítulo_1:_O_sensus_fidei_na_Escritura_e_na_Tradição_)**
 
 > [1. O ensinamento da Bíblia](#1._O_ensinamento_da_Bíblia_)
->
+
 > > a\) A fé como resposta à palavra de Deus  
 > > b) As dimensões pessoal e eclesial da fé  
 > > c) A capacidade de fiéis de conhecer a verdade e de testemunhá-la
->
+
 > [2. O desenvolvimento da ideia e o seu papel na história da Igreja](#2._O_desenvolvimento_da_ideia_e_seu_papel_na_história_da_Igreja)
->
+
 > > a\) O período patrístico  
 > > b) O período medieval  
 > > c) O período da Reforma e da pós-Reforma  
@@ -31,42 +27,42 @@ COMMISSÃO TEOLÓGICA INTERNACIONAL
 **[Capítulo 2: O *sensus* *fidei* na vida pessoal do fiel](#Capítulo_2:_O_sensus_fidei_na_vida_pessoal_do_fiel_)**
 
 > [1. O *sensus* *fidei* como instinto da fé](#1._O_sensus_fidei_como_instinto_da_fé)
->
+
 > [2. As manifestações do *sensus* *fidei* na vida pessoal dos fiéis](#2._As_manifestações_do_sensus_fidei_na_vida_pessoal_dos_fiéis)
 
 **[Capítulo 3: O *sensus* *fidei* na vida da Igreja](#Capítulo_3:_O_sensus_fidei_fidelium_na_vida_da_Igreja_)**
 
 > [1. O *sensus* *fidei* e o desenvolvimento da doutrina e da prática cristã](#1._O_sensus_fidei_e_o_desenvolvimento_da_doutrina_e_da_prática_cristã)
->
+
 > > a\) Aspectos retrospectivos e prospectivos do *sensus* *fidei*  
 > > b) A contribuição dos leigos para o *sensus* *fidelium*
->
+
 > [2. O *sensus* *fidei* e o Magistério](#2._O_sensus_fidei_e_o_Magistério)
->
+
 > > a\) O Magistério está à escuta do *sensus* *fidelium*  
 > > b) O Magistério alimenta, discerne e julga o *sensus* *fidelium*  
 > > c) A recepção
->
+
 > [3. O *sensus* *fidei* e a teologia](#3._O_sensus_fidei_e_a_teologia)
->
+
 > > a\) Os teólogos dependem do *sensus* *fidelium*  
 > > b) Os teólogos refletem sobre o *sensus* *fidelium*
->
+
 > [4. Aspectos ecumênicos do *sensus* *fidei*](#4._Aspectos_ecumênicos_do_sensus_fidei)
 
 **[Capítulo 4: Como discernir as manifestações autênticas do *sensus* *fidei*](#Capítulo_4:_Como_discernir_as_manifestações_autênticas_do_sensus_fidei_)**
 
 > [1. As disposições necessárias para uma participação autêntica no *sensus* *fidei*](#1._As_disposições_necessárias_para_uma_participação_autêntica_no_sensus_fidei)
->
+
 > > a\) A participação na vida da Igreja  
 > > b) A escuta da palavra de Deus  
 > > c) A abertura à razão  
 > > d) A adesão ao Magistério  
 > > e) A santidade – a humildade, a liberdade e a alegria  
 > > f) A busca da edificação da Igreja
->
+
 > [2. Aplicações](#2._Aplicações)
->
+
 > > a\) O *sensus* *fidei* e a religiosidade popular  
 > > b) O *sensus* *fidei* e a opinião pública  
 > > c) As formas de consultar os fiéis
@@ -452,8 +448,6 @@ c\) *As formas de consultar os fiéis*
 128\. O *sensus* *fidei* está intimamente ligada a *infallibilitas in credendo*, que tem a Igreja como um todo, como “sujeito” fiel peregrino na história[^147]. Nutridos pelo Espírito Santo, o *sensus fidei* permite à Igreja dar testemunho e a seus membros realizar o discernimento que eles devem constantemente fazer, tanto como indivíduos quanto como comunidade, para descobrir a melhor maneira de viver, agir e falar com fidelidade ao Senhor. É o instinto pelo qual todos e cada um “pensem com a Igreja”[^148], compartilhando uma única fé e um mesmo desígnio. É isto que une os pastores e o povo e que torna possível o diálogo entre eles, fundamentado nos dons e na vocação de cada um, ao mesmo tempo essencial e fecundo para a Igreja.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: PAPA FRANCISCO. Palavras pronunciadas no *[Angelus](/content/francesco/pt/angelus/2013/documents/papa-francesco_angelus_20130317.html)* de 17 de março de 2013.
 

@@ -1,13 +1,5 @@
 # Quo vadis, humanitas? Pensar la antropología cristiana ante algunos escenarios futuros de la humanidad
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL

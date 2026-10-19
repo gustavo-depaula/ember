@@ -224,9 +224,9 @@ Necessitas vero haec efficere non debet ut consilia et incepta in auxilium ac pr
 In regiminibus vero tyrannidis et auctoritatis imperiosae principium est deductum ad extrema usque consectaria ipsius principatus violentiae prae ratione mentis. Coactus scilicet est homo ut rerum speciem pateretur vi iniunctam non adeptam suae rationis virtute nec libertatis suae usu. Illud itaque subverti oportet principium atque piane iura agnosci humanae conscientiae quae veritate sola vinciatur tam naturali quam revelata. His enim in agnitis iuribus princeps constat fundamentum omnis politici ordinis revera liberi (63). Magnopere igitur refert illud inculcari principium et varias quidem ob causas :
 
 > a\) quoniam vetustae regiminis universalis auctoritatisque plenae figurae nondum sunt penitus superatae, quin immo periculum subsistit ne reviviscant; id quod renovatum studium suadet cooperationis et coniunctionis inter Nationes cunctas;
->
+
 > b\) quoniam in progressis iam Civitatibus interdum nimia peragitur propagatio et praedicatio bonorum tantummodo ad commoditatem spectantium, excitatis naturae instinctibus ac propensionibus ad subitam voluptatem, unde difficulter agnoscitur et observatur ordo verorum humanae vitae bonorum:
->
+
 > c\) quoniam quibusdam in Nationibus novae exoriuntur formae religiosi fundamentalismi quae, tecto vel etiam aperto modo, denegant civibus alterius religionis ac maioris civium partis plenam civilium vel religiosorum iurium illorum exercitationem, dum prohibent eos ne in culturae disceptationem ingrediantur atque circumscribunt ius Ecclesiae praedicandi Evangelium iusque hominum, audientium illam praedicationem, ut suscipiant eam et ad Christum sese convertant. Nulla veri nominis progressio effici potest nisi naturale ipsum primariumque servatur ius veritatis cognoscendae et secundum illam vivendi. Hoc iungitur cum iure naturali, tamquam exercitium eius altiorque persecutio, ius reperiendi et suscipiendi libere Iesum Christum qui verum est hominis bonum (64).
 
 **CAPUT IV**

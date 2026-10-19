@@ -21,9 +21,9 @@ Pursuant to the steps already taken by my Predecessor Benedict XVI in this area 
 The dicasteries of the Roman Curia and other institutes and entities dependent on the Holy See, as well as non-profit organizations that enjoy juridical personality in canon law and are based in Vatican City State, are bound to observe the laws of Vatican City State with regard to:
 
 > a\) measures for the prevention and countering of money laundering and the financing of terrorism;
->
+
 > b\) measures against those who threaten international peace and security;
->
+
 > c\) prudential supervision of entities habitually engaged in a professional financial activity.
 
 ***Article 2***
@@ -71,21 +71,21 @@ I dispose that everything which has been established have full and permanent val
 The Financial Security Committee:
 
 > a\) establishes criteria and procedures for the assessment of risks relating to money laundering and financing of terrorism and proliferation of weapons of massdestruction;
->
+
 > b\) approves the general risk assessment and regularly updates it;
->
+
 > c\) identifies the measures needed for the management and control of risks;
->
+
 > d\) coordinates the adoption and regular updating of policies and procedures for the prevention and combating of money laundering, financing of terrorism and proliferation of weapons of mass destruction;
->
+
 > e\) promotes the active cooperation and exchange of information between the competent Authorities of the Holy See and the Vatican City State;
->
+
 > f\) ensures appropriate information to interested bodies on the identified risks;
->
+
 > g\) adopts procedures and internal guidelines;
->
+
 > h\) asks for information to the authorities and entities operating within the Holy See and the Vatican City State;
->
+
 > i\) demands studies and advice from external experts.
 
 **Article 3** – *Meetings*.

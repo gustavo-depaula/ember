@@ -150,7 +150,10 @@ def pandoc(html: str) -> str:
         input=html, capture_output=True, text=True, check=True,
     ).stdout
     out = re.sub(r"^[ \t\u00a0]+$", "", out, flags=re.M)
-    out = re.sub(r"^[*_]+\s*$", "", out, flags=re.M)
+    # Emphasis wrapped around nothing ("* *", "** **") and quotes around nothing (">")
+    # are left by layout markup; neither carries text.
+    out = re.sub(r"^(?:[*_]+\s*)+$", "", out, flags=re.M)
+    out = re.sub(r"^>\s*$", "", out, flags=re.M)
     return out
 
 
@@ -209,6 +212,8 @@ def to_markdown(root: Tag, title: str, notes: dict[int, str] | None = None) -> s
     body = pandoc(str(root))
     body = re.sub(r"\\?⟦(\d+)\\?⟧", r"[^\1]", body)
     body = VATICAN_COPYRIGHT_LINE.sub("", body)
+    # Navigation icons (home, share, back) come through as links with no text.
+    body = re.sub(r"^(?:\[\]\((?:[^()]|\([^)]*\))*\)\s*)+$", "", body, flags=re.M)
     body = re.sub(r"\n{3,}", "\n\n", body).strip()
     used = {int(n) for n in re.findall(r"\[\^(\d+)\]", body)}
     parts = [f"# {md_escape_inline(title)}", body]
@@ -448,6 +453,9 @@ def check_script(lang: str, ex: Extract) -> None:
 def extract(url: str, fallback_title: str, lang: str | None = None) -> Extract:
     """The document at `url`; with `lang`, also checked to be written in that language's script."""
     ex = _extract(url, fallback_title)
+    if not ex.title.strip():
+        # Some archive pages have an empty <title>; the inventory's title stands in.
+        ex = Extract(fallback_title, re.sub(r"\A# *\n", f"# {md_escape_inline(fallback_title)}\n", ex.markdown))
     if lang:
         check_script(lang, ex)
     return ex

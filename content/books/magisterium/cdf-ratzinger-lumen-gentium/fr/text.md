@@ -1,9 +1,5 @@
 # Congrès d’études sur la mise en œuvre du Concile Vatican II - Conférence du cardinal Joseph Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INTERVENTION DU CARDINAL JOSEPH RATZINGER SUR L'ECCLÉSIOLOGIE DE LA CONSTITUTION « LUMEN GENTIUM » AU CONGRÈS INTERNATIONAL SUR LA MISE EN ŒUVRE DU CONCILE ŒCUMÉNIQUE VATICAN II ORGANISÉ PAR LE COMITÉ DU GRAND JUBILÉ DE L'AN 2000***
 
 *Dimanche 27 février 2000*
@@ -137,5 +133,3 @@ La vision mariale de l’Église et la vision ecclésiale, historico-salvifique,
 Pour faire goûter la théologie des Pères, je voudrais, en conclusion, proposer un texte de saint Ambroise, qu’avait sélectionné Hugo Rahner : « Ainsi donc, tenez-vous fermes sur le terrain de votre cœur… Que veut dire “se tenir”? L’Apôtre nous l’a enseigné, Moïse l’a écrit : “Le lieu où tu te tiens est une terre sainte”. Personne ne se tient debout, sinon celui qui se tient ferme dans la foi… Et cette parole aussi est écrite : “Mais toi, reste ferme, avec moi”. Tu te tiens ferme avec moi si tu te tiens dans l’Église. L’Église est la terre sainte, sur laquelle nous devons nous tenir… Tiens donc ferme, tiens-toi dans l’Église. Tiens-toi ferme, là où je veux t’apparaître, là où je reste près de toi. Où est l’Église, là est le lieu ferme de ton cœur. C’est sur l’Église que s’appuient les fondements de ton âme. En effet, dans l’Église je te suis apparu, comme jadis dans le Buisson ardent. Le buisson, c’est toi; moi, je suis le feu. Feu dans le buisson, je suis en ta chair. Je suis le feu, pour t’illuminer ; pour brûler les épines de tes péchés, pour te donner la faveur de ma grâce ».
 
 **Le Card. JOSEPH RATZINGER** *Préfet de la Congrégation pour la Doctrine de la foi*
-
-[](#top)

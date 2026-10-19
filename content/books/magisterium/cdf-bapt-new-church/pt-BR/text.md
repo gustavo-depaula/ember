@@ -1,10 +1,6 @@
 # Sobre a validade do batismo conferido pela The New Church, 20 de novembro de 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGREGAÇÃO PARA A DOUTRINA DA FÉ
+CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***Notificação sobre a validade do batismo conferido pela “The *** ***New*** ***Church*** ** **
 
@@ -15,5 +11,3 @@ Esta Congregação, depois de um diligente exame, decidiu responder: *Não*.
 *Roma, 20 de novembro de 1992.*
 
 **Joseph Card. Ratzinger** *Prefeito*
-
-[](#top)

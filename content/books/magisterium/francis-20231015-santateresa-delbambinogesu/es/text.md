@@ -148,17 +148,17 @@ para guiar las almas al feliz Más Allá». [^62]
 52\. Del cielo a la tierra, la actualidad de santa Teresa del Niño Jesús y de la Santa Faz perdura en toda su “pequeña grandeza”.
 
 > En un tiempo que nos invita a encerrarnos en los propios intereses, Teresita nos muestra la belleza de hacer de la vida un regalo.
->
+
 > En un momento en que prevalecen las necesidades más superficiales, ella es testimonio de la radicalidad evangélica.
->
+
 > En un tiempo de individualismo, ella nos hace descubrir el valor del amor que se vuelve intercesión.
->
+
 > En un momento en el que el ser humano se obsesiona por la grandeza y por nuevas formas de poder, ella señala el camino de la pequeñez.
->
+
 > En un tiempo en el que se descarta a muchos seres humanos, ella nos enseña la belleza de cuidar, de hacerse cargo del otro.
->
+
 > En un momento de complicaciones, ella puede ayudarnos a redescubrir la sencillez, la primacía absoluta del amor, la confianza y el abandono, superando una lógica legalista o eticista que llena la vida cristiana de observancias o preceptos y congela la alegría del Evangelio.
->
+
 > En un tiempo de repliegues y de cerrazones, Teresita nos invita a la salida misionera, cautivados por la atracción de Jesucristo y del Evangelio.
 
 53\. Un siglo y medio después de su nacimiento, Teresita está más viva que nunca en medio de la Iglesia peregrina, en el corazón del Pueblo de Dios. Está peregrinando con nosotros, haciendo el bien en la tierra, como tanto deseó. El signo más hermoso de su vitalidad espiritual son las innumerables “rosas” que va esparciendo, es decir, las gracias que Dios nos da por su intercesión colmada de amor, para sostenernos en el camino de la vida.

@@ -1,9 +1,5 @@
 # Notificazione sugli scritti e lÂattività della Signora Vassula Ryden, 6 ottobre 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **NOTIFICATIO DE SCRIPTIS ET OPERIBUS DOMINAE VASSULAE RYDÉN** \*
@@ -29,5 +25,3 @@ Atteso che, nonostante alcuni aspetti positivi, l'effetto delle attività svolte
 **+ Tarcisio Bertone, S.D.B.,** Arciv. em. di Vercelli, *Segretario*
 
 \* *AAS* 88 (1996), 956-957.
-
-[](#top)

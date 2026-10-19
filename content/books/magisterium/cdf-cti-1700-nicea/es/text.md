@@ -1,13 +1,5 @@
 # Jesucristo, Hijo de Dios, Salvador. 1700° aniversario del Concilio Ecuménico de Nicea
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL

@@ -1,13 +1,5 @@
 # Decreto acerca da interpretação da Notificação sobre o Índice de livros proibidos, 15 de novembro de 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ

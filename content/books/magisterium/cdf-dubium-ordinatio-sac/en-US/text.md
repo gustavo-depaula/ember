@@ -1,9 +1,5 @@
 # Responsum ad propositum dubium concerning the teaching contained in “Ordinatio Sacerdotalis”
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Congregation for the Doctrine of the Faith**
 
 ***RESPONSUM AD PROPOSITUM DUBIUM CONCERNING THE TEACHING CONTAINED IN “ORDINATIO SACERDOTALIS”***
@@ -22,5 +18,3 @@ Rome, from the offices of the Congregation for the Doctrine of the Faith, on the
 *Prefect*
 
 **Tarcisio Bertone, S.D.B.** Archbishop Emeritus of Vercelli *Secretary*
-
-[](#top)

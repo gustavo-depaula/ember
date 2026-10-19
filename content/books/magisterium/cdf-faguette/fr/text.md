@@ -1,15 +1,5 @@
 # « Notre Dame de la Miséricorde conduis-nous au Cœur du Christ ». Lettre à l’Archevêque de Bourges (France) à propos de l’expérience spirituelle d’Estelle Faguette
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI

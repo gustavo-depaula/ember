@@ -1,13 +1,5 @@
 # Erklärung bezüglich der Fragmente konsekrierter Hostien, 2. Mai 1972
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HEILIGE KONGREGATION FÜR DIE GLAUBENSLEHRE

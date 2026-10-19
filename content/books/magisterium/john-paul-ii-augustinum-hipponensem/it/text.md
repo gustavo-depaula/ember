@@ -218,7 +218,3 @@ Il XVI centenario della conversione di sant'Agostino offre una occasione assai p
 Alle varie iniziative e celebrazioni, che sono state organizzate ovunque per questo motivo, sarò presente con animo grato e beneaugurante; sopra ciascuna di esse invoco di cuore la celeste protezione e l'efficace ausilio della vergine Maria, che il vescovo d'Ippona ha esaltato come madre della Chiesa, auspice la mia apostolica benedizione, che con questa lettera mi è caro impartire.
 
 *Dato a Roma presso San Pietro, il 28 agosto, nella festa di sant'Agostino, vescovo e dottore della Chiesa, nell'anno 1986, ottavo del mio Pontificato.*
-
-* *
-
-* *

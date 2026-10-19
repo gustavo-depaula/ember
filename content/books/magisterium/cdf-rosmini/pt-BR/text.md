@@ -1,9 +1,5 @@
 # Pe. Antonio Rosmini
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***Nota sobre o valor dos Decretos doutrinais relativos  ao pensamento e às obras do Padre António Rosmini-Serbati***
@@ -44,5 +40,3 @@ Ao mesmo tempo permanece a validade objectiva do Decreto *Post obitum* em relaç
 
 *1) ANTÓNIO ROSMINI, Carta ao Papa Pio IX,* em:  *Epistolário completo,* Casale Monferrato, tip. Panc 1892, vol. X, 541 (carta 6341).  
 2) JOÃO PAULO II, Carta Enc. *Fides et ratio,* 74, em:  *AAS,* XCI, 1999 I, 62.
-
-[](#top)

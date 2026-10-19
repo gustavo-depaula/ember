@@ -320,8 +320,6 @@ Ancora oggi, dare
 
 *Dato a Roma, presso San Pietro, il 4 ottobre, festa di San Francesco d’Assisi, dell’anno 2025, primo del mio Pontificato.*
 
-* *
-
 LEONE PP. XIV
 
 ------------------------------------------------------------------------

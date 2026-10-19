@@ -1,9 +1,5 @@
 # Dei Verbum – Forty Years Later - His Eminence Card. William Joseph Levada, 10 October 2005
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Dei Verbum – Forty Years Later***
 
 *Pontifical Athenaeum of St. Anselm 10 October 2005*
@@ -78,7 +74,3 @@ The Constitution *[Dei Verbum](/archive/hist_councils/ii_vatican_council/documen
 
 \+**William Joseph Levada**  
 *Archbishop Emeritus of San Francisco Prefect of the Congregation for the Doctrine of the Faith*
-
-*  *
-
-[](#top)

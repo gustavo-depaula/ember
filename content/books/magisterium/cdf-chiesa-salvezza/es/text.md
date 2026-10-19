@@ -1,9 +1,5 @@
 # Observaciones sobre el documento de la ARCIC II «La salvación y la Iglesia» 18 noviembre 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **OBSERVACIONES SOBRE EL DOCUMENTO DE LA ARCIC-II «LA SALVACIÓN Y LA IGLESIA»**
@@ -123,8 +119,6 @@ Estas cuestiones y las consideraciones que han suscitado las Observaciones de la
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Traducción italiana en: *II Regno-Documenti* XXXII/572, 9 (1987) 297-302.
 

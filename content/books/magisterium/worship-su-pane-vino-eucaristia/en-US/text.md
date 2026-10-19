@@ -1,15 +1,5 @@
 # Circular letter to Bishops on the bread and wine for the Eucharist - Congregation for Divine Worship and the Discipline of the Sacraments
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR DIVINE WORSHIP  
@@ -30,15 +20,15 @@ It is also for the Ordinary to provide information to the producers of the bread
 3\. The norms about the Eucharistic matter are given in can. 924 of the CIC and in numbers 319 – 323 of the *Institutio generalis Missalis Romani*  and have already been explained in the Instruction *[Redemptionis Sacramentum](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_en.html)* issued by this Congregation (25 March 2004):
 
 > a\) “The bread used in the celebration of the Most Holy Eucharistic Sacrifice must be unleavened, purely of wheat, and recently made so that there is no danger of decomposition.  It follows therefore that bread made from another substance, even if it is grain, or if it is mixed with another substance different from wheat to such an extent that it would not commonly be considered wheat bread, does not constitute valid matter for confecting the Sacrifice and the Eucharistic Sacrament.  It is a grave abuse to introduce other substances, such as fruit or sugar or honey, into the bread for confecting the Eucharist. Hosts should obviously be made by those who are not only distinguished by their integrity, but also skilled in making them and furnished with suitable tools” ([n. 48](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_en.html#Chapter%20III)).
->
+
 > b\) “The wine that is used in the most sacred celebration of the Eucharistic Sacrifice must be natural, from the fruit of the grape, pure and incorrupt, not mixed with other substances.  \[…\]  Great care should be taken so that the wine intended for the celebration of the Eucharist is well conserved and has not soured.  It is altogether forbidden to use wine of doubtful authenticity or provenance, for the Church** **requires certainty regarding the conditions necessary for the validity of the sacraments. Nor are other drinks of any kind to be admitted for any reason, as they do not constitute valid matter” ([n. 50](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_en.html#Chapter%20III)).
 
 4\. In its *[Circular Letter to the Presidents of the Episcopal Conferences regarding legitimate variations in the use of bread with a small quantity of gluten and the use of mustum as Eucharistic matter](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_en.html)* (24 July 2003, Prot. N. 89/78 – 17498), the Congregation for the Doctrine of the Faith published the norms for the celebration of the Eucharist by persons who, for varying and grave reasons, cannot consume bread made in the usual manner nor wine fermented in the normal manner:
 
 > a\) “Hosts that are completely gluten-free are invalid matter for the celebration of the Eucharist.  Low-gluten hosts (partially gluten-free) are valid matter, provided they contain a sufficient amount of gluten to obtain the confection of bread without the addition of foreign materials and without the use of procedures that would alter the nature of bread” (A. 1-2).
->
+
 > b\) “*Mustum*, which is grape juice that is either fresh or preserved by methods that suspend its fermentation without altering its nature (for example, freezing), is valid matter for the celebration of the Eucharist” (A. 3).
->
+
 > c\) “The Ordinary is competent to give permission for an individual priest or layperson to use low-gluten hosts or mustum for the celebration of the Eucharist. Permission can be granted habitually, for as long as the situation continues which occasioned the granting of permission” (C. 1).
 
 5\. The same Congregation also decided that Eucharistic matter made with genetically modified organisms can be considered valid matter (cf. Letter to the Prefect of the Congregation for Divine Worship and the Discipline of the Sacraments, 9 December 2013, Prot. N. 89/78 – 44897).

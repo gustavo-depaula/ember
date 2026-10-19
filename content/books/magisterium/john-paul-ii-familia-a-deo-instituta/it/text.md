@@ -55,5 +55,3 @@ VI\. Un «regolamento» sperimentale, redatto in applicazione del presente motup
 *Roma, presso San Pietro, 9 maggio 1981, anno terzo di Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-* *

@@ -1,9 +1,5 @@
 # Provisory Statute of the International Theological Commission, 12 July 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **INTERNATIONAL THEOLOGICAL COMMISSION**
 
 **Provisory Statute**\*
@@ -37,5 +33,3 @@ Rome, 12 July 1969
 **Franjo Cardinal Šeper** *Prefect*
 
 \* cf. *AAS* 61 (1969) 540-541.
-
-[](#top)

@@ -76,5 +76,3 @@ And this notwithstanding any contrary ordinances, constitutions, privileges (eve
 I therefore exhort all the faithful to observe the proposed legislation with a sincere spirit and good will in the hope that there may flower again in the Church a renewed discipline; and that consequently the salvation of souls may be rendered ever easier under the protection of the Blessed Virgin Mary, Mother of the Church.
 
 *Given at Rome, from the Apostolic Palace, January 25, 1983, the fifth year of our Pontificate.*
-
-* *

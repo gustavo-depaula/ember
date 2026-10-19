@@ -1,9 +1,5 @@
 # Osservazioni circa il documento dell'ARCIC II: La salvezza e la Chiesa, 18 novembre 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE 
 
 ** *OSSERVAZIONI CIRCA IL DOCUMENTO DELL’ARCIC-II « LA SALVEZZA E LA CHIESA »*** *\**
@@ -137,5 +133,3 @@ Queste domande e le considerazioni suscitate dalle osservazioni della Congregazi
 \(6\) Cf. l'osservazione delle *Observations on the Final Report of ARCIC*, § A, 2,III: «It would have been useful — in order to evaluate the exact meaning of certain points of agreement — had ARCIC indicated their position in reference to the documents which have contributed significantly to the formulation of the Anglican identity (The thirty-nine articles of religion, Book of common prayer, Ordinal), in those cases where the assertions of the Final Report seem incompatible with these documents. The failure to take a stand on these texts can give rise to uncertainty about the exact meaning of the agreements reached».
 
 7 *Common Declaration*, § 3, in *AAS* 74 (1982), 925.
-
-[](#top)

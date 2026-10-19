@@ -2,8 +2,6 @@
 
 ***LETTER OF HIS HOLINESS POPE FRANCIS TO THE PREFECT OF THE CONGREGATION FOR THE DOCTRINE OF THE FAITH REGARDING ACCESS OF WOMEN TO THE MINISTRIES OF LECTOR AND ACOLYTE***
 
-* *
-
 *To the Venerable Brother Cardinal Luis F. Ladaria, S.J. Prefect of the Congregation for the Doctrine of the Faith*
 
 The Holy Spirit, the bond of Love between the Father and the Son, builds up and innervates the communion of the entire People of God, bringing forth in it a wealth and variety of gifts and charisms (cf. Francis, Apostolic Exhortation *[Evangelii gaudium](http://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#A_people_of_many_faces)*, n. 117). Through the Sacraments of Baptism, Confirmation and the Eucharist, the members of the Body of Christ receive from the Spirit of the Risen One, in various measures and with a diversity of expressions, those gifts that allow them to offer the necessary contribution to the edification of the Church and to the proclamation of the Gospel to every being.

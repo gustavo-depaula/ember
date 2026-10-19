@@ -25,9 +25,9 @@ III\. Todas as causas matrimoniais que se refiram às pessoas indicadas no cân.
 IV\. § 1. Nas restantes causas de nulidade de matrimónio é competente:
 
 > a\) o Tribunal do lugar onde foi celebrado o matrimónio; ou
->
+
 > b\) o Tribunal do lugar em que a parte demandada tenha residência não-transitória, que possa ser comprovada, por meio de um documento eclesiástico, ou de outro modo legítimo; ou
->
+
 > c\) o Tribunal do lugar em que de facto deve ser recolhida a maior parte dos depoimentos ou das provas, desde que se de o consentimento tanto do Ordinário do lugar da residência habitual da parte demandada, como do Ordinário do lugar e do presidente do tribunal em que se pôs a demanda.
 
 § 2. Se se verificar o caso apontado no precedente § 1, alínea c), o Tribunal antes de aceitar a causa procure inquirir da parte demandada, se ela tem alguma excepção a pôr, contra o foro a que se dirigiu a parte autora.

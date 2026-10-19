@@ -1,9 +1,5 @@
 # Collecta
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1))
-
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
 
 **SANCTI** **IOANNIS PAULI II, PAPAE**
@@ -45,5 +41,3 @@ et cognósco oves meas et cognóscunt me meae.
 
 Io 21, 15-17: «*Pasce agnos meos, pasce oves meas*».  
 Cum \[manifestásset se Iesus discípulis suis et\] prandísset cum eis, dicit Simóni Petro …
-
-[](#top)

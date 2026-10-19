@@ -165,5 +165,3 @@ Above all things, trusting in the mercy of God, who is able to move the hearts o
 *Given at St. Peter's, Rome, the 29th day of June, in the year 1896, and the nineteenth of our Pontificate.*
 
 **LEO XIII**
-
-*  *

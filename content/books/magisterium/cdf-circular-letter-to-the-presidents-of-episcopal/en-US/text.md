@@ -1,13 +1,5 @@
 # Circular Letter to the Presidents of Episcopal Conferences regarding some sentences and errors arising from the interpretation of the decrees of the Second Vatican Council, 24 July 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH**

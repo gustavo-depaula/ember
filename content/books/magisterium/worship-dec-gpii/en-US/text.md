@@ -1,9 +1,5 @@
 # Decree concerning liturgical worship in honour of Blessed John PauL II
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR DIVINE WORSHIP AND  
 THE DISCIPLINE OF THE SACRAMENTS
 
@@ -38,5 +34,3 @@ All things to the contrary notwithstanding.
 **Antonius Card. Cañizares Llovera** *Praefectus*
 
 **Iosephus Augustinus Di Noia, O.P.** *Archiepiscopus a Secretis*
-
-[](#top)

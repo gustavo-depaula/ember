@@ -1,9 +1,5 @@
 # Carta circular a los presidentes de las Conferencias episcopales acerca de los escritos y la actividad de la señora Vassula Rydén
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***CARTA CIRCULAR A LOS PRESIDENTES DE LAS CONFERENCIAS EPISCOPALES ACERCA DE LOS ESCRITOS Y LA ACTIVIDAD DE LA SEÑORA VASSULA RYDÉN***
@@ -26,5 +22,3 @@ Al mismo tiempo que envío esta comunicación, aprovecho esta oportunidad para e
 
 **Cardenal William Levada**  
 *Prefecto*
-
-[](#top)

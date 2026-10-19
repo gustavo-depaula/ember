@@ -1,15 +1,5 @@
 # "La única Cruz de la salvación". Carta al obispo de Bayeux-Lisieux (Francia) sobre las presuntas apariciones de Nuestro Señor Jesucristo en Dozulé
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIO PARA LA DOCTRINA DE LA FE

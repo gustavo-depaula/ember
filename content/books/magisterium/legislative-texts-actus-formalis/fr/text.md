@@ -1,9 +1,5 @@
 # Actus formalis defectionis ab Ecclesia catholica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONSEIL PONTIFICAL POUR LES TEXTES LÉGISLATIFS**
 
 ***ACTUS FORMALIS DEFECTIONIS AB ECCLESIA CATHOLICA***
@@ -52,6 +48,4 @@ Ne doutant pas que votre épiscopat, conscient de la dimension salvifique de la 
 
 ------------------------------------------------------------------------
 
-*La présente communication a été approuvée par le Souverain Pontife, Benoît XVI, qui en a disposé la notification à tous les Présidents des conférences d’Evêques*. 
-
-[](#top)
+*La présente communication a été approuvée par le Souverain Pontife, Benoît XVI, qui en a disposé la notification à tous les Présidents des conférences d’Evêques*.

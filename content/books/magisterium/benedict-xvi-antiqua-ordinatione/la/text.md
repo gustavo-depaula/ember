@@ -55,9 +55,9 @@ Art. 5. § 1. Praefectus Signaturam Apostolicam moderatur, eam dirigit eiusdemqu
 § 2. Ipsius potissimum est:
 
 > 1° Collegium Iudicum constituere vel Signaturam Plenam convocare, designare Ponentem et Iudicum Sessionibus praeesse;
->
+
 > 2° Congressui praeesse et in eo decisiones ferre;
->
+
 > 3° petitas gratias concedere et decreta decisoria extra Congressum ferre.
 
 Art. 6. § 1. Secretarius, sub auctoritate Praefecti, omnia ad instructionem et expeditionem negotiorum spectantia peragenda curat.
@@ -65,15 +65,15 @@ Art. 6. § 1. Secretarius, sub auctoritate Praefecti, omnia ad instructionem et 
 § 2. Ipsius potissimum est:
 
 > 1° instantias receptas aliasque quaestiones examinandas committere;
->
+
 > 2° recursus aliasve instantias, si casus ferat, in limine reicere;
->
+
 > 3° munus Auditoris explere;
->
+
 > 4° Iudicum conventui adstare ad causam illustrandam, salvo art. 47, § 2;
->
+
 > 5° curare ut epistolae et decreta a Praefecto vel a seipso subsignanda rite redigantur;
->
+
 > 6° bona administrare.
 
 § 3. Vices Praefecti absentis vel impediti gerit, salvis casibus ipsi Praefecto reservatis.
@@ -208,13 +208,13 @@ Art. 32. Dicasterium, praeter munus, quod exercet, Supremi Tribunalis, consulit 
 Art. 33. Signatura Apostolica cognoscit:
 
 > 1º querelas nullitatis contra decisiones definitivas vel vim sententiae definitivae habentes Rotae Romanae;
->
+
 > 2° petitiones restitutionis in integrum contra decisiones Rotae Romanae;
->
+
 > 3º recursus, in causis de statu personarum, adversus denegatum a Rota Romana novum causae examen;
->
+
 > 4º exceptiones suspicionis aliasque causas contra Iudices Rotae Romanae propter acta in exercitio ipsorum muneris;
->
+
 > 5º conflictus competentiae inter tribunalia, quae non subiciuntur eidem tribunali appellationis, nisi aliud iure provisum sit.
 
 Art. 34. § 1. Signatura Apostolica cognoscit de recursibus, intra terminum peremptorium sexaginta dierum utilium interpositis, adversus actus administrativos singulares sive a Dicasteriis Curiae Romanae latos sive ab ipsis probatos, quoties contendatur num actus impugnatus legem aliquam in decernendo vel in procedendo violaverit.
@@ -226,17 +226,16 @@ Art. 34. § 1. Signatura Apostolica cognoscit de recursibus, intra terminum pere
 Art. 35. Signaturae Apostolicae quoque est rectae administrationi iustitiae invigilare, et speciatim:
 
 > 1º in ministros tribunalium, advocatos vel procuratores, si opus sit, animadvertere;
->
+
 > 2º videre de petitionibus Sedi Apostolicae porrectis ad obtinendam causae commissionem apud Rotam Romanam, dispensationem a legibus processualibus, Ecclesiis orientalibus haud exclusis, vel aliam gratiam relative ad iustitiam administrandam;
->
+
 > 3º tribunalium inferiorum competentiam prorogare;
->
+
 > 4º approbationem Tribunalis appellationis Sanctae Sedi reservatam concedere;
->
+
 > 5° promovere et approbare erectionem tribunalium interdioecesanorum;
->
+
 > 6° cognoscere de iis quae Signaturae Apostolicae per conventiones inter Sanctam Sedem et Civitates tribuuntur.  
->  
 
 **TITULUS III**
 
@@ -385,21 +384,21 @@ De recursibus adversus actus administrativos singulares
 Art. 73. § 1. Recursus referre debet:
 
 > 1° a quonam ipse proponatur;
->
+
 > 2° actum, qui impugnatur;
->
+
 > 3° quid petatur;
->
+
 > 4° quo iure innitatur;
->
+
 > 5° diem acceptae notificationis actus impugnati;
->
+
 > 6° subscriptionem partis recurrentis.
 
 § 2. Recursui adnecti debent:
 
 > 1° actus, qui impugnatur, nisi a recurrente exhiberi nequeat;
->
+
 > 2° mandatum Patrono rite collatum aut petitio, documentis suffulta, pro obtinendo gratuito patrocinio.
 
 Art. 74. § 1. Recursus exhibendus est intra terminum peremptorium sexaginta dierum utilium a die peractae actus notificationis.
@@ -411,11 +410,11 @@ Art. 75. Nullus est recursus si absolute incertum manet de quibusnam personis ve
 Art. 76. § 1. Secretarius, audito Promotore iustitiae, decreto recursum in limine reicit qui indubie atque evidenter aliquo careat praesupposito, veluti si:
 
 > 1° non agatur de re ad tribunal administrativum pertinente;
->
+
 > 2° recurrens careat legitima persona standi in iudicio;
->
+
 > 3° haud exstet lex, quae asseritur violata;
->
+
 > 4° termini ad recursum proponendum elapsi sint.
 
 § 2. De eiusmodi decreto Secretarius Promotorem iustitiae et, si casus ferat, competentem Auctoritatem certiorem facit.
@@ -435,11 +434,11 @@ Art. 78. § 1. Quovis in stadio processus, liti finem imponere potest sive perem
 Art. 79. § 1. Secretarius, suo decreto,
 
 > 1° iubet notificari competenti Dicasterio omnibusque legitime coram Dicasterio intervenientibus recursum receptum eosdemque invitat ut Patronum constituant per legitimum mandatum;
->
+
 > 2° exquirit a Dicasterio ut exemplar actus impugnati et omnia acta controversiam respicientia transmittat intra terminum triginta dierum;
->
+
 > 3° in causa constituit Promotorem iustitiae;
->
+
 > 4° mandat Cancellariae ut recurrenti aliisque de quibus in n. 1 incumbentia rite adimplenda indigitet.
 
 § 2. Congrua congruis referendo, Secretarius eodem modo procedit cum aliis interesse forte habentibus.

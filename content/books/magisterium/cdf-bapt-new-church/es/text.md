@@ -1,9 +1,5 @@
 # Decreto sobre la validez del bautismo administrado en la comunidad denominada «The New Church»
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE LA VALIDEZ DEL BAUTISMO**
@@ -15,5 +11,3 @@ Esta Congregación, después de realizar un examen diligente, ha decidido que se
 *Roma, 20 de noviembre de 1992.*
 
 **Joseph Card. Ratzinger** *Prefecto*
-
-[](#top)

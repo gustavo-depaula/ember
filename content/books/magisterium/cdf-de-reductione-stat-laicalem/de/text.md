@@ -1,13 +1,5 @@
 # Schreiben an alle Ortsordinarien und Generaloberen von Klerikerorden über die Rückversetzung in den Laienstand, 13. Januar 1971
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 KONGREGATION FÜR DIE GLAUBENSLEHRE
@@ -53,7 +45,5 @@ Indem wir dies kraft unseres Amtes mitteilen, bekunden wir nachdrücklich unsere
 **Erzbischof Paul Philippe** *Sekretär*
 
 \* *AAS* 63 (1971) 309-312; dt. *HK* 25 (1971) 195-196.
-
-*  *
 
 ------------------------------------------------------------------------

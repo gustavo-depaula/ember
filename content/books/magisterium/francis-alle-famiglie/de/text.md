@@ -2,8 +2,6 @@
 
 ***BRIEF VON PAPST FRANZISKUS AN DIE FAMILIEN***
 
-*** ***
-
 *Liebe Familien,*
 
 ich komme an eure Haustür, um über ein Ereignis mit euch zu sprechen, das bekanntlich im kommenden Oktober im Vatikan stattfinden wird. Es geht um die außerordentliche Vollversammlung der Bischofssynode, die einberufen wurde, um über das Thema „Die pastoralen Herausforderungen der Familie im Kontext der Evangelisierung“ zu diskutieren. Heute ist die Kirche nämlich aufgerufen, sich bei der Verkündigung des Evangeliums auch den neuen pastoralen Dringlichkeiten zu stellen, die die Familie betreffen.

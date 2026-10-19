@@ -1,9 +1,5 @@
 # Introduction au Compendium du Catéchisme de l’Église catholique
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INTRODUCTION DU CARD. JOSEPH RATZINGER AU COMPENDIUM DU CATÉCHISME DE L'ÉGLISE CATHOLIQUE***
 
 1. Le 11 octobre 1992, le Pape Jean-Paul II donnait aux fidèles du monde entier le *[Catéchisme de l’Église catholique](/archive/FRA0013/_INDEX.HTM)*, le présentant comme « texte de référence »[^1] pour une catéchèse renouvelée aux sources vives de la foi. Trente ans après l’ouverture du Concile Vatican II (1962-1965), était ainsi porté à son heureux terme le souhait exprimé en 1985 par l’Assemblée extraordinaire du Synode des Évêques, que soit composé un catéchisme de toute la doctrine catholique, tant pour la foi que pour la morale.
@@ -38,8 +34,6 @@ La quatrième partie, intitulée « La prière chrétienne» offre une synthèse
 *Président de la Commission spéciale*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Jean-Paul II,  Const. apost. *Fidei depositum *: 11 octobre 1992 : *La Documentation catholique* 91 (1993), p. 1.
 

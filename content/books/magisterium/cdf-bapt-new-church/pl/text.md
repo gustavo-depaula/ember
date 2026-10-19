@@ -1,9 +1,5 @@
 # Informacja na temat ważności chrztu udzielanego przez «The New Church»
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **INFORMACJA** **NA TEMAT WAŻNOŚCI CHRZTU UDZIELANEGO PRZEZ *«******THE NEW CHURCH»***
@@ -15,5 +11,3 @@ Kongregacja po dokładnym zbadaniu zagadnienia uznała, że należy odpowiedzie�
 *Roma, 20 listopada 1992.*
 
 **Joseph Kard. Ratzinger** *Prefekt*
-
-[](#top)

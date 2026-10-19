@@ -1,9 +1,5 @@
 # Circa citationes implicitas in S. Scriptura contentas - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **CIRCA CITATIONES IMPLICITAS IN S. SCRIPTURA CONTENTAS**
@@ -22,7 +18,3 @@ Praedicta Commissio respondendum censuit:
 *Die autem 13 Februarii anni 1905 Sanctissimus, referente me infrascripto Consultore ab Actis, praedictum Responsum adprobavit atque publici iuris fieri mandavit.*
 
 Fr. David Fleming, O.F.M. *Consultor ab Actis*
-
-**                                     **
-
-[](#top)

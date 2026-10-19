@@ -231,5 +231,3 @@ Chers Frères et Sœurs! «Il est fidèle, le Dieu par qui vous avez été appel
 En exprimant ces souhaits, je vous bénis de grand cœur.
 
 *Du Vatican, le 25 mars de l'Année jubilaire de la Rédemption 1984, en la sixième année de mon pontificat.*
-
-* *

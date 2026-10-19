@@ -1,10 +1,6 @@
 # Decreto de inscrição no Calendário romano dos santos São João XXIII e São João Paulo II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGREGAÇÃO PARA O CULTO DIVINO  
+CONGREGAÇÃO PARA O CULTO DIVINO  
 E A DISCIPLINA DOS SACRAMENTOS
 
 ***DECRETO***
@@ -26,5 +22,3 @@ Não obstante qualquer disposição contrária,
 **Antonio Card. Cañizares Llovera** *Prefeito*
 
 **D. Arthur Roche** *Arcebispo Secretário*
-
-[](#top)

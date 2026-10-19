@@ -55,5 +55,3 @@ Everything that I have deliberated in this Apostolic Letter given Motu Proprio m
 *Vatican, 4 June 2016*
 
 **Francis P.P.**
-
-** **

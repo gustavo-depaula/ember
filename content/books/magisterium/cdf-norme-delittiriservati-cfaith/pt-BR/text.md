@@ -1,15 +1,5 @@
 # Normas sobre os delitos reservados à Congregação para a Doutrina da Fé
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **NORMAS SOBRE OS DELITOS RESERVADOS À CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
@@ -122,8 +112,6 @@ Aquele que comete os delitos mencionados nos artigos 2-6 seja punido – mesmo a
 
 A Congregação para a Doutrina da Fé, nas causas relativas aos delitos a ela reservados, pode sanar os autos, salvaguardando o direito de defesa, se foram violadas leis meramente processuais.
 
-** **
-
 **Título II**
 
 **O processo judicial**
@@ -145,8 +133,6 @@ Em todos os Tribunais, para as causas referidas nas presentes Normas, podem dese
 2°. Notário e Chanceler, somente sacerdotes de íntegra reputação e além de qualquer suspeita;
 
 3°. Advogado e Procurador, fiéis providos de doutorado ou ao menos de mestrado em Direito Canônico, que sejam admitidos pelo Presidente do Colégio.
-
-** **
 
 **Art. 14**
 
@@ -247,8 +233,6 @@ O decreto penal torna-se definitivo:
 **Título IV**
 
 **Disposições finais**
-
-** **
 
 **Art 26**
 

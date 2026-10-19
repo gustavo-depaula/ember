@@ -1,9 +1,5 @@
 # COMMENTAIRE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***COMMENTAIRE***
@@ -45,7 +41,5 @@ En affirmant que l’administration de nourriture et d’eau est moralement obli
 Ces cas exceptionnels n’enlèvent cependant rien au critère éthique général, selon lequel l’administration d’eau et de nourriture, même par des voies artificielles, représente toujours un *moyen naturel* de conservation de la vie et non un *traitement thérapeutique*. Son emploi devra donc être considéré comme *ordinaire* et *proportionné*, même lorsque l’"état végétatif" se prolonge.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: La terminologie relative aux diverses phases et formes de « l’état végétatif » est sujette à discussion, mais cela n’a pas d’importance pour le jugement moral.

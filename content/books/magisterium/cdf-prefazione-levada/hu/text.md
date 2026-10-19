@@ -1,9 +1,5 @@
 # Előszóm, Eljárási normák a feltételezett jelenések és kinyilatkoztatások megítéléséhez - William Levada bíboros, 2011. december 14
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Hittani Kongregáció**
 
 **Eljárási normák a feltételezett jelenések és kinyilatkoztatások megítéléséhez**
@@ -30,7 +26,5 @@ A fentebbieket is szem előtt tartva a Szentatya, XVI. Benedek pápa kiemeli:
 *bíboros prefektus*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: XVI\. Benedek pápa Verbum Domini szinódus utáni apostoli buzdítása Isten Szaváról az egyház életében és küldetésében, 2010. szeptember 30-án, n. 14.: *AAS* 102 (2010) 695-696. Ehhez lásd még *A Katolikus Egyház Katekizmusának* a témára vonatkozó részeit (vö. n. 66-67.).

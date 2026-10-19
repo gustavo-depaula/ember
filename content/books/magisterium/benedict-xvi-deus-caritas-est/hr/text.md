@@ -8,8 +8,6 @@
 
 **Enciklika biskupima, prezbiterima i đakonima, posvećenim osobama i svim vjernicima laicima o kršćanskoj ljubavi**
 
-** **
-
 **SADRŽAJ**
 
 [UVOD](#UVOD)
@@ -120,8 +118,6 @@ Kako taj susret raste, jasno se otkriva da ljubav nije samo neki osjećaj. Osje�
 **DRUGI DIO**
 
 **CARITAS – LJUBAV CRKVE KAO »ZAJEDNICE LJUBAVI«**
-
-** **
 
 **Karitativno djelovanje Crkve kao očitovanje trinitarne ljubavi**
 
@@ -390,5 +386,3 @@ Dano u Rimu, pri Svetom Petru, 25. prosinca, na svetkovinu Rođenja Gospodnjega,
 \(36\) Usp. SULPICIJE SEVER,
 
 *Vita Sancti Martini*, 3, 1-3: *SCh* 133, 256-258.
-
-** **

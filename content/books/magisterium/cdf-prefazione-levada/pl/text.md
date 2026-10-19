@@ -1,9 +1,5 @@
 # Prefazione alle Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Card. William Levada, 14 dicembre 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **NORME PER PROCEDERE NEL DISCERNIMENTO DI PRESUNTE APPARIZIONI E RIVELAZIONI**
@@ -28,5 +24,3 @@ Biorąc powyższe pod uwagę, Ojciec Święty Benedykt XVI podkreśla, że:
 Prefekt
 
 Watykan, 14 grudnia 2011 r., liturgiczne wspomnienie św. Jana od Krzyża
-
-[](#top)

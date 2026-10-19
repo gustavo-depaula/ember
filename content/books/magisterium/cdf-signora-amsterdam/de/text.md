@@ -1,13 +1,5 @@
 # Notifikation über die vermeintlichen Erscheinungen und Offenbarungen der «Frau aller Völker» in Amsterdam, 25. Mai 1974
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HL. KONGREGATION FÜR DIE GLAUBENSLEHRE

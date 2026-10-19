@@ -5,8 +5,6 @@ ENCICLICA
 DEL SOMMO PONTEFICE  
 **PIO IX**
 
-** **
-
 *A tutti i Patriarchi, Primati, Arcivescovi, Vescovi ed altri Ordinari aventi grazia e comunione con la Sede Apostolica. Il Papa Pio IX. Venerabili Fratelli, salute e Apostolica Benedizione. *
 
 Considerando tutto ciò che il Governo Subalpino fa già da parecchi anni, con continue macchinazioni, per abbattere il Principato civile concesso per singolare provvidenza di Dio a questa Apostolica Sede, affinché i successori del beato Pietro avessero la piena libertà e la sicurezza necessarie nell’esercizio della loro giurisdizione spirituale, Ci è impossibile, Venerabili Fratelli, non sentirci il cuore commosso da profondo dolore per così grande cospirazione contro la Chiesa di Dio e contro questa Santa Sede, in questo luttuoso momento, nel quale lo stesso Governo, seguendo i consigli delle sette di perdizione, compì contro ogni legge, con la violenza e con le armi, quella sacrilega invasione, che già da gran tempo meditava, dell’alma Nostra città e delle altre città di cui ancora Ci rimaneva il dominio dopo la precedente usurpazione. Mentre Noi, umilmente prostrati davanti a Dio, ne veneriamo gli arcani disegni, siamo costretti a prorompere in quelle parole del profeta: “*Io sto piangendo e l’occhio mio sta spargendo lacrime, perché lungi da me andò il consolatore che ristora l’anima mia; i figli miei divennero smarriti, perché prevalse il nemico*” (Lam 1,16).

@@ -1,9 +1,5 @@
 # FATIMA ÜZENETE, Hittani Kongregáció
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Hittani Kongregáció**
 
 **FATIMA ÜZENETE**
@@ -263,5 +259,3 @@ Végezetül még szeretném idézni a titok joggal híressé vált mondását: "
 a Hittani Kongregáció prefektusa
 
 \[www.katolikus.hu\]
-
-[](#top)

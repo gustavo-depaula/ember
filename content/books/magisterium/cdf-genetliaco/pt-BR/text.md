@@ -1,9 +1,5 @@
 # Mensagem pelo aniversário do Papa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***SAUDAÇÃO DO CARDEAL JOSEPH RATZINGER POR OCASIÃO DO ANIVERSÁRIO DO SANTO PADRE***
 
 *18 de Maio de 2003*

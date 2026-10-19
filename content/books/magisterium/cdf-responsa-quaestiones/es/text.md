@@ -1,9 +1,5 @@
 # Doctrina sobre la Iglesia
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 *RESPUESTAS A ALGUNAS PREGUNTAS ACERCA DE CIERTOS ASPECTOS DE LA DOCTRINA SOBRE LA IGLESIA*
@@ -64,34 +60,32 @@ Secretario
 **NOTAS**
 
 > A\) \[In Nr. 1 (Prooemium) Schema *Decreti*: Act Syn III/II 296, 3-6\]
->
-> «Pag. 5, lin. 3 - 6: Videtur etiam Ecclesiam Catholicam inter illas Communiones comprehendi, quod falsum esset.
->
-> *R(espondetur): Hic tantum factum, prout ab omnibus conspicitur, describendum est. Postea clare affirmatur solam Ecclesiam catholicam esse veram Ecclesiam Christi»* (Act. Syn. III/VII 12).
->
-> B\) \[In Caput I in genere: Act. Syn. III/II 297-301\]
->
-> «4 - Expressius dicatur unam solam esse veram Ecclesiam Christi; hanc esse Catholicam Apostolicam Romanam; omnes debere inquirere, ut eam cognoscant et ingrediantur ad salutem obtinendam...
->
-> *R(espondetur): In toto textu sufficienter effertur, quod postulatur. Ex altera parte non est tacendum etiam in alliis communitatibus christianis inveniri veritates revelatas et elementa ecclesialia»* (Act. Syn. III/VII 15). Cf. también *ibidem* punto 5.
->
-> C\) \[In Caput I in genere: Act. Syn. III/II 296s\]
->
-> «5 - Clarius dicendum esset veram Ecclesiam esse solam Ecclesiam catholicam romanam...
->
-> *R(espondetur): Textus supponit doctrinam in constitutione ‘De Ecclesia’ expositam, ut pag. 5, lin, 24 - 25 affirmatur" *(Act. Syn. III/VII 15). Por lo tanto, la comisión que debía evaluar las enmiendas al Decreto *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)* expresa con claridad la identidad entre la Iglesia de Cristo y la Iglesia católica, y su unicidad, y fundada esta doctrina en la Constitución dogmática *Lumen gentium*.
->
-> D\) \[In Nr. 2 Schema *Decreti*: Act. Syn. III/II 297s\]
->
-> *«Pag. 6, lin, 1 – 24 Clarius exprimatur unicitas Ecclesiæ. Non sufficit inculcare, ut in textu fit, unitatem Ecclesiæ.*
->
-> R(espondetur): a) Ex toto textu clare apparet identificatio Ecclesiæ Christi cum Ecclesia catholica, quamvis, ut oportet, efferantur elementa ecclesialia aliarum communitatum».
->
-> *«Pag. 7, lin.5 Ecclesia a successoribus Apostolorum cum Petri successore capite gubernata (cf. novum textum ad pag. 6. lin.33-34) explicite dicitur ‘unicus Dei grex’ et lin. 13 ‘una et unica Dei Ecclesia’»* (Act. Syn. III/VII).
->
-> Las dos expresiones citadas son las de *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)* 2.5 e 3.1.
 
-[](#top)
+> «Pag. 5, lin. 3 - 6: Videtur etiam Ecclesiam Catholicam inter illas Communiones comprehendi, quod falsum esset.
+
+> *R(espondetur): Hic tantum factum, prout ab omnibus conspicitur, describendum est. Postea clare affirmatur solam Ecclesiam catholicam esse veram Ecclesiam Christi»* (Act. Syn. III/VII 12).
+
+> B\) \[In Caput I in genere: Act. Syn. III/II 297-301\]
+
+> «4 - Expressius dicatur unam solam esse veram Ecclesiam Christi; hanc esse Catholicam Apostolicam Romanam; omnes debere inquirere, ut eam cognoscant et ingrediantur ad salutem obtinendam...
+
+> *R(espondetur): In toto textu sufficienter effertur, quod postulatur. Ex altera parte non est tacendum etiam in alliis communitatibus christianis inveniri veritates revelatas et elementa ecclesialia»* (Act. Syn. III/VII 15). Cf. también *ibidem* punto 5.
+
+> C\) \[In Caput I in genere: Act. Syn. III/II 296s\]
+
+> «5 - Clarius dicendum esset veram Ecclesiam esse solam Ecclesiam catholicam romanam...
+
+> *R(espondetur): Textus supponit doctrinam in constitutione ‘De Ecclesia’ expositam, ut pag. 5, lin, 24 - 25 affirmatur" *(Act. Syn. III/VII 15). Por lo tanto, la comisión que debía evaluar las enmiendas al Decreto *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)* expresa con claridad la identidad entre la Iglesia de Cristo y la Iglesia católica, y su unicidad, y fundada esta doctrina en la Constitución dogmática *Lumen gentium*.
+
+> D\) \[In Nr. 2 Schema *Decreti*: Act. Syn. III/II 297s\]
+
+> *«Pag. 6, lin, 1 – 24 Clarius exprimatur unicitas Ecclesiæ. Non sufficit inculcare, ut in textu fit, unitatem Ecclesiæ.*
+
+> R(espondetur): a) Ex toto textu clare apparet identificatio Ecclesiæ Christi cum Ecclesia catholica, quamvis, ut oportet, efferantur elementa ecclesialia aliarum communitatum».
+
+> *«Pag. 7, lin.5 Ecclesia a successoribus Apostolorum cum Petri successore capite gubernata (cf. novum textum ad pag. 6. lin.33-34) explicite dicitur ‘unicus Dei grex’ et lin. 13 ‘una et unica Dei Ecclesia’»* (Act. Syn. III/VII).
+
+> Las dos expresiones citadas son las de *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)* 2.5 e 3.1.
 
 [^1]: Juan XXIII, *Discurso* del 11 de octubre de 1962: «… el Concilio… quiere transmitir pura e íntegra la doctrina católica, sin atenuaciones o alteraciones… Sin embargo, en las circunstancias actuales, es nuestro deber que la doctrina cristiana sea por todos acogida en su totalidad, con renovada, serena y tranquila adhesión…; es necesario que el espíritu cristiano, católico y apostólico del mundo entero dé un paso adelante, que la misma doctrina sea conocida de modo más amplio y profundo…; esta doctrina cierta e inmutable, a la cual se le debe un fiel obsequio, tiene que ser explorada y expuesta en el modo que lo exige nuestra época. Una cosa es la sustancia del "*depositum fìdei*", es decir, de las verdades que contiene nuestra venerada doctrina, y otra la manera como se expresa, siempre, sin embargo, con el mismo sentido y significado»: AAS 54 \[1962\] 791; 792.
 

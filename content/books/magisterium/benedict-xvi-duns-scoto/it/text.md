@@ -1,7 +1,7 @@
 # Lettera Apostolica al Card. Joachim Meisner in occasione del VII Centenario della morte del beato Giovanni Duns Scoto
 
 **BENEDETTO XVI** SOMMO PONTEFICE  
-** **  
+
 **LETTERA APOSTOLICA** AL NOSTRO VENERATO FRATELLO  
 JOACHIM MEISNER, CARDINALE DI S.R.C.,  
 ARCIVESCOVO DI COLONIA,  

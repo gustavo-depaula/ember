@@ -1,9 +1,5 @@
 # Notification sur le livre «Pleidooi voor mensen in de Kerk» du prof. Edward Schillebeeckx, O.P., 15 septembre 1986
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI  
 
  ***NOTIFICATIO ******[\*](#_ftn*)***
@@ -35,5 +31,3 @@ CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 \+ A. Bovone,* a Secretis*
 
 [\*](#_ftnref*) *AAS *79 (1987), 221-223.
-
-[](#top)

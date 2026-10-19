@@ -1,9 +1,5 @@
 # Sacerdotium ministeriale - Lettre à tous les évêques de l'Église catholique sur quelques questions concernant le ministre de l'Eucharistie
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **S. CONGREGATION POUR LA DOCTRINE DE LA FOI**
 
 ***LETTRE A TOUS LES ÉVÊQUES DE L'ÉGLISE CATHOLIQUE SUR QUELQUES QUESTIONS CONCERNANT LE MINISTRE DE L'EUCHARISTIE***
@@ -79,8 +75,6 @@ Ioseph Card. Ratzinger
 *Archevêque tit. de Lorium Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: \[\] Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, nn. 10](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#10.), [17](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#17.), [26](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#26.), [28](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#28.); const. [*Sacrosanctum Concilium*, n. 7](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_fr.html#7.); décr. [*Christus Dominus*, n. 15](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_fr.html#15.); décr. [*Presbyterorum Ordinis*, nn. 2](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html#2.) et [3](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html#3.); cf. encore Paul VI, encycl. *[Mysterium fidei](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_03091965_mysterium_fr.html)*, du 3 septembre 1965: *AAS* 51 (1965) 761.
 

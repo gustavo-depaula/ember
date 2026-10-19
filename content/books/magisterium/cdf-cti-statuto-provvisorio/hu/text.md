@@ -1,9 +1,5 @@
 # Ideiglenes statútum - Nemzetközi Teológiai Bizottság
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 Nemzetközi Teológiai Bizottság
 
 Ideiglenes statútum
@@ -35,5 +31,3 @@ VI\. Pál pápa a Hittani Kongregáció alulírott prefektusának az 1969. ápri
 *Róma, 1969. július 12.*
 
 *Franjo Card. Šeper* a Hittani Kongregáció prefektusa
-
-[](#top)

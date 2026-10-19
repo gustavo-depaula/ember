@@ -1,13 +1,5 @@
 # Lettera a S.E. Mons. John R. Quinn, Presidente della Conferenza Episcopale Americana, contenente Osservazioni sul libro «ÂÂÂ“La Sessualità umanaÂÂÂ”. Studio commissionato dalla ÂÂÂ“Catholic Theological Society of AmericaÂÂÂ” a cura del Rev. Antony Kosnik»
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE 

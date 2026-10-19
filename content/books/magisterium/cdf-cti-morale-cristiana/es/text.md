@@ -1,13 +1,5 @@
 # La moral cristiana y sus normas, 1974
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL
@@ -87,11 +79,11 @@ Así, toda ética cristiana es cruciforme: vertical y horizontal. Esta «forma»
 5\. **La Promesa (Abrahán)**
 
 > *El sujeto moral (Abrahán) está constituido por la llamada de Dios y por la obediencia a esta llamada (*Heb *11, 8).*
->
+
 > *1. Después de este acto de obediencia, el sentido de la llamada se revela como una promesa ilimitada y universal («todos los pueblos»), pero recapitulada en singular semini tuo (*Gál *3, 16). El nombre dado al que obedeció, es el nombre de su misión (*Gén *17, 1-8). Puesto que la promesa y su cumplimiento proceden de Dios, Abrahán se ve dotado de una fecundidad sobrenatural.*
->
+
 > *2. La obediencia es fe en Dios y por eso es una respuesta valedera (*Gén *15, 6), que no solamente alcanza al espíritu, sino también a la carne (*Gén *17, 13). Abrahán debe, pues, llegar hasta la restitución del fruto que le fue acordado por gracia (*Gén *22).*
->
+
 > *3. Abrahán se sitúa dentro de una obediencia que, volviendo su mirada hacia las estrellas inaccesibles, está en espera de una promesa.*
 
 *Ad 1*. Toda la ética bíblica se funda sobre la llamada del Dios personal y sobre la respuesta de fe que el hombre le da. Dios se hace conocer en su llamada como el fiel, el verídico, el justo, el misericordioso (y bajo otras descripciones de su nombre). Es a partir de este nombre como se establece el nombre del hombre que responde, es decir, lo que fija, de una vez por todas, su personalidad. La vocación aísla al sujeto con miras al encuentro. Abrahán debe abandonar su tribu, su país. Debe ponerse a disposición de la llamada («Heme aquí»: *Gén* 22, 1); recibe su misión, la que llega a ser para él norma imperativa. En la situación que lo pone solo en diálogo con Dios, Abrahán se convierte, a causa de su misión, en fundador de una comunidad.
@@ -125,11 +117,11 @@ La falla abierta así, que hubiera debido ser sencillamente aceptada en la pacie
 7\. **La Conciencia**
 
 > *1. El hombre, considerado fuera del espacio bíblico, despierta a la conciencia teórico-práctica de sí gracias a una llamada libre y amante de su prójimo. Respondiendo a ella, reúne en el* cogito-sum *dos hechos inseparables. El Ser simplemente, bajo su aspecto de verdad y de bondad, se le revela y le permite un libre acceso hacia sus profundidades. Percibe también el carácter de comunión interhumana, de la cual su libertad lleva el sello*[^2].
->
+
 > *2. El hombre está marcado por una orientación (*synderesis*, conciencia primordial) incondicionada (*necessitate naturalis inclinationis [^3]) *hacia el bien transcendental. Aun en las partes sensibles de su ser, todas ellas dominadas y penetradas por el espíritu, existen inclinaciones hacia este bien.*
->
+
 > *Ni el hecho de que la iluminación primordial se nuble, ni el atractivo de los bienes que solicitan inmediatamente al hombre, ni, en fin, el oscurecimiento por el pecado de la gratuidad del Bien, pueden poner trabas a la orientación del hombre hacia su luz. Así puede decir San Pablo: los paganos mismos son juzgados «por Jesucristo según mi evangelio» (*Rom *2, 16).*
->
+
 > *Las formulaciones abstractas en términos de «ley natural» orientan la hombre hacia el bien —por ejemplo, la fórmula de la comunión interhumana como «imperativo categórico»—, pero son de un orden derivado y llevan el carácter de simple recuerdo.*
 
 *Ad 1*. Interpelado por otro, el hombre despierta al *cogito-sum* como la identidad entre el hecho de aparecerse a sí mismo, por una parte, y, por otra, la realidad total. Sin embargo, esta identidad, en cuanto despertada, es experimentada como no absoluta, porque es recibida. En la apertura transcendental se descubren tres cosas:

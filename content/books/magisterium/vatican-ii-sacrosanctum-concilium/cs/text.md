@@ -1,15 +1,5 @@
 # Sacrosanctum Concilium
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Konstituce  
@@ -42,8 +32,6 @@ Některé z těchto zásad a směrnic se mohou a mají uplatnit jak v římském
  **KAPITOLA 1 **
 
 **VŠEOBECNÉ ZÁSADY PRO OBNOVU A ROZVOJ POSVÁTNÉ LITURGIE**
-
-** **
 
 ***I. Povaha posvátné liturgie a její význam v životě církve***
 
@@ -632,8 +620,6 @@ Mimoto je lepší, když se oficium v chóru nebo společně podle možnosti zp�
 **KAPITOLA 5**
 
 **LITURGICKÝ ROK**
-
-**  **
 
 **SMYSL LITURGICKÉHO ROKU**
 

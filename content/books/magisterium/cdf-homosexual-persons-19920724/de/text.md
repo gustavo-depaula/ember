@@ -1,9 +1,5 @@
 # Einige Anmerkungen bezüglich der Gesetzesvorschläge zur Nicht-Diskriminierung homosexueller Personen
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Einige Anmerkungen bezüglich der Gesetzesvorschläge zur Nicht-Diskriminierung homosexueller Personen** 
@@ -61,5 +57,3 @@ Ferner besteht die Gefahr, daß eine Gesetzgebung, die aus der Homosexualität e
 Schlussbemerkung
 
 16\. Schließlich ist es da, wo das Allgemeinwohl auf dem Spiel steht, nicht angebracht, daß die kirchlichen Autoritäten eine negative Gesetzgebung unterstützen oder ihr neutral gegenüberstehen, auch wenn sie kirchlichen Organisationen und Einrichtungen Ausnahmen zugesteht. Die Kirche hat die Verantwortung, das Familienleben und die öffentliche Moral der gesamten Zivilgesellschaft auf der Grundlage fundamentaler moralischer Werte zu fördern, und nicht nur, sich selbst vor den Folgen verderblicher Gesetze zu schützen.
-
-[](#top)

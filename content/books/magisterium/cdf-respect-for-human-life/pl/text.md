@@ -1,9 +1,5 @@
 # INSTRUKCJA O SZACUNKU DLA RODZĄCEGO SIĘ ŻYCIA LUDZKIEGO I O GODNOŚCI JEGO PRZEKAZYWANIA.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 KONGREGACJA NAUKI WIARY
 
 **INSTRUKCJA O SZACUNKU DLA RODZĄCEGO SIĘ ŻYCIA LUDZKIEGO I O GODNOŚCI JEGO PRZEKAZYWANIA.**
@@ -449,5 +445,3 @@ b\) kobietę, która nosi w ciąży embrion, dla zrodzenia którego ofiarowała 
 59\. Por. JAN PAWEŁ II, Adhort. Apost. Familiaris consortio, 14: AAS 74 (1982) 97.
 
 60\. Por. SOB. WAT. II, Dekl. Dignitatis humanae, 7.
-
-[](#top)

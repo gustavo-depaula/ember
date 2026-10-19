@@ -1,9 +1,5 @@
 # La questione sinottica e le sue mutue relazioni tra i primi tre Vangeli - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **LA QUESTIONE SINOTTICA E LE SUE MUTUE RELAZIONI TRA I PRIMI TRE VANGELI**
@@ -25,5 +21,3 @@ Risposta: No per entrambe le parti.
 Fulcrano VIGOUROUX, P.S.S.  
 Lorenzo JANSSENS, O.S.B.  
 *Segretari consultori*
-
-[](#top)

@@ -98,13 +98,13 @@ Voi avete più di una volta ricordato ai vostri fedeli che la Chiesa è fautrice
 Se la soluzione pratica dipende dalle circostanze concrete, dobbiamo tuttavia da parte Nostra ricordarvi alcuni princìpi generali, da tener sempre presenti, e cioè:
 
 > 1\) che queste rivendicazioni hanno ragione di mezzo, o di fine relativo, non di fine ultimo ed assoluto;
->
+
 > 2\) che, in ragione di mezzo, devono essere azioni lecite e non intrinsecamente cattive;
->
+
 > 3\) che, se vogliono essere mezzi proporzionati al fine, devono usarsi solo nella misura in cui servono ad ottenere o rendere possibile, in tutto o in parte, il fine, ed in modo da non recare alla comunità danni maggiori di quelli che si vorrebbero riparare;
->
+
 > 4\) che l’uso di tali mezzi e l’esercizio dei diritti civici e politici nella loro pienezza, abbracciando anche problemi di ordine puramente materiale e tecnico, o di difesa violenta, non entrano in alcun modo nei compiti del clero e dell’Azione Cattolica come tali, benché ad essi appartenga preparare i cattolici a far retto uso dei loro diritti ed a propugnarli per tutte le vie legittime, secondo l’esigenza del bene comune;
->
+
 > 5\) Il clero e l’Azione Cattolica — essendo per la loro missione di pace e di amore consacrati ad unire tutti gli uomini « nel vincolo della pace »\[[^7]\] — devono contribuire alla prosperità della Nazione, specialmente fomentando l’unione dei cittadini e delle classi e collaborando a tutte le iniziative sociali, che non siano in contrasto con il dogma o la legge morale cristiana.
 
 Del resto, questa stessa attività civile dei cattolici messicani, svolta con uno spirito così nobile ed elevato, otterrà risultati tanto più efficaci quanto più i cattolici stessi avranno quella visione soprannaturale della vita, quella educazione religiosa e morale e quello zelo ardente per la dilatazione del Regno di Cristo che l’Azione Cattolica si propone di dare.

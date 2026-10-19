@@ -1,14 +1,8 @@
 # Vorwort zu den Normen für das Verfahren zur Beurteilung mutmasslicher Erscheinungen und Offenbarungen - Kard. William Levada, 14. Dezember 2011
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Normen für das Verfahren zur Beurteilung mutmaßlicher Erscheinungen und Offenbarungen**
-
-** **
 
 **Vorwort**
 
@@ -31,7 +25,5 @@ Im Licht des oben Gesagten hebt [Papst Benedikt XVI](/holy_father/benedict_xvi/i
 **William Kardinal Levada** *Präfekt*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Nachsynodales Apostolisches Schreiben *[Verbum Domini](/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini_ge.html)* über das Wort Gottes im Leben und in der Sendung der Kirche, 30. September 2010, Nr. 14: *AAS* 102 (2010) 695-996. Vgl. hierzu auch die Abschnitte im *Katechismus der Katholischen Kirche*, die dieser Thematik gewidmet sind (Nr. 66-67).

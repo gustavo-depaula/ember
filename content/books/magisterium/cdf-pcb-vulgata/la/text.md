@@ -1,9 +1,5 @@
 # De additione variarum lectionum in editionibus versionis Vulgatae Novi et Veteris Testamenti - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE ADDITIONE VARIARUM LECTIONUM IN EDITIONIBUS VERSIONIS VULGATAE NOVI ET VETERIS TESTAMENTI**
@@ -22,7 +18,3 @@ Affirmative.
 
 \+ Henricus Laurentius Janssens, O.S.B.,  
 Ep. Bethsaiden. *Consultor ab Actis.*
-
-* *
-
-[](#top)

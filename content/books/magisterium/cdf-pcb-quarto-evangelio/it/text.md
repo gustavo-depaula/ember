@@ -1,9 +1,5 @@
 # Autore e verità storica del quarto Vangelo - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **AUTORE E VERITÀ STORICA DEL QUARTO VANGELO**
@@ -26,5 +22,3 @@ Ai seguenti dubbi presentati, la Pontificia Commissione Biblica ha risposto nel 
 
 Fulcrano Vigouroux, P.S.S.  
 Lorenzo Janssens, O.S.B. *Segretari consultori*
-
-[](#top)

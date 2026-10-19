@@ -1681,8 +1681,6 @@ During the vacancy of the Apostolic See, it is the right and duty of the Cardina
 
 3\. to request, to the extent necessary, from the Secretariat for the Economy any information on the financial status of the Holy See.
 
-** **
-
 **IX.**
 
 **ADVOCATES**

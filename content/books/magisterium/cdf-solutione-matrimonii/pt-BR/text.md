@@ -1,13 +1,5 @@
 # Instrução sobre a dissolução do matrimônio em favor da fé, 6 de dezembro de 1973
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
@@ -21,27 +13,27 @@ Ultimamente, depois de investigar diligentemente tal assunto, o Santo Padre Paul
 I. Para ser concedida a dissolução válida juridicamente, requerem-se três condições *sine quibus non* (sem as quais não sem concede o provimento requerido):
 
 > a\) ausência do batismo por parte de um dos cônjuges ao longo da vida conjugal;
->
+
 > b\) Falta da convivência conjugal própria do exercício do matrimônio após o batismo; porventura motivada pelo cônjuge não batizado;
->
+
 > c\) que a pessoa não batizada ou batizada fora da Igreja católica, deixe à parte católica a liberdade e a faculdade de professar a própria religião e de batizar e educar os filhos nos padrões do catolicismo; esta condição, por cautela, deve constar com toda a segurança.
 
 II\. Demanda-se além disso:
 
 > §.1. Que não haja nenhuma possibilidade de restabelecer a vida conjugal, em virtude de oposição radical e irremediável.
->
+
 > §.2. Que não haja perigo de escândalo público ou de profundo espanto em virtude de a concessão da graça.
->
+
 > §.3. Que o requerente não tenha causado, por sua culpa, o fracasso do próprio legítimo matrimônio e que o católico (a), com quem vai contrair ou convalidar novas núpcias, não tenha provocado culposamente a separação dos legítimos cônjuges.
->
+
 > §.4. Que a outra parte do primeiro matrimônio seja interpelada sobre tal pretensão e que não venha razoavelmente a opor-se;
->
+
 > §.5. Que a parte que postula a dissolução procure educar religiosamente a prole possivelmente nascida do primeiro matrimônio;
->
+
 > §.6. Que igualmente, segundo as leis da justiça, cuide do cônjuge abandonado e da prole que quiçá existente.
->
+
 > §.7. Que a parte católica com a qual vai contrair novo matrimônio viva segundo as promessas do batismo e cuide da nova família.
->
+
 > §.8. Que quando se tratar de um catecúmeno, com o qual vai casar-se, haja a certeza moral de que este receberá o batismo em pouco tempo, caso não possa aguardar (o que é aconselhável) até ser batizado.
 
 III\. A dissolução é mais facilmente concedida quando, por outro motivo, a validade do casamento gerar sérias dúvidas.

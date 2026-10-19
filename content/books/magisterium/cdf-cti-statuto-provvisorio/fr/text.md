@@ -1,9 +1,5 @@
 # Statuts provisoires de la Commission Théologique Internationale, 12 juillet 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **COMMISSION THÉOLOGIQUE INTERNATIONALE**
 
 ***Statuts provisoires***\*
@@ -39,5 +35,3 @@ Franjo Šeper
 *Cardinal-Préfet*
 
 \* cf. *AAS* 61 (1969) 540-541.
-
-[](#top)

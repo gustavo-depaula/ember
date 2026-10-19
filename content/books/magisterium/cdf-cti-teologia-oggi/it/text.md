@@ -1,9 +1,5 @@
 # La Teologia oggi: Prospettive, principi e criteri
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSIONE TEOLOGICA INTERNAZIONALE
 
 ***LA TEOLOGIA OGGI:***
@@ -253,8 +249,6 @@ COMMISSIONE TEOLOGICA INTERNAZIONALE
 Dal momento tuttavia che tale Sottocommissione non ebbe modo di portare a termine il suo lavoro con la pubblicazione di un documento, lo studio fu ripreso nell’ambito della Commissione del quinquennio successivo, sulla base anche del lavoro svolto in precedenza. A questo scopo fu formata una nuova Sottocommissione, presieduta da mons. Paul McPartlan e comprendente i seguenti Membri: s.e. mons. Jan Liesen, rev.di p. Serge Thomas Bonino, O.P., Antonio Castellano, S.D.B., Adelbert Denaux, Tomislav Ivanĉić, Leonard Santedi Kinkupu, Jerzy Szymik, rev.da suor Sara Butler, M.S.B.T., prof. dr. Thomas Söding.
 
 Le discussioni generali su questo tema si sono svolte in numerosi incontri delle Sottocommissioni e durante le Sessioni Plenarie della stessa Commissione Teologica Internazionale, tenutesi a Roma dal 2004 al 2011. Il presente testo è stato approvato dalla Commissione «in forma specifica» il 29 novembre 2011, ed è stato poi sottoposto al suo Presidente, il Card. William Levada, Prefetto della Congregazione per la Dottrina della Fede, il quale ne ha autorizzato la pubblicazione.
-
-[](#top)
 
 [^1]: NOTA PRELIMINARE. Lo studio del tema dello statuto della teologia era stato affrontato dalla Commissione Teologica Internazionale già nel quinquennio 2004-2008. Il lavoro si era svolto all’interno di una Sottocommissione, presieduta dal rev.do Santiago del Cura Elena e composta dai seguenti Membri: S .E. Mons. Bruno Forte, S. E. Mons. Savio Hon Tai-Fai, S.D.B., rev.di Antonio Castellano, S.D.B., Tomislav Ivanĉić, Thomas Norris, Paul Rouhana, Leonard Santedi Kinkupu, Jerzy Szymik e prof. dr. Thomas Söding.
 

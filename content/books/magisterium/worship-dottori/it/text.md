@@ -1,15 +1,5 @@
 # DECRETO sull’iscrizione delle celebrazioni di san Gregorio di Narek, abate e dottore della Chiesa, san Giovanni De Avila, presbitero e dottore della Chiesa e santa Ildegarda di Bingen, vergine e dottore della Chiesa, nel Calendario Romano Generale
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

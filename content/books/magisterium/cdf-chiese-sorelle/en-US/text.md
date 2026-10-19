@@ -1,9 +1,5 @@
 # Note on the expression «Sister Churches», June 30, 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 NOTE  
@@ -73,13 +69,9 @@ Consequently, one should avoid, as a source of misunderstanding and theological 
 
 \+ **Tarcisio Bertone, S.D.B.** *Archbishop Emeritus of Vercelli Secretary*
 
-* *
-
 ------------------------------------------------------------------------
 
 **Notes**
-
-[](#top)
 
 [^1]: Paul VI and Athenagoras I, Joint Declaration *Pénétrés de reconnaissance* (7-12-65), 3: *AAS* 58 (1966), 20. The excommunications were mutually lifted in 1965: «Pope Paul VI and Patriarch Athenagoras I in his Synod...declare by mutual agreement...to regret and to remove from memory and from the midst of the Church the sentences of excommunication» (*ibid.,*4); cf. also Paul VI, Apostolic Letter *Ambulate in dilectione* (7-12-65): *AAS* 58 (1966), 40-41; Athenagoras I, Patriarchal Τόμoς (7-12-65): *ΤΟΜΟΣ ΑΓΑΠΗΣVatican-Phanar (1958-1970),* 129 (Vatican Polyglot Press: Rome-Istanbul, 1971), 290-294.
 

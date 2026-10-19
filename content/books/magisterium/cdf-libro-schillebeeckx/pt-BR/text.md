@@ -1,9 +1,5 @@
 # Notificação sobre o livro «Pleidooi voor mensen in de Kerk» (Nelissen, Baarn 1985) do prof. Edward Schillebeeckx, O.P.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **NOTIFICAÇÃO SOBRE O LIVRO «PLEIDOOI VOOR MENSEN IN DE KERK» (NELISSEN, BAARN 1985) DO PROF. EDWARD SCHILLEBEECKX, O.P.** \*
@@ -35,5 +31,3 @@ CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 **Alberto Bovone** * Arcebispo Tit. de Cesaréia de Numídia Secretário*
 
 \* *L’Osservatore Romano*, Edição semanal, 5 de Outubro de 1986, Pág. 2 (464) = *AAS* 79 (1987), 221-223.
-
-[](#top)

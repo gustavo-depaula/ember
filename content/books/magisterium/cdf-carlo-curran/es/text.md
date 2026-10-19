@@ -1,9 +1,5 @@
 # Carta al Reverendo Profesor Charles Curran, 25 julio 1986
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **CARTA  AL R. D. CHARLES CURRAN**
@@ -37,5 +33,3 @@ Quisiera, finalmente, expresarle la sincera esperanza de que esta desagradable p
 Devotísimo en Cristo.
 
 **JOSEPH Card. RATZINGER** *Prefecto*
-
-[](#top)

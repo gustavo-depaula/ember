@@ -1,9 +1,5 @@
 # È così nell’uomo perché è così in Dio di Javier María Prades López
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Nel documento della Commissione teologica internazionale su monoteismo e violenza
 
 **È così nell’uomo perché è così in Dio\***
@@ -33,5 +29,3 @@ La fede in Dio Trino mostra così la sua massima convenienza per “la prassi”
 ------------------------------------------------------------------------
 
 *\*L'Osservatore Romano*, ed. quotidiana, Anno CLIV, n.024, Ven. 31/01/2014
-
-[](#top)

@@ -1,9 +1,5 @@
 # Nota con indicaciones pastorales para el Año de la fe, 6 enero 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***Nota con indicaciones pastorales para el Año de la fe***
@@ -135,8 +131,6 @@ La fe «es compañera de vida que nos permite distinguir con ojos siempre nuevos
 **X** **Luis Ladaria F., S.I.** *Arzobispo titular de Thibica Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benedicto XVI, Carta Encíclica, *[Deus caritas est](/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_sp.html)*, 25 de diciembre de 2005, n. 1.
 

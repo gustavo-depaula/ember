@@ -1,9 +1,5 @@
 # Message of the International Theological Commission on the occasion of the Year of Faith, 16 October 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Message of the International Theological Commission on the Occasion of the Year of Faith***
 
 **국제신학위원회**
@@ -27,5 +23,3 @@
 마찬가지로, 신학자들은 “진리에 대한 기쁨”(gaudium de veritate: 아우구스티노, 「고백록」\[Confessiones\], X, 23,33)인 그리스도인의 기쁨에 봉사합니다. 토마스 아퀴나스 성인은 믿음의 행위를 세 가지 차원으로 구분하였습니다. “‘저는 하느님의 존재를 믿습니다.’(credo Deum)는 믿음의 대상을 가리킵니다. ‘저는 하느님을 신뢰합니다.’(credo Deo)는 증언하는 분을 가리킵니다. ‘저는 하느님을 믿습니다.’(credo in Deum)는 믿음의 목적이나 목표를 가리킵니다. 그러므로 하느님께서는 믿음의 대상이시고, 증언하는 분이시며, 신앙의 목적이시라고 할 수 있습니다. 그런데 믿음의 대상이나 믿음을 증언하는 이는 피조물도 될 수 있지만, 믿음의 목적은 오직 하느님만이 될 수 있으십니다. 우리의 마음이 하느님만을 그 목표로 지향하기 때문입니다.”(토마스 아퀴나스, 「요한 복음 강해」\[In Ioannem\], c.6, lectio 3). 하느님을 믿는 것(credere in Deum)은 신앙의 역동성에 본질적인 것입니다. 신앙인은 자신의 신앙을 하느님 말씀에 단단히 묶고, 지극히 복되신 삼위 하느님의 이끄심, 곧 충만하고 절대적인 선의 지고한 이끄심에 동의합니다. 모든 인간의 마음 안에 깊이 자리한 행복에 대한 갈망이 영혼을 재촉하여, 인간 존재가 우리 주 예수 그리스도의 아버지이신 하느님을 믿고 따르도록 이끕니다. 이러한 의미에서 신앙은, 그리고 신앙과 지혜의 학문인 신학은 “영적 아름다움을 사랑하는”(아우구스티노, 「하느님의 종들을 위한 규정」\[Regula ad Servis Dei\], 8,1) 모든 이가 영원한 기쁨을 미리 맛볼 수 있게 해 줍니다.
 
 \<원문　Message of the International Theological Commission on the Occasion of the Year of Faith, 2012.10.16., 이탈리아어, 프랑스어 판도 참조.\>
-
-[](#top)

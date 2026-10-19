@@ -61,7 +61,3 @@ Während sich auf euch, verehrte Brüder, und auf das ganze christliche Volk den
 \[11\] JOHANNES PAUL II., Apostolisches Schreiben *Mulieris dignitatem*, Nr. 27: *AAS* 80 (1988), 1719.
 
 \[12\] KONGREGATION FÜR DIE GLAUBENSLEHRE, Erklärung *Inter Insigniores*, VI: *AAS* 69 (1977), 115. aus: Verlautbarungen des Apostolischen Stuhls Nr. 117: Apostolisches Schreiben von Papst Johannes Paul II. über die nur Männern vorbehaltene Priesterweihe (1994); Erklärung der Kongregation für die Glaubenslehre zur Frage der Zulassung der Frauen zum Priesteramt (1976), hg. vom Sekretariat der Deutschen Bischofskonferenz, S. 4-7.
-
-*  *
-
-* *

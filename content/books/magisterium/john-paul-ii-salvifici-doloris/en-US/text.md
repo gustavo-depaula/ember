@@ -534,5 +534,3 @@ To all of you, dearest brothers and sisters, I send my Apostolic Blessing.
 \(102\) Cfr. *Io*. 17, 11. 21-22.
 
 \(103\) Cfr. *ibid*. 19, 25.
-
-*  *

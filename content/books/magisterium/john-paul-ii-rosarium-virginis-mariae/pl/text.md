@@ -123,13 +123,9 @@ Różaniec jest równocześnie medytacją i prośbą. Wytrwałe błaganie zanosz
 
 17\. Różaniec jest także *drogą głoszenia i zgłębiania* misterium Chrystusa, na której ono wciąż na nowo przedstawia się na różnych płaszczyznach doświadczenia chrześcijańskiego. Wzorcem jest modlitewna i kontemplacyjna prezentacja, której celem jest ukształtowanie ucznia według Serca Chrystusa. Kiedy bowiem w modlitwie różańcowej uwzględni się odpowiednio wszystkie elementy, aby medytacja była skuteczna, zwłaszcza przy odmawianiu wspólnotowym w parafiach i sanktuariach, powstaje *szczególna sposobność katechezy,* którą duszpasterze winni umieć wykorzystać. Matka Boża Różańcowa również w ten sposób prowadzi dalej swe dzieło głoszenia Chrystusa. Historia różańca pokazuje, jak tej modlitwy używali zwłaszcza dominikanie, gdy Kościół przeżywał trudne chwile z powodu szerzenia się herezji. Dziś stoimy wobec nowych wyzwań. Czemuż nie wziąć znowu do ręki koronki z wiarą tych, którzy byli przed nami? Różaniec zachowuje całą swą moc i pozostaje narzędziem nie do pominięcia pośród środków duszpasterskich każdego dobrego głosiciela Ewangelii.
 
-** **
-
 **ROZDZIAŁ II**
 
 **TAJEMNICE CHRYSTUSA TAJEMNICE MATKI**
-
-*** ***
 
 ***Różaniec « streszczeniem Ewangelii »***
 
@@ -285,8 +281,6 @@ Według obecnej praktyki poniedziałek i czwartek poświęca się « tajemnicom 
 
 To wskazanie nie ma jednak ograniczać słusznej wolności medytacji osobistej i wspólnotowej, z uwzględnieniem potrzeb duchowych i duszpasterskich, a przede wszystkim dat liturgicznych, które mogą sugerować bardziej odpowiednie dostosowania. Sprawą naprawdę wielkiej wagi jest to, by różaniec był coraz bardziej pojmowany i przeżywany jako droga kontemplacji. Dzięki niej, jako uzupełnienie tego, co dokonuje się w liturgii, tydzień chrześcijanina, skoncentrowany na niedzieli, dniu zmartwychwstania, staje się drogą przez tajemnice życia Chrystusa, a On objawia się w życiu swych uczniów jako Pan czasu i historii. 
 
-** **
-
 **ZAKOŃCZENIE**
 
 ***« O, błogosławiony różańcu Maryi, słodki łańcuchu, który łączysz nas z Bogiem! »***
@@ -338,8 +332,6 @@ Patrzę na Was wszystkich, Bracia i Siostry wszelkiego stanu, na Was, rodziny ch
 Oby ten mój apel nie popadł w zapomnienie nie wysłuchany! Na początku dwudziestego piątego roku mojego Pontyfikatu powierzam ten List apostolski czułym dłoniom Maryi Panny, korząc się w duchu przed Jej obrazem we wspaniałym sanktuarium wzniesionym dla Niej przez bł. Bartłomieja Longo, apostoła różańca. Chętnie wypowiadam jego wzruszające słowa, jakimi kończy on słynną *Suplikę do Królowej Różańca Świętego*: « O, błogosławiony różańcu Maryi, słodki łańcuchu, który łączysz nas z Bogiem; więzi miłości, która nas jednoczysz z aniołami; wieżo ocalenia od napaści piekła; bezpieczny porcie wmorskiej katastrofie! Nigdy cię już nie porzucimy. Będziesz nam pociechą w godzinie konania. Tobie ostatni pocałunek gasnącego życia. A ostatnim akcentem naszych warg będzie Twoje słodkie imię, o Królowo Różańca z Pompei, o Matko nasza droga, o Ucieczko grzeszników, o Władczyni, Pocieszycielko strapionych. Bądź wszędzie błogosławiona, dziś i zawsze, na ziemi i w niebie ». 
 
 *W Watykanie, dnia 16 października 2002 roku, na początku dwudziestego piątego roku mego Pontyfikatu.*
-
-** **
 
 ------------------------------------------------------------------------
 
@@ -421,11 +413,7 @@ Oby ten mój apel nie popadł w zapomnienie nie wysłuchany! Na początku dwudzi
 
 ³⁹Por. n. 34: *AAS* 93 (2001), 290.** **
 
-** **
-
 ------------------------------------------------------------------------
-
-** **
 
 **SPIS TREŚCI**
 

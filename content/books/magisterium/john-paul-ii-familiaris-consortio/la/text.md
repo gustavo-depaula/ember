@@ -464,30 +464,30 @@ Re quidem vera, ut Synodus continenter arguit, condicio, quam in plurimis nation
 Hac de causa palam fortiterque Ecclesia defendit familiae iura ab intolerabilibus societatis et Civitatis abusibus. Particulatim vero Synodi Patres haec, quae sequuntur, familiae iura, inter alia, memorarunt:
 
 > \- « Existendi et progrediendi ut familia, *i.e. ius omnis hominis, praesertim etiam pauperum ad familiam condendam et aptis subsidiis sustentandam*.
->
+
 > \- Exercendi suum munus in vita transmittenda atque filios educandi.
->
+
 > \- Intimitatis vitae et coniugalis et familiaris.
->
+
 > \- Stabilitatis vinculi atque institutionis matrimonialis.
->
+
 > \- Credendi et profitendi propriam fidem, eamque propagandi.
->
+
 > \- Educandi filios iuxta proprias traditiones et valores religiosos, necnon cnlturales, instrumentis, mediis atque institutionibus necessariis.
->
+
 > \- Obtinendi securitatem physicam, socialem, politicam, oeconomicam, praesertim pauperum et infirmorum.
->
+
 > \- *Ius ad habitationem aptam vitae familiae rite ducendae*.
->
+
 > \- Expressionis et repraesentationis coram publicis auctoritatibus oeconomicis, socialibus et culturalibus eisque subiacentibus, sive per se, sive ope consociationum.
->
+
 > \- Consociationes creandi cum aliis familiis et institutionibus, ut apte et sollerter suum munus adimpleat.  
 > Protegendi minorennes ope adaequatarum institutionum et legislationum, contra nociva pharmaca, pornographiam, alcoholismum, etc.
->
+
 > \- Honesti otii quod simul valores familiae foveat.
->
+
 > \- *Ius senum ad dignam vitam et dignam mortem*.
->
+
 > \- *Ius emigrandi tamquam familia ad meliorem vitam quaerendam* » (112).
 
 Apostolicae Sedi, expressam petitionem Synodi obsecundanti, erit curae ut easdem propositiones accurate perpendat atque « Chartam familiae iurium » conficiat, officii sedibus et auctoritatibus publicis, quarum res interest, proponendam.
@@ -769,7 +769,7 @@ De forma autem liturgica et canonica matrimonii licet Ordinariis abundanter uti 
 Cum autem peculiares hae necessitates pertractantur, haec sunt consideranda:
 
 > — in praeparatione, ad ipsum hoc genus matrimonium instituenda, omnia rationabiliter conanda sunt ut catholica doctrina de matrimonii proprietatibus et postulationibus perdoceatur utque etiam caveatur ne in posterum tempus incidant sollicitationes illae et obstacula, de quibus modo est dictum;
->
+
 > — summi refert ut, adstipulante communi tate, pars catholica corroboretur in fide sua ac reapse adiuvetur ad maturum eius intellectum usumque consequendum ut intra familiam credibilis testis fiat per vitam ipsam et qualitatem amoris erga alterum coniugem ac liberos.
 
 Mixta inter catholicos aliosque baptizatos matrimonia, quamvis singularem exhibeant speciem, plures tamen ostendunt rationes, quas utile est probe fovere et provehere tum propter interius ipsarum momentum tum propter vim, quam motui oecumenico tribuere valent. Hoc potissimum patet quoties ambo coniuges fideles sunt religiosis officiis suis. Communis enim baptismus ac dynamica gratiae virtus suppeditant coniugibus horum matrimoniorum principium et causam communicandae eorum coniunctionis in bonorum moralium spiritaliumque provincia.
@@ -837,9 +837,9 @@ Pro iis qui extremam patiuntur paupertatem, iam locuti sumus affirmantes necesse
 Illis tandem, qui naturali carent familia latius etiam pandendae sunt portae grandioris familiae, quae Ecclesia est quaeque formam induit quasi corporatam in dioecesana et parocciali familia, in communitatibus ecclesialibus, quae a « basi » appellantur, vel in apostolicis motibus. Nemo hoc in mundo familia privatur: omnibus enim Ecclesia est domus atque familia, iis potissimum, qui « laborant et onerati sunt » (181). Dum huius Adhortationis Apostolicae finem facimus, animus noster cum sollicitudine convertitur ad vos, coniuges, ad vos patres matresque familias;
 
 > ad vos, utriusque sexus adulescentes, in quibus sors futura et spes Ecclesiae ac mundi resident quique praecipuum eritis columen, dynamica virtute praeditum, familiae in tertio millennio, quod iam appropinquat;
->
+
 > ad vos, venerandi dilectique Fratres in Episcopatu et in sacerdotio; cari nobis filii religiosi et religiosae, Domino consecrati, qui coniugibus supremam veritatem amoris in Deum testificamini;
->
+
 > ad vos, universi homines integrae mentis, qui quovis nomine de sorte familiae esbs solliciti.
 
 *Sors futura hominum generis e familia pendet!*

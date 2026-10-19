@@ -11,17 +11,17 @@
 Un futuro económicamente sostenible requiere hoy, entre otras decisiones, la adopción de medidas relativas a los salarios del personal.
 
 > a\) Ante el déficit que desde hace varios años caracteriza la gestión económica de la Santa Sede;
->
+
 > b\) teniendo en cuenta el empeoramiento de esta situación tras la emergencia sanitaria provocada por la propagación del Covid-19, que ha afectado negativamente a todas las fuentes de ingresos de la Santa Sede y del Estado de la Ciudad del Vaticano;
->
+
 > c\) teniendo en cuenta que los costes de personal constituyen una partida importante de gastos en el presupuesto de la Santa Sede y del Estado de la Ciudad del Vaticano;
->
+
 > d\) considerando que, incluso en presencia de una adecuada capitalización de la Santa Sede y del Estado de la Ciudad del Vaticano, es necesario garantizar la sostenibilidad y el equilibrio entre ingresos y gastos en la gestión económica y financiera actual;
->
+
 > e\) considerando necesario proceder en este sentido según criterios de proporcionalidad y progresividad;
->
+
 > f\) con el objetivo de salvaguardar los puestos de trabajo actuales;
->
+
 > g\) habiendo obtenido la opinión competente de la Secretaría de Economía y tras haber examinado cuidadosamente todas las cuestiones relativas a esta cuestión, establezco lo siguiente:
 
 **Artículo 1 Remuneración de los cardenales**
@@ -41,9 +41,9 @@ Un futuro económicamente sostenible requiere hoy, entre otras decisiones, la ad
 §1 La reducción mencionada en los artículos 1, 2 y 3 no se aplicará si el interesado demuestra que no puede hacer frente a los gastos fijos relacionados con su propia salud o la de sus familiares hasta el segundo grado de parentesco. Las condiciones de aplicación del presente artículo se evaluarán anualmente. Se presentará la documentación pertinente:
 
 > a\) a la Secretaría de Economía para los empleados que dependen administrativamente de ella;
->
+
 > b\) a la Gobernación del Estado de la Ciudad del Vaticano para sus empleados;
->
+
 > c\) a la Institución a la que pertenecen para los empleados de la Congregación para la Evangelización de los Pueblos y de las Instituciones mencionadas en el art. 6;
 
 **Artículo 5 Incrementos de antigüedad de dos años**

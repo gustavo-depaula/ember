@@ -1,9 +1,5 @@
 # Lettre sur l'usage du pain pauvre en gluten et du moût comme matière eucharistique
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 Lettre à tous les Présidents des Conférences épiscopales  
@@ -81,5 +77,3 @@ En vous communiquant ce qui précède, je vous prie de recevoir, Éminence/Excel
 
 **Joseph Card. Ratzinger**  
 *Préfet*
-
-[](#top)

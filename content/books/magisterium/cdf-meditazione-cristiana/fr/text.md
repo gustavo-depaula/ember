@@ -1,9 +1,5 @@
 # Lettre aux évêques de l’Église catholique sur quelques aspects de la méditation chrétienne, 15 octobre 1989
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***LETTRE AUX ÉVÊQUES DE L'ÉGLISE CATHOLIQUE SUR QUELQUES ASPECTS DE LA MÉDITATION CHRÉTIENNE*** \[[\*](#_ftn*)\]
@@ -147,8 +143,6 @@ Joseph Card. Ratzinger *Préfet*
 \[[\*](#_ftnref*)\] *AAS* 82 (1990) 362-379.
 
 Saint Bonaventure fait remarquer comment, en chacune des créatures, François percevait l’appel de Dieu, et épanchait son âme dans la grande hymne de la reconnaissance et de la louange (cf. *Legenda S. Francisci*, IX, 1 : *Opera Omnia*, Quaracchi 1898, VIII, 530).
-
-[](#top)
 
 [^1]: \[\] Par l’expression « méthodes orientales », on entend des méthodes qui s’inspirent de l’indouisme et du bouddhisme, comme le « zen » ou la « méditation transcendantale » ou encore le « yoga ». Il s’agit donc de méthodes de méditation de l’Extrême-Orient non chrétien qui sont souvent utilisées de nos jours même par certains chrétiens dans leur méditation. Les orientations de principe et de méthode contenues dans le présent document veulent constituer un point de référence non seulement par rapport à ce problème, mais aussi, d’une manière plus générale, pour les diverses formes de prière pratiquées aujourd’hui dans les réalités ecclésiales, particulièrement dans les associations, les mouvements et les groupes.
 

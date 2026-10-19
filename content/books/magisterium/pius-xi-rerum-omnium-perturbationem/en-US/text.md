@@ -87,5 +87,3 @@ IN PEACE AND COMMUNION WITH THE APOSTOLIC SEE.
 Given at Rome, at St. Peter's, the twenty-sixth day of January, in the year 1923, the first of Our Pontificate.
 
 **PIUS XI**
-
-* *

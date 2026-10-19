@@ -1,10 +1,6 @@
 # Conferenza Stampa di presentazione dellÂÂ’Editio typica del nuovo Martirologio Romano
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- ***CONFERENZA STAMPA DI PRESENTAZIONE DEL NUOVO MARTIROLOGIO ROMANO***
+***CONFERENZA STAMPA DI PRESENTAZIONE DEL NUOVO MARTIROLOGIO ROMANO***
 
 - [INTERVENTO DELL’EM.MO CARD. JORGE ARTURO MEDINA ESTÉVEZ](#INTERVENTO%20DELLÂÂ’EM.MO%20CARD.%20JORGE%20ARTURO%20MEDINA%20ESTÉVEZ)
 
@@ -102,5 +98,3 @@ Si è stimato, infine, opportuno mantenere al Martirologio Romano il carattere d
 Libro liturgico.
 
 Concludendo, è importante rilevare la caratteristica più peculiare del Martirologio Romano: esso non è un repertorio agiografico, né un semplice catalogo di personaggi illustri della Chiesa, bensì un *libro liturgico* riformato secondo il dettato del Concilio Vaticano II. Esso costituisce la base dei calendari liturgici che ogni anno determinano le feste sia del Signore che del Santorale. Perciò il Martirologio – secondo la tradizione – è stato nuovamente corredato di tutti gli elementi rituali per l’annuncio comunitario dopo un’ora canonica o in altri momenti della giornata: alla mensa o all’*officium capituli* per le comunità monastiche e canonicali. La lettura liturgica del Martirologio non ha lo scopo di comunicare notizie, ma di *celebrare* la santità di Cristo e dei suoi santi e annunciare ai cristiani che «non sono più stranieri e ospiti, ma concittadini dei santi e familiari di Dio» (*Ef* 2, 19), chiamati a proclamare le meraviglie di Cristo nei suoi servi e a imitarne gli esempi.
-
-[](#top)

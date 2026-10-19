@@ -2,8 +2,6 @@
 
 ENZYKLIKA ***LAUDATO SI’*** VON **PAPST FRANZISKUS** ÜBER DIE SORGE FÜR DAS GEMEINSAME HAUS
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_ge.pdf)
-
 1\. “Laudato si’, mi’ Signore *–* Gelobt seist du, mein Herr *”*, sang der heilige Franziskus von Assisi. In diesem schönen Lobgesang erinnerte er uns daran, dass unser gemeinsames Haus wie eine Schwester ist, mit der wir das Leben teilen, und wie eine schöne Mutter, die uns in ihre Arme schließt: “Gelobt seist du, mein Herr, durch unsere Schwester, Mutter Erde, die uns erhält und lenkt und vielfältige Früchte hervorbringt und bunte Blumen und Kräuter.” [^1]
 
 2\. Diese Schwester schreit auf wegen des Schadens, den wir ihr aufgrund des unverantwortlichen Gebrauchs und des Missbrauchs der Güter zufügen, die Gott in sie hineingelegt hat. Wir sind in dem Gedanken aufgewachsen, dass wir ihre Eigentümer und Herrscher seien, berechtigt, sie auszuplündern. Die Gewalt des von der Sünde verletzten menschlichen Herzens wird auch in den Krankheitssymptomen deutlich, die wir im Boden, im Wasser, in der Luft und in den Lebewesen bemerken. Darum befindet sich unter den am meisten verwahrlosten und misshandelten Armen diese unsere unterdrückte und verwüstete Erde, die „seufzt und in Geburtswehen liegt“ (*Röm* 8,22). Wir vergessen, dass wir selber Erde sind (vgl. *Gen* 2,7). Unser eigener Körper ist aus den Elementen des Planeten gebildet; seine Luft ist es, die uns den Atem gibt, und sein Wasser belebt und erquickt uns.

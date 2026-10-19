@@ -1,9 +1,5 @@
 # Comentario a la respuesta al dubium sobre la doctrina de la Ordinatio sacerdotalis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **En torno a la *Respuesta* de la Congregación para la Doctrina de la Fe sobre la doctrina propuesta en la Carta apostólica *Ordinatio sacerdotalis***
@@ -33,5 +29,3 @@ Ante este preciso acto magisterial del Romano Pontífice, explícitamente dirigi
 Finalmente, no han faltado comentarios que tienden a ver en la Carta *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_sp.html)* una ulterior e inoportuna dificultad en el camino, ya de por sí difícil, del movimiento ecuménico. A este respecto es necesario no olvidar que, según la letra y el espíritu del Concilio Vaticano II (cfr. Decr. *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_sp.html)*, 11), el auténtico empeño ecuménico, en el que la Iglesia Católica no puede ni quiere cejar, exige una plena sinceridad y claridad en la presentación de la identidad de la propia fe. Además, es necesario decir que la doctrina reafirmada en la Carta *[Ordinatio sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_sp.html)* no puede dejar de favorecer la plena comunión con las Iglesias ortodoxas que, conformemente a la Tradición, han mantenido y mantienen con fidelidad la misma enseñanza.
 
 La singular originalidad de la Iglesia y del sacerdocio ministerial dentro de ella, reclaman una precisa claridad de criterios. Concretamente, no se debe perder nunca de vista que la Iglesia no encuentra la fuente de su fe y de su estructura constitutiva en los principios de la vida social de cada momento histórico. Reconociendo el mundo en el que vive y por cuya salvación obra, la Iglesia se sabe portadora de una fidelidad superior a la que se encuentra vinculada. Se trata de la fidelidad radical a la Palabra de Dios recibida por la misma Iglesia establecida por Cristo hasta el fin de los tiempos. Esta Palabra de Dios, al proclamar el valor sustancial y el destino eterno de cada persona, manifiesta el fundamento último de la dignidad de todo ser humano: de toda mujer y de todo hombre.
-
-[](#top)

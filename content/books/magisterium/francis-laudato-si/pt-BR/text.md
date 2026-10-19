@@ -3,8 +3,6 @@
 CARTA ENCÍCLICA ***LAUDATO SI’*** DO SANTO PADRE  
 **FRANCISCO** SOBRE O CUIDADO DA CASA COMUM
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_po.pdf)
-
 1. «*LAUDATO SI’, mi’ Signore* – Louvado sejas, meu Senhor», cantava São Francisco de Assis. Neste gracioso cântico, recordava-nos que a nossa casa comum se pode comparar ora a uma irmã, com quem partilhamos a existência, ora a uma boa mãe, que nos acolhe nos seus braços: «Louvado sejas, meu Senhor, pela nossa irmã, a mãe terra, que nos sustenta e governa e produz variados frutos com flores coloridas e verduras».[^1]
 
 2. Esta irmã clama contra o mal que lhe provocamos por causa do uso irresponsável e do abuso dos bens que Deus nela colocou. Crescemos a pensar que éramos seus proprietários e dominadores, autorizados a saqueá-la. A violência, que está no coração humano ferido pelo pecado, vislumbra-se nos sintomas de doença que notamos no solo, na água, no ar e nos seres vivos. Por isso, entre os pobres mais abandonados e maltratados, conta-se a nossa terra oprimida e devastada, que «geme e sofre as dores do parto» (*Rm* 8, 22). Esquecemo-nos de que nós mesmos somos terra (cf. *Gn* 2, 7). O nosso corpo é constituído pelos elementos do planeta; o seu ar permite-nos respirar, e a sua água vivifica-nos e restaura-nos.

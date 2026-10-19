@@ -1,9 +1,5 @@
 # Decret General concernant le délit d’attentat à l’ordination sacrée d’une femme
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **DECRET GENERAL *concernant le délit d’attentat à l’ordination sacrée d’une femme***
@@ -25,5 +21,3 @@ L. + S.
 *Secrétaire*
 
 *In Congr. pro Doctrina Fidei tab., n. 337/02*
-
-[](#top)

@@ -1,15 +1,5 @@
 # Commento al Decreto del Prefetto della Congregazione per il Culto Divino e la Disciplina dei Sacramenti: La memoria di Maria “Madre della Chiesa”
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER IL CULTO DIVINO  

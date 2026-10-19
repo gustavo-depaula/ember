@@ -1,9 +1,5 @@
 # Congrès du collège cardinalice à l'occasion du XXV anniversaire du Pontificat
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **XXV ANNIVERSAIRE DU PONTIFICAT DE JEAN-PAUL II: CONGRÈS ORGANISÉ PAR LE COLLÈGE CARDINALICE **
 
 ***INTERVENTION DE S.EM. LE CARD. JOSEPH RATZINGER***
@@ -19,5 +15,3 @@ La première forme de notre engagement est la prière, l'action de grâce rendue
 Il ne me reste qu'à remercier les vénérés confrères du Collège cardinalice qui nous parleront, lors de six Conférences, des thèmes fondamentaux de ce Pontificat, ainsi que vous tous, qui êtes venus, souvent de loin, pour participer à notre action de grâce et à notre réflexion communes.
 
 Que le Seigneur veuille bénir ces journées!
-
-[](#top)

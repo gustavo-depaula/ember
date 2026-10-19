@@ -1,9 +1,5 @@
 # "The Homilist – Teacher of the Faith" by H.Em. Cardinal William Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **THE HOMILIST – TEACHER OF THE FAITH**
 
 ***Cardinal William Levada Prefect of the Congregation for the Doctrine of the Faith***
@@ -125,5 +121,3 @@ And in the first half of the twentieth century, according to Evelyn Waugh, Fr. R
 I want to end with a word of comfort and reassurance. The mysteries we proclaim and the truths we teach are so sublime and transcendent that even our best efforts at preaching doctrinal homilies may leave us unsatisfied. Let the words of the great bishop preacher St. Augustine be our comfort: “For my part, I am nearly always dissatisfied with my discourse. For I am desirous of something better, which I often inwardly enjoy before I begin to unfold my thought in spoken words; but when I find that my powers of expression come short of my knowledge of the subject, I am sorely disappointed that my tongue has not been able to answer the demands of my heart.” (De Catechizandis Rudibus II, 3)
 
 And let the inspired words of the great Apostle of the Gentiles in his First Letter to the Thessalonians (2:13) be for us a source of reassurance and confidence: “We give thanks to God unceasingly, that in receiving the word of God from hearing us, you received not a human word but, as it truly is, the word of God, which is now at work in you who believe.”
-
-[](#top)

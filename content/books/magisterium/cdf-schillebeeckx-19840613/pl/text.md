@@ -1,9 +1,5 @@
 # LIST DO O. EDWARDA SCHILLEBEECKXA, O.P. dotyczący jego książki «Kerkelijk Ambt»
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **KONGREGACJA NAUKI WIARY**
 
 **LIST DO O. EDWARDA SCHILLEBEECKXA, O.P. dotyczący jego książki «Kerkelijk Ambt» («Urząd w Kościele», 1980)**\*
@@ -47,5 +43,3 @@ Zechce Ojciec przyjąć wyrazy życzliwości w Panu
 **+ ALBERTO BOVONE** * Abp tyt. Cezarei Numidyjskiej Sekretarz*
 
 \* *L’Osservatore Romano*, 11 I 1985.
-
-[](#top)

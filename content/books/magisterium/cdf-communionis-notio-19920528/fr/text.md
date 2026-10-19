@@ -1,9 +1,5 @@
 # sur certains aspects de l'église comprise comme communion
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***LETTRE AUX EVÊQUES DE L'ÉGLISE CATHOLIQUE SUR CERTAINS ASPECTS DE L'ÉGLISE COMPRISE COMME COMMUNION***
@@ -277,5 +273,3 @@ En concluant cette *Lettre*, la Congrégation pour la Doctrine de la Foi, repren
 \(82\) 82 S. CHROMACE D'AQUILEE, *Sermo* 30, 1: "Sources Chrétiennes" 164, p. 134. Cf. PAUL VI, Ex. Ap. *Marialis cultus*, 2-II-1974, n. 28.
 
 \(83\) 83 Cf. Const. *Lumen gentium*, n. 69.
-
-[](#top)

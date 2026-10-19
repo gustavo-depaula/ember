@@ -1,9 +1,5 @@
 # Lettera ai Vescovi della Chiesa Cattolica sulla cura pastorale delle persone omosessuali, 1 ottobre 1986
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **LETTERA AI VESCOVI DELLA CHIESA CATTOLICA SULLA CURA PASTORALE DELLE PERSONE OMOSESSUALI**
@@ -117,5 +113,3 @@ Roma, dalla Sede della Congregazione per la Dottrina della Fede, 1° ottobre 198
 **Joseph Card. Ratzinger** * Prefetto*
 
 **+ Alberto Bovone** * Arc. tit. di Cesarea di Numidia Segretario*
-
-[](#top)

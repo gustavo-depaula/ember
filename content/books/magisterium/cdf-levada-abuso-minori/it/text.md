@@ -1,9 +1,5 @@
 # Lettera del Cardinale William levada per la presentazione della Circolare alle Conferenze Episcopali sulle Linee guida per i casi di abuso sessuale nei confronti di minori da parte di chierici
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***LETTERA DEL CARDINALE WILLIAM LEVADA PER LA PRESENTAZIONE DELLA CIRCOLARE ALLE CONFERENZE EPISCOPALI SULLE LINEE GUIDA PER I CASI DI ABUSO SESSUALE NEI CONFRONTI DI MINORI DA PARTE DI CHIERICI*** **
@@ -28,5 +24,3 @@ sinceramente Suo in Cristo
 
 **William Card Levada**  
 *Prefetto*
-
-[](#top)

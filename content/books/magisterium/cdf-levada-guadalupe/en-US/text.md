@@ -1,9 +1,5 @@
 # Homily of Card. Levada for the Dedication of the Chapel of Our Lady of Guadalupe Seminary
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***HOMILY OF CARDINAL WILLIAM JOSEPH LEVADA***
 
 ***Dedication of the Seminary Chapel***
@@ -33,5 +29,3 @@ The preface I have cited above goes on to say, “For here \[—meaning in this 
 The seminarians who will be ordained priests from this seminary will be ordained to serve this “vision of peace” as instruments of communion. It is a vision we see in the “new Jerusalem coming down out of heaven from God.” It is a vision we see in Jesus at table with sinners in the home of Zaccheus. It is a vision we see in this new church and in the rites we are celebrating now. Let us all hurry down from whatever high and isolated sycamore we are occupying; let us hurry down and welcome Christ with joy in the communion of the one holy, catholic, and apostolic Church in the Eucharist celebrated here.
 
 May Our Lady of Guadalupe, Mother of Priests, Mother of the Church, Star of the New Evangelization of the Americas, be intercessor and model for the priests who will be formed here in the likeness of her Son, our true and perfect Priest, Jesus Christ our Lord. Amen.
-
-[](#top)

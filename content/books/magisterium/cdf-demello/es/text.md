@@ -1,9 +1,5 @@
 # Notificación escritos De Mello, 24 junio 1998
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**   
 
 ***NOTIFICACIÓN SOBRE LOS ESCRITOS DEL PADRE ANTHONY DE MELLO S.J.***
@@ -31,5 +27,3 @@ El Sumo Pontífice Juan Pablo II, en el curso de la audiencia concedida al infra
 
  **+Tarcisio Bertone, SDB**   
 *Arzobispo Emérito de Vercelli Secretario*
-
-[](#top)

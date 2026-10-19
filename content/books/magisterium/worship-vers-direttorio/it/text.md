@@ -1,15 +1,5 @@
 # Direttorio su Pietà Popolare e Liturgia. Principi e Orientamenti
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER IL CULTO DIVINO  
@@ -36,8 +26,6 @@ INDICE
 > Alcuni principi (11-13) Il primato della Liturgia (11) Valorizzazione e rinnovamento (12) Distinzione e armonia con la Liturgia (13)  
 > Il linguaggio della pietà popolare (14-20) I gesti (15) I testi e le formule (16) Il canto e la musica (17) Le immagini (18) I luoghi (19) I tempi (20)  
 > Responsabilità e competenze (21)
->
->  
 
 **[PARTE PRIMA](#PARTE%20PRIMA)**
 
@@ -66,15 +54,13 @@ INDICE
 > Parola di Dio e pietà popolare (87-89)  
 > Pietà popolare e rivelazioni private (90)  
 > Inculturazione e pietà popolare (91-92)
->
->  
 
 **[PARTE SECONDA](#PARTE%20SECONDA)**
 
 > ORIENTAMENTI
->
+
 > PER L’ARMONIZZAZIONE DELLA PIETÀ POPOLARE CON LA LITURGIA (93-287)
->
+
 > Premessa (93)
 
 [**Cap. IV.** ANNO LITURGICO E PIETÀ POPOLARE (94-182)](#Capitolo%20IV)

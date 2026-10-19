@@ -1,13 +1,5 @@
 # Declaration on behalf of some clergy and laity formerly or actually belonging to the Episcopal (Anglican) Church for full communion with the Catholic Church, 1st April 1981
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH

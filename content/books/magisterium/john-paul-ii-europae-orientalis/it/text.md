@@ -24,5 +24,3 @@ Pertanto, ordiniamo che ciò che abbiamo stabilito con questa lettera in forma d
 *Dato a Roma presso San Pietro, il 15 gennaio 1993, quindicesimo anno del Nostro Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-* *

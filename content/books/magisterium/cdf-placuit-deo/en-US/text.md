@@ -1,15 +1,5 @@
 # Letter \<i>Placuit Deo\</i> to the Bishops of the Catholic Church on Certain Aspects of Christian Salvation
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR THE DOCTRINE OF THE FAITH

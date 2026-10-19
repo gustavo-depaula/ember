@@ -1,9 +1,5 @@
 # Homily for the Memorial of St Anthony of Padua - L'Église St-Yves - Quebec (Canada), June 13, 2008
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***HOMILY OF HIS EMINENCE CARD. WILLIAM JOSEPH LEVADA FOR THE MEMORIAL OF ST. ANTHONY OF PADUA***
 
 *L'Église St-Yves Quebec (Canada), June 13, 2008*
@@ -25,5 +21,3 @@ In calling the Church to a renewed catechesis about the sacrament of Reconciliat
 Today at Mass we will again pray before receiving Holy Communion, "Lord, I am not worthy to receive you, but only say the word and I shall be healed." And die silent prayer of the priest that precedes Holy Communion offers yet another example of seeking forgiveness before encountering the Holy of Holies: "By the mystery of your body and blood, free me from all my sins and from every evil. Keep me always faithful to your teachings and never let me be parted from you."
 
 Dear Brothers and Sisters, as we commemorate St. Anthony of Padua this morning at Mass, let us thank God not only for the "daily bread" of this Eucharist, but also for the great gift of the sacrament of Penance and Reconciliation by which He continues to offer to his beloved people the sign and instrument of his great mercy, forgiveness and love.
-
-[](#top)

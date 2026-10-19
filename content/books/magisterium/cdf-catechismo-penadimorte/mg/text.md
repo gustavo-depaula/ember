@@ -1,15 +1,5 @@
 # FANITSIANA NY LAHARANA FAHA-2267 AO AMIN’NY KATESIZIN’NY FIANGONANA KATOLIKA, MOMBA NY FANAMELOHANA HO FATY RESCRIPTUM “EX AUDIENTIA SS.MI”, 1 aogositra 2018
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **FANITSIANA NY LAHARANA FAHA-2267**

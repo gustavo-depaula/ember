@@ -1,9 +1,5 @@
 # Wokół odpowiedzi Kongregacji Nauki Wiary na temat doktryny przedstawionej w Liście Apostolskim Ordinatio Sacerdotalis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Wokół odpowiedzi Kongregacji Nauki Wiary  
 **na temat doktryny przedstawionej w Liście Apostolskim Ordinatio Sacerdotalis**
 
@@ -32,5 +28,3 @@ Wobec tego konkretnego aktu nauczycielskiego Papieża, bezpośrednio skierowaneg
 Nie brakowało, w końcu, pewnych komentarzy do Listu *Ordinatio Sacerdotalis*, według których stanowiłby on kolejną i niepotrzebną trudność na już trudnej drodze ruchu ekumenicznego. Nie można w tym przypadku zapominać, że według litery i ducha Soboru Watykańskiego II (por. Dekr. *Unitatis redintegratio*, 11), autentyczne zaangażowanie ekumeniczne, z którego Kościół nie chce ani nie może zrezygnować, wymaga pełnej szczerości i jasności w przedstawianiu tożsamości swojej wiary. Należy ponadto podkreślić, że doktryna ponownie potwierdzona w Liście *Ordinatio Sacerdotalis* nie może nie pomóc w poszukiwaniu pełnej komunii z Kościołami prawosławnymi, które - zgodnie z Tradycją - wiernie utrzymały i utrzymują to samo nauczanie.
 
 Szczególna oryginalność Kościoła i kapłaństwa urzędowego w jego ramach wymaga precyzyjnej jasności kryteriów. Konkretnie, nigdy nie można zapominać, że Kościół nie znajduje źródeł swojej wiary i swojej konstytutywnej struktury w zasadach życia społecznego każdej chwili historycznej. Chociaż patrzy z uwagą na świat, w którym żyje i dla którego zbawienia działa, Kościół jest świadomy, że wierność, którą jest związany, ma większe znaczenie. Chodzi o radykalną wierność Słowu Bożemu otrzymanemu od samego Kościoła ustanowionego przez Jezusa Chrystusa aż do końca czasów. To Słowo Boże, w głoszeniu istotnej wartości i wiecznego przeznaczenia każdej osoby, ukazuje ostateczną podstawę godności każdej osoby ludzkiej - każdej kobiety i każdego mężczyzny.
-
-[](#top)

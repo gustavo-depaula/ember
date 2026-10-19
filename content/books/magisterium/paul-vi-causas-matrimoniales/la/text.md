@@ -38,9 +38,9 @@ Omnes causas matrimoniales, ad eos spectantes, de quibus in C.I.C., can. 1557, �
 **§ 1.** In ceteris causis nullitatis matrimonii competens est:
 
 > *a)* Tribunal loci in quo matrimonium celebratum est, vel
->
+
 > *b)* Tribunal loci in quo pars conventa commorationem non precariam habeat, quae ex aliquo ecclesiastico documento vel allo legitimo modo probari possit, vel
->
+
 > *c)* Tribunal loci in quo de facto colligendae sint pleraeque depositiones seu probationes, dummodo accedat consensus tum Ordinarii loci commorationis habitualis partis conventae, tum Ordinarii loci et praesidis Tribunalis aditi.
 
 **§ 2.** Si casus accidat de quo in praecedenti § 1, c), Tribunal, antequam causam admittat, exquirat a parte conventa, num quid excipiendum habeat contra forum aditum a parte actrice.
@@ -102,9 +102,9 @@ Iudex alterius instantiae, interveniente tantum defensore vinculi, decernet eode
 **NORMAE TEMPORARIAE**
 
 > **1.** Die quo praesentes Litterae Apostolicae vigere incipient, causa matrimonialis, quae, post primam sententiam matrimoni nullitatem declarantem, apud superius Tribunal ex appellatione legitima prosequitur, interim suspendatur.
->
+
 > **2.** Vinculi defensor Tribunales secundae instantiae animadversiones suas exhibeat super omnia, quae sive decisionem latam in primo gradu respiciunt, sive actis in altero gradu eo usque expletis continentur, ut dicat utrum contra decisionem latam in primo gradu aliquid opponendum habeat necne. Contra quas animadversiones collegium, si opportunum censuerit, partium earumve patronorum animadversiones exquirat.
->
+
 > **3.** Perpensis animadversionibus defensores vinculi necnon, si exquisitae et datae fuerint, partium earumve patronorum et visa sententia primi gradus, collegium suo decreto vel decisionem primi gradus ratam habet, vel causam in ordinario examine secunde gradus prosequendam esse decernit. In priore casu, nemine recurrente, ius est coniugibus, qui alioquin non impediantur, decem diebus a decreti publicatione elapsis, novas contrahendi nuptias. In altero vero casu instantia prosequenda erit usque ad definitivam sententiam.
 
 Quae igitur a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia rata ac firma esse iubemus, contrarias quibusvis, etiam specialissima mentione dignis, non obstantibus.

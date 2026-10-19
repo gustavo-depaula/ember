@@ -1,9 +1,5 @@
 # Nota sulla banalizzazione della sessualità - A proposito di alcune letture di « Luce del Mondo »
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***NOTA SULLA BANALIZZAZIONE DELLA SESSUALITÀ A PROPOSITO DI ALCUNE LETTURE DI "LUCE DEL MONDO"***
@@ -21,5 +17,3 @@ A questo riguardo occorre rilevare che la situazione creatasi a causa dell’att
 Alcuni hanno interpretato le parole di [Benedetto XVI](/holy_father/benedict_xvi/index_it.htm) ricorrendo alla teoria del cosiddetto "male minore". Questa teoria, tuttavia, è suscettibile di interpretazioni fuorvianti di matrice proporzionalista (cfr. Giovanni Paolo II, enciclica [Veritatis splendor, nn. 75](/edocs/ITA1226/__PO.HTM)-[77](/edocs/ITA1226/__PP.HTM)). Un’azione che è un male per il suo oggetto, anche se un male minore, non può essere lecitamente voluta. Il Santo Padre non ha detto che la prostituzione col ricorso al profilattico possa essere lecitamente scelta come male minore, come qualcuno ha sostenuto. La Chiesa insegna che la prostituzione è immorale e deve essere combattuta. Se qualcuno, ciononostante, praticando la prostituzione e inoltre essendo infetto dall’Hiv, si adopera per diminuire il pericolo di contagio anche mediante il ricorso al profilattico, ciò può costituire un primo passo nel rispetto della vita degli altri, anche se la malizia della prostituzione rimane in tutta la sua gravità. Tali valutazioni sono in linea con quanto la tradizione teologico-morale della Chiesa ha sostenuto anche in passato.
 
 In conclusione, nella lotta contro l’Aids i membri e le istituzioni della Chiesa cattolica sappiano che occorre stare vicini alle persone, curando gli ammalati e formando tutti perché possano vivere l’astinenza prima del matrimonio e la fedeltà all’interno del patto coniugale. Al riguardo occorre anche denunciare quei comportamenti che banalizzano la sessualità, perché, come dice il Papa, proprio questi rappresentano la pericolosa ragione per cui tante persone nella sessualità non vedono più l’espressione del loro amore. "Perciò anche la lotta contro la banalizzazione della sessualità è parte del grande sforzo affinché la sessualità venga valutata positivamente e possa esercitare il suo effetto positivo sull’essere umano nella sua totalità" (Luce del mondo, p. 170).
-
-[](#top)

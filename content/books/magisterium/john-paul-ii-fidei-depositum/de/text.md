@@ -80,5 +80,3 @@ Dieser Katechismus ist nicht dazu bestimmt, die von den kirchlichen Autoritäten
 Am Ende dieses Dokumentes, das den „[Katechismus der katholischen Kirche](http://localhost/archive/ccc/index_ge.htm)“ vorstellt, bitte ich die allerseligste Jungfrau Maria, die Mutter des menschgewordenen Wortes und Mutter der Kirche, sie möge mit ihrer mächtigen Fürbitte den katechetischen Dienst der gesamten Kirche auf allen Ebenen in dieser Zeit unterstützen, da diese zu einem neuen Bemühen um Evangelisierung aufgerufen ist. Möge das Licht des wahren Glaubens die Menschheit von der Unwissenheit und der Sklaverei der Sünde befreien und sie so zur einzigen dieses Namens würdigen Freiheit hinführen (vgl. *Joh* 8, 32): zu derjenigen des Lebens in Jesus Christus unter der Führung des Heiligen Geistes, hienieden und im Himmelreich, in der Fülle der Seligkeit der Anschauung Gottes von Angesicht zu Angesicht (vgl. 1 *Kor* 13, 12; 2 *Kor* 5, 6–8)!
 
 *Gegeben am 11. Oktober 1992, dem dreißigsten Jahrestag der Eröffnung des Zweiten Ökumenischen Vatikanischen Konzils, im vierzehnten Jahr meines Pontifikates.*
-
-* *

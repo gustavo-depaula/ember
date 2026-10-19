@@ -117,7 +117,7 @@ amigablemente dentro del recinto monástico la vida contemplativa con el ejercic
 > 1.° Con el ejemplo de la perfección cristiana; porque su vida, aun sin uso de palabras, continua y altamente lleva los fieles a Cristo y a la perfección cristiana, y para los buenos soldados de Cristo es como estandarte o guión que los excita al legítimo combate y los estimula a la corona.
 
 > 2.° Con la oración, tanto con la que se dirige a Dios públicamente en nombre de la Iglesia, siete veces al día en las solemnes Horas canónicas, como con la que cada una privadamente y sin interrupción debe hacer en distintas formas.
->
+
 > 3.° Con el espíritu de sacrificio, de tal modo que a las mortificaciones provenientes de la vida común y de la fiel observancia regular, se añadan otros ejercicios de abnegación propia, ya prescritos en las reglas y constituciones, ya enteramente voluntarios, con los cuales se completen las cosas que «faltan de los padecimientos de Cristo en favor de su cuerpo, que es la Iglesia».
 
 40\. Después de haber ilustrado los fastos históricos del Instituto de las Monjas y haber explicado cuidadosamente en qué términos puede conciliare con las necesidades de la vida moderna, vengamos ahora a dar las normas generales según las cuales deba llevarse a cabo esta conciliación. La Sagrada Congregación es la que llevará a la práctica toda la Constitución y los Estatutos Generales, así en lo que se refiere a las Federaciones de monasterios ya hechas o por hacer. Con Nuestra autoridad, por medio de Instrucciones, declaraciones, respuestas y otros parecidos documentos, podrá ejecutar cuanto concierne a la aplicación diligente y eficaz de la Constitución y al cumplimiento pronto y fiel de los Estatutos Generales.

@@ -1,9 +1,5 @@
 # Vorstellung der Instruktion REDEMPTIONIS SACRAMENTUM
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DEN GOTTESDIENST  
 UND DIE SAKRAMENTENORDNUNG
 
@@ -68,5 +64,3 @@ Die *Instruktion* schließt mit dem Wunsch der Kongregation für den Gottesdiens
 **Francis. Kard. Arinze**
 
 23\. April 2004
-
-[](#top)

@@ -1,9 +1,5 @@
 # NOTA O BANALIZACJI SEKSUALNOŚCI. W ZWIĄZKU Z PEWNYMI INTERPRETACJAMI ŚWIATŁOŚCI ŚWIATA
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY
 
 ***NOTA O BANALIZACJI SEKSUALNOŚCI. W ZWIĄZKU Z PEWNYMI INTERPRETACJAMI* ŚWIATŁOŚCI ŚWIATA **  
@@ -21,5 +17,3 @@ W związku z tym należy przypomnieć, że sytuacja, która powstała na skutek 
 Niektórzy zinterpretowali słowa Benedykta XVI, posługując się teorią tzw. «mniejszego zła». Teoria ta może jednakże być podstawą mylących interpretacji, zakorzenionych w proporcjonalizmie (por. Jan Paweł II, encyklika *Veritatis splendor*, nn. 75-77). Działanie, które jest złe ze względu na swój przedmiot, nawet jeśli stanowi mniejsze zło, nie może być słusznie pożądane. Ojciec Święty nie powiedział, że prostytucja z zastosowaniem prezerwatywy może stanowić słuszny wybór jako mniejsze zło, jak utrzymywano. Kościół naucza, że prostytucja jest niemoralna i powinna być zwalczana. Jeśli jednak ktoś, kto się prostytuuje i jest zarażony HIV, stara się zmniejszyć ryzyko zarażenia również przez użycie prezerwatywy, może to być pierwszy krok w kierunku poszanowania życia innych, choć prostytucja pozostaje poważnym złem. Opinia ta jest zgodna z tym, co tradycja teologiczno-moralna Kościoła głosiła również w przeszłości.
 
 A zatem, wierni i instytucje Kościoła katolickiego muszą wiedzieć, że w walce z AIDS należy być po stronie osób, lecząc chorych i wychowując wszystkich w taki sposób, by potrafili żyć wstrzemięźliwie przed zawarciem związku małżeńskiego i w wierności w małżeństwie. W związku z tym należy także napiętnować zachowania banalizujące seksualność, ponieważ – jak mówi Papież – to właśnie one stanowią niebezpieczny powód, dla którego wiele osób nie widzi w seksualności wyrazu swojej miłości. «Dlatego również walka z banalizowaniem seksualności należy do wielkich wysiłków, podejmowanych po to, by seksualność była postrzegana pozytywnie i mogła wywierać pozytywny wpływ na istotę ludzką jako całość» (*Luce del mondo*, s. 170).
-
-[](#top)

@@ -1,9 +1,5 @@
 # NADA U SPASENJE DJECE UMRLE BEZ KRŠTENJA, 2007 - Međunarodna teološka komisija
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 Međunarodna teološka komisija
 
 NADA U SPASENJE DJECE UMRLE BEZ KRŠTENJA
@@ -54,5 +50,3 @@ RAZLOZI ZA NADU
 3.5. Lex orandi, lex credendi
 
 3.6. Nada
-
-[](#top)

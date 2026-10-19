@@ -1,9 +1,5 @@
 # Note relative au Ministre du Sacrement de l'Onction des Malades
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***Note relative au Ministre du Sacrement de l'Onction des Malades***
@@ -69,5 +65,3 @@ En conclusion, il sera en effet opportun de rappeler que le prêtre, en raison d
 ------------------------------------------------------------------------
 
 1) On note que les orthodoxes également considèrent que le Ministre de l'Onction ne peut être que l'Evêque ou le prêtre.
-
-[](#top)

@@ -18,11 +18,11 @@ IV. [A közvetlen közeli előkészület](#A_K%C3%96ZVETLEN_K%C3%96ZELI_EL%C5%90
 
 > A\) [Az előkészület első szakasza](#AZ_EL%C5%90K%C3%89SZ%C3%9CLET_ELS%C5%90_SZAKASZA)  
 > B) [Az előkészület második szakasza](#AZ_EL%C5%90K%C3%89SZ%C3%9CLET_M%C3%81SODIK_SZAKASZA)
->
+
 > > *[Az első év: Jézus Krisztus](#Az_els%C5%91_%C3%A9v:_J%C3%A9zus_Krisztus)*  
 > > *[A második év: a Szentlélek](#A_m%C3%A1sodik_%C3%A9v:_a_Szentl%C3%A9lek)*  
 > > *[A harmadik év: az Atyaisten](#A_harmadik_%C3%A9v:_az_Atyaisten)*
->
+
 > C\) [Maga az ünneplés](#MAGA_AZ_%C3%9CNNEPL%C3%89S)
 
 V. „[Jézus Krisztus ugyanaz... és mindörökké](#J%C3%89ZUS_KRISZTUS_UGYANAZ_..._%C3%89S_MIND%C3%96R%C3%96KK%C3%89%E2%80%9D)” (*Zsid 13,8*)

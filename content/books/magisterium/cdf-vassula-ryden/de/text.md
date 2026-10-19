@@ -1,9 +1,5 @@
 # Rundschreiben an die Vorsitzenden der Bischofskonferenzen bezüglich der Schriften und Tätigkeiten von Frau Vassula Rydén, 25. Januar 2007
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***RUNDSCHREIBEN AN DIE VORSITZENDEN DER BISCHOFSKONFERENZEN BEZÜGLICH DER SCHRIFTEN UND TÄTIGKEITEN VON FRAU VASSULA RYDÉN***
@@ -27,5 +23,3 @@ Indem ich Ihnen dies zur Kenntnis bringe, verbleibe ich mit besten Grüßen und 
 im Herrn Ihr
 
 **William Kardinal Levada** *Präfekt*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Discurso del cardenal Joseph Ratzinger en el XXV aniversario de la creación de la Comisión teológica internacional, 2 de diciembre de 1994
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Discurso del cardenal Joseph Ratzinger, Presidente de la Comisión teológica internacional, por el XXV aniversario de su creación**
 
 *Sala del Consistorio Viernes 2 de diciembre de 1994*
@@ -25,5 +21,3 @@ De este modo, han visto la luz, entre 1970 y 1991, [dieciséis documentos](/roma
 Estos documentos, como yo he creído poder escribirlo presentando el primer volumen que los reúne, «constituyen un tramo de la historia de la teología post-conciliar, cuya importancia todavía no ha sido reconocida», a pesar de los múltiples esfuerzos para darlos a conocer en condiciones técnicamente arduas y, a veces, incluso desfavorables. Considerando ya realizado este Corpus, pensando también en los trabajos de este quinquenio ya en curso de realización sobre la teología de la Redención y las relaciones entre el cristianismo y las religiones no cristianas, sólo podemos desear que los textos de la Comisión conozcan una mayor difusión. Este vigésimo quinto aniversario constituye una ocasión favorable para llamar con fuerza la atención en ellos de teólogos y pastores.
 
 Santo Padre, gracias por vuestra acogida. Asegurándoos nuestra comunión en la oración y el servicio de la Iglesia, solicitamos de Vuestra Santidad el precioso aliento de Vuestra paternal bendición apostólica.
-
-[](#top)

@@ -5,10 +5,6 @@ OF THE HOLY FATHER
 **POPE BENEDICT XVI**  
 TO THE CATHOLICS OF IRELAND
 
-*** ***
-
-*** * ** ** **  
-
 1\. Dear Brothers and Sisters of the Church in Ireland, it is with great concern that I write to you as Pastor of the universal Church. Like yourselves, I have been deeply disturbed by the information which has come to light regarding the abuse of children and vulnerable young people by members of the Church in Ireland, particularly by priests and religious. I can only share in the dismay and the sense of betrayal that so many of you have experienced on learning of these sinful and criminal acts and the way Church authorities in Ireland dealt with them.
 
 As you know, I recently invited the Irish bishops to a meeting here in Rome to give an account of their handling of these matters in the past and to outline the steps they have taken to respond to this grave situation. Together with senior officials of the Roman Curia, I listened to what they had to say, both individually and as a group, as they offered an analysis of mistakes made and lessons learned, and a description of the programmes and protocols now in place. Our discussions were frank and constructive. I am confident that, as a result, the bishops will now be in a stronger position to carry forward the work of repairing past injustices and confronting the broader issues associated with the abuse of minors in a way consonant with the demands of justice and the teachings of the Gospel.

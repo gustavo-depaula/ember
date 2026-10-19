@@ -1,9 +1,5 @@
 # Schreiben an Kardinal Joseph Höffner, Erzbischof von Köln, zum Engelwerk, 24. September 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 HL. KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 * **Schreiben an Kardinal Joseph Höffner, Erzbischof von Köln, zum "Engelwerk" \["Opus** **Angelorum"\]***
@@ -33,5 +29,3 @@ Euer Eminenz sehr ergebener
 \+ **Fr. Hieronymus Hamer, O.P.** Titularerzbischof von Lorium *Sekretär*
 
 *Rom, 24. September 1983.*
-
-[](#top)

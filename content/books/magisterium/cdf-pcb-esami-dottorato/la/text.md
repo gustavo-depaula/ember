@@ -1,9 +1,5 @@
 # De experimentis ad lauream - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE EXPERIMENTIS AD LAUREAM**
@@ -15,5 +11,3 @@ Affirmative, dummodo vel ambo experimenta praeliminaria simul fiant vel lectio p
 *Quod responsum Ss.mus Dominus Noster Pius PP. XII, in audientia die 16 Iulii a. 1939 infrascripto Rev.mo Consultori ab Actis benigne concessa, ratum habuit et publici iuris fieri mandavit.*
 
 Iacobus M. Vosté, O.P. *Consultor ab Actis.*
-
-[](#top)

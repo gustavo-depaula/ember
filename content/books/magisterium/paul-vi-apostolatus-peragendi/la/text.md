@@ -46,11 +46,11 @@ Consultores coetum seu, ut aiunt, «Consultam» constituunt, cuius est altius ex
 *Competentia* Pontificii Consilii pro Laicis complectitur apostolatum laicorum in Ecclesia ac disciplinam laicorum qua talium. Particulatim munera huius Pontificii Consilii sunt:
 
 > **1.** excitare laicos, ut vitam et missionem Ecclesiae participent sive, ac quidem potissimum, ut sodales consociationum, quibus apostolatus est propositus, sive ut singuli Christifideles;
->
+
 > **2.** attendere, dirigere et, si opus est, promovere incepta, quae ad apostolatum laicorum attinent, in variis vitae socialis provinciis, ratione habita competentiae, in his rebus, aliorum Romanae Curiae Dicasteriorum ministeriorumque;
->
+
 > **3.** ea omnia pertractare, quae spectant ad:
->
+
 > > – coetus laicorum de apostolatu agentium in ambitu sive internazionali sive nationali, salva *competentia* Secretariae Status seu Papalis;
 > >
 > > – consociationes catholicas, apostolatum atque spiritualem vitam et navitatem laicorum promoventes, firmo iure Sacrae Congregationis pro Gentium Evangelizatione circa consociationes *exclusive* cooperationem missionalem foventes;
@@ -60,11 +60,11 @@ Consultores coetum seu, ut aiunt, «Consultam» constituunt, cuius est altius ex
 > > – Tertios ordines saeculares in iis tantum rebus, quae ad eorum operositatem apostolicam pertinent, firma proinde *competentia* Satrae Congregationis pro Religiosis et Institutis Saecularibus quoad cetera;
 > >
 > > – consociationes clericis et laicis communes, salva *competentia* Sacrae Congregationis pro Clericis quoad observantiam legum generalium Ecclesiae (cfr. normas Signaturae Apostolicae);
->
+
 > **4.** proprio quidem inceptu fovere actuosam participationem laicorum spectantem ad rem catechisticam, liturgicam, sacramentalem, institutoriam hisque similem, operam sociando in his cum variis Romanae Curiae Dicasteriis, quae in iisdem causis versantur;
->
+
 > **5.** curare, ut leges ecclesiasticae laicos respicientes sancte serventur, atque via administrativa controversias cognoscere ad laicos spectantes;
->
+
 > **6.** concordi ratione cum Sacra Congregatione pro Clericis ea omnia accurare, quae ad Consilia pastoralia, gradus sive paroecialis sive dioecesani, pertinent, ita ut laici adducantur ad participandam rem pastoralem apto nexu compositam seu globalem.
 
 **VII.**

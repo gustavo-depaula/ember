@@ -1,13 +1,5 @@
 # Decisioni in merito alla traduzione dell'articolo «Carnis resurrectionem» del Simbolo Apostolico, 14 dicembre 1983
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

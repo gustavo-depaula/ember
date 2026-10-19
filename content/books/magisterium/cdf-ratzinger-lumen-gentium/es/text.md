@@ -1,9 +1,5 @@
 # Eclesiología de la Lumen gentium, conferencia Ratzinger, febrero 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***CONFERENCIA DEL CARDENAL JOSEPH RATZINGER SOBRE LA ECLESIOLOGÍA DE LA "LUMEN GENTIUM" PRONUNCIADA EN EL CONGRESO INTERNACIONAL SOBRE LA APLICACIÓN DEL CONCILIO VATICANO II, ORGANIZADO POR EL COMITÉ PARA EL GRAN JUBILEO DEL AÑO 2000***
 
 En el tiempo de la preparación del concilio Vaticano II y también durante el Concilio mismo, el cardenal Frings me relató a menudo un episodio sencillo, que evidentemente le había impresionado profundamente. El Papa Juan XXIII no había fijado ningún tema concreto para el Concilio, pero había invitado a los obispos del mundo entero a proponer sus prioridades, de forma que de las experiencias vivas de la Iglesia universal brotara la temática de la que se debía ocupar el Concilio.  
@@ -144,5 +140,3 @@ La visión mariana de la Iglesia y la visión eclesial, histórico-salvífica, d
 Para ofrecer una muestra de la teología de los santos Padres, quisiera proponer, como conclusión, un texto de san Ambrosio, elegido por Hugo Rahner:  "Así pues, estad firmes en el terreno de vuestro corazón. El Apóstol nos explica lo que significa estar; Moisés lo escribió:  "el lugar en el que estás es tierra santa". Nadie está, si no es quien está firme en la fe... y también está escrito:  "Pero tú está firme conmigo". Tú estarás firme conmigo si estás en la Iglesia. La Iglesia es la tierra santa sobre la que debemos estar.... Por tanto, está firme, está en la Iglesia. Está firme donde quiero aparecerme a ti, allí estaré junto a ti. Donde está la Iglesia, allí es el lugar firme de tu corazón. Sobre la Iglesia se apoyan los cimientos de tu alma. En efecto, en la Iglesia yo me he aparecido a ti, como lo hice en otro tiempo en la zarza ardiente. La zarza eres tú, yo soy el fuego. Fuego en la zarza yo soy en tu carne. Fuego yo soy, para iluminarte; para quemar las espinas de tus pecados, para darte el favor de mi gracia".  
 
 **Card. JOSEPH RATZINGER ** *Prefecto de la Congregación para la Doctrina de la Fe*
-
-[](#top)

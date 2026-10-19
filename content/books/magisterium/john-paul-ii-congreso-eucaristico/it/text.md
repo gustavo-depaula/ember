@@ -49,5 +49,3 @@ Mentre mi sento unito a voi in questi giorni di grazia, imparto di cuore a tutti
 *Dal Vaticano, 13 maggio, Solennità dell'Ascensione del Signore, dell'anno 1999.*
 
 **GIOVANNI PAOLO II**
-
-** **

@@ -965,5 +965,3 @@ Mater sacerdotum.
 Amen!
 
 *Datum Romae, apud S. Petrum, die XXV mensis Martii, in sollemnitate Annuntiationis Domini, anno MCMXCII, Pontificatus Nostri quarto decimo.*
-
-* *

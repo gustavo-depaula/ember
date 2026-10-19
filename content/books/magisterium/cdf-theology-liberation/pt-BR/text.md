@@ -1,9 +1,5 @@
 # Instrução sobre alguns aspectos da 'Teologia da Libertação', 6 de agosto de 1984
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***INSTRUÇÃO SOBRE ALGUNS ASPECTOS DA « TEOLOGIA DA LIBERTAÇÃO »***
@@ -301,8 +297,6 @@ As palavras de [Paulo VI](/holy_father/paul_vi/index_po.htm), na *Profissão de 
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Cf. *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html)*, n. 4.
 

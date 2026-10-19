@@ -1,9 +1,5 @@
 # Il monoteismo cristiano contro la violenza. Dio Trinità, unità degli uomini
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSIONE TEOLOGICA INTERNAZIONALE
 
 **Dio Trinità, unità degli uomini**
@@ -13,8 +9,6 @@ COMMISSIONE TEOLOGICA INTERNAZIONALE
 **Il monoteismo cristiano contro la violenza**
 
 *Indice Generale*
-
-** **
 
 [Nota preliminare](#NOTA_PRELIMINARE)
 
@@ -341,8 +335,6 @@ Nella linea del modello messo a punto da san Tommaso, la filosofia può accedere
 100\. La confessione della fede di fronte all’ateismo militante e alla violenza religiosa viene oggi condotta dallo Spirito sulla frontiera profetica di un nuovo ciclo religioso e umano dei popoli. L’icona ecclesiale deve suscitare, dal canto suo, l’immagine di una *religio* che si è definitivamente congedata – in anticipo sulla storia che deve seguire – da ogni strumentale sovrapposizione della sovranità politica e della Signoria di Dio. Questo congedo può e deve essere vissuto da tutte le comunità cristiane dell’epoca presente, come avvento del tempo stabilito dal Signore per la maturazione del seme evangelico. La perfetta comunione con l’intimità della vita di Dio, “asciugata ogni lacrima”, sarà semplicemente la dimora dell’uomo (*Ap* 21, 3-4). Il tempo della persecuzione deve essere sostenuto, nell’attesa della conversione sperata per tutti. Di questa pazienza, di questa sopportazione, di questa tenacia dei “santi” nel portare la tribolazione dell’attesa, noi siamo in debito di riconoscenza verso molti fratelli e sorelle perseguitati per la loro appartenenza cristiana. Noi onoriamo la loro testimonianza come la risposta decisiva alla domanda sul senso della missione cristiana in favore di tutti. L’epoca di una nuova evidenza a riguardo del rapporto fra religione e violenza fra gli uomini è aperta dal loro coraggio. Dovremo sapercelo meritare. Dell’avvento di questa nuova epoca, e dei frutti dello Spirito che ne devono seguire, la Madre del Signore deve essere considerata l’insostituibile custode. La coscienza e l’invocazione della sua speciale intercessione, dovrà essere un tema speciale della nostra conversione e della nostra preghiera. E un punto di forza, per la comunicazione e l’assimilazione gioiosa di questo orizzonte della promessa fra gli uomini e le donne del nostro tempo, per “dirigere i nostri passi sulla via della pace” (*Lc* 1, 79).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Concilio Vaticano I (1869-1870), Costituzione dogmatica *Dei Filius*, cap. 2 (DH 3004):“\[…\] Ecclesia tenet et docet, Deum, rerum omnium principium et finem, naturali humanae rationis lumine e rebus creatis certo cognosci posse”.
 

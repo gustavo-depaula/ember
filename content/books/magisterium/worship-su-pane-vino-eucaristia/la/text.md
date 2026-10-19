@@ -1,15 +1,5 @@
 # Epistula ad Episcopos de pane et vino ad Eucharistiam destinatis - Congregatio de Cultu Divino et Disciplina Sacramentorum
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
@@ -29,15 +19,15 @@ Ordinarii praeterea est instituere et adhortari ad maximam normarum observantiam
 3\. Ad materiam eucharisticam quod attinet, normae vero, in can. 924 CIC et sub nn. 319-323 *Institutionis generalis Missalis Romani* praescriptae, iam illustratae sunt in Instructione huius Congregationis cui titulus est *[Redemptionis Sacramentum](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_lt.html)* (25 martii 2004):
 
 > a\) “Panis, qui in sacrosancti eucharistici Sacrificii celebratione adhibetur, debet esse azymus, mere triticeus et recenter confectus, ita ut nullum sit periculum corruptionis. Ideo consequitur panem ex alia substantia etiam cereali conflatum, vel illum cui tanta sit admixta quantitas materiae a tritico diversae, ut, iuxta communem aestimationem, tritici panem esse dici nequeat, materiam validam pro conficiendo Sacrificio et Sacramento eucharistico haud constituere.Gravis est abusus alias substantias, ut sunt fructus vel saccharum vel mel, in panem ad Eucharistiam conficiendum introducere. Patet hostias conficiendas esse ab iis, qui non solum honestate praestent, sed etiam ipsis conficiendis sint experti, idoneisque instrumentis instructi” ([n. 48](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_lt.html#Caput%20III)).
->
+
 > b\) “Vinum, quod in sacrosancti eucharistici Sacrificii celebratione adhibetur, debet esse naturale, de genimine vitis, merum et non corruptum, extraneis substantiis non admixtum. \[…\] Sedula cura caveatur ut vinum ad Eucharistiam destinatum perfecto statu conservetur nec acescat. Omnino vetitum est vinum adhiberi, de cuius genuitate et provenientia dubium occurrat: nam Ecclesiae circa condiciones necessarias pro sacramentorum validitate certitudinem exigit. Nec admittatur ullum praetextum in favorem aliorum potuum cuiusvis generis, qui materiam validam non constituunt” ([n. 50](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_lt.html#Caput%20III)).
 
 4\. Congregatio pro Doctrina Fidei, in *Epistula ad Praesides Conferentiarum Episcoporum dimissa de pane minimam glutinis mensuram habente atque musto adhibendis ad instar materiae eucharisticae* (24 iulii 2003, Prot. N. 89/78 – 17498), normas patefecit circa eos qui, variis gravibusque causis occurrentibus, panem ex consuetudine confectum aut vinum ex consuetudine fermentatum sumere nequeunt:
 
 > a\) “Hostiae *plane* glutine carentes sunt materia invalida pro Eucharistia. Validae autem sunt hostiae *ex parte* glutine carentes, quorum mensura glutinis satis est ad panificium obtinendum, nulla extranea substantia addita vel actionibus adhibitis quae panis naturam mutare possint” (A. 1-2).
->
+
 > b\) “Mustum, id est sucus uvae, et novum et servatum, fermentatione intermissa per actiones quae naturam eius non corrumpunt (exempli gratia congelatio), materia valida est pro Eucharistia” (A. 3).
->
+
 > c\) “Ordinariis cura est concedere licentiam adhibendi panem ex parte glutine carentem vel mustum ad instar materiae eucharisticae pro singulo fidele presbyterove. Licentia igitur plerumque concedi potest, donec vero peculiaria adiuncta, quae concessionem genuerunt, permaneant” (C. 1).
 
 5\. Eadem Congregatio porro decrevit materiam eucharisticam ex organismis genetice mutatis confectam validam existimari posse (cf. Epistula Praefecto Congregationis de Cultu Divino et Disciplina Sacramentorum dimissa, 9 decembris 2013, Prot. N. 89/78 – 44897).

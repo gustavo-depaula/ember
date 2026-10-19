@@ -1,9 +1,5 @@
 # INFORMACJA O KSIĄŻCE O. ANDRÉ GUINDONA, O.M.I., THE SEXUAL CREATORS. AN ETHICAL PROPOSAL FOR CONCERNED CHRISTIANS
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **INFORMACJA O KSIĄŻCE O. ANDRÉ GUINDONA, O.M.I., *THE SEXUAL CREATORS. AN ETHICAL PROPOSAL FOR CONCERNED CHRISTIANS***
@@ -97,5 +93,3 @@ W trosce o duchowe dobro wiernych Kongregacji Nauki Wiary zostało powierzone za
 Kongregacja domaga się także, by autor publicznie potwierdził i wyjaśnił znaczenie trzech ważnych stwierdzeń, wyrażonych prywatnie w jego liście do przełożonego generalnego (z 15 sierpnia 1990 r.), a mianowicie: 1) że pisząc książkę *The Sexual Creators* starał się być wierny dziedzictwu katolickiej tradycji w dziedzinie moralności seksualnej; 2) że w żadnym fragmencie swojej książki nie zamierzał negować autorytetu Urzędu Nauczycielskiego w dziedzinie etyki katolickiej; 3) że nie przeciwstawia się niezmiennemu nauczaniu Kościoła, potwierdzonemu ostatnio w Deklaracji *Persona humana*, zgodnie z którym współżycie płciowe jest godziwe jedynie w prawdziwym małżeństwie.
 
 Kongregacja prosi również, by o. Guindon w publicznym oświadczeniu rozwiązał ukazaną w niniejszej *Informacji* sprzeczność między wypowiedziami zawartymi w jego liście do przełożonego generalnego a tekstem książki *The Sexual Creators*, przedstawiając w sposób bardziej spójny swoje poglądy, eliminując niekonsekwencje w książce *The Sexual Creators* (takie jak wybiórcze i dowolne odwoływanie się do Tradycji i Urzędu Nauczycielskiego) oraz przyznając nauczaniu Urzędu Nauczycielskiego należne mu miejsce i autorytet.
-
-[](#top)

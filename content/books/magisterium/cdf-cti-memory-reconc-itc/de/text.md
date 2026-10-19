@@ -1,13 +1,5 @@
 # Erinnern und Versöhnen / Internationale Theologische Kommission
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **INTERNATIONALE THEOLOGISCHE KOMMISSION**

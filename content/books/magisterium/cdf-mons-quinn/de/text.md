@@ -1,13 +1,5 @@
 # Schreiben an Erzbischof JOHN R. QUINN,Präsident der amerikanischen Bischofskonferenz,mit einigen »Bemerkungen« zu dem Buch «HUMAN SEXUALITY», einer Studie im Auftrag der »CATHOLIC THEOLOGICAL SOCIETY OF AMERICA«, herausgegeben von ANTHONY KOSNIKk» - Kongregation für die Glaubenslehre
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HL. KONGREGATION FÜR DIE GLAUBENSLEHRE

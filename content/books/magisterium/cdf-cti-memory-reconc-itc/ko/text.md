@@ -1,13 +1,5 @@
 # Memoria e riconciliazione: la Chiesa e le colpe del passato
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSIONE TEOLOGICA INTERNAZIONALE
@@ -27,57 +19,57 @@ COMMISSIONE TEOLOGICA INTERNAZIONALE
 제1장 문제: 어제와 오늘
 
 > 1.1 제2차 바티칸 공의회 이전
->
+
 > 1.2 공의회의 가르침
->
+
 > 1.3 교황 요한 바오로 2세 성하의 용서 요청
->
+
 > 1.4 제기된 문제들            
 
 제2장 성서적 접근
 
 > 2.1 구약성서
->
+
 > 2.2 신약성서
->
+
 > 2.3 성서의 희년 
->
+
 > 2.4 결 론
 
 제3장 신학적 토대
 
 > 3.1 교회의 신비 
->
+
 > 3.2 교회의 거룩함
->
+
 > 3.3 지속적 쇄신의 필요성
->
+
 > 3.4 교회의 모성 
 
 제4장 역사적 판단과 신학적 판단
 
 > 4.1 역사에 대한 해석
->
+
 > 4.2 역사적 연구와 신학적 평가
 
 제5장 도덕적 식별
 
 > 5.1 몇 가지 도덕적 기준들
->
+
 > 5.2 그리스도인의 분열
->
+
 > 5.3 진리를 위한 폭력의 행사
->
+
 > 5.4 그리스도인과 유다인
->
+
 > 5.5 오늘날의 죄악에 대한 우리의 책임
 
 제6장 사목적 선교적 관점
 
 > 6.1 사목적 목적
->
+
 > 6.2 교회에 미치는 영향
->
+
 > 6.3 대화와 선교에 미치는 영향
 
 결론

@@ -34,15 +34,15 @@ Así, pues, para el futuro, abrogadas todas las leyes de cualquier orden que ata
 2\) En estas investigaciones el obispo debe proceder conforme a las normas peculiares emanadas de la Sagrada Congregación para las Causas de los Santos, según el orden siguiente:
 
 > 1º El postulador de la causa, nombrado legítimamente por el actor, recogerá una detallada información sobre la vida del Siervo de Dios, y se informará al mismo tiempo sobre las razones que parecen favorecer la promoción de la causa de canonización.
->
+
 > 2º Procure el obispo que sean examinados por censores teólogos los escritos publicados por el Siervo de Dios.
->
+
 > 3º Si no se encontrara en dichos escritos nada contrario a la fe y a las buenas costumbres, ordene el obispo a personas idóneas para este cometido examinar los demás escritos inéditos (cartas, diarios, etc.) y todos los documentos que de alguna manera hagan referencia a la causa. Estas personas, después de haber realizado fielmente su trabajo, hagan una relación de las investigaciones llevadas a cabo.
->
+
 > 4º Si con lo hecho según las normas anteriores, el obispo juzga prudente que se puede seguir adelante, procure que se interroguen los testigos presentados por el postulador y otros debidamente convocados por oficio. Si urge realmente el examen de los testigos para no perder pruebas, interróguese a los mismos aunque no se haga realizado una investigación completa de los documentos.
->
+
 > 5º Hágase por separado el examen de los milagros atribuidos y el examen de las virtudes o del martirio.
->
+
 > 6º Una vez realizadas las investigaciones, envíese la relación de todas las actas por duplicada a la Sagrada Congregación, junto con un ejemplar de los libros del Siervo de Dios examinados por los censores teólogos, y con su juicio.  Añada además el obispo una declaración sobre la observancia de los decretos de Urbano VIII en relación al no culto.
 
 **II LA SAGRADA CONGREGACIÓN PARA LAS CAUSAS DE LOS SANTOS**
@@ -66,9 +66,9 @@ Compete a la misma Congregación discernir lo referente a la autenticidad y cons
 7\) Es tarea de cada uno de los relatores:
 
 > 1º Estudiar juntamente con los colaboradores externos las causas a ellos encomendadas y preparar las ponencias sobre las virtudes o sobre el martirio.
->
+
 > 2º Elaborar por escrito las interpretaciones históricas, si fueran requeridas por los consultores.
->
+
 > 3º Asistir como expertos pero sin voto, a la reunión de teólogos.
 
 8\) Entre los relatores habrá uno especialmente encargado de elaborar las ponencias sobre los milagros; para ello asistirá al Consejo de los médicos y al Congreso de los teólogos.
@@ -78,9 +78,9 @@ Compete a la misma Congregación discernir lo referente a la autenticidad y cons
 10\) En la Sagrada Congregación hay un promotor de la fe o prelado teólogo, cuya tarea es:
 
 > 1º Presidir el Congreso de los teólogos, en el que tiene voto.
->
+
 > 2º Preparar una relación de dicha reunión.
->
+
 > 3º Asistir a la Congregación de los padres cardenales y obispos como experto, pero sin voto.
 
 En alguna causa, si fuere necesario, el cardenal Prefecto puede nombrar un promotor de la fe para el caso.
@@ -94,21 +94,21 @@ En alguna causa, si fuere necesario, el cardenal Prefecto puede nombrar un promo
 13\) Cuando el obispo haya enviado a Roma todas las actas y documentos referentes a la causa, la Sagrada Congregación para las Causas de los Santos procederá así:
 
 > 1º El subsecretario examina ante todo si en las investigaciones realizadas por el obispo ha sido observado todo lo establecido por la ley e informa del resultado del examen en Congreso ordinario.
->
+
 > 2º Determínese a qué relator ha de ser confiada la causa, si en dicho Congreso se juzgare que dicha causa ha sido instruida conforme a las normas de la ley; el relator junto con un colaborador externo, elabore la ponencia sobre las virtudes o sobre el martirio según las reglas de la crítica que se observan en hagiografía.
->
+
 > 3º Tanto en las causas antiguas como en las recientes, cuando el carácter especial de las mismas lo requieran a juicio del relator general, la ponencia será sometida al examen de los consultores especialmente peritos en la materia para que emitan su juicio sobre el valor científico y juzguen si resulta suficiente en orden a lo que se trata.
->
+
 > En casos particulares la Sagrada Congregación puede confiar el examen de la ponencia a otros peritos, no incluidos en el número de los consultores.
->
+
 > 4º Entréguese la ponencia (junto con los votos escritos de los consultores históricos y con las nuevas explicaciones del relator, si fueren necesarias) a los consultores teólogos, que darán su juicio sobre la causa; a ellos corresponde, junto con el promotor de la fe, estudiar la causa de modo que, antes de que llegue a la discusión en el Congreso especial, se examinen más profundamente las cuestiones teológicas discutidas, si las hubiere.
->
+
 > 5º Los juicios definitivos de los consultores teólogos, junto con las conclusiones del promotor de la fe, se entregarán a los cardenales y obispos para que emitan su juicio.
 
 14\) Sobre los milagros presentados, la Congregación procede así:
 
 > 1º Los milagros atribuidos sobre los que el relator encargado elabora una ponencia, se examinan en una reunión de peritos (si se trata de curaciones, en el Consejo de médicos), cuyos juicios y conclusiones se exponen en una relación detallada.
->
+
 > 2º Los milagros han de ser discutidos después en un Congreso especial de los teólogos, y por fin en la Congregación de los padres cardenales y obispos.
 
 15\) Los juicios de los padres cardenales y obispos se comunican al Sumo Pontífice, a quien únicamente compete el derecho de decretar el culto público eclesiástico que se ha de tributar a los Siervos de Dios.

@@ -1,9 +1,5 @@
 # Presentazione della Lettera Apostolica Misericordia Dei - Em.mo Card. Joseph Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **PRESENTAZIONE DELLA LETTERA APOSTOLICA IN FORMA DI "MOTU PROPRIO" *MISERICORDIA DEI* SU ALCUNI ASPETTI DELLA CELEBRAZIONE DEL SACRAMENTO DELLA PENITENZA**
@@ -29,5 +25,3 @@ Questo carattere sacramentale-giuridico del sacramento ha due importanti implica
 Non è dunque nel potere della Chiesa sostituire la confessione personale con l'assoluzione generale: questo ci ricorda il Papa nel nuovo *[Motu proprio](/holy_father/john_paul_ii/motu_proprio/documents/hf_jp-ii_motu-proprio_20020502_misericordia-dei_it.html)*, che è così espressione della coscienza della Chiesa a riguardo dei limiti del suo potere - esprime il legame con la parola del Signore, che obbliga anche il Papa. Solo nella situazione di necessità, nella quale la salvezza ultima dell'uomo è in gioco, l'assoluzione può essere anticipata e la confessione rimandata ad un momento, in cui per questo sarà data la possibilità: questo è il vero senso di ciò che in modo piuttosto oscuro viene reso con la parola assoluzione collettiva. Qui è ora nondimeno compito della Chiesa definire quando si è in presenza di una tale situazione di necessità. Dopo che negli ultimi decenni - come già accennato - si erano diffuse interpretazioni estensive per molti motivi insostenibili del concetto di necessità, il Papa in questo documento dà precise determinazioni, che devono essere applicate nei particolari da parte dei Vescovi.
 
 E' allora questo un testo, che pone nuovi pesi sulle spalle dei cristiani? E' proprio il contrario: il carattere totalmente personale dell'esistenza cristiana viene difeso. Certamente, la confessione della propria colpa può apparire spesso pesante alla persona, perché umilia il suo orgoglio e lo confronta con la sua povertà. Ma è proprio di questo che abbiamo bisogno; proprio di questo soffriamo, che ci rinchiudiamo nel nostro delirio di incolpevolezza e così ci chiudiamo anche davanti agli altri e nei confronti degli altri. Nelle cure psicoterapeutiche si esige dalle persone di portare il peso di profonde e spesso pericolose rivelazioni circa la loro interiorità. Nel sacramento della Penitenza si depone con fiducia nella bontà misericordiosa di Dio la semplice confessione della propria colpa. E' importante fare questo senza cadere nello scrupulo, nello spirito di confidenza proprio dei figli di Dio. Così la confessione può divenire un'esperienza di liberazione, nella quale il peso del passato ci abbandona e noi possiamo sentirci ringiovaniti per merito della grazia di Dio, che ci ridona ogni volta la giovinezza del cuore.
-
-[](#top)

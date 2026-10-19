@@ -1,9 +1,5 @@
 # LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ASPEKTACH KOŚCIOŁA POJĘTEGO JAKO KOMUNIA
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary** 
 
 **LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ASPEKTACH KOŚCIOŁA POJĘTEGO JAKO KOMUNIA**
@@ -273,5 +269,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 28 maja 1992 r.
 82\. ŚW. CHROMACJUSZ Z AKWILEI, Sermo 30, 1: SCh 164, 134. Por. PAWEŁ VI, Adhort. Apost. Marialis cultus (2 lutego 1974), 28: AAS 66 (1974) 141.
 
 83\. Por. SOB. WAT. II, Konst. Lumen gentium, 69.
-
-[](#top)

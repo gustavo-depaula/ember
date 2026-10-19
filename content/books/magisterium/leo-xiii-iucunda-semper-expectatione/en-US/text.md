@@ -33,5 +33,3 @@ It is always with joyful expectation and inspired hope that We look forward to t
 *Given in Rome at St. Peter's, on September 8, 1894, in the seventeenth year of our Pontificate.*
 
 **LEO XIII**
-
-*     *

@@ -1,15 +1,5 @@
 # Nota de apresentação do decreto Cum sanctissima,sobre a celebração litúrgica em honra dos santos na forma extraordinária do Rito Romano
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 137/2009S – ED

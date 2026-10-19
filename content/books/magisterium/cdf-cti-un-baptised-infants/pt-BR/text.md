@@ -1,9 +1,5 @@
 # A esperança da salvação para as crianças que morrem sem batismo, Comissão Teológica Internacional
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMISSÃO TEOLÓGICA INTERNACIONAL
 
 ***A ESPERANÇA DA SALVAÇÃO PARA AS CRIANÇAS QUE MORREM SEM BATISMO***
@@ -324,8 +320,6 @@ V\) a Igreja deve fazer “orações, súplicas e ações de graças por todos o
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Os textos bíblicos são extraídos da *Bíblia de Jerusalém*. São Paulo: Paulinas, 1985.
 

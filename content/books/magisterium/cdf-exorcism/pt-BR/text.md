@@ -1,9 +1,5 @@
 # Instrução sobre o Exorcismo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 *** INSTRUÇÃO SOBRE O EXORCISMO***
@@ -28,5 +24,3 @@ Aproveito o ensejo para exprimir a Vossa Excelência meus sentimentos de estima,
 
 *Joseph Card. Ratzinger*  
 ***Prefeito***
-
-[](#top)

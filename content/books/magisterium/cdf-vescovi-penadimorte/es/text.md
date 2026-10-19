@@ -1,15 +1,5 @@
 # Carta a los Obispos acerca de la nueva redacción del n. 2267 del Catecismo de la Iglesia Católica sobre la pena de muerte
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE

@@ -1,9 +1,5 @@
 # Le versioni della Sacra Scrittura nelle lingue vive - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **LE VERSIONI DELLA SACRA SCRITTURA NELLE LINGUE VIVE**
@@ -24,5 +20,3 @@ nel rispetto delle norme da seguire:
 
 Jacques M. Vosté, O.P.  
 *Segretario consultore*
-
-[](#top)

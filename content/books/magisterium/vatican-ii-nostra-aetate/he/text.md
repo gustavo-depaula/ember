@@ -1,15 +1,5 @@
 # Nostra aetate
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **הצהרה בדבר יחס הכנסייה לדתות לא-נוצריות "בזמננו" ניתנה על ידי הוד קדושתו האפיפיור פאולוס השישי ב-28 באוקטובר 1965**

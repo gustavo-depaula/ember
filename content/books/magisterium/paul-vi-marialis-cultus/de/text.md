@@ -472,5 +472,3 @@ Indem Wir dem Wunsche Ausdruck geben, daß sich dank eures hochherzigen Einsatze
 124\) Pastoralkonstitution über die Kirche in der Welt von heute ”*Gaudium et Spes*” (*GS*) Nr. 22: *AAS* 58 (1966), S. 1042-1044.
 
 125\) Vgl. *RM* am 31. Mai, Tagesgebet.
-
-* *

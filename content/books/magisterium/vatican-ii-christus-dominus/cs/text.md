@@ -1,15 +1,5 @@
 # Christus dominus
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Dekret   
@@ -337,8 +327,6 @@ Biskupové nebo biskupské konference, řeholní představení nebo konference v
 **SPOLUPRÁCE BISKUPŮ PRO SPOLEČNÉ DOBRO NĚKOLIKA DIECÉZÍ**
 
 ***I Synody, koncily a zvláště biskupské konference***
-
-** **
 
 **SYNODY A MÍSTNÍ KONCILY**
 

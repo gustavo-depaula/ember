@@ -1,9 +1,5 @@
 # Nota con indicazioni pastorali per l’Anno della fede, 6 gennaio 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***Nota con indicazioni pastorali per l’Anno della fede***
@@ -135,8 +131,6 @@ Roma, dalla Sede della Congregazione per la Dottrina della Fede, il 6 gennaio 20
 **  + Luis F. Ladaria, S.I.** *Arcivescovo titolare di Thibica Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: [Benedetto XVI](/holy_father/benedict_xvi/index_it.htm), Lett. enc. *[Deus caritas est](/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_it.html)*, 25 dicembre 2005, n. 1.
 

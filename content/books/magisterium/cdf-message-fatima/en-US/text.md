@@ -2,10 +2,6 @@
 
 The Message of Fatima
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION   
 FOR THE DOCTRINE OF THE FAITH   
 
@@ -114,8 +110,6 @@ The action of God, the Lord of history, and the co-responsibility of man in the 
 Our Lady, who appeared at Fatima, recalls these forgotten values. She reminds us that man's future is in God, and that we are active and responsible partners in creating that future. 
 
 **Tarcisio Bertone, SDB** *Archbishop Emeritus of Vercelli Secretary of the Congregation for the Doctrine of the Faith *
-
-*  *    
 
 THE «SECRET»‌ OF FATIMA     
 
@@ -296,8 +290,6 @@ I would like finally to mention another key expression of the «secret»‌ whic
 
 **JosephCard. Ratzinger** *Prefect of the Congregation for the Doctrine of the Faith *
 
-*  *
-
 ------------------------------------------------------------------------
 
 \(1\) From the diary of John XXIII, 17 August 1959: «Audiences: Father Philippe, Commissary of the Holy Office, who brought me the letter containing the third part of the secrets of Fatima. I intend to read it with my Confessor»‌.   
@@ -315,7 +307,3 @@ I would like finally to mention another key expression of the «secret»‌ whic
 \(7\) In the «Fourth Memoir»‌ Sister Lucia adds: «In Portugal, the dogma of the faith will always be preserved, etc. ...»‌.   
 
 \(8\) In the translation, the original text has been respected, even as regards the imprecise punctuation, which nevertheless does not impede an understanding of what the visionary wished to say. *  *
-
-*  *
-
-[](#top)

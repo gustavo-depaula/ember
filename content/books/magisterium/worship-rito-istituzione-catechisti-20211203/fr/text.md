@@ -1,15 +1,5 @@
 # Lettre aux Présidents des Conférences des Évêques sur le Rite d’institution des Catéchistes
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Congrégation pour le Culte Divin et la Discipline des Sacrements

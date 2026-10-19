@@ -465,8 +465,6 @@ Que tout ce que j’ai décidé par la présente Constitution Apostolique soit o
 
 **APPENDICE I**
 
-** **
-
 **Préambule de la Constitution Apostolique *Sapientia christiana* (1979)**
 
 **I**
@@ -558,8 +556,6 @@ DE LA CONSTITUTION APOSTOLIQUE
 La [Congrégation pour l’Éducation Catholique](http://www.vatican.va/roman_curia/congregations/ccatheduc/index_fr.htm), conformément à l’article 10 de la Constitution Apostolique *[Sapientia christiana](https://w2.vatican.va/content/john-paul-ii/fr/apost_constitutions/documents/hf_jp-ii_apc_15041979_sapientia-christiana.html)*, promulgue les Ordonnances suivantes à l’intention des Universités et Facultés ecclésiastiques, et prescrit de les observer fidèlement.
 
 **PREMIÈRE PARTIE**
-
-** **
 
 **NORMES COMMUNES**
 
@@ -828,8 +824,6 @@ Art. 52. § 1. Il faut favoriser la collaboration entre les Facultés ecclésias
 
 **DEUXIÈME PARTIE**
 
-** **
-
 **NORMES SPÉCIALES**
 
 **Titre I La Faculté de Théologie** (*Const. Apost.,* art. 69-76)
@@ -1047,19 +1041,13 @@ Sa Sainteté le Pape François a approuvé et ordonné de publier toutes et chac
 
 *Rome, au siège de la Congrégation pour l’Éducation Catholique, le 27 décembre 2017, en la fête de saint Jean, Apôtre et Évangéliste.*
 
-** **
-
 **Giuseppe Cardinal VERSALDI**  
 *Préfet*
-
-** **
 
 **Angelo Vincenzo ZANI**  
 *Archevêque titulaire de Volturno Secrétaire*
 
 ------------------------------------------------------------------------
-
-** **
 
 **APPENDICE I**
 
@@ -1087,8 +1075,6 @@ Compte tenu de ce qui est dit dans la Constitution et dans les Ordonnances annex
 
 9\. *Les relations avec les autres Facultés, Instituts*, etc.
 
-** **
-
 **Programme d’études**
 
 1\. Comment sont organisées les études dans chaque Faculté.
@@ -1104,8 +1090,6 @@ Compte tenu de ce qui est dit dans la Constitution et dans les Ordonnances annex
 6\. Éventuelle modalité à distance.
 
 **APPENDICE II relatif à l’article 70 des Ordonnances Secteurs des études ecclésiastiques selon l’organisation académique actuellement en vigueur dans l’Église (année 2020)**
-
-** **
 
 **LISTE**
 

@@ -1,9 +1,5 @@
 # Complementary Norms for the Apostolic Constitution Anglicanorum coetibus
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **Complementary Norms for the Apostolic Constitution *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_en.html)***
@@ -159,7 +155,5 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, Novemb
 **Luis. F. Ladaria, S.I.** *Titular Archbishop of Thibica Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: This paragraph was added to the text of the Complementary Norms according to a decision of the Ordinary Session held on 29 May 2013, approved by Pope Francis on 31 May 2013.

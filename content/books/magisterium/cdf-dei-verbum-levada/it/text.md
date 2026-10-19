@@ -1,9 +1,5 @@
 # Dei Verbum – quarant’anni dopo - S.Em. Card. William Joseph Levada, 10 ottobre 2005
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 *Dei Verbum – quarant’anni dopo*
 
 *Pontificio Ateneo S. Anselmo Lunedì, 10 ottobre 2005*
@@ -81,5 +77,3 @@ Arcivescovo emerito di San Francisco
 Prefetto della Congregazione per la Dottrina della Fede  
 
 *Traduzione dall’inglese a cura di M. Benedetta Zorzi, osb.*
-
-[](#top)

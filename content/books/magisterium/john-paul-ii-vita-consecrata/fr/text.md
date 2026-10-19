@@ -996,5 +996,3 @@ Tandis qu'il entre dans le nouveau millénaire, puisse notre monde, remis aux ma
 Nous te le demandons, pour qu'en tous et en tout soit glorifié, béni et aimé le Seigneur suprême de toutes choses, qui est Père, Fils et Esprit Saint.
 
 *Donné à Rome, près de Saint-Pierre, le 25 mars 1996, solennité de l'Annonciation du Seigneur, en la dix-huitième année de mon pontificat.*
-
-* *

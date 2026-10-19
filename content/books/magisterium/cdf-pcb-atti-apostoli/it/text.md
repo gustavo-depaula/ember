@@ -1,9 +1,5 @@
 # Autore, tempo di composizione e verità storica del libro degli Atti degli Apostoli - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **AUTORE, TEMPO DI COMPOSIZIONE E VERITÀ STORICA DEL LIBRO DEGLI ATTI DEGLI APOSTOLI**
@@ -37,5 +33,3 @@ Risposta: No.
 *Il giorno 12 giugno 1913, nell'udienza benignamente concessa al Reverendissimo Segretario consultore il nostro Santo Padre Pio Pp. X ha ratificato le suddette risposte e ha comandato di pubblicarle.*
 
 Laurentius Janssens, O.S.B. *Segretario consultore*
-
-[](#top)

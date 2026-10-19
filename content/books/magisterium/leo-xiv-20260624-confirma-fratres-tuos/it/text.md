@@ -48,8 +48,6 @@ COSTITUZIONE APOSTOLICA
 CIRCA L’ORDINAMENTO  
 DEL VICARIATO DI ROMA
 
-** **
-
 **Proemio**
 
 1\. Nella comunione delle Chiese, alla Chiesa di Roma è affidata la particolare responsabilità di accogliere la fede e la carità di Cristo trasmesse dagli Apostoli e di testimoniarle in modo esemplare. È quindi primaria preoccupazione del suo Vescovo provvedere a quanto è necessario perché questa Chiesa corrisponda a ciò che le dice lo Spirito del Signore Gesù Cristo (cfr Ap 3,22).
@@ -99,8 +97,6 @@ Particolare impegno deve riversarsi nell’accoglienza dei tanti rifugiati e mig
 15\. Poiché ad ogni ufficio nel popolo di Dio sono collegati comportamenti e impegni corrispondenti alla sua natura, nel disporre questa nuova Costituzione per il Vicariato, di fronte a un «cambiamento epocale» [^27] che tutto e tutti coinvolge, auspico che esso sia principalmente un luogo esemplare di comunione, dialogo e prossimità, accogliente e trasparente a servizio del rinnovamento e della crescita pastorale della Diocesi di Roma, comunità evangelizzatrice, Chiesa sinodale, popolo testimone credibile della misericordia di Dio. E chiedo a quanti ne fanno parte che, nell’adempimento della loro missione, facciano proprio lo sguardo di Gesù (cfr *Lc* 19, 5), che insegna a guardare dal basso. Lui che «si è abbassato fino a lavarci i piedi», riassumendo così «l’intera storia della salvezza». [^28]
 
 A questo scopo si dovranno osservare i principi e le norme qui di seguito riportati che sostituiscono quelli finora vigenti, derogando per quanto necessario a tutte le disposizioni generali e particolari di documenti antecedenti.
-
-** **
 
 **Titolo I**
 
@@ -204,8 +200,6 @@ L’Ufficio del Vicegerente non cessa durante la vacanza della Sede Apostolica. 
 
 In vista delle ordinazioni diaconali e presbiterali per la Diocesi di Roma, il Vescovo Delegato per i Seminari, sentito il Rettore e i formatori del Seminario, presenta una relazione al Consiglio Episcopale. Il Cardinale Vicario, tenuto conto degli elementi acquisiti e sentito il Consiglio Episcopale, mi sottopone i candidati per l’eventuale ammissione agli Ordini sacri.  
 
-** **
-
 **Titolo III**
 
 **ORGANI DELLA SINODALITÀ A SERVIZIO DELLA MISSIONE DELLA DIOCESI DI ROMA**
@@ -240,13 +234,9 @@ In vista delle ordinazioni diaconali e presbiterali per la Diocesi di Roma, il V
 
 § 3. I predetti Consigli operano secondo i rispettivi statuti, approvati dal Cardinale Vicario.  
 
-** **
-
 **Titolo IV**
 
 **UFFICI, SERVIZI E ORGANI GIUDIZIARI DEL VICARIATO**
-
-** **
 
 **Articolo 25**
 
@@ -364,13 +354,9 @@ Ufficio dell’Archivio storico diocesano
 
 Il Cardinale Vicario, sentito il Consiglio Episcopale, può sottoporre alla mia considerazione la creazione di nuovi Uffici o la modifica e la soppressione degli Uffici esistenti.  
 
-** **
-
 **Titolo V**
 
 **I TRIBUNALI**
-
-** **
 
 **Articolo 33**
 

@@ -1,13 +1,5 @@
 # Declaration
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH**
@@ -23,9 +15,9 @@ To resolve these questions and difficulties, the Sacred Congregation, alert to t
 I. This Sacred Congregation earnestly exhorts the Ordinaries, in their prudence, “in season and out,” to give fatherly assistance to priests suffering from a vocation crisis lest they act precipitously in a matter which is so serious both for their own futures and for the good of the Church. No dispensation should be sought unless there are serious, objective reasons for such a request.
 
 > 1\. It is a matter of recent fact that some priests have demanded a dispensation because of a sudden crisis and then withdrawn the request while the case was being studied by the Sacred Congregation.
->
+
 > 2\. Others, after receiving notice that the rescript of favor has been issued, conscience stricken and moved by the grace of God, were unwilling to accept the rescript so that they might continue to exercise their priesthood.
->
+
 > 3\. Finally, there have been some who after obtaining a dispensation and contracting marriage before the Church, have subsequently proved unfaithful to their marriage promises.
 
 An indiscriminate granting of the favor to any petitioner has never been the purpose of these *Norms*; they are intended rather to facilitate the formal investigation which the Ordinaries are required to make.
@@ -49,7 +41,7 @@ When the petitioner is notified that the rescript has been issued, if he has a c
 V. The words “similar institutes” (*Norms*, n. VI, 4d) include:
 
 > a\) Faculties, institutes, schools, etc., of ecclesiastical or religious science (e.g.. faculties of Canon Law, Missiology, Church History, Philosophy or Pastoral Institutes, Religious Education, Catechetics, etc.). In such institutes no teaching assignment may be entrusted to married priests; any such assignments must be resigned before a dispensation is granted.
->
+
 > b\) All other higher centers of study, even those not strictly dependent on Church authority, in which theological or religious disciplines are taught. In these institutes properly theological disciplines or those closely connected to them (e.g. religious education and catechetics) are not to be assigned to married priests. If there is a doubt about the connection of such disciplines to theology, the Sacred Congregation for the Doctrine of the Faith will decide the matter in consultation with the Sacred Congregation for Catholic Education.
 
 VI\. This Sacred Congregation hopes it has adequately answered the questions of those who sought assistance, and that, with the resolution of these difficulties, the *Norms* may be more easily and faithfully observed.

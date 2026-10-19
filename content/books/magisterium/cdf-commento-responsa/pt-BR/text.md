@@ -1,9 +1,5 @@
 # Comentário às Respostas a questões relativas a alguns aspectos da Doutrina sobre a Igreja
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***COMENTÁRIO*** **ÀS RESPOSTAS A QUESTÕES RELATIVAS A ALGUNS ASPECTOS DA DOUTRINA SOBRE A IGREJA**
@@ -63,8 +59,6 @@ Retomando substancialmente o ensinamento conciliar e o Magistério post-concilia
 O ecumenismo católico pode parecer à primeira vista paradoxal. Com a expressão “subsistit in”, o Concílio Vaticano II quis harmonizar duas afirmações doutrinais: por um lado, a de que a Igreja de Cristo, apesar das divisões dos cristãos, continua a existir plenamente só na Igreja católica, e, por outro, a existência de numerosos elementos de santificação e de verdade fora da sua composição, ou seja, nas Igrejas e Comunidades eclesiais que ainda não estão em plena comunhão com a Igreja católica. A tal propósito, o próprio Decreto do Concílio Vaticano II sobre o ecumenismo *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_po.html)* tinha introduzido o termo *plenitudo* (*unitatis/catholicitatis*), precisamente para ajudar a compreender melhor essa situação de certo modo paradoxal. Embora a Igreja católica tenha a plenitude dos meios de salvação, “contudo, as divisões dos cristãos impedem que a própria Igreja actue a plenitude da catolicidade que lhe é própria naqueles filhos, que embora lhe estejam unidos com o Baptismo, estão separados da plena comunhão com ela”[^16]. Trata-se, portanto, da plenitude da Igreja católica, que é já actual e que deve crescer nos fiéis não em plena comunhão com ela, ma também nos próprios filhos que são pecadores, “até que o povo de Deus, na alegria, alcance toda a plenitude da glória eterna, na Jerusalém celeste”[^17]. O progresso na plenitude radica-se no dinamismo da união com Cristo: “A união com Cristo é, ao mesmo tempo, união com todos os outros aos quais Ele Se entrega. Eu não posso ter Cristo só para mim; posso pertencer-Lhe somente unido a todos aqueles que se tornaram ou tornarão Seus. A comunhão tira-me fora de mim mesmo projectando-me para Ele e, deste modo, também para a união com todos os cristãos”[^18].
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Paulo VI, *[Alocução de encerramento do III período do Concílio](/holy_father/paul_vi/speeches/1964/documents/hf_p-vi_spe_19641121_conclusions-iii-sessions_po.html)* (21 de Novembro de 1964) EV 1, 290\*.
 

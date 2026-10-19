@@ -1,9 +1,5 @@
 # Risposta al dubbio circa la dottrina della Lettera Apostolica Ordinatio Sacerdotalis, 28 ottobre 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **RISPOSTA AL DUBBIO CIRCA LA DOTTRINA DELLA LETTERA APOSTOLICA «ORDINATIO SACERDOTALIS»**
@@ -21,5 +17,3 @@ Roma, dalla Sede della Congregazione per la Dottrina della Fede, il 28 ottobre 1
 **+ JOSEPH  Card. RATZINGER** * Prefetto*
 
 ***+* TARCISIO BERTONE** * Arcivescovo emerito di Vercelli Segretario*
-
-[](#top)

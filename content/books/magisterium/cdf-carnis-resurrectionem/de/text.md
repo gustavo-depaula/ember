@@ -1,9 +1,5 @@
 # Beschlüsse bezüglich der Übersetzung des Artikels «Carnis resurrectionem» des Apostolischen Glaubensbekenntnisses, 14. Dezember 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 HEILIGE KONGREGATION FÜR DIE GLAUBENSLEHRE 
 
 **ÜBERSETZUNG DES ARTIKELS »CARNIS RESURRECTIONEM« DES APOSTOLISCHEN GLAUBENSBEKENNTNISSES**\*
@@ -59,5 +55,3 @@ Die beiden Formeln »Auferstehung der Toten« und »Auferstehung des Fleisches«
 \- "Auferstehung der Toten" (*Messbuch* für die Bistümer des deutschen Sprachgebietes, 1974. Teil 1, 119);
 
 \- "La resurrección de los muertos" (*Libro de la sede*, Secretariado Nacional de Liturgia, Madrid 1983, 394).
-
-[](#top)

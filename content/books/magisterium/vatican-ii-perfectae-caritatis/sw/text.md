@@ -1,15 +1,5 @@
 # Perfectae caritatis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dikrii juu ya  marekebisho ya maisha ya wakfu**
@@ -18,8 +8,6 @@ PAULO ASKOFU
 MTUMISHI WA WATUMISHI WA MMUNGU  
 PAMOJA NA MABABA  WA MTAGUSO MKUU  
 ATAKA HAYA YAKUMBUKWE DAIMA 
-
-**  **
 
 **Utangulizi**
 
@@ -209,8 +197,6 @@ Lakini watawa wakumbuke kwamba mifano ya maisha yao ni njia bora kuliko zote ya 
 
 25\. Mashirika ambayo kwa ajili yake zimetolewa kanuni hizi za kujirekebisha yaitikie kwa utayari wito waliopokea kutoka kwa Mungu na wajibu ambao siku hizi yanatakiwa kuutekeleza katika Kanisa. Mtaguso Mkuu huheshimu sana mtindo wa maisha yao ya ubikira, ya umaskini na ya utii, ambayo Kristo Bwana mwenyewe ni mfano, na unaweka tumaini imara katika tendo lake hili lenye matunda, liwe kwa faragha na kwa wazi. Kwa sababu hiyo watawa wote, wawe wanasukumwa na imani thabiti, na mapendo kwa Mungu na kwa jirani, na upendo kwa msalaba, na matumaini katika utukufu ujao, waeneze popote duniani habari njema ya Kristo, kusudi ushuhuda wao uonekane mbele ya watu wote na Baba yetu aliye mbinguni apate kutukuzwa (taz. Mt 5:16). Kwa namna hiyo, kwa maombezi ya Bikira Maria Mama wa Mungu (*Deipara*) mpole sana “ambaye maisha yake ni mafundisho na kielelezo kwa wote”[^1], \[watawa\] wapate ongezeko siku kwa siku na kuleta utele wa matunda ya wokovu.
 
-* *
-
 *Mambo yote yaliyoamuliwa katika dikrii hii, na kila moja kati yao, yamewapendeza Mababa wa Mtaguso Mkuu. Nasi, kadiri ya mamlaka ya kitume tuliyopewa na Kristo, na pamoja na Mababa waheshimiwa, katika Roho Mtakatifu, tunayakubali, tunayaidhinisha na tunayathibitisha. Na yale yote yaliyoamuriwa kwa pamoja katika Sinodi hii, tunaamuru yawekwe kwa ajili ya utukufu wa Mungu.*
 
 *Roma, katika Kanisa la Mt. Petro, 28 Oktoba 1965*
@@ -218,8 +204,6 @@ Lakini watawa wakumbuke kwamba mifano ya maisha yao ni njia bora kuliko zote ya 
 Mimi mwenyewe, Paulo, Askofu wa Kanisa Katoliki
 
 *(zinafuata sahihi za Mababa) *
-
-   *
 
 ------------------------------------------------------------------------
 

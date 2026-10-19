@@ -1,12 +1,6 @@
 # Dichiarazione circa la Valutazione dottrinale della LCWR, 18 aprile 2012 - Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
-
-**  **
 
 ***Dichiarazione* del Cardinale Prefetto della Congregazione per la Dottrina della Fede circa la Valutazione dottrinale della LCWR**
 
@@ -23,8 +17,6 @@ L’intento principale della valutazione dottrinale consiste dunque in un sosteg
 *Città del Vaticano, 18 aprile 2012.*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: BENEDETTO XVI, Lett. Ap. *[Porta Fidei](/holy_father/benedict_xvi/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei_it.html)*, n. 6.
 

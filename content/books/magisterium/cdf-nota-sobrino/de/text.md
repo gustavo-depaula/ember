@@ -1,9 +1,5 @@
 # Erklärende Note zur Notifikation zu den Werken von P. Jon Sobrino SJ
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***ERKLÄRENDE NOTE***  
@@ -34,8 +30,6 @@ Diesbezüglich schrieb die Kongregation für die Glaubenslehre bereits: Es »kan
 Diese »*Notifikation*« soll daher den Hirten und den Gläubigen eine sichere, in der Lehre der Kirche verankerte Richtlinie bieten, um die oben erwähnten Fragen, die sowohl auf theologischer als auch auf pastoraler Ebene von großer Bedeutung sind, richtig zu beurteilen.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Vgl. Johannes Paul II., Apostolische Konstitution *Pastor bonus* 48; *AAS* 80 (1988), 841–934.
 

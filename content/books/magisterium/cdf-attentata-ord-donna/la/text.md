@@ -1,9 +1,5 @@
 # Decretum Generale de delicto attentatae sacrae ordinationis mulieris
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 **DECRETUM GENERALE *de delicto attentatae sacrae ordinationis mulieris***
@@ -26,5 +22,3 @@ Archiep. titularis Silensis
 *a Secretis*
 
 *In Congr. pro Doctrina Fidei tab., n. 337/02*
-
-[](#top)

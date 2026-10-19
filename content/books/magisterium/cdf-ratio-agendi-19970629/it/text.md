@@ -1,9 +1,5 @@
 # Ratio Agendi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***REGOLAMENTO PER L'ESAME DELLE DOTTRINE***
@@ -82,13 +78,9 @@ Art. 29. Se la Sessione Ordinaria accerta l'esistenza di errori dottrinali che n
 
 \+ Joseph Card. RATZINGER *Prefetto*
 
-* *
-
 *+* Tarcisio Bertone, S.D.B. *Arcivescovo emerito di Vercelli Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Cost. Ap. *Pastor bonus*, art. 48: AAS 80 (1988) 873.
 

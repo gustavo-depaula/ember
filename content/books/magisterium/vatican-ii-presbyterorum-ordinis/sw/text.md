@@ -1,15 +1,5 @@
 # Presbyterorum ordinis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dikrii juu ya huduma na maisha ya mapadre**
@@ -18,8 +8,6 @@
 Mtumishi wa Watumishi wa Mungu  
 pamoja na Mababa wa Mtaguso Mkuu  
 ataka haya yakumbukwe daima
-
-** **
 
 **UTANGULIZI**
 

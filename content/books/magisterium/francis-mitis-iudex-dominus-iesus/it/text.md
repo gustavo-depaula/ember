@@ -179,8 +179,6 @@ Affido con fiducia all’intercessione della gloriosa e benedetta sempre Vergine
 
 **Francesco**
 
-** **
-
 ------------------------------------------------------------------------
 
 **Regole procedurali per la trattazione delle cause di nullità matrimoniale**

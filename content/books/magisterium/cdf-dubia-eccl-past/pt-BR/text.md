@@ -1,9 +1,5 @@
 # Respostas e quesitos acerca da interpretação do decreto «Ecclesiae Pastorum» 7 de julho de 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 *** RESPOSTA E QUESITOS ACERCA DA INTERPRETAÇÃO DO DECRETO *«*[ECCLESIAE PASTORUM](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19750319_ecclesiae-pastorum_lt.html)» \****
@@ -153,5 +149,3 @@ Com efeito, alguns autores ou editores que preparam livros que, pelo seu conteú
 *b)* se a aprovação é pedida para *catecismos destinados à catequese oficial da diocese*, além da ortodoxia do conteúdo e das normas universais da catequese, o Ordinário terá igualmente em conta as normas particulares promulgadas por ele mesmo em função das necessidades concretas da diocese (Novo C.I.C., cân. 775, par. 1), e das normas fixadas pela Conferência Episcopal e aprovadas pela Santa Sé (*Directorium Catechisticum Generale*, n. 134).
 
 \* *L’Osservatore Romano*, Edição semanal, 20 de Novembro de 1983, Pág. 2. 4 (566. 568).
-
-[](#top)

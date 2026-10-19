@@ -1,9 +1,5 @@
 # Fünfte Instruktion ÂÂ„zur ordnungsgemäßen Ausführung der Konstitution des Zweiten Vatikanischen Konzils über die heilige Liturgie"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Kongregation für den Gottesdienst und die Sakramentenordnung
 
 **Der Gebrauch der Volkssprachen bei der Herausgabe der Bücher der römischen Liturgie**
@@ -58,8 +54,6 @@ c) In einem besonderen Bericht soll eindeutig die Sprache bezeichnet werden, um 
 18\. In Feiern, die für fremdsprachige Personen gehalten werden, wie Zugezogene, Migranten, Pilger usw., darf man mit Zustimmung des Diözesanbischofs die heilige Liturgie in der diesen Menschen bekannten Volkssprache feiern. Dabei ist das liturgische Buch zu verwenden, das von der zuständigen Autorität schon approbiert und vom Apostolischen Stuhl die recognitio erhalten hat.(18) Wenn solche Feiern zu bestimmten Zeiten häufiger vorkommen, soll der Diözesanbischof einen kurzen Bericht an die Kongregation für den Gottesdienst und die Sakramentenordnung senden, in dem die Umstände, die Zahl der Teilnehmenden und die verwendeten Bücher dargelegt werden.  
 
 **II DIE ÜBERSETZUNG LITURGISCHER TEXTE IN DIE VOLKSSPRACHEN**
-
-** **
 
 **1. ALLGEMEINE PRINZIPIEN, DIE FÜR JEDE ÜBERSETZUNG GELTEN**
 
@@ -205,8 +199,6 @@ d) Die oben unter Nr. 51 dargelegten Prinzipien, die die Verschiedenheit der Wö
 69\. Die volkssprachlichen Ausgaben der liturgischen Bücher müssen in allen Teilen mit den Titeln, der Anordnung der Texte, den Rubriken und der Nummerierung der editio typica übereinstimmen, außer es wäre in den praenotanda derselben Bücher etwas anderes bestimmt. Überdies sollen alle von der Kongregation für den Gottesdienst und die Sakramentenordnung approbierten Zusätze eingefügt werden, sei es in einer Ergänzung bzw. einem Anhang oder an der betreffenden Stelle selbst, wie es der Apostolische Stuhl bestimmt hat.  
 
 **III DIE VORBEREITUNG VON ÜBERSETZUNGEN UND DIE ERRICHTUNG VON KOMMISSIONEN**
-
-** **
 
 **1. DIE VORGEHENSWEISE BEI DER VORBEREITUNG EINER ÜBERSETZUNG**
 
@@ -575,5 +567,3 @@ Diese Instruktion, die im Auftrag des Papstes durch einen Brief des Kardinalstaa
 85 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 63 b; Hl. KONGR. FÜR DEN GOTTESDIENST, Erklärung «*De interpretationibus popularibus novorum textuum liturgicorum*»: *Notitiae* 5 (1969) 333-334.
 
 86 Vgl. PAPST PIUS XII., Enzykl. *Mediator Dei*: AAS 39 (1947) 561-562; II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 45.
-
-[](#top)

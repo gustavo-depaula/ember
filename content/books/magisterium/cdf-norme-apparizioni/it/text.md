@@ -1,13 +1,5 @@
 # Norme per procedere nel discernimento di presunte apparizioni e rivelazioni - Sacra Congregazione per la Dottrina della Fede
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
@@ -15,8 +7,6 @@ SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 **NORME PER PROCEDERE NEL DISCERNIMENTO DI PRESUNTE APPARIZIONI E RIVELAZIONI**
 
 **Nota preliminare**
-
-** **
 
 **Origine e carattere delle Norme**
 
@@ -31,9 +21,9 @@ Per queste ragioni, affinché la devozione suscitata tra i fedeli da fatti di qu
 Quando l'Autorità ecclesiastica venga informata di qualche presunta apparizione o rivelazione, sarà suo compito:
 
 > a\) in primo luogo, giudicare del fatto secondo criteri positivi e negativi (cfr. *infra*, n. I);
->
+
 > b\) in seguito, se questo esame giunge ad una conclusione favorevole, permettere alcune manifestazioni pubbliche di culto o di devozione, proseguendo nel vigilare su di esse con grande prudenza (ciò equivale alla formula: «*pro nunc nihil obstare*»);
->
+
 > c\) infine, alla luce del tempo trascorso e dell'esperienza, con speciale riguardo alla fecondità dei frutti spirituali generati dalla nuova devozione, esprimere un giudizio *de veritate et supernaturalitate*, se il caso lo richiede.
 
 **I. Criteri per giudicare, almeno con una certa probabilità, del carattere delle presunte** **apparizioni o rivelazioni**
@@ -45,9 +35,9 @@ a\) Certezza morale, o almeno grande probabilità dell'esistenza del fatto, acqu
 b\) Circostanze particolari relative all'esistenza e alla natura del fatto, vale a dire:
 
 > 1\. qualità personali del soggetto o dei soggetti (in particolare, l'equilibrio psichico, l'onestà e la rettitudine della vita morale, la sincerità e la docilità abituale verso l'autorità ecclesiastica, l'attitudine a riprendere un regime normale di vita di fede, ecc.);
->
+
 > 2\. per quanto riguarda la rivelazione, dottrina teologica e spirituale vera ed esente da errore;
->
+
 > 3\. sana devozione e frutti spirituali abbondanti e costanti (per esempio, spirito di preghiera, conversioni, testimonianze di carità, ecc.).
 
 B\) *Criteri negativi*:
@@ -81,7 +71,7 @@ Va notato che questi criteri positivi e negativi sono indicativi e non tassativi
 2\. La Conferenza Episcopale regionale o nazionale può intervenire:
 
 > a\) se l'Ordinario del luogo, fatta la propria parte, ricorre ad essa per discernere con più sicurezza sul fatto;
->
+
 > b\) se il fatto attiene già all'ambito nazionale o regionale, sempre comunque con il consenso previo dell'Ordinario del luogo.
 
 3\. La Sede Apostolica può intervenire, sia su domanda dell'Ordinario stesso, sia di un gruppo qualificato di fedeli, sia anche direttamente in ragione della giurisdizione universale del Sommo Pontefice (cfr. *infra*, n. IV).

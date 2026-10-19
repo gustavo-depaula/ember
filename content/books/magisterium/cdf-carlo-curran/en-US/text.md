@@ -1,9 +1,5 @@
 # Letter to Father Charles Curran
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Letter to Father Charles Curran***\*
@@ -40,5 +36,3 @@ May I finally express the sincere hope that this regrettable, but necessary, out
 *Prefect*
 
 \* *AAS* 79 (1987), 116-118.
-
-[](#top)

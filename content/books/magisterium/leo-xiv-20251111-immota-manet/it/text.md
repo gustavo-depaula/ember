@@ -15,6 +15,4 @@ Quanto deliberato con questa Lettera Apostolica, ordino che abbia fermo e stabil
 
 *Dato a Roma, presso San Pietro, il giorno 11 novembre dell’anno 2025, Memoria di San Martino, primo del Pontificato.*
 
-* *
-
 LEONE PP. XIV

@@ -1,9 +1,5 @@
 # De consociationibus biblicis et de conventibus ac coetibus eiusdem generis - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE CONSOCIATIONIBUS BIBLICIS ET DE CONVENTIBUS AC COETIBUS EIUSDEM GENERIS**
@@ -39,5 +35,3 @@ Quae omnia si sedulo et accurate fient, sperare licet fore ut hae utilissimae Co
 *Romae, die 15 Decembris a. 1955*
 
 Athanasius Miller, O.S.B. *Consultor ab Actis.*
-
-[](#top)

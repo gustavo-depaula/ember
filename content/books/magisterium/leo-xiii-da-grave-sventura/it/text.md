@@ -6,8 +6,6 @@ EPISTOLA
 
 ***DA GRAVE SVENTURA***
 
-*** ***
-
 *Il Papa Leone XIII. Al Signor Cardinale Lorenzo Nina, nuovo Segretario di Stat*o.
 
 Signor Cardinale, da grave sventura fu colpito e di vivo cordoglio ricolmo l’animo Nostro per l’inopinata morte del Cardinale Alessandro Franchi, Nostro Segretario di Stato. Chiamato a così alto ufficio per la fiducia che Ci avevano di lui ispirato le non comuni sue doti di mente e di cuore ed i lunghi servigi da lui prestati alla Chiesa, seppe corrispondere così pienamente alla Nostra aspettazione nel breve tempo che lo avemmo al fianco, che la sua memoria non si cancellerà mai dalla Nostra mente, e presso i posteri, come tra i presenti, resterà caro e benedetto il suo nome.

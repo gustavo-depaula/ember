@@ -1,10 +1,6 @@
 # CONSECRATED PERSONS AND THEIR MISSION IN SCHOOLS. Reflections and Guidelines
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGREGATION FOR CATHOLIC EDUCATION
+CONGREGATION FOR CATHOLIC EDUCATION
 
 ***CONSECRATED PERSONS AND THEIR MISSION IN SCHOOLS***
 
@@ -13,18 +9,18 @@
 **INDEX**
 
 > **[INTRODUCTION](#INTRODUCTION)**
->
+
 > **[I. PROFILE OF CONSECRATED PERSONS](#I%20PROFILE%20OF%20CONSECRATED%20PERSONS)**
->
+
 > **[At the school of Christ the teacher](#At%20the%20school%20of%20Christ%20the%20teacher) [Radical response](#Radical%20response) [In the Church communion](#In%20the%20Church%20communion) [Before the world](#Before%20the%20world)**
->
+
 > **[II. THE EDUCATIONAL MISSION OF CONSECRATED PERSONS TODAY](#II%20THE%20EDUCATIONAL%20MISSION%20OF%20CONSECRATED%20PERSONS%20TODAY) [Educators called to evangelise](#Educators%20called%20to%20evangelise) *Go... preach the gospel to the whole creation*** (*Mk*16:15)
->
+
 > > ***[Faced with modern challenges](#Faced%20with%20modern%20challenges) [An explicit anthropological view](#An%20explicit%20anthropological%20view)***
->
+
 > **[Educators called to accompany towards the Other](#Educators%20called%20to%20accompany%20towards%20the%20Other)**  
 > ***We wish to see Jesus*** (*Jn*12:21)
->
+
 > > ***[The dynamism of reciprocity](#The%20dynamism%20of%20reciprocity)***
 > >
 > > > **[The relational dimension](#The%20relational%20dimension) [The educational community](#The%20educational%20community)**
@@ -36,9 +32,9 @@
 > > ***[Life as a vocation](#Life%20as%20a%20vocation)***
 > >
 > > > **[Culture of vocations](#Culture%20of%20vocations)**
->
+
 > **[Educators called to teach coexistence](#Educators%20called%20to%20teach%20coexistence)** ***....all men will know that you are my disciples, if you have love for one another*** (*Jn*13:35)
->
+
 > > ***[On a human scale](#On%20a%20human%20scale)***
 > >
 > > > **[Personalized accompanying](#Personalised%20accompanying) [The dignity of woman and her vocation](#The%20dignity%20of%20woman%20and%20her%20vocation)**
@@ -54,9 +50,9 @@
 > > ***[Culture of peace](#Culture%20of%20peace)***
 > >
 > > > **[Educating for peace starting from the heart](#Educating%20for%20peace%20starting%20from%20the%20heart) [Educating for coexistence](#Educating%20for%20coexistence)**
->
+
 > **[CONCLUSION](#CONCLUSION)**
->
+
 > **[NOTES](#NOTES)**
 
 ------------------------------------------------------------------------
@@ -196,8 +192,6 @@ The call to give themselves fully to schools, in deep and true freedom, means th
 28\. Consecrated persons find in Mary the model to inspire them in their relations with God and in living human history. Mary is the icon of prophetic hope because of her capacity to welcome and meditate at length on the Word in her heart, of interpreting history according to God’s plan, of contemplating God present and working in time. In her eyes we see the wisdom that unites in harmony the ecstasy of her meeting with God and the greatest critical realism with regard to the world. The *Magnificat* is the prophecy *par excellence* of the Virgin. It always sounds new in the spirit of a consecrated person, as a constant praise to the Lord who bends down to the least and to the poor to give them life and mercy.
 
 **II THE EDUCATIONAL MISSION OF CONSECRATED PERSONS TODAY**
-
-**  **
 
 29\. A profile of consecrated persons clearly shows how their educational commitment in schools is suited to the nature of the consecrated life. In fact "thanks to their experience of the particular gifts of the Spirit, their careful listening to the Word, their constant practice of discernment and their rich heritage of pedagogical traditions amassed since the establishment of their Institutes…consecrated persons give life to educational undertakings"[^21][^21]in the educational field. This requires hand the promotion within the consecrated life, on the one, of a "renewed cultural commitment which seeks to raise the level of personal preparation,[^22] and on the other of a constant conversion to follow Jesus, *the way, the truth and the life (*cf. *Jn* 14:6). It is an uncomfortable and tiring road that does however make it possible to take up the challenges of the present time and undertake the educational mission entrusted to the Church. While aware that it cannot be exhaustive, the Congregation for Catholic Education, intends pausing to consider just some elements of this mission. In particular it wishes to reflect on three specific contributions of the presence of consecrated persons to scholastic education: first of all the link of education to evangelisation; then formation to “vertical” relationism, that is to the opening to God and lastly formation to “horizontal” relationism, that is to say to welcoming the other and to living together.
 
@@ -548,8 +542,6 @@ Rome, 28^(th) October 2002, thirty-seventh anniversary of the promulgation of th
 ------------------------------------------------------------------------
 
 **NOTES**
-
-[](#top)
 
 [^1]: Cf. John Paul II, Apostolic exhortation *Vita consecrata*, 25^(th) March 1996, nn. 72-73, *AAS* 88 (1996), 447-449.
 

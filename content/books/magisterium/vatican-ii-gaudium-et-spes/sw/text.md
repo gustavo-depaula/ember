@@ -1,15 +1,5 @@
 # Gaudium et spes
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 ** KONSTITUSIO YA KICHUNGAJI JUU YA  KANISA KATIKA ULIMWENGU WA LEO[^1]**
@@ -942,8 +932,6 @@ Hamu ya kuianzisha dialogia inayoongozwa tu na upendo kwa ajili ya ukweli na kue
 “Basi atukuzwe Yeye awezaye kufanya mambo ya ajabu mno kuliko yote tuyaombayo au tuyawezayo, kwa kadiri ya nguvu itendayo kazi ndani yetu; naam atukuzwe katika Kanisa na katika Kristo Yesu hata vizazi vyote vya milele na milele. Amina” (Efe 3:20-21).
 
 *Mambo yote yaliyoamuliwa katika konstitusio hii ya kichungaji, na kila moja kati yake, yamewapendeza Mababa wa Mtaguso Mkuu. Nasi, kadiri ya mamlaka ya kitume tuliyopewa na Kristo, na pamoja na Mababa waheshimiwa, katika Roho Mtakatifu, tunayakubali, tunayaidhinisha na kuyathibitisha. Na yale yote yaliyoamuliwa kwa pamoja katika sinodi hii, tunaamuru yawekwe kwa utukufu wa Mungu.*
-
-* *
 
 *Roma, katika Kanisa la Mt. Petro, 7 Desemba 1965*
 

@@ -1,15 +1,5 @@
 # Mater Populi fidelis - Nota doktrynalna dotycząca niektórych tytułów maryjnych odnoszących się do współpracy Maryi w dziele zbawienia
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DYKASTERIA NAUKI WIARY

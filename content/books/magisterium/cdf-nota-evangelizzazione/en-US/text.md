@@ -1,9 +1,5 @@
 # Doctrinal Note on some Aspects of Evangelization
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***DOCTRINAL NOTE ON SOME ASPECTS OF EVANGELIZATION***
@@ -96,8 +92,6 @@ This perspective naturally requires the avoidance of any undue pressure: “in s
 *Titular Archbishop of Sila Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: John Paul II, Encyclical Letter *[Redemptoris missio](/edocs/ENG0219/__P7.HTM)* (7 December 1990), 47: *AAS* 83 (1991), 293.
 

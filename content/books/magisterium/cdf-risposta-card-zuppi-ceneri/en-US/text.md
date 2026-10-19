@@ -1,15 +1,5 @@
 # Reply to His Eminence, Cardinal Matteo Maria Zuppi, Archbishop of Bologna, Regarding Two Questions About the Preservation of the Ashes of the Deceased Following Cremation
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
@@ -26,7 +16,7 @@ In particular, His Eminence reported that he had formed a commission in the Arch
 To ensure correspondence not only with the requests of family members but, more importantly, with the Christian proclamation of the resurrection of the body and the respect due to it, the Archbishop of Bologna asked the following questions:
 
 > 1. Taking into account the canonical prohibition against scattering the ashes of the deceased, is it possible to prepare a defined and permanent sacred place for the commingled accumulation and preservation of the ashes of the baptized, indicating the basic details of each person so as not to lose the memory of their names, similar to what occurs in ossuaries, where the mineralized remains of the deceased are cumulatively deposited and preserved?
->
+
 > 2. Can a family be allowed to keep a portion of their family member’s ashes in a place that is significant for the history of the deceased?
 
 After giving due consideration to these questions, it was decided to answer them in the following way:

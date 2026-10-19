@@ -1,15 +1,5 @@
 # Directorio sobre la piedad popular y la liturgia
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGACIÓN PARA EL CULTO DIVINO  
@@ -75,7 +65,7 @@ CIUDAD DEL VATICANO 2002
 
 > ORIENTACIONES  
 > PARA ARMONIZAR LA PIEDAD POPULAR Y LA LITURGIA (93-287)
->
+
 > Premisa (93)
 
 **[CAPÍTULO IV.](#Capítulo%20IV)** [AÑO LITÚRGICO Y PIEDAD POPULAR (94-182)](#Capítulo%20IV)

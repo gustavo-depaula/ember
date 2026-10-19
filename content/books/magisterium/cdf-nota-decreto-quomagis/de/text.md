@@ -1,15 +1,5 @@
 # Anmerkungen zur Vorstellung des Dekrets Quo magis bezüglich der Approbation von sieben neuen Präfationen für den usus antiquior des römischen Ritus
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 137/2009P – ED

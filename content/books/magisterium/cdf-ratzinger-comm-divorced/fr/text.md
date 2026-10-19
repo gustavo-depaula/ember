@@ -1,9 +1,5 @@
 # A propos de quelques objections à la doctrine de l'Eglise concernant la réception de la communion eucharistique de la part des fidèles divorcés remariés - Joseph Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 *À PROPOS DE QUELQUES OBJECTIONS À LA DOCTRINE DE L'ÉGLISE CONCERNANT LA RÉCEPTION DE LA COMMUNION EUCHARISTIQUE DE LA PART DES FIDÈLES DIVORCÉS REMARIÉS (1)*
 
 Joseph Card. Ratzinger
@@ -83,5 +79,3 @@ En ce qui concerne la position du Magistère sur le problème des divorcés rema
 \(3\) À cet égard vaut la norme répétée par Jean-Paul II dans l'Exhortation apostolique postsynodale *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_fr.html)*, n° 84 : « La réconciliation par le sacrement de pénitence – qui ouvrirait la voie au sacrement de l’Eucharistie – ne peut être accordée qu’à ceux qui se sont repentis d’avoir violé le signe de l’Alliance et de la fidélité au Christ, et sont sincèrement disposés à une forme de vie qui ne soit plus en contradiction avec l’indissolubilité du mariage. Cela implique concrètement que, lorsque l’homme et la femme ne peuvent pas, pour de graves motifs – par exemple l’éducation des enfants –, remplir l’obligation de la séparation, “ils prennent l’engagement de vivre en complète continence, c’est-à-dire en s’abstenant des actes réservés aux époux” ». Cf. aussi Benoît XVI, Exhortation apostolique postsynodale *[Sacramentum caritatis](/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis_fr.html)*, n° 29.
 
 \(4\) Durant une rencontre avec le clergé du diocèse d’Aoste, le 25 juillet 2005, le Pape Benoît XVI a affirmé au sujet de cette question difficile : « la situation est particulièrement douloureuse pour les personnes qui se sont mariées à l’Église, mais qui ne sont pas vraiment croyantes et qui l’ont fait par tradition, puis ayant contracté un nouveau mariage non valide, se convertissent, trouvent la foi et se sentent exclues du Sacrement. Cela est réellement une grande souffrance, et lorsque j’étais Préfet de la Congrégation pour la Doctrine de la Foi, j’ai invité plusieurs Conférences épiscopales et spécialistes à étudier ce problème : un sacrement célébré sans foi. Je n’ose pas m’avancer en affirmant que l’on puisse trouver ici réellement un motif d’invalidité parce qu’il manquait une dimension fondamentale au mariage. Je le pensais personnellement, mais à la suite des discussions que nous avons eues, j’ai compris que le problème est très difficile et doit être encore approfondi ».
-
-[](#top)

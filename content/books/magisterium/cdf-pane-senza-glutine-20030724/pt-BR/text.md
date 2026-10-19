@@ -1,9 +1,5 @@
 # Aos presidentes das Conferências Episcopais sobre o uso do pão com pouca quantidade de glúten e do mosto como matéria eucarística, 23 de julho de 2003
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA CIRCULAR AOS PRESIDENTES DAS CONFERÊNCIAS EPISCOPAIS SOBRE O USO DO PÃO COM POUCA QUANTIDADE DE GLÚTEN E DO MOSTO COMO MATÉRIA EUCARÍSTICA***
@@ -59,5 +55,3 @@ Rogando-lhe a gentileza de comunicar a todos os membros dessa Conferência Episc
 Fraternalmente
 
 **Joseph Card. RATZINGER** *Prefeito*
-
-[](#top)

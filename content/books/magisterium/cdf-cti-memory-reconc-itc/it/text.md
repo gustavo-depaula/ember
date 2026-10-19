@@ -1,22 +1,10 @@
 # Memoria e riconciliazione: la Chiesa e le colpe del passato, 7 marzo 2000
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSIONE TEOLOGICA INTERNAZIONALE
 
-** **
-
 ***MEMORIA E RICONCILIAZIONE: LA CHIESA E LE COLPE DEL PASSATO***
-
-*** ***
 
 **NOTA PRELIMINARE**
 

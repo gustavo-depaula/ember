@@ -57,15 +57,15 @@ No podemos olvidar la Exhortación apostólica postsinodal *[Vita consecrata](ht
 Tampoco podemos olvidar, como prueba del constante e iluminador acompañamiento del que vuestra vida contemplativa ha sido objeto, los siguientes documentos:
 
 > \- Las orientaciones emanadas por la Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica (CIVCSVA) *Potissimum Institutioni*, del 2 de febrero de 1990, con amplios espacios enteramente dedicados a vuestra forma específicamente contemplativa de vida consagrada (cap. IV, 78-85).
->
+
 > \- El documento interdicasterial *Sviluppi*, del 6 de enero de 1992, que pone de relieve el problema de la escasez de las vocaciones a la vida consagrada en general y, en menor medida, a vuestra vida (n. 81).
->
+
 > \- El *[Catecismo de la Iglesia Católica](http://www.vatican.va/archive/catechism_sp/index_sp.html)*, promulgado con la Const. ap. *[Fidei depositum](http://w2.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)* el 11 de octubre de 1992, de suma importancia para dar a conocer y comprender a todos los fieles vuestra forma de vida: en particular los nn. 915-933 dedicados a todas las formas de vida consagrada; el n. 1672 sobre vuestra consagración no sacramental y sobre la bendición de los Abades y de las Abadesas; el n. 1974 y el 2102 sobre el nexo con los diez mandamientos y la profesión de los consejos evangélicos; el n. 2518 que presenta el estrecho vínculo entre la pureza de corazón proclamada por la sexta Bienaventuranza, garante de la visión de Dios, y el amor a las verdades de la fe; los nn. 1691 y 2687 que exaltan la perseverante intercesión que se eleva a Dios en los monasterios contemplativos, lugares irremplazables para armonizar oración personal y oración compartida; y el n. 2715 que pone, como prerrogativa de los contemplativos, la mirada fija en Jesús y en los misterios de su vida y de su ministerio.
->
+
 > - La Instrucción de la CIVCSVA *[Congregavit nos](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_02021994_fraternal-life-in-community_sp.html)*, del 2 de febrero de 1994, que en los nn. 10 y 34 une el silencio y la soledad a las exigencias profundas de la comunidad de vida fraterna y subraya la coherencia entre separación del mundo y clima cotidiano de recogimiento.
->
+
 > \- La Instrucción de la CIVCSVA *[Verbi Sponsa, Ecclesia](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_13051999_verbi-sponsa_sp.html)*, del 13 de mayo de 1999, que, en los art. 1-8, ofrece una estupenda síntesis histórico-sistemática de todo el supremo Magisterio anterior sobre el sentido misionero escatológico de la vida claustral de las monjas contemplativas.
->
+
 > \- Por último, la Instrucción de la CIVCSVA *[Caminar desde Cristo](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_20020614_ripartire-da-cristo_sp.html)*, del 19 de mayo de 2002, que con gran fuerza invita a contemplar siempre el rostro de Cristo; presenta a las monjas y a los monjes en la cumbre de la alabanza coral y de la oración silenciosa de la Iglesia (n. 25) y, al mismo tiempo, los encomia por haber privilegiado y haber puesto siempre en el centro la Liturgia de las Horas y la celebración eucarística (*ibíd.*).
 
 8\. Cincuenta años después del Concilio Vaticano II, tras las debidas consultas y un atento discernimiento, he considerado necesario ofrecer a la Iglesia la presente Constitución Apostólica que tuviera en cuenta tanto el intenso y fecundo camino que la Iglesia misma ha recorrido en las últimas décadas a la luz de las enseñanzas del Concilio Ecuménico Vaticano II, como también las nuevas condiciones socio-culturales. Este tiempo ha visto un rápido avance de la historia humana con la que es oportuno entablar un diálogo que salvaguarde siempre los valores fundamentales sobre los que se funda la vida contemplativa que, a través de sus instancias de silencio, de escucha, de llamada a la interioridad, de estabilidad, puede y debe constituir un desafío para la mentalidad de hoy.
@@ -229,9 +229,9 @@ Art. 1. Conforme al c. 20 del *CIC* y tras haber considerado con mucha atención
 2.    y, más en particular, los artículos dispositivo-normativos:
 
 > \- de la Constitución Apostólica *[Sponsa Christi](http://w2.vatican.va/content/pius-xii/es/apost_constitutions/documents/hf_p-xii_apc_19501121_sponsa-christi.html)* de Pío XII de 1950:*Estatuta generalia Monialium*;
->
+
 > \- de la Instrucción *[Inter praeclara](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_19501123_inter-praeclara_sp.html)* de la Sagrada Congregación de Religiosos;
->
+
 > \- de la Instrucción *[Verbi Sponsa](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_13051999_verbi-sponsa_sp.html)*, de la CIVCSVA, 13 de mayo de 1999, sobre la vida contemplativa y la clausura de las monjas.
 
 Art. 2 §1. Esta Constitución se dirige a la Congregación para los Institutos de Vida Consagrada y las Sociedades de Vida Apostólica y a los monasterios femeninos de vida contemplativa o integralmente contemplativa, federados o no federados.

@@ -1,9 +1,5 @@
 # Réponse aux questions concernant l'alimentation et l'hydratation artificielles
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***RÉPONSES AUX QUESTIONS DE LA CONFÉRENCE ÉPISCOPALE DES ÉTATS-UNIS CONCERNANT L’ALIMENTATION ET L’HYDRATATION ARTIFICIELLES***
@@ -25,7 +21,3 @@ Le Souverain Pontife Benoît XVI, au cours de l’Audience accordée au Cardinal
 
 **Angelo AMATO, S.D.B.**  
 Archevêque tit. de Sila *Secrétaire*
-
-*    *
-
-[](#top)

@@ -1,9 +1,5 @@
 # Article illustratif, L'Opus Angelorum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***ARTICLE ILLUSTRATIF***
 
 L’OPUS SANCTORUM ANGELORUM\*
@@ -45,8 +41,6 @@ En approuvant l’*Opus Sanctorum Angelorum*, l’Église a donné sa bénédict
 \* *L’Osservatore Romano*, édition hebdomadaire en langue française, numéro 12, 24 mars 2011, page 14.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Congrégation pour la Doctrine de la Foi , Décret *Litteris diei*, 6 juin 1992.
 

@@ -1,9 +1,5 @@
 # Algumas questões sobre a Teologia da Redenção, 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMISSÃO TEOLÓGICA INTERNACIONAL
 
 **ALGUMAS QUESTÕES SOBRE A TEOLOGIA DA REDENÇÃO**
@@ -802,5 +798,3 @@ cf. Justino, *Diálogo com Trifão,* 30,3: PG 6,540.
 152\. Ap 21,1; cf. Is 65,17; 66,22.
 
 153\. Rm 5,21; cf. 8,2.
-
-[](#top)

@@ -1,15 +1,5 @@
 # Dio Trinità e l’unità della famiglia umana – P. Thomas Joseph White, O.P.
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dio Trinità e l’unità della famiglia umana** 

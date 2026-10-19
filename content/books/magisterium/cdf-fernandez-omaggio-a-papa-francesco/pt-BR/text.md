@@ -1,18 +1,8 @@
 # Homenagem ao Papa Francisco: Na sequela de um Pai. O Cardeal Víctor Manuel Fernández em diálogo com a Secção Doutrinal do Dicastério
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Cardeal Víctor Manuel Fernández *Prefeito do Dicastério para a Doutrina da Fé*
-
-* *
 
 **Homenagem ao Papa Francisco**
 
@@ -21,8 +11,6 @@ Cardeal Víctor Manuel Fernández *Prefeito do Dicastério para a Doutrina da F�
 **O Cardeal Víctor Manuel Fernández em diálogo com a Secção Doutrinal do Dicastério**
 
 **11 de junho de 2025**
-
-** **
 
 ***Pergunta:*** Pode nos dar seu testemunho sobre o que, para o senhor que foi particularmente próximo ao Papa Francisco, pode ser considerado o cerne de seu pensamento e, de certa forma, também seu legado para a Igreja?
 

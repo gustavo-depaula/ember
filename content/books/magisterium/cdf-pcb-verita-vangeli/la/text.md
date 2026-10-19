@@ -1,9 +1,5 @@
 # De historica Evangeliorum veritate - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE HISTORICA EVANGELIORUM VERITATE**
@@ -51,8 +47,6 @@ Beniamin N. Wambacq, O.Praem., *Consultor ab Actis.*
 ------------------------------------------------------------------------
 
 *NOTAE*
-
-[](#top)
 
 [^1]: \[\] I Tim. 3,15.
 

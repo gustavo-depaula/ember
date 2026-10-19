@@ -6,8 +6,6 @@ LETTERA APOSTOLICA IN FORMA DI MOTU PROPRIO
 
 ***PER L'ISTITUZIONE DELLA PONTIFICIA COMMISSIONE PER L'INTERPRETAZIONE AUTENTICA DEL CODICE DI DIRITTO CANONICO***
 
-*** ***
-
 Con la promulgazione del nuovo Codice di diritto canonico, da noi fatta recentemente, ci allieta la speranza che «questo sia strumento efficace, che serva alla Chiesa per perfezionare se stessa secondo lo spirito del Concilio Vaticano II, e per dimostrarsi all'altezza nell'eseguire la sua missione di salvezza in questo mondo» (Ioannis Pauli PP. II, *[Sacrae Disciplinae Leges](/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_25011983_sacrae-disciplinae-leges.html)*: *Insegnamenti di Giovanni Paolo II*, VI, 1 (1983) 234).
 
 Per raggiungere questo scopo, si richiede una tale osservanza delle leggi canoniche, che comporti non solo una volontà pronta ad obbedire, ma anche una speciale ed esatta conoscenza e interpretazione delle leggi canoniche. Esse infatti, «poiché obbligano tutti, non debbono contenere nulla di oscuro o di ambiguo» (Gregorii IX, *Pothast*, n. 9526-X, I, 2, 13); atteso però il loro carattere generale, è inevitabile che la loro applicazione ai singoli casi generi difficoltà.
@@ -29,5 +27,3 @@ Con queste nostre Lettere apostoliche decretiamo che cessino la Pontificia commi
 Tutto ciò che abbiamo deliberato con queste Lettere in forma di Motu proprio, vogliamo che sia stabile e valido fin dal momento della sua pubblicazione su «L'Osservatore Romano».
 
 *Dato a Roma, presso S. Pietro, il 2 gennaio 1984 anno sesto del Nostro Pontificato.*
-
-* *

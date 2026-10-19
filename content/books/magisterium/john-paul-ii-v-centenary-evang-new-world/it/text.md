@@ -2,8 +2,6 @@
 
 ***LETTERA APOSTOLICA DI SUA SANTITÀ GIOVANNI PAOLO II AI RELIGIOSI E ALLE RELIGIOSE DELL'AMERICA LATINA IN OCCASIONE DEL V CENTENARIO DELL'EVANGELIZZAZIONE DEL NUOVO MONDO***
 
-*** ***
-
 *Cari religiosi e religiose dell'America Latina,*
 
 **INTRODUZIONE**
@@ -315,7 +313,3 @@ Che la Vergine del «Magnificat», «nel cui cantico risuona la sua fedeltà a D
 A voi tutti, cari religiosi e religiose, impartisco con affetto la mia benedizione apostolica.
 
 *Dato a Roma, presso San Pietro, il 29 Giugno, nella solennità dei Santi Apostoli Pietro e Paolo, dell'anno 1990, Decimosecondo del mio Pontificato.*
-
-* *
-
-* *

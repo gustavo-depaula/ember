@@ -1,13 +1,5 @@
 # Antiqua et nova - Nota sobre la relación entre la inteligencia artificial y la inteligencia humana
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIO PARA LA DOCTRINA DE LA FE  
@@ -16,8 +8,6 @@ DICASTERIO PARA LA CULTURA Y LA EDUCACIÓN
 **ANTIQUA ET NOVA**
 
 ***Nota* sobre la relación entre la inteligencia artificial y la inteligencia humana**
-
-** **
 
 **I. Introducción**
 
@@ -334,17 +324,17 @@ para la Sección Cultura
 **[III. La inteligencia en la tradición filosófica y teológica](#III)**
 
 > [Racionalidad](#Racionalidad)
->
+
 > [Encarnación](#Encarnac)
->
+
 > [Relacionalidad](#Relacionalidad)
->
+
 > [Relación con la Verdad](#Relaci)
->
+
 > [Custodia del mundo](#Custodia_del_mundo)
->
+
 > [Una comprensión integral de la inteligencia humana](#Una_compren)
->
+
 > [Límites de la IA](#mites_de_la_IA)
 
 **[IV. El papel de la ética para guiar el desarrollo y el uso de la IA](#IV)**
@@ -354,29 +344,28 @@ para la Sección Cultura
 **[V. Cuestiones específicas](#V)**
 
 > [La IA y la sociedad](#La_IA_y_la_sociedad)
->
+
 > [La IA y las relaciones humanas](#La_IA_y_las_relaciones_humanas)
->
+
 > [IA, economía y trabajo](#IA,_econo)
->
+
 > [La IA y la sanidad](#La_IA_y_la_sanidad)
->
+
 > [IA y educación](#IA_y_educac)
->
+
 > [IA, desinformación, deepfake y abusos](#IA,_desinforma)
->
+
 > [IA, privacidad y control](#IA,_privacidad_y_control)
->
+
 > [La IA y la protección de la casa común](#La_IA_y_la_protec)
->
+
 > [La IA y la guerra](#La_IA_y_la_guerra)
->
+
 > [La IA y la relación de la humanidad con Dios](#La_IA_y_la_rela)
 
 **[VI. Reflexión final](#VI)**
 
 > [La verdadera sabiduría](#La_verdadera)  
->  
 
 ------------------------------------------------------------------------
 

@@ -1,15 +1,5 @@
 # Complementary Norms for the Apostolic Constitution Anglicanorum coetibus
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
@@ -119,11 +109,11 @@ The Ordinary, in the exercise of this office, must maintain close ties of commun
 § 2. In addition to these responsibilities, the Ordinary needs the consent of the Governing Council to:
 
 > a\. admit a candidate to Holy Orders;
->
+
 > b\. erect or suppress a personal parish;
->
+
 > c\. erect or suppress a house of formation;
->
+
 > d\. approve a program of formation.
 
 § 3. The Ordinary also consults the Governing Council concerning the pastoral activities of the Ordinariate and the principles governing the formation of clergy.
@@ -131,9 +121,9 @@ The Ordinary, in the exercise of this office, must maintain close ties of commun
 § 4. The Governing Council has a deliberative vote:
 
 > a\. when choosing a *terna* of names to submit to the Holy See for the appointment of the Ordinary;
->
+
 > b\. when proposing changes to the Complementary Norms of the Ordinariate to present to the Holy See;
->
+
 > c\. when formulating the Statutes of the Governing Council, the Statutes of the Pastoral Council, and the Rule for houses of formation.
 
 § 5. The Governing Council is composed according to the Statutes of the Council. Half of the membership is elected by the priests of the Ordinariate.

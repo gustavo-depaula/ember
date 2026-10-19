@@ -1,15 +1,5 @@
 # Fragment Przemówienia Ojca Świętego Franciszka podczas Audiencji dla Uczestników Zgromadzenia Plenarnego Dykasterii Nauki Wiary
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Fragment Przemówienia Ojca Świętego Franciszka podczas Audiencji dla Uczestników Zgromadzenia Plenarnego Dykasterii Nauki Wiary**

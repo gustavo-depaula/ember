@@ -1,9 +1,5 @@
 # UWAGI I KOMENTARZ DO DOKUMENTU "ARCIC II" ZBAWIENIE I KOŚCIÓŁ
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **UWAGI I KOMENTARZ DO DOKUMENTU "ARCIC II" ZBAWIENIE I KOŚCIÓŁ**
@@ -118,5 +114,3 @@ Nie negując metody, która przyniosła niekwestionowalne owoce, pojawia się py
 W ten sam sposób chciałoby się widzieć przyznanie większego miejsca Tradycji, szczególnie patrystycznej, Urzędowi Nauczycielskiemu Kościoła oraz oficjalnym aktom Wspólnoty anglikańskiej, na przykład *Trzydziestu dziewięciu artykułom religii*.
 
 Te pytania i rozważania, połączone z uwagami Kongregacji Nauki Wiary, nie mają innego celu, jak umocnić członków "ARCIC II" w postępie na drodze obranej począwszy od 1982 r., kiedy ustanawiając tę Drugą Komisję, Papież Jan Paweł II i Prymas anglikański dr Robert Ranci zlecili jej szczegółowe zadanie "przeanalizowania, szczególnie w świetle naszych uwag do *Raportu Końcowego ("ARCIC I")*, zasadniczych różnic doktrynalnych, które nas jeszcze dzielą, z celem dojścia do ich przyszłego rozwiązania".
-
-[](#top)

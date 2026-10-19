@@ -5,8 +5,6 @@ GREGORIO XVI
 
 ***MAXIMIS ANGUSTIIS***
 
-*** ***
-
 *Al Venerabile Fratello Ferdinando, Arcivescovo di Firenze.*
 
 *Il Papa Gregorio XVI.  Venerabile Fratello, salute e Apostolica Benedizione.*

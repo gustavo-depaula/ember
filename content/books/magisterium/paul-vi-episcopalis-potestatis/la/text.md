@@ -12,7 +12,7 @@ IMPERTIUNTUR.
 Episcopalis Potestatis quae sit amplitudo dilucide definitur a Concilio Oecumenico Vaticano II, quod Nobis feliciter contigit inceptum prosequi et claudere, praesertim in Decreto a verbis *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)* (Cf AAS LVIII (1966), pp. 673-701) incipiente. In hoc enim Decreto, n. 8, quae sequuntur legimus:
 
 > a\) *Episcopis, ut Apostolorum successoribus, in dioecesibus ipsis commissis per se omnis competit potestas ordinaria, propria ac immediata, quae ad excercitium eorum muneris pastoralis requiritur, firma semper in omnibus potestate quam, vi muneris sui, Romanus Pontifex habet sibi vel alii Auctoritati causas reservandi.*
->
+
 > b\) *Singulis Episcopis dioecesanis facultas fit a lege generali Ecclesiae in casu particulari dispensandi fideles in quos ad normam iuris exercent auctoritatem, quoties id ad eorum bonum spirituale conferre iudicent, nisi a Suprema Ecclesiae Auctoritate specialis reservatio facta fuerit* (*Ibid*., p. 676).
 
 Quod praescriptum ut ad effecturn adduceretur, die XV mensis Iunii superioris anni Litteras Apostolicas dedimus de Episcoporum muneribus (Cf AAS LVIII (1966), pp. 467-472), ubi pro universa Ecclesia Latina indicem statuimus legum generalium, quarum relaxationis onus Nobis reservabatur, hoc est legum a quibus dispensandis Apostolica Sedes se numquam non continuit, vel a quibus nonnisi perraro, ob res quae in humana consortione momentum obtinent, dispensare consuevit.
@@ -56,39 +56,39 @@ Ad dispensationem concedendam requiritur iusta et rationabilis causa, habita eti
 Salvis facultatibus quae Patriarchis, Archiepiscopis Maioribus, Legatis Romani Pontificis et Hierarchis legitime competunt, Nobis expresse reservamus dispensationes quae sequuntur:
 
 > **1.** Ab obligatione caelibatus seu a prohibitione matrimonii contrahendi, qua diaconi et presbyteri astringuntur, etiam si ad statum laicalem legitime redacti aut regressi sint, in ritibus in quibus non admittuntur clerici coniugati (Litt. Ap. motu proprio d. *Cleri sanctitati*, can. 157, § 2: AAS XXXXIX (1957), p. 477); in ceteris vero ritibus iidem, si caelibatum libere elegerint.
->
+
 > **2.** In ritibus in quibus non admittuntur clerici coniugati, a prohibitione exercendi ordinem presbyteratus facta coniugatis, qui eundem ordinem sine dispensatione Apostolicae Sedis receperint (*Ibid*., can. 72, § 2: AAS XXXXIX (1957), p. 457).
->
+
 > **3.** A vetito, quod in clericos in maiore Ordine constitutos cadit, exercendi per se vel per alios negotiationem aut mercaturam, sive in propriam sive in aliorum utilitatem (*Ibid*., can. 83).
->
+
 > **4.** A legibus generalibus, quae afficiunt monachos ceterosque religiosos uti tales, non autem quatenus iidem Patriarchis ac Hierarchis locorum ad normam iuris et praesertim Decreti Conciliaris *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)* (nn. 33-35) (Cf AAS LVIII (1966), p. 690) subsunt, firma semper manente religiosa disciplina et salvo iure proprii Superioris. A ceteris legibus generalibus tantum si agatur de monachis Monasterii exempti, vel de religiosis Religionis clericalis exemptae pontificia exemptione.
->
+
 > **5.** Ab obligatione denuntiandi sacerdotem reum delicti sollicitationis in confessione, ad normam Constitutionis Benedicti XIV *Sacramentum Paenitentiae* (Die 1 Iunii 1741; cfr. Codex Iuris Canonici, Documenta, Docum. V, in AAS IX (1917), pp. 505-508).
->
+
 > **6.** Ab impedimento aetatis ad matrimonium valide contrahendum, quoties aetatis defectus biennium excedit (Motu proprio *Crebrae allatae*, can. 32: AAS XXXXI (1949), p. 95).
->
+
 > **7.** Ab impedimento matrimoniali orto ex diaconatu, vel sacro Ordine presbyteratus, vel ex sollemni seu maiore professione religiosa (*Ibid*., can. 62, § 1 et can. 63).
->
+
 > **8.** Ab impedimento criminis, de quo in canone 65, 2 et 3 (*Ibid*.).
->
+
 > **9.** Ab impedimento consanguinitatis in linea recta et in linea obliqua usque ad tertium gradum (*Ibid*., can. 66).
->
+
 > **10.** Ab impedimento orto ex affinitate ex digeneia in linea recta (*Ibid*., cann. 67 et 68).
->
+
 > **11.** Ab omnibus impedimentis matrimonialibus, si agatur de matrimoniis mixtis, quotiescumque servari nequeunt condiciones iure requisitae (*Ibid*., can. 51).
->
+
 > **12.** A forma iure praescripta ad valide contrahendum matrimonium.
->
+
 > **13.** A lege renovandi consensum matrimonialem in sanatione in radice, quoties:
->
+
 > *a)* requiritur dispensatio ab impedimento Sedi Apostolicae reservato;
->
+
 > *b)* agitur de impedimento iuris naturalis vel divini, quod iam cessaverit;
->
+
 > *c)* agitur de matrimoniis mixtis, cum servatae non fuerint condiciones iure praescriptae (*Ibid*., can. 51).
->
+
 > **14.** A poena vindicativa iure communi statuta, quae ab ipsa Sede Apostolica declarata vel inflicta fuerit.
->
+
 > **15.** A tempore statuto pro ieiunio eucharistico. Normae de facultatibus dispensandi, Episcopis iuxta Conciliare Decretum *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_lt.html)* tributis, valere incipient a die VI menses Augusti huius anni, in Transfiguratione Domini Nostri Iesu Christi.
 
 Quaecumque vero a Nobis hisce Litteris motu proprio datis statuta sunt, ea omnia firma ac rata esse iubemus, contrareis quibuslibet non obstantibus.

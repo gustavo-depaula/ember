@@ -1,9 +1,5 @@
 # Carta a los obispos sobre la meditación cristiana
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***CARTA A LOS OBISPOS DE LA IGLESIA CATÓLICA SOBRE ALGUNOS ASPECTOS DE LA MEDITACIÓN CRISTIANA\****
@@ -139,8 +135,6 @@ Cuanto más se le concede a una criatura acercarse a Dios, tanto más crece en e
 \* *AAS* 82 (1990) 362-379.
 
 San Buenaventura hace notar cómo Francisco percibía en cada criatura la huella de Dios y derramaba su alma en el gran himno del reconocimiento y la alabanza (cf. *Legenda S. Francisci*, cap. 9, n. 1, en *Opera Omnia*, ed. Quaracchi 1898, Vol. VIII, p. 530).
-
-[](#top)
 
 [^1]: Con la expresión "métodos orientales" se entienden métodos inspirados en el hinduismo y el budismo, como el "zen", la "meditación trascendental" o el "yoga". Se trata, pues, de métodos de meditación del Extremo Oriente no cristiano que, no pocas veces hoy en día, son utilizados también por algunos cristianos en su meditación. Las orientaciones de principio y de método contenidas en el presente documento desean ser un punto de referencia no sólo para este problema, sino también, más en general, para las diversas formas de oración practicadas en las realidades eclesiales, particularmente en las asociaciones, movimientos y grupos.
 

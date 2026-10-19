@@ -77,9 +77,9 @@ Art. 5
 2\. La Segreteria Generale comprende:
 
 > a\) il Protocollo Generale e l’Archivio Centrale,
->
+
 > b\) l’Unità di Controllo e Ispezione,
->
+
 > c\) il Coordinamento Eventi.
 
 3\. Il Protocollo Generale e l’Archivio Centrale curano il protocollo generale ed il sistema archivistico degli Organi di governo e degli Organismi del Governatorato. L’Archivio Centrale custodisce anche l’Archivio Storico del Governatorato e cura il catalogo della documentazione concernente i singoli Organismi.
@@ -121,17 +121,17 @@ Art. 7
 4\. Sono Direzioni:
 
 > a\) la Direzione delle Infrastrutture e Servizi;
->
+
 > b\) la Direzione delle Telecomunicazioni e dei Sistemi Informatici;
->
+
 > c\) la Direzione dell’Economia;
->
+
 > d\) la Direzione dei Servizi di Sicurezza e Protezione Civile;
->
+
 > e\) la Direzione di Sanità e Igiene;
->
+
 > f\) la Direzione dei Musei e dei Beni Culturali;
->
+
 > g\) la Direzione delle Ville Pontificie.
 
 5\. Il Presidente può attribuire alle Direzioni, per un tempo determinato, competenze ulteriori per il perseguimento di specifici obiettivi; a tal fine può costituire unità operative inter-direzionali.
@@ -161,21 +161,21 @@ Art. 9
 1\. La Direzione delle Infrastrutture e Servizi comprende:
 
 > a\) il settore delle Infrastrutture, a cui fanno capo gli uffici di Studio e Progettazione, di Edilizia, di Laboratorio ed Impiantistica, di Approvvigionamento e Magazzino centrale;
->
+
 > b\) il servizio Giardini e Ambiente, la Floreria.  
 
 2\. La Direzione cura, in particolare:
 
 > a\) il catasto;
->
+
 > b\) la progettazione e l’esecuzione dei lavori;
->
+
 > c\) la manutenzione degli immobili di competenza del Governatorato;
->
+
 > d\) la progettazione, l’esecuzione e la manutenzione degli impianti tecnici, idraulici ed elettrici e la vigilanza sulla loro installazione, in collaborazione con le altre Direzioni interessate;
->
+
 > e\) la vigilanza tecnica sull’attività edilizia;
->
+
 > f\) la tutela dell’ambiente e dell’ecologia nello Stato, la manutenzione dei giardini, delle strade e delle fontane.
 
 3\. La Direzione formula pareri tecnici per il rilascio delle necessarie autorizzazioni relative alla progettazione ed esecuzione di lavori nelle aree di cui all’art. 1 della presente Legge. La Direzione può sovraintendere ai lavori, fatte salve le competenze della Direzione dei Musei e Beni Culturali e della Commissione permanente per la tutela dei monumenti storici ed artistici della Santa Sede.
@@ -189,11 +189,11 @@ Art. 10
 1\. La Direzione delle Telecomunicazioni e dei Sistemi Informatici comprende:
 
 > a\) le Poste e la Filatelia;
->
+
 > b\) la Telefonia;
->
+
 > c\) il servizio Provider Internet;
->
+
 > d\) i Sistemi Informatici.
 
 2\. La Direzione predispone e gestisce le infrastrutture di connettività e di rete ed eroga i relativi servizi per lo Stato della Città del Vaticano e per le Istituzioni della Santa Sede.
@@ -201,9 +201,9 @@ Art. 10
 3\. La Direzione, in particolare:
 
 > a\) progetta e realizza le reti informatiche ed i relativi programmi, assicurando la manutenzione ed il funzionamento e garantendo la sicurezza delle comunicazioni e dei dati;
->
+
 > b\) assiste gli Organi di governo e cura, in attuazione delle direttive ricevute, i rapporti con gli Organismi e gli enti internazionali nei rispettivi settori;
->
+
 > c\) cura le attività relative ai valori e prodotti postali e di filatelia.
 
 Art. 11
@@ -213,17 +213,17 @@ Art. 11
 1\. La Direzione dell’Economia comprende:
 
 > a\) la Ragioneria dello Stato;
->
+
 > b\) le Attività economiche.
 
 2\. La Ragioneria dello Stato comprende:
 
 > a\) la Gestione del patrimonio;
->
+
 > b\) la Contabilità e Bilancio;
->
+
 > c\) la Revisione interna;
->
+
 > d\) la Zecca dello Stato.
 
 3\. La Ragioneria dello Stato collabora con gli Organi di governo per la predisposizione dei bilanci preventivo e consuntivo, con le modalità previste negli artt. 11 e 12 della Legge fondamentale.
@@ -233,11 +233,11 @@ Art. 11
 5\. Le Attività economiche comprendono:
 
 > a\) la Gestione delle attività commerciali;
->
+
 > b\) la Commercializzazione filatelica e numismatica;
->
+
 > c\) i Servizi doganali e transito delle merci;
->
+
 > d\) l’Autoparco.
 
 Art. 12
@@ -277,7 +277,7 @@ Art. 14
 2\. La Direzione comprende le aree:
 
 > a)artistico-scientifica che cura la conservazione, il restauro, la valorizzazione e la diffusione della conoscenza del patrimonio culturale e artistico dello Stato; cura la ricerca scientifica e la formazione degli ambiti di competenza;
->
+
 > b\) gestionale-amministrativa che cura gli aspetti organizzativi ed economici e la fruizione del patrimonio.
 
 3\. La Direzione sovraintende sui beni culturali della Santa Sede, dello Stato della Città del Vaticano, degli Organismi, delle Amministrazioni, degli Enti e degli Istituti aventi sede nello Stato e negli immobili di cui agli artt. 15 e 16 del Trattato Lateranense, esercita le funzioni previste dalla legislazione dello Stato sulla tutela dei beni culturali e nel rispetto dei vincoli internazionali, ai sensi dell’art. 1, comma 4, della Legge LXXI sulle Fonti del Diritto.
@@ -313,15 +313,15 @@ Art. 17
 3\. L’Ufficio, in particolare:
 
 > a\) cura lo Stato Civile, l’Anagrafe ed i relativi adempimenti;
->
+
 > b\) cura i seguenti Registri: Registro vaticano delle persone giuridiche civili, Registro vaticano delle persone giuridiche canoniche, Registro delle Organizzazioni di volontariato, Registro enti senza scopo di lucro, Registro Veicoli Vaticani, Registro navale vaticano, Registri della proprietà artistica e letteraria e della proprietà industriale;
->
+
 > c\) cura l’Archivio e la Conservatoria degli atti pubblici e privati registrati;
->
+
 > d\) predispone la documentazione ed effettua gli adempimenti che gli siano rimessi relativi a convenzioni internazionali applicate nello Stato;
->
+
 > e\) svolge le funzioni notarili dello Stato e supporta l’attività dei Notari;
->
+
 > f\) cura i contratti di assicurazione e relativa gestione.
 
 4\. L’organizzazione e la gestione dell’Albo dei Fornitori e la verifica dei requisiti richiesti sono affidate all’Ufficio Giuridico.
@@ -335,15 +335,15 @@ Art. 18
 2\. L’Ufficio, in particolare:
 
 > a\) cura l’archivio e l’anagrafe del personale, aggiorna i fascicoli individuali, elabora gli stipendi, i contributi assistenziali e previdenziali e opera le relative procedure di contabilizzazione e pagamento;
->
+
 > b\) controlla la corretta applicazione del Regolamento generale per il personale del Governatorato dello Stato della Città del Vaticano e delle norme in materia di rapporti di lavoro;
->
+
 > c\) cura la documentazione e la segreteria della Commissione per il Personale;
->
+
 > d\) assiste gli Organi di governo nella selezione del personale e per il funzionamento della Commissione per la selezione del personale laico;
->
+
 > e\) ai fini delle necessarie autorizzazioni degli Organi di governo, verifica l’esigenza e l’appropriatezza del ricorso a somministrazione di lavoro esterno; vigila sulla regolarità dei rapporti di lavoro del personale dipendente di imprese estere operanti nello Stato;
->
+
 > f\) su indicazione degli Organi di governo promuove e programma la formazione e l’aggiornamento professionale.
 
 **TITOLO V**
@@ -367,11 +367,11 @@ Art. 20
 1\. Sono Organismi ausiliari degli Organi di governo, retti da specifiche normative:
 
 > *a)* il *Comitato per le questioni monetarie;*
->
+
 > *b)* la *Commissione Disciplinare*;
->
+
 > *c)* la *Commissione per il Personale*;
->
+
 > *d)* la *Commissione per la selezione del personale laico.*
 
 2\. Con atto del Presidente possono essere costituiti altri Organismi ausiliari con specifici compiti e per un tempo determinato.
@@ -423,13 +423,13 @@ Art. 24
 3\. Il Direttore cura in particolare:
 
 > a\) l’attuazione dei programmi e il raggiungimento degli obiettivi;
->
+
 > b\) l’organizzazione e l’impiego del personale;
->
+
 > c\) l’utilizzo dei beni e delle risorse della Direzione;
->
+
 > d\) l’approvvigionamento dei beni e servizi esteri necessari nel rispetto dei limiti del bilancio preventivo approvato ai sensi dell’Art. 12 della Legge fondamentale, operando gare e ricerche di mercato;
->
+
 > e\) la sicurezza dei luoghi di lavoro e la protezione dei dati in cooperazione con gli Organismi competenti.
 
 Art. 25

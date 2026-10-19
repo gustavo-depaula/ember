@@ -1,9 +1,5 @@
 # Exequien für Kardinal Corrado Bafile in der Petersbasilika - Predigt von Kard. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 EXEQUIEN FÜR KARD. CORRADO BAFILE
 
 ***PREDIGT VON KARD. JOSEPH RATZINGER, DEKAN DES KARDINALSKOLLEGIUMS, WÄHREND DER IM NAMEN VON JOHANNES PAUL II. VORGESESSENEN EUCHARISTIEFEIER***
@@ -25,5 +21,3 @@ Eine dritte Episode. Er war auf den Namen Konrad getauft worden, den Namen eines
 Mit diesen kurzen Bemerkungen wollte ich seinen inneren Lebensaspekt ins Licht stellen, ohne dabei die großartige öffentliche Arbeit zu vergessen, die der Nuntius in Deutschland geleistet hat. Im Zusammenhang mit dem politischen und kirchlichen Wiederaufbau Deutschlands nach dem Krieg hat er nicht weniger als ein Konkordat und elf Abkommen zwischen dem Heiligen Stuhl und den einzelnen Ländern der Bundesrepublik Deutschland geschlossen. Ein Politiker, mit dem ich zusammengearbeitet habe, erwähnte mir gegenüber mit höchstem Respekt die außerordentliche Kompetenz und edle Menschlichkeit von Nuntius Bafile.
 
 Im Juli 1975 wurde Corrado Bafile von Papst Paul VI. nach Rom berufen und im Mai 1976 zum Kardinal kreiert und zum Präfekten der Kongregation für die Selig- und Heiligsprechungsprozesse ernannt. »Vado ad Patrem«: In den beinahe 30 Jahren nach seiner Kardinalsernennung wurde diese innere Ausrichtung seines ganzen Lebensweges immer deutlicher. Unser verstorbener Kardinal hatte Jesu Antwort auf die Frage des Apostels Thomas, wo der Weg und das Ziel unseres Lebens seien, gut gekannt: »Ich bin der Weg und die Wahrheit und das Leben« (*Joh* 14,6). Er hat die Antwort nicht nur intellektuell gekannt, sondern sein ganzes Dasein war davon geformt und durchdrungen. Er lebte in Gemeinschaft mit Jesus Christus, dem Sohn des lebendigen Gottes. In diesem Augenblick hören wir noch ein weiteres, aktuelles Wort des Herrn: »Ihr seid jetzt bekümmert, aber ich werde euch wiedersehen, dann wird euer Herz sich freuen« (*Joh* 16,22). Kardinal Bafile lebte, seinen Blick auf Jesus gerichtet; er war auf dem Weg zum Vater, auf dem Weg zur endgültigen Begegnung mit dem auferstandenen Herrn, auf dem Weg zur Freude, die niemand nehmen kann (vgl. *Joh* 16,23). Amen.
-
-[](#top)

@@ -1,9 +1,5 @@
 # L'opera del R.D. Federico Schmidtke dal titolo Die Einwanderung Israels in Kanaan - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **L'OPERA DEL R.D. FEDERICO SCHMIDTKE DAL TITOLO «DIE EINWANDERUNG ISRAELS IN KANAAN**
@@ -28,5 +24,3 @@ Inoltre ricorda a tutti i fedeli che, riguardo all'autorità dei decreti della P
 
 Giovanni Battista Frey, C.S.Sp.  
 *Segretario consultore*
-
-[](#top)

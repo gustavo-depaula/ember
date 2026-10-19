@@ -568,31 +568,31 @@ Com efeito, como continuamente denunciou o Sínodo, a situação que numerosas f
 Por tudo isto a Igreja defende aberta e fortemente os direitos da família contra as intoleráveis usurpações da sociedade e do Estado. De modo particular, os Padres Sinodais recordam, entre outros, os seguintes direitos da família:
 
 > \- o direito de existir e progredir como família, isto é o direito de cada homem, mesmo o pobre, a fundar uma família e a ter os meios adequados para a sustentar;  
->
+
 > \- o direito de exercer as suas responsabilidades no âmbito de transmitir a vida e de educar os filhos;
->
+
 > \- o direito à intimidade da vida conjugal e familiar;
->
+
 > \- o direito à estabilidade do vínculo e da instituição matrimonial;
->
+
 > \- o direito de crer e de professar a própria fé, e de a difundir;
->
+
 > \- o direito de educar os filhos segundo as próprias tradições e valores religiosos e culturais, com os instrumentos, os meios e as instituições necessárias;
->
+
 > \- o direito de obter a segurança física, social, política, económica, especialmente tratando-se de pobres e de enfermos;
->
+
 > \- o direito de ter uma habitação digna a conduzir convenientemente a vida familiar;
->
+
 > \- o direito de expressão e representação diante das autoridades públicas económicas, sociais e culturais e outras inferiores, quer directamente quer através de associações;
->
+
 > \- o direito de criar associações com outras famílias e instituições, para um desempenho de modo adequado e solícito do próprio dever;
->
+
 > \- o direito de proteger os menores de medicamentos prejudiciais, da pornografia, do alcoolismo, etc. mediante instituições e legislações adequadas;
->
+
 > \- o direito à distracção honesta que favoreça também os valores da família;
->
+
 > \- o direito das pessoas de idade a viver e morrer dignamente;
->
+
 > \- o direito de emigrar como família para encontrar vida melhor([^112]).
 
 A Santa Sé, acolhendo o pedido explícito do Sínodo, terá o cuidado de aprofundar tais sugestões, elaborando uma «Carta dos direitos da família» a propor aos ambientes e às Autoridades interessadas.
@@ -959,7 +959,7 @@ No que diz respeito à forma litúrgica e canónica do matrimónio, os Ordinári
 No tratamento destas exigências especiais é preciso ter em conta os pontos seguintes:
 
 > \- na preparação própria para este tipo de matrimónio, deve ser feito um esforço razoável para proporcionar um bom conhecimento da doutrina católica sobre as qualidades e exigências do matrimónio, como também para se certificar de que no futuro não se verifiquem as pressões e os obstáculos, de que até agora se tem tratado;  
->
+
 > \- é de suma importância que, com o apoio da comunidade, a parte católica seja fortificada na fé e ajudada positivamente a amadurecer na sua compreensão e na sua prática, de modo a tornar-se testemunha autêntica no seio da família, mediante a vida e a qualidade de amor demonstrado ao cônjuge e aos filhos.
 
 Os matrimónios entre católicos e outros baptizados, na sua fisionomia particular, apresentam numerosos elementos que convêm valorizar e desenvolver, quer pelo seu valor intrínseco, quer pela ajuda que podem dar ao movimento ecuménico. Isto é verdade de um modo particular quando os dois cônjuges são fiéis aos seus deveres religiosos. O baptismo comum e o dinamismo da graça fornecem aos esposos, nestes matrimónios, a base e a motivação para exprimir a sua unidade na esfera dos valores morais e espirituais.

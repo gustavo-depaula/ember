@@ -1,9 +1,5 @@
 # Decreto com o qual se acrescenta o nome de São José nas Orações Eucarísticas II, III e IV do Missal Romano, 1º de maio de 2013
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 CONGREGAÇÃO PARA O CULTO DIVINO  
 E A DISCIPLINA DOS SACRAMENTOS
 
@@ -113,5 +109,3 @@ III Modlitwa eucharystyczna:
 
 IV Modlitwa eucharystyczna:  
 «*z Najświętszą Dziewicą, Bogurodzicą Maryją*, **ze świętym Józefem, Jej Oblubieńcem**, *z Apostołami...*».
-
-[](#top)

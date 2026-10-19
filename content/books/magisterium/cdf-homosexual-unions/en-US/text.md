@@ -1,9 +1,5 @@
 # Considerations Regarding Proposals To Give Legal Recognition To Unions Between Homosexual Persons
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***CONSIDERATIONS REGARDING PROPOSALS TO GIVE LEGAL RECOGNITION TO UNIONS BETWEEN HOMOSEXUAL PERSONS***
@@ -95,8 +91,6 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, June 3
 ------------------------------------------------------------------------
 
 **NOTES**
-
-[](#top)
 
 [^1]: (#fnref1)) Cf. John Paul II, *Angelus Messages* of February 20, 1994, and of June 19, 1994; *Address to the Plenary Meeting of the Pontifical Council for the Family* (March 24, 1999); *Catechism of the Catholic Church,* Nos. 2357-2359, 2396; Congregation for the Doctrine of the Faith, Declaration *Persona humana* (December 29, 1975), 8; *Letter on the pastoral care of homosexual persons* (October 1, 1986); *Some considerations concerning the response to legislative proposals on the non-discrimination of homosexual persons* (July 24, 1992); Pontifical Council for the Family, *Letter to the Presidents of the Bishops' Conferences of Europe on the resolution of the European Parliament regarding homosexual couples* (March 25, 1994); *Family, marriage and “de facto” unions* (July 26, 2000), 23.
 

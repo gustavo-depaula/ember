@@ -1,9 +1,5 @@
 # Lettre au Père Edward Schillebeeckx concernant son livre «Kerkelijk Ambt», 13 juin 1984
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***EPISTULA R. P. EDUARDO SCHILLEBEECKX O.P. MISSA***
@@ -47,5 +43,3 @@ Veuillez agréer, mon Révérend Père, l'expression de mes sentiments de respec
 \+ Alberto Bovone, *Secrétaire*
 
 [\*](#_ftnref*) *AAS* 77 (1985), 994-997.
-
-[](#top)

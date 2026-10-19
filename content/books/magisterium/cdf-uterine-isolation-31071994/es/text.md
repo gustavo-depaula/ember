@@ -1,9 +1,5 @@
 # SOBRE EL "AISLAMIENTO UTERINO" Y OTRAS CUESTIONES
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***RESPUESTAS A LAS PREGUNTAS PRESENTADAS SOBRE EL "AISLAMIENTO UTERINO" Y OTRAS CUESTIONES***
@@ -41,5 +37,3 @@ La opinión contraria, que considera las susodichas prácticas a las que se refi
 
 **+ Alberto Bovone**  
 *Arzobispo tit. de Cesarea de Numidia Secretario*
-
-[](#top)

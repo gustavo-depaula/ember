@@ -1,9 +1,5 @@
 # Note sur la valeur des décrets doctrinaux concernant la pensée et les oeuvres du R.P. Antonio Rosmini-Serbati
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***NOTE SUR LA VALEUR DES DÉCRETS DOCTRINAUX CONCERNANT LA PENSÉE ET LES OEUVRES DU R.P. ANTONIO ROSMINI SERBATI***
@@ -40,5 +36,3 @@ NOTES
 *(1) Antonio Rosmini, Lettre au Pape Pie IX,* in *Epistolario completo,* Casale Montferrato, tip. Pane 1892, vol. X, 541 (lettre 6341).  
 
 (2) Jean-Paul II, Lettre Encyclique *Fides et ratio,* n. 74 in ORLF supplément au n. 42 du 20 octobre 1998.
-
-[](#top)

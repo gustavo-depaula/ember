@@ -28,6 +28,4 @@ Vôtre dans le Seigneur
 
 **BENEDICTUS PP. XVI**
 
-** **
-
 *Du Vatican, le 10 mars 2009.*

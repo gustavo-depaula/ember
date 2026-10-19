@@ -1,15 +1,5 @@
 # Letter to the Presidents of the Episcopal Conferences on the Rite of Institution of Catechists
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Congregation for Divine Worship and the Discipline of the Sacraments

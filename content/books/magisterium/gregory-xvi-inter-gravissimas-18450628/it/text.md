@@ -5,8 +5,6 @@ GREGORIO XVI
 
 ***INTER GRAVISSIMAS***
 
-*** ***
-
 *Ai Venerabili Fratelli Arcivescovi e Vescovi del Granducato dell’Etruria.*
 
 *Il Papa Gregorio XVI.  Venerabili Fratelli, salute e Apostolica Benedizione.*

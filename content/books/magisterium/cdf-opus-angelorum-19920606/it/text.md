@@ -1,9 +1,5 @@
 # Decreto riguardante la dottrina e gli usi dellÂÂÂAssociazione «Opus Angelorum», 6 giugno 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **Decreto riguardante la dottrina e gli usi dellÂÂÂ’Associazione «*Opus Angelorum*»**
@@ -47,5 +43,3 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, 6 giugno 1992.
 **+ Alberto Bovone** Arciv. tit. di Cesarea di Numidia *Segretario*
 
 \(1\) Cf. Benedetto XIV, *Doctrina de Beatificatione Servorum Dei et de Canonizatione Beatorum*, lib. IV, Pars II, cap. XXX, *De Angeli set eorum cultu*, Venetiis 1777.
-
-[](#top)

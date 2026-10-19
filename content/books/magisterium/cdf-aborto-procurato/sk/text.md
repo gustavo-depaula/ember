@@ -1,9 +1,5 @@
 # Vysvetlenie ohľadom umelého potratu
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Kongregácie pre náuku viery
 
 Vysvetlenie ohľadom umelého potratu**\***
@@ -27,5 +23,3 @@ Pri stanovení medicínskej liečby, ktorej cieľom je zachrániť zdravie matky
 Pokiaľ ide o zodpovednosť zdravotníckych pracovníkov, je potrebné pripomenúť slová Jána Pavla II: „Ich profesia im káže chrániť ľudský život a slúžiť mu. V dnešnom kultúrnom a spoločenskom kontexte, v ktorom lekárska veda a lekárske umenie akoby strácali svoj pôvodný vnútorný etický rozmer, často sú silno pokúšané manipulovať životom, alebo priamo spôsobovať smrť. Vzhľadom na toto pokušenie nesmierne vzrastá ich zodpovednosť, ktorá má svoj najhlbší zdroj a najsilnejšiu oporu v nevyhnutnom vnútornom etickom rozmere lekárskej profesie, o čom svedčí starobylá, ale stále aktuálna Hippokratova prísaha, podľa ktorej je každý lekár povinný preukazovať najvyššiu úctu ľudskému životu a jeho posvätnosti“ (Evangelium vitae, 89).
 
 \* [www.kbs.sk](http://www.kbs.sk)
-
-[](#top)

@@ -1,9 +1,5 @@
 # Responsa ad proposita dubia de validitate baptismatis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 RESPONSA AD PROPOSITA DUBIA
@@ -31,7 +27,3 @@ Datum Romæ, ex Ædibus Congregationis pro Doctrina Fidei, die I mensis Februari
 
 **Angelo AMATO, S.D.B.**  
 Archiepiscopus tit. Silensis *Secretarius*
-
-*    *   
-
-[](#top)

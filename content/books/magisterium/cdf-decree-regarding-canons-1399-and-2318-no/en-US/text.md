@@ -1,13 +1,5 @@
 # Decree regarding canons 1399 and 2318 no longer in force, 15 November 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH**

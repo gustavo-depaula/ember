@@ -1,9 +1,5 @@
 # Mensagem por ocasião do Ano Mariano, 1987
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMISSÃO TEOLÓGICA INTERNACIONAL
 
 ***MENSAGEM AO PRESIDENTE DO COMITÉ CENTRAL PARA O ANO MARIANO ***
@@ -26,5 +22,3 @@ Que Ela interceda por nós, pobres pecadores, agora e na hora da nossa morte, a 
 
 Comissão Teológica Internacional  
 **Philippe Delhaye** *Secretário*
-
-[](#top)

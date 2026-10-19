@@ -1,9 +1,5 @@
 # La parusia ovvero la seconda venuta del Signore Nostro Gesù Cristo nelle lettere di San Paolo apostolo - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **LA PARUSIA OVVERO LA SECONDA VENUTA DEL SIGNORE NOSTRO GESÙ CRISTO NELLE LETTERE DI SAN PAOLO APOSTOLO**
@@ -27,5 +23,3 @@ Risposta: No.
 Lorenzo JANSSENS, O.S.B.  
 Ab. tit. di Monte Blandino  
 *Segretario consultore*
-
-[](#top)

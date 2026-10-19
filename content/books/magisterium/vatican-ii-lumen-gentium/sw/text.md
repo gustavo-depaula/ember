@@ -1,22 +1,10 @@
 # Lumen gentium
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Konstitusio ya kidogma juu ya Fumbo la Kanisa**
 
 **Paulo Askofu Mtumishi wa watumishi wa Mungu pamoja na Mababa wa Mtaguso mkuu ataka haya yakumbukwe daima**
-
-** **
 
 Sura ya Kwanza
 
@@ -527,8 +515,6 @@ Kanisa halisiti kuikiri wazi huduma hii ya Maria iliyowekwa chini \[ya ile ya Kr
 69\. Mtaguso huu Mkuu unaona furaha kubwa na faraja kwa kuwa hata kati ya ndugu waliojitenga hawakosi kuwapo wanaomtolea Mama wa Bwana na Mwokozi heshima stahili, hasa kati ya wakristo wa Mashariki, wanaoshirikiana nasi katika kumheshimu Mama wa Mungu aliye Bikira daima, kwa bidii ya ari na moyo wa ibada[^195]. Waamini wote wakristo wamsihi kwa nguvu Mama wa Mungu na Mama wa wanadamu, ili yeye aliyeusaidia mwanzo wa Kanisa kwa maombezi yake, pia sasa aliyetukuzwa mbinguni, juu ya Wenye heri na Malaika, awaombee kwa Mwanawe katika Ushirika wa Watakatifu wote, mpaka jamaa zote za mataifa zilizopambwa jina la Kristo au zisizomjua bado Mwokozi wao, zikusanyike kwa furaha kuwa Taifa moja la Mungu katika amani na mapatano, kwa utukufu wa Utatu Mtakatifu sana usiogawanyika.
 
 *Mambo yote yaliyoamuliwa katika konstitusio hii, na kila moja kati yao, yamewapendeza Mababa wa Mtaguso Mkuu. Nasi, kadiri ya mamlaka ya kitume tuliyopewa na Kristo, na pamoja na Mababa waheshimiwa, katika Roho Mtakatifu, tunayakubali, tunayaidhinisha na tunayathibitisha. Na yale yote yaliyoamuliwa kwa pamoja katika Sinodi hii, tunaamuru yawekwe kwa utukufu wa Mungu.*
-
-* *
 
 *Roma, katika Kanisa la Mt. Petro, 21 Novemba 1964*
 

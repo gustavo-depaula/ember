@@ -1,9 +1,5 @@
 # Nota doctrinal ilustrativa de la fórmula conclusiva de la Professio fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 **PREFACIO**
@@ -192,8 +188,6 @@ En cada profesión de fe, la Iglesia verifica las diferentes etapas que ha recor
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: CONGREGATIO PRO DOCTRINA FIDEI, *Professio Fidei et Iusiurandum fidelitatis in suscipiendo officio nomine Ecclesiae exercendo*, 9 Ianuarii 1989, in AAS 81 (1989) p.105.
 

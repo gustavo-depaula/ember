@@ -1,17 +1,13 @@
 # Apresentação da Instrução Redemptionis Sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  **CONGREGAÇÃO PARA O CULTO DIVINO  E A DISCIPLINA DOS SACRAMENTOS**
+**CONGREGAÇÃO PARA O CULTO DIVINO  E A DISCIPLINA DOS SACRAMENTOS**
 
 ***APRESENTAÇÃO DA INSTRUÇÃO "REDEMPTIONIS SACRAMENTUM"***
 
 ***Sobre alguns aspectos que se devem observar  e evitar acerca da Santíssima Eucaristia***
 
 > **[INTERVENÇÃO DE D. ANGELO AMATO](#INTERVENÇÃO%20DE%20D.%20ANGELO%20AMATO)**
->
+
 > [INTERVENÇÃO DE D. DOMENICO SORRENTINO](#INTERVENÇÃO%20DE%20D.%20DOMENICO%20SORRENTINO)
 
 ------------------------------------------------------------------------
@@ -122,5 +118,3 @@ Em síntese, ao oferecer este instrumento temático teológico-pastoral e, ao me
 Contudo, para além do seu sentido de correcção, é importante captar o seu íntimo sentido de promoção. Mesmo subtilmente, vislumbram-se as linhas de uma *espiritualidade litúrgica* e de uma *pastoral litúrgica.* Sem dúvida, é nisto que se encontra o antídoto contra os abusos. Lida sob este ponto de vista, parece-me que a *Instrução* elaborada pela Congregação para o Culto Divino e a Disciplina dos Sacramentos, em harmonia com a Congregação para a Doutrina da Fé, pode ser acolhida como um instrumento útil e espero eficaz para que, a quarenta anos de distância da *Sacrosanctum concilium* e enquanto nos preparamos para outro momento importante, que é o anunciado *Sínodo sobre a Eucaristia,* a liturgia seja cada vez melhor vivida como fonte e ápice da vida eclesial.
 
 *23 de Abril de 2004*.
-
-[](#top)

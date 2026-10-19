@@ -24,11 +24,11 @@ Sed, ad haec postrema quod attinet, cum post editam Constitutionem et quaestione
 Quapropter Nostra Aspostolica auctoritate concedimus sacris confessariis, ad audiendas sacramentales confessiones legitime approbatis, quae sequuntur, facultates, quibus solummodo per idem tempus, in foro conscientiae et in sacramentali confessione utantur. Quocirca iidem poterunt:
 
 > *1)* absolvere a quibusvis censuris et poenis ecclesiasticis quoscumque paenitentes, qui scienter doctrinas haereticas, schismaticas vel atheisticas quomodocumque externe professi fuerint, dummodo unusquisque paenitens, sincere dolens, coram confessario errores detestetur et data forte scandala se resarturum promittat; iniuncta congrua et salutari paenitentia, et addito consilio ad Sacramenta frequenter accedendi;
->
+
 > *2)* absolvere a censuris et poenis ecclesiasticis eos qui libros apostatarum, haereticorum aut schismaticorum, pro apostasia, haeresi aut schismate propugnantes, aliosve per Apostolicas Litteras nominatim prohibitos, scienter sine debita venia legerint, vel apud se retinuerint; iniuncta congrua ac salutari paenitentia, et addita admonitione circa librorum cautam retentionem vel destructionem;
->
+
 > *3)* absolvere a censuris et poenis ecclesiasticis eos qui nomen dederint sectae massonicae aliisque eiusdem generis consociationibus, quae contra Ecclesiam vel legitimas civiles potestates machinantur; dummodo a sua secta vel consociatione omnino se separent, et scandala vel damna pro viribus se sarturos et praecauturos esse promittant; iniuncta, pro modo culparum, gravi paenitentia salutari;
->
+
 > *4)* solvere, commutando, consideratis causis, in alia paenitentiae vel pietatis opera, ab omnibus votis privatis, etiam Sedi Apostolicae reservatis, dummodo solutio ne laedat ius aliis quaesitum.
 
 **II.**
@@ -36,11 +36,11 @@ Quapropter Nostra Aspostolica auctoritate concedimus sacris confessariis, ad aud
 Concedimus praeterea ut, piaculari hoc tempore, omnes utriusque sexus christifideles, qui rite Paenitentiae Sacramento expiati et sacra Synaxi refecti ad mentem Nostram precati fuerint, Indulgentiam plenariam lucrari valeant:
 
 > *1)* quotiescumque tribus saltem institutionibus de Concilii Oecumenici Vaticani II decretis, in aede sacra vel alio apto loco habendis, interfuerint;
->
+
 > *2)* quotiescumque tribus saltem contionibus, ad modum sacrarum Missionum, quas vocant, habendis, in quovis templo pie astiterint;
->
+
 > *3)* quotiescumque Eucharistico Sacrificio quadam cum sollemnitate a quolibet Episcopo in cathedrali templo vel in alia aede sacra ab Ordinario loci designata, ad normam Decreti Sacrae Paenitentiariae Apostolicae die XX mensis Decembris anno MDCCCCLXV dati (AAS LVII (1965), pp. 1018), pie interfuerint; quod qui die festo egerint, praecepto astandi Sacro satisfacient;
->
+
 > *4)* *semel vero tantum*, qui cathedrale templum vel aliam aedem sacram ad normam Decreti, nuper commemorati, nondum inviserint, si hoc fecerint, et qualibet legitima formula adhibita, fieri professionem iteraverint.
 
 **III.**

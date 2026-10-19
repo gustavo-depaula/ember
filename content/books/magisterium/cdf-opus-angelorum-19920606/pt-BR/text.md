@@ -1,9 +1,5 @@
 # Decreto sobre a Associação «Opus Angelorum», 6 de junho de 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 *** DECRETO SOBRE A ASSOCIAÇÃO CHAMADA «OPUS ANGELORUM»******\****
@@ -47,5 +43,3 @@ V. Um Delegado com faculdades especiais, nomeado pela Santa Sé, verificará e e
 **Alberto Bovone** * Arcebispo Titular de Cesareia de Numídia Secretário*
 
 \* *L’Osservatore Romano*, Edição semanal, N. 29, 19 de Julho de 1992, Pág. 7 (395) = *AAS* 84 (1992), 805-806.
-
-[](#top)

@@ -7,8 +7,6 @@ LITTERAE ENCYCLICAE
 
 DE COMMUNI DOMO COLENDA
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_lt.pdf)
-
 1. “ Laudato si’, mi’ Signore”, sanctus Franciscus Assisiensis cantabat. Venusto hoc in cantico nos ille monebat nostram communem domum esse quoque sororem, quacum exsistentiam communicamus, atque veluti pulchram matrem in complexum nos recipere. “Laudatus sis, mi Domine, propter sororem nostram matrem terram quae nos sustentat et gubernat, et producit diversos fructus cum coloratis floribus et herba”. [^1]
 
 2. Haec soror obiurgat nos sibi damnum facientes propter insanum usum bonorumque sibi a Deo datorum abusum. Adolevimus cogitantes eius nos esse possessores ac dominos, facultatem eam vastandi habentes. Violentia quae in hominis corde, peccato sauciato, insidet, in morbi etiam indiciis manifestatur, quem inesse in solo, aqua, aëre, animantibus percipimus. Quapropter inter desertiores vexatioresque pauperes nostra annumeratur oppressa vastataque terra, quae «congemiscit et comparturit» (*Rom* 8,22). Obliviscimur nos de limo terrae ipsos esse (cfr *Gn* 2,7). Ipsum nostrum corpus orbis terrarum ex elementis constat, eodem ex aëre spiritum trahimus atque eius aqua nos vivificat ac reficit.
@@ -741,8 +739,6 @@ Amen.
 *[Sanctus Franciscus Assisiensis](#Sanctus_Franciscus_Assisiensis)* \[10-12\]
 
 *[Nostra adhortatio](#Nostra_adhortatio)* \[13-16\]
-
-* *
 
 [CAPUT PRIMUM](#CAPUT_PRIMUM)
 

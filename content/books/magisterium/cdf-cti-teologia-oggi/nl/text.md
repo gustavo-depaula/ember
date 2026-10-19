@@ -1,9 +1,5 @@
 # THEOLOGIE VANDAAG: Perspectieven, principes en criteria (2012) - Internationale Theologische Commissie
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Internationale Theologische Commissie**
 
 **THEOLOGIE VANDAAG: Perspectieven, principes en criteria**
@@ -293,8 +289,6 @@ Vrijgegeven te Rome op 8 maart 2012
 ------------------------------------------------------------------------
 
   \[1\]  Vaticanum II, *Gaudium et Spes* 3. Tenzij anders vermeld, zijn de citaten uit de documenten van Vaticanum II ontleend aan de uitgave van het *Katholiek Archief*, Amersfoort: De Horstink, 1967 (Leusden: Stichting ARK, 1986).
-
-[](#top)
 
 [^2]: Zie voor deze laatste twee respectievelijk nrs. 92-94 en nrs. 10 en 25-32 ** **van dit document.
 

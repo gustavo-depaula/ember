@@ -1,9 +1,5 @@
 # Au sujet de l’Instruction DIGNITAS PERSONAE, 12 décembre 2008
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***SYNTHÈSE DE L’INSTRUCTION "DIGNITAS PERSONAE:  *****SUR CERTAINES QUESTIONS DE BIOETHIQUE*****"***
@@ -41,7 +37,7 @@ L’[instruction](rc_con_cfaith_doc_20081208_dignitas-personae_fr.html) « compr
 ***Les deux principes fondamentaux***
 
 > « L’être humain doit être respecté et traité comme une personne dès sa conception, et donc dès ce moment, on doit lui reconnaître les droits de la personne, parmi lesquels en premier lieu le droit inviolable de tout être humain innocent à la vie » (n. 4).
->
+
 > « Le mariage et la famille constituent le contexte authentique où la vie humaine trouve son origine. En son sein, la vie provient d’un acte qui exprime l’amour réciproque entre l’homme et la femme. Une procréation réellement responsable vis-à-vis de l’enfant qui va naître doit être le fruit du mariage » (n. 6).
 
 ***Foi e dignité humaine***
@@ -65,21 +61,21 @@ L’[instruction](rc_con_cfaith_doc_20081208_dignitas-personae_fr.html) « compr
 Parmi les techniques actuelles visant à surmonter l’infertilité, il y a :
 
 > « les techniques de fécondation artificielle hétérologue » (n. 12) : « destinées à obtenir artificiellement une conception humaine à partir de gamètes provenant d’au moins un donneur autre que les époux qui sont unis en mariage » (note 22) ;
->
+
 > « les techniques de fécondation artificielle homologue » (n. 12) : destinées « à obtenir une conception humaine à partir des gamètes de deux époux unis en mariage» (note 23) ;
->
+
 > « les techniques qui sont comme une aide à l’acte conjugal et à sa fécondité » (n. 12) ;
->
+
 > « les techniques visant à l’élimination des obstacles à la fécondité naturelle » (n. 13) ;
->
+
 > « la procédure d’adoption » (n. 13).
 
 Ainsi sont licites les techniques qui respectent « le droit à la vie et à l’intégrité physique de tout être humain », « l’unité du mariage qui implique le respect mutuel du droit des conjoints à devenir père et mère seulement l’un à travers l’autre » et « les valeurs spécifiquement humaines de la sexualité, qui exigent que la procréation d’une personne humaine doit être poursuivie comme le fruit de l’acte conjugal spécifique de l’amour des époux » (n. 12).
 
 > Sont donc « admissibles les techniques qui apparaissent comme une aide à la procréation et à la fécondité … Dans ce domaine, l’intervention médicale est respectueuse de la dignité des personnes quand elle vise à aider l’acte conjugal, pour en faciliter l’accomplissement, soit pour lui permettre d’atteindre sa fin une fois qu’il a été accompli normalement » (n. 12).
->
+
 > Sont « certainement licites les techniques visant à l’élimination des obstacles à la fécondité naturelle » (n. 13).
->
+
 > Il serait « souhaitable d’encourager, de promouvoir et de faciliter \[…\] la procédure d’adoption des nombreux enfants orphelins ». « Les recherches et les investissements consacrés à la prévention de la stérilité, méritent d’être encouragés » (n. 13).
 
 ***Fécondation in vitro et destruction délibérée des embryons***
@@ -99,7 +95,7 @@ Cette technique est moralement illicite : « elle réalise une totale dissociati
 « Pour ne pas répéter les prélèvements d’ovocytes chez la femme, on opère un prélèvement unique de nombreux ovocytes que l’on féconde in vitro, et l’on conserve congelés une partie importante des embryons ainsi obtenus, en prévision d’un deuxième cycle de traitement, en cas d’échec du premier essai, ou pour les cas où les parents désireraient une autre grossesse » (n. 18). La congélation ou la cryoconservation des embryons est «une technique de refroidisement à de très basses températures dans le but d’en obtenir une longue conservation » ([^35]).
 
 > « La cryoconservation est incompatible avec le respect dû aux embryons humains: elle présuppose leur production in vitro et les expose à de graves dangers de mort ou à des altérations de leur intégrité physique, ainsi que le montre le pourcentage élevé qui ne survit pas à la technique de congélation et de décongélation. Elle les prive, au moins temporairement, de l’accueil maternel et du développement dans la gestation et les place dans une situation qui les expose à des atteintes et manipulations ultérieures » (n. 18).
->
+
 > En ce qui concerne le grand nombre d’embryons congelés déjà existants, on se demande ce qu’il faut en faire. A ce sujet, toutes les propositions faites (utiliser ces embryons pour la recherche ou les destiner à des fins thérapeutiques, décongeler ces embryons et, sans les réactiver, les utiliser pour la recherche comme si c’était de simples cadavres, mettre ces embryons à la disposition des couples infertiles, comme « thérapie de l’infertilité », procéder à une forme d’«adoption prénatale») posent des problèmes à divers niveaux. « En définitif, il faut constater que les milliers d’embryons en état d’abandon traduisent une situation d’injustice qui est, de fait, irréparable. C’est pourquoi Jean-Paul II a lancé un appel à la conscience des responsables du monde scientifique et de façon particulière aux médecins pour que soit arrêtée la production d’embryons humains, en tenant compte du fait que l’on n’aperçoit aucune issue moralement licite pour le destin humain des milliers et des milliers d’embryons ‘congelés’, qui sont et restent toujours les détenteurs des droits essentiels, et qu’il faut donc sauvegarder juridiquement comme des personnes humaines » (n. 19).
 
 ***La congélation d’ovocytes***
@@ -125,7 +121,7 @@ A ce sujet, la cryoconservation des ovocytes, non en soi immorale et envisagée 
 Il existe des moyens techniques qui agissent après la fécondation, quand l’embryon est déjà formé dans l’utérus.
 
 > « Ces techniques sont dénommées interceptives lorsqu’elles interviennent avant l’implantation de l’embryon dans l’utérus maternel » (n. 23) par exemple au moyen du « stérilet \[…\] et de ladite ‘pilule du lendemain’ » ([^42]).
->
+
 > Elles sont « contragestives si elles provoquent l’élimination de l’embryon à peine implanté » (n. 23) par exemple à travers « la pilule RU 486 » ([^43]).
 
 Même si ces moyens d’interception ne provoquent pas toujours un avortement lorsqu’on y a recours, car un rapport sexuel ne donne pas toujours lieu à une fécondation, il est à relever que « chez celui qui veut empêcher l’implantation d’un embryon éventuellement conçu et qui pour cela demande ou prescrit de tels agents, l’intentionnalité de l’avortement est généralement présente ». Dans le cas de la contragestion, « il s’agit de l’avortement d’un embryon qui a à peine effectué son implantation utérine. \[…\]. L’utilisation des moyens d’interception et de contragestion entre dans la catégorie du péché d’avortement et demeure un acte gravement immoral » (n. 23).
@@ -139,15 +135,15 @@ Même si ces moyens d’interception ne provoquent pas toujours un avortement lo
 Par le terme de thérapie génique, on désigne « l’application à l’homme des techniques d’ingénierie génétique dans un but thérapeutique, c’est-à- dire en vue de guérir des maladies à base génétique » (n. 25).
 
 > La thérapie génique somatique « veut éliminer ou réduire les défauts génétiques présents au niveau des cellules somatiques » (n. 25).
->
+
 > La thérapie génique germinale vise « à corriger les défauts génétiques dans les cellules de la lignée germinale, afin que les effets thérapeutiques obtenus sur le sujet puissent se transmettre à son éventuelle descendance » (n. 25).
 
 Il en découle du point de vue morale :
 
 > Les techniques de la thérapie génique somatique « sont, en principe, moralement licites. \[…\] Étant donné que la thérapie génique peut comporter des risques importants pour le patient, il faut observer le principe général de déontologie selon lequel la mise en œuvre d’une intervention thérapeutique doit nécessairement garantir d’avance que le patient ne soit pas exposé à des risques pour sa santé ou pour son intégrité corporelle qui soient excessifs ou disproportionnés par rapport à la gravité de la maladie que l’on veut soigner. Le consentement éclairé du patient ou de son représentant légitime est également requis » (n. 26).
->
+
 > Quant à la thérapie génique germinale, « les risques liés à toute manipulation génétique sont importants et pour le moment peu contrôlables ». Pour cela, « il n’est pas moralement admissible, dans l’état actuel de la recherche, d’agir en courant le risque que les dommages potentiels liés à l’intervention génique puissent se transmettre à la progéniture » (n. 26).
->
+
 > Quant à l’hypothèse des finalités applicatives de l’ingénierie au domaine de la génétique, dans le but présumé d’améliorer ou de renforcer la dotation génétique, il est à relever que de telles manipulations favoriseraient « une mentalité eugénique » et introduiraient « une stigmatisation sociale indirecte envers ceux qui ne possèdent pas certaines qualités particulières. En outre, elles mettent l’accent sur des qualités appréciées par des cultures et des sociétés déterminées, qualités qui ne constituent pas par elles-mêmes ce qui est spécifique à l’homme. Cela contredit la vérité fondamentale de l’égalité entre tous les êtres humains, qui s’exprime par le principe de justice, dont la violation à la longue, finirait par mettre en péril la coexistence pacifique entre les individus. \[…\] Enfin, il convient de relever que, dans la tentative de créer un nouveau type d’homme, se manifeste une dimension idéologique selon laquelle l’homme prétend se substituer au Créateur » (n. 27).
 
 ***Le clonage humain***
@@ -157,9 +153,9 @@ Par clonage humain, on désigne « la reproduction asexuée et agamique de la to
 Le clonage est « intrinsèquement illicite dans la mesure où \[…\] il entend donner origine à un nouvel être humain sans aucun lien avec l’acte de don réciproque entre deux époux et, plus radicalement, sans aucun lien avec la sexualité. Cette situation suscite des abus et des manipulations qui portent gravement atteinte à la dignité humaine » (n. 28).
 
 > Avec le clonage reproductif, on « imposerait au sujet cloné un patrimoine génétique déjà fixé, en le soumettant de fait - comme cela a été dit - à une forme d’esclavage biologique de laquelle il pourrait difficilement s’affranchir. Le fait qu’une personne s’arroge le droit de déterminer arbitrairement les caractéristiques génétiques d’un autre, est une grave offense à sa dignité et à l’égalité fondamentale entre les hommes. \[…\] Chacun d’entre nous rencontre dans l’autre un être humain qui doit son existence et ses caractéristiques propres à l’amour de Dieu, dont seul l’amour entre les époux constitue une médiation conforme au dessein du Créateur et Père céleste » (n. 29).
->
+
 > En ce qui concerne le clonage thérapeutique, il faut préciser que «créer des embryons dans le but de les supprimer, est totalement incompatible avec la dignité humaine, même si l’intention est d’aider les malades, car cela fait de l’existence d’un être humain, même à son stade embryonnaire, rien de plus qu’un moyen à utiliser et à détruire. Il est gravement immoral de sacrifier une vie humaine dans un but thérapeutique » (n. 30).
->
+
 > Comme alternative au clonage thérapeutique, certains scientifiques recherchent de nouvelles techniques capables de produire des cellules souches de type embryonnaire, sans que cela présuppose cependant la destruction de véritables embryons humains ; ce sont par exemple les techniques de transfert d’un noyau altéré (Altered Nuclear Transfer : ANT) ou de reprogrammation de l’ovocyte (l’OAR - *Oocyte Assisted Reprogramming*). A ce sujet, on doit encore clarifier les doutes regardant « notamment le statut ontologique du ‘produit’ ainsi obtenu » (n. 30).
 
 ***L’utilisation thérapeutique des cellules souches***
@@ -169,9 +165,9 @@ Le clonage est « intrinsèquement illicite dans la mesure où \[…\] il entend
 En ce qui concerne le jugement éthique, il faut considérer surtout les méthodes de prélèvement des cellules souches.
 
 > « Sont licites les méthodes qui ne procurent pas de grave dommage au sujet chez qui sont prélevées les cellules souches. Cette condition est habituellement vérifiée dans les cas suivants: le prélèvement a) de tissus d’un organisme adulte b) ; du sang du cordon ombilical au moment de la naissance ; c) des tissus de fœtus morts de mort naturelle » (n. 32).
->
+
 > «Le prélèvement de cellules souches d’un embryon humain vivant cause inévitablement sa destruction et il est de ce fait gravement illicite. Dans ce cas, la recherche \[…\] ne se place pas véritablement au service de l’humanité. Elle passe en effet par la suppression de vies humaines qui ont une égale dignité par rapport aux autres personnes humaines et aux chercheurs eux-mêmes » (n. 32).
->
+
 > « L’utilisation des cellules souches embryonnaires ou des cellules différenciées qui en dérivent, éventuellement fournies par d’autres chercheurs, et provenant de la destruction d’embryons, ou disponibles dans le commerce, pose de sérieux problèmes du point de vue de la coopération au mal et du scandale » (n. 32).
 
 Il est à relever toutefois que de nombreuses études tentent à accorder aux cellules souches adultes des résultats plus positifs par rapports à ceux embryonnaires.
@@ -187,9 +183,7 @@ Il est à relever toutefois que de nombreuses études tentent à accorder aux ce
 Pour la recherche scientifique et pour la production de vaccins, on utilise parfois des embryons ou des lignées de cellules, qui sont le produit d’intervention illicite contre la vie et contre l’intégrité physique de l’être humain.
 
 > En ce qui concerne l’expérimentation sur les embryons, elle « constitue un crime contre leur dignité d’êtres humains, qui ont droit à un respect égal à celui dû à l’enfant déjà né et à toute personne. Ces formes d’expérimentation constituent toujours un grave désordre moral» (n. 34).
->
-> Dans le cas de l’utilisation par les chercheurs du « matériel biologique » d’origine illicite, produit en dehors de leur centre de recherche ou qui se trouve dans le commerce, reste valide « l’exigence morale excluant toute complicité avec l’avortement volontaire, de même que tout danger de scandale. A ce propos, demeure insuffisant le critère d’indépendance formulé par certains comités d’éthique, à savoir l’affirmation selon laquelle l’utilisation du ‘matériel biologique’ d’origine illicite est éthiquement licite à condition qu’il y ait une séparation claire d’une part entre ceux qui le produisent, font congeler et font mourir les embryons et d’autre part les chercheurs qui développent des expériences scientifiques ». Il faut préciser que « le devoir de refuser ce ‘matériel biologique’ \[…\] découle du devoir de se dissocier, dans l’exercice de sa propre activité de recherche, d’un cadre législatif gravement injuste et d’affirmer avec clarté la valeur de la vie humaine. Par conséquent, le critère d’indépendance ci-dessus indiqué est nécessaire, mais il peut être, du point de vue éthique, insuffisant » (n. 35).
->
-> « Dans ce cadre général, il existe naturellement des responsabilités différenciées et des motifs graves qui peuvent être moralement proportionnés pour justifier l’utilisation de ce ‘matériel biologique’. Par exemple, face au danger pour la santé des enfants, les parents peuvent autoriser l’utilisation d’un vaccin pour la préparation duquel on s’est servi de lignées cellulaires d’origine illicite, restant sauf le devoir de tous d’exprimer leur propre désaccord à ce sujet et de demander que les systèmes de santé mettent à leur disposition d’autres types de vaccins. D’autre part, on doit tenir compte du fait que dans les entreprises qui utilisent des lignées de cellules d’origine illicite, la responsabilité de ceux qui décident de l’orientation de la production n’est pas la même que la responsabilité de ceux qui n’ont aucun pouvoir de décision » (n. 35).
 
-[](#top)
+> Dans le cas de l’utilisation par les chercheurs du « matériel biologique » d’origine illicite, produit en dehors de leur centre de recherche ou qui se trouve dans le commerce, reste valide « l’exigence morale excluant toute complicité avec l’avortement volontaire, de même que tout danger de scandale. A ce propos, demeure insuffisant le critère d’indépendance formulé par certains comités d’éthique, à savoir l’affirmation selon laquelle l’utilisation du ‘matériel biologique’ d’origine illicite est éthiquement licite à condition qu’il y ait une séparation claire d’une part entre ceux qui le produisent, font congeler et font mourir les embryons et d’autre part les chercheurs qui développent des expériences scientifiques ». Il faut préciser que « le devoir de refuser ce ‘matériel biologique’ \[…\] découle du devoir de se dissocier, dans l’exercice de sa propre activité de recherche, d’un cadre législatif gravement injuste et d’affirmer avec clarté la valeur de la vie humaine. Par conséquent, le critère d’indépendance ci-dessus indiqué est nécessaire, mais il peut être, du point de vue éthique, insuffisant » (n. 35).
+
+> « Dans ce cadre général, il existe naturellement des responsabilités différenciées et des motifs graves qui peuvent être moralement proportionnés pour justifier l’utilisation de ce ‘matériel biologique’. Par exemple, face au danger pour la santé des enfants, les parents peuvent autoriser l’utilisation d’un vaccin pour la préparation duquel on s’est servi de lignées cellulaires d’origine illicite, restant sauf le devoir de tous d’exprimer leur propre désaccord à ce sujet et de demander que les systèmes de santé mettent à leur disposition d’autres types de vaccins. D’autre part, on doit tenir compte du fait que dans les entreprises qui utilisent des lignées de cellules d’origine illicite, la responsabilité de ceux qui décident de l’orientation de la production n’est pas la même que la responsabilité de ceux qui n’ont aucun pouvoir de décision » (n. 35).

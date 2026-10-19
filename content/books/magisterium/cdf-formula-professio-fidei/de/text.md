@@ -1,13 +1,5 @@
 # Formel, die ab sofort anstelle der Tridentinischen Formel und des Antimodernisteneids zu verwenden ist, wenn das Ablegen des Glaubensbekenntnisses rechtlich vorgeschrieben ist, 17. Juli 1967
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**

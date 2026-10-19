@@ -1,9 +1,5 @@
 # Instruktion Dignitas Connubii
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PÄPSTLICHER RAT FÜR DIE GESETZESTEXTE
 
 ###  
@@ -1721,5 +1717,3 @@ Gegeben in Rom, am Sitz des Päpstlichen Rates für die der Gesetzestexte, am 25
 \(24\) Vgl. Johannes Paul II., Ansprache an die Richter der Römischen Rota, 5. Februar 1987, in *AAS* 79 (1987) 1453-1459, und 25. Januar 1988, in *AAS* 80 (1988) 1178-1185.
 
 \(25\) Vgl. Johannes Paul II., Ansprache an die Richter der Römischen Rota, 22. Januar 1996, n. 4, in *AAS* 88 (1996) 773-777.
-
-[](#top)

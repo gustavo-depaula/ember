@@ -1,9 +1,5 @@
 # Concerto del Mitteldeutscher Rundfunk di Lipsia, in occasione del XXV Anniversario di Pontificato
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 XXV ANNIVERSARIO DI PONTIFICATO DI GIOVANNI PAOLO II:  
 CONCERTO DEL MITTELDEUTSCHER RUNDFUNK DI LIPSIA
 
@@ -26,5 +22,3 @@ A differenza dell'intatta presenza della fede che traspare *nell'Inno alla gioia
 Beethoven sapeva anche che possiamo fidarci del Padre perché nel Figlio egli si è fatto vicino a noi. E così possiamo tranquillamente intendere la scintilla divina, la gioia della quale parla l'ode, come scintilla di Dio che si comunica a noi attraverso la musica e dà sicurezza: sì, il Padre buono esiste davvero e non è assolutamente lontano, oltre il firmamento, ma, grazie al Figlio, è in mezzo a noi.
 
 Mit dankbarer Freude darf ich Sie, verehrter Herr Intendant, begrüßen, der Sie dieses Konzert ermöglicht haben, und mit Ihnen den Direktor des Ensembles Herrn Howart Arman, die Solistinnen und die Solisten sowie Chor und Orchester. Wir danken Ihnen, daß Sie uns den Gottesfunken der Freude schenken wollen und wünschen uns, daß er in Ihnen und in uns zünden möge.
-
-[](#top)

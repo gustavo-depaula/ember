@@ -20,15 +20,15 @@ With a view to renewing the Apostolic See’s commitment to cooperate to these e
 1\. The competent Judicial Authorities of Vatican City State shall also exercise penal jurisdiction over:
 
 > a\) crimes committed against the security, the fundamental interests or the patrimony of the Holy See;
->
+
 > b\) crimes referred to:
->
+
 > > \- in Vatican City State Law No. VIII, of 11 July 2013, containing *Supplementary Norms on Criminal Law Matters*;
 > >
 > > \- in Vatican City State Law No. IX, of 11 July 2013, containing *Amendments to the Criminal Code and the Criminal Procedure Code*;
 > >
 > > when such crimes are committed by the persons referred to in paragraph 3 below, in the exercise of their functions;
->
+
 > c\) any other crime whose prosecution is required by an international agreement ratified by the Holy See, if the perpetrator is physically present in the territory of Vatican City State and has not been extradited.
 
 2\. The crimes referred to in paragraph 1 are to be judged pursuant to the criminal law in force in Vatican City State at the time of their commission, without prejudice to the general principles of the legal system on the temporal application of criminal laws.
@@ -36,11 +36,11 @@ With a view to renewing the Apostolic See’s commitment to cooperate to these e
 3\. For the purposes of Vatican criminal law, the following persons are deemed *“public officials”*:
 
 > a\) members, officials and personnel of the various organs of the Roman Curia and of the Institutions connected to it.
->
+
 > b\) papal legates and diplomatic personnel of the Holy See.
->
+
 > c\) those persons who serve as representatives, managers or directors, as well as persons who even *de facto* manage or exercise control over the entities directly dependent on the Holy See and listed in the registry of canonical juridical persons kept by the Governorate of Vatican City State;
->
+
 > d\) any other person holding an administrative or judicial mandate in the Holy See, permanent or temporary, paid or unpaid, irrespective of that person’s seniority.
 
 4\. The jurisdiction referred to in paragraph 1 comprises also the administrative liability of juridical persons arising from crimes, as regulated by Vatican City State laws.

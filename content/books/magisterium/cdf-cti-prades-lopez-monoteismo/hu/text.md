@@ -1,9 +1,5 @@
 # A Nemzetközi Teológiai Bizottságnak az egyistenhitről és erőszakról szóló dokumentumában, Így van az emberben, mert így van az Istenben
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 A Nemzetközi Teológiai Bizottságnak az egyistenhitről és erőszakról szóló dokumentumában
 
 **Így van az emberben, mert így van az Istenben\***
@@ -33,5 +29,3 @@ A Szentháromságos egy Istenbe vetett hit így jelentős megegyezést mutat „
 ------------------------------------------------------------------------
 
 \* L’Osservatore Romano, napi kiadás, CLIV. évfolyam, 024. szám, 2014. január 31. Péntek.
-
-[](#top)

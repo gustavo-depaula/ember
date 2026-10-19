@@ -1,9 +1,5 @@
 # Decreto di Erezione dell’Ordinariato Personale “Our Lady of Walsingham”
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***Decreto di Erezione dell’Ordinariato Personale “Our Lady of Walsingham”***
@@ -55,8 +51,6 @@ Nonostante qualsiasi disposizione contraria.
 **Luis F. Ladaria**, S.I. *Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. *AAS* 101 (2009) 985-990.
 

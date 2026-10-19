@@ -1,17 +1,11 @@
 # Decretum quo facultas peculiaris de celebratione Conversionis Sancti Pauli apostoli in anno iubilari, quo bismillesimum anniversarium ortus eius recolitur, datur
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 DECRETUM CONGREGATIONIS DE CULTU DIVINO  
 ET DISCIPLINA SACRAMENTORUM
 
 ***DECRETUM***
 
 ***quo facultas peculiaris de celebratione Conversionis Sancti Pauli apostoli in anno iubilari, quo bismillesimum anniversarium ortus eius recolitur, datur.***
-
-*** ***
 
 Sanctum Paulum, apostolum, qui, iam persecutor, Evangelium Christi ad gentes, uti veritatis in universo mundo praeco, omni studio et ope nuntiavit atque omnium christianorum unitati ac concordiae fovendae strenuam dedit operam, christifideles peculiari necnon assiduo cultu prosecuti sunt et adhuc prosequuntur, praesertim hoc vertente anno, quo bismillesimum anniversarium ortus eius recolitur, quemque Summus Pontifex Benedictus XVI iubilarem constituere voluit.
 
@@ -28,5 +22,3 @@ Franciscus Card. Arinze
 
 Albertus Malcolmus Ranjith  
 *Archiepiscopus a Secretis*
-
-[](#top)

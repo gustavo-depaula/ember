@@ -6,11 +6,7 @@ PIUS PP. IX
 
 EPISTOLA ENCYCLICA
 
-** **
-
 **QUA RERUM ENARRATIONE PRAEMISSA DE IIS QUAE VIOLENTAM CAPTIONEM URBIS PRAECESSERUNT ET SUBSEQUUTA SUNT, CENSURAE IAM LATAE CONFIRMANTUR.**
-
-** **
 
 *Sanctissimi Domini Nostri Pii Divina providentia* PAPAE IX *Epistola encyclica ad omnes Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios gratiam et communionem cum Apostolica Sede habentes.*
 

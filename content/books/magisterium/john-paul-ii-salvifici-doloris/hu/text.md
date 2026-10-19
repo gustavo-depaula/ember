@@ -553,6 +553,4 @@ spes”, 24.
 [\[100\]](#JB100) II. Vatikáni Zsinat, Lelkipásztori konstitúció az Egyház és a mai világ viszonyáról, - „Gau­dium et spes”, 22.  
 [\[101\]](#JB101) Uo.  
 [\[102\]](#JB102) Vö. Jn 17,11.21-22  
-[\[103\]](#JB103) Vö. In 19,25  
-
-*  *
+[\[103\]](#JB103) Vö. In 19,25

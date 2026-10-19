@@ -8,8 +8,6 @@ QUIBUS DICASTERIUM AD INTEGRAM HUMANAM PROGRESSIONEM FOVENDAM CONSTITUITUR
 
 **FRANCISCUS**
 
-** **
-
 Humanam progressionem integram in Evangelii luce foveat oportet Ecclesia tota sua natura suaque navitate. Eiusmodi quidem progressio per sollicitudinem de inaestimabilibus bonis iustitiae, pacis et tutelae rerum creatarum peragitur. Apostoli Petri  Successor Sua in opera ad eiusmodi bona promovenda continenter instituta accommodat quae cum Ipso consociatam operam prosequuntur ut aptiore modo postulationibus virorum mulierumque respondere possint quibus servire vocantur.
 
 Quapropter ut cura Sanctae Sedis his in provinciis efficiatur, sicut etiam in illis quae ad valetudinem respiciunt et caritatis opera, *Dicasterium ad Integram Humanam Progressionem fovendam* constituimus. Ad eiusmodi Dicasterii munera peculiari modo pertinebunt quaestiones respicientes ad migrationes, egentes, aegrotantes, repulsos et a societate segregatos, contentionum armatorum et calamitatum naturalium victimas, carcere clausos, opere carentes atque cuiuslibet formae servitutis et cruciatus victimas.

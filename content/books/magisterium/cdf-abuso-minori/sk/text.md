@@ -1,9 +1,5 @@
 # OBEŽNÍK NA POMOC BISKUPSKÝM KONFERENCIÁM PRI PRÍPRAVE SMERNÍC, AKO POSTUPOVAŤ V PRÍPADOCH SEXUÁLNEHO ZNEUŽÍVANIA MLADISTVÝCH KLERIKMI
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGÁCIA PRE NÁUKU VIERY
 
 ***OBEŽNÍK****** *** ***NA POMOC BISKUPSKÝM KONFERENCIÁM PRI PRÍPRAVE SMERNÍC,*** **** ***AKO POSTUPOVAŤ V PRÍPADOCH SEXUÁLNEHO ZNEUŽÍVANIA MLADISTVÝCH KLERIKMI\****
@@ -78,5 +74,3 @@ Smernice pripravené biskupskými konferenciami majú za cieľ chrániť malolet
 *titulárny arcibiskup Thibicy* *sekretár*
 
 \* www.kbs.sk
-
-[](#top)

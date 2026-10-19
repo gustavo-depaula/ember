@@ -1,9 +1,5 @@
 # Observations on ARCIC II’s «Salvation and the Church»
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***Observations on ARCIC II’s «Salvation and the Church»***
@@ -25,23 +21,23 @@ a\) The document is written in a language which we might describe as symbolic, a
 b\) On the chapter “Salvation and the Faith”:
 
 > — Because of the importance in discussion with Protestants of the whole problem of *sola fides*, a more extended discussion of this controversial point would be desirable.
->
+
 > — It would be good to have further precision on the relationship between grace and faith as *initium salutis* (cf. No. 9).
->
+
 > — The relationship *fides quae* – *fides qua*, together with the distinction between *assurance* and *certitude* or *certainty* needs to be better developed.
 
 c\) Concerning the chapter “Salvation and Good Works”:
 
 > — It would be appropriate to give more precision on the doctrine of grace and merit in relation to the distinction between justification and sanctification.
->
+
 > — If the formulation *simul iustus et peccator* is to be retained, it should be explained more fully so as to avoid all ambiguity.
->
+
 > — In general, the sacramental economy of grace in the regaining of freedom out of sin should be put more in evidence (cf. for example Nos. 21 and 22).
 
 d\) Concerning the chapter “The Church and Salvation”:
 
 > — The role of the church in salvation is not only to bear witness to it, but also and above all, to be the effective instrument – notably by means of the seven sacraments – of justification and salvation: This essential point needs to be further elaborated, especially in relation to *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*,
->
+
 > — It is particularly important to draw more clearly the distinction between the holiness of the church as universal sacrament of salvation on the one hand and its members, who in some measure are still given to sin, on the other (cf. No. 29).'
 
 **3. Conclusion**
@@ -135,5 +131,3 @@ The questions and the considerations raised in the observations of the Congregat
 ⁵ *Ibid.*, 1065. “It would have been useful – in order to evaluate the exact meaning of certain points of agreement – had ARCIC indicated their position in reference to the documents which have contributed significantly to the formulation of the Anglican identity (The Thirty-nine Articles of Religion, Book of Common Prayer, Ordinal) in those cases where the assertions of the Final Report seem incompatible with these documents. The failure to take a stand on these texts can give rise to uncertainty about the exact meaning of the agreements reached” (Sec. A, 2, iii).
 
 ⁶ *Common Declaration*, 3, in *AAS* 74 (1982) 925.
-
-[](#top)

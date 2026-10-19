@@ -10,8 +10,6 @@ PAR EKLEZIĀLAJĀM UNIVERSITĀTĒM UN FAKULTĀTĒM
 
 **PREAMBULA**
 
-** **
-
 **1.** Patiesības prieks (*Veritatis gaudium*) pauž kvēlas ilgas, kas dara nemierīgu ikviena cilvēka sirdi, kamēr tā nav sastapusi Dieva gaismu, kamēr tajā nedzīvo un ar visiem nedalās.[^1]^(^(\[\])) Patiesība nav kāda abstrakta ideja – tā ir Jēzus, Dieva Vārds, kurā ir dzīvība, kas ir cilvēku gaisma (sal. *Jņ* 1, 4), Dieva Dēls, kas vienlaikus ir arī Cilvēka Dēls. Tikai Viņš, “atklādams Tēvu un Viņa mīlestības noslēpumu, cilvēkam pilnībā atklāj to, kas ir cilvēks un kāds ir tā augstākais aicinājums”[^2]^(^(\[\])).
 
 Sastopot Viņu, Dzīvo (sal. *Atkl* 1, 18) un Pirmdzimto starp daudziem brāļiem (sal. *Rom* 8, 29), cilvēka sirds jau tagad, vēstures kāpumos un kritumos, pieredz nezūdošu gaismu un svētkus, ko sniedz vienotība ar Dievu un ar saviem brāļiem un māsām kopīgajā radītās pasaules mājā, – šo prieku, kuru bez mitas baudīsim pilnīgā komūnijā ar Dievu. Lūgšanā, ar kuru Jēzus vērsās pie Tēva, lūdzot, lai “visi būtu viens, itin kā Tu, Tēvs, manī un es Tevī, tā lai arī viņi būtu mūsos” (*Jņ* 17, 21), ir ietverts tā prieka noslēpums, ko Jēzus visā pilnībā (sal. *Jņ* 15, 11) mums vēlas nodot no Tēva, dāvājot mums Svēto Garu – patiesības un mīlestības, brīvības, taisnības un vienotības Garu.
@@ -98,8 +96,6 @@ Lai Vissvētā Jaunava Marija, kas pasludināšanas brīdī ar neizsakāmu priek
 **PIRMĀ DAĻA**
 
 **VISPĀRĪGIE NOTEIKUMI**
-
-** **
 
 **I sadaļa**
 
@@ -368,10 +364,6 @@ c\) visbeidzot, studenti pakāpeniski iegūst briedumu zinātniskās pētniecīb
 
 67\. pants. Ja ekleziālā universitāte vai fakultāte vairs nepilda nosacījumus, kuru izpilde bija priekšnoteikums tās dibināšanai vai apstiprināšanai, Katoliskās izglītības kongregācija pēc tam, kad atbilstoši apstākļiem vērsusi uz to kanclera un rektora vai prezidenta uzmanību un ir uzklausījusi diecēzes vai eparhijas bīskapa un bīskapu konferences viedokli, pieņem lēmumu apturēt tās akadēmiskās tiesības, atsaukt tās kā ekleziālās universitātes vai fakultātes apstiprinājumu vai arī slēgt šo institūciju.
 
-** **
-
-** **
-
 **OTRĀ DAĻA**
 
 **ĪPAŠIE NOTEIKUMI**
@@ -514,21 +506,13 @@ Lai viss, ko esmu noteicis šajā apustuliskajā konstitūcijā, tiek ievērots 
 
 *mana pontifikāta piektajā gadā.*
 
-* *
-
 **FRANCISCUS**
-
-** **
-
-** **
 
 **I PIELIKUMS**
 
 **Apustuliskās konstitūcijas**
 
 ***Sapientia christiana* (1979) preambula**
-
-** **
 
 **I**
 
@@ -541,8 +525,6 @@ Kultūrvidei, kurā norisinās cilvēka dzīve, ir liela ietekme uz viņa domā�
 Turklāt Evaņģēlijs ir paredzēts visām tautām visos laikos un vietās un nav saistīts tikai ar kādu vienu īpašu kultūru, bet gan spēj cauraust visas kultūras, izlejot pār tām dievišķās Atklāsmes gaismu un Kristū attīrot un atjaunojot cilvēku paradumus.
 
 Šī iemesla dēļ Kristus Baznīca tiecas nest Labo Vēsti visiem sabiedrības slāņiem, lai tādējādi cilvēkus vestu pie atgriešanās gan apziņas personiskajā, gan kolektīvajā līmenī un ar Evaņģēlija gaismu cauraustu viņu darbus un pasākumus, visu viņu dzīvi un arī sociālo vidi, kurā tie atrodas. Tādējādi Baznīca savu evaņģelizācijas sūtību veic, arī virzot uz priekšu cilvēces civilizāciju.[^91]^(^(\[1\]))
-
-** **
 
 **II**
 
@@ -619,8 +601,6 @@ Katoliskās izglītības kongregācija saskaņā ar apustuliskās konstitūcijas
 **PIRMĀ DAĻA**
 
 **VISPĀRĪGIE NOTEIKUMI**
-
-** **
 
 **I sadaļa**
 
@@ -794,8 +774,6 @@ Katoliskās izglītības kongregācija saskaņā ar apustuliskās konstitūcijas
 
 29\. pants. Noteikumos, kuri attiecas uz studenta atskaitīšanu no studijām uz laiku vai izslēgšanu no fakultātes, jānodrošina studenta tiesības sevi aizstāvēt.
 
-** **
-
 **V sadaļa**
 
 **Darbinieki, administratīvais personāls un citi dienesti**
@@ -851,8 +829,6 @@ Katoliskās izglītības kongregācija saskaņā ar apustuliskās konstitūcijas
 2\. studiju programmā būtu noteikta attiecīgā titula būtība, skaidri norādot, ka tas nav akadēmiskais/zinātniskais grāds, ko piešķir ar Svētā krēsla autoritāti;
 
 3\. diplomā būtu norādīts, ka šis tituls netiek piešķirts ar Svētā krēsla autoritāti.
-
-** **
 
 **VIII sadaļa**
 
@@ -924,13 +900,9 @@ b\) lai būtu izpildīti iepriekšminētie 48. panta 1. paragrāfa b) un c) apak
 
 §2. Tāpat jāsekmē sadarbība ar citām fakultātēm, tostarp tām, kuras nav katoliskas, taču vienmēr jāraugās, lai saglabātu savu identitāti.
 
-** **
-
 **OTRĀ DAĻA**
 
 **ĪPAŠIE NOTEIKUMI**
-
-** **
 
 **I sadaļa**
 
@@ -1166,8 +1138,6 @@ Viņa svētība pāvests Francisks ir apstiprinājis un noteicis publicēt visus
 
 *prefekts*
 
-** **
-
 **Andželo Vinčenco Dzani \[*Angelo Vincenzo Zani*\]**,
 
 *Volturno titulārais arhibīskaps,*
@@ -1214,15 +1184,11 @@ Saikne ar citām fakultātēm un institūtiem utt.
 
 6\. Iespējamās modalitātes attiecībā uz tālmācību.
 
-** **
-
 **II PIELIKUMS**
 
 **Attiecībā uz Piemērošanas noteikumu 70. pantu**
 
 **Ekleziālo studiju jomas saskaņā ar to pašreizējo (2017) akadēmisko kārtību Baznīcā**
-
-** **
 
 **SARAKSTS**
 

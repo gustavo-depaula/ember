@@ -1,15 +1,5 @@
 # List Ojca Świętego Franciszka do Prefekta Kongregacji Nauki Wiary na temat dopuszczenia kobiet do posług Lektoratu i Akolitatu
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **LIST OJCA ŚWIĘTEGO FRANCISZKA DO PREFEKTA KONGREGACJI NAUKI WIARY NA TEMAT DOPUSZCZENIA KOBIET DO POSŁUG LEKTORATU I AKOLITATU**

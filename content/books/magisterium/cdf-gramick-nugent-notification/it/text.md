@@ -1,9 +1,5 @@
 # Notificazione sugli scritti e le attività di Sr. Jeannine Gramick, S.S.N.D. e del P. Robert Nugent, S.D.S., 31 maggio 1999
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **NOTIFICAZIONE SUGLI SCRITTI E LE ATTIVITÀ** **DI SR. JEANNINE GRAMICK, S.S.N.D. E DEL P. ROBERT NUGENT, S.D.S.****\***
@@ -51,5 +47,3 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, 31 maggio 1999.
 \[3\] Cfr Gn 19, 1-11; Lv 18, 22; 20, 13; 1 Cor 6, 9; Rom 1, 18-32; 1 Tim 1, 10; *Catechismo della Chiesa Cattolica*, 2357-2359, 2396; Congregazione per la Dottrina della Fede, Dichiarazione *Persona humana* 8 (*AAS* 68 \[1976\] 84-85); Lettera *Homosexualitatis problema* (*AAS* 79 \[1987\] 543-554).
 
 \[4\] *Catechismo della Chiesa Cattolica*, 2358.
-
-[](#top)

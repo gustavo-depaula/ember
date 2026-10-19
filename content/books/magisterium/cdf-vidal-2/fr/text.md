@@ -1,9 +1,5 @@
 # En marge de la Notification sur quelques ouvrages du R. P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 **En marge de la *NOTIFICATION*** **de la**
@@ -79,5 +75,3 @@ Les mêmes motifs se retrouvent dans l’enseignement du Magistère sur la féco
 \(12\) Cf. Congrégation pour la Doctrine de la Foi, Instr. Donum vitae (22 février 1987), n. II, B, 5: AAS 80 (1988) 92-94.
 
 \(13\) Cf. Jean-Paul II, Lett. Enc. Evangelium vitae (25 mars 1995), nn. 58-62: AAS 87 (1995) 466-472.
-
-[](#top)

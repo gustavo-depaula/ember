@@ -1,9 +1,5 @@
 # Professio Fidei et Iusiurandum fidelitatis in suscipiendo officio nomine Ecclesiae exercendo
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **Professio Fidei et Iusiurandum fidelitatis in suscipiendo officio nomine Ecclesiae exercendo**
@@ -39,5 +35,3 @@ Będę zachowywał i umacniał dyscyplinę wspólną dla całego Kościoła i b�
 Będę zachowywał z chrześcijańskim posłuszeństwem to, co ogłaszają Pasterze jako autentyczni nauczyciele i stróże wiary, oraz postanawiają jako rządcy Kościoła. Biskupom diecezjalnym będę wiernie służył pomocą, aby działalność apostolska, która ma być wypełniana w imieniu i z polecenia Kościoła, była urzeczywistniana w jedności z tymże Kościołem.
 
 Tak mi dopomóż Bóg i ta święta Ewangelia, której dotykam moimi rękami.
-
-[](#top)

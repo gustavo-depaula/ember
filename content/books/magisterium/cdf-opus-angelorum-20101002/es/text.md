@@ -1,9 +1,5 @@
 # Carta circular a los Presidentes de las Conferencias Episcopales sobre la asociación Opus Angelorum, 2 de octubre de 2010
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **CARTA CIRCULAR A LOS PRESIDENTES DE LAS CONFERENCIAS EPISCOPALES SOBRE LA ASOCIACIÓN *OPUS ANGELORUM***
@@ -35,5 +31,3 @@ Confiando en que los Miembros de la Conferencia Episcopal que V.E. preside acoja
 
 **Luis F. Ladaria, S.I**.  
 *Arzobispo titular de Thibica Secretario*
-
-[](#top)

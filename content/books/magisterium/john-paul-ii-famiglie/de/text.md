@@ -435,3 +435,5 @@ Das, liebe Brüder und Schwestern, sei das Engagement der christlichen Familien 
 Mit diesen Empfindungen segne ich jede Familie im Namen der Heiligsten Dreifaltigkeit, des Vaters, des Sohnes und des Heiligen Geistes.
 
 Gegeben zu Rom, bei Sankt Peter, am 2. Februar des Jahres 1994.
+
+Copyright © Libreria Editrice Vaticana

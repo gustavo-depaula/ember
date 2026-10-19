@@ -1,15 +1,5 @@
 # Carta del Santo Padre Francisco al Prefecto de la Congregación para la Doctrina de la Fe sobre el acceso de las mujeres a los ministerios del lectorado y del acolitado
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CARTA DEL SANTO PADRE FRANCISCO AL PREFECTO DE LA CONGREGACIÓN PARA LA DOCTRINA DE LA FE SOBRE EL ACCESO DE LAS MUJERES A LOS MINISTERIOS DEL LECTORADO Y DEL ACOLITADO**

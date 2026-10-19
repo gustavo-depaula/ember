@@ -1,9 +1,5 @@
 # Notificación sobre el padre Georges de Nantes, 13 mayo 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE EL PADRE GEORGES DE NANTES**
@@ -23,5 +19,3 @@ Mons. Hamer ha declarado posteriormente al Padre de Nantes:
 3\) que la Sagrada Congregación para la Doctrina de la Fe esperaba todavía de él la retractación de sus errores y de las acusaciones de herejía dirigidas por él contra el papa Pablo VI y el Concilio Vaticano II, retractación que le había sido requerida después del examen de sus escritos, hecho a petición suya, y de sus intervenciones públicas del 25 y 29 de abril, 3 de mayo y 3 de julio de 1968;
 
 4\) que mientras esta retractación no sea hecha, y no se extienda también a los ataques de la misma naturaleza contra la persona de Su Santidad Juan Pablo II, no se podrá creer en la seriedad del deseo de reconciliación, que él mismo ha manifestado dos veces en 1978 y en 1981, y que el Santo Padre está siempre dispuesto a acoger.
-
-[](#top)

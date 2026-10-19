@@ -1,9 +1,5 @@
 # Autore, tempo di composizione e verità storica dei Vangeli secondo Marco e secondo Luca - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **AUTORE, TEMPO DI COMPOSIZIONE E VERITÀ STORICA DEI VANGELI SECONDO MARCO E SECONDO LUCA**
@@ -50,5 +46,3 @@ Risposta: Sì per la prima parte, No per la seconda.
 
 Fulcranus Vigoroux, Gr.S.Sulp.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-[](#top)

@@ -1,9 +1,5 @@
 # KOMPLEMENTÁRNÍ NORMY KONGREGACE PRO NAUKU VÍRY K APOŠTOLSKÉ KONSTITUCI ANGLICANORUM COETIBUS
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***KOMPLEMENTÁRNÍ NORMY KONGREGACE PRO NAUKU VÍRY K APOŠTOLSKÉ KONSTITUCI ANGLICANORUM COETIBUS ZE 4. LISTOPADU 2009***
 
 ***Podřízenost Apoštolskému stolci***
@@ -146,5 +142,3 @@ c) při redakci Stanov správní rady, Stanov pastorační rady a Pravidel forma
 kard. WILLIAM LEVADA *prefekt*
 
 \+ LUIS F. LADARIA, SJ *titulární arcibiskup z Thibiky sekretář*
-
-[](#top)

@@ -2,8 +2,6 @@
 
 **LIST APOSTOLSKI OJCA ŚWIĘTEGO LEONA XIV O ZNACZENIU ARCHEOLOGII Z OKAZJI STULECIA PAPIESKIEGO INSTYTUTU ARCHEOLOGII CHRZEŚCIJAŃSKIEJ**
 
-* *
-
 W stulecie powstania Papieskiego Instytutu Archeologii Chrześcijańskiej odczuwam zobowiązanie i radość podzielenia się kilkoma refleksjami, które uważam za ważne dla wędrówki Kościoła w dzisiejszych czasach. Czynię to z wdzięcznością w sercu, świadomy, że pamięć o przeszłości, oświecona wiarą i oczyszczona miłością, jest pokarmem nadziei.
 
 W 1925 r. ogłoszony został „Jubileusz pokoju”, mający na celu złagodzenie okrutnych ran pierwszej wojny światowej. Znaczące jest to, że setna rocznica powstania Instytutu zbiega się z nowym Jubileuszem, który również dzisiaj chce roztaczać przed ludzkością, dotkniętą licznymi wojnami, perspektywy nadziei.
@@ -11,8 +9,6 @@ W 1925 r. ogłoszony został „Jubileusz pokoju”, mający na celu złagodzeni
 Obecne dzieje, naznaczone gwałtownymi zmianami, kryzysami humanitarnymi i przemianami kulturowymi, oprócz sięgania po dawną i nową wiedzę, wymagają również poszukiwania głębokiej mądrości, zdolnej uchronić i przekazać przyszłym pokoleniom to, co naprawdę istotne. W tej perspektywie pragnę z całą mocą potwierdzić, że archeologia jest nieodłącznym elementem interpretacji chrześcijaństwa, a co za tym idzie, formacji katechetycznej i teologicznej. Nie jest to tylko dyscyplina specjalistyczna, zarezerwowana dla nielicznych ekspertów, ale jest to droga dostępna dla wszystkich, którzy chcą zrozumieć wcielenie wiary w czasie, w miejscach i w kulturach. Dla nas, chrześcijan, historia jest fundamentem decydującym: rzeczywiście, odbywamy pielgrzymkę życia w konkretności historii, będącej również scenografią, w której rozgrywa się tajemnica zbawienia. Każdy chrześcijanin jest wezwany do oparcia własnego życia na Dobrej Nowinie, która wywodzi się z historycznego Wcielenia Słowa Bożego (por. *J* 1, 14).
 
 Jak przypomniał nam umiłowany Papież Franciszek: „Nikt nie może naprawdę wiedzieć, kim jest i kim zamierza być jutro, bez pielęgnowania więzi łączącej go z pokoleniami, które go poprzedziły. Dotyczy to nie tylko poziomu losów poszczególnych osób, ale także szerszego poziomu wspólnoty. Studiowanie i opowiadanie historii pomaga bowiem podtrzymywać «płomień zbiorowej świadomości». W przeciwnym razie pozostaje tylko osobista pamięć o faktach związanych z własnymi zainteresowaniami lub emocjami, bez prawdziwej więzi ze wspólnotą ludzką i kościelną, w której się znajdujemy i żyjemy” \[1\].
-
-* *
 
 *Dom archeologii*
 
@@ -44,8 +40,6 @@ W Zarządzeniach wykonawczych do Konstytucji apostolskiej [*Veritatis gaudium*](
 
 Zawód archeologa jest w dużej mierze profesją „dotykową”. Archeolodzy są pierwszymi, którzy po wiekach dotykają zakopanej materii, zachowującej energię czasu. Jednak zadanie archeologa chrześcijańskiego nie ogranicza się do materii, wykracza poza nią, aż do tego, co ludzkie. Nie bada on tylko znalezisk, ale także ręce, które je ukształtowały, umysły, które je odkryły, serca, które je pokochały. Za każdym przedmiotem znajduje się osoba, dusza, społeczność. Za każdą ruiną kryje się marzenie o wierze, liturgia, relacja. Archeologia chrześcijańska jest zatem również formą miłosierdzia: jest sposobem na to, aby przemówiły milczące karty historii, aby przywrócić godność tym, którzy zostali zapomniani, aby wydobyć na światło dzienne anonimową świętość wielu wiernych, którzy stanowili Kościół.
 
-* *
-
 *Pamięć dla ewangelizacji*
 
 Od początków chrześcijaństwa pamięć odgrywała fundamentalną rolę w ewangelizacji. Nie chodzi tu o zwykłe wspominanie, ale o ożywcze reaktualizowanie zbawienia. Pierwsze wspólnoty chrześcijańskie zachowywały, wraz ze słowami Jezusa, również miejsca, przedmioty i znaki Jego obecności. Pusty grób, dom Piotra w Kafarnaum, groby męczenników, rzymskie katakumby: wszystko to pozwalało świadczyć o tym, że Bóg naprawdę wszedł w historię i że wiara nie była filozofią, ale konkretną wędrówką w ciele świata.
@@ -57,8 +51,6 @@ Takie jest również dzisiaj zadanie archeologii chrześcijańskiej: pomagać Ko
 Archeologia chrześcijańska pokazuje nam, jak Ewangelia była przyjmowana, interpretowana i celebrowana w różnych kontekstach kulturowych; uświadamia nam, jak wiara kształtowała codzienność, miasta, sztukę i czas. Zachęca nas również do kontynuowania tego procesu inkulturacji, by Ewangelia mogła nadal odnajdywać miejsce w sercach i kulturach współczesnego świata. W tym sensie, nie patrzy ona tylko w przeszłość: przemawia do teraźniejszości i kieruje na przyszłość. Przemawia do wierzących, którzy odkrywają na nowo korzenie swojej wiary, ale przemawia również do tych, którzy są daleko, do niewierzących, do tych, którzy zastanawiają się nad sensem życia i w ciszy grobów oraz w pięknie wczesnochrześcijańskich bazylik odnajdują echo wieczności. Przemawia do młodych ludzi, którzy często poszukują autentyczności i konkretności; przemawia do uczonych, widzących w wierze nie abstrakcję, ale historycznie udokumentowaną rzeczywistość; przemawia do pielgrzymów, odnajdujących w katakumbach i sanktuariach sens wędrówki i zaproszenie do modlitwy za Kościół.
 
 W czasie, gdy Kościół jest wezwany do otwarcia się na peryferie – geograficzne i egzystencjalne – archeologia może być potężnym narzędziem dialogu; może przyczynić się do budowania mostów między odległymi światami, między różnymi kulturami, między pokoleniami; może świadczyć o tym, że wiara chrześcijańska nigdy nie była rzeczywistością zamkniętą, ale dynamiczną siłą, zdolną przenikać do najgłębszych tkanek historii ludzkości.
-
-* *
 
 *Umiejętność spojrzenia wykraczającego: Kościół między czasem a wiecznością*
 
@@ -73,8 +65,6 @@ Archeologia pokazuje ponadto, w jaki sposób chrześcijaństwo kształtowało si
 Nie jest przypadkiem, że każdemu pogłębieniu tajemnicy Kościoła towarzyszy powrót do początków. Nie wynika to z samej chęci przywracania przeszłości, ale z poszukiwania autentyczności. Kościół budzi się i odnawia, gdy ponownie zadaje sobie pytanie o to, co go zrodziło, co głęboko go definiuje. Archeologia chrześcijańska może wnieść w tym zakresie ogromny wkład. Pomaga nam odróżnić to, co istotne, od tego, co drugorzędne, pierwotny rdzeń od naleciałości historii.
 
 Jednakże ostrożnie: nie jest to działanie, które sprowadza życie kościelne do kultu przeszłości. Prawdziwa archeologia chrześcijańska nie jest bezpłodną konserwacją, ale żywą pamięcią. Jest to zdolność do przemawiania poprzez przeszłość do teraźniejszości. Jest to mądrość w rozeznawaniu tego, co Duch Święty wzbudził w historii. Jest to twórcza wierność, a nie mechaniczna imitacja. Z tego powodu archeologia chrześcijańska może zaoferować wspólny język, wspólną podstawę, pojednaną pamięć. Może pomóc w rozpoznaniu rozmaitości doświadczeń kościelnych, wielości form, jedności w różnorodności. Może stać się miejscem słuchania, przestrzenią dialogu, narzędziem rozeznawania.
-
-* *
 
 *Wartość wspólnoty akademickiej*
 

@@ -1,9 +1,5 @@
 # PRESENTAZIONE DELLA "REDEMPTIONIS SACRAMENTUM"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI 
 
@@ -68,5 +64,3 @@ L’Istruzione dunque si conclude dicendo che la Congregazione per il Culto Divi
 **Francis Card. Arinze**
 
 23 aprile 2004
-
-[](#top)

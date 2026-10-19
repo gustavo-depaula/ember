@@ -1,9 +1,5 @@
 # Decretum generale Liturgicus hebdomadae Santae Ordo instaurator, d. 16 m. Novembris a. 1955
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **SACRA CONGREGATIO RITUUM**
 
 **DECRETUM GENERALE**
@@ -200,8 +196,6 @@ A. CARINCI, Archiep. Seleuc., *a secretis*
 ------------------------------------------------------------------------
 
 \*A.A.S., vol. XXXXVII (1955), n. 17, pp. 838-847
-
-[](#top)
 
 [^1]: \[\] *S*. *Augustinus*, Ep. 55, 14; Corp. Script. Eccl. Lat. 34, 2, p. 195
 

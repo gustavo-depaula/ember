@@ -1,15 +1,5 @@
 # Ad gentes
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dekret o misijní činnosti církve**
@@ -263,8 +253,6 @@ Je tedy žádoucí, a je to zcela na místě, aby se biskupské konference v ka�
 **KAPITOLA 4 **
 
 **MISIONÁŘI **
-
-**  **
 
 **MISIJNÍ POVOLÁNÍ **
 

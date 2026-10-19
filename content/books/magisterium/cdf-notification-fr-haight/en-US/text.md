@@ -1,9 +1,5 @@
 # Notification on the book "Jesus Symbol of God" by Father Roger Haight S.J.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***Notification on the book "Jesus Symbol of God" by Father Roger Haight S.J.***
@@ -86,8 +82,6 @@ In publishing this Notification, the Congregation for the Doctrine of the Faith 
 **Angelo Amato, S.D.B.** *Titular Archbishop of Sila Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Concilium Nicaenum, *Professio fidei*: DH 125; Concilium Chalcedonense, *Professio fidei*: DH 301, 302; Concilium Costantinopolitanum II, *Canones*: DH 424, 426.
 

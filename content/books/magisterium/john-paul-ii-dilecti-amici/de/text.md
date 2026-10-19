@@ -348,5 +348,3 @@ Ich wiederhole diese Worte der Gottesmutter und richte sie an euch Jugendliche, 
 *Gegeben zu Rom, bei Sankt Peter, am 31. März, dem Palmsonntag des Jahres 1985, dem siebten meines Pontifikates.*
 
 **JOHANNES PAUL II.**
-
-*  *

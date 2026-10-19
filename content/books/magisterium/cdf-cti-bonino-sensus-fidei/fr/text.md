@@ -1,9 +1,5 @@
 # Il fiuto delle pecore. Un nouveau document de la Commission théologique internationale : « Le sensus fidei dans la vie de l’Eglise », Fr. Serge-Thomas Bonino, o.p.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Il fiuto delle pecore***
 
 ***Un nouveau document de la Commission théologique internationale :***
@@ -30,5 +26,3 @@ Le document applique ces critères de discernement à deux réalités dont les e
 
 Fr. Serge-Thomas Bonino, o.p.  
 *Secrétaire général de la CTI*
-
-[](#top)

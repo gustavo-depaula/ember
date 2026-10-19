@@ -27,5 +27,3 @@ Fraternally,
 *From the Vatican, 9 December 2014*
 
 **FRANCIS**
-
-** **

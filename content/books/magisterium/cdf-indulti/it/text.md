@@ -1,13 +1,5 @@
 # Lettera al Segretario della S. Congregazione per i Religiosi e gli Istituti Secolari circa il Dicastero competente per la concessione di indulti per poter celebrare la S. Messa con mosto di vino in casi speciali, 22 settembre 1981
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGEGAZIONE PER LA DOTTRINA DELLA FEDE

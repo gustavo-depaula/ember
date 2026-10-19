@@ -1,15 +1,5 @@
 # Inter mirifica
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dikrii juu ya  vyombo vya upashanaji habari **
@@ -18,8 +8,6 @@ PAULO ASKOFU
 MTUMISHI WA WATUMISHI WA MUNGU  
 PAMOJA NA MABABA WA MTAGUSO MKUU  
 ATAKA HAYA YAKUMBUKWE DAIMA 
-
-**  **
 
 **UTANGULIZI**
 

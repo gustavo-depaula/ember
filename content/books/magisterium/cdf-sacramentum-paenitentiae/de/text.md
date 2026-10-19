@@ -1,13 +1,5 @@
 # Pastorale Normen für die sakramentale Generalabsolution, 16. Juni 1972
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HEILIGE KONGREGATION FÜR DIE GLAUBENSLEHRE

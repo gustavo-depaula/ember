@@ -1,9 +1,5 @@
 # INSTRUCCIÓN Redemptionis Sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA EL CULTO DIVINO  
 Y LA DISCIPLINA DE LOS SACRAMENTOS
 
@@ -585,8 +581,6 @@ Esta Instrucción, preparada por mandato del Sumo Pontífice Juan Pablo II por l
 **Domenico Sorrentino** * Arzobispo Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. MISSALE ROMANUM, *ex decreto sacrosancti Oecumenici Concilii Vaticani II instauratum, auctoritate Pauli Pp. VI promulgatum, Ioannis Pauli Pp. II cura recognitum*, editio typica tertia, día 20 de abril del 2000, Typis Vaticanis, 2002, Missa votiva de Dei misericordia, oratio super oblata, p. 1159.
 

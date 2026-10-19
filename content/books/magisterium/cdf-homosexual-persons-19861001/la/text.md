@@ -1,9 +1,5 @@
 # Epistula de pastorali personarum homosexualium cura, d. 1 m. Octobris a. 1986, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **EPISTULA AD UNIVERSOS CATHOLICAE ECCLESIAE EPISCOPOS DE PASTORALI PERSONARUM HOMOSEXUALIUM CURA** \*
@@ -121,5 +117,3 @@ Deus qui simul veritas et caritas est, advocat Ecclesiam ut ministerium suum exh
 ------------------------------------------------------------------------
 
 \* *AAS* 79 (1987), 543-554.
-
-[](#top)

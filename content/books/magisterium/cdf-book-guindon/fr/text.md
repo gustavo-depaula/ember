@@ -1,14 +1,8 @@
 # Note sur le livre «The Sexual Creators, An Ethical proposal for Concerned Christians» (University Press of America, Lanham-New York-London 1986) du P. André Guindon, O.M.I.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 **Note sur le livre du P. André Guindon, O.M.I.** **« *The Sexual Creators. An Ethical Proposal for Concerned Christians* »** (**University Press of America - 1986)**
-
-*** ***
 
 ***Préliminaire***
 
@@ -107,5 +101,3 @@ La Congrégation demande en outre que l’auteur confirme et démontre publiquem
 La Congrégation demande encore que le P. Guindon résolve, dans une déclaration publique, la contradiction signalée dans la présente note entre les précédentes affirmations faites par lui à son Supérieur général et le texte de *The Sexual Creators*, en développant sa pensée d’une manière plus cohérente, en dissipant ainsi des inconséquences présentes dans son ouvrage (comme par exemple une utilisation sélective et inconstante de la Tradition et du Magistère), et en reconnaissant ainsi à l’enseignement du Magistère la place et l’autorité qui lui appartiennent.
 
 \* *L’Osservatore Romano*, hebdomadaire en langue française, n. 5,
-
-[](#top)

@@ -1,9 +1,5 @@
 # Der Priester, Hirte und Leiter der Pfarrgemeinde
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DEN KLERUS
 
 ***DER PRIESTER, HIRTE UND LEITER DER PFARRGEMEINDE***
@@ -385,8 +381,6 @@ o „Mutter der Priester“,
 Amen
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: ](#_ftnref1) Johannes Paul II., Schreiben an die Priester zum Gründonnerstag 2001 (15. März 2001), Nr. 1
 

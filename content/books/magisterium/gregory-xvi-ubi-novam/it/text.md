@@ -5,8 +5,6 @@ GREGORIO XVI
 
 ***UBI NOVAM***
 
-*** ***
-
 *Al Venerabile Fratello Ludovico Francesco, Vescovo di Bayeux.*
 
 *Il Papa Gregorio XVI.  Venerabile Fratello, salute e Apostolica Benedizione.*

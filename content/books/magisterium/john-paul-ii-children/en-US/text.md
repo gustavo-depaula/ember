@@ -75,5 +75,3 @@ I hope that they will be joyful and peaceful for you; I hope that during them yo
 *From the Vatican, 13 December 1994.*
 
 **JOHN PAUL II**
-
-*  *

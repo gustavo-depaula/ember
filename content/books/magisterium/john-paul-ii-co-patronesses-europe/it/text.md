@@ -74,5 +74,3 @@ Sia gloria alla Santissima Trinità, che rifulge in modo singolare nella loro vi
 *Dato a Roma, presso san Pietro, il 1° ottobre dell'anno 1999, ventunesimo di Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-* *

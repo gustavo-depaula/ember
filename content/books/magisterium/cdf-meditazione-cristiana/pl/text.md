@@ -1,9 +1,5 @@
 # LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ASPEKTACH MEDYTACJI CHRZEŚCIJAŃSKIEJ
 
-[](.http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1))
-
 **KONGREGACJA NAUKI WIARY**
 
 ***LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ASPEKTACH MEDYTACJI CHRZEŚCIJAŃSKIEJ***
@@ -211,5 +207,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 15 października 1989 r., w Święto 
 35\. Por. ŚW. TERESA OD JEZUSA, *Twierdza wewnętrzna*, VII, 4, 6.
 
 36\. ŚW. AUGUSTYN, *Enarr. in Ps*., 142, 6: PL 37, 1849. Por. także ŚW. AUGUSTYN, *Tract. in Joan*., IV, 9: PL 35, 1410: "Quando autem nec ad hoc dignum se dicit, vere plenus Spiritu Sancto erat, qui sic servus Dominum agnovit, et ex servo amicus fieri meruit".
-
-[](#top)

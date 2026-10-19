@@ -165,7 +165,3 @@ In lebendiger Vorfreude auf die angekündigten Feierlichkeiten erteile ich Euch 
 33\) Vgl. *Mk* 16, 15.
 
 34\) Vgl. *Apg* 1, 8.
-
-* *
-
-* *

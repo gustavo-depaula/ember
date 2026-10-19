@@ -1,13 +1,5 @@
 # Einige aktuelle Fragen der Eschatologie, 1990
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **INTERNATIONALE THEOLOGISCHE KOMMISSION**
@@ -111,8 +103,6 @@ In Joh 14,1–3 spricht Jesus zu seinen Jüngern über die vielen Wohnungen, di
 Aus dem Vorgehen des Paulus spricht keine Verachtung des irdischen Lebens; schließlich entscheidet er sich für das Verbleiben „im Fleisch“ (Phil 1,25). Paulus ersehnt nicht von Natur aus den Tod (2 Kor 5,2–4). Den Leib zu verlieren, ist schmerzvoll. Es ist üblich, die Haltungen des Sokrates und Jesu angesichts des Todes gegenüberzustellen. Sokrates betrachtet den Tod als eine Befreiung der Seele im Hinblick auf den Kerker oder das Grab *(sôma)* des Leibes *(sôma)*; Jesus, der sich hingibt für die Sünden der Welt (Joh 10,15), empfindet im Garten Gethsemani auch Furcht vor dem nahenden Tod (Mk 14,32). Die Haltung des Paulus entbehrt nicht der Ähnlichkeit mit der Haltung Jesu. Das Stadium nach dem Tod ist einzig deshalb zu ersehnen, weil es im Neuen Testament immer (mit Ausnahme von Lk 14,19–31, wo der Kontext ein ganz anderer ist) Gemeinschaft mit Christus bedeutet.
 
 Es wäre völlig falsch zu behaupten, dass Paulus eine Entwicklung durchgemacht habe, in der er vom Glauben an die Auferstehung zur Hoffnung auf Unsterblichkeit übergegangen sei. Beides besteht bei ihm von Anfang an gleichzeitig. In demselben Brief an die Philipper, in dem er den Beweggrund darlegt, aus dem man den Zwischenzustand ersehnen kann, spricht er mit Freude von der Hoffnung auf die Wiederkunft des Herrn, „der unseren armseligen Leib verwandeln wird in die Gestalt seines verherrlichten Leibes“ (Phil 3,21). Das Zwischenstadium wird jedoch als vorübergehend aufgefasst, zweifellos als erstrebenswert um der darin enthaltenen Einheit mit Christus willen, jedoch so, dass die höchste Hoffnung immer die Auferstehung der Leiber bleibt: „Denn dieses Vergängliche muss sich mit Unvergänglichkeit bekleiden und dieses Sterbliche mit Unsterblichkeit“ (1 Kor 15,53).
-
-** **
 
 **4. Die Wirklichkeit der Auferstehung im gegenwärtigen theologischen Kontext**
 

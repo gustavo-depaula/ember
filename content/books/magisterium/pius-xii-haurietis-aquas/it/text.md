@@ -8,8 +8,6 @@ LETTERA ENCICLICA
 
 SULLA DEVOZIONE AL SACRO CUORE DI GESÙ
 
-* *
-
 Ai Venerabili Fratelli Patriarchi, Primati, Arcivescovi, Vescovi e agli altri Ordinari locali  
 che hanno pace e comunione con la Sede Apostolica.
 

@@ -1,9 +1,5 @@
 # Notificazione su alcuni aspetti dei Lezionari ecclesiastici propri della "Liturgia Horarum"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Prot. N. 1280/02/L   
 
 **NOTIFICAZIONE  SU ALCUNI ASPETTI DEI LEZIONARI ECCLESIASTICI PROPRI  DELLA « LITURGIA HORARUM »** 
@@ -41,8 +37,6 @@ II   
 14.      La *lectio altera*, sia che attinga ai Padri o agli Scrittori ecclesiastici sia che si configuri come composizione agiografica, è necessario che abbia una frase tematica che richiami il tema centrale del brano o che faccia da collegamento con la lettura biblica o con il tempo liturgico. Tale elemento, non destinato alla lettura, aiuta a tenere presente il contenuto del brano proposto. Ci si attenga anche per questo elemento al modello dell’*editio typica* corrente.   
 
 15.      Per ciò che riguarda la composizione dei Responsori che seguono le letture patristiche o agiografiche, sebbene non siano strettamente congiunti con il testo della lettura,[^27] si tengano presenti, come modello, quelli già approvati nell’*Officium lectionum*, ai quali si può attingere nel caso di difficoltà redazionali. Si salvaguardi, per quanto possibile, una certa corrispondenza tematica con la relativa lettura e si compongano in modo da poter essere anche cantati, almeno nelle lingue vernacole.   
-
-**  **
 
 III   
 
@@ -116,8 +110,6 @@ Roma, 27 giugno 2002 
 Prefetto 
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: S. Congregatio pro Cultu Divino,Instructio *Calendaria particularia,* del 24 giugno 1970: *Acta Apostolicae Sedis* 62 (1970) 651-663; *Notitiae* 6 (1970) 349-370.
 

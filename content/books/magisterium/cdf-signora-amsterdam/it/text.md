@@ -1,13 +1,5 @@
 # Notificazione in merito alle pretese apparizioni e rivelazioni della «Signora di tutti i popoli» ad Amsterdam, 25 maggio 1974
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

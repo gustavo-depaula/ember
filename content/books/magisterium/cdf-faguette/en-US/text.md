@@ -1,15 +1,5 @@
 # “Our Lady of Mercy Leads us to the Heart of Christ.” Letter to the Archbishop of Bourges (France) on the Spiritual Experience of Estelle Faguette
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERY FOR THE DOCTRINE OF THE FAITH

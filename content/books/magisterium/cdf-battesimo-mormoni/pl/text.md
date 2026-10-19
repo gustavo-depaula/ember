@@ -1,9 +1,5 @@
 # Odpowiedź na wątpliwość dotyczącą ważności chrztu
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **Odpowiedź na wątpliwość dotyczącą ważności chrztu**
@@ -19,5 +15,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 5 czerwca 2001 r.
 **Kard. Joseph Ratzinger** * Prefekt*
 
 **Tarcisio Bertone, S.D.B.** Em. Arcybiskup Vercelli *Sekretarz*
-
-[](#top)

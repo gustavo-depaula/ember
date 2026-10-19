@@ -24,13 +24,9 @@ Con este fin, el [7 de mayo de 2019 promulgué una carta apostólica en forma de
 
 Ahora, trascurrido el tiempo establecido, consideradas las observaciones enviadas por las Conferencias Episcopales y los Dicasterios de la Curia Romana, y evaluada la experiencia de estos años, para favorecer una mejor aplicación de lo establecido sin perjuicio de lo que establece el Código de Derecho Canónico y el Código de Cánones de las Iglesias Orientales en materia penal y procesal, dispongo:
 
-** **
-
 **TÍTULO I**
 
 **DISPOSICIONES GENERALES**
-
-** **
 
 **Art. 1 - Ámbito de aplicación**
 

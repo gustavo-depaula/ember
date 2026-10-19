@@ -1,9 +1,5 @@
 # INFORMACJA W SPRAWIE PISM O. ANTHONY’EGO DE MELLO S.J., 24 czerwca 1998 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 INFORMACJA W SPRAWIE PISM O. ANTHONY’EGO DE MELLO S.J.*\**
@@ -28,5 +24,3 @@ Dlatego w trosce o dobro wiernych Kongregacja Nauki Wiary uznała za konieczne o
 *Em. Arcybiskup Vercelli Sekretarz*
 
 \* *AAS* 90 (1998) 833-834.
-
-[](#top)

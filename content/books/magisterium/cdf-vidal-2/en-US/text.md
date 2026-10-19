@@ -4,10 +4,6 @@
 
 Some Comments on the Notification  Regarding Certain Writings of Father Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 **Some comments on the *NOTIFICATION* of the**
@@ -81,5 +77,3 @@ The same reasoning is at work in the teaching of the Magisterium on homologous a
 \(12\) Congregation for the Doctrine of the Faith, Instruction Donum vitae (February 22, 1987), II, B, 5: AAS 80 (1988), 92-94. 
 
 \(13\) John Paul II, Encyclical Letter Evangelium vitae (March 25, 1995), 58-62: AAS 87 (1995), 466-472.
-
-[](#top)

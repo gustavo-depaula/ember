@@ -1,9 +1,5 @@
 # Alcune questioni sulla Teologia della Redenzione, 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Commissione Teologica Internazionale
 
 **ALCUNE QUESTIONI SULLA TEOLOGIA DELLA REDENZIONE**[\[\*\]](#_ftn*)
@@ -895,5 +891,3 @@ Il testo italiano qui riportato (con alcune varianti redazionali) si trova in *C
 ²¹⁷ Rm 5, 21; cf. 8, 2.
 
 ²¹⁸ 1Cor 15, 28.
-
-[](#top)

@@ -10,22 +10,20 @@ BY THE SUPREME PONTIFF
 
 **       [The text of this Apostolic Letter has been repealed](https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20260901-abrogazione-un-futuro-sostenibile.html) [by the Apostolic Letter of Pope Leo XIV dated 1 September 2026 ](https://www.vatican.va/content/leo-xiv/it/apost_letters/documents/20260901-abrogazione-un-futuro-sostenibile.html)**
 
-**     **
-
 An economically sustainable future requires that today, among other decisions, measures be taken concerning staff salaries.
 
 > a\) In view of the deficit that has characterised the economic management of the Holy See for several years;
->
+
 > b\) in view of the worsening of this situation following the health emergency caused by the spread of Covid-19, which has adversely affected all sources of revenue for the Holy See and Vatican City State;
->
+
 > \(c\) considering that staff costs constitute a significant item of expenditure in the budget of the Holy See and the Vatican City State;
->
+
 > d\) considering that, although the Holy See and the Vatican City State are adequately capitalized, it is necessary to ensure sustainability and balance between income and expenditure in current economic and financial management;
->
+
 > e\) deemed it necessary to proceed in this regard according to criteria of proportionality and progressiveness;
->
+
 > \(f\) with a view to safeguarding current jobs;
->
+
 > g\) having obtained the competent opinion of the Secretariat for the Economy and having carefully examined every question concerning this matter, I hereby establish the following:
 
 **Article 1**
@@ -51,9 +49,9 @@ An economically sustainable future requires that today, among other decisions, m
 §1 The reduction referred to in Articles 1, 2 and 3 shall not apply if the person concerned provides evidence that he cannot meet fixed expenses related to his own health or that of relatives up to the second degree. The conditions for the application of this Article shall be assessed annually. The relevant documentation shall be submitted
 
 > \(a\) to the Secretariat for the Economy for employees who are administratively dependent on it;
->
+
 > b\) to the Governorate of the Vatican City State for its employees;
->
+
 > c\) to the Institution to which they belong for employees of the Congregation for the Evangelisation of Peoples and of the Institutions mentioned in Art. 6;
 
 **Article 5**

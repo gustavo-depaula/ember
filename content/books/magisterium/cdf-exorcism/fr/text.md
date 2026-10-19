@@ -1,9 +1,5 @@
 # Lettre aux Ordinaires au sujet des normes sur l'Exorcisme, 29 septembre 1985
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 Lettre
@@ -31,7 +27,3 @@ Joseph Card. RATZINGER
 
 Alberto BOVONE  
 *Secrétaire*
-
-*    *
-
-[](#top)

@@ -1,15 +1,5 @@
 # The Role and Functions of Doctrinal Commissions - Card. Luis F. Ladaria, S.J., Prefect of the Congregation for the Doctrine of the Faith
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **THE ROLE AND FUNCTIONS OF DOCTRINAL COMMISSIONS**
@@ -36,15 +26,15 @@ Through four documents over the years, the Congregation has established guidelin
 Let us first reflect on the relationship of the Doctrinal Commissions with the Episcopal Conferences.
 
 > 1\) The invitation of the Congregation for the Doctrine of the Faith addressed to the Episcopal Conferences to constitute Doctrinal Commissions is an expression of the collegial character of ecclesial ministry aimed at preaching the Gospel in its purity and integrity. Doctrinal Commissions should help to “promote the communication of the teaching of the faith” at the level of the Episcopal Conference and thus in the Church at large.
->
+
 > 2\) A Doctrinal Commission is accountable to the Episcopal Conference from which it receives its mandate. It is a consultative body whose objective is to assist both the Episcopal Conference and individual bishops, “in their solicitude for the teaching of the faith”. As successors of the apostles who are called to exercise the *munus docendi* as one of their principal responsibilities, the Bishops are teachers of the Catholic faith. Therefore, a Doctrinal Commission, while placing itself at the service of the Bishops united as a Conference, should be disposed to render assistance to the needs of the individual Bishops as well.
->
+
 > 3\) It is highly recommended that Episcopal Conferences have a Doctrinal Commission to deal with doctrinal issues. The establishment of a Doctrinal Commission, of course, is not always an easy task. Some Episcopal Conferences are small and may not be able to constitute a proper Doctrinal Commission, especially in Asian countries where Christians are a minority. In such cases the Congregation proposes two options: Either a) another Commission can be given the additional charge to deal with issues related to doctrine, or (b) an individual Bishop can pay special attention “to doctrinal problems in the name and service of the whole Conference”.
->
+
 > 4\) Only Bishops can be chosen as members of the Doctrinal Commission. Theologians and Experts may help with their particular expertise, but they may not be members. The reason is that it is the task of the Bishops to preach the Gospel of God to all men and to preserve God’s people from defections. Theologians assist in explaining the faith and are helpful in confronting new challenges, but their role is different from that of the Bishops. Once a Doctrinal Commission is established, the names of the Chairperson and the members should be communicated to the Congregation for the Doctrine of the Faith.
->
+
 > 5\) A Doctrinal Commission, as a consultative body, is not entitled to make public statements on behalf of the Episcopal Conference without the explicit authorisation to do so. Moreover, there should always be harmony between the Doctrinal Commission and the Episcopal Conference and individual Bishops. This harmony is essential for the unity of God’s people.
->
+
 > 6\) Even though the documents do not mention this, the President of a Doctrinal Commission should be elected for three years. He can be re­elected for another period. It is important to bear in mind that the mandate of all members is not terminated at the same time so that the continuity of the activities of the Commission does not suffer. As a matter of principle, a Doctrinal Commission should adhere to and respect the decisions of the preceding Commissions. The reason for this is clear insofar as the Christian faith remains the same throughout time. Even when there may be progress in doctrine, the progress must always remain a progress and renewal in continuity, and not a rupture from the teaching of our fathers in faith.
 
 **III. Functions of Doctrinal Commissions**

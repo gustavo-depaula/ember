@@ -1,9 +1,5 @@
 # Resposta à dúvida sobre a doutrina da Carta Apostólica Ordinatio Sacerdotalis, 28 de outubro de 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***RESPOSTA À DÚVIDA SOBRE A DOUTRINA  DA CARTA APOSTÓLICA «O[RDINATIO SACERDOTALIS](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_po.html)» *** *\**
@@ -22,8 +18,4 @@ Esta doutrina exige um assentimento definitivo, já que, fundada na Palavra de D
 
 **Tarcisio Bertone, S.D.B.** * Arcebispo Emérito de Vercelli Secretário*
 
-* *
-
 \* *L’Osservatore Romano*, Edição semanal, N. 47, 25 de Novembro de 1995, Pág. 10 (574) = *AAS* 87 (1995), 111.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Letter to the Presidents of Episcopal Conferences
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***Letter to the Presidents of Episcopal Conferences***
@@ -53,5 +49,3 @@ The *ad limina* visits can be of particular service in this regard. So too are t
 
 **ALBERTO BOVONE**  
 *Titular Archbishop of Caesarea in Numidia Secretary*
-
-[](#top)

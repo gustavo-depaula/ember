@@ -1,9 +1,5 @@
 # Note with pastoral recommendations for the Year of Faith, 6 January 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **Note with pastoral recommendations for the *Year of Faith***
@@ -135,8 +131,6 @@ Faith “is the lifelong companion that makes it possible to perceive, ever anew
 **Luis F. Ladaria, S.J.** *Secretary*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benedict XVI, Enc. Letter, *[Deus caritas est](/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_en.html)*, 25 December 2005, n. 1.
 

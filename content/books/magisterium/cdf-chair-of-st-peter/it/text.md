@@ -1,9 +1,5 @@
 # Decreto di Erezione dell'Ordinariato Personale della Cattedra di San Pietro, 1° gennaio 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLE FEDE
 
 **Decreto di Erezione dell'Ordinariato Personale della Cattedra di San Pietro  **
@@ -85,5 +81,3 @@ Arcivescovo Luis F. Ladaria, S.I. *Segretario*
 \[14\] Cfr. *[Norme Complementari](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_it.html),* Art. 10 § 3; vedi anche Costituzione Apostolica *Anglicanorum coetibus,* Art. VI § 2.
 
 \[15\] Cfr. *[Norme Complementari](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_it.html)* Art. 12 § 1; Art. 13 § 2.
-
-[](#top)

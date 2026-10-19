@@ -1,9 +1,5 @@
 # Nota doctrinal acerca de algunos aspectos de la evangelización
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 **NOTA DOCTRINAL ACERCA DE ALGUNOS ASPECTOS DE LA EVANGELIZACIÓN**
@@ -97,8 +93,6 @@ Esta perspectiva requiere naturalmente evitar cualquier presión indebida: «en 
 *Arzobispo titular de Sila Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Juan Pablo II, Carta Encíclica *[Redemptoris missio](/edocs/ESL0040/__P7.HTM)* (7 de diciembre de1990), n. 47: *AAS* 83 (1991), 293.
 

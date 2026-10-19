@@ -1,15 +1,5 @@
 # Letter Iuvenescit Ecclesia to the Bishops of the Catholic Church Regarding the Relationship Between Hierarchical and Charismatic Gifts in the Life and the Mission of the Church
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_ge.html) - [EN](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_en.html) - [ES](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sp.html) - [FR](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_fr.html) - [IT](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_it.html)- [SL](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sl.html) - [ZH_CN](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_zh_cn.pdf) - [ZH_TW](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_zh_tw.pdf)\]
@@ -170,8 +160,6 @@ Rome, from the Offices of the Congregation for the Doctrine of the Faith, May 15
 
 \+ **Luis F. Ladaria, S.I.**  
 Titular Archbishop of Thibica *Secretary*
-
-* *
 
 ------------------------------------------------------------------------
 

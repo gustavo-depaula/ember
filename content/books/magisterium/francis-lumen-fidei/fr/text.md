@@ -1,6 +1,5 @@
 # Lumen fidei
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei_fr.pdf)  
 DOWNLOAD PDF
 
 LETTRE ENCYCLIQUE  
@@ -148,8 +147,6 @@ TROISIÈME CHAPITRE
 **JE VOUS TRANSMETS CE QUE J’AI REÇU**  
 (cf. *1 Co* 15, 3)
 
-* *
-
 **L’Église, mère de notre foi**
 
 37. Celui qui s’est ouvert à l’amour de Dieu, qui a écouté sa voix et reçu sa lumière, ne peut garder ce don pour lui. Puisque la foi est écoute et vision, elle se transmet aussi comme parole et comme lumière. S’adressant aux Corinthiens, l’Apôtre Paul utilise justement ces deux images. D’une part il dit : « Possédant ce même esprit de foi, selon ce qui est écrit : *J’ai cru, c’est pourquoi j’ai parlé*, nous aussi nous croyons, et c’est pourquoi nous parlons » (*2 Co* 4, 13). La parole reçue se fait réponse, confession, et de cette manière résonne pour les autres, les invitant à croire. D’autre part saint Paul se réfère aussi à la lumière : « Nous qui, le visage découvert, réfléchissons comme en un miroir la gloire du Seigneur, nous sommes transformés en cette même image » (*2 Co* 3, 18). Il s’agit d’une lumière qui se reflète de visage en visage, de même que Moïse portait sur lui le reflet de la gloire de Dieu après lui avoir parlé : « \[Dieu\] a resplendi dans nos cœurs pour faire briller la connaissance de la gloire de Dieu, qui est sur la face du Christ » (*2 Co* 4, 6). La lumière de Jésus brille, comme dans un miroir, sur le visage des chrétiens, et ainsi elle se répand et arrive jusqu’à nous, pour que nous puissions, nous aussi, participer à cette vision et réfléchir sur les autres cette lumière, comme dans la liturgie de Pâques la lumière du cierge allume beaucoup d’autres cierges. La foi se transmet, pour ainsi dire, par contact, de personne à personne, comme une flamme s’allume à une autre flamme. Les chrétiens, dans leur pauvreté, sèment une graine si féconde qu’elle devient un grand arbre et est capable de remplir le monde de fruits.
@@ -203,8 +200,6 @@ QUATRIÈME CHAPITRE
 **DIEU PRÉPARE POUR EUX UNE CITÉ**  
 (cf. *He* 11, 16)
 
-* *
-
 **La foi et le bien commun**
 
 50\. Dans la présentation de l’histoire des Patriarches et des justes de l’Ancien Testament, la *Lettre aux Hébreux* met en relief un aspect essentiel de leur foi. Elle ne se présente pas seulement comme un chemin, mais aussi comme l’édification, la préparation d’un lieu dans lequel les hommes peuvent habiter ensemble. Le premier constructeur est Noé qui, dans l’arche, réussit à sauver sa famille (cf. *He* 11, 7). Vient ensuite Abraham, dont il est dit que, par la foi, il habitait une tente, attendant la ville aux solides fondations (cf. *He* 11, 9-10). De la foi surgit une nouvelle confiance, une nouvelle assurance que seul Dieu peut donner. Si l’homme de foi s’appuie sur le Dieu de l’Amen, sur le Dieu fidèle (Cf. *Is* 65, 16), et devient ainsi lui-même assuré, nous pouvons ajouter que cette fermeté de la foi fait référence aussi à la cité que Dieu prépare pour l’homme. La foi révèle combien les liens entre les hommes peuvent être forts, quand Dieu se rend présent au milieu d’eux. Il ne s’agit pas seulement d’une fermeté intérieure, d’une conviction stable du croyant; la foi éclaire aussi les relations entre les hommes, parce qu’elle naît de l’amour et suit la dynamique de l’amour de Dieu. Le Dieu digne de confiance donne aux hommes une cité fiable.
@@ -246,19 +241,19 @@ En Marie, Fille de Sion, s’accomplit la longue histoire de foi de l’Ancien T
 60\. Tournons-nous vers Marie, Mère de l’Église et Mère de notre foi, en priant :
 
 > Ô Mère, aide notre foi !
->
+
 > Ouvre notre écoute à la Parole, pour que nous reconnaissions la voix de Dieu et son appel.
->
+
 > Éveille en nous le désir de suivre ses pas, en sortant de notre terre et en accueillant sa promesse.
->
+
 > Aide-nous à nous laisser toucher par son amour, pour que nous puissions le toucher par la foi.
->
+
 > Aide-nous à nous confier pleinement à Lui, à croire en son amour, surtout dans les moments de tribulations et de croix, quand notre foi est appelée à mûrir.
->
+
 > Sème dans notre foi la joie du Ressuscité.
->
+
 > Rappelle-nous que celui qui croit n’est jamais seul.
->
+
 > Enseigne-nous à regarder avec les yeux de Jésus, pour qu’il soit lumière sur notre chemin. Et que cette lumière de la foi grandisse toujours en nous jusqu’à ce qu’arrive ce jour sans couchant, qui est le Christ lui-même, ton Fils, notre Seigneur !
 
 *Donné à Rome, près de Saint-Pierre, le 29 juin 2013, solennité des saints Apôtres Pierre et Paul, en la première année de mon Pontificat.*

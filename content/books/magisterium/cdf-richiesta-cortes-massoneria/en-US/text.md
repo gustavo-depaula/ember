@@ -1,15 +1,5 @@
 # The Request of His Excellency, the Most Rev. Julito Cortes, Bishop of Dumaguete (Philippines) Regarding the Best Pastoral Approach to Membership in Freemasonry by the Catholic Faithful
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**

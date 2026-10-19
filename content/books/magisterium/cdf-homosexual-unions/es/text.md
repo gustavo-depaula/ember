@@ -1,9 +1,5 @@
 # Consideraciones acerca de los proyectos de reconocimiento legal de las uniones entre personas homosexuales
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***CONSIDERACIONES ACERCA DE LOS PROYECTOS DE RECONOCIMIENTO LEGAL DE LAS UNIONES ENTRE PERSONAS HOMOSEXUALES***
@@ -129,5 +125,3 @@ Dado en Roma, en la sede de la Congregación para la Doctrina de la Fe, el 3 de 
 \(17\) No hay que olvidar que subsiste siempre «  el peligro de que una legislación que haga de la homosexualidad una base para poseer derechos pueda estimular de hecho a una persona con tendencia homosexual a declarar su homosexualidad, o incluso a buscar un partner con el objeto de aprovecharse de las disposiciones de la ley  » (Congregación para la Doctrina de la Fe, *Algunas consideraciones concernientes a la Respuesta a propuestas de ley sobre la no discriminación de las personas homosexuales*, 24 de julio de 1992, n. 14).
 
 \(18\) Juan Pablo II, Carta Encíclica *Evangelium vitæ*, 25 de marzo de 1995, n. 73.
-
-[](#top)

@@ -1,14 +1,8 @@
 # Ratio periclitandae doctrinae Candidatorum ad academicos gradus in Sacra Scriptura - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **RATIO PERICLITANDAE DOCTRINAE CANDIDATORUM AD ACADEMICOS GRADUS IN SACRA SCRIPTURA**
-
-** **
 
 Cuicumque ad academicos in Sacra Scriptura gradus, secundum ea quae Apostolicis Litteris *Scripturae Sanctae* constituta sunt, licet certumque est contendere, disciplinarum capita definiuntur, in quibus apud Commissionem Biblicam legitima doctrinae suae experimenta dabit.
 
@@ -209,7 +203,7 @@ Quae omnia experimenta in aula publica habentur ita, ut qui cupierint auditores 
 3\. Experimentum solemnius duas pariter complectitur partes: lectionem publicam a candidato ex tempore habendam, et ipsam theseos defensionem.
 
 > *a)* Lectio publice habenda est de argumento a iudicibus delecto e libris utriusque Testamenti ab ipso Candidato propositis, vel de quaestionibus rei criticae aut patristicae in adnexo indice descriptis. Candidato conceditur spatium unius horae ad hanc lectionem praeparandam. Absoluta lectione, quae quindecim vel viginti momenta non excedat, iudices candidatum tenent sive de argumento lectionis, sive de quaestionibus connexis, quin tamen indicis ambitum excedant.  
->   
+
 > *b)* Defensionem theseos praecedit argumenti expositio nitida, expedita et, quantum potest, plena, quae tamen spatium unius horae numquam excedat. Tres dein e iudicum collegio thesim ex officio impugnent. Post quos alii quoque Rev.mi Consultores, quaestiones movere possunt. Spatium utriusque experimenti definitum non est. Suadendum tamen ut unius diei intervallo inter se distent.
 
 4\. Absoluta theseos defensione, iudices conveniunt de admissione Candidati inter se deliberaturi. Cuius deliberationis exitus a R.mo Secretario die sequenti Candidato significatur.
@@ -224,7 +218,3 @@ Quae omnia experimenta in aula publica habentur ita, ut qui cupierint auditores 
 
 Fulcranus Vigouroux, Pr.S.S.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-* *
-
-[](#top)

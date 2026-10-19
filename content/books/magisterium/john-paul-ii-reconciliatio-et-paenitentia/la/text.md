@@ -26,17 +26,17 @@ Quemadmodum aliorum ita et pastoris oculi conspiciunt, pro dolor, praeter alias 
 Cum in elementa divisiones gignentia inquirunt, speculatores diligentes quam maxime varia eorum inveniunt: ab augescente enim inaequalitate inter coetus, ordines sociales et regiones, pervenitur ad conflictiones ideologicas, quae null atenus evanuerunt; ab oppositu utilitatum oeconomicarum ad expressam in re politica pugnacitatem; a discrepantiis tribulibus ad discrimina, quae ob causas sociales-religiosas eveniunt. Ceterum, quaedam res, quae ob omnium oculos versantur, efficiunt quasi faciem miserandam divisionum, unde res illae manant earumque gravitatem tam definite ostendunt ut refutari non possint. Inter tot acerbitates sociales temporum nostrorum hae possunt memorari:
 
 > \- oppressio iurium fundamentalium personae humanae, potissimum iuris vitae tuendae ac dignae vitae rationis; quod est etiam maioris infamiae, quod simul cum inani quadam verborum profluentia, usque adhuc ignota, circa eadem iura exsistit;
->
+
 > \- insidiae, quae libertati singulorum et consortionum parantur, et sollicitationes, quas adversus eam fieri contingit, non excepta, immo magis offen sa et in maius periculum adducta, libertate propriam fidem profitendi;
->
+
 > \- variae formae discriminis faciendi: ad stirpem, cultum humanum, religionem pertinentes, aliae;
->
+
 > \- violentia ac tromocratia;
->
+
 > \- usus cruciatuum et formae iniustae et illegitimae coercitionis;
->
+
 > \- acervatio armorum usitatorum vel atomicorum, rei militaris augendae contentio una cum sumptibus bellicis, quibus indigna miseria populorum, re sociali et oeconomica debilium, posset sublevari;
->
+
 > \- iniqua distributio opum mundi bonorumque cultus civilis, quae ad summum ducitur quadam rerum socialium temperatione, qua differentia inter condiciones humanas divitum ac pauperum magis in dies augetur (2), Praeceps vis harum divisionum mundum, in quo degimus vitam, efficit mundum in ipsis eius fundamentis perfractum (3).
 
 Ceterum, cum Ecclesia, licet cum mundo non coalescat ut sit idem, neque sit de mundo, tam en in mundum inseratur atque cum eo colloquium sed *dialogum* habeat (4) non est mirum in ipsa eius compage effectus ac signa animadverti divisionum, quibus humana societas vulneratur. Ecclesia, praeter discidia inter Communiones christianas, quae eam a saeculis affligunt, hoc tempore hic illic in sinu suo inter ipsa sua membra patitur divisiones, e diversis opinationibus ac divers is optionibus in re doctrinali et pastorali exortas (5). Quae divisiones inierdum insanabiles possunt videri.
@@ -310,9 +310,9 @@ Sed quid sibi vult secundum sancti Pauli sententiam pietas?
 Credentes, qui primo saeculo fuerunt, verbis eius Hymni, quae densa sunt sententiis theologicis ac nobili pulchritudine nitent, mysterium Christi profitebantur, unde is:
 
 > \- manifestatus est in humanae carnis veritate et a Spiritu Sancto constitutus Iustus, qui pro iniustis se offert;
->
+
 > \- Angelis apparuit, maior factus iBis et praedicatus est in gentibus, afferens salutem;
->
+
 > \- creditus est in mundo ut missus a Patres et ab eodem Patre ut Dominus in caelum assumptus (106).
 
 Quocirca mysterium pietatis est ipsum mysterium Christi.
@@ -354,7 +354,7 @@ Synodi Patres, ut viri repraesentantes suos in Episcopatu Fratres et ut rectores
 Quapropter in lumine arbitramur esse ponendarn summam *rei pastoralis ad paenitentiam et reconciliationem pertinentis*, haec duo, una cum Synodi Coetu, illustrando:
 
 > 1\. Instrumenta et vias, quibus Ecclesia ad paenitentiam et reconcilia tionem uti tur promovendam.
->
+
 > 2\. Sacramentum, quod per excellentiam dicitur, paenitentiae et reconciliationis.
 
 **I**
@@ -412,15 +412,15 @@ Ab Ecclesiae Pastoribus exspectatur — prout Synodus monuit — catechesis de c
 Ab Ecclesiae Pastoribus exspectatur catechesis etiam de aliis quaestionibus minoris quidem momenti ad reconciliationem.
 
 > — De *sensu peccati*, qui — uti diximus — non paulum apud homines nostros est imminutus.
->
+
 > — De *tentatione et tentationibus*: Dominus ipse leslls, Filius Dei, « tentatus per omnia secundum similitudinem absque peccato » (147), a Maligno tentari se voluit (148) ut significaret, perinde ac se, sectatores suos quoque obnoxios fore tentationi utque doceret quomodo in tentatione ipsa esset agendum. Ei autem, qui Patrem precatur ne supra id quod possit, tentetur (149), ne in tentationem inducatur (150) quique occasionibus sese non obicit, illud ipsum subici tentationi non continuo significat se iam peccavisse, sed potius opportunitas est crescendi in fidelitate et consonantia secum per humilitatem ac vigilantiam.
->
+
 > — De *ieiunio*: quod fieri potest rationibus antiquis et novis tamquam signum conversionis, paenitentiae ac mortificationis personalis simulque coniunctionis cum Christo Crucifixo necnon solidae necessitudinis cum famelicis atque dolentibus.
->
+
 > — De *eleemosyna*, quae instrumentum est ad carita tern concretam reddendam, dum ea quae aliquis habet, cum illis communicat, qui effectibus paupertatis vexantur.
->
+
 > — De *arcto vinculo*, quo devictio divisionum in mundo iungitur plenae communioni cum Deo interque homines, quod propositum est eschatologicum Ecclesiae.
->
+
 > — De *concretis condicionibus*, in quibus reconciliatio est efficienda (in familia, in communitate civili, in « structuris » socialibus) ac potissimum de quattuor reconciliationibus, quae quattuor praecipuis discidiis medentur: id est reconciliatio hominis cum Deo, secum ipso, cum fratribus, cum omni creatura.
 
 Neque licet Ecclesiae, sine magna deformatione proprii nuntii essentialis, omittere continuam catechesim de illis rebus, quas christianus sermo translaticius nominat *quattuor novissima hominis*, scilicet de morte, iudicio (particulari et universali), inferno, paradiso. In cultu humano, qui eo inclinatur ut hominem in terrestri eius condicione plus minus feliciter impleta concludat, ab Ecclesiae Pastoribus flagitatur catechesis, quae certitudine fidei vitam post hanc futuram mentibus aperiat atque illustret: trans arcanas mortis veluti portas dispicitur aevum sempiternum gaudii in coniunctione cum Deo, aut poenae longe ab eo. Hoc dumtaxat in rerum prospectu eschatologico modus verus peccati potest aestimari et aliquis se vehementer impelli sentit ad paenitentiam atque reconciliationem.

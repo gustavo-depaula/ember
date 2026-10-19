@@ -9,8 +9,6 @@ DELL'INSEGNAMENTO MORALE DELLA CHIESA
 
 **Introduzione**
 
-** **
-
 *Venerati Fratelli nell'Episcopato, salute e Apostolica Benedizione!*
 
 Lo splendore della verità rifulge in tutte le opere del Creatore e, in modo particolare, nell'uomo creato a immagine e somiglianza di Dio (cf Gn 1,26): la verità illumina l'intelligenza e informa la libertà dell'uomo, che in tal modo viene guidato a conoscere e ad amare il Signore. Per questo il salmista prega: «Risplenda su di noi, Signore, la luce del tuo volto» (*Sal* 4,7).
@@ -65,8 +63,6 @@ Se questa Enciclica, da tanto tempo attesa, viene pubblicata solo ora, lo è anc
 
 Se vogliamo dunque penetrare nel cuore della morale evangelica e coglierne il contenuto profondo e immutabile, dobbiamo ricercare accuratamente il senso dell'interrogativo posto dal giovane ricco del Vangelo e, più ancora, il senso della risposta di Gesù, lasciandoci guidare da Lui. Gesù, infatti, con delicata attenzione pedagogica, risponde conducendo il giovane quasi per mano, passo dopo passo, verso la verità piena.
 
-*** ***
-
 ***«Uno solo è buono»* (*Mt* 19,17)**
 
 9\. Gesù dice: «Perché mi interroghi su ciò che è buono? Uno solo è buono. Se vuoi entrare nella vita, osserva i comandamenti» (*Mt* 19, 17). Nella versione degli evangelisti Marco e Luca la domanda viene così formulata: «Perché mi chiami buono? Nessuno è buono, se non Dio solo» (*Mc* 10,18; cf *Lc* 18,19).
@@ -84,8 +80,6 @@ Prima di rispondere alla domanda, Gesù vuole che il giovane chiarisca a se stes
 11\. L'affermazione che «uno solo è buono» ci rimanda così alla «prima tavola» dei comandamenti, che chiama a riconoscere Dio come Signore unico e assoluto e a rendere culto a Lui solo a motivo della sua infinita santità (cf *Es* 20,2-11). *Il bene è appartenere a Dio, obbedire a Lui*, camminare umilmente con Lui praticando la giustizia e amando la pietà (cf *Mic* 6,8). *Riconoscere il Signore come Dio è il nucleo fondamentale, il cuore della Legge*, da cui discendono e a cui sono ordinati i precetti particolari. Mediante la morale dei comandamenti si manifesta l'appartenenza del popolo di Israele al Signore, perché Dio solo è Colui che è buono. Questa è la testimonianza della Sacra Scrittura, in ogni sua pagina permeata dalla viva percezione dell'assoluta santità di Dio: «Santo, santo, santo è il Signore degli eserciti» (*Is* 6,3).
 
 Ma se Dio solo è il Bene, nessuno sforzo umano, neppure l'osservanza più rigorosa dei comandamenti, riesce a «compiere» la Legge, cioè a riconoscere il Signore come Dio e a rendergli l'adorazione che a Lui solo è dovuta (cf *Mt* 4,10). *Il «compimento» può venire solo da un dono di Dio:* è l'offerta di una partecipazione alla Bontà divina che si rivela e si comunica in Gesù, colui che il giovane ricco chiama con le parole «Maestro buono» (*Mc* 10,17; *Lc* 18,18). Ciò che ora il giovane riesce forse solo a intuire, verrà alla fine pienamente rivelato da Gesù stesso nell'invito: «Vieni e seguimi» (*Mt* 19,21).
-
-*** ***
 
 ***«Se vuoi entrare nella vita, osserva i comandamenti»* (*Mt* 19,17)**
 
@@ -110,8 +104,6 @@ Sia l'Antico che il Nuovo Testamento sono espliciti nell'affermare che *senza l'
 15\. Nel «Discorso della Montagna», che costituisce la *magna charta* della morale evangelica,²⁴ Gesù dice: «Non pensate che io sia venuto ad abolire la Legge o i Profeti; non sono venuto per abolire, ma per dare compimento» (*Mt* 5,17). Cristo è la chiave delle Scritture: «Voi scrutate le Scritture: esse parlano di me» (cf *Gv* 5,39); è il centro dell'economia della salvezza, la ricapitolazione dell'Antico e del Nuovo Testamento, delle promesse della Legge e del loro compimento nel Vangelo; è il legame vivente ed eterno tra l'Antica e la Nuova Alleanza. Commentando l'affermazione di Paolo «Il termine della legge è Cristo» (*Rm* 10,4), sant'Ambrogio scrive: «Fine non in quanto mancanza, ma in quanto pienezza della legge: questa si compie in Cristo (*plenitudo legis in Christo est*), dal momento che Egli è venuto non a dissolvere la legge, ma a portarla a compimento. Allo stesso modo in cui c'è un Testamento Antico, ma ogni verità sta all'interno del Nuovo Testamento, così avviene per la legge: quella che è stata data per mezzo di Mosè è figura della vera legge. Dunque, quella legge mosaica è copia della verità».²⁵
 
 *Gesù porta a compimento i comandamenti di Dio*, in particolare il comandamento dell'amore del prossimo, *interiorizzando e radicalizzando le sue esigenze*: l'amore del prossimo scaturisce da *un cuore che ama*, e che, proprio perché ama, è disposto a vivere *le esigenze più alte*. Gesù mostra che i comandamenti non devono essere intesi come un limite minimo da non oltrepassare, ma piuttosto come una strada aperta per un cammino morale e spirituale di perfezione, la cui anima è l'amore (cf *Col* 3,14). Così il comandamento «Non uccidere» diventa l'appello ad un amore sollecito che tutela e promuove la vita del prossimo; il precetto che vieta l'adulterio diventa l'invito ad uno sguardo puro, capace di rispettare il significato sponsale del corpo: «Avete inteso che fu detto agli antichi: *Non uccidere;* chi avrà ucciso sarà sottoposto a giudizio. *Ma io vi dico:* chiunque si adira con il proprio fratello, sarà sottoposto a giudizio... Avete inteso che fu detto: *Non commettere adulterio;* *ma io vi dico:* chiunque guarda ad una donna per desiderarla, ha già commesso adulterio con lei nel suo cuore» (*Mt* 5,21-22.27-28). *È Gesù stesso il «compimento» vivo della Legge* in quanto egli ne realizza il significato autentico con il dono totale di sé: *diventa Lui stesso Legge vivente e personale,* che invita alla sua sequela, dà mediante lo Spirito la grazia di condividere la sua stessa vita e il suo stesso amore e offre l'energia per testimoniarlo nelle scelte e nelle opere (cf *Gv* 13,34-35).
-
-*** ***
 
 ***«Se vuoi essere perfetto»* (*Mt* 19,21)**
 
@@ -329,8 +321,6 @@ Certamente occorre cercare e trovare delle norme morali universali e permanenti 
 
 **II. La coscienza e la verità**
 
-*** ***
-
 ***Il sacrario dell'uomo***
 
 54\. Il rapporto che esiste tra la libertà dell'uomo e la legge di Dio ha la sua sede viva nel «cuore» della persona, ossia nella sua *coscienza morale:* «Nell'intimo della coscienza — scrive il Concilio Vaticano II — l'uomo scopre una legge che non è lui a darsi, ma alla quale invece deve obbedire e la cui voce che lo chiama sempre ad amare e a fare il bene e a fuggire il male, quando occorre, chiaramente dice alle orecchie del cuore: fa' questo, fuggi quest'altro. L'uomo ha in realtà una legge scritta da Dio dentro il suo cuore: obbedire ad essa è la dignità stessa dell'uomo, e secondo questa egli sarà giudicato (cf *Rm* 2, 14-16)».¹⁰¹
@@ -385,8 +375,6 @@ La coscienza, come giudizio ultimo concreto, compromette la sua dignità quando 
 
 **III. La scelta fondamentale e i componenti concreti**
 
-*** ***
-
 ***«Purché questa libertà non divenga pretestoper vivere secondo la carne»* (*Gal* 5,13)**
 
 65\. L'interesse, oggi particolarmente acuto, per la libertà induce molti cultori di scienze sia umane che teologiche a sviluppare un'analisi più penetrante della sua natura e dei suoi dinamismi. Giustamente si rileva che la libertà non è solo la scelta per questa o per quest'altra azione particolare; ma è anche, dentro una simile scelta, *decisione su di sé* e disposizione della propria vita pro o contro il Bene, pro o contro la Verità, in ultima istanza pro o contro Dio. Giustamente si sottolinea l'importanza eminente di alcune scelte, che danno «forma» a tutta la vita morale di un uomo, configurandosi come l'alveo entro cui potranno trovare spazio e sviluppo anche altre scelte quotidiane particolari.
@@ -420,8 +408,6 @@ Il pronunciamento del Concilio di Trento non considera soltanto la «materia gra
 In tal modo la dissociazione tra opzione fondamentale e scelte deliberate di comportamenti determinati — disordinati in se stessi o nelle circostanze — che non la metterebbero in causa, comporta il misconoscimento della dottrina cattolica sul peccato mortale: «Con tutta la tradizione della Chiesa noi chiamiamo *peccato mortale* questo atto, per il quale un uomo, con libertà e consapevolezza, rifiuta Dio, la sua legge, l'alleanza di amore che Dio gli propone, preferendo volgersi a se stesso, a qualche realtà creata e finita, a qualcosa di contrario al volere divino (*conversio ad creaturam*). Il che può avvenire in modo diretto e formale, come nei peccati di idolatria, di apostasia, di ateismo; o in modo equivalente, come in tutte le disubbidienze ai comandamenti di Dio in materia grave».¹¹⁸
 
 **IV. L'atto morale**
-
-*** ***
 
 ***Teleologia e teleologismo***
 

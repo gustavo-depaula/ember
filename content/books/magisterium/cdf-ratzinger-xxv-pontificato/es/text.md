@@ -1,12 +1,6 @@
 # xxv aniversario de pontificado
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***PALABRAS DEL CARDENAL JOSEPH RATZINGER AL COMIENZO DE LA CELEBRACIÓN EUCARÍSTICA CON MOTIVO DEL XXV ANIVERSARIO DEL PONTIFICADO DE JUAN PABLO II***
-
-* *
 
 *Beatísimo Padre: *  
 
@@ -17,5 +11,3 @@ En estos veinticinco años, usted, como Vicario de Jesucristo en la sucesión ap
 Santo Padre, hoy toda la Iglesia le agradece la entrega de estos veinticinco años. Se lo agradecen también numerosas hermanas y hermanos no católicos, hombres de buena voluntad de otras religiones y convicciones. Quisiéramos encomendarlo con nuestra oración a la bondad inagotable de nuestro Señor, que lo ha llamado y guiado a lo largo de todo su camino. Le pedimos que le haga sentir también en este momento la luz de su presencia. Lo saludamos con las antiguas palabras de la oración de la Iglesia:  "*Dominus conservet te et vivificet te et beatum te faciat in terra!".* Esta es una bendición que depende también —lo sabemos bien— de la fidelidad de todos nosotros a su persona y a su misión de Sucesor de Pedro. Aprovechamos de buen grado esta circunstancia para confirmarle nuestra voluntad de perseverar *"cum Petro et sub Petro"* en nuestro servicio a Cristo y a la Iglesia.  
 
 Con estos sentimientos, le decimos desde lo más profundo de nuestro corazón:  *¡Felicidades, Santo Padre!*
-
-[](#top)

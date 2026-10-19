@@ -1,9 +1,5 @@
 # Declaración sobre la masonería, 26-nov-1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***DECLARACIÓN SOBRE LA MASONERÍA***

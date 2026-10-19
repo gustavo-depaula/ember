@@ -1,9 +1,5 @@
 # Indole e autore del libro di Isaia - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **INDOLE E AUTORE DEL LIBRO DI ISAIA**
@@ -35,5 +31,3 @@ Ai seguenti dubbi presentati, la Pontificia Commissione biblica ha risposto come
 Fulcrano VIGOUROUX, P.S.S.  
 Lorenzo JANSSENS, O.S. B.  
 *Segretari consultori*
-
-[](#top)

@@ -37,5 +37,3 @@ With no little care and vigilance, as you know, We have endeavored to safeguard 
 REFERENCES:
 
 1\. Alexander VI in the bull *Inter cetera*, April 13, 1499.* *
-
-*         *

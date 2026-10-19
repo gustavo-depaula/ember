@@ -2,10 +2,6 @@
 
 f
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONALE THEOLOGISCHE KOMMISSION
 
 ***THEOLOGIE HEUTE: PERSPEKTIVEN, PRINZIPIEN UND KRITERIEN***
@@ -301,8 +297,6 @@ Der vorliegende Text besteht aus drei Kapiteln, die sich mit folgenden Themen be
 (Übersetzung: Christine Söding)
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: II. Vatikanisches Konzil, Pastorale Konstitution über die Kirche in der Welt von heute *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_ge.html),* 3. Die Texte des Zweiten Vatikanischen Konzils sind zitiert nach: *Lexikon für Theologie und Kirche. Ergänzungsbände: Das Zweite Vatikanische Konzil,* Freiburg - Basel - Wien 1966.
 

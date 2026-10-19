@@ -1,13 +1,5 @@
 # “Non domandare alla luce, ma al fuoco”. Meditazione di apertura della Sessione Plenaria del Dicastero per la Dottrina della Fede
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Victor Manuel Fernández *Prefetto del Dicastero per la Dottrina della Fede*
@@ -39,7 +31,7 @@ Il problema è che lo stesso può accadere nella vita di tutti noi. Infatti, rip
 Questo ci chiama a renderci consapevoli di due questioni:
 
 > 1\. Che per comprendere appieno qualsiasi cosa dobbiamo lasciarci illuminare da Dio, dobbiamo invocarlo, pregare, ascoltarlo, lasciarci guidare da Lui in mezzo alle ombre. La fede ci assicura che possiamo davvero farlo, ed è davvero possibile che Egli ci illumini per vedere meglio. Ci fidiamo di Lui (credere *Deo*).
->
+
 > 2\. Che dobbiamo riflettere, pensare, analizzare la realtà, ma ascoltando gli altri, accogliendo le loro prospettive che ci permettono di percepire altri aspetti della realtà stessa, aprirci ad altri punti di vista. Per questa ragione ci fa bene prestare attenzione alle “periferie” da dove si vedono le cose in modo diverso.
 
 In questa linea, Papa Leone recentemente sosteneva che “nessuno possiede la verità tutta intera, tutti dobbiamo umilmente cercarla, e cercarla insieme”. Di conseguenza, proponeva “una Chiesa che non si chiude in sé stessa, ma resta in ascolto di Dio per poter allo stesso modo ascoltare tutti” (*[Omelia per le équipe sinodali](https://www.vatican.va/content/leo-xiv/it/homilies/2025/documents/20251026-giubileo-equipe-sinodali.html)*, 26 ottobre 2025). 

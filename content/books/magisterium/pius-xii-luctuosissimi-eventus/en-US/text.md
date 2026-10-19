@@ -1,7 +1,5 @@
 # Luctuosissimi Eventus
 
-*** ***
-
 ***LUCTUOSISSIMI EVENTUS***
 
 ENCYCLICAL OF POPE PIUS XII  

@@ -1,13 +1,5 @@
 # The earth is not separate from the sky. Letter to the Bishop of Trivento (Italy) regarding alleged supernatural phenomena connected to Mount S. Onofrio
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERY FOR THE DOCTRINE OF FAITH
@@ -93,11 +85,11 @@ Work must be done in this regard, hoping for growth in mutual understanding and 
 The “*prae oculis habeatur”* does not yet admit public worship, where the latter expression refers to those liturgical acts performed “in the name of the Church by persons lawfully deputed and through acts approved by the authority of the Church” (*Code of Canon Law*, can. 834 §2 *CIC*). Consequently, this judgment *excludes* the following elements:
 
 > 1\) the celebration of liturgical rites in places linked to the phenomenon without the explicit approval of the competent ecclesiastical authority;
->
+
 > 2\) pilgrimages or other pastoral events of public importance organized by parishes or other ecclesiastical structures;
->
+
 > 3\) the possibility of disseminating, without the approval of the ecclesiastical authority, the phenomenon and its alleged messages;
->
+
 > 4\) the accommodation of people to share this experience.
 
 However, given that no serious concerns have emerged that would require further intervention, *private worship is permitted*: personal visits, in pairs or very small groups, in this case to the site of the cross erected on Mount S. Onofrio in a period prior to the beginning of the alleged phenomena, or along the *Via Crucis* route set up to accompany the ascent of the mountain with prayer.

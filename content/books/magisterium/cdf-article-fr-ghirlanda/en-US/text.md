@@ -1,9 +1,5 @@
 # The significance of the Apostolic Constitution Anglicanorum coetibus by Fr. Gianfranco Ghirlanda, S.J.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **THE SIGNIFICANCE OF THE APOSTOLIC CONSTITUTION *ANGLICANORUM COETIBUS***
 
 **Fr. Gianfranco Ghirlanda, S.J.** *Rector of the Pontifical Gregorian University*
@@ -87,5 +83,3 @@ The integration of the Ordinariate into the life of the Catholic Church is assur
 12\. the competent tribunal for judicial cases regarding the faithful of the Ordinariate is that of the Diocese in which one of the parties has domicile, presuming that the Ordinariate has not constituted its own tribunal (Ap. Cons. XII).
 
 It is clear that the Apostolic Constitution *Anglicanorum coetibus* provides norms which establish the nature and, in general, regulate the life of Personal Ordinariates erected specifically for Anglicans who wish to enter into full communion with the Catholic Church. In this way a flexible canonical structure has been instituted. Moreover, it is foreseeable that what is contained in the present Apostolic Constitution and Complementary Norms may be adapted in the Decrees of Erection of each individual Ordinariate in the light of particular local situations. As the Holy Spirit has guided the preparation of this Apostolic Constitution, so may he also assist in its application.
-
-[](#top)

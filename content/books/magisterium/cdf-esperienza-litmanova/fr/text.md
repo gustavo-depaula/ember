@@ -1,15 +1,5 @@
 # « Laisse Jésus te libérer ». Lettre à l'Archevêque de Prešov sur l'expérience spirituelle sur le mont Zvir (Litmanová, Slovaquie)
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI

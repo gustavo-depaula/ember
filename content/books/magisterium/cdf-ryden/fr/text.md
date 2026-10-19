@@ -1,10 +1,6 @@
 # Notification à propos des écrits et des activités de Mme Vassula Ryden, 6 octobre 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGRÉGATION POUR LA DOCTRINE DE LA FOI
+CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 Notification À propos des écrits et des activités  
 de Mme Vassula Ryden\*
@@ -31,5 +27,3 @@ Attendu que, malgré certains aspects positifs, l’effet des activités exercé
  + Tarcisio Bertone, S.D.B. *Archevêque émérite de Vercelli Secrétaire*
 
 \* *AAS* 88 (1996), 956-957.
-
-[](#top)

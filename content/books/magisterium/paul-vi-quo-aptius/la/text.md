@@ -26,9 +26,9 @@ Quapropter, illa praeterea attendentes, quae ad cuiusvis generis Latinas Littera
 Quae cum ita sint, cunctis mature perpensis auditisque peritorum sententiis, haec, quae sequuntur, statuimus:
 
 > **1.** Officium Cancellariae Apostolicae in Romana Curia uti tale esse desinit, et ea quae Arius negotia eidem exsegnenda committebantur circa Litteras Decretales, Constitutιones Apostolicas, Brevia maioris momenti ceteraque attribuuntur Nostrae Secretariae Status seu Papali, ubi sigillum plumbeum atque anulus Piscatoris summa cura erunt custodienda.
->
+
 > **2.** Praedicta negotia, intra Secretariam Status, curabuntur a peculiari officio, de quo in memorata Constitution Apostolica «*[Regimini Ecclesiae universae](/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19670815_regimini-ecclesiae-universae.html)*», n. 22, 1 et 2 agitur (Cf AAS LIX (1967), p. 896) — est autem in unum redactum — et quod Cancellarla Litterarum Apostolicarum appellabitur.
->
+
 > **3.** Quod ad Praepositos, Officiales ministrosque Cancellariae Apostolicae, quae hucusque fuit, attinet, Apostolicae Sedis erit iisdem, pro rei opportunitate, prospicere.
 
 Fidei professio, quam antea in aedibus Cancellariae Praesules recens electi pronuntiabant, in posterum apud Sacram Congregationem pro Episcopis erit iis proferenda.

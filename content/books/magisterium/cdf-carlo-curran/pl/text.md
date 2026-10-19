@@ -1,9 +1,5 @@
 # LIST DO O. CHARLESA CURRANA
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **LIST DO O. CHARLESA CURRANA**
@@ -39,5 +35,3 @@ Z pamięcią w Chrystusie
 **JOSEPH Kard. RATZINGER** * Prefekt*
 
 25 lipca 1986 r.
-
-[](#top)

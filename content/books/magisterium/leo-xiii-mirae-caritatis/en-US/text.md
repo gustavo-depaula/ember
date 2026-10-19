@@ -61,5 +61,3 @@ To examine into the nature and to promote the effects of those manifestations of
 *Given at Rome, at St. Peter's on the 28th day of May, being the Vigil of the Solemnity of Corpus Christi, in the year 1902, of Our Pontificate the five and twentieth.*
 
 **LEO XIII**
-
-*      *

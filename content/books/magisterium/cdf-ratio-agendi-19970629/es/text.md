@@ -1,9 +1,5 @@
 # Ratio agendi- Reglamento para el examen de las doctrinas, 29 junio 1997
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***REGLAMENTO PARA EL EXAMEN DE LAS DOCTRINAS***
@@ -87,8 +83,6 @@ Art. 29.  Si la *Sessione Ordinaria* verifica la existencia de errores doctrina
 *Arzobispo emérito de Vercelli Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Const. Ap. *Pastor bonus*, art. 48: AAS 80 (1988) 873.
 

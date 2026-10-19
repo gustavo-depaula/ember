@@ -1,9 +1,5 @@
 # Célébration du Jubilé d’Or de l’Institut Supérieur de Liturgie de Paris »
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***DISCOURS D'OUVERTURE DU CARDINAL FRANCIS ARINZE AU COLLOQUE ORGANISÉ À L'OCCASION DE LE CÉLÉBRATION DU JUBILÉ D'OR DE « L’INSTITUT SUPÉRIEUR DE LITURGIE » DE « L’INSTITUT CATHOLIQUE DE PARIS »***
 
 ***Au service des Mystères du Christ***
@@ -81,5 +77,3 @@ Un Institut Supérieur de Liturgie doit constituer une aide efficace pour l’Ev
 Cher « Institut Supérieur de Liturgie », je t’adresse tout mes meilleurs vœux à l’occasion de tes cinquante ans ! Par l’intercession de la Très Sainte Vierge Marie, Mère de Notre Seigneur, dont nous célébrons les Mystères dans la Liturgie, puisse cet Institut et tous ceux qui, semblables à lui, sont répandus dans le monde entier, croître en efficacité et dans son amour de l’Eglise, dans l’accomplissement de sa haute vocation et de sa noble mission.
 
 **Francis Card. Arinze**
-
-[](#top)

@@ -1,9 +1,5 @@
 # Il fiuto delle pecore. Un nuovo documento della Commissione Teologica Internazionale:“Il sensus fidei nella vita della Chiesa”, Serge-Thomas Bonino, o.p., 2014
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Il fiuto delle pecore**
 
 ***U******n nuovo documento della Commissione Teologica Internazionale:***
@@ -27,5 +23,3 @@ Questi criteri di discernimento vanno applicati a due realtà importanti. Innanz
 ------------------------------------------------------------------------
 
 *L'Osservatore Romano*, ed. quotidiana, Anno CLIV, n.139, Sab. 21/06/2014
-
-[](#top)

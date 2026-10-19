@@ -1,9 +1,5 @@
 # Le monothéisme chrétien contre la violence. Dieu Trinité, unité des hommes
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 **Dieu Trinité, unité des hommes**
@@ -12,8 +8,6 @@ COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 **Le monothéisme chrétien contre la violence**
 
-*  *
-
 *Table des MATIÈRES*
 
 [PRÉSENTATION](#PRÉSENTATION)
@@ -21,53 +15,53 @@ COMMISSION THÉOLOGIQUE INTERNATIONALE
 [CHAPITRE I. **Soupçons sur le monothéisme**](#Chapitre_I__) \[1-18\]
 
 > 1\. L'expérience religieuse du divin \[1-2\]
->
+
 > 2\. Monothéisme et violence : un lien nécessaire ? \[3-9\]
->
+
 > 3\. Polythéisme tolérant ? Une métaphore discutable \[10-14\]
->
+
 > 4\. La responsabilité assignée à notre foi \[15-18\]
 
 [CHAPITRE II. **L'initiative de Dieu sur le chemin des hommes**](#Chapitre_II__) \[19-42\]
 
 > 1\. L'alliance avec Dieu, un dessein pour toutes les nations \[19-23\]
->
+
 > 2\. Le discernement chrétien sur la révélation de l’Ancien Testament \[24-30\]
->
+
 > 3\. Pratiquer l’amour, garder la justice \[31-35\]
->
+
 > 4\. La foi dans le Fils contre la haine entre les hommes \[36-42\]
 
 [CHAPITRE III. **Dieu, pour nous sauver de la violence**](#Chapitre_III__) \[43-66\]
 
 > 1\. Dieu Père nous sauve par la croix du Fils \[43-47\]
->
+
 > 2\. Dans le Fils, le dépassement de la violence \[48-53\]
->
+
 > 3\. La chair de l’homme destinée à la Gloire de Dieu \[54-59\]
->
+
 > 4\. L’espérance des peuples, la foi de l’Église \[60-66\]
 
 [CHAPITRE IV. **La foi confrontée avec l'ampleur de la raison**](#Chapitre_IV) \[67-84\]
 
 > 1\. Le chemin du dialogue et le système de l’athéisme \[67-68\]
->
+
 > 2\. La confrontation sur la vérité de l’existence de Dieu \[69-72\]
->
+
 > 3\. La critique de la religion et le naturalisme athée \[73-75\]
->
+
 > 4\. L'engagement de la raison : le monde athée, le Logos de Dieu \[76-77\]
->
+
 > 5\. Transcendance divine, et relations dans le Dieu unique et avec Lui \[78-84\]
 
 [CHAPITRE V. **Les fils de Dieu dispersés et réunis**](#Chapitre_V) \[85-100\]
 
 > 1\. La dignité du singulier et le lien de la multitude \[85-87\]
->
+
 > 2\. Dieu soutient la passion pour la justice, il délivre l’espérance de la vie \[88-92\]
->
+
 > 3\. La purification religieuse de la tentation de dominer \[93-96\]
->
+
 > 4\. La force de la paix avec Dieu, mission de l’Église \[97-100\]
 
 **NOTE PRÉLIMINAIRE**
@@ -353,8 +347,6 @@ Le long de cet axe, la centralité du message biblique se laisse aisément défi
 100\. La confession de la foi, en face de l’athéisme militant et de la violence religieuse, est conduite aujourd’hui par l’Esprit-Saint sur la frontière prophétique d’un nouveau cycle religieux et humain des peuples. L’icône ecclésiale doit susciter, de son côté, l’image d’une religion qui a pris un congé définitif – en avance sur l’histoire qui doit suivre – de toute superposition instrumentale de la souveraineté politique et de la Seigneurie de Dieu. Ce congé peut et doit être vécu par toutes les communautés chrétiennes de l’époque présente, comme la venue du temps établi par le Seigneur pour la maturation de la semence évangélique. La parfaite communion avec l’intimité de la vie de Dieu, “toute larme séchée”, sera simplement la demeure de l’homme (Ap 21, 3-4). Le temps de la persécution doit être affronté dans l’attente de la conversion espérée pour tous. A cause de cette patience, de cette résistance, de cette ténacité des “saints” à essuyer les tribulations de l’attente, nous sommes en dette de reconnaissance envers la foule des frères et des soeurs persécutés pour leur appartenance chrétienne. Nous honorons leur témoignage, avec sa réponse décisive à la question posée sur le sens de la mission chrétienne en faveur de tous. L’époque d’une évidence neuve sur le sujet du rapport entre religion et violence entre les hommes est ouverte par leur courage. Nous devrons apprendre à nous le mériter. De la venue de cette époque nouvelle, et des fruits de l’Esprit qui doivent s’ensuivre, la Mère du Seigneur doit être considérée la gardienne irremplaçable. La conscience et l’invocation de sa spéciale intercession devront être un thème signalé de notre conversion et de notre prière ; un point de force, pour la communication et l’assimilation joyeuse de la promesse qui monte à l’horizon, entre les hommes et les femmes de notre temps ; un point de mire, “pour conduire nos pas au chemin de la paix” (Lc 1, 79).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Concile Vatican I (1869-1870), Constitution dogmatique *Dei Filius*, cap. 2 (DENZINGER 3004):“\[…\] Ecclesia tenet et docet, Deum, rerum omnium principium et finem, naturali humanae rationis lumine e rebus creatis certo cognosci posse”.
 

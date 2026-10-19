@@ -1,9 +1,5 @@
 # Instrukció a gyógyító imákról - 2000. szeptember 14. - Hittani Kongregáció
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Hittani Kongregáció**
 
 **Instrukció a gyógyító imákról - 2000. szeptember 14.**
@@ -164,5 +160,3 @@ Jegyzetek:
 [\[32\]](#JB32 "J32") Vö. Rituale Romanum, Ex Decreto Sacrosancti Oecumenici Concilii Vaticani II ionstauratum, Auctoritate Ioannis Pauli PP. II promulgatum. De Exorcizmus et Supplicationibus Quibusdam, Editio typica, Typis Polyglottis Vaticanis, MIM, Praenotanda, 13-19. p.
 
 \[www.katolikus.hu\]
-
-[](#top)

@@ -1,9 +1,5 @@
 # A teológia ma: távlatok, alapelvek és kritériumok, 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Nemzetközi Teológiai Bizottság**
 
 ***A teológia ma: ******távlatok, alapelvek és kritériumok***
@@ -297,8 +293,6 @@ Bevezetés
 100\. Mivel a teológia az Egyháznak és a társadalomnak nyújtott szolgálat, a teológusok által írt jelen szöveg is arra törekszik, hogy szolgálatára legyen a többi teológus társunknak és azoknak is, akikkel katolikus teológusok párbeszédet folytatnak. Tisztelettel írva mindazoknak, akik előbbre viszik a teológiai kutatást, valamint a teológusi hivatás örömének és kiváltságának mélységes érzésével, arra törekszik, hogy megmutassa a katolikus teológiát jellemző perspektívákat és alapelveket, és hogy bemutassa azokat a kritériumokat, melyek fényében ez a teológia fölismerhető. Összefoglalva azt lehet mondani, hogy a katolikus teológia Istennek Krisztusban kinyilatkoztatott Misztériumát tanulmányozza, és azoknak a hit-tapasztalatát vázolja, akik az Egyházzal közösségben vannak s az isten életben részesednek a Szentlélek kegyelméből, aki az Egyházat elvezeti az igazságra (Jn 16,13). Elmélkedik annak a szeretetnek a végtelenségén, amely által az Atya a világnak ajándékozta a Fiát (vö. Jn 3,16) és azon a dicsőségen, kegyelemen és igazságon, amely őbenne lett kinyilatkoztatva a mi üdvösségünkért (vö. Jn 1,14), hangsúlyozza az inkább az Istenbe, mint a teremtett dolgokba vetett remény fontosságát, azt a reményt, melyet törekszik megmagyarázni (vö. 1Pt 3,15). Minden tevékenységében – megfogadva Pál apostol buzdítását a „mindenkori hálaadásra” (Kol 3,15; 1Tesz 5,18), még a csapásokban is (vö. Róm 8,31-39) – alapvetően doxológikus, dicsőítés és hálaadás jellemzi. Mivel Istennek a mi üdvösségünkért végbevitt művét és műveinek összehasonlíthatatlan természetét tanulmányozza, a dicsőség és a dicséret a leginkább hozzá illő módszer, amint Szent Pál nemcsak szavaival, hanem példájával is tanította: „Annak pedig, aki bennünk működő erővel mindent megtehet azon felül is, amit mi kérünk vagy megértünk, legyen dicsőség az Egyházban és Jézus Krisztusban minden nemzedéken át, örökkön-örökké! Ámen” (Ef 3,20-21).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: II. Vatikáni Zsinat, *Gaudium et Spes,* 3.
 

@@ -1,10 +1,6 @@
 # O presbítero, pastor e guia da comunidade paroquial
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  **CONGREGAÇÃO PARA O CLERO**
+**CONGREGAÇÃO PARA O CLERO**
 
 ***O PRESBÍTERO, PASTOR E GUIA DA COMUNIDADE PAROQUIAL***
 
@@ -435,8 +431,6 @@ o meu amor e o aperfeiçoeis.
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: João Paulo II, *Carta aos Sacerdotes por ocasião da Quinta-Feira Santa de 2001* (25 de março de 2001), n. 1.
 

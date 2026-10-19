@@ -12,8 +12,6 @@ IOANNES PAULUS PP. II
 
 #### I DZIEDZICTWO
 
-** **
-
 ***U kresu drugiego tysiąclecia***
 
 1\. ODKUPICIEL CZŁOWIEKA Jezus Chrystus jest ośrodkiem wszechświata i historii. Do Niego zwraca się moja myśl i moje serce w tej doniosłej godzinie dziejów, w której znajduje się Kościół i cała wielka rodzina współczesnej ludzkości. Oto bowiem czas, w którym Bóg w swoich tajemniczych zamiarach powierzył mi po moim umiłowanym Poprzedniku Janie Pawle I posługę powszechną związaną ze Stolicą św. Piotra w Rzymie, ogromnie się już przybliżył do roku dwutysięcznego. Trudno jeszcze w tej chwili powiedzieć, co będzie oznaczał ów rok na zegarze dziejów ludzkości, jaką okaże się datą dla poszczególnych ludów i narodów, krajów i kontynentów, choć zapewne niejedno staramy się już teraz przewidywać. Dla Kościoła, dla Ludu Bożego, który — chociaż nierównomiernie — rozprzestrzenił się już jednak na całą ziemię aż po jej krańce, będzie to rok wielkiego Jubileuszu. Zbliżamy się do daty, która przyjmując wszelkie poprawki wymagane przez ścisłość chronologiczną — przypomni nam i odnowi w sposób szczególny świadomość tej kluczowej prawdy wiary, której dał wyraz św. Jan na początku swej Ewangelii: „Słowo stało się ciałem i zamieszkało wśród nas” (*J* 1, 14), a na innym miejscu: „Tak bowiem Bóg umiłował świat, że Syna swego Jednorodzonego dał, aby każdy, kto w Niego wierzy, nie zginął, ale miał życie wieczne” (*J* 3, 16).  

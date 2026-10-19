@@ -1,9 +1,5 @@
 # Epistula, 23 novembris 1990
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 ***EPISTULA***
@@ -55,5 +51,3 @@ XIV\. Valde denique prodesse poterit, si Praeses Commissionis Doctrinalis mittat
 **IOSEPH Card. RATZINGER** *Praefectus*
 
 **ALBERTUS BOVONE** Archiep. tit. Caesarien. in Numidia *Secretarius*
-
-[](#top)

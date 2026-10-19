@@ -266,8 +266,6 @@ Zdrowa laickość natomiast oznacza uwolnienie wiary od ciężaru polityki i wzb
 
 *W Bejrucie, w Libanie, dnia 14 września 2012 roku, w święto Podwyższenia Krzyża Świętego, w ósmym roku mojego Pontyfikatu.*
 
-* * 
-
 **BENEDICTUS PP XVI**  
 
 ------------------------------------------------------------------------

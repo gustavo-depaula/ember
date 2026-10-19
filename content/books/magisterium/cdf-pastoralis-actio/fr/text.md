@@ -1,13 +1,5 @@
 # Instruction Pastoralis Actio sur le baptême des enfants, 20 octobre 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
@@ -165,8 +157,6 @@ A Rome, au siège de la Congrégation, le 20 octobre 1980.
 **Franjo card. ŠEPER,** *Préfet*
 
 **+ Jérôme HAMER, O.P., Arch. tit. di Lorium** *Secrétaire.*
-
-* *
 
 ------------------------------------------------------------------------
 

@@ -1,15 +1,5 @@
 # La libertà religiosa per il bene di tutti. Approccio teologico alle sfide contemporanee
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSIONE TEOLOGICA INTERNAZIONALE

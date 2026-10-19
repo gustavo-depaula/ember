@@ -77,5 +77,3 @@ Ich fordere daher alle geliebten Söhne und Töchter auf, die gegebenen Normen m
 *Gegeben zu Rom, am 25. Januar 1983, im Apostolischen Palast, im fünften Jahr meines Pontifikats.*
 
 **JOANNES PAULUS PP. II**
-
-* *

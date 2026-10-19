@@ -1,9 +1,5 @@
 # Lettre aux Présidents des Conférences Episcopales, 23 novembre 1990
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION POUR LA DOCTRINE DE LA FOI
 
 **LETTRE AUX PRÉSIDENTS DES CONFÉRENCES ÉPISCOPALES SUR LES COMMISSIONS DOCTRINALES**
@@ -55,5 +51,3 @@ XIV\. Il sera enfin utile que le Président de la Commission Doctrinale envoie �
 
 **ALBERTO BOVONE** Archevêque tit. de Césarée de Numidie  
 *Secrétaire*
-
-[](#top)

@@ -1,6 +1,5 @@
 # Lumen Fidei
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei_sp.pdf)  
 DOWNLOAD PDF
 
 CARTA ENCÍCLICA  
@@ -238,21 +237,21 @@ En María, Hija de Sión, se cumple la larga historia de fe del Antiguo Testamen
 60\. Nos dirigimos en oración a María, madre de la Iglesia y madre de nuestra fe.
 
 > ¡Madre, ayuda nuestra fe!
->
+
 > Abre nuestro oído a la Palabra, para que reconozcamos la voz de Dios y su llamada.
->
+
 > Aviva en nosotros el deseo de seguir sus pasos, saliendo de nuestra tierra y confiando en su promesa.
->
+
 > Ayúdanos a dejarnos tocar por su amor, para que podamos tocarlo en la fe.
->
+
 > Ayúdanos a fiarnos plenamente de él, a creer en su amor, sobre todo en los momentos de tribulación y de cruz, cuando nuestra fe es llamada a crecer y a madurar.
->
+
 > Siembra en nuestra fe la alegría del Resucitado.
->
+
 > Recuérdanos que quien cree no está nunca solo.
->
+
 > Enséñanos a mirar con los ojos de Jesús, para que él sea luz en nuestro camino.
->
+
 > Y que esta luz de la fe crezca continuamente en nosotros, hasta que llegue el día sin ocaso, que es el mismo Cristo, tu Hijo, nuestro Señor.
 
 *Dado en Roma, junto a San Pedro, el 29 de junio, solemnidad de los Santos Apóstoles Pedro y Pablo, del año 2013, primero de mi Pontificado.*

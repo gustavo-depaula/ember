@@ -475,5 +475,3 @@ Mentre auspichiamo, pertanto, che grazie al vostro impegno generoso, Fratelli Ca
 ¹²⁴Cfr Conc. Vat. II, Cost. past. sulla Chiesa nel mondo contemporaneo *Gaudium et spes*, n.22: AAS 58 (1966), pp.1042-1044.
 
 ¹²⁵Cfr *Messale Romano*, 31 maggio, *Colletta*.
-
-* *

@@ -24,13 +24,9 @@ Thật vậy, tôi tin tưởng rằng, nhờ có được một suy tư mới m
 
 Ngoài Đức Maria, Thân mẫu của Ngôi Lời Nhập Thể, rõ ràng Thánh Giuse người Nadarét đã “tham dự” vào mầu nhiệm Nhập thể nhiều hơn ai hết. Cùng với Mẹ, Thánh Giuse đã tham dự vào mầu nhiệm đó, đã dấn thân vào trong thực tại của cùng một biến cố cứu độ; và là người được ký thác chính tình yêu mà Chúa Cha hằng hữu, nhờ sức mạnh của tình yêu ấy, đã “tiền định cho ta làm nghĩa tử nhờ Ðức Giêsu Kitô” (*Ep* 1,5).
 
-** **
-
 **I**
 
 **BỐI CẢNH CỦA TIN MỪNG**
-
-** **
 
 **Hôn nhân với Đức Maria**
 
@@ -144,8 +140,6 @@ Trong hiến tế Thánh Thể, Giáo hội kính nhớ Mẹ Maria trọn đời
 
 Về phần mình, Đức Giêsu “hằng vâng phục các Ngài” (*Lc* 2,51), kính cẩn đền đáp những chăm sóc của “cha mẹ Người.” Nhờ thế, Người muốn thánh hoá những bổn phận của đời sống gia đình và lao động mà Người thi hành bên cạnh Thánh Giuse.
 
-** **
-
 **III**
 
 **NGƯỜI CÔNG CHÍNH - VỊ PHU QUÂN**
@@ -172,8 +166,6 @@ Qua sự tự hiến hoàn toàn, Thánh Giuse biểu lộ tình yêu quảng đ
 
 21. Mối dây đức ái đó đã làm nên nếp sống của Thánh gia, trước tiên nơi cảnh nghèo khó của Bêlem, rồi trong cuộc lưu lạc sang Ai Cập, và sau cùng trong đời sống tại Nadarét. Giáo hội tôn kính Gia đình thánh này một cách sâu xa, và đặt làm gương mẫu cho mọi gia đình. Gia đình Nadarét vừa hội nhập trực tiếp vào mầu nhiệm Nhập thể vừa làm nên một mầu nhiệm đặc biệt của riêng mình. Đồng thời, trong mầu nhiệm này - cũng như trong mầu nhiệm Nhập thể, chúng ta thấy có tình phụ tử đích thực: gia đình của Con Thiên Chúa mang hình thức nhân loại, một gia đình trần thế thực sự, lại được hình thành bởi mầu nhiệm thánh. Trong gia đình này, Thánh Giuse là người cha: tư cách làm cha của Ngài không do việc sinh con; cũng chẳng phải làm cha “bề ngoài” hoặc chỉ “thay thế” mà thôi, nhưng có đầy đủ tính cách đích thực của quyền làm cha theo khía cạnh nhân loại và của vai trò làm cha trong gia đình. Ở đây ta nhận thấy một hệ quả của mầu nhiệm ngôi hiệp: nhân tính được hiệp nhất với Ngôi vị Thiên Chúa của Ngôi Lời, Con Thiên Chúa, Đức Giêsu Kitô. Và cùng với nhân tính ấy, tất cả những gì thuộc về con người, đặc biệt là gia đình, như là khung cảnh đầu tiên của con người nơi trần thế này, cũng được “tiếp nhận” vào trong Đức Kitô. Trong bối cảnh đó, cả quyền làm cha theo khía cạnh con người của Thánh Giuse cũng được “tiếp nhận” trong mầu nhiệm nhập thể của Đức Kitô. Trên cơ sở nguyên tắc này, những lời Mẹ Maria nói với con trẻ Giêsu trong Đền thờ mang một ý nghĩa sâu xa: “Cha con và mẹ… đi tìm con.” Đây không phải là câu nói chiếu lệ: Những lời của Mẹ Đức Giêsu bày tỏ đầy đủ thực tại của việc Nhập thể hiện diện trong mầu nhiệm Gia đình Nadarét. Ngay từ đầu, khi “vâng phục trong đức tin”, Thánh Giuse đã chấp nhận vai trò làm cha trần thế của Đức Giêsu. Và vì thế nhờ sự soi sáng của Chúa Thánh Thần, Đấng ban chính mình Ngài cho con người qua đức tin, chắc chắn Thánh Giuse ngày càng khám phá trọn vẹn hơn món quà khôn tả là vai trò làm cha của mình.
 
-** **
-
 **IV**
 
 **LAO ĐỘNG, MỘT CÁCH DIỄN TẢ TÌNH YÊU**
@@ -183,8 +175,6 @@ Qua sự tự hiến hoàn toàn, Thánh Giuse biểu lộ tình yêu quảng đ
 23. Trong thời gian Chúa Giêsu lớn lên “ngày càng thêm khôn ngoan, thêm cao lớn và thêm ân nghĩa”, có một đức tính rất quan trọng: lương tâm nghề nghiệp, vì “lao động là điều thiện hảo nơi con người”, nó “biến đổi thiên nhiên” và biến con người “theo một nghĩa nào đó, thành người hơn.”\[34\] Tầm quan trọng của lao động trong đời sống con người đòi hỏi chúng ta phải thấu triệt và tiếp thu các yếu tố của nó để “giúp mọi người đến gần hơn với Thiên Chúa, Đấng Tạo hoá và là Đấng Cứu chuộc, để tham dự vào kế hoạch cứu độ con người và thế giới, và để đào sâu hơn tình bạn với Đức Kitô trong cuộc sống của họ, qua việc tham dự bằng đức tin sống động vào ba sứ vụ của Người là: Tư tế, Ngôn sứ và Vương giả.”\[35\]
 
 24. Cuối cùng là việc thánh hoá cuộc sống hằng ngày, một sự thánh hoá mà mỗi người phải đạt được tuỳ theo bậc sống của mình, theo một mẫu gương mà ai cũng có thể bắt chước: “Thánh Giuse là gương mẫu của những người khiêm hạ mà Kitô giáo có thể dẫn đưa tới những vận mệnh cao cả; Ngài là bằng chứng cho thấy rằng để trở thành một môn đệ tốt và chân chính của Đức Kitô, không cần phải làm những “việc vĩ đại”: chỉ cần các nhân đức thông thường, đơn sơ và nhân bản, nhưng phải là những nhân đức thực sự và chân chính.”\[36\]
-
-** **
 
 **V**
 
@@ -199,8 +189,6 @@ Thái độ phục tùng Thiên Chúa như thế là ý muốn mau mắn tận h
 27\. Đời sống hiệp thông giữa Thánh Giuse và Đức Giêsu còn giúp chúng ta nhìn ngắm mầu nhiệm Nhập thể chính xác dưới khía cạnh nhân tính của Đức Kitô, là phương tiện hữu hiệu thiên tính Người dùng để thánh hoá con người: “Nhờ thiên tính, các hành động nhân loại của Đức Kitô có sức cứu độ chúng ta, phát sinh ơn sủng cho chúng ta, hoặc do công phúc hoặc do hiệu năng.”\[39\] Trong các hành động này, các tác giả Tin Mừng nêu bật những gì liên quan tới Mầu nhiệm Vượt qua, nhưng cũng không quên nhấn mạnh đến tầm quan trọng của việc tiếp xúc thể lý với Chúa Giêsu để được chữa lành (ví dụ x. *Lc* 1,41), và ảnh hưởng Chúa Giêsu tác động trên Gioan Tẩy giả khi cả hai người còn trong lòng mẹ (x. *Lc* 1,41-44). Như chúng ta đã thấy, khi làm chứng cho Đức Kitô, các tông đồ đã không bỏ qua câu chuyện Đức Giêsu giáng sinh, việc cắt bì, dâng vào Đền thờ, trốn sang Ai Cập và cuộc sống ẩn dật ở Nadarét. Các ngài nhìn nhận “mầu nhiệm” của ơn sủng hiện diện trong từng “hành động” cứu độ này, vì chúng đều chia sẻ cùng một nguồn tình yêu: thiên tính của Đức Kitô. Nếu qua nhân tính của Đức Kitô, tình yêu này rực sáng trên mọi người, những người được thừa hưởng đầu tiên chắc chắn là những người mà thánh ý Chúa đã muốn liên kết mật thiết nhất với chính tình yêu này: Đức Maria Mẹ Chúa Giêsu, và Thánh Giuse, người được xem là cha của Người.\[40\] Làm sao tình yêu “phụ tử” của Thánh Giuse lại không ảnh hưởng đến tình yêu “con thảo” của Đức Giêsu, và ngược lại, làm sao tình yêu “con thảo” của Đức Giêsu lại không ảnh hưởng đến tình yêu “phụ tử” của Thánh Giuse được? để từ đó có thể thấu hiểu được chiều sâu của mối tương quan hết sức đặc biệt ấy? Những tâm hồn nhạy cảm nhất đối với tác động tình yêu Thiên Chúa sẽ thực sự tìm thấy nơi Thánh Giuse một mẫu gương sáng chói của đời sống nội tâm.
 
 Hơn nữa, sự giằng co rõ ràng giữa đời hoạt động và đời chiêm niệm đã được dung hoà một cách lý tưởng nơi Thánh Giuse, như chỉ có thể xảy ra nơi những người có đức ái hoàn hảo mà thôi. Theo sự phân biệt nổi tiếng của thánh Augustinô giữa lòng yêu mến chân lý *(caritas veritatis)* và những đòi hỏi của tình yêu *(necessitas caritatis)*,\[41\] chúng ta có thể nói rằng Thánh Giuse đã cảm nghiệm được lòng yêu mến chân lý, nghĩa là tình yêu tinh tuyền chiêm ngắm Chân lý thần linh chiếu toả từ nhân tính của Đức Kitô và cũng cảm nghiệm được những đòi hỏi của tình yêu, nghĩa là tình yêu tinh tuyền phục vụ, cần thiết cho ơn gọi bảo vệ và phát triển chính nhân tính Đức Giêsu, vốn gắn kết chặt chẽ với thần tính của Người.
-
-** **
 
 **VI**
 

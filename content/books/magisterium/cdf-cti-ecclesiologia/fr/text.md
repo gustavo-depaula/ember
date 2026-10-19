@@ -1,13 +1,5 @@
 # Thèmes choisis d'ecclésiologie, à l'occasion du XXe anniversaire de la clôture du Concile Vatican II, 1984
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSION THÉOLOGIQUE INTERNATIONALE

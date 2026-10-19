@@ -167,5 +167,3 @@ Ai nostri fratelli e sorelle nella fede auguriamo che il patrimonio del Vangelo 
 Eleviamo per questo con tutto il cuore la nostra preghiera alla Santissima Trinità, Padre, Figlio e Spirito Santo. Amen.
 
 *Dato a Roma, presso San Pietro, il 25 gennaio - nella festa della conversione di san Paolo - dell'anno 1988, decimo di Pontificato.*
-
-* *

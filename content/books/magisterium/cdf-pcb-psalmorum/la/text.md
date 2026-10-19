@@ -1,9 +1,5 @@
 # De auctoribus et de tempore compositionis Psalmorum - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE AUCTORIBUS ET DE TEMPORE COMPOSITIONIS PSALMORUM**
@@ -46,5 +42,3 @@ Resp. Affirmative ad utramque partem.
 
 Fulcranus Vigouroux, P.S.S.  
 Laurentius Sanssens, O.S.B. *Consultores ab Actis.*
-
-[](#top)

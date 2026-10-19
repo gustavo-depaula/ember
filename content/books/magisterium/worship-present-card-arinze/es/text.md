@@ -1,9 +1,5 @@
 # Presentación de la Instrucción Redemptionis Sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA EL CULTO DIVINO  
 Y LA DISCIPLINA DE LOS SACRAMENTOS
 
@@ -68,5 +64,3 @@ La *Instrucción* concluye diciendo que la Congregación para el Culto Divino y 
 **Francis Cardenal Arinze**
 
 23 de abril de 2004
-
-[](#top)

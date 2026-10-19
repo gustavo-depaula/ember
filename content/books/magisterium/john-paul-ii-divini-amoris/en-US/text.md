@@ -6,8 +6,6 @@ APOSTOLIC LETTER OF HIS HOLINESS POPE JOHN PAUL II
 
 **SAINT THÉRÈSE OF THE CHILD JESUS AND THE HOLY FACE IS PROCLAIMED A DOCTOR OF THE UNIVERSAL CHURCH**
 
-** **
-
 1\. THE SCIENCE OF DIVINE LOVE, which the Father of mercies pours out through Jesus Christ in the Holy Spirit, is a gift granted to the little and the humble so that they may know and proclaim the secrets of the kingdom, hidden from the learned and the wise; for this reason Jesus rejoiced in the Holy Spirit, praising the Father who graciously willed it so (cf. *Lk* 10:21-22; *Mt* 11:25-26).
 
 Mother Church also rejoices in noting that throughout history the Lord has continued to reveal himself to the little and the humble, enabling his chosen ones, through the Spirit who "searches everything, even the depths of God" (1 *Cor* 2:10), to speak of the gifts "bestowed on us by God... in words not taught by human wisdom but taught by the Spirit, interpreting spiritual truths in spiritual language" (1 *Cor* 2:12,13). In this way the Holy Spirit guides the Church into the whole truth, endowing her with various gifts, adorning her with his fruits, rejuvenating her with the power of the Gospel and enabling her to discern the signs of the times in order to respond ever more fully to the will of God (cf. *Lumen gentium,* nn. 4, 12; *Gaudium et spes,* n. 4).
@@ -131,5 +129,3 @@ Today, 19 October 1997, in St Peter's Square, filled with faithful from every pa
 This having been duly enacted, We decree that this Apostolic Letter is to be religiously preserved and to have full effect both now and in the future; furthermore, it is thus to be judged and defined as right, and whatever to the contrary may be attempted by anyone, on whatever authority, knowingly or unknowingly, is null and void.
 
 *Given in Rome, at St Peter's, under the Fisherman's ring, the 19th day of the month of October in the year of the Lord 1997, the 20th of the Pontificate.*
-
-*  *

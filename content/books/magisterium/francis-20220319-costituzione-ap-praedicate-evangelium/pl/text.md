@@ -1813,8 +1813,6 @@ Ustalamy, że niniejsza Konstytucja apostolska jest obecnie i będzie w przyszł
 
 *W Rzymie, u Świętego Piotra, dnia 19 marca 2022 roku, w Uroczystość św. Józefa Oblubieńca Najświętszej Maryi Panny, w dziesiątym roku mego Pontyfikatu.*
 
-* *
-
 Franciszek
 
 [^1]: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  

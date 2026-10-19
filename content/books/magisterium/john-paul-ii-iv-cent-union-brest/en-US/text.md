@@ -2,8 +2,6 @@
 
 ***APOSTOLIC LETTER OF THE SUPREME PONTIFF JOHN PAUL II FOR THE FOURTH CENTENARY OF THE UNION OF BREST***
 
-*** ***
-
 *Dear Brothers and Sisters!*
 
 The day is drawing near when the Ukrainian Greek Catholic Church will celebrate the fourth centenary of the union between the Bishops of the Metropolia of Kievan Rus' and the Apostolic See. The union was effected at the meeting of representatives of the Metropolia of Kiev with the Pope on 23 December 1595 and was solemnly proclaimed at Brest-Litovsk on the River Bug on 16 October 1596. Pope Clement VIII, in the Apostolic Constitution *Magnus Dominus et laudabilis nimis*,1 announced the union to the whole Church and in the Apostolic Letter *Benedictus sit Pastor*2 he addressed the Bishops of the Metropolia, informing them that the union had taken place.

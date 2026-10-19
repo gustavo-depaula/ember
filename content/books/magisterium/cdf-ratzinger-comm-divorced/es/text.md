@@ -1,9 +1,5 @@
 # Sobre de la recepción de la Comunión eucarística por parte de los fieles divorciados y vueltos a casar
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **A propósito de algunas objeciones contra la doctrina de la Iglesia sobre de la recepción de la Comunión eucarística por parte de los fieles divorciados y vueltos a casar[^1]**
 
 **Joseph *Card.* Ratzinger**
@@ -75,8 +71,6 @@ Por lo que respecta a la posición del Magisterio acerca del problema de los fie
 ------------------------------------------------------------------------
 
 **NOTAS**
-
-[](#top)
 
 [^1]: Este texto recoge la tercera parte de la Introducción del Cardenal Joseph Ratzinger al número 17 de la Serie "*Documenti e Studi*", dirigida por la Congregación para la Doctrina de la Fe, *Sulla pastorale dei divorziati risposati*, LEV, Città del Vaticano 1998, p. 20-29.Las notas han sido añadidas.
 

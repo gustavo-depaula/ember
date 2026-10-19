@@ -1,9 +1,5 @@
 # Letter of Card. William Levada on the occasion of the presentation of the Circular letter to Episcopal Conferences concerning Guidelines for dealing with cases of sexual abuse of minors perpetrated by clerics
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 *LETTER OF CARDINAL WILLIAM LEVADA ON THE OCCASION OF THE PRESENTATION OF THE CIRCULAR LETTER TO EPISCOPAL CONFERENCES REGARDING GUIDELINES FOR DEALING WITH CASES OF SEXUAL ABUSES OF MINORS PERPETRATED BY CLERICS*
@@ -27,6 +23,4 @@ With prayerful best wishes, I remain
 Sincerely yours in Christ,
 
 **William Card. Levada**  
-*Prefect*  
-
-[](#top)
+*Prefect*

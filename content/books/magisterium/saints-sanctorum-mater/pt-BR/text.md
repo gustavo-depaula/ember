@@ -1,10 +1,6 @@
 # Instrução para a realização dos Inquéritos Diocesanos ou das Eparquias nas Causas dos Santos, 2007
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGREGAÇÃO PARA AS CAUSAS DOS SANTOS
+CONGREGAÇÃO PARA AS CAUSAS DOS SANTOS
 
 ***SANCTORUM MATER***
 
@@ -37,20 +33,20 @@
 
 > Título I. Oficiais do Inquérito em geral   
 > Título II. Oficiais do Inquérito em particular 
->
+
 > > Capítulo I. Delegado Episcopal   
 > > Capítulo II. Promotor de Justiça  
 > > Capítulo III. Notário  
 > > Capítulo IV. Médico pericial 
->
+
 > Título III. Sede das sessões 
 
 **[Parte IV. Recolha das provas documentais](#PARTE_IV_)**
 
 > Título I. Censores teólogos
->
+
 > Título II. Peritos em matéria histórica e arquivística ("*Comissão histórica*") 
->
+
 > > Capítulo I. Peritos  
 > > Capítulo II. Pesquisa e recolha das provas documentais  
 > > Capítulo III. Relatório dos peritos  
@@ -62,26 +58,26 @@
 > Título II. "Para que não se percam as provas" (*"Ne pereant probationes"*)  
 > Título III. Citações para as sessões   
 > Título IV. Primeira Sessão ou Sessão de Abertura do Inquérito
->
+
 > > Capítulo I. Participantes   
 > > Capítulo II. Autos da Primeira Sessão   
 > > Capítulo III. Notário da Primeira Sessão
->
+
 > Título V. Participação do Promotor de Justiça  
 > Título VI. Participação do Médico Pericial  
 > Título VII. Participação do postulador e/ou vice-postulador  
 > Título VIII. As testemunhas e as suas declarações 
->
+
 > > Capítulo I. Quem pode ser testemunha  
 > > Capítulo II. Quem não pode ser testemunha  
 > > Capítulo III. Testemunhos orais  
 > > Capítulo IV. Declarações escritas das testemunhas  
 > > Capítulo V. Testemunhos de médicos que seguiram o presumível miraculado   
 > > Capítulo VI. Médicos Periciais *'ab inspectione'*
->
+
 > Título IX. Uso de instrumentos de registo de voz e do computador  
 > Título X. Procedimento para o Inquérito Rogatorial 
->
+
 > > Capítulo I. Audição das testemunhas  
 > > Capítulo II. Conservação e envio dos autos 
 
@@ -94,12 +90,12 @@
 > Título V. Comparação e confrontação dos autos (*"Collatio et Auscultatio"*)  
 > Título VI. Portador   
 > Título VII. Última Sessão ou Sessão de Clausura do Inquérito
->
+
 > > Capítulo I. Última Sessão em geral   
 > > Capítulo II. Autos da Última Sessão
->
+
 > Título VIII. Actos conclusivos 
->
+
 > > Capítulo I. Inscrição exterior  
 > > Capítulo II. Cartas dos Oficiais do Inquérito  
 > > Capítulo III. Instrumento de Clausura
@@ -308,9 +304,9 @@ Esta Congregação deseja que a *Instrução* seja uma válida ajuda aos Bispos 
 
 > 1\. nas causas, tanto antigas como recentes, uma biografia de um certo valor histórico sobre o Servo de Deus, ou, na sua falta, uma cuidada relação cronológica sobre a vida e sobre as actividades do Servo de Deus, sobre as suas virtudes ou sobre o seu martírio, sobre a fama de santidade ou de martírio e sobre a fama de sinais, sem omitir o que pareça contrário ou menos favorável à própria causa [^52];  
 > 2. todos os escritos editados ou publicados do Servo de Deus em cópia autêntica [^53];
->
+
 > 3\. finalmente, uma lista de possíveis testemunhas, isto é:
->
+
 > > a\. *nas causas recentes*: uma lista das pessoas que podem contribuir para o apuramento da verdade sobre as virtudes ou sobre o martírio do Servo de Deus, bem como sobre a fama de santidade ou de martírio e sobre a fama de sinais, não esquecendo aqueles que poderiam impugnar tal fama [^54];  
 > > b. *nas causas antigas*: uma lista de algumas testemunhas capazes de depor sobre a fama de santidade ou de martírio e de sinais ainda presente entre uma porção significativa do povo de Deus [^55].
 
@@ -1027,8 +1023,6 @@ A presente *Instrução* foi submetida a exame dos Cardeais e Bispos Membros des
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Cfr Concílio Ecuménico Vaticano Segundo, Constituição dogmática [*Lumen Gentium*](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html), nn. 50-51.
 

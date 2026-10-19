@@ -1,13 +1,5 @@
 # DEKLARÁCIA O KÁNONICKEJ DISCIPLÍNE, KTORÁ POD TRESTOM EXKOMUNIKÁCIE ZAKAZUJE HLÁSIŤ SA DO ZOZNAMU SLOBODOMURÁRSKEJ SEKTY A DO INÝCH ZDRUŽENÍ TOHTO DRUHU
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 KONGREGÁCIA PRE NÁUKU VIERY

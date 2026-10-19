@@ -1,9 +1,5 @@
 # Carta circular- Subsidio para las Conferencias Episcopales en la preparación de Líneas Guíapara tratar los casos de abuso sexual de menores por parte del clero
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***CARTA*** ***CIRCULAR***
@@ -94,5 +90,3 @@ Roma, en la sede de la Congregación para la Doctrina de la Fe, 3 de mayo de 201
 
 **+ Luis F. Ladaria, s.j.**  
 *Arzobispo Tit. de Thibica Secretario*
-
-[](#top)

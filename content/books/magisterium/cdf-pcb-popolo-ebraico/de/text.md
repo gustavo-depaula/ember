@@ -1,9 +1,5 @@
 # DAS JÜDISCHE VOLK UND SEINE HEILIGE SCHRIFT IN DER CHRISTLICHEN BIBEL
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PÄPSTLICHE BIBELKOMMISSION
 
 ***DAS JÜDISCHE VOLK UND SEINE HEILIGE SCHRIFT IN DER CHRISTLICHEN BIBEL***
@@ -17,57 +13,57 @@ PÄPSTLICHE BIBELKOMMISSION
 - **[I. Die Heilige Schrift des jüdischen Volkes als grundlegender bestandteil der Christlichen Bibel](#I.)**
 
 > **[A. *Das Neue Testament erkennt die Autorität der Heiligen Schrift des jüdischen Volkes an*](#A.%20Das%20Neue%20Testament%20erkennt%20die%20Autorität%20der%20Heiligen%20Schrift%20des%20jüdischen%20Volkes%20an)**
->
+
 > > **[1. Implizite Anerkennung der Autorität](#1.%20Implizite%20Anerkennung%20der%20Autorität) [2. Ausdrücklicher Rückgriff auf die Autorität der Schrift des jüdischen Volkes](#2.%20Ausdrücklicher%20Rückgriff%20auf%20die%20Autorität%20der%20Schrift%20des%20jüdischen%20Volkes)**
->
+
 > **[B. *Das Neue Testament erklärt seine Übereinstimmung mit der Schrift des jüdischen Volkes*](#B.%20Das%20Neue%20Testament%20erklärt%20seine%20Übereinstimmung%20mit%20der%20Schrift%20des%20jüdischen%20Volkes)**
->
+
 > > **[1. Notwendigkeit der Erfüllung der Schrift](#1.%20Notwendigkeit%20der%20Erfüllung%20der%20Schrift) [2. Entsprechung zur Schrift](#2.%20Entsprechung%20zur%20Schrift)  [3. Übereinstimmung und Unterschied](#3.%20Übereinstimmung%20und%20Unterschied) **
->
+
 > **[C. *Schrift und mündliche Überlieferung im Judentum und Christentum*](#C.%20Schrift%20und%20mündliche%20Überlieferung%20im%20Judentum%20und%20Christentum)* ***
->
+
 > > **[1. Schrift und Überlieferung im Alten Testament und im Judentum](#1.%20Schrift%20und%20Überlieferung%20im%20Alten%20Testament%20und%20im%20Judentum) [2. Schrift und Überlieferung im Urchristentum](#2.%20Schrift%20und%20Überlieferung%20im%20Urchristentum) [3. Beziehung zwischen den beiden Perspektiven](#3.%20Beziehung%20zwischen%20den%20beiden%20Perspektiven)**
->
+
 > **[D. *Im Neuen Testament angewandte jüdische Methoden der Exegese*](#D.%20Im%20Neuen%20Testament%20angewandte%20jüdische%20Methoden%20der%20Exegese)**
->
+
 > > **[1. Jüdische Methoden der Exegese](#1.%20Jüdische%20Methoden%20der%20Exegese) [2. Exegese in Qumran und im Neuen Testament](#2.%20Exegese%20in%20Qumran%20und%20im%20Neuen%20Testament) [3. Rabbinische Methoden im Neuen Testament](#3.%20Rabbinische%20Methoden%20im%20Neuen%20Testament)  [4. Bedeutendere Anspielungen auf das Alte Testament](#4.%20Bedeutendere%20Anspielungen%20auf%20das%20Alte%20Testament)**
->
+
 > **[E. *Der Umfang des Kanons der Schrift*](#E.%20Der%20Umfang%20des%20Kanons%20der%20Schrift)**
->
+
 > > **[1. Im Judentum](#1.%20Im%20Judentum) [2. Im Urchristentum](#2.%20Im%20Urchristentum) [3. Die Bildung des christlichen Kanons](#3.%20Die%20Bildung%20des%20christlichen%20Kanons)**
 
 - **[II. Grundthemen der Schrift des Jüdischen Volkes und ihre aufnahme im glauben an Christus](#II.)**
 
 > **[A. *Christliches Verständnis der Beziehungen zwischen Altem und Neuem Testament*](#A.%20Christliches%20Verständnis%20der%20Beziehungen%20zwischen%20Altem%20und%20Neuem%20Testament)**
->
+
 > > **[1. Behauptung einer Wechselbeziehung](#1.%20Behauptung%20einer%20Wechselbeziehung) [2. Wiederlesen des Alten Testaments im Lichte Christi](#2.%20Wiederlesen%20des%20Alten%20Testaments%20im%20Lichte%20Christi) [3. Allegorisches Wiederlesen](#3.%20Allegorisches%20Wiederlesen) [4. Rückkehr zum Literalsinn](#4.%20Rückkehr%20zum%20Literalsinn) [5. Die Einheit des göttlichen Heilsratschlusses und der Gedanke der Erfüllung](#5.%20Die%20Einheit%20des%20göttlichen%20Heilsratschlusses%20und%20der%20Gedanke%20der%20Erfüllung) [6. Aktuelle Perspektiven](#6.%20Aktuelle%20Perspektiven) [7. Der Beitrag der jüdischen Schriftlesung](#7.%20Der%20Beitrag%20der%20jüdischen%20Schriftlesung)**
->
+
 > **[B. *Gemeinsame Grundthemen*](#B.%20Gemeinsame%20Grundthemen)**
->
+
 > > **[1. Offenbarung Gottes](#1.%20Offenbarung%20Gottes) [2. Der Mensch: Größe und Elend](#2.%20Der%20Mensch:%20Größe%20und%20Elend) [3. Gott als Befreier und Retter](#3.%20Gott%20als%20Befreier%20und%20Retter) [4. Die Erwählung Israels](#4.%20Die%20Erwählung%20Israels) [5. Der Bund](#5.%20Der%20Bund) [6. Das Gesetz](#6.%20Das%20Gesetz) [7. Das Gebet und der Gottesdienst, Jerusalem und der Tempel](#7.%20Das%20Gebet%20und%20der%20Gottesdienst,%20Jerusalem%20und%20der%20Tempel) [8. Göttliche Vorwürfe und Urteilssprüche](#8.%20Göttliche%20Vorwürfe%20und%20Urteilssprüche) [9. Die Verheißungen](#9.%20Die%20Verheißungen)**
->
+
 > **[C. *Ergebnis*](#C.%20Ergebnis)**
->
+
 > > **[1. Kontinuität](#1.%20Kontinuität) [2. Diskontinuität](#2.%20Diskontinuität) [3. Progression](#3.%20Progression)**
 
 - **[III. Die juden im Neuen Testament](#III.)**
 
 > **[A. *Unterschiedliche Ausprägungen des nachexilischen Judentums*](#A.%20Unterschiedliche%20Ausprägungen%20des%20nachexilischen%20Judentums)**
->
+
 > > **[1. Die letzten Jahrhunderte vor Christus](#1.%20Die%20letzten%20Jahrhunderte%20vor%20Christus) [2. Das erste Drittel des 1. Jahrhunderts n. Chr. in Palästina](#2.%20Das%20erste%20Drittel%20des%201.%20Jahrhunderts%20n.%20Chr.%20in%20Palästina) [3. Das zweite Drittel des 1. Jahrhunderts n. Chr](#3.%20Das%20zweite%20Drittel%20des%201.%20Jahrhunderts%20n.%20Chr.) [4. Das letzte Drittel des 1. Jahrhunderts](#4.%20Das%20letzte%20Drittel%20des%201.%20Jahrhunderts)**
->
+
 > **[B. *Die Juden in den Evangelien und in der Apostelgeschichte*](#B.%20Die%20Juden%20in%20den%20Evangelien%20und%20in%20der%20Apostelgeschichte)**
->
+
 > > **[1. Das Matthäusevangelium](#1.%20Das%20Matthäusevangelium) [2. Das Markusevangelium](#2.%20Das%20Markusevangelium) [3. Das Lukasevangelium und die Apostelgeschichte](#3.%20Das%20Lukasevangelium%20und%20die%20Apostelgeschichte) [4. Das Johannesevangelium](#4.%20Das%20Johannesevangelium) [5. Ergebnis](#5.%20Ergebnis)**
->
+
 > **[C. *Die Juden in den Paulusbriefen und in anderen Schriften des Neuen Testaments*](#C.%20Die%20Juden%20in%20den%20Paulusbriefen%20und%20in%20anderen%20Schriften%20des%20Neuen%20Testaments)**
->
+
 > > **[1. Die Juden in den unbestritten echten Paulusbriefen](#1.%20Die%20Juden%20in%20den%20unbestritten%20echten%20Paulusbriefen) [2. Die Juden in den anderen Briefen](#2.%20Die%20Juden%20in%20den%20anderen%20Briefen) [3. Die Juden in der Offenbarung des Johannes](#3.%20Die%20Juden%20in%20der%20Offenbarung%20des%20Johannes)**
 
 - **[IV. Schlussfolgerungen](#IV.)**
 
 > **[A. *Allgemeine Schlussfolgerung*](#A.%20Allgemeine%20Schlussfolgerung)**
->
+
 > **[B. *Pastorale Anregungen*](#B.%20Pastorale%20Anregungen)**
 
 **VORWORT**
@@ -1910,5 +1906,3 @@ Tel. (06) 698.85003 - Fax (06) 698.84716
 ISBN 88-209-7919-0
 
 www.libreriaeditricevaticana.com
-
-[](#top)

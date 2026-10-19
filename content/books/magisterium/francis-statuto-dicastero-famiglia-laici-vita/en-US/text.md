@@ -93,5 +93,3 @@ The present Statutes are approved *ad experimentum*. I hereby decree that they b
 *Given in Rome, 4 June, 2016*
 
 **FRANCIS**
-
-**    **

@@ -1,9 +1,5 @@
 # Centenário da morte do cardeal Newman
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***DISCURSO DO CARDEAL JOSEPH RATZINGER NO CENTENÁRIO DA MORTE DO CARDEAL JOHN HENRY NEWMAN***
@@ -27,5 +23,3 @@ Parece-me que o contributo de Newman ainda não foi completamente utilizado nas 
 Vem-me à mente a figura de Santo Agostinho, tão semelhante à figura de Newman. Quando se converteu no jardim perto de Cassiciaco, Agostinho tinha compreendido a conversão ainda segundo o esquema do venerado mestre Plotino e dos filósofos neoplatónicos. Pensava que a vida de pecado passada estava agora definitivamente superada; o convertido seria daquele momento em diante uma pessoa completamente nova e diferente, e o seu caminho seguinte teria consistido numa contínua subida para as alturas mais puras da proximidade de Deus, algo como o que descreveu Gregório de Nissa em *De vita Moysis:* "Precisamente como os corpos, logo que receberam o primeiro impulso para baixo, mesmo sem ulteriores estímulos, afundam-se por si mesmos... também mas em sentido contrário, a alma que se liberta das paixões terrenas, se eleva constantemente ao de cima de si com um movimento veloz de ascensão... num voo sempre em direcção ao alto". Mas a experiência real de Agostinho era outra: ele teve que aprender que ser cristãos significa, ao contrário, percorrer um caminho sempre mais cansativo com todos os seus altos e baixos. A imagem da ascensão é substituída com a de um *iter,* um caminho, de cujas fadigosas asperezas nos confortam e amparam os momentos de luz, que de vez em quando podemos receber. A conversão é um caminho, uma via que dura a vida inteira. Por isso, a fé é sempre *desenvolvimento,* e precisamente assim maturação da alma para a Verdade, que "nos é mais íntima de quanto nós o somos para nós mesmos".
 
 Newman expôs na ideia do desenvolvimento a própria experiência pessoal de uma conversão jamais concluída, e assim ofereceu-nos a interpretação não só do caminho da doutrina cristã, mas também da vida cristã. O sinal característico do grande doutor da Igreja parece-me que seja aquele que ele não ensina só com o seu pensamento e com os seus discursos, mas também com a sua vida, porque nele pensamento e vida compenetram-se e determinam-se reciprocamente. Se isto é verdade, então Newman pertence deveras aos grandes doutores da Igreja, porque ele toca ao mesmo tempo o nosso coração e ilumina o nosso pensamento.
-
-[](#top)

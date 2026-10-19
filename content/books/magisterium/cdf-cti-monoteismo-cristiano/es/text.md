@@ -1,9 +1,5 @@
 # Dios Trinidad, unidad de los hombres. El monoteísmo cristiano contra la violencia
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 **Dios Trinidad, unidad de los hombres.**
@@ -81,5 +77,3 @@ En el Capítulo IV, nuestra reflexión se ocupa de iluminar las aproximaciones y
 En el Capítulo V, finalmente, asumimos de nuevo los elementos de lo específicamente cristiano que definen el compromiso del testimonio eclesial para la reconciliación de los hombres con Dios y entre sí. La revelación cristiana purifica la religión, desde el mismo momento en el que le devuelve su significado fundamental para la experiencia humana del sentido. Por ello, en nuestra invitación a la reflexión, tenemos muy presente la especial necesidad – sobre todo en el horizonte cultural actual – de tratar siempre de modo conjunto el contenido teológico y el desarrollo histórico de la revelación cristiana sobre Dios.
 
 [\[\*\]](#_ftnref*) El texto completo en español será publicado por la Biblioteca de Autores Cristianos - BAC (Madrid) próximamente.
-
-[](#top)

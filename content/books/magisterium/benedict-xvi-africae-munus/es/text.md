@@ -26,12 +26,12 @@ Vosotros sois la luz del mundo»
 
 > [A. «Dejaos reconciliar con Dios»](#%C2%ABDejaos_reconciliar_con_Dios%C2%BB) (*2 Co* 5,20b) \[19-21\]  
 > [B. Ser justos y construir un orden social justo](#Ser_justos_y_construir_un_orden_social_justo) \[22-23\]
->
+
 > > *1. Vivir de la justicia de Cristo* \[24-25\]  
 > > *2. Un orden justo en la lógica de las Bienaventuranzas* \[26-27\]
->
+
 > [C. El amor en la verdad: fuente de paz](#El_amor_en_la_verdad:_fuente_de_paz) \[28\]
->
+
 > > *1. Servicio fraterno concret*o \[29\]  
 > > *2. La Iglesia como centinela* \[30\]
 
@@ -66,10 +66,10 @@ Vosotros sois la luz del mundo»
 
 > A. Diálogo ecuménico y desafío de los nuevos movimientos religiosos \[89-91\]  
 > B. Diálogo interreligioso \[92-94\]
->
+
 > > *1. Las religiones tradicionales africanas* \[92-93\]  
 > > *2. El Islam* \[94\]
->
+
 > C. Convertirse en «sal de la tierra» y «luz del mundo» \[95-96\]
 
 **[SEGUNDA PARTE](#SEGUNDA_PARTE)**

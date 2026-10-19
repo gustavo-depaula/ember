@@ -1,9 +1,5 @@
 # Decretum de doctrina et usibus particularibus consociationis cui nomen «Opus Angelorum», d. 6 m. Iunii a. 1992, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **DECRETUM DE DOCTRINA ET USIBUS PARTICULARIBUS CONSOCIATIONIS CUI NOMEN « OPUS ANGELORUM »** \*
@@ -49,7 +45,5 @@ V. Delegatus specialibus munitus facultatibus, a Sancta Sede nominatus, comproba
 ------------------------------------------------------------------------
 
 \* *AAS* 84 (1992), 805-806.
-
-[](#top)
 
 [^1]: ^(\[\]) Cfr. Benedictus XIV, *Doctrina de Beatificatione Servorum Dei et de Canonizatione Beatorum*, lib. IV, Pars II, cap. XXX, *De Angeli set eorum cultu*, Venetiis 1777.

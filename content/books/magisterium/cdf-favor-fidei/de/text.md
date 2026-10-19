@@ -1,9 +1,5 @@
 # Normen für die Durchführung des Verfahrens zur Auflösung des Ehebandes zugunsten des Glaubens, 30. April 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 *** ******Normen für die Durchführung des Verfahrens zur Auflösung des Ehebandes zugunsten des Glaubens (in favorem fidei)***
@@ -87,12 +83,6 @@ Durch den Erlass dieser neuen Normen werden frühere Normen über die Durchführ
 **+ Josef Kard. Ratzinger, ** *Präfekt*
 
 **+ Tarsicio Bertone, S.D.B., e**m. Erzbischof von Vercelli, *Sekretär*
-
-* *
-
-* *
-
-* *
 
 **PARS I**
 
@@ -519,5 +509,3 @@ Man soll auch dafür sorgen, dass die Akten des Falls, die in der Landessprache 
 \* Typis Vaticanis, 2001.
 
 \* Vatikan, 2001.
-
-[](#top)

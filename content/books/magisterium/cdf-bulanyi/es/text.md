@@ -1,9 +1,5 @@
 # Carta a Gyórgy Bulányi sobre algunos escritos que se le atribuyen, 1 septiembre 1986
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **CARTA A GYÓRGY BULÁNYI SOBRE ALGUNOS ESCRITOS QUE SE LE ATRIBUYEN**
@@ -81,5 +77,3 @@ Con sentimientos de religiosa veneración,
 
 **ALBERTO BOVONE**  
 *Arzobispo titular de Cesarea de Numidia Secretario*
-
-[](#top)

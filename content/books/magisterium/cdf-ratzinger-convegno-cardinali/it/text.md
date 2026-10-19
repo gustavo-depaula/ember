@@ -1,9 +1,5 @@
 # Convegno sugli aspetti dottrinali e pastorali del Pontificato di Giovanni Paolo II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 XXV ANNIVERSARIO DI PONTIFICATO DI GIOVANNI PAOLO II
 
 **CONVEGNO PROMOSSO DAL COLLEGIO CARDINALIZIO **
@@ -21,5 +17,3 @@ La prima forma del nostro ringraziamento è la preghiera, il grazie reso a Dio n
 Non mi resta che ringraziare i venerati confratelli del collegio cardinalizio che ci parleranno, in sei conferenze, di temi fondamentali di questo pontificato, nonché tutti voi che siete venuti, spesso da lontano, per partecipare a questo nostro comune ringraziamento e a questa nostra comune riflessione.
 
 Voglia il Signore benedire queste giornate!
-
-[](#top)

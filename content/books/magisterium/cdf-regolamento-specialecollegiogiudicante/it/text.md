@@ -1,15 +1,5 @@
 # Regolamento dello Speciale Collegio Giudicante istituito per l’esame dei ricorsi alla Sessione Ordinaria della Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Regolamento dello Speciale Collegio Giudicante istituito per l’esame dei ricorsi alla Sessione Ordinaria della Congregazione per la Dottrina della Fede**

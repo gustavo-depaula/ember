@@ -75,5 +75,3 @@ Glory be to the Holy Trinity, whose radiant splendour shines uniquely in their l
 *Given in Rome, at Saint Peter's, on the first day of October in the year 1999, the twenty-first of my Pontificate.*
 
 **JOHN PAUL II**
-
-* *

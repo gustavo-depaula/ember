@@ -90,5 +90,3 @@ d\) Em nenhum lugar da Bíblia está escrito que Maria, a Mãe de Jesus, teve ou
 
 - *Fonte: Site **“The Catholic Treasure Chest”** – http://home.inreach.com/bstanley/*
 - *Tradução: **Carlos Martins Nabeto***
-
-* *

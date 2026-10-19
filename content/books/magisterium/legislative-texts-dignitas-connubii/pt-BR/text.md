@@ -1,9 +1,5 @@
 # A Dignidade do Matrimônio
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PONTIFÍCIO CONSELHO PARA OS TEXTOS LEGISLATIVOS**
 
 ***DIGNITAS CONNUBII***
@@ -69,13 +65,13 @@ Por conseguinte, ao tratar as causas de nulidade de matrimônio perante os tribu
 **Art. 4** – § 1. Sempre que o juiz eclesiástico se deva pronunciar sobre a nulidade do matrimônio de acatólicos batizados:
 
 > 1º quanto ao direito ao qual as partes estavam sujeitas na época da celebração do matrimônio, observe-se o art. 2, § 2;
->
+
 > 2º quanto à forma de celebração do matrimônio, a Igreja reconhece qualquer forma juridicamente prescrita ou aceita pela Igreja ou Comunidade eclesial à qual pertenciam as partes na época da celebração desde que, se uma parte ao menos é fiel de alguma Igreja oriental acatólica, o matrimônio tenha sido celebrado com rito sagrado.
 
 § 2. Sempre que o juiz eclesiástico deve examinar a nulidade de um matrimônio contraído por dois não batizados:
 
 > 1º a causa de nulidade deve ser conhecida segundo o direito processual canônico;
->
+
 > 2º a nulidade do matrimônio, porém, deve ser definida, sem prejuízo do direito divino, nos termos do direito ao qual as partes estavam sujeitas na ocasião da celebração do matrimônio.
 
 **Art. 5** – § 1. As causas de nulidade do matrimônio podem ser definidas somente por sentença do tribunal competente.
@@ -99,7 +95,7 @@ Por conseguinte, ao tratar as causas de nulidade de matrimônio perante os tribu
 **Art. 9** – § 1. A incompetência do juiz é igualmente absoluta:
 
 > 1º se a causa se encontra legitimamente pendente em outro tribunal (cf. cân. 1512, n. 2);
->
+
 > 2º se não se observa a competência em razão do grau ou em razão da matéria (cf. cân. 1440).
 
 § 2. Portanto, a incompetência do juiz é absoluta em razão do grau se a mesma causa, depois de pronunciada a sentença definitiva, for de novo tratada na mesma instância, a não ser que a sentença tenha sido declarada nula; ou em razão da matéria, se a causa de nulidade do matrimônio for tratada por um tribunal que pode julgar somente causas de outro gênero.
@@ -109,11 +105,11 @@ Por conseguinte, ao tratar as causas de nulidade de matrimônio perante os tribu
 **Art. 10** – § 1. Para as causas de nulidade do matrimônio que não estejam reservadas à Sé Apostólica, nem por ela avocadas, são competentes em primeiro grau de jurisdição:
 
 > 1º o tribunal do lugar onde se celebrou o matrimônio;
->
+
 > 2º o tribunal do lugar em que a parte demandada tem domicílio ou quase-domicílio;
->
+
 > 3º o tribunal do lugar em que a parte demandante tem domicílio, contanto que ambas as partes morem no território da mesma Conferência dos Bispos e o vigário judicial do domicílio da parte demandada o consinta, depois de ouvi-la;
->
+
 > 4º o tribunal do lugar, em que de fato deve ser recolhida a maior parte das provas, contanto que haja o consentimento do vigário judicial do domicílio da parte demandada, o qual antes lhe perguntará a ela se por acaso tem algo a opor (cf. cân. 1673).
 
 § 2. A incompetência do juiz, que não se baseie nalgum destes títulos, diz-se relativa, sem prejuízo em todo caso das normas sobre a incompetência absoluta (cf. cân. 1407, § 2).
@@ -149,7 +145,7 @@ Por conseguinte, ao tratar as causas de nulidade de matrimônio perante os tribu
 **Art. 16** – § 1. Um tribunal da Igreja latina, sem prejuízo dos arts. 8-15, pode examinar a causa de nulidade do matrimônio de católicos de uma outra Igreja *sui iuris*:
 
 > 1º *ipso iure*, no território onde, além do ordinário do lugar da Igreja latina, não existe outro hierarca de lugar de qualquer outra Igreja *sui iuris*, ou onde a cura pastoral dos fiéis da Igreja *sui iuris* de que se trata esteja confiada ao ordinário do lugar da Igreja latina por designação da Sé Apostólica ou, pelo menos, com o seu consentimento (cf. cân. 916, § 5 CCEO);
->
+
 > 2º nos demais casos, por prorrogação de competência, concedida pela Assinatura Apostólica, quer de modo estável quer *ad casum*.
 
 § 2. O tribunal da Igreja latina deve proceder, em tais casos, segundo a própria lei processual, mas a nulidade do matrimônio deve ser definida segundo as leis da Igreja *sui iuris* à qual pertencem as partes.
@@ -187,11 +183,11 @@ Art. 21 – Se for proposta uma exceção contra a competência do tribunal, dev
 **Art. 25** – Quanto aos tribunais de segunda instância, sem prejuízo do art. 27 e com exceção de indultos concedidos pela Assinatura Apostólica:
 
 > 1º do tribunal do bispo sufragâneo apela-se para o tribunal do metropolita, salvo o prescrito nos nn. 3-4 (cf. cân. 1438, n. 1);
->
+
 > 2º nas causas tratadas diante do Metropolita em primeira instância, apela-se para o tribunal que ele tiver designado estavelmente, com a aprovação da Sé Apostólica (cân. 1438, n. 2);
->
+
 > 3º se se tiver constituído um único tribunal de primeira instância para várias dioceses, em conformidade com o art. 23, a Conferência Episcopal, com a aprovação da Sé Apostólica, deve constituir um tribunal de segunda instância, a não ser que todas as dioceses sejam sufragâneas da mesma arquidiocese (cf. cân. 1439, § 1);
->
+
 > 4º a Conferência Episcopal, com a aprovação da Sé Apostólica, pode constituir um ou mais tribunais de segunda instância, mesmo fora dos casos previstos no n. 3 (cf. cân. 1439, § 2).
 
 **Art. 26** – O conjunto de bispos, em relação ao tribunal previsto no art. 23, e a Conferência Episcopal, em relação aos tribunais previstos no art. 25, nn. 3-4, ou o bispo por eles designado, têm todos os poderes que competem ao bispo diocesano sobre o seu tribunal (cf. câns. 1423, § 1; 1439, § 3).
@@ -227,7 +223,7 @@ Art. 21 – Se for proposta uma exceção contra a competência do tribunal, dev
 **Art. 33** – Consideradas a gravidade e a dificuldade das causas de nulidade do matrimônio, os bispos devem cuidar:
 
 > 1º que sejam formados ministros idôneos da justiça para seus tribunais;
->
+
 > 2º que aqueles que foram eleitos para exercer tal ministério se dediquem a este múnus com diligência e segundo as normas do direito.
 
 **Art. 34** – § 1. Os ministros do tribunal diocesano são nomeados pelo bispo diocesano, enquanto os dos tribunais interdiocesanos, a não ser que se tenha expressamente determinado outra coisa, são nomeados pelo grupo de bispos ou, quando for o caso, pela Conferência Episcopal.
@@ -283,29 +279,29 @@ Art. 37 – Não se pode constituir algum outro ministro do tribunal distinto do
 **Art. 45** – Compete ao tribunal colegial:
 
 > 1º decidir a causa principal (cf. art. 30, §§ 1, 3);
->
+
 > 2º pronunciar-se sobre a exceção de incompetência (cf. art. 78);
->
+
 > 3º pronunciar-se sobre o recurso interposto perante ele contra a rejeição do libelo (cf. art. 124, § 1);
->
+
 > 4º pronunciar-se sobre o recurso contra o decreto do presidente ou ponente, que determina a fórmula da dúvida ou das dúvidas (cf. art. 135, § 4);
->
+
 > 5º decidir questão com a máxima rapidez, se uma parte insistir para que se admita uma prova rejeitada (cf. art. 158, § 1);
->
+
 > 6º decidir as questões incidentais, em conformidade com os arts. 217-228;
->
+
 > 7º determinar, por uma razão grave, um prazo superior a um mês, para a publicação da sentença (cf. art. 249, § 5);
->
+
 > 8º impor, se for o caso, a proibição (*vetitum*) de contrair novo matrimônio (cf. arts. 250, n. 3; 251);
->
+
 > 9º estabelecer as custas judiciais e pronunciar-se sobre o recurso contra a decisão acerca das custas e dos honorários (cf. arts. 250, n. 4; 304, § 2):
->
+
 > 10º corrigir um erro material no texto da sentença (cf. art. 260);
->
+
 > 11º em grau de apelação, conforme a norma do art. 265, confirmar imediatamente, por decreto, a sentença favorável à nulidade do matrimônio emitida em primeiro grau, ou admitir a causa ao exame ordinário do novo grau;
->
+
 > 12º pronunciar-se sobre a nulidade da sentença (cf. arts. 269; 274, § 1; 275; 276, § 2; 277, § 2);
->
+
 > 13º realizar outros atos processuais que o colégio tiver reservado a si ou que lhe tiverem sido deferidos.
 
 **Art. 46** – § 1. O tribunal colegial deve ser presidido pelo vigário judicial ou pelo vigário judicial adjunto; ou, se tal não for possível, por um clérigo do colégio designado por um deles (cf. cân. 1426, § 2).
@@ -313,49 +309,49 @@ Art. 37 – Não se pode constituir algum outro ministro do tribunal distinto do
 § 2. Compete ao presidente do colégio:
 
 > 1º designar o relator ou, por uma justa causa, substituí- lo por outro (cf. art. 47);
->
+
 > 2º designar o auditor ou, por uma justa causa, delegar *ad actum* uma pessoa idônea para interrogar a parte ou a testemunha (cf. arts. 50, § 1; 51);
->
+
 > 3º pronunciar-se acerca da exceção feita contra o defensor do vínculo, o promotor da justiça ou contra outro ministro do tribunal (cf. art. 68, § 4);
->
+
 > 4º exercer vigilância sobre os que assistem ao juízo, de acordo com a norma dos cânn. 1457, § 2; 1470, § 2; 1488- 1489 (cf. arts. 75, § 1; 87; 111, § 1; 307, § 3);
->
+
 > 5º admitir ou designar o curador (cf. arts. 99, § 1; 144, § 2);
->
+
 > 6º prover quanto à atuação do procurador ou advogado, de acordo com os arts. 101, §§ 1, 3; 102; 105, § 3; 106, § 2; 109; 144, § 2;
->
+
 > 7º admitir ou rejeitar o libelo e convocar em juízo a parte demandada, nos termos dos arts. 119-120; 126;
->
+
 > 8º cuidar que o decreto de citação em juízo seja prontamente notificado; ou, se for o caso, convocar com novo decreto as partes e o defensor do vínculo (cf. arts. 126, § 1; 127, § 1);
->
+
 > 9º ordenar que o libelo não seja comunicado à parte demandada, antes de ela depor em juízo (cf. art. 127, § 3);
->
+
 > 10º propor e estabelecer a fórmula da dúvida ou dúvidas (cf. arts. 127, § 2; 135, §1);
->
+
 > 11º dispor e dar andamento à instrução da causa (cf. arts. 137; 155ss; 239);
->
+
 > 12º declarar a parte demandada ausente do juízo e procurar que cesse da sua ausência (cf. arts. 138; 142);
->
+
 > 13º proceder segundo o art. 140, se o ator não atender à citação (cf. art. 142);
->
+
 > 14º declarar a perempção da instância ou admitir a renúncia (cf. arts. 146-147; 150, § 2);
->
+
 > 15º nomear os peritos e, se for o caso, aceitar os laudos já elaborados por outros peritos (cf. art. 204);
->
+
 > 16º rejeitar *in limine*, nos termos do art. 220, a petição para que se institua uma causa incidental, ou revogar um decreto seu que tenha sido impugnado (cf. art. 221, § 2);
->
+
 > 17º por mandado do colégio, decidir uma questão incidental mediante decreto, segundo a norma do art. 225;
->
+
 > 18º decretar a publicação dos autos e a conclusão da causa e presidir à sua discussão (cf. arts. 229-245);
->
+
 > 19º convocar a sessão do colégio para definir a causa e presidir à discussão do colégio (cf. art. 248);
->
+
 > 20º prover, conforme a norma do art. 255, se um juiz não puder assinar a sentença;
->
+
 > 21º no processo referido no art. 265, transmitir mediante decreto os autos ao defensor do vínculo para que ele dê o seu voto e avisar as partes para que, se assim o desejarem, proponham as suas observações;
->
+
 > 22º conceder o patrocínio gratuito (cf. arts. 306-307);
->
+
 > 23º realizar outros atos processuais que não estejam reservados ao colégio *ipso iure* ou por ato do mesmo colégio.
 
 **Art. 47** – § 1. O ponente ou relator, designado pelo presidente do colégio dos juízes, na reunião dos juízes, relate a causa, lavre a decisão sob a forma de resposta à dúvida proposta, e redija por escrito a sentença e os decretos nas causas incidentais (cf. cân. 1429; arts. 248, §§ 4, 6; 249, § 1).
@@ -421,7 +417,7 @@ Art. 37 – Não se pode constituir algum outro ministro do tribunal distinto do
 **Art. 59** – A não ser que se estabeleça expressamente outra coisa:
 
 > 1º sempre que a lei preceitue que o juiz ouça as partes, ou uma delas, devem ser também ouvidos o defensor do vínculo e o promotor da justiça, se este intervier no juízo;
->
+
 > 2º sempre que se requerer a instância da parte para que o juiz possa decidir algo, terá o mesmo valor o requerimento do defensor do vínculo ou do promotor da justiça, se este intervier no juízo (cf. cân. 1434).
 
 **Art. 60** – Quando o defensor do vínculo ou o promotor da justiça, nas causas em que se requer a sua presença, não forem citados, os autos são nulos, a não ser que eles, embora sem ser citados, de fato tenham tido intervenção ou, pelo menos, antes da sentença tenham podido exercer o seu ofício mediante o exame dos autos (cf. cân. 1433).
@@ -645,11 +641,11 @@ E DOS DEMAIS MINISTROS DO TRIBUNAL
 **Art. 110** – Aos advogados e procuradores é proibido:
 
 > 1º renunciar ao mandato, enquanto a causa é pendente, sem uma justa razão;
->
+
 > 2º pactuar entre si acerca de emolumentos excessivos; se o fizerem, tal pacto é nulo;
->
+
 > 3º trair o próprio dever graças a donativos, promessas ou qualquer outra causa;
->
+
 > 4º subtrair as causas aos tribunais competentes ou atuar de qualquer modo com fraude da lei (cf. câns. 1488-1489).
 
 **Art. 111** – § 1. Os advogados e procuradores, que cometerem delito contra o encargo a eles confiado, sejam punidos segundo as normas do direito (cf. câns. 1386; 1389; 1391, n. 2; 1470, § 2; 1488-1489).
@@ -681,13 +677,13 @@ E DOS DEMAIS MINISTROS DO TRIBUNAL
 **Art. 116** – § 1. O libelo, pelo qual se introduz a causa, deve:
 
 > 1º especificar o tribunal perante o qual a causa é introduzida;
->
+
 > 2º delimitar o objeto da causa, isto é, especificar o matrimônio do qual se trata, apresentar um pedido de declaração da nulidade e propor, mesmo sem usar termos técnicos, a razão do pedido, ou seja, o capítulo ou os capítulos de nulidade pelos quais se impugna o matrimônio;
->
+
 > 3º indicar, ao menos de forma genérica, os fatos e as provas em que se baseia o autor para demonstrar o que afirma;
->
+
 > 4º ser assinado pelo autor ou pelo seu procurador, com indicação do dia, mês e ano e também o lugar em que o autor ou o seu procurador habitam, ou digam residir para aí receberem os atos;
->
+
 > 5º indicar o domicílio ou o quase-domicílio do outro cônjuge (cf. cân. 1504).
 
 § 2. Devem ser anexados ao libelo o certificado autêntico de matrimônio e, se for o caso, o documento comprovante do estado civil das partes.
@@ -711,11 +707,11 @@ E DOS DEMAIS MINISTROS DO TRIBUNAL
 **Art. 121** – § 1. O libelo só pode ser rejeitado:
 
 > 1º se o tribunal for incompetente;
->
+
 > 2º se sem dúvida a petição tiver sido apresentada por alguém que não goza do direito de impugnar o matrimônio (cf. arts. 92-93; 97; §§ 1-2; 106, §2);
->
+
 > 3º se não tiverem sido observadas as prescrições do art. 116, § 1, nn. 1-4;
->
+
 > 4º se do próprio libelo se deduzir com certeza que a petição carece totalmente de fundamento, e não se possa esperar que do processo venha a surgir algum fundamento (cf. cân. 1505, § 2).
 
 § 2. O decreto deve expor ao menos sumariamente os motivos da rejeição, e deve ser notificado quanto antes ao autor e, se for o caso, também ao defensor do vínculo (cf. cân. 1617).
@@ -809,9 +805,9 @@ E DOS DEMAIS MINISTROS DO TRIBUNAL
 **Art. 140** – Se no dia e hora determinados para a concordância da fórmula da dúvida, o autor não comparecer, por si ou por procurador, nem apresentar justificação idônea:
 
 > 1º o presidente ou o ponente cite-o de novo;
->
+
 > 2º se o autor não obedecer à nova citação, o presidente ou o ponente deve declarar deserta a causa, a não ser que a parte demandada ou o promotor da justiça, nos termos do art. 92, n. 2, inste a declaração de nulidade do matrimônio;
->
+
 > 3º se, depois, quiser intervir no processo, observe-se o art. 139 (cf. cân. 1594).
 
 **Art. 141** – Quanto à parte declarada ausente em juízo, observe-se o art. 134, § 3.
@@ -826,7 +822,7 @@ E DA RENÚNCIA À INSTÂNCIA
 **Art. 143** – Quando um cônjuge falece durante o processo:
 
 > 1º se a causa ainda não estava concluída, suspende-se a instância até que o outro cônjuge ou outro interessado inste pelo prosseguimento; neste caso, o legítimo interesse deve ser provado;
->
+
 > 2º se a causa já estava concluída nos termos do art. 237, o juiz deve prosseguir na ação, citado o procurador se o houver; do contrário, o herdeiro ou o sucessor do defunto (cf. câns. 1518; 1675, § 2).
 
 **Art. 144** – § 1. Se o curador ou o procurador, que seja necessário nos termos do art. 101, § 2, cessar no seu múnus, a instância entretanto suspende-se (cf. cân. 1519, § 1).
@@ -895,7 +891,7 @@ NO CASO DE DÚVIDA SOBRE A INCONSUMAÇÃO
 **Art. 159** – § 1. O defensor do vínculo e os advogados das partes têm o direito de:
 
 > 1º assistir ao interrogatório das partes, das testemunhas e dos peritos, a não ser que os juízes, no que diz respeito aos advogados, considere que, vistas as circunstâncias das coisas e das pessoas, se deva proceder secretamente;
->
+
 > 2º ver as atas judiciais, mesmo ainda não publicadas, e os documentos apresentados pelas partes (cf. câns. 1678, § 1; 1559).
 
 § 2. As partes não podem assistir ao interrogatório mencionado no § 1, n. 1 (cân. 1678, § 2).
@@ -1023,9 +1019,9 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 § 2. Sem prejuízo do prescrito no art. 196, § 2, n. 2, são isentos da obrigação de responder:
 
 > 1º os clérigos, no respeitante ao que lhes foi manifestado em razão do sagrado ministério;
->
+
 > 2º os magistrados civis, médicos, parteiras, advogados, notários e outros que são obrigados ao segredo profissional, inclusive por motivo de conselho dado, no respeitante aos assuntos sujeitos a tal segredo;
->
+
 > 3º quem temer que do seu testemunho sobrevenham infâmia, vexações perigosas, ou outros males graves para si mesmo ou para o cônjuge ou consangüíneos ou afins próximos (cf. cân. 1548, § 2, n. 2).
 
 **Art. 195** – Todos podem ser testemunhas, a não ser que sejam expressamente impedidos, total ou parcialmente, pelo direito (cân. 1549).
@@ -1049,13 +1045,13 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 201** – Ao avaliar os testemunhos, o juiz pode solicitar, se for necessário, cartas testemunhais, devendo considerar:
 
 > 1º qual seja a condição da pessoa e a sua honestidade;
->
+
 > 2º se depõe por conhecimento próprio, principalmente por ter visto e ouvido, ou por mera opinião sua, pela fama, ou pelo que ouviu de outras pessoas;
->
+
 > 3º quando conheceu o que afirma, principalmente se foi em tempo não suspeito, ou seja, quando as partes ainda não haviam decidido introduzir a causa;
->
+
 > 4º se a testemunha se mostrou constante e firmemente coerente consigo própria, ou variável, incerta ou vacilante;
->
+
 > 5º se o depoimento condiz com o das outras testemunhas, ou se é confirmado ou não com outros elementos de prova (cf. cân. 1572).
 
 **Art. 202** – O depoimento de uma única testemunha não pode fazer fé plena, a não ser que se trate de testemunha qualificada que deponha a respeito de coisas feitas *ex officio*, ou que as circunstâncias reais e pessoais sugiram o contrário (cân. 1573).
@@ -1089,9 +1085,9 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 § 2. Em particular:
 
 > 1º nas causas por defeito de uso da razão, deve perguntar se a anomalia comprometia de modo grave o uso da razão no momento da celebração do matrimônio, com que intensidade e por que indícios se manifestou;
->
+
 > 2º nas causas por defeito de discrição de juízo, deve perguntar que efeito produziu a anomalia sobre a faculdade crítica e de escolha para tomar decisões graves e, em particular, para escolher livremente um estado de vida;
->
+
 > 3º nas causas por incapacidade de assumir as obrigações essenciais do matrimônio, deve perguntar qual a natureza e a gravidade da causa psíquica através da qual a parte sofre não só uma grave dificuldade mas, também, a impossibilidade de fazer frente às ações inerentes às obrigações do matrimônio.
 
 § 3. O perito, no seu parecer, deve responder a cada uma das questões especificadas no decreto do juiz, segundo as regras da própria técnica e ciência; porém, tome cuidado de não ultrapassar os limites da sua função para não emitir juízos que competem ao juiz (cf. câns. 1577, § 1; 1574).
@@ -1199,7 +1195,7 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 239** – § 1. Depois da conclusão da causa, o juiz pode convocar de novo as mesmas ou outras testemunhas, ou requisitar outras provas que ainda não tenham sido pedidas:
 
 > 1º quando for verossímil que, se não for apresentada nova prova, a sentença será injusta pelas razões referidas no cân. 1645, § 2, nn. 1-3;
->
+
 > 2º nas demais causas, ouvidas as partes e contanto que exista uma razão grave, e se evite todo perigo de fraude ou suborno (cf. cân. 1600, § 1).
 
 § 2. No entanto, o juiz pode mandar ou admitir que se apresente documento, que, sem culpa do interessado, porventura não pôde talvez ser apresentado antes (cân. 1600, § 2).
@@ -1271,11 +1267,11 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 250** – A sentença deve:
 
 > 1º dirimir a questão discutida perante o tribunal, dando resposta adequada a cada uma das dúvidas;
->
+
 > 2º expor os argumentos ou os motivos, tanto de direito como de fato, em que se baseia a parte dispositiva da sentença;
->
+
 > 3º apor, se o caso exigir, a proibição a que se refere o art. 251;
->
+
 > 4º determinar o referente às custas judiciais (cf. cân. 1611).
 
 **Art. 251** – § 1. Se no processo se verificar que uma parte é absolutamente impotente ou incapaz para o matrimônio por uma incapacidade permanente, deve-se apor à sentença um veto que a proíba de contrair novo matrimônio sem consultar o tribunal que emite a sentença.
@@ -1365,19 +1361,19 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 270** – Segundo o cân. 1620, a sentença está ferida de nulidade insanável, se:
 
 > 1º for proferida por juiz absolutamente incompetente;
->
+
 > 2º for proferida por quem careça do poder de julgar no tribunal em que a causa foi decidida;
->
+
 > 3º o juiz proferir a sentença por violência ou coagido por grave temor;
->
+
 > 4º o juízo for realizado sem a petição judicial referida no art. 114, ou não for instaurado contra alguma parte demandada;
->
+
 > 5º for proferida entre partes, das quais ao menos uma não tinha personalidade para estar em juízo;
->
+
 > 6º alguém tiver agido em nome alheio, sem ter mandado legítimo;
->
+
 > 7º tiver sido negado a alguma das partes o direito de defesa;
->
+
 > 8º a controvérsia não tiver sido dirimida nem sequer parcialmente.
 
 **Art. 271** – A querela de nulidade, referida no art. 270, pode ser proposta perpetuamente como exceção; e como ação, no prazo de dez anos, contados desde o dia da publicação da sentença (cf. cân. 1621).
@@ -1385,15 +1381,15 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 272** – A sentença está ferida apenas de vício de nulidade sanável, se:
 
 > 1º não tiver sido proferida pelo número legítimo de juízes, contra o prescrito no art. 30;
->
+
 > 2º não contiver os motivos ou as razões da decisão;
->
+
 > 3º carecer das assinaturas prescritas no direito;
->
+
 > 4º não contiver a indicação do ano, mês, dia e lugar em que foi proferida;
->
+
 > 5º se basear em ato judicial nulo, cuja nulidade não tiver sido sanada;
->
+
 > 6º for proferida contra uma parte legitimamente ausente, em conformidade com o art. 139, § 2 (cf. cân. 1622).
 
 **Art. 273** – Nos casos referidos no art. 272, a querela de nulidade pode ser proposta dentro de três meses, contados a partir do conhecimento da publicação da sentença. Transcorrido este prazo, a sentença se considera *ipso iure* sanada (cf. cân. 1623).
@@ -1425,13 +1421,13 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 280** – § 1 - Não há lugar para apelação:
 
 > 1º da sentença do próprio Sumo Pontífice ou da Assinatura Apostólica;
->
+
 > 2º da sentença afetada com vício de nulidade, a não ser que se acumule com a querela de nulidade, nos termos do art. 274, § 3;
->
+
 > 3º da sentença já transitada em julgado;
->
+
 > 4º do decreto do juiz ou da sentença interlocutória, que não tenha força de sentença definitiva, a não ser que se acumule com a apelação da sentença definitiva;
->
+
 > 5º da sentença ou do decreto na causa que, segundo o direito, deve ser resolvida com a maior brevidade (cf. cân. 1629).
 
 § 2. O disposto no § 1, n. 3, não diz respeito à sentença que define a causa principal de nulidade do matrimônio (cf. cân. 1643).
@@ -1540,13 +1536,13 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 303** – § 1. O bispo diocesano para o tribunal diocesano e o grupo de bispos, ou o bispo por eles designado, para o tribunal interdiocesano, estabeleça normas acerca:
 
 > 1º do pagamento ou da compensação das custas judiciais;
->
+
 > 2º dos honorários dos procuradores, advogados, peritos e intérpretes, bem como das indenizações às testemunhas;
->
+
 > 3º da concessão do patrocínio gratuito ou da redução das custas;
->
+
 > 4º da reparação dos danos porventura causados a uma das partes;
->
+
 > 5º do depósito pecuniário ou da caução para pagamento das custas ou da reparação dos danos (cf. cân. 1649, § 1).
 
 § 2. Ao estabelecer tais normas o bispo deve levar em consideração a natureza peculiar das causas matrimoniais, que postula na medida do possível, a intervenção de ambos os cônjuges no processo de nulidade (cf. art. 95, § 1).
@@ -1560,11 +1556,11 @@ qual a parte afirma perante o juiz competente um fato próprio contrário à val
 **Art. 306** – Ao fixar as normas previstas no art. 303, § 1, n. 3, o bispo levará em conta oportunamente o que segue:
 
 > 1º quem desejar obter a isenção ou redução das custas judiciais e o patrocínio gratuito deve apresentar ao vigário judicial ou ao presidente um requerimento escrito, anexando as provas e os documentos que demonstrem qual é a sua real condição econômica;
->
+
 > 2º a causa, porém, especialmente se se trata de uma questão incidental, deve gozar de um presumível bom fundamento;
->
+
 > 3º antes de conceder o patrocínio gratuito ou a redução de custas, o vigário judicial ou o presidente, se reputar oportuno, peça um voto do promotor da justiça e do defensor do vínculo, enviando-lhes o requerimento e os documentos;
->
+
 > 4º presume-se que a isenção total ou parcial das custas se mantém na instância ulterior, a não ser que, por justa causa, o presidente a revogue.
 
 **Art. 307** – § 1. Se o presidente cuidar que deve ser concedido o patrocínio gratuito, solicite ao vigário judicial que designe um advogado que o assuma.
@@ -1586,8 +1582,6 @@ A presente Instrução, exarada por este Pontifício Conselho para Textos Legisl
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Concílio Vaticano II, Const. pastoral *Gaudium et spes*, n. 48d.
 

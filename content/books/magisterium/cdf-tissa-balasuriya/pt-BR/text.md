@@ -1,9 +1,5 @@
 # Notificação sobre o livro Mary and Human Liberation do Padre Tissa Balasuriya OMI, 2 de janeiro de 1997
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA A FÉ
 
 ***NOTIFICAÇÃO SOBRE O LIVRO  «MARY AND HUMAN LIBERATION» OBRA ESCRITA PELO PADRE TISSA BALASURIYA, OBLATO DE MARIA IMACULADA***
@@ -67,8 +63,6 @@ Ao tornar pública esta presente *Notificação*, a Congregação sente-se, alem
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: O escrito foi publicado na revista *Logos* 29, 1-2 de Março/Julho de 1990 (Colombo, Sri Lanka).
 

@@ -49,5 +49,3 @@ We can scarcely address you, which we most willingly do from our heart, without 
 *Given at St. Peter's, Rome, on the 18th day of December, 1897, in the twentieth year of Our pontificate.*
 
 **LEO XIII**
-
-*         *

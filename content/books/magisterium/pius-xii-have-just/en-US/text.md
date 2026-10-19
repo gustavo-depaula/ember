@@ -2,8 +2,6 @@
 
 ***CHIROGRAFO DI SUA SANTITÀ PIO XII ALL'ECC.MO HARRY S. TRUMAN PRESIDENTE DEGLI STATI UNITI D'AMERICA\****
 
-** **
-
 *Your Excellency* :
 
 We have just received from the hands of your personal representative, Mr. Myron Taylor, Your Excellency's letter of August 6, and We hasten to express Our satisfaction and thanks for this latest testimony to the desire and determination of a great and free people to dedicate themselves, with their characteristic confidence and generosity, to the noble task of strenghtening the foundations of that peace for which all peoples of the earth are longing. As their chosen leader Your Excellency seeks to enlist and cement the cooperation of every force and power which can help to accomplish this task. No one more than We will hope for its success and for the happy achievement of the goal We pledge Our resources and earnestly beg God's assistance.

@@ -1,9 +1,5 @@
 # Theologie der Befreiung - Internationale Theologenkommission
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **INTERNATIONALE THEOLOGIENKOMMISSION**
 
 Karl Lehmann mit Heinz Schürmann, Olegario Gonzalez de Cardedal  
@@ -44,5 +40,3 @@ Der Unterzeichnete dankt den Autoren der hier veröffentlichten Beiträge für i
 **Karl Lehmann**
 
 \*\*\*
-
-[](#top)

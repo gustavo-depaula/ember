@@ -1,14 +1,8 @@
 # Chiarificazione sull'aborto procurato, 11 luglio 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***CHIARIFICAZIONE DELLA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE SULL'ABORTO PROCURATO\****
-
-*** ***
 
 Recentemente sono pervenute alla Santa Sede diverse lettere, anche da parte di alte personalità della vita politica ed ecclesiale, che hanno informato sulla confusione creatasi in vari Paesi, soprattutto in America Latina, a seguito della manipolazione e strumentalizzazione di un articolo di Sua Eccellenza Monsignor Rino Fisichella, Presidente della [Pontificia Accademia per la Vita](/roman_curia/pontifical_academies/acdlife/index_it.htm), sulla triste vicenda della "bambina brasiliana". In tale articolo, apparso su "L'Osservatore Romano" del 15 marzo 2009, si proponeva la dottrina della Chiesa, pur tenendo conto della situazione drammatica della suddetta bambina, che - come si poteva rilevare successivamente - era stata accompagnata con ogni delicatezza pastorale, in particolare dall'allora Arcivescovo di Olinda e Recife, Sua Eccellenza Monsignor José Cardoso Sobrinho. Al riguardo, la Congregazione per la Dottrina della Fede ribadisce che la dottrina della Chiesa sull'aborto provocato non è cambiata né può cambiare. Tale dottrina è stata esposta nei [numeri 2270-2273 del Catechismo della Chiesa Cattolica](/archive/ITA0014/__P7Y.HTM) in questi termini:
 
@@ -31,5 +25,3 @@ Quanto alla responsabilità degli operatori sanitari, occorre ricordare le parol
 ------------------------------------------------------------------------
 
 \* «L'Osservatore Romano», Anno CXLIX n. 157 (11 luglio 2009), p. 7.
-
-[](#top)

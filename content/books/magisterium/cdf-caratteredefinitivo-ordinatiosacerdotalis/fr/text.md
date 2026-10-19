@@ -1,22 +1,10 @@
 # À propos de certains doutes sur le caractère définitif de la doctrine d'Ordinatio sacerdotalis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \+ Luis F. LADARIA, S.I.
 
 Préfet de la Congrégation pour la Doctrine de la Foi
-
-** **
 
 **À PROPOS DE CERTAINS DOUTES SUR LE CARACTÈRE DÉFINITIF DE LA DOCTRINE D’*[ORDINATIO SACERDOTALIS](/content/john-paul-ii/fr/apost_letters/1994/documents/hf_jp-ii_apl_19940522_ordinatio-sacerdotalis.html)***
 

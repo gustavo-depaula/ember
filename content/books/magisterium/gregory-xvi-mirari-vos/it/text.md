@@ -5,8 +5,6 @@ GREGORIO XVI
 
 ***MIRARI VOS***
 
-*** ***
-
 *A tutti i Patriarchi, Primati, Arcivescovi e Vescovi dell’orbe cattolico.*
 
 *Il Papa Gregorio XVI.  Venerabili Fratelli, salute e Apostolica Benedizione.*

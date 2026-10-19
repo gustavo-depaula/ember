@@ -1,9 +1,5 @@
 # Notificação Jacques Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***NOTIFICAÇÃO A PROPÓSITO DO LIVRO DE JACQUES DUPUIS "PARA UMA TEOLOGIA CRISTÃ DO PLURALISMO RELIGIOSO" (ED. QUERINIANA, BRÉSCIA 1997)***
@@ -92,5 +88,3 @@ Além disso, o facto de que os elementos de verdade e de bondade presentes nas v
 16\) Cf. CONCÍLIO ECUMÉNICO VATICANO II, Constituição dogmática *Lumen gentium,* 16; Declaração *Nostra aetate,* 2; Decreto *Ad gentes,* 9; cf. também PAULO VI, Exortação Apostólica *Evangelii nuntiandi,* 53:  *AAS* 68 (1976), pp. 5-76; JOÃO PAULO II, Carta Encíclica *Redemptoris missio,* 55; CONGREGAÇÃO PARA A DOUTRINA DA FÉ, Declaração *Dominus Iesus,* 8.
 
 17\) Cf. CONCÍLIO DE TRENTO, Decreto *De libris sacris et de traditionibus recipiendis, Denz.* n. 1501; CONCÍLIO ECUMÉNICO VATICANO I, Constituição dogmática *Dei Filius,* cap. 2, *Denz.* n. 3006;  CONGREGAÇÃO  PARA  A  DOUTRINA DA FÉ, Declaração *Dominus Iesus,* 8.
-
-[](#top)

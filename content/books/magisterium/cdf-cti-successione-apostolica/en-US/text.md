@@ -1,13 +1,5 @@
 # Catholic Teaching on Apostolic Succession, 1973
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **INTERNATIONAL THEOLOGICAL COMMISSION**

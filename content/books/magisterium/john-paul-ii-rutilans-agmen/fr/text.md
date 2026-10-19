@@ -48,5 +48,3 @@ Nous, Jean-Paul II, qui sommes originaire de la terre polonaise, nous nous assoc
 *Donné à Rome, près de Saint-Pierre, le 8 mai 1979, première année de notre pontificat.*
 
 **IOANNES PAULUS PP II.**
-
-*  *

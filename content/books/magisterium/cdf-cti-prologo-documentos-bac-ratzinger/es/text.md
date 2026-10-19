@@ -1,9 +1,5 @@
 # Prólogo del Card. Ratzinger a Documentos 1969-1996
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PRÓLOGO**
 
 **al libro *Documentos 1969-1996***[\[\*\]](#_edn*)
@@ -41,5 +37,3 @@ Al confiar estos textos, fruto de tanto trabajo y fatiga, a la atención del amp
 ------------------------------------------------------------------------
 
 [\[\*\]](#_ednref*) Comisión Teológica Internacional, *Documentos 1966-1996. Veinticinco años de servicio a la teología de la Iglesia,* Biblioteca de Autores Cristianos, Madrid 1998²
-
-[](#top)

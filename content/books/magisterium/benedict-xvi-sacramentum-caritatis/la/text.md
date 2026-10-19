@@ -48,7 +48,7 @@ Ecclesiae eucharistica fides
 **[Eucharistia et Sacramenta](#Eucharistia_et_Sacramenta)**
 
 > De Ecclesiae sacramentalitate
->
+
 > > I. De eucharistia et christiana initiatione  
 > > Eucharistia, christianae initiationis plenitudo  
 > > Sacramentorum initiationis ordo  

@@ -1,9 +1,5 @@
 # Lettera riguardante la sospensione di Carlo Curran dallÂÂÂ’insegnamento della teologia, 25 luglio 1986 - Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE 
 
 **EPISTULA R. D. CAROLO CURRAN, VASINGTONIAE DEGENTI, MISSA**
@@ -41,5 +37,3 @@ dev.mo in Cristo
 **+ Ioseph Card. Ratzinger,** * Praefectus*
 
 \* *AAS* 79 (1987), 116-118.
-
-[](#top)

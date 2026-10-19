@@ -1,14 +1,8 @@
 # Nota Doctrinalis de Quibusdam Rationibus Evangelizationis, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 ***Nota Doctrinalis de Quibusdam Rationibus Evangelizationis***
-
-***  ***
 
 **I. *Introductio***
 
@@ -101,8 +95,6 @@ Datum Romae, in aedibus *Congregationis pro Doctrina Fidei*, die III mensis Dece
 **+ Angelus Amato S.D.B.** *Archiepiscopus Titularis Silae a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Ioannes Paulus II, Litterae encyclicae [*Redemptoris missio*](/edocs/ITA1222/__PX.HTM), 7 Decembris 1990, n. 47: *AAS* 83 (1991), 293.
 

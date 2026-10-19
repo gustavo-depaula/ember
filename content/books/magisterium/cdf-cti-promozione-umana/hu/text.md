@@ -1,13 +1,5 @@
 # Nemzetközi Teológiai Bizottság, Emberi jólét és keresztény üdvösség
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG
@@ -25,15 +17,15 @@ NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG
 3\. Bibliai szempontok
 
 > a\) Az Ószövetség
->
+
 > b\) Az Újszövetség
 
 4\. Szisztematikus és teológiai megfontolások
 
 > a\) Isten mint felszabadító és az ember felszabadító tevékenysége
->
+
 > b\) Tényleges kapcsolatok az emberi jólét és az isteni üdvösség között
->
+
 > c\) Kapcsolat a jólét és az üdvösség között és az egyház küldetése
 
 Összegzés

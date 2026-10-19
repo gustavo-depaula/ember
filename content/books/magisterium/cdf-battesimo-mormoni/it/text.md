@@ -1,9 +1,5 @@
 # Responsum Battesimo presso i "mormoni"
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***RISPOSTA AL DUBBIO PROPOSTO* sulla validità del Battesimo conferito presso «*La Chiesa di Gesù Cristo dei Santi dell'Ultimo Giorno*», detta «*Mormoni*»**
@@ -23,5 +19,3 @@ Dalla sede della Congregazione per la Dottrina della Fede, il 5 giugno 2001.
 \+ TARCISIO BERTONE, S.D.B.
 
 *Arcivescovo emerito di Vercelli Segretario*
-
-[](#top)

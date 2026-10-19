@@ -1,9 +1,5 @@
 # Message de voeux à l'occasion du 83 anniversaire du Saint-Père
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***MESSAGE DE VOEUX À L'OCCASION DU  83 ANNIVERSAIRE*** ** ***DU SAINT-PÈRE***
 
 *Dimanche* *18 mai 2003*
@@ -19,7 +15,3 @@ Croire et aimer:  tel est le programme de votre pontificat. Inlassablement, vou
 Très Saint-Père, *ad multos annos!*
 
 **Joseph Cardinal Ratzinger**
-
-**  **
-
-[](#top)

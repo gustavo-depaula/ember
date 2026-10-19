@@ -1,20 +1,10 @@
 # L'interprétation des dogmes, 1989
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 ***L’interprétation des dogmes (1989)[^1]***
-
-**   **
 
 **1. Problématique**
 

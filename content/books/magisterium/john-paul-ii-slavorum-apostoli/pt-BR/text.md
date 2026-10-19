@@ -188,7 +188,7 @@ Na sua catedral, repleta de fiéis de diversas linhagens, os discípulos de são
 Ao completarem-se onze séculos depois da sua morte, eu desejo estar presente, ao menos em espírito, *em Velehrad*, onde — segundo parece — a Providência dispôs que Metódio terminasse a sua vida apostólica;
 
 > — desejo também deter-me na *basílica de São Clemente em Roma*, onde foi sepultado são Cirilo;
->
+
 > — e junto aos túmulos desses dois irmãos, apóstolos dos eslavos, gostaria de *recomendar a sua herança espiritual à Santíssima Trindade*, com uma oração especial.
 
 30\. "*Nas vossas mãos entrego*..."

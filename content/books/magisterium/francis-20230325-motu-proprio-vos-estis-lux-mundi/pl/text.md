@@ -8,8 +8,6 @@ OJCA ŚWIĘTEGO FRANCISZKA
 
 **WSTĘP**
 
-** **
-
    «*Wy jesteście światłem świata. Nie może się ukryć miasto położone na górze*» (*Mt* 5, 14).
 
 Nasz Pan Jezus Chrystus wzywa każdego wiernego, aby był przejrzystym wzorem cnót, prawości i świętości. Wszyscy jesteśmy bowiem wezwani do dawania konkretnego świadectwa wiary w Chrystusa w naszym życiu, a zwłaszcza w naszych relacjach z bliźnimi.

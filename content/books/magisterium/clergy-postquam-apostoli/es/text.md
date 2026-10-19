@@ -1,9 +1,5 @@
 # Normas directivas para la colaboración de las Iglesias particulares y especialmente para una mejor distribución del clero en el mundo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGACIÓN PARA EL CLERO
 
 ***NORMAS DIRECTIVAS PARA LA COLABORACIÓN DE LAS IGLESIAS PARTICULARES Y ESPECIALMENTE PARA UNA MEJOR DISTRIBUCIÓN DEL CLERO EN EL MUNDO***
@@ -253,8 +249,6 @@ Debemos realizar e intensificar este esfuerzo guiados y animados siempre por la 
 ------------------------------------------------------------------------
 
 **NOTAS**
-
-[](#top)
 
 [^1]: Decreto *[Christus Dominus](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_sp.html),* 6
 

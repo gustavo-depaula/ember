@@ -602,10 +602,6 @@ SCHLUSS
 
 *Gegeben zu Rom, bei Sankt Peter, am 24. Oktober des Jahres 2024, des zwölften meines Pontifikats.*
 
-* *
-
-* *
-
 ------------------------------------------------------------------------
 
 [^1]: Ein Großteil der Gedanken dieses ersten Kapitels wurde von den Schriften des Paters Diego Fares SJ angeregt. Der Herr nehme ihn auf in seine Herrlichkeit.

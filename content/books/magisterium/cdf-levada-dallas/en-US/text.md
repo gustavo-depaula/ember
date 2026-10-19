@@ -1,9 +1,5 @@
 # THE ROLE OF THE MAGISTERIUM IN BIOETHICS by His Eminence William Cardinal Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***THE ROLE OF THE MAGISTERIUM IN BIOETHICS***
 
 ***by Cardinal William Levada Prefect of the Congregation for the Doctrine of the Faith***
@@ -129,5 +125,3 @@ Third, we need to help our Catholic people avoid the tensions, even opposition, 
 And fourth, we should reinforce in our preaching and teaching the final article of the Creed in order to rekindle the hope of eternal life. Just as it was for the people of Athens, for many people today the parameters of human life are closed – closed to the agency of a divine Creator in our beginnings, and closed to the invitation of living beyond death in the communion of God’s love. This cultural mindset affects the faithful as well, and needs therefore to be rekindled more than ever, for the hope of the world cannot be sustained without a living faith in the promise of eternal life Jesus came to bring us. This confident hope of eternal life also gives us confidence that—while not everything that science makes possible is moral—with God’s help moral solutions to the problems of this present age can be found.
 
 Perhaps the most fitting conclusion to my remarks today would be a reference to the splendid and ever timely Encyclical on the Gospel of Life *Evangelium Vitae* of the Servant of God Pope John Paul II, who insisted with such clarity and passion: “The Gospel of life is not for believers alone: it is for everyone. The issue of life and its defence and promotion is not a concern of Christians alone. Although faith provides special light and strength, this question arises in every human conscience which seeks the truth and which cares about the future of humanity.” With him let us too pray, “may a new culture of love and solidarity develop for the true good of the whole of human society” (n. 101).
-
-[](#top)

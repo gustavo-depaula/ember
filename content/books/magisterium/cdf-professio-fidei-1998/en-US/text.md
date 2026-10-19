@@ -1,9 +1,5 @@
 # PROFESSION OF FAITH
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***PROFESSION OF FAITH***
@@ -264,5 +260,3 @@ In every profession of faith, the Church verifies different stages she has reach
 ³⁸ Cf. Second Vatican Ecumenical Council, Dogmatic Constitution *Lumen Gentium*, 25; Congregation for the Doctrine of the Faith, Instruction *Donum Veritatis*, 17, 23 and 24: *AAS* 82 (1990), 1557-1558, 1559-1561.
 
 ³⁹ *Catechism of the Catholic Church*, No. 167.
-
-[](#top)

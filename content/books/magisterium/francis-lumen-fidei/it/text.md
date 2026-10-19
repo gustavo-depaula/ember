@@ -1,6 +1,5 @@
 # Lumen fidei
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei_it.pdf)  
 DOWNLOAD PDF
 
 LETTERA ENCICLICA  

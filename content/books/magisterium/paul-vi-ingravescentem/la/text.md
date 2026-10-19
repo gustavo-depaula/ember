@@ -24,9 +24,8 @@ Patres Cardinales sive Dicasteriis Curiae Romanae (de quibus in art. 1 *Rationis
 
 Patres Cardinales, cum octogesimum aetatis annum conficiunt:
 
->   
 > *1)* desinunt esse Membra Dicasteriorum Romanae Curiae ceterorumque Institutorum, quae in superiore articulo memorantur;
->
+
 > *2)* ius amittunt Romanum Pontificem eligendi atque adeo etiam ius in Conclave ingrediendi. Si quis vero Cardinalis inter Conclave octogesimum aetatis annum compleat, iure Romanum Pontificem eligendi frui hac vice pergit.
 
 **III.**
@@ -46,7 +45,7 @@ Patres Cardinales, licet octogesimum aetatis annum confecerint, Membra manent Sa
 Quodsi propter extraordinaria rerum adiuncta accidit, ut Cardinalis S. R. E. Camerarius et Cardinalis Paenitentiarius Maior usque ad octogesimum aetatis annum in munere suo pergant versari, haec statuuntur:
 
 > *1)* si octogesimus annus completur tempore mortem Romani Pontificis praecedente, quo tamen utriusque successor nondum sit nominatus, aut tempore mortem eiusdem Romani Pontificis insequente et ante Conclavis initium, Casrum Collegium, Sede Apostolica vacante rite congregatum, successorem per suffragia eligit, qui in munere manebit usque ad electionem novi Summi Pontificis;
->
+
 > *2)* si autem octogesimus annus expletur inter conclave, munus ipso iure usque ad electionem novi Summi Pontificis prorogatur.
 
 **VII.**
@@ -66,5 +65,3 @@ Quae igitur a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia rat
 *Datum Romae, apud Sanctum Petrum, die XXI mensis Novembris, anno MCMLXX, Pontificatus, Nostri octavo.*
 
 **PAULUS PP. VI**
-
-** **

@@ -1,9 +1,5 @@
 # Nota dottrinale su alcuni aspetti dell'evangelizzazione
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***NOTA DOTTRINALE SU ALCUNI ASPETTI DELL'EVANGELIZZAZIONE***
@@ -96,8 +92,6 @@ Questa prospettiva richiede naturalmente di evitare ogni indebita pressione: «N
 **Angelo Amato** *Arcivescovo titolare di Sila Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Giovanni Paolo II, Lett. Enc. *[Redemptoris missio](/edocs/ITA1222/__PX.HTM)* (7 dicembre 1990), n. 47: *AAS* 83 (1991), 293.
 

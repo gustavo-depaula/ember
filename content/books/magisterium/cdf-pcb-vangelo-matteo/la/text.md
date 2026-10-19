@@ -1,14 +1,8 @@
 # De auctore, de tempore compositionis et de historica veritate Evangelii secundum Matthaeum - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE AUCTORE, DE TEMPORE COMPOSITIONIS ET DE HISTORICA VERITATE EVANGELII SECUNDUM MATTHAEUM**
-
-** **
 
 Propositis sequentibus dubiis Pontificia Commissio «de re Biblica» ita respondendum decrevit.
 
@@ -46,7 +40,3 @@ Resp.: Affirmative.
 
 Fulcranus Vigoroux, P.S.S.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-* *
-
-[](#top)

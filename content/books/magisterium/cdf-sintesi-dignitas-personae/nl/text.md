@@ -1,9 +1,5 @@
 # Naar aanleiding van de Instructie Dignitas Personae
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Congregatie voor de Geloofsleer**
 
 **Naar aanleiding van de Instructie *Dignitas Personae***
@@ -212,5 +208,3 @@ Voor wetenschappelijk onderzoek en voor de productie van vaccins en andere produ
 &nbsp;
 
 - Natuurlijk bestaan er binnen dit algemene beeld *verschillende graden van verantwoordelijkheid*. Ernstige redenen kunnen moreel proportioneel het gebruik van zulk “biologisch materiaal” rechtvaardigen. Zo kan bijvoorbeeld gevaar voor de gezondheid van kinderen voor ouders een goede reden zijn een vaccin te gebruiken dat ontwikkeld is met gebruikmaking van cellijnen die op ongeoorloofde wijze zijn verkregen, waarbij men moet blijven bedenken dat iedereen de plicht heeft bekend te maken dat men het hier niet mee eens is en de gezondheidszorg te verzoeken ervoor te zorgen dat andere soorten vaccin beschikbaar komen. Daarnaast is in organisaties waar op ongeoorloofde wijze verkregen cellijnen worden gebruikt, de verantwoordelijkheid van degenen die besluiten ze te gebruiken niet dezelfde als die van mensen die geen stem hebben bij die beslissing.
-
-[](#top)

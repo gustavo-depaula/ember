@@ -43,55 +43,55 @@ Quare, eo ducti consilio, ut in sua luce poneretur locus, quem obtinent Legatoru
 **I**
 
 > **1.** Nomine Legatorum Romani Pontificis hic appellantur viri ecclesiastici, plerumque Episcopali Ordine insignes, quibus Romanus Pontifex officium committit suam stabili modo gerendi personam in variis terrarum Orbis Nationibus vel Regionibus.
->
+
 > **2.** Iidem pontificiam legationem exercent vel apud Ecclesias locales tantum, vel apud Ecclesias simul et Res Publicas atque civilia Gubernia. Qui legatione funguntur tantum apud Ecclesias locales, vocantur Delegati Apostolici; si vero ad hanc legationem, indolis religiosae atque ecclesialis, accedit etiam munus publicas fovendi rationes cum Civitatibus et civilibus Guberniis, tunc Legati proprio titulo nuncupantur vel Nuntii, vel Pro Nuntii, vel Internuntii, prouti vel ad ordinem pertinent «Publicorum Legatorum» cum iure partes gerendi Decani in Legatorum coetu, vel hoc iure carent, vel recensentur inter «Legatos extraordinarios et Administros liberis cum mandatis».
->
+
 > **3.** Ob peculiaria adiuncta loci vel temporis, Legatus Pontificius aliis nominibus appellare potest, uti, verbi gratia, «Delegatus Apostolicus et Missus Sanctae Sedes ad Gubernium». Fit etiam ut, stabiliter quidem, sed ad Legati munus supplendum, Legationi Pontificiae praeponatur «Regens», aut «Curam Agens ad Negotia publicis litteris instructus».
 
 **II**
 
 > **1.** Personam gerunt Sanctae Sedes ii quoque ecclesiastici et laici veri, qui, ut praepositi vel membra, in pontificiam Missionem cooptantur apud Consilia Internationalia, aut apud Conferentias et Congressus. Hi vocantur Delegati vel Observatores, prout Sancta Sedes recensetur aut non recensetur inter membra Consiliorum Internationalium, et partem habet in aliqua Conferentia cum aut sine iure suffragat.
->
+
 > **2.** Simeliter personam Sanctae Sedes gerunt membra illa Pontificiae Legationis quae, sive deest sive abest ad tempus eiusdem Legationis praepositus, eius vices supplent tum erga Ecclesiam localem, tum erga Civitatis Gubernium, appellanturque «Curam Agentes ad negotia ad interim».
->
+
 > **3.** Normae, quae hoc documento continentur, non respiciunt Delegates et Observatores Sanctae Sedis, neque «Curam Agentes ad negotia ad interim», nisi de iisdem expressa mentio fiat.
 
 **III**
 
 > **1.** Romano Pontifici ius nativum et independens competit Legatos suos libere nominandi, mittendi, transferendi et revocandi, servatis normis iuris internationalis, quod attinet ad missionem et revocationem Legatorum apud Res Publicas constitutorum.
->
+
 > **2.** Munus Legati Pontificii non exspirat vacante Sede Apostolica; cessat autem expleto mandato, revocatione eidem intimata, renuntiatione a Romano Pontefice acceptata.
->
+
 > **3.** Salvo contrario praescripto Summi Pontificis, pertinet etiam ad Pontificium Legatum norma statuta in Ordinatione Generali Romanae Curiae, qua scilicet ad septuagesimum quintum aetatis annum decernitur eius officium finem habere.
 
 **IV**
 
 > **1.** Praecipuum ac proprium munus Pontificii Legati est ut firmiora atque efficaciora in dies reddat unitatis vincula, quae inter Apostolicam Sedem et Ecclesias locales intercedunt.
->
+
 > **2.** Ipse praeterea quasi interpres fit sollicitudinis Romani Pontificis de bono Nationis, in qua legatione fungitur, eique peculiari modo corde esse oportet quaestiones ad pacem, ad progressum et ad consociatam populorum operam spectantes, eo quidem consilio, ut totius hominum familiae spirituale, morale atque oeconomicum bonum promoveatur.
->
+
 > **3.** Pontificii Legati est etiam apud moderatores Civitatis, in qua officio suo fungitur, ea quae pertinent ad Ecclesiae et Apostolicae Sedis missionem, consociata cum Episcopis actione, tueri. Quod quidem munus spectat insuper ad illos Legatos, qui non sunt missi ad Civitatum moderatores: iidem igitur contendant fructuosas necessitudines cum civilibus moderatoribus fovere.
->
+
 > **4.** Quatenus personam gerit Supremi Pastoris animorum, Legatus Pontificius, iuxta mandata et instructiones quae accipit a competentibus Apostolicae Sedis Officiis, et collatis consiliis cum Episcopis loci in quo munere suo fungitur, in regionibus quidem orientalibus praesertim cum Patriarches, foveat opportuna commercia inter Catholicam Ecclesiam et alios coetus christianos, foveatque rationibus cantate innixis erga Religiones non christianas.
->
+
 > **5.** Multiplici munere suo Pontificius Legatus fungitur sub ductu et iuxta mandata Cardinales Secretarii Status eiusdemque Praefecti Consilii pro publicis Ecclesiae negotiis, cui quidem directe rationem reddere debet de perfunctione muneris sibi a Romano Pontefice cullati.
 
 **V**
 
 > **1.** Pontificius Legatus, pro suo ordinario munere, debet Apostolicam Sedem certo tempore, ex ventate et aequitate certiorem facere de condicionibus in quibus versantur Ecclesiae ad quas missus est, deque omnibus illis quae ipsam vitam Ecclesiae et bonum animorum contingunt.
->
+
 > **2.** Legatus Pontificius, hinc quidem Apostolicae Sedi nuntiat Episcoporum, Cleri, Religiosorum laicorumque fidelium sui territorii consilia et vota; inde vero actorum, documentorum, notitiarum mandatorumque, quae ab Apostolica Sede procedunt, interpres fit apud illos ad quos eadem spectant.
->
+
 > **3.** Quare singula Dicasteria atque Officia Curiae Romanae Pontificio Legato captas deliberationes significare non omettent ac plerumque ipsius opera utentur, ut deliberationes ad eus, quorum interest, perveniant; itidem etiam Legatum Pontificium consulent circa ea negotia ac decreta, quae ad territorium attinent, in quo ipse degit.
 
 **VI**
 
 > **1.** Quoad Episcoporum aliorumque Ordinariorum cum Episcopis aequiparatorum nominationem, Legati Pontificii officium est instruere, de more, processum informativum de promovendis, itemque indicem candidatorum vel singula nomina candidatorum idoneorum competentibus Dicasteriis Romanae Curiae proponere una cum accurata relatione, significatis coram Domino propria sententia ac voto, quis nempe ex candidates sibi magis idoneus videatur.
->
+
 > **2.** In hoc officio explendo Legatus Pontificius: *a)* libere ac debita cum cautela virus Ecclesiasticos, immo et prudentes Laicos sententiam rogabit, qui magis idonei videantur ad utiles fideque dignas notitias praebendas, iisdem officio iniuncto secreti servandi, quod iubent, uti patet, sive honor iis debitus qui consuluntur, vel de quibus consultatio fit, sive ipsa natura huius consultationis; *b)* aget iuxta normas ab Apostolica Sede statutas de proponendis ad episcopale ministerium in Ecclesia, et Conferentiae Episcopalis competentiam prae oculis habebit; *c)* servabit legitima privilegia concessa vel iure quaesita, nec non quemlibet specialem procedendi modum, ab Apostolica Sede approbatum.
->
+
 > **3.** Semper integram suam vim retinent tum ius vigens apud Ecclesias Orientales, quoad Episcoporum electionem, tum praxis proponendi candidatos pro iis circumscriptionibus ecclesiasticis, quae religiosas sodalitatibus sunt concreditae et auctoritati Sacrae Congregationis pro Gentium Evangelizatione sunt obnοxiae.
->
+
 > **VII**
 
 Firmas manentibus partibus Conferentiarum Episcopalium quoad expromenda vota et consilia de erectione, dismembratiοne et suppressione dioecesium vel provinciarum ecclesiasticarum, et salva Ecclesiarum Orientalium disciplina, Legatus Pontificius harum quaestionum studium, ubi opus sit, ipse promoveat et quid Conferentia Episcopalis de hac re proponat, una cum proprio voto, competenti Apostolicae Sedis Dicasteriο significet.
@@ -99,41 +99,41 @@ Firmas manentibus partibus Conferentiarum Episcopalium quoad expromenda vota et 
 **VIII**
 
 > **1.** Quod attinet ad rationes habendas cum Episcopis, quibus ex divino mandato animorum cura in singulis dioecesibus commissa est, Legatus Pontificius, integram relinquens Episcopis eorum iurisdictionis exercitium, iis opem ferre, consilia dare, prompte generoseque suam operam praestare debet, fraterno consociatae operae spiritu permotus.
->
+
 > **2.** Ad rationes cum Conferentiis Episcopalibus quod spectat, Legatus Pontificius meminerit earum munera et officia summa esse momenti, ac propterea crebras cum illis relations esse fovendas, et omnimodam opem praestandam. Quamvis ex iure membrum Conferentiae non sit, nihilominus ipse primo coetui cuiusvis sessionis generalis intererit, salvo iure participandi alios Conferentiae coetus ex ipsorum Episcoporum invitatione aut ex expresso Apostolicae Sedis mandato; praeterea ipsi notae fient tempore utili quaestiones in sessione tractandae, atque exemplar actorum mittetur, ut ipse de his certior reddatur eademque ad Apostolicam Sedem transmittat.
 
 **IX**
 
 > **1.** Attenta natura iuridica Communitatum Religiosarum iuris pontificii, atque opportunitate roborandi internam earum unitatem earumque coniunctionem intra atque extra fines Nationis, ad Legatura Romani Pontificis spectat consilio et opera adesse Superioribus Maioribus, qui in legationis suae territorio commorantur; eo quidem proposito, ut Religiosorum Religiosarumque Conferentiae promoveantur et confirmentur, atque ut apto inter se ordine conectantur varia Institutorum Religiosorum opera ad actionem pastoralem, ad educationem, ad auxilia egenis praebenda et ad rem socialem spectantia, plene servatis tum normis ab Apostolica Sede latis, tum rationibus cum loci Conferentiis Episcopalibus.
->
+
 > **2.** Quapropter Legatus Pontificius intererit primo coetui Conferentiarum Religiosorum Religiosarumque, itemque iis actibus qui, mito consilio cum Superioribus Maioribus, ipsius praesentiam postulare videantur; tempore autem utili ipse de quaestionibus in sessione tractandis certior fiet, eidemque exemplar actorum mittetur, ut ea cognoscat atque ad competens Romanae Curiae Dicasterium transmittat.
->
+
 > **3.** Votum Legati Pontificia necessarium est, una cum voto Episcoporum, quorum intersit, quotiescumque Congregatio religiosa, cuius Domus Princeps in territorio legationis sita sit, sibi proponit Apostolicae Sedis approbationem et titulum «iuris pontificii» consequi.
->
+
 > **4.** Ad Instituta Saecularia quod attinet, Legatus Pontificius iisdem muneribus fungitur de quibus in nn. 1, 2, 3, congrua congruis referendo.
 
 **X**
 
 > **1.** Rationes, quae inter Ecclesiam et Civitatem intercedunt, foventur regulariter a Pontificio Legato, cui munus proprium ac peculiare committitur agendi nomine et auctoritate Apostolicas Sedas: *a)* ut promoveat ac foveat necessitudines inter Apostolicam Sedem et Gubernium Nationis apud quam legationem suam exercet; *b)* ut quaestiones pertractet quae ad rationes inter Ecclesiam et Civitatem pertinent; *c)* ut, denique, peculiari modo tractet de stipulationibus quae «modus vivendi» appellantur, de pactas et concordatis, nec non de conventionibus, quae de negotiis agunt ad ius publicum pertinentibus.
->
+
 > **2.** In his negotiis expediendis, modo ac ratione, quae rerum adiuncta suadeant, Legatus Pontificius utiliter sententiam et consilium Episcoporum exquiret, eosque certiores faciet de negotiorum cursu.
->
+
 > **XI**
->
+
 > **1.** Ubi desit Delegatus vel Observator Sanctae Sedis apud Consilia Internationalia, Legati Pontificii est diligenter persequi agendorum negotiorum rationes ab iisdem Consiliis statutas. Ipsi praeterea curae erit: *a)* de his Apostolicam Sedem statis temporibus certiorem facere; *b)* collatis consiliis cum Episcopis frugiferam mutuamque operam fovere inter Instituta ad auxilium et educationem spectantia ab Ecclesia condita ac cetera similia Instituta, sive his Gubernia intersunt sive non intersunt; *c)* navitatem Consiliorum Internationalium Catholicorum sustinere ac promovere.
->
+
 > **2.** Delegati et Observatores Sanctae Sedis apud Consilia Internationalia munus sibi concreditum absolvant, consiliis initis cum Legato Pontificio Nationis, in qua commorantur.
->
+
 > **XII**
->
+
 > **1.** Sedes Legationis pontificiae a iurisdictione Ordinarii loci exempta est.
->
+
 > **2.** Legatus Pontificius in Oratorio suae sedis, potest sacerdotibus concedere facultatem excipiendi confessiones, facultates proprias exercere, ibique actus divini cultus et sacras caerimonias peragere, semper tamen congruenter cum normis in territorio vigentibus et, ubi expediat, certiore facta auctoritate ecclesiastica, cuius intersit.
->
+
 > **3.** Legato Pontificio fas est, praemonitis, quantum fieri poterit, locorum Ordinariis, in omnibus ecclesiis intra fines suae legationis populo benedicere et officia divina etiam in pontificalibus peragere.
->
+
 > **4.** Intra suae legationis fines, Legatus Romani Pontificis praecedit Archiepiscopos et Episcopos, non autem Sacri Collegii Membra, neque Patriarches Ecclesiarum Orientalium, vel in proprio territorio degentes, vel alibi sacra proprio ritu peragentes.
->
+
 > **5.** Iura et privilegia sive personae sive sedi Pontificii Legati inhaerentia eo consilio concessa sunt, ut ipse Legatus, iis moderate et prudenter utendo, propriam indolem suae legationis clarius manifestet et adimplendum sibi ministerium facilius perficiat.
 
 Quae vero a Nobis hisce Litteris, motu proprio datis, decreta sunt, ea omnia rata ac firma esse iubemus, contrariis quibuslibet, etiam specialissima mentione dignis, non obstantibus.

@@ -1,9 +1,5 @@
 # Um novo documento da Comissão Teológica Internacional: O Sentido da Fé de Serge-Thomas Bonino, 2014
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Um novo documento da Comissão Teológica Internacional:***
 
 ***O SENTIDO DA FÉ***
@@ -31,5 +27,3 @@ A opinião pública, apesar de ter um lugar próprio na Igreja, não pode desemp
 ------------------------------------------------------------------------
 
 *L'Osservatore Romano*, ed. semanal em português, n. 26 de 26/06/2014
-
-[](#top)

@@ -92,5 +92,3 @@ In quel giorno, o anche in altre occasioni opportune, parlate a tutto il Popolo 
 Nel desiderio vivissimo delle annunciate celebrazioni, mi è caro impartire a tutti voi, venerati e carissimi fratelli nell'Episcopato, e, insieme con voi, alle vostre singole comunità ecclesiali, la mia particolare benedizione apostolica.
 
 *Dato in Roma, presso san Pietro, il 25 marzo 1981, Solennità dell'Annunciazione del Signore, terzo anno del Pontificato.*
-
-* *

@@ -1,13 +1,5 @@
 # Glaube und Inkulturation, 1988
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 INTERNATIONALE THEOLOGISCHE KOMMISSION
@@ -15,8 +7,6 @@ INTERNATIONALE THEOLOGISCHE KOMMISSION
 **GLAUBE UND INKULTURATION**[^1]
 
 \(1988\)
-
-** **
 
 Einleitung
 

@@ -1,9 +1,5 @@
 # Redemptionis Sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA O CULTO DIVINO E A DISCIPLINA DOS SACRAMENTOS**
 
 **INSTRUÇÃO**
@@ -583,8 +579,6 @@ Sem que se justifique, por nada, em contrário. Esta Instrução, preparada por 
 \[138\] Missale Romanum, Institutio Generalis, n. 57; cf. João Paulo II, Carta Apostólica, *Vicesimus quintus annus*, n. 13: AAS 81 (1989) p. 910; Congregação para a Doutrina da Fé, Declaração sobre a unicidade e universalidade salvífica de Jesus Cristo e da Igreja, *Dominus Iesus*, 6 de agosto de 2000: AAS 92 (2000) pp. 742-765.
 
 \[272\] João Paulo II, Carta Encíclica, *Ecclesia de Eucharistia*, n. 30: AAS 95 (2003) pp. 453-454; cf. também Pont. Conselho para a Promoção da Unidade dos Cristãos, Direct. para a aplicação dos princípios e as normas sobre o ecumenismo, *Le recherche de l'unité*,   25 de março de 1993, n. 115: AAS 85 (1993) pp. 1039-1119, isto p. 1085.
-
-[](#top)
 
 [^1]: Cf. Missale Romanum, *ex decreto sacrosancti Oecumenici Concilii Vaticani II instauratum, auctoritate Pauli Pp. VI promulgatum, Ioannis Pauli Pp. II cura recognitum*, editio typica tertia,  20 de abril de 2000, Typis Vaticanis, 2002, Missa votiva de Dei misericordia, oratio super oblata, p. 1159.
 

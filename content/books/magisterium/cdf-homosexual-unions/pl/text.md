@@ -1,9 +1,5 @@
 # UWAGI DOTYCZĄCE PROJEKTÓW LEGALIZACJI ZWIĄZKÓW MIĘDZY OSOBAMI HOMOSEKSUALNYMI
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY
 
 ***UWAGI DOTYCZĄCE PROJEKTÓW LEGALIZACJI ZWIĄZKÓW MIĘDZY OSOBAMI HOMOSEKSUALNYMI***
@@ -129,5 +125,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 3 czerwca 2003 r., wspomnienie świę
 ¹⁷ Poza tym nie należy zapominać, że istnieje zawsze «  niebezpieczeństwo, że ustawodawstwo uznające homoseksualizm za powód do domagania się praw mogłoby w praktyce zachęcić osoby o skłonności homoseksualnej do jej ujawniania, a nawet do poszukiwania partnera w celu lepszego wykorzystania możliwości prawnych  » (Kongregacja Nauki Wiary, *Uwagi dotyczące odpowiedzi na propozycje ustaw o niedyskryminacji osób homoseksualnych*, 24 lipca 1992, n. 14).
 
 ¹⁸ Jan Paweł II, Encyklika *Evangelium vitae*, 25 marca 1995, n. 73.
-
-[](#top)

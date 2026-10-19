@@ -1,13 +1,5 @@
 # Jesus Christ, Son of God, Savior: 1700th Anniversary of the Ecumenical Council of Nicaea
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 INTERNATIONAL THEOLOGICAL COMMISSION

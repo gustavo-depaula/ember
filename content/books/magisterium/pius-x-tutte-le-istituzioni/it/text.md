@@ -21,17 +21,17 @@ I. *Della costituzione della Cappella*.
 Art. 1. La Cappella Sistina si compone:
 
 > a\) di un Maestro Direttore,
->
+
 > b\) di un Vice-Maestro,
->
+
 > c\) di due primi tenori e due primi bassi,
->
+
 > d\) di tre secondi tenori e tre secondi bassi,
->
+
 > e\) di tre tenori e tre bassi soprannumeri,
->
+
 > f\) di trenta ragazzi,
->
+
 > g\) di un segretario archivista.
 
 Dovendo essere il coro composto sempre di voci fresche e nella pienezza dei mezzi vocali, le nomine dei cantori adulti si faranno con scrittura di cinque anni. Sulla riconferma per i quinquennii successivi delibererà un'apposita Commissione.
@@ -45,9 +45,9 @@ Art. 3. I *sacerdoti*, gli antichi *alunni* della *Schola puerorum*, a parità d
 Art. 4. Ogni concorrente al posto di cantore, oltre ad un saggio sulla estensione e qualità della propria voce, dovrà dare l'esame su le seguenti materie :
 
 > a\) solfeggio cantato sul setticlavio e dettato musicale,
->
+
 > b\) esecuzione a prima vista di un pezzo polifonico,
->
+
 > c\) teoria ed esecuzione del canto gregoriano.
 
 Art. 5. Dovrà ogni singolo concorrente presentare la Fede di Battesimo e gli attestati di buona condotta, rilasciati dal Parroco e dal Sindaco.

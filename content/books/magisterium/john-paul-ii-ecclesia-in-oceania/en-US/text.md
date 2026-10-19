@@ -351,8 +351,6 @@ This is not the place for an exhaustive listing of the many social services offe
 
 Frequently, volunteers give their time, energy and professional services to these apostolates without remuneration. For those who have chosen self-sacrificing love as their way of life, no human acknowledgment or reward is sought, nor would any be adequate. Their overarching concern is to play their part in the Church's mission to tell the truth of Jesus Christ, to walk his way and to live his life. These people are fundamental to any planning for a new evangelization of the peoples of Oceania. Faith is awakened by the preaching of God's word and hope is inspired by the promise of his Kingdom, but charity is infused by the Holy Spirit, "the Lord and Giver of life".
 
-* *
-
 CHAPTER IV
 
 **LIVING THE LIFE OF JESUS CHRIST IN OCEANIA**

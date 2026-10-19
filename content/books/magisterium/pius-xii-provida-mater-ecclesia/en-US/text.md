@@ -59,8 +59,6 @@ CONCERNING SECULAR INSTITUTES
 
 26\. The executive body with delegated plenary powers is the Sacred Congregation for Religious.*** ***
 
-*** ***
-
 ***The Law of Secular Institutes**** *
 
 Art. I - Societies, clerical or lay, whose members make profession of the evangelical counsels, living in a secular condition for the purpose of Christian perfection and full apostolate shall be distinguished from all other associations (C.I.C. Pars Tertia, Lib. II ) by the name of Institutes or Secular Institutes and shall be governed by this present Apostolic Constitution. 

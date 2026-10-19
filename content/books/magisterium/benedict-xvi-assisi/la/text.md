@@ -34,5 +34,3 @@ Haec auctoritate Nostra decernimus et statuimus, contrariis rebus minime quibusl
 *Datum Romae, apud S. Petrum, die IX mensis Novembris, in dedicatione Basilicae Lateranensis, anno Domini MMV, Pontificatus Nostri primo*.
 
 **BENEDICTUS PP. XVI**
-
-** **

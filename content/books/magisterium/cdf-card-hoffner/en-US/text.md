@@ -1,9 +1,5 @@
 # Letter to His Eminence, Cardinal Joseph Höffner, Archbishop of Cologne, regarding the "Opera degli angeli" (Work of the angels), 24 September 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 **Letter to His Eminence, Cardinal Joseph Höffner, Archbishop of Cologne, regarding the “Opera degli angeli (Work of the angels)”**
@@ -33,5 +29,3 @@ I take this opportunity to express my most sincere sentiments of esteem to your 
 Titular Archbishop of Lorium *Secretary*
 
 Rome, September 24, 1983.
-
-[](#top)

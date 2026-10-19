@@ -1,9 +1,5 @@
 # Instruction Dignitas Connubii
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONSEIL PONTIFICAL POUR LES TEXTES LÉGISLATIFS
 
 ###  
@@ -1719,5 +1715,3 @@ Donné à Rome, au siège du Conseil Pontifical pour les Textes Législatifs, le
 \(24\) Cf. Jean-Paul II, Alloc. aux auditeurs de la Rote Romaine, 5 fév. 1987, in *AAS* 79 (1987), pp. 1453-1459, et 25 janv. 1988, in *AAS* 80 (1988), pp. 1178-1185.
 
 \(25\) Cf. Jean-Paul II, Alloc. aux auditeurs de la Rote Romaine, 22 janv. 1996, n^(o) 4, in *AAS* 88 (1996), pp. 773-777.
-
-[](#top)

@@ -1,15 +1,5 @@
 # Lettera \<i>Placuit Deo\</i> ai Vescovi della Chiesa cattolica su alcuni aspetti della salvezza cristiana
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE

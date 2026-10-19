@@ -1,9 +1,5 @@
 # L'istinto che guida i cristiani - Suor Sara Butler
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Nel documento della Commissione Teologica Internazionale sul «sensus fidei»
 
 ***L’istinto che guida i cristiani***
@@ -31,5 +27,3 @@ Il secondo capitolo affronta il *sensus fidei* nella vita del credente, il *sens
 ------------------------------------------------------------------------
 
 *L'Osservatore Romano*, ed. quotidiana, Anno CLIV, n.140, Dom. 22/06/2014
-
-[](#top)

@@ -1,15 +1,5 @@
 # Auszug aus der Ansprache von Papst Franziskus während der Audienz für die Teilnehmer der Vollsversammlung des Dikasteriums für die Glaubenslehre
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Auszug aus der Ansprache von Papst Franziskus während der [Audienz für die Teilnehmer der Vollsversammlung des Dikasteriums für die Glaubenslehre](https://www.vatican.va/content/francesco/de/events/event.dir.html/content/vaticanevents/de/2024/1/26/plenaria-ddf.html)**

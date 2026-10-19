@@ -17,5 +17,3 @@ Disponiamo che ciò che *motu proprio* abbiamo decretato con questa Nostra Lette
 Inoltre ordiniamo che esso abbia vigore dal momento in cui questa Nostra Lettera Apostolica verrà pubblicata nel Commentario Ufficiale intitolato *Acta Apostolicae Sedis*.
 
 *Dato a Roma, presso San Pietro, il 16 dicembre 1947, anno nono del Nostro Pontificato.*
-
-* *

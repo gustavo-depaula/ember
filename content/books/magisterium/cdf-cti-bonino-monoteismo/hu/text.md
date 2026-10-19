@@ -1,9 +1,5 @@
 # Az „Isten nevében” történő erőszak eretneksége, (Serge-Thomas Bonino, O.P., a Nemzetközi Teológiai Bizottság általános titkára)
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **AZ „ISTEN NEVÉBEN” TÖRTÉNŐ ERŐSZAK ERETNEKSÉGE**
 
 (Serge-Thomas Bonino, O.P., a Nemzetközi Teológiai Bizottság általános titkára)
@@ -25,5 +21,3 @@ Az egyistenhitről és erőszakról szóló vitában a dokumentum figyelmet ford
 A másik könnyű apologetikus megoldás a keresztény hitnek az értelemtől való elkülönítése lett volna: igen, megengedjük, hogy a vallás az erőszak tényezője, de tüstént pontosítjuk, hogy a kereszténység nem az értelemből, hanem a hitből származik. Ellenkezőleg a dokumentum hangsúlyozza a vallási tapasztalatnak – mint olyannak – a belső értékét. Amint a kegyelem nem lerombolja a természetet, hanem meggyógyítja és beteljesedésére vezeti, úgy a keresztény hit is az emberi állapot vallásos dimenzióját ölti magára. Megtisztítja azt, miközben visszavezeti a hiteles lényegéhez, amivel elválaszthatatlanul egyesíti az Isten és az embertárs szeretetét, oly módon, hogy minden Isten nevében végbevitt erőszak „a vallási tapasztalat *megkárosítása*” (25. p.).
 
 Ez a pont alapvető jelentőségű a vallásközi párbeszédben. A katolikus teológusok – akik ezt a dokumentumot megfogalmazták – nem akartak egyéb egyistenhívő vallások híveinek nevében beszélni, de meghívják őket is, hogy kezdeményezzenek hasonló megtisztulási folyamatot a saját hagyományaikban. Amennyiben azok egy hiteles vallás megjelenítői, nem tehetnek mást, mint hogy visszautasítják a vallási erőszakot. Nem kifejező az, hogy Boldog II. János Pál pápa az 1986-os assisi vallásközi találkozót a béke jele alá helyezte? Távol attól, hogy a vallások a megoszlás tényezői lennének, amikor hűségesek maradnak lényegükhöz, és semmit meg nem tagadnak az abszolút iránti érzékükből, a béke kovászaivá válnak. Íme, ezért jelentene öngyilkosságot a szociális és politikai élettől való elválasztásuk.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Sensus fidei in het leven van de Kerk
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 INTERNATIONALE THEOLOGISCHE COMMISSIE
 
 ***SENSUS FIDEI*IN HET LEVEN VAN DE KERK**
@@ -455,8 +451,6 @@ Vertaling uit het Engelse origineel door Maria ter Steeg
 onder supervisie van Adelbert Denaux
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Paus Franciscus, Toespraak bij het Angelus, 17 maart 2013.
 

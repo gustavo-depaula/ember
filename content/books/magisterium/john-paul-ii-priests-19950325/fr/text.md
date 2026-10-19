@@ -99,5 +99,3 @@ Veuille la Vierge Sainte nous regarder tous avec une affection particulière, no
 Invoquant sur vous tous la protection de Marie, Mère de l'Église, Mère des prêtres, je vous bénis avec affection.
 
 *Du Vatican, le 25 mars 1995, solennité de l'Annonciation du Seigneur.*
-
-*  *

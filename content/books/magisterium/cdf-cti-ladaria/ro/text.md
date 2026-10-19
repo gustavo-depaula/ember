@@ -1,9 +1,5 @@
 # Creștinismul și religiile - Prezentarea documentului Comisiei Teologice Internaționale
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 Creștinismul și religiile
 
 Prezentarea documentului Comisiei Teologice Internaționale
@@ -75,7 +71,5 @@ Pe de o parte documentul încearcă să admită și să respecte valoarea religi
 **+ Luis F. Ladaria**
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *De res. mort.* 6, 3: «Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus».

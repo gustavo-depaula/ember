@@ -1,13 +1,5 @@
 # La terre n'est pas séparée du ciel. Lettre à l'Évêque de Trivento (Italie) à propos des présumés phénomènes surnaturels liés au Mont S. Onofrio
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI
@@ -93,11 +85,11 @@ Il faut travailler dans ce sens, en espérant une croissance de la compréhensio
 Le *prae oculis habeatur* n’admet pas encore le culte public, cette dernière expression désignant les actes liturgiques accomplis « au nom de l’Église par les personnes légitimement députées, et par les actes approuvés par l’autorité de l’Église » (*Code de Droit Canonique*, can. 834 § 2). Par conséquent, ce jugement *exclut* les éléments suivants :
 
 > 1\) la célébration de rites liturgiques dans les lieux liés au phénomène sans l’approbation explicite de l’autorité ecclésiastique compétente ;
->
+
 > 2\) les pèlerinages ou autres événements pastoraux d’importance publique organisés par des paroisses ou d’autres structures ecclésiastiques ;
->
+
 > 3\) la possibilité de divulguer, sans l’approbation de l’autorité ecclésiastique, le phénomène et ses présumés messages ;
->
+
 > 4\) l’activité d’hébergement de personnes souhaitant partager cette expérience.
 
 Toutefois, étant donné qu’aucun élément grave ne justifie des mesures supplémentaires, *le culte privé est autorisé* : la visite individuelle, en couple ou en très petits groupes, dans ce cas au lieu où se trouve la croix érigée sur le Mont S. Onofrio avant le début des présumés phénomènes, ou le long du chemin de croix aménagé pour accompagner par la prière l’ascension du Mont.

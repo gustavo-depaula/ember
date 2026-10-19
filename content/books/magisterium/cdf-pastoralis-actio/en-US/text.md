@@ -1,13 +1,5 @@
 # INSTRUCTION ON INFANT BAPTISM
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Sacred Congregation for the Doctrine of the Faith**
@@ -133,7 +125,7 @@ If it is understood in this way, the practice of infant Baptism is truly evangel
 Concretely, pastoral practice regarding infant Baptism must be governed by two great principles, the second of which is subordinate to the first.
 
 > 1\) Baptism, which is necessary for salvation, is the sign and the means of God's prevenient love, which frees us from original sin and communicates to us a share in divine life. Considered in itself, the gift of these blessings to infants must not be delayed.
->
+
 > 2\) Assurances must be given that the gift thus granted can grow by an authentic education in the faith and Christian life, in order to fulfill the true meaning of the sacrament.\[37\] As a rule, these assurances are to be given by the parents or close relatives, although various substitutions are possible within the Christian community. But if these assurances are not really serious there can be grounds for delaying the sacrament; and if they are certainly non-existent the sacrament should even be refused.
 
 **Dialogue Between Pastors and Believing Families**
@@ -185,8 +177,6 @@ From this viewpoint it is important to intensify pastoral care of engaged couple
 **Franjo Cardinal Seper** *Prefect*
 
 **Fr. Jerome Hamer, O.P.** Titular Archbishop of Lorium *Secretary*
-
-* *
 
 ------------------------------------------------------------------------
 

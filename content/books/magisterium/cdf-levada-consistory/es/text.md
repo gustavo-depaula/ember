@@ -1,16 +1,10 @@
 # Palabras del cardenal Levada durante el consistorio del 24 de marzo de 2006
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONSISTORIO ORDINARIO PÚBLICO
 
 ***PALABRAS DEL*** ***CARDENAL WILLIAM JOSEPH LEVADA DURANTE EL CONSISTORIO***
 
 *Viernes 24 de marzo de 2006 *
-
-* *
 
 *Santo Padre: *  
 
@@ -29,5 +23,3 @@ Me complace evocar el pasaje de la catequesis que Su Santidad impartió el pasad
 Nosotros hoy invocamos, de un modo especial, al Espíritu Santo para que sostenga con su luz y su fuerza el ministerio apostólico de Su Santidad y nos dé a todos nosotros, llamados a cooperar al servicio del Sucesor de Pedro, y a los que nos acompañan con su presencia, sus oraciones y su afecto, la generosidad en el compromiso cristiano y la alegría de sentirnos y seguir siendo siempre servidores del Evangelio.  
 
 Que nos asista la Virgen María, Madre de la Iglesia y Reina de los Apóstoles, en la inminencia de la solemnidad litúrgica de la Anunciación. Que su *fiat* sea también el nuestro.
-
-[](#top)

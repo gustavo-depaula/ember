@@ -1,9 +1,5 @@
 # Deus Trindade, unidade dos homens. O monoteísmo cristão contra a violência, 17 de janeiro de 2014
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISSÃO TEOLÓGICA INTERNACIONAL**
 
 **Deus Trindade, unidade dos homens**
@@ -345,8 +341,6 @@ Na linha do modelo aperfeiçoado por S. Tomás, a filosofia pode aceder ao conhe
 ------------------------------------------------------------------------
 
 *Fabricatorem et Factorem et Nutritorem nostrum*” (*Adversus Haereses* IV, 6,2; e ainda *Adv. Haer*. IV, 20, 4; *Sources Chrétiennes,* vol. 100, 441). Igualmente TERTULLIANO, *Adversus Marcionem*, passim.
-
-[](#top)
 
 [^1]: CONCÍLIO VATICANO I (1869-1870), Constituição dogmática *Dei Filius*, cap. 2 (DH 3004): “\[…\] Ecclesia tenet et docet, Deum, rerum omnium principium et finem, naturali humanae rationis lumine e rebus creatis certo cognosci posse”.
 

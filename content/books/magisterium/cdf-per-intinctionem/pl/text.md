@@ -1,13 +1,5 @@
 # ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI, 24 września 1983 r.
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 ŚWIĘTA KONGREGACJA NAUKI WIARY
@@ -43,8 +35,6 @@ Odp.: *Tak.*
 Czy Ordynariusz miejsca może pozwolić, by wyżej wspomnianym wiernym konsekrowano specjalne hostie, z których całkowicie usunięto gluten?
 
 Odp.: *Nie.*
-
-* *
 
 *W czasie Audiencji, udzielonej niżej podpisanemu Sekretarzowi Świętej Kongregacji Nauki Wiary, Jego Świątobliwość Ojciec Święty Jan Paweł II zaaprobo­wał powyższą «Odpowiedz» i polecił ogłosić według prawa.*
 

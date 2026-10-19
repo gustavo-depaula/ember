@@ -100,9 +100,9 @@ Felizmente llevado a término cuanto he dicho, todo estaba a punto para la promu
 **Artículo 3***.* Las finalidades de las Facultades eclesiásticas son:
 
 > § 1. Cultivar y promover, mediante la investigación científica, las propias disciplinas y, ante todo, ahondar cada vez más en el conocimiento de la Revelación cristiana y de lo relacionado con ella, estudiar a fondo sistemáticamente las verdades que en ella se contienen, reflexionar a la luz de la Revelación sobre las cuestiones que plantea cada época, y presentarlas a los hombres contemporáneos de manera adecuada a las diversas culturas;
->
+
 > § 2. dar una formación superior a los alumnos en las propias disciplinas según la doctrina católica, prepararlos convenientemente para el ejercicio de los diversos cargos y promover la formación continua o permanente de los ministros de la Iglesia;
->
+
 > § 3. prestar su valiosa colaboración, según la propia índole y en estrecha comunión con la jerarquía, a las Iglesias particulares y a la Iglesia universal en toda la labor de evangelización.
 
 **Artículo 4.** Es un deber de las Conferencias Episcopales, dada la peculiar importancia eclesial de las Universidades y Facultades eclesiásticas, promover con solicitud su vida y su progreso.
@@ -118,7 +118,7 @@ Felizmente llevado a término cuanto he dicho, todo estaba a punto para la promu
 **Artículo 9**. § 1. Las Facultades, que no hayan sido canónicamente erigidas o aprobadas por la Santa Sede, no pueden conferir grados académicos que tengan valor canónico.
 
 > § 2. Para que los grados conferidos en estas Facultades puedan tener valor en orden a algunos efectos canónicos, necesitan el reconocimiento de la Sagrada Congregación para la Educación Católica.
->
+
 > § 3. Para obtener este reconocimiento, además de requerirse para cada uno de los grados alguna causa especial, deberán cumplirse las condiciones establecidas por la misma Sagrada Congregación.
 
 **[Artículo 10](#art._10)**. Para la recta ejecución de esta Constitución, se deben observar las Normas dadas por la Sagrada Congregación para la Educación Católica.
@@ -176,9 +176,9 @@ Felizmente llevado a término cuanto he dicho, todo estaba a punto para la promu
 > > 3\) que haya probado su idoneidad para la investigación científica de manera documentalmente segura, sobre todo mediante la publicación de trabajos científicos;
 > >
 > > 4\) que demuestre tener aptitud pedagógica para la enseñanza.
->
+
 > § 2. Estos requisitos, que valen para la asunción de profesores estables, se han de aplicar proporcionalmente a los profesores no estables.
->
+
 > § 3. Para la asunción de los profesores se deben tener presentes los requisitos científicos vigentes en la práctica universitaria de la región.
 
 **Artículo 26**. § 1. Todos los profesores de cualquier grado deben distinguirse siempre por su honestidad de vida, su integridad doctrinal y su diligencia en el cumplimiento del deber, de manera que puedan contribuir eficazmente a conseguir los fines de la Facultad eclesiástica.
@@ -242,15 +242,15 @@ Felizmente llevado a término cuanto he dicho, todo estaba a punto para la promu
 > > > *a)* que la verdadera libertad de enseñanza está contenida necesariamente dentro de los confines de la Palabra de Dios, tal como es enseñada constantemente por el Magisterio vivo de la Iglesia;
 > > >
 > > > *b)* igualmente que la verdadera libertad de investigación se apoya necesariamente en la firme adhesión a la Palabra de Dios y en la actitud de aceptación del Magisterio de la Iglesia, al cual ha sido confiado el deber de interpretar auténticamente la Palabra de Dios.
->
+
 > § 2. Consiguientemente, en materia tan importante y que requiere tanta prudencia, se debe proceder con confianza y sin sospechas, pero también con juicio y sin temeridad, sobre todo en el campo de la enseñanza; se deben armonizar además cuidadosamente las exigencias científicas con las necesidades pastorales del Pueblo de Dios.
 
 **Artículo 40**. En toda Facultad se ordene convenientemente el plan de estudios, a través de diversos grados o ciclos según las exigencias de la materia; de manera que generalmente:
 
 > *a)* se ofrezca en primer lugar una información general, mediante la exposición coordinada de todas las disciplinas, junto con la introducción al uso del método científico;
->
+
 > *b)* sucesivamente se aborde con mayor profundidad el estudio de un sector particular de las disciplinas y al mismo tiempo se ejercite más de lleno a los alumnos en el uso del método de investigación científica;
->
+
 > *c)* finalmente, se vaya llegando progresivamente a la madurez científica, en particular mediante la elaboración de un trabajo escrito, que contribuya efectivamente al adelanto de la ciencia.
 
 **Artículo 41**. § 1. Se determinen las disciplinas que se requieren necesariamente para lograr el fin de la Facultad, como también aquellas que, de diverso modo, ayudan a conseguir tal finalidad, y se indique consiguientemente cómo se distingan entre sí.
@@ -282,7 +282,7 @@ Felizmente llevado a término cuanto he dicho, todo estaba a punto para la promu
 **Artículo 49**. § 1. Nadie puede conseguir un grado académico, si no se ha inscripto regularmente en la Facultad, no ha terminado el plan de estudios prescritos por los estatutos y no ha superado positivamente los relativos exámenes o pruebas.
 
 > § 2. Nadie puede ser admitido al doctorado, si no ha conseguido previamente la licenciatura.
->
+
 > § 3. Para conseguir el doctorado se requiere además una disertación doctoral que contribuya efectivamente al progreso de la ciencia, que haya sido elaborada bajo la guía de un profesor, discutida públicamente, aprobada colegialmente y publicada al menos en su parte principal.
 
 **Artículo 50**. § 1. El doctorado es el grado académico que habilita, y se requiere, para enseñar en una Facultad; la licenciatura por su parte habilita, y se requiere, para enseñar en un seminario mayor o en una escuela equivalente.
@@ -364,19 +364,19 @@ Felizmente llevado a término cuanto he dicho, todo estaba a punto para la promu
 **Artículo 72**. El plan de estudios de las Facultades de Sagrada Teología comprende:
 
 > *a)* el primer ciclo, institucional, que dura un quinquenio o diez semestres, o también un trienio, si anteriormente se ha exigido un bienio de filosofía.
->
+
 > Además de una sólida formación en filosofía, cuyo estudio es necesariamente propedéutico a la teología, las disciplinas teológicas deben ser enseñadas de modo que se ofrezca una exposición orgánica de toda la doctrina católica junto con la introducción al método de la investigación científica.
->
+
 > El ciclo se concluye con el grado académico del bachillerato o con otro grado similar tal como se precisará en los estatutos de la Facultad;
->
+
 > *b)* el segundo ciclo, de especialización, dura un bienio o cuatro semestres.
->
+
 > En él se enseñan las disciplinas especiales según la diversa índole de la especialización y se tienen seminarios y ejercitaciones para conseguir práctica en la investigación científica.
->
+
 > El ciclo se concluye con el grado académico de la licenciatura especializada;
->
+
 > *c)* el tercer ciclo, en el cual durante un determinado período de tiempo se perfecciona la formación científica, especialmente a través de la elaboración de la tesis doctoral.
->
+
 > El ciclo se concluye con el grado académico del doctorado.
 
 **Artículo 73**. § 1. Para que uno pueda inscribirse válidamente en la Facultad de Sagrada Teología es necesario que haya terminado los estudios precedentes, exigidos a norma del art. 32 de esta Constitución.
@@ -396,15 +396,15 @@ Felizmente llevado a término cuanto he dicho, todo estaba a punto para la promu
 **Artículo 76**. El plan de estudios en la Facultad de Derecho Canónico comprende:
 
 > a\) el primer ciclo, que debe durar al menos un año, o dos semestres, durante el cual se estudian las instituciones generales del Derecho Canónico y aquellas disciplinas que se exigen para una formación jurídica superior;
->
+
 > b\) el segundo ciclo, que debe durar un bienio, o cuatro semestres y que se dedica a un estudio profundo del Código de Derecho Canónico completo y al mismo tiempo de las disciplinas afines;
->
+
 > c\) el tercer ciclo, que debe durar al menos un año, o dos semestres, durante el cual se perfecciona la formación jurídica y se elabora la tesis doctoral.
 
 **Artículo 77**. § 1. Para las disciplinas prescritas en el primer ciclo, la Facultad puede servirse de cursos tenidos en otras Facultades, reconocidos por ella como correspondientes a las propias exigencias.
 
 > § 2. El segundo ciclo se concluye con la licenciatura y el tercero con el doctorado.
->
+
 > § 3. Los estatutos de la Facultad deben definir los requisitos particulares para la consecución de los grados académicos, habida cuenta de las prescripciones de la Sagrada Congregación para la Educación Católica.
 
 **Artículo 78**. Para que uno pueda inscribirse en la Facultad de Derecho Canónico es necesario que haya terminado los estudios exigidos, a tenor del art. 32 de esta Constitución.
@@ -422,9 +422,9 @@ Artículo 79. § 1. La Facultad eclesiástica de Filosofía tiene como finalidad
 **Artículo 81**. El plan de estudios de la Facultad de Filosofía comprende:
 
 > a\) el primer ciclo institucional, durante el cual a lo largo de un bienio o cuatro semestres, se hace una exposición orgánica de las distintas partes de la filosofía que tratan del mundo, del hombre y de Dios, como también de la historia de la filosofía, juntamente con la introducción al método de investigación científica;
->
+
 > b\) el segundo ciclo, en el cual se inicia la especialización y durante el cual, por espacio de un bienio o cuatro semestres y mediante el estudio de disciplinas especiales y seminarios, se abre camino a una reflexión más profunda sobre alguna parte de la filosofía;
->
+
 > c\) el tercer ciclo, en el cual, durante un conveniente período de tiempo, se promueve la madurez filosófica, especialmente a través de la elaboración de la tesis doctoral.
 
 **Artículo 82**. El primer ciclo se concluye con el bachillerato, el segundo con la licenciatura especializada, el tercero con el doctorado.
@@ -438,11 +438,11 @@ Artículo 79. § 1. La Facultad eclesiástica de Filosofía tiene como finalidad
 **Artículo 84**. Además de las Facultades de Sagrada Teología, de Derecho Canónico y de Filosofía, han sido erigidas o pueden ser erigidas canónicamente otras Facultades eclesiásticas, teniendo en cuenta las necesidades de la Iglesia, con objeto de conseguir algunas finalidades particulares, como por ejemplo:
 
 > a\) un conocimiento profundo en algunas disciplinas de mayor importancia entre las disciplinas teológicas, jurídicas, filosóficas;
->
+
 > b\) la promoción de otras ciencias, en primer lugar las ciencias humanas, que tengan más estrecha conexión con las disciplinas teológicas o con la labor de evangelización;
->
+
 > c\) el estudio profundo de las letras, que ayuden de modo especial tanto a comprender mejor la Revelación cristiana, como a desarrollar con mayor eficacia la tarea de evangelización;
->
+
 > d\) finalmente, una más cuidada preparación tanto de los eclesiásticos como de los seglares para desempeñar dignamente algunas funciones apostólicas especiales.
 
 **Artículo 85**. Para conseguir los fines expuestos en el artículo precedente, han sido ya erigidas y habilitadas para conferir grados académicos con autoridad de la Santa Sede, las siguientes Facultades o Institutos *ad instar Facultatis*:
@@ -514,13 +514,13 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 *Art. 5*. Las Conferencias Episcopales, también en esta materia en unión con la S. Sede, tendrán especial solicitud por las Universidades y las Facultades; y por tanto:
 
 > 1° fomentarán, en unión con el Gran Canciller, su progreso y, salva la autonomía de la ciencia según la mente del Concilio Vaticano II, se mostrarán solícitas ante todo por su condición científica y eclesial;
->
+
 > 2° ayudarán a la actividad de las Facultades, la inspirarán y coordinarán convenientemente en cuanto se refiere a las cuestiones comunes dentro de los límites de la propia región;
->
+
 > 3° teniendo en cuenta las necesidades de 'a Iglesia y el progreso cultural de la propia región, procurarán la elección de las mismas en un número adecuado;
->
+
 > 4° para todo esto constituirán una Comisión con miembros pertenecientes a la Conferencia, asistida por un grupo de expertos.
->
+
 > Art. 6. En la preparación de los Estatutos y del Plan de estudios se han de tener presentes las Normas contenidas en el *[Apéndice I](#AP%C3%89NDICE_I)*.
 
 *Art. 7*. § 1. El valor canónico de un grado académico significa que tal grado habilita para desempeñar las funciones eclesiásticas para las que es requerido, en primer lugar para enseñar las ciencias sagradas en las Facultades, en los Seminarios mayores y en las Escuelas equivalentes.
@@ -536,15 +536,15 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 *Art. 8*. Corresponde al Gran Canciller:
 
 > 1° hacer progresar constantemente la Universidad o Facultad; promover el quehacer científico y procurar que se mantenga íntegra la doctrina católica y se observen fielmente los Estatutos y las normas dictadas por la Santa Sede;
->
+
 > 2° favorecer estrechas relaciones entre todos los miembros de la comunidad académica;
->
+
 > 3° proponer a la Sagrada Congregación para la Educación Católica los nombres tanto del que debe ser nombrado o confirmado Rector o Presidente, como de los profesores que necesitan el «nihil obstat»;
->
+
 > 4° recibir la profesión de fe del Rector o Presidente;
->
+
 > 5° conferir o retirar el permiso de enseñar o la misión canónica a los profesores, según las normas de la Constitución;
->
+
 > 6° informar a la Sagrada Congregación para la Educación Católica acerca de los asuntos más importantes y enviar a la misma cada tres años una relación detallada sobre la situación académica, moral y económica de la Universidad o Facultad.
 
 *Art. 9*. En caso de que la Universidad o Facultad dependan de una autoridad colegial (como por ejemplo, de la Conferencia Episcopal), deberá ser nombrada una persona perteneciente a la misma para desempeñar las funciones de Gran Canciller.
@@ -562,27 +562,27 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 *Art. 14*. Al cargo de Rector o de Presidente corresponde:
 
 > 1° dirigir, promover y coordinar toda la actividad de la comunidad académica;
->
+
 > 2° representar a la Universidad, al Instituto o a la Facultad « sui iuris»;
->
+
 > 3° convocar los Consejos de Universidad, Instituto o Facultad « sui iuris» y presidirlos a norma de los Estatutos;
->
+
 > 4° vigilar la administración temporal;
->
+
 > 5° informar al Gran Canciller sobre los hechos más importantes;
->
+
 > 6° enviar todos los años a la Sagrada Congregación para la Educación Católica el sumario estadístico, según el esquema fijado por la misma Sagrada Congregación.
 
 *Art. 15*. Al Decano de Facultad corresponde:
 
 > 1° promover y coordinar toda la actividad de la Facultad, especialmente en lo que se refiere a los estudios, y proveer oportunamente a sus necesidades;
->
+
 > 2° convocar el Consejo de Facultad y presidirlo;
->
+
 > 3° admitir o excluir a los alumnos, en nombre del Rector, a norma de los Estatutos;
->
+
 > 4° informar al Rector de lo que se hace o se propone por la Facultad;
->
+
 > 5º procurar que se cumpla todo lo establecido por las Autoridades superiores.
 
 **Título III**
@@ -628,7 +628,7 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 *Art. 24*. § 1. El certificado exigido, a norma del art. 31 de la Constitución:
 
 > 1° de buena conducta, para los clérigos y seminaristas, es dado por el Ordinario o su delegado; para todos los demás por una persona eclesiástica;
->
+
 > 2° de estudios previos, es el título de estudios exigido a norma del art. 32 de la Constitución.
 
 § 2. Dado que difieren entre sí los estudios necesarios requeridos en las distintas Naciones para ingresar en la Universidad, la Facultad tiene el derecho y el deber de examinar si se han cursado todas las disciplinas consideradas necesarias por la misma Facultad.
@@ -712,9 +712,9 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 *Art. 45*. § 1. Cuando se trate de crear una nueva Universidad o Facultad, es necesario:
 
 > *a)* demostrar una necesidad o verdadera utilidad, que no pueda satisfacerse por la afiliación, o la agregación o la incorporación;
->
+
 > *b)* presentar los requisitos necesarios, de los cuales los principales son:
->
+
 > > 1° el número de profesores estables y su titulación, de acuerdo con la naturaleza y las exigencias de la Facultad;
 > >
 > > 2° un conveniente número de alumnos;
@@ -722,7 +722,7 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 > > 3° la biblioteca, los demás materiales científicos y las aulas;
 > >
 > > 4° recursos económicos realmente suficientes para la Universidad o Facultad;
->
+
 > *c)* presentar los Estatutos, junto con el Plan de estudios, que estén en conformidad con la presente Constitución y con estas Normas.
 
 § 2. La Sagrada Congregación para la Educación Católica — oído el parecer tanto de la Conferencia Episcopal, principalmente por lo que se refiere al aspecto pastoral, como de los peritos, en particular los de las Facultades más próximas, más bien bajo el aspecto científico — determinará sobre la oportunidad de proceder a la nueva erección, que será concedida generalmente « ad experimentum» por un determinado tiempo, antes de pasar a la confirmación definitiva.
@@ -730,7 +730,7 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 *Art. 46.* Cuando se trate de aprobar una Universidad o Facultad, se requiere:
 
 > *a)* el consentimiento de la Conferencia Episcopal y de la Autoridad diocesana;
->
+
 > *b)* que se cumplan las condiciones establecidas en el artículo 45, § 1, *b)* *c).*
 
 *Art. 47*. Las condiciones de la afiliación se refieren sobre todo al número y a la calidad de los profesores, al plan de estudios, a la biblioteca y al deber de la Facultad afiliante de asistir al Instituto afiliado; esto exige normalmente que la Facultad afiliante y el Instituto afiliado se encuentren en la misma nación o región cultural.
@@ -758,9 +758,9 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 1° En el primer ciclo:
 
 > *a)* las disciplinas filosóficas que se requieren para la Teología, como son en primer lugar la Filosofía sistemática, con sus partes principales, y su evolución histórica.
->
+
 > *b)* Las disciplinas teológicas, a saber:
->
+
 > > — la Sagrada Escritura: introducción y exégesis;  
 > > — la Teología fundamental, con referencia a las cuestiones sobre el ecumenismo, las religiones no cristianas y el ateísmo;  
 > > — la Teología dogmática;  
@@ -769,7 +769,7 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 > > — la Liturgia;  
 > > — la Historia de la Iglesia, la Patrología y la Arqueología;  
 > > — el Derecho canónico.
->
+
 > *c)* Las disciplinas auxiliares, esto es, algunas ciencias humanas y, además de la lengua latina, las lenguas bíblicas en la medida en que se requieren para los ciclos siguientes.
 
 2° En el segundo ciclo: las disciplinas especiales, oportunamente establecidas en las diversas secciones, según las distintas especialidades, con seminarios y ejercitaciones propias, comprendiendo también algún trabajo escrito.
@@ -791,13 +791,13 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 1° En el primer ciclo:
 
 > *a)* las Instituciones generales de Derecho canónico;
->
+
 > *b)* elementos de Sagrada Teología (especialmente de eclesiología y de teología sacramental) y de Filosofía (especialmente de Ética y Derecho natural), que por su naturaleza se requieren antes del estudio del Derecho canónico; a éstos podrán añadirse útilmente elementos de las ciencias antropológicas relacionadas con la ciencia jurídica.
 
 2° En el segundo ciclo:
 
 > *a)* el Código de Derecho canónico en todas sus partes y las demás leyes canónicas;
->
+
 > *b)* las disciplinas relacionadas, a saber: la Filosofía del derecho, el Derecho público eclesiástico, las Instituciones de Derecho romano, Elementos de Derecho civil, la Historia del derecho canónico, con ejercitaciones y seminarios, y un especial trabajo escrito.
 
 3° En el tercer ciclo: los Estatutos determinarán qué disciplinas especiales y qué ejercitaciones y seminarios deben prescribirse, según la naturaleza propia de la Facultad y las particulares necesidades de los alumnos.
@@ -819,15 +819,15 @@ La Sagrada Congregación para la Educación Católica, a tenor del art. 10 de la
 *Art. 60*. Las disciplinas obligatorias son:
 
 > 1° En el primer ciclo:
->
+
 > > *a)* la Filosofía sistemática (previa una introducción general) en sus apartados básicos: la Filosofía del conocimiento, la Filosofía del hombre, la Filosofía del ser (que comprende la Teología natural) y la Filosofía moral;
 > >
 > > *b)* la Historia de la Filosofía, sobre todo moderna, con un atento examen de los sistemas que tienen mayor influencia;
 > >
 > > *c)* las disciplinas auxiliares, esto es, ciencias oportunamente elegidas entre las que tienen carácter antropológico y natural.
->
+
 > 2° En el segundo ciclo: algunas disciplinas especiales que serán distribuidas oportunamente en las varias secciones según las diversas especializaciones, con las respectivas ejercitaciones y seminarios, incluyendo también algún trabajo escrito.
->
+
 > 3° En el tercer ciclo: los Estatutos de la Facultad determinarán si se deben enseñar disciplinas especiales y cuáles son éstas, con sus ejercitaciones y seminarios.
 
 *Art. 61*. Además de los exámenes o pruebas equivalentes de cada una de las disciplinas, al final del primero y segundo ciclo debe hacerse un examen global o prueba equivalente, en los cuales el alumno demuestre haber adquirido la plena formación científica propia del ciclo respectivo.

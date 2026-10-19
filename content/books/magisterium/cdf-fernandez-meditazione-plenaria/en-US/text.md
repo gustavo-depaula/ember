@@ -1,13 +1,5 @@
 # “Do Not Ask the Light, but the Fire”. Opening Meditation of the Plenary Session of the Dicastery for the Doctrine of the Faith
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Cardinal Víctor Manuel Fernández *Prefect of the Dicastery for the Doctrine of the Faith*
@@ -39,7 +31,7 @@ The problem is that the same can happen in each of our lives. In fact, we repeat
 This calls us to recognize two things:
 
 > 1\. That in order to understand anything fully, we must allow ourselves to be illuminated by God. We must invoke him, pray and listen to him, and let ourselves be guided by him amidst the shadows. Faith assures us that we can truly do this and that God can truly enlighten us so that we might see more clearly. We trust in him (*credere *Deo**).
->
+
 > 2\. That we must reflect, think, and analyze reality, but while also listening to others, welcoming their perspectives—which allows us to perceive other aspects of that same reality—and opening ourselves to other points of view. For this reason, it benefits us to pay attention to the “peripheries,” where things are seen differently.
 
 Along these lines, Pope Leo XIV recently affirmed that “no one possesses the whole truth; we must all humbly seek it and seek it together.” Consequently, he proposed “a Church that does not close in on itself, but remains attentive to God so that it can similarly listen to everyone” (*[Homily for the Mass of the Jubilee of the Synodal Teams and Participatory Bodies](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20251026-giubileo-equipe-sinodali.html)*, 26 October 2025).

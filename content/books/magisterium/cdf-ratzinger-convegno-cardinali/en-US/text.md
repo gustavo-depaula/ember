@@ -1,9 +1,5 @@
 # Symposium of the College of Cardinals to honour 25-years of Pontificate of John Paul II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 25th ANNIVERSARY OF PONTIFICATE OF JOHN PAUL II
 
 **SYMPOSIUM OF THE COLLEGE OF** **CARDINALS **
@@ -24,5 +20,3 @@ Of course, the wealth of the message the Holy Father has offered us in this quar
 
 It only remains for me to thank my venerable confreres of the College of Cardinals who will be speaking to us, in six conferences on the fundamental themes of this Pontificate, as well as all of you, many of whom have come from far away to take part in our common thanksgiving and reflection.  
 May the Lord bless these days!
-
-[](#top)

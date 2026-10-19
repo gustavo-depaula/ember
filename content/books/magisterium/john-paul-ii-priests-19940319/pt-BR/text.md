@@ -51,5 +51,3 @@ Que grande experiência foi para cada um de nós e, ao mesmo tempo, para os noss
 Ó grande Sacramento da Fé, ó santo Sacerdócio do Redentor do mundo! Como Vos estamos gratos, Jesus Cristo, por nos terdes admitido à comunhão convosco, por nos terdes feito uma única comunidade em redor de Vós, por nos terdes permitido celebrar o Vosso sacrifício incruento e ser, em toda a parte, ministros dos mistérios divinos: no altar, no confessionário, no púlpito, nas visitas aos enfermos e aos encarcerados, nas salas de aula, nas cátedras universitárias, nos escritórios onde trabalhamos. Louvada sejais, ó Santíssima Eucaristia! Eu vos saúdo, Igreja de Deus, que sois o povo sacerdotal (cf. 1 Pd 2,9) redimido pelo preciosíssimo Sangue de Cristo!
 
 *Vaticano, 13 de Março - quarto Domingo da Quaresma - do ano 1994, décimo-sexto de Pontificado.*
-
-* *

@@ -1,9 +1,5 @@
 # Notification à propos de l’Abbé Georges de Nantes, 13 mai 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***NOTIFICATION À PROPOS DE MONSIEUR L'ABBÉ GEORGES DE NANTES  [\*](#_ftn*)***
@@ -25,5 +21,3 @@ Mgr Hamer a ensuite déclaré à M. l'Abbé de Nantes:
 4\. que tant que cette rétractation n'aura pas été faite et tant qu'elle ne portera pas également sur les attaques de même nature contre la personne de Sa Sainteté [Jean-Paul II](/holy_father/john_paul_ii/index_fr.htm), on ne pourra pas croire au sérieux du désir de réconciliation, que lui-même a manifesté à deux reprises en 1978 et en 1981, et que le Saint-Père demeure toujours disposé à accueillir.
 
 [\*](#_ftnref*) *OR* 16-17 maggio 1983, 2.
-
-[](#top)

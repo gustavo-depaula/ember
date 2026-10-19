@@ -1,9 +1,5 @@
 # Exkommunikationsdekret, 5. August 2002
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Dekret\***
@@ -22,10 +18,6 @@ In Erfüllung dieses gebotenen Einschreitens vertraut die Kongregation darauf, d
 
 \+ **Joseph Kardinal Ratzinger** *Präfekt*
 
-* *
-
 \+ **Tarcisio Bertone SDB** *Erzbischof em. von Vercelli Sekretär*
 
 \* *L’Osservatore Romano*, Wochenausgabe in deutscher Sprache, Nr. 32-33, 9. August 2002, Seite 1.
-
-[](#top)

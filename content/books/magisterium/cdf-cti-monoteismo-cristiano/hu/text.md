@@ -1,9 +1,5 @@
 # A Szentháromságos egy Isten, az emberek egységének alapelve. A keresztény egyistenhit az erőszak ellen
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG
 
 **A Szentháromságos egy Isten, az emberek egységének alapelve**
@@ -79,5 +75,3 @@ A **III. fejezetben** Jézus halála és feltámadása eseményének elmélyít�
 A **IV. fejezetben** vizsgálódásunk arra irányul, hogy bemutassa az Istenről való gondolkodás filozófiai megközelítéseit és következményeit. Itt elsősorban a radikális *antropológiai naturalizmus* tételeiben szélesen elterjedt korabeli ateizmussal való vitapontokat érintjük. Végül – az egyistenhitről szóló vallásközi tárgyalás érdekében is – javaslunk egy sor filozófiai-teológiai megfontolást annak egybevetésére, ami az Isten bensőséges kapcsolati állapotának kinyilatkoztatása és az ő abszolút egyszerűségének hagyományos felfogása között van.
 
 Végül az **V. fejezetben** összefoglaljuk azokat a keresztény sajátosságokat, amelyek meghatározzák az emberi tanúságtétel kötelezettségét az embereknek Istennel és egymással való megbékélése érdekében. A keresztény kinyilatkoztatás megtisztítja a vallást ugyanakkor, amikor visszaadja neki alapvető jelentését az értelem emberi tapasztalata által. Ezért a vizsgálódásra való meghívásunkban nagyon szem előtt tartjuk annak sajátos szükségességét – főleg a mai kulturális horizonton –, hogy mindig egybekapcsoltan tárgyaljuk Isten keresztény kinyilatkoztatásának teológiai tartalmát és történelmi kifejlődését.
-
-[](#top)

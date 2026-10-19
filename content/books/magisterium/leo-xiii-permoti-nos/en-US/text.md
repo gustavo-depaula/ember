@@ -43,5 +43,3 @@ As we experience a special friendship for your nation, and in response to the re
 *Given in Rome at St. Peter's, 10 July 1895, in the eighteenth year of Our Pontificate.*
 
 **LEO XIII**
-
-*       *

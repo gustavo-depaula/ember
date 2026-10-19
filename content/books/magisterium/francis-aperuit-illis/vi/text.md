@@ -82,8 +82,6 @@ Công bố tại Rôma, bên cạnh đền thờ thánh Gioan Latêranô, ngày 
 
 **PHANXICÔ**
 
-* *
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [^1]: Cf. *AAS* 102 (2010), 692787.

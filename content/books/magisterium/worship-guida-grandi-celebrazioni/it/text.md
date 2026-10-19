@@ -1,15 +1,5 @@
 # Guida per le grandi celebrazioni (13 giugno 2014) - Congregazione per il Culto Divino e la Disciplina dei Sacramenti
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO  
@@ -75,8 +65,6 @@ Questa Congregazione auspica che la *Guida*, in cui si ricordano criteri, indica
 > h) Comunione dei fedeli
 
  **[Conclusione](#Conclusione%C2%A0_)**
-
-** **
 
 **Introduzione**
 
@@ -291,8 +279,6 @@ Nei luoghi della riserva eucaristica si porteranno con dignità le ostie che rim
 31\. Il [Concilio Vaticano II](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index_it.htm) ha iniziato i lavori discutendo della sacra liturgia. In tal modo si è messo inequivocabilmente in luce il primato di Dio, il vero protagonista della celebrazione liturgica della Chiesa. Quando lo sguardo a Dio non è il fondamento, ogni altra cosa perde il suo orientamento. L’intento della presente “Guida per le grandi celebrazioni”, con indicazioni e suggerimenti pratici, non ha infatti altro scopo che di aiutare a preparare debitamente e a vivere fruttuosamente le grandi celebrazioni liturgiche.
 
 Ci sia di esempio la Beata Vergine Maria, immagine della Chiesa in preghiera. “La bellezza della liturgia celeste, che deve riflettersi anche nelle nostre assemblee, trova in lei uno specchio fedele. Da Lei dobbiamo imparare a diventare noi stessi persone eucaristiche ed ecclesiali per poter anche noi, secondo la parola di san Paolo, presentarci “immacolati” al cospetto del Signore, così come Egli ci ha voluto fin dal principio (cfr. *Col* 1,21; *Ef* 1,4)”.[^71] 
-
-* *
 
 ------------------------------------------------------------------------
 

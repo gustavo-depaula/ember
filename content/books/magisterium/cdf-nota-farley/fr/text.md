@@ -1,9 +1,5 @@
 # Notification sur le livre Just love. A Framework for Christian Sexual Ethics de Sr. Margaret A. Farley, R.S.M. - Congrégation pour la Doctrine de la Foi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 Notification sur le livre *Just Love. A Framework for Christian Sexual Ethics*
@@ -82,5 +78,3 @@ Avec cette Notification, la Congrégation pour la Doctrine de la Foi exprime un 
 \(6\) *[Catéchisme de l’Église catholique](/archive/FRA0013/_INDEX.HTM)*, nn. 1646-1647.2382 ; cf. *Mt* 5,31-32 ; 19,3-9 ; *Mc* 10,9 ; *Lc* 16,18 ; *1 Co* 7,10-11 ; Concile œcuménique Vatican II, Constitution pastorale *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_fr.html)* sur l’Église dans le monde de ce temps, nn. 48-49 ; [*Code de droit canonique*, can. 1141](/archive/FRA0037/__P41.HTM) ; Jean-Paul II, Exhortation apostolique *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_fr.html)* sur les tâches de la famille chrétienne dans le monde d’aujourd’hui (22 novembre 1981), n. 13 : *AAS* 74 (1982), 93-96.
 
 (7*) [Catéchisme de l’Église catholique](/archive/FRA0013/__P4Z.HTM)*[, n. 1650](/archive/FRA0013/__P4Z.HTM) ; cf. Jean-Paul II, Exhortation apostolique *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_fr.html)*, n. 84 : *AAS* 74 (1982), 184-186 ; Congrégation pour la Doctrine de la Foi, Lettre *[Annus Internationalis Familiae](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19940914_rec-holy-comm-by-divorced_fr.html)* sur l’accès à la communion eucharistique de la part des fidèles divorcés-remariés (14 septembre 1994) : *AAS* 86 (1994), 974-979.
-
-[](#top)

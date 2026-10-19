@@ -1,9 +1,5 @@
 # Lettre aux évêques de l'église catholique sur la pastorale à l'égard des personnes homosexuelles
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***LETTRE AUX ÉVÊQUES DE L'ÉGLISE CATHOLIQUE SUR LA PASTORALE À L'ÉGARD DES PERSONNES HOMOSEXUELLES*** *(\*) ** ***
@@ -127,5 +123,3 @@ Le Souverain Pontife Jean-Paul II, au cours de l'audience accordée au Préfet s
 *Arch. tit. de Césarée de Numidie Secrétaire*
 
 (\*) Congregatio pro Doctrina Fidei, *Epistula de pastorali personarum homosexualium cura*, 1 oct. 1986: *AAS* 79 (1987), pp. 543-554 ; traduction française officielle reproduite dans *DocCath* 83 (1986), pp. 1160-1164.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Lettre circulaire aux Présidents des Conférences Épiscopales sur l'association Opus Angelorum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***LETTRE CIRCULAIRE AUX PRÉSIDENTS DES CONFÉRENCES ÉPISCOPALES SUR L'ASSOCIATION* *OPUS ANGELORUM***
@@ -33,5 +29,3 @@ En souhaitant que les membres de votre Conférence épiscopale aient à cœur de
 **William Cardinal Levada** *Préfet*
 
 **Luis F. Ladaria, S.I.** *Archevêque titulaire de Thibica Secrétaire*
-
-[](#top)

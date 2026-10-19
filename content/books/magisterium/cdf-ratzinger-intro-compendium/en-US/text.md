@@ -1,9 +1,5 @@
 # Introduction to the Compendium of the Catechism of the Catholic Church
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INTRODUCTION OF CARDINAL JOSEPH RATZINGER TO THE COMPENDIUM OF THE CATECHISM OF THE CATHOLIC CHURCH***
 
 1\. On 11 October 1992, Pope John Paul II presented the *[Catechism of the Catholic Church](/archive/ENG0015/_INDEX.HTM)* to the faithful of the whole world, describing it as a “reference text”[^1] for a catechesis renewed at the living sources of the faith.  Thirty years after the opening of the Second Vatican Council (1962-1965), the desire for a catechism of all Catholic doctrine on faith and morals, which had been voiced in 1985 by the extraordinary Assembly of the Synod of Bishops,  came to fulfilment.
@@ -38,8 +34,6 @@ The fourth part, entitled “Christian Prayer”, summarizes the *lex orandi,* t
 *President of the Special Commission*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: John Paul II, Apostolic Constitution *Fidei depositum,* 11 October 1992.
 

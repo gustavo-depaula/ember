@@ -1,9 +1,5 @@
 # LIST DO ORDYNARIUSZY MIEJSCA PRZYPOMINAJĄCY NIEKTÓRE NORMY DOTYCZĄCE EGZORCYZMÓW, 29 września 1985 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 **LIST DO ORDYNARIUSZY MIEJSCA PRZYPOMINAJĄCY NIEKTÓRE NORMY DOTYCZĄCE EGZORCYZMÓW**
@@ -34,5 +30,3 @@ oddani w Chrystusie
 \+ **ALBERTO BOVONE** *Arcybiskup tytularny Cezarei Numidyjskiej Sekretarz*
 
 \* *AAS* 77 (1985) 1169-1170.
-
-[](#top)

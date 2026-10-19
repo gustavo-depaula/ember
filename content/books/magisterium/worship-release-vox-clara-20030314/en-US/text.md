@@ -1,15 +1,9 @@
 # Release regarding matters of liturgical translations of Latin liturgical texts into the English language
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- CONGREGATION FOR DIVINE WORSHIP  
+CONGREGATION FOR DIVINE WORSHIP  
 AND THE DISCIPLINE OF THE SACRAMENTS
 
 **FRIDAY, MARCH 14 (12:00 noon Central European Time)**
-
-** **
 
 **PRESS RELEASE** 
 
@@ -22,5 +16,3 @@ In the course of their meeting the Committee considered a draft of a document, t
 The Committee discussed and offered its comments and advice to the Congregation regarding developments in arrangements made at various levels for the drafting of English-language translations of liturgical texts. In particular, the Committee was pleased to hear of recent initiatives by the International Commission on English in the Liturgy to assure the effective application of the principles of *[Liturgiam authenticam](rc_con_ccdds_doc_20010507_liturgiam-authenticam_en.html)* to the processes and principles underlying the timely translation of the *Missale Romanum, editio typica tertia* into the English language. The Committee looks forward to assisting the Congregation in support of these initiatives in the future. 
 
 The Bishops present also had occasion for an exchange with the Prefect of the Congregation for Divine Worship and the Discipline of the Sacraments, Cardinal Francis Arinze, who joined them for a discussion on Thursday morning.
-
-[](#top)

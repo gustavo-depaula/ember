@@ -1,9 +1,5 @@
 # Circular letter to assist Episcopal Conferences in developing Guidelines for dealing with cases of sexual abuse of minors perpetrated by clerics
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 *CIRCULAR LETTER TO ASSIST EPISCOPAL CONFERENCES IN DEVELOPING GUIDELINES  FOR DEALING WITH CASES OF SEXUAL ABUSES OF MINORS PERPETRATED BY CLERICS*
@@ -91,5 +87,3 @@ Rome, from the Congregation for the Doctrine of the Faith, 3 May 2011
 **William Cardinal Levada** *Prefect*
 
 **+ Luis F. Ladaria, S.J.** *Tit. Archbishop of Thibica Secretary*
-
-[](#top)

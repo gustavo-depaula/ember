@@ -1,9 +1,5 @@
 # Il Cristianesimo e le religioni. Presentazione di S.E. Mons. Luis F. Ladaria, 8 marzo 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **IL CRISTIANESIMO E LE RELIGIONI**
 
 **Presentazione del documento della Commissione Teologica Internazionale**
@@ -69,7 +65,5 @@ Da un lato il documento cerca di accogliere e rispettare i valori delle religion
 Ma soprattutto si afferma con chiarezza che ciò che in esse possa esserci di valido e buono viene da Cristo e dallo Spirito che egli ha effuso dopo la sua risurrezione. La mediazione unica dell’«uomo Cristo Gesù» (1 Tim 2,5) deve essere sempre mantenuta. Egli è l’unica via che conduce al Padre (cf Gv 14,6), e non sono vere vie quelle che non confluiscono in lui. Non esistono vie parallele o complementari. Per questo motivo l’incontro con Cristo e l’inserimento nella Chiesa che è suo corpo non possono essere indifferenti per nessuno. E anche per questo la Chiesa ha il dovere di annunciare incessantemente Cristo a coloro che non lo conoscono fino alla sua manifestazione gloriosa alla fine dei tempi per giudicare i vivi e i morti.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *De res. mort.* 6,3: «Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus».

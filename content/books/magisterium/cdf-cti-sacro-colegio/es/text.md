@@ -1,9 +1,5 @@
 # Discurso al Sacro Colegio, 23 de junio de 1970
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 ***DISCURSO DE SU SANTIDAD PABLO VI AL SACRO COLEGIO***[\*](#_edn*)  
@@ -14,5 +10,3 @@ Todos los hijos de la Iglesia, cada uno en su puesto, y siguiendo la propia voca
 ------------------------------------------------------------------------
 
 [\[\*\]](#_ednref*) AAS 62 (1970) 517.
-
-[](#top)

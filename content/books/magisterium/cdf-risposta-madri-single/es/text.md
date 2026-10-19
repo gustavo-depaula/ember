@@ -1,15 +1,5 @@
 # Carta a S.E. Mons. Ramón Alfredo de la Cruz Baldera, Obispo de San Francisco de Macorís (República Dominicana) sobre el acceso a la comunión eucarística de las madres solteras
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**

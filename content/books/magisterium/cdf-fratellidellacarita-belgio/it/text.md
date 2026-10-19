@@ -1,15 +1,5 @@
 # Lettera al Superiore Generale dei “Fratelli della Carità” circa l’accompagnamento dei pazienti negli ospedali psichiatrici in Belgio
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE

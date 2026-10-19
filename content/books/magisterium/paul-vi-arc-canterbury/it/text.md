@@ -7,8 +7,6 @@ AL DOTT. FREDERICK DONALD COGGAN, ARCIVESCOVO DI CANTERBURY***
 
 *30 novembre 1975*
 
-* *  
-
 *A Sua Grazia il Rev.mo Dott. Frederick Donald Coggan Arcivescovo di Canterbury*
 
 Scriviamo una letteraalla vostra lettera del 9 luglio scorso. Abbiamo avuto occasione molte volte di esprimere al vostro venerato predecessore, e più tardi a voi stesso, la nostra gratitudine a Dio e la nostra soddisfazione di fronte alla crescita della comprensione tra la Chiesa Cattolica e la Comunione Anglicana, ed abbiamo avuto occasione di compiacerci per il devoto lavoro effettuato sia nel dialogo teologico e nella riflessione, sia nella collaborazione cristiana che incoraggia e testimonia questa crescita.

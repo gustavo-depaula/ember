@@ -1,13 +1,5 @@
 # Risposta riguardante l’obbligo di premettere la confessione sacramentale prima della sacra comunione quando c’è la coscienza del peccato grave, 11 luglio 1968
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**   

@@ -1,9 +1,5 @@
 # La verità storica dei Vangeli - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **LA VERITÀ STORICA DEI VANGELI**  
@@ -39,8 +35,6 @@ Beniamino N. Wambacq, O.Prem. *Segretario*
 ------------------------------------------------------------------------
 
 NOTE
-
-[](#top)
 
 [^1]: \[\] Pio XII, Lett. enc. *[Divino afflante Spiritu](/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu_it.html)*; A.A.S. XXXV (1943), p. 319.
 

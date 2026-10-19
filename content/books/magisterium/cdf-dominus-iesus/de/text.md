@@ -1,13 +1,5 @@
 # Erklärung Dominus Iesus über die Einzigkeit und die Heilsuniversalität Jesu Christi und der Kirche, 6. August 2000
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 KONGREGATION FÜR DIE GLAUBENSLEHRE  
@@ -171,8 +163,6 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 6. August 2000, dem Fes
 ** Joseph Card. Ratzinger**   *Präfekt*
 
 ** Tarcisio Bertone, S.D.B.**   *Erzbischof em. von Vercelli   Sekretär*
-
-* *
 
 ------------------------------------------------------------------------
 

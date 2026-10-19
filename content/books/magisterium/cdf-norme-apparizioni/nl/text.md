@@ -1,20 +1,10 @@
 # Normen voor de procedure ter beoordeling van vermeende verschijningen en openbaringen
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HEILIGE CONGREGATIE VOOR DE GELOOFSLEER
 
 **Normen voor de procedure ter beoordeling van** **vermeende verschijningen en openbaringen**
-
-** **
 
 **INLEIDENDE OPMERKINGEN**
 

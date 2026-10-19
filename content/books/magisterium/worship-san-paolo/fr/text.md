@@ -1,9 +1,5 @@
 # Décret pour la célébration de la Conversion de saint Paul Apôtre en l'année jubilaire de sa naissance
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 CONGRÉGATION POUR LE CULTE DIVIN  
 ET LA DISCIPLINE DES SACREMENTS
 
@@ -25,5 +21,3 @@ Francis Card. Arinze
 
 Albert Malcolm Ranjith  
 *secrétaire*
-
-[](#top)

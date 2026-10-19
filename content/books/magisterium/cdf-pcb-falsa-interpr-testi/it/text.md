@@ -1,9 +1,5 @@
 # Falsa interpretazione di due testi biblici - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **FALSA INTERPRETAZIONE DI DUE TESTI BIBLICI**
@@ -22,5 +18,3 @@ Risposta: No.
 
 Giovanni Battista Frey, C.S.Sp.  
 *Segretario consultore*
-
-[](#top)

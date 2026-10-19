@@ -471,8 +471,6 @@ No campo da piedade popular, é preciso vigiar constantemente sobre aspectos amb
 
 80\. Não se pode esquecer que o *«  culto espiritual agradável a Deus  »* (cf. *Rm* 12, 1) realiza-se sobretudo na *existência quotidiana*, vivida na caridade através do dom livre e generoso de si mesmo, inclusive em momentos de aparente impotência. Assim, a vida é animada por uma esperança inabalável, porque assente apenas na certeza do poder de Deus e da vitória de Cristo: é uma vida repleta das consolações de Deus, com as quais somos chamados, por nossa vez, a consolar aqueles que encontrarmos no nosso caminho (cf. *2 Cor* 1, 4).
 
-* *
-
 ***O dia do Senhor***
 
 81\. Momento paradigmático e altamente evocativo para a celebração do Evangelho da esperança é o *dia do Senhor*.

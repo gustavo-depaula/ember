@@ -1,9 +1,5 @@
 # Validez del bautismo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **RESPUESTAS A PREGUNTAS sobre la validez del Bautismo conferido con las fórmulas** *«I baptize you in the name of the Creator, and of the Redeemer, and of the Sanctifier»* **y** «*I baptize you in the name of the Creator, and of the Liberator, and of the Sustainer»*
@@ -28,5 +24,3 @@ RESPUESTAS
 
   **Angelo Amato, S.D.B**.  
 Arzobispo titular de Sila *Secretario*
-
-[](#top)

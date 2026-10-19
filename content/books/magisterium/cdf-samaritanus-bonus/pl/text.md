@@ -1,15 +1,5 @@
 # List Samaritanus Bonus, o opiece nad osobami w krytycznych i końcowych FAZAch życia
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 KONGREGACJA NAUKI WIARY

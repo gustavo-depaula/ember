@@ -1,13 +1,5 @@
 # Déclaration sur la question de l'admission des femmes au sacerdoce ministériel, 15 octobre 1976
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRÉE CONGRÉGATION POUR LA DOCTRINE DE LA FOI

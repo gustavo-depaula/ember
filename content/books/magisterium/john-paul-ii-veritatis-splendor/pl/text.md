@@ -8,8 +8,6 @@ IOANNES PAULUS PP. II
 
 ***Blessing***
 
-*** ***
-
 *Czcigodni Bracia w Biskupstwie, pozdrowienie i Apostolskie Błogosławieństwo!*
 
 BLASK PRAWDY jaśnieje we wszystkich dziełach Stwórcy, w szczególny zaś sposób w człowieku, stworzonym na obraz i podobieństwo Boga (por. *Rdz 1, 26*): prawda oświeca rozum i kształtuje wolność człowieka, który w ten sposób prowadzony jest ku poznaniu i umiłowaniu Pana. Dlatego psalmista woła: „Wznieś ponad nami, o Panie, światłość Twojego oblicza!” (*Ps 4, 7*).

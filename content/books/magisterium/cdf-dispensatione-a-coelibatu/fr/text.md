@@ -1,13 +1,5 @@
 # Lettre à tous les ordinaires des lieux et supérieurs majeurs des congrégations religieuses cléricales au sujet de la dispense du célibat sacerdotal, 14 octobre 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 S. CONGRÉGATION DE LA DOCTRINE DE LA FOI

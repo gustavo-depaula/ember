@@ -1,9 +1,5 @@
 # De charactere historico trium priorum capitum Geneseos - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE CHARACTERE HISTORICO TRIUM PRIORUM CAPITUM GENESEOS**
@@ -46,5 +42,3 @@ Resp. Affirmative.
 
 Fulcranus Vigouroux, P.S.S.  
 Laurentius Janssens, O.S.B. *Consultores ab Actis.*
-
-[](#top)

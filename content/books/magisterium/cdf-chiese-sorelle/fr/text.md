@@ -1,9 +1,5 @@
 # Note sur l'expression «Eglises sœurs», 30 juin 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 NOTE  
@@ -76,8 +72,6 @@ Par conséquent, il faut éviter l’usage de formules comme « *nos deux Eglis
 ------------------------------------------------------------------------
 
 **Notes**
-
-[](#top)
 
 [^1]: & Paul VI et Athénagoras I, Déclaration commune *Pénétrés de reconnaissance* (7-XII-1965), n. 3: *AAS* 58 (1966) 20. Les excommunications ont été réciproquement supprimées en 1965: « le Pape Paul VI et le patriarche Athénagoras Ier, en son synode (…) déclarent d’un commun accord: (…) Regretter également et enlever de la mémoire et du milieu de l’Eglise, les sentences d’excommunication » (*ibid., n.4*); voir aussi Paul VI, Lett. apost. *Ambulate in dilectione* (7-XII-1965): *AAS* 58 (1966) 40-41; Athénagoras I, *Tomos Agapis* (7-XII-1965), *Vatican-Panar* 1958-1970 (Romae et Istambul 1970) 388-390.
 

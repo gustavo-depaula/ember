@@ -1,9 +1,5 @@
 # Dios Trino para la vida de los hombres, por Javier Mª Prades López
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Dios Trino para la vida de los hombres***
 
 **Presentación del capitulo 5**
@@ -29,5 +25,3 @@ La fe en Dios Trino muestra así su máxima conveniencia para “la práctica”
 **Javier Mª Prades López**  
 Rector UESD  
 Madrid
-
-[](#top)

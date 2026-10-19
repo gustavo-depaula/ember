@@ -2,8 +2,6 @@
 
 ***DECREE OF THE HOLY FATHER FRANCIS ON THE ENTITIES FOR FORMATION TO THE PRIESTHOOD IN THE TERRITORY OF THE DIOCESE OF ROME AND APPOINTMENT OF RECTOR OF THE PONTIFICAL ROMAN MAJOR SEMINARY***
 
-** **
-
 Having promulgated, on 6 January 2023, the Apostolic Constitution *In Ecclesiarum Communione* regarding the organization of the Vicariate of Rome;
 
 Having assigned, on the same date, the Sectors and Pastoral Areas and Services to the auxiliary bishops of the Diocese of Rome;

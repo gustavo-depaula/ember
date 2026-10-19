@@ -1,15 +1,5 @@
 # Extrait du Discourse du Pape François lors de l’Audience aux Participants à l’Assemblée Plénière du Dicastère pour la Doctrine de la Foi
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Extrait du Discourse du Pape François lors de l’[Audience aux Participants à l’Assemblée Plénière du Dicastère pour la Doctrine de la Foi](https://www.vatican.va/content/francesco/fr/events/event.dir.html/content/vaticanevents/fr/2024/1/26/plenaria-ddf.html)**

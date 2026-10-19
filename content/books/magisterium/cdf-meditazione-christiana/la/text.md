@@ -1,9 +1,5 @@
 # Epistula ad totius catholicae ecclesiae episcopos de quibusdam rationibus christianae meditationis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 **CONGREGATIO PRO DOCTRINA FIDEI**
 
 ***EPISTULA AD TOTIUS CATHOLICAE ECCLESIAE EPISCOPOS DE QUIBUSDAM RATIONIBUS CHRISTIANAE MEDITATIONIS******\****
@@ -115,8 +111,6 @@ Huiusmodi ceteraeque similes condiciones componendi Christianam meditationem cum
 \* AAS 82 (1990), pp. 362-379.
 
 S. Bonaventura inducit Franciscum in omni creatura audientem Dei vocem et effundentem animam suam in hymno immortali gratitudinis et laudis (cfr. *Legenda S. Francisci*, cap. 9, n. 1, in *Opera Omnia*, ed. Quaracchi 1898, vol. VIII, p. 530).
-
-[](#top)
 
 [^1]: \[\] . « Methodi orientales » appellantur rationes ac viae quae ex Hinduismo et Buddhismo oriuntur, uti sunt Zen, vel « Meditatio transcendentalis », quae vocatur, vel « Yoga ». Agitur ergo de meditationis methodis non christianis, procedentibus ab Extremo Oriente, quae non raro nostra aetate usurpantur quoque a nonnullis Christianis ad meditandum. Normae sive doctrinales sive methodologicae, quae hic proponuntur, vim habent non solum relate ad hanc quaestionem sed etiam, magis in genere, ad varias orationis formas, quae temporibus nostris usurpantur ab ecclesialibus realitatibus, praesertim a Consociationibus, Motibus et Coetibus.
 

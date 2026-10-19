@@ -1,9 +1,5 @@
 # Quel principio decisivo della teologia cattolica, di Adelbert Denaux
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Per leggere il documento della Commissione Teologica Internazionale***
 
 ***Quel principio decisivo della teologia cattolica***
@@ -33,5 +29,3 @@ Nella terza sezione la Commissione descrive la “teologia” come intelligenza 
 \* Tilburg School of Catholic Theology
 
 (*L'Osservatore Romano*, 2-3 maggio 2012, p. 10)
-
-[](#top)

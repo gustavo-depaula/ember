@@ -1,13 +1,5 @@
 # Suggestions aux présidents des Conférences épiscopales pour améliorer le service des comités doctrinaux, 10 juillet 1968
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRÉE CONGRÉGATION POUR LA DOCTRINE DE LA FOI

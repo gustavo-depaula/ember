@@ -1,9 +1,5 @@
 # Profesión de fe-Juramento de fidelidad, 1 julio 1988
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PROFESIÓN DE FE**
 
 *(Fórmula para utilizar en los casos en que el derecho prescribe la profesión de fe)*
@@ -43,5 +39,3 @@ Que así Dios me ayude y estos santos evangelios que toco con mis manos.
 Promoveré la disciplina común a toda la Iglesia y urgiré la observancia de todas las leyes eclesiásticas, ante todo aquellas contenidas en el Código de Derecho Canónico.
 
 Con obediencia cristiana acataré lo que enseñen los sagrados pastores, como doctores y maestros auténticos de la fe, y lo que establezcan como guías de la Iglesia, y ayudaré fielmente a los obispos diocesanos para que la acción apostólica que he de ejercer en nombre y por mandato de la Iglesia, quedando a salvo la índole y el fin de mi instituto, se realice siempre en comunión con la misma Iglesia.
-
-[](#top)

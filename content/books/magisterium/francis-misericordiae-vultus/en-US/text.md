@@ -138,8 +138,6 @@ In this Jubilee Year, may the Church echo the word of God that resounds strong a
 
 **FRANCISCUS**
 
-** **
-
 ------------------------------------------------------------------------
 
 [^1]: Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on Divine Revelation *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html),* 4.

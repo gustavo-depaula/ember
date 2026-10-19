@@ -1,9 +1,5 @@
 # Mensaje de Fátima, Doctrina de la Fe, 26-junio-2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***EL MENSAJE DE FÁTIMA***
@@ -41,55 +37,55 @@ Como es sabido, el Papa Juan Pablo II pensó inmediatamente en la consagración 
 Pero el Santo Padre, para responder más plenamente a las peticiones de « Nuestra Señora », quiso explicitar durante el Año Santo de la Redención el acto de consagración del 7 de junio de 1981, repetido en Fátima el 13 de mayo de 1982. Al recordar el *fiat* pronunciado por María en el momento de la Anunciación, en la plaza de San Pedro el 25 de marzo de 1984, en unión espiritual con todos los Obispos del mundo, precedentemente « convocados », el Papa consagra a todos los hombres y pueblos al Corazón Inmaculado de María, en un tono que evoca las angustiadas palabras pronunciadas en 1981.
 
 > « Y por eso, *oh Madre de los hombres y de los pueblos,* Tú que conoces todos sus sufrimientos y esperanzas, tú que sientes maternalmente todas las luchas entre el bien y el mal, entre la luz y las tinieblas que invaden el mundo contemporáneo, acoge nuestro grito que, movidos por el Espíritu Santo, elevamos directamente a tu corazón: *abraza con amor de Madre* y de Sierva del Señor a este mundo humano nuestro, que te confiamos y consagramos, llenos de inquietud por la suerte terrena y eterna de los hombres y de los pueblos.
->
+
 > De modo especial confiamos y consagramos a aquellos hombres y *aquellas naciones*, que tienen necesidad particular de esta entrega y de esta consagración.
->
+
 > ¡“Nos acogemos a tu protección, Santa Madre de Dios”!
->
+
 > *¡No deseches las súplicas que te dirigimos en nuestras necesidades! ».*
 
 Acto seguido, el Papa continúa con mayor fuerza y con referencias más concretas, comentando casi el triste cumplimiento del Mensaje de Fátima:
 
 > « He aquí que, encontrándonos hoy ante ti, Madre de Cristo, ante tu Corazón Inmaculado, deseamos, junto con toda la Iglesia, unirnos a la consagración que, por amor nuestro, tu Hijo hizo de sí mismo al Padre cuando dijo: “Yo por ellos me santifico, para que ellos sean santificados en la verdad” (*Jn* 17, 19). Queremos unirnos a nuestro Redentor en esta consagración por el mundo y por los hombres, la cual, en su Corazón divino tiene el poder de conseguir el perdón y de procurar la reparación.
->
+
 > *El poder de esta consagración*dura por siempre, abarca a todos los hombres, pueblos y naciones, y supera todo el mal que el espíritu de las tinieblas es capaz de sembrar en el corazón del hombre y en su historia; y que, de hecho, ha sembrado en nuestro tiempo.
->
+
 > ¡Oh, cuán profundamente sentimos la necesidad de consagración para la humanidad y para el mundo: para nuestro mundo contemporáneo, en unión con Cristo mismo! En efecto, la obra redentora de Cristo debe ser *participada por el mundo a través de la Iglesia.*
->
+
 > *Lo manifiesta el presente Año de la Redención, el Jubileo extraordinario de toda la Iglesia.*
->
+
 > En este Año Santo, bendita seas *por encima de todas las creaturas, tú,* Sierva del Señor, que de la manera más plena obedeciste a la llamada divina.
->
+
 > Te saludamos a ti, que *estás totalmente unida* a la consagración redentora de tu Hijo.
->
+
 > Madre de la Iglesia: ilumina al Pueblo de Dios en los caminos de la fe, de la esperanza y de la caridad. Ilumina especialmente a los pueblos de los que tú esperas nuestra consagración y nuestro ofrecimiento. Ayúdanos a vivir en la verdad de la consagración de Cristo por toda la familia humana del mundo actual.
->
+
 > Al encomendarte, oh Madre, el mundo, todos los hombres y pueblos, te *confiamos* también *la misma consagración del mundo*, poniéndola en tu corazón maternal.
->
+
 > ¡Corazón Inmaculado! Ayúdanos a vencer la amenaza del mal, que tan fácilmente se arraiga en los corazones de los hombres de hoy y que con sus efectos inconmensurables pesa ya sobre la vida presente y da la impresión de cerrar el camino hacia el futuro.
->
+
 > ¡Del hambre y de la guerra, *líbranos!*
->
+
 > ¡De la guerra nuclear, de una autodestrucción incalculable y de todo tipo de guerra, *líbranos!*
->
+
 > ¡De los pecados contra la vida del hombre desde su primer instante, *líbranos!*
->
+
 > ¡Del odio y del envilecimiento de la dignidad de los hijos de Dios, *líbranos!*
->
+
 > ¡De toda clase de injusticias en la vida social, nacional e internacional, *líbranos!*
->
+
 > ¡De la facilidad de pisotear los mandamientos de Dios, *líbranos!*
->
+
 > ¡De la tentativa de ofuscar en los corazones humanos la verdad misma de Dios, *líbranos!*
->
+
 > ¡Del extravío de la conciencia del bien y del mal, *líbranos!*
->
+
 > ¡De los pecados contra el Espíritu Santo, *líbranos!*, *¡líbranos!*
->
+
 > Acoge, oh Madre de Cristo, este grito *lleno de sufrimiento* de todos los hombres. *Lleno del sufrimiento* de sociedades enteras.
->
+
 > Ayúdanos con el poder del Espíritu Santo a vencer todo pecado, el pecado del hombre y el « pecado del mundo », el pecado en todas sus manifestaciones.
->
+
 > Aparezca, una vez más, en la historia del mundo el infinito poder salvador de la Redención: poder del Amor misericordioso. Que éste detenga el mal.Que transforme las conciencias.Que en tu Corazón Inmaculado se abra a todos la *luz de la Esperanza».*⁴
 
 Sor Lucía confirmó personalmente que este acto solemne y universal de consagración correspondía a los deseos de Nuestra Señora (*« Sim, està feita, tal como Nossa Senhora a pediu, desde o dia 25 de Março de 1984 »*: « Sí, desde el 25 de marzo de 1984, ha sido hecha tal como Nuestra Señora había pedido »: carta del 8 de noviembre de 1989). Por tanto, toda discusión, así como cualquier otra petición ulterior, carecen de fundamento.
@@ -99,11 +95,11 @@ En la documentación que se ofrece, a los manuscritos de Sor Lucía se añaden o
 Una indicación para la interpretación de la tercera parte del « secreto » la había ya insinuado Sor Lucía en una carta al Santo Padre del 12 de mayo de 1982. En ella se dice:
 
 > *« La tercera parte del secreto se refiere a las palabras de Nuestra Señora: “Si no \[Rusia\] diseminará sus errores por el mundo, promoviendo guerras y persecuciones a la Iglesia. Los buenos serán martirizados, el Santo Padre sufrirá mucho, varias naciones serán destruidas” (13-VII-1917).*
->
+
 > *La tercera parte es una revelación simbólica, que se refiere a esta parte del Mensaje, condicionado al hecho de que aceptemos o no lo que el mismo Mensaje pide: “si aceptaren mis peticiones, la Rusia se convertirá y tendrán paz; si no, diseminará sus errores por el mundo, etc.”.*
->
+
 > *Desde el momento en que no hemos tenido en cuenta este llamamiento del Mensaje, constatamos que se ha cumplido, Rusia ha invadido el mundo con sus errores. Y, aunque no constatamos aún la consumación completa del final de esta profecía, vemos que nos encaminamos poco a poco hacia ella a grandes pasos. Si no renunciamos al camino del pecado, del odio, de la venganza, de la injusticia violando los derechos de la persona humana, de inmoralidad y de violencia, etc.*
->
+
 > *Y no digamos que de este modo es Dios que nos castiga; al contrario, son los hombres que por sí mismos se preparan el castigo. Dios nos advierte con premura y nos llama al buen camino, respetando la libertad que nos ha dado; por eso los hombres son responsables ».*⁵
 
 La decisión del Santo Padre Juan Pablo II de hacer pública la tercera parte del « secreto » de Fátima cierra una página de historia, marcada por la trágica voluntad humana de poder y de iniquidad, pero impregnada del amor misericordioso de Dios y de la atenta premura de la Madre de Jesús y de la Iglesia.
@@ -223,8 +219,6 @@ La bendición impartida en nombre del Santo Padre concluyó el encuentro.
 COMUNICADO DE SU EMINENCIA EL CARD. ANGELO SODANO  
 SECRETARIO DE ESTADO DE SU SANTIDAD
 
-* *
-
 *Al final de la solemne Concelebración Eucarística presidida por Juan Pablo II en Fátima, el Cardenal Angelo Sodano, Secretario de Estado, ha pronunciado en portugués las palabras que aquí reproducimos en traducción española.*
 
 Hermanos y hermanas en el Señor:
@@ -325,6 +319,4 @@ Quisiera al final volver aún sobre otra palabra clave del « secreto », que co
 
 \(7\) En la citada « cuarta memoria », Sor Lucía añade: « En Portugal se conservará siempre el dogma de la fe, etc... ».
 
-\(8\) En la traducción se ha respetado el texto original incluso en las imprecisiones de puntuación que, por otra parte, no impiden la comprensión de lo que la vidente ha querido decir.  
-
-[](#top)
+\(8\) En la traducción se ha respetado el texto original incluso en las imprecisiones de puntuación que, por otra parte, no impiden la comprensión de lo que la vidente ha querido decir.

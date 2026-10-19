@@ -1,15 +1,5 @@
 # DECREE on the Inscription of the Celebrations of Saint Gregory of Narek, Abbot and Doctor of the Church, Saint John De Avila, Priest and Doctor of the Church and Saint Hildegard of Bingen, Virgin and Doctor of the Church, in the General Roman Calendar
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

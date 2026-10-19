@@ -1,15 +1,5 @@
 # Note Gestis Verbisque sur la validité des sacrements
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](https://www.vatican.va/content/romancuria/it/dicasteri/dicastero-dottrina-fede.index.html)
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI

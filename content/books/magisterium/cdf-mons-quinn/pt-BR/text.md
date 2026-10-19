@@ -1,12 +1,4 @@
-# 
-
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
+# Observations about the book «“Human Sexuality”. A study commissioned by the Catholic Theological Society of America, Rev. Anthony Kosnik editor»
 
 ------------------------------------------------------------------------
 

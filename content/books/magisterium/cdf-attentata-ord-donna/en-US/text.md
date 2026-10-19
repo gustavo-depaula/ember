@@ -1,9 +1,5 @@
 # General Decree regarding the delict of attempted sacred ordination of a woman
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **GENERAL DECREE *regarding the delict of attempted sacred ordination of a woman***
@@ -26,5 +22,3 @@ Titular Archbishop of Sila
 *Secretary*
 
 *In Congr. pro Doctrina Fidei tab., n. 337/02*
-
-[](#top)

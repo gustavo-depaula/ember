@@ -1,9 +1,5 @@
 # Card. Meisner: SIGNIFICATO ED ATTUALITA' DEL DOCUMENTO
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***SIGNIFICATO ED ATTUALITÀ DEL DOCUMENTO***
@@ -34,5 +30,3 @@ La presente Nota vuole favorire "l'unità di vita del cristiano: la coerenza tra
 
 **Joachim Card. Meisner**  
 *Arcivescovo di Colonia*
-
-[](#top)

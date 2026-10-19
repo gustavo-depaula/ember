@@ -1,9 +1,5 @@
 # Megfontolások a Bizottság céljáról és módszeréről - Nemzetközi Teológiai Bizottság
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 Nemzetközi Teológiai Bizottság
 
 Megfontolások a Bizottság céljáról és módszeréről
@@ -42,5 +38,3 @@ Abból az anyagból, amit a Bizottság tanulmányozásra előterjesztett, jelenl
 Ennek a négy témának a tanulmányozására négy albizottságot alakítottak. Az albizottságoké a feladat, hogy jelentős mértékben meghatározzák a témájukat.
 
 Egyéb témákkal majd később a későbbiekben foglalkoznak.
-
-[](#top)

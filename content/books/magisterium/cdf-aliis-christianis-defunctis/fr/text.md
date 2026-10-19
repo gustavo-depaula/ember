@@ -1,13 +1,5 @@
 # Décret sur la célébration publique de la Messe dans l'Église catholique pour d'autres Chrétiens défunts, 11 juin 1976
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI

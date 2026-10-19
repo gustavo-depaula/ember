@@ -1,15 +1,5 @@
 # Dei verbum
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Konstitusio ya kidogma juu ya  ufunuo wa kimungu** 
@@ -18,8 +8,6 @@ Paulo Askofu
 Mtumishi wa watumishi wa Mungu  
 pamoja na Mababa wa Mtaguso mkuu  
 ataka haya yakumbukwe daima
-
-**  **
 
 **UTANGULIZI**
 
@@ -186,10 +174,6 @@ Kisha, yatayarishwe matoleo ya Maandiko Matakatifu yenye maelezo ya kufaa kwa ma
 Mimi mwenyewe Paulo, Askofu wa Kanisa Katoliki
 
 (*zinafuata sahihi za Mababa*)
-
-** **
-
-** **
 
 ------------------------------------------------------------------------
 

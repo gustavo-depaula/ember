@@ -1,9 +1,5 @@
 # Letter to the Bishops of the Catholic Church on the collaboration of men and women in the Church and in the World
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **LETTER TO THE BISHOPS OF THE CATHOLIC CHURCH ON THE COLLABORATION OF MEN AND WOMEN IN THE CHURCH AND IN THE WORLD**
 
 **INTRODUCTION**
@@ -182,5 +178,3 @@ Titular Archbishop of Sila *Secretary*
 ²¹Encyclical Letter *Laborem exercens* (September 14, 1981), 19: *AAS* 73 (1981), 627.
 
 ²²Cf. John Paul II, Apostolic Letter *Ordinatio sacerdotalis* (May 22, 1994): *AAS* 86 (1994), 545-548; Congregation for the Doctrine of the Faith, *Responsum ad dubium* regarding the doctrine of the Apostolic Letter *Ordinatio sacerdotalis* (October 28, 1995): *AAS* 87 (1995), 1114.
-
-[](#top)

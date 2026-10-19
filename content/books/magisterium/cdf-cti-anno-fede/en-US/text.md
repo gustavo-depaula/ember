@@ -1,9 +1,5 @@
 # Message of the International Theological Commission on the occasion of the Year of Faith, 16 October 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Message of the International Theological Commission on the occasion of the Year of Faith***
 
 *Fides quaerens intellectum*, theology exists only in relation to the gift of faith. It presupposes the truth of the faith and endeavours to demonstrate its “boundless riches” (Eph. 3:8), both for the spiritual joy of the whole community of believers and as a service to the Church’s evangelising mission.
@@ -19,5 +15,3 @@ The theologian works to “inculturate” in human intelligence, in the form of 
 Not only is the work of the theologian dependant on the living faith of the Christian people, attentive to “what the Spirit is saying to the churches” (Rev. 2:7), but its whole purpose is to foster the growth in faith of the people of God and the evangelising mission of the Church**.** Theology “begets, nourishes, defends, and strengthens that most wholesome faith” (St. Augustine, *De Trinitate*, XIV, 1,3). Indeed, the vocation of the theologian, in responsible collaboration with the Magisterium, is to serve the faith of God’s people (cf. Instruction *[Donum veritatis](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_en.html)* of May 24, 1990).
 
 In the same way, the theologian is the servant of Christian joy which is “the joy of truth” *\[gaudium* *de veritate\]* (St. Augustine, *Confessions*, X, 23, 33). St. Thomas Aquinas distinguished three dimensions in the act of faith: “It is one thing to say: ‘I believe in God’ (*credo Deum*), for this indicates the object. It is another thing to say: ‘I believe God’ (*credo Deo*), for this indicates the one who testifies. And it is yet another thing to say: ‘I believe unto God’ (*credo* *in Deum*), for this indicates the end or goal of faith. Thus, God can be regarded as the object of faith, as the one who testifies, and as the end of faith, but while the object of faith and the one who testifies can be a creature, only God can be the end of faith, for our mind is directed to God alone as its end” (St. Thomas Aquinas, *In Ioannem*, c. 6, lectio 3). Believing unto God (*credere in Deum*) is essential to the dynamism of faith. By adhering with personal faith to the Word of God, the believer consents to the supreme attraction exerted by the full and absolute Good that is the Blessed Trinity. It is the desire for happiness, deeply rooted in every human heart, which drives the spirit and leads the human being to fulfilment in confident surrender to the God and Father of our Lord Jesus Christ. In this sense, faith – and theology as the science of faith and wisdom – offers to all “lovers of spiritual beauty” (St. Augustine, *Regula ad servis Dei*, 8,1) a full-flavoured foretaste of eternal joy.
-
-[](#top)

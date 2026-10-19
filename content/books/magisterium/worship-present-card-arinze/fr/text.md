@@ -1,9 +1,5 @@
 # PRESENTATION DE ÂÂ“REDEMPTIONIS SACRAMENTUMÂÂ”
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LE CULTE DIVIN  
 ET LA DISCIPLINE DES SACREMENTS
 
@@ -68,5 +64,3 @@ En conclusion de cette Instruction, la Congrégation pour le Culte Divin et la D
 **Francis Card. ARINZE**
 
 23 avril 2004
-
-[](#top)

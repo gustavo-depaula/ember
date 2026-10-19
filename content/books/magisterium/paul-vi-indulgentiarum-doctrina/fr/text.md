@@ -6,8 +6,6 @@
 
 **PAUL, ÉVÊQUE, SERVITEUR DES SERVITEURS DE DIEU, POUR EN PERPÉTUER LE SOUVENIR**
 
-** **
-
 1\. La doctrine et la pratique des indulgences, telles qu’elles sont en vigueur dans l’Église catholique depuis de nombreux siècles, trouvent leur solide fondement dans la Révélation divine transmise par les apôtres, qui " se développe dans l’Église, avec l’assistance de l’Esprit-Saint ", tandis que " l’Église, au cours des siècles, est sans cesse tendue vers la plénitude de la vérité divine, jusqu’à ce que soient accomplies en elle les paroles de Dieu ".
 
 Pour que l’on comprenne bien cette doctrine et sa pratique salutaire, il Nous faut rappeler un certain nombre de vérités que l’Église universelle, éclairée par la Parole de Dieu, a toujours crues comme telles et que les évêques, successeurs des apôtres, et en premier lieu les Pontifes romains, successeurs de saint Pierre, ont enseignées au cours des siècles jusqu’à nos jours tant par la pratique pastorale que par des documents doctrinaux.
@@ -103,57 +101,57 @@ Pour les indulgences attachées à des choses et à des lieux (réelles et local
 ***NORMES***
 
 > **1.** L’indulgence est la remise devant Dieu de la peine temporelle due pour les péchés dont la faute est déjà effacée, que le fidèle bien disposé, et à certaines conditions définies, obtient par le secours de l’Église qui, en tant que ministre de la rédemption, distribue et applique avec autorité le trésor des satisfactions du Christ et des saints.
->
+
 > **2.** L’indulgence est partielle ou plénière, selon qu’elle libère partiellement ou totalement de la peine temporelle due pour le péché.
->
+
 > **3.** Les indulgences, aussi bien partielles que plénières, peuvent toujours être appliquées aux défunts par mode de suffrage.
->
+
 > **4.** L’indulgence partielle sera désormais désignée uniquement par les mots " indulgence partielle ", sans y ajouter un nombre de jours ou d’années déterminé.
->
+
 > **5.** Le fidèle qui, au moins le cœur contrit, accomplit une œuvre à laquelle est attachée une indulgence partielle, obtient, outre la rémission de peine temporelle que lui vaut son action, une semblable rémission de peine grâce à l’intervention de l’Église.
->
+
 > **6.** L’indulgence plénière ne peut être obtenue qu’une fois par jour, sauf ce qui est prescrit au numéro 18 pour ceux qui sont " à l’article de la mort ".
->
+
 > Mais l’indulgence partielle peut être gagnée plusieurs fois par jour, à moins qu’il en soit expressément prévu autrement.
->
+
 > **7.** Pour obtenir l’indulgence plénière il est nécessaire d’accomplir l’œuvre a laquelle est attachée l’indulgence et de remplir trois conditions : la confession sacramentelle, la communion eucharistique et la prière selon les intentions du Souverain Pontife. Il faut de plus que soit exclu tout attachement au péché, même véniel.
->
+
 > Si cette pleine disposition vient à manquer, ou si les trois susdites conditions ne sont pas remplies, l’indulgence sera seulement partielle, restant sauf ce qui est prescrit au numéro 11 pour les " empêchés ".
->
+
 > **8.** Ces trois conditions peuvent être accomplies plusieurs jours avant ou après l’exécution de l’œuvre prescrite. Il convient cependant que la communion et la prière selon les intentions du Souverain Pontife aient lieu le jour même où l’œuvre est accomplie.
->
+
 > **9.** Plusieurs indulgences plénières peuvent être obtenues avec une seule confession sacramentelle ; mais par une seule communion et une seule prière selon les intentions du Souverain Pontife, on ne gagne qu’une indulgence plénière.
->
+
 > **10.** La condition de prier aux intentions du Souverain Pontife est pleinement remplie si l’on récite à son intention un Notre Père et un Je vous salue Marie ; mais chaque fidèle peut réciter telle ou telle autre prière, selon la piété et la dévotion de chacun envers le Pontife Romain.
->
+
 > **11.** Restant sauve la faculté donnée aux confesseurs par le canon 935 C.I.C. de commuer pour ceux qui sont "empêchés" soit l’œuvre prescrite, soit les conditions prévues, les Ordinaires des lieux peuvent permettre aux fidèles sur lesquels ils exercent leur autorité selon le droit, s’ils habitent des endroits où il est impossible, ou au moins très difficile, de se confesser ou de communier, de gagner l’indulgence plénière sans confession ni communion actuelles, à condition qu’ils aient le cœur contrit et qu’ils aient l’intention de recevoir ces sacrements dès qu’ils le pourront.
->
+
 > **12.** La division en indulgences personnelles, réelles et locales n’est plus employée, afin qu’apparaisse plus clairement que les indulgences sont attachées aux actions des fidèles, bien que parfois elles soient liées à un objet ou à un lieu.
->
+
 > **13.** Le manuel des indulgences (Enchiridion indulgentiarum) sera révisé afin que ne soient indulgenciées que les principales prières et les principales œuvres de piété, de charité et de pénitence.
->
+
 > **14.** Les listes et les recueils d’indulgences des ordres, des congrégations religieuses, des sociétés de vie commune sans vœux, des instituts séculiers, ainsi que des pieuses associations de fidèles, seront révisés le plus tôt possible, de sorte que l’indulgence plénière ne puisse être gagnée qu’en des jours déterminés qui seront fixés par le Saint-Siège, sur proposition du Modérateur général, ou, s’il s’agit de pieuses associations, de l’Ordinaire du lieu.
->
+
 > **15.** Dans toutes les églises, oratoires publics ou — pour ceux qui en ont le légitime usage — semi-publics on peut obtenir l’indulgence plénière du 2 novembre, applicable aux défunts seulement.
->
+
 > Mais dans les églises paroissiales on peut, de plus, obtenir deux fois par an une indulgence plénière : le jour de la fête du titulaire et le 2 août, jour de l’indulgence de la " Portioncule ", ou un autre jour plus opportun fixé par l’Ordinaire.
->
+
 > Toutes ces indulgences peuvent être gagnées soit les jours fixés ci-dessus, soit, avec le consentement de l’Ordinaire, le dimanche précédant ou suivant.
->
+
 > Les autres indulgences attachées à des églises ou à des oratoires devront être revues le plus tôt possible.
->
+
 > **16.** L’œuvre prescrite pour obtenir une indulgence plénière attachée à une église ou un oratoire est la pieuse visite de cette église ou de cet oratoire, au cours de laquelle on récite la prière du Seigneur et le symbole de la foi (Pater et Credo).
->
+
 > **17.** Le fidèle qui utilise avec recueillement un objet de piété régulièrement béni par un prêtre (crucifix, croix, chapelet, scapulaire, médaille) gagne une indulgence partielle.
->
+
 > Si l’objet de piété a été béni par le Souverain Pontife ou par un évêque, le fidèle qui l’utilise avec dévotion peut aussi gagner une indulgence plénière en la fête des saints apôtres Pierre et Paul, en ajoutant cependant quelque formule légitime de profession de foi.
->
+
 > **18.** Si on ne peut recourir à un prêtre pour donner à un fidèle en danger de mort les sacrements et la bénédiction apostolique avec indulgence plénière aux termes du canon 468, § 2, C.I.C., notre sainte Mère l’Église lui accorde, s’il est bien disposé, l’indulgence plénière qui peut être gagnée à l’article de la mort, à condition que pendant sa vie il ait récité quelques prières d’une façon habituelle. Pour gagner cette indulgence plénière, est recommandé l’usage d’un crucifix ou d’une croix.
->
+
 > Un fidèle pourra gagner cette même indulgence plénière à l’article de la mort, même si le même jour il a déjà gagné une autre indulgence plénière.
->
+
 > **19.** Les règles établies pour les indulgences plénières, particulièrement au numéro 6, s’appliquent également aux indulgences plénières habituellement appelées jusqu’à présent " toties quoties " (chaque fois que).
->
+
 > **20.** Notre sainte Mère l’Église, dans sa très grande sollicitude pour les fidèles défunts, a prescrit qu’à chaque sacrifice de la Messe des suffrages soient très largement exprimés pour eux, tout privilège à ce sujet étant aboli.
 
 \* \* \*

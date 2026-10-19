@@ -1,9 +1,5 @@
 # Educar juntos en la escuela católica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA EDUCACIÓN CATÓLICA (para los Seminarios e Institutos de Estudio)**
 
 ***EDUCAR JUNTOS EN LA ESCUELA CATÓLICA***
@@ -19,27 +15,27 @@
 **[I. LA COMUNIÓN EN LA MISIÓN EDUCATIVA](#I._LA_COMUNIÓN_EN_LA_MISIÓN_EDUCATIVA_)**
 
 > **[La Iglesia: misterio de comunión y misión](#La_Iglesia:_misterio_de_comunión_y_misión_)**
->
+
 > **[Educar en comunión y a la comunión](#Educar_en_comunión_y_a_la_comunión)**
->
+
 > **[Las personas consagradas y los fieles laicos juntos en la escuela](#Las_personas_consagradas_y_los_fieles_laicos_juntos_en_la_escuela_)**
 
 **[II. UN CAMINO DE FORMACIÓN PARA EDUCAR JUNTOS](#II._UN_CAMINO_DE_FORMACIÓN_PARA_EDUCAR_JUNTOS)**
 
 > **[Formación profesional](#Formación_profesional__)**
->
+
 > [**Formación teológica y espiritual**](#Formación_teológica_y_espiritual__)
->
+
 > > *[La aportación de los consagrados a la formación compartida](#La_aportación_de_los_consagrados_a_la_formación_compartida_) [La aportación de los laicos a la formación compartida](#La_aportación_de_los_laicos_a_la_formación_compartida)*
->
+
 > **[Formación al espíritu de comunión para educar](#Formación_al_espíritu_de_comunión_para_educar__)**
->
+
 > > *[Testimonio y cultura de la comunión](#Testimonio_y_cultura_de_la_comunión) [Comunidad educativa y pastoral vocacional](#Comunidad_educativa_y_pastoral_vocacional_)*
 
 ###### [III. LA COMUNIÓN PARA ABRIRSE A LOS OTROS](#III._LA_COMUNIÓN_PARA_ABRIRSE_A_LOS_OTROS_)
 
 > [Fundamentos antropológicos y teológicos](#Fundamentos_antropológicos_y_teológicos__)
->
+
 > [Constructores de comunión abierta](#Constructores_de_comunión_abierta__)
 
 **[CONCLUSIÓN](#CONCLUSIÓN)**
@@ -207,8 +203,6 @@ El Santo Padre, durante la audiencia concedida al Prefecto, ha aprobado el prese
 *Subsecretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benedicto XVI, *[Discurso con ocasión de la apertura del Congreso eclesial de la diócesis de Roma sobre la familia y la comunidad cristiana](/holy_father/benedict_xvi/speeches/2005/june/documents/hf_ben-xvi_spe_20050606_convegno-famiglia_sp.html)* (6 de junio de 2005): *AAS* 97 (2005), 816.
 

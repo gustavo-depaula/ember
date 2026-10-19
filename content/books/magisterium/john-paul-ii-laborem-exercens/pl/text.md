@@ -8,8 +8,6 @@ Ioannes Paulus PP. II
 
 ***Blessing***
 
-*** ***
-
 *Czcigodni Bracia, Umiłowani Synowie i Córki, Pozdrowienie i Apostolskie Błogosławieństwo!*
 
 Z PRACY swojej ma człowiek pożywać chleb codzienny (por. *Ps* 128 \[127\], 2; por. także *Rdz* 3, 17 nn.; *Prz* 10, 22; *Wj* 1, 8-14; *Jr 22*, 13) i poprzez pracę ma się przyczyniać do ciągłego rozwoju nauki i techniki, a zwłaszcza do nieustannego podnoszenia poziomu kulturalnego i moralnego społeczeństwa, w którym żyje jako członek braterskiej wspólnoty; praca zaś oznacza każdą działalność, jaką człowiek spełnia, bez względu na jej charakter i okoliczności, to znaczy każdą działalność człowieka, którą za pracę uznać można i uznać należy pośród całego bogactwa czynności, do jakich jest zdolny i dysponowany poprzez samą swoją naturę, poprzez samo człowieczeństwo. Stworzony bowiem na obraz i podobieństwo Boga Samego (por. *Rdz* 1, 26) wśród widzialnego wszechświata, ustanowiony, aby ziemię czynić sobie poddaną (por. *Rdz* 1, 28), jest człowiek przez to samo od początku *powołany do pracy. Praca wyróżnia go* wśród reszty stworzeń, których działalności związanej z utrzymaniem życia nie można nazywać pracą — tylko człowiek jest do niej zdolny i tylko człowiek ją wykonuje, wypełniając równocześnie pracą swoje bytowanie na ziemi. Tak więc praca nosi na sobie szczególne znamię człowieka i człowieczeństwa, znamię osoby działającej we wspólnocie osób — a znamię to stanowi jej wewnętrzną kwalifikację, konstytuuje niejako samą jej naturę.

@@ -6,8 +6,6 @@
 
 **GRATISSIMAM SANE**
 
-* *
-
 *Carissime Famiglie!*
 
 1\. La celebrazione dell'Anno della Famiglia mi offre la gradita occasione di bussare alla porta della vostra casa, desideroso di salutarvi con grande affetto e di intrattenermi con voi. Lo faccio con questa lettera, prendendo l'avvio dalle parole dell'Enciclica *[Redemptor hominis](http://www.vatican.va/edocs/ITA1220/_INDEX.HTM),* che ho pubblicato nei primi giorni del mio ministero petrino. Scrivevo allora: *l'uomo è la via della Chiesa*.
@@ -449,5 +447,3 @@ Con questi sentimenti benedico ogni famiglia nel nome della Santissima Trinità:
 *Dato a Roma, presso San Pietro, il 2 febbraio, Festa della Presentazione del Signore, dell'anno 1994, decimosesto di Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-*  *

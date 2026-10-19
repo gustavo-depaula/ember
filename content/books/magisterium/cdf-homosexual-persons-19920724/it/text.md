@@ -1,9 +1,5 @@
 # Alcune considerazioni concernenti la risposta a proposte di legge sulla non discriminazione delle persone omosessuali
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **Alcune considerazioni concernenti la risposta a proposte di legge sulla non discriminazione delle persone omosessuali**
@@ -57,5 +53,3 @@ Inoltre, vi è il pericolo che una legislazione che faccia dell'omosessualità u
 15\. Dal momento che nella valutazione di una proposta di legislazione la massima cura dovrebbe essere data alla respon­sabilità di difendere e di promuovere la vita della famiglia (cf. n. 17), grande attenzione dovrebbe essere prestata ai singoli provvedimenti degli interventi proposti. Come influenzeranno l'adozione o l'affido? Costituiranno una difesa degli atti omosessuali, pubblici o privati? Conferiranno uno stato equivalente a quello di una famiglia a unioni omosessuali, per esempio, a riguardo dell'edilizia pubblica o dando al partner omosessuale vantaggi contrattuali che potrebbero includere elementi come partecipazione della «famiglia» nelle indennità di salute prestate a chi lavora (cf. n. 9)?
 
 16\. Infine, laddove una questione di bene comune è in gioco, non è opportuno che le Autorità ecclesiali sostengano o rimangano neutrali davanti a una legislazione negativa anche se concede delle eccezioni alle organizzazioni e alle istituzioni della Chiesa. La Chiesa ha la responsabilità di promuovere la vita della famiglia e la moralità pubblica dell'intera società civile sulla base dei valori morali fondamentali, e non solo di proteggere se stessa dalle conseguenze di leggi perniciose (cf. n. 17).
-
-[](#top)

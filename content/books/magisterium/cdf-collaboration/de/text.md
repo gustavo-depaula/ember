@@ -1,9 +1,5 @@
 # SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE ÜBER DIE ZUSAMMENARBEIT VON MANN UND FRAU IN DER KIRCHE UND IN DER WELT
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **SCHREIBEN AN DIE BISCHÖFE DER KATHOLISCHEN KIRCHE ÜBER DIE ZUSAMMENARBEIT VON MANN UND FRAU IN DER KIRCHE UND IN DER WELT**
 
 **EINLEITUNG**
@@ -178,6 +174,4 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 31. Mai 2004, dem Fest 
 
 ²¹Enzyklika *Laborem exercens* (14. September 1981), 19: *AAS* 73 (1981) 627.
 
-²²Vgl. Johannes Paul II., Apostolisches Schreiben *Ordinatio sacerdotalis* (22. Mai 1994): *AAS* 86 (1994) 545-548; Kongregation für die Glaubenslehre, *Antwort auf den Zweifel bezüglich der im Apostolischen Schreiben »Ordinatio sacerdotalis« vorgelegten Lehre* (28. Oktober 1995): *AAS* 87 (1995) 1114.        
-
-[](#top)
+²²Vgl. Johannes Paul II., Apostolisches Schreiben *Ordinatio sacerdotalis* (22. Mai 1994): *AAS* 86 (1994) 545-548; Kongregation für die Glaubenslehre, *Antwort auf den Zweifel bezüglich der im Apostolischen Schreiben »Ordinatio sacerdotalis« vorgelegten Lehre* (28. Oktober 1995): *AAS* 87 (1995) 1114.

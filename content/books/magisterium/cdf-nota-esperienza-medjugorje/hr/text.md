@@ -1,15 +1,5 @@
 # “Kraljica Mira”. Nota o duhovnom iskustvu vezanom za Međugorje
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_fr.html) - [HR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_hr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_po.html) - [ZH_CN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_cn.pdf) - [ZH_TW](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_tw.pdf)\]
@@ -414,7 +404,5 @@ Franciscus
 *[Prijekori i prijetnje](#Prijekori_i_prijetnje) [Poruke župi](#Poruke_zupi) [Neprestano inzistiranje na slušanju poruka](#Neprestano_inzistiranje_na_slusanju_poruka) [Gospa daje ispravnu vrijednost svojim porukama](#Gospa_daje_ispravnu_vrijednost_svojim_porukama) [Gospino „samouzdizanje“](#Gospino_samouzdizanje) [S nama prema Kristu](#S_nama_prema_Kristu)*
 
 **[Zaključci](#Zakljucci)**
-
-** **
 
 ------------------------------------------------------------------------

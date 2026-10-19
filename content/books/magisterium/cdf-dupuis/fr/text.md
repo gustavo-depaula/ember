@@ -1,9 +1,5 @@
 # Notification sur le livre du père J.Dupuis, S.J.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***NOTIFICATION* sur le livre du P. JACQUES DUPUIS, S.J., *«Vers une théologie chrétienne du pluralisme religieux»* Paris, Cerf 1997**
@@ -60,8 +56,6 @@ A Rome, au siège de la Congrégation pour la Doctrine de la Foi, le 24 janvier 
  + Tarcisio Bertone, SDB* Archevêque émérite de Verceil Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: En raison des tendances manifestées dans divers milieux et toujours plus présentes dans la pensée des fidèles eux-mêmes, la Congrégation pour la Doctrine de la Foi a publié la *Déclaration “Dominus Jesus” sur l’unicité et l’universalité salvifique de Jésus-Christ et de l’Eglise* \[AAS, 92 (2000) 742-765\] pour protéger le donné essentiel de la foi catholique. La *Notification* s’inspire des principes indiqués dans cette *Déclaration* pour évaluer l’oeuvre de J. Dupuis.
 

@@ -1,22 +1,10 @@
 # Lettera ai Vescovi e Superiori Generali riguardante la riduzione allo stato laicale, 13 gennaio 1971
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE  **
 
 **Lettera ai Vescovi e Superiori Generali riguardante la riduzione allo stato laicale**
-
-** **
-
-**  **
 
 Nella Lettera Enciclica *[Sacerdotalis caelibatus](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_24061967_sacerdotalis_it.html)* del 24 giugno 1967, il Sommo Pontefice Paolo VI parlava «con paterno amore, con trepidazione e dolore grande... di quegli infelici, ma sempre amatissimi e desideratissimi fratelli nostri nel sacerdozio, i quali, mantenendo impresso nell'anima il carattere sacro conferito dall'Ordinazione sacerdotale, furono disgraziatamente infedeli agli obblighi assunti al tempo della loro consacrazione sacerdotale».
 
@@ -61,7 +49,5 @@ E mentre comunichiamo quanto sopra in ragione del nostro ufficio, porgiamo volen
 **Franjo Card. Šeper** * Prefetto*
 
 **Mons. Paul Philippe** * Segretario*
-
-*  *
 
 ------------------------------------------------------------------------

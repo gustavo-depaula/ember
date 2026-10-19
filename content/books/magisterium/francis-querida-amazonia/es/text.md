@@ -49,7 +49,7 @@ Y A TODAS LAS PERSONAS DE BUENA VOLUNTAD
 > donde habitó la tortura  
 > y vastos los bosques  
 > comprados entre mil muertes»[^3].
->
+
 > «Los madereros tienen parlamentarios  
 > y nuestra Amazonia ni quién la defienda \[…\]  
 > Exilian a los loros y a los monos \[…\]  
@@ -126,7 +126,7 @@ De aquí nace el siguiente sueño.
 > Pero a veces, cuando no se veía por ningún lado  
 > el paisaje con su río y sus árboles,  
 > a las cosas les tocaba salir en la mente de un muchacho»[^33].
->
+
 > «Del río haz tu sangre \[…\].  
 > Luego plántate,  
 > germina y crece  

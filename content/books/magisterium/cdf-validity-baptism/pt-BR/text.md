@@ -1,9 +1,5 @@
 # Resposta a dúvidas propostas sobre a validade do Batismo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 *"Responsa ad proposita dubia"*
@@ -33,5 +29,3 @@ Da sede da Congregação para a Doutrina da Fé, 1 de Fevereiro de 2008.
 **Card. William Levada** *Prefeito*
 
 **D. Angelo Amato, S.D.B.** *Secretário*
-
-[](#top)

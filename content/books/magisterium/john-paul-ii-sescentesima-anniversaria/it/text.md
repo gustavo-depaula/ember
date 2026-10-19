@@ -121,5 +121,3 @@ A voi, venerati e cari fratelli, ai vostri fedeli, a tutti i Lituani sparsi nel 
 *Dato a Roma, presso San Pietro, il 5 giugno dell'anno 1987, nono di Pontificato.*
 
 **IOANNES PAULUS PP. II**
-
-* *

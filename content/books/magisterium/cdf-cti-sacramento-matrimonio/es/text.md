@@ -1,13 +1,5 @@
 # Doctrina católica sobre el matrimonio
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL
@@ -17,7 +9,7 @@ COMISIÓN TEOLÓGICA INTERNACIONAL
 \(1977\)
 
 > **A) [Texto de las treinta tesis aprobadas «in forma specifica» por la Comisión Teológica Internacional](#Texto_de_las_treinta_tesis)**
->
+
 > **B) [Texto de las «Dieciséis Tesis» del P. G. Martelet aprobadas «in forma generica» por la Comisión teológica internacional](#Texto_de_las_«Dieciséis_Tesis»)**
 
 ***Introducción***, por Mons. Ph. Delhaye

@@ -4,8 +4,6 @@ JOHANNES PAUL II.
 
 ***APOSTOLISCHES SCHREIBEN ZUM 50. JAHRESTAG DES BEGINNS DES ZWEITEN WELTKRIEGS***
 
-*** ***
-
 *An meine Brüder im Bischofsamt, an die Priester und die Ordensfamilien, an die Söhne und Töchter der Kirche, an die Regierungen, an alle Menschen guten Willens*
 
 ***Die Stunde der Dunkelheit***
@@ -169,5 +167,3 @@ Sein Friede und sein Segen seien mit euch allen!
 *Aus dem Vatikan, am 27. August 1989, im elften Jahre meines Pontifikates.*
 
 **JOHANNES PAUL II.**
-
-* *

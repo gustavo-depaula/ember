@@ -1,15 +1,5 @@
 # Risposta a Sua Em.za il Card. Matteo Maria Zuppi, Arcivescovo di Bologna, circa due quesiti relativi alla conservazione delle ceneri dei defunti, sottoposti a cremazione
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
@@ -26,7 +16,7 @@ In particolare, riferiva di aver costituito in Diocesi di Bologna una Commission
 Per essere certi di corrispondere non solo alla richiesta dei familiari, ma soprattutto all’annuncio cristiano della risurrezione dei corpi e al rispetto loro dovuto, lo scrivente ha rivolto i seguenti quesiti:
 
 > 1\. Tenuto conto del divieto canonico di disperdere le ceneri di un defunto – analogamente a quanto accade negli ossari, ove si depositano e conservano cumulativamente i resti mineralizzati dei defunti – è possibile predisporre un luogo sacro, definito e permanente, per l’accumulo commisto e la conservazione delle ceneri dei battezzati defunti, indicando per ciascuno i dati anagrafici per non disperdere la memoria nominale?
->
+
 > 2\. Si può concedere ad una famiglia di conservare una parte delle ceneri di un familiare in un luogo significativo per la storia del defunto?
 
 Dopo aver debitamente esaminato i contenuti di tali quesiti, si è deciso di rispondere nel modo seguente:

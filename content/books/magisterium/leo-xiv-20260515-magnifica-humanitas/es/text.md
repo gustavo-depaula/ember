@@ -87,10 +87,6 @@ EN EL TIEMPO DE LA INTELIGENCIA ARTIFICIAL
 
 *[El Verbo se hizo carne](#El_Verbo_se_hizo_carne) [Un solo cuerpo en Cristo](#Un_solo_cuerpo_en_Cristo) [La obra de nuestro tiempo](#La_obra_de_nuestro_tiempo) [El canto de la esperanza: el “Magníficat”](#El_canto_de_la_esperanza:_el_Magnificat)*
 
-** **
-
-** **
-
 **INTRODUCCIÓN**
 
 1. La magnífica humanidad que Dios ha creado se encuentra hoy ante una elección decisiva: levantar una nueva torre de Babel o edificar la ciudad donde Dios y la humanidad habiten juntos. Cada generación recibe como herencia la tarea de dar forma a su propio tiempo: hacer madurar la historia como un lugar donde se proteja la dignidad de cada persona, se promueva la justicia y se haga posible la fraternidad. Pero en cada época se cierne el riesgo de construir un mundo inhumano y más injusto. Allí donde la humanidad corre el peligro de perder su rostro, nosotros, los cristianos, alzamos los ojos hacia el Dios que se hizo carne, sabiendo que «el misterio del hombre sólo se esclarece en el misterio del Verbo encarnado». [^1] En Jesucristo, esta magnífica humanidad encuentra el camino, la verdad y la vida, abriendo a cada uno de nosotros la vía para crecer hacia la plenitud.

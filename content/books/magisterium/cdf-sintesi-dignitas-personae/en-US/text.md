@@ -1,9 +1,5 @@
 # Regarding the Instruction Dignitatis Personae, 12 December 2008
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **Regarding the Instruction [Dignitas Personae](rc_con_cfaith_doc_20081208_dignitas-personae_en.html)** [](rc_con_cfaith_doc_20081208_dignitas-personae_en.html)
@@ -39,7 +35,7 @@ The [Instruction](rc_con_cfaith_doc_20081208_dignitas-personae_en.html) has thre
 ***The two fundamental principles***
 
 > “The human being is to be respected and treated as a person from the moment of conception; and therefore from that same moment his rights as a person must be recognized, among which in the first place is the inviolable right of every innocent human being to life” (n. 4).
->
+
 > “The origin of human life has its authentic context in marriage and in the family, where it is generated through an act which expresses the reciprocal love between a man and a woman. Procreation which is truly responsible vis-à-vis the child to be born must be the fruit of marriage” (n. 6).
 
 ***Faith and human dignity***
@@ -63,21 +59,21 @@ The [Instruction](rc_con_cfaith_doc_20081208_dignitas-personae_en.html) has thre
 Among the procedures which respond to problems of fertility are the following:
 
 > “techniques of heterologous artificial fertilization” (n. 12): that is, “techniques used to obtain a human conception artificially by the use of gametes coming from at least one donor other than the spouses who are joined in marriage” (footnote 22).
->
+
 > “techniques of homologous artificial fertilization” (n. 12): that is, “the technique used to obtain a human conception using the gametes of the two spouses joined in marriage” ([^23]).
->
+
 > “techniques which act as an aid to the conjugal act and its fertility” (n. 12).
->
+
 > “techniques aimed at removing obstacles to natural fertilization” (n. 13).
->
+
 > “adoption” (n. 13).
 
 Techniques are morally permissible if they respect: “the right to life and to physical integrity of every human being”, “the unity of marriage, which means reciprocal respect for the right within marriage to become a father or mother only together with the other spouse” and “the specifically human values of sexuality” (n. 12), which require that the procreation of a new human person come about as a result of the conjugal act specific to the love between a husband and wife.
 
 > Therefore, “techniques which act as an aid to the conjugal act and its fertility are permitted” (n. 12). In such procedures, the “medical intervention respects the dignity of persons when it seeks to assist the conjugal act either in order to facilitate its performance or in order to enable it to achieve its objective once it has been normally performed” (n. 12).
->
+
 > “Certainly, techniques aimed at removing obstacles to natural fertilization… are licit” (n. 13).
->
+
 >  “Adoption should be encouraged, promoted and facilitated so that the many children who lack parents may receive a home… In addition, research and investment directed at the prevention of sterility deserve encouragement (n. 13).
 
 ***In vitro fertilization and the deliberate destruction of embryos***
@@ -133,15 +129,15 @@ There are methods of preventing pregnancy which act after fertilization, when th
 Gene therapy commonly refers to “techniques of genetic engineering applied to human beings for therapeutic purposes, that is to say, with the aim of curing genetically based diseases” (n. 25).
 
 > Somatic cell gene therapy “seeks to eliminate or reduce genetic defects on the level of somatic cells” (n. 25).
->
+
 > Germ line cell therapy aims “at correcting genetic defects present in germ line cells with the purpose of transmitting the therapeutic effects to the offspring of the individual” (n. 25).
 
 From the ethical point of view:
 
 > Procedures used on somatic cells for strictly therapeutic purposes “are in principle morally licit…Given that gene therapy can involve significant risks for the patient, the ethical principle must be observed according to which, in order to proceed to a therapeutic intervention, it is necessary to establish beforehand that the person being treated will not be exposed to risks to his health or physical integrity which are excessive or disproportionate to the gravity of the pathology for which a cure is sought. The informed consent of the patient or his legitimate representative is also required” (n. 26).
->
+
 > With regard to germ line cell therapy, “the risks connected to any genetic manipulation are considerable and as yet not fully controllable” and therefore “in the present state of research, it is not morally permissible to act in a way that may cause possible harm to the resulting progeny” (n. 26).
->
+
 > With regard to the possibility of using techniques of genetic engineering to introduce alterations with the presumed aim of improving and strengthening the gene pool, it must be observed that such interventions would promote a “eugenic mentality” and would introduce an “indirect social stigma with regard to people who lack certain qualities, while privileging qualities that happen to be appreciated by a certain culture or society; such qualities do not constitute what is specifically human. This would be in contrast with the fundamental truth of the equality of all human beings which is expressed in the principle of justice, the violation of which, in the long run, would harm peaceful coexistence among individuals… Finally it must also be noted that in the attempt to create a new type of human being one can recognize an ideological element in which man tries to take the place of his Creator” (n. 27).
 
 ***Human cloning***
@@ -151,9 +147,9 @@ Human cloning refers to “the asexual or agametic reproduction of the entire hu
 Human cloning is “intrinsically illicit in that…it seeks to give rise to a new human being without a connection to the act of reciprocal self-giving between the spouses and, more radically, without any link to sexuality. This leads to manipulation and abuses gravely injurious to human dignity” (n. 28).
 
 > With regard to reproductive cloning, “this would impose on the resulting individual a predetermined genetic identity, subjecting him – as has been stated – to a form of biological slavery, from which it would be difficult to free himself. The fact that someone would arrogate to himself the right to determine arbitrarily the genetic characteristics of another person represents a grave offence to the dignity of that person as well as to the fundamental equality of all people… In the encounter with another person, we meet a human being who owes his existence and his proper characteristics to the love of God, and only the love of husband and wife constitutes a mediation of that love in conformity with the plan of the Creator and heavenly Father” (n. 29).
->
+
 > With regard to cloning for medical therapy or research, it must be said that to “create embryos with the intention of destroying them, even with the intention of helping the sick, is completely incompatible with human dignity, because it makes the existence of a human being at the embryonic stage nothing more than a means to be used and destroyed. It is gravely immoral to sacrifice a human life for therapeutic ends” (n. 30).
->
+
 > As an alternative to therapeutic cloning some researchers have proposed new techniques which are presented as capable of producing stem cells of an embryonic type without implying the destruction of true human embryos, for example, by altered nuclear transfer (ANT) or oocyte assisted reprogramming (OAR). Doubts still remain, however, “regarding the ontological status of the ‘product’ obtained in this way” (n. 30).
 
 ***The therapeutic use of stem cells***
@@ -163,9 +159,9 @@ Human cloning is “intrinsically illicit in that…it seeks to give rise to a n
 For the ethical evaluation, it is necessary above all to consider the methods of obtaining stem cells.
 
 > “Methods which do not cause serious harm to the subject from whom the stem cells are taken are to be considered licit. This is generally the case when tissues are taken from: a) an adult organism; b) the blood of the umbilical cord at the time of birth; c) fetuses who have died of natural causes” (n. 32).
->
+
 > “The obtaining of stem cells from a living human embryo…invariably causes the death of the embryo and is consequently gravely illicit… In this case, research…is not truly at the service of humanity. In fact, this research advances through the suppression of human lives that are equal in dignity to the lives of other human individuals and to the lives of the researchers themselves” (n. 32).
->
+
 > “The use of embryonic stem cells or differentiated cells derived from them – even when these are provided by other researchers through the destruction of embryos or when such cells are commercially available – presents serious problems from the standpoint of cooperation in evil and scandal” (n. 32).
 
 Numerous studies, however, have shown that adult stem cells give more positive results than embryonic stem cells.
@@ -181,9 +177,7 @@ Numerous studies, however, have shown that adult stem cells give more positive r
 For scientific research and for the production of vaccines or other products, cell lines are at times used which are the result of an illicit intervention against the life or physical integrity of a human being.
 
 > Experimentation on human embryos “constitutes a crime against their dignity as human beings who have a right to the same respect owed to a child once born, just as to every person. These forms of experimentation always constitute a grave moral disorder” (n. 34).
->
-> With regard to the use of “biological material” of illicit origin by researchers, which has been produced apart from their research center or which has been obtained commercially, the moral requirement “must be safeguarded that there be no complicity in deliberate abortion and that the risk of scandal be avoided. In this regard, the criterion of independence as it has been formulated by some ethics committees is not sufficient. According to this criterion, the use of ‘biological material’ of illicit origin would be ethically permissible provided there is a clear separation between those who, on the one hand, produce, freeze and cause the death of embryos and, on the other, the researchers involved in scientific experimentation”. It needs to be remembered that the “duty to refuse to use such ‘biological material’ springs from the necessity to remove oneself, within the area of one’s own research, from a gravely unjust legal situation and to affirm with clarity the value of human life. Therefore, the above-mentioned criterion of independence is necessary, but may be ethically insufficient” (n. 35).
->
-> “Of course, within this general picture there exist differing degrees of responsibility. Grave reasons may be morally proportionate to justify the use of such ‘biological material’. Thus, for example, danger to the health of children could permit parents to use a vaccine which was developed using cell lines of illicit origin, while keeping in mind that everyone has the duty to make known their disagreement and to ask that their healthcare system make other types of vaccines available. Moreover, in organizations where cell lines of illicit origin are being utilized, the responsibility of those who make the decision to use them is not the same as that of those who have no voice in such a decision” (n. 35).
 
-[](#top)
+> With regard to the use of “biological material” of illicit origin by researchers, which has been produced apart from their research center or which has been obtained commercially, the moral requirement “must be safeguarded that there be no complicity in deliberate abortion and that the risk of scandal be avoided. In this regard, the criterion of independence as it has been formulated by some ethics committees is not sufficient. According to this criterion, the use of ‘biological material’ of illicit origin would be ethically permissible provided there is a clear separation between those who, on the one hand, produce, freeze and cause the death of embryos and, on the other, the researchers involved in scientific experimentation”. It needs to be remembered that the “duty to refuse to use such ‘biological material’ springs from the necessity to remove oneself, within the area of one’s own research, from a gravely unjust legal situation and to affirm with clarity the value of human life. Therefore, the above-mentioned criterion of independence is necessary, but may be ethically insufficient” (n. 35).
+
+> “Of course, within this general picture there exist differing degrees of responsibility. Grave reasons may be morally proportionate to justify the use of such ‘biological material’. Thus, for example, danger to the health of children could permit parents to use a vaccine which was developed using cell lines of illicit origin, while keeping in mind that everyone has the duty to make known their disagreement and to ask that their healthcare system make other types of vaccines available. Moreover, in organizations where cell lines of illicit origin are being utilized, the responsibility of those who make the decision to use them is not the same as that of those who have no voice in such a decision” (n. 35).

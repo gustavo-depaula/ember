@@ -1,9 +1,5 @@
 # INFORMACJA O KSIĄŻCE O. EDWARDA SCHILLEBEECKX'A, O.P., PLEIDOOI VOOR MENSEN IN DER KERK
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **INFORMACJA O KSIĄŻCE O. EDWARDA SCHILLEBEECKX'A, O.P., *PLEIDOOI VOOR MENSEN IN DER KERK***
@@ -33,5 +29,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 15 września 1986 r.
 **JOSEPH Kard. RATZINGER** *Prefekt*
 
 **+ ALBERTO BOVONE** *Sekretarz*
-
-[](#top)

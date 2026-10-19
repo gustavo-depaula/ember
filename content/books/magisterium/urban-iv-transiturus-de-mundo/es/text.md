@@ -8,8 +8,6 @@
 
 **CON LA QUE SE INSTITUYE LA FIESTA DEL CORPUS CHRISTI**
 
-* *
-
 Urbano Obispo, siervo de los siervos de Dios, a los venerables hermanos patriarcas, arzobispos, obispos y demás prelados, salud y bendición apostólica.
 
 Cristo, nuestro salvador, estando para partir de este mundo para subir al Padre, poco antes de su Pasión, en la Ultima Cena, instituyó, en memoria de su muerte, el sumo y magnífico sacramento de Su Cuerpo y Su Sangre, dándonos el Cuerpo como alimento y la Sangre como bebida.

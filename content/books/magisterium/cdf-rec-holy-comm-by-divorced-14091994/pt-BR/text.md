@@ -1,13 +1,5 @@
 # Carta aos Bispos da Igreja Católica sobre a recepção da comunhão eucarística por fiéis divorciados novamente casados - Annus Internationalis Familiae
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**

@@ -1,15 +1,5 @@
 # Dignitatis Humanae
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Tamko juu ya uhuru wa dini**
@@ -20,8 +10,6 @@ Paulo Askofu
 Mtumishi wa Watumishi wa Mungu  
 pamoja na Mababa wa Mtaguso mkuu  
 ataka haya yakumbukwe daima
-
-**  **
 
 **UTANGULIZI**
 

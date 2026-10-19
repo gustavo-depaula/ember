@@ -1,9 +1,5 @@
 # Enkele vraagstukken over God als Verlosser, 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONALE THEOLOGISCHE COMMISSIE
 
 **Enkele vraagstukken over God als Verlosser\***
@@ -38,5 +34,3 @@ De bestudering van de theologie van de verlossing werd in 1992 door paus Johanne
 Algemene discussies over dit onderwerp vonden plaats tijdens verschillende bijeenkomsten van de subcommissie en op de algemene vergaderingen van de Internationale Theologische Commissie zelf, gehouden te Rome in 1992, 1993 en 1994. Deze tekst werd in *forma specifica* goedgekeurd door een stemming van de commissie op 29 november 1994 en aan de voorzitter ervan, Joseph Kardinaal Ratzinger, prefect van de Congregatie voor de Geloofsleer, voorgelegd, die hem ter publicatie heeft goedgekeurd.
 
 De Internationale Theologische Commissie heeft niet de bedoeling nieuwe theologische elementen aan te bieden, maar veeleer - door hier een synthese van hedendaagse theologische benaderingen te geven - een betrouwbaar referentiepunt te bieden bij het voortgaande gesprek en onderzoek over dit vraagstuk.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Informacja Dotycząca Wyrażenia „Kościoły Siostrzane”, 28 października 2000 r.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ŚWIĘTA KONGREGACJA NAUKI WIARY
 
 **INFORMACJA DOTYCZĄCA WYRAŻENIA**
@@ -75,5 +71,3 @@ W konsekwencji należy unikać jako źródła nieporozumienia i teologicznego za
 ⁸ Por. KONGREGACJA NAUKI WIARY, List Communionis notio (28 maja 1992), 9: AAS 85 (1993) 838-850.
 
 ⁹ Por. SOB. WAT. II, Konst. Lumen gentium, 8; KONGREGACJA NAUKI WIARY, Dekl. Mysterium Ecclesiae (24 czerwca 1973), 1: AAS 65 (1973) 396-408.
-
-[](#top)

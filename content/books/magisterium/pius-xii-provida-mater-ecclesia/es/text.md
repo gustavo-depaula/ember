@@ -45,9 +45,9 @@ Art. II. § 1. Como los Institutos Seculares ni admiten los tres votos públicos
 § 2. Los Institutos, salvadas las normas comunes del Derecho Canónico que les afectan, se regirán por las siguientes prescripciones, que responden más estrechamente a su peculiar naturaleza y condición:
 
 > 1° Por las normas generales de esta Constitución Apostólica, que constituyen como el Estatuto propio de todos los Institutos Seculares.
->
+
 > 2° Por las normas que la Sagrada Congregación de Religiosos, según la necesidad lo exija y la experiencia lo aconseje, crea oportuno publicar para todos o algunos de estos Institutos, sea interpretando la Constitución Apostólica, o bien completándola o aplicándola.
->
+
 > 3° Por las Constituciones particulares, aprobadas según las normas de los artículos que siguen, que acomoden prudentemente las normas generales del Derecho y las peculiares antes descritas a los fines, necesidades y circunstancias, no poco diversas entre sí, de cada uno de los Institutos.
 
 Art. III § 1. Para que una Asociación piadosa de fieles, según la norma de los artículos que siguen, pueda conseguir la erección en Instituto Secular, se requiere que tenga, fuera de las demás cosas comunes, las siguientes condiciones:
@@ -57,9 +57,9 @@ Art. III § 1. Para que una Asociación piadosa de fieles, según la norma de lo
 Los socios que desean ser adscritos a los Institutos como miembros, en el más estricto sentido, además de aquellos ejercicios de piedad y abnegación a que todos los que aspiran a la perfección de la vida cristiana es necesario que se dediquen, deben tender eficazmente a ésta por los peculiares modos que aquí se enuncian:
 
 > 1° Por la profesión hecha ante Dios del celibato y castidad perfecta, afirmada con voto, juramento o consagración que obligue en conciencia, según la norma de las Constituciones.
->
+
 > 2° Por el voto o promesa de obediencia, de tal modo que, ligados por un vínculo estable, se entreguen por entero a Dios y a las obras de caridad o apostolado, y estén siempre y en todo, moralmente, bajo la mano y dirección de los Superiores, según la norma de las Constituciones.
->
+
 > 3° Por el voto o promesa de pobreza, en virtud del cual no tengan libre uso de los bienes temporales, sino uso definido y limitado, según las normas de las Constituciones.
 
 § 3. *En cuanto a la incorporación de los miembros al Instituto y al vínculo que de ella nace:*
@@ -67,7 +67,7 @@ Los socios que desean ser adscritos a los Institutos como miembros, en el más e
            El vínculo que conviene que una entre sí al Instituto secular y a sus miembros propiamente dichos, debe ser:
 
 > 1° Estable, según las normas de las Constituciones, o perpetuo o temporal, renovable al terminar el plazo (canon 488, 1°).
->
+
 >  2° Mutuo y pleno, de tal modo que, según la norma de las Constituciones, el miembro se entregue totalmente al Instituto, y el Instituto cuide y responda del miembro.
 
 § 4. *En cuanto a las sedes y casas comunes de los Institutos Seculares:*
@@ -75,9 +75,9 @@ Los socios que desean ser adscritos a los Institutos como miembros, en el más e
            Los Institutos Seculares, aunque no imponen a todos sus miembros, según la norma del Derecho, la vida común o la conmoración bajo el mismo techo (art. II, § 1), sin embargo, conviene que tengan, según la necesidad o utilidad, una o varias casas comunes, en las cuales:
 
 > 1° Puedan residir los que ejercen el régimen del Instituto, sobre todo en el orden supremo o en el regional.
->
+
 > 2° Puedan morar o reunirse los miembros para recibir y completar su instrucción, para hacer los ejercicios espirituales y otras cosas semejantes.
->
+
 > 3° Puedan ser recibidos los miembros que por enfermedad u otras causas no puedan valerse por sí mismos, o que no convenga que vivan privadamente en su casa o en la de otros.
 
 Art. IV. § 1. Los Institutos Seculares dependen de la Sagrada Congregación de Religiosos, salvo los derechos de la Sagrada Congregación de Propaganda Fide, según la norma del canon 252, § 3, en cuanto a las Sociedades y Seminarios destinados a las Misiones.
@@ -99,9 +99,9 @@ Art. VII. § 1. Los Institutos Seculares que consiguieren la aprobación o Decre
 § 3. Para la primera, segunda y, si el caso se da, definitiva aprobación de estos Institutos y de sus Constituciones, se procederá así:
 
 > 1° De la causa, preparada según costumbre e ilustrada por el voto y la disertación de, al menos, un consultor, se hará una primera discusión en la Comisión de Consultores bajo la presidencia del Excelentísimo Secretario de la misma Sagrada Congregación o de otro que haga sus veces.
->
+
 > 2° Entonces se someterá todo el asunto al examen y decisión de la reunión plena de la Sagrada Congregación, bajo la presidencia del Eminentísimo Cardenal Prefecto de la Sagrada Congregación e invitados a discutir con más diligencia la causa, según la necesidad o utilidad lo sugiera, los peritos o los de más peritos consultores.
->
+
 > 3° La resolución de la reunión debe ser referida en Audiencia por el Eminentísimo Cardenal Prefecto o por el Excelentísimo Secretario al Santo Padre y sometida al supremo juicio de éste.
 
 Art. VIII. Los Institutos Seculares, además de las leyes propias, si las hay o en lo futuro se promulguen, estarán sujetos a los Ordinarios del lugar, según las normas del Derecho que rige para las Congregaciones y Sociedades de vida común no exentas.

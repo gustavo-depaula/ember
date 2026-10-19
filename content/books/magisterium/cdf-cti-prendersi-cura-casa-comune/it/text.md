@@ -1,13 +1,5 @@
 # Prendersi cura della nostra Casa comune: Risposta responsabile e fraterna al Dio trinitario
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSIONE TEOLOGICA INTERNAZIONALE
@@ -35,10 +27,10 @@ Piero Coda *Segretario Generale della CTI*
 **[2 *L’impronta trinitaria nella creazione*](#2_L’impronta_trinitaria_nella_creazione)**
 
 > [2.1 *La possibilità di percepire l’impronta della Trinità nella creazione*](#2.1_La_possibilità_di_percepire_l’impronta_della_Trinità_nella_creazione)
->
+
 > > [2.1.1 L’insegnamento di alcuni Dottori della Chiesa](#2.1.1_L’insegnamento_di_alcuni_Dottori_della_Chiesa)  
 > > [2.1.2 Implicazioni in chiave relazionale](#2.1.2_Implicazioni_in_chiave_relazionale)
->
+
 > [2.2 *Sacramentalità*](#2.2_Sacramentalità)  
 > [2.3 *Finalità escatologica*](#2.3_Finalità_escatologica)  
 > [2.4 *Ontologia trinitaria e comunione interrelazionale*](#2.4_Ontologia_trinitaria_e_comunione_interrelazionale)  
@@ -47,12 +39,12 @@ Piero Coda *Segretario Generale della CTI*
 **[3 *In dialogo con alcune visioni scientifiche e filosofiche del cosmo*](#3_In_dialogo_con_alcune_visioni_scientifiche_e_filosofiche_del_cosmo)**
 
 > [3.1 *La visione scientifica del cosmo*](#3.1_La_visione_scientifica_del_cosmo)
->
+
 > > [3.1.1 Una rapida panoramica](#3.1.1_Una_rapida_panoramica)  
 > > [3.1.2 Un dialogo aperto con la scienza](#3.1.2_Un_dialogo_aperto_con_la_scienza)
->
+
 > [3.2 *In dialogo con altre cosmovisioni*](#3.2_In_dialogo_con_altre_cosmovisioni)
->
+
 > > [3.2.1 Alcune proposte filosofiche](#3.2.1_Alcune_proposte_filosofiche)  
 > > [3.2.2 La prospettiva teologica cristiana in dialogo](#3.2.2_La_prospettiva_teologica_cristiana_in_dialogo)
 
@@ -61,10 +53,10 @@ Piero Coda *Segretario Generale della CTI*
 **[1 *Il disegno originario di Dio sull’essere umano*](#1_Il_disegno_originario_di_Dio_sull’essere_umano)**
 
 > [1.1 *Lettura teologica di Gn 1: a immagine e somiglianza di Dio*](#1.1_Lettura_teologica_di_Gn_1:_a_immagine_e_somiglianza_di_Dio)
->
+
 > > [1.1.1 Immagine e somiglianza](#1.1.1_Immagine_e_somiglianza)  
 > > [1.1.2 Benedizione](#1.1.2_Benedizione)
->
+
 > [1.2 *Lettura teologica di Gn 2: la socialità primordiale*](#1.2_Lettura_teologica_di_Gn_2:_la_socialità_primordiale)  
 > [1.3 *Il compito incluso nel disegno originale*](#1.3_Il_compito_incluso_nel_disegno_originale)  
 > [1.4 *Un insegnamento in Prospettiva Ecologica: il principio sabbatico*](#1.4_Un_insegnamento_in_Prospettiva_Ecologica:_il_principio_sabbatico)

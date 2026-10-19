@@ -1,15 +1,5 @@
 # Courageux Apôtre de l'Évangile : Commentaire du Préfet de la Congrégation du Préfet de la Congrégation pour le Culte divin et la discipline des sacrements au Décret d'inscription de la célébration de saint Paul VI, Pape, dans le calendrier romain général
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

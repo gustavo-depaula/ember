@@ -804,15 +804,11 @@ Odnosi się to jeszcze bardziej do małżeństwa chrześcijańskiego, które wyw
 
 Przygotowanie do małżeństwa należy pojmować i urzeczywistniać jako proces stopniowy i ciągły. Składa się ono z trzech podstawowych etapów, którymi są: przygotowanie dalsze, bliższe i bezpośrednie.
 
-* *
-
 Przygotowanie dalsze zaczyna się już w dzieciństwie, w tej mądrej pedagogii rodzinnej, nastawionej na doprowadzenie dzieci do odkrycia siebie jako istot obdarzonych złożoną i bogatą psychiką oraz własną osobowością z jej mocnymi i słabymi stronami. Jest to okres, w którym powinno się zaszczepić szacunek dla każdej zdrowej wartości ludzkiej, tak w stosunkach międzyosobowych, jak i społecznych, z tym wszystkim co ma znaczenie dla kształtowania charakteru, dla opanowania i właściwego użycia własnych skłonności, dla sposobu widzenia i traktowania osób odmiennej płci itd. Ponadto wskazana jest, zwłaszcza u chrześcijan, mocna formacja duchowa i katechetyczna, która ukazałaby małżeństwo jako prawdziwe powołanie i posłannictwo, bez wykluczania możliwości złożenia Bogu całkowitego daru z siebie w pójściu za powołaniem kapłańskim czy zakonnym.
 
 Na tej bazie następnie oprze się mające znacznie szerszy zakres, *przygotowanie bliższe*, które — począwszy od stosownego wieku i przy właściwej katechezie, jakby katechumenacie — stanowi bardziej specyficzne przygotowanie do sakramentów, niejako do ponownego ich odkrycia. Ta odnowiona katecheza przygotowujących się do małżeństwa chrześcijańskiego jest ze wszech miar konieczna do tego, aby sakrament był sprawowany i przeżywany w należytym usposobieniu moralnym i duchowym. Religijna formacja młodych powinna być uzupełniona w odpowiednim momencie i na miarę konkretnych potrzeb, przygotowaniem do życia we dwoje. Przygotowanie to, ukazując małżeństwo jako relację międzyosobową mężczyzny i kobiety, relację, która winna być stale rozwijana, pobudzi do pogłębienia problemów płciowości małżeńskiej i odpowiedzialnego rodzicielstwa i związanej z tym podstawowej wiedzy medyczno-biologicznej. Skłoni również do bliższego zapoznania się z właściwymi metodami wychowania dzieci, ułatwiając także nabycie podstawowych elementów potrzebnych w uporządkowanym prowadzeniu rodziny (stała praca, odpowiednie środki finansowe, mądre zarządzanie, pojęcie ekonomii domowej itd).
 
 Nie można wreszcie pominąć przygotowania do apostolstwa rodzinnego, do braterstwa i współpracy z innymi rodzinami, do czynnego włączenia się w stowarzyszenia, ruchy i inicjatywy mające na celu ludzkie i chrześcijańskie dobro rodziny.
-
-* *
 
 Przygotowanie bezpośrednie do sprawowania sakramentu małżeństwa powinno się odbywać w miesiącach i tygodniach poprzedzających ślub, aby w ten sposób nadać nowe znaczenie, nową treść i nową formę tak zwanemu egzaminowi przedślubnemu, wymaganemu przez prawo kanoniczne. Konieczność takiego przygotowania, istniejąca zawsze i w każdym przypadku, tym bardziej jest nagląca, gdy chodzi o narzeczonych, którzy jeszcze wykazują braki i doświadczają trudności w doktrynie i praktyce życia chrześcijańskiego.
 
@@ -940,8 +936,6 @@ Tu trzeba zwrócić szczególną uwagę na niektóre zwłaszcza kategorie ludzi,
 
 Należą do nich na przykład rodziny, które wyemigrowały w poszukiwaniu pracy, rodziny tych, którzy są zmuszeni do długiego przebywania poza domem, jak na przykład wojskowi, marynarze, podróżujący, rodziny więźniów, uchodźców i rodziny, które w wielkich miastach żyją praktycznie na marginesie; rodziny bez mieszkania; rodziny niepełne, takie, w których brak ojca lub matki; rodziny z dziećmi upośledzonymi lub dotkniętymi narkomanią, rodziny alkoholików; rodziny wyobcowane ze swego środowiska kulturowego i społecznego lub też zagrożone jego utratą; rodziny dyskryminowane ze względów politycznych lub z innych racji; rodziny podzielone ideologicznie; rodziny, które nie potrafią łatwo nawiązać kontaktu z parafią; rodziny, które doświadczają przemocy lub niesprawiedliwego traktowania Z powodu wiary; rodziny małżonków małoletnich; osoby starsze, nierzadko zmuszone do życia w samotności i bez wystarczających środków utrzymania.
 
-* *
-
 Rodziny emigrantów — zwłaszcza chodzi tu o robotników i chłopów — powinny znaleźć wszędzie w Kościele swą ojczyznę. To zadanie Jeży w samej naturze Kościoła, który jest znakiem jedności w różnorodności. O ile to możliwe, niech mają zapewnioną posługę kapłanów własnego obrządku, kultury i języka. Do Kościoła należy obowiązek apelowania do sumienia publicznego i do władz społecznych, gospodarczych i politycznych, ażeby robotnicy znaleźli pracę we własnej okolicy i kraju, ażeby byli sprawiedliwie wynagradzani, by jak najszybciej następowało połączenie rodzin, ażeby uwzględniano ich tożsamość kulturową i traktowano na równi z innymi, i aby ich dzieciom zapewniona była możliwość formacji zawodowej i wykonywania zawodu, jak również posiadanie ziemi koniecznej do pracy i życia.
 
 Trudnym problemem jest zagadnienie rodzin *ideologicznie podzielonych.* W tych przypadkach wymaga się szczególnej troski duszpasterskiej. Przede wszystkim należy z takimi rodzinami utrzymywać osobisty, roztropny kontakt. Wierzących trzeba umacniać w wierze i podtrzymywać w życiu chrześcijańskim. Chociaż strona katolicka nie może ustąpić, trzeba jednak utrzymać zawsze żywy dialog z drugą stroną. Muszą mnożyć się objawy miłości i szacunku, w mocnej nadziei utrzymania silnej jedności. Dużo zależy także od stosunków pomiędzy rodzicami i dziećmi. Ideologie obce wierze mogą zresztą pobudzić wierzących członków rodziny do wzrastania w wierze i dawaniu świadectwa miłości.
@@ -1052,15 +1046,11 @@ Tym, którzy nie mają rodziny naturalnej, trzeba jeszcze szerzej otworzyć drzw
 
 86\. Do was, małżonkowie, do was, ojcowie i matki rodzin; do was, chłopcy i dziewczęta, którzy jesteście przyszłością i nadzieją Kościoła i świata, i będziecie dynamicznym zaczątkiem rodziny w nadchodzącym trzecim tysiącleciu; do was, czcigodni i drodzy Bracia w biskupstwie i kapłaństwie, umiłowani synowie i córki, zakonnicy i zakonnice, dusze poświęcone Panu, którzy wobec małżonków świadczycie o najwyższej miłości Bożej; do was, wszyscy ludzie dobrej woli, którzy z jakiegokolwiek tytułu troszczycie się o losy rodziny, zwracam się z gorącą i serdeczną prośbą na zakończenie tej Adhortacji Apostolskiej.
 
-* *
-
 Przyszłość ludzkości idzie poprzez rodzinę!
 
 Jest zatem rzeczą nieodzowną i naglącą, aby każdy człowiek dobrej woli zaangażował się w sprawę ratowania i popierania wartości i potrzeb rodziny.
 
 O szczególny wysiłek w tym względzie czuję się zobowiązany prosić synów i córki Kościoła. Ci, którzy przez wiarę poznają w pełni wspaniały zamysł Boży, mają jeszcze jeden powód, ażeby wziąć sobie do serca rzeczywistość rodziny w naszych czasach, tych czasach próby i łaski.
-
-* *
 
 Winni oni kochać rodzinę w sposób szczególny. Polecenie to jest konkretne i wymagające.
 

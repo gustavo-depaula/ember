@@ -21,5 +21,3 @@ How sad and fraught with trouble is the state of those who yearly emigrate in bo
 *Given at Rome at St. Peters, December 10th, 1888. The 11th year of Our Pontificate.*
 
 **LEO XIII**
-
-*              *

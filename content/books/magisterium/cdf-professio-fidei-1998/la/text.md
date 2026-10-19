@@ -1,9 +1,5 @@
 # Donum vitae - Instructio de observantia erga vitam humanam nascentem deque procreationis dignitate tuenda, d. 22 m. Februarii a. 1987, Congregatio pro Doctrina Fide
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **PROFESSIO FIDEI ET IUSIURANDUM FIDELITATIS IN SUSCIPIENDO OFFICIO NOMINE ECCLESIAE EXERCENDO UNA CUM NOTA DOCTRINALI ADNEXA** \*
@@ -121,8 +117,6 @@ In unaquaque professione fidei Ecclesia varia itinera viae ad congressum cum Deo
 ------------------------------------------------------------------------
 
 \* *AAS* 90 (1998), 542-551.
-
-[](#top)
 
 [^1]: \[\] Formulae simplices adimpletionem Messianicam Iesu Nazareni profiteri solent; cf. exempli gratia, *Mc* 8,29; *Mt* 16,16; *Lc* 9,20; *Io* 20,31; *Act* 9,22. Formulae autem pleniores praeter resurrectionem eventus vitae Iesu principales eorumque sensum salvificum profitentur; cf. exempli gratia *Mc* 12,35-36; *Act* 2,23-24; *1 Cor* 15,3-5; *1 Cor* 16,22; *Phil* 2,7.10-11; *Col* 1,15-20; *1 Pe* 3,19-22; *Apoc* 22,20. Praeter confessionis fidei formulas ad historiam salutis atque ad narrationem vitae Iesu Nazareni cuius culmen fuit Pascha, pertinentes, in Novo Testamento inveniuntur professiones fidei quae ad ipsam Iesu exsistentiam respiciant; cf. *1 Cor* 12,3: «Dominus Iesus». Apud *Rom* 10,9 ambae confessionis formulae una inveniuntur.
 

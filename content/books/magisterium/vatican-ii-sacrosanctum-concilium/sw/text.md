@@ -1,18 +1,6 @@
 # Sacrosanctum Concilium
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
-
-** **
 
 **Konstitusio juu ya liturujia**
 
@@ -22,8 +10,6 @@ Paulo Askofu
 Mtumishi wa Watumishi wa Mungu  
 pamoja na Mababa wa Mtaguso mkuu  
 ataka haya yakumbukwe daima
-
-**  **
 
 **UTANGULIZI** 
 
@@ -745,17 +731,11 @@ Lakini, kati ya aina hizo mbalimbali za kalenda za kudumu zinazopendekezwa ili z
 
 *Mambo yote yaliyoamuliwa katika konstitusio hii, na kila moja kati yao, yamewapendeza Mababa wa Mtaguso Mkuu. Nasi, kadiri ya mamlaka ya kitume tuliyopewa na Kristo, na pamoja na Mababa waheshimiwa, katika Roho Mtakatifu, tunayakubali, tunayaidhinisha na tunayathibitisha. Na yale yote yaliyoamuliwa kwa pamoja katika Sinodi hii, tunaamuru yawekwe kwa utukufu wa Mungu.*
 
-* *
-
 *Roma, katika Kanisa la Mtakatifu Petro, 4 Desemba 1963*
-
-* *
 
 Mimi mwenyewe Paulo, Askofu wa Kanisa Katoliki
 
 *(zinafuata sahihi za Mababa)*
-
-**  **
 
 ------------------------------------------------------------------------
 

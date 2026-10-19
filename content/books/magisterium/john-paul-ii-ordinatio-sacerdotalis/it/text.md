@@ -36,10 +36,6 @@ Invocando su di voi, venerabili Fratelli, e sull'intero popolo cristiano il cost
 
 ------------------------------------------------------------------------
 
-*  *
-
-* *
-
 [^1]: \[\] cfr. [Paolo VI](/content/paul-vi/it.html), *Rescritto alla lettera di Sua Grazia il Rev.mo Dott. F. D. Coggan*, Arcivescovo di Canterbury, sul ministero sacerdotale delle donne, 30 novembre 1975: AAS 68 (1976), 599-600.
 
 [^2]: \[\] cfr. Congregazione per la Dottrina della Fede, Dichiarazione *Inter Insignores* circa la questione dell'ammissione delle donne al sacerdozio ministeriale, 15 ottobre 1976: AAS 69 (1977), 98-116.

@@ -1,13 +1,5 @@
 # Carta a los Obispos de la Iglesia Católica sobre la recepción de la comunión eucarística por parte de los fieles divorciados que se han vuelto a casar – Annus Internationalis Familiae
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**

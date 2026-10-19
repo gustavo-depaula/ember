@@ -1,22 +1,10 @@
 # Pismo mons. Ramónu Alfredu de la Cruz Balderi, biskupu dijeceze San Francisco de Macorís (Dominikanska Republika) o pristupu samohranih majki euharistijskoj pričesti
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
 
 **Pismo mons. Ramónu Alfredu de la Cruz Balderi, biskupu dijeceze San Francisco de Macorís (Dominikanska Republika) o pristupu samohranih majki euharistijskoj pričesti**
-
-** **
 
 13\. prosinca 2023.
 

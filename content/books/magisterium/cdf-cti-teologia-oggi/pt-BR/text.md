@@ -1,9 +1,5 @@
 # Teologia hoje: Perspectivas, princípios e critérios, 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISSÃO TEOLÓGICA INTERNACIONAL**
 
 ****TEOLOGIA HOJE: PERSPECTIVAS, PRINCÍPIOS E CRITÉRIOS****
@@ -283,8 +279,6 @@ As discussões gerais sobre este tema se desenvolveram durante numerosos encontr
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: Concílio Ecumênico Vaticano II, *[Gaudium et Spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html)*, n. 3. A menos que indicadas de outra forma, citações de documentos do Vaticano II são retiradas de *Documentos do Vaticano II. Constituições, Decretos e Declarações*. Petrópolis: Vozes, 1966.
 

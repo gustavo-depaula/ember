@@ -1,9 +1,5 @@
 # Decisions regarding the translation of the phrase “Carnis resurrectionem” in the Apostles’ Creed, December 14, 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SACRED CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 **Translation of the phrase  “Carnis resurrectionem” in the Apostles’ Creed \***
@@ -13,9 +9,9 @@ Decisions regarding the translation of the phrase “Carnis resurrectionem” in
 1\. The phrase “Carnis resurrectionem” (“resurrection of the flesh”) in the Apostles’ Creed has been translated differently up to now in various languages.
 
 > – translating according to the literal meaning of the Latin text of the Apostles’ Creed; \[1\]
->
+
 > – translating the term “carnis” (“flesh”) with an equivalent term; \[2\]
->
+
 > – translating the term “mortuorum” (“dead”) in the article “Et expecto resurrectionem mortuorum” (“and I look forward to the resurrection of the dead”) in the Niceno-Constantinopolitan Creed. \[3\]
 
 2\. The question of the translation of the phrase “Carnis resurrectionem” (“Resurrection of the flesh”) in the Apostles’ Creed has been examined by the Sacred Congregation for the Doctrine of the Faith, which has adopted the following decisions in its ordinary meeting, accompanied by the corresponding theological reasons.
@@ -56,5 +52,3 @@ B\) Current theological opinions that argue for the maintenance of the exact tra
 
 \- "Auferstehung der Toten" (Missal for the Dioceses of the German language area, 1974, Part 1, 119);  
 - "La resurrección de los muertos" (Book Headquarters, National Secretariat for Liturgy, Madrid 1983, 394).
-
-[](#top)

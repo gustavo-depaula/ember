@@ -8,8 +8,6 @@ SULLA MUSICA SACRA
 
 *22 novembre 1903*
 
-*  *
-
 Tra le sollecitudini dell’officio pastorale, non solamente di questa Suprema Cattedra, che per inscrutabile disposizione della Provvidenza, sebbene indegni, occupiamo, ma di ogni Chiesa particolare, senza dubbio è precipua quella di mantenere e promuovere il decoro della Casa di Dio, dove gli augusti misteri della religione si celebrano e dove il popolo cristiano si raduna, onde ricevere la grazia dei Sacramenti, assistere al santo Sacrificio dell’Altare, adorare l’augustissimo Sacramento del Corpo del Signore ed unirsi alla preghiera comune della Chiesa nella pubblica e solenne officiatura liturgica. 
 
 Nulla adunque deve occorrere nel tempio che turbi od anche solo diminuisca la pietà e la devozione dei fedeli, nulla che dia ragionevole motivo di disgusto o di scandalo, nulla soprattutto che direttamente offenda il decoro e la santità delle sacre funzioni e però sia indegno della Casa di Orazione e della maestà di Dio.

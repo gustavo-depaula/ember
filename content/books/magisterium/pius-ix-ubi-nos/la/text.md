@@ -8,7 +8,6 @@ SANCTISSIMI DOMINI NOSTRI
 PII  
 DIVINA PROVIDENTIA  
 **PAPAE IX** EPISTOLA ENCYCLICA  
-** **
 
 Ad omnes Patriarchas, Primates, Archiepiscopos, Episcopos,  
 aliosque locorum Ordinarios gratiam et communionem cum Apostolica Sede habentes.

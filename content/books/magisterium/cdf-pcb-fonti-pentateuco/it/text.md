@@ -1,9 +1,5 @@
 # Le fonti del Pentateuco e il genere letterario dei primi undici capitoli della Genesi - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **LE FONTI DEL PENTATEUCO E IL GENERE LETTERARIO DEI PRIMI UNDICI CAPITOLI DELLA GENESI**
@@ -29,5 +25,3 @@ Jacques M. Vosté, O.P.
 *Segretario della P. C. per gli studi biblici*
 
 *Roma, 16 gennaio 1948.*
-
-[](#top)

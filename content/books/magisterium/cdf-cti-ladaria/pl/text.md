@@ -1,9 +1,5 @@
 # CHRZEŚCIJAŃSTWO I RELIGIE - Prezentacja dokumentu Międzynarodowej Komisji Teologicznej. J.E. Ks. Arcybiskup Luis F. Ladaria, S.I.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ***CHRZEŚCIJAŃSTWO I RELIGIE Prezentacja dokumentu Międzynarodowej Komisji Teologicznej. J.E. Ks. Arcybiskup Luis F. Ladaria, S.I.***
 
 Kiedy w grudniu 1992 roku Międzynarodowa Komisja Teologiczna zebrała się po raz pierwszy, większość członków, którzy brali udział w jej pracach w pięcioleciu 1992-1997 zaproponowała, aby zająć się teologicznym problemem mnogości religii. Był to w owym czasie bardzo gorący temat, była to jedna z tych kwestii teologicznych, które rozpalały dyskusje i to uzasadnia też zainteresowanie Międzynarodowej Komisji Teologicznej tym zagadnieniem. W roku 1996 Komisja opublikowała dokument "Chrześcijaństwo i religie" i mimo, że minęło już wiele lat od chwili jego ogłoszenia, nie słabnie zainteresowanie tym tematem a sam dokument zachował w większości swoją aktualność. Wyjaśnia to także, dlaczego nadal jest on tłumaczony i publikowany w różnych językach. To krótkie wprowadzenie ma na celu przedstawienie kontekstu, w jakim powstał dokument Międzynarodowej Komisji Teologicznej, oraz ma służyć, jako krótki przewodnik ułatwiający jego lekturę i zrozumienie.
@@ -69,7 +65,5 @@ Przede wszystkim podkreśla się jasno, że wszystko to, co jest dobre i wartoś
 **+ Luis F. Ladaria**
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *De res. mort.* 6,3: «Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus».

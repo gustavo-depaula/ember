@@ -1,9 +1,5 @@
 # General Instruction of the Roman Missal
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***GENERAL INSTRUCTION OF THE ROMAN MISSAL***
 
 ***INSTITUTIO GENERALIS MISSALIS ROMANI***
@@ -27,13 +23,13 @@
 **[Chapter II - THE STRUCTURE OF THE MASS, ITS ELEMENTS AND ITS PARTS](#CHAPTER_II)**
 
 > **[I - The General Structure of the Mass](#I._THE_GENERAL_STRUCTURE_OF_THE_MASS_)** (27 - 28)  
->    
+
 > **[II - The Different Elements of the Mass](#II._THE_DIFFERENT_ELEMENTS_OF_THE_MASS)** (29 - 45)
->
+
 > > **- Reading and Explaining the Word of God - The Prayers and Other Parts Pertaining to the Priest - The Other Formulas in the Celebration - The Vocal Expression of the Different Texts - The importance of Singing - Movements and Posture - Silence**
->
+
 > **[III - The Individual Parts of the Mass](#III._THE_INDIVIDUAL_PARTS_OF_THE_MASS)** (46 - 90)
->
+
 > > **[A) The Introductory Rites](#A._The_Introductory_Rites)** (46 - 54)
 > >
 > > > **- The Entrance - Greeting of the Altar and of the People   Gathered Together - Act of Penitence - The *Kyrie eleison* - The *Gloria* - The Collect**
@@ -51,19 +47,19 @@
 **[Chapter III - THE DUTIES AND MINISTRIES IN THE MASS](#CHAPTER_III_)**
 
 > **[I - The Duties of Those in Holy Orders](#I._THE_DUTIES_OF_THOSE_IN_HOLY_ORDERS)** (92 - 94)
->
+
 > **[II - The Duties of the People of God](#II._THE_DUTIES_OF_THE_PEOPLE_OF_GOD)** (95 - 97)
->
+
 > **[III - Particular Ministries](#III._PARTICULAR_MINISTRIES)** (98 - 107)
->
+
 > > **- The Ministry of the Instituted Acolyte and Lector - Other Ministries**
->
+
 > **[IV – The Distribution of Duties and the Preparation of the Celebration](#IV._THE_DISTRIBUTION_OF_DUTIES_AND__THE_PREPARATION_OF_THE_CELEBRATION)** (108-111)
 
 **[Chapter IV - THE DIFFERENT FORMS OF CELEBRATING MASS](#CHAPTER_IV_)**
 
 > **[I - Mass With a Congregation](#I._MASS_WITH_A_CONGREGATION)** (115 - 198)
->
+
 > > **The Articles to Be Prepared** (117 - 119)
 > >
 > > **[A) Mass Without a Deacon](#A._Mass_Without_a_Deacon_)** (120-170)
@@ -81,59 +77,59 @@
 > > **[D) The Duties of the Lector](#D._The_Duties_of_the_Lector)** (194 - 198)
 > >
 > > > **- The Introductory Rites - The Liturgy of the Word**
->
+
 > **[II - Concelebrated Mass](#II._CONCELEBRATED_MASS)** (199 - 251)
->
+
 > > **- The Introductory Rites - The Liturgy of the Word - The Liturgy of the Eucharist - The Manner of Speaking the Eucharistic prayer**
 > >
 > > > **Eucharistic Prayer I or Roman Canon Eucharistic Prayer II Eucharistic Prayer III Eucharistic Prayer IV**
 > >
 > > **- The Communion Rite - The Concluding Rites**
->
+
 > **[III - Mass at Which Only One Minister Participates](#III._MASS_AT_WHICH_ONLY_ONE_MINISTER_PARTICIPATES)** (252 - 272)
->
+
 > > **- The Introductory Rites - The Liturgy of the Word - The Liturgy of the Eucharist - The Concluding Rites**
->
+
 > **[IV - Some General Norms for All Forms of Mass](#IV._SOME_GENERAL_NORMS_FOR_ALL_FORMS_OF_MASS)** (273 - 287)
->
+
 > > **- Veneration of the Altar and the Book of the Gospels - Genuflections and Bows - Incensation - The Purification - Communion under Both Kinds**
 
 **[Chapter V - THE ARRANGEMENT AND FURNISHING OF CHURCHES FOR THE CELEBRATION OF THE EUCHARIST](#CHAPTER_V)**
 
 > **[I - General Principles](#I._GENERAL_PRINCIPLES)** (288 - 294)
->
+
 > **[II – Arrangement of the Sanctuary for the Sacred Synaxis (Eucharistic Assembly)](#II._ARRANGEMENT_OF_THE_SANCTUARY__FOR_THE_SACRED_SYNAXIS__(EUCHARISTIC_ASSEMBLY))** (295 – 310)
->
+
 > > **- The Altar and Its Appointments - The Ambo - The Chair for the Priest Celebrant and Other Seats**
->
+
 > **[III – The Arrangement of the Church](#III._THE_ARRANGEMENT_OF_THE_CHURCH)** (311 – 318)
->
+
 > > **- The Places of Faithful - The Place for the Choir and the Musical Instruments - The Place for the Reservation of the Most Holy Eucharist - Sacred Images**
 
 **[Chapter VI - THE REQUISITES FOR THE CELEBRATION OF THE MASS](#CHAPTER_VI)**
 
 > **[I - The Bread and Wine for Celebrating the Eucharist](#I._THE_BREAD_AND_WINE_FOR_CELEBRATING_THE_EUCHARIST)** (319 - 324)
->
+
 > **[II - Sacred Furnishings in General](#II._SACRED_FURNISHINGS_IN_GENERAL)** (325 - 326)  
->   
+
 > **[III - Sacred Vessels](#III._SACRED_VESSELS_)** (327 - 334)
->
+
 > **[IV - Sacred Vestments](#IV._SACRED_VESTMENTS)** (335 - 347)
->
+
 > **[V - Other Things Intended for Church Use](#V._OTHER_THINGS_INTENDED_FOR_CHURCH_USE)** (348 - 351)
 
 **[Chapter VII - The Choice of the Mass and Its Parts](#CHAPTER_VII)**
 
 > **[I - The Choice of Mass](#I._THE_CHOICE_OF_MASS)** (353-355)
->
+
 > **[II - The Choice of Mass Texts](#II._THE_CHOICE_OF_MASS_TEXTS)** (356-367)
->
+
 > > **- The Readings - The Orations - The Eucharistic prayer - The Chants**
 
 **[Chapter VIII - MASSES FOR VARIOUS CIRCUMSTANCES AND MASSES FOR THE DEAD](#CHAPTER_VIII)**
 
 > **[I - Masses and Prayers for Various Circumstances](#I._MASSES_AND_PRAYERS_FOR_VARIOUS_CIRCUMSTANCES)** (368 - 378)  
->   
+
 > **[II - Masses for the Dead](#II._MASSES_FOR_THE_DEAD)** (379-385)
 
 **[Chapter IX - ADAPTATIONS WITHIN THE COMPETENCE OF BISHOPS AND BISHOPS CONFERENCES](#CHAPTER_IX)** (386-399)
@@ -143,9 +139,9 @@
 Concordat cum originali:
 
 > Msgr. James Patrick Moroney *Executive Director, Secretariat for the Liturgy United States Conference of Catholic Bishops*
->
+
 > The English translation of the *General Instruction of the Roman Missal (Third Typical Edition)* © 2002, International Committee on English in the Liturgy, Inc. All rights reserved. No part of this document may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system, without permission in writing from the copyright holder.
->
+
 > This text is confirmed for use in the Dioceses of the United States of America. Persons from other nations should consult the local Episcopal Conference regarding the appropriate text for their nation.
 
 \* \* \*  
@@ -1856,8 +1852,6 @@ Finally, the purpose of pursuing inculturation is not in any way the creation of
 399\. And so, The Roman Missal, even if in different languages and with some variety of customs,[^164] must be preserved in the future as an instrument and an outstanding sign of the integrity and unity of the Roman Rite.[^165]
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Ecumenical Council of Trent, Session 22, *Doctrina de ss. Missae sacrificio*, 17 September 1562 : *Enchiridion Symbolorum*, H. Denzinger and A. Schönmetzer, editors (editio XXXIII, Freiburg: Herder, 1965; hereafter, Denz-Schön), 1738-1759.
 

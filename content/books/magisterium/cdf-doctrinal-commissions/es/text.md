@@ -1,9 +1,5 @@
 # A los Presidentes de las Conferencias Episcopales acerca de las Comisiones Doctrinales
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **Carta a los Presidentes de las Conferencias Episcopales acerca de las Comisiones Doctrinales**
@@ -56,5 +52,3 @@ XIV\. Finalmente, será muy útil que, al menos una vez al año, el Presidente d
 **ALBERTO BOVONE**  
 *Arzobispo tit. de Cesárea de Numídia*  
 *Secretario*
-
-[](#top)

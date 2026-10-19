@@ -1,9 +1,5 @@
 # Card. Ratzinger al Convegno sul Concilio Ecumenico Vaticano II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INTERVENTO DEL CARDINALE JOSEPH RATZINGER  SULL'ECCLESIOLOGIA DELLA COSTITUZIONE "LUMEN GENTIUM" AL CONVEGNO INTERNAZIONALE SULL'ATTUAZIONE DEL CONCILIO ECUMENICO VATICANO II PROMOSSO DAL COMITATO DEL GRANDE GIUBILEO DELL'ANNO 2000***
 
 *Domenica, 27 Febbraio 2000*
@@ -85,5 +81,3 @@ Così nella sovrapposizione fra persona e comunità, come la troviamo in questo 
 Per dare un assaggio della teologia dei Padri, vorrei a conclusione proporre un testo di sant'Ambrogio, scelto da Hugo Rahner:  "Così dunque state saldi sul terreno del vostro cuore!... Che cosa significa stare, l'apostolo ce lo ha insegnato, Mosè lo ha scritto:  "Il luogo, sul quale tu stai, è terra santa". Nessuno sta, se non colui che sta saldo nella fede... ed ancora una parola sta scritta:  "Tu però sta saldo con me". Tu stai saldo con me, se tu stai nella Chiesa. La Chiesa è la terra santa, sulla quale noi dobbiamo stare... Sta dunque saldo, sta nella Chiesa. Sta saldo colà, ove io ti voglio apparire, là io resto presso di te. Ove è la Chiesa, là è il luogo saldo del tuo cuore. Sulla Chiesa si appoggiano i fondamenti della tua anima. Infatti nella Chiesa io ti sono apparso come una volta nel roveto ardente. Il roveto sei tu, io sono il fuoco. Fuoco nel roveto io sono nella tua carne. Fuoco io sono, per illuminarti; per bruciare le spine dei tuoi peccati, per donarti il favore della mia grazia".
 
 **Card. JOSEPH RATZINGER** *Prefetto della Congregazione per la Dottrina della Fede*
-
-[](#top)

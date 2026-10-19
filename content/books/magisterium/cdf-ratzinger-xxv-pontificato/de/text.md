@@ -1,9 +1,5 @@
 # XXV. Pontifikatsjubiläum - Grußworte von Kard. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***GRUßWORTE VON K**ARD. JOSEPH RATZINGER AM BEGINN DER EUCHARISTIEFEIER ANLÄßLICH DES XXV. PONTIFIKATSJUBILÄUMS VON JOHANNES PAUL II.***
 
 *Heiliger Vater!*
@@ -21,5 +17,3 @@ Es ist eine »*beatitudo*«, die auch abhängt ÂÂÂ– wie wir sehr wohl wisse
 In Dankbarkeit rufen wir Ihnen aus tiefem Herzen zu:
 
 Herzlichen Glückwunsch, Heiliger Vater!
-
-[](#top)

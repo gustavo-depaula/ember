@@ -28,5 +28,3 @@ Affinché poi questa Nostra Lettera, e quanto contiene, giunga alla conoscenza d
 A nessun uomo dunque sia lecito violare o con temerario ardire impugnare questa pagina del Nostro invito, annunzio, convocazione, statuto, decreto, comando, precetto e istanza: e se alcuno presumerà di farlo, sappia che incorrerà nell’indignazione di Dio onnipotente e dei Beati Apostoli Pietro e Paolo.
 
 *Dato a Roma, presso San Pietro, l’anno dell’Incarnazione 1868, il 29 giugno, anno ventitreesimo del Nostro Pontificato.*
-
-* *

@@ -2,8 +2,6 @@
 
 ***LETTERA*** ***DEL SANTO PADRE BENEDETTO XVI AI SEMINARISTI***
 
-*** ***
-
 *Cari Seminaristi*,
 
 nel dicembre 1944, quando fui chiamato al servizio militare, il comandante di compagnia domandò a ciascuno di noi a quale professione aspirasse per il futuro. Risposi di voler diventare sacerdote cattolico. Il sottotenente replicò: Allora Lei deve cercarsi qualcos’altro. Nella nuova Germania non c’è più bisogno di preti. Sapevo che questa “nuova Germania” era già alla fine, e che dopo le enormi devastazioni portate da quella follia sul Paese, ci sarebbe stato bisogno più che mai di sacerdoti. Oggi, la situazione è completamente diversa. In vari modi, però, anche oggi molti pensano che il sacerdozio cattolico non sia una “professione” per il futuro, ma che appartenga piuttosto al passato. Voi, cari amici, vi siete decisi ad entrare in seminario, e vi siete, quindi, messi in cammino verso il ministero sacerdotale nella Chiesa Cattolica, contro tali obiezioni e opinioni. Avete fatto bene a farlo. Perché gli uomini avranno sempre bisogno di Dio, anche nell’epoca del dominio tecnico del mondo e della globalizzazione: del Dio che ci si è mostrato in Gesù Cristo e che ci raduna nella Chiesa universale, per imparare con Lui e per mezzo di Lui la vera vita e per tenere presenti e rendere efficaci i criteri della vera umanità. Dove l’uomo non percepisce più Dio, la vita diventa vuota; tutto è insufficiente. L’uomo cerca poi rifugio nell’ebbrezza o nella violenza, dalla quale proprio la gioventù viene sempre più minacciata. Dio vive. Ha creato ognuno di noi e conosce, quindi, tutti. È così grande che ha tempo per le nostre piccole cose: “I capelli del vostro capo sono tutti contati”. Dio vive, e ha bisogno di uomini che esistono per Lui e che Lo portano agli altri. Sì, ha senso diventare sacerdote: il mondo ha bisogno di sacerdoti, di pastori, oggi, domani e sempre, fino a quando esisterà.
@@ -30,5 +28,3 @@ Cari seminaristi! Con queste righe ho voluto mostrarvi quanto penso a voi propri
 
 Vostro nel Signore  
 **BENEDETTO PP. XVI**
-
-** **

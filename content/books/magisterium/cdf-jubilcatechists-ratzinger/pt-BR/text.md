@@ -1,14 +1,8 @@
 # Ratzinger no Congresso Catequistas
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***INTERVENÇÃO DO CARDEAL JOSEPH RATZINGER  DURANTE O CONGRESSO DOS CATEQUISTAS  E DOS PROFESSORES DE RELIGIÃO***
 
 *10 de Dezembro de 2000*
-
-* *
 
 **A nova evangelização**
 
@@ -63,5 +57,3 @@ Desta forma encontramos presente no tema seguimento o outro centro da cristologi
 *4. A vida eterna*
 
 Um último elemento central de qualquer evangelização autêntica é a vida eterna. Hoje devemos anunciar a fé com renovado vigor na vida quotidiana. A este ponto, desejaria mencionar apenas um aspecto da pregação de Jesus que hoje, muitas vezes, é negligenciado:  o anúncio do Reino de Deus é o anúncio do Deus presente, do Deus que nos conhece, nos ouve; do Deus que entra na história, para fazer justiça. Portanto, esta pregação é também anúncio do juízo, anúncio da nossa responsabilidade. O homem não pode fazer ou deixar de fazer o que lhe apetece. Ele será julgado. Deve prestar contas. Esta certeza é válida tanto para os poderosos como para os simples. Onde ela é honrada, são delineados os limites de qualquer poder deste mundo. *Deus* faz justiça, e só ele o pode fazer por último. Nós consegui-lo-emos tanto mais, quanto mais formos capazes de viver sob o olhar de Deus e de comunicar ao mundo a verdade do juízo. Desta forma, o artigo de fé do juízo, a sua força de formação das consciências, é um conteúdo central do Evangelho e é deveras uma Boa Nova. E também o é para todos os que sofrem sob a injustiça do mundo e procuram a justiça. Compreende-se desta forma o nexo entre o Reino de Deus e os "pobres", os que sofrem e todos aqueles dos quais falam as bem-aventuranças do sermão da montanha. Eles são protegidos pela certeza do juízo, pela certeza que existe a justiça. Eis o verdadeiro conteúdo do artigo sobre o juízo, sobre Deus-juiz:  há justiça. As injustiças do mundo não são a última palavra da história. Existe uma justiça. Só quem não quer que haja justiça, se pode opor a esta verdade. Se tomarmos a sério o juízo e a seriedade da responsabilidade que disso nos advém, compreendemos bem o outro aspecto deste anúncio, isto é, a redenção, o facto de que na cruz Jesus assume os nossos pecados; que o próprio Deus na paixão do Filho se torna advogado de nós, pecadores, e desta forma torna possível a penitência, a esperança para o pecador arrependido, esperança expressa maravilhosamente nas palavras de São João:  diante de Deus, tranquilizaremos o nosso coração, independentemente do que eles nos reprova. "Deus é maior que os nossos corações e conhece todas as coisas" *(1 Jo* 3, 20). A bondade de Deus é infinita, mas não devemos reduzir esta bondade a uma pieguice afectada sem verdade. Só acreditando no justo juízo de Deus, só tendo fome e sede de justiça (cf. *Mt* 5, 6) é que abrimos o nosso coração, a nossa vida à misericórdia divina. Vê-se:  não é verdade que a fé na vida eterna torna insignificante a vida terrena. Pelo contrário:  só se a medida da nossa vida for a eternidade, também a vida na terra é grande e o seu valor é imenso. Deus não é o concorrente da nossa vida, mas a garantia da nossa grandeza. Desta forma voltamos ao ponto de partida:  Deus. Se considerarmos bem a mensagem cristã, não falamos de muitas coisas. Na realidade, a mensagem cristã é muito simples. Falamos de Deus e do homem e, desta forma, dizemos tudo.
-
-[](#top)

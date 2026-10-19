@@ -31,5 +31,3 @@ Nonobstant toute disposition contraire.
 *Donné à Rome, auprès de Saint Pierre le 9 novembre 2005, anniversaire de la dédicace de la Basilique du Latran, première année de Notre Pontificat.*
 
 **BENOÎT PP. XVI**
-
-** **

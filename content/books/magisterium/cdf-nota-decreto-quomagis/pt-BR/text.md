@@ -1,15 +1,5 @@
 # Nota de apresentação do Decreto Quo magis com a aprovação de sete novos prefácios eucarísticos para a forma extraordinária do Rito Romano
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 137/2009P – ED

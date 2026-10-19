@@ -1,9 +1,5 @@
 # Considerazioni «Il Primato del successore di Pietro nel mistero della Chiesa», 31 ottobre 1998 - Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE  
 
 **IL PRIMATO DEL SUCCESSORE DI PIETRO NEL MISTERO DELLA CHIESA**
@@ -175,5 +171,3 @@ Conc. Vaticano II, Cost. dogm. *Lumen gentium,* n. 22.
 ⁴⁹ Cf. Giovanni Paolo II, Lett. Enc. *Ut unum sint,* nn. 91-94.
 
 ⁵⁰ Giovanni Paolo II, Lett. Enc. *Ut unum sint,* n. 102.
-
-[](#top)

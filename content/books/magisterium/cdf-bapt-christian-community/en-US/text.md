@@ -1,14 +1,8 @@
 # Notification regarding the validity of the baptism conferred by the “Christian Community” or “Die Christengemeinschaft” of Rudolf Steiner, 9 March 1991
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 **Notification regarding the validity of the baptism conferred by the “Christian Community” or “Die Christengemeinschaft” of Rudolf Steiner**
-
-** **   
 
 Notification regarding the validity of the baptism conferred by the “Christian Community” or “Die Christengemeinschaft” of Rudolf Steiner
 
@@ -19,5 +13,3 @@ This Congregation, after a diligent examination, has decreed that the it must re
 *Rome, March 9, 1991*
 
 **Joseph Card. Ratzinger** *Prefect*
-
-[](#top)

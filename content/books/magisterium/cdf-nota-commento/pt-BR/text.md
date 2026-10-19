@@ -1,9 +1,5 @@
 # Nota de Comentário, 1º de agosto de 2007
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ### Nota de comentário
@@ -45,7 +41,5 @@ Ao afirmar que a subministração de água e alimento é moralmente obrigatória
 Estes casos excepcionais porém não tiram nada ao critério ético geral, segundo o qual a subministração de água e alimento, mesmo se feitas por vias artificiais, representa um *meio natural* de conservação da vida e não um *tratamento terapêutico*. O seu uso deve portanto considerar-se *ordinário* e *proporcionado*, mesmo quando o “estado vegetativo” se prolongar.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: A terminologia relativa às diversas fases e formas do “estado vegetativo” é objecto de controvérsia, mas para o juízo moral isso não tem relevância.

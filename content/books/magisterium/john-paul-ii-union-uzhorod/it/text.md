@@ -2,8 +2,6 @@
 
 ***LETTERA APOSTOLICA DEL SANTO PADRE GIOVANNI PAOLO II PER I 350 ANNI DELL'UNIONE DI UZHOROD***
 
-*** ***
-
 *Carissimi Fratelli e Sorelle!*
 
 1\. «Anzitutto rendo grazie al mio Dio per mezzo di Gesù Cristo riguardo a tutti voi, perché la fama della vostra fede si espande in tutto il mondo. Quel Dio, al quale rendo culto nel mio spirito annunziando il vangelo del Figlio suo, mi è testimone che io mi ricordo sempre di voi» (*Rm* 1, 8-9).

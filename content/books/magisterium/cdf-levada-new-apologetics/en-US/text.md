@@ -1,9 +1,5 @@
 # The Urgency of a New Apologetics for the Church in the 21st Century
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***THE URGENCY OF A NEW APOLOGETICS  FOR THE CHURCH IN THE 21^(ST) CENTURY***
 
 ***Cardinal William Levada Prefect of the Congregation for the Doctrine of the Faith***
@@ -77,5 +73,3 @@ Dulles wrote, “Many Catholic theologians, unclear about the importance of the 
 How we might hope and pray with Cardinal Dulles that as we imitate the zeal of some of our fundamentalist brothers and sisters in proclaiming Christ, we might be able to share with them the riches of the Catholic and universal tradition of faith in Jesus Christ. This seems especially important to enable Catholics to counter an often over-simplified appeal made by so-called “sects”.
 
 The call for a new apologetics for the 21^(st) century does not, in my view, amount to a “mission impossible”. The spirit of contemporary society is skeptical of truth, of the claims to know the truth, even – or especially – of truth revealed by God. The relativization of truth is not the necessary precondition of real dialogue; the desire to know the other in the fullness of his or her humanity is. Thus it should be possible after all to find the truth of the mind and of the heart in just such a dialogue where there emerges what Christians have learned to be the mind and strength and heart and soul of the Gospel revealed in Jesus: that God is love, and that our creation in God’s image and likeness makes all humanity able to love God above all things and love our neighbor as ourselves. For this is the challenge given to apologists throughout the history of the Church: to let people know the reason for our Christian faith and hope with all courtesy and respect (cf. 1 Peter 3:15).
-
-[](#top)

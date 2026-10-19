@@ -1,12 +1,4 @@
-# 
-
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
+# Observations on the final report of ARCIC
 
 ------------------------------------------------------------------------
 
@@ -28,19 +20,19 @@ Observaciones que la Sagrada Congregación para la Doctrina de la Fe, por mandat
 **[B) *Dificultades doctrinales*](#DIFICULTADES)**
 
 > I. Eucaristía
->
+
 > > 1\. Eucaristía como sacrificio  
 > > 2. Presencia real  
 > > 3. Reserva y adoración de la Eucaristía
 
 > II\. Ministerios y Ordenación
->
+
 > > 1\. Sacerdocio ministerial  
 > > 2. Sacramentalidad y ordenación  
 > > 3. Ordenación de mujeres
->
+
 > III\. La autoridad en la Iglesia
->
+
 > > 1\. Interpretación de los textos petrinos del Nuevo Testamento  
 > > 2. El Primado de jurisdicción del Obispo de Roma  
 > > 3. Infalibilidad e indefectibilidad  

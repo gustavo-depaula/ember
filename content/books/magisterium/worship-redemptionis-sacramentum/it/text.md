@@ -1,9 +1,5 @@
 # Istruzione Redemptionis sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER IL CULTO DIVINO  
 E LA DISCIPLINA DEI SACRAMENTI
 
@@ -589,8 +585,6 @@ Roma, dalla Congregazione per il Culto Divino e la Disciplina dei Sacramenti, il
 ------------------------------------------------------------------------
 
 **NOTE**
-
-[](#top)
 
 [^1]: Cf. Missale Romanum, *ex decreto sacrosancti Oecumenici Concilii Vaticani II instauratum, auctoritate Pauli Pp. VI promulgatum, Ioannis Pauli Pp. II cura recognitum*, editio typica tertia, diei 20 aprilis 2000, Typis Vaticanis, 2002, Missa votiva de Dei misericordia, oratio super oblata, p. 1159.
 

@@ -1,14 +1,8 @@
 # INSTRUKCJA O NIEKTÓRYCH ASPEKTACH "TEOLOGII WYZWOLENIA"
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **INSTRUKCJA O NIEKTÓRYCH ASPEKTACH "TEOLOGII WYZWOLENIA"**
-
-** **
 
 **WPROWADZENIE**
 
@@ -369,5 +363,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 6 sierpnia 1984 r., w Święto Przemi
 33\. Por. tamże, IV, 2, 2.4.
 
 34\. PAWEŁ VI, Wyznanie wiary Ludu Bożego (30 czerwca 1968): AAS 60 (1968) 443-444.
-
-[](#top)

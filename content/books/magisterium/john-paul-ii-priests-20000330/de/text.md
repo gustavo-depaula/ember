@@ -115,5 +115,3 @@ Aus dem Abendmahlssaal umarme ich im Geiste euch alle, geliebte Brüder im Pries
 *Jerusalem, am 23. März 2000.*
 
 **IOANNES PAULUS PP. II**
-
-*  *

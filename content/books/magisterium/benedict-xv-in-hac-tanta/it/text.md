@@ -87,12 +87,10 @@ Voglia il Cielo che l’Apostolo e Martire Bonifacio possa ottenere questo per t
 Intanto, come augurio di speranza e di felice risultato della vostra solennità, impartiamo affettuosamente l’Apostolica Benedizione e, nello stesso tempo, per accrescere l’importanza della festa di San Bonifacio, dal sacro tesoro della Chiesa con grande piacere concediamo:
 
 > 1\. In qualunque giorno dei prossimi mesi di giugno e luglio, fatta eccezione per i giorni della Pentecoste, del Corpus Domini e dei Santi Apostoli Pietro e Paolo, in tutte le Chiese e gli Oratori pubblici e semipubblici della Germania dove si compiranno i festeggiamenti del centenario, ogni sacerdote dell’uno e dell’altro clero potrà celebrare la Messa del Santo, sia durante le preghiere del triduo, sia nel giorno stesso della ricorrenza.
->
+
 > 2\. Nel giorno della festa, i Vescovi potranno impartire la Benedizione Papale personalmente o per mezzo di un delegato.
->
+
 > 3\. Chiunque visiterà le Chiese di Germania nel giorno in cui si celebrerà il centenario, potrà ottenere ogni volta l’Indulgenza Plenaria secondo l’uso della Porziuncola.
->
->  
 
 *Dato a Roma, presso San Pietro, il giorno 14 maggio 1919, anno quinto del Nostro Pontificato.*
 

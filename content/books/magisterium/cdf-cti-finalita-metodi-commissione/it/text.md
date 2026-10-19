@@ -1,9 +1,5 @@
 # Riflessioni su finalità e metodi della Commissione - Commissione Teologica Internazionale
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **COMMISSIONE TEOLOGICA INTERNAZIONALE** 
 
 **RIFLESSIONI SU FINALITÀ E METODI DELLA COMMISSIONE**
@@ -46,5 +42,3 @@ Per lo studio di questi quattro temi sono state costituite quattro sottocommissi
 Altri temi saranno trattati successivamente.
 
  **  **
-
-[](#top)

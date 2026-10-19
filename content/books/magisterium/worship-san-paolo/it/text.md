@@ -1,9 +1,5 @@
 # Decreto celebrazione conversione di San Paolo Apostolo nell'anno giubilare
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 **Decreto**
@@ -24,5 +20,3 @@ Francis Card. Arinze
 
 Albert Malcolm Ranjith  
 *Arcivescovo Segretario*
-
-[](#top)

@@ -28,15 +28,15 @@ Corresponde al Sínodo de los Obispos, por su misma naturaleza, la tarea de info
 1\. Los fines generales del Sínodo de los Obispos son:
 
 > a\) fomentar la íntima unión y colaboración entre el Sumo Pontífice y los Obispos de todo el mundo;
->
+
 > b\) procurar que se tenga conocimiento directo y verdadero de las cuestiones y de las circunstancias que atañen a la vida interna de la Iglesia y a su acción propia en el mundo actual;
->
+
 > c\) facilitar la concordia de opiniones, por lo menos en cuanto a los puntos fundamentales de la doctrina y en cuanto a al modo de proceder en la vida de la Iglesia.
 
 2\. Los fines especiales y próximos son los siguientes:
 
 > a\) intercambiarse noticias oportunas;
->
+
 > b\) dar consejo acerca de aquellas cuestiones para las que sea convocado el Sínodo en cada ocasión.
 
 **III**
@@ -44,13 +44,13 @@ Corresponde al Sínodo de los Obispos, por su misma naturaleza, la tarea de info
 El Sínodo de los Obispos está sujeto directa e inmediatamente a la autoridad del Romano Pontífice, a quien corresponde además:
 
 > 1\. convocar el Sínodo siempre que lo crea conveniente, designando incluso el lugar donde deberán celebrarse las reuniones;
->
+
 > 2\. ratificar la elección de los miembros, de la que se habla en los números V y VIII;
->
+
 > 3\. determinar las cuestiones de que deberá tratarse, por lo menos seis meses antes, si es posible, de que se celebre el Sínodo;
->
+
 > 4\. determinar que se envíe la materia, que debe ser tratada, a aquellos que deberán asistir al debate de tales cuestiones;
->
+
 > 5\. presidir el Sínodo por sí mismo o por medio de otros.
 
 **IV**
@@ -64,11 +64,11 @@ El Sínodo de los Obispos reunidos en Asamblea General comprende en primer lugar
 1\.
 
 > a\) los Patriarcas, Arzobispos Mayores y Metropolitanos fuera de los Patriarcados de las Iglesias Católicas de rito oriental;
->
+
 > b\) los Obispos elegidos por cada una de las Conferencias Episcopales Nacionales, a tenor de la norma nº VIII;
->
+
 > c\) los Obispos elegidos por las Conferencias Episcopales de varias naciones, constituidas para aquellas naciones que no tienen su propia Conferencia, según la norma nº VIII;
->
+
 > d\) a éstos se añaden diez Religiosos, elegidos por la Unión Romana de Superiores Generales, que representan a los Institutos Religiosos Clericales.
 
 2\. Participan también en la Asamblea General del Sínodo de los Obispos los Cardenales Prefectos de los Dicasterios de la Curia Romana.
@@ -80,11 +80,11 @@ El Sínodo de los Obispos reunido en asamblea extraordinaria comprende:
 1\.
 
 > a\) los Patriarcas, Arzobispos Mayores y Metropolitanos fuera de los Patriarcados de las Iglesias Católicas de rito oriental;
->
+
 > b\) los Presidentes de las Conferencias Episcopales Nacionales;
->
+
 > c\) los Presidentes de las Conferencias Episcopales de varias naciones, constituidas para aquellas naciones que no tienen su Conferencia propia;
->
+
 > d\) tres Religiosos, elegidos por la Unión Romana de Superiores Generales, que representan a los Institutos Religiosos Clericales.
 
 2\. Participan también en la asamblea extraordinaria del Sínodo de los Obispos los Cardenales Prefectos de los Dicasterios de la Curia Romana.
@@ -98,11 +98,11 @@ El Sínodo de los Obispos reunido en Asamblea Especial comprende los Patriarcas,
 Los Obispos representantes de cada una de las Conferencias nacionales se eligen de esta manera:
 
 > a\) uno por cada Conferencia Episcopal Nacional que conste de no más de 25 miembros;
->
+
 > b\) dos por cada Conferencia Episcopal Nacional que conste de no más de 50 miembros;
->
+
 > c\) tres por cada Conferencia Episcopal Nacional que conste de no más de 100 miembros;
->
+
 > d\) cuatro por cada Conferencia Episcopal Nacional que conste de más de 100 miembros.
 
 Las Conferencias Episcopales de varias naciones eligen a sus representantes según las mismas normas.

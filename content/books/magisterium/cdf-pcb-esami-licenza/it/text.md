@@ -1,9 +1,5 @@
 # Gli esami per la Licenza - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **GLI ESAMI PER LA LICENZA**
@@ -16,5 +12,3 @@ Sì. Anche se occorre si tengano dapprima gli esami orali delle lingue ebraica e
 
 Jacques M. Vosté, O.P.  
 *Segretario consultore*
-
-[](#top)

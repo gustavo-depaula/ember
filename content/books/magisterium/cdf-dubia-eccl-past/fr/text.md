@@ -1,9 +1,5 @@
 # Réponses à des doutes soulevés sur l'approbation des livres destinés à la catéchèse, 7 juillet 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **RÉPONSES À DES DOUTES SOULEVÉS SUR L’APPROBATION DES LIVRES DESTINÉS À LA CATÉCHÈSE**
@@ -133,5 +129,3 @@ R. *Affirmative iuxta mentem*, à savoir:
 *b*) Si l’approbation est demandée pour des *catéchismes destinés à la catéchèse officielle du diocèse*, en plus de l’orthodoxie du contenu et des normes universelles de la catéchèse, l’Ordinaire tiendra compte également des règles particulières édictées par lui-même en fonction des besoins concrets du diocèse (nouveau *CIC*, can. 775, § 1) et des normes fixées par la Conférence épiscopale et approuvées par le Saint-Siège (*[Directorium catechisticum generale](/roman_curia/congregations/cclergy/documents/rc_con_cclergy_doc_11041971_dircatgen_fr.html)*, n. 134).
 
 \* *AAS* 76 (1984), 45-52 ; textes en italien et en français dans *L’Osservatore Romano* du 29 octobre 1983.
-
-[](#top)

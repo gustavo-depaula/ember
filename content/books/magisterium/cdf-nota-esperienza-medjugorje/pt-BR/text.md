@@ -1,15 +1,5 @@
 # “A Rainha da Paz”. Nota sobre a experiência espiritual ligada a Medjugorje
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_fr.html) - [HR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_hr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_po.html) - [ZH_CN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_cn.pdf) - [ZH_TW](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240919_nota-esperienza-medjugorje_zh_tw.pdf)\]
@@ -414,7 +404,5 @@ Franciscus
 *[Repreensões e ameaças](#Repreensoes_e_ameacas) [As mensagens à paróquia](#As_mensagens_a_paroquia) [A incessante insistência sobre a escuta das mensagens](#A_incessante_insistencia_sobre_a_escuta_das_mensagens) [Nossa Senhora dá o justo valor às suas mensagens](#Nossa_Senhora_da_o_justo_valor_as_suas_mensagens) [“Auto-exaltação” de Nossa Senhora](#Auto-exaltacao_de_Nossa_Senhora) [Conosco, rumo a Cristo](#Conosco,_rumo_a_Cristo)*
 
 **[Conclusões](#Conclusoes)**
-
-** **
 
 ------------------------------------------------------------------------

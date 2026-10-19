@@ -1,9 +1,5 @@
 # Ad exsequendam ecclesiasticam legem - Schreiben an die Bischöfe, anderen Ordinarien und geistlichen Würdenträger der katholischen Kirche, die mit den schwerwiegenderen Straftaten befasst sind, die in den Zuständigkeitsbereich der Kongregation für die Glaubenslehre fallen, 18. Mai 2001, 18. Mai 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 SCHREIBEN  
@@ -60,5 +56,3 @@ Durch diesen Brief, der im Auftrag des Papstes an alle Bischöfe der Katholische
 **Tarcisio Bertone, S.D.B** em. Erzbischof von Vercelli *Sekretär*
 
 \* *AAS* 93 (2001) 785-788; dt. *AfkKR* 170 (2001) 150-152.
-
-[](#top)

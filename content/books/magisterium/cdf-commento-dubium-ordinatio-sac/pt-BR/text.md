@@ -1,10 +1,6 @@
 # Sobre a resposta da Congregação acerca da Doutrina proposta na Ordinatio sacerdotalis, 28 de otubro de 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- **SOBRE A RESPOSTA DA CONGREGAÇÃO PARA A DOUTRINA DA FÉ  ACERCA DA DOUTRINA PROPOSTA NA CARTA APOSTÓLICA *[ORDINATIO SACERDOTALIS](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_po.html)***
+**SOBRE A RESPOSTA DA CONGREGAÇÃO PARA A DOUTRINA DA FÉ  ACERCA DA DOUTRINA PROPOSTA NA CARTA APOSTÓLICA *[ORDINATIO SACERDOTALIS](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_po.html)***
 
 Por ocasião da publicação da Resposta da Congregação para a Doutrina da Fé a uma dúvida a respeito do motivo pelo qual deve ser considerada «definitive tenenda» a doutrina exposta na Carta apostólica *[Ordinatio Sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_po.html)*, parece oportuno algumas reflexões.
 
@@ -31,5 +27,3 @@ Diante deste preciso ato magisterial do Romano Pontífice, explicitamente endere
 Enfim, não faltaram alguns comentários à Carta *[Ordinatio Sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_po.html)*, segundo os quais esta última constituiria uma ulterior e não oportuna dificuldade no já difícil caminho do movimento ecuménico. A este respeito é preciso não esquecer que, segundo a carta e o espírito do Concílio Vaticano II (cf. Decr. *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_po.html)*, 11), o autêntico empenho ecuménico, ao qual a Igreja Católica não quer nem pode faltar, exige uma plena sinceridade e clareza na apresentação da identidade da própria fé. Além disso, ocorre relevar que a doutrina reafirmada pela Carta *[Ordinatio Sacerdotalis](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_22051994_ordinatio-sacerdotalis_po.html)*, não impede a busca da plena comunhão com as Igrejas ortodoxas que, conformemente à Tradição, mantiveram e mantêm com fidelidade o mesmo ensinamento.
 
 A originalidade singular da Igreja e do sacerdócio ministerial no seu interior, requer uma precisa clareza de critérios. Concretamente, não se deve perder nunca de vista que a Igreja não encontra a fonte da própria fé e da própria estrutura constitutiva nos princípios da vida social de cada momento histórico. Mesmo olhando com atenção para o mundo no qual vive e para cuja salvação atua, a Igreja tem a consciência de ser portadora de uma fidelidade superior a qual é ligada. Trata-se da fidelidade radical à Palavra de Deus, recebida pela própria Igreja estabelecida por Jesus Cristo até o final dos tempos. Esta Palavra de Deus, ao proclamar o valor essencial e o destino eterno de toda pessoa, manifesta o fundamento último da dignidade de todo ser humano: de toda mulher e de todo homem.
-
-[](#top)

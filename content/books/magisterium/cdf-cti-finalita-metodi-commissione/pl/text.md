@@ -1,9 +1,5 @@
 # Refleksje o celach i metodach pracy Międzynarodowej Komisji Teologicznej, 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 Międzynarodowa Komisja Teologiczna
 
 **Refleksje o celach i metodach pracy Międzynarodowej Komisji Teologicznej**
@@ -42,5 +38,3 @@ Z dziedzin, które Komisja zaproponowała do zbadania, zostały wybrane w tej ch
 Do przestudiowania tych czterech tematów zostały ustanowione cztery podkomisje. Oczekuje się od podkomisji określenia własnego tematu.
 
 Inne zagadnienia zostaną opracowane w przyszłości.
-
-[](#top)

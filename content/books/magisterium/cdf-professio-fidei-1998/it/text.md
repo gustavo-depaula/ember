@@ -1,9 +1,5 @@
 # Nota dottrinale Professio Fidei, 1998 - Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE 
 
 **PREFAZIONE**
@@ -279,5 +275,3 @@ Roma, dalla Sede della Congregazione per la Dottrina della Fede, il 29 giugno 19
 ³⁸ Cf. Conc. Ecum. Vatic. II, Cost. Dogm. *Lumen Gentium*, n. 25; Congregazione per la Dottrina della Fede, Istruz. *Donum Veritatis*, nn. 17, 23 e 24.
 
 ³⁹ *Catechismo della Chiesa Cattolica*, n. 167.
-
-[](#top)

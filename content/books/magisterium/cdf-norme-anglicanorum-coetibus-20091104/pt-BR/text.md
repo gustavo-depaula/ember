@@ -1,9 +1,5 @@
 # Normas Complementares à Constituição Apostólica 'Anglicanum coetibus', 4 de novembro de 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **Normas Complementares à Constituição Apostólica *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_po.html)***
@@ -154,5 +150,3 @@ O Sumo Pontífice Bento XVI, na Audiência concedida ao subscrito Cardeal Prefei
 ------------------------------------------------------------------------
 
 \[1\] Este parágrafo foi acrescentado ao Texto das Normas Complementares na sequência de uma decisão da Sessão Ordinária do dia 29 de Maio de 2013, e aprovada pelo Papa Francisco no dia 31 de Maio de 2013.
-
-[](#top)

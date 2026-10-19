@@ -85,9 +85,9 @@ O Bispo, além disso, anexe uma declaração acerca da observância do decreto d
 10\) Na Congregação para as Causas dos Santos existe um Promotor da Fé ou Prelado teólogo, a quem compete:
 
 > 1º Presidir ao Congresso dos Teólogos, onde se efectua a votação;
->
+
 > 2º Preparar a relação sobre o mesmo Congresso;
->
+
 > 3º Participar como perito, mas sem voto, na Congregação dos Padres Cardeais e Bispos.
 
 Em caso de necessidade, para uma ou outra causa, o Cardeal Prefeito poderá nomear um Promotor da fé “*ad casum*”.

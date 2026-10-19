@@ -1,9 +1,5 @@
 # DEKRET O EKSKOMUNICE
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **DEKRET O EKSKOMUNICE**
@@ -23,5 +19,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 5 sierpnia 2002 r.
 **Kard. Joseph Ratzinger** *Prefekt*
 
 **Abp Tarcisio Bertone SDB** *Em. ordynariusz Vercelli Sekretarz*
-
-[](#top)

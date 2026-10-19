@@ -297,7 +297,7 @@ Let us make our own the words of Saint Thomas Aquinas, an eminent theologian and
 *Bone pastor, panis vere, Iesu, nostri miserere...*
 
 > *Come then, good Shepherd, bread divine, Still show to us thy mercy sign; Oh, feed us, still keep us thine; So we may see thy glories shine in fields of immortality.*
->
+
 > *O thou, the wisest, mightiest, best, Our present food, our future rest, Come, make us each thy chosen guest, Co-heirs of thine, and comrades blest With saints whose dwelling is with thee.*
 
 *Given in Rome, at Saint Peter's, on 17 April, Holy Thursday, in the year 2003, the Twenty- fifth of my Pontificate, the Year of the Rosary.*

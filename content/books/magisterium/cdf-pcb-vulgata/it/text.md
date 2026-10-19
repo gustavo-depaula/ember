@@ -1,9 +1,5 @@
 # L'aggiunta di lezioni varianti nelle edizioni della Vulgata del Nuovo e dell'Antico Testamento - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **L'AGGIUNTA DI LEZIONI VARIANTI NELLE EDIZIONI DELLA VULGATA DEL NUOVO E DELL'ANTICO TESTAMENTO**
@@ -21,5 +17,3 @@ Sì.
 Enrico Lorenzo JANSSENS, O.S.B.  
 Vescovo di Betsaida  
 *Segretario consultore*
-
-[](#top)

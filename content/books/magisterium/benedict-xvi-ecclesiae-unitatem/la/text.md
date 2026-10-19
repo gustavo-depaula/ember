@@ -20,9 +20,9 @@ MOTU PROPRIO DATAE
 6\. Itaque Pontificia Commisio *Ecclesia Dei* ita constituitur:
 
 > a\) Commissionis Praeses Praefectus est Congregationis pro Doctrina Fidei.
->
+
 > b\) Commissio proprium habet ordinem, Secretarium et Officiales complectentem.
->
+
 > c\) Praesidis est, Secretario iuvante, praecipuos eventus quaestionesque docrinalis indolis studio discretionique committere postulationum ordinariarum Congregationis pro Doctrina Fidei, itemque superiori Summi Pontificis iudicio conclusiones concredere.
 
 7\. Deliberatione hac paternam sollicitudinem «Fraternitati S. Pii X» peculiarem in modum ostendere voluimus ut denuo ad plenam cum Ecclesia communionem perveniat.

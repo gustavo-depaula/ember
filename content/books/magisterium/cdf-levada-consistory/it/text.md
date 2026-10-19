@@ -1,9 +1,5 @@
 # Indirizzo d'omaggio del Card. William Joseph Levada
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONCISTORO ORDINARIO PUBBLICO
 
 ***INDIRIZZO D'OMAGGIO DEL CARDINALE WILLIAM JOSEPH LEVADA AL SANTO PADRE***
@@ -27,5 +23,3 @@ Mi piace richiamare il brano della [catechesi che Vostra Santità ha tenuto il 2
 Noi oggi in modo speciale invochiamo lo Spirito Santo perché sostenga con la sua luce e la sua forza il Ministero Apostolico di Vostra Santità e doni a tutti noi, chiamati a cooperare al servizio del Successore di Pietro, e a quanti ci accompagnano con la loro presenza, con le loro preghiere e il loro affetto, la generosità nell'impegno cristiano e la gioia di sentirci e rimanere servitori del Vangelo. 
 
 Ci assista la Vergine Maria, Madre della Chiesa e Regina degli Apostoli, nell'imminenza della Solennità Liturgica dell'Annunciazione. Il suo *fiat* sia anche il nostro.
-
-[](#top)

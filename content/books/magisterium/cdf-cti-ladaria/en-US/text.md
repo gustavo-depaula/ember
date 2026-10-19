@@ -1,9 +1,5 @@
 # Christianity and the World Religions, Presentation of the Document of the International Theological Commission - H.E. Mons. Luis F. Ladaria
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***"CHRISTIANITY AND THE WORLD RELIGIONS": PRESENTATION OF THE DOCUMENT OF THE INTERNATIONAL THEOLOGICAL COMMISSION***
 
 In 1996, the *[International Theological Commission](/roman_curia/congregations/cfaith/cti_index.htm)* published its document “Christianity and the World Religions.” In December 1992, the majority of the appointed members of the commission for the period 1992-1997 overwhelmingly proposed during their first meeting to analyze the theological problem of religions. The subject was already being discussed at that time. Clearly, it was one of the theological questions that kindled greater discussions and consequently explains the interest of the International Theological Commission in considering it. Even though some years have passed since the publication, the interest for this subject remains and the document keeps, in a great way, its actuality. This explains why it is still being translated and re-edited in different languages. This brief introduction will try to situate the document in its context and offer a concise guidance to read it.
@@ -67,7 +63,5 @@ Above all it affirms with clarity that all that is good and valuable in them com
 **+ Luis F. Ladaria**
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 2. *De res. Mort.* 6, 3: “Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus”.

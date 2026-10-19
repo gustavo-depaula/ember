@@ -4,8 +4,6 @@ BREVE
 ***QUO FLUCTU*** DEL SOMMO PONTEFICE  
 **PIO VI**
 
-* *
-
 *Ai Venerabili Fratelli Arcivescovi e Vescovi del regno di Francia. Il Papa Pio VI. Venerabili Fratelli, salute e Apostolica Benedizione.*
 
 1\. Da quale pianto, da quale dolore siamo colpiti per la radicale distruzione della Religione Cristiana che in codeste terre, un tempo fiorentissime, la malizia di uomini funesti in breve ha compiuto, più volte significammo a Voi con lettere e argomenti certi. Per quanto era nelle Nostre possibilità, con l’aiuto della grazia di Dio ancora una volta abbiamo tentato di opporci al torrente di iniquità. Poiché, come abbiamo saputo recentemente, si è giunti al punto che non si può esercitare il culto divino, né si possono celebrare pubblicamente i misteri della Religione Cristiana né le cerimonie nell’ambito delle leggi della Chiesa, abbiamo ritenuto utile e proficuo per la Religione Cattolica trasferire parte del ministero apostolico affidato dall’alto alla Nostra umiltà, in modo che Voi, in così grande confusione delle cose nella quale non si possono assolutamente osservare i dettami della disciplina ecclesiastica, possiate in qualche misura provvedere provvisoriamente alle necessità e compiere ciò che ritenete più opportuno.

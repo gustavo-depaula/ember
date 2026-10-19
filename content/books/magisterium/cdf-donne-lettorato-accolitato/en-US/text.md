@@ -1,15 +1,5 @@
 # Letter of the Holy Father to the Prefect of the Congregation for the Doctrine of the Faith regarding access of women to the ministries of Lector and Acolyte (10 January 2021)
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **LETTER OF HIS HOLINESS POPE FRANCIS TO THE PREFECT OF THE CONGREGATION FOR THE DOCTRINE OF THE FAITH REGARDING ACCESS OF WOMEN TO THE MINISTRIES OF LECTOR AND ACOLYTE**

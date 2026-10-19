@@ -32,8 +32,6 @@ Last year We received your letter joyfully announcing the addition of a new eccl
 
 **LEO XIII **
 
-> 
-
 ------------------------------------------------------------------------
 
 REFERENCES:

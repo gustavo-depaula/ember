@@ -1,9 +1,5 @@
 # Brief an György Bulányi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 *****BRIEF AN GYÖRGY BULÁNYI***** \*
@@ -81,5 +77,3 @@ Hochachtungsvoll
 \+ **Alberto Bovone**, *Sekretär*
 
 \* *Magyar Kurir*, 11. Juni 1987, 313-318 (ungarische Übs.).
-
-[](#top)

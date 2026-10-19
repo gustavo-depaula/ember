@@ -28,7 +28,7 @@ Itaque harum cogitationum sub lumine, cunctis perpensis diligenter rebus itemque
 Art. 1
 
 > § 1. Pontificium Consilium de Nova Evangelizatione promovenda constituitur, ut Romanae Curiae Dicasterium, secundum Constitutionem apostolicam *[Pastor bonus](/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html)*.
->
+
 > § 2. Consilium sua proposita persequitur, tum meditationem de novae evangelizationis argumentis concitans, tum eligens et promovens formas instrumentaque ad eandem efficiendam apta.
 
 Art. 2
@@ -38,21 +38,21 @@ Art. 2
 Art. 3
 
 > Ex Consilii muneribus officia extolluntur:
->
+
 > 1° theologicum pastoralemque sensum novae evangelizationis altius vestigandi;
->
+
 > 2° promovendi et iuvandi, Conferentiis Episcopalibus arte cooperantibus, quae institutum *ad hoc* habere poterunt, vestigationem, diffusionem et exsecutionem Magisterii pontificii, quod ad argumenta attinet, quae cum nova evangelizatione nectuntur;
->
+
 > 3° notificandi et sustinendi incepta, quae cum nova evangelizatione coniunguntur quaeque in nonnullis Ecclesiis particularibus iam aguntur, atque promovendi nova efficienda, naviter vires etiam implicando, quae in Institutis vitae consecratae et Societatibus vitae apostolicae reperiuntur, itemque in fidelium sodalitatibus atque novis communitatibus;
->
+
 > 4° perpendendi et curandi recentiores communicationis socialis formas adhibendas, veluti instrumenta novae evangelizationis;
->
+
 > 5° [Catechismi Catholicae Ecclesiae](http://www.vatican.va/latin/latin_catechism.html) usum promovendi, qui essentialiter pleneque summam fidei complectitur pro nostrae aetatis hominibus.
 
 Art. 4
 
 > § 1 Consilium ab Archiepiscopo Praeside regitur, iuvantibus Secretario, Subsecretario et congruo numero Officialium, secundum statutas normas Constitutionis apostolicae *[Pastor bonus](/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html)* et Ordinationis Generalis Curiae Romanae.
->
+
 > § 2 Consilium propria Membra habet et proprios Consultores constituere potest.
 
 Nostra haec autem statuta et *Motu proprio* praescripta nunc et in posterum firma et efficacia esse et fore volumus, non obstantibus quibusvis contrariis rebus, etiam peculiari mentione dignis, atque decernimus ut per editionem in actis diurnis "L’Osservatore Romano" eadem promulgentur atque ipso promulgationis die vigere incipient.

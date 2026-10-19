@@ -1,13 +1,5 @@
 # Osservazioni sul «Rapporto finale» dellÂÂÂ’ARCIC, 27 marzo 1982
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
@@ -28,19 +20,19 @@ SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 **[B) Difficoltà dottrinali](#B.%20Difficoltà%20dottrinali%20notate%20dalla%20SCDF)**
 
 > **I. *Eucaristia*:**
->
+
 > > 1\) Eucaristia come Sacrificio.  
 > > 2) Presenza Reale.  
 > > 3) Conservazione e Adorazione dell'Eucaristia.
->
+
 > **II. *Ministero e Ordinazione*:**
->
+
 > > 1\) Sacerdozio Ministeriale.  
 > > 2) Sacramentalità dell'Ordinazione.  
 > > 3) Ordinazione di Donne.
->
+
 > **III. *Autorità nella Chiesa*:**
->
+
 > > 1\) Interpretazione dei Testi Petrini del Nuovo Testamento.  
 > > 2) Primato e giurisdizione del Vescovo di Roma.  
 > > 3) Infallibilità e Indefettibilità.  

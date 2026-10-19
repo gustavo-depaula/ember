@@ -1,15 +1,5 @@
 # Sacrosanctum Concilium
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONSTITUIÇÃO CONCILIAR  
@@ -480,13 +470,13 @@ Continua esse múnus sacerdotal por intermédio da sua Igreja, que louva o Senho
 89\. Por isso, na reforma do Ofício, observem-se as seguintes normas:
 
 > a\) As Laudes, oração da manhã, e as Vésperas, oração da noite, tidas como os dois polos do Ofício quotidiano pela tradição venerável da Igreja universal, devem considerar-se as principais Horas e como tais celebrar-se;
->
+
 > b\) As Completas devem adaptar-se, para condizer com o fim do dia;
->
+
 > c\) As Matinas, continuando embora, quando recitadas em coro, com a índole de louvor nocturno, devem adaptar-se para ser recitadas a qualquer hora do dia; tenham menos salmos e lições mais extensas;
->
+
 > d\) Suprima-se a Hora de Prima;
->
+
 > e\) Mantenham-se na recitação em coro as Horas menores de Tércia, Sexta e Noa. Fora da recitação coral, pode escolher-se uma das três, a que mais se coadune com a hora do dia.
 
 90\. Sendo ainda o Ofício divino, como oração pública da Igreja, fonte de piedade e alimento da oração pessoal, exortam-se no Senhor os sacerdotes, e todos os outros que participam no Ofício divino, a que, ao recitarem-no, o espírito corresponda às palavras; para melhor o conseguirem, procurem adquirir maior instrução litúrgica e bíblica, especialmente quanto aos salmos. Tenha-se como objectivo, ao fazer a reforma desse tesouro venerável e secular que é o Ofício romano, que mais larga e fàcilmente o possam usufruir todos aqueles a quem é confiado.
@@ -498,9 +488,9 @@ Conclua-se o mais depressa possível a obra, felizmente iniciada, da revisão do
 92\. Quanto às leituras, sigam-se estas normas:
 
 > a\) Ordenem-se as leituras da Sagrada Escritura de modo que se permita mais fácil e amplo acesso aos tesouros da palavra de Deus;
->
+
 > b\) Faça-se melhor selecção das leituras a extrair das obras dos Santos Padres, Doutores e Escritores eclesiásticos;
->
+
 > c\) As «Paixões» ou vidas dos Santos sejam restituídas à verdade histórica.
 
 93\. Restaurem-se os hinos, segundo convenha, na sua forma original, tirando ou mudando tudo o que tenha ressaibos mitológicos ou for menos conforme com a piedade cristã. Se convier, admitam-se também outros que se encontram nas colecções hinológicas.
@@ -512,9 +502,9 @@ Conclua-se o mais depressa possível a obra, felizmente iniciada, da revisão do
 95\. As Comunidades com obrigação de coro têm o dever de celebrar, além da Missa conventual, diàriamente e em coro, o Ofício divino, ou seja;
 
 > a\) O Ofício completo: as Ordens de Cónegos, de Monges e Monjas e de outros Regulares que por direito ou constituições estão obrigados ao coro;
->
+
 > b\) As partes do Ofício que lhes são. impostas pelo direito comum ou particular: os Cabidos das catedrais ou das colegiadas;
->
+
 > c\) Todos os membros dessas Comunidades que já receberam Ordens maiores ou fizeram profissão solene, à excepção dos conversos, devem recitar sòzinhos as Horas canónicas que não recitam no coro.
 
 96\. Os clérigos não obrigados ao coro, se já receberam Ordens maiores, são obrigados a recitar diàriamente, ou em comum ou individualmente, todo o Ofício, segundo o prescrito no art. 89.
@@ -576,7 +566,7 @@ Por isso, aprouve ao sagrado Concílio determinar o seguinte:
 109\. Ponham-se em maior realce, tanto na Liturgia como na catequese litúrgica, os dois aspectos característicos do tempo quaresmal, que pretende, sobretudo através da recordação ou preparação do Baptismo e pela Penitência, preparar os fiéis, que devem ouvir com mais frequência a Palavra de Deus e dar-se à oração com mais insistência, para a celebração do mistério pascal. Por isso:
 
 > a\) utilizem-se com mais abundância os elementos baptismais próprios da liturgia quaresmal e retomem-se, se parecer oportuno, elementos da antiga tradição;
->
+
 > b\) o mesmo se diga dos elementos penitenciais. Quanto à catequese, inculque-se nos espíritos, de par com as consequências sociais do pecado, a natureza própria da penitência, que é detestação do pecado por ser ofensa de Deus; nem se deve esquecer a parte da Igreja na prática penitenciai, nem deixar de recomendar a oração pelos pecadores.
 
 110\. A penitência quaresmal deve ser também externa e social, que não só interna e individual. Estimule-se a prática da penitência, adaptada ao nosso tempo, às possibilidades das diversas regiões e à condição de cada um dos fiéis. Recomendem-na as autoridades a que se refere o art. 22.

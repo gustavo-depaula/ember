@@ -1,9 +1,5 @@
 # Notificación Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***NOTIFICACION * a propósito del libro del Rvdo. P. JACQUES DUPUIS, S.J., *«Hacia una teología cristiana del pluralismo religioso»* Maliaño (Cantabria), Ed. Sal Terrae, 2000**
@@ -59,8 +55,6 @@ El Sumo Pontífice Juan Pablo II, en el transcurso de la Audiencia del 19 de ene
 *Arzobispo Emérito de Vercelli Secretario*  
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: La Congregación para la Doctrina de la Fe, para salir al paso de ciertas tendencias manifestadas en distintos ambientes teológicos, e incluso entre los fieles, ha publicado la *Declaración “Dominus Iesus” sobre la unicidad y la universalidad salvífica de Cristo y de la Iglesia* (AAS 92 \[2000\] 742-765), para tutelar los datos esenciales de la fe católica. A la hora de evaluar la obra del P. J. Dupuis, la presente *Notificación* se inspira en los principios indicados en la mencionada *Declaración*.
 

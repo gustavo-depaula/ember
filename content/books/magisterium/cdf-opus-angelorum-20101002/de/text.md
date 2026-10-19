@@ -1,8 +1,4 @@
-# 
-
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
+# Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum
 
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
@@ -37,5 +33,3 @@ Ihre im Herrn ergebenen
 **Luis F. Ladaria, S.I**.  
 *Titularerzbischof von Thibica*  
 *Sekretär*
-
-[](#top)

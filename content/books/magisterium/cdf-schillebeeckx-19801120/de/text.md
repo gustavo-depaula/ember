@@ -1,13 +1,5 @@
 # Schreiben an P. E. Schillebeeckx bezüglich seiner Positionen zur Lehre über Christusle, 20. November 1980
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HL. KONGREGATION FÜR DIE GLAUBENSLEHRE

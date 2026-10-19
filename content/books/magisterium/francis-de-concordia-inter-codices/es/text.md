@@ -31,23 +31,23 @@ Considerado todo esto, dispongo ahora lo siguiente:
 Art. 1. El c. 111 CIC se sustituye íntegramente por el siguiente, que incluye un nuevo párrafo y modifica algunas expresiones:
 
 > § 1. Con la recepción del bautismo queda adscrito a la Iglesia latina el hijo de los progenitores que pertenecen a ella o, si  uno de los dos no pertenece a ella, cuando ambos progenitores de común acuerdo hayan elegido que la prole fuera bautizada en la Iglesia latina; si falta el común acuerdo queda adscrito a la Iglesia *sui iuris* a la que pertenece el padre.
->
+
 > § 2. Si solamente uno de los progenitores es católico, queda adscrito a la Iglesia a la que pertenece este progenitor católico.
->
+
 > § 3. Cualquier bautizando que haya cumplido catorce años de edad puede libremente elegir ser bautizado en la Iglesia latina o en otra Iglesia *sui iuris;* en este caso, pertenece a la Iglesia que haya elegido.
 
 Art. 2. El c. 112 CIC queda totalmente sustituido por el siguiente, que incluye un nuevo párrafo y cambia algunas expresiones:
 
 > § 1. Después de recibido el bautismo se adscriben a otra Iglesia *sui iuris:*
->
+
 > 1.º Quien obtenga una licencia de la Sede Apostólica.
->
+
 > 2.º El cónyuge que, al contraer matrimonio o durante el mismo, declare que pasa a la Iglesia *sui iuris* del otro cónyuge; pero una vez disuelto el matrimonio puede volver libremente a la Iglesia latina.
->
+
 > 3.º Los hijos de aquellos de los que se trata en los números 1 y 2 antes de cumplir catorce años de edad y, de igual manera, en el matrimonio mixto, los hijos de la parte católica que haya pasado legítimamente a otra Iglesia *sui iuris*; no obstante*,* alcanzada esa edad, ellos mismos pueden volver a la Iglesia latina.
->
+
 > § 2. La costumbre, por prolongada que sea, de recibir los sacramentos según el rito de otra Iglesia *sui iuris* no comporta la adscripción a dicha Iglesia.
->
+
 > § 3. Todo paso a otra Iglesia *sui iuris* tiene valor desde el momento de la declaración hecha en presencia del Ordinario del lugar de dicha Iglesia o del párroco propio o del sacerdote delegado por uno de ellos y de dos testigos, a no ser que un rescrito de la Sede Apostólica disponga otra cosa; y se anotará en el libro de bautismos.
 
 Art. 3. El segundo párrafo del c. 535 CIC queda totalmente sustituido por el siguiente:

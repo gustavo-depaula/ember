@@ -32,6 +32,4 @@ A budući da Sveti Sabor toplo preporuča "pobožne vježbe kršćanskoga puka, 
 
 *Dano u Rimu, kod Bazilike svetoga Petra, 6. veljače 1965., druge godine Našega Pontifikata.*
 
-* *
-
                                                                   *Papa Pavao VI.*

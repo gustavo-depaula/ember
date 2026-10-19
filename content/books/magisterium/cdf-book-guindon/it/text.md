@@ -1,9 +1,5 @@
 # Nota riguardante il libro «The Sexual Creators, An Ethical proposal for Concerned Christians» (University Press of America, Lanham-New York-London 1986) del P. André Guindon, O.M.I.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **Nota riguardante il libro «*The Sexual Creators, An Ethical proposal for Concerned Christians*» (University Press of America, Lanham-New York-London 1986) del P. André Guindon, O.M.I.**
@@ -119,5 +115,3 @@ La Congregazione chiede ancora che P. Guindon risolva in una dichiarazione pubbl
 6\. Cf. Dichiarazione *Persona humana*, n. 7; *Familiaris consortio*, n. 80.
 
 7\. N. 5.
-
-[](#top)

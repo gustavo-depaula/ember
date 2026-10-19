@@ -246,7 +246,3 @@ Affidiamo questo nostro messaggio in modo particolare ai numerosi ordini religio
 *Dato a Roma, presso san Pietro, il 2 gennaio, nella memoria dei santi Basilio Magno e Gregorio Nazianzeno, Vescovi e Dottori della Chiesa, dell'anno 1980, secondo di Pontificato.*
 
 GIOVANNI PAOLO II
-
-*  *
-
-* *

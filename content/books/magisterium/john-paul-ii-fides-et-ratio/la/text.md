@@ -13,11 +13,7 @@ INTER UTRAMQUE
 
 FIDES ET RATIO binae quasi pennae videntur quibus veritatis ad contemplationem hominis attollitur animus. Deus autem ipse est qui veritatis cognoscendae studium hominum mentibus insevit, suique tandem etiam cognoscendi ut, cognoscentes Eum diligentesque, ad plenam pariter de se ipsis pertingere possint veritatem (cfr *Ex* 33,18; *Ps* 27\[26\],8-9; 63\[62\],2-3; *Io* 14,8; *1 Io* 3,2).
 
-** **
-
 **PROOEMIUM**
-
-*** ***
 
 ***« Nosce te ipsum »***
 
@@ -51,8 +47,6 @@ Alia Nos quoque permovet causa ut has perscribamus deliberationes. Litteris in E
 
 **CAPUT I - SAPIENTIAE DIVINAE PATEFACTIO**
 
-*** ***
-
 ***Iesus Patris Revelator***
 
 7\. Omni meditationi quam perficit Ecclesia subiacet conscientia apud ipsam nuntium depositum esse qui suam trahat originem ex Deo ipso (cfr *2 Cor* 4,1-2). Haud ex propria consideratione provenit haec conscientia etiam profundissima quam hominibus ea praebet, verum ex verbi Dei in fide receptione (cfr *1 Thess* 2,13). Ad vitae nostrae uti credentium originem congressio quaedam, sui generis unica, invenitur quae mysterii a saeculis absconditi designat illuminationem (cfr *1 Cor* 2,7; *Rom* 16,25-26), quod autem nunc aperitur: « Placuit Deo in sua bonitate et sapientia seipsum revelare et notum facere sacramentum voluntatis suae (cfr *Eph* 1,9), quo homines per Christum, Verbum carnem factum, in Spiritu Sancto accessum habent ad Patrem et divinae naturae consortes efficiuntur ».⁵ Hoc est plane gratuitum opus quod a Deo proficiscitur et ad homines pervenit ut illi salvi fiant. Tamquam amoris fons Deus se cupit cognosci atque cognitio quam illius habet homo omnem perficit aliam notitiam quam mens eius assequi potest de propriae exsistentiae sensu.
@@ -72,8 +66,6 @@ Efficit itaque populo Dei historia haec iter quoddam ex toto percurrendum, ita u
 12\. Locus ita evadit historia ubi comprobare possumus Dei acta pro hominibus. Nos enim attingit ille in iis quae nobis maxime sunt familiaria et ad demonstrandum facilia, quia cotidiana nostra constituunt adiuncta, quibus submotis haud possemus nosmet ipsos intellegere.
 
 Permittit Dei Filii incarnatio ut perennis ac postrema summa videatur completa quam ex se profecta hominum mens numquam fingere sibi valuisset: Aeternum ingreditur tempus, Quod est Omne absconditur in parte, Deus hominis suscipit vultum. Christi in Revelatione igitur expressa veritas iam nullis circumscribitur artis locorum et culturarum finibus, verum cuivis viro et feminae aperitur quae eam complecti voluerit veluti sermonem penitus validum qui vitae tribuat sensum. In Christo omnes homines iam accessum habent ad Patrem; sua namque morte ac resurrectione Ipse vitam aeternam dono dedit quam primus respuerat Adamus (cfr *Rom* 5,12-15). Hanc per Revelationem ultima exhibetur homini de propria vita veritas deque historiae sorte: « Reapse nonnisi in mysterio Verbi incarnati mysterium hominis vere clarescit » adseverat Constitutio *Gaudium et spes*.¹² Extra hunc rerum conspectum mysterium vitae singulorum hominum manet aenigma insolubile. Ubi reperire valet homo responsiones illis permoventibus interrogationibus, verbi gratia de dolore atque innocentis cruciatu ac de morte, nisi illo sub lumine quod ex mysterio passionis mortis resurrectionis Christi profluit?
-
-*** ***
 
 ***Coram arcano - ratio***
 
@@ -99,8 +91,6 @@ His praelucentibus deliberationibus prima iam imponitur conclusio: quam nobis Re
 
 **CAPUT II - CREDO UT INTELLEGAM**
 
-*** ***
-
 ***Sapientia scit omnia et intellegit* (cfr *Sap* 9,11)**
 
 16\. Quam sit inter fidei cognitionem ac scientiam rationis alta iunctura iam Sacris in Litteris significatur mirabilibus quibusdam perspicuitatis affirmationibus. Hoc comprobant *Libri Sapientiales* potissimum. Hoc quidem ferit oculos in hac lectione sine praeiudicatis opinationibus facta harum Scripturae paginarum, quod his in locis non sola Israelis concluditur fides, verum etiam thesaurus societatum et culturarum interea exstinctarum. Veluti ex peculiari quodam consilio Aegyptus et Mesopotamia faciunt ut sua iterum audiatur vox ac communes quaedam proprietates culturarum antiqui Orientis in his paginis revocentur ad vitam, quae nempe conceptionibus insigniter altis abundant.
@@ -123,8 +113,6 @@ Quotiens ab hisce receditur regulis, periculo obicitur homo ne deficiat deveniat
 
 20\. Hoc sub prospectu bene aestimatur ratio, sed nimium non existimatur. Quidquid assequitur illa verum esse potest, at plenam suam consequitur significationem tum solum cum notiones ampliorem in rerum prospectum proiciuntur, nempe ipsius fidei: « A Domino diriguntur gressus viri; quis autem hominum intellegere potest viam suam? » (*Prv* 20,24). Apud Vetus itaque Testamentum rationem fides liberat quatenus ei congruenter attingere permittit proprium cognitionis obiectum idque in supremo reponere ordine ubi omnia suum habent sensum. Brevi: veritatem ratione consequitur homo, quoniam fide collustratus altum rerum omnium detegit sensum ac nominatim suae exsistentiae. Iure igitur ac merito auctor sacer verae cognitionis initium plane collocat in Dei timore: « Timor Domini principium scientiae » (*Prv* 1,7; cfr *Eccli* 1,14).
 
-*** ***
-
 ***Posside sapientiam, posside prudentiam* (*Prv* 4, 5)**
 
 21\. Non conditur, pro Veteris Testamenti hominibus, cognitio in observatione dumtaxat hominis et orbis et historiae, verum insolubilem poscit etiam coniunctionem cum fide cumque Revelationis doctrinis. Hic inveniuntur illae provocationes quibus occurrere populus electus debuit reddereque responsum. Hanc suam perpendens condicionem homo biblicus perspexit se intellegere non posse nisi « coniunctum » secum et cum populo, cum reliquo orbe ac cum Deo ipso. Haec ad mysterium patefactio, quae ex Revelatione ipsi contingebat, tandem fons illi verae cognitionis exstitit quae permisit rationi eius ut se in infinita spatia propelleret et sic comprehendere posset modis antehac omnino insperatis.
@@ -144,8 +132,6 @@ Funditus hanc difficultatem imponit initium Primae Epistulae ad Corinthios. Cruc
 Crucis sapientia igitur omnem culturae limitem transgreditur quem ei aliunde imponere nitantur atque imperat ut quisque se aperiat universali veritatis naturae quam in se ipsa gerit. Qualis rationi nostrae obicitur provocatio, qualemve inde percipit utilitatem si se dederit! Philosophia, quae iam ex se agnoscere potest perpetuum hominis ascensum adversus veritatem, adiuvante fide potest se recludere ad recipiendum in « stultitia » Crucis criticum iudicium eorum qui falso arbitrantur se veritatem possidere, dum eam angustiis sui philosophici instituti involvunt. Inter fidem et philosophiam necessitudo in Christi crucifixi ac resuscitati praedicatione scopulum offendit ad quem naufragium facere potest, sed ultra quem patescere potest infinitum veritatis spatium. Hic liquido indicatur inter rationem ac fidem limes; at locus similiter clarus elucescit ubi ambae ipsae congredi possunt.
 
 **CAPUT III - INTELLEGO UT CREDAM**
-
-*** ***
 
 ***In via veritatem ad inquirendam***
 
@@ -168,8 +154,6 @@ Valores igitur, selecti et propriis viribus comparati, veri sint oportet, quando
 27\. Has interrogationes nemo fugere potest, nec philosophus nec homo plebeius. Ex responsis quae iisdem dantur suprema pendet investigationis pars: utrum fieri possit ut perveniatur necne ad veritatem universalem et absolutam. Ex se, quaevis veritas, etsi non integra, si est authentica, universalis exhibetur et absoluta. Quod verum est, pro omnibus et semper verum esse debet. Hanc praeter universalitatem, tamen, homo quaerit aliquid absolutum quod responsum ferre possit et sensum ad omnia quae vestigantur: ens quoddam supremum quod fundamentum exstet cuiusque rei. Ut aliis utamur verbis, homo quaerit definitivam dilucidationem, valorem quendam supremum, ultra quem nec sint nec esse possint interrogationes aut ulteriora addenda. Opiniones animos allicere possunt, non vero illis satisfacere. Momentum adventat pro omnibus, quo, sive admittitur sive non, necesse est ut propria exsistentia sustentetur veritate absoluta, quae certitudinem pariat nec amplius dubio subiciatur.
 
 Similem veritatem, per saeculorum decursum, philosophi detegere et exprimere curarunt, quandam condendo doctrinam seu scholam philosophicam. Praeter doctrinas philosophicas, tamen, sunt aliae expressiones quibus homo intendit suam « philosophiam » constituere: agitur de suasionibus vel experientiis privatis, de familiae culturaeque traditionibus vel de viis exsistentiae propriis, in quibus quisque alicuius magistri auctoritati se committit. In singulis his indiciis semper flagrans permanet studium assequendi certitudinem veritatis eiusque absoluti valoris.
-
-*** ***
 
 ***Diversae de homine veritatis facies***
 
@@ -203,8 +187,6 @@ Ex hucusque dictis colligitur hominem quodam in itinere versari perquisitionis, 
 
 **CAPUT IV - DE HABITUDINE INTER FIDEM ET RATIONEM**
 
-*** ***
-
 ***Praecipui gressus in occursu fidei rationisque***
 
 36\. Ut Actus Apostolorum testantur, nuntius christianus inde ab exordiis cum doctrinis philosophicis illius aetatis est collatus. Idem Liber narrat disceptationem quam Paulus Athenis habuit cum quibusdam philosophis Epicureis et Stoicis (17,18). Exegeticum examen illius sermonis ad Areopagum habiti in luce posuit usitatas mentiones de variis opinionibus populi praesertim ex origine Stoica. Hoc quidem non fortuito factum est. Primi Christiani, ut a paganis recte perciperentur, in suis sermonibus auditores dumtaxat « ad Moysen et prophetas » remittere non poterant; niti quoque tenebantur naturali Dei cognitione et voce conscientiae moralis cuiusque hominis (cfr *Rom* 1,19-21; 2,14-15; *Act* 14,16-17). Cum autem haec cognitio naturalis apud paganos in idololatriam prolapsa esset (cfr *Rom* 1,21-32), Apostolus censuit sapientius esse sermonem coniungere cum doctrina philosophorum qui ab initio fabulis et cultibus mystericis opponebant conceptus divinam transcendentiam magis reverentes.
@@ -231,8 +213,6 @@ Hic vere inseritur novitas a Patribus excogitata. Illi in plenitudine acceperunt
 
 Fundamentalis concordia inter cognitionem philosophicam et fidei cognitionem iterum confirmatur: fides postulat ut obiectum suum auxilio rationis comprehendatur; ratio, culmen investigationis attingens, necessarium ducit quidquid fides ostendit.
 
-*** ***
-
 ***Perennis sancti Thomae Aquinatis sententiarum novitas***
 
 43\. Locus omnino singularis hoc in longo itinere sancto Thomae reservatur, non tantum ob ea quae in eius doctrina continentur, verum etiam ob habitudinem dialogicam quam ille tunc temporis interserere scivit cum Arabica et Hebraica doctrina. Illa quidem aetate, qua christiani disputatores reperiebant veteres thesauros philosophiae, et immediatius philosophiae Aristotelicae, summum eius exstitit meritum quod eminere fecerit concordiam inter rationem et fidem. Utriusque lumen, rationis scilicet et fidei, a Deo procedit, ille ratiocinatus est, idcirco inter se opponere nequeunt.⁴⁴
@@ -246,8 +226,6 @@ Hac quidem de causa iure meritoque sanctus Thomas ab Ecclesia Magister doctrinae
 Primatus tamen huic sapientiae tributus non inducit Doctorem Angelicum ut duas alias additicias formas sapientiae obliviscatur: formam nempe *philosophicam*, quae fulcitur facultate qua intellectus, intra proprios limites, instruitur ad res investigandas; et formam *theologicam*, quae ex Revelatione pendet et fidei veritates scrutatur, ipsum Dei mysterium attingendo.
 
 Intime persuasus de eo quod « omne verum a quocumque dicatur a Spiritu Sancto est », ⁵⁰ sanctus Thomas nulla adductus utilitate, veritatem dilexit. Quaesivit eam ubicumque ea exprimi potuit, universalem eius indolem quam maxime illustrando. Magisterium Ecclesiae in ipso vidit et aestimavit ardens veritatis studium; doctrina illius, eo quod universalem, obiectivam et transcendentem veritatem semper asseruit, attigit culmina « quibus attingendis impar humana intelligentia est ». ⁵¹ Merito quidem ille appellari potest « apostolus veritatis ». ⁵² Quoniam indubitanter ad veritatem animum attendebat, revera obiectivum eius sensum agnoscere scivit. Eius vere est philosophia essendi et non apparendi dumtaxat.
-
-*** ***
 
 ***Seiunctae a ratione fidei tragoedia***
 
@@ -272,8 +250,6 @@ His culturae immutationibus praepositis, nonnulli philosophi, veritatem ipsius c
 Ne importuna igitur videatur gravis firmaque Nostra compellatio, ut fides et philosophia artam illam coniunctionem redintegrent, quae eas congruas efficiat earum naturae, autonomia vicissim servata. Fidei parrhesiae respondere debet rationis audacia.
 
 **CAPUT V - DE RE PHILOSOPHICA MAGISTERII IUDICIA**
-
-*** ***
 
 ***Magisterii prudens discretio uti veritati praestitum officium***
 
@@ -315,8 +291,6 @@ Aliae absconditi fideismi formae agnosci possunt eo quod theologia speculativa p
 
 56\. Aliquo modo, postremo, effatis omnia complectentibus et absolutis diffidunt, ii potissimum qui arbitrantur ex consensu, non ex intellectu obiectivae realitati obnoxio depromi veritatem. Certe illud intellegi potest, in mundo qui in multas peculiaresque partes dispertitur, eum complexivum ultimumque vitae sensum difficulter agnosci, quem translaticia philosophia quaesivit. Verumtamen sub lumine fidei quae in Christo Iesu hunc ultimum sensum agnoscit, facere non possumus quin philosophos, christianos vel non christianos, incitemus ut rationis humanae facultati confidant neque metas in philosophandi arte nimis mediocres prae se ferant. Huius iam ad finem vergentis millenni historica lectio testatur hanc esse calcandam viam: oportet veritatis ultimae cupido vestigationisque desiderium non amittantur, quae cum audacia novos cursus detegendi coniunguntur. Fides ipsa rationem lacessit ad omnem secessionem deserendam et ad omnia periclitanda, ut persequatur quae pulchra, bona veraque sunt. Fides sic rationis fit certus atque suadens advocatus.
 
-*** ***
-
 ***Ecclesia philosophiae studiosa***
 
 57\. Magisterium, utcumque, in erroribus notandis doctrinisque philosophorum aberrantibus non se continuit. Pari cura praecipua principia ad germanam philosophicae cogitationis renovationem assequendam confirmavit, definita demonstrando etiam curricula, quae sunt tenenda. Hac in re, Leo PP. XIII, Litteris suis encyclicis *Æterni Patris*, vere historicae significationis fecit illam pro Ecclesiae vita progressionem. Id scriptum ad hoc usque tempus unum exstat documentum pontificium illius gradus, quod philosophiae totum dicatur. Concilii Vaticani I eximius ille Pontifex doctrinam de necessitudine inter fidem et rationem repetiit atque amplificavit, idemque philosophicas cogitationes fidei ac theologicae scientiae summo esse auxilio demonstravit.⁷⁸ Uno plus post saeculo complura illius scripti indicia sive re sive paedagogico usu nihil amiserunt utilitatis; primum ex omnibus est id quod ad incomparabilem sancti Thomae philosophiae praestantiam spectat. Doctoris Angelici doctrina restituta Leoni PP. XIII optima videbatur semita ad illum philosophiae usum recuperandum, quem postulabat fides. Sanctus Thoma — scripsit ille — « rationem, ut par est, a fide apprime distinguens, utramque tamen amice consocians, utriusque tum iura conservavit, tum dignitati consuluit ».⁷⁹
@@ -342,8 +316,6 @@ Magna Nos tenet spes has difficultates sublatum iri, prudenti intercedente philo
 63\. Has propter rationes, Nobis visum est instantem esse rem, his Nostris Litteris Encyclicis, acre studium confirmare, quod philosophiae tribuit Ecclesia; immo artam coniunctionem, qua theologicum opus et philosophica inquisitio nectuntur. Inde Magisterii officium oritur philosophicam scientiam discernendi et concitandi, quae fidei minime aversetur. Nostrum est quaedam principia et indicia exhibere, quae necessaria arbitramur, ut ordinata necessitudo et efficax inter theologiam et philosophiam instituatur. Eorum sub lumine clarius iudicari poterit an qualemve necessitudinem cum diversis philosophicis scholis opinationibusque instituere debeat theologia, quas hodiernus mundus exhibet.
 
 **CAPUT VI - MUTUA INTER THEOLOGIAM ET PHILOSOPHIAM ACTIO**
-
-*** ***
 
 ***Fidei scientia atque philosophicae rationis postulata***
 
@@ -393,8 +365,6 @@ Quod de India dictum est, adscribitur patrimonio praestantium culturarum Sinensi
 
 74\. Ubertatis comprobatio huius necessitudinis exhibetur personalibus eventibus clarorum theologorum christianorum, qui ut philosophi etiam eximii enituerunt, qui scripta sic altae speculativae praestantiae reliquerunt, ut iure antiquae philosophiae aequarentur doctoribus. Id tum de Ecclesiae Patribus dici potest, inter quos saltem sanctus Gregorius Nazianzenus atque sanctus Augustinus annumerantur, tum de Doctoribus mediaevalibus, inter quos trias illa elucet quam constituunt sancti Anselmus, Bonaventura et Thomas Aquinas. Fecunda illa philosophiae verbique Dei consociatio etiam ex magnanima emergit investigatione a recentioribus doctis provecta, in quibus memorare placet ex orbe occidentali homines veluti Ioannem Henricum Newman, Antonium Rosmini, Iacobum Maritain, Stephanum Gilson, Edith Stein simulque ex orientali orbe studiosos ut Vladimirum S. Solov'ev, Paulum A. Florenskij, Petrum K. Caadaev, Vladimirum N. Lossky. Uti paret, hi cum memorantur auctores, quibuscum alia pariter proferri possunt nomina, non omnem eorum doctrinae aestimationem prodere cupimus, verum exempla quaedam praestantiora illius efferre itineris investigationum philosophicarum ad quod beneficia singularia comparatio attulit cum fidei doctrinis. De hoc autem non est ambigendum: horum doctorum spiritalis itineris contemplatio non poterit quin progredienti veritatis inquisitioni proficiat atque usui consectariorum in hominum utilitatem. Sperari oportet hanc eximiam philosophicam-theologicam traditionem nunc et futuro de tempore suos successores necnon pro Ecclesiae humanitatisque bono cultores esse inventuram.
 
-*** ***
-
 ***De diversis philosophiae statibus***
 
 75\. Quemadmodum patet ex historia necessitudinum inter fidem et philosophiam sicut supra paucis dictum est, diversi philosophiae status prae fide christiana distingui possunt. Primus status *philosophiam a Revelatione evangelica penitus distractam* complectitur: philosophiae est condicio quae aetatibus illis ante Redemptorem natum historice exstitit atque post Eum in regionibus nondum ab Evangelio contactis. Hac in condicione philosophia legitime affectat se *sui iuris* esse inceptum, quae videlicet secundum suas ipsius leges agit, quae suis unis viribus innititur. Quamvis de gravibus limitationibus conscii simus, quae ingenitae humanae debilitati adscribuntur, haec affectatio est sustentanda et roboranda. Philosophicum namque studium, prout ad veritatem intra naturalem provinciam perquirendam tendit, saltem implicite rei supernaturali patens est.
@@ -426,8 +396,6 @@ Hic philosophiae status quem consideravimus, quandoquidem in Revelatione intelle
 79\. Clarius quae antea edixit Magisterium ostendentes, novissima hac in parte quaedam postulata enuntiare volumus, quae theologia — immo, antehac Dei verbum — philosophicae cogitationi ac recentioribus philosophicis hodie exhibet. Quemadmodum supra dictum est, ad suas regulas agere suisque principiis inniti debet philosophus; nisi una tamen esse non potest veritas. Revelatio, et quae in ea continentur, rationis inventa eiusque legitimam autonomiam numquam comprimere possunt; at ratio, ex parte sua, sese interrogandi et percontandi facultatem numquam amittere debet, sibi omnino conscia se absolutum quiddam propriumque non esse. Veritas revelata, clare id quod est collustrando sumens initium ex splendore quem efficit id quod per se Est, philosophicae cogitationis iter illuminabit. Revelatio christiana verus fit, itaque, locus ubi philosophica et theologica disciplina, mutuam necessitudinem instituentes, coniunguntur et reciprocantur. Optandum igitur est ut theologi ac philosophi a sola veritatis auctoritate temperentur ita ut philosophia cum Dei verbo congruens contexatur. Philosophia haec locus erit ubi humani cultus et christiana fides convenient, consensionis erit sedes inter fideles et non fideles. Opem feret ut fideles sibi sint altius conscii altitudinem sinceritatemque fidei iuvari dum nectitur cum cogitatione dumque eam non recusat. Patrum rursus doctrina in hanc nos persuasionem perducit: « Et ipsum credere, nihil aliud est, quam cum assensione cogitare \[...\] Omnis qui credit, et credendo cogitat, et cogitando credit \[...\] quoniam fide si non cogitatur nulla est ».⁹⁵ Et etiam: « Si tollatur assensio fides tollitur, quia sine assensione nihil creditur ».⁹⁶
 
 **CAPUT VII - POSTULATA HODIERNA ET OFFICIA**
-
-*** ***
 
 ***Verbi Dei postulationes haud renuntiandae***
 
@@ -489,8 +457,6 @@ Quadamtenus confirmatur hic nihilismus in terrifica malorum experientia quibus a
 
 Verum nihilominus est certam quandam mentem positivistam etiam nunc fidem tribuere deceptioni, cuius vi, propter reperta scientifica et technica, homo veluti demiurgus assequi ex se solo possit sibique obtinere plenum suam in fortunam dominatum.
 
-*** ***
-
 ***Hodierna theologiae officia***
 
 92\. Quatenus est Revelationis intellegentia, variis in historiae aetatibus theologia semper cognovit sibi diversarum culturarum postulationes esse suscipiendas ut intra eas, consentanea cum doctrinae explicatione, fidei elementa tradere posset. Hodie quoque duplex ad eam pertinet munus. Altera ex parte opus explicet illa oportet quod Concilium Oecumenicum Vaticanum II suo tempore ei commisit: suas ut proprias renovaret docendi rationes quo evangelizationi efficacius inserviret. Hac in re quis recordari non potest de verbis a Summo Pontifice Ioanne XXIII prolatis dum aperiret Concilium? Dixit enim tunc: « Oportet ut, quemadmodum cuncti sinceri rei christianae, catholicae, apostolicae fautores vehementer exoptant, eadem doctrina amplius et altius cognoscatur eaque plenius animi imbuantur atque formentur; oportet ut haec doctrina certa et immutabilis, cui fidele obsequium est praestandum, ea ratione pervestigetur et exponatur quam tempora postulant nostra ». ¹⁰⁷
@@ -526,8 +492,6 @@ Totas per easdem Encyclicas Litteras praecipuas extulimus partes attinentes ad v
 Hinc probe pariter intellegitur cur praeter theologiam sibi etiam *catechesis* adsumat maius quoddam pondus: in se enim haec complectitur philosophica aliqua consectaria fidei sub lumine vestiganda. Doctrina intra catechesim tradita aliquid certe ad instituendam personam humanam confert. Debet catechesis, quae etiam communicatio est facta per verba, Ecclesiae Magisterium tota ex ipsius integritate praebere, ¹¹⁸ coniunctionem illius etiam cum credentium vita demonstrans. ¹¹⁹ Unicum ita efficitur doctrinam inter et vitam vinculum quod aliter attingi non potest. Non sane veritatum intellectivarum corpus in catechesi traditur, verum viventis Dei mysterium. ¹²⁰
 
 Plurimum aequabiliter philosophica disputatio confert ad necessitudinem collustrandam inter veritatem et vitam, inter eventum et doctrinalem veritatem ac, praesertim, rationem inter transcendentem veritatem et sermonem qui humanitus intellegi potest. ¹²¹ Mutua consociatio inter disciplinas theologicas et exitus variis ex opinationibus philosophicis perceptos exprimet, itaque, veram fecunditatem in fide communicanda altiusque in ea comprehendenda.
-
-** **
 
 **CONCLUSIO**
 

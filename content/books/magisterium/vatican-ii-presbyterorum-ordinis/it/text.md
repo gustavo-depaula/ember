@@ -1,15 +1,5 @@
 # Presbyterorum ordinis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 PAOLO VESCOVO SERVO  
@@ -273,8 +263,6 @@ Io PAOLO Vescovo della Chiesa Cattolica
 ------------------------------------------------------------------------
 
 **Firme dei Padri**
-
-* *
 
 Io PAOLO Vescovo della Chiesa Cattolica
 

@@ -1,13 +1,5 @@
 # Declaración Dominus Iesus, 6 de agosto de 2000
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
@@ -171,8 +163,6 @@ La revelación de Cristo continuará a ser en la historia la verdadera estrella 
 ** Joseph Card. Ratzinger** *Prefecto*
 
 **Tarcisio Bertone, S.D.B.** *Arzobispo emérito de Vercelli Secretario*
-
-* *
 
 ------------------------------------------------------------------------
 

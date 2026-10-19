@@ -46,7 +46,7 @@ La foi eucharistique de l'Église \[6\]
 **[Eucharistie et Sacrements](#Eucharistie_et_sacrements)**
 
 > Sacramentalité de l'Église \[16\]
->
+
 > > I. Eucharistie et initiation chrétienne  
 > > Eucharistie, plénitude de l'initiation chrétienne \[17\]  
 > > L'ordre des sacrements de l'initiation \[18\]  

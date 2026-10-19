@@ -1,9 +1,5 @@
 # Articolo di commento ai Responsa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **ARTICOLO DI COMMENTO ai Responsa ad quaestiones de aliquibus sententiis ad doctrinam de Ecclesia pertinentibus**
@@ -63,8 +59,6 @@ Riprendendo sostanzialmente l’insegnamento conciliare e il Magistero post-conc
 L’ecumenismo cattolico può presentarsi a prima vista paradossale. Con l’espressione “subsistit in”, il Concilio Vaticano II volle armonizzare due affermazioni dottrinali: da un lato, che la Chiesa di Cristo, malgrado le divisioni dei cristiani, continua ad esistere pienamente soltanto nella Chiesa cattolica, e, dall’altro lato, l’esistenza di numerosi elementi di santificazione e di verità al di fuori della sua compagine, ovvero nelle Chiese e Comunità ecclesiali che non sono ancora in piena comunione con la Chiesa cattolica. Al riguardo lo stesso Decreto del Concilio Vaticano II sull’ecumenismo *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_it.html)* aveva introdotto il termine *plenitudo (unitatis/catholicitatis)* proprio per aiutare a comprendere meglio questa situazione in certo qual modo paradossale. Benché la Chiesa cattolica abbia la pienezza dei mezzi di salvezza, «tuttavia le divisioni dei cristiani impediscono che la Chiesa stessa attui la pienezza della cattolicità ad essa propria in quei figli, che le sono bensì uniti col battesimo, ma sono separati dalla sua piena comunione»[^16]. Si tratta dunque della pienezza della Chiesa cattolica, che è già attuale e che deve crescere nei fratelli non in piena comunione con essa, ma anche nei propri figli che sono peccatori «fino a che il popolo di Dio pervenga nella gioia a tutta la pienezza della gloria eterna nelle celeste Gerusalemme»[^17]. Il progresso nella pienezza è radicato nel dinamismo dell’unione con Cristo: «L’unione con Cristo è allo stesso tempo unione con tutti gli altri ai quali Egli si dona. Io non posso avere Cristo solo per me; posso appartenergli soltanto in unione con tutti quelli che sono diventati o diventeranno suoi. La comunione mi tira fuori da me stesso verso di Lui, e così anche verso l’unità con tutti i cristiani»[^18].
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: PAOLO VI, *[Discorso a chiusura del III periodo del Concilio](/holy_father/paul_vi/speeches/1964/documents/hf_p-vi_spe_19641121_conclusions-iii-sessions_it.html)* (21 novembre 1964)*:* EV 1, 290\*.
 

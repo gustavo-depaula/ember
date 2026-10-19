@@ -19,5 +19,3 @@ Christ is the true Vine. If the Eternal Father cultivates his vineyard in this w
 As I express this hope I send to all of you an affectionate greeting and my Apostolic Blessing.
 
 *Given at the Vatican, on 29 March, the Fourth Sunday of Lent, in the year 1992, the fourteenth of my Pontificate.*
-
-*  *

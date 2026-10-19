@@ -1,9 +1,5 @@
 # Norme per istituire il processo per lo scioglimento del vincolo matrimoniale in favore della fede, 30 aprile 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 * ****Norme per* *istituire il* *processo per lo scioglimento del vincolo matrimoniale in favore della fede***
@@ -151,5 +147,3 @@ art. 25. - § 1. Il vescovo trasmetta alla Congregazione per la Dottrina della F
 § 2. Si provveda anche a far sì che gli atti della causa, redatti nella lingua e nello stile del luogo, siano tradotti in una delle lingue accolte nell'ordinamento della Curia Romana, allegando una dichiarazione sotto giuramento che ne garantisce la fedele versione e trascrizione.
 
 (Norme *Potestas Ecclesiae* alle quali attenersi nell'istruire il processo per lo scioglimento del vincolo matrimoniale "in favorem fidei", 30 aprile 2001, Città del Vaticano 2001)
-
-[](#top)

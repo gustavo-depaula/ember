@@ -8,8 +8,6 @@ APOSTOLISCHES SCHREIBEN ***GAUDETE ET EXSULTATE*** DES HEILIGEN VATERS
 
 2\. Es soll hier nicht um eine Abhandlung über die Heiligkeit gehen, mit vielen Definitionen und Unterscheidungen, die dieses wichtige Thema bereichern könnten, oder mit Analysen, die über die Mittel der Heiligung anzustellen wären. Mein bescheidenes Ziel ist es, den Ruf zur Heiligkeit einmal mehr zum Klingen zu bringen und zu versuchen, ihn im gegenwärtigen Kontext mit seinen Risiken, Herausforderungen und Chancen Gestalt annehmen zu lassen. Denn der Herr hat jeden von uns erwählt, damit wir in der Liebe »heilig und untadelig leben vor ihm« (*Eph* 1,4).
 
-**                                                                   **
-
 **ERSTES KAPITEL**
 
 **DER RUF ZUR HEILIGKEIT**

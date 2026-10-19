@@ -1,9 +1,5 @@
 # Respuesta a la duda propuesta sobre la doctrina de la Carta Apostólica Ordinatio sacerdotalis, 28 octubre 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **RESPUESTA A LA DUDA PROPUESTA SOBRE LA DOCTRINA DE LA CARTA APOSTÓLICA «ORDINATIO SACERDOTALIS»**
@@ -22,5 +18,3 @@ Esta doctrina exige un asentimiento definitivo, puesto que, basada en la Palabra
 
 **Tarcisio Bertone** *Arzobispo emérito de Vercelli*  
 *Secretario*
-
-[](#top)

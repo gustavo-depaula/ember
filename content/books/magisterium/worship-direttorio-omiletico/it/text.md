@@ -1,15 +1,5 @@
 # Direttorio Omiletico
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGAZIONE PER IL CULTO DIVINO  
@@ -183,7 +173,7 @@ Non è un sermone su un tema astratto; in altri termini, la Messa non è un’oc
 10\. L’*Introduzione* al Lezionario amplia notevolmente questa breve descrizione:
 
 > L’omelia, con la quale nel corso dell’anno liturgico vengono esposti, in base al testo sacro, i misteri della fede e le norme della vita cristiana, come parte della liturgia della Parola è particolarmente raccomandata, (…) anzi in alcuni casi è espressamente prescritta. Tenuta, di norma, da colui che presiede, nella celebrazione della Messa l’omelia ha lo scopo di far sì che la proclamazione della parola di Dio diventi, insieme con la liturgia eucaristica, "quasi un annunzio delle mirabili opere di Dio nella storia della salvezza, ossia nel mistero di Cristo" (SC 35,2). Infatti, il mistero pasquale di Cristo, che viene annunciato nelle letture e nell’omelia, viene attualizzato per mezzo del Sacrificio della Messa. Sempre poi Cristo è presente e agisce nella predicazione della sua Chiesa.
->
+
 > Pertanto l’omelia, sia che spieghi la parola della sacra Scrittura appena proclamata, o un altro testo liturgico, deve guidare la comunità dei fedeli a partecipare attivamente all’Eucaristia, perché "esprimano nella vita ciò che hanno ricevuto mediante la fede" (SC 10). Con questa viva esposizione della parola di Dio che viene proclamata, anche le celebrazioni della Chiesa che si svolgono, possono ottenere una maggiore efficacia, a patto che l’omelia sia davvero frutto di meditazione, ben preparata, non troppo lunga né troppo breve, e che in essa si presti attenzione a tutti i presenti, compresi i fanciulli e la gente semplice (OLM 24).
 
 11\. È bene sottolineare alcuni aspetti fondamentali offerti da queste due descrizioni. In senso ampio, l’omelia è un discorso sui misteri della fede e i canoni della vita cristiana, sviluppato in maniera confacente alle particolari esigenze degli ascoltatori. È una descrizione concisa di molti generi di predicazione ed esortazione. La sua forma specifica è suggerita dalle parole "in base al testo sacro", riferite ai passi biblici *e* alle preghiere della celebrazione liturgica. Ciò non dovrebbe trascurarsi, per il fatto che le preghiere forniscono una valida ermeneutica all’omileta per interpretare i testi biblici. Ciò che distingue un’omelia da altre forme di insegnamento è il suo *contesto liturgico*. Questa comprensione diventa cruciale quando il quadro dell’omelia è la celebrazione eucaristica: quanto affermato dai documenti è essenziale per una corretta visione della funzione dell’omelia. La Liturgia della Parola e la Liturgia eucaristica proclamano insieme la meravigliosa opera di Dio della nostra salvezza in Cristo: « Il mistero pasquale di Cristo, che viene annunciato nelle letture e nell’omelia, viene attualizzato per mezzo del Sacrificio della Messa ». L’omelia della Messa « deve guidare la comunità dei fedeli a partecipare attivamente all’Eucarestia, perché "esprimano nella vita ciò che hanno ricevuto mediante fede" (SC 10) » (OLM 24).
@@ -208,11 +198,11 @@ Il Lezionario odierno è il risultato del desiderio espresso dal Concilio « aff
 17\. Il *[Catechismo della Chiesa Cattolica](/archive/ccc_it/ccc-it_index_it.html)* presenta i tre criteri interpretativi delle Scritture, enunciati dal Concilio, nei termini seguenti:
 
 > 1\. *Prestare debita attenzione* « *al contenuto e all’unità dell’intera Scrittura* ». Infatti, per quanto siano differenti i libri che la compongono, la Scrittura è unica in forza dell’unità del disegno di Dio, del quale Cristo Gesù è il centro e il cuore, dischiuso dalla Passione.
->
+
 > > Il cuore di Cristo designa la sacra Scrittura, che appunto rivela il cuore di Cristo. Questo cuore era chiuso prima della Passione, perché la Scrittura era oscura. Ma la Scrittura è stata aperta dopo la Passione, affinché coloro che ormai ne hanno l’intelligenza, considerino e comprendano come le profezie debbano essere interpretate (san Tommaso d’Aquino, *Expositio in Psalmos*, 21,11: CCC 112).
->
+
 > 2\. *Leggere la Scrittura nella* « *Tradizione vivente di tutta la Chiesa* »*.* Secondo un detto dei Padri, « la sacra Scrittura è scritta nel cuore della Chiesa prima che su strumenti materiali ». Infatti, la Chiesa porta nella sua Tradizione la memoria viva della Parola di Dio ed è lo Spirito Santo che le dona l’interpretazione di essa secondo il senso spirituale (CCC 113).
->
+
 > 3\. *Essere attenti all’analogia della fede*. Per « analogia della fede » intendiamo la coesione delle verità della fede tra loro e nella totalità del progetto della Rivelazione (CCC 114).
 
 Se è vero che questi criteri sono utili per l’interpretazione della Scrittura in qualsiasi ambito, lo sono particolarmente quando si tratta di preparare l’omelia per la Messa. Consideriamoli singolarmente in rapporto con l’omelia.
@@ -236,7 +226,7 @@ Se è vero che questi criteri sono utili per l’interpretazione della Scrittura
 23\. Il *[Catechismo della Chiesa Cattolica](/archive/ccc_it/ccc-it_index_it.html)* è un’inestimabile risorsa per l’omileta che utilizzi i tre criteri interpretativi in parola. Offre un apprezzabile esempio di « unità dell’intera Scrittura », della « Tradizione vivente di tutta la Chiesa » e della « analogia della fede ». Il che diventa particolarmente chiaro quando ci si rende conto della relazione dinamica tra le quattro parti compositive il *Catechismo*, corrispondenti a ciò che crediamo, come celebriamo il culto, come viviamo e come preghiamo. Si tratta di quattro ambiti correlati di un’unica sinfonia. San Giovanni Paolo II segnalò questa organica relazione nella Costituzione apostolica *[Fidei depositum](/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum.html)*:
 
 > La Liturgia è essa stessa preghiera; la confessione della fede trova il suo giusto posto nella celebrazione del culto. La grazia, frutto dei sacramenti, è la condizione insostituibile dell’agire cristiano, così come la partecipazione alla Liturgia della Chiesa richiede la fede. Se la fede non si sviluppa nelle opere, è morta (cf *Gc* 2, 14-16) e non può dare frutti di vita eterna.
->
+
 > Leggendo il « Catechismo della Chiesa Cattolica », si può cogliere la meravigliosa unità del mistero di Dio, del suo disegno di salvezza, come pure la centralità di Gesù Cristo, l’Unigenito Figlio di Dio, mandato dal Padre, fatto uomo nel seno della Santissima Vergine Maria per opera dello Spirito Santo, per essere il nostro Salvatore. Morto e risorto, Egli è sempre presente nella sua Chiesa, particolarmente nei sacramenti; Egli è la sorgente della fede, il modello dell’agire cristiano e il Maestro della nostra preghiera (3).
 
 I riferimenti a margine che collegano tra loro le quattro parti del *Catechismo* sono di aiuto all’omileta che, prestando attenzione all’analogia della fede, cerca di interpretare la Parola di Dio nella viva Tradizione della Chiesa e alla luce dell’unità di tutta la Scrittura. Analogamente, l’*Indice dei riferimenti* del *Catechismo* mostra quanto trabocchi di parola biblica l’intero insegnamento della Chiesa. Potrebbe essere correttamente utilizzato dagli omileti per evidenziare come particolari testi biblici, impiegati nelle omelie, siano usati in altri contesti per spiegare gli insegnamenti dogmatici e morali. L’Appendice I di questo *Direttorio* offre all’omileta un contributo per l’utilizzo del *Catechismo*.
@@ -282,8 +272,6 @@ Considerato in ambito liturgico, il quarto passo, la contemplazione, può essere
 36\. Il Papa Benedetto XVI ha aggiunto un’appendice ai tradizionali quattro stadi della *lectio divina*: « È bene poi ricordare che la *lectio divina* non si conclude nella sua dinamica fino a quando non arriva all’azione (*actio*), che muove l’esistenza credente a farsi dono per gli altri nella carità » (VD 87). Il che, nel contesto liturgico, evoca l’ « ite *missa* est », ossia la missione del popolo di Dio ammaestrato dalla Parola e nutrito dalla partecipazione al mistero pasquale grazie all’Eucarestia. È significativo che l’Esortazione *[Verbum Domini](/content/benedict-xvi/it/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html)* si concluda con una lunga considerazione sulla Parola di Dio nel mondo; la predicazione, combinata con il nutrimento spirituale dei sacramenti ricevuti con fede, apre i membri dell’assemblea liturgica a concrete espressioni di carità. Citando l’insegnamento del Papa Giovanni Paolo II, secondo cui « la comunione e la missione sono profondamente congiunte » (Esortazione apostolica *[Christifides laici](/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)* 32), Papa Francesco esorta tutti i credenti:
 
 > Fedele al modello del Maestro, è vitale che oggi la Chiesa esca ad annunciare il Vangelo a tutti, in tutti i luoghi, in tutte le occasioni, senza indugio, senza repulsioni e senza paura. La gioia del Vangelo è per tutto il popolo, non può escludere nessuno (EG 23).
->
->  
 
 **Parte Seconda**
 
@@ -410,8 +398,6 @@ D. La Domenica delle Palme e della Passione del Signore
 79\. Vi è pertanto un duplice significato di *Avvento* – un duplice significato della *venuta* del Signore. Questo tempo ci prepara alla sua venuta nella grazia della festa del Natale e al suo ritorno per il giudizio alla fine dei tempi. I testi biblici dovrebbero essere spiegati tenendo bene a mente questo duplice significato. A seconda del testo, può essere posta in primo piano l’una o l’altra venuta, anche se, di fatto, spesso lo stesso brano presenta parole ed immagini per considerare entrambe. C’è poi un’altra venuta: ascoltiamo queste letture nell’assemblea eucaristica, dove Cristo è davvero presente. All’inizio del tempo di Avvento, la Chiesa richiama alla mente l’insegnamento di san Bernardo, ossia che tra le due venute visibili di Cristo, nella storia e alla fine dei tempi, vi è un’invisibile venuta qui e ora (cf. Ufficio delle Letture, mercoledì, I settimana di Avvento); come fa proprie le parole di san Carlo Borromeo:
 
 > Questo mistero (…) ci insegna che la venuta del Signore non fu solamente per quelli, che avanti o che allora si trovarono nel mondo quando egli venne, ma la virtù d’essa resta sempre per beneficio di tutti noi ancora, se per mezzo della santa fede e dei divini sacramenti vorremo ricevere la grazia che ci ha portata, e secondo quella ordinare la vita nostra sotto la sua obbedienza (Ufficio delle letture, lunedì, I settimana di Avvento).
->
->  
 
 A. La I Domenica di Avvento
 
@@ -566,7 +552,7 @@ Fedele al mandato del Concilio Vaticano II, che ha indicato come « l’ordiname
 141\. Dopo aver rimarcato che la II domenica del Tempo Ordinario continua il tema della manifestazione del Signore, celebrata con l’Epifania e la Festa del Battesimo del Signore, i *Praenotanda* proseguono:
 
 > Dalla III domenica incomincia la lettura semicontinua dei Vangeli sinottici; questa lettura segue il successivo svolgersi della vita e della predicazione del Signore, secondo l’orientamento dottrinale proprio di ogni Vangelo.
->
+
 > Con una distribuzione così concepita si ottiene anche una certa armonia tra l’impostazione di ciascun Vangelo e lo svolgimento dell’anno liturgico. Infatti, dopo l’Epifania si leggono gli inizi della predicazione del Signore, che si collegano assai bene con il Battesimo e con le prime manifestazioni di Cristo. Al termine poi dell’anno liturgico si sfocia con naturalezza nel tema escatologico, caratteristico delle ultime domeniche; il tema escatologico affiora, infatti, in modo più o meno accentuato, nei capitoli dei Vangeli che precedono la narrazione della Passione (OLM 105).
 
 Esiste pertanto uno schema comune seguito dai tre cicli: le prime settimane affrontano l’inizio della missione pubblica di Cristo, quelle finali hanno un tema escatologico, e le settimane che intercorrono presentano di seguito vari eventi e insegnamenti dalla vita di nostro Signore.
@@ -582,7 +568,7 @@ Esiste pertanto uno schema comune seguito dai tre cicli: le prime settimane affr
 146\. Riguardo alle letture dell’Antico Testamento nel Tempo Ordinario, così si esprimono i *Praenotanda*:
 
 > Queste letture sono scelte in riferimento alle rispettive pericopi del Vangelo, per evitare troppe diversità tra le letture delle singole Messe, e specialmente per dimostrare l’unità dei due Testamenti. La relazione tra le letture di una medesima Messa viene illustrata dalla scelta accurata dei titoli che sono preposti alle singole letture.
->
+
 > Si è fatto il possibile perché le letture così scelte fossero brevi e facili. Ma si è anche cercato che fossero assegnati alle domeniche molti testi assai importanti dell’Antico Testamento. È vero che questi testi dell’Antico Testamento sono inseriti nel Lezionario senza un ordine logico, per poterli riferire al brano del Vangelo; tuttavia il tesoro della parola di Dio verrà aperto in così larga misura, che i partecipanti alla Messa domenicale potranno conoscere quasi tutte le pagine più importanti dell’Antico Testamento (OLM 106).
 
 Gli esempi forniti da questo *Direttorio*, relativamente al tempo di Avvento/Natale e Quaresima/Pasqua, indicano percorsi che l’omileta può seguire per collegare le letture del Nuovo e dell’Antico Testamento, mostrando come esse convergano sulla persona e sulla missione di Gesù Cristo. Non si deve inoltre trascurare il Salmo responsoriale, anch’esso scelto in armonia con il Vangelo e con la lettura dell’Antico Testamento. L’omileta non può pretendere che il popolo riconosca automaticamente questi nessi che dovranno, invece, essere indicati nell’omelia. I *Praenotanda* attirano l’attenzione anche sui titoli scelti per le singole letture, spiegando che sono stati scelti con cura sia per indicare il tema principale della lettura, sia anche, quando necessario, per porre in rilievo il nesso fra le varie letture di una data Messa (cf. OLM 123).
@@ -590,9 +576,9 @@ Gli esempi forniti da questo *Direttorio*, relativamente al tempo di Avvento/Nat
 147\. Infine, vi sono le letture nel Tempo Ordinario tratte dagli Apostoli:
 
 > Per l’epistola viene proposta la lettura semicontinua delle lettere di Paolo e di Giacomo (quelle di Pietro e di Giovanni si leggono nel Tempo pasquale e nel Tempo natalizio).
->
+
 > La prima lettera ai Corinzi, data la sua lunghezza e la diversità degli argomenti trattati, è stata distribuita in tutti e tre gli anni, all’inizio del Tempo Ordinario. Così pure è sembrato opportuno dividere la lettera agli Ebrei in due parti: una per l’anno B e l’altra per l’anno C.
->
+
 > Si noti che sono state scelte soltanto letture piuttosto brevi, e non troppo difficili per la comprensione dei fedeli (OLM 107).
 
 In aggiunta a quanto detto dai *Praenotanda,* sono opportune ulteriori due osservazioni circa la disposizione dei testi tratti dagli Apostoli. Innanzitutto, nelle settimane conclusive dell’anno liturgico ascoltiamo la Prima e la Seconda Lettera ai Tessalonicesi, dove vengono trattati temi escatologici che ben si accordano con le altre letture e i testi liturgici di queste Domeniche. In secondo luogo, l’autorevole lettera di Paolo ai Romani costituisce una parte importantissima del Ciclo A dalla 9^(a) alla 25^(a) Domenica. Data la sua importanza, nonché lo spazio dedicatole dal Lezionario, l’omileta può riservarle una speciale attenzione in queste Domeniche del Tempo Ordinario.
@@ -612,7 +598,7 @@ A. Messa feriale
 152\. Gli stessi *Praenotanda* dedicano alle letture del Tempo Ordinario un punto al quale l’omileta deve prestare attenzione quando prepara le liturgie feriali:
 
 > Nella disposizione delle letture per le ferie sono proposti dei testi per i singoli giorni di ogni settimana nel corso dell’intero anno: di solito si dovranno quindi usare queste letture nei giorni loro assegnati, a meno che non ricorra una solennità o una festa o una memoria con letture proprie.
->
+
 > Nell’uso del Lezionario feriale può capitare che, a causa di una celebrazione ricorrente nel corso della settimana, si debba omettere questa o quella lettura di un medesimo libro. In questo caso il sacerdote deve prevedere, tenuto presente la disposizione delle letture di tutta la settimana, o l’omissione di alcune parti di secondaria importanza, o un’opportuna fusione delle varie parti di una sola, specialmente se ne risultasse facilitata la comprensione dell’argomento nel suo insieme (OLM 82).
 
 Di conseguenza, l’omileta è incoraggiato a visionare le letture dell’intera settimana e ad apportare adattamenti alla loro sequenza quando questa viene interrotta da una celebrazione particolare. L’omelia feriale, benché breve, va preparata in anticipo e con grande cura. L’esperienza insegna che un’omelia breve spesso richiede una maggiore preparazione.
@@ -620,8 +606,6 @@ Di conseguenza, l’omileta è incoraggiato a visionare le letture dell’intera
 153\. Quando il Lezionario prevede letture proprie per la celebrazione di un Santo, bisogna usarle. Le letture possono, inoltre, essere scelte dal Comune se ci sono ragioni di dare maggiore risalto alla celebrazione di un Santo. Nei *Praenotanda* dell’*Ordo Lectionum Missae* tuttavia si avverte:
 
 > Il sacerdote che celebra con la partecipazione del popolo deve anzitutto preoccuparsi del bene spirituale dei fedeli, evitando di imporre loro i propri gusti. Soprattutto cerchi di non omettere troppo spesso e senza motivo sufficiente le letture assegnate per i singoli giorni dal Lezionario feriale: la Chiesa, infatti, desidera che venga offerta ai fedeli una mensa più abbondante della parola di Dio (OLM 83).
->
->  
 
 B. Matrimonio
 
@@ -1072,8 +1056,6 @@ Solennità di Nostro Signore Gesù Cristo Re dell’universo
 > CCC 440, 446-451, 668-672, 783, 786, 908, 2105, 2628: Cristo, Signore e Re  
 > CCC 678-679, 1001, 1038-1041: Cristo, il giudice  
 > CCC 2816-2821: « Venga il tuo regno »
->
->  
 
 **CICLO B**
 
@@ -1494,8 +1476,6 @@ Solennità di Nostro Signore Gesù Cristo Re dell’universo
 > CCC 440, 446-451, 668-672, 783, 786, 908, 2105, 2628: Cristo, Signore e Re  
 > CCC 678-679, 1001, 1038-1041: Cristo giudice  
 > CCC 2816-2821: « venga il tuo regno »
->
->  
 
 **CICLO C**
 
@@ -1945,8 +1925,6 @@ Solennità di Nostro Signore Gesù Cristo Re dell’universo
 > CCC 440, 446-451, 668-672, 783, 786, 908, 2105, 2628: Cristo, Signore e Re  
 > CCC 678-679, 1001, 1038-1041: Cristo giudice  
 > CCC 2816-2821: « venga il tuo regno »
->
->  
 
 **ALTRI GIORNI FESTIVI**
 
@@ -1975,8 +1953,6 @@ Solennità di Nostro Signore Gesù Cristo Re dell’universo
 8 Dicembre: Solennità dell’Immacolata Concezione della Beata Vergine Maria
 
 > CCC 411, 489-493, 722, 2001, 2853: l’Immacolata Concezione
->
->  
 
 **Appendice II**
 
@@ -2017,8 +1993,6 @@ Francesco
 
 Libri liturgici
 
-> 
->
 > Ordinamento generale del Messale Romano: 29, 57, 65-66 *Lezionario, Introduzione*: 4-31, 38-48, 58-110 *Rito delle Esequie, Premesse generali*: 18 *Rito del Matrimonio*: 64
 
 Codice di Diritto Canonico

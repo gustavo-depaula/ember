@@ -1,16 +1,10 @@
 # MEGFONTOLÁSOK az azonos nemű személyek együttéléseinek törvényes elismertetésére irányuló törekvésekről
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Hittani Kongregáció**
 
 **MEGFONTOLÁSOK**
 
 **az azonos nemű személyek együttéléseinek törvényes elismertetésére irányuló törekvésekről**
-
-** **
 
 BEVEZETÉS
 
@@ -116,5 +110,3 @@ Jegyzetek:
 [\[18\]](#JB18) II. János Pál pápa: *Evangelium vitae* enciklika, 73. p. 1995. márc. 25.  
 
 \[www.katolikus.hu\]
-
-[](#top)

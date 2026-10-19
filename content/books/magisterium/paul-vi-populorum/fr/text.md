@@ -68,8 +68,6 @@ PREMIÈRE PARTIE
 *Eglise et monde*  
 13. Mais désormais, les initiatives locales et individuelles ne suffisent plus. La situation présente du monde exige une action d'ensemble à partir d'une claire vision de tous les aspects économiques, sociaux, culturels et spirituels. Experte en humanité, l'Eglise, sans prétendre aucunement s'immiscer dans la politique des Etats, "ne vise qu'un seul but: continuer, sons l'impulsion de l'Esprit consolateur l'œuvre même du Christ venu dans le monde pour rendre témoignage à la vérité, pour sauver, non pour condamner, pour servir, non pour être servi" (12). Fondée pour instaurer dès ici-bas le royaume des cieux et non pour conquérir un pouvoir terrestre, elle affirme clairement que les deux domaines sont distincts, comme sont souverains les deux pouvoirs ecclésiastique et civil, chacun dans son ordre (13). Mais, vivant dans l'histoire, elle doit "scruter les signes des temps et les interpréter à la lumière de l'évangile" (14). Communiant aux meilleures aspirations des hommes et souffrant de les voir insatisfaites, elle désire les aider à atteindre leur plein épanouissement, et c'est pourquoi elle leur propose ce qu'elle possède en propre: une vision globale de l'homme et de l'humanité.
 
-** **
-
 *Vision chrétienne du développement*
 
 14\. Le développement ne se réduit pas à la simple croissance économique. Pour être authentique, il doit être intégral, c'est-à-dire promouvoir tout homme et tout l'homme. Comme l'a fort justement souligné un éminent expert: "Nous n'acceptons pas de séparer l'économique de l'humain, le développement des civilisations où il s'inscrit. Ce qui compte pour nous, c'est l'homme, chaque homme, chaque groupement d'hommes, jusqu'à l'humanité tout entière" (15).
@@ -317,8 +315,6 @@ LE DÉVELOPPEMENT EST LE NOUVEAU NOM DE LA PAIX
 
 **APPEL FINAL**
 
-** **
-
 *Catholiques*
 
 81. Nous adjurons d'abord tous nos fils. Dans les pays en voie de développement non moins qu'ailleurs, les laïcs doivent assumer comme leur tâche propre le renouvellement de l'ordre temporel. Si le rô1e de la hiérarchie est d'enseigner et d'interpréter authentiquement les principes moraux à suivre en ce domaine, il leur appartient, par leurs libres initiatives et sans attendre passivement consignes et directives, de pénétrer d'esprit chrétien la mentalité et les mœurs, les lois et les structures de leur communauté de vie (68). Des changements sont nécessaires, des réformes profondes, indispensables : ils doivent s'employer résolument à leur insuffler l'esprit évangélique. A nos fils catholiques appartenant aux pays plus favorisés, Nous demandons d'apporter leur compétence et leur active participation aux organisations officielles ou privées, civiles ou religieuses, appliquées à vaincre les difficultés des nations en voie de développement. Ils auront, bien sûr à cœur d'être au premier rang de ceux qui travaillent à établir dans les faits une morale internationale de justice et d'équité.  
@@ -349,13 +345,9 @@ LE DÉVELOPPEMENT EST LE NOUVEAU NOM DE LA PAIX
 
 *Du Vatican, en la fête de Pâques 26 mars 1967.*
 
-** **
-
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
 **NOTES**
-
-** **
 
 \(1\) Cf. Acta Leonis XIII, t. XI (1892), p. 97-148.
 

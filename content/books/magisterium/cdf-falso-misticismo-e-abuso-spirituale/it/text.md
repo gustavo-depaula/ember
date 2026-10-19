@@ -1,20 +1,8 @@
 # Foglio per l'Udienza: "Falso misticismo e abuso spirituale"
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **DICASTERIUM PRO DOCTRINA FIDEI**
-
-** **
 
 **FOGLIO PER L’UDIENZA**
 
@@ -38,8 +26,6 @@ Víctor Manuel Card. Fernández *Prefetto*
 
 *Ex Audientia Die* 22.11.2024  
 Franciscus
-
-* *
 
 *Il Prefetto del Dicastero per i Testi Legislativi ha accettato la proposta e procede alla costituzione del Gruppo di lavoro previsto, composto da membri indicati da entrambi i Dicasteri, per adempiere quanto prima al compito affidatogli.*
 

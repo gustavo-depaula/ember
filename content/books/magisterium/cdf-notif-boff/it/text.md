@@ -1,9 +1,5 @@
 # Notificazione sul volume «Chiesa: Carisma e potere. Saggio di Ecclesiologia militante» del P. Leonardo Boff, O.F.M., 11 marzo 1985 - Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE 
 
 **NOTIFICATIO DE SCRIPTO P. LEONARDI BOFF, OFM, « CHIESA: CARISMA E POTERE »** \*
@@ -75,5 +71,3 @@ Nel rendere pubblico quanto sopra la Congregazione si sente altresì obbligata a
 **+ Alberto Bovone, Arcivescovo tit. di Cesarea di Numidia,** * Segretario*
 
 \* *AAS* 77 (1985), 756-762.
-
-[](#top)

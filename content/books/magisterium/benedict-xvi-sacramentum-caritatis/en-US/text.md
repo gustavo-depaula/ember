@@ -49,7 +49,7 @@ The Church's eucharistic faith \[6\]
 **[The Eucharist and the Sacraments](#The_Eucharist_and_the_Sacraments)**
 
 > The sacramentality of the Church \[16\]
->
+
 > > I. The Eucharist and Christian initiation  
 > > The Eucharist, the fullness of Christian initiation \[17\]  
 > > The order of the sacraments of initiation \[18\]  

@@ -1,9 +1,5 @@
 # Convegno dei catechisti e dei docenti di religione, promosso dalla Congregazione per il Clero
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **GIUBILEO DEI CATECHISTI E DEI DOCENTI DI RELIGIONE**
 
 ***INTERVENTO DEL CARDINALE JOSEPH RATZINGER  DURANTE IL CONVEGNO DEI CATECHISTI  E DEI DOCENTI DI RELIGIONE***
@@ -76,5 +72,3 @@ Questa predicazione è perciò anche annuncio del giudizio, annuncio della nostr
 Questo è il vero contenuto dell'articolo sul giudizio, su Dio giudice:  C'è giustizia. Le ingiustizie del mondo non sono l'ultima parola della storia. C'è giustizia. Solo chi non vuole, che sia giustizia, può opporsi a questa verità. Se prendiamo sul serio il giudizio e la serietà della responsabilità che per noi ne scaturisce, comprendiamo bene l'altro aspetto di questo annuncio, cioè la redenzione, il fatto che Gesù nella croce assume i nostri peccati; che Dio stesso nella passione del Figlio si fa avvocato di noi peccatori, e rende così possibile la penitenza, la speranza al peccatore pentito, speranza espressa in modo meraviglioso nella parola di s. Giovanni:  Davanti a Dio, rassicureremo il nostro cuore, qualunque cosa esso ci rimproveri. "Dio è più grande del nostro cuore e conosce tutto" (*1 Giov* 3, 19s). La bontà di Dio è infinita, ma non dobbiamo ridurre questa bontà ad una leziosa sdolcinatura senza verità. Solo credendo al giusto giudizio di Dio, solo avendo fame e sete della giustizia (cfr *Mt* 5, 6) apriamo il nostro cuore, la nostra vita alla misericordia divina. Si vede:  Non è vero che la fede nella vita eterna rende insignificante la vita terrestre. Al contrario:  Solo se la misura della nostra vita è l'eternità, anche questa vita sulla nostra terra è grande e il suo valore immenso.
 
 Dio non è il concorrente della nostra vita, ma il garante della nostra grandezza. Così ritorniamo al nostro punto di partenza:  Dio. Se consideriamo bene il messaggio cristiano, non parliamo di un sacco di cose. Il messaggio cristiano è in realtà molto semplice. Parliamo di Dio e dell'uomo, e così diciamo tutto.
-
-[](#top)

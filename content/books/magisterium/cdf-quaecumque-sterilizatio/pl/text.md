@@ -1,13 +1,5 @@
 # ODPOWIEDŹ NA PYTANIA KONFERENCJI EPISKOPATU AMERYKI PÓŁNOCNEJ DOTYCZĄCE STERYLIZACJI W SZPITALACH KATOLICKICH
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Święta Kongregacja Nauki Wiary**
@@ -36,8 +28,6 @@ Rzym, w siedzibie Świętej Kongregacji Nauki Wiary, 13 marca 1975 r.
 
 **+ JÉRÔME HAMER** Abp tyt. Loreny  
 *Sekretarz*
-
-* *
 
 ------------------------------------------------------------------------
 

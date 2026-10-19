@@ -1,13 +1,5 @@
 # Vybrané otázky z christologie, 1979
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 MEZINÁRODNÍ TEOLOGICKÁ KOMISE
@@ -36,11 +28,7 @@ MEZINÁRODNÍ TEOLOGICKÁ KOMISE
 
 5\. [Rozměry christologie, které je třeba obnovit](#Rozměry_christologie,_které_je_třeba_obnovit)
 
-> 
->
 > 5.1. Pomazání Krista prostřednictvím Ducha svatého 5.2. Kristův primát nad kosmem14
->
->  
 
 **VYBRANÉ OTÁZKY Z CHRISTOLOGIE**
 

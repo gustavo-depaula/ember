@@ -1,15 +1,5 @@
 # Additiones in Libris liturgicis Ritus Romani de memoria ad libitum B. Mariae Virginis de Loreto
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Adnexus decreto diei 7 mensis Octobris 2019, Prot. N. 404/19 
@@ -45,21 +35,21 @@ IN ORDINEM LECTIONUM MISSÆ
 Dei 10 decembris
 
 > **689 bis**       **Beatæ Mariæ Virginis de Loreto                     ** De Communi beatæ Mariæ Virginis.
->
+
 > LECTIO I
->
+
 > **Is 7**,10-14; **8**,10, n. 707, 7.
->
+
 > PS. RESP.
->
+
 > **Lc 1,** 46-47. 48-49. 50-51. 52-53. 54-55, n. 709, 5.
->
+
 > ALLELUIA
->
+
 > Cf. **Lc 1**, 28, n. 711, 1.
->
+
 > EVANG.
->
+
 > **Lc 1,** 26-38, n. 712, 4.
 
 IN LITURGIAM HORARUM

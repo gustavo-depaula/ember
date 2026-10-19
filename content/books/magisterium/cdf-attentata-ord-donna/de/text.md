@@ -1,9 +1,5 @@
 # Allgemeines Dekret in Bezug auf die Straftat der versuchten Ordination einer Frau
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **ALLGEMEINES DEKRET *in Bezug auf die Straftat der versuchten Ordination einer Frau***
@@ -26,5 +22,3 @@ Titularerzbischof von Sila
 *Sekretär*
 
 *In Congr. pro Doctrina Fidei tab., n. 337/02*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Vorläufige Statuten der Internationalen Theologischen Kommission, 12. Juli 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **Internationale Theologische Kommission**
 
 **Vorläufige Statuten** (12. Juli 1969)\*
@@ -35,5 +31,3 @@ Unser Heiliger Vater, Papst Paul VI., hat in der Audienz, die dem unterzeichnend
 Franciscus Kardinal Šeper *Präfekt*
 
 \* *AAS* 61 (1969) 540-541
-
-[](#top)

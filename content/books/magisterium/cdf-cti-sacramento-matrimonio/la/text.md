@@ -1,13 +1,5 @@
 # De doctrina catholica sacramenti matrimonii - Commissio Theologica Internationalis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **COMMISSIO THEOLOGICA INTERNATIONALIS**
@@ -17,12 +9,8 @@
 **(1977)**
 
 > **A) [TEXTUS PROPOSITIONUM A COMMISSIONE THEOLOGICA INTERNATIONALI « IN FORMA SPECIFICA » APPROBATARUM](#A)%20TEXTUS%20PROPOSITIONUM%C2%A0A%20COMMISSIONE%20THEOLOGICA%20INTERNATIONALI%20«%20IN%20FORMA%20SPECIFICA%20»%20APPROBATARUM)**
->
+
 > **B) [« DECEM ET SEX THESES » PATRIS G. MARTELET, S.I., A COMMISSIONE THEOLOGICA INTERNATIONALI «IN FORMA GENERICA» APPROBATAE](#B)%20«%20DECEM%20ET%20SEX%20THESES%20»%20PATRIS%20G.%20MARTELET,%20S.I.,%C2%A0A%20COMMISSIONE%20THEOLOGICA%20INTERNATIONALI%20«IN%20FORMA%20GENERICA»%20APPROBATAE)**
-
-** **
-
-** **
 
 **A) TEXTUS PROPOSITIONUM A COMMISSIONE THEOLOGICA INTERNATIONALI « IN FORMA SPECIFICA » APPROBATARUM**
 

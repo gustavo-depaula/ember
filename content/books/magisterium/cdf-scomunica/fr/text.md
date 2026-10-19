@@ -1,9 +1,5 @@
 # Décret d’excommunication, 5 août 2002
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **PRÉAMBULE AU DÉCRET D’EXCOMMUNICATION**
@@ -23,5 +19,3 @@ Joseph Card. RATZINGER *Préfet*
 S. Exc. Mgr Tarcisio BERTONE, S.D.B. *Archevêque émérite de Vercelli Secrétaire*
 
 \* *L’Osservatore Romano*, édition en langue française, n. 34, 30 août 2002, p. 7.
-
-[](#top)

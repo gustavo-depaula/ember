@@ -1,9 +1,5 @@
 # KOMENTARZ
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY
 
 ***KOMENTARZ***
@@ -45,7 +41,5 @@ Stwierdzając, że podawanie pokarmu i wody jest *zasadniczo* moralnym obowiązk
 Tego typu wyjątkowe przypadki w niczym nie naruszają jednak ogólnej zasady etycznej, według której podawanie wody i pokarmu, także wtedy, gdy odbywa się w sposób sztuczny, pozostaje zawsze *środkiem zwyczajnym* podtrzymania życia, a nie *środkiem terapeutycznym*. Dlatego też należy traktować je jako *zwyczajne i proporcjonalne*, także wtedy, gdy „stan wegetatywny” się przedłuża.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Terminologia dotycząca różnych faz i form „stanu wegetatywnego” budzi kontrowersje, ale dla osądu moralnego nie ma to większego znaczenia.

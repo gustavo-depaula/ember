@@ -1,9 +1,5 @@
 # Norme Complementari alla Costituzione Apostolica Anglicanorum coetibus, 4 novembre 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 **Norme Complementari alla Costituzione Apostolica *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_it.html)***
@@ -152,7 +148,5 @@ Il Sommo Pontefice Benedetto XVI, nell’Udienza concessa al sottoscritto Cardin
 ** Luis. F. Ladaria, S.I.** *Arcivescovo tit. di Thibica Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Questo paragrafo è stato aggiunto al testo delle Norme Complementari a seguito di una decisione della Sessione Ordinaria del 29 maggio 2013, approvata da Papa Francesco in data 31 maggio 2013.

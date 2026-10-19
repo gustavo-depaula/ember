@@ -1,15 +1,5 @@
 # BỘ GIÁO LÝ ĐỨC TIN - THƯ GỬI CÁC GIÁM MỤC VỀ VIỆC ĐỔI MỚI SỐ 2267 TRONG SÁCH GIÁO LÝ GIÁO HỘI CÔNG GIÁO VỀ ÁN TỬ HÌNH
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 BỘ GIÁO LÝ ĐỨC TIN

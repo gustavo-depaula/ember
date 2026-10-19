@@ -29,9 +29,9 @@ Por tanto, dispongo:
 a\) delitos contra el sexto mandamiento del Decálogo que consistan en:
 
 > i\. obligar a alguien, con violencia o amenaza o mediante abuso de autoridad, a realizar o sufrir actos sexuales;
->
+
 > ii\. realizar actos sexuales con un menor o con una persona vulnerable;
->
+
 > iii\. producir, exhibir, poseer o distribuir, incluso por vía telemática, material pornográfico infantil, así como recluir o inducir a un menor o a una persona vulnerable a participar en exhibiciones pornográficas;
 
 b\) conductas llevadas a cabo por los sujetos a los que se refiere el artículo 6, que consisten en acciones u omisiones dirigidas a interferir o eludir investigaciones civiles o investigaciones canónicas, administrativas o penales, contra un clérigo o un religioso con respecto a delitos señalados en la letra a) de este parágrafo.

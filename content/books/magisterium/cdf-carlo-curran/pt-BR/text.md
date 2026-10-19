@@ -1,9 +1,5 @@
 # Carta ao Padre Charles Curran, 25 de julho de 1986
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 *CARTA AO PADRE CHARLES CURRAN**\**
@@ -41,5 +37,3 @@ dev.mo em Cristo.
 **Card. Joseph RATZINGER** * Prefeito*
 
 \* *L’Osservatore Romano*, Edição semanal, 31 de Agosto de 1986, Pág. 2 (408) = *AAS* 79 (1987), 116-118.
-
-[](#top)

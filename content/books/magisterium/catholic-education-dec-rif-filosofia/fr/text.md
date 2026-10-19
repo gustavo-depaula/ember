@@ -1,14 +1,8 @@
 # Décret de Réforme des études ecclésiastiques de Philosophie, Congrégation éducation catholique
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR L'ÉDUCATION CATHOLIQUE
 
 **Décret de Réforme des études ecclésiastiques de Philosophie**
-
-** **
 
 ***Préambule***
 
@@ -247,8 +241,6 @@ Datum Romæ, ex ædibus eiusdem Congregationis, in memoria sancti Thomæ Aquinat
 **Ioannes Ludovicus Brugues, O.P.** *a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Lettre encyclique *Fides et ratio* (14 septembre 1998), *AAS* 91 (1999), 5-88, n. 3. Dans cette lettre, Jean Paul II se centre sur la question de la vérité et sur son fondement en relation avec la foi ; il poursuit ainsi la réflexion entreprise dans la lettre encyclique *Veritatis splendor* du 6 août 1993 sur la vérité au plan moral ( *cf*. *Fides et ratio*, n. 6), laquelle embrasse aussi certaines vérités fondamentales relevant de la raison.
 

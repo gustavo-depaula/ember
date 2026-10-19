@@ -1,9 +1,5 @@
 # Eduquer ensemble dans l’école catholique. Mission partagée par les personnes consacrées et de fidèles laïcs
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR L’ÉDUCATION CATHOLIQUE  
 (pour les Séminaires et les Institutions d’Enseignement)
 
@@ -20,11 +16,11 @@ CONGRÉGATION POUR L’ÉDUCATION CATHOLIQUE
 **[II. UN PARCOURS DE FORMATION POUR ÉDUQUER ENSEMBLE](#II._Un_parcours_de_formation_pour_éduquer_ensemble_)**
 
 > **[La formation professionnelle](#La_formation_professionnelle) [La formation théologique et spirituelle](#La_formation_théologique_et_spirituelle)**
->
+
 > >  **[*La contribution des personnes consacrées à la formation partagée*](#La_contribution_des_personnes_consacrées_à_la_formation_partagée) *[La contribution des laïcs à la formation partagée](#La_contribution_des_laïcs_à_la_formation_partagée)* [](#La_contribution_des_laïcs_à_la_formation_partagée)**
->
+
 > **[La formation à l’esprit de communion pour éduquer](#La_formation_à_lesprit_de_communion_pour_éduquer)**
->
+
 > >  **[*Témoignage et culture de la communion*](#Témoignage_et_culture_de_la_communion) *[Communauté éducative et pastorale des vocations](#Communauté_éducative_et_pastorale_des_vocations)* [](#Communauté_éducative_et_pastorale_des_vocations)**
 
 **[III. LA COMMUNION POUR S’OUVRIR AUX AUTRES](#III._La_communion_pour_s’ouvrir_aux_autres_)**
@@ -194,8 +190,6 @@ De même, les personnes consacrées participent, comme « signe authentique du C
 **Mgr Angelo Vincenzo Zani** *Sous-Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Benoît XVI, [Discours d’ouverture du congrès ecclésial du diocèse de Rome sur famille et communauté chrétienne](/holy_father/benedict_xvi/speeches/2005/june/documents/hf_ben-xvi_spe_20050606_convegno-famiglia_fr.html) (6 juin 2005) : *AAS* 97 (2005), 816.
 

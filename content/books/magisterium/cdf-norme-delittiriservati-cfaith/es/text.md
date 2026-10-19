@@ -1,20 +1,8 @@
 # Normas sobre los delitos más graves reservados a la Congregación para la Doctrina de la Fe
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **NORMAS SOBRE LOS DELITOS MÁS GRAVES RESERVADOS A LA CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
-
-** **
 
 **Primera Parte**
 

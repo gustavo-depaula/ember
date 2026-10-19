@@ -1,9 +1,5 @@
 # LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O DUSZPASTERSTWIE OSÓB HOMOSEKSUALNYCH
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O DUSZPASTERSTWIE OSÓB HOMOSEKSUALNYCH**
@@ -115,5 +111,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 1 października 1986 r.
 **JOSEPH Kard. RATZINGER** *Prefekt*
 
 **+ ALBERTO BOVONE** *Abp tyt. Cezarei Numidyjskiej Sekretarz*
-
-[](#top)

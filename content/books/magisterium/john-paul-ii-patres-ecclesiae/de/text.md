@@ -150,10 +150,6 @@ Damit das geschehe, erbitten wir die mütterliche Hilfe der allerseligsten Jungf
 
 37, PG 31, 1013 b — 1016 c.
 
-*   *
-
-* *
-
 [^1]: \[\] Vgl. *Gal* 4, 19; Vinzenz von Lérins, *Commonitorium* I, 3; PL 50, 641.
 
 [^2]: \[\] Vgl. 1 *Kor* 4, 15.

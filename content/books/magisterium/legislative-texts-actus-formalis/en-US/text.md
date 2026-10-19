@@ -1,9 +1,5 @@
 # Actus formalis defectionis ab Ecclesia catholica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PONTIFICAL COUNCIL FOR LEGISLATIVE TEXTS**
 
 ***ACTUS FORMALIS DEFECTIONIS AB ECCLESIA CATHOLICA***
@@ -55,5 +51,3 @@ Faithfully yours in the Lord,
 ------------------------------------------------------------------------
 
 *This notification was approved by the Supreme Pontiff, Benedict XVI, who directed that it be transmitted to all Presidents of Episcopal Conferences.*
-
-[](#top)

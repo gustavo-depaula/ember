@@ -1,9 +1,5 @@
 # Dekret zur Feier der Bekehrung des heiligen Apostels Paulus im Jubiläumsjahr 2008
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 KONGREGATION FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG
 
 **Dekret**
@@ -23,5 +19,3 @@ Francis Kard. Arinze
 
 Albert Malcolm Ranjith  
 *Erzbischof Sekretär*
-
-[](#top)

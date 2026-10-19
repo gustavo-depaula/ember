@@ -1,9 +1,5 @@
 # Decreto con el que se erige el Ordinariato personal de la Cátedra de San Pedro, 1 enero 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN  PARA LA DOCTRINA DE LA FE
 
 **Decreto con el que se erige el Ordinariato personal de la Cátedra de San Pedro**[\[\*\]](#_edn*)
@@ -61,8 +57,6 @@ No obstante cualquier disposición contraria.
 **Notas**
 
 [\[\*\]](#_ednref*) *L'Osservatore Romano*. Edición en lengua española, 8 de enero de 2012, p. 11
-
-[](#top)
 
 [^1]: Cf. *AAS* 101 (2009) 985-990.
 

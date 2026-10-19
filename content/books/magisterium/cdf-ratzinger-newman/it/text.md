@@ -1,9 +1,5 @@
 # Discorso del Card. Ratzinger nel centenario della morte del Card. John H. Newman
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***DISCORSO DI SUA EMINENZA IL CARD. JOSEPH RATZINGER IN OCCASIONE DEL CENTENARIO DELLA MORTE DEL CARD. JOHN HENRY NEWMAN***
 
 *Roma, 28 aprile 1990*
@@ -25,5 +21,3 @@ Vorrei ancora una volta ritornare brevemente al filo autobiografico. Quando nel 
 Mi viene in mente qui la figura di sant'Agostino, così affine alla figura di Newman. Quando si convertì nel giardino presso Cassiciaco, Agostino aveva compreso la conversione ancora secondo lo schema del venerato maestro Plotino e dei filosofi neoplatonici. Pensava che la vita passata di peccato era adesso definitivamente superata; il convertito sarebbe stato d'ora in poi una persona completamente nuova e diversa, e il suo cammino successivo sarebbe consistito in una continua salita verso le altezze sempre più pure della vicinanza di Dio, qualcosa come ciò che ha descritto Gregorio di Nissa in *De vita Moysis:* "Proprio come i corpi, non appena hanno ricevuto il primo impulso verso il basso, anche senza ulteriori spinte, da se stessi sprofondano..., così ma in senso contrario, l'anima che si è liberata dalle passioni terrene, si eleva costantemente al di sopra di sé con un veloce movimento ascensionale... in un volo che punta sempre verso l'alto". Ma la reale esperienza di Agostino era un'altra: egli dovette imparare che essere cristiani significa piuttosto percorrere un cammino sempre più faticoso con tutti i suoi alti e bassi. L'immagine dell'ascensione venne sostituita con quella di un *iter,* un cammino, dalle cui faticose asperità ci consolano e sostengono i momenti di luce, che noi di tanto in tanto possiamo ricevere. La conversione è un cammino, una strada che dura tutta una vita. Per questo la fede è sempre *sviluppo,* e proprio così maturazione dell'anima verso la Verità, che "ci è più intima di quanta noi lo siamo a noi stessi".
 
 Newman ha esposto nell'idea dello sviluppo la propria esperienza personale d'una conversione mai conclusa, e così ci ha offerto l'interpretazione non solo del cammino della dottrina cristiana, ma anche della vita cristiana. Il segno caratteristico del grande dottore nella Chiesa mi sembra essere quello che egli non insegna solo con il suo pensiero e i suoi discorsi, ma anche con la sua vita, poiché in lui pensiero e vita si compenetrano e si determinano reciprocamente. Se ciò è vero, allora davvero Newman appartiene ai grandi dottori della Chiesa, perché egli nello stesso tempo tocca il nostro cuore e illumina il nostro pensiero.
-
-[](#top)

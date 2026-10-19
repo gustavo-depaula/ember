@@ -133,17 +133,11 @@ Inspired by the Divine Spirit, the Sacred Writers composed those books, which Go
 
 62\. And now, while ardently desiring for all sons of the Church, and especially for the professors in biblical science, for the young clergy and for preachers, that, continually meditating on the divine word, they may taste how good and sweet is the spirit of the Lord;\[48\] as a presage of heavenly gifts and a token of Our paternal goodwill, We impart to you one and all, Venerable Brethren and beloved sons, most lovingly in the Lord, the Apostolic Benediction.
 
-* *
-
 Given at Rome, at St. Peter's, on the 30th of September, the feast of St. Jerome, the greatest Doctor in the exposition of the Sacred Scriptures, in the year 1943, the fifth of Our Pontificate.  
 
 **PIUS XII**
 
-* *
-
 ------------------------------------------------------------------------
-
-* *
 
 1\. 2 Tim. 3:16-17.
 

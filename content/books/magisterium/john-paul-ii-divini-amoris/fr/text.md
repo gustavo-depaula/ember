@@ -6,8 +6,6 @@
 
 ***pour la proclamation de Sainte Thérèse de l'Enfant-Jésus et de la Sainte-Face Docteur de l'Église universelle***
 
-*** ***
-
 1\. LA SCIENCE DE L'AMOUR DIVIN que répand le Père de toute miséricorde, par Jésus Christ en l'Esprit Saint, est un don, accordé aux petits et aux humbles afin qu'ils connaissent et qu'ils proclament les secrets du Royaume cachés aux sages et aux savants; pour cela, Jésus a exulté dans l'Esprit Saint, bénissant le Père, qui en a ainsi disposé (cf. *Lc* 10,21-22; *Mt* 11,25-26).
 
 Mère, l'Église se réjouit aussi de voir que, dans le cours de l'histoire, le Seigneur continue à se révéler aux petits et aux humbles, rendant capables ceux qu'il a choisis, par l'Esprit qui "sonde tout, jusqu'aux profondeurs de Dieu" (*1 Co* 2,10), de parler des "dons gracieux que Dieu nous a faits \[...\], non pas avec des discours enseignés par l'humaine sagesse, mais avec ceux qu'enseigne l'Esprit, exprimant en termes spirituels des réalités spirituelles" (*1 Co* 2,12.13). L'Esprit Saint guide ainsi l'Église vers la vérité tout entière, la pourvoit de dons divers, l'embellit de ses fruits, la rajeunit par la force de l'Évangile et lui permet de scruter les signes des temps pour mieux répondre à la volonté de Dieu (cf. *Lumen gentium*, nn. 4.12; *Gaudium et spes*, n. 4).

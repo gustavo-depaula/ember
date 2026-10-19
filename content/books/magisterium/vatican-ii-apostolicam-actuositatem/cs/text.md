@@ -1,15 +1,5 @@
 # Apostolicam actuositatem
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Apostolicam actuositatem **
@@ -33,8 +23,6 @@ V tomto dekretu zamýšlí koncil objasnit povahu, ráz a rozmanitost apoštolá
 **KAPITOLA 1 **
 
 **POVOLÁNÍ LAIKŮ K APOŠTOLÁTU **
-
-**  **
 
 **ÚČAST LAIKŮ NA POSLÁNÍ CÍRKVE**
 
@@ -78,8 +66,6 @@ Dokonalým příkladem takového duchovního a apoštolského života je nejblah
 
 **CÍLE APOŠTOLÁTU LAIKŮ **
 
-**  **
-
 **ÚVOD**
 
 **5** Vykupitelské dílo Kristovo, i když samo o sobě má za cíl spásu lidí, zahrnuje v sobě i obnovení celého časného řádu. Proto je posláním církve nejen přinášet lidem Kristovo poselství a jeho milost, ale také pronikat a zdokonalovat duchem evangelia řád časných věcí. Laici tedy, kteří plní toto poslání církve, konají svůj apoštolát jak v církvi, tak ve světě, jak v řádu duchovním, tak i časném. Tyto dva, ač se od sebe liší, jsou v jediném Božím plánu spojeny tím, že sám Bůh zamýšlí znovu přijmout celý svět v Kristu jako nové stvoření, v zárodku zde na zemi a plně na konci dnů. V obou řádech se musí laik, protože je zároveň věřící i občan, stále řídit jediným křesťanským svědomím. 
@@ -121,8 +107,6 @@ Laici tedy mají vysoce hodnotit a podle svých možností podporovat díla lás
 **KAPITOLA 3 **
 
 **RŮZNÁ POLE APOŠTOLÁTU **
-
-**  **
 
 **ÚVOD **
 
@@ -181,8 +165,6 @@ Všichni, kteří pracují mezi cizími národy nebo jim poskytují pomoc, ať s
 **KAPITOLA 4 **
 
 **RŮZNÉ FORMY APOŠTOLÁTU LAIKŮ **
-
-**  **
 
 **ÚVOD** 
 
@@ -261,8 +243,6 @@ Pastýři církve ať tyto laiky přijímají rádi a vděčně; ať se starají
 
 **ŘÁD APOŠTOLÁTU LAIKŮ **
 
-**  **
-
 **ÚVOD **
 
 **23** Apoštolát laiků, ať ho vykonávají věřící jednotlivě nebo společně, musí být řádně začleněn do apoštolátu celé církve. Vždyť spojení s těmi, které Duch svatý určil, aby řídil Boží církev (srov. Sk 20,28), je dokonce podstatným prvkem křesťanského apoštolátu. Neméně nutná je spolupráce mezi různými aktivitami apoštolátu; hierarchie má dbát o jejich dobré celkové uspořádání. 
@@ -314,8 +294,6 @@ Takovou dynamickou a uvážlivou spoluprací, (10)((10/Srov. 2. vat. koncil, Dek
 **KAPITOLA 6 **
 
 **VÝCHOVA K APOŠTOLÁTU **
-
-**   **
 
 **NUTNOST VÝCHOVY K APOŠTOLÁTU** 
 

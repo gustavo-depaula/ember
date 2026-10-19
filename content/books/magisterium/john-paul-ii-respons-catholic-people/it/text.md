@@ -2,8 +2,6 @@
 
 ***LETTERA DI GIOVANNI PAOLO II  AI VESCOVI ITALIANI CIRCA LE RESPONSABILITÀ  DEI CATTOLICI DI FRONTE ALLE SFIDE  DELL'ATTUALE MOMENTO STORICO***
 
-***   ***
-
 *Carissimi Vescovi italiani!*
 
 1.«Grazia a voi e pace da Dio, Padre nostro, e dal Signore Gesù Cristo» (Rm 1, 7).
@@ -81,5 +79,3 @@ La Chiesa è una tale forza prima di tutto attraverso la preghiera, e l' unità 
 Carissimi Fratelli nell' Episcopato, rimetto nelle vostre mani, con profonda comunione e fiducia, questi pensieri e questi voti. Lo faccio unicamente per l' amore che provo per la nazione italiana, che fin dall' inizio del mio Pontificato mi ha dimostrato così grande benevolenza, tanto che sento di poter parlare dell' Italia come della mia seconda Patria. Su di essa invoco la materna intercessione di Maria, che ha generato per noi il Redentore, e la protezione dei santi Francesco e Caterina, mentre di cuore benedico voi e tutti gli italiani.
 
 *Dal Vaticano, 6 gennaio 1994, Solennità dell' Epifania del Signore.*
-
-* *

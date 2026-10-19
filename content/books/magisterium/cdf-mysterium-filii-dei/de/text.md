@@ -1,13 +1,5 @@
 # Erklärung zum Schutz des Glaubens an die Geheimnisse der Menschwerdung und der heiligsten Dreifaltigkeit gegenüber einigen Irrtümern der letzten Zeit
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Hl. Kongregation für die Glaubenslehre**

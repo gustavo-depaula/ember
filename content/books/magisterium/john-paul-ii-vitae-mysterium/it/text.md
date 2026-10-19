@@ -162,5 +162,3 @@ Questo Statuto è approvato per tre anni e «ad experimentum». Superato tale pe
 *Dal Vaticano, 11 Febbraio 1994.*
 
 **GIOVANNI PAOLO II**
-
-*** ***

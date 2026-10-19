@@ -2,8 +2,6 @@
 
 *** SCHREIBEN VON PAPST BENEDIKT XVI. AN DIE SEMINARISTEN***
 
-*** ***
-
 *Liebe Seminaristen!*
 
 Als ich im Dezember 1944 zum Soldatendienst eingezogen wurde, fragte der Kompaniechef jeden einzelnen von uns, welchen Beruf er für die Zukunft anstrebe. Ich antwortete, ich wolle katholischer Priester werden. Darauf der Leutnant: Da müssen Sie sich etwas anderes suchen. Im neuen Deutschland werden Priester nicht mehr gebraucht. Ich wußte, daß dieses „neue Deutschland“ bereits am Ende war und daß nach den ungeheuren Verwüstungen, die dieser Wahn über das Land gebracht hatte, erst recht wieder Priester nötig sein würden. Heute ist die Lage ganz anders. Aber in unterschiedlichen Weisen denken auch heute viele Leute, daß das katholische Priestertum kein Beruf für die Zukunft sei, sondern eher der Vergangenheit angehöre. Ihr, liebe Freunde, habt Euch entschieden, ins Priesterseminar einzutreten und habt Euch damit auf den Weg zum Dienst des Priesters in der katholischen Kirche gemacht, gegen solche Vorstellungen und Meinungen. Ihr habt gut daran getan. Denn die Menschen werden immer, auch in der Periode der technischen Beherrschung der Welt und der Globalisierung, Gott benötigen - den Gott, der sich uns gezeigt hat in Jesus Christus und der uns versammelt in der weltweiten Kirche, um mit ihm und durch ihn das rechte Leben zu erlernen und die Maßstäbe der wahren Menschlichkeit gegenwärtig und wirksam zu halten. Wo der Mensch Gott nicht mehr wahrnimmt, wird das Leben leer. Alles ist zu wenig. Er sucht dann seine Zuflucht im Rausch oder in der Gewalt, von der gerade die Jugend heute zunehmend bedroht wird. Gott lebt. Er hat jeden von uns geschaffen und kennt daher jeden. Er ist so groß, daß er Zeit hat für unsere Kleinigkeiten: „Alle Haare eures Hauptes sind gezählt.“ Gott lebt, und er braucht Menschen, die für ihn da sind und die ihn zu den anderen Menschen bringen. Ja, es hat Sinn, Priester zu werden: Die Welt braucht Priester, Hirten, heute, morgen und immer, so lange sie besteht.
@@ -29,5 +27,3 @@ Liebe Seminaristen! Mit diesen Zeilen wollte ich Euch zeigen, wie sehr ich mit E
 *Aus* *dem Vatikan, am 18. Oktober 2010, dem Fest des heiligen Evangelisten Lukas.*
 
 Im Herrn Euer **BENEDIKT PP XVI.**
-
-** **

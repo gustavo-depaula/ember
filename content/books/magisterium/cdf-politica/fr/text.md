@@ -1,9 +1,5 @@
 # Note doctrinale concernant certaines questions sur l’engagement et le comportement des catholiques dans la vie politique
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGRÉGATION POUR LA DOCTRINE DE LA FOI**
 
 ***NOTE DOCTRINALE* concernant certaines questions sur** **l’engagement et le comportement des catholiques dans la vie politique**
@@ -80,8 +76,6 @@ Rome, au siège de la Congrégation pour la Doctrine de la Foi, le 24 novembre 2
 ** TARCISIO BERTONE, S.D.B.** *Archevêque émérite de Vercelli Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: *Lettre à Diognète*, 5, 5. Cf. aussi *Catéchisme de l’Église catholique*, n. 2240.
 

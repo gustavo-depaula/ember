@@ -1,15 +1,5 @@
 # « Trinité Miséricorde ». Lettre à l’Évêque de Côme à propos de l’expérience spirituelle liée au sanctuaire de Maccio (Villa Guardia)
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI

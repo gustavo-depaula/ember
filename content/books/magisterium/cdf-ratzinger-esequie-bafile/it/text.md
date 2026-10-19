@@ -1,9 +1,5 @@
 # Esequie del Card. Corrado Bafile - Omelia del Card. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ESEQUIE DELLÂÂÂ’EM.MO CARD. CORRADO BAFILE
 
 ***OMELIA DEL CARD. JOSEPH RATZINGER DECANO DEL COLLEGIO CARDINALIZIO DURANTE LA CONCELEBRAZIONE EUCARISTICA PRESIEDUTA A NOME DEL SANTO PADRE GIOVANNI PAOLO II***
@@ -25,5 +21,3 @@ Un terzo episodio. Nel battesimo aveva ricevuto il nome di Corrado - un santo me
 Con queste mie brevi osservazioni volevo mettere in luce l'aspetto interiore della sua vita, ma non è da dimenticare il grande lavoro pubblico svolto dal Nunzio in Germania:  nel contesto della ristrutturazione politica ed ecclesiastica della Germania dopo la guerra ha stipulato niente di meno che un concordato ed undici accordi tra la Santa Sede ed i vari Länder della Repubblica federale di Germania. Uno dei politici, con i quali aveva lavorato, mi parlò con grandissimo rispetto della straordinaria competenza e della nobile umanità del Nunzio Bafile.
 
 Nel luglio 1975 Corrado Bafile fu chiamato da Papa Paolo VI a Roma e nel maggio 1976 creato Cardinale e nominato Prefetto della Congregazione delle Cause dei Santi. "Vado ad Patrem":  nei quasi 30 anni trascorsi dalla sua nomina a Cardinale si manifesta sempre più visibilmente questo intimo orientamento di tutto il suo cammino terreno. Il nostro compianto Cardinale ha conosciuto bene la risposta di Gesù alla domanda dell'apostolo Tommaso, quale sia la via e quale la meta del nostro cammino: "Io sono la via, la verità e la vita" (*Giov* 14, 6). Non ha conosciuto solo intellettualmente questa risposta, ma tutto il suo essere fu formato e penetrato da essa. La sua fu una vita in comunione con Gesù Cristo, il Figlio del Dio vivente. In questo momento sentiamo attuale anche questa altra parola del Signore: "... ora siete nella tristezza... ma vi rivedrò di nuovo e il vostro cuore si rallegrerà..." (Giov 16, 22). Il Cardinale Bafile ha vissuto tenendo fisso lo sguardo verso Gesù - fu in cammino verso il Padre, in cammino verso l'incontro definitivo col Signore risorto, in cammino verso la gioia che nessuno può togliere (*Giov* 16, 23). Amen.
-
-[](#top)

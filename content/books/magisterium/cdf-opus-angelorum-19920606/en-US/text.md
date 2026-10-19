@@ -1,9 +1,5 @@
 # Decree
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***Decree***\*
@@ -27,15 +23,15 @@ An examination of these writings confirmed the judgment on which the preceding d
 Therefore, the Congregation for the Doctrine of the Faith has considered it necessary again to publish these decisions, together with the following complementary norms.
 
 > I. The theories arising from the revelations alleged to have been received by Mrs. Gabriele Bitterlich about the world of the Angels, their personal names, their groupings and functions can neither be taught nor made use of in any way, explicitly or implicitly, in the organization and working structure (*Baugerüst*) of *Opus Angelorum*, as well as in worship, prayers, spiritual formation, public and private spirituality, in ministry and the apostolate. The same provision applies to any other institute or association recognized by the Church.
->
+
 > The use and dissemination of books or other writings containing the aforementioned theories, either inside or outside the Association, is forbidden.
->
+
 > II\. The various forms of consecration to the Angels (*Engelweihen*) practiced in *Opus Angelorum* are prohibited.
->
+
 > III\. In addition, the so-called remote administration of the sacraments (*Fernspendung*) is prohibited, as well as the insertion of prayers or rituals which directly or indirectly refer to these theories into the Eucharistic liturgy or the Liturgy of the Hours.
->
+
 > IV\. Exorcisms may be practised only according to the Church's norms and discipline in this regard, with the formulas she has approved.
->
+
 > V. A Delegate with special faculties, appointed by the Holy See, will verify and insist, in consultation with the Bishops, on the application of the norms laid down above. He will see to it that the relations between *Opus Angelorum* and the Order of Canons Regular of the Holy Cross are clarified and regularized.
 
 *The Sovereign Pontiff John Paul II, at the Audience granted the undersigned Cardinal Prefect, approved this Decree, adopted in the Ordinary Meeting of this Congregation, and ordered its publication.*
@@ -51,5 +47,3 @@ Rome, at the Congregation for the Doctrine of the Faith, the 6th of June 1992.
 \* *L’Osservatore Romano*, English Edition, N. 25, 24 June 1992, Page 12.
 
 ¹ Cf. Pope Benedict XIV, *Doctrina de Beatificatione Servorum Dei et de Canonizatione Beatorum*, Bk. IV, Part II, ch. 30, "De Angelis et eorum cultu", Venice, 1777.
-
-[](#top)

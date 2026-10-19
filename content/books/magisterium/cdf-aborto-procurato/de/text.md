@@ -1,12 +1,6 @@
 # Klarstellung zur vorsätzlichen Abtreibung, 11. Juli 2009
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Kongregation für die Glaubenslehre**
-
-*** ***
 
 ***Klarstellung zur vorsätzlichen Abtreibung\****
 
@@ -29,5 +23,3 @@ Was die Problematik bestimmter medizinischer Maßnahmen zur Bewahrung der Gesund
 Was die Verantwortung der im Gesundheitswesen Tätigen betrifft, so muss an die Worte von Papst [Johannes Paul II](/holy_father/john_paul_ii/index_ge.htm). erinnert werden: „Ihr Beruf macht sie zu Hütern und Dienern des menschlichen Lebens. In dem heutigen kulturellen und sozialen Umfeld, in dem die Wissenschaft und die ärztliche Kunst Gefahr laufen, die ihnen eigene ethische Dimension zu verlieren, können sie bisweilen stark versucht sein, zu Urhebern der Manipulation des Lebens oder gar zu Todesvollstreckern zu werden. Angesichts dieser Versuchung ist ihre Verantwortung heute enorm gewachsen und findet ihre tiefste Inspiration und stärkste Stütze gerade in der dem Ärzteberuf innewohnenden, unumgänglichen ethischen Dimension, wie schon der alte und immer noch aktuelle hippokratische Eid erkannte, demgemäß von jedem Arzt verlangt wird, sich zur absoluten Achtung vor dem menschlichen Leben und seiner Heiligkeit zu verpflichten“ (*[Evangelium vitae](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae_ge.html)*, 89).
 
 \* *L’Osservatore Romano*, 11. Juli 2009.
-
-[](#top)

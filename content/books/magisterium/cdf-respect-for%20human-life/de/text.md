@@ -1,9 +1,5 @@
 # Donum Vitae - Instruktion über die Achtung vor dem beginnenden menschlichen Leben und die Würde der Fortpflanzung
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE   
 GLAUBENSLEHRE
 
@@ -274,5 +270,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 22. Februar 1987, dem F
 59 Johannes Paul II., Apost. Schreiben *Familiaris consortio*, 14: AAS 74 (1982) 97.
 
 60 Erklärung *Dignitatis humanae*, 7.
-
-[](#top)

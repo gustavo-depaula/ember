@@ -1,9 +1,5 @@
 # Note on the Book by Fr. André Guindon, O.M.I.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***NOTE ON THE BOOK BY FR. ANDRÉ GUINDON, O.M.I. “THE SEXUAL CREATORS. AN ETHICAL PROPOSAL FOR CONCERNED CHRISTIANS”*** **(University Press of America,** **Lanham-New York-London 1986)**\*
@@ -105,5 +101,3 @@ The Congregation further requests that Father Guindon publicly confirm and expla
 The Congregation further requests that Father Guindon resolve in a public statement the contradiction pointed out in this Note between the statements made to his Superior General and the text of *The Sexual Creators*, developing thereby his thought in a more consistent way, resolving the incongruities within the text of *The Sexual Creators* (such as its selective and variable use of Tradition and Magisterium), and according the doctrine of the Magisterium its proper place and true authority.
 
 \* *OR* 31 gennaio 1992, 5-6.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Carta a los ordinarios del lugar para recordar las normas vigentes sobre los exorcismos, 24 septiembre 1985
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **CARTA A LOS ORDINARIOS DEL LUGAR PARA RECORDAR LAS NORMAS VIGENTES SOBRE LOS EXORCISMOS**
@@ -29,5 +25,3 @@ Aprovecho la oportunidad para expresar a Su Excelencia mis sentimientos de estim
 **Joseph Card. Ratzinger** *Prefecto*
 
 **Alberto Bovone** *Secretario*
-
-[](#top)

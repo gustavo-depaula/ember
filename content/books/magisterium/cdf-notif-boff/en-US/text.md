@@ -1,9 +1,5 @@
 # Notification on the book "Church: Charism and Power" by Father Leonardo Boff O.F.M.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Notification on the book “Church: Charism and Power” by Father Leonardo Boff O.F.M.***\*
@@ -75,5 +71,3 @@ Rome, from the Seat of the Congregation of the Doctrine of the Faith, March 11 1
 ------------------------------------------------------------------------
 
 \* *AAS* 77 (1985), 756-762.
-
-[](#top)

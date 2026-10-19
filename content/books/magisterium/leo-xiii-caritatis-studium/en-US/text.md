@@ -39,5 +39,3 @@ The ardent charity which renders Us solicitous of Our separated brethren, in now
 *Given at St. Peter's, Rome, the 25th day of July, in the year 1898, and the twenty-first of Our Pontificate.*
 
 **LEO XIII**
-
-*    *

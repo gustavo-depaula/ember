@@ -1,9 +1,5 @@
 # Nota sobre a expressão, «Igrejas irmãs», 30 de Junho de 2000
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 NOTA  
@@ -59,8 +55,6 @@ Por conseguinte, deve evitar-se como fonte de mal-entendidos e de confusão teol
 ------------------------------------------------------------------------
 
 **Notas**
-
-[](#top)
 
 [^1]: PAULO VI e ATENÁGORAS I, Declaração comum *Pénétrés de reconnaissance* (7-XII-1965), n. 3: *AAS* 58 (1966) 20. As excomunhões foram reciprocamente levantadas em 1965: «o Papa Paulo VI e o Patriarca Atenágoras I no seu Sínodo (...) declaram de comum acordo (...) que também deploram e cancelam da memória e do seio da Igreja as sentenças de excomunhão».  (ib., n. 4); cf. também PAULO VI, Carta Apost. *Ambulate in dilectione* (7-XII-1965): *AAS* 58 (1966) 40-41; ATENÁGORAS I, *Tomo* (7-XII-1965): *EV* 2, n. 500.
 

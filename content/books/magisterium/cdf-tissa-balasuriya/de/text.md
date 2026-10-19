@@ -1,9 +1,5 @@
 # Notifikation über das Werk «Mary and human liberation» von P. Tissa Balasuriya, OMI, 2. Januar 1997 - Kongregation für die Glaubenslehre
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **NOTIFIKATION ÜBER DAS WERK** »**MARY AND HUMAN LIBERATION**« **VON PATER TISSA BALASURIYA OMI** \*
@@ -80,5 +76,3 @@ Anlässlich der Veröffentlichung dieser *Notifikation* fühlt sich die Kongrega
 7\. Vgl. Concilium Vaticanum II, Const. dogm. *[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ge.html)*, Nr. 8-9.
 
 8\. Vgl. Concilium Vaticanum I, Const. dogm. *Pastor aeternus*, *DS* 3074; Concilium Vaticanum II, Const. dogm. [*Lumen gentium*](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html), Nr. 18.22.25.
-
-[](#top)

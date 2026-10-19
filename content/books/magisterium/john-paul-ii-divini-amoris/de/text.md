@@ -7,8 +7,6 @@ hl. Theresia vom Kinde Jesus
 und vom Heiligen Antlitz  
 zur Kirchenlehrerin
 
-** **
-
 1\. Die Wissenschaft der göttlichen Liebe, die der Vater des Erbarmens durch Jesus Christus im Heiligen Geist ausgießt, ist ein Geschenk, das den Kleinen und Demütigen gewährt wird, damit sie die Geheimnisse des Gottesreiches, die den Gelehrten und Weisen verborgen sind, erkennen und verkünden. Darum frohlockte Jesus im Heiligen Geist und pries den Vater, der es so verfügt hat (vgl. *Lk* 10,21–22; *Mt* 11,25–26).
 
 Auch die Mutter Kirche freut sich, da sie feststellt, wie der Herr sich im Lauf der Geschichte auch weiterhin den Kleinen und Demütigen offenbart und seine Auserwählten durch den Heiligen Geist, der »alles ergründet, auch die Tiefen Gottes« (*1 Kor* 2,10), fähig macht, von dem zu sprechen, »was uns von Gott geschenkt worden ist, . . . nicht mit Worten, wie menschliche Weisheit sie lehrt, sondern wie der Geist sie lehrt, indem wir den Geisterfüllten das Wirken des Geistes deuten« (*1 Kor* 2,12.13). Auf diese Weise führt der Heilige Geist die Kirche hin zur ganzen Wahrheit; er unterweist sie mit mannigfaltigen Gaben, zeichnet sie mit seinen Früchten aus, macht sie jugendlich mit der Kraft des Evangeliums und setzt sie instand, die Zeichen der Zeit zu erforschen, um immer besser dem Willen Gottes zu entsprechen (vgl. *Lumen Gentium*, 4.12; *Gaudium et spes*, 4).

@@ -1,7 +1,5 @@
 # Doctor Mellifluus
 
-*** ***
-
 ***DOCTOR MELLIFLUUS***
 
 ENCYCLICAL OF POPE PIUS XII  
@@ -87,17 +85,11 @@ The "Doctor Mellifluus," "the last of the Fathers, but certainly not inferior to
 
 Now as a pledge of these benefits We bestow with heartfelt affection upon you, Venerable Brothers, upon the flocks entrusted to you, and particularly on those who have embraced the Institute of St. Bernard, the Apostolic Blessing.
 
-* *
-
 Given at Rome, St. Peter's, on the 24th of May, on the feast of Pentecost, 1953, in the 15th year of our pontificate.
 
 **PIUS XII**
 
-* *
-
 ------------------------------------------------------------------------
-
-* *
 
 1\. Mabillon, *Bernardi Opera*, Praef, generalis, n. 23; Migne, P. L., CLXXXII, 26.
 

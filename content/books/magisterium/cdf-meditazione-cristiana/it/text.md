@@ -1,9 +1,5 @@
 # Lettera su alcuni aspetti della meditazione cristiana
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE** **
 
 ***LETTERA AI VESCOVI DELLA CHIESA CATTOLICA SU ALCUNI ASPETTI DELLA MEDITAZIONE CRISTIANA* \***
@@ -215,5 +211,3 @@ San Bonaventura fa notare come in ciascuna creatura Francesco percepiva il richi
 35\. Cfr. S. TERESA DI GESÙ, *Castillo Interior* VII, 4, 6.
 
 36\. S. AGOSTINO, *Enarrationes in Psalmos* CXLII, 6: *PL* 37, 1849. Si veda anche: *Tract. in Ioh*. IV, 9: *PL* 35, 1410: "Quando autem nec ad hoc dignum se dicit, vere plenus Spiritu Sancto erat, qui sic servus Dominum agnovit, et ex servo amicus fieri meruit".
-
-[](#top)

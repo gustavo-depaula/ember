@@ -1,9 +1,5 @@
 # Kommentar
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ####  KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 #### **KOMMENTAR**
@@ -45,7 +41,5 @@ Wenn die Kongregation für die Glaubenslehre bekräftigt, dass die Verabreichung
 Diese außergewöhnlichen Fälle beeinträchtigen jedoch in keiner Weise das allgemeine ethische Prinzip, gemäß dem die Verabreichung von Wasser und Nahrung, auch wenn sie auf künstlichen Wegen erfolgt, immer ein *natürliches Mittel* der Lebenserhaltung und nicht eine *therapeutische Behandlung* darstellt. Ihre Anwendung ist deshalb als *gewöhnlich* und *verhältnismäßig* zu betrachten, auch wenn der „vegetative Zustand“ andauert.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Die Terminologie im Zusammenhang mit den verschiedenen Phasen und Formen des “vegetativen Zustandes” wird kontrovers diskutiert. Dies ist jedoch für die moralische Bewertung nicht von Bedeutung.

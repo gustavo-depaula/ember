@@ -1,9 +1,5 @@
 # Kommentar zu den Antworten auf Fragen zu einigen Aspekten bezüglich der Lehre über die Kirche
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **KOMMENTAR zu den Antworten auf Fragen zu einigen Aspekten bezüglich der Lehre über die Kirche**
@@ -63,8 +59,6 @@ Das neue Dokument der Kongregation für die Glaubenslehre, das im Wesentlichen d
 Der katholische Ökumenismus mag auf den ersten Blick paradox erscheinen. Mit dem Ausdruck *subsistit in* wollte das Zweite Vatikanische Konzil zwei Lehraussagen miteinander verbinden: Auf der einen Seite besteht die Kirche Christi – trotz der Spaltungen der Christen – voll nur in der katholischen Kirche fort; auf der anderen Seite gibt es viele Elemente der Heiligung und der Wahrheit außerhalb ihres Gefüges, also in den Kirchen und kirchlichen Gemeinschaften, die noch nicht in voller Gemeinschaft mit ihr stehen. In diesem Zusammenhang hat das Dekret des Zweiten Vatikanischen Konzils über den Ökumenismus *[Unitatis redintegratio](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_ge.html)* den Ausdruck „Fülle“ (der Einheit/Katholizität) – *plenituto (unitatis/catholicitatis)* – eingeführt, eben um zu helfen, diese in gewissem Sinn paradoxe Situation besser zu verstehen. Auch wenn die katholische Kirche die Fülle der Heilsmittel besitzt, „sind die Spaltungen der Christen für die Kirche ein Hindernis, dass sie die ihr eigene Fülle der Katholizität in jenen Söhnen wirksam werden lässt, die ihr zwar durch die Taufe zugehören, aber von ihrer vollen Gemeinschaft getrennt sind“[^16]. Es geht also um die Fülle der katholischen Kirche, die schon gegenwärtig ist und die zunehmen muss in den Brüdern und Schwestern, die nicht in voller Gemeinschaft mit ihr stehen, aber auch in den eigenen Söhnen und Töchtern, die der Sünde ausgesetzt bleiben, bis das Volk Gottes „zur ganzen Fülle der ewigen Herrlichkeit im himmlischen Jerusalem freudig gelangt“[^17]. Das Voranschreiten in der Fülle ist in der Dynamik des Einsseins mit Christus grundgelegt: „Die Vereinigung mit Christus ist zugleich eine Vereinigung mit allen anderen, denen er sich schenkt. Ich kann Christus nicht allein für mich haben, ich kann ihm zugehören nur in der Gemeinschaft mit allen, die die Seinigen geworden sind oder werden sollen. Die Kommunion zieht mich aus mir heraus zu ihm hin und damit zugleich in die Einheit mit allen Christen“[^18].
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Paul VI., *Ansprache* vom 21. September 1964: *AAS* 56 (1964) 1012.
 

@@ -1,9 +1,5 @@
 # Letter Explains New Norms for Church Handling of Certain Grave Offenses
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 ***Letter Explains New Norms for Church Handling of Certain Grave Offenses*\***
@@ -19,19 +15,19 @@ The more grave delicts both in the celebration of the sacraments and against mor
 — *Delicts against the sanctity of the most august eucharistic sacrifice and the sacraments*, namely:
 
 > 1° Taking or retaining the consecrated species for a sacrilegious purpose or throwing them away.⁴
->
+
 > 2° Attempting the liturgical action of the eucharistic sacrifice or simulating the same.⁵
->
+
 > 3° Forbidden concelebration of the eucharistic sacrifice with ministers of ecclesial communities which do not have apostolic succession and do not recognize the sacramental dignity of priestly ordination.⁶
->
+
 > 4° Consecrating for a sacrilegious purpose one matter without the other in the eucharistic celebration or even both outside a eucharistic celebration.⁷
 
 — *Delicts against the sanctity of the sacrament of penance*, namely:
 
 > 1° Absolution of an accomplice in sin against the Sixth Commandment of the Decalogue.⁸
->
+
 > 2° Solicitation in the act, on the occasion or under the pretext of confession, to sin against the Sixth Commandment of the Decalogue, if it is directed to sin with the confessor himself.⁹
->
+
 > 3° Direct violation of the sacramental seal.¹⁰
 
 — *A delict against morals*, namely: the delict committed by a cleric against the Sixth Commandment of the Decalogue with a minor below the age of 18 years.
@@ -85,5 +81,3 @@ Through this letter, sent by mandate of the Supreme Pontiff to all the bishops o
 ¹¹ Cf. Latin Canon 1362.1.1; Eastern Canon 1152.2.1.
 
 ¹² Cf. Latin Canon 1362.2; Eastern Canon 1152.3.
-
-[](#top)

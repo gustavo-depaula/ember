@@ -1,16 +1,10 @@
 # Dekret zur Reform der kirchlichen Studien der Philosophie, KONGREGATION FÜR DAS KATHOLISCHE BILDUNGSWESEN
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DAS KATHOLISCHE BILDUNGSWESEN
 
 ***Dekret zur Reform der kirchlichen Studien der Philosophie***
 
 **Präambel**
-
-** **
 
 **I. Der aktuelle Kontext**
 
@@ -245,8 +239,6 @@ Datum Romæ, ex ædibus eiusdem Congregationis, in memoria sancti Thomæ Aquinat
 **Ioannes Ludovicus Brugues, O.P.** *a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Enzyklika *Fides et ratio* (14. September 1998), *AAS* 91 (1999), 5-88, Nr. 3. In dieser Enzyklika richtet Johannes Paul II. die Aufmerksamkeit auf dasselbe Thema der Wahrheit und ihrer Grundlagen im Verhältnis zum Glauben. Er führt damit die Überlegungen fort, die er in der Enzyklika *Veritatis splendor* (6. August 1993) über die Wahrheit auf dem Gebiet der Moral (vgl. *Fides et ratio*, Nr. 6) geäußert hatte, die auch einige fundamentale, rein rationale Wahrheiten umfasst.
 

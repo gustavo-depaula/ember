@@ -1,9 +1,5 @@
 # I cento anni della Pontificia Commissione Biblica - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 ***I CENTO ANNI DELLA PONTIFICIA COMMISSIONE BIBLICA***
 
 **(KLEMENS STOCK S.I.)**
@@ -69,8 +65,6 @@ Si prevede anche che “la medesima Commissione deve essere consultata prima che
 Con diverse velocità abbiamo percorso i 100 anni che sono passati dalla fondazione della PCB. Se in uno sguardo retrospettivo vogliamo caratterizzare il modo di agire dei due tipi di Commissione, possiamo dire: l’antica Commissione si occupava piuttosto di singoli problemi, attuali e molto circoscritti, parlava come organo del Magistero ecclesiastico e si pronunciava talvolta dopo lunghi tempi di interruzione. La nuova Commissione studia temi più ampi, anche essi strettamente collegati con la vita della Chiesa, funziona come organo consultivo e ha un ritmo piuttosto regolare di lavoro e di testi pubblicati. Il compito però rimane sempre quello determinato da [Leone XIII](/holy_father/leo_xiii/index_it.htm): promuovere gli studi biblici e salvaguardare la verità della fede cristiana (cfr n. 145), con lo scopo, espresso da [Paolo VI](/holy_father/paul_vi/index_it.htm), di aprire cioè sempre più ampiamente “ai fedeli le incommensurabili ricchezze della parola di Dio” (n. 722). Possiamo concludere con una parola di san Girolamo, patrono degli esegeti, che, circa il compito dell’esegeta, dice: “Vivere tra queste cose, queste meditare, non altro conoscere, non altro cercare, non vi pare che sia un’oasi di paradiso già qui in terra?” (n. 569).
 
 NOTE
-
-[](#top)
 
 [^1]: \[\] Nove mesi più tardi il Papa morì, dopo un pontificato durato 25 anni (20 gennaio 1878 - 20 luglio 1903).
 

@@ -1,9 +1,5 @@
 # Notificación sobre los escritos y las obras de la señora Vassula Rydén, 6 octubre 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **NOTIFICACIÓN SOBRE LOS ESCRITOS Y LAS OBRAS DE LA SRA. VASSULA RYDÉN**
@@ -27,5 +23,3 @@ Teniendo en cuenta que, a pesar de algunos aspectos positivos, el efecto de las 
 **Joseph Card. Ratzinger** *Prefecto*
 
 **Tarcisio Bertone, S.D.S.** *Arzobispo emérito de Vercelli Secretario*
-
-[](#top)

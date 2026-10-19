@@ -1,13 +1,5 @@
 # Jésus-Christ, Fils de Dieu, Sauveur. 1700e anniversaire du concile œcuménique de Nicée
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSION THEOLOGIQUE INTERNATIONALE
@@ -106,8 +98,6 @@ COMMISSION THEOLOGIQUE INTERNATIONALE
 **1700^(e) anniversaire du concile œcuménique de Nicée**
 
 **325-2025**
-
-** **
 
 **Note préliminaire**
 
@@ -355,7 +345,7 @@ Le Christ devait venir à notre ressemblance après les siècles.
 73\. Si Jésus fait voir le Père, tout en lui est accès au Père. Le Christ en son humanité fragile et vulnérable est l’expression véritable de Dieu le Père : « le voir, c’est voir le Père » (cf. Jn 14, 9)[^115]. Il en résulte que Dieu ne s’est pas d’abord caché au Golgotha sous l’impuissance du Crucifié pour se manifester ensuite, au matin de Pâques, enfin lui-même, enfin tout-puissant. Au contraire, l’amour de Jésus-Christ qui se laisse crucifier et qui, en souffrant la mort physique, descend jusqu’au lieu où le pécheur est prisonnier du péché (le *šəʾôl* ou les enfers), est la révélation de l’Amour du Dieu trinitaire qui n’opère pas par la force, mais qui est justement plus fort que la mort et le péché. C’est justement devant la croix que Marc fait dire à un centurion païen : « En vérité, c’était le Fils de Dieu » (Mc 15,39). Comme le pape Benoît XVI le déclarait dans son livre sur Jésus :
 
 > La croix est le vrai « sommet ». C’est le sommet de l’amour « jusqu’au bout » (Jn 13,1). Sur la croix, Jésus est « au sommet », à la même hauteur que Dieu qui est amour. C’est là qu’on peut le « connaître », qu’on peut comprendre le « Je suis ».
->
+
 > Le buisson ardent, c’est la croix. La plus haute prétention de révélation, le « Je suis » et la croix de Jésus sont indissociables[^116].
 
 74\. La connaissance de Dieu par le Christ n’offre pas un simple contenu doctrinal mais elle met en communion salvifique avec Dieu, car elle fait pour ainsi dire plonger dans le cœur même de la réalité, ou mieux, de la personne à connaître et aimer. Le prologue de l’évangile de Jean est une expression de la plus haute contemplation du mystère de Dieu qui nous a été manifesté en Jésus pour que nous entrions, dans la grâce de l’Esprit Saint répandu « sans mesure » (Jn 3,34), dans la vie même du Dieu trinitaire révélé par le Logos. La figure de ce Logos fait écho non seulement au Logos divin discerné par la pensée grecque, mais aussi, plus profondément encore, à l’héritage vétérotestamentaire de la Parole de Dieu, le *Dābār* témoigné par l’Ancien Testament. Car déjà la révélation faite à Israël et transmise dans l’Ancien Testament introduit à une connaissance de Dieu radicalement neuve qui inaugure cet événement de Révélation. Ce Logos, le Fils, « Dieu de Dieu », qui est depuis le commencement avec Dieu, comme sa Parole qui l’exprime en toute vérité, il est lui aussi Dieu comme le Père. Dans la plénitude des temps, le Logos « s’est fait chair et a dressé sa tente parmi nous » (Jn 1,14), de sorte que ceux qui l’accueillent reçoivent « le pouvoir (*exousia*) de devenir enfants de Dieu » (Jn 1,14). Admettant les êtres humains à la pleine communion avec lui, le Logos fait chair les a ainsi « rendus participants de la nature divine.[^117] »

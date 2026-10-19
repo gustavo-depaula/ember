@@ -1,13 +1,5 @@
 # Observations on the final report of ARCIC - ANIMADVERSIONES, 27 March 1982
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **SACRA CONGREGATIO PRO DOCTRINA FIDEI**
@@ -28,19 +20,19 @@ Animadversiones quas Sacra Congregatio pro Doctrina Fidei, de mandato SS.mi supe
 **[B) Doctrinal Difficulties](#B._Doctrinal_Difficulties_noted_by_the_SCDF)**
 
 > **I. *Eucharist***
->
+
 > > 1\) Eucharist as Sacrifice  
 > > 2) Real Presence  
 > > 3) Reservation and Adoration of the Eucharist
->
+
 > **II. *Ministry and Ordination***
->
+
 > > 1\) Ministerial Priesthood  
 > > 2) Sacramentality and Ordination  
 > > 3) Ordination of Women
->
+
 > **III. *Authority in the Church***
->
+
 > > 1\) Interpretation of the Petrine Texts of the New Testament  
 > > 2) The Primacy and Jurisdiction of the Bishop of Rome  
 > > 3) Infallibility and Indefectibility  
@@ -63,31 +55,31 @@ The Co-Chairmen of the Anglican Roman Catholic International Commission (ARCIC) 
 1\) The Congregation must first of all give full recognition to the positive aspects of the work accomplished by ARCIC in the course of twelve years of an ecumenical dialogue which is exemplary on several counts. Setting aside a sterile polemical mentality, the partners have engaged in a patient and exacting dialogue in order to overcome doctrinal difficulties which were frankly acknowledged, with a view to restoring full communion between the Catholic Church and the Anglican Communion. This work achieved in common is a singular event in the history of the relations between the two Communions, and is at the same time a notable effort towards reconciliation. Worthy of particular note are:
 
 > I\) the quality of the doctrinal rapprochement achieved, in a serious attempt at a converging interpretation of the values considered fundamental by both sides;
->
+
 > II\) the fact that ARCIC has been attentive to a certain number of observations which the SCDF had previously made about the Windsor, Canterbury, and Venice statements, and has made an effort to respond satisfactorily in two series of elucidations on Eucharistic Doctrine-Ministry and Ordination (1979) and on Authority in the Church (1981).
 
 2\) The Congregation is obliged nevertheless to point out some negative aspects with regard to the method followed by ARCIC:
 
 > I\) The first may be considered a minor point, although it is not without relevance for the document's readers: ARCIC has thought it unnecessary to revise the original statements; rather, it has left their adjustment to two series of elucidations. The result is a lack of harmony and homogeneity which could lead to different readings and to an unwarranted use of the Commission's texts.
->
+
 > The following aspects are more important, for even though they pertain to the method employed, they are not without doctrinal significance:
->
+
 > II\) The ambiguity of the phrase “substantial agreement”.
->
+
 > The English adjective could be taken to indicate nothing other than “real” or “genuine”. But its translation, at least into languages of Latin origin, as “substantiel”, “sostanziale” — above all with the connotation of the word in Catholic theology — leads one to read into it a fundamental agreement about points which are truly essential (and one will see below that the SCDF has justified reservations in this regard).
->
+
 > Another source of ambiguity lies in the following fact: a comparison of three texts (Elucidations, Salisbury \[1979\], nos. 2 and 9; Authority in the Church I, Venice \[1976\], no. 26) shows that the agreement spoken of as “substantial”, while considered by ARCIC to be very extensive, is not yet complete. This does not permit one to know whether, in the eyes of the members of ARCIC, the differences which remain or the things which are missing from the document only deal with secondary points (for example, the structure of liturgical rites, theological opinion, ecclesiastical discipline, spirituality), or whether these are points which truly pertain to the faith. Whatever the case, the Congregation is obliged to observe that sometimes it is the second hypothesis which is verified (for example, Eucharistic adoration, papal primacy, the Marian dogmas), and that it would not be possible here to appeal to the “hierarchy of truths” of which no. 11 of the Decree *Unitatis redintegratio* of Vatican II speaks (cf. the Declaration *Mysterium Ecclesiae* no. 4, par. 3).
->
+
 > III\) The possibility of a twofold interpretation of the texts.
->
+
 > Certain formulations in the Report are not sufficiently explicit and hence can lend themselves to a twofold interpretation, in which both parties can find unchanged the expression of their own position.
->
+
 > This possibility of contrasting and ultimately incompatible readings of formulations which are apparently satisfactory to both sides gives rise to a question about the real consensus of the two Communions, pastors and faithful alike. In effect, if a formulation which has received the agreement of the experts can be diversely interpreted, how could it serve as a basis for reconciliation on the level of Church life and practice?
->
+
 > Moreover, when the members of ARCIC speak about “the consensus we have reached” (cf. Eucharistic Doctrine, Windsor \[1971\], no. 1), one does not always see clearly whether this means the faith really professed by the two Communions in dialogue, or a conviction which the members of the Commission have reached and to which they want to bring their respective coreligionists.
->
+
 > In this regard it would have been useful — in order to evaluate the exact meaning of certain points of agreement — had ARCIC indicated their position in reference to the documents which have contributed significantly to the formation of the Anglican identity *(The Thirty-nine Articles of Religion, Book of Common Prayer, Ordinal),* in those cases where the assertions of the Final Report seem incompatible with these documents. The failure to take a stand on these texts can give rise to uncertainty about the exact meaning of the agreements reached.
->
+
 > The Congregation finally has to note that, from the Catholic point of view, there remain in the ARCIC Final Report a certain number of difficulties at the level of doctrinal formulations some of which touch the very substance of the faith. These difficulties — their description and the reasons for them — will now be listed following the order of the new texts of the Final Report (Eucharistic Doctrine-Ministry and Ordination: Elucidations \[Salisbury, 19791\]; Authority in the Church II; Authority in the Church: an Elucidation \[Windsor, 1981\]).
 
 **B. Doctrinal Difficulties noted by the SCDF**
@@ -195,13 +187,13 @@ But since the dialogue has as its final objective the restoration of Church unit
 At the conclusion of its doctrinal examination, the SCDF thinks that the Final Report, which represents a notable ecumenical endeavour and a useful basis for further steps on the road to reconciliation between the Catholic Church and the Anglican Communion, does not yet constitute a substantial and explicit agreement on some essential elements of Catholic faith:
 
 > *a*) because the Report explicitly recognizes that one or another Catholic dogma is not accepted by our Anglican brethren (for example, Eucharistic adoration, infallibility, the Marian dogmas);
->
+
 > *b*) because one or another Catholic doctrine is only accepted in part by our Anglican brethren (for example, the primacy of the Bishop of Rome);
->
+
 > *c*) because certain formulations in the Report are not explicit enough to ensure that they exclude interpretations not in harmony with the Catholic faith (for example, that which concerns the Eucharist as sacrifice, the Real Presence, the nature of the priesthood);
->
+
 > *d*) because certain affirmations in the Report are inexact and not acceptable as Catholic doctrine (for example, the relationship between the primacy and the structure of the Church, the doctrine of “reception”);
->
+
 > *e*) finally because some important aspects of the teaching of the Catholic Church have either not been dealt with or have been only in an indirect way (for example, apostolic succession, the “regula fidei”, moral teaching)
 
 2\) *On the next concrete step to be taken*
@@ -209,9 +201,9 @@ At the conclusion of its doctrinal examination, the SCDF thinks that the Final R
 The SCDF thinks that the results of its examination would recommend:
 
 > *a*) that the dialogue be continued, since there are sufficient grounds for thinking its continuation will be fruitful;
->
+
 > *b*) that it be deepened in regard to the points already addressed where the results are not satisfactory;
->
+
 > *c*) that it be extended to new themes, particularly those which are necessary with a view to the restoration of full Church unity between the two Communions.
 
 \* *AAS* 74 (1982), 1062-1074.

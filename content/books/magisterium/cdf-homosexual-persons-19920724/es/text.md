@@ -1,9 +1,5 @@
 # Algunas propuestas acerca de la respuesta a propuestas legislativas sobre la no discriminación de las personas homosexuales
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **ALGUNAS CONSIDERACIONES ACERCA DE LA RESPUESTA A PROPUESTAS LEGISLATIVAS SOBRE LA NO DISCRIMINACIÓN DE LAS PERSONAS HOMOSEXUALES**
@@ -59,5 +55,3 @@ Además, existe el peligro de que una legislación, al fundamentar determinados 
 15\. Desde el momento que en la valoración de una propuesta de legislación hay que poner el máximo cuidado en la responsabilidad de defender y promover la vida de la familia (cf. n. 17), se debe prestar una gran atención a cada una de las disposiciones de las intervenciones propuestas. ¿Cómo influirán en la adopción o en la custodia? ¿Serán una defensa de los actos homosexuales, públicos o privados? ¿Conferirán a las uniones homosexuales un estado equivalente al de la familia, en cuanto a las casas populares, u otorgarán al compañero homosexual ventajas contractuales que podrían incluir elementos como la participación de la «familia» en el seguro social del trabajador (cf. n. 9)?
 
 16\. Por último, cuando está en juego una cuestión acerca del bien común, no es oportuno que las autoridades eclesiales apoyen o se mantengan neutrales ante una legislación negativa, aunque ésta haga algunas excepciones con las organizaciones y las instituciones de la Iglesia. La Iglesia tiene la responsabilidad de promover la vida de la familia y la moralidad pública de la entera sociedad civil basándose en los valores morales fundamentales, y no sólo para protegerse a sí misma de la aplicación de leyes perniciosas (cf. n. 17).
-
-[](#top)

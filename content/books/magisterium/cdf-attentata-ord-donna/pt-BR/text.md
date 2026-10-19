@@ -1,9 +1,5 @@
 # Decreto Geral sobre o delito da tentada sagrada ordenação de uma mulher
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **DECRETO GERAL *sobre o delito da tentada sagrada ordenação de uma mulher***
@@ -25,5 +21,3 @@ L. + S.
 *Secretário*  
 
 *In Congr. pro Doctrina Fidei tab., n. 337/02*
-
-[](#top)

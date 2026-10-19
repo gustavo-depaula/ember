@@ -1,9 +1,5 @@
 # Sensus fidei im Leben der Kirche
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONALE THEOLOGISCHE KOMMISSION
 
 ***SENSUS FIDEI* IM LEBEN DER KIRCHE**
@@ -17,12 +13,12 @@ INTERNATIONALE THEOLOGISCHE KOMMISSION
 **Kapitel 1: Der „Sensus fidei“ in Schrift und Tradition**
 
 > **1. Biblische Lehre**
->
+
 > a\) Glaube als Antwort auf das Wort Gottes  
 > b) Die persönliche und die kirchliche Dimension des Glaubens  
 > c) Das Vermögen der Gläubigen, die Wahrheit zu erkennen und zu bezeugen  
 > 2. Die Entwicklung des Begriffs und sein Platz in der Geschichte der Kirche
->
+
 > a\) Die Zeit der Patristik  
 > b) Die Zeit des Mittelalters  
 > c) Reformation und postreformatorische Zeit  
@@ -38,32 +34,32 @@ INTERNATIONALE THEOLOGISCHE KOMMISSION
 
 > **1. Der „Sensus fidei“ und die Entwicklung christlicher Lehre und Praxis** a) Rückblickende und vorausblickende Aspekte des „Sensus fidei“  
 > b) Der Beitrag der Laien zum „Sensus fidelium“
->
+
 > **2. Der „Sensus fidei“ und das Lehramt**
->
+
 > a\) Das Lehramt hört auf den „Sensus fidei“  
 > b) Das Lehramt stärkt, erkennt und beurteilt den „Sensus fidelium“  
 > c) Rezeption
->
+
 > **3. Der „Sensus fidei“ und die Theologie**  
 > a) Theologen sind auf den „Sensus fidelium“ angewiesen  
 > b) Theologen reflektieren über den „Sensus fidelium“
->
+
 > **4. Ökumenische Aspekte des „Sensus fidei“**
 
 **Kapitel 4: Wie echte Erscheinungsformen des „Sensus fidei“ zu erkennen sind**
 
 > **1. Notwendige Dispositionen für authentische Teilhabe am „Sensus fidei“**
->
+
 > a\) Teilhabe am kirchlichen Leben  
 > b) Das Wort Gottes hören  
 > c) Offenheit gegenüber der Vernunft  
 > d) Festhalten am Lehramt  
 > e) Heiligkeit – Demut, Freiheit und Freude  
 > f) Sich um die Erbauung der Kirche bemühen
->
+
 > **2. Anwendungen**
->
+
 > a\) Der „Sensus fidei“ und die Volksfrömmigkeit  
 > b) Der „Sensus fidei“ und die öffentliche Meinung  
 > c) Wege, die Gläubigen zu konsultieren
@@ -235,9 +231,9 @@ LEBEN DES GLÄUBIGEN
 60\. Drei Haupterscheinungsformen des „Sensus fidei fidelis“ im persönlichen Leben der Gläubigen können hervorgehoben werden. Der „Sensus fidei fidelis“ befähigt die Gläubigen:
 
 > 1.) zu unterscheiden, ob eine besondere Lehre oder Praxis, die sie in der Kirche antreffen, mit dem wahren Glauben, den sie in der Gemeinschaft der Kirche leben, übereinstimmt oder nicht (s. u. §§ 61–63);
->
+
 > 2.) in dem, was verkündet wird, zwischen Wesentlichem und Zweitrangigem zu unterscheiden (§ 64); und
->
+
 > 3.) das Zeugnis für Jesus Christus, das sie in dem besonderen historischen und kulturellen Kontext, in dem sie leben, ablegen sollen, auszumachen und in die Praxis umzusetzen (§ 65).
 
 61\. „Liebe Brüder, traut nicht jedem Geist, sondern prüft die Geister, ob sie aus Gott sind; denn viele falsche Propheten sind in die Welt hinausgezogen“ (1 Joh 4, 1). Der „Sensus fidei fidelis“ überträgt den Gläubigen die Fähigkeit, zu unterscheiden, ob eine Lehre oder Praxis mit dem wahren Glauben, nach dem sie bereits leben, übereinstimmt oder nicht. Wenn einzelne Gläubige diese Übereinstimmung wahrnehmen oder „spüren“, geben sie spontan ihr inneres Einverständnis zu diesen Lehren oder setzen sie persönlich um, gleich, ob es sich dabei um bereits explizit gelehrte Wahrheiten oder noch nicht explizit gelehrte Wahrheiten handelt.
@@ -747,5 +743,3 @@ sollte, sollte man einer seltsamen Verkündigung nicht zustimmen, sondern weiter
 148\. Interview von Pater Antonio Spadaro mit Papst Franziskus; vgl. oben, § 90.
 
 *Übersetzung aus dem Englischen von Claudia Reimüller*
-
-[](#top)

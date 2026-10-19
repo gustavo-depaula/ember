@@ -49,7 +49,7 @@ La fede eucaristica della Chiesa \[6\]
 **[Eucaristia e Sacramenti](#Eucaristia_e_Sacramenti)**
 
 > Sacramentalità della Chiesa \[16\]
->
+
 > > I. Eucaristia e iniziazione cristiana  
 > > Eucaristia, pienezza dell'iniziazione cristiana \[17\]  
 > > L'ordine dei Sacramenti dell'iniziazione \[18\]  

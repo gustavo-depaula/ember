@@ -1,9 +1,5 @@
 # Validade do batismo conferido pela Christian Community, 9 de março de 1991
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **Notificação sobre a validade do batismo conferido pela “Christian Community” ou “*Die Christengemeinschaft*” de Rudolf Steiner**
@@ -15,5 +11,3 @@ Esta Congregação, depois de diligente exame, decretou que si deva responder: *
 *Roma, 9 de março de 1991.*
 
 **Joseph Card. Ratzinger** *Prefeito*
-
-[](#top)

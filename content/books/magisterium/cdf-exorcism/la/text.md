@@ -1,9 +1,5 @@
 # Epistula Ordinariis locorum missa: in mentem normae vigentes de exorcismis revocantur, d. 29 m. Septembris a. 1985, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **EPISTULA ORDINARIIS LOCORUM MISSA: IN MENTEM NORMAE VIGENTES DE EXORCISMIS REVOCANTUR**
@@ -33,5 +29,3 @@ add.mus in Domino
 **+ Albertus Bovone,** * a Secretis*
 
 \* *AAS* 77 (1985), 1169-1170.
-
-[](#top)

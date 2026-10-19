@@ -82,5 +82,3 @@ Questo Catechismo non è destinato a sostituire i Catechismi locali debitamente 
 Al termine di questo documento che presenta il « [Catechismo della Chiesa Cattolica](http://localhost/archive/ccc/index_it.htm) », prego la Santissima Vergine Maria, Madre del Verbo Incarnato e Madre della Chiesa, di sostenere con la sua potente intercessione l'impegno catechistico dell'intera Chiesa ad ogni livello, in questo tempo in cui essa è chiamata ad un nuovo sforzo di evangelizzazione. Possa la luce della vera fede liberare l'umanità dall'ignoranza e dalla schiavitù del peccato per condurla alla sola libertà degna di questo nome (12) quella della vita in Gesù Cristo sotto la guida dello Spirito Santo, quaggiù e nel Regno dei cieli, nella pienezza della beatitudine della visione di Dio faccia a faccia!(13)
 
 *Dato il giorno 11 ottobre 1992, trentesimo anniversario dell'apertura del Concilio Ecumenico Vaticano II, quattordicesimo anno del mio pontificato.*
-
-* *

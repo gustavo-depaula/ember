@@ -1,9 +1,5 @@
 # De versionibus Sacrae Scripturae in linguas vernaculas - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE VERSIONIBUS SACRAE SCRIPTURAE IN LINGUAS VERNACULAS**
@@ -23,7 +19,3 @@ servatis servandis:
 *Quod responsum Ss.mus D.N. Pius Pp. XII, in audientia die 22 Augusti an. 1943 infrascripto Rev.mo Consultori ab Actis benigne concessa, ratum habuit et publici iuris fieri mandavit.*
 
 Iacobus M. Vosté *Consultor ab Actis.*
-
-* *
-
-[](#top)

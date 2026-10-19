@@ -43,39 +43,39 @@ Nunc igitur id primum praeponimus, norimis has per Litteras statuendis obnoxios 
 Itaque Nos, eo consilio permoti, ut ecclesiastica disciplina de matrimoniis mixtis perficiatur utque, salvis divinae legis praescriptis, canonicae leges variis coniugum condicionibus consulant, iuxta mentem a Concilio Vaticano II significatam, praesertim in Decreto, cui index *[Unitatis redintegratio](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_lt.html)*(AAS 57 (1965), pp. 90-12) et in Declaratione, a verbis incipiente *[Digntatis humanae](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_lt.html)* (AAS 58 (1966), pp. 929-946); itemque optata considerantes, quae in Synodo Episcoporum sunt prolata, auctoritate Nostra et post maturam deliberationem normas statuimus ac decernimus, quae sequuntur.
 
 > *1)* Matrimonium inter duas personas baptizatas, quarum altera sit catholica, altera vero non catholica, cum natura sua planae spirituali coniugum communioni obstet, sine praevia Ordinarii loci dispensatione, contrahi non licet.
->
+
 > *2)* Matrimonium inter duas personas, quarum altera sit baptizata in Ecclesia catholica, vel in eandem recepta, et altera non baptizata, initum sine praevia Ordinaria loci dispensatione, est invalidum.
->
+
 > *3)* Ab utroque impedimento Ecclesia pro temporum, locorum personarumque rationibus et adiunctis, dispensationem non recusat, dummοdo iusta causa habeatur.
->
+
 > *4)* Ad impetrandam ab Ordinario loci dispcnsationem impedimenti, pars catholica declares se paratam esse pericula a fide deficiendi removere. Eadem insuper gravi obligatione tenetur promissionem sinceram praestandi, se omnia pro viribus facturam esse, ut universa proles in Ecclesia catholica baptizetur et educetur.
->
+
 > *5)* De his promissionibus a parte catholica faciendis, pars non catholica tempestive certior fiat, adeo ut constet ipsum vere consciam esse promissionis et obligationis partis catholicae.
->
+
 > *6)* Ambae partes edoceantur de finibus et proprietatibus essentialibus matrimonii, a neutro contrahente excludendis.
->
+
 > *7)* Conferentiae Episcoporum est, secundum propriam territorio competentiam, statuere modum quo hac declarationes et promissiones, quae semper requiruntur, faciendae sint, sive ore tantum, sive etiam scriptis, sive coram testibus; tum rationem definire qua de ipsis et in fοrο externo constet et pars acatholica certior reddatur: itemque edicere quae alia sint, pro opportunitate, postulanda.
->
+
 > *8)* Mixtae nuptiae forma canonica contrahendae sunt, quae forma ad validitatem matrimonii requiritur, salvο praescripto Decreti *Crescens matrimonium*, a S. Congregatione pro Ecclesiis Orientalibus die 22 mensis Februarii anno 1967 editi (Cf AAS 59 (1967), p. 166).
->
+
 > *9)* Si graves difficultates formae canonicae servandae obstent, Ordinariis locorum ius est dispensandi a forma canonica matrimonii mixti; Conferentiae autem Episcoporum est normas statuere, quibus praedicta dispensatio in sua regione vel in suο territorio concordi ratione ac licite, salva tamen aliqua publica forma celebrationis, concedatur.
->
+
 > *10)* Curandum est, ut omnia matrimonia valide contracta in libris, a iure canonico praescriptis, sedulo adnotentur. Pastores animarum curent, ut ministri quoque non catholici operam praestent ad adnotationem nuptiarum cum parte catholica in libris inserendam.
->
+
 > Conferentiae vero Episcopales normas edant, quibus in earum regione vel territorio modus communi ratione determinetur, quo de matrimonio post obtentam dispensationem a forma canonica, publice contracto, in libris iure canonico praescriptis constet.
->
+
 > *11)* Quoad formam liturgicam celebrandi matrimonia mixta, si ea desumenda sit ex Rituali Romano, ritus adhiberi debent ex Ordine celebrandi Matrimonium, auctoritate Nostra promulgato, sive Matrimonium fit inter partem catholicam et partem baptizatam non catholicam (nn. 39-54), sive matrimonium fit inter partem catholicam et partem non baptizatam (nn. 55-66). Si autem casus ferat, in matrimonio inter partem catholicam et partem baptizatam non catholicam adhiberi possunt, de consenso Ordinaria loci, ritus celebrandi matrimonium intra Missam (nn. 19-38), servato legis generalis praescripto quoad Communionem Eucharisticam.
->
+
 > *12)* Conferentiae Episcopales Apostolicam Sedem certiorem reddant de iis, quae circa matrimonia mixta pro sua competentia decreverint.
->
+
 > *13)* Matrimoni celebratio coram sacerdote vel diacono catholico et ministro non catholico, qui simul suum quisque ritum peragant, vetatur; neque admittitur, ante vel post catholicam celebrationem, alia matrimonii celebratio religiosa ad matrimonialem consensum praestandum vel renovandum.
->
+
 > *14)* Ordinarii locorum et parochi curent, ne coniugi catholico et filiis, e matrimonio mixto natis, auxilium spirituale desit ad eorum officia conscientiae adimplenda; eundemque hortentur coniugem, ut memor sit semper doni divini fidei catholicae eiusqne testimonium reddat *cum modestia et timοre, conscientiam habens bonam* (Cf *1 Pt* 3, 16); coniuges adiuvent ad vitae coniugalis et familiaris fovendam unitatem, quae, si de christianis agatur, in illorum quoque baptismo innititur. Qua de re, optandum est, ut iidem Pastores relationes instituant cum ministres aliarum communitatum religiosarum, easque sincera probitate et sapienti fiducia conforment.
->
+
 > *15)* Poenae, quae in *C.I.C.* can. 2319 statutae sunt, omnes abrogantur; pro iis autem qui tales poenas iam contraxerint, earundem poenarum effectus cessant, salvis tamen obligationibus, de quibus in n. 4 harum normarum sermo est.
->
+
 > *16)* Ordinarius loci sanationem in radice matrimonii mixte concedere potest, impletis condicionibus, de quibus in nn. 4 et 5 harum normarum, et servatis ceteris de iure servandis.
->
+
 > *17)* In casu peculiaris difficultatis vel dubii quoad applacationem harum normarum, recurrendum est ad Sanctam Sedem.
 
 Quaecumque a Nobis hisce Litteris motu proprio datis decreta sunt, ea omnia firma ac rata esse iubemus suosque integros effectus obtinere a die I mensis Octobris huius anni, contrariis quibuslibet non obstantibus.

@@ -171,7 +171,7 @@ Daqui nasce o sonho sucessivo...
 > a paisagem com seu rio e suas árvores,  
 > competia a tais coisas assomar à mente dum  
 > garotinho»[^33].
->
+
 > «Do rio, fazes o teu sangue (…).  
 > Depois planta-te,  
 > germina e cresce  

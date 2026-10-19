@@ -175,8 +175,6 @@ Wydane w Rzymie, u Świętego Piotra, w Uroczystość Wniebowzięcia Najświęts
 
 **Franciszek**
 
-** **
-
 ------------------------------------------------------------------------
 
 **Zasady proceduralne w sprawach o stwierdzenie nieważności małżeństwa.**

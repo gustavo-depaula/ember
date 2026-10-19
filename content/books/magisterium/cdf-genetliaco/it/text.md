@@ -1,9 +1,5 @@
 # Messaggio di auguri in occasione dellÂottantatreesimo compleanno
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***AUGURI AL SANTO PADRE PER IL SUO COMPLEANNO***
 
 *Domenica, 18 maggio 2003*
@@ -21,7 +17,3 @@ Credere e amare: questo è il programma del Suo pontificato. Instancabilmente Le
 Beatissimo Padre, *ad multus annos!*
 
 **Joseph Cardinal Ratzinger**
-
-**  **
-
-[](#top)

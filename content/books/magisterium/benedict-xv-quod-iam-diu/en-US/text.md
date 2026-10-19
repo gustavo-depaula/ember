@@ -17,5 +17,3 @@ That for which the whole world has long sighed, which Christianity has implored 
 *Given at Rome at St. Peter's on the 1st day of December, 1918, the fifth year of Our Pontificate.*
 
 **BENEDICT XV**
-
-*      *

@@ -1,15 +1,11 @@
 # Archiv - Päpstlicher Rat für die Pastoral im Krankendienst
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Päpstlicher Rat für die Pastoral im Krankendienst**
 
 ***ARCHIV***
 
 > **[Dolentium Hominum - Kirche und Gesundheit in der Welt](rc_pc_hlthwork_doc_09061997_magazine_it.html)**
->
+
 > - **"Die Aufmerksamkeit für die Kranken bei den Kirchenvätern" - P. Carlo Cremona**  
 >   \[[Englisch](rc_pc_hlthwork_doc_05101997_cremona_en.html), [Französisch](rc_pc_hlthwork_doc_05101997_cremona_fr.html), [Italienisch](rc_pc_hlthwork_doc_05101997_cremona_it.html), [Spanisch](rc_pc_hlthwork_doc_05101997_cremona_sp.html)\]
 > - **"Hippokrates in den Dokumenten der Kirche und in den theologischen Werken" - Dr.med. Gottfried Roth**  
@@ -26,5 +22,3 @@
 >   \[[Englisch](rc_pc_hlthwork_doc_30061997_poupard_en.html), [Französisch](rc_pc_hlthwork_doc_30061997_poupard_fr.html), [Italienisch](rc_pc_hlthwork_doc_30061997_poupard_it.html), [Spanisch](rc_pc_hlthwork_doc_30061997_poupard_sp.html)\]
 > - **Die Wunden heilen: Die «Rachel-Gruppen» - Kardinal John O'Connor**  
 >   \[[Englisch](rc_pc_hlthwork_doc_23071997_oconnor_en.html), [Französisch](rc_pc_hlthwork_doc_23071997_oconnor_fr.html), [Italienisch](rc_pc_hlthwork_doc_23071997_oconnor_it.html), [Spanisch](rc_pc_hlthwork_doc_23071997_oconnor_sp.html)\]
-
-[](#top)

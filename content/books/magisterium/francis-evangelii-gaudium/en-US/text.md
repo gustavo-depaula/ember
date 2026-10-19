@@ -1,6 +1,5 @@
 # "Evangelii Gaudium": Apostolic Exhortation on the Proclamation of the Gospel in Today's World
 
-[](/content/dam/francesco/pdf/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium_en.pdf)  
 DOWNLOAD PDF
 
 APOSTOLIC EXHORTATION ***EVANGELII GAUDIUM*** OF THE HOLY FATHER  

@@ -1,9 +1,5 @@
 # Il rapporto fra Magistero della Chiesa ed esegesi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PONTIFICIA COMMISSIONE BIBLICA** **
 
 ***A 100 anni dalla costituzione della Pontificia Commissione Biblica***
@@ -45,5 +41,3 @@ La Terra Promessa della libertà è più affascinante e multiforme di quello che
 Ma non condanniamo neanche con leggerezza il passato, bensì lo vediamo come parte necessaria di un processo di conoscenza che, considerata la grandezza della Parola rivelata e i limiti delle nostre capacità, ci porrà sempre davanti a nuove sfide. Ma proprio in questo sta il bello. E così, a cento anni dalla costituzione della Commissione Biblica, nonostante tutti i problemi sorti in questo lasso di tempo, possiamo ancora guardare, grati e pieni di speranza, alla strada che si apre davanti a noi.
 
 **Card. JOSEPH RATZINGER**
-
-[](#top)

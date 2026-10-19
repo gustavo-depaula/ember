@@ -4,8 +4,6 @@ ENCICLICA
 ***CUM SANCTA MATER*** DEL SOMMO PONTEFICE  
 **PIO IX**
 
-* *
-
 *Ai Venerabili Fratelli Patriarchi, Primati, Arcivescovi, Vescovi e agli Ordinari che hanno amicizia e comunione con la Sede Apostolica. Il Papa Pio IX. Venerabili Fratelli, salute e Apostolica Benedizione.*
 
 In questi sacri giorni di festa, Venerabili Fratelli, la Santa Madre Chiesa celebra con solennità l’annuale ricorrenza del Mistero Pasquale, effondendo il suo gaudio in tutto il mondo, e richiama alla memoria di tutti i suoi fedeli quelle lietissime parole di soavissima pace che l’Unigenito Figlio di Dio Cristo Gesù, Nostro Signore, annunciò frequentemente e amorosamente ai suoi Apostoli e Discepoli, risorgendo dopo aver vinto la morte e debellato la tirannia del demonio. Ma ecco si leva un ben triste clamore di guerra fra nazioni cattoliche, e risuona nelle orecchie di tutti.

@@ -57,5 +57,3 @@ Whoever considers the height of dignity and glory to which God has raised the Mo
 *Given at St. Peter's, in Rome, on the 12th day of September, 1897, in the 20thyear of Our Pontificate.*
 
 **LEO XIII**
-
-*       *

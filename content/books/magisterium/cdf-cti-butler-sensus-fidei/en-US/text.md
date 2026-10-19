@@ -1,9 +1,5 @@
 # Sensus Fidei: Chapters One and Two - Sister Sara Butler
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERNATIONAL THEOLOGICAL COMMISSION
 
 ***Sensus Fidei: Chapters One and Two***
@@ -27,5 +23,3 @@ Chapter two deals with the *sensus fidei* in the life of the believer, the *sens
 Sister Sara Butler, M.S.B.T.  
 Member, International Theological Commission  
 \[Professor Emerita, University of St. Mary of the Lake, Mundelein, Illinois, USA\]
-
-[](#top)

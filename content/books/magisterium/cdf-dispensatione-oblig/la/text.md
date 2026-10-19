@@ -1,13 +1,5 @@
 # Normae ad apparandas in Curiis dioecesanis et religiosis causas reductionis ad statum laicalem cum dispensatione ab obligationibus cum sacra Ordinatione conexis, d. 13 m. Ianuarii a. 1971, Congregatio pro Doctrina Fide
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

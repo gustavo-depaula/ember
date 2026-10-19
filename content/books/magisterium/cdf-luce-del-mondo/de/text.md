@@ -1,9 +1,5 @@
 # Note über die Banalisierung der Sexualität im Hinblick auf einige Textstellen aus »Licht der Welt«
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 **Note der Kongregation für die Glaubenslehre über die Banalisierung der Sexualität im Hinblick auf einige Textstellen aus »Licht der Welt«**
@@ -21,5 +17,3 @@ In diesem Zusammenhang muss darauf hingewiesen werden, dass die Lage, die aufgru
 Einige haben die Worte von Papst Benedikt XVI. mit Bezugnahme auf die Theorie vom so genannten »kleineren Übel« interpretiert. Diese Theorie ist aber für abwegige Auslegungen im Sinn des Proportionalismus anfällig (vgl. Johannes Paul II., Enzyklika *[Veritatis splendor](/edocs/DEU0080/_INDEX.HTM)*, Nr. [75](/edocs/DEU0080/__PO.HTM)-[77](/edocs/DEU0080/__PP.HTM)). Eine Handlung, die aufgrund ihres Gegenstands ein Übel ist, und sei es auch ein kleineres Übel, darf nicht angestrebt werden. Der Heilige Vater hat nicht gesagt, dass Prostitution mit Verwendung eines Kondoms als kleineres Übel angestrebt werden darf, wie einige behauptet haben. Die Kirche lehrt, dass Prostitution sündhaft ist und bekämpft werden muss. Betreibt jemand dennoch Prostitution und ist er darüber hinaus mit HIV infiziert, kann es ein erster Schritt hin zu einer Achtung vor dem Leben der anderen sein, wenn er sich, auch durch die Verwendung des Kondoms, dafür einsetzt, die Ansteckungsgefahr zu verringern, wobei die Prostitution natürlich schwer sündhaft bleibt. Solche Bewertungen stehen im Einklang mit dem, was die moraltheologische Tradition auch in der Vergangenheit vertreten hat.
 
 Abschließend ist anzumerken, dass die Mitglieder und die Einrichtungen der katholischen Kirche im Kampf gegen AIDS wissen müssen, dass es darum geht, den Menschen nahe zu sein, die Kranken zu pflegen und alle dazu zu erziehen, vor der Ehe enthaltsam zu leben und in der Ehe die Treue zu halten. Dabei müssen sie auch Verhaltensweisen aufdecken, die die Sexualität banalisieren. Wie der Heilige Vater sagt, sind gerade diese Verhaltensweisen die gefährliche Quelle dafür, dass viele Menschen in der Sexualität nicht mehr den Ausdruck ihrer Liebe finden. »Deshalb ist auch der Kampf gegen die Banalisierung des Sexualität ein Teil des Ringens darum, dass Sexualität positiv gewertet wird und ihre positive Wirkung im Ganzen des Menschseins entfalten kann« (»Licht der Welt«, S. 146).
-
-[](#top)

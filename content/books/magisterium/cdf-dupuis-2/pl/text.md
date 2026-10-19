@@ -1,9 +1,5 @@
 # Komentarz do «Noty» Kongregacji Nauki Wiary na temat książki Jacques'a Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Komentarz do «Noty» Kongregacji Nauki Wiary na temat książki Jacques'a Dupuis**
 
 1\. W każdej epoce refleksja teologiczna miała doniosłe znaczenie dla misji ewangelizacyjnej Kościoła, prowadzonej zgodnie z zamysłem Boga, który pragnie «by wszyscy ludzie zostali zbawieni i doszli do poznania prawdy» (1 Tm 2, 4). Coraz głębsze rozumienie słowa Bożego, zawartego w Piśmie Świętym, inspirowane i przekazywane przez żywą tradycję Kościoła, wzbogaca bowiem cały Lud Boży, «sól ziemi» i «światłość świata» (por. Mt 5, 13 n.), przez co pomaga mu zarówno świadczyć o prawdzie chrześcijańskiego objawienia, jak i uzasadniać swoją nadzieję wobec tych, którzy tego żądają (por. 1 P 3, 15).
@@ -69,5 +65,3 @@ Samo zresztą przypomnienie prawdy wyraża jedność w wierze w Boga w Trójcy J
 7. Jan Paweł II, Enc. Fides et ratio, 38.
 
 8. Kongregacja Nauki Wiary, Dekl. Dominus Iesus, 23.
-
-[](#top)

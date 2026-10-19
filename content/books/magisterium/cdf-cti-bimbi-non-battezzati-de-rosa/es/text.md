@@ -1,13 +1,5 @@
 # Hay una esperanza de salvación para los niños muertos sin el bautismo, - Giuseppe De Rosa S.I.
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **HAY UNA ESPERANZA DE SALVACIÓN PARA LOS NIÑOS MUERTOS SIN EL BAUTISMO**

@@ -1,15 +1,5 @@
 # Lettre à l’Évêque de Locri-Gerace sur l'expérience spirituelle liée au sanctuaire de la « Madonna dello Scoglio » à Santa Domenica di Placanica
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÈRE POUR LA DOCTRINE DE LA FOI

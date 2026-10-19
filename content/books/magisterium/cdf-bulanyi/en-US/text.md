@@ -1,9 +1,5 @@
 # Letter to György Bulányi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***LETTER TO GYÖRGY BULÁNYI[\*](#*)***
@@ -83,5 +79,3 @@ With sentiments of religious esteem,
 *Secretary*
 
 \* Magyar Kurir, June 11, 1987, 313-318 (Hungarian translation)
-
-[](#top)

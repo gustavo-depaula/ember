@@ -1,9 +1,5 @@
 # De falsa duorum textuum biblicorum interpretatione - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE FALSA DUORUM TEXTUUM BIBLICORUM INTERPRETATIONE**
@@ -21,7 +17,3 @@ Resp. Negative.
 *Die autem 1 Iulii 1933, in audientia infrascripto R.mo Consultori ab Actis benigne concessa, Ss.mus Dominus Noster Pius Pp. XI praedicta responsa rata habuit et publici iuris fieri mandavit.*
 
 Ioannes Baptista Frey, C.S.Sp. *Consultor ab Actis.*
-
-* *
-
-[](#top)

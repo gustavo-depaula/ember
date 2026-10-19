@@ -1,9 +1,5 @@
 # Instrução Postquam Apostoli, 25 de março de 1980
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGAÇÃO PARA O CLERO
 
 ***INSTRUÇÃO POSTQUAM APOSTOLI***
@@ -409,5 +405,3 @@ Cf. Deer. "*[Ad Gentes divinitus](/archive/hist_councils/ii_vatican_council/docu
 73\) Mp. "*[Ecclesiae Sanctae](/holy_father/paul_vi/motu_proprio/documents/hf_p-vi_motu-proprio_19660806_ecclesiae-sanctae_lt.html)*", I. 3, par. 4.
 
 74\) *Ibidem*, I, 2, par. 5.
-
-[](#top)

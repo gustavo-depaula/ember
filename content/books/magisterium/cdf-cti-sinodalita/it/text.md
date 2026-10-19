@@ -1,15 +1,5 @@
 # La sinodalità nella vita e nella missione della Chiesa
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMMISSIONE TEOLOGICA INTERNAZIONALE
@@ -293,9 +283,9 @@ La consultazione che si esprime nelle assemblee sinodali è infatti diversamente
 **70**. In sintesi, alla luce delle sue fonti normative e dei suoi fondamenti teologali, richiamati nei capitoli 1 e 2, si può abbozzare una descrizione articolata della sinodalità come dimensione costitutiva della Chiesa.
 
 > a\) La sinodalità designa innanzi tutto *lo stile* peculiare che qualifica la vita e la missione della Chiesa, esprimendone la natura come il camminare insieme e il riunirsi in assemblea del Popolo di Dio convocato dal Signore Gesù nella forza dello Spirito Santo per annunciare il Vangelo. Essa deve esprimersi nel modo ordinario di vivere e operare della Chiesa. Tale *modus vivendi et operandi* si realizza attraverso l’ascolto comunitario della Parola e la celebrazione dell’Eucaristia, la fraternità della comunione e la corresponsabilità e partecipazione di tutto il Popolo di Dio, ai suoi vari livelli e nella distinzione dei diversi ministeri e ruoli, alla sua vita e alla sua missione**.**
->
+
 > **b)** La sinodalità designa poi, in senso più specifico e determinato dal punto di vista teologico e canonico, quelle *strutture* e quei *processi* *ecclesiali* in cui la natura sinodale della Chiesa si esprime a livello istituzionale, in modo analogo, sui vari livelli della sua realizzazione: locale, regionale, universale. Tali strutture e processi sono a servizio del discernimento autorevole della Chiesa, chiamata a individuare la direzione da seguire in ascolto dello Spirito Santo.
->
+
 > c\) La sinodalità designa infine l’accadere puntuale di quegli *eventi sinodali* in cui la Chiesa è convocata dall’autorità competente e secondo specifiche procedure determinate dalla disciplina ecclesiastica, coinvolgendo in modi diversi, sul livello locale, regionale e universale, tutto il Popolo di Dio sotto la presidenza dei Vescovi in comunione collegiale e gerarchica con il Vescovo di Roma, per il discernimento del suo cammino e di particolari questioni, e per l’assunzione di decisioni e orientamenti al fine di adempiere alla sua missione evangelizzatrice.
 
 **CAPITOLO 3**
@@ -423,13 +413,13 @@ Il Sinodo dei Vescovi non è l’unica forma possibile di partecipazione del Col
 **106**. Nella prospettiva della comunione e dell’attuazione della sinodalità, si possono segnalare alcune fondamentali linee di orientamento nell’azione pastorale:
 
 > a\. l’attivazione, a partire dalla Chiesa particolare e a tutti i livelli, della circolarità tra il ministero dei Pastori, la partecipazione e corresponsabilità dei laici, gli impulsi provenienti dai doni carismatici secondo la circolarità dinamica tra “uno”, “alcuni” e “tutti”;
->
+
 > b\. l’integrazione tra l’esercizio della collegialità dei Pastori e la sinodalità vissuta da tutto il Popolo di Dio come espressione della comunione tra le Chiese particolari nella Chiesa universale;
->
+
 > c\. l’esercizio del ministero petrino di unità e di guida della Chiesa universale da parte del Vescovo di Roma nella comunione con tutte le Chiese particolari, in sinergia con il ministero collegiale dei Vescovi e il cammino sinodale del Popolo di Dio;
->
+
 > d\. l’apertura della Chiesa cattolica verso le altre Chiese e Comunità ecclesiali nell’impegno irreversibile a camminare insieme verso la piena unità nella diversità riconciliata delle rispettive tradizioni;
->
+
 > e\. la diaconia sociale e il dialogo costruttivo con gli uomini e le donne delle diverse confessioni religiose e convinzioni per realizzare insieme una cultura dell’incontro.
 
 **4.2. La spiritualità della comunione e la formazione alla vita sinodale**
@@ -443,13 +433,13 @@ Di qui l’esigenza che la Chiesa divenga «la casa e la scuola della comunione�
 **109**. La sinassi eucaristica è la sorgente e il paradigma della spiritualità di comunione. In essa si esprimono gli elementi specifici della vita cristiana chiamati a plasmare l’*affectus sinodalis.*
 
 > a.  **L’invocazione della Trinità**. La sinassi eucaristica principia dall’invocazione della SS.ma Trinità. Convocata dal Padre, in virtù dell’Eucaristia la Chiesa diventa nell’effusione dello Spirito Santo il sacramento vivente di Cristo: «Dove sono due o più riuniti nel mio Nome, ivi sono Io in mezzo ad essi» (cfr. *Mt* 18,19). L’unità della SS.ma Trinità nella comunione delle tre divine Persone si manifesta nella comunità cristiana chiamata a vivere «l’unione nella verità e nella carità»[^140], attraverso l’esercizio dei rispettivi doni e carismi ricevuti dallo Spirito Santo, in vista del bene comune.
->
+
 > b.  **La riconciliazione**. La sinassi eucaristica propizia la comunione attraverso la riconciliazione con Dio e con i fratelli. La *confessio peccati* celebra l’amore misericordioso del Padre ed esprime la volontà di non seguire la via della divisione causata dal peccato ma il cammino dell’unità: «Quando presenti la tua offerta all’altare e ti ricordi che il tuo fratello ha qualcosa contro di te, va prima a riconciliarti con il tuo fratello e poi presenta la tua offerta» (*Mt* 5,23-24). Gli eventi sinodali implicano il riconoscimento delle proprie fragilità e la richiesta del reciproco perdono. La riconciliazione è il cammino per vivere la nuova evangelizzazione.
->
+
 > c.  **L’ascolto della Parola di Dio**. Nella sinassi eucaristica si ascolta la Parola per accoglierne il messaggio e di esso illuminare il cammino. S’impara ad ascoltare la voce di Dio meditando la Scrittura, specialmente il Vangelo, celebrando i Sacramenti, soprattutto l’Eucaristia, accogliendo i fratelli, specialmente i poveri. Chi esercita il ministero pastorale ed è chiamato a spezzare il pane della Parola insieme al Pane eucaristico, deve conoscere la vita della comunità per comunicare il messaggio di Dio nel qui e nell’ora che essa vive. La struttura dialogica della liturgia eucaristica è il paradigma del discernimento comunitario: prima di ascoltarsi gli uni gli altri, i discepoli debbono ascoltare la Parola.
->
+
 > d.  **La comunione**. L’Eucaristia «*crea* comunione e *propizia* la comunione» con Dio e con i fratelli[^141]. Generata dal Cristo mediante lo Spirito Santo, la comunione è partecipata da uomini e donne che, avendo la stessa dignità di Battezzati, ricevono dal Padre ed esercitano con responsabilità diverse vocazioni – che scaturiscono dal Battesimo, dalla Confermazione, dall’Ordine sacro e da specifici doni dello Spirito Santo – per formare un solo Corpo dalle molte membra. La ricca e libera convergenza di questa pluralità nell’unità è ciò che va attivato negli eventi sinodali.
->
+
 > e.  **La missione**. *Ite, missa est*. La comunione realizzata dall’Eucaristia urge alla missione. Chi partecipa del Corpo di Cristo è chiamato a condividerne l’esperienza gioiosa con tutti. Ogni evento sinodale spinge la Chiesa a uscire dall’accampamento (cfr. *Eb* 13,13) per portare Cristo agli uomini che sono in attesa della sua salvezza. Sant’Agostino afferma che dobbiamo «avere un cuor solo e un’anima sola nel cammino *verso Dio*»[^142]. L’unità della comunità non è vera senza questo *télos* interiore che la guida lungo i sentieri del tempo verso la meta escatologica di «Dio tutto in tutti» (cfr. *1Cor* 15,28). Occorre sempre farsi interpellare dalla domanda: come possiamo essere in verità Chiesa sinodale se non viviamo “in uscita” verso tutti per andare insieme verso Dio?
 
 **4.3. L’ascolto e il dialogo per il discernimento comunitario**

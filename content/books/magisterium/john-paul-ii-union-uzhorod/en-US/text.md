@@ -2,8 +2,6 @@
 
 ***APOSTOLIC LETTER OF POPE JOHN PAUL II THE 350TH ANNIVERSARY OF THE UNION OF UZHOROD***
 
-*** ***
-
 *Dear Brothers and Sisters,*
 
 1\. "First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world. For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you always in my prayers" (Rom 1:8-9).

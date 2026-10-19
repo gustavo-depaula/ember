@@ -41,5 +41,3 @@ Al reavivar en nosotros la gracia del sacramento del orden, conscientes de lo qu
 *Vaticano, 8 de abril, jueves santo, del año 1993, decimoquinto de mi pontificado.*
 
 **JUAN PABLO II**
-
-* *

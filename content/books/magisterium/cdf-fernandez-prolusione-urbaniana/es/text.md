@@ -1,13 +1,5 @@
 # Provocaciones sobre la teología en contexto. Conferencia de apertura de la Jornada de estudio “Piedras miliares de la teología contextual hoy”, Pontificia Universidad Urbaniana
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Víctor Manuel Fernández *Prefecto del Dicasterio para la Doctrina de la Fe*

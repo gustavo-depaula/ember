@@ -1,9 +1,5 @@
 # La esperanza de salvación para los niños que mueren sin bautismo
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 ***LA ESPERANZA DE SALVACIÓN PARA LOS NIÑOS QUE MUEREN SIN BAUTISMO***[\*](#_edn*)
@@ -41,13 +37,13 @@ Para terminar, una observación de carácter metodológico. El tratamiento de es
 9\. La ausencia de una enseñanza explícita en el Nuevo Testamento sobre el destino de los niños no bautizados no significa que la discusión teológica acerca de esta cuestión no esté basada en diversas doctrinas bíblicas fundamentales. Entre éstas se incluyen:
 
 > \(I\) La voluntad de Dios de salvar a todos (cf. *Gn* 3,15; 22,18; *1 Tm* 2,3-6), mediante la victoria de Jesucristo sobre el pecado y la muerte (cf. *Ef* 1,20-22; *Flp* 2,7-11; *Rom* 14,9; *1 Cor* 15,20-28).
->
+
 > \(II\) La pecaminosidad universal de los seres humanos (cf. *Gn* 6,5-6; 8,21; *1 Re* 8,46; *Sal* 130,3), y el hecho de que desde Adán han nacido en el pecado (cf. Sal 51,7; Sir 25,24) y que por tanto están destinados a la muerte (cf. *Rom* 5,12; *1 Cor* 15,22).
->
+
 > \(III\) La necesidad para la salvación, por una parte, de la fe del creyente (cf. *Rom* 1,16), y, por otra, del Bautismo (cf. *Mc* 16,16; *Mt* 28,19; *Hch* 2,40-41; 16,30-33), y de la Eucaristía (cf. *Jn* 6,53) administrados por la Iglesia.
->
+
 > \(IV\) La esperanza cristiana supera completamente la esperanza humana (cf. *Rom* 4,18-21); la esperanza cristiana es que el Dios vivo, el Salvador de toda la humanidad (cf. *1 Tm* 4,10) hará a todos partícipes de su gloria y que todos vivirán con Cristo (cf. *1 Tes* 5,9-11; *Rom* 8,2-5.23.25); los cristianos deben estar siempre dispuestos a dar razón de la esperanza que hay en ellos (cf. *1 Pe* 3,15).
->
+
 > \(V\) La Iglesia tiene que hacer «plegarias, oraciones y súplicas… por todos» (*1 Tm* 2,1-8), fundada en la fe en que para la potencia creadora de Dios «nada es imposible» (*Job* 42,2; *Mc* 10,27; 12,24.27; *Lc* 1,37), y en la esperanza de que la creación entera participará finalmente en la gloria de Dios (cf. *Rom* 8,22-27).
 
 10\. Parece que existe una tensión entre dos de las doctrinas bíblicas que acabamos de mencionar: la voluntad salvífica universal de Dios por una parte, y la necesidad del Bautismo sacramental por otra. Esta última parece limitar la extensión de la voluntad salvífica universal de Dios. Se hace por tanto necesaria una reflexión hermenéutica acerca de cómo los testimonios de la Tradición (los Padres de la Iglesia, el Magisterio, los teólogos) han leído y utilizado los textos y las doctrinas de la Biblia que se refieren al tema que aquí se trata. Más específicamente, es necesario aclarar de qué tipo es la «necesidad» del sacramento del bautismo para evitar interpretaciones erradas. La necesidad del bautismo sacramental es una necesidad de segundo orden respecto a la necesidad absoluta de la acción salvadora de Dios por medio de Jesucristo para la salvación definitiva de todo ser humano. El Bautismo sacramental es necesario, porque es el medio ordinario mediante el cual una persona participa de los efectos benéficos de la muerte y resurrección de Jesús. A continuación observaremos con atención cómo los testimonios de la Escritura han sido usados en la tradición. Además, al tratar los principios teológicos (capítulo 2) y nuestras razones para la esperanza (capítulo 3), analizaremos detalladamente las doctrinas bíblicas y los textos correspondientes.
@@ -279,8 +275,6 @@ Para terminar, una observación de carácter metodológico. El tratamiento de es
 ------------------------------------------------------------------------
 
 [\*](#_ednref*) NOTA PRELIMINAR. El tema “La esperanza de salvación para los niños que mueren sin Bautismo” ha sido sometido al estudio de la Comisión Teológica Internacional. Para preparar este estudio se formó una Subcomisión formada por los Exmos. Mons. Ignazio Sanna y Mons. Basil Kyu-Man Cho, de los Rdos. Profesores Peter Damian Akpunonu, Adelbert Denaux, P. Gilles Emery O.P., Mons. Ricardo Ferrara, István Ivancsó, Paul McPartlan, Dominic Veliath S.D.B. (presidente de la Subcomisión) y de la profesora Sr. Sara Butler , con la colaboración del P. Luis Ladaria S.I., secretario general, y de Mons. Guido Pozzo, secretario adjunto de la misma Comisión Teológica, y con las contribuciones de los otros miembros. La discusión general tuvo lugar con ocasión de las sesiones plenarias de la CTI celebradas en Roma en diciembre de 2005 y en octubre de 2006. El texto presente fue aprobado en forma específica por la Comisión y fue sometido a su presidente, el Cardenal William J. Levada, el cual, una vez recibido el consenso del Santo Padre en la audiencia concedida el 19 de enero de 2007, ha autorizado su publicación.
-
-[](#top)
 
 [^1]: Los textos bíblicos citados en este documento están sacados de la *Biblia de Jerusalén.* Con todo, en algunas ocasiones se ha cambiado la traducción para respetar las opciones del original.
 

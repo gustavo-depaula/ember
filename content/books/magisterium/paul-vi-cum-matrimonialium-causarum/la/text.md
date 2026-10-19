@@ -35,9 +35,9 @@ Omnes causas matrimoniales, ad eos spectantes, de quibus in Litteris Apostolicis
 **§ 1.** In ceteris causis nullitatis matrimonii competens est:
 
 > *a)* Tribunal loci in quo matrimonium celebratum est, vel
->
+
 > *b)* Tribunal loci in quo pars conventa commorationem non precariam habeat, quae ex aliquo ecclesiastico documento vel alio legitimo modo probari possit, vel
->
+
 > *c)* Tribunal loci in quo de facto colligendae sint pleraeque depositiones seu probationes, dummodo accedat consensus tum Ordinarci loci commorationis habitualis partis conventae, tum Ordinarii loci et praesidiis Tribunales aditi.
 
 **§ 2.** Si casus accedat de quο in praecedenti § 1, c), Tribunal, antequam causam admittat, exquirat a parte convents, num quid excipiendum habeat contra forum aditum a parte actrice.

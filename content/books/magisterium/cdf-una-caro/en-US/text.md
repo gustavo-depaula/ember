@@ -1,13 +1,5 @@
 # Una caro. In Praise of Monogamy. Doctrinal Note on the Value of Matrimony as an Exclusive Union and Mutual Belonging
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERY FOR THE DOCTRINE OF THE FAITH
@@ -17,8 +9,6 @@ DICASTERY FOR THE DOCTRINE OF THE FAITH
 **In Praise of Monogamy**
 
 **Doctrinal *Note* on the Value of Matrimony as an Exclusive Union and Mutual Belonging**
-
-** **
 
 **Index**
 
@@ -40,7 +30,7 @@ DICASTERY FOR THE DOCTRINE OF THE FAITH
 > [Some Medieval and Modern Authors](#_Toc215420714)  
 > [The Development of the Theological Vision in Recent Times](#_Toc215420715)  
 > [Magisterial Interventions](#_Toc215420716)
->
+
 > > *[Early Interventions](#_Toc215420717) [Leo XIII](#_Toc215420718) [Pius XI](#_Toc215420719) [The Period of the Second Vatican Council](#_Toc215420720) [Saint John Paul II](#_Toc215420721) [Benedict XVI](#_Toc215420722) [Francis](#_Toc215420723) [Leo XIV](#_Toc215420724)*
 
 [**IV. Some Perspectives from Philosophy and Cultures**](#_Toc215420725)
@@ -58,11 +48,11 @@ DICASTERY FOR THE DOCTRINE OF THE FAITH
 **[VI. Some Reflections for Further Study](#_Toc215420734)**
 
 > [Mutual Belonging](#_Toc215420735)
->
+
 > > *[Transformation](#_Toc215420736) [Non-Belonging](#_Toc215420737) [Mutual Help](#_Toc215420738)*
->
+
 > [Conjugal Charity](#_Toc215420739)
->
+
 > > *[A Special Form of Friendship](#_Toc215420740) [In Body and Soul](#_Toc215420741) [The Multifaceted Fruitfulness of Love](#_Toc215420742) [A Friendship Open to All](#_Toc215420743)*
 
 **[VII. Conclusion](#_Toc215420744)**
@@ -102,8 +92,6 @@ For those seeking only a brief synthesis that explains the reasons for choosing 
 9\. This *Note* will, accordingly, deepen the understanding of unity as an essential property of marriage—an objective and constitutive reality that is the primary and foundational characteristic of marriage in all its manifestations—and it will explore the various forms of that unity which enrich and strengthen the conjugal covenant. In this way, it becomes possible to see this unity not as a monolithic univocal reflection of divine unity, but as an expression of the one God who is communion in the Trinitarian relations.
 
 10\. Finally, it is hoped that this *Note* on the value of monogamy—primarily addressed to the bishops and treating a theme that is both very important and beautiful—may also be of help to married couples, engaged couples, and young people thinking about a future marriage, so they may better grasp the richness of the Christian vision of marriage. It is true that, for many, such a message may sound strange or countercultural; however, the words of Saint Augustine can be applied here*: “Give me a heart that loves, and it will understand what I am saying.”*[^11] *After all, a real passion for the beauty of conjugal love has found expression in the dedication of so many believers—men and women, clergy and laity, individually or in ecclesial groups—who have accompanied many couples on their journey through life and have also developed a spirituality and a pastoral ministry centered on marriage. For all these shining examples, one can only express* rightful *thanks.*
-
-* *
 
 **II. Monogamy in the Bible**
 
@@ -466,9 +454,9 @@ For those seeking only a brief synthesis that explains the reasons for choosing 
 145\. An integral vision of conjugal charity does not deny its fruitfulness—that is, the possibility of generating new life—because “this totality, which is required by conjugal love, also corresponds to the demands of responsible fertility.”[^232] The sexual union, as a way of expressing conjugal charity, must naturally remain open to the transmission of life,[^233] even though this does not mean that procreation must be an explicit goal of every sexual act. In fact, three legitimate situations may occur:
 
 > (*a*) Where a couple cannot have children. Karol Wojtyła explains this magnificently when he recalls that marriage “possesses an inter-personal structure: it is a union and a community of two persons. \[…\] \[The couple may be without children for a variety of reasons, but this\] in no way deprives marriage of its proper character. The inner and essential *raison d’être* of marriage is not simply its eventual transformation into a family but is, above all, the creation of a lasting personal union between a man and a woman based on love. \[…\] A marriage which, through no fault of the spouses, is childless still retains its full value as an institution. \[…\] \[Such a family\] does not lose its significance.”[^234]
->
+
 > (*b*) Where a couple does not consciously pursue a specific sexual act as a means of procreation. Wojtyła also affirms that a conjugal act, “must be an act of love, an act of unification of persons, and not merely the ‘instrument’ or ‘means’ of procreation.”[^235]
->
+
 > (*c*) Where a couple respects the natural times of infertility. Following this line of reflection, Pope Saint Paul VI states: “the Church teaches that married people may then take advantage of the natural cycles immanent in the reproductive system and engage in marital intercourse only during those times that are infertile.”[^236] This can serve not only for “spacing births,” but also to choose the most opportune moments to welcome new life. In the meantime, the couple can take advantage of such periods to “express their mutual love and safeguard their fidelity toward one another. In doing this, they certainly give proof of a true and authentic love.”[^237]
 
 146\. All of this shows the important innovation Pope Pius XI offers when he states that conjugal love “pervades all the duties of married life and holds pride of place in Christian marriage.”[^238] In this way, he helps to move beyond the discussion about the relationship between the ends or meanings of marriage (the procreative and the unitive) and the order that exists between them, by placing conjugal charity above this dialectic of ends and goods as the central issue of married life, which, in turn, gives marriage a multifaceted fruitfulness. Even in the most challenging moments, spouses can say: “We are friends, we love each other, and we value one another. We have decided to share our entire lives. We belong to one another, and we have freely chosen this union that God himself has blessed and strengthened. If at a given moment there are no children, we remain united and find fruitfulness in other ways. If at a given moment there is no sexual intercourse, we continue to live this unique, exclusive, and all-encompassing friendship, which is also our best path of growth and sanctification.”
@@ -488,11 +476,11 @@ For those seeking only a brief synthesis that explains the reasons for choosing 
 152\. The risk of a closed “we” contradicts the very nature of charity and can mortally wound it. Four factors can prevent this closed “we” from distorting and impoverishing the meaning of conjugal union:
 
 > (*a*) The spaces that each spouse has in work, personal initiatives, and moments of learning and development beyond married life. If either spouse is not employed beyond the home, it becomes necessary to create such spaces for the good of the marriage, enriching the dialogue and the relationship in general.
->
+
 > (*b*) The procreative meaning of marriage, which manifests the fruitfulness of love that is not closed to the transmission of life. For those who are unable to have children, adoption or other forms of stable support for other couples’ children can be ways of realizing this fruitfulness.
->
+
 > (*c*) The time shared with other married friends, during which—while learning from others’ experiences and receiving their support—there is a constant willingness to lend a hand in difficult moments, while also helping the couple to become more aware of themselves as a unit, thanks to their friendship with other couples.
->
+
 > (*d*) The social sense of the couple, which—faithful to the social dimension of the Christian life—seeks ways to serve society and the Church, engaging together in the pursuit of the common good: “Even large families are called to make their mark on society, finding other expressions of fruitfulness that in some way prolong the love that sustains them. \[...\] \[Families should not remain waiting within but should\] instead go forth from their homes in a spirit of solidarity with others.”[^247] “Social love, as a reflection of the Trinity, is what truly unifies the spiritual meaning of the family and its mission to others.”[^248]
 
 153\. A particular proof of the openness of a couple’s friendship toward others and the fruitfulness of their charity is manifested in their concern for the poor. As Pope Leo XIV recalls, “no Christian can regard the poor simply as a societal problem; they are part of our ‘family.’ They are ‘one of us.’”[^249] Moreover, “love for the poor—whatever the form their poverty may take—is the evangelical hallmark of a Church faithful to the heart of God.”[^250] This fact is reflected in one of the options for the Final Blessing in the *Order of Celebrating Matrimony* of the Roman Rite, which concludes with the prayer: “May you be witnesses in the world to God’s charity, so that the afflicted and needy who have known your kindness may one day receive you thankfully into the eternal dwelling of God.”[^251]

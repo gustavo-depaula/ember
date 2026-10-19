@@ -40,6 +40,4 @@ Fraternamente,
 
 *Lisbona, 5 agosto 2023, Memoria della Dedicazione della Basilica di Santa Maria Maggiore.*
 
-* *
-
 FRANCESCO

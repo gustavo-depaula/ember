@@ -6,8 +6,6 @@ LETTRE APOSTOLIQUE DU SOUVERAIN PONTIFE JEAN-PAUL II
 
 **Jean-Paul II en perpétuelle mémoire**
 
-** **
-
 1\. Parmi les tâches confiées aux Académies qui ont été fondées par les Pontifes romains au cours des siècles, la première place revient à la recherche en philosophie et en théologie.
 
 Dans ma récente Lettre encyclique *Fides et ratio* (*DC* 1998, n. 2191, p. 901-942. NDLR), j'ai attribué une grande importance au dialogue entre la théologie et la philosophie, et j'ai dit clairement combien j'apprécie la pensée de saint Thomas d'Aquin, reconnaissant sa perpétuelle nouveauté (cf. n. 43-44).
@@ -39,5 +37,3 @@ Maîtresse de vérité, l'Eglise a toujours cultivé l'étude de la théologie e
 6\. J'ordonne que tout ce que j'ai décrété dans cette Lettre, donnée *motu proprio* \[de notre propre initiative\], ait une valeur stable et durable, nonobstant toutes choses contraires.
 
 *Donné à Rome, auprès de Saint Pierre, le 28 janvier, mémoire de saint Thomas d'Aquin, de l'an 1999, XXIe année de mon pontificat.*
-
-*  *

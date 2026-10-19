@@ -1,15 +1,5 @@
 # Lumen gentium
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **BISKUP PAVEL, SLUŽEBNÍKŮ BOŽÍCH, SPOLU S OTCI POSVÁTNÉHO SNĚMU NA TRVALOU PAMÁTKU **

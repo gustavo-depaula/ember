@@ -1,15 +1,5 @@
 # "Deja que Jesús te haga libre". Carta al Arzobispo de Prešov sobre la experiencia espiritual en el monte Zvir (Litmanová, Eslovaquia)
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIO PARA LA DOCTRINA DE LA FE

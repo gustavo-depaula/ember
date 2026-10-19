@@ -1,9 +1,5 @@
 # 50th anniversary of the World Federation of Advertisers- Ethics in Advertising
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 INTERVENTION BY ARCHBISHOP JOHN P. FOLEY  
 AT THE WORLD FEDERATION OF ADVERTISERS  
 ON ITS 50TH ANNIVERSARY  
@@ -91,5 +87,3 @@ But whatever product, service or candidate you advertise and no matter how you d
 The recently beatified Mother Teresa of Calcutta, while she didn't use advertising, became an advertiser's dream. She motivated us all to be better and never to forget the poorest and apparently least members of society.
 
 She made of every day and of every action what I would hope we would wish to do with our creativity, no matter what product or service we are presenting; realize the dignity and impact of your work and make something beautiful for God.
-
-[](#top)

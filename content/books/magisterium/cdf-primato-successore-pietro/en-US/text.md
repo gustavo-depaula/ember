@@ -1,9 +1,5 @@
 # The Primacy of the Successor of Peter in the Mystery of the Church
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Congregation for the Doctrine of the Faith**
 
 ***THE PRIMACY OF THE SUCCESSOR OF PETER IN THE MYSTERY OF THE CHURCH***
@@ -171,5 +167,3 @@ When and how will the much-desired goal of the unity of all Christians be reache
 50\. John Paul II, Encyc. Let. *Ut unum sint*, n. 102.
 
 \[*L'Osservatore Romano*, Weekly Edition in English, 18 November 1998, page 5-6\]
-
-[](#top)

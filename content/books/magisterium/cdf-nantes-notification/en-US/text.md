@@ -1,9 +1,5 @@
 # Notification regarding Rev. George de Nantes, 13 May 1983
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGATION FOR THE DOCTRINE OF THE FAITH**
 
 **Notification regarding Rev. George de Nantes**
@@ -23,5 +19,3 @@ Archbishop Hamer then declared:
 3\. That the Congregation for the Doctrine of the Faith has continued to wait for the retraction of his errors and his accusations of heresy leveled against Pope Paul VI and the Second Vatican Council, a retraction that was requested after the examination of his writings, undertaken at his invitation, and in his requests of April 25^(th), April 29^(th), May 3^(rd), and July 5^(th) of 1968.
 
 4\. That, as long as this retraction has not been made, which must also include a retraction of the attacks of the same nature against the person of John Paul II, it is not possible to believe the sincerity of his desire for reconciliation which he manifested on two occasions, in 1978 and 1981, and which the Holy Father nevertheless remains disposed to receive.
-
-[](#top)

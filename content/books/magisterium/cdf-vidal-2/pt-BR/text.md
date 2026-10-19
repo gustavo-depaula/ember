@@ -1,9 +1,5 @@
 # À margem da Notificação sobre alguns escritos do R.P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 **À margem da *NOTIFICAÇÃO* da**
@@ -77,5 +73,3 @@ As mesmas razões se encontram na doutrina do Magistério sobre a fecundação a
 \(12\) Congregação para a Doutrina da Fé, Instr. Donum vitae (22 de Fevereiro de 1987), n. II, B, 5: AAS 80 (1988) 92-94. 
 
 \(13\) João Paulo II, Carta Enc. Evangelium vitae (25 de Março de 1995), nn. 58-62: AAS 87 (1995)  466-472.
-
-[](#top)

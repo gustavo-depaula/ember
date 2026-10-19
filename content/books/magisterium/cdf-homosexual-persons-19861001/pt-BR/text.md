@@ -1,9 +1,5 @@
 # Aos Bispos sobre o atendimento pastoral das pessoas homossexuaus, 1 de outubro de 1986
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA AOS BISPOS DA IGREJA CATÓLICA SOBRE O ATENDIMENTO PASTORAL DAS PESSOAS HOMOSSEXUAIS***
@@ -117,5 +113,3 @@ Ao avaliar eventuais projetos legislativos, dever-se-á pôr em primeiro plano o
 **Joseph Card. Ratzinger** *Prefeito*
 
 **+ Alberto Bovone** *Arcebispo Tit. de Cesaréia de Numídia Secr*
-
-[](#top)

@@ -1,9 +1,5 @@
 # A propósito de la Notificación sobre algunos escritos del P. Marciano Vidal, C.Ss.R.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 **A propósito de la *NOTIFICACIÓN* de la Congregación para la Doctrina de la Fe sobre algunos escritos del ** ***RVDO. P. MARCIANO VIDAL, C.Ss.R.***
@@ -71,5 +67,3 @@ Las mismas razones se encuentran en la enseñanza del Magisterio sobre la fecund
 \(12\) Congregación para la Doctrina de la Fe, Instr. Donum vitae (22 de febrero de 1987), n. II,  B, 5: AAS 80 (1988) 92-94.
 
 \(13\) Juan Pablo II, Enc. Evangelium vitae (25 de marzo de 1995), nn. 58-62: AAS 87 (1995)  466-472.
-
-[](#top)

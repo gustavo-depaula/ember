@@ -1,9 +1,5 @@
 # Komentarz do Responsa ad quaestiones
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KOMENTARZ do Responsa ad quaestiones de aliquibus sententiis ad doctrinam de Ecclesia pertinentibus**
 
 Pytania, na które pragnie dać odpowiedź Kongregacja Nauki Wiary, skupiają się na wizji Kościoła, jaką ukazują dokumenty o charakterze doktrynalnym i ekumenicznym Soboru Watykańskiego II, zwanego Soborem „Kościoła na temat Kościoła”, który – według słów Pawła VI – naznaczył «nową epokę dla Kościoła», i zasłużył się «zarysowując i odsłaniając prawdziwe oblicze Oblubienicy Chrystusowej»[^1]. W odpowiedziach nie zabrakło przywołania najważniejszych dokumentów Papieży Pawła VI i Jana Pawła II, jak również wypowiedzi samej Kongregacji Nauki Wiary, które to inspirowały coraz bardziej pogłębioną wizję Kościoła, mając na celu w wielu przypadkach wniesienie wyjaśnień do znamiennej posoborowej refleksji teologicznej, acz nie zawsze jednak wolnej od nieprawidłowości i nieścisłości.
@@ -61,8 +57,6 @@ Nowy dokument, opublikowany przez Kongregację Nauki Wiary, podejmując naukę s
 Ekumenizm katolicki może wydać się, na pierwszy rzut oka, paradoksalny. Używając pojęcia „subsistit in”, Sobór Watykański II chciał sharmonizować dwa twierdzenia natury doktrynalnej: pierwsze takie, iż Kościół Chrystusowy, pomimo podziału chrześcijan, kontynuuje swoje istnienie w pełni jedynie w Kościele katolickim i drugie, iż istnieje wielu elementów uświęcenia i prawdy poza jego widzialnym organizmem, to znaczy w Kościołach i Wspólnotach kościelnych, które nie są jeszcze w pełnej komunii z Kościołem katolickim. W tej kwestii Dekret Soboru Watykańskiego II o ekumenizmie *Unitatis redintegratio* wprowadził pojęcie *plenitudo (unitatis/catholicitatis)* właśnie po to, by pomóc zrozumieć tę sytuację, w pewnym sensie paradoksalną. Choć Kościół katolicki posiada pełnię środków zbawienia, «rozbicie między chrześcijanami jest jednak dla Kościoła zaporą na drodze do urzeczywistnienia właściwej mu pełni katolickości w tych dzieciach, które przez chrzest wprawdzie do niego przynależą, ale odłączyły się od pełnej wspólnoty (*communio*) z nim»[^16]. Chodzi więc o pełnię Kościoła katolickiego, która jest już aktualna i która zarazem musi wzrastać w braciach, którzy nie są z nim w pełnej komunii, ale także w swoich własnych synach, którzy są grzesznikami «aż do radosnego zdobycia – przez lud Boży – całej pełni wiecznej chwały w niebieskim Jeruzalem»[^17]. Rozwój tej pełni jest zakorzeniony w dynamice zjednoczenia z Chrystusem: «zjednoczenie z Chrystusem jest jednocześnie zjednoczeniem z wszystkimi, którym On się daje. Nie mogę mieć Chrystusa tylko dla siebie samego; mogę do Niego należeć tylko w jedności z wszystkimi, którzy już stali się lub staną się Jego. Komunia wyprowadza mnie z koncentracji na sobie samym i kieruje ku Niemu, a przez to jednocześnie ku jedności z wszystkimi chrześcijanami»[^18].
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Paweł VI, *Przemówienie* *na zakończenie III Sesji Soboru Watykańskiego II* (21 listopada 1964): AAS 56 (1964) 1012 .
 

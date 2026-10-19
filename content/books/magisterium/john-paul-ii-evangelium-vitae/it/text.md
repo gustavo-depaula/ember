@@ -660,8 +660,6 @@ Il comandamento del «non uccidere», anche nei suoi contenuti più positivi di 
 
 Ci è chiesto di amare e onorare la vita di ogni uomo e di ogni donna e di lavorare con costanza e con coraggio, perché nel nostro tempo, attraversato da troppi segni di morte, si instauri finalmente una nuova cultura della vita, frutto della cultura della verità e dell'amore.
 
-** **
-
 **CAPITOLO IV**
 
 **L'AVETE FATTO A ME** PER UNA NUOVA CULTURA DELLA VITA UMANA** **

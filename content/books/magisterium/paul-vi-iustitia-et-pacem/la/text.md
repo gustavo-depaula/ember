@@ -31,13 +31,13 @@ Pontificia Commissio a Iustitia et Pace est Apostolicae Sedis ministerium, cuius
 Ut haec efficere valeat, Commissio oportet:
 
 > **1.** imprimis altius pervestiget doctrinam socialem Magisterii Ecclesiae, eam opportunis adhibitis instrumentis late diffundat detque operam, ut eadem in cunctis humani convictus gradibus et ordinibus ad usum deducatur;  
->    
+
 > **2.** in unum colligat brevique comprehendat studia ad populorum progressionem, pacem, iustitiam, hominum iura spectantia, rationem habens ingenii cultus, morum, educationis, rei oeconomicae et socialis, ea ex doctrina theologica aestimet ac deinde inquirat, quomodo ea, quae collecta sunt, adiuvare valeant actionem pastoralem et officium, quo christiani impensius se astringant variis in condicionibus sive locorum sive nationum sive internationalis consortionis;  
->    
+
 > **3.** notos faciat fructus studiorum, scriptionum collectarum et inquisitionum omnibus institutis Ecclesiae, ad quae res pertinet et a quibus omnia scitu utilia colligat; nominatim, ad haec quod attinet, Commissio continenter et organico, ut aiunt, modo cum Conferentiis episcopalibus agat; per has vel de earundem consensu certiora reddat cunctisque, quibus potest, viribus adiuvet instituta ad has easdem quaestiones investigandas condita — Commissiones a Iustitia et Pace nationales aliasque — quae secundum statuta a Conferentiis episcopalibus definita aut approbata operantur; **4.** dicasteria aliaque Apostolicae Sedis ministeria, quorum huiusmodi quaestiones intersunt, constanter contingat, ea mente ut illa de rebus adiumento suo praesto sit in compositione aptarum dispositarumque agendi rationum; praedicta vero instituta vicissim sententiam Commissionis exquirere possunt de cunctis rebus, quae ad Commissionem a Iustitia et Pace spectant; huic demum ordinaria sit necessitudo cum Secretaria Status seu Papali, quae ei aptas tradet normas directorias;  
->   
+
 > **5.** sociata opera cum iisdem Dicasteriis ministeriisque, fructus studiorum suppeditet aliis coetibus vel institutis intra fines Ecclesiae exsistentibus, veluti Ordinibus et Congregationibus religiosis, consociationi us catholicis internationalibus; eodem modo se gerat cum coetibus et personis, quae sint extra limina Ecclesiae et cum quibus Apostolicae Sedis Dicasteria ministeriaque suetam habeant necessitudinem, cuius modi sunt aliae Ecclesiae et communitates christianae, religiones non christianae, consociationes vel procurationes, quae ad idem hoc propositum assequendum operam conferunt;  
->   
+
 > **6.** cognoscere studeat repulsas iustitiae, iurium humanorum laesiones, iniustitias, quae in *concretis* rerum condicionibus accidant, atque modo obiectivo et pleno de iisdem se certiorem facere; significet christianam solidamque coniunctionem cum iis, qui propter iniustitiam dolent, quotiescumque gravitas condicionis vel factorum id suadeat et postquam ipsi cum Secretaria Status de quavis declaratione vel inceptu convenit.
 
 **III.**

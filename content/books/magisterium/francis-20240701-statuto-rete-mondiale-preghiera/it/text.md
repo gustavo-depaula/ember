@@ -6,8 +6,6 @@ FONDAZIONE VATICANA
 
 STATUTO
 
-** **
-
 **PREAMBOLO**
 
 La Rete Mondiale di Preghiera del Papa (in seguito RMPP), si è sviluppata dall’iniziativa originale dell’Apostolato della Preghiera, il quale, nato in Francia nel 1844, da P. François-Xavier Gautrelet, S.J., e inizialmente indirizzato ai giovani Gesuiti durante la formazione iniziale, si espanse velocemente come apostolato di preghiera per la missione della Chiesa, raggiungendo allora circa 13 milioni di soci in molti Paesi. Successivamente, nel 1915, nascerà la sua sezione giovanile la Crociata Eucaristica, oggi Movimento Eucaristico Giovanile.

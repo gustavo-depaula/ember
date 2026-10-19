@@ -86,7 +86,3 @@ Das ist also heute mit Gottes Hilfe und unter dem Beifall der Gesamtkirche gesch
 *Gegeben zu Rom bei Sankt Peter, mit dem Siegel des Fischers, am 7. Oktober 2012, dem achten Jahr Unseres Pontifikats.*
 
 **BENEDIKT XVI.**
-
-**** ** **
-
-**  **

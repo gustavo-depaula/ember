@@ -1,9 +1,5 @@
 # Überlegungen zu Zielsetzung und Methoden der Kommission - Internationale Theologische Kommission
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 Internationale Theologische Kommission
 
 **Überlegungen zu Zielsetzung und Methoden der Kommission**
@@ -48,5 +44,3 @@ Weitere Themen sollen später behandelt werden.
 ¹ Vgl. Vorläufige Statuten der Internationalen Theologischen Kommission: *AAS* 61 (1969) 540-541; Paul VI., *Ansprache an die Internationale Theologische Kommission* (6. Oktober 1969): *AAS* 61 (1969) 713-716.
 
  **  **
-
-[](#top)

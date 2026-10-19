@@ -21,5 +21,3 @@ In the midst of the serious concerns whichdistress Us more daily on account of t
 *Given in Rome at St. Peter's, 16 May 1901, in the 24th year of OurPontificate.*
 
 **LEO XIII**
-
-*          *

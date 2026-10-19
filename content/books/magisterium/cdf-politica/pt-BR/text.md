@@ -1,9 +1,5 @@
 # Nota doutrinal sobre algumas questões relativas à participação e comportamento dos católicos na vida política
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***NOTA DOUTRINAL* sobre algumas questões relativas à participação e comportamento dos católicos na vida política**
@@ -77,8 +73,6 @@ Roma, sede da Congregação para a Doutrina da Fé, 24 de Novembro de 2002, Sole
 *Arcebispo emérito de Vercelli Secretário*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Carta a Diogneto, 5.5. Cfr. também *Catecismo da Igreja Católica*, n. 2240.
 

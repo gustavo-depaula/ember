@@ -1,9 +1,5 @@
 # Inspiration und Wahrheit der Heiligen Schrift - Päpstliche Bibelkommission
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 PÄPSTLICHE BIBELKOMMISSION
 
 **INSPIRATION UND WAHRHEIT DER HEILIGEN SCHRIFT**
@@ -1572,5 +1568,3 @@ Nach heutigem Wissen und Empfinden gibt es beträchtliche Vorbehalte gegen die G
 Das vorliegende Dokument der Päpstlichen Bibelkommission behandelt einige Probleme, die dem heutigen Leser Schwierigkeit machen, und schlägt im Rahmen unseres Glaubens Wege zu einer möglichen Auslegung vor. Die kurze Behandlung kann nicht immer befriedigen, aber die angegebenen hermeneutischen Prinzipien und einige Hinweise zu bestimmten Fragen können nützlich sein.
 
 Es geht nicht so sehr um eine endgültige und erschöpfende Untersuchung schwieriger Probleme im Text der Bibel, als vielmehr um das Aufzeigen einer Hermeneutik und die Anregung zu weiterem Nachdenken, im Dialog mit anderen Interpreten des heiligen Textes. In der gemeinsamen Anstrengung des Suchens ist der Weg zur Wahrheit von mehr Demut und mehr Licht begleitet, da er vom gemeinsamen Hören auf denselben Geist bestimmt ist.
-
-[](#top)

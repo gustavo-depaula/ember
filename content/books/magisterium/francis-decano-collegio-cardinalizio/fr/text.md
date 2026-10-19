@@ -8,8 +8,6 @@ DU SOUVERAIN PONTIFE
 
 **RELATIF À LA CHARGE DU DOYEN DU COLLÈGE CARDINALICE**
 
-* *
-
 Au cours des siècles, les pontifes romains ont adapté aux besoins de leur époque la composition du Collège des pères cardinaux, appelé en particulier à faire le nécessaire pour l’élection du Pasteur suprême de l’Eglise et à l’assister dans le traitement des questions les plus importantes dans la gestion quotidienne de l’Eglise universelle.
 
 Le [saint Pape Paul VI](http://www.vatican.va/content/paul-vi/fr.html), d’éternelle mémoire, par le *Motu Proprio* du 11 février 1965, avait élargi la composition dudit Collège des cardinaux, en appelant à en faire partie, dans l’Ordre des évêques, outre les titulaires des sièges suburbicaires de Rome, également les patriarches orientaux qui recevraient la dignité cardinalice (cf. *[Ad Purpuratorum Patrum Collegium](http://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19650211_ad-purpuratorum.html)*, AAS, 57 \[1965\], 295-296).

@@ -1,9 +1,5 @@
 # Lettera agli Ordinari riguardante le norme sugli esorcismi, 24 settembre 1985
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **Congregazione per la Dottrina della Fede**
 
 **Lettera agli Ordinari riguardante le norme sugli esorcismi**
@@ -31,7 +27,3 @@ Colgo l'occasione per attestarle i sensi della più viva stima,
 **Joseph Card. Ratzinger** * Prefetto*
 
 ***+* Alberto Bovone** * Segretario*
-
-*    *
-
-[](#top)

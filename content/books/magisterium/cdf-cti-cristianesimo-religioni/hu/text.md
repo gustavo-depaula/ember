@@ -1,13 +1,5 @@
 # A kereszténység és a vallások - A Nemzetközi Teológiai Bizottság dokumentuma, 1997
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **A kereszténység és a vallások**  
@@ -350,8 +342,6 @@ A vallásközi párbeszéd elnyeri jelentését az üdvösség rendjében. Több
 116\. Az Ige képessé tehet arra, hogy megismerjük az Atyát, mert mindent tőle tanult, és elfogadta, hogy mindent megtanuljon az emberről. Ennek végbe kell mennie az egyház azon tagjaiban, akik találkozni akarnak más vallású testvéreikkel és párbeszédet akarnak folytatni velük. Nem egyes keresztényeknek van küldetésük, hanem az egyháznak; nem a maguk gondolatait tárják elő, hanem Krisztuséit; nem az ő szónoki képességük fogja megérinteni a szíveket, hanem a Vigasztaló Szentlélek. A vallásközi párbeszédnek –  hogy hűséges legyen az „egyházi érzékhez” –  szüksége van Krisztus alázatosságára és a Szentlélek áttetszőségére.
 
 117\. A párbeszéd isteni pedagógiája nemcsak szavakból, hanem tettekből is áll; a szavak kinyilvánítják a „keresztény újdonságot”, az Atya szeretetét, amiről a tettek tanúskodnak. Az egyház, ha így jár el, akkor úgy mutatkozik meg, mint az üdvösség misztériumának szentsége. Ebben az értelemben a vallásközi párbeszéd részét alkotja a praeparatio evangelica-nak, az Atya által meghatározott idők és pillanatok szerint. A különböző vallású személyek közötti párbeszéd valójában magával vonja a kölcsönös tanúságtételt. A keresztény tanúságtétel viszont itt nem az evangélium hirdetése, hanem már az egyház missziójának szerves része, amennyiben a Szentlélek által szeretetet sugároz. Akik a vallásközi párbeszéd különböző szintjein tanúságot tesznek Krisztus, az Üdvözítő szeretetéről, azok a praeparatio evangelica szintjén felismerik az apostol égő vágyát: „Krisztus Jézus szolgájának kell lennem a pogányok közt és Isten evangéliumának szent szolgálatát kell végeznem, hogy a pogány népek a Szentlélektől megszentelt kedves áldozati ajándékká váljanak” (Róm 15,16).
-
-* *
 
 ------------------------------------------------------------------------
 

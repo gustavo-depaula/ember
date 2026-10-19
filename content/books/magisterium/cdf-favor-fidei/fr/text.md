@@ -1,9 +1,5 @@
 # Normes pour instruire le procès en dissolution du lien matrimonial en faveur de la foi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 **NORMES POUR INSTRUIRE LE PROCÈS EN DISSOLUTION DU LIEN MATRIMONIAL EN FAVEUR DE LA FOI**
@@ -198,5 +194,3 @@ Art. 25
 § 1. L’évêque transmettra à la Congrégation pour la Doctrine de la Foi trois exemplaires dactylographiés de tous les actes, en même temps que son *votum* et les remarques du défenseur du lien, le tout accompagné d’un index des matières et d’un sommaire.
 
 § 2. On veillera aussi à ce que les actes rédigés dans la langue et le style local soient traduits dans l’une des langues reconnues dans le règlement de la Curie Romaine, accompagnés de la déclaration sous serment de leur transcription et traduction fidèles.
-
-[](#top)

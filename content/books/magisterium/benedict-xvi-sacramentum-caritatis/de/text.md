@@ -45,7 +45,7 @@ Der eucharistische Glaube der Kirche \[6\]
 **[Eucharistie und Sakramente](#Eucharistie_und_Sakramente)**
 
 > Die Sakramentalität der Kirche \[16\]
->
+
 > > I. Eucharistie und christliche Initiation  
 > > Eucharistie, Fülle der christlichen Initiation \[17\]  
 > > Die Reihenfolge der Initiationssakramente \[18\]  

@@ -1,9 +1,5 @@
 # Decreto General relativo al delito de atentada ordenación sagrada de una mujer
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **DECRETO GENERAL *relativo al delito de atentada ordenación sagrada de una mujer***
@@ -26,5 +22,3 @@ Arzobispo titular de Sila Secretario
 *Secretario*
 
 *In Congr. pro Doctrina Fidei tab., n. 337/02*
-
-[](#top)

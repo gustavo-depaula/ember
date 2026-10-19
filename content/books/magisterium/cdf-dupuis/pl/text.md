@@ -1,16 +1,10 @@
 # NOTA NA TEMAT KSIĄŻKI JACQUES'A DUPUIS «KU CHRZEŚCIJAŃSKIEJ TEOLOGII PLURALIZMU RELIGIJNEGO»
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **NOTA NA TEMAT KSIĄŻKI JACQUES'A DUPUIS «KU CHRZEŚCIJAŃSKIEJ TEOLOGII PLURALIZMU RELIGIJNEGO»**
 
 **(Ed. Queriniana, Brescia 1997)**
-
-** **
 
 **Wprowadzenie**
 
@@ -93,5 +87,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 24 stycznia 2001 r., w dniu liturgicz
 16. Por. Sobór Watykański II, Konst. dogm. Lumen gentium, 16; Dekl. Nostra aetate, 2; Dekret Ad gentes, 9; por. także Paweł VI, Adhort. apost. Evangelii nuntiandi, 53: AAS 68(1976), 5-76; Jan Paweł II, Enc. Redemptoris missio, 55; Kongregacja Nauki Wiary, Dekl. Dominus Iesus, 8.
 
 17\. Por. Sobór Trydencki, Dekret De libris sacris et de traditionibus recipiendis: Denz. n. 1501; Sobór Watykański I, Konst. dogm. Dei Filius, rozdz. 2: Denz. n. 3006; Kongregacja Nauki Wiary, Dekl. Dominus Iesus, 8.
-
-[](#top)

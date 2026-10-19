@@ -1,9 +1,5 @@
 # Circular Letter on Religious Education in Schools - Congregation for Catholic Education
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR CATHOLIC EDUCATION
 
 ***CIRCULAR LETTER TO THE PRESIDENTS OF BISHOPS' CONFERENCES ON RELIGIOUS EDUCATION IN SCHOOLS***
@@ -113,5 +109,3 @@ Yours in the Lord,
 **Zenon Card. GROCHOLEWSKI,** *Prefect*
 
 **+Jean-Louis BRUGUÈS, O.P.,** *Secretary*
-
-[](#top)

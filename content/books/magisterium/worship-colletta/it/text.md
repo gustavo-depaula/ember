@@ -1,9 +1,5 @@
 # Colletta
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 ***SAN*** ***GIOVANNI PAOLO II, PAPA***
@@ -21,5 +17,3 @@ alla grazia salvifica di Cristo, unico Redentore dell’uomo.
 Egli è Dio e vive e regna con te,  
 nell’unità dello Spirito Santo,  
 per tutti i secoli dei secoli.
-
-[](#top)

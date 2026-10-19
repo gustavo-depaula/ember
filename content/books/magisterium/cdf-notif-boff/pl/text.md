@@ -1,14 +1,8 @@
 # INFORMACJA O KSIĄŻCE O. LEONARDO BOFFA OFM CHIESA: CARISMA E POTERE. SAGGIO DI ECCLESIOLOGIA MILITANTE
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary   **
 
 **INFORMACJA O KSIĄŻCE O. LEONARDO BOFFA OFM CHIESA: CARISMA E POTERE. SAGGIO DI ECCLESIOLOGIA MILITANTE(1)**
-
-** **
 
 **WPROWADZENIE**
 
@@ -75,5 +69,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 11 marca 1985 r.
 **+ ALBERTO BOVONE** *Abp tyt. Cezarei Numidyjskiej Sekretarz*
 
 1\. Tytuł oryginalny: Igreja: Carisma e Poder, Vozes, Petrópolis 1981. Cytaty w niniejszej Informacji odnoszą sią do tłumaczenia włoskiego: Chiesa: Carisma e Potere, Borla, Roma 1983.
-
-[](#top)

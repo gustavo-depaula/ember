@@ -47,5 +47,3 @@ As I join you in these days of grace, I cordially impart my Apostolic Blessing t
 *From the Vatican, 13 May, Solemnity of the Ascension of the Lord, 1999.*
 
 **JOHN PAUL II**
-
-** **

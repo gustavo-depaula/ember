@@ -1,15 +1,5 @@
 # Mater Populi fidelis - Nota doutrinal sobre alguns títulos marianos referidos à cooperação de Maria na obra da Salvação
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÉRIO PARA A DOUTRINA DA FÉ
@@ -26,19 +16,19 @@ DICASTÉRIO PARA A DOUTRINA DA FÉ
 *[Títulos referidos à cooperação de Maria na Salvação](#Titulos_referidos)*
 
 > **[Corredentora](#Corredentora)**
->
+
 > **[Medianeira](#Medianeira)**
->
+
 > > *[Maria na mediação única de Cristo](#Maria_na_mediacao_unica_de_Cristo)*  
 > > *[Fecundos em Cristo glorioso](#Fecundos_em_Cristo_glorioso)*
->
+
 > **[Mãe dos fiéis](#Mae_dos_fieis)**
->
+
 > > *[Intercessão](#Intercessao)*  
 > > *[Proximidade materna](#Proximidade_materna)*
->
+
 > **[Mãe da graça](#Mae_da_graca)**
->
+
 > > *[Lá onde só Deus pode chegar](#La_onde_so_Deus_pode_chegar)*  
 > > *[Água viva que jorra](#Agua_viva_que_jorra)*  
 > > *[Amor que se comunica no mundo](#Amor_que_se_comunica_no_mundo)*  
@@ -50,8 +40,6 @@ DICASTÉRIO PARA A DOUTRINA DA FÉ
 *[Mãe do Povo fiel](#Mae_do_Povo_fiel)*
 
 > *[O amor detém-se, contempla o mistério, desfruta en silencio](#O_amor_detem-se)*
-
-* *
 
 *Apresentação*
 
@@ -237,9 +225,9 @@ c\) A Igreja não é somente um ponto de referência para a maternidade espiritu
 65\. Qualquer outro modo de compreender esta cooperação de Maria na ordem da graça, especialmente se se pretende atribuir-lhe alguma forma de intervenção ou de instrumentalidade perfectiva ou de causa secundária na comunicação da graça santificante,[^164] deveria prestar especial atenção a alguns critérios já indicados na Constituição dogmática *[Lumen gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html)*:
 
 > a\) Devemos refletir sobre o modo como Maria pode favorecer a nossa união «imediata»[^165] com o Senhor, que Ele mesmo realiza ao conferir a graça que só de Deus podemos receber,[^166] sem entender, porém, a união com Maria como mais imediata do que aquela com Cristo. Este risco está presente, sobretudo, na ideia de que Cristo nos entrega Maria como um instrumento ou causa secundária perfectiva na comunicação de sua graça.
->
+
 > b\) O Concílio Vaticano II sublinhou que «todo o influxo salvador da Virgem Santíssima sobre os homens se deve ao beneplácito divino e não a qualquer necessidade».[^167] Este influxo pode pensar-se apenas a partir da livre decisão de Deus que, apesar da sua própria ação ser transbordante e superabundante, quer associar – livre e gratuitamente – Maria à sua obra. Por isso, não é lícito apresentar a ação de Maria como se Ele necessitasse dessa ação para operar a Salvação.
->
+
 > c) Devemos entender a mediação de Maria não como um complemento, para que Deus possa operar plenamente, com maior riqueza e beleza, mas «de maneira que nada tire nem acrescente à dignidade e eficácia do único mediador, que é Cristo».[^168] Ao explicar a mediação de Maria, deve ressaltar-se que Deus é o único Salvador que aplica de modo exclusivo os méritos de Jesus Cristo, os únicos necessários e completamente suficientes para a nossa justificação. Maria não substitui o Senhor em algo que ele não faça (não subtrai nem acrescenta). Se, na comunicação da graça, ela não acrescenta nada à mediação salvífica de Cristo, não deve pensar-se em Maria como instrumento primário dessa doação.[^169] Se ela acompanha uma ação de Cristo, por obra do mesmo Cristo, de modo nenhum isto deve ser entendido como uma ação paralela. Ou melhor, sendo associada a Ele, é Maria que recebe do seu Filho um presente que a situa mais além de si mesma, porque é-lhe concedido acompanhar a obra do Senhor com seu caráter materno. Voltemos então ao ponto mais seguro: a contribuição *dispositiva* de Maria, a partir da qual pode pensar-se numa ação em que ela contribua com algo próprio, na medida em que «pode dispor de algum modo»[^170] aos outros. Porque «pertence à potência suprema conduzir ao fim último, enquanto as potências inferiores ajudam à consecução deste fim *dispondo*».[^171]
 
 66\. Tudo o que foi dito anteriormente não ofende ou humilha Maria, porque todo o seu ser reporta ao seu Senhor. «A minha alma glorifica o Senhor» (*Lc* 1, 46). Para ela não existe outra glória que a de Deus. Sendo Mãe, duplica a sua alegria vendo como Cristo manifesta a beleza inesgotável e superabundante de sua glória curando, transformando e enchendo de si o coração desses filhos, *que ela acompanhou no seu caminho até ao Senhor.* Portanto, um olhar dirigido a ela que nos distraia de Cristo, ou a coloque no mesmo nível do Filho de Deus, ficaria fora da dinâmica própria de uma fé autenticamente mariana.

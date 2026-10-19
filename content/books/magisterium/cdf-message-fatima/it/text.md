@@ -1,9 +1,5 @@
 # Il Messaggio di Fatima
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE  
 PER LA DOTTRINA DELLA FEDE   
 
@@ -212,8 +208,6 @@ La benedizione impartita a nome del Santo Padre chiude l'incontro.  
 COMUNICAZIONE DI SUA EMINENZA IL CARD. ANGELO SODANO  
 SEGRETARIO DI STATO DI SUA SANTITÀ* *
 
-* *
-
 *Al termine della solenne Concelebrazione Eucaristica presieduta da Giovanni Paolo II a Fatima, il Cardinale Angelo Sodano, Segretario di Stato, ha pronunciato in portoghese le parole che qui riportiamo nella traduzione italiana.*  
 
 Fratelli e sorelle nel Signore!  
@@ -298,8 +292,6 @@ Vorrei alla fine riprendere ancora un'altra parola chiave del « segreto » dive
 
 ***NOTE**  *
 
-*  *
-
 \(1\) Dal diario di Giovanni XXIII, 17 agosto 1959: « Udienze: P. Philippe, Commissario del S.O. che mi reca la lettera contenente la terza parte dei segreti di Fatima. Mi riservo di leggerla col mio Confessore ».   
 
 \(2\) E da ricordare il commento che il Santo Padre fece nell'Udienza Generale del 14 ottobre su « L'evento di maggio: grande prova divina » in *Insegnamenti di Giovanni Paolo II*, IV, 2, Città del Vaticano 1981, 409-412. 
@@ -315,5 +307,3 @@ Vorrei alla fine riprendere ancora un'altra parola chiave del « segreto » dive
 \(7\) Nella citata « quarta memoria » Suor Lucia aggiunge: « In Portogallo si conserverà sempre il dogma della fede, ecc. ».  
 
 \(8\) Nella traduzione si è rispettato il testo originale anche nelle imprecisioni di punteggiatura, che peraltro non impediscono la comprensione di quanto la veggente ha voluto dire.*  *
-
-[](#top)

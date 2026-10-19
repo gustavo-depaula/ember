@@ -829,5 +829,3 @@ Mit meinem apostolischen Segen!
 \[137\] Vgl. *Sermo* 25, 7: *PL* 46, 937‑938.
 
 \[138\] *Mt* 28, 19.
-
-* *

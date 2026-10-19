@@ -1,9 +1,5 @@
 # Istruzione circa le preghiere per ottenere da Dio la guarigione - Cong. per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE  **
 
 *** ISTRUZIONE CIRCA LE PREGHIERE PER OTTENERE DA DIO LA GUARIGIONE  ***
@@ -194,5 +190,3 @@ Arciv. emerito di Vercelli, 
 \(31\) Cfr. CONGREGATIO PRO DOCTRINA FIDEI, Epistula *Inde ab aliquot annis*, Ordinariis locorum missa: in mentem normae vigentes de exorcismis revocantur, 29 septembris 1985, AAS 77(1985), pp. 1169-1170.
 
 \(32\) Cfr. *Rituale Romanum*, Ex Decreto Sacrosancti Oecumenici Concilii Vaticani II instauratum, Auctoritate Ioannis Pauli II promulgatum, *De Exorcismis et Supplicationibus quibusdam*, Editio typica, Typis Vaticanis MIM, *Praenotanda*, nn. 13- 19.
-
-[](#top)

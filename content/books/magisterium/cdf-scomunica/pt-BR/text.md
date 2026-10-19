@@ -1,9 +1,5 @@
 # Decreto de excomunhão a senhoras católicas, 5 de agosto de 2002
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 DECRETO DE EXCOMUNHÃO \*
@@ -25,5 +21,3 @@ Ao cumprir esta intervenção obrigatória, a Congregação confia que elas, aju
 **D. Tarcísio BERTONE, S.D.B.** * Secretário*
 
 \* *L’Osservatore Romano*, ed. port., n. 32, 10 de Agosto de 2002, pág. 7.
-
-[](#top)

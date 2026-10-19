@@ -1,15 +1,5 @@
 # Presbyterorum ordinis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dekret  o službě a životě kněží**
@@ -19,8 +9,6 @@
 **BISKUP PAVEL, SLUŽEBNÍKŮ BOŽÍCH, SPOLU S OTCI POSVÁTNÉHO SNĚMU NA TRVALOU PAMÁTKU**
 
 **PŘEDMLUVA**
-
-**   **
 
 **ODŮVODNĚNÍ DEKRETU O KNĚŽÍCH**
 

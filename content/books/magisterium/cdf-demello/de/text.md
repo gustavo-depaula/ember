@@ -1,9 +1,5 @@
 # Notifikation über die Schriften von P. Anthony de Mello SJ - Kongregation für die Glaubenslehre
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**
 
 ***NOTIFIKATION ÜBER DIE SCHRIFTEN VON  P. ANTHONY DE MELLO SJ\****
@@ -27,5 +23,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, dem 24. Juni 1998, am Hoch
 \+ **Tarcisio Bertone SDB** *Erzbischof em. von Vercelli Sekretär*
 
 \* *L’Osservatore Romano*, Wochenausgabe in deutscher Sprache, Nr. 35, 28. August 1998, Seite 3 (*AAS* 90 \[1998\], S. 833-834).
-
-[](#top)

@@ -1,13 +1,5 @@
 # Teología-Cristología-Antropología 1982
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL
@@ -133,17 +125,17 @@ El que Jesucristo tiene su origen del Padre no se ha deducido mediante una refle
 3\. La investigación bíblica ha demostrado cómo se ha desarrollado este dato original paulatinamente y de modos diversos ya dentro de los límites del Nuevo Testamento. Así ha puesto de manifiesto el significado propio de la preexistencia de Jesucristo:
 
 > — La elección y predestinación eterna de Jesucristo (cf. Ef 1, 3-7. 10s; 1 Pe 1, 20).
->
+
 > — La misión del Hijo de Dios en el mundo y en la carne (cf. Gál 4, 4; Rom 8, 3s; 1 Tim 3, 16, Jn 3, 16s).
->
+
 > — La *kénosis*, encarnación, muerte y exaltación gloriosa de Jesucristo como pasos de su descenso del Padre, todos los cuales muestran la importancia soteriológica y salvífica del acontecimiento de Jesucristo (cf., además, Flp 2, 6-11).
->
+
 > — Jesucristo estuvo presente y actuó, de modo escondido, ya en la historia del Pueblo de Israel (cf. 1 Cor 10, 1-4; Jn 1, 30; 8, 14. 58).
->
+
 > — Jesucristo, mediador de la creación, también conserva el mundo en el ser, y es además cabeza del cuerpo de la Iglesia y reconciliador de todas las cosas (cf. 1 Cor 8, 6; Col 1, 15ss; Jn 1, 1-3. 17; Heb 1, 2s). Todos los mediadores que parecían poseer una significación salvífica propia, o son suprimidos o sólo pueden entenderse como subordinados; Jesucristo tiene una potencia absoluta sobre todas las otras mediaciones y constituye, en su obra y en su persona, el acontecimiento escatológico.
->
+
 > — Jesucristo posee el primado cósmico Y comunica a todos la redención, que se concibe como una nueva creación (cf. Col 1, 15ss; 1 Cor 8, 6; Heb 1, 2s; Jn 1, 2).
->
+
 > — La sumisión de las potestades malas comienza con la exaltación de Jesucristo (cf. Flp 2, 10, Col 1, 16. 20).
 
 4\. El concepto postbíblico de «preexistencia» contiene, por tanto, muchos elementos cristológicos. Aunque, en cuanto a su realidad, está fundado en la Sagrada Escritura, sin embargo la «preexistencia» no se menciona en sí misma separadamente, y así no constituye el único fin de los enunciados del Nuevo Testamento. Es un concepto sistemático, que reduce a síntesis muchos significados teológicos. En muchas afirmaciones es principalmente el trasfondo, el presupuesto y la razón de otros temas que se pretenden. Por ello, de la misma manera que no basta el mero uso formal del término, tampoco debe emplearse unívoca, sino analógicamente, y así con cuidado del contexto y de los diversas riquezas materiales ya expuestas. El concepto de «preexistencia», aunque tenga un uso múltiple, no significa una «interpretación», en último término, subjetiva, sino que connota el verdadero origen ontológico y, por cierto, intemporal de Jesucristo, origen que también se manifiesta en su conciencia, como ya hemos dicho. Pero la «preexistencia» en sentido bíblico no pretende expresar solamente que Cristo es coeterno con Dios, sino que connota todo el movimiento y el misterio cristológicos que, comenzando desde el ser con Dios Padre, implica la *kénosis* y la encarnación, la muerte infamante en la cruz y la exaltación gloriosa, y testifica, por último, la redención de todos los hombres, el primado sobre la Iglesia y la reconciliación universal y cósmica. Todo esto se presenta en la perspectiva universal soteriológica y «staurológica». Casi todos los enunciados de la preexistencia de Jesucristo aparecen en un contexto de himnos y de ahí presentan el estilo de profesión y alabanza, nacidos de la experiencia de la presencia del Señor en la Iglesia. Esta índole soteriológica y doxológica, que no niega su significado verdaderamente «ontológico» pone unos claros límites a aquellas formas de especulación acerca de la preexistencia que no observan estas propiedades.

@@ -1,9 +1,5 @@
 # Notificazione su alcune pubblicazioni del Prof. Dr.Reihard Messner
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***NOTIFICAZIONE* su alcune pubblicazioni del *Prof. Dr. REINHARD MEßNER***
@@ -11,8 +7,6 @@
 *Come risulta dalla seguente «Notificazione», la Congregazione per la Dottrina della Fede, in conformità con il suo* Regolamento per l’esame delle dottrine*, ha esaminato alcune opere del Professor Dr. Reinhad Meßner (Innsbruck/Austria), che trattano aspetti fondamentali della fede e della vita sacramentale della Chiesa. La procedura d’esame si conclude ufficialmente con la pubblicazione di questa «Notificazione», che è stata prima presentata al Professor Meßner e da lui accettata. Con la firma del testo l’autore si è impegnato per il futuro ad attenersi ai chiarimenti contenuti nella «Notificazione». Essi saranno criterio vincolante per la sua attività teologica e per le sue future pubblicazioni teologiche.*
 
 **INTRODUZIONE**
-
-*** ***
 
 Il Professor Dr. Reinhard Meßner affronta nelle sue pubblicazioni, soprattutto nella sua dissertazione «Die Meßreform Martin Luthers und die Eucharistie der Alten Kirche. Ein Beitrag zu einer systematischen Liturgiewissenschaft» (Innsbruck-Wien 1989), difficili problemi di teologia fondamentale, come ad esempio il rapporto fra interpretazione della Scrittura e metodo storico-critico, fra Scrittura e Tradizione, fra Magistero e suo oggetto, fra liturgia e dogma. Questi problemi, a cui nel tempo della Riforma si diedero risposte contrastanti che furono fra le cause essenziali della divisione ecclesiale, devono oggi di fatto essere ripensati in considerazione delle nuove importanti acquisizioni di carattere sia metodologico che contenutistico, non ultimo però alla luce delle opzioni del Concilio Vaticano II. La discussione teologica, che comporta sia possibilità di migliore comprensione fra le diverse confessioni, come anche pericoli di nuovi malintesi, è in pieno corso e può solo essere incoraggiata dal Magistero della Chiesa cattolica. Molte questioni sono ancora aperte e necessitano di un ulteriore ed attento esame per raggiungere le necessarie chiarificazioni. Lo scritto summenzionato di Meßner offre al riguardo valide stimolazioni, che devono essere valutate come un contributo positivo alla discussione in atto.
 
@@ -52,13 +46,9 @@ LE FONTI DELLA FEDE
 
 6\. Le «tradizioni», delle quali parlano il Concilio Vaticano I[^7] ed anche «Dei verbum» (Nr. 8), sono elementi particolari della «Tradizione».[^8] Accanto a queste nella Chiesa cattolica sono sempre esistite usanze antiche («tradizioni» nel senso più vasto), che non sono vincolanti, ma mutabili.
 
-** **
-
 **  Il Magistero**
 
 7\. Nell’interpretazione della Parola di Dio, trasmessa nella Scrittura e nella Tradizione, un ruolo importante compete alla scienza teologica. Supera le possibilità della teologia spiegare la Parola di Dio in modo vincolante per la fede e la vita della Chiesa. Questo compito è affidato al Magistero vivente della Chiesa.[^9] Il Magistero non è al di sopra della Parola di Dio, ma la serve. Esso però è al di sopra delle spiegazioni della Parola di Dio, in quanto giudica se una tale spiegazione corrisponde o meno al senso tramandato della Parola di Dio.1[^10]
-
-** **
 
 **La Liturgia**
 
@@ -67,8 +57,6 @@ LE FONTI DELLA FEDE
 9\. Fra le forme magisteriali della definizione della fede (Regula fidei, Symbolum, Dogma) e la loro attualizzazione nella liturgia non può pertanto esservi nessuna contraddizione. La fede definita è vincolante per ogni liturgia, per l’interpretazione e per nuove formulazioni della liturgia.  
 
 **II SULLA DOTTRINA DI FEDE CIRCA I SACRAMENTI**
-
-** **
 
 **L’istituzione dell’Eucaristia**
 
@@ -84,8 +72,6 @@ LE FONTI DELLA FEDE
 
 14\. Il Concilio Vaticano II afferma: il sacerdote ministeriale «con la potestà sacra di cui è investito» compie il sacrificio eucaristico in persona di Cristo.1[^18]
 
-** **
-
 **L’Eucaristia e la fede**
 
 15\. Lo Spirito Santo per mezzo del sacerdote consacrato e le parole di Cristo da lui pronunciate rendono presenti il Signore ed il suo sacrificio.1[^19]
@@ -100,8 +86,6 @@ Non per suo potere e non per un incarico umano, ad esempio da parte della comuni
 
 Roma, dalla Sede della Congregazione per la Dottrina della Fede, il 30 novembre 2000.
 
-* *
-
 \+ Joseph Card. RATZINGER  
 *Prefetto*
 
@@ -110,8 +94,6 @@ Roma, dalla Sede della Congregazione per la Dottrina della Fede, il 30 novembre 
 ------------------------------------------------------------------------
 
 I Padri del Concilio di Trento erano ben consapevoli della differenza fra «Tradizione apostolica» e «tradizioni» della Chiesa. Essi avevano ben chiaro anche, ad es. nel Decreto sul Sacramento della Penitenza, che esse accanto a contenuti di fede rivelata, attinta alla Scrittura e alla Tradizione, presentavano anche altre convinzioni e usanze, che non derivavano dalla rivelazione. I Padri del Concilio hanno anche distinto fra “Tradizione” e usanze di fatto cattolico-romane. Storicamente non è neppure sostenibile che Trento si sia sempre e soltanto indirizzato contro presunte dottrine false dei Riformatori.
-
-[](#top)
 
 [^1]: «Itaque praedicatio apostolica, quae in inspiratis libris in speciali modo exprimitur…» (Concilio Vaticano II, *Dei Verbum* 8).
 

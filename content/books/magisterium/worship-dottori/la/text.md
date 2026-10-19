@@ -1,15 +1,5 @@
 # DECRETUM De celebrationibus sancti Gregorii Narecensis, abbatis et Ecclesiæ doctoris, sancti Ioannis De Avila, presbyteri et Ecclesiæ doctoris, et sanctæ Hildegardis Bingensis, virginis et Ecclesiæ doctoris, in Calendario Romano generali inscribendis
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Prot. N. 40/21
@@ -24,9 +14,9 @@ Sanctitas cum intellectu coniungitur, qui experientia de Iesu Christi mysterio e
 Quapropter, recentibus declarationibus tituli doctoris Ecclesiæ perpensis, qui sanctis magni momenti Occidentis ac Orientis tributus est, Summus Pontifex FRANCISCUS in Calendarium Romanum generale inseri decrevit subsequentes celebrationes, gradu memoriæ ad libitum:
 
 > sancti Gregorii Narecensis, abbatis et Ecclesiæ doctoris, die 27 mensis Februarii,
->
+
 > sancti Ioannis De Avila, presbyteri et Ecclesiæ doctoris, die 10 mensis Maii,
->
+
 > sanctæ Hildegardis Bingensis, virginis et Ecclesiæ doctoris, die 17 mensis Septembris.
 
 Novæ igitur memoriæ cunctis Calendariis Librisque liturgicis pro Missæ et Liturgiæ Horarum celebratione erunt inserendæ; textus liturgici adhibendi hoc decreto adnexi, cura Cœtuum Episcoporum vertendi, approbandi et post huius Dicasterii confirmationem edendi sunt.  

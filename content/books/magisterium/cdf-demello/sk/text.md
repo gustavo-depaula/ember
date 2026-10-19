@@ -1,9 +1,5 @@
 # Upozornenie o spisoch, ktoré napísal P. Anthony de Mello SJ
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 Kongregácia pre náuku viery
 
 *Upozornenie o spisoch, ktoré napísal P. Anthony de Mello SJ**\**
@@ -28,5 +24,3 @@ V Ríme, v sídle Kongregácie pre náuku viery, dňa 24. júna 1998, na sviatok
 **+Tarcisio Bertone, S.D.B.** Emeritný arcibiskup z Vercelli *Sekretár*
 
 \* www.kbs.sk.
-
-[](#top)

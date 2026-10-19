@@ -1,9 +1,5 @@
 # Instruction sur quelques aspects de la « Théologie de la libération »
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 S. CONGREGATION POUR LA DOCTRINE DE LA FOI  
 
 ***INSTRUCTION***
@@ -307,8 +303,6 @@ Joseph Card. Ratzinger
 Arch. tit. de Césarée de Numidie *Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: \[\] Cf. *[Gaudium et Spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_fr.html)*, n. 4.
 

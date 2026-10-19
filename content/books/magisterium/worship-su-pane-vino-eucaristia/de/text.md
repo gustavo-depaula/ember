@@ -1,15 +1,5 @@
 # Rundbrief an die Bischöfe über das Brot und den Wein für die Eucharistie - Kongregation für den Gottesdienst und die Sakramentenordnung
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 KONGREGATION FÜR DEN  GOTTESDIENST UND DIE SAKRAMENTENORDNUNG
@@ -29,15 +19,15 @@ Ebenso ist es Sache der Ordinarien, die Hersteller von Wein und Brot für die Eu
 3\. Die Normen bezüglich der eucharistischen Materie, wie sie in can. 924 CIC und in den Nummern 319 - 323 der *Institutio generalis Missalis Romani* angegeben sind, wurden bereits in der Instruktion *[Redemptionis Sacramentum](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_ge.html)* (25. März 2004) dieser Kongregation erläutert:
 
 > a\) „Das Brot, das für die Feier des hochheiligen eucharistischen Opfers verwendet wird, muss ungesäuert, aus reinem Weizenmehl bereitet und noch frisch sein, so dass keine Gefahr der Verderbnis besteht. Daraus folgt, dass Brot, das aus einer anderen Substanz, wenn auch aus Getreide, bereitet ist, oder Brot, dem eine vom Weizen verschiedene Materie in so großer Menge beigemischt ist, dass es gemäß dem allgemeinen Empfinden nicht mehr als Weizenbrot bezeichnet werden kann, keine gültige Materie für den Vollzug des eucharistischen Opfers und Sakramentes darstellt. Es ist ein schwerer Missbrauch, bei der Zubereitung des für die Eucharistie bestimmten Brotes andere Substanzen, wie zum Beispiel Früchte, Zucker oder Honig, beizufügen. Es ist klar, dass die Hostien von Personen herzustellen sind, die sich nicht nur durch Rechtschaffenheit auszeichnen, sondern auch in der Zubereitung der Hostien erfahren und mit geeigneten Werkzeugen ausgerüstet sind“ ([Nr. 48](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_ge.html#Kapitel%20III)).
->
+
 > b\) „Der Wein, der für die Feier des hochheiligen eucharistischen Opfers verwendet wird, muss naturrein, aus Weintrauben gewonnen und echt sein, er darf nicht verdorben und nicht mit anderen Substanzen vermischt sein. \[…\] Es ist sorgfältig darauf zu achten, dass der für die Eucharistie bestimmte Wein in einwandfreiem Zustand aufbewahrt und nicht zu Essig wird. Es ist streng verboten, Wein zu benützen, über dessen Echtheit und Herkunft Zweifel bestehen: Denn bezüglich der notwendigen Bedingungen für die Gültigkeit der Sakramente fordert die Kirche Gewissheit. Es darf kein Vorwand zugunsten anderer Getränke jedweder Art zugelassen werden, die keine gültige Materie darstellen“ ([Nr. 50](/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20040423_redemptionis-sacramentum_ge.html#Kapitel%20III)).
 
 4\. Die Kongregation für die Glaubenslehre hat im *[Rundbrief an die Präsidenten der Bischofskonferenzen die Normen über den Gebrauch von Brot mit niedrigem Gluten-Anteil und von Most als Materie der Eucharistie](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_ge.html)* (24. Juli 2003, Prot. N. 89/78 - 17498) für Personen bekanntgegeben, die aus verschiedenen schwerwiegenden Gründen normal zubereitetes Brot oder normal gegärten Wein nicht zu sich nehmen können:
 
 > a\) „Hostien, die überhaupt kein Gluten enthalten, sind für die Eucharistie ungültige Materie. Hostien, die wenig Gluten enthalten, jedoch so viel, dass die Zubereitung des Brotes möglich ist ohne fremdartige Zusätze und ohne Rückgriff auf Vorgangsweisen, die dem Brot seinen natürlichen Charakter nehmen, sind gültige Materie“ (A. 1-2).
->
+
 > b\) „Sowohl frischer als auch konservierter Traubensaft, dessen Gärung durch Vorgangsweisen unterbrochen wurde, die nicht dessen Natur verändern (zum Beispiel durch Einfrieren) ist für die Eucharistie gültige Materie“ (A. 3).
->
+
 > c\) „Die Ordinarien sind zuständig, einzelnen Gläubigen oder Priestern die Erlaubnis zu gewähren, Brot mit wenig Gluten oder Traubensaft als Materie für die Eucharistie zu verwenden. Die Erlaubnis kann ständig gewährt werden, solange die der Erlaubnis zugrundeliegende Situation andauert“ (C. 1).
 
 5\. Dieselbe Kongregation hat darüber hinaus entschieden, dass eucharistische Materie, die mit genetisch veränderten Organismen zubereitet wurde, als gültige Materie angesehen werden kann (vgl. Brief an den Präfekten der Kongregation für den Gottesdienst und die Sakramentenordnung, 9. Dezember 2013, Prot. N. 89/78 - 44897).

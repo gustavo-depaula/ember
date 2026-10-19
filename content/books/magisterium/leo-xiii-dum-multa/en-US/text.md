@@ -19,5 +19,3 @@ While We are burdened with much sadness in knowing to what a sorrowful state the
 *Given in Rome, at St. Peter's, on the 24th day of December in the year 1902, the twenty-fifth year of Our Pontificate.*
 
 **LEO XIII**
-
-*   *

@@ -1,9 +1,5 @@
 # Notificazione Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE** ***NOTIFICAZIONE* a proposito del libro del P. JACQUES DUPUIS, S.J., *«Verso una teologia del pluralismo religioso»* (Ed. Queriniana, Brescia 1997)**
 
 **Preambolo**
@@ -18,15 +14,11 @@ La Congregazione per la Dottrina della Fede, adempiuta la procedura ordinaria de
 
 La presente *Notificazione* non intende esprimere un giudizio sul pensiero soggettivo dell’Autore; ma si propone piuttosto di enunciare la dottrina della Chiesa a riguardo di alcuni aspetti delle suddette verità dottrinali, e nello stesso tempo di confutare opinioni erronee o pericolose, a cui, indipendentemente dalle intenzioni dell’Autore, il lettore può pervenire a motivo di formulazioni ambigue o spiegazioni insufficienti contenute in diversi passi del libro. In tal modo si ritiene di offrire ai lettori cattolici un sicuro criterio di valutazione, consono con la dottrina della Chiesa, al fine di evitare che la lettura del volume possa indurre a gravi equivoci e fraintendimenti*.*
 
-* *
-
 # I. A proposito della mediazione salvifica unica e universale di Gesù Cristo 
 
 1\. Deve essere fermamente creduto che Gesù Cristo, Figlio di Dio fatto uomo, crocifisso e risorto, è l’unico e universale mediatore della salvezza di tutta l’umanità.[^2]
 
 2\. Deve essere pure fermamente creduto che Gesù di Nazareth, Figlio di Maria e unico Salvatore del mondo, è il Figlio e il Verbo del Padre.[^3] Per l’unità del piano divino di salvezza incentrato in Gesù Cristo, va inoltre ritenuto che l’azione salvifica del Verbo sia attuata in e per Gesù Cristo, Figlio incarnato del Padre, quale mediatore della salvezza di tutta l’umanità.[^4] È quindi contrario alla fede cattolica non soltanto affermare una separazione tra il Verbo e Gesù o una separazione tra l’azione salvifica del Verbo e quella di Gesù, ma anche sostenere la tesi di un’azione salvifica del Verbo come tale nella sua divinità, indipendente dall’umanità del Verbo incarnato.[^5] ****
-
-*** ***
 
 **II. A proposito dell’unicità e pienezza della rivelazione di Gesù Cristo**
 
@@ -34,13 +26,9 @@ La presente *Notificazione* non intende esprimere un giudizio sul pensiero sogge
 
 4\. È conforme alla dottrina cattolica affermare che i semi di verità e di bontà che esistono nelle altre religioni sono una certa partecipazione alle verità contenute nella rivelazione di/in Gesù Cristo.[^8] È invece opinione erronea ritenere che tali elementi di verità e di bontà, o alcuni di essi, non derivino ultimamente dalla mediazione fontale di Gesù Cristo.[^9]
 
-** **
-
 **III. A proposito dell’azione salvifica universale dello Spirito Santo**
 
 5\. La fede della Chiesa insegna che lo Spirito Santo operante dopo la risurrezione di Gesù Cristo è sempre lo Spirito di Cristo inviato dal Padre, che opera in modo salvifico sia nei cristiani sia nei non cristiani.[^10] È quindi contrario alla fede cattolica ritenere che l’azione salvifica dello Spirito Santo si possa estendere oltre l’unica economia salvifica universale del Verbo incarnato.[^11]
-
-** **
 
 **IV. A proposito dell’ordinazione di tutti gli uomini alla Chiesa**
 
@@ -48,21 +36,15 @@ La presente *Notificazione* non intende esprimere un giudizio sul pensiero sogge
 
 7\. Secondo la dottrina cattolica anche i seguaci delle altre religioni sono ordinati alla Chiesa e sono tutti chiamati a far parte di essa.[^14]
 
-** **
-
 **V. A proposito del valore e della funzione salvifica delle tradizioni religiose**
 
 8\. Secondo la dottrina cattolica si deve ritenere che «quanto lo Spirito opera nel cuore degli uomini e nella storia dei popoli, nelle culture e religioni, assume un ruolo di preparazione evangelica (cf. Cost. dogm. *Lumen gentium*, 16)».[^15] È dunque legittimo sostenere che lo Spirito Santo opera la salvezza nei non cristiani anche mediante quegli elementi di verità e di bontà presenti nelle varie religioni; ma non ha alcun fondamento nella teologia cattolica ritenere queste religioni, considerate come tali, vie di salvezza, anche perché in esse sono presenti lacune, insufficienze ed errori,[^16] che riguardano le verità fondamentali su Dio, l’uomo e il mondo.
 
      Inoltre, il fatto che gli elementi di verità e di bontà presenti nelle varie religioni possano preparare i popoli e le culture ad accogliere l’evento salvifico di Gesù Cristo, non comporta che i testi sacri delle altre religioni possano considerarsi complementari all’Antico Testamento, che è la preparazione immediata allo stesso evento di Cristo.[^17] ****
 
-*** ***
-
 **Il Sommo Pontefice Giovanni Paolo II, nel corso dell’Udienza del 19 gennaio 2001, alla luce degli ulteriori sviluppi, ha confermato la sua approvazione della presente Notificazione, decisa nella Sessione Ordinaria di questa Congregazione, e ne ha ordinato la pubblicazione.**
 
 *    * Roma, dalla sede della Congregazione per la Dottrina della Fede, il 24 gennaio 2001, nella memoria di San Francesco di Sales.
-
-** **
 
 \+ Joseph Card. Ratzinger  
 *Prefetto*
@@ -70,8 +52,6 @@ La presente *Notificazione* non intende esprimere un giudizio sul pensiero sogge
 *+* Tarcisio Bertone, SDB *Arcivescovo emerito di Vercelli Segretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: La Congregazione per la Dottrina della Fede, a motivo di tendenze manifestate in diversi ambienti e sempre più recepite anche nel pensiero dei fedeli, ha pubblicato la *Dichiarazione “Dominus Iesus” circa l’unicità e l’universalità salvifica di Gesù Cristo e della Chiesa* (AAS, 92 \[2000\] 742-765), per tutelare i dati essenziali della fede cattolica. La *Notificazione* si ispira ai principi indicati nella suddetta *Dichiarazione* per la valutazione dell’opera di J. Dupuis.
 

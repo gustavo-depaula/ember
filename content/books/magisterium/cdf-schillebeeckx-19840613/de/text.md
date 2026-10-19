@@ -1,9 +1,5 @@
 # Brief an Pater Edward Schillebeeckx über sein Buch «Kerkelijk Ambt», 13. Juni 1984
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 *Brief an Pater Edward Schillebeeckx OP*\*
@@ -45,5 +41,3 @@ Nehmen Sie, hochwürdiger Pater, den Ausdruck respektvoller Hochachtung im Herrn
 **Erzbischof Alberto BOVONE** *Sekretär*
 
 \* *L’Osservatore Romano*, Wochenausgabe in deutscher Sprache, Nr. 5, 16. Januar 1985, Seite 5 (*AAS* 77 \[1985\], 994-997).
-
-[](#top)

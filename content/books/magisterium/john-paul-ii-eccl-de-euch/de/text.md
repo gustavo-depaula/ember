@@ -291,7 +291,7 @@ Machen wir uns die Gesinnung des heiligen Thomas von Aquin zu eigen, dieses vort
 * »Bone pastor, panis vere, Iesu, nostri miserere...*«.
 
 > *»Guter Hirt, du wahre Speise, Jesus, gnädig dich erweise! Nähre uns auf deinen Auen, laß uns deine Wonnen schauen in des Lebens ewigem Reich!*
->
+
 > *Du der alles weiß und leitet, uns im Tal des Todes weidet, laß an deinem Tisch uns weilen, deine Herrlichkeit uns teilen. Deinen Seligen mach uns gleich!« .*
 
 Gegeben in Rom, bei Sankt Peter, am 17. April 2003, Gründonnerstag, im 25. Jahr meines Pontifikats, im Jahr des Rosenkranzes.

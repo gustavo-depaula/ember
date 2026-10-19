@@ -8,7 +8,6 @@ VIRIS ET MULIERIBUS CONSECRATIS
 OMNIBUSQUE CHRISTIFIDELIBUS LAICIS  
 DE FIDE
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei_lt.pdf)  
 DOWNLOAD PDF
 
 1.Lumen fidei: sententia hac Ecclesiae traditio magnum donum ab Iesu delatum indicavit, qui in Ioannis Evangelio sic se exhibet: « Ego lux in mundum veni, ut omnis, qui credit in me, in tenebris non maneat » ( *Io* 12,46). Sanctus Paulus quoque haec verba protulit: « Deus qui dixit: "De tenebris lux splendescat", ipse illuxit in cordibus nostris » ( *2 Cor* 4,6). Apud paganos, lucem esurientes, Solis dei, *Solis invicti*, cultus increbruit, qui oriens invocabatur. Etiamsi quotidie oriebatur sol, plane intellegebatur lucem toti hominis exsistentiae eum adferre non posse. Etenim sol omnes res non illuminat, eius radius usque ad umbram mortis pervenire non valet, ubi hominis oculus se a luce excludit. Sanctus Iustinus martyr asserit: « Nec quisquam unquam exstitit, qui mortem propter fidem in solem oppeteret ». [^1] De magno conscii prospectu, quem eis patefaciebat fides, christiani verum solem Christum vocaverunt, qui « suisque radiis vitam praebuit ». [^2] Marthae, quae Lazarum fratrem mortuum flet, Iesus dicit: « Nonne dixi tibi quoniam si credideris, videbis gloriam Dei? » ( *Io* 11,40). Qui credit, videt; luce videt quadam, quae totum vitae cursum illuminat, quandoquidem ad nos a Christo resuscitato pervenit, matutina stella quae non occidit.
@@ -262,10 +261,6 @@ Doce nos Iesu oculis contueri, ut in nostro itinere Ille sit lumen; atque hoc fi
 **FRANCISCUS**
 
 ------------------------------------------------------------------------
-
-* *
-
-* *
 
 [^1]: *Dialogus cum Tryphone Iudaeo*, 121, 2: PG 6, 758.
 

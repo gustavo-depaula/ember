@@ -3,8 +3,6 @@
 ENCYKLIKA ***LAUDATO SI’*** OJCA ŚWIĘTEGO  
 **FRANCISZKA** POŚWIĘCONA TROSCE O WSPÓLNY DOM
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si_pl.pdf)
-
 1\. *Laudato si’, mi’ Signore –Pochwalony bądź, Panie mój,* śpiewał święty Franciszek z Asyżu. W tej pięknej pieśni przypomniał, że nasz wspólny dom jest jak siostra, z którą dzielimy istnienie, i jak piękna matka, biorąca nas w ramiona: «Pochwalony bądź, mój Panie, przez siostrę naszą, matkę ziemię, która nas żywi i chowa, wydaje różne owoce z barwnymi kwiatami i trawami»[^1].
 
 2\. Ta siostra protestuje z powodu zła, jakie jej wyrządzamy nieodpowiedzialnym wykorzystywaniem i rabunkową eksploatacją dóbr, które Bóg w niej umieścił. Dorastaliśmy myśląc, że jesteśmy jej właścicielami i rządcami uprawnionymi do jej ograbienia. Przemoc, jaka istnieje w ludzkich sercach zranionych grzechem, wyraża się również w objawach choroby, jaką dostrzegamy w glebie, wodzie, powietrzu i w istotach żywych. Z tego względu wśród najbardziej zaniedbanych i źle traktowanych znajduje się nasza uciskana i zdewastowana ziemia, która «jęczy i wzdycha w bólach rodzenia» (*Rz* 8, 22). Zapominamy, że my sami jesteśmy z prochu ziemi (por. *Rdz* 2, 7). Nasze własne ciało zbudowane jest z pierwiastków naszej planety, jej powietrze pozwala nam oddychać, a jej woda ożywia nas i odnawia.

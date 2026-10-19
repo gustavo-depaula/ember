@@ -1,15 +1,5 @@
 # Decreto para aplicar las disposiciones del can. 838 del Código de Derecho Canónico
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM
@@ -40,7 +30,7 @@ NORMAS Y PROCEDIMIENTOS
 4\. En la reforma de los libros litúrgicos del Rito Romano, conforme a las disposiciones del Concilio Vaticano II, se ha tenido en cuenta tanto la necesidad de su versión en las lenguas vernáculas como su adaptación a la variedad cultural de los pueblos, así como la problemática inherente a dicha tarea. En este sentido, no hay que olvidar que:
 
 > a\) las versiones de los textos litúrgicos, como parte de los mismos ritos, son la voz de la Iglesia que celebra los divinos misterios, y tienen el mismo valor que los textos litúrgicos en lengua latina.[^9] Por tanto, han de convertirse en lenguas “litúrgicas” y, a pesar de su variedad, mantener siempre la única y la misma voz de la Iglesia, la única y la misma “lex orandi”. Por eso, las versiones de los libros litúrgicos no pueden dejarse al arbitrio de particulares, sino que, confiadas a la responsabilidad de los Obispos, deben ser aprobadas por sus Conferencias;
->
+
 > b\) por el bien pastoral de los fieles, además de las adaptaciones ya previstas en los libros litúrgicos, que son competencia de quien preside las celebraciones, existen también otro tipo de adaptaciones, necesarias o útiles, que se dejan a la decisión y aprobación de las Conferencias Episcopales.
 
 5\. “Tal como se expresa en la Constitución *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html)*, en particular en los artículos 36 §§ 3-4, 40 y 63, y en la Carta Apostólica Motu Proprio *[Sacram Liturgiam](https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html)*, n. IX”,[^10] el Motu Proprio *Magnum Principium* ha modificado la normativa canónica de manera que “aparezca mejor la competencia de la Sede Apostólica respecto a la traducción de los libros litúrgicos y las adaptaciones más profundas, entre las que se pueden incluir también posibles nuevos textos que se incorporarán a ellos, establecidos y aprobados por las Conferencias Episcopales”.[^11]  En consecuencia también queda claro “el derecho y el deber de las Conferencias Episcopales”, facilitando la fraterna “colaboración entre la Sede Apostólica y las Conferencias Episcopales”[^12] en orden a la publicación de los libros litúrgicos en las lenguas actuales.
@@ -162,7 +152,7 @@ Propios de Diócesis y Familias Religiosas
 50\. Aunque el can. 838 no se refiere a los textos litúrgicos particulares de las Diócesis y Familias Religiosas, esta materia, relacionada con los libros litúrgicos, requiere una adaptación normativa. Es decir:
 
 > a\) tienen Calendario particular, Propio de las Misas y Liturgia de las Horas, así como Martirologio:[^52] las Diócesis, los Institutos de vida consagrada, las Sociedades de vida apostólica y otros previstos por el derecho;
->
+
 > b\) Para las Familias Religiosas se prevé también la adaptación del *Ordo* *Professionis Religiosae*[^53]y otras celebraciones peculiares.
 
 51\. Las celebraciones propias se insertan en armonía con el Calendario Romano general. El calendario litúrgico diocesano tiene en cuenta los calendarios nacional y regional. Todos los Calendarios particulares, compuestos por la autoridad competente, deben ser aprobados por la Sede Apostólica.[^54]
@@ -470,8 +460,6 @@ V. DE APTATIONIBUS QUÆ CONFERENTIIS  EPISCOPORUM COMPETUNT
 *g)   *Versiones textuum parare, ita ut indoli variorum sermonum atque ingenio diversarum culturarum accommodentur, necnon eas approbare et ad confirmationem Apostolicæ Sedis præbere.
 
 *h)   *In editionibus libri materiam ordinare modo qui ad usum pastoralem aptior videatur, partes libri separatim edere, præcipuis prænotandis semper præmissis, actis ab Apostolica Sede confirmatis.
-
-* *
 
 *IN DE EXORCISMIS ET SUPPLICATIONIBUS QUIBUSDAM*
 

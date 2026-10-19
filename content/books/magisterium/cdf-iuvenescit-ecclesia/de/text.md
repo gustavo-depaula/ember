@@ -1,15 +1,5 @@
 # Schreiben \<i>Iuvenescit Ecclesia\</i> an die Bischöfe der katholischen Kirche über die Beziehung zwischen hierarchischen und charismatischen Gaben im Leben und in der Sendung der Kirche
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_ge.html) - [EN](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_en.html) - [ES](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sp.html) - [FR](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_fr.html) - [IT](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_it.html)- [SL](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_sl.html) - [ZH_CN](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_zh_cn.pdf) - [ZH_TW](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20160516_iuvenescit-ecclesia_zh_tw.pdf)\]
@@ -19,8 +9,6 @@ KONGREGATION FÜR DIE GLAUBENSLEHRE
 **Schreiben *Iuvenescit Ecclesia* an die Bischöfe der katholischen Kirche über die Beziehung zwischen hierarchischen und charismatischen Gaben im Leben und in der Sendung der Kirche**
 
 **Einleitung**
-
-** **
 
 *Gaben des Heiligen Geistes in der missionarischen Kirche*
 

@@ -1,9 +1,5 @@
 # Notificazione sull'opera «Mary and human liberation» del P. Tissa Balasuriya, O.M.I., 2 gennaio 1997 - Congregazione per la Dottrina della Fede
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE 
 
 **NOTIFICAZIONE SULL'OPERA « MARY AND HUMAN LIBERATION » DEL PADRE TISSA BALASURIYA, OMI \***
@@ -81,5 +77,3 @@ Nel rendere pubblica la presente *Notificazione* la Congregazione si sente altre
 7\. Cf. Concilium Vaticanum II, Const. dogm. *Dei Verbum*, nn. 8-9.
 
 8\. Cf. Concilium Vaticanum I, Const. dogm. *Pastor aeternus*, *DS* 3074; Concilium Vaticanum II, Const. dogm. *Lumen gentium*, nn. 18.22.25.
-
-[](#top)

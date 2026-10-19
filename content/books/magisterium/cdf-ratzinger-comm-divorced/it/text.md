@@ -1,9 +1,5 @@
 # A proposito di alcune obiezioni contro la dottrina della Chiesa circa la recezione della Comunione eucaristica da parte di fedeli divorziati risposati - Joseph Card. Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***A proposito di alcune obiezioni contro la dottrina della Chiesa circa la recezione della Comunione eucaristica da parte di fedeli divorziati risposati* [^1]**
 
 Joseph Card. Ratzinger
@@ -73,8 +69,6 @@ Si può senz'altro ammettere che le forme espressive del Magistero ecclesiale ta
 Per quanto riguarda la posizione del Magistero sul problema dei fedeli divorziati risposati, si deve inoltre sottolineare che i recenti documenti della Chiesa uniscono in modo molto equilibrato le esigenze della verità con quelle della carità. Se in passato nella presentazione della verità talvolta la carità forse non risplendeva abbastanza, oggi è invece grande il pericolo di tacere o di compromettere la verità in nome della carità. Certamente la parola della verità può far male ed essere scomoda. Ma è la via verso la guarigione, verso la pace, verso la libertà interiore. Una pastorale, che voglia veramente aiutare le persone, deve sempre fondarsi sulla verità. Solo ciò che è vero può in definitiva essere anche pastorale. "Allora conoscerete la verità e la verità vi farà liberi" (*Gv* 8,32).
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Questo testo riprende la terza parte della Introduzione del Cardinale Joseph Ratzinger al numero 17 della Collana "Documenti e Studi", diretta dalla Congregazione per la Dottrina della Fede, *Sulla pastorale dei divorziati risposati*, LEV, Città del Vaticano 1998, p. 20-29. Le note sono state aggiunte.
 

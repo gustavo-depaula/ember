@@ -1,15 +1,5 @@
 # Décret d’inscription des célébrations de saint Grégoire de Narek, abbé et docteur de l’Église, de saint Jean De Avila, prêtre et docteur de l’Église, et de sainte Hildegarde de Bingen, vierge et docteur de l’Église, au Calendrier Romain Général
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATIO DE CULTU DIVINO ET DISCIPLINA SACRAMENTORUM

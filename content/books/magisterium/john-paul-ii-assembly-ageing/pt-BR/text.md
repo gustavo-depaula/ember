@@ -2,8 +2,6 @@
 
 ***CARTA DO SANTO PADRE JOÃO PAULO II AOS PARTICIPANTES NA ASSEMBLEIA MUNDIAL SOBRE O ENVELHECIMENTO ***
 
-** **
-
 *Excelentíssimo Senhor*
 
 É com prazer que dirijo a Vossa Excelência, e por seu intermédio, a todos os participantes na II Assembleia Mundial sobre o Envelhecimento, uma cordial saudação, com os melhores votos de bom êxito para os seus trabalhos.

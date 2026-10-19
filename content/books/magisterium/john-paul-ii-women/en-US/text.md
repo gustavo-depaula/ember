@@ -87,5 +87,3 @@ With my Blessing.
 *From the Vatican, 29 June 1995, the Solemnity of Saints Peter and Paul.*
 
 **JOHN PAUL II**
-
-*     *

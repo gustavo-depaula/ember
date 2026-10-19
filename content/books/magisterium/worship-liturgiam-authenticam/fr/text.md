@@ -1,9 +1,5 @@
 # De l'usage des langues vernaculaires dans l'édition des livres de la liturgie romaine
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LE CULTE DIVIN  
  ET LA DISCIPLINE DES SACREMENTS
 
@@ -472,8 +468,6 @@ Cette Instruction, rédigée par la Congrégation pour le Culte Divin et la Disc
 **Francesco Pio Tamburrino** *Archevêque Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Conc. Oecum. Vat. II, Const. de S. Liturgia *Sacrosanctum Concilium,* nn. 1, 14, 21, 33; cf. Conc. Oecum. Trid., Sess. XXII, diei 17 septembris 1562, Doctr. *De ss. Missae sacrif.*, c. 8:Denz.-Schönm. n. 1749.
 

@@ -82,5 +82,3 @@ Oftentimes during the course of Our Pontificate, moved by the sacred duty attach
 *Given at St. Peter's, Rome, the 5th day of August, in the year 1898, and the twenty-first of Our pontificate.*
 
 **LEO XIII**
-
-*   *

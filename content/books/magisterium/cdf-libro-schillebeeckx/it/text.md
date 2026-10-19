@@ -1,9 +1,5 @@
 # Notificazione riguardante il libro «Pleidooi voor mensen in de Kerk» (Nelissen, Baarn 1985) del prof. Edward Schillebeeckx, O.P.
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **Notificazione riguardante il libro «*Pleidooi voor mensen in de* *Kerk*» (Nelissen, Baarn 1985) del prof. Edward Schillebeeckx, O.P.**
@@ -33,5 +29,3 @@ Roma, dalla sede della Congregazione per la Dottrina della Fede, 15 settembre 19
 **+ Joseph Card. Ratzinger** *Prefetto*
 
 **+ A. Bovone** *Segretario*
-
-[](#top)

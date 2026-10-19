@@ -1,9 +1,5 @@
 # Sacerdotium ministeriale
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **HL. KONGREGATION FÜR DIE GLAUBENSLEHR**E
 
 ***SACERDOTIUM MINISTERIALE***
@@ -91,5 +87,3 @@ Joseph Kardinal Ratzinger *Präfekt*
 \(11\) Vgl. Johannes Paul II., Schreiben *Novo incipiente nostro*, Nr. 10; *AAS* 71 (1979), S. 411-415. Bezüglich der Wirksamkeit des Wunsches nach dem Sakrament vgl. Konzil von Trient, Dekret *De iustificatione*, Kap. 4; *DS* 1524; Dekret *De sacramentis*, can. 4; *DS* 1604; II. Vat. Konzil, Dogm. Konst. *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, Nr. 14; S. Officium, *Epist. ad archiep. Bostoniensem*, vom 8.8.1949; *DS* 3870 u. 3872.
 
 \(12\) Vgl. II. Vat. Konzil, Dogm. Konst. *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, Nr. 23.
-
-[](#top)

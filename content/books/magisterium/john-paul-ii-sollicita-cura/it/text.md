@@ -57,5 +57,3 @@ Tutto quanto è stato da noi decretato motu proprio con questa lettera apostolic
 *Roma, presso San Pietro, 26 dicembre 1987, decimo del nostro Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-* *

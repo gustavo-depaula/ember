@@ -1,9 +1,5 @@
 # De usu versionum Sacrae Scripturae in Ecclesiis - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE USU VERSIONUM SACRAE SCRIPTURAE IN ECCLESIIS**
@@ -19,5 +15,3 @@ Negative; sed versio Sacrae Scripturae christifidelibus publice praelegatur quae
 *Die autem 30 Aprilis 1934, in audientia infrascripto Consultori ab Actis benigne concessa, Ss.mus Dominus Noster Pius Pp. XI praedictum responsum ratum habuit et publici iuris fieri mandavit.*
 
 Ioannes Baptista Frey, C.S.Sp. *Consultor ab Actis.*
-
-[](#top)

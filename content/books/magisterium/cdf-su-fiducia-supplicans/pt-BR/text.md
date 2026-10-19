@@ -1,15 +1,5 @@
 # Trecho do Discurso do Papa Francisco durante a Audiência aos Participantes na Assembleia Plenária do Dicastério para a Doutrina da Fé
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Trecho do Discurso do Papa Francisco durante a [Audiência aos Participantes na Assembleia Plenária do Dicastério para a Doutrina da Fé](https://www.vatican.va/content/francesco/pt/events/event.dir.html/content/vaticanevents/pt/2024/1/26/plenaria-ddf.html)**

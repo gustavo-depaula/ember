@@ -1,15 +1,5 @@
 # Lettera del Santo Padre Francesco al Prefetto della Congregazione per pa Dottrina della Fede circa l’accesso delle donne ai Ministeri del Lettorato e dell’Accolitato
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **LETTERA DEL SANTO PADRE FRANCESCO AL PREFETTO DELLA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE CIRCA L’ACCESSO DELLE DONNE AI MINISTERI DEL LETTORATO E DELL’ACCOLITATO**

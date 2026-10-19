@@ -1,13 +1,5 @@
 # Normae de modo procedendi in diudicandis praesumptis apparitionibus ac revelationibus - Sacra Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
@@ -29,9 +21,9 @@ Quibus de causis, ut devotio fidelium, occasione factorum huius generis, plena s
 Cum certior facta fuerit Auctoritas ecclesiastica de aliqua praesumpta apparitione vel revelatione, erit ipsius munus:
 
 > a\) in primis iudicare de facto iuxta Criteria positiva et negativa (cf. infra, n. I);
->
+
 > b\) deinde, si hoc examen favorabilem exitum habuerit, permittere aliquas manifestationes publicas cultus vel devotionis simulque super eas magna cum prudentia invigilare (quod aequivalet formulae «pro nunc nihil obstare»);
->
+
 > c\) denique sub luce temporis elapsi et experientiae (speciatim ubertatis fructuum spiritualium e nova devotione provenientium), si casus ferat, iudicium de veritate et supernaturalitate ferre.
 
 **I - Criteria ad iudicandum, saltem cum probabilitate, de charactere praesumptarum apparitionum vel revelationum**
@@ -43,9 +35,9 @@ a\) Certitudo moralis vel saltem magna probabilitas de existentia facti, ope gra
 b\) Circumstantiae particulares existentiam et naturam facti respicientes, id est:
 
 > 1\. qualitates personales subiecti vel subiectorum (praesertim aequilibrium psychicum, honestas et rectitudo vitae moralis, sinceritas et docilitas habitualis erga auctoritatem ecclesiasticam, capacitas ad regimen normale vitae fidei redeundi, etc.);
->
+
 > 2\. ad revelationem quod attinet, doctrina theologica et spiritualis vera et ab errore immunis;
->
+
 > 3\. sana devotio et fructus spirituales uberes et constantes (v. g. spiritus orationis, conversiones, testimonia caritatis, etc.).
 
 B\) *Criteria negativa:*

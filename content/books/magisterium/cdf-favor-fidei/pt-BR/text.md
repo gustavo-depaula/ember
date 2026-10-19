@@ -1,9 +1,5 @@
 # Normas sobre a Instrução do processo de dissolução do vínculo matrimonial em favor da fé, 30 de abril de 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***NORMAS SOBRE A INSTRUÇÃO DO PROCESSO DE DISSOLUÇÃO DO VÍNCULO MATRIMONIAL EM FAVOR DA FÉ***
 
 **PREFÁCIO**
@@ -199,5 +195,3 @@ Uma vez completada a instrução, que o juiz remeta todas as atas, omitida sua p
 § 1. Que o Bispo transmita à Congregação para a Doutrina da Fé três cópias de todas as atas, reproduzidas tipograficamente, junto com seu próprio voto, e com as objeções do defensor do vínculo, completadas com o índice dos conteúdos e o sumário.
 
 § 2. Procure-se, também, que as atas da causa, sejam escritas segundo a língua e o estilo do lugar; que se traduzam em uma das línguas reconhecidas no ordenamento da cúria romana, adicionando uma declaração com juramento, que garanta a transcrição e a tradução fiel das mesmas.
-
-[](#top)

@@ -1,9 +1,5 @@
 # Liturgiam authenticam
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR DIVINE WORSHIP  
 AND THE DISCIPLINE OF THE SACRAMENTS  
 
@@ -54,9 +50,9 @@ a) For the legitimate passage of decrees, a two-thirds vote by secret ballot is 
 b) All of the acts to be examined by the Apostolic See, prepared in duplicate, signed by the President and Secretary of the Conference and duly affixed with its seal, are to be sent to the Congregation for Divine Worship and the Discipline of the Sacraments. In these acts are to be contained the following: 
 
 > i)   the names of the Bishops, or of those equivalent to them in law, who were present at the meeting,
->
+
 > ii) a report of the proceedings, which should contain the outcome of the votes pertaining to the individual decrees, including the number of those in favor, the number opposed, and the number abstaining;
->
+
 > iii)  a clear exposition of the individual parts of the Liturgy into which the decision has been made to introduce the vernacular language; 
 
 c) In the *relatio* is to be included a clear explanation of the language involved, as well as the reasons for which the proposal has been made to introduce it into liturgical use.
@@ -264,7 +260,7 @@ a)  For the legitimate passage of decrees, a two-thirds vote by secret ballot i
 b) All acts to be examined by the Apostolic See, prepared in duplicate, signed by the President and Secretary of the Conference, and duly affixed with its seal, are to be sent to the Congregation for Divine Worship and the Discipline of the Sacraments. In these acts are to be contained:
 
 > i)   the names of the Bishops or of those equivalent in law who were present at the meeting,
->
+
 > ii)  a *relatio* of the proceedings, which should contain the results of the voting for each individual decree, including the number in favor, the number opposed, and the number abstaining.
 
 c) Two copies are to be sent of the liturgical texts prepared in the vernacular language; insofar as possible, the same text should be sent on computer diskette;
@@ -272,11 +268,11 @@ c) Two copies are to be sent of the liturgical texts prepared in the vernacular 
 d) In the particular *relatio*, the following should be explained clearly:[^55]
 
 > i)   the process and criteria followed in the work of translation.
->
+
 > ii)  a list of the persons participating at various stages in the work, together with a brief note describing the qualifications and expertise of each.
->
+
 > iii)  any changes that may have been introduced in relation to the previous translation of the same edition of the liturgical book are to be indicated clearly, together with the reasons for making such changes;
->
+
 > iv)  an indication of any changes with respect to the content of the Latin *editio typica* together with the reasons which they were necessary, and with a notation of the prior consent of the Apostolic See for the introduction of such changes. 
 
 80. The practice of seeking the *recognitio* from the Apostolic See for all translations of liturgical books[^56] accords the necessary assurance of the authenticity of the translation and its correspondence with the original texts. This practice both expresses and effects a bond of communion between the successor of blessed Peter and his brothers in the Episcopate. Furthermore, this *recognitio* is not a mere formality, but is rather an exercise of the power of governance, which is absolutely necessary (in the absence of which the act of the Conference of Bishops entirely in no way attains legal force); and modifications –even substantial ones—may be introduced by means of it.[^57]  For this reason it is not permissible to publish, for the use of celebrants or for the general public, any liturgical texts that have been translated or recently composed, as long as the *recognitio* is lacking. Since the *lex orandi* must always be in harmony with the *lex credendi* and must manifest and support the faith of the Christian people, the liturgical translations will not be capable of being worthy of God without faithfully transmitting the wealth of Catholic doctrine from the original text into the vernacular version, in such a way that the sacred language is adapted to the dogmatic reality that it contains.[^58] Furthermore, it is necessary to uphold the principle according to which each particular Church must be in accord with the universal Church not only as regards the doctrine of the Faith and the sacramental signs, but also as regards those practices universally received through Apostolic and continuous tradition.[^59]  For these reasons, the required *recognitio* of the Apostolic See is intended to ensure that the translations themselves, as well as any variations introduced into them, will not harm the unity of God’s people, but will serve it instead.[^60]
@@ -412,9 +408,9 @@ b) The translation is to be sent to the Congregation for Divine Worship and the 
 c) A *relatio* is to be prepared as well, which is to contain:
 
 > i)  the decree by which the *textus typicus* has been approved by the Apostolic See,
->
+
 > ii)   the process and criteria followed in the translation;
->
+
 > iii) a list of the persons who have participated at various stages of the work, together with a brief description of their experience or abilities, and of their academic degrees;
 
 d) In the case of the less widely diffused languages, the Conference of Bishops should testify that the text is accurately translated into the language in question, as mentioned above, in n. 86.
@@ -432,9 +428,9 @@ b) The translation is to be sent to the Congregation for Divine Worship and the 
 c) A *relatio* is also to be prepared, which is to contain:
 
 > i)  the decree by which the *textus typicus* has been approved by the Apostolic See,
->
+
 > ii)  the process and criteria followed in the translation,
->
+
 > iii) a list of the persons who have participated at various stages of the work, together with a brief description of their experience or abilities, and of their academic degrees;
 
 d) In the case of the less widely diffused languages, the Conference of Bishops should testify that the text is accurately translated into the language in question, as mentioned above, in n. 86. 
@@ -463,8 +459,6 @@ e) As regards religious families of diocesan right, the same procedure is to be 
 **Francesco Pio TAMBURRINO*** Archbishop Secretary *
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: SECOND VATICAN COUNCIL, Const. on the Sacred Liturgy *Sacrosanctum Concilium*, nn. 1, 14, 21, 33; cf. COUNCIL OF TRENT, Sess. XXII, 17 September 1562, Doctr. *De ss. Missae sacrif*., c. 8 : Denz.-Schönm. n. 1749.
 

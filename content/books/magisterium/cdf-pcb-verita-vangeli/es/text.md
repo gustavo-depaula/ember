@@ -1,9 +1,5 @@
 # La verdad histórica de los Evangelios - Pontificia Comisión Bíblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMISIÓN BÍBLICA
 
 **LA VERDAD HISTÓRICA DE LOS EVANGELIOS**
@@ -50,8 +46,6 @@ BENJAMIN N. WAMBACQ O. Praem.
 *Secretario de la Comisión Pontificia para Estudios Bíblicos*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Pío XII, Carta enc. *[Divino afflante Spiritu](/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu.html)*; Enchiridion Biblicum (EB), 564; AAS. 35 (1943), Pág. 346.
 

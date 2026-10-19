@@ -1,9 +1,5 @@
 # Prefazione al volume Documenta - Documenti (1969-1985) Libreria Editrice Vaticana, Card. Joseph Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/cti_index_it.htm)
-
 **PREFAZIONE**
 
 **al volume *Documenta – Documenti (1969-1985)*, Libreria Editrice Vaticana, Città del Vaticano 1988**
@@ -27,7 +23,3 @@ Mi auguro che questa raccolta abbia larga diffusione e serva così ad un fruttuo
 *Roma, 29 giugno 1987*
 
 **Joseph Card. Ratzinger**
-
-** **
-
-[](#top)

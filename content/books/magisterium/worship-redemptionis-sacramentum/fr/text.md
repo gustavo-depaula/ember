@@ -1,9 +1,5 @@
 # INSTRUCTION Redemptionis Sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LE CULTE DIVIN  
 ET LA DISCIPLINE DES SACREMENTS
 
@@ -585,8 +581,6 @@ Rome, du siège de la Congrégation pour le Culte Divin et la Discipline des Sac
 **Domenico SORRENTINO** * Archevêque Secrétaire*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Missale Romanum, *ex decreto sacrosancti Oecumenici Concilii Vaticani II instauratum, auctoritate Pauli Pp. VI promulgatum, Ioannis Pauli Pp. II cura recognitum,*editio typica tertia, diei 20 aprilis 2000, Typis Vaticanis, 2002, Missa votiva *de Dei misericordia,* oratio super oblata, p. 1159.
 

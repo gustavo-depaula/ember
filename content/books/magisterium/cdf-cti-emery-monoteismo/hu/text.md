@@ -1,9 +1,5 @@
 # A Nemzetközi Teológiai Bizottságnak az egyistenhitről és erőszakról szóló dokumentumában. A megtestesült Fiú és az isteni egység jelentése, Gilles Emery, O.P.
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **A Nemzetközi Teológiai Bizottságnak az egyistenhitről és erőszakról szóló dokumentumában\***
 
 A megtestesült Fiú és az isteni egység jelentése
@@ -25,5 +21,3 @@ A katolikus hit hangsúlyozza továbbá azt, hogy Isten meghívja a teremtett vi
 ------------------------------------------------------------------------
 
 *\* L’Osservatore Romano*, napi kiadás, CLIV. évfolyam, 023. szám, 2014. január 30. csütörtök.
-
-[](#top)

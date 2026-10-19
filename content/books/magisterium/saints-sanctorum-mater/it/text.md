@@ -1,9 +1,5 @@
 # Sanctorum Mater - Istruzione per lo svolgimento delle inchieste diocesane o eparchiali nelle cause dei Santi
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE DELLE CAUSE DEI SANTI
 
 ***SANCTORUM MATER***
@@ -477,11 +473,11 @@ Questa Congregazione auspica che l'Istruzione sia di valido aiuto ai Vescovi aff
 **Art. 37** - Allegati al libello di domanda sulle virtù o sul martirio, il postulatore presenterà al Vescovo diocesano o eparchiale:
 
 > 1\. nelle cause sia recenti che antiche, una biografia di un certo valore storico sul Servo di Dio, o, in mancanza di questa, un'accurata relazione cronologica sulla vita e sulle attività del Servo di Dio, sulle sue virtù o sul suo martirio, sulla fama di santità o di martirio e sulla fama di segni, senza omettere ciò che pare contrario o meno favorevole alla causa stessa (52);
->
+
 > 2\. tutti gli scritti editi o pubblicati del Servo di Dio in copia autentica (53);
->
+
 > 3\. infine, un elenco di eventuali testimoni, ossia:
->
+
 > > a\. *nelle cause recenti*: un elenco delle persone che possono contribuire ad accertare la verità sulle virtù o sul martirio del Servo di Dio, come pure sulla fama di santità o di martirio e sulla fama di segni, non trascurando coloro che potrebbero impugnare tale fama (54);
 > >
 > > b\. *nelle cause antiche*: un elenco di alcuni testi in grado di deporre sulla fama di santità o di martirio e di segni ancora presente tra una porzione significativa del popolo di Dio (55).
@@ -489,9 +485,9 @@ Questa Congregazione auspica che l'Istruzione sia di valido aiuto ai Vescovi aff
 **Art. 38** - § 1. Allegati al libello di domanda per l'istruzione dell' Inchiesta su un presunto miracolo, il postulatore presenterà al Vescovo diocesano o eparchiale:
 
 > 1\. una breve e accurata relazione sulle circostanze particolari che hanno caratterizzato il caso;
->
+
 > 2\. un elenco di testi;
->
+
 > 3\. tutti i documenti relativi al caso (56).
 
 § 2. Sulle asserite guarigioni miracolose sono necessari i documenti medici, clinici e strumentali (ad es., cartelle cliniche, referti medici, esami di laboratorio e indagini strumentali).
@@ -679,13 +675,13 @@ Questa Congregazione auspica che l'Istruzione sia di valido aiuto ai Vescovi aff
 § 2. Nella Relazione, i periti devono:
 
 > 1\. riferire e garantire di aver adempiuto fedelmente il loro compito;
->
+
 > 2\. presentare una lista degli archivi consultati;
->
+
 > 3\. unire un elenco degli scritti e dei documenti reperiti;
->
+
 > 4\. esprimere un giudizio circa l'autenticità e il valore degli stessi scritti e dei documenti;
->
+
 > 5\. esprimere un giudizio circa la personalità e la spiritualità del Servo di Dio, quali si desumono dagli stessi scritti e documenti, non omettendo di evidenziare eventuali aspetti negativi (93).
 
 § 3. I periti devono riferire sugli eventuali ostacoli alla causa al Vescovo o al suo Delegato, il quale ne informa il postulatore affinché possa rimuoverli (94).
@@ -705,9 +701,9 @@ Art. 75 - § 1. La *Relazione* deve essere firmata *in solidum*, ossia da tutti 
 § 2. Essi dichiarano con giuramento:
 
 > 1\. di aver svolto tutte le indagini;
->
+
 > 2\. di aver raccolto tutto quanto riguarda la causa;
->
+
 > 3\. di non aver alterato o mutilato alcun documento o testo (98).
 
 § 3. Possono essere rivolte ai periti altre domande d'ufficio che riguardino la personalità e l'operato del Servo di Dio, miranti a chiarire anche gli elementi negativi di una certa rilevanza nella causa (99).
@@ -785,25 +781,25 @@ Art. 75 - § 1. La *Relazione* deve essere firmata *in solidum*, ossia da tutti 
 **Art. 89** - Agli atti della Prima Sessione si devono unire gli atti della causa già compiuti e tutto il materiale già raccolto:
 
 > 1\. l'eventuale rescritto di trasferimento di competenza;
->
+
 > 2\. tutta la documentazione presentata al Vescovo per dimostrare la fama di santità o di martirio e di segni goduta dal Servo di Dio (114);
->
+
 > 3\. il mandato di nomina del postulatore e/o del vice-postulatore (115);
->
+
 > 4\. il libello di domanda del postulatore, insieme al materiale prescritto dal n. 10 delle "*[Normae servandae](http://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_07021983_norme_it.html)*" (116);
->
+
 > 5\. l'eventuale dichiarazione circa le particolari ragioni per il ritardo dell'inizio della causa (117);
->
+
 > 6\. il parere degli altri Vescovi sull'opportunità della causa (118);
->
+
 > 7\. l'editto del Vescovo (119);
->
+
 > 8\. la lettera del Nulla Osta della Santa Sede (120);
->
+
 > 9\. i decreti di nomina degli Officiali dell'Inchiesta (121);
->
+
 > 10\. i pareri scritti dei Censori teologi oppure la dichiarazione sull'assenza di scritti editi (122);
->
+
 > 11\. il materiale raccolto dai periti in materia storica ed archivistica con la loro Relazione (123).
 
 **Capitolo III Notaio della Prima Sessione**
@@ -853,13 +849,13 @@ Art. 75 - § 1. La *Relazione* deve essere firmata *in solidum*, ossia da tutti 
 **Art. 96** - I testi che devono essere chiamati a deporre nell'Inchiesta sono:
 
 > 1\. i testi indotti, cioè quelli indicati dal postulatore nel libello di domanda (132);
->
+
 > 2\. i testi *ex officio*, specialmente se contrari alla causa (133);
->
+
 > 3\. i contesti, cioè quelli indicati dai testi durante le loro deposizioni;
->
+
 > 4\. i periti in materia storica ed archivistica come testi *ex officio* (134);
->
+
 > 5\. nell'Inchiesta su una presunta guarigione miracolosa, anche i medici che hanno curato il sanato ed i periti medici *ab inspectione* (135).
 
 **Art. 97** - Il Vescovo o il suo Delegato può limitare un eccessivo numero di testi (136).
@@ -1107,11 +1103,11 @@ Art. 75 - § 1. La *Relazione* deve essere firmata *in solidum*, ossia da tutti 
 **Art. 144** - § 1. Nell'Ultima Sessione o Sessione di Chiusura dell'Inchiesta:
 
 > 1\. Il Vescovo dichiara, con decreto da allegare agli stessi atti, l'Inchiesta definitivamente conclusa;
->
+
 > 2\. Il portitore giura di adempiere fedelmente il proprio incarico (187);
->
+
 > 3\. Il Vescovo, il Delegato Episcopale, il Promotore di Giustizia, il Notaio ed il postulatore e/o vice-postulatore della causa, giurano separatamente di aver adempiuto fedelmente il proprio incarico e di mantenere il segreto d'ufficio.
->
+
 > § 2. I giuramenti saranno verbalizzati e i relativi documenti uniti agli atti.
 
 **Art. 145** - § 1. Prima di chiudere i plichi dell'*Archetipo*, del *Transunto* e della *Copia Pubblica*, il Vescovo ordina che venga unito ad essi il verbale dell'Ultima Sessione.
@@ -1613,5 +1609,3 @@ La presente *Istruzione* è stata sottoposta all'esame dei cardinali e vescovi M
 \(194\) Cfr *supra* Art. 141; can. 2096 *CIC* 1917.
 
 \(195\) Cfr [can. 1190 §1 *CIC* 1983](http://www.vatican.va/archive/ITA0276/__P4A.HTM), can. 888 § 2 *CCEO.*
-
-[](#top)

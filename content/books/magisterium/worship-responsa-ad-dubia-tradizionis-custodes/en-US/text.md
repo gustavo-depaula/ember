@@ -1,15 +1,5 @@
 # Responsa ad dubia on certain provisions of the Apostolic Letter Traditionis custodes issued “Motu Proprio” by the Supreme Pontiff Francis
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGATION FOR DIVINE WORSHIP AND THE DISCIPLINE OF THE SACRAMENTS
@@ -57,11 +47,11 @@ Prefect
 *The Supreme Pontiff Francis, in the course of an Audience granted to the Prefect of this Congregation on 18 November 2021, was informed of and gave his consent to the publication ofthese* RESPONSA AD DUBIA *with attached* EXPLANATORY NOTES.
 
 > *Traditionis custodes *
->
+
 > Art. 3.  Episcopus, in dioecesibus ubi adhuc unus vel plures coetus celebrant secundum Missale antecedens instaurationem anni 1970:
->
+
 > \[…\]
->
+
 > § 2.      statuat unum vel plures locos ubi fideles, qui his coetibus adhaerent, convenire possint ad Eucharistiam celebrandam (nec autem in ecclesiis paroecialibus nec novas paroecias personales erigens);
 
 ***To the proposed question:***
@@ -83,9 +73,9 @@ Moreover, such a celebration should not be included in the parish Mass schedule,
 There is no intention in these provisions to marginalise the faithful who are rooted in the previous form of celebration: they are only meant to remind them that this is a concession to provide for their good (in view of the common use of the one *lex orandi* of the Roman Rite) and not an opportunity to promote the previous rite.
 
 > *Traditionis custodes*
->
+
 > * *Art. 1.  Libri liturgici a sanctis Pontificibus Paulo VI et Ioanne Paulo II promulgati, iuxta decreta Concilii Vaticani II, unica expressio “legis orandi” Ritus Romani sunt.
->
+
 > Art. 8.  Normae, dispositiones, concessiones et consuetudines antecedentes, quae conformes non sint cum harum Litterarum Apostolicarum Motu Proprio datarum praescriptis, abrogantur.
 
 ***To the proposed question:***
@@ -113,9 +103,9 @@ This provision is intended to underline the need to clearly affirm the direction
 In implementing these provisions, care should be taken to accompany all those rooted in the previous form of celebration towards a full understanding of the value of the celebration in the ritual form given to us by the reform of the Second Vatican Council. This should take place through an appropriate formation that makes it possible to discover how the reformed liturgy is the witness to an unchanged faith, the expression of a renewed ecclesiology, and the primary source of spirituality for Christian life.  
 
 > *Traditionis custodes*
->
+
 > Art. 3.  Episcopus, in dioecesibus ubi adhuc unus vel plures coetus celebrant secundum Missale antecedens instaurationem anni 1970:
->
+
 > § 1.      certior fiat coetus illos auctoritatem ac legitimam naturam instaurationis liturgicae, normarum Concilii Vaticani II Magisteriique Summorum Pontificum non excludere;
 
 ***To the proposed question:***
@@ -141,11 +131,11 @@ The explicit choice not to take part in concelebration, particularly at the Chri
 *However, before revoking the concession to use the Missale Romanum of 1962, the Bishop should offer the Priest the necessary time for a sincere discussion on the deeper motivations that lead him not to recognise the value of concelebration, in particular in the Mass presided over by the Bishop. He should invite him to express, in the eloquent gesture of concelebration, that ecclesial communion which is a necessary condition for being able to participate at the table of the Eucharistic sacrifice.  
 
 > *Traditionis custodes *
->
+
 > Art. 3.  Episcopus, in dioecesibus ubi adhuc unus vel plures coetus celebrant secundum Missale antecedens instaurationem anni 1970:
->
+
 > \[…\]
->
+
 > § 3.      constituat, in loco statuto, dies quibus celebrationes eucharisticae secundum Missale Romanum a sancto Ioanne XXIII anno 1962 promulgatum permittuntur. His in celebrationibus, lectiones proclamentur lingua vernacula, adhibitis Sacrae Scripturae translationibus ad usum liturgicum ab unaquaque Conferentia Episcoporum approbatis;
 
 ***To the proposed question:***
@@ -167,7 +157,7 @@ No vernacular lectionaries may be published that reproduce the cycle of readings
 It should be remembered that the present Lectionary is one of the most precious fruits of the liturgical reform of the Second Vatican Council. The publication of the Lectionary, in addition to overcoming the “plenary” form of the *Missale Romanum* of 1962 and returning to the ancient tradition of individual books corresponding to individual ministries, fulfils the wish of *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)*, n. 51: “The treasures of the Bible are to be opened up more lavishly, so that richer fare may be provided for the faithful at the table of God’s word. In this way a more representative portion of the holy scriptures will be read to the people in the course of a prescribed number of years”.  
 
 > *Traditionis custodes*
->
+
 > Art. 4.  Presbyteri ordinati post has Litteras Apostolicas Motu Proprio datas promulgatas, celebrare volentes iuxta Missale Romanum anno 1962 editum, petitionem formalem Episcopo dioecesano mittere debent, qui, ante concessionem, a Sede Apostolica licentiam rogabit.
 
 ***To the proposed question:***
@@ -193,7 +183,7 @@ The Motu Proprio clearly expresses the desire that what is contained in the litu
 All seminary formators, seeking to walk with solicitude in the direction indicated by Pope Francis, are encouraged to accompany future Deacons and Priests to an understanding and experience of the richness of the liturgical reform called for by the Second Vatican Council. This reform has enhanced every element of the Roman Rite and has fostered - as hoped for by the Council Fathers - the full, conscious and active participation of the entire People of God in the liturgy (cf. *[Sacrosanctum Concilium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html)* no. 14), the primary source of authentic Christian spirituality.  
 
 > *Traditionis custodes*
->
+
 > Art. 5.  Presbyteri, qui iam secundum Missale Romanum anno 1962 editum celebrant, ab Episcopo dioecesano licentiam rogabunt ad hanc facultatem servandam.
 
 ***To the proposed question:***

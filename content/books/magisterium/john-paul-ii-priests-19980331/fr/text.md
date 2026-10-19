@@ -3,8 +3,6 @@
 **LETTRE DU SAINT-PÈRE JEAN-PAUL II** ***AUX PRETRES***  
 **POUR LE JEUDI SAINT 1998**
 
-**   **
-
 *Chers Frères dans le sacerdoce,*
 
 L'esprit et le cœur tournés vers le grand Jubilé, célébration solennelle du deuxième millénaire de la naissance du Christ et commencement du troisième millénaire chrétien, je voudrais invoquer avec vous l'Esprit du Seigneur, auquel est particulièrement consacrée la deuxième étape de l'itinéraire spirituel de préparation immédiate à l'Année sainte de l'An 2000.
@@ -152,5 +150,3 @@ Viens, Esprit Saint! Viens féconder notre service de Dieu et de nos frères!
 En vous redisant mon affection et en vous souhaitant d'être réconfortés par Dieu dans votre ministère, je vous donne à tous de grand cœur la Bénédiction apostolique.
 
 *Du Vatican, le 25 mars 1998, solennité de l'Annonciation du Seigneur, en la vingtième année de mon pontificat.*
-
-*  *

@@ -1,7 +1,6 @@
 # Carta Encíclica Lumen fidei
 
-[](/content/dam/francesco/pdf/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei_po.pdf)  
- DOWNLOAD PDF
+DOWNLOAD PDF
 
 CARTA ENCÍCLICA ***LUMEN FIDEI*** DO SUMO PONTÍFICE  
 **FRANCISCO** AOS BISPOS  
@@ -242,19 +241,19 @@ Em Maria, Filha de Sião, tem cumprimento a longa história de fé do Antigo Tes
 60\. A Maria, Mãe da Igreja e Mãe da nossa fé, nos dirigimos, rezando-Lhe:
 
 > Ajudai, ó Mãe, a nossa fé.
->
+
 > Abri o nosso ouvido à Palavra, para reconhecermos a voz de Deus e a sua chamada.
->
+
 > Despertai em nós o desejo de seguir os seus passos, saindo da nossa terra e acolhendo a sua promessa.
->
+
 > Ajudai-nos a deixar-nos tocar pelo seu amor, para podermos tocá-Lo com a fé.
->
+
 > Ajudai-nos a confiar-nos plenamente a Ele, a crer no seu amor, sobretudo nos momentos de tribulação e cruz, quando a nossa fé é chamada a amadurecer.
->
+
 > Semeai, na nossa fé, a alegria do Ressuscitado.
->
+
 > Recordai-nos que quem crê nunca está sozinho.
->
+
 > Ensinai-nos a ver com os olhos de Jesus, para que Ele seja luz no nosso caminho. E que esta luz da fé cresça sempre em nós até chegar aquele dia sem ocaso que é o próprio Cristo, vosso Filho, nosso Senhor.
 
 *Dado em Roma, junto de São Pedro, no dia 29 de Junho, solenidade dos Apóstolos São Pedro e São Paulo, do ano 2013, primeiro de Pontificado.*

@@ -1,15 +1,5 @@
 # Carta \<i>Samaritanus bonus\</i> sobre el cuidado de las personas en las fases críticas y terminales de la vida
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE

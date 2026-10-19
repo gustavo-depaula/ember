@@ -1,9 +1,5 @@
 # Notification regarding Sr. Jeannine Gramick, SSND, and Fr. Robert Nugent, SDS
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***NOTIFICATION REGARDING SISTER JEANNINE GRAMICK, SSND, AND FATHER ROBERT NUGENT, SDS***\*
@@ -52,5 +48,3 @@ Archbishop emeritus of Vercelli, *Secretary*
 3\. Cf. *Gn* 19:1-11; *Lv* 18:22; 20:13; *1 Cor* 6:9; *Rom* 1:18-32; *1 Tim* 1:10; *Catechism of the Catholic Church*, nn. 2357-2359, 2396; Congregation for the Doctrine of the Faith, Declaration *Persona humana* 8, *AAS* 68 (1976), 84-85 Letter *Homosexualitas problema*, *AAS* 79 (1987), 543-554.
 
 4\. *Catechism of the Catholic Church*, n. 2358.
-
-[](#top)

@@ -6,8 +6,6 @@ Untuk Pengesahan dan Penyebarluasan
 
 *[Kompendium Katekismus Gereja Katolik](http://www.vatican.va/archive/compendium_ccc/documents/archive_compendium-ccc_id.pdf)*
 
-* *
-
 Kepada Saudara-Saudaraku yang terhormat, para Kardinal, Patriark, Uskup Agung, Imam, Diakon, dan kepada semua Umat Allah.
 
 Katolik dimulai atas permintaan Pertemuan Istimewa Sinode para Uskup yang dilaksanakan pada kesempatan peringatan dua puluh tahun penutupan Konsili Vatikan Kedua.

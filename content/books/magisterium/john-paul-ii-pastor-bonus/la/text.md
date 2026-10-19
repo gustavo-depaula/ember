@@ -1025,8 +1025,6 @@ Decernimus præsentem Constitutionem apostolicam firmam, validam et efficacem es
 
 *Datum Romæ, apud Sanctum Petrum, coram Patribus Cardinalibus in Consistorio adunatis, in pervigilio sollemnitatis Sanctorum Apostolorum Petri et Pauli, die* *XXVIII mensis Iunii Anno Mariali MCMLXXXVIII, Pontificatus Nostri decimo.*
 
-* *
-
 **IOANNES PAULUS PP. II**
 
 ------------------------------------------------------------------------

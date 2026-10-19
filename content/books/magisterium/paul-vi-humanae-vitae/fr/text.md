@@ -12,8 +12,6 @@ En tout temps, l'accomplissement de ce devoir a posé à la conscience des épou
 
 **I. ASPECTS NOUVEAUX DU PROBLÈME ET COMPÉTENCE DU MAGISTÈRE**
 
->  
-
 2. Les changements survenus sont effectivement notables et de plusieurs sortes. Il s'agit tout d'abord du rapide développement démographique. Beaucoup manifestent la crainte que la population mondiale n'augmente plus vite que les ressources à sa disposition ; il s'ensuit une inquiétude croissante pour bien des familles et pour des peuples en voie de développement, et grande est la tentation pour les autorités d'opposer à ce péril des mesures radicales. En outre, les conditions de travail et de logement, comme aussi les exigences accrues, dans le domaine économique et dans celui de l'éducation, rendent souvent difficile aujourd'hui la tâche d'élever convenablement un grand nombre d'enfants.
 
 On assiste aussi à un changement, tant dans la façon de considérer la personne de la femme et sa place dans la société que dans la valeur à attribuer à l'amour conjugal dans le mariage, comme aussi dans la manière d'apprécier la signification des actes conjugaux par rapport à cet amour.
@@ -39,8 +37,6 @@ Les travaux de ces experts, complétés par les jugements et conseils que Nous f
 6. Les conclusions auxquelles était parvenue la Commission ne pouvaient toutefois être considérées par Nous comme définitives, ni Nous dispenser d'examiner personnellement ce grave problème, entre autres parce que le plein accord n'avait pas été réalisé au sein de la Commission sur les règles morales à proposer; et surtout parce qu'étaient apparus certains critères de solutions qui s'écartaient de la doctrine morale sur le mariage proposée avec une constante fermeté par le Magistère de l'Eglise.
 
 C'est pourquoi, ayant attentivement examiné la documentation qui Nous a été soumise, après de mûres réflexions et des prières assidues, Nous allons maintenant, en vertu du mandat que le Christ Nous a confié, donner notre réponse à ces graves questions.
-
-**   **
 
 II. PRINCIPES DOCTRINAUX
 
@@ -131,8 +127,6 @@ Si donc on ne veut pas abandonner à l'arbitraire des hommes la mission d'engend
 18. On peut prévoir que cet enseignement ne sera peut-être pas facilement accueilli par tout le monde: trop de voix - amplifiées par les moyens modernes de propagande - s'opposent à la voix de l'Eglise. Celle-ci, à vrai dire, ne s'étonne pas d'être, à la ressemblance de son divin Fondateur, un " signe de contradiction " (22); mais elle ne cesse pas pour autant de proclamer avec une humble fermeté, toute la loi morale, tant naturelle qu'évangélique. Ce n'est pas elle, qui a créé cette loi, elle ne saurait donc en être l'arbitre; elle en est seulement la dépositaire et l'interprète, sans pouvoir jamais déclarer licite une chose qui ne l'est pas à cause de son intime et immuable opposition au vrai bien de l'homme.
 
 En défendant la morale conjugale dans son intégralité, l'Eglise sait qu'elle contribue à l'instauration d'une civilisation vraiment humaine; elle engage l'homme à ne pas abdiquer sa responsabilité pour s'en remettre aux moyens techniques; elle défend par là même la dignité des époux. Fidèle à l'enseignement comme à l'exemple du Sauveur, elle se montre l'amie sincère et désintéressée des hommes, qu'elle veut aider, dès leur cheminement terrestre, " à participer en fils à la vie du Dieu vivant, Père de tous les homme (23) ".
-
-**   **
 
 III. DIRECTIVES PASTORALES
 

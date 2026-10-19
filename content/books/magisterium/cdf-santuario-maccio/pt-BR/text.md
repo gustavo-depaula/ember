@@ -1,15 +1,5 @@
 # “Trindade Misericórdia”. Carta ao Bispo de Como sobre a experiência espiritual relacionada ao Santuário de Maccio (Villa Guardia)
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTÉRIO PARA A DOUTRINA DA FÉ

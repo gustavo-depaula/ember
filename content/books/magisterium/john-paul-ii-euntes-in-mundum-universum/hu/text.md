@@ -187,6 +187,4 @@ Jegyzetek
 [\[22\]](#JB22) Unitatis Redintegratio dektérum az ökumenizmusról, 15.  
 [\[23\]](#JB23) Uo. 14.  
 [\[24\]](#JB24) Redemptoris Mater enc. 50: AAS 79 (1987) 429. old.  
-[\[25\]](#JB25) Uo., 30: AAS 79 (1987), 402. old.  
-
-* *
+[\[25\]](#JB25) Uo., 30: AAS 79 (1987), 402. old.

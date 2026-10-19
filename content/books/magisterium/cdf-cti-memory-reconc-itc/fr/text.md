@@ -1,9 +1,5 @@
 # Mémoire et réconciliation : L'Église et les fautes du passé
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSION THÉOLOGIQUE INTERNATIONALE
 
 ***Mémoire et réconciliation : l’église et les fautes du passé (2000)[^1]***
@@ -293,8 +289,6 @@ Au terme de cette réflexion, soulignons une fois encore que toutes les formes d
 ------------------------------------------------------------------------
 
 Nous reproduisons ici, avec quelques corrections et des adaptations éditoriales, le texte publié aux éditions du Cerf : Commission théologique internationale, *Mémoire et réconciliation : l’église et les fautes du passé*, Paris, 2000, p. 9-92.
-
-[](#top)
 
 [^1]: L’étude du thème « L’Église et les fautes du passé » a été proposée à la Commission théologique internationale par son président, S. Ém. le cardinal Joseph Ratzinger, dans la perspective de la célébration du Jubilé de l’an 2000. Cette étude a été confiée à une sous-commission composée des membres suivants : Rév. Christopher Begg ; Mgr Bruno Forte (qui en assurait la présidence) ; R.P. Sebastian Karotemprel, s.d.b. ; Mgr Roland Minnerath ; Rév. Thomas Norris ; R.P. Rafael Salazar Cárdenas, m.sp.s. ; Mgr Anton Strukelj. Les discussions générales sur le sujet ont nécessité de nombreuses réunions de cette sous-commission. Elles ont été également abordées lors des sessions plénières de la Commission théologique internationale qui se sont tenues à Rome en 1998 et 1999. Le texte présenté ici a été approuvé *in forma specifica* par un vote écrit de la Commission. Il a été ensuite soumis à son président, S. Ém. le cardinal Joseph Ratzinger, préfet de la Congrégation pour la Doctrine de la Foi, qui a donné son approbation pour la publication.
 

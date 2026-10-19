@@ -1,9 +1,5 @@
 # Profession of Faith and Oath of Fidelity
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***PROFESSION OF FAITH***
 
 I, N., with firm faith believe and profess each and everything that is contained in the Symbol of faith, namely:
@@ -38,5 +34,3 @@ So help me God, and God’s Holy Gospels on which I place my hand.
 I shall foster the common discipline of the entire Church and I shall insist on the observance of all ecclesiastical laws, especially those contained in the Code of Canon Law.
 
 With Christian obedience I shall follow what the Bishops, as authentic doctors and teachers of the faith, declare, or what they, as those who govern the Church, establish. I shall also — with due regard for the character and purpose of my institute — faithfully assist the diocesan Bishops, so that the apostolic activity, exercised in the name and by mandate of the Church, may be carried out in communion with the Church.
-
-[](#top)

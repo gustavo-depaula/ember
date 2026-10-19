@@ -1,9 +1,5 @@
 # Udienza ai membri della Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 [UDIENZA DEL SANTO PADRE GIOVANNI PAOLO II  
 AI MEMBRI DELLA PONTIFICIA COMMISSIONE BIBLICA](/holy_father/john_paul_ii/speeches/2004/april/documents/hf_jp-ii_spe_20040420_biblical-commission_it.html)
 
@@ -24,5 +20,3 @@ Tuttavia il cristiano non vive e non comprende da solo la sua fede, né la sua v
 In tal modo la Chiesa, nella sua vita e nel suo insegnamento, si presenta come "colonna e sostegno della verità" (*1Tm* 3,15), anche della verità circa l'agire morale. Infatti, "è compito della Chiesa annunziare sempre e dovunque i principi morali anche circa l'ordine sociale, e così pure pronunciare il giudizio su qualsiasi realtà umana, in quanto lo esigano i diritti fondamentali della persona umana o la salvezza delle anime" (*CIC*, can. 747).
 
 Beatissimo Padre, è con sentimenti di filiale riconoscenza che ora attendiamo le Sue illuminate parole, che rappresentano per il nostro servizio conforto e guida, e nel contempo invochiamo la Sua paterna Benedizione Apostolica.
-
-[](#top)

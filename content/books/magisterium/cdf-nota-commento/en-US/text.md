@@ -1,9 +1,5 @@
 # Commentary
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***COMMENTARY***
@@ -45,7 +41,5 @@ When stating that the administration of food and water is morally obligatory *in
 These exceptional cases, however, take nothing away from the general ethical criterion, according to which the provision of water and food, even by artificial means, always represents a *natural means* for preserving life, and is not a *therapeutic treatment*. Its use should therefore be considered *ordinary and proportionate*, even when the “vegetative state” is prolonged.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Terminology concerning the different phases and forms of the “vegetative state” continues to be discussed, but this is not important for the moral judgment involved.

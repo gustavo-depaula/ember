@@ -1,9 +1,5 @@
 # DE USU LINGUARUM POPULARIUM IN LIBRIS LITURGIAE ROMANAE EDENDIS
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO DE CULTU DIVINO  
 ET DISCIPLINA SACRAMENTORUM
 
@@ -242,8 +238,6 @@ d\)     Principia, supra ad n. 51 exposita, ad varietatem vocabulorum specta
 
 69.    Editiones librorum liturgicorum lingua vulgari apparatae omni ex parte congruant cum titulis, ordine textuum, rubricis et numerorum ratione, quae in editione typica exstant, nisi in praenotandis iisdem libris praepositis aliter statuatur. Inserantur insuper quaevis additamenta a Congregatione de Cultu Divino et Disciplina Sacramentorum approbata, sive in supplemento quodam seu appendice sive loco suo, prout Sedes Apostolica statuerit.
 
-** **
-
 **III**
 
 **DE TRANSLATIONUM PRAEPARATIONE DEQUE COMMISSIONUM ERECTIONE**
@@ -414,8 +408,6 @@ b\) unius Conferentiae Episcoporum vel plurium simul Conferentiarum Episcoporum,
 
 125\.  Praeter ea, quae in editione typica continentur vel providentur aut singillatim exposita sunt in hac Instructione, nullus textus addatur editioni vulgari, nisi praecedat approbatio a Congregatione de Cultu Divino et Disciplina Sacramentorum concessa.
 
-** **
-
 **V**
 
 **DE TRANSLATIONE TEXTUUM PROPRIORUM LITURGICORUM**
@@ -464,8 +456,6 @@ e\) Circa familias religiosas iuris dioecesani eadem ratio procedendi servetur, 
 
 130\.    In textibus typis excussis exhibeantur decreta, per quae translationibus concessa est recognitio Sanctae Sedis, aut saltem recognitio concessa memoretur, additis die, mense, anno et numero protocolli decreti a Dicasterio emanati, eisdem servatis normis ut supra, ad n. 68. Duo exemplaria textuum typis editorum ad Congregationem de Cultu Divino et Disciplina Sacramentorum transmittantur. 
 
-** **
-
 **                                                        CONCLUSIO**
 
 131.    Approbatio tempore praeterito singillatim concessa translationibus liturgicis non desinit vigere, licet principium vel criterium sit adhibitum, quod ab iis differt, quae in hac Instructione continentur. A die tamen, quo haec Instructio publici iuris facta est, novum temporis spatium coepit initium quoad emendationes efficiendas, aut considerationes denuo disceptandas de sermonibus seu idiomatibus vulgaribus in usum liturgicum inducendis, necnon translationes vulgari sermone iam hucusque confectas recognoscendas. 
@@ -485,8 +475,6 @@ e\) Circa familias religiosas iuris dioecesani eadem ratio procedendi servetur, 
 *Archiepiscopus a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Cf. Conc. Oecum.Vat. II, Const.de S. Liturgia*Sacrosanctum Concilium,*nn.1,14,21,33;cf. Conc. Oecum. Trid.,Sess. XXII,diei17septembris1562, Doctr. *De ss. Missae sacrif.*, c. 8:Denz.-Schönm. n. 1749.
 

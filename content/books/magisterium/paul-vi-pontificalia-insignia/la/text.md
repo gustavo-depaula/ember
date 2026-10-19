@@ -19,7 +19,7 @@ Quam ob rem, inter normas ad sacrae Liturgiae instaurationem spectantes, illa et
 Itaque ad exsequendam sacrosancti Concilii voluntatem, Auctoritate Nostra Apostolica, motu proprio et certa scientia, haec decernimus:
 
 > **1.** Iuxta ea quae in art. 130 Constitutionis de sacra Liturgia statuuntur, iubemus, ut posthac insignibus pontificalibus utantur, praeter Episcopos, sequentes tantum Praelati, dignitate quidem episcopali carentes, sed vera iurisdictione fruentes, videlicet:
->
+
 > > *a)* Legati Romani Pontificis;
 > >
 > > *b)* Abbates et Praelati, qui iurisdictionem habena in territorium a quavis dioecesi separatum (cfr. CIC can. 319 § 1; can. 325);
@@ -27,23 +27,23 @@ Itaque ad exsequendam sacrosancti Concilii voluntatem, Auctoritate Nostra Aposto
 > > *c)* Administratores Apostolici, permanenter constituti (can. 315 § 1);
 > >
 > > *d)* Abbates regulares de regimine, postquam benedictionem acceperunt (can. 625).
->
+
 > **2.** Iisdem pontificalibus insignibus, exceptis tamen cathedra et baculo, utantur, etsi dignitate episcopali non potiuntur: 
->
+
 > > *a)* Administratores apostolici ad tempus constituti (can. 351, § 2, 2°; cfr. etiam can. 308);
 > >
 > > *b)* Vicarii Apostolici et Praefecti Apostolici (can. 308).
->
+
 > **3.** Praelati, de quibus in nn. 1 et 2, commemoratis iuribus gaudeant tantum in proprio territorio et durante munere. Abbates vero Primates et Abbates generales Congregationum monasticarum durante munere uti possunt insignibus pontificalibus in omnibus Monasteriis sui Ordinis vel suae Congregationis. Alii autem Abbates regulares de regimine eodem iure gaudent in quolibet Monasterio sui Ordinis, de consensu tamen Abbatis vel Prioris conventualis ipsius Monasterii.
->
+
 > **4.** Abbates regulares de regimine benedicti, postquam regimen amiserunt, et Abbates titulares uti possunt insignibus pontificalibus in quolibet Monasterio sui Ordinis vel Congregationis, de consensu tamen Abbatis vel Prioris conventualis ipsius Monasterii.
->
+
 > **5.** Alii Praelati, dignitate episcopali carentes, ante has praesentes Litteras Apostolicas nominati, gaudere pergunt privilegiis, ipsis quovis iure concessis sive personaliter sive collegialiter, circa quaedam insignia pontificalia, quibus nunc fruuntur. Haec tamen privilegia sponte dimittere possunt, ad normam iuris.
->
+
 > **6.** Prae oculis habitis sive iis quae Sacrosanctum Oecumenicum Concilium recenter statuit, sive principiis a Nobis enucleatis de veritate signi servanda in sacris celebrationibus, Praelatis, qui in posterum nominabuntur, iis exceptis de quibus in nn. 1 et 2, facultas non erit insignibus pontificalibus utendi.
->
+
 > **7.** Quae hic dicuntur de Praelatis valent etiam pro clericis, qui quovis titulo insignibus pontificalibus utuntur.
->
+
 > **8.** Ea quae his Apostolicis Litteris iubentur, a die VIII mensis Septembris hoc anno, vigere incipient.
 
 Quaecumque vero a Nobis hisce Litteris motu proprio datis statuta sunt, ea omnia firma ac rata esse iubemus, contraiis quibusvis, etiam specialissima mentione dignis, non obstantibus.

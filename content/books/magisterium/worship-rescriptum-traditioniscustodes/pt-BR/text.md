@@ -1,15 +1,5 @@
 # Rescriptum ex audientia Sanctissimi, acerca da implementação do motu proprio do Papa Francisco «Traditionis custodes»
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **RESCRIPTUM EX AUDIENTIA SS.MI**

@@ -152,17 +152,17 @@ Doktor syntezy
 52\. Z nieba na ziemię, aktualność św. Teresy od Dzieciątka Jezus i Najświętszego Oblicza trwa w całej swojej „małej wielkości”.
 
 > W czasie, który zachęca nas do zamykania się we własnych sprawach, Mała Tereska ukazuje nam piękno uczynienia z życia daru.
->
+
 > W chwili, w której dominują potrzeby najbardziej powierzchowne, jest ona świadkiem ewangelicznego radykalizmu.
->
+
 > W czasie indywidualizmu, pozwala nam odkryć wartość miłości, która staje się wstawiennictwem.
->
+
 > W chwili, gdy ludzie mają obsesję na punkcie wielkości i nowych form władzy, ona wskazuje nam drogę małości.
->
+
 > W czasie, w którym odrzucanych jest wiele istot ludzkich, ona uczy nas piękna troski, podejmowania odpowiedzialności za innych.
->
+
 > W chwili powikłań, ona może pomóc nam odkryć na nowo prostotę, absolutny prymat miłości, zaufania i powierzenia się Bogu, przezwyciężając legalistyczną i etyczną logikę, która wypełnia życie chrześcijańskie obowiązkami i nakazami oraz zamraża radość Ewangelii.
->
+
 > W czasie wycofania i zamknięcia, Mała Tereska zaprasza nas do wyjścia misyjnego, pociągniętych atrakcyjnością Jezusa Chrystusa i Ewangelii.
 
 53\. Półtora wieku po swoich narodzinach Mała Tereska jest bardziej niż kiedykolwiek żywa pośród Kościoła podążającego, w sercu Ludu Bożego. Pielgrzymuje z nami czyniąc dobro na ziemi, tak jak tego pragnęła. Najpiękniejszym znakiem jej duchowej żywotności są niezliczone „róże”, które rozsiewa, to znaczy łaski, które Bóg daje nam za jej pełnym miłości wstawiennictwem, aby wesprzeć nas na ścieżce życia.

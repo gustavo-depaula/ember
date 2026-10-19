@@ -1,13 +1,5 @@
 # El cristianismo y las religiones, 1997
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL
@@ -33,14 +25,14 @@ COMISIÓN TEOLÓGICA INTERNACIONAL
 
 > 1\. La iniciativa del Padre en la salvación  
 > 2. La única mediación de Jesús
->
+
 > > a\) Algunos temas neotestamentarios  
 > > b) Motivos de la tradición recogidos en el reciente magisterio  
 > > c) Conclusiones
->
+
 > 3\. La universalidad del Espíritu Santo  
 > 4. «Ecclesia, universale salutis sacramentum»
->
+
 > > a\) «Extra Ecclesiam nulla salus»  
 > > b) «Paschali mysterio consociati»  
 > > c). «Universale salutis sacramentum»
@@ -51,7 +43,7 @@ COMISIÓN TEOLÓGICA INTERNACIONAL
 > 2. La cuestión de la revelación  
 > 3. La verdad como problema entre la teología de las religiones y la posición pluralista  
 > 4. Diálogo interreligioso y misterio de salvación
->
+
 > > a\) El sentido de Dios  
 > > b) El sentido del hombre
 

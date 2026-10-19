@@ -1,9 +1,5 @@
 # De parousia seu de secundo adventu Domini nostri Iesu Christi in epistolis Sancti Pauli apostoli - Pontificia Commissio Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Pontificia_Commissio_Biblica)
-
 PONTIFICIA COMMISSIO BIBLICA
 
 **DE PAROUSIA SEU DE SECUNDO ADVENTU DOMINI NOSTRI IESU CHRISTI IN EPISTOLIS SANCTI PAULI APOSTOLI**
@@ -26,5 +22,3 @@ Resp. Negative.
 
 Laurentius Janssens, O.S.B.  
 Abb. tit. Montis Blandini, *Consultor ab Actis.*
-
-[](#top)

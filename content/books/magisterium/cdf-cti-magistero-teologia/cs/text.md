@@ -1,13 +1,5 @@
 # Vzájemný vztah mezi magisteriem a teologií - Mezinárodní teologická komise
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Mezinárodní teologická komise**

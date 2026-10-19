@@ -1,9 +1,5 @@
 # Nota sobre Rosmini, 1 julio 2001
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***NOTA*** **sobre el valor de los decretos doctrinales con respecto  al pensamiento y a las obras del sacerdote Antonio Rosmini Serbati **
@@ -49,5 +45,3 @@ El Sumo Pontífice Juan Pablo II, durante la audiencia del 8 de junio de 2001, c
 (1)Antonio Rosmini,* Carta al Papa Pío IX,* en:  *Epistolario completo*, Casale  Monferrato, tip. Pane 1892, vol. X, 541 (carta 6341).  
 
 (2) Carta encíclica de Juan Pablo II *Fides et ratio*, 74:  *AAS* 91 (1999) 62.
-
-[](#top)

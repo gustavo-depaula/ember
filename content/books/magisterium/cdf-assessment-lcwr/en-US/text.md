@@ -1,9 +1,5 @@
 # Doctrinal Assessment of the LCWR, 18 April 2012 - Congregation for the Doctrine of the Faith
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Doctrinal Assessment of the Leadership Conference of Women Religious***
@@ -103,5 +99,3 @@ The mandate of the Delegate will be for a period of up to five years, as deemed 
 It will be the task of the Archbishop Delegate to work collaboratively with the officers of the LCWR to achieve the goals outlined in this document, and to report on the progress of this work to the Holy See. Such reports will be reviewed with the Delegate at regular interdicasterial meetings of the CDF and the CICLSAL. In this way, the Holy See hopes to offer an important contribution to the future of religious life in the Church in the United States.
 
 April 18, 2012
-
-[](#top)

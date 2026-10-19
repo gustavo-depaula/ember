@@ -131,5 +131,3 @@ Tudo quanto determinei com esta Carta Apostólica em forma de *Motu Proprio*, or
 *Dado em Roma, junto de São Pedro, no dia 11 de Novembro de 2012, oitavo ano de Pontificado*.
 
 **BENEDICTUS PP. XVI**
-
-** **

@@ -1,9 +1,5 @@
 # Sanctorum Mater, Instructio ad peragendas Inquisitiones dioecesanas vel eparchiales de Causis Sanctorum, die XVII m. Maii, A.D. XXVII - Congregatio de Causis Sanctorum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGATIO DE CAUSIS SANCTORUM
 
 ------------------------------------------------------------------------
@@ -488,11 +484,11 @@ Art. 36 - § 1. Supplex libellus est instantia scripta, qua postulator, nomine a
 Art. 37 - Uti adnexa supplici libello de virtutibus vel de martyrio, postulator Episcopo dioecesano vel eparchiali exhibebit:
 
 > 1\. in causis sive recentioribus sive antiquis, biographiam, si exsistit, cuiusdam historici ponderis circa Servum Dei, aut, hac deficiente, accuratam relationem chronologicam de vita et gestis Servi Dei, de eius virtutibus vel martyrio, de fama sanctitatis vel martyrii nec non de fama signorum, quin omittat ea quae eidem causae adversa videantur aut minus faventia (52);
->
+
 > 2\. omnia scripta edita vel vulgata Servi Dei in authentico exemplari (53);
->
+
 > 3\. tandem, elenchum testium, si qui sint, id est:
->
+
 > > a\. *in causis recentioribus*: elenchum personarum quae conferre possunt ad probandam veritatem circa virtutes vel martyrium Servi Dei, sicut etiam circa famam sanctitatis vel martyrii nec non circa famam signorum, quin posthabeantur personae illae quae talem famam impugnare possint (54);
 > >
 > > b\. *in causis antiquis*: elenchum quorundam testium qui prompti sint ad deponendum de fama sanctitatis vel martyrii ac signorum adhuc vigente apud notabilem populi Dei partem (55).
@@ -500,9 +496,9 @@ Art. 37 - Uti adnexa supplici libello de virtutibus vel de martyrio, postulator 
 Art. 38 - § 1. Uti adnexa supplici libello ad instruendam Inquisitionem circa coniectum miraculum, postulator Episcopo dioecesano vel eparchiali exhibebit:
 
 > 1\. brevem et accuratam relationem de particularibus adiunctis quibus eventus est insignitus;
->
+
 > 2\. elenchum testium;
->
+
 > 3\. omnia documenta eventum respicientia (56).
 
 § 2. De assertis miris sanationibus requiruntur medica, clinica et instrumentalia documenta (v. gr. scidulae clinicae, relationes medicae, analyses laboratorii et instrumentales investigationes).
@@ -690,13 +686,13 @@ Art. 73 - § 1. Expletis investigationibus et perquisitionibus scriptorum nondum
 § 2. In *Relatione*, periti tenentur:
 
 > 1\. referre et fidem facere de munere fideliter adimpleto;
->
+
 > 2\. exhibere elenchum archivorum consultorum;
->
+
 > 3\. addere elenchum scriptorum et documentorum quae reperta sunt;
->
+
 > 4\. sententiam ferre circa authenticitatem et pondus eorundem scriptorum et documentorum;
->
+
 > 5\. sententiam exprimere circa personalitatem et spiritualitatem Servi Dei, prout desumuntur ex ipsis scriptis et documentis, in luce quoque collocantes aspectus negativos, si forsitan emerserint (93).
 
 § 3. Periti obstacula, si casus detur, quae laedunt causam declarare debent Episcopo vel eius Delegato, qui de re certiorem reddit postulatorem ut hic ea removere possit (94).
@@ -716,9 +712,9 @@ Art. 76 - § 1. Periti vocandi sunt ad deponendum separatim uti testes ex offici
 § 2. Ipsi sub iureiurando declarant se:
 
 > 1\. omnes investigationes fecisse;
->
+
 > 2\. omnia quae causam respiciunt collegisse;
->
+
 > 3\. ne ullum quidem documentum vel textum mutasse vel mutilasse (98).
 
 § 3. Aliae interrogationes ex officio peritis proponi possunt, quae respiciant personalitatem et opera Servi Dei, intuitu quoque clarificandi aspectus negativos cuiusdam ponderis in causa (99).
@@ -796,25 +792,25 @@ Art. 88 - Iam intra quam extra ecclesias, summi ponderis est ut vitetur quilibet
 Art. 89 - Actis Primae Sessionis adnectenda sunt acta causae iam expleta et omnia documenta iam collecta:
 
 > 1\. Rescriptum, si exstiterit, translationis competentiae (113);
->
+
 > 2\. omnia documenta Episcopo exhibita ad probandam famam sanctitatis vel martyrii et signorum quibus Servus Dei fruebatur (114); 
->
+
 > 3\. mandatum nominationis postulatoris et/vel vice-postulatoris (115); 
->
+
 > 4\. supplex libellus postulatoris, simul cum documentis, prout praescribunt *[Normae servandae](rc_con_csaints_doc_07021983_norme_lt.html)* in numero 10 (116);
->
+
 > 5\. declaratio, si fuerit, circa peculiares rationes ob quas protractum est initium causae (117); 
->
+
 > 6\. sententia ceterorum Episcoporum de causae opportunitate (118);
->
+
 > 7\. edictum Episcopi (119);
->
+
 > 8\. litterae "*Nihil Obstat*" Sanctae Sedis (120);
->
+
 > 9\. decreta nominationis Officialium Inquisitionis (121); 
->
+
 > 10\. sententiae scriptae Censorum theologorum vel etiam declaratio de absentia scriptorum editorum (122);
->
+
 > 11\. documenta collecta a peritis in re historica et archivistica una cum eorum *Relatione* (123).
 
 *Caput III De Notario Primae Sessionis*
@@ -864,13 +860,13 @@ Art. 95 - § 1. Post publicationem actorum Inquisitionis, Postulatori tribuatur 
 Art. 96 - Testes vocandi in Inquisitionibus sunt:
 
 > 1\. testes inducti, id est nominati a postulatore in supplici libello (132); 
->
+
 > 2\. testes *ex officio*, praesertim si causae adversantur (133);
->
+
 > 3\. contestes, id est, memorati a testibus in propriis depositionibus;
->
+
 > 4\. periti in re historica et archivistica tamquam testes *ex officio* (134);
->
+
 > 5\. in Inquisitione de asserta mira sanatione, etiam medici qui sanato curam tulerunt et periti medici  *ab inspectione* (135).
 
 Art. 97 - Episcopus vel eius Delegatus nimiam multitudinem testium refrenare potest (136).
@@ -1118,9 +1114,9 @@ Art. 143 - § 1. Episcopus dioecesanus vel eparchialis Ultimae praeest Sessioni.
 Art. 144 - § 1. In Ultima Sessione vel Sessione conclusiva Inquisitionis:
 
 > 1\. Episcopus declarat, per decretum in iisdem actis inserendum, Inquisitionem definitive esse conclusam;
->
+
 > 2\. Portitor iurat se fideliter munus impleturum esse (187);
->
+
 > 3\. Episcopus, Delegatus Episcopalis, Promotor Iustitiae, Notarius et postulator et/vel vice-postulator causae, separatim iurant se fideliter suum cuiusque munus exercuisse et secretum ex officio servaturos esse.
 
 § 2. Unumquodque iusiurandum in scriptis conficiendum est nec non respectivum documentum actis inserendum.
@@ -1624,5 +1620,3 @@ Ppraesens *Instructio* subiecta est examini Cardinalium et Episcoporum, sodalium
 \(194\) Cfr *supra* Art. 141; can. 2096 *CIC* 1917.
 
 \(195\) Cfr [can. 1190 §1 *CIC* 1983](/archive/cod-iuris-canonici/latin/documents/cic_liberIV_lt.html), [can. 888](/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-2_lt.html) § 2 *CCEO.*
-
-[](#top)

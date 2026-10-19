@@ -1,10 +1,6 @@
 # Mensagem de Fátima
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  CONGREGAÇÃO PARA A DOUTRINA DA FÉ  
+CONGREGAÇÃO PARA A DOUTRINA DA FÉ  
 
 ***A MENSAGEM ***   ***DE FÁTIMA***   
 
@@ -116,8 +112,6 @@ Tarcisio Bertone, SDB 
 
 *Secretário da Congregação para a Doutrina da Fé *
 
-*  *
-
 O « SEGREDO » DE FÁTIMA 
 
 PRIMEIRA E SEGUNDA PARTE DO « SEGREDO »   
@@ -224,8 +218,6 @@ Para consentir que os fiéis recebam melhor a mensagem da Virgem de Fátima, o P
 
 Irmãos e irmãs, damos graças a Nossa Senhora de Fátima pela sua protecção. Confiamos à sua materna intercessão a Igreja do Terceiro Milénio. 
 
-*  *
-
 *Sub tuum præsidium confugimus, Sancta Dei Genetrix! Intercede pro Ecclesia. Intercede pro Papa nostro Ioanne Paulo II. Amen.* 
 
 Fátima, 13 de Maio de 2000. 
@@ -286,8 +278,6 @@ Joseph Card. Ratzinger 
 
 *Prefeito da Congregação* *para a Doutrina da Fé *
 
-*  *
-
 ------------------------------------------------------------------------
 
 \(1\) Lê-se no diário de João XXIII, a 17 de Agosto de 1959: « Audiências: P. Philippe, Comissário do S.O., que me traz a carta que contém a terceira parte dos segredos de Fátima. Reservo-me de a ler com o meu Confessor ».   
@@ -308,10 +298,4 @@ Joseph Card. Ratzinger 
 
  Texto original: 
 
-\(8\) Na transcrição, respeitou-se o texto original mesmo quando havia erros e imprecisões de escrita e pontuação, os quais, aliás, não impedem a compreensão daquilo que a vidente quis dizer. 
-
-*  *
-
-*  *
-
-[](#top)
+\(8\) Na transcrição, respeitou-se o texto original mesmo quando havia erros e imprecisões de escrita e pontuação, os quais, aliás, não impedem a compreensão daquilo que a vidente quis dizer.

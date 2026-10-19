@@ -39,11 +39,11 @@ dispongo: 
 a\)
 
 > \* un delitto contro il VI comandamento del decalogo commesso con violenza o minaccia o mediante abuso di autorità, o nel costringere qualcuno a realizzare o subire atti sessuali;
->
+
 > \*\* un delitto contro il VI comandamento del decalogo commesso con un minore o con persona che abitualmente ha un uso imperfetto della ragione o con un adulto vulnerabile;
->
+
 > \*\*\* l’immorale acquisto, conservazione, esibizione o divulgazione, in qualsiasi modo e con qualunque strumento, di immagini pornografiche di minori o di persone che abitualmente hanno un uso imperfetto della ragione;
->
+
 > \*\*\*\* il reclutamento o l’induzione di un minore o di persona che abitualmente ha un uso imperfetto della ragione o di un adulto vulnerabile a mostrarsi pornograficamente o a partecipare ad esibizioni pornografiche reali o simulate;
 
 b\) condotte poste in essere dai soggetti di cui all’articolo 6, consistenti in azioni od omissioni dirette a interferire o ad eludere le indagini civili o le indagini canoniche, amministrative o penali, nei confronti di uno dei soggetti di cui nel precedente § 1 in merito ai delitti di cui alla lettera a) del presente paragrafo.

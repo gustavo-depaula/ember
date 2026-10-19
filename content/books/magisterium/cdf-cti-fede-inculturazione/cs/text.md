@@ -1,13 +1,5 @@
 # Víra a inkulturace, 1988
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Mezinárodní teologická komise
@@ -233,17 +225,17 @@ I. *Různé aspekty reflexe a působení církve týkající se problematiky ink
 1\. Situace problematiky v oblasti magisteria:
 
 > 1.1. Druhý vatikánský koncil a synody (prof. Philippe Delhaye).
->
+
 > 1.2. Papežské proslovy (prof. André-Jean Leonard).
 
 2\. Teologie a pastorační působení:
 
 > 2.1. V Asii (prof. Peter Miyakawa Toshiyuki).
->
+
 > 2.2. V Africe (prof. James Okoye).
->
+
 > 2.3. V Latinské Americe (prof. José Miguel Ibáňez Langlois).
->
+
 > 2.4. Ve světě kolem Atlantiku (prof. Giuseppe Colombo).
 
 II.   *Písmo svaté a teologie*:
@@ -253,7 +245,7 @@ II.   *Písmo svaté a teologie*:
 2\. Ježíš Kristus:
 
 > 2.1. Přijetí lidské přirozenosti (prof. Gilles Langevin).
->
+
 > 2.2. Spása a zbožštění (prof. Francis Moloney).
 
 3. Duch svatý a církev (prof. Jean Corbon).

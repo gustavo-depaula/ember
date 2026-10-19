@@ -1,14 +1,8 @@
 # Responsum ad dubium circa doctrinam in Epist. Ap.'Ordinatio Sacerdotalis' traditam, d. 28 m. Octobris a. 1995, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **RESPONSIO AD PROPOSITUM DUBIUM CIRCA DOCTRINAM IN EPIST. AP. « ORDINATIO SACERDOTALIS » TRADITAM** \*
-
-* *
 
 *Dub.*: Utrum doctrina, tradita tamquam definitive tenenda in Epist. apost. « Ordinatio Sacerdotalis », iuxta quam Ecclesia facultatem nullatenus habet ordinationem sacerdotalem mulieribus conferendi, ut pertinens ad fidei depositum intellegenda sit.
 
@@ -27,5 +21,3 @@ Haec enim doctrina assensum definitivum exigit, cum, in verbo Dei scripto fundat
 ------------------------------------------------------------------------
 
 \* *AAS* 87 (1995), 1114.
-
-[](#top)

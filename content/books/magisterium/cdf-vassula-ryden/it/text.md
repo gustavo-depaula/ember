@@ -1,9 +1,5 @@
 # Lettera circolare ai Presidenti delle Conferenze Episcopali circa gli scritti e l'attività della Signora Vassula Rydén, 25 gennaio 2007
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***LETTERA CIRCOLARE AI PRESIDENTI DELLE CONFERENZE EPISCOPALI CIRCA GLI SCRITTI E L'ATTIVITÀ DELLA SIGNORA VASSULA RYDÉN***
@@ -27,5 +23,3 @@ Nel comunicarLe quanto sopra profitto della circostanza per professarmi con sens
 devotissimo
 
 **William Cardinale Levada** *Prefetto*
-
-[](#top)

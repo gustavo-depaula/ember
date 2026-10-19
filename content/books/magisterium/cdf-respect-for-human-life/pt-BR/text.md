@@ -1,9 +1,5 @@
 # Instrução sobre o respeito à vida humana nascente e a dignidade da procriação
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **SAGRADA CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***INSTRUÇÃO SOBRE*** ***O RESPEITO À VIDA HUMANA NASCENTE* *E A DIGNIDADE DA PROCRIAÇÃO***
@@ -316,30 +312,28 @@ A Congregação para a Doutrina da Fé dirige, particularmente, um confiante ape
 [\[3\*\]](#_ftnref3*) Uma vez que as palavras « pesquisa » e « experimentação » são usadas freqüentemente de modo equivalente e ambíguo, julga-se necessário precisar o significado que lhes é atribuído no presente documento.
 
 > 1\) Por pesquisa entende-se qualquer procedimento indutivo-dedutivo, que visa promover a observação sistemática de um dado fenômeno em campo humano ou verificar uma hipótese surgida de precedentes observações.
->
+
 > 2\) Por experimentação entende-se toda pesquisa na qual o ser humano (nos diversos estágios da sua existência: embrião, feto, criança ou adulto) representa o objeto mediante o qual ou no qual pretende-se verificar o efeito, por enquanto desconhecido ou ainda não de todo conhecido, de um determinado tratamento (por exemplo, farmacológico, teratogênico, cirúrgico, etc.).
 
 [\[4\*\]](#_ftnref4*)  Com a denominação de *Fecundação ou procriação artificial heteróloga*, a Instrução entende aquelas técnicas destinadas a obter artificialmente uma concepção humana, a partir de gametas provenientes de ao menos um doador diverso dos esposos que são unidos em matrimônio. Tais técnicas podem ser de dois tipos:
 
 > a\) *FIVET* *heterólogo*: a técnica destinada a obter uma concepção humana através do encontro in vitro de gametas retirados de ao menos um doador diverso dos dois esposos unidos em matrimônio.
->
+
 > b\) *Inseminação artificial heteróloga*: a técnica destinada a obter uma concepção humana através da transferência para as vias genitais da mulher do esperma previamente recolhido de um doador que não é o marido.
 
 [\[5\*\]](#_ftnref5*) Por *Fecundação ou procriação artificial homóloga* a Instrução entende a técnica destinada a obter uma concepção humana a partir dos gametas de dois esposos unidos em matrimônio. A fecundação artificial homóloga pode ser realizada de duas maneiras:
 
 > a\) *FIVET homólogo*: a técnica destinada a obter uma concepção humana mediante o encontro *in vitro* dos gametas dos esposos unidos em matrimônio.
->
+
 > b\) *Inseminação artificial homóloga*: a técnica destinada a obter uma concepção humana mediante a transferência para as vias genitais de uma mulher casada do esperma previamente recolhido do marido.
 
 [\[6\*\]](#_ftnref6*) Com a denominação de « mãe substitutiva » a Instrução entende indicar:
 
 > a\) a mulher que mantém em gestação um embrião transplantado em seu útero e que lhe é geneticamente estranho, porque obtido mediante a união de gametas de « doadores », com o compromisso de entregar a criança, uma vez nascida, a quem encomendou ou contratou tal gestação;
->
+
 > b\) a mulher que mantém em gestação um embrião para cuja concepção contribuiu com a doação de seu próprio óvulo, fecundado mediante inseminação com o esperma de um homem diverso de seu próprio marido, com o compromisso de entregar o filho, uma vez nascido, a quem encomendou ou contratou a gestação.
 
 \[47\]Cf. Pio XII, *Discurso aos participantes do IV Congresso Internacional dos Médicos Católicos*, 29 de setembro de 1949: *AAS* 41 (1949) 560: «Seria falso pensar que a possibilidade de se recorrer a este meio (fecundação artificial) possa tornar válido o matrimônio entre pessoas incapazes de contraí-lo por causa do *impedimentum impotentiae* ».
-
-[](#top)
 
 [^1]: João Paulo II, *Discurso aos participantes do 81*. *Congresso da Sociedade Italiana de Medicina Interna e do 82. Congresso da Sociedade Italiana de Cirurgia Geral*, 27 de outubro de 1980: *AAS* 72 (1980) 1126.
 

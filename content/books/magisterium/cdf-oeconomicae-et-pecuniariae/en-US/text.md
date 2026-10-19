@@ -1,15 +1,5 @@
 # Oeconomicae et pecuniariae quaestiones. Considerations for an ethical discernment on certain aspects of the current economic-financial system
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_ge.html) - [EN](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_en.html) - [ES](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_sp.html) - [FR](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_fr.html) - [IT](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_it.html) - [PT](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_po.html) - [ZH_CN](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_zh_cn.pdf) - [ZH_TW](rc_con_cfaith_doc_20180106_oeconomicae-et-pecuniariae_zh_tw.pdf)\]

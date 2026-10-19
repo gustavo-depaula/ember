@@ -13,8 +13,6 @@ DEI SEGUACI DI SANT’IGNAZIO CHE, AL SERVIZIO DELLA CHIESA,
 HANNO OPERATO CON ZELO E ATTIVITÀ INDEFESSA  
 IN TUTTI I SETTORI DELLA SOCIETÀ UMANA.
 
-* *
-
 *Al diletto Figlio Wlodimiro Ledóchowski, Preposito Generale della Compagnia di Gesù.*
 
 *Diletto Figlio Nostro, salute e Apostolica Benedizione.*
@@ -64,8 +62,6 @@ Ora, o diletto Figlio, affinché tutto quello che in questa Nostra Lettera Ti ab
 E per accrescere questi frutti di santità con un dono che attingiamo dal tesoro della Chiesa, per il giorno 27 del prossimo mese di settembre — nel quale cade la vostra ricorrenza centenaria — ovvero per un altro giorno nel quale i Superiori della vostra religiosa Famiglia preferiranno celebrare quella solennità, di tutto cuore concediamo che tutti e singoli i membri del vostro Ordine e tutti i fedeli cristiani i quali, confessati e comunicati, visiteranno una chiesa della Compagnia di Gesù o affidata alle sue cure e vi pregheranno secondo la Nostra intenzione, possano acquistare l’Indulgenza plenaria.
 
 Intanto, auspice dei favori celesti e pegno della Nostra benevolenza paterna, a Te, o diletto Figlio, a tutti i religiosi della Compagnia di Gesù ed ai loro alunni impartiamo con effusione di cuore la Benedizione Apostolica.
-
-* *
 
 *Dato a Roma, presso S. Pietro, il 6 luglio 1940, nell’Ottava dei Santi Apostoli Pietro e Paolo, anno secondo del Nostro Pontificato.*
 

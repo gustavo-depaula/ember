@@ -1,9 +1,5 @@
 # Nota circa il Ministro del Sacramento dell'Unzione degli Infermi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER LA DOTTRINA DELLA FEDE
 
 ***Nota circa il Ministro del Sacramento dell'Unzione degli Infermi***
@@ -76,5 +72,3 @@ Nell'amministrazione dei sacramenti egli agisce *in persona Christi Capitis* e *
 ------------------------------------------------------------------------
 
 1\) Si nota che anche gli Ortodossi ritengono che Ministro dell'Unzione sia solamente il Vescovo o il presbitero.
-
-[](#top)

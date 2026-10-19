@@ -295,15 +295,15 @@ Kompetence kuriálních institucí se obvykle určuje podle předmětu. Je však
 Každá kuriální instituce v rámci své kompetence:
 
 > 1\. projednává záležitosti, které jsou ze své podstaty nebo podle ustanovení práva vyhrazeny Apoštolskému stolci,
->
+
 > 2\. projednává záležitosti určené papežem,
->
+
 > 3\. zkoumá otázky a problémy, které přesahují rámec kompetencí jednotlivých diecézních/eparchiálních biskupů nebo biskupských orgánů (biskupské konference nebo východní hierarchické struktury),
->
+
 > 4\. zkoumá nejzávažnější problémy současné doby s cílem, aby pastorace církve byla odpovídající, koordinovaná a účinná, s porozuměním a respektem vůči kompetencím partikulárních církví, biskupských konferencí, jejich regionálních a kontinentálních uskupení a východních hierarchických struktur,
->
+
 > 5\. podporuje a usnadňuje iniciativy a návrhy pro dobro univerzální církve a vybízí k nim,
->
+
 > 6\. zabývá se záležitostmi věřících, s nimiž se dle svého práva obracejí přímo na Apoštolský stolec, a pokud je to třeba, vydává potřebná rozhodnutí.
 
 **Čl. 22**
@@ -323,9 +323,9 @@ Vedoucí kuriálních institucí, nebo v jejich zastoupení sekretáři, jsou o
 Vedoucímu dikasteria – s výjimkou odlišných pokynů pro jednotlivé dikasterium – přísluší svolat kongres, složený z něho, sekretáře, podsekretáře a na základě posouzení vedoucího dikasteria všech nebo části úředníků:
 
 > 1\. aby se zabývali konkrétními otázkami a nalézali řešení s okamžitým rozhodnutím, nebo navrhli jejich předložení řádnému nebo plenárnímu zasedání, interdikasteriální poradě nebo papeži,
->
+
 > 2\. aby vyčlenili konzultorům nebo jiným odborníkům ty záležitosti, které vyžadují zvláštní přezkoumání,
->
+
 > 3\. aby prozkoumali žádosti o fakulty a reskripty podle kompetence dikasteria.
 
 **Čl. 26**
@@ -476,11 +476,11 @@ Sekce pro obecné záležitosti má na starosti zejména vyřizování záležit
 Další kompetence:
 
 > 1. redigovat a zasílat apoštolské konstituce, dekretální listy, apoštolské listy, listy a další dokumenty, které jí papež svěřil,
->
+
 > 2. dohlížet na zveřejňování akt a veřejných dokumentů Svatého stolce v úředním věstníku *„Acta Apostolicae Sedis“*,
->
+
 > 3. poskytovat Dikasteriu pro komunikaci informace o úředních sděleních týkajících se jak papeže, tak činnosti Svatého stolce,
->
+
 > 4. uchovávat olověné pečeti a rybářský prsten.
 
 **Čl. 48**
@@ -488,13 +488,12 @@ Další kompetence:
 Do zodpovědnosti této sekce spadá rovněž:
 
 > 1. zabezpečení pravidelných porad vedoucích kuriálních institucí a realizace příslušných ustanovení,
->
+
 > 2. zpracování veškerých dokumentů pro jmenování, která rozhodl či schválil papež, a sice jmenování prefekta nebo osoby jemu naroveň postavené, členů (dikasterií), sekretáře, podsekretáře nebo podsekretářů a konzultorů kuriálních institucí a úřadů, institucí spojených se Svatým stolcem a diplomatického personálu,
->
+
 > 3\. příprava dokumentů týkajících se papežských vyznamenání,
->
+
 > 4\. shromažďování, zpracovávání a zveřejňování statistik, týkajících se života církve ve světě.  
->  
 
 **Sekce pro vztahy se státy a mezinárodními organizacemi**
 
@@ -565,9 +564,9 @@ Dikasteriu pro evangelizaci předsedá přímo papež. Každou z obou sekcí ř
 Vzhledem k politickým, sociálním a kulturním výzvám sekce:
 
 > 1. podporuje evangelizaci tím, že rozlišuje znamení doby a zkoumá socioekonomické podmínky a životní prostředí adresátů hlásání evangelia;
->
+
 > 2. zkoumá a podporuje obnovující přínos evangelia při setkávání s kulturami a se vším, co souvisí s ochranou lidské důstojnosti a náboženské svobody. V úzké spolupráci s partikulárními církvemi, biskupskými konferencemi a východními hierarchickými strukturami podporuje a rozvíjí šíření a uplatňování církevního učení ohledně témat setkávání evangelia a kultur. Protože evangelizace znamená zaměřit se na chudé, stará se o Světový den chudých;
->
+
 > 3. rozvíjí a podporuje iniciativy v hlásání evangelia ze strany diecézních/eparchiálních biskupů, biskupských konferencí a východních hierarchických struktur.
 
 **Čl. 58**
@@ -615,11 +614,11 @@ Sekce spolupracuje s biskupy, biskupskými konferencemi, instituty zasvěcenéh
 S cílem posílit misijní spolupráci, sekce:
 
 > 1. doprovází nové partikulární církve na cestě k ekonomické autonomii svou pomocí s vytvořením nutných předpokladů,
->
+
 > 2. pomáhá zřizovat fondy potřebné k podpoře nových partikulárních církví a zajišťovat kompetentní personál pro vytváření fondů a pro spolupráci s ostatními partikulárními církvemi,
->
+
 > 3. v nových partikulárních církvích a jejich uskupeních pomáhá zřizovat orgány správy a kontroly využívání zdrojů a kvality investic,
->
+
 > 4. podporuje nové partikulární církve v oblasti personálního řízení.
 
 **Čl. 66**
@@ -661,7 +660,7 @@ Nauková sekce rozvíjí a podporuje studium a reflexi ohledně chápání víry
 V zájmu ochrany pravdy víry a integrity mravů Nauková sekce:
 
 > 1. zkoumá spisy a názory, které se zdají být v rozporu s pravou vírou a mravy nebo jim škodí; usiluje o dialog s jejich autory a podle vlastních norem předkládá vhodná nápravná opatření,
->
+
 > 2. usiluje o to, aby se přiměřeným způsobem vyvracely nebezpečné bludy a nauky, které se šíří mezi křesťanským lidem.
 
 **Čl. 74**
@@ -776,9 +775,9 @@ Dikasterium podporuje a oživuje pravidelné konání mezinárodních eucharisti
 Dikasterium se zabývá oblastmi týkajícími se liturgického života:
 
 > 1. podporou liturgické formace na různých úrovních, a to i prostřednictvím multiregionálních konferencí,
->
+
 > 2. podporou komisí nebo institucí vytvořených na podporu liturgického apoštolátu, hudby, zpěvu a sakrálního umění,
->
+
 > 3. zakládáním mezinárodních sdružení, která podporují tyto cíle, nebo schvalováním jejich stanov.
 
 **Čl. 93**
@@ -924,11 +923,11 @@ Dikasterium má pravomoc ve všem, co náleží Svatému stolci, pokud jde o oso
 Dikasterium se zabývá záležitostmi spadajícími do kompetence Svatého stolce, které se týkají:
 
 > 1. všeobecné disciplíny týkající se diecézní ekonomické rady, kněžské rady, kolegia konzultorů, kapituly kanovníků, diecézní pastorační rady, farností, kostelů,
->
+
 > 2. kněžských sdružení a veřejných klerických sdružení; posledně jmenovaným může po konzultaci s příslušnými dikasterii a po obdržení souhlasu papeže udělit fakultu inkardinace,
->
+
 > 3. církevních archivů,
->
+
 > 4. zániku zbožných odkazů obecně a zbožných nadací.
 
 **Čl. 119**
@@ -964,27 +963,27 @@ Dikasterium usiluje o to, aby instituty zasvěceného života a společnosti apo
 § 1. V souladu s kanonickými normami se dikasterium zabývá záležitostmi v pravomoci Apoštolského stolce, které se týkají života a činnosti institutů zasvěceného života a společností apoštolského života, zejména pokud jde o:
 
 > 1. schvalování stanov a jejich změn,
->
+
 > 2. řádné řízení a disciplínu členů,
->
+
 > 3. přičlenění a formaci členů, a to i prostřednictvím vhodných norem a směrnic,
->
+
 > 4. majetek a jeho správu,
->
+
 > 5. apoštolát,
->
+
 > 6. mimořádná opatření v oblasti řízení.
 
 § 2. Do působnosti dikasteria patří v souladu s právem také:
 
 > 1. přestup člena do jiné schválené formy zasvěceného života,
->
+
 > 2. prodloužení nepřítomnosti a exklaustrace nad rámec doby udělené nejvyššími představenými,
->
+
 > 3. indult odchodu členů s trvalými sliby z institutů zasvěceného života nebo společností apoštolského života papežského práva,
->
+
 > 4. nařízená exklaustrace,
->
+
 > 5. projednávání rekurzů proti dekretům o propuštění členů.
 
 **Čl. 125**
@@ -1220,11 +1219,11 @@ Dikasterium ve spolupráci s biskupskými konferencemi, jejich regionálními a
 V rámci své činnosti na podporu spravedlnosti a míru dikasterium:
 
 > 1. aktivně pracuje na prevenci a řešení konfliktů, a to i tím, že po dohodě se Státním sekretariátem a za účasti biskupských konferencí a východních hierarchických struktur identifikuje a analyzuje možné situace, které by je mohly vyvolávat,
->
+
 > 2. zavazuje se hájit a podporovat důstojnost a základní práva lidské osoby, jakož i sociální, hospodářská a politická práva,
->
+
 > 3. podporuje iniciativy proti obchodování s lidmi, nucené prostituci, vykořisťování nezletilých a zranitelných osob, proti různým formám otroctví a mučení a usiluje o to, aby mezinárodní společenství bylo pozorné a citlivé na zacházení s vězni a na jejich životní podmínky a podporovalo zrušení trestu smrti,
->
+
 > 4. snaží se o to, aby v partikulárních církvích – v případě potřeby také prostřednictvím příslušných pastoračních struktur – byla migrantům, uprchlíkům, vysídleným osobám a dalším subjektům lidské mobility, které potřebují zvláštní pastorační péči, poskytována účinná a vhodná materiální a duchovní pomoc.
 
 **Čl. 166**
@@ -1386,11 +1385,11 @@ Apoštolská signatura vykonává funkci nejvyššího církevního soudu a tak�
 Apoštolská signatura jakožto soud s řádnou jurisdikcí má v kompetenci:
 
 > 1. vymáhání neplatnosti a žádosti o *restitutio in integrum* proti rozsudkům Římské roty,
->
+
 > 2. stížnosti ve věcech osobního stavu, když Římská rota odmítla nové projednání,
->
+
 > 3. námitky podjatosti a jiné záležitosti proti soudcům Římské roty z důvodu jednání při výkonu jejich služby,
->
+
 > 4. spory o příslušnost mezi soudy, které nepodléhají témuž odvolacímu soudu.
 
 **Čl. 197**
@@ -1406,13 +1405,13 @@ Apoštolská signatura jakožto soud s řádnou jurisdikcí má v kompetenci:
 Apoštolské signatuře jakožto správnímu orgánu v disciplinárních věcech rovněž přísluší:
 
 > 1. vykonávat dohled nad řádným výkonem spravedlnosti u různých církevních soudů a v případě potřeby přijímat opatření proti soudnímu personálu, advokátům nebo prokurátorům,
->
+
 > 2. rozhodovat o žádostech adresovaných Apoštolskému stolci, aby byla kauza postoupena Římské rotě,
->
+
 > 3. rozhodovat o jakékoli žádosti týkající se výkonu spravedlnosti,
->
+
 > 4. prodlužovat působnost soudů nižšího stupně,
->
+
 > 5. udělit schválení odvolacího soudu, jakož i, pokud je to vyhrazeno Svatému stolci, souhlas se zřízením interdiecézních / intereparchiálních / interrituálních regionálních, národních a v případě potřeby i nadnárodních soudů.
 
 **Čl. 199**
@@ -1448,11 +1447,11 @@ Apoštolská signatura se řídí vlastním zákonem.
 § 1. Římská rota kromě toho soudí v první instanci:
 
 > 1\. biskupy ve sporných věcech, pokud se nejedná o práva nebo majetek právnické osoby zastoupené biskupem,
->
+
 > 2\. opaty primasy nebo opaty představené mnišských kongregací a nejvyšší představené institutů zasvěceného života a společností apoštolského života papežského práva,
->
+
 > 3\. diecéze/eparchie nebo jiné církevní osoby, ať fyzické, nebo právnické, které nemají jiného představeného než papeže;
->
+
 > 4\. záležitosti, které papež svěřil tomuto tribunálu.
 
 § 2. Stejné záležitosti soudí i ve druhé a další instanci, pokud není stanoveno jinak.
@@ -1486,11 +1485,11 @@ Tribunál Římské roty se řídí vlastním právem.
 Rada předkládá papeži ke schválení směrnice a pravidla, která mají zajistit, že:
 
 > 1. je chráněn majetek subjektů a správních orgánů podléhajících jejímu dohledu,
->
+
 > 2. snižují se majetková a finanční rizika,
->
+
 > 3. lidské, materiální a finanční zdroje jsou přidělovány racionálně a jsou spravovány obezřetně, efektivně a transparentně,
->
+
 > 4. subjekty a správní orgány plní své úkoly účinným způsobem, v souladu s činnostmi, programy a rozpočty, které pro ně byly schváleny.
 
 **Čl. 208**
@@ -1540,11 +1539,11 @@ Rada zkoumá návrhy předložené Sekretariátem pro ekonomiku, jakož i příp
 Sekretariát pro ekonomiku:
 
 > 1. vydává pokyny týkající se ekonomických a finančních záležitostí Svatého stolce a kontroluje, že činnosti probíhají v souladu se schválenými operačními plány a programy,
->
+
 > 2. monitoruje správní, hospodářské a finanční činnosti institucí, které byly svěřeny pod jeho kontrolu a dohled; navrhuje a zajišťuje případná nápravná opatření,
->
+
 > 3. připravuje roční rozpočet a kontroluje pak jeho dodržování, a připravuje souhrnnou konsolidovanou rozvahu Svatého stolce a předkládá je Radě pro ekonomické záležitosti,
->
+
 > 4\. provádí každoroční hodnocení rizik majetkové a finanční situace Svatého stolce a předkládá je Radě pro ekonomické záležitosti.
 
 **Čl. 216**
@@ -1552,7 +1551,7 @@ Sekretariát pro ekonomiku:
 Sekretariát pro ekonomiku:
 
 > 1. formuluje směrnice, pokyny, vzory a postupy pro zadávání dodavatelských zakázek, jejichž cílem je zajistit, aby veškeré zboží a služby požadované kuriálními institucemi a úřady a institucemi spojenými se Svatým stolcem nebo se k němu vztahujícími byly zadávány co nejobezřetnějším, nejefektivnějším a nejhospodárnějším způsobem, v souladu s odpovídajícími interními kontrolami a postupy,
->
+
 > 2. poskytuje vhodné informační nástroje, které umožňují účinné a transparentní správní, hospodářské a finanční řízení a zajišťují věrné vedení archivů a účetnictví v souladu se schválenými normami a postupy.
 
 **Čl. 217**
@@ -1616,7 +1615,7 @@ Sekretariát pro ekonomiku:
 Komisi pro vyhrazené záležitosti přísluší:
 
 > 1. schvalovat jakékoli úkony právní, hospodářské nebo finanční povahy, které musí být pro vyšší dobro církve nebo jednotlivců chráněny tajemstvím a vyňaty z kontroly a dohledu příslušných orgánů,
->
+
 > 2. kontrolovat smlouvy Svatého stolce, které podle zákona vyžadují důvěrnost, a dohlížet na ně.
 
 **Čl. 226**
@@ -1700,9 +1699,9 @@ Kardinál kamerlengo Svaté církve římské je po dobu uprázdnění Apoštols
 Během uprázdnění papežského stolce je právem a povinností kardinála kamerlenga Svaté církve římské:
 
 > 1. vyžádat si od všech administrativních jednotek podléhajících Svatému stolci zprávy o jejich majetkovém a hospodářském stavu, jakož i informace o probíhajících mimořádných úkonech,
->
+
 > 2. vyžádat si od Rady pro ekonomické záležitosti rozpočty a souhrnné konsolidované účetní uzávěrky Svatého stolce za předchozí rok, jakož i rozpočet na rok následující,
->
+
 > 3. v případě potřeby si vyžádat od Sekretariátu pro ekonomiku veškeré informace týkající se ekonomického stavu Svatého stolce.
 
 **IX.**

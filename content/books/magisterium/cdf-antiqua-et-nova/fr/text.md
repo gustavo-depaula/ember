@@ -1,13 +1,5 @@
 # Antiqua et nova - Note sur les relations entre l’intelligence artificielle et l’intelligence humaine
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERE POUR LA DOCTRINE DE LA FOI  
@@ -330,17 +322,17 @@ Section culture
 **[III.  L’intelligence dans la tradition philosophique et théologique](#III.__L-intelligence_dans_la_tradition_philosophique_et_theologique)**
 
 > *[La rationalité](#La_rationalite)*
->
+
 > *[Incarnation](#Incarnation)*
->
+
 > *[Relationalité](#Relationalite)*
->
+
 > *[Relation à la vérité](#La_relation_avec_la_verite)*
->
+
 > *[La garde du monde](#Garde_du_monde)*
->
+
 > *[Une compréhension intégrale de l’intelligence humaine](#Une_comprehension_integrale_de_l-intelligence_humaine)*
->
+
 > *[Limites de l’IA](#Limites_de_l-IA)*
 
 **[IV. Le rôle de l’éthique dans l’orientation du développement et de l’utilisation de l’IA](#IV._Le_role_de_l-ethique)**
@@ -350,23 +342,23 @@ Section culture
 **[V. Questions spécifiques](#V.__Questions_specifiques)**
 
 > *[L’IA et la société](#IA_et_societe)*
->
+
 > *[L’IA et les relations humaines](#L-IA_et_les_relations_humaines)*
->
+
 > *[IA, économie et travail](#IA_economie_et_travail)*
->
+
 > *[IA et santé](#L-IA_et_les_soins_de_sante)*
->
+
 > *[IA et éducation](#L-IA_et_l-education)*
->
+
 > *[IA, désinformation, deepfakes et abus](#IA_desinformation_deepfake_et_abus)*
->
+
 > *[IA, vie privée et contrôle](#IA_vie_privee_et_controle)*
->
+
 > *[L’IA et la protection de la maison commune](#L-IA_et_la_protection_de_la_maison_commune)*
->
+
 > *[L’IA et la guerre](#L-IA_et_la_guerre)*
->
+
 > *[L’IA et la relation de l'humanité avec Dieu](#L-IA_et_la_relation_de_l-humanite_avec_Dieu)*
 
 **[VI. Réflexion finale](#VI._Reflexion_finale)**

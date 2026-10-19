@@ -2,8 +2,6 @@
 
 ***List apostolski «motu proprio ‘Latina Lingua’» powołujący do życia Papieską Akademię Języka i Kultury Łacińskiej***
 
-** **
-
 1\. Język łaciński cieszył się zawsze wielkim poważaniem Kościoła  katolickiego i Biskupów Rzymu, którzy wytrwale zabiegali o jego poznawanie i propagowanie, jako że uznali go za swój język, najbardziej odpowiedni do przekazywania w skali powszechnej orędzia Ewangelii, jak już stwierdziła autorytatywnie konstytucja apostolska *Veterum sapientia* mojego poprzednika, bł. Jana XXIII.
 
 W rzeczywistości, poczynając od Pięćdziesiątnicy, Kościół przemawiał i modlił się we wszystkich ludzkich językach. Jednakże wspólnoty chrześcijańskie pierwszych wieków posługiwały się w szerokim zakresie greką i łaciną, językami powszechnej komunikacji w ich świecie, dzięki którym nowość Słowa Chrystusowego spotykała się z dziedzictwem kultury hellenistyczno-rzymskiej.

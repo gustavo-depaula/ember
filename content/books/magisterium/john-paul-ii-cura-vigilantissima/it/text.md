@@ -8,8 +8,6 @@ LITTERAE APOSTOLICAE
 
 **quibus lex promulgatur de Sanctae Sedis tabulariis.**
 
-** **
-
 La cura vigilantissima che i Romani Pontefici hanno sempre mostrato nel conservare e tramandare alle future generazioni la memoria del Pontificato e dell'opera della Santa Sede non solo deve essere mantenuta anche ai giorni nostri, ma anzi conviene che sia accresciuta, specie per ciò che riguarda gli archivi della Sede Apostolica, ovunque si trovino.
 
 Infatti gli archivi della Santa Sede, conservati lungo i secoli in diversi luoghi dell'Urbe e custoditi con metodologie multiformi, secondo le consuetudini dei tempi, sono venuti crescendo ai nostri giorni di numero e di qualità, contemporaneamente allo sviluppo e alle riforme della Curia Romana, ed esigono pertanto una normativa che assicuri il loro retto ordinamento, la congrua conservazione e la buona consultazione per rispondere anzitutto alle esigenze del Romano Pontefice, quindi della stessa Curia Romana e infine dei ricercatori e degli storici che ad essi si rivolgono con sempre maggiore attenzione.

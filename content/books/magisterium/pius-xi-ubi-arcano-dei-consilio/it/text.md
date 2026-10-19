@@ -152,8 +152,6 @@ E di questa pace sia a tutti caparra la Benedizione Apostolica, che vogliamo sce
 
 ------------------------------------------------------------------------
 
-* *
-
 [^1]: \[\] *II Cor*., VI, 11.
 
 [^2]: \[\] *II Cor*., XI, 28.

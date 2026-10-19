@@ -1,9 +1,5 @@
 # Carta enviada ao R. Padre E. Schillebeeckx, O.P., 13 de junho de 1984
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***CARTA ENVIADA AO R. P. E. SCHILLEBEECKX, O.P.**\**
@@ -47,5 +43,3 @@ Aceite, meu Reverendo Padre, a expressão de meus sentimentos de respeitosa esti
 **+ Alberto Bovone** *Secretário*  
 
 \* AAS 77 (1985), 1298-1299.
-
-[](#top)

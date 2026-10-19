@@ -1,13 +1,5 @@
 # Decreto circa i cann. 1399 e 2318 non più in vigore, 15 novembre 1966
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE   

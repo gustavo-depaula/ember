@@ -1,13 +1,5 @@
 # Schreiben zu einigen Fragen der Eschatologie
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **KONGREGATION FÜR DIE GLAUBENSLEHRE**

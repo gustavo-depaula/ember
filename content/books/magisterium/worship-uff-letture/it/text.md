@@ -1,9 +1,5 @@
 # Ufficio delle Letture
 
-[](http://www.vatican.va/index.htm)
-
-[](javascript:history.go(-1)) [](http://www.vatican.va/latin/latin_curia.html#Congregatio_de_Cultu_Divino_et_Disciplina_Sacramentorum)
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 ***SAN*** ***GIOVANNI PAOLO II, PAPA***
@@ -55,5 +51,3 @@ R/. Aprite, spalancate le porte a Cristo.
 **Orazione**
 
 O Dio, ricco di misericordia, che hai chiamato san Giovanni Paolo II, papa, a guidare l’intera tua Chiesa, concedi a noi, forti del suo insegnamento, di aprire con fiducia i nostri cuori alla grazia salvifica di Cristo, unico Redentore dell’uomo. Egli è Dio.
-
-[](#top)

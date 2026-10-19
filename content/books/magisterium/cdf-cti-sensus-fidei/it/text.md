@@ -1,9 +1,5 @@
 # Sensus fidei nella vita della Chiesa
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 COMMISSIONE TEOLOGICA INTERNAZIONALE
 
 **IL *SENSUS FIDEI* NELLA VITA DELLA CHIESA**
@@ -391,8 +387,6 @@ ii\) Spesso nella storia del popolo di Dio non è stata la maggioranza, ma piutt
 ------------------------------------------------------------------------
 
 Traduzione italiana a cura de *Il Regno.Documento* (novembre 2014)
-
-[](#top)
 
 [^1]: Francesco, *Angelus*, 17.3.2013.
 

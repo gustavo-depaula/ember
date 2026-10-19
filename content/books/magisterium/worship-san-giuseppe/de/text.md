@@ -1,9 +1,5 @@
 # Dekret über die Hinzufügung des Namens des hl. Josef in den eucharistischen Gebeten II, III, IV des Missale Romanum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](../index_it.htm)
-
 KONGREGATION FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG
 
 **Dekret**
@@ -112,5 +108,3 @@ III Modlitwa eucharystyczna:
 
 IV Modlitwa eucharystyczna:  
 «*z Najświętszą Dziewicą, Bogurodzicą Maryją*, ***ze świętym Józefem, Jej Oblubieńcem***, *z Apostołami...*».
-
-[](#top)

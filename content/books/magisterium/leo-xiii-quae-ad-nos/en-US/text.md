@@ -11,5 +11,3 @@ The notices which daily come to Us about the state of your dioceses and thedepar
 *Given in Rome at St. Peter's, 22 November 1902, in the 25th year of OurPontificate.*
 
 **LEO XIII**
-
-*     *

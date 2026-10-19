@@ -1,9 +1,5 @@
 # Decreto de erecção do Ordinariado Pessoal da Cátedra de São Pedro, 1° de janeiro de 2012
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 **Decreto de erecção do Ordinariado Pessoal da Cátedra de São Pedro**
@@ -87,5 +83,3 @@ Não obstante qualquer disposição contrária.
 14 Cf. *N[Normas Complementares](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_po.html),* Art. 10 § 3; cf. também Constituição Apostólica *[Anglicanorum coetibus](/holy_father/benedict_xvi/apost_constitutions/documents/hf_ben-xvi_apc_20091104_anglicanorum-coetibus_po.html),* Art. VI § 2.
 
 15 Cf. *[Normas Complementares](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_po.html),* Art. 12 § 1; Art. 13 § 2.
-
-[](#top)

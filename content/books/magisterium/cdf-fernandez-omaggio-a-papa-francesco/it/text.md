@@ -1,18 +1,8 @@
 # Omaggio a Papa Francesco: Nella sequela di un Padre. Il Card. Víctor Manuel Fernández in dialogo con la Sezione Dottrinale del Dicastero
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Card. Víctor Manuel Fernández *Prefetto del Dicastero per la Dottrina della Fede*
-
-* *
 
 **Omaggio a Papa Francesco**
 

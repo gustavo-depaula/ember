@@ -1,14 +1,8 @@
 # Statement on the doctrinal Assessment of the LCWR, 18 April 2012 - Congregation for the Doctrine of the Faith
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATION FOR THE DOCTRINE OF THE FAITH
 
 ***Statement* *of Cardinal William Levada,* *Prefect of the Congregation for the Doctrine of the Faith on the doctrinal Assessment of the LCWR***
-
-* * 
 
 The findings of the doctrinal Assessment of the Leadership Conference of Women Religious (LCWR) released today by the [Congregation for the Doctrine of the Faith](/roman_curia/congregations/cfaith/index.htm) are aimed at fostering a patient and collaborative renewal of this conference of major superiors in order to provide a stronger doctrinal foundation for its many laudable initiatives and activities.
 
@@ -23,8 +17,6 @@ The overarching aim of the doctrinal Assessment is, therefore, to assist the LCW
 April 18, 2012.
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 3. Pope Benedict XVI, Apostolic Letter *[Porta Fidei](/holy_father/benedict_xvi/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei_en.html)*, no. 6.
 

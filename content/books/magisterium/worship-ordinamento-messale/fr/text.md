@@ -1,9 +1,5 @@
 # Présentation générale du Missel Romain
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ***PRÉSENTATION GÉNÉRALE DU MISSEL ROMAIN***
 
 **TABLE DES MATIÈRES**
@@ -19,7 +15,7 @@
 **[CHAP. II - LA STRUCTURE DE LA MESSE, SES ÉLÉMENTS ET SES PARTIES](#CHAPITRE_II_LA_STRUCTURE_DE%C2%A0LA_MESSE,__SES_ÉLÉMENTS_ET_SES_PARTIES)**
 
 > **[I - Structure générale de la messe](#I_-_STRUCTURE_GÉNÉRALE_DE_LA_MESSE)** (27 - 28) **[II - Les divers éléments de la messe](#II_-_LES_DIVERS_ÉLÉMENTS_DE_LA_MESSE)** (29 - 45)
->
+
 > > \- [La lecture et l’explication de la parole de Dieu](#La_lecture_et_l’explication_de_la_parole_de_Dieu)  
 > > - [Les oraisons et les autres parties qui reviennent au prêtre](#Les_oraisons_et_les_autres_parties_qui_reviennent_au_prêtre)  
 > > - [Les autres formules dans la célébration](#Les_autres_formules_dans_la_célébration)  
@@ -27,9 +23,9 @@
 > > - [L’importance du chant](#L’importance_du_chant)  
 > > - [Les gestes et les attitudes corporelles](#Les_gestes_et_les_attitudes_du_corps)  
 > > - [Le silence](#Le_silence)
->
+
 > **[III - Les différentes parties de la messe](#III_-_LES_DIFFÉRENTES_PARTIES__DE_LA_MESSE_)** (46 - 90)
->
+
 > > ***[A) Ouverture de la célébration](#A)_Rites_initiaux)*** (46 - 54)
 > >
 > > > \- [Le chant d´entrée](#Le_chant_d´entrée_(l’introït))  
@@ -63,20 +59,20 @@
 # [CHAP. III - LES SERVICES ET LES MINISTÈRES A LA MESSE](#CHAPITRE_III_LES_OFFICES_ET_LES_MINISTÈRES_A_LA_MESSE)
 
 > **[I - Les services des ministres ordonnés](#I_-LES_OFFICES_DE_L’ORDRE_SACRE_)** (92 - 94)
->
+
 > **[II - Les fonctions du peuple de Dieu](#II_-_LES_FONCTIONS_DU_PEUPLE_DE_DIEU)** (95 - 97)
->
+
 > **[III - Les ministères particuliers](#III_-_LES_MINISTÈRES_PARTICULIERS)** (98 - 107)
->
+
 > > \- [Le ministère de l’acolyte et du lecteur institués](#Le_ministère_de_l’acolyte_et_du_lecteur_institués)  
 > > - [Les autres fonctions](#Les_autres_fonctions)
->
+
 > **[IV – Répartition des fonctions et préparation de la célébration](#IV_–_REPARTITION_DES_FONCTIONS__ET_PREPARATION_DE_LA_CELEBRATION)** (108-111)
 
 # [CHAP. IV  -  LES DIVERSES FORMES DE CÉLÉBRATION DE LA MESSE](#CHAPITRE_IV_LES_DIVERSES_FORMES__DE_CÉLÉBRATION_DE_LA_MESSE)
 
 > **[I - La messe avec peuple](#I_-_LA_MESSE_AVEC_PEUPLE)** (115 - 198)
->
+
 > > [Les préparatifs](#La_préparation) (117 - 119)
 > >
 > > ***[A) La messe sans diacre](#A)_La_messe_sans_diacre)*** (120-170)
@@ -102,9 +98,9 @@
 > >
 > > > \- [Ouverture de la célébration](#Rites_initiaux__)  
 > > > - [Liturgie de la Parole](#Liturgie_de_la_Parole__)
->
+
 > **[II - La messe concélébrée](#II_-_LA_MESSE_CONCÉLÉBRÉE)** (199 - 251)
->
+
 > > \- [Ouverture de la célébration](#Rites_initiaux___)  
 > > - [Liturgie de la Parole](#Liturgie_de_la_Parole___)  
 > > - [Liturgie eucharistique](#Liturgie_eucharistique___)  
@@ -117,16 +113,16 @@
 > >
 > > \- [Rites de communion](#Rites_de_communion)  
 > > - [Rites de conclusion](#Rite_de_conclusion__)
->
+
 > **[III - La messe avec participation d’un seul ministre](#III_-_LA_MESSE_AVEC_PARTICIPATION__D’UN_SEUL_MINISTRE)** (252 - 272)
->
+
 > > \- [Ouverture de la célébration](#Rites_initiaux____)  
 > > - [Liturgie de la Parole](#Liturgie_de_la_Parole_____)  
 > > - [Liturgie eucharistique](#Liturgie_eucharistique_____)  
 > > - [Rites de conclusion](#Rite_de_conclusion____)
->
+
 > **[IV - Quelques règles valables pour toutes les formes de messe](#IV_-_QUELQUES_RÈGLES_VALABLES__POUR_TOUTES_LES_FORMES_DE_MESSE)** (273 - 287)
->
+
 > > \- [Vénération de l´autel et du Livre des Évangiles](#Vénération_de_l´autel_et_de_l’Evangéliaire.)  
 > > - [Génuflexion et inclination](#Génuflexion_et_inclination)  
 > > - [Encensement](#Encensement)  
@@ -136,31 +132,31 @@
 **[CHAP. V - AMÉNAGEMENT ET ORNEMENTATION DES ÉGLISES POUR LA CÉLÉBRATION DE L´EUCHARISTIE](#CHAPITRE_V_DISPOSITION_ET_ORNEMENTATION_DES_ÉGLISES_%C2%A0POUR_LA_CÉLÉBRATION_DE_L´EUCHARISTIE_)**
 
 > **[I - Principes généraux](#I_-_PRINCIPES_GÉNÉRAUX)** (288 - 294)
->
+
 > # [II – Aménagement du sanctuaire pour la célébration communautaire](#II_–_DISPOSITION_DU_SANCTUAIRE__POUR_LA_CÉLÉBRATION_COMMUNAUTAIRE) (295 – 310)
->
+
 > > # - [L´autel et son ornementation](#L’autel_et_son_ornementation) - [L´ambon](#L’ambon) - [Le siège de présidence et les autres sièges](#Le_siège_pour_le_prêtre_célébrant_et_les_autres_sièges) 
->
+
 > # [III – Aménagement de l´église](#III_-_AMENAGEMENT_DE_L’EGLISE_) (311 – 318)
->
+
 > > # - [La place des fidèles](#La_place_des_fidèles) - [La place de la chorale et des instruments de musique](#La_place_de_la_chorale_et_des_instruments_de_musique) - [La place de la réserve eucharistique](#Le_lieu_de_la_réserve_eucharistique) - [Les images saintes](#Les_images_saintes) 
 
 # [CHAP. VI - CE QUI EST REQUIS POUR CÉLÉBRER LA MESSE](#CHAPITRE_VI_CE_QUI_EST_REQUIS_POUR_LA_CELEBRATION__DE__LA_MESSE)
 
 > **[I - Le pain et le vin de la célébration eucharistique](#I_-_LE_PAIN_ET_LE_VIN_DESTINES__A_LA_CÉLÉBRATION_EUCHARISTIQUE)** (319 - 324) **[II - Le mobilier liturgique](#II_-_LE_MOBILIER_LITURGIQUE_EN_GENERAL)** (325 - 326)
->
+
 > **[III - Les vases liturgiques](#III_-_LES_VASES_SACRES)** (327 - 334)
->
+
 > **[IV - Les vêtements liturgiques](#IV_-_LES_VÊTEMENTS_LITURGIQUES)** (335 - 347)
->
+
 > **[V - Les autres objets](#V_–_LES_AUTRES_OBJETS_EMPLOYES_A_L’EGLISE)** (348 - 351)
 
 # [CHAP. VII - CHOIX DE LA MESSE ET DE SES DIFFÉRENTES PARTIES](#CHAPITRE_VII_CHOIX_DE_LA_MESSE__ET_DE_SES_DIFFÉRENTES_PARTIES)
 
 > **[I - Choix de la messe](#I_-_CHOIX_DE_LA_MESSE)** (353-355)
->
+
 > **[II - Choix des parties de la messe](#II_–CHOIX_DES_PARTIES_DE_LA_MESSE)** (356-367)
->
+
 > > \- [Les lectures](#Les_lectures)  
 > > - [Les oraisons](#Les_oraisons)  
 > > - [La prière eucharistique](#La_Prière_eucharistique_)  
@@ -302,7 +298,7 @@ C´est pourquoi les lectures de la parole de Dieu, qui constituent un élément 
 **37.** Enfin, parmi les autres formules:
 
 > a\) certaines constituent un rite ou un acte ayant valeur en lui-même, comme l´hymne *Gloria*, le psaume responsorial, l´*Alléluia* et le verset avant l´Évangile, le *Sanctus*, l´acclamation d´anamnèse, le chant après la communion;
->
+
 > b\) certaines autres, comme les chants pour l’entrée, l’offertoire, la fraction *(Agnus Dei / Agneau de Dieu)* et la communion, accompagnent un rite.
 
 ***Les façons de prononcer les différents textes***
@@ -398,9 +394,9 @@ On chante ou on dit le *Gloria* le dimanche en dehors de l´Avent et du Carême,
 **54.** Puis, le prêtre invite le peuple à prier; et tous, avec le prêtre, font un instant de silence, pour prendre conscience qu´ils se tiennent en présence de Dieu, et pour mentionner intérieurement leurs intentions de prière. Ensuite le prêtre prononce la prière d’ouverture, appelée habituellement « collecte », qui exprime le caractère de la célébration. Selon l’antique tradition de l’Eglise, cette prière s’adresse habituellement à Dieu le Père, par le Christ, dans l´Esprit Saint[^57], et se termine par une conclusion trinitaire, c’est-à-dire par la conclusion longue, de la manière suivante :
 
 > \- si elle s´adresse au Père: "*Per Dominum nostrum Iesum Christum Filium tuum, qui tecum vivit et regnat in unitate Spritus Sancti, Deus, per omnia saecula saeculorum*" (Par Jésus Christ, ton Fils, notre Seigneur et notre Dieu, qui règne avec toi et le Saint-Esprit, maintenant et pour les siècles des siècles);
->
+
 > \- si elle s´adresse au Père, mais avec mention du Fils à la fin: "*Qui tecum vivit et regnat in unitate Spiritus Sancti, Deus, per omnia saecula saeculorum*" (Lui qui règne avec toi et le Saint-Esprit, maintenant et pour les siècles des siècles);
->
+
 > \- si elle s´adresse au Fils: "*Qui vivis et regnas cum Deo Patre in unitate Spuiritus Sancti, Deus, per omnia saecula saeculorum*" (Toi qui règnes avec le Père et le Saint-Esprit, maintenant et pour les siècles des siècles).
 
 Le peuple s´unit à la supplication  et la fait sienne par l´acclamation *Amen*.
@@ -496,9 +492,9 @@ Le peuple, debout, exprime sa supplication, soit par une invocation commune apr�
 En effet, le Christ prit le pain et la coupe, rendit grâce, fit la fraction et les donna à ses disciples, en disant: "Prenez, mangez, buvez; ceci est mon Corps; ceci est la coupe de mon Sang. Vous ferez cela en mémoire de moi". Aussi l´Église a-t-elle organisé toute la célébration de la liturgie eucharistique en parties qui correspondent à ces paroles et à ces actes du Christ. De fait:
 
 > 1\) Dans la préparation des dons, on apporte à l´autel le pain et le vin avec l´eau, c´est-à-dire les éléments que le Christ a pris dans ses mains.
->
+
 > 2\) Dans la Prière eucharistique, on rend grâce à Dieu pour toute l'œuvre du salut, et les dons offerts deviennent le Corps et le Sang du Christ.
->
+
 > 3\) Par la fraction du pain et par la communion, les fidèles, aussi nombreux soient-ils, reçoivent d’un seul pain le Corps du Seigneur et d’une seule coupe le Sang du Seigneur, de la même manière que les Apôtres les ont reçus des mains du Christ lui-même.
 
 ***La préparation des dons***
@@ -583,9 +579,9 @@ S´il n´y a pas de chant, l´antienne proposée dans le Missel peut être dite 
 A la messe, on dit une seule prière après la communion, qui se termine par la conclusion brève qui est :
 
 > \- si elle s’adresse au Père : *Per Christum Dominum nostrum* (Par Jésus, le Christ, notre Seigneur);
->
+
 > \- si elle s’adresse au Père, mais avec mention du Fils à la fin : *Qui vivit et regnat in saecula saeculorum* (Lui qui règne pour les siècles des siècles);
->
+
 > \- si elle s’adresse au Fils: *Qui vivis et regnas in saecula saeculorum* (Toi qui règnes pour les siècles des siècles).
 
 Le peuple fait sienne cette oraison par l´acclamation *Amen*.
@@ -654,11 +650,11 @@ Dans la célébration eucharistique, le lecteur a sa fonction propre (cf. nn. 19
 **105**. D’autres encore exercent une fonction liturgique:
 
 > a\) Le sacristain, qui dispose avec soin les livres liturgiques, les vêtements liturgiques et tout ce qui est nécessaire à la célébration de la messe.
->
+
 > b\) Le commentateur, qui propose brièvement aux fidèles, si cela est opportun, des explications et des monitions pour les introduire dans la célébration et mieux les disposer à la comprendre. Il faut que les monitions du commentateur aient été préparées avec grand soin et soient claires dans leur sobriété. Pour accomplir sa fonction, le commentateur se tient dans un endroit approprié, face aux fidèles, mais jamais à l´ambon.
->
+
 > c\) Ceux qui font les collectes dans l´église.
->
+
 > d\) Ceux qui, dans certaines régions, accueillent les fidèles aux portes de l´église, les guident aux places qui leur conviennent, et organisent les processions.
 
 **106.** Il est bon, au moins dans les églises cathédrales et autres églises importantes, qu’il y ait un ministre compétent ou cérémoniaire pour veiller à ce que les actions liturgiques soient bien organisées et accomplies par les ministres sacrés et les fidèles laïcs avec beauté, ordre et piété.
@@ -1236,7 +1232,7 @@ Les ministres qui portent la croix de procession ou les cierges font une inclina
 **275.** L’inclination signifie le respect et l’honneur que l’on doit aux personnes elles-mêmes ou à leurs représentations. Il y a deux espèces d´inclination: celle de la tête et celle du corps.
 
 > a\) On incline la tête lorsque les trois Personnes divines sont nommées ensemble, aux noms de Jésus, de la bienheureuse Vierge Marie, et du Saint en l´honneur de qui on dit la messe.
->
+
 > b\) On incline le corps, par ce qu´on appelle l´inclination profonde: devant l´autel, aux prières *Munda cor meum* (Purifie mon cœur) et *In spiritu humilitatis* (Humbles et pauvres); dans la récitation du Symbole, aux mots *Et incarnatus est* (Par l´Esprit Saint, il a pris chair); et dans le Canon romain, aux mots *Supplices te rogamus* (Nous t’en supplions). La même inclination est faite par le diacre quand il demande la bénédiction avant de proclamer l´Évangile. En outre, le prêtre s´incline un peu, à la consécration, quand il dit les paroles du Seigneur.
 
 ***Encensement***
@@ -1618,11 +1614,11 @@ Cependant, aux temps forts de l´année, cette adaptation est déjà réalisée 
 **365.** Le choix entre les Prières eucharistiques qui se trouvent dans la liturgie de la messe est réglé à titre indicatif par les normes que voici:
 
 > a\) La Prière eucharistique I, ou Canon romain, qui peut toujours être employée, est plus indiquée les jours auxquels sont assignés des *Communicantes* propres, ou bien aux messes dotées d´un *Hanc igitur* propre, ainsi qu´aux fêtes des Apôtres et des saints mentionnés dans le texte de cette Prière; de même les dimanches, à moins que, pour des motifs pastoraux, on ne préfère la Prière eucharistique III.
->
+
 > b\) La Prière eucharistique II, en raison de ses caractéristiques, est plus indiquée pour les jours de semaine, ou dans des circonstances particulières. Bien qu´elle comporte une préface propre, on peut l´employer aussi avec d´autres préfaces, surtout avec celles qui rappellent en abrégé le mystère du salut, comme les préfaces communes. Quand on célèbre la messe pour un défunt, on peut employer une formule particulière qui est proposée en son lieu, c´est-à-dire avant *Memento etiam* (Souviens-toi aussi de nos frères).
->
+
 > c\) La Prière eucharistique III peut être dite avec n´importe quelle préface. On l´emploiera de préférence les dimanches et jours de fête. Si on prend cette prière pour une messe des défunts, on peut insérer en son lieu une formule particulière pour le défunt, c´est-à-dire après les mots: *Omnes filios tuos ubique dispersos, tibi, clemens Pater, miseratus coniunge* (Et ramène à toi, Père très aimant, tous tes enfants dispersés).
->
+
 > d\) La Prière eucharistique IV a une préface immuable et offre un résumé plus complet de l´histoire du salut. On peut l´employer quand la messe n´a pas de préface propre et les dimanches du Temps ordinaire (« per annum »). Dans cette Prière, en raison de sa structure, il est impossible d´insérer une formule particulière pour un défunt.
 
 ##### *Les chants*
@@ -1754,8 +1750,6 @@ Enfin, la recherche d’inculturation ne vise pas du tout à créer de nouvelles
 ------------------------------------------------------------------------
 
 **Notes**
-
-[](#top)
 
 [^1]: Session XXII, du 17 septembre 1562. Cf.*Enchiridion Symbolorum*, éd. Denzinger-Schönmetzer 1965 (cité par la suite D.S.), 1738-1759.
 

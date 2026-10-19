@@ -1,15 +1,5 @@
 # La reciprocidad entre fe y sacramentos en la economía sacramental
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL
@@ -23,52 +13,52 @@ COMISIÓN TEOLÓGICA INTERNACIONAL
 1\. [Fe y sacramentos: pertinencia y actualidad](#Fe_y_sacramentos:_pertinencia_y_actualidad).
 
 > 1.1. [La oferta salvífica divina se vertebra sobre la interrelación entre fe y sacramentos](#La_oferta_salvífica_divina).
->
+
 > 1.2. [Crisis actual de la reciprocidad entre fe y sacramentos](#_Crisis_actual_de_la_reciprocidad_entre_fe_y_sacramentos).
->
+
 > > a\) [Fe y sacramentos: una reciprocidad en crisis](#Fe_y_sacramentos:_una_reciprocidad_en_crisis).  
 > > b) [Finalidad del documento](#Finalidad_del_documento).
 
 2\. [Índole dialogal de la economía sacramental de la salvación](#Índole_dialogal_de_la_economía_sacramental_de_la_salvación).
 
 > 2.1. [El Dios trinitario: fuente y fin de la economía sacramental](#El_Dios_trinitario:_fuente_y_fin_de_la_economía_sacramental).
->
+
 > > a\) [Fundamento trinitario de la sacramentalidad](#Fundamento_trinitario_de_la_sacramentalidad).  
 > > b) [Sacramentalidad de la creación y de la historia](#Sacramentalidad_de_la_creación_y_de_la_historia).  
 > > c) [La encarnación: centro, cumbre y clave de la economía sacramental](#La_encarnación:_centro,_cumbre_y_clave_de_la_economía_sacramental).  
 > > d) [La Iglesia y los sacramentos en la economía sacramental](#La_Iglesia_y_los_sacramentos_en_la_econom&).  
 > > e) [Los ejes de la economía sacramental](#Los_ejes_de_la_economía_sacramental).
->
+
 > 2.2. [La reciprocidad entre la fe y los sacramentos de la fe](#La_reciprocidad_entre_la_fe_y_los_sacramentos_de_la_fe).
->
+
 > > a\) [Luces a partir del camino de la fe de los discípulos](#Luces_a_partir_del_camino_de_la_fe_de_los_discípulos).  
 > > b) [Modulaciones de la fe](#Modulaciones_de_la_fe).  
 > > c) [Reciprocidad entre fe y sacramentos](#Reciprocidad_entre_fe_y_sacramentos).  
 > > d) [Índole dialógica de los sacramentos](#Índole_dialógica_de_los_sacramentos).  
 > > e) [El organismo sacramental](#El_organismo_sacramental).  
 > > f) [La reciprocidad entre fe y los sacramentos en la economía sacramental](#La_reciprocidad_entre_fe_y_los_sacramentos_en_la_economía_sacramental).
->
+
 > 2.3. [Conclusión: dinamismos de la fe y la sacramentalidad](#Conclusión:_dinamismos_de_la_fe_y_la_sacramentalidad).
 
 3\. [La reciprocidad entre fe y sacramentos en la iniciación cristiana](#La_reciprocidad_entre_fe_y_sacramentos_en_la_iniciación_cristiana).
 
 > 3.1. [Reciprocidad entre fe y bautismo](#Reciprocidad_entre_fe_y_bautismo).
->
+
 > > a\) [Fundamentación bíblica](#Fundamentación_bíblica).  
 > > b) [Fe y bautismo de adultos](#Fe_y_bautismo_de_adultos).  
 > > c) [Propuesta pastoral: fe para el bautismo de adultos](#Propuesta_pastoral:_fe_para_el_bautismo_de_adultos).  
 > > d) [Fe y bautismo de niños](#Fe_y_bautismo_de_niños).  
 > > e) [Propuesta pastoral: fe para el bautismo de niños](#Propuesta_pastoral:_fe_para_el_bautismo_de_niños).
->
+
 > 3.2. [Reciprocidad entre fe y confirmación](#Reciprocidad_entre_fe_y_confirmación).
->
+
 > > a\) [Fundamentación bíblica e histórica](#Fundamentación_bíblica_e_histórica).  
 > > b) [Fe y confirmación](#Fe_y_confirmación).  
 > > c) [Problemática actual](#Problemática).  
 > > d) [Propuesta pastoral: fe para la confirmación](#Propuesta_pastoral:_fe_para_la_confirmación).
->
+
 > 3.3. [Reciprocidad entre fe y eucaristía](#Reciprocidad_entre_fe_y_eucaristía).
->
+
 > > a\) [Fundamentación bíblica](#Fundamentación_bíblica).  
 > > b) [Fe y eucaristía](#Fe_y_eucaristía).  
 > > c) [Problemática actual](#Problemática_actual).  
@@ -78,19 +68,19 @@ COMISIÓN TEOLÓGICA INTERNACIONAL
 4\. [La reciprocidad entre fe y matrimonio](#La_reciprocidad_entre_fe_y_matrimonio).
 
 > 4.1. [El sacramento del matrimonio](#El_sacramento_del_matrimonio).
->
+
 > > a\) [Fundamentación bíblica](#Fundam).  
 > > b) [Luces a partir de la Tradición](#Luces).  
 > > c) [El matrimonio como sacramento](#El_matrimonio_como_sacramento).  
 > > d) [La fe y los bienes del matrimonio](#La_fe_y_los_bienes_del_matrimonio).
->
+
 > 4.2. [Una *quaestio* *dubia:* la cualidad sacramental del matrimonio de los «bautizados no creyentes»](#Una_quaestio_dubia).
->
+
 > > a\) [Planteamiento de la cuestión](#Planteamiento_de_la_cuestión).  
 > > b) [Estado y términos de la cuestión](#Estado_y_términos_de_la_cuestión).
->
+
 > 4.3. [La intención y la constitución del vínculo matrimonial en ausencia de fe](#La_intención_y_la_constitución_del_vínculo_matrimonial_en_ausencia_de_fe).
->
+
 > > a\) [La intención es necesaria para que haya sacramento](#La_intención_es_necesaria_para_que_haya_sacramento).  
 > > b) [Comprensión cultural predominante sobre el matrimonio](#Comprensión_cultural_predominante_sobre_el_matrimonio).  
 > > c) [La ausencia de fe puede comprometer la intención de contraer matrimonio natural](#La_ausencia_de_fe_puede_comprometer_la_intención_de_contraer_matrimonio_natural).

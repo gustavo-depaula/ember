@@ -1,9 +1,5 @@
 # Anuncio de la creación de la Comisión, alocución en el Consistorio de 28 de abril de 1969
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
 
 **ANUNCIO DE LA CREACIÓN DE LA COMISIÓN**
@@ -21,5 +17,3 @@ Esto es, venerables hermanos, cuanto nos hemos complacido en comunicaros en esta
 ------------------------------------------------------------------------
 
 [\[\*\]](#_ednref*) AAS 61 (1969) 431-432.
-
-[](#top)

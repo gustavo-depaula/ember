@@ -1,14 +1,8 @@
 # CIRCA L'"ISOLAMENTO UTERINO" ED ALTRE QUESTIONI
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 ***RISPOSTE AI DUBBI PROPOSTI CIRCA L'"ISOLAMENTO UTERINO" ED ALTRE QUESTIONI***
-
-*** ***
 
 *I Padri della Congregazione per la Dottrina della Fede, ai dubbi presentati nell'assemblea ordinaria e sotto riportati, hanno ritenuto di dover rispondere a ciascuno come segue:*
 
@@ -43,7 +37,3 @@ L'opinione contraria, che considera le suddette pratiche di cui ai numeri 2 e 3 
 
 **+ Alberto Bovone**  
 *Arciv. tit. di Cesarea di Numidia Segretario*
-
-* *
-
-[](#top)

@@ -1,10 +1,6 @@
 # Commentaire de la notification à propos du livre du P. Jacques Dupuis, S.J., «Vers une théologie du pluralisme religieux»
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  CONGRÉGATION POUR LA DOCTRINE DE LA FOI
+CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 
 ***COMMENTAIRE DE LA NOTIFICATION À PROPOS DU LIVRE DE J. DUPUIS “VERS UNE THÉOLOGIE CHRÉTIENNE DU PLURALISME RELIGIEUX” ***
 
@@ -71,5 +67,3 @@ Du reste, la simple réaffirmation de la vérité exprime l'unité dans la foi e
 7\) Jean-Paul II, Lettre enc. *Fides et ratio, n*. 38. 
 
 8\) Congrégation pour la Doctrine de la Foi, Déclaration *Dominus Iesus,* n. 23.
-
-[](#top)

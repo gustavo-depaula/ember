@@ -1,9 +1,5 @@
 # Narrazioni solo apparentemente storiche nei libri della S. Scrittura considerati storici - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/roman_curia/congregations/cfaith/pcb_doc_index_it.htm)
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **NARRAZIONI SOLO APPARENTEMENTE STORICHE NEI LIBRI DELLA S. SCRITTURA CONSIDERATI STORICI**
@@ -17,5 +13,3 @@ Al seguente dubbio presentato, il Pontificio Consiglio per gli studi biblici ha 
 *Il giorno 23 giugno c.a., nell'udienza benignamente concessa ai due Rev.mi Segretari consultori, Sua Santità ha ratificato la suddetta risposta e ha comandato di pubblicarla.*
 
 Fr. David Fleming, O.F.M. *Segretario consultore*
-
-[](#top)

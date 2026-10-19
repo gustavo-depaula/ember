@@ -74,5 +74,3 @@ Esorto, quindi, tutti i fedeli a voler osservare le norme proposte con animo sin
 *Roma, dal Palazzo Apostolico, 25 gennaio 1983, anno quinto del mio Pontificato.*
 
 **GIOVANNI PAOLO II**
-
-* *

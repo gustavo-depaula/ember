@@ -1,13 +1,5 @@
 # Una caro. Elogio de la monogamia. Nota doctrinal sobre el valor del matrimonio como unión exclusiva y pertenencia recíproca
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERIO PARA LA DOCTRINA DE LA FE
@@ -38,7 +30,7 @@ DICASTERIO PARA LA DOCTRINA DE LA FE
 > [Algunos autores medievales y modernos](#_Toc211638021)  
 > [El desarrollo de la visión teologal en tiempos recientes](#_Toc211638022)  
 > [Intervenciones magisteriales](#_Toc211638023)
->
+
 > > *[Primeras intervenciones](#_Toc211638024) [León XIII](#_Toc211638025) [Pío XI](#_Toc211638026) [La época del Concilio Vaticano II](#_Toc211638027) [San Juan Pablo II](#_Toc211638028) [Benedicto XVI](#_Toc211638029) [Francisco](#_Toc211638030) [León XIV](#_Toc211638031)*
 
 **[IV. Algunas perspectivas desde la filosofía y las culturas](#_Toc211638032)**
@@ -56,11 +48,11 @@ DICASTERIO PARA LA DOCTRINA DE LA FE
 **[VI. Algunas reflexiones para profundizar](#_Toc211638041)**
 
 > [Pertenencia recíproca](#_Toc211638042)
->
+
 > > > *[La transformación](#_Toc211638043) [La no pertenencia](#_Toc211638044) [Ayuda recíproca](#_Toc211638045)*
->
+
 > [Caridad conyugal](#_Toc211638046)
->
+
 > > [Una forma particular de amistad](#_Toc211638047)  
 > > [En cuerpo y alma](#_Toc211638048)  
 > > [La fecundidad multiforme del amor](#_Toc211638049)  
@@ -361,13 +353,13 @@ Si, por el contrario, se desea obtener solo una breve síntesis reflexiva para m
 109\. Es útil señalar que muchos poetas han tratado de expresar la belleza de esta unión única y exclusiva. Reconocer ahora la fuerza de su poesía no implica, por supuesto, sostener que su vida haya sido perfecta o que siempre hayan sido fieles en el amor. En cualquier caso, parece evidente que, cuando encontraron el amor y decidieron pertenecer exclusivamente a otra persona, o cuando percibieron el valor de una unión exclusiva, estos poetas necesitaron expresarlo a través de su arte, casi como para indicar que se trata de algo que va más allá de la satisfacción sexual, la realización de una necesidad personal o una aventura superficial. Se pueden considerar algunos ejemplos:
 
 > *Dimos vueltas y vueltas, hasta que volvimos a casa otra vez, nosotros dos*.[^172]
->
+
 > *Ninguna más, amor, dormirá con mis sueños. Irás, iremos juntos por las aguas del tiempo*...[^173]
 
 110\. En estos versos se percibe que, en un camino de respeto y libertad, el tiempo consagra la elección recíproca, refuerza el vínculo, profundiza la satisfacción de pertenecer el uno al otro, enriquece ese “nosotros” que llega a percibirse como indestructible. En el contexto de esta unión, cada uno de los dos sabe que, al igual que ha dado algo de sí mismo al otro, también ha recibido mucho de su amado:
 
 > *He bajado millones de escaleras dándote mi brazo no porque con cuatro ojos quizá se vea más. Las he bajado contigo porque sabía que de nosotros dos las únicas pupilas verdaderas, aunque muy nubladas, eran las tuyas*.[^174]
->
+
 > *Te doy a mí misma, mis noches de insomnio, los largos sorbos de cielo y estrellas – bebidos en las montañas, la brisa de los mares recorridos hacia amaneceres lejanos. \[…\] Y tú acoge mi asombro de criatura, mi temblor de tallo vivo en el círculo de los horizontes, doblado al viento limpio – de la belleza: y tú deja que mire estos ojos que Dios te ha dado, tan densos de cielo – profundos como siglos de luz sumergidos más allá de las cimas* –[^175]
 
 111\. La relación se considera insustituible, de tal manera que, cuando el poeta quiere reencontrar sus raíces, se concibe a sí mismo en relación con la otra persona, con una fuerza que trasciende el tiempo:
@@ -465,9 +457,9 @@ Si, por el contrario, se desea obtener solo una breve síntesis reflexiva para m
 145\. Una visión integral de la caridad conyugal no niega su fecundidad, la posibilidad de generar una nueva vida, porque «esta totalidad, exigida por el amor conyugal, corresponde también con las exigencias de una fecundidad responsable».[^232]La unión sexual, como forma de expresión de la caridad conyugal, debe permanecer naturalmente abierta a la comunicación de la vida,[^233]aunque esto no significa que este deba ser un objetivo explícito de cada acto sexual. De hecho, pueden darse tres situaciones legítimas:
 
 > a\) Que una pareja no pueda tener hijos. Karol Wojtyła lo explica magníficamente cuando recuerda que el matrimonio posee «una estructura interpersonal, es una unión y una comunidad de dos personas \[…\]. Por muchas razones, el matrimonio puede no convertirse en familia, pero la falta de esta no le priva de su carácter esencial. De hecho, la razón de ser interna y esencial del matrimonio no es solo convertirse en familia, sino sobre todo constituir una unión de dos personas, una unión duradera y basada en el amor \[...\]. Un matrimonio en el que no hay hijos, sin culpa de los cónyuges, conserva el valor integral de la institución, \[...\] no pierde nada de su importancia».[^234]
->
+
 > b\) Que una pareja no busque conscientemente un acto sexual determinado como medio de procreación. Así lo afirma también Wojtyła, sosteniendo que un acto conyugal, que *«siendo en sí mismo un acto de amor que une a dos personas, puede no ser necesariamente considerado por ellas como un medio consciente y querido de procreación*».[^235]
->
+
 > c\) Que una pareja respete los períodos naturales de infertilidad. Siguiendo esta línea de reflexión, como afirma san Pablo VI, «la Iglesia enseña que es lícito tener en cuenta los ritmos naturales inherentes a las funciones generativas para el uso del matrimonio solo en los períodos infértiles».[^236] Esto puede servir no solo para «regular la natalidad», sino también para elegir los momentos más oportunos para acoger una nueva vida. Mientras tanto, la pareja puede aprovechar esos períodos «para manifestarse el afecto y para salvaguardar la mutua fidelidad. Obrando así ellos dan prueba de amor verdadero e integralmente honesto».[^237]
 
 146\. Todo ello muestra la importante novedad que ofrece el Papa Pío XI cuando afirma que el amor conyugal «penetra todos los deberes de la vida conyugal y ocupa cierta primacía de nobleza en el matrimonio cristiano».[^238] De este modo, ayuda a superar la discusión sobre la relación entre los fines o significados del matrimonio (procreativo y unitivo) y el orden que existe entre ellos, situando la caridad conyugal por encima de esta dialéctica de fines y bienes como cuestión central de la vida conyugal, lo que a su vez le confiere una fecundidad multiforme. Los esposos, incluso en los momentos más difíciles, pueden decir: “Somos amigos, nos amamos, nos valoramos, hemos decidido compartir toda nuestra vida, nos pertenecemos y hemos elegido libremente esta unión que Dios mismo ha bendecido y consolidado. Si en un momento no hay hijos, permanecemos unidos y somos fecundos de otras maneras; si en un momento no hay sexo, seguimos viviendo esta amistad única, exclusiva y totalizante, que es también nuestro mejor camino de maduración y santificación”. El mismo san Agustín, que subraya tan enérgicamente el fin de la procreación, enseña que el matrimonio en sí mismo es un bien, aunque no haya hijos, «porque establece una sociedad natural entre los dos sexos. De lo contrario, no seguiría llamándose matrimonio incluso en los ancianos, especialmente cuando han perdido a sus hijos o no los han tenido».[^239] Una posición similar, expresada con otras palabras, es defendida por san Juan Crisóstomo: «¿Qué decir entonces: Si no hay hijos, \[los esposos\] no serán ya más dos? Es evidente: su unión (*míxis*) hace precisamente eso, derrama y mezcla los cuerpos de ambos. Y como quien vierte perfume en aceite lo convierte en una sola cosa, así también aquí».[^240] En esencia esto se afirmó también en el Concilio Vaticano II: «aunque la prole, tan deseada muchas veces, falte, el matrimonio, como amistad y comunión de la vida toda, sigue existiendo y conserva su valor».[^241]
@@ -485,11 +477,11 @@ Si, por el contrario, se desea obtener solo una breve síntesis reflexiva para m
 151\. El riesgo de la endogamia, es decir, de un “nosotros” cerrado, contradice la naturaleza misma de la caridad y puede herirla mortalmente. Cuatro factores pueden prevenir esta endogamia que desnaturaliza y empobrece el sentido de la unión conyugal:
 
 > a\) Los espacios que cada uno de los cónyuges vive en el trabajo, en las iniciativas personales, en los momentos de aprendizaje y desarrollo fuera de la vida matrimonial. Si uno de los dos no tiene un empleo, es necesario crear estos espacios en beneficio del bien del matrimonio, enriqueciendo el diálogo y la relación en general.
->
+
 > b\) El significado procreativo del matrimonio, que manifiesta la fecundidad del amor que no se cierra a la comunicación de la vida. En aquellos que no pueden tener hijos, la adopción u otras formas de apoyo estable a los hijos de otras parejas pueden ser una forma de realizar esta fecundidad.
->
+
 > c\) El tiempo que se comparte con otros amigos casados, durante el cual, además de aprender de las experiencias de los demás y recibir su apoyo, existe una disponibilidad constante para echar una mano en los momentos difíciles, ayudando al mismo tiempo a la pareja a tomar conciencia de sí misma como unión gracias a la amistad con otras parejas.
->
+
 > d\) El sentido social de la pareja, que, fiel a la dimensión social de la vida cristiana, busca formas de servir a la sociedad y a la Iglesia, comprometiéndose juntos en la búsqueda del bien común: «La familia con muchos hijos está llamada a dejar su huella en la sociedad donde está inserta, para desarrollar otras formas de fecundidad que son como la prolongación del amor que la sustenta \[...\]. No se queda a la espera, sino que sale de sí en la búsqueda solidaria».[^247] «El amor social, reflejo de la Trinidad, es en realidad lo que unifica el sentido espiritual de la familia y su misión fuera de sí».[^248]
 
 152\. Una prueba particular de la apertura de la amistad de la pareja hacia los demás y de la fecundidad de su caridad se manifiesta en su atención hacia los pobres. De hecho, recuerda el Papa León XIV, «el cristiano no puede considerar a los pobres sólo como un problema social; estos son una “cuestión familiar”, son “de los nuestros”».[^249] Además, «el amor a los que son pobres —en cualquier modo en que se manifieste dicha pobreza— es la garantía evangélica de una Iglesia fiel al corazón de Dios».[^250] Este hecho se refleja en una de las opciones para la bendición final en el rito latino del matrimonio, que concluye con la oración: «Que seáis testigos del amor de Dios en el mundo, que los pobres y afligidos os encuentren bondadosos, y os reciban alegres un día en el reino eterno de Dios».[^251]

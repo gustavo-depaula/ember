@@ -4,8 +4,6 @@ GIOVANNI PAOLO II
 
 ***LETTERA DEL SANTO PADRE  ALL'EPISCOPATO IN AUSTRIA***
 
-***    ***
-
 *Ai venerati Confratelli nell'Episcopato in Austria salute e Apostolica Benedizione*
 
 1\. Le notizie che mi giungono dalle vostre dilette diocesi, mentre mi riempiono di gaudio per tanti aspetti confortanti della vita della Chiesa, mi arrecano pure non poco dolore per alcune prove, che state soffrendo nell'esercizio del vostro ministero pastorale.
@@ -47,5 +45,3 @@ Tutta la Chiesa, ed il Vescovo di Roma in modo particolare, implorano lo Spirito
 Come segno della mia particolare stima, invio di cuore a voi, ai vostri sacerdoti e diaconi, a tutte le persone di vita consacrata, come pure a tutti i fedeli a voi affidati, la mia Apostolica Benedizione.
 
 *Dal Vaticano, 8 settembre 1995.*
-
-*   *

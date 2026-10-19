@@ -1,9 +1,5 @@
 # Notificatio circa scripta Patris Antonii De Mello, S.I., d. 24 m. Iunii a. 1998, Congregatio pro Doctrina Fide
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **NOTIFICATIO CIRCA SCRIPTA PATRIS ANTONII DE MELLO, S.I.** \*   
@@ -29,5 +25,3 @@ Praesente notificatione, ad bonum tutandum fidelium, haec Congregatio necessariu
 ------------------------------------------------------------------------
 
 \* *AAS* 90 (1998), 833-834.
-
-[](#top)

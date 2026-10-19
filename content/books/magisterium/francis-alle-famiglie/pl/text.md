@@ -2,8 +2,6 @@
 
 ***LETTERA DI PAPA FRANCESCO A******LLE FAMIGLIE***
 
-*** ***
-
 *Drogie Rodziny,*
 
 Staję na progu waszego domu, by powiedzieć Wam  o wydarzeniu, które – jak wiadomo –będzie miało miejsce w październiku w Watykanie. Chodzi o Nadzwyczajne Zgromadzenie Ogólne Synodu Biskupów, zwołane, by dyskutować na temat: „Wyzwania duszpasterskie związane z rodziną w kontekście ewangelizacji”. Kościół bowiem jest dziś powołany do głoszenia Ewangelii, także stawiając czoło nowym pilnym wyzwaniom duszpasterskim dotyczącym rodziny.

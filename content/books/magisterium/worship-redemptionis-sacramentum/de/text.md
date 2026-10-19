@@ -1,9 +1,5 @@
 # Instruktion Redemptionis sacramentum
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DEN GOTTESDIENST  
 UND DIE SAKRAMENTENORDNUNG
 
@@ -681,8 +677,6 @@ Rom, am Sitz der Kongregation für den Gottesdienst und die Sakramentenordnung, 
 **Domenico Sorrentino** * Erzbischof Sekretär*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Vgl. Missale Romanum, *ex decreto sacrosancti Oecumenici Concilii Vaticani II instauratum, auctoritate Pauli Pp. VI promulgatum, Ioannis Pauli Pp. II cura recognitum*, editio typica tertia (20. April 2000), Typis Vaticanis 2002, Missa votiva de Dei misericordia, oratio super oblata, 1159.
 

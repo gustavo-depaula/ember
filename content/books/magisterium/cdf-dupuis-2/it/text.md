@@ -1,10 +1,6 @@
 # Articolo di commento della Notificazione della Congregazioneper la Dottrina della Fede a proposito del libro di J. Dupuis
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
-  ***ARTICOLO DI COMMENTO DELLA NOTIFICAZIONE DELLA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE A PROPOSITO DEL LIBRO DI PADRE J. DUPUIS: "VERSO UNA TEOLOGIA CRISTIANA DEL PLURALISMO RELIGIOSO"***
+***ARTICOLO DI COMMENTO DELLA NOTIFICAZIONE DELLA CONGREGAZIONE PER LA DOTTRINA DELLA FEDE A PROPOSITO DEL LIBRO DI PADRE J. DUPUIS: "VERSO UNA TEOLOGIA CRISTIANA DEL PLURALISMO RELIGIOSO"***
 
 1\. In ogni epoca la ricerca teologica è stata importante per la missione evangelizzatrice della Chiesa in risposta al disegno di Dio, il quale vuole "che tutti gli uomini siano salvati e arrivino alla conoscenza della verità" (1 *Tm* 2,4). L’intelligenza sempre più profonda della parola di Dio, contenuta nella Scrittura ispirata e trasmessa dalla tradizione viva della Chiesa, arricchisce, infatti, l’intero popolo di Dio, "sale della terra" e "luce del mondo" (*Mt* 5,13s), aiutandolo sia a dare testimonianza alla verità della rivelazione cristiana sia a rendere conto della sua speranza a coloro che lo richiedono (cf. 1 *Pt* 3,15).
 
@@ -69,5 +65,3 @@ Del resto la riproposizione semplice della verità esprime l’unità nella fede
 \(7\) Giovanni Paolo II, Lett. Enc. *Fides et ratio*, n. 38.
 
 \(8\) Congr. per la Dottrina della Fede, Dich. *Dominus Iesus*, n. 23.
-
-[](#top)

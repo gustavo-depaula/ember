@@ -1,9 +1,5 @@
 # Notificación sobre el libro Jesus Symbol of God del padre Roger Haight, s.j
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGACIÓN PARA LA DOCTRINA DE LA FE**
 
 ***NOTIFICACIÓN SOBRE EL LIBRO "JESUS SYMBOL OF GOD" DEL PADRE ROGER HAIGHT, S.J. ***
@@ -92,8 +88,6 @@ Al hacer pública esta *Notificación*, la Congregación para la doctrina de la 
 **ANGELO AMATO, s.d.b*.*** *Arzobispo titular de Sila Secretario*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: **Notas**  
 Cf. concilio de Nicea, *Profesión de fe: DH* 125; concilio de Calcedonia, *Profesión de fe: DH* 301, 302; concilio de Constantinopla II, *Cánones: DH* 424, 426.

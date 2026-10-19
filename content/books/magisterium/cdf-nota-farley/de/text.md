@@ -1,9 +1,5 @@
 # Notifikation zum Buch Just Love. A Framework for Christian Sexual Ethics von Sr. Margaret A. Farley RSM - Kongregation der Glaubenslehre
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 Notifikation zum Buch *Just Love. A Framework for Christian Sexual Ethics* von Sr. Margaret A. Farley RSM
@@ -67,8 +63,6 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 30. März 2012.
 **+ Luis F. Ladaria, S.I.** Titularerzbischof von Thibica *Sekretär*
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-[](#top)
 
 [^1]: *Katechismus der Katholischen Kirche*, Nr. 2352; vgl. Kongregation für die Glaubenslehre, Erklärung *[Persona humana](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_ge.html)* zu einigen Fragen der Sexualethik (29. Dezember 1975), Nr. 9: *AAS* 68 (1976), 85-87.
 

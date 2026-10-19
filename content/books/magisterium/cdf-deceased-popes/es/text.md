@@ -1,10 +1,6 @@
 # Sufragio por Pablo VI y Juan Pablo I
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
- MISA EN SUFRAGIO DE LOS PAPAS PABLO VI Y JUAN PABLO I
+MISA EN SUFRAGIO DE LOS PAPAS PABLO VI Y JUAN PABLO I
 
 ***HOMILÍA DEL CARDENAL JOSEPH RATZINGER EN NOMBRE DEL SANTO PADRE***
 
@@ -24,5 +20,3 @@ El amor sería ciego sin la verdad. Por eso, quien debe preceder en el amor reci
 
 "Yo sé que está vivo mi Redentor", dice el texto de Job en la primera lectura de esta liturgia, lo dice en un momento de gran prueba; lo dice mientras Dios se esconde y parece ser su adversario. Cubierto por el velo del sufrimiento, sin conocer su nombre y su rostro, Job "sabe" que su Redentor vive, y esta certeza es su gran consuelo en medio de las tinieblas de la prueba. Jesucristo ha quitado el velo que cubría a Job el rostro de Dios. Sí, nuestro Redentor vive, y "todos nosotros, que con el rostro descubierto reflejamos como en un espejo la gloria del Señor, nos vamos transformando en esa misma imagen", dice san Pablo (*2 Co* 3, 18). Nuestro Redentor vive; tiene un rostro y un nombre:  Jesucristo. Nuestros "ojos lo contemplarán". Los Papas difuntos nos dan esta certeza, y así nos guían "hacia la plena posesión de la verdad", confirmándonos en la fe en nuestro Redentor.  
 Amén.
-
-[](#top)

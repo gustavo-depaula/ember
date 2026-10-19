@@ -1,9 +1,5 @@
 # Feierlicher Gottesdienst in Montecassino für die Päpstliche Akademie der Wissenschaften
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***PREDIGT VON K**ARD. JOSEPH RATZINGER IN MONTECASSINO FÜR DIE PÄPSTLICHE AKADEMIE DER WISSENSCHAFTEN***
 
 Im November, während wir das große Sterben in der Natur erleben, spricht die Liturgie von unserem eigenen Sterben. Zur Frage nach dem rechten Leben gehört auch die Frage nach dem rechten Sterben. Wenn wir den Tod verdrängen müssen, dann werden wir auch mit dem Leben nicht recht umzugehen lernen. Leben und Sterben gehören zusammen, das Leben kann nur gelingen, wenn wir auf rechte Weise dem Tod entgegenzugehen vermögen.
@@ -31,5 +27,3 @@ Abraham, Isaak und Jakob haben als Freunde Gottes gelebt, im ständigen Gespräc
 Menschliche Liebe ist auf Unendlichkeit angelegt, kann sie aber nicht geben. Die Liebesgemeinschaft mit Gott gibt, was der Liebe wesentlich ist: Dieser Dialog bricht nicht ab. Durch das Mitsein mit ihm sind wir im Eigentlichen, im unzerstörbaren Leben. Indem Jesus auf Abraham, Isaak und Jakob als Menschen verweist, die Gottes sind und daher lebendig sind, sagt er uns: Halte dich im Leben an das, was nicht vergeht und verfällt. Halte dich an die Wahrheit, an das Gute, halte dich an die Liebe, halte dich an Gott. Und von Christus selber her könnten wir nun sagen: Halte dich an den auferstandenen Christus an, dann hängst du am Leben, und dann lebst du wirklich Â– dann lebst du jetzt schon das wahre Leben, das ewige Leben.
 
 Jesus lehrt uns also nicht irgendwelche mysteriöse Dinge über das Jenseits. Er weist uns ins rechte Leben ein. Seine dialogische Begründung der Unsterblichkeit sagt uns, wie wir jetzt leben müssen, wie wir das wahre Leben finden, das ewig ist. Was er uns von der Auferstehung sagt, ist durchaus praktisch; indem er den Tod deutet, zeigt er, wie das Leben geht. Von da aus können wir auch das Buch der Makkabäer neu lesen. Wer die rechten Güter, das wahre Gut Â– Gott Â– kennengelernt hat, der kann die relativen Güter fallen lassen. Der weiß, daß er auch das biologische Leben riskieren kann und darf, daß er nicht ins Nichts fällt, weil er so gerade das rechte Leben ergreift. Er weiß, daß das wahrhaft Gute der wahrhaft Gute ist und daß Er unsere Hand nicht losläßt. Bitten wir den Herrn, daß wir recht zu leben lernen. Amen.
-
-[](#top)

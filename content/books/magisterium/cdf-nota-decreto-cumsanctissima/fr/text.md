@@ -1,15 +1,5 @@
 # Note de présentation du Décret Cum sanctissima sur la célébration liturgique en l’honneur des saints dans la forme extraordinaire du Rite Romain
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 137/2009S – ED

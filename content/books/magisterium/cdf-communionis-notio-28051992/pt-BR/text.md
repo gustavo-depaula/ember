@@ -1,9 +1,5 @@
 # SOBRE ALGUNS ASPECTOS DA IGREJA ENTENDIDA COMO COMUNHÃO
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAÇÃO PARA A DOUTRINA DA FÉ**
 
 ***CARTA AOS BISPOS DA IGREJA CATOLICA SOBRE ALGUNS ASPECTOS DA IGREJA ENTENDIDA COMO COMUNHÃO***
@@ -277,5 +273,3 @@ Ao concluir esta *Carta*, a Congregaçao para a Doutrina da Fé, evocando as pal
 \(82\) 82 S. CROMACIO DE AQUILEIA, *Sermo 30*, 1: "Sources Chrétiennes" 164, p. 134. Cfr. PAULO VI, Ex. Ap. *Marialis cultus*, 2-II-1974, n. 28.
 
 \(83\) 83 Cfr. Const. *Lumen gentium*, n. 69.
-
-[](#top)

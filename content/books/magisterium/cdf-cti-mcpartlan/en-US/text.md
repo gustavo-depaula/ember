@@ -1,9 +1,5 @@
 # Abiding in the Communion of the Church - A Presentation of Chapter Two of Theology Today: Perspectives, Principles and Criteria
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***ABIDING IN THE COMMUNION OF THE CHURCH***
 
 **A Presentation of Chapter Two of *Theology Today: Perspectives, Principles and Criteria***
@@ -29,5 +25,3 @@ The next section considers both frankly and realistically the ‘mutually respec
 The work of theologians is always provisional, and should be offered to the Church as a whole ‘for scrutiny and evaluation’ (n. 47). Theologians perform the valuable service of ‘mutual questioning and correction’, but this self-correcting mechanism is not always adequate, especially nowadays when ideas can spread rapidly beyond the theological community into the Church at large. The bishops who shepherd the Church can certainly act to censure theological work they deem to be harmful (n. 48).
 
 Vatican II famously taught that the Church must read the signs of the times and interpret them in the light of the Gospel (n.51, cf. *[Gaudium et Spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, GS, 4), and that while the whole Church must undertake this task, guided by the Spirit, it particularly pertains to bishops and theologians to do so (n.52, cf. [GS](/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html) 44). The final section of chapter two deals with the specific responsibility of theologians in this regard. Through their ‘constant dialogue with the social, religious and cultural currents of the time’ and their openness to other sciences which examine the same phenomena with their own methods, theologians help the faithful and the magisterium to consider and evaluate the developments and events of their time, so as to discern how the Spirit may be speaking to the Church and to the world through them (n. 53). The text notes that a deeper comprehension of the world and its needs enables a more penetrating understanding of Christ and the Gospel ‘since Christ is the Saviour of the world’ (n. 55). Through their own constant dialogue with the world, theologians are able to facilitate and even pioneer the Church’s saving mission (cf. nn. 47, 58).
-
-[](#top)

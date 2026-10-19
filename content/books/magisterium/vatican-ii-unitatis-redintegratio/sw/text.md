@@ -1,15 +1,5 @@
 # Unitatis redintegratio
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Dikrii juu ya Ekumeni**
@@ -18,8 +8,6 @@
 Mtumishi wa Watumishi wa Mungu  
 pamoja na Mababa wa Mtaguso Mkuu  
 ataka haya yakumbukwe daima
-
-**  **
 
 **UTANGULIZI**
 
@@ -246,8 +234,6 @@ Mtaguso huu Mkuu unatamani sana kwamba juhudi za utendaji za waana wa Kanisa Kat
 *Mambo yote yaliyoamuliwa katika dikrii hii, na kila mmoja kati yao, yamewapendeza Mababa wa Mtaguso Mkuu. Nasi, kadiri ya mamlaka ya kitume tuliyopewa na Kristo, pamoja na Mababa waheshimiwa, katika Roho Mtakatifu, tunayakubali, tunayaidhinisha na tunayathibitisha. Na yale yote yaliyoamuliwa kwa pamoja katika sinodi hii, tunayaamuru yawekwe kwa utukufu wa Mungu.*
 
 *Roma, katika Kanisa la Mt. Petro, 21 Novemba 1964.*
-
-* *
 
 Mimi mwenyewe Paolo, Askofu wa Kanisa Katoliki.
 

@@ -1,15 +1,5 @@
 # Excerpt from the Address of His Holiness Pope Francis during the Audience with Participants in the Plenary Session of the Dicastery for the Doctrine of the Faith
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **Excerpt from the Address of His Holiness Pope Francis during the [Audience with Participants in the Plenary Session of the Dicastery for the Doctrine of the Faith](https://www.vatican.va/content/francesco/en/events/event.dir.html/content/vaticanevents/en/2024/1/26/plenaria-ddf.html)**

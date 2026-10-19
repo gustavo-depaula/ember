@@ -1,15 +1,5 @@
 # Presentazione del II volume di raccolta dei documenti della CTI: A servizio della missione della Chiesa oggi. I documenti della Commissione Teologica Internazionale (2005-2021) – Mons. Piero Coda
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **A servizio della missione della Chiesa oggi. I documenti della Commissione Teologica Internazionale (2005-2021)**

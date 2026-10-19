@@ -1,9 +1,5 @@
 # Decreto de Reforma de los estudios eclesiásticos de Filosofía, Congregación para la Educación Católica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **SAGRADA CONGREGACIÓN PARA LA EDUCACIÓN CATÓLICA**
 
 **Decreto de Reforma de los estudios eclesiásticos de Filosofía**
@@ -243,8 +239,6 @@ Datum Romæ, ex ædibus eiusdem Congregationis, in memoria sancti Thomæ Aquinat
 **Ioannes Ludovicus Brugues, O.P.** *a Secretis*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: Carta Encíclica *Fides et ratio* (14 de septiembre de 1998), *AAS* 91 (1999) 5-88, n. 3. En la Carta, Juan Pablo II concentra la atención sobre el tema de la verdad y de su fundamento en relación con la fe, continuando así la reflexión hecha en la Carta encíclica *Veritatis splendor* (6 de agosto de 1993) sobre la verdad en el terreno moral (cfr. *Fides et ratio*, n.6), la cual abraza también algunas verdades fundamentales racionales.
 

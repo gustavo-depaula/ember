@@ -44,7 +44,7 @@ A fé eucarística da Igreja \[6\]
 **[Eucaristia e Sacramentos](#Eucaristia_e_Sacramentos_)**
 
 > Sacramentalidade da Igreja \[16\]
->
+
 > > **[I. Eucaristia e iniciação cristã](#I._Eucaristia_e_inicia%C3%A7%C3%A3o_crist%C3%A3)**  
 > > Eucaristia, plenitude da iniciação cristã \[17\]  
 > > A ordem dos sacramentos da iniciação \[18\]  

@@ -1,15 +1,5 @@
 # Die Synodalität in Leben und Sendung der Kirche
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 INTERNATIONALE THEOLOGISCHE KOMMISSION
@@ -46,20 +36,20 @@ INTERNATIONALE THEOLOGISCHE KOMMISSION
 
 > [3.1 Die synodale Berufung des Gottesvolkes](#_Toc58504650)  
 > [3.2 Die Synodalität in der Ortskirche](#_Toc58504651)
->
+
 > > [3.2.1 Die Diözesansynode und die Eparchialversammlung](#_Toc58504652)  
 > > [3.2.2 Andere Strukturen im Dienst des synodalen Lebens in der Partikularkirche](#_Toc58504653)  
 > > [3.2.3 Die Synodalität im Leben der Pfarrei](#_Toc58504654)
->
+
 > [3.3 Die Synodalität in den Partikularkirchen auf regionaler Ebene](#_Toc58504655)
->
+
 > > [3.3.1 Die Partikularkonzilien](#_Toc58504656)  
 > > [3.3.2 Die Bischofskonferenzen](#_Toc58504657)  
 > > [3.3.3 Die Patriarchate in den katholischen Ostkirchen](#_Toc58504658)  
 > > [3.3.4 Die Regionalräte der Bischofskonferenzen und der Patriarchate der katholischen Ostkirchen](#_Toc58504659)
->
+
 > [3.4 Die Synodalität in der Universalkirche](#_Toc58504660)
->
+
 > > [3.4.1 Das Ökumenische Konzil](#_Toc58504661)  
 > > [3.4.2 Die Bischofssynode](#_Toc58504662)  
 > > [3.4.3 Die Strukturen im Dienst der synodalen Ausübung des Primats](#_Toc58504663)

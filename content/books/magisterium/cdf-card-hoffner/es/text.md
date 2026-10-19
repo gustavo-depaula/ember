@@ -1,9 +1,5 @@
 # Carta al Card. Ioseph Höffner, Arzobispo de Colonia, referente a la Obra de los ángeles
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SAGRADA CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **CARTA AL EMMO. Y RVMO. SR. CARD. JOSEPH HÖFFNER, ARZOBISPO DE COLONIA, ACERCA DEL EXAMEN DEL «OPUS ANGELORUM»**
@@ -31,5 +27,3 @@ Aprovechando la ocasión, te manifiesto mis sentimientos de profunda estima. De 
 **Fr. JÉRÔME HAMER, O.P.** *Arzobispo titular de Lorium Secretario*
 
 *Dado en Roma, el 24 de septiembre de 1983.*
-
-[](#top)

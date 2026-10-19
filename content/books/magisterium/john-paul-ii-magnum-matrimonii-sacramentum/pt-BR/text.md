@@ -29,9 +29,9 @@ Esta é a razão por que a Igreja, principalmente depois do Concílio Vaticano I
 Compete, portanto, a este Instituto em virtude do seu direito, conferir os seguintes graus académicos:
 
 > — Doutoramento em Sagrada Teologia com especialização nas ciências teológicas sobre o Matrimónio e sobre a Família;
->
+
 > — Licenciatura em Teologia sobre o Matrimónio e sobre a Família;
->
+
 > — Diploma em ciência sobre o Matrimónio e sobre a Família.
 
 4. O Instituto realizará o que lhe foi acima estabelecido como finalidade:

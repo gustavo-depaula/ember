@@ -267,8 +267,6 @@ Non vult tamen hoc consilium libertatem consentaneam in singulorum atque communi
 
 ***«Benedictum Mariae Rosarium - vinculum nos coniungens* *cum Deo dulcissimum»***
 
-* *
-
 39. Quae adhuc sunt omnia dicta, affatim divitias huius traditae precationis declarant, quae popularis quidem precis prae se fert simplicitatem verum precationis etiam theologicam altitudinem iis nempe idoneam qui maturioris cuiusdam contemplationis sentiunt necessitatem.
 
 Peculiarem semper tribuit Ecclesia efficaciam huic precationi cui casus difficillimos eiusque chorali recitationi et usui perpetuo commisit. Cum christiano ipsi nomini maxima imminerent pericula, huius precationis virtuti declinatum periculum adscribebatur atque Rosarii Virgo tamquam salutis conciliatrix salutabatur.

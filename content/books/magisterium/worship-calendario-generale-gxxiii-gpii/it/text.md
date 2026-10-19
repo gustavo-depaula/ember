@@ -1,9 +1,5 @@
 # Decreto di iscrizione nel Calendario Romano Generale dei Santi Giovanni XXIII e Giovanni Paolo II
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAZIONE PER IL CULTO DIVINO E LA DISCIPLINA DEI SACRAMENTI
 
 Prot. N. 309/14
@@ -27,5 +23,3 @@ Nonostante qualsiasi cosa in contrario.
 **(Antonio Card. Cañizares Llovera)** *Prefetto*
 
 > **(+ Arthur Roche)** *Arcivescovo Segretario*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Odpovědi na předložené otázky o platnosti křtu udělovaného formulí
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACE PRO NAUKU VÍRY
 
 **Odpovědi na předložené otázky o platnosti křtu udělovaného formulí: „Já tě křtím ve jménu Stvořitele i Vykupitele i Posvětitele“ a „Já tě křtím ve jménu Stvořitele i Osvoboditele i Oživovatele.“?**
@@ -27,5 +23,3 @@ Svatý otec Benedikt XVI. při audienci udělené níže podepsanému kardinálu
 kard. WILLIAM LEVADA *prefekt*
 
 \+ ANGELO AMATO, S.D.B. *titulární arcibiskup ze Sily sekretář*
-
-[](#top)

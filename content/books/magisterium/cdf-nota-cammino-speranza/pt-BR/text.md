@@ -1,13 +1,5 @@
 # Nota. Um Caminho de Esperança. Sessenta anos de diálogo e fraternidade inter-religiosa à luz da Declaração conciliar \<i>Nostra aetate\</i>
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 \[[DE](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_ge.html) - [EN](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_en.html) - [ES](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_sp.html) - [FR](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_fr.html) - [IT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_it.html) - [PL](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_pl.html) - [PT](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20260916_nota-cammino-speranza_po.html)\]
@@ -21,8 +13,6 @@ DICASTÉRIO PARA O DIÁLOGO INTER-RELIGIOSO
 **UM CAMINHO DE ESPERANÇA**
 
 **Sessenta anos de diálogo e fraternidade inter-religiosa à luz da Declaração conciliar *[Nostra aetate](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_po.html)***
-
-*** ***  
 
 **Índice**
 
@@ -221,8 +211,6 @@ Mons. Indunil Janakaratne Kodithuwakku Kankanamalage *Secretário*
 
 *Ex Audientia Die* 22 Iunii 2026  
 Leo PP XIV
-
-*                                   *
 
 ------------------------------------------------------------------------
 

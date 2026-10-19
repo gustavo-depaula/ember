@@ -1,9 +1,5 @@
 # Bíblia e Moral. Raízes bíblicas do agir cristão - Pontifícia Comissão Bíblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFÍCIA COMISSÃO BÍBLICA
 
 BÍBLIA E MORAL
@@ -1864,5 +1860,3 @@ Desejamos, porém, que a nossa reflexão possa suscitar três tipos de atividade
 **161.** 2) Pensamos também que uma reflexão como a nossa, despertando algum interesse, poderia ajudar os pastores e os teólogos a encontrar *estratégias mediáticas* apropriadas a fim de que o ensinamento moral da Igreja seja percebido sob um aspecto positivo e em toda a sua riqueza. Por certo, para ser fiel a Cristo e ao serviço da humanidade, a Igreja não pode abster-se de apresentar com clareza os direitos e os deveres do crente e de cada ser humano, e por isso não pode prescindir de certas regras e proibições. Mas a contraposição, sobretudo quando assume o estilo de uma luta considerada necessária, não é senão um dos oito critérios que enunciamos. Apresentar a “moral revelada” em toda a sua amplidão e fecundidade, no eixo da Escritura, poderia traçar os contornos de uma pedagogia renovada.
 
 **162.** 3) Enfim, para ter continuação, o presente documento necessitará, estamos convencidos, de um esforço de *vulgarização*. Só assim poderá levar ajuda aos pastores, aos animadores pastorais, aos catequistas, aos professores, sem esquecer os pais cristãos, que têm a missão bela e insubstituível de educar os seus jovens para a vida, para a fé, para o uso de uma liberdade responsável, e de guiá-los sobre a estrada da verdadeira felicidade, que culmina além do mundo presente.
-
-[](#top)

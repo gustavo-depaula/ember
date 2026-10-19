@@ -1,9 +1,5 @@
 # Donum vitae - Instructio de observantia erga vitam humanam nascentem deque procreationis dignitate tuenda, d. 22 m. Februarii a. 1987, Congregatio pro Doctrina Fide
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI 
 
 **INSTRUCTIO DE OBSERVANTIA ERGA VITAM HUMANAM NASCENTEM DEQUE PROCREATIONIS DIGNITATE TUENDA**
@@ -337,8 +333,6 @@ b\) *Seminatio artificialis homologa*: ars technica eo respiciens, ut humanus co
 a\) mulierem, embryonem gestantem, qui arte in eius sinu collocatus est, quique proinde, spectatis geneticae legibus, ei extraneus est, cum obtentus fuerit per concursum gametum donatorum extraneorum, et ea quidem lege, ut puer qui nascetur ei tradatur qui talem praegnationem commiserit vel pacto mandaverit.
 
 B\) mulierem, embryonem gestantem, cuius procreationi ipsa proprio contulit ovulo, et quidem per seminationem spermatis viri fecundato, qui est alius a marito, ea item lege, ut puer, cum natus fuerit, ei tradatur qui praegnationem commiserit vel pacto mandaverit.
-
-[](#top)
 
 [^1]: \[\] Voces «zygotum», «prae-embryon», «embryon», «fétus» iuxta usum in disciplina biologica receptum, indicare possunt succedentia tempora in viventis humani processu ad suam maturitatem assequendam. Haec *Instructio* libère his vocibus utitur, eis tribuens eandem ethicam aestimationem ad significandum fructum, vitae autonomae capacem vel non, generationis humanae, a primo eius vitae momento usque ad nativitatem. Ratio huius ex ipso textu patebit (cf. 1,1).
 

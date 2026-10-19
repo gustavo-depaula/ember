@@ -6,8 +6,6 @@
 
 **DI SUA SANTITÀ BENEDETTO XVI CONTENENTE NUOVE DISPOSIZIONI CIRCA LE BASILICHE DI SAN FRANCESCO E DI SANTA MARIA DEGLI ANGELI IN ASSISI**
 
-* *
-
 Da tutto il mondo si guarda con speciale considerazione alla Basilica di San Francesco in Assisi che conserva e custodisce le spoglie mortali del Serafico Santo e alla Basilica di Santa Maria degli Angeli, che racchiude in sé la insigne chiesetta della Porziuncola:  la prima è affidata all'Ordine dei Frati Minori Francescani Conventuali e la seconda all'Ordine Francescano dei Frati Minori.
 
 I Romani Pontefici, da parte loro, hanno sempre avuto singolari vincoli e speciale sollecitudine per questi due Templi Maggiori francescani *propter eorum praestantiam atque dignitatem* e li hanno voluti finora soggetti direttamente alla loro giurisdizione. Lungo i secoli i Frati Conventuali ed i Frati Minori con la loro sollecita opera e la loro testimonianza hanno tenuto vivo lo spirito ed il carisma di San Francesco, diffondendo nel mondo intero il suo messaggio evangelico di pace, di fraternità e di bene.
@@ -31,5 +29,3 @@ Nonostante qualunque cosa in contrario.
 *Dato a Roma, presso S. Pietro il 9 novembre 2005, anniversario della Dedicazione della Basilica Lateranense, primo anno del Nostro Pontificato.*
 
 **BENEDETTO PP. XVI**
-
-** **

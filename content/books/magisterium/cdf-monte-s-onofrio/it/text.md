@@ -1,13 +1,5 @@
 # La terra non è separata dal cielo. Lettera al Vescovo di Trivento (Italia) circa i presunti fenomeni soprannaturali collegati al Monte S. Onofrio
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 DICASTERO PER LA DOTTRINA DELLA FEDE
@@ -93,11 +85,11 @@ Si deve lavorare al riguardo auspicando una crescita nella comprensione reciproc
 Il “*prae oculis habeatur*” non ammette ancora il culto pubblico, laddove con quest’ultima espressione si intendono quegli atti liturgici compiuti «in nome della Chiesa da persone legittimamente incaricate e mediante atti approvati dall’autorità della Chiesa» (*Codice di Diritto Canonico*, can. 834 §2). Di conseguenza, tale giudizio *esclude* i seguenti elementi:
 
 > 1\) la celebrazione di riti liturgici nei luoghi legati al fenomeno senza l’esplicita approvazione della competente autorità ecclesiastica;
->
+
 > 2\) i pellegrinaggi o altri eventi pastorali di rilevanza pubblica da parte di parrocchie o altre strutture ecclesiastiche;
->
+
 > 3\) la possibilità di divulgare, senza l’approvazione dell’autorità ecclesiastica, il fenomeno e i suoi presunti messaggi;
->
+
 > 4\) l’attività ricettiva di persone per condividere questa esperienza.
 
 Tuttavia, dato che non emergono rilievi gravi che richiedano ulteriori interventi, *si permette il culto privato*: la visita personale, in coppia o in gruppi molto ridotti, in questo caso al luogo della croce eretta sul Monte S. Onofrio in un periodo precedente all’inizio dei presunti fenomeni, oppure lungo il percorso della *Via Crucis* allestita per accompagnare con la preghiera la salita al monte.

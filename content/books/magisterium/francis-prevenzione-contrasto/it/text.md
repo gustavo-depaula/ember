@@ -23,9 +23,9 @@ Con la presente Lettera Apostolica in forma di *Motu Proprio* adotto le seguenti
 I Dicasteri della Curia Romana e gli altri organismi ed enti dipendenti dalla Santa Sede, nonché le organizzazioni senza scopo di lucro aventi personalità giuridica canonica e sede nello Stato della Città del Vaticano sono tenuti ad osservare le leggi dello Stato della Città del Vaticano in materia di:
 
 > a\) misure per la prevenzione ed il contrasto del riciclaggio e del finanziamento del terrorismo;
->
+
 > b\) misure contro i soggetti che minacciano la pace e la sicurezza internazionale;
->
+
 > c\) vigilanza prudenziale degli enti che svolgono professionalmente un’attività di natura finanziaria.
 
 **Articolo 2**
@@ -69,21 +69,21 @@ Dispongo che quanto stabilito abbia pieno e stabile valore, anche abrogando tutt
 Il Comitato di Sicurezza Finanziaria:
 
 > a\) stabilisce criteri e modalità per l’elaborazione della valutazione generale dei rischi di riciclaggio e di finanziamento del terrorismo e della proliferazione di armi di distruzione di massa;
->
+
 > b\) approva la valutazione generale dei rischi e il suo regolare aggiornamento;
->
+
 > c\) individua le misure occorrenti per la gestione ed il contenimento dei rischi;
->
+
 > d\) coordina l’adozione ed il regolare aggiornamento di politiche e procedure per la prevenzione ed il contrasto del riciclaggio, del finanziamento del terrorismo e della proliferazione di armi di distruzione di massa;
->
+
 > e\) promuove l’attiva collaborazione e lo scambio di informazioni tra le Autorità competenti della Santa Sede e dello Stato della Città del Vaticano;
->
+
 > f\) assicura agli organismi interessati un’informazione appropriata sui rischi rilevati;
->
+
 > g\) adotta procedure e linee guida interne;
->
+
 > h\) chiede informazioni alle Autorità ed agli enti che operano nell’ambito della Santa Sede e dello Stato della Città del Vaticano;
->
+
 > i\) domanda studi e pareri ad esperti esterni.
 
 **Articolo 3 –** *Sedute*

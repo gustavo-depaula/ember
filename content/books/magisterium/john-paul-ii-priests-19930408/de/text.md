@@ -4,8 +4,6 @@ JOHANNES PAUL II.
 
 ***SCHREIBEN AN DIE PRIESTER ZUM GRÜNDONNERSTAG 1993***
 
-***   ***
-
 1\. *"Jesus Christus ist derselbe gestern, heute und in Ewigkeit"* (*Hebr* 13,8)
 
 *Liebe Brüder im Priesteramt Christi!*
@@ -41,5 +39,3 @@ Es ist also der Kirche, die sich auf dem Weg zum großen Jubiläumsjahr 2000 bef
 Der Katechismus bietet das "*Neue des Konzils*" und bindet es gleichzeitig in die gesamte Überlieferung ein; der Katechismus ist so reich an jenen Schätzen, die wir in der Heiligen Schrift und dann zwei Jahrtausende hindurch bei den Vätern und Kirchenlehrern finden, daß er einen jeden von uns jenem Mann aus dem biblischen Gleichnis ähnlich werden läßt, "der aus seinem reichen Vorrat Neues und Altes hervorholt" (*Mt* 13,52), die alten und immer neuen Reichtümer des göttlichen Gutes. Während wir die Gnade des Weihesakramentes in uns wieder entfachen, und im Bewußtsein der Bedeutung des "*Katechismus der katholischen Kirche*" für unseren priesterlichen Dienst, bekennen wir uns zu dem, der "der Weg, die Wahrheit und das Leben" ist (*Joh* 14,6).
 
 *Aus dem Vatikan, am 8. April, dem Gründonnerstag des Jahres 1993, dem fünfzehnten Jahr meines Pontifikates.*
-
-*  *

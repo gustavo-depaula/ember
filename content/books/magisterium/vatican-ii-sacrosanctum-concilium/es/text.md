@@ -1,15 +1,5 @@
 # Constitución \<i>Sacrosanctum Concilium\</i> sobre la sagrada liturgia
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](javascript:up())
-
-[](#)
-
 ------------------------------------------------------------------------
 
 CONSTITUCIÓN  
@@ -181,11 +171,11 @@ Por eso, al realizar la reforma hay que observar las normas generales siguientes
 35\. Para que aparezca con claridad la íntima conexión entre la palabra y el rito en la Liturgia: 
 
 > 1). En las celebraciones sagradas debe haber lectura de la Sagrada Escritura más abundante, más variada y más apropiada.   
->   
+
 > 2). Por ser el sermón parte de la acción litúrgica, se indicará también en las rúbricas el lugar más apto, en cuanto lo permite la naturaleza del rito; cúmplase con la mayor fidelidad y exactitud el ministerio de la predicación. las fuentes principales de la predicación serán la Sagrada Escritura y la Liturgia, ya que es una proclamación de las maravillas obradas por Dios en la historia de la salvación o misterio de Cristo, que está siempre presente y obra en nosotros, particularmente en la celebración de la Liturgia.  
->   
+
 > 3). Incúlquese también por todos los medios la catequesis más directamente litúrgica, y si es preciso, téngase previstas en los ritos mismos breves moniciones, que dirá el sacerdote u otro ministro competente, pero solo en los momentos más oportunos, con palabras prescritas u otras semejantes.  
->   
+
 > 4). Foméntense las celebraciones sagradas de la palabra de Dios en las vísperas de las fiestas más solemnes, en algunas ferias de Adviento y Cuaresma y los domingos y días festivos, sobre todo en los lugares donde no haya sacerdotes, en cuyo caso debe dirigir la celebración un diácono u otro delegado por el Obispo.
 
 ***Lengua litúrgica***

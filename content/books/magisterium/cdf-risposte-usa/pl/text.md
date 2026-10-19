@@ -1,9 +1,5 @@
 # ODPOWIEDZI NA PYTANIA DOTYCZĄCE SZTUCZNEGO ODŻYWIANIA I NAWADNIANIA
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGACJA NAUKI WIARY
 
 ***ODPOWIEDZI NA PYTANIA DOTYCZĄCE SZTUCZNEGO ODŻYWIANIA I NAWADNIANIA***
@@ -25,5 +21,3 @@ Rzym, w siedzibie Kongregacji Nauki Wiary, 1 sierpnia 2007 r.
 
 **Angelo Amato, SDB**  
 Arcybiskup tytularny Sili *Sekretarz*
-
-[](#top)

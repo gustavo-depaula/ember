@@ -1,9 +1,5 @@
 # Listening to God's Word the definitive principle of Catholic theology - Prof. Dr. Adelbert Denaux, Tilburg School of Catholic Theology
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 ***Listening to God’s Word the definitive principle of Catholic theology***
 
 *Prof. Dr. Adelbert Denaux, Tilburg School of Catholic Theology*
@@ -27,5 +23,3 @@ The first section then explains what the ITC calls “the primacy of the Word of
 The second section, “Faith, the Response to God’s Word”, starts with a biblical mediation on the Apostle Paul’s remark that faith comes from hearing the word of Christ (par. 10). This ‘obedience’ of faith is at the same time an act of trust (*fides qua*) as well as that which is believed or confessed (*fides quae*): “Both aspects work together inseparably, since trust is adhesion to a message with intelligible content, and confession cannot be reduced to mere lip service, it must come from the heart. Faith is at the same time a reality profoundly personal and ecclesial” (par. 13). Furthermore, the Commission points to the fact that from the very beginning of the Church, ‘heretical’ interpretations of the faith held in common were proposed by some people. This permanent shadow of heresy in the life of the Church distorts the Gospel and damages ecclesial communion (par. 14). Hence, “A \[second\] criterion of Catholic theology is that it takes the faith of the Church as its source, context and norm.  Theology holds the *fides qua* and the *fides quae* together. It expounds the teaching of the apostles, the good news about Jesus Christ ‘in accordance with the Scriptures’ (1Cor 15: 3, 4), as the rule and stimulus of the Church’s faith”.
 
 In the third section, the Commission describes ‘theology’ as the understanding of faith. Indeed, faith opens the intelligence of the believer to new horizons. It brings him to the knowledge of the glory of God in the face of Jesus Christ (2 Cor 4:6). This “*intellectus fidei* takes various forms in the life of the Church and in the community of believers in accordance with the different gifts of the faithful (*lectio divina*, meditation, preaching, theology as a science, etc.). It becomes theology in the strict sense when the believer undertakes to present the content of the Christian mystery in a rational and scientific way. Theology is therefore *scientia Dei* in as much as it is a rational participation in the knowledge that God has of himself and of all things” (par. 18). Theologians are not the only believers who “know”, they participate in the knowledge of all believers; nevertheless, their knowledge has a more systematic and ‘scientific’ character. Therefore, “a \[third\] criterion of Catholic theology is that, precisely as the science of faith, ‘faith seeking understanding \[*fides quaerens intellectum*\]*’*, it has a rational dimension. Theology strives to understand what the Church believes, why it believes, and what can be known *sub specie Dei*. As *scientia Dei*, theology aims to understand in a rational and systematic manner the saving truth of God” (par. 19).
-
-[](#top)

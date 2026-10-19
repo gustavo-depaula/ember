@@ -1,9 +1,5 @@
 # A Nemzetközi Teológiai Bizottság közleménye a Hit éve alkalmából
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 ***A NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG KÖZLEMÉNYE A HIT ÉVE ALKALMÁBÓL***
 
 *Fides quarens intellectum* (a megértést kereső hit), a teológia nem létezhet másként, csakis a hit ajándékával való kapcsolatában. Feltételezi a hit igazságát, és azt javasolja, hogy nyilvánítsa ki „felfoghatatlan gazdagságát” (Ef 3,8) a hívők egész közösségének lelki örömére és evangelizáló küldetésének szolgálatára.
@@ -19,5 +15,3 @@ A teológus tehát azért dolgozik, hogy „inkulturálja” az emberi értelemb
 *A teológus munkája nem csak belegyökerezik a keresztény nép élő hitébe,* aki figyel arra, mit mond a „Lélek az egyházaknak” (ApCsel 2,7), hanem tejes egészében a hitnek az Isten népében való növelésére és az egyház evangelizáló küldetésére irányul. Hiszen nem éppen az-e a feladata, hogy olyan „ismeretre törekedjen, amely megszüli, táplálja, védelmezi és erősíti a teljesen egészséges hitet” (Szent Ágoston, *De Trinitate,* XIV,1,3)? A teológus tehát a Tanítóhivatallal való felelős együttműködésben a saját hivatásaként veszi magára Isten népe hitének szolgálatát (vö. az 1990. május 24-én kelt *Donum veritatis* instrukciót).
 
 Ugyanakkor a teológus a keresztény öröm szolgája is, amely „az igazság fölötti öröm *(gaudim de veritate)*” is (Szent Ágoston, *Confessiones,* X,23,33). Aquinói Szent Tamás a hit aktusában három szintet különböztet meg: „különbség van aközött, ha azt mondom, »hiszem Istent« *\[credo Deum\],* (ahol őt a hit tárgyaként fogom fel) és aközött, hogy azt mondom: »hiszek Istennek« *\[credo Deo\],* (ahol őt úgy jelölöm meg, mint aki tanúsítja azt), vagy pedig »hiszek Istenben« *\[credo in Deum\],* (ahol őt úgy jelölöm meg mint aki a hitem célja). Istent lehet a hit tárgyának, tanújának és céljának tekinteni: de ha tárgya vagy tanúja a hitnek, akkor lehet teremtmény is, a hit végső célja nem lehet más, mint egyedül Isten, mert a szellemiségünk nem irányulhat másra, csakis Istenre mint végső célra” (Aquinói Szent Tamás, *In Ioannem,* c. 6, lectio 3). Istenben hinni (*credere in Deum*) ezért a hit dinamizmusának lényeges alkotóeleme. Ez azt jelent, hogy a hívőt az Isten Igéjéhez való személyes ragaszkodásában az a legfőbb abszolút Jó vonzza, aki maga a boldogságos Szentháromság. Ugyanis a boldogságvágy, amely mindannyiunk legmélyében gyökerezik az, amely az emberi szellemet állandó készenlétben tartja, hogy arra irányítsa: egész életét bizalomteljes ráhagyatkozással Istenre és a mi Urunk Jézus Krisztus Atyjára bízza. Így igazán el lehet mondani, hogy a hit – és maga a teológia mint *scientia fidei* és bölcsesség – mindenkiben „a szellemi szépség szerelmét” (Szent Ágoston, *Regula ad servos Dei,* 8,1), az örök élet valódi előre történő megízlelését ébreszti.
-
-[](#top)

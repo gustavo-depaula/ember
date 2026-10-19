@@ -1,9 +1,5 @@
 # ANTWORTEN AUF FRAGEN ZU EINIGEN ASPEKTEN BEZÜGLICH DER LEHRE ÜBER DIE KIRCHE
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 *ANTWORTEN AUF FRAGEN ZU EINIGEN ASPEKTEN BEZÜGLICH DER LEHRE ÜBER DIE KIRCHE*
@@ -128,5 +124,3 @@ Die beiden zitierten Ausdrücke finden sich in *Unitatis redintegratio* 2.5 und 
 19 Vgl. II. VATIKANISCHES KONZIL, Dekret *Unitatis redintegratio*, 22.3.
 
 20 Vgl. KONGREGATION FÜR DIE GLAUBENSLEHRE, Erklärung *Dominus Iesus*, 17.2: AAS 92 (2000) 758.
-
-[](#top)

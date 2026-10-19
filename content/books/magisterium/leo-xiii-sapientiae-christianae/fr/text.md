@@ -7,8 +7,6 @@ LETTRE ENCYCLIQUE
 
 SUR LES PRINCIPAUX DEVOIRS DES CHRÉTIENS  
 
-* *
-
 *A nos Vénérables Frères les Patriarches, Primats, Archevêques, Evêques et autres ordinaires, en paix et en communion avec le Saint Siège Apostolique.*
 
 *Vénérables Frères, Salut et Bénédiction Apostolique*

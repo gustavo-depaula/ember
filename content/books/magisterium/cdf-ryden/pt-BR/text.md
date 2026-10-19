@@ -1,9 +1,5 @@
 # Notificação sobre os escritos e atividades da Sra.Vassula Ryden, 6 de outubro de 1995
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 * NOTIFICAÇÃO SOBRE OS ESCRITOS E AS OBRAS DA SENHORA VASSULA RYDEN *\*
@@ -29,5 +25,3 @@ Considerando que, não obstante alguns aspectos positivos, o efeito das activida
 **Tarcisio Bertone, S.D.B.** * Arcebispo Emérito de Vercelli Secretário*
 
 \* *L’Osservatore Romano*, Edição semanal, N. 43, 28 de Outubro de 1995, Pág. 12 (528) = *AAS* 88 (1996) 956-957.
-
-[](#top)

@@ -1,9 +1,5 @@
 # INFORMACJA NA TEMAT WAŻNOŚCI CHRZTU UDZIELANEGO PRZEZ "CHRISTIAN COMMUNITY"
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **INFORMACJA NA TEMAT WAŻNOŚCI CHRZTU UDZIELANEGO PRZEZ "CHRISTIAN COMMUNITY"**
@@ -15,5 +11,3 @@ Kongregacja po dokładnym zbadaniu zagadnienia uznała, że należy odpowiedzie�
 Rzym, 9 marca 1991 r.
 
 **JOSEPH Kard. RATZINGER** * Prefekt*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Des sources du Pentateuque et de l'historicité de Genèse 1-11 - Pontificia Commissione Biblica
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 PONTIFICIA COMMISSIONE BIBLICA
 
 **DES SOURCES DU PENTATEUQUE ET DE L'HISTORICITÉ DE GENÈSE 1-11**
@@ -30,5 +26,3 @@ Jacques M. Vosté, O.P.
 *Secrétaire de la Commission Pontifical pour les Etudes Bibliques*
 
 *Rome, 16 janvier 1948*.
-
-[](#top)

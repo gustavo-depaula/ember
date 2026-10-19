@@ -1,9 +1,5 @@
 # Lettre au Père Charles Curran, 25 juillet 1986 - Congrégation pour la Doctrine de la Foi
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI 
 
 **Lettre AU P. CHARLES CURRAN**
@@ -36,5 +32,3 @@ Puis-je enfin exprimer mon sincère espoir que ce résultat de l’étude de la 
 
 **Joseph Card. Ratzinger**  
 *Préfet*
-
-[](#top)

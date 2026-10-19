@@ -1,13 +1,5 @@
 # De Iesu autoconscientia quam scilicet ipse de se ipso et de sua missione habuit, 1985, Commissio Theologica Internationalis
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISSIO THEOLOGICA INTERNATIONALIS

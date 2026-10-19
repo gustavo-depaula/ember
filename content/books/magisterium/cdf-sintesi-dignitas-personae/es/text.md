@@ -1,9 +1,5 @@
 # Síntesis de la Instrucción Dignitas personae
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 ***SÍNTESIS DE LA INSTRUCCIÓN*** ***DIGNITAS PERSONÆ*** ***SOBRE ALGUNAS CUESTIONES DE BIOÉTICA***
@@ -145,5 +141,3 @@ La utilización de “material biológico” humano de origen ilícito
 Para la investigación científica y la elaboración de distintos productos, a veces se usan embriones o líneas celulares que son el resultado de intervenciones ilícitas contra la vida o la integridad física del ser humano.
 
 En relación a la experimentación con embriones, ello «constituye un delito en consideración a su dignidad de seres humanos, que tienen derecho al mismo respeto debido al niño ya nacido y a toda persona». Estas formas de experimentación constituyen siempre un desorden moral grave» (n. 34). obre el uso de los investigadores de "material biológico" de origen ilícito, que ha sido producido fuera de sus centros de investigación, o que se encuentra en comercio, «se debe salvaguardar además la exigencia moral de que no haya habido complicidad alguna con el aborto voluntario, y de evitar el peligro de escándalo. En ese sentido es insuficiente el criterio de independencia formulado por algunos comités de ética, según el cual sería éticamente lícita la utilización de "material biológico" de origen ilícito, a condición de que exista una separación clara entre los que producen, congelan y dan muerte a los embriones, y los investigadores que desarrollan la experimentación científica». Hay que precisar que «el deber de rechazar el "material biológico" deriva de la obligación de separarse, en el ejercicio de la propia actividad de investigación, de un marco legislativo gravemente injusto y de afirmar con claridad el valor de la vida humana… Por eso el mencionado criterio de independencia es necesario, pero puede ser éticamente insuficiente» (n. 35). «Por supuesto, dentro de este marco general existen diferentes grados de responsabilidad. Razones de particular gravedad podrían ser moralmente proporcionadas como para justificar el uso de ese “material biológico”. Así, por ejemplo, el peligro para la salud de los niños podría autorizar a sus padres a utilizar una vacuna elaborada con líneas celulares de origen ilícito, quedando en pié el deber de expresar su desacuerdo al respecto y de pedir que los sistemas sanitarios pongan a disposición otros tipos de vacunas. Por otro lado, debemos tener en cuenta que en las empresas que utilizan líneas celulares de origen ilícito no es idéntica la responsabilidad de quienes deciden la orientación de la producción y la de aquéllos que no tienen poder de decisión» (n. 35).
-
-[](#top)

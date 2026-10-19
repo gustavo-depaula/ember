@@ -1,13 +1,5 @@
 # Responsa ad proposita dubia de celebrantis communione «per intinctionem» et fidelium communione sub sola specie vini, d. 29 m. Octobris a. 1982, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

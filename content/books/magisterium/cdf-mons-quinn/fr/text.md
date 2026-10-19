@@ -1,13 +1,5 @@
 # Lettre à Mgr John R. Quinn,Président de la Conférence épiscopale américaine et observations de la S. Congrégation pour la doctrine de le foi sur le livre « la sexualité humaine »
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 S. CONGRÉGATION POUR LA DOCTRINE DE LA FOI

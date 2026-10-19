@@ -1,9 +1,5 @@
 # Commentaire aux Réponses à des questions concernant certains aspects de la doctrine sur l'Église
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGRÉGATION POUR LA DOCTRINE DE LA FOI 
 
 **COMMENTAIRE aux *Réponses à des questions concernant certains aspects de la doctrine sur l’Eglise***
@@ -63,8 +59,6 @@ Reprenant en substance l’enseignement conciliaire ainsi que le Magistère post
 A première vue, l’œcuménisme catholique peut se présenter de manière paradoxale. Avec l’expression "*subsistit in*", le Concile Vatican II a voulu harmoniser deux affirmations doctrinales : d’une part, que l’Eglise du Christ, malgré les divisions des chrétiens, continue d’exister de manière intégrale seulement dans l’Eglise catholique ; d’autre part, l’existence de nombreux éléments de sanctification et de vérité en dehors de son ensemble, à savoir dans les Eglises et Communautés ecclésiales qui ne sont pas encore en pleine communion avec l’Eglise catholique. A ce sujet, le Décret du Concile Vatican II sur l’œcuménisme *Unitatis redintegratio* avait même introduit le terme *plenitudo* *(unitatis/catholicitatis)* précisément pour aider à mieux faire comprendre cette situation d’une certaine manière paradoxale. Bien que l’Eglise catholique ait la plénitude des moyens de salut, « les divisions entre Chrétiens l’empêchent cependant de réaliser la plénitude de la catholicité qui lui est propre en ceux de ses fils qui, certes, lui appartiennent par le baptême, mais se trouvent séparés de sa pleine communion »[^16]. Il s’agit donc de la plénitude de l’Eglise catholique, qui est déjà actuelle et qui doit croître dans les frères qui ne sont pas en pleine communion avec elle, mais aussi dans ses fils qui sont pécheurs « jusqu’à ce que, dans la Jérusalem céleste, le peuple de Dieu atteigne joyeux la totale plénitude de la gloire éternelle »[^17]. Le progrès dans la plénitude est enraciné dans le dynamisme de l’union avec le Christ : « L’union avec le Christ est en même temps union avec tous ceux auxquels il se donne. Je ne peux avoir le Christ pour moi seul; je ne peux lui appartenir qu’en union avec tous ceux qui sont devenus ou qui deviendront siens. La communion me tire hors de moi-même vers lui et, en même temps, vers l’unité avec tous les chrétiens »[^18].
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: PAUL VI, *Discours de clôture de la troisième période du Concile (21 novembre 1964): AAS* 56 \[1964\] 1012 ; *Documentation Catholique* 61 (1964) 1541.
 

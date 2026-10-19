@@ -31,13 +31,13 @@ Este amplio y complejo sector atañe directamente al bien de la persona humana y
 Las funciones de esta Comisión serán las siguientes:
 
 > — estimular y promover la obra de formación, de estudio y de acción que las diversas Asociaciones Internacionales Católicas desarrollan ya en el sector de la sanidad, así como la de los otros grupos e instituciones que, a diversos niveles de la sociedad y de varios modos, actúan en este campo;
->
+
 > — coordinar oportunamente las actividades desarrolladas por los diversos dicasterios de la Curia Romana en relación con el mundo de la sanidad y con sus problemas;
->
+
 > — explicar, defender y difundir las enseñanzas de la Iglesia en materia de sanidad, y fomentar su penetración en la práctica por parte de los agentes sanitarios;
->
+
 > — actuar en conexión con las Iglesias particulares y especialmente con las comisiones episcopales para la pastoral sanitaria;
->
+
 > — seguir con atención y estudiar orientaciones programáticas e iniciativas concretas en el sector de la sanidad, a nivel tanto internacional como nacional, con el fin de evaluar su importancia y sus implicaciones en la actividad pastoral de la Iglesia.
 
 Esta Pontificia Comisión estará presidida por el mismo cardenal Presidente del Pontificio Consejo para los Laicos y estará animada por un grupo de coordinación, al frente del cual estará un arzobispo como Pro-Presidente, y un secretario sin carácter episcopal.
@@ -49,11 +49,11 @@ Compete al Pro-Presidente promover, animar, dirigir y coordinar las actividades 
 Los miembros y consultores, nombrados por el Sumo Pontífice, representarán:
 
 > A\) a algunos dicasterios y organismos de la Curia Romana (Secretaría de Estado; Congregaciones para la Doctrina de la Fe, para las Iglesias Orientales, para los Religiosos e Institutos Seculares, para la Evangelización de los Pueblos y para la Educación Católica; Pontificios Consejos *Cor Unum* y para la Familia; Pontificia Academia de las Ciencias);
->
+
 > B\) a todo el Episcopado (comisiones episcopales para la pastoral de la sanidad);
->
+
 > C\) a las familias religiosas hospitalarias;
->
+
 > D\) a los laicos (asociaciones internacionales católicas y también otras instituciones y grupos que actúan en el sector de la salud y en el mundo del dolor humano).
 
 Para realizar sus funciones, la Pontificia Comisión podrá solicitar la colaboración de expertos y formar grupos de estudio "ad hoc" sobre algunas cuestiones determinadas y concretas.

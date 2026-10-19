@@ -19,9 +19,9 @@
 6\. Die [Päpstliche Kommission »*Ecclesia Dei*«](http://www.vatican.va/roman_curia/pontifical_commissions/ecclsdei/index_ge.htm) soll daher folgende Struktur haben:
 
 > a\) Präsident der Kommission ist der Präfekt der Kongregation für die Glaubenslehre.
->
+
 > b\) Die Kommission hat eine eigene personelle Ausstattung, die sich aus dem Sekretär und aus Offizialen zusammensetzt.
->
+
 > c\) Aufgabe des Präsidenten wird es sein, mit Hilfe des Sekretärs die wichtigsten Fälle und die Fragen doktrineller Art den ordentlichen Instanzen der Kongregation für die Glaubenslehre zur Untersuchung und zur Entscheidungsfindung zu unterbreiten und die Ergebnisse den höheren Anordnungen des Papstes zu unterstellen.
 
 7\. Durch diese Entscheidung möchte ich insbesondere väterliche Fürsorge gegenüber der »Bruderschaft St. Pius X.« zeigen, mit dem Ziel, die volle Gemeinschaft mit der Kirche wiederzufinden.
@@ -29,8 +29,6 @@
 Ich lade alle nachdrücklich ein, ohne Unterlaß zum Herrn zu beten, durch die Fürsprache der allerseligsten Jungfrau Maria, »ut unum sint«.
 
 *Gegeben zu Rom, bei St. Peter, am 2. Juli 2009, im fünften Jahr unseres Pontifikats*
-
-* *
 
 **BENEDICTUS PP. XVI**
 

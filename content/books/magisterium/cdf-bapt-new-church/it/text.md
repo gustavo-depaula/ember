@@ -1,9 +1,5 @@
 # Notificazione sulla validità del battesimo conferito presso «The New Church», 20 novembre 1992
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **CONGREGAZIONE PER LA DOTTRINA DELLA FEDE**
 
 **Notificazione sulla validità del battesimo conferito presso «*The New Church*» **
@@ -17,5 +13,3 @@ Questa Congregazione, compiuto un diligente esame, ha deciso di rispondere: *No*
 **Joseph Card. Ratzinger** * Prefetto*
 
    *       *
-
-[](#top)

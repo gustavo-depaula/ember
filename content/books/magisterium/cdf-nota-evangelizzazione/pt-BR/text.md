@@ -1,9 +1,5 @@
 # Nota doutrinal sobre alguns aspectos da evangelização
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
 ***NOTA DOUTRINAL SOBRE ALGUNS ASPECTOS DA EVANGELIZAÇÃO***
@@ -99,8 +95,6 @@ Os relativismos e irenismos de hoje em âmbito religioso não são um motivo vá
 **Angelo Amato, *sdb*** *Arcebispo titular de Sila Secretário*
 
 ------------------------------------------------------------------------
-
-[](#top)
 
 [^1]: J. PAULO II, *[Redemptoris missio](/edocs/POR0071/_INDEX.HTM)*, 7-XII-1990, n. 47: *AAS* 83 (1991) 293.
 

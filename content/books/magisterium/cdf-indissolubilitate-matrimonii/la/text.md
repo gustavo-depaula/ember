@@ -1,13 +1,5 @@
 # Litterae circulares de indissolubilitate matrimonii et de admissione ad Sacramenta fidelium qui in unione irregolari vivunt, d. 11 m. Aprilis a. 1973, Congregatio pro Doctrina Fidei
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 SACRA CONGREGATIO PRO DOCTRINA FIDEI

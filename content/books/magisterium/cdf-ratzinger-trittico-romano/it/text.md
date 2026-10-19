@@ -1,9 +1,5 @@
 # Prolusione dell'Em.mo Card. Joseph Ratzinger
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 **PRESENTAZIONE DEL "TRITTICO ROMANO" NUOVO LIBRO DI POESIE DI GIOVANNI PAOLO II**
 
 ***PROLUSIONE DELL’EM.MO CARD. JOSEPH RATZINGER***
@@ -21,5 +17,3 @@ Ritorniamo però al centro vero e proprio della seconda tavola, ossia lo sguardo
 L’immenso arco, che è la vera visione del Trittico Romano, si rivela chiaramente nella terza tavola, la salita di Abramo e Isacco sul monte di Moria, il monte del sacrificio, del donarsi senza riserve. La salita è l’ultima e decisiva fase del cammino di Abramo, iniziato con la partenza dalla sua patria, Ur dei Caldei; è la fase fondamentale nella salita verso la vetta, controcorrente, verso la sorgente, che è anche la mèta. Nel dialogo inesauribile tra padre e figlio, fatto di poche parole e del portare insieme, in silenzio, il mistero di queste parole, si riflettono tutte le domande della storia, la loro sofferenza, le loro paure e speranze. Alla fine emerge che questo dialogo tra padre e figlio, tra Abramo e Isacco, è il dialogo in Dio stesso, il dialogo tra l’eterno Padre e suo Figlio, il Verbo, e che questo dialogo eterno rappresenta allo stesso tempo anche la risposta al nostro dialogo umano incompiuto. Infatti, alla fine vi è la salvezza di Isacco, l’agnello – segno misterioso del Figlio, che diviene Agnello e vittima sacrificale, svelandoci così il vero volto di Dio: quel Dio che ci dona se stesso, che è interamente dono e amore, fino all’estremo, fino alla fine (cfr. *Gv* 13, 1). Così, proprio in questo concretissimo evento della storia, che tanto sembra allontanarci dalle grandi vedute della creazione della prima tavola del Trittico, appare evidente l’origine e la fine di tutto, il nesso tra discesa e salita, tra sorgente, cammino e mèta: diventa riconoscibile il Dio che dona se stesso, che è al contempo principio, via e mèta. Questo Dio traspare nella creazione e nella storia.
 
 Ci cerca nelle nostre sofferenze e nei nostri interrogativi. Ci mostra che cosa significa essere uomini: donarsi nell’amore, il che ci rende simili a Dio. Attraverso il cammino del Figlio sul monte del sacrificio si svela "il mistero celato dell’esordio del mondo". L’amore che dona è il mistero originale e, amando anche noi, comprendiamo il messaggio della creazione, troviamo il cammino.
-
-[](#top)

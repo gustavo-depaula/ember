@@ -29,9 +29,9 @@ Pertanto, dispongo:
 a\) delitti contro il sesto comandamento del Decalogo consistenti:
 
 > i\. nel costringere qualcuno, con violenza o minaccia o mediante abuso di autorità, a compiere o subire atti sessuali;
->
+
 > ii\. nel compiere atti sessuali con un minore o con una persona vulnerabile;
->
+
 > iii\. nella produzione, nell’esibizione, nella detenzione o nella distribuzione, anche per via telematica, di materiale pedopornografico, nonché nel reclutamento o nell’induzione di un minore o di una persona vulnerabile a partecipare ad esibizioni pornografiche;
 
 b\) condotte poste in essere dai soggetti di cui all’articolo 6, consistenti in azioni od omissioni dirette a interferire o ad eludere le indagini civili o le indagini canoniche, amministrative o penali, nei confronti di un chierico o di un religioso in merito ai delitti di cui alla lettera a) del presente paragrafo.

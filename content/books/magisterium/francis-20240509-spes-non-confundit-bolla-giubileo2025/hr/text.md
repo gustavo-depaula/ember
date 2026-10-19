@@ -143,8 +143,6 @@ Pustimo da nas već sada privuče nada i dopustimo da se putem nas proširi na o
 
 **FRANJO**
 
-** **
-
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 [^1]: Augustin, *Sermones*, 198 augm., 2.

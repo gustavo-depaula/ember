@@ -1,9 +1,5 @@
 # Nota doktrynalna na temat pewnych aspektów ewangelizacji
 
-[](/index.htm)
-
-[](javascript:history.go(-1))
-
 **Kongregacja Nauki Wiary**
 
 **Nota doktrynalna na temat pewnych aspektów ewangelizacji**
@@ -205,5 +201,3 @@ W Rzymie, w siedzibie Kongregacji Nauki Wiary, 3 grudnia 2007 r., w liturgiczne 
 55. Benedykt XVI, Przemówienie do uczestników międzynarodowego sympozjum z okazji 40. rocznicy soborowego Dekretu Ad gentes (11 marca 2006): AAS 98 (2006), 334; «L'Osservatore Romano», wyd. polskie, n. 6-7/2006, s. 56.
 
 56\. Benedykt XVI, Enc. Deus caritas est, n. 18: AAS (2006), 232.
-
-[](#top)

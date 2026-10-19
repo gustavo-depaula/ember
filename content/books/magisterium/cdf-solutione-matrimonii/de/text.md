@@ -1,13 +1,5 @@
 # Instruktion für die Auflösung der Ehe zugunsten des Glaubens, 6. Dezember 1973
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 HEILIGE KONGREGATION FÜR DIE GLAUBENSLEHRE
@@ -106,13 +98,9 @@ Quibus novis normis statutis, priores normae quae ad horum processuum instructio
 
 Durch den Erlass dieser neuen Normen werden frühere Normen, die zur Durchführung dieser Verfahren erlassen wurden, vollständig aufgehoben.
 
-** **
-
 **+ Franciscus Card. Šeper, ** *Praefectus*
 
 **+ Hieronymus Hamer, ** *a Secretis*
-
-** **
 
 **+ Franjo Kard. Šeper, ** *Präfekt*
 
@@ -121,8 +109,6 @@ Durch den Erlass dieser neuen Normen werden frühere Normen, die zur Durchführu
 \* *Documenta*, 65-66.
 
 \* *Documenta*, 65-66.
-
-* *
 
 **+ Franjo Card. Šeper ** *Präfekt*
 

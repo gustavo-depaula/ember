@@ -1,13 +1,5 @@
 # La fe y la inculturación
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 COMISIÓN TEOLÓGICA INTERNACIONAL
@@ -235,12 +227,12 @@ He aquí el conjunto de los temas tratados:
 I. Diversos *aspectos de la reflexión y de la acción de la Iglesia sobre el problema de la inculturación:*
 
 > 1\. Estado de la cuestión por lo que se refiere al Magisterio:
->
+
 > > 1\) El Concilio Vaticano II y los Sínodos (Prof. Philippe Delhaye).  
 > > 2) Las alocuciones pontificias (Prof. André Jean Léonard).
->
+
 > 2\. La teología y la acción pastoral:
->
+
 > > 1\) En Asia (Prof. Peter Miyakawa).  
 > > 2) En África (Prof. James Okoye).  
 > > 3) En América Latina (Prof. José Miguel Ibáñez Langlois).  
@@ -249,12 +241,12 @@ I. Diversos *aspectos de la reflexión y de la acción de la Iglesia sobre el pr
 II\. *Sagrada Escritura y Teología*
 
 > 1\. Dios Padre: Antiguo Testamento y Judaísmo (Dr. Hans Urs von Balthasar).
->
+
 > 2\. Jesucristo:
->
+
 > > 1\) La asunción de la naturaleza humana (Prof. Gilles Langevin).  
 > > 2) La salvación y la divinización (Prof. Francis Moloney).
->
+
 > 3\. El Espíritu Santo y la Iglesia (Prof. Jean Corbon).
 
 III\. *Antropología*
@@ -264,7 +256,7 @@ III\. *Antropología*
 IV\. *Eclesiología: la comunidad cristiana y las comunidades humanas*
 
 > 1\. Las religiones no cristianas (Prof. Felix Wilfred).
->
+
 > 2\. Las relaciones de las jóvenes Iglesias con las tradiciones eclesiásticas antiguas (Prof. Balthélemy Adoukonou).
 
 Documento en forma de conclusión pastoral: La modernidad (Prof. Hervé Carrier).

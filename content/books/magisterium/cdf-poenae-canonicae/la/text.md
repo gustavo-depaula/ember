@@ -1,9 +1,5 @@
 # Notificatio qua poenae canonicae Episcopis qui illicite alios episcopos ordinaverunt illisque hoc modo illegitimo ordinatis denuo comminantur, d. 12 m. Martii a. 1983, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 SACRA CONGREGATIO PRO DOCTRINA FIDEI
 
 **NOTIFICATIO QUA PŒNAE CANONICAE EPISCOPIS QUI ILLICITE ALIOS EPISCOPOS ORDINAVERUNT ILLISQUE HOC MODO ILLEGITIMO ORDINATIS DENUO COMMINANTUR** \*
@@ -33,5 +29,3 @@ Insuper haec Sacra Congregatio suum officium esse ducit christifideles enixe adm
 \* *AAS* 75 (1983), 392-393.
 
 ¹ Quoad concordantiam singulorum canonum qui heic referuntur cum legislatione canonica nuper promulgata, cf. in novo Codice Iuris Canonici can. 1051 § 1, 1031, 1382, 1383, 1041.
-
-[](#top)

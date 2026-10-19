@@ -1,20 +1,10 @@
 # Normen für das Verfahren zur Beurteilung mutmasslicher Erscheinungen und Offenbarungen - Heilige Kongregation der Glaubenslehre
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 Hl. Kongregation für die Glaubenslehre
 
 **Normen für das Verfahren zur Beurteilung mutmasslicher Erscheinungen und Offenbarungen**
-
-** **
 
 Vorbemerkung **zur Entstehung und zum Charakter der Normen**
 

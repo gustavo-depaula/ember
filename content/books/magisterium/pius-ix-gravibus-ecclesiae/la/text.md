@@ -41,6 +41,4 @@ Ad Vos denique Catholicae Ecclesiae Filii universi sermonem Nostrum convertimus,
 
  **PIUS PP. IX **
 
-** **
-
 \**A.S.S.*, vol. VIII (1874-1875), pp. 181-192.

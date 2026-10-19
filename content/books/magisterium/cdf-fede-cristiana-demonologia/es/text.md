@@ -1,13 +1,5 @@
 # Fe cristiana y demonología, 26 junio 1975
 
-[](http://www.vatican.va/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **FE CRISTIANA Y DEMONOLOGÍA**[\*](#_edn*)
@@ -97,9 +89,9 @@ El diablo era considerado creatura de Dios, *buena y luminosa* en un principio, 
 El *De Trinitate*, atribuido a Eusebio de Vercelli, lo expresaba firmemente en términos de anatemas sucesivos:
 
 > «Si alguien cree que el ángel apóstata, en la naturaleza en que ha sido hecho, no es obra de Dios, sino que existe por sí mismo, llegando incluso a atribuirle el tener en sí mismo el propio principio, sea anatema.
->
+
 > Si alguno cree que el ángel apóstata ha sido hecho por Dios con una naturaleza mala y no dice que él ha concebido el mal, por su propia voluntad, sea anatema.
->
+
 > Si alguno cree que el ángel de Satanás ha hecho el mundo —¡lejos de nosotros tal creencia!— y no declara que todo pecado es invención suya, sea anatema»[^76].
 
 Tal redacción en forma de anatema no era entonces un caso único: se encuentra ya en el *Commonitorium*, atribuido a San Agustín y escrito con vistas a la abjuración de los Maniqueos. Esta instrucción consideraba como anatema a «aquel que cree que existen dos naturalezas, que tienen origen en dos principios diversos, la una buena que es Dios, la otra mala, no creada por Él»[^77].

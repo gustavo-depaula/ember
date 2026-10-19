@@ -146,8 +146,6 @@ Art. 20. Los patronos deben prestar patrocinio gratuito cuando reciban ese manda
 Capítulo IV  
 **De la disciplina que ha de guardarse**
 
-** **
-
 Art. 21. Constituyen el Colegio de Jueces cinco miembros, a no ser que el Prefecto decida en el Congreso que el recurso contra el decreto de rechazo presentado en el Congreso, en su caso, debe ser juzgado por un Colegio de tres Jueces.
 
 Art. 22. § 1. En el Congreso decide el Prefecto con la intervención del Secretario, el Promotor de justicia, el Defensor del vínculo y los Promotores de justicia Sustitutos, así como de otros que pudieran haber sido designados para hacer la función de Promotor de justicia o Defensor del vínculo en las causas que vayan a tratarse, estando presente el Jefe de la Cancillería; pueden ser invitados, si el Prefecto lo juzga oportuno, los Referendarios cuya presencia se considere útil.

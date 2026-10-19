@@ -1,9 +1,5 @@
 # Carta aos Presidentes das Conferências Episcopais, 23 de novembro de 1990
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGAÇÃO PARA A DOUTRINA DA FÉ
 
  **Carta aos Presidentes das Conferências Episcopais sobre as Comissões Doutrinais**
@@ -53,5 +49,3 @@ XIV. Será muito útil, enfim, que o Presidente da Comissão Doutrinal envie, a
 **JOSEPH Card. RATZINGER** * Prefeito*
 
 **ALBERTO BOVONE** *Arcebispo tit. de Cesaréia de Numídia Secretário*
-
-[](#top)

@@ -1,9 +1,5 @@
 # Antwort auf die GÃ¼ltigkeit der Taufe, die von den Mormonen erteilt wird
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 KONGREGATION FÜR DIE GLAUBENSLEHRE
 
 ***ANTWORT AUF EINIGE ZWEIFEL BEZÜGLICH DER GÜLTIGKEIT DER TAUFE IN DER »KIRCHE JESU CHRISTI DER HEILIGEN DER LETZTEN TAGE« ODER »MORMONENKIRCHE«***
@@ -19,5 +15,3 @@ Rom, am Sitz der Kongregation für die Glaubenslehre, am 5. Juni 2001.
 **+ Joseph Kardinal Ratzinger** *Präfekt*
 
 **+ Tarcisio Bertone, S.D.B.** em. Erzbischof von Vercelli *Sekretär*
-
-[](#top)

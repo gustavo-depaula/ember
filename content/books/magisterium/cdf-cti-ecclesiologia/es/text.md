@@ -1,13 +1,5 @@
 # Temas selectos de Eclesiología, 1984
 
-[](/index.htm)
-
-[](https://www.facebook.com/sharer.php?u=) [](https://twitter.com/home?status=vatican.va:%0A) [](https://plus.google.com/share?url=) [](mailto:)
-
-[](javascript:history.go(-1))
-
-[](#)
-
 ------------------------------------------------------------------------
 
 **COMISIÓN TEOLÓGICA INTERNACIONAL**
@@ -25,65 +17,65 @@
 3\. ***[Texto del documento aprobado «in forma specifica» por la Comisión Teológica Internacional](#Texto_del_documento)***
 
 > [Introducción](#INTRODUCCIÓN)
->
+
 > 1\. **[La fundación de la Iglesia por Jesucristo](#La_fundación)**
->
+
 > > 1\. Estado de la cuestión  
 > > 2. Los diferentes sentidos de la palabra *Ekklesia *  
 > > 3. Noción y punto de partida de la fundación de la Iglesia  
 > > 4. Progresos y etapas en el proceso de fundación de la Iglesia  
 > > 5. El origen permanente de la Iglesia en Jesucristo
->
+
 > 2\. **[La Iglesia «nuevo pueblo de Dios»](#La_Iglesia)**
->
+
 > > 1\. La multiplicidad de las designaciones de la Iglesia  
 > > 2. «Pueblo de Dios»
->
+
 > 3\. **[La Iglesia como «misterio» y «sujeto histórico»](#La_Iglesia_como_«misterio»)**
->
+
 > > 3.1. La Iglesia a la vez «misterio» y «sujeto histórico»  
 > > 3.2. La Iglesia como «sujeto histórico»  
 > > 3.3. Plenitud y relatividad del sujeto histórico  
 > > 3.4. El nuevo pueblo de Dios en su existencia histórica
->
+
 > 4\. **[Pueblo de Dios e inculturación](#Pueblo_de_Dios)**
->
+
 > > 4.1. Necesidad de la inculturación  
 > > 4.2. El fundamento de la inculturación  
 > > 4.3. Aspectos diversos de la inculturación
->
+
 > 5\. **[Iglesias particulares e Iglesia universal](#Iglesias_particulares)**
->
+
 > > 5.1. Las distinciones necesarias  
 > > 5.2. Unidad y diversidad  
 > > 5.3. El servicio de la unidad
->
+
 > 6\. **[El nuevo pueblo de Dios como sociedad ordenada jerárquicamente](#El_nuevo_pueblo_de_Dios)**
->
+
 > > 6.1. Comunión, estructura, organización  
 > > 6.2. Práctica de la sociedad ordenada jerárquicamente
->
+
 > 7\. **[El sacerdocio común en su relación al sacerdocio ministerial](#El_sacerdocio_común)**
->
+
 > > 7.1. Dos formas de participación en el sacerdocio de Cristo  
 > > 7.2. Relación entre ambos sacerdocios  
 > > 7.3. Fundamento sacramental de ambos sacerdocios  
 > > 7.4. La vocación propia de los laicos
->
+
 > 8\. **[La Iglesia como sacramento de Cristo](#La_Iglesia_como_sacramento)**
->
+
 > > 8.1. Sacramento y misterio  
 > > 8.2. Cristo y la Iglesia  
 > > 8.3. La Iglesia sacramento de Cristo
->
+
 > 9\. **[La única Iglesia de Cristo](#La_única_Iglesia)**
->
+
 > > 9.1. Unidad de la Iglesia y diversidad de los elementos cristianos  
 > > 9.2. Unicidad de la Iglesia de Cristo  
 > > 9.3. Elementos de santificación
->
+
 > 10\. **[El carácter escatológico de la Iglesia: Reino e Iglesia](#El_carácter_escatológico)**
->
+
 > > 10.1. La Iglesia es, a la vez, terrestre y celeste  
 > > 10.2. La Iglesia y el Reino  
 > > 10.3. ¿Es la Iglesia sacramento del Reino?  

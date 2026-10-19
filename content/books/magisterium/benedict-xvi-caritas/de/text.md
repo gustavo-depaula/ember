@@ -6,8 +6,6 @@
 
 **DIENST DER LIEBE**
 
-** **
-
 **Einleitung**
 
 »Das Wesen der Kirche drückt sich in einem dreifachen Auftrag aus: Verkündigung von Gottes Wort (*kerygma-martyria*), Feier der Sakramente (*leiturgia*), Dienst der Liebe (*diakonia*). Es sind Aufgaben, die sich gegenseitig bedingen und sich nicht voneinander trennen lassen« (Enzykl. [*Deus caritas est*, 25](/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html#25.)).
@@ -103,5 +101,3 @@ Alles, was Wir im vorliegenden Apostolischen Schreiben in Form eines *Motu Propr
 *Gegeben zu Rom bei St. Peter, am 11. November 2012, im achten Jahr Unseres Pontifikats.  *
 
 **BENEDICTUS PP. XVI**
-
-** **

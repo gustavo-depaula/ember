@@ -1,9 +1,5 @@
 # Notificatio de validitate baptismatis apud «Christian Community» Rudolfi Steiner confessionem, d. 9 m. Martii a. 1991, Congregatio pro Doctrina Fidei
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](/latin/latin_curia.html#Congregatio_pro_Doctrina_Fidei)
-
 CONGREGATIO PRO DOCTRINA FIDEI
 
 **NOTIFICATIO** \*
@@ -19,5 +15,3 @@ Haec Congregatio, diligenti examine expleto, respondendum decrevit: *Negative*.
 ------------------------------------------------------------------------
 
 \* *AAS* 83 (1991), 422.
-
-[](#top)

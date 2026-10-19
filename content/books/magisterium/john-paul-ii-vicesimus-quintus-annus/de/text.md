@@ -383,7 +383,3 @@ Mit diesem vertrauensvollen Wunsch, der sich im Herzen in Gebet verwandelt, erte
 \[95\] Vgl. *ebd*., Nr. 23.
 
 \[96\] Ansprache an die Teilnehmer der Versammlung der Präsidenten und Sekretäre der Nationalen Liturgiekommissionen (27. Oktober 1984), Nr. 6: *Insegnamenti*, VII/2 (1984), S. 1054.
-
-* *
-
-* *

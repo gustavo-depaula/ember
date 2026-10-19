@@ -1,9 +1,5 @@
 # Carta enviada al R. P. E. Schillebeeckx, O.P., 13 junio 1984
 
-[](/index.htm)
-
-[](javascript:history.go(-1)) [](javascript:up())
-
 CONGREGACIÓN PARA LA DOCTRINA DE LA FE
 
 **CARTA ENVIADA AL R. P. E. SCHILLEBEECKX, O.P.**
@@ -46,5 +42,3 @@ Reciba, Reverendo Padre, la expresión de mis sentimientos de respeto en el Señ
 
 **ALBERTO BOVONE**  
 *Arzobispo titular de Cesarea de Numidia Secretario*
-
-[](#top)
