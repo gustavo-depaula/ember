@@ -1,0 +1,104 @@
+{
+  "id": "leo-xiii-rerum-novarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Rerum Novarum",
+    "en-US": "Rerum Novarum",
+    "pt-BR": "Rerum Novarum: sobre a condição dos operários",
+    "de": "Rerum Novarum (May 15, 1891)",
+    "es": "Rerum novarum",
+    "fr": "Rerum Novarum",
+    "hu": "Rerun Novarum, XIII. Leó pápa enciklikája a munkáskérdésről (az első pápai szociális körlevél) Róma, 1891",
+    "it": "Rerum Novarum",
+    "pl": "Rerum Novarum (May 15, 1891)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1891-05-15",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1891-05-15"
+  },
+  "composed": "1891",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1891-05-15,_SS_Leo_XIII,_Encyclica_'Rerum_Novarum_Cupidi',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/leo-xiii/hu/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1891-05-15,_SS_Leo_XIII,_Encyclica_'Rerum_Novarum_Cupidi',_PL.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Rerum Novarum",
+        "en-US": "Rerum Novarum",
+        "pt-BR": "Rerum Novarum: sobre a condição dos operários",
+        "de": "Rerum Novarum (May 15, 1891)",
+        "es": "Rerum novarum",
+        "fr": "Rerum Novarum",
+        "hu": "Rerun Novarum, XIII. Leó pápa enciklikája a munkáskérdésről (az első pápai szociális körlevél) Róma, 1891",
+        "it": "Rerum Novarum",
+        "pl": "Rerum Novarum (May 15, 1891)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "cdf-dominus-iesus",
+  "cover": "quarter",
+  "name": {
+    "la": "Dominus Iesus",
+    "en-US": "Dominus Iesus",
+    "pt-BR": "Declaração Dominus Iesus, 6 de agosto de 2000",
+    "de": "Erklärung Dominus Iesus über die Einzigkeit und die Heilsuniversalität Jesu Christi und der Kirche, 6. August 2000",
+    "es": "Declaración Dominus Iesus, 6 de agosto de 2000",
+    "fr": "Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus",
+    "hu": "DOMINUS IESUS - Hittani Kongregáció",
+    "it": "Dichiarazione sull’unicità e l’universalità salvifica di Gesù Cristo e della Chiesa – Dominus Iesus, 6 agosto 2000",
+    "nl": "Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus",
+    "pl": "Deklaracja o jedyności i powszechności zbawczej Jezusa Chrystusa i Kościoła",
+    "sk": "VYHLÁSENIE DOMINUS IESUS O JEDINEČNOSTI A VŠEOBECNOM SPÁSONOSNOM POSLANÍ JEŽIŠA KRISTA A CIRKVI"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2000-08-06",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2000-08-06"
+  },
+  "composed": "2000",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_nl.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_sk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dominus Iesus",
+        "en-US": "Dominus Iesus",
+        "pt-BR": "Declaração Dominus Iesus, 6 de agosto de 2000",
+        "de": "Erklärung Dominus Iesus über die Einzigkeit und die Heilsuniversalität Jesu Christi und der Kirche, 6. August 2000",
+        "es": "Declaración Dominus Iesus, 6 de agosto de 2000",
+        "fr": "Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus",
+        "hu": "DOMINUS IESUS - Hittani Kongregáció",
+        "it": "Dichiarazione sull’unicità e l’universalità salvifica di Gesù Cristo e della Chiesa – Dominus Iesus, 6 agosto 2000",
+        "nl": "Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus",
+        "pl": "Deklaracja o jedyności i powszechności zbawczej Jezusa Chrystusa i Kościoła",
+        "sk": "VYHLÁSENIE DOMINUS IESUS O JEDINEČNOSTI A VŠEOBECNOM SPÁSONOSNOM POSLANÍ JEŽIŠA KRISTA A CIRKVI"
+      }
+    }
+  ]
+}

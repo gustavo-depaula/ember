@@ -1,0 +1,144 @@
+{
+  "id": "vatican-ii-dei-verbum",
+  "cover": "quarter",
+  "name": {
+    "la": "Dei Verbum",
+    "en-US": "Dei verbum",
+    "pt-BR": "Dei verbum",
+    "ar": "Dei verbum - Dogmatic Constitution on Divine Revelation",
+    "be": "Dei verbum",
+    "cs": "Dei verbum",
+    "de": "Dei verbum",
+    "es": "Dei verbum",
+    "fr": "Dei verbum",
+    "he": "Dei Verbum",
+    "hu": "Dei verbum",
+    "it": "Dei Verbum",
+    "lv": "DOGMATISKĀ KONSTITŪCIJA PAR DIEVIŠĶO ATKLĀSMI - DEI VERBUM",
+    "sw": "Dei verbum"
+  },
+  "author": {
+    "en-US": "Second Vatican Council",
+    "pt-BR": "Concílio Vaticano II",
+    "la": "Concilium Oecumenicum Vaticanum II"
+  },
+  "description": {
+    "en-US": "Conciliar Document · Second Vatican Council · 1965-11-18",
+    "pt-BR": "Documento Conciliar · Concílio Vaticano II · 1965-11-18"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "he",
+    "hu",
+    "it",
+    "lv",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "council-document",
+    "vatican-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "he",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_he.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sw.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dei Verbum",
+        "en-US": "Dei verbum",
+        "pt-BR": "Dei verbum",
+        "ar": "Dei verbum - Dogmatic Constitution on Divine Revelation",
+        "be": "Dei verbum",
+        "cs": "Dei verbum",
+        "de": "Dei verbum",
+        "es": "Dei verbum",
+        "fr": "Dei verbum",
+        "he": "Dei Verbum",
+        "hu": "Dei verbum",
+        "it": "Dei Verbum",
+        "lv": "DOGMATISKĀ KONSTITŪCIJA PAR DIEVIŠĶO ATKLĀSMI - DEI VERBUM",
+        "sw": "Dei verbum"
+      }
+    }
+  ]
+}

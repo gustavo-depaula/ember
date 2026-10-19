@@ -2699,7 +2699,7 @@ include,1962-01-06,john-xxiii,apost_exhortations,Sacrae laudis,la pt,veritatis.c
 include,1962-02-02,john-xxiii,motu_proprio,Lettera Apostolica «Motu Proprio» Consilium che definisce il giorno di apertura del Concilio Ecumenico Vaticano II (2 febbraio 1962),de es it la pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,1962-02-22,john-xxiii,,Constitutio 'De Latinitatis Studio Provehendo',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1962-02-22,john-xxiii,,Veterum Sapientia,en es la,papalencyclicals.net documentacatholicaomnia.eu,,
-include,1962-03-16,cdf,curia,instructio de modo procedendi causis sollicitationis,la,vatican.va,,
+review,1962-03-16,cdf,curia,instructio de modo procedendi causis sollicitationis,la,vatican.va,,commentary on instructio
 review,1962-04-08,john-xxiii,letters,Quanti siete: paterno appello ai fedeli di Roma in vista del Concilio Ecumenico Vaticano II (8 aprile 1962),es it,vatican.va,,letter to a person or local church
 review,1962-04-15,john-xxiii,,Epistola 'Omnes Sane',pt,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1962-04-28,john-xxiii,apost_letters,Oecumenicum Concilium,la pt,veritatis.com.br documentacatholicaomnia.eu,,
@@ -2975,8 +2975,7 @@ review,1970-12-27,paul-vi,,Littera 'Anno Santo San Giacomo di Compostella',la,do
 review,1971-01-09,paul-vi,letters,"Letter to the Episcopate of the United States of America (January 9, 1971)",en,vatican.va,,letter to a person or local church
 include,1971-01-13,cdf,curia,Letter to Bishops and General Superiors regarding the reduction to the lay state,de en es fr it la pl pt,vatican.va,,
 include,1971-01-13,cdf,curia,Norms for preparing petitions in diocesan or clerical religious Curias for reducing priests to the lay state with a dispensation from all the obligations arising from Sacred Orders,de en es fr it la pl pt,vatican.va,,
-include,1971-01-15,cdf,curia,The Norms for doctrinal investigation – Ratio Agendi,de en es fr it la pl pt,vatican.va,,
-include,1971-01-15,curia-unknown,curia,Ratio agendi,pt,veritatis.com.br,,
+include,1971-01-15,cdf,curia,The Norms for doctrinal investigation – Ratio Agendi,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1971-01-30,paul-vi,,Epistola 'Magnificus Eventus Historia',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,1971-03-27,paul-vi,letters,"Con la premura: al Cardinale Eugenio Tisserant, in occasione della rinuncia al duplice incarico di Bibliotecario e Archivista della S. Romana Chiesa (27 marzo 1971)",it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1971-03-27,paul-vi,letters,Lettera al Magnifico Rettore dell'Università Cattolica del Sacro Cuore di Milano (27 marzo 1971),it,vatican.va,,letter to a person or local church
@@ -3009,8 +3008,7 @@ exclude,1972-02-13,paul-vi,,Homilia 'Presulibus Ad Sacrum Episcopatum Ordinem As
 exclude,1972-02-15,paul-vi,letters,"Letter on the hundredth anniversary of the Diocese of Ogdensburg (February 15, 1972)",en,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1972-02-16,paul-vi,,Epistola 'Incliti Caelitis Ecclesiaeque',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1972-02-18,paul-vi,letters,"Letter to the Archbishops and Bishops of Australia (February 18, 1972)",en,vatican.va,,letter to a person or local church
-include,1972-02-21,cdf,curia,Declaration for safeguarding the belief in the mysteries of the Incarnation and of the Most Holy Trinity against some recent errors – Mysterium Filii Dei,de en es fr it la pl pt,vatican.va,,
-include,1972-02-21,curia-unknown,curia,O mistério do Filho de Deus,pt,veritatis.com.br,,
+include,1972-02-21,cdf,curia,Declaration for safeguarding the belief in the mysteries of the Incarnation and of the Most Holy Trinity against some recent errors – Mysterium Filii Dei,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 exclude,1972-02-22,paul-vi,letters,"Letter to Cardinal John Krol, President of the Episcopal Conference of the United States of America, on the 150th anniversary of the «Pontifical Society for the Propagation of the Faith» (February 22, 1972)",en,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1972-03-17,paul-vi,letters,"Letter to Cardinal William Conway on the Feast of St Patrick, apostle of Ireland (March 17, 1972)",en,vatican.va,,letter to a person or local church
 review,1972-03-18,paul-vi,,Epistula 'Quaemadmodum Traditio',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3103,8 +3101,7 @@ review,1974-09-12,paul-vi,,Epistula 'Saltum Urbs',la,documentacatholicaomnia.eu,
 exclude,1974-09-27,paul-vi,,Homilia 'Domine Iesu. de Argumento Huius',la,documentacatholicaomnia.eu,,"the pope's private writing (sermons, commentaries, poems)"
 review,1974-10-05,paul-vi,,Epistula 'Lugduni in Urbe',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1974-10-07,paul-vi,,Epistula 'Vigente Adhuc',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1974-11-18,cdf,curia,Declaration on procured abortion – Quaestio de abortu,de en es fr it la pl pt,vatican.va,,
-include,1974-11-18,curia-unknown,curia,Quaestio de abortu,pt,veritatis.com.br,,
+include,1974-11-18,cdf,curia,Declaration on procured abortion – Quaestio de abortu,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1974-11-20,paul-vi,letters,Lettera Lumen Ecclesiae nel VII centenario della morte di San Tommaso d'Aquino (20 novembre 1974),es it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1974-12-05,paul-vi,apost_letters,Lumen ecclesiae,it la,vatican.va,,
 include,1974-12-07,cdf-pcb,curia,piano esame,it la,vatican.va,,
@@ -3144,8 +3141,7 @@ review,1975-11-10,paul-vi,letters,"Lettera a Monsignor Giuseppe Rovea, consulent
 review,1975-11-20,paul-vi,letters,"Letter to Doctor Philip Potter, General Secretariat of the World Council of Churches for the Assembly of Nairobi (November 20, 1975)",en,vatican.va,,letter to a person or local church
 include,1975-11-30,paul-vi,letters,Lettera all’Arcivescovo di Canterbury sulla questione dell’ordinazione sacerdotale delle donne nella comunione anglicana (30 novembre 1975),it,vatican.va,,letter to the whole Church or a state of life
 include,1975-12-08,paul-vi,apost_exhortations,"Evangelii Nuntiandi (December 8, 1975)",de en es fr hr hu it la lv pt,vatican.va papalencyclicals.net veritatis.com.br documentacatholicaomnia.eu,,
-include,1975-12-29,cdf,curia,Declaration on certain questions concerning sexual ethics – Persona humana,cs de en es fr it la pl pt,vatican.va,,
-include,1975-12-29,curia-unknown,curia,Persona humana,pt,veritatis.com.br,,
+include,1975-12-29,cdf,curia,Declaration on certain questions concerning sexual ethics – Persona humana,cs de en es fr it la pl pt,vatican.va veritatis.com.br,,
 include,1976,cdf-cti,curia,Human Development and Christian Salvation,de en es fr hu it ko la pl pt ru,vatican.va,,
 review,1976-01-04,paul-vi,,Epistula 'Vitae Sanctimonia',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1976-01-26,paul-vi,,Nuntius Gratulatorius 'Sergio Cardinali Pignedoli',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3157,8 +3153,7 @@ review,1976-05-14,paul-vi,,Nuntius Gratulatorius 'Ad Ioannem Cardinalem Colombo'
 exclude,1976-05-23,paul-vi,letters,"Lettera al Cardinale Antonio Poma, Arcivescovo di Bologna, per il V centenario della visita annuale della Madonna di San Luca (23 maggio 1976)",it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1976-05-24,paul-vi,,Nuntius Gratulatorius 'Ad Boleslanum Cardinalem Filipiak',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,1976-06-06,paul-vi,letters,Lettera ai vescovi degli Stati Uniti in occasione del bicentenario dell'indipendenza americana (6 giugno 1976),it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
-include,1976-06-11,cdf,curia,Decree regarding public celebration of Mass in the Catholic Church for other Christians who have died – Accidit in diversis,de en es fr it la pl pt,vatican.va,,
-include,1976-06-11,curia-unknown,curia,Accidit in diversis,pt,veritatis.com.br,,
+include,1976-06-11,cdf,curia,Decree regarding public celebration of Mass in the Catholic Church for other Christians who have died – Accidit in diversis,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1976-06-25,paul-vi,letters,"Letter to Baldwin I, King of Belgians (June 25, 1976)",en es fr,vatican.va,,letter to a person or local church
 review,1976-07-07,paul-vi,,Epistula 'Eventus Religiosus',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1976-07-13,paul-vi,,Nuntius Gratulatorius 'Ad Ferdinandum Iosephum Cardinalem Antonelli',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3169,11 +3164,10 @@ review,1976-08-18,paul-vi,,Epistula 'Volaterrana Ecclesia',la,documentacatholica
 exclude,1976-08-19,paul-vi,letters,Lettera al Presidente del Centro di Azione Liturgica in occasione della XXVII Settimana Liturgica Nazionale (19 agosto 1976),it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,1976-08-21,paul-vi,letters,"As the tenth anniversary - Letter to Dr. Frederick Donald Coggan, Archbishop of Canterbury  (March 23, 1976)",en it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1976-09-10,paul-vi,,Nuntius Gratulatorius 'Ad Valerianum Cardinalem Gracias',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1976-09-17,cdf,curia,Decree concerning certain unlawful priestly and episcopal ordinations,de en es fr it la pl pt,vatican.va,,
+include,1976-09-17,cdf,curia,Decree concerning certain unlawful priestly and episcopal ordinations,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1976-09-29,paul-vi,,Epistula 'Gaudio Spirituali',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1976-10-11,paul-vi,,Epistula 'Cum Te Die',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1976-10-15,cdf,curia,Declaration on the Question of Admission of Women to the Ministerial Priesthood  – Inter insigniores,de en es fr it la pl pt,vatican.va,,
-include,1976-10-15,curia-unknown,curia,Inter insigniores,pt,veritatis.com.br,,
+include,1976-10-15,cdf,curia,Declaration on the Question of Admission of Women to the Ministerial Priesthood  – Inter insigniores,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 include,1976-10-23,paul-vi,motu_proprio,Catholica ecclesia - Lettera Apostolica in forma di Motu Proprio sul riordinamento delle abbazie non dipendenti da alcuna diocesi (23 ottobre 1976),it la,vatican.va documentacatholicaomnia.eu,,
 review,1976-11-13,paul-vi,,Nuntius Gratulatorius 'Ad Leonem Stephanum Cardinalem Duval',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1976-12-10,paul-vi,motu_proprio,Apostolatus peragendi - Lettera Apostolica in forma di Motu Proprio con la quale il «Consilium De Laicis» viene ristrutturato e prende il nome di Pontificio Consiglio per i Laici (10 dicembre 1976),it la,vatican.va documentacatholicaomnia.eu,,
@@ -3188,8 +3182,7 @@ review,1977-01-22,paul-vi,,Epistula 'Episcopali Paternitate',la,documentacatholi
 review,1977-02-14,paul-vi,letters,"Lettera al Card. Agnelo Rossi, Prefetto della S. Congregazione per l'Evangelizzazione dei Popoli (14 febbraio 1977)",it,vatican.va,,letter to a person or local church
 review,1977-02-26,paul-vi,,Nuntius Gratulatorius 'Iosepho Mariae Cardinali Bueno',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1977-03-15,paul-vi,,Nuntius Gratulatorius 'Hermanno Cardinali Volk',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-review,1977-03-19,catholic-education,curia,"The Catholic School (March 19, 1977)",de en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
-include,1977-03-19,curia-unknown,curia,A escola católica,pt,veritatis.com.br,,
+include,1977-03-19,catholic-education,curia,"The Catholic School (March 19, 1977)",de en es fr it pt,vatican.va veritatis.com.br,,
 review,1977-04-03,paul-vi,,Nuntius Gratulatorius 'Mario Cardinali Nasalli Rocca',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1977-04-06,paul-vi,,Epistula 'Benevolas Has Litteras',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1977-04-24,paul-vi,,Epistula 'Mogantiagus Nobilis Civitas',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3212,7 +3205,7 @@ review,1978,john-paul-ii,,Orationes,de en es fr it la pt ru,documentacatholicaom
 include,1978-01-20,cdf,curia,A question about general absolution,de en es fr it pl,vatican.va,,
 exclude,1978-01-31,paul-vi,letters,"Letter on the occasion of the 14th World Congress of the International Federation of Catholic Medical Associations (January 25, 1978)",en es fr,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,1978-02-10,paul-vi,letters,"Letter on the occasion of the International Conference of Melbourne on the Regulation of Birth and on the Ovulation Method of Natural Family Planning (February 10, 1978)",en es fr,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
-include,1978-02-25,cdf,curia,Norms regarding the manner of proceedings in the discernment of presumed apparitions or revelations,de en es fr hu it la nl pl pt,vatican.va,,
+include,1978-02-25,cdf,curia,Norms regarding the manner of proceedings in the discernment of presumed apparitions or revelations,de en es fr hu it la nl pl pt,vatican.va veritatis.com.br,,
 review,1978-03-02,paul-vi,letters,"Letter to the Archbishop of Wellington (March 2, 1978)",en es fr,vatican.va,,letter to a person or local church
 review,1978-03-21,paul-vi,letters,"Lettera per la Giornata Universitaria dell'«Università Cattolica del Sacro Cuore» di Milano, firmata dal Cardinale Segretario di Stato (21 marzo 1978)",es fr it,vatican.va,,letter to a person or local church
 review,1978-04-10,paul-vi,,Nuntius Gratulatorius 'Alberto Cardinali Di Jorio',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3272,7 +3265,7 @@ review,1979-03-11,john-paul-ii,letters,"Letter to His Eminence Card. Sergio Guer
 review,1979-03-19,john-paul-ii,,Epistula 'Cum Superioris Mensis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-03-23,john-paul-ii,letters,"Letter to the Bishops of Latin America (March 23, 1979)",en es fr it pt,vatican.va,,letter to a person or local church
 review,1979-04-02,john-paul-ii,letters,"Letter to Cardinal John Carberry for the 50th Anniversary of his Priestly Ordination (April 2, 1979)",en it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1979-04-03,cdf,curia,"Declaration on the book by Fr. Jacques Pohier ""When I Say God""",de en es fr la pl pt,vatican.va,,
+include,1979-04-03,cdf,curia,"Declaration on the book by Fr. Jacques Pohier ""When I Say God""",de en es fr la pl pt,vatican.va veritatis.com.br,,
 review,1979-04-07,john-paul-ii,,Epistola 'Ad Universos Ecclesiae Sacerdotes',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-04-08,john-paul-ii,,Epistula 'Magnus Dies',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,1979-04-09,john-paul-ii,letters,"Letter to Priests for Holy Thursday (April 8, 1979)",en es fr it la pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -3291,8 +3284,7 @@ exclude,1979-05-12,john-paul-ii,letters,"Letter for the first centenary of Saint
 exclude,1979-05-14,john-paul-ii,letters,"Letter to H. E. Msgr. George Patrick Dwyer, Archbishop of Birmingham, for the first centenary of the elevation to the Cardinalate of John Henry Newman (April 7, 1979)",en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,1979-05-14,john-paul-ii,letters,"Letter to the Bishop of Leiria on the occasion of the pilgrimage to the Shrine of Fatima (April 28, 1979)",en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1979-05-16,john-paul-ii,,Littera 'Qui a Pueris',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1979-05-17,cdf,curia,Letter on certain questions regarding Eschatology – Recentiores episcoporum Synodi,de en es fr it pl pt,vatican.va,,
-include,1979-05-17,curia-unknown,curia,Recentiores episcoporum,pt,veritatis.com.br,,
+include,1979-05-17,cdf,curia,Letter on certain questions regarding Eschatology – Recentiores episcoporum Synodi,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1979-05-29,john-paul-ii,,Littera 'Die Undetricesimo',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-05-30,john-paul-ii,letters,"Letter to Cardinal Thomas Cooray on the 50th anniversary of priestly ordination (May 30, 1979)",en it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-05-31,john-paul-ii,letters,"Letter to Cardinal Paolo Bertoli (May 30, 1979)",en es fr it la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
@@ -3303,7 +3295,7 @@ review,1979-06-21,john-paul-ii,,Allocutio 'Libenti Animo',la,documentacatholicao
 review,1979-06-25,john-paul-ii,,Littera 'Qui Divino',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-06-30,john-paul-ii,,Consistorium 'Vehementi Perfundimur',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-07-01,john-paul-ii,,Nuntius 'Aestimatio Simul Indolis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1979-07-13,cdf,curia,"Observations about the book «“Human Sexuality”. A study commissioned by the Catholic Theological Society of America, Rev. Anthony Kosnik editor»",de en es fr it pl pt,vatican.va,,
+include,1979-07-13,cdf,curia,"Observations about the book «“Human Sexuality”. A study commissioned by the Catholic Theological Society of America, Rev. Anthony Kosnik editor»",de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1979-07-15,john-paul-ii,,Nuntius Gratulatorius 'Tametsi Nobis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-07-18,john-paul-ii,,Littera 'Abunde Constat',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-07-27,john-paul-ii,,Littera 'Quae Sive',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3333,7 +3325,7 @@ review,1979-11-26,john-paul-ii,,Allocutio 'Iucunda Nobis',la,documentacatholicao
 review,1979-11-28,john-paul-ii,,Littera 'Viget Memoria',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1979-12-12,john-paul-ii,letters,"Lettera al Cardinale Giuseppe Maria Sensi, per il 50° anniversario di sacerdozio (12 dicembre 1979)",it la pt,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1979-12-13,cdf,curia,schillebeeckx,fr,vatican.va,,
-include,1979-12-15,cdf,curia,Declaration regarding certain aspects of the theological doctrine of Professor Hans Küng – Christi Ecclesia,de en es fr it la pl pt,vatican.va,,
+include,1979-12-15,cdf,curia,Declaration regarding certain aspects of the theological doctrine of Professor Hans Küng – Christi Ecclesia,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1980,john-paul-ii,,Catechesi Su 'Beati I Puri di Cuore',it,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1980-01-02,john-paul-ii,apost_letters,Patres Ecclesiae (2 gennaio 1980),de es fr it la pt,vatican.va documentacatholicaomnia.eu,,
 review,1980-01-05,john-paul-ii,,Littera 'In Antiquo',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3351,8 +3343,7 @@ review,1980-03-18,john-paul-ii,,Littera 'Cum Beatam',la,documentacatholicaomnia.
 exclude,1980-03-19,john-paul-ii,letters,Lettera all'Abate di Montecassino nel XV centenario della nascita di San Benedetto (19 marzo 1980),de es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1980-03-22,john-paul-ii,,Littera 'Beatam Mariam',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1980-03-24,john-paul-ii,letters,Lettera a Monsignor Angelo Acerbi (24 marzo 1980),de es it la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
-review,1980-03-25,clergy,curia,postquam apostoli,es it pt,vatican.va,,dicastery document outside doctrine/worship
-include,1980-03-25,curia-unknown,curia,Postquam Apostoli,pt,veritatis.com.br,,
+include,1980-03-25,clergy,curia,postquam apostoli,es it pt,vatican.va veritatis.com.br,,
 review,1980-03-27,john-paul-ii,,Allocutio ' En Feliciter',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1980-03-28,john-paul-ii,letters,"Lettera a Antoine Pierre Khoraiche, Patriarca di Antiochia (28 marzo 1980)",es fr it pt,vatican.va,,letter to a person or local church
 review,1980-04-06,john-paul-ii,letters,Lettera alla Chiesa Ungherese (6 aprile 1980),es it pt,vatican.va,,letter to a person or local church
@@ -3365,8 +3356,7 @@ review,1980-04-25,john-paul-ii,,Littera 'Beatam ac Semper',la,documentacatholica
 review,1980-04-28,john-paul-ii,,Littera 'Honorari et Praedicari',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1980-04-29,john-paul-ii,apost_letters,Amantissima Providentia (29 aprile 1980),es it la pt,vatican.va documentacatholicaomnia.eu,,
 review,1980-04-30,john-paul-ii,,Littera 'Amor Noster',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1980-05-05,cdf,curia,Declaration on Euthanasia,de en es fr it la pl pt,vatican.va,,
-include,1980-05-05,curia-unknown,curia,Iura et bona,pt,veritatis.com.br,,
+include,1980-05-05,cdf,curia,Declaration on Euthanasia,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1980-05-13,john-paul-ii,letters,Lettera ai Fratelli delle Scuole Cristiane (13 maggio 1980),es fr it pt,vatican.va,,letter to a person or local church
 review,1980-05-15,john-paul-ii,letters,Lettera alla Conferenza Episcopale Tedesca (15 maggio 1980),de es fr it pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,1980-05-22,john-paul-ii,letters,Lettera al custode della Basilica di S. Francesco in Assisi (22 maggio 1980),es it pt,vatican.va,,letter to a person or local church
@@ -3399,15 +3389,14 @@ review,1980-09-26,john-paul-ii,,Homilia 'Expedit. Ut Laborum',la,documentacathol
 exclude,1980-10-13,john-paul-ii,,Oratio 'Vos. Qui in Helvetia',la,documentacatholicaomnia.eu,,"the pope's private writing (sermons, commentaries, poems)"
 include,1980-10-14,cdf,curia,Letter to all local Ordinaries and General Moderators of clerical religious communities regarding the dispensation of priests from celibacy,de en es fr it la pl pt,vatican.va,,
 include,1980-10-14,cdf,curia,Procedural Norms regarding the dispensation of priests from celibacy,en es it la pl pt,vatican.va,,
-include,1980-10-20,cdf,curia,Instruction on Infant Baptism – Pastoralis actio,de en es fr it la pl pt,vatican.va,,
-include,1980-10-20,curia-unknown,curia,Pastoralis actio,pt,veritatis.com.br,,
+include,1980-10-20,cdf,curia,Instruction on Infant Baptism – Pastoralis actio,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1980-10-22,john-paul-ii,letters,Lettera al Cardinale Parente nel XXV di episcopato (22 ottobre 1980),it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,1980-10-25,john-paul-ii,,Allocutio 'Audivimus Modo',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1980-10-26,john-paul-ii,,Littera 'Esurivi Enim',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1980-11-06,john-paul-ii,,Littera 'Beatam Virginem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1980-11-12,john-paul-ii,,Littera 'Qui Summi Dei',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1980-11-13,john-paul-ii,,Littera 'Cultus S. Ioannis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1980-11-20,cdf,curia,Letter to Rev. Fr. Edward Schillebeeckx regarding his Christological positions,de en es fr it pl pt,vatican.va,,
+include,1980-11-20,cdf,curia,Letter to Rev. Fr. Edward Schillebeeckx regarding his Christological positions,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1980-11-25,john-paul-ii,,Littera 'Martyres Id Est',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1980-11-30,john-paul-ii,encyclicals,Dives in Misericordia (30 November 1980),ar de en es fr it la pl pt sk,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,1980-12-01,john-paul-ii,letters,"Letter to the the Bishops of the Malankara Catholic Church (December 1, 1980)",en es it la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
@@ -3420,10 +3409,10 @@ review,1981-01-06,john-paul-ii,letters,Lettera al Card. Narciso Jubany Arnau per
 review,1981-01-14,john-paul-ii,,Littera 'Ut Est Consuetudo',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1981-01-21,john-paul-ii,,Littera 'Cum Ducentesimus',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1981-02-02,john-paul-ii,letters,Lettera ai Vescovi dei Paesi Bassi (2 febbraio 1981),es it pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
-include,1981-02-03,cdf-cti,curia,cristologia comunicato radio vaticana,es it,vatican.va,,
+review,1981-02-03,cdf-cti,curia,cristologia comunicato radio vaticana,es it,vatican.va,,commentary on cristologia
 review,1981-02-06,john-paul-ii,,Discorso Convegno Missioni al Popolo per gli Anni 80,it,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1981-02-11,john-paul-ii,,Littera 'Quandoquidem Sancta',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1981-02-17,cdf,curia,Declaration concerning status of Catholics becoming freemasons,de en es fr it la pl pt sk,vatican.va,,
+include,1981-02-17,cdf,curia,Declaration concerning status of Catholics becoming freemasons,de en es fr it la pl pt sk,vatican.va veritatis.com.br,,
 review,1981-02-18,john-paul-ii,,Littera 'Quandoquidem Usu',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1981-03-10,john-paul-ii,,Littera 'Bernardinopolitanae Dioecesis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1981-03-16,john-paul-ii,,Littera 'Pluribus Iam',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3547,8 +3536,7 @@ review,1982-09-30,john-paul-ii,,Epistula 'Solemnitatem Omnium',la,documentacatho
 review,1982-10-03,john-paul-ii,,Littera 'Omnis Qui Confitebitur',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1982-10-04,john-paul-ii,,Epistula 'Gaudio Quo',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1982-10-07,john-paul-ii,apost_constitutions,Magnum Matrimonii Sacramentum (7 ottobre 1982),es it la pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
-review,1982-10-15,catholic-education,curia,"Lay Catholics in schools: Witnesses to faith (October 15, 1982)",en es it pt,vatican.va,,dicastery document outside doctrine/worship
-include,1982-10-15,curia-unknown,curia,O leigo católico: testemunha da fé na escola,pt,veritatis.com.br,,
+include,1982-10-15,catholic-education,curia,"Lay Catholics in schools: Witnesses to faith (October 15, 1982)",en es it pt,vatican.va veritatis.com.br,,
 review,1982-10-16,john-paul-ii,letters,"Letter to the participants in the Third Plenary Assembly of the Federation of Asian Bishops’ Conferences (October 16, 1982)",en it pt,vatican.va,,letter to a person or local church
 review,1982-10-17,john-paul-ii,letters,Lettera al Card. Macharski (17 ottobre 1982),it pt,vatican.va,,letter to a person or local church
 review,1982-10-22,john-paul-ii,letters,Lettera al Card. Knox (22 ottobre 1982),it la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
@@ -3587,8 +3575,7 @@ review,1983-02-24,john-paul-ii,letters,"Lettera a Monsignor Luigi Novarese, Dire
 review,1983-03-01,john-paul-ii,,Epistula 'Quoniam Quinquagesimus',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-03-04,john-paul-ii,,Littera 'Singulari Veneratione',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-03-09,john-paul-ii,,Littera 'Patet Ecclesiam',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1983-03-12,cdf,curia,Notification regarding the canonical penalties incurred by His Excellency Mons. Pierre Martin Ngô-dinh-Thuc and other completely illicit ordinations,de en es fr it la pl pt,vatican.va,,
-include,1983-03-12,curia-unknown,curia,Notificação com a qual declaram-se novamente as penas canônicas incursas ao Arcebispo Pierre Martin Ngô-Di’h-Thuc e seus cúmplices,pt,veritatis.com.br,,
+include,1983-03-12,cdf,curia,Notification regarding the canonical penalties incurred by His Excellency Mons. Pierre Martin Ngô-dinh-Thuc and other completely illicit ordinations,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1983-03-14,john-paul-ii,,Epistula 'Idem Ipse',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-03-18,john-paul-ii,,Littera 'Merito Celebratur',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-03-21,john-paul-ii,letters,"Lettera a Monsignor Enrico Manfredini, Vescovo di Piacenza (21 marzo 1983)",it pt,vatican.va,,letter to a person or local church
@@ -3608,15 +3595,14 @@ exclude,1983-05-05,john-paul-ii,letters,"Lettera al Cardinale Agostino Casaroli,
 review,1983-05-09,john-paul-ii,letters,"Lettera a Monsignor Paulino Livramento Evora, Vescovo di Santiago de Cabo Verde (9 maggio 1983)",it pt,vatican.va,,letter to a person or local church
 review,1983-05-10,john-paul-ii,,Littera 'Sanctum Turibium',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-05-11,john-paul-ii,,Epistula 'Mediolanensis Civitas',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1983-05-13,cdf,curia,Notification regarding Rev. Georges de Nantes,de en es fr it pl pt,vatican.va,,
+include,1983-05-13,cdf,curia,Notification regarding Rev. Georges de Nantes,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1983-05-14,john-paul-ii,letters,Lettera all'Arcivescovo Monsignor Oscar Saier in occasione del Congresso Catechetico di Friburgo (14 maggio 1983),de it la pt,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-05-15,john-paul-ii,,Littera 'Maiorem Hac Dilectionem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-05-25,john-paul-ii,letters,"Letter to the Secretary General of the United Nations Conference on Trade and Development (UNCTAD) (May 25, 1983)",en es fr it pt,vatican.va,,letter to a person or local church
 review,1983-06-22,john-paul-ii,,Littera 'Id Habet Ecclesia',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-06-23,john-paul-ii,,Littera 'Estote Misericordes',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-06-30,john-paul-ii,,Epistula 'Muneribus Officiisque',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1983-07-07,cdf,curia,Replies to questions on the interpretation of the decree Ecclesiae Pastorum,de en es fr it pl pt,vatican.va,,
-include,1983-07-07,curia-unknown,curia,Resposta e quesitos acerca da interpretação do decreto ‘Ecclesiae Pastorum',pt,veritatis.com.br,,
+include,1983-07-07,cdf,curia,Replies to questions on the interpretation of the decree Ecclesiae Pastorum,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1983-07-11,john-paul-ii,,Littera 'Quantae Utilitati',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-07-12,john-paul-ii,letters,"Letter to the General Secretary of the World Council of Churches (July 12, 1983)",en it pt,vatican.va,,letter to a person or local church
 review,1983-07-21,john-paul-ii,letters,Lettera al Cardinale Roger Etchegaray in occasione del centenario dell'evangelizzazione del Congo (21 luglio 1983),it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3647,8 +3633,7 @@ include,1983-11-01,curia-unknown,curia,Orientações educativas sobre o amor hum
 review,1983-11-13,john-paul-ii,,Littera 'Confiteor Tibi',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-11-22,john-paul-ii,letters,"Messaggio a Sua Santità Dimitrios I, Arcivescovo di Costantinopoli (22 novembre 1983)",fr it pt,vatican.va,,letter to a person or local church
 review,1983-11-24,john-paul-ii,letters,"Letter to Card. Opilio Rossi, President of the Pontifical Council for the Laity (November 24, 1983)",en it la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
-include,1983-11-26,cdf,curia,Declaration on Masonic Associations,de en es fr it la pl pt,vatican.va,,
-include,1983-11-26,curia-unknown,curia,De associationibus massonicis,pt,veritatis.com.br,,
+include,1983-11-26,cdf,curia,Declaration on Masonic Associations,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1983-11-26,john-paul-ii,,Congregatio 'Quaesitum Est An',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-11-28,john-paul-ii,,Littera 'Crotona Urbem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1983-11-30,john-paul-ii,,Epistula 'Die XV Mensis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3739,12 +3724,11 @@ review,1985-02-01,john-paul-ii,,Littera 'Quamdiu Fecistis',la,documentacatholica
 review,1985-02-02,john-paul-ii,,Littera 'Exoptatus Quidem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1985-02-11,john-paul-ii,motu_proprio,"Dolentium Hominum (February 11, 1985)",en es fr it la,vatican.va documentacatholicaomnia.eu,,
 review,1985-02-13,john-paul-ii,,Littera 'Ex Historia',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1985-02-23,cdf,curia,Irreconcilability between Christian Faith and Freemasonry - Reflections a Year After Declaration of Congregation for the Doctrine of the Faith,de en es fr it pt sk,vatican.va,,
+review,1985-02-23,cdf,curia,Irreconcilability between Christian Faith and Freemasonry - Reflections a Year After Declaration of Congregation for the Doctrine of the Faith,de en es fr it pt sk,vatican.va,,commentary on declaration-masonic
 review,1985-02-23,unattributed,,Irreconciabilidade entre a fé cristã e a maçonaria,pt,veritatis.com.br,,no author in title; check
 review,1985-02-27,john-paul-ii,,Littera 'Documentis Quidem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1985-03-02,john-paul-ii,letters,Messaggio ai Patriarchi e ai responsabili delle Chiese del Medio Oriente (2 marzo 1985),fr it,vatican.va,,letter to a person or local church
-include,1985-03-11,cdf,curia,"Notification on the Book ""Church: Charism and Power. Essay on Militant Ecclesiology"" by Father Leonardo Boff, O.F.M.",de en es fr it pl pt,vatican.va,,
-include,1985-03-11,curia-unknown,curia,Inconciabilidade entre Fé Cristã e maçonaria,pt,veritatis.com.br,,
+include,1985-03-11,cdf,curia,"Notification on the Book ""Church: Charism and Power. Essay on Militant Ecclesiology"" by Father Leonardo Boff, O.F.M.",de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1985-03-19,catholic-education,curia,ratio fundamentalis,it,vatican.va,,dicastery document outside doctrine/worship
 review,1985-03-19,john-paul-ii,,Convenistis Dilecti,la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1985-03-21,john-paul-ii,,Littera 'Iure Celebratur',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3821,7 +3805,7 @@ review,1986-02-08,john-paul-ii,,Littera 'Si Quis Vult',la,documentacatholicaomni
 review,1986-02-17,john-paul-ii,,Littera 'Cum Fuerit',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,1986-02-24,john-paul-ii,,Oratio 'Occasione Oblata Concilii',la,documentacatholicaomnia.eu,,"the pope's private writing (sermons, commentaries, poems)"
 review,1986-03-16,john-paul-ii,letters,Lettera ai Sacerdoti in occasione del Giovedì Santo (16 marzo 1986),es fr it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1986-03-22,cdf,curia,Instruction on Christian freedom and liberation – Libertatis conscientia,de en es fr it la pl pt,vatican.va,,
+include,1986-03-22,cdf,curia,Instruction on Christian freedom and liberation – Libertatis conscientia,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1986-03-23,john-paul-ii,,Epistola 'Ad Ecclesiae Sacerdotes',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1986-04-03,john-paul-ii,,Littera 'Angelorum Regina',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1986-04-09,john-paul-ii,letters,Lettera alla Conferenza Episcopale Brasiliana (9 aprile 1986),it pt,vatican.va veritatis.com.br,,
@@ -3839,19 +3823,18 @@ review,1986-06-21,john-paul-ii,,Littera 'Maximam de Universa',la,documentacathol
 review,1986-06-28,john-paul-ii,letters,"Letter to the Bishops of the Philippines (June 28, 1986)",en it,vatican.va,,letter to a person or local church
 review,1986-06-29,john-paul-ii,letters,"Lettera al Senatore Nicola Signorello, Sindaco di Roma, nella Solennità dei Santi Apostoli Pietro e Paolo (29 giugno 1986)",it,vatican.va,,letter to a person or local church
 review,1986-07-12,john-paul-ii,,Littera 'Quoniam Inter',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1986-07-17,cdf-cti,curia,comunicato coscienza gesu,es it,vatican.va,,
-include,1986-07-25,cdf,curia,Letter regarding the suspension of Father Carlo Curran from the teaching of Theology,de en es fr it pl pt,vatican.va,,
+review,1986-07-17,cdf-cti,curia,comunicato coscienza gesu,es it,vatican.va,,commentary on comunicato
+include,1986-07-25,cdf,curia,Letter regarding the suspension of Father Carlo Curran from the teaching of Theology,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1986-08-05,john-paul-ii,,Littera 'Veri Catholici',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1986-08-06,john-paul-ii,letters,"Lettera al Cardinale Julijans Vaivods, Amministratore Apostolico di Riga e di Liepaja (6 agosto 1986)",it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,1986-08-20,john-paul-ii,,Littera 'Quanta Animi',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1986-08-26,john-paul-ii,apost_letters,"Augustinum Hipponensem (August 28, 1986)",en es it la,vatican.va documentacatholicaomnia.eu,,
 review,1986-08-28,john-paul-ii,,Agustinum Hipponensem,es,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1986-09-01,cdf,curia,Letter to György Bulányi on certain writings attributed to him,de en es hu it,vatican.va,,
-include,1986-09-15,cdf,curia,"Notification on the book Pleidooi voor mensen in de kerk. Christelijke identiteit en ambten in de kerk (Nelissen, Baarn 1985) by Professor Edward Schillebeeckx, O.P.",de en es fr it pl pt,vatican.va,,
+include,1986-09-15,cdf,curia,"Notification on the book Pleidooi voor mensen in de kerk. Christelijke identiteit en ambten in de kerk (Nelissen, Baarn 1985) by Professor Edward Schillebeeckx, O.P.",de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1986-09-16,john-paul-ii,,Littera 'Cum Nos Sollicito',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1986-09-29,john-paul-ii,,Littera 'Cum de Dei Gloria',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1986-10-01,cdf,curia,Letter to the Bishops of the Catholic Church on the Pastoral Care of Homosexual Persons,de en es fr it la pl pt,vatican.va,,
-include,1986-10-01,curia-unknown,curia,Homosexualitatis problema,pt,veritatis.com.br,,
+include,1986-10-01,cdf,curia,Letter to the Bishops of the Catholic Church on the Pastoral Care of Homosexual Persons,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1986-10-05,john-paul-ii,letters,"Lettera al Preposito Generale della Compagnia di Gesù (Paray le Monial, 5 ottobre 1986)",es fr it,vatican.va,,letter to a person or local church
 review,1986-10-12,john-paul-ii,,Littera 'Labia Sacerdotalis Custodiunt',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1986-10-19,john-paul-ii,,Littera 'Si Fuerit',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -3952,8 +3935,7 @@ review,1988-03-22,john-paul-ii,,Littera 'Populum Quidem',la,documentacatholicaom
 review,1988-03-25,catholic-education,curia,vergine maria,es it pt,vatican.va,,dicastery document outside doctrine/worship
 include,1988-03-25,curia-unknown,curia,A Virgem Maria na formação intelectual e espiritual,pt,veritatis.com.br,,
 review,1988-03-25,john-paul-ii,letters,"Letter to Priests on occasion of Holy Thursday (March 25, 1988)",en es fr it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-review,1988-04-07,catholic-education,curia,"The Religious Dimension of Education in a Catholic School (April 7, 1988)",en es it pt,vatican.va,,dicastery document outside doctrine/worship
-include,1988-04-07,curia-unknown,curia,A dimensão religiosa da educação na escola católica: orientações para a reflexão e revisão,pt,veritatis.com.br,,
+include,1988-04-07,catholic-education,curia,"The Religious Dimension of Education in a Catholic School (April 7, 1988)",en es it pt,vatican.va veritatis.com.br,,
 review,1988-04-08,john-paul-ii,letters,"Lettera al Cardinale Joseph Ratzinger, Prefetto della Congregazione per la Dottrina della Fede (8 aprile 1988)",it,vatican.va,,letter to a person or local church
 include,1988-04-11,cdf-pcb,curia,unita diversita,fr it,vatican.va,,
 exclude,1988-04-12,john-paul-ii,letters,"Lettera firmata dal Cardinale Agostino Casaroli, Segretario di Stato, in occasione della «Giornata universitaria» (12 aprile 1988)",it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -3986,7 +3968,7 @@ include,1988-06-28,john-paul-ii,motu_proprio,Iusti Iudicis (28 giugno 1988),it l
 exclude,1988-06-28,john-paul-ii,,Oratio 'Ad Novos Creandos Sodales',la,documentacatholicaomnia.eu,,"the pope's private writing (sermons, commentaries, poems)"
 include,1988-06-28,john-paul-ii,apost_constitutions,"Pastor Bonus (June 28, 1988)",de en es it la pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 include,1988-07-01,cdf,curia,Formula to be used for the profession of faith and for the oath of fidelity to assume an office to be exercised in the name of the Church,de en es fr it pl,vatican.va,,
-include,1988-07-01,cdf,curia,professio fidei cons dott,it,vatican.va,,
+review,1988-07-01,cdf,curia,professio fidei cons dott,it,vatican.va,,commentary on professio-fidei
 include,1988-07-02,john-paul-ii,motu_proprio,"Ecclesia Dei (July 2, 1988)",de en es fr it la pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,1988-07-03,john-paul-ii,,Littera 'Instituta Religiosa',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1988-07-12,john-paul-ii,letters,"Letter to His Grace, the Most Reverend Dr. Robert Runcie, Archbishop of Canterbury (July 12, 1988)",en it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
@@ -4004,8 +3986,7 @@ review,1988-09-05,john-paul-ii,letters,"Lettera al Cardinale Myroslav Ivan Lubac
 exclude,1988-09-08,john-paul-ii,letters,Lettera ai Ministri Generali delle Famiglie Francescane nel IV centenario della proclamazione di San Bonaventura a Dottore della Chiesa (8 settembre 1988),it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1988-09-15,john-paul-ii,,Littera 'Tu Vero Vigila',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1988-09-20,john-paul-ii,letters,"Messaggio a Sua Beatitudine Nasrallah Pierre Sfeir, Patriarca di Antiochia dei Maroniti (20 settembre 1988)",fr it,vatican.va,,letter to a person or local church
-include,1988-09-23,cdf,curia,"Decree regarding the excommunication of those who divulge confessions ( Decretum de sacramenti Paenitentiae dignitate tuenda ), September 23, 1988",de en es fr it la pl pt,vatican.va,,
-include,1988-09-23,curia-unknown,curia,Decreto acerca da excomunhão daquele que divulga as confissões,pt,veritatis.com.br,,
+review,1988-09-23,cdf,curia,"Decree regarding the excommunication of those who divulge confessions ( Decretum de sacramenti Paenitentiae dignitate tuenda ), September 23, 1988",de en es fr it la pl pt,vatican.va veritatis.com.br,,commentary on scomunica
 review,1988-09-25,john-paul-ii,,Littera 'Convocatis Autem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1988-09-26,john-paul-ii,,Allocutio 'Quam Bonum',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1988-09-30,cdf,curia,ratzinger mulieris,es,vatican.va,,
@@ -4081,7 +4062,7 @@ include,1989-09-07,john-paul-ii,apost_letters,Lettera Apostolica sulla Situazion
 include,1989-09-07,john-paul-ii,apost_letters,Messaggio ai Vescovi sulla situazione civile e politica del Libano (7 settembre 1989),fr it,vatican.va,,
 review,1989-09-07,john-paul-ii,,Situacion En El Libano,es,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1989-09-14,john-paul-ii,letters,"Lettera al Cardinale Bernardin Gantin, Presidente della Pontificia Commissione per l’America Latina, per l'inaugurazione della nuova sede del CELAM (14 settembre 1989)",es it,vatican.va,,letter to a person or local church
-include,1989-09-19,cdf,curia,professio fidei rescriptum,it,vatican.va,,
+review,1989-09-19,cdf,curia,professio fidei rescriptum,it,vatican.va,,commentary on professio-fidei
 review,1989-09-27,john-paul-ii,,Littera 'Magna Quidem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1989-10-01,john-paul-ii,apost_letters,Lettera Apostolica per il Centenario dell'Opera di San Pietro Apostolo (1° ottobre 1989),es fr it la,vatican.va documentacatholicaomnia.eu,,
 include,1989-10-04,curia-unknown,curia,Critérios de colaboração ecumênica e interreligiosa nas comunicações sociais,pt,veritatis.com.br,,
@@ -4125,7 +4106,7 @@ review,1990-04-29,john-paul-ii,,Littera 'Afflictus Est',la,documentacatholicaomn
 review,1990-05-03,john-paul-ii,letters,Lettera al Cardinale Simon Lourdusamy (3 maggio 1990),it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,1990-05-06,john-paul-ii,,Littera 'Exaltavit Humiles',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1990-05-20,john-paul-ii,letters,Lettera al Cardinale Paul Poupard (20 maggio 1990),it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
-include,1990-05-24,cdf,curia,Instruction on the ecclesial vocation of the theologian – Donum veritatis,de en es fr it pl pt,vatican.va,,
+include,1990-05-24,cdf,curia,Instruction on the ecclesial vocation of the theologian – Donum veritatis,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,1990-06-01,john-paul-ii,letters,Lettera al Preposito Generale della Compagnia di Gesù (1° giugno 1990),it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,1990-06-18,john-paul-ii,letters,"Letter to the Archbishop of Birmingham on the first Centenary of the death of John Henry Newman (June 18, 1990)",en it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1990-06-19,john-paul-ii,,Littera 'Neminem Profecto',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4154,6 +4135,7 @@ review,1990-10-25,john-paul-ii,,Allocutio 'Memori Animo',la,documentacatholicaom
 review,1990-10-27,john-paul-ii,,Allocutio 'Laetus Vobiscum',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1990-11-04,john-paul-ii,letters,Lettera al Cardinale Angelo Suquía Goicoechea nel IV centenario della morte di San Giovanni della Croce (4 novembre 1990),it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1990-11-21,john-paul-ii,letters,Lettera al Cardinale Edmund Casimir Szoka in occasione del Congresso Catechistico Nazionale filippino (21 novembre 1990),it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
+include,1990-11-23,curia-unknown,curia,Carta aos Sacerdotes por ocasião do Ano Sacerdotal,pt,veritatis.com.br,,
 include,1990-11-25,cdf,curia,Letter to the Presidents of Episcopal Conferences regarding Doctrinal Commissions,de en es fr it la pt,vatican.va,,
 review,1990-11-26,john-paul-ii,,Allocutio 'Laudibus Rite',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,1990-12-01,john-paul-ii,letters,Lettera a Mons. Angelo Sodano in occasione della sua nomina a Pro-Segretario di Stato (1° dicembre 1990),it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -4177,6 +4159,7 @@ review,1991-01-25,john-paul-ii,letters,"Lettera al Cardinale Jozef Tomko, inviat
 review,1991-02-08,john-paul-ii,,Littera 'Antiqua Nobilisque',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1991-02-09,john-paul-ii,,Littera 'Ad Utilitatem Sane',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1991-02-22,unattributed,,Mos iugiter,pt,veritatis.com.br,,no author in title; check
+include,1991-03-08,curia-unknown,curia,Notificação sobre a validade do batismo conferido pela ‘Comunidade Cristã’ ou ‘Die Christengemeinschaft',pt,veritatis.com.br,,
 include,1991-03-09,cdf,curia,Notification regarding the validity of the Baptism conferred by the “Christian Community” or “Die Christengemeinschaft” of Rudolf Steiner,de en es it la pl pt,vatican.va,,
 exclude,1991-03-10,john-paul-ii,letters,Lettera ai sacerdoti in occasione del Giovedì Santo (10 marzo 1991),es fr it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1991-03-21,john-paul-ii,letters,Message to His Excellency Mr Javier Pérez de Cuellar Secretary General of the United Nations (21 March 1991),en es fr it,vatican.va,,letter to a person or local church
@@ -4187,8 +4170,7 @@ review,1991-05-04,john-paul-ii,letters,Lettera al Capitolo Generale dell'ordine 
 review,1991-05-08,john-paul-ii,,Littera 'Philippinis In Insulis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1991-05-13,john-paul-ii,letters,Lettera inviata da Fatima ai Vescovi dell'Europa (13 maggio 1991),it,vatican.va,,letter to a person or local church
 review,1991-05-13,john-paul-ii,letters,Viaggio Apostolico in Portogallo: Lettera ai Vescovi dell'Europa (13 maggio 1991),it,vatican.va,,letter to a person or local church
-include,1991-05-19,curia-unknown,curia,Diálogo e Anúncio,pt,veritatis.com.br,,
-include,1991-05-19,john-paul-ii,letters,Lettera a tutti i Vescovi della Chiesa sulla intangibilità della vita umana (19 maggio 1991),es it,vatican.va,,letter to the whole Church or a state of life
+include,1991-05-19,john-paul-ii,letters,Lettera a tutti i Vescovi della Chiesa sulla intangibilità della vita umana (19 maggio 1991),es it pt,vatican.va veritatis.com.br,,letter to the whole Church or a state of life
 review,1991-05-27,john-paul-ii,,Littera 'Minime Quidem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1991-05-28,john-paul-ii,,Littera 'Istam In Regionem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1991-05-30,john-paul-ii,letters,"Lettera al Cardinale Marcelo Gonzáles Martín, in occasione del 50° anniversario di sacerdozio (30 maggio 1991)",it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4228,8 +4210,7 @@ review,1991-12-21,john-paul-ii,,Littera 'Uritanum Templum',la,documentacatholica
 review,1992-01-01,health-care,curia,The Healthcare Ministry and the Priesthood of John Paul II (1992),en es fr it,vatican.va,,dicastery document outside doctrine/worship
 review,1992-01-03,john-paul-ii,,Littera 'Christum Crucifixum',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1992-01-29,john-paul-ii,letters,To Mr. K.K.S. Dadzie Secretary-General of the United Nations Conference on Trade and Development (29 January 1992),en es fr it,vatican.va,,letter to a person or local church
-include,1992-01-31,cdf,curia,"Note on the book The Sexual Creators, An Ethical proposal for Concerned Christians (University Press of America, Lanham-New York-London 1986) by Fr. André Guindon, O.M.I.",de en es fr it pl pt,vatican.va,,
-include,1992-01-31,curia-unknown,curia,"Nota sobre o livro ‘The sexual creators’, do Pe. André Guidon",pt,veritatis.com.br,,
+include,1992-01-31,cdf,curia,"Note on the book The Sexual Creators, An Ethical proposal for Concerned Christians (University Press of America, Lanham-New York-London 1986) by Fr. André Guindon, O.M.I.",de en es fr it pl pt,vatican.va veritatis.com.br,,
 exclude,1992-02-13,john-paul-ii,letters,"Chirograph for the institution of the Populorum progressio Foundation (February 13, 1992)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,1992-02-22,curia-unknown,curia,Aetatis novae,pt,veritatis.com.br,,
 review,1992-02-29,john-paul-ii,,Epistula 'Cum Constet',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4239,7 +4220,7 @@ include,1992-03-25,john-paul-ii,apost_letters,Lettera Apostolica in occasione de
 include,1992-03-25,john-paul-ii,apost_exhortations,"Pastores Dabo Vobis (March 15, 1992)",de en es fr hu it la pl pt zh,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,1992-03-26,john-paul-ii,,Littera 'Suo Iam Pridem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1992-03-29,john-paul-ii,letters,Letter to Priests 1992,en es fr it la pt,vatican.va documentacatholicaomnia.eu,,letter to the whole Church or a state of life
-include,1992-03-30,cdf,curia,Instruction on some aspects of the use of the instruments of social communication in promoting the doctrine of the faith – The Second Vatican Council,de en es fr it pl pt,vatican.va,,
+review,1992-03-30,cdf,curia,Instruction on some aspects of the use of the instruments of social communication in promoting the doctrine of the faith – The Second Vatican Council,de en es fr it pl pt,vatican.va,,commentary on istruzione
 review,1992-03-30,john-paul-ii,,Littera 'Observatur Saepe',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1992-04-05,john-paul-ii,,Epistula 'Multitudo Ipsa',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1992-04-14,john-paul-ii,,Littera 'Totius Polonicae',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4253,12 +4234,11 @@ exclude,1992-05-08,john-paul-ii,letters,Lettera a Monsignor Francesco Saverio To
 review,1992-05-12,john-paul-ii,letters,Lettera al Cardinale Angelo Sodano per la nomina a Legato Pontificio alla «Giornata della Santa Sede» presso l'Esposizione Universale di Siviglia (12 maggio 1992),it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1992-05-13,john-paul-ii,letters,Lettera per l'Istituzione della Giornata Mondiale del Malato (13 maggio 1992),es it,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,1992-05-17,john-paul-ii,,Littera 'Dominus Pascit Me',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1992-05-28,cdf,curia,communionis notio,fr,vatican.va,,
-include,1992-05-28,curia-unknown,curia,Communionis notio,pt,veritatis.com.br,,
+include,1992-05-28,cdf,curia,communionis notio,fr pt,vatican.va veritatis.com.br,,
 review,1992-05-28,john-paul-ii,,Congregatio 'Communionis Notio',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1992-05-29,john-paul-ii,,Littera 'Constat Catholicos',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1992-06-01,john-paul-ii,,Littera 'Ad Firmiores',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1992-06-06,cdf,curia,Decree on the doctrine and customs of the Association Opus Angelorum,de en es fr it la pl pt,vatican.va,,
+include,1992-06-06,cdf,curia,Decree on the doctrine and customs of the Association Opus Angelorum,de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,1992-06-21,john-paul-ii,,Littera 'Cum Dilexisset',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1992-06-24,john-paul-ii,letters,"Lettera al Cardinale Giovanni Canestri, Arcivescovo di Genova (24 giugno 1992)",it,vatican.va,,letter to a person or local church
 review,1992-07-06,john-paul-ii,,Littera 'Praestantiae Alicuius',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4310,8 +4290,7 @@ review,1993-04-06,john-paul-ii,,Littera 'In Heliopolitana Regione',la,documentac
 exclude,1993-04-07,john-paul-ii,letters,"Lettera a Monsignor Tadeusz Rakoczy, Vescovo di Bielsko-Zywiec, per il 50° anniversario del primo trasporto degli zingari ad Auschwitz-Birkenau (7 aprile 1993)",it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,1993-04-08,john-paul-ii,letters,Letter to Priests 1993,de en es fr it pt,vatican.va,,letter to the whole Church or a state of life
 review,1993-04-09,john-paul-ii,letters,Lettera alle Suore del Carmelo di Oświęcim nel Venerdì Santo (9 aprile 1993),it,vatican.va,,letter to a person or local church
-include,1993-04-15,cdf-pcb,curia,interpretazione,de it pt sw uk,vatican.va,,
-include,1993-04-15,curia-unknown,curia,A interpretação da Bíblia na Igreja,pt,veritatis.com.br,,
+include,1993-04-15,cdf-pcb,curia,interpretazione,de it pt sw uk,vatican.va veritatis.com.br,,
 review,1993-04-28,john-paul-ii,letters,"Letter to His Beatitude Raphaël I Bidawid, Patriarch of Babylon of the Chaldeans and the Catholic Bishops of Iraq (April 28, 1993)",en it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,1993-05-05,john-paul-ii,,Littera 'Templum Paroeciale',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1993-05-07,john-paul-ii,letters,"Lettera a Padre Marcello van de Ven, Abate Generale dell'Ordine dei Canonici Regolari Premostratensi (7 maggio 1993)",it la,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
@@ -4330,6 +4309,7 @@ review,1993-07-06,john-paul-ii,,Littera 'Curitibae In Perampla',la,documentacath
 review,1993-07-12,john-paul-ii,,Littera 'Merito Quidem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1993-07-21,john-paul-ii,letters,"Letter to the Moderator of the Commission on Faith and Order of the World Council of Churches (July 21, 1993)",en it,vatican.va,,letter to a person or local church
 review,1993-07-29,john-paul-ii,,Littera 'Olbiae In Maritima',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
+include,1993-07-31,curia-unknown,curia,Resposta às dúvidas propostas sobre o isolamento uterino e outras questões,pt,veritatis.com.br,,
 review,1993-07-31,unattributed,,Questões sobre isolamento uterino e afins,pt,veritatis.com.br,,no author in title; check
 exclude,1993-08-02,john-paul-ii,letters,Lettera a Monsignor Giuseppe Chiaretti nel VI Centenario della nascita di San Giacomo della Marca (2 agosto 1993),it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,1993-08-06,john-paul-ii,encyclicals,Veritatis Splendor (6 August 1993),da de en es fr hu it la nl pl pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
@@ -4393,7 +4373,6 @@ review,1994-05-15,john-paul-ii,,Epistula 'Quandoquidem Alexander',la,documentaca
 exclude,1994-05-15,john-paul-ii,letters,Lettera al Cardinale Giacomo Biffi per l'VIII centenario della fondazione del Santuario dedicato alla Beata Vergine di San Luca (15 maggio 1994),it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,1994-05-15,john-paul-ii,letters,Lettera al Cardinale Marcelo González Martín per la nomina a inviato speciale alle celebrazioni per il V centenario del Trattato di Tordesillas (15 maggio 1994),it la,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1994-05-19,john-paul-ii,letters,Lettera al Cardinale Giuseppe Caprio (19 maggio 1994),it,vatican.va,,letter to a person or local church
-include,1994-05-22,curia-unknown,curia,A presença da Igreja na Universidade e na cultura universitária,pt,veritatis.com.br,,
 include,1994-05-22,john-paul-ii,apost_letters,"Ordinatio Sacerdotalis (May 22, 1994)",de en es fr it la pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 exclude,1994-06-05,john-paul-ii,letters,Lettera al Cardinale Amigo Vallejo in occasione dell' anniversario del XLV Congresso Eucaristico Internazionale (5 giugno 1994),es it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1994-06-11,john-paul-ii,,Littera 'Notae Sunt',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4500,8 +4479,7 @@ review,1995-11-08,john-paul-ii,letters,"Lettera al Cardinale Angelo Sodano, Segr
 review,1995-11-10,john-paul-ii,letters,"Lettera al Cardinale Angelo Sodano, Segretario di Stato, per la conclusione del VII centenario del Santuario Lauretano (10 novembre 1995)",it la,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1995-11-12,john-paul-ii,apost_letters,"Apostolic Letter for the Fourth Centenary of the Union of Brest (November 12, 1995)",en es fr it pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,1995-11-26,john-paul-ii,letters,"Messaggio a Sua Santità Bartholomaios I, Patriarca Ecumenico di Costantinopoli (26 novembre 1995)",fr it,vatican.va,,letter to a person or local church
-include,1995-12-08,curia-unknown,curia,Sexualidade humana: verdade e significado,pt,veritatis.com.br,,
-review,1995-12-08,john-paul-ii,letters,All'Episcopato in Austria (8 settembre 1995),fr it,vatican.va,,letter to a person or local church
+include,1995-12-08,john-paul-ii,letters,All'Episcopato in Austria (8 settembre 1995),fr it pt,vatican.va veritatis.com.br,,
 review,1995-12-14,john-paul-ii,,Littera 'Quo Firmiores',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1995-12-21,john-paul-ii,,Littera 'In Foederatis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1996-01-01,social-communications,curia,100 Years of Cinema (1995-1996),en it,vatican.va,,dicastery document outside doctrine/worship
@@ -4560,8 +4538,7 @@ review,1996-09-23,john-paul-ii,letters,"Lettera a Padre Marcel Rooney, abate pri
 exclude,1996-09-24,john-paul-ii,letters,"Lettera a Padre Juan M. Lasso de la Vega, per il III Centenario della nascita di Sant'Alfonso Maria de' Liguori (24 settembre 1996)",it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1996-09-30,john-paul-ii,,Littera 'Dominus Natus',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1996-10-02,john-paul-ii,,Littera 'Antiquum Sane',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1996-10-04,curia-unknown,curia,A fome no mundo: um desafio para todos,pt,veritatis.com.br,,
-exclude,1996-10-04,john-paul-ii,letters,Lettera al Cardinale Joseph Ratzinger in occasione della Plenaria della Commissione Teologica Internazionale (4 ottobre 1996),es fr it pl,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
+include,1996-10-04,john-paul-ii,letters,Lettera al Cardinale Joseph Ratzinger in occasione della Plenaria della Commissione Teologica Internazionale (4 ottobre 1996),es fr it pl pt,vatican.va veritatis.com.br,,
 exclude,1996-10-05,john-paul-ii,letters,"Lettera a Monsignor Francesco Saverio Toppi, prelato di Pompei, per il centenario delle Suore Domenicane del Santo Rosario (5 ottobre 1996)",it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1996-10-06,john-paul-ii,letters,"Lettera al Padre Bernardo Olivera, abate generale dei Cistercensi (6 ottobre 1996)",it,vatican.va,,letter to a person or local church
 review,1996-10-06,john-paul-ii,,Littera 'Ambulate In Dilectione',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4589,7 +4566,7 @@ review,1996-12-08,john-paul-ii,,Epistula 'Martyrum Iaponiensium',la,documentacat
 include,1996-12-25,john-paul-ii,letters,Lettera alle famiglie di Roma per la consegna del Vangelo di Marco in vista della missione cittadina (25 dicembre 1996),de it,vatican.va documentacatholicaomnia.eu,,letter to the whole Church or a state of life
 review,1996-12-30,john-paul-ii,,Epistula 'Christianus Populus',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1997,cdf-cti,curia,Christianity and the World Religions,de en es fr hr hu it nl pl pt ru,vatican.va,,
-include,1997,cdf-cti,curia,cristianesimo religioni studio cti,it,vatican.va,,
+review,1997,cdf-cti,curia,cristianesimo religioni studio cti,it,vatican.va,,commentary on cristianesimo-religioni
 include,1997-01-02,cdf,curia,"Notification concerning the text Mary and Human Liberation by Father Tissa Balasuriya , January 2, 1997",de en es fr it pt,vatican.va,,
 review,1997-01-03,john-paul-ii,,Littera 'Conspicuum Templum',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1997-01-06,john-paul-ii,,Epistula 'Nobilis Hibernia',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4619,14 +4596,13 @@ exclude,1997-05-05,john-paul-ii,letters,"Messaggio al Padre Hermann Schalück, M
 review,1997-05-06,john-paul-ii,,Littera 'Marialem Pietatem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1997-05-07,health-care,curia,barragan oms,es,vatican.va,,dicastery document outside doctrine/worship
 review,1997-05-08,john-paul-ii,,Epistula 'Praecipuum Omnino',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1997-05-10,curia-unknown,curia,In Verbo tuo,pt,veritatis.com.br,,
-include,1997-05-10,john-paul-ii,apost_exhortations,Una speranza nuova per il Libano (10 maggio 1997),fr it,vatican.va documentacatholicaomnia.eu,,
+include,1997-05-10,john-paul-ii,apost_exhortations,Una speranza nuova per il Libano (10 maggio 1997),fr it pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 exclude,1997-05-12,john-paul-ii,letters,"Message on the occasion of the 80th anniversary of the first apparition in Fátima (May 12, 1997)",en es it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,1997-05-13,john-paul-ii,letters,"Lettera all'Abate Luigi Rottini, Presidente della Congregazione italiana dell'Ordine Cistercense (13 maggio 1997)",it,vatican.va,,letter to a person or local church
 review,1997-05-15,legislative-texts,curia,declsacerd,es pt,vatican.va,,dicastery document outside doctrine/worship
 review,1997-05-16,john-paul-ii,letters,"Message on the occasion of the first centenary of the birth of the Congregation of the Rogationists of the Sacred Heart of Jesus (May 16, 1997)",en es it la pt,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,1997-05-27,john-paul-ii,letters,"Letter to the Bishop of Viviers for the 400th anniversary of the birth of St John Francis Régis (May 27, 1997)",en es fr pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
-review,1997-05-30,john-paul-ii,letters,"Message to Archbishop James Francis Stafford on the occasion of the First Congress of Lay Catholics in the Middle-East (May 30, 1997)",en es fr la pt,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
+include,1997-05-30,john-paul-ii,letters,"Message to Archbishop James Francis Stafford on the occasion of the First Congress of Lay Catholics in the Middle-East (May 30, 1997)",en es fr la pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,1997-06-06,john-paul-ii,,Littera 'Dolor Proximi',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1997-06-07,john-paul-ii,,Littera 'Ecclesia Mariae',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1997-06-16,john-paul-ii,letters,"To Mr Benjamin Netanyahu, Prime Minister of the State of Israel (June 16, 1997)",en es fr pt,vatican.va,,letter to a person or local church
@@ -4694,6 +4670,7 @@ exclude,1997-12-09,john-paul-ii,letters,"Letter to the Latin-rite Diocese of Jer
 review,1997-12-16,john-paul-ii,letters,"Letter to Cardinal Paul Joseph Pham Dinh Tung, Archbishop of Hanoi (December 16, 1997)",en es fr,vatican.va,,letter to a person or local church
 review,1997-12-23,john-paul-ii,,Constitutio 'Amparensis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1997-12-27,john-paul-ii,letters,"Lettera al Cardinale Józef Glemp, Arcivescovo Metropolita di Varsavia e Primate della Polonia, per la morte dell'arcivescovo Bronisław Dąbrowski (27 dicembre 1997)",it,vatican.va,,letter to a person or local church
+include,1997-12-28,curia-unknown,curia,A escola católica no limiar do Terceiro Milênio,pt,veritatis.com.br,,
 review,1997-12-29,john-paul-ii,letters,"Letter to Cardinal Bernard Law, Archbishop of Boston (December 29, 1997)",en es la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 include,1998,cdf,curia,Formula to be used for the profession of faith and for the oath of fidelity to assume an office to be exercised in the name of the Church with the Illustrative doctrinal Note of the conclusive formula of “Professio fidei”,cs de en es fr it la pl pt,vatican.va,,
 include,1998,cdf-cti,curia,prologo documentos bac_ratzinger,es,vatican.va,,
@@ -4735,7 +4712,7 @@ exclude,1998-06-10,health-care,curia,barragan onu droga,es,vatican.va,,"not a do
 review,1998-06-22,john-paul-ii,letters,"Lettera al Cardinale Angelo Sodano, Legato Pontificio nel 750° anniversario della Cattedrale di Colonia (Germania) (22 giugno 1998)",it la pt,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1998-06-23,john-paul-ii,,Littera 'Spiritale Curantes',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1998-06-24,cdf,curia,"Notification concerning the writings of Father Anthony De Mello, S.J.",de en es fr it la pl pt sk,vatican.va,,
-include,1998-06-24,cdf,curia,demello nota,de es fr it pt,vatican.va,,
+review,1998-06-24,cdf,curia,demello nota,de es fr it pt,vatican.va,,commentary on demello
 review,1998-06-25,john-paul-ii,,Littera 'Quingentesimus Iam',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1998-06-27,john-paul-ii,,Constitutio 'Banforensis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1998-06-29,curia-unknown,curia,Fórmula a ser usada para a profissão de fé e o juramento de fidelidade ao assumir um ofício a ser exercido em nome da Igreja com Nota doutrinal ilustrativa da fórmula conclusiva da ‘Professio fidei',pt,veritatis.com.br,,
@@ -4755,8 +4732,7 @@ review,1998-10-05,catholic-education,curia,semin_proped,it pt,vatican.va,,dicast
 review,1998-10-20,john-paul-ii,letters,"Letter to His Beatitude Ignace Moussa I Daoud, Patriarch of Antioch for Syrians (October 20, 1998)",en es pt,vatican.va,,letter to a person or local church
 review,1998-10-22,john-paul-ii,,Epistula 'Pro Comperto',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1998-10-30,john-paul-ii,,Epistula 'Nos Quidem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,1998-10-31,cdf,curia,"Considerations on The Primacy of the Successor of Peter in the mystery of the Church , October 31, 1998",de en es it pl pt,vatican.va,,
-include,1998-10-31,curia-unknown,curia,Considerações sobre o Primado do sucessor de Pedro no mistério da Igreja,pt,veritatis.com.br,,
+include,1998-10-31,cdf,curia,"Considerations on The Primacy of the Successor of Peter in the mystery of the Church , October 31, 1998",de en es it pl pt,vatican.va veritatis.com.br,,
 review,1998-11-05,john-paul-ii,,Constitutio 'Kannurensis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1998-11-07,john-paul-ii,,Centenario Evangelizacion de Burundi,es,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,1998-11-20,john-paul-ii,,Epistula 'Perquam Opportunum',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4811,8 +4787,7 @@ exclude,1999-05-01,john-paul-ii,letters,"To the Catholic Biblical Federation (Ma
 review,1999-05-02,saints,curia,"Beatification of Padre Pio of Pietrelcina (1887-1968) - May 2, 1999",de en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
 include,1999-05-08,curia-unknown,curia,"O Santuário: memória, presença e profecia do Deus vivo",pt,veritatis.com.br,,
 include,1999-05-12,curia-unknown,curia,O dom da autoridade,pt,veritatis.com.br,,
-include,1999-05-13,curia-unknown,curia,Verbi sponsa,pt,veritatis.com.br,,
-review,1999-05-13,john-paul-ii,letters,"Message on the occasion of the National Eucharistic Congress in Santiago de Compostela - Spain (May 13, 1999)",en es it la pt,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
+include,1999-05-13,john-paul-ii,letters,"Message on the occasion of the National Eucharistic Congress in Santiago de Compostela - Spain (May 13, 1999)",en es it la pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,1999-05-20,john-paul-ii,,Dialogo Con Los Ortodoxos,es la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,1999-05-23,curia-unknown,curia,Para uma Pastoral da Cultura,pt,veritatis.com.br,,
 review,1999-05-23,john-paul-ii,,Motu Proprio 'Sacra Liturgia',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -4996,14 +4971,14 @@ review,2000-06-13,penitentiary,curia,penance,it pt,vatican.va,,dicastery documen
 review,2000-06-13,penitentiary,curia,press release,it,vatican.va,,dicastery document outside doctrine/worship
 review,2000-06-21,john-paul-ii,letters,"Lettera a S.E. Mons. Jorge María Mejía, Archivista e Bibliotecario di Santa Romana Chiesa, in occasione della presentazione della mostra ""I Vangeli dei Popoli"" (21 giugno 2000)",es it pt,vatican.va documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2000-06-24,john-paul-ii,,Giubileo Dalla Carceri,de,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,2000-06-26,cdf,curia,"Documents regarding ""The Message of Fatima""",de en es fr hu it pl pt,vatican.va,,
-include,2000-06-26,curia-unknown,curia,A mensagem de Fátima,pt,veritatis.com.br,,
+include,2000-06-26,cdf,curia,"Documents regarding ""The Message of Fatima""",de en es fr hu it pl pt,vatican.va veritatis.com.br,,
 review,2000-06-26,john-paul-ii,,Epistula 'Appropinquante Feliciter',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2000-06-28,john-paul-ii,,Decretum 'Verbo Divino',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,2000-06-28,worship,curia,calendari,it,vatican.va,,
 include,2000-06-28,worship,curia,guadalupe,es la,vatican.va,,
 review,2000-06-29,john-paul-ii,,Epistula 'Hungariae Christifidelibus',es la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,2000-06-30,cdf,curia,Note on the expression Sister Churches,de en es fr it pl pt,vatican.va,,
+include,2000-06-30,curia-unknown,curia,Nota sobre a expressão ‘Igrejas irmãs',pt,veritatis.com.br,,
 include,2000-06-30,worship,curia,"Circular letter on the Sacrament of Penance (March 20, 2000)",en,vatican.va,,
 include,2000-06-30,worship,curia,dichiarazione vescovi australiani%20,la,vatican.va,,
 include,2000-06-30,worship,curia,memoria immaculati cordis mariae virginis,la,vatican.va,,
@@ -5015,8 +4990,7 @@ review,2000-07-08,john-paul-ii,,Epistula 'Hominum Quondam',la,documentacatholica
 review,2000-07-11,john-paul-ii,letters,"Letter to Father Giacomo Bini (July 11, 2000)",de en es fr it pt,vatican.va,,letter to a person or local church
 include,2000-07-20,john-paul-ii,apost_letters,300th Anniversary of the union of the Greek-Catholic Church of Romania with the Church of Rome (20 July 2000),de en es fr it pt,vatican.va,,
 review,2000-07-24,catholic-education,curia,grocholewski santiago compostela,it,vatican.va,,dicastery document outside doctrine/worship
-include,2000-08-06,cdf,curia,Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus,de en es fr hu it la nl pl pt sk,vatican.va,,
-include,2000-08-06,curia-unknown,curia,Dominus Iesus,pt,veritatis.com.br,,
+include,2000-08-06,cdf,curia,Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus,de en es fr hu it la nl pl pt sk,vatican.va veritatis.com.br,,
 review,2000-08-06,john-paul-ii,,Congregatio 'Dominus Iesus',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2000-08-10,john-paul-ii,,Epistola 'Archimandritae Aemiliano Fabbricatore Egumeno Exarcho',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,2000-08-23,john-paul-ii,letters,"Letter to Bishop Mario Paciello for the third centenary of the death of Pope Innocent XII (August 23, 2000)",en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -5024,10 +4998,10 @@ review,2000-09-01,john-paul-ii,,Epistula 'Spectabilis Dilectaque',la,documentaca
 review,2000-09-03,john-paul-ii,,Epistula 'Ad Te Venerabilis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2000-09-04,john-paul-ii,letters,"Letter to Card. Schotte for the Consecration of the Cathedral of Irkutsk (September 5, 2000)",en la,vatican.va,,letter to a person or local church
 review,2000-09-04,john-paul-ii,letters,"Letter to the National Eucharistic Congress of Peru (September 4, 2000)",en es pt,vatican.va,,letter to a person or local church
-include,2000-09-05,cdf,curia,dominus iesus amato,it,vatican.va,,
-include,2000-09-05,cdf,curia,dominus iesus bertone,it,vatican.va,,
-include,2000-09-05,cdf,curia,dominus iesus ocariz,it,vatican.va,,
-include,2000-09-05,cdf,curia,dominus iesus ratzinger,it,vatican.va,,
+review,2000-09-05,cdf,curia,dominus iesus amato,it,vatican.va,,commentary on dominus-iesus
+review,2000-09-05,cdf,curia,dominus iesus bertone,it,vatican.va,,commentary on dominus-iesus
+review,2000-09-05,cdf,curia,dominus iesus ocariz,it,vatican.va,,commentary on dominus-iesus
+review,2000-09-05,cdf,curia,dominus iesus ratzinger,it,vatican.va,,commentary on dominus-iesus
 include,2000-09-14,curia-unknown,curia,Ardens felicitatis,pt,veritatis.com.br,,
 review,2000-09-14,john-paul-ii,,Epistula 'Dum Sollemnes',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2000-09-17,evangelization,curia,card tomko pime,it,vatican.va,,dicastery document outside doctrine/worship
@@ -5108,9 +5082,9 @@ review,2001-05-20,john-paul-ii,,Epistula 'Campiniensis Urbs',la,documentacatholi
 exclude,2001-05-28,john-paul-ii,letters,"Letter to His Holiness Aram I Catholicos of Cilicia on the occasion of the 1700th Anniversary of the Baptism of the Armenian nation (May 28, 2001)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2001-05-30,john-paul-ii,,Epistula 'Recordantes Nos',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2001-06-02,john-paul-ii,,Epistula 'Vicesimo Incipiente',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,2001-06-05,cdf,curia,Response of the Congregation for the Doctrine of the Faith about the Validity of Baptism conferred in the Church of Jesus Christ of Latter-Day Saints,en it,vatican.va,,
+review,2001-06-05,cdf,curia,Response of the Congregation for the Doctrine of the Faith about the Validity of Baptism conferred in the Church of Jesus Christ of Latter-Day Saints,en it,vatican.va,,commentary on battesimo-mormoni
 include,2001-06-05,cdf,curia,Response to a ‘Dubium’ on the validity of Baptism conferred in the The Church of Jesus Christ of Latter-Day Saints called Mormons,de en es fr it la pl pt,vatican.va,,
-include,2001-06-05,cdf,curia,The Question of the Validity of Baptism conferred in the Church of Jesus Christ of Latter-Day Saints,en it,vatican.va,,
+review,2001-06-05,cdf,curia,The Question of the Validity of Baptism conferred in the Church of Jesus Christ of Latter-Day Saints,en it,vatican.va,,commentary on battesimo-mormoni
 review,2001-06-05,john-paul-ii,,Congregatio 'Utrum Baptismus Collatus',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,2001-06-09,john-paul-ii,letters,"Letter to H. Em. Card. Schotte, Papal Legate at the celebrations of the 1st Centenary of the National Eucharistic Congress of St. Louis (U.S.A.) (June 9, 2001)",en la,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2001-06-12,evangelization,curia,Comments by Card. Jozef Tomko,en it,vatican.va,,dicastery document outside doctrine/worship
@@ -5142,8 +5116,7 @@ review,2001-11-29,john-paul-ii,letters,"Letter to the Director General of the In
 review,2001-12-01,john-paul-ii,,Constitutio 'Mongensis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2001-12-06,john-paul-ii,,Epistula 'Natalicium Hoc Anno',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2001-12-15,john-paul-ii,letters,"Letter to H. Em. Card. Camillo Ruini (December 15, 2001)",en es it pt,vatican.va,,letter to a person or local church
-include,2001-12-20,curia-unknown,curia,A ‘Familiaris consortio’ no seu 20º aniversário: dimensão antropológica e pastoral,pt,veritatis.com.br,,
-review,2001-12-20,family,curia,"Conclusion of the Theological-Pastoral Congress on the theme: ""Twenty Years since 'Familiaris consortio': the Anthropological and Pastoral Dimension"" (December 20, 2001)",en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
+include,2001-12-20,family,curia,"Conclusion of the Theological-Pastoral Congress on the theme: ""Twenty Years since 'Familiaris consortio': the Anthropological and Pastoral Dimension"" (December 20, 2001)",en es fr it pt,vatican.va veritatis.com.br,,
 review,2001-12-22,john-paul-ii,letters,"Letter to H. Em. Card. Walter Kasper (December 22, 2001)",de en es fr it la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 review,2001-12-25,john-paul-ii,,Epistula 'Ecclesiae Unitas',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2002-01-05,john-paul-ii,,Constitutio 'Villaricensis',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -5213,9 +5186,8 @@ review,2002-07-09,john-paul-ii,,Epistula 'Mandatum In Ultima',la,documentacathol
 review,2002-07-10,saints,curia,card martins santo spirito,it,vatican.va,,dicastery document outside doctrine/worship
 review,2002-07-10,unattributed,,Monitum” sobre uma Ordenação Simulada de Sacerdotisas,pt,veritatis.com.br,,no author in title; check
 review,2002-07-11,family,curia,trujillo aborto,fr it pt,vatican.va,,dicastery document outside doctrine/worship
-review,2002-08-04,clergy,curia,Inglés,de en es hu it pl pt,vatican.va,,dicastery document outside doctrine/worship
-include,2002-08-05,cdf,curia,Decree of Excommunication [regarding the attempted priestly ordination of some Catholic women by a schismatic Bishop],de en es fr it pl pt,vatican.va,,
-include,2002-08-05,curia-unknown,curia,Decreto de excomunhão de algumas mulheres ‘ordenadas’ por um Bispo cismático,pt,veritatis.com.br,,
+include,2002-08-04,clergy,curia,Inglés,de en es hu it pl pt,vatican.va veritatis.com.br,,
+include,2002-08-05,cdf,curia,Decree of Excommunication [regarding the attempted priestly ordination of some Catholic women by a schismatic Bishop],de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,2002-08-06,john-paul-ii,letters,"Letter to the Knights of Columbus (July 10, 2002)",de en es fr it pt,vatican.va,,letter to a person or local church
 review,2002-08-20,john-paul-ii,,Epistula 'Cogitantes Nos',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,2002-08-24,cdf,curia,"Message of Cardinal Joseph Ratzinger to the Communion and Liberation (CL) meeting at Rimini (24-30 August 2002) on the theme: ""The Feeling of Things, the Contemplation of Beauty""",en,vatican.va,,
@@ -5223,8 +5195,7 @@ exclude,2002-08-24,john-paul-ii,letters,"Letter to Card. James Francis Stafford,
 review,2002-08-26,penitentiary,curia,enchiridion indulgentiarum,la,vatican.va,,dicastery document outside doctrine/worship
 exclude,2002-08-29,john-paul-ii,letters,"Letter of John Paul II, signed by the Secretary of State, Cardinal Angelo Sodano, for the National Liturgical Week (Assisi, August 26-30, 2002) (August 29, 2002)",en es it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2002-08-30,john-paul-ii,,Epistula 'Colenda Profecto',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,2002-09-02,curia-unknown,curia,Decreto com que se renova a ordem dos estudos nas faculdades de Direito Canônico,pt,veritatis.com.br,,
-review,2002-09-02,health-care,curia,Archive,de en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
+include,2002-09-02,health-care,curia,Archive,de en es fr it pt,vatican.va veritatis.com.br,,
 review,2002-09-10,john-paul-ii,,Epistula 'Ipso Instante',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2002-09-13,health-care,curia,XVII International Conference (7-8-9 November 2002),en fr it,vatican.va,,dicastery document outside doctrine/worship
 review,2002-09-27,evangelization,curia,"Address of Cardinal Crescenzio Sepe to the Presidents of the Bishops' Conferences of Asia (FABC) at the Samphran Pastoral Centre in Bangkok (September 27, 2002)",en,vatican.va,,dicastery document outside doctrine/worship
@@ -5243,8 +5214,7 @@ review,2002-10-17,saints,curia,nowak felinski,it,vatican.va,,dicastery document 
 review,2002-10-18,saints,curia,card martins vescovo,it,vatican.va,,dicastery document outside doctrine/worship
 review,2002-10-19,family,curia,"Conclusions of the 15th Plenary Assembly of the Pontifical Council for the Family (October 19, 2002)",en es it pt,vatican.va,,dicastery document outside doctrine/worship
 review,2002-10-25,evangelization,curia,sepe angola,fr it pt,vatican.va,,dicastery document outside doctrine/worship
-review,2002-10-28,catholic-education,curia,Consecrated Persons and their Mission in Schools. Reflections and Guidelines,de en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
-include,2002-10-28,curia-unknown,curia,As pessoas consagradas e a sua missão na escola: reflexões e orientações,pt,veritatis.com.br,,
+include,2002-10-28,catholic-education,curia,Consecrated Persons and their Mission in Schools. Reflections and Guidelines,de en es fr it pt,vatican.va veritatis.com.br,,
 include,2002-10-30,cdf-pcb,curia,ratzinger,it,vatican.va,,
 include,2002-10-30,cdf-pcb,curia,stock,it,vatican.va,,
 review,2002-11-09,evangelization,curia,sepe albania,fr it,vatican.va,,dicastery document outside doctrine/worship
@@ -5267,7 +5237,7 @@ review,2002-12-08,family,curia,lexicon trujillo,it,vatican.va,,dicastery documen
 exclude,2002-12-09,john-paul-ii,letters,"Letter to the Bishop of Annecy (France), H.E. Msgr. Yves Boivineau, for the fourth centenary of the Episcopal Ordination of Saint Francis of Sales (November 23, 2002)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2002-12-10,saints,curia,"Reflection of Cardinal José Saraiva Martins (December 10, 2002)",en es pt,vatican.va,,dicastery document outside doctrine/worship
 review,2002-12-14,health-care,curia,barragan med med,it,vatican.va,,dicastery document outside doctrine/worship
-include,2002-12-21,cdf,curia,Decree on attempted ordination of some Catholic Women,de en es fr it pt,vatican.va,,
+review,2002-12-21,cdf,curia,Decree on attempted ordination of some Catholic Women,de en es fr it pt,vatican.va,,commentary on scomunica
 include,2002-12-21,cdf,curia,card ratz decano,pt,vatican.va,,
 review,2002-12-27,john-paul-ii,,Epistula 'Familiarem Consortionem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2002-20-00,clergy,curia,Englisch,en,vatican.va,,dicastery document outside doctrine/worship
@@ -5317,6 +5287,7 @@ include,2003-05-18,cdf,curia,"Message to the Holy Father John Paul II for his 83
 exclude,2003-05-21,health-care,curia,"Intervention by H.E. Msgr. Javier Lozano Barragán at the 56th WHO World Assembly (Geneve, May 21, 2003)",en es pt,vatican.va,,"not a document (press, programme, index, member list)"
 review,2003-05-21,john-paul-ii,,Epistula 'Christiani Populi',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2003-05-26,saints,curia,martins priest,it,vatican.va,,dicastery document outside doctrine/worship
+include,2003-06-03,curia-unknown,curia,Considerações sobre os projetos de reconhecimento legal das uniões entre pessoas homossexuais,pt,veritatis.com.br,,
 review,2003-06-03,unattributed,,Projetos de reconhecimento legal de uniões homossexuais,pt,veritatis.com.br,,no author in title; check
 review,2003-06-10,saints,curia,martins eucharist,de es it pt,vatican.va,,dicastery document outside doctrine/worship
 exclude,2003-06-11,john-paul-ii,letters,"Letter to Card. Christoph Schönborn on the occasion of the Day of Central European Catholics (June 11, 2003)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -5325,7 +5296,7 @@ review,2003-06-14,family,curia,"Conclusions by Card. Alfonso López Trujillo on:
 include,2003-06-27,curia-unknown,curia,A Eucaristia e o Sacerdote estão inseparavelmente unidos pelo amor de Deus,pt,veritatis.com.br,,
 include,2003-06-28,john-paul-ii,apost_exhortations,"Ecclesia in Europa (June 28, 2003)",de en es fr hr hu it pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
 review,2003-07-04,john-paul-ii,,Allocutio 'Laeto Quidem',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,2003-07-24,cdf,curia,Circular Letter to all Presidents of the Episcopal Conferences concerning the use of low-gluten altar breads and mustum as matter for the celebration of the Eucharist,de en es fr it pl pt,vatican.va,,
+include,2003-07-24,cdf,curia,Circular Letter to all Presidents of the Episcopal Conferences concerning the use of low-gluten altar breads and mustum as matter for the celebration of the Eucharist,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,2003-07-28,john-paul-ii,,Epistula 'Syracusis In Antiqua',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,2003-07-31,cdf,curia,"Considerations regarding proposals to give legal recognition to unions between homosexual persons (June 3, 2003)",de en es fr hu it pl pt sk,vatican.va,,
 review,2003-08-08,family,curia,"Reflection by Card. Alfonso López Trujillo on: ""Cloning: the disappearance of direct parenthood and denial of the family"" (August 8, 2003)",en es it pt,vatican.va,,dicastery document outside doctrine/worship
@@ -5344,8 +5315,7 @@ review,2003-10-19,saints,curia,martins mother teresa,it,vatican.va,,dicastery do
 review,2003-10-20,saints,curia,"Thanksgiving Mass for the Beatification of Mother Teresa of Calcutta: Homily of Card. José Saraiva Martins (October 20, 2003)",en fr it,vatican.va,,dicastery document outside doctrine/worship
 review,2003-10-22,john-paul-ii,,Epistula 'Catholica Ecclesia',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2003-10-27,catholic-education,curia,alfonsiana,it,vatican.va,,dicastery document outside doctrine/worship
-include,2003-10-28,curia-unknown,curia,Decreto de ereção e aprovação do estatuto geral da União do Apostolado Católico,pt,veritatis.com.br,,
-review,2003-10-28,social-communications,curia,"Intervention by Archbishop John P. Foley on the 50th anniversary of the World Federation of Advertisers (October 28, 2003)",en,vatican.va,,dicastery document outside doctrine/worship
+include,2003-10-28,social-communications,curia,"Intervention by Archbishop John P. Foley on the 50th anniversary of the World Federation of Advertisers (October 28, 2003)",en pt,vatican.va veritatis.com.br,,
 review,2003-10-29,john-paul-ii,,Epistula 'Gratulabundo Afficiuntur',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2003-11-09,evangelization,curia,ivan merz,it,vatican.va,,dicastery document outside doctrine/worship
 review,2003-11-12,health-care,curia,xviii intern conference,it,vatican.va,,dicastery document outside doctrine/worship
@@ -5420,7 +5390,7 @@ review,2004-07-19,john-paul-ii,,Epistula 'Condignam solet',la,documentacatholica
 review,2004-07-20,john-paul-ii,,Epistula 'Thesaurus Ecclesiae',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2004-07-21,john-paul-ii,letters,"Letter to the participants of the General Chapter of the Congregation of the Holy Cross (July 21, 2004)",de en es fr it la pt,vatican.va documentacatholicaomnia.eu,,letter to a person or local church
 include,2004-07-23,cdf-cti,curia,Communion and Stewardship: Human Persons Created in the Image of God,de en es fr hu it ko pt ru,vatican.va,,
-include,2004-07-23,cdf-cti,curia,communion stewardship_zh,zh-cn zh-tw,vatican.va,,
+review,2004-07-23,cdf-cti,curia,communion stewardship_zh,zh-cn zh-tw,vatican.va,,commentary on communion-stewardship
 exclude,2004-07-30,john-paul-ii,letters,"Letter to H.E. Msgr. Pier Giorgio Micchiardi, Bishop of Acqui (Italy), on the occasion of the Millennium of the Birth of St Guido, Patron of Acqui (July 30, 2004)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2004-07-31,cdf,curia,Letter to the Bishops of the Catholic Church on the collaboration of men and women in the Church and in the world,de en es fr hu it nl pl pt,vatican.va,,
 exclude,2004-07-31,john-paul-ii,letters,"Letter to the President of the City of Warsaw, on the occasion of the 60th anniversary of the Warsaw Uprising (July 27, 2004)",de en es fr it pl pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -5475,9 +5445,8 @@ review,2004-12-25,penitentiary,curia,"Decree on Indulgences during the ""Year of
 review,2005-01-17,john-paul-ii,,Epistula 'Quanti In Finnicae',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2005-01-20,health-care,curia,plenaria salute,it,vatican.va,,dicastery document outside doctrine/worship
 include,2005-01-24,john-paul-ii,apost_letters,"The rapid development (January 24, 2005)",de en es fr hu it pt,vatican.va veritatis.com.br documentacatholicaomnia.eu,,
-include,2005-01-25,curia-unknown,curia,Dignitas connubii,pt,veritatis.com.br,,
 review,2005-01-25,john-paul-ii,,Congregatio 'Dignitas Connubii',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-review,2005-01-25,legislative-texts,curia,"Instruction Dignitas connubii to be observed by diocesan and interdiocesan tribunals in handling causes of the nullity of marriage (January 25, 2005)",de en es fr it la pt zh-cn,vatican.va,,dicastery document outside doctrine/worship
+include,2005-01-25,legislative-texts,curia,"Instruction Dignitas connubii to be observed by diocesan and interdiocesan tribunals in handling causes of the nullity of marriage (January 25, 2005)",de en es fr it la pt zh-cn,vatican.va veritatis.com.br,,
 review,2005-01-30,health-care,curia,barragan lebbra,fr it,vatican.va,,dicastery document outside doctrine/worship
 include,2005-02-01,john-paul-ii,letters,"Letter to the participants in the 13th World Day for the Sick in Yaoundé (Cameroon) (February 1, 2005)",de en es fr it pt,vatican.va,,letter to the whole Church or a state of life
 include,2005-02-05,cdf,curia,ratzinger esequie bafile,de es it pt,vatican.va,,
@@ -5605,7 +5574,7 @@ review,2006-01-29,health-care,curia,"Message for the 53rd World Day of Leprosy (
 review,2006-01-31,family,curia,Program,en es fr pl,vatican.va,,dicastery document outside doctrine/worship
 exclude,2006-02-02,benedict-xvi,letters,"Letter on occasion of the first anniversary of the death of Mons. Luigi Giussani (February 2, 2006)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,2006-02-02,benedict-xvi,letters,"Letter to Card. Jaime Lucas Ortega y Alamino on occasion of the XX Anniversary of the National Cuban Ecclesial Meeting (ENEC) (February 2, 2006)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
-include,2006-02-10,cdf,curia,omaggio levada,it pt,vatican.va,,
+review,2006-02-10,cdf,curia,omaggio levada,it pt,vatican.va,,commentary on omaggio
 review,2006-02-11,health-care,curia,"Homily of Card. Javier Lozano Barragán during the Mass in the Cathedral of Adelaide on occasion of the XIV World Day of the Sick (February 11, 2006)",de en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
 review,2006-02-17,benedict-xvi,letters,"Exchange of letters between the Holy Father and His Holiness Aleksij II Patriarch of Moscow and All The Russias (February 17, 2006)",de en es fr it pt,vatican.va,,letter to a person or local church
 review,2006-02-18,evangelization,curia,"Address of Card. Crescenzio Sepe to the Bishops of the Episcopal Conference of Sudan (February 18, 2006)",de en fr it,vatican.va,,dicastery document outside doctrine/worship
@@ -5617,8 +5586,7 @@ review,2006-03-02,benedict-xv,,Meeting With Roman Clergy,en,documentacatholicaom
 review,2006-03-03,benedict-xv,,Epistula 'Quingenti Anni',en la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2006-03-04,benedict-xv,,Epistula 'Congruum Solet',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2006-03-11,evangelization,curia,40 ad gentes,it pt,vatican.va,,dicastery document outside doctrine/worship
-include,2006-03-13,curia-unknown,curia,Sobre o ato formal de defecção da Igreja Católica,pt,veritatis.com.br,,
-review,2006-03-13,legislative-texts,curia,"Actus formalis defectionis ab Ecclesia catholica (March 13, 2006)",de en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
+include,2006-03-13,legislative-texts,curia,"Actus formalis defectionis ab Ecclesia catholica (March 13, 2006)",de en es fr it pt,vatican.va veritatis.com.br,,
 review,2006-03-13,unattributed,,Actus formalis defectionis ab ecclesia catholica,pt,veritatis.com.br,,no author in title; check
 include,2006-03-14,benedict-xvi,apost_letters,Lettera Apostolica con la quale il Sommo Pontefice ha iscritto all’albo dei Beati la Serva di Dio Suor Elia di san Clemente (14 marzo 2006),es fr it la pt,vatican.va veritatis.com.br,,
 review,2006-03-20,family,curia,Preparatory Catecheses,de en es fr it pl pt,vatican.va,,dicastery document outside doctrine/worship
@@ -5740,8 +5708,7 @@ exclude,2007-04-29,benedict-xvi,letters,"Letter to Card. Ennio Antonelli, Archbi
 review,2007-04-29,saints,curia,"Homily of Card. José Saraiva Martins on the occasion of the Beatification of Maria Rosa Pellesi (April 29, 2007)",en es it pt,vatican.va,,dicastery document outside doctrine/worship
 review,2007-05-01,benedict-xv,,Epistula 'Bambergensem Venerandam',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2007-05-06,saints,curia,"Homily of Card. José Saraiva Martins on the occasion of the Beatification of Maria del Carmen of the Child Jesus (May 6, 2007)",en es it pt,vatican.va,,dicastery document outside doctrine/worship
-include,2007-05-17,curia-unknown,curia,Sanctorum Mater,pt,veritatis.com.br,,
-review,2007-05-17,saints,curia,"Sanctorum Mater - Instruction for conducting diocesan or eparchial Inquiries in the causes of Saints (May 17, 2007)",en es fr it la pt,vatican.va,,dicastery document outside doctrine/worship
+include,2007-05-17,saints,curia,"Sanctorum Mater - Instruction for conducting diocesan or eparchial Inquiries in the causes of Saints (May 17, 2007)",en es fr it la pt,vatican.va veritatis.com.br,,
 review,2007-05-19,benedict-xv,,Epistula 'Dignum Sane',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2007-05-20,benedict-xv,,Epistula 'Memoriam Profecto',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 review,2007-05-27,benedict-xv,,Epistula 'Venerati Fratres Episcopi',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
@@ -5780,8 +5747,7 @@ review,2007-08-28,saints,curia,s agostino pavia,it pt,vatican.va,,dicastery docu
 exclude,2007-09-01,benedict-xvi,letters,"Letter to the Ecumenical Patriarch of Constantinople on the occasion of the Seventh Symposium of the Religion, Science and the Environment movement (September 1, 2007)",en es fr pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2007-09-03,benedict-xvi,letters,"Letter to the children of the Pontifical Missionary Childhood Society (September 3, 2007)",de en es fr it pt,vatican.va,,letter to the whole Church or a state of life
 include,2007-09-06,worship,curia,"Press release of the Vox Clara Committee regarding matters of liturgical translations of Latin liturgical texts into the English language (September 6, 2007)",en,vatican.va,,
-review,2007-09-08,catholic-education,curia,"Educating Together in Catholic Schools. A Shared Mission between Consecrated Persons and the Lay Faithful (September 8, 2007)",en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
-include,2007-09-08,curia-unknown,curia,Educar juntos na escola católica: missão partilhada de pessoas consagradas e fiéis leigos,pt,veritatis.com.br,,
+include,2007-09-08,catholic-education,curia,"Educating Together in Catholic Schools. A Shared Mission between Consecrated Persons and the Lay Faithful (September 8, 2007)",en es fr it pt,vatican.va veritatis.com.br,,
 review,2007-09-10,benedict-xv,,Epistula 'Sancti Remigii',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 exclude,2007-09-12,benedict-xvi,letters,"Letter to Card. Ivan Dias, Prefect of the Congregation for the Evangelization of Peoples, on the occasion of the Mission Year in Lisieux (France) (September 12 2007)",en es fr pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,2007-09-12,benedict-xvi,letters,"Letter to Cardinal Walter Kasper on the occasion of the Tenth Inter-Christian Symposium in the Island of Tinos, Greece (September 12, 2007)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -5811,14 +5777,13 @@ exclude,2007-11-23,benedict-xvi,letters,"Letter to His Holiness Bartholomaios I,
 review,2007-11-30,benedict-xv,,Encyclica 'Spe Salvi',la,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,2007-11-30,benedict-xvi,encyclicals,"Spe salvi (November 30, 2007)",ar be de en es fr hu it la nl pl pt ru vi zh,vatican.va veritatis.com.br,,
 review,2007-12-02,saints,curia,"Homily of Card. José Saraiva Martins on the occasion of the Beatification of the Servant of God Sister Lindalva Justo de Oliveira (December 2, 2007)",en es it pt,vatican.va,,dicastery document outside doctrine/worship
-include,2007-12-03,cdf,curia,Doctrinal Note on some Aspects of Evangelization,de en es fr it la pl pt sk,vatican.va,,
+include,2007-12-03,cdf,curia,Doctrinal Note on some Aspects of Evangelization,de en es fr it la pl pt sk,vatican.va veritatis.com.br,,
 include,2007-12-05,worship,curia,"Press release of the Vox Clara Committee regarding matters of liturgical translations of Latin liturgical texts into the English language (December 5, 2007)",en,vatican.va,,
 exclude,2007-12-08,benedict-xvi,letters,Lettera al presidente della Conferenza Episcopale Brasiliana in occasione della Campagna della Fraternità del 2008 (8 dicembre 2007),es it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2007-12-12,social-communications,curia,message celli,es,vatican.va,,dicastery document outside doctrine/worship
 include,2007-12-14,cdf,curia,Press Conference for the presentation of the Doctrinal Note,en it,vatican.va,,
 review,2007-12-17,saints,curia,omaggio card martins,it,vatican.va,,dicastery document outside doctrine/worship
-include,2007-12-19,cdf,curia,"General Decree regarding the delict of attempted sacred ordination of a woman (December 19, 2007)",cs de en es fr it la pt,vatican.va,,
-include,2007-12-19,curia-unknown,curia,Decreto geral sobre o delito da tentada ordenação sagrada de uma mulher,pt,veritatis.com.br,,
+include,2007-12-19,cdf,curia,"General Decree regarding the delict of attempted sacred ordination of a woman (December 19, 2007)",cs de en es fr it la pt,vatican.va veritatis.com.br,,
 exclude,2008-01-10,benedict-xvi,letters,"Letter to Father Peter-Hans Kolvenbach on the occasion of the 35th General Congregation of the Society of Jesus (January 10, 2008)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2008-01-21,benedict-xvi,letters,"Letter to the faithful of the Diocese and City of Rome on the urgent task of educating young people (January 21, 2008)",de en es fr it pt,vatican.va,,letter to the whole Church or a state of life
 review,2008-01-21,catholic-education,curia,omaggio plenaria,it,vatican.va,,dicastery document outside doctrine/worship
@@ -5826,14 +5791,14 @@ review,2008-01-24,legislative-texts,curia,convegno cic,it,vatican.va,,dicastery 
 exclude,2008-01-25,benedict-xvi,letters,"Letter to His Beatitude Ignace Pierre VIII Abdel-Ahad, Patriarch of the Church of Antioch for Syrian Catholics (January 25, 2008)",en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2008-01-25,curia-unknown,curia,"Decreto com o qual se concede uma especial faculdade para a celebração da Conversão de São Paulo Apóstolo no ano jubilar, bimilenário do seu nascimento",pt,veritatis.com.br,,
 include,2008-01-25,worship,curia,"Decree granting a special faculty for the celebration of the Conversion of St Paul, Apostle in the Jubilee Year bimillennium of his birth (January 25, 2008)",de en es fr it la pt,vatican.va,,
-include,2008-01-31,cdf,curia,omaggio levada,it,vatican.va,,
+review,2008-01-31,cdf,curia,omaggio levada,it,vatican.va,,commentary on omaggio
 include,2008-02-01,cdf,curia,Responses to Questions Proposed on the Validity of Baptism,cs de en es fr it la pt,vatican.va,,
-include,2008-02-01,cdf,curia,The Church has no right to change what Christ himself has instituted,en it,vatican.va,,
-include,2008-02-01,cdf,curia,validity baptism navarrete,it,vatican.va,,
+review,2008-02-01,cdf,curia,The Church has no right to change what Christ himself has instituted,en it,vatican.va,,commentary on validity-baptism
+review,2008-02-01,cdf,curia,validity baptism navarrete,it,vatican.va,,commentary on validity-baptism
 review,2008-02-03,saints,curia,"Homily of Card. José Saraiva Martins on the occasion of the beatification of the Servant of God Sister Josephine Nicoli held in Cagliari, Italy (February 3, 2008)",en es,vatican.va,,dicastery document outside doctrine/worship
 review,2008-02-11,health-care,curia,giorno del malato,pt,vatican.va,,dicastery document outside doctrine/worship
 include,2008-02-12,cdf,curia,"""The Homilist – Teacher of the Faith"" by H.Em. Cardinal William Levada (February 12, 2008)",en,vatican.va,,
-review,2008-02-13,saints,curia,luciae,fr la pt,vatican.va,,dicastery document outside doctrine/worship
+include,2008-02-13,saints,curia,luciae,fr la pt,vatican.va veritatis.com.br,,
 review,2008-02-18,saints,curia,conf sanctorum mater,it,vatican.va,,dicastery document outside doctrine/worship
 exclude,2008-03-01,benedict-xvi,letters,"Letter to Fr. Pascual Chávez Villanueva, S.D.B., Rector Major, on the occasion of the 26th General Chapter of the Salesians of Don Bosco (March 1st, 2008)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2008-03-03,unattributed,,Nota de Dom Antonio Carlos Rossi Keller por ocasião da renúncia do Santo Padre Bento XVI,pt,veritatis.com.br,,no author in title; check
@@ -5850,8 +5815,7 @@ include,2008-04-27,cdf,curia,"Address by H.Em. Cardinal William Levada at Brisba
 review,2008-04-27,saints,curia,beatif candelaria,es,vatican.va,,dicastery document outside doctrine/worship
 review,2008-05-03,saints,curia,beatif magdalena,es,vatican.va,,dicastery document outside doctrine/worship
 review,2008-05-10,penitentiary,curia,"Urbis et Orbis Decree according to which Special Indulgences are conceded to faithful on the occasion of the 2000th anniversary of the birth of St Paul the Apostle (May 10, 2008)",de en es fr it la pt,vatican.va,,dicastery document outside doctrine/worship
-include,2008-05-11,cdf-pcb,curia,"The Bible and Morality. Biblical Roots of Christian Conduct (May 11, 2008)",de en es fr it pt,vatican.va,,
-include,2008-05-11,curia-unknown,curia,"Faciem tuam, Domine, requiram",pt,veritatis.com.br,,
+include,2008-05-11,cdf-pcb,curia,"The Bible and Morality. Biblical Roots of Christian Conduct (May 11, 2008)",de en es fr it pt,vatican.va veritatis.com.br,,
 exclude,2008-05-19,benedict-xvi,letters,"Letter to His Holiness Alexis II, Patriarch of Moscow and All Russia (May 19, 2008)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2008-05-30,clergy,curia,Inglés,de en es fr it pt,vatican.va,,dicastery document outside doctrine/worship
 review,2008-06-01,saints,curia,saraiva martins,it pt,vatican.va,,dicastery document outside doctrine/worship
@@ -5886,7 +5850,8 @@ exclude,2008-11-29,benedict-xvi,letters,"Letter to the President of the Republic
 review,2008-11-29,saints,curia,beatif olallo,es,vatican.va,,dicastery document outside doctrine/worship
 include,2008-12-03,worship,curia,"Press release of the Vox Clara Committee regarding matters of liturgical translations of Latin liturgical texts into the English language (December 3, 2008)",en,vatican.va,,
 include,2008-12-08,cdf,curia,Instruction Dignitas Personae on Certain Bioethical Questions,de en es fr it nl pl pt vi,vatican.va,,
-include,2008-12-08,cdf,curia,dignitas personae_zh,zh-cn zh-tw,vatican.va,,
+review,2008-12-08,cdf,curia,dignitas personae_zh,zh-cn zh-tw,vatican.va,,commentary on dignitas-personae
+include,2008-12-08,curia-unknown,curia,Dignitas personae,pt,veritatis.com.br,,
 include,2008-12-12,cdf,curia,Summary of the Instruction Dignitas Personae,de en es fr it nl pl pt,vatican.va,,
 include,2008-12-12,cdf,curia,conf stampa dignitas personae,it,vatican.va,,
 review,2008-12-28,penitentiary,curia,"Decree according to which a Plenary Indulgence is granted to the faithful on the occasion of the ""6th World Meeting of Families"" (December 28, 2008)",en es it la pt,vatican.va,,dicastery document outside doctrine/worship
@@ -5904,27 +5869,25 @@ exclude,2009-04-01,family,curia,pc famiglia,it,vatican.va,,"not a document (pres
 exclude,2009-04-15,benedict-xvi,letters,"Letter to Card. Giacomo Biffi, Special Envoy at the celebrations marking the ninth centenary of the death of St. Anselm (April 15, 2009)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2009-04-25,penitentiary,curia,"Decree according to which Special Indulgences are granted to the faithful on the occasion of the the Year for Priests that marks the 150th anniversary of the death of St. Jean Marie Vianney (April 25, 2009)",de en es fr it la pt,vatican.va,,dicastery document outside doctrine/worship
 review,2009-05-04,benedict-xvi,letters,"Letter to President Horst Köhler of the Federal Republic of Germany on the content of the Apostolic Journey to Africa (May 4, 2009)",de en es fr it pt,vatican.va,,letter to a person or local church
-review,2009-05-05,catholic-education,curia,"Circular letter to the Presidents of Bishops' conferences on religious education in schools (May 5, 2009)",en es fr it pt zh-cn zh-tw,vatican.va,,dicastery document outside doctrine/worship
-include,2009-05-05,curia-unknown,curia,Carta circular aos presidentes das Conferências Episcopais sobre o ensino da religião na escola,pt,veritatis.com.br,,
+include,2009-05-05,catholic-education,curia,"Circular letter to the Presidents of Bishops' conferences on religious education in schools (May 5, 2009)",en es fr it pt zh-cn zh-tw,vatican.va veritatis.com.br,,
 review,2009-05-05,unattributed,,Carta pastoral sobre revelações particulares e aparições,pt,veritatis.com.br,,no author in title; check
 exclude,2009-05-06,benedict-xvi,letters,"Letter to the Metropolitan Archbishop of Bucureşti, on the 10th anniversary of the journey of the Servant of God John Paul II to Romania (May 6, 2009)",en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2009-05-16,cdf,curia,"Dignitas personae - Conference of Cardinal William Levada (Uniwersytet Kardynała Stefana Wyszyńskiego and the Diocese of Radom - Radom, 16 May 2009)",en,vatican.va,,
 include,2009-05-18,cdf,curia,"""Encounter with the Fullness of Truth in Christ"" by Card. William Levada during the Conference on ""Pauline Year / International Scientific Conference: Sanctitas, Caritas, Veritas "" (Faculty of Theology of the University of Cardinal Stefan Wyszyński of Warsaw, 18 May 2009)",en,vatican.va,,
 include,2009-05-20,cdf-cti,curia,In Search of a Universal Ethic: A New Look at the Natural Law,cs de en es fr hu it ko pl pt ru,vatican.va,,
-include,2009-05-20,cdf-cti,curia,legge naturale present,fr,vatican.va,,
+review,2009-05-20,cdf-cti,curia,legge naturale present,fr,vatican.va,,commentary on legge-naturale
 review,2009-05-26,clergy,curia,anno sacerdotale,de es pt,vatican.va,,dicastery document outside doctrine/worship
 review,2009-06-03,benedict-xv,,Rabanus Maurus,it,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
-include,2009-06-05,cdf-cti,curia,legge naturale civilta cattolica,it,vatican.va,,
+review,2009-06-05,cdf-cti,curia,legge naturale civilta cattolica,it,vatican.va,,commentary on legge-naturale
 include,2009-06-08,cdf-pcb,curia,bibbia cristologia,de hu it la,vatican.va,,
 exclude,2009-06-16,benedict-xvi,letters,"Letter Proclaiming a Year for Priests on the 150th Anniversary of the Dies Natalis of the Curé of Ars (June 16, 2009)",de en es fr hr it nl pl pt zh-cn zh-tw,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
-include,2009-06-20,cdf-cti,curia,legge naturale minnerath,it,vatican.va,,
+review,2009-06-20,cdf-cti,curia,legge naturale minnerath,it,vatican.va,,commentary on legge-naturale
 review,2009-06-29,benedict-xv,,Encyclica 'Charitas in Veritate',de en es fr it pl pt,documentacatholicaomnia.eu,,only on DCO (no vatican.va record)
 include,2009-06-29,benedict-xvi,encyclicals,"Caritas in veritate (June 29, 2009)",ar be de en es fr hu it la nl pl pt ru zh-cn zh-tw,vatican.va veritatis.com.br,,
 exclude,2009-07-01,benedict-xvi,letters,"Letter to Hon. Mr. Silvio Berlusconi, President of the Italian Council of Ministers, on the occasion of the G8 Summit [L'Aquila, 8-10 July 2009] (July 1, 2009)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2009-07-02,benedict-xvi,apost_letters,"Apostolic Letter issued ""Motu Proprio"" Ecclesiae unitatem  (July 2, 2009)",de en es fr it la pt,vatican.va veritatis.com.br,,
 include,2009-07-07,benedict-xvi,apost_letters,"Lettera Apostolica in forma di ""Motu Proprio"" con la quale viene approvato il nuovo statuto dell'Ufficio del Lavoro della Sede Apostolica (ULSA) (7 luglio 2009)",it,vatican.va,,
-include,2009-07-11,cdf,curia,Clarification on procured abortion,de en es fr it pl pt sk,vatican.va,,
-include,2009-07-11,curia-unknown,curia,Esclarecimento sobre o aborto provocado,pt,veritatis.com.br,,
+include,2009-07-11,cdf,curia,Clarification on procured abortion,de en es fr it pl pt sk,vatican.va veritatis.com.br,,
 include,2009-08-27,worship,curia,"Press release of the Vox Clara Committee regarding matters of liturgical translations of Latin liturgical texts into the English language (August 27, 2009)",en,vatican.va,,
 exclude,2009-09-30,ecclesia-dei,curia,Profile,de en es fr it pt,vatican.va,,"not a document (press, programme, index, member list)"
 review,2009-10-08,consecrated-life,curia,sequela christi,it,vatican.va,,dicastery document outside doctrine/worship
@@ -5938,7 +5901,7 @@ exclude,2009-11-18,evangelization,curia,assemblea plenaria,es,vatican.va,,"not a
 review,2009-12-15,legislative-texts,curia,omnium in mentem,it,vatican.va,,dicastery document outside doctrine/worship
 exclude,2009-12-30,benedict-xvi,letters,"Letter to the Archbishop of Vancouver on the occasion of the 21st Olympic Winter Games and the 10th Paralympic Winter Games (December 30, 2009)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2010-01-15,benedict-xvi,letters,"Letter confirming Cardinal Tarcisio Bertone as Secretary of State (January 15, 2010)",de en es fr it pt,vatican.va,,letter to a person or local church
-include,2010-01-15,cdf,curia,omaggio levada,it,vatican.va,,
+review,2010-01-15,cdf,curia,omaggio levada,it,vatican.va,,commentary on omaggio
 review,2010-01-16,benedict-xvi,letters,"Letter to H.E. Mr. René Préval, President of the Republic of Haiti, following the earthquake which devasted the country (January 16, 2010)",en es fr it pt,vatican.va,,letter to a person or local church
 review,2010-01-16,benedict-xvi,letters,"Letter to H.E. Msgr. Louis Kébreau, Archbishop of Cap-Haïtien and President of the Episcopal Conference of Haiti, following the earthquake which devasted the country (January 16, 2010)",en es fr it pt,vatican.va,,letter to a person or local church
 review,2010-01-22,benedict-xvi,letters,"Letter to His Holiness Irinej, newly-elected Patriarch of the Serbian Orthodox Church (January 22, 2010)",en es fr it pt,vatican.va,,letter to a person or local church
@@ -5950,7 +5913,7 @@ include,2010-03-19,benedict-xvi,letters,"Pastoral Letter of His Holiness Benedic
 exclude,2010-03-20,benedict-xvi,letters,"Letter to Cardinal Stanisław Ryłko on the occasion of the 10th International Youth Forum (March 20, 2010)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2010-04-28,worship,curia,"Press release of the Vox Clara Committee regarding matters of liturgical translations of Latin liturgical texts into the English language (April 28-29, 2010)",en,vatican.va,,
 include,2010-04-29,cdf,curia,"""The Urgency of a New Apologetics for the Church in the 21st Century"" by Cardinal William Levada (April 29, 2010)",en,vatican.va,,
-include,2010-05-21,cdf,curia,rescriptum ex audientia,la,vatican.va,,
+review,2010-05-21,cdf,curia,rescriptum ex audientia,la pt,vatican.va veritatis.com.br,,commentary on rescriptum
 exclude,2010-05-24,evangelization,curia,English,en es fr it pt,vatican.va,,"not a document (press, programme, index, member list)"
 exclude,2010-06-01,benedict-xvi,letters,"Letter to Cardinal Tarcisio Bertone on the occasion of the 50th anniversary of his priestly ordination (June 1, 2010)",de en es fr it la pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,2010-08-10,benedict-xvi,letters,"Letter to Card. Stanisław Ryłko on the occasion of the Congress of Asian Catholic Laity [31 August - 5 September 2010] (August 10, 2010)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -5962,7 +5925,7 @@ exclude,2010-09-21,benedict-xvi,letters,"Letter to Mr Jonathan Goodluck, Preside
 include,2010-09-21,benedict-xvi,motu_proprio,Ubicumque et semper,pt,veritatis.com.br,,
 include,2010-09-30,benedict-xvi,apost_exhortations,Verbum Domini: Post-Synodal Apostolic Exhortation on the Word of God in the Life and Mission of the Church (30 September 2010),de en es fr it la pt ru,vatican.va veritatis.com.br,,
 include,2010-10-02,cdf,curia,Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum,cs de en es fr it pt,vatican.va,,
-include,2010-10-02,cdf,curia,opus angelorum articolo,it,vatican.va,,
+review,2010-10-02,cdf,curia,opus angelorum articolo,it,vatican.va,,commentary on opus-angelorum
 exclude,2010-10-12,benedict-xvi,letters,Messaggio al Cardinale Angelo Bagnasco in occasione della 46ª Settimana Sociale dei Cattolici Italiani (12 ottobre 2010),it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2010-10-18,benedict-xvi,letters,"Letter to Seminarians (October 18, 2010)",de en es fr it pl pt,vatican.va,,letter to the whole Church or a state of life
 exclude,2010-11-01,benedict-xvi,letters,"Message Lumen caritatis on the occasion of the 400th anniversary of the canonization of St Charles Borromeo (November 1, 2010)",de en it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -5983,8 +5946,7 @@ include,2010-12-21,cdf,curia,"Note on the banalization of sexuality. Regarding c
 include,2010-12-30,benedict-xvi,motu_proprio,"Apostolic Letter issued ""Motu Proprio"" for the prevention and countering of illegal activities in the area of monetary and financial dealings (December 30, 2010)",en es it pt,vatican.va veritatis.com.br,,
 review,2011-01-10,saints,curia,prolusione amato,it,vatican.va,,dicastery document outside doctrine/worship
 include,2011-01-15,cdf,curia,Decree of Erection of the Personal Ordinariate of Our Lady of Walsingham,en it,vatican.va,,
-review,2011-01-28,catholic-education,curia,"Decree on the Reform of Ecclesiastical Studies of Philosophy (January 28, 2011)",de en es fr it,vatican.va,,dicastery document outside doctrine/worship
-include,2011-01-28,curia-unknown,curia,O testemunho cristão em um mundo multi-religioso: recomendações de conduta,pt,veritatis.com.br,,
+include,2011-01-28,catholic-education,curia,"Decree on the Reform of Ecclesiastical Studies of Philosophy (January 28, 2011)",de en es fr it pt,vatican.va veritatis.com.br,,
 review,2011-01-29,health-care,curia,lebbra,it,vatican.va,,dicastery document outside doctrine/worship
 include,2011-02-02,benedict-xvi,letters,"Prefazione scritta da Benedetto XVI a Youcat, sussidio al Catechismo della Chiesa Cattolica destinato ai giovani (2 febbraio 2011)",de es fr it pt,vatican.va,,letter to the whole Church or a state of life
 include,2011-02-02,worship,curia,"Press release of the Vox Clara Committee regarding matters of liturgical translations of Latin liturgical texts into the English language (February 2-3, 2011)",en,vatican.va,,
@@ -6018,20 +5980,20 @@ include,2011-11-21,cdf,curia,"""Celibacy and Priesthood"" (Archdiocese of Belo H
 include,2011-11-23,cdf,curia,"""Concluding Marian Prayer Service - Reflection "" (Belo Horizonte, 23 November 2011)",en,vatican.va,,
 include,2011-11-23,cdf,curia,"""Considerations on the Delicta Graviora"" (Belo Horizonte, 23 November 2011)",en,vatican.va,,
 include,2011-11-29,cdf-cti,curia,"Theology Today: Perspectives, Principles and Criteria",cs de en es fr hu it ko nl pl pt ru zh-cn zh-tw,vatican.va,,
-include,2011-11-29,cdf-cti,curia,teologia oggi bonino,es fr,vatican.va,,
+review,2011-11-29,cdf-cti,curia,teologia oggi bonino,es fr,vatican.va,,commentary on teologia-oggi
 include,2011-12-14,cdf,curia,"Preface (Card. William Levada, Prefect)",de en es fr hu it nl pl pt,vatican.va,,
 include,2012,cdf-cti,curia,theologie vandaag teologia oggi,nl,vatican.va,,
-include,2012-01-01,cdf,curia,Decree of Erection of the Personal Ordinariate of the Chair of Saint Peter,en es fr it pt,vatican.va,,
-include,2012-01-05,cdf,curia,Communiqué on the Note of the Congregation for the Doctrine of the Faith with pastoral recommendations for the Year of Faith,de en es fr it,vatican.va,,
-include,2012-01-06,cdf,curia,Note with pastoral recommendations for the Year of Faith,de en es fr it pl pt,vatican.va,,
+include,2012-01-01,cdf,curia,Decree of Erection of the Personal Ordinariate of the Chair of Saint Peter,en es fr it pt,vatican.va veritatis.com.br,,
+review,2012-01-05,cdf,curia,Communiqué on the Note of the Congregation for the Doctrine of the Faith with pastoral recommendations for the Year of Faith,de en es fr it,vatican.va,,commentary on nota-anno-fede
+include,2012-01-06,cdf,curia,Note with pastoral recommendations for the Year of Faith,de en es fr it pl pt,vatican.va veritatis.com.br,,
 review,2012-01-09,saints,curia,prolusione amato,it,vatican.va,,dicastery document outside doctrine/worship
-include,2012-01-27,cdf,curia,omaggio levada,it,vatican.va,,
+review,2012-01-27,cdf,curia,omaggio levada,it,vatican.va,,commentary on omaggio
 review,2012-01-27,health-care,curia,"Message by H.E. Msgr. Zygmunt Zimowski for the 59th World Leprosy Day (January 27, 2012)",en fr,vatican.va,,dicastery document outside doctrine/worship
 review,2012-01-29,health-care,curia,lebbra,it,vatican.va,,dicastery document outside doctrine/worship
 include,2012-02-06,cdf,curia,"Address by H.Em. Card. William Joseph Levada at the Symposium ""The Sexual Abuse of Minors: A Multi-faceted Response to the Challenge "" [February 6-9, 2012] (February 6, 2012)",en es fr it,vatican.va,,
 review,2012-03-03,benedict-xvi,letters,"Letter to Cardinal Laurent Monsengwo Pasinya, Preacher of the Lenten Spiritual Exercises (March 3, 2012)",en es fr it pt,vatican.va,,letter to a person or local church
 include,2012-03-08,cdf-cti,curia,Christianity and the World Religions,de en es fr hu it pl ro,vatican.va,,
-include,2012-03-08,cdf-cti,curia,"Publication of the document Theology Today: Perspectives, Principles and Criteria (Press Release, March 8, 2012)",de en es fr hu it,vatican.va,,
+review,2012-03-08,cdf-cti,curia,"Publication of the document Theology Today: Perspectives, Principles and Criteria (Press Release, March 8, 2012)",de en es fr hu it,vatican.va,,commentary on comunicato
 include,2012-03-30,cdf,curia,"Notification on the book Just love. A Framework for Christian Sexual Ethics by Sr. Margaret A. Farley, R.S.M.",de en es fr it pt,vatican.va,,
 exclude,2012-04-01,benedict-xvi,letters,"Letter to the Bishop of Assisi-Nocera Umbra-Gualdo Tadino on the occasion of the""Year of St. Clare"" (April 1, 2012)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2012-04-14,benedict-xvi,letters,"Letter to the President of the German Episcopal Conference (April 14, 2012)",de en es fr it pl pt,vatican.va,,letter to a person or local church
@@ -6055,7 +6017,7 @@ include,2012-11-10,benedict-xvi,motu_proprio,"Apostolic Letter issued ""Motu Pro
 include,2012-11-11,benedict-xvi,motu_proprio,"Apostolic Letter issued ""Motu Proprio"" Intima Ecclesiae natura on the Service of Charity (11 November 2012)",de en es fr it la pl pt,vatican.va veritatis.com.br,,
 review,2012-12-03,justice-peace,curia,xxvii assemblea turkson,it,vatican.va,,dicastery document outside doctrine/worship
 exclude,2012-12-06,benedict-xvi,letters,"Letter to His Eminence Spyridon, Metropolitan of Heliopolis, on the occasion of the death of H.B. Patriarch Ignace IV Hazim (6 December 2012)",en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
-include,2013,cdf-cti,curia,teologia oggi santedi,es fr,vatican.va,,
+review,2013,cdf-cti,curia,teologia oggi santedi,es fr,vatican.va,,commentary on teologia-oggi
 review,2013-01-14,saints,curia,prolusione amato,it,vatican.va,,dicastery document outside doctrine/worship
 include,2013-01-16,benedict-xvi,motu_proprio,"Apostolic Letter issued ""Motu Proprio"" “Fides per Doctrinam” whereby the Apostolic Constitution “Pastor Bonus” is modified and competence for catechesis is transferred from the Congregation for the Clergy to the Pontifical Council for Promoting the New Evangelization (16 January 2013)",en es fr it la pt,vatican.va,,
 include,2013-01-16,benedict-xvi,motu_proprio,"Apostolic Letter issued ""Motu Proprio"" “Ministrorum Institutio” whereby the Apostolic Constitution Pastor Bonus is modified and responsibility for seminaries is transferred from the Congregation for Catholic Education to the Congregation for the Clergy (16 January 2013)",en es fr it la pt,vatican.va,,
@@ -6093,7 +6055,7 @@ include,2013-11-24,francis,apost_exhortations,"""Evangelii Gaudium"": Apostolic 
 review,2013-12-17,francis,letters,"Letter to participants in the 13th Meeting of the Basic Ecclesial Communities in Brazil [Diocese of Crato, 7-11 January 2014] (17 December 2013)",en es fr it pt,vatican.va,,letter to a person or local church
 exclude,2013-12-17,francis,letters,"Letter to the Minister General of the Order of the Most Holy Trinity on the 800th Anniversary of the Death of its Founder, Saint John of Matha (17 December 2013)",de en es it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2014-01-12,francis,letters,Letter to those who will be created Cardinals at the upcoming Consistory of 22 February (12 January 2014),de en es fr it pt,vatican.va,,letter to a person or local church
-include,2014-01-16,cdf-cti,curia,"Press release. Publication of the document : God the Trinity and the unity of humanity: Christian monotheism and its opposition to violence, by the International Theological Commission (16 January 2014",en es fr hu it pl,vatican.va,,
+review,2014-01-16,cdf-cti,curia,"Press release. Publication of the document : God the Trinity and the unity of humanity: Christian monotheism and its opposition to violence, by the International Theological Commission (16 January 2014",en es fr hu it pl,vatican.va,,commentary on comunicato
 include,2014-01-17,cdf-cti,curia,God the Trinity and the Unity of Humanity: Christian Monotheism and its Opposition to Violence,de en es fr hu it pl pt ru zh,vatican.va,,
 include,2014-01-17,cdf-cti,curia,bonino monoteismo,fr hu it,vatican.va,,
 include,2014-01-17,cdf-cti,curia,emery monoteismo,fr hu it,vatican.va,,
@@ -6115,13 +6077,13 @@ include,2014-06-10,cdf-cti,curia,Sensus fidei in the life of the Church,de en es
 include,2014-06-10,cdf-cti,curia,bonino sensus fidei,fr it pt,vatican.va,,
 include,2014-06-10,cdf-cti,curia,cerf sensus fidei,fr,vatican.va,,
 include,2014-06-13,worship,curia,guida grandi celebrazioni,es it,vatican.va,,
-include,2014-06-25,cdf-cti,curia,Vital Resource,en it,vatican.va,,
+review,2014-06-25,cdf-cti,curia,Vital Resource,en it,vatican.va,,commentary on mcpartlan
 include,2014-06-29,worship,curia,Homiletic Directory (29 June 2014),en it,vatican.va,,
 include,2014-06-29,worship,curia,direttorio omiletico_zh,zh-cn zh-tw,vatican.va,,
 include,2014-07-08,francis,motu_proprio,Apostolic Letter issued Motu Proprio - Transferral of the Ordinary Section of the Administration of the Patrimony of the Apostolic See to the Secretariat for the Economy (8 July 2014),en es fr it pt,vatican.va,,
 review,2014-08-09,francis,letters,Letter of the Holy Father to the Secretary General of the United Nations Organization concerning the dramatic situation in Northern Iraq (9 August 2014),de en es fr it pt,vatican.va,,letter to a person or local church
 include,2014-09-12,worship,curia,testi liturgici gxxiii,es it la,vatican.va,,
-include,2014-09-23,cdf-cti,curia,Press release (23 September 2014),en es fr it pt,vatican.va,,
+review,2014-09-23,cdf-cti,curia,Press release (23 September 2014),en es fr it pt,vatican.va,,commentary on comunicato
 exclude,2014-09-27,francis,letters,"Lettera di Papa Francesco a S.E. Mons. Javier Echevarría, Prelato dell’ Opus Dei, in occasione della beatificazione di Álvaro del Portillo (16 giugno 2014)",es it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,2014-11-06,francis,letters,"Letter of the Holy Father to the Prime Minister of Australia on the occasion of the G20 Summit [Brisbane, 15-16 November 2014] (6 November 2014)",de en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2014-11-08,francis,letters,"Letter of the Holy Father to participants in the Extraordinary General Assembly of the Italian Episcopal Conference [Assisi, 10-13 November 2014] (8 November 2014)",en es it pt,vatican.va,,letter to a person or local church
@@ -6175,7 +6137,7 @@ exclude,2016-04-10,francis,letters,"Lettera del Santo Padre - firmata dal Segret
 review,2016-04-21,justice-peace,curia,"Statement of the Holy See by His Eminence Card. Peter K. A. Turkson, President of the Pontifical Council for Justine and Peace, at the High-Level Thematic Debate on Achieving the Sustainable Development Goals (New York, 21 April 2016)",en,vatican.va,,dicastery document outside doctrine/worship
 exclude,2016-05-10,francis,letters,Letter of the Holy Father on the occasion of the Day of Friendship between Copts and Catholics (10 May 2016),en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2016-05-16,cdf,curia,"Letter Iuvenescit Ecclesia to the Bishops of the Catholic Church Regarding the Relationship Between Hierarchical and Charismatic Gifts in the Life and the Mission of the Church, 15 May 2016",de en es fr it sl uk,vatican.va,,
-include,2016-05-16,cdf,curia,iuvenescit ecclesia_zh,zh-cn zh-tw,vatican.va,,
+review,2016-05-16,cdf,curia,iuvenescit ecclesia_zh,zh-cn zh-tw,vatican.va,,commentary on iuvenescit-ecclesia
 include,2016-05-31,francis,apost_letters,Lettera Apostolica “De concordia inter Codices” in forma di 'Motu Proprio' con la quale vengono mutate alcune norme del Codice di Diritto Canonico (31 maggio 2016),es it la,vatican.va,,
 include,2016-05-31,francis,motu_proprio,Lettera Apostolica “De concordia inter Codices” in forma di 'Motu Proprio' con la quale vengono mutate alcune norme del Codice di Diritto Canonico (31 maggio 2016),es it la,vatican.va,,
 include,2016-06-04,francis,motu_proprio,Apostolic Letter issued 'Motu Proprio' As a Loving Mother (4 June 2016),en it,vatican.va,,
@@ -6187,7 +6149,7 @@ include,2016-07-04,francis,apost_letters,Apostolic Letter issued Motu Proprio I 
 review,2016-07-08,francis,letters,Letter of the Holy Father for the Bicentennial of Independence of the Argentine Republic (8 July 2016),en es fr it pt,vatican.va,,letter to a person or local church
 exclude,2016-08-01,francis,letters,Lettera del Santo Padre al Presidente della Conferenza Episcopale Argentina in occasione della Festa di San Cayetano (1° agosto 2016),es it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2016-08-15,cdf,curia,Instruction Ad resurgendum cum Christo regarding the burial of the deceasedand the conservation of the ashes in the case of cremation,de en es fr it pl pt uk vi,vatican.va,,
-include,2016-08-15,cdf,curia,ad resurgendum cum christo_zh,zh-cn zh-tw,vatican.va,,
+review,2016-08-15,cdf,curia,ad resurgendum cum christo_zh,zh-cn zh-tw,vatican.va,,commentary on ad-resurgendum-cum-christo
 include,2016-08-15,francis,apost_letters,"Apostolic Letter issued 'Motu Proprio' instituting the Dicastery for the Laity, the Family and Life (15 August 2016)",en fr it la pt,vatican.va,,
 include,2016-08-15,francis,motu_proprio,"Apostolic Letter issued 'Motu Proprio' instituting the Dicastery for the Laity, the Family and Life (15 August 2016)",en fr it la pt,vatican.va,,
 exclude,2016-08-15,francis,letters,Chirograph of His Holiness Pope Francis by which he names H.E. Msgr. Vincenzo Paglia as the Grand Chancellor of the Pontifical Institute “John Paul II” for Studies on Marriage and Family and President of the Pontifical Academy for Life (15 August 2016),en it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -6234,7 +6196,7 @@ exclude,2017-11-23,francis,letters,"Letter of the Holy Father Francis to the par
 include,2017-12-08,francis,apost_constitutions,Apostolic Constitution Veritatis gaudium on Ecclesiastical Universities and Faculties (8 December 2017),de en es fr it la lv pl pt,vatican.va,,
 review,2017-12-08,saints,curia,"Instruction ""Relics in the Church: Authenticity and Conservation"" (8 December 2017)",de en es fr it,vatican.va,,dicastery document outside doctrine/worship
 include,2018-01-06,cdf,curia,Oeconomicae et pecuniariae quaestiones . Considerations for an Ethical Discernment Regarding some aspects of the present Economic-Financial System (6 January 2018),de en es fr it pt,vatican.va,,
-include,2018-01-06,cdf,curia,oeconomicae et pecuniariae_zh,zh-cn zh-tw,vatican.va,,
+review,2018-01-06,cdf,curia,oeconomicae et pecuniariae_zh,zh-cn zh-tw,vatican.va,,commentary on oeconomicae-et-pecuniariae
 exclude,2018-01-10,francis,letters,"Letter sent by the Holy Father to the Grand Imam of Al-Azhar, on the occasion of the International Conference in support of Jerusalem (10 January 2018)",en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,2018-01-25,francis,letters,Letter sent by the Holy Father to the Grand Chancellor of the Pontifical John Paul II Theological Institute for Marriage and Family Sciences for the inauguration of the “Gaudium et spes” Chair of the same institute (25 January 2018),en it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2018-01-26,cdf,curia,omaggio,it,vatican.va,,
@@ -6317,7 +6279,7 @@ include,2020-02-22,cdf,curia,Note for the presentation of the Decree Quo magis,d
 include,2020-03-03,cdf-cti,curia,"The 
 			Reciprocity between Faith and Sacraments in the Sacramental Economy",de en es fr it pt,vatican.va,,
 include,2020-03-13,francis,motu_proprio,Promulgazione della Legge N. CCCLI sull’ordinamento giudiziario dello Stato della Città del Vaticano (16 marzo 2020),it,vatican.va,,
-include,2020-03-19,cdf-cti,curia,liberta religiosa prades lopez,es,vatican.va,,
+review,2020-03-19,cdf-cti,curia,liberta religiosa prades lopez,es,vatican.va,,commentary on liberta-religiosa
 exclude,2020-03-19,penitentiary,curia,Decree of the Apostolic Penitentiary on the granting of special Indulgences to the faithful in the current pandemic (19 March 2020),de en it pt,vatican.va,,"not a document (press, programme, index, member list)"
 review,2020-03-19,penitentiary,curia,decreto speciali indulgenze_zh,zh-cn zh-tw,vatican.va,,dicastery document outside doctrine/worship
 review,2020-03-19,penitentiary,curia,nota speciali indulgenze_zh,zh-cn zh-tw,vatican.va,,dicastery document outside doctrine/worship
@@ -6336,12 +6298,12 @@ include,2020-05-19,francis,apost_letters,"Norme e Tutela giurisdizionale sulla t
 exclude,2020-05-24,francis,letters,Letter of the Holy Father to the Cardinal Kurt Koch for the twenty-fifth anniversary of Saint John Paul II’s Encyclical Letter Ut Unum Sint (24 May 2020),de en es fr it,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2020-05-31,francis,letters,Letter of the Holy Father to the Priests of the Diocese of Rome (31 May 2020),de en es fr it pt,vatican.va,,letter to the whole Church or a state of life
 exclude,2020-06-05,francis,letters,Letter of the Holy Father to the President of the Republic of Colombia to mark the World Environment Day (5 June 2020),en es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
-include,2020-06-24,cdf,curia,“Responsum” of the Congregation for the Doctrine of the Faith to questions proposed on the validity of Baptism conferred with the formula «We baptize you in the name of the Father and of the Son and of the Holy Spirit» (24 June 2020),de en es fr it pt,vatican.va,,
+review,2020-06-24,cdf,curia,“Responsum” of the Congregation for the Doctrine of the Faith to questions proposed on the validity of Baptism conferred with the formula «We baptize you in the name of the Father and of the Son and of the Holy Spirit» (24 June 2020),de en es fr it pt,vatican.va,,commentary on responsum
 review,2020-06-29,clergy,curia,istruzione conversione pastorale,vi,vatican.va,,dicastery document outside doctrine/worship
 review,2020-07-02,francis,letters,"Letter of the Holy Father Francis to His Holiness Benedict XVI, Pope Emeritus, for the death of his brother, Msgr. Georg Ratzinger (2 July 2020)",de en es it pt,vatican.va,,letter to a person or local church
 include,2020-07-14,cdf,curia,English,de en es fr it pl pt,vatican.va,,
-include,2020-07-14,cdf,curia,samaritanus bonus_zh,zh-cn zh-tw,vatican.va,,
-include,2020-07-16,cdf,curia,Presentation of the Vademecum on certain points of procedure in treating cases of sexual abuse of minors committed by clerics (16 July 2020),en es it,vatican.va,,
+review,2020-07-14,cdf,curia,samaritanus bonus_zh,zh-cn zh-tw,vatican.va,,commentary on samaritanus-bonus
+review,2020-07-16,cdf,curia,Presentation of the Vademecum on certain points of procedure in treating cases of sexual abuse of minors committed by clerics (16 July 2020),en es it,vatican.va,,commentary on vademecum-casi-abuso
 include,2020-07-16,cdf,curia,Vademecum on certain points of procedure in treating cases of sexual abuse of minors committed by clerics (16 July 2020),de en es fr it pl pt,vatican.va,,
 exclude,2020-07-16,penitentiary,curia,"Decree by which the Apostolic Penitentiary, by special mandate of His Holiness Pope Francis, extends the Loreto Jubilee until 10 December 2021 (16 July 2020)",en fr it la pt,vatican.va,,"not a document (press, programme, index, member list)"
 review,2020-07-29,francis,letters,"Lettera del Santo Padre Francesco al Reverendo Padre Dariusz Wilk, C.S.M.A., Superiore Generale della Congregazione di San Michele Arcangelo (29 luglio 2020)",es fr it pt,vatican.va,,letter to a person or local church
@@ -6376,8 +6338,8 @@ include,2021-02-17,worship,curia,"Note to Bishops and Episcopal
 					February 2021)",de en es fr it pt,vatican.va,,
 review,2021-02-20,francis,letters,Letter of the Holy Father to the Cardinal Vicar for the diocese of Rome for the cultural valorisation of the Lateran Palace (20 February 2021),en es fr it pt,vatican.va,,letter to a person or local church
 include,2021-02-22,cdf,curia,Article of Commentary on the Responsum ad dubium,de en es fr it pl pt,vatican.va,,
-include,2021-02-22,cdf,curia,"Responsum of the Congregation for the Doctrine of the Faith 
-to a dubium regarding the blessing of the unions of persons of the same sex (22 February 2021)",de en es fr it pl pt,vatican.va,,
+review,2021-02-22,cdf,curia,"Responsum of the Congregation for the Doctrine of the Faith 
+to a dubium regarding the blessing of the unions of persons of the same sex (22 February 2021)",de en es fr it pl pt,vatican.va,,commentary on responsum
 include,2021-03-03,cdf-cti,curia,bilbao economiasacramentale,it,vatican.va,,
 include,2021-03-03,cdf-cti,curia,bonino matrimonio,it,vatican.va,,
 include,2021-03-23,francis,apost_letters,"Apostolic Letter in the form of a ""Motu Proprio"" of Pope Francis regarding the containment of expenditures for employees of the Holy See, the Governorate of Vatican City State, and other connected Entities (23 March 2021)",en es it pt,vatican.va,,
@@ -6410,7 +6372,7 @@ review,2021-10-07,francis,letters,"Letter of the Holy Father Francis to the Gran
 include,2021-10-11,cdf,curia,"Norms on 
 				Delicts Reserved to the 
 				Congregation for the Doctrine of the Faith (11 October 2021)",de en es fr it la pl pt,vatican.va,,
-include,2021-10-11,cdf,curia,rescriptum delittiriservati cfaith,la,vatican.va,,
+review,2021-10-11,cdf,curia,rescriptum delittiriservati cfaith,la,vatican.va,,commentary on rescriptum
 exclude,2021-10-22,francis,letters,Letter of the Holy Father Francis to His Holiness Bartholomew on the occasion of the 30th anniversary of his election as Archbishop of Constantinople and Ecumenical Patriarch (22 October 2021),en es it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2021-10-22,worship,curia,Decree giving effect to the dispositions of can. 838 of the Code of Canon Law (22 October 2021),de en es fr it la,vatican.va,,
 review,2021-10-25,francis,letters,"Letter of the Holy Father to the Special Delegate to the Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta (SMOM) (25 October 2021)",en es it,vatican.va,,letter to a person or local church
@@ -6505,7 +6467,7 @@ to Divorced People Living in a New Union (25 September 2023)",de en es fr hr it 
 include,2023-10-02,cdf-cti,curia,lettera presidente,it,vatican.va,,
 include,2023-10-04,francis,apost_exhortations,"""Laudate Deum"": Apostolic Exhortation to all people of good will on the climate crisis (4 October 2023)",ar be cs de en es fr it la pl pt sl uk zh-cn zh-tw,vatican.va,,
 include,2023-10-15,francis,apost_exhortations,“C’est la confiance”: Apostolic Exhortation of the Holy Father on confidence in the merciful love of God for the 150th anniversary of the birth of Saint Teresa of the Child Jesus and the Holy Face (15 October 2023),ar be de en es fr it la pl pt sl,vatican.va,,
-include,2023-10-21,cdf,curia,rescriptum ex audientia ssmi,hr it,vatican.va,,
+review,2023-10-21,cdf,curia,rescriptum ex audientia ssmi,hr it,vatican.va,,commentary on rescriptum
 include,2023-11-01,francis,apost_letters,"Lettera Apostolica in forma di «Motu Proprio» ""Ad theologiam promovendam"", con la quale vengono approvati nuovi statuti della Pontificia Accademia di Teologia (1° novembre 2023)",it la,vatican.va,,
 exclude,2023-11-09,francis,letters,"Lettera del Santo Padre ai Membri della Famiglia Francescana in occasione dell’VIII Centenario dell’approvazione della ""Regola bollata"" (1223 - 2023) (9 novembre 2023)",de es fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2023-11-13,cdf,curia,"The Request of His Excellency, the Most Rev. Julito Cortes,
@@ -6521,9 +6483,9 @@ exclude,2023-12-07,francis,letters,Letter of the Holy Father Francis for the 70t
 include,2023-12-09,cdf,curia,"Reply to His Eminence, Cardinal Matteo Maria Zuppi, Archbishop of Bologna, Regarding Two Questions About the Preservation of the Ashes of the Deceased Following Cremation (9 December 2023)",en hr it,vatican.va,,
 include,2023-12-13,cdf,curia,"Letter to His Excellency, the Most Reverend Ramón Alfredo de la Cruz Baldera, Bishop of the Diocese of San Francisco de Macorís (Dominican Republic) Regarding Access to Eucharistic Communion for Single Mothers (13 December 2023)",en es hr it,vatican.va,,
 include,2023-12-18,cdf,curia,Declaration Fiducia Supplicans On the Pastoral Meaning of Blessings (18 December 2023),de en es fr hr it pl vi,vatican.va,,
-include,2023-12-18,cdf,curia,fiducia supplicans_zh,zh-cn zh-tw,vatican.va,,
+review,2023-12-18,cdf,curia,fiducia supplicans_zh,zh-cn zh-tw,vatican.va,,commentary on fiducia-supplicans
 include,2024-01-04,cdf,curia,Press release concerning the reception of Fiducia supplicans (4 January 2024),de en es fr it pl pt,vatican.va,,
-include,2024-01-04,cdf,curia,comunicato fiducia supplicans_zh,zh-cn zh-tw,vatican.va,,
+review,2024-01-04,cdf,curia,comunicato fiducia supplicans_zh,zh-cn zh-tw,vatican.va,,commentary on comunicato-fiducia-supplicans
 review,2024-01-09,francis,letters,Letter of Confirmation of the Election of the Major Archbishop of Ernakulam-Angamaly of the Syro-Malabars (9 January 2024),en it,vatican.va,,letter to a person or local church
 include,2024-01-16,francis,apost_letters,Apostolic Letter issued “Motu Proprio” of the Supreme Pontiff Francis on the limits and modalities of ordinary administration (16 January 2024),en es it,vatican.va,,
 include,2024-01-16,francis,motu_proprio,Decree of the Supreme Pontiff Francis regarding the Publication of Regulatory Measures in Vatican City State (16 January 2024),en it,vatican.va,,
@@ -6545,7 +6507,7 @@ include,2024-03-27,francis,letters,Letter of the Holy Father to the Catholics of
 include,2024-03-27,francis,apost_letters,Lettera Apostolica in forma di «Motu Proprio» su alcune modifiche relative all'ordinamento giudiziario del Vaticano (27 marzo 2024),it,vatican.va,,
 include,2024-04-02,cdf,curia,"Declaration Dignitas Infinita on Human Dignity (2 April 
 				2024)",de en es fr it pl pt,vatican.va,,
-include,2024-04-02,cdf,curia,dignitas infinita_zh,zh-cn zh-tw,vatican.va,,
+review,2024-04-02,cdf,curia,dignitas infinita_zh,zh-cn zh-tw,vatican.va,,commentary on dignitas-infinita
 include,2024-04-08,cdf,curia,presentazione dignitas infinita,it pt,vatican.va,,
 exclude,2024-05-02,francis,letters,Letter of His Holiness Pope Francis to Parish Priests (2 May 2024),ar de en es fr it pl pt zh-cn zh-tw,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2024-05-09,francis,bulls,Spes non confundit - Bull of Indiction of the Ordinary Jubilee of the Year 2025 (9 May 2024),ar cs de en es fr hr it la mt pl pt sk sl uk vi zh-cn zh-tw,vatican.va,,
@@ -6555,7 +6517,7 @@ exclude,2024-05-13,penitentiary,curia,"Decree on the granting of the Indulgence 
 exclude,2024-05-13,penitentiary,curia,norme indulgenza giubileo2025_zh,zh-cn zh-tw,vatican.va,,"not a document (press, programme, index, member list)"
 include,2024-05-17,cdf,curia,"Norms for proceeding in the Discernment of 
 				alleged Supernatural Phenomena (17 May 2024)",de en es fr hr it pl pt,vatican.va,,
-include,2024-05-17,cdf,curia,norme fenomeni soprannaturali_zh,zh-cn zh-tw,vatican.va,,
+review,2024-05-17,cdf,curia,norme fenomeni soprannaturali_zh,zh-cn zh-tw,vatican.va,,commentary on norme-fenomeni-soprannaturali
 include,2024-05-18,francis,apost_letters,Apostolic Letter issued “Motu Proprio” Fide incensus (18 May 2024),en hr it la,vatican.va,,
 exclude,2024-06-04,francis,letters,Letter of the Holy Father to mark the 80th anniversary of the Vow to Mary “Salus Populi Romani” (4 June 2024),en fr it pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2024-06-21,francis,apost_letters,"Apostolic Letter issued “Motu Proprio” ""Fratello Sole"" by the Supreme Pontiff Francis (21 June 2024)",en es it,vatican.va,,
@@ -6582,7 +6544,7 @@ include,2024-08-01,cdf,curia,The love of Mary at Vailankanni (India). Letter to 
 include,2024-08-22,cdf,curia,«A light in Spain». Letter to the Archbishop of Mérida-Badajoz (Spain) about the spiritual experience of Chandavila (22 August 2024),en es fr it pt,vatican.va,,
 include,2024-08-22,cdf,curia,“Our Lady of Mercy Leads us to the Heart of Christ.” Letter to the Archbishop of Bourges (France) on the Spiritual Experience of Estelle Faguette (22 August 2024),en es fr it,vatican.va,,
 review,2024-09-16,francis,letters,Letter of the Holy Father to the College of Cardinals (16 September 2024),en fr it pt,vatican.va,,letter to a person or local church
-include,2024-09-19,cdf,curia,nota esperienza medjugorje_zh,zh-cn zh-tw,vatican.va,,
+review,2024-09-19,cdf,curia,nota esperienza medjugorje_zh,zh-cn zh-tw,vatican.va,,commentary on nota-esperienza-medjugorje
 include,2024-09-19,cdf,curia,presentazione nota esperienza medjugorje,it,vatican.va,,
 include,2024-09-19,cdf,curia,“The Queen of Peace”: Note About the Spiritual Experience Connected with Medjugorje (19 September 2024),de en es fr hr it pl pt,vatican.va,,
 include,2024-09-28,cdf,curia,fernandez ordinazione kennedy curbelie,fr it,vatican.va,,
@@ -6617,7 +6579,7 @@ include,2025-03-21,cdf,curia,fernandez viva poesia,it,vatican.va,,
 exclude,2025-03-25,francis,letters,Chirograph of the Holy Father reforming the Pontifical Ecclesiastical Academy (25 March 2025),ar de en es fr it pl pt,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 include,2025-04-03,cdf-cti,curia,"Jesus Christ, Son of God, Savior: 1700th Anniversary of the 
 			Ecumenical Council of Nicaea (325-2025)",ar de en es fr it pt,vatican.va,,
-include,2025-04-03,cdf-cti,curia,"Press Release. Publication of the Document Jesus Christ, Son of God, Savior: 1700th Anniversary of the Ecumenical Council of Nicaea (325-2025) of the International Theological Commission (3 April 2025)",de en es fr it pl pt,vatican.va,,
+review,2025-04-03,cdf-cti,curia,"Press Release. Publication of the Document Jesus Christ, Son of God, Savior: 1700th Anniversary of the Ecumenical Council of Nicaea (325-2025) of the International Theological Commission (3 April 2025)",de en es fr it pl pt,vatican.va,,commentary on comunicato
 include,2025-04-09,cdf,curia,fernandez simposio sapienza,it,vatican.va,,
 include,2025-05-20,cdf,curia,fernandez giornata studio urbaniana,it pt,vatican.va,,
 include,2025-06-11,cdf,curia,A Tribute to Pope Francis: In the Footsteps of a Father. Cardinal Víctor Manuel Fernández in Dialogue with the Doctrinal Section of the Dicastery (11 June 2025),en es it pt,vatican.va,,
@@ -6644,7 +6606,7 @@ include,2025-11-23,leo-xiv,apost_letters,Apostolic Letter In Unitate Fidei on th
 include,2025-11-23,leo-xiv,motu_proprio,Regolamento Generale della Curia Romana (23 novembre 2025),it,vatican.va,,
 include,2025-11-23,leo-xiv,motu_proprio,Regolamento del Personale della Curia Romana (23 novembre 2025),it,vatican.va,,
 include,2025-11-25,cdf,curia,Una caro . In Praise of Monogamy. Doctrinal Note on the Value of Matrimony as an Exclusive Union and Mutual Belonging (25 November 2025),be de en es fr it pt,vatican.va,,
-include,2025-11-25,cdf,curia,una caro presentazione,it,vatican.va,,
+review,2025-11-25,cdf,curia,una caro presentazione,it,vatican.va,,commentary on una-caro
 include,2025-12-08,leo-xiv,apost_letters,Apostolic Letter A Fidelity that generates the Future of the Holy Father Leo XIV on the Sixtieth Anniversary of the Conciliar Decrees Optatam Totius and Presbyterorum Ordinis (8 December 2025),ar be de en es fr it pl pt,vatican.va,,
 include,2025-12-11,leo-xiv,apost_letters,Apostolic Letter of the Holy Father Pope Leo XIV on the importance of Archaeology on the occasion of the Centenary of the Pontifical Institute of Christian Archaeology (11 December 2025),ar be de en es fr it pl pt,vatican.va,,
 include,2025-12-12,cdf,curia,fernandez madre evangelizzazione,es it,vatican.va,,
@@ -6675,7 +6637,7 @@ exclude,2026-06-25,leo-xiv,letters,Chirograph of the Holy Father Approving the N
 exclude,2026-06-25,leo-xiv,letters,Letter of His Holiness Pope Leo XIV on the 250th Anniversary of the Founding of the United States of America (25 June 2026),en es fr it pl,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,2026-06-29,leo-xiv,letters,"Letter of the Holy Father to H.E. Card. Arthur Roche on the occasion of the Liturgical Conference at Mount Angel Abbey, Oregon, USA (29 June 2026)",de en it pl,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 review,2026-06-29,leo-xiv,letters,"Letter of the Holy Father to the Reverend Father Davide Pagliarani, Superior General of the Priestly Fraternity of Saint Pius X (29 June 2026)",ar de en es fr it pl pt,vatican.va,,letter to a person or local church
-include,2026-07-02,cdf,curia,decreto scomunica fsspx,it,vatican.va,,
+review,2026-07-02,cdf,curia,decreto scomunica fsspx,it,vatican.va,,commentary on scomunica
 include,2026-07-02,cdf,curia,nota esplicativa fsspx,it,vatican.va,,
 exclude,2026-07-02,leo-xiv,letters,"Letter of the Holy Father Leo XIV, signed by Cardinal Secretary of State Pietro Parolin, to the Bishop of Lodi to mark the 27th Columbanus Day [Lodi, 4-5 July 2026] (2 July 2026)",en es it pl,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
 exclude,2026-07-16,leo-xiv,letters,Letter of the Holy Father Leo XIV on the occasion of the 70th anniversary of the Conference of Major Superiors of Men in the United States (16 July 2026),de en es fr it pl,vatican.va,,"occasional letter (envoy, anniversary, greeting)"
@@ -6824,6 +6786,7 @@ include,,curia-unknown,curia,Parte prática,pt,veritatis.com.br,,
 include,,curia-unknown,curia,Pode-se blasfemar contra o Papa?,pt,veritatis.com.br,,
 include,,curia-unknown,curia,Referências,pt,veritatis.com.br,,
 include,,curia-unknown,curia,Relação entre a Igreja Católica e o Conselho Ecumênico das Igrejas,pt,veritatis.com.br,,
+include,,curia-unknown,curia,Sobre a Eucaristia,pt,veritatis.com.br,,
 include,,curia-unknown,curia,Só a Bíblia?,pt,veritatis.com.br,,
 include,,curia-unknown,curia,Todos os dogmas católicos!,pt,veritatis.com.br,,
 include,,curia-unknown,curia,Um convite da Pedra,pt,veritatis.com.br,,

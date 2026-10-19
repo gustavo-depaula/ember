@@ -134,6 +134,25 @@ def iso(day: str, month: str, year: str) -> str | None:
     return f"{year}-{mo:02d}-{int(day):02d}" if mo else None
 
 
+TYPE_WORDS = {
+    "enciclica", "encyclica", "encyclical", "lettera", "lettere", "apostolica", "apostoliche", "apostolic", "letter",
+    "esortazione", "exhortation", "costituzione", "constitutio", "motu", "proprio", "bolla", "bulla", "breve",
+    "epistola", "epistula", "allocuzione", "allocutio", "decreto", "decretum", "editto", "litterae", "apostolicae",
+    "dogmatica", "carta", "ap", "post", "sinodale", "chirografo", "messaggio", "omelia", "papa", "francesco",
+    "leone", "xiv", "const", "decl", "decree", "decl", "doc", "enc", "apl", "exh", "let", "mp", "ep",
+}
+
+
+def file_slug(name: str) -> str:
+    """'hf_l-xiii_enc_15051891_rerum-novarum' / '20150524-enciclica-laudato-si' /
+    'vat-ii_const_19651118_dei-verbum' / 'rc_con_cfaith_doc_20000806_dominus-iesus' → incipit slug."""
+    tail = re.sub(r"^.*?[_-](\d{8}|\d{4})[_-]", "", name) if re.search(r"[_-](\d{8}|\d{4})[_-]", name) else name
+    words = [w for w in re.split(r"[-_]+", tail.lower()) if w]
+    while words and words[0] in TYPE_WORDS:
+        words.pop(0)
+    return "-".join(words)
+
+
 class Inventory:
     def __init__(self) -> None:
         self.docs: dict[tuple[str, str], dict] = {}
@@ -145,7 +164,9 @@ class Inventory:
         if not self.fuzzy_on:
             return None
         if date and len(date) == 10:
-            hits = {id(d): d for (a, _), d in self.docs.items() if a == author and d["date"] == date}
+            # Veritatis files Curia documents without naming the dicastery: match on date alone.
+            hits = {id(d): d for (a, _), d in self.docs.items()
+                    if (a == author or author == "curia-unknown") and d["date"] == date}
             if len(hits) == 1:
                 return next(iter(hits.values()))
         first = incipit_key(incipit).split(" ")[0]
@@ -159,7 +180,7 @@ class Inventory:
 
     def add(self, *, author: str, incipit: str, date: str | None, type_: str | None,
             title: str, lang: str | None, url: str | None, source: str,
-            status: str, reason: str = "", key: str | None = None) -> dict:
+            status: str, reason: str = "", key: str | None = None, slug: str | None = None) -> dict:
         k = (author, key or incipit_key(incipit) or norm(title))
         d = self.docs.get(k) or self.fuzzy(author, incipit, date)
         if not d:
@@ -174,6 +195,8 @@ class Inventory:
             rank = {"include": 2, "review": 1, "exclude": 0}
             if rank[status] > rank[d["status"]]:
                 d["status"], d["reason"] = status, reason
+        if slug and not d.get("slug"):
+            d["slug"] = slug
         if lang and url:
             d["langs"].setdefault(lang, url)
         if lang and url and d.get("reason", "").startswith("cited in Denzinger; no full text"):
@@ -226,7 +249,7 @@ def from_vatican_papal(inv: Inventory) -> None:
         for lang, url in d["urls"].items():
             inv.add(author=author, incipit=incipit, date=d["date"], type_=d["type"], title=title,
                     lang=VATICAN_LANG.get(lang, lang), url=url, source="vatican.va",
-                    status=status, reason=reason, key=d["file"])
+                    status=status, reason=reason, key=d["file"], slug=file_slug(d["file"]))
 
 
 CURIA_CORE = {"vatican-ii", "cdf", "cdf-cti", "cdf-pcb", "worship"}
@@ -249,7 +272,7 @@ def from_vatican_archive(inv: Inventory) -> None:
         for lang, url in d["urls"].items():
             inv.add(author=d["body"], incipit=slug, date=date, type_="curia" if d["body"] != "vatican-ii" else "council",
                     title=title, lang=ARCHIVE_LANG.get(lang, lang), url=url, source="vatican.va",
-                    status=status, reason=reason, key=s)
+                    status=status, reason=reason, key=s, slug=file_slug(s))
 
 
 def from_vatican_old(inv: Inventory) -> None:
@@ -270,7 +293,7 @@ def from_vatican_old(inv: Inventory) -> None:
         inc = inc.replace("-", " ").replace("  i ", " ").strip()
         inv.add(author=author, incipit=inc, date=date, type_=typ, title=d["title"] if d["title"] not in ("LA", "IT") else inc.title(),
                 lang=d["lang"], url=d["url"], source="vatican.va", status="include",
-                key=f"{date}:{incipit_key(inc)}" if date else None)
+                key=f"{date}:{incipit_key(inc)}" if date else None, slug=inc.replace(" ", "-"))
 
 
 COUNCILS = [
@@ -551,6 +574,14 @@ def main() -> None:
             continue
         seen.add(id(d))
         docs.append(d)
+    # The CDF index also lists commentaries on its documents, filed under the
+    # document's slug plus the commentator ("dominus-iesus-amato").
+    slugs = {(d["author"], d.get("slug")) for d in docs if d.get("slug")}
+    for d in docs:
+        sl = d.get("slug") or ""
+        parent = next((p for a, p in slugs if a == d["author"] and p and sl.startswith(p + "-") and len(p) > 6), None)
+        if parent and d["status"] == "include" and d["author"].startswith("cdf"):
+            d["status"], d["reason"] = "review", f"commentary on {parent}"
     for c, name, year in COUNCILS:
         if not any(d["author"] == c for d in docs):
             docs.append({"author": c, "date": year, "type": "council", "title": name, "langs": {}, "sources": [],

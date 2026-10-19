@@ -1,0 +1,224 @@
+{
+ "cdf-dominus-iesus": {
+  "author": "cdf",
+  "date": "2000-08-06",
+  "imported": {
+   "en-US": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_en.html",
+   "nl": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_nl.pdf",
+   "fr": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_fr.html",
+   "de": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_ge.html",
+   "hu": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_hu.html",
+   "it": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_it.html",
+   "la": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_lt.html",
+   "pl": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_pl.html",
+   "pt-BR": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_po.html",
+   "sk": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_sk.html",
+   "es": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_sp.html"
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Dominus Iesus",
+   "nl": "Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus",
+   "fr": "Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus",
+   "de": "Erklärung Dominus Iesus über die Einzigkeit und die Heilsuniversalität Jesu Christi und der Kirche, 6. August 2000",
+   "hu": "DOMINUS IESUS - Hittani Kongregáció",
+   "it": "Dichiarazione sull’unicità e l’universalità salvifica di Gesù Cristo e della Chiesa – Dominus Iesus, 6 agosto 2000",
+   "la": "Dominus Iesus",
+   "pl": "Deklaracja o jedyności i powszechności zbawczej Jezusa Chrystusa i Kościoła",
+   "pt-BR": "Declaração Dominus Iesus, 6 de agosto de 2000",
+   "sk": "VYHLÁSENIE DOMINUS IESUS O JEDINEČNOSTI A VŠEOBECNOM SPÁSONOSNOM POSLANÍ JEŽIŠA KRISTA A CIRKVI",
+   "es": "Declaración Dominus Iesus, 6 de agosto de 2000"
+  },
+  "inventory_title": "Declaration on the unicity and salvific universality of Jesus Christ and the Church – Dominus Iesus"
+ },
+ "cornelius-ad-cyprianum": {
+  "author": "cornelius",
+  "date": "0251",
+  "imported": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Epistola_ad_Cyprianum,_LT.doc"
+  },
+  "skipped": {},
+  "titles": {
+   "la": "Epistola ad Cyprianum"
+  },
+  "inventory_title": "Epistola ad Cyprianum"
+ },
+ "francis-laudato-si": {
+  "author": "francis",
+  "date": "2015-05-24",
+  "imported": {
+   "en-US": "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "ar": "https://www.vatican.va/content/francesco/ar/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "be": "https://www.vatican.va/content/francesco/be/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "de": "https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "es": "https://www.vatican.va/content/francesco/es/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "fr": "https://www.vatican.va/content/francesco/fr/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "it": "https://www.vatican.va/content/francesco/it/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "ja": "https://www.vatican.va/content/francesco/ja/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "la": "https://www.vatican.va/content/francesco/la/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "lv": "https://www.vatican.va/content/francesco/lv/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "pl": "https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "pt-BR": "https://www.vatican.va/content/francesco/pt/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "ru": "https://www.vatican.va/content/francesco/ru/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "sl": "https://www.vatican.va/content/francesco/sl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "uk": "https://www.vatican.va/content/francesco/uk/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "zh-CN": "https://www.vatican.va/content/francesco/zh_cn/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+   "zh-TW": "https://www.vatican.va/content/francesco/zh_tw/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html"
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Laudato si'",
+   "ar": "كُنْ مُسَبَّحًا حول العناية بالبيت المشترك 24 مايو/أيار سنة 2015",
+   "be": "Laudato si'",
+   "de": "Laudato si'",
+   "es": "Laudato si'",
+   "fr": "Laudato si'",
+   "it": "Laudato si'",
+   "ja": "回勅 ラウダート・シ ともに暮らす家を大切に 教皇フランシスコ",
+   "la": "Laudato si'. De communi domo colenda (die XXIV mensis Maii, anno MMXV)",
+   "lv": "Laudato si'",
+   "pl": "Laudato si'",
+   "pt-BR": "Laudato si'",
+   "ru": "ЭНЦИКЛИКА LAUDATO SI’ СВЯТЕЙШЕГО ОТЦА ФРАНЦИСКА О ЗАБОТЕ ОБ ОБЩЕМ ДОМЕ",
+   "sl": "Laudato si'",
+   "uk": "Laudato si'",
+   "zh-CN": "Laudato si'",
+   "zh-TW": "Laudato si'"
+  },
+  "inventory_title": "Laudato si' (24 May 2015)"
+ },
+ "john-paul-ii-fides-et-ratio": {
+  "author": "john-paul-ii",
+  "date": "1998-09-14",
+  "imported": {
+   "en-US": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "ar": "https://www.vatican.va/content/john-paul-ii/ar/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "da": "https://www.vatican.va/content/john-paul-ii/da/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "de": "https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "es": "https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "fi": "https://www.vatican.va/content/john-paul-ii/fi/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "fr": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "hu": "https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "it": "https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "la": "https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "nl": "https://www.vatican.va/content/john-paul-ii/nl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "pl": "https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "pt-BR": "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "ro": "https://www.vatican.va/content/john-paul-ii/ro/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "zh-CN": "https://www.vatican.va/content/john-paul-ii/zh_cn/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html",
+   "zh-TW": "https://www.vatican.va/content/john-paul-ii/zh_tw/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html"
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Fides et Ratio",
+   "ar": "Fides et Ratio, 1998",
+   "da": "Fides et ratio, 14. september 1998",
+   "de": "Fides et Ratio",
+   "es": "Fides et Ratio",
+   "fi": "Fides et Ratio - Ioannes Paulus PP. II - Encyclical Letter",
+   "fr": "Fides et Ratio",
+   "hu": "Fides et Ratio, enciklikája püspökeihez a hit és az értelem kapcsolatának természetéről, 1998. szeptember 14-én - II. János Pál pápa",
+   "it": "Fides et Ratio",
+   "la": "Fides et Ratio, Litterae Encyclicae, Ioannes Paulus PP.II, die XIV mensis Septembris, A.D. MCMXCVIII",
+   "nl": "Fides et ratio, Encycliek, Johannes Paulus II",
+   "pl": "Fides et ratio, 14 września 1998",
+   "pt-BR": "Fides et Ratio",
+   "ro": "Fides et Ratio - Ioannes Paulus PP. II - Encyclical Letter",
+   "zh-CN": "教宗若望保禄二世 通 谕 《信仰与理性》",
+   "zh-TW": "教宗若望保祿二世 通 諭 《信仰與理性》"
+  },
+  "inventory_title": "Fides et Ratio (14 September 1998)"
+ },
+ "leo-xiii-rerum-novarum": {
+  "author": "leo-xiii",
+  "date": "1891-05-15",
+  "imported": {
+   "en-US": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+   "es": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+   "fr": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+   "hu": "https://www.vatican.va/content/leo-xiii/hu/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+   "it": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+   "la": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+   "pt-BR": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+   "de": "http://www.documentacatholicaomnia.eu/01p/1891-05-15,_SS_Leo_XIII,_Encyclica_'Rerum_Novarum_Cupidi',_GE.doc",
+   "pl": "http://www.documentacatholicaomnia.eu/01p/1891-05-15,_SS_Leo_XIII,_Encyclica_'Rerum_Novarum_Cupidi',_PL.doc"
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Rerum Novarum",
+   "es": "Rerum novarum",
+   "fr": "Rerum Novarum",
+   "hu": "Rerun Novarum, XIII. Leó pápa enciklikája a munkáskérdésről (az első pápai szociális körlevél) Róma, 1891",
+   "it": "Rerum Novarum",
+   "la": "Rerum Novarum",
+   "pt-BR": "Rerum Novarum: sobre a condição dos operários",
+   "de": "Rerum Novarum (May 15, 1891)",
+   "pl": "Rerum Novarum (May 15, 1891)"
+  },
+  "inventory_title": "Rerum Novarum (May 15, 1891)"
+ },
+ "paul-iii-veritas-ipsa": {
+  "author": "paul-iii",
+  "date": "1537-06-09",
+  "imported": {
+   "pt-BR": "https://www.veritatis.com.br/veritas-ipsa/"
+  },
+  "skipped": {},
+  "titles": {
+   "pt-BR": "Veritas ipsa"
+  },
+  "inventory_title": "Veritas ipsa"
+ },
+ "pius-ix-qui-pluribus": {
+  "author": "pius-ix",
+  "date": "1846-11-09",
+  "imported": {
+   "it": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-qui-pluribus-9-novembre-1846.html",
+   "en-US": "https://www.papalencyclicals.net/pius09/p9quiplu.htm"
+  },
+  "skipped": {},
+  "titles": {
+   "it": "Enciclica Qui pluribus",
+   "en-US": "Qui Pluribus"
+  },
+  "inventory_title": "Enciclica Qui pluribus (9 novembre 1846)"
+ },
+ "vatican-ii-dei-verbum": {
+  "author": "vatican-ii",
+  "date": "1965-11-18",
+  "imported": {
+   "en-US": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+   "ar": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ar.html",
+   "be": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_be.html",
+   "cs": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_cs.html",
+   "fr": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_fr.html",
+   "de": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_ge.html",
+   "he": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_he.pdf",
+   "hu": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_hu.html",
+   "it": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_it.html",
+   "la": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lt.html",
+   "lv": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_lv.html",
+   "pt-BR": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_po.html",
+   "es": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html",
+   "sw": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sw.html"
+  },
+  "skipped": {},
+  "titles": {
+   "en-US": "Dei verbum",
+   "ar": "Dei verbum - Dogmatic Constitution on Divine Revelation",
+   "be": "Dei verbum",
+   "cs": "Dei verbum",
+   "fr": "Dei verbum",
+   "de": "Dei verbum",
+   "he": "Dei Verbum",
+   "hu": "Dei verbum",
+   "it": "Dei Verbum",
+   "la": "Dei Verbum",
+   "lv": "DOGMATISKĀ KONSTITŪCIJA PAR DIEVIŠĶO ATKLĀSMI - DEI VERBUM",
+   "pt-BR": "Dei verbum",
+   "es": "Dei verbum",
+   "sw": "Dei verbum"
+  },
+  "inventory_title": "Dei Verbum"
+ }
+}

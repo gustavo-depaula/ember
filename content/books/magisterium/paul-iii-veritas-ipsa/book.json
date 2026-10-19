@@ -1,0 +1,40 @@
+{
+  "id": "paul-iii-veritas-ipsa",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Veritas ipsa"
+  },
+  "author": {
+    "en-US": "Pope Paul III",
+    "pt-BR": "Papa Paulo III",
+    "la": "Paulus PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul III · 1537-06-09",
+    "pt-BR": "Documento · Papa Paulo III · 1537-06-09"
+  },
+  "composed": "1537",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-iii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/veritas-ipsa/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Veritas ipsa"
+      }
+    }
+  ]
+}
