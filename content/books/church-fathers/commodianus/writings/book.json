@@ -2,13 +2,16 @@
   "id": "commodianus-writings",
   "cover": "quarter",
   "name": {
-    "en-US": "Writings"
+    "en-US": "Writings",
+    "pt-BR": "Escritos"
   },
   "author": {
-    "en-US": "Commodianus"
+    "en-US": "Commodianus",
+    "pt-BR": "Comodiano"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Writings"
+        "en-US": "Writings",
+        "pt-BR": "Escritos"
       }
     }
   ]
