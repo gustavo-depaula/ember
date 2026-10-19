@@ -1,0 +1,40 @@
+{
+  "id": "cdf-levada-nac",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pontifical North American College - Ordination of Deacons"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2011-10-06",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2011-10-06"
+  },
+  "composed": "2011",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20111006_levada-nac_en.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pontifical North American College - Ordination of Deacons"
+      }
+    }
+  ]
+}

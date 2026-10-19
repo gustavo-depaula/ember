@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-quinquagesimo-ante-anno",
+  "cover": "quarter",
+  "name": {
+    "la": "Quinquagesimo ante anno, Litterae Encyclicae de anno sacerdotii sui quinquagesimo exacto feliciter et de prorogatione Iubilaei, d. 23 m. Decembris a. 1929, Pius PP. XI",
+    "en-US": "Quinquagesimo Ante",
+    "it": "Quinquagesimo Ante Anno"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1929-12-23",
+    "pt-BR": "Encíclica · Papa Pio XI · 1929-12-23"
+  },
+  "composed": "1929",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19291223_quinquagesimo-ante-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius11/p11quinq.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19291223_quinquagesimo-ante-anno.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quinquagesimo ante anno, Litterae Encyclicae de anno sacerdotii sui quinquagesimo exacto feliciter et de prorogatione Iubilaei, d. 23 m. Decembris a. 1929, Pius PP. XI",
+        "en-US": "Quinquagesimo Ante",
+        "it": "Quinquagesimo Ante Anno"
+      }
+    }
+  ]
+}

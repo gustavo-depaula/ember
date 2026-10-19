@@ -1,0 +1,56 @@
+{
+  "id": "cdf-cti-castellano",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "A razão da verdade de Deus - Pe. Antonio Castellano, S.D.B.",
+    "es": "La razón de la verdad de Dios - Don Antonio Castellano S.D.B.",
+    "it": "La ragione della verità di Dio - Don Antonio Castellano, S.D.B."
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2012-05-05",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2012-05-05"
+  },
+  "composed": "2012",
+  "languages": [
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120505_castellano_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120505_castellano_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120505_castellano_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "A razão da verdade de Deus - Pe. Antonio Castellano, S.D.B.",
+        "es": "La razón de la verdad de Dios - Don Antonio Castellano S.D.B.",
+        "it": "La ragione della verità di Dio - Don Antonio Castellano, S.D.B."
+      }
+    }
+  ]
+}

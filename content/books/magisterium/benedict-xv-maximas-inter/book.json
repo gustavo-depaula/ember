@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-maximas-inter",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Maximas Inter al cardinale Andrea Ferrari, nella quale il Pontefice protesta contro la campagna di calunnie e di odio alimentata contro la Sua persona e l’attività da Lui svolta nel corso della guerra"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1918-05-22",
+    "pt-BR": "Carta · Papa Bento XV · 1918-05-22"
+  },
+  "composed": "1918",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1918/documents/hf_ben-xv_let_19180522_maximas-inter.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Maximas Inter al cardinale Andrea Ferrari, nella quale il Pontefice protesta contro la campagna di calunnie e di odio alimentata contro la Sua persona e l’attività da Lui svolta nel corso della guerra"
+      }
+    }
+  ]
+}

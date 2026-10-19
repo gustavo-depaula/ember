@@ -1,0 +1,112 @@
+{
+  "id": "john-paul-ii-tredecim-anni",
+  "cover": "quarter",
+  "name": {
+    "la": "Giovanni Paolo II - Motu Proprio - Tredecim Anni, die VI mensis Augusti, anno MCMLXXXII",
+    "en-US": "Apostolic Letter in the form of Motu Proprio Tredecim Anni",
+    "pt-BR": "Tredecim anni",
+    "de": "Tredecim Anni",
+    "es": "Tredicim anni, aprobación definitiva de los estatutos de la Comisión Teológica Internacional",
+    "fr": "Lettre apostolique Motu Proprio «Tredecim Anni»",
+    "hu": "II. János Pál pápa TREDECIM ANNI motu proprioja",
+    "it": "Tredecim Anni",
+    "pl": "List Apostolski w formie “Motu proprio” TREDECIM ANNI definitywnie aprobujący statuty Międzynarodowej Komisji Teologicznej",
+    "ru": "Tredecim Anni - УСТАВ МЕЖДУНАРОДНОЙ БОГОСЛОВСКОЙ КОМИССИИ АПОСТОЛЬСКОЕ ПОСЛАНИЕ"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1982-08-06",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1982-08-06"
+  },
+  "composed": "1982",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/john-paul-ii/ru/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Giovanni Paolo II - Motu Proprio - Tredecim Anni, die VI mensis Augusti, anno MCMLXXXII",
+        "en-US": "Apostolic Letter in the form of Motu Proprio Tredecim Anni",
+        "pt-BR": "Tredecim anni",
+        "de": "Tredecim Anni",
+        "es": "Tredicim anni, aprobación definitiva de los estatutos de la Comisión Teológica Internacional",
+        "fr": "Lettre apostolique Motu Proprio «Tredecim Anni»",
+        "hu": "II. János Pál pápa TREDECIM ANNI motu proprioja",
+        "it": "Tredecim Anni",
+        "pl": "List Apostolski w formie “Motu proprio” TREDECIM ANNI definitywnie aprobujący statuty Międzynarodowej Komisji Teologicznej",
+        "ru": "Tredecim Anni - УСТАВ МЕЖДУНАРОДНОЙ БОГОСЛОВСКОЙ КОМИССИИ АПОСТОЛЬСКОЕ ПОСЛАНИЕ"
+      }
+    }
+  ]
+}

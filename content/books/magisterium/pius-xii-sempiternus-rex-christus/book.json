@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-sempiternus-rex-christus",
+  "cover": "quarter",
+  "name": {
+    "la": "Sempiternus Rex Christus (September 8, 1951)",
+    "en-US": "Sempiternus Rex Christus",
+    "pt-BR": "Sempiternus Rex Christus",
+    "es": "Sempiternus Rex Christus",
+    "it": "Sempiternus Rex Christus"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1951-09-08",
+    "pt-BR": "Encíclica · Papa Pio XII · 1951-09-08"
+  },
+  "composed": "1951",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1951-09-08,_SS_Pius_XII,_Encyclica._Sempiternus_Rex_Christus,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_08091951_sempiternus-rex-christus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_08091951_sempiternus-rex-christus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_08091951_sempiternus-rex-christus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_08091951_sempiternus-rex-christus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sempiternus Rex Christus (September 8, 1951)",
+        "en-US": "Sempiternus Rex Christus",
+        "pt-BR": "Sempiternus Rex Christus",
+        "es": "Sempiternus Rex Christus",
+        "it": "Sempiternus Rex Christus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-fondo-pensioni",
+  "cover": "quarter",
+  "name": {
+    "it": "Motu Proprio sulla nuova regolamentazione del Sistema pensionistico"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 2003-12-15",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 2003-12-15"
+  },
+  "composed": "2003",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_20031215_fondo-pensioni.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Motu Proprio sulla nuova regolamentazione del Sistema pensionistico"
+      }
+    }
+  ]
+}

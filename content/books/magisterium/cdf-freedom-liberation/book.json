@@ -1,0 +1,96 @@
+{
+  "id": "cdf-freedom-liberation",
+  "cover": "quarter",
+  "name": {
+    "la": "Instructio de libertate christiana et liberatione, d. 22 m. Martii a. 1986, Congregatio pro Doctrina Fidei",
+    "en-US": "Instruction on Christian Freedom and Liberation",
+    "pt-BR": "Libertatis conscientia, sobrea liberdade cristã e a libertação, 22 de março de 1986",
+    "de": "Instruktion über die christliche Freiheit und die Befreiung",
+    "es": "Instrucción Libertatis conscientia, sobre libertad cristiana y liberación, 22 marzo 1986",
+    "fr": "Libertatis Conscientia - Instruction sur la liberté chrétienne et la libération",
+    "it": "Libertatis Conscientia: Istruzione sulla libertà cristiana e la liberazione - La verità ci rende liberi",
+    "pl": "INSTRUKCJA O CHRZEŚCIJAŃSKIEJ WOLNOŚCI I WYZWOLENIU"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1986-03-22",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1986-03-22"
+  },
+  "composed": "1986",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860322_freedom-liberation_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Instructio de libertate christiana et liberatione, d. 22 m. Martii a. 1986, Congregatio pro Doctrina Fidei",
+        "en-US": "Instruction on Christian Freedom and Liberation",
+        "pt-BR": "Libertatis conscientia, sobrea liberdade cristã e a libertação, 22 de março de 1986",
+        "de": "Instruktion über die christliche Freiheit und die Befreiung",
+        "es": "Instrucción Libertatis conscientia, sobre libertad cristiana y liberación, 22 marzo 1986",
+        "fr": "Libertatis Conscientia - Instruction sur la liberté chrétienne et la libération",
+        "it": "Libertatis Conscientia: Istruzione sulla libertà cristiana e la liberazione - La verità ci rende liberi",
+        "pl": "INSTRUKCJA O CHRZEŚCIJAŃSKIEJ WOLNOŚCI I WYZWOLENIU"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-fruhwirth",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera a Mons. Andrea Frühwirth, Arcivescovo titolare di Eraclea, in occasione del 70° genetliaco"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1915-08-10",
+    "pt-BR": "Carta · Papa Bento XV · 1915-08-10"
+  },
+  "composed": "1915",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1915/documents/hf_ben-xv_let_19150810_fruhwirth.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera a Mons. Andrea Frühwirth, Arcivescovo titolare di Eraclea, in occasione del 70° genetliaco"
+      }
+    }
+  ]
+}

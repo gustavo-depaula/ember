@@ -1,0 +1,72 @@
+{
+  "id": "john-xxiii-princeps",
+  "cover": "quarter",
+  "name": {
+    "la": "Princeps Pastorum, Litterae Encyclicae de catholicis missionibus, d. 28 novembris 1959",
+    "en-US": "Princeps Pastorum",
+    "pt-BR": "Princeps Pastorum",
+    "es": "Princeps Pastorum",
+    "it": "Princeps Pastorum"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John XXIII · 1959-11-28",
+    "pt-BR": "Encíclica · Papa João XXIII · 1959-11-28"
+  },
+  "composed": "1959",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/encyclicals/documents/hf_j-xxiii_enc_28111959_princeps.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Princeps Pastorum, Litterae Encyclicae de catholicis missionibus, d. 28 novembris 1959",
+        "en-US": "Princeps Pastorum",
+        "pt-BR": "Princeps Pastorum",
+        "es": "Princeps Pastorum",
+        "it": "Princeps Pastorum"
+      }
+    }
+  ]
+}

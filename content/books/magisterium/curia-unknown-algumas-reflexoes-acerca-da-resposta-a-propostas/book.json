@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-algumas-reflexoes-acerca-da-resposta-a-propostas",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Algumas reflexões acerca da resposta a propostas legislativas sobre a não-discriminação das pessoas homossexuais"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1992-07-23",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1992-07-23"
+  },
+  "composed": "1992",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/algumas-reflexoes-acerca-da-resposta-a-propostas-legislativas-sobre-a-nao-discriminacao-das-pessoas-homossexuais-23-07-1992/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Algumas reflexões acerca da resposta a propostas legislativas sobre a não-discriminação das pessoas homossexuais"
+      }
+    }
+  ]
+}

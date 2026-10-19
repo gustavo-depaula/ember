@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-fuldae",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Fuldae, sicut vobis al Cardinale Felice De Hartmann e ai Vescovi tedeschi convenuti a Fulda per la riunione annuale"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1915-09-06",
+    "pt-BR": "Carta · Papa Bento XV · 1915-09-06"
+  },
+  "composed": "1915",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1915/documents/hf_ben-xv_let_19150906_fuldae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Fuldae, sicut vobis al Cardinale Felice De Hartmann e ai Vescovi tedeschi convenuti a Fulda per la riunione annuale"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "social-communications-foley-advertising",
+  "cover": "quarter",
+  "name": {
+    "en-US": "50th anniversary of the World Federation of Advertisers- Ethics in Advertising",
+    "pt-BR": "Decreto de ereção e aprovação do estatuto geral da União do Apostolado Católico"
+  },
+  "author": {
+    "en-US": "Social Communications",
+    "pt-BR": "Social Communications",
+    "la": "Social Communications"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Social Communications · 2003-10-28",
+    "pt-BR": "Documento da Cúria Romana · Social Communications · 2003-10-28"
+  },
+  "composed": "2003",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "social-communications"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/pccs/documents/rc_pc_pccs_doc_20031028_foley-advertising_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/decreto-de-erecao-e-aprovacao-do-estatuto-geral-da-uniao-do-apostolado-catolico-28-10-2003/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "50th anniversary of the World Federation of Advertisers- Ethics in Advertising",
+        "pt-BR": "Decreto de ereção e aprovação do estatuto geral da União do Apostolado Católico"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-spirituali-militum-curae",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio apostolica Spirituali militum curae, die XXIV mensis Aprilis, anno Domini MCMLXXXVI",
+    "pt-BR": "Spirituali militum curae",
+    "de": "Spirituali militum curae",
+    "es": "Spirituali militum curae",
+    "fr": "Spirituali militum curae",
+    "it": "Spirituali militum curae"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope John Paul II · 1986-04-21",
+    "pt-BR": "Constituição Apostólica · Papa João Paulo II · 1986-04-21"
+  },
+  "composed": "1986",
+  "languages": [
+    "la",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19860421_spirituali-militum-curae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_constitutions/documents/hf_jp-ii_apc_19860421_spirituali-militum-curae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_constitutions/documents/hf_jp-ii_apc_19860421_spirituali-militum-curae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_19860421_spirituali-militum-curae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_constitutions/documents/hf_jp-ii_apc_19860421_spirituali-militum-curae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_19860421_spirituali-militum-curae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio apostolica Spirituali militum curae, die XXIV mensis Aprilis, anno Domini MCMLXXXVI",
+        "pt-BR": "Spirituali militum curae",
+        "de": "Spirituali militum curae",
+        "es": "Spirituali militum curae",
+        "fr": "Spirituali militum curae",
+        "it": "Spirituali militum curae"
+      }
+    }
+  ]
+}

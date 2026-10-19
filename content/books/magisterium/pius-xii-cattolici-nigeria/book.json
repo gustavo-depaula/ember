@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-cattolici-nigeria",
+  "cover": "quarter",
+  "name": {
+    "en-US": "PIUS PP. XII LETTERA ALL'EPISCOPATO E AI FEDELI DEL LIBANO PER IL CONGRESSO MARIANO NAZIONALE A BE"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1954-11-11",
+    "pt-BR": "Carta · Papa Pio XII · 1954-11-11"
+  },
+  "composed": "1954",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_19541111_cattolici-nigeria.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "PIUS PP. XII LETTERA ALL'EPISCOPATO E AI FEDELI DEL LIBANO PER IL CONGRESSO MARIANO NAZIONALE A BE"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# LIST DO BISKUPA ALANA C. CLARKA, 27 marca 1982 r.
+
+[TABLE]

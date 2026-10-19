@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-promozione-umana",
+  "cover": "quarter",
+  "name": {
+    "la": "De Promotione humana et salute christiana, 1976 - Commissio Theologica Internationalis",
+    "en-US": "Human Development and Christian Salvation",
+    "pt-BR": "Promoção humana e salvação cristã (1976) - Comissão Teológica Internacional",
+    "de": "Menschliches Wohl und christliches Heil, 1976 - Internationale Theologische Kommission",
+    "es": "Promoción humana y salvación cristiana",
+    "fr": "Promotion humaine et salut chrétien, 1976 - Commission Théologique Internationale",
+    "hu": "Nemzetközi Teológiai Bizottság, Emberi jólét és keresztény üdvösség",
+    "it": "Promozione umana e salvezza cristiana, 1976 - Commissione Teologica Internazionale",
+    "ko": "Human Development and Christian Salvation",
+    "pl": "POSTĘP LUDZKI I ZBAWIENIE CHRZEŚCIJAŃSKIE, 1977",
+    "ru": "ПРОГРЕСС И СПАСЕНИЕ. в контексте богословия освобождения 1976"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1976",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1976"
+  },
+  "composed": "1976",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "ko",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_ko.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1976_promozione-umana_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De Promotione humana et salute christiana, 1976 - Commissio Theologica Internationalis",
+        "en-US": "Human Development and Christian Salvation",
+        "pt-BR": "Promoção humana e salvação cristã (1976) - Comissão Teológica Internacional",
+        "de": "Menschliches Wohl und christliches Heil, 1976 - Internationale Theologische Kommission",
+        "es": "Promoción humana y salvación cristiana",
+        "fr": "Promotion humaine et salut chrétien, 1976 - Commission Théologique Internationale",
+        "hu": "Nemzetközi Teológiai Bizottság, Emberi jólét és keresztény üdvösség",
+        "it": "Promozione umana e salvezza cristiana, 1976 - Commissione Teologica Internazionale",
+        "ko": "Human Development and Christian Salvation",
+        "pl": "POSTĘP LUDZKI I ZBAWIENIE CHRZEŚCIJAŃSKIE, 1977",
+        "ru": "ПРОГРЕСС И СПАСЕНИЕ. в контексте богословия освобождения 1976"
+      }
+    }
+  ]
+}

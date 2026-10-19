@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-non-mediocri",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Non Mediocri",
+    "fr": "Non\n Mediocri (October 25, 1893)",
+    "it": "Non mediocri"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1893-10-25",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1893-10-25"
+  },
+  "composed": "1893",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_25101893_non-mediocri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1893-10-25,_SS_Leo_XIII,_Encyclica_'Non_Mediocri',_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_25101893_non-mediocri.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Non Mediocri",
+        "fr": "Non\n Mediocri (October 25, 1893)",
+        "it": "Non mediocri"
+      }
+    }
+  ]
+}

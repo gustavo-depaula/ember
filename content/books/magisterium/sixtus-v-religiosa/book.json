@@ -1,0 +1,40 @@
+{
+  "id": "sixtus-v-religiosa",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio 'Religiosa'"
+  },
+  "author": {
+    "en-US": "Pope Sixtus V",
+    "pt-BR": "Papa Sisto V",
+    "la": "Sixtus PP. V"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Sixtus V · 1587-04-13",
+    "pt-BR": "Constituição Apostólica · Papa Sisto V · 1587-04-13"
+  },
+  "composed": "1587",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "sixtus-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1587-04-13,_SS_Sixtus_V,_Constitutio_'Religiosa',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio 'Religiosa'"
+      }
+    }
+  ]
+}

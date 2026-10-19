@@ -1,0 +1,88 @@
+{
+  "id": "cdf-carlo-curran",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to Father Charles Curran",
+    "pt-BR": "Carta ao Padre Charles Curran, 25 de julho de 1986",
+    "de": "Schreiben an Prof. Charles Curran, 25. Juli 1986 - Kongregation für die Glaubenslehre",
+    "es": "Carta al Reverendo Profesor Charles Curran, 25 julio 1986",
+    "fr": "Lettre au Père Charles Curran, 25 juillet 1986 - Congrégation pour la Doctrine de la Foi",
+    "it": "Lettera riguardante la sospensione di Carlo Curran dallÂÂÂ’insegnamento della teologia, 25 luglio 1986 - Congregazione per la Dottrina della Fede",
+    "pl": "LIST DO O. CHARLESA CURRANA"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1986-07-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1986-07-25"
+  },
+  "composed": "1986",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860725_carlo-curran_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860725_carlo-curran_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860725_carlo-curran_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860725_carlo-curran_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860725_carlo-curran_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860725_carlo-curran_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19860725_carlo-curran_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to Father Charles Curran",
+        "pt-BR": "Carta ao Padre Charles Curran, 25 de julho de 1986",
+        "de": "Schreiben an Prof. Charles Curran, 25. Juli 1986 - Kongregation für die Glaubenslehre",
+        "es": "Carta al Reverendo Profesor Charles Curran, 25 julio 1986",
+        "fr": "Lettre au Père Charles Curran, 25 juillet 1986 - Congrégation pour la Doctrine de la Foi",
+        "it": "Lettera riguardante la sospensione di Carlo Curran dallÂÂÂ’insegnamento della teologia, 25 luglio 1986 - Congregazione per la Dottrina della Fede",
+        "pl": "LIST DO O. CHARLESA CURRANA"
+      }
+    }
+  ]
+}

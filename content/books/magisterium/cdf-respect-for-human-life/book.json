@@ -1,0 +1,80 @@
+{
+  "id": "cdf-respect-for-human-life",
+  "cover": "quarter",
+  "name": {
+    "la": "Donum vitae - Instructio de observantia erga vitam humanam nascentem deque procreationis dignitate tuenda, d. 22 m. Februarii a. 1987, Congregatio pro Doctrina Fide",
+    "en-US": "Instruction on respect for human life",
+    "pt-BR": "Instrução sobre o respeito à vida humana nascente e a dignidade da procriação",
+    "es": "Instrucción Donum vitae, 22-febr.-1987",
+    "fr": "Instruction sur le respect de la vie humaine naissante et la dignité de la procréation. Réponses à quelques questions d'actualité",
+    "pl": "INSTRUKCJA O SZACUNKU DLA RODZĄCEGO SIĘ ŻYCIA LUDZKIEGO I O GODNOŚCI JEGO PRZEKAZYWANIA."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1987-02-22",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1987-02-22"
+  },
+  "composed": "1987",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19870222_respect-for-human-life_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Donum vitae - Instructio de observantia erga vitam humanam nascentem deque procreationis dignitate tuenda, d. 22 m. Februarii a. 1987, Congregatio pro Doctrina Fide",
+        "en-US": "Instruction on respect for human life",
+        "pt-BR": "Instrução sobre o respeito à vida humana nascente e a dignidade da procriação",
+        "es": "Instrucción Donum vitae, 22-febr.-1987",
+        "fr": "Instruction sur le respect de la vie humaine naissante et la dignité de la procréation. Réponses à quelques questions d'actualité",
+        "pl": "INSTRUKCJA O SZACUNKU DLA RODZĄCEGO SIĘ ŻYCIA LUDZKIEGO I O GODNOŚCI JEGO PRZEKAZYWANIA."
+      }
+    }
+  ]
+}

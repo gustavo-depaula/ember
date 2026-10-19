@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-consilium-a-decessore",
+  "cover": "quarter",
+  "name": {
+    "la": "Consilium a Decessore, Motu Proprio, De Pontificia Commissione Vulgatae versioni Bibliorum emendandae, d. 23 m. Novembris a. 1914, Benedictus PP. XV",
+    "it": "Consilium a Decessore con il quale la Commissione per la revisione della versione «Vulgata » dei Libri Sacri viene onorata del titolo di « Pontificia »"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1914-11-23",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1914-11-23"
+  },
+  "composed": "1914",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19141123_consilium-a-decessore.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19141123_consilium-a-decessore.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Consilium a Decessore, Motu Proprio, De Pontificia Commissione Vulgatae versioni Bibliorum emendandae, d. 23 m. Novembris a. 1914, Benedictus PP. XV",
+        "it": "Consilium a Decessore con il quale la Commissione per la revisione della versione «Vulgata » dei Libri Sacri viene onorata del titolo di « Pontificia »"
+      }
+    }
+  ]
+}

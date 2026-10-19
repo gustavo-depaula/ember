@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-inter-ea",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Inter ea"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Gregory XVI · 1842-04-01",
+    "pt-BR": "Encíclica · Papa Gregório XVI · 1842-04-01"
+  },
+  "composed": "1842",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/enciclica-inter-ea-1-aprile-1842.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Inter ea"
+      }
+    }
+  ]
+}

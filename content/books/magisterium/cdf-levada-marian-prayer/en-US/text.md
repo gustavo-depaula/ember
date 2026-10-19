@@ -1,0 +1,33 @@
+# Concluding Marian Prayer Service - Belo Horizonte
+
+[](/index.htm)
+
+[](javascript:history.go(-1)) [](javascript:up())
+
+**Concluding Marian Prayer Service**
+
+***Reflection***
+
+***Cardinal William Levada***
+
+*Dear Brothers in Christ,*
+
+In these last days we have had a privileged opportunity to reflect together upon the rich gift of celibacy for the life and mission of the Church. It is most appropriate that we conclude now with this moment of prayer in which we invoke the image and prayerful intercession of the Blessed Virgin Mary. Mary, Mother of the Church and Queen of the Clergy, also offers us an eloquent model of fruitful celibacy. Her attention is forever fixed on Jesus, our High Priest before the Father, and so Mary draws us into a contemplation of the Lord who is both the origin of the gift of celibacy and its graced fulfillment.
+
+As we reflect on the figure of Jesus in light of the Scriptures, we see that he is the perfect revelation of the Father. Through his death and resurrection, Jesus is the first fruit of a new generation in the Holy Spirit; a generation of men and women filled with the Spirit of adoption so that they might no longer be estranged from God but rather become the children of God. This is the fulfillment of the blessing which God promised to Abraham, a blessing which, in Christ, is extended to the whole human race.
+
+The Gospels present the disciples, and in particular the Twelve, as intimately bound to Jesus in an intense communion of both life and mission. Following him from Galilee, the disciples entered ever more deeply into the mystery of Christ’s life and His relationship with the Father. In that intimacy, they discovered that their own relationship with God was to be found through, with, and in Him. In other words, they came to realize their own vocation, their own mission, was not something apart from the mission of Christ, but in fact it is the extension of it, animated by the same loving relationship with the Father. Through this ministry, the divine blessing of the Paschal Mystery of Christ is proclaimed in the Church and extended from generation to generation until the Lord comes again in glory.
+
+Christ’s life was totally given over to the Father pro *nobis, et propter nostram salutem*. The love of the Father is not only the motivation for everything Jesus accomplishes in his earthly ministry, but it is its source and power as well. The celibacy of Jesus, therefore, is not a renunciation of something, but a profound realization of His intimacy with the Father expressed in a universality and generosity of love for the people created by the Father’s own hand. Precisely through this celibate state, Jesus is able to enter into a new type of relationship with women and men, an intimate relationship founded in the Holy Spirit which is particularly fruitful.
+
+This “divine fruitfulness” of Jesus finds its complement in the blessed virginity of Mary. Again, Mary’s virginity is not a renunciation of something, but the vehicle through which she is able to hand her entire life over to the transforming power of God who “accomplishes great things in her”.
+
+Mary’s virginity is fruitful because it is *receptive.* It demonstrates a complete openness to the Spirit, to the Word of God and to the transformative power of that Word. Her receptive virginity is exemplified in the *fiat* of the Annunciation when she places her entire life at the disposition of the Father’s will. In response to the Archangel Gabriel, she utters her greatest prayer: *fiat mihi secundum verbum tuum*. More than just a word, *fiat* becomes the very pattern of her discipleship and, as St. Augustine so properly reminds us, it is this radical openness which allows her to conceive the Word of God in her heart before conceiving the Word of God in her womb. More than just a word, *fiat* must become the pattern of our priestly celibacy as well.
+
+The receptive virginity of Mary is also exemplified by her *fiat* at the foot of the Cross. There, Mary remains firm while the other disciples have fled. She is a faithful witness to the Passion, to the flow of blood and water from the pierced side of Christ, the fount of sacramental life in the Church. But she is no casual observer. Here too, her prayer is *fiat*. In the face of the brutality of the Cross, she consents to the redeeming self-offering of her Son and so participates in some way in the regeneration of humanity: *Woman, behold your son…behold your mother*. In the complete transparency of her sinless, maternal love, she stands before the Cross in the place of the nascent Church, disposing herself anew to God’s redeeming action. Of course, this also implies that as Mary’s *fiat* led her to the foot of the Cross, so too the *fiat* of our priestly ministry will lead us there as well.
+
+The power of this fundamental attitude of receptivity, this virginal *fiat*, is also revealed in the light of Easter through the gift of the Holy Spirit to the disciples at Pentecost. With the Apostles gathered around Mary to receive the gift of the Spirit, her prayer of *fiat* became the fundamental attitude of the Church at prayer. The power of the Spirit meets the virginal openness of the disciple’s faith, fills it with the light of heavenly grace, empowering the disciple to bear much fruit in a life of ministry and active charity. Indeed, Mary’s virginity demonstrates that “to receive God” is the most fruitful activity of the human person.
+
+Dear friends in Christ, in receiving the gift of celibacy, each of us has responded with openness and faith to the initiative of the Father’s love. Turning our eyes to Mary, Mother of Jesus and Mother of the Church, we entrust ourselves to her maternal intercession and we invoke her prayer upon all priests. In Mary we venerate the image of perfect charity, faith, responsiveness and union with Christ Jesus. May her prayer of *fiat* become ever more our prayer as well so that the Church might rejoice in the many rich graces of Christ poured out through the ministry of priests to the glory of God and for the salvation of souls. Amen.
+
+[](#top)

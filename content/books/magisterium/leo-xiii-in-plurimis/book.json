@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-in-plurimis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "In Plurimis",
+    "it": "In Plurimis"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1888-05-05",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1888-05-05"
+  },
+  "composed": "1888",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_05051888_in-plurimis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_05051888_in-plurimis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "In Plurimis",
+        "it": "In Plurimis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-incontro-famiglie-manila",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula data Alfonso S.R.E. Cardinali López Trujillo, Pontificii Consilii pro Familia Praesidi, die 27 m. Decembris a. 2002, Ioannes Paulus PP.II",
+    "en-US": "Letter to His Eminence Cardinal Alfonso López Trujillo, Legate at the celebrations for the 4th World Meeting of Families in Manila (Philippines) from 23 to 26 January 2003",
+    "de": "Schreiben an Kard. Alfonso López Trujillo, Päpstlicher Legat beim IV. Welttreffen der Familien in Manila (Philippinen) vom 23. bis 26. Januar 2003",
+    "fr": "Lettre au légat pontifical aux célébrations de la IVème Rencontre Mondiale des Familles à Manille (Philippine) du 22 au 26 janvier 2003",
+    "it": "Lettera all’Em.mo Card. Alfonso López Trujillo, Legato per le celebrazioni del IV Incontro Mondiale delle Famiglie, in programma a Manila (Filippine) dal 23 al 26 gennaio 2003"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 2003-01-15",
+    "pt-BR": "Carta · Papa João Paulo II · 2003-01-15"
+  },
+  "composed": "2003",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/letters/2003/documents/hf_jp-ii_let_20030115_incontro-famiglie-manila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/2003/documents/hf_jp-ii_let_20030115_incontro-famiglie-manila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/2003/documents/hf_jp-ii_let_20030115_incontro-famiglie-manila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/2003/documents/hf_jp-ii_let_20030115_incontro-famiglie-manila.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/2003/documents/hf_jp-ii_let_20030115_incontro-famiglie-manila.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula data Alfonso S.R.E. Cardinali López Trujillo, Pontificii Consilii pro Familia Praesidi, die 27 m. Decembris a. 2002, Ioannes Paulus PP.II",
+        "en-US": "Letter to His Eminence Cardinal Alfonso López Trujillo, Legate at the celebrations for the 4th World Meeting of Families in Manila (Philippines) from 23 to 26 January 2003",
+        "de": "Schreiben an Kard. Alfonso López Trujillo, Päpstlicher Legat beim IV. Welttreffen der Familien in Manila (Philippinen) vom 23. bis 26. Januar 2003",
+        "fr": "Lettre au légat pontifical aux célébrations de la IVème Rencontre Mondiale des Familles à Manille (Philippine) du 22 au 26 janvier 2003",
+        "it": "Lettera all’Em.mo Card. Alfonso López Trujillo, Legato per le celebrazioni del IV Incontro Mondiale delle Famiglie, in programma a Manila (Filippine) dal 23 al 26 gennaio 2003"
+      }
+    }
+  ]
+}

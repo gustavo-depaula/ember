@@ -1,0 +1,104 @@
+{
+  "id": "cdf-cti-problemi-attuali-escatologia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Some Current Questions in Eschatology",
+    "pt-BR": "Problemas atuais de escatologia",
+    "de": "Einige aktuelle Fragen der Eschatologie, 1990",
+    "es": "Algunas cuestiones actuales de escatología 1990",
+    "fr": "Quelques questions actuelles concernant l’eschatologie, 1990",
+    "hu": "AZ ESZKATOLÓGIA AKTUÁLIS PROBLÉMÁI, 1990",
+    "it": "Problemi attuali di escatologia, 1990",
+    "pl": "AKTUALNE PROBLEMY ESCHATOLOGII, 1990 - Międzynarodowa Komisja Teologiczna",
+    "ru": "ЭСХАТОЛОГИЯ СЕГОДНЯ, 1990"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1990",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1990"
+  },
+  "composed": "1990",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1990_problemi-attuali-escatologia_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Some Current Questions in Eschatology",
+        "pt-BR": "Problemas atuais de escatologia",
+        "de": "Einige aktuelle Fragen der Eschatologie, 1990",
+        "es": "Algunas cuestiones actuales de escatología 1990",
+        "fr": "Quelques questions actuelles concernant l’eschatologie, 1990",
+        "hu": "AZ ESZKATOLÓGIA AKTUÁLIS PROBLÉMÁI, 1990",
+        "it": "Problemi attuali di escatologia, 1990",
+        "pl": "AKTUALNE PROBLEMY ESCHATOLOGII, 1990 - Międzynarodowa Komisja Teologiczna",
+        "ru": "ЭСХАТОЛОГИЯ СЕГОДНЯ, 1990"
+      }
+    }
+  ]
+}

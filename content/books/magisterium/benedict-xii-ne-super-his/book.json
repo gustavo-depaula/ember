@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xii-ne-super-his",
+  "cover": "quarter",
+  "name": {
+    "it": "Ne Super His"
+  },
+  "author": {
+    "en-US": "Pope Benedict XII",
+    "pt-BR": "Papa Bento XII",
+    "la": "Benedictus PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XII · 1334-12-13",
+    "pt-BR": "Documento · Papa Bento XII · 1334-12-13"
+  },
+  "composed": "1334",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1334-12-13,_SS_Benedictus_XII,_Ne_Super_His,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Ne Super His"
+      }
+    }
+  ]
+}

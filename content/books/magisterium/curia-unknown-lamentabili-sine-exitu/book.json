@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-lamentabili-sine-exitu",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Lamentabili sine exitu"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1907-07-04",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1907-07-04"
+  },
+  "composed": "1907",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/decreto-lamentabili-sine-exitu-sobre-as-proposicoes-modernistas-condenadas-pela-igreja-04-07-1907/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Lamentabili sine exitu"
+      }
+    }
+  ]
+}

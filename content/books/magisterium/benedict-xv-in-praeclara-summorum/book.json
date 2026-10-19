@@ -1,0 +1,64 @@
+{
+  "id": "benedict-xv-in-praeclara-summorum",
+  "cover": "quarter",
+  "name": {
+    "la": "In praeclara summorum, Lettera Enciclica in occasione del VI centenario della morte di Dante Alighieri, 30 aprile 1921, Benedetto XV",
+    "en-US": "In Praeclara Summorum",
+    "fr": "In Praeclara Summorum",
+    "it": "In Praeclara Summorum, Lettera Enciclica in occasione del VI centenario della morte di Dante Alighieri"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XV · 1921-04-30",
+    "pt-BR": "Encíclica · Papa Bento XV · 1921-04-30"
+  },
+  "composed": "1921",
+  "languages": [
+    "la",
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_30041921_in-praeclara-summorum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In praeclara summorum, Lettera Enciclica in occasione del VI centenario della morte di Dante Alighieri, 30 aprile 1921, Benedetto XV",
+        "en-US": "In Praeclara Summorum",
+        "fr": "In Praeclara Summorum",
+        "it": "In Praeclara Summorum, Lettera Enciclica in occasione del VI centenario della morte di Dante Alighieri"
+      }
+    }
+  ]
+}

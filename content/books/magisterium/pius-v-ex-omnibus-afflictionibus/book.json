@@ -1,0 +1,40 @@
+{
+  "id": "pius-v-ex-omnibus-afflictionibus",
+  "cover": "quarter",
+  "name": {
+    "it": "Ex Omnibus Afflictionibus"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius V · 1568-10-01",
+    "pt-BR": "Documento · Papa Pio V · 1568-10-01"
+  },
+  "composed": "1568",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1568-10-01,_SS_Pius_V,_Ex_Omnibus_Afflictionibus,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Ex Omnibus Afflictionibus"
+      }
+    }
+  ]
+}

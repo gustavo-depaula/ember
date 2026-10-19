@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-ecclesia-christi",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Ecclesia Christi"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius VII · 1801-08-15",
+    "pt-BR": "Bula · Papa Pio VII · 1801-08-15"
+  },
+  "composed": "1801",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/bolla-ecclesia-christi-15-agosto-1801.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Ecclesia Christi"
+      }
+    }
+  ]
+}

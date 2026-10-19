@@ -1,0 +1,64 @@
+{
+  "id": "pius-xi-ubi-arcano-dei-consilio",
+  "cover": "quarter",
+  "name": {
+    "la": "Ubi Arcano Dei consilio, Litterae Encyclicae de pace Christi in Regno Christi quaerenda, d. 23 m. Decembris a. 1922, Pius PP. XI",
+    "en-US": "Ubi Arcano Dei Consilio",
+    "fr": "Ubi Arcano Dei Consilio",
+    "it": "Ubi Arcano Dei Consilio"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1922-12-23",
+    "pt-BR": "Encíclica · Papa Pio XI · 1922-12-23"
+  },
+  "composed": "1922",
+  "languages": [
+    "la",
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19221223_ubi-arcano-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ubi Arcano Dei consilio, Litterae Encyclicae de pace Christi in Regno Christi quaerenda, d. 23 m. Decembris a. 1922, Pius PP. XI",
+        "en-US": "Ubi Arcano Dei Consilio",
+        "fr": "Ubi Arcano Dei Consilio",
+        "it": "Ubi Arcano Dei Consilio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-i-certiores-effecti",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Certiores Effecti"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1742-11-13",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1742-11-13"
+  },
+  "composed": "1742",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-certiores-effecti--i---13-novembre-1742--i-sacerdot.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Certiores Effecti"
+      }
+    }
+  ]
+}

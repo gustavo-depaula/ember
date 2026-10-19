@@ -1,0 +1,96 @@
+{
+  "id": "cdf-norme-anglicanorum-coetibus-20091104",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Complementary Norms for the Apostolic Constitution Anglicanorum coetibus",
+    "pt-BR": "Normas Complementares à Constituição Apostólica 'Anglicanum coetibus', 4 de novembro de 2009",
+    "cs": "KOMPLEMENTÁRNÍ NORMY KONGREGACE PRO NAUKU VÍRY K APOŠTOLSKÉ KONSTITUCI ANGLICANORUM COETIBUS",
+    "de": "Ergänzende Normen zur Apostolischen Konstitution »Anglicanorum coetibus«",
+    "es": "Normas complementarias a la constitución apostólica Anglicanorum coetibus, 4 noviembre 2009",
+    "fr": "Normes Complémentaires à la Constitution Apostolique Anglicanorum coetibus, 4 novembre 2009",
+    "it": "Norme Complementari alla Costituzione Apostolica Anglicanorum coetibus, 4 novembre 2009",
+    "sk": "DODATKOVÉ NORMY K APOŠTOLSKEJ KONŠTITÚCII ANGLICANORUM COETIBUS"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2009-11-04",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2009-11-04"
+  },
+  "composed": "2009",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20091104_norme-anglicanorum-coetibus_sk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Complementary Norms for the Apostolic Constitution Anglicanorum coetibus",
+        "pt-BR": "Normas Complementares à Constituição Apostólica 'Anglicanum coetibus', 4 de novembro de 2009",
+        "cs": "KOMPLEMENTÁRNÍ NORMY KONGREGACE PRO NAUKU VÍRY K APOŠTOLSKÉ KONSTITUCI ANGLICANORUM COETIBUS",
+        "de": "Ergänzende Normen zur Apostolischen Konstitution »Anglicanorum coetibus«",
+        "es": "Normas complementarias a la constitución apostólica Anglicanorum coetibus, 4 noviembre 2009",
+        "fr": "Normes Complémentaires à la Constitution Apostolique Anglicanorum coetibus, 4 novembre 2009",
+        "it": "Norme Complementari alla Costituzione Apostolica Anglicanorum coetibus, 4 novembre 2009",
+        "sk": "DODATKOVÉ NORMY K APOŠTOLSKEJ KONŠTITÚCII ANGLICANORUM COETIBUS"
+      }
+    }
+  ]
+}

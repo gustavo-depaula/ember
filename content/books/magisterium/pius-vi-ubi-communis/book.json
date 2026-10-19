@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-ubi-communis",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Ubi communis"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VI · 1792-04-04",
+    "pt-BR": "Breve · Papa Pio VI · 1792-04-04"
+  },
+  "composed": "1792",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/breve-ubi-communis-4-aprile-1792.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Ubi communis"
+      }
+    }
+  ]
+}

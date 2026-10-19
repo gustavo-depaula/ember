@@ -1,0 +1,80 @@
+{
+  "id": "pius-xi-divini-illius-magistri",
+  "cover": "quarter",
+  "name": {
+    "la": "Divini illius magistri, Litterae Encyclicae de christiana iuventutis educatione, d. 31 m. Decembris a. 1929, Pius PP. XI",
+    "en-US": "Divini Illius Magistri",
+    "pt-BR": "Divini illius magistri: sobre a Educação Cristã da Juventude",
+    "es": "Divini Illius Magistri",
+    "fr": "Divini Illius Magistri",
+    "it": "Divini Illius Magistri"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1929-12-31",
+    "pt-BR": "Encíclica · Papa Pio XI · 1929-12-31"
+  },
+  "composed": "1929",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Divini illius magistri, Litterae Encyclicae de christiana iuventutis educatione, d. 31 m. Decembris a. 1929, Pius PP. XI",
+        "en-US": "Divini Illius Magistri",
+        "pt-BR": "Divini illius magistri: sobre a Educação Cristã da Juventude",
+        "es": "Divini Illius Magistri",
+        "fr": "Divini Illius Magistri",
+        "it": "Divini Illius Magistri"
+      }
+    }
+  ]
+}

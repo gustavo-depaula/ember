@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-viva-soddisfazione",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Con viva soddisfazione, al R. P. Ottavio Marchetti S.I., in occasione dell'istituzione di una cattedra di teologia ascetico-mistica e di una bibilioteca ascetico-mistica presso l'Università Gregoriana di Roma"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-11-10",
+    "pt-BR": "Carta · Papa Bento XV · 1919-11-10"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19191110_viva-soddisfazione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Con viva soddisfazione, al R. P. Ottavio Marchetti S.I., in occasione dell'istituzione di una cattedra di teologia ascetico-mistica e di una bibilioteca ascetico-mistica presso l'Università Gregoriana di Roma"
+      }
+    }
+  ]
+}

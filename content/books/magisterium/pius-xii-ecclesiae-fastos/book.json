@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-ecclesiae-fastos",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ecclesiae Fastos",
+    "pt-BR": "Ecclesiae Fastos",
+    "it": "Ecclesiae Fastos"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1954-06-05",
+    "pt-BR": "Encíclica · Papa Pio XII · 1954-06-05"
+  },
+  "composed": "1954",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_05061954_ecclesiae-fastos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_05061954_ecclesiae-fastos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_05061954_ecclesiae-fastos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ecclesiae Fastos",
+        "pt-BR": "Ecclesiae Fastos",
+        "it": "Ecclesiae Fastos"
+      }
+    }
+  ]
+}

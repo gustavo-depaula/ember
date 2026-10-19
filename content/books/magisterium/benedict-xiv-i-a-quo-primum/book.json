@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-a-quo-primum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "A Quo Primum",
+    "it": "Enciclica A Quo Primum"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1751-06-14",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1751-06-14"
+  },
+  "composed": "1751",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14aquo.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-a-quo-primum---i--14-giugno-1751--il-pontefice-indi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "A Quo Primum",
+        "it": "Enciclica A Quo Primum"
+      }
+    }
+  ]
+}

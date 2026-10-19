@@ -1,0 +1,96 @@
+{
+  "id": "cdf-poenae-canonicae",
+  "cover": "quarter",
+  "name": {
+    "la": "Notificatio qua poenae canonicae Episcopis qui illicite alios episcopos ordinaverunt illisque hoc modo illegitimo ordinatis denuo comminantur, d. 12 m. Martii a. 1983, Congregatio pro Doctrina Fidei",
+    "en-US": "Notification",
+    "pt-BR": "Declaração da ilegitimidade das ordenações feitas pelo Arcebispo Pierre Martin Ngô-dinh-Thuc e cúmplices, 12 de março de 1983",
+    "de": "Bekanntmachung, mit der von Neuem die kanonischen Strafen gegen den Erzbischof Pierre-Martin Ngô-dińh-Thuc und seine Mittäter wegen der widerrechtlichen Weihe von Priestern und Bischöfen kundgetan werden, 12. März 1983",
+    "es": "Notificación por la que se declaran de nuevo las penas canónicas en las que han incurrido los obispos que ordenaron ilícitametne a otros obispos y los que han sido ordenados ilegítimamente",
+    "fr": "Notification par laquelle sont de nouveau déclarées les peines canoniques encourues par Mgr. Pierre-Martin Ngô-dińh-Thuc et ses complices pour les ordinations illicites de prêtres et d'évêques, 12 mars 1983",
+    "it": "Notificazione con la quale si dichiarano di nuovo le pene canoniche incorse dallÂÂÂ’Arcivescovo Pierre-Martin Ngô-dińh-Thuc e complici per le ordinazioni illecite di presbiteri e vescovi, 12 marzo 1983",
+    "pl": "INFORMACJA O KARACH KANONICZNYCH, KTÓRYM PODLEGAJĄ BISKUPI KONSEKRUJĄCY BISKUPÓW BEZ ZEZWOLENIA"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1983-03-12",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1983-03-12"
+  },
+  "composed": "1983",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830312_poenae-canonicae_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Notificatio qua poenae canonicae Episcopis qui illicite alios episcopos ordinaverunt illisque hoc modo illegitimo ordinatis denuo comminantur, d. 12 m. Martii a. 1983, Congregatio pro Doctrina Fidei",
+        "en-US": "Notification",
+        "pt-BR": "Declaração da ilegitimidade das ordenações feitas pelo Arcebispo Pierre Martin Ngô-dinh-Thuc e cúmplices, 12 de março de 1983",
+        "de": "Bekanntmachung, mit der von Neuem die kanonischen Strafen gegen den Erzbischof Pierre-Martin Ngô-dińh-Thuc und seine Mittäter wegen der widerrechtlichen Weihe von Priestern und Bischöfen kundgetan werden, 12. März 1983",
+        "es": "Notificación por la que se declaran de nuevo las penas canónicas en las que han incurrido los obispos que ordenaron ilícitametne a otros obispos y los que han sido ordenados ilegítimamente",
+        "fr": "Notification par laquelle sont de nouveau déclarées les peines canoniques encourues par Mgr. Pierre-Martin Ngô-dińh-Thuc et ses complices pour les ordinations illicites de prêtres et d'évêques, 12 mars 1983",
+        "it": "Notificazione con la quale si dichiarano di nuovo le pene canoniche incorse dallÂÂÂ’Arcivescovo Pierre-Martin Ngô-dińh-Thuc e complici per le ordinazioni illecite di presbiteri e vescovi, 12 marzo 1983",
+        "pl": "INFORMACJA O KARACH KANONICZNYCH, KTÓRYM PODLEGAJĄ BISKUPI KONSEKRUJĄCY BISKUPÓW BEZ ZEZWOLENIA"
+      }
+    }
+  ]
+}

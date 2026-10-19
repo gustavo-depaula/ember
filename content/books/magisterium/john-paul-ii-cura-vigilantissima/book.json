@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-cura-vigilantissima",
+  "cover": "quarter",
+  "name": {
+    "it": "La cura vigilantissima"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2005-03-21",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2005-03-21"
+  },
+  "composed": "2005",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2005/documents/hf_jp-ii_apl_20050321_cura-vigilantissima.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "La cura vigilantissima"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "cdf-dispensatione-oblig",
+  "cover": "quarter",
+  "name": {
+    "la": "Normae ad apparandas in Curiis dioecesanis et religiosis causas reductionis ad statum laicalem cum dispensatione ab obligationibus cum sacra Ordinatione conexis, d. 13 m. Ianuarii a. 1971, Congregatio pro Doctrina Fide",
+    "en-US": "Norms for preparing petitions in diocesan or clerical religious Curias for reducing priests to the lay state with a dispensation from all the obligations arising from Sacred Orders, 13 January 1971",
+    "pt-BR": "Normas para procedimento na redução ao estado laical, 13 de janeiro de 1971",
+    "de": "Regeln für die Diözesan- und Ordensbehörden zur Behandlung von Laisierungsfällen mit Dispens von den Weiheverpflichtungen, 13. Januar 1971",
+    "es": "Normas para proceder a la reducción al estado laical en las curias diocesanas y religiosas",
+    "fr": "Normes pour instruire dans les curies diocésaines et religieuses les causes de réduction à l'état laïc, 13 janvier 1971",
+    "it": "Norme per procedere alla riduzione allo stato laicale presso le Curie diocesane e religiose, 13 gennaio 1971",
+    "pl": "NORMY OKREŚLAJĄCE SPOSÓB PRZYGOTOWANIA W KURIACH DIECEZJALNYCH I ZAKONNYCH SPRAW DOTYCZĄCYCH PRZENIESIENIA KAPŁANA DO STANU ŚWIECKIEGO Z DYSPENSĄ OD OBOWIĄZKÓW WYNIKAJĄCYCH ZE ŚWIĘCEŃ WYŻSZYCH"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1971-01-13",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1971-01-13"
+  },
+  "composed": "1971",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_dispensatione-oblig_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Normae ad apparandas in Curiis dioecesanis et religiosis causas reductionis ad statum laicalem cum dispensatione ab obligationibus cum sacra Ordinatione conexis, d. 13 m. Ianuarii a. 1971, Congregatio pro Doctrina Fide",
+        "en-US": "Norms for preparing petitions in diocesan or clerical religious Curias for reducing priests to the lay state with a dispensation from all the obligations arising from Sacred Orders, 13 January 1971",
+        "pt-BR": "Normas para procedimento na redução ao estado laical, 13 de janeiro de 1971",
+        "de": "Regeln für die Diözesan- und Ordensbehörden zur Behandlung von Laisierungsfällen mit Dispens von den Weiheverpflichtungen, 13. Januar 1971",
+        "es": "Normas para proceder a la reducción al estado laical en las curias diocesanas y religiosas",
+        "fr": "Normes pour instruire dans les curies diocésaines et religieuses les causes de réduction à l'état laïc, 13 janvier 1971",
+        "it": "Norme per procedere alla riduzione allo stato laicale presso le Curie diocesane e religiose, 13 gennaio 1971",
+        "pl": "NORMY OKREŚLAJĄCE SPOSÓB PRZYGOTOWANIA W KURIACH DIECEZJALNYCH I ZAKONNYCH SPRAW DOTYCZĄCYCH PRZENIESIENIA KAPŁANA DO STANU ŚWIECKIEGO Z DYSPENSĄ OD OBOWIĄZKÓW WYNIKAJĄCYCH ZE ŚWIĘCEŃ WYŻSZYCH"
+      }
+    }
+  ]
+}

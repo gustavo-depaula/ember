@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-aeterni-patris",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Aeterni Patris",
+    "it": "Bolla Aeterni Patris"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius IX · 1868-06-29",
+    "pt-BR": "Carta Apostólica · Papa Pio IX · 1868-06-29"
+  },
+  "composed": "1868",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-aeterni-patris-29-iunii-1868.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/litterae-apostolicae-aeterni-patris-29-iunii-1868.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Aeterni Patris",
+        "it": "Bolla Aeterni Patris"
+      }
+    }
+  ]
+}

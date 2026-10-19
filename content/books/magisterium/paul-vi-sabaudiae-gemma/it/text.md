@@ -1,0 +1,134 @@
+# Sabaudiae gemma
+
+***SABAUDIAE GEMMA***
+
+EPISTOLA APOSTOLICA
+
+NEL IV CENTENARIO  
+DELLA NASCITA DI SAN FRANCESCO DI SALES  
+DOTTORE DELLA CHIESA
+
+**Epistola apostolica ai Cardinali, Arcivescovi e Vescovi e agli altri Ordinari di Francia, Svizzera e Piemonte.**
+
+**PAOLO VI**
+
+DILETTI FIGLI NOSTRI E VENERABILI FRATELLI  
+SALUTE E APOSTOLICA BENEDIZIONE
+
+**Immortale onore di Annecy**
+
+San Francesco di Sales, gemma della Savoia e della Svizzera, è una grandissima gloria di Annecy, - città rinomata per i suoi monti, per il lago e i suoi dintorni, ma ancor più per i suoi storici monumenti sacri e profani, - poiché il vicino villaggio di Thorens si gloria di avergli dato i natali. Ricorrendo quest'anno il quarto centenario della sua nascita, si è ivi lodevolmente stabilito di onorarne la memoria con pubbliche feste e varie manifestazioni.
+
+Di queste solennità Ce ne ha per tempo dato annunzio il venerabile Fratello Giovanni Sauvage, Vescovo di Annecy, informandoCi pure che, data la grandezza del Santo e l'importanza dell'avvenimento, egli intende invitare il maggior numero possibile di Vescovi della Francia e di altri paesi, per prender parte alla commemorazione e comune esultanza.
+
+**Seguendo le orme di Pio XI**
+
+Noi lodiamo e approviamo pienamente quanto il solerte Pastore ha stabilito. Anzi, sull'esempio del Nostro Predecessore Pio XI di felice memoria, il quale onorava il terzo centenario della morte di san Francesco di Sales con la Lettera Enciclica *Rerum omnium*, anche Noi, diletti Figli Nostri e Venerabili Fratelli, vogliamo mandarvi questa Lettera, per dimostrare a tutti che, secondo il desiderio del Vescovo di Annecy, prendiamo volentieri parte a queste celebrazioni, e fin d'ora ne auspichiamo l'esito più felice. E lo facciamo con tutto il cuore, anche perché, fin dalla prima età e poi maturi di anni, abbiamo sempre particolarmente venerato l'illustre Vescovo di Ginevra, e Ci è perciò cosa graditissima aggiungere splendore al suo nome.
+
+Vi esortiamo quindi caldamente ad onorare in questa felice occasione il Dottore dell'amore divino e della dolcezza evangelica con sapiente riflessione e fervore di vera pietà. Presago il Nostro cuore Ci dice che ciò porterà frutti copiosi.
+
+**Lampada che arde e brilla**
+
+Nelle vostre regioni il santo Dottore della Chiesa fu sempre lucerna che arde e risplende (Cf *Gv* 5,35); di là irradiò più nitido il suo celeste splendore, e ancor oggi offre ampia materia di studio. E ciò perché egli fu soprattutto vostro, poiché lasciò profondi ricordi di sé a Parigi, a Lione, in Borgogna, a Ginevra, in Svizzera, e a Torino, ma soprattutto nella Savoia. Per un naturale legame con queste illustri terre, ha influito nel sentimento e nel tenore di vita cristiana anche degli uomini più insigni per virtù, come pochi o forse nessun altro dell'età sua e di quelle seguenti. Non v'è dubbio che, per l'esempio delle sue virtù, per la prudenza dei consigli e per l'insegnamento ascetico, influì grandemente quale maestro del clero in Francia, facendo rifiorire colà il genuino spirito sacerdotale; servì non poco a stimolare san Vincenzo de' Paoli a fondare la Congregazione dei Preti della Missione e delle Figlie della Carità; aiutò e precedette con la sua grande autorità e l'inventiva fiamma del suo genio superiore i tre formatori di quel clero: Pierre de Bérulle, san Giovanni Eudes e Jean Olier.
+
+Infatti, grande è il suo insegnamento e la sua autorità nelle vostre regioni, e la spiritualità ed i costumi ovunque chiaramente risentono della dolcezza del Sales.
+
+Ora poi, nella ricorrenza di questa circostanza, la sua memoria rispunta come una stella, e attirando a sé lo sguardo e la contemplazione, non elargirà forse generosamente luce, calore, sapienza e soavità? Certamente: tanto più che per varie ragioni egli si presenta adeguato alle attuali necessità.
+
+**Provvidi insegnamenti per l'epoca postconciliare**
+
+Dalla storia ecclesiastica appare chiaro che i Concili Ecumenici ebbero il loro pieno risultato adeguato alle speranze, quando, durante o dopo la loro celebrazione, santi ecclesiastici e pastori di esimia virtù cercarono di rendersi essi stessi legge viva e parlante e di eseguire le volontà e le deliberazioni dei Concili.
+
+Tutti i migliori cristiani oggi desiderano ardentemente che tali uomini, esimii per santità, sorgano a risplendere e a combattere. E forse tra voi sta per apparire l'aurora di questo splendido giorno.
+
+Comunque sia, bisogna avere fiducia: abbiamo una guida, un consigliere, un maestro che aiuterà e precederà voi, e con voi molti altri confratelli nell'Episcopato. Camminando innanzi a voi, vi aiuterà a compiere integralmente l'opera di salvezza e di santificazione.
+
+Noi siamo certi che la verità, gioconda a conoscersi, convincerà tutti, se è studiata. Nessuno più e meglio del Sales, tra i recenti Dottori della Chiesa, ha saputo con il profondo intuito della sua sagacia, prevenire le deliberazioni del Concilio. Egli sarà di aiuto con l'esempio della vita, con l'abbondanza di una dottrina pura e sana, e con il suo sicuro metodo di spiritualità, aperto alla cristiana perfezione di persone di ogni stato e condizione. Tre cose si propongono: imitare, abbracciare, seguire. Se poi si considera l'indole e la forma delle virtù di san Francesco di Sales, è difficile darne una descrizione, poiché non appare a prima vista e con assoluta certezza, quale sia la loro natura e la loro caratteristica più eminente. Differisce stella da stella, gemma da gemma e un albero dall'altro, ed ogni bellezza si distingue per qualità sue proprie.
+
+La bellezza risplende al massimo ed è perfetta quando assomma armoniosamente la varietà di molte bellezze. Così in un giardino lussureggiante, risaltano per la loro bellezza le erbe, gli alberi, i fiori e la loro fragranza e colore; ma più bello si presenta allo sguardo, se una giusta proporzione ed una adatta disposizione aggiungono in perfetta armonia bellezza a bellezza, così che dall'insieme risalti maggiormente la leggiadria e l'amabile grazia delle varie bellezze distinte.
+
+Un simile accostamento e complesso di virtù piace e si ammira in Francesco di Sales.
+
+Viene quindi spontaneo alla mente di applicare a lui ciò che san Gregorio Nazianzeno in un suo ardente discorso diceva di sant'Atanasio: «Esaltando Atanasio, io esalto la virtù, poiché parlare di lui è lodare la virtù, avendo egli posseduto o, più veramente, possedendo come sommate insieme tutte le virtù. Tutti infatti vivono per Dio, coloro che vissero secondo Dio, anche se hanno lasciato questa vita» (GREGORIO NAZIANZENO, *Oratio* XXI, *In laudem magni Athanasii episcopi* *Alexandrini*, 1: PG 35, 1082-1083.).
+
+Acuta intuizione di mente, intelligenza forte e chiara, giudizio penetrante, incredibile amorevolezza e bontà, sorridente soavità di volto e di parola, quieto ardore di spirito sempre operoso, rara semplicità di vita non senza un modesto vanto del suo lignaggio, pace serena e tranquilla, moderazione sempre inalterata e sicura, non però disgiunta da fortezza - la dolcezza nasce da chi è forte - con la quale sapeva amare teneramente, ma anche essere fermo e raggiungere il suo intento; sublime elevatezza di mente e amore della bellezza, desideroso di dare agli altri i sommi beni: il cielo e la poesia; zelo quasi infinito per le anime e amore di Dio, che quale fulgidissimo sole precede in lui le altre virtù: e tutte queste doti la sovrabbondanza della grazia divina sublimò e accrebbe: ecco le linee principali che, con altre simili, tracciano la sublime figura del Sales.
+
+**Molteplice zelo pastorale**
+
+Con queste doti di natura e di grazia si consacrò tutto alla Chiesa, e con molteplici cure rese fruttuoso il campo che gli era stato affidato. Esercitò il suo ministero pastorale anche in mezzo ai pericoli e alle insidie, scrisse libri pieni di sapienza, restaurò la sacra eloquenza e la profuse a guisa di largo fiume, riportò molti monasteri dalla scaduta disciplina al pieno vigore dell'osservanza religiosa e, insieme con santa Giovanna Francesca di Chantal, a lo unita da vincolo di spirituale soprannaturale amicizia, fondò l'istituto della Visitazione della Beata Vergine Maria. Questo Istituto, la cura e la gloria sua più illustre, con la grazia divina ebbe tanto splendida fioritura da potersi contare, quando egli passò da pesta vita, un ingente numero di monasteri di suore di quella denominazione.
+
+Dispiegò tutto il suo zelo nel coltivare e fomentare dovunque la santità, giudicando così di aiutare nel miglior modo la Chiesa nel suo secolo contaminato dalla corruzione. Lasciò quindi ai posteri un esempio e una testimonianza, nei quali potessero continuamente rispecchiarsi.
+
+Ma non meno illustri della santità della sua vita sono gli insegnamenti che egli ci ha lasciato, così adatti alle necessità del nostro tempo. Eccone alcuni principali, che sono come il cardine di ritolti altri.
+
+La Chiesa, nel corso dei tempi, non può risplendere nella sua santità, senza l'ornamento di santi sacerdoti. E il sacerdote, più di qualunque cristiano, è un altro Cristo; la sua santità irradia da Cristo, sacerdote eterno e perfezionatore della fede, diventando così segno vivente della grazia di Cristo. La sincera devozione alla Vergine Madre di Dio diviene necessaria ad ogni fedele, ma soprattutto al sacerdote, poiché essa, oltre gli altri singolari benefici, è il modello del nostro amore a Dio, a Cristo e alla Chiesa; essa, che è la più dolce fra tutte, la Madre della grazia, l'esempio di ogni virtù, presenta nitidissimo l'ideale della perfezione evangelica.
+
+**Primato della carità**
+
+E nel coro delle virtù il primato spetta alla carità, non solo perché è la più importante, ma anche perché dà efficacia e armonia alle altre, giacché la virtù è l'ordine dell'amore. Per legge del Creatore, nell'uomo l'anima presiede al corpo, e tra le facoltà dell'anima eccelle la volontà che ha per suo re ed artefice l'amore. Con la carità dunque, quando risplende ed è ardente e operosa, tocchiamo l'apice della perfezione evangelica, ci uniamo intimamente con Dio, sommo bene e fonte di beatitudine, e, siccome Dio è carità, diventiamo simili a Dio per la partecipazione della sua natura. Con il Corpo di Cristo, cioè la Chiesa in cielo e in terra, noi siamo compaginati dalla carità, e siamo tenuti uniti da questo vincolo comune. Il famoso *Trattato dell'amore di Dio* è giustamente compendiato da questa celebre definizione della carità: «La carità è un amore di amicizia, una amicizia di dilezione, una dilezione di preferenza, ma di preferenza incomparabile, somma e soprannaturale, che è come un sole in tutta l'anima per abbellirla dei suoi raggi, in tutte le facoltà spirituali per perfezionarle, in tutte le potenze per governarle. Ma la carità risiede nella volontà, come sua sede, per abitarvi e farle preferire e amare Dio sopra tutte le cose. Beata l'anima nella quale è diffusa questa santa dilezione, perché con essa le vengono tutti i beni» (ST. FRANÇOIS DE SALES, *Œuvres* (édition complète), t. IV (Annecy, 1984), p. 165: *Traité de l'amour de Dieu*, livre II, chap. 22).
+
+**Il nuovo fiorisce sull'antico**
+
+Pare qui opportuno spiegare brevemente perché san Francesco di Sales sia un Dottore moderno e tanto adatto al tempo presente. Lo si deve chiamare Dottore originale e moderno, non perché rompe i legami di continuità con i più antichi, che anzi la sua dottrina è radicalmente aderente alla fede della Chiesa, alla sacra Tradizione, alla dottrina dei santi Padri; nel campo poi ascetico e mistico prende non poco specialmente da sant'Ignazio di Loyola, dal beato Giovanni d'Avita, da Luigi di Granata, da santa Teresa d'Avita, da san Giovanni della Croce - da questi indirettamente - e dalla scuola dei maestri italiani di ascetica.
+
+Egli cerca però di porre l'antica dottrina sotto una nuova luce, di metterla sapientemente al servizio della vita moderna, opportunamente adattandola alle sue molteplici necessità. Non v'è dubbio che si serve anche dell'ausilio dell'arte, per giungere dalla verità al bene per una via rivestita dei fiori della pura bellezza. Egli infatti era stato formato alla scuola di Giovanni Maldonado a Parigi, e a quella di Antonio Possevino a Padova, e aveva acquisito una profonda cultura letteraria.
+
+**Sopraumanesimo cristocentrico**
+
+Egli quindi sa congiungere l'umanesimo con la ricerca e l'ascesa mistica, e sviluppare in sé e nei discepoli un graduale armonico affinamento di tutte le facoltà umane ( «Je suís tant homme que rien plus»: *Œuvres*, t. XIII (Lyon, 1904), p. 330; lettre du 2 novembre 1607 à la Baronne de Chantal; cf *Œuvres*, t. XX (Lyon, 1918), p. 216: «Il n'y a point d'âme au monde, comme je pense, qui chérissent plus cordialment, tendrement et, pour le dire tout à la bonne foi, plus amoureusement que moi; car il a plu à Dieu de faire mon cœur ainsi... je suís le plus affectif du monde».). Non si vuol dire con questo che il culto del bello sbocci spontaneamente nel fiore della mistica, ma che l'amore di Dio, scendendo dall'alto, non distrugge le facoltà naturali, anzi le eleva, le ordina e armonizza tra loro, ed esprime al vivo ogni forma di bellezza e tutta la perfezione della natura umana.
+
+Perciò il suo, più che «umanesimo devoto», si deve chiamare «sopraumanesimo cristocentrico», accostandosi esso sotto ogni aspetto alla santità integrale che si addice all'uomo. E poiché si è venuti a parlare di santità, è qui opportuno toccare brevemente e correggere l'opinione di quanti ritengono che la vera santità, quale la propone la Chiesa cattolica, non riguarda né obbliga tutti i cristiani, ma solo qualcuno, sia singolarmente preso, sia associato ad altri per mezzo dei voti religiosi.
+
+Questo vecchio errore ricompare in astrusi e aperti cavilli di certuni, i quali, sconcertati e sconcertatori, falsamente distinguono la perfezione cristiana della perfezione evangelica, e frappongono assurde distanze tra gli atti di carità dei monaci, dei sacerdoti, dei laici, oppure distorcono a false interpretazioni i decreti del recente Concilio Ecumenico, dove è chiaramente sancito e vivamente auspicato che anche tutti i fedeli e ogni classe di laici devono tendere con cuore indiviso alla santità della vita (Cf CONC. VAT. II, Cost. dogm. sulla Chiesa *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, cap. V, n. 40: AAS 57, 1965, pp. 44-45; Decreto *[Apostolicam actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_it.html)*, cap. I, n. 4: AAS 58, 1966, pp. 840-842; Cost. pastorale *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html)*, parte II, cap. I, n.48: AAS 58, 1966, pp. 1067-1069), poiché la grazia divina ne offre loro la possibilità.
+
+**Vocazione universale alla santità**
+
+Queste varie forme di santità sono proposte dal santo Vescovo di Ginevra con il nome significativo di devozione. «L'amore di Dio, quando fa che ci eleviamo a Lui con frequenza, prontezza e slancio, si chiama devozione» (*Œuvres*, t. III (Annecy, 1893), p. 15: *Introduction à la vie dévote*, partie I chap. 1).
+
+E san Francesco di Sales insistentemente esorta e sospinge tutte le persone, pur diverse tra loro per sesso, censo e condizione, per ché, infiammate da santi desideri, sentano e vivano questa devozione.
+
+La santità non è prerogativa dell'uno o dell'altro ceto; ma a tutti i cristiani è rivolto il pressante invito: «Amico, sali più in alto» (*Lc* 14,10); tutti sono vincolati dall'obbligo di salire il monte di Dio, anche se non tutti per la stessa via. «La devozione dev'essere esercitata in modo diverso dal gentiluomo, dall'artigiano, dal cameriere, dal principe, dalla vedova, dalla giovane, dalla sposa. Ancor più, la pratica della devozione deve essere adattata alle forze, agli affari e ai doveri di ognuno. Dimmi, Filotea, sarebbe conveniente che il Vescovo volesse vivere solitario come un Certosino? E se i mariti non volessero mettere a parte più denaro di quel che fanno i Cappuccini, se l'artigiano stesse tutto il giorno in chiesa come il religioso, e il religioso si esponesse ogni giorno ad ogni sorta di incontri per il servizio del prossimo, come un Vescovo, questa devozione non sarebbe ridicola, sregolata e insopportabile?... No, Filotea, la devozione, quando è vera, non guasta nulla, anzi perfeziona tutto; quando invece si rende contraria ai legittimi impegni di ciascuno, essa è certamente falsa» (*Œuvres* t. III. (Annecy, 1893), pp. 19-20: *Introduction à la vie dévote*, partie I, chap. 3).
+
+A questo proposito gioverà richiamare un'altra sua bellissima sentenza, con cui egli interpreta allegoricamente il comando che Dio diede alla terra di germogliare verzura che facesse il seme, ed alberi fruttiferi che producessero il frutto della loro specie (*Gn* 1,11). «Non vediamo noi per esperienza che le piante e i frutti non hanno la loro giusta crescenza e maturità, se non quando producono i grani e i semi, che servano alla produzione di erbe e di alberi della stessa specie? Così le nostre virtù non hanno la loro giusta misura e sufficienza, fino a che non producono in noi desideri di progresso, i quali, come semente spirituale, servano a produrre nuovi gradi di virtù. E mi sembra che la terra del nostro cuore abbia ricevuto l'ordine di far germogliare le erbe delle virtù, che portino i frutti delle opere sante, ognuna secondo la sua specie; ogni cosa ha l'ordine di produrre desideri e propositi di accrescimento, di progresso quotidiano nella perfezione. La virtù che non ha il grano e il seme di questi desideri, non è affatto sufficiente e matura» (*Œuvres*, t. V (Annecy, 1894), p. 82: *Traité de l'amour de Dieu.* lib. VIII, chap. 8).
+
+**Metodo di ecumenismo**
+
+Nel *Decreto conciliare sull'Ecumenismo* è stabilito: «Bisogna assolutamente esporre con chiarezza tutta intera la dottrina. Niente è più alieno dall'ecumenismo, quanto quel falso irenismo, dal quale viene a soffrirne la purezza della dottrina cattolica e ne viene oscurato il senso genuino e preciso... Inoltre nel dialogo ecumenico i teologi cattolici, restando fedeli alla dottrina della Chiesa, nell'investigare con i fratelli separati i divini misteri devono procedere con amore della verità, con carità e umiltà» (CONC. VAT. П, Decreto sull'ecumenismo [*Unitatis* *redintegratio*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_unitatis-redintegratio_it.html), cap. II, n. 11: AAS 57, 1965, p. 99). Nel trattare con gli eterodossi, san Francesco di Sales prevenne di secoli i nostri tempi e le nostre abitudini; il suo metodo tiene una via luminosa, che dev'essere anche oggi imitata. Si trova in lui somma integrità di vita, somma dolcezza e benignità. Non è mai violento nelle dispute, ama gli erranti mentre corregge gli errori; e se le sue posizioni ano diverse, egli non usa mai l'opposizione polemica, e avvicina la lucerna alla lucerna; tenace nell'amare, nel pregare e nell'illuminare, sa pazientare a lungo, sa ricondurre gradatamente gli erranti alla pienezza della verità, dalla quale non è lecito ad alcuno di allontanarsi, e che nessuno ha il permesso di diminuire. E quali i suoi frutti? Per opera sua, nella sola provincia di Châlons-sur-Saône settantadue mila uomini ritornarono all'unione con la Sede Apostolica.
+
+**Modello degli scrittori cattolici**
+
+Non meno che nel discutere, ebbe singolare disposizione allo scrivere. Quanta abbondanza di dottrina nei libri da lui composti, quanta chiarezza di pensiero, quanta nativa grazia ed aurea eleganza! L'argomento si svolge armonico: la lettura è sommamente piacevole, istruttiva, stimolante.
+
+Quando scrive, come quando predicava al popolo, i suoi lettori, come una volta i suoi uditori, hanno un solo timore: che egli abbia a finire troppo presto. La sua parola possiede la dote più eccelsa dell'arte, la costante vivacità che Pindaro ha così splendidamente espresso: «Se uno si esprime in modo esimio, le sue parole hanno una risonanza immortale: varcano terre feracissime e il mare; e la luce delle insigni gesta è raggio che mai si estinguerà» (PINDARO, *Isth.,* Od. IV, vv. 45-47).
+
+Dato agli scrittori e giornalisti cattolici quale efficace Patrono celeste, li richiami con l'esempio, li diriga con l'autorità, affinché, non mai fallaci a motivo di lucro né ingannati da pregiudizi, ma imbevuti dello spirito di Cristo e onesti cultori della verità, compiano il loro dovere per il bene comune, e possano rendersi benemeriti della fede cattolica, della quale sono servitori. Così facendo ottempereranno lodevolmente al Decreto sui mezzi di comunicazione sociale (cap. 14) del Concilio Ecumenico Vaticano II, e non tradiranno dolorosamente la speranza e l'attesa in loro riposta.
+
+**Ecclesiologia**
+
+Alla genuina immagine del santo Vescovo di Ginevra mancherebbe ora un tratto importantissimo, se si passasse sotto silenzio la sua eccellente e ricca dottrina sul mistero della Chiesa, sulla sua ampiezza, natura e autorità. Quanto amorosa fu la sua riverenza - dote comune del resto a tutti i Santi - e quanto il suo costante e amabile zelo fu pieno di rispetto verso la Chiesa, madre e maestra, dove sulla cattedra dell'unità è riposta la dottrina della verità!
+
+Quali siano i fondamenti della Chiesa, e dove siano riposti, egli lo dichiarò con tanta sicurezza da poter servire non poco alla chiara interpretazione della Costituzione dogmatica *Lumen gentium* del Concilio Ecumenico. Tralasciando altri passi, riportiamo questo: «Nostro Signore è fondamento e fondatore, fondamento senz'altro fondamento, fondamento della Chiesa naturale, mosaica ed evangelica, fondamento perpetuo e immortale, fondamento della Chiesa militante e trionfante, fondamento di se stesso, fondamento della nostra fede, speranza e carità, e del valore dei Sacramenti. San Pietro è fondamento e non fondatore di tutta la Chiesa, fondamento, ma fondato su un altro fondamento che è nostro Signore, fondamento della sola Chiesa evangelica, fondamento soggetto a successione, fondamento della Chiesa militante, non di quella trionfante, fondamento per partecipazione, fondamento di servizio, non di dominio, e in nessun modo fondamento della nostra fede, speranza e carità, né del valore dei sacramenti...
+
+**I fondamenti della Chiesa**
+
+Tuttavia, nell'autorità e nel governo san Pietro ha sorpassato tutti gli altri di tanto quanto il capo supera le membra; poiché egli è stato costituito pastore ordinario e capo supremo della Chiesa, gli altri sono stati pastori inviati e designati in altre parti della Chiesa, con potere e autorità su tutta la Chiesa, altrettanto piena che in san Pietro, senonché san Pietro era loro comune capo, e loro pastore come di tutta la cristianità.
+
+Così essi furono fondamento della Chiesa con lui e al pari di lui, quanto alla conversione delle anime e per dottrina; ma quanto all'autorità e al governo, essi lo furono in modo disuguale, perché san Pietro era il capo ordinario non solo delle altre parti di tutta la Chiesa, ma anche degli Apostoli. Infatti, nostro Signore aveva edificato su di lui tutta la sua Chiesa, della quale essi erano non solo parti, ma le parti principali e più nobili» (*Œuvres*, t. I (Annency, 1892), pp. 237-238 e 239: *Controverses*, pars II, cap. VI, art. 2).
+
+**Abramo e san Pietro**
+
+È anche molto opportuno che con intelligente giudizio e profonda riflessione si mediti la similitudine che il Sales suggerisce tra Abramo e san Pietro. L'uno e l'altro sono pietra, padre dei credenti, padre di molte genti, cioè di una discendenza, promessa - in premio della fede in Cristo - all'uno come arena del mare e moltitudine di stelle rutilanti in cielo, all'altro come immenso gregge di pecore e di agnelli. «Poiché, se Abramo fu così chiamato per il fatto di dover essere padre di molti popoli, san Pietro ha ricevuto questo nome perché su di lui come su solida pietra, doveva essere fondata la moltitudine dei cristiani. Per questa rassomiglianza san Bernardo chiama la dignità di san Pietro: Patriarcato di Abramo» (Cf *ibid*. p. 230; SAN BERNARDO DI CHIARAVALLE, *De consideratione*, lib. II, cap. 8, n. 15: PL 182, 751).
+
+Con queste profonde aspirazioni, con questi propositi di vita, con questa piena affermazione di integra fede cattolica, impreziosite quanto meglio potete le celebrazioni del quarto Centenario della nascita di san Francesco di Sales. Nel mutuo legame della comunione dei Santi, il grande Dottore, sorgente di luce per la santa Chiesa, risponderà al nostro ossequio con l'aiuto dei suoi meriti e della sua potente e pietosa preghiera presso Dio.
+
+**Preghiera finale**
+
+Questa sapientissima guida delle anime vi impetri la dolce mansuetudine del divino Redentore, il quale ci ha insegnato ad essere miti e umili di cuore, e come tali, a possedere la terra.
+
+Il Dottore della direzione spirituale introduca in folta schiera i suoi discepoli nelle deliziose e sante vie, che egli ha tracciato con norme adatte; susciti una fiamma più ardente di carità, riaccenda negli uomini il desiderio della salute eterna, insegnando ai suoi devoti ad amare non a parole ma con le opere, sinceramente (Cf 1 *Gv* 3,18), sostenga i Vescovi nel fedele compimento del loro dovere, lui che ne è l'onore e il modello; con premurosa cura assista l'Istituto delle suore della Visitazione da lui fondato, custodisca benigno la famiglia Salesiana di san Giovanni Bosco, e le altre che da lui hanno preso il metodo, i principi e la forma di vita spirituale; agli scrittori e giornalisti cattolici inculchi e ottenga che si accostino il più possibile alla verità con pura coscienza e lealtà incensurabile; con la sua potente preghiera sia propizio ad Annecy e alla Savoia, sua dolce terra natale, perché abbia a rifiorire e s'ingemmi dell'antica pietà, a Ginevra, sede della sua dignità episcopale, alla Svizzera e al Piemonte ottenga un accrescimento di luce e di pace evangelica; e infine, a quanti in suo onore celebreranno queste feste centenarie, conceda che cresca in essi, secondo il suo insegnamento, «l'albero del desiderio della santità» («L'arbre du désir de sainteté»: *Œuvres*, t. XXII (Annency 1902), p. 264: lettre du 3 mai 1604 à la Baronne de Chantal); impetri a tutti l'abbondanza dei migliori doni celesti.
+
+Con il vivo desiderio che san Francesco di Sales, con la sua caratteristica benignità, assista Noi pure nell'adempire con rettitudine, fortezza, soavità il Nostro ministero in mezzo a tante difficoltà e novità impreviste, a voi, diletti Figli Nostri e Venerabili Fratelli, al clero e al popolo affidato alle vostre cure, di cuore impartiamo l'Apostolica Benedizione, auspice e pegno di grazia copiosa e di celeste dolcezza.
+
+*Dato a Roma presso san Pietro, il 29 gennaio 1967, quarto anno del Nostro Pontificato.*
+
+**PAOLO PP. VI**

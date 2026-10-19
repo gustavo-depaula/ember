@@ -1,0 +1,40 @@
+{
+  "id": "honorius-iii-quia-populares",
+  "cover": "quarter",
+  "name": {
+    "es": "Quia Populares"
+  },
+  "author": {
+    "en-US": "Pope Honorius III",
+    "pt-BR": "Papa Honório III",
+    "la": "Honorius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Honorius III · 1224-12-03",
+    "pt-BR": "Documento · Papa Honório III · 1224-12-03"
+  },
+  "composed": "1224",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "honorius-iii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1224-12-03,_SS_Honorius_III,_Quia_Populares,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Quia Populares"
+      }
+    }
+  ]
+}

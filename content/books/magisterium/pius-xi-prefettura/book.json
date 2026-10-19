@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-prefettura",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo al Cardinale Eugenio Pacelli, Segretario di Stato, col quale il Sommo Pontefice si riserva la Prefettura della Sacra Congregazione dei Seminari e delle Università degli Studi"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1937-09-03",
+    "pt-BR": "Carta · Papa Pio XI · 1937-09-03"
+  },
+  "composed": "1937",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19370903_prefettura.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo al Cardinale Eugenio Pacelli, Segretario di Stato, col quale il Sommo Pontefice si riserva la Prefettura della Sacra Congregazione dei Seminari e delle Università degli Studi"
+      }
+    }
+  ]
+}

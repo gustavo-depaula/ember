@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-nuper-pro",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Nuper pro"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VI · 1779-03-06",
+    "pt-BR": "Breve · Papa Pio VI · 1779-03-06"
+  },
+  "composed": "1779",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/breve-nuper-pro-6-marzo-1779.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Nuper pro"
+      }
+    }
+  ]
+}

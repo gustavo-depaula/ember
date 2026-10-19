@@ -1,0 +1,80 @@
+{
+  "id": "cdf-tissa-balasuriya",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Notification concerning the Text «Mary and Human Liberation» by Father Tissa Balasuriya, OMI",
+    "pt-BR": "Notificação sobre o livro Mary and Human Liberation do Padre Tissa Balasuriya OMI, 2 de janeiro de 1997",
+    "de": "Notifikation über das Werk «Mary and human liberation» von P. Tissa Balasuriya, OMI, 2. Januar 1997 - Kongregation für die Glaubenslehre",
+    "es": "Notificación sobre la obra «Mary and Human Liberation» del padre Tissa Balasuriya, o.m.i.",
+    "fr": "Notification à propos de l'ouvrage «Mary and human liberation» du P. Tissa Balasuriya, O.M.I., 2 janvier 1997",
+    "it": "Notificazione sull'opera «Mary and human liberation» del P. Tissa Balasuriya, O.M.I., 2 gennaio 1997 - Congregazione per la Dottrina della Fede"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1997-01-02",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1997-01-02"
+  },
+  "composed": "1997",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19970102_tissa-balasuriya_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19970102_tissa-balasuriya_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19970102_tissa-balasuriya_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19970102_tissa-balasuriya_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19970102_tissa-balasuriya_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19970102_tissa-balasuriya_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Notification concerning the Text «Mary and Human Liberation» by Father Tissa Balasuriya, OMI",
+        "pt-BR": "Notificação sobre o livro Mary and Human Liberation do Padre Tissa Balasuriya OMI, 2 de janeiro de 1997",
+        "de": "Notifikation über das Werk «Mary and human liberation» von P. Tissa Balasuriya, OMI, 2. Januar 1997 - Kongregation für die Glaubenslehre",
+        "es": "Notificación sobre la obra «Mary and Human Liberation» del padre Tissa Balasuriya, o.m.i.",
+        "fr": "Notification à propos de l'ouvrage «Mary and human liberation» du P. Tissa Balasuriya, O.M.I., 2 janvier 1997",
+        "it": "Notificazione sull'opera «Mary and human liberation» del P. Tissa Balasuriya, O.M.I., 2 gennaio 1997 - Congregazione per la Dottrina della Fede"
+      }
+    }
+  ]
+}

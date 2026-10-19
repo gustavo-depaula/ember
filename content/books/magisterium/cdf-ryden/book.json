@@ -1,0 +1,88 @@
+{
+  "id": "cdf-ryden",
+  "cover": "quarter",
+  "name": {
+    "en-US": "NOTIFICATION",
+    "pt-BR": "Notificação sobre os escritos e atividades da Sra.Vassula Ryden, 6 de outubro de 1995",
+    "de": "Notifikation über die Schriften und Aktivitäten von Frau Vassula Ryden",
+    "es": "Notificación sobre los escritos y las obras de la señora Vassula Rydén, 6 octubre 1995",
+    "fr": "Notification à propos des écrits et des activités de Mme Vassula Ryden, 6 octobre 1995",
+    "it": "Notificazione sugli scritti e lÂattività della Signora Vassula Ryden, 6 ottobre 1995",
+    "pl": "INFORMACJA NA TEMAT PISM I DZIAŁALNOŚCI PANI VASSULI RYDEN, 6 października 1995 r.\""
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1995-10-06",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1995-10-06"
+  },
+  "composed": "1995",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951006_ryden_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "NOTIFICATION",
+        "pt-BR": "Notificação sobre os escritos e atividades da Sra.Vassula Ryden, 6 de outubro de 1995",
+        "de": "Notifikation über die Schriften und Aktivitäten von Frau Vassula Ryden",
+        "es": "Notificación sobre los escritos y las obras de la señora Vassula Rydén, 6 octubre 1995",
+        "fr": "Notification à propos des écrits et des activités de Mme Vassula Ryden, 6 octobre 1995",
+        "it": "Notificazione sugli scritti e lÂattività della Signora Vassula Ryden, 6 ottobre 1995",
+        "pl": "INFORMACJA NA TEMAT PISM I DZIAŁALNOŚCI PANI VASSULI RYDEN, 6 października 1995 r.\""
+      }
+    }
+  ]
+}

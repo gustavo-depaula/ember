@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-ecclesia-in-europa",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ecclesia in Europa",
+    "pt-BR": "Ecclesia in Europa",
+    "de": "Ecclesia in Europa",
+    "es": "Ecclesia in Europa",
+    "fr": "Ecclesia in Europa",
+    "hr": "Ecclesia in Europa",
+    "hu": "Ecclesia in Europa"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope John Paul II · 2003-06-28",
+    "pt-BR": "Exortação Apostólica · Papa João Paulo II · 2003-06-28"
+  },
+  "composed": "2003",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "hu"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/john-paul-ii/hr/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ecclesia in Europa",
+        "pt-BR": "Ecclesia in Europa",
+        "de": "Ecclesia in Europa",
+        "es": "Ecclesia in Europa",
+        "fr": "Ecclesia in Europa",
+        "hr": "Ecclesia in Europa",
+        "hu": "Ecclesia in Europa"
+      }
+    }
+  ]
+}

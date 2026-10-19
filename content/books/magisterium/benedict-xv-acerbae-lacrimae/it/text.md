@@ -1,0 +1,17 @@
+# Epistola Dum Acerbae Lacrimae al R. P. Cesare Pedrini, Superiore della Pia Unione del Transito di San Giuseppe, con la quale si attribuiscono speciali privilegi ai sacerdoti appartenenti al Sodalizio
+
+EPISTOLA   
+***DUM ACERBAE LACRIMAE*** DEL PAPA BENEDETTO XV  
+AL R. P. CESARE PEDRINI  
+DELLA CONGREGAZIONE DEI SERVI DELLA CARITÀ,  
+SUPERIORE DELLA PIA UNIONE  
+DEL TRANSITO DI SAN GIUSEPPE,  
+CON LA QUALE ACCORDA SPECIALI PRIVILEGI AI SACERDOTI APPARTENENTI AL SODALIZIO
+
+*Diletto figlio, salute e Apostolica Benedizione.*
+
+Mentre amare lagrime grondano dal Nostro ciglio sulle miserie sempre crescenti della travagliata umanità, non vi è per Noi conforto maggiore che di alleviare, quanto è possibile, le pene e le sofferenze che questa atroce ed interminabile guerra va moltiplicando in ogni ora del giorno su tanta parte del mondo. Ma la Nostra carità apostolica non può arrestarsi a quei desolati figli che stanno peregrinando in questa valle di pianto; giacché altre migliaia di figli diletti, che sono per varcare la soglia dell’eternità, fanno giungere al Nostro cuore l’eco della loro languida voce invocante il soccorso di una prece per il felice passaggio alla vita sempiterna. E ben Ci consoliamo al riflettere che in aiuto spirituale dei poveri agonizzanti fu istituita la Pia Unione del Transito di S. Giuseppe, la quale ha avuto, in breve lasso di tempo, uno sviluppo ed una diffusione quali appunto si convenivano al raddoppiato bisogno di sacri olocausti e di preci propiziatorie per i morenti. Né possiamo astenerci dal manifestare la soddisfazione che abbiamo provata nel venire a conoscenza del pio pensiero di rendere più efficaci le buone opere collettive di codesto santo Sodalizio, invitando i reverendi sacerdoti ad applicare per turno qualche santa Messa per i moribondi della giornata. E poiché il Romano Pontefice è il primo fra i ministri dell’altare, così a Noi piace incoraggiare la lodevole iniziativa e favorire il pio divisamento andando innanzi con l’esempio ed accettando di celebrare Noi stessi, a questo caritatevole scopo, il santo Sacrificio della Messa; e ciò faremo il primo giorno di ciascun mese, ovvero il secondo, quando il primo sia giorno festivo. A titolo, poi, di maggiore incoraggiamento accordiamo a quei pii sacerdoti che annualmente applicheranno qualche S. Messa per i poveri morenti, la facoltà di benedire *extra Urbem*, e con la forma del Rituale, corone, crocefissi, medaglie, piccole statue e oggetti di devozione, applicandovi le indulgenze apostoliche, la facoltà di applicare alle corone le indulgenze dei Domenicani e Crocigeri; la facoltà di benedire e imporre ai fedeli gli scapolari della Ssma Trinità, della Passione, dell’Addolorata, dell’Immacolata, del Carmine e del S. Cingolo di S. Giuseppe con una sola formula, e la facoltà dell’altare personale privilegiato ogni volta che applicheranno la Messa per gli agonizzanti. Inoltre accordiamo ai medesimi ecelesiastici l’indulgenza plenaria in punto di morte e nelle feste principali di Nostro Signore, della Beata Vergine, dello Sposalizio, Transito e Patrocinio di S. Giuseppe, nella festa di S. Michele e nell’anniversario della loro sacra Ordinazione. Ed invocando sulla pia Società, per l’intercessione del suo celeste Patrono, l’abbondanza dei divini favori, impartiamo di cuore a Lei, diletto figlio, ed a tutti gli ascritti alla pia crociata l’Apostolica Benedizione.
+
+*Dal Vaticano, li 15 giugno 1917.*
+
+**BENEDICTUS PP. XV**

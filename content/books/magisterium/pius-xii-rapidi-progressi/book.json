@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-rapidi-progressi",
+  "cover": "quarter",
+  "name": {
+    "it": "I Rapidi Progressi: Esortazione agli Em.mi o Ecc.mi Vescovi d'Italia in occasione del primo giorno di trasmissioni della Televisione Italiana"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius XII · 1954-01-01",
+    "pt-BR": "Exortação Apostólica · Papa Pio XII · 1954-01-01"
+  },
+  "composed": "1954",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_exhortations/documents/hf_p-xii_exh_19540101_rapidi-progressi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "I Rapidi Progressi: Esortazione agli Em.mi o Ecc.mi Vescovi d'Italia in occasione del primo giorno di trasmissioni della Televisione Italiana"
+      }
+    }
+  ]
+}

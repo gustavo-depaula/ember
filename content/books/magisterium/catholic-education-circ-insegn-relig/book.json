@@ -1,0 +1,88 @@
+{
+  "id": "catholic-education-circ-insegn-relig",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Circular Letter on Religious Education in Schools - Congregation for Catholic Education",
+    "pt-BR": "Carta Circular sobre o Ensino da Religião na Escola, Congregação para a Educação Católica",
+    "es": "Carta circular N. 520/2009 a los presidentes de las Conferencias episcopales, 5 mayo 2009",
+    "fr": "Lettre circulaire sur l'enseignement de la religion dans l'école",
+    "it": "Lettera circolare sull'insegnamento della religione nella scuola - Congregazione per l'Educazione Cattolica",
+    "zh-CN": "Circular letter to the Presidents of Bishops' conferences on religious education in schools (May 5, 2009)",
+    "zh-TW": "Circular letter to the Presidents of Bishops' conferences on religious education in schools (May 5, 2009)"
+  },
+  "author": {
+    "en-US": "Dicastery for Culture and Education",
+    "pt-BR": "Dicastério para a Cultura e a Educação",
+    "la": "Dicasterium de Cultura et Educatione"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Culture and Education · 2009-05-05",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Cultura e a Educação · 2009-05-05"
+  },
+  "composed": "2009",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "catholic-education"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20090505_circ-insegn-relig_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20090505_circ-insegn-relig_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20090505_circ-insegn-relig_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20090505_circ-insegn-relig_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20090505_circ-insegn-relig_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20090505_circ-insegn-relig_zh-s.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20090505_circ-insegn-relig_zh-t.pdf",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Circular Letter on Religious Education in Schools - Congregation for Catholic Education",
+        "pt-BR": "Carta Circular sobre o Ensino da Religião na Escola, Congregação para a Educação Católica",
+        "es": "Carta circular N. 520/2009 a los presidentes de las Conferencias episcopales, 5 mayo 2009",
+        "fr": "Lettre circulaire sur l'enseignement de la religion dans l'école",
+        "it": "Lettera circolare sull'insegnamento della religione nella scuola - Congregazione per l'Educazione Cattolica",
+        "zh-CN": "Circular letter to the Presidents of Bishops' conferences on religious education in schools (May 5, 2009)",
+        "zh-TW": "Circular letter to the Presidents of Bishops' conferences on religious education in schools (May 5, 2009)"
+      }
+    }
+  ]
+}

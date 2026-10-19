@@ -1,0 +1,48 @@
+{
+  "id": "nicholas-iii-exiit-qui-seminat",
+  "cover": "quarter",
+  "name": {
+    "la": "Exiit qui seminat",
+    "en-US": "Exiit qui seminat"
+  },
+  "author": {
+    "en-US": "Pope Nicholas III",
+    "pt-BR": "Papa Nicolau III",
+    "la": "Nicolaus PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Nicholas III · 1279-08-14",
+    "pt-BR": "Documento · Papa Nicolau III · 1279-08-14"
+  },
+  "composed": "1279",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "nicholas-iii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1279-08-14,_SS_Nicholaus_III,_Exiit_Qui_Seminat,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/nichol03/exiit-e.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Exiit qui seminat",
+        "en-US": "Exiit qui seminat"
+      }
+    }
+  ]
+}

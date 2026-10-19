@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-alloquentes-proxime",
+  "cover": "quarter",
+  "name": {
+    "la": "Alloquentes proxime, Motu proprio, De attribuenda Sancto Officio censura librorum et poenitentiariae apostolicae concessione indulgentiarum, d. 25 m. Martii a. 1917, Benedictus PP. XV",
+    "it": "Alloquentes Proxime con il quale si decide la fusione delle Sacre Congregazioni dell’Indice e del Sant’Uffizio e affidata alla Penitenzieria Apostolica la materia riguardante le Indulgenze"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1917-03-25",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1917-03-25"
+  },
+  "composed": "1917",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19170325_alloquentes-proxime.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19170325_alloquentes-proxime.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Alloquentes proxime, Motu proprio, De attribuenda Sancto Officio censura librorum et poenitentiariae apostolicae concessione indulgentiarum, d. 25 m. Martii a. 1917, Benedictus PP. XV",
+        "it": "Alloquentes Proxime con il quale si decide la fusione delle Sacre Congregazioni dell’Indice e del Sant’Uffizio e affidata alla Penitenzieria Apostolica la materia riguardante le Indulgenze"
+      }
+    }
+  ]
+}

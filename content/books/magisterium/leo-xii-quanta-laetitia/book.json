@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-quanta-laetitia",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Quanta Laetitia"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XII · 1827-02-13",
+    "pt-BR": "Breve · Papa Leão XII · 1827-02-13"
+  },
+  "composed": "1827",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/breve-quanta-laetitia-13-febbraio-1827.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Quanta Laetitia"
+      }
+    }
+  ]
+}

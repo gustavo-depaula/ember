@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-il-divisamento",
+  "cover": "quarter",
+  "name": {
+    "la": "Novae condendae",
+    "it": "Il divisamento"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIII · 1893-02-08",
+    "pt-BR": "Carta Apostólica · Papa Leão XIII · 1893-02-08"
+  },
+  "composed": "1893",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/hf_l-xiii_apl_18930208_il-divisamento.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/apost_letters/documents/hf_l-xiii_apl_18930208_il-divisamento.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Novae condendae",
+        "it": "Il divisamento"
+      }
+    }
+  ]
+}

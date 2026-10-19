@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-iustitia-et-pacem",
+  "cover": "quarter",
+  "name": {
+    "la": "Iustitiam et pacem - Pontificia Commissio a Iustitia et Pace certa ac definita ordinatione donatur, die 10 m. Decembris a. 1976, Paulus PP.VI",
+    "it": "Lettera Apostolica in forma di Motu Proprio Iustitiam et pacem con la quale viene determinata la definitiva struttura della Pontificia Commissione «Iustitia et Pax»"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1976-12-10",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1976-12-10"
+  },
+  "composed": "1976",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19761210_iustitia-et-pacem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19761210_iustitia-et-pacem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Iustitiam et pacem - Pontificia Commissio a Iustitia et Pace certa ac definita ordinatione donatur, die 10 m. Decembris a. 1976, Paulus PP.VI",
+        "it": "Lettera Apostolica in forma di Motu Proprio Iustitiam et pacem con la quale viene determinata la definitiva struttura della Pontificia Commissione «Iustitia et Pax»"
+      }
+    }
+  ]
+}

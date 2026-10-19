@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-rurale-irlanda",
+  "cover": "quarter",
+  "name": {
+    "en-US": "PIUS PP. XII LETTERA AL SIGNOR GIOVANNI M. HAYES, PER IL CONGRESSO RURALE CATTOLICO DELL"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1954-07-14",
+    "pt-BR": "Carta · Papa Pio XII · 1954-07-14"
+  },
+  "composed": "1954",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_19540714_rurale-irlanda.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "PIUS PP. XII LETTERA AL SIGNOR GIOVANNI M. HAYES, PER IL CONGRESSO RURALE CATTOLICO DELL"
+      }
+    }
+  ]
+}

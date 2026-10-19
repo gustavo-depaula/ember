@@ -1,0 +1,40 @@
+{
+  "id": "adeodatus-ii-professione-di-fede",
+  "cover": "quarter",
+  "name": {
+    "it": "Professione di Fede"
+  },
+  "author": {
+    "en-US": "Pope Adeodatus II",
+    "pt-BR": "Papa Adeodato II",
+    "la": "Adeodatus PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Adeodatus II · 0675-11-07",
+    "pt-BR": "Documento · Papa Adeodato II · 0675-11-07"
+  },
+  "composed": "675",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "adeodatus-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0675-11-07,_SS_Adeodatus_II,_Professione_di_Fede,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Professione di Fede"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-assembly-ageing",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Second World Assembly on Ageing",
+    "pt-BR": "Carta ao Presidente II Assembléia Mundial sobre Envelhecimento",
+    "de": "Schreiben an den Teilnehmer der Internationalen Konferenz über die Alten",
+    "es": "Carta al Presidente de la Segunda Asamblea mundial sobre el Envejecimientos",
+    "fr": "Lettre au Président de la deuxième Assemblée mondiale sur le Vieillissement",
+    "it": "Lettera al Presidente della Seconda Assemblea Mondiale sugli Anziani"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 2002-04-10",
+    "pt-BR": "Carta · Papa João Paulo II · 2002-04-10"
+  },
+  "composed": "2002",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/2002/documents/hf_jp-ii_let_20020410_assembly-ageing.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/2002/documents/hf_jp-ii_let_20020410_assembly-ageing.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/2002/documents/hf_jp-ii_let_20020410_assembly-ageing.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/2002/documents/hf_jp-ii_let_20020410_assembly-ageing.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/2002/documents/hf_jp-ii_let_20020410_assembly-ageing.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/2002/documents/hf_jp-ii_let_20020410_assembly-ageing.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Second World Assembly on Ageing",
+        "pt-BR": "Carta ao Presidente II Assembléia Mundial sobre Envelhecimento",
+        "de": "Schreiben an den Teilnehmer der Internationalen Konferenz über die Alten",
+        "es": "Carta al Presidente de la Segunda Asamblea mundial sobre el Envejecimientos",
+        "fr": "Lettre au Président de la deuxième Assemblée mondiale sur le Vieillissement",
+        "it": "Lettera al Presidente della Seconda Assemblea Mondiale sugli Anziani"
+      }
+    }
+  ]
+}

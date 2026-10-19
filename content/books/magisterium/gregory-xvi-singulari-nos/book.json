@@ -1,0 +1,48 @@
+{
+  "id": "gregory-xvi-singulari-nos",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Singulari Nos",
+    "it": "Enciclica Singulari nos"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Gregory XVI · 1834-06-25",
+    "pt-BR": "Encíclica · Papa Gregório XVI · 1834-06-25"
+  },
+  "composed": "1834",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg16/g16singu.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/enciclica-singulari-nos-25-giugno-1834.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Singulari Nos",
+        "it": "Enciclica Singulari nos"
+      }
+    }
+  ]
+}

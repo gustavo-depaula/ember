@@ -1,0 +1,40 @@
+{
+  "id": "honorius-iii-cum-secundum",
+  "cover": "quarter",
+  "name": {
+    "es": "Cum Secundum"
+  },
+  "author": {
+    "en-US": "Pope Honorius III",
+    "pt-BR": "Papa Honório III",
+    "la": "Honorius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Honorius III · 1220-09-22",
+    "pt-BR": "Documento · Papa Honório III · 1220-09-22"
+  },
+  "composed": "1220",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "honorius-iii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1220-09-22,_SS_Honorius_III,_Cum_Secundum,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Cum Secundum"
+      }
+    }
+  ]
+}

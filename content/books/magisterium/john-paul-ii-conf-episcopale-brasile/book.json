@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-conf-episcopale-brasile",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Carta aos Bispos da Conferência Episcopal dos Bispos do Brasil",
+    "it": "Lettera alla Conferenza Episcopale Brasiliana"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1986-04-09",
+    "pt-BR": "Carta · Papa João Paulo II · 1986-04-09"
+  },
+  "composed": "1986",
+  "languages": [
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1986/documents/hf_jp-ii_let_19860409_conf-episcopale-brasile.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1986/documents/hf_jp-ii_let_19860409_conf-episcopale-brasile.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Carta aos Bispos da Conferência Episcopal dos Bispos do Brasil",
+        "it": "Lettera alla Conferenza Episcopale Brasiliana"
+      }
+    }
+  ]
+}

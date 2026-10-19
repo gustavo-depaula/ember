@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-barragan-camerun",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the participants in the 13th World Day for the Sick in Yaoundé (Cameroon)",
+    "pt-BR": "Carta aos participantes das celebrações do XIII Dia Mundial do Doente em Iaundé (Camarões)",
+    "de": "Schreiben anlässlich des XIII. Welttages der Kranken in Yaoundé (Kamerun)",
+    "es": "Carta a los participantes en las celebraciones de la XIII Jornada Mundial del Enfermo en Yaundé (Camerún)",
+    "fr": "Lettre à l'occasion de la célébration de la XIIIe Journée mondiale du Malade à Yaoundé (Cameroun)",
+    "it": "Lettera ai partecipanti alle celebrazioni della XIII Giornata Mondiale del Malato a Yaoundé (Camerun)"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 2005-02-01",
+    "pt-BR": "Carta · Papa João Paulo II · 2005-02-01"
+  },
+  "composed": "2005",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/2005/documents/hf_jp-ii_let_20050201_barragan-camerun.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/2005/documents/hf_jp-ii_let_20050201_barragan-camerun.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/2005/documents/hf_jp-ii_let_20050201_barragan-camerun.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/2005/documents/hf_jp-ii_let_20050201_barragan-camerun.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/2005/documents/hf_jp-ii_let_20050201_barragan-camerun.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/2005/documents/hf_jp-ii_let_20050201_barragan-camerun.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the participants in the 13th World Day for the Sick in Yaoundé (Cameroon)",
+        "pt-BR": "Carta aos participantes das celebrações do XIII Dia Mundial do Doente em Iaundé (Camarões)",
+        "de": "Schreiben anlässlich des XIII. Welttages der Kranken in Yaoundé (Kamerun)",
+        "es": "Carta a los participantes en las celebraciones de la XIII Jornada Mundial del Enfermo en Yaundé (Camerún)",
+        "fr": "Lettre à l'occasion de la célébration de la XIIIe Journée mondiale du Malade à Yaoundé (Cameroun)",
+        "it": "Lettera ai partecipanti alle celebrazioni della XIII Giornata Mondiale del Malato a Yaoundé (Camerun)"
+      }
+    }
+  ]
+}

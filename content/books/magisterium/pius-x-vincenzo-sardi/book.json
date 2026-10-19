@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-vincenzo-sardi",
+  "cover": "quarter",
+  "name": {
+    "it": "A Vincenzo Sardi"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1905-02-06",
+    "pt-BR": "Carta · Papa Pio X · 1905-02-06"
+  },
+  "composed": "1905",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19050206_vincenzo-sardi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "A Vincenzo Sardi"
+      }
+    }
+  ]
+}

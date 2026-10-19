@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xiv-sedes-apostolica",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Sedes Apostolica'"
+  },
+  "author": {
+    "en-US": "Pope Gregory XIV",
+    "pt-BR": "Papa Gregório XIV",
+    "la": "Gregorius PP. XIV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Gregory XIV · 1591-06-01",
+    "pt-BR": "Bula · Papa Gregório XIV · 1591-06-01"
+  },
+  "composed": "1591",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "gregory-xiv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1591-06-01,_SS_Gregorius_XIV,_Bulla_'Sedes_Apostolica',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Sedes Apostolica'"
+      }
+    }
+  ]
+}

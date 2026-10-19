@@ -1,0 +1,40 @@
+{
+  "id": "clement-v-vox-in-eccelso",
+  "cover": "quarter",
+  "name": {
+    "it": "Vox in Eccelso"
+  },
+  "author": {
+    "en-US": "Pope Clement V",
+    "pt-BR": "Papa Clemente V",
+    "la": "Clemens PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Clement V · 1312-03-22",
+    "pt-BR": "Documento · Papa Clemente V · 1312-03-22"
+  },
+  "composed": "1312",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "clement-v"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1312-03-22,_SS_Clemens_V,_Vox_in_Eccelso,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Vox in Eccelso"
+      }
+    }
+  ]
+}

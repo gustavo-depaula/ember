@@ -1,0 +1,72 @@
+{
+  "id": "benedict-xvi-alessandria-copti",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Exchange of letters between his Holiness Benedict XVI and His Beatitude Antonios Naguib, Patriarch of Alexandria for the Coptic Catholics for the concession of ecclesial communion",
+    "pt-BR": "Correspondência entre Sua Santidade Bento XVI e Sua Beatitude Antonios Naguib, Patriarca de Alexandria dos Copto-Católicos para a concessão da comunhão eclesiástica",
+    "es": "Intercambio de cartas entre Su Santidad Benedicto XVI y Su Beatitud Antonios Naguib, Patriarca de Alejandría de los coptos católicos, para la concesión de la comunión eclesiástica",
+    "fr": "Echange de lettres entre le Pape Benoît XVI et Sa Béatitude Antonios Naguib, Patriarche d'Alexandrie des Coptes catholiques pour accorder la communion ecclésiale",
+    "it": "Scambio di lettere fra Sua Santità Benedetto XVI e Sua Beatitudine Antonios Naguib, Patriarca di Alessandria dei Copti Cattolici per la concessione della comunione ecclesiastica"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XVI · 2006-04-06",
+    "pt-BR": "Carta · Papa Bento XVI · 2006-04-06"
+  },
+  "composed": "2006",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/letters/2006/documents/hf_ben-xvi_let_20060406_alessandria-copti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/letters/2006/documents/hf_ben-xvi_let_20060406_alessandria-copti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/letters/2006/documents/hf_ben-xvi_let_20060406_alessandria-copti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/letters/2006/documents/hf_ben-xvi_let_20060406_alessandria-copti.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/letters/2006/documents/hf_ben-xvi_let_20060406_alessandria-copti.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Exchange of letters between his Holiness Benedict XVI and His Beatitude Antonios Naguib, Patriarch of Alexandria for the Coptic Catholics for the concession of ecclesial communion",
+        "pt-BR": "Correspondência entre Sua Santidade Bento XVI e Sua Beatitude Antonios Naguib, Patriarca de Alexandria dos Copto-Católicos para a concessão da comunhão eclesiástica",
+        "es": "Intercambio de cartas entre Su Santidad Benedicto XVI y Su Beatitud Antonios Naguib, Patriarca de Alejandría de los coptos católicos, para la concesión de la comunión eclesiástica",
+        "fr": "Echange de lettres entre le Pape Benoît XVI et Sa Béatitude Antonios Naguib, Patriarche d'Alexandrie des Coptes catholiques pour accorder la communion ecclésiale",
+        "it": "Scambio di lettere fra Sua Santità Benedetto XVI e Sua Beatitudine Antonios Naguib, Patriarca di Alessandria dei Copti Cattolici per la concessione della comunione ecclesiastica"
+      }
+    }
+  ]
+}

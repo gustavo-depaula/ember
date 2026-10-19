@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-gravissimi-supremi",
+  "cover": "quarter",
+  "name": {
+    "it": "Gravissimi Supremi"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XIV · 1745-10-08",
+    "pt-BR": "Documento · Papa Bento XIV · 1745-10-08"
+  },
+  "composed": "1745",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1745-10-08,_SS_Benedictus_XIV,_Gravissimi_Supremi,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Gravissimi Supremi"
+      }
+    }
+  ]
+}

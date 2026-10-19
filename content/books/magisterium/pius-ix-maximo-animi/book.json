@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-maximo-animi",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Maximo animi"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1859-09-26",
+    "pt-BR": "Alocução · Papa Pio IX · 1859-09-26"
+  },
+  "composed": "1859",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocuzione-maximo-animi-26-settembre-1859.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Maximo animi"
+      }
+    }
+  ]
+}

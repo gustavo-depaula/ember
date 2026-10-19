@@ -1,0 +1,40 @@
+{
+  "id": "martin-v-inter-cunctas",
+  "cover": "quarter",
+  "name": {
+    "it": "Inter Cunctas"
+  },
+  "author": {
+    "en-US": "Pope Martin V",
+    "pt-BR": "Papa Martinho V",
+    "la": "Martinus PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Martin V · 1418-02-22",
+    "pt-BR": "Documento · Papa Martinho V · 1418-02-22"
+  },
+  "composed": "1418",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "martin-v"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1418-02-22,_SS_Martinus_V,_Inter_Cunctas,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Inter Cunctas"
+      }
+    }
+  ]
+}

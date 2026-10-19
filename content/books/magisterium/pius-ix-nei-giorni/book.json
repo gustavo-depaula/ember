@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-nei-giorni",
+  "cover": "quarter",
+  "name": {
+    "it": "Editto Nei giorni"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Decree · Pope Pius IX · 1846-07-16",
+    "pt-BR": "Decreto · Papa Pio IX · 1846-07-16"
+  },
+  "composed": "1846",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "decree",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/editto-nei-giorni-16-luglio-1846.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Editto Nei giorni"
+      }
+    }
+  ]
+}

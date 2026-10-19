@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ix-recolentes",
+  "cover": "quarter",
+  "name": {
+    "es": "Recolentes"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory IX · 1222-04-29",
+    "pt-BR": "Documento · Papa Gregório IX · 1222-04-29"
+  },
+  "composed": "1222",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1222-04-29,_SS_Gregorius_VIIII,_Recolentes,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Recolentes"
+      }
+    }
+  ]
+}

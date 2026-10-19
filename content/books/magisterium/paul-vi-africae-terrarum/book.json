@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-africae-terrarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Africae Terrarum, Litterae Apostolicae Motu Proprio datae, Die 29 m. Octobris a. 1967, Paulus PP.VI",
+    "it": "Africae terrarum"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1967-10-29",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1967-10-29"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19671029_africae-terrarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19671029_africae-terrarum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Africae Terrarum, Litterae Apostolicae Motu Proprio datae, Die 29 m. Octobris a. 1967, Paulus PP.VI",
+        "it": "Africae terrarum"
+      }
+    }
+  ]
+}

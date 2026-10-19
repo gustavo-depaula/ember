@@ -1,0 +1,39 @@
+{
+  "id": "pius-x-pope-st-pius-x",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pope St. Pius X"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X",
+    "pt-BR": "Documento · Papa Pio X"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/pope-st-pius-x.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pope St. Pius X"
+      }
+    }
+  ]
+}

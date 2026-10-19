@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-nobis-in-animo",
+  "cover": "quarter",
+  "name": {
+    "la": "Nobis in animo, die XXV mensis Martii, anno MCMLXXIV",
+    "it": "Nobis in Animo"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1974-03-25",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1974-03-25"
+  },
+  "composed": "1974",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19740325_nobis-in-animo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19740325_nobis-in-animo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Nobis in animo, die XXV mensis Martii, anno MCMLXXIV",
+        "it": "Nobis in Animo"
+      }
+    }
+  ]
+}

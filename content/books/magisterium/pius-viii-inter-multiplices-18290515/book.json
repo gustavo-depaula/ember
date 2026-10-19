@@ -1,0 +1,40 @@
+{
+  "id": "pius-viii-inter-multiplices-18290515",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Inter multiplices"
+  },
+  "author": {
+    "en-US": "Pope Pius VIII",
+    "pt-BR": "Papa Pio VIII",
+    "la": "Pius PP. VIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VIII · 1829-05-15",
+    "pt-BR": "Breve · Papa Pio VIII · 1829-05-15"
+  },
+  "composed": "1829",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-viii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-viii/it/documents/breve-inter-multiplices-15-maggio-1829.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Inter multiplices"
+      }
+    }
+  ]
+}

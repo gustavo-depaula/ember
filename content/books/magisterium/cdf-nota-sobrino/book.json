@@ -1,0 +1,80 @@
+{
+  "id": "cdf-nota-sobrino",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Explanatory Note on the Notification on the works of Fr. Jon Sobrino, SJ",
+    "pt-BR": "Nota explicativa Jon Sobrino",
+    "de": "Erklärende Note zur Notifikation zu den Werken von P. Jon Sobrino SJ",
+    "es": "Nota explicativa a la notificación sobre el P. Jon Sobrino",
+    "fr": "Note explicative relative à la notification sur les œuvres du P. Jon Sobrino s.j.",
+    "it": "Nota Esplicativa relativa alla notificazione sulle opere del P. Jon Sobrino S.I."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2006-11-26",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2006-11-26"
+  },
+  "composed": "2006",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20061126_nota-sobrino_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20061126_nota-sobrino_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20061126_nota-sobrino_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20061126_nota-sobrino_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20061126_nota-sobrino_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20061126_nota-sobrino_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Explanatory Note on the Notification on the works of Fr. Jon Sobrino, SJ",
+        "pt-BR": "Nota explicativa Jon Sobrino",
+        "de": "Erklärende Note zur Notifikation zu den Werken von P. Jon Sobrino SJ",
+        "es": "Nota explicativa a la notificación sobre el P. Jon Sobrino",
+        "fr": "Note explicative relative à la notification sur les œuvres du P. Jon Sobrino s.j.",
+        "it": "Nota Esplicativa relativa alla notificazione sulle opere del P. Jon Sobrino S.I."
+      }
+    }
+  ]
+}

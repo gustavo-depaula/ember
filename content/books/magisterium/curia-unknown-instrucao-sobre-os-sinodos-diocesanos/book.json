@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-instrucao-sobre-os-sinodos-diocesanos",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Instrução sobre os Sínodos diocesanos"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 2005-11-04",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 2005-11-04"
+  },
+  "composed": "2005",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/instrucao-sobre-os-sinodos-diocesanos-1997/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Instrução sobre os Sínodos diocesanos"
+      }
+    }
+  ]
+}

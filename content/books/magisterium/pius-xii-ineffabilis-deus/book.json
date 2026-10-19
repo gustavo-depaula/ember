@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-ineffabilis-deus",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Ineffabilis Deus"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1854-12-08",
+    "pt-BR": "Documento · Papa Pio XII · 1854-12-08"
+  },
+  "composed": "1854",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/ineffabilis-deus/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Ineffabilis Deus"
+      }
+    }
+  ]
+}

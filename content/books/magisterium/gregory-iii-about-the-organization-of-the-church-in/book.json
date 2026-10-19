@@ -1,0 +1,40 @@
+{
+  "id": "gregory-iii-about-the-organization-of-the-church-in",
+  "cover": "quarter",
+  "name": {
+    "en-US": "About The Organization Of The Church in Bavaria"
+  },
+  "author": {
+    "en-US": "Pope Gregory III",
+    "pt-BR": "Papa Gregório III",
+    "la": "Gregorius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory III · 0739-11-29",
+    "pt-BR": "Documento · Papa Gregório III · 0739-11-29"
+  },
+  "composed": "739",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-iii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0739-11-29,_SS_Gregorius_III,_About_The_Organization_Of_The_Church_in_Bavaria,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "About The Organization Of The Church in Bavaria"
+      }
+    }
+  ]
+}

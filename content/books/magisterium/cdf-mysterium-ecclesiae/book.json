@@ -1,0 +1,96 @@
+{
+  "id": "cdf-mysterium-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Mysterium Ecclesiae, Declaratio circa catholicam doctrinam de Ecclesia contra nonnullos errores hodiernos tuendam, d. 5 m. Iunii a. 1973, Congregatio pro Doctrina Fidei",
+    "en-US": "Declaration in Defense of the Catholic Doctrine on the Church Against Certain Errors of the Present Day",
+    "pt-BR": "Mysterium Ecclesiae",
+    "de": "Erklärung zur katholischen Lehre über die Kirche, die gegen einige heutige Irrtümer verteidigt werden muss - Mysterium Ecclesiae",
+    "es": "Declaración Mysterium ecclesiae, 24 junio 1973",
+    "fr": "Déclaration sur la doctrine catholique concernant léglise",
+    "it": "Dichiarazione circa la dottrina cattolica sulla Chiesa per difenderla da alcuni errori d'oggi - Mysterium Ecclesiae",
+    "pl": "DEKLARACJA O KATOLICKIEJ DOKTRYNIE O KOŚCIELE PRZECIW NIEKTÓRYM WSPÓŁCZESNYM BŁĘDOM"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1973-07-05",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1973-07-05"
+  },
+  "composed": "1973",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Mysterium Ecclesiae, Declaratio circa catholicam doctrinam de Ecclesia contra nonnullos errores hodiernos tuendam, d. 5 m. Iunii a. 1973, Congregatio pro Doctrina Fidei",
+        "en-US": "Declaration in Defense of the Catholic Doctrine on the Church Against Certain Errors of the Present Day",
+        "pt-BR": "Mysterium Ecclesiae",
+        "de": "Erklärung zur katholischen Lehre über die Kirche, die gegen einige heutige Irrtümer verteidigt werden muss - Mysterium Ecclesiae",
+        "es": "Declaración Mysterium ecclesiae, 24 junio 1973",
+        "fr": "Déclaration sur la doctrine catholique concernant léglise",
+        "it": "Dichiarazione circa la dottrina cattolica sulla Chiesa per difenderla da alcuni errori d'oggi - Mysterium Ecclesiae",
+        "pl": "DEKLARACJA O KATOLICKIEJ DOKTRYNIE O KOŚCIELE PRZECIW NIEKTÓRYM WSPÓŁCZESNYM BŁĘDOM"
+      }
+    }
+  ]
+}

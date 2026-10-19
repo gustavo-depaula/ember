@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-l-evidente-diminuzione",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo L'evidente diminuzione"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XVI · 1834-08-06",
+    "pt-BR": "Documento · Papa Gregório XVI · 1834-08-06"
+  },
+  "composed": "1834",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/Chirografo-l-evidente-diminuzione-6-agosto-1834.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo L'evidente diminuzione"
+      }
+    }
+  ]
+}

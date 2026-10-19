@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-etica-da-publicidade",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Ética da publicidade"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1997-02-22",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1997-02-22"
+  },
+  "composed": "1997",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/etica-da-publicidade-22-02-1997/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Ética da publicidade"
+      }
+    }
+  ]
+}

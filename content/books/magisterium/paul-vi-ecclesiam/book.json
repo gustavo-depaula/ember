@@ -1,0 +1,80 @@
+{
+  "id": "paul-vi-ecclesiam",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae enciclicae, Ecclesiam Suam, die VI mensis Augusti, anno MDCCCCLXIV - Paulus VI",
+    "en-US": "Ecclesiam Suam",
+    "pt-BR": "Ecclesiam Suam",
+    "de": "Ecclesiam Suam",
+    "fr": "Ecclesiam Suam",
+    "it": "Ecclesiam Suam"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Paul VI · 1964-08-06",
+    "pt-BR": "Encíclica · Papa Paulo VI · 1964-08-06"
+  },
+  "composed": "1964",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_06081964_ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae enciclicae, Ecclesiam Suam, die VI mensis Augusti, anno MDCCCCLXIV - Paulus VI",
+        "en-US": "Ecclesiam Suam",
+        "pt-BR": "Ecclesiam Suam",
+        "de": "Ecclesiam Suam",
+        "fr": "Ecclesiam Suam",
+        "it": "Ecclesiam Suam"
+      }
+    }
+  ]
+}

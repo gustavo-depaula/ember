@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-in-luctuosissimis",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula In luctuosissimis",
+    "it": "Epistola In luctuosissimis"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius IX · 1872-06-16",
+    "pt-BR": "Carta · Papa Pio IX · 1872-06-16"
+  },
+  "composed": "1872",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/epistola-in-luctuosissimis-16-iunii-1872.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/epistola-in-luctuosissimis-16-iunii-1872.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula In luctuosissimis",
+        "it": "Epistola In luctuosissimis"
+      }
+    }
+  ]
+}

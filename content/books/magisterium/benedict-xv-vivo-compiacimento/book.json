@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-vivo-compiacimento",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Con vivo compiacimento a Sua Eminenza il Cardinale Vicario, in occasione della guerra aperta tra Russia e Polonia"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1920-08-05",
+    "pt-BR": "Carta · Papa Bento XV · 1920-08-05"
+  },
+  "composed": "1920",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1920/documents/hf_ben-xv_let_19200805_vivo-compiacimento.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Con vivo compiacimento a Sua Eminenza il Cardinale Vicario, in occasione della guerra aperta tra Russia e Polonia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-optatissimus-tandem",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Optatissimus tandem"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius VII · 1814-09-26",
+    "pt-BR": "Alocução · Papa Pio VII · 1814-09-26"
+  },
+  "composed": "1814",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/allocuzione-optatissimus-tandem-26-settembre-1814.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Optatissimus tandem"
+      }
+    }
+  ]
+}

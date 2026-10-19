@@ -1,0 +1,40 @@
+{
+  "id": "sylvester-ii-juramentum",
+  "cover": "quarter",
+  "name": {
+    "la": "Juramentum"
+  },
+  "author": {
+    "en-US": "Pope Sylvester II",
+    "pt-BR": "Papa Silvestre II",
+    "la": "Silvester PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Sylvester II · 0999",
+    "pt-BR": "Documento · Papa Silvestre II · 0999"
+  },
+  "composed": "999",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "sylvester-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0999-1003,_SS_Silvester_II,_Juramentum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Juramentum"
+      }
+    }
+  ]
+}

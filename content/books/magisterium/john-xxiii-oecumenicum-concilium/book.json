@@ -1,0 +1,48 @@
+{
+  "id": "john-xxiii-oecumenicum-concilium",
+  "cover": "quarter",
+  "name": {
+    "la": "Oecumenicum Concilium",
+    "pt-BR": "Oecumenicum Concilium"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John XXIII · 1962-04-28",
+    "pt-BR": "Carta Apostólica · Papa João XXIII · 1962-04-28"
+  },
+  "composed": "1962",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1962-04-28,_SS_Ioannes_XXIII,_Epistula_'Oecumenicum_Concilium',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/oecumenicum-concilium-joao-xxiii-28-04-1962/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Oecumenicum Concilium",
+        "pt-BR": "Oecumenicum Concilium"
+      }
+    }
+  ]
+}

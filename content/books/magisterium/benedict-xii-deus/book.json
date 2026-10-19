@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xii-deus",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio Benedictus Deus"
+  },
+  "author": {
+    "en-US": "Pope Benedict XII",
+    "pt-BR": "Papa Bento XII",
+    "la": "Benedictus PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Benedict XII · 1336-01-29",
+    "pt-BR": "Constituição Apostólica · Papa Bento XII · 1336-01-29"
+  },
+  "composed": "1336",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "benedict-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedictus-xii/la/documents/constitutio-benedictus-deus-29-ian-1336.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio Benedictus Deus"
+      }
+    }
+  ]
+}

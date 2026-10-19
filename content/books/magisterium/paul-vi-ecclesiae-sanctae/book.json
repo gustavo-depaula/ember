@@ -1,0 +1,56 @@
+{
+  "id": "paul-vi-ecclesiae-sanctae",
+  "cover": "quarter",
+  "name": {
+    "la": "Ecclesiae Sanctae - Normae ad quaedam exsequenda SS. Concilii Vaticani II Decreta statuuntur, Litterae Apostolicae Motu Proprio datae, Die 6 m. Augusti a. 1966, Paulus PP.VI",
+    "en-US": "Ecclesiae Sanctae",
+    "it": "Ecclesiae Sanctae - Lettera Apostolica in forma di Motu Proprio con la quale vengono promulgate norme per l'applicazione di alcuni Decreti del Concilio Vaticano II"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1966-08-06",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1966-08-06"
+  },
+  "composed": "1966",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19660806_ecclesiae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19660806_ecclesiae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19660806_ecclesiae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ecclesiae Sanctae - Normae ad quaedam exsequenda SS. Concilii Vaticani II Decreta statuuntur, Litterae Apostolicae Motu Proprio datae, Die 6 m. Augusti a. 1966, Paulus PP.VI",
+        "en-US": "Ecclesiae Sanctae",
+        "it": "Ecclesiae Sanctae - Lettera Apostolica in forma di Motu Proprio con la quale vengono promulgate norme per l'applicazione di alcuni Decreti del Concilio Vaticano II"
+      }
+    }
+  ]
+}

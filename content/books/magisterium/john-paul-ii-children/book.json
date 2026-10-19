@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-children",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to Children",
+    "pt-BR": "Carta às Crianças",
+    "de": "Brief an die Kinder",
+    "es": "Carta a los niños",
+    "fr": "Lettre aux Enfants",
+    "hu": "Karácsonyi levél a gyermekeknek a Család Évében, 1994. december 13. - II. János Pál pápa",
+    "it": "Lettera ai Bambini"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1994-12-13",
+    "pt-BR": "Carta · Papa João Paulo II · 1994-12-13"
+  },
+  "composed": "1994",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1994/documents/hf_jp-ii_let_13121994_children.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1994/documents/hf_jp-ii_let_13121994_children.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/1994/documents/hf_jp-ii_let_13121994_children.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1994/documents/hf_jp-ii_let_13121994_children.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/1994/documents/hf_jp-ii_let_13121994_children.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/letters/1994/documents/hf_jp-ii_let_13121994_children.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1994/documents/hf_jp-ii_let_13121994_children.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to Children",
+        "pt-BR": "Carta às Crianças",
+        "de": "Brief an die Kinder",
+        "es": "Carta a los niños",
+        "fr": "Lettre aux Enfants",
+        "hu": "Karácsonyi levél a gyermekeknek a Család Évében, 1994. december 13. - II. János Pál pápa",
+        "it": "Lettera ai Bambini"
+      }
+    }
+  ]
+}

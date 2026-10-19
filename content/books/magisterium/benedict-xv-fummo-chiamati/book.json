@@ -1,0 +1,64 @@
+{
+  "id": "benedict-xv-fummo-chiamati",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Allorché fummo chiamati",
+    "de": "Allorché fummo chiamati",
+    "fr": "Allorché fummo chiamati, aux peuples belligérants et à leur chef, un an après le début de la guerre",
+    "it": "Allorché fummo chiamati, ai popoli belligeranti e ai loro reggitori nel primo anniversario dello scoppio della guerra"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Benedict XV · 1915-07-28",
+    "pt-BR": "Exortação Apostólica · Papa Bento XV · 1915-07-28"
+  },
+  "composed": "1915",
+  "languages": [
+    "en-US",
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xv/en/apost_exhortations/documents/hf_ben-xv_exh_19150728_fummo-chiamati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xv/de/apost_exhortations/documents/hf_ben-xv_exh_19150728_fummo-chiamati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/apost_exhortations/documents/hf_ben-xv_exh_19150728_fummo-chiamati.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/apost_exhortations/documents/hf_ben-xv_exh_19150728_fummo-chiamati.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Allorché fummo chiamati",
+        "de": "Allorché fummo chiamati",
+        "fr": "Allorché fummo chiamati, aux peuples belligérants et à leur chef, un an après le début de la guerre",
+        "it": "Allorché fummo chiamati, ai popoli belligeranti e ai loro reggitori nel primo anniversario dello scoppio della guerra"
+      }
+    }
+  ]
+}

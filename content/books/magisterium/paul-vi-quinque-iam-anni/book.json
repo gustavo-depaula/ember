@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-quinque-iam-anni",
+  "cover": "quarter",
+  "name": {
+    "la": "Quinque iam anni",
+    "it": "Quinque iam anni"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1970-12-08",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1970-12-08"
+  },
+  "composed": "1970",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19701208_quinque-iam-anni.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19701208_quinque-iam-anni.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quinque iam anni",
+        "it": "Quinque iam anni"
+      }
+    }
+  ]
+}

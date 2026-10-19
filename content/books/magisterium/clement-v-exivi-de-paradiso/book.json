@@ -1,0 +1,56 @@
+{
+  "id": "clement-v-exivi-de-paradiso",
+  "cover": "quarter",
+  "name": {
+    "la": "Exivi de paradiso",
+    "en-US": "Exivi de paradiso",
+    "es": "Exivi de paradiso"
+  },
+  "author": {
+    "en-US": "Pope Clement V",
+    "pt-BR": "Papa Clemente V",
+    "la": "Clemens PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Clement V · 1312-05-06",
+    "pt-BR": "Documento · Papa Clemente V · 1312-05-06"
+  },
+  "composed": "1312",
+  "languages": [
+    "la",
+    "en-US",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "clement-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1312-05-06,_SS_Clemens_V,_Exivi_de_Paradiso,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem05/exivi-e.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1312-05-06,_SS_Clemens_V,_Exivi_de_Paradiso,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Exivi de paradiso",
+        "en-US": "Exivi de paradiso",
+        "es": "Exivi de paradiso"
+      }
+    }
+  ]
+}

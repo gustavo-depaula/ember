@@ -1,0 +1,48 @@
+{
+  "id": "gregory-i-moralia-pars-01",
+  "cover": "quarter",
+  "name": {
+    "la": "Moralia Pars 01",
+    "en-US": "Moralia Pars 01"
+  },
+  "author": {
+    "en-US": "Pope Gregory I",
+    "pt-BR": "Papa Gregório I",
+    "la": "Gregorius PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory I · 0590",
+    "pt-BR": "Documento · Papa Gregório I · 0590"
+  },
+  "composed": "590",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_Moralia_Pars_01,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_Moralia_in_Job,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Moralia Pars 01",
+        "en-US": "Moralia Pars 01"
+      }
+    }
+  ]
+}

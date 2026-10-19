@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-v-centenary-evang-new-world",
+  "cover": "quarter",
+  "name": {
+    "es": "Carta Apostólica a los religiosos y religiosas de América Latina con ocasión del V Centenario de la evangelización",
+    "it": "Lettera Apostolica per il V Centenario dell'Evangelizzazione del Nuovo Mondo"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1990-06-29",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1990-06-29"
+  },
+  "composed": "1990",
+  "languages": [
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1990/documents/hf_jp-ii_apl_29061990_v-centenary-evang-new-world.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1990/documents/hf_jp-ii_apl_29061990_v-centenary-evang-new-world.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Carta Apostólica a los religiosos y religiosas de América Latina con ocasión del V Centenario de la evangelización",
+        "it": "Lettera Apostolica per il V Centenario dell'Evangelizzazione del Nuovo Mondo"
+      }
+    }
+  ]
+}

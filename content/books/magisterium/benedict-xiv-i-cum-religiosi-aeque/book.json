@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-cum-religiosi-aeque",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Cum Religiosi",
+    "it": "Enciclica Cum Religiosi Aeque"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1754-06-26",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1754-06-26"
+  },
+  "composed": "1754",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14cumre.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-cum-religiosi-aeque--i---26-giugno-1754--il-pontefi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Cum Religiosi",
+        "it": "Enciclica Cum Religiosi Aeque"
+      }
+    }
+  ]
+}

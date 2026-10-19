@@ -1,0 +1,72 @@
+{
+  "id": "francis-statuto-aif",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter Issued Motu Proprio Approving the New Statutes of the Financial Intelligence Authority",
+    "pt-BR": "Carta Apostólica em forma de «Motu Proprio» com a qual é aprovado o novo Estatuto da Autoridade de Informação Financeira",
+    "es": "Carta Apostólica en forma de «Motu Proprio» con la que se aprueba el nuevo Estatuto de la Autoridad de Información Financiera",
+    "fr": "Lettre apostolique en forme de Motu Proprio par laquelle sont approuvés les nouveaux statuts de l'Autorité d'Information Financière",
+    "it": "Lettera Apostolica in forma di «Motu Proprio» con la quale è approvato il nuovo Statuto dell'Autorità di Informazione Finanziaria"
+  },
+  "author": {
+    "en-US": "Pope Francis",
+    "pt-BR": "Papa Francisco",
+    "la": "Franciscus PP."
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Francis · 2013-11-15",
+    "pt-BR": "Carta Apostólica · Papa Francisco · 2013-11-15"
+  },
+  "composed": "2013",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "francis"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20131115_statuto-aif.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20131115_statuto-aif.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20131115_statuto-aif.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20131115_statuto-aif.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20131115_statuto-aif.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter Issued Motu Proprio Approving the New Statutes of the Financial Intelligence Authority",
+        "pt-BR": "Carta Apostólica em forma de «Motu Proprio» com a qual é aprovado o novo Estatuto da Autoridade de Informação Financeira",
+        "es": "Carta Apostólica en forma de «Motu Proprio» con la que se aprueba el nuevo Estatuto de la Autoridad de Información Financiera",
+        "fr": "Lettre apostolique en forme de Motu Proprio par laquelle sont approuvés les nouveaux statuts de l'Autorité d'Information Financière",
+        "it": "Lettera Apostolica in forma di «Motu Proprio» con la quale è approvato il nuovo Statuto dell'Autorità di Informazione Finanziaria"
+      }
+    }
+  ]
+}

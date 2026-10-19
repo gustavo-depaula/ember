@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-divino-afflatu",
+  "cover": "quarter",
+  "name": {
+    "la": "Divino Afflatu",
+    "en-US": "Divino Afflatu"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1911-11-01",
+    "pt-BR": "Documento · Papa Pio X · 1911-11-01"
+  },
+  "composed": "1911",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1911-11-01,_SS_Pius_X,_Constitutio._Divino_Afflatu,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10divino.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Divino Afflatu",
+        "en-US": "Divino Afflatu"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-quae-in-patriarchatu",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quae In Patriarchatu",
+    "it": "Enciclica Quae in Patriarchatu"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1876-09-01",
+    "pt-BR": "Encíclica · Papa Pio IX · 1876-09-01"
+  },
+  "composed": "1876",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9quaein.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-quae-in-patriarchatu-1-settembre-1876.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quae In Patriarchatu",
+        "it": "Enciclica Quae in Patriarchatu"
+      }
+    }
+  ]
+}

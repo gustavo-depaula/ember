@@ -1,0 +1,3 @@
+# Apostolicam actuositatem
+
+[TABLE]

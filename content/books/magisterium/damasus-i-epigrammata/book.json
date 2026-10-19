@@ -1,0 +1,40 @@
+{
+  "id": "damasus-i-epigrammata",
+  "cover": "quarter",
+  "name": {
+    "la": "Epigrammata"
+  },
+  "author": {
+    "en-US": "Pope Damasus I",
+    "pt-BR": "Papa Dâmaso I",
+    "la": "Damasus PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Damasus I · 0366",
+    "pt-BR": "Documento · Papa Dâmaso I · 0366"
+  },
+  "composed": "366",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "damasus-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0366-0383,_SS_Damasus_I,_Epigrammata,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epigrammata"
+      }
+    }
+  ]
+}

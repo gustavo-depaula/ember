@@ -1,0 +1,40 @@
+{
+  "id": "eugene-iv-in-eminenti",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'In Eminenti'"
+  },
+  "author": {
+    "en-US": "Pope Eugene IV",
+    "pt-BR": "Papa Eugênio IV",
+    "la": "Eugenius PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Eugene IV · 1431-10-26",
+    "pt-BR": "Bula · Papa Eugênio IV · 1431-10-26"
+  },
+  "composed": "1431",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "eugene-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1431-10-26,_SS_Eugenius_IV,_Bulla_'In_Eminenti',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'In Eminenti'"
+      }
+    }
+  ]
+}

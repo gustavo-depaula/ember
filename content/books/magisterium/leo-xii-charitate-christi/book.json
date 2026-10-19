@@ -1,0 +1,48 @@
+{
+  "id": "leo-xii-charitate-christi",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Charitate Christi",
+    "it": "Bolla Charitate Christi"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Bull · Pope Leo XII · 1825-12-25",
+    "pt-BR": "Bula · Papa Leão XII · 1825-12-25"
+  },
+  "composed": "1825",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo12/l12chari.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/bolla-charitate-christi-25-dicembre-1825.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Charitate Christi",
+        "it": "Bolla Charitate Christi"
+      }
+    }
+  ]
+}

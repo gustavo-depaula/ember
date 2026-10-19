@@ -1,0 +1,48 @@
+{
+  "id": "clement-xi-unigenitus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Unigenitus",
+    "it": "Unigenitus"
+  },
+  "author": {
+    "en-US": "Pope Clement XI",
+    "pt-BR": "Papa Clemente XI",
+    "la": "Clemens PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Clement XI · 1713-09-08",
+    "pt-BR": "Documento · Papa Clemente XI · 1713-09-08"
+  },
+  "composed": "1713",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "clement-xi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem11/c11unige.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1713-09-08,_SS_Clemens_XI,_Unigenitus_Dei_Filius,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Unigenitus",
+        "it": "Unigenitus"
+      }
+    }
+  ]
+}

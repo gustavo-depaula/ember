@@ -1,0 +1,44 @@
+# Quo primum tempore
+
+**Bula QUO PRIMUM TEMPORE sobre o Missal Romano**
+
+Pio Bispo,  
+Servo dos Servos de Deus,  
+Para perpétua memória.
+
+1\. Desde que fomos elevados ao ápice da Hierarquia Apostólica, de bom grado aplicamos nosso zelo e nossas forças e dirigimos todos os nossos pensamentos no sentido de conservar na sua pureza tudo o que diz respeito ao culto da Igreja; o que nos esforçamos por preparar e, com a ajuda de Deus, realizar com todo o cuidado possível.
+
+2\. Ora, entre outros decretos do Santo Concílio de Trento cabia-nos estabelecer a edição e correção dos livros santos: Catecismo, Missal e Breviário.
+
+3\. Com a graça de Deus, já foi publicado o Catecismo, destinado à instrução do povo, e corrigido o Breviário, para que se tributem a Deus os devidos louvores. Outrossim, para que ao Breviário correspondesse o Missal, como é justo e conveniente (já que é soberanamente oportuno que, na Igreja de Deus, haja uma só maneira de salmodiar e um só rito para celebrar a Missa), parecia-nos necessário providenciar, o mais cedo possível, o restante desta tarefa, ou seja, a edição do Missal.
+
+4\. Para tanto, julgamos dever confiar este trabalho a uma comissão de homens eruditos. Estes começaram por cotejar cuidadosamente todos os textos com os antigos de nossa Biblioteca Vaticana e com outros, quer corrigidos, quer sem alteração, que foram requisitados de toda parte. Depois, tendo consultado os escritos dos antigos e de autores aprovados, que nos deixaram documentos relativos à organização destes mesmos ritos, eles restituíram o Missal propriamente dito à norma e ao rito dos Santos Padres.
+
+5\. Este Missal assim revisto e corrigido, Nós, após madura reflexão, mandamos que seja impresso e publicado em Roma, a fim de que todos possam tirar os frutos desta disposição e do trabalho empreendido, de tal sorte que os padres saibam de que preces devem servir-se e quais os ritos, quais as cerimônias, que devem observar doravante na celebração das Missas.
+
+6\. E a fim de que todos, e em todos os lugares, adotem e observem as tradições da Santa Igreja Romana, Mãe e Mestra de todas as Igrejas, decretamos e ordenamos que a Missa, no futuro e para sempre, não seja cantada nem rezada de modo diferente do que esta, conforme o Missal publicado por Nós, em todas as Igrejas: nas Igrejas Patriarcais, Catedrais, Colegiais, Paroquiais, quer seculares quer regulares, de qualquer Ordem ou Mosteiro que seja, de homens ou de mulheres, inclusive os das Ordens Militares, igualmente nas Igrejas ou Capelas sem encargo de almas nas quais a Missa conventual deve, segundo o direito ou por costume, ser celebrada em voz alta com coro, ou em voz baixa, segundo o rito da Igreja Romana, ainda quando estas mesmas Igrejas, de qualquer modo isentas, estejam munidas de um indulto da Sé Apostólica, de costume, de um privilégio, até de um juramento, de uma confirmação apostólica ou de quaisquer outras espécies de faculdades. A não ser que, ou por uma instituição aprovada desde a origem pela Sé Apostólica, ou então em virtude de um costume, a celebração destas Missas nessas mesmas Igrejas tenha um uso ininterrupto superior a 200 anos. A estas Igrejas Nós, de maneira nenhuma, suprimimos nem a referida instituição, nem seu costume de celebrar a Missa; mas, se este Missal que acabamos de editar lhes agrada mais, com o consentimento do Bispo ou do Prelado, junto com o de todo Capítulo, concedemos-lhes a permissão, não obstante quaisquer disposições em contrário, de poder celebrar a Missa segundo este Missal.
+
+7\. Quanto a todas as outras sobreditas Igrejas, por Nossa presente Constituição, que será válida para sempre, Nós decretamos e ordenamos, sob pena de nossa indignação, que o uso de seus missais próprios seja supresso e sejam eles radical e totalmente rejeitados; e, quanto ao Nosso presente Missal recentemente publicado, nada jamais lhe deverá ser acrescentado, nem supresso, nem modificado. Ordenamos a todos e a cada um dos Patriarcas, Administradores das referidas Igrejas, bem como a todas as outras pessoas revestidas de alguma dignidade eclesiástica, mesmo Cardeais da Santa Igreja Romana, ou dotados de qualquer outro grau ou preeminência, e em nome da santa obediência, rigorosamente prescrevemos que todas as outras práticas, todos os outros ritos, sem exceção, de outros missais, por mais antigos que sejam, observados por costume até o presente, sejam por eles absolutamente abandonados para o futuro e totalmente rejeitados; cantem ou rezem a Missa segundo o rito, o modo e a norma por Nós indicados no presente Missal, e na celebração da Missa, não tenha a audácia de acrescentar outras cerimônias nem de recitar outras orações senão as que estão contidas neste Missal.
+
+8\. Além disso, em virtude de Nossa Autoridade Apostólica, pelo teor da presente Bula, concedemos e damos o indulto seguinte: que, doravante, para cantar ou rezar a Missa em qualquer Igreja, se possa, sem restrição seguir este Missal com permissão e poder de usá-lo livre e licitamente, sem nenhum escrúpulo de consciência e sem que se possa encorrer em nenhuma pena, sentença e censura, e isto para sempre.
+
+9\. Da mesma forma decretamos e declaramos que os Prelados, Administradores, Cônegos, Capelães e todos os outros Padres seculares, designados com qualquer denominação, ou Regulares, de qualquer Ordem, não sejam obrigados a celebrar a Missa de outro modo que o por Nós ordenado; nem sejam coagidos e forçados, por quem quer que seja, a modificar o presente Missal, e a presente Bula não poderá jamais, em tempo algum, ser revogada nem modificada, mas permanecerá sempre firme e válida, em toda a sua força.
+
+10\. Não obstante todas as decisões e costumes contrários anteriores, de qualquer espécie: Constituições e Ordenações Apostólicas, ou Constituições e Ordenações, tanto gerais como especiais, publicadas em Concílios Provinciais e Sinodais; não obstante também o uso das Igrejas acima enumeradas, ainda que autorizado por uma prescrição bastante longa e imemorial, mas que não remonte a mais de 200 anos.
+
+11\. Queremos e, pela mesma autoridade, decretamos que, depois da publicação de Nossa presente Constituição e deste Missal, todos os padres sejam obrigados a cantar ou celebrar a Missa de acordo com ele: os que estão na Cúria Romana, após um mês; os que habitam aquém dos Alpes, dentro de três meses; e os que habitam além das montanhas, após seis meses ou assim que encontrem este Missal à venda.
+
+12\. E para que em todos os lugares da Terra este Missal seja conservado sem corrupção e isento de incorreções e erros, por nossa Autoridade Apostólica e em virtude das presentes, proibimos a todos os impressores domiciliados nos lugares submetidos, direta ou indiretamente, à Nossa autoridade e à Santa Igreja Romana, sob pena de confiscação dos livros e de uma multa de 200 ducados de ouro, pagáveis à Câmara Apostólica, bem como aos outros domiciliados em qualquer outro lugar do mundo, sob pena de excomunhão ipso facto e de outras penas a Nosso alvitre, se arroguem, por temerária audácia, o direito de imprimir, oferecer ou aceitar esta Missa, de qualquer maneira, sem nossa permissão, ou sem uma licença especial de um Comissário Apostólico por Nós estabelecido, para estes casos, nos países interessados, e sem que antes, este Comissário ateste plenamente que confrontou com o Missal impresso em Roma, segundo a impressão típica, um exemplar do Missal destinado ao mesmo impressor, que lhe sirva de modelo para imprimir os outros, e que este concorda com aquele e dele não difere absolutamente em nada.
+
+13\. E como seria difícil transmitir a presente Bula a todos os lugares do mundo cristão e levá-la imediatamente ao conhecimento de todos, ordenamos que, segundo o costume, ela seja publicada e afixada às portas da Basílica do Príncipe dos Apóstolos e da Chancelaria Apostólica, bem como no Campo de Flora. Ordenamos igualmente que aos exemplares mesmo impressos desta Bula, subscritos pela mão de um tabelião público e munidos, outrossim, do Selo de uma pessoa constituída em dignidade eclesiástica, seja dada, no mundo inteiro, a mesma fé inquebrantável que se daria à presente, caso mostrada ou exibida.
+
+14\. Assim, portanto, que a ninguém absolutamente seja permitido infringir ou, por temerária audácia, se opor à presente disposição de nossa permissão, estatuto, ordenação, mandato, preceito, concessão, indulto, declaração, vontade, decreto e proibição.
+
+Se alguém, contudo, tiver a audácia de atentar contra estas disposições, saiba que incorrerá na indignação de Deus Todo-poderoso e de seus bem-aventurados Apóstolos Pedro e Paulo.
+
+– Dado em Roma perto de São Pedro, no ano da Encarnação do Senhor mil quinhentos e setenta, no dia 14 de Julho, quinto de Nosso Pontificado.
+
+Pio Papa V.
+
+- Fonte: [Agnus Dei](http://agnusdei.50webs.com)
+- Notas suprimidas

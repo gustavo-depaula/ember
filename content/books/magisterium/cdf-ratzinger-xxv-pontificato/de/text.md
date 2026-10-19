@@ -1,0 +1,25 @@
+# XXV. Pontifikatsjubiläum - Grußworte von Kard. Ratzinger
+
+[](/index.htm)
+
+[](javascript:history.go(-1)) [](javascript:up())
+
+***GRUßWORTE VON K**ARD. JOSEPH RATZINGER AM BEGINN DER EUCHARISTIEFEIER ANLÄßLICH DES XXV. PONTIFIKATSJUBILÄUMS VON JOHANNES PAUL II.***
+
+*Heiliger Vater!*
+
+Vor 25 Jahren genau um diese Stunde haben die in der Cappella Sistina versammelten Kardinäle Sie in das Amt des Nachfolgers des hl. Petrus gewählt, und Sie haben Ihr Ja zu Gnade und Last dieses Dienstes gesprochen. Vor 25 Jahren hat der Proto-Diakon des Kardinalskollegiums, Kardinal Pericle Felici, der auf dem Petersplatz harrenden Menge feierlich verkündigt: »*Habemus Papam*.« Vor 25 Jahren haben Sie von der »Loggia delle Benedizioni« aus erstmals den Segen »*[Urbi et Orbi](/holy_father/john_paul_ii/speeches/1978/documents/hf_jp-ii_spe_19781016_primo-saluto_it.html)*« gespendet und in einer unvergessenen Ansprache sofort die Herzen der Römer, die Herzen der vielen schauenden und lauschenden Menschen in aller Welt gewonnen. Sie haben damals gesagt, daß Sie aus einem »Paese lontano« \[fernen Land\] kommen. Aber wir haben alle sofort gespürt, daß der Glaube an Jesus Christus, der aus Ihren Worten und aus Ihrer ganzen Gestalt herausleuchtete, alle Entfernungen überwindet; daß wir durch den Glauben alle füreinander nahe geworden sind. Sie haben uns vom ersten Augenblick an diese Kraft Christi erfahren lassen, die Grenzen durchbricht, die Frieden und Freude schafft.  * *
+
+In diesen 25 Jahren sind Sie als Gesandter Jesu Christi in der Nachfolge der Apostel unermüdlich unterwegs gewesen, um nicht nur über alle geographischen Grenzen hin das Evangelium von der fleischgewordenen Liebe Gottes zu den Menschen zu bringen. Sie haben die oft weit voneinander entfernten und einander entgegengesetzten geistigen Kontinente durchquert, um Fremde zu Nahen, Ferne zu Freunden zu machen und dem Frieden Christi Raum zu geben in der Welt (vgl. *Eph* 2,17). Sie haben Junge und Alte, Reiche und Arme, Mächtige und Ohnmächtige angesprochen und sich immer mit besonderer Liebe, dem Beispiel Jesu Christi folgend, der Armen und Schwachen angenommen, um allen einen Lichtglanz aus Gottes Wahrheit und Liebe zu bringen.
+
+Sie haben furchtlos den Willen Gottes verkündet, auch wo er den Wünschen und Meinungen der Menschen entgegensteht. Wie der Apostel Paulus können Sie sagen, daß Sie nie mit Worten zu schmeicheln versucht, keine Ehre bei den Menschen gesucht, sondern wie eine Mutter für ihre Kinder gesorgt haben. Wie Paulus waren Sie den Menschen zugetan und wollten sie nicht nur am Evangelium teilhaben lassen, sondern an Ihrem eigenen Leben (vgl. 1 *Thess* 2,5ÂÂÂ–8). Sie haben Kritik und Beschimpfung auf sich genommen, aber vor allem Dankbarkeit und Liebe geweckt und Mauern des Hasses und der Fremdheit zum Einsturz gebracht. Wir sehen heute, wie sehr Sie sich mit Ihrer ganzen Person für das Evangelium haben brauchen und verbrauchen lassen (2 *Kor* 12,15). Das Wort vom Kreuz ist in Ihrem Leben nicht nur Wort. Sie haben sich an Leib und Seele davon verwunden lassen. Wiederum wie Paulus ertragen Sie das Leiden, um in Ihrem irdischen Leben für den Leib Christi, die Kirche, zu ergänzen, was an den Leiden Christi noch fehlt (*Kol* 1,24).
+
+Heiliger Vater, für Ihren Dienst von 25 Jahren dankt Ihnen heute die ganze Kirche, danken Ihnen auch viele nichtkatholische Schwestern und Brüder, danken Ihnen Menschen des guten Willens aus anderen Religionen und Weltanschauungen. Wir vertrauen Sie mit unserem Gebet der heilenden Güte unseres Herrn an, der Sie berufen und auf allen Ihren Wegen geleitet hat. Wir bitten ihn, daß er Sie auch in dieser Stunde das Licht seiner Gegenwart fühlen lasse. Mit den alten Gebetsworten der Kirche rufen wir Ihnen zu: »*Dominus conservet te et vivificet te et beatum te faciat in terra*!«
+
+Es ist eine »*beatitudo*«, die auch abhängt ÂÂÂ– wie wir sehr wohl wissen ÂÂÂ– von der Treue von uns allen gegenüber Ihrer Person und Ihrem Auftrag als Nachfolger Petri. Gerne nehmen wir diesen Tag zum Anlaß, Ihnen zu bekräftigen, »*cum Petro et sub Petro*« in unserem Dienst für Christus und seine Kirche auszuharren.
+
+In Dankbarkeit rufen wir Ihnen aus tiefem Herzen zu:
+
+Herzlichen Glückwunsch, Heiliger Vater!
+
+[](#top)

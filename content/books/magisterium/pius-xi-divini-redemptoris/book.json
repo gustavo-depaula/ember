@@ -1,0 +1,88 @@
+{
+  "id": "pius-xi-divini-redemptoris",
+  "cover": "quarter",
+  "name": {
+    "la": "Divini Redemptoris, Litterae Encyclicae de communismo atheo, d. 19 m. Martii a. 1937, Pius PP. XI",
+    "en-US": "Divini Redemptoris",
+    "pt-BR": "Divinis Redemptoris: sobre o Comunismo Ateu",
+    "de": "Divini Redemptoris (March 19, 1937)",
+    "es": "Divini Redemptoris",
+    "fr": "Divini Redemptoris",
+    "it": "Divini Redemptoris"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1937-03-19",
+    "pt-BR": "Encíclica · Papa Pio XI · 1937-03-19"
+  },
+  "composed": "1937",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1937-03-19,_SS_Pius_XI,_Encyclica_'Divini_Redemptoris',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19370319_divini-redemptoris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Divini Redemptoris, Litterae Encyclicae de communismo atheo, d. 19 m. Martii a. 1937, Pius PP. XI",
+        "en-US": "Divini Redemptoris",
+        "pt-BR": "Divinis Redemptoris: sobre o Comunismo Ateu",
+        "de": "Divini Redemptoris (March 19, 1937)",
+        "es": "Divini Redemptoris",
+        "fr": "Divini Redemptoris",
+        "it": "Divini Redemptoris"
+      }
+    }
+  ]
+}

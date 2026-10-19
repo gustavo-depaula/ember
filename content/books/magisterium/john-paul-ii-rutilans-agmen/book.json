@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-rutilans-agmen",
+  "cover": "quarter",
+  "name": {
+    "la": "Rutilans Agmen",
+    "en-US": "Rutilans Agmen",
+    "pt-BR": "Rutilans Agmen",
+    "es": "Rutilans Agmen, en el IX centenario de la muerte de san Estanislao",
+    "fr": "Rutilans Agmen",
+    "it": "Rutilans Agmen",
+    "pl": "Lettera apostolica Rutilans Agmen, 8 maggio 1979"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1979-05-08",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1979-05-08"
+  },
+  "composed": "1979",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1979/documents/hf_jp-ii_apl_08051979_rutilans-agmen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1979/documents/hf_jp-ii_apl_08051979_rutilans-agmen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1979/documents/hf_jp-ii_apl_08051979_rutilans-agmen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1979/documents/hf_jp-ii_apl_08051979_rutilans-agmen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1979/documents/hf_jp-ii_apl_08051979_rutilans-agmen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1979/documents/hf_jp-ii_apl_08051979_rutilans-agmen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/apost_letters/1979/documents/hf_jp-ii_apl_08051979_rutilans-agmen.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Rutilans Agmen",
+        "en-US": "Rutilans Agmen",
+        "pt-BR": "Rutilans Agmen",
+        "es": "Rutilans Agmen, en el IX centenario de la muerte de san Estanislao",
+        "fr": "Rutilans Agmen",
+        "it": "Rutilans Agmen",
+        "pl": "Lettera apostolica Rutilans Agmen, 8 maggio 1979"
+      }
+    }
+  ]
+}

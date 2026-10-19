@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-quale-debba",
+  "cover": "quarter",
+  "name": {
+    "la": "Quaenam ex Catholicis, Epistola SSmi D. N. Leonis XIII ad Emum Card. L. M. Parocchi circa modum quo Catholici in Italia sese gerere debeant quoad concursum ad politicas electiones",
+    "it": "Quale debba"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1895-05-14",
+    "pt-BR": "Carta · Papa Leão XIII · 1895-05-14"
+  },
+  "composed": "1895",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_18950514_quale-debba.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18950514_quale-debba.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quaenam ex Catholicis, Epistola SSmi D. N. Leonis XIII ad Emum Card. L. M. Parocchi circa modum quo Catholici in Italia sese gerere debeant quoad concursum ad politicas electiones",
+        "it": "Quale debba"
+      }
+    }
+  ]
+}

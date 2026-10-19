@@ -1,0 +1,20 @@
+# Presidindo Nós
+
+**Bula PRESIDINDO NÓS transferindo o Concílio de Trento para Bolonha.**
+
+Paulo Bispo, servo dos servos de Deus: a nosso venerável irmão Juan Maria, Bispo de Palestina, e a nossos amados filhos Marcelo, Presbítero do título de Santa Cruz em Jerusalém, e Reginaldo, diácono do título de Santa Maria em Cosmedina, Cardeais nossos legados e da Sé apostólica, saúde e benção apostólica.
+
+Presidindo nós, por disposição Divina, ainda que sem os méritos correspondentes, ao governo da Igreja universal, julgamos ser obrigação de nossa dignidade, que se houver por bem o estabelecimento de algum assunto de suma importância em benefício da república cristã, seja levado ao devido efeito, não só em tempo oportuno, mas também em lugar adequado e condizente.
+
+Nós, então, havendo há pouco tempo, (conhecida a paz estabelecida entre nossos caríssimos filhos em Cristo, Carlos sempre augusto Imperador dos Romanos e Francisco, rei Cristão da França) comovido e sensibilizado com o conselho e acessoria de nossos veneráveis irmãos os Cardeais da Santa Igreja Romana, a suspensão da celebração do Sacro, Ecumênico e Universal Concílio, que anteriormente, por motivos que então expressamos, haviam indicado para a cidade de Trento com o conselho e acessoria dos mesmos Cardeais, e cuja execução se havia igualmente suspendido pelos outros motivos então referidos, até tempo mais oportuno e cômodo que igualmente havíamos de declarar com o conselho e acessoria dos mesmos Cardeais, e havendo nós, por não poder, estando atualmente legitimamente impedidos de ir em pessoa à dita cidade e assistir ao Concilio, constituímos e deputamos com a mesma doutrina, nossos Legados e da Sé Apostólica para o mesmo Concílio e destinados à mesma cidade como anjos de paz, segundo o que existe em diversas Bulas nossas publicadas sobre isto. Querendo dar oportuna providência para que uma obra tão santa como a da celebração deste Concílio, não tenha impedimento, ou seja prorrogado por mais tempo pela incomodidade do lugar ou por qualquer outro motivo, os concedemos de nossa própria vontade, certa ciência, e com a plenitude da autoridade Apostólica e com igual doutrina e acesso a todos juntos ou a dois de vós, se o outro estivesse legitimamente impedido ou acaso ausente, pleno e livre poder e autoridade de transferir e mudar, sempre que os agrade, o Concílio mencionado de Trento, para qualquer outra cidade mais cômoda, oportuna e segura, segundo também vos agrade, também de suprimi-lo e dissolvê-lo na mesma cidade de Trento e de inibir inclusive com censuras e outras penas eclesiásticas aos Prelados e demais pessoas do Concílio, para que não prossigam adiante naquela cidade, e igualmente de continuá-lo, mantê-lo e celebrá-lo em qualquer outra cidade para onde se transfira, e de convocar a ele os Prelados e demais pessoas do mesmo Concílio de Trento, sob as penas de perjúrio e outras expressas na convocação do mesmo Concílio, e de presidir nele, transferido e mudado, com o nome e autoridade expressos, e de trabalhar nele, fazer, estabelecer ordenar e executar quantas coisas ficarem mencionadas anteriormente e de todas as que forem necessárias e oportunas para o concílio, segundo o teor e relação das cartas Apostólicas que de antemão lhes foram dirigidas, assegurando-lhes que nos será agradável e daremos por bem feito tudo quanto sobre o que acima exposto houveres estabelecido, ordenado e executado, e que com o auxílio de Deus, o faremos observar inviolavelmente, sem que para isso possam servir de obstáculo as constituições nem ordens Apostólicas, nem outra coisa qualquer.
+
+Não seja pois absolutamente lícita pessoa alguma se por contra desta nossa Bula de concessão nem contradizê-la com temerário atrevimento, e se alguém presumir cair nesta tentação, saiba que incorrerá na indignação de Deus Onipotente e de seus bem aventurados apóstolos Pedro e Paulo.
+
+Dado em Roma, em São Pedro, ano da Encarnação do Senhor 1544, em 23 de fevereiro, ano duodécimo de nosso Pontificado.
+
+Paulo III Papa.
+
+Fab. Bispo de Espoleto B. Motta.
+
+- Fonte: [Agnus Dei](http://agnusdei.50webs.com)
+- Tradução: Dercio Antonio Paganini

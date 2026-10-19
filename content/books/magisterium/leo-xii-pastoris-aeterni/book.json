@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-pastoris-aeterni",
+  "cover": "quarter",
+  "name": {
+    "it": "Esortazione Pastoris Aeterni"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Leo XII · 1826-07-02",
+    "pt-BR": "Exortação Apostólica · Papa Leão XII · 1826-07-02"
+  },
+  "composed": "1826",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/esortazione-pastoris-aeterni-2-luglio-1826.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Esortazione Pastoris Aeterni"
+      }
+    }
+  ]
+}

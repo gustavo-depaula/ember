@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-crux-pectoralis",
+  "cover": "quarter",
+  "name": {
+    "la": "Crux pectoralis",
+    "it": "Crux pectoralis"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius X · 1904-05-24",
+    "pt-BR": "Motu Proprio · Papa Pio X · 1904-05-24"
+  },
+  "composed": "1904",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/motu_proprio/documents/hf_p-x_motu-proprio_19040524_crux-pectoralis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/motu_proprio/documents/hf_p-x_motu-proprio_19040524_crux-pectoralis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Crux pectoralis",
+        "it": "Crux pectoralis"
+      }
+    }
+  ]
+}

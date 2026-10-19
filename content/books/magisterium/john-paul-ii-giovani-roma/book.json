@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-giovani-roma",
+  "cover": "quarter",
+  "name": {
+    "la": "Lettera ai giovani di Roma per celebrare il Giubileo della Redenzione nelle Catacombe di San Callisto (7 febbraio 1984)",
+    "pt-BR": "Carta do Santo Padre aos Jovens de Roma por ocasião do Ano Jubilar",
+    "it": "Lettera ai giovani di Roma per celebrare il Giubileo della Redenzione nelle Catacombe di San Callisto"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1984-02-07",
+    "pt-BR": "Carta · Papa João Paulo II · 1984-02-07"
+  },
+  "composed": "1984",
+  "languages": [
+    "la",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1984-02-07,_SS_Ioannes_Paulus_II,_Littera_'Quanta_Veneratione',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1984/documents/hf_jp-ii_let_19840207_giovani-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1984/documents/hf_jp-ii_let_19840207_giovani-roma.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Lettera ai giovani di Roma per celebrare il Giubileo della Redenzione nelle Catacombe di San Callisto (7 febbraio 1984)",
+        "pt-BR": "Carta do Santo Padre aos Jovens de Roma por ocasião do Ano Jubilar",
+        "it": "Lettera ai giovani di Roma per celebrare il Giubileo della Redenzione nelle Catacombe di San Callisto"
+      }
+    }
+  ]
+}

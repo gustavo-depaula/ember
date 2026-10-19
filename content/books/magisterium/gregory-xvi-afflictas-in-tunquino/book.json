@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-afflictas-in-tunquino",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Afflictas in tunquino"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Gregory XVI · 1840-04-27",
+    "pt-BR": "Alocução · Papa Gregório XVI · 1840-04-27"
+  },
+  "composed": "1840",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/allocuzione-afflictas-in-tunquino-27-aprile-1840.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Afflictas in tunquino"
+      }
+    }
+  ]
+}

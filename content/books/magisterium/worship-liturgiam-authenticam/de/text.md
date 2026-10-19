@@ -1,0 +1,579 @@
+# Fünfte Instruktion ÂÂ„zur ordnungsgemäßen Ausführung der Konstitution des Zweiten Vatikanischen Konzils über die heilige Liturgie"
+
+[](/index.htm)
+
+[](javascript:history.go(-1)) [](javascript:up())
+
+Kongregation für den Gottesdienst und die Sakramentenordnung
+
+**Der Gebrauch der Volkssprachen bei der Herausgabe der Bücher der römischen Liturgie**
+
+**Fünfte Instruktion „zur ordnungsgemäßen Ausführung der Konstitution  des Zweiten Vatikanischen Konzils über die heilige Liturgie"**  
+(Zu Art. 36 der Konstitution)
+
+*Rom 2001*  
+
+1\. Die authentische Liturgie, die aus der lebendigen und ältesten geistlichen Tradition der Kirche hervorgegangen ist, wollte das Heilige Ökumenische Zweite Vatikanische Konzil mit Eifer bewahren und an die Eigenart der verschiedenen Völker mit pastoraler Klugheit anpassen, so dass die Gläubigen in der vollen, bewussten und tätigen Teilnahme an den heiligen Handlungen vor allem an der Feier der Sakramente, eine reiche Quelle an Gnaden finden und die Möglichkeit, sich fortwährend auf das christliche Geheimnis hin zu formen.(1)
+
+2\. Von da begann unter der Obhut der Päpste das große Werk der Erneuerung der liturgischen Bücher des römischen Ritus. Es schloss die Übersetzung(2) in die Volkssprachen ein mit der Absicht, eine höchst sorgfältige Erneuerung der heiligen Liturgie zu erreichen, also eine der wichtigsten Absichten des oben genannten Konzils.
+
+3\. Die liturgische Erneuerung hatte bisher gute Erfolge durch die Arbeit und die Fähigkeit vieler, vor allem der Bischöfe, deren Sorge und Eifer dieses große und schwierige Werk anvertraut ist. Ebenso werden höchste Klugheit und Sorgfalt verlangt bei der Herausgabe der liturgischen Bücher, damit sie sich durch gesunde Lehre auszeichnen, in der Sprache genau und von jeder ideologischen Tendenz frei sind. Im übrigen sollen sie sich durch jene Eigenschaften auszeichnen, durch die die heiligen Mysterien des Heils und der unversehrte Glaube der Kirche mit Hilfe der menschlichen Sprache wirksam in Gebet gefasst werden und Gott, der der höchste ist, der angemessene Kult erwiesen wird.(3)
+
+4\. Das Zweite Ökumenische Vatikanische Konzil wies in Beratungen und Dekreten den liturgischen Riten sowie den kirchlichen Traditionen und der Disziplin des christlichen Lebens eine einzigartige Bedeutung zu, die jenen Teilkirchen, vor allem des Ostens, eigen sind, die wegen ihres ehrenwerten Alters hervorragen und deswegen auf verschiedene Weise die durch die Väter von den Aposteln empfangene Tradition deutlich machen.(4) Das Konzil wünschte, dass die Traditionen einer jeden dieser Teilkirchen unversehrt und unberührt gewahrt blieben; daher forderte es, die verschiedenen Riten auf ihre gesunde Tradition hin zu überprüfen, und stellte den Grundsatz auf, nur jene Änderungen einzuführen, durch die ein wirklicher und organischer Fortschritt gefördert werde.(5) Dieselbe wache Sorge ist durchaus gefordert, um die liturgischen Riten, die kirchlichen Traditionen und die Disziplin der Lateinischen Kirche, besonders des römischen Ritus, zu bewahren und auf authentische Art und Weise weiter zu entwickeln. Dieselbe Sorgfalt ist ebenfalls bei dem Unternehmen anzuwenden, liturgische Texte in die Volkssprachen zu übersetzen, vor allem das Missale Romanum, das unverändert als hervorragendes Zeichen und Instrument der Unversehrtheit und Einheit des römischen Ritus zu gelten hat.(6)
+
+5\. Tatsächlich darf man aber behaupten, dass gerade der römische Ritus ein kostbares Beispiel und Instrument wahrer Inkulturation ist. Denn der römische Ritus zeichnet sich durch seine bemerkenswerte Fähigkeit aus, Texte, Gesänge, Gesten und Riten aus den Gewohnheiten und der Eigenart verschiedener Völker und Teilkirchen des Ostens und des Westens aufzunehmen, um eine passende und angemessene Einheit zu bewirken, die die Grenzen eines jeden Gebietes übersteigt.(7) Diese Eigenschaft ist besonders deutlich sichtbar in seinen Gebeten, die es ermöglichen, die Grenzen ihrer Entstehungssituation zu überschreiten, so dass sie zu Gebeten der Christen jeden Ortes und jeden Alters werden. Die Identität des römischen Ritus und der einheitliche Ausdruck sind bei allen Arbeiten zur Übersetzung der liturgischen Bücher mit größter Sorgfalt zu wahren,(8) nicht gleichsam als eine Art historischer Erinnerung, sondern als Ausdruck der theologischen Gegebenheiten der kirchlichen Gemeinschaft und Einheit.(9) Das Werk der Inkulturation, von dem die Übersetzung in die Volkssprachen einen Teil ausmacht, soll daher nicht gleichsam für einen Weg gehalten werden, um neue Arten oder Familien von Riten einzuführen. Im Gegenteil ist zu beachten, dass alle Anpassungen, die eingeführt wurden, um den kulturellen und pastoralen Erfordernissen entgegen zu kommen, Teile des römischen Ritus und darum ihm harmonisch einzufügen sind.(10)
+
+6\. Seit der Veröffentlichung der Konstitution über die heilige Liturgie brachte die vom Apostolischen Stuhl geförderte Arbeit der Übersetzung der liturgischen Texte in die Volkssprachen auch die Formulierung von Normen und Empfehlungen an die Bischöfe mit sich. Dennoch aber wurde erkannt, dass die Übersetzungen der liturgischen Texte an verschiedenen Orten einer Verbesserung durch Korrekturen oder durch eine neue Ausgabe bedürfen.(11) Auslassungen oder Irrtümer, mit denen gewisse Übersetzungen in die Volkssprachen bis heute behaftet sind, haben in der Tat den nötigen Fortschritt der Inkulturation behindert, besonders in einigen Sprachen. Dadurch blieb es der Kirche verwehrt, Fundamente für eine vollere, gesündere und wahrere Erneuerung zu legen.
+
+7\. Deswegen erscheint es nun notwendig, auf reifere Erfahrung gestützt, aufs Neue die Prinzipien der Übersetzung darzulegen, die sowohl bei künftig neu zu erstellenden Übersetzungen als auch bei der Verbesserung der bereits in Gebrauch befindlichen Texte zu beachten sein werden. Ebenso sind gewisse schon veröffentlichte Normen unter Berücksichtigung vielfältiger Fragen und Umstände unserer Zeit genauer festzulegen. Um die seit dem Konzil gewonnenen Erfahrungen umfassend zu nutzen, scheint es dem Anliegen dienlich, wenn die Normen gelegentlich in denjenigen Tendenzen ausgedrückt werden, die es in früheren Übersetzungen augenscheinlich gibt und die in künftigen zu meiden sind. Es scheint wirklich notwendig, den wahren Begriff „liturgische Übersetzung" neu zu bedenken, so dass die Übersetzungen der heiligen Liturgie in die Volkssprachen als authentische Stimme der Kirche Gottes verlässlich sind.(12) Diese Instruktion möchte dafür sorgen und Maßnahmen treffen, dass eine neue Zeit der Erneuerung anbricht, die mit der Eigenart und der Tradition der Teilkirchen übereinstimmt, aber auch den Glauben und die Einheit der gesamten Kirche Gottes sicherstellt.
+
+8\. Das, was in der vorliegenden Instruktion bestimmt wird, soll alle bisher in der selben Sache ergangenen Normen ersetzen, mit Ausnahme der Instruktion Varietates legitimae, die von der Kongregation für den Gottesdienst und die Sakramentenordnung am 25. Januar 1994 veröffentlicht worden ist; die neuen Normen sind mit jener Instruktion als zusammengehörig zu betrachten.(13) Die Normen der vorliegenden Instruktion gelten für die Übersetzung der für den liturgischen Gebrauch bestimmten Texte im römischen Ritus und, mit den nötigen Abänderungen, in den übrigen vom Recht anerkannten Riten der Lateinischen Kirche.
+
+9\. Wo es die Kongregation für den Gottesdienst und die Sakramentenordnung für angebracht hält, soll nach Beratung mit den betroffenen Bischöfen eine so genannte „Übersetzungsordnung" verfasst werden, die unter der Autorität dieses Dikasteriums festzulegen ist. Sie soll die in dieser Instruktion dargelegten Übersetzungsprinzipien auf eine bestimmte Sprache genauer anwenden. Dieses Dokument kann gegebenenfalls verschiedene Teilen umfassen, z.B. ein Verzeichnis volkssprachlicher Ausdrücke, die die entsprechenden lateinischen Wörter wiedergeben, eine Darstellung der speziell diese Sprache betreffenden Prinzipien usw.  
+
+**I DIE AUSWAHL DER VOLKSSPRACHEN, DIE IN DER LITURGIE GEBRAUCHT WERDEN KÖNNEN**
+
+10\. Zuerst ist die Auswahl der Sprachen zu bedenken, die in den liturgischen Feiern verwendet werden dürfen. In jedem Gebiet soll nämlich sinnvoller Weise eine pastorale Ordnung erstellt werden, die die wichtigsten dort bestehenden Idiome berücksichtigt. Sie soll unterscheiden zwischen Sprachen, die das Volk spontan spricht, und solchen, die nur Gegenstand kulturellen Interesses bleiben, weil sie nicht der natürlichen Kommunikation im Rahmen der Pastoral dienen. Bei der Erarbeitung und Durchführung dieser Ordnung möge man in gebührender Weise sicherstellen, dass durch die Auswahl der Volkssprachen, die in der Liturgie gebraucht werden sollen, die Gläubigen nicht in kleine Gruppen gespalten werden. Sonst besteht die Gefahr, dass unter den Bürgern Zwietracht gefördert wird zum Schaden für die Einheit der Völker sowie für die Einheit der Teilkirchen und der Gesamtkirche.
+
+11\. In dieser Ordnung unterscheide man klar einerseits zwischen Sprachen, die allgemein in der pastoralen Kommunikation zugelassen, und anderseits denen, die in der heiligen Liturgie verwendet werden sollen. Bei der Erarbeitung dieser Ordnung muss man ebenso die Voraussetzungen in Betracht ziehen, die der Gebrauch einer bestimmten Sprache erfordert, wie etwa die Anzahl der Priester, der Diakone und der Laienmitarbeiter, die die Sprache beherrschen; die Anzahl der Fachleute und derjenigen, die erfahren und befähigt sind, in Übereinstimmung mit den hier dargelegten Grundsätzen Übersetzungen aller liturgischen Bücher des Römischen Ritus zu erarbeiten; die finanziellen und technischen Mittel zur Erstellung der Übersetzungen und zum Druck von Büchern, die sich zum Gebrauch in der Liturgie wirklich eignen.
+
+12\. Als notwendig erweist sich außerdem, im liturgischen Bereich zwischen Sprachen und Dialekten zu unterscheiden. Aufgrund ihrer besonderen Beschaffenheit können Dialekte, die sich für die allgemeine akademische und kulturelle Kommunikation nicht eignen, nicht in den vollen liturgischen Gebrauch aufgenommen werden; denn ihnen fehlen die Beständigkeit und die Weite, die für liturgische Sprachen innerhalb eines größeren Gebietes erforderlich sind. Jedenfalls soll die Zahl der partikulären liturgischen Sprachen nicht zu sehr vermehrt werden.(14) Das ist notwendig, damit in den liturgischen Feiern innerhalb des Gebietes derselben Nation eine gewisse Einheit der Sprache gefördert wird.
+
+13\. Eine Sprache aber, die nicht in den vollen liturgischen Gebrauch aufgenommen wird, ist deshalb nicht ganz vom liturgischen Gebrauch ausgeschlossen. Sie kann, wenigstens gelegentlich, im Allgemeinen Gebet, in Texten, die gesungen vorgetragen werden, in Monitionen oder in Teilen der Homilie gebraucht werden, vor allem wenn es sich um die eigene Sprache der teilnehmenden Christgläubigen handelt. Es bleibt jedoch immer die Möglichkeit, die lateinische Sprache oder eine andere in derselben Nation weit verbreitete Sprache zu verwenden, auch wenn sie weder die Sprache aller noch der meisten Christgläubigen ist, die hier und jetzt an der liturgischen Feier teilnehmen, sofern dadurch Zwietracht unter den Gläubigen vermieden wird.
+
+14\. Weil der Gebrauch von Sprachen in der Liturgie durch die Kirche die Entwicklung der Sprache selbst prägt, ja sie bestimmen kann, soll man dafür sorgen, dass jene Sprachen gefördert werden, die, auch wenn sie vielleicht keine lange literarische Überlieferung kennen, offensichtlich von der Mehrzahl der Leute gebraucht werden können. Ein Zersplittern in Dialekte ist zu vermeiden, zumal wenn irgendwo ein Dialekt von der rein mündlichen zur schriftlichen Form übergeht. Im Gegenteil: Es ist immer zu wünschen, dass die den Gemeinschaften der Menschen gemeinsamen Sprachformen unterstützt und gefördert werden.
+
+15\. Den Bischofskonferenzen kommt es zu festzulegen, welche in ihrem Gebiet vorkommenden Sprachen voll oder teilweise in den Gebrauch zu übernehmen sind. Diese Beschlüsse benötigen vom Apostolischen Stuhl die recognitio, bevor jegliche Übersetzungsarbeit beginnt.(15) Ehe die Bischofskonferenz einen diesbezüglichen Beschluss fasst, soll sie es nicht unterlassen, die Meinung von Fachleuten und anderen Beteiligten auf schriftlichem Wege einzuholen. Diese Stellungnahmen sollen zusammen mit den übrigen Akten schriftlich und mit einem Bericht an die Kongregation für den Gottesdienst und die Sakramentenordnung gesandt werden, gemäß unten Nr. 
+
+16\. Bezüglich des Urteils der Bischofskonferenz über die Aufnahme der Volkssprache in den liturgischen Gebrauch ist Folgendes zu beachten (vgl. Nr. 79):(16)  
+a) Damit ein rechtsgültiges Dekret erlassen wird, sind zwei Drittel der geheim abgegebenen Stimmen all derer erforderlich, die in der Bischofskonferenz entscheidendes Stimmrecht haben.  
+b) Alle Akten, die vom Apostolischen Stuhl zu approbieren sind, sollen in zweifacher Ausfertigung vom Vorsitzenden und vom Sekretär der Konferenz unterschrieben und ordnungsgemäß mit dem Siegel versehen werden; sie sind an die Kongregation für den Gottesdienst und die Sakramentenordnung zu übersenden. Diese Akten sollen enthalten:  
+i)  die Namen der Bischöfe oder der ihnen rechtlich Gleichgestellten, die an der Versammlung teilgenommen haben;  
+ii)   einen Bericht über das Verfahren; er muss den Ausgang der Abstimmungen über jedes Dekret enthalten unter Angabe der Zahl der Ja-Stimmen, der Nein-Stimmen und der Stimmenthaltungen.  
+iii) eine klare Darlegung aller einzelnen Teile der Liturgie, für welche der Vortrag in der Volkssprache festgesetzt wird;  
+c) In einem besonderen Bericht soll eindeutig die Sprache bezeichnet werden, um die es sich handelt, sowie die Gründe für die Einführung der betreffenden Sprache in den liturgischen Gebrauch.
+
+17\. Was den Gebrauch „künstlicher" Sprachen betrifft, der im Lauf der Zeit zuweilen vorgeschlagen wurde, wird die Approbation der Texte sowie die Gewährung der Erlaubnis, sie in liturgischen Handlungen zu verwenden, streng dem Heiligen Stuhl reserviert; diese Erlaubnis wird nur unter besonderen Umständen und um des seelsorglichen Wohls der Gläubigen willen erteilt, nachdem der Rat der Bischöfe, die es besonders angeht, eingeholt worden ist.(17)
+
+18\. In Feiern, die für fremdsprachige Personen gehalten werden, wie Zugezogene, Migranten, Pilger usw., darf man mit Zustimmung des Diözesanbischofs die heilige Liturgie in der diesen Menschen bekannten Volkssprache feiern. Dabei ist das liturgische Buch zu verwenden, das von der zuständigen Autorität schon approbiert und vom Apostolischen Stuhl die recognitio erhalten hat.(18) Wenn solche Feiern zu bestimmten Zeiten häufiger vorkommen, soll der Diözesanbischof einen kurzen Bericht an die Kongregation für den Gottesdienst und die Sakramentenordnung senden, in dem die Umstände, die Zahl der Teilnehmenden und die verwendeten Bücher dargelegt werden.  
+
+**II DIE ÜBERSETZUNG LITURGISCHER TEXTE IN DIE VOLKSSPRACHEN**
+
+** **
+
+**1. ALLGEMEINE PRINZIPIEN, DIE FÜR JEDE ÜBERSETZUNG GELTEN**
+
+19\. Die Worte der Heiligen Schrift sowie andere Worte, die in den liturgischen Feiern, vor allem bei der Feier der Sakramente, vorgetragen werden, zielen nicht in erster Linie darauf ab, gewissermaßen die innere Verfassung der Gläubigen widerzuspiegeln, sondern sie drücken Wahrheiten aus, welche die Grenzen von Zeit und Ort überschreiten. Denn durch diese Worte spricht Gott beständig mit der Braut seines geliebten Sohnes, führt der Heilige Geist die Christgläubigen in die ganze Wahrheit ein und lässt Christi Wort überreich in ihnen wohnen; die Kirche setzt alles, was sie selbst ist, und alles, was sie glaubt, fort und gibt es weiter, indem sie die Gebete aller Gläubigen durch Christus und in der Kraft des Heiligen Geistes an Gott richtet.(19)
+
+20\. Indem die lateinischen liturgischen Texte des römischen Ritus aus der Jahrhunderte langen kirchlichen Erfahrung in der Weitergabe des von den Vätern empfangenen Glaubens der Kirche schöpfen, sind sie selbst die jüngste Frucht der liturgischen Erneuerung. Damit dieses so große Erbe und die so großen Reichtümer bewahrt und durch die Jahrhunderte hindurch überliefert werden, soll man vor allem den Grundsatz beachten, dass die Übersetzung der liturgischen Texte der römischen Liturgie nicht in erster Linie ein kreatives Werk ist, sondern vielmehr erfordert, die Originaltexte in die Volkssprache getreu und genau zu übertragen. Zwar mag es erlaubt sein, die Worte so anzuordnen und Satzbau wie Stil so zu gestalten, dass ein flüssiger und dem Rhythmus des Gemeindegebetes angepasster volkssprachiger Text entsteht. Doch muss der Originaltext, soweit möglich, ganz vollständig und ganz genau übertragen werden, das heißt ohne Auslassungen und Zusätze, was den Inhalt betrifft, und ohne Paraphrasen oder Erklärungen. Die Anpassungen an die Eigenart und den Charakter der verschiedenen Volkssprachen müssen besonnen sein und behutsam vorgenommen werden.(20)
+
+21\. Vor allem bei Übersetzungen, die für neu zum christlichen Glauben geführte Völker bestimmt sind, muss man manchmal um der Treue zum und der Übereinstimmung mit dem Sinn des Originaltextes willen bereits in allgemeinem Gebrauch befindliche Wörter auf neue Weise verwenden, neue Wörter oder Ausdrücke schaffen, Wörter der Originaltexte anders schriftlich wiedergeben beziehungsweise sie der Aussprache in der Volkssprache anpassen,(21) oder Redefiguren verwenden, die den eigentlichen Sinn der lateinischen Aussage vollständig ausdrücken, selbst wenn sie in Wortlaut und Syntax von dieser abweichen. Solche Maßnahmen sollen, zumal es sich um sehr bedeutende Dinge handelt, allen betroffenen Bischöfen zur Beratung vorgelegt werden, bevor man sie in den endgültigen Text aufnimmt. Außerdem sollen sie detailliert im Bericht dargelegt werden, von dem unten in Nr. 79 die Rede ist. Besondere Sorgfalt soll man auf die Aufnahme von Wörtern verwenden, die aus heidnischen Religionen stammen.(22)
+
+22\. Unter Anpassungen von Texten gemäß Art. 37-40 der Konstitution Sacrosanctum Concilium sind solche zu verstehen, die echten kulturellen und pastoralen Notwendigkeiten entsprechen und nicht aus dem bloßen Wunsch nach Neuem und nach Abwechslung entstanden sind. Auch soll man sie nicht als Methode betrachten, die editiones typicae zu verbessern oder das Wesentliche von deren theologischen Inhalten zu verändern; vielmehr sollen sie von den Normen und den Vorgehensweisen bestimmt sein, die in der oben genannten Instruktion Varietates legitimae enthalten sind.(23) Deshalb sollen volkssprachliche Übersetzungen der liturgischen Bücher, die der Kongregation für den Gottesdienst und die Sakramentenordnung zur Erteilung der recognitio vorgelegt werden, außer der Übersetzung selbst samt allen möglichen Anpassungen, wie sie in den editiones typicae ausdrücklich festgelegt sind, nur Anpassungen bzw. Änderungen enthalten, denen dieses Dikasterium bereits schriftlich zugestimmt hat.
+
+23\. Bei der Übersetzung von Texten der kirchlichen Tradition mag es sich zwar empfehlen, die etwa vorhandene Quelle dieses Textes zu konsultieren sowie historische und andere wissenschaftliche Hilfsmittel heranzuziehen, dennoch muss immer eben dieser Text der lateinischen editio typica übersetzt werden.  
+Immer wenn in einem biblischen oder liturgischen Text Wörter aus anderen alten Sprachen bewahrt sind (z. B. die Wörter Halleluja und Amen, aramäische Vokabeln, die sich im Neuen Testament finden, griechische Vokabeln aus dem Trishagion, die in den Improperien des Karfreitags vorgetragen werden, das Kyrie eleison des Ordo Missae, abgesehen von vielen Eigennamen), ist zu überlegen, ob diese auch in der neuen volkssprachlichen Übersetzung beibehalten werden sollen, wenigstens als Wahlmöglichkeit. Ja, der sorgsame Respekt vor dem Originaltext wird es manchmal erfordern, so vorzugehen.
+
+24\. Außerdem ist es grundsätzlich nicht gestattet, Übersetzungen aus bereits vorhandenen Übersetzungen in andere Sprachen zu erstellen. Denn diese muss man unmittelbar aus den Originaltexten nehmen: liturgische Texte der kirchlichen Tradition aus dem Latein, Texte der Heiligen Schrift je nachdem aus dem Hebräischen, dem Aramäischen oder dem Griechischen.(24) Ebenso soll man bei der Erarbeitung von Übersetzungen der Heiligen Schrift für den liturgischen Gebrauch normalerweise den Text der vom Apostolischen Stuhl promulgierten Nova Vulgata als Hilfe heranziehen, um die exegetische Tradition zu wahren, vor allem hinsichtlich der lateinischen Liturgie, wie an anderer Stelle dieser Instruktion dargelegt ist.
+
+25\. Damit der Inhalt des Originaltextes auch weniger gebildeten Gläubigen zugänglich und verständlich ist, sollen die Übersetzungen sich dadurch auszeichnen, dass sie in Worte gefasst werden, die dem Verständnis angepasst sind und doch zugleich die Würde, die Schönheit und den genauen Lehrinhalt solcher Texte bewahren.(25) Durch Worte des Lobpreises und der Anbetung, die die Ehrfurcht und die Dankbarkeit gegenüber Gottes Majestät und Macht, Barmherzigkeit und Transzendenz fördern, sollen die Übersetzungen dem Hunger und Durst nach dem lebendigen Gott gerecht werden, die das Volk unserer Zeit empfindet; auf diese Weise tragen sie zugleich zur Würde wie Schönheit der liturgischen Feier bei.(26)
+
+26\. Die Eigenart der liturgischen Texte als eines sehr wirksamen Mittels, die Grundlagen des Glaubens und der christlichen Sittenlehre im Leben der Christgläubigen einzuprägen,(27) soll in den Übersetzungen mit aller Sorgfalt bewahrt werden. Ebenso muss die Übersetzung der Texte mit der gesunden Lehre übereinstimmen.
+
+27\. Zwar muss man Wörter oder Ausdrücke meiden, die wegen ihres allzu ungewohnten oder schroffen Charakters das leichte Verstehen behindern. Trotzdem sind die liturgischen Texte in erster Linie als Stimme der betenden Kirche, nicht als diejenige bestimmter Gruppen oder einzelner Personen zu verstehen. Deshalb müssen sie frei sein von allzu modischen Ausdrücken. Wenn aber Wörter und Ausdrücke bisweilen in liturgischen Texten verwendet werden können, die von der gewohnten und alltäglichen Redeweise abweichen, führt das nicht selten dazu, dass Texte tatsächlich leichter im Gedächtnis behalten werden und sich als wirksamer erweisen, um übernatürliche Dinge auszudrücken. Ja, offensichtlich fördert das Befolgen der in dieser Instruktion dargelegten Grundsätze in jeder Volkssprache die allmähliche Entwicklung eines sakralen Stils, der auch als speziell liturgische Redeweise anerkannt wird. Ebenso kann es geschehen, dass eine bestimmte Ausdrucksweise, die in der Umgangssprache eher als überholt gilt, im liturgischen Kontext weiterhin bewahrt wird. Ähnlich soll man beim Übersetzen von Bibelstellen, die unelegante Wörter oder Ausdrücke enthalten, das unbedachte Bemühen vermeiden, diese Eigenart zu beseitigen. Diese Grundsätze sollen die Liturgie von der Notwendigkeit häufiger Überarbeitungen entlasten, auch wenn es um verschiedene Ausdrucksweisen geht, die im Volk außer Gebrauch kommen.
+
+28\. Die heilige Liturgie beansprucht nicht nur den Verstand des Menschen, sondern auch die ganze Person, die „Subjekt" der vollen und bewussten Teilnahme an der liturgischen Feier ist. Die Übersetzer mögen deshalb die Zeichen und Bilder der Texte und die rituellen Handlungen aus sich selbst sprechen lassen und nicht danach trachten, allzu explizit wiederzugeben, was im Originaltext implizit gesagt wird. Aus demselben Grund vermeide man klugerweise, Erklärungen des Textes hinzuzufügen, die in der editio typica nicht vorhanden sind. Außerdem achte man darauf, dass in den Ausgaben für das Volk wenigstens einige lateinische Texte erhalten bleiben, besonders aus dem unvergleichlichen Schatz des Gregorianischen Chorals, den die Kirche als den der römischen Liturgie eigenen Gesang betrachtet und der darum, gleiche Bedingungen vorausgesetzt, in den liturgischen Handlungen den ersten Platz einnehmen soll.(28) Denn dieser Gesang trägt in höchstem Maße dazu bei, den menschlichen Geist zum Übernatürlichen zu erheben.
+
+29\. Aufgabe von Homilie und Katechese ist es, die Bedeutung der liturgischen Texte so zu erschließen, dass zum Ausdruck kommt,(29) was die Kirche genau denkt in Bezug auf die Mitglieder der Teilkirchen oder kirchlicher Gemeinschaften, die von der vollen Gemeinschaft mit der Katholischen Kirche getrennt sind, den Gemeinschaften der Juden oder der Anhänger anderer Religionen, ebenso in Bezug auf die wahre Würde und Gleichheit aller Menschen.(30) Ebenso ist es Aufgabe der Katechisten und desjenigen, der die Homilie hält, das rechte Verständnis der Texte zu vermitteln, das frei ist von - in den Texten der heiligen Liturgie auf keinen Fall begegnenden - Vorurteilen oder aller ungerechten Diskriminierung bezüglich Personen, Geschlecht, sozialer Bedingung, Herkunft usw. Auch wenn eine solche Überlegung bei der Wahl zwischen verschiedenen Übersetzungen eines bestimmten Ausdrucks bisweilen eine Hilfe ist, soll dies dennoch nicht als Grund dafür gelten, den rechtmäßig promulgierten biblischen oder liturgischen Text zu verändern.
+
+30\. In vielen Sprachen gibt es Substantive und Pronomina, die für das männliche und weibliche Genus dieselbe Form aufweisen. Darauf zu bestehen, dass dieser Sprachgebrauch geändert wird, darf nicht notwendigerweise als Wirkung oder Zeichen echten Fortschritts der jeweiligen Sprache gelten. Obwohl mit Hilfe der Katechese dafür zu sorgen ist, dass solche Wörter weiterhin in diesem „inklusiven" Sinn verstanden werden, kann es in den Übersetzungen selbst dennoch nicht oft vorkommen, dass verschiedene Wörter verwendet werden, ohne dass die im Text geforderte Genauigkeit, der Zusammenhang seiner Wörter und Ausdrücke und seiner Stimmigkeit Schaden nehmen. Wenn z. B. der Originaltext nur ein Wort verwendet, das den Zusammenhang zwischen einem einzelnen Menschen und der Gesamtheit und Einheit der Menschheitsfamilie oder -gemeinschaft ausdrückt (wie das hebräische Wort adam, das griechische anthropos, das lateinische homo), muss diese sprachliche Eigenart des Originaltextes in der Übersetzung erhalten werden. Wie es in anderen Perioden der Geschichte geschehen ist, muss die Kirche selbst frei die Art der Sprache festlegen, die ihrer Lehraufgabe am besten dient, und man darf sie nicht von außen herangetragenen sprachwissenschaftlichen Normen unterwerfen, die dieser Aufgabe schaden.
+
+31\. Im einzelnen: Systematisch angestellte Überlegungen, zu unbesonnenen Lösungen Zuflucht zu nehmen, sind zu vermeiden, wie etwa Wörter übereilt zu ersetzen, statt den Singular den Plural zu nehmen, eine inklusive Bezeichnung in einen männlichen und einen weiblichen Teil aufzuspalten und unpersönliche oder abstrakte Wörter einzuführen. Dies alles kann bewirken, dass derselbe volle Sinn eines Wortes oder einer Redeweise des Originaltextes nicht ausgedrückt wird. Solche Lösungen bergen die Gefahr in sich, dass theologische und anthropologische Schwierigkeiten in die Übersetzung hineingetragen werden. Weitere besondere Normen sind folgende:  
+a) Wo es sich um den allmächtigen Gott oder um einzelne Personen der Heiligsten Dreifaltigkeit handelt, sind die Wahrheit der Tradition und der feste Gebrauch jeder Sprache bezüglich des Genus beizubehalten.  
+b) Besondere Sorgfalt ist darauf zu verwenden, dass die Wortverbindung Filius hominis (Menschensohn) getreu und genau wiedergegeben wird. Die große christologische und typologische Bedeutung dieses Begriffs verlangt auch, in der gesamten Übersetzung den Begriff zu verwenden, damit die Wortverbindung im Kontext der ganzen Übersetzung verstanden werden kann.  
+c) Das Wort patres (Väter), das in vielen Bibelstellen und liturgischen Texten der kirchlichen Tradition vorkommt, soll mit dem entsprechenden männlichen Wort in die Volkssprachen übertragen werden, je nachdem wie es sich nach dem Zusammenhang auf die Patriarchen, die Könige des auserwählten Volkes im Alten Testament oder auf die Kirchenväter bezieht.  
+d) Soweit es in einer bestimmten Volkssprache möglich ist, ist für „Kirche" eher der Gebrauch des weiblichen Pronomens als des Neutrums beizubehalten.  
+e) Wörter, die Familienverwandtschaften oder andere Beziehungen bezeichnen, wie frater (Bruder), soror (Schwester) usw., die je nach Zusammenhang klar entweder männlich oder weiblich sind, sollen in der Übersetzung gewahrt werden.  
+f) Das grammatische Genus von Engeln, Dämonen und heidnischen Göttern bzw. Göttinnen soll in der Volkssprache, soweit es geschehen kann, gemäß dem Originaltext beibehalten werden.  
+g) In all diesen Dingen muss man sich sinngemäß an die Grundsätze halten, die oben in Nr. 27 und Nr. 29 dargelegt sind.
+
+32\. Die Übersetzung darf die volle Bedeutung des Originaltextes nicht eingrenzend umschreiben. Zu vermeiden sind deshalb Ausdrücke, die charakteristisch sind für kommerzielle Werbung, politische oder ideologische Programme, vorübergehende Moden oder solche, die mit regionalen Dialekten oder Mehrdeutigkeiten verbunden sind. Da wissenschaftliche Stil-Handbücher oder ähnliche Publikationen manchmal diesen Tendenzen erliegen, können sie nicht als beispielhaft für die liturgische Übersetzung gelten. Werke aber, die allgemein in der betreffenden Volkssprache als „Klassiker" gelten, können als geeignetes Vorbild für den Wortschatz und seinen Gebrauch nützlich sein.
+
+33\. Die Verwendung von Großbuchstaben in den liturgischen Texten der lateinischen editiones typicae sowie in der liturgischen Bibelübersetzung - sei es als Ausdruck der Ehre oder sonst der Wichtigkeit hinsichtlich der theologischen Bedeutung - soll in der Volkssprache beibehalten werden, wenigstens soweit es die Struktur einer Sprache erlaubt.  
+
+**2. WEITERE NORMEN FÜR DIE ÜBERSETZUNG DER HEILIGEN SCHRIFT UND FÜR DIE ERSTELLUNG DER LEKTIONARE**
+
+34\. Sehr zu wünschen ist eine Übersetzung der Heiligen Schrift, bei der die Grundsätze der gesunden Exegese und einer hervorragenden literarischen Qualität gewahrt bleiben, in der aber auch sorgfältig auf die besonderen Erfordernisse des liturgischen Gebrauchs geachtet wird - hinsichtlich Stil, Wortwahl und Entscheidung zwischen mehreren möglichen Interpretationen.
+
+35\. Wo eine solche Übersetzung der Bibel in eine bestimmte Sprache nicht existiert, wird man eine bereits vorhandene Ausgabe heranziehen und diese Übersetzung entsprechend verändern müssen, damit sie gemäß den in dieser Instruktion dargelegten Grundsätzen für den liturgischen Gebrauch geeignet ist.
+
+36\. Damit die Gläubigen wenigstens die bedeutsamsten Texte der Heiligen Schrift, durch die sie auch im privaten Gebet geformt werden, im Gedächtnis behalten können, ist es sehr wichtig, dass die für den liturgischen Gebrauch bestimmte Bibelübersetzung eine gewisse Einheitlichkeit und Beständigkeit aufweist; d. h. man soll im ganzen Gebiet eine einzige approbierte Übersetzung gebrauchen, die in allen Teilen der verschiedenen liturgischen Bücher verwendet wird. Eine solche Beständigkeit ist besonders für die Übersetzung der biblischen Schriften wünschenswert, die häufiger verwendet werden, wie für den Psalter, der das grundlegende Gebetbuch des christlichen Volkes ist.(31) Die Bischofskonferenzen werden dringend ermuntert, in ihren Gebieten für die Verlagsrechte und die vollständige Ausgabe einer mit dem in der Liturgie verwendeten Text übereinstimmenden Bibelübersetzung zum privaten Studium und zur persönlichen Schriftlesung der Gläubigen zu sorgen.
+
+37\. Wenn die Bibelübersetzung, aus der das Lektionar schöpft, Lesarten aufweist, die von denjenigen des lateinischen liturgischen Textes abweichen, ist darauf zu achten, daß sich alles, was die Festlegung des kanonischen Schrifttextes betrifft, nach der Norm der Nova Vulgata richtet.(32) In den deuterokanonischen Texten und anderswo, d. h. wo verschiedene handschriftliche Überlieferungen vorliegen, muss deshalb die liturgische Übersetzung gemäß derselben Tradition erstellt werden, der die Nova Vulgata gefolgt ist. Wenn eine schon erstellte Übersetzung eine der Nova Vulgata entgegengesetzte Option enthält, was die zugrunde liegende Textüberlieferung, die Versfolge und ähnliches betrifft, muss dies bei der Erarbeitung eines Lektionars korrigiert werden, so dass die Übereinstimmung mit dem approbierten liturgischen lateinischen Text bestehen bleibt. Bei neu zu erarbeitenden Übersetzungen wird es nützlich, wenngleich nicht verpflichtend sein, dass die Nummerierung der Verse möglichst eng diesem Text folgt.
+
+38\. Oft kann man, anhand übereinstimmender Vorschläge kritischer Ausgaben und aufgrund der allgemeinen Empfehlung der Fachleute, eine andere Lesart eines Verses aufnehmen. Doch ist dies bei liturgischen Texten dann nicht erlaubt, wenn es um Elemente der Lesung geht, die wegen ihres Bezugs zum liturgischen Kontext bedeutsam sind oder wenn sonst gegen die Prinzipien dieser Instruktion verstoßen würde. Bei den Stellen, welche die Textkritik nicht einheitlich beurteilt, soll man besonders die Optionen berücksichtigen, die der approbierte lateinische Text enthält.(33)
+
+39\. Die Abgrenzung der biblischen Perikopen muss sich ganz nach dem Ordo lectionum Missae oder gegebenenfalls nach anderen approbierten und mit der recognitio ausgestatteten liturgischen Texten richten.
+
+40\. Unter Wahrung der Erfordernisse einer gesunden Exegese soll alle Sorgfalt darauf verwandt werden, den Wortlaut von Bibelstellen beizubehalten, die man allgemein in der Katechese und in Gebeten, in denen die Volksfrömmigkeit zum Ausdruck kommt, gebraucht. Anderseits muss man sich mit ganzer Kraft darum bemühen, dass nicht ein Wortschatz oder ein Stil übernommen wird, die das katholische Volk mit dem Sprachgebrauch nichtkatholischer kirchlicher Gemeinschaften oder anderer Religionen verwechseln könnte, damit dadurch nicht Verwirrung oder Ärgernis entsteht.
+
+41\. Man soll sich darum bemühen, dass die Übersetzungen demjenigen Verständnis biblischer Schriftstellen angeglichen werden, welches durch den liturgischen Gebrauch und durch die Tradition der Kirchenväter überliefert ist, besonders wenn es sich um Texte von großer Bedeutung handelt, wie die Psalmen und die Lesungen zu besonderen Feiern des Kirchenjahres. In diesen Fällen muss man äußerst gewissenhaft dafür sorgen, dass die Übersetzung den überlieferten christologischen, typologischen oder geistlichen Sinn wiedergibt sowie die Einheit und den Zusammenhang zwischen den beiden Testamenten verdeutlicht.(34) Deshalb gilt:  
+a) Um einen Text am besten so wiederzugeben, wie er in der lateinischen liturgischen Tradition gelesen und rezipiert wurde, ist es, wenn man zwischen verschiedenen Textvarianten wählen muss, empfehlenswert, sich an die Nova Vulgata zu halten.  
+b) Um dieses Ziel zu erreichen, soll man sich auch auf die ältesten Bibelübersetzungen beziehen, wie die gewöhnlich Septuaginta genannte griechische Übersetzung des Alten Testaments, die die Christen schon seit den ältesten Zeiten der Kirche verwendet haben.(35)  
+c) Nach der seit unvordenklicher Zeit überlieferten Tradition, die ja schon in der genannten Septuaginta-Übersetzung sichtbar ist, soll der Name des allmächtigen Gottes - hebräisch das heilige Tetragramm, lateinisch Dominus - in jeder Volkssprache durch ein Wort derselben Bedeutung wiedergegeben werden.  
+Deshalb soll man die Übersetzer eindringlich mahnen, die Auslegungsgeschichte aufmerksam zu erforschen, die man aus den in den Werken der Kirchenväter angeführten Schriftstellen schöpfen kann, aber auch aus den biblischen Bildern, welche in der christlichen Kunst und Hymnendichtung häufiger verwendet werden.
+
+42\. Zwar muss man darauf achten, den historischen Kontext von Bibelstellen nicht zu verdunkeln, doch soll der Übersetzer bedenken, dass das in der Liturgie verkündete Wort Gottes nicht etwas wie ein bloß historisches Dokument ist. Denn der Bibeltext handelt nicht nur von den berühmten Menschen und Ereignissen des Alten und des Neuen Testamentes, sondern auch von den Heilsmysterien und betrifft die Gläubigen unserer Zeit und deren Leben. Wenn ein Wort oder ein Ausdruck die Wahl zwischen mehreren Übersetzungsmöglichkeiten bietet, soll man sich unter steter Wahrung der Treue gegenüber dem Originaltext darum bemühen, dass die gewählte Variante den Zuhörer befähigt, sich selbst und Züge seines Lebens möglichst lebendig in den Personen und Ereignissen des Textes wiederzuerkennen.
+
+43\. Alle Formulierungen, die Bilder und Taten himmlischer Wesen auf menschliche Weise darstellen oder durch klar umrissene oder „konkrete" Bezeichnungen wiedergeben, wie es in der biblischen Sprache sehr oft geschieht, behalten manchmal ihre Kraft nur, wenn man sie wörtlich übersetzt, wie z. B. in der Nova Vulgata die Wörter ambulare (gehen), brachium (Arm), digitus (Finger), manus (Hand), vultus (Angesicht) Gottes, caro (Fleisch), cornu (Horn), os (Mund), semen (Same), visitare (heimsuchen). Es ist tatsächlich besser, sie nicht erklärend oder interpretierend durch eher 'abstrakte' oder vage Begriffe wiederzugeben. Was gewisse Wörter betrifft wie diejenigen, die in der Nova Vulgata mit anima und spiritus übersetzt sind, muss man sich an die oben, Nr. 40-41, dargelegten Grundsätze halten. Daher muss man vermeiden, für sie ein Personalpronomen oder ein „abstrakteres" Wort einzusetzen, außer es wäre in einem Fall wirklich notwendig. Denn man sollte bedenken, dass eine wörtliche Übersetzung von Ausdrücken, die in der Volkssprache als seltsam wahrgenommen werden könnten, gerade dadurch die Wissbegierde des Hörers herausfordert und Gelegenheit zu einer katechetischen Erschließung bietet.
+
+44\. Damit die Übersetzung sich besser für den Vortrag in der Liturgie eignet, muss man jeden Ausdruck vermeiden, der beim Hören mehrdeutig wirkt oder so rätselhaft ist, dass der Hörer den Sinn nicht versteht.
+
+45\. Über die Bestimmungen der praenotanda des Ordo lectionum Missae hinaus soll man bei der Erstellung des volkssprachlichen biblischen Lektionars Folgendes beachten:  
+a) Die in den praenotanda zitierten Schriftstellen müssen vollständig der Übersetzung derselben Stellen in den Schriftlesungen des Lektionars entsprechen.  
+b) Ebenso müssen die den Lesungen vorangehenden thematischen Überschriften die in der Lesung verwendete Übersetzung genau beibehalten, wenn diese Übereinstimmung im Ordo lectionum Missae besteht.  
+c) Auch sollen schließlich die Einleitungsformeln der Lesung (Incipit), wie sie im Ordo lectionum Missae vorgeschrieben sind, so genau wie möglich der volkssprachlichen Bibelübersetzung folgen, der sie normalerweise entnommen sind, und sollen sich nicht an andere Übersetzungen halten. Solche Elemente aber, die nicht dem Bibeltext selbst entstammen, sollen bei der Erstellung von Lektionaren genau aus dem Latein in die Volkssprache übertragen werden, es sei denn die Bischofskonferenz hätte zuvor die Erlaubnis der Kongregation für den Gottesdienst und die Sakramentenordnung erbeten und erhalten, bei der Einleitung der Lesungen anders zu verfahren.  
+
+**3. NORMEN FÜR DIE ÜBERSETZUNG DER ÜBRIGEN LITURGISCHEN TEXTE**
+
+46\. Die oben festgesetzten Normen und diejenigen bezüglich der Heiligen Schrift sollen mit entsprechenden Abänderungen auch auf die liturgischen Texte der kirchlichen Tradition angewandt werden.
+
+47\. Weil die Übersetzung den unvergänglichen Schatz der Gebete in einer Sprache wiedergeben muss, die im jeweiligen „kulturellen Zusammenhang" verstanden werden kann, soll sie sich auch von der Überzeugung leiten lassen, dass das wahre liturgische Gebet nicht nur vom Geist der Kultur geprägt wird, sondern dass es selbst zur Prägung der Kultur beiträgt. Deshalb verwundert es nicht, dass es von der Umgangssprache abweichen kann. Die liturgische Übersetzung, welche in gebührender Weise die Autorität und den vollständigen Sinn der Originaltexte wiedergibt, trägt zur Entstehung einer volkstümlichen Sakralsprache bei, deren Wörter, Satzbau und Grammatik für den Gottesdienst charakteristisch sein sollen; dabei ist nicht ausgeschlossen, dass sie ihrerseits auf die Alltagssprache großen Einfluss haben, wie es bei den Sprachen der schon lange evangelisierten Völker geschehen ist.
+
+48\. Die Texte der besonderen Feiern des Kirchenjahres sollen den Gläubigen in einer Übersetzung dargeboten werden, die man leicht im Gedächtnis behält, so dass man sie auch beim privaten Gebet verwenden kann.
+
+***A. Wortschatz***
+
+49\. Es ist ein Kennzeichen der römischen liturgischen Tradition sowie anderer katholischer Riten, dass in deren Gebeten ein zusammenhängendes System von Wörtern und Formulierungen besteht, die durch die Bücher der Heiligen Schrift und die kirchliche Tradition festgelegt sind, vor allem aber durch die Werke der Kirchenväter. Die Methode, die liturgischen Bücher zu übersetzen, soll den Zusammenhang zwischen dem Bibeltext selbst und den liturgischen Texten der kirchlichen Tradition, die reich sind an biblischen Begriffen oder zumindest an einschlussweisen biblischen Anspielungen, verdeutlichen.(36) Bei solchen Texten empfiehlt es sich, dass der Übersetzer sich von der der Bibelübersetzung eigenen Sprechweise leiten lässt, die für den liturgischen Gebrauch in den Gebieten bereits approbiert ist, für welche die Übersetzung erstellt wird. Zugleich soll man sorgfältig vermeiden, den Text zu überfrachten, indem man eher subtile biblische Andeutungen unangemessen breit wiederzugeben sucht.
+
+50\. Da die liturgischen Bücher des römischen Ritus viele grundlegende Ausdrücke aus der theologischen und spirituellen Tradition der römischen Kirche enthalten, soll man danach trachten, dass die Eigenart dieser Ausdrücke erhalten bleibt und sie nicht durch andere Wörter ersetzt werden, die dem liturgischen und katechetischen Gebrauch des Volkes Gottes in einem bestimmten kulturellen und kirchlichen Kontext fremd sind. Deshalb sind besonders folgende Grundsätze zu beachten:  
+a) Beim Übersetzen theologisch besonders bedeutsamer Wörter soll man eine angemessene Verbindung suchen zwischen dem liturgischen Text und der approbierten Übersetzung des Katechismus der Katholischen Kirche in die Volkssprachen, wenn eine solche Übersetzung in die betreffende oder in eine ihr nahe verwandte Sprache existiert oder erstellt wird.  
+b) Wenn es nicht passend ist, dasselbe Wort oder denselben Ausdruck im liturgischen Text wie im Katechismus beizubehalten, dann muss der Übersetzer dafür sorgen, dass der ganze lehrhafte und theologische Inhalt der Wörter und des Textes insgesamt wiedergegeben wird.  
+c) Wörter, die im Zuge der Entwicklung in einer Volkssprache herangezogen wurden, um die einzelnen liturgischen Dienste, Gefäße, Geräte und Gewänder von Personen und ähnlichen Dingen des täglichen Lebens und Gebrauchs zu unterscheiden, soll man beibehalten und nicht durch Wörter ersetzen, denen ein solcher sakraler Charakter fehlt.  
+d) Bei der Übertragung bedeutsamer Wörter ist gemäß Nr. 53 (s.u.) Einheitlichkeit in den verschiedenen Teilen der Liturgie einzuhalten.
+
+51\. Im Übrigen soll der Verschiedenheit der Wörter im Originaltext soweit möglich Verschiedenheit in den Übersetzungen entsprechen. Zum Beispiel kann der Gebrauch desselben volkssprachlichen Wortes einerseits für verschiedene Formen lateinischer Verben - wie satiari, sumere, vegetari, pasci -, anderseits für Nomina wie caritas und dilectio oder ebenso für die Wörter anima, animus, cor, mens und spiritus, wenn diese wiederholt werden, den Text verdünnen und gewöhnlich machen. Ebenso kann eine unzureichende Übersetzung der verschiedenen Anredeweisen Gottes, wie Domine, Deus, Omnipotens aeterne Deus, Pater usw., oder verschiedener Verben, welche Bitten ausdrücken, die Übersetzung langweilig machen und die reiche und herrliche Weise verdunkeln, durch die im lateinischen Text die Beziehung zwischen den Gläubigen und Gott bezeichnet wird.
+
+52\. Der Übersetzer soll sich bemühen, die Denotation - den ursprünglichen Sinn der Wörter und Ausdrücke des Originaltextes - zu bewahren, aber ebenso die Konnotation - kleine Bedeutungsnuancen oder durch sie hervorgerufene Assoziationen -, damit so der Text für andere Bedeutungsschichten, die vielleicht im Originaltext bewusst gesucht worden waren, offen bleibt.
+
+53\. Sooft ein lateinisches Wort einen gewichtigen Sinn enthält, der in die Gegenwartssprache schwer zu übertragen ist (wie die Wörter munus, famulus, consubstantialis, propitius usw.), kann man in der Übersetzung verschiedene Methoden anwenden: Entweder man gibt das lateinische Wort mit einem Wort oder mit mehreren verbundenen Wörtern wieder, oder man schafft ein neues Wort, das im Vergleich zum Original (vgl. oben Nr. 21) vielleicht angepasst oder anders geschrieben ist, oder man nimmt ein Wort auf, das schon mehrere Bedeutungen trägt.(37)
+
+54\. In den Übersetzungen vermeide man die Tendenz zur Psychologisierung; sie zeigt sich vor allem, wenn Ausdrücke für theologische Tugenden durch solche ersetzt werden, die nur menschliche Gemütsbewegungen bezeichnen. Was Wörter oder Redeweisen betrifft, welche die theologische Vorstellung von der spezifisch göttlichen Kausalität wiedergeben (z. B. im Lateinischen mit praesta, ut...), vermeide man, sie durch Wörter oder Redeweisen zu ersetzen, die nur eine äußerliche oder profane Weise der Hilfe ausdrücken.
+
+55\. Einige Wörter, die im lateinischen liturgischen Text auf den ersten Blick nur um des Metrums willen oder aus anderen literarisch-technischen Gründen aufgenommen worden zu sein scheinen, enthalten in Wirklichkeit oft eine eigentlich theologische Bedeutung; deshalb sind sie in den Übersetzungen möglichst beizubehalten. Wörter, die Aspekte der Mysterien des Glaubens und der rechten inneren Einstellung der Christen ausdrücken, müssen auf das genaueste übersetzt werden.
+
+56\. Bestimmte Wörter, die zum Bestand der gesamten oder eines großen Teils der frühen Kirche gehören, sowie andere, die dem Erbe der menschlichen Geisteskultur eigen sind, sollen in der Übersetzung, soweit möglich, wörtlich beibehalten werden, wie die Gemeindeantwort Et cum spiritu tuo oder der Ausdruck mea culpa, mea culpa, mea maxima culpa im Bußakt der Feier der Heiligen Messe.  
+
+***B. Satzbau, Stil und literarisches Genus***
+
+57\. Die besondere Eigenart des römischen Ritus, der die Dinge klar, kurz und knapp ausdrückt, soll in der Übersetzung möglichst bewahrt werden. Außerdem ist in den verschiedenen Teilen der liturgischen Bücher nach Möglichkeit dieselbe Art und Weise bei der Übersetzung ein und desselben Ausdrucks zu wahren. Folgende Prinzipien sind zu beachten:  
+a) Der bestehende Zusammenhang zwischen den Aussagen, z. B. in Neben- und Relativsätzen, in der Wortstellung und verschiedenen Arten des Parallelismus, soll, wenn möglich, auf eine der Volkssprache angepasste Weise voll gewahrt werden.  
+b) Bei der Übersetzung der Wörter, die im Originaltext enthalten sind, sollen möglichst dieselbe Person, dieselbe Zahl (Einzahl oder Mehrzahl) und dasselbe Genus gewahrt werden.  
+c) Die theologische Bedeutung der Wörter, die eine Kausalität, eine Absicht oder eine Wirkung ausdrücken, wie ut (dass), ideo (daher), enim (nämlich) und quia (weil), soll, selbst wenn die verschiedenen Sprachen sich einer unterschiedlichen Ausdrucksweise bedienen, gewahrt werden.  
+d) Die oben unter Nr. 51 dargelegten Prinzipien, die die Verschiedenheit der Wörter betreffen, sollen auch eingehalten werden in Bezug auf die Unterschiede in Syntax und Stil (z. B. in der Stellung der Wörter innerhalb des Tagesgebetes, die im Vokativ an Gott gerichtet werden).
+
+58\. Das literarische und rhetorische Genus der verschiedenen Texte der römischen Liturgie soll gewahrt werden.(38)
+
+59\. Weil es von ihrem Wesen her der Zweck der liturgischen Texte ist, dass sie mündlich vorgetragen und in der liturgischen Versammlung gehört werden, sind ihnen gewisse Sprechweisen eigen, die sich von der allgemeinen Sprechgewohnheit oder von Texten, die still gelesen werden, unterscheiden wie wiederkehrende und wiedererkennbare Beispiele der Satzbau und des Stils, ein feierlicher oder erhabener Ton, Alliteration und Assonanz, konkrete und lebendige Bilder, Wiederholung, Parallelismus und Verschiedenheit, ein gewisser Rhythmus und schließlich die lyrische Kraft dichterischer Werke. Wenn es nicht möglich ist, dieselben Stilelemente des Originaltextes in der Volkssprache zu gebrauchen (was häufig zutrifft, etwa bei Alliteration und Assonanz), muss der Übersetzer nichtsdestoweniger auf den beabsichtigten Effekt dieser Elemente in der Seele des Hörers achten hinsichtlich des Inhalts oder des Unterschieds zwischen Begriffen oder der Eindringlichkeit usw. Ferner soll er mit Kunstfertigkeit alle Möglichkeiten der Volkssprache ausschöpfen, damit er so vollständig wie möglich dieselbe Wirkung erzielt, nicht nur hinsichtlich des Inhalts selbst, sondern auch hinsichtlich der anderen Aspekte. In poetischen Texten ist eine größere Beweglichkeit bei der Übersetzung erforderlich, damit bei der Wiedergabe des Textinhalts die Aufgabe der literarischen Form deutlich bleibt. Nichtsdestoweniger sollen Ausdrücke, die eine besondere lehrmäßige oder geistliche Bedeutung haben, oder jene, die besonders bekannt sind, wenn möglich wörtlich übersetzt werden.
+
+60\. Ein großer Teil der liturgischen Texte ist mit der Absicht erstellt, dass er vom zelebrierenden Priester, vom Diakon, vom Kantor, vom Volk oder vom Chor gesungen wird. Deswegen muss der Text so übersetzt werden, dass er für Vertonungen geeignet ist. Dennoch ist beim Anpassen des Textes an die Musik die Autorität des Textes voll zu wahren; d. h. weder Texte aus der Heiligen Schrift noch jene, die aus der Liturgie genommen und schon die recognitio erhalten haben, dürfen durch Umschreibungen ersetzt werden, die auf leichtere Singbarkeit abzielen; es dürfen nicht Hymnen genommen werden, die man allgemein für gleichwertig hält.(39)
+
+61\. Die für den Gesang bestimmten Texte sind von besonderer Bedeutung, weil sie den Gläubigen das Gefühl der Festlichkeit der Feier vermitteln und die Einheit im Glauben und in der Liebe durch die Einheit der Stimmen zum Ausdruck bringen.(40) Die Hymnen und Gesänge, die sich in den heutigen editiones typicae finden, machen nur einen sehr kleinen Teil des unermesslichen historischen Schatzes der Lateinischen Kirche aus; darum ist es sehr angemessen, dass sie in den volkssprachlichen Ausgaben verwendet werden, auch zusammen mit anderen, die unmittelbar in der Volkssprache entstanden sind. Für den Gesang bestimmte unmittelbar in der Volkssprache selbst erstellte Texte sollen insbesondere aus der Heiligen Schrift und dem Schatz der Liturgie schöpfen.
+
+62\. Gewisse liturgische Texte der kirchlichen Tradition sind mit verschiedenen rituellen Handlungen verbunden, die ihren Ausdruck in einer besonderen Körperhaltung, in Gesten und in der Verwendung von Zeichen finden. Daher ist es bei der Erarbeitung geeigneter Übersetzungen ratsam, auf Elemente zu achten wie die für den Vortrag des Textes notwendige Zeit, seine Eignung für Rezitation oder Gesang oder für ständige Wiederholungen usw.  
+
+**4. NORMEN FÜR BESONDERE ARTEN VON TEXTEN**
+
+***A. Eucharistische Hochgebete***
+
+63\. Der Höhepunkt des gesamten liturgischen Handelns ist die Feier der Messe, in der jeweils das Eucharistische Hochgebet (Anaphora) den vornehmsten Platz einnimmt.(41) Deswegen sind die Übersetzungen der approbierten Eucharistischen Hochgebete mit größter Sorgfalt zu erarbeiten vor allem hinsichtlich der sakramentalen Formeln; die eigens für sie geltende Verfahrensweise wird unten unter Nr. 85-86 beschrieben.
+
+64\. Revisionen von Übersetzungen, die späterhin folgen, dürfen ohne hinreichende Gründe den bereits approbierten volkssprachlichen Text der Eucharistischen Hochgebete, den die Gläubigen sich allmählich eingeprägt haben, nicht in bemerkenswerter Weise verändern. Immer wenn eine ganz neue Übersetzung notwendigerweise verlangt wird, sollen die Bestimmungen von unten, Nr. 74, eingehalten werden.  
+
+***B. Das Symbolum oder Glaubensbekenntnis***
+
+65\. Das Symbolum oder Glaubensbekenntnis dient dazu, dass das ganze versammelte Volk auf das in den Lesungen aus der Heiligen Schrift verkündete und in der Homilie ausgelegte Wort Gottes antwortet; indem das Volk diesen Text als Glaubensregel spricht, ruft es sich - in der für den liturgischen Gebrauch genehmigten Formel - die großen Mysterien des Glaubens von Neuem ins Gedächtnis und bekennt sie.(42) Das Symbolum ist genau mit den Worten zu übersetzen, die die Tradition der Lateinischen Kirche ihm zugewiesen hat, wobei der Gebrauch der ersten Person Singular zu wahren ist, durch den deutlich erklärt wird: „Das Glaubensbekenntnis wird im Symbolum gleichsam aus der Person der ganzen Kirche übergeben, die durch den Glauben geeint wird".(43) Überdies sind, immer wenn das Apostolische Glaubensbekenntnis in der Liturgie vorgeschrieben ist oder genommen werden kann, die Worte „Auferstehung des Fleisches" wörtlich zu übersetzen.(44)  
+
+***C. Die „Praenotanda" sowie Texte rubrikalen oder rechtlichen Charakters***
+
+66\. Alle Teile eines jeden liturgischen Buches sind in derselben Reihenfolge wiederzugeben, in der sie im lateinischen Text der editio typica erscheinen; das gilt auch für die institutio generalis, die praenotanda und die den verschiedenen Riten vorangestellten Vorschriften sowie die einzelnen Rubriken, die eine Stütze der ganzen Struktur der Liturgie sind.(45) Die Unterscheidung zwischen den verschiedenen liturgischen Aufgaben und der Bezeichnung der liturgischen Dienste mit ihren je eigenen festgelegten Titeln soll in der Übersetzung unter angemessener Beachtung dessen, was oben unter Nr. 50c gesagt wird, wie in den Rubriken der editio typica genau beibehalten werden.(46)
+
+67\. Wo solche praenotanda oder andere Texte der editiones typicae ausdrücklich Anpassungen oder präzisierende Bestimmungen verlangen, die von den Bischofskonferenzen vorzunehmen sind, z. B. Teile des Messbuches, die von der Bischofskonferenz genauer zu bestimmen sind,(47) ist es erlaubt, derartige Vorschriften in den Text einzufügen, sofern die betreffenden Teile die recognitio des Apostolischen Stuhles erhalten haben. Von der Natur der Sache her ist es in diesem Fall nicht ratsam, dass die Teile genau so übersetzt werden, wie sie in der editio typica stehen. Nichtsdestoweniger sollen die Dekrete der Approbation durch die Bischofskonferenz und der von der Kongregation für den Gottesdienst und die Sakramentenordnung gewährten recognitio erwähnt werden.
+
+68\. An den Anfang der volkssprachlichen Ausgaben soll man die Dekrete stellen, durch die die editiones typicae vom zuständigen Dikasterium des Apostolischen Stuhles promulgiert wurden, unter Berücksichtigung der in Nr. 78 dargelegten Vorschriften. Es sollen auch die Dekrete hinzugefügt werden, durch die den Übersetzungen die recognitio des Heiligen Stuhles gewährt wurde, oder wenigstens die gewährte recognitio genannt werden unter Angabe von Tag, Monat und Jahr sowie Protokoll-Nummer des vom Dikasterium erlassenen Dekrets. Weil diese auch historische Zeugnisse sind, müssen die Namen der Dikasterien oder anderer Einrichtungen des Apostolischen Stuhles genau übersetzt werden, wie es dem Tag der Promulgation des Dokuments entspricht; sie dürfen nicht an den gegenwärtig geltenden Namen derselben oder der ihr entsprechenden Institution angepasst werden.
+
+69\. Die volkssprachlichen Ausgaben der liturgischen Bücher müssen in allen Teilen mit den Titeln, der Anordnung der Texte, den Rubriken und der Nummerierung der editio typica übereinstimmen, außer es wäre in den praenotanda derselben Bücher etwas anderes bestimmt. Überdies sollen alle von der Kongregation für den Gottesdienst und die Sakramentenordnung approbierten Zusätze eingefügt werden, sei es in einer Ergänzung bzw. einem Anhang oder an der betreffenden Stelle selbst, wie es der Apostolische Stuhl bestimmt hat.  
+
+**III DIE VORBEREITUNG VON ÜBERSETZUNGEN UND DIE ERRICHTUNG VON KOMMISSIONEN**
+
+** **
+
+**1. DIE VORGEHENSWEISE BEI DER VORBEREITUNG EINER ÜBERSETZUNG**
+
+70\. Aufgrund der den Bischöfen übertragenen Aufgabe, liturgische Übersetzungen zu besorgen,(48) wird diese Arbeit in besonderer Weise der von der Bischofskonferenz pflichtgemäß eingerichteten Liturgiekommission übertragen. Wo eine solche Kommission nicht besteht, soll die Aufgabe, eine Übersetzung zu erstellen, zwei oder drei Bischöfen anvertraut werden, die in Liturgiewissenschaft, Bibelwissenschaft, Sprachwissenschaft und Musikwissenschaft kundig sind.(49) Was aber die genaue Untersuchung und die Approbation der Texte betrifft, müssen alle Bischöfe einzeln diese Aufgabe als eine unmittelbare, gewichtige und persönliche Vertrauensangelegenheit erachten.
+
+71\. In Ländern, in denen mehrere Sprachen gesprochen werden, sollen Übersetzungen in die einzelnen Volkssprachen angefertigt und der besonderen Überprüfung durch die betroffenen Bischöfe unterworfen werden.(50) Nichtsdestoweniger behält die Bischofskonferenz als solche das Recht und die Vollmacht, alle Akte zu setzen, die gemäß dieser Instruktion einer solchen Konferenz zustehen; daher kommt es der ganzen Konferenz zu, den Text zu approbieren und dem Apostolischen Stuhl zur Erteilung der recognitio vorzulegen.
+
+72\. Die Bischöfe sollen bei der Ausführung des ihnen anvertrauten Dienstes, die Übersetzungen der liturgischen Texte vorzubereiten, sorgfältig dafür sorgen, dass die Übersetzungen mehr eine Frucht wahrhaft gemeinsamen Bemühens sind als die irgend einer einzelnen Person oder einer kleinen Gruppe.
+
+73\. Nach jeder Veröffentlichung der editio typica eines lateinischen liturgischen Buches muss möglichst schnell dessen Übersetzung erarbeitet werden; diese soll die Bischofskonferenz, nach der erforderlichen Approbation, an die Kongregation für den Gottesdienst und die Sakramentenordnung senden; ihr obliegt es, nach den in dieser Instruktion dargelegten Normen, unter Wahrung des sonstigen Rechtes, die recognitio zu erteilen.(51) Sollen aber auch nur ein Teil der lateinischen editio typica verändert oder gewisse neue Elemente eingefügt werden, sind diese Neuerungen in allen folgenden volkssprachlichen Ausgaben voll und getreu zu wahren.
+
+74\. Eine gewisse Beständigkeit muss, soweit möglich, in aufeinander folgenden Ausgaben in einer lebenden Sprache gewährleistet sein. Die Teile, die das Volk auswendig können soll, sollen vor allem in Ausgaben für den Gesang nur aus einem gerechten und schwerwiegenden Grund verändert werden. Wenn dennoch wichtigere Änderungen notwendig sind, um einen Text an die Normen dieser Instruktion anzupassen, wird es am besten sein, alles gleichzeitig durchzuführen. In diesem Fall muss die Veröffentlichung des neuen Textes von einer angemessenen Zeit der Katechese begleitet werden.
+
+75\. Die Übersetzung der liturgischen Bücher erfordert nicht nur ein außerordentliches Maß an Sachkenntnis, sondern auch den Geist des Gebets und das Vertrauen auf Gottes Hilfe, die nicht nur den Übersetzern gewährt wird, sondern der Kirche selbst auf dem ganzen Weg, der bis zur Approbation eines gesicherten und definitiven Textes führt. Die innere Bereitschaft hinzunehmen, dass das eigene Werk von anderen beurteilt und überarbeitet wird, ist eine unbedingt notwendige Haltung, in der sich jeder auszeichnen muss, der den Dienst übernimmt, liturgische Bücher zu übersetzen. Außerdem müssen alle Übersetzungen oder Texte, die in der Volkssprache erarbeitet werden, einschließlich der praenotanda und der Rubriken, ohne Autorennamen sein - seien es Personen oder seien es Einrichtungen, die aus mehreren Personen bestehen -, so wie es in den editiones typicae der Fall ist.(52)
+
+76\. Um die Beschlüsse des Zweiten Vatikanischen Konzils über die heilige Liturgie zu verwirklichen, zeigt die Erfahrung, die in fast vier Jahrzehnten der liturgischen Erneuerung seit dem Ökumenischen Konzil gereift ist, dass die Sorge um die Übersetzungen der liturgischen Texte - wenigstens hinsichtlich der weiter verbreiteten Sprachen - nicht nur den in den Teilkirchen regierenden Bischöfen obliegt, sondern auch dem Apostolischen Stuhl selbst, damit er die universale Sorge gegenüber den Christgläubigen in der Stadt Rom und weltweit wirksam wahrnimmt. Denn in der Diözese Rom, vor allem in den vielen Kirchen und Einrichtungen der Stadt, die von der Diözese oder von Organen des Heiligen Stuhles auf irgendeine Weise abhängen, sowie in der Tätigkeit der Dikasterien der Römischen Kurie und der Päpstlichen Repräsentanten werden die größeren Sprachen recht umfangreich und häufig angewandt, auch in liturgischen Feiern. Daher hat sich gezeigt, dass künftig für die oben genannten größeren Sprachen die Kongregation für den Gottesdienst und die Sakramentenordnung beim Erarbeiten der Übersetzungen deutlicher und eingehender beteiligt sein soll.
+
+77\. Außerdem soll in den Hauptsprachen eine vollständige Übersetzung aller liturgischen Bücher in angemessener Zeit erstellt werden. Bisher „ad interim" approbierte Übersetzungen sollen vervollkommnet oder gegebenenfalls vollständig revidiert und dann den Bischöfen zur endgültigen Approbation vorgelegt werden, wie es in dieser Instruktion dargelegt ist; schließlich sollen sie an die Kongregation für den Gottesdienst und die Sakramentenordnung gesandt werden, um die recognitio vom Apostolischen Stuhl zu erbitten.(53)
+
+78\. Bei weniger verbreiteten Sprachen, die zum liturgischen Gebrauch zugelassen sind, ist es möglich, nach den pastoralen Erfordernissen und mit Zustimmung der Kongregation für den Gottesdienst und die Sakramentenordnung zunächst nur die wichtigeren der liturgischen Bücher zu übersetzen. Die dementsprechend ausgewählten einzelnen Bücher sind ganz zu übersetzen, wie oben unter Nr. 66 gesagt. Was die Dekrete, die institutio generalis, die praenotanda und die Instruktionen anbelangt, dürfen sie in einer Sprache gedruckt werden, die sich von der in der Feier verwendeten Sprache unterscheidet, aber trotzdem von den Zelebranten und Diakonen in diesem Gebiet ohne weiteres verstanden wird. Es ist erlaubt, den lateinischen Text der Dekrete entweder zusätzlich zur Übersetzung oder an deren Stelle abzudrucken.  
+
+**2. DIE APPROBATION DER ÜBERSETZUNG UND DAS GESUCH UM RECOGNITIO DURCH DEN APOSTOLISCHEN STUHL**
+
+79\. Die Approbation liturgischer Texte, sei sie endgültig, „ad interim" oder „ad experimentum", muss durch Dekret geschehen. Damit sie rechtmäßig gewährt wird, ist Folgendes einzuhalten:(54)  
+a) Damit ein rechtsgültiges Dekret erlassen wird, sind zwei Drittel der geheim abgegebenen Stimmen all derer erforderlich, die in der Bischofkonferenz entscheidendes Stimmrecht haben.  
+b) Alle Akten, die vom Apostolischen Stuhl zu approbieren sind, sollen in zweifacher Ausfertigung vom Vorsitzenden und vom Sekretär der Konferenz unterschrieben und ordnungsgemäß mit dem Siegel versehen werden; sie sind der Kongregation für den Gottesdienst und die Sakramentenordnung zu übersenden. Diese Akten sollen enthalten:  
+i) die Namen der Bischöfe oder der ihnen rechtlich Gleichgestellten, die an der Versammlung teilgenommen haben;  
+ii) einen Bericht über das Verfahren; er muss den Ausgang der Abstimmung über jedes Dekret enthalten unter Angaben der Zahl der Ja-Stimmen, der Nein-Stimmen und der Stimmenthaltung.  
+c) Es sollen zwei Exemplare der in der Volkssprache erstellten liturgischen Texte eingesandt werden; wenn möglich soll der Text auch auf einer Computer-Diskette geliefert werden.  
+d) In dem besonderen Bericht soll das Folgende deutlich erklärt werden:(55)  
+i) das bei der Übersetzung eingehaltene Verfahren bzw. die Kriterien;  
+ii) eine Liste der Personen, die an den einzelnen Arbeitsschritten beteiligt waren, zusammen mit einer kurzen Bemerkung über die Qualität der Fähigkeit und die Sachkenntnis eines jeden von ihnen;  
+iii) eventuelle Änderungen gegenüber einer früheren Übersetzung desselben liturgischen Buches sollen eigens gekennzeichnet werden zusammen mit der Begründung, warum die Änderungen vorgenommen wurden;  
+iv) eine Darstellung einer jeden Änderung, die gegenüber dem Inhalt der lateinischen editio typica vorgenommen wurde, zusammen mit den Begründungen, weshalb dies notwendig war, und mit Nennung der früheren vom Apostolischen Stuhl erteilten Erlaubnis, eine solche Änderung einzuführen.
+
+80\. Der Brauch, für alle Übersetzungen liturgischer Texte die recognitio durch den Apostolischen Stuhl zu erbitten,(56) gewährt die notwendige Sicherheit, die erkennen lässt, dass die Übersetzung authentisch ist und mit den Originaltexten übereinstimmt; er manifestiert und bewirkt das wahre Band der Gemeinschaft zwischen dem Nachfolger des heiligen Petrus und seinen Brüdern im Bischofsamt. Diese recognitio ist zudem keine reine Formalität, sondern ein Akt der Leitungsgewalt, der unbedingt notwendig ist (ohne ihn hat der Beschluss der Bischofskonferenz keine Gesetzeskraft) und durch den - auch substantielle - Änderungen auferlegt werden können.(57) Daher ist es nicht erlaubt, irgendwelche übersetzte oder neu verfasste liturgische Texte für den Gebrauch durch die Zelebranten oder das Volk überhaupt zu drucken, wenn die recognitio fehlt. Weil immer das Gesetz des Betens mit dem Gesetz des Glaubens (lex orandi - lex credendi) übereinstimmen und den Glauben des christlichen Volks ausdrücken und stärken muss, können liturgische Übersetzungen nicht Gottes würdig sein, wenn sie nicht getreu den Reichtum der katholischen Lehre vom Originaltext in die volkssprachliche Übersetzung übertragen, so dass die heilige Rede an ihren dogmatischen Inhalt angepasst wird.(58) Darüber hinaus ist das Prinzip zu beachten, demzufolge eine jede Teilkirche mit der Universalkirche übereinstimmen muss, nicht nur hinsichtlich der Glaubenslehre und der sakramentalen Zeichen, sondern auch hinsichtlich der universalen von der apostolischen und fortdauernden Überlieferung angenommenen Bräuche;(59) also hat die gebührende recognitio durch den Apostolischen Stuhl den Zweck, darüber zu wachen, dass die Übersetzungen selbst sowie gewisse rechtmäßig in ihr vorgenommene Änderungen nicht der Einheit des Volkes Gottes schaden, sondern ihr vielmehr immer dienen.(60)
+
+81\. Die vom Apostolischen Stuhl gewährte recognitio muss in der gedruckten Ausgabe ausdrücklich angegeben werden zusammen mit dem Satz „concordat cum originali", den der Vorsitzende der Liturgiekommission der Bischofskonferenz unterschrieben hat, und nicht ohne das Wort „imprimatur", unterschrieben vom Vorsitzenden derselben Konferenz.(61) Außerdem sollen zwei Exemplare jeder gedruckten Ausgabe an die Kongregation für den Gottesdienst und die Sakramentenordnung gesandt werden.(62)
+
+82\. Jegliche Änderung in einem liturgischen Buch, welches von der Bischofskonferenz bereits approbiert und anschließend mit der recognitio des Apostolischen Stuhles ausgestattet wurde, die die Auswahl von Texten aus bereits veröffentlichten liturgischen Büchern oder eine Änderung in der Anordnung der Texte betrifft, muss nach der oben unter Nr. 79 festgesetzten Vorgehensweise und unter Berücksichtigung der oben unter Nr. 22 dargelegten Vorschriften geschehen. Eine andere Vorgehensweise kann in besonderen Fällen nur angewandt werden, wenn sie durch die Statuten der Bischofskonferenz oder eine gleichwertige Gesetzgebung mit Approbation des Apostolischen Stuhles genehmigt ist.(63)
+
+83\. Was die volkssprachlichen Ausgaben der liturgischen Bücher betrifft, ist zu beachten: die Approbation der Bischofskonferenz sowie die recognitio des Apostolischen Stuhles gilt nur für das Gebiet eben dieser Konferenz, und diese Ausgaben dürfen ohne Erlaubnis des Apostolischen Stuhles nicht in einem anderen Gebiet verwendet werden, außer unter besonderen Umständen, wie sie oben unter Nr. 18 und 76 genannt sind, unter Beachtung der dort dargelegten Normen.
+
+84\. Wo einer Bischofskonferenz die ausreichenden finanziellen Mittel und Instrumentarien zur Erarbeitung und zum Druck eines liturgischen Buches fehlen, soll der Vorsitzende der Konferenz die Angelegenheit der Kongregation für den Gottesdienst und die Sakramentenordnung darlegen; ihr kommt es zu, eine andere Anordnung zu treffen oder zu approbieren hinsichtlich der Verwendung von liturgischen Büchern, die gemeinsam mit anderen Bischofskonferenzen herausgegeben wurden oder schon andernorts gebraucht werden. Diese Erlaubnis des Heiligen Stuhles wird aber nur im Einzelfall erteilt.  
+
+**3. DIE ÜBERSETZUNG UND APPROBATION DER SAKRAMENTALEN FORMELN**
+
+85\. Im Zusammenhang mit der Übersetzung der sakramentalen Formeln, die die Kongregation für den Gottesdienst dem Urteil des Papstes unterwerfen muss, ist außer dem, was für die Übersetzung der anderen liturgischen Texte erforderlich ist, das Folgende einzuhalten:(64)  
+a) Wenn es sich um die Sprachen Englisch, Französisch, Deutsch, Spanisch, Italienisch und Portugiesisch handelt, sollen alle Akten in den jeweiligen Sprachen vorgelegt werden.  
+b) Wenn die Übersetzung von einem in derselben Sprache schon erstellten und approbierten Text abweicht, ist der Grund anzugeben, weswegen die Änderung vorgenommen wurde.  
+c) Der Vorsitzende und der Sekretär der Bischofskonferenz müssen bezeugen, dass die Übersetzung von der Bischofskonferenz approbiert ist.
+
+86\. Bei weniger verbreiteten Sprachen soll alles gemacht werden wie oben dargelegt. Die Akten sollen jedoch in einer der oben genannten, weiter verbreiteten Sprachen mit höchster Sorgfalt bearbeitet werden, so dass die Bedeutung eines jeden einzelnen Wortes der Volkssprache wiedergegeben wird. Der Vorsitzende und der Sekretär der Bischofskonferenz sollen, nachdem sie vertrauenswürdige Fachleute zu Rate gezogen haben, falls dies notwendig ist, die Authentizität dieser Übersetzung bezeugen.(65)  
+
+**4. EINE EINZIGE FASSUNG DER LITURGISCHEN TEXTE**
+
+87\. Es wird empfohlen, dass es im Einvernehmen unter den Bischöfen der Gebiete, in denen dieselbe Sprache in Gebrauch ist, für jede Volkssprache eine einzige Fassung der liturgischen Bücher und anderer liturgischer Texte gibt.(66) Wenn dies wegen der Umstände tatsächlich nicht möglich ist, sollen die einzelnen Bischofskonferenzen nach vorausgehender Konsultation des Heiligen Stuhles festlegen, ob die bereits bestehende Übersetzung anzupassen oder eine neue zu erstellen ist. In beiden Fällen ist die recognitio der Akten durch die Kongregation für den Gottesdienst und die Sakramentenordnung erforderlich.
+
+88\. Beim Ordo Missae und jenen Teile der heiligen Liturgie, die eine direkte Teilnahme des Volkes verlangen, soll es nur eine einzige Übersetzung in einer bestimmten Sprache geben,(67) wenn nicht, in Einzelfällen, etwas anderes vorgesehen ist.
+
+89\. Texte, die mehreren Konferenzen gemeinsam sind (vgl. oben Nr. 87-88), sind in der Regel von allen Bischofskonferenzen, die sie verwenden müssen, einzeln zu approbieren, bevor die recognitio dieser Texte vom Apostolischen Stuhl gewährt wird.(68)
+
+90\. Aus gebührender Rücksicht auf die katholischen Traditionen und alle in dieser Instruktion enthaltenen Grundsätze und Normen wird, wo immer dies möglich ist, zwischen allen für den allgemeinen Gebrauch in den verschiedenen Riten der Katholischen Kirche bestimmten Übersetzungen, vor allem bezüglich der Texte der Heiligen Schrift, eine gewisse angemessene Verbindung bzw. Koordination dringend gewünscht. Die Bischöfe der Lateinischen Kirche sollen dies im Geist gehorsamer und brüderlicher Zusammenarbeit fördern.
+
+91\. Eine ähnliche Übereinstimmung wird auch mit den Orientalischen, nicht Katholischen Teilkirchen oder mit den Autoritäten der protestantischen kirchlichen Gemeinschaften gewünscht,(69) sofern es sich nicht um einen liturgischen Text handelt, der bisher noch strittige Lehrinhalte betrifft, und wenn die betreffenden Kirchen oder kirchlichen Gemeinschaften genügend Mitglieder haben und die konsultierten Personen diese kirchlichen Gemeinschaften wirklich vertreten können. Um die Gefahr eines Ärgernisses oder der Verwirrung unter den Christgläubigen gänzlich zu vermeiden, muss die katholische Kirche bei derartigen Übereinkünften die volle Handlungsfreiheit, auch im bürgerlichen Recht, wahren.  
+
+**5. DIE „GEMISCHTEN" KOMMISSIONEN**
+
+92\. Damit eine Einheit unter den auch in die Volkssprachen übersetzten liturgischen Büchern besteht und nicht das ganze Unternehmen und die damit verbundenen Bemühungen der Kirche ins Leere gehen, hat der Apostolische Stuhl unter anderen möglichen Lösungen die Errichtung „gemischter" Kommissionen gefördert, d. h. solcher, an deren Arbeit mehrere Bischofskonferenzen auf eine bestimmte Weise teilhaben.(70)
+
+93\. Die Kongregation für den Gottesdienst und die Sakramentenordnung errichtet auf Bitten der betreffenden Bischofskonferenzen eine derartige „gemischte" Kommission; danach wird die Kommission gemäß den vom Apostolischen Stuhl approbierten Statuten geleitet.(71) In der Regel ist zwar zu wünschen, dass über die vorgenannte Errichtung sowie über die Abfassung der Statuten alle an der Kommission auf gewisse Weise beteiligten Bischofskonferenzen einzeln entscheiden, bevor ein diesbezügliches Gesuch der Kongregation für den Gottesdienst und die Sakramentenordnung vorgelegt wird; wenn jedoch wegen der großen Zahl der Konferenzen oder wegen der langen Dauer, die vielleicht zur Durchführung der Abstimmung erforderlich ist, oder aus einer besonderen pastoralen Notwendigkeit es dem vorgenannten Dikasterium angebracht erscheint, ist keineswegs ausgeschlossen, dass - möglichst nach Konsultation wenigstens einiger Bischöfe, die es betrifft - von ihm Statuten errichtet und approbiert werden.
+
+94\. Die „gemischte" Kommission bietet von ihrer Eigenart her den Bischöfen Hilfe und ersetzt für sie nicht, was zu ihrem pastoralen Dienst oder zu ihren Beziehungen zum Apostolischen Stuhl gehört.(72) Denn die „gemischte" Kommission begründet nicht etwas Drittes zwischen dem Apostolischen Stuhl und den Bischofskonferenzen und ist nicht als Kommunikationsweg zwischen ihnen zu betrachten. Die Mitglieder der Kommission sind immer Bischöfe oder wenigstens dem Bischof rechtlich Gleichgestellte. Es ist überdies Sache von Bischöfen, als Mitglieder der Kommission diese zu leiten.
+
+95\. Es ist angemessen, dass zu den Bischöfen, die an der Arbeit einer solchen „gemischten" Kommission beteiligt sind, wenigstens einige gehören, die in ihren Konferenzen für die Behandlung liturgischer Angelegenheiten zuständig sind, wie z. B. die Vorsitzenden der liturgischen Kommission der Konferenz.
+
+96\. Denn diese Kommission übt, soweit möglich, mit Hilfe der liturgischen Kommissionen, die von den einzelnen an der Angelegenheit beteiligten Bischofskonferenzen abhängen, ihr Amt aus; das gilt sowohl für die Fachleute als auch für die zu verwendenden technischen Hilfsmittel als auch für die Hilfe des Sekretariats. Sie ist vor allem durch Koordination der Arbeit tätig, z. B. derart, dass von der liturgischen Kommission einer Bischofskonferenz die erste Übersetzungsvorlage vorbereitet und anschließend von den anderen Kommissionen, nicht zuletzt wegen der Verschiedenheit der Ausdrucksweise in derselben Sprache in den einzelnen beteiligten Gebieten, verbessert wird.
+
+97\. Es ist angemessen, dass an den einzelnen Arbeitssitzungen wenigstens einige Bischöfe teilhaben, bis der ausgereifte Text der Vollversammlung der Bischöfe zur Prüfung und zur Approbation vorgelegt wird und unmittelbar danach vom Vorsitzenden der Konferenz, zusätzlich mit der Unterschrift auch des Generalsekretärs versehen, gemäß der Norm des Rechts dem Apostolischen Stuhl zur Erteilung der recognitio zugesandt wird.
+
+98\. Überdies sollen die „gemischten" Kommissionen insofern ihre Arbeit eingrenzen, als sie nur die Texte der editiones typicae behandeln und jegliche theoretische Frage, die sich nicht unmittelbar auf diese ihre Aufgabe bezieht, beiseite lassen; sie sollen auch nicht Beziehungen mit anderen „gemischten" Kommissionen pflegen und keine neuen Texte erstellen.
+
+99\. Denn es bleibt eine dringende Notwendigkeit, Kommissionen für die Liturgie, die Kirchenmusik und die sakrale Kunst gemäß der Norm des Rechtes in jeder Diözese und im Gebiet einer Bischofskonferenz zu errichten.(73) Sie alle sollen selbst auf ihr eigenes Ziel hin arbeiten, damit die ihnen übertragenen Aufgaben nicht auf irgendeine „gemischte" Kommission zur Behandlung übergehen.
+
+100\. Aus jeder „gemischten" Kommission bedürfen alle wichtigen Mitarbeiter, die nicht Bischöfe sind und denen von dieser Kommission ein Auftrag auf Dauer erteilt wird, vor Aufnahme ihres Dienstes der von der Kongregation für den Gottesdienst und die Sakramentenordnung erteilten Erklärung des „Nihil obstat"; dabei sind die die Eignung betreffenden akademischen Titel und Zeugnisse zu berücksichtigen sowie Empfehlungsschreiben des eigenen Diözesanbischofs zu beachten. Bei der Erstellung der Statuten, von denen oben unter Nr. 93 die Rede war, soll genauer beschrieben werden, auf welche Weise dieses Gesuch vorzubringen ist.
+
+101\. Alle, einschließlich der Fachleute, müssen ihre Arbeit ohne Nennung des Namens ausführen und Stillschweigen beachten, wozu alle außer den Bischöfen durch einen Vertrag zu verpflichten sind.
+
+102\. Es ist auch angemessen, dass in von den Statuten festgelegten zeitlichen Abständen die Aufgaben der Mitglieder, der Mitarbeiter und der Fachleute erneuert werden. Aufgrund von Notwendigkeiten, durch die einige Kommissionen erfahrungsgemäß unter Druck stehen, wird die Kongregation für den Gottesdienst und die Sakramentenordnung, wenn dies von ihr erbeten wird, durch ein Indult gewähren können, dass der für einige Mitglieder, Mitarbeiter und Fachleute festgelegte Zeitraum verlängert wird.
+
+103\. Was die bereits bestehenden „gemischten" Kommissionen angeht, sind ihre Statuten nach der Norm Nr. 93 und den übrigen Vorschriften dieser Instruktion innerhalb von zwei Jahren, angefangen vom Tag, an dem diese Instruktion in Kraft tritt, zu revidieren.
+
+104\. Um des Wohls der Gläubigen willen reserviert sich der Heilige Stuhl das Recht, Übersetzungen in jede beliebige Sprache anzufertigen und für den liturgischen Gebrauch zu approbieren.(74) Doch soll, auch wenn zuweilen der Apostolische Stuhl durch die Kongregation für den Gottesdienst und die Sakramentenordnung notgedrungen in die Erstellung von Übersetzungen eingreift, für die Approbation zum liturgischen Gebrauch innerhalb der Grenzen eines kirchlichen Gebietes die betreffende Bischofskonferenz zuständig bleiben, wenn nicht in dem vom Apostolischen Stuhl erlassenen Approbationsdekret für jene Übersetzung etwas anderes ausdrücklich vorgesehen wird. Danach soll die Konferenz das Approbationsdekret für ihr Gebiet zur Erteilung der recognitio an den Heiligen Stuhl zurückschicken, zusammen mit dem Text selbst gemäß der Norm dieser Instruktion und der übrigen rechtlichen Bestimmungen.
+
+105\. Aus den oben unter Nr. 76 und 84 dargestellten Gründen und aus anderen dringenden pastoralen Notwendigkeiten werden die Kommissionen, Räte, Ausschüsse oder Arbeitsgruppen, die Übersetzungen einzelner oder auch mehrerer liturgischer Bücher in einer oder mehreren Sprachen behandeln und die direkt vom Apostolischen Stuhl abhängen, durch Dekret der Kongregation für den Gottesdienst und die Sakramentenordnung errichtet. In diesem Fall werden, soweit möglich, wenigstens einige der Bischöfe, die es betrifft, konsultiert werden.  
+
+**6. NEUE IN DER VOLKSSPRACHE ZU ERSTELLENDE LITURGISCHE TEXTE**
+
+106\. Beim Verfassen neuer in den Volkssprachen zu erstellender liturgischer Texte, die möglicherweise zu denen aus dem lateinischen übersetzten editiones typicae hinzugefügt werden sollen, sind die bereits geltenden Normen zu beachten, insbesondere jene der Instruktion Varietates legitimae.(75) Jede Bischofskonferenz soll eine oder mehrere Kommissionen einrichten, um die Texte zu erstellen oder um sich mit der geeigneten Anpassung der Texte zu befassen; sie sollen die Texte zur Erteilung der recognitio an die Kongregation für den Gottesdienst und die Sakramentenordnung übermitteln, bevor sie in irgend welchen Büchern für den Gebrauch der Zelebranten und der Gläubigen insgesamt herausgegeben werden.(76)
+
+107\. Es ist im Bewusstsein zu halten, dass die Erstellung neuer Texte von Gebeten oder Rubriken ihr Ziel nicht in sich selbst hat, sondern in der Absicht geschehen soll, einer besonderen kulturellen oder pastoralen Notwendigkeit entgegenzukommen. Deswegen ist sie strikt Aufgabe der örtlichen oder nationalen liturgischen Kommissionen, nicht aber der oben unter Nr. 92-104 behandelten Kommissionen. Neue volkssprachlich erstellte Texte dürfen genauso wie andere rechtmäßig eingeführte Anpassungen nichts enthalten, was der Aufgabe, der Bedeutung, der Struktur, dem Stil, dem theologischen Gehalt oder dem überlieferten Wortbestand und anderen wichtigen Eigenschaften der Texte widerspricht, die sich in den editiones typicae finden.(77)
+
+108\. Die liturgischen Gesänge und Hymnen sind von besonderer Bedeutung und Wirksamkeit. Vor allem am Sonntag, dem „Tag des Herrn", verkünden die Gesänge des zur Feier der heiligen Messe versammelten gläubigen Volkes nicht weniger als die Gebete, die Lesungen und die Homilie die authentische Botschaft der Liturgie, wenn sie den Sinn des gemeinsamen Glaubens und der Gemeinschaft in der Liebe fördern.(78) Wenn sie beim gläubigen Volk weiter verbreitet sind, sollen sie von hinreichend fester Gestalt sein, so dass im Volk eine Verwirrung vermieden wird. Innerhalb von fünf Jahren ab der Herausgabe dieser Instruktion sollen die Bischofskonferenzen die erforderliche Arbeit den zuständigen nationalen oder diözesanen Kommissionen und anderen Fachleuten übertragen, um ein Direktorium oder eine Sammlung der für den liturgischen Gesang bestimmten Texte herauszugeben. Eine solche Sammlung soll für die notwendige recognitio an die Kongregation für den Gottesdienst und die Sakramentenordnung gesandt werden.  
+
+**IV DIE HERAUSGABE DER LITURGISCHEN BÜCHER**
+
+109\. Als editio typica (authentische Ausgabe) der liturgischen Bücher des römischen Ritus, die nur den lateinischen Text bieten, wird jene bezeichnet, die aufgrund des Dekrets der zu der Zeit zuständigen Kongregation herausgegeben wird.(79) Die vor dieser Instruktion veröffentlichten editiones typicae wurden von der Typis Polyglottis Vaticanis (Vatikanische Druckerei) oder der Libreria Editrice Vaticana (Vatikanische Verlagsbuchhandlung) vertrieben; in Zukunft aber werden sie in der Regel von der Typis Polyglottis Vaticanis (Vatikanische Druckerei) zu drucken sein, während die Libreria Editrice Vaticana (Vatikanische Verlagsbuchhandlung) das Alleinvertriebsrecht besitzt.
+
+110\. Die Normen dieser Instruktion beziehen sich hinsichtlich aller Rechte auf die herausgegebenen oder noch herauszugebenden editiones typicae sowohl im Ganzen als auch in den einzelnen Teilen; dies sind die Ausgaben des Missale Romanum, des Ordo Missae, des Lectionarium Missalis Romani, des Evangeliarium Missalis Romani, des Missale parvum (Auszug aus dem Missale Romanum und dem Lectionarium), der Passio Domini Nostri Iesu Christi, der Liturgia Horarum, des Rituale Romanum, des Pontificale Romanum, des Martyrologium Romanum, der Collectio Missarum und des Lectionarium de Beata Maria Virgine, des Graduale Romanum, des Antiphonale Romanum sowie der anderen Bücher für den Gregorianischen Gesang. Sie beziehen sich außerdem auf die Ausgaben der Bücher des römischen Ritus, die gleichsam als editiones typicae per Dekret veröffentlicht wurden, wie z. B. das Caeremoniale Episcoporum und das Calendarium Romanum.
+
+111\. Hinsichtlich der liturgischen Bücher des römischen Ritus, die aufgrund eines Dekrets der zur betreffenden Zeit zuständigen Kongregation als editio typica vor oder nach dem Zweiten Vatikanischen Konzil veröffentlicht wurden, hat der Apostolische Stuhl durch seine Administratio Patrimonii (Güterverwaltung) oder in deren Namen oder Auftrag durch die Libreria Editrice Vaticana (Vatikanische Verlagsbuchhandlung) das Eigentumsrecht (gemeinhin „Copyright" genannt) inne und behält es sich vor. Die Erlaubnis für Nachdrucke obliegt jedoch der Kongregation für den Gottesdienst und die Sakramentenordnung.
+
+112\. Von Ausgaben iuxta typicam liturgischer Bücher des römischen Ritus spricht man, wenn es sich um in lateinischer Sprache erarbeitete Bücher handelt, die mit Genehmigung der Kongregation für den Gottesdienst und die Sakramentenordnung von einem Verlag nach der editio typica hergestellt werden.
+
+113\. Bezüglich der für den liturgischen Gebrauch bestimmten Ausgaben iuxta typicam gilt: Das Recht, liturgische Bücher herzustellen, die nur lateinischen Text enthalten, wird der Libreria Editrice Vaticana (Vatikanische Verlagsbuchhandlung) reserviert sowie jenen Verlagen, denen es die Kongregation für den Gottesdienst und die Sakramentenordnung durch eigene Verträge zugestehen wollte, wenn sich nicht aus den Normen, die in die editio typica selbst eingefügt sind, etwas anderes ergibt.
+
+114\. Das Recht, die liturgischen Bücher des römischen Ritus in die Volkssprachen zu übertragen oder wenigstens zum liturgischen Gebrauch rechtmäßig zu approbieren sowie sie herauszugeben oder sie für das eigene Gebiet im Druck zu veröffentlichen, bleibt allein bei der Bischofskonferenz; dabei sind jedoch die auch in dieser Instruktion dargelegten Rechte sowohl der recognitio80 als auch des Eigentums des Apostolischen Stuhles zu wahren.
+
+115\. Hinsichtlich der Herausgabe der liturgischen Bücher aber, die in volkssprachlicher Übersetzung Eigentum einer Bischofskonferenz sind, wird das Recht zur Herausgabe den Verlagen reserviert, denen es die Bischofskonferenz durch ausdrückliche Verträge erteilt hat; dabei sind sowohl die Vorschriften des bürgerlichen Rechtes als auch die in jedem Land für die Herausgabe von Büchern geltenden rechtlichen Gepflogenheiten zu beachten.
+
+116\. Damit ein Verlag den Druck von für den liturgischen Gebrauch bestimmten Ausgaben iuxta typicam vornehmen kann, muss er:  
+a) wenn es sich um Bücher handelt, die nur den lateinischen Text enthalten, jedesmal die Erlaubnis von der Kongregation für den Gottesdienst und die Sakramentenordnung besitzen, und dann mit der Administratio Patrimonii Sedis Apostolicae (Güterverwaltung des Apostolischen Stuhles) oder mit der Libreria Editrice Vaticana (Vatikanische Verlagsbuchhandlung), die im Namen und Auftrag dieser Administratio handelt, einen Vertrag schließen über die Bedingungen für den öffentlichen Vertrieb dieser Bücher;  
+b) wenn es sich um Bücher mit dem volkssprachlichen Text handelt, je nach den Umständen die Erlaubnis des Vorsitzenden der Bischofskonferenz oder des Instituts oder der Kommission erhalten, die mit Erlaubnis des Apostolischen Stuhles im Namen mehrerer Bischofskonferenzen die Geschäfte führt; der Verlag muss zugleich mit diesem Vorsitzenden über die Bedingungen für den öffentlichen Vertrieb dieser Bücher einen Vertrag schließen, unter Beachtung der im eigenen Land geltenden Normen und Gesetze;  
+c) wenn es sich um Bücher handelt, die vorwiegend den volkssprachlichen Text, aber auch verbreitet lateinischen Text bieten, soll für diesen lateinischen Anteil alles gemäß Nr. 116a geschehen.
+
+117\. Für alle Übersetzungen liturgischer Texte sollen die Herausgeber- und Eigentumsrechte oder wenigstens die Rechte des Bürgerlichen Rechts, die zur Wahrung der vollen Freiheit bezüglich der Veröffentlichung und Korrektur der Texte notwendig sind, bei den Bischofskonferenzen oder ihren nationalen liturgischen Kommissionen bleiben.(81) Dieselbe Einrichtung soll das Recht genießen, die notwendigen Maßnahmen zu ergreifen, um einem Missbrauch der Texte vorzubeugen oder ihn zu korrigieren.
+
+118\. Wo das Eigentumsrecht an den in die Volkssprache übersetzten liturgischen Texten bei mehreren Bischofskonferenzen gemeinsam liegt, soll die Form der den einzelnen Konferenzen zu gewährenden Erlaubnis nach Möglichkeit so gefasst werden, dass die Angelegenheiten von den einzelnen Konferenzen selbst entsprechend dem Recht verwaltet werden. Andernfalls wird, nach Beratung mit den Bischöfen, vom Apostolischen Stuhl ein Gremium zur Verwaltung errichtet werden.
+
+119\. Die Übereinstimmung der liturgischen Bücher mit den für den liturgischen Gebrauch approbierten editiones typicae muss, wenn es sich um einen nur in lateinischer Sprache verfassten Text handelt, durch eine Bestätigung der Kongregation für den Gottesdienst und die Sakramentenordnung festgestellt werden; wenn es sich aber um einen in der Volkssprache verfassten Text handelt oder um einen Fall wie oben in Nr. 116c dargestellt, muss sie festgestellt werden durch eine Bestätigung des Ordinarius des Ortes, an dem die Bücher veröffentlicht werden.(82)
+
+120\. Die Bücher, die dazu dienen, die liturgischen Texte zusammen mit dem Volk und für es in der Volkssprache vorzutragen, sollen würdig ausgestattet sein, damit schon die äußere Gestalt des Buches die Gläubigen zu größerer Ehrfurcht vor dem Wort Gottes und den heiligen Dingen anleite.(83) Darum muss - wo auch immer - sobald wie möglich jenes provisorische Stadium überwunden werden, für das gesammelte Blätter und Hefte charakteristisch sind. Alle für den liturgischen Gebrauch der Zelebranten bzw. Diakone bestimmten Bücher sollen von ausreichender Größe sein, damit sie sich von Büchern zum persönlichen Gebrauch der Gläubigen unterscheiden. In ihnen soll allzu großer Luxus vermieden werden, der notwendigerweise - für manche übermäßige - Kosten mit sich brächte. Ebenso sollen die grafische Gestalt des Einbandes und Bilder im Inneren des Buches vornehme Einfachheit ausdrücken und nur solche Stile verwenden, die im kulturellen Umfeld eine dauerhafte und universale Anziehungskraft besitzen.
+
+121\. Auch in den zum privaten Gebrauch der Gläubigen herausgegebenen pastoralen Hilfsmitteln, die die Teilnahme an den liturgischen Handlungen fördern sollen, müssen die Verlage das Eigentumsrecht beachten:  
+a) das des Heiligen Stuhles, wenn es sich um den lateinischen Text handelt oder um Gregorianischen Choral, der in den Gesangbüchern vor oder nach dem Zweiten Vatikanischen Konzil veröffentlicht ist, ausgenommen jedoch jene, die zum allgemeinen Gebrauch zugestanden sind oder in Zukunft zugestanden werden;  
+b) das einer einzelnen Bischofskonferenz oder mehrerer Bischofskonferenzen zugleich, wenn es sich um einen in der Volkssprache verfassten Text handelt und um eine Vertonung dieses Textes und wenn dies Eigentum der Konferenz oder der Konferenzen ist.  
+Auf diese Hilfsmittel ist, vor allem wenn sie in Buchform herausgegeben werden, die Erlaubnis des Diözesanbischofs auszudehnen gemäß der Norm des Rechts.(84)
+
+122\. Bei der Auswahl der Verlage, denen der Druck der liturgischen Bücher übertragen wird, ist darüber zu wachen, dass jene ausgeschlossen werden, deren bereits erschienene Bücher erkennbar nicht dem Geist und den Normen der katholischen Tradition entsprechen.
+
+123\. Hinsichtlich der Texte, die kraft Übereinkunft zwischen Teilkirchen und kirchlichen Gemeinschaften, die von der vollen Gemeinschaft mit dem Heiligen Stuhl getrennt sind, verfasst wurden, müssen die uneingeschränkten und gesetzlichen Rechte der katholischen Bischöfe und des Apostolischen Stuhles gewahrt werden, irgendwelche Änderungen oder Korrekturen einzuführen, die für den Gebrauch unter Katholiken für notwendig gehalten werden.
+
+124\. Nach dem Urteil der Bischofskonferenz können Hefte oder Zettel mit liturgischen Texten für den Gebrauch der Gläubigen von der allgemeinen Regel ausgenommen werden, gemäß der die in der Volkssprache verfassten liturgischen Bücher alles enthalten müssen, was im lateinischen textus typicus oder in der editio typica steht. Hinsichtlich offizieller Ausgaben aber, die der Priester, der Diakon oder ein zuständiger beauftragter Laie gebraucht, ist das oben unter Nr. 66-69 Gesagte zu beachten.(85)
+
+125\. Außer dem, was die editio typica enthält oder vorsieht oder was in dieser Instruktion im einzelnen ausgeführt ist, soll der volkssprachlichen Ausgabe kein Text hinzugefügt werden, wenn nicht zuvor eine Approbation von der Kongregation für den Gottesdienst und die Sakramentenordnung erteilt wurde.  
+
+**V DIE ÜBERSETZUNG LITURGISCHER EIGENTEXTE  **
+
+**1. DIÖZESANPROPRIEN**
+
+126\. Bei der Übersetzung von Texten des liturgischen Diözesanpropriums, die vom Apostolischen Stuhl als textus typici approbiert sind, ist das Folgende einzuhalten:  
+a) Die Übersetzung soll durch die diözesane Liturgiekommission geschehen(86) oder durch eine andere vom Diözesanbischof dazu eingesetzte Kommission und dann vom Diözesanbischof approbiert werden, nachdem der Rat des Klerus und von Fachleuten eingeholt wurde.  
+b) Die Übersetzung soll der Kongregation für den Gottesdienst und die Sakramentenordnung der recognitio wegen vorgelegt werden; dazu sind drei Exemplare des textus typicus zusammen mit der Übersetzung einzusenden.  
+c) Überdies soll ein Bericht abgefasst werden, der enthalten muss:  
+i) das Dekret, durch das der textus typicus vom Apostolischen Stuhl approbiert wurde;  
+ii) das bei der Übersetzung eingehaltene Verfahren bzw. die Kriterien;  
+iii) eine Liste der Personen, die an den einzelnen Arbeitsschritten beteiligt waren, zusammen mit einer kurzen Beschreibung ihrer Erfahrung oder der Befähigungen und ihrer akademischen Grade.  
+d) Wenn es sich um weniger verbreitete Sprachen handelt, muss die Bischofskonferenz bezeugen, dass der Text genau in die betreffende Sprache übertragen wurde (vgl. oben, Nr. 86).
+
+127\. Die gedruckten Texte sollen die Dekrete enthalten, durch die den Übersetzungen die recognitio des Heiligen Stuhles gewährt wurde, oder es soll wenigstens die gewährte recognitio genannt werden mit von Tag, Monat und Jahr sowie Protokoll-Nummer des vom Dikasterium erlassenen Dekrets, unter Beachtung der oben Nr. 68 genannten Normen. Zwei Exemplare der gedruckten Texte sollen an die Kongregation für den Gottesdienst und die Sakramentenordnung gesandt werden.  
+
+**2. DIE PROPRIEN VON ORDENSGEMEINSCHAFTEN**
+
+128\. Bei der Erstellung der Übersetzung der vom Apostolischen Stuhl als textus typici approbierten Texte des liturgischen Propriums einer Ordensgemeinschaft, d. h. eines Instituts des geweihten Lebens oder einer apostolischen Gemeinschaft oder eines anderen Verbandes oder einer approbierten Gemeinschaft, die dieses Recht hat, ist das Folgende einzuhalten:  
+a) Die Übersetzung soll durch die allgemeine liturgische Kommission geschehen oder durch eine vom obersten Leiter oder wenigstens in seinem Auftrag vom Provinzialoberen dazu eingesetzten Kommission und dann vom obersten Leiter approbiert werden mit einer entscheidenden Stellungnahme seines Consiliums, gegebenenfalls nachdem der Rat von Fachleuten und geeigneten Mitgliedern des Instituts oder der Gemeinschaft eingeholt wurde.  
+b) Die Übersetzung soll der Kongregation für den Gottesdienst und die Sakramentenordnung der recognitio wegen vorgelegt werden; dazu sind drei Exemplare des textus typicus zusammen mit der Übersetzung einzusenden.  
+c) Überdies soll ein Bericht abgefasst werden, der enthalten muss:  
+i) das Dekret, durch das der textus typicus vom Apostolischen Stuhl approbiert wurde;  
+ii) das bei der Übersetzung eingehaltene Verfahren bzw. die Kriterien;  
+iii) eine Liste der Personen, die an den einzelnen Arbeitsschritten beteiligt waren, zusammen mit einer kurzen Beschreibung ihrer Erfahrung oder der Befähigungen und ihrer akademischen Grade.  
+d) Wenn es sich um weniger verbreitete Sprachen handelt, muss die Bischofskonferenz bezeugen, dass der Text genau in die betreffende Sprache übertragen wurde (vgl. oben, Nr. 86).  
+e) Bei Ordensgemeinschaften diözesanen Rechts ist die gleiche Verfahrensweise einzuhalten, außer dass der Text vom Diözesanbischof zusammen mit dem Bescheid seiner Approbation an die Kongregation für den Gottesdienst und die Sakramentenordnung einzusenden ist.
+
+129\. In liturgischen Proprien von Ordensgemeinschaften soll die zum liturgischen Gebrauch in derselben Sprache für dieses Gebiet rechtmäßig approbierte Bibelübersetzung verwendet werden. Wenn sich dies als schwierig erweist, ist die Angelegenheit an die Kongregation für den Gottesdienst und die Sakramentenordnung zu senden.
+
+130\. Die gedruckten Texte sollen die Dekrete enthalten, durch die den Übersetzungen die recognitio des Heiligen Stuhles gewährt wurde, oder es soll wenigstens die gewährte recognitio genannt werden mit Tag, Monat und Jahr sowie Protokoll-Nummer des vom Dikasterium erlassenen Dekrets, unter Beachtung der oben Nr. 68 genannten Normen. Zwei Exemplare der gedruckten Texte sollen an die Kongregation für den Gottesdienst und die Sakramentenordnung gesandt werden.  
+
+**SCHLUSS**
+
+131\. Eine in der Vergangenheit einzeln gewährte Approbation für liturgische Übersetzungen verliert nicht ihre Gültigkeit, auch wenn ein Grundsatz oder ein Kriterium angewandt wurde, das von denen abweicht, die in dieser Instruktion enthalten sind. Vom Tag der Veröffentlichung dieser Instruktion an beginnt jedoch ein neuer Zeitabschnitt bezüglich Verbesserungen, die vorzunehmen sind, oder hinsichtlich neu anzustellender Überlegungen über die Aufnahme von Volkssprachen bzw. Idiomen in den liturgischen Gebrauch sowie bezüglich volkssprachlicher Übersetzungen, die bisher erstellt wurden und die zu überprüfen sind.
+
+132\. Binnen fünf Jahren ab dem Tag, an dem diese Instruktion veröffentlicht wurde, sind die Vorsitzenden der Bischofskonferenzen sowie die obersten Leiter der Ordensgemeinschaften und der Institute desselben Rechtes gehalten, der Kongregation für den Gottesdienst und die Sakramentenordnung einen vollständigen Plan für die Bearbeitung der in jedem Gebiet oder Institut in die Volkssprache übertragenen liturgischen Bücher vorzulegen.
+
+133\. Außerdem sollen die in dieser Instruktion aufgestellten Normen volle Gültigkeit für die Verbesserung bereits vorhandener Übersetzungen erlangen, und es ist zu vermeiden, solche Verbesserungen weiter aufzuschieben. Dieses neue Bemühen wird, so ist zu hoffen, von Bedeutung sein für Beständigkeit im Leben der Kirche, so dass eine feste Grundlage entsteht, auf die sich der liturgische Eifer des Volkes Gottes stützt und durch die eine bedeutende Erneuerung der Katechese in Gang gesetzt wird.
+
+Diese Instruktion, die im Auftrag des Papstes durch einen Brief des Kardinalstaatssekretärs vom 1. Februar 1997 (Prot. Nr. 408.304) von der Kongregation für den Gottesdienst und die Sakramentenordnung erarbeitet worden ist, hat Papst Johannes Paul II. in der dem Kardinalstaatssekretär gewährten Audienz vom 20. März 2001 selbst approbiert und mit Seiner Autorität bestätigt und angeordnet, dass sie veröffentlicht wird und am 25. April desselben Jahres zu gelten beginnt.
+
+*Am Sitz der Kongregation für den Gottesdienst und die Sakramentenordnung, den 28. März 2001*
+
+**Jorge A. Cardinal MEDINA ESTÉVEZ**  
+*Präfekt*
+
+**+ Francesco Pio TAMBURRINO**  
+*Erzbischof - Sekretär*
+
+------------------------------------------------------------------------
+
+1 Vgl. II. VAT. ÖKUM. KONZIL, Konst. über die hl. Liturgie *Sacrosanctum Concilium*, Art. 1, 14, 21, 33; vgl. ÖKUM. KONZIL V. TRIENT, 22. Sitzung, 17. September 1562, Doctr. *De ss. Missae sacrif*., Kap. 8: Denz.-Schönm., Nr. 1749.
+
+2 Ein in einer anderen Sprache wiedergegebener Text wird auf Latein häufiger mit den Wörtern *versio*, *conversio*, *interpretatio*, *redditio* oder auch *mutatio* bzw. *transductio* bezeichnet; der Übersetzungsvorgang selbst wird mit verwandten Verben ausgedrückt. Das ergibt sich aus der Konstitution *Sacrosanctum Concilium* und den meisten Dokumenten des Apostolischen Stuhles in heutiger Zeit. Dennoch aber legt nicht selten der Sinn, der solchen Begriffen in den modernen Sprachen beigegeben wird, die Vorstellung nahe, als beinhalte dieser Begriff auch gewisse Unterschiede oder Abweichungen gegenüber dem ursprünglichen Text und seiner Bedeutung. Um jede Zweideutigkeit auszuschließen, werden in dieser Instruktion, in der ausdrücklich dieser Sachverhalt behandelt wird, vor allem das Wort *translatio* und verwandte Worte verwendet. Auch wenn deren Gebrauch bezüglich des lateinischen Sprachstils ein wenig hart klingt oder wie ein „Neologismus“ wirkt, haben diese Wendungen einen gewissermaßen internationalen Charakter, und sie können die Absicht des Apostolischen Stuhles in unserer Zeit mitteilen und leichter ohne die Gefahr eines Irrtums in viele Sprachen übernommen werden.
+
+3 Vgl. Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendis*», 5. Juni 1976: *Notitiae* 12 (1976) 300-302.
+
+4 Vgl. II. VAT. ÖKUM. KONZIL, Dekr. über die katholischen Ostkirchen *Orientalium Ecclesiarum*, Art. 1.
+
+5 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 4; Dekr. *Orientalium Ecclesiarum*, Art. 2, 6.
+
+6 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 38; PAPST PAUL VI., Apost. Konst. *Missale Romanum*: AAS 61 (1969) 217-222; vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 399.
+
+7 KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, Instr. IV „zur ordnungsgemäßen Ausführung der Konstitution des Zweiten Vatikanischen Konzils über die heilige Liturgie“ *Varietates legitimae*, 25. Januar 1994, Nr. 17: AAS 87 (1995) 294-295; MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 397.
+
+8 II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 38; MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 397.
+
+9 Vgl.  PAPST PAUL VI., Ansprache an das Consilium „zur Ausführung der Konstitution über die Heilige Liturgie“, 14. Oktober 1968: AAS 60 (1968) 736.
+
+10 Vgl. KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, Instr. *Varietates legitimae*, Nr. 36: AAS 87 (1995) 302; vgl. auch MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 398.
+
+11 Vgl. PAPST JOHANNES PAUL II., Apost. Schreiben *Vicesimus quintus annus*, 4. Dezember 1988, Nr. 20: AAS 81 (1989) 916.
+
+12 Vgl.  PAPST PAUL VI., Ansprache an die Übersetzer liturgischer Texte in die Muttersprache, 10. November 1965: AAS 57 (1965) 968.
+
+13 KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, Instr. *Varietates legitimae*: AAS 87 (1995) 288-314.
+
+14 Vgl. Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendis*»: *Notitiae* 12 (1976) 300-301.
+
+15 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 36 § 3; Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendis*»: *Notitiae* 12 (1976) 300-301.
+
+16 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 36 § 3; PAPST PAUL VI., Apost. Schreiben *Sacram Liturgiam*, 25. Januar 1964: AAS 56 (1964) 143; Hl. RITENKONGR., Instr. *Inter Oecumenici*, 26. September 1964, Nr. 27-29: AAS 56 (1964) 883; vgl. Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendis*»: *Notitiae* 12 (1976) 300-302.
+
+17 Vgl. z.B. KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, *Normen zur Feier der Messe in „Esperanto“*, 20. März 1990: *Notitiae* 26 (1990) 693-694.
+
+18 Vgl. Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 41: AAS 56 (1964) 886.
+
+19 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 33; Dogm. Konst. über die göttliche Offenbarung *Dei Verbum*, Art. 8; vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 2.
+
+20 Vgl. CONSILIUM „ZUR AUSFÜHRUNG DER KONSTITUTION ÜBER DIE HEILIGE LITURGIE“, Brief an die Vorsitzenden der Bischofskonferenzen, 21. Juni 1967: *Notitiae* 3 (1967) 296; KARDINALSTAATSSEKRETÄR, Brief an den Pro-Präfekten der Kongr. für den Gottesdienst und die Sakramentenordnung, 1. Februar 1997.
+
+21 Vgl. KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, Instr. *Varietates legitimae*, Nr. 53: AAS 87 (1995) 308.
+
+22 *Ebd*., Nr. 39: AAS 87 (1995) 303.
+
+23 *Ebd*.: AAS 87 (1995) 288-314; vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 397.
+
+24 Vgl. Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 40 a: AAS 56 (1964) 885.
+
+25 Vgl.  PAPST PAUL VI., Ansprache an die Übersetzer liturgischer Texte in die Muttersprache: AAS 57 (1965) 968; KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, Instr. *Varietates legitimae*, Nr. 53: AAS 87 (1995) 308.
+
+26 Vgl. PAPST JOHANNES PAUL II., Ansprache an einige nordamerikanische Bischöfe anlässlich ihres Ad-limina-Besuchs, 4. Dezember 1993, Nr. 2: AAS 86 (1994) 755-756.
+
+27 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 33.
+
+28 Vgl. *ebd*., Art. 116; Hl. RITENKONGR., Instr. *Musicam sacram*, 5. März 1967, Nr. 50: AAS 59 (1967) 314; KONGR. FÜR DEN GOTTESDIENST, Brief an die Bischöfe anlässlich der Übersendung des Gesangbuchs «*Iubilate Deo*», 14. April 1974: *Notitiae* 10 (1974) 123-124; PAPST JOHANNES PAUL II., Brief *Dominicae Cenae*, 24. Februar 1980, Nr. 10: AAS 72 (1980) 135; Ansprache an einige Bischöfe aus den USA anlässlich ihres «*Ad-limina-Apostolrum»* Besuchs, 9. Oktober 1998, Nr. 3: AAS 91 (1999) 353-354; vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 41.
+
+29 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 35, 52; Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 54: AAS 56 (1964) 890; vgl. PAPST JOHANNES PAUL II., Apost. Mahnschreiben *Catechesi tradendae*, 16. Oktober 1979, Nr. 48: AAS 71 (1979) 1316; MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 65.
+
+30 Vgl. II. VAT. ÖKUM. KONZIL, Ökumenismusdekr. *Unitatis redintegratio*; Erkl. über das Verhältnis der Kirche zu den nichtchristlichen Religionen *Nostra aetate*.
+
+31 Vgl. PAPST PAUL VI., Apost. Konst. *Laudis canticum*, 1. November 1970, Nr. 8: AAS 63 (1971) 532-533; OFFICIUM DIVINUM, Liturgia Horarum iuxta Ritum Romanum, editio typica altera 1985: *Institutio Generalis de Liturgia Horarum*, Nr. 100; PAPST JOHANNES PAUL II., Apost. Schreiben *Vicesimus quintus annus*, Nr. 8: AAS 81 (1989) 904-905.
+
+32 Vgl. ÖKUM. KONZIL V. TRIENT, 4. Sitzung, 8. April 1546, *De libris sacris et de traditionibus recipiendis*, und *De vulgata editione Bibliorum et de modo interpretandi s. Scripturam*: Denz.-Schönm., Nr. 1501-1508; PAPST JOHANNES PAUL II., Apost. Konst. *Scripturarum thesaurus*, 25. April 1979: AAS 71 (1979) 558-559.
+
+33 Vgl.  PAPST PAUL VI., Ansprache an die Kardinäle und die Prälaten der Römischen Kurie, 23. Dezember 1966, Nr. 11: AAS 59 (1967) 53-54; vgl. Ansprache an die Kardinäle und die Prälaten der Römischen Kurie, 22. Dezember 1977: AAS 70 (1978) 43; vgl. PAPST JOHANNES PAUL II., Apost. Konst. *Scripturarum thesaurus*: AAS 71 (1979) 558; *Nova Vulgata Bibliorum Sacrorum*, editio typica altera 1986, Praefatio ad Lectorem.
+
+34 Vgl. OFFICIUM DIVINUM, Liturgia Horarum iuxta Ritum Romanum, editio typica altera 1985: *Institutio Generalis de Liturgia Horarum*, Nr. 100-109.
+
+35 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Dei Verbum*, Art. 22.
+
+36 Vgl. PAPST PAUL VI., Apost. Mahnschreiben *Marialis cultus*, 11. Februar 1974, Nr. 30: AAS 66 (1974) 141-142.
+
+37 Vgl. KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, Instr. *Varietates legitimae*, Nr. 53: AAS 87 (1995) 308.
+
+38 Vgl. *ebd*.; vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 392.
+
+39 Vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 53, 57.
+
+40 Vgl. PAPST JOHANNES PAUL II., Apost. Schreiben *Dies Domini*, 31. Mai 1998, Nr. 50: AAS 90 (1998) 745.
+
+41 MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 78.
+
+42 Vgl. *ebd*., Nr. 67.
+
+43 Hl. THOMAS VON AQUIN, *Summa Theologiae*, IIa IIae, I, 9.
+
+44 Vgl. Hl. KONGR. FÜR DIE GLAUBENSLEHRE, *Mitteilung*, 2. Dezember 1983: *Notitiae* 20 (1984) 181.
+
+45 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 63 b; Hl. KONGR. FÜR DEN GOTTESDIENST, Erklärung «*De interpretationibus popularibus novorum textuum liturgicorum*», 15. September 1969: *Notitiae* 5 (1969) 333-334.
+
+46 Vgl. KONGR. FÜR DEN KLERUS UND ANDERE, Instr. *Ecclesiae de mysterio*, 15. August 1997, Art. 1-3, 6-12: AAS 89 (1997) 861-865, 869-874.
+
+47 Vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 389.
+
+48 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 36; vgl. *Codex Iuris Canonici*, can. 838 § 3.
+
+49 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 44; Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 40 b, 44: AAS 56 (1964) 885-886.
+
+50 Vgl. Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 40 d: AAS 56 (1964) 886.
+
+51 Vgl. *Codex Iuris Canonici*, can. 838.
+
+52 Vgl. Hl. KONGR. FÜR DEN GOTTESDIENST, Declaratio, 15. Mai 1970: *Notitiae* 6 (1970) 153.
+
+53 Vgl. PAPST JOHANNES PAUL II., Apost. Schreiben *Vicesimus quintus annus*, Nr. 20: AAS 81 (1989) 916.
+
+54 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 36; PAPST PAUL VI., Apost. Schreiben *Sacram Liturgiam*, Nr. IX: AAS 56 (1964) 143; Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 27-29: AAS 56 (1964) 883; PÄPSTLICHE KOMMISSION FÜR DIE INTERPRETATION DER DEKRETE DES ZWEITEN VATIKANISCHEN KONZILS, Antwort auf vorgelegten Zweifel: AAS 60 (1968) 361-362; vgl. Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendi**s*»: *Notitiae* 12 (1976) 300-302.
+
+55 Vgl. Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 30: AAS 56 (1964) 883; Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendis*»: *Notitiae* 12 (1976) 302.
+
+56 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 36; Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 20-21, 31: AAS 56 (1964) 882, 884; *Codex Iuris Canonici*, can. 838.
+
+57 Vgl. PÄPSTLICHE KOMMISSION FÜR DIE ÜBERPRÜFUNG DES KIRCHLICHEN RECHTSBUCHES, Acta: *Communicationes* 15 (1983) 173.
+
+58 Vgl. PAPST PAUL VI., Ansprache an die Mitglieder und Berater des Consilium „zur Ausführung der Konstitution über die Heilige Liturgie“, 13. Oktober 1966: AAS 58 (1966) 1146; Ansprache an die Mitglieder und Berater des Consilium „zur Ausführung der Konstitution über die Heilige Liturgie“: AAS 60 (1968) 734.
+
+59 MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 397.
+
+60 Vgl. II. VAT. ÖKUM. KONZIL, Dogm. Konst. über die Kirche *Lumen Gentium*, Art. 13; vgl. PAPST JOHANNES PAUL II., Apost. Schreiben (Motu proprio) *Apostolos suos*, 21. Mai 1998, Nr. 22: AAS 90 (1998) 655-656.
+
+61 Vgl. *Codex Iuris Canonici*, can. 838 § 3.
+
+62 Vgl. Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendi**s*»: *Notitiae* 12 (1976) 302.
+
+63 Vgl. *ebd*., 300-302.
+
+64 Vgl. Hl. KONGR. FÜR DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De normis servandis quoad libros liturgicos in vulgus edendos, illorum translatione in linguas hodiernas peracta*», 25. Oktober 1973: AAS 66 (1974) 98-99; Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendi**s*»: *Notitiae* 12 (1976) 300-302.
+
+65 Vgl. Hl. KONGR. FÜR DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De normis servandis quoad libros liturgicos in vulgus edendos, illorum translatione in linguas hodiernas peracta*»: AAS 66 (1974) 98-99; Hl. KONGR. FÜR DIE SAKRAMENTE UND DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De linguis vulgaribus in S. Liturgiam inducendi**s*»: *Notitiae* 12 (1976) 300-302.
+
+66 Vgl. Hl. KONGR. FÜR DEN GOTTESDIENST, Normen «*De unica interpretatione populari textuum liturgicorum*», 6. Februar 1970: *Notitiae* 6 (1970) 84-85; vgl. Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 40 c: AAS 56 (1964) 886.
+
+67 Vgl. Hl. KONGR. FÜR DEN GOTTESDIENST, Normen «*De unica interpretatione populari textuum liturgicorum*»: *Notitiae* 6 (1970) 84-85.
+
+68 Vgl. *ebd*., 85.
+
+69 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Dei Verbum*, Art. 22; *Codex Iuris Canonici*, can. 825 § 2; PÄPSTLICHER RAT ZUR FÖRDERUNG DER EINHEIT DER CHRISTEN, *Directorium Oecumenicum*, 25. März 1993, Nr. 183-185, 187: AAS 85 (1993) 1104-1106; vgl. *Codex Canonum Ecclesiarum Orientalium*, can. 655 § 1.
+
+70 Vgl. CONSILIUM „ZUR AUSFÜHRUNG DER KONSTITUTION ÜBER DIE HEILIGE LITURGIE“, Brief des Vorsitzenden «*De unica interpretatione liturgica populari in linguis pluribus in locis usitatis*», 16. Oktober 1964: *Notitiae* 1 (1965) 195; PAPST PAUL VI., Ansprache an die Übersetzer liturgischer Texte in die Muttersprache: AAS 57 (1965) 969; Hl. KONGR. FÜR DEN GOTTESDIENST, Normen «*De unica interpretatione populari textuum liturgicorum*»: *Notitiae* 6 (1970) 84-85.
+
+71 Vgl. Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 23 c: AAS 56 (1964) 882; *Codex Iuris Canonici*, cann. 94, 117, 120; vgl. PAPST JOHANNES PAUL II., Apost. Konst. *Pastor Bonus*, 28. Juni 1998, Art. 65: AAS 80 (1988) 877.
+
+72 Vgl. PAPST JOHANNES PAUL II., Apost. Schreiben *Apostolos suos*, Nr. 18-19: AAS 90 (1998) 653-654.
+
+73 Vgl. PAPST PIUS XII., Enzykl. *Mediator Dei*, 20. November 1947: AAS 39 (1947) 561-562; II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 44-46; PAPST PAUL VI., Apost. Schreiben *Sacram Liturgiam*: AAS 56 (1964) 141; Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 44-46: AAS 56 (1964) 886-887.
+
+74 Vgl. *Codex Iuris Canonici*, cann. 333, 360; PAPST JOHANNES PAUL II., Apost. Konst. *Pastor Bonus*, Art. 62-65: AAS 80 (1988) 876-877; Hl. KONGR. FÜR DEN GOTTESDIENST, Brief an die Vorsitzenden der Bischofskonferenzen «*De normis servandis quoad libros liturgicos in vulgus edendos, illorum translatione in linguas hodiernas peracta*», Nr. 1: AAS 66 (1974) 98.
+
+75 Vgl. KONGR. FÜR DEN GOTTESDIENST UND DIE SAKRAMENTENORDNUNG, Instr. *Varietates legitimae*: AAS 87 (1995) 288-314.
+
+76 Vgl. *ebd*., Nr. 36: AAS 87 (1995) 302.
+
+77 Vgl. MISSALE ROMANUM, editio typica tertia: *Institutio Generalis*, Nr. 398.
+
+78 Vgl. PAPST JOHANNES PAUL II., Apost. Schreiben *Dies Domini*, Nr. 40, 50: AAS 90 (1998) 738, 745.
+
+79 Vgl. *Codex Iuris Canonici*, can. 838 § 2.
+
+80 Vgl. *ebd*., can. 838 § 3.
+
+81 Hl. KONGR. FÜR DEN GOTTESDIENST, Declaratio: *Notitiae* 6 (1970) 153.
+
+82 Vgl. *Codex Iuris Canonici*, can. 826 § 2; vgl. auch oben Nr. 111.
+
+83 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 122; Hl. RITENKONGR., Instr. *Inter Oecumenici*, Nr. 40 e: AAS 56 (1964) 886.
+
+84 *Codex Iuris Canonici*, can. 826 § 3.
+
+85 Vgl. II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 63 b; Hl. KONGR. FÜR DEN GOTTESDIENST, Erklärung «*De interpretationibus popularibus novorum textuum liturgicorum*»: *Notitiae* 5 (1969) 333-334.
+
+86 Vgl. PAPST PIUS XII., Enzykl. *Mediator Dei*: AAS 39 (1947) 561-562; II. VAT. ÖKUM. KONZIL, Konst. *Sacrosanctum Concilium*, Art. 45.
+
+[](#top)

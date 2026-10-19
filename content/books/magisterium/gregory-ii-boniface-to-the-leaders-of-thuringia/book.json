@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ii-boniface-to-the-leaders-of-thuringia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Boniface To The Leaders Of Thuringia"
+  },
+  "author": {
+    "en-US": "Pope Gregory II",
+    "pt-BR": "Papa Gregório II",
+    "la": "Gregorius PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory II · 0722-12-01",
+    "pt-BR": "Documento · Papa Gregório II · 0722-12-01"
+  },
+  "composed": "722",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0722-12-01,_SS_Gregorius_II,_Boniface_To_The_Leaders_Of_Thuringia,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Boniface To The Leaders Of Thuringia"
+      }
+    }
+  ]
+}

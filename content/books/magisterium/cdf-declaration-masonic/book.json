@@ -1,0 +1,80 @@
+{
+  "id": "cdf-declaration-masonic",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio de associationibus massonicis, d. 26 m. Novembris a. 1983, Congregatio pro Doctrina Fidei",
+    "pt-BR": "Declaração sobre a Maçonaria - 26 de Novembro de 1983",
+    "de": "Urteil der Kirche unverändert - 26. November 1983",
+    "es": "Declaración sobre la masonería, 26-nov-1983",
+    "it": "Dichiarazione sulla Massoneria - 26 Novembre 1983",
+    "pl": "DEKLARACJA O STOWARZYSZENIACH MASOŃSKICH"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1983-11-26",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1983-11-26"
+  },
+  "composed": "1983",
+  "languages": [
+    "la",
+    "pt-BR",
+    "de",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19831126_declaration-masonic_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio de associationibus massonicis, d. 26 m. Novembris a. 1983, Congregatio pro Doctrina Fidei",
+        "pt-BR": "Declaração sobre a Maçonaria - 26 de Novembro de 1983",
+        "de": "Urteil der Kirche unverändert - 26. November 1983",
+        "es": "Declaración sobre la masonería, 26-nov-1983",
+        "it": "Dichiarazione sulla Massoneria - 26 Novembre 1983",
+        "pl": "DEKLARACJA O STOWARZYSZENIACH MASOŃSKICH"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "urban-ii-quia-propter",
+  "cover": "quarter",
+  "name": {
+    "it": "Quia Propter"
+  },
+  "author": {
+    "en-US": "Pope Urban II",
+    "pt-BR": "Papa Urbano II",
+    "la": "Urbanus PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Urban II · 1098-07-05",
+    "pt-BR": "Documento · Papa Urbano II · 1098-07-05"
+  },
+  "composed": "1098",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "urban-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1098-07-05,_SS_Urbanus_II,_Quia_Propter,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Quia Propter"
+      }
+    }
+  ]
+}

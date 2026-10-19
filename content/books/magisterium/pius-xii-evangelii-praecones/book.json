@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-evangelii-praecones",
+  "cover": "quarter",
+  "name": {
+    "la": "Evangelii Praecones (June 2, 1951)",
+    "en-US": "Evangelii Praecones",
+    "pt-BR": "Evangelii Praecones",
+    "es": "Evangelii Praecones",
+    "it": "Evangelii Praecones"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1951-06-02",
+    "pt-BR": "Encíclica · Papa Pio XII · 1951-06-02"
+  },
+  "composed": "1951",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1951-06-02,_SS_Pius_XII,_Encyclica._Evangelii_Praecones,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_02061951_evangelii-praecones.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Evangelii Praecones (June 2, 1951)",
+        "en-US": "Evangelii Praecones",
+        "pt-BR": "Evangelii Praecones",
+        "es": "Evangelii Praecones",
+        "it": "Evangelii Praecones"
+      }
+    }
+  ]
+}

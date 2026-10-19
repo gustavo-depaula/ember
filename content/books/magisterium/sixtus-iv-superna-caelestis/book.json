@@ -1,0 +1,48 @@
+{
+  "id": "sixtus-iv-superna-caelestis",
+  "cover": "quarter",
+  "name": {
+    "la": "Superna Caelestis",
+    "en-US": "Superna Caelestis"
+  },
+  "author": {
+    "en-US": "Pope Sixtus IV",
+    "pt-BR": "Papa Sisto IV",
+    "la": "Sixtus PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Sixtus IV · 1482",
+    "pt-BR": "Documento · Papa Sisto IV · 1482"
+  },
+  "composed": "1482",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "sixtus-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1482-1484,_SS_Sixtus_IV,_Superna_Caelestis,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/sixtus04/superna-caelestis.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Superna Caelestis",
+        "en-US": "Superna Caelestis"
+      }
+    }
+  ]
+}

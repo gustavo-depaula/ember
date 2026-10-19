@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-general-catechetical-directory",
+  "cover": "quarter",
+  "name": {
+    "la": "General Catechetical Directory",
+    "en-US": "General Catechetical Directory"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul VI · 1964-05-23",
+    "pt-BR": "Documento · Papa Paulo VI · 1964-05-23"
+  },
+  "composed": "1964",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1964-05-23,_SS_Paulus_VI,_Oratio_'Magno_Gaudio_Affetti',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/gencatdi.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "General Catechetical Directory",
+        "en-US": "General Catechetical Directory"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "innocent-iv-gloriosus-deus",
+  "cover": "quarter",
+  "name": {
+    "la": "Gloriosus Deus",
+    "pt-BR": "Gloriosus Deus"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent IV · 1253-10-18",
+    "pt-BR": "Documento · Papa Inocêncio IV · 1253-10-18"
+  },
+  "composed": "1253",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1253-10-18,_SS_Innocentius_IV,_Gloriosus_Deus,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1253-10-18,_SS_Innocentius_IV,_Gloriosus_Deus,_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Gloriosus Deus",
+        "pt-BR": "Gloriosus Deus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-quo-civium-iura",
+  "cover": "quarter",
+  "name": {
+    "la": "Motu Proprio Quo civium iura, die XXI mensis Novembris, anno MCMLXRXVII",
+    "it": "Quo Civium Iura"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1987-11-21",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1987-11-21"
+  },
+  "composed": "1987",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_21111987_quo-civium-iura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_21111987_quo-civium-iura.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Motu Proprio Quo civium iura, die XXI mensis Novembris, anno MCMLXRXVII",
+        "it": "Quo Civium Iura"
+      }
+    }
+  ]
+}

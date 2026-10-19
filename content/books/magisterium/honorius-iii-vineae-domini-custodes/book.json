@@ -1,0 +1,40 @@
+{
+  "id": "honorius-iii-vineae-domini-custodes",
+  "cover": "quarter",
+  "name": {
+    "es": "Vineae Domini Custodes"
+  },
+  "author": {
+    "en-US": "Pope Honorius III",
+    "pt-BR": "Papa Honório III",
+    "la": "Honorius PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Honorius III · 1225-10-07",
+    "pt-BR": "Documento · Papa Honório III · 1225-10-07"
+  },
+  "composed": "1225",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "honorius-iii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1225-10-07,_SS_Honorius_III,_Vineae_Domini_Custodes,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Vineae Domini Custodes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-exortae-in-ista",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Exortae in ista"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius IX · 1876-04-29",
+    "pt-BR": "Documento · Papa Pio IX · 1876-04-29"
+  },
+  "composed": "1876",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/carta-exortae-in-ista-sobre-a-maconaria-no-brasil/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Exortae in ista"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-consecrated-persons",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to all consecrated persons belonging to Religious communities and Secular Institutes on occasion of the Marian year",
+    "pt-BR": "Carta a todas as pessoas consagradas das comunidades religiosas e dos institutos seculares por ocasião do Ano Mariano"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1988-05-22",
+    "pt-BR": "Carta · Papa João Paulo II · 1988-05-22"
+  },
+  "composed": "1988",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1988/documents/hf_jp-ii_let_19880522_consecrated-persons.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1988/documents/hf_jp-ii_let_19880522_consecrated-persons.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to all consecrated persons belonging to Religious communities and Secular Institutes on occasion of the Marian year",
+        "pt-BR": "Carta a todas as pessoas consagradas das comunidades religiosas e dos institutos seculares por ocasião do Ano Mariano"
+      }
+    }
+  ]
+}

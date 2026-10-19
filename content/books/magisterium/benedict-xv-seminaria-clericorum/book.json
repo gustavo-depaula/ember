@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-seminaria-clericorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Seminaria Clericorum, Motu proprio, Nova conditur Sacra Congregatio « De Seminariis et de Studiorum Universitatibus », d. 4 m. Novembris a. 1915, Benedictus PP. XV",
+    "it": "Seminaria Clericorum con il quale si dispone la nascita della Sacra Congregazione dei Seminari e delle Università degli studi"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1915-11-04",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1915-11-04"
+  },
+  "composed": "1915",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19151104_seminaria-clericorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19151104_seminaria-clericorum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Seminaria Clericorum, Motu proprio, Nova conditur Sacra Congregatio « De Seminariis et de Studiorum Universitatibus », d. 4 m. Novembris a. 1915, Benedictus PP. XV",
+        "it": "Seminaria Clericorum con il quale si dispone la nascita della Sacra Congregazione dei Seminari e delle Università degli studi"
+      }
+    }
+  ]
+}

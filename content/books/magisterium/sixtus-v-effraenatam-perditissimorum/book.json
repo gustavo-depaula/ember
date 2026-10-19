@@ -1,0 +1,56 @@
+{
+  "id": "sixtus-v-effraenatam-perditissimorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Effraenatam Perditissimorum'",
+    "en-US": "Bulla 'Effraenatam Perditissimorum'",
+    "es": "Bulla 'Effraenatam Perditissimorum'"
+  },
+  "author": {
+    "en-US": "Pope Sixtus V",
+    "pt-BR": "Papa Sisto V",
+    "la": "Sixtus PP. V"
+  },
+  "description": {
+    "en-US": "Bull · Pope Sixtus V · 1588-11-29",
+    "pt-BR": "Bula · Papa Sisto V · 1588-11-29"
+  },
+  "composed": "1588",
+  "languages": [
+    "la",
+    "en-US",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "sixtus-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1588-11-29,_SS_Sixtus_V,_Bulla_'Effraenatam_Perditissimorum',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1588-11-29,_SS_Sixtus_V,_Bulla_'Effraenatam_Perditissimorum',_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1588-11-29,_SS_Sixtus_V,_Bulla_'Effraenatam_Perditissimorum',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Effraenatam Perditissimorum'",
+        "en-US": "Bulla 'Effraenatam Perditissimorum'",
+        "es": "Bulla 'Effraenatam Perditissimorum'"
+      }
+    }
+  ]
+}

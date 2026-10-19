@@ -1,0 +1,41 @@
+# Prólogo de Benedicto XVI a Youcat, material de acompañamiento del Catecismo de la Iglesia católica dedicado a los jóvenes
+
+***PRÓLOGO DEL SANTO PADRE BENEDICTO XVI A «*YOUCAT*», MATERIAL PARA EL CATECISMO CON VISTAS A LA JMJ MADRID 2011***
+
+*Queridos jóvenes amigos:*
+
+Hoy os aconsejo la lectura de un libro extraordinario.
+
+Es extraordinario por su contenido pero también por el modo como se ha formado, que deseo explicaros brevemente, para que se pueda comprender su singularidad. *Youcat* tiene su origen, por decirlo así, en otra obra que se remonta a los años 80. Era un período difícil tanto para la Iglesia como para la sociedad mundial, durante el cual surgió la necesidad de nuevas orientaciones para encontrar un camino hacia el futuro. Después del concilio Vaticano II (1962-1965) y en el nuevo clima cultural, numerosas personas ya no sabían correctamente en qué debían creer propiamente los cristianos, qué enseñaba la Iglesia, si es que podía enseñar algo *tout court*, y cómo podía adaptarse todo esto al nuevo clima cultural.
+
+El cristianismo en cuanto tal ¿no está superado? ¿Se puede todavía hoy ser creyentes razonablemente? Estas son las preguntas que se siguen planteando muchos cristianos. El Papa Juan Pablo II tomó entonces una decisión audaz: decidió que los obispos de todo el mundo escribieran un libro para responder a estas preguntas.
+
+Me confió la tarea de coordinar el trabajo de los obispos y de velar a fin de que de las contribuciones de los obispos naciera un libro —me refiero a un verdadero libro, y no a una simple yuxtaposición de una multiplicidad de textos—. Este libro debía llevar el título tradicional de *Catecismo de la Iglesia católica* y, sin embargo, debía ser algo absolutamente estimulante y nuevo; debía mostrar qué cree hoy la Iglesia católica y de qué modo se puede creer de manera razonable. Me asustó esta tarea, y debo confesar que dudé de que pudiera lograrse algo semejante. ¿Cómo podía suceder que autores esparcidos por todo el mundo pudieran producir un libro legible?
+
+¿Cómo podían, hombres que viven en continentes distintos, y no sólo desde el punto de vista geográfico, sino también intelectual y cultural, producir un texto dotado de unidad interna y comprensible en todos los continentes?
+
+A esto se añadía el hecho que los obispos no debían escribir simplemente en calidad de autores individuales, sino en representación de sus hermanos y de sus Iglesias locales.
+
+Debo confesar que incluso hoy me parece un milagro que este proyecto al final haya tenido éxito. Nos reunimos tres o cuatro veces al año durante una semana y discutimos apasionadamente sobre cada una de las partes del texto que mientras tanto se habían ido desarrollando.
+
+En primer lugar se debía definir la estructura del libro: debía ser sencilla, para que los grupos de autores pudieran recibir una tarea clara y no tuvieran que forzar sus afirmaciones en un sistema complicado. Es la misma estructura de este libro; sencillamente está tomada de una experiencia catequética larga, de siglos: qué creemos / cómo celebramos los misterios cristianos / cómo obtenemos la vida en Cristo / cómo debemos orar. No quiero explicar ahora cómo nos encontramos con gran cantidad de preguntas, hasta que el resultado llegó a ser un verdadero libro. En una obra de este tipo son muchos los puntos discutibles: todo lo que los hombres hacen es insuficiente y se puede mejorar, y a pesar de ello se trata de un gran libro, un signo de unidad en la diversidad. A partir de muchas voces se pudo formar un coro porque contábamos con la partitura común de la fe, que la Iglesia nos ha transmitido desde los Apóstoles a través de los siglos hasta hoy.
+
+¿Por qué todo esto?
+
+Ya entonces, durante la redacción del *[Catecismo de la Iglesia católica](https://www.vatican.va/archive/catechism_sp/index_sp.html)*, constatamos no sólo que los continentes y las culturas de sus pueblos son diferentes, sino también que en el seno de cada sociedad existen distintos «continentes»: el obrero tiene una mentalidad distinta de la del campesino, y un físico distinta de la de un filólogo; un empresario distinta de la de un periodista, y un joven distinta de la de un anciano. Por este motivo, en el lenguaje y en el pensamiento, tuvimos que situarnos por encima de todas estas diferencias y, por decirlo así, buscar un espacio común entre los diferentes universos mentales; así, tomamos cada vez mayor conciencia de que el texto requería «traducciones» a los diferentes mundos, para poder llegar a las personas con sus diversas mentalidades y diversas problemáticas. Desde entonces, en las [Jornadas mundiales de la juventud](http://www.vatican.va/gmg/documents/index_sp.html) (Roma, Toronto, Colonia, Sydney) se han reunido jóvenes de todo el mundo que quieren creer, que buscan a Dios, que aman a Cristo y desean caminos comunes. En este contexto nos preguntamos si debíamos tratar de traducir el *Catecismo de la Iglesia católica* a la lengua de los jóvenes y hacer penetrar sus palabras en su mundo. Naturalmente también entre los jóvenes de hoy hay muchas diferencias; así, bajo la experta dirección del arzobispo de Viena, Christoph Schönborn, se formó un *Youcat* para los jóvenes. Espero que muchos jóvenes se dejen fascinar por este este libro.
+
+Algunas personas me dicen que el catecismo no interesa a la juventud de hoy; pero yo no creo en esta afirmación y estoy seguro de que tengo razón. Los jóvenes no son tan superficiales como se les acusa; quieren saber en qué consiste realmente la vida. Una novela criminal es fascinante porque nos implica en la suerte de otras personas, pero que podría ser también la nuestra; este libro es fascinante porque nos habla de nuestro propio destino y, por tanto, nos toca de cerca a cada uno.
+
+Por esto os invito: estudiad el catecismo. Os lo deseo de corazón.
+
+Este material para el catecismo no os adula; no ofrece soluciones fáciles; exige una nueva vida de vuestra parte; os presenta el mensaje del Evangelio como la «perla preciosa» (*Mt* 13, 45) por la cual hay que dar todo. Por esto os pido: estudiad el catecismo con pasión y perseverancia. Sacrificad vuestro tiempo para ello. Estudiadlo en el silencio de vuestra habitación, leedlo de dos en dos; si sois amigos, formad grupos y redes de estudio, intercambiad ideas por Internet. En cualquier caso, permaneced en diálogo sobre vuestra fe.
+
+Debéis conocer lo que creéis; debéis conocer vuestra fe con la misma precisión con la que un especialista de informática conoce el sistema operativo de un ordenador; debéis conocerla como un músico conoce su pieza; sí, debéis estar mucho más profundamente arraigados en la fe que la generación de vuestros padres, para poder resistir con fuerza y decisión a los desafíos y las tentaciones de este tiempo. Necesitáis la ayuda divina, si no queréis que vuestra fe se seque como una gota de rocío al sol, si no queréis sucumbir a las tentaciones del consumismo, si no queréis que vuestro amor se ahogue en la pornografía, si no queréis traicionar a los débiles y a las víctimas de abusos y violencia.
+
+Si os dedicáis con pasión al estudio del catecismo, quiero daros un último consejo: todos sabéis de qué modo la comunidad de los creyentes se ha visto herida en los últimos tiempos por los ataques del mal, por la penetración del pecado en su seno, más aún, en el corazón de la Iglesia. No toméis esto como pretexto para huir de la presencia de Dios; vosotros mismos sois el cuerpo de Cristo, la Iglesia. Llevad el fuego intacto de vuestro amor a esta Iglesia cada vez que los hombres hayan ensombrecido su rostro. «En la actividad, no seáis negligentes; en el espíritu, manteneos fervorosos, sirviendo constantemente al Señor» (*Rm* 12, 11).
+
+Cuando Israel se encontraba en el momento más oscuro de su historia, para socorrerlo Dios no llamó a los grandes y a las personas estimadas, sino a un joven de nombre Jeremías. Jeremías se sintió investido de una misión demasiado grande: «¡Ah, Señor, Dios mío! Mira que no sé hablar, que sólo soy un niño» (*Jr* 1, 6). Pero Dios no se dejó confundir: «No digas que eres un niño, pues irás adonde yo te envíe y dirás lo yo te ordene» (*Jr* 1, 7).
+
+Os bendigo y rezo cada día por todos vosotros.
+
+**BENEDICTO PP. XVI**

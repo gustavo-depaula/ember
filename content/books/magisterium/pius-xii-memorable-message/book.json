@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-memorable-message",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the President of the United States of America, Franklin Delano Roosevelt, on the occasion of the appointment of an Extraordinary Ambassador of the United States of America to the Holy See",
+    "fr": "Lettre au Président des États Unis, S.E. M. Franklin Delano Roosevelt à l'occasion de la nomination d'un Ambassadeur extraordinaire des États-Unis près le Saint-Siège",
+    "it": "Lettera al Presidente Franklin Delano Roosevelt in occasione della nomina di un Ambasciatore straordinario degli Stati Uniti d'America presso la Santa Sede"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1940-01-07",
+    "pt-BR": "Carta · Papa Pio XII · 1940-01-07"
+  },
+  "composed": "1940",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_19400107_memorable-message.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/letters/documents/hf_p-xii_lett_19400107_memorable-message.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_19400107_memorable-message.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the President of the United States of America, Franklin Delano Roosevelt, on the occasion of the appointment of an Extraordinary Ambassador of the United States of America to the Holy See",
+        "fr": "Lettre au Président des États Unis, S.E. M. Franklin Delano Roosevelt à l'occasion de la nomination d'un Ambassadeur extraordinaire des États-Unis près le Saint-Siège",
+        "it": "Lettera al Presidente Franklin Delano Roosevelt in occasione della nomina di un Ambasciatore straordinario degli Stati Uniti d'America presso la Santa Sede"
+      }
+    }
+  ]
+}

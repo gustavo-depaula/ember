@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xvi-totius-orbis",
+  "cover": "quarter",
+  "name": {
+    "la": "Totius Orbis",
+    "pt-BR": "Totius Orbis"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2005-11-09",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2005-11-09"
+  },
+  "composed": "2005",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2005-11-09,_SS_Benedictus_XVI,_Motu_Proprio_'Totius_Orbis',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/totius-orbis-bento-xvi-09-11-2005/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Totius Orbis",
+        "pt-BR": "Totius Orbis"
+      }
+    }
+  ]
+}

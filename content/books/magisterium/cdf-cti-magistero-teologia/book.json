@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-magistero-teologia",
+  "cover": "quarter",
+  "name": {
+    "la": "DE MAGISTERII ECCLESIASTICI ET THEOLOGIAE AD INVICEM RELATIONE, 1975",
+    "en-US": "The Ecclesiastical Magisterium and Theology, 1975",
+    "pt-BR": "Magistério e teologia",
+    "cs": "Vzájemný vztah mezi magisteriem a teologií - Mezinárodní teologická komise",
+    "de": "Lehramt und Theologie, 1975",
+    "es": "Magisterio y Teología, 1975",
+    "fr": "Magistère et théologie, 1975",
+    "hu": "Tanítóhivatal és teológia, 1975",
+    "it": "Magistero e teologia, 1975",
+    "pl": "URZĄD NAUCZYCIELSKI KOŚCIOŁA I TEOLOGIA, 1975",
+    "ru": "ВЕРОУЧИТЕЛЬНЫЙ АВТОРИТЕТ ЦЕРКВИ И БОГОСЛОВИЕ, 1975"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1975",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1975"
+  },
+  "composed": "1975",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1975_magistero-teologia_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "DE MAGISTERII ECCLESIASTICI ET THEOLOGIAE AD INVICEM RELATIONE, 1975",
+        "en-US": "The Ecclesiastical Magisterium and Theology, 1975",
+        "pt-BR": "Magistério e teologia",
+        "cs": "Vzájemný vztah mezi magisteriem a teologií - Mezinárodní teologická komise",
+        "de": "Lehramt und Theologie, 1975",
+        "es": "Magisterio y Teología, 1975",
+        "fr": "Magistère et théologie, 1975",
+        "hu": "Tanítóhivatal és teológia, 1975",
+        "it": "Magistero e teologia, 1975",
+        "pl": "URZĄD NAUCZYCIELSKI KOŚCIOŁA I TEOLOGIA, 1975",
+        "ru": "ВЕРОУЧИТЕЛЬНЫЙ АВТОРИТЕТ ЦЕРКВИ И БОГОСЛОВИЕ, 1975"
+      }
+    }
+  ]
+}

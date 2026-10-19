@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ii-reply-to-a-report-from-boniface",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Reply To A Report From Boniface"
+  },
+  "author": {
+    "en-US": "Pope Gregory II",
+    "pt-BR": "Papa Gregório II",
+    "la": "Gregorius PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory II · 0723-12-04",
+    "pt-BR": "Documento · Papa Gregório II · 0723-12-04"
+  },
+  "composed": "723",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0723-12-04,_SS_Gregorius_II,_Reply_To_A_Report_From_Boniface,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Reply To A Report From Boniface"
+      }
+    }
+  ]
+}

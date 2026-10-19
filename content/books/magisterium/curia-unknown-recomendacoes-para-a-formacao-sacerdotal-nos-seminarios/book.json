@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-recomendacoes-para-a-formacao-sacerdotal-nos-seminarios",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Recomendações para a formação sacerdotal nos seminários da América Latina"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 2009-02-20",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 2009-02-20"
+  },
+  "composed": "2009",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/recomendacoes-para-a-formacao-sacerdotal-nos-seminarios-da-america-latina-20-02-2009/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Recomendações para a formação sacerdotal nos seminários da América Latina"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "john-xxii-in-agro-dominico",
+  "cover": "quarter",
+  "name": {
+    "it": "In Agro Dominico"
+  },
+  "author": {
+    "en-US": "Pope John XXII",
+    "pt-BR": "Papa João XXII",
+    "la": "Ioannes PP. XXII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXII · 1329-03-27",
+    "pt-BR": "Documento · Papa João XXII · 1329-03-27"
+  },
+  "composed": "1329",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1329-03-27,_SS_Ioannes_XXII,_In_Agro_Dominico,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "In Agro Dominico"
+      }
+    }
+  ]
+}

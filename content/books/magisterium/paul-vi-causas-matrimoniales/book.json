@@ -1,0 +1,64 @@
+{
+  "id": "paul-vi-causas-matrimoniales",
+  "cover": "quarter",
+  "name": {
+    "la": "Causas matrimoniales - Normae quaedam statuuntur ad processus matrimoniales expeditius absolvendos, Litterae Apostolicae Motu Proprio datae, Die 28 m. Martii, a. 1971, Paulus PP.VI",
+    "en-US": "Causas matrimoniales",
+    "pt-BR": "Causas matrimoniales: em que se estabelecem algumas normas para uma mais rápida resolução dos processos matrimoniais",
+    "it": "Lettera Apostolica Causas matrimoniales"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1971-03-28",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1971-03-28"
+  },
+  "composed": "1971",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19710328_causas-matrimoniales.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Causas matrimoniales - Normae quaedam statuuntur ad processus matrimoniales expeditius absolvendos, Litterae Apostolicae Motu Proprio datae, Die 28 m. Martii, a. 1971, Paulus PP.VI",
+        "en-US": "Causas matrimoniales",
+        "pt-BR": "Causas matrimoniales: em que se estabelecem algumas normas para uma mais rápida resolução dos processos matrimoniais",
+        "it": "Lettera Apostolica Causas matrimoniales"
+      }
+    }
+  ]
+}

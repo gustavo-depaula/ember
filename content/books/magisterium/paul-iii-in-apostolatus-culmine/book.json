@@ -1,0 +1,48 @@
+{
+  "id": "paul-iii-in-apostolatus-culmine",
+  "cover": "quarter",
+  "name": {
+    "la": "In apostolatus culmine",
+    "en-US": "In apostolatus culmine"
+  },
+  "author": {
+    "en-US": "Pope Paul III",
+    "pt-BR": "Papa Paulo III",
+    "la": "Paulus PP. III"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul III · 1538-10-28",
+    "pt-BR": "Documento · Papa Paulo III · 1538-10-28"
+  },
+  "composed": "1538",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-iii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1538-10-28,_SS_Paulus_III,_Bulla_'In_Apostolatus_Culmine',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul03/p3inapost.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In apostolatus culmine",
+        "en-US": "In apostolatus culmine"
+      }
+    }
+  ]
+}

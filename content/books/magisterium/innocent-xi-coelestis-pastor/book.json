@@ -1,0 +1,40 @@
+{
+  "id": "innocent-xi-coelestis-pastor",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Coelestis Pastor"
+  },
+  "author": {
+    "en-US": "Pope Innocent XI",
+    "pt-BR": "Papa Inocêncio XI",
+    "la": "Innocentius PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent XI · 1687-11-20",
+    "pt-BR": "Documento · Papa Inocêncio XI · 1687-11-20"
+  },
+  "composed": "1687",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-xi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/innoc11/i11coel.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Coelestis Pastor"
+      }
+    }
+  ]
+}

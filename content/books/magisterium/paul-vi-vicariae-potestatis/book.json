@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-vicariae-potestatis",
+  "cover": "quarter",
+  "name": {
+    "la": "\"Vicariae potestatis in urbe\"",
+    "it": "Vicariae potestatis in urbe"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1977-01-06",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1977-01-06"
+  },
+  "composed": "1977",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19770106_vicariae-potestatis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19770106_vicariae-potestatis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "\"Vicariae potestatis in urbe\"",
+        "it": "Vicariae potestatis in urbe"
+      }
+    }
+  ]
+}

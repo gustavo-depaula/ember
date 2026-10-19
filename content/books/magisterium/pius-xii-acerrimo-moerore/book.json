@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-acerrimo-moerore",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad Ecx.mos PP.DD. Archiepiscopos et Episcopos Ungariae, die II m. Ianuarii, A.D. MCMXLIX - Pius PP. XII, Epistula",
+    "it": "Lettera agli Arcivescovi e Vescovi dell'Ungheria in occasione dell'arresto del Cardinale Mindszenty, Arcivescovo di Strigonia, da parte delle autorità ungheresi"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1949-01-02",
+    "pt-BR": "Carta · Papa Pio XII · 1949-01-02"
+  },
+  "composed": "1949",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/letters/documents/hf_p-xii_lett_19490102_acerrimo-moerore.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_19490102_acerrimo-moerore.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad Ecx.mos PP.DD. Archiepiscopos et Episcopos Ungariae, die II m. Ianuarii, A.D. MCMXLIX - Pius PP. XII, Epistula",
+        "it": "Lettera agli Arcivescovi e Vescovi dell'Ungheria in occasione dell'arresto del Cardinale Mindszenty, Arcivescovo di Strigonia, da parte delle autorità ungheresi"
+      }
+    }
+  ]
+}

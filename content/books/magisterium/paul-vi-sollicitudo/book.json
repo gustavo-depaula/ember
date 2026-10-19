@@ -1,0 +1,88 @@
+{
+  "id": "paul-vi-sollicitudo",
+  "cover": "quarter",
+  "name": {
+    "la": "Apostolica Sollicitudo - Synodus Episcoporum pro universa Ecclesia constituitur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Septembris, a. 1965, Paulus PP.VI",
+    "en-US": "Apostolica sollicitudo",
+    "pt-BR": "Apostolica sollicitudo",
+    "de": "Apostolica sollicitudo",
+    "es": "Apostolica sollicitudo",
+    "fr": "Apostolica sollicitudo",
+    "it": "Apostolica sollicitudo - Lettera Apostolica in forma di Motu Proprio sull'Istituzione del Sinodo dei vescovi per la Chiesa universale, 15 settembre 1965"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1965-09-15",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1965-09-15"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/apostolica-sollicitudo/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19650915_apostolica-sollicitudo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Apostolica Sollicitudo - Synodus Episcoporum pro universa Ecclesia constituitur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Septembris, a. 1965, Paulus PP.VI",
+        "en-US": "Apostolica sollicitudo",
+        "pt-BR": "Apostolica sollicitudo",
+        "de": "Apostolica sollicitudo",
+        "es": "Apostolica sollicitudo",
+        "fr": "Apostolica sollicitudo",
+        "it": "Apostolica sollicitudo - Lettera Apostolica in forma di Motu Proprio sull'Istituzione del Sinodo dei vescovi per la Chiesa universale, 15 settembre 1965"
+      }
+    }
+  ]
+}

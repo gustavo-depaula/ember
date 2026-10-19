@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-impensiore-caritate",
+  "cover": "quarter",
+  "name": {
+    "la": "Impensiore caritate, die XXVIII mensis Octobris, anno MDCCCCLI - Pius PP. XII, Litterae Apostolicae",
+    "it": "Impensiore caritate. - All'Episcopato, al clero e ai fedeli della Cecoslovacchia"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XII · 1951-10-28",
+    "pt-BR": "Carta Apostólica · Papa Pio XII · 1951-10-28"
+  },
+  "composed": "1951",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_letters/documents/hf_p-xii_apl_19511028_impensiore-caritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_letters/documents/hf_p-xii_apl_19511028_impensiore-caritate.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Impensiore caritate, die XXVIII mensis Octobris, anno MDCCCCLI - Pius PP. XII, Litterae Apostolicae",
+        "it": "Impensiore caritate. - All'Episcopato, al clero e ai fedeli della Cecoslovacchia"
+      }
+    }
+  ]
+}

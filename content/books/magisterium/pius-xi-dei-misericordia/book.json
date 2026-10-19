@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-dei-misericordia",
+  "cover": "quarter",
+  "name": {
+    "it": "Infinita Dei Misericordia"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius XI · 1924-05-29",
+    "pt-BR": "Bula · Papa Pio XI · 1924-05-29"
+  },
+  "composed": "1924",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/bulls/documents/hf_p-xi_bulls_19240529_dei-misericordia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Infinita Dei Misericordia"
+      }
+    }
+  ]
+}

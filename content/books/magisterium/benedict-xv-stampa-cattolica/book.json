@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-stampa-cattolica",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Il devoto indirizzo al conte Massimiliano Zara, Presidente generale della Società di San Paolo per la diffusione della stampa cattolica"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1916-07-22",
+    "pt-BR": "Carta · Papa Bento XV · 1916-07-22"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1916/documents/hf_ben-xv_let_19160722_stampa-cattolica.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Il devoto indirizzo al conte Massimiliano Zara, Presidente generale della Società di San Paolo per la diffusione della stampa cattolica"
+      }
+    }
+  ]
+}

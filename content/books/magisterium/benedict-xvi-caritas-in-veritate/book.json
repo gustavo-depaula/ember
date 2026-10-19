@@ -1,0 +1,152 @@
+{
+  "id": "benedict-xvi-caritas-in-veritate",
+  "cover": "quarter",
+  "name": {
+    "la": "Caritas in veritate, Litterae Encyclicae, De humana integra progressione in caritate veritateque, die 29 m. Iunii, a. 2009, Benedictus PP. XVI",
+    "en-US": "Caritas in veritate",
+    "pt-BR": "Caritas in veritate",
+    "ar": "Caritas in veritate - June 29, 2009",
+    "be": "Caritas in veritate - Lettera Enciclica, Benedetto XVI",
+    "de": "Caritas in veritate",
+    "es": "Caritas in veritate",
+    "fr": "Caritas in veritate",
+    "hu": "Caritas in veritate - Lettera Enciclica, Benedetto XVI",
+    "it": "Caritas in veritate",
+    "nl": "Caritas in veritate - Encycliek, Benedictus XVI",
+    "pl": "Caritas in veritate - Encyklika, Benedykta XVI",
+    "ru": "Caritas in Veritate",
+    "zh-CN": "Caritas in veritate",
+    "zh-TW": "Caritas in veritate"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XVI · 2009-06-29",
+    "pt-BR": "Encíclica · Papa Bento XVI · 2009-06-29"
+  },
+  "composed": "2009",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "nl",
+    "pl",
+    "ru",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/benedict-xvi/ar/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/content/benedict-xvi/be/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/benedict-xvi/hu/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "nl",
+      "url": "https://www.vatican.va/content/benedict-xvi/nl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/benedict-xvi/zh_cn/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/benedict-xvi/zh_tw/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Caritas in veritate, Litterae Encyclicae, De humana integra progressione in caritate veritateque, die 29 m. Iunii, a. 2009, Benedictus PP. XVI",
+        "en-US": "Caritas in veritate",
+        "pt-BR": "Caritas in veritate",
+        "ar": "Caritas in veritate - June 29, 2009",
+        "be": "Caritas in veritate - Lettera Enciclica, Benedetto XVI",
+        "de": "Caritas in veritate",
+        "es": "Caritas in veritate",
+        "fr": "Caritas in veritate",
+        "hu": "Caritas in veritate - Lettera Enciclica, Benedetto XVI",
+        "it": "Caritas in veritate",
+        "nl": "Caritas in veritate - Encycliek, Benedictus XVI",
+        "pl": "Caritas in veritate - Encyklika, Benedykta XVI",
+        "ru": "Caritas in Veritate",
+        "zh-CN": "Caritas in veritate",
+        "zh-TW": "Caritas in veritate"
+      }
+    }
+  ]
+}

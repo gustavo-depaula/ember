@@ -1,0 +1,37 @@
+# Cum Inter Nonnullos
+
+This English translation has been made from the latin text found in "EXTRAVAG. IOANN. XXII. TIT. XIV. DE VERBORUM SIGNIFICATIONE CAP V \[1\]", DECRETALIUM CCOLLECTIONES, AKADEMISCHE DRUCK - U. VERLAGSANSTALT GRAZ, 1959, which was published as as a second volumne of a reprint of the work "Codex Iuris Canonicis", ed. B. Tauchnitz, Leipzig,1879.
+
+Johnn XXII
+
+Bishop Servant of the Servants of God
+
+November 12, 1323 A.D. \[1\]
+
+The opinion, which asserts, that Christ and His disicples had nothing, and in regard to those things, which they did have, they had no right, is erroneous and heretical. This extravagant \[opinion\] is indeed striking, and has profound implications, which have been drawn from the founts of sacred scriputre. If one diligently inspects the preceding extravagant \[opinion\] and the one \[which\] follows \[it\], he would say, in my opinion, that it has been assigned this apt designation \[i.e. heretical\].
+
+1\. Since among not a few scholarly men \[2\] it often happens that there is called into doubt, whether to affirm pertinaciously, that Our Redeemer and \[3\] Lord Jesus Christ and His Apostles did not have anything individually, nor even in common, is to be censured as heretical, diverse \[4\] and opposite things being opined concerning it, We, desiring to put an end to this contest, after \[having taken\] the counsel of our brothers \[the cardinals\] by this perpetual edict do declare that a pertinacious assertion of this kind, when sacred scriptures, which assert in very many places that they had not a few things, expressly contradict it, and when it supposes openly that the same sacred scripture, through which certainly the articles of orthodox faith are proven in regards to the aforesaid things, contains the ferment of falsehood, and consequently, as much as regards these things, emptying all faith in them, it renders the Catholic Faith doubtful and uncertain, taking away its demonstration, is respectively to be censured erroneous and heretical.
+
+2\. Again to pertinaciously affirm in the preceeding \[matter\], that the right to use would not by any means have pertained to Our aforesaid Redeemer \[and\] to His Apostles for those \[things\] \[5\], which sacred scripture testifies they had had, or that they would not have had the right to sell or given them away, or on account of these \[the right\] to acquire them, which things nevertheless sacred scripture testifies that they did in regard to the aforesaid things, or supposes expressly that they could have acted thus, since such an assertion evidently would constrain that their use \[of things\] and their conduct, as regards the aforesaid things \[were\] not just, which certainly as regards the use, conduct or deeds of Our Redeemer, the Son of God, is wicked to opine, We do delcare, after \[having taken\] the counsel of our \[6\] brothers \[the cardinals\], this pertinacious assertion to be deservedly censured as contrary to sacred scripture, inimical to Catholic doctrine, and \[7\] heretical.
+
+Certainly therefore to no man it is lawful to infringe this page of our declarations, or by rash daring to oppose it. If anyone however \[should do so, let him know that he has incurred the rath of the Omnipotent God and of His Apostles, Peter and Paul.\]
+
+Given at Avignon, two days before the Ides of November, in the Seventh \[8\] year \[of Our Pontificate\]. \[i.e. 1323 A.D.\]
+
+John XXII
+
+1 - placed by Raynald in the year 1329 A. D. as no. 61, it is addressed: "To Our Venerable Brother Andrew, Bishop of Terracina, Our vicar for spiritual things in the City \[of Rome\]"; in ABM
+
+2 - "man": lacking in AB
+
+3 - "and": present in B : lacking in: AM
+
+4 - "different differences": present in. BM
+
+5 - originally "in \[regards to\] those \[things\]"
+
+6 - "of the same": present in AM
+
+7 - "and": present in M
+
+8 - "Eighth": present in ABMQ

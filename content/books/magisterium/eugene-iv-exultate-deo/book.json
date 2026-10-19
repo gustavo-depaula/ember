@@ -1,0 +1,48 @@
+{
+  "id": "eugene-iv-exultate-deo",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla Exultate Deo (22 Nov. 1439), de unione Armenorum",
+    "it": "Bolla Exultate Deo"
+  },
+  "author": {
+    "en-US": "Pope Eugene IV",
+    "pt-BR": "Papa Eugênio IV",
+    "la": "Eugenius PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Eugene IV · 1439-11-22",
+    "pt-BR": "Bula · Papa Eugênio IV · 1439-11-22"
+  },
+  "composed": "1439",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "eugene-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/eugenius-iv/la/documents/bulla-exultate-deo-22-nov-1439.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/eugenius-iv/it/documents/bulla-exultate-deo-22-nov-1439.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla Exultate Deo (22 Nov. 1439), de unione Armenorum",
+        "it": "Bolla Exultate Deo"
+      }
+    }
+  ]
+}

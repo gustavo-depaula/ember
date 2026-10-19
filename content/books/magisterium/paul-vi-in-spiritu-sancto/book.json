@@ -1,0 +1,80 @@
+{
+  "id": "paul-vi-in-spiritu-sancto",
+  "cover": "quarter",
+  "name": {
+    "la": "Concluding decree \"In Spiritu Sancto\" of the Second Vatican Ecumenical Council (December 8, 1965)",
+    "en-US": "Concluding decree \"In Spiritu Sancto\" of the Second Vatican Ecumenical Council",
+    "pt-BR": "Decreto de conclusão \"In Spiritu Sancto\" do Concílio Ecumênico Vaticano II",
+    "es": "Decreto «In Spiritu Sancto» de clausura del Concilio Ecuménico Vaticano II",
+    "it": "Decreto di chiusura \"In Spiritu Sancto\" del Concilio Ecumenico Vaticano II",
+    "lt": "In Spiritu Sancto, Littera Apostolica, Die 8 m. Decembris a. 1965, Paulus PP.VI"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1965-12-08",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1965-12-08"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it",
+    "lt"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1965-12-08,_SS_Paulus_VI,_Littera_'In_Spiritu_Sancto',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_letters/documents/hf_p-vi_apl_19651208_in-spiritu-sancto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/apost_letters/documents/hf_p-vi_apl_19651208_in-spiritu-sancto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_letters/documents/hf_p-vi_apl_19651208_in-spiritu-sancto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19651208_in-spiritu-sancto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lt",
+      "url": "https://www.vatican.va/content/paul-vi/lt/apost_letters/documents/hf_p-vi_apl_19651208_in-spiritu-sancto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Concluding decree \"In Spiritu Sancto\" of the Second Vatican Ecumenical Council (December 8, 1965)",
+        "en-US": "Concluding decree \"In Spiritu Sancto\" of the Second Vatican Ecumenical Council",
+        "pt-BR": "Decreto de conclusão \"In Spiritu Sancto\" do Concílio Ecumênico Vaticano II",
+        "es": "Decreto «In Spiritu Sancto» de clausura del Concilio Ecuménico Vaticano II",
+        "it": "Decreto di chiusura \"In Spiritu Sancto\" del Concilio Ecumenico Vaticano II",
+        "lt": "In Spiritu Sancto, Littera Apostolica, Die 8 m. Decembris a. 1965, Paulus PP.VI"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-singulare-illud",
+  "cover": "quarter",
+  "name": {
+    "la": "Singulare illud, Litterae Apostolicae, Ad R. P. Wlodimirum Ledóchowski, Praepositum Generalem Societatis Iesu, altero exeunte saeculo a decretis Aloysio Gonzagae sanctorum caelitum honoribus, d. 13 m. Iunii a. 1926, Pius PP. XI",
+    "it": "Singulare Illud: sulla figura di Luigi Gonzaga, patrono della gioventù cattolica"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XI · 1926-06-13",
+    "pt-BR": "Carta Apostólica · Papa Pio XI · 1926-06-13"
+  },
+  "composed": "1926",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/apost_letters/documents/hf_p-xi_apl_19260613_singulare-illud.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/apost_letters/documents/hf_p-xi_apl_19260613_singulare-illud.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Singulare illud, Litterae Apostolicae, Ad R. P. Wlodimirum Ledóchowski, Praepositum Generalem Societatis Iesu, altero exeunte saeculo a decretis Aloysio Gonzagae sanctorum caelitum honoribus, d. 13 m. Iunii a. 1926, Pius PP. XI",
+        "it": "Singulare Illud: sulla figura di Luigi Gonzaga, patrono della gioventù cattolica"
+      }
+    }
+  ]
+}

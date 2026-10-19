@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-pastorale-officium-18380814",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Pastorale officium"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1838-08-14",
+    "pt-BR": "Breve · Papa Gregório XVI · 1838-08-14"
+  },
+  "composed": "1838",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-pastorale-officium-14-agosto-1838.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Pastorale officium"
+      }
+    }
+  ]
+}

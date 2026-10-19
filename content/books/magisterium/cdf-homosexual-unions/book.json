@@ -1,0 +1,104 @@
+{
+  "id": "cdf-homosexual-unions",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Considerations Regarding Proposals To Give Legal Recognition To Unions Between Homosexual Persons",
+    "pt-BR": "Considerações sobre os projectos de reconhecimento legal das uniões entre pessoas homossexuais",
+    "de": "Erwägungen zu den Entwürfen einer rechtlichen Anerkennung der Lebensgemeinschaften zwischen homosexuellen Personen",
+    "es": "Consideraciones acerca de los proyectos de reconocimiento legal de las uniones entre personas homosexuales",
+    "fr": "Considérations à propos des projets de reconnaissance juridique des unions entre personnes homosexuelles",
+    "hu": "MEGFONTOLÁSOK az azonos nemű személyek együttéléseinek törvényes elismertetésére irányuló törekvésekről",
+    "it": "Considerazioni circa i progetti di riconoscimento legale delle unioni tra persone omosessuali",
+    "pl": "UWAGI DOTYCZĄCE PROJEKTÓW LEGALIZACJI ZWIĄZKÓW MIĘDZY OSOBAMI HOMOSEKSUALNYMI",
+    "sk": "ÚVAHY O NÁVRHOCH NA PRÁVNE UZNANIE ZVÄZKOV MEDZI HOMOSEXUÁLNYMI OSOBAMI"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2003-07-31",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2003-07-31"
+  },
+  "composed": "2003",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_sk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Considerations Regarding Proposals To Give Legal Recognition To Unions Between Homosexual Persons",
+        "pt-BR": "Considerações sobre os projectos de reconhecimento legal das uniões entre pessoas homossexuais",
+        "de": "Erwägungen zu den Entwürfen einer rechtlichen Anerkennung der Lebensgemeinschaften zwischen homosexuellen Personen",
+        "es": "Consideraciones acerca de los proyectos de reconocimiento legal de las uniones entre personas homosexuales",
+        "fr": "Considérations à propos des projets de reconnaissance juridique des unions entre personnes homosexuelles",
+        "hu": "MEGFONTOLÁSOK az azonos nemű személyek együttéléseinek törvényes elismertetésére irányuló törekvésekről",
+        "it": "Considerazioni circa i progetti di riconoscimento legale delle unioni tra persone omosessuali",
+        "pl": "UWAGI DOTYCZĄCE PROJEKTÓW LEGALIZACJI ZWIĄZKÓW MIĘDZY OSOBAMI HOMOSEKSUALNYMI",
+        "sk": "ÚVAHY O NÁVRHOCH NA PRÁVNE UZNANIE ZVÄZKOV MEDZI HOMOSEXUÁLNYMI OSOBAMI"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-quamvis-nostra",
+  "cover": "quarter",
+  "name": {
+    "es": "Lettera Quamvis Nostra al Cardinale Presbitero Sebastiano Leme de \nSilveira Cintra, Arcivescovo di San Sebastiano di Rio de Janeiro, sulla \ncarenza di sacerdoti in Brasile (27 ottobre 1935)",
+    "it": "Lettera Quamvis Nostra al Cardinale Presbitero Sebastiano Leme de Silveira Cintra, Arcivescovo di San Sebastiano di Rio de Janeiro, sulla carenza di sacerdoti in Brasile"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1935-10-27",
+    "pt-BR": "Carta · Papa Pio XI · 1935-10-27"
+  },
+  "composed": "1935",
+  "languages": [
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1935-10-27,_SS_Pius_XI,_Quamvis_Nostra,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19351027_quamvis-nostra.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Lettera Quamvis Nostra al Cardinale Presbitero Sebastiano Leme de \nSilveira Cintra, Arcivescovo di San Sebastiano di Rio de Janeiro, sulla \ncarenza di sacerdoti in Brasile (27 ottobre 1935)",
+        "it": "Lettera Quamvis Nostra al Cardinale Presbitero Sebastiano Leme de Silveira Cintra, Arcivescovo di San Sebastiano di Rio de Janeiro, sulla carenza di sacerdoti in Brasile"
+      }
+    }
+  ]
+}

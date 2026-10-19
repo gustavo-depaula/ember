@@ -1,0 +1,48 @@
+{
+  "id": "paul-iii-sublimis-deus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Sublimis Deus",
+    "pt-BR": "Sublimis Deus"
+  },
+  "author": {
+    "en-US": "Pope Paul III",
+    "pt-BR": "Papa Paulo III",
+    "la": "Paulus PP. III"
+  },
+  "description": {
+    "en-US": "Bull · Pope Paul III · 1537-06-02",
+    "pt-BR": "Bula · Papa Paulo III · 1537-06-02"
+  },
+  "composed": "1537",
+  "languages": [
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "paul-iii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul03/p3subli.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/sublimis-deus-paulo-iii-02-06-1537/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Sublimis Deus",
+        "pt-BR": "Sublimis Deus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-singulari-quidem-18670626",
+  "cover": "quarter",
+  "name": {
+    "la": "Allocutio Singulari quidem",
+    "en-US": "Singulari Quidem",
+    "it": "Singulari Quidem"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1867-06-26",
+    "pt-BR": "Alocução · Papa Pio IX · 1867-06-26"
+  },
+  "composed": "1867",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/allocutio-singulari-quidem-26-iunii-1867.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9singul.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1856-03-17,_SS_Pius_VIIII,_Singulari_Quidem,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Allocutio Singulari quidem",
+        "en-US": "Singulari Quidem",
+        "it": "Singulari Quidem"
+      }
+    }
+  ]
+}

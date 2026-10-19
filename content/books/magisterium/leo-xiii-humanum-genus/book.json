@@ -1,0 +1,80 @@
+{
+  "id": "leo-xiii-humanum-genus",
+  "cover": "quarter",
+  "name": {
+    "la": "Humanum genus",
+    "en-US": "Humanum Genus",
+    "pt-BR": "Humanum Genus: sobre a maçonaria",
+    "es": "Humanum\n Genus (April 20, 1884)",
+    "fr": "Humanum Genus",
+    "it": "Humanum Genus"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1884-04-20",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1884-04-20"
+  },
+  "composed": "1884",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1884-04-20,_SS_Leo_XIII,_Encyclica_'Humanum_Genus',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18840420_humanum-genus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Humanum genus",
+        "en-US": "Humanum Genus",
+        "pt-BR": "Humanum Genus: sobre a maçonaria",
+        "es": "Humanum\n Genus (April 20, 1884)",
+        "fr": "Humanum Genus",
+        "it": "Humanum Genus"
+      }
+    }
+  ]
+}

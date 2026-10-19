@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iv-universis-christi-fidelibus",
+  "cover": "quarter",
+  "name": {
+    "la": "Universis Christi Fidelibus"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent IV · 1250-10-01",
+    "pt-BR": "Documento · Papa Inocêncio IV · 1250-10-01"
+  },
+  "composed": "1250",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1250-10-01,_SS_Innocentius_IV,_Universis_Christi_Fidelibus,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Universis Christi Fidelibus"
+      }
+    }
+  ]
+}

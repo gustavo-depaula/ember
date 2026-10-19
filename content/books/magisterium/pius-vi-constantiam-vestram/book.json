@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-constantiam-vestram",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Constantiam vestram"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VI · 1798-11-10",
+    "pt-BR": "Breve · Papa Pio VI · 1798-11-10"
+  },
+  "composed": "1798",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/breve-constantiam-vestram-10-novembre-1798.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Constantiam vestram"
+      }
+    }
+  ]
+}

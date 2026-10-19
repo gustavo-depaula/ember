@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-nimiam-licentiam",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Nimiam Licentiam",
+    "it": "Breve Nimiam Licentiam"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XIV · 1743-03-18",
+    "pt-BR": "Breve · Papa Bento XIV · 1743-03-18"
+  },
+  "composed": "1743",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14nimia.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-nimiam-licentiam--i---18-maggio-1743--constatato-che-in.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Nimiam Licentiam",
+        "it": "Breve Nimiam Licentiam"
+      }
+    }
+  ]
+}

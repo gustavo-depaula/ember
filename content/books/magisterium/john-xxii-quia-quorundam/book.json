@@ -1,0 +1,48 @@
+{
+  "id": "john-xxii-quia-quorundam",
+  "cover": "quarter",
+  "name": {
+    "la": "Quia quorundam",
+    "en-US": "Quia quorundam"
+  },
+  "author": {
+    "en-US": "Pope John XXII",
+    "pt-BR": "Papa João XXII",
+    "la": "Ioannes PP. XXII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXII · 1316",
+    "pt-BR": "Documento · Papa João XXII · 1316"
+  },
+  "composed": "1316",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1316-1334,_SS_Ioannes_XXII,_Quia_Quorundam,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/john22/qquor-e.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quia quorundam",
+        "en-US": "Quia quorundam"
+      }
+    }
+  ]
+}

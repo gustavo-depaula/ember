@@ -1,0 +1,40 @@
+{
+  "id": "clement-xiv-dominus-ac-redemptor",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Dominus ac Redemptor"
+  },
+  "author": {
+    "en-US": "Pope Clement XIV",
+    "pt-BR": "Papa Clemente XIV",
+    "la": "Clemens PP. XIV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIV · 1773-07-21",
+    "pt-BR": "Breve · Papa Clemente XIV · 1773-07-21"
+  },
+  "composed": "1773",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiv/it/documents/breve-dominus-ac-redemptor-21-luglio-1773.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Dominus ac Redemptor"
+      }
+    }
+  ]
+}

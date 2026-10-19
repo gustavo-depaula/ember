@@ -1,0 +1,56 @@
+{
+  "id": "benedict-xv-in-hac-tanta",
+  "cover": "quarter",
+  "name": {
+    "la": "In hac tanta, Litterae Encyclicae, d. 14 m. Maii a. 1919, Benedicti PP. XV",
+    "en-US": "In Hac Tanta",
+    "it": "In Hac Tanta"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XV · 1919-05-14",
+    "pt-BR": "Encíclica · Papa Bento XV · 1919-05-14"
+  },
+  "composed": "1919",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xv/en/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/encyclicals/documents/hf_ben-xv_enc_14051919_in-hac-tanta.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In hac tanta, Litterae Encyclicae, d. 14 m. Maii a. 1919, Benedicti PP. XV",
+        "en-US": "In Hac Tanta",
+        "it": "In Hac Tanta"
+      }
+    }
+  ]
+}

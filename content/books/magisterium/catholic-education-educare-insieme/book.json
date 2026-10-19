@@ -1,0 +1,72 @@
+{
+  "id": "catholic-education-educare-insieme",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Educating Together in Catholic Schools. A Shared Mission between Consecrated Persons and the Lay Faithful",
+    "pt-BR": "Educar juntos na Escola Católica",
+    "es": "Educar juntos en la escuela católica",
+    "fr": "Eduquer ensemble dans l’école catholique. Mission partagée par les personnes consacrées et de fidèles laïcs",
+    "it": "Educare insieme nella scuola cattolica. Missione condivisa di persone consacrate e fedeli laici"
+  },
+  "author": {
+    "en-US": "Dicastery for Culture and Education",
+    "pt-BR": "Dicastério para a Cultura e a Educação",
+    "la": "Dicasterium de Cultura et Educatione"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Culture and Education · 2007-09-08",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Cultura e a Educação · 2007-09-08"
+  },
+  "composed": "2007",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "catholic-education"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20070908_educare-insieme_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20070908_educare-insieme_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20070908_educare-insieme_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20070908_educare-insieme_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_20070908_educare-insieme_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Educating Together in Catholic Schools. A Shared Mission between Consecrated Persons and the Lay Faithful",
+        "pt-BR": "Educar juntos na Escola Católica",
+        "es": "Educar juntos en la escuela católica",
+        "fr": "Eduquer ensemble dans l’école catholique. Mission partagée par les personnes consacrées et de fidèles laïcs",
+        "it": "Educare insieme nella scuola cattolica. Missione condivisa di persone consacrate e fedeli laici"
+      }
+    }
+  ]
+}

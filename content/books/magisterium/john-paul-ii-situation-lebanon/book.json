@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-situation-lebanon",
+  "cover": "quarter",
+  "name": {
+    "es": "Carta Apostólica sobre la situación en Líbano",
+    "fr": "A tous les évêques de l'Eglise Catholique sur la situation du Liban, 3 septembre 1989, Jean-Paul II",
+    "it": "Messaggio ai Vescovi sulla situazione civile e politica del Libano"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1989-09-07",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1989-09-07"
+  },
+  "composed": "1989",
+  "languages": [
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1989/documents/hf_jp-ii_apl_19890907_situation-lebanon.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1989/documents/hf_jp-ii_apl_07091989_situation-lebanon.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1989/documents/hf_jp-ii_apl_07091989_situation-lebanon.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Carta Apostólica sobre la situación en Líbano",
+        "fr": "A tous les évêques de l'Eglise Catholique sur la situation du Liban, 3 septembre 1989, Jean-Paul II",
+        "it": "Messaggio ai Vescovi sulla situazione civile e politica del Libano"
+      }
+    }
+  ]
+}

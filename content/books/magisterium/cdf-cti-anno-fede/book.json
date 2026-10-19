@@ -1,0 +1,80 @@
+{
+  "id": "cdf-cti-anno-fede",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Message of the International Theological Commission on the occasion of the Year of Faith, 16 October 2012",
+    "es": "Mensaje de la Comisión Teológica Internacional con ocasión del Año de la fe, 16 octubre 2012",
+    "fr": "Message de la Commission théologique internationale à l’occasion de l’année de la foi, 16 octobre 2012",
+    "hu": "A Nemzetközi Teológiai Bizottság közleménye a Hit éve alkalmából",
+    "it": "Messaggio della Commissione Teologica Internazionale in occasione dell’Anno della fede, 16 ottobre 2012",
+    "ko": "Message of the International Theological Commission on the occasion of the Year of Faith, 16 October 2012"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2012-10-16",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2012-10-16"
+  },
+  "composed": "2012",
+  "languages": [
+    "en-US",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "ko"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20121016_messaggio-anno-fede_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20121016_messaggio-anno-fede_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20121016_messaggio-anno-fede_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20121016_messaggio-anno-fede_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20121016_messaggio-anno-fede_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20121016_messaggio-anno-fede_ko.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Message of the International Theological Commission on the occasion of the Year of Faith, 16 October 2012",
+        "es": "Mensaje de la Comisión Teológica Internacional con ocasión del Año de la fe, 16 octubre 2012",
+        "fr": "Message de la Commission théologique internationale à l’occasion de l’année de la foi, 16 octobre 2012",
+        "hu": "A Nemzetközi Teológiai Bizottság közleménye a Hit éve alkalmából",
+        "it": "Messaggio della Commissione Teologica Internazionale in occasione dell’Anno della fede, 16 ottobre 2012",
+        "ko": "Message of the International Theological Commission on the occasion of the Year of Faith, 16 October 2012"
+      }
+    }
+  ]
+}

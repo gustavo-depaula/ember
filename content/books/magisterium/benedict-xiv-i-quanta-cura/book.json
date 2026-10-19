@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xiv-i-quanta-cura",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quanta Cura",
+    "it": "Breve Quanta Cura"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XIV · 1741-06-30",
+    "pt-BR": "Breve · Papa Bento XIV · 1741-06-30"
+  },
+  "composed": "1741",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14quant.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/breve--i-quanta-cura--i---30-giugno-1741--sdegnata-condanna-cont.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quanta Cura",
+        "it": "Breve Quanta Cura"
+      }
+    }
+  ]
+}

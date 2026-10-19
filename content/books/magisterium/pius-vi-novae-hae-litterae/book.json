@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-novae-hae-litterae",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Novae hae litterae"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius VI · 1792-03-19",
+    "pt-BR": "Encíclica · Papa Pio VI · 1792-03-19"
+  },
+  "composed": "1792",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/enciclica-novae-hae-litterae-19-marzo-1792.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Novae hae litterae"
+      }
+    }
+  ]
+}

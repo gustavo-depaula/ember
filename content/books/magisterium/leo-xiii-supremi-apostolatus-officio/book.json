@@ -1,0 +1,80 @@
+{
+  "id": "leo-xiii-supremi-apostolatus-officio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Supremi Apostolatus Officio",
+    "pt-BR": "Supremi Apostolatus Officio: sobre o Rosário de Nossa Senhora",
+    "de": "Supremi Apostolatus Officio (September 1, 1883)",
+    "es": "Supremi Apostolatus Officio",
+    "fr": "Supremi Apostolatus Officio",
+    "it": "Supremi Apostolatus Officio"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1883-09-01",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1883-09-01"
+  },
+  "composed": "1883",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1883-09-01,_SS_Leo_XIII,_Supremi_Apostolatus,_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_01091883_supremi-apostolatus-officio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Supremi Apostolatus Officio",
+        "pt-BR": "Supremi Apostolatus Officio: sobre o Rosário de Nossa Senhora",
+        "de": "Supremi Apostolatus Officio (September 1, 1883)",
+        "es": "Supremi Apostolatus Officio",
+        "fr": "Supremi Apostolatus Officio",
+        "it": "Supremi Apostolatus Officio"
+      }
+    }
+  ]
+}

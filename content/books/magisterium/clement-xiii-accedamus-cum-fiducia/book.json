@@ -1,0 +1,40 @@
+{
+  "id": "clement-xiii-accedamus-cum-fiducia",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Accedamus cum fiducia"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIII · 1768-06-25",
+    "pt-BR": "Breve · Papa Clemente XIII · 1768-06-25"
+  },
+  "composed": "1768",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/breve-accedamus-cum-fiducia-25-giugno-1768.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Accedamus cum fiducia"
+      }
+    }
+  ]
+}

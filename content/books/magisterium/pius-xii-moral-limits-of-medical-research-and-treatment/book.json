@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-moral-limits-of-medical-research-and-treatment",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Moral Limits Of Medical Research And Treatment"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1952-09-14",
+    "pt-BR": "Documento · Papa Pio XII · 1952-09-14"
+  },
+  "composed": "1952",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12psych.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Moral Limits Of Medical Research And Treatment"
+      }
+    }
+  ]
+}

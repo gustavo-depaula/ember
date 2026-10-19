@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-maximam-gravissimamque",
+  "cover": "quarter",
+  "name": {
+    "la": "Maximam gravissimamque, Litterae Encyclicae, De consociationibus dioecesanis, d. 18 m. Ianuarii a. 1924, Pius PP. XI",
+    "en-US": "Maximam Gravissimamque",
+    "it": "Maximam Gravissimamque"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1924-01-18",
+    "pt-BR": "Encíclica · Papa Pio XI · 1924-01-18"
+  },
+  "composed": "1924",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19240118_maximam-gravissimamque.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Maximam gravissimamque, Litterae Encyclicae, De consociationibus dioecesanis, d. 18 m. Ianuarii a. 1924, Pius PP. XI",
+        "en-US": "Maximam Gravissimamque",
+        "it": "Maximam Gravissimamque"
+      }
+    }
+  ]
+}

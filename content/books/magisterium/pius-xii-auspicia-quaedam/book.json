@@ -1,0 +1,64 @@
+{
+  "id": "pius-xii-auspicia-quaedam",
+  "cover": "quarter",
+  "name": {
+    "la": "Auspicia Quaedam (May 1, 1948)",
+    "en-US": "Auspicia Quaedam",
+    "pt-BR": "Auspicia Quaedam",
+    "it": "Auspicia Quaedam"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1948-05-01",
+    "pt-BR": "Encíclica · Papa Pio XII · 1948-05-01"
+  },
+  "composed": "1948",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1948-05-01,_SS_Pius_XII,_Encyclica._Auspicia_Quaedam,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01051948_auspicia-quaedam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01051948_auspicia-quaedam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01051948_auspicia-quaedam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Auspicia Quaedam (May 1, 1948)",
+        "en-US": "Auspicia Quaedam",
+        "pt-BR": "Auspicia Quaedam",
+        "it": "Auspicia Quaedam"
+      }
+    }
+  ]
+}

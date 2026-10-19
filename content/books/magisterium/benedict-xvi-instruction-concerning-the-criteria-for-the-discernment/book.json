@@ -1,0 +1,39 @@
+{
+  "id": "benedict-xvi-instruction-concerning-the-criteria-for-the-discernment",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Instruction Concerning the Criteria for the Discernment of Vocations with Regard to Persons with Homosexual Tendencies in View of Their Admission to the Seminary and to Holy Orders"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Instruction · Pope Benedict XVI",
+    "pt-BR": "Instrução · Papa Bento XVI"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "instruction",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben16/instructions.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Instruction Concerning the Criteria for the Discernment of Vocations with Regard to Persons with Homosexual Tendencies in View of Their Admission to the Seminary and to Holy Orders"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-ad-purpuratorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad Purpuratorum Patrum Collegium - De loco Patriarcharum Orientalium in Sacro Cardinalium Collegio, Litterae Apostolicae Motu Proprio datae, Die 11 m. Februarii, a. 1965, Paulus PP.VI",
+    "it": "Ad purpuratorum Patrum Collegium - Lettera Apostolica in forma di Motu Proprio sul posto dei Patriarchi Orientali nel Collegio dei cardinali"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1965-02-11",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1965-02-11"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19650211_ad-purpuratorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19650211_ad-purpuratorum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad Purpuratorum Patrum Collegium - De loco Patriarcharum Orientalium in Sacro Cardinalium Collegio, Litterae Apostolicae Motu Proprio datae, Die 11 m. Februarii, a. 1965, Paulus PP.VI",
+        "it": "Ad purpuratorum Patrum Collegium - Lettera Apostolica in forma di Motu Proprio sul posto dei Patriarchi Orientali nel Collegio dei cardinali"
+      }
+    }
+  ]
+}

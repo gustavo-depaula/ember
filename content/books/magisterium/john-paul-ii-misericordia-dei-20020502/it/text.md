@@ -1,0 +1,145 @@
+# Lettera Apostolica in forma di Motu proprio Misericordia Dei su alcuni aspetti della celebrazione del Sacramento della Penitenza
+
+**GIOVANNI PAOLO II**
+
+LETTERA APOSTOLICA  
+IN FORMA DI «MOTU PROPRIO»
+
+***MISERICORDIA DEI***
+
+SU ALCUNI ASPETTI DELLA CELEBRAZIONE  
+DEL SACRAMENTO DELLA PENITENZA
+
+Per la misericordia di Dio, Padre che riconcilia, il Verbo prese carne nel grembo purissimo della Beata Vergine Maria per salvare «il suo popolo dai suoi peccati» (*Mt* 1, 21) e aprirgli «la via della eterna salvezza».^(([^1])) San Giovanni Battista conferma questa missione indicando in Gesù l'«Agnello di Dio», «colui che toglie il peccato del mondo» (*Gv* 1, 29). Tutta l'opera e la predicazione del Precursore è una chiamata energica e calorosa alla penitenza e alla conversione, il cui segno è il battesimo amministrato nelle acque del Giordano. Lo stesso Gesù si è sottomesso a quel rito penitenziale (cfr *Mt* 3, 13- 17), non perché abbia peccato, ma perché «Egli si lascia annoverare tra i peccatori; è già “l'Agnello di Dio che toglie il peccato del mondo” (*Gv* 1, 29); già anticipa il “battesimo” della sua morte cruenta».^(([^2])) La salvezza è, dunque e innanzitutto, redenzione dal peccato quale impedimento all'amicizia con Dio, e liberazione dallo stato di schiavitù nel quale si trova l'uomo, che ha ceduto alla tentazione del Maligno e ha perso la libertà dei figli di Dio (cfr *Rm* 8, 21).
+
+La missione affidata da Cristo agli Apostoli è l'annuncio del Regno di Dio e la predicazione del Vangelo in vista della conversione (cfr *Mc* 16, 15; *Mt* 28, 18-20). La sera dello stesso giorno della sua Risurrezione, quando è imminente l'inizio della missione apostolica, Gesù dona agli Apostoli, in virtù della forza dello Spirito Santo, il potere di riconciliare con Dio e con la Chiesa i peccatori pentiti: «Ricevete lo Spirito Santo; a chi rimetterete i peccati saranno rimessi e a chi non li rimetterete, resteranno non rimessi» (*Gv* 20, 22-23).^(([^3]))
+
+Lungo la storia e nell'ininterrotta prassi della Chiesa «il ministero della riconciliazione» (*2 Cor* 5, 18), donata mediante i sacramenti del Battesimo e della Penitenza, si è dimostrato un impegno pastorale sempre vivamente sentito, compiuto in ossequio al mandato di Gesù come parte essenziale del ministero sacerdotale. La celebrazione del sacramento della Penitenza ha avuto nel corso dei secoli uno sviluppo che ha conosciuto diverse forme espressive, sempre, però, conservando la medesima struttura fondamentale che comprende necessariamente, oltre all'intervento del ministro — soltanto un Vescovo o un presbitero, che giudica e assolve, cura e guarisce nel nome di Cristo — gli atti del penitente: la contrizione, la confessione e la soddisfazione.
+
+Nella Lettera apostolica *[Novo millennio ineunte](/content/john-paul-ii/it/apost_letters/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)* ho scritto: «Un rinnovato coraggio pastorale vengo poi a chiedere perché la quotidiana pedagogia delle comunità cristiane sappia proporre in modo suadente ed efficace la pratica del *sacramento della Riconciliazione*. Come ricorderete, nel 1984 intervenni su questo tema con l'Esortazione postsinodale *[Reconciliatio et paenitentia](/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html)*, che raccoglieva i frutti di riflessione di un'Assemblea generale del Sinodo dei Vescovi dedicata a questa problematica. Invitavo allora a fare ogni sforzo per fronteggiare la crisi del “senso del peccato” (...) Quando il menzionato Sinodo affrontò il problema, stava sotto gli occhi di tutti la crisi del Sacramento, specialmente in alcune regioni del mondo. I motivi che ne erano all'origine non sono svaniti in questo breve arco di tempo. Ma l'Anno giubilare, che è stato particolarmente caratterizzato dal ricorso alla Penitenza sacramentale, ci ha offerto un messaggio incoraggiante, da non lasciar cadere: se molti, e tra essi anche tanti giovani, si sono accostati con frutto a questo Sacramento, probabilmente è necessario che i Pastori si armino di maggior fiducia, creatività e perseveranza nel presentarlo e farlo valorizzare».^(([^4]))
+
+Con queste parole ho inteso e intendo far coraggio e, nello stesso tempo, rivolgere un forte invito ai miei confratelli Vescovi — e, attraverso di essi, a tutti i presbiteri — per un sollecito rilancio del sacramento della Riconciliazione, anche come esigenza di autentica carità e di vera giustizia pastorale,^(([^5])) ricordando loro che ogni fedele, con le dovute disposizioni interiori, ha diritto a ricevere personalmente il dono sacramentale.
+
+Affinché il discernimento sulle disposizioni dei penitenti in ordine alla remissione o meno, e all'imposizione dell'opportuna penitenza da parte del ministro del Sacramento possa essere attuato, occorre che il fedele, oltre alla coscienza dei peccati commessi, al dolore per essi e alla volontà di non più ricaderci,^(([^6])) confessi i suoi peccati. In questo senso, il Concilio di Trento dichiarò che è necessario «per diritto divino confessare tutti e singoli i peccati mortali».^(([^7])) La Chiesa ha visto sempre un nesso essenziale tra il giudizio affidato ai sacerdoti in questo Sacramento e la necessità che i penitenti dichiarino i propri peccati,^(([^8])) tranne in caso di impossibilità. Pertanto, essendo la confessione completa dei peccati gravi per istituzione divina parte costitutiva del Sacramento, essa non resta in alcun modo affidata alla libera disponibilità dei Pastori (dispensa, interpretazione, consuetudini locali, ecc.). La competente Autorità ecclesiastica specifica unicamente — nelle relative norme disciplinari — i criteri per distinguere l'impossibilità reale di confessare i peccati da altre situazioni in cui l'impossibilità è solo apparente o comunque superabile.
+
+Nelle attuali circostanze pastorali, venendo incontro alle preoccupate richieste di numerosi Fratelli nell'Episcopato, considero conveniente richiamare alcune delle leggi canoniche vigenti circa la celebrazione di questo Sacramento, precisandone qualche aspetto per favorire in spirito di comunione con la responsabilità che è propria dell'intero Episcopato^(([^9])) una sua migliore amministrazione. Si tratta di rendere effettiva e di tutelare una celebrazione sempre più fedele, e pertanto sempre più fruttifera, del dono affidato alla Chiesa dal Signore Gesù dopo la risurrezione (cfr *Gv* 20, 19-23). Ciò appare specialmente necessario dal momento che si osserva in alcune regioni la tendenza all'abbandono della confessione personale insieme ad un ricorso abusivo all'«assoluzione generale» o «collettiva», sicché essa non appare come mezzo straordinario in situazioni del tutto eccezionali. Sulla base di un allargamento arbitrario del requisito della *grave necessità*,^(([^10])) si perde di vista in pratica la fedeltà alla configurazione divina del Sacramento, e concretamente la necessità della confessione individuale, con gravi danni per la vita spirituale dei fedeli e per la santità della Chiesa.
+
+Pertanto, dopo aver sentito in merito la Congregazione per la Dottrina della Fede, la Congregazione per il Culto Divino e la Disciplina dei Sacramenti e il Pontificio Consiglio per i Testi Legislativi, nonché i pareri di venerati Fratelli Cardinali preposti ai Dicasteri della Curia Romana, ribadendo la dottrina cattolica riguardo al sacramento della Penitenza e della Riconciliazione, esposta sinteticamente nel [Catechismo della Chiesa Cattolica](http://www.vatican.va/archive/catechism_it/index_it.htm),^(([^11])) cosciente della mia responsabilità pastorale e con piena consapevolezza della necessità ed efficacia sempre attuali di questo Sacramento, dispongo quanto segue:
+
+1\. Gli Ordinari ricordino a tutti i ministri del sacramento della Penitenza che la legge universale della Chiesa ha ribadito, in applicazione della dottrina cattolica in materia, che:
+
+*a*) «La confessione individuale e integra e l'assoluzione costituiscono l'unico modo ordinario con cui il fedele, consapevole di peccato grave, è riconciliato con Dio e con la Chiesa; solamente una impossibilità fisica o morale scusa da una tale confessione, nel qual caso la riconciliazione si può ottenere anche in altri modi».^(([^12]))
+
+*b*) Perciò, «tutti coloro cui è demandata in forza dell'ufficio la cura delle anime, sono tenuti all'obbligo di provvedere che siano ascoltate le confessioni dei fedeli a loro affidati, che ragionevolmente lo chiedano, e che sia ad essi data l'opportunità di accostarsi alla confessione individuale, stabiliti, per loro comodità, giorni e ore».^(([^13]))
+
+Inoltre, tutti i sacerdoti che hanno la facoltà di amministrare il sacramento della Penitenza, si mostrino sempre e pienamente disposti ad amministrarlo ogniqualvolta i fedeli ne facciano ragionevolmente richiesta.^(([^14])) La mancanza di disponibilità ad accogliere le pecore ferite, anzi, ad andare loro incontro per ricondurle all'ovile, sarebbe un doloroso segno di carenza di senso pastorale in chi, per l'Ordinazione sacerdotale, deve portare in sé l'immagine del Buon Pastore.
+
+2\. Gli Ordinari del luogo, nonché i parroci e i rettori di chiese e santuari, devono verificare periodicamente che di fatto esistano le massime facilitazioni possibili per le confessioni dei fedeli. In particolare, si raccomanda la presenza visibile dei confessori nei luoghi di culto durante gli orari previsti, l'adeguamento di questi orari alla situazione reale dei penitenti, e la speciale disponibilità per confessare prima delle Messe e anche per venire incontro alla necessità dei fedeli durante la celebrazione delle SS. Messe, se sono disponibili altri sacerdoti.^(([^15]))
+
+3\. Poiché «il fedele è tenuto all'obbligo di confessare secondo la specie e il numero tutti i peccati gravi commessi dopo il Battesimo e non ancora direttamente rimessi mediante il potere delle chiavi della Chiesa, né accusati nella confessione individuale, dei quali abbia coscienza dopo un diligente esame»,^(([^16])) va riprovato qualsiasi uso che limiti la confessione ad un'accusa generica o soltanto di uno o più peccati ritenuti più significativi. D'altra parte, e tenendo conto della chiamata di tutti i fedeli alla santità, si raccomanda loro di confessare anche i peccati veniali.^(([^17]))
+
+4\. Alla luce e nel contesto delle norme precedenti, deve essere compresa e rettamente applicata l'assoluzione a più penitenti insieme senza la previa confessione individuale, prevista al can. 961 del Codice di Diritto Canonico. Essa, infatti, «riveste un carattere di eccezionalità»^(([^18])) e «non può essere impartita in modo generale se non:
+
+1º vi sia imminente pericolo di morte ed al sacerdote o ai sacerdoti non basti il tempo per ascoltare le confessioni dei singoli penitenti;
+
+2º vi sia *grave necessità*, ossia quando, dato il numero dei penitenti, non si hanno a disposizione confessori sufficienti per ascoltare, come si conviene, le confessioni dei singoli entro un tempo conveniente, sicché i penitenti, senza loro colpa, sarebbero costretti a rimanere a lungo privi della grazia sacramentale o della sacra comunione; però la necessità non si considera sufficiente quando non possono essere a disposizione dei confessori, per la sola ragione di una grande affluenza di penitenti, quale può aversi in occasione di una grande festa o di un pellegrinaggio».^(([^19]))
+
+Circa il caso di *grave necessità*, si precisa quanto segue:
+
+*a*) Si tratta di situazioni che, oggettivamente, sono eccezionali, come quelle che si possono verificare in territori di missione o in comunità di fedeli isolati, dove il sacerdote può passare soltanto una o poche volte l'anno o quando le condizioni belliche, meteorologiche o altre simili circostanze lo consentano.
+
+*b*) Le due condizioni stabilite nel canone per configurare la grave necessità sono inseparabili, per cui non è mai sufficiente la sola impossibilità di confessare «come si conviene» i singoli entro «un tempo conveniente» a causa della scarsità di sacerdoti; tale impossibilità deve essere unita al fatto che altrimenti i penitenti sarebbero costretti a rimanere «a lungo», senza loro colpa, privi della grazia sacramentale. Si debbono perciò tener presenti le circostanze complessive dei penitenti e della diocesi, per quanto attiene l'organizzazione pastorale di questa e la possibilità di accesso dei fedeli al sacramento della Penitenza.
+
+*c*) La prima condizione, l'impossibilità di poter ascoltare le confessioni «come si conviene» «entro un tempo conveniente», fa riferimento solo al tempo ragionevolmente richiesto per l'essenziale amministrazione valida e degna del Sacramento, non essendo rilevante a tale riguardo un colloquio pastorale più lungo, che può essere rimandato a circostanze più favorevoli. Questo tempo ragionevolmente conveniente, entro cui ascoltare le confessioni, dipenderà dalle possibilità reali del confessore o confessori e degli stessi penitenti.
+
+*d*) Circa la seconda condizione, sarà un giudizio prudenziale a valutare quanto lungo debba essere il tempo di privazione della grazia sacramentale affinché si abbia vera impossibilità a norma del can. 960, allorché non vi sia imminente pericolo di morte. Tale giudizio non è prudenziale se stravolge il senso dell'impossibilità fisica o morale, come accadrebbe se, ad esempio, si considerasse che un tempo inferiore a un mese implicherebbe rimanere «a lungo» in simile privazione.
+
+*e*) Non è ammissibile il creare o il permettere che si creino situazioni di apparente *grave necessità*, derivanti dalla mancata amministrazione ordinaria del Sacramento per inosservanza delle norme sopra ricordate^(([^20])) e tanto meno, dall'opzione dei penitenti in favore dell'assoluzione in modo generale, come se si trattasse di una possibilità normale ed equivalente alle due forme ordinarie descritte nel Rituale.
+
+*f*) La sola grande affluenza di penitenti non costituisce sufficiente necessità, non soltanto in occasione di una festa solenne o di un pellegrinaggio, ma neppure per turismo o altre simili ragioni dovute alla crescente mobilità delle persone.
+
+5\. Giudicare se ricorrano le condizioni richieste a norma del can. 961, § 1, 2º, non spetta al confessore, ma «al Vescovo diocesano, il quale, tenuto conto dei criteri concordati con gli altri membri della Conferenza Episcopale, può determinare i casi di tale necessità».^(([^21])) Tali criteri pastorali dovranno essere espressione della ricerca della totale fedeltà, nelle circostanze dei rispettivi territori, ai criteri di fondo espressi dalla disciplina universale della Chiesa, i quali peraltro poggiano sulle esigenze derivanti dallo stesso sacramento della Penitenza nella sua divina istituzione.
+
+6\. Essendo di fondamentale importanza, in una materia tanto essenziale per la vita della Chiesa, la piena armonia tra i vari Episcopati del mondo, le Conferenze Episcopali, a norma del can. 455 § 2 del C.I.C., faranno pervenire quanto prima alla Congregazione per il Culto Divino e la Disciplina dei Sacramenti il testo delle norme che esse intendono emanare oppure aggiornare, alla luce del presente *Motu proprio* sull'applicazione del can. 961 del C.I.C. Ciò non mancherà di favorire una sempre più grande comunione tra i Vescovi di tutta la Chiesa, spingendo ovunque i fedeli ad attingere abbondantemente alle fonti della misericordia divina, sempre zampillanti nel sacramento della Riconciliazione.
+
+In questa prospettiva di comunione sarà pure opportuno che i Vescovi diocesani riferiscano alle rispettive Conferenze Episcopali circa il verificarsi o meno, nell'ambito della loro giurisdizione, di casi di *grave necessità*. Sarà poi compito delle Conferenze Episcopali informare la predetta Congregazione circa la situazione di fatto esistente nel loro territorio e sugli eventuali mutamenti che dovessero in seguito registrarsi.
+
+7\. Quanto alle disposizioni personali dei penitenti viene ribadito che:
+
+*a*) «Affinché un fedele usufruisca validamente dell'assoluzione sacramentale impartita simultaneamente a più persone, si richiede che non solo sia ben disposto, ma insieme faccia il proposito di confessare a tempo debito i singoli peccati gravi, che al momento non può confessare».^(([^22]))
+
+*b*) Per quanto è possibile, anche nel caso di imminente pericolo di morte, venga premessa ai fedeli «l'esortazione che ciascuno provveda a porre l'atto di contrizione».^(([^23]))
+
+*c*) È chiaro che non possono ricevere validamente l'assoluzione i penitenti che vivono in stato abituale di peccato grave e non intendono cambiare la loro situazione. 
+
+8\. Fermo restando l'obbligo «di confessare i propri peccati gravi almeno una volta all'anno»,^(([^24])) «colui al quale sono rimessi i peccati gravi mediante l'assoluzione generale, si accosti quanto prima, offrendosene l'occasione, alla confessione individuale, prima che abbia a ricevere un'altra assoluzione generale, a meno che non sopraggiunga una giusta causa».^(([^25]))
+
+9\. Circa il *luogo* e la *sede* per la celebrazione del Sacramento, si tenga presente che:
+
+*a*) «il luogo proprio per ricevere le confessioni sacramentali è la chiesa o l'oratorio»,^(([^26])) pur restando chiaro che ragioni di ordine pastorale possono giustificare la celebrazione del Sacramento in luoghi diversi;^(([^27]))
+
+*b*) la sede per le confessioni è disciplinata dalle norme emanate dalle rispettive Conferenze Episcopali, le quali garantiranno che essa sia collocata «in luogo visibile» e sia anche «provvista di grata fissa», così da consentire ai fedeli ed agli stessi confessori che lo desiderano di potersene liberamente servire.^(([^28]))
+
+Tutto ciò che con la presente Lettera apostolica in forma di *Motu proprio* ho stabilito, ordino che abbia pieno e durevole valore e sia osservato a partire da questo giorno, nonostante qualsiasi altra disposizione in contrario. Quanto ho stabilito con questa Lettera ha valore, per sua natura, anche per le venerande Chiese Orientali Cattoliche, in conformità ai rispettivi canoni del Codice loro proprio.
+
+*Dato a Roma, presso San Pietro, il 7 del mese di aprile, Domenica nell'Ottava di Pasqua o della Divina Misericordia, nell'anno del Signore 2002, ventiquattresimo di Pontificato.*
+
+**GIOVANNI PAOLO II**
+
+------------------------------------------------------------------------
+
+[^1]: ^([1](#fnref1)))*Messale Romano*, Prefazio dell'Avvento I.
+
+[^2]: ^([2](#fnref2)))*Catechismo della Chiesa Cattolica*, 536.
+
+[^3]: ^([3](#fnref3)))Cfr Conc. Ecum.Tridentino, sess. XIV, *De sacramento paenitentiae,* can 3: *DS* 1703.
+
+[^4]: ^([4](#fnref4)))N. 37: *AAS* 93 (2001) 292.
+
+[^5]: ^([5](#fnref5)))Cfr C.I.C., cann. 213 e 843, § 1.
+
+[^6]: ^([6](#fnref6)))Cfr Conc. Ecum. Tridentino, sess. XIV, *Doctrina de sacramento paenitentiae*, cap. 4: *DS* 1676.
+
+[^7]: ^([7](#fnref7)))*Ibid.*, can. 7: *DS* 1707.
+
+[^8]: ^([8](#fnref8)))Cfr *ibid.,* cap. 5: *DS* 1679; Conc.Ecum. Fiorentino, *Decr. pro Armeniis*: *DS* 1323.
+
+[^9]: ^([9](#fnref9)))Cfr can. 392; Conc.Ecum. Vat. II, Cost. dogm. sulla Chiesa *Lumen gentium*, 23.27; Decr. sull'ufficio pastorale dei Vescovi *Christus Dominus*, 16.
+
+[^10]: ^([10](#fnref10)))Cfr can. 961, § 1, 2º.
+
+[^11]: ^([11](#fnref11)))Cfr nn. 980-987; 1114-1134; 1420-1498.
+
+[^12]: ^([12](#fnref12)))Can. 960.
+
+[^13]: ^([13](#fnref13)))Can. 986, § 1.
+
+[^14]: ^([14](#fnref14)))Cfr Conc.Ecum. Vat. II, Decr. sul ministero e la vita dei presbiteri *Presbyterorum ordinis*, 13; *Ordo Paenitentiae, Praenotanda,* n. 10, b, *editio typica*, 1974.
+
+[^15]: ^([15](#fnref15)))Cfr Congr. per il Culto Divino e la Disciplina dei Sacramenti, *Responsa ad dubia proposita:* «Notitiae», 37 (2001), 259-260.
+
+[^16]: ^([16](#fnref16)))Can. 988, § 1.
+
+[^17]: ^([17](#fnref17)))Cfr can. 988, § 2; Giovanni Paolo II, Esort. ap. post-sinodale *Reconciliatio et paenitentia* (2 dicembre 1984), 32: *AAS* 77 (1985) 267; *Catechismo della Chiesa Cattolica*, 1458.
+
+[^18]: ^([18](#fnref18)))Giovanni Paolo II, Esort. ap. post-sinodale *Reconciliatio et paenitentia* (2 dicembre 1984), 32: *AAS* 77 (1985) 267.
+
+[^19]: ^([19](#fnref19)))Can. 961, § 1.
+
+[^20]: ^([20](#fnref20)))Cfr sopra nn. 1 e 2.
+
+[^21]: ^([21](#fnref21)))Can. 961, § 2.
+
+[^22]: ^([22](#fnref22)))Can. 962, § 1.
+
+[^23]: ^([23](#fnref23)))Can. 962, § 2.
+
+[^24]: ^([24](#fnref24)))Can. 989.
+
+[^25]: ^([25](#fnref25)))Can. 963.
+
+[^26]: ^([26](#fnref26)))Can. 964, § 1.
+
+[^27]: ^([27](#fnref27)))Cfr Can. 964, § 3.
+
+[^28]: ^([28](#fnref28)))Cfr Can. 964, § 2; Pontificio Consiglio per l'Interpretazione dei testi Legislativi, *Responsa ad propositum dubium: de loco excipiendi sacramentales confessiones* (7 luglio 1998): *AAS* 90 (1998) 711.

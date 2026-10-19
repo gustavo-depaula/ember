@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-stella-maris",
+  "cover": "quarter",
+  "name": {
+    "la": "LITTERÆ APOSTOLICÆ «MOTU PROPRIO» DATÆ DE APOSTOLATU MARITIMO «STELLA MARIS»",
+    "en-US": "Stella Maris",
+    "pt-BR": "Stella Maris",
+    "de": "Stella Maris",
+    "es": "Stella Maris, sobre el apostolado marítimo",
+    "fr": "Stella Maris"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1999-03-17",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1999-03-17"
+  },
+  "composed": "1999",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_17031999_stella-maris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "LITTERÆ APOSTOLICÆ «MOTU PROPRIO» DATÆ DE APOSTOLATU MARITIMO «STELLA MARIS»",
+        "en-US": "Stella Maris",
+        "pt-BR": "Stella Maris",
+        "de": "Stella Maris",
+        "es": "Stella Maris, sobre el apostolado marítimo",
+        "fr": "Stella Maris"
+      }
+    }
+  ]
+}

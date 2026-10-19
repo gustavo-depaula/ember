@@ -1,0 +1,40 @@
+{
+  "id": "innocent-iv-ad-apostolicae-dignitatis-apicem",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla depositionis Friderici II imperatoris Ad apostolicae dignitatis apicem"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Innocent IV · 1245-07-17",
+    "pt-BR": "Bula · Papa Inocêncio IV · 1245-07-17"
+  },
+  "composed": "1245",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/innocentius-iv/la/documents/bulla-ad-apostolicae-dignitatis-apicem-17-iulii-1245.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla depositionis Friderici II imperatoris Ad apostolicae dignitatis apicem"
+      }
+    }
+  ]
+}

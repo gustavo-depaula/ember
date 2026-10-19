@@ -1,0 +1,9 @@
+# Breve Ex debito pastoralis
+
+BREVE  
+DEL SOMMO PONTEFICE  
+GREGORIO XVI
+
+***EX DEBITO PASTORALIS***
+
+[TABLE]

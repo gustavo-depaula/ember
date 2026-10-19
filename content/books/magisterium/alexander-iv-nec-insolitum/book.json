@@ -1,0 +1,48 @@
+{
+  "id": "alexander-iv-nec-insolitum",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Nec Insolitum'",
+    "es": "Bulla 'Nec Insolitum'"
+  },
+  "author": {
+    "en-US": "Pope Alexander IV",
+    "pt-BR": "Papa Alexandre IV",
+    "la": "Alexander PP. IV"
+  },
+  "description": {
+    "en-US": "Bull · Pope Alexander IV · 1254-12-22",
+    "pt-BR": "Bula · Papa Alexandre IV · 1254-12-22"
+  },
+  "composed": "1254",
+  "languages": [
+    "la",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "alexander-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1254-12-22,_SS_Alexander_IV,_Bulla_'Nec_Insolitum',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1254-12-22,_SS_Alexander_IV,_Nec_Insolitum,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Nec Insolitum'",
+        "es": "Bulla 'Nec Insolitum'"
+      }
+    }
+  ]
+}

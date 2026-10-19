@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-pastoralis-18910625",
+  "cover": "quarter",
+  "name": {
+    "la": "Pastoralis vigilantiae",
+    "en-US": "Pastoralis vigilantiae",
+    "it": "Pastoralis vigilantiae"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1891-06-25",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1891-06-25"
+  },
+  "composed": "1891",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18910625_pastoralis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18910625_pastoralis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_18910625_pastoralis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pastoralis vigilantiae",
+        "en-US": "Pastoralis vigilantiae",
+        "it": "Pastoralis vigilantiae"
+      }
+    }
+  ]
+}

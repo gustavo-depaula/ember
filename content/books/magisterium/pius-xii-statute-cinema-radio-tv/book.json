@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-statute-cinema-radio-tv",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pontifical Commission for Motion Pictures, Radio and Television",
+    "de": "Päpstliche Kommission für Film, Funk und Fernsehen",
+    "es": "Comisión Pontificia de Cinematografía, Radio y Televisión",
+    "fr": "Commission Pontificale pour le Cinéma, la Radio et la Télévision",
+    "it": "Pontificia Commissione per la Cinematografia, la Radio e la Televisione"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1954-12-16",
+    "pt-BR": "Carta · Papa Pio XII · 1954-12-16"
+  },
+  "composed": "1954",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_16121954_statute-cinema-radio-tv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/pius-xii/de/letters/documents/hf_p-xii_lett_16121954_statute-cinema-radio-tv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/letters/documents/hf_p-xii_lett_16121954_statute-cinema-radio-tv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/letters/documents/hf_p-xii_lett_16121954_statute-cinema-radio-tv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_16121954_statute-cinema-radio-tv.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pontifical Commission for Motion Pictures, Radio and Television",
+        "de": "Päpstliche Kommission für Film, Funk und Fernsehen",
+        "es": "Comisión Pontificia de Cinematografía, Radio y Televisión",
+        "fr": "Commission Pontificale pour le Cinéma, la Radio et la Télévision",
+        "it": "Pontificia Commissione per la Cinematografia, la Radio e la Televisione"
+      }
+    }
+  ]
+}

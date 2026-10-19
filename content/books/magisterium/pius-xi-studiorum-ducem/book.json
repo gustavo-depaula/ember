@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-studiorum-ducem",
+  "cover": "quarter",
+  "name": {
+    "la": "Studiorum ducem, Litterae Encyclicae saeculo sexto exeunte a Sanctorum Caelitum honoribus Thomae Aquinati decretis, d. 29 m. Iunii a. 1923, Pius PP. XI",
+    "en-US": "Studiorum Ducem",
+    "it": "Studiorum Ducem"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1923-06-29",
+    "pt-BR": "Encíclica · Papa Pio XI · 1923-06-29"
+  },
+  "composed": "1923",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius11/p11studi.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Studiorum ducem, Litterae Encyclicae saeculo sexto exeunte a Sanctorum Caelitum honoribus Thomae Aquinati decretis, d. 29 m. Iunii a. 1923, Pius PP. XI",
+        "en-US": "Studiorum Ducem",
+        "it": "Studiorum Ducem"
+      }
+    }
+  ]
+}

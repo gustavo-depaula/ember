@@ -1,0 +1,48 @@
+{
+  "id": "cdf-cti-ratzinger",
+  "cover": "quarter",
+  "name": {
+    "es": "Discurso del cardenal Joseph Ratzinger en el XXV aniversario de la creación de la Comisión teológica internacional, 2 de diciembre de 1994",
+    "fr": "Discours du Cardinal Joseph Ratzinger pour le XXVe anniversaire de la Commission Théologique Internationale, 4 décembre 1994"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1994-12-02",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1994-12-02"
+  },
+  "composed": "1994",
+  "languages": [
+    "es",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_19941202_ratzinger_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_19941202_ratzinger_fr.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Discurso del cardenal Joseph Ratzinger en el XXV aniversario de la creación de la Comisión teológica internacional, 2 de diciembre de 1994",
+        "fr": "Discours du Cardinal Joseph Ratzinger pour le XXVe anniversaire de la Commission Théologique Internationale, 4 décembre 1994"
+      }
+    }
+  ]
+}

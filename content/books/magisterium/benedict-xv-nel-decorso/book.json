@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-nel-decorso",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Nel decorso al R.P. Agostino Garagnani S.I. con la quale il Sommo Pontefice dà vita all'«Istituto di coltura filosofica e religiosa» annesso all'Università Gregoriana"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-07-20",
+    "pt-BR": "Carta · Papa Bento XV · 1919-07-20"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19190720_nel-decorso.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Nel decorso al R.P. Agostino Garagnani S.I. con la quale il Sommo Pontefice dà vita all'«Istituto di coltura filosofica e religiosa» annesso all'Università Gregoriana"
+      }
+    }
+  ]
+}

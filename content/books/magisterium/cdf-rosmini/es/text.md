@@ -1,0 +1,53 @@
+# Nota sobre Rosmini, 1 julio 2001
+
+[](/index.htm)
+
+[](javascript:history.go(-1)) [](javascript:up())
+
+CONGREGACIÓN PARA LA DOCTRINA DE LA FE
+
+***NOTA*** **sobre el valor de los decretos doctrinales con respecto  al pensamiento y a las obras del sacerdote Antonio Rosmini Serbati **
+
+1. El Magisterio de la Iglesia, que tiene el deber de promover y custodiar la doctrina de la fe y preservarla de las recurrentes asechanzas procedentes de algunas corrientes de pensamiento y de determinadas praxis, en repetidas ocasiones se interesó durante el siglo XIX por los resultados del trabajo intelectual del sacerdote Antonio Rosmini Serbati (1797-1855), poniendo en el Índice dos de sus obras en 1849, absolviendo ("dimettendo") después del examen, con decreto doctrinal de la Sagrada Congregación del Índice, las *opera omnia* en 1854 y, sucesivamente, condenando en 1887 cuarenta proposiciones, tomadas principalmente de obras póstumas y de otras obras editadas en vida, con el decreto doctrinal, denominado *Post obitum*, de la Sagrada Congregación del Santo Oficio (*Denz* 3201-3241).  
+
+2. Una lectura aproximativa y superficial de estas diferentes intervenciones podría llevar a pensar en una contradicción intrínseca y objetiva por parte del Magisterio al interpretar los contenidos del pensamiento rosminiano y al valorarlos frente al pueblo de Dios. Sin embargo, una lectura atenta no sólo de los textos, sino también del contexto y de la situación en que fueron promulgados, ayuda a captar, aunque sea en su necesario desarrollo, una consideración al mismo tiempo vigilante y coherente, orientada siempre y de cualquier modo a la custodia de la fe católica, y decidida a no permitir sus interpretaciones equívocas o reductivas. En esa misma línea se sitúa esta *Nota* sobre el valor doctrinal de dichos decretos.  
+
+3. El decreto de 1854, con el que fueron absueltas ("dimesse") las obras de Rosmini, atestigua el reconocimiento de la ortodoxia de su pensamiento y de sus intenciones declaradas, cuando, respondiendo a la inclusión en el Índice de sus dos obras en 1849, escribió al beato Pío IX:  "En todo quiero apoyarme en la autoridad de la Iglesia, y quiero que todo el mundo sepa que me adhiero a esta única autoridad" (1). Sin embargo, el decreto mismo no implicaba que el Magisterio adoptara el sistema de pensamiento rosminiano como instrumento filosófico-teológico de mediación de la doctrina cristiana y tampoco pretendía expresar ninguna opinión sobre el valor especulativo y teórico de las posiciones del autor.  
+
+4. Las vicisitudes sucesivas a la muerte de Rosmini exigieron un distanciamiento de su sistema de pensamiento y, particularmente, de algunas afirmaciones del mismo. Es necesario iluminar ante todo los principales factores de orden histórico-cultural que influyeron en ese distanciamiento, que culminó con la condena de las "cuarenta proposiciones" del decreto *Post obitum*, en 1887.  
+Un primer factor se refiere al proyecto de renovación de los estudios eclesiásticos promovido por la encíclica *Aeterni Patris* (1879) de León XIII, en la línea de la fidelidad al pensamiento de santo Tomás de Aquino. La necesidad que sintió el Magisterio pontificio de proporcionar un instrumento filosófico y teórico, localizado en el tomismo, capaz de garantizar la unidad de los estudios eclesiásticos, sobre todo en la formación de los sacerdotes en los seminarios y en las facultades teológicas, contra el peligro del eclecticismo filosófico, puso las premisas para un juicio negativo con respecto a una posición filosófica y especulativa, como la rosminiana, que por su lenguaje y por su aparato conceptual resultaba diversa de la elaboración filosófica y teológica de santo Tomás de Aquino.  
+
+Un segundo factor que conviene tener presente es que las proposiciones condenadas están tomadas en su mayor parte de obras póstumas del autor, cuya publicación carece de aparato crítico capaz de explicar el sentido preciso de las expresiones y de los conceptos utilizados en ellas. Eso favoreció una interpretación en sentido heterodoxo del pensamiento rosminiano, entre otras causas debido a la dificultad objetiva de interpretar sus categorías, sobre todo si se leían desde la perspectiva neotomista.  
+
+5. Además de estos factores determinados por la contingencia histórico-cultural y eclesial del tiempo, es preciso reconocer que en el sistema rosminiano se encuentran conceptos y expresiones a veces ambiguas y equívocas, que exigen una interpretación atenta y que sólo se pueden esclarecer a la luz del contexto más general de la obra del autor. La ambigüedad, la equivocidad y la difícil comprensión de algunas expresiones y categorías presentes en las proposiciones condenadas explican, entre otras, las interpretaciones en clave idealista, ontologista y subjetivista, que dieron pensadores no católicos, contra las cuales el decreto *Post obitum* pone objetivamente en guardia. El respeto a la verdad histórica exige, además, que se subraye y confirme el importante papel que desempeñó el decreto de condena de las "cuarenta proposiciones", por cuanto no sólo expresó las preocupaciones reales del Magisterio contra interpretaciones erróneas y equívocas del pensamiento rosminiano, en contraste con la fe católica, sino también previó lo que de hecho aconteció en la aceptación del rosminianismo en los sectores intelectuales de la cultura filosófica laicista, marcada tanto por el idealismo trascendental como por el idealismo lógico y ontológico.  
+
+La coherencia profunda del juicio del Magisterio en sus diversas interpretaciones en esta materia queda de manifiesto por el hecho de que el mismo decreto doctrinal *Post obitum* no se refiere al juicio sobre la negación formal de verdades de fe por parte del autor, sino más bien al hecho de que el sistema filosófico-teológico de Rosmini se consideraba insuficiente e inadecuado para custodiar y exponer algunas verdades de la doctrina católica, aun reconocidas y confesadas por el autor mismo.  
+
+6. Por otra parte, se debe reconocer que una difundida literatura científica, seria y rigurosa, sobre el pensamiento de Antonio Rosmini, expresada en el campo católico por teólogos y filósofos pertenecientes a varias escuelas de pensamiento, ha demostrado que esas interpretaciones contrarias a la fe y a la doctrina católica no corresponden en realidad a la auténtica posición de Rosmini.  
+
+7.* *La Congregación para la doctrina de la fe, después de un profundo examen de los dos decretos doctrinales promulgados en el siglo XIX y teniendo en cuenta los resultados obtenidos por la historiografía y la investigación científica y teórica de los últimos decenios, ha llegado a la siguiente conclusión:   
+
+Actualmente se pueden considerar ya superados los motivos de preocupación y de dificultades doctrinales y prudenciales, que llevaron a la promulgación del decreto Post obitum de condena de las "cuarenta proposiciones" tomadas de las obras de Antonio Rosmini. Y eso se debe a que el sentido de las proposiciones, como las entendió y condenó el mismo decreto, no corresponde en realidad a la auténtica posición de Rosmini, sino a posibles conclusiones de la lectura de sus obras. Con todo, queda abierta al debate teórico la cuestión del valor mayor o menor del sistema rosminiano mismo, de su consistencia especulativa y de las teorías o hipótesis filosóficas y teológicas expresadas en él.  
+
+Al mismo tiempo, el decreto Post obitum conserva su validez objetiva en relación con el dictado de las proposiciones condenadas, para quien las lee, fuera del contexto del pensamiento rosminiano, desde una perspectiva idealista, ontologista y con un significado contrario a la fe y a la doctrina católica.   
+8. Por lo demás, la misma carta encíclica *Fides et ratio* de Juan Pablo II, a la vez que incluye a Rosmini entre los pensadores más recientes en los que se lleva a cabo un fecundo encuentro entre saber filosófico y palabra de Dios, añade que con esta indicación no se quiere "avalar ningún aspecto de su pensamiento, sino sólo proponer ejemplos significativos de un camino de búsqueda filosófica que ha obtenido considerables beneficios de la confrontación con los datos de la fe" (2).  
+
+9. Es preciso afirmar, asimismo, que la empresa especulativa e intelectual de Antonio Rosmini, caracterizada por una gran audacia y valentía, aunque en cierto modo pudiera considerarse una peligrosa osadía, especialmente en algunas formulaciones, con el propósito de ofrecer nuevas oportunidades a la doctrina católica en relación con los desafíos del pensamiento moderno, se desarrolló en un horizonte ascético y espiritual, reconocido incluso por sus más encarnizados adversarios, y encontró expresión en las obras que acompañaron la fundación del Instituto de la Caridad y la de las Hermanas de la Divina Providencia.
+
+El Sumo Pontífice Juan Pablo II, durante la audiencia del 8 de junio de 2001, concedida al infrascrito cardenal prefecto de la Congregación para la doctrina de la fe, aprobó esta Nota sobre el valor de los decretos doctrinales con respecto al pensamiento y a las obras del sacerdote Antonio Rosmini Serbati, decidida en la sesión ordinaria, y ha ordenado su publicación.
+
+*Roma, en la sede de la Congregación para la doctrina de la fe, 1 de julio de 2001.*
+
+*+* **Cardenal Joseph Ratzinger** *Prefecto*
+
+*+* **Tarcisio Bertone, s.d.b*****.** Arzobispo emérito de Vercelli Secretario*
+
+------------------------------------------------------------------------
+
+**Notas**  
+
+(1)Antonio Rosmini,* Carta al Papa Pío IX,* en:  *Epistolario completo*, Casale  Monferrato, tip. Pane 1892, vol. X, 541 (carta 6341).  
+
+(2) Carta encíclica de Juan Pablo II *Fides et ratio*, 74:  *AAS* 91 (1999) 62.
+
+[](#top)

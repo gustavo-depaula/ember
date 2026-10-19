@@ -1,0 +1,39 @@
+{
+  "id": "curia-unknown-esperanca-da-salvacao-para-as-criancas-que",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "A esperança da salvação para as crianças que morrem sem Batismo"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana"
+  },
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/a-esperanca-da-salvacao-para-as-criancas-que-morrem-sem-batismo-2007/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "A esperança da salvação para as crianças que morrem sem Batismo"
+      }
+    }
+  ]
+}

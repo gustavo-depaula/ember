@@ -1,0 +1,40 @@
+{
+  "id": "clement-vi-super-quibusdam",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Super quibusdam (29 Sept. 1351), ad Mekhitar, Catholicon Armeniorum"
+  },
+  "author": {
+    "en-US": "Pope Clement VI",
+    "pt-BR": "Papa Clemente VI",
+    "la": "Clemens PP. VI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Clement VI · 1351-09-29",
+    "pt-BR": "Carta · Papa Clemente VI · 1351-09-29"
+  },
+  "composed": "1351",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "clement-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/clemens-vi/la/documents/epistula-super-quibusdam-29-sept-1351.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Super quibusdam (29 Sept. 1351), ad Mekhitar, Catholicon Armeniorum"
+      }
+    }
+  ]
+}

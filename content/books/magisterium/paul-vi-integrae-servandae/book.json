@@ -1,0 +1,80 @@
+{
+  "id": "paul-vi-integrae-servandae",
+  "cover": "quarter",
+  "name": {
+    "la": "Integrae Servandae - Sacrae Congregationis S. Officii nomen et ordo immutantur, Litterae Apostolicae Motu Proprio datae, Die 7 m. Decembris a. 1965, Paulus PP.VI",
+    "en-US": "Integrae servandae",
+    "de": "Integrae servandae",
+    "es": "Integrae servandae",
+    "fr": "Integrae servandae",
+    "it": "Integrae servandae - Lettera Apostolica in forma di Motu Proprio con la quale vengono mutati il nome ed il regolamento del Sant'Uffizio, 7 dicembre 1965"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1965-12-07",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1965-12-07"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19651207_integrae-servandae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19651207_integrae-servandae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/motu_proprio/documents/hf_p-vi_motu-proprio_19651207_integrae-servandae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19651207_integrae-servandae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/motu_proprio/documents/hf_p-vi_motu-proprio_19651207_integrae-servandae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19651207_integrae-servandae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Integrae Servandae - Sacrae Congregationis S. Officii nomen et ordo immutantur, Litterae Apostolicae Motu Proprio datae, Die 7 m. Decembris a. 1965, Paulus PP.VI",
+        "en-US": "Integrae servandae",
+        "de": "Integrae servandae",
+        "es": "Integrae servandae",
+        "fr": "Integrae servandae",
+        "it": "Integrae servandae - Lettera Apostolica in forma di Motu Proprio con la quale vengono mutati il nome ed il regolamento del Sant'Uffizio, 7 dicembre 1965"
+      }
+    }
+  ]
+}

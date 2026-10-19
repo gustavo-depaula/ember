@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-para-uma-pastoral-da-cultura",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Para uma Pastoral da Cultura"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1999-05-23",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1999-05-23"
+  },
+  "composed": "1999",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/para-uma-pastoral-da-cultura-23-05-1999/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Para uma Pastoral da Cultura"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-respicientes-ea",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Encyclica Respicientes ea",
+    "en-US": "Respicientes",
+    "it": "Enciclica Respicientes ea"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius IX · 1870-11-01",
+    "pt-BR": "Carta · Papa Pio IX · 1870-11-01"
+  },
+  "composed": "1870",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-respicientes-ea-1-novembris-1870.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9respic.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-respicientes-ea-1-novembris-1870.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Encyclica Respicientes ea",
+        "en-US": "Respicientes",
+        "it": "Enciclica Respicientes ea"
+      }
+    }
+  ]
+}

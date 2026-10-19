@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-cum-matrimonialium-causarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Cum matrimonialium causarum - Normae quaedam statuuntur ad processus matrimoniales apud Ecclesias Orientales expeditius absolvendos, Litterae Apostolicae Motu Proprio datae, Die 8 m. Septembris a.1973, Paulus PP.VI",
+    "it": "Cum matrimonialium causarum - Lettera Apostolica in forma di Motu Proprio con la quale vengono impartite alcune norme per rendere più spediti i processi matrimoniali nelle chiese orientali"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1973-09-08",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1973-09-08"
+  },
+  "composed": "1973",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19730908_cum-matrimonialium-causarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19730908_cum-matrimonialium-causarum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Cum matrimonialium causarum - Normae quaedam statuuntur ad processus matrimoniales apud Ecclesias Orientales expeditius absolvendos, Litterae Apostolicae Motu Proprio datae, Die 8 m. Septembris a.1973, Paulus PP.VI",
+        "it": "Cum matrimonialium causarum - Lettera Apostolica in forma di Motu Proprio con la quale vengono impartite alcune norme per rendere più spediti i processi matrimoniali nelle chiese orientali"
+      }
+    }
+  ]
+}

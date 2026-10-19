@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-pastorale-officium-18400724",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Pastorale officium"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1840-07-24",
+    "pt-BR": "Breve · Papa Gregório XVI · 1840-07-24"
+  },
+  "composed": "1840",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-pastorale-officium-24-luglio-1840.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Pastorale officium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Sacerdotium ministeriale
+
+[TABLE]

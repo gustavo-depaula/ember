@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-dolore-haud-mediocri",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Dolore haud mediocri"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius IX · 1860-04-30",
+    "pt-BR": "Carta Apostólica · Papa Pio IX · 1860-04-30"
+  },
+  "composed": "1860",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-dolore-haud-mediocri-30-aprile-1860.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Dolore haud mediocri"
+      }
+    }
+  ]
+}

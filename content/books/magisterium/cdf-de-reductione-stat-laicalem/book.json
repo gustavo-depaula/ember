@@ -1,0 +1,96 @@
+{
+  "id": "cdf-de-reductione-stat-laicalem",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae circulares omnibus locorum Ordinariis et Moderatoribus generalibus religionum clericalium de reductione ad statum laicalem, d. 13 m. Ianuarii a. 1971, Congregatio pro Doctrina Fidei",
+    "en-US": "Letter to Bishops and General Superiors regarding the reduction to the lay state, 13 January 1971",
+    "pt-BR": "Carta aos Ordinários do lugar e superiores gerais dos religiosos sobre a redução ao estado laical, 13 de janeiro de 1971",
+    "de": "Schreiben an alle Ortsordinarien und Generaloberen von Klerikerorden über die Rückversetzung in den Laienstand, 13. Januar 1971",
+    "es": "Carta a los Obispos y Superiores Generales sobre la reducción al estado laical, 13 enero 1971",
+    "fr": "Lettre circulaire adressée à tous les Ordinaires des lieux et à tous les Supérieurs généraux des instituts de clercs sur la réduction à l'état laïc, 13 janvier 1971",
+    "it": "Lettera ai Vescovi e Superiori Generali riguardante la riduzione allo stato laicale, 13 gennaio 1971",
+    "pl": "LIST DO ORDYNARIUSZY MIEJSCA I ZAKONNYCH PRZEŁOŻONYCH GENERALNYCH"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1971-01-13",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1971-01-13"
+  },
+  "composed": "1971",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19710113_de-reductione-stat-laicalem_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae circulares omnibus locorum Ordinariis et Moderatoribus generalibus religionum clericalium de reductione ad statum laicalem, d. 13 m. Ianuarii a. 1971, Congregatio pro Doctrina Fidei",
+        "en-US": "Letter to Bishops and General Superiors regarding the reduction to the lay state, 13 January 1971",
+        "pt-BR": "Carta aos Ordinários do lugar e superiores gerais dos religiosos sobre a redução ao estado laical, 13 de janeiro de 1971",
+        "de": "Schreiben an alle Ortsordinarien und Generaloberen von Klerikerorden über die Rückversetzung in den Laienstand, 13. Januar 1971",
+        "es": "Carta a los Obispos y Superiores Generales sobre la reducción al estado laical, 13 enero 1971",
+        "fr": "Lettre circulaire adressée à tous les Ordinaires des lieux et à tous les Supérieurs généraux des instituts de clercs sur la réduction à l'état laïc, 13 janvier 1971",
+        "it": "Lettera ai Vescovi e Superiori Generali riguardante la riduzione allo stato laicale, 13 gennaio 1971",
+        "pl": "LIST DO ORDYNARIUSZY MIEJSCA I ZAKONNYCH PRZEŁOŻONYCH GENERALNYCH"
+      }
+    }
+  ]
+}

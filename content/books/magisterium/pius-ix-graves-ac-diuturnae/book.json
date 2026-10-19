@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-graves-ac-diuturnae",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Graves ac diuturnae",
+    "en-US": "Graves Ac Diuturnae",
+    "it": "Lettera Apostolica Graves ac diuturnae"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius IX · 1875-03-23",
+    "pt-BR": "Carta Apostólica · Papa Pio IX · 1875-03-23"
+  },
+  "composed": "1875",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-graves-ac-diuturnae-23-martii-1875.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9graves.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/litterae-apostolicae-graves-ac-diuturnae-23-martii-1875.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Graves ac diuturnae",
+        "en-US": "Graves Ac Diuturnae",
+        "it": "Lettera Apostolica Graves ac diuturnae"
+      }
+    }
+  ]
+}

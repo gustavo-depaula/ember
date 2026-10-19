@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-ad-plurimas",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Ad Plurimas"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XII · 1825-01-25",
+    "pt-BR": "Encíclica · Papa Leão XII · 1825-01-25"
+  },
+  "composed": "1825",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/enciclica-ad-plurimas-25-gennaio-1825.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Ad Plurimas"
+      }
+    }
+  ]
+}

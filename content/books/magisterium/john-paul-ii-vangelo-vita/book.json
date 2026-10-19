@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-vangelo-vita",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Diálogo e Anúncio",
+    "es": "Carta a todos los obispos de la Iglesia sobre la intangibilidad de la vida humana",
+    "it": "Lettera a tutti i Vescovi della Chiesa sulla intangibilità della vita umana"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1991-05-19",
+    "pt-BR": "Carta · Papa João Paulo II · 1991-05-19"
+  },
+  "composed": "1991",
+  "languages": [
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/documento-dialogo-e-anuncio-19-05-1991/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1991/documents/hf_jp-ii_let_19910519_vangelo-vita.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1991/documents/hf_jp-ii_let_19910519_vangelo-vita.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Diálogo e Anúncio",
+        "es": "Carta a todos los obispos de la Iglesia sobre la intangibilidad de la vida humana",
+        "it": "Lettera a tutti i Vescovi della Chiesa sulla intangibilità della vita umana"
+      }
+    }
+  ]
+}

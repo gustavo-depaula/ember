@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-suprema-dispositione",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Suprema Dispositione'"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius VI · 1777-12-09",
+    "pt-BR": "Bula · Papa Pio VI · 1777-12-09"
+  },
+  "composed": "1777",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1777-12-09,_SS_Pius_VI,_Bulla_'Suprema_Dispositione',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Suprema Dispositione'"
+      }
+    }
+  ]
+}

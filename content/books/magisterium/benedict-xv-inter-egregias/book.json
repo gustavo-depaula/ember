@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-inter-egregias",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Inter egregias ai Reverendi Padri dell'Episcopato di Lima e all'Episcopato del Perù, nella quale il Pontefice raccomanda la costruzione di Seminari"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-01-01",
+    "pt-BR": "Carta · Papa Bento XV · 1919-01-01"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19190101_inter-egregias.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Inter egregias ai Reverendi Padri dell'Episcopato di Lima e all'Episcopato del Perù, nella quale il Pontefice raccomanda la costruzione di Seminari"
+      }
+    }
+  ]
+}

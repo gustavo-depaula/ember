@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-ecclesiae-unitatem",
+  "cover": "quarter",
+  "name": {
+    "la": "Ecclesiae unitatem, Litterae Apostolicae Motu Proprio Datae , die II mensis Iulii, anno MMIX - Benedictus XVI, Motu Proprio",
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" Ecclesiae unitatem",
+    "pt-BR": "Carta Apostólica «Motu Proprio data» Ecclesiae unitatem",
+    "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Ecclesiae unitatem",
+    "es": "Carta Apostólica en forma de “Motu Proprio” Ecclesiae unitatem",
+    "fr": "Lettre Apostolique « Motu Proprio data » Ecclesiae unitatem",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Ecclesiae unitatem"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XVI · 2009-07-02",
+    "pt-BR": "Carta Apostólica · Papa Bento XVI · 2009-07-02"
+  },
+  "composed": "2009",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/apost_letters/documents/hf_ben-xvi_apl_20090702_ecclesiae-unitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20090702_ecclesiae-unitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20090702_ecclesiae-unitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/apost_letters/documents/hf_ben-xvi_apl_20090702_ecclesiae-unitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/apost_letters/documents/hf_ben-xvi_apl_20090702_ecclesiae-unitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/apost_letters/documents/hf_ben-xvi_apl_20090702_ecclesiae-unitatem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/apost_letters/documents/hf_ben-xvi_apl_20090702_ecclesiae-unitatem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ecclesiae unitatem, Litterae Apostolicae Motu Proprio Datae , die II mensis Iulii, anno MMIX - Benedictus XVI, Motu Proprio",
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" Ecclesiae unitatem",
+        "pt-BR": "Carta Apostólica «Motu Proprio data» Ecclesiae unitatem",
+        "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Ecclesiae unitatem",
+        "es": "Carta Apostólica en forma de “Motu Proprio” Ecclesiae unitatem",
+        "fr": "Lettre Apostolique « Motu Proprio data » Ecclesiae unitatem",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Ecclesiae unitatem"
+      }
+    }
+  ]
+}

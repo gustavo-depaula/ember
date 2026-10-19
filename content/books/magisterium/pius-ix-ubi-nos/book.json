@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-ubi-nos",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Encyclica Ubi Nos",
+    "en-US": "Ubi Nos",
+    "it": "Enciclica Ubi Nos"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius IX · 1871-05-15",
+    "pt-BR": "Carta · Papa Pio IX · 1871-05-15"
+  },
+  "composed": "1871",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/epistola-encyclica-ubi-nos-15-maii-1871.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9ubinos.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/epistola-encyclica-ubi-nos-15-maii-1871.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Encyclica Ubi Nos",
+        "en-US": "Ubi Nos",
+        "it": "Enciclica Ubi Nos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-nuovi-motivi",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera I nuovi motivi, a Monsignore Pietro La Fontaine, Patriarca di Venezia, in occasione di un'incursione aerea su Venezia"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1916-09-16",
+    "pt-BR": "Carta · Papa Bento XV · 1916-09-16"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1916/documents/hf_ben-xv_let_19160916_nuovi-motivi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera I nuovi motivi, a Monsignore Pietro La Fontaine, Patriarca di Venezia, in occasione di un'incursione aerea su Venezia"
+      }
+    }
+  ]
+}

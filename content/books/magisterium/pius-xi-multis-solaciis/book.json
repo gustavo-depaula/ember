@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-multis-solaciis",
+  "cover": "quarter",
+  "name": {
+    "la": "In multis solaciis, Motu Proprio, De Pontificia Academia Scientiarum, d. 28 m. Octobris a. 1936, Pius PP. XI",
+    "it": "Motu proprio In multis solaciis con il quale conferisce il nome di «Pontificia Academia Scientiarum» all'«Accademia dei Lincei Filosofi»"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius XI · 1936-10-28",
+    "pt-BR": "Motu Proprio · Papa Pio XI · 1936-10-28"
+  },
+  "composed": "1936",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/motu_proprio/documents/hf_p-xi_motu-proprio_19361028_multis-solaciis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/motu_proprio/documents/hf_p-xi_motu-proprio_19361028_multis-solaciis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In multis solaciis, Motu Proprio, De Pontificia Academia Scientiarum, d. 28 m. Octobris a. 1936, Pius PP. XI",
+        "it": "Motu proprio In multis solaciis con il quale conferisce il nome di «Pontificia Academia Scientiarum» all'«Accademia dei Lincei Filosofi»"
+      }
+    }
+  ]
+}

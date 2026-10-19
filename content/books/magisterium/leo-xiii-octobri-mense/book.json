@@ -1,0 +1,64 @@
+{
+  "id": "leo-xiii-octobri-mense",
+  "cover": "quarter",
+  "name": {
+    "la": "Octobri mense",
+    "en-US": "Octobri Mense",
+    "pt-BR": "Octobri mense: sobre o Rosário de Nossa Senhora",
+    "it": "Octobri mense"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1891-09-22",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1891-09-22"
+  },
+  "composed": "1891",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_22091891_octobri-mense.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Octobri mense",
+        "en-US": "Octobri Mense",
+        "pt-BR": "Octobri mense: sobre o Rosário de Nossa Senhora",
+        "it": "Octobri mense"
+      }
+    }
+  ]
+}

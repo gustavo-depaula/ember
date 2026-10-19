@@ -1,0 +1,40 @@
+{
+  "id": "paul-vi-arc-canterbury",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera all’Arcivescovo di Canterbury sulla questione dell’ordinazione sacerdotale delle donne nella comunione anglicana"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Paul VI · 1975-11-30",
+    "pt-BR": "Carta · Papa Paulo VI · 1975-11-30"
+  },
+  "composed": "1975",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/letters/1975/documents/hf_p-vi_let_19751130_arc-canterbury.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera all’Arcivescovo di Canterbury sulla questione dell’ordinazione sacerdotale delle donne nella comunione anglicana"
+      }
+    }
+  ]
+}

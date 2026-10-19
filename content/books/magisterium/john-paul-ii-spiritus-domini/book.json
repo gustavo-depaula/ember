@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-spiritus-domini",
+  "cover": "quarter",
+  "name": {
+    "la": "Spiritus Domini, I mensis Augusti, anno MDCCCCLXXXVII",
+    "es": "Spiritus Domini, en el II centenario muerte san Alfonso María de Ligorio",
+    "fr": "Spiritus Domini",
+    "it": "Spiritus Domini"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1987-08-01",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1987-08-01"
+  },
+  "composed": "1987",
+  "languages": [
+    "la",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1987/documents/hf_jp-ii_apl_19870801_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1987/documents/hf_jp-ii_apl_19870801_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1987/documents/hf_jp-ii_apl_19870801_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1987/documents/hf_jp-ii_apl_19870801_spiritus-domini.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Spiritus Domini, I mensis Augusti, anno MDCCCCLXXXVII",
+        "es": "Spiritus Domini, en el II centenario muerte san Alfonso María de Ligorio",
+        "fr": "Spiritus Domini",
+        "it": "Spiritus Domini"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-qui-pacem",
+  "cover": "quarter",
+  "name": {
+    "it": "Omelia Qui Pacem"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Leo XII · 1826-03-26",
+    "pt-BR": "Documento · Papa Leão XII · 1826-03-26"
+  },
+  "composed": "1826",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/omelia-qui-pacem-26-marzo-1826.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Omelia Qui Pacem"
+      }
+    }
+  ]
+}

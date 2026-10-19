@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-episcopato-india",
+  "cover": "quarter",
+  "name": {
+    "en-US": "LETTERA DI SUA SANTIT À PIO XII AL CLERO INDIANO * During recent years We have been"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1948-01-30",
+    "pt-BR": "Carta · Papa Pio XII · 1948-01-30"
+  },
+  "composed": "1948",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_19480130_episcopato-india.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "LETTERA DI SUA SANTIT À PIO XII AL CLERO INDIANO * During recent years We have been"
+      }
+    }
+  ]
+}

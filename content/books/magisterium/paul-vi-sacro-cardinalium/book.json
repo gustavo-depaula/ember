@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-sacro-cardinalium",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacro Cardinalium Consilio - De electione Decani et Subdecani Sacri Cardinalium Collegii, Litterae Apostolicae Motu Proprio datae, Die 26 m. Februarii a. 1965, Paulus PP.VI",
+    "it": "Sacro Cardinalium Consilio - Lettera Apostolica in forma di Motu Proprio riguardante l'elezione del decano e del subdecano del collegio cardinalizio"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1965-02-26",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1965-02-26"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19650226_sacro-cardinalium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19650226_sacro-cardinalium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacro Cardinalium Consilio - De electione Decani et Subdecani Sacri Cardinalium Collegii, Litterae Apostolicae Motu Proprio datae, Die 26 m. Februarii a. 1965, Paulus PP.VI",
+        "it": "Sacro Cardinalium Consilio - Lettera Apostolica in forma di Motu Proprio riguardante l'elezione del decano e del subdecano del collegio cardinalizio"
+      }
+    }
+  ]
+}

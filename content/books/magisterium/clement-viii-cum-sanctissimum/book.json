@@ -1,0 +1,40 @@
+{
+  "id": "clement-viii-cum-sanctissimum",
+  "cover": "quarter",
+  "name": {
+    "la": "Cum Sanctissimum"
+  },
+  "author": {
+    "en-US": "Pope Clement VIII",
+    "pt-BR": "Papa Clemente VIII",
+    "la": "Clemens PP. VIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Clement VIII · 1604-07-07",
+    "pt-BR": "Documento · Papa Clemente VIII · 1604-07-07"
+  },
+  "composed": "1604",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "clement-viii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1604-07-07,_SS_Clemens_VIII,_Cum_Sanctissimum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Cum Sanctissimum"
+      }
+    }
+  ]
+}

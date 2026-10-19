@@ -1,0 +1,48 @@
+{
+  "id": "gregory-xvi-probe-nostis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Probe Nostis",
+    "it": "Breve Probe nostis"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1840-09-18",
+    "pt-BR": "Breve · Papa Gregório XVI · 1840-09-18"
+  },
+  "composed": "1840",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg16/g16probe.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-probe-nostis-18-settembre-1840.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Probe Nostis",
+        "it": "Breve Probe nostis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "benedict-xvi-china",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula data Episcopis atque Presbyteris Consecratis atque Fidelibus Laicis Catholicae Ecclesiae exstantis in Republica Populari Sinarum",
+    "en-US": "Letter to the Bishops, Priests, Consecrated Persons and Lay Faithful of the Catholic Church in the People's Republic of China",
+    "pt-BR": "Carta aos Bispos, aos presbíteros, às pessoas consagradas e aos fiéis leigos da Igreja Católica na República Popular da China",
+    "de": "Brief an die Bischöfe, an die Priester, die Personen des Gottgeweihten Lebens und an die Gläubigen Laien der katholischen Kirche in der Volksrepublik China",
+    "es": "Carta a los Obispos, a los presbíteros, a las personas consagradas y a los fieles laicos de la Iglesia católica en la República Popular China",
+    "fr": "Lettre aux évêques, aux prêtres, aux personnes consacrées et aux fidèles de l'Église catholique en Chine",
+    "it": "Lettera ai Vescovi, ai presbiteri, alle persone consacrate e ai fedeli laici della Chiesa Cattolica nella Repubblica Popolare Cinese",
+    "pl": "List Papieża Benedykta XVI do katolików w Chinach",
+    "zh-CN": "Letter to the Bishops, Priests, Consecrated Persons and Lay Faithful of the Catholic Church in the People's Republic of China",
+    "zh-TW": "Letter to the Bishops, Priests, Consecrated Persons and Lay Faithful of the Catholic Church in the People's Republic of China"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XVI · 2007-05-27",
+    "pt-BR": "Carta · Papa Bento XVI · 2007-05-27"
+  },
+  "composed": "2007",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/content/benedict-xvi/zh_cn/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-TW",
+      "url": "https://www.vatican.va/content/benedict-xvi/zh_tw/letters/2007/documents/hf_ben-xvi_let_20070527_china.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula data Episcopis atque Presbyteris Consecratis atque Fidelibus Laicis Catholicae Ecclesiae exstantis in Republica Populari Sinarum",
+        "en-US": "Letter to the Bishops, Priests, Consecrated Persons and Lay Faithful of the Catholic Church in the People's Republic of China",
+        "pt-BR": "Carta aos Bispos, aos presbíteros, às pessoas consagradas e aos fiéis leigos da Igreja Católica na República Popular da China",
+        "de": "Brief an die Bischöfe, an die Priester, die Personen des Gottgeweihten Lebens und an die Gläubigen Laien der katholischen Kirche in der Volksrepublik China",
+        "es": "Carta a los Obispos, a los presbíteros, a las personas consagradas y a los fieles laicos de la Iglesia católica en la República Popular China",
+        "fr": "Lettre aux évêques, aux prêtres, aux personnes consacrées et aux fidèles de l'Église catholique en Chine",
+        "it": "Lettera ai Vescovi, ai presbiteri, alle persone consacrate e ai fedeli laici della Chiesa Cattolica nella Repubblica Popolare Cinese",
+        "pl": "List Papieża Benedykta XVI do katolików w Chinach",
+        "zh-CN": "Letter to the Bishops, Priests, Consecrated Persons and Lay Faithful of the Catholic Church in the People's Republic of China",
+        "zh-TW": "Letter to the Bishops, Priests, Consecrated Persons and Lay Faithful of the Catholic Church in the People's Republic of China"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-celebrationen-magni",
+  "cover": "quarter",
+  "name": {
+    "it": "Celebrationen Magni"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XIV · 1751-01-01",
+    "pt-BR": "Documento · Papa Bento XIV · 1751-01-01"
+  },
+  "composed": "1751",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1751-01-01,_SS_Benedictus_XIV,_Celebrationen_Magni,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Celebrationen Magni"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-non-solum",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Non solum ai membri del Comitato per la preparazione del terzo centenario dell’ingresso del cattolicesimo in Canada"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1915-09-12",
+    "pt-BR": "Carta · Papa Bento XV · 1915-09-12"
+  },
+  "composed": "1915",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1915/documents/hf_ben-xv_let_19150912_non-solum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Non solum ai membri del Comitato per la preparazione del terzo centenario dell’ingresso del cattolicesimo in Canada"
+      }
+    }
+  ]
+}

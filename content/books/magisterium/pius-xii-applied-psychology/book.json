@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-applied-psychology",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Applied Psychology"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1958-04-10",
+    "pt-BR": "Documento · Papa Pio XII · 1958-04-10"
+  },
+  "composed": "1958",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12appsy.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Applied Psychology"
+      }
+    }
+  ]
+}

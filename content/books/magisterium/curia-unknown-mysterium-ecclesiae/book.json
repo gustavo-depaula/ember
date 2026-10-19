@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-mysterium-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Mysterium Ecclesiae"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1973-06-24",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1973-06-24"
+  },
+  "composed": "1973",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/declaracao-mysterium-ecclesiae-acerca-da-doutrina-catolica-sobre-a-igreja-para-a-defender-de-alguns-erros-hodiernos-24-06-1973/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Mysterium Ecclesiae"
+      }
+    }
+  ]
+}

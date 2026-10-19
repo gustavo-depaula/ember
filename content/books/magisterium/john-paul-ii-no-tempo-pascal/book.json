@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-no-tempo-pascal",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "No tempo pascal",
+    "es": "No tempo pascal",
+    "it": "No tempo pascal"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2000-05-07",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2000-05-07"
+  },
+  "composed": "2000",
+  "languages": [
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/no-tempo-pascal-joao-paulo-ii-07-05-2000/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2000-05-07,_SS_Ioannes_Paulus_II,_La_Iglesia_Greco-Catolica_de_Rumania,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2000-05-07,_SS_Ioannes_Paulus_II,_III_Centenario_Della_Chiesa_di_Romania,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "No tempo pascal",
+        "es": "No tempo pascal",
+        "it": "No tempo pascal"
+      }
+    }
+  ]
+}

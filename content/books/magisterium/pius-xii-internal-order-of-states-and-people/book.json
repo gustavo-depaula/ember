@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-internal-order-of-states-and-people",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Internal Order Of States And People"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1942-12-25",
+    "pt-BR": "Documento · Papa Pio XII · 1942-12-25"
+  },
+  "composed": "1942",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12ch42.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Internal Order Of States And People"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-quel-dio",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Quel Dio"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Gregory XVI · 1831-04-05",
+    "pt-BR": "Encíclica · Papa Gregório XVI · 1831-04-05"
+  },
+  "composed": "1831",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/enciclica-quel-dio-5-aprile-1831.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Quel Dio"
+      }
+    }
+  ]
+}

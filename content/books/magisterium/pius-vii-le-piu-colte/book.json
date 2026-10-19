@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-le-piu-colte",
+  "cover": "quarter",
+  "name": {
+    "it": "Motu proprio Le più colte"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius VII · 1801-03-11",
+    "pt-BR": "Motu Proprio · Papa Pio VII · 1801-03-11"
+  },
+  "composed": "1801",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/motu-proprio-le-piu-colte-11-marzo-1801.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Motu proprio Le più colte"
+      }
+    }
+  ]
+}

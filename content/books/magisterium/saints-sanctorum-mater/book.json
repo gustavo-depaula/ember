@@ -1,0 +1,80 @@
+{
+  "id": "saints-sanctorum-mater",
+  "cover": "quarter",
+  "name": {
+    "la": "Sanctorum Mater, Instructio ad peragendas Inquisitiones dioecesanas vel eparchiales de Causis Sanctorum, die XVII m. Maii, A.D. XXVII - Congregatio de Causis Sanctorum",
+    "en-US": "Sanctorum Mater - Instruction for conducting diocesan or eparchial Inquiries in the Causes of Saints",
+    "pt-BR": "Instrução para a realização dos Inquéritos Diocesanos ou das Eparquias nas Causas dos Santos, 2007",
+    "es": "Instrucción Sanctorum Mater sobre el procedimiento instructorio diocesano o eparquial en las Causas de los Santos",
+    "fr": "Sanctorum Mater - Instruction for conducting diocesan or eparchial Inquiries in the causes of Saints (May 17, 2007)",
+    "it": "Sanctorum Mater - Istruzione per lo svolgimento delle inchieste diocesane o eparchiali nelle cause dei Santi"
+  },
+  "author": {
+    "en-US": "Dicastery for the Causes of Saints",
+    "pt-BR": "Dicastério para as Causas dos Santos",
+    "la": "Dicasterium de Causis Sanctorum"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Causes of Saints · 2007-05-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para as Causas dos Santos · 2007-05-17"
+  },
+  "composed": "2007",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "saints"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20070517_sanctorum-mater_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20070517_sanctorum-mater_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20070517_sanctorum-mater_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20070517_sanctorum-mater_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20070517_sanctorum-mater_fr.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/csaints/documents/rc_con_csaints_doc_20070517_sanctorum-mater_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sanctorum Mater, Instructio ad peragendas Inquisitiones dioecesanas vel eparchiales de Causis Sanctorum, die XVII m. Maii, A.D. XXVII - Congregatio de Causis Sanctorum",
+        "en-US": "Sanctorum Mater - Instruction for conducting diocesan or eparchial Inquiries in the Causes of Saints",
+        "pt-BR": "Instrução para a realização dos Inquéritos Diocesanos ou das Eparquias nas Causas dos Santos, 2007",
+        "es": "Instrucción Sanctorum Mater sobre el procedimiento instructorio diocesano o eparquial en las Causas de los Santos",
+        "fr": "Sanctorum Mater - Instruction for conducting diocesan or eparchial Inquiries in the causes of Saints (May 17, 2007)",
+        "it": "Sanctorum Mater - Istruzione per lo svolgimento delle inchieste diocesane o eparchiali nelle cause dei Santi"
+      }
+    }
+  ]
+}

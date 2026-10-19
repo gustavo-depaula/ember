@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-nobilissima-gallorum-gens",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Nobilissima Gallorum Gens",
+    "it": "Nobilissima Gallorum Gens"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1884-02-08",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1884-02-08"
+  },
+  "composed": "1884",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08021884_nobilissima-gallorum-gens.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08021884_nobilissima-gallorum-gens.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Nobilissima Gallorum Gens",
+        "it": "Nobilissima Gallorum Gens"
+      }
+    }
+  ]
+}

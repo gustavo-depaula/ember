@@ -1,0 +1,48 @@
+{
+  "id": "catholic-education-lay-catholics",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "O Leigo católico testemunha da fé na Escola, 15 de outubro de 1982",
+    "it": "Il Laico Cattolico Testimone della Fede, 1982"
+  },
+  "author": {
+    "en-US": "Dicastery for Culture and Education",
+    "pt-BR": "Dicastério para a Cultura e a Educação",
+    "la": "Dicasterium de Cultura et Educatione"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Culture and Education · 1982-10-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Cultura e a Educação · 1982-10-15"
+  },
+  "composed": "1982",
+  "languages": [
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "catholic-education"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_19821015_lay-catholics_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccatheduc/documents/rc_con_ccatheduc_doc_19821015_lay-catholics_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "O Leigo católico testemunha da fé na Escola, 15 de outubro de 1982",
+        "it": "Il Laico Cattolico Testimone della Fede, 1982"
+      }
+    }
+  ]
+}

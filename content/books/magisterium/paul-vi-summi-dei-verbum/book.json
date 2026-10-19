@@ -1,0 +1,56 @@
+{
+  "id": "paul-vi-summi-dei-verbum",
+  "cover": "quarter",
+  "name": {
+    "la": "Summi Dei Verbum, Epistula Apostolica, Die 4 m. Novembris a. 1963, Paulus PP.VI",
+    "en-US": "Summi Dei Verbum",
+    "it": "Summi Dei Verbum"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1963-11-04",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1963-11-04"
+  },
+  "composed": "1963",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19631104_summi-dei-verbum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_letters/documents/hf_p-vi_apl_19631104_summi-dei-verbum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19631104_summi-dei-verbum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Summi Dei Verbum, Epistula Apostolica, Die 4 m. Novembris a. 1963, Paulus PP.VI",
+        "en-US": "Summi Dei Verbum",
+        "it": "Summi Dei Verbum"
+      }
+    }
+  ]
+}

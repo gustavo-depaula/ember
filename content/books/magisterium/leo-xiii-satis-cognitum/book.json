@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-satis-cognitum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Satis Cognitum",
+    "es": "Satis Cognitum",
+    "it": "Satis Cognitum"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1896-06-29",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1896-06-29"
+  },
+  "composed": "1896",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_29061896_satis-cognitum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_29061896_satis-cognitum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_29061896_satis-cognitum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Satis Cognitum",
+        "es": "Satis Cognitum",
+        "it": "Satis Cognitum"
+      }
+    }
+  ]
+}

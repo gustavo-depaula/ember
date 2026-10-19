@@ -1,0 +1,56 @@
+{
+  "id": "cdf-comitati-dottrinali",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Suggestions for bettering the serviceability of Doctrinal Committees, to Presidents of Episcopal Conferences",
+    "fr": "Suggestions aux présidents des Conférences épiscopales pour améliorer le service des comités doctrinaux, 10 juillet 1968",
+    "it": "Suggerimenti ai Presidenti delle Conferenze Episcopali per migliorare il servizio dei comitati dottrinali, 10 luglio 1968"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1968-07-10",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1968-07-10"
+  },
+  "composed": "1968",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19680710_comitati-dottrinali_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19680710_comitati-dottrinali_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19680710_comitati-dottrinali_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Suggestions for bettering the serviceability of Doctrinal Committees, to Presidents of Episcopal Conferences",
+        "fr": "Suggestions aux présidents des Conférences épiscopales pour améliorer le service des comités doctrinaux, 10 juillet 1968",
+        "it": "Suggerimenti ai Presidenti delle Conferenze Episcopali per migliorare il servizio dei comitati dottrinali, 10 luglio 1968"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "benedict-xvi-nota-dottrinale-su-alcuni-aspetti-dellevangelizzazione",
+  "cover": "quarter",
+  "name": {
+    "en-US": "NOTA DOTTRINALE SU ALCUNI ASPETTI DELL’EVANGELIZZAZIONE"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XVI",
+    "pt-BR": "Documento · Papa Bento XVI"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben16/cdfdoctrineevang1207ital.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "NOTA DOTTRINALE SU ALCUNI ASPETTI DELL’EVANGELIZZAZIONE"
+      }
+    }
+  ]
+}

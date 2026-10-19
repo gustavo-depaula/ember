@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-papal-directives-for-the-woman-of-today",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Papal Directives For The Woman Of Today"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1947-09-11",
+    "pt-BR": "Documento · Papa Pio XII · 1947-09-11"
+  },
+  "composed": "1947",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12woman.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Papal Directives For The Woman Of Today"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "paul-vi-christi-matri",
+  "cover": "quarter",
+  "name": {
+    "la": "Christi Matri Rosarii, Epistula encyclica, die XV mensis Septembris, anno MCMLXVI - Paulus VI",
+    "en-US": "Christi Matri",
+    "pt-BR": "Christi Matri",
+    "de": "Enzyklika Christi Matri",
+    "es": "Christi Matri",
+    "it": "Christi Matri"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Paul VI · 1966-09-15",
+    "pt-BR": "Encíclica · Papa Paulo VI · 1966-09-15"
+  },
+  "composed": "1966",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_15091966_christi-matri.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Christi Matri Rosarii, Epistula encyclica, die XV mensis Septembris, anno MCMLXVI - Paulus VI",
+        "en-US": "Christi Matri",
+        "pt-BR": "Christi Matri",
+        "de": "Enzyklika Christi Matri",
+        "es": "Christi Matri",
+        "it": "Christi Matri"
+      }
+    }
+  ]
+}

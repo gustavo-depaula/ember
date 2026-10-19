@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-maximis-angustiis",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Maximis angustiis"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1845-04-27",
+    "pt-BR": "Carta · Papa Gregório XVI · 1845-04-27"
+  },
+  "composed": "1845",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-maximis-angustiis-27-aprile-1845.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Maximis angustiis"
+      }
+    }
+  ]
+}

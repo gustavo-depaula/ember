@@ -1,0 +1,40 @@
+{
+  "id": "pius-vii-magno-et-acerbo",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Magno et acerbo"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius VII · 1816-09-03",
+    "pt-BR": "Carta · Papa Pio VII · 1816-09-03"
+  },
+  "composed": "1816",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/epistola-magno-et-acerbo-3-septembris-1816.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Magno et acerbo"
+      }
+    }
+  ]
+}

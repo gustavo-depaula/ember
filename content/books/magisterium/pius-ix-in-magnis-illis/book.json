@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-in-magnis-illis",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica In magnis illis"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1873-12-27",
+    "pt-BR": "Encíclica · Papa Pio IX · 1873-12-27"
+  },
+  "composed": "1873",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-in-magnis-illis-27-dicembre-1873.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica In magnis illis"
+      }
+    }
+  ]
+}

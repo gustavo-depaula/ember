@@ -1,0 +1,56 @@
+{
+  "id": "cdf-cti-bonino-monoteismo",
+  "cover": "quarter",
+  "name": {
+    "fr": "L'hérésie de la violence au nom de Dieu (Serge-Thomas Bonino, o.p., Secrétaire général de la CTI)",
+    "hu": "Az „Isten nevében” történő erőszak eretneksége, (Serge-Thomas Bonino, O.P., a Nemzetközi Teológiai Bizottság általános titkára)",
+    "it": "L'eresia della violenza \"in nome di Dio\" - P. Serge-Thomas Bonino, O.P."
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2014-01-17",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2014-01-17"
+  },
+  "composed": "2014",
+  "languages": [
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_bonino-monoteismo_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_bonino-monoteismo_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140117_bonino-monoteismo_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "L'hérésie de la violence au nom de Dieu (Serge-Thomas Bonino, o.p., Secrétaire général de la CTI)",
+        "hu": "Az „Isten nevében” történő erőszak eretneksége, (Serge-Thomas Bonino, O.P., a Nemzetközi Teológiai Bizottság általános titkára)",
+        "it": "L'eresia della violenza \"in nome di Dio\" - P. Serge-Thomas Bonino, O.P."
+      }
+    }
+  ]
+}

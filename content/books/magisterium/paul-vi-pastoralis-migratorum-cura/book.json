@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-pastoralis-migratorum-cura",
+  "cover": "quarter",
+  "name": {
+    "la": "Pastoralis migratorum cura - Novae normae de pastorali migratorum cura statuuntur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Augusti a. 1969, Paulus PP.VI",
+    "it": "Pastoralis migratorum cura - Lettera Apostolica in forma di Motu Proprio nella quale vengono impartite nuove norme per la Pastorale dei migranti"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1969-08-15",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1969-08-15"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19690815_pastoralis-migratorum-cura.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19690815_pastoralis-migratorum-cura.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pastoralis migratorum cura - Novae normae de pastorali migratorum cura statuuntur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Augusti a. 1969, Paulus PP.VI",
+        "it": "Pastoralis migratorum cura - Lettera Apostolica in forma di Motu Proprio nella quale vengono impartite nuove norme per la Pastorale dei migranti"
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "cdf-persona-humana",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio de quibusdam quaestionibus ad sexualem ethicam spectantibus, d. 29 m. Decembris a. 1975, Congregatio pro Doctrina Fidei",
+    "en-US": "Persona Humana - Declaration on Certain Questions Concerning Sexual Ethics, sacred congregation doctrine faith, 29 december 1975",
+    "pt-BR": "Persona Humana - Declaração sobre alguns pontos de Ética Sexual, 29 de dezembro de 1975",
+    "cs": "Declaration on certain questions concerning sexual ethics – Persona humana",
+    "de": "Persona Humana - Erklärung zu einigen Fragen der Sexualethik, 29. Dezember 1975",
+    "es": "Declaración acerca de ciertas cuestiones de ética sexual, 29 diciembre 1975",
+    "fr": "Persona Humana - Déclaration sur certaines questions d’éthique sexuelle, 29 décembre 1975",
+    "it": "Persona Humana - Alcune questioni di etica sessuale, 29 dicembre 1975",
+    "pl": "DEKLARACJA O NIEKTÓRYCH ZAGADNIENIACH ETYKI SEKSUALNEJ"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1975-12-29",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1975-12-29"
+  },
+  "composed": "1975",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_cs.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio de quibusdam quaestionibus ad sexualem ethicam spectantibus, d. 29 m. Decembris a. 1975, Congregatio pro Doctrina Fidei",
+        "en-US": "Persona Humana - Declaration on Certain Questions Concerning Sexual Ethics, sacred congregation doctrine faith, 29 december 1975",
+        "pt-BR": "Persona Humana - Declaração sobre alguns pontos de Ética Sexual, 29 de dezembro de 1975",
+        "cs": "Declaration on certain questions concerning sexual ethics – Persona humana",
+        "de": "Persona Humana - Erklärung zu einigen Fragen der Sexualethik, 29. Dezember 1975",
+        "es": "Declaración acerca de ciertas cuestiones de ética sexual, 29 diciembre 1975",
+        "fr": "Persona Humana - Déclaration sur certaines questions d’éthique sexuelle, 29 décembre 1975",
+        "it": "Persona Humana - Alcune questioni di etica sessuale, 29 dicembre 1975",
+        "pl": "DEKLARACJA O NIEKTÓRYCH ZAGADNIENIACH ETYKI SEKSUALNEJ"
+      }
+    }
+  ]
+}

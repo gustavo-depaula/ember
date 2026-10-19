@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-custodi-di-quella-fede",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Custodi di quella Fede",
+    "it": "Custodi di quella Fede"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1892-12-08",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1892-12-08"
+  },
+  "composed": "1892",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08121892_custodi-di-quella-fede.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08121892_custodi-di-quella-fede.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Custodi di quella Fede",
+        "it": "Custodi di quella Fede"
+      }
+    }
+  ]
+}

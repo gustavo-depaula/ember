@@ -1,0 +1,88 @@
+{
+  "id": "worship-san-paolo",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum quo facultas peculiaris de celebratione Conversionis Sancti Pauli apostoli in anno iubilari, quo bismillesimum anniversarium ortus eius recolitur, datur",
+    "en-US": "Decree granting a special faculty for the celebration of the Conversion of St Paul",
+    "pt-BR": "Decreto para a celebração da Conversão de São Paulo Apóstolo no ano jubilar",
+    "de": "Dekret zur Feier der Bekehrung des heiligen Apostels Paulus im Jubiläumsjahr 2008",
+    "es": "Decreto para la celebración de la Conversión de San Pablo apóstol",
+    "fr": "Décret pour la célébration de la Conversion de saint Paul Apôtre en l'année jubilaire de sa naissance",
+    "it": "Decreto celebrazione conversione di San Paolo Apostolo nell'anno giubilare"
+  },
+  "author": {
+    "en-US": "Dicastery for Divine Worship",
+    "pt-BR": "Dicastério para o Culto Divino",
+    "la": "Dicasterium de Cultu Divino"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Divine Worship · 2008-01-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para o Culto Divino · 2008-01-25"
+  },
+  "composed": "2008",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "worship"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20080125_san-paolo_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum quo facultas peculiaris de celebratione Conversionis Sancti Pauli apostoli in anno iubilari, quo bismillesimum anniversarium ortus eius recolitur, datur",
+        "en-US": "Decree granting a special faculty for the celebration of the Conversion of St Paul",
+        "pt-BR": "Decreto para a celebração da Conversão de São Paulo Apóstolo no ano jubilar",
+        "de": "Dekret zur Feier der Bekehrung des heiligen Apostels Paulus im Jubiläumsjahr 2008",
+        "es": "Decreto para la celebración de la Conversión de San Pablo apóstol",
+        "fr": "Décret pour la célébration de la Conversion de saint Paul Apôtre en l'année jubilaire de sa naissance",
+        "it": "Decreto celebrazione conversione di San Paolo Apostolo nell'anno giubilare"
+      }
+    }
+  ]
+}

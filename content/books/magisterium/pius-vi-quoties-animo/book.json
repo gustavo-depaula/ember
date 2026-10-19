@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-quoties-animo",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Quoties animo"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VI · 1799-08-13",
+    "pt-BR": "Breve · Papa Pio VI · 1799-08-13"
+  },
+  "composed": "1799",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/breve-quoties-animo-13-agosto-1799.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Quoties animo"
+      }
+    }
+  ]
+}

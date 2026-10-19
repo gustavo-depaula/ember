@@ -1,0 +1,40 @@
+{
+  "id": "clement-xiii-quanta-auxilii",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Quanta auxilii"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIII · 1765-05-08",
+    "pt-BR": "Breve · Papa Clemente XIII · 1765-05-08"
+  },
+  "composed": "1765",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/breve-quanta-auxilii-8-maggio-1765.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Quanta auxilii"
+      }
+    }
+  ]
+}

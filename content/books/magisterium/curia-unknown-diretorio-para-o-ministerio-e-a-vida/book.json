@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-diretorio-para-o-ministerio-e-a-vida",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Diretório para o ministério e a vida dos Presbíteros"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1994-01-31",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1994-01-31"
+  },
+  "composed": "1994",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/diretorio-para-o-ministerio-e-a-vida-dos-presbiteros-31-01-1994/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Diretório para o ministério e a vida dos Presbíteros"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "boniface-viii-indulgentiarum-sancti-petri-de-filimini",
+  "cover": "quarter",
+  "name": {
+    "it": "Indulgentiarum Sancti Petri de Filimini"
+  },
+  "author": {
+    "en-US": "Pope Boniface VIII",
+    "pt-BR": "Papa Bonifácio VIII",
+    "la": "Bonifatius PP. VIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Boniface VIII · 1295-07-04",
+    "pt-BR": "Documento · Papa Bonifácio VIII · 1295-07-04"
+  },
+  "composed": "1295",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "boniface-viii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1295-07-04,_SS_Bonifacius_VIII,_Indulgentiarum_Sancti_Petri_de_Filimini,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Indulgentiarum Sancti Petri de Filimini"
+      }
+    }
+  ]
+}

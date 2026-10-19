@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-orientalis-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Orientalis Ecclesiae (April 9, 1944)",
+    "en-US": "Orientalis Ecclesiae",
+    "pt-BR": "Orientalis Ecclesiae"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1944-04-09",
+    "pt-BR": "Encíclica · Papa Pio XII · 1944-04-09"
+  },
+  "composed": "1944",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1944-04-09,_SS_Pius_XII,_Encyclica._Orientalis_Ecclesiae,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_09041944_orientalis-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_09041944_orientalis-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Orientalis Ecclesiae (April 9, 1944)",
+        "en-US": "Orientalis Ecclesiae",
+        "pt-BR": "Orientalis Ecclesiae"
+      }
+    }
+  ]
+}

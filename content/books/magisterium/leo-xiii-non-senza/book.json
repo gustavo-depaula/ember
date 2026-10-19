@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-non-senza",
+  "cover": "quarter",
+  "name": {
+    "la": "Haud sine",
+    "it": "Non senza"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1886-01-06",
+    "pt-BR": "Carta · Papa Leão XIII · 1886-01-06"
+  },
+  "composed": "1886",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_18860106_non-senza.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18860106_non-senza.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Haud sine",
+        "it": "Non senza"
+      }
+    }
+  ]
+}

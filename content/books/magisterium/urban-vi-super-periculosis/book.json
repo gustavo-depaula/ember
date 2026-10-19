@@ -1,0 +1,40 @@
+{
+  "id": "urban-vi-super-periculosis",
+  "cover": "quarter",
+  "name": {
+    "it": "Super Periculosis"
+  },
+  "author": {
+    "en-US": "Pope Urban VI",
+    "pt-BR": "Papa Urbano VI",
+    "la": "Urbanus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Urban VI · 1377-05-22",
+    "pt-BR": "Documento · Papa Urbano VI · 1377-05-22"
+  },
+  "composed": "1377",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "urban-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1377-05-22,_SS_Urbanus_VI,_Super_Periculosis,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Super Periculosis"
+      }
+    }
+  ]
+}

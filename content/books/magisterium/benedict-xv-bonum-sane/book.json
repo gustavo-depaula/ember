@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-bonum-sane",
+  "cover": "quarter",
+  "name": {
+    "la": "Bonum sane, Motu proprio, De sacris solemnibus anni quinquagesimi ex quo S. Ioseph B. M. V. Sponsus Ecclesiae Catholicae patronus renuntiatus est, d. 25 m. Iulii a. 1920, Benedictus PP. XV",
+    "it": "Bonum Sane, sulla devozione a San Giuseppe da mezzo secolo Patrono della Chiesa cattolica"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XV · 1920-07-25",
+    "pt-BR": "Motu Proprio · Papa Bento XV · 1920-07-25"
+  },
+  "composed": "1920",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xv/la/motu_proprio/documents/hf_ben-xv_motu-proprio_19200725_bonum-sane.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/motu_proprio/documents/hf_ben-xv_motu-proprio_19200725_bonum-sane.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bonum sane, Motu proprio, De sacris solemnibus anni quinquagesimi ex quo S. Ioseph B. M. V. Sponsus Ecclesiae Catholicae patronus renuntiatus est, d. 25 m. Iulii a. 1920, Benedictus PP. XV",
+        "it": "Bonum Sane, sulla devozione a San Giuseppe da mezzo secolo Patrono della Chiesa cattolica"
+      }
+    }
+  ]
+}

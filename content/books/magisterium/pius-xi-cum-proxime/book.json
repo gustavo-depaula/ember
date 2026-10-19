@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-cum-proxime",
+  "cover": "quarter",
+  "name": {
+    "it": "Motu Proprio Cum Proxime, sulle nuove norme a proposito delle riunioni dei cardinali chiamati ad eleggere il nuovo Papa"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius XI · 1922-03-01",
+    "pt-BR": "Motu Proprio · Papa Pio XI · 1922-03-01"
+  },
+  "composed": "1922",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/motu_proprio/documents/hf_p-xi_motu-proprio_19220301_cum-proxime.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Motu Proprio Cum Proxime, sulle nuove norme a proposito delle riunioni dei cardinali chiamati ad eleggere il nuovo Papa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "cdf-ratzinger-newman",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Presentation by Card. Ratzinger on the 1st centenary of Card. Newman's death",
+    "pt-BR": "Centenário da morte do cardeal Newman",
+    "fr": "Discours du Cardinal Ratzinger à l'occasion du centenaire de la mort du Cardinal John H. Newman",
+    "it": "Discorso del Card. Ratzinger nel centenario della morte del Card. John H. Newman"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1990-04-28",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1990-04-28"
+  },
+  "composed": "1990",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900428_ratzinger-newman_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900428_ratzinger-newman_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900428_ratzinger-newman_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900428_ratzinger-newman_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Presentation by Card. Ratzinger on the 1st centenary of Card. Newman's death",
+        "pt-BR": "Centenário da morte do cardeal Newman",
+        "fr": "Discours du Cardinal Ratzinger à l'occasion du centenaire de la mort du Cardinal John H. Newman",
+        "it": "Discorso del Card. Ratzinger nel centenario della morte del Card. John H. Newman"
+      }
+    }
+  ]
+}

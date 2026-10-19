@@ -1,0 +1,56 @@
+{
+  "id": "john-xxiii-religioso-convegno",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Il religioso convegno, recitação do Santo Rosário pela Paz entre as nações",
+    "es": "Il religioso convegno, sobre el rezo del santo Rosario",
+    "it": "Il religioso convegno, la recita del Santo Rosario per la giusta pace tra le Nazioni"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John XXIII · 1961-09-29",
+    "pt-BR": "Carta Apostólica · Papa João XXIII · 1961-09-29"
+  },
+  "composed": "1961",
+  "languages": [
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/apost_letters/1961/documents/hf_j-xxiii_apl_19610929_religioso-convegno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/apost_letters/1961/documents/hf_j-xxiii_apl_19610929_religioso-convegno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/apost_letters/1961/documents/hf_j-xxiii_apl_19610929_religioso-convegno.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Il religioso convegno, recitação do Santo Rosário pela Paz entre as nações",
+        "es": "Il religioso convegno, sobre el rezo del santo Rosario",
+        "it": "Il religioso convegno, la recita del Santo Rosario per la giusta pace tra le Nazioni"
+      }
+    }
+  ]
+}

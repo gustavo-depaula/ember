@@ -1,0 +1,40 @@
+{
+  "id": "dionysius-ad-severum-episcopum",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum ad Severum Episcopum"
+  },
+  "author": {
+    "en-US": "Pope Dionysius",
+    "pt-BR": "Papa Dionísio",
+    "la": "Dionysius PP."
+  },
+  "description": {
+    "en-US": "Decree · Pope Dionysius · 0260",
+    "pt-BR": "Decreto · Papa Dionísio · 0260"
+  },
+  "composed": "260",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "decree",
+    "dionysius"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0260-0268,_SS_Dionysius,_Decretum_ad_Severum_Episcopum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum ad Severum Episcopum"
+      }
+    }
+  ]
+}

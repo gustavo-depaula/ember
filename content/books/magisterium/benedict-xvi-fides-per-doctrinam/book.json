@@ -1,0 +1,80 @@
+{
+  "id": "benedict-xvi-fides-per-doctrinam",
+  "cover": "quarter",
+  "name": {
+    "la": "Fides per doctrinam, die XVI mensis Ianuarii, anno Domini MMXIII - Benedictus XVI, Motu proprio",
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" “Fides per Doctrinam” whereby the Apostolic Constitution “Pastor Bonus” is modified and competence for catechesis is transferred from the Congregation for the Clergy to the Pontifical Council for Promoting the New Evangelization",
+    "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Fides per doctrinam com a qual se modifica a Constituição Pastor bonus e se transfere a competência sobre a Catequese da Congregação para o Clero à Promoção da Nova Evangelização",
+    "es": "Carta Apostólica en forma de Motu Proprio Fides per doctrinam con la que se modifica la Constitución apostólica Pastor bonus y se trasfiere la competencia sobre la catequesis desde la Congregación para el clero al Consejo pontificio para la promoción de la nueva evangelización",
+    "fr": "Lettre apostolique en forme de « Motu Proprio » Fides per doctrinam modifiant la Constitution apostolique Pastor bonus et transférant la compétence pour la catéchèse de la Congrégation pour le clergé au Conseil pontifical pour la promotion de la nouvelle évangélisation",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Fides per doctrinam con la quale si modifica la Costituzione apostolica Pastor bonus e si trasferisce la competenza sulla Catechesi dalla Congregazione per il Clero al Pontificio Consiglio per la Promozione della Nuova Evangelizzazione"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2013-01-16",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2013-01-16"
+  },
+  "composed": "2013",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_fides-per-doctrinam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_fides-per-doctrinam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_fides-per-doctrinam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_fides-per-doctrinam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_fides-per-doctrinam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_fides-per-doctrinam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Fides per doctrinam, die XVI mensis Ianuarii, anno Domini MMXIII - Benedictus XVI, Motu proprio",
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" “Fides per Doctrinam” whereby the Apostolic Constitution “Pastor Bonus” is modified and competence for catechesis is transferred from the Congregation for the Clergy to the Pontifical Council for Promoting the New Evangelization",
+        "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Fides per doctrinam com a qual se modifica a Constituição Pastor bonus e se transfere a competência sobre a Catequese da Congregação para o Clero à Promoção da Nova Evangelização",
+        "es": "Carta Apostólica en forma de Motu Proprio Fides per doctrinam con la que se modifica la Constitución apostólica Pastor bonus y se trasfiere la competencia sobre la catequesis desde la Congregación para el clero al Consejo pontificio para la promoción de la nueva evangelización",
+        "fr": "Lettre apostolique en forme de « Motu Proprio » Fides per doctrinam modifiant la Constitution apostolique Pastor bonus et transférant la compétence pour la catéchèse de la Congrégation pour le clergé au Conseil pontifical pour la promotion de la nouvelle évangélisation",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Fides per doctrinam con la quale si modifica la Costituzione apostolica Pastor bonus e si trasferisce la competenza sulla Catechesi dalla Congregazione per il Clero al Pontificio Consiglio per la Promozione della Nuova Evangelizzazione"
+      }
+    }
+  ]
+}

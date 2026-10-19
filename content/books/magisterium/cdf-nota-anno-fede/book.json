@@ -1,0 +1,88 @@
+{
+  "id": "cdf-nota-anno-fede",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Note with pastoral recommendations for the Year of Faith, 6 January 2012",
+    "pt-BR": "Nota com indicações pastorais para o Ano da Fé, 6 janeiro 2012",
+    "de": "Note mit pastoralen Hinweisen zum Jahr des Glaubens, 6. Januar 2012",
+    "es": "Nota con indicaciones pastorales para el Año de la fe, 6 enero 2012",
+    "fr": "Note avec indications pastorales pour l’Année de la foi, 6 janvier 2012",
+    "it": "Nota con indicazioni pastorali per l’Anno della fede, 6 gennaio 2012",
+    "pl": "Nota zawierająca wskazania duszpasterskie na Rok Wiary, 6 stycznia 2012 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2012-01-06",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2012-01-06"
+  },
+  "composed": "2012",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Note with pastoral recommendations for the Year of Faith, 6 January 2012",
+        "pt-BR": "Nota com indicações pastorais para o Ano da Fé, 6 janeiro 2012",
+        "de": "Note mit pastoralen Hinweisen zum Jahr des Glaubens, 6. Januar 2012",
+        "es": "Nota con indicaciones pastorales para el Año de la fe, 6 enero 2012",
+        "fr": "Note avec indications pastorales pour l’Année de la foi, 6 janvier 2012",
+        "it": "Nota con indicazioni pastorali per l’Anno della fede, 6 gennaio 2012",
+        "pl": "Nota zawierająca wskazania duszpasterskie na Rok Wiary, 6 stycznia 2012 r."
+      }
+    }
+  ]
+}

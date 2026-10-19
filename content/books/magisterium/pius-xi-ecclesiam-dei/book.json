@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-ecclesiam-dei",
+  "cover": "quarter",
+  "name": {
+    "la": "Ecclesiam Dei, Epistola Encyclica in Natali CCC Sancti Iosaphat Martiris Archiepiscopi polocensis ritus orientalis, d. 12 m. Novembris, a. 1923, Pius PP. XI",
+    "en-US": "Ecclesiam Dei",
+    "it": "Ecclesiam Dei"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1923-11-12",
+    "pt-BR": "Encíclica · Papa Pio XI · 1923-11-12"
+  },
+  "composed": "1923",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius11/p11eccle.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19231112_ecclesiam-dei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ecclesiam Dei, Epistola Encyclica in Natali CCC Sancti Iosaphat Martiris Archiepiscopi polocensis ritus orientalis, d. 12 m. Novembris, a. 1923, Pius PP. XI",
+        "en-US": "Ecclesiam Dei",
+        "it": "Ecclesiam Dei"
+      }
+    }
+  ]
+}

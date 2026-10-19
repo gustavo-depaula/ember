@@ -1,0 +1,48 @@
+{
+  "id": "clement-xiii-appetente-sacro",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Appetente Sacro",
+    "it": "Enciclica Appetente sacro"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Clement XIII · 1759-12-20",
+    "pt-BR": "Encíclica · Papa Clemente XIII · 1759-12-20"
+  },
+  "composed": "1759",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem13/c13appet.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/enciclica-appetente-sacro-20-dicembre-1759.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Appetente Sacro",
+        "it": "Enciclica Appetente sacro"
+      }
+    }
+  ]
+}

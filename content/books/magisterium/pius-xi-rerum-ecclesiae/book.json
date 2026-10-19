@@ -1,0 +1,64 @@
+{
+  "id": "pius-xi-rerum-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Rerum Ecclesiae, Litterae Encyclicae de sacris missionibus provehendis, d. 28 m. Februarii a. 1926, Pius PP. XI",
+    "en-US": "Rerum Ecclesiae",
+    "es": "Rerum Ecclesiae",
+    "it": "Rerum Ecclesiae"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1926-02-28",
+    "pt-BR": "Encíclica · Papa Pio XI · 1926-02-28"
+  },
+  "composed": "1926",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_28021926_rerum-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Rerum Ecclesiae, Litterae Encyclicae de sacris missionibus provehendis, d. 28 m. Februarii a. 1926, Pius PP. XI",
+        "en-US": "Rerum Ecclesiae",
+        "es": "Rerum Ecclesiae",
+        "it": "Rerum Ecclesiae"
+      }
+    }
+  ]
+}

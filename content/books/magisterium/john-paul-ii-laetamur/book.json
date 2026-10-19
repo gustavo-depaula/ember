@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-laetamur",
+  "cover": "quarter",
+  "name": {
+    "la": "LITTERAE APOSTOLICAE LAETAMUR MAGNOPERE",
+    "en-US": "Laetamur magnopere",
+    "pt-BR": "Laetamur magnopere",
+    "de": "Laetamur magnopere",
+    "es": "Laetamur magnopere",
+    "fr": "Laetamur magnopere (August 15, 1997)",
+    "it": "Laetamur magnopere",
+    "pl": "Laetamur magnopere (August 15, 1997)"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1997-08-15",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1997-08-15"
+  },
+  "composed": "1997",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1997-08-15,_SS_Ioannes_Paulus_II,_Catechismus_Catholicae_Ecclesiae,_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1997/documents/hf_jp-ii_apl_15081997_laetamur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1997-08-15,_SS_Ioannes_Paulus_II,_Catechismus_Catholicae_Ecclesiae,_PL.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "LITTERAE APOSTOLICAE LAETAMUR MAGNOPERE",
+        "en-US": "Laetamur magnopere",
+        "pt-BR": "Laetamur magnopere",
+        "de": "Laetamur magnopere",
+        "es": "Laetamur magnopere",
+        "fr": "Laetamur magnopere (August 15, 1997)",
+        "it": "Laetamur magnopere",
+        "pl": "Laetamur magnopere (August 15, 1997)"
+      }
+    }
+  ]
+}

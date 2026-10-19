@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-magnum-matrimonii-sacramentum",
+  "cover": "quarter",
+  "name": {
+    "la": "Magnum Matrimonii Sacramentum, die VII mensis Octobris, anno MCMLXXXII - Constitutio Apostolica, Ioannes Paulus PP. II",
+    "pt-BR": "Magnum Matrimonii Sacramentum",
+    "es": "Magnum Matrimonii Sacramentum",
+    "it": "Magnum Matrimonii Sacramentum"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope John Paul II · 1982-10-07",
+    "pt-BR": "Constituição Apostólica · Papa João Paulo II · 1982-10-07"
+  },
+  "composed": "1982",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_07101982_magnum-matrimonii-sacramentum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_constitutions/documents/hf_jp-ii_apc_07101982_magnum-matrimonii-sacramentum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_constitutions/documents/hf_jp-ii_apc_07101982_magnum-matrimonii-sacramentum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_07101982_magnum-matrimonii-sacramentum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Magnum Matrimonii Sacramentum, die VII mensis Octobris, anno MCMLXXXII - Constitutio Apostolica, Ioannes Paulus PP. II",
+        "pt-BR": "Magnum Matrimonii Sacramentum",
+        "es": "Magnum Matrimonii Sacramentum",
+        "it": "Magnum Matrimonii Sacramentum"
+      }
+    }
+  ]
+}

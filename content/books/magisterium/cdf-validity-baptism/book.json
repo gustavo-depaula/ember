@@ -1,0 +1,96 @@
+{
+  "id": "cdf-validity-baptism",
+  "cover": "quarter",
+  "name": {
+    "la": "Responsa ad proposita dubia de validitate baptismatis",
+    "en-US": "Responses to questions proposed on the validity of Baptism",
+    "pt-BR": "Resposta a dúvidas propostas sobre a validade do Batismo",
+    "cs": "Odpovědi na předložené otázky o platnosti křtu udělovaného formulí",
+    "de": "Antwort auf vorgelegte Zweifel über die Gültigkeit der Taufe unter Anwendung der Formeln",
+    "es": "Validez del bautismo",
+    "fr": "Réponses aux questions sur la validité du baptême, 11 février 2008",
+    "it": "Risposte a quesiti proposti sulla validità del Battesimo"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2008-02-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2008-02-01"
+  },
+  "composed": "2008",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20080201_validity-baptism_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Responsa ad proposita dubia de validitate baptismatis",
+        "en-US": "Responses to questions proposed on the validity of Baptism",
+        "pt-BR": "Resposta a dúvidas propostas sobre a validade do Batismo",
+        "cs": "Odpovědi na předložené otázky o platnosti křtu udělovaného formulí",
+        "de": "Antwort auf vorgelegte Zweifel über die Gültigkeit der Taufe unter Anwendung der Formeln",
+        "es": "Validez del bautismo",
+        "fr": "Réponses aux questions sur la validité du baptême, 11 février 2008",
+        "it": "Risposte a quesiti proposti sulla validità del Battesimo"
+      }
+    }
+  ]
+}

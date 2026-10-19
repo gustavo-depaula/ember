@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-caritate-christi-compulsi",
+  "cover": "quarter",
+  "name": {
+    "la": "Caritate Christi compulsi, Litterae Encyclicae de precationibus piaculisque Ss.Mo Cordi Iesu exhibendis in praesentibus humani generis aerumnis, d. 3 m. Maii a. 1932, Pius PP. XI",
+    "en-US": "Caritate Christi Compulsi",
+    "it": "Caritate Christi Compulsi"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1932-05-03",
+    "pt-BR": "Encíclica · Papa Pio XI · 1932-05-03"
+  },
+  "composed": "1932",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_03051932_caritate-christi-compulsi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Caritate Christi compulsi, Litterae Encyclicae de precationibus piaculisque Ss.Mo Cordi Iesu exhibendis in praesentibus humani generis aerumnis, d. 3 m. Maii a. 1932, Pius PP. XI",
+        "en-US": "Caritate Christi Compulsi",
+        "it": "Caritate Christi Compulsi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-ii-sigismundo-1443-12-09",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Sigismundo [1443-12-09]"
+  },
+  "author": {
+    "en-US": "Pope Pius II",
+    "pt-BR": "Papa Pio II",
+    "la": "Pius PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius II · 1405",
+    "pt-BR": "Carta · Papa Pio II · 1405"
+  },
+  "composed": "1405",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1405-1464,_Piccolominus_Enea_[postea_Pius_II],_Epistula_Sigismundo_[1443-12-09],_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Sigismundo [1443-12-09]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-religiosos-e-promocao-humana",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Religiosos e promoção humana"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1980-08-12",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1980-08-12"
+  },
+  "composed": "1980",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/documento-religiosos-e-promocao-humana-sobre-a-vida-e-a-missao-dos-religiosos-12-08-1980/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Religiosos e promoção humana"
+      }
+    }
+  ]
+}

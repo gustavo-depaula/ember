@@ -1,0 +1,88 @@
+{
+  "id": "cdf-scomunica",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decree of Excommunication",
+    "pt-BR": "Decreto de excomunhão a senhoras católicas, 5 de agosto de 2002",
+    "de": "Exkommunikationsdekret, 5. August 2002",
+    "es": "Decreto de excomunión contra algunas mujeres católicas, 5 agosto 2002",
+    "fr": "Décret d’excommunication, 5 août 2002",
+    "it": "Decreto di scomunica, 5 agosto 2002",
+    "pl": "DEKRET O EKSKOMUNICE"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2002-08-05",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2002-08-05"
+  },
+  "composed": "2002",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20020805_decreto-scomunica_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decree of Excommunication",
+        "pt-BR": "Decreto de excomunhão a senhoras católicas, 5 de agosto de 2002",
+        "de": "Exkommunikationsdekret, 5. August 2002",
+        "es": "Decreto de excomunión contra algunas mujeres católicas, 5 agosto 2002",
+        "fr": "Décret d’excommunication, 5 août 2002",
+        "it": "Decreto di scomunica, 5 agosto 2002",
+        "pl": "DEKRET O EKSKOMUNICE"
+      }
+    }
+  ]
+}

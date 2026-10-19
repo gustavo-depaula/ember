@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-nos-es-muy-conocida-2",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pius XI, Nos es muy conocida"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1937-03-28",
+    "pt-BR": "Encíclica · Papa Pio XI · 1937-03-28"
+  },
+  "composed": "1937",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_28031937_nos-es-muy-conocida.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pius XI, Nos es muy conocida"
+      }
+    }
+  ]
+}

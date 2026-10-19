@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-ubi-primum-18470617",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Ubi primum"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1847-06-17",
+    "pt-BR": "Encíclica · Papa Pio IX · 1847-06-17"
+  },
+  "composed": "1847",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-ubi-primum-17-giugno-1847.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Ubi primum"
+      }
+    }
+  ]
+}

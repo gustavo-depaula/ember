@@ -1,0 +1,72 @@
+{
+  "id": "paul-vi-mense-maio",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Encyclica, Mense maio, die XXIX mensis Aprilis, anno MCMLXV - Paulus VI",
+    "en-US": "Mense Maio",
+    "pt-BR": "Mense Maio",
+    "es": "Mense maio",
+    "it": "Mense Maio"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Paul VI · 1965-04-29",
+    "pt-BR": "Encíclica · Papa Paulo VI · 1965-04-29"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_29041965_mense-maio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Encyclica, Mense maio, die XXIX mensis Aprilis, anno MCMLXV - Paulus VI",
+        "en-US": "Mense Maio",
+        "pt-BR": "Mense Maio",
+        "es": "Mense maio",
+        "it": "Mense Maio"
+      }
+    }
+  ]
+}

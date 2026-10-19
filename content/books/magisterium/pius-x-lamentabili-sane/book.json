@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-lamentabili-sane",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Lamentabili Sane",
+    "it": "Lamentabili Sane"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1907-06-03",
+    "pt-BR": "Documento · Papa Pio X · 1907-06-03"
+  },
+  "composed": "1907",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10lamen.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1907-06-03,_SS_Pius_X,_Syllabus_'Lamentabili_Sane',_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Lamentabili Sane",
+        "it": "Lamentabili Sane"
+      }
+    }
+  ]
+}

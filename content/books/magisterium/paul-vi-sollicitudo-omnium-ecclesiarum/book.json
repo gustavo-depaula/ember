@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-sollicitudo-omnium-ecclesiarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Sollicitudo omnium Ecclesiarum - De muneribus Legatorum Romani Pontificis, Litterae Apostolicae Motu Proprio datae, Die 24 m. Iunii a. 1969, Paulus PP.VI",
+    "it": "Sollicitudo omnium Ecclesiarum - Lettera Apostolica in forma di Motu Proprio riguardante l'Ufficio dei rappresentanti del Pontefice Romano"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1969-06-24",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1969-06-24"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19690624_sollicitudo-omnium-ecclesiarum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19690624_sollicitudo-omnium-ecclesiarum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sollicitudo omnium Ecclesiarum - De muneribus Legatorum Romani Pontificis, Litterae Apostolicae Motu Proprio datae, Die 24 m. Iunii a. 1969, Paulus PP.VI",
+        "it": "Sollicitudo omnium Ecclesiarum - Lettera Apostolica in forma di Motu Proprio riguardante l'Ufficio dei rappresentanti del Pontefice Romano"
+      }
+    }
+  ]
+}

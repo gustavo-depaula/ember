@@ -1,0 +1,40 @@
+{
+  "id": "clement-i-episola-ad-iulium-iulianumque-fratres",
+  "cover": "quarter",
+  "name": {
+    "la": "Episola ad Iulium Iulianumque Fratres"
+  },
+  "author": {
+    "en-US": "Pope Clement I",
+    "pt-BR": "Papa Clemente I",
+    "la": "Clemens PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Clement I · 0088",
+    "pt-BR": "Documento · Papa Clemente I · 0088"
+  },
+  "composed": "88",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "clement-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Episola_ad_Iulium_Iulianumque_Fratres,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Episola ad Iulium Iulianumque Fratres"
+      }
+    }
+  ]
+}

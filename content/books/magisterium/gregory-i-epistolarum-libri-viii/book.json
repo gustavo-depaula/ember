@@ -1,0 +1,40 @@
+{
+  "id": "gregory-i-epistolarum-libri-viii",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Epistolarum Libri VIII"
+  },
+  "author": {
+    "en-US": "Pope Gregory I",
+    "pt-BR": "Papa Gregório I",
+    "la": "Gregorius PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory I · 0590",
+    "pt-BR": "Documento · Papa Gregório I · 0590"
+  },
+  "composed": "590",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-i"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_Epistolarum_Libri_VIII,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Epistolarum Libri VIII"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "sixtus-v-postquam-verus",
+  "cover": "quarter",
+  "name": {
+    "la": "Constitutio 'Postquam Verus'"
+  },
+  "author": {
+    "en-US": "Pope Sixtus V",
+    "pt-BR": "Papa Sisto V",
+    "la": "Sixtus PP. V"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Sixtus V · 1586-12-03",
+    "pt-BR": "Constituição Apostólica · Papa Sisto V · 1586-12-03"
+  },
+  "composed": "1586",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "sixtus-v"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1586-12-03,_SS_Sixtus_V,_Constitutio_'Postquam_Verus',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Constitutio 'Postquam Verus'"
+      }
+    }
+  ]
+}

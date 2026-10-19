@@ -1,0 +1,48 @@
+{
+  "id": "gregory-xiii-compendium-novae-rationis",
+  "cover": "quarter",
+  "name": {
+    "la": "Compendium Novae Rationis",
+    "fr": "Compendium Novae Rationis"
+  },
+  "author": {
+    "en-US": "Pope Gregory XIII",
+    "pt-BR": "Papa Gregório XIII",
+    "la": "Gregorius PP. XIII"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XIII · 1584-02-24",
+    "pt-BR": "Documento · Papa Gregório XIII · 1584-02-24"
+  },
+  "composed": "1584",
+  "languages": [
+    "la",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1584-02-24,_SS_Gregorius_XIII,_Compendium_Novae_Rationis,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1584-02-24,_SS_Gregorius_XIII,_Compendium_Novae_Rationis,_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Compendium Novae Rationis",
+        "fr": "Compendium Novae Rationis"
+      }
+    }
+  ]
+}

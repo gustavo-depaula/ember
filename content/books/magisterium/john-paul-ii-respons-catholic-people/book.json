@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-respons-catholic-people",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Italian Bishops on the responsibilities of the Catholic people",
+    "es": "Carta a los obispos italianos sobre las responsabilidades de los católicos ante los desafíos del momento histórico actual",
+    "it": "Lettera ai Vescovi italiani sulle responsabilità dei Cattolici di fronte alle sfide dell'attuale momento storico"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1994-01-06",
+    "pt-BR": "Carta · Papa João Paulo II · 1994-01-06"
+  },
+  "composed": "1994",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1994/documents/hf_jp-ii_let_06011994_respons-catholic-people.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1994/documents/hf_jp-ii_let_06011994_respons-catholic-people.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1994/documents/hf_jp-ii_let_06011994_respons-catholic-people.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Italian Bishops on the responsibilities of the Catholic people",
+        "es": "Carta a los obispos italianos sobre las responsabilidades de los católicos ante los desafíos del momento histórico actual",
+        "it": "Lettera ai Vescovi italiani sulle responsabilità dei Cattolici di fronte alle sfide dell'attuale momento storico"
+      }
+    }
+  ]
+}

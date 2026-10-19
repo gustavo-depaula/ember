@@ -1,0 +1,48 @@
+{
+  "id": "gregory-ix-religiosam-vitam",
+  "cover": "quarter",
+  "name": {
+    "la": "Religiosam Vitam",
+    "pt-BR": "Religiosam Vitam"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory IX · 1229-01-13",
+    "pt-BR": "Documento · Papa Gregório IX · 1229-01-13"
+  },
+  "composed": "1229",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1229-01-13,_SS_Gregorius_VIIII,_Religiosam_Vitam,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1229-01-13,_SS_Gregorius_VIIII,_Religiosam_Vitam,_PT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Religiosam Vitam",
+        "pt-BR": "Religiosam Vitam"
+      }
+    }
+  ]
+}

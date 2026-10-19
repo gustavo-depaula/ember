@@ -1,0 +1,40 @@
+{
+  "id": "cdf-ratzinger-mulieris",
+  "cover": "quarter",
+  "name": {
+    "es": "Presentación de la “Mulieris Dignitatem” de Juan Pablo II"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1988-09-30",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1988-09-30"
+  },
+  "composed": "1988",
+  "languages": [
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19880930_ratzinger-mulieris_sp.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Presentación de la “Mulieris Dignitatem” de Juan Pablo II"
+      }
+    }
+  ]
+}

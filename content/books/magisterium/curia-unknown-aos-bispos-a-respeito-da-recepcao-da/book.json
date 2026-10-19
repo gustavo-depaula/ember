@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-aos-bispos-a-respeito-da-recepcao-da",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Carta aos Bispos a respeito da recepção da comunhão eucarística por fiéis divorciados novamente casados"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1994-09-14",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1994-09-14"
+  },
+  "composed": "1994",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/carta-aos-bispos-a-respeito-da-recepcao-da-comunhao-eucaristica-por-fieis-divorciados-novamente-casados-14-09-1994/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Carta aos Bispos a respeito da recepção da comunhão eucarística por fiéis divorciados novamente casados"
+      }
+    }
+  ]
+}

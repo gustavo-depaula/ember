@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-la-singolare",
+  "cover": "quarter",
+  "name": {
+    "fr": "Lettre La singolare, au Cardinal Pietro Gasparri, Secrétaire d'État, en faveur de l'Autriche",
+    "it": "Epistola La singolare, al Cardinale Pietro Gasparri sulla condizione di miseria in cui versa l'Austria"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1921-01-24",
+    "pt-BR": "Carta · Papa Bento XV · 1921-01-24"
+  },
+  "composed": "1921",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/letters/1921/documents/hf_ben-xv_let_19210124_la-singolare.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1921/documents/hf_ben-xv_let_19210124_la-singolare.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Lettre La singolare, au Cardinal Pietro Gasparri, Secrétaire d'État, en faveur de l'Autriche",
+        "it": "Epistola La singolare, al Cardinale Pietro Gasparri sulla condizione di miseria in cui versa l'Austria"
+      }
+    }
+  ]
+}

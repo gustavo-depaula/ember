@@ -1,0 +1,48 @@
+{
+  "id": "clement-xiv-cum-summi-apostolatus",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Cum Summi",
+    "it": "Enciclica Cum summi apostolatus"
+  },
+  "author": {
+    "en-US": "Pope Clement XIV",
+    "pt-BR": "Papa Clemente XIV",
+    "la": "Clemens PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Clement XIV · 1769-12-12",
+    "pt-BR": "Encíclica · Papa Clemente XIV · 1769-12-12"
+  },
+  "composed": "1769",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "clement-xiv"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem14/c14cumsu.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiv/it/documents/enciclica-cum-summi-apostolatus-12-dicembre-1769.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Cum Summi",
+        "it": "Enciclica Cum summi apostolatus"
+      }
+    }
+  ]
+}

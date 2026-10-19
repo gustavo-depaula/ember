@@ -1,0 +1,40 @@
+{
+  "id": "eugene-iv-non-mediocri",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistola 'Non Mediocri'"
+  },
+  "author": {
+    "en-US": "Pope Eugene IV",
+    "pt-BR": "Papa Eugênio IV",
+    "la": "Eugenius PP. IV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Eugene IV · 1431",
+    "pt-BR": "Carta · Papa Eugênio IV · 1431"
+  },
+  "composed": "1431",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "eugene-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1431-1447,_SS_Eugenius_IV,_Epistola_'Non_Mediocri'_[AD_1441],_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola 'Non Mediocri'"
+      }
+    }
+  ]
+}

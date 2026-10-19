@@ -1,0 +1,23 @@
+# Lettera al Presidente del Pontificio Consiglio per la Famiglia in preparazione al VII Incontro Mondiale delle Famiglie
+
+***LETTERA DEL SANTO PADRE BENEDETTO XVI AL PRESIDENTE DEL PONTIFICIO CONSIGLIO PER LA FAMIGLIA IN PREPARAZIONE AL VII INCONTRO MONDIALE DELLE FAMIGLIE***
+
+*Venerato Fratello Cardinale ENNIO ANTONELLI Presidente del Pontificio Consiglio per la Famiglia*
+
+A conclusione del VI Incontro Mondiale delle Famiglie, svoltosi a Città del Messico nel gennaio 2009, annunciai che il successivo appuntamento delle famiglie cattoliche del mondo intero con il Successore di Pietro avrebbe avuto luogo a Milano, nel 2012, sul tema “La Famiglia: il lavoro e la festa”. Desiderando ora avviare la preparazione di tale importante evento, sono lieto di precisare che esso, a Dio piacendo, si svolgerà dal 30 maggio al 3 giugno, e fornire al tempo stesso qualche indicazione più dettagliata riguardo alla tematica e alle modalità di attuazione.
+
+Il lavoro e la festa sono intimamente collegati con la vita delle famiglie: ne condizionano le scelte, influenzano le relazioni tra i coniugi e tra i genitori e i figli, incidono sul rapporto della famiglia con la società e con la Chiesa. La Sacra Scrittura (cfr *Gen*1-2) ci dice che famiglia, lavoro e giorno festivo sono doni e benedizioni di Dio per aiutarci a vivere un’esistenza pienamente umana. L’esperienza quotidiana attesta che lo sviluppo autentico della persona comprende sia la dimensione individuale, familiare e comunitaria, sia le attività e le relazioni funzionali, come pure l’apertura alla speranza e al Bene senza limiti.
+
+Ai nostri giorni, purtroppo, l’organizzazione del lavoro, pensata e attuata in funzione della concorrenza di mercato e del massimo profitto, e la concezione della festa come occasione di evasione e di consumo, contribuiscono a disgregare la famiglia e la comunità e a diffondere uno stile di vita individualistico. Occorre perciò promuovere una riflessione e un impegno rivolti a conciliare le esigenze e i tempi del lavoro con quelli della famiglia e a ricuperare il senso vero della festa, specialmente della domenica, pasqua settimanale, giorno del Signore e giorno dell’uomo, giorno della famiglia, della comunità e della solidarietà.
+
+Il prossimo Incontro Mondiale delle Famiglie costituisce un’occasione privilegiata per ripensare il lavoro e la festa nella prospettiva di una famiglia unita e aperta alla vita, ben inserita nella società e nella Chiesa, attenta alla qualità delle relazioni oltre che all’economia dello stesso nucleo familiare. L’evento, per riuscire davvero fruttuoso, non dovrebbe però rimanere isolato, ma collocarsi entro un adeguato percorso di preparazione ecclesiale e culturale. Auspico pertanto che già nel corso dell’anno 2011, XXX anniversario dell’Esortazione apostolica *[Familiaris consortio](/content/john-paul-ii/it/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*, “*magna charta*” della pastorale familiare, possa essere intrapreso un valido itinerario con iniziative a livello parrocchiale, diocesano e nazionale, mirate a mettere in luce esperienze di lavoro e di festa nei loro aspetti più veri e positivi, con particolare riguardo all’incidenza sul vissuto concreto delle famiglie. Famiglie cristiane e comunità ecclesiali di tutto il mondo si sentano perciò interpellate e coinvolte e si pongano sollecitamente in cammino verso “Milano 2012”.
+
+Il VII Incontro Mondiale avrà, come i precedenti, una durata di cinque giorni e culminerà il sabato sera con la “Festa delle Testimonianze” e domenica mattina con la Messa solenne. Queste due celebrazioni, da me presiedute, ci vedranno tutti riuniti come “famiglia di famiglie”. Lo svolgimento complessivo dell’evento sarà curato in modo da armonizzare compiutamente le varie dimensioni: preghiera comunitaria, riflessione teologica e pastorale, momenti di fraternità e di scambio fra le famiglie ospiti con quelle del territorio, risonanza mediatica.
+
+Il Signore ricompensi fin d’ora, con abbondanti favori celesti, l’Arcidiocesi ambrosiana per la generosa disponibilità e l’impegno organizzativo messo al servizio della Chiesa Universale e delle famiglie appartenenti a tante nazioni.
+
+Mentre invoco l’intercessione della santa Famiglia di Nazaret, dedita al lavoro quotidiano e assidua alle celebrazioni festive del suo popolo, imparto di cuore a Lei, venerato Fratello, ed ai Collaboratori la Benedizione Apostolica, che, con speciale affetto, estendo volentieri a tutte le famiglie impegnate nella preparazione del grande Incontro di Milano.
+
+*Da Castel Gandolfo, 23 agosto 2010*  
+
+**BENEDETTO XVI**

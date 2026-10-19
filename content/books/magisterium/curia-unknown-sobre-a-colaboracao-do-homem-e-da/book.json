@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-sobre-a-colaboracao-do-homem-e-da",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Carta sobre a colaboração do homem e da mulher na Igreja e no mundo"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 2004-05-31",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 2004-05-31"
+  },
+  "composed": "2004",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/carta-sobre-a-colaboracao-do-homem-e-da-mulher-na-igreja-e-no-mundo-31-05-2004/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Carta sobre a colaboração do homem e da mulher na Igreja e no mundo"
+      }
+    }
+  ]
+}

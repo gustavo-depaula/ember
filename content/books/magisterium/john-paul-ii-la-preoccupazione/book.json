@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-la-preoccupazione",
+  "cover": "quarter",
+  "name": {
+    "it": "La preoccupazione - Lettera apostolica in forma di «Motu Proprio» sulla nuova regolamentazione del sistema pensionistico"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1992-09-08",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1992-09-08"
+  },
+  "composed": "1992",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_19920908_la-preoccupazione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "La preoccupazione - Lettera apostolica in forma di «Motu Proprio» sulla nuova regolamentazione del sistema pensionistico"
+      }
+    }
+  ]
+}

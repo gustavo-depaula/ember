@@ -1,0 +1,48 @@
+{
+  "id": "pius-vi-inscrutabile-divinae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Inscrutabile",
+    "it": "Enciclica Inscrutabile Divinae"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius VI · 1775-12-25",
+    "pt-BR": "Encíclica · Papa Pio VI · 1775-12-25"
+  },
+  "composed": "1775",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius06/p6inscru.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/enciclica-inscrutabile-divinae-25-dicembre-1775.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Inscrutabile",
+        "it": "Enciclica Inscrutabile Divinae"
+      }
+    }
+  ]
+}

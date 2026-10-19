@@ -1,0 +1,72 @@
+{
+  "id": "pius-x-haerent-animo",
+  "cover": "quarter",
+  "name": {
+    "la": "Haerent animo",
+    "en-US": "Haerent Animo",
+    "es": "Haerent Animo (4 Agosto 1908)",
+    "fr": "Haerent Animo (4 Agosto 1908)",
+    "it": "Haerent Animo"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius X · 1908-08-04",
+    "pt-BR": "Exortação Apostólica · Papa Pio X · 1908-08-04"
+  },
+  "composed": "1908",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/apost_exhortations/documents/hf_p-x_exh_19080804_haerent-animo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10haer.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1908-08-04,_SS_Pius_X,_Adhortatio_'Haerent_Animo',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1908-08-04,_SS_Pius_X,_Adhortatio_'Haerent_Animo',_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/apost_exhortations/documents/hf_p-x_exh_19080804_haerent-animo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Haerent animo",
+        "en-US": "Haerent Animo",
+        "es": "Haerent Animo (4 Agosto 1908)",
+        "fr": "Haerent Animo (4 Agosto 1908)",
+        "it": "Haerent Animo"
+      }
+    }
+  ]
+}

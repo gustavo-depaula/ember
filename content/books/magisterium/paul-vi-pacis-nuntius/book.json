@@ -1,0 +1,56 @@
+{
+  "id": "paul-vi-pacis-nuntius",
+  "cover": "quarter",
+  "name": {
+    "la": "Pacis nuntius, Littera Apostolica, Die 29 m. Octobris a. 1964, Paulus PP.VI",
+    "es": "Carta apostólica Pacis nuntius, con la que se proclama a san Benito como Patrono de Europa",
+    "it": "Pacis nuntius"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1964-10-24",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1964-10-24"
+  },
+  "composed": "1964",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19641024_pacis-nuntius.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_letters/documents/hf_p-vi_apl_19641024_pacis-nuntius.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19641024_pacis-nuntius.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pacis nuntius, Littera Apostolica, Die 29 m. Octobris a. 1964, Paulus PP.VI",
+        "es": "Carta apostólica Pacis nuntius, con la que se proclama a san Benito como Patrono de Europa",
+        "it": "Pacis nuntius"
+      }
+    }
+  ]
+}

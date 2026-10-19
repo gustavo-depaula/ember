@@ -1,0 +1,54 @@
+# Erklärende Note zur Notifikation zu den Werken von P. Jon Sobrino SJ
+
+[](/index.htm)
+
+[](javascript:history.go(-1)) [](javascript:up())
+
+KONGREGATION FÜR DIE GLAUBENSLEHRE
+
+***ERKLÄRENDE NOTE***  
+***ZUR*** ***NOTIFIKATION ZU DEN WERKEN VON P. JON SOBRINO S.J.***
+
+**1. *Das Interesse der Kirche für die Armen***
+
+Die Kongregation für die Glaubenslehre hat die besondere Aufgabe, die Lehre über Glaube und Sitten auf dem ganzen katholischen Erdkreis zu fördern und zu schützen.[^1] Auf diese Weise soll dem Glauben des Gottesvolkes und besonders dem der Geringsten und Ärmsten in ihm gedient werden. Die Sorge für die Geringsten und Ärmsten ist einer der Wesenszüge, die die Sendung der Kirche von Anfang an ausgezeichnet haben. Wenn es wahr ist, wie der Heilige Vater in Erinnerung gerufen hat, daß es die »erste Armut der Völker ist, … daß sie Christus nicht kennen«,[^2] dann hat jeder Mensch das Recht, den Herrn Jesus kennenzulernen, der die »Erwartung der Völker und ihr Erlöser« ist. Um so mehr hat jeder Christ das Recht, auf angemessene, authentische und unverkürzte Weise die Wahrheit kennenzulernen, die die Kirche über Christus bekennt und zum Ausdruck bringt. Dieses Recht ist die Grundlage für die entsprechende Pflicht des kirchlichen Lehramtes, immer dann einzugreifen, wenn diese Wahrheit in Gefahr gebracht oder geleugnet wird.
+
+Von seiten der Kongregation war es also notwendig, die nachfolgende »*[Notifikation](rc_con_cfaith_doc_20061126_notification-sobrino_ge.html)*« zu einigen Werken von P. Jon Sobrino SJ zu veröffentlichen, in denen verschiedene Auffassungen entdeckt wurden, die aufgrund ihrer Irrigkeit oder Gefährlichkeit den Gläubigen schaden können. P. Sobrino zeigt sich in seinen Veröffentlichungen besorgt um die Lage der Armen und der Unterdrückten, besonders in Lateinamerika. Diese Sorge gehört zweifellos der ganzen Kirche. Wie die Kongregation für die Glaubenslehre selbst in ihrer Instruktion *Libertatis conscientia* über die christliche Freiheit und die Befreiung sagt, hat das menschliche Elend »das Mitleid Christi geweckt, der dieses Elend hat auf sich nehmen und sich mit den ›geringsten seiner Brüder‹ (*Mt* 25,40.45) hat identifizieren wollen«, und ist »die Option, die den Armen den Vorzug gibt, weit davon entfernt, ein Zeichen von Partikularismus und Sektarismus zu sein; sie offenbart vielmehr, wie universell Sein und Sendung der Kirche sind. Diese Option schließt niemanden aus. Das ist der Grund, warum die Kirche diese Option nicht mit Hilfe von einengenden soziologischen und ideologischen Kategorien zum Ausdruck bringen darf; sie würden aus dieser vorrangigen Zuwendung eine parteiische Wahl konfliktbetonter Art machen«.[^3] Zuvor hatte dieselbe Kongregation in der Instruktion *Libertatis nuntius* über einige Aspekte der »Theologie der Befreiung« bereits angemerkt, daß die Warnungen bezüglich jener theologischen Strömung, die im Dokument enthalten sind, nicht als Tadel derer ausgelegt werden dürfen, die der »vorrangigen Option für die Armen« treu bleiben wollen, noch denen zum Vorwand dienen dürfen, die sich gleichgültig zeigen gegenüber den tragischen Problemen des Elends und der Ungerechtigkeit.[^4]
+
+Diese Aussagen zeigen deutlich, was die Position der Kirche im Hinblick auf diese komplexe Problematik ist: »Die schlimmen Ungleichheiten und Unterdrückungen aller Arten, die heute Millionen von Männern und Frauen treffen, stehen in offenem Widerspruch zum Evangelium Christi und können das Gewissen keines Christen gleichgültig lassen. Vom Heiligen Geist geführt, geht die Kirche in Treue voran auf den Wegen der authentischen Befreiung. Ihre Glieder wissen um ihre eigenen Schwächen und ihren Rückstand bei dieser Suche. Eine große Zahl von Christen hat jedoch seit den Zeiten der Apostel ihre Kraft und ihr Leben für die Befreiung von jeder Form der Unterdrückung und für die Förderung der Menschenwürde eingesetzt. Die Erfahrung der Heiligen und das Beispiel so vieler Werke im Dienst am Nächsten sind Ansporn und Licht für die befreienden Initiativen, die heute gefordert sind.«[^5]
+
+**2. *Das Lehrprüfungsverfahren***
+
+Zur oben erwähnten »*Notifikation*« gelangte man durch eine sorgfältige Prüfung der Schriften von P. Sobrino, wobei die dafür vorgesehene Ordnung für die Lehrüberprüfung zur Anwendung kam. Hier soll kurz beschrieben werden, wie die Kongregation für die Glaubenslehre vorgeht, wenn sie ein Urteil über problematisch erscheinende Schriften ausspricht. Wenn die Kongregation meint, daß die Schriften eines Autors unter dem Gesichtspunkt der Lehre Probleme aufwerfen, so daß den Gläubigen daraus ein schwerer Schaden erwächst oder erwachsen kann, wird ein Verfahren aufgenommen, das durch eine Ordnung geregelt ist, die am 29. Juni 1997 von Papst Johannes Paul II. approbiert wurde.[^6]
+
+Das *ordentliche Verfahren* sieht vor, daß einige Fachleute auf dem Gebiet des zu prüfenden Gegenstandes um Gutachten gebeten werden. Diese Gutachten werden dann, zusammen mit allen für die betreffende Untersuchung nützlichen Informationen, der Prüfung durch die »*Consulta*« unterzogen, also jener Instanz der Kongregation, die aus Fachleuten verschiedener theologischer Disziplinen besteht. Das gesamte Dossier, mit dem Protokoll über die Diskussion, dem Abstimmungsergebnis und den Gutachten der Konsultoren über ein eventuelles Vorhandensein lehrmäßiger Irrtümer und gefährlicher Auffassungen in den zu prüfenden Schriften, wird dann der Prüfung der *Ordentlichen Versammlung* der Kongregation vorgelegt, die sich aus Kardinälen und Bischöfen zusammensetzt, die Mitglieder des Dikasteriums sind. Diese unterzieht die ganze Frage einer sehr genauen Prüfung und entscheidet, ob eine Beanstandung des Autors erforderlich ist oder nicht. Die Entscheidungen der *Ordentlichen Versammlung* werden schließlich dem *Papst* zur Approbation vorgelegt. Wenn entschieden wird, daß die Beanstandung erfolgen soll, wird durch den zuständigen *Ordinarius* dem Autor eine Zusammenstellung der irrigen oder gefährlichen Ansichten zugestellt; diesem steht dann eine Frist von drei Monaten zur Verfügung, um darauf zu antworten. Sollte die *Ordentliche Versammlung* die Antwort für ausreichend erachten, wird die Angelegenheit nicht weiter verfolgt. Andernfalls werden die dem Fall angemessenen Maßnahmen ergriffen: zum Beispiel die Veröffentlichung einer »Notifikation«, in der die in den Schriften des Autors gefundenen irrigen oder gefährlichen Auffassungen dargelegt werden.
+
+Wenn die geprüften Schriften offensichtlich und sicher Irrtümer enthalten und durch ihre Verbreitung ein schwerer Schaden für die Gläubigen entstanden ist oder entstehen könnte,[^7] wird das Verfahren abgekürzt. Es wird eine *Kommission* von Fachleuten bestimmt, die den Auftrag haben, die irrigen und gefährlichen Ansichten näher zu bezeichnen. Das Gutachten der *Kommission* wird der *Ordentlichen Versammlung* der Kongregation zur Beurteilung unterbreitet. Falls die Ansichten tatsächlich als irrig oder gefährlich beurteilt werden, werden sie nach der Approbation des Heiligen Vaters wiederum durch den *Ordinarius* dem Autor übermittelt mit der Aufforderung, sie innerhalb einer Frist von zwei Monaten richtigzustellen. Die Antwort wird durch die *Ordentliche Versammlung* geprüft, die die entsprechenden Maßnahmen ergreift.
+
+**3*. Der besondere Fall von P. Sobrino***
+
+Im vorliegenden Fall verweist die »*Notifikation*« selbst auf die Schritte, die entsprechend dem *dringlichen Lehrprüfungsverfahren* befolgt wurden. Dieses Verfahren wurde unter anderem in Anbetracht der weiten Verbreitung der Werke von P. Jon Sobrino, vor allem in Lateinamerika, gewählt. In ihnen wurden schwerwiegende Mängel entdeckt, sowohl auf methodologischer als auch auf inhaltlicher Ebene. Ohne an dieser Stelle noch einmal aufzugreifen, was bereits in der »*Notifikation*« ausführlich darlegt wird, soll vor allem auf die Aussage aufmerksam gemacht werden, »die Kirche der Armen« sei »*der*« ekklesiale Ort für die Christologie und weise dieser die grundlegende Richtung. Wenn der Autor so spricht, vergißt er, daß der *apostolische Glaube*, der durch die Kirche an alle Generationen weitergegeben wird, der einzige gültige »ekklesiale Ort« für die Christologie und für die Theologie im allgemeinen ist. P. Sobrino tendiert dazu, den normgebenden Wert der Aussagen des Neuen Testaments und der großen Konzilien der Alten Kirche zu mindern. Diese Irrtümer methodologischer Natur führen zu Schlußfolgerungen, die mit dem Glauben der Kirche in entscheidenden Punkten – wie der Göttlichkeit Jesu Christi, der Menschwerdung des Sohnes Gottes, der Beziehung Jesu zum Reich Gottes, seinem Selbstbewußtsein und dem Heilswert seines Todes – nicht übereinstimmen.
+
+Diesbezüglich schrieb die Kongregation für die Glaubenslehre bereits: Es »kann eine theologische Reflexion, die sich aus einer partikulären Erfahrung entwickelt, einen sehr positiven Beitrag darstellen, insofern sie Aspekte des Wortes Gottes aufleuchten läßt, deren ganzer Reichtum bisher noch nicht vollständig erfaßt worden war. Damit aber diese Reflexion wirklich ein Lesen der Heiligen Schrift und nicht eine Projektion eines dort nicht enthaltenen Sinnes auf das Wort Gottes ist, wird der Theologe darauf bedacht sein, die Erfahrung, von der er ausgeht, im Licht der Erfahrung der Kirche selbst zu interpretieren. Diese Erfahrung der Kirche leuchtet in hervorragendem Maße und in all ihrer Reinheit im Leben der Heiligen auf. Es obliegt den Hirten der Kirche, in Gemeinschaft mit dem Nachfolger Petri zu unterscheiden, was davon authentisch ist«.[^8]
+
+Diese »*Notifikation*« soll daher den Hirten und den Gläubigen eine sichere, in der Lehre der Kirche verankerte Richtlinie bieten, um die oben erwähnten Fragen, die sowohl auf theologischer als auch auf pastoraler Ebene von großer Bedeutung sind, richtig zu beurteilen.
+
+------------------------------------------------------------------------
+
+[](#top)
+
+[^1]: Vgl. Johannes Paul II., Apostolische Konstitution *Pastor bonus* 48; *AAS* 80 (1988), 841–934.
+
+[^2]: Benedikt XVI., *Botschaft zur Fastenzeit* 2006.
+
+[^3]: Kongregation für die Glaubenslehre, Instruktion *Libertatis conscientia* 68: *AAS* 79 (1987), 554–599.
+
+[^4]: Kongregation für die Glaubenslehre, Instruktion *Libertatis nuntius*, Vorwort: *AAS* 76 (1984), 876–909.
+
+[^5]: Kongregation für die Glaubenslehre, Instruktion *Libertatis conscientia* 57.
+
+[^6]: Kongregation für die Glaubenslehre, *Agendi ratio in doctrinarum examine*, *AAS* 89 (1997), 830–835.
+
+[^7]: *Ebd*., 23.
+
+[^8]: Kongregation für die Glaubenslehre, Instruktion *Libertatis conscientia* 70.

@@ -1,0 +1,64 @@
+{
+  "id": "leo-xiii-inscrutabili-dei-consilio",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Inscrutabili Dei Consilio",
+    "pt-BR": "Inscrutabili dei consilio: sobre os males da Sociedade moderna, suas causas e seus remédios",
+    "es": "Inscrutabili Dei Consilio",
+    "it": "Inscrutabili Dei Consilio"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1878-04-21",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1878-04-21"
+  },
+  "composed": "1878",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_21041878_inscrutabili-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_21041878_inscrutabili-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_21041878_inscrutabili-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_21041878_inscrutabili-dei-consilio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Inscrutabili Dei Consilio",
+        "pt-BR": "Inscrutabili dei consilio: sobre os males da Sociedade moderna, suas causas e seus remédios",
+        "es": "Inscrutabili Dei Consilio",
+        "it": "Inscrutabili Dei Consilio"
+      }
+    }
+  ]
+}

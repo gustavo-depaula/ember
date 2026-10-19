@@ -1,0 +1,88 @@
+{
+  "id": "paul-vi-mysterium",
+  "cover": "quarter",
+  "name": {
+    "la": "Mysterium fidei, Litterae encyclicae, die III mensis Septembris, anno MCMLXV - Paulus VI",
+    "en-US": "Mysterium Fidei",
+    "pt-BR": "Mysterium Fidei",
+    "de": "Mysterium Fidei",
+    "es": "Mysterium fidei",
+    "fr": "Mysterium Fidei",
+    "it": "Mysterium Fidei"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Paul VI · 1965-09-03",
+    "pt-BR": "Encíclica · Papa Paulo VI · 1965-09-03"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_03091965_mysterium.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Mysterium fidei, Litterae encyclicae, die III mensis Septembris, anno MCMLXV - Paulus VI",
+        "en-US": "Mysterium Fidei",
+        "pt-BR": "Mysterium Fidei",
+        "de": "Mysterium Fidei",
+        "es": "Mysterium fidei",
+        "fr": "Mysterium Fidei",
+        "it": "Mysterium Fidei"
+      }
+    }
+  ]
+}

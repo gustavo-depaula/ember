@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-da-questa-pacifica",
+  "cover": "quarter",
+  "name": {
+    "it": "Proclama Da questa pacifica"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius IX · 1849-01-01",
+    "pt-BR": "Documento · Papa Pio IX · 1849-01-01"
+  },
+  "composed": "1849",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/proclama-da-questa-pacifica-1-gennaio-1849.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Proclama Da questa pacifica"
+      }
+    }
+  ]
+}

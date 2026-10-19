@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-magni-commemoratio",
+  "cover": "quarter",
+  "name": {
+    "it": "Magni commemoratio"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XIII · 1896-01-08",
+    "pt-BR": "Breve · Papa Leão XIII · 1896-01-08"
+  },
+  "composed": "1896",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/briefs/documents/hf_l-xiii_brief_18960108_magni-commemoratio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Magni commemoratio"
+      }
+    }
+  ]
+}

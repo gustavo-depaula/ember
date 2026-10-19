@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-singulari-quadam",
+  "cover": "quarter",
+  "name": {
+    "it": "Singulari Quadam"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius IX · 1854-12-09",
+    "pt-BR": "Documento · Papa Pio IX · 1854-12-09"
+  },
+  "composed": "1854",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1854-12-09,_SS_Pius_VIIII,_Singulari_Quadam,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Singulari Quadam"
+      }
+    }
+  ]
+}

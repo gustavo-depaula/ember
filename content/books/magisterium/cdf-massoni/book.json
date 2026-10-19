@@ -1,0 +1,104 @@
+{
+  "id": "cdf-massoni",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio de canonica disciplina quae sub poena excommunicationis vetat ne catholici nomen dent sectae massonicae aliisque eiusdem generis associationibus, d. 17 m. Februarii a. 1981, Congregatio pro Doctrina Fidei",
+    "en-US": "Declaration concerning status of Catholics becoming freemasons",
+    "pt-BR": "Declaração sobre a participação de católicos à associações maçônicas, 17 de fevereiro de 1981",
+    "de": "Erklärung über das Verbot des Eintritts von Katholiken in freimaurerische Organisationen, 17. Februar 1981",
+    "es": "Declaración sobre la pertenencia de los católicos a asociaciones masónicas, 17 febrero 1981",
+    "fr": "Déclaration sur l'appartenance des catholiques aux associations maçonniques, 17 février 1981",
+    "it": "Dichiarazione circa l'appartenenza dei cattolici ad associazioni massoniche, 17 febbraio 1981",
+    "pl": "DEKLARACJA O EKSKOMUNICE, KTÓREJ PODLEGAJĄ KATOLICY NALEŻĄCY DO SEKT MASOŃSKICH LUB PODOBNYCH STOWARZYSZEŃ",
+    "sk": "DEKLARÁCIA O KÁNONICKEJ DISCIPLÍNE, KTORÁ POD TRESTOM EXKOMUNIKÁCIE ZAKAZUJE HLÁSIŤ SA DO ZOZNAMU SLOBODOMURÁRSKEJ SEKTY A DO INÝCH ZDRUŽENÍ TOHTO DRUHU"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1981-02-17",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1981-02-17"
+  },
+  "composed": "1981",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19810217_massoni_sk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio de canonica disciplina quae sub poena excommunicationis vetat ne catholici nomen dent sectae massonicae aliisque eiusdem generis associationibus, d. 17 m. Februarii a. 1981, Congregatio pro Doctrina Fidei",
+        "en-US": "Declaration concerning status of Catholics becoming freemasons",
+        "pt-BR": "Declaração sobre a participação de católicos à associações maçônicas, 17 de fevereiro de 1981",
+        "de": "Erklärung über das Verbot des Eintritts von Katholiken in freimaurerische Organisationen, 17. Februar 1981",
+        "es": "Declaración sobre la pertenencia de los católicos a asociaciones masónicas, 17 febrero 1981",
+        "fr": "Déclaration sur l'appartenance des catholiques aux associations maçonniques, 17 février 1981",
+        "it": "Dichiarazione circa l'appartenenza dei cattolici ad associazioni massoniche, 17 febbraio 1981",
+        "pl": "DEKLARACJA O EKSKOMUNICE, KTÓREJ PODLEGAJĄ KATOLICY NALEŻĄCY DO SEKT MASOŃSKICH LUB PODOBNYCH STOWARZYSZEŃ",
+        "sk": "DEKLARÁCIA O KÁNONICKEJ DISCIPLÍNE, KTORÁ POD TRESTOM EXKOMUNIKÁCIE ZAKAZUJE HLÁSIŤ SA DO ZOZNAMU SLOBODOMURÁRSKEJ SEKTY A DO INÝCH ZDRUŽENÍ TOHTO DRUHU"
+      }
+    }
+  ]
+}

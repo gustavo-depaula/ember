@@ -1,0 +1,88 @@
+{
+  "id": "cdf-dubia-eccl-past",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Replies to questions on the interpretation of the decree Ecclesiae Pastorum",
+    "pt-BR": "Respostas e quesitos acerca da interpretação do decreto «Ecclesiae Pastorum» 7 de julho de 1983",
+    "de": "Antworten auf Fragen bezüglich der Auslegung des Dekrets ECCLESIAE PASTORUM, 7. Juli 1983",
+    "es": "Respuestas a las dudas propuestas sobre la interpretación del decreto «Ecclesiae Pastorum»",
+    "fr": "Réponses à des doutes soulevés sur l'approbation des livres destinés à la catéchèse, 7 juillet 1983",
+    "it": "Dichiarazione in merito all'ammissione alla piena comunione con la Chiesa Cattolica di alcuni membri del clero e del laicato appartenenti alla Chiesa Episcopaliana (Anglicana), 1° aprile 1981",
+    "pl": "ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI DOTYCZĄCE INTERPRETACJI DEKRETU ECCLESIAE PASTORUM"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1983-07-07",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1983-07-07"
+  },
+  "composed": "1983",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19830707_dubia-eccl-past_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Replies to questions on the interpretation of the decree Ecclesiae Pastorum",
+        "pt-BR": "Respostas e quesitos acerca da interpretação do decreto «Ecclesiae Pastorum» 7 de julho de 1983",
+        "de": "Antworten auf Fragen bezüglich der Auslegung des Dekrets ECCLESIAE PASTORUM, 7. Juli 1983",
+        "es": "Respuestas a las dudas propuestas sobre la interpretación del decreto «Ecclesiae Pastorum»",
+        "fr": "Réponses à des doutes soulevés sur l'approbation des livres destinés à la catéchèse, 7 juillet 1983",
+        "it": "Dichiarazione in merito all'ammissione alla piena comunione con la Chiesa Cattolica di alcuni membri del clero e del laicato appartenenti alla Chiesa Episcopaliana (Anglicana), 1° aprile 1981",
+        "pl": "ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI DOTYCZĄCE INTERPRETACJI DEKRETU ECCLESIAE PASTORUM"
+      }
+    }
+  ]
+}

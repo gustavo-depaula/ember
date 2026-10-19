@@ -1,0 +1,112 @@
+{
+  "id": "cdf-luce-del-mondo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Note of the Congregation for the Doctrine of the Faith on the banalization of sexuality regarding certain interpretations of Light of the World",
+    "pt-BR": "Nota da Congregação para a Doutrina da Fé sobre a banalização da sexualidade. A propósito de algumas leituras de Luz do Mundo",
+    "cs": "Note on the banalization of sexuality. Regarding certain interpretations of \"Light of the World\"",
+    "de": "Note über die Banalisierung der Sexualität im Hinblick auf einige Textstellen aus »Licht der Welt«",
+    "es": "Nota de la Congregación para la Doctrina de la Fe Sobre la banalización de la sexualidad A propósito de algunas lecturas de «Luz del mundo»",
+    "fr": "Note de la Congrégation pour la Doctrine de la foi sur la banalisation de la sexualité, 21 décembre 2010",
+    "hu": "A Hittani Kongregáció útmutatója a szexualitás banalizálásával kapcsolatosan a \"Világ világossága\" című könyv néhány értelmezésére vonatkozóan",
+    "it": "Nota sulla banalizzazione della sessualità - A proposito di alcune letture di « Luce del Mondo »",
+    "pl": "NOTA O BANALIZACJI SEKSUALNOŚCI. W ZWIĄZKU Z PEWNYMI INTERPRETACJAMI ŚWIATŁOŚCI ŚWIATA",
+    "sk": "NÓTA O ZNEHODNOCOVANÍ SEXUALITY V SÚVISLOSTI S ISTÝMI INTERPRETÁCIAMI KNIHY “LUCE DEL MONDO” (“SVETLO SVETA”)"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2010-12-21",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2010-12-21"
+  },
+  "composed": "2010",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "sk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_cs.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101221_luce-del-mondo_sk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Note of the Congregation for the Doctrine of the Faith on the banalization of sexuality regarding certain interpretations of Light of the World",
+        "pt-BR": "Nota da Congregação para a Doutrina da Fé sobre a banalização da sexualidade. A propósito de algumas leituras de Luz do Mundo",
+        "cs": "Note on the banalization of sexuality. Regarding certain interpretations of \"Light of the World\"",
+        "de": "Note über die Banalisierung der Sexualität im Hinblick auf einige Textstellen aus »Licht der Welt«",
+        "es": "Nota de la Congregación para la Doctrina de la Fe Sobre la banalización de la sexualidad A propósito de algunas lecturas de «Luz del mundo»",
+        "fr": "Note de la Congrégation pour la Doctrine de la foi sur la banalisation de la sexualité, 21 décembre 2010",
+        "hu": "A Hittani Kongregáció útmutatója a szexualitás banalizálásával kapcsolatosan a \"Világ világossága\" című könyv néhány értelmezésére vonatkozóan",
+        "it": "Nota sulla banalizzazione della sessualità - A proposito di alcune letture di « Luce del Mondo »",
+        "pl": "NOTA O BANALIZACJI SEKSUALNOŚCI. W ZWIĄZKU Z PEWNYMI INTERPRETACJAMI ŚWIATŁOŚCI ŚWIATA",
+        "sk": "NÓTA O ZNEHODNOCOVANÍ SEXUALITY V SÚVISLOSTI S ISTÝMI INTERPRETÁCIAMI KNIHY “LUCE DEL MONDO” (“SVETLO SVETA”)"
+      }
+    }
+  ]
+}

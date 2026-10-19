@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-sacerdozio-cattolico",
+  "cover": "quarter",
+  "name": {
+    "la": "De sacerdotio catholico, 1970",
+    "en-US": "The Priestly Ministry, 1970",
+    "pt-BR": "O sacerdócio católico",
+    "ar": "The Priestly Ministry",
+    "de": "Das katholische Priestertum, 1970",
+    "es": "El sacerdocio católico, 1970",
+    "fr": "Le sacerdoce catholique, 1970",
+    "hu": "A katolikus papság",
+    "it": "Il sacerdozio cattolico, 1970",
+    "pl": "Kapłaństwo katolickie, 1970",
+    "ru": "КАТОЛИЧЕСКОЕ СВЯЩЕНСТВО, 1970"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1970",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1970"
+  },
+  "composed": "1970",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1970_sacerdozio-cattolico_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De sacerdotio catholico, 1970",
+        "en-US": "The Priestly Ministry, 1970",
+        "pt-BR": "O sacerdócio católico",
+        "ar": "The Priestly Ministry",
+        "de": "Das katholische Priestertum, 1970",
+        "es": "El sacerdocio católico, 1970",
+        "fr": "Le sacerdoce catholique, 1970",
+        "hu": "A katolikus papság",
+        "it": "Il sacerdozio cattolico, 1970",
+        "pl": "Kapłaństwo katolickie, 1970",
+        "ru": "КАТОЛИЧЕСКОЕ СВЯЩЕНСТВО, 1970"
+      }
+    }
+  ]
+}

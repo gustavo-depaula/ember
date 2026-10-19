@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xvi-lux-sui-populi-suaeque-aetatis",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Lux sui populi suaeque aetatis"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Benedict XVI · 2012-10-07",
+    "pt-BR": "Carta Apostólica · Papa Bento XVI · 2012-10-07"
+  },
+  "composed": "2012",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/lux-sui-populi-suaeque-aetatis-bento-xvi-07-10-2012/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Lux sui populi suaeque aetatis"
+      }
+    }
+  ]
+}

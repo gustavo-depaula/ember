@@ -1,0 +1,64 @@
+{
+  "id": "paul-vi-missale-romanum",
+  "cover": "quarter",
+  "name": {
+    "la": "Missale Romanum, die III mensis Aprilis anno MCMLXIX",
+    "en-US": "Missale Romanum",
+    "de": "Missale Romanun",
+    "it": "Missale Romanum"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1969-04-03",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1969-04-03"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_19690403_missale-romanum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Missale Romanum, die III mensis Aprilis anno MCMLXIX",
+        "en-US": "Missale Romanum",
+        "de": "Missale Romanun",
+        "it": "Missale Romanum"
+      }
+    }
+  ]
+}

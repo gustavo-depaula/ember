@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-pontificia-commissione",
+  "cover": "quarter",
+  "name": {
+    "la": "Recognito Iuris Canonici Codice, die altera mensis Ianuarii anno MDCCCCLXXIV",
+    "pt-BR": "\"Recognito Iuris Canonici Codice\" para a instituição da Pontifícia Comissão para a interpretação autêntica do Código de Direito Canônico",
+    "it": "Recognito Iuris Canonici Codice"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1984-01-02",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1984-01-02"
+  },
+  "composed": "1984",
+  "languages": [
+    "la",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_02011984_pontificia-commissione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_02011984_pontificia-commissione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_02011984_pontificia-commissione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Recognito Iuris Canonici Codice, die altera mensis Ianuarii anno MDCCCCLXXIV",
+        "pt-BR": "\"Recognito Iuris Canonici Codice\" para a instituição da Pontifícia Comissão para a interpretação autêntica do Código de Direito Canônico",
+        "it": "Recognito Iuris Canonici Codice"
+      }
+    }
+  ]
+}

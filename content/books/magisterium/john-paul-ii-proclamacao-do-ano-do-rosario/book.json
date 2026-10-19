@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-proclamacao-do-ano-do-rosario",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Proclamação do Ano do Rosário"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope John Paul II · 2002-10-16",
+    "pt-BR": "Documento · Papa João Paulo II · 2002-10-16"
+  },
+  "composed": "2002",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/proclamacao-do-ano-do-rosario/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Proclamação do Ano do Rosário"
+      }
+    }
+  ]
+}

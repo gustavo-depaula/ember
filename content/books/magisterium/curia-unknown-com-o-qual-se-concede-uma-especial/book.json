@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-com-o-qual-se-concede-uma-especial",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Decreto com o qual se concede uma especial faculdade para a celebração da Conversão de São Paulo Apóstolo no ano jubilar, bimilenário do seu nascimento"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 2008-01-25",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 2008-01-25"
+  },
+  "composed": "2008",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/decreto-com-o-qual-se-concede-uma-especial-faculdade-para-a-celebracao-da-conversao-de-sao-paulo-apostolo-no-ano-jubilar-bimilenario-do-seu-nascimento-25-01-2008/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Decreto com o qual se concede uma especial faculdade para a celebração da Conversão de São Paulo Apóstolo no ano jubilar, bimilenário do seu nascimento"
+      }
+    }
+  ]
+}

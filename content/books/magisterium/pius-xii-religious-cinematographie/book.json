@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-religious-cinematographie",
+  "cover": "quarter",
+  "name": {
+    "it": "Statuto della Pontificia Commissione per la Cinematografia didattica e religiosa"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1948-09-17",
+    "pt-BR": "Carta · Papa Pio XII · 1948-09-17"
+  },
+  "composed": "1948",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_17091948_religious-cinematographie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Statuto della Pontificia Commissione per la Cinematografia didattica e religiosa"
+      }
+    }
+  ]
+}

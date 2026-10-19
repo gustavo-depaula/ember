@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-pontificalis-domus",
+  "cover": "quarter",
+  "name": {
+    "la": "Pontificalis Domus ordinatio quadamtenus mutatur, Litterae Apostolicae Motu Proprio datae",
+    "it": "Pontificalis Domus - Lettera Apostolica in forma di Motu Proprio con la quale viene cambiato l'Ordinamento della Casa Pontificia"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1968-03-28",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1968-03-28"
+  },
+  "composed": "1968",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19680328_pontificalis-domus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19680328_pontificalis-domus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Pontificalis Domus ordinatio quadamtenus mutatur, Litterae Apostolicae Motu Proprio datae",
+        "it": "Pontificalis Domus - Lettera Apostolica in forma di Motu Proprio con la quale viene cambiato l'Ordinamento della Casa Pontificia"
+      }
+    }
+  ]
+}

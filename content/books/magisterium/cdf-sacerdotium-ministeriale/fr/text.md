@@ -1,0 +1,29 @@
+# Sacerdotium ministeriale - Lettre à tous les évêques de l'Église catholique sur quelques questions concernant le ministre de l'Eucharistie
+
+[TABLE]
+
+[TABLE]
+
+1. \[\] Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, nn. 10](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#10.), [17](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#17.), [26](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#26.), [28](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#28.); const. [*Sacrosanctum Concilium*, n. 7](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_fr.html#7.); décr. [*Christus Dominus*, n. 15](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_fr.html#15.); décr. [*Presbyterorum Ordinis*, nn. 2](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html#2.) et [3](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html#3.); cf. encore Paul VI, encycl. *[Mysterium fidei](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_03091965_mysterium_fr.html)*, du 3 septembre 1965: *AAS* 51 (1965) 761.
+
+2. \[\] Cf. Pie XII, encycl. *Mediator Dei*, du 20 novembre 1947: *AAS* 39 (1947) 553; Paul VI, exhort. apost. *Quinque iam anni*, du 8 décembre 1970: *AAS* 63 (1971) 99; Documents du Synode des Evêques de 1971: *De sacerdotio ministeriali*: première partie: *AAS* 63 (1971) 903-908; S. Congrégation pour la Doctrine de la Foi, déclaration *[Mysterium Ecclesiae](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_fr.html)*, du 24 juin 1973, n. 6: *AAS* 65 (1973) 405-407; déclaration *De duobus operibus Professoris Ioannis Küng*, du 15 février 1975: *AAS* 67 (1975) 204; déclaration *[Inter insigniores](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19761015_inter-insigniores_fr.html)*, du 15 octobre 1976, n. V: *AAS* 69 (1977) 108-113; Jean-Paul II, lettre *Novo incipiente nostro* à tous les prêtres de l'Église, du 8 avril 1979, nn. 2-4: *AAS* 71 (1979) 395-400; lettre *[Dominicae Cenae](/holy_father/john_paul_ii/letters/documents/hf_jp-ii_let_24021980_dominicae-cenae_fr.html)* à tous les Evêques de l'Église, du 24 février 1980, nn. III: *AAS* 72 (1980) 115-134.
+
+3. \[\] Cf. Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, nn. 7](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#7.), [18](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#18.), [19](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#19.), [20](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#20.); décr. [*Christus Dominus*, nn. 1](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_fr.html#1.) et [3](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_fr.html#3.); décr. [*Presbyterorum Ordinis*, n. 2](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html#2.).
+
+4. \[\] Cf. Conc. de Trente, *Doctrina de sacramento ordinis*, chap. 4: *DS* 1767.
+
+5. \[\] Cf. Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, n. 20](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#20.).
+
+6. \[\] Cf. Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, n. 28](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#28.).
+
+7. \[\] On en a confirmation dans l'usage qui a prévalu dans l'Église d'appeler les évêques et les prêtres ministres du culte sacré, surtout parce que c'est à eux seuls qu'a été reconnu le pouvoir d'accomplir le mystère eucharistique.
+
+8. \[\] Cf. Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, n. 21](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#21.); décr. [*Presbyterorum Ordinis*, n. 2](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_fr.html#2.).
+
+9. \[\] Jean-Paul II, lettre *[Dominicae Cenae](/holy_father/john_paul_ii/letters/documents/hf_jp-ii_let_24021980_dominicae-cenae_fr.html)*, n. 8: *AAS* 72 (1980) 128-129.
+
+10. \[\] Conc. Latran IV, const. de foi catholique *Firmiter credimus*: « Una vero est fidelium universalis Ecclesia, extra quam nullus omnino salvatur, in qua idem ipse sacerdos est sacrificium Iesus Christus, cuius corpus et sanguis in sacramento altaris sub speciebus panis et vini veraciter continentur, transsubstantiatis pane in corpus et vino in sanguinem potestate divina: ut ad perficiendum mysterium unitatis accipiamus ipsi de suo, quod accepit ipse de nostro. Et hoc utique sacramentum nemo potest conficere, nisi sacerdos, qui rite fuerit ordinatus, secundum claves Ecclesiae, quas ipse concessit Apostolis eorumque successoribus Iesus Christus» (*DS* 802).
+
+11. \[\] Jean-Paul II, lettre *Novo incipiente nostro*, n. 10: *AAS* 71 (1979) 411-415. A propos de la valeur du désir du sacrement: cf. Conc. de Trente, décr. *De iustificatione*, chap. 4: *DS* 1524; décr. *De Sacramentis*, can. 4: *DS* 1604; Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, n. 14](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#14.); S. Office, *Epist. ad archiep. Bostoniensem*, du 8 août 1949: *DS* 3870 et 3872.
+
+12. \[\] Cf. Conc. Œcum. Vat. II, const. dogm. [*Lumen gentium*, n. 23](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html#22.).

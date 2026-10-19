@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-quando-nel-principio",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Quando nel principio al Cardinal Pietro Gasparri, in merito ai rapporti internazionali tra le nazioni europee"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1923-06-24",
+    "pt-BR": "Carta · Papa Pio XI · 1923-06-24"
+  },
+  "composed": "1923",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19230624_quando-nel-principio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Quando nel principio al Cardinal Pietro Gasparri, in merito ai rapporti internazionali tra le nazioni europee"
+      }
+    }
+  ]
+}

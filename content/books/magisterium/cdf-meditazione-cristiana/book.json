@@ -1,0 +1,88 @@
+{
+  "id": "cdf-meditazione-cristiana",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the Bishops of the Catholic Church on some aspects of Christian Meditation – Orationis formas",
+    "pt-BR": "Aos Bispos da Igreja Católica acerca alguns aspectos da meditação cristã, 15 de outubro de 1989",
+    "de": "Schreiben über einige Aspekte der christlichen Meditation",
+    "es": "Carta a los obispos sobre la meditación cristiana",
+    "fr": "Lettre aux évêques de l’Église catholique sur quelques aspects de la méditation chrétienne, 15 octobre 1989",
+    "it": "Lettera su alcuni aspetti della meditazione cristiana",
+    "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ASPEKTACH MEDYTACJI CHRZEŚCIJAŃSKIEJ"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1989-10-15",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1989-10-15"
+  },
+  "composed": "1989",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the Bishops of the Catholic Church on some aspects of Christian Meditation – Orationis formas",
+        "pt-BR": "Aos Bispos da Igreja Católica acerca alguns aspectos da meditação cristã, 15 de outubro de 1989",
+        "de": "Schreiben über einige Aspekte der christlichen Meditation",
+        "es": "Carta a los obispos sobre la meditación cristiana",
+        "fr": "Lettre aux évêques de l’Église catholique sur quelques aspects de la méditation chrétienne, 15 octobre 1989",
+        "it": "Lettera su alcuni aspetti della meditazione cristiana",
+        "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O NIEKTÓRYCH ASPEKTACH MEDYTACJI CHRZEŚCIJAŃSKIEJ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-cum-multorum-charitate",
+  "cover": "quarter",
+  "name": {
+    "it": "Cum multorum charitate"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XIV · 1745-02-18",
+    "pt-BR": "Documento · Papa Bento XIV · 1745-02-18"
+  },
+  "composed": "1745",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1745-02-18,_SS_Benedictus_XIV,_Cum_Multorum_Charitate,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Cum multorum charitate"
+      }
+    }
+  ]
+}

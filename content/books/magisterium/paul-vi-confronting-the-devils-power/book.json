@@ -1,0 +1,40 @@
+{
+  "id": "paul-vi-confronting-the-devils-power",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Confronting The Devil’s Power"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul VI · 1972-11-15",
+    "pt-BR": "Documento · Papa Paulo VI · 1972-11-15"
+  },
+  "composed": "1972",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/p6devil.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Confronting The Devil’s Power"
+      }
+    }
+  ]
+}

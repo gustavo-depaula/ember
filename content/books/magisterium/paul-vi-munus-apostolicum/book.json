@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-munus-apostolicum",
+  "cover": "quarter",
+  "name": {
+    "la": "Munus Apostolicum - Vacatio legis prorogatur quorundam Decretorum Concilii Oecumenici Vaticani II, Litterae Apostolicae Motu Proprio datae, Die 10 m. Iunii a. 1966, Paulus PP.VI",
+    "it": "Munus apostolicum - Lettera Apostolica in forma di Motu Proprio con la quale viene prorogata l'entrata in vigore di alcuni decreti del Concilio Vaticano II"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1966-06-10",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1966-06-10"
+  },
+  "composed": "1966",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19660610_munus-apostolicum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19660610_munus-apostolicum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Munus Apostolicum - Vacatio legis prorogatur quorundam Decretorum Concilii Oecumenici Vaticani II, Litterae Apostolicae Motu Proprio datae, Die 10 m. Iunii a. 1966, Paulus PP.VI",
+        "it": "Munus apostolicum - Lettera Apostolica in forma di Motu Proprio con la quale viene prorogata l'entrata in vigore di alcuni decreti del Concilio Vaticano II"
+      }
+    }
+  ]
+}

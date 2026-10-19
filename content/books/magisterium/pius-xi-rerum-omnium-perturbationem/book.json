@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-rerum-omnium-perturbationem",
+  "cover": "quarter",
+  "name": {
+    "la": "Rerum omnium perturbationem, Litterae Encyclicae de Sancto Francisco Salesio tertio pleno Saeculo ab eius obitu, d. 26 m. Ianuarii a. 1923, Pius PP. XI",
+    "en-US": "Rerum Omnium Perturbationem",
+    "it": "Rerum Omnium Perturbationem"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1923-01-26",
+    "pt-BR": "Encíclica · Papa Pio XI · 1923-01-26"
+  },
+  "composed": "1923",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_26011923_rerum-omnium-perturbationem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Rerum omnium perturbationem, Litterae Encyclicae de Sancto Francisco Salesio tertio pleno Saeculo ab eius obitu, d. 26 m. Ianuarii a. 1923, Pius PP. XI",
+        "en-US": "Rerum Omnium Perturbationem",
+        "it": "Rerum Omnium Perturbationem"
+      }
+    }
+  ]
+}

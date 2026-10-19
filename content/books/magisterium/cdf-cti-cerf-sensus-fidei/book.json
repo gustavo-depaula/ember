@@ -1,0 +1,40 @@
+{
+  "id": "cdf-cti-cerf-sensus-fidei",
+  "cover": "quarter",
+  "name": {
+    "fr": "Pour lire le document : « Le sensus fidei dans la vie de l’Eglise », Fr. Serge-Thomas Bonino, o.p."
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2014-06-10",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2014-06-10"
+  },
+  "composed": "2014",
+  "languages": [
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20140610_cerf-sensus-fidei_fr.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Pour lire le document : « Le sensus fidei dans la vie de l’Eglise », Fr. Serge-Thomas Bonino, o.p."
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-dolorem-quo",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Dolorem quo"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory XVI · 1839-11-30",
+    "pt-BR": "Carta · Papa Gregório XVI · 1839-11-30"
+  },
+  "composed": "1839",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/epistola-dolorem-quo-30-novembre-1839.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Dolorem quo"
+      }
+    }
+  ]
+}

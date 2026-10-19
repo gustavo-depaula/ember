@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-veritatem-facientes",
+  "cover": "quarter",
+  "name": {
+    "la": "Veritatem facientes, die XXVII, m. Martii, A.D. MCMLII - Pius PP. XII, Epistula Apostolica",
+    "it": "Veritatem facientes. - All'Episcopato, al clero e ai fedeli della Romania"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XII · 1952-03-27",
+    "pt-BR": "Carta Apostólica · Papa Pio XII · 1952-03-27"
+  },
+  "composed": "1952",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_letters/documents/hf_p-xii_apl_19520327_veritatem-facientes.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_letters/documents/hf_p-xii_apl_19520327_veritatem-facientes.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Veritatem facientes, die XXVII, m. Martii, A.D. MCMLII - Pius PP. XII, Epistula Apostolica",
+        "it": "Veritatem facientes. - All'Episcopato, al clero e ai fedeli della Romania"
+      }
+    }
+  ]
+}

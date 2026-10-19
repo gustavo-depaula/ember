@@ -1,0 +1,112 @@
+{
+  "id": "cdf-cti-legge-naturale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "In Search of a Universal Ethic: A New Look at the Natural Law, 2009",
+    "pt-BR": "In Search of a Universal Ethic: A New Look at the Natural Law",
+    "cs": "In Search of a Universal Ethic: A New Look at the Natural Law",
+    "de": "Auf der Suche nach einer universalen Ethik: ein neuer Blick auf das natürliche Sittengesetz, 2009",
+    "fr": "A la recherche d’une éthique universelle : Nouveau regard sur la loi naturelle, 2009",
+    "hu": "Nemzetközi Teológiai Bizottság Egy egyetemes etika keresése. Új rátekintés a természeti törvényre, 2009",
+    "it": "Alla ricerca di un'etica universale: nuovo sguardo sulla legge naturale, 2009",
+    "ko": "In Search of a Universal Ethic: A New Look at the Natural Law",
+    "pl": "In Search of a Universal Ethic: A New Look at the Natural Law",
+    "ru": "В ПОИСКАХ УНИВЕРСАЛЬНОЙ ЭТИКИ НОВЫЙ ВЗГЛЯД НА ЕСТЕСТВЕННЫЙ ЗАКОН"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2009-05-20",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2009-05-20"
+  },
+  "composed": "2009",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "fr",
+    "hu",
+    "it",
+    "ko",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_cs.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_ko.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20090520_legge-naturale_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "In Search of a Universal Ethic: A New Look at the Natural Law, 2009",
+        "pt-BR": "In Search of a Universal Ethic: A New Look at the Natural Law",
+        "cs": "In Search of a Universal Ethic: A New Look at the Natural Law",
+        "de": "Auf der Suche nach einer universalen Ethik: ein neuer Blick auf das natürliche Sittengesetz, 2009",
+        "fr": "A la recherche d’une éthique universelle : Nouveau regard sur la loi naturelle, 2009",
+        "hu": "Nemzetközi Teológiai Bizottság Egy egyetemes etika keresése. Új rátekintés a természeti törvényre, 2009",
+        "it": "Alla ricerca di un'etica universale: nuovo sguardo sulla legge naturale, 2009",
+        "ko": "In Search of a Universal Ethic: A New Look at the Natural Law",
+        "pl": "In Search of a Universal Ethic: A New Look at the Natural Law",
+        "ru": "В ПОИСКАХ УНИВЕРСАЛЬНОЙ ЭТИКИ НОВЫЙ ВЗГЛЯД НА ЕСТЕСТВЕННЫЙ ЗАКОН"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-apostolos-suos",
+  "cover": "quarter",
+  "name": {
+    "la": "Apostolos Suos - Ioannes Paulus PP.II - Motu Proprio (die XXI mensis Maii, anno MCMXCVIII)",
+    "en-US": "Apostolos Suos",
+    "pt-BR": "Apostolos Suos",
+    "de": "Apostolos Suos (May 21, 1998)",
+    "es": "Apostolos Suos, sobre la naturaleza teológica y jurídica de las Conferencias de los obispos",
+    "fr": "Apostolos Suos",
+    "hu": "Apostolos Suos, motu proprio kiadott apostoli levele a püspöki konferenciák teológiai és jogi természetéről,, 1998. május 21-én - II. János Pál pápa",
+    "it": "Apostolos Suos"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1998-07-22",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1998-07-22"
+  },
+  "composed": "1998",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1998-05-21,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Apostolos_Suos',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Apostolos Suos - Ioannes Paulus PP.II - Motu Proprio (die XXI mensis Maii, anno MCMXCVIII)",
+        "en-US": "Apostolos Suos",
+        "pt-BR": "Apostolos Suos",
+        "de": "Apostolos Suos (May 21, 1998)",
+        "es": "Apostolos Suos, sobre la naturaleza teológica y jurídica de las Conferencias de los obispos",
+        "fr": "Apostolos Suos",
+        "hu": "Apostolos Suos, motu proprio kiadott apostoli levele a püspöki konferenciák teológiai és jogi természetéről,, 1998. május 21-én - II. János Pál pápa",
+        "it": "Apostolos Suos"
+      }
+    }
+  ]
+}

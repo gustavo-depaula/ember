@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-ad-caeli-reginam",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad caeli reginam, Litterae Encyclicae de regali Beatae Mariae Virginis dignitate eiusque festo instituendo, die 21 m. Octobris a. 1954",
+    "en-US": "Ad Caeli Reginam",
+    "pt-BR": "Ad Caeli Reginam",
+    "es": "Ad Caeli Reginam",
+    "it": "Ad Caeli Reginam"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1954-10-11",
+    "pt-BR": "Encíclica · Papa Pio XII · 1954-10-11"
+  },
+  "composed": "1954",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_11101954_ad-caeli-reginam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad caeli reginam, Litterae Encyclicae de regali Beatae Mariae Virginis dignitate eiusque festo instituendo, die 21 m. Octobris a. 1954",
+        "en-US": "Ad Caeli Reginam",
+        "pt-BR": "Ad Caeli Reginam",
+        "es": "Ad Caeli Reginam",
+        "it": "Ad Caeli Reginam"
+      }
+    }
+  ]
+}

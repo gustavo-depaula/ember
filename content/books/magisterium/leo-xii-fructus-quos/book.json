@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-fructus-quos",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Fructus Quos"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XII · 1827-10-02",
+    "pt-BR": "Breve · Papa Leão XII · 1827-10-02"
+  },
+  "composed": "1827",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/breve-fructus-quos-2-ottobre-1827.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Fructus Quos"
+      }
+    }
+  ]
+}

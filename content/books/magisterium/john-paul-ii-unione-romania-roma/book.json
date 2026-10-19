@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-unione-romania-roma",
+  "cover": "quarter",
+  "name": {
+    "en-US": "300th Anniversary of the union of the Greek-Catholic Church of Romania with the Church of Rome",
+    "pt-BR": "Por ocasião dos 300 anos da união da Igreja greco-católica da Romênia com a Igreja de Roma",
+    "de": "An die Gläubigen der griechisch-katholischen Kirche Rumäniens anlässlich des 300. Jahrestages der Union ihrer Kirche mit der Kirche Roms",
+    "es": "Carta apostólica en el tercer centenario de la unión de la Iglesia greco-católica de Rumania con la Iglesia de Roma",
+    "fr": "A l'occasion du troisième centenaire de l’union de l'Eglise grèque-catholique de Roumanie avec l'Eglise de Rome",
+    "it": "In occasione del terzo centenario dell’unione della Chiesa greco-cattolica di Romania con la Chiesa di Roma"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2000-07-20",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2000-07-20"
+  },
+  "composed": "2000",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2000/documents/hf_jp-ii_apl_20000720_unione-romania-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/2000/documents/hf_jp-ii_apl_20000720_unione-romania-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/2000/documents/hf_jp-ii_apl_20000720_unione-romania-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/2000/documents/hf_jp-ii_apl_20000720_unione-romania-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/2000/documents/hf_jp-ii_apl_20000720_unione-romania-roma.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2000/documents/hf_jp-ii_apl_20000720_unione-romania-roma.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "300th Anniversary of the union of the Greek-Catholic Church of Romania with the Church of Rome",
+        "pt-BR": "Por ocasião dos 300 anos da união da Igreja greco-católica da Romênia com a Igreja de Roma",
+        "de": "An die Gläubigen der griechisch-katholischen Kirche Rumäniens anlässlich des 300. Jahrestages der Union ihrer Kirche mit der Kirche Roms",
+        "es": "Carta apostólica en el tercer centenario de la unión de la Iglesia greco-católica de Rumania con la Iglesia de Roma",
+        "fr": "A l'occasion du troisième centenaire de l’union de l'Eglise grèque-catholique de Roumanie avec l'Eglise de Rome",
+        "it": "In occasione del terzo centenario dell’unione della Chiesa greco-cattolica di Romania con la Chiesa di Roma"
+      }
+    }
+  ]
+}

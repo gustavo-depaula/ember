@@ -1,0 +1,40 @@
+{
+  "id": "paul-vi-reflections-at-nazareth",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Reflections at Nazareth"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul VI · 1964-01-05",
+    "pt-BR": "Documento · Papa Paulo VI · 1964-01-05"
+  },
+  "composed": "1964",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/p6reflect.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Reflections at Nazareth"
+      }
+    }
+  ]
+}

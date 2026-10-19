@@ -1,0 +1,96 @@
+{
+  "id": "paul-vi-populorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Populorum Progressio, Litterae encyclicae, die XXVI mensis Martii, anno MDCCCCLXVII - Paulus VI",
+    "en-US": "Populorum Progressio",
+    "pt-BR": "Populorum Progressio",
+    "de": "Populorum Progressio",
+    "es": "Populorum Progressio",
+    "fr": "Populorum Progressio",
+    "it": "Populorum Progressio",
+    "pl": "Populorum Progressio (March 26, 1967)"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Paul VI · 1967-03-26",
+    "pt-BR": "Encíclica · Papa Paulo VI · 1967-03-26"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1967-03-26,_SS_Paulus_VI,_Encyclica_'Populorum_Progressio',_PL.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Populorum Progressio, Litterae encyclicae, die XXVI mensis Martii, anno MDCCCCLXVII - Paulus VI",
+        "en-US": "Populorum Progressio",
+        "pt-BR": "Populorum Progressio",
+        "de": "Populorum Progressio",
+        "es": "Populorum Progressio",
+        "fr": "Populorum Progressio",
+        "it": "Populorum Progressio",
+        "pl": "Populorum Progressio (March 26, 1967)"
+      }
+    }
+  ]
+}

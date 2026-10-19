@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-oath-against-modernism",
+  "cover": "quarter",
+  "name": {
+    "en-US": "The Oath Against Modernism"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1910-09-01",
+    "pt-BR": "Documento · Papa Pio X · 1910-09-01"
+  },
+  "composed": "1910",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10moath.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "The Oath Against Modernism"
+      }
+    }
+  ]
+}

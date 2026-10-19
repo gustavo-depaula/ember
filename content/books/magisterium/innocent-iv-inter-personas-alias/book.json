@@ -1,0 +1,48 @@
+{
+  "id": "innocent-iv-inter-personas-alias",
+  "cover": "quarter",
+  "name": {
+    "la": "Inter Personas Alias",
+    "pt-BR": "Inter Personas Alias"
+  },
+  "author": {
+    "en-US": "Pope Innocent IV",
+    "pt-BR": "Papa Inocêncio IV",
+    "la": "Innocentius PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent IV · 1250-06-06",
+    "pt-BR": "Documento · Papa Inocêncio IV · 1250-06-06"
+  },
+  "composed": "1250",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1250-06-06,_SS_Innocentius_IV,_Inter_Personas_Alias,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1250-06-06,_SS_Innocentius_IV,_Inter_Personas_Alias,_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Inter Personas Alias",
+        "pt-BR": "Inter Personas Alias"
+      }
+    }
+  ]
+}

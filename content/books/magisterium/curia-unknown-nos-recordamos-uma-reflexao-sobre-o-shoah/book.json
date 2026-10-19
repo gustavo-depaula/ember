@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-nos-recordamos-uma-reflexao-sobre-o-shoah",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Nós recordamos: uma reflexão sobre o ‘Shoah'"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1998-03-16",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1998-03-16"
+  },
+  "composed": "1998",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/nos-recordamos-uma-reflexao-sobre-o-shoah-16-03-1998/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Nós recordamos: uma reflexão sobre o ‘Shoah'"
+      }
+    }
+  ]
+}

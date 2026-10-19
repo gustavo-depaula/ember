@@ -1,0 +1,88 @@
+{
+  "id": "pius-xi-quas-primas",
+  "cover": "quarter",
+  "name": {
+    "la": "Quas primas, Epistulae Encyclicae ad venerabiles fratres Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios pacem Et Communionem cum Apostolica Sede habentes: de festo Domini Nostri Iesu Christi Regis constituendo, d. 11 m. Decembris a. 1925, Pius PP. XI",
+    "en-US": "Quas Primas",
+    "pt-BR": "Quas primas",
+    "es": "Quas primas",
+    "fr": "Quas Primas",
+    "it": "Quas Primas",
+    "pl": "Quas \nPrimas (December 11, 1925)"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1925-12-11",
+    "pt-BR": "Encíclica · Papa Pio XI · 1925-12-11"
+  },
+  "composed": "1925",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/quas-primas-pio-xi-11-12-1925/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_11121925_quas-primas.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1925-12-11,_SS_Pius_XI,_Encyclica_'Quas_Primas',_PL.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quas primas, Epistulae Encyclicae ad venerabiles fratres Patriarchas, Primates, Archiepiscopos, Episcopos aliosque locorum Ordinarios pacem Et Communionem cum Apostolica Sede habentes: de festo Domini Nostri Iesu Christi Regis constituendo, d. 11 m. Decembris a. 1925, Pius PP. XI",
+        "en-US": "Quas Primas",
+        "pt-BR": "Quas primas",
+        "es": "Quas primas",
+        "fr": "Quas Primas",
+        "it": "Quas Primas",
+        "pl": "Quas \nPrimas (December 11, 1925)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "john-paul-ii-redemptoris-missio",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Encyclicae Redemptoris Missio, die VII mensis Decembris, anno mcmxc",
+    "en-US": "Redemptoris Missio",
+    "pt-BR": "Redemptoris Missio",
+    "de": "Redemptoris Missio",
+    "es": "Redemptoris Missio",
+    "fr": "Redemptoris Missio",
+    "hu": "Redemptoris Missio, enciklikája a minden időre érvényes missziós megbízatásról, 1990. december 7. - II. János Pál pápa",
+    "it": "Redemptoris Missio",
+    "lv": "Enciklika REDEMPTORIS MISSIO par Baznīcas misijas nemitīgo aktualitāti",
+    "pl": "Redemptoris Missio, 7 grudnia 1990",
+    "zh": "Redemptoris Missio"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope John Paul II · 1990-12-07",
+    "pt-BR": "Encíclica · Papa João Paulo II · 1990-12-07"
+  },
+  "composed": "1990",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "lv",
+    "pl",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/content/john-paul-ii/lv/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Encyclicae Redemptoris Missio, die VII mensis Decembris, anno mcmxc",
+        "en-US": "Redemptoris Missio",
+        "pt-BR": "Redemptoris Missio",
+        "de": "Redemptoris Missio",
+        "es": "Redemptoris Missio",
+        "fr": "Redemptoris Missio",
+        "hu": "Redemptoris Missio, enciklikája a minden időre érvényes missziós megbízatásról, 1990. december 7. - II. János Pál pápa",
+        "it": "Redemptoris Missio",
+        "lv": "Enciklika REDEMPTORIS MISSIO par Baznīcas misijas nemitīgo aktualitāti",
+        "pl": "Redemptoris Missio, 7 grudnia 1990",
+        "zh": "Redemptoris Missio"
+      }
+    }
+  ]
+}

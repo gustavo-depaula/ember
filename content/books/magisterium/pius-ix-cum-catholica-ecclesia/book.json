@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-cum-catholica-ecclesia",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Cum Catholica Ecclesia"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius IX · 1860-03-26",
+    "pt-BR": "Breve · Papa Pio IX · 1860-03-26"
+  },
+  "composed": "1860",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/breve-cum-catholica-ecclesia-26-marzo-1860.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Cum Catholica Ecclesia"
+      }
+    }
+  ]
+}

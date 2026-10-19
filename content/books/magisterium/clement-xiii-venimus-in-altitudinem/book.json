@@ -1,0 +1,40 @@
+{
+  "id": "clement-xiii-venimus-in-altitudinem",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Venimus in altitudinem"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Clement XIII · 1758-09-11",
+    "pt-BR": "Breve · Papa Clemente XIII · 1758-09-11"
+  },
+  "composed": "1758",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/breve-venimus-in-altitudinem-11-settembre-1758.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Venimus in altitudinem"
+      }
+    }
+  ]
+}

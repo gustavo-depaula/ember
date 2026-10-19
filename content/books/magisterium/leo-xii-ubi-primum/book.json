@@ -1,0 +1,48 @@
+{
+  "id": "leo-xii-ubi-primum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Ubi Primum",
+    "it": "Enciclica Ubi Primum"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XII · 1824-05-05",
+    "pt-BR": "Encíclica · Papa Leão XII · 1824-05-05"
+  },
+  "composed": "1824",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo12/l12ubipr.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/enciclica-ubi-primum-5-maggio-1824.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Ubi Primum",
+        "it": "Enciclica Ubi Primum"
+      }
+    }
+  ]
+}

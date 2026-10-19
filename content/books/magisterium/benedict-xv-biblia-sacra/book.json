@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-biblia-sacra",
+  "cover": "quarter",
+  "name": {
+    "it": "Cum Biblia Sacra con il quale vengono promulgate le norme che debbono regolare il funzionamento dei tre Istituti di studi biblici operanti in Roma, e i rapporti fra loro intercorrenti"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XV · 1916-08-15",
+    "pt-BR": "Breve · Papa Bento XV · 1916-08-15"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/briefs/documents/hf_ben-xv_briefs_19160815_biblia-sacra.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Cum Biblia Sacra con il quale vengono promulgate le norme che debbono regolare il funzionamento dei tre Istituti di studi biblici operanti in Roma, e i rapporti fra loro intercorrenti"
+      }
+    }
+  ]
+}

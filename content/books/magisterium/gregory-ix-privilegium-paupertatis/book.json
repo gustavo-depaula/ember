@@ -1,0 +1,64 @@
+{
+  "id": "gregory-ix-privilegium-paupertatis",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Privilegium Paupertatis'",
+    "en-US": "Bulla 'Privilegium Paupertatis'",
+    "es": "Bulla 'Privilegium Paupertatis'",
+    "fr": "Bulla 'Privilegium Paupertatis'"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Bull · Pope Gregory IX · 1227",
+    "pt-BR": "Bula · Papa Gregório IX · 1227"
+  },
+  "composed": "1227",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1227-1241,_SS_Gregorius_VIIII,_Bulla_'Privilegium_Paupertatis',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-09-18,_SS_Gregorius_VIIII,_Bulla_'Privilegium_Paupertatis',_EN.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-09-18,_SS_Gregorius_VIIII,_Bulla_'Privilegium_Paupertatis',_ES.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1228-09-18,_SS_Gregorius_VIIII,_Bulla_'Privilegium_Paupertatis',_FR.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Privilegium Paupertatis'",
+        "en-US": "Bulla 'Privilegium Paupertatis'",
+        "es": "Bulla 'Privilegium Paupertatis'",
+        "fr": "Bulla 'Privilegium Paupertatis'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "paul-vi-sacram-liturgiam",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacram Liturgiam - Decernitur ut praescripta quaedam Constitutionis de Sacra Liturgia a Concilio Oecumenico Vaticano II probatae vigere incipiant, Litterae Apostolicae Motu Proprio datae, Die 25 m. Ianuarii a. 1964, Paulus PP.VI",
+    "en-US": "Sacram Liturgiam",
+    "es": "Sacram liturgiam - Letras apostólicas dadas Motu proprio por las que se establece que determinadas prescripciones de la Constitución sobre la Sagrada Liturgia entren en vigor",
+    "it": "Sacram liturgiam - Lettera Apostolica in forma di Motu proprio con la quale entrano in vigore alcune prescrizioni della Costituzione sulla Sacra Liturgia"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1964-01-25",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1964-01-25"
+  },
+  "composed": "1964",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19640125_sacram-liturgiam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacram Liturgiam - Decernitur ut praescripta quaedam Constitutionis de Sacra Liturgia a Concilio Oecumenico Vaticano II probatae vigere incipiant, Litterae Apostolicae Motu Proprio datae, Die 25 m. Ianuarii a. 1964, Paulus PP.VI",
+        "en-US": "Sacram Liturgiam",
+        "es": "Sacram liturgiam - Letras apostólicas dadas Motu proprio por las que se establece que determinadas prescripciones de la Constitución sobre la Sagrada Liturgia entren en vigor",
+        "it": "Sacram liturgiam - Lettera Apostolica in forma di Motu proprio con la quale entrano in vigore alcune prescrizioni della Costituzione sulla Sacra Liturgia"
+      }
+    }
+  ]
+}

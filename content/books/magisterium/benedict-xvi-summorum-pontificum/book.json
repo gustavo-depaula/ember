@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-summorum-pontificum",
+  "cover": "quarter",
+  "name": {
+    "la": "Summorum Pontificum, Litterae Apostolicae Motu Proprio Datae, die septima m. Iulii, A.D. MMVII - Benedictus XVI",
+    "en-US": "Motu Proprio Summorum Pontificum on the \"Roman liturgy prior to the reform of 1970\"",
+    "pt-BR": "Motu Proprio Summorum Pontificum sobre a «Liturgia romana anterior à reforma de 1970»",
+    "de": "Motu Proprio Summorum Pontificum über „die römische Liturgie in ihrer Gestalt vor der 1970 durchgeführten Reform“",
+    "fr": "Motu Proprio Summorum Pontificum sur la liturgie romaine antérieure à la réforme de 1970",
+    "hu": "SUMMORUM PONTIFICUM MOTU PROPRIO KIADOTT APOSTOLI LEVELE",
+    "it": "Motu Proprio Summorum Pontificum sulla \"Liturgia romana anteriore alla riforma del 1970\""
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2007-07-07",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2007-07-07"
+  },
+  "composed": "2007",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/benedict-xvi/hu/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20070707_summorum-pontificum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Summorum Pontificum, Litterae Apostolicae Motu Proprio Datae, die septima m. Iulii, A.D. MMVII - Benedictus XVI",
+        "en-US": "Motu Proprio Summorum Pontificum on the \"Roman liturgy prior to the reform of 1970\"",
+        "pt-BR": "Motu Proprio Summorum Pontificum sobre a «Liturgia romana anterior à reforma de 1970»",
+        "de": "Motu Proprio Summorum Pontificum über „die römische Liturgie in ihrer Gestalt vor der 1970 durchgeführten Reform“",
+        "fr": "Motu Proprio Summorum Pontificum sur la liturgie romaine antérieure à la réforme de 1970",
+        "hu": "SUMMORUM PONTIFICUM MOTU PROPRIO KIADOTT APOSTOLI LEVELE",
+        "it": "Motu Proprio Summorum Pontificum sulla \"Liturgia romana anteriore alla riforma del 1970\""
+      }
+    }
+  ]
+}

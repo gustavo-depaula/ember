@@ -1,0 +1,64 @@
+{
+  "id": "john-xxiii-inde-a-primis",
+  "cover": "quarter",
+  "name": {
+    "la": "Inde a Primis",
+    "en-US": "Inde a Primis",
+    "pt-BR": "Inde a Primis",
+    "it": "Inde a Primis"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John XXIII · 1960-06-30",
+    "pt-BR": "Carta Apostólica · Papa João XXIII · 1960-06-30"
+  },
+  "composed": "1960",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1960-06-30,_SS_Ioannes_XXIII,_Epistula_'Inde_a_Primis',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1960-06-30,_SS_Ioannes_XXIII,_The_Most_Precious_Blood_Of_Jesus_Christ,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/inde-a-primis-joao-xxiii-30-06-1960/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1960-06-30,_SS_Ioannes_XXIII,_Inde_A_Primis,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Inde a Primis",
+        "en-US": "Inde a Primis",
+        "pt-BR": "Inde a Primis",
+        "it": "Inde a Primis"
+      }
+    }
+  ]
+}

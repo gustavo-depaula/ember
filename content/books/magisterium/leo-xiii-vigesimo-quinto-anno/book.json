@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-vigesimo-quinto-anno",
+  "cover": "quarter",
+  "name": {
+    "it": "Vigesimo quinto anno"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIII · 1902-03-19",
+    "pt-BR": "Carta Apostólica · Papa Leão XIII · 1902-03-19"
+  },
+  "composed": "1902",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/apost_letters/documents/hf_l-xiii_apl_19020319_vigesimo-quinto-anno.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Vigesimo quinto anno"
+      }
+    }
+  ]
+}

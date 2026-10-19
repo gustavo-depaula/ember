@@ -1,0 +1,112 @@
+{
+  "id": "paul-vi-evangelii-nuntiandi",
+  "cover": "quarter",
+  "name": {
+    "la": "Evangelii Nuntiandi",
+    "en-US": "Evangelii Nuntiandi",
+    "pt-BR": "Evangelii Nuntiandi",
+    "de": "Evangelii Nuntiandi",
+    "es": "Evangelii nuntiandi",
+    "fr": "Evangelii nuntiandi",
+    "hr": "Evangelii Nuntiandi - Apostolski Nagovor O Evangelizaciji u Suvremenom Svijetu",
+    "hu": "Evangelii Nuntiandi, VI. Pál pápa: az Evangélium hirdetése - kezdetű apostoli buzdítása a katolikus egyház püspökeihez, papjaihoz és híveihez az evangelizációról a mai világban 1975. december 8.",
+    "it": "Evangelii Nuntiandi",
+    "lv": "Evangelii Nuntiandi"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1975-12-08",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1975-12-08"
+  },
+  "composed": "1975",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hr",
+    "hu",
+    "it",
+    "lv"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/paul-vi/hr/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/paul-vi/hu/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/content/paul-vi/lv/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Evangelii Nuntiandi",
+        "en-US": "Evangelii Nuntiandi",
+        "pt-BR": "Evangelii Nuntiandi",
+        "de": "Evangelii Nuntiandi",
+        "es": "Evangelii nuntiandi",
+        "fr": "Evangelii nuntiandi",
+        "hr": "Evangelii Nuntiandi - Apostolski Nagovor O Evangelizaciji u Suvremenom Svijetu",
+        "hu": "Evangelii Nuntiandi, VI. Pál pápa: az Evangélium hirdetése - kezdetű apostoli buzdítása a katolikus egyház püspökeihez, papjaihoz és híveihez az evangelizációról a mai világban 1975. december 8.",
+        "it": "Evangelii Nuntiandi",
+        "lv": "Evangelii Nuntiandi"
+      }
+    }
+  ]
+}

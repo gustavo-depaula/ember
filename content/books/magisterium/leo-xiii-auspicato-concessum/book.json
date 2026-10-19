@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-auspicato-concessum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Auspicato Concessum",
+    "it": "Auspicato Concessum"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1882-09-17",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1882-09-17"
+  },
+  "composed": "1882",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_17091882_auspicato-concessum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_17091882_auspicato-concessum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Auspicato Concessum",
+        "it": "Auspicato Concessum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pius-xii-communium-interpretes-dolorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Communium interpretes dolorum, Epistulae Enciclicae, Publicae indicuntur supplicationes ad populorum pacem conciliandam, d. 15 m. Aprilis a. 1945, Pius PP. XII",
+    "en-US": "Communium Interpretes Dolorum",
+    "pt-BR": "Communium Interpretes Dolorum",
+    "it": "Communium Interpretes Dolorum"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1945-04-15",
+    "pt-BR": "Encíclica · Papa Pio XII · 1945-04-15"
+  },
+  "composed": "1945",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_15041945_communium-interpretes-dolorum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Communium interpretes dolorum, Epistulae Enciclicae, Publicae indicuntur supplicationes ad populorum pacem conciliandam, d. 15 m. Aprilis a. 1945, Pius PP. XII",
+        "en-US": "Communium Interpretes Dolorum",
+        "pt-BR": "Communium Interpretes Dolorum",
+        "it": "Communium Interpretes Dolorum"
+      }
+    }
+  ]
+}

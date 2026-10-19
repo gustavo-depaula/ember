@@ -1,0 +1,69 @@
+# Lettera Apostolica per il Centenario dell'Opera di San Pietro Apostolo
+
+**GIOVANNI PAOLO II**
+
+***LETTERA APOSTOLICA PER IL CENTENARIO DELL'OPERA DI SAN PIETRO APOSTOLO***
+
+*** ***
+
+*Venerabili fratelli, cari figli e figli, salute e apostolica benedizione!*
+
+1\. In questo tempo in cui le Chiese di recente fondazione vedono dei giovani sempre più numerosi rispondere alla chiamata del Signore ed assumersi il compito sacerdotale, è giusto che tutto il Popolo di Dio celebri nella gioia e nel rendimento di grazie il centesimo anniversario della fondazione dell'Opera di san Pietro apostolo per la promozione del clero autoctono e lo sviluppo dei seminari nelle Chiese locali dei territori di missione. Godendo della collaborazione di innumerevoli fratelli e sorelle mobilitati per questa Opera, in realtà, un gran numero di vocazioni seminate nelle giovani Chiese sono germogliate e hanno portato frutti di grazia e di salvezza. Si sono costruiti e messi in funzione seminari minori e maggiori, si sono create case di formazione alla vita religiosa per rispondere al desiderio di quanti volevano consacrare radicalmente la loro vita alla proclamazione del Vangelo.
+
+Quante belle pagine di storia della Chiesa sono state scritte nei diversi continenti dai soci dell'Opera di san Pietro apostolo! Quanti sacerdoti, religiosi e religiose hanno avuto, grazie a questa Opera, la gioia di realizzare la loro vocazione! Nel corso delle mie visite pastorali nelle Chiese locali, è per me una grande gioia incontrare i sacerdoti e i seminaristi, i religiosi e le religiose provenienti da questa comunità.
+
+2\. Il Concilio Vaticano II ha espresso bene il sentimento della Chiesa davanti a questa realtà incoraggiante, nel documento che dà gli orientamenti essenziali a tutti coloro che partecipano all'attività missionaria: «Si rallegra vivamente la Chiesa e ringrazia per il dono inestimabile della vocazione sacerdotale che Dio ha concesso a tanti giovani in mezzo a popoli, convertiti di recente al cristianesimo. È indubbio che la Chiesa mette più profonde radici in un gruppo umano qualsiasi, quando le varie comunità di fedeli traggono dai propri membri i ministri della salvezza, che nell'ordine dei Vescovi, dei sacerdoti e dei diaconi, servono ai loro fratelli, sicché le nuove Chiese acquistano a poco a poco la struttura di diocesi, fornita di clero proprio» («[Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_it.html)», 16).
+
+Perché il Popolo di Dio possa testimoniare davanti all'umanità intera la salvezza in Gesù Cristo, morto e risuscitato per tutti, è necessario che le membra del suo Corpo, ovunque, siano unite al loro Capo attraverso il ministero dei Vescovi e dei sacerdoti. Costoro, «al servizio di Cristo Maestro, Sacerdote e Re, partecipano al suo ministero, per il quale la Chiesa qui in terra è incessantemente edificata in popolo di Dio, Corpo di Cristo e Tempio dello Spirito Santo» («[Presbyterorum Ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_it.html)», 1).
+
+Il centenario che celebriamo richiama nuovamente la nostra attenzione sul ruolo insostituibile dei sacerdoti. Grazie al loro ministero, la comunità tutta fonda la sua coesione sulla partecipazione al sacrificio redentore nell'Eucaristia, i doni misteriosi del perdono e della riconciliazione vengono elargiti nel sacramento della Penitenza, l'assemblea dei fedeli viene guidata dai dispensatori dei misteri di Dio, uniti ai Vescovi, in comunione con il successore di Pietro.
+
+Nella diversità delle culture e l'unità fondamentale di tutta la Chiesa, il ministero sacerdotale può essere esercitato nel modo più adeguato al genio proprio di ciascun popolo.
+
+È ancora lunga la strada perché tutte le diocesi abbiano a disposizione un numero sufficiente di sacerdoti autoctoni e la presenza di missionari stranieri è ancora indispensabile. Ma so che questi ultimi favoriscono attivamente la formazione di un presbiterio di origine locale, il cui sviluppo è la migliore ricompensa ai loro sforzi apostolici.
+
+Un altro segno incoraggiante che desidero sottolineare è la grande disponibilità di molte giovani Chiese non solo ad assumersi la responsabilità della propria vita pastorale attraverso i sacerdoti chiamati tra i loro figli, ma a partecipare a loro volta alla missione di evangelizzazione «ad extra», non esitando ad inviare lontano alcuni sacerdoti e religiosi o religiose autoctoni delle prime generazioni.
+
+È opportuno ricordare la parte svolta dall'Opera di san Pietro apostolo in questo sviluppo. A partire dal secolo scorso, infatti essa ha lavorato efficacemente perché tutte le Chiese potessero godere del ministero dei loro figli chiamati dal Signore. Dando ai pionieri del clero locale il suo sostegno spirituale e materiale, ha svolto un ruolo di prim'ordine, per la partecipazione generosa di innumerevoli fedeli.
+
+3\. Come non ricordare in questo contesto la figura delle due fondatrici dell'Opera; Jeanne Bigard e la madre Stèphanie, donne di gran cuore alle quali lo Spirito Santo mostrò con chiarezza fa necessità di un clero autoctono per l'«implantatio» della Chiesa? Esse hanno accolto l'invito del Signore a consacrare le loro forze, la loro energia, la loro vita tutta alla promozione del Vangelo attraverso la formazione di sacerdoti e di consacrati e consacrate. Esse sono riuscite a forgiare con tenacia ed entusiasmo uno strumento adeguato alla realizzazione di questo nobile scopo.
+
+Jeanne Bigard, in particolare, che si era offerta in olocausto alla volontà di Dio, conobbe nel corso degli anni il mistero della Croce che aveva presentito: «Soffrirò molto - scriveva nel 1903 - ma se questo è il prezzo perché il piccolo granello di senapa possa germogliare e crescere, sarei colpevole ad oppormi». Il suo generoso sacrificio è stato certamente fecondo. L'Opera di san Pietro apostolo le deve molto, poiché ha potuto svolgere il suo ruolo e favorire realmente la crescita di molte vocazioni nelle giovani Chiese.
+
+Desidero ricordare l'attaccamento delle signore Bigard alla Sede Apostolica. Il nome stesso scelto per l'Opera manifesta la loro fedeltà alla Chiesa di Cristo. A partire da Leone XIII, i miei predecessori non hanno mancato di incoraggiarle, e hanno accordato di cuore le loro benedizioni alle fondatrici e a tutti i soci, poiché trovavano in questa iniziativa un aiuto prezioso al compito pastorale dell'evangelizzazione.
+
+4\. Il Papa Pio X, cui è stato dato il nome di «Papa delle Missioni», volle riaffermare il fondamento spirituale della fondazione attribuendole una speciale patrona: proclamò protettrice perenne dell'Opera di san Pietro apostolo santa Teresa del Bambin Gesù e del santo Volto, il 23 luglio 1925, l'anno stesso della sua canonizzazione e due anni prima di istituirla come patrona principale delle missioni di tutto il mondo insieme con san Francesco Saverio.
+
+L'intuizione era profondamente giusta: attraverso la sua testimonianza e la sua intercessione, Teresa può ispirare e sostenere questa Opera di grande importanza per lo sviluppo delle Chiese di recente fondazione.
+
+La giovane carmelitana di Lisieux, quando medita sul senso della sua vocazione, scrive: «Malgrado la mia piccolezza, vorrei illuminare le anime . . ., ho la vocazione di apostolo . . . Vorrei essere missionaria . . . fino alla consumazione dei secoli» («Manuscrits autobiographiques», B, folio 3). La santa, per la quale «l'amore racchiudeva in sé tutte le vocazioni» («Manuscrits autobiographiques», B, folio 3) chiede continuamente la grazia di amare di Dio per farlo amare. A un fratello spirituale, futuro missionario, ella confida con semplicità la sua preghiera e il suo desiderio più profondo: «Prego per tutte le anime che le saranno affidate . . . In paradiso desidererò le stesse cose che bramo quaggiù: amare Gesù e farlo amare» («Correspondance générale», lettre à l'Abbé Bellière, n. 220, p. 952).
+
+Teresa non ha potuto andare lontano per realizzare il suo sogno missionario, ma, nella solitudine del Carmelo, ella «ama per i suoi fratelli che combattono» («Manuscrits autobiographiques», B, folio 4); ella supplica il Signore: «Che tutti coloro i quali non sono illuminati dal lume della fede lo vedano finalmente risplendere» («Manuscrits autobiographiques», C, folio 6). Per questo, ella vuole che il suo sacrificio sia totale, ella «accetta di mangiare . . . il pane del dolore» («Manuscrits autobiographiques», C, folio 6).
+
+Il giorno in cui la Chiesa celebra la festa di santa Teresa del Bambin Gesù, in questo anno del centenario dell'Opera di san Pietro apostolo, esorto tutti i soci a meditare sulla spiritualità missionaria della loro santa patrona e a farla conoscere a molti fratelli e sorelle la cui generosità è necessaria per continuare nell'impegno intrapreso.
+
+Risponderanno così all'orientamento essenziale proposto dal Concilio Vaticano II nell'introduzione del decreto sull'attività missionaria della Chiesa: «Questo santo Sinodo . . . desidera esporre i principi dell'attività missionaria e raccogliere le forze di tutti i fedeli, perché il popolo di Dio, attraverso la via della croce, che è angusta, possa dovunque diffondere il regno di Cristo, padrone e osservatore dei secoli (cfr. *Sir* 36, 19) e preparare la strada alla sua venuta» («[Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_it.html)», 1).
+
+5\. A cento anni dalla sua fondazione, l'Opera di san Pietro apostolo non ha certo esaurito la sua missione. Se le giovani Chiese vedono felicemente aumentare il numero delle vocazioni sacerdotali e religiose uscite dal loro interno, la supplica udita dall'apostolo Paolo: «Passa in Macedonia e aiutaci!» (At 16,9) non cessa di risuonare rivolto ai ministri del Vangelo, da tutte le parti del mondo, dal momento che il numero dei battezzati non cresce allo stesso ritmo della popolazione del globo.
+
+L'invito di Cristo ci interpella tutti con forza. Il Concilio Vaticano II ha giustamente sottolineato il carattere comunitario della missione per la quale Cristo ha domandato di pregare il padrone della messe: «La comunità locale non deve limitarsi a prendersi cura dei propri fedeli, ma è tenuta anche a sentire lo zelo missionario di aprire a tutti gli uomini la strada che conduce a Cristo» («[Presbyterorum Ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_it.html)», 6).
+
+Tenendo conto dell'ampiezza dei compiti dei sacerdoti e dei religiosi nel mondo contemporaneo, e considerando le molteplici difficoltà incontrate nell'apostolato, le vocazioni nate da Dio devono essere coltivate, rafforzate, formate in modo particolare. E questo è anzitutto il compito dei seminari minori e maggiori. Queste istituzioni hanno bisogno della collaborazione generosa di tutti i fedeli per poter dare ai candidati al sacerdozio la formazione equilibrata che è loro necessaria. La crescita del clero autoctono potrebbe essere impedita dall'insufficienza delle risorse. Secondo la testimonianza di alcuni Vescovi dei paesi di missione, anche oggi più di una diocesi potrebbe veder annullata la propria speranza di avere un clero autoctono senza l'aiuto dell'Opera di san Pietro apostolo. Non chiudiamo il nostro cuore: ciò che riceviamo dalla sua bontà, doniamolo con gioia!
+
+6\. Mi auguro che verranno intraprese delle iniziative atte a ravvivare l'attenzione e l'interesse del Popolo di Dio sul dono della fede che si trasmette di generazione in generazione nella Chiesa per la grazia di Dio e la testimonianza dei fedeli.
+
+Per questo, è opportuno ricordare, per rendere loro l'omaggio dovuto, le numerose donne di ogni condizione (nubili, madri di famiglia, vedove o nonne) che svolgono un ruolo insostituibile non solo nella trasmissione della fede ma anche nella continuità dell'Opera oggi, in quanto ne sono le prime collaboratrici e molto spesso è proprio grazie a loro che si mantiene il senso della missione nelle famiglie cristiane.
+
+Dal canto loro, i giovani di tutte le regioni del mondo porteranno il contributo del loro senso di solidarietà e di comunità, loro che superano facilmente le frontiere, loro che sanno essere fratelli: che essi scoprano e facciano scoprire ai loro genitori ciò che la vitalità della Chiesa deve al sacerdozio in ciascun popolo.
+
+Il centenario dell'Opera di san Pietro apostolo deve essere un appello rivolto a tutta la Chiesa a riconoscere la grandezza della vocazione sacerdotale e religiosa, a riconoscere anche la presente necessità di ministri di Dio pronti a dedicare generosamente la loro vita all'annuncio del Vangelo, con la fede e la disponibilità della Vergine Maria, «stella dell'evangelizzazione», perché «serva del Signore». Fin dagli inizi, l'Opera di san Pietro apostolo richiedeva ai soci di invocare ogni giorno la Vergine con il titolo di «Maria, Regina degli Apostoli». In questo nuovo avvento della Chiesa che si avvia verso il terzo millennio, come santa Teresa del Bambin Gesù, preghiamo ancora la Vergine Maria con il medesimo attributo, perché susciti nella Chiesa numerosi apostoli e discepoli del suo Figlio Gesù.
+
+La benedizione di Dio sia la ricompensa di tutti coloro che si associano all'Opera di san Pietro apostolo e di coloro di cui essa favorisce la vocazione!
+
+*Dal Vaticano, 1° ottobre 1989, festa di santa Teresa del Bambin Gesù e del Volto santo, undicesimo anno del mio Pontificato.*
+
+IOANNES PAULUS II 
+
+*  *
+
+* *

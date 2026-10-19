@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-exultabat-spiritus",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Exultabat Spiritus"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Bull · Pope Leo XII · 1825-12-25",
+    "pt-BR": "Bula · Papa Leão XII · 1825-12-25"
+  },
+  "composed": "1825",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/bolla-exultabat-spiritus-25-dicembre-1825.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Exultabat Spiritus"
+      }
+    }
+  ]
+}

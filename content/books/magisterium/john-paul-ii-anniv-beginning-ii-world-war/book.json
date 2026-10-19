@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-anniv-beginning-ii-world-war",
+  "cover": "quarter",
+  "name": {
+    "de": "Apostolisches Schreiben zum 50. Jahrestag des Beginns des Zweiten Weltkrieges",
+    "es": "Carta Apostólica con ocasión del 50 aniversario del comienzo de la II Guerra Mundial",
+    "fr": "Lettre Apostolique à l'occasion du Cinquantième anniversaire du début de la Seconde Guerre Mondiale",
+    "it": "Lettera Apostolica in occasione del 50° Anniversario dell'Inizio della II Guerra Mondiale"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1989-08-27",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1989-08-27"
+  },
+  "composed": "1989",
+  "languages": [
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1989/documents/hf_jp-ii_apl_19890827_anniv-beginning-ii-world-war.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1989/documents/hf_jp-ii_apl_19890827_anniv-beginning-ii-world-war.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1989/documents/hf_jp-ii_apl_19890827_anniv-beginning-ii-world-war.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1989/documents/hf_jp-ii_apl_19890827_anniv-beginning-ii-world-war.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "de": "Apostolisches Schreiben zum 50. Jahrestag des Beginns des Zweiten Weltkrieges",
+        "es": "Carta Apostólica con ocasión del 50 aniversario del comienzo de la II Guerra Mundial",
+        "fr": "Lettre Apostolique à l'occasion du Cinquantième anniversaire du début de la Seconde Guerre Mondiale",
+        "it": "Lettera Apostolica in occasione del 50° Anniversario dell'Inizio della II Guerra Mondiale"
+      }
+    }
+  ]
+}

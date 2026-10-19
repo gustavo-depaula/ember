@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-nosti-profecto",
+  "cover": "quarter",
+  "name": {
+    "la": "Nosti profecto, Litterae Apostolicae, Ad dilectum filium wlodimirum ledóchowski praepositum generalem societatis iesu: quarto exeunte saeculo ab eadem societate condita, d. 6 m. iulii a. 1940, Pius PP. XII",
+    "it": "Nosti profecto. - Nel IV centenario della fondazione della Compagnia di Gesù"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XII · 1940-07-06",
+    "pt-BR": "Carta Apostólica · Papa Pio XII · 1940-07-06"
+  },
+  "composed": "1940",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_letters/documents/hf_p-xii_apl_19400706_nosti-profecto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_letters/documents/hf_p-xii_apl_19400706_nosti-profecto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Nosti profecto, Litterae Apostolicae, Ad dilectum filium wlodimirum ledóchowski praepositum generalem societatis iesu: quarto exeunte saeculo ab eadem societate condita, d. 6 m. iulii a. 1940, Pius PP. XII",
+        "it": "Nosti profecto. - Nel IV centenario della fondazione della Compagnia di Gesù"
+      }
+    }
+  ]
+}

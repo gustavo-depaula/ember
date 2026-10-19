@@ -1,0 +1,48 @@
+{
+  "id": "gregory-ix-statum-monasteri",
+  "cover": "quarter",
+  "name": {
+    "la": "Statum Monasteri",
+    "pt-BR": "Statum Monasteri"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory IX · 1239-02-17",
+    "pt-BR": "Documento · Papa Gregório IX · 1239-02-17"
+  },
+  "composed": "1239",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1239-02-17,_SS_Gregorius_VIIII,_Statum_Monasteri,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1239-02-17,_SS_Gregorius_VIIII,_Statum_Monasteri,_PT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Statum Monasteri",
+        "pt-BR": "Statum Monasteri"
+      }
+    }
+  ]
+}

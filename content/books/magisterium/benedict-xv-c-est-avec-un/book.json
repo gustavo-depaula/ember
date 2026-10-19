@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-c-est-avec-un",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola C'est avec un al Cardinale Luigi Luçon, Arcivescovo di Reims, in segno di partecipazione al dolore della popolazione di Reims, occupata dalle truppe tedesche"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1914-10-16",
+    "pt-BR": "Carta · Papa Bento XV · 1914-10-16"
+  },
+  "composed": "1914",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1914/documents/hf_ben-xv_let_19141016_c-est-avec-un.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola C'est avec un al Cardinale Luigi Luçon, Arcivescovo di Reims, in segno di partecipazione al dolore della popolazione di Reims, occupata dalle truppe tedesche"
+      }
+    }
+  ]
+}

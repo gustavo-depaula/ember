@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-i-prodiit-jamdudum",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Prodiit Jamdudum"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1751-01-30",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1751-01-30"
+  },
+  "composed": "1751",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-prodiit-jamdudum--i---30-gennaio-1751--poiche-quest.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Prodiit Jamdudum"
+      }
+    }
+  ]
+}

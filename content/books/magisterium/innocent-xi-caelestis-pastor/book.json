@@ -1,0 +1,40 @@
+{
+  "id": "innocent-xi-caelestis-pastor",
+  "cover": "quarter",
+  "name": {
+    "it": "Caelestis Pastor"
+  },
+  "author": {
+    "en-US": "Pope Innocent XI",
+    "pt-BR": "Papa Inocêncio XI",
+    "la": "Innocentius PP. XI"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent XI · 1687-11-20",
+    "pt-BR": "Documento · Papa Inocêncio XI · 1687-11-20"
+  },
+  "composed": "1687",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1687-11-20,_SS_Innocentius_XI,_Caelestis_Pastor,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Caelestis Pastor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "gregory-xvi-quas-vestro",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quas Vestro",
+    "it": "Breve Quas vestro"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1841-04-30",
+    "pt-BR": "Breve · Papa Gregório XVI · 1841-04-30"
+  },
+  "composed": "1841",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/greg16/g16quasv.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-quas-vestro-30-aprile-1841.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quas Vestro",
+        "it": "Breve Quas vestro"
+      }
+    }
+  ]
+}

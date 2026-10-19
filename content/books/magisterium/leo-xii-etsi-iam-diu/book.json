@@ -1,0 +1,40 @@
+{
+  "id": "leo-xii-etsi-iam-diu",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Etsi Iam Diu"
+  },
+  "author": {
+    "en-US": "Pope Leo XII",
+    "pt-BR": "Papa Leão XII",
+    "la": "Leo PP. XII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XII · 1824-09-24",
+    "pt-BR": "Breve · Papa Leão XII · 1824-09-24"
+  },
+  "composed": "1824",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/breve-etsi-iam-diu-24-settembre-1824.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Etsi Iam Diu"
+      }
+    }
+  ]
+}

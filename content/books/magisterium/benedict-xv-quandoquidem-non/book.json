@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-quandoquidem-non",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Quandoquidem non, con la quale il Pontefice invita i Vescovi della Boemia a riunirsi a Praga per esaminare i problemi che sono maturati nelle loro diocesi"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1920-01-03",
+    "pt-BR": "Carta · Papa Bento XV · 1920-01-03"
+  },
+  "composed": "1920",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1920/documents/hf_ben-xv_let_19200103_quandoquidem-non.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Quandoquidem non, con la quale il Pontefice invita i Vescovi della Boemia a riunirsi a Praga per esaminare i problemi che sono maturati nelle loro diocesi"
+      }
+    }
+  ]
+}

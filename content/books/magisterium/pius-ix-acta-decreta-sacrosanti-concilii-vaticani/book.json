@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-acta-decreta-sacrosanti-concilii-vaticani",
+  "cover": "quarter",
+  "name": {
+    "la": "Acta Decreta Sacrosanti Concilii Vaticani"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius IX · 1846",
+    "pt-BR": "Documento · Papa Pio IX · 1846"
+  },
+  "composed": "1846",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1846-1878,_SS_Pius_IX,_Acta_Decreta_Sacrosanti_Concilii_Vaticani,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Acta Decreta Sacrosanti Concilii Vaticani"
+      }
+    }
+  ]
+}

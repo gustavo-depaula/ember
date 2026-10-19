@@ -1,0 +1,48 @@
+{
+  "id": "cdf-cti-temi-scelti-ecclesiologia",
+  "cover": "quarter",
+  "name": {
+    "es": "Comunicado de Radio Vaticana del 10 de diciembre de 1985 sobre el documento relativo a temas selectos de eclesiología",
+    "it": "Documento riguardante temi scelti di ecclesiologia"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1985-12-10",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1985-12-10"
+  },
+  "composed": "1985",
+  "languages": [
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_19851210_temi-scelti-ecclesiologia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_19851210_temi-scelti-ecclesiologia_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Comunicado de Radio Vaticana del 10 de diciembre de 1985 sobre el documento relativo a temas selectos de eclesiología",
+        "it": "Documento riguardante temi scelti di ecclesiologia"
+      }
+    }
+  ]
+}

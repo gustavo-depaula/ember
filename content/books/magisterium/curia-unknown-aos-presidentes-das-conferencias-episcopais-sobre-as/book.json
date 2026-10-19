@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-aos-presidentes-das-conferencias-episcopais-sobre-as",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Carta aos presidentes das Conferências Episcopais sobre as Comissões Doutrinais"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1990-11-23",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1990-11-23"
+  },
+  "composed": "1990",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/carta-aos-presidentes-das-conferencias-episcopais-sobre-as-comissoes-doutrinais-23-11-1990/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Carta aos presidentes das Conferências Episcopais sobre as Comissões Doutrinais"
+      }
+    }
+  ]
+}

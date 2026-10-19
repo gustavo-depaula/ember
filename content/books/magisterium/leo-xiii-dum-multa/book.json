@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-dum-multa",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Dum Multa"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1902-12-24",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1902-12-24"
+  },
+  "composed": "1902",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_24121902_dum-multa.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Dum Multa"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-ambulate-in-dilectione",
+  "cover": "quarter",
+  "name": {
+    "la": "Ambulate in dilectione",
+    "pt-BR": "Ambulate in dilectione"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1965-12-07",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1965-12-07"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1965-12-07,_SS_Paulus_VI,_Littera_'Ambulate_in_Dilectione',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/ambulate-in-dilectione-paulo-vi-07-12-1965/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ambulate in dilectione",
+        "pt-BR": "Ambulate in dilectione"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xiv-cum-semper-oblatas",
+  "cover": "quarter",
+  "name": {
+    "it": "Cum semper oblatas"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Document · Pope Benedict XIV · 1744-08-19",
+    "pt-BR": "Documento · Papa Bento XIV · 1744-08-19"
+  },
+  "composed": "1744",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1744-08-19,_SS_Benedictus_XIV,_Cum_Semper_Oblatas,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Cum semper oblatas"
+      }
+    }
+  ]
+}

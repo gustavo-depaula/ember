@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-avendoci-ella",
+  "cover": "quarter",
+  "name": {
+    "it": "Chirografo Avendoci ella"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XVI · 1833-02-20",
+    "pt-BR": "Documento · Papa Gregório XVI · 1833-02-20"
+  },
+  "composed": "1833",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/chirografo-avendoci-ella-20-febbraio-1833.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Chirografo Avendoci ella"
+      }
+    }
+  ]
+}

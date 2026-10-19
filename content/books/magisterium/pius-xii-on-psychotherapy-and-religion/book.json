@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-on-psychotherapy-and-religion",
+  "cover": "quarter",
+  "name": {
+    "en-US": "On Psychotherapy And Religion"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1953-04-13",
+    "pt-BR": "Documento · Papa Pio XII · 1953-04-13"
+  },
+  "composed": "1953",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12psyre.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "On Psychotherapy And Religion"
+      }
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pius-xii-fulgens-radiatur",
+  "cover": "quarter",
+  "name": {
+    "la": "Fulgens Radiatur, die XXI m. Martii, a. MDCCCCXXXXVII - Pius PP. XII, Epistula Encyclica",
+    "en-US": "Fulgens Radiatur",
+    "pt-BR": "Fulgens Radiatur",
+    "es": "Fulgens Radiatur",
+    "fr": "Fulgens Radiatur",
+    "it": "Fulgens Radiatur"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1947-03-21",
+    "pt-BR": "Encíclica · Papa Pio XII · 1947-03-21"
+  },
+  "composed": "1947",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_21031947_fulgens-radiatur.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Fulgens Radiatur, die XXI m. Martii, a. MDCCCCXXXXVII - Pius PP. XII, Epistula Encyclica",
+        "en-US": "Fulgens Radiatur",
+        "pt-BR": "Fulgens Radiatur",
+        "es": "Fulgens Radiatur",
+        "fr": "Fulgens Radiatur",
+        "it": "Fulgens Radiatur"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-perlatae-dudum",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Perlatae dudum"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1835-04-23",
+    "pt-BR": "Breve · Papa Gregório XVI · 1835-04-23"
+  },
+  "composed": "1835",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-perlatae-dudum-23-aprile-1835.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Perlatae dudum"
+      }
+    }
+  ]
+}

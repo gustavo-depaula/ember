@@ -1,0 +1,64 @@
+{
+  "id": "gregory-ix-regula-fratrum-minorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Regula Fratrum Minorum",
+    "en-US": "Regula Fratrum Minorum",
+    "de": "Regula Fratrum Minorum",
+    "fr": "Regula Fratrum Minorum"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory IX · 1226-11-29",
+    "pt-BR": "Documento · Papa Gregório IX · 1226-11-29"
+  },
+  "composed": "1226",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1227-1241,_SS_Gregorius_VIIII,_Regula_Fratrum_Minorum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1226-11-29,_SS_Gregorius_VIIII,_Regula_Fratrum_Minorum,_EN.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1226-11-29,_SS_Gregorius_VIIII,_Regula_Fratrum_Minorum,_GE.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1226-11-29,_SS_Gregorius_VIIII,_Regula_Fratrum_Minorum,_FR.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Regula Fratrum Minorum",
+        "en-US": "Regula Fratrum Minorum",
+        "de": "Regula Fratrum Minorum",
+        "fr": "Regula Fratrum Minorum"
+      }
+    }
+  ]
+}

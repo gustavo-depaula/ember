@@ -1,0 +1,56 @@
+{
+  "id": "john-xxii-cum-inter-nonnullos",
+  "cover": "quarter",
+  "name": {
+    "la": "Cum Inter Nonnullos",
+    "en-US": "Cum Inter Nonnullos",
+    "it": "Cum Inter Nonnullos"
+  },
+  "author": {
+    "en-US": "Pope John XXII",
+    "pt-BR": "Papa João XXII",
+    "la": "Ioannes PP. XXII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXII · 1323-11-12",
+    "pt-BR": "Documento · Papa João XXII · 1323-11-12"
+  },
+  "composed": "1323",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1323-11-12,_SS_Ioannes_XXII,_Quum_Inter_Nonnullos,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1323-11-12,_SS_Ioannes_XXII,_Quum_Inter_Nonnullos,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1323-11-12,_SS_Ioannes_XXII,_Cum_Inter_Nonnullos,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Cum Inter Nonnullos",
+        "en-US": "Cum Inter Nonnullos",
+        "it": "Cum Inter Nonnullos"
+      }
+    }
+  ]
+}

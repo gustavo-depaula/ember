@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-cinematographic-commission",
+  "cover": "quarter",
+  "name": {
+    "de": "Päpstliche Filmkommission",
+    "fr": "Commission Pontificale pour le Cinématographe",
+    "it": "Pontificia Commissione per la Cinematografia"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1952-01-01",
+    "pt-BR": "Carta · Papa Pio XII · 1952-01-01"
+  },
+  "composed": "1952",
+  "languages": [
+    "de",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/pius-xii/de/letters/documents/hf_p-xii_lett_01011952_cinematographic-commission.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/letters/documents/hf_p-xii_lett_01011952_cinematographic-commission.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_01011952_cinematographic-commission.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "de": "Päpstliche Filmkommission",
+        "fr": "Commission Pontificale pour le Cinématographe",
+        "it": "Pontificia Commissione per la Cinematografia"
+      }
+    }
+  ]
+}

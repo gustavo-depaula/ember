@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-quantunque-le-siano",
+  "cover": "quarter",
+  "name": {
+    "la": "Quamvis animi",
+    "it": "Quantunque le siano"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1887-06-15",
+    "pt-BR": "Carta · Papa Leão XIII · 1887-06-15"
+  },
+  "composed": "1887",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_18870615_quantunque-le-siano.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18870615_quantunque-le-siano.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quamvis animi",
+        "it": "Quantunque le siano"
+      }
+    }
+  ]
+}

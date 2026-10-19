@@ -1,0 +1,64 @@
+{
+  "id": "pius-x-praestantia-scripturae",
+  "cover": "quarter",
+  "name": {
+    "la": "Praestantia Scripturae",
+    "en-US": "Praestantia Scripturae",
+    "pt-BR": "Praestantia Scripturae",
+    "it": "Praestantia Scripturae"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius X · 1907-11-18",
+    "pt-BR": "Motu Proprio · Papa Pio X · 1907-11-18"
+  },
+  "composed": "1907",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-x/la/motu_proprio/documents/hf_p-x_motu-proprio_19071118_praestantia-scripturae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10prasc.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/praestantia-scripturae-pio-x-18-11-1907/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/motu_proprio/documents/hf_p-x_motu-proprio_19071118_praestantia-scripturae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Praestantia Scripturae",
+        "en-US": "Praestantia Scripturae",
+        "pt-BR": "Praestantia Scripturae",
+        "it": "Praestantia Scripturae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-santuario-nettuno",
+  "cover": "quarter",
+  "name": {
+    "it": "Sull'edificazione di un nuovo Santuario nel territorio di Nettuno come assistenza spirituale della popolazione"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius X · 1911-06-28",
+    "pt-BR": "Motu Proprio · Papa Pio X · 1911-06-28"
+  },
+  "composed": "1911",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/motu_proprio/documents/hf_p-x_motu-proprio_19110628_santuario-nettuno.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Sull'edificazione di un nuovo Santuario nel territorio di Nettuno come assistenza spirituale della popolazione"
+      }
+    }
+  ]
+}

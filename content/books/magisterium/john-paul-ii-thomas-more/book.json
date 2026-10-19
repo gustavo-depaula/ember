@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-thomas-more",
+  "cover": "quarter",
+  "name": {
+    "la": "E sancti Thomae Mori, Litterae Apostolicae Motu proprio datae, Quibus sanctus Thomas Morus Gubernatorum, politicorum Virorum ac Mulierum proclamatur Patronus, d. 31 m. Octobris a. 2000, Ioannes Paulus PP. II",
+    "en-US": "E sancti Thomae Mori - Apostolic Letter in the form of a Motu Proprio",
+    "pt-BR": "E sancti Thomae Mori",
+    "de": "E sancti Thomae Mori - Apostolisches Schreiben als Motu Proprio",
+    "es": "E sancti Thomae Mori, proclamación de santo Tomás Moro como patrono de los gobernantes y de los políticos",
+    "fr": "E sancti Thomae Mori - Lettre Apostolique en forme de Motu Proprio",
+    "it": "E sancti Thomae Mori - Lettera Apostolica in forma di Motu Proprio"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 2000-10-31",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 2000-10-31"
+  },
+  "composed": "2000",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_20001031_thomas-more.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "E sancti Thomae Mori, Litterae Apostolicae Motu proprio datae, Quibus sanctus Thomas Morus Gubernatorum, politicorum Virorum ac Mulierum proclamatur Patronus, d. 31 m. Octobris a. 2000, Ioannes Paulus PP. II",
+        "en-US": "E sancti Thomae Mori - Apostolic Letter in the form of a Motu Proprio",
+        "pt-BR": "E sancti Thomae Mori",
+        "de": "E sancti Thomae Mori - Apostolisches Schreiben als Motu Proprio",
+        "es": "E sancti Thomae Mori, proclamación de santo Tomás Moro como patrono de los gobernantes y de los políticos",
+        "fr": "E sancti Thomae Mori - Lettre Apostolique en forme de Motu Proprio",
+        "it": "E sancti Thomae Mori - Lettera Apostolica in forma di Motu Proprio"
+      }
+    }
+  ]
+}

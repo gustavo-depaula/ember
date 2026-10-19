@@ -1,0 +1,88 @@
+{
+  "id": "cdf-pane-senza-glutine-20030724",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Circular Letter to all Presidents of the Episcopal Conferences concerning the use of low-gluten altar breads and mustum as matter for the celebration of the Eucharist",
+    "pt-BR": "Aos presidentes das Conferências Episcopais sobre o uso do pão com pouca quantidade de glúten e do mosto como matéria eucarística, 23 de julho de 2003",
+    "de": "Rundschreiben an die Präsidenten der Bischofskonferenzen über den Gebrauch von Brot mit niedrigem Glutenanteil und von Most als Materie für die Eucharistie",
+    "es": "Sobre el uso del pan con poca cantidad de gluten y del mosto come materia eucarística, 24 julio 2003",
+    "fr": "Lettre à tous les Présidents des Conférences épiscopales sur l’usage du pain pauvre en gluten et du moût comme matière eucharistique",
+    "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa l'uso del pane con poca quantità di glutine e del mosto come materia eucaristica",
+    "pl": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa l'uso del pane con poca quantità di glutine e del mosto come materia eucaristica"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2003-07-24",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2003-07-24"
+  },
+  "composed": "2003",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030724_pane-senza-glutine_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Circular Letter to all Presidents of the Episcopal Conferences concerning the use of low-gluten altar breads and mustum as matter for the celebration of the Eucharist",
+        "pt-BR": "Aos presidentes das Conferências Episcopais sobre o uso do pão com pouca quantidade de glúten e do mosto como matéria eucarística, 23 de julho de 2003",
+        "de": "Rundschreiben an die Präsidenten der Bischofskonferenzen über den Gebrauch von Brot mit niedrigem Glutenanteil und von Most als Materie für die Eucharistie",
+        "es": "Sobre el uso del pan con poca cantidad de gluten y del mosto come materia eucarística, 24 julio 2003",
+        "fr": "Lettre à tous les Présidents des Conférences épiscopales sur l’usage du pain pauvre en gluten et du moût comme matière eucharistique",
+        "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa l'uso del pane con poca quantità di glutine e del mosto come materia eucaristica",
+        "pl": "Lettera circolare ai Presidenti delle Conferenze Episcopali circa l'uso del pane con poca quantità di glutine e del mosto come materia eucaristica"
+      }
+    }
+  ]
+}

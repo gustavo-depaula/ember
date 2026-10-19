@@ -1,0 +1,39 @@
+{
+  "id": "leo-x-decet-romanum-pontificem",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decet Romanum Pontificem"
+  },
+  "author": {
+    "en-US": "Pope Leo X",
+    "pt-BR": "Papa Leão X",
+    "la": "Leo PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Leo X",
+    "pt-BR": "Documento · Papa Leão X"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "leo-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/leo10/l10decet.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decet Romanum Pontificem"
+      }
+    }
+  ]
+}

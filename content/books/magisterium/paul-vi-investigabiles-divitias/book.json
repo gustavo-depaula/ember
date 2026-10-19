@@ -1,0 +1,56 @@
+{
+  "id": "paul-vi-investigabiles-divitias",
+  "cover": "quarter",
+  "name": {
+    "la": "Investigabiles divitias Christi, Epistula Apostolica, Die 6 m. Februarii a. 1965, Paulus PP.VI",
+    "hr": "Investigabiles divitias Christi",
+    "it": "Investigabiles divitias Christi"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1965-02-06",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1965-02-06"
+  },
+  "composed": "1965",
+  "languages": [
+    "la",
+    "hr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19650206_investigabiles-divitias.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hr",
+      "url": "https://www.vatican.va/content/paul-vi/hr/apost_letters/documents/hf_p-vi_apl_19650206_investigabiles-divitias.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19650206_investigabiles-divitias.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Investigabiles divitias Christi, Epistula Apostolica, Die 6 m. Februarii a. 1965, Paulus PP.VI",
+        "hr": "Investigabiles divitias Christi",
+        "it": "Investigabiles divitias Christi"
+      }
+    }
+  ]
+}

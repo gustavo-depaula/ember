@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-have-just",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to the President of the United States of America, His Excellency Harry S. Truman",
+    "fr": "Lettre à S.E. M. Harry S. Truman, Président des États-Unis",
+    "it": "Chirografo all’Ecc.mo Harry S. Truman, Presidente degli Stati Uniti d’America"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XII · 1947-08-26",
+    "pt-BR": "Carta · Papa Pio XII · 1947-08-26"
+  },
+  "composed": "1947",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/letters/documents/hf_p-xii_lett_19470826_have-just.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xii/fr/letters/documents/hf_p-xii_lett_19470826_have-just.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/letters/documents/hf_p-xii_lett_19470826_have-just.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to the President of the United States of America, His Excellency Harry S. Truman",
+        "fr": "Lettre à S.E. M. Harry S. Truman, Président des États-Unis",
+        "it": "Chirografo all’Ecc.mo Harry S. Truman, Presidente degli Stati Uniti d’America"
+      }
+    }
+  ]
+}

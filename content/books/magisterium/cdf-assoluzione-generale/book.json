@@ -1,0 +1,80 @@
+{
+  "id": "cdf-assoluzione-generale",
+  "cover": "quarter",
+  "name": {
+    "en-US": "A question about general absolution - Responsum ad quaesitum circa absolutionem sacramentalem generali modo impertiendam",
+    "de": "Antwort auf eine Frage zur sakramentalen Generalabsolution, 20. Januar 1978",
+    "es": "Respuesta a la duda sobre la absolución general sacramental, 20 enero 1978",
+    "fr": "Réponse sur l'absolution collective, 20 janvier 1978",
+    "it": "Risposta al quesito circa l’assoluzione sacramentale da impartirsi in modo generale, 20 gennaio 1978",
+    "pl": "ODPOWIEDŹ NA PYTANIE DOTYCZĄCE UDZIELANIA ROZGRZESZENIA OGÓLNEGO"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1978-01-20",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1978-01-20"
+  },
+  "composed": "1978",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780120_assoluzione-generale_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780120_assoluzione-generale_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780120_assoluzione-generale_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780120_assoluzione-generale_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780120_assoluzione-generale_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19780120_assoluzione-generale_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "A question about general absolution - Responsum ad quaesitum circa absolutionem sacramentalem generali modo impertiendam",
+        "de": "Antwort auf eine Frage zur sakramentalen Generalabsolution, 20. Januar 1978",
+        "es": "Respuesta a la duda sobre la absolución general sacramental, 20 enero 1978",
+        "fr": "Réponse sur l'absolution collective, 20 janvier 1978",
+        "it": "Risposta al quesito circa l’assoluzione sacramentale da impartirsi in modo generale, 20 gennaio 1978",
+        "pl": "ODPOWIEDŹ NA PYTANIE DOTYCZĄCE UDZIELANIA ROZGRZESZENIA OGÓLNEGO"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "clement-xiii-quo-die",
+  "cover": "quarter",
+  "name": {
+    "en-US": "A Quo Die",
+    "it": "Enciclica A quo die"
+  },
+  "author": {
+    "en-US": "Pope Clement XIII",
+    "pt-BR": "Papa Clemente XIII",
+    "la": "Clemens PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Clement XIII · 1758-09-14",
+    "pt-BR": "Encíclica · Papa Clemente XIII · 1758-09-14"
+  },
+  "composed": "1758",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "clement-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/clem13/c13aquod.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/enciclica-a-quo-die-14-settembre-1758.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "A Quo Die",
+        "it": "Enciclica A quo die"
+      }
+    }
+  ]
+}

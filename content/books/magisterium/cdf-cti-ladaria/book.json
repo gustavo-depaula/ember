@@ -1,0 +1,88 @@
+{
+  "id": "cdf-cti-ladaria",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Christianity and the World Religions, Presentation of the Document of the International Theological Commission - H.E. Mons. Luis F. Ladaria",
+    "de": "Das Christentum und die Religionen: Vorstellung des Dokuments der Internationalen Theologischen Kommission - Mons. Luis F. Ladaria",
+    "fr": "Le christianisme et les religions. Présentation du document de la Commission Théologique Internationale - Mgr. Luis F. Ladaria",
+    "hu": "A kereszténység és a vallások, A Nemzetközi Teológiai Bizottság dokumentumának bemutatása",
+    "it": "Il Cristianesimo e le religioni. Presentazione di S.E. Mons. Luis F. Ladaria, 8 marzo 2012",
+    "pl": "CHRZEŚCIJAŃSTWO I RELIGIE - Prezentacja dokumentu Międzynarodowej Komisji Teologicznej. J.E. Ks. Arcybiskup Luis F. Ladaria, S.I.",
+    "ro": "Creștinismul și religiile - Prezentarea documentului Comisiei Teologice Internaționale"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2012-03-08",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2012-03-08"
+  },
+  "composed": "2012",
+  "languages": [
+    "en-US",
+    "de",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ro"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120308_ladaria_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120308_ladaria_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120308_ladaria_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120308_ladaria_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120308_ladaria_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120308_ladaria_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ro",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_20120308_ladaria_ro.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Christianity and the World Religions, Presentation of the Document of the International Theological Commission - H.E. Mons. Luis F. Ladaria",
+        "de": "Das Christentum und die Religionen: Vorstellung des Dokuments der Internationalen Theologischen Kommission - Mons. Luis F. Ladaria",
+        "fr": "Le christianisme et les religions. Présentation du document de la Commission Théologique Internationale - Mgr. Luis F. Ladaria",
+        "hu": "A kereszténység és a vallások, A Nemzetközi Teológiai Bizottság dokumentumának bemutatása",
+        "it": "Il Cristianesimo e le religioni. Presentazione di S.E. Mons. Luis F. Ladaria, 8 marzo 2012",
+        "pl": "CHRZEŚCIJAŃSTWO I RELIGIE - Prezentacja dokumentu Międzynarodowej Komisji Teologicznej. J.E. Ks. Arcybiskup Luis F. Ladaria, S.I.",
+        "ro": "Creștinismul și religiile - Prezentarea documentului Comisiei Teologice Internaționale"
+      }
+    }
+  ]
+}

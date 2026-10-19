@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-familia-dom-e-compromisso-esperanca-da-humanidade",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "A família: dom e compromisso, esperança da humanidade"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1997-10-05",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1997-10-05"
+  },
+  "composed": "1997",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/documento-a-familia-dom-e-compromisso-esperanca-da-humanidade-05-10-1997/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "A família: dom e compromisso, esperança da humanidade"
+      }
+    }
+  ]
+}

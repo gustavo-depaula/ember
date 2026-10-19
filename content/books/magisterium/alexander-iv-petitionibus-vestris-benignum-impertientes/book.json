@@ -1,0 +1,48 @@
+{
+  "id": "alexander-iv-petitionibus-vestris-benignum-impertientes",
+  "cover": "quarter",
+  "name": {
+    "la": "Petitionibus Vestris Benignum Impertientes",
+    "en-US": "Petitionibus Vestris Benignum Impertientes"
+  },
+  "author": {
+    "en-US": "Pope Alexander IV",
+    "pt-BR": "Papa Alexandre IV",
+    "la": "Alexander PP. IV"
+  },
+  "description": {
+    "en-US": "Document · Pope Alexander IV · 1255-07-15",
+    "pt-BR": "Documento · Papa Alexandre IV · 1255-07-15"
+  },
+  "composed": "1255",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "alexander-iv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1255-07-15,_SS_Alexander_IV,_Petitionibus_Vestris_Benignum_Impertientes,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/alex04/alex4petit.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Petitionibus Vestris Benignum Impertientes",
+        "en-US": "Petitionibus Vestris Benignum Impertientes"
+      }
+    }
+  ]
+}

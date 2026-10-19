@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-familia-a-deo-instituta",
+  "cover": "quarter",
+  "name": {
+    "la": "Familia a Deo Instituta - Ioannes Paulus PP. II - Motu Proprio, die IX mensis Maii, anno MCMLXXXI",
+    "pt-BR": "Familia a Deo Instituta",
+    "es": "Familia a Deo instituta, creación del Pontificio Consejo para la Familia",
+    "it": "Familia a Deo Instituta"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1981-05-09",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1981-05-09"
+  },
+  "composed": "1981",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_09051981_familia-a-deo-instituta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_09051981_familia-a-deo-instituta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_09051981_familia-a-deo-instituta.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_09051981_familia-a-deo-instituta.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Familia a Deo Instituta - Ioannes Paulus PP. II - Motu Proprio, die IX mensis Maii, anno MCMLXXXI",
+        "pt-BR": "Familia a Deo Instituta",
+        "es": "Familia a Deo instituta, creación del Pontificio Consejo para la Familia",
+        "it": "Familia a Deo Instituta"
+      }
+    }
+  ]
+}

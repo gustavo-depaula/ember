@@ -1,0 +1,48 @@
+{
+  "id": "cdf-pcb-esami-dottorato",
+  "cover": "quarter",
+  "name": {
+    "la": "De experimentis ad lauream - Pontificia Commissio Biblica",
+    "it": "Gli esami per il dottorato - Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 1939-07-16",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 1939-07-16"
+  },
+  "composed": "1939",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19390716_esami-dottorato_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19390716_esami-dottorato_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De experimentis ad lauream - Pontificia Commissio Biblica",
+        "it": "Gli esami per il dottorato - Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

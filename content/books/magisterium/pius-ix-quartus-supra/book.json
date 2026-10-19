@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-quartus-supra",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula Encyclica Quartus supra",
+    "en-US": "Quartus Supra",
+    "it": "Enciclica Quartus supra"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius IX · 1873-01-06",
+    "pt-BR": "Encíclica · Papa Pio IX · 1873-01-06"
+  },
+  "composed": "1873",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/enciclica-quartus-supra-6-gennaio-1873.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius09/p9quartu.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/enciclica-quartus-supra-6-gennaio-1873.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula Encyclica Quartus supra",
+        "en-US": "Quartus Supra",
+        "it": "Enciclica Quartus supra"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pius-x-une-fois-encore",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Une Fois Encore",
+    "fr": "Une Fois Encore"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius X · 1907-01-06",
+    "pt-BR": "Encíclica · Papa Pio X · 1907-01-06"
+  },
+  "composed": "1907",
+  "languages": [
+    "en-US",
+    "fr"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_06011907_une-fois-encore.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-x/fr/encyclicals/documents/hf_p-x_enc_06011907_une-fois-encore.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Une Fois Encore",
+        "fr": "Une Fois Encore"
+      }
+    }
+  ]
+}

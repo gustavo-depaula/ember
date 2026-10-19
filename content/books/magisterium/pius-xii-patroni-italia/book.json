@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-patroni-italia",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Pontificio con il quale San Francesco d'Assisi e Santa Caterina da Siena vengono proclamati Patroni Primari d'Italia"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius XII · 1939-06-18",
+    "pt-BR": "Breve · Papa Pio XII · 1939-06-18"
+  },
+  "composed": "1939",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/briefs/documents/hf_p-xii_brief_19390618_patroni-italia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Pontificio con il quale San Francesco d'Assisi e Santa Caterina da Siena vengono proclamati Patroni Primari d'Italia"
+      }
+    }
+  ]
+}

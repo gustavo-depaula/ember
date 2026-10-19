@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-dignita-diritti",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Propositions on the Dignity and Rights of the Human Person",
+    "pt-BR": "Teses sobre a dignidade e os direitos da pessoa humana, 1983",
+    "cs": "Propositions on the Dignity and Rights of the Human Person",
+    "de": "Würde und Rechte der menschlichen Person, 1983",
+    "es": "Dignidad y derechos de la persona humana 1983",
+    "fr": "Dignité et droits de la personne humaine, 1983",
+    "hu": "NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG, AZ EMBERI SZEMÉLY MÉLTÓSÁGA ÉS JOGAI",
+    "it": "Dignità e diritti della persona umana, 1983",
+    "ko": "Propositions on the Dignity and Rights of the Human Person, 1983",
+    "pl": "GODNOŚĆ I PRAWA OSOBY LUDZKIEJ",
+    "ru": "ПРАВА И ДОСТОИНСТВА ЧЕЛОВЕЧЕСКОЙ ЛИЧНОСТИ"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1983",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1983"
+  },
+  "composed": "1983",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "ko",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_cs.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_ko.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1983_dignita-diritti_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Propositions on the Dignity and Rights of the Human Person",
+        "pt-BR": "Teses sobre a dignidade e os direitos da pessoa humana, 1983",
+        "cs": "Propositions on the Dignity and Rights of the Human Person",
+        "de": "Würde und Rechte der menschlichen Person, 1983",
+        "es": "Dignidad y derechos de la persona humana 1983",
+        "fr": "Dignité et droits de la personne humaine, 1983",
+        "hu": "NEMZETKÖZI TEOLÓGIAI BIZOTTSÁG, AZ EMBERI SZEMÉLY MÉLTÓSÁGA ÉS JOGAI",
+        "it": "Dignità e diritti della persona umana, 1983",
+        "ko": "Propositions on the Dignity and Rights of the Human Person, 1983",
+        "pl": "GODNOŚĆ I PRAWA OSOBY LUDZKIEJ",
+        "ru": "ПРАВА И ДОСТОИНСТВА ЧЕЛОВЕЧЕСКОЙ ЛИЧНОСТИ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-auspicantibus-nobis",
+  "cover": "quarter",
+  "name": {
+    "la": "Auspicantibus nobis, Iubilaeum universale extra ordinem indicitur ad totim annum MCMXXIX",
+    "it": "Auspicantibus Nobis in occasione del Giubileo Straordinario del 1929"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Pius XI · 1929-01-06",
+    "pt-BR": "Constituição Apostólica · Papa Pio XI · 1929-01-06"
+  },
+  "composed": "1929",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/apost_constitutions/documents/hf_p-xi_apc_19290106_auspicantibus-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/apost_constitutions/documents/hf_p-xi_apc_19290106_auspicantibus-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Auspicantibus nobis, Iubilaeum universale extra ordinem indicitur ad totim annum MCMXXIX",
+        "it": "Auspicantibus Nobis in occasione del Giubileo Straordinario del 1929"
+      }
+    }
+  ]
+}

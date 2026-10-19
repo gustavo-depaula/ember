@@ -1,0 +1,48 @@
+{
+  "id": "pius-vi-charitas-quae",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Charitas",
+    "it": "Breve Charitas quae"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Pius VI · 1791-04-13",
+    "pt-BR": "Breve · Papa Pio VI · 1791-04-13"
+  },
+  "composed": "1791",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius06/p6charit.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/breve-charitas-quae-13-aprile-1791.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Charitas",
+        "it": "Breve Charitas quae"
+      }
+    }
+  ]
+}

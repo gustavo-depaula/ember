@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-guiding-principles-of-the-lay-apostolate",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Guiding Principles Of The Lay Apostolate"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1957-10-05",
+    "pt-BR": "Documento · Papa Pio XII · 1957-10-05"
+  },
+  "composed": "1957",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/p12layap.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Guiding Principles Of The Lay Apostolate"
+      }
+    }
+  ]
+}

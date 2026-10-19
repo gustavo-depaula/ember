@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-placere-nobis",
+  "cover": "quarter",
+  "name": {
+    "la": "Placere Nobis",
+    "it": "Placere nobis"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Leo XIII · 1880-01-18",
+    "pt-BR": "Motu Proprio · Papa Leão XIII · 1880-01-18"
+  },
+  "composed": "1880",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/motu_proprio/documents/hf_l-xiii_motu-proprio_18800118_placere-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/motu_proprio/documents/hf_l-xiii_motu-proprio_18800118_placere-nobis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Placere Nobis",
+        "it": "Placere nobis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "paul-vi-gaudete-in-domino",
+  "cover": "quarter",
+  "name": {
+    "la": "Gaudete in Domino",
+    "en-US": "Gaudete in Domino",
+    "de": "Gaudete in Domino",
+    "es": "Gaudete in Domino",
+    "it": "Gaudete in Domino"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1975-05-09",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1975-05-09"
+  },
+  "composed": "1975",
+  "languages": [
+    "la",
+    "en-US",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19750509_gaudete-in-domino.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19750509_gaudete-in-domino.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/paul-vi/de/apost_exhortations/documents/hf_p-vi_exh_19750509_gaudete-in-domino.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_exhortations/documents/hf_p-vi_exh_19750509_gaudete-in-domino.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19750509_gaudete-in-domino.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Gaudete in Domino",
+        "en-US": "Gaudete in Domino",
+        "de": "Gaudete in Domino",
+        "es": "Gaudete in Domino",
+        "it": "Gaudete in Domino"
+      }
+    }
+  ]
+}

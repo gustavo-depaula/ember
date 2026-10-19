@@ -1,0 +1,112 @@
+{
+  "id": "john-paul-ii-novo-millennio-ineunte",
+  "cover": "quarter",
+  "name": {
+    "la": "Novo Millennio Ineunte, Ioannes Paulus II, die VI mensis Ianuarii, anno bismillesimo primo - Epistula Apostolica",
+    "en-US": "Novo Millennio Ineunte",
+    "pt-BR": "Novo Millennio Ineunte",
+    "de": "Novo Millennio Ineunte",
+    "es": "Novo Millennio Ineunte",
+    "fr": "Novo Millennio Ineunte",
+    "hu": "Novo millennio ineunte, apostoli levele a 2000. esztendő Nagy Jubileuma végén 2001. január 6. - II. János Pál pápa",
+    "it": "Novo Millennio Ineunte",
+    "pl": "Novo Millennio Ineunte, Jan Pawel II, 06/01/2001 - List Apostolski",
+    "zh": "Novo Millennio Ineunte"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2001-01-06",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2001-01-06"
+  },
+  "composed": "2001",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "zh"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh",
+      "url": "https://www.vatican.va/content/john-paul-ii/zh/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Novo Millennio Ineunte, Ioannes Paulus II, die VI mensis Ianuarii, anno bismillesimo primo - Epistula Apostolica",
+        "en-US": "Novo Millennio Ineunte",
+        "pt-BR": "Novo Millennio Ineunte",
+        "de": "Novo Millennio Ineunte",
+        "es": "Novo Millennio Ineunte",
+        "fr": "Novo Millennio Ineunte",
+        "hu": "Novo millennio ineunte, apostoli levele a 2000. esztendő Nagy Jubileuma végén 2001. január 6. - II. János Pál pápa",
+        "it": "Novo Millennio Ineunte",
+        "pl": "Novo Millennio Ineunte, Jan Pawel II, 06/01/2001 - List Apostolski",
+        "zh": "Novo Millennio Ineunte"
+      }
+    }
+  ]
+}

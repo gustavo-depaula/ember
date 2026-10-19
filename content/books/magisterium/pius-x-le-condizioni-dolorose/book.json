@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-le-condizioni-dolorose",
+  "cover": "quarter",
+  "name": {
+    "it": "Le condizioni dolorose"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1906-11-10",
+    "pt-BR": "Carta · Papa Pio X · 1906-11-10"
+  },
+  "composed": "1906",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19061110_le-condizioni-dolorose.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Le condizioni dolorose"
+      }
+    }
+  ]
+}

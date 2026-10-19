@@ -1,0 +1,40 @@
+{
+  "id": "john-paul-ii-sacerdoti-lourdes",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera al Cardinale Opilio Rossi, Presidente del XXVIII pellegrinaggio dei sacerdoti ammalati a Lourdes"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1979-07-28",
+    "pt-BR": "Carta · Papa João Paulo II · 1979-07-28"
+  },
+  "composed": "1979",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1979/documents/hf_jp-ii_let_19790728_sacerdoti-lourdes.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera al Cardinale Opilio Rossi, Presidente del XXVIII pellegrinaggio dei sacerdoti ammalati a Lourdes"
+      }
+    }
+  ]
+}

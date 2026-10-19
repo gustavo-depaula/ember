@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-millennio-hungarico",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula apostolica ad catholicum Hungariae populum «Millennio Hungarico» exeunte, die XXV mensis Iulii, anno MMI",
+    "en-US": "Apostolic Letter to the Catholic People of Hungary for the conclusion of the \"Hungarian Millennium\"",
+    "pt-BR": "Carta Apostólica por ocasião do 1000° aniversário do Batismo do Povo Húngaro",
+    "de": "An die katholische Bevölkerung Ungarns zur Feier des \"Ungarischen Jahrtausends\"",
+    "es": "Carta apostólica al concluir el Milenario del Bautismo del pueblo húngaro",
+    "fr": "Lettre apostolique adressée au peuple catholique de Hongrie au terme du \"Millénaire Hongrois\"",
+    "it": "Epistola apostolica diretta al popolo cattolico di Ungheria a compimento del \"Millennio Ungarico\""
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2001-07-25",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2001-07-25"
+  },
+  "composed": "2001",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/2001/documents/hf_jp-ii_apl_20010725_millennio-hungarico.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010725_millennio-hungarico.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/2001/documents/hf_jp-ii_apl_20010725_millennio-hungarico.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/2001/documents/hf_jp-ii_apl_20010725_millennio-hungarico.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/2001/documents/hf_jp-ii_apl_20010725_millennio-hungarico.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/2001/documents/hf_jp-ii_apl_20010725_millennio-hungarico.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2001/documents/hf_jp-ii_apl_20010725_millennio-hungarico.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula apostolica ad catholicum Hungariae populum «Millennio Hungarico» exeunte, die XXV mensis Iulii, anno MMI",
+        "en-US": "Apostolic Letter to the Catholic People of Hungary for the conclusion of the \"Hungarian Millennium\"",
+        "pt-BR": "Carta Apostólica por ocasião do 1000° aniversário do Batismo do Povo Húngaro",
+        "de": "An die katholische Bevölkerung Ungarns zur Feier des \"Ungarischen Jahrtausends\"",
+        "es": "Carta apostólica al concluir el Milenario del Bautismo del pueblo húngaro",
+        "fr": "Lettre apostolique adressée au peuple catholique de Hongrie au terme du \"Millénaire Hongrois\"",
+        "it": "Epistola apostolica diretta al popolo cattolico di Ungheria a compimento del \"Millennio Ungarico\""
+      }
+    }
+  ]
+}

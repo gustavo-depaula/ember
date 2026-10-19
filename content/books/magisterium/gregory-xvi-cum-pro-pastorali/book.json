@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-cum-pro-pastorali",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Cum pro pastorali"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Gregory XVI · 1834-08-01",
+    "pt-BR": "Alocução · Papa Gregório XVI · 1834-08-01"
+  },
+  "composed": "1834",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/allocuzione-cum-pro-pastorali-1-agosto-1834.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Cum pro pastorali"
+      }
+    }
+  ]
+}

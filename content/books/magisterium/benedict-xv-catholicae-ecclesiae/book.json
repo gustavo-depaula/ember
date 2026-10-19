@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-catholicae-ecclesiae",
+  "cover": "quarter",
+  "name": {
+    "it": "Cum Catholicae Ecclesiae con il quale si intende agevolare l’unione dei Cristiani d’Oriente alla Chiesa di Roma"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XV · 1916-04-15",
+    "pt-BR": "Breve · Papa Bento XV · 1916-04-15"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/briefs/documents/hf_ben-xv_briefs_19160415_catholicae-ecclesiae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Cum Catholicae Ecclesiae con il quale si intende agevolare l’unione dei Cristiani d’Oriente alla Chiesa di Roma"
+      }
+    }
+  ]
+}

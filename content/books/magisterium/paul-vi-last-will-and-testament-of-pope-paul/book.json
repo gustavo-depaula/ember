@@ -1,0 +1,40 @@
+{
+  "id": "paul-vi-last-will-and-testament-of-pope-paul",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Last Will and Testament of Pope Paul VI"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul VI · 1965-12-07",
+    "pt-BR": "Documento · Papa Paulo VI · 1965-12-07"
+  },
+  "composed": "1965",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/p6will.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Last Will and Testament of Pope Paul VI"
+      }
+    }
+  ]
+}

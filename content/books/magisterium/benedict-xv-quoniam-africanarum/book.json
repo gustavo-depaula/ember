@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-quoniam-africanarum",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Quoniam Africanarum all’Arcivescovo di Bordeaux sulla raccolta di pubbliche offerte durante il giorno dell'Epifania, per la redenzione dei neri"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1916-02-02",
+    "pt-BR": "Carta · Papa Bento XV · 1916-02-02"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1916/documents/hf_ben-xv_let_19160202_quoniam-africanarum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Quoniam Africanarum all’Arcivescovo di Bordeaux sulla raccolta di pubbliche offerte durante il giorno dell'Epifania, per la redenzione dei neri"
+      }
+    }
+  ]
+}

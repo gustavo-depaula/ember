@@ -1,0 +1,40 @@
+{
+  "id": "pius-v-consueverunt-romani",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Consueverunt Romani"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius V · 1569-09-17",
+    "pt-BR": "Documento · Papa Pio V · 1569-09-17"
+  },
+  "composed": "1569",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius05/p5consue.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Consueverunt Romani"
+      }
+    }
+  ]
+}

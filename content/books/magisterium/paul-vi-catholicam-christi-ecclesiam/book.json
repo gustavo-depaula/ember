@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-catholicam-christi-ecclesiam",
+  "cover": "quarter",
+  "name": {
+    "la": "Catholicam Christi Ecclesiam - Consilium de Laicis et Pontificia Commissio Studiosorum a «Iustitia et Pace» appellata constituuntur, Litterae Apostolicae Motu Proprio datae, Die 6 m. Ianuarii a. 1967, Paulus PP.VI",
+    "it": "Catholicam Christi Ecclesiam - Lettera Apostolica in forma di Motu Proprio con la quale vengono istituiti il «Consiglio dei Laici» e la Pontificia Commissione di studio «Giustizia e Pace»"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1967-01-06",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1967-01-06"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19670106_catholicam-christi-ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19670106_catholicam-christi-ecclesiam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Catholicam Christi Ecclesiam - Consilium de Laicis et Pontificia Commissio Studiosorum a «Iustitia et Pace» appellata constituuntur, Litterae Apostolicae Motu Proprio datae, Die 6 m. Ianuarii a. 1967, Paulus PP.VI",
+        "it": "Catholicam Christi Ecclesiam - Lettera Apostolica in forma di Motu Proprio con la quale vengono istituiti il «Consiglio dei Laici» e la Pontificia Commissione di studio «Giustizia e Pace»"
+      }
+    }
+  ]
+}

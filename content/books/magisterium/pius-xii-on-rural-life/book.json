@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-on-rural-life",
+  "cover": "quarter",
+  "name": {
+    "en-US": "On Rural Life"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius XII · 1946-11-15",
+    "pt-BR": "Documento · Papa Pio XII · 1946-11-15"
+  },
+  "composed": "1946",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius12/poprural.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "On Rural Life"
+      }
+    }
+  ]
+}

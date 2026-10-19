@@ -1,0 +1,64 @@
+{
+  "id": "paul-vi-ministeria-quaedam",
+  "cover": "quarter",
+  "name": {
+    "la": "Ministeria quaedam - Disciplina circa Primam Tonsuram, Ordines Minores et Subdiaconatus in Ecclesia Latina innovatur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Augusti a. 1972, Paulus PP.VI",
+    "pt-BR": "Ministeria quaedam - Lettera Apostolica in forma di Motu Proprio con la quale viene rinnovata la disciplina riguardante la prima tonsura, gli ordini minori e il suddiaconato nella Chiesa latina (15 agosto 1972)",
+    "es": "Ministeria quaedam",
+    "it": "Ministeria quaedam - Lettera Apostolica in forma di Motu Proprio con la quale viene rinnovata la disciplina riguardante la prima tonsura, gli ordini minori e il suddiaconato nella Chiesa latina"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1972-08-15",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1972-08-15"
+  },
+  "composed": "1972",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ministeria-quaedam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1972-08-15,_SS_Paulus_VI,_Motu_Proprio_'Ministeria_Quaedam',_PT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ministeria-quaedam.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19720815_ministeria-quaedam.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ministeria quaedam - Disciplina circa Primam Tonsuram, Ordines Minores et Subdiaconatus in Ecclesia Latina innovatur, Litterae Apostolicae Motu Proprio datae, Die 15 m. Augusti a. 1972, Paulus PP.VI",
+        "pt-BR": "Ministeria quaedam - Lettera Apostolica in forma di Motu Proprio con la quale viene rinnovata la disciplina riguardante la prima tonsura, gli ordini minori e il suddiaconato nella Chiesa latina (15 agosto 1972)",
+        "es": "Ministeria quaedam",
+        "it": "Ministeria quaedam - Lettera Apostolica in forma di Motu Proprio con la quale viene rinnovata la disciplina riguardante la prima tonsura, gli ordini minori e il suddiaconato nella Chiesa latina"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-ex-litteris",
+  "cover": "quarter",
+  "name": {
+    "it": "Espistola Ex litteris"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XVI · 1841-05-04",
+    "pt-BR": "Documento · Papa Gregório XVI · 1841-05-04"
+  },
+  "composed": "1841",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/espistola-ex-litteris-4-maggio-1841.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Espistola Ex litteris"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "cdf-per-intinctionem",
+  "cover": "quarter",
+  "name": {
+    "la": "Responsa ad proposita dubia de celebrantis communione «per intinctionem» et fidelium communione sub sola specie vini, d. 29 m. Octobris a. 1982, Congregatio pro Doctrina Fidei",
+    "en-US": "Responses regarding the Eucharistic communication of the celebrant “by intinction” and of the faithful only under the species of wine, 29 October 1982",
+    "pt-BR": "Respostas às dúvidas sobre temas eucarísticos, 29 de outubro de 1982",
+    "de": "Antworten auf die vorgelegten Zweifel, 29. Oktober 1982",
+    "es": "Respuesta a las dudas propuestas, Per intinctionem -29 octubre 1980",
+    "fr": "Réponses aux doutes soulevés au sujet de la communion par intinction - 29 octobre 1982",
+    "it": "Risposte ai dubbi proposti, 29 ottobre 1982",
+    "pl": "ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI, 24 września 1983 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1982-10-29",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1982-10-29"
+  },
+  "composed": "1982",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19821029_per-intinctionem_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Responsa ad proposita dubia de celebrantis communione «per intinctionem» et fidelium communione sub sola specie vini, d. 29 m. Octobris a. 1982, Congregatio pro Doctrina Fidei",
+        "en-US": "Responses regarding the Eucharistic communication of the celebrant “by intinction” and of the faithful only under the species of wine, 29 October 1982",
+        "pt-BR": "Respostas às dúvidas sobre temas eucarísticos, 29 de outubro de 1982",
+        "de": "Antworten auf die vorgelegten Zweifel, 29. Oktober 1982",
+        "es": "Respuesta a las dudas propuestas, Per intinctionem -29 octubre 1980",
+        "fr": "Réponses aux doutes soulevés au sujet de la communion par intinction - 29 octobre 1982",
+        "it": "Risposte ai dubbi proposti, 29 ottobre 1982",
+        "pl": "ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI, 24 września 1983 r."
+      }
+    }
+  ]
+}

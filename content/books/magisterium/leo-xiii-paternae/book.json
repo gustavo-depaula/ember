@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-paternae",
+  "cover": "quarter",
+  "name": {
+    "la": "Paternae providequae",
+    "en-US": "Paternae",
+    "it": "Paternae (September\n 18, 1899)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1899-09-18",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1899-09-18"
+  },
+  "composed": "1899",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_18091899_paternae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18091899_paternae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1899-09-18,_SS_Leo_XIII,_Encyclica_'Paternae_Providaeque',_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Paternae providequae",
+        "en-US": "Paternae",
+        "it": "Paternae (September\n 18, 1899)"
+      }
+    }
+  ]
+}

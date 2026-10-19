@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-dum-tanta-populorum",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Dum tanta populorum, al Reverendo Padre Innocenzo Lòpez, in occasione del settimo centenario della fondazione dell’Ordine di Santa Maria della Mercede"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1918-06-04",
+    "pt-BR": "Carta · Papa Bento XV · 1918-06-04"
+  },
+  "composed": "1918",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1918/documents/hf_ben-xv_let_19180604_dum-tanta-populorum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Dum tanta populorum, al Reverendo Padre Innocenzo Lòpez, in occasione del settimo centenario della fondazione dell’Ordine di Santa Maria della Mercede"
+      }
+    }
+  ]
+}

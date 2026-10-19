@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-co-patronesses-europe",
+  "cover": "quarter",
+  "name": {
+    "la": "Socialium Scientiarum - Litterae apostolicae motu proprio datae",
+    "en-US": "Spes Aedificandi - Proclamation of the Co-Patronesses of Europe",
+    "pt-BR": "Spes Aedificandi",
+    "de": "Spes Aedificandi - Proklamation der Mitpatroninnen Europas",
+    "es": "Spes Aedificandi: Proclamación de las Copatronas de Europa",
+    "fr": "Spes Aedificandi - Proclamation des Co-Patronnes de l'Europe",
+    "it": "Spes Aedificandi - Proclamazione delle Compatrone d'Europa"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1999-10-01",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1999-10-01"
+  },
+  "composed": "1999",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_01101999_co-patronesses-europe.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Socialium Scientiarum - Litterae apostolicae motu proprio datae",
+        "en-US": "Spes Aedificandi - Proclamation of the Co-Patronesses of Europe",
+        "pt-BR": "Spes Aedificandi",
+        "de": "Spes Aedificandi - Proklamation der Mitpatroninnen Europas",
+        "es": "Spes Aedificandi: Proclamación de las Copatronas de Europa",
+        "fr": "Spes Aedificandi - Proclamation des Co-Patronnes de l'Europe",
+        "it": "Spes Aedificandi - Proclamazione delle Compatrone d'Europa"
+      }
+    }
+  ]
+}

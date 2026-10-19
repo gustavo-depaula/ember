@@ -1,0 +1,33 @@
+# Motu Proprio «L'antica e venerabile Basilica» per la Basilica di San Paolo fuori le Mura e per il suo Complesso extraterritoriale
+
+MOTU PROPRIO ***«L'ANTICA E VENERABILE BASILICA»***  
+DEL SOMMO PONTEFICE  
+**BENEDETTO XVI**  
+PER LA BASILICA DI SAN PAOLO FUORI LE MURA  
+E PER IL SUO COMPLESSO EXTRATERRITORIALE
+
+1\. L’antica e venerabile [Basilica di San Paolo fuori le Mura](http://www.vatican.va/various/basiliche/san_paolo/index_it.html), che sorge nel luogo in cui si venera la memoria dell’Apostolo delle Genti, ha sempre avuto una peculiare importanza nella storia della cristianità, insieme con le altre tre Basiliche Maggiori di Roma, meta di numerosi pellegrinaggi, particolarmente in occasione degli Anni Santi. Accanto alla Basilica di San Paolo esiste poi da tredici secoli la prestigiosa omonima Abbazia dei Monaci Benedettini, per i quali la medesima Basilica riveste anche la funzione di Chiesa Abbaziale.
+
+2\. Con il Trattato Lateranense del 1929 e con i successivi Accordi intercorsi fra la Santa Sede e l’Italia, è stato riconosciuto che le aree e gli edifici costituenti il complesso di San Paolo fuori le Mura appartengono alla Santa Sede e godono di uno specifico *status* giuridico, secondo le norme del Diritto internazionale. Sull’intero complesso extraterritoriale di San Paolo fuori le Mura il Sommo Pontefice esercita i poteri civili secondo le norme vigenti (cfr *[Legge Fondamentale dello Stato della Città del Vaticano](http://www.vatican.va/vatican_city_state/legislation/documents/scv_doc_20001126_legge-fondamentale-scv_it.html)*, del 26 Novembre 2000, in *AAS* Suppl. 71 \[2000\] pp. 75-83).
+
+3\. Tenendo presente che nel passato la Santa Sede ha definito solamente alcuni aspetti delle competenze sia dell’Amministrazione Pontificia della Basilica, sia dell’Abbazia Benedettina, ritengo ora opportuno emanare alcune norme generali allo scopo di chiarire o definire i principali aspetti della gestione pastorale ed amministrativa del complesso di San Paolo fuori le Mura. Ciò consentirà di compilare poi uno Statuto che fissi le competenze dei soggetti interessati e ne regoli i rapporti.
+
+4\. Alla [Basilica di San Paolo fuori le Mura](http://www.vatican.va/various/basiliche/san_paolo/index_it.html), che confermo quale ente canonico con personalità giuridica pubblica, stabilisco che sia preposto, al pari delle altre tre Basiliche Maggiori, un Arciprete nominato dal Romano Pontefice. In detta Basilica, l’Arciprete eserciterà la giurisdizione ordinaria ed immediata. Egli avrà un suo Vicario per la Pastorale nella persona dell’Abate dell’Abbazia Benedettina di San Paolo, nonché un suo Delegato per l’Amministrazione. L’Arciprete di San Paolo, inoltre, dovrà sovrintendere a tutto il complesso extraterritoriale, coordinando le varie amministrazioni ivi operanti, secondo le finalità proprie, salvo quanto rientra nelle competenze esclusive dell’Abate all’interno dell’Abbazia.
+
+5\. L’Abate del Monastero di San Paolo fuori le Mura, dopo essere stato canonicamente eletto, deve ricevere la conferma del Romano Pontefice. Egli gode di tutti i diritti e le prerogative quale Superiore della Comunità benedettina. Al fine di consentire all’Abate di attendere sempre più ai suoi doveri all’interno della Comunità monastica (cfr PAOLO VI, M. p. *[Catholica Ecclesia](/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19761023_catholica-ecclesia.html)*, del 23 ottobre 1976, in *AAS* 68 \[1976\] pp. 694-696), è stato disposto dal mio Venerato Predecessore Giovanni Paolo II che l’area extraterritoriale contigua all’Abbazia sia sottratta alla giurisdizione dell’Abate di San Paolo, il quale conserverà la sua giurisdizione ordinaria *intra septa monasterii* e la sua funzione liturgica all’interno della Basilica, come è definito nel presente documento e sarà specificato nel successivo Statuto.
+
+6\. L’Abbazia, a partire dal 7 marzo 2005, ha assunto la denominazione di “Abbazia di San Paolo fuori le Mura”, essendo stato recentemente soppresso il carattere ed il titolo di circoscrizione “territoriale”. Fatte salve perciò le competenze dell’Arciprete di San Paolo e quelle proprie dell’Abate, la potestà di giurisdizione pastorale ordinaria sull’intera area extraterritoriale di San Paolo fuori le Mura spetta al Cardinale Vicario di Roma, il quale la esercita mediante la parrocchia territorialmente competente della Diocesi.
+
+7\. Pertanto la “Pontificia Amministrazione della Patriarcale Basilica di San Paolo”, costituita dal Papa Pio XI di v.m. con Chirografo del 30 aprile 1933 ed aggiornata dal Beato Giovanni XXIII con Chirografo del 20 dicembre 1962, è soppressa e tutte le sue funzioni sono trasferite all’Arciprete, il quale le eserciterà secondo quanto stabilito nello Statuto che sarà approvato dai competenti Uffici della Santa Sede.
+
+8\. Poiché mi sta particolarmente a cuore che nella [Basilica di San Paolo fuori le Mura](http://www.vatican.va/various/basiliche/san_paolo/index_it.html) sia assicurato il ministero della Penitenza in favore di tutti i fedeli che la frequentano, sia di quelli appartenenti alla Diocesi dell’Urbe, sia dei numerosi pellegrini provenienti dalle varie parti del mondo, confermo volentieri quanto stabilito dal mio Predecessore il Papa Pio XI (cfr Costituzione Apostolica *Quod divina favente*, del 3 maggio 1933, in *AAS* 25 \[1933\] pp. 229 - 232), e cioè che l’amministrazione del sacramento della Penitenza continui ad essere affidato alla attenta cura di Penitenzieri, scelti fra i Monaci Benedettini e costituiti secondo quanto disporrà il prossimo Statuto.
+
+9\. In tempi recenti, la Santa Sede ha dimostrato particolare interesse nel promuovere nella Basilica, o nell’ambito dell’Abbazia, lo svolgimento di speciali eventi di carattere ecumenico. Sarà quindi compito dei Monaci, sotto la supervisione dell’Arciprete, organizzare, coordinare e sviluppare tali programmi, con l’aiuto anche di confratelli Benedettini di altre Abbazie ed in accordo con il Pontificio Consiglio per la Promozione dell’Unità dei Cristiani.
+
+10\. L’Apostolo delle Genti illumini e protegga quanti svolgono le loro mansioni nella [Basilica](http://www.vatican.va/various/basiliche/san_paolo/index_it.html) a lui dedicata e conceda aiuto e conforto a tutti i fedeli ed ai pellegrini che con sincera devozione si recano nel luogo sacro alla memoria del suo martirio, per ravvivare la loro fede ed invocare la sua protezione sul proprio cammino di santificazione e sull’impegno della Chiesa, per la diffusione del Vangelo nel mondo contemporaneo.
+
+Nonostante qualunque disposizione in contrario, anche se degna di speciale menzione.
+
+*Dato nella Città del Vaticano, il 31 maggio 2005, Festa della Visitazione della Beata Vergine Maria.*
+
+**BENEDETTO PP. XVI**

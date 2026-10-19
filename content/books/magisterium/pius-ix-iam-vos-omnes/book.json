@@ -1,0 +1,56 @@
+{
+  "id": "pius-ix-iam-vos-omnes",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Iam vos omnes",
+    "en-US": "Enciclica Iam vos omnes (13 settembre 1868)",
+    "it": "Enciclica Iam vos omnes"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius IX · 1868-09-13",
+    "pt-BR": "Carta Apostólica · Papa Pio IX · 1868-09-13"
+  },
+  "composed": "1868",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-iam-vos-omnes-13-septembris-1868.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1868-09-13,_SS_Pius_VIIII,_Iam_Vos_Omnes,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/litterae-apostolicae-iam-vos-omnes-13-septembris-1868.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Iam vos omnes",
+        "en-US": "Enciclica Iam vos omnes (13 settembre 1868)",
+        "it": "Enciclica Iam vos omnes"
+      }
+    }
+  ]
+}

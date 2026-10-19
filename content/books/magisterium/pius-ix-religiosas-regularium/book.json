@@ -1,0 +1,48 @@
+{
+  "id": "pius-ix-religiosas-regularium",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae Religiosas regularium",
+    "it": "Lettera Apostolica Religiosas regularium"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius IX · 1870-02-23",
+    "pt-BR": "Carta Apostólica · Papa Pio IX · 1870-02-23"
+  },
+  "composed": "1870",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-religiosas-regularium-23-februarii-1870.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/litterae-apostolicae-religiosas-regularium-23-februarii-1870.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae Religiosas regularium",
+        "it": "Lettera Apostolica Religiosas regularium"
+      }
+    }
+  ]
+}

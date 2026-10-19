@@ -1,0 +1,56 @@
+{
+  "id": "pius-v-catechismus-catholicae-ecclesiae-tridentinum",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Catechismus Catholicae Ecclesiae Tridentinum",
+    "fr": "Catechismus Catholicae Ecclesiae Tridentinum",
+    "it": "Catechismus Catholicae Ecclesiae Tridentinum"
+  },
+  "author": {
+    "en-US": "Pope Pius V",
+    "pt-BR": "Papa Pio V",
+    "la": "Pius PP. V"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius V · 1545",
+    "pt-BR": "Documento · Papa Pio V · 1545"
+  },
+  "composed": "1545",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-v"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1545-1545,_SS_Pius_V,_Catechismus_Catholicae_Ecclesiae_Tridentinum,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1545-1545,_SS_Pius_V,_Catechismus_Catholicae_Ecclesiae_Tridentinum,_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1545-1545,_SS_Pius_V,_Catechismus_Catholicae_Ecclesiae_Tridentinum_[1],_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Catechismus Catholicae Ecclesiae Tridentinum",
+        "fr": "Catechismus Catholicae Ecclesiae Tridentinum",
+        "it": "Catechismus Catholicae Ecclesiae Tridentinum"
+      }
+    }
+  ]
+}

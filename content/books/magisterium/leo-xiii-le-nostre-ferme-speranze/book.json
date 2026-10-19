@@ -1,0 +1,40 @@
+{
+  "id": "leo-xiii-le-nostre-ferme-speranze",
+  "cover": "quarter",
+  "name": {
+    "it": "Le nostre ferme speranze"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1901-02-28",
+    "pt-BR": "Carta · Papa Leão XIII · 1901-02-28"
+  },
+  "composed": "1901",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_19010228_le-nostre-ferme-speranze.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Le nostre ferme speranze"
+      }
+    }
+  ]
+}

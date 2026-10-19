@@ -1,0 +1,56 @@
+{
+  "id": "john-paul-ii-plurimum-significans",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula apostolica Plurimum Significans, XXIX mensis Iunii, anno Domini MCMXC",
+    "es": "Carta Apostólica Plurimum Significans, con ocasión del XIV centenario de la elevación de san Gregorio Magno al pontificado",
+    "it": "Lettera Apostolica Plurimum Significans per il XIV centenario dell'elevazione di San Gregorio Magno al Pontificato"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1990-06-29",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1990-06-29"
+  },
+  "composed": "1990",
+  "languages": [
+    "la",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1990/documents/hf_jp-ii_apl_19900629_plurimum-significans.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1990/documents/hf_jp-ii_apl_19900629_plurimum-significans.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1990/documents/hf_jp-ii_apl_19900629_plurimum-significans.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula apostolica Plurimum Significans, XXIX mensis Iunii, anno Domini MCMXC",
+        "es": "Carta Apostólica Plurimum Significans, con ocasión del XIV centenario de la elevación de san Gregorio Magno al pontificado",
+        "it": "Lettera Apostolica Plurimum Significans per il XIV centenario dell'elevazione di San Gregorio Magno al Pontificato"
+      }
+    }
+  ]
+}

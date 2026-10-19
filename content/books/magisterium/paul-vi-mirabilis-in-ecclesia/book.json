@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-mirabilis-in-ecclesia",
+  "cover": "quarter",
+  "name": {
+    "la": "Mirabilis in Ecclesia Deus, Littera Apostolica, Die 4 m. Octobris a. 1970, Paulus PP.VI",
+    "it": "Mirabilis in Ecclesia Deus, 4 ottobre 1970"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1970-10-04",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1970-10-04"
+  },
+  "composed": "1970",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19701004_mirabilis-in-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19701004_mirabilis-in-ecclesia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Mirabilis in Ecclesia Deus, Littera Apostolica, Die 4 m. Octobris a. 1970, Paulus PP.VI",
+        "it": "Mirabilis in Ecclesia Deus, 4 ottobre 1970"
+      }
+    }
+  ]
+}

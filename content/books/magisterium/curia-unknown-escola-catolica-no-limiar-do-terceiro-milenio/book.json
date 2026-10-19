@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-escola-catolica-no-limiar-do-terceiro-milenio",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "A escola católica no limiar do Terceiro Milênio"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 1997-12-28",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 1997-12-28"
+  },
+  "composed": "1997",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/a-escola-catolica-no-limiar-do-terceiro-milenio-28-12-1997/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "A escola católica no limiar do Terceiro Milênio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-ecclesia-in-urbe",
+  "cover": "quarter",
+  "name": {
+    "la": "Ecclesia in Urbe - Ioannes Paulus PP.II - Constitutio Apostolica, die I mensis Ianuarii, anno MCMXCVIII",
+    "it": "Ecclesia in Urbe"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope John Paul II · 1998-01-01",
+    "pt-BR": "Constituição Apostólica · Papa João Paulo II · 1998-01-01"
+  },
+  "composed": "1998",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_01011998_ecclesia-in-urbe.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_constitutions/documents/hf_jp-ii_apc_01011998_ecclesia-in-urbe.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ecclesia in Urbe - Ioannes Paulus PP.II - Constitutio Apostolica, die I mensis Ianuarii, anno MCMXCVIII",
+        "it": "Ecclesia in Urbe"
+      }
+    }
+  ]
+}

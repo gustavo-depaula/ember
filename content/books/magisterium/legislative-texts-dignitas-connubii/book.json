@@ -1,0 +1,96 @@
+{
+  "id": "legislative-texts-dignitas-connubii",
+  "cover": "quarter",
+  "name": {
+    "la": "Dignitatis connubii",
+    "en-US": "Instruction Dignitas Connubii",
+    "pt-BR": "A Dignidade do Matrimônio",
+    "de": "Instruktion Dignitas Connubii",
+    "es": "Instrucción Dignitas Connubii",
+    "fr": "Instruction Dignitas Connubii",
+    "it": "Istruzione Dignitas Connubii",
+    "zh-CN": "Instruction Dignitas connubii to be observed by diocesan and interdiocesan tribunals in handling causes of the nullity of marriage (January 25, 2005)"
+  },
+  "author": {
+    "en-US": "Dicastery for Legislative Texts",
+    "pt-BR": "Dicastério para os Textos Legislativos",
+    "la": "Dicasterium de Legum Textibus"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for Legislative Texts · 2005-01-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para os Textos Legislativos · 2005-01-25"
+  },
+  "composed": "2005",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "zh-CN"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "legislative-texts"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "zh-CN",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/intrptxt/documents/rc_pc_intrptxt_doc_20050125_dignitas-connubii_zh-cn.pdf",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Dignitatis connubii",
+        "en-US": "Instruction Dignitas Connubii",
+        "pt-BR": "A Dignidade do Matrimônio",
+        "de": "Instruktion Dignitas Connubii",
+        "es": "Instrucción Dignitas Connubii",
+        "fr": "Instruction Dignitas Connubii",
+        "it": "Istruzione Dignitas Connubii",
+        "zh-CN": "Instruction Dignitas connubii to be observed by diocesan and interdiocesan tribunals in handling causes of the nullity of marriage (January 25, 2005)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "curia-unknown-diretrizes-para-a-admissao-a-eucaristia-entre",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Diretrizes para a admissão à Eucaristia entre a Igreja Caldeia e a Igreja Assíria do Oriente"
+  },
+  "author": {
+    "en-US": "Roman Curia",
+    "pt-BR": "Cúria Romana",
+    "la": "Curia Romana"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Roman Curia · 2001-07-20",
+    "pt-BR": "Documento da Cúria Romana · Cúria Romana · 2001-07-20"
+  },
+  "composed": "2001",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "curia-unknown"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/diretrizes-para-a-admissao-a-eucaristia-entre-a-igreja-caldeia-e-a-igreja-assiria-do-oriente-20-07-2001/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Diretrizes para a admissão à Eucaristia entre a Igreja Caldeia e a Igreja Assíria do Oriente"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-admodum-delectarunt",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Admodum delectarunt ai Vescovi Greco-Rumeni che hanno vivamente gradito la fondazione della Congregazione per la Chiesa Orientale e dell’Istituto Superiore di studi orientali"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1918-02-25",
+    "pt-BR": "Carta · Papa Bento XV · 1918-02-25"
+  },
+  "composed": "1918",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1918/documents/hf_ben-xv_let_19180225_admodum-delectarunt.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Admodum delectarunt ai Vescovi Greco-Rumeni che hanno vivamente gradito la fondazione della Congregazione per la Chiesa Orientale e dell’Istituto Superiore di studi orientali"
+      }
+    }
+  ]
+}

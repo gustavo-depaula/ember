@@ -1,0 +1,72 @@
+{
+  "id": "cdf-pcb-interpretazione",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "A Interpretação da Bíblica na Igreja, 15 de abril de 1993",
+    "de": "Die Interpretation der Bibel in der Kirche",
+    "it": "L'interpretazione della Bibbia nella Chiesa",
+    "sw": "UFASIRI WA BIBLIA KATIKA KANISA",
+    "uk": "ВСТУП ДО ДОКУМЕНТА БІБЛІЙНОЇ КОМІСІЇ"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 1993-04-15",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 1993-04-15"
+  },
+  "composed": "1993",
+  "languages": [
+    "pt-BR",
+    "de",
+    "it",
+    "sw",
+    "uk"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19930415_interpretazione_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19930415_interpretazione_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19930415_interpretazione_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19930415_interpretazione_sw.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "uk",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19930415_interpretazione_uk.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "A Interpretação da Bíblica na Igreja, 15 de abril de 1993",
+        "de": "Die Interpretation der Bibel in der Kirche",
+        "it": "L'interpretazione della Bibbia nella Chiesa",
+        "sw": "UFASIRI WA BIBLIA KATIKA KANISA",
+        "uk": "ВСТУП ДО ДОКУМЕНТА БІБЛІЙНОЇ КОМІСІЇ"
+      }
+    }
+  ]
+}

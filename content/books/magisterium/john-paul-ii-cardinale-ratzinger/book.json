@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-cardinale-ratzinger",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "A fome no mundo: um desafio para todos",
+    "es": "Carta al Card. Joseph Ratzinger con ocasión de la Plenaria de la Comisión Teológica Internacional",
+    "fr": "Lettre au Cardinal Joseph Ratzinger à l'occasion de l'Assemblée plénière de la Commission théologique internationale",
+    "it": "Lettera al Cardinale Joseph Ratzinger in occasione della Plenaria della Commissione Teologica Internazionale",
+    "pl": "List Jana Pawła II do kardynała Josepha Ratzingera z okazji sesji plenarnej Międzynarodowej Komisji Teologicznej, 4 października 1996 r."
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1996-10-04",
+    "pt-BR": "Carta · Papa João Paulo II · 1996-10-04"
+  },
+  "composed": "1996",
+  "languages": [
+    "pt-BR",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/documento-a-fome-no-mundo-um-desafio-para-todos-04-10-1996/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1996/documents/hf_jp-ii_let_19961004_cardinale-ratzinger.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/1996/documents/hf_jp-ii_let_19961004_cardinale-ratzinger.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1996/documents/hf_jp-ii_let_19961004_cardinale-ratzinger.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/john-paul-ii/pl/letters/1996/documents/hf_jp-ii_let_19961004_cardinale-ratzinger.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "A fome no mundo: um desafio para todos",
+        "es": "Carta al Card. Joseph Ratzinger con ocasión de la Plenaria de la Comisión Teológica Internacional",
+        "fr": "Lettre au Cardinal Joseph Ratzinger à l'occasion de l'Assemblée plénière de la Commission théologique internationale",
+        "it": "Lettera al Cardinale Joseph Ratzinger in occasione della Plenaria della Commissione Teologica Internazionale",
+        "pl": "List Jana Pawła II do kardynała Josepha Ratzingera z okazji sesji plenarnej Międzynarodowej Komisji Teologicznej, 4 października 1996 r."
+      }
+    }
+  ]
+}

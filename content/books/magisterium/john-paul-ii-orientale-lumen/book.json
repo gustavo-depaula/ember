@@ -1,0 +1,88 @@
+{
+  "id": "john-paul-ii-orientale-lumen",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula apostolica «Orientale Lumen», die II mensis Maii, anno MCMXCV",
+    "en-US": "Orientale Lumen",
+    "pt-BR": "Orientale Lumen",
+    "de": "Orientale Lumen",
+    "es": "Orientale Lumen",
+    "fr": "Orientale Lumen",
+    "it": "Orientale Lumen"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1995-05-02",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1995-05-02"
+  },
+  "composed": "1995",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula apostolica «Orientale Lumen», die II mensis Maii, anno MCMXCV",
+        "en-US": "Orientale Lumen",
+        "pt-BR": "Orientale Lumen",
+        "de": "Orientale Lumen",
+        "es": "Orientale Lumen",
+        "fr": "Orientale Lumen",
+        "it": "Orientale Lumen"
+      }
+    }
+  ]
+}

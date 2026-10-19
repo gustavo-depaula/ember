@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-cardinale-ferrari",
+  "cover": "quarter",
+  "name": {
+    "it": "Al Cardinale Ferrari, Arcivescovo di Milano"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1906-02-27",
+    "pt-BR": "Carta · Papa Pio X · 1906-02-27"
+  },
+  "composed": "1906",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19060227_cardinale-ferrari.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Al Cardinale Ferrari, Arcivescovo di Milano"
+      }
+    }
+  ]
+}

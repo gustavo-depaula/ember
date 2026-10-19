@@ -1,0 +1,112 @@
+{
+  "id": "benedict-xvi-compendio-catechismo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Motu Proprio for the approval and publication of the Compendium of the Catechism of the Catholic Church",
+    "pt-BR": "Motu Proprio para a aprovação e a publicação do Compêndio do Catecismo da Igreja Católica",
+    "de": "Motu Proprio zur Approbation und Veröffentlichung des Kompendiums des Katechismus der Katholischen Kirche",
+    "es": "Motu Proprio para la aprobación y publicación del Compendio del Catecismo de la Iglesia Católica",
+    "fr": "Motu Proprio pour l'approbation et la publication du Compendium du Catéchisme de l’Église catholique",
+    "in": "Motu Proprio Untuk Pengesahan dan Penyebarluasan Kompendium Katekismus Gereja Katolik",
+    "it": "Motu Proprio per l’approvazione e la pubblicazione del Compendio del Catechismo della Chiesa Cattolica",
+    "ro": "Motu proprio pentru aprobarea şi publicarea Compendiului Catehismului Bisericii Catolice",
+    "sl": "Motu Proprio za odobritev in objavo Kompendija Katekizma katoliške Cerkve",
+    "sv": "Motu Proprio för godkännande och utgivning Katolska Kyrkans lilla katekes"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2005-06-28",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2005-06-28"
+  },
+  "composed": "2005",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "in",
+    "it",
+    "ro",
+    "sl",
+    "sv"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "in",
+      "url": "https://www.vatican.va/content/benedict-xvi/in/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ro",
+      "url": "https://www.vatican.va/content/benedict-xvi/ro/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sl",
+      "url": "https://www.vatican.va/content/benedict-xvi/sl/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sv",
+      "url": "https://www.vatican.va/content/benedict-xvi/sv/motu_proprio/documents/hf_ben-xvi_motu-proprio_20050628_compendio-catechismo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Motu Proprio for the approval and publication of the Compendium of the Catechism of the Catholic Church",
+        "pt-BR": "Motu Proprio para a aprovação e a publicação do Compêndio do Catecismo da Igreja Católica",
+        "de": "Motu Proprio zur Approbation und Veröffentlichung des Kompendiums des Katechismus der Katholischen Kirche",
+        "es": "Motu Proprio para la aprobación y publicación del Compendio del Catecismo de la Iglesia Católica",
+        "fr": "Motu Proprio pour l'approbation et la publication du Compendium du Catéchisme de l’Église catholique",
+        "in": "Motu Proprio Untuk Pengesahan dan Penyebarluasan Kompendium Katekismus Gereja Katolik",
+        "it": "Motu Proprio per l’approvazione e la pubblicazione del Compendio del Catechismo della Chiesa Cattolica",
+        "ro": "Motu proprio pentru aprobarea şi publicarea Compendiului Catehismului Bisericii Catolice",
+        "sl": "Motu Proprio za odobritev in objavo Kompendija Katekizma katoliške Cerkve",
+        "sv": "Motu Proprio för godkännande och utgivning Katolska Kyrkans lilla katekes"
+      }
+    }
+  ]
+}

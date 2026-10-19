@@ -1,0 +1,40 @@
+{
+  "id": "pius-x-unione-economico-sociale-cattolici",
+  "cover": "quarter",
+  "name": {
+    "it": "Ai componenti la direzione provvisoria dell' Unione economico sociale per i cattolici italiani"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius X · 1907-01-20",
+    "pt-BR": "Carta · Papa Pio X · 1907-01-20"
+  },
+  "composed": "1907",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/letters/documents/hf_p-x_let_19070120_unione-economico-sociale-cattolici.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Ai componenti la direzione provvisoria dell' Unione economico sociale per i cattolici italiani"
+      }
+    }
+  ]
+}

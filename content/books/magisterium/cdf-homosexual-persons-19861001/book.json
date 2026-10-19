@@ -1,0 +1,96 @@
+{
+  "id": "cdf-homosexual-persons-19861001",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula de pastorali personarum homosexualium cura, d. 1 m. Octobris a. 1986, Congregatio pro Doctrina Fidei",
+    "en-US": "Letter to the Bishops of the Catholic Church on the Pastoral Care of Homosexual Persons",
+    "pt-BR": "Aos Bispos sobre o atendimento pastoral das pessoas homossexuaus, 1 de outubro de 1986",
+    "de": "Schreiben an die Bischöfe der katholischen Kirche über die Seelsorge für homosexuelle Personen",
+    "es": "Carta a los obispos de la Iglesia católica sobre la atención pastoral a las personas homosexuales",
+    "fr": "Lettre aux évêques de l'église catholique sur la pastorale à l'égard des personnes homosexuelles",
+    "it": "Lettera ai Vescovi della Chiesa Cattolica sulla cura pastorale delle persone omosessuali, 1 ottobre 1986",
+    "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O DUSZPASTERSTWIE OSÓB HOMOSEKSUALNYCH"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1986-10-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1986-10-01"
+  },
+  "composed": "1986",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula de pastorali personarum homosexualium cura, d. 1 m. Octobris a. 1986, Congregatio pro Doctrina Fidei",
+        "en-US": "Letter to the Bishops of the Catholic Church on the Pastoral Care of Homosexual Persons",
+        "pt-BR": "Aos Bispos sobre o atendimento pastoral das pessoas homossexuaus, 1 de outubro de 1986",
+        "de": "Schreiben an die Bischöfe der katholischen Kirche über die Seelsorge für homosexuelle Personen",
+        "es": "Carta a los obispos de la Iglesia católica sobre la atención pastoral a las personas homosexuales",
+        "fr": "Lettre aux évêques de l'église catholique sur la pastorale à l'égard des personnes homosexuelles",
+        "it": "Lettera ai Vescovi della Chiesa Cattolica sulla cura pastorale delle persone omosessuali, 1 ottobre 1986",
+        "pl": "LIST DO BISKUPÓW KOŚCIOŁA KATOLICKIEGO O DUSZPASTERSTWIE OSÓB HOMOSEKSUALNYCH"
+      }
+    }
+  ]
+}

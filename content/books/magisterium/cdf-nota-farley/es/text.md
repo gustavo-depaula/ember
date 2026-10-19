@@ -1,0 +1,87 @@
+# Notificación acerca del libro de Sor Margaret A. Farley, R.S.M
+
+[](/index.htm)
+
+[](javascript:history.go(-1)) [](javascript:up())
+
+CONGREGACIÓN PARA LA DOCTRINA DE LA FE
+
+Notificación acerca del libro *Just Love. A Framework for Christian Sexual Ethics* de Sor Margaret A. Farley, R.S.M.
+
+Introducción
+
+La Congregación para la Doctrina de la Fe, después de haber concluido un primer examen del libro *Just Love. A Framework for Christian Sexual Ethics* (New York: Continuum, 2006), de Sor Margaret A. Farley, R.S.M., con carta del 29 de marzo de 2010 se dirigió a la Autora a través de Sor Mary Waskowiak, entonces Presidenta de las *Hermanas de la Misericordia de las Américas*, para transmitirle una evaluación preliminar de su libro e indicarle sus problemas doctrinales. La respuesta de Sor Farley, del 28 de octubre de 2010, no clarificó de manera satisfactoria tales problemas. En consideración del hecho de que se trataba de errores doctrinales cuya publicación había sido causa de confusión entre los fieles, la Congregación decidió emprender un "Examen con procedimiento urgente" según el *Reglamento para el Examen de las Doctrinas* (cf. cap. IV, art. 23-27).
+
+Después de la evaluación realizada por una Comisión de expertos (cf. art. 24), la *Sesión Ordinaria* de la Congregación, reunida el 8 de junio de 2011, confirmó que el libro en cuestión contenía proposiciones erróneas cuya divulgación podía causar grave daño a los fieles. Por tanto, con carta del 5 de julio de 2011, se transmitió a Sor Waskowiak el elenco de las proposiciones erróneas, pidiéndole que invitara a Sor Farley a corregir las tesis inaceptables presentes en su libro (cf. art. 25-26).
+
+El 3 de octubre de 2011, Sor Patricia McDermott, sucesora de Sor Mary Waskowiak, de acuerdo con el Artículo 27 del citado *Reglamento*, envió a la Congregación la respuesta de Sor Farley acompañada de su propia opinión y a la de Sor Waskowiak. Esta respuesta, después de haber sido examinada por una Comisión de expertos, el 14 de diciembre de 2011 fue sometida a la atención de la *Sesión Ordinaria*. En esta ocasión, los miembros de la Congregación, considerando que la respuesta de Sor Farley no clarificaba adecuadamente los problemas contenidos en su libro, decidieron proceder con la publicación de la presente Notificación.
+
+**I. Problemas generales**
+
+La Autora no entiende correctamente el papel del Magisterio de la Iglesia, que es expresión de la autoridad de los Obispos para enseñar en comunión con el Sucesor de Pedro, que guía a la Iglesia a una comprensión siempre más profunda de la Palabra de Dios, que se encuentra en la Sagrada Escritura y que es transmitida fielmente por la Tradición viva de la Iglesia. Sor Farley trata argumentos de carácter moral ignorando la enseñanza constante del Magisterio y cuando ocasionalmente lo menciona, lo trata como a una opinión más. Tal actitud no se puede justificar, aun dentro de la perspectiva ecuménica que ella quiere promover. Sor Farley revela también una comprensión defectuosa del carácter objetivo de la ley moral natural, prefiriendo argumentar en base a conclusiones sacadas de ciertas corrientes filosóficas o de su propia comprensión de la "experiencia contemporánea". Tal enfoque no está de acuerdo con la auténtica teología católica.
+
+**2. Problemas específicos**
+
+Entre los numerosos errores y ambigüedades del libro se encuentran sus opiniones acerca de la masturbación, los actos homosexuales, las uniones homosexuales, la indisolubilidad del matrimonio y el problema del divorcio seguido de nuevas nupcias.
+
+**Masturbación**
+
+Escribe Sor Farley: «La masturbación \[…\] generalmente no implica ningún problema de carácter moral. \[…\] Por cierto, muchas mujeres \[…\] han experimentado un gran bien en el placer auto procurado –quizá en modo especial en el descubrimiento de sus propias posibilidades para el placer–, algo que muchas no habían experimentado y ni siquiera conocido en sus relaciones sexuales ordinarias con maridos o amantes. En este sentido, se podría afirmar que la masturbación favorece las relaciones más que estorbarlas. Mi observación conclusiva es que los criterios de la justicia, como los he estado presentando, parecieran aplicables a la decisión de probar placer sexual auto-erótico solo en la medida en que esta actividad ayude o dañe, mantenga o limite el bienestar y la libertad de espíritu. Y esta es una cuestión de carácter empírico, no moral» (pág. 236).
+
+Tales afirmaciones no están en conformidad con la doctrina de la Iglesia Católica: «Tanto el Magisterio de la Iglesia, de acuerdo con una tradición constante, como el sentido moral de los fieles, han afirmado sin ninguna duda que la masturbación es un acto intrínseca y gravemente desordenado. El uso deliberado de la facultad sexual fuera de las relaciones conyugales normales contradice a su finalidad, sea cual fuere el motivo que lo determine. Así, el goce sexual es buscado aquí al margen de la relación sexual requerida por el orden moral; aquella relación que realiza el sentido íntegro de la mutua entrega y de la procreación humana en el contexto de un amor verdadero. Para emitir un juicio justo acerca de la responsabilidad moral de los sujetos y para orientar la acción pastoral, ha de tenerse en cuenta la inmadurez afectiva, la fuerza de los hábitos contraídos, el estado de angustia u otros factores psíquicos o sociales que pueden atenuar o tal vez reducir al mínimo la culpabilidad moral»[^1].
+
+**Actos homosexuales**
+
+Escribe Sor Farley: «Desde mi punto de vista \[…\], las relaciones y los actos homosexuales pueden ser justificados de acuerdo a la misma ética sexual de las relaciones y los actos heterosexuales. Por lo tanto, las personas con inclinaciones homosexuales, así como sus respectivos actos, pueden y deben ser respetados, sea que ellas tengan o no la alternativa de ser de otra manera» (pág. 295).
+
+Dicha posición no es aceptable. La Iglesia Católica, en efecto, distingue entre personas con tendencias homosexuales y actos homosexuales. En cuanto a las personas con tendencias homosexuales, el *[Catecismo de la Iglesia Católica](/archive/catechism_sp/index_sp.html)* enseña que deben ser acogidas «con respeto, compasión y delicadeza. Se evitará, respecto a ellos, todo signo de discriminación injusta»[^2]. En cuanto a los actos homosexuales, en cambio, el Catecismo afirma: «Apoyándose en la Sagrada Escritura que los presenta como depravaciones graves, la Tradición ha declarado siempre que los actos homosexuales son intrínsecamente desordenados. Son contrarios a la ley natural. Cierran el acto sexual al don de la vida. No proceden de una verdadera complementariedad afectiva y sexual. No pueden recibir aprobación en ningún caso»[^3].
+
+**Uniones homosexuales**
+
+Escribe Sor Farley: «Las legislaciones contra la discriminación de los homosexuales así como de las parejas de hecho, las uniones civiles y los matrimonios gay, pueden desarrollar un papel importante en la transformación del odio, de la marginación y de la estigmatización de gays y lesbianas, que todavía está siendo reforzada por enseñanzas sobre sexo "*contra natura*", deseo desordenado o amor peligroso. \[…\] Una de las cuestiones actualmente más urgentes ante la opinión pública de los Estados Unidos es el matrimonio entre personas del mismo sexo, es decir, la concesión de un reconocimiento social y una validez jurídica a las uniones homosexuales, masculinas o femeninas, comparables a las uniones entre heterosexuales» (pág. 293).
+
+Tal posición es contraria a la enseñanza del Magisterio: «La Iglesia enseña que el respeto hacia las personas homosexuales no puede en modo alguno llevar a la aprobación del comportamiento homosexual ni a la legalización de las uniones homosexuales. El bien común exige que las leyes reconozcan, favorezcan y protejan la unión matrimonial como base de la familia, célula primaria de la sociedad. Reconocer legalmente las uniones homosexuales o equipararlas al matrimonio, significaría no solamente aprobar un comportamiento desviado y convertirlo en un modelo para la sociedad actual, sino también ofuscar valores fundamentales que pertenecen al patrimonio común de la humanidad. La Iglesia no puede dejar de defender tales valores, para el bien de los hombres y de toda la sociedad»[^4]. «Para sostener la legalización de las uniones homosexuales no puede invocarse el principio del respeto y la no discriminación de las personas. Distinguir entre personas o negarle a alguien un reconocimiento legal o un servicio social es efectivamente inaceptable sólo si se opone a la justicia. No atribuir el estatus social y jurídico de matrimonio a formas de vida que no son ni pueden ser matrimoniales no se opone a la justicia, sino que, por el contrario, es requerido por ésta»[^5].
+
+**Indisolubilidad del matrimonio**
+
+Escribe Sor Farley: «Mi posición personal es que el compromiso matrimonial está sujeto a disolución por las mismas razones fundamentales por las que cualquier compromiso permanente, extremamente serio y casi incondicionado, puede dejar de ser vinculante. Esto implica que pueden darse situaciones en las que hayan cambiado muchas cosas: una o ambas partes hayan cambiado, la relación haya cambiado, la razón original del compromiso recíproco parezca completamente extinguida. Es evidente que el sentido de un compromiso permanente es unir a los que lo asumen no obstante los cambios que sobrevengan. Pero ¿puede ese compromiso resistir siempre? ¿Puede mantenerse absolutamente, de cara a cambios radicales e inesperados? Mi respuesta es que a veces no puede. A veces la obligación debe ser disuelta y el compromiso puede ser legítimamente cambiado» (págs. 304-305).
+
+Dicha opinión está en contradicción con la doctrina católica sobre la indisolubilidad del matrimonio: «El amor conyugal exige de los esposos, por su misma naturaleza, una fidelidad inviolable. Esto es consecuencia del don de sí mismos que se hacen mutuamente los esposos. El auténtico amor tiende por sí mismo a ser algo definitivo, no algo pasajero. Esta íntima unión, en cuanto donación mutua de dos personas, así como el bien de los hijos exigen la fidelidad de los cónyuges y urgen su indisoluble unidad. Su motivo más profundo consiste en la fidelidad de Dios a su alianza, de Cristo a su Iglesia. Por el sacramento del matrimonio los esposos son capacitados para representar y testimoniar esta fidelidad. Por el sacramento, la indisolubilidad del matrimonio adquiere un sentido nuevo y más profundo. El Señor Jesús insiste en la intención original del Creador que quería un matrimonio indisoluble, y deroga la tolerancia que se había introducido en la ley antigua. Entre bautizados, el matrimonio rato y consumado no puede ser disuelto por ningún poder humano ni por ninguna causa fuera de la muerte»[^6].
+
+**Divorcio y nuevas nupcias**
+
+Escribe Sor Farley: «Si del matrimonio nacieron hijos, los ex esposos quedarán por años o por toda la vida unidos en relación al proyecto común de ser padres. De todos modos, las vidas de dos personas que estuvieron unidas en matrimonio quedan para siempre marcadas por la experiencia de ese matrimonio. Aunque la profundidad de lo que quede admita grados, algo queda. ¿Pero lo que queda, desaprueba un segundo matrimonio? Yo opino que no. Cualquiera sea la obligación que quede de un vínculo no exige incluir la prohibición de un nuevo matrimonio, del mismo modo que el vínculo entre dos esposos no incluye la prohibición de nuevas nupcias, en caso de que uno de los dos muera» (pág. 310).
+
+Dicha opinión contradice la doctrina católica que excluye la posibilidad de segundas nupcias después del divorcio: «Hoy son numerosos en muchos países los católicos que recurren al *divorcio* según las leyes civiles y que contraen también civilmente una nueva unión. La Iglesia mantiene, por fidelidad a la palabra de Jesucristo ("Quien repudie a su mujer y se case con otra, comete adulterio contra aquélla; y si ella repudia a su marido y se casa con otro, comete adulterio": *Mc* 10,11-12), que no puede reconocer como válida esta nueva unión, si era válido el primer matrimonio. Si los divorciados se vuelven a casar civilmente, se ponen en una situación que contradice objetivamente la ley de Dios. Por lo cual no pueden acceder a la comunión eucarística mientras persista esta situación, y por la misma razón no pueden ejercer ciertas responsabilidades eclesiales. La reconciliación mediante el sacramento de la penitencia no puede ser concedida más que aquellos que se arrepientan de haber violado el signo de la Alianza y de la fidelidad a Cristo y que se comprometan a vivir en total continencia»[^7].
+
+**Conclusión**
+
+Con esta Notificación, la Congregación para la Doctrina de la Fe lamenta profundamente que un miembro de un Instituto de Vida Consagrada, Sor Margaret A. Farley, R.S.M., haga afirmaciones que están en contraste directo con la doctrina católica en el ámbito de la moral sexual. La Congregación advierte a los fieles que el libro *Just Love. A Framework for Christian Sexual Ethics* no está en conformidad con la doctrina de la Iglesia Católica. Por lo tanto, no puede ser usado como si fuese una válida expresión de las enseñanzas de la Iglesia para las sesiones de orientación o formación, ni tampoco para el diálogo ecuménico o interreligioso. La Congregación desea, además, alentar a los teólogos para que cumplan con sus tareas de estudio y enseñanza de la teología moral en plena conformidad con los principios de la doctrina católica.
+
+*El Sumo Pontífice Benedicto XVI, durante la audiencia concedida al Cardenal Prefecto el 16 de marzo de 2012, ha aprobado la presente Notificación, acordada en la reunión de la* Sesión Ordinaria *de esta Congregación el 14 de marzo de 2012, y ha ordenado su publicación.*
+
+*Roma, en la sede la Congregación para la Doctrina de la Fe, 30 de marzo de 2012.*
+
+**William Cardenal LEVADA**  
+*Prefecto*
+
+**+ Luis F. Ladaria, S.I.**  
+*Arzobispo titular de Thibica Secretario*
+
+------------------------------------------------------------------------
+
+[](#top)
+
+[^1]: *[Catecismo de la Iglesia Católica](/archive/catechism_sp/p3s2c2a6_sp.html#II%20La%20vocación%20a%20la%20castidad)*, núm. 2352; cf. Congregación para la Doctrina de la Fe, Declaración *Persona humana* acerca de ciertas cuestiones de ética sexual (29 de diciembre de 1975), núm. 9: *AAS* 68 (1976), 85-87.
+
+[^2]: *[Catecismo de la Iglesia Católica](/archive/catechism_sp/p3s2c2a6_sp.html#II%20La%20vocación%20a%20la%20castidad)*, núm. 2358
+
+[^3]: *[Catecismo de la Iglesia Católica](/archive/catechism_sp/p3s2c2a6_sp.html#II%20La%20vocación%20a%20la%20castidad)*, núm. 2357; cf. *Gn* 19, 1-29; *Rm* 1, 24-27; *1 Co* 6, 10; *1 Tm* 1, 10; cf. Congregación para la Doctrina de la Fe, Declaración *[Persona humana](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19751229_persona-humana_sp.html)*, núm. 8: *AAS* 68 (1976), 84-85; Id., Carta [*Homosexualitatis problema* sobre la atención pastoral a las personas homosexuales](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19861001_homosexual-persons_sp.html) (1 de octubre de 1986): *AAS* 79 (1987), 543-554.
+
+[^4]: Congregación para la Doctrina de la Fe, *[Consideraciones acerca de los proyectos de reconocimiento de las uniones entre personas homosexuales](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20030731_homosexual-unions_sp.html)* (3 de junio de 2003), núm. 11: *AAS* 96 (2004), 48.
+
+[^5]: *Ibíd*., núm. 8: *AAS* 96 (2004), 46-47.
+
+[^6]: *Catecismo de la Iglesia Católica*, núms. [1646-1647](/archive/catechism_sp/p2s2c3a7_sp.html#V%20Los%20bienes%20y%20las%20exigencias%20del%20amor%20conyugal) y [2382](/archive/catechism_sp/p3s2c2a6_sp.html#IV%20Las%20ofensas%20a%20la%20dignidad%20del%20matrimonio); cf. *Mt* 5, 31-32 y 19, 3-9; *Mc* 10, 9; *Lc* 16, 18; *1 Co* 7, 10-11; Concilio Ecuménico Vaticano II, Constitución pastoral *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_sp.html)* sobre la Iglesia en el mundo actual, núms. 48-49; *Código de Derecho Canónico*, can. 1141; Juan Pablo II, Exhortación Apostólica *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_sp.html)* sobre la misión de la familia cristiana en el mundo actual (22 de noviembre de 1981), núm. 13: *AAS* 74 (1982), 93-96.
+
+[^7]: *Catecismo de la Iglesia Católica*, núm. [1650](/archive/catechism_sp/p2s2c3a7_sp.html#V%20Los%20bienes%20y%20las%20exigencias%20del%20amor%20conyugal); cf. Juan Pablo II, Exhortación Apostólica *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_sp.html)*, núm. 84: *AAS* 74 (1982), 184-186; Congregación para la Doctrina de la Fe, Carta *[Annus Internationalis Familiae](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_14091994_rec-holy-comm-by-divorced_sp.html)* sobre la recepción de la comunión eucarística por parte de los fieles divorciados que se han vuelto a casar (14 de septiembre de 1994): *AAS* 86 (1994), 974-979.

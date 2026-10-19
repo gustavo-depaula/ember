@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-benedictus-deus",
+  "cover": "quarter",
+  "name": {
+    "it": "Bolla Benedictus Deus"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Gregory XVI · 1834-06-17",
+    "pt-BR": "Bula · Papa Gregório XVI · 1834-06-17"
+  },
+  "composed": "1834",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/bolla-benedictus-deus-17-giugno-1834.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Bolla Benedictus Deus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-norunt-profecto",
+  "cover": "quarter",
+  "name": {
+    "es": "Norunt profecto",
+    "it": "Norunt profecto"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Pius XII · 1940-10-27",
+    "pt-BR": "Motu Proprio · Papa Pio XII · 1940-10-27"
+  },
+  "composed": "1940",
+  "languages": [
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xii/es/motu_proprio/documents/hf_p-xii_motu-proprio_19401027_norunt-profecto.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/motu_proprio/documents/hf_p-xii_motu-proprio_19401027_norunt-profecto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "es": "Norunt profecto",
+        "it": "Norunt profecto"
+      }
+    }
+  ]
+}

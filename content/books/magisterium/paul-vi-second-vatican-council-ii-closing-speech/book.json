@@ -1,0 +1,40 @@
+{
+  "id": "paul-vi-second-vatican-council-ii-closing-speech",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Second Vatican Council II Closing Speech"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Document · Pope Paul VI · 1965-12-08",
+    "pt-BR": "Documento · Papa Paulo VI · 1965-12-08"
+  },
+  "composed": "1965",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/paul06/p6closin.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Second Vatican Council II Closing Speech"
+      }
+    }
+  ]
+}

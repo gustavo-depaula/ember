@@ -1,0 +1,88 @@
+{
+  "id": "pius-xi-quadragesimo-anno",
+  "cover": "quarter",
+  "name": {
+    "la": "Quadragesimo anno, Litterae Encyclicae de ordine sociali instaurando et ad evangelicae legis normam perficiendo, in annum XL post editas Leonis XIII Litteras Encyclicas « Rerum Novarum », die 15 m. Maii a. 1931, Pius PP. XI",
+    "en-US": "Quadragesimo Anno",
+    "pt-BR": "Quadragesimo Anno: 40º aniversário da Rerum novarum",
+    "de": "Quadragesimo Anno (May 15, 1931)",
+    "es": "Quadragesimo Anno",
+    "it": "Quadragesimo Anno",
+    "pl": "Quadragesimo Anno (May 15, 1931)"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1931-05-15",
+    "pt-BR": "Encíclica · Papa Pio XI · 1931-05-15"
+  },
+  "composed": "1931",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xi/pt/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1931-05-15,_SS_Pius_XI,_Encyclica_'Quadragesimo_Anno',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1931-05-15,_SS_Pius_XI,_Encyclica_'Quadragesimo_Anno',_PL.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Quadragesimo anno, Litterae Encyclicae de ordine sociali instaurando et ad evangelicae legis normam perficiendo, in annum XL post editas Leonis XIII Litteras Encyclicas « Rerum Novarum », die 15 m. Maii a. 1931, Pius PP. XI",
+        "en-US": "Quadragesimo Anno",
+        "pt-BR": "Quadragesimo Anno: 40º aniversário da Rerum novarum",
+        "de": "Quadragesimo Anno (May 15, 1931)",
+        "es": "Quadragesimo Anno",
+        "it": "Quadragesimo Anno",
+        "pl": "Quadragesimo Anno (May 15, 1931)"
+      }
+    }
+  ]
+}

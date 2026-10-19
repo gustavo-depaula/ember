@@ -1,0 +1,56 @@
+{
+  "id": "pius-xii-bis-saeculari-die",
+  "cover": "quarter",
+  "name": {
+    "la": "Bis saeculari die",
+    "pt-BR": "Bis saeculari die",
+    "es": "Bis saeculari die"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Pius XII · 1948-09-27",
+    "pt-BR": "Constituição Apostólica · Papa Pio XII · 1948-09-27"
+  },
+  "composed": "1948",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1948-09-27,_SS_Pius_XII,_Constitutio._Bis_Saeculari,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/bis-saeculari-die-pio-xii-27-09-1948/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1948-09-27,_SS_Pius_XII,_Constitutio_'Bis_Saeculari',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bis saeculari die",
+        "pt-BR": "Bis saeculari die",
+        "es": "Bis saeculari die"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-dum-intima",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Dum intima"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Gregory XVI · 1837-12-10",
+    "pt-BR": "Alocução · Papa Gregório XVI · 1837-12-10"
+  },
+  "composed": "1837",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/allocuzione-dum-intima-10-dicembre-1837.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Dum intima"
+      }
+    }
+  ]
+}

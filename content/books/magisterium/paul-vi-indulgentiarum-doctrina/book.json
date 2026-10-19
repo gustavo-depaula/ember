@@ -1,0 +1,80 @@
+{
+  "id": "paul-vi-indulgentiarum-doctrina",
+  "cover": "quarter",
+  "name": {
+    "la": "Indulgentiarum Doctrina",
+    "en-US": "Indulgentiarum Doctrina",
+    "es": "Indulgentiarum doctrina",
+    "fr": "Indulgentiarum Doctrina",
+    "hu": "Indulgentiarum doctrina, VI. Pál pápa apostoli konstitúciója a búcsúkról 1968",
+    "it": "Indulgentiarum Doctrina"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Paul VI · 1967-01-01",
+    "pt-BR": "Constituição Apostólica · Papa Paulo VI · 1967-01-01"
+  },
+  "composed": "1967",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "hu",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_constitutions/documents/hf_p-vi_apc_01011967_indulgentiarum-doctrina.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_constitutions/documents/hf_p-vi_apc_01011967_indulgentiarum-doctrina.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_constitutions/documents/hf_p-vi_apc_01011967_indulgentiarum-doctrina.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/apost_constitutions/documents/hf_p-vi_apc_01011967_indulgentiarum-doctrina.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/content/paul-vi/hu/apost_constitutions/documents/hf_p-vi_apc_01011967_indulgentiarum-doctrina.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_constitutions/documents/hf_p-vi_apc_01011967_indulgentiarum-doctrina.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Indulgentiarum Doctrina",
+        "en-US": "Indulgentiarum Doctrina",
+        "es": "Indulgentiarum doctrina",
+        "fr": "Indulgentiarum Doctrina",
+        "hu": "Indulgentiarum doctrina, VI. Pál pápa apostoli konstitúciója a búcsúkról 1968",
+        "it": "Indulgentiarum Doctrina"
+      }
+    }
+  ]
+}

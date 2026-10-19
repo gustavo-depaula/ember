@@ -1,0 +1,72 @@
+{
+  "id": "paul-vi-evangelica-testificatio",
+  "cover": "quarter",
+  "name": {
+    "la": "Adhortatio apostolica - Evangelica testificatio, die XXIX mensis Iunii, anno MCMLXXI",
+    "en-US": "Evangelica Testificatio",
+    "pt-BR": "Evangelica Testificatio",
+    "es": "Evangelica Testificatio",
+    "it": "Evangelica Testificatio"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1971-06-29",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1971-06-29"
+  },
+  "composed": "1971",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19710629_evangelica-testificatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19710629_evangelica-testificatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/paul-vi/pt/apost_exhortations/documents/hf_p-vi_exh_19710629_evangelica-testificatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/paul-vi/es/apost_exhortations/documents/hf_p-vi_exh_19710629_evangelica-testificatio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19710629_evangelica-testificatio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Adhortatio apostolica - Evangelica testificatio, die XXIX mensis Iunii, anno MCMLXXI",
+        "en-US": "Evangelica Testificatio",
+        "pt-BR": "Evangelica Testificatio",
+        "es": "Evangelica Testificatio",
+        "it": "Evangelica Testificatio"
+      }
+    }
+  ]
+}

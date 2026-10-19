@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-acerbae-lacrimae",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Dum Acerbae Lacrimae al R. P. Cesare Pedrini, Superiore della Pia Unione del Transito di San Giuseppe, con la quale si attribuiscono speciali privilegi ai sacerdoti appartenenti al Sodalizio"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1917-06-15",
+    "pt-BR": "Carta · Papa Bento XV · 1917-06-15"
+  },
+  "composed": "1917",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1917/documents/hf_ben-xv_let_19170615_acerbae-lacrimae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Dum Acerbae Lacrimae al R. P. Cesare Pedrini, Superiore della Pia Unione del Transito di San Giuseppe, con la quale si attribuiscono speciali privilegi ai sacerdoti appartenenti al Sodalizio"
+      }
+    }
+  ]
+}

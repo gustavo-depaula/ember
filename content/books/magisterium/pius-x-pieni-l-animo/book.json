@@ -1,0 +1,56 @@
+{
+  "id": "pius-x-pieni-l-animo",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pieni L'Animo",
+    "es": "Pieni L'Animo (July 28, 1906)",
+    "it": "Pieni L'Animo"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius X · 1906-07-28",
+    "pt-BR": "Encíclica · Papa Pio X · 1906-07-28"
+  },
+  "composed": "1906",
+  "languages": [
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_28071906_pieni-l-animo.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1906-07-28,_SS_Pius_X,_Encyclica_'Pieni_L'Animo',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-x/it/encyclicals/documents/hf_p-x_enc_28071906_pieni-l-animo.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pieni L'Animo",
+        "es": "Pieni L'Animo (July 28, 1906)",
+        "it": "Pieni L'Animo"
+      }
+    }
+  ]
+}

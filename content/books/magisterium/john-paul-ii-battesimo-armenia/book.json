@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-battesimo-armenia",
+  "cover": "quarter",
+  "name": {
+    "en-US": "On the 1700th anniversary of the \"Baptism of Armenia\"",
+    "pt-BR": "Por ocasião do 1700° Aniversário do Batismo do Povo Armênio",
+    "de": "Aus Anlass des 1700. Jahrestages der \"Taufe des armenischen Volkes\"",
+    "es": "Carta apostólica con motivo del XVII centenario del Bautismo del pueblo armenio",
+    "fr": "A l'occasion du 1700ème anniversaire du Baptême du Peuple Arménien",
+    "it": "In occasione del 1700° Anniversario del Battesimo del Popolo Armeno"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 2001-02-17",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 2001-02-17"
+  },
+  "composed": "2001",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010217_battesimo-armenia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/2001/documents/hf_jp-ii_apl_20010217_battesimo-armenia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/2001/documents/hf_jp-ii_apl_20010217_battesimo-armenia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/2001/documents/hf_jp-ii_apl_20010217_battesimo-armenia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/2001/documents/hf_jp-ii_apl_20010217_battesimo-armenia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/2001/documents/hf_jp-ii_apl_20010217_battesimo-armenia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "On the 1700th anniversary of the \"Baptism of Armenia\"",
+        "pt-BR": "Por ocasião do 1700° Aniversário do Batismo do Povo Armênio",
+        "de": "Aus Anlass des 1700. Jahrestages der \"Taufe des armenischen Volkes\"",
+        "es": "Carta apostólica con motivo del XVII centenario del Bautismo del pueblo armenio",
+        "fr": "A l'occasion du 1700ème anniversaire du Baptême du Peuple Arménien",
+        "it": "In occasione del 1700° Anniversario del Battesimo del Popolo Armeno"
+      }
+    }
+  ]
+}

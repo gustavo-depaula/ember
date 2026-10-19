@@ -1,0 +1,48 @@
+{
+  "id": "pius-vii-diu-satis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Diu Satis",
+    "it": "Enciclica Diu satis"
+  },
+  "author": {
+    "en-US": "Pope Pius VII",
+    "pt-BR": "Papa Pio VII",
+    "la": "Pius PP. VII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius VII · 1800-05-15",
+    "pt-BR": "Encíclica · Papa Pio VII · 1800-05-15"
+  },
+  "composed": "1800",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-vii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius07/p7diusat.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vii/it/documents/enciclica-diu-satis-15-maggio-1800.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Diu Satis",
+        "it": "Enciclica Diu satis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "cdf-mysterium-filii-dei",
+  "cover": "quarter",
+  "name": {
+    "la": "Mysterium Filii Dei, d. 21 m. Februarii a. 1972, Congregatio pro Doctrina Fidei",
+    "en-US": "Declaration for safeguarding the belief in the mysteries of the Incarnation and of the Most Holy Trinity against some recent errors",
+    "pt-BR": "Declaração para salvaguardar de alguns erros recentes a fé nos mistérios da encarnação e da santíssima trindade, 21 de fevereiro de 1972",
+    "de": "Erklärung zum Schutz des Glaubens an die Geheimnisse der Menschwerdung und der heiligsten Dreifaltigkeit gegenüber einigen Irrtümern der letzten Zeit",
+    "es": "Misterium filii Dei, Declaración para salvaguardar la fe de algunos errores recientes sobre los misterios de la Encarnación y la Trinidad",
+    "fr": "Déclaration pour protéger de certaines erreurs récentes la foi dans les mystères de l'Incarnation et de la Sainte Trinité, 21 février 1972",
+    "it": "Dichiarazione riguardante la salvaguardia della fede nei misteri dell'Incarnazione e della Santissima Trinità da alcuni errori recenti",
+    "pl": "DEKLARACJA DOTYCZĄCA WIARY W MISTERIA WCIELENIA I TRÓJCY ŚWIĘTEJ WOBEC NIEKTÓRYCH WSPÓŁCZESNYCH BŁĘDÓW"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1972-02-21",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1972-02-21"
+  },
+  "composed": "1972",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19720221_mysterium-filii-dei_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Mysterium Filii Dei, d. 21 m. Februarii a. 1972, Congregatio pro Doctrina Fidei",
+        "en-US": "Declaration for safeguarding the belief in the mysteries of the Incarnation and of the Most Holy Trinity against some recent errors",
+        "pt-BR": "Declaração para salvaguardar de alguns erros recentes a fé nos mistérios da encarnação e da santíssima trindade, 21 de fevereiro de 1972",
+        "de": "Erklärung zum Schutz des Glaubens an die Geheimnisse der Menschwerdung und der heiligsten Dreifaltigkeit gegenüber einigen Irrtümern der letzten Zeit",
+        "es": "Misterium filii Dei, Declaración para salvaguardar la fe de algunos errores recientes sobre los misterios de la Encarnación y la Trinidad",
+        "fr": "Déclaration pour protéger de certaines erreurs récentes la foi dans les mystères de l'Incarnation et de la Sainte Trinité, 21 février 1972",
+        "it": "Dichiarazione riguardante la salvaguardia della fede nei misteri dell'Incarnazione e della Santissima Trinità da alcuni errori recenti",
+        "pl": "DEKLARACJA DOTYCZĄCA WIARY W MISTERIA WCIELENIA I TRÓJCY ŚWIĘTEJ WOBEC NIEKTÓRYCH WSPÓŁCZESNYCH BŁĘDÓW"
+      }
+    }
+  ]
+}

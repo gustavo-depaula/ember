@@ -1,0 +1,56 @@
+{
+  "id": "leo-xiii-graves-de-communi-re",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Graves de Communi Re",
+    "fr": "Graves de Communi Re",
+    "it": "Graves\n de Communi Re (January 18, 1901)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1901-01-18",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1901-01-18"
+  },
+  "composed": "1901",
+  "languages": [
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_18011901_graves-de-communi-re.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/leo-xiii/fr/encyclicals/documents/hf_l-xiii_enc_18011901_graves-de-communi-re.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1901-01-18,_SS_Leo_XIII,_Encyclica_'Graves_de_Communi_Re',_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Graves de Communi Re",
+        "fr": "Graves de Communi Re",
+        "it": "Graves\n de Communi Re (January 18, 1901)"
+      }
+    }
+  ]
+}

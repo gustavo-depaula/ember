@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-quam-religiosa",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Quam Religiosa",
+    "it": "Quam\n Religiosa (August 16, 1898)"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1898-08-16",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1898-08-16"
+  },
+  "composed": "1898",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_16081898_quam-religiosa.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1898-08-16,_SS_Leo_XIII,_Encyclica_'Quam_Religiosa',_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Quam Religiosa",
+        "it": "Quam\n Religiosa (August 16, 1898)"
+      }
+    }
+  ]
+}

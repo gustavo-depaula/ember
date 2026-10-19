@@ -1,0 +1,48 @@
+{
+  "id": "pius-xii-in-auspicando-super",
+  "cover": "quarter",
+  "name": {
+    "la": "In auspicando super, die XXVIII m. Iunii, A.D. MCMXLVIII - Pius PP. XII, Exhortatio Apostolica",
+    "it": "In Auspicando Super"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius XII · 1948-06-28",
+    "pt-BR": "Exortação Apostólica · Papa Pio XII · 1948-06-28"
+  },
+  "composed": "1948",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_exhortations/documents/hf_p-xii_exh_19480628_in-auspicando-super.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_exhortations/documents/hf_p-xii_exh_19480628_in-auspicando-super.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In auspicando super, die XXVIII m. Iunii, A.D. MCMXLVIII - Pius PP. XII, Exhortatio Apostolica",
+        "it": "In Auspicando Super"
+      }
+    }
+  ]
+}

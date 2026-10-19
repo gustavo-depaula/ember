@@ -1,0 +1,88 @@
+{
+  "id": "cdf-doctrinal-commissions",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula, 23 novembris 1990",
+    "en-US": "Letter to the Presidents of Episcopal Conferences",
+    "pt-BR": "Carta aos Presidentes das Conferências Episcopais, 23 de novembro de 1990",
+    "de": "Schreiben an die Präsidenten der Bischofskonferenzen",
+    "es": "A los Presidentes de las Conferencias Episcopales acerca de las Comisiones Doctrinales",
+    "fr": "Lettre aux Présidents des Conférences Episcopales, 23 novembre 1990",
+    "it": "Lettera ai Presidenti delle Conferenze Episcopali circa le Commissioni Dottrinali, 23 novembre 1990"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1990-11-25",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1990-11-25"
+  },
+  "composed": "1990",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19901125_doctrinal-commissions_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula, 23 novembris 1990",
+        "en-US": "Letter to the Presidents of Episcopal Conferences",
+        "pt-BR": "Carta aos Presidentes das Conferências Episcopais, 23 de novembro de 1990",
+        "de": "Schreiben an die Präsidenten der Bischofskonferenzen",
+        "es": "A los Presidentes de las Conferencias Episcopales acerca de las Comisiones Doctrinales",
+        "fr": "Lettre aux Présidents des Conférences Episcopales, 23 novembre 1990",
+        "it": "Lettera ai Presidenti delle Conferenze Episcopali circa le Commissioni Dottrinali, 23 novembre 1990"
+      }
+    }
+  ]
+}

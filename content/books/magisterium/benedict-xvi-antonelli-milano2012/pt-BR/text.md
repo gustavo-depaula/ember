@@ -1,0 +1,23 @@
+# Carta ao Presidente do Pontifício Conselho para a Família em preparação ao VII Encontro Mundial das Famílias de 2012
+
+***CARTA DO PAPA BENTO XVI AO PRESIDENTE DO PONTIFÍCIO CONSELHO PARA A FAMÍLIA EM VISTA DO VII ENCONTRO MUNDIAL DAS FAMÍLIAS DE 2012***
+
+*Venerado Irmão Cardeal ENNIO ANTONELLI Presidente do Pontifício Conselho para a Família*
+
+No encerramento do VI Encontro Mundial das Famílias, realizado na Cidade do México em Janeiro de 2009, anunciei que o próximo Encontro das famílias católicas do mundo inteiro com o Sucessor de Pedro teria lugar em Milão, no ano de 2012, sobre o tema: «A família: o trabalho e a festa». Desejando dar início agora à preparação deste importante acontecimento, é-me grato confirmar que, se Deus quiser, ele será realizado de 30 de Maio a 3 de Junho e, ao mesmo tempo, quero oferecer algumas indicações mais pormenorizadas a propósito da temática e das modalidades de realização.
+
+O trabalho e a festa estão intimamente ligados à vida das famílias: condicionam as suas escolhas, influenciam os relacionamentos entre os cônjuges, e entre os pais e os filhos, incidem sobre a relação da família com a sociedade em geral e com a Igreja. A Sagrada Escritura (cf. *Gn* cap. 1-2) diz-nos que a família e o trabalho constituem dádivas e bênçãos de Deus para nos ajudar a viver uma existência plenamente humana. A experiência quotidiana garante que o desenvolvimento autêntico da pessoa exige quer as dimensões individual, familiar e comunitária, quer as actividades e as relações funcionais, como também a abertura à esperança e ao Bem sem limites.
+
+Infelizmente, nos nossos dias a organização do trabalho, pensada e levada a cabo em função da concorrência de mercado e do máximo lucro, e a concepção da festa como ocasião de evasão e de consumo, contribuem para desagregar a família e a comunidade, bem como para difundir um estilo de vida individualista. Por conseguinte, é necessário promover uma reflexão e um compromisso destinados a reconciliar as exigências e os tempos de trabalho com aqueles da família, recuperando assim o verdadeiro sentido da festa, especialmente do domingo, Páscoa semanal, dia do Senhor e do homem, dia da família, da comunidade e da solidariedade.
+
+O próximo Encontro Mundial das Famílias constitui uma ocasião privilegiada para reconsiderar o trabalho e a festa, a perspectiva de uma família unida e aberta à vida, bem inserida na sociedade e na Igreja, atenta à qualidade dos relacionamentos para além da economia do próprio núcleo familiar. Contudo, para que venha a ser autenticamente fecundo, o acontecimento não deveria permanecer isolado, mas inserir-se num adequado percurso de preparação eclesial e cultural. Portanto, formulo votos a fim de que já durante o ano de 2011, XXX aniversário da publicação da Exortação Apostólica *[Familiaris consortio](/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)*, «*magna charta*» da pastoral familiar, possa ser empreendido um itinerário válido com iniciativas nos planos paroquial, diocesano e nacional, destinadas a salientar experiências de trabalho e de festa nos seus aspectos mais genuínos e positivos, com particular atenção à incidência sobre a vida concreta das famílias. Por isso, as famílias cristãs e as comunidades eclesiais do mundo inteiro sintam-se comprometidas e ponham-se com solicitude a caminho de «Milão 2012».
+
+Como os precedentes, o VII Encontro mundial terá uma duração de cinco dias e culminará no final da tarde de sábado, com a «Festa dos Testemunhos» e na manhã de domingo, com a Missa solene. Estas duas celebrações, que serão por mim presididas, ver-nos-ão reunidos como «família de famílias». A realização global deste acontecimento será preparada de maneira a harmonizar inteiramente as várias dimensões: oração comunitária, reflexão teológica e pastoral, momentos de fraternidade e de intercâmbio entre as famílias hóspedes e as famílias do território, ressonância mediática.
+
+O Senhor recompense desde já, com abundantes favores celestiais, a Arquidiocese ambrosiana pela generosa disponibilidade e pelo compromisso organizacional, posto ao serviço da Igreja universal e das famílias pertencentes a numerosas nações.
+
+Enquanto invoco a intercessão da Sagrada Família de Nazaré, dedicada ao trabalho quotidiano e assídua nas celebrações festivas do seu povo, concedo de coração a Vossa Eminência, venerado Irmão, bem como aos Colaboradores, a Bênção Apostólica que, com especial afecto e de bom grado, estendo a todas as famílias comprometidas na preparação do grande Encontro de Milão.
+
+*Castel Gandolfo, 23 de Agosto de 2010.*
+
+**PAPA BENTO XVI**

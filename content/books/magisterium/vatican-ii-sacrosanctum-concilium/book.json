@@ -1,0 +1,136 @@
+{
+  "id": "vatican-ii-sacrosanctum-concilium",
+  "cover": "quarter",
+  "name": {
+    "la": "Sacrosanctum Concilium",
+    "en-US": "Sacrosanctum Concilium",
+    "pt-BR": "Sacrosanctum Concilium",
+    "ar": "Sacrosanctum Concilium - Constitution on the Sacred Liturgy",
+    "be": "Sacrosanctum Concilium",
+    "cs": "Sacrosanctum Concilium",
+    "de": "Sacrosanctum Concilium",
+    "es": "Constitución <i>Sacrosanctum Concilium</i> sobre la sagrada liturgia",
+    "fr": "Sacrosanctum Concilium",
+    "hu": "Sacrosanctum Concilium",
+    "it": "Sacrosanctum Concilium",
+    "lv": "KONSTITŪCIJA PAR SVĒTO LITURĢIJU - SACROSANCTUM CONCILIUM",
+    "sw": "Sacrosanctum Concilium"
+  },
+  "author": {
+    "en-US": "Second Vatican Council",
+    "pt-BR": "Concílio Vaticano II",
+    "la": "Concilium Oecumenicum Vaticanum II"
+  },
+  "description": {
+    "en-US": "Conciliar Document · Second Vatican Council · 1963-12-04",
+    "pt-BR": "Documento Conciliar · Concílio Vaticano II · 1963-12-04"
+  },
+  "composed": "1963",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "be",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "lv",
+    "sw"
+  ],
+  "tags": [
+    "magisterium",
+    "council-document",
+    "vatican-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "be",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_be.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "lv",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_lv.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "sw",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_sw.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sacrosanctum Concilium",
+        "en-US": "Sacrosanctum Concilium",
+        "pt-BR": "Sacrosanctum Concilium",
+        "ar": "Sacrosanctum Concilium - Constitution on the Sacred Liturgy",
+        "be": "Sacrosanctum Concilium",
+        "cs": "Sacrosanctum Concilium",
+        "de": "Sacrosanctum Concilium",
+        "es": "Constitución <i>Sacrosanctum Concilium</i> sobre la sagrada liturgia",
+        "fr": "Sacrosanctum Concilium",
+        "hu": "Sacrosanctum Concilium",
+        "it": "Sacrosanctum Concilium",
+        "lv": "KONSTITŪCIJA PAR SVĒTO LITURĢIJU - SACROSANCTUM CONCILIUM",
+        "sw": "Sacrosanctum Concilium"
+      }
+    }
+  ]
+}

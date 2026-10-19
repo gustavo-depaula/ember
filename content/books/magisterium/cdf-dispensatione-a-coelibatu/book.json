@@ -1,0 +1,96 @@
+{
+  "id": "cdf-dispensatione-a-coelibatu",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae circulares omnibus locorum Ordinariis et Moderatoribus generalibus religionum clericaliumde dispensatione a sacerdotali coelibatu, d. 14 m. Octobris a. 1980, Congregatio pro Doctrina Fidei",
+    "en-US": "Letter to all local Ordinaries and General Moderators of clerical religious communities regarding the dispensation of priests from celibacy, 14 October 1980",
+    "pt-BR": "Carta sobre a dispensa do celibato sacerdotal, 14 de outubro de 1980",
+    "de": "Rundschreiben an alle Ortsordinarien und Generaloberen von Klerikerverbänden über die Vorgangsweise bei der Prüfung und Entscheidung über Bitten um Dispens von der Zölibatsverpflichtung, 14. Oktober 1980",
+    "es": "Carta a los ordinarios del lugar y superiores generales sobre el procedimiento para el examen y resolución de las peticiones referentes a la dispensa del celibato, 14 octubre 1980",
+    "fr": "Lettre à tous les ordinaires des lieux et supérieurs majeurs des congrégations religieuses cléricales au sujet de la dispense du célibat sacerdotal, 14 octobre 1980",
+    "it": "Lettera ai Vescovi e Superiori Generali riguardante la dispensa dal celibato sacerdotale, 14 ottobre 1980",
+    "pl": "LIST DO WSZYSTKICH ORDYNARIUSZY MIEJSCA I ZAKONNYCH PRZEŁOŻONYCH GENERALNYCH O DYSPENSIE OD CELIBATU KAPŁAŃSKIEGO"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1980-10-14",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1980-10-14"
+  },
+  "composed": "1980",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19801014_dispensatione-a-coelibatu_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae circulares omnibus locorum Ordinariis et Moderatoribus generalibus religionum clericaliumde dispensatione a sacerdotali coelibatu, d. 14 m. Octobris a. 1980, Congregatio pro Doctrina Fidei",
+        "en-US": "Letter to all local Ordinaries and General Moderators of clerical religious communities regarding the dispensation of priests from celibacy, 14 October 1980",
+        "pt-BR": "Carta sobre a dispensa do celibato sacerdotal, 14 de outubro de 1980",
+        "de": "Rundschreiben an alle Ortsordinarien und Generaloberen von Klerikerverbänden über die Vorgangsweise bei der Prüfung und Entscheidung über Bitten um Dispens von der Zölibatsverpflichtung, 14. Oktober 1980",
+        "es": "Carta a los ordinarios del lugar y superiores generales sobre el procedimiento para el examen y resolución de las peticiones referentes a la dispensa del celibato, 14 octubre 1980",
+        "fr": "Lettre à tous les ordinaires des lieux et supérieurs majeurs des congrégations religieuses cléricales au sujet de la dispense du célibat sacerdotal, 14 octobre 1980",
+        "it": "Lettera ai Vescovi e Superiori Generali riguardante la dispensa dal celibato sacerdotale, 14 ottobre 1980",
+        "pl": "LIST DO WSZYSTKICH ORDYNARIUSZY MIEJSCA I ZAKONNYCH PRZEŁOŻONYCH GENERALNYCH O DYSPENSIE OD CELIBATU KAPŁAŃSKIEGO"
+      }
+    }
+  ]
+}

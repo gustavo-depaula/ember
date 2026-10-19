@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-tremendo-conflitto",
+  "cover": "quarter",
+  "name": {
+    "it": "Lettera Al tremendo conflitto al Cardinale Basilio Pompili,Vicario generale di Roma per esortare i cattolici ad effettuare elemosine a favore degli orfani di guerra"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1916-03-04",
+    "pt-BR": "Carta · Papa Bento XV · 1916-03-04"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1916/documents/hf_ben-xv_let_19160304_tremendo-conflitto.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Lettera Al tremendo conflitto al Cardinale Basilio Pompili,Vicario generale di Roma per esortare i cattolici ad effettuare elemosine a favore degli orfani di guerra"
+      }
+    }
+  ]
+}

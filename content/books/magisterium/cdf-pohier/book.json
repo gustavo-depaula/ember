@@ -1,0 +1,88 @@
+{
+  "id": "cdf-pohier",
+  "cover": "quarter",
+  "name": {
+    "la": "Declaratio circa librum R.P. Iacobi Pohier: «Quand je dis Dieu», d. 3 m. Aprilis a. 1979, Congregatio pro Doctrina Fidei",
+    "en-US": "Declaration on the Book by Fr. Jacques Pohier: «When I Say God», Sacred Congregation for the Doctrine of the Faith",
+    "pt-BR": "Declaração sobre o livro do Rev. P. Jacques Pohier, Quand je dis Dieu, 3 de abril de 1979",
+    "de": "Erklärung zum Buch von P. J. Pohier, „Quand je dis Dieu“",
+    "es": "Declaración sobre el libro del P. Jacques Pohier, Quand je dis Dieu, 3 abril 1979",
+    "fr": "Déclaration sur le livre du R.P. Jacques Pohier «Quand je dis Dieu», 3 avril 1979",
+    "pl": "DEKLARACJA W SPRAWIE DWÓCH KSIĄŻEK PROFESORA HANSA KÜNGA"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1979-04-03",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1979-04-03"
+  },
+  "composed": "1979",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19790403_pohier_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Declaratio circa librum R.P. Iacobi Pohier: «Quand je dis Dieu», d. 3 m. Aprilis a. 1979, Congregatio pro Doctrina Fidei",
+        "en-US": "Declaration on the Book by Fr. Jacques Pohier: «When I Say God», Sacred Congregation for the Doctrine of the Faith",
+        "pt-BR": "Declaração sobre o livro do Rev. P. Jacques Pohier, Quand je dis Dieu, 3 de abril de 1979",
+        "de": "Erklärung zum Buch von P. J. Pohier, „Quand je dis Dieu“",
+        "es": "Declaración sobre el libro del P. Jacques Pohier, Quand je dis Dieu, 3 abril 1979",
+        "fr": "Déclaration sur le livre du R.P. Jacques Pohier «Quand je dis Dieu», 3 avril 1979",
+        "pl": "DEKLARACJA W SPRAWIE DWÓCH KSIĄŻEK PROFESORA HANSA KÜNGA"
+      }
+    }
+  ]
+}

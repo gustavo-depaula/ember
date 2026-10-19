@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-augustinum-hipponensem",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula apostolica Augustinum hipponensem",
+    "en-US": "Augustinum Hipponensem",
+    "es": "Augustinum Hipponensem, en el XVI centenario de la conversión de san Agustín",
+    "it": "Augustinum Hipponensem"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1986-08-26",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1986-08-26"
+  },
+  "composed": "1986",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1986/documents/hf_jp-ii_apl_26081986_augustinum-hipponensem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1986/documents/hf_jp-ii_apl_26081986_augustinum-hipponensem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1986/documents/hf_jp-ii_apl_26081986_augustinum-hipponensem.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1986/documents/hf_jp-ii_apl_26081986_augustinum-hipponensem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula apostolica Augustinum hipponensem",
+        "en-US": "Augustinum Hipponensem",
+        "es": "Augustinum Hipponensem, en el XVI centenario de la conversión de san Agustín",
+        "it": "Augustinum Hipponensem"
+      }
+    }
+  ]
+}

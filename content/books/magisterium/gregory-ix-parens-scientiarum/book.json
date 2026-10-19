@@ -1,0 +1,64 @@
+{
+  "id": "gregory-ix-parens-scientiarum",
+  "cover": "quarter",
+  "name": {
+    "la": "Bulla 'Parens Scientiarum'",
+    "en-US": "Bulla 'Parens Scientiarum'",
+    "fr": "Bulla 'Parens Scientiarum'",
+    "it": "Bulla 'Parens Scientiarum'"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Bull · Pope Gregory IX · 1231-04-03",
+    "pt-BR": "Bula · Papa Gregório IX · 1231-04-03"
+  },
+  "composed": "1231",
+  "languages": [
+    "la",
+    "en-US",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1231-04-03,_SS_Gregorius_VIIII,_Bulla_'Parens_Scientiarum',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1231-04-03,_SS_Gregorius_VIIII,_Bulla_'Parens_Scientiarum',_EN.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1231-04-03,_SS_Gregorius_VIIII,_Bulla_'Parens_Scientiarum',_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1231-04-03,_SS_Gregorius_VIIII,_Bulla_'Parens_Scientiarum',_IT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Bulla 'Parens Scientiarum'",
+        "en-US": "Bulla 'Parens Scientiarum'",
+        "fr": "Bulla 'Parens Scientiarum'",
+        "it": "Bulla 'Parens Scientiarum'"
+      }
+    }
+  ]
+}

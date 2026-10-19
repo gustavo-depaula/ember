@@ -1,0 +1,48 @@
+{
+  "id": "john-xxiii-novem-per-dies",
+  "cover": "quarter",
+  "name": {
+    "la": "Novem per dies",
+    "pt-BR": "Novem per dies"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope John XXIII · 1963-05-20",
+    "pt-BR": "Exortação Apostólica · Papa João XXIII · 1963-05-20"
+  },
+  "composed": "1963",
+  "languages": [
+    "la",
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1963-05-20,_SS_Ioannes_XXIII,_Adhortatio_'Novem_per_Dies',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/novem-per-dies-joao-xxiii-20-05-1963/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Novem per dies",
+        "pt-BR": "Novem per dies"
+      }
+    }
+  ]
+}

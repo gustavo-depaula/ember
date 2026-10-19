@@ -1,0 +1,48 @@
+{
+  "id": "siricius-decretalis",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistola Decretalis",
+    "en-US": "Epistola Decretalis"
+  },
+  "author": {
+    "en-US": "Pope Siricius",
+    "pt-BR": "Papa Sirício",
+    "la": "Siricius PP."
+  },
+  "description": {
+    "en-US": "Letter · Pope Siricius · 0385-02-10",
+    "pt-BR": "Carta · Papa Sirício · 0385-02-10"
+  },
+  "composed": "385",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "siricius"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0385-02-10,_SS_Siricius,_Epistola_Decretalis,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0385-02-10,_SS_Siricius,_Epistola_Decretalis,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola Decretalis",
+        "en-US": "Epistola Decretalis"
+      }
+    }
+  ]
+}

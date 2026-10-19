@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-divinum-praeceptum",
+  "cover": "quarter",
+  "name": {
+    "it": "Divinum Praeceptum con il quale si concede al Seminario Arcivescovile di Buenos Aires il potere di conferire titoli accademici in Filosofia e Sacra Teologia"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XV · 1915-12-23",
+    "pt-BR": "Breve · Papa Bento XV · 1915-12-23"
+  },
+  "composed": "1915",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/briefs/documents/hf_ben-xv_briefs_19151223_divinum-praeceptum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Divinum Praeceptum con il quale si concede al Seminario Arcivescovile di Buenos Aires il potere di conferire titoli accademici in Filosofia e Sacra Teologia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "pius-xii-sertum-laetitiae",
+  "cover": "quarter",
+  "name": {
+    "la": "Sertum Laetitiae, Litterae Encyclicae Pii XII, anno CL vertente ab ecclesiastica hierarchia in Foederatis Americae civitatibus constituta, d. 1 m. Novembris, a. 1939",
+    "en-US": "Sertum Laetitiae",
+    "pt-BR": "Sertum Laetitiae",
+    "it": "Sertum Laetitiae"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1939-11-01",
+    "pt-BR": "Encíclica · Papa Pio XII · 1939-11-01"
+  },
+  "composed": "1939",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_01111939_sertum-laetitiae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Sertum Laetitiae, Litterae Encyclicae Pii XII, anno CL vertente ab ecclesiastica hierarchia in Foederatis Americae civitatibus constituta, d. 1 m. Novembris, a. 1939",
+        "en-US": "Sertum Laetitiae",
+        "pt-BR": "Sertum Laetitiae",
+        "it": "Sertum Laetitiae"
+      }
+    }
+  ]
+}

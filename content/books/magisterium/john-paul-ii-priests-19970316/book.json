@@ -1,0 +1,80 @@
+{
+  "id": "john-paul-ii-priests-19970316",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Letter to Priests 1997",
+    "pt-BR": "Carta aos Sacerdotes por ocasião da Quinta-feira Santa de 1997",
+    "de": "Schreiben an die Priester zum Gründonnerstag 1997",
+    "es": "Carta a los sacerdotes con ocasión del Jueves Santo",
+    "fr": "Lettre aux Prêtres à l’occasion du Jeudi Saint 1997",
+    "it": "Lettera ai Sacerdoti per il Giovedì Santo 1997"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1997-03-16",
+    "pt-BR": "Carta · Papa João Paulo II · 1997-03-16"
+  },
+  "composed": "1997",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1997/documents/hf_jp-ii_let_16031997_priests.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/letters/1997/documents/hf_jp-ii_let_16031997_priests.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/1997/documents/hf_jp-ii_let_16031997_priests.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1997/documents/hf_jp-ii_let_16031997_priests.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/letters/1997/documents/hf_jp-ii_let_16031997_priests.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1997/documents/hf_jp-ii_let_16031997_priests.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Letter to Priests 1997",
+        "pt-BR": "Carta aos Sacerdotes por ocasião da Quinta-feira Santa de 1997",
+        "de": "Schreiben an die Priester zum Gründonnerstag 1997",
+        "es": "Carta a los sacerdotes con ocasión del Jueves Santo",
+        "fr": "Lettre aux Prêtres à l’occasion du Jeudi Saint 1997",
+        "it": "Lettera ai Sacerdoti per il Giovedì Santo 1997"
+      }
+    }
+  ]
+}

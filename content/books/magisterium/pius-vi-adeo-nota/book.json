@@ -1,0 +1,40 @@
+{
+  "id": "pius-vi-adeo-nota",
+  "cover": "quarter",
+  "name": {
+    "it": "Enciclica Adeo nota"
+  },
+  "author": {
+    "en-US": "Pope Pius VI",
+    "pt-BR": "Papa Pio VI",
+    "la": "Pius PP. VI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius VI · 1791-04-23",
+    "pt-BR": "Encíclica · Papa Pio VI · 1791-04-23"
+  },
+  "composed": "1791",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-vi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/enciclica-adeo-nota-23-aprile-1791.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Enciclica Adeo nota"
+      }
+    }
+  ]
+}

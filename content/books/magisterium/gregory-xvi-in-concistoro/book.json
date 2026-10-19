@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-in-concistoro",
+  "cover": "quarter",
+  "name": {
+    "it": "In Concistoro"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory XVI · 1843-04-06",
+    "pt-BR": "Documento · Papa Gregório XVI · 1843-04-06"
+  },
+  "composed": "1843",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1843-04-06,_SS_Gregorius_XVI,_In_Concistoro,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "In Concistoro"
+      }
+    }
+  ]
+}

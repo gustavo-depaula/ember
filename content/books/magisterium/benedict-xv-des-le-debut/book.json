@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-des-le-debut",
+  "cover": "quarter",
+  "name": {
+    "fr": "Dès le début",
+    "it": "Dès le début ai Capi dei popoli belligeranti invitandoli a trovare la via per una pace «giusta e duratura»"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Benedict XV · 1917-08-01",
+    "pt-BR": "Exortação Apostólica · Papa Bento XV · 1917-08-01"
+  },
+  "composed": "1917",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/apost_exhortations/documents/hf_ben-xv_exh_19170801_des-le-debut.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/apost_exhortations/documents/hf_ben-xv_exh_19170801_des-le-debut.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Dès le début",
+        "it": "Dès le début ai Capi dei popoli belligeranti invitandoli a trovare la via per una pace «giusta e duratura»"
+      }
+    }
+  ]
+}

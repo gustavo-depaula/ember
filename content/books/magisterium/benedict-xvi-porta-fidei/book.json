@@ -1,0 +1,88 @@
+{
+  "id": "benedict-xvi-porta-fidei",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" Porta Fidei for the Indiction of the Year of Faith",
+    "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Porta fidei com a qual se proclama o Ano da Fé",
+    "ar": "Apostolic Letter Motu Proprio data Porta Fidei of the Supreme Pontiff Benedict XVI for the Indiction of the Year of Faith",
+    "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Porta fidei, mit dem das Jahr des Glaubens ausgerufen wird",
+    "fr": "Lettre apostolique en forme de « Motu Proprio » Porta fidei promulguant l'Année de la foi",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Porta fidei con la quale si indice l'Anno della fede",
+    "pl": "Porta Fidei - Lettera Apostolica in forma di Motu Proprio con la quale si indice l'Anno della Fede, 11 ottobre 2011"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2011-10-11",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2011-10-11"
+  },
+  "composed": "2011",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/content/benedict-xvi/ar/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/benedict-xvi/de/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/content/benedict-xvi/pl/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" Porta Fidei for the Indiction of the Year of Faith",
+        "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Porta fidei com a qual se proclama o Ano da Fé",
+        "ar": "Apostolic Letter Motu Proprio data Porta Fidei of the Supreme Pontiff Benedict XVI for the Indiction of the Year of Faith",
+        "de": "Apostolisches Schreiben in Form eines \"Motu Proprio\" Porta fidei, mit dem das Jahr des Glaubens ausgerufen wird",
+        "fr": "Lettre apostolique en forme de « Motu Proprio » Porta fidei promulguant l'Année de la foi",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Porta fidei con la quale si indice l'Anno della fede",
+        "pl": "Porta Fidei - Lettera Apostolica in forma di Motu Proprio con la quale si indice l'Anno della Fede, 11 ottobre 2011"
+      }
+    }
+  ]
+}

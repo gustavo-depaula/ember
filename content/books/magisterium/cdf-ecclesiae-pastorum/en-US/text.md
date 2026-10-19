@@ -1,0 +1,3 @@
+# Decree Ecclesiae Pastorum
+
+[TABLE]

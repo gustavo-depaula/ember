@@ -1,0 +1,72 @@
+{
+  "id": "pius-xii-munificentissimus-deus",
+  "cover": "quarter",
+  "name": {
+    "la": "Munificentissimus Deus, die I m. Novembrus, A.D. MCML - Pius PP. XII, Constitutio Apostolica",
+    "en-US": "Munificentissimus Deus",
+    "pt-BR": "Munificentissimus Deus",
+    "es": "Munificentissimus Deus (November 1, 1950)",
+    "it": "Munificentissimus Deus - Bolla dogmatica per la definizione dell'Assunzione in corpo ed anima di Maria SS.ma in cielo"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Constitution · Pope Pius XII · 1950-11-01",
+    "pt-BR": "Constituição Apostólica · Papa Pio XII · 1950-11-01"
+  },
+  "composed": "1950",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-constitution",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xii/la/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1950-11-01,_SS_Pius_XII,_Constitutio_'Munificentissimus_Deus',_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Munificentissimus Deus, die I m. Novembrus, A.D. MCML - Pius PP. XII, Constitutio Apostolica",
+        "en-US": "Munificentissimus Deus",
+        "pt-BR": "Munificentissimus Deus",
+        "es": "Munificentissimus Deus (November 1, 1950)",
+        "it": "Munificentissimus Deus - Bolla dogmatica per la definizione dell'Assunzione in corpo ed anima di Maria SS.ma in cielo"
+      }
+    }
+  ]
+}

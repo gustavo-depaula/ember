@@ -1,0 +1,40 @@
+{
+  "id": "pius-xi-annus-fere",
+  "cover": "quarter",
+  "name": {
+    "it": "Annus Fere: ai Vescovi di tutto il mondo cattolico affinché si adoperino per far fronte alle esigenze dei popoli russi travolti dalla fame e dalla pestilenza"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Pius XI · 1922-07-10",
+    "pt-BR": "Carta Apostólica · Papa Pio XI · 1922-07-10"
+  },
+  "composed": "1922",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/apost_letters/documents/hf_p-xi_apl_19220710_annus-fere.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Annus Fere: ai Vescovi di tutto il mondo cattolico affinché si adoperino per far fronte alle esigenze dei popoli russi travolti dalla fame e dalla pestilenza"
+      }
+    }
+  ]
+}

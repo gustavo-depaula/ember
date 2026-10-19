@@ -1,0 +1,88 @@
+{
+  "id": "cdf-opus-angelorum-20101002",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum",
+    "pt-BR": "Aos Presidentes das Conferências Episcopais sobre a Associação Opus Angelorum, 2 de outubro de 2010",
+    "cs": "Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum",
+    "de": "Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum",
+    "es": "Carta circular a los Presidentes de las Conferencias Episcopales sobre la asociación Opus Angelorum, 2 de octubre de 2010",
+    "fr": "Lettre circulaire aux Présidents des Conférences Épiscopales sur l'association Opus Angelorum",
+    "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali sull'associazione Opus Angelorum, 2 ottobre 2010"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2010-10-02",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2010-10-02"
+  },
+  "composed": "2010",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_cs.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum",
+        "pt-BR": "Aos Presidentes das Conferências Episcopais sobre a Associação Opus Angelorum, 2 de outubro de 2010",
+        "cs": "Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum",
+        "de": "Circular letter to the Presidents of the Episcopal Conferences regarding the association Opus Angelorum",
+        "es": "Carta circular a los Presidentes de las Conferencias Episcopales sobre la asociación Opus Angelorum, 2 de octubre de 2010",
+        "fr": "Lettre circulaire aux Présidents des Conférences Épiscopales sur l'association Opus Angelorum",
+        "it": "Lettera circolare ai Presidenti delle Conferenze Episcopali sull'associazione Opus Angelorum, 2 ottobre 2010"
+      }
+    }
+  ]
+}

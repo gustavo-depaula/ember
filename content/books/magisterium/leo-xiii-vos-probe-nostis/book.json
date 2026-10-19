@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-vos-probe-nostis",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Vi è noto",
+    "it": "Vi è noto"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo XIII · 1888-09-20",
+    "pt-BR": "Carta · Papa Leão XIII · 1888-09-20"
+  },
+  "composed": "1888",
+  "languages": [
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/letters/documents/hf_l-xiii_let_18880920_vos-probe-nostis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_18880920_vos-probe-nostis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Vi è noto",
+        "it": "Vi è noto"
+      }
+    }
+  ]
+}

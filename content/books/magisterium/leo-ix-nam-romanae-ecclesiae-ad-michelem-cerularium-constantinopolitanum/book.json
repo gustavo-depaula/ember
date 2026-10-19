@@ -1,0 +1,40 @@
+{
+  "id": "leo-ix-nam-romanae-ecclesiae-ad-michelem-cerularium-constantinopolitanum",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistola 'Nam Romanae Ecclesiae' ad Michelem Cerularium Constantinopolitanum"
+  },
+  "author": {
+    "en-US": "Pope Leo IX",
+    "pt-BR": "Papa Leão IX",
+    "la": "Leo PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Leo IX · 1049",
+    "pt-BR": "Carta · Papa Leão IX · 1049"
+  },
+  "composed": "1049",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "leo-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1049-1054,_SS_Leo_IX,_Epistola_'Nam_Romanae_Ecclesiae'_ad_Michelem_Cerularium_Constantinopolitanum,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola 'Nam Romanae Ecclesiae' ad Michelem Cerularium Constantinopolitanum"
+      }
+    }
+  ]
+}

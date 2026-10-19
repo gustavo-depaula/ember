@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-vescovi-chiesa-cattolica",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula missa ad universae catholicae Ecclesiae Episcopos, d. 31 m. Martii a. 1985, Ioannes Paulus PP. II",
+    "it": "Lettera a tutti i Vescovi della Chiesa Cattolica"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1985-03-31",
+    "pt-BR": "Carta · Papa João Paulo II · 1985-03-31"
+  },
+  "composed": "1985",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/letters/1985/documents/hf_jp-ii_let_19850331_vescovi-chiesa-cattolica.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1985/documents/hf_jp-ii_let_19850331_vescovi-chiesa-cattolica.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula missa ad universae catholicae Ecclesiae Episcopos, d. 31 m. Martii a. 1985, Ioannes Paulus PP. II",
+        "it": "Lettera a tutti i Vescovi della Chiesa Cattolica"
+      }
+    }
+  ]
+}

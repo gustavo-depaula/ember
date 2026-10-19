@@ -1,0 +1,96 @@
+{
+  "id": "john-paul-ii-misericordia-dei-20020407",
+  "cover": "quarter",
+  "name": {
+    "la": "Misericordia Dei",
+    "en-US": "Misericordia Dei",
+    "pt-BR": "Misericordia Dei",
+    "de": "Misericordia Dei",
+    "es": "Misericordia Dei",
+    "fr": "Misericordia Dei",
+    "it": "Misericordia Dei",
+    "pl": "Misericordia Dei"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 2002-04-07",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 2002-04-07"
+  },
+  "composed": "2002",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2002-04-07,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Misericordia_Dei',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2002-05-02,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Misericordia_Dei',_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/misericordia-dei-joao-paulo-ii-07-04-2002/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2002-05-02,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Misericordia_Dei',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2002-04-07,_SS_Ioannes_Paulus_II,_Conferencia_Nacional_de_Los_Obispos_de_Brasil,_ES.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2002-05-02,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Misericordia_Dei',_FR.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2002-04-07,_SS_Ioannes_Paulus_II,_Misericordia_Dei,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "pl",
+      "url": "http://www.documentacatholicaomnia.eu/01p/2002-05-02,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Misericordia_Dei',_PL.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Misericordia Dei",
+        "en-US": "Misericordia Dei",
+        "pt-BR": "Misericordia Dei",
+        "de": "Misericordia Dei",
+        "es": "Misericordia Dei",
+        "fr": "Misericordia Dei",
+        "it": "Misericordia Dei",
+        "pl": "Misericordia Dei"
+      }
+    }
+  ]
+}

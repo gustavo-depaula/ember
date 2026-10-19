@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-iuvenum-patris",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistula ad Aegidium Viganò, Rectorem Maiorem Societatis S. Francisci Salesii, post centum transactos annos ab obitu S. Ioannis Bosco d. 31 m. Ianuarii a. 1988, Ioannes Paulus PP. II",
+    "en-US": "Iuvenum Patris (31 gennaio 1988)",
+    "es": "Iuvenum Patris",
+    "it": "Iuvenum Patris"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1988-01-31",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1988-01-31"
+  },
+  "composed": "1988",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1988/documents/hf_jp-ii_apl_19880131_iuvenum-patris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1988-01-31,_SS_Ioannes_Paulus_II,_Iuvenum_Patris,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1988/documents/hf_jp-ii_apl_19880131_iuvenum-patris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1988/documents/hf_jp-ii_apl_19880131_iuvenum-patris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistula ad Aegidium Viganò, Rectorem Maiorem Societatis S. Francisci Salesii, post centum transactos annos ab obitu S. Ioannis Bosco d. 31 m. Ianuarii a. 1988, Ioannes Paulus PP. II",
+        "en-US": "Iuvenum Patris (31 gennaio 1988)",
+        "es": "Iuvenum Patris",
+        "it": "Iuvenum Patris"
+      }
+    }
+  ]
+}

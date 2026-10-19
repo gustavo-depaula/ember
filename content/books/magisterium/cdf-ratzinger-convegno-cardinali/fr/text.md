@@ -1,0 +1,23 @@
+# Congrès du collège cardinalice à l'occasion du XXV anniversaire du Pontificat
+
+[](/index.htm)
+
+[](javascript:history.go(-1)) [](javascript:up())
+
+**XXV ANNIVERSAIRE DU PONTIFICAT DE JEAN-PAUL II: CONGRÈS ORGANISÉ PAR LE COLLÈGE CARDINALICE **
+
+***INTERVENTION DE S.EM. LE CARD. JOSEPH RATZINGER***
+
+*Mercredi 15 octobre 2003*
+
+*Chers confrères!*
+
+Nous nous sommes réunis pour rendre grâce pour les 25 ans de Pontificat de notre vénéré et bien-aimé Saint-Père Jean-Paul II. Nous rendons grâce au Seigneur de nous avoir donné ce pasteur qui, à une époque marquée par la confusion et les dangers, nous confirme, nous ses frères, dans la foi (cf. *Lc* 22, 32). A un moment où de nombreuses personnes ne veulent plus suivre le Seigneur car sa Parole leur semble trop dure, Lui, avec les paroles de Pierre, nous dit à tous:  "Seigneur à qui irons-nous? Tu as les paroles de la vie éternelle. Nous, nous croyons, et nous avons reconnu que tu es le Saint de Dieu" (*Jn* 6, 68sq). Tout le pontificat de notre Saint-Père semble être une grande action accomplie pour rendre présentes et efficaces parmi nous ces paroles et cette décision. En conséquence, notre remerciement ne peut pas seulement s'adresser au passé. De la même façon que les autres onze apôtres reconnurent dans les paroles de Pierre l'expression de leur foi, en se mettant à nouveau avec lui à la suite du Christ, la parole du Saint-Père peut nous indiquer la route pour trouver, avec une joie renouvelée dans le Christ, les paroles de vie éternelle et le chemin qui conduit au salut.
+
+La première forme de notre engagement est la prière, l'action de grâce rendue à Dieu dans le saint sacrifice. Mais elle doit être accompagnée par l'écoute du message et la décision de se mettre en marche en compagnie de Jésus. C'est pourquoi nous avons pensé qu'une écoute renouvelée de certains éléments fondamentaux du message clairvoyant du Saint-Père puisse être une forme adaptée de remerciement. Bien sûr, la richesse du message que le Saint-Père nous a offert en ce quart de siècle fait en sorte qu'il est impossible de passer en revue, en deux jours, ne serait-ce qu'en le mentionnant, tout ce qu'il nous a donné en termes de doctrine et d'orientations pour agir. Il suffit de penser aux 14 Encycliques, qui commencent par un tryptique trinitaire et qui développent ensuite les grands thèmes de l'Église, de la mission, de la mariologie, du message social de la foi, du dialogue entre l'Église et le monde, entre la foi et la raison. Ilsuffit de penser aux Exhortations post-synodales issues des Synodes des Évêques comme témoignage de l'union du Collège épiscopal avec le Pape. Il suffit de rappeler les deux merveilleux documents doctrinaux écrits à la fin du millénaire, *[Tertio millennio adveniente](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_10111994_tertio-millennio-adveniente_fr.html)* et [*Novo* *millennio* *ineunte*](/holy_father/john_paul_ii/apost_letters/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte_fr.html). Nous pourrions poursuivre cette liste, en mentionnant les homélies prononcées à l'occasion des voyages apostoliques, etc. Dans le choix des thèmes, on a dû omettre de nombreux faits significatifs. D'autre part, ces journées peuvent être simplement une invitation à relire les grands textes de ce pontificat, et à les transformer, avec un nouvel élan, en action pastorale.
+
+Il ne me reste qu'à remercier les vénérés confrères du Collège cardinalice qui nous parleront, lors de six Conférences, des thèmes fondamentaux de ce Pontificat, ainsi que vous tous, qui êtes venus, souvent de loin, pour participer à notre action de grâce et à notre réflexion communes.
+
+Que le Seigneur veuille bénir ces journées!
+
+[](#top)

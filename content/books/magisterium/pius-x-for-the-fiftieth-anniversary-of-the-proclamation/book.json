@@ -1,0 +1,39 @@
+{
+  "id": "pius-x-for-the-fiftieth-anniversary-of-the-proclamation",
+  "cover": "quarter",
+  "name": {
+    "en-US": "FOR THE FIFTIETH ANNIVERSARY OF THE PROCLAMATION OF THE DOGMA OF THE IMMACULATE CONCEPTION"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X",
+    "pt-BR": "Documento · Papa Pio X"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10aniv.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "FOR THE FIFTIETH ANNIVERSARY OF THE PROCLAMATION OF THE DOGMA OF THE IMMACULATE CONCEPTION"
+      }
+    }
+  ]
+}

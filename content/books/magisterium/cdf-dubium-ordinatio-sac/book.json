@@ -1,0 +1,96 @@
+{
+  "id": "cdf-dubium-ordinatio-sac",
+  "cover": "quarter",
+  "name": {
+    "la": "Responsum ad dubium circa doctrinam in Epist. Ap.'Ordinatio Sacerdotalis' traditam, d. 28 m. Octobris a. 1995, Congregatio pro Doctrina Fidei",
+    "en-US": "Responsum ad propositum dubium concerning the teaching contained in “Ordinatio Sacerdotalis”",
+    "pt-BR": "Resposta à dúvida sobre a doutrina da Carta Apostólica Ordinatio Sacerdotalis, 28 de outubro de 1995",
+    "de": "Antwort auf den Zweifel bezüglich der im Apostolischen Schreiben Ordinatio Sacerdotalis vorgelegten Lehre, 28. Oktober 1995",
+    "es": "Respuesta a la duda propuesta sobre la doctrina de la Carta Apostólica Ordinatio sacerdotalis, 28 octubre 1995",
+    "fr": "Réponse à un doute sur la doctrine de la Lettre apostolique Ordinatio Sacerdotalis, 28 octobre 1995",
+    "it": "Risposta al dubbio circa la dottrina della Lettera Apostolica Ordinatio Sacerdotalis, 28 ottobre 1995",
+    "pl": "ODPOWIEDŹ NA WĄTPLIWOŚCI DOTYCZĄCE DOKTRYNY ZAWARTEJ W LIŚCIE APOSTOLSKIM ORDINATIO SACERDOTALIS, 28 października 1995 r."
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 1995-10-28",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 1995-10-28"
+  },
+  "composed": "1995",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pl"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19951028_dubium-ordinatio-sac_pl.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Responsum ad dubium circa doctrinam in Epist. Ap.'Ordinatio Sacerdotalis' traditam, d. 28 m. Octobris a. 1995, Congregatio pro Doctrina Fidei",
+        "en-US": "Responsum ad propositum dubium concerning the teaching contained in “Ordinatio Sacerdotalis”",
+        "pt-BR": "Resposta à dúvida sobre a doutrina da Carta Apostólica Ordinatio Sacerdotalis, 28 de outubro de 1995",
+        "de": "Antwort auf den Zweifel bezüglich der im Apostolischen Schreiben Ordinatio Sacerdotalis vorgelegten Lehre, 28. Oktober 1995",
+        "es": "Respuesta a la duda propuesta sobre la doctrina de la Carta Apostólica Ordinatio sacerdotalis, 28 octubre 1995",
+        "fr": "Réponse à un doute sur la doctrine de la Lettre apostolique Ordinatio Sacerdotalis, 28 octobre 1995",
+        "it": "Risposta al dubbio circa la dottrina della Lettera Apostolica Ordinatio Sacerdotalis, 28 ottobre 1995",
+        "pl": "ODPOWIEDŹ NA WĄTPLIWOŚCI DOTYCZĄCE DOKTRYNY ZAWARTEJ W LIŚCIE APOSTOLSKIM ORDINATIO SACERDOTALIS, 28 października 1995 r."
+      }
+    }
+  ]
+}

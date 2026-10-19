@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-memory-reconc-itc",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Memory and Reconciliation: the Church and the faults of the past 7 March 2000",
+    "pt-BR": "Memória e Reconciliação",
+    "cs": "Memory and Reconciliation: The Church and the Faults of the Past",
+    "de": "Erinnern und Versöhnen / Internationale Theologische Kommission",
+    "es": "Memoria y reconciliación. Comisión teológica internacional, 7 de marzo de 2000",
+    "fr": "Mémoire et réconciliation : L'Église et les fautes du passé",
+    "hu": "Emlékezet és kiengesztelődés: Az egyház és a múlt bűnei, 2000",
+    "it": "Memoria e riconciliazione: la Chiesa e le colpe del passato, 7 marzo 2000",
+    "ko": "Memoria e riconciliazione: la Chiesa e le colpe del passato",
+    "pl": "PAMIĘĆ I POJEDNANIE KOŚCIÓŁ I WINY PRZESZŁOŚCI - Międzynarodowa Komisja Teologiczna",
+    "ru": "ПАМЯТЬ И ПРИМИРЕНИЕ ЦЕРКОВЬ И ОШИБКИ ПРОШЛОГО, 2000"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 2000-03-07",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 2000-03-07"
+  },
+  "composed": "2000",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "ko",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_cs.pdf",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ko",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_ko.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20000307_memory-reconc-itc_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Memory and Reconciliation: the Church and the faults of the past 7 March 2000",
+        "pt-BR": "Memória e Reconciliação",
+        "cs": "Memory and Reconciliation: The Church and the Faults of the Past",
+        "de": "Erinnern und Versöhnen / Internationale Theologische Kommission",
+        "es": "Memoria y reconciliación. Comisión teológica internacional, 7 de marzo de 2000",
+        "fr": "Mémoire et réconciliation : L'Église et les fautes du passé",
+        "hu": "Emlékezet és kiengesztelődés: Az egyház és a múlt bűnei, 2000",
+        "it": "Memoria e riconciliazione: la Chiesa e le colpe del passato, 7 marzo 2000",
+        "ko": "Memoria e riconciliazione: la Chiesa e le colpe del passato",
+        "pl": "PAMIĘĆ I POJEDNANIE KOŚCIÓŁ I WINY PRZESZŁOŚCI - Międzynarodowa Komisja Teologiczna",
+        "ru": "ПАМЯТЬ И ПРИМИРЕНИЕ ЦЕРКОВЬ И ОШИБКИ ПРОШЛОГО, 2000"
+      }
+    }
+  ]
+}

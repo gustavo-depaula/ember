@@ -1,0 +1,40 @@
+{
+  "id": "innocent-i-ad-maximianum-episcopum-de-attico-constantinopolitano",
+  "cover": "quarter",
+  "name": {
+    "la": "Epistola ad Maximianum Episcopum de Attico Constantinopolitano"
+  },
+  "author": {
+    "en-US": "Pope Innocent I",
+    "pt-BR": "Papa Inocêncio I",
+    "la": "Innocentius PP. I"
+  },
+  "description": {
+    "en-US": "Letter · Pope Innocent I · 0401",
+    "pt-BR": "Carta · Papa Inocêncio I · 0401"
+  },
+  "composed": "401",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "innocent-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0401-0417,_SS_Innocentius_I,_Epistola_ad_Maximianum_Episcopum_de_Attico_Constantinopolitano,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Epistola ad Maximianum Episcopum de Attico Constantinopolitano"
+      }
+    }
+  ]
+}

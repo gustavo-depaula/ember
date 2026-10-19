@@ -1,0 +1,39 @@
+{
+  "id": "john-xxiii-on-promoting-devotion-to-the-most-precious",
+  "cover": "quarter",
+  "name": {
+    "en-US": "On Promoting Devotion to the Most Precious Blood"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Document · Pope John XXIII",
+    "pt-BR": "Documento · Papa João XXIII"
+  },
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/john23/j23pb.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "On Promoting Devotion to the Most Precious Blood"
+      }
+    }
+  ]
+}

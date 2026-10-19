@@ -1,0 +1,56 @@
+{
+  "id": "benedict-xiv-i-ubi-primum",
+  "cover": "quarter",
+  "name": {
+    "la": "Enciclica Ubi primum (3 dicembre 1740)",
+    "en-US": "UBI PRIMUM",
+    "it": "Enciclica Ubi primum"
+  },
+  "author": {
+    "en-US": "Pope Benedict XIV",
+    "pt-BR": "Papa Bento XIV",
+    "la": "Benedictus PP. XIV"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Benedict XIV · 1740-12-03",
+    "pt-BR": "Encíclica · Papa Bento XIV · 1740-12-03"
+  },
+  "composed": "1740",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "benedict-xiv"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1740-12-03,_SS_Benedictus_XIV,_Ubi_Primum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/ben14/b14ubiprl.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-ubi-primum--i---3-dicembre-1740--nell--8217-ambito-.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Enciclica Ubi primum (3 dicembre 1740)",
+        "en-US": "UBI PRIMUM",
+        "it": "Enciclica Ubi primum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pius-ii-domino-casparo-schlick",
+  "cover": "quarter",
+  "name": {
+    "la": "Domino Casparo Schlick"
+  },
+  "author": {
+    "en-US": "Pope Pius II",
+    "pt-BR": "Papa Pio II",
+    "la": "Pius PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius II · 1405",
+    "pt-BR": "Documento · Papa Pio II · 1405"
+  },
+  "composed": "1405",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1405-1464,_Piccolominus_Enea_[postea_Pius_II],_Domino_Casparo_Schlick,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Domino Casparo Schlick"
+      }
+    }
+  ]
+}

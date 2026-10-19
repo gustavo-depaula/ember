@@ -1,0 +1,80 @@
+{
+  "id": "leo-xiii-superiore-anno",
+  "cover": "quarter",
+  "name": {
+    "la": "Superiore anno",
+    "en-US": "Superiore Anno",
+    "pt-BR": "Superiore Anno: sobre o Rosário de Nossa Senhora",
+    "de": "Superiore\n Anno (August 30, 1884)",
+    "es": "Superiore Anno",
+    "it": "Superiore Anno"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1884-08-30",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1884-08-30"
+  },
+  "composed": "1884",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1884-08-30,_SS_Leo_XIII,_Encyclica_'Superiore_Anno',_GE.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/leo-xiii/es/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_30081884_superiore-anno.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Superiore anno",
+        "en-US": "Superiore Anno",
+        "pt-BR": "Superiore Anno: sobre o Rosário de Nossa Senhora",
+        "de": "Superiore\n Anno (August 30, 1884)",
+        "es": "Superiore Anno",
+        "it": "Superiore Anno"
+      }
+    }
+  ]
+}

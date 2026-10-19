@@ -1,0 +1,40 @@
+{
+  "id": "pius-xii-felici-sviluppi",
+  "cover": "quarter",
+  "name": {
+    "it": "I felici sviluppi - All'Episcopato d'Italia a favore della diffusione dell' «Azione Cattolica Italiana»"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Pius XII · 1950-01-25",
+    "pt-BR": "Exortação Apostólica · Papa Pio XII · 1950-01-25"
+  },
+  "composed": "1950",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/apost_exhortations/documents/hf_p-xii_exh_19500125_felici-sviluppi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "I felici sviluppi - All'Episcopato d'Italia a favore della diffusione dell' «Azione Cattolica Italiana»"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-afflictas-in-hispania",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Afflictas in Hispania"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Gregory XVI · 1841-03-01",
+    "pt-BR": "Alocução · Papa Gregório XVI · 1841-03-01"
+  },
+  "composed": "1841",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/allocuzione-afflictas-in-hispania-1-marzo-1841.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Afflictas in Hispania"
+      }
+    }
+  ]
+}

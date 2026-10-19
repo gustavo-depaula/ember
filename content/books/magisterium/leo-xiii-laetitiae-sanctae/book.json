@@ -1,0 +1,64 @@
+{
+  "id": "leo-xiii-laetitiae-sanctae",
+  "cover": "quarter",
+  "name": {
+    "la": "Laetitiae sanctae",
+    "en-US": "Laetitiae Sanctae",
+    "pt-BR": "Laetitiae Sanctae: sobre o Rosário de Nossa Senhora",
+    "it": "Laetitiae sanctae"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Leo XIII · 1893-09-08",
+    "pt-BR": "Encíclica · Papa Leão XIII · 1893-09-08"
+  },
+  "composed": "1893",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/leo-xiii/pt/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/encyclicals/documents/hf_l-xiii_enc_08091893_laetitiae-sanctae.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Laetitiae sanctae",
+        "en-US": "Laetitiae Sanctae",
+        "pt-BR": "Laetitiae Sanctae: sobre o Rosário de Nossa Senhora",
+        "it": "Laetitiae sanctae"
+      }
+    }
+  ]
+}

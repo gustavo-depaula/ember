@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-teologia-cristologia-antropologia",
+  "cover": "quarter",
+  "name": {
+    "la": "Theologia - christologia - anthropologia, Commissio Theologica Internazionalis",
+    "en-US": "Theology, Christology, Anthropology",
+    "pt-BR": "Teologia, cristologia, antropologia",
+    "cs": "Teologie – Christologie – Antropologie, 1982",
+    "de": "Theologie, Christologie, Anthropologie",
+    "es": "Teología-Cristología-Antropología 1982",
+    "fr": "Théologie - christologie - anthropologie, 1982",
+    "hu": "Nemzetközi Teológiai Bizottság, Teológia – Krisztológia – Antropológia",
+    "it": "Teologia - cristologia - antropologia, 1982",
+    "pl": "TEOLOGIA, CHRYSTOLOGIA, ANTROPOLOGIA - 1981",
+    "ru": "МЕЖДУНАРОДНАЯ БОГОСЛОВСКАЯ КОМИССИЯ ТЕОЛОГИЯ, ХРИСТОЛОГИЯ, АНТРОПОЛОГИЯ"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1982",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1982"
+  },
+  "composed": "1982",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "cs",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "cs",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_cs.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1982_teologia-cristologia-antropologia_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Theologia - christologia - anthropologia, Commissio Theologica Internazionalis",
+        "en-US": "Theology, Christology, Anthropology",
+        "pt-BR": "Teologia, cristologia, antropologia",
+        "cs": "Teologie – Christologie – Antropologie, 1982",
+        "de": "Theologie, Christologie, Anthropologie",
+        "es": "Teología-Cristología-Antropología 1982",
+        "fr": "Théologie - christologie - anthropologie, 1982",
+        "hu": "Nemzetközi Teológiai Bizottság, Teológia – Krisztológia – Antropológia",
+        "it": "Teologia - cristologia - antropologia, 1982",
+        "pl": "TEOLOGIA, CHRYSTOLOGIA, ANTROPOLOGIA - 1981",
+        "ru": "МЕЖДУНАРОДНАЯ БОГОСЛОВСКАЯ КОМИССИЯ ТЕОЛОГИЯ, ХРИСТОЛОГИЯ, АНТРОПОЛОГИЯ"
+      }
+    }
+  ]
+}

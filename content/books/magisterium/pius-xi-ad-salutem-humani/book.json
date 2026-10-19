@@ -1,0 +1,56 @@
+{
+  "id": "pius-xi-ad-salutem-humani",
+  "cover": "quarter",
+  "name": {
+    "la": "Ad salutem humani, Litterae Encyclica, De Sancto Augustino Episcopo Hipponensi et Ecclesiae doctore, millesimo et quingentesimo ab eius obitu exeunte anno, d. 20 m. Aprilis a. 1930, Pius PP. XI",
+    "en-US": "Ad Salutem",
+    "it": "Ad Salutem Humani"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1930-04-20",
+    "pt-BR": "Encíclica · Papa Pio XI · 1930-04-20"
+  },
+  "composed": "1930",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19300420_ad-salutem-humani.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius11/p11salut.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19300420_ad-salutem-humani.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ad salutem humani, Litterae Encyclica, De Sancto Augustino Episcopo Hipponensi et Ecclesiae doctore, millesimo et quingentesimo ab eius obitu exeunte anno, d. 20 m. Aprilis a. 1930, Pius PP. XI",
+        "en-US": "Ad Salutem",
+        "it": "Ad Salutem Humani"
+      }
+    }
+  ]
+}

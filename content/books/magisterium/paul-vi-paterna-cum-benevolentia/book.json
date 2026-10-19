@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-paterna-cum-benevolentia",
+  "cover": "quarter",
+  "name": {
+    "la": "PAterna cum benevolentia",
+    "it": "Paterna cum benevolentia"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Exhortation · Pope Paul VI · 1974-12-08",
+    "pt-BR": "Exortação Apostólica · Papa Paulo VI · 1974-12-08"
+  },
+  "composed": "1974",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-exhortation",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/apost_exhortations/documents/hf_p-vi_exh_19741208_paterna-cum-benevolentia.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_exhortations/documents/hf_p-vi_exh_19741208_paterna-cum-benevolentia.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "PAterna cum benevolentia",
+        "it": "Paterna cum benevolentia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ii-pope-commends-boniface-to-charles-martel",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Pope Commends Boniface To Charles Martel"
+  },
+  "author": {
+    "en-US": "Pope Gregory II",
+    "pt-BR": "Papa Gregório II",
+    "la": "Gregorius PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory II · 0722-12-15",
+    "pt-BR": "Documento · Papa Gregório II · 0722-12-15"
+  },
+  "composed": "722",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0722-12-15,_SS_Gregorius_II,_Pope_Commends_Boniface_To_Charles_Martel,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Pope Commends Boniface To Charles Martel"
+      }
+    }
+  ]
+}

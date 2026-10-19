@@ -1,0 +1,48 @@
+{
+  "id": "benedict-xv-dopo-ultimi",
+  "cover": "quarter",
+  "name": {
+    "fr": "Lettre Dopo gli ultimi à S.E. le Cardinal Pietro Gasparri, à l'occasion de la signature de l’armistice entre l'Italie et l'Autriche",
+    "it": "Epistola Dopo gli ultimi al Cardinale Pietro Gasparri, in occasione della firma dell’armistizio fra Italia ed Austria"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1918-11-08",
+    "pt-BR": "Carta · Papa Bento XV · 1918-11-08"
+  },
+  "composed": "1918",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xv/fr/letters/1918/documents/hf_ben-xv_let_19181108_dopo-ultimi.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1918/documents/hf_ben-xv_let_19181108_dopo-ultimi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Lettre Dopo gli ultimi à S.E. le Cardinal Pietro Gasparri, à l'occasion de la signature de l’armistice entre l'Italie et l'Autriche",
+        "it": "Epistola Dopo gli ultimi al Cardinale Pietro Gasparri, in occasione della firma dell’armistizio fra Italia ed Austria"
+      }
+    }
+  ]
+}

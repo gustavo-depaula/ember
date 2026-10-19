@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-juan-de-la-cruz",
+  "cover": "quarter",
+  "name": {
+    "la": "Lettera Apostolica Maestro della Fede nel IV centenario della morte di San Giovanni della Croce (14 dicembre 1990)",
+    "es": "Carta Apostólica Maestro en la fe con ocasión del IV centenario de la muerte de san Juan de la Cruz",
+    "fr": "Lettre apostolique pour le IVe centenaire de la mort de saint Jean de la Croix",
+    "it": "Lettera Apostolica Maestro della Fede nel IV centenario della morte di San Giovanni della Croce"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope John Paul II · 1990-12-14",
+    "pt-BR": "Carta Apostólica · Papa João Paulo II · 1990-12-14"
+  },
+  "composed": "1990",
+  "languages": [
+    "la",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1990-12-14,_SS_Ioannes_Paulus_II,_Littera_'Si_Quidem_Cunctis',_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1990/documents/hf_jp-ii_apl_19901214_juan-de-la-cruz.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1990/documents/hf_jp-ii_apl_19901214_juan-de-la-cruz.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1990/documents/hf_jp-ii_apl_19901214_juan-de-la-cruz.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Lettera Apostolica Maestro della Fede nel IV centenario della morte di San Giovanni della Croce (14 dicembre 1990)",
+        "es": "Carta Apostólica Maestro en la fe con ocasión del IV centenario de la muerte de san Juan de la Cruz",
+        "fr": "Lettre apostolique pour le IVe centenaire de la mort de saint Jean de la Croix",
+        "it": "Lettera Apostolica Maestro della Fede nel IV centenario della morte di San Giovanni della Croce"
+      }
+    }
+  ]
+}

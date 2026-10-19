@@ -1,0 +1,88 @@
+{
+  "id": "john-xxiii-boni-pastoris",
+  "cover": "quarter",
+  "name": {
+    "la": "Boni Pastoris, Litterae Apostolicae Motu proprio datae Pontificium Consilium rei cinematographicae, radiophonicae et televisificae praepositum novis legibus constituitur, XXII Februarii MCMLIX, Ioannes XXIII",
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" Boni Pastoris establishing the Pontifical Commission for Motion Pictures, Radio and Television",
+    "pt-BR": "Motu Proprio Boni Pastoris, que institui a Pontifícia Comissão para a Cinematografia, a Rádio e a Televisão como Organismos da Santa Sé",
+    "de": "Apostolisches Schreiben \"Motu Proprio\" Boni Pastoris",
+    "es": "Carta Apostólica Motu proprio Boni Pastoris",
+    "fr": "Lettre Apostolique \"Motu Proprio\" Boni Pastoris",
+    "it": "Lettera Apostolica «Motu proprio» Boni Pastoris che erige la Pontificia Commissione per la Cinematografia, la Radio e la Televisione come stabile Ufficio della Santa Sede"
+  },
+  "author": {
+    "en-US": "Pope John XXIII",
+    "pt-BR": "Papa João XXIII",
+    "la": "Ioannes PP. XXIII"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John XXIII · 1959-02-22",
+    "pt-BR": "Motu Proprio · Papa João XXIII · 1959-02-22"
+  },
+  "composed": "1959",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-xxiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-xxiii/la/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-xxiii/en/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-xxiii/pt/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-xxiii/de/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-xxiii/es/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-xxiii/fr/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-xxiii/it/motu_proprio/documents/hf_j-xxiii_motu-proprio_22021959_boni-pastoris.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Boni Pastoris, Litterae Apostolicae Motu proprio datae Pontificium Consilium rei cinematographicae, radiophonicae et televisificae praepositum novis legibus constituitur, XXII Februarii MCMLIX, Ioannes XXIII",
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" Boni Pastoris establishing the Pontifical Commission for Motion Pictures, Radio and Television",
+        "pt-BR": "Motu Proprio Boni Pastoris, que institui a Pontifícia Comissão para a Cinematografia, a Rádio e a Televisão como Organismos da Santa Sé",
+        "de": "Apostolisches Schreiben \"Motu Proprio\" Boni Pastoris",
+        "es": "Carta Apostólica Motu proprio Boni Pastoris",
+        "fr": "Lettre Apostolique \"Motu Proprio\" Boni Pastoris",
+        "it": "Lettera Apostolica «Motu proprio» Boni Pastoris che erige la Pontificia Commissione per la Cinematografia, la Radio e la Televisione come stabile Ufficio della Santa Sede"
+      }
+    }
+  ]
+}

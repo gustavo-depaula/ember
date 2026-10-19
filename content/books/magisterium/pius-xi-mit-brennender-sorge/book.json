@@ -1,0 +1,64 @@
+{
+  "id": "pius-xi-mit-brennender-sorge",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Mit Brennender Sorge",
+    "de": "PIUS XI. Enzyklika „Mit brennender Sorge“",
+    "es": "Mit Brennender Sorge",
+    "it": "Mit Brennender Sorge"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XI · 1937-03-14",
+    "pt-BR": "Encíclica · Papa Pio XI · 1937-03-14"
+  },
+  "composed": "1937",
+  "languages": [
+    "en-US",
+    "de",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/pius-xi/de/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Mit Brennender Sorge",
+        "de": "PIUS XI. Enzyklika „Mit brennender Sorge“",
+        "es": "Mit Brennender Sorge",
+        "it": "Mit Brennender Sorge"
+      }
+    }
+  ]
+}

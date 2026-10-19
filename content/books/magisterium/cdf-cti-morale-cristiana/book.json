@@ -1,0 +1,112 @@
+{
+  "id": "cdf-cti-morale-cristiana",
+  "cover": "quarter",
+  "name": {
+    "la": "De ethica christiana et eius normis, 1974",
+    "en-US": "Theses in Christian Ethics, 1974",
+    "pt-BR": "A moral cristã e suas normas",
+    "de": "Die christliche Moral und ihre Normen, 1974",
+    "es": "La moral cristiana y sus normas, 1974",
+    "fr": "La morale chrétienne et ses normes, 1974",
+    "hu": "Nemzetközi Teológiai Bizottság, A keresztény erkölcs és normái",
+    "it": "La morale cristiana e le sue norme, 1974",
+    "pl": "MORALNOŚĆ CHRZEŚCIJAŃSKA I JEJ NORMY, 1974",
+    "ru": "НОРМЫ ХРИСТИАНСКОЙ НРАВСТВЕННОСТИ"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1974",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1974"
+  },
+  "composed": "1974",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1974_morale-cristiana_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "De ethica christiana et eius normis, 1974",
+        "en-US": "Theses in Christian Ethics, 1974",
+        "pt-BR": "A moral cristã e suas normas",
+        "de": "Die christliche Moral und ihre Normen, 1974",
+        "es": "La moral cristiana y sus normas, 1974",
+        "fr": "La morale chrétienne et ses normes, 1974",
+        "hu": "Nemzetközi Teológiai Bizottság, A keresztény erkölcs és normái",
+        "it": "La morale cristiana e le sue norme, 1974",
+        "pl": "MORALNOŚĆ CHRZEŚCIJAŃSKA I JEJ NORMY, 1974",
+        "ru": "НОРМЫ ХРИСТИАНСКОЙ НРАВСТВЕННОСТИ"
+      }
+    }
+  ]
+}

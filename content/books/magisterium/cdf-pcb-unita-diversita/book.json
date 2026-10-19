@@ -1,0 +1,48 @@
+{
+  "id": "cdf-pcb-unita-diversita",
+  "cover": "quarter",
+  "name": {
+    "fr": "Unité et Diversité dans l'Église",
+    "it": "Unità e diversità nella chiesa - Pontificia Commissione Biblica"
+  },
+  "author": {
+    "en-US": "Pontifical Biblical Commission",
+    "pt-BR": "Pontifícia Comissão Bíblica",
+    "la": "Pontificia Commissio Biblica"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Pontifical Biblical Commission · 1988-04-11",
+    "pt-BR": "Documento da Cúria Romana · Pontifícia Comissão Bíblica · 1988-04-11"
+  },
+  "composed": "1988",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-pcb"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19880411_unita-diversita_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19880411_unita-diversita_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Unité et Diversité dans l'Église",
+        "it": "Unità e diversità nella chiesa - Pontificia Commissione Biblica"
+      }
+    }
+  ]
+}

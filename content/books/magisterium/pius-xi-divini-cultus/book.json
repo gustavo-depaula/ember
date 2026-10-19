@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-divini-cultus",
+  "cover": "quarter",
+  "name": {
+    "la": "Divini Cultus (20 dicembre 1928)",
+    "it": "Divini Cultus"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Bull · Pope Pius XI · 1928-12-20",
+    "pt-BR": "Bula · Papa Pio XI · 1928-12-20"
+  },
+  "composed": "1928",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1928-12-20,_SS_Pius_XI,_Constitutio._Divini_Cultus_Sanctitatem,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/bulls/documents/hf_p-xi_bulls_19281220_divini-cultus.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Divini Cultus (20 dicembre 1928)",
+        "it": "Divini Cultus"
+      }
+    }
+  ]
+}

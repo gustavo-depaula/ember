@@ -1,0 +1,120 @@
+{
+  "id": "cdf-cti-successione-apostolica",
+  "cover": "quarter",
+  "name": {
+    "la": "DE APOSTOLICITATE ECCLESIAE ET DE SUCCESSIONE APOSTOLICA, 1973",
+    "en-US": "Catholic Teaching on Apostolic Succession, 1973",
+    "pt-BR": "A apostolicidade da Igreja e a sucessão apostólica",
+    "ar": "Catholic Teaching on Apostolic Succession",
+    "de": "Der Apostolische Charakter der Kirche und die apostolische Sukzession, 1973",
+    "es": "La apostolicidad de la Iglesia y la sucesión apostólica, 1973",
+    "fr": "L'apostolicité de l'Église et la succession apostolique, 1973",
+    "hu": "Az egyház apostolisága és az apostoli jogfolytonosság, 1973 - Nemzetközi Teológiai Bizottság",
+    "it": "L'apostolicità della Chiesa e la successione apostolica, 1973",
+    "pl": "APOSTOLSKOŚĆ KOŚCIOŁA I SUKCESJA APOSTOLSKA, 1973",
+    "ru": "АПОСТОЛИЧНОСТЬ ЦЕРКВИ И АПОСТОЛЬСКОЕ ПРЕЕМСТВО"
+  },
+  "author": {
+    "en-US": "International Theological Commission",
+    "pt-BR": "Comissão Teológica Internacional",
+    "la": "Commissio Theologica Internationalis"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · International Theological Commission · 1973",
+    "pt-BR": "Documento da Cúria Romana · Comissão Teológica Internacional · 1973"
+  },
+  "composed": "1973",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "ar",
+    "de",
+    "es",
+    "fr",
+    "hu",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf-cti"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_lt.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ar",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_ar.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_ge.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "hu",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_hu.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_it.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pl",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_pl.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "ru",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_cti_1973_successione-apostolica_ru.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "DE APOSTOLICITATE ECCLESIAE ET DE SUCCESSIONE APOSTOLICA, 1973",
+        "en-US": "Catholic Teaching on Apostolic Succession, 1973",
+        "pt-BR": "A apostolicidade da Igreja e a sucessão apostólica",
+        "ar": "Catholic Teaching on Apostolic Succession",
+        "de": "Der Apostolische Charakter der Kirche und die apostolische Sukzession, 1973",
+        "es": "La apostolicidad de la Iglesia y la sucesión apostólica, 1973",
+        "fr": "L'apostolicité de l'Église et la succession apostolique, 1973",
+        "hu": "Az egyház apostolisága és az apostoli jogfolytonosság, 1973 - Nemzetközi Teológiai Bizottság",
+        "it": "L'apostolicità della Chiesa e la successione apostolica, 1973",
+        "pl": "APOSTOLSKOŚĆ KOŚCIOŁA I SUKCESJA APOSTOLSKA, 1973",
+        "ru": "АПОСТОЛИЧНОСТЬ ЦЕРКВИ И АПОСТОЛЬСКОЕ ПРЕЕМСТВО"
+      }
+    }
+  ]
+}

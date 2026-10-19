@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-felix-nazarethana",
+  "cover": "quarter",
+  "name": {
+    "la": "Felix Nazarethana",
+    "it": "Felix Nazarethana"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Brief · Pope Leo XIII · 1894-01-23",
+    "pt-BR": "Breve · Papa Leão XIII · 1894-01-23"
+  },
+  "composed": "1894",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/briefs/documents/hf_l-xiii_brief_18940123_felix-nazarethana.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/briefs/documents/hf_l-xiii_brief_18940123_felix-nazarethana.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Felix Nazarethana",
+        "it": "Felix Nazarethana"
+      }
+    }
+  ]
+}

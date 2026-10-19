@@ -1,0 +1,40 @@
+{
+  "id": "gregory-xvi-universi-dominici-nashville",
+  "cover": "quarter",
+  "name": {
+    "it": "Breve Universi Dominici Nashville"
+  },
+  "author": {
+    "en-US": "Pope Gregory XVI",
+    "pt-BR": "Papa Gregório XVI",
+    "la": "Gregorius PP. XVI"
+  },
+  "description": {
+    "en-US": "Brief · Pope Gregory XVI · 1937-07-28",
+    "pt-BR": "Breve · Papa Gregório XVI · 1937-07-28"
+  },
+  "composed": "1937",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "gregory-xvi"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/breve-universi-dominici-nashville-28-luglio-1937.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Breve Universi Dominici Nashville"
+      }
+    }
+  ]
+}

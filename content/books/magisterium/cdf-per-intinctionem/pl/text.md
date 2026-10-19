@@ -1,0 +1,3 @@
+# ODPOWIEDŹ NA PRZEDŁOŻONE WĄTPLIWOŚCI, 24 września 1983 r.
+
+[TABLE]

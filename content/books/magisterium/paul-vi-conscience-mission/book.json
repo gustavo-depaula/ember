@@ -1,0 +1,56 @@
+{
+  "id": "paul-vi-conscience-mission",
+  "cover": "quarter",
+  "name": {
+    "la": "La conscience de la mission con la quale viene nuovamente ammonito Monsignor Lefebvre (8 settembre 1975)",
+    "fr": "La conscience de la mission",
+    "it": "La conscience de la mission con la quale viene nuovamente ammonito Monsignor Lefebvre"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Paul VI · 1975-09-08",
+    "pt-BR": "Carta Apostólica · Papa Paulo VI · 1975-09-08"
+  },
+  "composed": "1975",
+  "languages": [
+    "la",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1975-09-08,_SS_Paulus_VI,_Epistola_'Fratri_Arturo_Elchinger',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/paul-vi/fr/apost_letters/documents/hf_p-vi_apl_19750908_conscience-mission.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19750908_conscience-mission.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "La conscience de la mission con la quale viene nuovamente ammonito Monsignor Lefebvre (8 settembre 1975)",
+        "fr": "La conscience de la mission",
+        "it": "La conscience de la mission con la quale viene nuovamente ammonito Monsignor Lefebvre"
+      }
+    }
+  ]
+}

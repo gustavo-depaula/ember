@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-boyd-of-merton",
+  "cover": "quarter",
+  "name": {
+    "la": "Letter to the President of the «Save the Children Fund» (April 30, 1969)",
+    "en-US": "Letter to the President of the «Save the Children Fund»"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Paul VI · 1969-04-30",
+    "pt-BR": "Carta · Papa Paulo VI · 1969-04-30"
+  },
+  "composed": "1969",
+  "languages": [
+    "la",
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1969-04-30,_SS_Paulus_VI,_Oratio_'Quos_Primum._Postquam',_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/paul-vi/en/letters/1969/documents/hf_p-vi_let_19690430_boyd-of-merton.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Letter to the President of the «Save the Children Fund» (April 30, 1969)",
+        "en-US": "Letter to the President of the «Save the Children Fund»"
+      }
+    }
+  ]
+}

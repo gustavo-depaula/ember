@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ix-ad-bucardum-et-theodoricum",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae ad Bucardum et Theodoricum"
+  },
+  "author": {
+    "en-US": "Pope Gregory IX",
+    "pt-BR": "Papa Gregório IX",
+    "la": "Gregorius PP. IX"
+  },
+  "description": {
+    "en-US": "Letter · Pope Gregory IX · 1227",
+    "pt-BR": "Carta · Papa Gregório IX · 1227"
+  },
+  "composed": "1227",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "gregory-ix"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1227-1241,_SS_Gregorius_VIIII,_Litterae_ad_Bucardum_et_Theodoricum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae ad Bucardum et Theodoricum"
+      }
+    }
+  ]
+}

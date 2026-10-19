@@ -1,0 +1,80 @@
+{
+  "id": "benedict-xvi-ministrorum-institutio",
+  "cover": "quarter",
+  "name": {
+    "la": "Ministrorum institutio, die XVI m. Ianuarii, A.D. MMXIII - Benedictus XVI, Motu proprio",
+    "en-US": "Apostolic Letter issued \"Motu Proprio\" “Ministrorum Institutio” whereby the Apostolic Constitution Pastor Bonus is modified and responsibility for seminaries is transferred from the Congregation for Catholic Education to the Congregation for the Clergy",
+    "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Ministrorum institutio com a qual é modificada a Constituição Apostólica Pastor bonus e se transfere a competência sobre os seminários da \"Congregação para a Educação Católica\" à \"Congregação para o Clero\"",
+    "es": "Carta Apostólica en forma de Motu proprio Ministrorum institutio con la que se modifica la Constitución apostólica Pastor bonus y se trasfiere la competencia sobre los seminarios de la Congregación para la educación católica a la Congregación para el clero",
+    "fr": "Lettre apostolique en forme de « Motu Proprio » Ministrorum institutio modifiant la Constitution apostolique Pastor Bonus et transférant la compétence sur les séminaires de la Congrégation pour l’éducation catholique à la Congrégation pour le clergé",
+    "it": "Lettera Apostolica in forma di \"Motu Proprio\" Ministrorum institutio con la quale è modificata la Costituzione apostolica Pastor bonus e si trasferisce la competenza sui seminari dalla “Congregazione per l’Educazione Cattolica” alla “Congregazione per il Clero”"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2013-01-16",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2013-01-16"
+  },
+  "composed": "2013",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/benedict-xvi/la/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/benedict-xvi/es/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/benedict-xvi/fr/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Ministrorum institutio, die XVI m. Ianuarii, A.D. MMXIII - Benedictus XVI, Motu proprio",
+        "en-US": "Apostolic Letter issued \"Motu Proprio\" “Ministrorum Institutio” whereby the Apostolic Constitution Pastor Bonus is modified and responsibility for seminaries is transferred from the Congregation for Catholic Education to the Congregation for the Clergy",
+        "pt-BR": "Carta Apostólica sob forma de \"Motu Proprio\" Ministrorum institutio com a qual é modificada a Constituição Apostólica Pastor bonus e se transfere a competência sobre os seminários da \"Congregação para a Educação Católica\" à \"Congregação para o Clero\"",
+        "es": "Carta Apostólica en forma de Motu proprio Ministrorum institutio con la que se modifica la Constitución apostólica Pastor bonus y se trasfiere la competencia sobre los seminarios de la Congregación para la educación católica a la Congregación para el clero",
+        "fr": "Lettre apostolique en forme de « Motu Proprio » Ministrorum institutio modifiant la Constitution apostolique Pastor Bonus et transférant la compétence sur les séminaires de la Congrégation pour l’éducation catholique à la Congrégation pour le clergé",
+        "it": "Lettera Apostolica in forma di \"Motu Proprio\" Ministrorum institutio con la quale è modificata la Costituzione apostolica Pastor bonus e si trasferisce la competenza sui seminari dalla “Congregazione per l’Educazione Cattolica” alla “Congregazione per il Clero”"
+      }
+    }
+  ]
+}

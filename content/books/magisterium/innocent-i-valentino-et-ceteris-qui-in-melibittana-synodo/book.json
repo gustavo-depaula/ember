@@ -1,0 +1,40 @@
+{
+  "id": "innocent-i-valentino-et-ceteris-qui-in-melibittana-synodo",
+  "cover": "quarter",
+  "name": {
+    "la": "Valentino et Ceteris. Qui in Melibittana Synodo Interfuerunt"
+  },
+  "author": {
+    "en-US": "Pope Innocent I",
+    "pt-BR": "Papa Inocêncio I",
+    "la": "Innocentius PP. I"
+  },
+  "description": {
+    "en-US": "Document · Pope Innocent I · 0401",
+    "pt-BR": "Documento · Papa Inocêncio I · 0401"
+  },
+  "composed": "401",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "innocent-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0401-0417,_SS_Innocentius_I,_Valentino_et_Ceteris._Qui_in_Melibittana_Synodo_Interfuerunt,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Valentino et Ceteris. Qui in Melibittana Synodo Interfuerunt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "pius-xi-acc-nobili-ecclesiastici",
+  "cover": "quarter",
+  "name": {
+    "fr": "Chirographe au Cardinal Eugenio Pacelli, nommant le Cardinal Secrétaire d'État pro tempore Protecteur de l'Académie pontificale des Nobles ecclésiastiques",
+    "it": "Chirografo al Cardinale Eugenio Pacelli, affidando al Cardinale Segretario di Stato pro tempore la Protettoria della Pontificia Accademia dei Nobili ecclesiastici"
+  },
+  "author": {
+    "en-US": "Pope Pius XI",
+    "pt-BR": "Papa Pio XI",
+    "la": "Pius PP. XI"
+  },
+  "description": {
+    "en-US": "Letter · Pope Pius XI · 1937-09-08",
+    "pt-BR": "Carta · Papa Pio XI · 1937-09-08"
+  },
+  "composed": "1937",
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "pius-xi"
+  ],
+  "sources": [
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/pius-xi/fr/letters/documents/hf_p-xi_lett_19370908_acc-nobili-ecclesiastici.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xi/it/letters/documents/hf_p-xi_lett_19370908_acc-nobili-ecclesiastici.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "fr": "Chirographe au Cardinal Eugenio Pacelli, nommant le Cardinal Secrétaire d'État pro tempore Protecteur de l'Académie pontificale des Nobles ecclésiastiques",
+        "it": "Chirografo al Cardinale Eugenio Pacelli, affidando al Cardinale Segretario di Stato pro tempore la Protettoria della Pontificia Accademia dei Nobili ecclesiastici"
+      }
+    }
+  ]
+}

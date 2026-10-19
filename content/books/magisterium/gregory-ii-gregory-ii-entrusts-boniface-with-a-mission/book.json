@@ -1,0 +1,40 @@
+{
+  "id": "gregory-ii-gregory-ii-entrusts-boniface-with-a-mission",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Gregory II Entrusts Boniface With A Mission To The Heathens"
+  },
+  "author": {
+    "en-US": "Pope Gregory II",
+    "pt-BR": "Papa Gregório II",
+    "la": "Gregorius PP. II"
+  },
+  "description": {
+    "en-US": "Document · Pope Gregory II · 0719-05-15",
+    "pt-BR": "Documento · Papa Gregório II · 0719-05-15"
+  },
+  "composed": "719",
+  "languages": [
+    "en-US"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "gregory-ii"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0719-05-15,_SS_Gregorius_II,_Gregory_II_Entrusts_Boniface_With_A_Mission_To_The_Heathens,_EN.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Gregory II Entrusts Boniface With A Mission To The Heathens"
+      }
+    }
+  ]
+}

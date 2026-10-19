@@ -1,0 +1,72 @@
+{
+  "id": "john-paul-ii-dolentium-hominum",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae motu proprio datae Dolentium hominum",
+    "en-US": "Dolentium Hominum",
+    "es": "Dolentium Hominum, institución de la Pontificia Comisión para la Pastoral de los agentes sanitarios",
+    "fr": "Dolentium Hominum",
+    "it": "Dolentium Hominum"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1985-02-11",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1985-02-11"
+  },
+  "composed": "1985",
+  "languages": [
+    "la",
+    "en-US",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_11021985_dolentium-hominum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_11021985_dolentium-hominum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_11021985_dolentium-hominum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/motu_proprio/documents/hf_jp-ii_motu-proprio_11021985_dolentium-hominum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_11021985_dolentium-hominum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae motu proprio datae Dolentium hominum",
+        "en-US": "Dolentium Hominum",
+        "es": "Dolentium Hominum, institución de la Pontificia Comisión para la Pastoral de los agentes sanitarios",
+        "fr": "Dolentium Hominum",
+        "it": "Dolentium Hominum"
+      }
+    }
+  ]
+}

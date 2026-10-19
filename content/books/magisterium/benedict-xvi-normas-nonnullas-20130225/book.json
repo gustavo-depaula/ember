@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xvi-normas-nonnullas-20130225",
+  "cover": "quarter",
+  "name": {
+    "pt-BR": "Normas nonnullas"
+  },
+  "author": {
+    "en-US": "Pope Benedict XVI",
+    "pt-BR": "Papa Bento XVI",
+    "la": "Benedictus PP. XVI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Benedict XVI · 2013-02-25",
+    "pt-BR": "Motu Proprio · Papa Bento XVI · 2013-02-25"
+  },
+  "composed": "2013",
+  "languages": [
+    "pt-BR"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "benedict-xvi"
+  ],
+  "sources": [
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/normas-nonnullas-bento-xvi-25-02-2013/",
+      "description": "Text as published at www.veritatis.com.br."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "pt-BR": "Normas nonnullas"
+      }
+    }
+  ]
+}

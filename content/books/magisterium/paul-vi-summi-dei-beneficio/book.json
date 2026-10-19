@@ -1,0 +1,48 @@
+{
+  "id": "paul-vi-summi-dei-beneficio",
+  "cover": "quarter",
+  "name": {
+    "la": "Summi Dei Beneficio - Iubilaeum extraordinarium, Constitutione Apostolica «Mirificus eventus» indictum, prorogatur, Litterae Apostolicae Motu Proprio datae, Die 3 m. Maii, A.D. 1966, Paulus PP.VI",
+    "it": "Summi Dei beneficio - Lettera Apostolica in forma di Motu Proprio con la quale viene prorogato il Giubileo straordinario promulgato con la Costituzione apostolica «Mirificus eventus», 3 maggio 1966"
+  },
+  "author": {
+    "en-US": "Pope Paul VI",
+    "pt-BR": "Papa Paulo VI",
+    "la": "Paulus PP. VI"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope Paul VI · 1966-05-03",
+    "pt-BR": "Motu Proprio · Papa Paulo VI · 1966-05-03"
+  },
+  "composed": "1966",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "paul-vi"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19660503_summi-dei-beneficio.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19660503_summi-dei-beneficio.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Summi Dei Beneficio - Iubilaeum extraordinarium, Constitutione Apostolica «Mirificus eventus» indictum, prorogatur, Litterae Apostolicae Motu Proprio datae, Die 3 m. Maii, A.D. 1966, Paulus PP.VI",
+        "it": "Summi Dei beneficio - Lettera Apostolica in forma di Motu Proprio con la quale viene prorogato il Giubileo straordinario promulgato con la Costituzione apostolica «Mirificus eventus», 3 maggio 1966"
+      }
+    }
+  ]
+}

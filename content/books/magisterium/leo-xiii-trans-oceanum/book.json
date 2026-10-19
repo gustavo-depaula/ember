@@ -1,0 +1,48 @@
+{
+  "id": "leo-xiii-trans-oceanum",
+  "cover": "quarter",
+  "name": {
+    "la": "Trans oceanum",
+    "it": "Trans oceanum"
+  },
+  "author": {
+    "en-US": "Pope Leo XIII",
+    "pt-BR": "Papa Leão XIII",
+    "la": "Leo PP. XIII"
+  },
+  "description": {
+    "en-US": "Apostolic Letter · Pope Leo XIII · 1897-04-18",
+    "pt-BR": "Carta Apostólica · Papa Leão XIII · 1897-04-18"
+  },
+  "composed": "1897",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "apostolic-letter",
+    "leo-xiii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/leo-xiii/la/apost_letters/documents/hf_l-xiii_apl_18970418_trans-oceanum.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/leo-xiii/it/apost_letters/documents/hf_l-xiii_apl_18970418_trans-oceanum.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Trans oceanum",
+        "it": "Trans oceanum"
+      }
+    }
+  ]
+}

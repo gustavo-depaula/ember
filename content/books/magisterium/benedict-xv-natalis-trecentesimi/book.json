@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-natalis-trecentesimi",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Natalis Trecentesimi Alla Reverenda Madre Angela di Nostra Signora, Superiora Generale dell’Unione Romana delle Vergini Orsoline, nel trecentesimo anniversario della fondazione della Famiglia religiosa"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1917-12-27",
+    "pt-BR": "Carta · Papa Bento XV · 1917-12-27"
+  },
+  "composed": "1917",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1917/documents/hf_ben-xv_let_19171227_natalis-trecentesimi.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Natalis Trecentesimi Alla Reverenda Madre Angela di Nostra Signora, Superiora Generale dell’Unione Romana delle Vergini Orsoline, nel trecentesimo anniversario della fondazione della Famiglia religiosa"
+      }
+    }
+  ]
+}

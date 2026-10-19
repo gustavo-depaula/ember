@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-iusti-iudicis",
+  "cover": "quarter",
+  "name": {
+    "la": "Litterae Apostolicae motu proprio datae - Iusti Iudicis",
+    "it": "Iusti Iudicis"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Motu Proprio · Pope John Paul II · 1988-06-28",
+    "pt-BR": "Motu Proprio · Papa João Paulo II · 1988-06-28"
+  },
+  "composed": "1988",
+  "languages": [
+    "la",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "motu-proprio",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_19880628_iusti-iudicis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_19880628_iusti-iudicis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Litterae Apostolicae motu proprio datae - Iusti Iudicis",
+        "it": "Iusti Iudicis"
+      }
+    }
+  ]
+}

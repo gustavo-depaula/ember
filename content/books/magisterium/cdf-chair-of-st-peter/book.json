@@ -1,0 +1,72 @@
+{
+  "id": "cdf-chair-of-st-peter",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Decree of Erection of the Personal Ordinariate of the Chair of Saint Peter, 1 January 2012",
+    "pt-BR": "Decreto de erecção do Ordinariado Pessoal da Cátedra de São Pedro, 1° de janeiro de 2012",
+    "es": "Decreto con el que se erige el Ordinariato personal de la Cátedra de San Pedro, 1 enero 2012",
+    "fr": "Décret d'érection de l'Ordinariat Personnel de la Chaire de Saint-Pierre, 1er janvier 2012",
+    "it": "Decreto di Erezione dell'Ordinariato Personale della Cattedra di San Pietro, 1° gennaio 2012"
+  },
+  "author": {
+    "en-US": "Dicastery for the Doctrine of the Faith",
+    "pt-BR": "Dicastério para a Doutrina da Fé",
+    "la": "Dicasterium pro Doctrina Fidei"
+  },
+  "description": {
+    "en-US": "Document of the Roman Curia · Dicastery for the Doctrine of the Faith · 2012-01-01",
+    "pt-BR": "Documento da Cúria Romana · Dicastério para a Doutrina da Fé · 2012-01-01"
+  },
+  "composed": "2012",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "es",
+    "fr",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "curia-document",
+    "cdf"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120101_chair-of-st-peter_en.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120101_chair-of-st-peter_po.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120101_chair-of-st-peter_sp.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "fr",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120101_chair-of-st-peter_fr.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120101_chair-of-st-peter_it.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Decree of Erection of the Personal Ordinariate of the Chair of Saint Peter, 1 January 2012",
+        "pt-BR": "Decreto de erecção do Ordinariado Pessoal da Cátedra de São Pedro, 1° de janeiro de 2012",
+        "es": "Decreto con el que se erige el Ordinariato personal de la Cátedra de San Pedro, 1 enero 2012",
+        "fr": "Décret d'érection de l'Ordinariat Personnel de la Chaire de Saint-Pierre, 1er janvier 2012",
+        "it": "Decreto di Erezione dell'Ordinariato Personale della Cattedra di San Pietro, 1° gennaio 2012"
+      }
+    }
+  ]
+}

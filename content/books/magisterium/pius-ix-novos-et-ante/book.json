@@ -1,0 +1,40 @@
+{
+  "id": "pius-ix-novos-et-ante",
+  "cover": "quarter",
+  "name": {
+    "it": "Allocuzione Novos et ante"
+  },
+  "author": {
+    "en-US": "Pope Pius IX",
+    "pt-BR": "Papa Pio IX",
+    "la": "Pius PP. IX"
+  },
+  "description": {
+    "en-US": "Allocution · Pope Pius IX · 1860-09-28",
+    "pt-BR": "Alocução · Papa Pio IX · 1860-09-28"
+  },
+  "composed": "1860",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "allocution",
+    "pius-ix"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/allocuzione-novos-et-ante-28-settembre-1860.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Allocuzione Novos et ante"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-centesimo-hodie",
+  "cover": "quarter",
+  "name": {
+    "it": "Centesimo Hodie in occasione del primo centenario della fondazione della Milizia Pontificia con il quale il Pontefice onora il vessillo del Corpo decorandolo di due medaglie d’oro"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Brief · Pope Benedict XV · 1916-10-22",
+    "pt-BR": "Breve · Papa Bento XV · 1916-10-22"
+  },
+  "composed": "1916",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "brief",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/briefs/documents/hf_ben-xv_briefs_19161022_centesimo-hodie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Centesimo Hodie in occasione del primo centenario della fondazione della Milizia Pontificia con il quale il Pontefice onora il vessillo del Corpo decorandolo di due medaglie d’oro"
+      }
+    }
+  ]
+}

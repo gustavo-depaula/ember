@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-scuole-pie",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Compluribus Quidem al R. Padre Tommaso di San Luigi Viñas, Rettore generale dell’Ordine delle Scuole Pie, nel terzo centenario dalla fondazione delle Scuole Pie"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1917-02-10",
+    "pt-BR": "Carta · Papa Bento XV · 1917-02-10"
+  },
+  "composed": "1917",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1917/documents/hf_ben-xv_let_19170210_scuole-pie.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Compluribus Quidem al R. Padre Tommaso di San Luigi Viñas, Rettore generale dell’Ordine delle Scuole Pie, nel terzo centenario dalla fondazione delle Scuole Pie"
+      }
+    }
+  ]
+}

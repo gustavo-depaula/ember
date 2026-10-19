@@ -1,0 +1,64 @@
+{
+  "id": "john-paul-ii-redenzione",
+  "cover": "quarter",
+  "name": {
+    "la": "Aperite portas Redemptori (die VI mensis Ianuarii, anno MCMLXXXIII)",
+    "pt-BR": "Bula de Proclamação do Jubileu \"Aperite Portas Redemptori\"",
+    "es": "Bula de convocación del Jubileo de la Redención Aperite portas Redemptori",
+    "it": "Aperite Portas Redemptori: Bolla di Indizione del Giubileo per il 1950° anniversario della Redenzione"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Bull · Pope John Paul II · 1983-01-06",
+    "pt-BR": "Bula · Papa João Paulo II · 1983-01-06"
+  },
+  "composed": "1983",
+  "languages": [
+    "la",
+    "pt-BR",
+    "es",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "bull",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/content/john-paul-ii/la/bulls/documents/hf_jp-ii_doc_19830106_bolla-redenzione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/john-paul-ii/pt/bulls/documents/hf_jp-ii_doc_19830106_bolla-redenzione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "es",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/bulls/documents/hf_jp-ii_doc_19830106_bolla-redenzione.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/bulls/documents/hf_jp-ii_doc_19830106_bolla-redenzione.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Aperite portas Redemptori (die VI mensis Ianuarii, anno MCMLXXXIII)",
+        "pt-BR": "Bula de Proclamação do Jubileu \"Aperite Portas Redemptori\"",
+        "es": "Bula de convocación del Jubileo de la Redención Aperite portas Redemptori",
+        "it": "Aperite Portas Redemptori: Bolla di Indizione del Giubileo per il 1950° anniversario della Redenzione"
+      }
+    }
+  ]
+}

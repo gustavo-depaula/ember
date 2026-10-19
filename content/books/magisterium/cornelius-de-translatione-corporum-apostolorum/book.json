@@ -1,0 +1,40 @@
+{
+  "id": "cornelius-de-translatione-corporum-apostolorum",
+  "cover": "quarter",
+  "name": {
+    "la": "Decretum de Translatione Corporum Apostolorum"
+  },
+  "author": {
+    "en-US": "Pope Cornelius",
+    "pt-BR": "Papa Cornélio",
+    "la": "Cornelius PP."
+  },
+  "description": {
+    "en-US": "Decree · Pope Cornelius · 0251",
+    "pt-BR": "Decreto · Papa Cornélio · 0251"
+  },
+  "composed": "251",
+  "languages": [
+    "la"
+  ],
+  "tags": [
+    "magisterium",
+    "decree",
+    "cornelius"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Decretum_de_Translatione_Corporum_Apostolorum,_LT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "Decretum de Translatione Corporum Apostolorum"
+      }
+    }
+  ]
+}

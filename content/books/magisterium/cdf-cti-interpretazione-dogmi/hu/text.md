@@ -1,0 +1,3 @@
+# A DOGMÁK ÉRTELMEZÉSE, 1990
+
+[TABLE]

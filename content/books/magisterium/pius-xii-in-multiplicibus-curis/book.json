@@ -1,0 +1,64 @@
+{
+  "id": "pius-xii-in-multiplicibus-curis",
+  "cover": "quarter",
+  "name": {
+    "la": "In Multiplicibus Curis (October 24, 1948)",
+    "en-US": "In Multiplicibus Curis",
+    "pt-BR": "In Multiplicibus Curis",
+    "it": "In Multiplicibus Curis"
+  },
+  "author": {
+    "en-US": "Pope Pius XII",
+    "pt-BR": "Papa Pio XII",
+    "la": "Pius PP. XII"
+  },
+  "description": {
+    "en-US": "Encyclical · Pope Pius XII · 1948-10-24",
+    "pt-BR": "Encíclica · Papa Pio XII · 1948-10-24"
+  },
+  "composed": "1948",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "encyclical",
+    "pius-xii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1948-10-24,_SS_Pius_XII,_Encyclica._In_Multiplicibus_Curis,_LT.pdf",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_24101948_in-multiplicibus-curis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.vatican.va/content/pius-xii/pt/encyclicals/documents/hf_p-xii_enc_24101948_in-multiplicibus-curis.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_24101948_in-multiplicibus-curis.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "la": "In Multiplicibus Curis (October 24, 1948)",
+        "en-US": "In Multiplicibus Curis",
+        "pt-BR": "In Multiplicibus Curis",
+        "it": "In Multiplicibus Curis"
+      }
+    }
+  ]
+}

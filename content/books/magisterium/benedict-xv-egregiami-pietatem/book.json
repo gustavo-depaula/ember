@@ -1,0 +1,40 @@
+{
+  "id": "benedict-xv-egregiami-pietatem",
+  "cover": "quarter",
+  "name": {
+    "it": "Epistola Egregiam Pietatem ai Vescovi svizzeri Radunati a Sion in segno di ringraziamento per il mancato coinvolgimento della Svizzera nel conflitto mondiale"
+  },
+  "author": {
+    "en-US": "Pope Benedict XV",
+    "pt-BR": "Papa Bento XV",
+    "la": "Benedictus PP. XV"
+  },
+  "description": {
+    "en-US": "Letter · Pope Benedict XV · 1919-09-08",
+    "pt-BR": "Carta · Papa Bento XV · 1919-09-08"
+  },
+  "composed": "1919",
+  "languages": [
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "benedict-xv"
+  ],
+  "sources": [
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/benedict-xv/it/letters/1919/documents/hf_ben-xv_let_19190908_egregiami-pietatem.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "it": "Epistola Egregiam Pietatem ai Vescovi svizzeri Radunati a Sion in segno di ringraziamento per il mancato coinvolgimento della Svizzera nel conflitto mondiale"
+      }
+    }
+  ]
+}

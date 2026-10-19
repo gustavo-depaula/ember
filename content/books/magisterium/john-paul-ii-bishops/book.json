@@ -1,0 +1,48 @@
+{
+  "id": "john-paul-ii-bishops",
+  "cover": "quarter",
+  "name": {
+    "de": "Brief an die deutschen Bischöfe",
+    "it": "Lettera ai Vescovi tedeschi sull'attività dei consultori familiari cattolici"
+  },
+  "author": {
+    "en-US": "Pope John Paul II",
+    "pt-BR": "Papa João Paulo II",
+    "la": "Ioannes Paulus PP. II"
+  },
+  "description": {
+    "en-US": "Letter · Pope John Paul II · 1998-01-27",
+    "pt-BR": "Carta · Papa João Paulo II · 1998-01-27"
+  },
+  "composed": "1998",
+  "languages": [
+    "de",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "letter",
+    "john-paul-ii"
+  ],
+  "sources": [
+    {
+      "language": "de",
+      "url": "https://www.vatican.va/content/john-paul-ii/de/letters/1998/documents/hf_jp-ii_let_27011998_bishops.html",
+      "description": "Text as published at www.vatican.va."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/letters/1998/documents/hf_jp-ii_let_27011998_bishops.html",
+      "description": "Text as published at www.vatican.va."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "de": "Brief an die deutschen Bischöfe",
+        "it": "Lettera ai Vescovi tedeschi sull'attività dei consultori familiari cattolici"
+      }
+    }
+  ]
+}

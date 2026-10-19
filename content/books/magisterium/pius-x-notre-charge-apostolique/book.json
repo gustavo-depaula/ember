@@ -1,0 +1,56 @@
+{
+  "id": "pius-x-notre-charge-apostolique",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Notre Charge Apostolique",
+    "pt-BR": "Notre charge apostolique",
+    "it": "Notre Charge Apostolique"
+  },
+  "author": {
+    "en-US": "Pope Pius X",
+    "pt-BR": "Papa Pio X",
+    "la": "Pius PP. X"
+  },
+  "description": {
+    "en-US": "Document · Pope Pius X · 1910-08-25",
+    "pt-BR": "Documento · Papa Pio X · 1910-08-25"
+  },
+  "composed": "1910",
+  "languages": [
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "document",
+    "pius-x"
+  ],
+  "sources": [
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/pius10/p10notre.htm",
+      "description": "Text as published at www.papalencyclicals.net."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/notre-charge-apostolique-2/",
+      "description": "Text as published at www.veritatis.com.br."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/01p/1910-08-25,_SS_Pius_X,_Notre_Charge_Apostolique,_IT.doc",
+      "description": "Text as published at www.documentacatholicaomnia.eu."
+    }
+  ],
+  "toc": [
+    {
+      "id": "text",
+      "title": {
+        "en-US": "Notre Charge Apostolique",
+        "pt-BR": "Notre charge apostolique",
+        "it": "Notre Charge Apostolique"
+      }
+    }
+  ]
+}
