@@ -1,0 +1,5 @@
+.venv/
+consult/
+scans/
+out/
+__pycache__/
