@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-gratia-et-libero-arbitrio",
+  "cover": "label",
+  "name": {
+    "la": "De gratia et libero arbitrio",
+    "en-US": "Grace and Free Choice",
+    "pt-BR": "A graça e o livre-arbítrio"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Written for the monks of Hadrumetum, divided over whether defending grace denies free choice: Augustine holds both, against those who say grace is given according to merit. The edition includes the letters exchanged with the monastery.",
+    "pt-BR": "Escrito para os monges de Hadrumeto, divididos sobre se defender a graça seria negar o livre-arbítrio: Agostinho afirma ambos, contra quem diz que a graça é dada segundo os méritos. Acompanham-no as cartas trocadas com o mosteiro.",
+    "la": "Pro monachis Hadrumetinis scriptus, qui dissidebant an gratia defensa liberum arbitrium negaretur: Augustinus utrumque tuetur contra eos qui gratiam secundum merita dari asserunt. Praemittuntur epistulae cum monasterio commutatae."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Grace",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Grace",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Grace",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Epistolae",
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

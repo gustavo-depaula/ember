@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-symbolo-ad-catechumenos",
+  "cover": "label",
+  "name": {
+    "la": "De symbolo ad catechumenos",
+    "en-US": "On the Creed, to Catechumens",
+    "pt-BR": "O símbolo, aos catecúmenos"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A sermon handing over the Creed to catechumens, who are to keep it in memory rather than in writing. Augustine explains it article by article, from God the Father almighty to the resurrection of the flesh.",
+    "pt-BR": "Sermão de entrega do Símbolo aos catecúmenos, que deviam guardá-lo na memória e não por escrito. Agostinho o explica artigo por artigo, de Deus Pai todo-poderoso à ressurreição da carne.",
+    "la": "Sermo quo symbolum catechumenis traditur, memoriae non chartae mandandum; Augustinus singulos eius articulos exponit, a Deo Patre omnipotente usque ad carnis resurrectionem."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~SymbCatech",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~SymbCatech",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~SymbCatech",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De symbolo ad catechumenos",
+        "en-US": "On the Creed, to Catechumens",
+        "pt-BR": "O símbolo, aos catecúmenos"
+      }
+    }
+  ]
+}

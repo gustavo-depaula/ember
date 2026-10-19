@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-octo-dulcitii-quaestionibus",
+  "cover": "label",
+  "name": {
+    "la": "De octo Dulcitii quaestionibus",
+    "en-US": "Eight Questions of Dulcitius",
+    "pt-BR": "As oito questões de Dulcício"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Replies to eight questions sent by Dulcitius, mostly assembled from Augustine's earlier writings: on whether baptized sinners leave hell, prayer for the dead, the summoning of Samuel, and how David was chosen after God's heart.",
+    "pt-BR": "Respostas a oito questões enviadas por Dulcício, compostas em grande parte com trechos de obras anteriores de Agostinho: se os pecadores batizados saem do inferno, os sufrágios pelos mortos, a evocação de Samuel e a escolha de Davi segundo o coração de Deus.",
+    "la": "Responsiones ad octo quaestiones a Dulcitio missas, maxime ex prioribus Augustini opusculis compositae: an baptizati peccatores ex inferno exeant, de oblatione pro defunctis, de Samuele evocato, de David secundum cor Dei electo."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Dulc",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Dulc",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Dulc",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

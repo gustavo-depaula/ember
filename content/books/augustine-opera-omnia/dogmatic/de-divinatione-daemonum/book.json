@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-divinatione-daemonum",
+  "cover": "label",
+  "name": {
+    "la": "De divinatione daemonum",
+    "en-US": "Demonic Divination",
+    "pt-BR": "A adivinhação dos demônios"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A short book arising from a discussion during the Octave: God's permitting pagan rites does not make them good, and demons foretell things through the keen senses of their aerial bodies and long experience, which sets them no higher than good human beings.",
+    "pt-BR": "Livrinho nascido de uma conversa durante a oitava: o fato de Deus permitir os ritos pagãos não os torna bons, e os demônios predizem pela agudeza dos sentidos de seu corpo aéreo e pela longa experiência, o que não os põe acima dos homens bons.",
+    "la": "Libellus ex quadam disputatione in sanctis diebus octavarum ortus: non ideo bona esse sacra paganorum quia Deus ea fieri sinit, daemonesque acumine sensus aerii corporis et longa experientia futura praedicere, nec ideo bonis hominibus praeferendos esse."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deDivin",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deDivin",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deDivin",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

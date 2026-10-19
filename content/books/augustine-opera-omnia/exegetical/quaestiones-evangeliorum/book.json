@@ -1,0 +1,91 @@
+{
+  "id": "augustine-quaestiones-evangeliorum",
+  "cover": "label",
+  "name": {
+    "la": "Quaestiones Evangeliorum",
+    "en-US": "Questions on the Gospels",
+    "pt-BR": "Questões sobre os Evangelhos"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Two books of explanations of selected passages: Book I from the Gospel of Matthew, Book II from Luke. The questions are numbered so that readers can find the one they want.",
+    "pt-BR": "Dois livros de explicações de passagens escolhidas: o livro I, do Evangelho de Mateus; o II, de Lucas. As questões vêm numeradas para que o leitor encontre facilmente a que procura.",
+    "la": "Duo libri expositionum quorundam locorum: primus ex Evangelio secundum Matthaeum, alter secundum Lucam. Quaestiones numeratae sunt, ut quisque quod legere velit facile inveniat."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~QsGosp",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~QsGosp",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~QsGosp",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Prologus",
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Tituli quaestionum libri primi",
+        "en-US": "Titles of the Questions of Book One",
+        "pt-BR": "Títulos das questões do livro primeiro"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber I: Quaestiones in Evangelium secundum Mattheum",
+        "en-US": "Book One: Questions on the Gospel according to Matthew",
+        "pt-BR": "Livro I: Questões sobre o Evangelho segundo Mateus"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Tituli quaestionum libri secundi",
+        "en-US": "Titles of the Questions of Book Two",
+        "pt-BR": "Títulos das questões do livro segundo"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber II: Quaestiones in Evangelium secundum Lucam",
+        "en-US": "Book Two: Questions on the Gospel according to Luke",
+        "pt-BR": "Livro II: Questões sobre o Evangelho segundo Lucas"
+      }
+    }
+  ]
+}

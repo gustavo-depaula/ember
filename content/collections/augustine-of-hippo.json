@@ -1,16 +1,22 @@
 {
   "id": "collection/augustine-of-hippo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "cover": "boxed",
   "name": {
-    "en-US": "St. Augustine of Hippo"
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona",
+    "la": "Sanctus Augustinus Hipponensis"
   },
   "description": {
-    "en-US": "Doctor of Grace (354–430). Bishop of Hippo, defender of the Catholic faith against the Manichees, Donatists, and Pelagians, and the pillar of all subsequent Western theology."
+    "en-US": "Doctor of Grace (354–430). Bishop of Hippo, defender of the Catholic faith against the Manichees, Donatists, and Pelagians, and the pillar of all subsequent Western theology.",
+    "pt-BR": "Doutor da Graça (354–430). Bispo de Hipona, defensor da fé católica contra os maniqueus, os donatistas e os pelagianos, e pilar de toda a teologia ocidental posterior.",
+    "la": "Doctor Gratiae (354–430). Episcopus Hipponensis, fidei catholicae contra Manichaeos, Donatistas et Pelagianos defensor, totiusque posterioris theologiae occidentalis columen."
   },
   "icon": "book",
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR",
+    "la"
   ],
   "tags": [
     "church-fathers",
@@ -19,18 +25,608 @@
   ],
   "prologue": {
     "body": {
-      "en-US": "Doctor of Grace (354–430). Bishop of Hippo, defender of the Catholic faith against the Manichees, Donatists, and Pelagians, and the pillar of all subsequent Western theology."
+      "en-US": "Doctor of Grace (354–430). Bishop of Hippo, defender of the Catholic faith against the Manichees, Donatists, and Pelagians, and the pillar of all subsequent Western theology.",
+      "pt-BR": "Doutor da Graça (354–430). Bispo de Hipona, defensor da fé católica contra os maniqueus, os donatistas e os pelagianos, e pilar de toda a teologia ocidental posterior.",
+      "la": "Doctor Gratiae (354–430). Episcopus Hipponensis, fidei catholicae contra Manichaeos, Donatistas et Pelagianos defensor, totiusque posterioris theologiae occidentalis columen."
     }
   },
   "sections": [
     {
-      "id": "works",
+      "id": "autobiographical",
       "title": {
-        "en-US": "Works"
+        "en-US": "Autobiographical Works",
+        "pt-BR": "Obras autobiográficas",
+        "la": "Opera autobiographica"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-confessiones"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-retractationes"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-possidius-vita"
+        }
+      ],
+      "description": {
+        "body": {
+          "en-US": "The works of Augustine in Latin, each with the Aquinas Institute's English and Portuguese translations, mirrored from augustinus.cc.",
+          "pt-BR": "As obras de Agostinho em latim, cada uma com as traduções inglesa e portuguesa do Aquinas Institute, espelhadas de augustinus.cc.",
+          "la": "Opera Augustini Latine, singula cum versionibus Anglica et Lusitana Instituti Aquinatis, ex augustinus.cc."
+        }
+      }
+    },
+    {
+      "id": "philosophical",
+      "title": {
+        "en-US": "Philosophical Works",
+        "pt-BR": "Obras filosóficas",
+        "la": "Opera philosophica"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-soliloquia"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-academicos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-beata-vita"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-ordine"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-immortalitate-animae"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-ars-breviata"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-regulae-grammaticae"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-rhetorica"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-dialectica"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-quantitate-animae"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-musica"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-magistro"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-libero-arbitrio"
+        }
+      ]
+    },
+    {
+      "id": "dogmatic",
+      "title": {
+        "en-US": "Dogmatic Works",
+        "pt-BR": "Obras dogmáticas",
+        "la": "Opera dogmatica"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-trinitate"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-civitate-dei"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-vera-religione"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-utilitate-credendi"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-fide-et-symbolo"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-fide-rerum-invisibilium"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-divinatione-daemonum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-fide-et-operibus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-enchiridion-ad-laurentium"
+        }
+      ]
+    },
+    {
+      "id": "pastoral",
+      "title": {
+        "en-US": "Pastoral Works",
+        "pt-BR": "Obras pastorais",
+        "la": "Opera pastoralia"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-bono-coniugali"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-sancta-virginitate"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-bono-viduitatis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-coniugiis-adulterinis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-continentia"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-agone-christiano"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-catechizandis-rudibus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-mendacio"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-mendacium"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-opere-monachorum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-cura-pro-mortuis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-patientia"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-utilitate-ieiunii"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-regula"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-disciplina-christiana"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-excidio-urbis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-symbolo-ad-catechumenos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-ordo-monasterii"
+        }
+      ]
+    },
+    {
+      "id": "exegetical",
+      "title": {
+        "en-US": "Exegetical Works",
+        "pt-BR": "Obras exegéticas",
+        "la": "Opera exegetica"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-doctrina-christiana"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-diversis-quaestionibus-83"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-ad-simplicianum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-octo-dulcitii-quaestionibus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-genesi-contra-manichaeos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-genesi-imperfectus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-genesi-ad-litteram"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-quaestiones-in-heptateuchum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-locutiones-in-heptateuchum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-annotationes-in-iob"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-octo-quaestionibus-vt"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-adversus-iudaeos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-sermone-domini-in-monte"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-consensu-evangelistarum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-quaestiones-evangeliorum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-quaestiones-xvii-in-matthaeum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-speculum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-propositiones-ad-romanos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-inchoata-expositio-ad-romanos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-expositio-ad-galatas"
+        }
+      ]
+    },
+    {
+      "id": "anti-arian",
+      "title": {
+        "en-US": "Against Arianism and Other Heresies",
+        "pt-BR": "Contra o arianismo e outras heresias",
+        "la": "Contra Arianos et alios haereticos"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-haeresibus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-priscillianistas"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-sermonem-arianorum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-collatio-cum-maximino"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-maximinum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-adversarium-legis"
+        }
+      ]
+    },
+    {
+      "id": "anti-manichaean",
+      "title": {
+        "en-US": "Against Manichaeanism",
+        "pt-BR": "Contra o maniqueísmo",
+        "la": "Contra Manichaeos"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-moribus-ecclesiae"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-duabus-animabus"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-fortunatum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-adimantum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-epistolam-fundamenti"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-felicem"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-natura-boni"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-secundinum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-faustum"
+        }
+      ]
+    },
+    {
+      "id": "anti-donatist",
+      "title": {
+        "en-US": "Against Donatism",
+        "pt-BR": "Contra o donatismo",
+        "la": "Contra Donatistas"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-psalmus-contra-partem-donati"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-litteras-petiliani"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-epistolam-parmeniani"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-baptismo"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-epistola-ad-catholicos"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-cresconium"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-unico-baptismo"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-breviculus-collationis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-post-collationem"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-sermo-ad-caesariensis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-gestis-cum-emerito"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-gaudentium"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-collatio-carthaginensis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-versus-de-nabore"
+        }
+      ]
+    },
+    {
+      "id": "anti-pelagian",
+      "title": {
+        "en-US": "Against Pelagianism",
+        "pt-BR": "Contra o pelagianismo",
+        "la": "Contra Pelagianos"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-peccatorum-meritis"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-spiritu-et-littera"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-natura-et-gratia"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-perfectione-iustitiae"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-gestis-pelagii"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-gratia-christi"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-anima-et-eius-origine"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-nuptiis-et-concupiscentia"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-duas-epistulas"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-iulianum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-contra-iulianum-imperfectum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-gratia-et-libero-arbitrio"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-correptione-et-gratia"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-praedestinatione-sanctorum"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-de-dono-perseverantiae"
+        }
+      ]
+    },
+    {
+      "id": "letters",
+      "title": {
+        "en-US": "Letters",
+        "pt-BR": "Cartas",
+        "la": "Epistulae"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-epistulae"
+        }
+      ]
+    },
+    {
+      "id": "sermons",
+      "title": {
+        "en-US": "Sermons",
+        "pt-BR": "Sermões",
+        "la": "Sermones"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-sermones"
+        }
+      ]
+    },
+    {
+      "id": "homilies-on-john",
+      "title": {
+        "en-US": "Homilies on John",
+        "pt-BR": "Tratados sobre João",
+        "la": "Tractatus in Iohannem"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-in-iohannis-evangelium"
+        },
+        {
+          "kind": "item",
+          "ref": "book/augustine-in-epistulam-iohannis"
+        }
+      ]
+    },
+    {
+      "id": "psalms",
+      "title": {
+        "en-US": "Expositions of the Psalms",
+        "pt-BR": "Comentários aos Salmos",
+        "la": "Enarrationes in Psalmos"
+      },
+      "blocks": [
+        {
+          "kind": "item",
+          "ref": "book/augustine-enarrationes-in-psalmos"
+        }
+      ]
+    },
+    {
+      "id": "npnf",
+      "title": {
+        "en-US": "Classic English Translations",
+        "pt-BR": "Traduções inglesas clássicas",
+        "la": "Versiones Anglicae classicae"
       },
       "description": {
         "body": {
-          "en-US": "48 works in the canonical 19th-century English translations (ANF / NPNF, ed. Roberts & Donaldson / Schaff & Wace), sourced from the New Advent archive."
+          "en-US": "48 works in the 19th-century English translations of the *Nicene and Post-Nicene Fathers* (ed. Schaff), from the New Advent archive, and Albert Outler's *Confessions and Enchiridion*.",
+          "pt-BR": "48 obras nas traduções inglesas do século XIX dos *Nicene and Post-Nicene Fathers* (ed. Schaff), do arquivo New Advent, e as *Confissões e Enquirídio* de Albert Outler."
         }
       },
       "blocks": [

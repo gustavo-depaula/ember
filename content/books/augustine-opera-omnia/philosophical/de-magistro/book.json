@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-magistro",
+  "cover": "label",
+  "name": {
+    "la": "De magistro",
+    "en-US": "The Teacher",
+    "pt-BR": "O mestre"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A dialogue with Adeodatus on speech and signs: words of themselves teach nothing but prompt us to consult the Truth presiding within the mind, the one Teacher of all, who is in heaven.",
+    "pt-BR": "Diálogo com Adeodato sobre a linguagem e os sinais: as palavras, por si mesmas, nada ensinam, mas nos levam a consultar a Verdade que preside interiormente à mente, o único Mestre de todos, que está nos céus.",
+    "la": "Dialogus cum Adeodato de locutione et signis: verba per se nihil docent, sed admonent ut intus praesidentem menti Veritatem consulamus, unum omnium magistrum qui in caelis est."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deMag",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deMag",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deMag",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De magistro",
+        "en-US": "The Teacher",
+        "pt-BR": "O mestre"
+      }
+    }
+  ]
+}

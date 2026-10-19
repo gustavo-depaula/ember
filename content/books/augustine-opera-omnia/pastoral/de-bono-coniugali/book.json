@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-bono-coniugali",
+  "cover": "label",
+  "name": {
+    "la": "De bono coniugali",
+    "en-US": "The Excellence of Marriage",
+    "pt-BR": "O bem do matrimônio"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Written against Jovinian's teaching that married chastity equals consecrated virginity, a claim that had led some consecrated women in Rome to marry. Augustine answers by showing the true goods of marriage rather than by disparaging it.",
+    "pt-BR": "Escrito contra a tese de Joviniano de que a castidade conjugal se iguala à virgindade consagrada, que levara algumas consagradas de Roma a se casar. Agostinho responde mostrando os verdadeiros bens do matrimônio, sem rebaixá-lo.",
+    "la": "Contra Ioviniani haeresim, quae coniugalem castitatem meritis sanctarum virginum aequabat et quasdam Romae sanctimoniales ad nuptias deiecerat. Augustinus non nuptiarum vituperatione sed bonorum earum laude respondet."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Marr",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Marr",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Marr",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

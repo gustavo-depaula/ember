@@ -1,0 +1,107 @@
+{
+  "id": "augustine-de-baptismo",
+  "cover": "label",
+  "name": {
+    "la": "De baptismo",
+    "en-US": "Baptism",
+    "pt-BR": "O batismo"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Seven books against the Donatists, who appealed to the authority of St. Cyprian for rebaptism. Augustine argues that baptism given in schism is valid and that Cyprian's own writings and conduct refute the Donatist schism.",
+    "pt-BR": "Sete livros contra os donatistas, que invocavam a autoridade de São Cipriano para rebatizar. Agostinho sustenta que o batismo conferido no cisma é válido e que os escritos e o proceder do próprio Cipriano refutam o cisma donatista.",
+    "la": "Septem libri contra Donatistas, qui beati Cypriani auctoritate rebaptizationem tuebantur. Augustinus docet baptismum in schismate datum ratum esse, et ipsius Cypriani litteris factisque schisma Donatistarum refelli."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Baptism",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Baptism",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Baptism",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI",
+        "pt-BR": "Livro VI"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VII",
+        "en-US": "Book VII",
+        "pt-BR": "Livro VII"
+      }
+    }
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "id": "augustine-de-diversis-quaestionibus-83",
+  "cover": "label",
+  "name": {
+    "la": "De diversis quaestionibus octoginta tribus",
+    "en-US": "Miscellany of Eighty-three Questions",
+    "pt-BR": "Oitenta e três questões diversas"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Answers dictated to the brethren from the time of Augustine's return to Africa after his conversion, later gathered and numbered into one book when he was a bishop. They range from the soul, free choice and evil to the Trinity and passages of Scripture.",
+    "pt-BR": "Respostas ditadas aos irmãos desde a volta de Agostinho à África após a conversão, reunidas e numeradas num só livro quando já era bispo. Vão da alma, do livre-arbítrio e do mal à Trindade e a passagens da Escritura.",
+    "la": "Responsiones fratribus interrogantibus dictatae inde a primis conversionis temporibus, postquam in Africam venit, quas episcopus iam in unum librum colligi et numerari iussit. De anima, libero arbitrio et malo, de Trinitate et locis Scripturarum disserunt."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~83Qs",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~83Qs",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~83Qs",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "p02",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      },
+      "children": [
+        {
+          "id": "p02-ch001",
+          "title": {
+            "la": "Utrum anima a se ipsa sit",
+            "en-US": "Whether the Soul Is from Itself",
+            "pt-BR": "Se a alma é de si mesma"
+          }
+        },
+        {
+          "id": "p02-ch002",
+          "title": {
+            "la": "De libero arbitrio",
+            "en-US": "On Free Choice",
+            "pt-BR": "Sobre o livre-arbítrio"
+          }
+        },
+        {
+          "id": "p02-ch003",
+          "title": {
+            "la": "Utrum Deo auctore sit homo deterior",
+            "en-US": "Whether, with God as Author, a Human Being Is Made Worse",
+            "pt-BR": "Se, tendo Deus por autor, o homem se torna pior"
+          }
+        },
+        {
+          "id": "p02-ch004",
+          "title": {
+            "la": "Quae sit causa ut sit homo deterior",
+            "en-US": "What the Cause Is That a Human Being Is Made Worse",
+            "pt-BR": "Qual é a causa de o homem se tornar pior"
+          }
+        },
+        {
+          "id": "p02-ch005",
+          "title": {
+            "la": "Utrum animal irrationale beatum esse possit",
+            "en-US": "Whether an Irrational Animal Can Be Happy",
+            "pt-BR": "Se um animal irracional pode ser feliz"
+          }
+        },
+        {
+          "id": "p02-ch006",
+          "title": {
+            "la": "De malo",
+            "en-US": "On Evil",
+            "pt-BR": "Sobre o mal"
+          }
+        },
+        {
+          "id": "p02-ch007",
+          "title": {
+            "la": "Quae proprie in animante anima dicatur",
+            "en-US": "What in a Living Being Is Properly Called Soul",
+            "pt-BR": "O que propriamente se chama alma no ser vivo"
+          }
+        },
+        {
+          "id": "p02-ch008",
+          "title": {
+            "la": "Utrum per se anima moveatur",
+            "en-US": "Whether the Soul Is Moved of Itself",
+            "pt-BR": "Se a alma se move por si mesma"
+          }
+        },
+        {
+          "id": "p02-ch009",
+          "title": {
+            "la": "Utrum corporis sensibus percipi veritas possit",
+            "en-US": "Whether Truth Can Be Perceived by the Senses of the Body",
+            "pt-BR": "Se a verdade pode ser percebida pelos sentidos do corpo"
+          }
+        },
+        {
+          "id": "p02-ch010",
+          "title": {
+            "la": "Utrum corpus a Deo sit",
+            "en-US": "Whether the Body Is from God",
+            "pt-BR": "Se o corpo é de Deus"
+          }
+        },
+        {
+          "id": "p02-ch011",
+          "title": {
+            "la": "Quare Christus de femina natus sit",
+            "en-US": "Why Christ Was Born of a Woman",
+            "pt-BR": "Por que Cristo nasceu de uma mulher"
+          }
+        },
+        {
+          "id": "p02-ch012",
+          "title": {
+            "la": "Sententia cuiusdam sapientis",
+            "en-US": "The Opinion of a Certain Wise Man",
+            "pt-BR": "A sentença de certo sábio"
+          }
+        },
+        {
+          "id": "p02-ch013",
+          "title": {
+            "la": "Quo documento constet homines bestiis excellere",
+            "en-US": "By What Proof It Is Established That Human Beings Excel the Beasts",
+            "pt-BR": "Por qual prova se estabelece que os homens excedem os animais"
+          }
+        },
+        {
+          "id": "p02-ch014",
+          "title": {
+            "la": "Non fuisse corpus Domini nostri Iesu Christi fantasma",
+            "en-US": "That the Body of Our Lord Jesus Christ Was Not a Phantasm",
+            "pt-BR": "Que o corpo de nosso Senhor Jesus Cristo não foi um fantasma"
+          }
+        },
+        {
+          "id": "p02-ch015",
+          "title": {
+            "la": "De intellectu",
+            "en-US": "On the Intellect",
+            "pt-BR": "Sobre o intelecto"
+          }
+        },
+        {
+          "id": "p02-ch016",
+          "title": {
+            "la": "De Filio Dei",
+            "en-US": "On the Son of God",
+            "pt-BR": "Sobre o Filho de Deus"
+          }
+        },
+        {
+          "id": "p02-ch017",
+          "title": {
+            "la": "De scientia Dei",
+            "en-US": "On the Knowledge of God",
+            "pt-BR": "Sobre a ciência de Deus"
+          }
+        },
+        {
+          "id": "p02-ch018",
+          "title": {
+            "la": "De Trinitate",
+            "en-US": "On the Trinity",
+            "pt-BR": "Sobre a Trindade"
+          }
+        },
+        {
+          "id": "p02-ch019",
+          "title": {
+            "la": "De Deo et creatura",
+            "en-US": "On God and the Creature",
+            "pt-BR": "Sobre Deus e a criatura"
+          }
+        },
+        {
+          "id": "p02-ch020",
+          "title": {
+            "la": "De loco Dei",
+            "en-US": "On the Place of God",
+            "pt-BR": "Sobre o lugar de Deus"
+          }
+        },
+        {
+          "id": "p02-ch021",
+          "title": {
+            "la": "Utrum Deus mali auctor non sit",
+            "en-US": "Whether God Is Not the Author of Evil",
+            "pt-BR": "Se Deus não é autor do mal"
+          }
+        },
+        {
+          "id": "p02-ch022",
+          "title": {
+            "la": "Deum non pati necessitatem",
+            "en-US": "That God Does Not Suffer Necessity",
+            "pt-BR": "Que Deus não padece necessidade"
+          }
+        },
+        {
+          "id": "p02-ch023",
+          "title": {
+            "la": "De Patre et Filio",
+            "en-US": "On the Father and the Son",
+            "pt-BR": "Sobre o Pai e o Filho"
+          }
+        },
+        {
+          "id": "p02-ch024",
+          "title": {
+            "la": "Utrum et peccatum et recte factum — in libero sit voluntatis arbitrio",
+            "en-US": "Whether Both Sin and Right Action — Lie within the Free Choice of the Will",
+            "pt-BR": "Se tanto o pecado quanto a ação reta — estão no livre-arbítrio da vontade"
+          }
+        },
+        {
+          "id": "p02-ch025",
+          "title": {
+            "la": "De cruce Christi",
+            "en-US": "On the Cross of Christ",
+            "pt-BR": "Sobre a cruz de Cristo"
+          }
+        },
+        {
+          "id": "p02-ch026",
+          "title": {
+            "la": "De differentia peccatorum",
+            "en-US": "On the Difference of Sins",
+            "pt-BR": "Sobre a diferença dos pecados"
+          }
+        },
+        {
+          "id": "p02-ch027",
+          "title": {
+            "la": "De providentia",
+            "en-US": "On Providence",
+            "pt-BR": "Sobre a providência"
+          }
+        },
+        {
+          "id": "p02-ch028",
+          "title": {
+            "la": "Quare Deus mundum facere voluerit",
+            "en-US": "Why God Willed to Make the World",
+            "pt-BR": "Por que Deus quis fazer o mundo"
+          }
+        },
+        {
+          "id": "p02-ch029",
+          "title": {
+            "la": "Utrum aliquid sit sursum aut deorsum universo",
+            "en-US": "Whether There Is Anything Above or Below in the Universe",
+            "pt-BR": "Se há algo acima ou abaixo no universo"
+          }
+        },
+        {
+          "id": "p02-ch030",
+          "title": {
+            "la": "Utrum omnia in utilitatem hominis creata sint",
+            "en-US": "Whether All Things Have Been Created for the Use of Man",
+            "pt-BR": "Se todas as coisas foram criadas para a utilidade do homem"
+          }
+        },
+        {
+          "id": "p02-ch031",
+          "title": {
+            "la": "Sententia Ciceronis, quemadmodum virtutes — animi ab illo divisae ac definitae sint",
+            "en-US": "The Opinion of Cicero, How the Virtues — of the Mind Were Divided and Defined by Him",
+            "pt-BR": "A sentença de Cícero, sobre como as virtudes — do ânimo foram por ele divididas e definidas"
+          }
+        },
+        {
+          "id": "p02-ch032",
+          "title": {
+            "la": "Utrum rem ullam alius alio magis intellegat, atque — ita eiusdem rei per infinitum eat intellegentia",
+            "en-US": "Whether One Person Understands Any Thing More Than Another, and — Whether the Understanding of the Same Thing Thus Proceeds to Infinity",
+            "pt-BR": "Se alguém entende alguma coisa mais do que outro, e se — assim a inteligência da mesma coisa vai ao infinito"
+          }
+        },
+        {
+          "id": "p02-ch033",
+          "title": {
+            "la": "De metu",
+            "en-US": "On Fear",
+            "pt-BR": "Sobre o medo"
+          }
+        },
+        {
+          "id": "p02-ch034",
+          "title": {
+            "la": "Utrum non aliud amandum sit quam metu carere",
+            "en-US": "Whether Nothing Other Than to Be Free from Fear Is to Be Loved",
+            "pt-BR": "Se não se deve amar outra coisa senão estar livre do medo"
+          }
+        },
+        {
+          "id": "p02-ch035",
+          "title": {
+            "la": "Quid amandum sit",
+            "en-US": "What Is to Be Loved",
+            "pt-BR": "O que se deve amar"
+          }
+        },
+        {
+          "id": "p02-ch036",
+          "title": {
+            "la": "De nutrienda caritate",
+            "en-US": "On Nourishing Love",
+            "pt-BR": "Sobre como nutrir a caridade"
+          }
+        },
+        {
+          "id": "p02-ch037",
+          "title": {
+            "la": "De semper nato",
+            "en-US": "On Him Who Is Ever Born",
+            "pt-BR": "Sobre aquele que é sempre nascido"
+          }
+        },
+        {
+          "id": "p02-ch038",
+          "title": {
+            "la": "De conformatione animae",
+            "en-US": "On the Conformation of the Soul",
+            "pt-BR": "Sobre a conformação da alma"
+          }
+        },
+        {
+          "id": "p02-ch039",
+          "title": {
+            "la": "De alimentis",
+            "en-US": "On Nourishment",
+            "pt-BR": "Sobre os alimentos"
+          }
+        },
+        {
+          "id": "p02-ch040",
+          "title": {
+            "la": "Cum animarum natura una sit, unde — hominum diversae voluntates?",
+            "en-US": "Since the Nature of Souls Is One, Whence — Come the Diverse Wills of Human Beings?",
+            "pt-BR": "Sendo uma a natureza das almas, donde — vêm as diversas vontades dos homens?"
+          }
+        },
+        {
+          "id": "p02-ch041",
+          "title": {
+            "la": "Cum omnia Deus fecerit, quare non aequaliter fecit?",
+            "en-US": "Since God Made All Things, Why Did He Not Make Them Equal?",
+            "pt-BR": "Tendo Deus feito todas as coisas, por que não as fez iguais?"
+          }
+        },
+        {
+          "id": "p02-ch042",
+          "title": {
+            "la": "Quemadmodum Christus et in utero matris fuerit et in caelis",
+            "en-US": "How Christ Was Both in His Mother's Womb and in the Heavens",
+            "pt-BR": "De que modo Cristo esteve tanto no ventre da mãe como nos céus"
+          }
+        },
+        {
+          "id": "p02-ch043",
+          "title": {
+            "la": "Quare Filius Dei in homine apparuit — et Spiritus Sanctus in columba?",
+            "en-US": "Why Did the Son of God Appear in a Man — and the Holy Spirit in a Dove?",
+            "pt-BR": "Por que o Filho de Deus apareceu num homem — e o Espírito Santo numa pomba?"
+          }
+        },
+        {
+          "id": "p02-ch044",
+          "title": {
+            "la": "Quare tanto post venit Dominus Iesus Christus, — et non in principio peccati hominis?",
+            "en-US": "Why Did the Lord Jesus Christ Come So Long Afterward, — and Not at the Beginning of Man's Sin?",
+            "pt-BR": "Por que veio tanto tempo depois o Senhor Jesus Cristo, — e não no princípio do pecado do homem?"
+          }
+        },
+        {
+          "id": "p02-ch045",
+          "title": {
+            "la": "Adversus mathematicos",
+            "en-US": "Against the Astrologers",
+            "pt-BR": "Contra os matemáticos"
+          }
+        },
+        {
+          "id": "p02-ch046",
+          "title": {
+            "la": "De ideis",
+            "en-US": "On the Ideas",
+            "pt-BR": "Sobre as ideias"
+          }
+        },
+        {
+          "id": "p02-ch047",
+          "title": {
+            "la": "Utrum aliquando cogitationes nostras videre possimus",
+            "en-US": "Whether We Can Ever See Our Own Thoughts",
+            "pt-BR": "Se alguma vez poderemos ver os nossos pensamentos"
+          }
+        },
+        {
+          "id": "p02-ch048",
+          "title": {
+            "la": "De credibilibus",
+            "en-US": "On Things to Be Believed",
+            "pt-BR": "Sobre as coisas que se devem crer"
+          }
+        },
+        {
+          "id": "p02-ch049",
+          "title": {
+            "la": "Quare filii Israel sacrificabant visibiliter — pecorum victimas?",
+            "en-US": "Why Did the Children of Israel Offer Visibly — the Victims of Animals?",
+            "pt-BR": "Por que os filhos de Israel sacrificavam visivelmente — vítimas de animais?"
+          }
+        },
+        {
+          "id": "p02-ch050",
+          "title": {
+            "la": "De aequalitate Filii",
+            "en-US": "On the Equality of the Son",
+            "pt-BR": "Sobre a igualdade do Filho"
+          }
+        },
+        {
+          "id": "p02-ch051",
+          "title": {
+            "la": "De homine facto ad imaginem et similitudinem Dei",
+            "en-US": "On Man Made to the Image and Likeness of God",
+            "pt-BR": "Sobre o homem feito à imagem e semelhança de Deus"
+          }
+        },
+        {
+          "id": "p02-ch052",
+          "title": {
+            "la": "De eo quod dictum est: Paenitet me hominem fecisse 28",
+            "en-US": "On What Was Said, I Repent That I Made Man",
+            "pt-BR": "Sobre o que foi dito: Arrependo-me de ter feito o homem"
+          }
+        },
+        {
+          "id": "p02-ch053",
+          "title": {
+            "la": "De auro et argento quod Israelitae ab Aegyptiis acceperunt",
+            "en-US": "On the Gold and Silver That the Israelites Received from the Egyptians",
+            "pt-BR": "Sobre o ouro e a prata que os israelitas receberam dos egípcios"
+          }
+        },
+        {
+          "id": "p02-ch054",
+          "title": {
+            "la": "De eo quod scriptum est: — Mihi autem adhaerere Deo bonum est 42",
+            "en-US": "On What Is Written, But for Me It Is Good to Cling to God",
+            "pt-BR": "Sobre o que está escrito: Para mim, porém, é bom aderir a Deus"
+          }
+        },
+        {
+          "id": "p02-ch055",
+          "title": {
+            "la": "De eo quod scriptum est: — Sexaginta sunt reginae et octoginta concubinae — et adolescentulae quarum non est numerus 44",
+            "en-US": "On What Is Written, — There Are Sixty Queens and Eighty Concubines — and Young Maidens without Number",
+            "pt-BR": "Sobre o que está escrito: — São sessenta as rainhas e oitenta as concubinas — e as jovens de que não há número"
+          }
+        },
+        {
+          "id": "p02-ch056",
+          "title": {
+            "la": "De annis quadraginta sex — aedificati templi",
+            "en-US": "On the Forty-six Years — of the Building of the Temple",
+            "pt-BR": "Sobre os quarenta e seis anos — da edificação do templo"
+          }
+        },
+        {
+          "id": "p02-ch057",
+          "title": {
+            "la": "De centum quinquaginta tribus piscibus 47",
+            "en-US": "On the One Hundred Fifty-three Fish",
+            "pt-BR": "Sobre os cento e cinquenta e três peixes"
+          }
+        },
+        {
+          "id": "p02-ch058",
+          "title": {
+            "la": "58. - De Ioanne Baptista",
+            "en-US": "On John the Baptist",
+            "pt-BR": "58. - Sobre João Batista"
+          }
+        },
+        {
+          "id": "p02-ch059",
+          "title": {
+            "la": "De decem virginibus",
+            "en-US": "On the Ten Virgins",
+            "pt-BR": "Sobre as dez virgens"
+          }
+        },
+        {
+          "id": "p02-ch060",
+          "title": {
+            "la": "De die autem illo et hora nemo scit, — neque angeli caelorum, neque Filius hominis — nisi Pater solus 109",
+            "en-US": "But of That Day and Hour No One Knows, — Neither the Angels of Heaven, nor the Son of Man, — but the Father Alone",
+            "pt-BR": "Daquele dia e hora, porém, ninguém sabe, — nem os anjos dos céus, nem o Filho do homem, — senão só o Pai"
+          }
+        },
+        {
+          "id": "p02-ch061",
+          "title": {
+            "la": "De eo quod scriptum est in Evangelio, — turbas Dominum in monte pavisse de panibus quinque",
+            "en-US": "On What Is Written in the Gospel, — That the Lord Fed the Crowds on the Mountain with Five Loaves",
+            "pt-BR": "Sobre o que está escrito no Evangelho, — que o Senhor alimentou as multidões no monte com cinco pães"
+          }
+        },
+        {
+          "id": "p02-ch062",
+          "title": {
+            "la": "62. - Ad id quod scriptum est in Evangelio: — Quod baptizabat Iesus plures quam Ioannes, — quamvis ipse non baptizaret sed discipuli eius 139",
+            "en-US": "On what is written in the Gospel: — That Jesus baptized more than John, — although he himself did not baptize, but his disciples",
+            "pt-BR": "62. - Sobre o que está escrito no Evangelho: — Que Jesus batizava mais do que João, — ainda que ele mesmo não batizasse, mas os seus discípulos"
+          }
+        },
+        {
+          "id": "p02-ch063",
+          "title": {
+            "la": "De Verbo",
+            "en-US": "On the Word",
+            "pt-BR": "Sobre o Verbo"
+          }
+        },
+        {
+          "id": "p02-ch064",
+          "title": {
+            "la": "De muliere Samaritana 151",
+            "en-US": "On the Samaritan Woman",
+            "pt-BR": "Sobre a mulher samaritana"
+          }
+        },
+        {
+          "id": "p02-ch065",
+          "title": {
+            "la": "De resurrectione Lazari 174",
+            "en-US": "On the Resurrection of Lazarus",
+            "pt-BR": "Sobre a ressurreição de Lázaro"
+          }
+        },
+        {
+          "id": "p02-ch066",
+          "title": {
+            "la": "De eo quod scriptum est: An ignoratis, fratres — (scientibus enim legem loquor), quia lex dominatur homini, — in quantum tempus vivit?, usque ad eum locum in quo — scriptum est: Vivificabit et mortalia corpora vestra — per inhabitantem Spiritum eius in vobis 189",
+            "en-US": "On what is written: Or do you not know, brothers — (for I speak to those who know the law), that the law has dominion over a person — so long as he lives in time?, up to that place where — it is written: He will also give life to your mortal bodies — through his Spirit who dwells in you",
+            "pt-BR": "Sobre o que está escrito: Ou ignorais, irmãos — (pois falo aos que conhecem a lei), que a lei domina sobre o homem — enquanto ele vive no tempo?, até aquele lugar em que — está escrito: Vivificará também os vossos corpos mortais — pelo seu Espírito que habita em vós"
+          }
+        },
+        {
+          "id": "p02-ch067",
+          "title": {
+            "la": "De eo quod scriptum est: Existimo enim quod — non sint condignae, passiones huius temporis ad futuram — gloriam quae revelabitur in nobis, usque ad id — quod dictum est: Spe enim salvi facti sumus 230",
+            "en-US": "On what is written: For I consider that — the sufferings of this present time are not worthy of the future — glory that will be revealed in us, up to that — which was said: For we are saved by hope",
+            "pt-BR": "Sobre o que está escrito: Julgo, com efeito, que — não são dignos os sofrimentos deste tempo em relação à futura — glória que será revelada em nós, até aquilo — que foi dito: Pois pela esperança fomos salvos"
+          }
+        },
+        {
+          "id": "p02-ch068",
+          "title": {
+            "la": "De eo quod scriptum est: — O homo, tu quis es, qui respondeas Deo?",
+            "en-US": "On what is written: — O man, who are you to answer back to God?",
+            "pt-BR": "Sobre o que está escrito: — Ó homem, quem és tu para responderes a Deus?"
+          }
+        },
+        {
+          "id": "p02-ch069",
+          "title": {
+            "la": "De eo quod scriptum est: Tunc et ipse Filius — subiectus erit ei qui illi subiecit omnia 299",
+            "en-US": "On what is written: Then the Son himself — will also be subjected to him who subjected all things to him",
+            "pt-BR": "Sobre o que está escrito: Então também o próprio Filho — estará sujeito àquele que lhe sujeitou todas as coisas"
+          }
+        },
+        {
+          "id": "p02-ch070",
+          "title": {
+            "la": "De eo quod Apostolus dicit: Absorta est mors — in victoriam. Ubi est, mors, contentio tua? — Ubi est, mors, aculeus tuus? Aculeus autem — mortis peccatum, virtus autem peccati lex 336",
+            "en-US": "On what the Apostle says: Death is swallowed up — in victory. Where, death, is your striving? — Where, death, is your sting? But the sting — of death is sin, and the power of sin is the law",
+            "pt-BR": "Sobre o que diz o Apóstolo: Absorvida foi a morte — na vitória. Onde está, ó morte, a tua contenda? — Onde está, ó morte, o teu aguilhão? Ora, o aguilhão — da morte é o pecado, e a força do pecado é a lei"
+          }
+        },
+        {
+          "id": "p02-ch071",
+          "title": {
+            "la": "De eo quod scriptum est: Invicem onera vestra — portate, et sic adimplebitis legem Christi 338",
+            "en-US": "On what is written: Bear one another's burdens, — and so you will fulfill the law of Christ",
+            "pt-BR": "Sobre o que está escrito: Levai uns as cargas dos outros, — e assim cumprireis a lei de Cristo"
+          }
+        },
+        {
+          "id": "p02-ch072",
+          "title": {
+            "la": "De temporibus aeternis",
+            "en-US": "On Eternal Times",
+            "pt-BR": "Sobre os tempos eternos"
+          }
+        },
+        {
+          "id": "p02-ch073",
+          "title": {
+            "la": "De eo quod scriptum est: Et habitu inventus ut homo 350",
+            "en-US": "On what is written: And found in appearance as a man",
+            "pt-BR": "Sobre o que está escrito: E encontrado no hábito como homem"
+          }
+        },
+        {
+          "id": "p02-ch074",
+          "title": {
+            "la": "De eo quod scriptum est in Epistula Pauli ad Colossenses: — In quo habemus redemtionem et remissionem peccatorum — qui est imago Dei invisibilis 352",
+            "en-US": "On what is written in Paul's Letter to the Colossians: — In whom we have redemption and the remission of sins, — who is the image of the invisible God",
+            "pt-BR": "Sobre o que está escrito na Carta de Paulo aos Colossenses: — No qual temos a redenção e a remissão dos pecados, — o qual é imagem do Deus invisível"
+          }
+        },
+        {
+          "id": "p02-ch075",
+          "title": {
+            "la": "75. - De hereditate Dei",
+            "en-US": "On the Inheritance of God",
+            "pt-BR": "Sobre a herança de Deus"
+          }
+        },
+        {
+          "id": "p02-ch076",
+          "title": {
+            "la": "De eo quod Iacobus apostolus dicit: — Vis autem scire, o homo inanis, quia — fides sine operibus otiosa est? 366",
+            "en-US": "On what the apostle James says: — But do you wish to know, O empty man, that — faith without works is idle?",
+            "pt-BR": "Sobre o que diz o apóstolo Tiago: — Queres, porém, saber, ó homem vão, que — a fé sem obras é ociosa?"
+          }
+        },
+        {
+          "id": "p02-ch077",
+          "title": {
+            "la": "De timore utrum peccatum sit",
+            "en-US": "On Whether Fear Is a Sin",
+            "pt-BR": "Se o temor é pecado"
+          }
+        },
+        {
+          "id": "p02-ch078",
+          "title": {
+            "la": "De pulchritudine simulacrorum",
+            "en-US": "On the Beauty of Images",
+            "pt-BR": "Sobre a beleza dos simulacros"
+          }
+        },
+        {
+          "id": "p02-ch079",
+          "title": {
+            "la": "Quare magi Pharaonis fecerunt quaedam — miracula sicut Moyses famulus Dei? 378",
+            "en-US": "Why did the magicians of Pharaoh perform certain — miracles like Moses the servant of God? 378",
+            "pt-BR": "Por que os magos do Faraó fizeram certos — milagres como Moisés, servo de Deus? 378"
+          }
+        },
+        {
+          "id": "p02-ch080",
+          "title": {
+            "la": "Adversus Apollinaristas",
+            "en-US": "Against the Apollinarists",
+            "pt-BR": "Contra os apolinaristas"
+          }
+        },
+        {
+          "id": "p02-ch081",
+          "title": {
+            "la": "De Quadragesima et Quinquagesima",
+            "en-US": "On Lent and Pentecost",
+            "pt-BR": "Sobre a Quaresma e a Quinquagésima"
+          }
+        },
+        {
+          "id": "p02-ch082",
+          "title": {
+            "la": "De eo quod scriptum est: — Quem enim diligit Dominus corripit, — flagellat autem omnem filium quem recipit 418",
+            "en-US": "On what is written: — For whom the Lord loves he rebukes, — and he scourges every son whom he receives 418",
+            "pt-BR": "Sobre o que está escrito: — Porque o Senhor repreende a quem ama, — e açoita a todo filho que recebe"
+          }
+        },
+        {
+          "id": "p02-ch083",
+          "title": {
+            "la": "De coniugio, in eo quod Dominus ait: — Si quis dimiserit uxorem suam, — excepta causa fornicationis, et cetera 420",
+            "en-US": "On Marriage, in what the Lord says: — If anyone dismisses his wife, — except for the cause of fornication, and the rest 420",
+            "pt-BR": "Sobre o matrimônio, no que diz o Senhor: — Se alguém repudiar a sua mulher, — exceto por causa de fornicação, e o restante"
+          }
+        }
+      ]
+    }
+  ]
+}

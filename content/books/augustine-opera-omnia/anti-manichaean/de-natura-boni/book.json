@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-natura-boni",
+  "cover": "label",
+  "name": {
+    "la": "De natura boni",
+    "en-US": "The Nature of the Good",
+    "pt-BR": "A natureza do bem"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A short treatise against the Manichees: God is the unchangeable highest good, every nature he made is good insofar as it is a nature, and evil is no substance but the corruption of a good.",
+    "pt-BR": "Breve tratado contra os maniqueus: Deus é o sumo bem imutável, toda natureza criada por ele é boa enquanto natureza, e o mal não é substância, mas corrupção de um bem.",
+    "la": "Breve contra Manichaeos tractatus: Deum esse summum bonum incommutabile, omnes naturas ab eo factas, quatenus naturae sunt, bonas esse, malum vero non substantiam sed boni corruptionem."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~NatureGood",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~NatureGood",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~NatureGood",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

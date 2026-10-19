@@ -1,0 +1,67 @@
+{
+  "id": "augustine-contra-felicem",
+  "cover": "label",
+  "name": {
+    "la": "Contra Felicem Manichaeum",
+    "en-US": "Answer to Felix, a Manichean",
+    "pt-BR": "Contra Félix, o maniqueu"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Record of a two-day public debate in the church at Hippo with Felix, a Manichean teacher who had come to spread his error there. Felix agrees to defend Mani's *Letter of the Foundation*; the second book discusses free choice of the will.",
+    "pt-BR": "Ata de um debate público de dois dias, na igreja de Hipona, com Félix, mestre maniqueu que ali viera difundir seu erro. Félix se dispõe a defender a *Carta do Fundamento* de Mani; o segundo livro trata do livre-arbítrio.",
+    "la": "Gesta disputationis biduanae in ecclesia Hipponensi coram populo habitae cum Felice, Manichaeorum doctore, qui eo errorem seminaturus venerat. Felix *Epistolam Fundamenti* defendendam suscipit; in secundo libro de libero voluntatis arbitrio agitur."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Felix",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Felix",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Felix",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    }
+  ]
+}

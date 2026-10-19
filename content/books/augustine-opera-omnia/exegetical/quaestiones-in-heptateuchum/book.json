@@ -1,0 +1,1525 @@
+{
+  "id": "augustine-quaestiones-in-heptateuchum",
+  "cover": "label",
+  "name": {
+    "la": "Quaestiones in Heptateuchum",
+    "en-US": "Questions on the Heptateuch",
+    "pt-BR": "Questões sobre o Heptateuco"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Seven books of questions on Genesis through Judges, so named because Augustine set them out as matters to be inquired into rather than settled. They take up difficulties in the narrative, the Law and its rites.",
+    "pt-BR": "Sete livros de questões sobre os livros do Gênesis aos Juízes, assim chamados porque Agostinho as propôs mais como matéria de investigação do que como problemas resolvidos. Tratam de dificuldades da narrativa, da Lei e de seus ritos.",
+    "la": "Septem libri quaestionum in libros a Genesi usque ad Iudices, ita appellati quia ea quae ibi disputantur magis quaerenda quam quaesita proposuit. Difficultates narrationis, Legis eiusque rituum tractant."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~QsHept",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~QsHept",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~QsHept",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: Quaestiones in Genesim",
+        "en-US": "Book I: Questions on Genesis",
+        "pt-BR": "Livro I: Questões sobre o Gênesis"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "la": "Liber II: Quaestiones in Exodum",
+        "en-US": "Book II: Questions on Exodus",
+        "pt-BR": "Livro II: Questões sobre o Êxodo"
+      },
+      "children": [
+        {
+          "id": "p03-ch001",
+          "title": {
+            "la": "De obstetricum mendacio, quo fefellerunt Pharaonem.",
+            "en-US": "On the lie of the midwives, by which they deceived Pharaoh.",
+            "pt-BR": "Sobre a mentira das parteiras, com que enganaram o Faraó."
+          }
+        },
+        {
+          "id": "p03-ch002",
+          "title": {
+            "la": "De facto Moysi, cum occidit Aegyptium.",
+            "en-US": "On the deed of Moses, when he killed the Egyptian.",
+            "pt-BR": "Sobre o feito de Moisés, quando matou o egípcio."
+          }
+        },
+        {
+          "id": "p03-ch003",
+          "title": {
+            "la": "De eo quod clamavit illum Dominus de rubo.",
+            "en-US": "On the fact that the Lord called him from the bush.",
+            "pt-BR": "Sobre o fato de o Senhor o ter chamado da sarça."
+          }
+        },
+        {
+          "id": "p03-ch004",
+          "title": {
+            "la": "Quomodo educendus dicitur Israel in terram bonam.",
+            "en-US": "How Israel is said to be led out into a good land.",
+            "pt-BR": "Como se diz que Israel há de ser conduzido a uma terra boa."
+          }
+        },
+        {
+          "id": "p03-ch005",
+          "title": {
+            "la": "Quomodo clamor filiorum Israel venit ad Deum.",
+            "en-US": "How the cry of the children of Israel came to God.",
+            "pt-BR": "Como o clamor dos filhos de Israel chegou a Deus."
+          }
+        },
+        {
+          "id": "p03-ch006",
+          "title": {
+            "la": "Quid de mandato Domini sentiendum sit.",
+            "en-US": "What is to be thought of the Lord's command.",
+            "pt-BR": "O que se há de pensar do mandato do Senhor."
+          }
+        },
+        {
+          "id": "p03-ch007",
+          "title": {
+            "la": "De eo quod ait Moyses ad Dominum.",
+            "en-US": "On what Moses said to the Lord.",
+            "pt-BR": "Sobre o que Moisés disse ao Senhor."
+          }
+        },
+        {
+          "id": "p03-ch008",
+          "title": {
+            "la": "Deum iuste totum velle nemo ambigit.",
+            "en-US": "That God justly wills the whole, no one doubts.",
+            "pt-BR": "Que Deus quer justamente o todo, ninguém duvida."
+          }
+        },
+        {
+          "id": "p03-ch009",
+          "title": {
+            "la": "Quod Dominus dicit ad Moyses.",
+            "en-US": "What the Lord says to Moses.",
+            "pt-BR": "O que o Senhor diz a Moisés."
+          }
+        },
+        {
+          "id": "p03-ch010",
+          "title": {
+            "la": "Quemadmodum possit intellegi irascens Deus.",
+            "en-US": "How God can be understood as being angry.",
+            "pt-BR": "De que modo se pode entender que Deus se irrita."
+          }
+        },
+        {
+          "id": "p03-ch011",
+          "title": {
+            "la": "Utrum volebat angelus occidere Moysen.",
+            "en-US": "Whether the angel wished to kill Moses.",
+            "pt-BR": "Se o anjo queria matar Moisés."
+          }
+        },
+        {
+          "id": "p03-ch012",
+          "title": {
+            "la": "Moyses uxorem et infantes imposuit vehiculis.",
+            "en-US": "Moses placed his wife and infants on the vehicles.",
+            "pt-BR": "Moisés pôs a esposa e os meninos sobre os veículos."
+          }
+        },
+        {
+          "id": "p03-ch013",
+          "title": {
+            "la": "Quod mandavit Deus eiecturum se populum de Aegypto.",
+            "en-US": "That God commanded that he would cast the people out of Egypt.",
+            "pt-BR": "Que Deus mandou que faria sair o povo do Egito."
+          }
+        },
+        {
+          "id": "p03-ch014",
+          "title": {
+            "la": "De eo quod dicit Moyses ad Dominum.",
+            "en-US": "On what Moses says to the Lord.",
+            "pt-BR": "Sobre o que Moisés diz ao Senhor."
+          }
+        },
+        {
+          "id": "p03-ch015",
+          "title": {
+            "la": "De origine Moysi.",
+            "en-US": "On the origin of Moses.",
+            "pt-BR": "Sobre a origem de Moisés."
+          }
+        },
+        {
+          "id": "p03-ch016",
+          "title": {
+            "la": "Quomodo Moyses se excusavit, quod gracili voce esset.",
+            "en-US": "How Moses excused himself, that he was of a thin voice.",
+            "pt-BR": "Como Moisés se desculpou por ser de voz débil."
+          }
+        },
+        {
+          "id": "p03-ch017",
+          "title": {
+            "la": "Quare Scriptura loquitur de Moyse dum ad populum mitteretur.",
+            "en-US": "How Scripture speaks of Moses when he was sent to the people.",
+            "pt-BR": "Como a Escritura fala de Moisés quando ele era enviado ao povo."
+          }
+        },
+        {
+          "id": "p03-ch018",
+          "title": {
+            "la": "An necessaria fuerit obduratio cordis Pharaonis.",
+            "en-US": "Whether the hardening of Pharaoh's heart was necessary.",
+            "pt-BR": "Se foi necessário o endurecimento do coração do Faraó."
+          }
+        },
+        {
+          "id": "p03-ch019",
+          "title": {
+            "la": "Cur Aaron sumere iubetur virgam.",
+            "en-US": "Why Aaron is bidden to take the rod.",
+            "pt-BR": "Por que se manda a Arão tomar a vara."
+          }
+        },
+        {
+          "id": "p03-ch020",
+          "title": {
+            "la": "Quomodo Aaron eam virgam suam ibidem appellet.",
+            "en-US": "How Aaron calls that rod his own there.",
+            "pt-BR": "Como Arão chama ali aquela vara de sua."
+          }
+        },
+        {
+          "id": "p03-ch021",
+          "title": {
+            "la": "De verbis: Et absorbuit virga Aaron virgas illorum.",
+            "en-US": "On the words: And the rod of Aaron swallowed up their rods.",
+            "pt-BR": "Sobre as palavras: E a vara de Arão engoliu as varas deles."
+          }
+        },
+        {
+          "id": "p03-ch022",
+          "title": {
+            "la": "Numquid ideo obduratum dicitur cor Pharaonis.",
+            "en-US": "Whether Pharaoh's heart is therefore said to have been hardened.",
+            "pt-BR": "Se por isso se diz endurecido o coração do Faraó."
+          }
+        },
+        {
+          "id": "p03-ch023",
+          "title": {
+            "la": "Unde incantatores dicantur ranas eduxisse.",
+            "en-US": "Whence the enchanters are said to have brought forth frogs.",
+            "pt-BR": "Donde se diz que os encantadores fizeram sair rãs."
+          }
+        },
+        {
+          "id": "p03-ch024",
+          "title": {
+            "la": "Causae obdurationis cordis Pharaonis.",
+            "en-US": "The causes of the hardening of Pharaoh's heart.",
+            "pt-BR": "As causas do endurecimento do coração do Faraó."
+          }
+        },
+        {
+          "id": "p03-ch025",
+          "title": {
+            "la": "De eo quod dixerunt magi ad Pharaonem: Digitus Dei est hoc.",
+            "en-US": "On what the magicians said to Pharaoh: This is the finger of God.",
+            "pt-BR": "Sobre o que os magos disseram ao Faraó: Isto é o dedo de Deus."
+          }
+        },
+        {
+          "id": "p03-ch026",
+          "title": {
+            "la": "Quid de terrae in qua Israelitae et in qua Aegyptii habitabant segregatione sentiendum sit.",
+            "en-US": "What is to be thought of the separation of the land in which the Israelites dwelt and that in which the Egyptians dwelt.",
+            "pt-BR": "O que se há de pensar da separação entre a terra em que habitavam os israelitas e aquela em que habitavam os egípcios."
+          }
+        },
+        {
+          "id": "p03-ch027",
+          "title": {
+            "la": "Utrum dicendum sit ut latini an ut graecus habet.",
+            "en-US": "Whether it should be said as the Latins have it or as the Greek has it.",
+            "pt-BR": "Se se deve dizer como têm os latinos ou como tem o grego."
+          }
+        },
+        {
+          "id": "p03-ch028",
+          "title": {
+            "la": "De eo quod ait Moyses: Non potest fieri sic.",
+            "en-US": "On what Moses says: It cannot be done thus.",
+            "pt-BR": "Sobre o que Moisés diz: Não pode ser feito assim."
+          }
+        },
+        {
+          "id": "p03-ch029",
+          "title": {
+            "la": "A voluntate hominis est origo vitiorum.",
+            "en-US": "The origin of vices is from the will of man.",
+            "pt-BR": "A origem dos vícios está na vontade do homem."
+          }
+        },
+        {
+          "id": "p03-ch030",
+          "title": {
+            "la": "Quomodo ingravatum est cor Pharaonis ex contrariis causis.",
+            "en-US": "How Pharaoh's heart was made heavy by contrary causes.",
+            "pt-BR": "Como o coração do Faraó se agravou por causas contrárias."
+          }
+        },
+        {
+          "id": "p03-ch031",
+          "title": {
+            "la": "De eo quod dicit Deus ad Aaron et Moysen.",
+            "en-US": "On what God says to Aaron and Moses.",
+            "pt-BR": "Sobre o que Deus diz a Arão e a Moisés."
+          }
+        },
+        {
+          "id": "p03-ch032",
+          "title": {
+            "la": "Quid momenti habeant illa verba quorum sententiam etiam Apostolus habet.",
+            "en-US": "What weight those words have, whose meaning the Apostle too has.",
+            "pt-BR": "Que peso têm aquelas palavras cujo sentido também o Apóstolo traz."
+          }
+        },
+        {
+          "id": "p03-ch033",
+          "title": {
+            "la": "Deus Pharaoni se facturum magnam grandinem minatur.",
+            "en-US": "God threatens Pharaoh that he will make great hail.",
+            "pt-BR": "Deus ameaça o Faraó de que fará grande granizo."
+          }
+        },
+        {
+          "id": "p03-ch034",
+          "title": {
+            "la": "Moyses iubetur extendere manum in caelum non in terram.",
+            "en-US": "Moses is bidden to extend his hand toward heaven, not toward the earth.",
+            "pt-BR": "Manda-se a Moisés estender a mão para o céu, não para a terra."
+          }
+        },
+        {
+          "id": "p03-ch035",
+          "title": {
+            "la": "Pharao nondum timet Dominum.",
+            "en-US": "Pharaoh does not yet fear the Lord.",
+            "pt-BR": "O Faraó ainda não teme o Senhor."
+          }
+        },
+        {
+          "id": "p03-ch036",
+          "title": {
+            "la": "Numquid Deus opus habeat cuiusquam malitia.",
+            "en-US": "Whether God has any need of anyone's malice.",
+            "pt-BR": "Se Deus tem necessidade da malícia de alguém."
+          }
+        },
+        {
+          "id": "p03-ch037",
+          "title": {
+            "la": "Etiam post locustarum ablationem induratum cor Pharaonis.",
+            "en-US": "Pharaoh's heart hardened even after the removal of the locusts.",
+            "pt-BR": "O coração do Faraó endurecido mesmo depois da retirada dos gafanhotos."
+          }
+        },
+        {
+          "id": "p03-ch038",
+          "title": {
+            "la": "Tertio Moyses extendit manum.",
+            "en-US": "Moses stretches out his hand a third time.",
+            "pt-BR": "Pela terceira vez Moisés estende a mão."
+          }
+        },
+        {
+          "id": "p03-ch039",
+          "title": {
+            "la": "An in exemplum sumi possit furtum quod Deus mandavit filiis Israel.",
+            "en-US": "Whether the theft that God commanded the children of Israel can be taken as an example.",
+            "pt-BR": "Se o furto que Deus mandou aos filhos de Israel pode ser tomado como exemplo."
+          }
+        },
+        {
+          "id": "p03-ch040",
+          "title": {
+            "la": "Numquid opus fuerat Deo inoboedientia Pharaonis ad multiplicanda signa sua.",
+            "en-US": "Whether God had any need of Pharaoh's disobedience for multiplying his signs.",
+            "pt-BR": "Se Deus teve necessidade da desobediência do Faraó para multiplicar os seus sinais."
+          }
+        },
+        {
+          "id": "p03-ch041",
+          "title": {
+            "la": "Id, quod superaverit, igni comburendum Dominus innuit.",
+            "en-US": "The Lord indicates that what remained over was to be burned with fire.",
+            "pt-BR": "O Senhor indica que o que sobrasse havia de ser queimado no fogo."
+          }
+        },
+        {
+          "id": "p03-ch042",
+          "title": {
+            "la": "Quomodo dicatur agnus masculus, cum omnis agnus masculus sit.",
+            "en-US": "How a lamb is called male, since every lamb is male.",
+            "pt-BR": "Como se diz que o cordeiro é macho, sendo todo cordeiro macho."
+          }
+        },
+        {
+          "id": "p03-ch043",
+          "title": {
+            "la": "Quomodo dicatur diem aeternum, cum nullus aeternus sit.",
+            "en-US": "How a day is called eternal, since no day is eternal.",
+            "pt-BR": "Como se chama a um dia eterno, sendo que nenhum é eterno."
+          }
+        },
+        {
+          "id": "p03-ch044",
+          "title": {
+            "la": "Si soli primogeniti perimebantur.",
+            "en-US": "Whether only the firstborn were destroyed.",
+            "pt-BR": "Se apenas os primogênitos eram destruídos."
+          }
+        },
+        {
+          "id": "p03-ch045",
+          "title": {
+            "la": "Quomodo post tantum luctum Aegyptii vasa aurea et argentea accomodarunt Haebreis.",
+            "en-US": "How, after so great a mourning, the Egyptians lent the Hebrews vessels of gold and silver.",
+            "pt-BR": "Como, depois de tão grande luto, os egípcios emprestaram aos hebreus vasos de ouro e de prata."
+          }
+        },
+        {
+          "id": "p03-ch046",
+          "title": {
+            "la": "Quaeritur quem sanguinem dicat Scriptura iuxta ostium.",
+            "en-US": "It is asked what blood Scripture means as being by the door.",
+            "pt-BR": "Pergunta-se de que sangue a Escritura fala como estando junto à porta."
+          }
+        },
+        {
+          "id": "p03-ch047",
+          "title": {
+            "la": "Quomodo ad tantum numerum pervenire poterant Hebraei in Aegypto.",
+            "en-US": "How the Hebrews could reach so great a number in Egypt.",
+            "pt-BR": "Como os hebreus podiam chegar a tão grande número no Egito."
+          }
+        },
+        {
+          "id": "p03-ch048",
+          "title": {
+            "la": "Signum de pascha praeceptum.",
+            "en-US": "The sign commanded concerning the Passover.",
+            "pt-BR": "O sinal prescrito acerca da Páscoa."
+          }
+        },
+        {
+          "id": "p03-ch049",
+          "title": {
+            "la": "Omnia fieri debere, quae consilio recte fieri possunt.",
+            "en-US": "That all things ought to be done which can rightly be done by deliberation.",
+            "pt-BR": "Que se devem fazer todas as coisas que retamente se podem fazer por deliberação."
+          }
+        },
+        {
+          "id": "p03-ch050",
+          "title": {
+            "la": "Quinta autem progenie ascenderunt filii Israel de terra Aegypti.",
+            "en-US": "In the fifth generation the children of Israel went up from the land of Egypt.",
+            "pt-BR": "Na quinta geração subiram os filhos de Israel da terra do Egito."
+          }
+        },
+        {
+          "id": "p03-ch051",
+          "title": {
+            "la": "Quomodo vera sint verba, cum viderint postea Israelitae Aegyptios.",
+            "en-US": "How the words are true, since the Israelites later saw Egyptians.",
+            "pt-BR": "Como são verdadeiras as palavras, tendo os israelitas visto depois egípcios."
+          }
+        },
+        {
+          "id": "p03-ch052",
+          "title": {
+            "la": "Moyses corde clamat vocis silentio.",
+            "en-US": "Moses cries out with his heart, in the silence of his voice.",
+            "pt-BR": "Moisés clama com o coração, no silêncio da voz."
+          }
+        },
+        {
+          "id": "p03-ch053",
+          "title": {
+            "la": "Virga in qua fiebant miracula.",
+            "en-US": "The rod by which the miracles were done.",
+            "pt-BR": "A vara com que se faziam os milagres."
+          }
+        },
+        {
+          "id": "p03-ch054",
+          "title": {
+            "la": "Terra pro aqua posita.",
+            "en-US": "\"Earth\" put for \"water.\"",
+            "pt-BR": "\"Terra\" posta por \"água\"."
+          }
+        },
+        {
+          "id": "p03-ch055",
+          "title": {
+            "la": "Quomodo Spiritus Dei iam quinto memoretur.",
+            "en-US": "How the Spirit of God is now mentioned for the fifth time.",
+            "pt-BR": "Como o Espírito de Deus já é mencionado pela quinta vez."
+          }
+        },
+        {
+          "id": "p03-ch056",
+          "title": {
+            "la": "Si locus dictum est Merra seu Amaritudo a populo Israel",
+            "en-US": "Whether the place was called Marah, or \"Bitterness,\" by the people of Israel.",
+            "pt-BR": "Se o lugar foi chamado Mará, ou \"Amargura\", pelo povo de Israel."
+          }
+        },
+        {
+          "id": "p03-ch057",
+          "title": {
+            "la": "Genus ligni virgae.",
+            "en-US": "The kind of wood of the rod.",
+            "pt-BR": "O gênero da madeira da vara."
+          }
+        },
+        {
+          "id": "p03-ch058",
+          "title": {
+            "la": "Tentatio ista probatio est, non ad peccatum seductio.",
+            "en-US": "This testing is a proving, not a seduction into sin.",
+            "pt-BR": "Esta tentação é uma prova, não uma sedução ao pecado."
+          }
+        },
+        {
+          "id": "p03-ch059",
+          "title": {
+            "la": "De eo quod Moyses et Aaron dixerunt ad populum murmurantem.",
+            "en-US": "On what Moses and Aaron said to the murmuring people.",
+            "pt-BR": "Sobre o que Moisés e Arão disseram ao povo que murmurava."
+          }
+        },
+        {
+          "id": "p03-ch060",
+          "title": {
+            "la": "Manna panum nomine significatur.",
+            "en-US": "The manna is signified by the name of bread.",
+            "pt-BR": "O maná é significado pelo nome de pães."
+          }
+        },
+        {
+          "id": "p03-ch061",
+          "title": {
+            "la": "Dubitatur ubi Aaron poneret vasum ante Deum.",
+            "en-US": "It is doubted where Aaron was to place the vessel before God.",
+            "pt-BR": "Duvida-se de onde Arão haveria de pôr o vaso diante de Deus."
+          }
+        },
+        {
+          "id": "p03-ch062",
+          "title": {
+            "la": "Non ederunt filii Israel in eremo nisi manna.",
+            "en-US": "The children of Israel ate nothing in the wilderness but manna.",
+            "pt-BR": "Os filhos de Israel nada comeram no deserto senão o maná."
+          }
+        },
+        {
+          "id": "p03-ch063",
+          "title": {
+            "la": "De verbis: Quousque venirent in partem Phoenicis.",
+            "en-US": "On the words: Until they came into the region of Phoenicia.",
+            "pt-BR": "Sobre as palavras: Até que viessem à região da Fenícia."
+          }
+        },
+        {
+          "id": "p03-ch064",
+          "title": {
+            "la": "Flumen Aaron legitur, non Moyses, virga percussisse.",
+            "en-US": "It is Aaron, not Moses, who is read to have struck the river with the rod.",
+            "pt-BR": "Lê-se que foi Arão, não Moisés, quem feriu o rio com a vara."
+          }
+        },
+        {
+          "id": "p03-ch065",
+          "title": {
+            "la": "Quomodo dicatur virga Dei quae prius dicta est virga Moysi et Aaron.",
+            "en-US": "How it is called the rod of God which was earlier called the rod of Moses and Aaron.",
+            "pt-BR": "Como se chama vara de Deus a que antes se chamou vara de Moisés e de Arão."
+          }
+        },
+        {
+          "id": "p03-ch066",
+          "title": {
+            "la": "Ubi ante Deum vel coram Deo manducasse dicuntur panem.",
+            "en-US": "Where they are said to have eaten bread before God or in the presence of God.",
+            "pt-BR": "Onde se diz que comeram pão diante de Deus, ou na presença de Deus."
+          }
+        },
+        {
+          "id": "p03-ch067",
+          "title": {
+            "la": "Verba quae Moyses socero dixit.",
+            "en-US": "The words that Moses said to his father-in-law.",
+            "pt-BR": "As palavras que Moisés disse ao sogro."
+          }
+        },
+        {
+          "id": "p03-ch068",
+          "title": {
+            "la": "Iothor consilium dat genero suo Moysi.",
+            "en-US": "Jethro gives counsel to his son-in-law Moses.",
+            "pt-BR": "Jetro dá conselho a seu genro Moisés."
+          }
+        },
+        {
+          "id": "p03-ch069",
+          "title": {
+            "la": "Iothor ab ipso Moyse removit graves et periculosas occupationes.",
+            "en-US": "Jethro removed grave and dangerous occupations from Moses himself.",
+            "pt-BR": "Jetro afastou do próprio Moisés ocupações graves e perigosas."
+          }
+        },
+        {
+          "id": "p03-ch070",
+          "title": {
+            "la": "Quomodo significetur quinquagesimo die ab exitu Israel de Aegypto data lex, scripta digito Dei.",
+            "en-US": "How it is signified that the Law, written by the finger of God, was given on the fiftieth day from Israel's exodus from Egypt.",
+            "pt-BR": "Como se significa que no quinquagésimo dia da saída de Israel do Egito foi dada a Lei, escrita pelo dedo de Deus."
+          }
+        },
+        {
+          "id": "p03-ch071",
+          "title": {
+            "la": "Quomodo decem praecepta legis dividenda sint.",
+            "en-US": "How the ten precepts of the Law are to be divided.",
+            "pt-BR": "Como devem ser divididos os dez preceitos da Lei."
+          }
+        },
+        {
+          "id": "p03-ch072",
+          "title": {
+            "la": "Quomodo ibidem populus dicatur vidisse vocem.",
+            "en-US": "How the people there are said to have seen the voice.",
+            "pt-BR": "Como ali se diz que o povo viu a voz."
+          }
+        },
+        {
+          "id": "p03-ch073",
+          "title": {
+            "la": "Quomodo timorem ad V. Testamentum pertinere significatur.",
+            "en-US": "How fear is signified to pertain to the Old Testament.",
+            "pt-BR": "Como se significa que o temor pertence ao Antigo Testamento."
+          }
+        },
+        {
+          "id": "p03-ch074",
+          "title": {
+            "la": "Quomodo Deus tentet.",
+            "en-US": "How God tests.",
+            "pt-BR": "Como Deus tenta."
+          }
+        },
+        {
+          "id": "p03-ch075",
+          "title": {
+            "la": "Quomodo Deus in nebula erit.",
+            "en-US": "How God will be in the cloud.",
+            "pt-BR": "Como Deus estará na névoa."
+          }
+        },
+        {
+          "id": "p03-ch076",
+          "title": {
+            "la": "Omnia simulacra prohibuntur.",
+            "en-US": "All images are forbidden.",
+            "pt-BR": "Todas as imagens são proibidas."
+          }
+        },
+        {
+          "id": "p03-ch077",
+          "title": {
+            "la": "De servo hebraeo praecipitur ut sex annos serviat et dimittatur liber gratis.",
+            "en-US": "Concerning the Hebrew slave it is prescribed that he serve six years and be sent away free without payment.",
+            "pt-BR": "Prescreve-se acerca do servo hebreu que sirva seis anos e seja despedido livre gratuitamente."
+          }
+        },
+        {
+          "id": "p03-ch078",
+          "title": {
+            "la": "Quomodo verba quae de ancilla subduntur obscura sint et explanari debeant.",
+            "en-US": "How the words that follow concerning the maidservant are obscure and need to be explained.",
+            "pt-BR": "Como as palavras que se seguem acerca da serva são obscuras e devem ser explicadas."
+          }
+        },
+        {
+          "id": "p03-ch079",
+          "title": {
+            "la": "Deus nonnisi iuste occidit, homo autem pena dignus.",
+            "en-US": "God kills only justly, but a man is worthy of punishment.",
+            "pt-BR": "Deus só mata com justiça; o homem, porém, é digno de pena."
+          }
+        },
+        {
+          "id": "p03-ch080",
+          "title": {
+            "la": "Utrum quod in utero formatum adhuc est, animatum posset intellegi.",
+            "en-US": "Whether what is still being formed in the womb could be understood as animate.",
+            "pt-BR": "Se aquilo que ainda está sendo formado no ventre poderia ser entendido como animado."
+          }
+        },
+        {
+          "id": "p03-ch081",
+          "title": {
+            "la": "Ad iustitiam pertinet ut animal hominibus noxium perimatur.",
+            "en-US": "It pertains to justice that an animal harmful to men be destroyed.",
+            "pt-BR": "Pertence à justiça que se mate o animal nocivo aos homens."
+          }
+        },
+        {
+          "id": "p03-ch082",
+          "title": {
+            "la": "Quomodo accipiendum sit quod dicitur de tauro percutiendo.",
+            "en-US": "How what is said about the ox being struck is to be taken.",
+            "pt-BR": "Como se deve tomar o que se diz acerca do touro que fere."
+          }
+        },
+        {
+          "id": "p03-ch083",
+          "title": {
+            "la": "Quod pro vitulo uno quinque reddantur.",
+            "en-US": "That for one calf five are to be repaid.",
+            "pt-BR": "Que por um só bezerro se restituam cinco."
+          }
+        },
+        {
+          "id": "p03-ch084",
+          "title": {
+            "la": "Non pertinet ad homicidium, si fur nocturnus occiditur.",
+            "en-US": "It does not pertain to homicide if a nocturnal thief is killed.",
+            "pt-BR": "Não pertence ao homicídio se um ladrão noturno é morto."
+          }
+        },
+        {
+          "id": "p03-ch085",
+          "title": {
+            "la": "Quomodo quis per Deum convictus dicatur.",
+            "en-US": "How someone is said to be convicted by God.",
+            "pt-BR": "Como alguém se diz convencido por Deus."
+          }
+        },
+        {
+          "id": "p03-ch086",
+          "title": {
+            "la": "De eo quod dixit: Deos non maledices.",
+            "en-US": "On what he said: You shall not curse gods.",
+            "pt-BR": "Sobre o que disse: Não amaldiçoarás os deuses."
+          }
+        },
+        {
+          "id": "p03-ch087",
+          "title": {
+            "la": "De verbis: Non eris cum pluribus in malitia.",
+            "en-US": "On the words: You shall not be with the many in malice.",
+            "pt-BR": "Sobre as palavras: Não estarás com a maioria na malícia."
+          }
+        },
+        {
+          "id": "p03-ch088",
+          "title": {
+            "la": "Bona est misericordia, sed non debet esse contra iudicium.",
+            "en-US": "Mercy is good, but it ought not to be against judgment.",
+            "pt-BR": "A misericórdia é boa, mas não deve ser contra o juízo."
+          }
+        },
+        {
+          "id": "p03-ch089",
+          "title": {
+            "la": "De verbis: Sex annis seminabis terram tuam et colliges fructum eius.",
+            "en-US": "On the words: For six years you shall sow your land and gather its fruit.",
+            "pt-BR": "Sobre as palavras: Por seis anos semearás a tua terra e colherás o seu fruto."
+          }
+        },
+        {
+          "id": "p03-ch090",
+          "title": {
+            "la": "De verbis: Non coques agnum in lacte matris suae.",
+            "en-US": "On the words: You shall not boil a lamb in its mother's milk.",
+            "pt-BR": "Sobre as palavras: Não cozerás o cordeiro no leite de sua mãe."
+          }
+        },
+        {
+          "id": "p03-ch091",
+          "title": {
+            "la": "De quo dictum sit: Ecce ego mitto angelum meum.",
+            "en-US": "Of whom it was said: Behold, I send my angel.",
+            "pt-BR": "De quem se disse: Eis que eu envio o meu anjo."
+          }
+        },
+        {
+          "id": "p03-ch092",
+          "title": {
+            "la": "Quomodo accipiendae sint promissiones.",
+            "en-US": "How the promises are to be taken.",
+            "pt-BR": "Como se devem tomar as promessas."
+          }
+        },
+        {
+          "id": "p03-ch093",
+          "title": {
+            "la": "De vespis quid intellegendum sit.",
+            "en-US": "What is to be understood concerning the wasps.",
+            "pt-BR": "O que se deve entender acerca das vespas."
+          }
+        },
+        {
+          "id": "p03-ch094",
+          "title": {
+            "la": "Latria debetur nonnisi Deo tanquam Deo.",
+            "en-US": "Latria is owed only to God as God.",
+            "pt-BR": "A latria não se deve senão a Deus como Deus."
+          }
+        },
+        {
+          "id": "p03-ch095",
+          "title": {
+            "la": "Iustificationes intelleguntur quae datae sunt populo ad observandum.",
+            "en-US": "Those are understood as ordinances of justice which were given to the people to observe.",
+            "pt-BR": "Entendem-se por justificações aquelas que foram dadas ao povo para observar."
+          }
+        },
+        {
+          "id": "p03-ch096",
+          "title": {
+            "la": "Quae sit ratio ordinis in verbis: faciemus et audiemus.",
+            "en-US": "What is the reason for the order in the words: We will do and we will hear.",
+            "pt-BR": "Qual é a razão da ordem nas palavras: faremos e ouviremos."
+          }
+        },
+        {
+          "id": "p03-ch097",
+          "title": {
+            "la": "Moyses aedificavit altare sub monte.",
+            "en-US": "Moses built an altar under the mountain.",
+            "pt-BR": "Moisés edificou um altar ao pé do monte."
+          }
+        },
+        {
+          "id": "p03-ch098",
+          "title": {
+            "la": "Quomodo dicatur: Et immolaverunt hostiam salutaris.",
+            "en-US": "How it is said: And they sacrificed a victim of salvation.",
+            "pt-BR": "Como se diz: E imolaram uma vítima de salvação."
+          }
+        },
+        {
+          "id": "p03-ch099",
+          "title": {
+            "la": "Quomodo Moyses primum sacrificasse legatur Deo post exitum de Aegypto.",
+            "en-US": "How Moses is read to have first sacrificed to God after the exodus from Egypt.",
+            "pt-BR": "Como se lê que Moisés sacrificou pela primeira vez a Deus depois da saída do Egito."
+          }
+        },
+        {
+          "id": "p03-ch100",
+          "title": {
+            "la": "Iterum de verbis: Faciemus et audiemus.",
+            "en-US": "Again on the words: We will do and we will hear.",
+            "pt-BR": "De novo sobre as palavras: Faremos e ouviremos."
+          }
+        },
+        {
+          "id": "p03-ch101",
+          "title": {
+            "la": "Quod Deus (spiritus enim est) nullo loco continetur.",
+            "en-US": "That God (for he is spirit) is contained in no place.",
+            "pt-BR": "Que Deus (pois é espírito) não está contido em lugar algum."
+          }
+        },
+        {
+          "id": "p03-ch102",
+          "title": {
+            "la": "Qui sint electi.",
+            "en-US": "Who the elect are.",
+            "pt-BR": "Quem sejam os eleitos."
+          }
+        },
+        {
+          "id": "p03-ch103",
+          "title": {
+            "la": "Iesu Nave, non antea commemoratus, cum Moyse apparet.",
+            "en-US": "Joshua son of Nun, not mentioned before, appears with Moses.",
+            "pt-BR": "Josué filho de Num, não mencionado antes, aparece com Moisés."
+          }
+        },
+        {
+          "id": "p03-ch104",
+          "title": {
+            "la": "Quae sint cymantia aurea versatilia in circuitu.",
+            "en-US": "What the golden moldings, turned all around, are.",
+            "pt-BR": "Que sejam as molduras de ouro torneadas em derredor."
+          }
+        },
+        {
+          "id": "p03-ch105",
+          "title": {
+            "la": "De propitiatorio quod imponitur super arcam.",
+            "en-US": "On the propitiatory which is placed over the ark.",
+            "pt-BR": "Sobre o propiciatório que se põe sobre a arca."
+          }
+        },
+        {
+          "id": "p03-ch106",
+          "title": {
+            "la": "Quomodo accipiendi sint annuli.",
+            "en-US": "How the rings are to be taken.",
+            "pt-BR": "Como se devem tomar as argolas."
+          }
+        },
+        {
+          "id": "p03-ch107",
+          "title": {
+            "la": "Quae sit ratio ut tabernaculum fieri iubeatur decem aulaeorum.",
+            "en-US": "What is the reason that the tabernacle is ordered to be made of ten curtains.",
+            "pt-BR": "Qual seja a razão de se mandar fazer o tabernáculo de dez cortinas."
+          }
+        },
+        {
+          "id": "p03-ch108",
+          "title": {
+            "la": "Quomodo et in qua significatione morali praecipiuntur fieri super tabernaculum vela capillacia.",
+            "en-US": "How, and in what moral signification, hair-cloth coverings are commanded to be made over the tabernacle.",
+            "pt-BR": "Como e em que significação moral se manda fazer sobre o tabernáculo coberturas de pelos."
+          }
+        },
+        {
+          "id": "p03-ch109",
+          "title": {
+            "la": "De duobus anconibus.",
+            "en-US": "On the two brackets.",
+            "pt-BR": "Sobre os dois consolos."
+          }
+        },
+        {
+          "id": "p03-ch110",
+          "title": {
+            "la": "De basibus columnarum duabus.",
+            "en-US": "On the two bases of the columns.",
+            "pt-BR": "Sobre as duas bases das colunas."
+          }
+        },
+        {
+          "id": "p03-ch111",
+          "title": {
+            "la": "De octo columnis et basibus earum sedecim.",
+            "en-US": "On the eight columns and their sixteen bases.",
+            "pt-BR": "Sobre as oito colunas e as suas dezesseis bases."
+          }
+        },
+        {
+          "id": "p03-ch112",
+          "title": {
+            "la": "Quae sit differentia inter sanctum et sanctum sanctorum.",
+            "en-US": "What is the difference between the holy place and the holy of holies.",
+            "pt-BR": "Qual seja a diferença entre o santo e o santo dos santos."
+          }
+        },
+        {
+          "id": "p03-ch113",
+          "title": {
+            "la": "Cur praecipitur altare fieri trium cubitorum in altitudine.",
+            "en-US": "Why the altar is commanded to be made three cubits in height.",
+            "pt-BR": "Por que se manda fazer o altar de três côvados de altura."
+          }
+        },
+        {
+          "id": "p03-ch114",
+          "title": {
+            "la": "Quod per spiritum intellectus et per stolas cum cornibus intellegatur.",
+            "en-US": "That the spirit of understanding is meant, and what is understood by the robes with the horns.",
+            "pt-BR": "Que se entende pelo espírito de inteligência, e o que se entende pelas vestes com os chifres."
+          }
+        },
+        {
+          "id": "p03-ch115",
+          "title": {
+            "la": "De aspidiscas in veste sacerdotali.",
+            "en-US": "On the little shields in the priestly vestment.",
+            "pt-BR": "Sobre os pequenos escudos na veste sacerdotal."
+          }
+        },
+        {
+          "id": "p03-ch116",
+          "title": {
+            "la": "Quomodo rationale vocetur propter inopiam linguae.",
+            "en-US": "How it is called the \"rational\" on account of the poverty of the language.",
+            "pt-BR": "Como se chama \"racional\" por causa da pobreza da língua."
+          }
+        },
+        {
+          "id": "p03-ch117",
+          "title": {
+            "la": "Ubi iubetur ponere super rationale demostratio et veritas.",
+            "en-US": "Where it is commanded to place upon the rational the manifestation and the truth.",
+            "pt-BR": "Onde se manda pôr sobre o racional a demonstração e a verdade."
+          }
+        },
+        {
+          "id": "p03-ch118",
+          "title": {
+            "la": "Vox Aaron intrantis et exeuntis in sanctum.",
+            "en-US": "The sound of Aaron entering and going out of the holy place.",
+            "pt-BR": "O som de Arão ao entrar e ao sair do santuário."
+          }
+        },
+        {
+          "id": "p03-ch119",
+          "title": {
+            "la": "Quomodo ibidem sanctitas Domini formari iubeatur in lamina aurea.",
+            "en-US": "How there the holiness of the Lord is commanded to be formed on a golden plate.",
+            "pt-BR": "Como ali se manda que a santidade do Senhor seja formada numa lâmina de ouro."
+          }
+        },
+        {
+          "id": "p03-ch120",
+          "title": {
+            "la": "Quomodo praecipiatur ut manus Aaron et filiorum eius impleantur.",
+            "en-US": "How it is commanded that the hands of Aaron and his sons be filled.",
+            "pt-BR": "Como se manda que se encham as mãos de Arão e de seus filhos."
+          }
+        },
+        {
+          "id": "p03-ch121",
+          "title": {
+            "la": "Femoralia linea praecipiuntur tegere turpitudinem sacerdotum.",
+            "en-US": "Linen breeches are prescribed to cover the priests' shame.",
+            "pt-BR": "Manda-se que calções de linho cubram a torpeza dos sacerdotes."
+          }
+        },
+        {
+          "id": "p03-ch122",
+          "title": {
+            "la": "Quid significetur per cidaras.",
+            "en-US": "What is signified by the headdresses.",
+            "pt-BR": "Que se significa pelas mitras."
+          }
+        },
+        {
+          "id": "p03-ch123",
+          "title": {
+            "la": "Quomodo sacerdotium filiorum Aaron dicatur sempiternum.",
+            "en-US": "How the priesthood of the sons of Aaron is called everlasting.",
+            "pt-BR": "Como o sacerdócio dos filhos de Arão se diz sempiterno."
+          }
+        },
+        {
+          "id": "p03-ch124",
+          "title": {
+            "la": "Quid per manus Aaron significetur.",
+            "en-US": "What is signified by the hands of Aaron.",
+            "pt-BR": "Que se significa pelas mãos de Arão."
+          }
+        },
+        {
+          "id": "p03-ch125",
+          "title": {
+            "la": "Unde supra dictum sit consummandas esse manus eorum.",
+            "en-US": "Why it was said above that their hands were to be consummated.",
+            "pt-BR": "Donde acima se disse que as mãos deles deviam ser consumadas."
+          }
+        },
+        {
+          "id": "p03-ch126",
+          "title": {
+            "la": "Quid odor Dei vocetur.",
+            "en-US": "What is called the odor of God.",
+            "pt-BR": "Que se chama odor de Deus."
+          }
+        },
+        {
+          "id": "p03-ch127",
+          "title": {
+            "la": "Quomodo pectusculum dicatur Aaron.",
+            "en-US": "How the breast is said to belong to Aaron.",
+            "pt-BR": "Como o peito se diz pertencer a Arão."
+          }
+        },
+        {
+          "id": "p03-ch128",
+          "title": {
+            "la": "De pectusculo et brachio victimarum.",
+            "en-US": "On the breast and the shoulder of the victims.",
+            "pt-BR": "Sobre o peito e o braço das vítimas."
+          }
+        },
+        {
+          "id": "p03-ch129",
+          "title": {
+            "la": "De stola sancti.",
+            "en-US": "On the robe of the holy place.",
+            "pt-BR": "Sobre a veste do santuário."
+          }
+        },
+        {
+          "id": "p03-ch130",
+          "title": {
+            "la": "Purificatio et sanctificatio altaris septem diebus.",
+            "en-US": "The purification and sanctification of the altar for seven days.",
+            "pt-BR": "A purificação e a santificação do altar por sete dias."
+          }
+        },
+        {
+          "id": "p03-ch131",
+          "title": {
+            "la": "De annulis altaris incensi.",
+            "en-US": "On the rings of the altar of incense.",
+            "pt-BR": "Sobre as argolas do altar do incenso."
+          }
+        },
+        {
+          "id": "p03-ch132",
+          "title": {
+            "la": "Quid sit et arcus amitibus.",
+            "en-US": "What \"and they shall be arches for the carrying-poles\" is.",
+            "pt-BR": "Que é \"e serão arcos para os varais\"."
+          }
+        },
+        {
+          "id": "p03-ch133",
+          "title": {
+            "la": "Quomodo intellegendum sit incensum continuationis.",
+            "en-US": "How the incense of continuation is to be understood.",
+            "pt-BR": "Como se deve entender o incenso da continuação."
+          }
+        },
+        {
+          "id": "p03-ch134",
+          "title": {
+            "la": "De computatione filiorum Israel.",
+            "en-US": "On the numbering of the children of Israel.",
+            "pt-BR": "Sobre a contagem dos filhos de Israel."
+          }
+        },
+        {
+          "id": "p03-ch135",
+          "title": {
+            "la": "De eo quod unguento chrismatis omnia iussit ungi.",
+            "en-US": "On the fact that he ordered all things to be anointed with the ointment of chrism.",
+            "pt-BR": "Sobre o fato de ter mandado ungir todas as coisas com o unguento do crisma."
+          }
+        },
+        {
+          "id": "p03-ch136",
+          "title": {
+            "la": "Quid sit opus unguentarii.",
+            "en-US": "What the work of a perfumer is.",
+            "pt-BR": "Que é a obra do perfumista."
+          }
+        },
+        {
+          "id": "p03-ch137",
+          "title": {
+            "la": "De discrimina inter altare incensi et tabernaculum testimonii.",
+            "en-US": "On the distinction between the altar of incense and the tabernacle of the testimony.",
+            "pt-BR": "Sobre a distinção entre o altar do incenso e o tabernáculo do testemunho."
+          }
+        },
+        {
+          "id": "p03-ch138",
+          "title": {
+            "la": "Quomodo spiritu Beseleel architecta repletus dicitur.",
+            "en-US": "How Bezalel the architect is said to be filled with the spirit.",
+            "pt-BR": "Como se diz que Beseleel, o arquiteto, foi cheio do espírito."
+          }
+        },
+        {
+          "id": "p03-ch139",
+          "title": {
+            "la": "Quid sibi velit quod de sabbato observando praeciperet.",
+            "en-US": "What he means by what he prescribed concerning observing the Sabbath.",
+            "pt-BR": "Que quer dizer com o que prescreveu acerca de observar o sábado."
+          }
+        },
+        {
+          "id": "p03-ch140",
+          "title": {
+            "la": "Quomodo dantur Moysi tantum duae tabulae lapideae.",
+            "en-US": "How only two tablets of stone are given to Moses.",
+            "pt-BR": "Como só duas tábuas de pedra são dadas a Moisés."
+          }
+        },
+        {
+          "id": "p03-ch141",
+          "title": {
+            "la": "De eo quod iubet Aaron inaures demi.",
+            "en-US": "On the fact that he orders Aaron to take off the earrings.",
+            "pt-BR": "Sobre o fato de mandar que Arão tire os brincos."
+          }
+        },
+        {
+          "id": "p03-ch142",
+          "title": {
+            "la": "Quid fecerit de vitulo populus.",
+            "en-US": "What the people did with the calf.",
+            "pt-BR": "Que fez o povo com o bezerro."
+          }
+        },
+        {
+          "id": "p03-ch143",
+          "title": {
+            "la": "Quid per malitiam intellegatur.",
+            "en-US": "What is understood by \"malice.\"",
+            "pt-BR": "Que se entende por \"malícia\"."
+          }
+        },
+        {
+          "id": "p03-ch144",
+          "title": {
+            "la": "De eo quod iratus Moyses tabulas testimonii fregerit.",
+            "en-US": "On the fact that Moses, angry, broke the tablets of the testimony.",
+            "pt-BR": "Sobre o fato de Moisés, irado, ter quebrado as tábuas do testemunho."
+          }
+        },
+        {
+          "id": "p03-ch145",
+          "title": {
+            "la": "De eo quod dicit Aaron ad Moysen.",
+            "en-US": "On what Aaron says to Moses.",
+            "pt-BR": "Sobre o que Arão diz a Moisés."
+          }
+        },
+        {
+          "id": "p03-ch146",
+          "title": {
+            "la": "Quomodo Aaron dicatur populum dissipasse cum ipsi petierint.",
+            "en-US": "How Aaron is said to have scattered the people when they themselves asked for it.",
+            "pt-BR": "Como se diz que Arão dissipou o povo, quando foram eles mesmos que o pediram."
+          }
+        },
+        {
+          "id": "p03-ch147",
+          "title": {
+            "la": "Moyses populum sic diligebat, ut pro eo illa verba Deo funderet.",
+            "en-US": "Moses so loved the people that for them he poured out those words to God.",
+            "pt-BR": "Moisés amava de tal modo o povo, que por ele derramou aquelas palavras a Deus."
+          }
+        },
+        {
+          "id": "p03-ch148",
+          "title": {
+            "la": "Quaeritur cur in Aaron vindicta nulla processerit.",
+            "en-US": "It is asked why no punishment proceeded against Aaron.",
+            "pt-BR": "Pergunta-se por que nenhum castigo recaiu sobre Arão."
+          }
+        },
+        {
+          "id": "p03-ch149",
+          "title": {
+            "la": "De verbis: Vade, ascende hinc tu et populus tuus quem eduxisti de terra Aegypti.",
+            "en-US": "On the words: Go, go up from here, you and your people whom you led out of the land of Egypt.",
+            "pt-BR": "Sobre as palavras: Vai, sobe daqui, tu e o teu povo, que tiraste da terra do Egito."
+          }
+        },
+        {
+          "id": "p03-ch150",
+          "title": {
+            "la": "Quomodo Dominus quasi plus misericordiae in angelo qui populum ducat, quam in se esse significet.",
+            "en-US": "How the Lord signifies that there is, as it were, more mercy in the angel who is to lead the people than in himself.",
+            "pt-BR": "Como o Senhor significa haver como que mais misericórdia no anjo que há de conduzir o povo do que nele mesmo."
+          }
+        },
+        {
+          "id": "p03-ch151",
+          "title": {
+            "la": "Quomodo Moyses volens manifeste seu scienter videre Deum, duplicem se habere amorem significat.",
+            "en-US": "How Moses, wishing to see God manifestly or knowingly, signifies that he has a twofold love.",
+            "pt-BR": "Como Moisés, querendo ver a Deus manifestamente, ou seja, conscientemente, significa ter um duplo amor."
+          }
+        },
+        {
+          "id": "p03-ch152",
+          "title": {
+            "la": "Quid sit quod dicit Deus ad Moysen.",
+            "en-US": "What it means that God says to Moses.",
+            "pt-BR": "Que é o que Deus diz a Moisés."
+          }
+        },
+        {
+          "id": "p03-ch153",
+          "title": {
+            "la": "Quod prius ipse Moyses dixerit Deo.",
+            "en-US": "That Moses himself first said this to God.",
+            "pt-BR": "Que o próprio Moisés dissera isto antes a Deus."
+          }
+        },
+        {
+          "id": "p03-ch154",
+          "title": {
+            "la": "De verbis: Ostende mihi gloriam tuam, et: Ego transibo ante te gloria mea.",
+            "en-US": "On the words: Show me your glory, and: I will pass before you in my glory.",
+            "pt-BR": "Sobre as palavras: Mostra-me a tua glória, e: Eu passarei diante de ti na minha glória."
+          }
+        },
+        {
+          "id": "p03-ch155",
+          "title": {
+            "la": "De verbis: Et reum non purificabit.",
+            "en-US": "On the words: And he will not purify the guilty.",
+            "pt-BR": "Sobre as palavras: E não purificará o réu."
+          }
+        },
+        {
+          "id": "p03-ch156",
+          "title": {
+            "la": "De eo quod Deus dicit Moysi.",
+            "en-US": "On what God says to Moses.",
+            "pt-BR": "Sobre o que Deus diz a Moisés."
+          }
+        },
+        {
+          "id": "p03-ch157",
+          "title": {
+            "la": "Quid sit quod dicitur ad Moysen: attende tibi.",
+            "en-US": "What it means that it is said to Moses: Attend to yourself.",
+            "pt-BR": "Que quer dizer o que se diz a Moisés: atenta para ti."
+          }
+        },
+        {
+          "id": "p03-ch158",
+          "title": {
+            "la": "Quomodo Deus zelator dicitur.",
+            "en-US": "How God is called jealous.",
+            "pt-BR": "Como Deus se diz zeloso."
+          }
+        },
+        {
+          "id": "p03-ch159",
+          "title": {
+            "la": "De verbis: Non videberis in conspectu meo inanis.",
+            "en-US": "On the words: You shall not appear before me empty.",
+            "pt-BR": "Sobre as palavras: Não aparecerás vazio diante de mim."
+          }
+        },
+        {
+          "id": "p03-ch160",
+          "title": {
+            "la": "Tempore sationis est messis.",
+            "en-US": "In the time of sowing there is harvest.",
+            "pt-BR": "No tempo da semeadura há colheita."
+          }
+        },
+        {
+          "id": "p03-ch161",
+          "title": {
+            "la": "De verbis: Non concupiscet quisquam de terra tua.",
+            "en-US": "On the words: No one shall covet anything of your land.",
+            "pt-BR": "Sobre as palavras: Ninguém cobiçará coisa alguma da tua terra."
+          }
+        },
+        {
+          "id": "p03-ch162",
+          "title": {
+            "la": "De verbis: Non occides super fermentum.",
+            "en-US": "On the words: You shall not slay upon leaven.",
+            "pt-BR": "Sobre as palavras: Não matarás sobre fermento."
+          }
+        },
+        {
+          "id": "p03-ch163",
+          "title": {
+            "la": "De verbis: non dormiet in mane immolatio...",
+            "en-US": "On the words: the sacrifice shall not sleep until morning...",
+            "pt-BR": "Sobre as palavras: a imolação não dormirá até a manhã..."
+          }
+        },
+        {
+          "id": "p03-ch164",
+          "title": {
+            "la": "De verbis: Non coques agnum in lacte matris suae. (2)",
+            "en-US": "On the words: You shall not boil a lamb in its mother's milk. (2)",
+            "pt-BR": "Sobre as palavras: Não cozerás o cordeiro no leite de sua mãe. (2)"
+          }
+        },
+        {
+          "id": "p03-ch165",
+          "title": {
+            "la": "Quomodo Moyses significatur ieiunasse quadraginta dies.",
+            "en-US": "How Moses is signified to have fasted forty days.",
+            "pt-BR": "Como se significa que Moisés jejuou quarenta dias."
+          }
+        },
+        {
+          "id": "p03-ch166",
+          "title": {
+            "la": "Moyses scripsit verba Legis.",
+            "en-US": "Moses wrote the words of the Law.",
+            "pt-BR": "Moisés escreveu as palavras da Lei."
+          }
+        },
+        {
+          "id": "p03-ch167",
+          "title": {
+            "la": "Dominus facit cum facientes adiuvat.",
+            "en-US": "The Lord acts when he helps those who act.",
+            "pt-BR": "O Senhor age quando ajuda os que agem."
+          }
+        },
+        {
+          "id": "p03-ch168",
+          "title": {
+            "la": "Quid sit: omnis afferens demptionem.",
+            "en-US": "What \"everyone bringing a deduction\" is.",
+            "pt-BR": "Que é: todo aquele que traz uma dedução."
+          }
+        },
+        {
+          "id": "p03-ch169",
+          "title": {
+            "la": "De Beseleel fit sermo ad Moysen.",
+            "en-US": "A discourse to Moses is made concerning Bezalel.",
+            "pt-BR": "Faz-se um discurso a Moisés acerca de Beseleel."
+          }
+        },
+        {
+          "id": "p03-ch170",
+          "title": {
+            "la": "Quomodo multi aedificandi peritia donati fuisse significentur.",
+            "en-US": "How many are signified to have been gifted with skill in building.",
+            "pt-BR": "Como se significa que muitos foram dotados de perícia em construir."
+          }
+        },
+        {
+          "id": "p03-ch171",
+          "title": {
+            "la": "Quomodo signanda sit iustitia architectorum.",
+            "en-US": "How the justice of the architects is to be marked.",
+            "pt-BR": "Como se deve assinalar a justiça dos arquitetos."
+          }
+        },
+        {
+          "id": "p03-ch172",
+          "title": {
+            "la": "Opera commendantur tabernaculi construendi et vestis sacerdotalis.",
+            "en-US": "The works of constructing the tabernacle and the priestly garment are commended.",
+            "pt-BR": "Recomendam-se as obras de construir o tabernáculo e a veste sacerdotal."
+          }
+        },
+        {
+          "id": "p03-ch173",
+          "title": {
+            "la": "Altare holocaustorum unctione sanctificatum.",
+            "en-US": "The altar of holocausts sanctified by anointing.",
+            "pt-BR": "O altar dos holocaustos santificado pela unção."
+          }
+        },
+        {
+          "id": "p03-ch174",
+          "title": {
+            "la": "Moyses extendit aurea super tabernaculum.",
+            "en-US": "Moses stretched the curtains over the tabernacle.",
+            "pt-BR": "Moisés estendeu as cortinas sobre o tabernáculo."
+          }
+        },
+        {
+          "id": "p03-ch175",
+          "title": {
+            "la": "Quaedam quae concernunt tabernaculum.",
+            "en-US": "Certain things that concern the tabernacle.",
+            "pt-BR": "Algumas coisas que dizem respeito ao tabernáculo."
+          }
+        },
+        {
+          "id": "p03-ch176",
+          "title": {
+            "la": "De nube quae impedivit Moysen.",
+            "en-US": "On the cloud which prevented Moses.",
+            "pt-BR": "Sobre a nuvem que impediu Moisés."
+          }
+        },
+        {
+          "id": "p03-ch177",
+          "title": {
+            "la": "Quaestio CLXXVII: De Tabernaculo: De toto ipso tabernaculo separatim dicitur.",
+            "en-US": "Question 177: On the Tabernacle: The whole tabernacle itself is treated separately.",
+            "pt-BR": "Questão CLXXVII: Sobre o Tabernáculo: Fala-se separadamente de todo o próprio tabernáculo."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III: Quaestiones in Leviticum",
+        "en-US": "Book III: Questions on Leviticus",
+        "pt-BR": "Livro III: Questões sobre o Levítico"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV: Quaestiones in Numeros",
+        "en-US": "Book IV: Questions on Numbers",
+        "pt-BR": "Livro IV: Questões sobre os Números"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber V: Quaestiones in Deuteronomim",
+        "en-US": "Book V: Questions on Deuteronomy",
+        "pt-BR": "Livro V: Questões sobre o Deuteronômio"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber VI: Quaestiones in Iesum Nave",
+        "en-US": "Book VI: Questions on Joshua",
+        "pt-BR": "Livro VI: Questões sobre Josué"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VII: Quaestiones in Iudices",
+        "en-US": "Book VII: Questions on Judges",
+        "pt-BR": "Livro VII: Questões sobre os Juízes"
+      }
+    }
+  ]
+}

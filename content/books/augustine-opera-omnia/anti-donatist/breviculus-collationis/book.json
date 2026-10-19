@@ -1,0 +1,51 @@
+{
+  "id": "augustine-breviculus-collationis",
+  "cover": "label",
+  "name": {
+    "la": "Breviculus collationis cum Donatistis",
+    "en-US": "A Summary of the Meeting with the Donatists",
+    "pt-BR": "Resumo da conferência com os donatistas"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's numbered abridgment of the very long record of the conference between Catholic and Donatist bishops held at Carthage by imperial order before the tribune Marcellinus, made so that readers could find any point in the proceedings.",
+    "pt-BR": "Resumo numerado, feito por Agostinho, das extensíssimas atas da conferência entre bispos católicos e donatistas realizada em Cartago por ordem imperial, diante do tribuno Marcelino, para que o leitor encontre facilmente qualquer ponto das atas.",
+    "la": "Augustini compendium, numeris distinctum, longissimorum gestorum collationis quae inter episcopos catholicos et Donatistas iussu imperatoris Carthagine coram Marcellino tribuno habita est, ut quisque quod velit in gestis facile inveniat."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Brev",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Brev",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Brev",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Breviculus collationis cum Donatistis",
+        "en-US": "A Summary of the Meeting with the Donatists",
+        "pt-BR": "Resumo da conferência com os donatistas"
+      }
+    }
+  ]
+}

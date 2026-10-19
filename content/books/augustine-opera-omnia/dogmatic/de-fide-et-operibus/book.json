@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-fide-et-operibus",
+  "cover": "label",
+  "name": {
+    "la": "De fide et operibus",
+    "en-US": "Faith and Works",
+    "pt-BR": "A fé e as obras"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A reply to writings holding that faith without good works suffices for eternal life. Augustine shows how the reborn must live and what is required of those admitted to baptism.",
+    "pt-BR": "Resposta a escritos segundo os quais a fé sem as boas obras basta para a vida eterna. Agostinho mostra como devem viver os renascidos pela graça e o que se exige de quem é admitido ao batismo.",
+    "la": "Responsio ad scripta quae fidem sine bonis operibus ad vitam aeternam sufficere contendebant. Augustinus ostendit et quomodo regenerati vivere debeant et quales ad lavacrum regenerationis admittendi sint."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deFideOper",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deFideOper",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deFideOper",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

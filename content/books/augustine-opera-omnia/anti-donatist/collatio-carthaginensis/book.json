@@ -1,0 +1,75 @@
+{
+  "id": "augustine-collatio-carthaginensis",
+  "cover": "label",
+  "name": {
+    "la": "Gesta collationis Carthaginensis",
+    "en-US": "Proceedings of the Conference of Carthage",
+    "pt-BR": "Atas da Conferência de Cartago"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "The official proceedings of the Conference of Carthage between Catholic and Donatist bishops, presided over by the tribune Marcellinus, with Aurelius, Augustine and Alypius among the Catholic spokesmen and Primian, Petilian and Emeritus for the Donatists.",
+    "pt-BR": "Atas oficiais da Conferência de Cartago entre bispos católicos e donatistas, presidida pelo tribuno Marcelino, com Aurélio, Agostinho e Alípio entre os porta-vozes católicos e Primiano, Petiliano e Emérito pelos donatistas.",
+    "la": "Gesta publica collationis Carthaginiensis inter episcopos catholicos et Donatistas, praesidente Marcellino tribuno; pro catholicis inter alios Aurelius, Augustinus, Alypius, pro Donatistis Primianus, Petilianus, Emeritus disputaverunt."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Gesta",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Gesta",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Gesta",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Gesta collationis Carthaginensis",
+        "en-US": "Proceedings of the Conference of Carthage",
+        "pt-BR": "Atas da Conferência de Cartago"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Gesta Collationis Carthaginiensis",
+        "en-US": "Proceedings of the Conference of Carthage (2)",
+        "pt-BR": "Atas da Conferência de Cartago (2)"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Gesta Collationis Carthaginiensis (2)",
+        "en-US": "Proceedings of the Conference of Carthage (3)",
+        "pt-BR": "Atas da Conferência de Cartago (3)"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Gesta Collationis Carthaginiensis (3)",
+        "en-US": "Proceedings of the Conference of Carthage (4)",
+        "pt-BR": "Atas da Conferência de Cartago (4)"
+      }
+    }
+  ]
+}

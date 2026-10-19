@@ -1,0 +1,51 @@
+{
+  "id": "augustine-adversus-iudaeos",
+  "cover": "label",
+  "name": {
+    "la": "Adversus Iudaeos",
+    "en-US": "Answer to the Jews",
+    "pt-BR": "Contra os judeus"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A treatise starting from Paul's image of the olive tree in Romans 11: the Jews are answered from the Old Testament they themselves revere, and the claim that its books do not belong to Christians is refuted.",
+    "pt-BR": "Tratado que parte da imagem paulina da oliveira (Rm 11): responde aos judeus com o próprio Antigo Testamento que eles veneram e refuta a ideia de que esses livros não pertencem aos cristãos.",
+    "la": "Tractatus ab imagine olivae apud Paulum (Rom 11) incipiens: Iudaeis ex ipsis Veteris Testamenti Scripturis, quas venerantur, respondetur, et refellitur eos libros ad Christianos non pertinere."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Jews",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Jews",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Jews",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Adversus Iudaeos",
+        "en-US": "Answer to the Jews",
+        "pt-BR": "Contra os judeus"
+      }
+    }
+  ]
+}

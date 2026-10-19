@@ -1,0 +1,51 @@
+{
+  "id": "augustine-expositio-ad-galatas",
+  "cover": "label",
+  "name": {
+    "la": "Expositio Epistolae ad Galatas",
+    "en-US": "Commentary on the Letter to the Galatians",
+    "pt-BR": "Exposição da Carta aos Gálatas"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A continuous commentary on Paul's Letter to the Galatians, whose theme Augustine states at the outset: by God's grace believers are no longer under the burdens of the Law that Judaizing teachers wanted to impose.",
+    "pt-BR": "Comentário contínuo à Carta de Paulo aos Gálatas, cujo tema Agostinho enuncia logo de início: pela graça de Deus, os fiéis já não estão sob os fardos da Lei que os mestres judaizantes queriam impor-lhes.",
+    "la": "Continua expositio Epistolae Pauli ad Galatas, cuius causam Augustinus initio proponit: gratia Dei fieri ut credentes iam non sint sub oneribus Legis quae ii qui ex circumcisione erant imponere volebant."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Gal",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Gal",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Gal",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Expositio Epistolae ad Galatas",
+        "en-US": "Commentary on the Letter to the Galatians",
+        "pt-BR": "Exposição da Carta aos Gálatas"
+      }
+    }
+  ]
+}

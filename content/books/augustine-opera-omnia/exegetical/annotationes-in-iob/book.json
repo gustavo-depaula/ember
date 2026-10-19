@@ -1,0 +1,59 @@
+{
+  "id": "augustine-annotationes-in-iob",
+  "cover": "label",
+  "name": {
+    "la": "Annotationes in Iob",
+    "en-US": "Notes on Job",
+    "pt-BR": "Anotações sobre Jó"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Terse notes on the Book of Job, gathered by others from Augustine's marginal glosses in a manuscript. In the *Revisions* he doubted whether to count them his own, calling them obscure and full of copyists' errors.",
+    "pt-BR": "Notas concisas sobre o Livro de Jó, reunidas por outros a partir das glosas que Agostinho escreveu à margem de um códice. Nas *Retratações*, ele hesita em considerá-las suas, por serem obscuras e cheias de erros de cópia.",
+    "la": "Breves adnotationes in librum Iob, ab aliis ex glossis quas Augustinus in marginibus codicis scripserat in unum collectae. In *Retractationibus* dubitat an suae habendae sint, obscuras et mendosas esse dicens."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Job",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Job",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Job",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II: Caput XIII (XL): Annotationes in Iob, liber unus",
+        "en-US": "Revisions II: Chapter 13 (40): Notes on Job, one book",
+        "pt-BR": "Revisões II: Capítulo 13 (40): Anotações sobre Jó, um livro"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book 1",
+        "pt-BR": "Livro 1"
+      }
+    }
+  ]
+}

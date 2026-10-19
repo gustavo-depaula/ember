@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-genesi-imperfectus",
+  "cover": "label",
+  "name": {
+    "la": "De Genesi ad litteram imperfectus liber",
+    "en-US": "Unfinished Literal Commentary on Genesis",
+    "pt-BR": "Comentário literal inacabado ao Gênesis"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's first attempt at a literal reading of Genesis, abandoned before one book was done and breaking off at the creation of man. He kept it, he says in the *Revisions*, as a record of his earliest efforts at expounding Scripture.",
+    "pt-BR": "Primeira tentativa de Agostinho de ler o Gênesis ao pé da letra, abandonada antes de concluir um só livro e interrompida na criação do homem. Nas *Retratações*, diz tê-la conservado como testemunho de seus primeiros ensaios de exegese.",
+    "la": "Primum Augustini conamen Genesim ad litteram exponendi, ante unum librum absolutum relictum et in hominis creatione abruptum. Servavit, ut in *Retractationibus* ait, ut indicium esset primorum suorum in divinis eloquiis tractandis tirociniorum."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~GenImperf",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~GenImperf",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~GenImperf",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

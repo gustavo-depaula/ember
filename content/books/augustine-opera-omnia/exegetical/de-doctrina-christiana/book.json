@@ -1,0 +1,91 @@
+{
+  "id": "augustine-de-doctrina-christiana",
+  "cover": "label",
+  "name": {
+    "la": "De doctrina christiana",
+    "en-US": "Teaching Christianity",
+    "pt-BR": "A doutrina cristã"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's guide to Scripture: three books on understanding the sacred text and a fourth on presenting what has been understood. Left unfinished in Book III, it was completed decades later while he was writing the *Revisions*.",
+    "pt-BR": "Guia de Agostinho para a Escritura: três livros sobre como entender o texto sagrado e um quarto sobre como transmitir o que se entendeu. Interrompida no livro III, a obra foi concluída décadas depois, durante a redação das *Retratações*.",
+    "la": "Augustini institutio ad Scripturas: tres libri ad eas intellegendas adiuvant, quartus quomodo proferenda sint quae intelleguntur. Opus in tertio libro imperfectum relictum, cum *Retractationes* scriberet absolvit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Doct",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Doct",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Doct",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Prologus",
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "augustine-contra-iulianum-imperfectum",
+  "cover": "label",
+  "name": {
+    "la": "Contra secundam Iuliani responsionem opus imperfectum",
+    "en-US": "Unfinished Work in Answer to Julian",
+    "pt-BR": "Obra inacabada contra Juliano"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A point-by-point reply to Julian's eight books against the second book of *Marriage and Desire*, quoting Julian's words and answering each in turn. It was left unfinished after six books.",
+    "pt-BR": "Resposta ponto por ponto aos oito livros de Juliano contra o segundo livro de *As núpcias e a concupiscência*, citando cada passagem dele e rebatendo-a. Ficou inacabada no sexto livro.",
+    "la": "Ad octo Iuliani libros contra alterum librum *De nuptiis et concupiscentia* per singula responsio, verbis eius propositis et refutatis; post sextum librum imperfecta relicta est."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~JulianImp",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~JulianImp",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~JulianImp",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber Primus",
+        "en-US": "Book One",
+        "pt-BR": "Livro Primeiro"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber Secundus",
+        "en-US": "Book Two",
+        "pt-BR": "Livro Segundo"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber Tertius",
+        "en-US": "Book Three",
+        "pt-BR": "Livro Terceiro"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber Quartus",
+        "en-US": "Book Four",
+        "pt-BR": "Livro Quarto"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber Quintus",
+        "en-US": "Book Five",
+        "pt-BR": "Livro Quinto"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber Sextus",
+        "en-US": "Book Six",
+        "pt-BR": "Livro Sexto"
+      }
+    }
+  ]
+}

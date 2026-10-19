@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-quantitate-animae",
+  "cover": "label",
+  "name": {
+    "la": "De quantitate animae",
+    "en-US": "On the Size of the Soul",
+    "pt-BR": "A grandeza da alma"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A dialogue with Evodius on where the soul comes from, what it is, and how great it is: the soul has no bodily extent, and its greatness lies in its powers, which rise through seven levels to the contemplation of truth.",
+    "pt-BR": "Diálogo com Evódio sobre a origem, a natureza e a grandeza da alma: a alma não tem extensão corporal, e sua grandeza está em suas potências, que sobem por sete graus até a contemplação da verdade.",
+    "la": "Dialogus cum Evodio de animae origine, qualitate et quantitate: anima nullam corporis molem habet, eiusque magnitudo in viribus consistit, quae septem gradibus ad veritatis contemplationem ascendunt."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deQuan",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deQuan",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deQuan",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De quantitate animae",
+        "en-US": "On the Size of the Soul",
+        "pt-BR": "A grandeza da alma"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "augustine-contra-sermonem-arianorum",
+  "cover": "label",
+  "name": {
+    "la": "Contra sermonem Arianorum",
+    "en-US": "Answer to an Arian Sermon",
+    "pt-BR": "Contra um sermão dos arianos"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A point-by-point reply to an anonymous Arian sermon on the Son as \"established by the will of the Father\" before the ages. The sermon is reproduced first, its sections numbered so that each answer can be matched to its place.",
+    "pt-BR": "Resposta ponto por ponto a um sermão ariano anônimo, que apresentava o Filho como \"constituído pela vontade do Pai\" antes dos séculos. O sermão vem transcrito primeiro, com as seções numeradas para que cada resposta corresponda ao seu lugar.",
+    "la": "Responsio ad singula capita sermonis cuiusdam Arianorum sine auctoris nomine, qui Filium voluntate Patris ante saecula constitutum praedicabat. Sermo ipse praeponitur, numeris per partes distinctus, ut quid ubique responsum sit facile inveniatur."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~ArianSerm",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~ArianSerm",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~ArianSerm",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Sermo Arianorum",
+        "en-US": "A Sermon of the Arians",
+        "pt-BR": "Sermão dos arianos"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Contra sermonen Arianorum",
+        "en-US": "Answer to an Arian Sermon",
+        "pt-BR": "Contra um sermão dos arianos"
+      }
+    }
+  ]
+}

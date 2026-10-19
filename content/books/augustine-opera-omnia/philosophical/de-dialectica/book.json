@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-dialectica",
+  "cover": "label",
+  "name": {
+    "la": "De dialectica",
+    "en-US": "On Dialectic",
+    "pt-BR": "A dialética"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A handbook of dialectic, “the science of arguing well”: simple and combined words, what words signify, the origin of words, and the obscurity and ambiguity that keep a hearer from the truth.",
+    "pt-BR": "Manual de dialética, “a ciência de argumentar bem”: palavras simples e compostas, a significação, a origem das palavras e a obscuridade e a ambiguidade que impedem o ouvinte de ver a verdade.",
+    "la": "Dialecticae, quae est bene disputandi scientia, praecepta: de verbis simplicibus et coniunctis, de significatione, de origine verborum, de obscuritate et ambiguitate quae auditorem a vero impediunt."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deDial",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deDial",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deDial",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De dialectica",
+        "en-US": "On Dialectic",
+        "pt-BR": "A dialética"
+      }
+    }
+  ]
+}

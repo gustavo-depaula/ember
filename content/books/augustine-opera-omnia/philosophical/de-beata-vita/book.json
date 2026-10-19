@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-beata-vita",
+  "cover": "label",
+  "name": {
+    "la": "De beata vita",
+    "en-US": "The Happy Life",
+    "pt-BR": "A vida feliz"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A dialogue dedicated to Theodorus, held over several days with Augustine’s mother, his brother Navigius, his pupils and his cousins. They conclude that he is happy who has God, and ask who it is that has God.",
+    "pt-BR": "Diálogo dedicado a Teodoro, travado ao longo de alguns dias com a mãe de Agostinho, seu irmão Navígio, seus alunos e seus primos. Concluem que é feliz quem possui a Deus, e perguntam quem é que o possui.",
+    "la": "Dialogus Theodoro dicatus, per aliquot dies cum matre, Navigio fratre, discipulis et consobrinis habitus. Concluditur beatum esse qui Deum habet, et quaeritur quis Deum habeat."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deBea",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deBea",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deBea",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De beata vita",
+        "en-US": "The Happy Life",
+        "pt-BR": "A vida feliz"
+      }
+    }
+  ]
+}

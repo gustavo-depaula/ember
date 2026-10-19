@@ -1,0 +1,67 @@
+{
+  "id": "augustine-de-gratia-christi",
+  "cover": "label",
+  "name": {
+    "la": "De gratia Christi et de peccato originali",
+    "en-US": "The Grace of Christ and Original Sin",
+    "pt-BR": "A graça de Cristo e o pecado original"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Two books to Albina, Pinianus and Melania, written after Popes Innocent and Zosimus condemned Pelagius and Caelestius: the first on the grace of Christ, the second on original sin.",
+    "pt-BR": "Dois livros a Albina, Piniano e Melânia, escritos depois que os papas Inocêncio e Zósimo condenaram Pelágio e Celéstio: o primeiro sobre a graça de Cristo, o segundo sobre o pecado original.",
+    "la": "Duo libri ad Albinam, Pinianum et Melaniam, post Pelagium et Caelestium ab Innocentio et Zosimo papis damnatos scripti: prior de gratia Christi, alter de peccato originali."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~DGCe",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~DGCe",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~DGCe",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: De gratia Christi",
+        "en-US": "Book I: The Grace of Christ",
+        "pt-BR": "Livro I: A graça de Cristo"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II: De peccato originali",
+        "en-US": "Book II: Original Sin",
+        "pt-BR": "Livro II: O pecado original"
+      }
+    }
+  ]
+}

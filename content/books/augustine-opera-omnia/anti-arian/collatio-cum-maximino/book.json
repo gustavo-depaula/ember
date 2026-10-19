@@ -1,0 +1,51 @@
+{
+  "id": "augustine-collatio-cum-maximino",
+  "cover": "label",
+  "name": {
+    "la": "Collatio cum Maximino Arianorum episcopo",
+    "en-US": "Debate with Maximinus",
+    "pt-BR": "Debate com Maximino"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Stenographic record of Augustine's public debate at Hippo with Maximinus, an Arian bishop sent by Count Segisvult, who appealed to the Council of Rimini. The exchange turns on the faith concerning the Father, the Son and the Holy Spirit.",
+    "pt-BR": "Ata taquigráfica do debate público de Agostinho em Hipona com Maximino, bispo ariano enviado pelo conde Segisvulto, que se apoiava no Concílio de Rímini. A discussão gira em torno da fé no Pai, no Filho e no Espírito Santo.",
+    "la": "Acta disputationis publicae quam Augustinus Hippone habuit cum Maximino, Arianorum episcopo a Segisvulto comite misso, qui concilium Ariminense obtendebat. De fide Patris et Filii et Spiritus Sancti agitur."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~DebateMax",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~DebateMax",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~DebateMax",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Collatio cum Maximino Arianorum episcopo",
+        "en-US": "Debate with Maximinus",
+        "pt-BR": "Debate com Maximino"
+      }
+    }
+  ]
+}

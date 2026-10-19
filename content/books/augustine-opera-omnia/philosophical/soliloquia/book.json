@@ -1,0 +1,59 @@
+{
+  "id": "augustine-soliloquia",
+  "cover": "label",
+  "name": {
+    "la": "Soliloquia",
+    "en-US": "The Soliloquies",
+    "pt-BR": "Solilóquios"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Two books of dialogue between Augustine and Reason, opening with a long prayer. Augustine seeks to know God and his own soul; the second book argues that the mind is immortal because truth, which cannot perish, is in it.",
+    "pt-BR": "Dois livros de diálogo entre Agostinho e a Razão, abertos por uma longa oração. Agostinho deseja conhecer a Deus e a própria alma; o segundo livro argumenta que a mente é imortal porque nela está a verdade, que não pode perecer.",
+    "la": "Duo libri in quibus Augustinus cum Ratione colloquitur, longa oratione praemissa. Deum et animam scire cupit; secundus liber animum immortalem esse ostendit, quia veritas, quae perire non potest, in eo est."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Solil",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Solil",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Solil",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    }
+  ]
+}

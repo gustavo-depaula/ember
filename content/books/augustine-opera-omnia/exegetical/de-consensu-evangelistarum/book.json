@@ -1,0 +1,701 @@
+{
+  "id": "augustine-de-consensu-evangelistarum",
+  "cover": "label",
+  "name": {
+    "la": "De consensu Evangelistarum",
+    "en-US": "Agreement among the Evangelists",
+    "pt-BR": "A harmonia dos evangelistas"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Four books, written alongside *On the Trinity*, defending the evangelists against the charge that they contradict one another. Book I answers those who honor Christ as a wise man but reject the Gospels; the rest harmonize the four accounts.",
+    "pt-BR": "Quatro livros, escritos ao lado de *A Trindade*, que defendem os evangelistas da acusação de se contradizerem. O livro I responde a quem honra Cristo como sábio, mas rejeita os Evangelhos; os demais harmonizam os quatro relatos.",
+    "la": "Quattuor libri, inter libros *De Trinitate* dictati, contra eos qui evangelistas quasi inter se dissentientes calumniantur. Primus adversus eos qui Christum ut sapientissimum honorant sed Evangelio non credunt; ceteri quattuor narrationes concordant."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Consensu",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Consensu",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Consensu",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "p03",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      },
+      "children": [
+        {
+          "id": "p03-ch001",
+          "title": {
+            "la": "Prologus.",
+            "en-US": "Prologue.",
+            "pt-BR": "Prólogo."
+          }
+        },
+        {
+          "id": "p03-ch002",
+          "title": {
+            "la": "Quare usque ad Ioseph generatores Christi commemorentur, cum de illius semine Christus non sit natus, sed de Virgine Maria.",
+            "en-US": "Why the begetters of Christ are recorded down to Joseph, when Christ was not born of his seed, but of the Virgin Mary.",
+            "pt-BR": "Por que se registram os progenitores de Cristo até José, quando Cristo não nasceu de sua semente, mas da Virgem Maria."
+          }
+        },
+        {
+          "id": "p03-ch003",
+          "title": {
+            "la": "Quomodo sit Christus filius David, cum ex Ioseph filii David concubitu non sit natus.",
+            "en-US": "How Christ is the son of David, when he was not born of the intercourse of Joseph the son of David.",
+            "pt-BR": "Como Cristo é filho de Davi, não tendo nascido da união de José, o filho de Davi."
+          }
+        },
+        {
+          "id": "p03-ch004",
+          "title": {
+            "la": "Quare alios progeneratores Christi Matthaeus enumerat, alios Lucas.",
+            "en-US": "Why Matthew enumerates some forefathers of Christ, Luke others.",
+            "pt-BR": "Por que Mateus enumera certos antepassados de Cristo, e Lucas outros."
+          }
+        },
+        {
+          "id": "p03-ch005",
+          "title": {
+            "la": "Quare quadraginta generationes, excepto ipso Christo, inveniuntur apud Matthaeum, cum quattuordecim triplicet.",
+            "en-US": "Why forty generations, apart from Christ himself, are found in Matthew, when he makes fourteen threefold.",
+            "pt-BR": "Por que se encontram em Mateus quarenta gerações, excetuado o próprio Cristo, quando ele triplica catorze."
+          }
+        },
+        {
+          "id": "p03-ch006",
+          "title": {
+            "la": "Quomodo Matthaei ordini congruat ordo Lucae in his quae de conceptu et de infantia vel pueritia Christi.",
+            "en-US": "How the order of Luke agrees with the order of Matthew in the things concerning the conception and the infancy or boyhood of Christ.",
+            "pt-BR": "Como a ordem de Lucas concorda com a ordem de Mateus nas coisas relativas à concepção e à infância ou meninice de Cristo."
+          }
+        },
+        {
+          "id": "p03-ch007",
+          "title": {
+            "la": "De ordine praedicationis Ioannis Baptistae inter omnes quattuor.",
+            "en-US": "On the order of the preaching of John the Baptist among all four.",
+            "pt-BR": "Sobre a ordem da pregação de João Batista entre todos os quatro."
+          }
+        },
+        {
+          "id": "p03-ch008",
+          "title": {
+            "la": "De duobus Herodibus.",
+            "en-US": "About the two Herods.",
+            "pt-BR": "Sobre os dois Herodes."
+          }
+        },
+        {
+          "id": "p03-ch009",
+          "title": {
+            "la": "Quomodo Matthaeus dicat timuisse Ioseph ire cum infante Christo in Ierusalem, propter Archelaum; et non timuisse ire in Galileam.",
+            "en-US": "How Matthew says that Joseph feared to go with the infant Christ into Jerusalem, on account of Archelaus, and yet did not fear to go into Galilee.",
+            "pt-BR": "Como Mateus diz que José temeu ir com o menino Cristo a Jerusalém, por causa de Arquelau, e contudo não temeu ir à Galileia."
+          }
+        },
+        {
+          "id": "p03-ch010",
+          "title": {
+            "la": "Quomodo ideo isse in Galilaeam Ioseph cum infante Christo quia timuit Archelaum pro suo patre regnantem in Ierusalem.",
+            "en-US": "How it was for this reason that Joseph went into Galilee with the infant Christ, because he feared Archelaus reigning in place of his father in Jerusalem.",
+            "pt-BR": "Como foi por esta razão que José foi para a Galileia com o menino Cristo: porque temia Arquelau, que reinava em Jerusalém em lugar de seu pai."
+          }
+        },
+        {
+          "id": "p03-ch011",
+          "title": {
+            "la": "Quomodo Lucas dicit: Ibant parentes eius per omnes annos in Hierusalem in die sollemni Paschae cum illo puero; cum dicat Matthaeus quod metu Archelai timuerint illuc ire ab Aegypto redeuntes.",
+            "en-US": "How Luke says, \"His parents went every year to Jerusalem on the solemn day of the Pasch\" with that boy, when Matthew says that out of fear of Archelaus they feared to go there as they returned from Egypt.",
+            "pt-BR": "Como Lucas diz: \"Seus pais iam todos os anos a Jerusalém no dia solene da Páscoa\" com aquele menino, ao passo que Mateus diz que, por medo de Arquelau, temeram ir para lá quando voltavam do Egito."
+          }
+        },
+        {
+          "id": "p03-ch012",
+          "title": {
+            "la": "Quomodo potuerint, completis diebus purgationis matris Christi, sicut Lucas dicit, ascendere cum illo in templum ad peragenda sollemnia.",
+            "en-US": "How they could, when the days of the purification of Christ's mother were completed, as Luke says, go up with him into the temple to perform the solemnities.",
+            "pt-BR": "Como puderam, completados os dias da purificação da mãe de Cristo, como diz Lucas, subir com ele ao templo para cumprir as solenidades."
+          }
+        },
+        {
+          "id": "p03-ch013",
+          "title": {
+            "la": "De verbis Ioannis inter omnes quattuor.",
+            "en-US": "On the words of John among all four.",
+            "pt-BR": "Das palavras de João entre todos os quatro."
+          }
+        },
+        {
+          "id": "p03-ch014",
+          "title": {
+            "la": "De verbis vocis factae de caelo super baptizatum.",
+            "en-US": "On the words of the voice that came from heaven over the baptized one.",
+            "pt-BR": "Das palavras da voz que veio do céu sobre o batizado."
+          }
+        },
+        {
+          "id": "p03-ch015",
+          "title": {
+            "la": "Quomodo secundum Ioannem Evangelistam dicat Ioannes Baptista: Ego non noveram eum; cum secundum alios inveniatur quod iam noverat eum.",
+            "en-US": "How, according to John the Evangelist, John the Baptist says, \"I did not know him,\" when according to the others it is found that he already knew him.",
+            "pt-BR": "Como, segundo João Evangelista, diz João Batista: \"Eu não o conhecia\", quando, segundo os outros, se encontra que já o conhecia."
+          }
+        },
+        {
+          "id": "p03-ch016",
+          "title": {
+            "la": "De tentato Iesu.",
+            "en-US": "On the temptation of Jesus.",
+            "pt-BR": "Da tentação de Jesus."
+          }
+        },
+        {
+          "id": "p03-ch017",
+          "title": {
+            "la": "De vocatione Apostolorum piscantium.",
+            "en-US": "On the calling of the fishing apostles.",
+            "pt-BR": "Da vocação dos apóstolos que pescavam."
+          }
+        },
+        {
+          "id": "p03-ch018",
+          "title": {
+            "la": "De tempore secessionis eius in Galilaeam.",
+            "en-US": "On the time of his withdrawal into Galilee.",
+            "pt-BR": "Do tempo de sua retirada para a Galileia."
+          }
+        },
+        {
+          "id": "p03-ch019",
+          "title": {
+            "la": "De illo sermone prolixo quem secundum Matthaeum habuit in monte.",
+            "en-US": "On that lengthy discourse which, according to Matthew, he held on the mountain.",
+            "pt-BR": "Daquele extenso discurso que, segundo Mateus, proferiu no monte."
+          }
+        },
+        {
+          "id": "p03-ch020",
+          "title": {
+            "la": "Quomodo dicat Matthaeus centurionem ad eum accessisse pro puero suo, cum Lucas dicat quod amicos ad eum miserit.",
+            "en-US": "How Matthew says that the centurion came to him on behalf of his servant, when Luke says that he sent friends to him.",
+            "pt-BR": "Como Mateus diz que o centurião veio a ele em favor de seu servo, quando Lucas diz que lhe enviou amigos."
+          }
+        },
+        {
+          "id": "p03-ch021",
+          "title": {
+            "la": "De socru Petri quo ordine narratum sit.",
+            "en-US": "In what order the account of Peter's mother-in-law is narrated.",
+            "pt-BR": "Em que ordem se narrou o episódio da sogra de Pedro."
+          }
+        },
+        {
+          "id": "p03-ch022",
+          "title": {
+            "la": "De ordine rerum quas post hoc narrant utrum nihil inter se dissentiant Matthaeus, Marcus et Lucas.",
+            "en-US": "On the order of the things which they narrate after this—whether Matthew, Mark, and Luke disagree among themselves in nothing.",
+            "pt-BR": "Da ordem das coisas que narram depois disto: se Mateus, Marcos e Lucas em nada divergem entre si."
+          }
+        },
+        {
+          "id": "p03-ch023",
+          "title": {
+            "la": "De illo qui ait Domino: Sequar te quocumque ieris, et aliis quae iuxta sunt, quo ordine narrentur a Matthaeo et Luca.",
+            "en-US": "On the one who said to the Lord, \"I will follow you wherever you go,\" and the other things which are near it: in what order they are narrated by Matthew and Luke.",
+            "pt-BR": "Daquele que disse ao Senhor: \"Seguir-te-ei aonde quer que fores\", e das outras coisas que lhe são próximas: em que ordem são narradas por Mateus e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch024",
+          "title": {
+            "la": "De transfretatione eius, ubi dormivit in navicula, et de expulsis daemoniis, quos permisit in porcos, quomodo ea quae gesta vel dicta sunt, conveniant inter Matthaeum, Marcum et Lucam.",
+            "en-US": "On his crossing of the strait, where he slept in the boat, and on the cast-out demons, whom he allowed to go into the swine: how the things done or said agree among Matthew, Mark, and Luke.",
+            "pt-BR": "De sua travessia do estreito, em que dormiu na barca, e dos demônios expulsos, aos quais permitiu ir para os porcos: como o que se fez ou disse concorda entre Mateus, Marcos e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch025",
+          "title": {
+            "la": "Quaestio inter Matthaeum et Marcum de paralytico iacente in lecto.",
+            "en-US": "A question between Matthew and Mark about the paralytic lying on the bed.",
+            "pt-BR": "Questão entre Mateus e Marcos acerca do paralítico deitado no leito."
+          }
+        },
+        {
+          "id": "p03-ch026",
+          "title": {
+            "la": "De vocatione quoque Matthaei, utrum Marco et Lucae qui dicunt Levin Alphaei, idem Matthaeus congruat.",
+            "en-US": "On the calling of Matthew too: whether this same Matthew agrees with Mark and Luke, who say Levi the son of Alphaeus.",
+            "pt-BR": "Também da vocação de Mateus: se este mesmo Mateus concorda com Marcos e Lucas, que dizem Levi, filho de Alfeu."
+          }
+        },
+        {
+          "id": "p03-ch027",
+          "title": {
+            "la": "De convivio ubi obiectum est ei quod cum peccatoribus manducaret, et quod non ieiunarent discipuli eius, quod videtur alius alios dicere a quibus obiectus sit, et de verbis eorum, responsisque Domini.",
+            "en-US": "On the banquet where it was objected to him that he ate with sinners, and that his disciples did not fast—which seems to be that one says different persons made the objection from those another says—and on their words and the Lord's answers.",
+            "pt-BR": "Do banquete em que se lhe objetou que comia com pecadores, e que os seus discípulos não jejuavam — o que parece ser que um diz serem outros os que fizeram a objeção do que os que outro diz —, e das palavras deles e das respostas do Senhor."
+          }
+        },
+        {
+          "id": "p03-ch028",
+          "title": {
+            "la": "De filia Archisynagogi resuscitata, et muliere quae tetigit fimbriam vestimenti eius.",
+            "en-US": "On the raised daughter of the ruler of the synagogue, and the woman who touched the hem of his garment.",
+            "pt-BR": "Da filha do chefe da sinagoga, ressuscitada, e da mulher que tocou a orla de sua veste."
+          }
+        },
+        {
+          "id": "p03-ch029",
+          "title": {
+            "la": "De duobus caecis et muto daemonio, quae solus Matthaeus dicit.",
+            "en-US": "On the two blind men and the mute demon, which Matthew alone tells.",
+            "pt-BR": "Dos dois cegos e do demônio mudo, coisas que somente Mateus refere."
+          }
+        },
+        {
+          "id": "p03-ch030",
+          "title": {
+            "la": "Ubi turbarum misertus misit discipulos suos, dans eis potestatem sanitatum praestandarum, et eis multa mandavit, ordinans quemadmodum viverent.",
+            "en-US": "Where, having pity on the crowds, he sent his disciples, giving them power to grant healings, and gave them many commands, ordering how they should live.",
+            "pt-BR": "Onde, compadecido das multidões, enviou os seus discípulos, dando-lhes o poder de conceder curas, e lhes deu muitas ordens, dispondo como deviam viver."
+          }
+        },
+        {
+          "id": "p03-ch031",
+          "title": {
+            "la": "Ubi Ioannes Baptista misit ad Dominum de carcere discipulos suos, quid Matthaeus et Lucas dicunt.",
+            "en-US": "Where John the Baptist sent his disciples to the Lord from prison: what Matthew and Luke say.",
+            "pt-BR": "Onde João Batista enviou do cárcere ao Senhor os seus discípulos: o que dizem Mateus e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch032",
+          "title": {
+            "la": "Ubi exprobravit civitatibus quod non egerint paenitentiam, quod et Lucas dicit; ubi quaerendum est quemadmodum illi Matthaeus ipso ordine congruat.",
+            "en-US": "Where he reproached the cities for not doing penance, which Luke too says; where it must be asked how Matthew agrees with him in the order itself.",
+            "pt-BR": "Onde censurou as cidades por não terem feito penitência, o que Lucas também diz; onde se deve perguntar como Mateus concorda com ele na própria ordem."
+          }
+        },
+        {
+          "id": "p03-ch033",
+          "title": {
+            "la": "Ubi vocat ad tollendum iugum et sarcinam suam, quemadmodum Matthaeus a Luca non discrepet in narrandi ordine.",
+            "en-US": "Where he calls them to take up his yoke and his burden: how Matthew does not differ from Luke in the order of narrating.",
+            "pt-BR": "Onde chama a tomar o seu jugo e a sua carga: como Mateus não discrepa de Lucas na ordem do narrar."
+          }
+        },
+        {
+          "id": "p03-ch034",
+          "title": {
+            "la": "Ubi discipuli spicas vellentes manducaverunt, quemadmodum inter se congruant Matthaeus, Marcus et Lucas in narrandi ordine.",
+            "en-US": "Where the disciples, plucking the ears of grain, ate them: how Matthew, Mark, and Luke agree among themselves in the order of narrating.",
+            "pt-BR": "Onde os discípulos, colhendo espigas, comeram: como concordam entre si Mateus, Marcos e Lucas na ordem do narrar."
+          }
+        },
+        {
+          "id": "p03-ch035",
+          "title": {
+            "la": "De illo qui manum aridam cum haberet, sabbato curatus est, quemadmodum narratio Matthaei concordet cum Marco et Luca.",
+            "en-US": "On the man who had a withered hand, who was cured on the Sabbath: how the narration of Matthew agrees with Mark and Luke.",
+            "pt-BR": "Daquele que tinha a mão seca e foi curado no sábado: como a narração de Mateus concorda com Marcos e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch036",
+          "title": {
+            "la": "Considerandum utrum ab isto cuius arida manus sanata est, ita digrediantur hi tres Evangelistae ut in nullo sibi adversentur ipso narrationis ordine.",
+            "en-US": "It must be considered whether these three evangelists so depart from this man whose withered hand was healed that they contradict one another in nothing in the very order of the narration.",
+            "pt-BR": "Deve-se considerar se estes três evangelistas se afastam de tal modo daquele cuja mão seca foi curada que em nada se contradizem na própria ordem da narração."
+          }
+        },
+        {
+          "id": "p03-ch037",
+          "title": {
+            "la": "De muto et caeco qui daemonium habebat, quomodo Matthaeus Lucasque consentiant.",
+            "en-US": "On the mute and blind man who had a demon: how Matthew and Luke agree.",
+            "pt-BR": "Do mudo e cego que tinha um demônio: como concordam Mateus e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch038",
+          "title": {
+            "la": "Ubi et dictum est quod in Beelzebub eicit daemonia, quidquid ex ipsa occasione locutus est de blasphemia adversus Spiritum Sanctum, et de duabus arboribus.",
+            "en-US": "Where it was also said that he casts out demons by Beelzebul; whatever, on that occasion, he said about the blasphemy against the Holy Spirit, and about the two trees.",
+            "pt-BR": "Onde também se disse que ele expulsa os demônios por Belzebu; tudo o que, nessa ocasião, disse acerca da blasfêmia contra o Espírito Santo e acerca das duas árvores."
+          }
+        },
+        {
+          "id": "p03-ch039",
+          "title": {
+            "la": "Quod respondit petentibus signum, de Iona propheta et de Ninivitis, et de Regina Austri, et de spiritu immundo, qui cum exierit ab homine, redit et invenit domum mundatam.",
+            "en-US": "What he answered to those seeking a sign, about the prophet Jonah and the Ninevites, and about the Queen of the South, and about the unclean spirit which, when it has gone out of a man, returns and finds the house cleansed.",
+            "pt-BR": "O que respondeu aos que pediam um sinal, acerca do profeta Jonas e dos ninivitas, e da Rainha do Sul, e do espírito imundo que, tendo saído do homem, volta e acha a casa varrida."
+          }
+        },
+        {
+          "id": "p03-ch040",
+          "title": {
+            "la": "Ubi ei nuntiata est mater et fratres eius, utrum a Marco et Luca ordo ipse non discrepet.",
+            "en-US": "Where his mother and brothers were announced to him: whether the order itself does not differ from Mark and Luke.",
+            "pt-BR": "Onde lhe foram anunciados sua mãe e seus irmãos: se a própria ordem não discrepa de Marcos e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch041",
+          "title": {
+            "la": "Quod ex navicula turbis locutus est de illo cuius in seminando aliud cecidit in via, etc., et de illo cui superseminata sunt zizania, et de grano sinapis, et de frumento.",
+            "en-US": "That from the boat he spoke to the crowds about him, of whose seed some fell on the path, etc., and about him on whom tares were sown, and about the grain of mustard, and about the wheat.",
+            "pt-BR": "Que da barca falou às multidões acerca daquele de cuja semeadura parte caiu no caminho, etc., e daquele em cujo campo se semeou joio, e do grão de mostarda, e do trigo."
+          }
+        },
+        {
+          "id": "p03-ch042",
+          "title": {
+            "la": "Quod venit in patriam suam, et mirabatur doctrinam, cum genus eius contemnerent; quomodo consentiat Marco et Lucae Matthaeus, maxime utrum narrandi ordo nihil alteri adversetur.",
+            "en-US": "That he came into his own country, and they marveled at his teaching, while they despised his lineage; how Matthew agrees with Mark and Luke, especially whether the order of narrating contradicts the other in nothing.",
+            "pt-BR": "Que veio à sua pátria, e admiravam-se de sua doutrina, ao passo que desprezavam a sua linhagem; como Mateus concorda com Marcos e Lucas, sobretudo se a ordem do narrar em nada se opõe à do outro."
+          }
+        },
+        {
+          "id": "p03-ch043",
+          "title": {
+            "la": "Quemadmodum inter se conveniant Matthaeus, Marcus et Lucas de verbis Herodis.",
+            "en-US": "How Matthew, Mark, and Luke agree among themselves about the words of Herod.",
+            "pt-BR": "Como concordam entre si Mateus, Marcos e Lucas acerca das palavras de Herodes."
+          }
+        },
+        {
+          "id": "p03-ch044",
+          "title": {
+            "la": "De Ioanne incluso, vel etiam occiso, quo ordine ab his tribus narretur.",
+            "en-US": "On John imprisoned, or even killed: in what order it is narrated by these three.",
+            "pt-BR": "De João preso, e também morto: em que ordem é narrado por estes três."
+          }
+        },
+        {
+          "id": "p03-ch045",
+          "title": {
+            "la": "Ad miraculum de quinque panibus quo ordine ab omnibus, et quemadmodum ventum sit.",
+            "en-US": "To the miracle of the five loaves: in what order by all, and how it was come to.",
+            "pt-BR": "Ao milagre dos cinco pães: em que ordem por todos, e como se chegou a ele."
+          }
+        },
+        {
+          "id": "p03-ch046",
+          "title": {
+            "la": "In ipso de quinque panibus miraculo quemadmodum inter se omnes quattuor conveniant.",
+            "en-US": "In the very miracle of the five loaves, how all four agree among themselves.",
+            "pt-BR": "No próprio milagre dos cinco pães, como concordam entre si todos os quatro."
+          }
+        },
+        {
+          "id": "p03-ch047",
+          "title": {
+            "la": "Quod ambulavit super aquas, quomodo qui hoc dixerunt inter se conveniant; et quomodo ab illo loco digrediantur, ubi turbas de quinque panibus pavit.",
+            "en-US": "That he walked upon the waters: how those who said this agree among themselves; and how they depart from that place where he fed the crowds with the five loaves.",
+            "pt-BR": "Que caminhou sobre as águas: como concordam entre si os que disseram isto; e como se afastam daquele lugar em que alimentou as multidões com os cinco pães."
+          }
+        },
+        {
+          "id": "p03-ch048",
+          "title": {
+            "la": "Quomodo Matthaeus et Marcus Ioanni non adversentur in eo quod ab eis tribus narratur quid posteaquam transfretarunt factum sit.",
+            "en-US": "How Matthew and Mark are not opposed to John in what is narrated by the three of them about what happened after they had crossed over.",
+            "pt-BR": "Como Mateus e Marcos não se opõem a João naquilo que pelos três é narrado sobre o que aconteceu depois que atravessaram."
+          }
+        },
+        {
+          "id": "p03-ch049",
+          "title": {
+            "la": "De muliere Cananaea quae dixit: Et canes edunt de micis cadentibus de mensa dominorum suorum, quomodo inter se Matthaeus Lucasque consentiant.",
+            "en-US": "On the Canaanite woman who said, And the dogs eat of the crumbs that fall from their masters' table, how Matthew and Luke agree with each other.",
+            "pt-BR": "Da mulher cananeia, que disse: E os cães comem das migalhas que caem da mesa de seus senhores — como concordam entre si Mateus e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch050",
+          "title": {
+            "la": "Cum de septem panibus pavit turbas, utrum inter se Matthaeus Marcusque conveniant.",
+            "en-US": "When he fed the crowds with the seven loaves, whether Matthew and Mark agree with each other.",
+            "pt-BR": "Quando alimentou as multidões com os sete pães: se Mateus e Marcos concordam entre si."
+          }
+        },
+        {
+          "id": "p03-ch051",
+          "title": {
+            "la": "Quod dicit Matthaeus inde eum venisse in fines Magedan, quomodo congruat Marco; et in eo quod petentibus signum respondit iterum de Iona.",
+            "en-US": "That Matthew says he came from there into the region of Magadan, how this agrees with Mark; and how, when they sought a sign, he answered again about Jonah.",
+            "pt-BR": "Que Mateus diz que dali ele veio à região de Magadã: como isto concorda com Marcos; e como, ao pedirem-lhe um sinal, respondeu de novo acerca de Jonas."
+          }
+        },
+        {
+          "id": "p03-ch052",
+          "title": {
+            "la": "De fermento Phariseorum, quomodo cum Marco conveniat, vel re vel ordine.",
+            "en-US": "On the leaven of the Pharisees, how it agrees with Mark, whether in substance or in order.",
+            "pt-BR": "Do fermento dos fariseus: como concorda com Marcos, seja quanto à substância, seja quanto à ordem."
+          }
+        },
+        {
+          "id": "p03-ch053",
+          "title": {
+            "la": "Cum interrogavit discipulos, quem illum dicerent homines, utrum nihil inter se repugnent Matthaeus, Marcus et Lucas, rebus aut ordine.",
+            "en-US": "When he asked the disciples who men said that he was, whether Matthew, Mark, and Luke are in any way opposed to one another, in substance or in order.",
+            "pt-BR": "Quando interrogou os discípulos sobre quem os homens diziam que ele era: se Mateus, Marcos e Lucas em algo se opõem entre si, quanto à substância ou à ordem."
+          }
+        },
+        {
+          "id": "p03-ch054",
+          "title": {
+            "la": "Ubi praenuntiavit discipulis passionem suam, quae sit inter Matthaeum, Marcum et Lucam convenientia.",
+            "en-US": "Where he foretold his passion to the disciples, what agreement there is among Matthew, Mark, and Luke.",
+            "pt-BR": "Onde predisse aos discípulos a sua paixão: qual é a concordância entre Mateus, Marcos e Lucas."
+          }
+        },
+        {
+          "id": "p03-ch055",
+          "title": {
+            "la": "Quod se Dominus tribus discipulis in monte ostendit cum Moyse et Elia, quomodo inter se congruant tres Evangelistae.",
+            "en-US": "That the Lord showed himself to three disciples on the mountain with Moses and Elijah, how the three Evangelists agree with one another.",
+            "pt-BR": "Que o Senhor se mostrou a três discípulos no monte com Moisés e Elias: como concordam entre si os três evangelistas."
+          }
+        },
+        {
+          "id": "p03-ch056",
+          "title": {
+            "la": "Ubi de adventu Eliae locutus est eis, quae sit convenientia inter Matthaeum et Marcum.",
+            "en-US": "Where he spoke to them about the coming of Elijah, what agreement there is between Matthew and Mark.",
+            "pt-BR": "Onde lhes falou acerca da vinda de Elias: qual é a concordância entre Mateus e Marcos."
+          }
+        },
+        {
+          "id": "p03-ch057",
+          "title": {
+            "la": "De illo qui ei obtulit filium suum, quem discipuli sanare non potuerant.",
+            "en-US": "On the man who brought him his son, whom the disciples had not been able to heal.",
+            "pt-BR": "Daquele que lhe trouxe seu filho, a quem os discípulos não haviam podido curar."
+          }
+        },
+        {
+          "id": "p03-ch058",
+          "title": {
+            "la": "Ubi de passione sua cum discipulis dixisset, ipsi contristati sunt.",
+            "en-US": "Where, when he had spoken with the disciples about his passion, they were grieved.",
+            "pt-BR": "Onde, tendo falado com os discípulos acerca de sua paixão, eles se entristeceram."
+          }
+        },
+        {
+          "id": "p03-ch059",
+          "title": {
+            "la": "Ubi de ore piscis solvit tributum, quod Matthaeus solus dicit.",
+            "en-US": "Where he paid the tribute from the mouth of a fish, which Matthew alone tells.",
+            "pt-BR": "Onde pagou o tributo da boca de um peixe, o que somente Mateus refere."
+          }
+        },
+        {
+          "id": "p03-ch060",
+          "title": {
+            "la": "De puero parvulo quem proposuit imitandum, de scandalis mundi, de membris corporis scandalizantibus, de angelis parvulorum qui vident faciem Patris, etc.",
+            "en-US": "On the little child whom he set forth to be imitated, on the scandals of the world, on the members of the body that cause scandal, on the angels of the little ones who see the face of the Father, and so on.",
+            "pt-BR": "Da criancinha que propôs como modelo a imitar, dos escândalos do mundo, dos membros do corpo que escandalizam, dos anjos dos pequeninos que veem a face do Pai, etc."
+          }
+        },
+        {
+          "id": "p03-ch061",
+          "title": {
+            "la": "Quando interrogatus est utrum liceat dimittere uxorem, quemadmodum inter se consentiant Matthaeus et Marcus, maxime de ipsis interrogationibus vel Domini vel Iudaeorum atque responsis, in quibus videntur aliquantulum variare.",
+            "en-US": "When he was asked whether it is lawful to dismiss one's wife, how Matthew and Mark agree with each other, especially regarding the questions themselves, whether of the Lord or of the Jews, and the answers, in which they seem to vary a little.",
+            "pt-BR": "Quando foi interrogado se é lícito despedir a mulher: como concordam entre si Mateus e Marcos, sobretudo quanto às próprias perguntas, seja do Senhor, seja dos judeus, e às respostas, nas quais parecem variar um pouco."
+          }
+        },
+        {
+          "id": "p03-ch062",
+          "title": {
+            "la": "De parvulis, de divite, de vinea quemadmodum Matthaeus duobus aliis non repugnet.",
+            "en-US": "On the little children, on the rich man, on the vineyard, how Matthew is not opposed to the other two.",
+            "pt-BR": "Das criancinhas, do rico, da vinha: como Mateus não se opõe aos outros dois."
+          }
+        },
+        {
+          "id": "p03-ch063",
+          "title": {
+            "la": "Ubi secreto duodecim discipulis de passione sua praedixit, et mater filiorum Zebedaei cum filiis suis petit ut unus eorum ad dexteram eius, alter ad sinistram sederet, quomodo non repugnet Matthaeus aliis duobus.",
+            "en-US": "Where he privately foretold his passion to the twelve disciples, and the mother of the sons of Zebedee with her sons asked that one of them might sit at his right hand and the other at his left, how Matthew is not opposed to the other two.",
+            "pt-BR": "Onde ele predisse em particular aos doze discípulos a sua paixão, e a mãe dos filhos de Zebedeu, com os seus filhos, pediu que um deles se sentasse à sua direita e o outro à sua esquerda: como Mateus não se opõe aos outros dois."
+          }
+        },
+        {
+          "id": "p03-ch064",
+          "title": {
+            "la": "De caecis Iericho illuminatis, quemadmodum non adversetur Matthaeus vel Marco, vel Lucae.",
+            "en-US": "On the blind men of Jericho given sight, how Matthew is not opposed either to Mark or to Luke.",
+            "pt-BR": "Sobre os cegos de Jericó que receberam a vista: como Mateus não se opõe nem a Marcos nem a Lucas."
+          }
+        },
+        {
+          "id": "p03-ch065",
+          "title": {
+            "la": "De asinae pullo, quomodo Matthaeus ceteris congruat, qui solum pullum commemorant.",
+            "en-US": "On the colt of the donkey, how Matthew agrees with the rest, who mention only the colt.",
+            "pt-BR": "Sobre o jumentinho: como Mateus concorda com os demais, que mencionam apenas o jumentinho."
+          }
+        },
+        {
+          "id": "p03-ch066",
+          "title": {
+            "la": "De expulsis templo vendentibus et ementibus, quemadmodum tres isti non repugnent Ioanni qui hoc idem longe alibi dicit.",
+            "en-US": "On those who sold and bought being driven out of the temple, how these three are not opposed to John, who says this same thing far elsewhere.",
+            "pt-BR": "Sobre a expulsão do templo dos que vendiam e compravam: como estes três não se opõem a João, que diz o mesmo em lugar muito diverso."
+          }
+        },
+        {
+          "id": "p03-ch067",
+          "title": {
+            "la": "Cum Dominum interrogaverunt Iudaei, in qua potestate ista faceret, quomodo inter se consentiant isti tres.",
+            "en-US": "When the Jews asked the Lord by what authority he was doing these things, how these three agree with each other.",
+            "pt-BR": "Quando os judeus perguntaram ao Senhor com que autoridade fazia essas coisas: como estes três concordam entre si."
+          }
+        },
+        {
+          "id": "p03-ch068",
+          "title": {
+            "la": "De duobus quibus imperaverit pater ut irent in vineam, et de vinea quae locata est aliis agricolis.",
+            "en-US": "On the two whom their father commanded to go into the vineyard, and on the vineyard that was let out to other husbandmen.",
+            "pt-BR": "Sobre os dois a quem o pai mandou que fossem à vinha, e sobre a vinha que foi arrendada a outros lavradores."
+          }
+        },
+        {
+          "id": "p03-ch069",
+          "title": {
+            "la": "De nuptiis filii Regis ad quos turbae invitatae sunt, quem Matthaeus ordinem tenuerit, propter Lucam qui tale quiddam alibi dicit.",
+            "en-US": "On the marriage of the King's son, to which the crowds were invited; what order Matthew kept, in view of Luke, who says something of the kind elsewhere.",
+            "pt-BR": "Sobre as bodas do filho do Rei, para as quais foram convidadas as multidões: que ordem Mateus guardou, tendo em vista Lucas, que diz algo semelhante em outro lugar."
+          }
+        },
+        {
+          "id": "p03-ch070",
+          "title": {
+            "la": "De illo cui commendata sunt duo praecepta dilectionis Dei et proximi.",
+            "en-US": "On the one to whom the two commandments of love of God and of neighbor were commended.",
+            "pt-BR": "Sobre aquele a quem foram recomendados os dois preceitos do amor de Deus e do próximo."
+          }
+        },
+        {
+          "id": "p03-ch071",
+          "title": {
+            "la": "Quod Iudaei interrogantur de Christo, cuius eius filius videatur, utrum non repugnet Matthaeus aliis duobus.",
+            "en-US": "That the Jews are questioned about the Christ, whose son he seems to be, whether Matthew is not opposed to the other two.",
+            "pt-BR": "Que os judeus são interrogados a respeito do Cristo, de quem parece ser filho: se Mateus não se opõe aos outros dois."
+          }
+        },
+        {
+          "id": "p03-ch072",
+          "title": {
+            "la": "De Pharisaeis sedentibus super cathedram Moysi, et dicentibus quae non faciunt, ceterisque in eosdem Pharisaeos a Domino dictis.",
+            "en-US": "On the Pharisees sitting on the seat of Moses, and saying what they do not do, and the other things said by the Lord against the same Pharisees.",
+            "pt-BR": "Sobre os fariseus que se sentam na cátedra de Moisés e dizem o que não fazem, e sobre as demais coisas ditas pelo Senhor contra esses mesmos fariseus."
+          }
+        },
+        {
+          "id": "p03-ch073",
+          "title": {
+            "la": "Cum praenuntiavit templi eversionem, quomodo aliis duobus narrandi ordine congruat.",
+            "en-US": "When he foretold the overthrow of the temple, how he agrees with the other two in the order of narration.",
+            "pt-BR": "Quando predisse a destruição do templo: como concorda com os outros dois na ordem da narração."
+          }
+        },
+        {
+          "id": "p03-ch074",
+          "title": {
+            "la": "De sermone quem habuit in monte Oliveti.",
+            "en-US": "On the discourse he had on the Mount of Olives.",
+            "pt-BR": "Sobre o discurso que teve no monte das Oliveiras."
+          }
+        },
+        {
+          "id": "p03-ch075",
+          "title": {
+            "la": "Quod commemorant Matthaeus et Marcus ante biduum futurae Paschae.",
+            "en-US": "What Matthew and Mark record two days before the coming Passover.",
+            "pt-BR": "O que Mateus e Marcos recordam dois dias antes da Páscoa que se aproximava."
+          }
+        },
+        {
+          "id": "p03-ch076",
+          "title": {
+            "la": "De caena in Betania ubi mulier unguento praetioso Dominum perfudit, quomodo inter se congruant Matthaeus, Marcus et Ioannes.",
+            "en-US": "On the supper in Bethany where the woman poured precious ointment over the Lord, how Matthew, Mark, and John agree with each other.",
+            "pt-BR": "Sobre a ceia em Betânia, onde a mulher derramou sobre o Senhor um unguento precioso: como Mateus, Marcos e João concordam entre si."
+          }
+        },
+        {
+          "id": "p03-ch077",
+          "title": {
+            "la": "Ubi mittit discipulos ut praeparent ei manducare Pascha.",
+            "en-US": "Where he sends the disciples to prepare for him to eat the Passover.",
+            "pt-BR": "Onde envia os discípulos a prepararem-lhe a ceia da Páscoa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
+      }
+    }
+  ]
+}

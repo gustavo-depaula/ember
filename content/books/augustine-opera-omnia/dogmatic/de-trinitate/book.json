@@ -1,0 +1,179 @@
+{
+  "id": "augustine-de-trinitate",
+  "cover": "label",
+  "name": {
+    "la": "De Trinitate",
+    "en-US": "The Trinity",
+    "pt-BR": "A Trindade"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Fifteen books written over many years on the Trinity, who is God: first from Scripture, then by seeking the image of the Trinity in the human mind. A letter to Aurelius of Carthage explains how unfinished copies escaped before publication.",
+    "pt-BR": "Quinze livros escritos ao longo de muitos anos sobre a Trindade, que é Deus: primeiro pelas Escrituras, depois buscando a imagem da Trindade na mente humana. Uma carta a Aurélio de Cartago conta como cópias inacabadas circularam antes da hora.",
+    "la": "Quindecim libri per multos annos de Trinitate quae Deus est scripti: primum ex Scripturis, deinde imaginem Trinitatis in mente humana quaerendo. Epistula ad Aurelium Carthaginiensem narrat quomodo libri nondum emendati subtracti sint."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deTrin",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deTrin",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deTrin",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Prologus",
+        "en-US": "Prologue",
+        "pt-BR": "Prólogo"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber V: Quid a Deo, quid a lectoribus Augustinus exposcat.",
+        "en-US": "Book V: What Augustine asks of God, and what of his readers.",
+        "pt-BR": "Livro V: O que Agostinho pede a Deus e o que pede aos leitores."
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VI: Nonnulli arguebant contra Arianos ex eo quod scriptum est: Christum Dei virtutem et Dei sapientiam.",
+        "en-US": "Book VI: Some argued against the Arians from the fact that it is written that Christ is the power of God and the wisdom of God.",
+        "pt-BR": "Livro VI: Alguns argumentavam contra os arianos a partir do que está escrito: que Cristo é a força de Deus e a sabedoria de Deus."
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber VII: Augustinus redit ad quaestionem: an qualibet Trinitatis persona per se sit Sapientia.",
+        "en-US": "Book VII: Augustine returns to the question: whether any person of the Trinity is Wisdom in itself.",
+        "pt-BR": "Livro VII: Agostinho retorna à questão: se qualquer pessoa da Trindade é por si mesma Sabedoria."
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber VIII: Proemium In Trinitate dicuntur distincte quae relative dicuntur ad invicem, sed nulla diversitas essentiae.",
+        "en-US": "Book VIII: Proem. In the Trinity those things are said distinctly which are said relatively in relation to one another, but there is no diversity of essence.",
+        "pt-BR": "Livro VIII: Proemio. Na Trindade dizem-se distintamente aquelas coisas que se dizem relativamente uma em relacao a outra, mas nao ha diversidade alguma de essencia."
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "De Trinitate quomodo inquirendum.",
+        "en-US": "How the Trinity is to be inquired into.",
+        "pt-BR": "Como se deve inquirir sobre a Trindade."
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber X: Amor studentis animi non est amor rei incognitae.",
+        "en-US": "Book X: The love of a mind eager to learn is not love of a thing unknown.",
+        "pt-BR": "Livro X: O amor do ânimo desejoso de aprender não é amor de uma coisa desconhecida."
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Liber XI: Vestigium Trinitatis etiam in exteriore homine.",
+        "en-US": "Book XI: A trace of the Trinity even in the outer man.",
+        "pt-BR": "Livro XI: Um vestígio da Trindade também no homem exterior."
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Liber XII: Homo exterior et interior qualis.",
+        "en-US": "Book XII: What the outer and the inner man are.",
+        "pt-BR": "Livro XII: Como são o homem exterior e o interior."
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Liber XIII: Huius libri propositum.",
+        "en-US": "Book XIII: The Aim of This Book",
+        "pt-BR": "Livro XIII: O propósito deste livro."
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Liber XIV: Dei cultus sapientia.",
+        "en-US": "Book XIV: The Worship of God Is Wisdom",
+        "pt-BR": "Livro XIV: O culto de Deus é a sabedoria."
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Liber XV: Lectorem exercere vult Augustinus in rebus quae factae sunt, ut Trinitatem, si potest, ratione intellegat.",
+        "en-US": "Book XV: Augustine Wishes to Exercise the Reader in the Things That Have Been Made, That He May, If He Can, Understand the Trinity by Reason",
+        "pt-BR": "Livro XV: Agostinho quer exercitar o leitor nas coisas que foram feitas, para que, se puder, entenda a Trindade pela razão."
+      }
+    }
+  ]
+}

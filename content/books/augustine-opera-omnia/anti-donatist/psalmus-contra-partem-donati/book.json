@@ -1,0 +1,59 @@
+{
+  "id": "augustine-psalmus-contra-partem-donati",
+  "cover": "label",
+  "name": {
+    "la": "Psalmus contra partem Donati",
+    "en-US": "Psalm against the Party of Donatus",
+    "pt-BR": "Salmo contra o partido de Donato"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "An abecedarian psalm in plain, unmetered Latin, composed so that the humblest people could sing the case against the Donatists and remember it. It runs from A to V with a refrain and closes with an epilogue spoken by Mother Church.",
+    "pt-BR": "Salmo abecedário em latim simples e sem métrica, composto para que o povo mais humilde cantasse a causa contra os donatistas e a guardasse na memória. Vai de A a V, com refrão, e termina com um epílogo na voz da Mãe Igreja.",
+    "la": "Psalmus abecedarius sine ullo metro compositus, ut causa contra Donatistas ab humillimo vulgo cantaretur et memoriae mandaretur. Usque ad litteram V procedit cum hypopsalmate, et epilogo concluditur quasi matre Ecclesia loquente."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~PsDon",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~PsDon",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~PsDon",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Psalmus",
+        "en-US": "Psalm",
+        "pt-BR": "Salmo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-correptione-et-gratia",
+  "cover": "label",
+  "name": {
+    "la": "De correptione et gratia",
+    "en-US": "Rebuke and Grace",
+    "pt-BR": "A correção e a graça"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Written to Valentinus and the monks of Hadrumetum after one of them argued that no one should be rebuked for failing to keep God's commandments, but only prayed for. Augustine shows why rebuke and grace stand together.",
+    "pt-BR": "Escrito a Valentino e aos monges de Hadrumeto depois que um deles sustentou que não se deve corrigir quem não guarda os mandamentos de Deus, mas apenas rezar por ele. Agostinho mostra como correção e graça andam juntas.",
+    "la": "Ad Valentinum et monachos Hadrumetinos scriptus, cum quidam eorum dixisset neminem corripiendum esse qui Dei praecepta non faceret, sed tantum pro eo orandum. Augustinus correptionem cum gratia consistere ostendit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Rebuke",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Rebuke",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Rebuke",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

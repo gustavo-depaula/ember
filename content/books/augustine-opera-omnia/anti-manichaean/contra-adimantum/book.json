@@ -1,0 +1,59 @@
+{
+  "id": "augustine-contra-adimantum",
+  "cover": "label",
+  "name": {
+    "la": "Contra Adimantum Manichaei discipulum",
+    "en-US": "Answer to Adimantus, a Disciple of Mani",
+    "pt-BR": "Contra Adimanto, discípulo de Mani"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A reply to the *Disputations* of Adimantus, a disciple of Mani, who set passages of the Gospels and Apostles against the Law and the Prophets. Augustine quotes each objection and shows the harmony of the two Testaments.",
+    "pt-BR": "Resposta às *Disputas* de Adimanto, discípulo de Mani, que opunha passagens dos Evangelhos e dos Apóstolos à Lei e aos Profetas. Agostinho cita cada objeção e mostra a concordância dos dois Testamentos.",
+    "la": "Responsio ad *Disputationes* Adimanti, Manichaei discipuli, qui evangelicas et apostolicas Scripturas Legi et Prophetis contrarias esse ostendere conabatur. Augustinus singula eius verba ponit et utriusque Testamenti concordiam demonstrat."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Adiman",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Adiman",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Adiman",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

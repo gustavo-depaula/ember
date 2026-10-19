@@ -1,0 +1,91 @@
+{
+  "id": "augustine-de-musica",
+  "cover": "label",
+  "name": {
+    "la": "De musica",
+    "en-US": "On Music",
+    "pt-BR": "A música"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Six books of dialogue between a teacher and a student. The first five treat rhythm and meter; the sixth rises from the numbers in sounds and senses to the unchangeable numbers of truth and to God.",
+    "pt-BR": "Seis livros de diálogo entre mestre e discípulo. Os cinco primeiros tratam do ritmo e da métrica; o sexto se eleva dos números presentes nos sons e nos sentidos aos números imutáveis da verdade e a Deus.",
+    "la": "Sex libri dialogi inter magistrum et discipulum. Quinque priores de rhythmo et metro agunt; sextus a numeris qui in sonis et sensibus sunt ad immutabiles veritatis numeros et ad Deum ascendit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deMus",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deMus",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deMus",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI",
+        "pt-BR": "Livro VI"
+      }
+    }
+  ]
+}

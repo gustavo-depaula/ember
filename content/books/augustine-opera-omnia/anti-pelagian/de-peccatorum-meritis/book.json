@@ -1,0 +1,75 @@
+{
+  "id": "augustine-de-peccatorum-meritis",
+  "cover": "label",
+  "name": {
+    "la": "De peccatorum meritis et remissione et de baptismo parvulorum",
+    "en-US": "The Punishment and Forgiveness of Sins and the Baptism of Little Ones",
+    "pt-BR": "O castigo e o perdão dos pecados e o batismo das crianças"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's first writing against the Pelagians, three books to Marcellinus on infant baptism, original sin and the grace that justifies, holding that no one in this life is without need to pray *Forgive us our debts*.",
+    "pt-BR": "O primeiro escrito de Agostinho contra os pelagianos: três livros a Marcelino sobre o batismo das crianças, o pecado original e a graça que justifica, pois ninguém nesta vida dispensa a prece *Perdoai-nos as nossas dívidas*.",
+    "la": "Primum Augustini contra Pelagianos scriptum: tres libri ad Marcellinum de baptismo parvulorum, de peccato originali et de gratia qua iustificamur, cum nemo in hac vita non egeat dicere *Dimitte nobis debita nostra*."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~DPMe",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~DPMe",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~DPMe",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    }
+  ]
+}

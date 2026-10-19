@@ -1,0 +1,51 @@
+{
+  "id": "augustine-post-collationem",
+  "cover": "label",
+  "name": {
+    "la": "Post collationem contra Donatistas",
+    "en-US": "To the Donatists after the Conference",
+    "pt-BR": "Aos donatistas depois da conferência"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Addressed to the Donatist laity after the Conference of Carthage, answering their bishops' claim that the judge had been bribed and showing from the proceedings that the Donatist case had been defeated.",
+    "pt-BR": "Dirigido aos fiéis donatistas depois da Conferência de Cartago, responde à alegação de seus bispos de que o juiz fora subornado e mostra, pelas atas, que a causa donatista foi vencida.",
+    "la": "Ad Donatistarum plebem post collationem Carthaginiensem scriptus: respondet episcopis eorum iudicem praemio corruptum esse iactantibus, et ex gestis ostendit causam Donatistarum victam esse."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~PostColl",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~PostColl",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~PostColl",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Post collationem contra Donatistas",
+        "en-US": "To the Donatists after the Conference",
+        "pt-BR": "Aos donatistas depois da conferência"
+      }
+    }
+  ]
+}

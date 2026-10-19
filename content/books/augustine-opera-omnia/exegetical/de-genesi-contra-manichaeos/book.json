@@ -1,0 +1,67 @@
+{
+  "id": "augustine-de-genesi-contra-manichaeos",
+  "cover": "label",
+  "name": {
+    "la": "De Genesi contra Manichaeos",
+    "en-US": "On Genesis: A Refutation of the Manichees",
+    "pt-BR": "O Gênesis contra os maniqueus"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Two books written soon after Augustine settled in Africa, defending the Old Law against the Manichees. They read Genesis 1–3 largely allegorically and close by setting Catholic faith against Manichaean error.",
+    "pt-BR": "Dois livros escritos logo depois que Agostinho se estabeleceu na África, em defesa da Lei Antiga contra os maniqueus. Leem Gênesis 1–3 sobretudo de modo alegórico e terminam contrapondo a fé católica ao erro maniqueu.",
+    "la": "Duo libri, cum Augustinus iam in Africa constitutus esset, contra Manichaeos pro Veteri Lege scripti. Genesis capita prima maxime allegorice exponunt et in fine fidem catholicam errori Manichaeorum opponunt."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~GenMani",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~GenMani",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~GenMani",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    }
+  ]
+}

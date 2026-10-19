@@ -1,0 +1,59 @@
+{
+  "id": "augustine-enchiridion-ad-laurentium",
+  "cover": "label",
+  "name": {
+    "la": "Enchiridion de fide, spe et caritate",
+    "en-US": "Enchiridion on Faith, Hope, and Charity",
+    "pt-BR": "Enquirídio sobre a fé, a esperança e a caridade"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A short handbook written at the request of Laurentius, who wanted a book of Augustine's never to leave his hands. It sets out how God is to be worshiped through faith, hope and charity, following the Creed and the Lord's Prayer.",
+    "pt-BR": "Pequeno manual escrito a pedido de Laurêncio, que queria ter sempre à mão uma obra de Agostinho. Expõe como Deus deve ser cultuado pela fé, pela esperança e pela caridade, seguindo o Credo e o Pai-Nosso.",
+    "la": "Breve manuale Laurentio petenti scriptum, qui opusculum Augustini numquam de manibus recessurum habere cupiebat. Quomodo Deus fide, spe et caritate colendus sit, per Symbolum et Orationem dominicam exponit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Ench",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Ench",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Ench",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

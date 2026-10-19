@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-rhetorica",
+  "cover": "label",
+  "name": {
+    "la": "De rhetorica",
+    "en-US": "On Rhetoric",
+    "pt-BR": "A retórica"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A short handbook of rhetoric drawing on Cicero and the Greek authorities: the orator’s tasks, from discovering arguments to delivery, his end, and the analysis of civil questions.",
+    "pt-BR": "Breve manual de retórica, apoiado em Cícero e nos autores gregos: as tarefas do orador, da invenção dos argumentos à pronunciação, o seu fim e a análise das questões civis.",
+    "la": "Breve rhetoricae artis compendium, Ciceronem et Graecos secutum: de oratoris officiis ab inventione usque ad pronuntiationem, de fine eius et de quaestionibus civilibus."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deRhet",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deRhet",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deRhet",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De rhetorica",
+        "en-US": "On Rhetoric",
+        "pt-BR": "A retórica"
+      }
+    }
+  ]
+}

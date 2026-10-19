@@ -1,0 +1,51 @@
+{
+  "id": "augustine-regulae-grammaticae",
+  "cover": "label",
+  "name": {
+    "la": "De grammatica: Regulae",
+    "en-US": "On Grammar: The Rules",
+    "pt-BR": "A gramática: as regras"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A handbook of rules of Latin grammar arranged by the eight parts of speech, dwelling especially on the endings, genders and declension of nouns, with Latin and Greek examples.",
+    "pt-BR": "Manual de regras da gramática latina ordenado segundo as oito partes do discurso, que se detém sobretudo nas terminações, nos gêneros e na declinação dos nomes, com exemplos latinos e gregos.",
+    "la": "Regulae grammaticae secundum octo orationis partes digestae, quae praesertim de nominum terminationibus, generibus et declinatione agunt, exemplis Latinis et Graecis allatis."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deGramR",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deGramR",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deGramR",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De grammatica: Regulae",
+        "en-US": "On Grammar: The Rules",
+        "pt-BR": "A gramática: as regras"
+      }
+    }
+  ]
+}

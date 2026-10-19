@@ -1,0 +1,75 @@
+{
+  "id": "augustine-contra-duas-epistulas",
+  "cover": "label",
+  "name": {
+    "la": "Contra duas epistulas Pelagianorum",
+    "en-US": "Answer to the Two Letters of the Pelagians",
+    "pt-BR": "Contra as duas cartas dos pelagianos"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Four books addressed to Pope Boniface, answering two Pelagian letters — one Julian sent to Rome, the other written by eighteen bishops of his party to the bishop of Thessalonica — in defense of grace and original sin.",
+    "pt-BR": "Quatro livros dirigidos ao papa Bonifácio, em resposta a duas cartas pelagianas — uma enviada por Juliano a Roma, outra escrita por dezoito bispos do seu partido ao bispo de Tessalônica —, em defesa da graça e do pecado original.",
+    "la": "Quattuor libri ad Bonifatium papam, quibus duabus Pelagianorum epistulis respondetur — alteri quam Iulianus Romam misit, alteri quam duodeviginti eius factionis episcopi Thessalonicensi episcopo scripserunt — pro gratia et peccato originali."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Duas",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Duas",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Duas",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber Primus",
+        "en-US": "Book One",
+        "pt-BR": "Livro Primeiro"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber Secundus",
+        "en-US": "Book Two",
+        "pt-BR": "Livro Segundo"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber Tertius",
+        "en-US": "Book Three",
+        "pt-BR": "Livro Terceiro"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber Quartus",
+        "en-US": "Book Four",
+        "pt-BR": "Livro Quarto"
+      }
+    }
+  ]
+}

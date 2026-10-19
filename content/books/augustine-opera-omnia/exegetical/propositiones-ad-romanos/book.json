@@ -1,0 +1,51 @@
+{
+  "id": "augustine-propositiones-ad-romanos",
+  "cover": "label",
+  "name": {
+    "la": "Expositio quarumdam propositionum ex Epistola ad Romanos",
+    "en-US": "Commentary on Statements in the Letter to the Romans",
+    "pt-BR": "Exposição de algumas proposições da Carta aos Romanos"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Brief explanations of selected statements in Paul's Letter to the Romans, taken in order through the letter, whose question Augustine names at the start as that of the works of the Law and grace.",
+    "pt-BR": "Explicações breves de passagens escolhidas da Carta de Paulo aos Romanos, na ordem da carta, cuja questão Agostinho anuncia logo de início: as obras da Lei e a graça.",
+    "la": "Breves expositiones quarundam sententiarum Epistolae Pauli ad Romanos, ordine epistolae servato, cuius quaestionem Augustinus initio de operibus Legis et gratia esse declarat."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~PropRom",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~PropRom",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~PropRom",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Expositio quarumdam propositionum ex Epistola ad Romanos",
+        "en-US": "Commentary on Statements in the Letter to the Romans",
+        "pt-BR": "Exposição de algumas proposições da Carta aos Romanos"
+      }
+    }
+  ]
+}

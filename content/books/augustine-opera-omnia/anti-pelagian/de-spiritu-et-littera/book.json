@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-spiritu-et-littera",
+  "cover": "label",
+  "name": {
+    "la": "De spiritu et littera",
+    "en-US": "The Spirit and the Letter",
+    "pt-BR": "O espírito e a letra"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Written for Marcellinus, puzzled that Augustine called sinlessness possible though no one achieves it. Taking up *The letter kills, but the Spirit gives life*, Augustine argues for the grace by which the ungodly is justified.",
+    "pt-BR": "Escrito para Marcelino, intrigado por Agostinho dizer possível uma vida sem pecado que ninguém alcança. A partir de *A letra mata, mas o Espírito vivifica*, Agostinho defende a graça pela qual o ímpio é justificado.",
+    "la": "Ad Marcellinum scriptus, qui mirabatur hominem sine peccato esse posse dici, cum nemo talis sit. Ab apostolico *Littera occidit, spiritus autem vivificat* profectus, Augustinus gratiam qua iustificatur impius asserit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~DSeL",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~DSeL",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~DSeL",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

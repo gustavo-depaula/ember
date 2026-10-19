@@ -1,0 +1,83 @@
+{
+  "id": "augustine-de-haeresibus",
+  "cover": "label",
+  "name": {
+    "la": "De haeresibus",
+    "en-US": "Heresies",
+    "pt-BR": "As heresias"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A catalogue of eighty-eight heresies from Simon Magus onward, written at the insistent request of the Carthaginian deacon Quodvultdeus, whose letters and Augustine's replies are included. An appendix adds later notices on further heresies.",
+    "pt-BR": "Catálogo de oitenta e oito heresias, desde Simão Mago, escrito a pedido insistente do diácono cartaginês Quodvultdeus, cujas cartas e as respostas de Agostinho acompanham a obra. Um apêndice acrescenta notícias posteriores sobre outras heresias.",
+    "la": "Catalogus duodenonaginta haeresium inde a Simone Mago, instantissime rogante Quodvultdeo diacono Carthaginiensi conscriptus; eius epistulae et Augustini responsa adiunguntur. Appendix posteriores de aliis haeresibus notitias addit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Heres",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Heres",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Heres",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Epistolae",
+        "en-US": "Letters",
+        "pt-BR": "Cartas"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Praefatio",
+        "en-US": "Preface",
+        "pt-BR": "Prefácio"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Capitula",
+        "en-US": "Chapters",
+        "pt-BR": "Capítulos"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Epilogus",
+        "en-US": "Epilogue",
+        "pt-BR": "Epílogo"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Appendix",
+        "en-US": "Appendix",
+        "pt-BR": "Apêndice"
+      }
+    }
+  ]
+}

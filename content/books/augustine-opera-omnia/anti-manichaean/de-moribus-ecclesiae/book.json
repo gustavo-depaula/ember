@@ -1,0 +1,67 @@
+{
+  "id": "augustine-de-moribus-ecclesiae",
+  "cover": "label",
+  "name": {
+    "la": "De moribus Ecclesiae catholicae et de moribus Manichaeorum",
+    "en-US": "The Catholic Way of Life and the Manichean Way of Life",
+    "pt-BR": "Os costumes da Igreja Católica e os costumes dos maniqueus"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Two books written in Rome after Augustine's baptism, against the Manicheans' boast of a superior continence. The first sets out the Catholic way of life, rooted in the love of God and neighbor; the second exposes Manichean teaching and practice.",
+    "pt-BR": "Dois livros escritos em Roma depois do batismo de Agostinho, contra a pretensão dos maniqueus a uma continência superior. O primeiro expõe o modo de vida católico, fundado no amor a Deus e ao próximo; o segundo desmascara a doutrina e a prática maniqueias.",
+    "la": "Duo libri Romae post baptismum scripti contra Manichaeorum iactantiam falsae continentiae. Primus mores Ecclesiae catholicae in dilectione Dei et proximi fundatos exponit; secundus Manichaeorum doctrinam et mores detegit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~WaysLife",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~WaysLife",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~WaysLife",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: De moribus Ecclesiae catholicae",
+        "en-US": "Book I: On the Catholic Way of Life",
+        "pt-BR": "Livro I: Os costumes da Igreja católica"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II: De moribus Manichaeorum",
+        "en-US": "Book II: On the Manichean Way of Life",
+        "pt-BR": "Livro II: Os costumes dos maniqueus"
+      }
+    }
+  ]
+}

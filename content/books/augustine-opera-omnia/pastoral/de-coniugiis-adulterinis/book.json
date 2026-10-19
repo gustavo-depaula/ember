@@ -1,0 +1,67 @@
+{
+  "id": "augustine-de-coniugiis-adulterinis",
+  "cover": "label",
+  "name": {
+    "la": "De coniugiis adulterinis",
+    "en-US": "Adulterous Marriages",
+    "pt-BR": "Os matrimônios adulterinos"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Two books to Pollentius on separation and remarriage: whether a spouse who has left the other, even on account of adultery, may marry again. In his *Revisions* Augustine judged that he had opened many recesses of this very difficult question without fully resolving it.",
+    "pt-BR": "Dois livros a Polêncio sobre separação e novas núpcias: se o cônjuge que se afastou do outro, mesmo por causa de adultério, pode casar-se de novo. Nas *Revisões*, Agostinho reconhece ter aberto muitos recantos dessa questão difícil sem resolvê-la por completo.",
+    "la": "Duo libri ad Pollentium de coniugibus discedentibus: utrum ei qui a coniuge, etiam fornicationis causa, discesserit, alias nuptias inire liceat. In *Retractationibus* Augustinus fatetur se multos huius difficillimae quaestionis sinus aperuisse, perfectionem tamen non attigisse."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~AdulMarr",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~AdulMarr",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~AdulMarr",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: Licetne coniugi e coniuge discedere?",
+        "en-US": "Book One: Is it permitted for a spouse to depart from a spouse?",
+        "pt-BR": "Livro I: É lícito a um cônjuge separar-se do outro cônjuge?"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II: Novae obiectiones Pollentii refutandae sunt",
+        "en-US": "Book Two: New objections of Pollentius are to be refuted.",
+        "pt-BR": "Livro II: As novas objeções de Polêncio devem ser refutadas."
+      }
+    }
+  ]
+}

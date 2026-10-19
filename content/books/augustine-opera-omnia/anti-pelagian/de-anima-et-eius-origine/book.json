@@ -1,0 +1,83 @@
+{
+  "id": "augustine-de-anima-et-eius-origine",
+  "cover": "label",
+  "name": {
+    "la": "De anima et eius origine",
+    "en-US": "The Nature and Origin of the Soul",
+    "pt-BR": "A alma e a sua origem"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Four pieces answering Vincent Victor, who had attacked Augustine's admitted uncertainty about the origin of each soul: one to the monk Renatus, a letter-book to the priest Peter, and two to Victor himself, written to correct the young man gently.",
+    "pt-BR": "Quatro escritos em resposta a Vicente Vítor, que atacara a confessada incerteza de Agostinho sobre a origem de cada alma: um ao monge Renato, uma carta-livro ao presbítero Pedro e dois ao próprio Vítor, corrigido com mansidão.",
+    "la": "Quattuor opuscula contra Vincentium Victorem, qui Augustini de origine singularum animarum dubitationem impugnaverat: unum ad Renatum monachum, epistula libri instar ad Petrum presbyterum, duo ad ipsum Victorem, iuvenem leniter corrigendum."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~DAeE",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~DAeE",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~DAeE",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: Ad Renatum",
+        "en-US": "Book I: To Renatus",
+        "pt-BR": "Livro I: A Renato"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II: Ad Petrum presbyterum",
+        "en-US": "Book II: To the priest Peter",
+        "pt-BR": "Livro II: Ao presbítero Pedro"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III: Ad Vincentium Victorem",
+        "en-US": "Book III: To Vincent Victor",
+        "pt-BR": "Livro III: A Vicente Vítor"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV: Ad Vincentium Victorem",
+        "en-US": "Book IV: To Vincent Victor",
+        "pt-BR": "Livro IV: A Vicente Vítor"
+      }
+    }
+  ]
+}

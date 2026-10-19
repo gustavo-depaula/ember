@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-praedestinatione-sanctorum",
+  "cover": "label",
+  "name": {
+    "la": "De praedestinatione sanctorum",
+    "en-US": "The Predestination of the Saints",
+    "pt-BR": "A predestinação dos santos"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "The first of two books to Prosper and Hilary, for brothers who rejected Pelagius yet were unsettled by the predestination of the saints. Augustine argues that even the beginning of faith is God's gift.",
+    "pt-BR": "Primeiro de dois livros a Próspero e Hilário, para irmãos que rejeitavam Pelágio mas se inquietavam com a predestinação dos santos. Agostinho mostra que até o início da fé é dom de Deus.",
+    "la": "Prior duorum librorum ad Prosperum et Hilarium, pro fratribus qui, Pelagio reiecto, de praedestinatione sanctorum adhuc haesitabant. Augustinus etiam initium fidei Dei donum esse ostendit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Predest",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Predest",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Predest",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De praedestinatione sanctorum",
+        "en-US": "The Predestination of the Saints",
+        "pt-BR": "A predestinação dos santos"
+      }
+    }
+  ]
+}

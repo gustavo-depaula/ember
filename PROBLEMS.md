@@ -6,7 +6,7 @@ Paths are relative to `content/books/`.
 
 ## Missing content
 
-- `aquinas-opera-omnia/opuscula/de-articulis-fidei/en-US/g1-pr.md` has headings but no body text. The pt-BR prologue was translated from the Latin alone. `scripts/scrape-aquinas-cc.py` can't re-import it, because the aquinas.cc `getCells` endpoint now returns 404. Import the prologue from another copy of the Collins translation, or update the scraper to the site's current API.
+- `aquinas-opera-omnia/opuscula/de-articulis-fidei/en-US/g1-pr.md` has headings but no body text. The pt-BR prologue was translated from the Latin alone. `scripts/scrape-aquinas-cc.py` can't re-import it, because the aquinas.cc `getCells` endpoint now returns 404. Import the prologue from another copy of the Collins translation, or update the scraper to the site's current API: `GET /api/init`, `POST /api/work/getStructure` and `POST /api/data/getCells` (0-based `start`), the same engine `scripts/scrape-augustinus-cc.py` reads.
 
 ## Source readings left as they are
 

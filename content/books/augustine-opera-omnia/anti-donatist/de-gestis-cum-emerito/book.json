@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-gestis-cum-emerito",
+  "cover": "label",
+  "name": {
+    "la": "De gestis cum Emerito Donatistarum episcopo",
+    "en-US": "The Proceedings with Emeritus",
+    "pt-BR": "As atas com Emérito"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Record of the meeting in the main church of Caesarea in Mauretania, before Bishop Deuterius, Augustine, Alypius, Possidius and a crowded congregation, at which the Donatist bishop Emeritus was invited to embrace Catholic unity.",
+    "pt-BR": "Ata do encontro na igreja principal de Cesareia da Mauritânia, diante do bispo Deutério, de Agostinho, Alípio, Possídio e de numerosa assembleia, em que o bispo donatista Emérito foi convidado a abraçar a unidade católica.",
+    "la": "Gesta in maiore ecclesia Caesariensi confecta, praesentibus Deuterio episcopo, Augustino, Alypio, Possidio et frequentissima plebe, ubi Emeritus, Donatistarum episcopus, ad unitatem catholicam invitatus est."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deGestis",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deGestis",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deGestis",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De gestis cum Emerito Donatistarum episcopo",
+        "en-US": "The Proceedings with Emeritus",
+        "pt-BR": "As atas com Emérito"
+      }
+    }
+  ]
+}

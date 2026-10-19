@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-sancta-virginitate",
+  "cover": "label",
+  "name": {
+    "la": "De sancta virginitate",
+    "en-US": "Holy Virginity",
+    "pt-BR": "A santa virgindade"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "The companion to *The Excellence of Marriage*: a single book showing how great a gift of God consecrated virginity is and with how great humility it must be guarded, lest virgins despise the married.",
+    "pt-BR": "Complemento de *O bem do matrimônio*: num único livro, mostra quão grande dom de Deus é a virgindade consagrada e com quanta humildade deve ser guardada, para que as virgens não desprezem os casados.",
+    "la": "Post librum *De bono coniugali* scriptus: uno volumine ostendit quantum Dei donum sit sancta virginitas et quanta humilitate custodienda, ne virgines coniugatos contemnant."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Virg",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Virg",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Virg",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

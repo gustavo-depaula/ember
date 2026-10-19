@@ -1,0 +1,155 @@
+{
+  "id": "augustine-confessiones",
+  "cover": "label",
+  "name": {
+    "la": "Confessiones",
+    "en-US": "The Confessions",
+    "pt-BR": "Confissões"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Thirteen books praising God for Augustine's evil deeds and good alike: the first ten tell of his own life up to and after his conversion, the last three expound Genesis from *In the beginning* to the Sabbath rest.",
+    "pt-BR": "Treze livros que louvam a Deus pelos males e pelos bens de Agostinho: os dez primeiros narram sua própria vida, até a conversão e depois dela; os três últimos comentam o Gênesis, do *No princípio* ao repouso do sábado.",
+    "la": "Tredecim libri qui de malis et de bonis Augustini Deum laudant: decem priores de ipso, usque ad conversionem et ultra; tres posteriores de Scripturis, ab *In principio* usque ad requiem sabbati."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Conf",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Conf",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Conf",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: Ortus, infantia et pueritia",
+        "en-US": "Book 1: Birth, Infancy, and Boyhood",
+        "pt-BR": "Livro I: Nascimento, infância e meninice"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II: Sextus decimus annus aetatis",
+        "en-US": "Book 2: The Sixteenth Year of His Life",
+        "pt-BR": "Livro II: O décimo sexto ano de idade"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III: Carthagine honestis studiis deditus",
+        "en-US": "Book 3: Given Over to Honorable Studies at Carthage",
+        "pt-BR": "Livro III: Dedicado, em Cartago, aos estudos honrosos"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV: Per novem annos doctor Tagaste et Carthagine",
+        "en-US": "Book 4: For Nine Years a Teacher at Thagaste and Carthage",
+        "pt-BR": "Livro IV: Por nove anos, professor em Tagaste e Cartago"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber V: Carthaginem relinquens petit Romam atque inde Mediolanium",
+        "en-US": "Book 5: Leaving Carthage, He Seeks Rome, and from There Milan",
+        "pt-BR": "Livro V: Deixando Cartago, dirige-se a Roma e, dali, a Milão"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber VI: Tricenaria aetas",
+        "en-US": "Book 6: The Thirtieth Year of His Age",
+        "pt-BR": "Livro VI: A idade dos trinta anos"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VII: Ascensio ad veritam",
+        "en-US": "Book 7: The Ascent to the Truth",
+        "pt-BR": "Livro VII: A ascensão à verdade"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber VIII: Conversio ad unum verum Deum",
+        "en-US": "Book 8: Conversion to the One True God",
+        "pt-BR": "Livro VIII: Conversão ao único Deus verdadeiro"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber IX: Baptismus et reditus in Africam",
+        "en-US": "Book 9: Baptism and the Return to Africa",
+        "pt-BR": "Livro IX: Batismo e o retorno à África"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Liber X: Post Deum Quaesitum ed cognitum",
+        "en-US": "Book 10: After God has been sought and known",
+        "pt-BR": "Livro X: Depois de Deus buscado e conhecido"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber XI: Commentatio principii, quo Deus dicitur caelum et terram creavisse",
+        "en-US": "Book 11: A meditation on the \"beginning\" in which God is said to have created heaven and earth",
+        "pt-BR": "Livro XI: Meditação sobre o 'princípio' em que se diz que Deus criou o céu e a terra"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Liber XII: Commentatio caeli et terrae, quae Deus dicitur fecisse",
+        "en-US": "Book 12: A meditation on heaven and earth, which God is said to have made",
+        "pt-BR": "Livro 12: Meditação sobre o céu e a terra, que se diz ter Deus feito"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Liber XIII: Creatura mundi allegorice inspecta",
+        "en-US": "Book 13: The creation of the world allegorically considered",
+        "pt-BR": "Livro XIII: A criação do mundo considerada alegoricamente"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "augustine-contra-mendacium",
+  "cover": "label",
+  "name": {
+    "la": "Contra mendacium",
+    "en-US": "Against Lying",
+    "pt-BR": "Contra a mentira"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A reply to Consentius, who proposed that Catholics feign Priscillianism to expose hidden heretics. Augustine refuses: every lie is a sin, and lies cannot be hunted down by lying.",
+    "pt-BR": "Resposta a Consêncio, que propunha que católicos se fingissem priscilianistas para desmascarar hereges ocultos. Agostinho recusa: toda mentira é pecado, e não se combate a mentira mentindo.",
+    "la": "Responsio ad Consentium, qui suadebat ut catholici se Priscillianistas simularent, quo occultos haereticos detegerent. Negat Augustinus: omne mendacium peccatum est, nec mendacia mentiendo persequenda sunt."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~ConMen",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~ConMen",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~ConMen",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Contra mendacium",
+        "en-US": "Against Lying",
+        "pt-BR": "Contra a mentira"
+      }
+    }
+  ]
+}

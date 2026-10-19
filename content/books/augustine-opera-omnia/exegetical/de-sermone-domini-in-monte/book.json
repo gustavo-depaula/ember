@@ -1,0 +1,67 @@
+{
+  "id": "augustine-de-sermone-domini-in-monte",
+  "cover": "label",
+  "name": {
+    "la": "De sermone Domini in monte",
+    "en-US": "The Lord's Sermon on the Mount",
+    "pt-BR": "O Sermão do Senhor na Montanha"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Two books expounding the Sermon on the Mount in Matthew, from the Beatitudes onward, as the pattern of the Christian life. In the *Revisions* Augustine qualifies what he said there about perfection in this life.",
+    "pt-BR": "Dois livros que comentam o Sermão da Montanha segundo Mateus, a começar pelas bem-aventuranças, como modelo da vida cristã. Nas *Retratações*, Agostinho matiza o que ali dissera sobre a perfeição possível nesta vida.",
+    "la": "Duo volumina in Sermonem Domini in monte secundum Matthaeum, a beatitudinibus incipientia, quasi formam vitae christianae exponentia. In *Retractationibus* Augustinus quae ibi de perfectione huius vitae dixerat temperat."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~SermMt",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~SermMt",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~SermMt",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: Praecepta quae ad informandam vitam pertinent",
+        "en-US": "Book I: The Precepts That Pertain to the Forming of Life",
+        "pt-BR": "Livro I: Os preceitos que pertencem à formação da vida"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II: De beatitudinibus quibus videtur Deus",
+        "en-US": "Book II: On the Beatitudes by Which God Is Seen",
+        "pt-BR": "Livro II: Sobre as bem-aventuranças pelas quais se vê a Deus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2563 @@
+{
+  "id": "augustine-epistulae",
+  "cover": "label",
+  "name": {
+    "la": "Epistulae",
+    "en-US": "Letters",
+    "pt-BR": "Cartas"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's correspondence: 310 letters, numbered 1–270 with the 29 letters found later (1*–29*), to and from friends, bishops, officials and Jerome, from his early days as a convert to his last years as bishop.",
+    "pt-BR": "A correspondência de Agostinho: 310 cartas, numeradas de 1 a 270, mais as 29 descobertas depois (1*–29*), trocadas com amigos, bispos, autoridades e Jerônimo, desde os primeiros tempos de convertido até os últimos anos de episcopado.",
+    "la": "Epistulae Augustini: trecentae decem, numeris 1–270 signatae cum viginti novem postea repertis (1*–29*), ad amicos, episcopos, magistratus et Hieronymum datae vel ab eis acceptae, a primis conversionis annis usque ad extremos episcopatus."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Ep1-99",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Ep1-99",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Ep1-99",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "v01",
+      "title": {
+        "la": "Epistulae 1–99",
+        "en-US": "Letters 1–99",
+        "pt-BR": "Cartas 1–99"
+      },
+      "children": [
+        {
+          "id": "v01-ch001",
+          "title": {
+            "la": "Epistola 1",
+            "en-US": "Letter 1",
+            "pt-BR": "Carta 1"
+          }
+        },
+        {
+          "id": "v01-ch002",
+          "title": {
+            "la": "Epistola 2",
+            "en-US": "Letter 2",
+            "pt-BR": "Carta 2"
+          }
+        },
+        {
+          "id": "v01-ch003",
+          "title": {
+            "la": "Epistola 3",
+            "en-US": "Letter 3",
+            "pt-BR": "Carta 3"
+          }
+        },
+        {
+          "id": "v01-ch004",
+          "title": {
+            "la": "Epistola 4",
+            "en-US": "Letter 4",
+            "pt-BR": "Carta 4"
+          }
+        },
+        {
+          "id": "v01-ch005",
+          "title": {
+            "la": "Epistola 5",
+            "en-US": "Letter 5",
+            "pt-BR": "Carta 5"
+          }
+        },
+        {
+          "id": "v01-ch006",
+          "title": {
+            "la": "Epistola 6",
+            "en-US": "Letter 6",
+            "pt-BR": "Carta 6"
+          }
+        },
+        {
+          "id": "v01-ch007",
+          "title": {
+            "la": "Epistola 7",
+            "en-US": "Letter 7",
+            "pt-BR": "Carta 7"
+          }
+        },
+        {
+          "id": "v01-ch008",
+          "title": {
+            "la": "Epistola 8",
+            "en-US": "Letter 8",
+            "pt-BR": "Carta 8"
+          }
+        },
+        {
+          "id": "v01-ch009",
+          "title": {
+            "la": "Epistola 9",
+            "en-US": "Letter 9",
+            "pt-BR": "Carta 9"
+          }
+        },
+        {
+          "id": "v01-ch010",
+          "title": {
+            "la": "Epistola 10",
+            "en-US": "Letter 10",
+            "pt-BR": "Carta 10"
+          }
+        },
+        {
+          "id": "v01-ch011",
+          "title": {
+            "la": "Epistola 11",
+            "en-US": "Letter 11",
+            "pt-BR": "Carta 11"
+          }
+        },
+        {
+          "id": "v01-ch012",
+          "title": {
+            "la": "Epistola 12",
+            "en-US": "Letter 12",
+            "pt-BR": "Carta 12"
+          }
+        },
+        {
+          "id": "v01-ch013",
+          "title": {
+            "la": "Epistola 13",
+            "en-US": "Letter 13",
+            "pt-BR": "Carta 13"
+          }
+        },
+        {
+          "id": "v01-ch014",
+          "title": {
+            "la": "Epistola 14",
+            "en-US": "Letter 14",
+            "pt-BR": "Carta 14"
+          }
+        },
+        {
+          "id": "v01-ch015",
+          "title": {
+            "la": "Epistola 15",
+            "en-US": "Letter 15",
+            "pt-BR": "Carta 15"
+          }
+        },
+        {
+          "id": "v01-ch016",
+          "title": {
+            "la": "Epistola 16",
+            "en-US": "Letter 16",
+            "pt-BR": "Carta 16"
+          }
+        },
+        {
+          "id": "v01-ch017",
+          "title": {
+            "la": "Epistola 17",
+            "en-US": "Letter 17",
+            "pt-BR": "Carta 17"
+          }
+        },
+        {
+          "id": "v01-ch018",
+          "title": {
+            "la": "Epistola 18",
+            "en-US": "Letter 18",
+            "pt-BR": "Carta 18"
+          }
+        },
+        {
+          "id": "v01-ch019",
+          "title": {
+            "la": "Epistola 19",
+            "en-US": "Letter 19",
+            "pt-BR": "Carta 19"
+          }
+        },
+        {
+          "id": "v01-ch020",
+          "title": {
+            "la": "Epistola 20",
+            "en-US": "Letter 20",
+            "pt-BR": "Carta 20"
+          }
+        },
+        {
+          "id": "v01-ch021",
+          "title": {
+            "la": "Epistola 21",
+            "en-US": "Letter 21",
+            "pt-BR": "Carta 21"
+          }
+        },
+        {
+          "id": "v01-ch022",
+          "title": {
+            "la": "Epistola 22",
+            "en-US": "Letter 22",
+            "pt-BR": "Carta 22"
+          }
+        },
+        {
+          "id": "v01-ch023",
+          "title": {
+            "la": "Epistola 23",
+            "en-US": "Letter 23",
+            "pt-BR": "Carta 23"
+          }
+        },
+        {
+          "id": "v01-ch024",
+          "title": {
+            "la": "Epistola 24",
+            "en-US": "Letter 24",
+            "pt-BR": "Carta 24"
+          }
+        },
+        {
+          "id": "v01-ch025",
+          "title": {
+            "la": "Epistola 25",
+            "en-US": "Letter 25",
+            "pt-BR": "Carta 25"
+          }
+        },
+        {
+          "id": "v01-ch026",
+          "title": {
+            "la": "Epistola 26",
+            "en-US": "Letter 26",
+            "pt-BR": "Carta 26"
+          }
+        },
+        {
+          "id": "v01-ch027",
+          "title": {
+            "la": "Epistola 27",
+            "en-US": "Letter 27",
+            "pt-BR": "Carta 27"
+          }
+        },
+        {
+          "id": "v01-ch028",
+          "title": {
+            "la": "Epistola 28",
+            "en-US": "Letter 28",
+            "pt-BR": "Carta 28"
+          }
+        },
+        {
+          "id": "v01-ch029",
+          "title": {
+            "la": "Epistola 29",
+            "en-US": "Letter 29",
+            "pt-BR": "Carta 29"
+          }
+        },
+        {
+          "id": "v01-ch030",
+          "title": {
+            "la": "Epistola 30",
+            "en-US": "Letter 30",
+            "pt-BR": "Carta 30"
+          }
+        },
+        {
+          "id": "v01-ch031",
+          "title": {
+            "la": "Epistola 31",
+            "en-US": "Letter 31",
+            "pt-BR": "Carta 31"
+          }
+        },
+        {
+          "id": "v01-ch032",
+          "title": {
+            "la": "Epistola 32",
+            "en-US": "Letter 32",
+            "pt-BR": "Carta 32"
+          }
+        },
+        {
+          "id": "v01-ch033",
+          "title": {
+            "la": "Epistola 33",
+            "en-US": "Letter 33",
+            "pt-BR": "Carta 33"
+          }
+        },
+        {
+          "id": "v01-ch034",
+          "title": {
+            "la": "Epistola 34",
+            "en-US": "Letter 34",
+            "pt-BR": "Carta 34"
+          }
+        },
+        {
+          "id": "v01-ch035",
+          "title": {
+            "la": "Epistola 35",
+            "en-US": "Letter 35",
+            "pt-BR": "Carta 35"
+          }
+        },
+        {
+          "id": "v01-ch036",
+          "title": {
+            "la": "Epistola 36",
+            "en-US": "Letter 36",
+            "pt-BR": "Carta 36"
+          }
+        },
+        {
+          "id": "v01-ch037",
+          "title": {
+            "la": "Epistola 37",
+            "en-US": "Letter 37",
+            "pt-BR": "Carta 37"
+          }
+        },
+        {
+          "id": "v01-ch038",
+          "title": {
+            "la": "Epistola 38",
+            "en-US": "Letter 38",
+            "pt-BR": "Carta 38"
+          }
+        },
+        {
+          "id": "v01-ch039",
+          "title": {
+            "la": "Epistola 39",
+            "en-US": "Letter 39",
+            "pt-BR": "Carta 39"
+          }
+        },
+        {
+          "id": "v01-ch040",
+          "title": {
+            "la": "Epistola 40",
+            "en-US": "Letter 40",
+            "pt-BR": "Carta 40"
+          }
+        },
+        {
+          "id": "v01-ch041",
+          "title": {
+            "la": "Epistola 41",
+            "en-US": "Letter 41",
+            "pt-BR": "Epístola 41: Ao senhor beatíssimo e digno de ser recebido com veneração, irmão sinceríssimo e caríssimo, e concelebrante, o papa Aurélio, Alípio e Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch042",
+          "title": {
+            "la": "Epistola 42",
+            "en-US": "Letter 42",
+            "pt-BR": "Epístola 42: Aos senhores louváveis em Cristo, santíssimos irmãos Paulino e Terásia, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch043",
+          "title": {
+            "la": "Epistola 43",
+            "en-US": "Letter 43",
+            "pt-BR": "Epístola 43: Aos senhores diletíssimos e dignos de ser proclamados, irmãos Glório, Eleúsio, os dois Félix, Gramático e todos os demais a quem isto seja grato, Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch044",
+          "title": {
+            "la": "Epistola 44",
+            "en-US": "Letter 44",
+            "pt-BR": "Epístola 44: Aos senhores diletíssimos e louváveis em Cristo, irmãos Eleúsio, Glório e os dois Félix, Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch045",
+          "title": {
+            "la": "Epistola 45",
+            "en-US": "Letter 45",
+            "pt-BR": "Epístola 45: Aos senhores germaníssimos, diletíssimos e louváveis em Cristo, Paulino e Terásia, Alípio e Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch046",
+          "title": {
+            "la": "Epistola 46",
+            "en-US": "Letter 46",
+            "pt-BR": "Epístola 46: Ao amado e venerável pai, o bispo Agostinho, Publícola"
+          }
+        },
+        {
+          "id": "v01-ch047",
+          "title": {
+            "la": "Epistola 47",
+            "en-US": "Letter 47",
+            "pt-BR": "Epístola 47: Ao honorável e diletíssimo filho Publícola, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch048",
+          "title": {
+            "la": "Epistola 48",
+            "en-US": "Letter 48",
+            "pt-BR": "Epístola 48: Ao amado e desejadíssimo senhor, irmão e concelebrante Eudóxio, e aos irmãos que estão contigo, Agostinho, e os irmãos que estão comigo, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch049",
+          "title": {
+            "la": "Epistola 49",
+            "en-US": "Letter 49",
+            "pt-BR": "Epístola 49: A Honorato, bispo do partido de Donato, Agostinho, bispo da Igreja católica"
+          }
+        },
+        {
+          "id": "v01-ch050",
+          "title": {
+            "la": "Epistola 50",
+            "en-US": "Letter 50",
+            "pt-BR": "Epístola 50: Aos condutores e homens principais, ou anciãos, da colônia de Sufes, o bispo Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch051",
+          "title": {
+            "la": "Epistola 51",
+            "en-US": "Letter 51",
+            "pt-BR": "Epístola 51: [Agostinho a Crispino] falta nos manuscritos"
+          }
+        },
+        {
+          "id": "v01-ch052",
+          "title": {
+            "la": "Epistola 52",
+            "en-US": "Letter 52",
+            "pt-BR": "Epístola 52: Ao senhor muito desejável e sobremaneira caríssimo irmão Severino, Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch053",
+          "title": {
+            "la": "Epistola 53",
+            "en-US": "Letter 53",
+            "pt-BR": "Epístola 53: Ao diletíssimo e honorável irmão Generoso, Fortunato, Alípio e Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch054",
+          "title": {
+            "la": "Epistola 54",
+            "en-US": "Letter 54",
+            "pt-BR": "Epístola 54: Ao diletíssimo filho Januário, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch055",
+          "title": {
+            "la": "Epistola 55",
+            "en-US": "Letter 55",
+            "pt-BR": "Epístola 55: Às perguntas de Januário, Livro II"
+          }
+        },
+        {
+          "id": "v01-ch056",
+          "title": {
+            "la": "Epistola 56",
+            "en-US": "Letter 56",
+            "pt-BR": "Epístola 56: Ao egrégio senhor e merecidamente honorável e diletíssimo filho Céler, Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch057",
+          "title": {
+            "la": "Epistola 57",
+            "en-US": "Letter 57",
+            "pt-BR": "Epístola 57: Ao diletíssimo senhor e merecidamente honorável e digno de ser recebido filho Céler, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch058",
+          "title": {
+            "la": "Epistola 58",
+            "en-US": "Letter 58",
+            "pt-BR": "Epístola 58: Ao egrégio senhor e merecidamente digno de ser recebido, e, nas entranhas de Cristo, diletíssimo filho Pamáquio, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch059",
+          "title": {
+            "la": "Epistola 59",
+            "en-US": "Letter 59",
+            "pt-BR": "Epístola 59: Ao senhor beatíssimo e venerável pai e concelebrante Vitorino, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch060",
+          "title": {
+            "la": "Epistola 60",
+            "en-US": "Letter 60",
+            "pt-BR": "Epístola 60: Ao senhor beatíssimo e, com a devida observância, venerável, e sinceríssimamente caríssimo irmão e concelebrante, o papa Aurélio, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch061",
+          "title": {
+            "la": "Epistola 61",
+            "en-US": "Letter 61",
+            "pt-BR": "Epístola 61: Ao diletíssimo irmão Teodoro, Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch062",
+          "title": {
+            "la": "Epistola 62",
+            "en-US": "Letter 62",
+            "pt-BR": "Epístola 62"
+          }
+        },
+        {
+          "id": "v01-ch063",
+          "title": {
+            "la": "Epistola 63",
+            "en-US": "Letter 63",
+            "pt-BR": "Epístola 63: Ao senhor beatíssimo e venerável, e digno de ser abraçado com sinceríssimo amor, irmão e concelebrante Severo, e aos irmãos que estão contigo, Agostinho, e os irmãos que estão comigo, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch064",
+          "title": {
+            "la": "Epistola 64",
+            "en-US": "Letter 64",
+            "pt-BR": "Epístola 64: Ao diletíssimo senhor, irmão e concelebrante Quintiano, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch065",
+          "title": {
+            "la": "Epistola 65",
+            "en-US": "Letter 65",
+            "pt-BR": "Epístola 65: Ao senhor beatíssimo e venerandamente digno de ser recebido pai e concelebrante, o velho Xantipo, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch066",
+          "title": {
+            "la": "Epistola 66",
+            "en-US": "Letter 66",
+            "pt-BR": "Epístola 66: Agostinho a Crispino"
+          }
+        },
+        {
+          "id": "v01-ch067",
+          "title": {
+            "la": "Epistola 67",
+            "en-US": "Letter 67",
+            "pt-BR": "Epístola 67: Ao caríssimo e desejadíssimo e, em Cristo, digno de ser honrado irmão e concelebrante Jerônimo, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch068",
+          "title": {
+            "la": "Epistola 68",
+            "en-US": "Letter 68",
+            "pt-BR": "Epístola 68: Ao verdadeiramente santo e beatíssimo papa Agostinho, Jerônimo, saúde em Cristo"
+          }
+        },
+        {
+          "id": "v01-ch069",
+          "title": {
+            "la": "Epistola 69",
+            "en-US": "Letter 69",
+            "pt-BR": "Epístola 69: Ao merecidamente diletíssimo senhor, e dignamente honorável e digno de ser recebido filho Castório, Alípio e Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch070",
+          "title": {
+            "la": "Epistola 70",
+            "en-US": "Letter 70",
+            "pt-BR": "Epístola 70: Ao diletíssimo e honorável senhor, irmão Naucélio, Alípio e Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch071",
+          "title": {
+            "la": "Epistola 71",
+            "en-US": "Letter 71",
+            "pt-BR": "Epístola 71: Ao venerável e desejável santo senhor, irmão e concelebrante Jerônimo, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch072",
+          "title": {
+            "la": "Epistola 72",
+            "en-US": "Letter 72",
+            "pt-BR": "Epístola 72: Ao verdadeiramente santo e beatíssimo papa Agostinho, Jerônimo"
+          }
+        },
+        {
+          "id": "v01-ch073",
+          "title": {
+            "la": "Epistola 73",
+            "en-US": "Letter 73",
+            "pt-BR": "Epístola 73: Ao venerando e desejadíssimo senhor e irmão, concelebrante Jerônimo, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch074",
+          "title": {
+            "la": "Epistola 74",
+            "en-US": "Letter 74",
+            "pt-BR": "Epístola 74: Ao senhor beatíssimo e merecidamente venerando irmão e concelebrante Presídio, Agostinho, saúde no Senhor"
+          }
+        },
+        {
+          "id": "v01-ch075",
+          "title": {
+            "la": "Epistola 75",
+            "en-US": "Letter 75",
+            "pt-BR": "Epístola 75: Ao verdadeiramente santo e beatíssimo papa Agostinho, Jerônimo, saúde em Cristo"
+          }
+        },
+        {
+          "id": "v01-ch076",
+          "title": {
+            "la": "Epistola 76",
+            "en-US": "Letter 76",
+            "pt-BR": "Carta 76"
+          }
+        },
+        {
+          "id": "v01-ch077",
+          "title": {
+            "la": "Epistola 77",
+            "en-US": "Letter 77",
+            "pt-BR": "Carta 77"
+          }
+        },
+        {
+          "id": "v01-ch078",
+          "title": {
+            "la": "Epistola 78",
+            "en-US": "Letter 78",
+            "pt-BR": "Carta 78"
+          }
+        },
+        {
+          "id": "v01-ch079",
+          "title": {
+            "la": "Epistola 79",
+            "en-US": "Letter 79",
+            "pt-BR": "Carta 79"
+          }
+        },
+        {
+          "id": "v01-ch080",
+          "title": {
+            "la": "Epistola 80",
+            "en-US": "Letter 80",
+            "pt-BR": "Carta 80"
+          }
+        },
+        {
+          "id": "v01-ch081",
+          "title": {
+            "la": "Epistola 81",
+            "en-US": "Letter 81",
+            "pt-BR": "Carta 81"
+          }
+        },
+        {
+          "id": "v01-ch082",
+          "title": {
+            "la": "Epistola 82",
+            "en-US": "Letter 82",
+            "pt-BR": "Carta 82"
+          }
+        },
+        {
+          "id": "v01-ch083",
+          "title": {
+            "la": "Epistola 83",
+            "en-US": "Letter 83",
+            "pt-BR": "Carta 83"
+          }
+        },
+        {
+          "id": "v01-ch084",
+          "title": {
+            "la": "Epistola 84",
+            "en-US": "Letter 84",
+            "pt-BR": "Carta 84"
+          }
+        },
+        {
+          "id": "v01-ch085",
+          "title": {
+            "la": "Epistola 85",
+            "en-US": "Letter 85",
+            "pt-BR": "Carta 85"
+          }
+        },
+        {
+          "id": "v01-ch086",
+          "title": {
+            "la": "Epistola 86",
+            "en-US": "Letter 86",
+            "pt-BR": "Carta 86"
+          }
+        },
+        {
+          "id": "v01-ch087",
+          "title": {
+            "la": "Epistola 87",
+            "en-US": "Letter 87",
+            "pt-BR": "Carta 87"
+          }
+        },
+        {
+          "id": "v01-ch088",
+          "title": {
+            "la": "Epistola 88",
+            "en-US": "Letter 88",
+            "pt-BR": "Carta 88"
+          }
+        },
+        {
+          "id": "v01-ch089",
+          "title": {
+            "la": "Epistola 89",
+            "en-US": "Letter 89",
+            "pt-BR": "Carta 89"
+          }
+        },
+        {
+          "id": "v01-ch090",
+          "title": {
+            "la": "Epistola 90",
+            "en-US": "Letter 90",
+            "pt-BR": "Carta 90"
+          }
+        },
+        {
+          "id": "v01-ch091",
+          "title": {
+            "la": "Epistola 91",
+            "en-US": "Letter 91",
+            "pt-BR": "Carta 91"
+          }
+        },
+        {
+          "id": "v01-ch092",
+          "title": {
+            "la": "Epistola 92",
+            "en-US": "Letter 92",
+            "pt-BR": "Carta 92"
+          }
+        },
+        {
+          "id": "v01-ch093",
+          "title": {
+            "la": "Epistola 92/A",
+            "en-US": "Letter 92/A",
+            "pt-BR": "Carta 92/A"
+          }
+        },
+        {
+          "id": "v01-ch094",
+          "title": {
+            "la": "Epistola 93",
+            "en-US": "Letter 93",
+            "pt-BR": "Carta 93"
+          }
+        },
+        {
+          "id": "v01-ch095",
+          "title": {
+            "la": "Epistola 94",
+            "en-US": "Letter 94",
+            "pt-BR": "Carta 94"
+          }
+        },
+        {
+          "id": "v01-ch096",
+          "title": {
+            "la": "Epistola 95",
+            "en-US": "Letter 95",
+            "pt-BR": "Carta 95"
+          }
+        },
+        {
+          "id": "v01-ch097",
+          "title": {
+            "la": "Epistola 96",
+            "en-US": "Letter 96",
+            "pt-BR": "Carta 96"
+          }
+        },
+        {
+          "id": "v01-ch098",
+          "title": {
+            "la": "Epistola 97",
+            "en-US": "Letter 97",
+            "pt-BR": "Carta 97"
+          }
+        },
+        {
+          "id": "v01-ch099",
+          "title": {
+            "la": "Epistola 98",
+            "en-US": "Letter 98",
+            "pt-BR": "Carta 98"
+          }
+        },
+        {
+          "id": "v01-ch100",
+          "title": {
+            "la": "Epistola 99",
+            "en-US": "Letter 99",
+            "pt-BR": "Carta 99"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v02",
+      "title": {
+        "la": "Epistulae 100–155",
+        "en-US": "Letters 100–155",
+        "pt-BR": "Cartas 100–155"
+      },
+      "children": [
+        {
+          "id": "v02-ch001",
+          "title": {
+            "la": "Epistola 100",
+            "en-US": "Letter 100",
+            "pt-BR": "Carta 100"
+          }
+        },
+        {
+          "id": "v02-ch002",
+          "title": {
+            "la": "Epistola 101",
+            "en-US": "Letter 101",
+            "pt-BR": "Carta 101"
+          }
+        },
+        {
+          "id": "v02-ch003",
+          "title": {
+            "la": "Epistola 102",
+            "en-US": "Letter 102",
+            "pt-BR": "Carta 102"
+          }
+        },
+        {
+          "id": "v02-ch004",
+          "title": {
+            "la": "Epistola 103",
+            "en-US": "Letter 103",
+            "pt-BR": "Carta 103"
+          }
+        },
+        {
+          "id": "v02-ch005",
+          "title": {
+            "la": "Epistola 104",
+            "en-US": "Letter 104",
+            "pt-BR": "Carta 104"
+          }
+        },
+        {
+          "id": "v02-ch006",
+          "title": {
+            "la": "Epistola 105",
+            "en-US": "Letter 105",
+            "pt-BR": "Carta 105"
+          }
+        },
+        {
+          "id": "v02-ch007",
+          "title": {
+            "la": "Epistola 106",
+            "en-US": "Letter 106",
+            "pt-BR": "Carta 106"
+          }
+        },
+        {
+          "id": "v02-ch008",
+          "title": {
+            "la": "Epistola 107",
+            "en-US": "Letter 107",
+            "pt-BR": "Carta 107"
+          }
+        },
+        {
+          "id": "v02-ch009",
+          "title": {
+            "la": "Epistola 108",
+            "en-US": "Letter 108",
+            "pt-BR": "Carta 108"
+          }
+        },
+        {
+          "id": "v02-ch010",
+          "title": {
+            "la": "Epistola 109",
+            "en-US": "Letter 109",
+            "pt-BR": "Carta 109"
+          }
+        },
+        {
+          "id": "v02-ch011",
+          "title": {
+            "la": "Epistola 110",
+            "en-US": "Letter 110",
+            "pt-BR": "Carta 110"
+          }
+        },
+        {
+          "id": "v02-ch012",
+          "title": {
+            "la": "Epistola 111",
+            "en-US": "Letter 111",
+            "pt-BR": "Epistola 111"
+          }
+        },
+        {
+          "id": "v02-ch013",
+          "title": {
+            "la": "Epistola 112",
+            "en-US": "Letter 112",
+            "pt-BR": "Epistola 112"
+          }
+        },
+        {
+          "id": "v02-ch014",
+          "title": {
+            "la": "Epistola 113",
+            "en-US": "Letter 113",
+            "pt-BR": "Epistola 113"
+          }
+        },
+        {
+          "id": "v02-ch015",
+          "title": {
+            "la": "Epistola 114",
+            "en-US": "Letter 114",
+            "pt-BR": "Epistola 114"
+          }
+        },
+        {
+          "id": "v02-ch016",
+          "title": {
+            "la": "Epistola 115",
+            "en-US": "Letter 115",
+            "pt-BR": "Epistola 115"
+          }
+        },
+        {
+          "id": "v02-ch017",
+          "title": {
+            "la": "Epistola 116",
+            "en-US": "Letter 116",
+            "pt-BR": "Epistola 116"
+          }
+        },
+        {
+          "id": "v02-ch018",
+          "title": {
+            "la": "Epistola 117",
+            "en-US": "Letter 117",
+            "pt-BR": "Epistola 117"
+          }
+        },
+        {
+          "id": "v02-ch019",
+          "title": {
+            "la": "Epistola 118",
+            "en-US": "Letter 118",
+            "pt-BR": "Epistola 118"
+          }
+        },
+        {
+          "id": "v02-ch020",
+          "title": {
+            "la": "Epistola 119",
+            "en-US": "Letter 119",
+            "pt-BR": "Epístola 119: Ao santo e beatíssimo senhor papa Agostinho, Consêncio."
+          }
+        },
+        {
+          "id": "v02-ch021",
+          "title": {
+            "la": "Epistola 120",
+            "en-US": "Letter 120",
+            "pt-BR": "Epístola 120: Ao amadíssimo irmão e digno de ser honrado nas entranhas de Cristo, Consêncio, Agostinho, saudação no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch022",
+          "title": {
+            "la": "Epistola 121",
+            "en-US": "Letter 121",
+            "pt-BR": "Epístola 121"
+          }
+        },
+        {
+          "id": "v02-ch023",
+          "title": {
+            "la": "Epistola 122",
+            "en-US": "Letter 122",
+            "pt-BR": "Epístola 122: Aos amadíssimos irmãos, os companheiros de clero, e a todo o povo, Agostinho, saudação no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch024",
+          "title": {
+            "la": "Epistola 123",
+            "en-US": "Letter 123",
+            "pt-BR": "Carta 123"
+          }
+        },
+        {
+          "id": "v02-ch025",
+          "title": {
+            "la": "Epistola 124",
+            "en-US": "Letter 124",
+            "pt-BR": "Carta 124"
+          }
+        },
+        {
+          "id": "v02-ch026",
+          "title": {
+            "la": "Epistola 125",
+            "en-US": "Letter 125",
+            "pt-BR": "Carta 125"
+          }
+        },
+        {
+          "id": "v02-ch027",
+          "title": {
+            "la": "Epistola 126",
+            "en-US": "Letter 126",
+            "pt-BR": "Carta 126"
+          }
+        },
+        {
+          "id": "v02-ch028",
+          "title": {
+            "la": "Epistola 127",
+            "en-US": "Letter 127",
+            "pt-BR": "Carta 127"
+          }
+        },
+        {
+          "id": "v02-ch029",
+          "title": {
+            "la": "Epistola 128",
+            "en-US": "Letter 128",
+            "pt-BR": "Carta 128"
+          }
+        },
+        {
+          "id": "v02-ch030",
+          "title": {
+            "la": "Epistola 129",
+            "en-US": "Letter 129",
+            "pt-BR": "Carta 129"
+          }
+        },
+        {
+          "id": "v02-ch031",
+          "title": {
+            "la": "Epistola 130",
+            "en-US": "Letter 130",
+            "pt-BR": "Carta 130"
+          }
+        },
+        {
+          "id": "v02-ch032",
+          "title": {
+            "la": "Epistola 131",
+            "en-US": "Letter 131",
+            "pt-BR": "Carta 131"
+          }
+        },
+        {
+          "id": "v02-ch033",
+          "title": {
+            "la": "Epistola 132",
+            "en-US": "Letter 132",
+            "pt-BR": "Carta 132"
+          }
+        },
+        {
+          "id": "v02-ch034",
+          "title": {
+            "la": "Epistola 133",
+            "en-US": "Letter 133",
+            "pt-BR": "Carta 133"
+          }
+        },
+        {
+          "id": "v02-ch035",
+          "title": {
+            "la": "Epistola 134",
+            "en-US": "Letter 134",
+            "pt-BR": "Carta 134"
+          }
+        },
+        {
+          "id": "v02-ch036",
+          "title": {
+            "la": "Epistola 135",
+            "en-US": "Letter 135",
+            "pt-BR": "Carta 135"
+          }
+        },
+        {
+          "id": "v02-ch037",
+          "title": {
+            "la": "Epistola 136",
+            "en-US": "Letter 136",
+            "pt-BR": "Carta 136"
+          }
+        },
+        {
+          "id": "v02-ch038",
+          "title": {
+            "la": "Epistola 137",
+            "en-US": "Letter 137",
+            "pt-BR": "Carta 137"
+          }
+        },
+        {
+          "id": "v02-ch039",
+          "title": {
+            "la": "Epistola 138",
+            "en-US": "Letter 138",
+            "pt-BR": "Carta 138"
+          }
+        },
+        {
+          "id": "v02-ch040",
+          "title": {
+            "la": "Epistola 139",
+            "en-US": "Letter 139",
+            "pt-BR": "Carta 139"
+          }
+        },
+        {
+          "id": "v02-ch041",
+          "title": {
+            "la": "Epistola 140",
+            "en-US": "Letter 140",
+            "pt-BR": "Carta 140"
+          }
+        },
+        {
+          "id": "v02-ch042",
+          "title": {
+            "la": "Epistola 141",
+            "en-US": "Letter 141",
+            "pt-BR": "Epístola 141: Silvano, o Ancião, Valentino, Aurélio, Inocêncio, Maximino, Optato, Agostinho, Donato e os Demais Bispos do Concílio de Zerta, aos Donatistas."
+          }
+        },
+        {
+          "id": "v02-ch043",
+          "title": {
+            "la": "Epistola 142",
+            "en-US": "Letter 142",
+            "pt-BR": "Epístola 142: Aos Senhores Diletíssimos, Irmãos Presbíteros Saturnino e Eufrates, e aos Clérigos Que Estão Convosco, Convertidos à Unidade e à Paz de Cristo, Agostinho, Bispo, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch044",
+          "title": {
+            "la": "Epistola 143",
+            "en-US": "Letter 143",
+            "pt-BR": "Epístola 143: Ao Senhor Exímio, e Merecidamente Insigne, e Muito Caríssimo Filho Marcelino, Agostinho, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch045",
+          "title": {
+            "la": "Epistola 144",
+            "en-US": "Letter 144",
+            "pt-BR": "Epístola 144: Aos Honoráveis e Merecidamente Dignos de Acolhimento, Meus Caríssimos e Desejadíssimos Irmãos de Todo Grau de Honra, o Povo de Cirta, de Agostinho, Bispo."
+          }
+        },
+        {
+          "id": "v02-ch046",
+          "title": {
+            "la": "Epistola 145",
+            "en-US": "Letter 145",
+            "pt-BR": "Epístola 145: Ao Senhor Irmão Santo e Desejável Anastásio, de Agostinho, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch047",
+          "title": {
+            "la": "Epistola 146",
+            "en-US": "Letter 146",
+            "pt-BR": "Epístola 146: Ao Senhor Diletíssimo e Desejadíssimo Irmão Pelágio, de Agostinho, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch048",
+          "title": {
+            "la": "Epistola 147",
+            "en-US": "Letter 147",
+            "pt-BR": "Epístola 147: O Livro sobre a Visão de Deus"
+          }
+        },
+        {
+          "id": "v02-ch049",
+          "title": {
+            "la": "Epistola 148",
+            "en-US": "Letter 148",
+            "pt-BR": "Epístola 148: Memorando ao Santo Irmão Fortunaciano."
+          }
+        },
+        {
+          "id": "v02-ch050",
+          "title": {
+            "la": "Epistola 149",
+            "en-US": "Letter 149",
+            "pt-BR": "Epístola 149: Ao Beatíssimo e Veneravelmente Desejável e Desejavelmente Venerável, Meu Santo e Santamente Caríssimo Irmão e Coepíscopo, Paulino, de Agostinho, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch051",
+          "title": {
+            "la": "Epistola 150",
+            "en-US": "Letter 150",
+            "pt-BR": "Epístola 150: Às Digníssimas de Honra Entre as Senhoras, Merecidamente Ilustres e Excelentíssimas Filhas Proba e Juliana, de Agostinho, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch052",
+          "title": {
+            "la": "Epistola 151",
+            "en-US": "Letter 151",
+            "pt-BR": "Epístola 151: Ao Senhor Merecidamente Ilustre, e Pela Honra Que Lhe Devo Digníssimo Filho Ceciliano, de Agostinho, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch053",
+          "title": {
+            "la": "Epistola 152",
+            "en-US": "Letter 152",
+            "pt-BR": "Epístola 152: Ao Senhor Merecidamente Venerável, e Unicamente Digno de Reverência, Pai Agostinho, Macedônio."
+          }
+        },
+        {
+          "id": "v02-ch054",
+          "title": {
+            "la": "Epistola 153",
+            "en-US": "Letter 153",
+            "pt-BR": "Epístola 153: Agostinho, Bispo, Servo de Cristo e de Sua Família, ao Dileto Filho Macedônio, Saúde no Senhor."
+          }
+        },
+        {
+          "id": "v02-ch055",
+          "title": {
+            "la": "Epistola 154",
+            "en-US": "Letter 154",
+            "pt-BR": "Epístola 154: Ao Senhor Merecidamente Venerável e Verdadeiramente Digno de Respeito, Pai Bispo Agostinho, Macedônio."
+          }
+        },
+        {
+          "id": "v02-ch056",
+          "title": {
+            "la": "Epistola 155",
+            "en-US": "Letter 155",
+            "pt-BR": "Epístola 155: Agostinho, Bispo, Servo de Cristo e de Sua Família, ao Dileto Filho Macedônio, Saúde no Senhor."
+          }
+        }
+      ]
+    },
+    {
+      "id": "v03",
+      "title": {
+        "la": "Epistulae 156–210",
+        "en-US": "Letters 156–210",
+        "pt-BR": "Cartas 156–210"
+      },
+      "children": [
+        {
+          "id": "v03-ch001",
+          "title": {
+            "la": "Epistola 156",
+            "en-US": "Letter 156",
+            "pt-BR": "Carta 156"
+          }
+        },
+        {
+          "id": "v03-ch002",
+          "title": {
+            "la": "Epistola 157",
+            "en-US": "Letter 157",
+            "pt-BR": "Carta 157"
+          }
+        },
+        {
+          "id": "v03-ch003",
+          "title": {
+            "la": "Epistola 158",
+            "en-US": "Letter 158",
+            "pt-BR": "Carta 158"
+          }
+        },
+        {
+          "id": "v03-ch004",
+          "title": {
+            "la": "Epistola 159",
+            "en-US": "Letter 159",
+            "pt-BR": "Carta 159"
+          }
+        },
+        {
+          "id": "v03-ch005",
+          "title": {
+            "la": "Epistola 160",
+            "en-US": "Letter 160",
+            "pt-BR": "Carta 160"
+          }
+        },
+        {
+          "id": "v03-ch006",
+          "title": {
+            "la": "Epistola 161",
+            "en-US": "Letter 161",
+            "pt-BR": "Carta 161"
+          }
+        },
+        {
+          "id": "v03-ch007",
+          "title": {
+            "la": "Epistola 162",
+            "en-US": "Letter 162",
+            "pt-BR": "Carta 162"
+          }
+        },
+        {
+          "id": "v03-ch008",
+          "title": {
+            "la": "Epistola 163",
+            "en-US": "Letter 163",
+            "pt-BR": "Carta 163"
+          }
+        },
+        {
+          "id": "v03-ch009",
+          "title": {
+            "la": "Epistola 164",
+            "en-US": "Letter 164",
+            "pt-BR": "Carta 164"
+          }
+        },
+        {
+          "id": "v03-ch010",
+          "title": {
+            "la": "Epistola 165",
+            "en-US": "Letter 165",
+            "pt-BR": "Carta 165"
+          }
+        },
+        {
+          "id": "v03-ch011",
+          "title": {
+            "la": "Epistola 166",
+            "en-US": "Letter 166",
+            "pt-BR": "Carta 166"
+          }
+        },
+        {
+          "id": "v03-ch012",
+          "title": {
+            "la": "Epistola 167",
+            "en-US": "Letter 167",
+            "pt-BR": "Carta 167"
+          }
+        },
+        {
+          "id": "v03-ch013",
+          "title": {
+            "la": "Epistola 168",
+            "en-US": "Letter 168",
+            "pt-BR": "Carta 168"
+          }
+        },
+        {
+          "id": "v03-ch014",
+          "title": {
+            "la": "Epistola 169",
+            "en-US": "Letter 169",
+            "pt-BR": "Carta 169"
+          }
+        },
+        {
+          "id": "v03-ch015",
+          "title": {
+            "la": "Epistola 170",
+            "en-US": "Letter 170",
+            "pt-BR": "Carta 170"
+          }
+        },
+        {
+          "id": "v03-ch016",
+          "title": {
+            "la": "Epistola 171",
+            "en-US": "Letter 171",
+            "pt-BR": "Carta 171"
+          }
+        },
+        {
+          "id": "v03-ch017",
+          "title": {
+            "la": "Epistola 171/A",
+            "en-US": "Letter 171/A",
+            "pt-BR": "Carta 171/A"
+          }
+        },
+        {
+          "id": "v03-ch018",
+          "title": {
+            "la": "Epistola 172",
+            "en-US": "Letter 172",
+            "pt-BR": "Carta 172"
+          }
+        },
+        {
+          "id": "v03-ch019",
+          "title": {
+            "la": "Epistola 173",
+            "en-US": "Letter 173",
+            "pt-BR": "Carta 173"
+          }
+        },
+        {
+          "id": "v03-ch020",
+          "title": {
+            "la": "Epistola 173/A",
+            "en-US": "Letter 173/A",
+            "pt-BR": "Carta 173/A"
+          }
+        },
+        {
+          "id": "v03-ch021",
+          "title": {
+            "la": "Epistola 174",
+            "en-US": "Letter 174",
+            "pt-BR": "Carta 174"
+          }
+        },
+        {
+          "id": "v03-ch022",
+          "title": {
+            "la": "Epistola 175",
+            "en-US": "Letter 175",
+            "pt-BR": "Carta 175"
+          }
+        },
+        {
+          "id": "v03-ch023",
+          "title": {
+            "la": "Epistola 176",
+            "en-US": "Letter 176",
+            "pt-BR": "Carta 176"
+          }
+        },
+        {
+          "id": "v03-ch024",
+          "title": {
+            "la": "Epistola 177",
+            "en-US": "Letter 177",
+            "pt-BR": "Carta 177"
+          }
+        },
+        {
+          "id": "v03-ch025",
+          "title": {
+            "la": "Epistola 178",
+            "en-US": "Letter 178",
+            "pt-BR": "Carta 178"
+          }
+        },
+        {
+          "id": "v03-ch026",
+          "title": {
+            "la": "Epistola 179",
+            "en-US": "Letter 179",
+            "pt-BR": "Carta 179"
+          }
+        },
+        {
+          "id": "v03-ch027",
+          "title": {
+            "la": "Epistola 180",
+            "en-US": "Letter 180",
+            "pt-BR": "Carta 180"
+          }
+        },
+        {
+          "id": "v03-ch028",
+          "title": {
+            "la": "Epistola 181",
+            "en-US": "Letter 181",
+            "pt-BR": "Carta 181"
+          }
+        },
+        {
+          "id": "v03-ch029",
+          "title": {
+            "la": "Epistola 182",
+            "en-US": "Letter 182",
+            "pt-BR": "Carta 182"
+          }
+        },
+        {
+          "id": "v03-ch030",
+          "title": {
+            "la": "Epistola 183",
+            "en-US": "Letter 183",
+            "pt-BR": "Carta 183"
+          }
+        },
+        {
+          "id": "v03-ch031",
+          "title": {
+            "la": "Epistola 184",
+            "en-US": "Letter 184",
+            "pt-BR": "Carta 184"
+          }
+        },
+        {
+          "id": "v03-ch032",
+          "title": {
+            "la": "Epistola 184/A",
+            "en-US": "Letter 184/A",
+            "pt-BR": "Carta 184/A"
+          }
+        },
+        {
+          "id": "v03-ch033",
+          "title": {
+            "la": "Epistola 185",
+            "en-US": "Letter 185",
+            "pt-BR": "Carta 185"
+          }
+        },
+        {
+          "id": "v03-ch034",
+          "title": {
+            "la": "Epistola 185/A",
+            "en-US": "Letter 185/A",
+            "pt-BR": "Carta 185/A"
+          }
+        },
+        {
+          "id": "v03-ch035",
+          "title": {
+            "la": "Epistola 186",
+            "en-US": "Letter 186",
+            "pt-BR": "Carta 186"
+          }
+        },
+        {
+          "id": "v03-ch036",
+          "title": {
+            "la": "Epistola 187",
+            "en-US": "Letter 187",
+            "pt-BR": "Carta 187"
+          }
+        },
+        {
+          "id": "v03-ch037",
+          "title": {
+            "la": "Epistola 188",
+            "en-US": "Letter 188",
+            "pt-BR": "Carta 188"
+          }
+        },
+        {
+          "id": "v03-ch038",
+          "title": {
+            "la": "Epistola 189",
+            "en-US": "Letter 189",
+            "pt-BR": "Carta 189"
+          }
+        },
+        {
+          "id": "v03-ch039",
+          "title": {
+            "la": "Epistola 190",
+            "en-US": "Letter 190",
+            "pt-BR": "Carta 190"
+          }
+        },
+        {
+          "id": "v03-ch040",
+          "title": {
+            "la": "Epistola 191",
+            "en-US": "Letter 191",
+            "pt-BR": "Carta 191"
+          }
+        },
+        {
+          "id": "v03-ch041",
+          "title": {
+            "la": "Epistola 192",
+            "en-US": "Letter 192",
+            "pt-BR": "Carta 192"
+          }
+        },
+        {
+          "id": "v03-ch042",
+          "title": {
+            "la": "Epistola 193",
+            "en-US": "Letter 193",
+            "pt-BR": "Carta 193"
+          }
+        },
+        {
+          "id": "v03-ch043",
+          "title": {
+            "la": "Epistola 194",
+            "en-US": "Letter 194",
+            "pt-BR": "Carta 194"
+          }
+        },
+        {
+          "id": "v03-ch044",
+          "title": {
+            "la": "Epistola 195",
+            "en-US": "Letter 195",
+            "pt-BR": "Carta 195"
+          }
+        },
+        {
+          "id": "v03-ch045",
+          "title": {
+            "la": "Epistola 196",
+            "en-US": "Letter 196",
+            "pt-BR": "Carta 196"
+          }
+        },
+        {
+          "id": "v03-ch046",
+          "title": {
+            "la": "Epistola 197",
+            "en-US": "Letter 197",
+            "pt-BR": "Carta 197"
+          }
+        },
+        {
+          "id": "v03-ch047",
+          "title": {
+            "la": "Epistola 198",
+            "en-US": "Letter 198",
+            "pt-BR": "Carta 198"
+          }
+        },
+        {
+          "id": "v03-ch048",
+          "title": {
+            "la": "Epistola 199",
+            "en-US": "Letter 199",
+            "pt-BR": "Carta 199"
+          }
+        },
+        {
+          "id": "v03-ch049",
+          "title": {
+            "la": "Epistola 200",
+            "en-US": "Letter 200",
+            "pt-BR": "Carta 200"
+          }
+        },
+        {
+          "id": "v03-ch050",
+          "title": {
+            "la": "Epistola 201",
+            "en-US": "Letter 201",
+            "pt-BR": "Carta 201"
+          }
+        },
+        {
+          "id": "v03-ch051",
+          "title": {
+            "la": "Epistola 202",
+            "en-US": "Letter 202",
+            "pt-BR": "Carta 202"
+          }
+        },
+        {
+          "id": "v03-ch052",
+          "title": {
+            "la": "Epistola 202/A",
+            "en-US": "Letter 202/A",
+            "pt-BR": "Carta 202/A"
+          }
+        },
+        {
+          "id": "v03-ch053",
+          "title": {
+            "la": "Epistola 203",
+            "en-US": "Letter 203",
+            "pt-BR": "Carta 203"
+          }
+        },
+        {
+          "id": "v03-ch054",
+          "title": {
+            "la": "Epistola 204",
+            "en-US": "Letter 204",
+            "pt-BR": "Carta 204"
+          }
+        },
+        {
+          "id": "v03-ch055",
+          "title": {
+            "la": "Epistola 205",
+            "en-US": "Letter 205",
+            "pt-BR": "Carta 205"
+          }
+        },
+        {
+          "id": "v03-ch056",
+          "title": {
+            "la": "Epistola 206",
+            "en-US": "Letter 206",
+            "pt-BR": "Carta 206"
+          }
+        },
+        {
+          "id": "v03-ch057",
+          "title": {
+            "la": "Epistola 207",
+            "en-US": "Letter 207",
+            "pt-BR": "Carta 207"
+          }
+        },
+        {
+          "id": "v03-ch058",
+          "title": {
+            "la": "Epistola 208",
+            "en-US": "Letter 208",
+            "pt-BR": "Carta 208"
+          }
+        },
+        {
+          "id": "v03-ch059",
+          "title": {
+            "la": "Epistola 209",
+            "en-US": "Letter 209",
+            "pt-BR": "Carta 209"
+          }
+        },
+        {
+          "id": "v03-ch060",
+          "title": {
+            "la": "Epistola 210",
+            "en-US": "Letter 210",
+            "pt-BR": "Carta 210"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v04",
+      "title": {
+        "la": "Epistulae 211–270, 1*–29*",
+        "en-US": "Letters 211–270, 1*–29*",
+        "pt-BR": "Cartas 211–270, 1*–29*"
+      },
+      "children": [
+        {
+          "id": "v04-ch001",
+          "title": {
+            "la": "Epistola 211",
+            "en-US": "Letter 211",
+            "pt-BR": "Carta 211"
+          }
+        },
+        {
+          "id": "v04-ch002",
+          "title": {
+            "la": "Epistola 212",
+            "en-US": "Letter 212",
+            "pt-BR": "Carta 212"
+          }
+        },
+        {
+          "id": "v04-ch003",
+          "title": {
+            "la": "Epistola 212/A",
+            "en-US": "Letter 212A",
+            "pt-BR": "Carta 212/A"
+          }
+        },
+        {
+          "id": "v04-ch004",
+          "title": {
+            "la": "Epistola 213",
+            "en-US": "Letter 213",
+            "pt-BR": "Carta 213"
+          }
+        },
+        {
+          "id": "v04-ch005",
+          "title": {
+            "la": "Epistola 214",
+            "en-US": "Letter 214",
+            "pt-BR": "Carta 214"
+          }
+        },
+        {
+          "id": "v04-ch006",
+          "title": {
+            "la": "Epistola 215",
+            "en-US": "Letter 215",
+            "pt-BR": "Carta 215"
+          }
+        },
+        {
+          "id": "v04-ch007",
+          "title": {
+            "la": "Epistola 215/A",
+            "en-US": "Letter 215A",
+            "pt-BR": "Carta 215/A"
+          }
+        },
+        {
+          "id": "v04-ch008",
+          "title": {
+            "la": "Epistola 216",
+            "en-US": "Letter 216",
+            "pt-BR": "Carta 216"
+          }
+        },
+        {
+          "id": "v04-ch009",
+          "title": {
+            "la": "Epistola 217",
+            "en-US": "Letter 217",
+            "pt-BR": "Carta 217"
+          }
+        },
+        {
+          "id": "v04-ch010",
+          "title": {
+            "la": "Epistola 218",
+            "en-US": "Letter 218",
+            "pt-BR": "Carta 218"
+          }
+        },
+        {
+          "id": "v04-ch011",
+          "title": {
+            "la": "Epistola 219",
+            "en-US": "Letter 219",
+            "pt-BR": "Carta 219"
+          }
+        },
+        {
+          "id": "v04-ch012",
+          "title": {
+            "la": "Epistola 220",
+            "en-US": "Letter 220",
+            "pt-BR": "Carta 220"
+          }
+        },
+        {
+          "id": "v04-ch013",
+          "title": {
+            "la": "Epistola 221",
+            "en-US": "Letter 221",
+            "pt-BR": "Carta 221"
+          }
+        },
+        {
+          "id": "v04-ch014",
+          "title": {
+            "la": "Epistola 222",
+            "en-US": "Letter 222",
+            "pt-BR": "Carta 222"
+          }
+        },
+        {
+          "id": "v04-ch015",
+          "title": {
+            "la": "Epistola 223",
+            "en-US": "Letter 223",
+            "pt-BR": "Carta 223"
+          }
+        },
+        {
+          "id": "v04-ch016",
+          "title": {
+            "la": "Epistola 224",
+            "en-US": "Letter 224",
+            "pt-BR": "Carta 224"
+          }
+        },
+        {
+          "id": "v04-ch017",
+          "title": {
+            "la": "Epistola 225",
+            "en-US": "Letter 225",
+            "pt-BR": "Carta 225"
+          }
+        },
+        {
+          "id": "v04-ch018",
+          "title": {
+            "la": "Epistola 226",
+            "en-US": "Letter 226",
+            "pt-BR": "Carta 226"
+          }
+        },
+        {
+          "id": "v04-ch019",
+          "title": {
+            "la": "Epistola 227",
+            "en-US": "Letter 227",
+            "pt-BR": "Carta 227"
+          }
+        },
+        {
+          "id": "v04-ch020",
+          "title": {
+            "la": "Epistola 228",
+            "en-US": "Letter 228",
+            "pt-BR": "Carta 228"
+          }
+        },
+        {
+          "id": "v04-ch021",
+          "title": {
+            "la": "Epistola 229",
+            "en-US": "Letter 229",
+            "pt-BR": "Carta 229"
+          }
+        },
+        {
+          "id": "v04-ch022",
+          "title": {
+            "la": "Epistola 230",
+            "en-US": "Letter 230",
+            "pt-BR": "Carta 230"
+          }
+        },
+        {
+          "id": "v04-ch023",
+          "title": {
+            "la": "Epistola 231",
+            "en-US": "Letter 231",
+            "pt-BR": "Carta 231"
+          }
+        },
+        {
+          "id": "v04-ch024",
+          "title": {
+            "la": "Epistola 232",
+            "en-US": "Letter 232",
+            "pt-BR": "Carta 232"
+          }
+        },
+        {
+          "id": "v04-ch025",
+          "title": {
+            "la": "Epistola 233",
+            "en-US": "Letter 233",
+            "pt-BR": "Carta 233"
+          }
+        },
+        {
+          "id": "v04-ch026",
+          "title": {
+            "la": "Epistola 234",
+            "en-US": "Letter 234",
+            "pt-BR": "Carta 234"
+          }
+        },
+        {
+          "id": "v04-ch027",
+          "title": {
+            "la": "Epistola 235",
+            "en-US": "Letter 235",
+            "pt-BR": "Carta 235"
+          }
+        },
+        {
+          "id": "v04-ch028",
+          "title": {
+            "la": "Epistola 236",
+            "en-US": "Letter 236",
+            "pt-BR": "Carta 236"
+          }
+        },
+        {
+          "id": "v04-ch029",
+          "title": {
+            "la": "Epistola 237",
+            "en-US": "Letter 237",
+            "pt-BR": "Carta 237"
+          }
+        },
+        {
+          "id": "v04-ch030",
+          "title": {
+            "la": "Epistola 238",
+            "en-US": "Letter 238",
+            "pt-BR": "Carta 238"
+          }
+        },
+        {
+          "id": "v04-ch031",
+          "title": {
+            "la": "Epistola 239",
+            "en-US": "Letter 239",
+            "pt-BR": "Carta 239"
+          }
+        },
+        {
+          "id": "v04-ch032",
+          "title": {
+            "la": "Epistola 240",
+            "en-US": "Letter 240",
+            "pt-BR": "Carta 240"
+          }
+        },
+        {
+          "id": "v04-ch033",
+          "title": {
+            "la": "Epistola 241",
+            "en-US": "Letter 241",
+            "pt-BR": "Carta 241"
+          }
+        },
+        {
+          "id": "v04-ch034",
+          "title": {
+            "la": "Epistola 242",
+            "en-US": "Letter 242",
+            "pt-BR": "Carta 242"
+          }
+        },
+        {
+          "id": "v04-ch035",
+          "title": {
+            "la": "Epistola 243",
+            "en-US": "Letter 243",
+            "pt-BR": "Carta 243"
+          }
+        },
+        {
+          "id": "v04-ch036",
+          "title": {
+            "la": "Epistola 244",
+            "en-US": "Letter 244",
+            "pt-BR": "Carta 244"
+          }
+        },
+        {
+          "id": "v04-ch037",
+          "title": {
+            "la": "Epistola 245",
+            "en-US": "Letter 245",
+            "pt-BR": "Carta 245"
+          }
+        },
+        {
+          "id": "v04-ch038",
+          "title": {
+            "la": "Epistola 246",
+            "en-US": "Letter 246",
+            "pt-BR": "Carta 246"
+          }
+        },
+        {
+          "id": "v04-ch039",
+          "title": {
+            "la": "Epistola 247",
+            "en-US": "Letter 247",
+            "pt-BR": "Carta 247"
+          }
+        },
+        {
+          "id": "v04-ch040",
+          "title": {
+            "la": "Epistola 248",
+            "en-US": "Letter 248",
+            "pt-BR": "Carta 248"
+          }
+        },
+        {
+          "id": "v04-ch041",
+          "title": {
+            "la": "Epistola 249",
+            "en-US": "Letter 249",
+            "pt-BR": "Carta 249"
+          }
+        },
+        {
+          "id": "v04-ch042",
+          "title": {
+            "la": "Epistola 250",
+            "en-US": "Letter 250",
+            "pt-BR": "Carta 250"
+          }
+        },
+        {
+          "id": "v04-ch043",
+          "title": {
+            "la": "Epistola 250/A",
+            "en-US": "Letter 250A",
+            "pt-BR": "Carta 250/A"
+          }
+        },
+        {
+          "id": "v04-ch044",
+          "title": {
+            "la": "Epistola 251",
+            "en-US": "Letter 251",
+            "pt-BR": "Carta 251"
+          }
+        },
+        {
+          "id": "v04-ch045",
+          "title": {
+            "la": "Epistola 252",
+            "en-US": "Letter 252",
+            "pt-BR": "Carta 252"
+          }
+        },
+        {
+          "id": "v04-ch046",
+          "title": {
+            "la": "Epistola 253",
+            "en-US": "Letter 253",
+            "pt-BR": "Carta 253"
+          }
+        },
+        {
+          "id": "v04-ch047",
+          "title": {
+            "la": "Epistola 254",
+            "en-US": "Letter 254",
+            "pt-BR": "Carta 254"
+          }
+        },
+        {
+          "id": "v04-ch048",
+          "title": {
+            "la": "Epistola 255",
+            "en-US": "Letter 255",
+            "pt-BR": "Carta 255"
+          }
+        },
+        {
+          "id": "v04-ch049",
+          "title": {
+            "la": "Epistola 256",
+            "en-US": "Letter 256",
+            "pt-BR": "Carta 256"
+          }
+        },
+        {
+          "id": "v04-ch050",
+          "title": {
+            "la": "Epistola 257",
+            "en-US": "Letter 257",
+            "pt-BR": "Carta 257"
+          }
+        },
+        {
+          "id": "v04-ch051",
+          "title": {
+            "la": "Epistola 258",
+            "en-US": "Letter 258",
+            "pt-BR": "Carta 258"
+          }
+        },
+        {
+          "id": "v04-ch052",
+          "title": {
+            "la": "Epistola 259",
+            "en-US": "Letter 259",
+            "pt-BR": "Carta 259"
+          }
+        },
+        {
+          "id": "v04-ch053",
+          "title": {
+            "la": "Epistola 260",
+            "en-US": "Letter 260",
+            "pt-BR": "Carta 260"
+          }
+        },
+        {
+          "id": "v04-ch054",
+          "title": {
+            "la": "Epistola 261",
+            "en-US": "Letter 261",
+            "pt-BR": "Carta 261"
+          }
+        },
+        {
+          "id": "v04-ch055",
+          "title": {
+            "la": "Epistola 262",
+            "en-US": "Letter 262",
+            "pt-BR": "Carta 262"
+          }
+        },
+        {
+          "id": "v04-ch056",
+          "title": {
+            "la": "Epistola 263",
+            "en-US": "Letter 263",
+            "pt-BR": "Carta 263"
+          }
+        },
+        {
+          "id": "v04-ch057",
+          "title": {
+            "la": "Epistola 264",
+            "en-US": "Letter 264",
+            "pt-BR": "Carta 264"
+          }
+        },
+        {
+          "id": "v04-ch058",
+          "title": {
+            "la": "Epistola 265",
+            "en-US": "Letter 265",
+            "pt-BR": "Carta 265"
+          }
+        },
+        {
+          "id": "v04-ch059",
+          "title": {
+            "la": "Epistola 266",
+            "en-US": "Letter 266",
+            "pt-BR": "Carta 266"
+          }
+        },
+        {
+          "id": "v04-ch060",
+          "title": {
+            "la": "Epistola 267",
+            "en-US": "Letter 267",
+            "pt-BR": "Carta 267"
+          }
+        },
+        {
+          "id": "v04-ch061",
+          "title": {
+            "la": "Epistola 268",
+            "en-US": "Letter 268",
+            "pt-BR": "Carta 268"
+          }
+        },
+        {
+          "id": "v04-ch062",
+          "title": {
+            "la": "Epistola 269",
+            "en-US": "Letter 269",
+            "pt-BR": "Carta 269"
+          }
+        },
+        {
+          "id": "v04-ch063",
+          "title": {
+            "la": "Epistola 270",
+            "en-US": "Letter 270",
+            "pt-BR": "Carta 270"
+          }
+        },
+        {
+          "id": "v04-ch064",
+          "title": {
+            "la": "Epistola 1*",
+            "en-US": "Letter 1*",
+            "pt-BR": "Carta 1*"
+          }
+        },
+        {
+          "id": "v04-ch065",
+          "title": {
+            "la": "Epistola 1/A*",
+            "en-US": "Letter 1A*",
+            "pt-BR": "Carta 1/A*"
+          }
+        },
+        {
+          "id": "v04-ch066",
+          "title": {
+            "la": "Epistola 2*",
+            "en-US": "Letter 2*",
+            "pt-BR": "Carta 2*"
+          }
+        },
+        {
+          "id": "v04-ch067",
+          "title": {
+            "la": "Epistola 3*",
+            "en-US": "Letter 3*",
+            "pt-BR": "Carta 3*"
+          }
+        },
+        {
+          "id": "v04-ch068",
+          "title": {
+            "la": "Epistola 4*",
+            "en-US": "Letter 4*",
+            "pt-BR": "Carta 4*"
+          }
+        },
+        {
+          "id": "v04-ch069",
+          "title": {
+            "la": "Epistola 5*",
+            "en-US": "Letter 5*",
+            "pt-BR": "Carta 5*"
+          }
+        },
+        {
+          "id": "v04-ch070",
+          "title": {
+            "la": "Epistola 6*",
+            "en-US": "Letter 6*",
+            "pt-BR": "Carta 6*"
+          }
+        },
+        {
+          "id": "v04-ch071",
+          "title": {
+            "la": "Epistola 7*",
+            "en-US": "Letter 7*",
+            "pt-BR": "Carta 7*"
+          }
+        },
+        {
+          "id": "v04-ch072",
+          "title": {
+            "la": "Epistola 8*",
+            "en-US": "Letter 8*",
+            "pt-BR": "Carta 8*"
+          }
+        },
+        {
+          "id": "v04-ch073",
+          "title": {
+            "la": "Epistola 9*",
+            "en-US": "Letter 9*",
+            "pt-BR": "Carta 9*"
+          }
+        },
+        {
+          "id": "v04-ch074",
+          "title": {
+            "la": "Epistola 10*",
+            "en-US": "Letter 10*",
+            "pt-BR": "Carta 10*"
+          }
+        },
+        {
+          "id": "v04-ch075",
+          "title": {
+            "la": "Epistola 11*",
+            "en-US": "Letter 11*",
+            "pt-BR": "Carta 11*"
+          }
+        },
+        {
+          "id": "v04-ch076",
+          "title": {
+            "la": "Epistola 12*",
+            "en-US": "Letter 12*",
+            "pt-BR": "Carta 12*"
+          }
+        },
+        {
+          "id": "v04-ch077",
+          "title": {
+            "la": "Epistola 13*",
+            "en-US": "Letter 13*",
+            "pt-BR": "Carta 13*"
+          }
+        },
+        {
+          "id": "v04-ch078",
+          "title": {
+            "la": "Epistola 14*",
+            "en-US": "Letter 14*",
+            "pt-BR": "Carta 14*"
+          }
+        },
+        {
+          "id": "v04-ch079",
+          "title": {
+            "la": "Epistola 15*",
+            "en-US": "Letter 15*",
+            "pt-BR": "Carta 15*"
+          }
+        },
+        {
+          "id": "v04-ch080",
+          "title": {
+            "la": "Epistola 16*",
+            "en-US": "Letter 16*",
+            "pt-BR": "Carta 16*"
+          }
+        },
+        {
+          "id": "v04-ch081",
+          "title": {
+            "la": "Epistola 17*",
+            "en-US": "Letter 17*",
+            "pt-BR": "Carta 17*"
+          }
+        },
+        {
+          "id": "v04-ch082",
+          "title": {
+            "la": "Epistola 18*",
+            "en-US": "Letter 18*",
+            "pt-BR": "Carta 18*"
+          }
+        },
+        {
+          "id": "v04-ch083",
+          "title": {
+            "la": "Epistola 19*",
+            "en-US": "Letter 19*",
+            "pt-BR": "Carta 19*"
+          }
+        },
+        {
+          "id": "v04-ch084",
+          "title": {
+            "la": "Epistola 20*",
+            "en-US": "Letter 20*",
+            "pt-BR": "Carta 20*"
+          }
+        },
+        {
+          "id": "v04-ch085",
+          "title": {
+            "la": "Epistola 21*",
+            "en-US": "Letter 21*",
+            "pt-BR": "Carta 21*"
+          }
+        },
+        {
+          "id": "v04-ch086",
+          "title": {
+            "la": "Epistola 22*",
+            "en-US": "Letter 22*",
+            "pt-BR": "Carta 22*"
+          }
+        },
+        {
+          "id": "v04-ch087",
+          "title": {
+            "la": "Epistola 23*",
+            "en-US": "Letter 23*",
+            "pt-BR": "Carta 23*"
+          }
+        },
+        {
+          "id": "v04-ch088",
+          "title": {
+            "la": "Epistola 23/A*",
+            "en-US": "Letter 23/A*",
+            "pt-BR": "Carta 23/A*"
+          }
+        },
+        {
+          "id": "v04-ch089",
+          "title": {
+            "la": "Epistola 24*",
+            "en-US": "Letter 24*",
+            "pt-BR": "Carta 24*"
+          }
+        },
+        {
+          "id": "v04-ch090",
+          "title": {
+            "la": "Epistola 25*",
+            "en-US": "Letter 25*",
+            "pt-BR": "Carta 25*"
+          }
+        },
+        {
+          "id": "v04-ch091",
+          "title": {
+            "la": "Epistola 26*",
+            "en-US": "Letter 26*",
+            "pt-BR": "Carta 26*"
+          }
+        },
+        {
+          "id": "v04-ch092",
+          "title": {
+            "la": "Epistola 27*",
+            "en-US": "Letter 27*",
+            "pt-BR": "Carta 27*"
+          }
+        },
+        {
+          "id": "v04-ch093",
+          "title": {
+            "la": "Epistola 28*",
+            "en-US": "Letter 28*",
+            "pt-BR": "Carta 28*"
+          }
+        },
+        {
+          "id": "v04-ch094",
+          "title": {
+            "la": "Epistola 29*",
+            "en-US": "Letter 29*",
+            "pt-BR": "Carta 29*"
+          }
+        }
+      ]
+    }
+  ]
+}

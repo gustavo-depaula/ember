@@ -1,0 +1,51 @@
+{
+  "id": "augustine-sermo-ad-caesariensis",
+  "cover": "label",
+  "name": {
+    "la": "Sermo ad Caesariensis Ecclesiae plebem",
+    "en-US": "Sermon to the People of the Church of Caesarea",
+    "pt-BR": "Sermão ao povo da Igreja de Cesareia"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Sermon preached to the people of the Church of Caesarea in the presence of the Donatist bishop Emeritus, taking his words \"I cannot refuse to will what you will, but I can will what I will\" as a call to unity.",
+    "pt-BR": "Sermão pregado ao povo da Igreja de Cesareia na presença do bispo donatista Emérito, partindo de sua frase \"Não posso deixar de querer o que quereis, mas posso querer o que quero\" como apelo à unidade.",
+    "la": "Sermo ad plebem Ecclesiae Caesariensis habitus praesente Emerito, Donatistarum episcopo, ex eius verbis \"Nolle non possum quod vultis, sed possum velle quod volo\" ad unitatem hortans."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Caesar",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Caesar",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Caesar",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Sermo ad Caesariensis Ecclesiae plebem",
+        "en-US": "Sermon to the People of the Church of Caesarea",
+        "pt-BR": "Sermão ao povo da Igreja de Cesareia"
+      }
+    }
+  ]
+}

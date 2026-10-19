@@ -1,0 +1,147 @@
+{
+  "id": "augustine-de-genesi-ad-litteram",
+  "cover": "label",
+  "name": {
+    "la": "De Genesi ad litteram",
+    "en-US": "The Literal Meaning of Genesis",
+    "pt-BR": "O sentido literal do Gênesis"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Twelve books on Genesis from creation to the expulsion from paradise, read not allegorically but according to what actually happened. Augustine admits that more is asked than found; the twelfth book treats paradise and visions.",
+    "pt-BR": "Doze livros sobre o Gênesis, da criação à expulsão do paraíso, lidos não alegoricamente, mas segundo o que de fato aconteceu. O próprio Agostinho admite que ali se pergunta mais do que se encontra; o livro XII trata do paraíso e das visões.",
+    "la": "Duodecim libri in Genesim, ab initio usque ad Adam e paradiso dimissum, non secundum allegoricas significationes sed secundum rerum gestarum proprietatem. Plura quaesita quam inventa fatetur; duodecimus de paradiso diligentius disserit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~GenLit",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~GenLit",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~GenLit",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book IV",
+        "pt-BR": "Livro IV"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book V",
+        "pt-BR": "Livro V"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book VI",
+        "pt-BR": "Livro VI"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VII",
+        "en-US": "Book VII",
+        "pt-BR": "Livro VII"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber VIII",
+        "en-US": "Book VIII",
+        "pt-BR": "Livro VIII"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber IX",
+        "en-US": "Book IX",
+        "pt-BR": "Livro IX"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Liber X",
+        "en-US": "Book X",
+        "pt-BR": "Livro X"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber XI: Hominis tentatio ac lapsus secundum Gen 2, 25 - 3, 24.",
+        "en-US": "Book XI: The temptation and fall of man according to Genesis 2:25–3:24.",
+        "pt-BR": "Livro XI: A tentação e a queda do homem, segundo o Gênesis 2,25–3,24."
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Liber XII",
+        "en-US": "Book XII",
+        "pt-BR": "Livro XII"
+      }
+    }
+  ]
+}

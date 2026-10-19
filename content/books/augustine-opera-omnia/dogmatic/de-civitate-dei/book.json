@@ -1,0 +1,235 @@
+{
+  "id": "augustine-de-civitate-dei",
+  "cover": "label",
+  "name": {
+    "la": "De civitate Dei",
+    "en-US": "The City of God",
+    "pt-BR": "A Cidade de Deus"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Twenty-two books begun after Alaric's Goths sacked Rome, against pagans who blamed the disaster on Christianity. Ten refute the worship of the gods; twelve trace the rise, course and ends of the two cities, God's and this world's.",
+    "pt-BR": "Vinte e dois livros começados depois do saque de Roma pelos godos de Alarico, contra os pagãos que culpavam o cristianismo. Dez refutam o culto dos deuses; doze narram origem, curso e fim das duas cidades, a de Deus e a deste mundo.",
+    "la": "Viginti duo libri post Romam a Gothis Alarici eversam inchoati, contra paganos cladem religioni Christianae imputantes. Decem deorum cultum refellunt; duodecim duarum civitatum, Dei et huius saeculi, exortum, procursum et fines exponunt."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deCiv",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deCiv",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deCiv",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Epistola 212/a",
+        "en-US": "Letter 212/a",
+        "pt-BR": "Carta 212/a"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions, Book II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber I: An temporum calamitates Dei providentia regantur",
+        "en-US": "Book I: Whether the calamities of the times are governed by the providence of God",
+        "pt-BR": "Livro I: Se as calamidades dos tempos são governadas pela providência de Deus"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber II: Plurimum deorum cultus mores pravos efficit",
+        "en-US": "Book II: How greatly the worship of the gods produces depraved morals",
+        "pt-BR": "Livro II: Quão grandemente o culto dos deuses produz costumes depravados"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber III: Romanorum res gestae iudicio percurruntur",
+        "en-US": "Book III: The deeds of the Romans are surveyed with judgment",
+        "pt-BR": "Livro III: Os feitos dos romanos são percorridos com juízo"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber IV: Nihil multi dii potuerunt ad augendum imperium",
+        "en-US": "Book IV: The many gods availed nothing toward enlarging the empire.",
+        "pt-BR": "Livro IV: Nada puderam os muitos deuses para engrandecer o império"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber V: Utrum rerum gestarum ratio sit an non",
+        "en-US": "Book V: Whether there is a rational account of events or not.",
+        "pt-BR": "Livro V: Se há ou não uma razão dos acontecimentos"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VI: Indigne se gerunt cultores deorum",
+        "en-US": "Book VI: The worshippers of the gods conduct themselves unworthily.",
+        "pt-BR": "Livro VI: Os cultores dos deuses conduzem-se indignamente."
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber VII: Physicorum ratione de diis selectis nihil quod ad veram felicitatem pertineat continetur",
+        "en-US": "Book VII: The natural philosophers' account of the select gods contains nothing that pertains to true happiness",
+        "pt-BR": "Livro VII: A razão dos filósofos naturais acerca dos deuses seletos nada contém que pertença à verdadeira felicidade"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber VIII: Cum platonicis conferenda Christi religio",
+        "en-US": "Book VIII: The Religion of Christ to Be Compared with the Platonists",
+        "pt-BR": "Livro VIII: A religião de Cristo deve ser comparada com os platônicos"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Liber IX: Quae quaesita iam sint de diis bonis et daemonibus",
+        "en-US": "Book IX: What Has Already Been Inquired Concerning the Good Gods and the Demons",
+        "pt-BR": "Livro IX: O que já se investigou acerca dos deuses bons e dos demônios"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber X: Angelis placet ut uni Deo sacrificemus",
+        "en-US": "Book X: The angels are pleased that we sacrifice to the one God.",
+        "pt-BR": "Livro X: Agrada aos anjos que sacrifiquemos a um só Deus"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Liber XI: Quae sit in secunda libri parte disputatio",
+        "en-US": "Book XI: What the discussion is in the second part of the work",
+        "pt-BR": "Livro XI: Qual é a discussão na segunda parte da obra"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Liber XII: Deus bonos angelos et semel in tempore hominem creavit",
+        "en-US": "Book XII: God created the good angels, and man once in time",
+        "pt-BR": "Livro XII: Deus criou os bons anjos, e o homem uma só vez no tempo"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Liber XIII: Ex peccato mors orta est",
+        "en-US": "Book XIII: From sin death arose",
+        "pt-BR": "Livro XIII: Do pecado surgiu a morte"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Liber XIV: Ex rebus gestis duae civitates evidentur",
+        "en-US": "Book XIV: The two cities shown forth from the things that were done",
+        "pt-BR": "Livro XIV: A partir dos fatos ocorridos manifestam-se as duas cidades"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "[Progressio civitatum duarum]",
+        "en-US": "[The progress of the two cities]",
+        "pt-BR": "[O progresso das duas cidades]"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Liber XVI: Sem et Iafet benedicuntur",
+        "en-US": "Book XVI: Shem and Japheth Are Blessed",
+        "pt-BR": "Livro XVI: Sem e Jafé são abençoados"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Liber XVII: De Prophetis a Samuele ad Hieremiam agitur",
+        "en-US": "Book XVII: The Prophets from Samuel to Jeremiah Are Treated",
+        "pt-BR": "Livro XVII: Trata-se dos Profetas, de Samuel a Jeremias"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Liber XVIII: Quae iam digesta sint",
+        "en-US": "Book XVIII: What Has Already Been Set Forth",
+        "pt-BR": "Livro XVIII: O que já foi exposto"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Liber XIX: Quid sit finis bonorum et malorum",
+        "en-US": "Book XIX: What the end of goods and evils is",
+        "pt-BR": "Livro XIX: Qual é o fim dos bens e dos males"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Liber XX: Quae dicant sacri Libri de iudicio novissimo",
+        "en-US": "Book XX: What the Sacred Books Say of the Last Judgment",
+        "pt-BR": "Livro XX: O que dizem os Livros sagrados a respeito do juízo final"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Liber XXI: Prius de supplicio disputandum est",
+        "en-US": "Book XXI: The Punishment Must Be Discussed First",
+        "pt-BR": "Livro XXI: Primeiro deve tratar-se do suplício"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Liber XXII: Quid liber agat de aeternitate",
+        "en-US": "Book XXII: What the book treats concerning eternity",
+        "pt-BR": "Livro XXII: Que trata o livro acerca da eternidade"
+      }
+    }
+  ]
+}

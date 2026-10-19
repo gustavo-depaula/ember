@@ -1,0 +1,107 @@
+{
+  "id": "augustine-locutiones-in-heptateuchum",
+  "cover": "label",
+  "name": {
+    "la": "Locutiones in Heptateuchum",
+    "en-US": "Expressions in the Heptateuch",
+    "pt-BR": "Locuções do Heptateuco"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Seven books noting unusual Latin and biblical idioms in Genesis through Judges. Augustine's aim is that readers recognize a manner of speech for what it is, instead of hunting for a hidden meaning where there is none.",
+    "pt-BR": "Sete livros que registram expressões latinas e bíblicas incomuns do Gênesis aos Juízes. Agostinho quer que o leitor reconheça um modo de falar como tal, em vez de procurar um sentido oculto onde não há.",
+    "la": "Septem libri locutiones minus usitatas linguae nostrae in libris a Genesi usque ad Iudices notantes, ne lectores sensum quaerant ubi genus locutionis est, sed cognitis locutionibus etiam obscura aperiantur."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~ExpHept",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~ExpHept",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~ExpHept",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I: Locutiones de Genesi",
+        "en-US": "Book I: Expressions on Genesis",
+        "pt-BR": "Livro I: Locuções sobre o Gênesis"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II: Locutiones de Exodo",
+        "en-US": "Book II: Expressions on Exodus",
+        "pt-BR": "Livro II: Locuções sobre o Êxodo"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III: Locutiones de Levitico",
+        "en-US": "Book III: Expressions on Leviticus",
+        "pt-BR": "Livro III: Locuções sobre o Levítico"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV: Locutiones de Numeris",
+        "en-US": "Book IV: Expressions on Numbers",
+        "pt-BR": "Livro IV: Locuções sobre os Números"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber V: Locutiones de Deuteronomio",
+        "en-US": "Book V: Expressions in Deuteronomy",
+        "pt-BR": "Livro V: Locuções sobre o Deuteronômio"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber VI: Locutiones de Iesu Nave",
+        "en-US": "Book VI: Expressions in Joshua",
+        "pt-BR": "Livro VI: Locuções sobre Josué"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VII: Locutiones de Iudicibus",
+        "en-US": "Book VII: Expressions in Judges",
+        "pt-BR": "Livro VII: Locuções sobre os Juízes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "id": "augustine-contra-faustum",
+  "cover": "label",
+  "name": {
+    "la": "Contra Faustum Manichaeum",
+    "en-US": "Answer to Faustus, a Manichean",
+    "pt-BR": "Contra Fausto, o maniqueu"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's largest anti-Manichean work: thirty-three books answering Faustus of Milevis, whom he had known, who attacked the Law, the Prophets and the Incarnation and claimed the New Testament was corrupted. Faustus's words are quoted one by one with Augustine's replies.",
+    "pt-BR": "A maior obra antimaniqueia de Agostinho: trinta e três livros contra Fausto de Milevi, a quem conhecera, que atacava a Lei, os Profetas e a Encarnação e dizia adulterado o Novo Testamento. As palavras de Fausto são citadas uma a uma, com as respostas de Agostinho.",
+    "la": "Maximum Augustini contra Manichaeos opus: triginta tres libri contra Faustum Milevitanum, sibi olim notum, qui Legem et Prophetas et Christi incarnationem blasphemabat et Scripturas Novi Testamenti falsatas esse dicebat. Verba eius singillatim cum responsionibus ponuntur."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Faustus",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Faustus",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Faustus",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book 1",
+        "pt-BR": "Livro 1"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book 2",
+        "pt-BR": "Livro 2"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book 3",
+        "pt-BR": "Livro 3"
+      }
+    },
+    {
+      "id": "ch005",
+      "title": {
+        "la": "Liber IV",
+        "en-US": "Book 4",
+        "pt-BR": "Livro 4"
+      }
+    },
+    {
+      "id": "ch006",
+      "title": {
+        "la": "Liber V",
+        "en-US": "Book 5",
+        "pt-BR": "Livro 5"
+      }
+    },
+    {
+      "id": "ch007",
+      "title": {
+        "la": "Liber VI",
+        "en-US": "Book 6",
+        "pt-BR": "Livro 6"
+      }
+    },
+    {
+      "id": "ch008",
+      "title": {
+        "la": "Liber VII",
+        "en-US": "Book 7",
+        "pt-BR": "Livro 7"
+      }
+    },
+    {
+      "id": "ch009",
+      "title": {
+        "la": "Liber VIII",
+        "en-US": "Book 8",
+        "pt-BR": "Livro 8"
+      }
+    },
+    {
+      "id": "ch010",
+      "title": {
+        "la": "Liber IX",
+        "en-US": "Book 9",
+        "pt-BR": "Livro 9"
+      }
+    },
+    {
+      "id": "ch011",
+      "title": {
+        "la": "Liber X",
+        "en-US": "Book 10",
+        "pt-BR": "Livro 10"
+      }
+    },
+    {
+      "id": "ch012",
+      "title": {
+        "la": "Liber XI",
+        "en-US": "Book 11",
+        "pt-BR": "Livro 11"
+      }
+    },
+    {
+      "id": "ch013",
+      "title": {
+        "la": "Liber XII",
+        "en-US": "Book 12",
+        "pt-BR": "Livro 12"
+      }
+    },
+    {
+      "id": "ch014",
+      "title": {
+        "la": "Liber XIII",
+        "en-US": "Book 13",
+        "pt-BR": "Livro 13"
+      }
+    },
+    {
+      "id": "ch015",
+      "title": {
+        "la": "Liber XIV",
+        "en-US": "Book 14",
+        "pt-BR": "Livro 14"
+      }
+    },
+    {
+      "id": "ch016",
+      "title": {
+        "la": "Liber XV",
+        "en-US": "Book 15",
+        "pt-BR": "Livro 15"
+      }
+    },
+    {
+      "id": "ch017",
+      "title": {
+        "la": "Liber XVI",
+        "en-US": "Book 16",
+        "pt-BR": "Livro 16"
+      }
+    },
+    {
+      "id": "ch018",
+      "title": {
+        "la": "Liber XVII",
+        "en-US": "Book XVII",
+        "pt-BR": "Livro XVII"
+      }
+    },
+    {
+      "id": "ch019",
+      "title": {
+        "la": "Liber XVIII",
+        "en-US": "Book XVIII",
+        "pt-BR": "Livro XVIII"
+      }
+    },
+    {
+      "id": "ch020",
+      "title": {
+        "la": "Liber XIX",
+        "en-US": "Book XIX",
+        "pt-BR": "Livro XIX"
+      }
+    },
+    {
+      "id": "ch021",
+      "title": {
+        "la": "Liber XX",
+        "en-US": "Book XX",
+        "pt-BR": "Livro XX"
+      }
+    },
+    {
+      "id": "ch022",
+      "title": {
+        "la": "Liber XXI",
+        "en-US": "Book XXI",
+        "pt-BR": "Livro XXI"
+      }
+    },
+    {
+      "id": "ch023",
+      "title": {
+        "la": "Liber XXII",
+        "en-US": "Book XXII",
+        "pt-BR": "Livro XXII"
+      }
+    },
+    {
+      "id": "ch024",
+      "title": {
+        "la": "Liber XXIII",
+        "en-US": "Book XXIII",
+        "pt-BR": "Livro XXIII"
+      }
+    },
+    {
+      "id": "ch025",
+      "title": {
+        "la": "Liber XXIV",
+        "en-US": "Book XXIV",
+        "pt-BR": "Livro XXIV"
+      }
+    },
+    {
+      "id": "ch026",
+      "title": {
+        "la": "Liber XXV",
+        "en-US": "Book XXV",
+        "pt-BR": "Livro XXV"
+      }
+    },
+    {
+      "id": "ch027",
+      "title": {
+        "la": "Liber XXVI",
+        "en-US": "Book XXVI",
+        "pt-BR": "Livro XXVI"
+      }
+    },
+    {
+      "id": "ch028",
+      "title": {
+        "la": "Liber XXVII",
+        "en-US": "Book XXVII",
+        "pt-BR": "Livro XXVII"
+      }
+    },
+    {
+      "id": "ch029",
+      "title": {
+        "la": "Liber XXVIII",
+        "en-US": "Book XXVIII",
+        "pt-BR": "Livro XXVIII"
+      }
+    },
+    {
+      "id": "ch030",
+      "title": {
+        "la": "Liber XXIX",
+        "en-US": "Book XXIX",
+        "pt-BR": "Livro XXIX"
+      }
+    },
+    {
+      "id": "ch031",
+      "title": {
+        "la": "Liber XXX",
+        "en-US": "Book XXX",
+        "pt-BR": "Livro XXX"
+      }
+    },
+    {
+      "id": "ch032",
+      "title": {
+        "la": "Liber XXXI",
+        "en-US": "Book XXXI",
+        "pt-BR": "Livro XXXI"
+      }
+    },
+    {
+      "id": "ch033",
+      "title": {
+        "la": "Liber XXXII",
+        "en-US": "Book XXXII",
+        "pt-BR": "Livro XXXII"
+      }
+    },
+    {
+      "id": "ch034",
+      "title": {
+        "la": "Liber XXXIII",
+        "en-US": "Book XXXIII",
+        "pt-BR": "Livro XXXIII"
+      }
+    }
+  ]
+}

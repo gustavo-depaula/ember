@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-octo-quaestionibus-vt",
+  "cover": "label",
+  "name": {
+    "la": "De octo quaestionibus ex Veteri Testamento",
+    "en-US": "Eight Questions from the Old Testament",
+    "pt-BR": "As oito questões do Antigo Testamento"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Short notes on Old Testament sayings from Proverbs, Ecclesiasticus and Deuteronomy, including the levirate law and the command not to boil a kid in its mother's milk, preceded by brief reflections on sin, the Word and the will.",
+    "pt-BR": "Breves notas sobre sentenças do Antigo Testamento, tiradas de Provérbios, do Eclesiástico e do Deuteronômio, entre elas a lei do levirato e a proibição de cozer o cabrito no leite da mãe, precedidas de curtas reflexões sobre o pecado, o Verbo e a vontade.",
+    "la": "Breves adnotationes in sententias Veteris Testamenti ex Proverbiis, Ecclesiastico et Deuteronomio, inter quas lex de fratris uxore et praeceptum ne agnus in lacte matris coquatur, praemissis brevibus de peccato, de Verbo et de voluntate considerationibus."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~8QsOT",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~8QsOT",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~8QsOT",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De octo quaestionibus ex Veteri Testamento",
+        "en-US": "Eight Questions from the Old Testament",
+        "pt-BR": "As oito questões do Antigo Testamento"
+      }
+    }
+  ]
+}

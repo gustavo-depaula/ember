@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-unico-baptismo",
+  "cover": "label",
+  "name": {
+    "la": "De unico baptismo contra Petilianum",
+    "en-US": "The One Baptism, in Answer to Petilian",
+    "pt-BR": "O único batismo, contra Petiliano"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Written for a certain Constantine, who passed Augustine a Donatist presbyter's tract *On the One Baptism*. Augustine refutes the tract and defends the unrepeatable baptism against those who rebaptize.",
+    "pt-BR": "Escrito para um certo Constantino, que entregara a Agostinho o tratado *Sobre o único batismo* de um presbítero donatista. Agostinho o refuta e defende o batismo irrepetível contra os que rebatizam.",
+    "la": "Scriptum ad Constantinum quendam, qui Augustino libellum *De unico baptismo* a presbytero Donatista compositum tradiderat. Augustinus libellum refellit et baptismum non iterandum contra rebaptizatores defendit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~UnicoBap",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~UnicoBap",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~UnicoBap",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De unico baptismo contra Petilianum",
+        "en-US": "The One Baptism, in Answer to Petilian",
+        "pt-BR": "O único batismo, contra Petiliano"
+      }
+    }
+  ]
+}

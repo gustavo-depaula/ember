@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-mendacio",
+  "cover": "label",
+  "name": {
+    "la": "De mendacio",
+    "en-US": "Lying",
+    "pt-BR": "A mentira"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "An inquiry into what a lie is and whether one may ever lie, even with a dutiful or merciful intent. Augustine distinguishes eight kinds of lie and concludes that the truthful must avoid them all.",
+    "pt-BR": "Investigação sobre o que é a mentira e se alguma vez é lícito mentir, ainda que por dever ou compaixão. Agostinho distingue oito espécies de mentira e conclui que quem é veraz deve evitar todas.",
+    "la": "Quaerit quid sit mendacium et utrum umquam, vel officioso vel misericordi mendacio, mentiri liceat; octo mendaciorum genera distinguit, quae omnia veracibus vitanda esse concludit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~DeMen",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~DeMen",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~DeMen",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De mendacio",
+        "en-US": "Lying",
+        "pt-BR": "A mentira"
+      }
+    }
+  ]
+}

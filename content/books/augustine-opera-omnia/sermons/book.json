@@ -1,0 +1,5355 @@
+{
+  "id": "augustine-sermones",
+  "cover": "label",
+  "name": {
+    "la": "Sermones",
+    "en-US": "Sermons",
+    "pt-BR": "Sermões"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine’s sermons to the people, numbered 1–400 and grouped by Scripture, liturgical seasons and feasts of the martyrs, followed by sermons recovered in modern times (Dolbeau, Erfurt and others) and supplementary pieces — some 650 in all.",
+    "pt-BR": "Os sermões de Agostinho ao povo, numerados de 1 a 400 e agrupados por textos bíblicos, tempos litúrgicos e festas dos mártires, seguidos dos sermões redescobertos em tempos recentes (Dolbeau, Erfurt e outros) e de peças suplementares — cerca de 650 ao todo.",
+    "la": "Sermones Augustini ad populum, numeris 1–400 distincti et secundum Scripturas, tempora liturgica et natalicia martyrum digesti, quibus sermones nuper reperti (Dolbeau, Erfurt aliique) et supplementarii adduntur — circiter sescenti quinquaginta."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Sermons1",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Sermons1",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Sermons1",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "v01",
+      "title": {
+        "la": "Sermones 1–19",
+        "en-US": "Sermons 1–19",
+        "pt-BR": "Sermões 1–19"
+      },
+      "children": [
+        {
+          "id": "v01-ch001",
+          "title": {
+            "la": "Sermo 1: Tractatus contra Manichaeos",
+            "en-US": "Sermon 1: A Treatise Against the Manichees",
+            "pt-BR": "Sermão 1: Tratado Contra os Maniqueus"
+          }
+        },
+        {
+          "id": "v01-ch002",
+          "title": {
+            "la": "Sermo 2: De Abraham Ubi Temptatur a Deo",
+            "en-US": "Sermon 2: On Abraham, Where He Is Tested by God",
+            "pt-BR": "Sermão 2: Sobre Abraão, Quando É Posto à Prova por Deus"
+          }
+        },
+        {
+          "id": "v01-ch003",
+          "title": {
+            "la": "Sermo 3: De Agar et Ismaele",
+            "en-US": "Sermon 3: On Hagar and Ishmael",
+            "pt-BR": "Sermão 3: Sobre Agar e Ismael"
+          }
+        },
+        {
+          "id": "v01-ch004",
+          "title": {
+            "la": "Sermo 4: De Esau et Iacob",
+            "en-US": "Sermon 4: On Esau and Jacob",
+            "pt-BR": "Sermão 4: Sobre Esaú e Jacó"
+          }
+        },
+        {
+          "id": "v01-ch005",
+          "title": {
+            "la": "Sermo 4/A: Ex Sermone de Tribus Virgis",
+            "en-US": "Sermon 4/A: From a Sermon on the Three Rods",
+            "pt-BR": "Sermão 4/A: De Um Sermão sobre as Três Varas"
+          }
+        },
+        {
+          "id": "v01-ch006",
+          "title": {
+            "la": "Sermo 5: De Luctatione Iacob cum Angelo",
+            "en-US": "Sermon 5: On the Wrestling of Jacob with the Angel",
+            "pt-BR": "Sermão 5: Sobre a Luta de Jacó com o Anjo"
+          }
+        },
+        {
+          "id": "v01-ch007",
+          "title": {
+            "la": "Sermo 6: De Eo quod Apparuit Dominus Moysi",
+            "en-US": "Sermon 6: On the Fact That the Lord Appeared to Moses",
+            "pt-BR": "Sermão 6: Sobre o Fato de Que o Senhor Apareceu a Moisés"
+          }
+        },
+        {
+          "id": "v01-ch008",
+          "title": {
+            "la": "Sermo 7: De Rubo in Quo Flamma Erat",
+            "en-US": "Sermon 7: On the Bush in Which There Was a Flame",
+            "pt-BR": "Sermão 7: Sobre a Sarça em Que Havia Uma Chama"
+          }
+        },
+        {
+          "id": "v01-ch009",
+          "title": {
+            "la": "Sermo 8: Sermo de Decem Plagis Aegyptiorum",
+            "en-US": "Sermon 8: A Sermon on the Ten Plagues of the Egyptians",
+            "pt-BR": "Sermão 8: Sermão sobre as Dez Pragas dos Egípcios"
+          }
+        },
+        {
+          "id": "v01-ch010",
+          "title": {
+            "la": "Sermo 9: Tractatus Sancti Augustini de Decem Chordis",
+            "en-US": "Sermon 9: A Treatise of Saint Augustine on the Ten Strings",
+            "pt-BR": "Sermão 9: Tratado de Santo Agostinho sobre as Dez Cordas"
+          }
+        },
+        {
+          "id": "v01-ch011",
+          "title": {
+            "la": "Sermo 10: Tractatus Aurelii Augustini Episcopi",
+            "en-US": "Sermon 10: A Treatise of Aurelius Augustine the Bishop",
+            "pt-BR": "Sermão 10: Tratado de Aurélio Agostinho, o Bispo"
+          }
+        },
+        {
+          "id": "v01-ch012",
+          "title": {
+            "la": "Sermo 11: Tractatus Sancti Augustini",
+            "en-US": "Sermon 11: A Treatise of Saint Augustine",
+            "pt-BR": "Sermão 11: Tratado de Santo Agostinho"
+          }
+        },
+        {
+          "id": "v01-ch013",
+          "title": {
+            "la": "Sermo 12: Tractatus contra Manichaeos",
+            "en-US": "Sermon 12: A Treatise Against the Manichees",
+            "pt-BR": "Sermão 12: Tratado contra os Maniqueus"
+          }
+        },
+        {
+          "id": "v01-ch014",
+          "title": {
+            "la": "Sermo 13: Sermo Habitus ad Mensam Sancti Cypriani",
+            "en-US": "Sermon 13: A Sermon Delivered at the Table of Saint Cyprian",
+            "pt-BR": "Sermão 13: Sermão Proferido à Mesa de São Cipriano"
+          }
+        },
+        {
+          "id": "v01-ch015",
+          "title": {
+            "la": "Sermo 14: Sermo Habitus Carthagine",
+            "en-US": "Sermon 14: A Sermon Delivered at Carthage",
+            "pt-BR": "Sermão 14: Sermão Proferido em Cartago"
+          }
+        },
+        {
+          "id": "v01-ch016",
+          "title": {
+            "la": "Sermo 14/A: <Sermo de versu psalmi:",
+            "en-US": "Sermon 14/A: <A Sermon on the Verse of the Psalm:",
+            "pt-BR": "Sermão 14/A: <Sermão sobre o verso do salmo:"
+          }
+        },
+        {
+          "id": "v01-ch017",
+          "title": {
+            "la": "Sermo 15: Sermo Habitus in Regione Tertia",
+            "en-US": "Sermon 15: A Sermon Delivered in the Third District",
+            "pt-BR": "Sermão 15: Sermão Proferido na Terceira Região"
+          }
+        },
+        {
+          "id": "v01-ch018",
+          "title": {
+            "la": "Sermo 15/A: Sermo Habitus Hipponi Diarrhyto in Basilica Margarita",
+            "en-US": "Sermon 15/A: A Sermon Delivered at Hippo Diarrhytus in the Basilica of Margarita",
+            "pt-BR": "Sermão 15/A: Sermão Proferido em Hipona Diarrito, na Basílica de Margarida"
+          }
+        },
+        {
+          "id": "v01-ch019",
+          "title": {
+            "la": "Sermo 16: Tractatus Sancti Augustini Episcopi",
+            "en-US": "Sermon 16: A Treatise of Saint Augustine the Bishop",
+            "pt-BR": "Sermão 16: Tratado de Santo Agostinho, o Bispo"
+          }
+        },
+        {
+          "id": "v01-ch020",
+          "title": {
+            "la": "Sermo 16/A: Sermo Habitus in Basilica Maiorum",
+            "en-US": "Sermon 16/A: A Sermon Delivered in the Basilica of the Elders",
+            "pt-BR": "Sermão 16/A: Sermão Proferido na Basílica dos Maiores"
+          }
+        },
+        {
+          "id": "v01-ch021",
+          "title": {
+            "la": "Sermo 16/B: Sermo de Responsorio Psalmi XL",
+            "en-US": "Sermon 16/B: A Sermon on the Response of Psalm 40",
+            "pt-BR": "Sermão 16/B: Sermão sobre o Responsório do Salmo 40"
+          }
+        },
+        {
+          "id": "v01-ch022",
+          "title": {
+            "la": "Sermo 17: Sermo de Psalmo XLIX",
+            "en-US": "Sermon 17: A Sermon on Psalm 49",
+            "pt-BR": "Sermão 17: Sermão sobre o Salmo 49"
+          }
+        },
+        {
+          "id": "v01-ch023",
+          "title": {
+            "la": "Sermo 18: Sancti Augustini de Versu Psalmi XLIX:",
+            "en-US": "Sermon 18: Of Saint Augustine, on the Verse of Psalm 49:",
+            "pt-BR": "Sermão 18: De Santo Agostinho, sobre o Verso do Salmo 49:"
+          }
+        },
+        {
+          "id": "v01-ch024",
+          "title": {
+            "la": "Sermo 19: Sermo Sancti Augustini",
+            "en-US": "Sermon 19: A Sermon of Saint Augustine",
+            "pt-BR": "Sermão 19: Sermão de Santo Agostinho"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v02",
+      "title": {
+        "la": "Sermones 20–50",
+        "en-US": "Sermons 20–50",
+        "pt-BR": "Sermões 20–50"
+      },
+      "children": [
+        {
+          "id": "v02-ch001",
+          "title": {
+            "la": "Sermo 20",
+            "en-US": "Sermon 20",
+            "pt-BR": "Sermão 20"
+          }
+        },
+        {
+          "id": "v02-ch002",
+          "title": {
+            "la": "Sermo 20/A",
+            "en-US": "Sermon 20/A",
+            "pt-BR": "Sermão 20/A"
+          }
+        },
+        {
+          "id": "v02-ch003",
+          "title": {
+            "la": "Sermo 21",
+            "en-US": "Sermon 21",
+            "pt-BR": "Sermão 21"
+          }
+        },
+        {
+          "id": "v02-ch004",
+          "title": {
+            "la": "Sermo 22",
+            "en-US": "Sermon 22",
+            "pt-BR": "Sermão 22"
+          }
+        },
+        {
+          "id": "v02-ch005",
+          "title": {
+            "la": "Sermo 22/A",
+            "en-US": "Sermon 22/A",
+            "pt-BR": "Sermão 22/A"
+          }
+        },
+        {
+          "id": "v02-ch006",
+          "title": {
+            "la": "Sermo 23",
+            "en-US": "Sermon 23",
+            "pt-BR": "Sermão 23"
+          }
+        },
+        {
+          "id": "v02-ch007",
+          "title": {
+            "la": "Sermo 23/A",
+            "en-US": "Sermon 23/A",
+            "pt-BR": "Sermão 23/A"
+          }
+        },
+        {
+          "id": "v02-ch008",
+          "title": {
+            "la": "Sermo 24",
+            "en-US": "Sermon 24",
+            "pt-BR": "Sermão 24"
+          }
+        },
+        {
+          "id": "v02-ch009",
+          "title": {
+            "la": "Sermo 25",
+            "en-US": "Sermon 25",
+            "pt-BR": "Sermão 25"
+          }
+        },
+        {
+          "id": "v02-ch010",
+          "title": {
+            "la": "Sermo 25/A",
+            "en-US": "Sermon 25/A",
+            "pt-BR": "Sermão 25/A"
+          }
+        },
+        {
+          "id": "v02-ch011",
+          "title": {
+            "la": "Sermo 26",
+            "en-US": "Sermon 26",
+            "pt-BR": "Sermão 26"
+          }
+        },
+        {
+          "id": "v02-ch012",
+          "title": {
+            "la": "Sermo 27",
+            "en-US": "Sermon 27",
+            "pt-BR": "Sermão 27"
+          }
+        },
+        {
+          "id": "v02-ch013",
+          "title": {
+            "la": "Sermo 28",
+            "en-US": "Sermon 28",
+            "pt-BR": "Sermão 28"
+          }
+        },
+        {
+          "id": "v02-ch014",
+          "title": {
+            "la": "Sermo 28/A",
+            "en-US": "Sermon 28/A",
+            "pt-BR": "Sermão 28/A"
+          }
+        },
+        {
+          "id": "v02-ch015",
+          "title": {
+            "la": "Sermo 29",
+            "en-US": "Sermon 29",
+            "pt-BR": "Sermão 29"
+          }
+        },
+        {
+          "id": "v02-ch016",
+          "title": {
+            "la": "Sermo 29/A",
+            "en-US": "Sermon 29/A",
+            "pt-BR": "Sermão 29/A"
+          }
+        },
+        {
+          "id": "v02-ch017",
+          "title": {
+            "la": "Sermo 30",
+            "en-US": "Sermon 30",
+            "pt-BR": "Sermão 30"
+          }
+        },
+        {
+          "id": "v02-ch018",
+          "title": {
+            "la": "Sermo 31",
+            "en-US": "Sermon 31",
+            "pt-BR": "Sermão 31"
+          }
+        },
+        {
+          "id": "v02-ch019",
+          "title": {
+            "la": "Sermo 32",
+            "en-US": "Sermon 32",
+            "pt-BR": "Sermão 32"
+          }
+        },
+        {
+          "id": "v02-ch020",
+          "title": {
+            "la": "Sermo 33",
+            "en-US": "Sermon 33",
+            "pt-BR": "Sermão 33"
+          }
+        },
+        {
+          "id": "v02-ch021",
+          "title": {
+            "la": "Sermo 33/A",
+            "en-US": "Sermon 33/A",
+            "pt-BR": "Sermão 33/A"
+          }
+        },
+        {
+          "id": "v02-ch022",
+          "title": {
+            "la": "Sermo 34",
+            "en-US": "Sermon 34",
+            "pt-BR": "Sermão 34"
+          }
+        },
+        {
+          "id": "v02-ch023",
+          "title": {
+            "la": "Sermo 35",
+            "en-US": "Sermon 35",
+            "pt-BR": "Sermão 35"
+          }
+        },
+        {
+          "id": "v02-ch024",
+          "title": {
+            "la": "Sermo 36",
+            "en-US": "Sermon 36",
+            "pt-BR": "Sermão 36"
+          }
+        },
+        {
+          "id": "v02-ch025",
+          "title": {
+            "la": "Sermo 37",
+            "en-US": "Sermon 37",
+            "pt-BR": "Sermão 37"
+          }
+        },
+        {
+          "id": "v02-ch026",
+          "title": {
+            "la": "Sermo 38",
+            "en-US": "Sermon 38",
+            "pt-BR": "Sermão 38"
+          }
+        },
+        {
+          "id": "v02-ch027",
+          "title": {
+            "la": "Sermo 39",
+            "en-US": "Sermon 39",
+            "pt-BR": "Sermão 39"
+          }
+        },
+        {
+          "id": "v02-ch028",
+          "title": {
+            "la": "Sermo 40",
+            "en-US": "Sermon 40",
+            "pt-BR": "Sermão 40"
+          }
+        },
+        {
+          "id": "v02-ch029",
+          "title": {
+            "la": "Sermo 41",
+            "en-US": "Sermon 41",
+            "pt-BR": "Sermão 41"
+          }
+        },
+        {
+          "id": "v02-ch030",
+          "title": {
+            "la": "Sermo 42",
+            "en-US": "Sermon 42",
+            "pt-BR": "Sermão 42"
+          }
+        },
+        {
+          "id": "v02-ch031",
+          "title": {
+            "la": "Sermo 43",
+            "en-US": "Sermon 43",
+            "pt-BR": "Sermão 43"
+          }
+        },
+        {
+          "id": "v02-ch032",
+          "title": {
+            "la": "Sermo 44",
+            "en-US": "Sermon 44",
+            "pt-BR": "Sermão 44"
+          }
+        },
+        {
+          "id": "v02-ch033",
+          "title": {
+            "la": "Sermo 45",
+            "en-US": "Sermon 45",
+            "pt-BR": "Sermão 45"
+          }
+        },
+        {
+          "id": "v02-ch034",
+          "title": {
+            "la": "Sermo 46",
+            "en-US": "Sermon 46",
+            "pt-BR": "Sermão 46"
+          }
+        },
+        {
+          "id": "v02-ch035",
+          "title": {
+            "la": "Sermo 47",
+            "en-US": "Sermon 47",
+            "pt-BR": "Sermão 47"
+          }
+        },
+        {
+          "id": "v02-ch036",
+          "title": {
+            "la": "Sermo 48",
+            "en-US": "Sermon 48",
+            "pt-BR": "Sermão 48"
+          }
+        },
+        {
+          "id": "v02-ch037",
+          "title": {
+            "la": "Sermo 49",
+            "en-US": "Sermon 49",
+            "pt-BR": "Sermão 49"
+          }
+        },
+        {
+          "id": "v02-ch038",
+          "title": {
+            "la": "Sermo 49/A",
+            "en-US": "Sermon 49/A",
+            "pt-BR": "Sermão 49/A"
+          }
+        },
+        {
+          "id": "v02-ch039",
+          "title": {
+            "la": "Sermo 50",
+            "en-US": "Sermon 50",
+            "pt-BR": "Sermão 50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v03",
+      "title": {
+        "la": "Sermones 51–94",
+        "en-US": "Sermons 51–94",
+        "pt-BR": "Sermões 51–94"
+      },
+      "children": [
+        {
+          "id": "v03-ch001",
+          "title": {
+            "la": "Sermo 51: De Consonantia Evangelistarum Matthaei et Lucae in Generationibus Domini",
+            "en-US": "Sermon 51: On the Agreement of the Evangelists Matthew and Luke in the Genealogies of the Lord",
+            "pt-BR": "Sermão 51: Sobre a concordância dos evangelistas Mateus e Lucas nas genealogias do Senhor"
+          }
+        },
+        {
+          "id": "v03-ch002",
+          "title": {
+            "la": "Sermo 52: De Trinitate",
+            "en-US": "Sermon 52: On the Trinity",
+            "pt-BR": "Sermão 52: Sobre a Trindade"
+          }
+        },
+        {
+          "id": "v03-ch003",
+          "title": {
+            "la": "Sermo 53: De Verbis Evangelii Mt 5: \"Beati Pauperes Spiritu\", et Cetera",
+            "en-US": "Sermon 53: On the Words of the Gospel of Matthew 5: \"Blessed Are the Poor in Spirit,\" and What Follows",
+            "pt-BR": "Sermão 53: Sobre as palavras do Evangelho de Mateus 5: Bem-aventurados os pobres de espírito, e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch004",
+          "title": {
+            "la": "Sermo 53/A: De Octo Sententiis Beatitudinum ex Evangelio",
+            "en-US": "Sermon 53/A: On the Eight Sayings of the Beatitudes from the Gospel",
+            "pt-BR": "Sermão 53/A: Sobre as oito sentenças das bem-aventuranças, do Evangelho"
+          }
+        },
+        {
+          "id": "v03-ch005",
+          "title": {
+            "la": "Sermo 54",
+            "en-US": "Sermon 54",
+            "pt-BR": "Sermão 54"
+          }
+        },
+        {
+          "id": "v03-ch006",
+          "title": {
+            "la": "Sermo 55: De Verbis Evangelii Mt 5, 22: \"Qui Dixerit Fratri Suo: Fatue, Rebus Erit Gehennae Ignis\" et Cetera",
+            "en-US": "Sermon 55: On the Words of the Gospel of Matthew 5:22: \"Whoever Says to His Brother, 'You Fool,' Shall Be Liable to the Fire of Hell,\" and What Follows",
+            "pt-BR": "Sermão 55: Sobre as palavras do Evangelho de Mateus 5,22: Quem disser a seu irmão: Tolo, será réu do fogo da geena, e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch007",
+          "title": {
+            "la": "Sermo 56: In Evangelio Mt 6 de Oratione Dominica ad Competentes",
+            "en-US": "Sermon 56: On the Lord's Prayer, in the Gospel of Matthew 6, to the Candidates for Baptism",
+            "pt-BR": "Sermão 56: Sobre a Oração do Senhor, no Evangelho de Mateus 6, aos candidatos ao Batismo"
+          }
+        },
+        {
+          "id": "v03-ch008",
+          "title": {
+            "la": "Sermo 57: Rursum in Mt 6 de Oratione Dominica, ad Competentes",
+            "en-US": "Sermon 57: Again on the Lord's Prayer in Matthew 6, to the Candidates for Baptism",
+            "pt-BR": "Sermão 57: De novo sobre a Oração do Senhor, em Mateus 6, aos candidatos ao Batismo"
+          }
+        },
+        {
+          "id": "v03-ch009",
+          "title": {
+            "la": "Sermo 58: Item in Mt 6, 9-13 de Oratione Dominica, ad Competentes.",
+            "en-US": "Sermon 58: Again on the Lord's Prayer in Matthew 6:9-13, to the Candidates for Baptism",
+            "pt-BR": "Sermão 58: De novo sobre a Oração do Senhor, em Mateus 6,9-13, aos candidatos ao Batismo"
+          }
+        },
+        {
+          "id": "v03-ch010",
+          "title": {
+            "la": "Sermo 59: Item in Mt 6, 9-13 de Oratione Dominica ad Competentes",
+            "en-US": "Sermon 59: Again on the Lord's Prayer in Matthew 6:9-13, to the Candidates for Baptism",
+            "pt-BR": "Sermão 59: De novo sobre a Oração do Senhor, em Mateus 6,9-13, aos candidatos ao Batismo"
+          }
+        },
+        {
+          "id": "v03-ch011",
+          "title": {
+            "la": "Sermo 60: Tractatus de Ps XXXVIII Ubi Dicit: \" Quamquam in Imagine Ambulet Homo Tamen Vane Conturbatur Thesaurizat et Nescit Cui Congregat Ea \" et ex Evangelio Mt de Thesauro in Caelo Condendo",
+            "en-US": "Sermon 60",
+            "pt-BR": "Sermão 60"
+          }
+        },
+        {
+          "id": "v03-ch012",
+          "title": {
+            "la": "Sermo 60/A: Incipit Sermo de Evangelio Ubi Dominus Dicit: \" Nolite Dare Sanctum Canibus Neque Miseritis Margaritas Vestras Ante Porcos \" et Cetera quae Sequuntur",
+            "en-US": "Sermon 60/A: Here Begins a Sermon on the Gospel Where the Lord Says: \"Do Not Give What Is Holy to the Dogs, nor Cast Your Pearls Before Swine,\" and What Follows",
+            "pt-BR": "Sermão 60/A: Aqui começa um sermão sobre o Evangelho onde o Senhor diz: Não deis o que é santo aos cães, nem lanceis as vossas pérolas diante dos porcos, e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch013",
+          "title": {
+            "la": "Sermo 61: De Verbis Evangelii Mt 7, 7-11: \"Petite, et Dabitur Vobis\", et Cetera Exhortatorius ad Faciendas Eleemosynas.",
+            "en-US": "Sermon 61: On the Words of the Gospel of Matthew 7:7-11: \"Ask, and It Will Be Given to You,\" and What Follows; Exhorting to Almsgiving",
+            "pt-BR": "Sermão 61: Sobre as palavras do Evangelho de Mateus 7,7-11: Pedi, e vos será dado, e o que se segue; exortação a fazer esmolas"
+          }
+        },
+        {
+          "id": "v03-ch014",
+          "title": {
+            "la": "Sermo 61/A: De Eo quod Ait Dominus: \" Petite et Accipietis \"",
+            "en-US": "Sermon 61/A: On What the Lord Says: \"Ask and You Will Receive\"",
+            "pt-BR": "Sermão 61/A: Sobre o que o Senhor diz: Pedi e recebereis"
+          }
+        },
+        {
+          "id": "v03-ch015",
+          "title": {
+            "la": "Sermo 62",
+            "en-US": "Sermon 62",
+            "pt-BR": "Sermão 62"
+          }
+        },
+        {
+          "id": "v03-ch016",
+          "title": {
+            "la": "Sermo 62/A: De Puero Centurionis",
+            "en-US": "Sermon 62/A: On the Centurion's Servant",
+            "pt-BR": "Sermão 62/A: Sobre o servo do Centurião"
+          }
+        },
+        {
+          "id": "v03-ch017",
+          "title": {
+            "la": "Sermo 63: De Verbis Evangelii Mt 8, 23-27: \"Et Ascendente Eo in Naviculam\", et Cetera",
+            "en-US": "Sermon 63: On the Words of the Gospel of Matthew 8:23-27: \"and When He Had Gone Up Into the Boat,\" and What Follows",
+            "pt-BR": "Sermão 63: Sobre as palavras do Evangelho de Mateus 8,23-27: \"E, tendo ele subido ao barco\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch018",
+          "title": {
+            "la": "Sermo 63/A: De Muliere quae Fluxum Sanguinis Patiebatur",
+            "en-US": "Sermon 63/A: On the Woman Who Suffered a Flow of Blood",
+            "pt-BR": "Sermão 63/A: Sobre a mulher que padecia de um fluxo de sangue"
+          }
+        },
+        {
+          "id": "v03-ch019",
+          "title": {
+            "la": "Sermo 63/B: De Filia Archisynagogi et de Muliere Fluxum Sanguinis Patiente",
+            "en-US": "Sermon 63/B: On the Daughter of the Synagogue Ruler and on the Woman Suffering a Flow of Blood",
+            "pt-BR": "Sermão 63/B: Sobre a filha do chefe da sinagoga e sobre a mulher que padecia de um fluxo de sangue"
+          }
+        },
+        {
+          "id": "v03-ch020",
+          "title": {
+            "la": "Sermo 64: Tractatus de Natale Sanctorum Martyrum",
+            "en-US": "Sermon 64: A Treatise on the Birthday of the Holy Martyrs",
+            "pt-BR": "Sermão 64: Tratado sobre o natalício dos santos mártires"
+          }
+        },
+        {
+          "id": "v03-ch021",
+          "title": {
+            "la": "Sermo 64/A: De Verbis Evangelii Mt 10, 16: \" Ecce Ego Mitto Vos Sicut Oves \" et Cetera de Natale Martyrum",
+            "en-US": "Sermon 64/A: On the Words of the Gospel of Matthew 10:16: \"Behold, I Send You as Sheep,\" and What Follows; on the Birthday of the Martyrs",
+            "pt-BR": "Sermão 64/A: Sobre as palavras do Evangelho de Mateus 10,16: \"Eis que vos envio como ovelhas\", e o que se segue; sobre o natalício dos mártires"
+          }
+        },
+        {
+          "id": "v03-ch022",
+          "title": {
+            "la": "Sermo 65: De Verbis Evangelii Mt 10, 28: \"Nolite Timere Eos qui Corpus Occidunt\", et Cetera",
+            "en-US": "Sermon 65: On the Words of the Gospel of Matthew 10:28: \"Do Not Fear Those Who Kill the Body,\" and What Follows",
+            "pt-BR": "Sermão 65: Sobre as palavras do Evangelho de Mateus 10,28: \"Não temais os que matam o corpo\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch023",
+          "title": {
+            "la": "Sermo 65/A",
+            "en-US": "Sermon 65/A",
+            "pt-BR": "Sermão 65/A"
+          }
+        },
+        {
+          "id": "v03-ch024",
+          "title": {
+            "la": "Sermo 66: De Verbis Evangelii Mt 11, 2-11: \"Cum Audisset Ioannes in Vinculis Opera Christi\" et Cetera",
+            "en-US": "Sermon 66: On the Words of the Gospel of Matthew 11:2-11: \"When John Had Heard in Chains the Works of Christ,\" and What Follows",
+            "pt-BR": "Sermão 66: Sobre as palavras do Evangelho de Mateus 11,2-11: \"Tendo João ouvido, nas cadeias, as obras de Cristo\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch025",
+          "title": {
+            "la": "Sermo 67: De Verbis Evangelii Mt 11, 25: \"Confiteor Tibi, Pater, Domine Coeli et Terrae, Quia Abscondisti Haec a Sapientibus\", et Cetera",
+            "en-US": "Sermon 67: On the Words of the Gospel of Matthew 11:25: \"I Confess to You, Father, Lord of Heaven and Earth, Because You Have Hidden These Things from the Wise,\" and What Follows",
+            "pt-BR": "Sermão 67: Sobre as palavras do Evangelho de Mateus 11,25: \"Eu te confesso, Pai, Senhor do céu e da terra, porque escondeste estas coisas dos sábios\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch026",
+          "title": {
+            "la": "Sermo 68: De Capitulo Evangelii Sec. Mt Ubi Ait Dominus: \" Confiteor Tibi, Pater, Domine Caeli et Terrae, Quia Abscondisti Haec a Sapientibus et Prudentibus\" et Cetera",
+            "en-US": "Sermon 68",
+            "pt-BR": "Sermão 68: Sobre o capítulo do Evangelho segundo Mateus, onde o Senhor diz: \"Eu te confesso, Pai, Senhor do céu e da terra, porque escondeste estas coisas dos sábios e prudentes\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch027",
+          "title": {
+            "la": "Sermo 69: De Verbis Evangelii Mt 11, 28-30: \"Venite ad Me, Omnes qui Laboratis et Onerati Estis\", et Cetera",
+            "en-US": "Sermon 69: On the Words of the Gospel of Matthew 11:28-30: \"Come to Me, All You Who Labor and Are Burdened,\" and What Follows",
+            "pt-BR": "Sermão 69: Sobre as palavras do Evangelho de Mateus 11,28-30: \"Vinde a mim, todos vós que trabalhais e estais sobrecarregados\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch028",
+          "title": {
+            "la": "Sermo 70: Rursum de Verbis Evangelii Mt 11, 28-30: \"Venite ad Me, Omnes qui Laboratis et Onerati Estis, et Ego Reficiam Vos\", et Cetera",
+            "en-US": "Sermon 70: Again on the Words of the Gospel of Matthew 11:28-30: \"Come to Me, All You Who Labor and Are Burdened, and I Will Refresh You,\" and What Follows",
+            "pt-BR": "Sermão 70: De novo sobre as palavras do Evangelho de Mateus 11,28-30: \"Vinde a mim, todos vós que trabalhais e estais sobrecarregados, e eu vos aliviarei\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch029",
+          "title": {
+            "la": "Sermo 70/A: Item ex Eodem Capitulo Evangelii de Humilitate",
+            "en-US": "Sermon 70/A: Likewise from the Same Chapter of the Gospel, on Humility",
+            "pt-BR": "Sermão 70/A: Igualmente do mesmo capítulo do Evangelho, sobre a humildade"
+          }
+        },
+        {
+          "id": "v03-ch030",
+          "title": {
+            "la": "Sermo 71: De Verbis Evangelii Mt 12,32: \" qui Dixerit Verbum contra Spiritum Sanctum, Non Remittetur Ei, Neque in Hoc Saeculo, Neque in Futuro \" Sive de Blasphemia in Spiritum Sanctum",
+            "en-US": "Sermon 71",
+            "pt-BR": "Sermão 71: Sobre as palavras do Evangelho de Mateus 12,32: \"Quem disser uma palavra contra o Espírito Santo, não lhe será perdoado, nem neste século nem no futuro\", ou sobre a blasfêmia contra o Espírito Santo"
+          }
+        },
+        {
+          "id": "v03-ch031",
+          "title": {
+            "la": "Sermo 72: De Verbis Evangelii Mt 12,33: \" Aut Facite Arborem Bonam et Fructum Eius Bonum \"",
+            "en-US": "Sermon 72: On the Words of the Gospel of Matthew 12:33: \"Either Make the Tree Good and Its Fruit Good\"",
+            "pt-BR": "Sermão 72: Sobre as palavras do Evangelho de Mateus 12,33: «Ou fazei a árvore boa e o seu fruto bom»"
+          }
+        },
+        {
+          "id": "v03-ch032",
+          "title": {
+            "la": "Sermo 72 augm.: (De verbis Domini in Evangelio secundum Matheum: Aut facite arborem bonam et fructum eius bonum)",
+            "en-US": "Sermon 72: (Augmented) - (on the Words of the Lord in the Gospel According to Matthew: Either Make the Tree Good and Its Fruit Good)",
+            "pt-BR": "Sermão 72: (Aumentado) - (sobre as palavras do Senhor no Evangelho segundo Mateus: Ou fazei a árvore boa e o seu fruto bom)"
+          }
+        },
+        {
+          "id": "v03-ch033",
+          "title": {
+            "la": "Sermo 72/A: De Verbis Evangelii Mt 12, 41: \" Ecce Plus Quam Ionas Hic \" et Cetera",
+            "en-US": "Sermon 72/A: On the Words of the Gospel of Matthew 12:41: \"Behold, a Greater Than Jonah Is Here,\" and What Follows",
+            "pt-BR": "Sermão 72/A: Sobre as palavras do Evangelho de Mateus 12,41: \"Eis aqui alguém maior que Jonas\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch034",
+          "title": {
+            "la": "Sermo 73: De Verbis Evangelii Mt 13: Ubi Dominus Iesus Parabolas Seminantis Exponit",
+            "en-US": "Sermon 73: On the Words of the Gospel of Matthew 13: Where the Lord Jesus Expounds the Parable of the Sower",
+            "pt-BR": "Sermão 73: Sobre as palavras do Evangelho de Mateus 13: onde o Senhor Jesus expõe a parábola do semeador"
+          }
+        },
+        {
+          "id": "v03-ch035",
+          "title": {
+            "la": "Sermo 73/A: Ex Evangelio Sec. Mt 13: De Homine qui Seminavit Bonum Semen in Agro Suo",
+            "en-US": "Sermon 73/A: From the Gospel According to Matthew 13: on the Man Who Sowed Good Seed in His Field",
+            "pt-BR": "Sermão 73/A: Do Evangelho segundo Mateus 13: sobre o homem que semeou boa semente no seu campo"
+          }
+        },
+        {
+          "id": "v03-ch036",
+          "title": {
+            "la": "Sermo 74: De Verbis Evangelii Mt 13, 52: \"Ideo Omnis Scriba Eruditus in Regno Dei\", et Cetera",
+            "en-US": "Sermon 74: On the Words of the Gospel of Matthew 13:52: \"Therefore Every Scribe Trained in the Kingdom of God,\" and What Follows",
+            "pt-BR": "Sermão 74: Sobre as palavras do Evangelho de Mateus 13,52: \"Por isso, todo escriba instruído no reino de Deus\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch037",
+          "title": {
+            "la": "Sermo 75: De Verbis Evangelii Mt 14, 24-33: \"Navicula Autem in Medio Mari Iactabatur Fluctibus\" et Cetera",
+            "en-US": "Sermon 75: On the Words of the Gospel of Matthew 14:24-33: \"but the Boat Was Tossed in the Midst of the Sea by the Waves,\" and What Follows",
+            "pt-BR": "Sermão 75: Sobre as palavras do Evangelho de Mateus 14,24-33: \"Mas o barco era agitado no meio do mar pelas ondas\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch038",
+          "title": {
+            "la": "Sermo 76: Rursus in Mt 14, 24-33: De Domino Ambulante Super Aquas Maris, et de Petro Titubante",
+            "en-US": "Sermon 76: Again on Matthew 14:24-33: on the Lord Walking upon the Waters of the Sea, and on Peter Faltering",
+            "pt-BR": "Sermão 76: De novo sobre Mateus 14,24-33: sobre o Senhor caminhando sobre as águas do mar, e sobre Pedro que vacila"
+          }
+        },
+        {
+          "id": "v03-ch039",
+          "title": {
+            "la": "Sermo 77: De Verbis Evangelii Mt 15, 21-28: \"Egressus Iesus de Genezareth, Secessit in Partes Thyri et Sidonis, et Ecce Mulier Chananaea\" et Cetera",
+            "en-US": "Sermon 77: On the Words of the Gospel of Matthew 15:21-28: \"Jesus, Going Out from Gennesaret, Withdrew Into the Regions of Tyre and Sidon, and Behold a Canaanite Woman,\" and What Follows",
+            "pt-BR": "Sermão 77: Sobre as palavras do Evangelho de Mateus 15,21-28: \"Jesus, saindo de Genesaré, retirou-se para as regiões de Tiro e Sidon, e eis uma mulher cananeia\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch040",
+          "title": {
+            "la": "Sermo 77/A: Tractatus de Muliere Chananaea Secundum Matthaeum",
+            "en-US": "Sermon 77/A: A Treatise on the Canaanite Woman According to Matthew",
+            "pt-BR": "Sermão 77/A: Tratado sobre a mulher cananeia segundo Mateus"
+          }
+        },
+        {
+          "id": "v03-ch041",
+          "title": {
+            "la": "Sermo 77/B: De Muliere Chananaea",
+            "en-US": "Sermon 77/B: On the Canaanite Woman",
+            "pt-BR": "Sermão 77/B: Sobre a mulher cananeia"
+          }
+        },
+        {
+          "id": "v03-ch042",
+          "title": {
+            "la": "Sermo 77/C: Ex Sermone de Eo quod Scriptum Est: \" Si Quis Vult Post Me Venire, Abneget Se Ipsum \" [Fragmentum]",
+            "en-US": "Sermon 77/C: From the Sermon on What Is Written: \"If Anyone Wishes to Come After Me, Let Him Deny Himself\" [Fragment]",
+            "pt-BR": "Sermão 77/C: De um sermão sobre o que está escrito: \"Se alguém quer vir após mim, negue-se a si mesmo\" [Fragmento]"
+          }
+        },
+        {
+          "id": "v03-ch043",
+          "title": {
+            "la": "Sermo 78: De Verbis Evangelii Mt 17, 1-8: \"Post Dies Sex Assumpsit Iesus Petrum, et Iacobum, et Ioannem Fratrem Eius\" et Cetera",
+            "en-US": "Sermon 78: On the Words of the Gospel of Matthew 17:1-8: \"After Six Days Jesus Took Peter, and James, and John His Brother,\" and What Follows",
+            "pt-BR": "Sermão 78: Sobre as palavras do Evangelho de Mateus 17,1-8: \"Depois de seis dias, tomou Jesus a Pedro, e a Tiago, e a João seu irmão\", e o que se segue"
+          }
+        },
+        {
+          "id": "v03-ch044",
+          "title": {
+            "la": "Sermo 79: Rursum de Verbis Evangelii Mt 17, 1-8: Ubi Se Iesus Demonstravit in Monte Tribus Discipulis",
+            "en-US": "Sermon 79: Again on the Words of the Gospel of Matthew 17:1-8: Where Jesus Showed Himself on the Mountain to Three Disciples",
+            "pt-BR": "Sermão 79: De novo sobre as palavras do Evangelho de Mateus 17,1-8: onde Jesus se mostrou no monte a três discípulos"
+          }
+        },
+        {
+          "id": "v03-ch045",
+          "title": {
+            "la": "Sermo 79/A: Sermo de Evangelio Ubi in Monte Transfiguratus Est Iesus",
+            "en-US": "Sermon 79/A: A Sermon on the Gospel Where Jesus Was Transfigured on the Mountain",
+            "pt-BR": "Sermão 79/A: Sermão sobre o Evangelho onde no monte Jesus foi transfigurado"
+          }
+        },
+        {
+          "id": "v03-ch046",
+          "title": {
+            "la": "Sermo 80: De Verbis Evangelii Mt 17, 18-20: \"Nos Quare Eum Non Potuimus Eicere\" et Cetera de Oratione",
+            "en-US": "Sermon 80: On the Words of the Gospel of Matthew 17:18-20: \"Why Could We Not Cast It Out,\" and What Follows; on Prayer",
+            "pt-BR": "Sermão 80: Sobre as palavras do Evangelho de Mateus 17,18-20: \"Por que não pudemos nós expulsá-lo\", e o que se segue; sobre a oração"
+          }
+        },
+        {
+          "id": "v03-ch047",
+          "title": {
+            "la": "Sermo 81: De Verbis Evangelii Mt 18, 7-9 Ubi Admonemur Ab Scandalis Mundi Cavere",
+            "en-US": "Sermon 81: On the Words of the Gospel of Matthew 18:7-9, Where We Are Admonished to Beware the Scandals of the World",
+            "pt-BR": "Sermão 81: Sobre as palavras do Evangelho de Mateus 18,7-9, onde somos advertidos a guardar-nos dos escândalos do mundo"
+          }
+        },
+        {
+          "id": "v03-ch048",
+          "title": {
+            "la": "Sermo 82",
+            "en-US": "Sermon 82",
+            "pt-BR": "Sermão 82"
+          }
+        },
+        {
+          "id": "v03-ch049",
+          "title": {
+            "la": "Sermo 83: De Verbis Evangelii Mt 18, 21, 22: \"Quoties Peccabit in Me Frater Meus\", et Cetera",
+            "en-US": "Sermon 83: On the Words of the Gospel, Matthew 18:21-22: \"How Often Shall My Brother Sin Against Me,\" and the Rest",
+            "pt-BR": "Sermão 83: Sobre as palavras do Evangelho, Mateus 18,21-22: \"Quantas vezes pecará contra mim o meu irmão\", e o restante"
+          }
+        },
+        {
+          "id": "v03-ch050",
+          "title": {
+            "la": "Sermo 84: De Verbis Evangelii Mt 19, 17: \"Si Vis Venire ad Vitam, Serva Mandata\"",
+            "en-US": "Sermon 84: On the Words of the Gospel, Matthew 19:17: \"If You Wish to Come to Life, Keep the Commandments\"",
+            "pt-BR": "Sermão 84: Sobre as palavras do Evangelho, Mateus 19,17: \"Se queres vir para a vida, guarda os mandamentos\""
+          }
+        },
+        {
+          "id": "v03-ch051",
+          "title": {
+            "la": "Sermo 85: De Verbis Evangelii Mt 19, 17-25: \"Si Vis Venire ad Vitam, Serva Mandata\", et Cetera",
+            "en-US": "Sermon 85: On the Words of the Gospel, Matthew 19:17-25: \"If You Wish to Come to Life, Keep the Commandments,\" and the Rest",
+            "pt-BR": "Sermão 85: Sobre as palavras do Evangelho, Mateus 19,17-25: \"Se queres vir para a vida, guarda os mandamentos\", e o restante"
+          }
+        },
+        {
+          "id": "v03-ch052",
+          "title": {
+            "la": "Sermo 86: De Verbis Evangelii Mt 19, 21: \"Vade, Vende Omnia quae Habes, et da Pauperibus\", et Cetera",
+            "en-US": "Sermon 86: On the Words of the Gospel, Matthew 19:21: \"Go, Sell All That You Have, and Give to the Poor,\" and the Rest",
+            "pt-BR": "Sermão 86: Sobre as palavras do Evangelho, Mateus 19,21: \"Vai, vende tudo o que tens, e dá aos pobres\", e o restante"
+          }
+        },
+        {
+          "id": "v03-ch053",
+          "title": {
+            "la": "Sermo 87: Habitus Die Dominica, de Eo quod Scriptum Est in Evangelio Mt 20,1-16: \"Simile Est Regnum Caelorum Homini Patrifamilias, qui Misit Operarios in Vineam Suam\".",
+            "en-US": "Sermon 87: Preached on the Lord's Day, on What Is Written in the Gospel, Matthew 20:1-16: \"the Kingdom of Heaven Is Like a Man, a Head of a Household, Who Sent Laborers Into His Vineyard.\"",
+            "pt-BR": "Sermão 87: Pregado no dia do Senhor, sobre o que está escrito no Evangelho, Mateus 20,1-16: \"O reino dos céus é semelhante a um homem, pai de família, que enviou operários para a sua vinha.\""
+          }
+        },
+        {
+          "id": "v03-ch054",
+          "title": {
+            "la": "Sermo 88: De Verbis Evangelii Mt 20, 30-34: Ubi de Duobus Caecis Sedentibus Secus Viam, et Clamantibus, \"Domine Miserere Nostri, Fili David\"",
+            "en-US": "Sermon 88: On the Words of the Gospel, Matthew 20:30-34: Where It Tells of the Two Blind Men Sitting Beside the Road and Crying Out, \"Lord, Have Mercy on Us, Son of David\"",
+            "pt-BR": "Sermão 88: Sobre as palavras do Evangelho, Mateus 20,30-34: onde se fala dos dois cegos sentados junto ao caminho e que clamavam: \"Senhor, tem piedade de nós, Filho de Davi\""
+          }
+        },
+        {
+          "id": "v03-ch055",
+          "title": {
+            "la": "Sermo 89: De Verbis Evangelii Mt 21, 19-12, Ubi Iesus Arborem Arefecit; et de Illis LC 24, 28 Ubi Finxit Se Longius Ire.",
+            "en-US": "Sermon 89: On the Words of the Gospel, Matthew 21:19-21, Where Jesus Withered the Tree; and on the Words of Luke 24:28, Where He Pretended to Go Farther.",
+            "pt-BR": "Sermão 89: Sobre as palavras do Evangelho, Mateus 21,19-21, onde Jesus secou a árvore; e sobre aquelas de Lucas 24,28, onde fingiu ir mais longe."
+          }
+        },
+        {
+          "id": "v03-ch056",
+          "title": {
+            "la": "Sermo 90: De Verbis Evangelii Mt 22, 1-14: Ubi de Nuptiis Filii Regis contra Donatistas, de Caritate",
+            "en-US": "Sermon 90: On the Words of the Gospel, Matthew 22:1-14: on the Marriage of the King's Son, Against the Donatists; on Love",
+            "pt-BR": "Sermão 90: Sobre as palavras do Evangelho, Mateus 22,1-14: sobre as bodas do filho do rei, contra os donatistas; sobre a caridade"
+          }
+        },
+        {
+          "id": "v03-ch057",
+          "title": {
+            "la": "Sermo 90/A: Sermo sancti Augustini episcopi de dilectione Dei et proximi",
+            "en-US": "Sermon 90/A: A Sermon of Saint Augustine the Bishop on the Love of God and Neighbor",
+            "pt-BR": "Sermão 90/A: Sermão de santo Agostinho bispo sobre o amor de Deus e do próximo"
+          }
+        },
+        {
+          "id": "v03-ch058",
+          "title": {
+            "la": "Sermo 91: De Verbis Evangelii Mt 22, 42-46: Ubi Dominus Interrogavit Iudaeos, Cuius Filium Dicerent Esse Christum",
+            "en-US": "Sermon 91: On the Words of the Gospel, Matthew 22:42-46: Where the Lord Asked the Jews Whose Son They Said the Christ Was",
+            "pt-BR": "Sermão 91: Sobre as palavras do Evangelho, Mateus 22,42-46: onde o Senhor interrogou os judeus de quem diziam ser filho o Cristo"
+          }
+        },
+        {
+          "id": "v03-ch059",
+          "title": {
+            "la": "Sermo 92: De Eisdem Verbis Evangelii Mt 22, 42-46",
+            "en-US": "Sermon 92: On the Same Words of the Gospel, Matthew 22:42-46",
+            "pt-BR": "Sermão 92: Sobre as mesmas palavras do Evangelho, Mateus 22,42-46"
+          }
+        },
+        {
+          "id": "v03-ch060",
+          "title": {
+            "la": "Sermo 93: De Verbis Evangelii Mt 25, 1-13: \"Simile Erit Regnum Coelorum Decem Virginibus\"et Cetera",
+            "en-US": "Sermon 93: On the Words of the Gospel, Matthew 25:1-13: \"the Kingdom of Heaven Will Be Like Ten Virgins,\" and the Rest",
+            "pt-BR": "Sermão 93: Sobre as palavras do Evangelho, Mateus 25,1-13: \"O reino dos céus será semelhante a dez virgens\", e o restante"
+          }
+        },
+        {
+          "id": "v03-ch061",
+          "title": {
+            "la": "Sermo 94: De Verbis Evangelii Mt 25, 24-30 Ubi Servus Piger, qui Talentum Acceptum Noluit Erogare, Damnatur",
+            "en-US": "Sermon 94: On the Words of the Gospel, Matthew 25:24-30, Where the Lazy Servant, Who Refused to Pay Out the Talent He Had Received, Is Condemned",
+            "pt-BR": "Sermão 94: Sobre as palavras do Evangelho, Mateus 25,24-30, onde o servo preguiçoso, que não quis pagar o talento recebido, é condenado"
+          }
+        },
+        {
+          "id": "v03-ch062",
+          "title": {
+            "la": "Sermo 94/A: De Martirio Ioannis Baptistae et de Persecutione quae Etiam Tempore Pacis Sustinenda Est Christianis",
+            "en-US": "Sermon 94/A: On the Martyrdom of John the Baptist and on the Persecution That Must Be Borne by Christians Even in a Time of Peace",
+            "pt-BR": "Sermão 94/A: Sobre o martírio de João Batista e sobre a perseguição que também em tempo de paz os cristãos devem suportar"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v04",
+      "title": {
+        "la": "Sermones 94A–147A",
+        "en-US": "Sermons 94A–147A",
+        "pt-BR": "Sermões 94A–147A"
+      },
+      "children": [
+        {
+          "id": "v04-ch001",
+          "title": {
+            "la": "Sermon 94a",
+            "en-US": "Sermon 94a",
+            "pt-BR": "Sermão 94a"
+          }
+        },
+        {
+          "id": "v04-ch002",
+          "title": {
+            "la": "Sermon 95",
+            "en-US": "Sermon 95",
+            "pt-BR": "Sermão 95"
+          }
+        },
+        {
+          "id": "v04-ch003",
+          "title": {
+            "la": "Sermon 96",
+            "en-US": "Sermon 96",
+            "pt-BR": "Sermão 96"
+          }
+        },
+        {
+          "id": "v04-ch004",
+          "title": {
+            "la": "Sermon 97",
+            "en-US": "Sermon 97",
+            "pt-BR": "Sermão 97"
+          }
+        },
+        {
+          "id": "v04-ch005",
+          "title": {
+            "la": "Sermon 97a",
+            "en-US": "Sermon 97a",
+            "pt-BR": "Sermão 97a"
+          }
+        },
+        {
+          "id": "v04-ch006",
+          "title": {
+            "la": "Sermon 98",
+            "en-US": "Sermon 98",
+            "pt-BR": "Sermão 98"
+          }
+        },
+        {
+          "id": "v04-ch007",
+          "title": {
+            "la": "Sermon 99",
+            "en-US": "Sermon 99",
+            "pt-BR": "Sermão 99"
+          }
+        },
+        {
+          "id": "v04-ch008",
+          "title": {
+            "la": "Sermon 100",
+            "en-US": "Sermon 100",
+            "pt-BR": "Sermão 100"
+          }
+        },
+        {
+          "id": "v04-ch009",
+          "title": {
+            "la": "Sermon 101",
+            "en-US": "Sermon 101",
+            "pt-BR": "Sermão 101"
+          }
+        },
+        {
+          "id": "v04-ch010",
+          "title": {
+            "la": "Sermon 102",
+            "en-US": "Sermon 102",
+            "pt-BR": "Sermão 102"
+          }
+        },
+        {
+          "id": "v04-ch011",
+          "title": {
+            "la": "Sermon 103",
+            "en-US": "Sermon 103",
+            "pt-BR": "Sermão 103"
+          }
+        },
+        {
+          "id": "v04-ch012",
+          "title": {
+            "la": "Sermon 104",
+            "en-US": "Sermon 104",
+            "pt-BR": "Sermão 104"
+          }
+        },
+        {
+          "id": "v04-ch013",
+          "title": {
+            "la": "Sermon 105",
+            "en-US": "Sermon 105",
+            "pt-BR": "Sermão 105"
+          }
+        },
+        {
+          "id": "v04-ch014",
+          "title": {
+            "la": "Sermon 105a",
+            "en-US": "Sermon 105a",
+            "pt-BR": "Sermão 105a"
+          }
+        },
+        {
+          "id": "v04-ch015",
+          "title": {
+            "la": "Sermon 106",
+            "en-US": "Sermon 106",
+            "pt-BR": "Sermão 106"
+          }
+        },
+        {
+          "id": "v04-ch016",
+          "title": {
+            "la": "Sermon 107",
+            "en-US": "Sermon 107",
+            "pt-BR": "Sermão 107"
+          }
+        },
+        {
+          "id": "v04-ch017",
+          "title": {
+            "la": "Sermon 107a",
+            "en-US": "Sermon 107a",
+            "pt-BR": "Sermão 107a"
+          }
+        },
+        {
+          "id": "v04-ch018",
+          "title": {
+            "la": "Sermon 108",
+            "en-US": "Sermon 108",
+            "pt-BR": "Sermão 108"
+          }
+        },
+        {
+          "id": "v04-ch019",
+          "title": {
+            "la": "Sermon 109",
+            "en-US": "Sermon 109",
+            "pt-BR": "Sermão 109"
+          }
+        },
+        {
+          "id": "v04-ch020",
+          "title": {
+            "la": "Sermon 110",
+            "en-US": "Sermon 110",
+            "pt-BR": "Sermão 110"
+          }
+        },
+        {
+          "id": "v04-ch021",
+          "title": {
+            "la": "Sermon 110a",
+            "en-US": "Sermon 110a",
+            "pt-BR": "Sermão 110a"
+          }
+        },
+        {
+          "id": "v04-ch022",
+          "title": {
+            "la": "Sermon 111",
+            "en-US": "Sermon 111",
+            "pt-BR": "Sermão 111"
+          }
+        },
+        {
+          "id": "v04-ch023",
+          "title": {
+            "la": "Sermon 112",
+            "en-US": "Sermon 112",
+            "pt-BR": "Sermão 112"
+          }
+        },
+        {
+          "id": "v04-ch024",
+          "title": {
+            "la": "Sermon 112a",
+            "en-US": "Sermon 112a",
+            "pt-BR": "Sermão 112a"
+          }
+        },
+        {
+          "id": "v04-ch025",
+          "title": {
+            "la": "Sermon 113",
+            "en-US": "Sermon 113",
+            "pt-BR": "Sermão 113"
+          }
+        },
+        {
+          "id": "v04-ch026",
+          "title": {
+            "la": "Sermon 113a",
+            "en-US": "Sermon 113a",
+            "pt-BR": "Sermão 113a"
+          }
+        },
+        {
+          "id": "v04-ch027",
+          "title": {
+            "la": "Sermon 113b",
+            "en-US": "Sermon 113b",
+            "pt-BR": "Sermão 113b"
+          }
+        },
+        {
+          "id": "v04-ch028",
+          "title": {
+            "la": "Sermon 114",
+            "en-US": "Sermon 114",
+            "pt-BR": "Sermão 114"
+          }
+        },
+        {
+          "id": "v04-ch029",
+          "title": {
+            "la": "Sermon 114a",
+            "en-US": "Sermon 114a",
+            "pt-BR": "Sermão 114a"
+          }
+        },
+        {
+          "id": "v04-ch030",
+          "title": {
+            "la": "Sermon 114b",
+            "en-US": "Sermon 114b",
+            "pt-BR": "Sermão 114b"
+          }
+        },
+        {
+          "id": "v04-ch031",
+          "title": {
+            "la": "Sermon 115",
+            "en-US": "Sermon 115",
+            "pt-BR": "Sermão 115"
+          }
+        },
+        {
+          "id": "v04-ch032",
+          "title": {
+            "la": "Sermon 116",
+            "en-US": "Sermon 116",
+            "pt-BR": "Sermão 116"
+          }
+        },
+        {
+          "id": "v04-ch033",
+          "title": {
+            "la": "Sermon 117",
+            "en-US": "Sermon 117",
+            "pt-BR": "Sermão 117"
+          }
+        },
+        {
+          "id": "v04-ch034",
+          "title": {
+            "la": "Sermon 118",
+            "en-US": "Sermon 118",
+            "pt-BR": "Sermão 118"
+          }
+        },
+        {
+          "id": "v04-ch035",
+          "title": {
+            "la": "Sermon 119",
+            "en-US": "Sermon 119",
+            "pt-BR": "Sermão 119"
+          }
+        },
+        {
+          "id": "v04-ch036",
+          "title": {
+            "la": "Sermon 120",
+            "en-US": "Sermon 120",
+            "pt-BR": "Sermão 120"
+          }
+        },
+        {
+          "id": "v04-ch037",
+          "title": {
+            "la": "Sermon 121",
+            "en-US": "Sermon 121",
+            "pt-BR": "Sermão 121"
+          }
+        },
+        {
+          "id": "v04-ch038",
+          "title": {
+            "la": "Sermon 122",
+            "en-US": "Sermon 122",
+            "pt-BR": "Sermão 122"
+          }
+        },
+        {
+          "id": "v04-ch039",
+          "title": {
+            "la": "Sermon 123",
+            "en-US": "Sermon 123",
+            "pt-BR": "Sermão 123"
+          }
+        },
+        {
+          "id": "v04-ch040",
+          "title": {
+            "la": "Sermon 124",
+            "en-US": "Sermon 124",
+            "pt-BR": "Sermão 124"
+          }
+        },
+        {
+          "id": "v04-ch041",
+          "title": {
+            "la": "Sermon 125",
+            "en-US": "Sermon 125",
+            "pt-BR": "Sermão 125"
+          }
+        },
+        {
+          "id": "v04-ch042",
+          "title": {
+            "la": "Sermon 125a",
+            "en-US": "Sermon 125a",
+            "pt-BR": "Sermão 125a"
+          }
+        },
+        {
+          "id": "v04-ch043",
+          "title": {
+            "la": "Sermon 126",
+            "en-US": "Sermon 126",
+            "pt-BR": "Sermão 126"
+          }
+        },
+        {
+          "id": "v04-ch044",
+          "title": {
+            "la": "Sermon 127",
+            "en-US": "Sermon 127",
+            "pt-BR": "Sermão 127"
+          }
+        },
+        {
+          "id": "v04-ch045",
+          "title": {
+            "la": "Sermon 128",
+            "en-US": "Sermon 128",
+            "pt-BR": "Sermão 128"
+          }
+        },
+        {
+          "id": "v04-ch046",
+          "title": {
+            "la": "Sermon 129",
+            "en-US": "Sermon 129",
+            "pt-BR": "Sermão 129"
+          }
+        },
+        {
+          "id": "v04-ch047",
+          "title": {
+            "la": "Sermon 130",
+            "en-US": "Sermon 130",
+            "pt-BR": "Sermão 130"
+          }
+        },
+        {
+          "id": "v04-ch048",
+          "title": {
+            "la": "Sermon 130a",
+            "en-US": "Sermon 130a",
+            "pt-BR": "Sermão 130a"
+          }
+        },
+        {
+          "id": "v04-ch049",
+          "title": {
+            "la": "Sermon 131",
+            "en-US": "Sermon 131",
+            "pt-BR": "Sermão 131"
+          }
+        },
+        {
+          "id": "v04-ch050",
+          "title": {
+            "la": "Sermon 132",
+            "en-US": "Sermon 132",
+            "pt-BR": "Sermão 132"
+          }
+        },
+        {
+          "id": "v04-ch051",
+          "title": {
+            "la": "Sermon 132a",
+            "en-US": "Sermon 132a",
+            "pt-BR": "Sermão 132a"
+          }
+        },
+        {
+          "id": "v04-ch052",
+          "title": {
+            "la": "Sermon 133",
+            "en-US": "Sermon 133",
+            "pt-BR": "Sermão 133"
+          }
+        },
+        {
+          "id": "v04-ch053",
+          "title": {
+            "la": "Sermon 134",
+            "en-US": "Sermon 134",
+            "pt-BR": "Sermão 134"
+          }
+        },
+        {
+          "id": "v04-ch054",
+          "title": {
+            "la": "Sermon 135",
+            "en-US": "Sermon 135",
+            "pt-BR": "Sermão 135"
+          }
+        },
+        {
+          "id": "v04-ch055",
+          "title": {
+            "la": "Sermon 136",
+            "en-US": "Sermon 136",
+            "pt-BR": "Sermão 136"
+          }
+        },
+        {
+          "id": "v04-ch056",
+          "title": {
+            "la": "Sermon 136a",
+            "en-US": "Sermon 136a",
+            "pt-BR": "Sermão 136a"
+          }
+        },
+        {
+          "id": "v04-ch057",
+          "title": {
+            "la": "Sermon 136b",
+            "en-US": "Sermon 136b",
+            "pt-BR": "Sermão 136b"
+          }
+        },
+        {
+          "id": "v04-ch058",
+          "title": {
+            "la": "Sermon 136c",
+            "en-US": "Sermon 136c",
+            "pt-BR": "Sermão 136c"
+          }
+        },
+        {
+          "id": "v04-ch059",
+          "title": {
+            "la": "Sermon 137",
+            "en-US": "Sermon 137",
+            "pt-BR": "Sermão 137"
+          }
+        },
+        {
+          "id": "v04-ch060",
+          "title": {
+            "la": "Sermon 138",
+            "en-US": "Sermon 138",
+            "pt-BR": "Sermão 138"
+          }
+        },
+        {
+          "id": "v04-ch061",
+          "title": {
+            "la": "Sermon 139",
+            "en-US": "Sermon 139",
+            "pt-BR": "Sermão 139"
+          }
+        },
+        {
+          "id": "v04-ch062",
+          "title": {
+            "la": "Sermon 139a",
+            "en-US": "Sermon 139a",
+            "pt-BR": "Sermão 139a"
+          }
+        },
+        {
+          "id": "v04-ch063",
+          "title": {
+            "la": "Sermon 140",
+            "en-US": "Sermon 140",
+            "pt-BR": "Sermão 140"
+          }
+        },
+        {
+          "id": "v04-ch064",
+          "title": {
+            "la": "Sermon 140a",
+            "en-US": "Sermon 140a",
+            "pt-BR": "Sermão 140a"
+          }
+        },
+        {
+          "id": "v04-ch065",
+          "title": {
+            "la": "Sermon 141",
+            "en-US": "Sermon 141",
+            "pt-BR": "Sermão 141"
+          }
+        },
+        {
+          "id": "v04-ch066",
+          "title": {
+            "la": "Sermon 142",
+            "en-US": "Sermon 142",
+            "pt-BR": "Sermão 142"
+          }
+        },
+        {
+          "id": "v04-ch067",
+          "title": {
+            "la": "Sermon 142 augm.",
+            "en-US": "Sermon 142: Augm.",
+            "pt-BR": "Sermão 142: ampl."
+          }
+        },
+        {
+          "id": "v04-ch068",
+          "title": {
+            "la": "Sermon 143",
+            "en-US": "Sermon 143",
+            "pt-BR": "Sermão 143"
+          }
+        },
+        {
+          "id": "v04-ch069",
+          "title": {
+            "la": "Sermon 144",
+            "en-US": "Sermon 144",
+            "pt-BR": "Sermão 144"
+          }
+        },
+        {
+          "id": "v04-ch070",
+          "title": {
+            "la": "Sermon 145",
+            "en-US": "Sermon 145",
+            "pt-BR": "Sermão 145"
+          }
+        },
+        {
+          "id": "v04-ch071",
+          "title": {
+            "la": "Sermon 145a",
+            "en-US": "Sermon 145a",
+            "pt-BR": "Sermão 145a"
+          }
+        },
+        {
+          "id": "v04-ch072",
+          "title": {
+            "la": "Sermon 146",
+            "en-US": "Sermon 146",
+            "pt-BR": "Sermão 146"
+          }
+        },
+        {
+          "id": "v04-ch073",
+          "title": {
+            "la": "Sermon 147",
+            "en-US": "Sermon 147",
+            "pt-BR": "Sermão 147"
+          }
+        },
+        {
+          "id": "v04-ch074",
+          "title": {
+            "la": "Sermon 147a",
+            "en-US": "Sermon 147a",
+            "pt-BR": "Sermão 147a"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v05",
+      "title": {
+        "la": "Sermones 148–183",
+        "en-US": "Sermons 148–183",
+        "pt-BR": "Sermões 148–183"
+      },
+      "children": [
+        {
+          "id": "v05-ch001",
+          "title": {
+            "la": "Sermo 148",
+            "en-US": "Sermon 148",
+            "pt-BR": "Sermo 148"
+          }
+        },
+        {
+          "id": "v05-ch002",
+          "title": {
+            "la": "Sermo 149",
+            "en-US": "Sermon 149",
+            "pt-BR": "Sermo 149"
+          }
+        },
+        {
+          "id": "v05-ch003",
+          "title": {
+            "la": "Sermo 150",
+            "en-US": "Sermon 150",
+            "pt-BR": "Sermo 150"
+          }
+        },
+        {
+          "id": "v05-ch004",
+          "title": {
+            "la": "Sermo 151",
+            "en-US": "Sermon 151",
+            "pt-BR": "Sermo 151"
+          }
+        },
+        {
+          "id": "v05-ch005",
+          "title": {
+            "la": "Sermo 152",
+            "en-US": "Sermon 152",
+            "pt-BR": "Sermo 152"
+          }
+        },
+        {
+          "id": "v05-ch006",
+          "title": {
+            "la": "Sermo 153",
+            "en-US": "Sermon 153",
+            "pt-BR": "Sermo 153"
+          }
+        },
+        {
+          "id": "v05-ch007",
+          "title": {
+            "la": "Sermo 154",
+            "en-US": "Sermon 154",
+            "pt-BR": "Sermo 154"
+          }
+        },
+        {
+          "id": "v05-ch008",
+          "title": {
+            "la": "Sermo 154/A",
+            "en-US": "Sermon 154/A",
+            "pt-BR": "Sermo 154/A"
+          }
+        },
+        {
+          "id": "v05-ch009",
+          "title": {
+            "la": "Sermo 155",
+            "en-US": "Sermon 155",
+            "pt-BR": "Sermo 155"
+          }
+        },
+        {
+          "id": "v05-ch010",
+          "title": {
+            "la": "Sermo 156",
+            "en-US": "Sermon 156",
+            "pt-BR": "Sermo 156"
+          }
+        },
+        {
+          "id": "v05-ch011",
+          "title": {
+            "la": "Sermo 157",
+            "en-US": "Sermon 157",
+            "pt-BR": "Sermo 157"
+          }
+        },
+        {
+          "id": "v05-ch012",
+          "title": {
+            "la": "Sermo 158",
+            "en-US": "Sermon 158",
+            "pt-BR": "Sermo 158"
+          }
+        },
+        {
+          "id": "v05-ch013",
+          "title": {
+            "la": "Sermo 159",
+            "en-US": "Sermon 159",
+            "pt-BR": "Sermo 159"
+          }
+        },
+        {
+          "id": "v05-ch014",
+          "title": {
+            "la": "Sermo 159/A",
+            "en-US": "Sermon 159/A",
+            "pt-BR": "Sermo 159/A"
+          }
+        },
+        {
+          "id": "v05-ch015",
+          "title": {
+            "la": "Sermo 159/B",
+            "en-US": "Sermon 159/B",
+            "pt-BR": "Sermo 159/B"
+          }
+        },
+        {
+          "id": "v05-ch016",
+          "title": {
+            "la": "Sermo 160",
+            "en-US": "Sermon 160",
+            "pt-BR": "Sermo 160"
+          }
+        },
+        {
+          "id": "v05-ch017",
+          "title": {
+            "la": "Sermo 161",
+            "en-US": "Sermon 161",
+            "pt-BR": "Sermo 161"
+          }
+        },
+        {
+          "id": "v05-ch018",
+          "title": {
+            "la": "Sermo 162",
+            "en-US": "Sermon 162",
+            "pt-BR": "Sermo 162"
+          }
+        },
+        {
+          "id": "v05-ch019",
+          "title": {
+            "la": "Sermo 162/A",
+            "en-US": "Sermon 162/A",
+            "pt-BR": "Sermo 162/A"
+          }
+        },
+        {
+          "id": "v05-ch020",
+          "title": {
+            "la": "Sermo 162/B",
+            "en-US": "Sermon 162/B",
+            "pt-BR": "Sermo 162/B"
+          }
+        },
+        {
+          "id": "v05-ch021",
+          "title": {
+            "la": "Sermo 162/C",
+            "en-US": "Sermon 162/C",
+            "pt-BR": "Sermo 162/C"
+          }
+        },
+        {
+          "id": "v05-ch022",
+          "title": {
+            "la": "Sermo 163",
+            "en-US": "Sermon 163",
+            "pt-BR": "Sermão 163"
+          }
+        },
+        {
+          "id": "v05-ch023",
+          "title": {
+            "la": "Sermo 163/A",
+            "en-US": "Sermon 163/A",
+            "pt-BR": "Sermão 163/A"
+          }
+        },
+        {
+          "id": "v05-ch024",
+          "title": {
+            "la": "Sermo 163/B",
+            "en-US": "Sermon 163/B",
+            "pt-BR": "Sermão 163/B"
+          }
+        },
+        {
+          "id": "v05-ch025",
+          "title": {
+            "la": "Sermo 164",
+            "en-US": "Sermon 164",
+            "pt-BR": "Sermão 164"
+          }
+        },
+        {
+          "id": "v05-ch026",
+          "title": {
+            "la": "Sermo 164/A",
+            "en-US": "Sermon 164/A",
+            "pt-BR": "Sermão 164/A"
+          }
+        },
+        {
+          "id": "v05-ch027",
+          "title": {
+            "la": "Sermo 165",
+            "en-US": "Sermon 165",
+            "pt-BR": "Sermão 165"
+          }
+        },
+        {
+          "id": "v05-ch028",
+          "title": {
+            "la": "Sermo 166",
+            "en-US": "Sermon 166",
+            "pt-BR": "Sermão 166"
+          }
+        },
+        {
+          "id": "v05-ch029",
+          "title": {
+            "la": "Sermo 167",
+            "en-US": "Sermon 167",
+            "pt-BR": "Sermão 167"
+          }
+        },
+        {
+          "id": "v05-ch030",
+          "title": {
+            "la": "Sermo 167/A",
+            "en-US": "Sermon 167/A",
+            "pt-BR": "Sermão 167/A"
+          }
+        },
+        {
+          "id": "v05-ch031",
+          "title": {
+            "la": "Sermo 168",
+            "en-US": "Sermon 168",
+            "pt-BR": "Sermão 168"
+          }
+        },
+        {
+          "id": "v05-ch032",
+          "title": {
+            "la": "Sermo 169",
+            "en-US": "Sermon 169",
+            "pt-BR": "Sermão 169"
+          }
+        },
+        {
+          "id": "v05-ch033",
+          "title": {
+            "la": "Sermo 170",
+            "en-US": "Sermon 170",
+            "pt-BR": "Sermão 170"
+          }
+        },
+        {
+          "id": "v05-ch034",
+          "title": {
+            "la": "Sermo 171",
+            "en-US": "Sermon 171",
+            "pt-BR": "Sermão 171"
+          }
+        },
+        {
+          "id": "v05-ch035",
+          "title": {
+            "la": "Sermo 172",
+            "en-US": "Sermon 172",
+            "pt-BR": "Sermão 172"
+          }
+        },
+        {
+          "id": "v05-ch036",
+          "title": {
+            "la": "Sermo 173",
+            "en-US": "Sermon 173",
+            "pt-BR": "Sermão 173"
+          }
+        },
+        {
+          "id": "v05-ch037",
+          "title": {
+            "la": "Sermo 174",
+            "en-US": "Sermon 174",
+            "pt-BR": "Sermão 174"
+          }
+        },
+        {
+          "id": "v05-ch038",
+          "title": {
+            "la": "Sermo 175",
+            "en-US": "Sermon 175",
+            "pt-BR": "Sermão 175"
+          }
+        },
+        {
+          "id": "v05-ch039",
+          "title": {
+            "la": "Sermo 176",
+            "en-US": "Sermon 176",
+            "pt-BR": "Sermão 176"
+          }
+        },
+        {
+          "id": "v05-ch040",
+          "title": {
+            "la": "Sermo 176/A",
+            "en-US": "Sermon 176/A",
+            "pt-BR": "Sermão 176/A"
+          }
+        },
+        {
+          "id": "v05-ch041",
+          "title": {
+            "la": "Sermo 177",
+            "en-US": "Sermon 177",
+            "pt-BR": "Sermão 177"
+          }
+        },
+        {
+          "id": "v05-ch042",
+          "title": {
+            "la": "Sermo 178",
+            "en-US": "Sermon 178",
+            "pt-BR": "Sermão 178"
+          }
+        },
+        {
+          "id": "v05-ch043",
+          "title": {
+            "la": "Sermo 179",
+            "en-US": "Sermon 179",
+            "pt-BR": "Sermão 179"
+          }
+        },
+        {
+          "id": "v05-ch044",
+          "title": {
+            "la": "Sermo 179/A",
+            "en-US": "Sermon 179/A",
+            "pt-BR": "Sermão 179/A"
+          }
+        },
+        {
+          "id": "v05-ch045",
+          "title": {
+            "la": "Sermo 180",
+            "en-US": "Sermon 180",
+            "pt-BR": "Sermão 180"
+          }
+        },
+        {
+          "id": "v05-ch046",
+          "title": {
+            "la": "Sermo 181",
+            "en-US": "Sermon 181",
+            "pt-BR": "Sermão 181"
+          }
+        },
+        {
+          "id": "v05-ch047",
+          "title": {
+            "la": "Sermo 182",
+            "en-US": "Sermon 182",
+            "pt-BR": "Sermão 182"
+          }
+        },
+        {
+          "id": "v05-ch048",
+          "title": {
+            "la": "Sermo 183",
+            "en-US": "Sermon 183",
+            "pt-BR": "Sermão 183"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v06",
+      "title": {
+        "la": "Sermones 184–229Z",
+        "en-US": "Sermons 184–229Z",
+        "pt-BR": "Sermões 184–229Z"
+      },
+      "children": [
+        {
+          "id": "v06-ch001",
+          "title": {
+            "la": "Sermo 184 — in Natali Domini",
+            "en-US": "Sermon 184: On the Birthday of the Lord",
+            "pt-BR": "Sermão 184: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch002",
+          "title": {
+            "la": "Sermo 185 — in Natali Domini",
+            "en-US": "Sermon 185: On the Birthday of the Lord",
+            "pt-BR": "Sermão 185: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch003",
+          "title": {
+            "la": "Sermo 186 — in Natali Domini",
+            "en-US": "Sermon 186: On the Birthday of the Lord",
+            "pt-BR": "Sermão 186: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch004",
+          "title": {
+            "la": "Sermo 187 — in Natali Domini",
+            "en-US": "Sermon 187: On the Birthday of the Lord",
+            "pt-BR": "Sermão 187: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch005",
+          "title": {
+            "la": "Sermo 188 — in Natali Domini",
+            "en-US": "Sermon 188: On the Birthday of the Lord",
+            "pt-BR": "Sermão 188: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch006",
+          "title": {
+            "la": "Sermo 189 — in Natali Domini",
+            "en-US": "Sermon 189: On the Birthday of the Lord",
+            "pt-BR": "Sermão 189: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch007",
+          "title": {
+            "la": "Sermo 190 — in Natali Domini",
+            "en-US": "Sermon 190: On the Birthday of the Lord",
+            "pt-BR": "Sermão 190: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch008",
+          "title": {
+            "la": "Sermo 191 — in Natali Domini",
+            "en-US": "Sermon 191: On the Birthday of the Lord",
+            "pt-BR": "Sermão 191: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch009",
+          "title": {
+            "la": "Sermo 192 — in Natali Domini",
+            "en-US": "Sermon 192: On the Birthday of the Lord",
+            "pt-BR": "Sermão 192: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch010",
+          "title": {
+            "la": "Sermo 193 — in Natali Domini",
+            "en-US": "Sermon 193: On the Birthday of the Lord",
+            "pt-BR": "Sermão 193: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch011",
+          "title": {
+            "la": "Sermo 194 — in Natali Domini",
+            "en-US": "Sermon 194: On the Birthday of the Lord",
+            "pt-BR": "Sermão 194: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch012",
+          "title": {
+            "la": "Sermo 195 — in Natali Domini",
+            "en-US": "Sermon 195: On the Birthday of the Lord",
+            "pt-BR": "Sermão 195: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch013",
+          "title": {
+            "la": "Sermo 196 — in Natali Domini",
+            "en-US": "Sermon 196: On the Birthday of the Lord",
+            "pt-BR": "Sermão 196: No Natal do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch014",
+          "title": {
+            "la": "Sermo 196/A",
+            "en-US": "Sermon 196/A",
+            "pt-BR": "Sermão 196/A"
+          }
+        },
+        {
+          "id": "v06-ch015",
+          "title": {
+            "la": "Sermo 197 — de Calendis Ianuariis, contra Paganos",
+            "en-US": "Sermon 197: On the Kalends of January, Against the Pagans",
+            "pt-BR": "Sermão 197: Sobre as Calendas de Janeiro, Contra os Pagãos"
+          }
+        },
+        {
+          "id": "v06-ch016",
+          "title": {
+            "la": "Sermo 198 — de Calendis Ianuariis, contra Paganos.",
+            "en-US": "Sermon 198: On the Kalends of January, Against the Pagans",
+            "pt-BR": "Sermão 198: Sobre as Calendas de Janeiro, Contra os Pagãos"
+          }
+        },
+        {
+          "id": "v06-ch017",
+          "title": {
+            "la": "Sermo 198/A — de Calendis Ianuariis, contra Paganos",
+            "en-US": "Sermon 198/A: On the Kalends of January, Against the Pagans",
+            "pt-BR": "Sermão 198/A: Sobre as Calendas de Janeiro, Contra os Pagãos"
+          }
+        },
+        {
+          "id": "v06-ch018",
+          "title": {
+            "la": "Sermo 198 augm.",
+            "en-US": "Sermon 198: Augmented",
+            "pt-BR": "Sermão 198: Ampliado"
+          }
+        },
+        {
+          "id": "v06-ch019",
+          "title": {
+            "la": "Sermo 199 — in Epiphania Domini",
+            "en-US": "Sermon 199: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 199: Na Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch020",
+          "title": {
+            "la": "Sermo 200 — in Epiphania Domini",
+            "en-US": "Sermon 200: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 200: Na Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch021",
+          "title": {
+            "la": "Sermo 201 — in Epiphania Domini",
+            "en-US": "Sermon 201: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 201: Na Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch022",
+          "title": {
+            "la": "Sermo 202 — in Epiphania Domini",
+            "en-US": "Sermon 202: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 202: Na Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch023",
+          "title": {
+            "la": "Sermo 203 — in Epiphania Domini",
+            "en-US": "Sermon 203: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 203: Na Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch024",
+          "title": {
+            "la": "Sermo 204 — in Epiphania Domini",
+            "en-US": "Sermon 204: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 204: Na Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch025",
+          "title": {
+            "la": "Sermo 204/A — Sermo de Epiphania",
+            "en-US": "Sermon 204/A: A Sermon on the Epiphany",
+            "pt-BR": "Sermão 204/A: Sermão sobre a Epifania"
+          }
+        },
+        {
+          "id": "v06-ch026",
+          "title": {
+            "la": "Sermo 205 — in Quadragesima",
+            "en-US": "Sermon 205: In Lent",
+            "pt-BR": "Sermão 205: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch027",
+          "title": {
+            "la": "Sermo 206 — in Quadragesima",
+            "en-US": "Sermon 206: In Lent",
+            "pt-BR": "Sermão 206: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch028",
+          "title": {
+            "la": "Sermo 207 — in Quadragesima",
+            "en-US": "Sermon 207: In Lent",
+            "pt-BR": "Sermão 207: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch029",
+          "title": {
+            "la": "Sermo 208 — in Quadragesima",
+            "en-US": "Sermon 208: In Lent",
+            "pt-BR": "Sermão 208: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch030",
+          "title": {
+            "la": "Sermo 209 — in Quadragesima",
+            "en-US": "Sermon 209: In Lent",
+            "pt-BR": "Sermão 209: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch031",
+          "title": {
+            "la": "Sermo 210 — in Quadragesima",
+            "en-US": "Sermon 210: In Lent",
+            "pt-BR": "Sermão 210: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch032",
+          "title": {
+            "la": "Sermo 211 — in Quadragesima",
+            "en-US": "Sermon 211: In Lent",
+            "pt-BR": "Sermão 211: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch033",
+          "title": {
+            "la": "Sermo 211/A — in Quadragesima",
+            "en-US": "Sermon 211/A: In Lent",
+            "pt-BR": "Sermão 211/A: Na Quaresma"
+          }
+        },
+        {
+          "id": "v06-ch034",
+          "title": {
+            "la": "Sermo 212 — in Traditione Symboli",
+            "en-US": "Sermon 212: On the Handing Over of the Creed",
+            "pt-BR": "Sermão 212: Na Entrega do Símbolo"
+          }
+        },
+        {
+          "id": "v06-ch035",
+          "title": {
+            "la": "Sermo 213 — in Traditione Symboli",
+            "en-US": "Sermon 213: On the Handing Over of the Creed",
+            "pt-BR": "Sermão 213: Na Entrega do Símbolo"
+          }
+        },
+        {
+          "id": "v06-ch036",
+          "title": {
+            "la": "Sermo 214 — in Traditione Symboli",
+            "en-US": "Sermon 214: On the Handing Over of the Creed",
+            "pt-BR": "Sermão 214: Na Entrega do Símbolo"
+          }
+        },
+        {
+          "id": "v06-ch037",
+          "title": {
+            "la": "Sermo 214/A — Augustinus in explanatione Symboli",
+            "en-US": "Sermon 214/A: Augustine in His Explanation of the Creed",
+            "pt-BR": "Sermão 214/A: Agostinho na sua explanação do Símbolo"
+          }
+        },
+        {
+          "id": "v06-ch038",
+          "title": {
+            "la": "Sermo 215 — in Redditione Symboli",
+            "en-US": "Sermon 215: On the Giving Back of the Creed",
+            "pt-BR": "Sermão 215: Na entrega do Símbolo"
+          }
+        },
+        {
+          "id": "v06-ch039",
+          "title": {
+            "la": "Sermo 216 — in Redditione Symboli",
+            "en-US": "Sermon 216: On the Giving Back of the Creed",
+            "pt-BR": "Sermão 216: Na entrega do Símbolo"
+          }
+        },
+        {
+          "id": "v06-ch040",
+          "title": {
+            "la": "Sermo 217 — de Verbis Domini in Evangelio Ioannis:: \"Haec Est Vita Aeterna Ut",
+            "en-US": "Sermon 217: On the Words of the Lord in the Gospel of John:",
+            "pt-BR": "Sermão 217: Sobre as palavras do Senhor no Evangelho de João:"
+          }
+        },
+        {
+          "id": "v06-ch041",
+          "title": {
+            "la": "Sermo 218 — de Passione Domini in Parasceve.",
+            "en-US": "Sermon 218: On the Passion of the Lord, on Good Friday",
+            "pt-BR": "Sermão 218: Sobre a Paixão do Senhor, na Sexta-feira Santa"
+          }
+        },
+        {
+          "id": "v06-ch042",
+          "title": {
+            "la": "Sermo 218/A — ex Sermone de Passione Domini: In Collectione Bedae et Flori",
+            "en-US": "Sermon 218/A: From a Sermon on the Passion of the Lord",
+            "pt-BR": "Sermão 218/A: De um Sermão sobre a Paixão do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch043",
+          "title": {
+            "la": "Sermo 218/B — de Passione Domini",
+            "en-US": "Sermon 218/B: On the Passion of the Lord",
+            "pt-BR": "Sermão 218/B: Sobre a Paixão do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch044",
+          "title": {
+            "la": "Sermo 218/C — de Passione Domini",
+            "en-US": "Sermon 218/C: On the Passion of the Lord",
+            "pt-BR": "Sermão 218/C: Sobre a Paixão do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch045",
+          "title": {
+            "la": "Sermo 218 augm. — Tractatus sancti Augustini de passione Domini",
+            "en-US": "Sermon 218: Augmented — a Treatise of Saint Augustine on the Passion of the Lord",
+            "pt-BR": "Sermão 218: Ampliado — um Tratado de Santo Agostinho sobre a Paixão do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch046",
+          "title": {
+            "la": "Sermo 219 — in Vigiliis Paschae",
+            "en-US": "Sermon 219: On the Paschal Vigil",
+            "pt-BR": "Sermão 219: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch047",
+          "title": {
+            "la": "Sermo 220 — in Vigiliis Paschae",
+            "en-US": "Sermon 220: On the Paschal Vigil",
+            "pt-BR": "Sermão 220: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch048",
+          "title": {
+            "la": "Sermo 221 — de Nocte Sancta",
+            "en-US": "Sermon 221: On the Holy Night",
+            "pt-BR": "Sermão 221: Sobre a Noite Santa"
+          }
+        },
+        {
+          "id": "v06-ch049",
+          "title": {
+            "la": "Sermo 222 — in Vigiliis Paschae",
+            "en-US": "Sermon 222: On the Paschal Vigil",
+            "pt-BR": "Sermão 222: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch050",
+          "title": {
+            "la": "Sermo 223 — in Vigiliis Paschae",
+            "en-US": "Sermon 223: On the Paschal Vigil",
+            "pt-BR": "Sermão 223: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch051",
+          "title": {
+            "la": "Sermo 223/A — de Principio Genesis, in Vigiliis Paschae",
+            "en-US": "Sermon 223/A: On the Beginning of Genesis, on the Paschal Vigil",
+            "pt-BR": "Sermão 223/A: Sobre o começo do Gênesis, na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch052",
+          "title": {
+            "la": "Sermo 223/B — Tractatus de Nocte Sancta",
+            "en-US": "Sermon 223/B: A Treatise on the Holy Night",
+            "pt-BR": "Sermão 223/B: Um Tratado sobre a Noite Santa"
+          }
+        },
+        {
+          "id": "v06-ch053",
+          "title": {
+            "la": "Sermo 223/C — de Nocte Sancta",
+            "en-US": "Sermon 223/C: On the Holy Night",
+            "pt-BR": "Sermão 223/C: Sobre a Noite Santa"
+          }
+        },
+        {
+          "id": "v06-ch054",
+          "title": {
+            "la": "Sermo 223/D — in Vigiliis Paschae",
+            "en-US": "Sermon 223/D: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/D: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch055",
+          "title": {
+            "la": "Sermo 223/E — in Vigiliis Paschae",
+            "en-US": "Sermon 223/E: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/E: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch056",
+          "title": {
+            "la": "Sermo 223/F — in Vigiliis Paschae",
+            "en-US": "Sermon 223/F: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/F: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch057",
+          "title": {
+            "la": "Sermo 223/G — in Vigiliis Paschae",
+            "en-US": "Sermon 223/G: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/G: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch058",
+          "title": {
+            "la": "Sermo 223/H — in Vigiliis Paschae",
+            "en-US": "Sermon 223/H: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/H: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch059",
+          "title": {
+            "la": "Sermo 223/I — in Vigiliis Paschae",
+            "en-US": "Sermon 223/I: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/I: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch060",
+          "title": {
+            "la": "Sermo 223/J — in Vigiliis Paschae",
+            "en-US": "Sermon 223/J: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/J: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch061",
+          "title": {
+            "la": "Sermo 223/K — in Vigiliis Paschae",
+            "en-US": "Sermon 223/K: On the Paschal Vigil",
+            "pt-BR": "Sermão 223/K: Na Vigília Pascal"
+          }
+        },
+        {
+          "id": "v06-ch062",
+          "title": {
+            "la": "Sermo 224 — in Die Paschae",
+            "en-US": "Sermon 224: On the Day of Easter",
+            "pt-BR": "Sermão 224: No dia da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch063",
+          "title": {
+            "la": "Sermo 225 — in Die Paschae",
+            "en-US": "Sermon 225: On the Day of Easter",
+            "pt-BR": "Sermão 225: No dia da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch064",
+          "title": {
+            "la": "Sermo 226 — in Die Paschae",
+            "en-US": "Sermon 226: On the Day of Easter",
+            "pt-BR": "Sermão 226: No dia da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch065",
+          "title": {
+            "la": "Sermo 227 — Habitus Die Sancto Paschae",
+            "en-US": "Sermon 227: Delivered on the Holy Day of Easter",
+            "pt-BR": "Sermão 227: Pregado no santo dia da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch066",
+          "title": {
+            "la": "Sermo 228 — in Die Paschae",
+            "en-US": "Sermon 228: On the Day of Easter",
+            "pt-BR": "Sermão 228: No dia da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch067",
+          "title": {
+            "la": "Sermo 228/A — ex Sermone de Resurrectione Domini",
+            "en-US": "Sermon 228/A: From a Sermon on the Resurrection of the Lord",
+            "pt-BR": "Sermão 228/A: De um Sermão sobre a Ressurreição do Senhor"
+          }
+        },
+        {
+          "id": "v06-ch068",
+          "title": {
+            "la": "Sermo 228/B — de Sacramentis in Die Paschae",
+            "en-US": "Sermon 228/B: On the Sacraments, on the Day of Easter",
+            "pt-BR": "Sermão 228/B: Sobre os Sacramentos, no dia da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch069",
+          "title": {
+            "la": "Sermo 229 — de Sacramentis Fidelium",
+            "en-US": "Sermon 229: On the Sacraments of the Faithful",
+            "pt-BR": "Sermão 229: Sobre os Sacramentos dos fiéis"
+          }
+        },
+        {
+          "id": "v06-ch070",
+          "title": {
+            "la": "Sermo 229/A — Tractatus de Dominica Sanctae Paschae",
+            "en-US": "Sermon 229/A: A Tractate on the Lord's Day of Holy Easter",
+            "pt-BR": "Sermão 229/A: Um Tratado no Dia do Senhor da santa Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch071",
+          "title": {
+            "la": "Sermo 229/B — Tractatus de Dominica Sanctae Paschae",
+            "en-US": "Sermon 229/B: A Tractate on the Lord's Day of Holy Easter",
+            "pt-BR": "Sermão 229/B: Um Tratado no Dia do Senhor da santa Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch072",
+          "title": {
+            "la": "Sermo 229/C — de Sancta Pascha",
+            "en-US": "Sermon 229/C: On Holy Easter",
+            "pt-BR": "Sermão 229/C: Sobre a santa Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch073",
+          "title": {
+            "la": "Sermo 229/D — de Sancta Pascha",
+            "en-US": "Sermon 229/D: On Holy Easter",
+            "pt-BR": "Sermão 229/D: Sobre a santa Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch074",
+          "title": {
+            "la": "Sermo 229/E — Tractatus de Secunda Feria Paschae",
+            "en-US": "Sermon 229/E: A Tractate on the Monday of Easter",
+            "pt-BR": "Sermão 229/E: Um Tratado sobre a Segunda-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch075",
+          "title": {
+            "la": "Sermo 229/F — Tractatus de Secunda Feria Paschae",
+            "en-US": "Sermon 229/F: A Tractate on the Monday of Easter",
+            "pt-BR": "Sermão 229/F: Um Tratado sobre a Segunda-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch076",
+          "title": {
+            "la": "Sermo 229/G — de Tertia Feria Paschae",
+            "en-US": "Sermon 229/G: On the Tuesday of Easter",
+            "pt-BR": "Sermão 229/G: Sobre a Terça-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch077",
+          "title": {
+            "la": "Sermo 229/H — Tractatus de Tertia Feria Paschae",
+            "en-US": "Sermon 229/H: A Tractate on the Tuesday of Easter",
+            "pt-BR": "Sermão 229/H: Um Tratado sobre a Terça-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch078",
+          "title": {
+            "la": "Sermo 229/I — Tractatus de Quarta Feria Paschae",
+            "en-US": "Sermon 229/I: A Tractate on the Wednesday of Easter",
+            "pt-BR": "Sermão 229/I: Um Tratado sobre a Quarta-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch079",
+          "title": {
+            "la": "Sermo 229/J — Tractatus de Quarta Feria Paschae",
+            "en-US": "Sermon 229/J: A Tractate on the Wednesday of Easter",
+            "pt-BR": "Sermão 229/J: Um Tratado sobre a Quarta-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch080",
+          "title": {
+            "la": "Sermo 229/K — Tractatus de Quinta Feria Paschae",
+            "en-US": "Sermon 229/K: A Tractate on the Thursday of Easter",
+            "pt-BR": "Sermão 229/K: Um Tratado sobre a Quinta-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch081",
+          "title": {
+            "la": "Sermo 229/L — Tractatus de Quinta Feria Sanctae Paschae",
+            "en-US": "Sermon 229/L: A Tractate on the Thursday of Holy Easter",
+            "pt-BR": "Sermão 229/L: Um Tratado sobre a Quinta-feira da santa Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch082",
+          "title": {
+            "la": "Sermo 229/M — Tractatus de Sexta Feria Paschae",
+            "en-US": "Sermon 229/M: A Tractate on the Friday of Easter",
+            "pt-BR": "Sermão 229/M: Um Tratado sobre a Sexta-feira da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch083",
+          "title": {
+            "la": "Sermo 229/N — Tractatus de Sabbato Octavarum Sanctae Paschae",
+            "en-US": "Sermon 229/N: A Tractate on the Saturday of the Octave of Holy Easter",
+            "pt-BR": "Sermão 229/N: Um Tratado sobre o Sábado da Oitava da santa Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch084",
+          "title": {
+            "la": "Sermo 229/O — Tractatus de Sabbato Octavarum Sanctae Paschae",
+            "en-US": "Sermon 229/O: A Tractate on the Saturday of the Octave of Holy Easter",
+            "pt-BR": "Sermão 229/O: Um Tratado sobre o Sábado da Oitava da santa Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch085",
+          "title": {
+            "la": "Sermo 229/P — de Amore Petri",
+            "en-US": "Sermon 229/P: On the Love of Peter",
+            "pt-BR": "Sermão 229/P: Sobre o Amor de Pedro"
+          }
+        },
+        {
+          "id": "v06-ch086",
+          "title": {
+            "la": "Sermo 229/R — ex Sermonibus Octavarum Paschae",
+            "en-US": "Sermon 229/R: From the Sermons of the Octave of Easter",
+            "pt-BR": "Sermão 229/R: Dos Sermões da Oitava da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch087",
+          "title": {
+            "la": "Sermo 229/S — ex Sermonibus Octavarum Paschae",
+            "en-US": "Sermon 229/S: From the Sermons of the Octave of Easter",
+            "pt-BR": "Sermão 229/S: Dos Sermões da Oitava da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch088",
+          "title": {
+            "la": "Sermo 229/T — ex Sermonibus Octavarum Paschae",
+            "en-US": "Sermon 229/T: From the Sermons of the Octave of Easter",
+            "pt-BR": "Sermão 229/T: Dos Sermões da Oitava da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch089",
+          "title": {
+            "la": "Sermo 229/U — ex Sermonibus Octavarum Paschae",
+            "en-US": "Sermon 229/U: From the Sermons of the Octave of Easter",
+            "pt-BR": "Sermão 229/U: Dos Sermões da Oitava da Páscoa"
+          }
+        },
+        {
+          "id": "v06-ch090",
+          "title": {
+            "la": "Sermo 229/V — ex Sermonibus Octavarum Paschae",
+            "en-US": "Sermon 229/V: From the Sermons of the Octave of Easter",
+            "pt-BR": "Sermão 229/V: Dos Sermões da Oitava da Páscoa"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v07",
+      "title": {
+        "la": "Sermones 230–272Z",
+        "en-US": "Sermons 230–272Z",
+        "pt-BR": "Sermões 230–272Z"
+      },
+      "children": [
+        {
+          "id": "v07-ch001",
+          "title": {
+            "la": "Sermo 230. In Diebus Paschalibus",
+            "en-US": "Sermon 230: In the Days of Easter",
+            "pt-BR": "Sermão 230: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch002",
+          "title": {
+            "la": "Sermo 231. In Diebus Paschalibus",
+            "en-US": "Sermon 231: In the Days of Easter",
+            "pt-BR": "Sermão 231: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch003",
+          "title": {
+            "la": "Sermo 232. In Diebus Paschalibus",
+            "en-US": "Sermon 232: In the Days of Easter",
+            "pt-BR": "Sermão 232: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch004",
+          "title": {
+            "la": "Sermo 233. In Diebus Paschalibus",
+            "en-US": "Sermon 233: In the Days of Easter",
+            "pt-BR": "Sermão 233: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch005",
+          "title": {
+            "la": "Sermo 234. In Diebus Paschalibus",
+            "en-US": "Sermon 234: In the Days of Easter",
+            "pt-BR": "Sermão 234: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch006",
+          "title": {
+            "la": "Sermo 235. De Secunda Feriae Paschae",
+            "en-US": "Sermon 235: On the Monday of Easter Week",
+            "pt-BR": "Sermão 235: Na Segunda-feira da Semana Pascal"
+          }
+        },
+        {
+          "id": "v07-ch007",
+          "title": {
+            "la": "Sermo 236. In Diebus Paschalibus",
+            "en-US": "Sermon 236: In the Days of Easter",
+            "pt-BR": "Sermão 236: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch008",
+          "title": {
+            "la": "Sermo 236/A. De Secunda Feriae Paschae",
+            "en-US": "Sermon 236/A: On the Monday of Easter Week",
+            "pt-BR": "Sermão 236/A: Na Segunda-feira da Semana Pascal"
+          }
+        },
+        {
+          "id": "v07-ch009",
+          "title": {
+            "la": "Sermo 237. Tractatus Habitus Quarta Feria",
+            "en-US": "Sermon 237: A Discourse Given on Wednesday",
+            "pt-BR": "Sermão 237: Discurso Proferido na Quarta-feira"
+          }
+        },
+        {
+          "id": "v07-ch010",
+          "title": {
+            "la": "Sermo 238. In Diebus Paschalibus",
+            "en-US": "Sermon 238: In the Days of Easter",
+            "pt-BR": "Sermão 238: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch011",
+          "title": {
+            "la": "Sermo 239. In Diebus Paschalibus de Resurrectione Christi Secundum MC et LC",
+            "en-US": "Sermon 239: In the Days of Easter, on the Resurrection of Christ According to Mark and Luke",
+            "pt-BR": "Sermão 239: Nos Dias Pascais, sobre a Ressurreição de Cristo segundo Marcos e Lucas"
+          }
+        },
+        {
+          "id": "v07-ch012",
+          "title": {
+            "la": "Sermo 240. In Diebus Paschalibus de Resurrectione Corporum, contra Gentiles",
+            "en-US": "Sermon 240: In the Days of Easter, on the Resurrection of Bodies, Against the Gentiles",
+            "pt-BR": "Sermão 240: Nos Dias Pascais, sobre a Ressurreição dos Corpos, Contra os Gentios"
+          }
+        },
+        {
+          "id": "v07-ch013",
+          "title": {
+            "la": "Sermo 241. In Diebus Paschalibus de Resurrectione Corporum, contra Gentiles",
+            "en-US": "Sermon 241: In the Days of Easter, on the Resurrection of Bodies, Against the Gentiles",
+            "pt-BR": "Sermão 241: Nos Dias Pascais, sobre a Ressurreição dos Corpos, Contra os Gentios"
+          }
+        },
+        {
+          "id": "v07-ch014",
+          "title": {
+            "la": "Sermo 242. In Diebus Paschalibus de Resurrectione Corporum, contra Gentiles.",
+            "en-US": "Sermon 242: In the Days of Easter, on the Resurrection of Bodies, Against the Gentiles.",
+            "pt-BR": "Sermão 242: Nos Dias Pascais, sobre a Ressurreição dos Corpos, Contra os Gentios."
+          }
+        },
+        {
+          "id": "v07-ch015",
+          "title": {
+            "la": "Sermo 242/A. In Diebus Paschalibus de Resurrectione Corporum",
+            "en-US": "Sermon 242/A: In the Days of Easter, on the Resurrection of Bodies",
+            "pt-BR": "Sermão 242/A: Nos Dias Pascais, sobre a Ressurreição dos Corpos"
+          }
+        },
+        {
+          "id": "v07-ch016",
+          "title": {
+            "la": "Sermo 243. In Diebus Paschalibus de Resurrectione Domini Secundum Ioannem",
+            "en-US": "Sermon 243: In the Days of Easter, on the Resurrection of the Lord According to John",
+            "pt-BR": "Sermão 243: Nos Dias Pascais, sobre a Ressurreição do Senhor segundo João"
+          }
+        },
+        {
+          "id": "v07-ch017",
+          "title": {
+            "la": "Sermo 244. In Diebus Paschalibus",
+            "en-US": "Sermon 244: In the Days of Easter",
+            "pt-BR": "Sermão 244: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch018",
+          "title": {
+            "la": "Sermo 245. In Diebus Paschalibus",
+            "en-US": "Sermon 245: In the Days of Easter",
+            "pt-BR": "Sermão 245: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch019",
+          "title": {
+            "la": "Sermo 246. In Diebus Paschalibus Tractatus Habitus Quinta Feria",
+            "en-US": "Sermon 246: In the Days of Easter, a Discourse Given on Thursday",
+            "pt-BR": "Sermão 246: Nos Dias Pascais, Discurso Proferido na Quinta-feira"
+          }
+        },
+        {
+          "id": "v07-ch020",
+          "title": {
+            "la": "Sermo 247. In Diebus Paschalibus",
+            "en-US": "Sermon 247: In the Days of Easter",
+            "pt-BR": "Sermão 247: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch021",
+          "title": {
+            "la": "Sermo 248. In Diebus Paschalibus",
+            "en-US": "Sermon 248: In the Days of Easter",
+            "pt-BR": "Sermão 248: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch022",
+          "title": {
+            "la": "Sermo 249. In Diebus Paschalibus",
+            "en-US": "Sermon 249: In the Days of Easter",
+            "pt-BR": "Sermão 249: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch023",
+          "title": {
+            "la": "Sermo 250. In Diebus Paschalibus",
+            "en-US": "Sermon 250: In the Days of Easter",
+            "pt-BR": "Sermão 250: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch024",
+          "title": {
+            "la": "Sermo 251. In Diebus Paschalibus",
+            "en-US": "Sermon 251: In the Days of Easter",
+            "pt-BR": "Sermão 251: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch025",
+          "title": {
+            "la": "Sermo 252. In Diebus Paschalibus",
+            "en-US": "Sermon 252: In the Days of Easter",
+            "pt-BR": "Sermão 252: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch026",
+          "title": {
+            "la": "Sermo 252/A. In Diebus Paschalibus Sermo Sancti Augustini de Evangelio Io 21",
+            "en-US": "Sermon 252/A: In the Days of Easter, a Sermon of Saint Augustine on the Gospel, John 21",
+            "pt-BR": "Sermão 252/A: Nos Dias Pascais, Sermão de Santo Agostinho sobre o Evangelho, Jo 21"
+          }
+        },
+        {
+          "id": "v07-ch027",
+          "title": {
+            "la": "Sermo 253. In Diebus Paschalibus",
+            "en-US": "Sermon 253: In the Days of Easter",
+            "pt-BR": "Sermão 253: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch028",
+          "title": {
+            "la": "Sermo 254. In Diebus Paschalibus",
+            "en-US": "Sermon 254: In the Days of Easter",
+            "pt-BR": "Sermão 254: Nos Dias Pascais"
+          }
+        },
+        {
+          "id": "v07-ch029",
+          "title": {
+            "la": "Sermo 255. In Diebus Paschalibus de Alleluia.",
+            "en-US": "Sermon 255: In the Days of Easter, on the Alleluia.",
+            "pt-BR": "Sermão 255: Nos Dias Pascais, sobre o Aleluia."
+          }
+        },
+        {
+          "id": "v07-ch030",
+          "title": {
+            "la": "Sermo 255/A. In Diebus Paschalibus de Alleluia",
+            "en-US": "Sermon 255/A: In the Days of Easter, on the Alleluia",
+            "pt-BR": "Sermão 255/A: Nos dias pascais, sobre o Aleluia"
+          }
+        },
+        {
+          "id": "v07-ch031",
+          "title": {
+            "la": "Sermo 256. In Diebus Paschalibus de Alleluia",
+            "en-US": "Sermon 256: In the Days of Easter, on the Alleluia",
+            "pt-BR": "Sermão 256: Nos dias pascais, sobre o Aleluia"
+          }
+        },
+        {
+          "id": "v07-ch032",
+          "title": {
+            "la": "Sermo 257. In Diebus Paschalibus Tractatus Die Dominica Quem Dixit ad Memoriam Sanctorum",
+            "en-US": "Sermon 257: In the Days of Easter, a Discourse on the Lord's Day Which He Gave at the Memorial of the Saints",
+            "pt-BR": "Sermão 257: Nos dias pascais, um discurso no dia do Senhor que proferiu na memória dos santos"
+          }
+        },
+        {
+          "id": "v07-ch033",
+          "title": {
+            "la": "Sermo 258. Alius Sermo Quem Dixit ad Basilicam Maiorem Eadem Die",
+            "en-US": "Sermon 258: Another Sermon Which He Gave at the Greater Basilica on the Same Day",
+            "pt-BR": "Sermão 258: Outro sermão que proferiu na Basílica Maior no mesmo dia"
+          }
+        },
+        {
+          "id": "v07-ch034",
+          "title": {
+            "la": "Sermo 259. In Die Dominico Octavarum Paschae",
+            "en-US": "Sermon 259: On the Lord's Day of the Octave of Easter",
+            "pt-BR": "Sermão 259: No dia do Senhor da oitava da Páscoa"
+          }
+        },
+        {
+          "id": "v07-ch035",
+          "title": {
+            "la": "Sermo 260. Habitus Eodem Die in Ecclesia Leontiana de Monitis Baptizatorum",
+            "en-US": "Sermon 260: Given on the Same Day in the Leontian Church, on the Instructions for the Baptized",
+            "pt-BR": "Sermão 260: Proferido no mesmo dia na Igreja Leonciana, sobre as instruções aos batizados"
+          }
+        },
+        {
+          "id": "v07-ch036",
+          "title": {
+            "la": "Sermo 260/A. In Octavis Paschae: Ad Infantes",
+            "en-US": "Sermon 260/A: In the Octave of Easter - to the Infants",
+            "pt-BR": "Sermão 260/A: Na oitava da Páscoa - aos infantes"
+          }
+        },
+        {
+          "id": "v07-ch037",
+          "title": {
+            "la": "Sermo 260/B. Sermo Habitus in Diebus Octavarum Paschae in Quo Specialiter Infantes Alloquitur",
+            "en-US": "Sermon 260/B: A Sermon Given in the Days of the Octave of Easter, in Which He Addresses Especially the Infants",
+            "pt-BR": "Sermão 260/B: Um sermão proferido nos dias da oitava da Páscoa, no qual se dirige especialmente aos infantes"
+          }
+        },
+        {
+          "id": "v07-ch038",
+          "title": {
+            "la": "Sermo 260/C. De Dominico Die Octavarum Sanctae Paschae",
+            "en-US": "Sermon 260/C: On the Lord's Day of the Octave of Holy Easter",
+            "pt-BR": "Sermão 260/C: No dia do Senhor da oitava da santa Páscoa"
+          }
+        },
+        {
+          "id": "v07-ch039",
+          "title": {
+            "la": "Sermo 260/D. Tractatus de Dominico Die Octavarum Sanctae Paschae",
+            "en-US": "Sermon 260/D: A Discourse on the Lord's Day of the Octave of Holy Easter",
+            "pt-BR": "Sermão 260/D: Um discurso no dia do Senhor da oitava da santa Páscoa"
+          }
+        },
+        {
+          "id": "v07-ch040",
+          "title": {
+            "la": "Sermo 260/E. Tractatus de Dominico Die Octavarum Sanctae Paschae",
+            "en-US": "Sermon 260/E: A Discourse on the Lord's Day of the Octave of Holy Easter",
+            "pt-BR": "Sermão 260/E: Um discurso no dia do Senhor da oitava da santa Páscoa"
+          }
+        },
+        {
+          "id": "v07-ch041",
+          "title": {
+            "la": "Sermo 261. Sermo Habitus Carthagine in Basilica Fausti Quadragesima Ascensionis Domini Iesu Christi",
+            "en-US": "Sermon 261: A Sermon Given at Carthage in the Basilica of Faustus on the Fortieth Day, the Ascension of the Lord Jesus Christ",
+            "pt-BR": "Sermão 261: Um sermão proferido em Cartago, na Basílica de Fausto, no quadragésimo dia, a Ascensão do Senhor Jesus Cristo"
+          }
+        },
+        {
+          "id": "v07-ch042",
+          "title": {
+            "la": "Sermo 262. In Die Ascensionis Domini Habitus in Basilica Leontiana.",
+            "en-US": "Sermon 262: Given on the Day of the Lord's Ascension in the Leontian Basilica.",
+            "pt-BR": "Sermão 262: Proferido no dia da Ascensão do Senhor na Basílica Leonciana."
+          }
+        },
+        {
+          "id": "v07-ch043",
+          "title": {
+            "la": "Sermo 263. De Quadragesima Ascensionis Domini",
+            "en-US": "Sermon 263: On the Fortieth Day, the Ascension of the Lord",
+            "pt-BR": "Sermão 263: No quadragésimo dia, a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch044",
+          "title": {
+            "la": "Sermo 263/A. De Ascensione Domini",
+            "en-US": "Sermon 263/A: On the Ascension of the Lord",
+            "pt-BR": "Sermão 263/A: Sobre a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch045",
+          "title": {
+            "la": "Sermo 264. De Ascensione Domini",
+            "en-US": "Sermon 264: On the Ascension of the Lord",
+            "pt-BR": "Sermão 264: Sobre a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch046",
+          "title": {
+            "la": "Sermo 265. De Ascensione Domini",
+            "en-US": "Sermon 265: On the Ascension of the Lord",
+            "pt-BR": "Sermão 265: Sobre a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch047",
+          "title": {
+            "la": "Sermo 265/A. De Quadragesima Ascensionis Domini",
+            "en-US": "Sermon 265/A: On the Fortieth Day, the Ascension of the Lord",
+            "pt-BR": "Sermão 265/A: No quadragésimo dia, a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch048",
+          "title": {
+            "la": "Sermo 265/B. De Quadragesima Ascensionis Domini",
+            "en-US": "Sermon 265/B: On the Fortieth Day, the Ascension of the Lord",
+            "pt-BR": "Sermão 265/B: No quadragésimo dia, a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch049",
+          "title": {
+            "la": "Sermo 265/C. De Quadragesima Ascensionis Domini",
+            "en-US": "Sermon 265/C: On the Fortieth Day, the Ascension of the Lord",
+            "pt-BR": "Sermão 265/C: No quadragésimo dia, a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch050",
+          "title": {
+            "la": "Sermo 265/D. De Quadragesima Ascensionis Domini",
+            "en-US": "Sermon 265/D: A Discourse on the Fortieth Day, the Ascension of the Lord",
+            "pt-BR": "Sermão 265/D: Um discurso no quadragésimo dia, a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v07-ch051",
+          "title": {
+            "la": "Sermo 265/E. De Quadragesima Ascensionis Domini Fragmentum",
+            "en-US": "Sermon 265/E: On the Fortieth Day, the Ascension of the Lord, a Fragment",
+            "pt-BR": "Sermão 265/E: No quadragésimo dia, a Ascensão do Senhor, um fragmento"
+          }
+        },
+        {
+          "id": "v07-ch052",
+          "title": {
+            "la": "Sermo 265/F. In Die Quadragesimae Ascensionis",
+            "en-US": "Sermon 265/F: On the Day of the Fortieth of the Ascension",
+            "pt-BR": "Sermão 265/F: No dia do quadragésimo da Ascensão"
+          }
+        },
+        {
+          "id": "v07-ch053",
+          "title": {
+            "la": "Sermo 266. In Vigiliis Pentecostes contra Donatistas",
+            "en-US": "Sermon 266: On the Vigils of Pentecost, Against the Donatists",
+            "pt-BR": "Sermão 266: Nas vigílias de Pentecostes, contra os donatistas"
+          }
+        },
+        {
+          "id": "v07-ch054",
+          "title": {
+            "la": "Sermo 267. In Die Pentecostes",
+            "en-US": "Sermon 267: On the Day of Pentecost",
+            "pt-BR": "Sermão 267: No dia de Pentecostes"
+          }
+        },
+        {
+          "id": "v07-ch055",
+          "title": {
+            "la": "Sermo 268. In Die Pentecostes",
+            "en-US": "Sermon 268: On the Day of Pentecost",
+            "pt-BR": "Sermão 268: No dia de Pentecostes"
+          }
+        },
+        {
+          "id": "v07-ch056",
+          "title": {
+            "la": "Sermo 269. In Die Pentecostes",
+            "en-US": "Sermon 269: On the Day of Pentecost",
+            "pt-BR": "Sermão 269: No dia de Pentecostes"
+          }
+        },
+        {
+          "id": "v07-ch057",
+          "title": {
+            "la": "Sermo 270. In Die Pentecostes",
+            "en-US": "Sermon 270: On the Day of Pentecost",
+            "pt-BR": "Sermão 270: No dia de Pentecostes"
+          }
+        },
+        {
+          "id": "v07-ch058",
+          "title": {
+            "la": "Sermo 271. In Die Pentecostes",
+            "en-US": "Sermon 271: On the Day of Pentecost",
+            "pt-BR": "Sermão 271: No dia de Pentecostes"
+          }
+        },
+        {
+          "id": "v07-ch059",
+          "title": {
+            "la": "Sermo 272. In Die Pentecostes ad Infantes, de Sacramento.",
+            "en-US": "Sermon 272: On the Day of Pentecost, to the Infants, on the Sacrament.",
+            "pt-BR": "Sermão 272: No dia de Pentecostes, aos infantes, sobre o sacramento."
+          }
+        },
+        {
+          "id": "v07-ch060",
+          "title": {
+            "la": "Sermo 272/A. De Quinquagesima Resurrectionis Fragmentum",
+            "en-US": "Sermon 272/A: On the Fiftieth Day of the Resurrection, a Fragment",
+            "pt-BR": "Sermão 272/A: No quinquagésimo dia da Ressurreição, um fragmento"
+          }
+        },
+        {
+          "id": "v07-ch061",
+          "title": {
+            "la": "Sermo 272/B. In Die Pentecostes",
+            "en-US": "Sermon 272/B: On the Day of Pentecost",
+            "pt-BR": "Sermão 272/B: No dia de Pentecostes"
+          }
+        },
+        {
+          "id": "v07-ch062",
+          "title": {
+            "la": "Sermo 272/B augm. Sermo sancti Augustini de Pentecosten",
+            "en-US": "Sermon 272/B: (Augmented). a Sermon of Saint Augustine on Pentecost",
+            "pt-BR": "Sermão 272/B: (Aumentado). um sermão de Santo Agostinho sobre Pentecostes"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v08",
+      "title": {
+        "la": "Sermones 273–305A",
+        "en-US": "Sermons 273–305A",
+        "pt-BR": "Sermões 273–305A"
+      },
+      "children": [
+        {
+          "id": "v08-ch001",
+          "title": {
+            "la": "Sermo 273: In Natali Martyrum Fructuosi Episcopi, Augurii et Eulogii",
+            "en-US": "Sermon 273: On the Feast Day of the Martyrs Fructuosus the Bishop and the Deacons Augurius and Eulogius",
+            "pt-BR": "Sermão 273: Na festa dos mártires Frutuoso, o bispo, e dos diáconos Augúrio e Eulógio"
+          }
+        },
+        {
+          "id": "v08-ch002",
+          "title": {
+            "la": "Sermo 274: In Natali Martyris Vincentii",
+            "en-US": "Sermon 274: On the Feast Day of the Martyr Vincent",
+            "pt-BR": "Sermão 274: Na festa do mártir Vicente"
+          }
+        },
+        {
+          "id": "v08-ch003",
+          "title": {
+            "la": "Sermo 275: In Natali Martyris Vincentii",
+            "en-US": "Sermon 275: On the Feast Day of the Martyr Vincent",
+            "pt-BR": "Sermão 275: Na festa do mártir Vicente"
+          }
+        },
+        {
+          "id": "v08-ch004",
+          "title": {
+            "la": "Sermo 276: In Festo Martyris Vincentii",
+            "en-US": "Sermon 276: On the Feast of the Martyr Vincent",
+            "pt-BR": "Sermão 276: Na festa do mártir Vicente"
+          }
+        },
+        {
+          "id": "v08-ch005",
+          "title": {
+            "la": "Sermo 277: In Festo Martyris Vincentii",
+            "en-US": "Sermon 277: On the Feast of the Martyr Vincent",
+            "pt-BR": "Sermão 277: Na festa do mártir Vicente"
+          }
+        },
+        {
+          "id": "v08-ch006",
+          "title": {
+            "la": "Sermo 277/A: In Natale Sancti Vincentii",
+            "en-US": "Sermon 277/A: On the Birthday of Saint Vincent",
+            "pt-BR": "Sermão 277/A: No natalício de são Vicente"
+          }
+        },
+        {
+          "id": "v08-ch007",
+          "title": {
+            "la": "Sermo 278: (De vocatione apostoli Pauli, et commendatione dominicae orationis)",
+            "en-US": "Sermon 278: (on the Calling of the Apostle Paul, and a Commendation of the Lord's Prayer)",
+            "pt-BR": "Sermão 278: (Sobre o chamado do apóstolo Paulo, e um louvor da oração do Senhor)"
+          }
+        },
+        {
+          "id": "v08-ch008",
+          "title": {
+            "la": "Sermo 279: De Paulo Apostolo",
+            "en-US": "Sermon 279: On the Apostle Paul",
+            "pt-BR": "Sermão 279: Sobre o Apóstolo Paulo"
+          }
+        },
+        {
+          "id": "v08-ch009",
+          "title": {
+            "la": "Sermo 280: In Natali Martyrum Perpetuae et Felicitatis",
+            "en-US": "Sermon 280: On the Heavenly Birthday of the Martyrs Perpetua and Felicity",
+            "pt-BR": "Sermão 280: Na Festa das Mártires Perpétua e Felicidade"
+          }
+        },
+        {
+          "id": "v08-ch010",
+          "title": {
+            "la": "Sermo 281: In Natali Martyrum Perpetuae et Felicitatis",
+            "en-US": "Sermon 281: On the Heavenly Birthday of the Martyrs Perpetua and Felicity",
+            "pt-BR": "Sermão 281: Na Festa das Mártires Perpétua e Felicidade"
+          }
+        },
+        {
+          "id": "v08-ch011",
+          "title": {
+            "la": "Sermo 282: In Natali Martyrum Perpetuae et Felicitatis",
+            "en-US": "Sermon 282: On the Heavenly Birthday of the Martyrs Perpetua and Felicity",
+            "pt-BR": "Sermão 282: Na Festa das Mártires Perpétua e Felicidade"
+          }
+        },
+        {
+          "id": "v08-ch012",
+          "title": {
+            "la": "(Erfurt 1 = Serm. 282 augm.): Sermo sancti Augustini episcopi",
+            "en-US": "(Erfurt 1 = Sermon 282, expanded): Sermon of Saint Augustine, Bishop",
+            "pt-BR": "(Erfurt 1 = Serm. 282 aum.): Sermão de santo Agostinho, bispo,"
+          }
+        },
+        {
+          "id": "v08-ch013",
+          "title": {
+            "la": "Sermo 283: In Natali Martyrum Massilitanorum",
+            "en-US": "Sermon 283: On the Heavenly Birthday of the Massilitan Martyrs",
+            "pt-BR": "Sermão 283: Na Festa dos Mártires Massilitanos"
+          }
+        },
+        {
+          "id": "v08-ch014",
+          "title": {
+            "la": "Sermo 284: In Natali Martyrum Mariani et Iacobi",
+            "en-US": "Sermon 284: On the Heavenly Birthday of the Martyrs Marianus and James",
+            "pt-BR": "Sermão 284: Na Festa dos Mártires Mariano e Jacó"
+          }
+        },
+        {
+          "id": "v08-ch015",
+          "title": {
+            "la": "Sermo 285: In Die Natali Martyrum Casti et Aemilii",
+            "en-US": "Sermon 285: On the Heavenly Birthday of the Martyrs Castus and Aemilius",
+            "pt-BR": "Sermão 285: No Dia da Festa dos Mártires Casto e Emílio"
+          }
+        },
+        {
+          "id": "v08-ch016",
+          "title": {
+            "la": "Sermo 286: In Natali Martyrum Protasii et Gervasii.",
+            "en-US": "Sermon 286: On the Heavenly Birthday of the Martyrs Protasius and Gervasius.",
+            "pt-BR": "Sermão 286: Na Festa dos Mártires Protásio e Gervásio."
+          }
+        },
+        {
+          "id": "v08-ch017",
+          "title": {
+            "la": "Sermo 287: In Natalis S. Ioannis Baptistae, qui Est VIII Calendas Iulii",
+            "en-US": "Sermon 287: On the Birthday of Saint John the Baptist, Which Is June 24",
+            "pt-BR": "Sermão 287: Na Festa de São João Batista, Que É no Oitavo Dia Antes das Calendas de Julho"
+          }
+        },
+        {
+          "id": "v08-ch018",
+          "title": {
+            "la": "Sermo 288: In Natali Ioannis Baptistae",
+            "en-US": "Sermon 288: On the Birthday of John the Baptist",
+            "pt-BR": "Sermão 288: Na Festa de João Batista"
+          }
+        },
+        {
+          "id": "v08-ch019",
+          "title": {
+            "la": "Sermo 289: In Natali Ioannis Baptistae",
+            "en-US": "Sermon 289: On the Birthday of John the Baptist",
+            "pt-BR": "Sermão 289: Na Festa de João Batista"
+          }
+        },
+        {
+          "id": "v08-ch020",
+          "title": {
+            "la": "Sermo 290: In Natali Ioannis Baptistae",
+            "en-US": "Sermon 290: On the Birthday of John the Baptist",
+            "pt-BR": "Sermão 290: Na Festa de João Batista"
+          }
+        },
+        {
+          "id": "v08-ch021",
+          "title": {
+            "la": "Sermo 291: In Natali Ioannis Baptistae",
+            "en-US": "Sermon 291: On the Birthday of John the Baptist",
+            "pt-BR": "Sermão 291: Na Festa de João Batista"
+          }
+        },
+        {
+          "id": "v08-ch022",
+          "title": {
+            "la": "Sermo 292: In Natali Ioannis Baptistae",
+            "en-US": "Sermon 292: On the Birthday of John the Baptist",
+            "pt-BR": "Sermão 292: Na Festa de João Batista"
+          }
+        },
+        {
+          "id": "v08-ch023",
+          "title": {
+            "la": "Sermo 293: In Natali Ioannis Baptistae",
+            "en-US": "Sermon 293: On the Nativity of John the Baptist",
+            "pt-BR": "Sermão 293: Na Festa de João Batista"
+          }
+        },
+        {
+          "id": "v08-ch024",
+          "title": {
+            "la": "Sermo 293/A: De Natalicio Sancti Ioannis",
+            "en-US": "Sermon 293/A: On the Birthday of Saint John",
+            "pt-BR": "Sermão 293/A: No Natalício de São João"
+          }
+        },
+        {
+          "id": "v08-ch025",
+          "title": {
+            "la": "Sermo 293/B: De Natale Sancti Ioannis Baptistae",
+            "en-US": "Sermon 293/B: On the Birthday of Saint John the Baptist",
+            "pt-BR": "Sermão 293/B: Sobre a Festa de São João Batista"
+          }
+        },
+        {
+          "id": "v08-ch026",
+          "title": {
+            "la": "Sermo 293/C: De Natale Sancti Ioannis Baptistae",
+            "en-US": "Sermon 293/C: On the Birthday of Saint John the Baptist",
+            "pt-BR": "Sermão 293/C: No Natal de São João Batista"
+          }
+        },
+        {
+          "id": "v08-ch027",
+          "title": {
+            "la": "Sermo 293/D: De Natale Sancti Ioannis Baptistae",
+            "en-US": "Sermon 293/D: On the Birthday of Saint John the Baptist",
+            "pt-BR": "Sermão 293/D: No Natal de São João Batista"
+          }
+        },
+        {
+          "id": "v08-ch028",
+          "title": {
+            "la": "Sermo 293/E: De Duobus Hominibus: Christo et Ioanne",
+            "en-US": "Sermon 293/E: On Two Men: Christ and John",
+            "pt-BR": "Sermão 293/E: Sobre os Dois Homens: Cristo e João"
+          }
+        },
+        {
+          "id": "v08-ch029",
+          "title": {
+            "la": "Sermo 294: Habitus in Basilica Maiorum, in Natali Martyris Guddenis,",
+            "en-US": "Sermon 294: Delivered in the Basilica Maiorum, on the Birthday of the Martyr Guddenis,",
+            "pt-BR": "Sermão 294: Proferido na Basílica dos Antigos, no Natal do Mártir Gudênio,"
+          }
+        },
+        {
+          "id": "v08-ch030",
+          "title": {
+            "la": "Sermo 295: In Natali Apostolorum Petri et Pauli",
+            "en-US": "Sermon 295: On the Birthday of the Apostles Peter and Paul",
+            "pt-BR": "Sermão 295: No Natal dos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch031",
+          "title": {
+            "la": "Sermo 296: De Natale Sanctorum Apostolorum Petri et Pauli",
+            "en-US": "Sermon 296: On the Birthday of the Holy Apostles Peter and Paul",
+            "pt-BR": "Sermão 296: No Natal dos Santos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch032",
+          "title": {
+            "la": "Sermo 297: In Natali Apostolorum Petri et Pauli",
+            "en-US": "Sermon 297: On the Birthday of the Apostles Peter and Paul",
+            "pt-BR": "Sermão 297: No Natal dos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch033",
+          "title": {
+            "la": "Sermo 298: Tractatus de Natale Sanctorum Apostolorum Petri et Pauli",
+            "en-US": "Sermon 298: Discourse on the Birthday of the Holy Apostles Peter and Paul",
+            "pt-BR": "Sermão 298: Tratado no Natal dos Santos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch034",
+          "title": {
+            "la": "Sermo 299: De Natali Apostolorum Petri et Pauli",
+            "en-US": "Sermon 299: On the Birthday of the Apostles Peter and Paul",
+            "pt-BR": "Sermão 299: No Natal dos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch035",
+          "title": {
+            "la": "Sermo 299/A: Tractatus de Natale Apostolorum Petri et Pauli",
+            "en-US": "Sermon 299/A: Discourse on the Birthday of the Apostles Peter and Paul",
+            "pt-BR": "Sermão 299/A: Tratado no Natal dos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch036",
+          "title": {
+            "la": "Sermo 299/B: Tractatus de Natale Sanctorum Apostolorum Petri et Pauli",
+            "en-US": "Sermon 299/B: Discourse for the Heavenly Birthday of the Holy Apostles Peter and Paul",
+            "pt-BR": "Sermão 299/B: Tratado no Natal dos Santos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch037",
+          "title": {
+            "la": "Sermo 299/C: Tractatus de Natale Sanctorum Apostolorum Petri et Pauli",
+            "en-US": "Sermon 299/C: A Treatise on the Birthday of the Holy Apostles Peter and Paul",
+            "pt-BR": "Sermão 299/C: Tratado no Natal dos Santos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v08-ch038",
+          "title": {
+            "la": "Sermo 299/D: In Natale Sanctorum Martyrum Scilitanorum",
+            "en-US": "Sermon 299/D: On the Birthday of the Holy Martyrs of Scilli",
+            "pt-BR": "Sermão 299/D: No Natal dos Santos Mártires Escilitanos"
+          }
+        },
+        {
+          "id": "v08-ch039",
+          "title": {
+            "la": "Sermo 299/E: Tractatus de Natale Sanctorum Scilitanorum",
+            "en-US": "Sermon 299/E: A Treatise on the Birthday of the Holy Martyrs of Scilli,",
+            "pt-BR": "Sermão 299/E: Tratado no Natal dos Santos Escilitanos"
+          }
+        },
+        {
+          "id": "v08-ch040",
+          "title": {
+            "la": "Sermo 299/F: In Natale Sanctorum Martyrum Scilitanorum",
+            "en-US": "Sermon 299/F: On the Birthday of the Holy Martyrs of Scilli",
+            "pt-BR": "Sermão 299/F: No Natal dos Santos Mártires Escilitanos"
+          }
+        },
+        {
+          "id": "v08-ch041",
+          "title": {
+            "la": "Sermo 300: In Solemnitate Martyrum Machabaeorum",
+            "en-US": "Sermon 300: On the Feast of the Maccabean Martyrs",
+            "pt-BR": "Sermão 300: Na Solenidade dos Mártires Macabeus"
+          }
+        },
+        {
+          "id": "v08-ch042",
+          "title": {
+            "la": "Sermo 301: In Sollemnitate Ss. Machabaeorum",
+            "en-US": "Sermon 301: On the Feast of the Holy Maccabees",
+            "pt-BR": "Sermão 301: Na Solenidade dos Ss. Macabeus"
+          }
+        },
+        {
+          "id": "v08-ch043",
+          "title": {
+            "la": "Sermo 301/A: In Sollemnitate Ss. Machabaeorum",
+            "en-US": "Sermon 301/A: On the Feast of the Holy Maccabees",
+            "pt-BR": "Sermão 301/A: Na Solenidade dos Ss. Macabeus"
+          }
+        },
+        {
+          "id": "v08-ch044",
+          "title": {
+            "la": "Sermo 302: De Natale Sancti Laurentii",
+            "en-US": "Sermon 302: On the Birthday of Saint Lawrence",
+            "pt-BR": "Sermão 302: No Natal de São Lourenço"
+          }
+        },
+        {
+          "id": "v08-ch045",
+          "title": {
+            "la": "Sermo 303: In Natali Martyris Laurentii",
+            "en-US": "Sermon 303: On the Birthday of the Martyr Lawrence",
+            "pt-BR": "Sermão 303: No Natal do Mártir Lourenço"
+          }
+        },
+        {
+          "id": "v08-ch046",
+          "title": {
+            "la": "Sermo 304: In Solemnitate Laurentii Martyris",
+            "en-US": "Sermon 304: On the Feast of the Martyr Lawrence",
+            "pt-BR": "Sermão 304: Na Solenidade do Mártir Lourenço"
+          }
+        },
+        {
+          "id": "v08-ch047",
+          "title": {
+            "la": "Sermo 305: In Solemnitate Martyris Laurentii",
+            "en-US": "Sermon 305: On the Feast of the Martyr Lawrence",
+            "pt-BR": "Sermão 305: Na Solenidade do Mártir Lourenço"
+          }
+        },
+        {
+          "id": "v08-ch048",
+          "title": {
+            "la": "Sermo 305/A: De Natali Sancti Laurentii",
+            "en-US": "Sermon 305/A: On the Birthday of Saint Lawrence,",
+            "pt-BR": "Sermão 305/A: No Natal de São Lourenço"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v09",
+      "title": {
+        "la": "Sermones 306–340A",
+        "en-US": "Sermons 306–340A",
+        "pt-BR": "Sermões 306–340A"
+      },
+      "children": [
+        {
+          "id": "v09-ch001",
+          "title": {
+            "la": "Sermo 306: In Natali Martyrum Massae Candidae",
+            "en-US": "Sermon 306: On the Feast of the Martyrs of the Massa Candida",
+            "pt-BR": "Sermão 306: Na festa dos mártires da Massa Cândida"
+          }
+        },
+        {
+          "id": "v09-ch002",
+          "title": {
+            "la": "Sermo 306/A: De Natali Massae Candidae",
+            "en-US": "Sermon 306/A: On the Feast of the Massa Candida",
+            "pt-BR": "Sermão 306/A: Na festa da Massa Cândida"
+          }
+        },
+        {
+          "id": "v09-ch003",
+          "title": {
+            "la": "Sermo 306/B: Sermo Habitus XII Kal. Septemb. In Natale Martyris Quadrati",
+            "en-US": "Sermon 306/B: A Sermon Delivered on the Twelfth of the Kalends of September on the Feast of the Martyr Quadratus",
+            "pt-BR": "Sermão 306/B: Sermão pregado no décimo segundo dia das calendas de setembro, na festa do mártir Quadrato"
+          }
+        },
+        {
+          "id": "v09-ch004",
+          "title": {
+            "la": "Sermo 306/C: Sermo Sancti Augustini Episcopi ad Mensam Cypriani de Sancto Quadrato",
+            "en-US": "Sermon 306/C: A Sermon of Saint Augustine the Bishop, at the Table of Cyprian, on Saint Quadratus",
+            "pt-BR": "Sermão 306/C: Sermão de Santo Agostinho, o bispo, à mesa de Cipriano, sobre São Quadrato"
+          }
+        },
+        {
+          "id": "v09-ch005",
+          "title": {
+            "la": "Sermo 306/D: Sermo de Natale Sancti Quadrati",
+            "en-US": "Sermon 306/D: A Sermon on the Feast of Saint Quadratus",
+            "pt-BR": "Sermão 306/D: Sermão na festa de São Quadrato"
+          }
+        },
+        {
+          "id": "v09-ch006",
+          "title": {
+            "la": "Sermo 306/E: Sermo sancti Augustini episcopi de natali sancti Quadrati martyris",
+            "en-US": "Sermon 306/E: A Sermon of Saint Augustine the Bishop on the Feast of the Holy Martyr Quadratus",
+            "pt-BR": "Sermão 306/E: Sermão de Santo Agostinho, o bispo, na festa do santo mártir Quadrato"
+          }
+        },
+        {
+          "id": "v09-ch007",
+          "title": {
+            "la": "Sermo 307: In Decollatione Beati Ioannis Baptistae",
+            "en-US": "Sermon 307: On the Beheading of Blessed John the Baptist",
+            "pt-BR": "Sermão 307: Sobre a decapitação do bem-aventurado João Batista"
+          }
+        },
+        {
+          "id": "v09-ch008",
+          "title": {
+            "la": "Sermo 308: In Eadem Solemnitate",
+            "en-US": "Sermon 308: On the Same Feast",
+            "pt-BR": "Sermão 308: Na mesma festa"
+          }
+        },
+        {
+          "id": "v09-ch009",
+          "title": {
+            "la": "Sermo 308/A: Habitus Carthagine in Mappalibus, ID Est, in Basilica Beati Martyris Cypriani, Per Vigiliam Natalis Eius",
+            "en-US": "Sermon 308/A: Delivered at Carthage in the Mappalia, That Is, in the Basilica of the Blessed Martyr Cyprian, During the Vigil of His Feast",
+            "pt-BR": "Sermão 308/A: Pregado em Cartago nos Mapália, isto é, na basílica do bem-aventurado mártir Cipriano, durante a vigília de sua festa"
+          }
+        },
+        {
+          "id": "v09-ch010",
+          "title": {
+            "la": "Sermo 309: In Natali Cypriani Martyris",
+            "en-US": "Sermon 309: On the Feast of Cyprian the Martyr",
+            "pt-BR": "Sermão 309: Na festa de Cipriano, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch011",
+          "title": {
+            "la": "Sermo 310: In Natali Cypriani Martyris",
+            "en-US": "Sermon 310: On the Feast of Cyprian the Martyr",
+            "pt-BR": "Sermão 310: Na festa de Cipriano, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch012",
+          "title": {
+            "la": "Sermo 311: In Natali Cypriani Martyris",
+            "en-US": "Sermon 311: On the Feast of Cyprian the Martyr",
+            "pt-BR": "Sermão 311: Na festa de Cipriano, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch013",
+          "title": {
+            "la": "Sermo 312: In Natali Cypriani Martyris",
+            "en-US": "Sermon 312: On the Feast of Cyprian the Martyr",
+            "pt-BR": "Sermão 312: Na festa de Cipriano, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch014",
+          "title": {
+            "la": "Sermo 313: In Natali Cypriani Martyris",
+            "en-US": "Sermon 313: On the Feast of Cyprian the Martyr",
+            "pt-BR": "Sermão 313: Na festa de Cipriano, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch015",
+          "title": {
+            "la": "Sermo 313/A: Habitus Carthagine ad Mensam Beati Martyris Cypriani de Eius Natale, XVIII Kalendas Octobris",
+            "en-US": "Sermon 313/A: Delivered at Carthage at the Table of the Blessed Martyr Cyprian, on His Feast, the Eighteenth of the Kalends of October",
+            "pt-BR": "Sermão 313/A: Pregado em Cartago à mesa do bem-aventurado mártir Cipriano, na sua festa, no décimo oitavo dia das calendas de outubro"
+          }
+        },
+        {
+          "id": "v09-ch016",
+          "title": {
+            "la": "Sermo 313/B: Habitus Eodem Loco et Die de Martyris Supradicti Natale",
+            "en-US": "Sermon 313/B: Delivered in the Same Place and on the Same Day, on the Feast of the Aforesaid Martyr",
+            "pt-BR": "Sermão 313/B: Pregado no mesmo lugar e no mesmo dia, na festa do supradito mártir"
+          }
+        },
+        {
+          "id": "v09-ch017",
+          "title": {
+            "la": "Sermo 313/C: Tractatus de Natale Sancti Cypriani",
+            "en-US": "Sermon 313/C: A Treatise on the Feast of Saint Cyprian",
+            "pt-BR": "Sermão 313/C: Tratado na festa de São Cipriano"
+          }
+        },
+        {
+          "id": "v09-ch018",
+          "title": {
+            "la": "Sermo 313/D: Tractatus de Natale Cypriani",
+            "en-US": "Sermon 313/D: A Treatise on the Feast of Cyprian",
+            "pt-BR": "Sermão 313/D: Tratado na festa de Cipriano"
+          }
+        },
+        {
+          "id": "v09-ch019",
+          "title": {
+            "la": "Sermo 313/E: Tractatus de Natale Sancti Cypriani",
+            "en-US": "Sermon 313/E: A Treatise on the Feast of Saint Cyprian",
+            "pt-BR": "Sermão 313/E: Tratado na festa de São Cipriano"
+          }
+        },
+        {
+          "id": "v09-ch020",
+          "title": {
+            "la": "Sermo 313/F: Habitus in Basilica Beati Martyris Cypriani in Mappalibus Die Natalis Eius",
+            "en-US": "Sermon 313/F: Delivered in the Basilica of the Blessed Martyr Cyprian in the Mappalia on the Day of His Feast",
+            "pt-BR": "Sermão 313/F: Pregado na basílica do bem-aventurado mártir Cipriano, nos Mapália, no dia de sua festa"
+          }
+        },
+        {
+          "id": "v09-ch021",
+          "title": {
+            "la": "(Erfurt 6 = Sermo 313/G): Sermo sancti Augustini",
+            "en-US": "(Erfurt 6 = Sermon 313/G): A sermon of Saint Augustine",
+            "pt-BR": "(Erfurt 6 = Sermão 313/G): Um sermão de Santo Agostinho"
+          }
+        },
+        {
+          "id": "v09-ch022",
+          "title": {
+            "la": "Sermo 313/H: De Die Sanctae Eulaliae",
+            "en-US": "Sermon 313/H: On the Day of Saint Eulalia",
+            "pt-BR": "Sermão 313/H: No dia de Santa Eulália"
+          }
+        },
+        {
+          "id": "v09-ch023",
+          "title": {
+            "la": "Sermo 314: In Natali Stephani Martyris",
+            "en-US": "Sermon 314: On the Feast of Stephen the Martyr",
+            "pt-BR": "Sermão 314: Na festa de Estêvão, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch024",
+          "title": {
+            "la": "Sermo 315: In Solemnitate Stephani Martyris",
+            "en-US": "Sermon 315: On the Solemnity of Stephen the Martyr",
+            "pt-BR": "Sermão 315: Na solenidade de Estêvão, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch025",
+          "title": {
+            "la": "Sermo 316: In Solemnitate Stephani Martyris",
+            "en-US": "Sermon 316: On the Solemnity of Stephen the Martyr",
+            "pt-BR": "Sermão 316: Na solenidade de Estêvão, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch026",
+          "title": {
+            "la": "Sermo 317: De Stephano Martyre",
+            "en-US": "Sermon 317: On Stephen the Martyr",
+            "pt-BR": "Sermão 317: Sobre Estêvão, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch027",
+          "title": {
+            "la": "Sermo 318: De Martyre Stephano",
+            "en-US": "Sermon 318: On Stephen the Martyr",
+            "pt-BR": "Sermão 318: Sobre Estêvão, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch028",
+          "title": {
+            "la": "Sermo 319: De Stephano Martyre",
+            "en-US": "Sermon 319: On Stephen the Martyr",
+            "pt-BR": "Sermão 319: Sobre Estêvão, o mártir"
+          }
+        },
+        {
+          "id": "v09-ch029",
+          "title": {
+            "la": "Sermo 319/A: De Martyre Stephano",
+            "en-US": "Sermon 319/A: On Stephen the Martyr",
+            "pt-BR": "Sermão 319/A: Sobre o Mártir Estêvão"
+          }
+        },
+        {
+          "id": "v09-ch030",
+          "title": {
+            "la": "Sermo 320: De Martyre Stephano Habitus Ipso Die Paschae",
+            "en-US": "Sermon 320: On Stephen the Martyr, Delivered on the Day of Easter Itself",
+            "pt-BR": "Sermão 320: Sobre o Mártir Estêvão, Pregado no Próprio Dia da Páscoa"
+          }
+        },
+        {
+          "id": "v09-ch031",
+          "title": {
+            "la": "Sermo 321: Feria Secunda Paschae",
+            "en-US": "Sermon 321: The Monday of Easter Week",
+            "pt-BR": "Sermão 321: A Segunda-feira da Semana Pascal"
+          }
+        },
+        {
+          "id": "v09-ch032",
+          "title": {
+            "la": "Sermo 322: Feria Tertia Paschae",
+            "en-US": "Sermon 322: The Tuesday of Easter Week",
+            "pt-BR": "Sermão 322: A Terça-feira da Semana Pascal"
+          }
+        },
+        {
+          "id": "v09-ch033",
+          "title": {
+            "la": "Sermo 323: Habitus Post Libellum de Sancto Stephano.",
+            "en-US": "Sermon 323: Delivered After the Booklet on Saint Stephen",
+            "pt-BR": "Sermão 323: Pregado Após o Livrinho sobre São Estêvão"
+          }
+        },
+        {
+          "id": "v09-ch034",
+          "title": {
+            "la": "Sermo 324: Quo Augustinus Complet Partem Sermonis Mox Praecedentis Miraculo Interrupti",
+            "en-US": "Sermon 324: In Which Augustine Completes the Part of the Sermon Just Preceding, Interrupted by the Miracle",
+            "pt-BR": "Sermão 324: No Qual Agostinho Completa a Parte do Sermão Imediatamente Precedente, Interrompido pelo Milagre"
+          }
+        },
+        {
+          "id": "v09-ch035",
+          "title": {
+            "la": "Sermo 325: In Natali Viginti Martyrum",
+            "en-US": "Sermon 325: On the Feast of the Twenty Martyrs",
+            "pt-BR": "Sermão 325: Na Festa dos Vinte Mártires"
+          }
+        },
+        {
+          "id": "v09-ch036",
+          "title": {
+            "la": "Sermo 326: In Natali Martyrum",
+            "en-US": "Sermon 326: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 326: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch037",
+          "title": {
+            "la": "Sermo 327: In Natali Martyrum.",
+            "en-US": "Sermon 327: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 327: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch038",
+          "title": {
+            "la": "Sermo 328: In Natali Martyrum.",
+            "en-US": "Sermon 328: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 328: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch039",
+          "title": {
+            "la": "Sermo 329: In Natali Martyrum",
+            "en-US": "Sermon 329: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 329: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch040",
+          "title": {
+            "la": "Sermo 330: In Natali Martyrum",
+            "en-US": "Sermon 330: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 330: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch041",
+          "title": {
+            "la": "Sermo 331: In Natali Martyrum",
+            "en-US": "Sermon 331: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 331: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch042",
+          "title": {
+            "la": "Sermo 332: In Natali Martyrum",
+            "en-US": "Sermon 332: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 332: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch043",
+          "title": {
+            "la": "Sermo 333: In Natali Martyrum",
+            "en-US": "Sermon 333: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 333: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch044",
+          "title": {
+            "la": "Sermo 334: In Natali Martyrum",
+            "en-US": "Sermon 334: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 334: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch045",
+          "title": {
+            "la": "Sermo 335: In Natali Martyrum",
+            "en-US": "Sermon 335: On the Feast of the Martyrs",
+            "pt-BR": "Sermão 335: Na Festa dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch046",
+          "title": {
+            "la": "Sermo 335/A: In Sollemnitate Martyrum Quorum Unus Primus, Alia Victoria Perpetua Vocabatur",
+            "en-US": "Sermon 335/A: On the Solemnity of the Martyrs of Whom One Was Called Primus, Another Victoria Perpetua",
+            "pt-BR": "Sermão 335/A: Na Solenidade dos Mártires dos Quais Um se Chamava Primus, Outra Victoria Perpetua"
+          }
+        },
+        {
+          "id": "v09-ch047",
+          "title": {
+            "la": "Sermo 335/B: De Natale Sanctorum Martyrum",
+            "en-US": "Sermon 335/B: On the Feast of the Holy Martyrs",
+            "pt-BR": "Sermão 335/B: Na Festa dos Santos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch048",
+          "title": {
+            "la": "Sermo 335/C: De Uno Martyre Sermo Beati Augustini Episcopi",
+            "en-US": "Sermon 335/C: A Sermon of Blessed Augustine the Bishop on One Martyr",
+            "pt-BR": "Sermão 335/C: Sermão do Bem-aventurado Bispo Agostinho sobre Um Só Mártir"
+          }
+        },
+        {
+          "id": "v09-ch049",
+          "title": {
+            "la": "Sermo 335/D: De Martyribus",
+            "en-US": "Sermon 335/D: On the Martyrs",
+            "pt-BR": "Sermão 335/D: Sobre os Mártires"
+          }
+        },
+        {
+          "id": "v09-ch050",
+          "title": {
+            "la": "Sermo 335/E: De Martyribus",
+            "en-US": "Sermon 335/E: On the Martyrs",
+            "pt-BR": "Sermão 335/E: Sobre os Mártires"
+          }
+        },
+        {
+          "id": "v09-ch051",
+          "title": {
+            "la": "Sermo 335/F: De Martyribus",
+            "en-US": "Sermon 335/F: On the Martyrs",
+            "pt-BR": "Sermão 335/F: Sobre os Mártires"
+          }
+        },
+        {
+          "id": "v09-ch052",
+          "title": {
+            "la": "Sermo 335/G: De Martyribus",
+            "en-US": "Sermon 335/G: On the Martyrs",
+            "pt-BR": "Sermão 335/G: Sobre os Mártires"
+          }
+        },
+        {
+          "id": "v09-ch053",
+          "title": {
+            "la": "Sermo 335/H: In Die Natali Martyrum",
+            "en-US": "Sermon 335/H: On the Birthday of the Martyrs",
+            "pt-BR": "Sermão 335/H: No Dia Natalício dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch054",
+          "title": {
+            "la": "Sermo 335/I: In Die Natali Martyrum",
+            "en-US": "Sermon 335/I: On the Birthday of the Martyrs",
+            "pt-BR": "Sermão 335/I: No Dia Natalício dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch055",
+          "title": {
+            "la": "Sermo 335/J: In Die Natali Martyrum",
+            "en-US": "Sermon 335/J: On the Birthday of the Martyrs",
+            "pt-BR": "Sermão 335/J: No Dia Natalício dos Mártires"
+          }
+        },
+        {
+          "id": "v09-ch056",
+          "title": {
+            "la": "Sermo 335/K: In Anniversario Depositionis Episcopi",
+            "en-US": "Sermon 335/K: On the Anniversary of the Burial of a Bishop",
+            "pt-BR": "Sermão 335/K: No Aniversário do Sepultamento de um Bispo"
+          }
+        },
+        {
+          "id": "v09-ch057",
+          "title": {
+            "la": "Sermo 335/L: Sermo Unius Iusti",
+            "en-US": "Sermon 335/L: A Sermon on One Righteous Man",
+            "pt-BR": "Sermão 335/L: Sermão sobre Um Só Justo"
+          }
+        },
+        {
+          "id": "v09-ch058",
+          "title": {
+            "la": "Sermo 335/M: Sermo Unius Iusti",
+            "en-US": "Sermon 335/M: A Sermon on One Righteous Man",
+            "pt-BR": "Sermão 335/M: Sermão sobre Um Só Justo"
+          }
+        },
+        {
+          "id": "v09-ch059",
+          "title": {
+            "la": "Sermo 336: In Dedicatione Ecclesiae",
+            "en-US": "Sermon 336: On the Dedication of a Church",
+            "pt-BR": "Sermão 336: Na Dedicação de uma Igreja"
+          }
+        },
+        {
+          "id": "v09-ch060",
+          "title": {
+            "la": "Sermo 337: In Dedicatione Ecclesiae",
+            "en-US": "Sermon 337: On the Dedication of a Church",
+            "pt-BR": "Sermão 337: Na Dedicação de uma Igreja"
+          }
+        },
+        {
+          "id": "v09-ch061",
+          "title": {
+            "la": "Sermo 338: In Dedicatione Ecclesiae",
+            "en-US": "Sermon 338: On the Dedication of a Church",
+            "pt-BR": "Sermão 338: Na Dedicação de uma Igreja"
+          }
+        },
+        {
+          "id": "v09-ch062",
+          "title": {
+            "la": "Sermo 339: In Die Ordinationis Suae",
+            "en-US": "Sermon 339: On the Day of His Ordination",
+            "pt-BR": "Sermão 339: No Dia de Sua Ordenação"
+          }
+        },
+        {
+          "id": "v09-ch063",
+          "title": {
+            "la": "Sermo 340: In Die Ordinationis Suae",
+            "en-US": "Sermon 340: On the Day of His Ordination",
+            "pt-BR": "Sermão 340: No Dia de Sua Ordenação"
+          }
+        },
+        {
+          "id": "v09-ch064",
+          "title": {
+            "la": "Sermo 340/A: De Ordinatione Episcopi",
+            "en-US": "Sermon 340/A: On the Ordination of a Bishop",
+            "pt-BR": "Sermão 340/A: Sobre a Ordenação de um Bispo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v10",
+      "title": {
+        "la": "Sermones 341–400",
+        "en-US": "Sermons 341–400",
+        "pt-BR": "Sermões 341–400"
+      },
+      "children": [
+        {
+          "id": "v10-ch001",
+          "title": {
+            "la": "Sermo 341 - de Eo quod Christus Tribus Modis in Scriptura Intellegitur: Contra Arianos",
+            "en-US": "Sermon 341: On the Fact That Christ Is Understood in Three Ways in Scripture",
+            "pt-BR": "Sermão 341: Sobre o fato de que Cristo é entendido de três modos na Escritura"
+          }
+        },
+        {
+          "id": "v10-ch002",
+          "title": {
+            "la": "Sermo 341 augm.",
+            "en-US": "Sermon 341: , Augmented.",
+            "pt-BR": "Sermão 341: , aumentado."
+          }
+        },
+        {
+          "id": "v10-ch003",
+          "title": {
+            "la": "Sermo 341/A: Incipit de Humilitate Domini Nostri Iesu Christi",
+            "en-US": "Sermon 341/A: Here Begins on the Humility of Our Lord Jesus Christ",
+            "pt-BR": "Sermão 341/A: Aqui começa: Sobre a humildade de nosso Senhor Jesus Cristo"
+          }
+        },
+        {
+          "id": "v10-ch004",
+          "title": {
+            "la": "Sermo 342 - de Sacrificio Vespertino: In Quo Explicatur Initium Evangelii Ioannis",
+            "en-US": "Sermon 342: On the Evening Sacrifice",
+            "pt-BR": "Sermão 342: Sobre o sacrifício vespertino"
+          }
+        },
+        {
+          "id": "v10-ch005",
+          "title": {
+            "la": "Sermo 343: Tractatus de Susanna et Ioseph",
+            "en-US": "Sermon 343: A Treatise on Susanna and Joseph",
+            "pt-BR": "Sermão 343: Tratado sobre Susana e José"
+          }
+        },
+        {
+          "id": "v10-ch006",
+          "title": {
+            "la": "Sermo 344: De Amore Dei et Amore Saeculi",
+            "en-US": "Sermon 344: On the Love of God and the Love of the World",
+            "pt-BR": "Sermão 344: Sobre o amor de Deus e o amor do mundo"
+          }
+        },
+        {
+          "id": "v10-ch007",
+          "title": {
+            "la": "Sermo 345 - Tractatus Sancti Augustini de Contemptoribus Temporalium Rerum:: Habitus in Natale Martyrum Tuburbitanarum",
+            "en-US": "Sermon 345: A Treatise of Saint Augustine on Those Who Despise Temporal Things:",
+            "pt-BR": "Sermão 345: Tratado de santo Agostinho sobre os que desprezam as coisas temporais:"
+          }
+        },
+        {
+          "id": "v10-ch008",
+          "title": {
+            "la": "Sermo 346: De Peregrinatione Nostra in Hac Vita, Per Fidem",
+            "en-US": "Sermon 346: On Our Pilgrimage in This Life, by Faith",
+            "pt-BR": "Sermão 346: Sobre a nossa peregrinação nesta vida, pela fé"
+          }
+        },
+        {
+          "id": "v10-ch009",
+          "title": {
+            "la": "Sermo 346/A - de Verbo Dei Duce Peregrinationis Christianorum: Et quod Necesse Sit Ut Aspera Sint Tempora Ne Ametur Terrena Felicitas",
+            "en-US": "Sermon 346/A: On the Word of God as the Leader of the Pilgrimage of Christians",
+            "pt-BR": "Sermão 346/A: Sobre o Verbo de Deus como guia da peregrinação dos cristãos"
+          }
+        },
+        {
+          "id": "v10-ch010",
+          "title": {
+            "la": "Sermo 346/B: De Peregrinatione Huius Vitae",
+            "en-US": "Sermon 346/B: On the Pilgrimage of This Life",
+            "pt-BR": "Sermão 346/B: Sobre a peregrinação desta vida"
+          }
+        },
+        {
+          "id": "v10-ch011",
+          "title": {
+            "la": "Sermo 346/C: De Tribulationibus et Pressuris Mundi",
+            "en-US": "Sermon 346/C: On the Tribulations and Afflictions of the World",
+            "pt-BR": "Sermão 346/C: Sobre as tribulações e aflições do mundo"
+          }
+        },
+        {
+          "id": "v10-ch012",
+          "title": {
+            "la": "Sermo 347: De Timore Dei",
+            "en-US": "Sermon 347: On the Fear of God",
+            "pt-BR": "Sermão 347: Sobre o temor de Deus"
+          }
+        },
+        {
+          "id": "v10-ch013",
+          "title": {
+            "la": "Sermo 348: De Timore Dei",
+            "en-US": "Sermon 348: On the Fear of God",
+            "pt-BR": "Sermão 348: Sobre o temor de Deus"
+          }
+        },
+        {
+          "id": "v10-ch014",
+          "title": {
+            "la": "Sermo 348/A: De Haeresi Pelagiana ex Sermone ad Populum",
+            "en-US": "Sermon 348/A: On the Pelagian Heresy, from a Sermon to the People",
+            "pt-BR": "Sermão 348/A: Sobre a heresia pelagiana, de um sermão ao povo"
+          }
+        },
+        {
+          "id": "v10-ch015",
+          "title": {
+            "la": "Sermo 348/A augm.",
+            "en-US": "Sermon 348/A: , Augmented.",
+            "pt-BR": "Sermão 348/A: , aumentado."
+          }
+        },
+        {
+          "id": "v10-ch016",
+          "title": {
+            "la": "Sermo 349: De Caritate, et de Caeco Illuminato",
+            "en-US": "Sermon 349: On Love, and on the Blind Man Who Was Given Sight",
+            "pt-BR": "Sermão 349: Sobre o amor, e sobre o cego a quem foi dada a vista"
+          }
+        },
+        {
+          "id": "v10-ch017",
+          "title": {
+            "la": "Sermo 350: De Caritate",
+            "en-US": "Sermon 350: On Love",
+            "pt-BR": "Sermão 350: Sobre o amor"
+          }
+        },
+        {
+          "id": "v10-ch018",
+          "title": {
+            "la": "Sermo 350/A: Incipit de Caritate et de Solo Amando Deo",
+            "en-US": "Sermon 350/A: Here Begins on Love and on Loving God Alone",
+            "pt-BR": "Sermão 350/A: Aqui começa: Sobre o amor e sobre amar só a Deus"
+          }
+        },
+        {
+          "id": "v10-ch019",
+          "title": {
+            "la": "Sermo 350/B",
+            "en-US": "Sermon 350/B",
+            "pt-BR": "Sermão 350/B"
+          }
+        },
+        {
+          "id": "v10-ch020",
+          "title": {
+            "la": "Sermo 350/C",
+            "en-US": "Sermon 350/C",
+            "pt-BR": "Sermão 350/C"
+          }
+        },
+        {
+          "id": "v10-ch021",
+          "title": {
+            "la": "Sermo 350/D: De eleemosynis rerum spiritalium",
+            "en-US": "Sermon 350/D: On Almsgiving of Spiritual Things",
+            "pt-BR": "Sermão 350/D: Sobre a esmola das coisas espirituais"
+          }
+        },
+        {
+          "id": "v10-ch022",
+          "title": {
+            "la": "Sermo 350/E: de ministerio rerum carnalium quod fit in sanctos",
+            "en-US": "Sermon 350/E: On the Ministry of Carnal Things Done to the Saints",
+            "pt-BR": "Sermão 350/E: Sobre o ministério das coisas carnais que se faz aos santos"
+          }
+        },
+        {
+          "id": "v10-ch023",
+          "title": {
+            "la": "Sermo 350/F: De eleemosynis quae fiunt in omnes",
+            "en-US": "Sermon 350/F: On Almsgiving Done to All",
+            "pt-BR": "Sermão 350/F: Sobre a esmola que se faz a todos"
+          }
+        },
+        {
+          "id": "v10-ch024",
+          "title": {
+            "la": "Sermo 351: De Utilitate Agendae Paenitentiae",
+            "en-US": "Sermon 351: On the Usefulness of Doing Penance",
+            "pt-BR": "Sermão 351: Sobre a utilidade de fazer penitência"
+          }
+        },
+        {
+          "id": "v10-ch025",
+          "title": {
+            "la": "Sermo 352: De Utilitate Agendae Paenitentiae",
+            "en-US": "Sermon 352: On the Usefulness of Doing Penance",
+            "pt-BR": "Sermão 352: Sobre a utilidade de fazer penitência"
+          }
+        },
+        {
+          "id": "v10-ch026",
+          "title": {
+            "la": "Sermo 352/A",
+            "en-US": "Sermon 352/A",
+            "pt-BR": "Sermão 352/A"
+          }
+        },
+        {
+          "id": "v10-ch027",
+          "title": {
+            "la": "Sermo 353: In Die Octavarum Infantium: Quos Exhortatur Verbis Petri Apostoli: \" Deposita Ergo Omni Malitia \", et Cetera",
+            "en-US": "Sermon 353: On the Day of the Octave of the Infants: Whom He Exhorts in the Words of the Apostle Peter, \"Laying Aside, Then, All Malice,\" and the Rest",
+            "pt-BR": "Sermão 353: No dia da oitava dos infantes: aos quais exorta com as palavras do apóstolo Pedro: «Depondo, pois, toda malícia», e o restante"
+          }
+        },
+        {
+          "id": "v10-ch028",
+          "title": {
+            "la": "Sermo 354: Ad Continentes Habitus: Quo Eos Primum Adversus Obtrectatores et Invidos Corroborat, Tum Deinde Superbiam Cavere Iubet",
+            "en-US": "Sermon 354: Delivered to the Continent: in Which He First Strengthens Them Against Detractors and the Envious, and Then Commands Them to Beware of Pride",
+            "pt-BR": "Sermão 354: Pregado aos continentes: no qual primeiro os fortalece contra os detratores e os invejosos, e depois lhes ordena que se acautelem da soberba"
+          }
+        },
+        {
+          "id": "v10-ch029",
+          "title": {
+            "la": "Sermo 354/A: Ex Sermone de Bono Nuptiarum",
+            "en-US": "Sermon 354/A: From a Sermon on the Good of Marriage",
+            "pt-BR": "Sermão 354/A: De um Sermão sobre o Bem do Matrimônio"
+          }
+        },
+        {
+          "id": "v10-ch030",
+          "title": {
+            "la": "Sermo 355: De Moribus Clericorum Sermo Primus",
+            "en-US": "Sermon 355: On the Morals of the Clergy, First Sermon",
+            "pt-BR": "Sermão 355: Sobre os Costumes do Clero, Primeiro Sermão"
+          }
+        },
+        {
+          "id": "v10-ch031",
+          "title": {
+            "la": "Sermo 356",
+            "en-US": "Sermon 356",
+            "pt-BR": "Sermão 356"
+          }
+        },
+        {
+          "id": "v10-ch032",
+          "title": {
+            "la": "Sermo 357: De Laude Pacis",
+            "en-US": "Sermon 357: In Praise of Peace",
+            "pt-BR": "Sermão 357: Em Louvor da Paz"
+          }
+        },
+        {
+          "id": "v10-ch033",
+          "title": {
+            "la": "Sermo 358: De Pace et Caritate",
+            "en-US": "Sermon 358: On Peace and Love",
+            "pt-BR": "Sermão 358: Sobre a Paz e o Amor"
+          }
+        },
+        {
+          "id": "v10-ch034",
+          "title": {
+            "la": "Sermo 358/A: Tractatus Sancti Augustini de Bono Misericordiae",
+            "en-US": "Sermon 358/A: A Treatise of Saint Augustine on the Good of Mercy",
+            "pt-BR": "Sermão 358/A: Tratado de Santo Agostinho sobre o Bem da Misericórdia"
+          }
+        },
+        {
+          "id": "v10-ch035",
+          "title": {
+            "la": "Sermo 359 - de Eo quod Scriptum Est in Eccli 25, 2:: \" Concordia Fratrum, et Amor Proximorum \", et Cetera",
+            "en-US": "Sermon 359: On What Is Written in Sirach 25:1:",
+            "pt-BR": "Sermão 359: Sobre o que está escrito no Eclesiástico 25,1:"
+          }
+        },
+        {
+          "id": "v10-ch036",
+          "title": {
+            "la": "Sermo 359/A",
+            "en-US": "Sermon 359/A",
+            "pt-BR": "Sermão 359/A"
+          }
+        },
+        {
+          "id": "v10-ch037",
+          "title": {
+            "la": "Sermo 359/B",
+            "en-US": "Sermon 359/B",
+            "pt-BR": "Sermão 359/B"
+          }
+        },
+        {
+          "id": "v10-ch038",
+          "title": {
+            "la": "Sermo 360: Ad Vigilias Maximiani, de Quodam Donatista qui Reversus Est ad Ecclesiam",
+            "en-US": "Sermon 360: At the Vigils of Maximianus, About a Certain Donatist Who Returned to the Church",
+            "pt-BR": "Sermão 360: Nas Vigílias de Maximiano, sobre Certo Donatista que Voltou à Igreja"
+          }
+        },
+        {
+          "id": "v10-ch039",
+          "title": {
+            "la": "Sermo 360/A - Tractatus sancti Augustini episcopi: de testimoniis Scripturarum",
+            "en-US": "Sermon 360/A: A Treatise of Saint Augustine the Bishop",
+            "pt-BR": "Sermão 360/A: Tratado de Santo Agostinho, o Bispo"
+          }
+        },
+        {
+          "id": "v10-ch040",
+          "title": {
+            "la": "Sermo 360/B",
+            "en-US": "Sermon 360/B",
+            "pt-BR": "Sermão 360/B"
+          }
+        },
+        {
+          "id": "v10-ch041",
+          "title": {
+            "la": "Sermo 360/C",
+            "en-US": "Sermon 360/C",
+            "pt-BR": "Sermão 360/C"
+          }
+        },
+        {
+          "id": "v10-ch042",
+          "title": {
+            "la": "Sermo 361: De Resurrectione Mortuorum",
+            "en-US": "Sermon 361: On the Resurrection of the Dead",
+            "pt-BR": "Sermão 361: Sobre a Ressurreição dos Mortos"
+          }
+        },
+        {
+          "id": "v10-ch043",
+          "title": {
+            "la": "Sermo 362: De Resurrectione Mortuorum",
+            "en-US": "Sermon 362: On the Resurrection of the Dead",
+            "pt-BR": "Sermão 362: Sobre a Ressurreição dos Mortos"
+          }
+        },
+        {
+          "id": "v10-ch044",
+          "title": {
+            "la": "Sermo 362/A: De resurrectione mortuorum [In natali Marcellini martyris]",
+            "en-US": "Sermon 362/A: On the Resurrection of the Dead [on the Birthday of the Martyr Marcellinus]",
+            "pt-BR": "Sermão 362/A: Sobre a ressurreição dos mortos [no natalício do mártir Marcelino]"
+          }
+        },
+        {
+          "id": "v10-ch045",
+          "title": {
+            "la": "Sermo 363: De Cantico Exodi 15, 1-21",
+            "en-US": "Sermon 363: On the Canticle of Exodus 15:1-21",
+            "pt-BR": "Sermão 363: Sobre o cântico do Êxodo 15,1-21"
+          }
+        },
+        {
+          "id": "v10-ch046",
+          "title": {
+            "la": "Sermo 364",
+            "en-US": "Sermon 364",
+            "pt-BR": "Sermão 364"
+          }
+        },
+        {
+          "id": "v10-ch047",
+          "title": {
+            "la": "Sermo 365 - de Versu 7 Psalmi XV:: \" Benedicam Dominum, qui Tribuit Mihi Intellectum \", et Cetera",
+            "en-US": "Sermon 365: On Verse 7 of Psalm 16 (15):",
+            "pt-BR": "Sermão 365: Sobre o versículo 7 do Salmo 15 (16):"
+          }
+        },
+        {
+          "id": "v10-ch048",
+          "title": {
+            "la": "Sermo 366: De Psalmo XXII, 1: \" Dominus Regit Me, et Nihil Mihi Deerit \"",
+            "en-US": "Sermon 366: On Psalm 23 (22):1: \"the Lord Guides Me, and Nothing Will Be Lacking to Me\"",
+            "pt-BR": "Sermão 366: Sobre o Salmo 22 (23),1: “O Senhor me guia, e nada me faltará”"
+          }
+        },
+        {
+          "id": "v10-ch049",
+          "title": {
+            "la": "Sermo 367: De Verbis Evangelii LC 16, 19-31, Ubi de Divite et Lazaro",
+            "en-US": "Sermon 367: On the Words of the Gospel, Luke 16:19-31, on Dives and Lazarus",
+            "pt-BR": "Sermão 367: Sobre as palavras do Evangelho, Lc 16,19-31, acerca do rico e de Lázaro"
+          }
+        },
+        {
+          "id": "v10-ch050",
+          "title": {
+            "la": "Sermo 368",
+            "en-US": "Sermon 368",
+            "pt-BR": "Sermão 368"
+          }
+        },
+        {
+          "id": "v10-ch051",
+          "title": {
+            "la": "Sermo 369",
+            "en-US": "Sermon 369",
+            "pt-BR": "Sermão 369"
+          }
+        },
+        {
+          "id": "v10-ch052",
+          "title": {
+            "la": "Sermo 370: De Nativitate Domini",
+            "en-US": "Sermon 370: On the Nativity of the Lord",
+            "pt-BR": "Sermão 370: Sobre a Natividade do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch053",
+          "title": {
+            "la": "Sermo 371: De Nativitate Domini",
+            "en-US": "Sermon 371: On the Nativity of the Lord",
+            "pt-BR": "Sermão 371: Sobre a Natividade do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch054",
+          "title": {
+            "la": "Sermo 372: De Nativitate Domini",
+            "en-US": "Sermon 372: On the Nativity of the Lord",
+            "pt-BR": "Sermão 372: Sobre a Natividade do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch055",
+          "title": {
+            "la": "Sermo 373: De Epiphania Domini",
+            "en-US": "Sermon 373: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 373: Sobre a Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch056",
+          "title": {
+            "la": "Sermo 374: De Epiphania Domini",
+            "en-US": "Sermon 374: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 374: Sobre a Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch057",
+          "title": {
+            "la": "Sermo 374 augm",
+            "en-US": "Sermon 374: (Augmented)",
+            "pt-BR": "Sermão 374: (Ampliado)"
+          }
+        },
+        {
+          "id": "v10-ch058",
+          "title": {
+            "la": "Sermo 375: De Epiphania Domini",
+            "en-US": "Sermon 375: On the Epiphany of the Lord",
+            "pt-BR": "Sermão 375: Sobre a Epifania do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch059",
+          "title": {
+            "la": "Sermo 375/A: Incipit Alius Eodem Die de Sacramentis",
+            "en-US": "Sermon 375/A: Another Sermon on the Same Day, on the Sacraments, Begins",
+            "pt-BR": "Sermão 375/A: Começa outro sermão no mesmo dia, sobre os sacramentos"
+          }
+        },
+        {
+          "id": "v10-ch060",
+          "title": {
+            "la": "Sermo 375/B",
+            "en-US": "Sermon 375/B",
+            "pt-BR": "Sermão 375/B"
+          }
+        },
+        {
+          "id": "v10-ch061",
+          "title": {
+            "la": "Sermo 375/C: Tractatus de Quinta Feria Sanctae Paschae",
+            "en-US": "Sermon 375/C: A Tractate for the Fifth Day of Holy Pasch",
+            "pt-BR": "Sermão 375/C: Tratado para a quinta-feira da santa Páscoa"
+          }
+        },
+        {
+          "id": "v10-ch062",
+          "title": {
+            "la": "Sermo 376: Dominica in Octavis Paschae",
+            "en-US": "Sermon 376: The Sunday in the Octave of Pasch",
+            "pt-BR": "Sermão 376: O Domingo na Oitava da Páscoa"
+          }
+        },
+        {
+          "id": "v10-ch063",
+          "title": {
+            "la": "Sermo 376/A: Dominica in Octavis Paschae",
+            "en-US": "Sermon 376/A: The Sunday in the Octave of Pasch",
+            "pt-BR": "Sermão 376/A: O Domingo na Oitava da Páscoa"
+          }
+        },
+        {
+          "id": "v10-ch064",
+          "title": {
+            "la": "Sermo 377: In Ascensione Domini",
+            "en-US": "Sermon 377: On the Ascension of the Lord",
+            "pt-BR": "Sermão 377: Na Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch065",
+          "title": {
+            "la": "Sermo 378: In Die Pentecostes",
+            "en-US": "Sermon 378: On the Day of Pentecost",
+            "pt-BR": "Sermão 378: No dia de Pentecostes"
+          }
+        },
+        {
+          "id": "v10-ch066",
+          "title": {
+            "la": "Sermo 379",
+            "en-US": "Sermon 379",
+            "pt-BR": "Sermão 379"
+          }
+        },
+        {
+          "id": "v10-ch067",
+          "title": {
+            "la": "Sermo 380: In Nativitate Ioannis Baptistae",
+            "en-US": "Sermon 380: On the Nativity of John the Baptist",
+            "pt-BR": "Sermão 380: Na Natividade de João Batista"
+          }
+        },
+        {
+          "id": "v10-ch068",
+          "title": {
+            "la": "Sermo 381: De Natali Apostolorum Petri et Pauli",
+            "en-US": "Sermon 381: On the Birthday of the Apostles Peter and Paul",
+            "pt-BR": "Sermão 381: No natalício dos Apóstolos Pedro e Paulo"
+          }
+        },
+        {
+          "id": "v10-ch069",
+          "title": {
+            "la": "Sermo 382",
+            "en-US": "Sermon 382",
+            "pt-BR": "Sermão 382"
+          }
+        },
+        {
+          "id": "v10-ch070",
+          "title": {
+            "la": "Sermo 383: In Die Anniversaria Ordinationis Episcopalis",
+            "en-US": "Sermon 383: On the Anniversary of Episcopal Ordination",
+            "pt-BR": "Sermão 383: No aniversário da ordenação episcopal"
+          }
+        },
+        {
+          "id": "v10-ch071",
+          "title": {
+            "la": "Sermo 384 - de Trinitate, Sive de Scripturis Veteribus et Novis: Contra Arianos",
+            "en-US": "Sermon 384: On the Trinity, or on the Old and New Scriptures,",
+            "pt-BR": "Sermão 384: Sobre a Trindade, ou sobre as Escrituras Antigas e Novas,"
+          }
+        },
+        {
+          "id": "v10-ch072",
+          "title": {
+            "la": "Sermo 385: Ammonitio Ista Sancti Augustini Ostendit Multos Gradus Esse in Caritate Perfecta et Dilectione Utiles et Valde Necessarios",
+            "en-US": "Sermon 385: This Admonition of Saint Augustine Shows That There Are Many Degrees in Perfect Love and Charity, Useful and Very Necessary",
+            "pt-BR": "Sermão 385: Esta admoestação de Santo Agostinho mostra que há muitos graus no amor e na dileção perfeitos, úteis e muito necessários"
+          }
+        },
+        {
+          "id": "v10-ch073",
+          "title": {
+            "la": "Sermo 386: De Dilectione Inimicorum",
+            "en-US": "Sermon 386: On the Love of Enemies",
+            "pt-BR": "Sermão 386: Sobre a dileção dos inimigos"
+          }
+        },
+        {
+          "id": "v10-ch074",
+          "title": {
+            "la": "Sermo 387: Ammonitio Sancti Augustini de Eo quod Scriptum Est: \"Esto Consentiens Adversario Tuo, Dum Es cum Eo in Via\", et de Iracundiae Festuca, quae Falsis Suspicionibus Nutrita Fit Trabes",
+            "en-US": "Sermon 387",
+            "pt-BR": "Sermão 387"
+          }
+        },
+        {
+          "id": "v10-ch075",
+          "title": {
+            "la": "Sermo 388: De Faciendis Eleemosynis",
+            "en-US": "Sermon 388: On Giving Alms",
+            "pt-BR": "Sermão 388: Sobre a prática das esmolas"
+          }
+        },
+        {
+          "id": "v10-ch076",
+          "title": {
+            "la": "Sermo 389: Tractatus de Impetrando Pane Caelesti Sive de Faciendis Eleemosynis et Misericordia",
+            "en-US": "Sermon 389: A Tractate on Obtaining the Heavenly Bread, or on Giving Alms and Mercy",
+            "pt-BR": "Sermão 389: Tratado sobre como obter o pão celeste, ou sobre a prática das esmolas e da misericórdia"
+          }
+        },
+        {
+          "id": "v10-ch077",
+          "title": {
+            "la": "Sermo 390: De Faciendis Eleemosynis",
+            "en-US": "Sermon 390: On Giving Alms",
+            "pt-BR": "Sermão 390: Sobre a prática das esmolas"
+          }
+        },
+        {
+          "id": "v10-ch078",
+          "title": {
+            "la": "Sermo 391: Ad Iuvenes",
+            "en-US": "Sermon 391: To Young Men",
+            "pt-BR": "Sermão 391: Aos jovens"
+          }
+        },
+        {
+          "id": "v10-ch079",
+          "title": {
+            "la": "Sermo 392: Ad Coniugatos",
+            "en-US": "Sermon 392: To the Married",
+            "pt-BR": "Sermão 392: Aos casados"
+          }
+        },
+        {
+          "id": "v10-ch080",
+          "title": {
+            "la": "Sermo 393: De Paenitentibus",
+            "en-US": "Sermon 393: On Penitents",
+            "pt-BR": "Sermão 393: Sobre os penitentes"
+          }
+        },
+        {
+          "id": "v10-ch081",
+          "title": {
+            "la": "Sermo 394: De Natali Ss. Perpetuae et Felicitatis",
+            "en-US": "Sermon 394: On the Birthday of Saints Perpetua and Felicity",
+            "pt-BR": "Sermão 394: No natalício das santas Perpétua e Felicidade"
+          }
+        },
+        {
+          "id": "v10-ch082",
+          "title": {
+            "la": "Sermo 395: De Ascensione Domini",
+            "en-US": "Sermon 395: On the Ascension of the Lord",
+            "pt-BR": "Sermão 395: Sobre a Ascensão do Senhor"
+          }
+        },
+        {
+          "id": "v10-ch083",
+          "title": {
+            "la": "Sermo 396: In Assumptione Episcopi",
+            "en-US": "Sermon 396: At the Taking Up of a Bishop",
+            "pt-BR": "Sermão 396: Na assunção de um bispo"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v11",
+      "title": {
+        "la": "Sermones nuper reperti",
+        "en-US": "Newly Discovered Sermons",
+        "pt-BR": "Sermões recém-descobertos"
+      },
+      "children": [
+        {
+          "id": "v11-ch001",
+          "title": {
+            "la": "Sermo 214/A (Dolbeau 1)",
+            "en-US": "Sermon 214/A: (Dolbeau 1)",
+            "pt-BR": "Sermão 214/A: (Dolbeau 1)"
+          }
+        },
+        {
+          "id": "v11-ch002",
+          "title": {
+            "la": "Sermo 359/B (Dolbeau 2)",
+            "en-US": "Sermon 359/B: (Dolbeau 2)",
+            "pt-BR": "Sermão 359/B: (Dolbeau 2)"
+          }
+        },
+        {
+          "id": "v11-ch003",
+          "title": {
+            "la": "Sermo 293/A augm. (Dolbeau 3)",
+            "en-US": "Sermon 293/A: Augm. (Dolbeau 3)",
+            "pt-BR": "Sermão 293/A: Augm. (Dolbeau 3)"
+          }
+        },
+        {
+          "id": "v11-ch004",
+          "title": {
+            "la": "Sermo 299/A augm. (Dolbeau 4)",
+            "en-US": "Sermon 299/A: Augm. (Dolbeau 4)",
+            "pt-BR": "Sermão 299/A: Augm. (Dolbeau 4)"
+          }
+        },
+        {
+          "id": "v11-ch005",
+          "title": {
+            "la": "Sermo 114/B (Dolbeau 5)",
+            "en-US": "Sermon 114/B: (Dolbeau 5)",
+            "pt-BR": "Sermão 114/B: (Dolbeau 5)"
+          }
+        },
+        {
+          "id": "v11-ch006",
+          "title": {
+            "la": "Sermo 23/B (Dolbeau 6)",
+            "en-US": "Sermon 23/B: (Dolbeau 6)",
+            "pt-BR": "Sermão 23/B: (Dolbeau 6)"
+          }
+        },
+        {
+          "id": "v11-ch007",
+          "title": {
+            "la": "Sermo 142 augm. (Dolbeau 7)",
+            "en-US": "Sermon 142: Augm. (Dolbeau 7)",
+            "pt-BR": "Sermão 142: Augm. (Dolbeau 7)"
+          }
+        },
+        {
+          "id": "v11-ch008",
+          "title": {
+            "la": "Sermo 29/B (Dolbeau 8)",
+            "en-US": "Sermon 29/B: (Dolbeau 8)",
+            "pt-BR": "Sermão 29/B: (Dolbeau 8)"
+          }
+        },
+        {
+          "id": "v11-ch009",
+          "title": {
+            "la": "Sermo 28/A (Dolbeau 9)",
+            "en-US": "Sermon 28/A: (Dolbeau 9)",
+            "pt-BR": "Sermão 28/A: (Dolbeau 9)"
+          }
+        },
+        {
+          "id": "v11-ch010",
+          "title": {
+            "la": "Sermo 162/C (Dolbeau 10)",
+            "en-US": "Sermon 162/C: (Dolbeau 10)",
+            "pt-BR": "Sermão 162/C: (Dolbeau 10)"
+          }
+        },
+        {
+          "id": "v11-ch011",
+          "title": {
+            "la": "Sermo 90/A (Dolbeau 11)",
+            "en-US": "Sermon 90/A: (Dolbeau 11)",
+            "pt-BR": "Sermão 90/A: (Dolbeau 11)"
+          }
+        },
+        {
+          "id": "v11-ch012",
+          "title": {
+            "la": "Sermo 354/A (Dolbeau 12)",
+            "en-US": "Sermon 354/A: (Dolbeau 12)",
+            "pt-BR": "Sermão 354/A: (Dolbeau 12)"
+          }
+        },
+        {
+          "id": "v11-ch013",
+          "title": {
+            "la": "Sermo 159/A (Dolbeau 13)",
+            "en-US": "Sermon 159/A: (Dolbeau 13)",
+            "pt-BR": "Sermão 159/A: (Dolbeau 13)"
+          }
+        },
+        {
+          "id": "v11-ch014",
+          "title": {
+            "la": "Sermo 352/A (Dolbeau 14)",
+            "en-US": "Sermon 352/A: (Dolbeau 14)",
+            "pt-BR": "Sermão 352/A: (Dolbeau 14)"
+          }
+        },
+        {
+          "id": "v11-ch015",
+          "title": {
+            "la": "Sermo 283 augm. (Dolbeau 15)",
+            "en-US": "Sermon 283: Augm. (Dolbeau 15)",
+            "pt-BR": "Sermão 283: Augm. (Dolbeau 15)"
+          }
+        },
+        {
+          "id": "v11-ch016",
+          "title": {
+            "la": "Sermo 72 augm. (Dolbeau 16)",
+            "en-US": "Sermon 72: Augm. (Dolbeau 16)",
+            "pt-BR": "Sermão 72: Augm. (Dolbeau 16)"
+          }
+        },
+        {
+          "id": "v11-ch017",
+          "title": {
+            "la": "Sermo 110/A (Dolbeau 17)",
+            "en-US": "Sermon 110/A: (Dolbeau 17)",
+            "pt-BR": "Sermão 110/A: (Dolbeau 17)"
+          }
+        },
+        {
+          "id": "v11-ch018",
+          "title": {
+            "la": "Sermo 306/E (Dolbeau 18)",
+            "en-US": "Sermon 306/E: (Dolbeau 18)",
+            "pt-BR": "Sermão 306/E: (Dolbeau 18)"
+          }
+        },
+        {
+          "id": "v11-ch019",
+          "title": {
+            "la": "Sermo 130/A (Dolbeau 19)",
+            "en-US": "Sermon 130/A: (Dolbeau 19)",
+            "pt-BR": "Sermão 130/A: (Dolbeau 19)"
+          }
+        },
+        {
+          "id": "v11-ch020",
+          "title": {
+            "la": "Sermo 14/A (Dolbeau 20)",
+            "en-US": "Sermon 14/A: (Dolbeau 20)",
+            "pt-BR": "Sermão 14/A: (Dolbeau 20)"
+          }
+        },
+        {
+          "id": "v11-ch021",
+          "title": {
+            "la": "Sermo 159/B (Dolbeau 21)",
+            "en-US": "Sermon 159/B: (Dolbeau 21)",
+            "pt-BR": "Sermão 159/B: (Dolbeau 21)"
+          }
+        },
+        {
+          "id": "v11-ch022",
+          "title": {
+            "la": "Sermo 341 augm. (Dolbeau 22)",
+            "en-US": "Sermon 341: Augm. (Dolbeau 22)",
+            "pt-BR": "Sermão 341: Augm. (Dolbeau 22)"
+          }
+        },
+        {
+          "id": "v11-ch023",
+          "title": {
+            "la": "Sermo 374 augm (Dolbeau 23)",
+            "en-US": "Sermon 374: Augm. (Dolbeau 23)",
+            "pt-BR": "Sermão 374: Augm. (Dolbeau 23)"
+          }
+        },
+        {
+          "id": "v11-ch024",
+          "title": {
+            "la": "Sermo 360/A (Dolbeau 24)",
+            "en-US": "Sermon 360/A: (Dolbeau 24)",
+            "pt-BR": "Sermão 360/A: (Dolbeau 24)"
+          }
+        },
+        {
+          "id": "v11-ch025",
+          "title": {
+            "la": "Sermo 360/B (Dolbeau 25)",
+            "en-US": "Sermon 360/B: (Dolbeau 25)",
+            "pt-BR": "Sermão 360/B: (Dolbeau 25)"
+          }
+        },
+        {
+          "id": "v11-ch026",
+          "title": {
+            "la": "Sermo 198 augm. (Dolbeau 26)",
+            "en-US": "Sermon 198: Augm. (Dolbeau 26)",
+            "pt-BR": "Sermão 198: Augm. (Dolbeau 26)"
+          }
+        },
+        {
+          "id": "v11-ch027",
+          "title": {
+            "la": "Sermo 360/C (Dolbeau 27)",
+            "en-US": "Sermon 360/C: (Dolbeau 27)",
+            "pt-BR": "Sermão 360/C: (Dolbeau 27)"
+          }
+        },
+        {
+          "id": "v11-ch028",
+          "title": {
+            "la": "Sermo 20/B (Dolbeau 28)",
+            "en-US": "Sermon 20/B: (Dolbeau 28)",
+            "pt-BR": "Sermão 20/B: (Dolbeau 28)"
+          }
+        },
+        {
+          "id": "v11-ch029",
+          "title": {
+            "la": "Sermo de providentia Dei (Dolbeau 29)",
+            "en-US": "Sermon on the Providence of God (Dolbeau 29)",
+            "pt-BR": "Sermão sobre a Providência de Deus (Dolbeau 29)"
+          }
+        },
+        {
+          "id": "v11-ch030",
+          "title": {
+            "la": "Sermo 348/A augm. (Dolbeau 30)",
+            "en-US": "Sermon 348/A: Augm. (Dolbeau 30)",
+            "pt-BR": "Sermão 348/A: Augm. (Dolbeau 30)"
+          }
+        },
+        {
+          "id": "v11-ch031",
+          "title": {
+            "la": "Sermo 272/B augm. (Dolbeau 31)",
+            "en-US": "Sermon 272/B: Augm. (Dolbeau 31)",
+            "pt-BR": "Sermão 272/B: Augm. (Dolbeau 31)"
+          }
+        },
+        {
+          "id": "v11-ch032",
+          "title": {
+            "la": "Sermo 204/A (Étaix 4)",
+            "en-US": "Sermon 204/A: (éTaix 4)",
+            "pt-BR": "Sermão 204/A: (Étaix 4)"
+          }
+        },
+        {
+          "id": "v11-ch033",
+          "title": {
+            "la": "Sermo 218 augm. (Étaix 5)",
+            "en-US": "Sermon 218: Augm. (éTaix 5)",
+            "pt-BR": "Sermão 218: Augm. (Étaix 5)"
+          }
+        },
+        {
+          "id": "v11-ch034",
+          "title": {
+            "la": "(Erfurt 1 = Serm. 282 augm.) (Erfurt 1)",
+            "en-US": "(Erfurt 1 = Sermon 282 augm.) (Erfurt 1)",
+            "pt-BR": "(Erfurt 1 = Sermão 282 augm.) (Erfurt 1)"
+          }
+        },
+        {
+          "id": "v11-ch035",
+          "title": {
+            "la": "(Erfurt 2 = Sermo 350/D) (Erfurt 2)",
+            "en-US": "(Erfurt 2 = Sermon 350/D) (Erfurt 2)",
+            "pt-BR": "(Erfurt 2 = Sermão 350/D) (Erfurt 2)"
+          }
+        },
+        {
+          "id": "v11-ch036",
+          "title": {
+            "la": "(Erfurt 3 = Sermo 350/E) (Erfurt 3)",
+            "en-US": "(Erfurt 3 = Sermon 350/E) (Erfurt 3)",
+            "pt-BR": "(Erfurt 3 = Sermão 350/E) (Erfurt 3)"
+          }
+        },
+        {
+          "id": "v11-ch037",
+          "title": {
+            "la": "(Erfurt 4 = Sermo 350/F) (Erfurt 4)",
+            "en-US": "(Erfurt 4 = Sermon 350/F) (Erfurt 4)",
+            "pt-BR": "(Erfurt 4 = Sermão 350/F) (Erfurt 4)"
+          }
+        },
+        {
+          "id": "v11-ch038",
+          "title": {
+            "la": "(Erfurt 5 = Sermo 362/A) (Erfurt 5)",
+            "en-US": "(Erfurt 5 = Sermon 362/A) (Erfurt 5)",
+            "pt-BR": "(Erfurt 5 = Sermão 362/A) (Erfurt 5)"
+          }
+        },
+        {
+          "id": "v11-ch039",
+          "title": {
+            "la": "(Erfurt 6 = Sermo 313/G) (Erfurt 6)",
+            "en-US": "(Erfurt 6 = Sermon 313/G) (Erfurt 6)",
+            "pt-BR": "(Erfurt 6 = Sermão 313/G) (Erfurt 6)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "v12",
+      "title": {
+        "la": "Sermones supplementarii",
+        "en-US": "Supplementary Sermons",
+        "pt-BR": "Sermões suplementares"
+      },
+      "children": [
+        {
+          "id": "v12-ch001",
+          "title": {
+            "la": "Sermo 2A",
+            "en-US": "Sermon 2A",
+            "pt-BR": "Sermão 2A"
+          }
+        },
+        {
+          "id": "v12-ch002",
+          "title": {
+            "la": "Sermo 59A",
+            "en-US": "Sermon 59A",
+            "pt-BR": "Sermão 59A"
+          }
+        },
+        {
+          "id": "v12-ch003",
+          "title": {
+            "la": "Sermo 61B",
+            "en-US": "Sermon 61B",
+            "pt-BR": "Sermão 61B"
+          }
+        },
+        {
+          "id": "v12-ch004",
+          "title": {
+            "la": "Sermo 112B",
+            "en-US": "Sermon 112B",
+            "pt-BR": "Sermão 112B"
+          }
+        },
+        {
+          "id": "v12-ch005",
+          "title": {
+            "la": "Sermo 173A (fragmentum; attributio directa incerta)",
+            "en-US": "Sermon 173A (Fragment; Direct Attribution Uncertain)",
+            "pt-BR": "Sermão 173A (fragmento; atribuição direta incerta)"
+          }
+        },
+        {
+          "id": "v12-ch006",
+          "title": {
+            "la": "Sermo 204B",
+            "en-US": "Sermon 204B",
+            "pt-BR": "Sermão 204B"
+          }
+        },
+        {
+          "id": "v12-ch007",
+          "title": {
+            "la": "Sermo 204C",
+            "en-US": "Sermon 204C",
+            "pt-BR": "Sermão 204C"
+          }
+        },
+        {
+          "id": "v12-ch008",
+          "title": {
+            "la": "Sermo 204D",
+            "en-US": "Sermon 204D",
+            "pt-BR": "Sermão 204D"
+          }
+        },
+        {
+          "id": "v12-ch009",
+          "title": {
+            "la": "Sermo 225 auct.",
+            "en-US": "Sermon 225, Expanded Version",
+            "pt-BR": "Sermão 225, versão ampliada"
+          }
+        },
+        {
+          "id": "v12-ch010",
+          "title": {
+            "la": "Sermo 272C",
+            "en-US": "Sermon 272C",
+            "pt-BR": "Sermão 272C"
+          }
+        },
+        {
+          "id": "v12-ch011",
+          "title": {
+            "la": "Sermo 295 auct.",
+            "en-US": "Sermon 295, Expanded Version",
+            "pt-BR": "Sermão 295, versão ampliada"
+          }
+        },
+        {
+          "id": "v12-ch012",
+          "title": {
+            "la": "Sermo 298A",
+            "en-US": "Sermon 298A",
+            "pt-BR": "Sermão 298A"
+          }
+        },
+        {
+          "id": "v12-ch013",
+          "title": {
+            "la": "Sermo 319B",
+            "en-US": "Sermon 319B",
+            "pt-BR": "Sermão 319B"
+          }
+        },
+        {
+          "id": "v12-ch014",
+          "title": {
+            "la": "Sermo 335N",
+            "en-US": "Sermon 335N",
+            "pt-BR": "Sermão 335N"
+          }
+        },
+        {
+          "id": "v12-ch015",
+          "title": {
+            "la": "Sermo 363A",
+            "en-US": "Sermon 363A",
+            "pt-BR": "Sermão 363A"
+          }
+        },
+        {
+          "id": "v12-ch016",
+          "title": {
+            "la": "Sermo 363B",
+            "en-US": "Sermon 363B",
+            "pt-BR": "Sermão 363B"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "augustine-contra-epistolam-parmeniani",
+  "cover": "label",
+  "name": {
+    "la": "Contra epistolam Parmeniani",
+    "en-US": "Answer to the Letter of Parmenian",
+    "pt-BR": "Contra a carta de Parmeniano"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Three books answering the letter of Parmenian, Donatist bishop of Carthage, to Tyconius. They treat whether the wicked defile the good who share the same sacraments in unity, defending the Church spread throughout the world.",
+    "pt-BR": "Três livros contra a carta de Parmeniano, bispo donatista de Cartago, a Ticônio. Discutem se os maus contaminam os bons que, na unidade, participam dos mesmos sacramentos, em defesa da Igreja difundida por todo o mundo.",
+    "la": "Tres libri contra epistolam Parmeniani, Donatistarum Carthaginis episcopi, ad Tyconium. Quaeritur an in unitate et eorundem sacramentorum communione mali bonos contaminent, pro Ecclesia toto orbe diffusa."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Parmen",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Parmen",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Parmen",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book 1",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book 2",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch004",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book 3",
+        "pt-BR": "Livro III"
+      }
+    }
+  ]
+}

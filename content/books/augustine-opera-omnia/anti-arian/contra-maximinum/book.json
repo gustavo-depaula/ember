@@ -1,0 +1,59 @@
+{
+  "id": "augustine-contra-maximinum",
+  "cover": "label",
+  "name": {
+    "la": "Contra Maximinum Arianum",
+    "en-US": "Answer to Maximinus the Arian",
+    "pt-BR": "Contra Maximino, o ariano"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's written sequel to his debate with the Arian bishop Maximinus, whose long final speech had used up the day. Book I shows that Maximinus failed to refute him; Book II refutes Maximinus's own arguments on the Trinity.",
+    "pt-BR": "Continuação escrita do debate de Agostinho com o bispo ariano Maximino, cujo longo discurso final consumira o dia. O Livro I mostra que Maximino não o refutou; o Livro II rebate os argumentos do próprio Maximino sobre a Trindade.",
+    "la": "Augustini responsio scripta post collationem cum Maximino, Arianorum episcopo, cuius longissimus sermo diei spatium consumpserat. Liber primus ostendit Maximinum dicta Augustini non refutasse; secundus ipsius Maximini argumenta de Trinitate refellit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~ContraMax",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~ContraMax",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~ContraMax",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    }
+  ]
+}

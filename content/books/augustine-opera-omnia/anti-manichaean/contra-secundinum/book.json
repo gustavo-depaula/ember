@@ -1,0 +1,67 @@
+{
+  "id": "augustine-contra-secundinum",
+  "cover": "label",
+  "name": {
+    "la": "Contra Secundinum Manichaeum",
+    "en-US": "Answer to Secundinus, a Manichean",
+    "pt-BR": "Contra Secundino, o maniqueu"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Augustine's reply to a friendly letter from Secundinus, a Manichean \"hearer\" who urged him to stop attacking the sect and to embrace it. Secundinus's letter comes first; Augustine judged this answer the best of his writings against the Manicheans.",
+    "pt-BR": "Resposta de Agostinho a uma carta amistosa de Secundino, \"ouvinte\" maniqueu que o exortava a deixar de atacar a seita e a abraçá-la. A carta de Secundino vem primeiro; Agostinho tinha esta resposta pela melhor de suas obras contra os maniqueus.",
+    "la": "Responsio Augustini ad amicam epistulam Secundini, Manichaeorum auditoris, qui eum hortabatur ut sectam impugnare desineret eamque amplecteretur. Praeponitur Secundini epistula; hunc librum Augustinus omnibus suis contra Manichaeos scriptis praetulit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~Secundinus",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~Secundinus",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~Secundinus",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes II",
+        "en-US": "Revisions II",
+        "pt-BR": "Revisões II"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Secundini Manichaei ad Sanctum Augustinum epistola",
+        "en-US": "The letter of Secundinus the Manichean to Saint Augustine",
+        "pt-BR": "Carta de Secundino, o maniqueu, a Santo Agostinho"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Contra Secundinum Manichaeum",
+        "en-US": "Answer to Secundinus, a Manichean",
+        "pt-BR": "Contra Secundino, o maniqueu"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "augustine-de-utilitate-credendi",
+  "cover": "label",
+  "name": {
+    "la": "De utilitate credendi",
+    "en-US": "The Advantage of Believing",
+    "pt-BR": "A utilidade de crer"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Written as a priest at Hippo for his friend Honoratus, held by the Manichees and mocking the Catholic faith for commanding belief before reason. Augustine shows why authority and faith rightly come first.",
+    "pt-BR": "Escrito quando já era presbítero em Hipona para o amigo Honorato, preso aos maniqueus e zombando da fé católica por mandar crer antes de dar razões. Agostinho mostra por que a autoridade e a fé vêm, com razão, primeiro.",
+    "la": "Presbyter Hippone scripsit ad Honoratum amicum, Manichaeorum errore detentum et disciplinam catholicam irridentem quod credere iuberet antequam ratione doceret. Augustinus cur auctoritas et fides recte praecedant ostendit."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deUtil",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deUtil",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deUtil",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Retractationes I",
+        "en-US": "Revisions I",
+        "pt-BR": "Revisões I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    }
+  ]
+}

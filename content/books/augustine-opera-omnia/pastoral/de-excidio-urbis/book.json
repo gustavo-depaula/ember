@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-excidio-urbis",
+  "cover": "label",
+  "name": {
+    "la": "De excidio urbis Romae",
+    "en-US": "On the Sack of the City of Rome",
+    "pt-BR": "O saque da cidade de Roma"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A sermon preached soon after the sack of Rome, answering those who asked why God had not spared the city for the sake of its just. Drawing on Daniel’s confession and Abraham’s plea for Sodom, Augustine reads the disaster as a father’s chastisement.",
+    "pt-BR": "Sermão pregado pouco depois do saque de Roma, em resposta aos que perguntavam por que Deus não poupara a cidade por causa dos justos que nela viviam. Partindo da confissão de Daniel e da intercessão de Abraão por Sodoma, Agostinho lê a catástrofe como correção paterna.",
+    "la": "Sermo paulo post Urbem vastatam habitus, contra eos qui quaerebant cur Deus propter iustos urbi non pepercisset; ex Danielis confessione et Abrahae pro Sodomis deprecatione cladem ut paternam correptionem interpretatur."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~ExcidRoma",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~ExcidRoma",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~ExcidRoma",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De excidio urbis Romae",
+        "en-US": "On the Sack of the City of Rome",
+        "pt-BR": "O saque da cidade de Roma"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": "augustine-de-fide-rerum-invisibilium",
+  "cover": "label",
+  "name": {
+    "la": "De fide rerum quae non videntur",
+    "en-US": "Faith in the Unseen",
+    "pt-BR": "A fé nas coisas que não se veem"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "A short work against those who mock Christian faith for believing what cannot be seen. We already trust a friend's unseen goodwill, and the Church's spread fulfills the prophecies, so what is unseen must be believed.",
+    "pt-BR": "Breve obra contra os que zombam da fé cristã por crer no que não se vê. Já confiamos na boa vontade invisível de um amigo, e a expansão da Igreja cumpre as profecias; logo, deve-se crer também no que não se vê.",
+    "la": "Breve opus contra eos qui fidem Christianam irrident, quod quae non videntur credere iubeat. Etiam amici voluntatem non visam credimus, et Ecclesiae per orbem diffusio prophetias implet; ergo credenda sunt etiam quae non videntur."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deFideRe",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deFideRe",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deFideRe",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "De fide rerum quae non videntur",
+        "en-US": "Faith in the Unseen",
+        "pt-BR": "A fé nas coisas que não se veem"
+      }
+    }
+  ]
+}

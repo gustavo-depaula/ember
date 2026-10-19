@@ -1,0 +1,67 @@
+{
+  "id": "augustine-de-libero-arbitrio",
+  "cover": "label",
+  "name": {
+    "la": "De libero arbitrio",
+    "en-US": "On Free Will",
+    "pt-BR": "O livre-arbítrio"
+  },
+  "author": {
+    "la": "Sanctus Augustinus Hipponensis",
+    "en-US": "St. Augustine of Hippo",
+    "pt-BR": "Santo Agostinho de Hipona"
+  },
+  "description": {
+    "en-US": "Three books of dialogue with Evodius, opening with the question whether God is the author of evil. Evil is traced to the free choice of the will, which is itself a good given by God.",
+    "pt-BR": "Três livros de diálogo com Evódio, que começam pela pergunta se Deus é o autor do mal. A origem do mal é situada no livre-arbítrio da vontade, que é ele mesmo um bem dado por Deus.",
+    "la": "Tres libri dialogi cum Evodio, a quaestione orsi utrum Deus non sit auctor mali. Malum ad liberum voluntatis arbitrium refertur, quod ipsum bonum a Deo datum est."
+  },
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "https://augustinus.cc/la/la/~deLib",
+      "description": "Latin text (public domain), mirrored from augustinus.cc."
+    },
+    {
+      "language": "en-US",
+      "url": "https://augustinus.cc/en/en/~deLib",
+      "description": "English translation by the Aquinas Institute, mirrored from augustinus.cc."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://augustinus.cc/pt/pt/~deLib",
+      "description": "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc."
+    }
+  ],
+  "toc": [
+    {
+      "id": "ch001",
+      "title": {
+        "la": "Liber I",
+        "en-US": "Book I",
+        "pt-BR": "Livro I"
+      }
+    },
+    {
+      "id": "ch002",
+      "title": {
+        "la": "Liber II",
+        "en-US": "Book II",
+        "pt-BR": "Livro II"
+      }
+    },
+    {
+      "id": "ch003",
+      "title": {
+        "la": "Liber III",
+        "en-US": "Book III",
+        "pt-BR": "Livro III"
+      }
+    }
+  ]
+}
