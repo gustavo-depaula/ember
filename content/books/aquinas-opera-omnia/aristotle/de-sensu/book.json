@@ -3,20 +3,24 @@
   "cover": "label",
   "name": {
     "en-US": "Commentary on the De Sensu et Sensato",
-    "la": "Sententia super De Sensu et Sensato"
+    "la": "Sententia super De Sensu et Sensato",
+    "pt-BR": "Comentário ao De Sensu et Sensato"
   },
   "author": {
     "en-US": "St. Thomas Aquinas",
-    "la": "Sanctus Thomas Aquinas"
+    "la": "Sanctus Thomas Aquinas",
+    "pt-BR": "Santo Tomás de Aquino"
   },
   "description": {
     "en-US": "Aquinas's commentary on Aristotle's *De Sensu et Sensato* — on the external senses and their objects, complementing the *De Anima* commentary.",
-    "la": "Expositio *De Sensu et Sensato* Aristotelis — de sensibus exterioribus et eorum obiectis, *De Anima* expositionem complens."
+    "la": "Expositio *De Sensu et Sensato* Aristotelis — de sensibus exterioribus et eorum obiectis, *De Anima* expositionem complens.",
+    "pt-BR": "Comentário de Santo Tomás ao *De Sensu et Sensato* de Aristóteles — sobre os sentidos externos e os seus objetos, complementando o comentário ao *De Anima*."
   },
   "composed": "c. 1268–1270",
   "languages": [
     "en-US",
-    "la"
+    "la",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -35,14 +39,16 @@
       "id": "g1",
       "title": {
         "en-US": "Tractate 1 — Prologue",
-        "la": "Tractatus 1"
+        "la": "Tractatus 1",
+        "pt-BR": "Tratado 1 — Prólogo"
       },
       "children": [
         {
           "id": "g1-pr",
           "title": {
             "en-US": "Prologue — Prologue",
-            "la": "Prooemium"
+            "la": "Prooemium",
+            "pt-BR": "Prólogo"
           }
         }
       ]
@@ -51,133 +57,152 @@
       "id": "g2",
       "title": {
         "en-US": "Tractate 2 — On the Exterior Sense",
-        "la": "Tractatus 2"
+        "la": "Tractatus 2",
+        "pt-BR": "Tratado 2 — O sentido exterior"
       },
       "children": [
         {
           "id": "g2-c001",
           "title": {
             "en-US": "Lecture 1 — Each sense’s power",
-            "la": "Lectio 1"
+            "la": "Lectio 1",
+            "pt-BR": "Lição 1 — A virtude de cada sentido"
           }
         },
         {
           "id": "g2-c002",
           "title": {
             "en-US": "Lecture 2 — Whether sight is made of fire",
-            "la": "Lectio 2"
+            "la": "Lectio 2",
+            "pt-BR": "Lição 2 — Se a visão é feita de fogo"
           }
         },
         {
           "id": "g2-c003",
           "title": {
             "en-US": "Lecture 3 — Sight constituted of water",
-            "la": "Lectio 3"
+            "la": "Lectio 3",
+            "pt-BR": "Lição 3 — A visão constituída de água"
           }
         },
         {
           "id": "g2-c004",
           "title": {
             "en-US": "Lecture 4 — The matter of each sense-organ",
-            "la": "Lectio 4"
+            "la": "Lectio 4",
+            "pt-BR": "Lição 4 — A matéria de cada órgão dos sentidos"
           }
         },
         {
           "id": "g2-c005",
           "title": {
             "en-US": "Lecture 5 — The nature of color",
-            "la": "Lectio 5"
+            "la": "Lectio 5",
+            "pt-BR": "Lição 5 — A natureza da cor"
           }
         },
         {
           "id": "g2-c006",
           "title": {
             "en-US": "Lecture 6 — The species of color",
-            "la": "Lectio 6"
+            "la": "Lectio 6",
+            "pt-BR": "Lição 6 — As espécies da cor"
           }
         },
         {
           "id": "g2-c007",
           "title": {
             "en-US": "Lecture 7 — How colors are generated",
-            "la": "Lectio 7"
+            "la": "Lectio 7",
+            "pt-BR": "Lição 7 — Como se geram as cores"
           }
         },
         {
           "id": "g2-c008",
           "title": {
             "en-US": "Lecture 8 — Errors about flavor",
-            "la": "Lectio 8"
+            "la": "Lectio 8",
+            "pt-BR": "Lição 8 — Erros acerca do sabor"
           }
         },
         {
           "id": "g2-c009",
           "title": {
             "en-US": "Lecture 9 — The nature of flavor",
-            "la": "Lectio 9"
+            "la": "Lectio 9",
+            "pt-BR": "Lição 9 — A natureza do sabor"
           }
         },
         {
           "id": "g2-c010",
           "title": {
             "en-US": "Lecture 10 — Cause and species of flavors",
-            "la": "Lectio 10"
+            "la": "Lectio 10",
+            "pt-BR": "Lição 10 — Causa e espécies dos sabores"
           }
         },
         {
           "id": "g2-c011",
           "title": {
             "en-US": "Lecture 11 — The nature of odor",
-            "la": "Lectio 11"
+            "la": "Lectio 11",
+            "pt-BR": "Lição 11 — A natureza do odor"
           }
         },
         {
           "id": "g2-c012",
           "title": {
             "en-US": "Lecture 12 — The species of odors",
-            "la": "Lectio 12"
+            "la": "Lectio 12",
+            "pt-BR": "Lição 12 — As espécies dos odores"
           }
         },
         {
           "id": "g2-c013",
           "title": {
             "en-US": "Lecture 13 — How non-breathing animals smell",
-            "la": "Lectio 13"
+            "la": "Lectio 13",
+            "pt-BR": "Lição 13 — Como sentem o odor os animais que não respiram"
           }
         },
         {
           "id": "g2-c014",
           "title": {
             "en-US": "Lecture 14 — Whether sensible objects are infinitely divisible",
-            "la": "Lectio 14"
+            "la": "Lectio 14",
+            "pt-BR": "Lição 14 — Se os sensíveis são divisíveis ao infinito"
           }
         },
         {
           "id": "g2-c015",
           "title": {
             "en-US": "Lecture 15 — Whether there is a midpoint between the sensible object and the sense",
-            "la": "Lectio 15"
+            "la": "Lectio 15",
+            "pt-BR": "Lição 15 — Se há um intermediário entre o sensível e o sentido"
           }
         },
         {
           "id": "g2-c016",
           "title": {
             "en-US": "Lecture 16 — Whether two senses can sense simultaneously",
-            "la": "Lectio 16"
+            "la": "Lectio 16",
+            "pt-BR": "Lição 16 — Se dois sentidos podem sentir simultaneamente"
           }
         },
         {
           "id": "g2-c017",
           "title": {
             "en-US": "Lecture 17 — Simultaneous sensation continued",
-            "la": "Lectio 17"
+            "la": "Lectio 17",
+            "pt-BR": "Lição 17 — Continuação sobre a sensação simultânea"
           }
         },
         {
           "id": "g2-c018",
           "title": {
             "en-US": "Lecture 18 — How simultaneous sensation is possible",
-            "la": "Lectio 18"
+            "la": "Lectio 18",
+            "pt-BR": "Lição 18 — Como é possível a sensação simultânea"
           }
         }
       ]
