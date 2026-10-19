@@ -24,8 +24,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "peter",
@@ -38,8 +38,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "peter",
@@ -52,8 +52,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "peter",
@@ -94,8 +94,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "anacletus-i",
@@ -108,8 +108,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "anacletus-i",
@@ -122,8 +122,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "anacletus-i",
@@ -320,8 +320,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "evaristus",
@@ -334,8 +334,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "evaristus",
@@ -348,8 +348,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -673,8 +673,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "alexander-i",
@@ -687,8 +687,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "alexander-i",
@@ -701,8 +701,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -804,8 +804,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "sixtus-i",
@@ -818,8 +818,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "telesphorus",
@@ -832,8 +832,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -874,8 +874,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "hyginus",
@@ -888,8 +888,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -930,8 +930,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "pius-i",
@@ -944,8 +944,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "pius-i",
@@ -958,8 +958,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "anicetus",
@@ -972,8 +972,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "anicetus",
@@ -986,8 +986,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -1043,8 +1043,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "victor-i",
@@ -1057,8 +1057,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "zephyrinus",
@@ -1072,8 +1072,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "zephyrinus",
@@ -1086,8 +1086,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "zephyrinus",
@@ -1100,8 +1100,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "callixtus-i",
@@ -1114,8 +1114,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "callixtus-i",
@@ -1128,8 +1128,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -1200,8 +1200,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -1229,8 +1229,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "pontian",
@@ -1244,8 +1244,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "pontian",
@@ -1258,8 +1258,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -1288,8 +1288,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "fabian",
@@ -1303,8 +1303,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "fabian",
@@ -1318,8 +1318,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "fabian",
@@ -1332,8 +1332,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "holy-see",
@@ -1432,8 +1432,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "holy-see",
@@ -1488,8 +1488,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "lucius-i",
@@ -1502,8 +1502,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "lucius-i",
@@ -1516,8 +1516,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "lucius-i",
@@ -1530,8 +1530,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "lucius-i",
@@ -1614,8 +1614,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "stephen-i",
@@ -1628,8 +1628,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-i",
@@ -1672,8 +1672,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "sixtus-ii",
@@ -1686,8 +1686,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "sixtus-ii",
@@ -1728,8 +1728,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "dionysius",
@@ -1770,8 +1770,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "dionysius",
@@ -1798,8 +1798,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "felix-i",
@@ -1812,8 +1812,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "felix-i",
@@ -1826,8 +1826,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "felix-i",
@@ -1854,8 +1854,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "eutychian",
@@ -1868,8 +1868,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "eutychian",
@@ -1924,8 +1924,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "caius",
@@ -1938,8 +1938,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "caius",
@@ -1952,8 +1952,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "caius",
@@ -2084,8 +2084,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "marcellus-i",
@@ -2112,8 +2112,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "eusebius",
@@ -2126,8 +2126,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "eusebius",
@@ -2154,8 +2154,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "miltiades",
@@ -2168,8 +2168,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "miltiades",
@@ -2182,8 +2182,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "miltiades",
@@ -2196,8 +2196,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "miltiades",
@@ -2224,8 +2224,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "sylvester-i",
@@ -2238,8 +2238,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "sylvester-i",
@@ -2252,8 +2252,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "authorship doubted by the source"
  },
  {
   "author": "sylvester-i",
@@ -2296,8 +2296,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "authorship doubted by the source"
  },
  {
   "author": "mark",
@@ -2324,8 +2324,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "julius-i",
@@ -2366,8 +2366,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "julius-i",
@@ -2380,8 +2380,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "julius-i",
@@ -2394,8 +2394,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "julius-i",
@@ -2408,8 +2408,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "julius-i",
@@ -2450,8 +2450,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "julius-i",
@@ -2464,8 +2464,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "julius-i",
@@ -2493,8 +2493,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "julius-i",
@@ -2582,8 +2582,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "liberius",
@@ -2610,8 +2610,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "liberius",
@@ -2624,8 +2624,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "liberius",
@@ -2652,8 +2652,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "liberius",
@@ -2783,8 +2783,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "damasus-i",
@@ -2811,8 +2811,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "damasus-i",
@@ -2839,8 +2839,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "damasus-i",
@@ -3147,8 +3147,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "authorship doubted by the source"
  },
  {
   "author": "anastasius-i",
@@ -3206,8 +3206,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "innocent-i",
@@ -3234,8 +3234,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "innocent-i",
@@ -3413,8 +3413,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "zosimus",
@@ -3455,8 +3455,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "zosimus",
@@ -3483,8 +3483,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "boniface-i",
@@ -3497,8 +3497,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "boniface-i",
@@ -3615,8 +3615,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "sixtus-iii",
@@ -3800,8 +3800,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-i",
@@ -3814,8 +3814,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-i",
@@ -3828,8 +3828,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-i",
@@ -3859,8 +3859,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-i",
@@ -3873,8 +3873,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-i",
@@ -3887,8 +3887,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-i",
@@ -3901,8 +3901,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-i",
@@ -3943,8 +3943,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-i",
@@ -3958,8 +3958,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-i",
@@ -4166,8 +4166,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "hilarius",
@@ -4180,8 +4180,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "hilarius",
@@ -4208,8 +4208,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "simplicius",
@@ -4378,8 +4378,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gelasius-i",
@@ -4392,8 +4392,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gelasius-i",
@@ -4668,8 +4668,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "felix-iv",
@@ -4682,8 +4682,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "felix-iv",
@@ -4725,8 +4725,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "boniface-ii",
@@ -4810,8 +4810,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-ii",
@@ -4839,8 +4839,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "silverius",
@@ -4982,8 +4982,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "pelagius-i",
@@ -5283,8 +5283,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5330,8 +5330,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-i",
@@ -5358,8 +5358,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5372,8 +5372,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5386,8 +5386,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5400,8 +5400,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5414,8 +5414,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5471,8 +5471,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5515,8 +5515,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5529,8 +5529,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5543,8 +5543,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5585,8 +5585,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "holy-see",
@@ -5599,8 +5599,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-i",
@@ -5702,8 +5702,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "boniface-iv",
@@ -5805,8 +5805,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "boniface-v",
@@ -5833,8 +5833,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "honorius-i",
@@ -5847,8 +5847,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "honorius-i",
@@ -5920,8 +5920,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-iv",
@@ -5991,8 +5991,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "theodore-i",
@@ -6005,8 +6005,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "theodore-i",
@@ -6019,8 +6019,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "theodore-i",
@@ -6061,8 +6061,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "martin-i",
@@ -6118,8 +6118,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "vitalian",
@@ -6217,8 +6217,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "donus",
@@ -6231,8 +6231,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "donus",
@@ -6259,8 +6259,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "agatho",
@@ -6317,8 +6317,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-ii",
@@ -6360,8 +6360,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "benedict-ii",
@@ -6403,8 +6403,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "john-v",
@@ -6623,8 +6623,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "constantine",
@@ -6651,8 +6651,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-ii",
@@ -6793,8 +6793,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-iii",
@@ -6850,8 +6850,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "gregory-iii",
@@ -6892,8 +6892,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "zachary",
@@ -6920,8 +6920,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "zachary",
@@ -6992,8 +6992,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-iii",
@@ -7035,8 +7035,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "paul-i",
@@ -7077,8 +7077,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-iv",
@@ -7105,8 +7105,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "adrian-i",
@@ -7147,8 +7147,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "adrian-i",
@@ -7274,8 +7274,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-iii",
@@ -7302,8 +7302,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-iii",
@@ -7420,8 +7420,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-v",
@@ -7434,8 +7434,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "paschal-i",
@@ -7448,8 +7448,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "paschal-i",
@@ -7462,8 +7462,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "paschal-i",
@@ -7490,8 +7490,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "eugene-ii",
@@ -7532,8 +7532,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "eugene-ii",
@@ -7588,8 +7588,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-iv",
@@ -7602,8 +7602,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-iv",
@@ -7672,8 +7672,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "sergius-ii",
@@ -7714,8 +7714,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-iv",
@@ -7728,8 +7728,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-iv",
@@ -7800,8 +7800,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "benedict-iii",
@@ -7814,8 +7814,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "benedict-iii",
@@ -7857,8 +7857,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "nicholas-i",
@@ -7899,8 +7899,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "nicholas-i",
@@ -7984,8 +7984,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "adrian-ii",
@@ -8139,8 +8139,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-vi",
@@ -8182,8 +8182,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "formosus",
@@ -8224,8 +8224,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-vii",
@@ -8252,8 +8252,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "romanus",
@@ -8294,8 +8294,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-ix",
@@ -8336,8 +8336,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "benedict-iv",
@@ -8378,8 +8378,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "sergius-iii",
@@ -8420,8 +8420,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "anastasius-iii",
@@ -8518,8 +8518,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-viii",
@@ -8546,8 +8546,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-xi",
@@ -8574,8 +8574,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-vii",
@@ -8602,8 +8602,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "marinus-ii",
@@ -8630,8 +8630,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "agapetus-ii",
@@ -8658,8 +8658,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-xii",
@@ -8756,8 +8756,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "benedict-vi",
@@ -8784,8 +8784,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "benedict-vii",
@@ -8854,8 +8854,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-xv",
@@ -8897,8 +8897,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-v",
@@ -8939,8 +8939,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "sylvester-ii",
@@ -8967,8 +8967,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "sylvester-ii",
@@ -9023,8 +9023,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "sylvester-ii",
@@ -9065,8 +9065,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "sylvester-ii",
@@ -9149,8 +9149,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "sylvester-ii",
@@ -9191,8 +9191,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "sylvester-ii",
@@ -9219,8 +9219,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-xviii",
@@ -9275,8 +9275,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "sergius-iv",
@@ -9345,8 +9345,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-xix",
@@ -9429,8 +9429,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-vi",
@@ -9471,8 +9471,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "clement-ii",
@@ -9499,8 +9499,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "benedict-ix",
@@ -9541,8 +9541,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-ix",
@@ -9625,8 +9625,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "leo-ix",
@@ -9696,8 +9696,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "victor-ii",
@@ -9724,8 +9724,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "stephen-x",
@@ -9766,8 +9766,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "nicholas-ii",
@@ -9780,8 +9780,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "nicholas-ii",
@@ -9902,8 +9902,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "alexander-ii",
@@ -9916,8 +9916,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "alexander-ii",
@@ -9959,8 +9959,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-vii",
@@ -10016,8 +10016,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-vii",
@@ -10030,8 +10030,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "gregory-vii",
@@ -10058,8 +10058,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "gregory-vii",
@@ -10100,8 +10100,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "victor-iii",
@@ -10114,8 +10114,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "victor-iii",
@@ -10128,8 +10128,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "victor-iii",
@@ -10185,8 +10185,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "urban-ii",
@@ -10199,8 +10199,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "urban-ii",
@@ -10213,8 +10213,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "urban-ii",
@@ -10313,8 +10313,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "paschal-ii",
@@ -10496,8 +10496,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "callixtus-ii",
@@ -10510,8 +10510,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "callixtus-ii",
@@ -10524,8 +10524,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "callixtus-ii",
@@ -10601,8 +10601,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "honorius-ii",
@@ -10657,8 +10657,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "innocent-ii",
@@ -10671,8 +10671,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "innocent-ii",
@@ -10762,8 +10762,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "celestine-ii",
@@ -10790,8 +10790,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "lucius-ii",
@@ -10804,8 +10804,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "lucius-ii",
@@ -10846,8 +10846,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "eugene-iii",
@@ -10860,8 +10860,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "eugene-iii",
@@ -10931,8 +10931,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "anastasius-iv",
@@ -10959,8 +10959,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "adrian-iv",
@@ -10973,8 +10973,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "adrian-iv",
@@ -11043,8 +11043,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "alexander-iii",
@@ -11099,8 +11099,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "alexander-iii",
@@ -11208,8 +11208,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "lucius-iii",
@@ -11222,8 +11222,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "lucius-iii",
@@ -11236,8 +11236,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "lucius-iii",
@@ -11307,8 +11307,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "urban-iii",
@@ -11335,8 +11335,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "clement-iii",
@@ -11349,8 +11349,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "clement-iii",
@@ -11363,8 +11363,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "clement-iii",
@@ -11419,8 +11419,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "gregory-viii",
@@ -11433,8 +11433,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "gregory-viii",
@@ -11475,8 +11475,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "innocent-iii",
@@ -11517,8 +11517,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11531,8 +11531,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11602,8 +11602,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11630,8 +11630,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11700,8 +11700,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11798,8 +11798,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11812,8 +11812,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11826,8 +11826,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iii",
@@ -11840,8 +11840,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "about the pope or addressed to him, not his act"
  },
  {
   "author": "innocent-iii",
@@ -12970,8 +12970,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "innocent-iv",
@@ -13117,8 +13117,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "alexander-iv",
@@ -13319,8 +13319,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "urban-iv",
@@ -14075,8 +14075,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "clement-vi",
@@ -14151,8 +14151,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "urban-v",
@@ -14270,8 +14270,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "boniface-ix",
@@ -14730,8 +14730,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "callixtus-iii",
@@ -14802,8 +14802,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-ii",
@@ -14816,8 +14816,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-ii",
@@ -14917,8 +14917,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "sixtus-iv",
@@ -15051,8 +15051,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "compilation or non-magisterial item"
  },
  {
   "author": "innocent-viii",
@@ -15178,8 +15178,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-x",
@@ -15257,8 +15257,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "clement-vii",
@@ -15893,8 +15893,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "sixtus-v",
@@ -16166,8 +16166,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "paul-v",
@@ -16242,8 +16242,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "urban-viii",
@@ -16270,8 +16270,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "innocent-x",
@@ -16298,8 +16298,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "innocent-x",
@@ -16725,8 +16725,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "clement-xii",
@@ -20438,8 +20438,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "compilation or non-magisterial item"
  },
  {
   "author": "gregory-xvi",
@@ -22080,7 +22080,7 @@
    "documentacatholicaomnia.eu"
   ],
   "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "leo-xiii",
@@ -27152,8 +27152,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27182,8 +27182,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27226,8 +27226,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27270,8 +27270,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27500,8 +27500,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27514,8 +27514,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27543,8 +27543,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27602,8 +27602,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27661,8 +27661,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27780,8 +27780,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -27809,8 +27809,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -28043,8 +28043,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -28133,8 +28133,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xv",
@@ -30738,8 +30738,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -30863,8 +30863,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -31267,8 +31267,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -31830,8 +31830,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -31972,8 +31972,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -31986,8 +31986,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -32000,8 +32000,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -32028,8 +32028,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -32087,8 +32087,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "cdf-pcb",
@@ -32536,8 +32536,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -32670,8 +32670,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -32684,8 +32684,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "cdf-pcb",
@@ -32964,8 +32964,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -33039,8 +33039,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "pius-xii",
@@ -35404,8 +35404,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-xxiii",
@@ -35569,8 +35569,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-xxiii",
@@ -36393,8 +36393,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-xxiii",
@@ -36438,8 +36438,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-xxiii",
@@ -36490,7 +36490,7 @@
    "documentacatholicaomnia.eu"
   ],
   "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "paul-vi",
@@ -36509,8 +36509,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -36670,8 +36670,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -36684,8 +36684,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -36712,8 +36712,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -36755,8 +36755,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -36787,8 +36787,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37018,8 +37018,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37097,8 +37097,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37149,8 +37149,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37163,8 +37163,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37191,8 +37191,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37205,8 +37205,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37236,8 +37236,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37250,8 +37250,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -37543,8 +37543,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "vatican-ii",
@@ -37813,8 +37813,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38412,8 +38412,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38616,8 +38616,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38735,8 +38735,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "cdf",
@@ -38818,8 +38818,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38846,8 +38846,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38862,8 +38862,8 @@
    "vatican.va",
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "occasional letter (envoy, anniversary, greeting)"
  },
  {
   "author": "paul-vi",
@@ -38876,8 +38876,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38890,8 +38890,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38935,8 +38935,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -38949,8 +38949,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39174,8 +39174,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39246,8 +39246,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39274,8 +39274,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39302,8 +39302,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39364,8 +39364,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39613,8 +39613,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39641,8 +39641,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39811,8 +39811,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39855,8 +39855,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39906,8 +39906,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39920,8 +39920,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -39962,8 +39962,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "clergy",
@@ -40006,8 +40006,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -40078,8 +40078,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -40220,8 +40220,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -40264,8 +40264,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -40280,8 +40280,8 @@
    "vatican.va",
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "occasional letter (envoy, anniversary, greeting)"
  },
  {
   "author": "paul-vi",
@@ -40294,8 +40294,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "clergy",
@@ -40336,8 +40336,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "cdf-cti",
@@ -40464,8 +40464,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "clergy",
@@ -40492,8 +40492,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -40506,8 +40506,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -41108,8 +41108,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -41218,8 +41218,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -42701,8 +42701,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -44232,8 +44232,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "paul-vi",
@@ -44328,7 +44328,7 @@
    "documentacatholicaomnia.eu"
   ],
   "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "reason": "collected volume: split into single documents at import"
  },
  {
   "author": "john-paul-ii",
@@ -44349,8 +44349,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -44755,8 +44755,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-i",
@@ -47400,8 +47400,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "cdf",
@@ -49967,8 +49967,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -50253,8 +50253,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -50557,8 +50557,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -51065,8 +51065,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -51389,8 +51389,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -51502,8 +51502,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -53889,8 +53889,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -55169,8 +55169,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -56409,8 +56409,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -71891,8 +71891,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -75171,8 +75171,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "john-paul-ii",
@@ -82555,8 +82555,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "family",

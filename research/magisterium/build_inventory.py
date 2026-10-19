@@ -394,8 +394,47 @@ DCO_COUNCIL = {
 DCO_LANG = {"LT": "la", "MLT": "la", "GE": "de", "MGR": "grc", "GR": "grc", "SP": "es"}
 # Compilations, reference works and non-magisterial items DCO files under a pope.
 DCO_NOT_A_DOCUMENT = re.compile(
-    r"(acta apostolicae sedis|acta sanctae sedis|apocryph|\bvita\b|opera omnia|bullarium|liber pontificalis|"
+    r"(acta apostolicae sedis|acta sanctae sedis|pontificis maximi acta|bullrium|apocryph|\bvita\b|opera omnia|bullarium|liber pontificalis|"
     r"\bindex\b|documenta omnia|regesta|registrum|epistolae et decreta|biographia|conspectus)", re.I)
+
+
+# DCO files everything about a pope on his page. These are not his acts:
+# writings about him, letters to him, and works he wrote as a private author.
+DCO_ABOUT_POPE = re.compile(
+    r"(descrizione|archeolog|epitaph|elogium|martyrolog|miracul|martyrium|passio\b|depositio|tomba|sepulcr|"
+    r"\bad\b[^']*\bpapam\b|\bto pope\b|diversorum ad|variorum ad|rescriptum [a-z]+ ad)", re.I)
+DCO_PRIVATE_WORK = re.compile(
+    r"(sermones|sermo\b|homili|omelia|regulae? pastoralis|de rationali|diatrib|moralium|expositio|hymni|carmina|libellus|encomium|\boratio\b|dialog|"
+    r"liber sacramentorum|concordia quorumdam|de conflictu|de corpore et sanguine|commentari|tractatus|"
+    r"regola di|memoriale rituum)", re.I)
+DCO_SPURIOUS = re.compile(r"(perperam attributae|dubiae auctoritatis|spuri|suppositi)", re.I)
+# A Migne or Cherubini volume of a pope's collected acts: hundreds of documents in one file.
+DCO_COLLECTION = re.compile(
+    r"^(epistolae|epistola et decreta|epistolae (et|ed) (decreta|privilegia|diplomata)|decreta|decretalia|"
+    r"fragmenta|capitula|acta pontificalia|supplementum|constitutiones|scripta|documenta)\b", re.I)
+# Before Siricius (384) almost every "decree" DCO carries comes from the
+# Pseudo-Isidorian forgeries; these early popes have genuine surviving letters.
+GENUINE_EARLY = {"clement-i", "cornelius", "dionysius", "julius-i", "liberius", "damasus-i", "stephen-i"}
+
+
+def dco_status(author: str, date: str | None, title: str) -> tuple[str, str]:
+    if DCO_NOT_A_DOCUMENT.search(title):
+        return "exclude", "compilation or non-magisterial item"
+    if DCO_ABOUT_POPE.search(title):
+        return "exclude", "about the pope or addressed to him, not his act"
+    if DCO_PRIVATE_WORK.search(title):
+        return "exclude", "the pope's private writing (sermons, commentaries, poems)"
+    if author == "holy-see":
+        return "review", "DCO catch-all page, issuer unclear"
+    if DCO_SPURIOUS.search(title):
+        return "review", "authorship doubted by the source"
+    if (date or "9999") < "0384" and author not in GENUINE_EARLY:
+        return "review", "pre-Siricius decree: probably Pseudo-Isidorian"
+    if DCO_COLLECTION.search(title):
+        return "review", "collected volume: split into single documents at import"
+    if (date or "0") < "1878":
+        return "include", ""
+    return "review", "only on DCO (no vatican.va record)"
 
 
 def dco_incipit(title: str) -> str:
@@ -424,14 +463,7 @@ def from_dco(inv: Inventory) -> None:
         author = pope_id(d["issuer"])
         if not author:
             author = "holy-see"
-        if DCO_NOT_A_DOCUMENT.search(d["title"]):
-            status, reason = "exclude", "compilation or non-magisterial item"
-        elif author == "holy-see":
-            status, reason = "review", "DCO catch-all page, issuer unclear"
-        elif (date or "0") < "1878":
-            status, reason = "include", ""
-        else:
-            status, reason = "review", "only on DCO (no vatican.va record)"
+        status, reason = dco_status(author, date, d["title"])
         inc = dco_incipit(d["title"])
         for lang, url in (langs or {None: None}).items():
             inv.add(author=author, incipit=inc, date=date, type_=None, title=d["title"], lang=lang, url=url,
