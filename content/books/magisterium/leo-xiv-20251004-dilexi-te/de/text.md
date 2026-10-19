@@ -315,262 +315,262 @@ LEO PP. XIV
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. Franziskus, Enzyklika [*Dilexit nos*](https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24. Oktober 2024), 170: *AAS* 116 (2024), 1422.
+1\. Franziskus, Enzyklika [*Dilexit nos*](https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24. Oktober 2024), 170: *AAS* 116 (2024), 1422.
 
-2. [*Ebd.*,](https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html) 171: *AAS* 116 (2024), 1422-1423.
+2\. [*Ebd.*,](https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html) 171: *AAS* 116 (2024), 1422-1423.
 
-3. Ders., Apostolisches Schreiben [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19. März 2018), 96: *AAS* 110 (2018), 1137.
+3\. Ders., Apostolisches Schreiben [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19. März 2018), 96: *AAS* 110 (2018), 1137.
 
-4. Franziskus, [*Ansprache an die Medienvertreter*](https://www.vatican.va/content/francesco/de/speeches/2013/march/documents/papa-francesco_20130316_rappresentanti-media.html) (16. März 2013): *AAS* 105 (2013), 381.
+4\. Franziskus, [*Ansprache an die Medienvertreter*](https://www.vatican.va/content/francesco/de/speeches/2013/march/documents/papa-francesco_20130316_rappresentanti-media.html) (16. März 2013): *AAS* 105 (2013), 381.
 
-5. J. Bergoglio, A. Skorka, *Sobre el cielo y la tierra*, Buenos Aires 2013, 214.
+5\. J. Bergoglio, A. Skorka, *Sobre el cielo y la tierra*, Buenos Aires 2013, 214.
 
-6. Hl. Paul VI., *Homilie in der Eucharistiefeier anlässlich der letzten öffentlichen Sitzung des Zweiten Vatikanischen Konzils* (7. Dezember 1965): *AAS* 58 (1966), 55-56.
+6\. Hl. Paul VI., *Homilie in der Eucharistiefeier anlässlich der letzten öffentlichen Sitzung des Zweiten Vatikanischen Konzils* (7. Dezember 1965): *AAS* 58 (1966), 55-56.
 
-7. Vgl. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 187: *AAS* 105 (2013), 1098.
+7\. Vgl. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 187: *AAS* 105 (2013), 1098.
 
-8. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 212: AAS 105 (2013), 1108.
+8\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 212: AAS 105 (2013), 1108.
 
-9. Ders., Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 23: AAS 112 (2020), 977.
+9\. Ders., Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 23: AAS 112 (2020), 977.
 
-10. [*Ebd*.](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 21: AAS 112 (2020), 976.
+10\. [*Ebd*.](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 21: AAS 112 (2020), 976.
 
-11. Rat der Europäischen Gemeinschaften, *Beschluss (85/8/EWG) über gezielte Maßnahmen zur Bekämpfung der Armut auf Gemeinschaftsebene* (19. Dezember 1984), Art. 1, Abs. 2: *Amtsblatt der Europäischen Gemeinschaften* Nr. L 2/24.
+11\. Rat der Europäischen Gemeinschaften, *Beschluss (85/8/EWG) über gezielte Maßnahmen zur Bekämpfung der Armut auf Gemeinschaftsebene* (19. Dezember 1984), Art. 1, Abs. 2: *Amtsblatt der Europäischen Gemeinschaften* Nr. L 2/24.
 
-12. Vgl. Hl. Johannes Paul II., *Katechese* (27. Oktober 1999): *L’Osservatore Romano*, 28. Oktober 1999, 4.
+12\. Vgl. Hl. Johannes Paul II., *Katechese* (27. Oktober 1999): *L’Osservatore Romano*, 28. Oktober 1999, 4.
 
-13. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 197: *AAS* 105 (2013), 1102.
+13\. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 197: *AAS* 105 (2013), 1102.
 
-14. Vgl. Ders., [*Botschaft zum V. Welttag der Armen*](https://www.vatican.va/content/francesco/de/messages/poveri/documents/20210613-messaggio-v-giornatamondiale-poveri-2021.html) (13. Juni 2021), 3: *AAS* 113 (2021), 691. »Jesus steht nicht nur auf der Seite der Armen, sondern *er teilt mit ihnen* das gleiche Schicksal. Das ist eine eindringliche Lehre auch für seine Jünger aller Zeiten.«
+14\. Vgl. Ders., [*Botschaft zum V. Welttag der Armen*](https://www.vatican.va/content/francesco/de/messages/poveri/documents/20210613-messaggio-v-giornatamondiale-poveri-2021.html) (13. Juni 2021), 3: *AAS* 113 (2021), 691. »Jesus steht nicht nur auf der Seite der Armen, sondern *er teilt mit ihnen* das gleiche Schicksal. Das ist eine eindringliche Lehre auch für seine Jünger aller Zeiten.«
 
-15. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 186: *AAS* 105 (2013), 1098.
+15\. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 186: *AAS* 105 (2013), 1098.
 
-16. Ders., Apostolisches Schreiben [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19. März 2018), 95: *AAS* 110 (2018), 1137.
+16\. Ders., Apostolisches Schreiben [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19. März 2018), 95: *AAS* 110 (2018), 1137.
 
-17. [*Ebd*.](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html), 97: *AAS* 110 (2018), 1137.
+17\. [*Ebd*.](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html), 97: *AAS* 110 (2018), 1137.
 
-18. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 194: *AAS* 105 (2013), 1101.
+18\. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 194: *AAS* 105 (2013), 1101.
 
-19. Franziskus, [*Ansprache an die Medienvertreter*](https://www.vatican.va/content/francesco/de/speeches/2013/march/documents/papa-francesco_20130316_rappresentanti-media.html) (16. März 2013): *AAS* 105 (2013), 381.
+19\. Franziskus, [*Ansprache an die Medienvertreter*](https://www.vatican.va/content/francesco/de/speeches/2013/march/documents/papa-francesco_20130316_rappresentanti-media.html) (16. März 2013): *AAS* 105 (2013), 381.
 
-20. Zweites Vatikanisches Konzil, Dogmatische Konstitution *Lumen Gentium*, 8.
+20\. Zweites Vatikanisches Konzil, Dogmatische Konstitution *Lumen Gentium*, 8.
 
-21. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 48: *AAS* 105 (2013), 1040.
+21\. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 48: *AAS* 105 (2013), 1040.
 
-22. In diesem Kapitel stellen wir einige dieser Beispiele an Heiligkeit vor, ohne einen Anspruch auf Vollständigkeit zu erheben. Vielmehr soll an ihnen jene Sorge für die Armen sichtbar werden, die seit jeher für das Wirken der Kirche in der Welt kennzeichnend ist. Eine vertiefte Reflexion über die Geschichte dieser Aufmerksamkeit für die Bedürftigsten findet sich im Buch von V. Paglia, *Storia della povertà*, Mailand 2014.
+22\. In diesem Kapitel stellen wir einige dieser Beispiele an Heiligkeit vor, ohne einen Anspruch auf Vollständigkeit zu erheben. Vielmehr soll an ihnen jene Sorge für die Armen sichtbar werden, die seit jeher für das Wirken der Kirche in der Welt kennzeichnend ist. Eine vertiefte Reflexion über die Geschichte dieser Aufmerksamkeit für die Bedürftigsten findet sich im Buch von V. Paglia, *Storia della povertà*, Mailand 2014.
 
-23. Vgl. Hl. Ambrosius, *Von den Pflichten der Kirchendiener* I, Kap. 41, 205-206: *CCSL* 15, Turnhout 2000, 76-77; II, Kap. 28, 140-143: *CCSL* 15, 148-149.
+23\. Vgl. Hl. Ambrosius, *Von den Pflichten der Kirchendiener* I, Kap. 41, 205-206: *CCSL* 15, Turnhout 2000, 76-77; II, Kap. 28, 140-143: *CCSL* 15, 148-149.
 
-24. *Ebd.*, II, Kap. 28, 140: *CCSL* 15, 148.
+24\. *Ebd.*, II, Kap. 28, 140: *CCSL* 15, 148.
 
-25. *Ebd*.
+25\. *Ebd*.
 
-26. *Ebd.*, II, Kap. 28, 142: *CCSL* 15, 148.
+26\. *Ebd.*, II, Kap. 28, 142: *CCSL* 15, 148.
 
-27. Hl. Ignatius von Antiochien, *Ignatius an die Smyrnäer*, 6, 2: *SCh* 10bis, Paris 2007, 136-138.
+27\. Hl. Ignatius von Antiochien, *Ignatius an die Smyrnäer*, 6, 2: *SCh* 10bis, Paris 2007, 136-138.
 
-28. Hl. Polykarp von Smyrna, *Brief an die Gemeinde von Philippi*, 6, 1: *SCh* 10bis, 186.
+28\. Hl. Polykarp von Smyrna, *Brief an die Gemeinde von Philippi*, 6, 1: *SCh* 10bis, 186.
 
-29. Hl. Justin der Märtyrer, *Erste Apologie*, 67, 6-7: *SCh* 507, Paris 2006, 310.
+29\. Hl. Justin der Märtyrer, *Erste Apologie*, 67, 6-7: *SCh* 507, Paris 2006, 310.
 
-30. Hl. Johannes Chrysostomus, *Kommentar zum Evangelium des heiligen Matthäus,* 50, 3: *PG* 58, Paris 1862, 508.
+30\. Hl. Johannes Chrysostomus, *Kommentar zum Evangelium des heiligen Matthäus,* 50, 3: *PG* 58, Paris 1862, 508.
 
-31. *Ebd.*, 50, 4: *PG* 58, 509.
+31\. *Ebd.*, 50, 4: *PG* 58, 509.
 
-32. Ders., *Homilien über den Brief an die Hebräer* 11, 3: *PG* 63, Paris 1862, 94.
+32\. Ders., *Homilien über den Brief an die Hebräer* 11, 3: *PG* 63, Paris 1862, 94.
 
-33. Ders., *Homilia II De Lazaro*, 6: *PG* 48, Paris 1862, 992.
+33\. Ders., *Homilia II De Lazaro*, 6: *PG* 48, Paris 1862, 992.
 
-34. Hl. Ambrosius, *De Nabuthae*, 12, 53: *CSEL* 32/2, Prag 1897, 498.
+34\. Hl. Ambrosius, *De Nabuthae*, 12, 53: *CSEL* 32/2, Prag 1897, 498.
 
-35. Hl. Augustinus, *Enarrationes in Psalmos*, 125, 12: *CCEL* 95/3, Wien 2001, 181.
+35\. Hl. Augustinus, *Enarrationes in Psalmos*, 125, 12: *CCEL* 95/3, Wien 2001, 181.
 
-36. Ders., *Sermo LXXXVI*, 5: *CCSL* 41Ab, Turnhout 2019, 411-412.
+36\. Ders., *Sermo LXXXVI*, 5: *CCSL* 41Ab, Turnhout 2019, 411-412.
 
-37. Pseudo-augustinus, *Sermo CCCLXXXVIII*, 2: *PL* 39, Paris 1862, 1700.
+37\. Pseudo-augustinus, *Sermo CCCLXXXVIII*, 2: *PL* 39, Paris 1862, 1700.
 
-38. Hl. Cyprian von Karthago, *Über die Sterblichkeit*, 16: *CCSL* 3A, Turnhout 1976, 25.
+38\. Hl. Cyprian von Karthago, *Über die Sterblichkeit*, 16: *CCSL* 3A, Turnhout 1976, 25.
 
-39. Franziskus, [*Botschaft zum XXX. Welttag der Kranken*](https://www.vatican.va/content/francesco/de/messages/sick/documents/20211210_30-giornata-malato.html) (10. Dezember 2021), 3: *AAS* 114 (2022), 51.
+39\. Franziskus, [*Botschaft zum XXX. Welttag der Kranken*](https://www.vatican.va/content/francesco/de/messages/sick/documents/20211210_30-giornata-malato.html) (10. Dezember 2021), 3: *AAS* 114 (2022), 51.
 
-40. Hl. Kamillus von Lellis, *Regole della Compagnia dei Servi degli Infermi*, 27: M. Vanti (Hrsg.), *Scritti di San Camillo de Lellis*, Mailand 1965, 67.
+40\. Hl. Kamillus von Lellis, *Regole della Compagnia dei Servi degli Infermi*, 27: M. Vanti (Hrsg.), *Scritti di San Camillo de Lellis*, Mailand 1965, 67.
 
-41. Hl. Luise von Marillac, *Lettre aux très chères Sœurs Claude et Marie* (28. November 1657): E. Charpy (Hrsg.), *Sainte Louise de Marillac. Écrits,* Paris 1983, 576.
+41\. Hl. Luise von Marillac, *Lettre aux très chères Sœurs Claude et Marie* (28. November 1657): E. Charpy (Hrsg.), *Sainte Louise de Marillac. Écrits,* Paris 1983, 576.
 
-42. Hl. Basilius der Grosse, *Fünfundfünfzig ausführliche Regeln in Frage und Antworten*, 37, 1: *PG* 31, Paris 1857, 1009 C-D.
+42\. Hl. Basilius der Grosse, *Fünfundfünfzig ausführliche Regeln in Frage und Antworten*, 37, 1: *PG* 31, Paris 1857, 1009 C-D.
 
-43. *Regel des heiligen Benedikt*, 53, 15: *SCh* 182, Paris 1972, 614.
+43\. *Regel des heiligen Benedikt*, 53, 15: *SCh* 182, Paris 1972, 614.
 
-44. Hl. Johannes Cassianus, *Vierundzwanzig Unterredungen mit den Vätern*, XIV, 10: *CSEL* 13, Wien 2004, 410.
+44\. Hl. Johannes Cassianus, *Vierundzwanzig Unterredungen mit den Vätern*, XIV, 10: *CSEL* 13, Wien 2004, 410.
 
-45. Benedikt XVI., [*Katechese*](https://www.vatican.va/content/benedict-xvi/de/audiences/2009/documents/hf_ben-xvi_aud_20091021.html) (21. Oktober 2009): *L’Osservatore Romano,* 22. Oktober 2009, 1.
+45\. Benedikt XVI., [*Katechese*](https://www.vatican.va/content/benedict-xvi/de/audiences/2009/documents/hf_ben-xvi_aud_20091021.html) (21. Oktober 2009): *L’Osservatore Romano,* 22. Oktober 2009, 1.
 
-46. Vgl. Innozenz III., Bulle *Operante divinae dispositionis* – *Regula Primitiva der Trinitarier* (17. Dezember 1198), 2: J.L. Aurrecochea, A Moldon (Hrsg.), *Fuentes históricas de la Orden Trinitaria (s. XII-XV)*, Córdoba 2003, 6. »Alle Güter, woher sie auch rechtmäßig stammen mögen, sollen in drei gleiche Teile geteilt werden; und soweit zwei Teile ausreichen, sollen damit Werke der Barmherzigkeit vollbracht werden, nebst eines bescheidenen Unterhalts für sich selbst und für die nötigen Hausangestellten. Der dritte Teil aber soll für den Freikauf von wegen ihres Glaubens an Christus Gefangenen zurückbehalten werden.«
+46\. Vgl. Innozenz III., Bulle *Operante divinae dispositionis* – *Regula Primitiva der Trinitarier* (17. Dezember 1198), 2: J.L. Aurrecochea, A Moldon (Hrsg.), *Fuentes históricas de la Orden Trinitaria (s. XII-XV)*, Córdoba 2003, 6. »Alle Güter, woher sie auch rechtmäßig stammen mögen, sollen in drei gleiche Teile geteilt werden; und soweit zwei Teile ausreichen, sollen damit Werke der Barmherzigkeit vollbracht werden, nebst eines bescheidenen Unterhalts für sich selbst und für die nötigen Hausangestellten. Der dritte Teil aber soll für den Freikauf von wegen ihres Glaubens an Christus Gefangenen zurückbehalten werden.«
 
-47. Vgl. *Consitutciones de la Orden de los Mercedarios*, 14: Orden del la Bienaventurada Virgen María de la Merced, *Regla y Constituciones*, Rom 2014, 53. »Um diese Aufgabe zu erfüllen, weihen wir uns, von der Liebe bewegt, Gott mit einem besonderen Gelübde, dem sogenannten Erlösungsgelübde, durch das wir versprechen, unser Leben wenn nötig so hinzugeben, wie Christus es für uns hingegeben hat, um die Christen zu retten, die sich in äußerster Gefahr befinden, ihren Glauben in den neuen Formen der Gefangenschaft zu verlieren.«
+47\. Vgl. *Consitutciones de la Orden de los Mercedarios*, 14: Orden del la Bienaventurada Virgen María de la Merced, *Regla y Constituciones*, Rom 2014, 53. »Um diese Aufgabe zu erfüllen, weihen wir uns, von der Liebe bewegt, Gott mit einem besonderen Gelübde, dem sogenannten Erlösungsgelübde, durch das wir versprechen, unser Leben wenn nötig so hinzugeben, wie Christus es für uns hingegeben hat, um die Christen zu retten, die sich in äußerster Gefahr befinden, ihren Glauben in den neuen Formen der Gefangenschaft zu verlieren.«
 
-48. Vgl. Hl. Juan Bautista de la Concepción, *La regla de la Orden de la Santisima Trinidad*, XX, 1: *BAC Maior* 60, Madrid 1999, 90. »Und darin sind die Armen und Gefangenen Christus ähnlich, auf den die Welt ihre Leiden wirft \[…\]. Dieser heilige Orden der Heiligsten Dreifaltigkeit ruft sie und lädt sie ein, zu kommen und vom Wasser des Erlösers zu trinken, das heißt, weil Christus sich ans Kreuz gehängt hat, um Heil und Erlöser der Menschen zu sein, hat er dieses Heil empfangen und will es den Armen geben und verteilen und die Gefangenen erlösen und befreien.«
+48\. Vgl. Hl. Juan Bautista de la Concepción, *La regla de la Orden de la Santisima Trinidad*, XX, 1: *BAC Maior* 60, Madrid 1999, 90. »Und darin sind die Armen und Gefangenen Christus ähnlich, auf den die Welt ihre Leiden wirft \[…\]. Dieser heilige Orden der Heiligsten Dreifaltigkeit ruft sie und lädt sie ein, zu kommen und vom Wasser des Erlösers zu trinken, das heißt, weil Christus sich ans Kreuz gehängt hat, um Heil und Erlöser der Menschen zu sein, hat er dieses Heil empfangen und will es den Armen geben und verteilen und die Gefangenen erlösen und befreien.«
 
-49. Vgl. Ders., *El recogimiento interior*, XL, 4: *BAC Maior* 48, Madrid 1995, 689. »Der freie Wille macht den Menschen zum Herrn und zu einem freien Wesen unter allen Geschöpfen, aber – guter Gott! – wie viele sind es doch, die auf diesem Weg Sklaven und Gefangene des Teufels sind, gefangen und gefesselt von ihren Leidenschaften und ungeordneten Begierden.«
+49\. Vgl. Ders., *El recogimiento interior*, XL, 4: *BAC Maior* 48, Madrid 1995, 689. »Der freie Wille macht den Menschen zum Herrn und zu einem freien Wesen unter allen Geschöpfen, aber – guter Gott! – wie viele sind es doch, die auf diesem Weg Sklaven und Gefangene des Teufels sind, gefangen und gefesselt von ihren Leidenschaften und ungeordneten Begierden.«
 
-50. Franziskus, [*Botschaft zum XLVIII. Weltfriedenstag*](https://www.vatican.va/content/francesco/de/messages/peace/documents/papa-francesco_20141208_messaggio-xlviii-giornata-mondiale-pace-2015.html) (8. Dezember 2014), 3: *AAS* 107 (2015), 69.
+50\. Franziskus, [*Botschaft zum XLVIII. Weltfriedenstag*](https://www.vatican.va/content/francesco/de/messages/peace/documents/papa-francesco_20141208_messaggio-xlviii-giornata-mondiale-pace-2015.html) (8. Dezember 2014), 3: *AAS* 107 (2015), 69.
 
-51. Ders., [*Begegnung mit Polizeibeamten, Häftlingen und ehrenamtlichen Helfern*](https://www.vatican.va/content/francesco/de/speeches/2024/may/documents/20240518-verona-casa-circondariale.html) (Verona, 18. Mai 2024): *AAS* 116 (2024), 766.
+51\. Ders., [*Begegnung mit Polizeibeamten, Häftlingen und ehrenamtlichen Helfern*](https://www.vatican.va/content/francesco/de/speeches/2024/may/documents/20240518-verona-casa-circondariale.html) (Verona, 18. Mai 2024): *AAS* 116 (2024), 766.
 
-52. Honorius III., Bulle *Solet annuere* – *Regula bullata* (29. November 1223), Kap. VI: *SCh* 285, Paris 1981, 192.
+52\. Honorius III., Bulle *Solet annuere* – *Regula bullata* (29. November 1223), Kap. VI: *SCh* 285, Paris 1981, 192.
 
-53. Vgl. Gregor IX., Bulle *Sicut manifestum est* (17. September 1228), 7: *SCh* 325, Paris 1985, 200. »Eurem Ersuchen gemäß bestätigen wir also mit apostolischer Zustimmung Eure Absicht, in äußerster Armut zu leben, und gewähren Euch mit der Autorität dieses Schreibens, dass Ihr von niemandem gezwungen werden dürft, Besitztümer anzunehmen.«
+53\. Vgl. Gregor IX., Bulle *Sicut manifestum est* (17. September 1228), 7: *SCh* 325, Paris 1985, 200. »Eurem Ersuchen gemäß bestätigen wir also mit apostolischer Zustimmung Eure Absicht, in äußerster Armut zu leben, und gewähren Euch mit der Autorität dieses Schreibens, dass Ihr von niemandem gezwungen werden dürft, Besitztümer anzunehmen.«
 
-54. Vgl. S.C. Tugwell (Hrsg.), *Early Dominicans. Selected Writings*, Mahwah 1982, 16-19.
+54\. Vgl. S.C. Tugwell (Hrsg.), *Early Dominicans. Selected Writings*, Mahwah 1982, 16-19.
 
-55. Thomas von Celano, *Zweite Lebensbeschreibung*, Teil I, Kap. IV, 8: *AnalFranc* 10, Florenz 1941, 135.
+55\. Thomas von Celano, *Zweite Lebensbeschreibung*, Teil I, Kap. IV, 8: *AnalFranc* 10, Florenz 1941, 135.
 
-56. Franziskus, [*Gedenkansprache nach dem Besuch des Grabes von don Lorenzo Milani*](https://www.vatican.va/content/francesco/de/speeches/2017/june/documents/papa-francesco_20170620_don-lorenzo-milani.html) (Barbiana, 20. Juni 2017), 2: *AAS* 109 (2017), 745.
+56\. Franziskus, [*Gedenkansprache nach dem Besuch des Grabes von don Lorenzo Milani*](https://www.vatican.va/content/francesco/de/speeches/2017/june/documents/papa-francesco_20170620_don-lorenzo-milani.html) (Barbiana, 20. Juni 2017), 2: *AAS* 109 (2017), 745.
 
-57. Hl. Johannes Paul II., *Discorso ai partecipanti al Capitolo Generale dei Chierici Regolari Poveri della Madre di Dio delle Scuole Pie (Scolopi)* (5. Juli 1997), 2: *L’Osservatore Romano*, 6. Juli 1997, 5.
+57\. Hl. Johannes Paul II., *Discorso ai partecipanti al Capitolo Generale dei Chierici Regolari Poveri della Madre di Dio delle Scuole Pie (Scolopi)* (5. Juli 1997), 2: *L’Osservatore Romano*, 6. Juli 1997, 5.
 
-58. *Ebd*.
+58\. *Ebd*.
 
-59. Ders., [*Homilie bei der Heiligsprechung*](https://www.vatican.va/content/john-paul-ii/de/homilies/1999/documents/hf_jp-ii_hom_18041999.html) (18. April 1999): *AAS* 91 (1999), 930.
+59\. Ders., [*Homilie bei der Heiligsprechung*](https://www.vatican.va/content/john-paul-ii/de/homilies/1999/documents/hf_jp-ii_hom_18041999.html) (18. April 1999): *AAS* 91 (1999), 930.
 
-60. Vgl. Ders., Brief *Iuvenum Patris* (31. Januar 1988), 9: *AAS* 80 (1988), 976.
+60\. Vgl. Ders., Brief *Iuvenum Patris* (31. Januar 1988), 9: *AAS* 80 (1988), 976.
 
-61. Vgl. Franziskus, [*Ansprache an die Teilnehmer an der Generalkongregation des »Institutum Caritatis« (Rosminianer)*](https://www.vatican.va/content/francesco/de/speeches/2018/october/documents/papa-francesco_20181001_rosminiani.html) (1. Oktober 2018): *L’Osservatore Romano*, 1.-2. Oktober 2018, 7.
+61\. Vgl. Franziskus, [*Ansprache an die Teilnehmer an der Generalkongregation des »Institutum Caritatis« (Rosminianer)*](https://www.vatican.va/content/francesco/de/speeches/2018/october/documents/papa-francesco_20181001_rosminiani.html) (1. Oktober 2018): *L’Osservatore Romano*, 1.-2. Oktober 2018, 7.
 
-62. Ders., [*Homilie bei der Heiligsprechung*](https://www.vatican.va/content/francesco/de/homilies/2022/documents/20221009-omelia-canonizzazione.html) (9. Oktober 2022): *AAS* 114 (2022) 1338.
+62\. Ders., [*Homilie bei der Heiligsprechung*](https://www.vatican.va/content/francesco/de/homilies/2022/documents/20221009-omelia-canonizzazione.html) (9. Oktober 2022): *AAS* 114 (2022) 1338.
 
-63. Hl. Johannes Paul II., [*Botschaft an die Missionarinnen vom Heiligsten Herzen Jesu*](https://www.vatican.va/content/john-paul-ii/de/speeches/2000/apr-jun/documents/hf_jp-ii_spe_20000531_miss-sacro-cuore.html) (31. Mai 2000), 3: *L’Osservatore Romano*, 16. Juli 2000, 5.
+63\. Hl. Johannes Paul II., [*Botschaft an die Missionarinnen vom Heiligsten Herzen Jesu*](https://www.vatican.va/content/john-paul-ii/de/speeches/2000/apr-jun/documents/hf_jp-ii_spe_20000531_miss-sacro-cuore.html) (31. Mai 2000), 3: *L’Osservatore Romano*, 16. Juli 2000, 5.
 
-64. Vgl. Pius XII., Apostolisches Breve *Superiore Iam Aetate* (8. September 1950): *AAS* 43 (1951), 455-456.
+64\. Vgl. Pius XII., Apostolisches Breve *Superiore Iam Aetate* (8. September 1950): *AAS* 43 (1951), 455-456.
 
-65. Franziskus, [*Botschaft zum CV. Welttag des Migranten und des Flüchtlings*](https://www.vatican.va/content/francesco/de/messages/migration/documents/papa-francesco_20190527_world-migrants-day-2019.html) (27. Mai 2019): *AAS* 111 (2019), 911.
+65\. Franziskus, [*Botschaft zum CV. Welttag des Migranten und des Flüchtlings*](https://www.vatican.va/content/francesco/de/messages/migration/documents/papa-francesco_20190527_world-migrants-day-2019.html) (27. Mai 2019): *AAS* 111 (2019), 911.
 
-66. Ders., [*Botschaft zum C. Welttag des Migranten und des Flüchtlings*](https://www.vatican.va/content/francesco/de/messages/migration/documents/papa-francesco_20130805_world-migrants-day.html) (5. August 2013): *AAS* 105 (2013), 930.
+66\. Ders., [*Botschaft zum C. Welttag des Migranten und des Flüchtlings*](https://www.vatican.va/content/francesco/de/messages/migration/documents/papa-francesco_20130805_world-migrants-day.html) (5. August 2013): *AAS* 105 (2013), 930.
 
-67. Hl. Teresa von Kalkutta, *Acceptance speech* (Oslo, 10. Dezember 1979).
+67\. Hl. Teresa von Kalkutta, *Acceptance speech* (Oslo, 10. Dezember 1979).
 
-68. Hl. Johannes Paul II., [*Ansprache an die zur Seligsprechung von Mutter Teresa angereisten Pilger*](https://www.vatican.va/content/john-paul-ii/de/speeches/2003/october/documents/hf_jp-ii_spe_20031020_pilgrims-mother-teresa.html) (20. Oktober 2003), 3: *L’Osservatore Romano,* 20.-21. Oktober 2003, 10.
+68\. Hl. Johannes Paul II., [*Ansprache an die zur Seligsprechung von Mutter Teresa angereisten Pilger*](https://www.vatican.va/content/john-paul-ii/de/speeches/2003/october/documents/hf_jp-ii_spe_20031020_pilgrims-mother-teresa.html) (20. Oktober 2003), 3: *L’Osservatore Romano,* 20.-21. Oktober 2003, 10.
 
-69. Franziskus, [*Homilie bei der Heiligsprechung*](https://www.vatican.va/content/francesco/de/homilies/2019/documents/papa-francesco_20191013_omelia-canonizzazione.html) (13. Oktober 2019): *AAS* 111 (2019), 1712.
+69\. Franziskus, [*Homilie bei der Heiligsprechung*](https://www.vatican.va/content/francesco/de/homilies/2019/documents/papa-francesco_20191013_omelia-canonizzazione.html) (13. Oktober 2019): *AAS* 111 (2019), 1712.
 
-70. Hl. Johannes Paul II., Apostolisches Schreiben [*Novo millennio ineunte*](https://www.vatican.va/content/john-paul-ii/de/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html) (6. Januar 2001), 49: *AAS* 93 (2001), 302.
+70\. Hl. Johannes Paul II., Apostolisches Schreiben [*Novo millennio ineunte*](https://www.vatican.va/content/john-paul-ii/de/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html) (6. Januar 2001), 49: *AAS* 93 (2001), 302.
 
-71. Franziskus, Apostolisches Schreiben [*Christus vivit*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html) (25. März 2019), 231: *AAS* 111 (2019), 458.
+71\. Franziskus, Apostolisches Schreiben [*Christus vivit*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html) (25. März 2019), 231: *AAS* 111 (2019), 458.
 
-72. Ders., [*Ansprache an die Teilnehmer der Internationalen Begegnung der Volksbewegungen*](https://www.vatican.va/content/francesco/de/speeches/2014/october/documents/papa-francesco_20141028_incontro-mondiale-movimenti-popolari.html) (28. Oktober 2014): *AAS* 106 (2014), 851-852.
+72\. Ders., [*Ansprache an die Teilnehmer der Internationalen Begegnung der Volksbewegungen*](https://www.vatican.va/content/francesco/de/speeches/2014/october/documents/papa-francesco_20141028_incontro-mondiale-movimenti-popolari.html) (28. Oktober 2014): *AAS* 106 (2014), 851-852.
 
-73. [*Ebd.*](https://www.vatican.va/content/francesco/de/speeches/2014/october/documents/papa-francesco_20141028_incontro-mondiale-movimenti-popolari.html): *AAS* 106 (2014), 859.
+73\. [*Ebd.*](https://www.vatican.va/content/francesco/de/speeches/2014/october/documents/papa-francesco_20141028_incontro-mondiale-movimenti-popolari.html): *AAS* 106 (2014), 859.
 
-74. Ders., [*Ansprache an die Teilnehmer der 3. Internationalen Begegnung der Volksbewegungen*](https://www.vatican.va/content/francesco/de/speeches/2016/november/documents/papa-francesco_20161105_movimenti-popolari.html) (5. November 2016): *L’Osservatore Romano*, 7.-8. November 2016, 5.
+74\. Ders., [*Ansprache an die Teilnehmer der 3. Internationalen Begegnung der Volksbewegungen*](https://www.vatican.va/content/francesco/de/speeches/2016/november/documents/papa-francesco_20161105_movimenti-popolari.html) (5. November 2016): *L’Osservatore Romano*, 7.-8. November 2016, 5.
 
-75. [*Ebd.*](https://www.vatican.va/content/francesco/de/speeches/2016/november/documents/papa-francesco_20161105_movimenti-popolari.html)
+75\. [*Ebd.*](https://www.vatican.va/content/francesco/de/speeches/2016/november/documents/papa-francesco_20161105_movimenti-popolari.html)
 
-76. Hl. Johannes XXIII., *Radiomessaggio a tutti i fedeli del mondo ad un mese dall’apertura del Concilio Ecumenico Vaticano II* (11. September 1962): *AAS* 54 (1962). 682.
+76\. Hl. Johannes XXIII., *Radiomessaggio a tutti i fedeli del mondo ad un mese dall’apertura del Concilio Ecumenico Vaticano II* (11. September 1962): *AAS* 54 (1962). 682.
 
-77. G. Lercaro, *Intervento nella XXXV Congregazione Generale del Concilio Ecumenico Vaticano II* (6. Dezember 1962): *AS* I/IV 327-328.
+77\. G. Lercaro, *Intervento nella XXXV Congregazione Generale del Concilio Ecumenico Vaticano II* (6. Dezember 1962): *AS* I/IV 327-328.
 
-78. *Ebd*., 4: *AS* I/IV, 329.
+78\. *Ebd*., 4: *AS* I/IV, 329.
 
-79. Istituto per le Scienze Religiose (Hrsg.), *Per la forza dello Spirito. Discorsi conciliari del Card. Giacomo Lercaro*, Bologna 1984, 115.
+79\. Istituto per le Scienze Religiose (Hrsg.), *Per la forza dello Spirito. Discorsi conciliari del Card. Giacomo Lercaro*, Bologna 1984, 115.
 
-80. Hl. Paul VI., *Allocuzione nella solenne inaugurazione della II Sessione del Concilio Ecumenico Vaticano II* (29. September 1963): *AAS* 55 (1963), 857.
+80\. Hl. Paul VI., *Allocuzione nella solenne inaugurazione della II Sessione del Concilio Ecumenico Vaticano II* (29. September 1963): *AAS* 55 (1963), 857.
 
-81. Ders., *Katechese* (11. November 1964): *Insegnamenti di Paolo VI*, II (1964), 984.
+81\. Ders., *Katechese* (11. November 1964): *Insegnamenti di Paolo VI*, II (1964), 984.
 
-82. Zweites Vatikanisches Konzil, Pastoralkonstitution [*Gaudium et spes*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_ge.html), 69, 71.
+82\. Zweites Vatikanisches Konzil, Pastoralkonstitution [*Gaudium et spes*](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_ge.html), 69, 71.
 
-83. Hl. Paul VI. Enzyklika [*Populorum Progressio*](https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html) (26. März 1967), 23: *AAS* 59 (1967), 269.
+83\. Hl. Paul VI. Enzyklika [*Populorum Progressio*](https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html) (26. März 1967), 23: *AAS* 59 (1967), 269.
 
-84. Vgl. [e*bd.*](https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html), 4: *AAS* 59 (1967), 259.
+84\. Vgl. [e*bd.*](https://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html), 4: *AAS* 59 (1967), 259.
 
-85. Hl. Johannes Paul II., Enzyklika [*Sollicitudo rei socialis*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html) (30. Dezember 1987), 42: *AAS* 80 (1988), 572.
+85\. Hl. Johannes Paul II., Enzyklika [*Sollicitudo rei socialis*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html) (30. Dezember 1987), 42: *AAS* 80 (1988), 572.
 
-86. [*Ebd.*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html): *AAS* 80 (1988), 573.
+86\. [*Ebd.*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html): *AAS* 80 (1988), 573.
 
-87. Ders., Enzyklika *[Laborem exercens](http://vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html)* (14. September 1981), 3: *AAS* 73 (1981), 584.
+87\. Ders., Enzyklika *[Laborem exercens](http://vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html)* (14. September 1981), 3: *AAS* 73 (1981), 584.
 
-88. Benedikt XVI., Enzyklika [*Caritas in veritate*](https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html) (29. Juni 2009), 7: *AAS* 101 (2009), 645.
+88\. Benedikt XVI., Enzyklika [*Caritas in veritate*](https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html) (29. Juni 2009), 7: *AAS* 101 (2009), 645.
 
-89. [*Ebd.*](https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html), 27: *AAS* 101 (2009), 661.
+89\. [*Ebd.*](https://www.vatican.va/content/benedict-xvi/de/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html), 27: *AAS* 101 (2009), 661.
 
-90. Zweite Generalversammlung des Lateinamerikanischen Episkopats, *Schlussdokument von Medellín* (24. Oktober 1968), 14, Nr. 7: CELAM, *Medellín. Conclusiones*, Lima 2005, S. 131-132.
+90\. Zweite Generalversammlung des Lateinamerikanischen Episkopats, *Schlussdokument von Medellín* (24. Oktober 1968), 14, Nr. 7: CELAM, *Medellín. Conclusiones*, Lima 2005, S. 131-132.
 
-91. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 202: *AAS* 105 (2013), 1105.
+91\. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 202: *AAS* 105 (2013), 1105.
 
-92. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 205: *AAS* 105 (2013), 1106.
+92\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 205: *AAS* 105 (2013), 1106.
 
-93. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 190: *AAS* 105 (2013), 1099.
+93\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 190: *AAS* 105 (2013), 1099.
 
-94. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 56: *AAS* 105 (2013), 1043.
+94\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 56: *AAS* 105 (2013), 1043.
 
-95. Ders., Enzyklika [*Dilexit nos*](https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24. Oktober 2024), 183: *AAS* 116 (2024), 1427.
+95\. Ders., Enzyklika [*Dilexit nos*](https://www.vatican.va/content/francesco/de/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24. Oktober 2024), 183: *AAS* 116 (2024), 1427.
 
-96. Hl. Johannes Paul II., Enzyklika [*Centesimus annus*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1. Mai 1991), 41: *AAS* 83 (1991), 844-845.
+96\. Hl. Johannes Paul II., Enzyklika [*Centesimus annus*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1. Mai 1991), 41: *AAS* 83 (1991), 844-845.
 
-97. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 202: *AAS* 105 (2013), 1105.
+97\. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 202: *AAS* 105 (2013), 1105.
 
-98. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
+98\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
-99. Ders., Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 22: *AAS* 112 (2020), 976.
+99\. Ders., Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 22: *AAS* 112 (2020), 976.
 
-100. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 209: *AAS* 105 (2013), 1107.
+100\. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 209: *AAS* 105 (2013), 1107.
 
-101. Ders., Enzyklika [*Laudato si’*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24. Mai 2015), 50: *AAS* 107 (2015), 866.
+101\. Ders., Enzyklika [*Laudato si’*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24. Mai 2015), 50: *AAS* 107 (2015), 866.
 
-102. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 210: *AAS* 105 (2013), 1107.
+102\. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 210: *AAS* 105 (2013), 1107.
 
-103. Ders., Enzyklika [*Laudato si’*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24. Mai 2015), 43: *AAS* 107 (2015), 863.
+103\. Ders., Enzyklika [*Laudato si’*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24. Mai 2015), 43: *AAS* 107 (2015), 863.
 
-104. *Ebd.*, 48: *AAS* 107 (2015), 865.
+104\. *Ebd.*, 48: *AAS* 107 (2015), 865.
 
-105. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 180: *AAS* 105 (2013), 1095.
+105\. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 180: *AAS* 105 (2013), 1095.
 
-106. Kongregation für die Glaubenslehre, *Instruktion über einige Aspekte der „Theologie der Befreiung“* (6. August 1984), XI, 18: *AAS* 76 (1984), 907-908.
+106\. Kongregation für die Glaubenslehre, *Instruktion über einige Aspekte der „Theologie der Befreiung“* (6. August 1984), XI, 18: *AAS* 76 (1984), 907-908.
 
-107. V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik, *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 392, Bogotá 2007, S. 179-180. Vgl. Benedikt XVI, *Ansprache zur Eröffnung der Arbeiten der V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik* (13. Mai 2007), 3: *AAS* 99 (2007) 450.
+107\. V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik, *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 392, Bogotá 2007, S. 179-180. Vgl. Benedikt XVI, *Ansprache zur Eröffnung der Arbeiten der V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik* (13. Mai 2007), 3: *AAS* 99 (2007) 450.
 
-108. Vgl. V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 43-87, S. 31-47.
+108\. Vgl. V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 43-87, S. 31-47.
 
-109. Dies *.,* *Botschaft* (29. Mai 2007), Nr. 4, Bogotá 2007, S. 275.
+109\. Dies *.,* *Botschaft* (29. Mai 2007), Nr. 4, Bogotá 2007, S. 275.
 
-110. Dies *.*, *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 398, S. 182.
+110\. Dies *.*, *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 398, S. 182.
 
-111. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 199: *AAS* 105 (2013), 1103-1104.
+111\. Franziskus, Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 199: *AAS* 105 (2013), 1103-1104.
 
-112. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) *,* 198: *AAS* 105 (2013), 1103.
+112\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) *,* 198: *AAS* 105 (2013), 1103.
 
-113. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
+113\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)
 
-114. V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik, *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 397, S. 182.
+114\. V. Generalkonferenz der Bischofskonferenzen von Lateinamerika und der Karibik, *Schlussdokument von Aparecida* (29. Juni 2007), Nr. 397, S. 182.
 
-115. Franziskus, Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 64: *AAS* 112 (2020), 992.
+115\. Franziskus, Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 64: *AAS* 112 (2020), 992.
 
-116. Ders., Apostolisches Schreiben [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19. März 2018), 98: *AAS* 110 (2018), 1137.
+116\. Ders., Apostolisches Schreiben [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19. März 2018), 98: *AAS* 110 (2018), 1137.
 
-117. Ders., Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 65-66: *AAS* 112 (2020), 992.
+117\. Ders., Enzyklika [*Fratelli tutti*](https://www.vatican.va/content/francesco/de/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3. Oktober 2020), 65-66: *AAS* 112 (2020), 992.
 
-118. Hl. Gregor der Große, *Homilie* 40, 10: *SCh* 522, Paris 2008, 552-554.
+118\. Hl. Gregor der Große, *Homilie* 40, 10: *SCh* 522, Paris 2008, 552-554.
 
-119. *Ebd.*, 6: *SCh* 522, 546.
+119\. *Ebd.*, 6: *SCh* 522, 546.
 
-120. *Ebd.*, 3: *SCh* 522, 536.
+120\. *Ebd.*, 3: *SCh* 522, 536.
 
-121. Hl. Johannes Paul II., Enzyklika [*Centesimus Annus*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1. Mai 1991), 57: *AAS* 83 (1991), 862-863.
+121\. Hl. Johannes Paul II., Enzyklika [*Centesimus Annus*](https://www.vatican.va/content/john-paul-ii/de/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1. Mai 1991), 57: *AAS* 83 (1991), 862-863.
 
-122. Franziskus, [*Pfingstvigil mit den kirchlichen Bewegungen*](https://www.vatican.va/content/francesco/de/speeches/2013/may/documents/papa-francesco_20130518_veglia-pentecoste.html) (18. Mai 2013): *L’Osservatore Romano,* 20.-21. Mai 2013, 5.
+122\. Franziskus, [*Pfingstvigil mit den kirchlichen Bewegungen*](https://www.vatican.va/content/francesco/de/speeches/2013/may/documents/papa-francesco_20130518_veglia-pentecoste.html) (18. Mai 2013): *L’Osservatore Romano,* 20.-21. Mai 2013, 5.
 
-123. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 186: *AAS* 105 (2013), 1098.
+123\. Ders., Apostolisches Schreiben [*Evangelii gaudium*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24. November 2013), 186: *AAS* 105 (2013), 1098.
 
-124. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 188: *AAS* 105 (2013), 1099.
+124\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 188: *AAS* 105 (2013), 1099.
 
-125. Vgl [*ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 182-183: *AAS* 105 (2013), 1096-1097.
+125\. Vgl [*ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 182-183: *AAS* 105 (2013), 1096-1097.
 
-126. [*Ebd*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) *.*, 207: *AAS* 105 (2013), 1107.
+126\. [*Ebd*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) *.*, 207: *AAS* 105 (2013), 1107.
 
-127. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 200: *AAS* 105 (2013), 1104.
+127\. [*Ebd.*](https://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 200: *AAS* 105 (2013), 1104.
 
-128. Ders., *Ansprache bei der Begegnung mit Vertretern der Welt der Arbeit in den ILVA-Stahlwerken in Genua* (27. Mai 2017): *AAS* 109 (2017), 613
+128\. Ders., *Ansprache bei der Begegnung mit Vertretern der Welt der Arbeit in den ILVA-Stahlwerken in Genua* (27. Mai 2017): *AAS* 109 (2017), 613
 
-129. Pseudo-Chrysostomus, *Homilia de jejunio et eleemosyna*: *PG* 48, 1060.
+129\. Pseudo-Chrysostomus, *Homilia de jejunio et eleemosyna*: *PG* 48, 1060.
 
-130. Hl. Gregor von Nazianz, *14. Rede*, 40: *PG* 35, Paris 1886, 910.
+130\. Hl. Gregor von Nazianz, *14. Rede*, 40: *PG* 35, Paris 1886, 910.

@@ -50,4 +50,4 @@ With the approbation of the *Opus Ss. Angelorum*, the Church has given her bless
 
 [^6]: Cf. CCC 236.
 
-7. *L’Osservatore Romano*, Weekly Edition in English, Number 12, 23 March 2011, page 12.15.
+7\. *L’Osservatore Romano*, Weekly Edition in English, Number 12, 23 March 2011, page 12.15.

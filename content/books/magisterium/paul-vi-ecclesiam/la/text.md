@@ -405,4 +405,4 @@ Quod superest, dum huiusmodi animorum nostrorum coniunctione, quae a Christo duc
 
 [^67]: ([67](#fnref67)) *I Cor* 1, 10
 
-577. ([57](#fnref57)) *Mt* 7,6
+577\. ([57](#fnref57)) *Mt* 7,6

@@ -67,4 +67,4 @@ Fußnoten
 
 [^7]: Vgl. Päpstlicher Rat der Seelsorge für die Migranten und Menschen unterwegs, *Heilige Stätten – Erinnerung, Gegenwart und Prophezeiung des lebendigen Gottes* (8. Mai 1999), 10.
 
-5. Vgl. Apostolisches Schreiben *[Evangelii gaudium](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 124.126.
+5\. Vgl. Apostolisches Schreiben *[Evangelii gaudium](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 124.126.

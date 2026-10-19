@@ -50,4 +50,4 @@ Quanto deliberado com esta Carta apostólica em forma de “motu proprio”, ord
 
 **[Comentário do Secretário da Congregação para o culto divino e a Disciplina dos Sacramentos](http://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20170909_commento-canone-838_po.html)**
 
-1. § 2. É da competência da Sé Apostólica ordenar a sagrada liturgia da Igreja universal, publicar os livros litúrgicos, rever as adaptações aprovadas segundo a norma do direito da Conferência Episcopal, assim como vigiar para que as normas litúrgicas sejam fielmente observadas em toda a parte.
+1\. § 2. É da competência da Sé Apostólica ordenar a sagrada liturgia da Igreja universal, publicar os livros litúrgicos, rever as adaptações aprovadas segundo a norma do direito da Conferência Episcopal, assim como vigiar para que as normas litúrgicas sejam fielmente observadas em toda a parte.

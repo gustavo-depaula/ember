@@ -319,7 +319,7 @@ B. [Normy proceduralne](#Normy_proceduralne) 
 
 ------------------------------------------------------------------------
 
-25. Św. Jan od Krzyża, *Dzieła. Noc ciemna. Księga druga* 17, 6, Wydawnictwo OO. Karmelitów Bosych, Kraków 1986, s. 496.
+25\. Św. Jan od Krzyża, *Dzieła. Noc ciemna. Księga druga* 17, 6, Wydawnictwo OO. Karmelitów Bosych, Kraków 1986, s. 496.
 
 [\[2\]](#_ftnref2) *Tamże*, *Pieśń duchowa.* *Prolog*, s. 524.
 

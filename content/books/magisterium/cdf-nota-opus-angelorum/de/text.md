@@ -38,14 +38,14 @@ Mit der Approbation des *Opus Angelorum* hat die Kirche einer Bewegung den Segen
 
 ------------------------------------------------------------------------
 
-7. Siehe Dekret *Litteris diei* der Kongregation für die Glaubenslehre, vom 6. Juni 1992.
+7\. Siehe Dekret *Litteris diei* der Kongregation für die Glaubenslehre, vom 6. Juni 1992.
 
-8. Siehe Thomas von Aquin, *Summa Theologiae* II-II, q. 25, a. 10; q. 23, a. 1, ad 1.
+8\. Siehe Thomas von Aquin, *Summa Theologiae* II-II, q. 25, a. 10; q. 23, a. 1, ad 1.
 
-9. Siehe *Eph* 1,9-10; Kol 1,15-20; Joh 12,32; 17,21-23; Offb 10,7; 19,6-9.
+9\. Siehe *Eph* 1,9-10; Kol 1,15-20; Joh 12,32; 17,21-23; Offb 10,7; 19,6-9.
 
-10. Siehe KKK 350: „"Bei allen unseren guten Werken wirken die Engel mit" (Thomas v. A., s. th. 1,114, 3 ad 3).“
+10\. Siehe KKK 350: „"Bei allen unseren guten Werken wirken die Engel mit" (Thomas v. A., s. th. 1,114, 3 ad 3).“
 
-11. S. 212: Kommentar zu einem auf der vorausgehenden Seite abgebildeten Bild von Jan Van Eyck.
+11\. S. 212: Kommentar zu einem auf der vorausgehenden Seite abgebildeten Bild von Jan Van Eyck.
 
-12. Siehe KKK 236.
+12\. Siehe KKK 236.

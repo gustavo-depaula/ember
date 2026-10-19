@@ -444,4 +444,4 @@ J’exhorte chacun à accueillir avec une âme sincère et une prompte disponibi
 
 [^41]: Enc. *[Ut unum sint](http://w2.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html)* (25 mai 1995), n. 95.
 
-24. *[Discours pour le 50ème anniversaire du Synode des Évêques](http://w2.vatican.va/content/francesco/fr/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html)* (17 octobre 2015).
+24\. *[Discours pour le 50ème anniversaire du Synode des Évêques](http://w2.vatican.va/content/francesco/fr/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html)* (17 octobre 2015).

@@ -346,4 +346,4 @@ A voi, Fratelli e Sorelle carissimi, la mia Benedizione Apostolica .
 
 [^47]: *Vita Methodii* XVII, 11: *ed. cit*., p. 237.
 
-20. *Gal* 3, 26-28.
+20\. *Gal* 3, 26-28.

@@ -145,44 +145,44 @@ FRANĠISKU
 
 ------------------------------------------------------------------------
 
-1. Wistin, *Diskorsi*, 198 augm., 2.
+1\. Wistin, *Diskorsi*, 198 augm., 2.
 
-2. Ara *Fonti Francescane*, n. 263,6.10.
+2\. Ara *Fonti Francescane*, n. 263,6.10.
 
-3. Ara Franġisku, *Misericordiæ vultus*, Bolla tal-indizzjoni tal-Ġublew Straordinarju tal-Ħniena, 11 ta’ April 2015, nn. 1-3.
+3\. Ara Franġisku, *Misericordiæ vultus*, Bolla tal-indizzjoni tal-Ġublew Straordinarju tal-Ħniena, 11 ta’ April 2015, nn. 1-3.
 
-4. Konċilju Ekumeniku Vatikan II, Kostituzzjoni Pastorali *Gaudium et spes *fuq il-Knisja fid-dinja tal-lum, 7 ta’ Diċembru 1965, n. 4.
+4\. Konċilju Ekumeniku Vatikan II, Kostituzzjoni Pastorali *Gaudium et spes *fuq il-Knisja fid-dinja tal-lum, 7 ta’ Diċembru 1965, n. 4.
 
-5. Franġisku, Ittra Enċiklika *Laudato si’* fuq l-għożża tad-dar komuni, 24 ta’ Mejju 2015, n. 50.
+5\. Franġisku, Ittra Enċiklika *Laudato si’* fuq l-għożża tad-dar komuni, 24 ta’ Mejju 2015, n. 50.
 
-6. Ara *Katekiżmu tal-Knisja Kattolika*, n. 2267.
+6\. Ara *Katekiżmu tal-Knisja Kattolika*, n. 2267.
 
-7. Franġisku, *Laudato si’*, cit., n. 49.
+7\. Franġisku, *Laudato si’*, cit., n. 49.
 
-8. Franġisku, Ittra Enċiklika *Fratelli tutti* fuq il-fraternità u l-ħbiberija soċjali, 3 ta’ Ottubru 2020, n. 262.
+8\. Franġisku, Ittra Enċiklika *Fratelli tutti* fuq il-fraternità u l-ħbiberija soċjali, 3 ta’ Ottubru 2020, n. 262.
 
-9. Franġisku, *Laudato si’*, cit., n. 51.
+9\. Franġisku, *Laudato si’*, cit., n. 51.
 
-10. *Simbolu Niċen*: H. Denzinger – A. Schönmetzer, *Enchiridion Symbolorum definitionum et declarationum de rebus fidei et morum*, n. 125.
+10\. *Simbolu Niċen*: H. Denzinger – A. Schönmetzer, *Enchiridion Symbolorum definitionum et declarationum de rebus fidei et morum*, n. 125.
 
-11. *Ibid.*
+11\. *Ibid.*
 
-12. *Simbolu tal-Appostli*: H. Denzinger – A. Schönmetzer, *Enchiridion Symbolorum definitionum et declarationum de rebus fidei et morum*, n. 30.
+12\. *Simbolu tal-Appostli*: H. Denzinger – A. Schönmetzer, *Enchiridion Symbolorum definitionum et declarationum de rebus fidei et morum*, n. 30.
 
-13. *Katekiżmu tal-Knisja Kattolika*, n. 1817.
+13\. *Katekiżmu tal-Knisja Kattolika*, n. 1817.
 
-14. Konċilju Ekumeniku Vatikan II, *Gaudium et spes*, cit., n. 21.
+14\. Konċilju Ekumeniku Vatikan II, *Gaudium et spes*, cit., n. 21.
 
-15. Missal Ruman, *Prefazju tal-mejtin I*.
+15\. Missal Ruman, *Prefazju tal-mejtin I*.
 
-16. Wistin, *L-Istqarrijiet*, X, 28.
+16\. Wistin, *L-Istqarrijiet*, X, 28.
 
-17. Benedittu XVI, Ittra Enċiklika *Spe salvi*, 30 ta’ Novembru 2007, n. 47.
+17\. Benedittu XVI, Ittra Enċiklika *Spe salvi*, 30 ta’ Novembru 2007, n. 47.
 
-18. *Katekiżmu tal-Knisja Kattolika*, n. 1472.
+18\. *Katekiżmu tal-Knisja Kattolika*, n. 1472.
 
-19. Pawlu VI, Ittra Appostolika *Apostolorum limina*, 23 ta’ Mejju 1974, II.
+19\. Pawlu VI, Ittra Appostolika *Apostolorum limina*, 23 ta’ Mejju 1974, II.
 
-20. *Nican Mopohua*, n. 119.
+20\. *Nican Mopohua*, n. 119.
 
-21. Konċilju Ekumeniku Vatikan II, Kostituzzjoni Dommatika *Lumen gentium* fuq il-Knisja, 21 ta’ Novembru 1964, n. 68.
+21\. Konċilju Ekumeniku Vatikan II, Kostituzzjoni Dommatika *Lumen gentium* fuq il-Knisja, 21 ta’ Novembru 1964, n. 68.

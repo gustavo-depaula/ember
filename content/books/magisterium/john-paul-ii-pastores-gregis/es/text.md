@@ -1470,4 +1470,4 @@ Invocamos sobre esta nuestra tarea la intercesión de la Virgen María, Madre de
 
 [^301]: *Ibíd.*, 68.
 
-145. Const. dogm. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, sobre la Iglesia, 26.
+145\. Const. dogm. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, sobre la Iglesia, 26.

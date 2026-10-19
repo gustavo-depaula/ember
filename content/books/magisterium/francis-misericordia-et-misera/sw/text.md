@@ -177,4 +177,4 @@ Tafsiri: © Copyright - Familia za Maamkio Iringa na Libreria Editrice Vaticana
 
 [^20]: Taz. Sipriano, *Umoja wa Kanisa Katoliki*, 7.
 
-4. Misale ye Kiroma, Dominika ya III ya Kwaresima.
+4\. Misale ye Kiroma, Dominika ya III ya Kwaresima.

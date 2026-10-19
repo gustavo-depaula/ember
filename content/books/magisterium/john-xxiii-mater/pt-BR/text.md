@@ -792,4 +792,4 @@ SOBRE A RECENTE EVOLUÇÃO
 
 [^40]: *Prefácio da Missa de Cristo Rei.*
 
-22. Cf. *AAS*, 23(1931), p. 222s.
+22\. Cf. *AAS*, 23(1931), p. 222s.

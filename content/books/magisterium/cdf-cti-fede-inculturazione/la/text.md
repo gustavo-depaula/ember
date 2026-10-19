@@ -332,4 +332,4 @@ IV — *Ecctesiologia: communitas christiana et communitates humanae:*
 
 [^30]: ^(\[\])Ioannes Paulus II, *Alloc. ad sodales Pontificii Consilii pro hominum cultura*, 4: AAS 75 (1983) 384.
 
-27. ^(\[\])Pius XII, Enc. *[Summi Pontificatus](/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus_lt.html)* (20 octobris 1939): AAS 31 (1939) 429.
+27\. ^(\[\])Pius XII, Enc. *[Summi Pontificatus](/holy_father/pius_xii/encyclicals/documents/hf_p-xii_enc_20101939_summi-pontificatus_lt.html)* (20 octobris 1939): AAS 31 (1939) 429.

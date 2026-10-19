@@ -64,52 +64,52 @@ Nổi lên vào thế kỷ thứ nhất và thứ hai, phong trào Ngộ đạo 
 
 ------------------------------------------------------------------------
 
-1. Công đồng Vatican II, Hiến chế tín lý về Mặc Khải Thiên Chúa *Dei Verbum*, 2.
+1\. Công đồng Vatican II, Hiến chế tín lý về Mặc Khải Thiên Chúa *Dei Verbum*, 2.
 
-2. X. Bộ Giáo lý Đức Tin, Tuyên ngôn *Dominus Iesus* (ngày 6/8/2000), 5-8: AAS 92 (2000), 745-749.
+2\. X. Bộ Giáo lý Đức Tin, Tuyên ngôn *Dominus Iesus* (ngày 6/8/2000), 5-8: AAS 92 (2000), 745-749.
 
-3. X. Đức Giáo hoàng Phanxicô, Tông huấn *Evangelii gaudium* (24/11/2013), 67: AAS 105 (2013), 1048.
+3\. X. Đức Giáo hoàng Phanxicô, Tông huấn *Evangelii gaudium* (24/11/2013), 67: AAS 105 (2013), 1048.
 
-4. X. Id., Thông điệp *Lumen fidei* (29/6/2013), 47: AAS 105 (2013), 586-587; Tông huấn *Evangelii gaudium*, 93-94: AAS (2013), 1059; Diễn văn gởi các tham dự viên Công nghị lần thứ Năm của Giáo hội Ý (10/11/2015), Florence: AAS 107 (2015), 1287.
+4\. X. Id., Thông điệp *Lumen fidei* (29/6/2013), 47: AAS 105 (2013), 586-587; Tông huấn *Evangelii gaudium*, 93-94: AAS (2013), 1059; Diễn văn gởi các tham dự viên Công nghị lần thứ Năm của Giáo hội Ý (10/11/2015), Florence: AAS 107 (2015), 1287.
 
-5. X. Id., *Diễn văn gởi các tham dự viên Công nghị lần thứ Năm của Giáo hội Ý* (10/11/2015), Florence: AAS 107 (2015), 1288.
+5\. X. Id., *Diễn văn gởi các tham dự viên Công nghị lần thứ Năm của Giáo hội Ý* (10/11/2015), Florence: AAS 107 (2015), 1288.
 
-6. X. Id., Tông huấn *Evangelii gaudium*, 94: AAS 105 (2013), 1059: “sự hấp dẫn của thuyết Ngộ đạo, một đức tin hoàn toàn chủ quan, chỉ bận tâm đến kinh nghiệm nào đó hoặc một tập hợp các ý tưởng và những mẩu kiến thức được cho là có khả năng an ủi và soi sáng, nhưng chung cuộc chỉ giam hãm con người trong những tư tưởng và tình cảm của riêng mình”; Hội đồng Giáo hoàng về Văn hoá-Hội đồng Giáo hoàng về Đối thoại Liên tôn, *Đức Giêsu Kitô Đấng mang nước hằng sống. Một suy tư Kitô giáo về trào lưu “Thời Đại Mới”* (01/2003), Thành phố Vatican, 2003.
+6\. X. Id., Tông huấn *Evangelii gaudium*, 94: AAS 105 (2013), 1059: “sự hấp dẫn của thuyết Ngộ đạo, một đức tin hoàn toàn chủ quan, chỉ bận tâm đến kinh nghiệm nào đó hoặc một tập hợp các ý tưởng và những mẩu kiến thức được cho là có khả năng an ủi và soi sáng, nhưng chung cuộc chỉ giam hãm con người trong những tư tưởng và tình cảm của riêng mình”; Hội đồng Giáo hoàng về Văn hoá-Hội đồng Giáo hoàng về Đối thoại Liên tôn, *Đức Giêsu Kitô Đấng mang nước hằng sống. Một suy tư Kitô giáo về trào lưu “Thời Đại Mới”* (01/2003), Thành phố Vatican, 2003.
 
-7. Đức Giáo hoàng Phanxicô, Thông điệp *Lumen fidei*, 47: AAS 105 (2013), 586-587.
+7\. Đức Giáo hoàng Phanxicô, Thông điệp *Lumen fidei*, 47: AAS 105 (2013), 586-587.
 
-8. X. Id., *Diễn văn gởi các tham dự viên cuộc hành hương của Giáo phận Brescia* (22/6/2013): AAS 95 (2013), 627: “trong thế giới này, nơi người ta chối bỏ con người, nơi người ta thích đi theo đường lối của Ngộ đạo, \[...\] của “không thân xác” – một Thiên Chúa đã không mặc lấy xác phàm \[...\]”.
+8\. X. Id., *Diễn văn gởi các tham dự viên cuộc hành hương của Giáo phận Brescia* (22/6/2013): AAS 95 (2013), 627: “trong thế giới này, nơi người ta chối bỏ con người, nơi người ta thích đi theo đường lối của Ngộ đạo, \[...\] của “không thân xác” – một Thiên Chúa đã không mặc lấy xác phàm \[...\]”.
 
-9. Theo lạc thuyết Pêlagiô, được phát triển vào thế kỷ thứ năm quanh Pêlagiô, để chu toàn những giới luật của Thiên Chúa và để được cứu độ, con người chỉ cần đến ân sủng như một sự trợ giúp từ bên ngoài cho tự do của mình (như ánh sáng, sức mạnh chẳng hạn), chứ không như một sự chữa lành và tái tạo tận căn tự do, không cần công trạng đi trước, cho đến khi con người có thể làm điều thiện và đạt đến sự sống vĩnh cửu.
+9\. Theo lạc thuyết Pêlagiô, được phát triển vào thế kỷ thứ năm quanh Pêlagiô, để chu toàn những giới luật của Thiên Chúa và để được cứu độ, con người chỉ cần đến ân sủng như một sự trợ giúp từ bên ngoài cho tự do của mình (như ánh sáng, sức mạnh chẳng hạn), chứ không như một sự chữa lành và tái tạo tận căn tự do, không cần công trạng đi trước, cho đến khi con người có thể làm điều thiện và đạt đến sự sống vĩnh cửu.
 
-10. X. Thánh Tôma Aquinô, *Summa theologiae*, I-II, q.2.
+10\. X. Thánh Tôma Aquinô, *Summa theologiae*, I-II, q.2.
 
-11. X. Thánh Âutinh, *Tự thuật*, I, 1: *Corpus Christianorum*, 27, 1.
+11\. X. Thánh Âutinh, *Tự thuật*, I, 1: *Corpus Christianorum*, 27, 1.
 
-12. Công đồng Vatican II, Hiến chế mục vụ về Giáo hội trong thế giới ngày nay *Gaudium et spes*, 22.
+12\. Công đồng Vatican II, Hiến chế mục vụ về Giáo hội trong thế giới ngày nay *Gaudium et spes*, 22.
 
-13. Uỷ ban Thần học Quốc tế, *Những câu hỏi chọn lọc liên quan đến thần học về Thiên Chúa, Đấng Cứu Độ* (1995), 2.
+13\. Uỷ ban Thần học Quốc tế, *Những câu hỏi chọn lọc liên quan đến thần học về Thiên Chúa, Đấng Cứu Độ* (1995), 2.
 
-14. Đức Giáo hoàng Bênêđictô XVI, Thông điệp *Deus caritas est* (25/12/2005), 1: AAS 98 (2006), 217; x. Đức Giáo hoàng Phanxicô, Tông huấn *Evangelii gaudium*, 3: AAS 105 (2013), 1020.
+14\. Đức Giáo hoàng Bênêđictô XVI, Thông điệp *Deus caritas est* (25/12/2005), 1: AAS 98 (2006), 217; x. Đức Giáo hoàng Phanxicô, Tông huấn *Evangelii gaudium*, 3: AAS 105 (2013), 1020.
 
-15. Thánh Irênê, *Adversus haereses*, III, 19,1: Sources Chrétiennes, 211, 374.
+15\. Thánh Irênê, *Adversus haereses*, III, 19,1: Sources Chrétiennes, 211, 374.
 
-16. Công đồng Vatican II, Hiến chế mục vụ về Giáo hội trong thế giới ngày nay *Gaudium et spes*, 22.
+16\. Công đồng Vatican II, Hiến chế mục vụ về Giáo hội trong thế giới ngày nay *Gaudium et spes*, 22.
 
-17. X. Thánh Âutinh, *Tractatus in Ioannem*, 13,4: Corpus Christianorum, 36,132: “‘Thầy là đường là sự thật và là sự sống’ (Ga 14,6). Nếu bạn tìm kiếm sự thật ấy, hãy đi theo con đường ấy, vì con đường ấy cũng chính là sự thật ấy. Đích bạn nhắm và con đường bạn đi là một. Bạn không thể đến đích bằng việc đi con đường khác, bạn cũng không thể đến với Chúa Kitô qua một con con đường khác. Bạn chỉ có thể đến với Chúa Kitô qua Chúa Kitô. Đến với Chúa Kitô qua Chúa Kitô có nghĩa là gì? Bạn đến với Chúa Kitô là Thiên Chúa qua Chúa Kitô là con người. Qua Ngôi Lời làm người, bạn đến được với Ngôi Lời mà ngay từ khởi nguyên là Thiên Chúa và ở với Thiên Chúa.”
+17\. X. Thánh Âutinh, *Tractatus in Ioannem*, 13,4: Corpus Christianorum, 36,132: “‘Thầy là đường là sự thật và là sự sống’ (Ga 14,6). Nếu bạn tìm kiếm sự thật ấy, hãy đi theo con đường ấy, vì con đường ấy cũng chính là sự thật ấy. Đích bạn nhắm và con đường bạn đi là một. Bạn không thể đến đích bằng việc đi con đường khác, bạn cũng không thể đến với Chúa Kitô qua một con con đường khác. Bạn chỉ có thể đến với Chúa Kitô qua Chúa Kitô. Đến với Chúa Kitô qua Chúa Kitô có nghĩa là gì? Bạn đến với Chúa Kitô là Thiên Chúa qua Chúa Kitô là con người. Qua Ngôi Lời làm người, bạn đến được với Ngôi Lời mà ngay từ khởi nguyên là Thiên Chúa và ở với Thiên Chúa.”
 
-18. Thánh Tôma Aquinô, *Quaestio de veritate*, q. 29, a. 5, co.
+18\. Thánh Tôma Aquinô, *Quaestio de veritate*, q. 29, a. 5, co.
 
-19. Công đồng Vatican II, *Lumen gentium*, số 48.
+19\. Công đồng Vatican II, *Lumen gentium*, số 48.
 
-20. X. Thánh Tôma Aquinô, *Summa theologiae*, III, q. 63, a. 3.
+20\. X. Thánh Tôma Aquinô, *Summa theologiae*, III, q. 63, a. 3.
 
-21. X. Công đồng Vatican II, *Lumen gentium*, số 11; *Sacrosanctum Concilium,* số 10.
+21\. X. Công đồng Vatican II, *Lumen gentium*, số 11; *Sacrosanctum Concilium,* số 10.
 
-22. X. Đức Giáo hoàng Phanxicô, Thông điệp *Laudato si’*, số 155: AAS 107 (2015), 909-910.
+22\. X. Đức Giáo hoàng Phanxicô, Thông điệp *Laudato si’*, số 155: AAS 107 (2015), 909-910.
 
-23. X. Tông thư *Misericordia et misera* (20/11/2016), 20: AAS 108 (2016), 1325-1326.
+23\. X. Tông thư *Misericordia et misera* (20/11/2016), 20: AAS 108 (2016), 1325-1326.
 
-24. Đức Giáo hoàng Gioan Phaolô II, Thông điệp *Redemptoris missio* (7/12/1990), 40: AAS 83 (1991), 287-288; Đức Giáo hoàng Phanxicô, Tông huấn *Evangelii gaudium*, 9-13: AAS 105 (2013), 1022-1025..
+24\. Đức Giáo hoàng Gioan Phaolô II, Thông điệp *Redemptoris missio* (7/12/1990), 40: AAS 83 (1991), 287-288; Đức Giáo hoàng Phanxicô, Tông huấn *Evangelii gaudium*, 9-13: AAS 105 (2013), 1022-1025..
 
-25. Công đồng Vatican II, *Gaudium et spes*, 22.
+25\. Công đồng Vatican II, *Gaudium et spes*, 22.

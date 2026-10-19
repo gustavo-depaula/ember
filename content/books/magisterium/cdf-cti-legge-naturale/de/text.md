@@ -373,7 +373,7 @@ Als das Lehramt veranlasst wurde, nicht nur einzelne sittliche Diskussionen zu l
 
 ------------------------------------------------------------------------
 
-1. Folgende Übersetzungen der Begriffe im französischen Originaltext werden gewählt: *loi naturelle* = natürliches Sittengesetz; *droit naturel* = Naturrecht; Ethik/ethis­ch wird verwendet, wenn es um die Reflexion über sittliche Gegebenheiten geht; Anm. d. Übers.
+1\. Folgende Übersetzungen der Begriffe im französischen Originaltext werden gewählt: *loi naturelle* = natürliches Sittengesetz; *droit naturel* = Naturrecht; Ethik/ethis­ch wird verwendet, wenn es um die Reflexion über sittliche Gegebenheiten geht; Anm. d. Übers.
 
 [¹](#_ftnref2) II. Vatikanisches Konzil, Pastorale Konstitution *[Gaudium et spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_ge.html),* Vorwort, Nr. 1.
 

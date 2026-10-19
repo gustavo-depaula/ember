@@ -44,4 +44,4 @@ Mentre eleviamo le Nostre supplici mani al cielo, e impetriamo per voi la divina
 
 [^2]: (#fnref2)) TERTULLIANUS, *Apolog*., 50: *PL* 1, 534.
 
-1. (#fnref1)) PIUS PP. XII, Epist. apost. *Cupimus imprimis* de catholica Ecclesia in Sinis, \[Ad venerabiles Fratres ac dilectos Filios Archiepiscopos, Episcopos aliosque locorum Ordinarios ceterumque Clerum ac populum Sinarum, pacem et communionem cum Apostolica Sede habentes\], 18 ianuarii 1952: *AAS* 44(1952). pp. 153-158.
+1\. (#fnref1)) PIUS PP. XII, Epist. apost. *Cupimus imprimis* de catholica Ecclesia in Sinis, \[Ad venerabiles Fratres ac dilectos Filios Archiepiscopos, Episcopos aliosque locorum Ordinarios ceterumque Clerum ac populum Sinarum, pacem et communionem cum Apostolica Sede habentes\], 18 ianuarii 1952: *AAS* 44(1952). pp. 153-158.

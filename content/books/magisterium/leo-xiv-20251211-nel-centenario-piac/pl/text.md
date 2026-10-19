@@ -94,18 +94,18 @@ Niech towarzyszy wam wszystkim błogosławieństwo Pana. Niech wspiera was wspó
 
 LEON PP. XIV
 
-1. Franciszek, [*Lettera sul rinnovamento dello studio della Storia della Chiesa*](https://www.vatican.va/content/francesco/pl/letters/2024/documents/20241121-lettera-storia-chiesa.html) *\[List o odnowie studium Historii Kościoła\]* (21 listopada 2024): *AAS* 116 (2024), 1590.
+1\. Franciszek, [*Lettera sul rinnovamento dello studio della Storia della Chiesa*](https://www.vatican.va/content/francesco/pl/letters/2024/documents/20241121-lettera-storia-chiesa.html) *\[List o odnowie studium Historii Kościoła\]* (21 listopada 2024): *AAS* 116 (2024), 1590.
 
-2. *Regolamento per il Pontificio Istituto di Archeologia Cristiana* *\[Regulamin Papieskiego Instytutu Archeologii Chrześcijańskiej\]* (11 grudnia 1925), art. 1: *Rivista di Archeologia Cristiana della Pontificia Commissione di archeologia sacra* 3 (1926), 21.
+2\. *Regolamento per il Pontificio Istituto di Archeologia Cristiana* *\[Regulamin Papieskiego Instytutu Archeologii Chrześcijańskiej\]* (11 grudnia 1925), art. 1: *Rivista di Archeologia Cristiana della Pontificia Commissione di archeologia sacra* 3 (1926), 21.
 
-3. Pius XI, Enc. *Lux Veritatis* (25 grudnia 1931), *Proemio*: *AAS* 23 (1931), 493.
+3\. Pius XI, Enc. *Lux Veritatis* (25 grudnia 1931), *Proemio*: *AAS* 23 (1931), 493.
 
-4. Por. P. Saint-Roch, *Discours inaugural*: a cura di N. Cambi – E. Marin, *Acta XIII Congressus Internationalis Archaeologiae Christianae,* I, Città del Vaticano 1998, 66-67.
+4\. Por. P. Saint-Roch, *Discours inaugural*: a cura di N. Cambi – E. Marin, *Acta XIII Congressus Internationalis Archaeologiae Christianae,* I, Città del Vaticano 1998, 66-67.
 
-5. Franciszek, *Lettera al Cardinale Gianfranco Ravasi in occasione della XXV Seduta pubblica delle Pontificie Accademie* *\[List do Kard. Gianfranco Ravasiego z okazji XXV Publicznej Sesji Akademii Papieskich\]* (1 lutego 2022): *AAS* 114 (2022), 211.
+5\. Franciszek, *Lettera al Cardinale Gianfranco Ravasi in occasione della XXV Seduta pubblica delle Pontificie Accademie* *\[List do Kard. Gianfranco Ravasiego z okazji XXV Publicznej Sesji Akademii Papieskich\]* (1 lutego 2022): *AAS* 114 (2022), 211.
 
-6. Na przykład w *Credo* mamy odniesienie do Poncjusza Piłata, postaci historycznej, która pozwala datować wspominane wydarzenia.
+6\. Na przykład w *Credo* mamy odniesienie do Poncjusza Piłata, postaci historycznej, która pozwala datować wspominane wydarzenia.
 
-7. Kongregacja ds. Edukacji Katolickiej, *Zarządzenia wykonawcze dla wiernej realizacji Konstytucji apostolskiej „[Veritatis gaudium](https://www.vatican.va/content/francesco/pl/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html)”* (27 grudnia 2017), art. 55, 1º b: *AAS* 110 (2018), 149.
+7\. Kongregacja ds. Edukacji Katolickiej, *Zarządzenia wykonawcze dla wiernej realizacji Konstytucji apostolskiej „[Veritatis gaudium](https://www.vatican.va/content/francesco/pl/apost_constitutions/documents/papa-francesco_costituzione-ap_20171208_veritatis-gaudium.html)”* (27 grudnia 2017), art. 55, 1º b: *AAS* 110 (2018), 149.
 
-8. Franciszek, *Discorso ai partecipanti alla Plenaria della Pontificia Commissione di Archeologia Sacra* *\[Przemówienie do uczestników Posiedzenia Plenarnego Papieskiej Komisji Archeologii Sakralnej\]* (17 maja 2024): *AAS* 116 (2024), 697-698.
+8\. Franciszek, *Discorso ai partecipanti alla Plenaria della Pontificia Commissione di Archeologia Sacra* *\[Przemówienie do uczestników Posiedzenia Plenarnego Papieskiej Komisji Archeologii Sakralnej\]* (17 maja 2024): *AAS* 116 (2024), 697-698.

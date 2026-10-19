@@ -168,6 +168,6 @@ Quando e como se alcançará a tão desejada meta da unidade de todos os cristã
 
 [^50]: João Paulo II, Carta Enc. *[Ut unum sint](/edocs/POR0069/_INDEX.HTM)*, 102.
 
-33. Cf. *Declaração colectiva dos Bispos alemães*, Jan.-Fev. de 1875: Denz-Hün, n. 3114.
+33\. Cf. *Declaração colectiva dos Bispos alemães*, Jan.-Fev. de 1875: Denz-Hün, n. 3114.
 
-39. Cf. *ibidem*: Denz-Hün, nn. 3073-3074; Conc. Vaticano II, Const. dogm. *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html)*, 25; CIC cân. 749 § 1; CCIO cân. 597 § 1.
+39\. Cf. *ibidem*: Denz-Hün, nn. 3073-3074; Conc. Vaticano II, Const. dogm. *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_po.html)*, 25; CIC cân. 749 § 1; CCIO cân. 597 § 1.

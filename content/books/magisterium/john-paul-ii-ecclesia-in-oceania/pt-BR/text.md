@@ -917,4 +917,4 @@ Nossa Senhora da Paz, rogai por nós! 
 
 [^179]: (#fnref179)) Cf. *ibid*.
 
-35. (#fnref35)) Paulo VI, *Homilia na primeira Ordenação Episcopal dum sacerdote da Papuásia-Nova Guiné* (Sydney, 3 de Dezembro de 1970): *AAS* 63 (1971), 72; cf. João Paulo II, *Discurso aos bispos da Conferência Episcopal do Pacífico* (Suva, 21 de Novembro de 1986), 2: *AAS* 79 (1987), 930-931.
+35\. (#fnref35)) Paulo VI, *Homilia na primeira Ordenação Episcopal dum sacerdote da Papuásia-Nova Guiné* (Sydney, 3 de Dezembro de 1970): *AAS* 63 (1971), 72; cf. João Paulo II, *Discurso aos bispos da Conferência Episcopal do Pacífico* (Suva, 21 de Novembro de 1986), 2: *AAS* 79 (1987), 930-931.

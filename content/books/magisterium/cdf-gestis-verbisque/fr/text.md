@@ -266,4 +266,4 @@ Dans les cas douteux, lorsqu'il y a eu une altération de la forme ou de la mati
 
 [^61]: *Ibid.*, n. 64 : *L’Osservatore Romano*, 30 juin 2022, 12.
 
-13. Cf. *Ibid.* n. 50 : *AAS* 57 (1965) 55-57.
+13\. Cf. *Ibid.* n. 50 : *AAS* 57 (1965) 55-57.

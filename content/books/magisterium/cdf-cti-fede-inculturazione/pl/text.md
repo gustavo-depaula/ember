@@ -280,4 +280,4 @@ Duch Święty i Kościół Apostołów
 
 [^30]: Jan Paweł II, *Przemówienie do członków Papieskiej Rady ds. Kultury*, 4: AAS 75 (1983) s. 384.
 
-11. Jan Paweł II, *Przemówienie do członków Papieskiej Rady ds. Kultury* (18 stycznia 1983), 7: AAS 75(1983) s. 386.
+11\. Jan Paweł II, *Przemówienie do członków Papieskiej Rady ds. Kultury* (18 stycznia 1983), 7: AAS 75(1983) s. 386.

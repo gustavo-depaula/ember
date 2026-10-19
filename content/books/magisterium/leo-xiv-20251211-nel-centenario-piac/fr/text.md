@@ -110,4 +110,4 @@ LÉON PP. XIV
 
 [^8]: François, *Discours aux participants à la Session plénière de la Commission Pontificale d’Archéologie Sacrée* (17 mai 2024) : *AAS* 116 (2024), 697-698.
 
-4. P. Saint-Roch, *Discours inaugural *: sous la direction de N. Cambi - E. Marin, *Acta XIII Congressus Internationalis Archaeologiae Christianae,* I, Cité du Vatican 1998, 66-67.
+4\. P. Saint-Roch, *Discours inaugural *: sous la direction de N. Cambi - E. Marin, *Acta XIII Congressus Internationalis Archaeologiae Christianae,* I, Cité du Vatican 1998, 66-67.

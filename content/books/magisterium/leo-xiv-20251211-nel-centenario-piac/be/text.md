@@ -99,18 +99,18 @@
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. Francesco, *Lettera sul rinnovamento dello studio della Storia della Chiesa* (21 лістапада 2024): *AAS* 116 (2024), 1590.
+1\. Francesco, *Lettera sul rinnovamento dello studio della Storia della Chiesa* (21 лістапада 2024): *AAS* 116 (2024), 1590.
 
-2. *Regolamento per il Pontificio Istituto di Archeologia Cristiana* (11 снежня 1925), арт. 1: *Rivista di Archeologia Cristiana della Pontificia Commissione di archeologia sacra*, 3 (1926), 21.
+2\. *Regolamento per il Pontificio Istituto di Archeologia Cristiana* (11 снежня 1925), арт. 1: *Rivista di Archeologia Cristiana della Pontificia Commissione di archeologia sacra*, 3 (1926), 21.
 
-3. Pio XI, Lett. enc. *Lux Veritatis* (25 снежня 1931), Прадмова: *AAS* 23 (1931), 493.
+3\. Pio XI, Lett. enc. *Lux Veritatis* (25 снежня 1931), Прадмова: *AAS* 23 (1931), 493.
 
-4. Пар. P. Saint-Roch, *Discours inaugural*: рэдакц. N. Cambi - E. Marin, *Acta XIII Congressus Internationalis Archaeologiae Christianae,* I, Città del Vaticano 1998, 66-67.
+4\. Пар. P. Saint-Roch, *Discours inaugural*: рэдакц. N. Cambi - E. Marin, *Acta XIII Congressus Internationalis Archaeologiae Christianae,* I, Città del Vaticano 1998, 66-67.
 
-5. Francesco, *Lettera al Cardinale Gianfranco Ravasi in occasione della XXV Seduta pubblica delle Pontificie Accademie* (1 лютага 2022): *AAS* 114 (2022), 211.
+5\. Francesco, *Lettera al Cardinale Gianfranco Ravasi in occasione della XXV Seduta pubblica delle Pontificie Accademie* (1 лютага 2022): *AAS* 114 (2022), 211.
 
-6. Напрыклад, у Сімвале веры згадваецца Понцій Пілат, гістарычная постаць, што дазваляе нам датаваць згаданыя падзеі.
+6\. Напрыклад, у Сімвале веры згадваецца Понцій Пілат, гістарычная постаць, што дазваляе нам датаваць згаданыя падзеі.
 
-7. Кангрэгацыя Каталіцкай Адукацыі, *Norme applicative per la fedele esecuzione della Cost. ap. Veritatis gaudium* (27 снежня 2017), арт. 55, 1b: *AAS* 110 (2018), 149.
+7\. Кангрэгацыя Каталіцкай Адукацыі, *Norme applicative per la fedele esecuzione della Cost. ap. Veritatis gaudium* (27 снежня 2017), арт. 55, 1b: *AAS* 110 (2018), 149.
 
-8. Francesco, *Discorso ai partecipanti alla Plenaria della Pontificia Commissione di Archeologia Sacra* (17 мая 2024): *AAS* 116 (2024), 697-698.
+8\. Francesco, *Discorso ai partecipanti alla Plenaria della Pontificia Commissione di Archeologia Sacra* (17 мая 2024): *AAS* 116 (2024), 697-698.

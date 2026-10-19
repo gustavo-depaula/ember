@@ -556,4 +556,4 @@ Es sei uns erlaubt, am Ende dieser Darlegung als abschließende Synthese der Leh
 
 [^132]: Ordo exsequiarum, Praenotanda 1, S. 7.
 
-133. ^(\[) Vgl. Konzil von Trient, 6. Sitzung, *Dekret über die Rechtfertigung*, Kanon 5 (DH 1525).
+133\. ^(\[) Vgl. Konzil von Trient, 6. Sitzung, *Dekret über die Rechtfertigung*, Kanon 5 (DH 1525).

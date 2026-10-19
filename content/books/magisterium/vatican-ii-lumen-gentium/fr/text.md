@@ -943,4 +943,4 @@ Pericles Felici *Archevêque titulaire de Samosate, secrétaire général du II^
 
 [^201]: \[\] [*Ibid.*, n. 22.](#22.)
 
-202. \[\] Sur la pratique effective des conseils qui n'est pas imposée à tous, cf. Jean Chrysostome, *In Mt. Hom* 7, 7 : PG 57, 81 s. Ambroise, *De Viduis* 4, 23 : PL 16, 241 s.
+202\. \[\] Sur la pratique effective des conseils qui n'est pas imposée à tous, cf. Jean Chrysostome, *In Mt. Hom* 7, 7 : PG 57, 81 s. Ambroise, *De Viduis* 4, 23 : PL 16, 241 s.

@@ -927,109 +927,109 @@ Amen !
 
 ------------------------------------------------------------------------
 
-392. IIIe Assemblée Générale Extraordinaire du Synode des Évêques, *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html)*, 18 octobre 2014, n. 2.
+392\. IIIe Assemblée Générale Extraordinaire du Synode des Évêques, *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html)*, 18 octobre 2014, n. 2.
 
-393. XIVe Assemblée Générale Ordinaire du Synode des Évêques,  *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html)*, 24 octobre 2015, n. 3.
+393\. XIVe Assemblée Générale Ordinaire du Synode des Évêques,  *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html)*, 24 octobre 2015, n. 3.
 
-394. *[Discours à l’occasion de la conclusion de la XIVe Assemblée Générale Ordinaire du Synode des Évêques](http://w2.vatican.va/content/francesco/fr/speeches/2015/october/documents/papa-francesco_20151024_sinodo-conclusione-lavori.html)* (24 octobre 2015), *L’Osservatore Romano*, éd. en langue française, 29 octobre 2015, pp. 8-9 ;  cf. Commission Biblique Pontificale, *Foi et culture à la lumière de la Bible. Actes de la Session plénière 1979 de la Commission Biblique Pontificale,* Turin (1981) ; Conc. Œcuménique Vat. II, Const. past. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_fr.html)*, sur l’Église dans le monde de ce temps, n. 44 ; Jean-Paul II, Lettre enc. *[Redemptoris missio](http://w2.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)* (7 décembre 1990), n. 52 : *AAS* 83 (1991), p. 300 ; Exhort. Ap. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 novembre 2013), nn. 69.117 : *AAS* 105 (2013), pp. 1049.1068-69.
+394\. *[Discours à l’occasion de la conclusion de la XIVe Assemblée Générale Ordinaire du Synode des Évêques](http://w2.vatican.va/content/francesco/fr/speeches/2015/october/documents/papa-francesco_20151024_sinodo-conclusione-lavori.html)* (24 octobre 2015), *L’Osservatore Romano*, éd. en langue française, 29 octobre 2015, pp. 8-9 ;  cf. Commission Biblique Pontificale, *Foi et culture à la lumière de la Bible. Actes de la Session plénière 1979 de la Commission Biblique Pontificale,* Turin (1981) ; Conc. Œcuménique Vat. II, Const. past. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_fr.html)*, sur l’Église dans le monde de ce temps, n. 44 ; Jean-Paul II, Lettre enc. *[Redemptoris missio](http://w2.vatican.va/content/john-paul-ii/fr/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)* (7 décembre 1990), n. 52 : *AAS* 83 (1991), p. 300 ; Exhort. Ap. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 novembre 2013), nn. 69.117 : *AAS* 105 (2013), pp. 1049.1068-69.
 
-395. *[Discours à l’occasion de la rencontre avec les familles de Santiago de Cuba](http://w2.vatican.va/content/francesco/fr/speeches/2015/september/documents/papa-francesco_20150922_cuba-famiglie.html)* (22 septembre 2015) : *L’Osservatore Romano*, éd. en langue française,  24 septembre 2015, pp. 14-15.
+395\. *[Discours à l’occasion de la rencontre avec les familles de Santiago de Cuba](http://w2.vatican.va/content/francesco/fr/speeches/2015/september/documents/papa-francesco_20150922_cuba-famiglie.html)* (22 septembre 2015) : *L’Osservatore Romano*, éd. en langue française,  24 septembre 2015, pp. 14-15.
 
-396. Jorge Luis Borges, “Calle desconocida”, dans *Fervor de Buenos Aires*, Buenos Aires 2011, p. 23.
+396\. Jorge Luis Borges, “Calle desconocida”, dans *Fervor de Buenos Aires*, Buenos Aires 2011, p. 23.
 
-397. *[Homélie à l’occasion de l’Eucharistie célébrée à Puebla de los Ángeles](http://w2.vatican.va/content/john-paul-ii/fr/homilies/1979/documents/hf_jp-ii_hom_19790128_messico-puebla-seminario.html)* (28 janvier 1979) : *AAS* 71 (1979), p. 184.
+397\. *[Homélie à l’occasion de l’Eucharistie célébrée à Puebla de los Ángeles](http://w2.vatican.va/content/john-paul-ii/fr/homilies/1979/documents/hf_jp-ii_hom_19790128_messico-puebla-seminario.html)* (28 janvier 1979) : *AAS* 71 (1979), p. 184.
 
-398. Cf. *Ibid*.
+398\. Cf. *Ibid*.
 
-399. Jean-Paul II, Exhort. ap. *[Familiaris consortio](http://w2.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)* (22 novembre 1981), n. 4 : *AAS* 74 (1982), p. 84.
+399\. Jean-Paul II, Exhort. ap. *[Familiaris consortio](http://w2.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)* (22 novembre 1981), n. 4 : *AAS* 74 (1982), p. 84.
 
-400. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 5.
+400\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 5.
 
-401. Conférence Épiscopale Espagnole, *Matrimonio y familia*, (Madrid, 6 juillet 1979), nn. 3.16.23.
+401\. Conférence Épiscopale Espagnole, *Matrimonio y familia*, (Madrid, 6 juillet 1979), nn. 3.16.23.
 
-402. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015*,  n. 5.
+402\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015*,  n. 5.
 
-403. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 5.
+403\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 5.
 
-404. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 8.
+404\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 8.
 
-405. *[Discours au Congrès des États-Unis d’Amérique](http://w2.vatican.va/content/francesco/fr/speeches/2015/september/documents/papa-francesco_20150924_usa-us-congress.html)* (24 septembre 2015) : *L’Osservatore Romano*, éd. en langue française, 1er octobre 2015, p. 12.
+405\. *[Discours au Congrès des États-Unis d’Amérique](http://w2.vatican.va/content/francesco/fr/speeches/2015/september/documents/papa-francesco_20150924_usa-us-congress.html)* (24 septembre 2015) : *L’Osservatore Romano*, éd. en langue française, 1er octobre 2015, p. 12.
 
-406. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 29.
+406\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 29.
 
-407. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 10.
+407\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 10.
 
-408. IIIe Assemblée Générale Extraordinaire du Synode des Évêques, *Message,* 18 octobre 2014.
+408\. IIIe Assemblée Générale Extraordinaire du Synode des Évêques, *Message,* 18 octobre 2014.
 
-409. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 10.
+409\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 10.
 
-410. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 7.
+410\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 7.
 
-411. *Ibid*., n. 63.
+411\. *Ibid*., n. 63.
 
-412. Conférence des Évêques Catholiques de Corée, *Towards a culture of life !* (15 mars 2007).
+412\. Conférence des Évêques Catholiques de Corée, *Towards a culture of life !* (15 mars 2007).
 
-413. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 6.
+413\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 6.
 
-414. Conseil Pontifical pour la Famille, *[Charte des droits de la famille](http://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_19831022_family-rights-abbrev_fr.html)* (22 octobre 1983), n. 11.
+414\. Conseil Pontifical pour la Famille, *[Charte des droits de la famille](http://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_19831022_family-rights-abbrev_fr.html)* (22 octobre 1983), n. 11.
 
-415. Cf. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  nn. 11-12.
+415\. Cf. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  nn. 11-12.
 
-416. Conseil Pontifical pour la Famille, *[Charte des droits de la famille](http://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_19831022_family-rights-abbrev_fr.html)* (22 octobre 1983**)**, Intr.
+416\. Conseil Pontifical pour la Famille, *[Charte des droits de la famille](http://www.vatican.va/roman_curia/pontifical_councils/family/documents/rc_pc_family_doc_19831022_family-rights-abbrev_fr.html)* (22 octobre 1983**)**, Intr.
 
-417. *Ibid,* n. 9.
+417\. *Ibid,* n. 9.
 
-418. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 14.
+418\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 14.
 
-419. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 8.
+419\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 8.
 
-420. Cf. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 78.
+420\. Cf. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 78.
 
-421. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 8
+421\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 8
 
-422. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 23 ; cf. *[Message pour la Journée mondiale du migrant et du réfugié 2016](http://w2.vatican.va/content/francesco/fr/messages/migration/documents/papa-francesco_20150912_world-migrants-day-2016.html)* (12 septembre 2015) : *L’Osservatore Romano*, éd. en langue française,  8 octobre 2015, p. 19.
+422\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 23 ; cf. *[Message pour la Journée mondiale du migrant et du réfugié 2016](http://w2.vatican.va/content/francesco/fr/messages/migration/documents/papa-francesco_20150912_world-migrants-day-2016.html)* (12 septembre 2015) : *L’Osservatore Romano*, éd. en langue française,  8 octobre 2015, p. 19.
 
-423. *Ibid*., n. 24.
+423\. *Ibid*., n. 24.
 
-424. *Ibid*., n. 21.
+424\. *Ibid*., n. 21.
 
-425. *Ibid*., n. 17.
+425\. *Ibid*., n. 17.
 
-426. *Ibid*., n. 20.
+426\. *Ibid*., n. 20.
 
-427. *Ibid*., n. 15.
+427\. *Ibid*., n. 15.
 
-428. *[Discours de clôture de la 14e Assemblée Générale ordinaire du synode des Évêques](http://w2.vatican.va/content/francesco/fr/speeches/2015/october/documents/papa-francesco_20151024_sinodo-conclusione-lavori.html)* (24 octobre 2015) : *L’Osservatore Romano*, éd. en langue française, 29 octobre 2015, p. 8.
+428\. *[Discours de clôture de la 14e Assemblée Générale ordinaire du synode des Évêques](http://w2.vatican.va/content/francesco/fr/speeches/2015/october/documents/papa-francesco_20151024_sinodo-conclusione-lavori.html)* (24 octobre 2015) : *L’Osservatore Romano*, éd. en langue française, 29 octobre 2015, p. 8.
 
-429. Conférence des Évêques d’Argentine, *Navega mar adentro* (31 mai 2003), n. 42.
+429\. Conférence des Évêques d’Argentine, *Navega mar adentro* (31 mai 2003), n. 42.
 
-430. Conférence Épiscopale du Mexique, *Que en Cristo Nuestra Paz México tenga vida* digna (15 février 2009), n. 67.
+430\. Conférence Épiscopale du Mexique, *Que en Cristo Nuestra Paz México tenga vida* digna (15 février 2009), n. 67.
 
-431. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 25.
+431\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 25.
 
-432. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 10.
+432\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 10.
 
-433. *[Catéchèse](http://w2.vatican.va/content/francesco/fr/audiences/2015/documents/papa-francesco_20150422_udienza-generale.html)* (22 avril 2015) : *L’Osservatore Romano*, éd. en langue française, 23 avril 2015, p. 2.
+433\. *[Catéchèse](http://w2.vatican.va/content/francesco/fr/audiences/2015/documents/papa-francesco_20150422_udienza-generale.html)* (22 avril 2015) : *L’Osservatore Romano*, éd. en langue française, 23 avril 2015, p. 2.
 
-434. *[Catéchèse](http://w2.vatican.va/content/francesco/fr/audiences/2015/documents/papa-francesco_20150429_udienza-generale.html)* (29 avril 2015) : *L’Osservatore Romano*, éd. en langue française, 30 avril 2015, p. 2.
+434\. *[Catéchèse](http://w2.vatican.va/content/francesco/fr/audiences/2015/documents/papa-francesco_20150429_udienza-generale.html)* (29 avril 2015) : *L’Osservatore Romano*, éd. en langue française, 30 avril 2015, p. 2.
 
-435. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 28.
+435\. *[Relatio finalis](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20151026_relazione-finale-xiv-assemblea_fr.html) 2015,*  n. 28.
 
-436. *Ibid*., n. 8.
+436\. *Ibid*., n. 8.
 
-437. *Ibid*., n. 58.
+437\. *Ibid*., n. 58.
 
-438. *Ibid*., n. 33.
+438\. *Ibid*., n. 33.
 
-439. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 11.
+439\. *[Relatio Synodi](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_fr.html) 2014,* n. 11.
 
-440. Conférence des Évêques de Colombie, *A tiempos dificiles, colombianos nuevos* (13 février 2003), n. 3.
+440\. Conférence des Évêques de Colombie, *A tiempos dificiles, colombianos nuevos* (13 février 2003), n. 3.
 
-441. Exhort. ap. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 novembre 2013), 35 : *AAS* 105 (2013), p. 1034.
+441\. Exhort. ap. *[Evangelii gaudium](http://w2.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 novembre 2013), 35 : *AAS* 105 (2013), p. 1034.
 
-442. *Ibid.*, 164 : *AAS* 105 (2013), p. 1088.
+442\. *Ibid.*, 164 : *AAS* 105 (2013), p. 1088.
 
-443. *Ibid.*
+443\. *Ibid.*
 
 [\[53\]](#_ftnref53) *Ibid.*, 165 : *AAS* 105 (2013), p. 1089.
 

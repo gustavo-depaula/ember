@@ -16,6 +16,6 @@ Insignes Deo aeterno grates tota Hungaria singularibus cum laetitiis agendas iur
 
 ------------------------------------------------------------------------
 
-1. Clemens XIII P.M. in alloc. *Si qui militari,* die 1 oct. an. MDCCLVIII.
+1\. Clemens XIII P.M. in alloc. *Si qui militari,* die 1 oct. an. MDCCLVIII.
 
-2. Epis. *Quum multa alia* die XIX aug. An. MDCCLVIII
+2\. Epis. *Quum multa alia* die XIX aug. An. MDCCLVIII

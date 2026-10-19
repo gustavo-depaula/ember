@@ -36,4 +36,4 @@ A.A.S. 48 (1956), pp. 745-748.
 
 [^2]: (#_ftnref1)\] Litt. enc *[Luctuosissimi eventus](/content/pius-xii/it/encyclicals/documents/hf_p-xii_enc_28101956_luctuosissimi-eventus.html)* (28 oct. 1956): A.A.S. 48 (1956), pp. 741-744; *EE* 6/1290-1294.
 
-3. (#_ftnref2)\] Orat. in Festo Iesu Christi Regis.
+3\. (#_ftnref2)\] Orat. in Festo Iesu Christi Regis.

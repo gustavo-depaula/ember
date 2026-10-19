@@ -1062,8 +1062,8 @@ A todos vós, que, com espírito de comunhão eclesial na obediência e na fé, 
 
 [^207]: (#fnref207)) Cf. *Rom* 1, 5; 16, 26.
 
-75. (#fnref75)) Cf. *Núm* 15, 30.
+75\. (#fnref75)) Cf. *Núm* 15, 30.
 
-142. (#fnref142)) Cf. Const. past. sobre a Igreja no Mundo Contemporâneo *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html)*, 8. 16. 19. 26. 41. 48.
+142\. (#fnref142)) Cf. Const. past. sobre a Igreja no Mundo Contemporâneo *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html)*, 8. 16. 19. 26. 41. 48.
 
-196. (#fnref196)) Câns. 961-963.
+196\. (#fnref196)) Câns. 961-963.

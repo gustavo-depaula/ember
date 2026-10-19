@@ -213,7 +213,7 @@ GIOVANNI PAOLO II
 
 ------------------------------------------------------------------------
 
-1. Cf Cost. dogm. sulla Chiesa *Lumen Gentium,* 52 e l'intero cap. VIII**,** intitolato «La Beata Maria Vergine Madre di Dio nel mistero di Cristo e della Chiesa».  
+1\. Cf Cost. dogm. sulla Chiesa *Lumen Gentium,* 52 e l'intero cap. VIII**,** intitolato «La Beata Maria Vergine Madre di Dio nel mistero di Cristo e della Chiesa».  
 
 2 L'espressione «pienezza del tempo» (Pléroma toû chrónou) è parallela a locuzioni affini del giudaismo sia biblico (cf *Gn 29,* 21; 7 *Sam 7,* 12; *Tob* 14, 5) che extrabiblico, e soprattutto del N.T. (cf *Mc* 1, 15; *Lc* 21, 24; *Gv 7,* 8; *Ef* 1, 10*).* Dal punto di vista formale, essa indica non solo la conclusione di un processo cronologico, ma soprattutto la maturazione o il compimento di un periodo particolarmente importante, perché orientato verso l'attuazione di un'attesa, la quale acquista pertanto una dimensione escatologica. Stando a *Gal* 4, 4 e al suo contesto, è l'avvento del Figlio di Dio a rivelare che il tempo ha, per così dire, colmato la misura; cioè il periodo segnato dalla promessa fatta ad Abramo, nonché dalla legge mediata da Mosé, ha ormai raggiunto il suo culmine, nel senso che Cristo adempie la promessa divina e supera l'antica legge.  
 

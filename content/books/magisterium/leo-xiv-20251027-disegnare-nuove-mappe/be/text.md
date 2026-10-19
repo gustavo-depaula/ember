@@ -130,22 +130,22 @@
 
 [^14]: S.E. Mons. ROBERT F. PREVOST, O.S.A., *Omelia all’Università Cattolica Santo Toribio de Mogrovejo* (2018).
 
-15. CONGREGAZIONE PER L’EDUCAZIONE CATTOLICA, Lettera circolare *Educare insieme nella scuola cattolica* (8 верасня 2007), n. 20.
+15\. CONGREGAZIONE PER L’EDUCAZIONE CATTOLICA, Lettera circolare *Educare insieme nella scuola cattolica* (8 верасня 2007), n. 20.
 
-16. ДРУГІ ВАТЫКАНСКІ САБОР, Пастырская канстытуцыя пра Касцёл у сучасным свеце *Gaudium et spes* (29 чэрвеня 1966), 48.
+16\. ДРУГІ ВАТЫКАНСКІ САБОР, Пастырская канстытуцыя пра Касцёл у сучасным свеце *Gaudium et spes* (29 чэрвеня 1966), 48.
 
-17. Пар. ДРУГІ ВАТЫКАНСКІ САБОР, Дэкларацыя пра хрысціянскае выхаванне *[Gravissimum educationis](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_be.html)* (28 кастрычніка 1965), 1.
+17\. Пар. ДРУГІ ВАТЫКАНСКІ САБОР, Дэкларацыя пра хрысціянскае выхаванне *[Gravissimum educationis](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_be.html)* (28 кастрычніка 1965), 1.
 
-18. PAPA FRANCESCO, *Discorso ai giovani universitari in occasione della Giornata Mondiale della Gioventù* (3 жніўня 2023).
+18\. PAPA FRANCESCO, *Discorso ai giovani universitari in occasione della Giornata Mondiale della Gioventù* (3 жніўня 2023).
 
-19. SAN BONAVENTURA DA BAGNOREGIO, *Collationes in Hexaemeron*, XII, in  *Opera Omnia*  (пад рэд. Пельцье), Vivès, Parigi, t. IX (1867), pp. 87-88.
+19\. SAN BONAVENTURA DA BAGNOREGIO, *Collationes in Hexaemeron*, XII, in  *Opera Omnia*  (пад рэд. Пельцье), Vivès, Parigi, t. IX (1867), pp. 87-88.
 
-20. PAPA FRANCESCO, Costituzione Apostolica  *Veritatis gaudium* (8 dicembre 2017), n. 4c.
+20\. PAPA FRANCESCO, Costituzione Apostolica  *Veritatis gaudium* (8 dicembre 2017), n. 4c.
 
-21. LEONE XIV, *Saluto dalla Loggia centrale della Basilica di San Pietro dopo l’elezione* (8 мая 2025).
+21\. LEONE XIV, *Saluto dalla Loggia centrale della Basilica di San Pietro dopo l’elezione* (8 мая 2025).
 
-22. DICASTERO PER LA DOTTRINA DELLA FEDE E DICASTERO PER LA CULTURA E L’EDUCAZIONE, Nota  *Antiqua et nova*  (28 студзеня 2025), n. 117.
+22\. DICASTERO PER LA DOTTRINA DELLA FEDE E DICASTERO PER LA CULTURA E L’EDUCAZIONE, Nota  *Antiqua et nova*  (28 студзеня 2025), n. 117.
 
-23. Пар. *Annuario Statistico della Chiesa* (абноўлена 31 снежня 2022).
+23\. Пар. *Annuario Statistico della Chiesa* (абноўлена 31 снежня 2022).
 
-24. S.E. Mons. ROBERT F. PREVOST, O.S.A., *Messaggio all’Università Cattolica Santo Toribio de Mogrovejo in occasione del XVIII anno di fondazione* (2016).
+24\. S.E. Mons. ROBERT F. PREVOST, O.S.A., *Messaggio all’Università Cattolica Santo Toribio de Mogrovejo in occasione del XVIII anno di fondazione* (2016).

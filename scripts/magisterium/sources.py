@@ -239,7 +239,7 @@ def to_markdown(root: Tag, title: str, notes: dict[int, str] | None = None) -> s
     parts = [f"# {md_escape_inline(title)}", body]
     if notes:
         defs = [f"[^{n}]: {notes[n].replace(chr(10) + chr(10), chr(10) + chr(10) + '    ')}" for n in sorted(notes) if n in used]
-        orphans = [f"{n}. {notes[n]}" for n in sorted(notes) if n not in used]
+        orphans = [f"{n}\\. {notes[n]}" for n in sorted(notes) if n not in used]
         if defs:
             parts.append("\n\n".join(defs))
         if orphans:

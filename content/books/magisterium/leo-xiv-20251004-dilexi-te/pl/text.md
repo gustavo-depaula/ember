@@ -334,248 +334,248 @@ LEON PP. XIV
 
 [^19]: Franciszek, [*Spotkanie z dziennikarzami*](https://www.vatican.va/content/francesco/pl/speeches/2013/march/documents/papa-francesco_20130316_rappresentanti-media.html) (16 marca 2013): *AAS* 105 (2013), 381; *L’Osservatore Romano*, wyd. polskie, n. 5 (352)/2013, s. 13.
 
-1. Franciszek, Enc. [*Dilexit nos*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24 października 2024), 170: *AAS* 116 (2024), 1422.
+1\. Franciszek, Enc. [*Dilexit nos*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24 października 2024), 170: *AAS* 116 (2024), 1422.
 
-2. *Tamże*, 171: *AAS* 116 (2024), 1422–1423.
+2\. *Tamże*, 171: *AAS* 116 (2024), 1422–1423.
 
-5. J.M. Bergoglio SJ, A. Skórka, *W niebie i na ziemi*, tłum. Marta Szafrańska-Brandt, Kraków 2013, s. 248.
+5\. J.M. Bergoglio SJ, A. Skórka, *W niebie i na ziemi*, tłum. Marta Szafrańska-Brandt, Kraków 2013, s. 248.
 
-6. Paweł VI, *Homilia wygłoszona podczas Mszy św. z okazji ostatniej publicznej sesji Soboru Powszechnego Watykańskiego II* (7 grudnia 1965): *AAS* 58 (1966), 55–56.
+6\. Paweł VI, *Homilia wygłoszona podczas Mszy św. z okazji ostatniej publicznej sesji Soboru Powszechnego Watykańskiego II* (7 grudnia 1965): *AAS* 58 (1966), 55–56.
 
-8. [*Tamże*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 212: *AAS* 105 (2013), 1108.
+8\. [*Tamże*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html), 212: *AAS* 105 (2013), 1108.
 
-12. Por. Św. Jan Paweł II, *Katecheza* (27 października 1999): *L’Osservatore Romano*, wyd. polskie, n. 1 (219)/2000, s. 43.
+12\. Por. Św. Jan Paweł II, *Katecheza* (27 października 1999): *L’Osservatore Romano*, wyd. polskie, n. 1 (219)/2000, s. 43.
 
-13. Franciszek, Adhort. apost. [*Evangelii gaudium* (](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)24 listopada 2013), 197: *AAS* 105 (2013), 1102.
+13\. Franciszek, Adhort. apost. [*Evangelii gaudium* (](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)24 listopada 2013), 197: *AAS* 105 (2013), 1102.
 
-14. Por. Tenże, [*Orędzie na V Światowy Dzień Ubogich*](https://www.vatican.va/content/francesco/pl/messages/poveri/documents/20210613-messaggio-v-giornatamondiale-poveri-2021.html) (13 czerwca 2021), 3: *AAS* 113 (2021), 691: „Jezus nie tylko staje po stronie ubogich, ale również dzieli z nimi ten sam los. To jest silne przesłanie również dla Jego uczniów po wszystkie czasy”.
+14\. Por. Tenże, [*Orędzie na V Światowy Dzień Ubogich*](https://www.vatican.va/content/francesco/pl/messages/poveri/documents/20210613-messaggio-v-giornatamondiale-poveri-2021.html) (13 czerwca 2021), 3: *AAS* 113 (2021), 691: „Jezus nie tylko staje po stronie ubogich, ale również dzieli z nimi ten sam los. To jest silne przesłanie również dla Jego uczniów po wszystkie czasy”.
 
-15. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 186: *AAS* 105 (2013), 1098.
+15\. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 186: *AAS* 105 (2013), 1098.
 
-16. Tenże, Adhort. apost. [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19 marca 2018), 95: *AAS* 110 (2018), 1137.
+16\. Tenże, Adhort. apost. [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19 marca 2018), 95: *AAS* 110 (2018), 1137.
 
-17. *Tamże*, [97](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html): *AAS* 110 (2018), 1137.
+17\. *Tamże*, [97](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html): *AAS* 110 (2018), 1137.
 
-18. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 194: *AAS* 105 (2013), 1101.
+18\. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 194: *AAS* 105 (2013), 1101.
 
-20. Sobór Watykański II, Konst. dogmat. *Lumen gentium*, 8.
+20\. Sobór Watykański II, Konst. dogmat. *Lumen gentium*, 8.
 
-21. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 48: *AAS* 105 (2013), 1040.
+21\. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 48: *AAS* 105 (2013), 1040.
 
-22. W niniejszym rozdziale przedstawiamy kilka takich przykładów świętości, które nie mają charakteru wyczerpującego, ale raczej wskazują na troskę o ubogich, która zawsze charakteryzowała obecność Kościoła w świecie. Dogłębną refleksję na temat historii tej troski o najbardziej potrzebujących można znaleźć w książce V. Paglii, *Storia della povertà*, Milano 2014.
+22\. W niniejszym rozdziale przedstawiamy kilka takich przykładów świętości, które nie mają charakteru wyczerpującego, ale raczej wskazują na troskę o ubogich, która zawsze charakteryzowała obecność Kościoła w świecie. Dogłębną refleksję na temat historii tej troski o najbardziej potrzebujących można znaleźć w książce V. Paglii, *Storia della povertà*, Milano 2014.
 
-23. Por. Św. Ambroży z Mediolanu, *Obowiązki duchownych,* tłum. Kazimierz Abgarowicz, Warszawa 1967, I, rozdz. 41, 205-206, s. 91–93: *CCSL* 15, Turnhout 2000, 76–77; II, rozdz. 28, 140–143, s. 159–160: *CCSL* 15, 148–149.
+23\. Por. Św. Ambroży z Mediolanu, *Obowiązki duchownych,* tłum. Kazimierz Abgarowicz, Warszawa 1967, I, rozdz. 41, 205-206, s. 91–93: *CCSL* 15, Turnhout 2000, 76–77; II, rozdz. 28, 140–143, s. 159–160: *CCSL* 15, 148–149.
 
-24. *Tamże*, II, rozdz. 28, 140, s. 159: *CCSL* 15, 148.
+24\. *Tamże*, II, rozdz. 28, 140, s. 159: *CCSL* 15, 148.
 
-25. *Tamże*.
+25\. *Tamże*.
 
-26. *Tamże*, II, rodz. 28, 142, s. 159: *CCSL* 15, 148.
+26\. *Tamże*, II, rodz. 28, 142, s. 159: *CCSL* 15, 148.
 
-27. Św. Ignacy z Antiochii, *Do Kościoła w Smyrnie*, 6, 2, w: *Pierwsi świadkowie*, tłum. Anna Świderkówna, Kraków 1988, s. 172; *SCh* 10bis, Paris 2007, 136–138.
+27\. Św. Ignacy z Antiochii, *Do Kościoła w Smyrnie*, 6, 2, w: *Pierwsi świadkowie*, tłum. Anna Świderkówna, Kraków 1988, s. 172; *SCh* 10bis, Paris 2007, 136–138.
 
-28. Św. Polikarp *, List do Kościoła w Filippi*, 6, 1, w: *Pierwsi świadkowie*, tłum. Anna Świderkówna, Kraków 1988, s. 195; *SCh* 10bis, 186.
+28\. Św. Polikarp *, List do Kościoła w Filippi*, 6, 1, w: *Pierwsi świadkowie*, tłum. Anna Świderkówna, Kraków 1988, s. 195; *SCh* 10bis, 186.
 
-29. Św. Justyn, *Apologia* *I*, 67, 6–7, w: *Eucharystia pierwszych chrześcijan*, Kraków 1987, s. 254; *SCh* 507, Paris 2006, 310.
+29\. Św. Justyn, *Apologia* *I*, 67, 6–7, w: *Eucharystia pierwszych chrześcijan*, Kraków 1987, s. 254; *SCh* 507, Paris 2006, 310.
 
-30. Św. Jan Chryzostom, *Homilie na Ewangelię św. Mateusza*, oprac. ks. Arkadiusz Baron, Kraków 2002, 50, 3, s. 107–108; *PG* 58, Paris 1862, 508.
+30\. Św. Jan Chryzostom, *Homilie na Ewangelię św. Mateusza*, oprac. ks. Arkadiusz Baron, Kraków 2002, 50, 3, s. 107–108; *PG* 58, Paris 1862, 508.
 
-31. *Tamże*, 50, 4, s. 108; *PG* 58, 509.
+31\. *Tamże*, 50, 4, s. 108; *PG* 58, 509.
 
-32. Tenże, *Homilia in Epistula ad Hebraeos* 11, 3: *PG* 63, Paris 1862, 94.
+32\. Tenże, *Homilia in Epistula ad Hebraeos* 11, 3: *PG* 63, Paris 1862, 94.
 
-33. Tenże, *Homilia II De Lazaro*, II, 6: *PG* 48, Paris 1862, 992.
+33\. Tenże, *Homilia II De Lazaro*, II, 6: *PG* 48, Paris 1862, 992.
 
-34. Św. Ambroży, *Historia Nabota*, XII, 53, tłum. ks. Marek Kozera, Sandomierz 1985, s. 58; *CSEL* 32/2, Praga-Vienna-Lipsia 1897, 498.
+34\. Św. Ambroży, *Historia Nabota*, XII, 53, tłum. ks. Marek Kozera, Sandomierz 1985, s. 58; *CSEL* 32/2, Praga-Vienna-Lipsia 1897, 498.
 
-35. Św. Augustyn, *Objaśnienia psalmów*, 125, 12, tłum. Jan Sulowski, Warszawa 1986, s. 23; *CSEL* 95/3, Vienna 2001, 181.
+35\. Św. Augustyn, *Objaśnienia psalmów*, 125, 12, tłum. Jan Sulowski, Warszawa 1986, s. 23; *CSEL* 95/3, Vienna 2001, 181.
 
-36. Tenże, *Sermo 86*, 5: *CCSL* 41Ab, Turnhout 2019, 411–412.
+36\. Tenże, *Sermo 86*, 5: *CCSL* 41Ab, Turnhout 2019, 411–412.
 
-37. Pseudo-Augustyn, *Sermo 388*, 2: *PL* 39, Paris 1862, 1700.
+37\. Pseudo-Augustyn, *Sermo 388*, 2: *PL* 39, Paris 1862, 1700.
 
-38. Św. Cyprian, *De mortalitate*, 16: *CCSL* 3A, Turnhout 1976, 25.
+38\. Św. Cyprian, *De mortalitate*, 16: *CCSL* 3A, Turnhout 1976, 25.
 
-39. Franciszek, [*Orędzie na XXX Światowy Dzień Chorego* (10 grudnia 2021),](https://www.vatican.va/content/francesco/pl/messages/sick/documents/20211210_30-giornata-malato.html) 3: *AAS* 114 (2022), 51; *L’Osservatore Romano*, wyd. polskie, n. 2 (440)/2022, s. 5.
+39\. Franciszek, [*Orędzie na XXX Światowy Dzień Chorego* (10 grudnia 2021),](https://www.vatican.va/content/francesco/pl/messages/sick/documents/20211210_30-giornata-malato.html) 3: *AAS* 114 (2022), 51; *L’Osservatore Romano*, wyd. polskie, n. 2 (440)/2022, s. 5.
 
-40. Św. Kamil de Lellis, *Regole della Compagnia dei Servi degli Infermi*, 27: M. Vanti (ed.), *Scritti di San Camillo de Lellis*, Milano 1965, 67.
+40\. Św. Kamil de Lellis, *Regole della Compagnia dei Servi degli Infermi*, 27: M. Vanti (ed.), *Scritti di San Camillo de Lellis*, Milano 1965, 67.
 
-41. Św. Ludwika De Marillac, *Lettera alle sorelle Claude Carré e Marie Gaudoin* (28 novembre 1657): E. Charpy (ed.), *Sainte Louise de Marillac. Écrits*, Paris 1983, 576.
+41\. Św. Ludwika De Marillac, *Lettera alle sorelle Claude Carré e Marie Gaudoin* (28 novembre 1657): E. Charpy (ed.), *Sainte Louise de Marillac. Écrits*, Paris 1983, 576.
 
-42. Św. Bazyli Wielki, *Reguły krótsze*, 37, 1, w: *Pisma ascetyczne*, t. 2, przekł. i oprac. ks. Józef Naumowicz, Kraków 1995, s. 145–146; *PG* 31, Paris 1857, 1009 C–D.
+42\. Św. Bazyli Wielki, *Reguły krótsze*, 37, 1, w: *Pisma ascetyczne*, t. 2, przekł. i oprac. ks. Józef Naumowicz, Kraków 1995, s. 145–146; *PG* 31, Paris 1857, 1009 C–D.
 
-43. *Regula Benedicti*, 53, 15: *SCh* 182, Paris 1972, 614.
+43\. *Regula Benedicti*, 53, 15: *SCh* 182, Paris 1972, 614.
 
-44. Św. Jan Kasjan, *Rozmowa* XIV, 10, w: *Rozmowa z ojcami*, t. 2. tłum. ks. Arkadiusz Nocoń, Tyniec 2015; *CSEL* 13, Vienna 2004, 410.
+44\. Św. Jan Kasjan, *Rozmowa* XIV, 10, w: *Rozmowa z ojcami*, t. 2. tłum. ks. Arkadiusz Nocoń, Tyniec 2015; *CSEL* 13, Vienna 2004, 410.
 
-45. Benedykt XVI, *Katecheza* (21 października 2009): *L’Osservatore Romano,* wyd. polskie, n. 1 (319)/2010, s. 42.
+45\. Benedykt XVI, *Katecheza* (21 października 2009): *L’Osservatore Romano,* wyd. polskie, n. 1 (319)/2010, s. 42.
 
-46. Por. Innocenty III, Bolla *Operante divinae dispositionis* – *Regola Primitiva dei Trinitari* (17 dicembre 1198), 2: J.L. Aurrecoechea – A. Moldón (edd.), *Fuentes históricas de la Orden Trinitaria (s. XII–XV)*, Córdoba 2003, 6: „Wszystkie dobra, niezależnie od tego, skąd pochodzą, powinny być podzielone na trzy równe części; a jeśli dwie części byłyby wystarczające, należy z nich wypełnić uczynki miłosierdzia, zapewniając jednocześnie umiarkowane utrzymanie dla siebie i dla domowników, którzy służą im z konieczności. Trzecia część powinna być jednak przeznaczona na wykup jeńców z powodu ich wiary w Chrystusa”.
+46\. Por. Innocenty III, Bolla *Operante divinae dispositionis* – *Regola Primitiva dei Trinitari* (17 dicembre 1198), 2: J.L. Aurrecoechea – A. Moldón (edd.), *Fuentes históricas de la Orden Trinitaria (s. XII–XV)*, Córdoba 2003, 6: „Wszystkie dobra, niezależnie od tego, skąd pochodzą, powinny być podzielone na trzy równe części; a jeśli dwie części byłyby wystarczające, należy z nich wypełnić uczynki miłosierdzia, zapewniając jednocześnie umiarkowane utrzymanie dla siebie i dla domowników, którzy służą im z konieczności. Trzecia część powinna być jednak przeznaczona na wykup jeńców z powodu ich wiary w Chrystusa”.
 
-47. Por. *Costituzioni dell’Ordine dei Mercedari*, n. 14: Orden de la Beata Virgen María de la Merced, *Regla y Constituciones*, Roma 2014, 53: „Aby wypełnić tę misję, pobudzeni miłosierdziem, poświęcamy się Bogu szczególnym ślubem, nazywanym ślubem Odkupienia, na mocy którego obiecujemy oddać życie, jeśli zajdzie taka potrzeba, tak jak Chrystus oddał swoje życie za nas, aby ocalić chrześcijan znajdujących się w śmiertelnym niebezpieczeństwie utraty wiary w nowych formach niewoli”.
+47\. Por. *Costituzioni dell’Ordine dei Mercedari*, n. 14: Orden de la Beata Virgen María de la Merced, *Regla y Constituciones*, Roma 2014, 53: „Aby wypełnić tę misję, pobudzeni miłosierdziem, poświęcamy się Bogu szczególnym ślubem, nazywanym ślubem Odkupienia, na mocy którego obiecujemy oddać życie, jeśli zajdzie taka potrzeba, tak jak Chrystus oddał swoje życie za nas, aby ocalić chrześcijan znajdujących się w śmiertelnym niebezpieczeństwie utraty wiary w nowych formach niewoli”.
 
-48. Por. Św. Jan Chrzciciel od Poczęcia, *La regla de la Orden de la Santísima Trinidad*, XX, 1: *BAC Maior* 60, Madrid 1999, 90: „W tym ubodzy i więźniowie są podobni do Chrystusa, na którego spadły cierpienia świata (…). Ten święty Zakon Świętej Trójcy wzywa ich i zaprasza, aby przyszli pić wodę Zbawiciela, co oznacza, że skoro Chrystus zawieszony na krzyżu był odkupieniem i zbawieniem dla ludzi, Zakon przyjął to odkupienie i chce je rozdzielać ubogim oraz zbawiać i wyzwalać więźniów”.
+48\. Por. Św. Jan Chrzciciel od Poczęcia, *La regla de la Orden de la Santísima Trinidad*, XX, 1: *BAC Maior* 60, Madrid 1999, 90: „W tym ubodzy i więźniowie są podobni do Chrystusa, na którego spadły cierpienia świata (…). Ten święty Zakon Świętej Trójcy wzywa ich i zaprasza, aby przyszli pić wodę Zbawiciela, co oznacza, że skoro Chrystus zawieszony na krzyżu był odkupieniem i zbawieniem dla ludzi, Zakon przyjął to odkupienie i chce je rozdzielać ubogim oraz zbawiać i wyzwalać więźniów”.
 
-49. Por. Tenże *,* *El recogimiento interior*, XL, 4: *BAC Maior* 48, Madrid 1995, 689: „Wolna wola czyni człowieka wolnym i panem wszystkich stworzeń, ale, wspomóż mnie Boże, iluż to jest takich, którzy tą drogą stają się niewolnikami i więźniami diabła, uwięzieni i skuci łańcuchami swoich namiętności i pożądliwości”.
+49\. Por. Tenże *,* *El recogimiento interior*, XL, 4: *BAC Maior* 48, Madrid 1995, 689: „Wolna wola czyni człowieka wolnym i panem wszystkich stworzeń, ale, wspomóż mnie Boże, iluż to jest takich, którzy tą drogą stają się niewolnikami i więźniami diabła, uwięzieni i skuci łańcuchami swoich namiętności i pożądliwości”.
 
-50. Franciszek, [*Orędzie na XLVIII Światowy Dzień Pokoju*](https://www.vatican.va/content/francesco/pl/messages/communications/documents/papa-francesco_20140124_messaggio-comunicazioni-sociali.html) (8 grudnia 2014), 3: *AAS* 107 (2015), 69; *L’Osservatore Romano*, wyd. polskie, n. 12 (367)/2014, s. 6.
+50\. Franciszek, [*Orędzie na XLVIII Światowy Dzień Pokoju*](https://www.vatican.va/content/francesco/pl/messages/communications/documents/papa-francesco_20140124_messaggio-comunicazioni-sociali.html) (8 grudnia 2014), 3: *AAS* 107 (2015), 69; *L’Osservatore Romano*, wyd. polskie, n. 12 (367)/2014, s. 6.
 
-51. Tenże, *Incontro con gli agenti di Polizia Penitenziaria, i detenuti e i volontari* (Verona, 18 maggio 2024): *AAS* 116 (2024), 766.
+51\. Tenże, *Incontro con gli agenti di Polizia Penitenziaria, i detenuti e i volontari* (Verona, 18 maggio 2024): *AAS* 116 (2024), 766.
 
-52. Honoriusz III, Bulla *Solet annuere* – *Regula bullata* (29 listopada 1223), rozdz. VI: *SCh* 285, Paris 1981, 192; w: *Źródła Franciszkańskie*, Kraków 2005, s. 131–132.
+52\. Honoriusz III, Bulla *Solet annuere* – *Regula bullata* (29 listopada 1223), rozdz. VI: *SCh* 285, Paris 1981, 192; w: *Źródła Franciszkańskie*, Kraków 2005, s. 131–132.
 
-53. Por. Grzegorz IX, Bulla *Sicut manifestum est* (17 września 1228), 7: *SCh* 325, Paris 1985, 200; w: *Źródła Franciszkańskie*, Kraków 2005, s. 2303: „A więc tak jak prosiłyście, umacniamy naszą łaską apostolską wasze postanowienie zachowywania najwyższego ubóstwa i niniejszym pismem pozwalamy, abyście nigdy nie były zmuszone przez kogokolwiek do przyjmowania na własność posiadłości”.
+53\. Por. Grzegorz IX, Bulla *Sicut manifestum est* (17 września 1228), 7: *SCh* 325, Paris 1985, 200; w: *Źródła Franciszkańskie*, Kraków 2005, s. 2303: „A więc tak jak prosiłyście, umacniamy naszą łaską apostolską wasze postanowienie zachowywania najwyższego ubóstwa i niniejszym pismem pozwalamy, abyście nigdy nie były zmuszone przez kogokolwiek do przyjmowania na własność posiadłości”.
 
-54. Por. S.C. Tugwell (ed.), *Early Dominicans. Selected Writings*, Mahwah 1982, 16–19.
+54\. Por. S.C. Tugwell (ed.), *Early Dominicans. Selected Writings*, Mahwah 1982, 16–19.
 
-55. Bł. Tomasz z Celano, *Życiorys drugi Świętego Franciszka z Asyżu*, IV, 8, w: *Źródła Franciszkańskie*, Kraków 2005, s. 565.
+55\. Bł. Tomasz z Celano, *Życiorys drugi Świętego Franciszka z Asyżu*, IV, 8, w: *Źródła Franciszkańskie*, Kraków 2005, s. 565.
 
-56. Franciszek, *Discorso dopo la visita alla tomba di don Lorenzo Milani* (Barbiana, 20 giugno 2017), 2: *AAS* 109 (2017), 745.
+56\. Franciszek, *Discorso dopo la visita alla tomba di don Lorenzo Milani* (Barbiana, 20 giugno 2017), 2: *AAS* 109 (2017), 745.
 
-57. Św. Jan Paweł II, *Discorso ai partecipanti al Capitolo Generale dei Chierici Regolari Poveri della Madre di Dio delle Scuole Pie (Scolopi)* (5 luglio 1997), 2: *L’Osservatore Romano*, 6 luglio 1997, 5.
+57\. Św. Jan Paweł II, *Discorso ai partecipanti al Capitolo Generale dei Chierici Regolari Poveri della Madre di Dio delle Scuole Pie (Scolopi)* (5 luglio 1997), 2: *L’Osservatore Romano*, 6 luglio 1997, 5.
 
-58. *Tamże*.
+58\. *Tamże*.
 
-59. Tenże, *Homilia podczas Mszy św. kanonizacyjnej* (18 kwietnia 1999): *AAS* 91 (1999), 930; *L’Osservatore Romano*, wyd. polskie, n. 7 (214)/1999, s. 28.
+59\. Tenże, *Homilia podczas Mszy św. kanonizacyjnej* (18 kwietnia 1999): *AAS* 91 (1999), 930; *L’Osservatore Romano*, wyd. polskie, n. 7 (214)/1999, s. 28.
 
-60. Por. Tenże, List apost. *Iuvenum Patris* (31 stycznia 1988), 9: *AAS* 80 (1988), 976.
+60\. Por. Tenże, List apost. *Iuvenum Patris* (31 stycznia 1988), 9: *AAS* 80 (1988), 976.
 
-61. Por. Franciszek, *Discorso ai partecipanti al Capitolo Generale dell’Istituto della Carità (Rosminiani)* (1 ottobre 2018): *L’Osservatore Romano*, 1–2 ottobre 2018, 7.
+61\. Por. Franciszek, *Discorso ai partecipanti al Capitolo Generale dell’Istituto della Carità (Rosminiani)* (1 ottobre 2018): *L’Osservatore Romano*, 1–2 ottobre 2018, 7.
 
-62. Tenże, [*Homilia podczas uroczystości kanonizacyjnej* (9 października 2022):](https://www.vatican.va/content/francesco/pl/homilies/2022/documents/20221009-omelia-canonizzazione.html) *AAS* 114 (2022), 1338; *L’Osservatore Romano*, wyd. polskie, n. 10 (446)/2022, s. 25.
+62\. Tenże, [*Homilia podczas uroczystości kanonizacyjnej* (9 października 2022):](https://www.vatican.va/content/francesco/pl/homilies/2022/documents/20221009-omelia-canonizzazione.html) *AAS* 114 (2022), 1338; *L’Osservatore Romano*, wyd. polskie, n. 10 (446)/2022, s. 25.
 
-63. Św. Jan Paweł II, *Messaggio alla Congregazione delle Missionarie del Sacro Cuore* (31 maggio 2000), 3: *L’Osservatore Romano*, 16 luglio 2000, 5.
+63\. Św. Jan Paweł II, *Messaggio alla Congregazione delle Missionarie del Sacro Cuore* (31 maggio 2000), 3: *L’Osservatore Romano*, 16 luglio 2000, 5.
 
-64. Por. Pius XII, Breve ap. *Superiore Iam Aetate* (8 settembre 1950): *AAS* 43, 1951, 455–456.
+64\. Por. Pius XII, Breve ap. *Superiore Iam Aetate* (8 settembre 1950): *AAS* 43, 1951, 455–456.
 
-65. Franciszek, [*Orędzie na CV Światowy Dzień Migranta i Uchodźcy*](https://www.vatican.va/content/francesco/pl/messages/migration/documents/papa-francesco_20190527_world-migrants-day-2019.html) (27 maja 2019): *AAS* 111 (2019), 911; *L’Osservatore Romano*, wyd. polskie, n. 7–8 (414)/2019, s. 6.
+65\. Franciszek, [*Orędzie na CV Światowy Dzień Migranta i Uchodźcy*](https://www.vatican.va/content/francesco/pl/messages/migration/documents/papa-francesco_20190527_world-migrants-day-2019.html) (27 maja 2019): *AAS* 111 (2019), 911; *L’Osservatore Romano*, wyd. polskie, n. 7–8 (414)/2019, s. 6.
 
-66. Tenże, [*Orędzie na C Światowy Dzień Migranta i Uchodźcy*](https://www.vatican.va/content/francesco/pl/messages/migration/documents/papa-francesco_20130805_world-migrants-day.html) (5 sierpnia 2013): *AAS* 105 (2013), 930; *L’Osservatore Romano*, wyd. polskie, n. 11 (356)/2013, s. 6.
+66\. Tenże, [*Orędzie na C Światowy Dzień Migranta i Uchodźcy*](https://www.vatican.va/content/francesco/pl/messages/migration/documents/papa-francesco_20130805_world-migrants-day.html) (5 sierpnia 2013): *AAS* 105 (2013), 930; *L’Osservatore Romano*, wyd. polskie, n. 11 (356)/2013, s. 6.
 
-67. Św. Teresa z Kalkuty, *Discorso in occasione del conferimento del Premio* *Nobel per la Pace* (Oslo, 10 dicembre 1979): Tenże, *Aimer jusqu’à en avoir mal*, Lyon 2017, 19–20.
+67\. Św. Teresa z Kalkuty, *Discorso in occasione del conferimento del Premio* *Nobel per la Pace* (Oslo, 10 dicembre 1979): Tenże, *Aimer jusqu’à en avoir mal*, Lyon 2017, 19–20.
 
-68. Św. Jan Paweł II, *Discorso ai pellegrini convenuti a Roma per la beatificazione di Madre Teresa di Calcutta* (20 ottobre 2003), 3: *L’Osservatore Romano*, 20–21 ottobre 2003, 10.
+68\. Św. Jan Paweł II, *Discorso ai pellegrini convenuti a Roma per la beatificazione di Madre Teresa di Calcutta* (20 ottobre 2003), 3: *L’Osservatore Romano*, 20–21 ottobre 2003, 10.
 
-69. Franciszek, *Homilia podczas Mszy św. kanonizacyjnej* (13 października 2019): *AAS* 111 (2019), 1712; *L’Osservatore Romano*, wyd. polskie, n. 11 (417)/2019, s. 19.
+69\. Franciszek, *Homilia podczas Mszy św. kanonizacyjnej* (13 października 2019): *AAS* 111 (2019), 1712; *L’Osservatore Romano*, wyd. polskie, n. 11 (417)/2019, s. 19.
 
-70. Św. Jan Paweł II, List apost. [*Novo millennio ineunte*](https://www.vatican.va/content/john-paul-ii/pl/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html) (6 stycznia 2001), 49: *AAS* 93 (2001), 302.
+70\. Św. Jan Paweł II, List apost. [*Novo millennio ineunte*](https://www.vatican.va/content/john-paul-ii/pl/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html) (6 stycznia 2001), 49: *AAS* 93 (2001), 302.
 
-71. Franciszek, Adhort. apost. [*Christus vivit*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html) (25 marca 2019), 231: *AAS* 111 (2019), 458.
+71\. Franciszek, Adhort. apost. [*Christus vivit*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html) (25 marca 2019), 231: *AAS* 111 (2019), 458.
 
-72. Tenże, *Przemówienie do uczestników światowego spotkania ruchów ludowych* (28 października 2014): *AAS* 106 (2014), 851–852; *L’Osservatore Romano*, wyd. polskie, n. 11 (366)/2014, s. 44.
+72\. Tenże, *Przemówienie do uczestników światowego spotkania ruchów ludowych* (28 października 2014): *AAS* 106 (2014), 851–852; *L’Osservatore Romano*, wyd. polskie, n. 11 (366)/2014, s. 44.
 
-73. *Tamże*, s. 48: *AAS* 106 (2014), 859.
+73\. *Tamże*, s. 48: *AAS* 106 (2014), 859.
 
-74. Tenże, *Discorso ai partecipanti all’Incontro mondiale dei movimenti popolari* (5 novembre 2016): *L’Osservatore Romano*, 7–8 novembre 2016, 5.
+74\. Tenże, *Discorso ai partecipanti all’Incontro mondiale dei movimenti popolari* (5 novembre 2016): *L’Osservatore Romano*, 7–8 novembre 2016, 5.
 
-75. *Tamże*.
+75\. *Tamże*.
 
-76. Św. Jan XXIII, *Radiomessaggio a tutti i fedeli del mondo ad un mese dall’apertura del Concilio Ecumenico Vaticano II* (11 settembre 1962): *AAS* 54 (1962), 682.
+76\. Św. Jan XXIII, *Radiomessaggio a tutti i fedeli del mondo ad un mese dall’apertura del Concilio Ecumenico Vaticano II* (11 settembre 1962): *AAS* 54 (1962), 682.
 
-77. G. Lercaro, *Intervento nella XXXV Congregazione Generale del Concilio Ecumenico Vaticano II* (6 dicembre 1962), 2: *AS* I/IV, 327–328.
+77\. G. Lercaro, *Intervento nella XXXV Congregazione Generale del Concilio Ecumenico Vaticano II* (6 dicembre 1962), 2: *AS* I/IV, 327–328.
 
-78. *Tamże*, 4: *AS* I/IV, 329.
+78\. *Tamże*, 4: *AS* I/IV, 329.
 
-79. Istituto per le Scienze Religiose (ed.), *Per la forza dello Spirito. Discorsi conciliari del Card. Giacomo Lercaro*, Bologna 1984, 115.
+79\. Istituto per le Scienze Religiose (ed.), *Per la forza dello Spirito. Discorsi conciliari del Card. Giacomo Lercaro*, Bologna 1984, 115.
 
-80. Św. Paweł VI, *Allocuzione nella solenne inaugurazione della II Sessione del Concilio Ecumenico Vaticano* (29 settembre 1963): *AAS* 55 (1963), 857.
+80\. Św. Paweł VI, *Allocuzione nella solenne inaugurazione della II Sessione del Concilio Ecumenico Vaticano* (29 settembre 1963): *AAS* 55 (1963), 857.
 
-81. Tenże, Katecheza (11 listopada 1964) *: Insegnamenti di Paolo VI*, II (1964), 984.
+81\. Tenże, Katecheza (11 listopada 1964) *: Insegnamenti di Paolo VI*, II (1964), 984.
 
-82. Sobór Watykański II, Konst, duszp. *Gaudium et spes*, 69.71.
+82\. Sobór Watykański II, Konst, duszp. *Gaudium et spes*, 69.71.
 
-83. Św. Paweł VI *,* Enc. *Populorum progressio* (26 marca 1967), 23: *AAS* 59 (1967), 269.
+83\. Św. Paweł VI *,* Enc. *Populorum progressio* (26 marca 1967), 23: *AAS* 59 (1967), 269.
 
-84. Por. *tamże*, 4: *AAS* 59 (1967), 259.
+84\. Por. *tamże*, 4: *AAS* 59 (1967), 259.
 
-85. Św. Jan Paweł II, Enc. [*Sollicitudo rei socialis*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html) (30 grudnia 1987), 42: *AAS* 80 (1988), 572.
+85\. Św. Jan Paweł II, Enc. [*Sollicitudo rei socialis*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html) (30 grudnia 1987), 42: *AAS* 80 (1988), 572.
 
-86. Por. *tamże*, *AAS* 80 (1988), 573.
+86\. Por. *tamże*, *AAS* 80 (1988), 573.
 
-87. Tenże, Enc. [*Laborem exercens*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html) (14 września 1981), 3: *AAS* 73 (1981), 584.
+87\. Tenże, Enc. [*Laborem exercens*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html) (14 września 1981), 3: *AAS* 73 (1981), 584.
 
-88. Benedykt XVI, Enc. [*Caritas in veritate*](https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html) (29 czerwca 2009), 7: *AAS* 101 (2009), 645.
+88\. Benedykt XVI, Enc. [*Caritas in veritate*](https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html) (29 czerwca 2009), 7: *AAS* 101 (2009), 645.
 
-89. *Tamże*, [27](https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html): *AAS* 101 (2009), 661.
+89\. *Tamże*, [27](https://www.vatican.va/content/benedict-xvi/pl/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html): *AAS* 101 (2009), 661.
 
-90. II Conferenza Generale dell’Episcopato Latinoamericano, *Documento di Medellín* (24 ottobre 1968), 14, n. 7: CELAM, *Medellín. Conclusiones,* Lima 2005, 131-132.
+90\. II Conferenza Generale dell’Episcopato Latinoamericano, *Documento di Medellín* (24 ottobre 1968), 14, n. 7: CELAM, *Medellín. Conclusiones,* Lima 2005, 131-132.
 
-91. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 202: *AAS* 105 (2013), 1105.
+91\. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 202: *AAS* 105 (2013), 1105.
 
-92. *Tamże*, [205](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1106.
+92\. *Tamże*, [205](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1106.
 
-93. *Tamże*, [190](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1099.
+93\. *Tamże*, [190](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1099.
 
-94. *Tamże*, [56](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1043.
+94\. *Tamże*, [56](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1043.
 
-95. Tenże, Enc. [*Dilexit nos*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24 października 2024), 183: *AAS* 116 (2024), 1427.
+95\. Tenże, Enc. [*Dilexit nos*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/20241024-enciclica-dilexit-nos.html) (24 października 2024), 183: *AAS* 116 (2024), 1427.
 
-96. Św. Jan Paweł II, Enc. [*Centesimus annus*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1 maja 1991), 41: *AAS* 83 (1991), 844–845.
+96\. Św. Jan Paweł II, Enc. [*Centesimus annus*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1 maja 1991), 41: *AAS* 83 (1991), 844–845.
 
-97. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 202: *AAS* 105 (2013), 1105.
+97\. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 202: *AAS* 105 (2013), 1105.
 
-98. *Tamże*.
+98\. *Tamże*.
 
-99. Tenże, Enc. [*Fratelli tutti*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3 października 2020), 22: *AAS* 112 (2020), 976.
+99\. Tenże, Enc. [*Fratelli tutti*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3 października 2020), 22: *AAS* 112 (2020), 976.
 
-100. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 209: *AAS* 105 (2013), 1107.
+100\. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 209: *AAS* 105 (2013), 1107.
 
-101. Tenże, Enc. [*Laudato si’*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24 maja 2015), 50: *AAS* 107 (2015), 866.
+101\. Tenże, Enc. [*Laudato si’*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24 maja 2015), 50: *AAS* 107 (2015), 866.
 
-102. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 210: *AAS* 105 (2013), 1107.
+102\. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 210: *AAS* 105 (2013), 1107.
 
-103. Tenże, Enc. [*Laudato si’*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24 maja 2015), 43: *AAS* 107 (2015), 863.
+103\. Tenże, Enc. [*Laudato si’*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) (24 maja 2015), 43: *AAS* 107 (2015), 863.
 
-104. *Tamże*, 48: *AAS* 107 (2015), 865.
+104\. *Tamże*, 48: *AAS* 107 (2015), 865.
 
-105. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 180: *AAS* 105 (2013), 1095.
+105\. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 180: *AAS* 105 (2013), 1095.
 
-106. Kongregacja Nauki Wiary, *Instrukcja o niektórych aspektach „Teologii wyzwolenia”* (6 sierpnia 1984), XI, 18: *AAS* 76 (1984), 907–908.
+106\. Kongregacja Nauki Wiary, *Instrukcja o niektórych aspektach „Teologii wyzwolenia”* (6 sierpnia 1984), XI, 18: *AAS* 76 (1984), 907–908.
 
-107. Aparecida. V Ogólna Konferencja Episkopatów Ameryki Łacińskiej i Karaibów, *Dokument końcowy* (29 czerwca 2007), n. 392, Gubin 2014, s. 192; Por. BENEDYKT XVI, *Przemówienie na sesji inauguracyjnej V Konferencji Ogólnej Episkopatu Ameryki Łacińskiej i Karaibów* (Aparecida, 13 maja 2007), 3: AAS 99 (2007), 450; *L’Osservatore Romano*, wyd. polskie, n. 9 (296)/2007, s. 38.
+107\. Aparecida. V Ogólna Konferencja Episkopatów Ameryki Łacińskiej i Karaibów, *Dokument końcowy* (29 czerwca 2007), n. 392, Gubin 2014, s. 192; Por. BENEDYKT XVI, *Przemówienie na sesji inauguracyjnej V Konferencji Ogólnej Episkopatu Ameryki Łacińskiej i Karaibów* (Aparecida, 13 maja 2007), 3: AAS 99 (2007), 450; *L’Osservatore Romano*, wyd. polskie, n. 9 (296)/2007, s. 38.
 
-108. Por. Aparecida. V Ogólna Konferencja Episkopatów Ameryki Łacińskiej i Karaibów, *Dokument końcowy* (29 czerwca 2007), n. 43-87, Gubin 2014, s. 37–53.
+108\. Por. Aparecida. V Ogólna Konferencja Episkopatów Ameryki Łacińskiej i Karaibów, *Dokument końcowy* (29 czerwca 2007), n. 43-87, Gubin 2014, s. 37–53.
 
-109. Tenże *, Przesłanie V Konferencji Ogólnej do narodów Ameryki Łacińskiej i Karaibów* (Aparecida, 29 maja 2007), n. 4, Gubin 2014, s. 288.
+109\. Tenże *, Przesłanie V Konferencji Ogólnej do narodów Ameryki Łacińskiej i Karaibów* (Aparecida, 29 maja 2007), n. 4, Gubin 2014, s. 288.
 
-110. Tenże, *Dokument końcowy* (29 czerwca 2007), n. 398, Gubin 2014, s. 194–195.
+110\. Tenże, *Dokument końcowy* (29 czerwca 2007), n. 398, Gubin 2014, s. 194–195.
 
-111. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 199: *AAS* 105 (2013), 1103–1104.
+111\. Franciszek, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 199: *AAS* 105 (2013), 1103–1104.
 
-112. *Tamże*, [198](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1103.
+112\. *Tamże*, [198](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1103.
 
-113. [*Tamże*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html).
+113\. [*Tamże*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html).
 
-114. Aparecida. V Ogólna Konferencja Episkopatów Ameryki Łacińskiej i Karaibów, *Dokument końcowy* (29 czerwca 2007), n. 397, Gubin 2014, s. 194.
+114\. Aparecida. V Ogólna Konferencja Episkopatów Ameryki Łacińskiej i Karaibów, *Dokument końcowy* (29 czerwca 2007), n. 397, Gubin 2014, s. 194.
 
-115. Franciszek, Enc. [*Fratelli tutti*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3 października 2020) *,* 64: *AAS* 112 (2020), 992.
+115\. Franciszek, Enc. [*Fratelli tutti*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3 października 2020) *,* 64: *AAS* 112 (2020), 992.
 
-116. Tenże, Adhort. apost. [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19 marca 2018), 98: *AAS* 110 (2018), 1137.
+116\. Tenże, Adhort. apost. [*Gaudete et exsultate*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html) (19 marca 2018), 98: *AAS* 110 (2018), 1137.
 
-117. Tenże, Enc. [*Fratelli tutti*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3 października 2020), 65-66: *AAS* 112 (2020), 992.
+117\. Tenże, Enc. [*Fratelli tutti*](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20201003_enciclica-fratelli-tutti.html) (3 października 2020), 65-66: *AAS* 112 (2020), 992.
 
-118. Św. Grzegorz Wielki, *Homilie na Ewangelie*, 40, 10, tłum. o. W. Szołdrski, oprac. ks. M. Maliński, Warszawa 1969, s. 327; *SCh* 522, Paris 2008, 552–554.
+118\. Św. Grzegorz Wielki, *Homilie na Ewangelie*, 40, 10, tłum. o. W. Szołdrski, oprac. ks. M. Maliński, Warszawa 1969, s. 327; *SCh* 522, Paris 2008, 552–554.
 
-119. *Tamże*, 6, s. 324: *SCh* 522, 546.
+119\. *Tamże*, 6, s. 324: *SCh* 522, 546.
 
-120. *Tamże*, 3, s. 321, cyt. za: *Karmię was tym, czym sam żyję. Ojcowie Kościoła komentują niedzielne czytania biblijne. Rok C*, oprac. ks. M. Starowieyski, Kraków 2015, s. 504: *SCh* 522, 536.
+120\. *Tamże*, 3, s. 321, cyt. za: *Karmię was tym, czym sam żyję. Ojcowie Kościoła komentują niedzielne czytania biblijne. Rok C*, oprac. ks. M. Starowieyski, Kraków 2015, s. 504: *SCh* 522, 536.
 
-121. Św. Jan Paweł II, Enc. [*Centesimus annus*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1 maja 1991), 57: *AAS* 83 (1991), 862-863.
+121\. Św. Jan Paweł II, Enc. [*Centesimus annus*](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html) (1 maja 1991), 57: *AAS* 83 (1991), 862-863.
 
-122. Franciszek, *Przemówienie podczas czuwania z okazji dnia ruchów, nowych wspólnot i stowarzyszeń kościelnych* (18 maja 2013): *L’Osservatore Romano*, wyd. polskie, n. 7 (353)/2013, s. 19.
+122\. Franciszek, *Przemówienie podczas czuwania z okazji dnia ruchów, nowych wspólnot i stowarzyszeń kościelnych* (18 maja 2013): *L’Osservatore Romano*, wyd. polskie, n. 7 (353)/2013, s. 19.
 
-123. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 186: *AAS* 105 (2013), 1098.
+123\. Tenże, Adhort. apost. [*Evangelii gaudium*](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) (24 listopada 2013), 186: *AAS* 105 (2013), 1098.
 
-124. *Tamże*, [188](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1099.
+124\. *Tamże*, [188](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1099.
 
-125. Por. *tamże*, [182-183:](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) *AAS* 105 (2013), 1096–1097.
+125\. Por. *tamże*, [182-183:](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html) *AAS* 105 (2013), 1096–1097.
 
-126. *Tamże*, [207](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1107.
+126\. *Tamże*, [207](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1107.
 
-127. *Tamże*, [200](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1104.
+127\. *Tamże*, [200](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): *AAS* 105 (2013), 1104.
 
-128. Tenże, *Discorso in occasione dell’incontro con il mondo del lavoro presso lo stabilimento ILVA di Genova* (27 maggio 2017): *AAS* 109 (2017), 613
+128\. Tenże, *Discorso in occasione dell’incontro con il mondo del lavoro presso lo stabilimento ILVA di Genova* (27 maggio 2017): *AAS* 109 (2017), 613
 
-129. Pseudo-Chryzostom, *Homilia de jejunio et eleemosyna*: *PG* 48, 1060.
+129\. Pseudo-Chryzostom, *Homilia de jejunio et eleemosyna*: *PG* 48, 1060.
 
-130. Św. Grzegorz z Nazjanzu, *Kazanie 14, O miłości ubogich,* 38. 40: *PG* 35, Paris 1886, 910; w: *Liturgia Godzin*, tom II, Poznań 1984, s. 213–214.
+130\. Św. Grzegorz z Nazjanzu, *Kazanie 14, O miłości ubogich,* 38. 40: *PG* 35, Paris 1886, 910; w: *Liturgia Godzin*, tom II, Poznań 1984, s. 213–214.

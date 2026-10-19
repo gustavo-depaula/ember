@@ -1158,6 +1158,6 @@ Sem que se justifique, por nada, em contrário. Esta Instrução, preparada por 
 
 [^295]: Cf. Missale Romanum, Institutio Generalis, n. 24.
 
-128. Cf. Missale Romanum, Institutio Generalis, n. 323.
+128\. Cf. Missale Romanum, Institutio Generalis, n. 323.
 
-137. Cf. Conc. Ecumênico Vaticano II, Const. sobre a S. Liturgia, *Sacrosanctum Concilium*, n. 51.
+137\. Cf. Conc. Ecumênico Vaticano II, Const. sobre a S. Liturgia, *Sacrosanctum Concilium*, n. 51.

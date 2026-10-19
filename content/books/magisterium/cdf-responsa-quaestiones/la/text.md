@@ -6,7 +6,7 @@ CONGREGATIO PRO DOCTRINA FIDEI
 
 Introductio
 
-1. Ad catholicam profundius intelligendam ecclesiologiam nemo ignorat quantum Oecumenica Vaticana Synodus II contulerit, sive per dogmaticam Constitutionem *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html),* sive per Decreta de Oecumenismo (*Unitatis redintegratio*) atque Orientalibus de Catholicis Ecclesiis (*Orientalium Ecclesiarum*). Ad hoc Romani autem Pontifices peropportune rem aestimaverunt penitus indagari, praesertim quod ad praxim recte dirigendam spectat: exinde Litterae Encyclicae *[Ecclesiam suam](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_19640806_ecclesiam_lt.html)* Pauli PP. VI (1964), necnon *[Ut unum sint](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint_lt.html)* (1995) Ioannis Pauli PP. II.
+1\. Ad catholicam profundius intelligendam ecclesiologiam nemo ignorat quantum Oecumenica Vaticana Synodus II contulerit, sive per dogmaticam Constitutionem *[Lumen gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_lt.html),* sive per Decreta de Oecumenismo (*Unitatis redintegratio*) atque Orientalibus de Catholicis Ecclesiis (*Orientalium Ecclesiarum*). Ad hoc Romani autem Pontifices peropportune rem aestimaverunt penitus indagari, praesertim quod ad praxim recte dirigendam spectat: exinde Litterae Encyclicae *[Ecclesiam suam](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_19640806_ecclesiam_lt.html)* Pauli PP. VI (1964), necnon *[Ut unum sint](/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint_lt.html)* (1995) Ioannis Pauli PP. II.
 
 Multiplices ecclesiologiae facies ad profundius investigandas, minime consectaneum theologorum defuit officium, quod locum vero praebuit ut tempestive locupletissima studia florescerent. Sed si thema certo certius ferax evasit, nihilominus necessariis curis explanationibusque indiguit: quod evenit per Declarationem *[Mysterium Ecclesiae](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19730705_mysterium-ecclesiae_lt.html)* (1973), per Epistulam Ecclesiae Catholicae Episcopis *[Communionis notio](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_28051992_communionis-notio_lt.html)* (1992), per Declarationem *[Dominus Iesus](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000806_dominus-iesus_lt.html)* (2000): documenta quae omnia a Congregatione pro Doctrina Fidei promulgata sunt.
 
@@ -123,4 +123,4 @@ Hae duae sententiae inveniuntur in Decreto *Unitatis redintegratio* 2.5 et 3.1.
 
 \[[19](#_ftnref19)\] Cf. CONCILIUM OECUMENICUM VATICANUM II, Decr. *Unitatis redintegratio*, 22.3.
 
-20. \[\] Cf. CONGREGATIO PRO DOCTRINA FIDEI, Decl. *Dominus Iesus*, 17.2: AAS 92 \[2000-II\] 758.
+20\. \[\] Cf. CONGREGATIO PRO DOCTRINA FIDEI, Decl. *Dominus Iesus*, 17.2: AAS 92 \[2000-II\] 758.

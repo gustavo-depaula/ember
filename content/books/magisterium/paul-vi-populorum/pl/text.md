@@ -109,7 +109,7 @@ WŁASNOŚĆ
 
 23\. Kto by miał majętność tego świata, a widziałby brata swego w potrzebie i zamknął przed nim serce swoje - jakże może w nim przebywać miłość Boża?(21).   
 Wiadomo wszystkim, jak dobitnie przedstawiali Ojcowie Kościoła obowiązki ludzi bogatych względem będących w potrzebie: Nie z twojego dajesz ubogiemu - mówi święty Ambroży - ale oddajesz mu to, co jest jego. Sam używasz tego, co jest wspólne, dane na użytek wszystkich. Ziemia należy do wszystkich, nie do bogatych (22). Słowa te stwierdzają, że własność prywatna nie daje nikomu takiego prawa, które byłoby najwyższe i nie podlegałoby żadnym ograniczeniom. Nikomu nie wolno dóbr zbywających zatrzymywać jedynie dla prywatnej korzyści, podczas gdy innym brakuje tego, co konieczne do życia. Jednym słowem według tradycyjnej nauki Ojców kościoła i znakomitych teologów nigdy nie można używać prawa własności ze szkodą dla dobra wspólnego. Jeżeliby zaś prawa nabyte i zasadnicze potrzeby społeczności znalazły się w konflikcie ze sobą, władza publiczna ma obowiązek starać się te zagadnienia rozwiązać przy współpracy obywateli i grup społecznych( 23).   
-24. Wspólne dobro wymaga więc niekiedy wywłaszczenia gruntów, jeieli zdarzy się, że jakieś posiadłości ziemskie stanowią przeszkodę dla wspólnego dobrobytu, jak na przykład gdy są zbyt rozległe, gdy mało albo wcale nie są uprawiane, gdy powodują nędzę ludności, gdy przynoszą poważną szkodę krajowi. Oświadczając to bez obsłonek (24) Sobór Watykański II uczy niemniej wyraźnie, że dochodów stąd zebranych nie należy zostawiać dowolnemu uznaniu ludzi, oraz że należy zabronić spekulacji służących tylko własnym korzyściom. Dlatego żadną miarą nie jest dozwolone, aby obywatele, którzy posiadają wielkie dochody pochodzące z zasobów i pracy swego narodu, umieszczali znaczną ich część za granicą, biorąc pod uwagę tylko własną korzyść i nie troszcząc się zupełnie o swoją ojczyznę, której w ten sposób wyrządzają oczywistą szkodę  (25).
+24\. Wspólne dobro wymaga więc niekiedy wywłaszczenia gruntów, jeieli zdarzy się, że jakieś posiadłości ziemskie stanowią przeszkodę dla wspólnego dobrobytu, jak na przykład gdy są zbyt rozległe, gdy mało albo wcale nie są uprawiane, gdy powodują nędzę ludności, gdy przynoszą poważną szkodę krajowi. Oświadczając to bez obsłonek (24) Sobór Watykański II uczy niemniej wyraźnie, że dochodów stąd zebranych nie należy zostawiać dowolnemu uznaniu ludzi, oraz że należy zabronić spekulacji służących tylko własnym korzyściom. Dlatego żadną miarą nie jest dozwolone, aby obywatele, którzy posiadają wielkie dochody pochodzące z zasobów i pracy swego narodu, umieszczali znaczną ich część za granicą, biorąc pod uwagę tylko własną korzyść i nie troszcząc się zupełnie o swoją ojczyznę, której w ten sposób wyrządzają oczywistą szkodę  (25).
 
 UPRZEMYSŁOWIENIE
 
@@ -384,25 +384,25 @@ AAS 59 ( 1967), s. 257-299. Tłumaczenie polskie wydane za zezwoleniem władz ko
 PRZYPISY
 
 1\. Zob. Acta Leonis XIII, XI (1892), s. 97-148.   
-2. Zob. AAS 23(1931), s. 177-228.   
-3. Zob. np. Przemówienie radiowe z 1 czerwca 1941 w 50 rocznicę Rerum novarum, AAS 33(1941)s. 195-205; Przemówienie radiowe na Boże Narodzenie 1942, AAS 35(1943),s. 9-24; Przemówienie do katolickiego stowarzyszenia robotników włoskich z okazji rocznicy Rerum novarum, 14 maja 1953, AAS 45(1953), s. 402-408.   
-4. Zob. AAS 53(1961), s. 401-464.   
-5. Zob. AAS 55(1963), s. 257-304.   
-6. Zob. Encyklika Mater et Magistra, AAS 53(1961), s.440.   
-7. Zob. Konstytucja pastoralna Gaudium et spes, n. 63, AAS 58(1966), s.1084.   
-8. Motu proprio Catholicam Christi Ecclesiam, AAS 59(1967), s.27.   
-9. Zob. Encyklika Rerum novarum, Acta Leonis XIII, XI, (1892), s. 98.   
-10. Konstytucja pastoralna Gaudium et spes, n. 63,  AAA  58(1966), s. 1085.   
-11. LK 7,22   
-12. Konstytucja pastoralna Gaudium et spes, n. 3, AAS 58(1966), s. 1026.   
-13. Encyklika Immortale Dei, Acta Leonis XIII, V, (1885), s. 127.   
-14. Konstytucja pastoralna Gaudium et spes, n. 4, AAS 58(1966), s. 1027.   
-15. Zob. L.J. Lebert OP, Dynamisme concrete du developpement, Paris 1961, s. 28.   
-16. Tes 3,10.   
-17. Zob. np. J. Maritain, Les conditions spirituelles du progres et de la paix, w: Rencontre des cultures a lUNESCO sous le signe du Concile oecumenique Vatican II, Paris 1966, s. 66.   
-18. Zob. Mt. 5,3.   
-19. Rdz 1,28.   
-20. Konstytucja pastoralna Gaudium et spes, n. 69, AAS 58(1966), s. 1090.
+2\. Zob. AAS 23(1931), s. 177-228.   
+3\. Zob. np. Przemówienie radiowe z 1 czerwca 1941 w 50 rocznicę Rerum novarum, AAS 33(1941)s. 195-205; Przemówienie radiowe na Boże Narodzenie 1942, AAS 35(1943),s. 9-24; Przemówienie do katolickiego stowarzyszenia robotników włoskich z okazji rocznicy Rerum novarum, 14 maja 1953, AAS 45(1953), s. 402-408.   
+4\. Zob. AAS 53(1961), s. 401-464.   
+5\. Zob. AAS 55(1963), s. 257-304.   
+6\. Zob. Encyklika Mater et Magistra, AAS 53(1961), s.440.   
+7\. Zob. Konstytucja pastoralna Gaudium et spes, n. 63, AAS 58(1966), s.1084.   
+8\. Motu proprio Catholicam Christi Ecclesiam, AAS 59(1967), s.27.   
+9\. Zob. Encyklika Rerum novarum, Acta Leonis XIII, XI, (1892), s. 98.   
+10\. Konstytucja pastoralna Gaudium et spes, n. 63,  AAA  58(1966), s. 1085.   
+11\. LK 7,22   
+12\. Konstytucja pastoralna Gaudium et spes, n. 3, AAS 58(1966), s. 1026.   
+13\. Encyklika Immortale Dei, Acta Leonis XIII, V, (1885), s. 127.   
+14\. Konstytucja pastoralna Gaudium et spes, n. 4, AAS 58(1966), s. 1027.   
+15\. Zob. L.J. Lebert OP, Dynamisme concrete du developpement, Paris 1961, s. 28.   
+16\. Tes 3,10.   
+17\. Zob. np. J. Maritain, Les conditions spirituelles du progres et de la paix, w: Rencontre des cultures a lUNESCO sous le signe du Concile oecumenique Vatican II, Paris 1966, s. 66.   
+18\. Zob. Mt. 5,3.   
+19\. Rdz 1,28.   
+20\. Konstytucja pastoralna Gaudium et spes, n. 69, AAS 58(1966), s. 1090.
 
 PP - spis treści  
 dokumenty społeczne - spis treści  

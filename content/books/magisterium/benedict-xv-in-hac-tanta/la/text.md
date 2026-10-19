@@ -137,4 +137,4 @@ III\. Quicumque Germaniae Ecclesias ubi saeculare festum celebrabitur, eo ipso d
 
 [^23]: \[\] Ep. L (al. XLIX).
 
-22. \[\] S. CLEM. ROM., *Ep. 1 ad Corinthios*, LXIII.
+22\. \[\] S. CLEM. ROM., *Ep. 1 ad Corinthios*, LXIII.

@@ -352,4 +352,4 @@ Sea auspicio de estas gracias celestiales y prueba de Nuestra benevolencia la Be
 
 [^29]: Cf. Epist. Emmi. Card. Patri Gasparri, a publicis negotiis, ad Italiae Episcopos datam die 15 mensis Aprilis anno 1923: en *Enchiridion clericorum*, Typ. Pol. Vat., 1937, p. 613.
 
-9. *De imit. Christi,* IV, c. 5, v. 13, 14.
+9\. *De imit. Christi,* IV, c. 5, v. 13, 14.

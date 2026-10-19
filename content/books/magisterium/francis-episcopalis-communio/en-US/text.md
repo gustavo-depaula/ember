@@ -359,84 +359,84 @@ I invite everyone to receive the provisions of this Apostolic Constitution readi
 
 ------------------------------------------------------------------------
 
-1. Cf. Second Vatican Ecumenical Council, Decree on the Pastoral Office of Bishops *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)* (28 October 1965), 5.
+1\. Cf. Second Vatican Ecumenical Council, Decree on the Pastoral Office of Bishops *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)* (28 October 1965), 5.
 
-2. *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html).*; cf. Saint [John Paul II](http://w2.vatican.va/content/john-paul-ii/en.html), Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)* (16 October 2003), 58.
+2\. *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html).*; cf. Saint [John Paul II](http://w2.vatican.va/content/john-paul-ii/en.html), Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)* (16 October 2003), 58.
 
-3. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#The_joy_of_the_gospel)* (24 November 2013), 1.
+3\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#The_joy_of_the_gospel)* (24 November 2013), 1.
 
-4. *[Ibid](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#II.%E2%80%82Pastoral_activity_and_conversion)*., 25.
+4\. *[Ibid](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#II.%E2%80%82Pastoral_activity_and_conversion)*., 25.
 
-5. *[Ibid](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#II.%E2%80%82Pastoral_activity_and_conversion)*., 27.
+5\. *[Ibid](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#II.%E2%80%82Pastoral_activity_and_conversion)*., 27.
 
-6. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *[Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html)* (7 October 1965), 29; cf. *ID*., Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)* (21 November 1964), 23.
+6\. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church *[Ad Gentes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_en.html)* (7 October 1965), 29; cf. *ID*., Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)* (21 November 1964), 23.
 
-7. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 18.
+7\. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 18.
 
-8. Cf. *[ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*., 21-22; *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 4.
+8\. Cf. *[ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*., 21-22; *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 4.
 
-9. Cf. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 23; *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 3.
+9\. Cf. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 23; *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 3.
 
-10. Cf. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 22; *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 4; *Codex Iuris Canonici* (25 January 1983), can. 337, §§1-2; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)* (18 October 1990), can. 50, §§1-2.
+10\. Cf. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 22; *[Christus Dominus](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 4; *Codex Iuris Canonici* (25 January 1983), can. 337, §§1-2; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)* (18 October 1990), can. 50, §§1-2.
 
-11. Cf. *Codex Iuris Canonici*, can. 337, §3; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 50, §3.
+11\. Cf. *Codex Iuris Canonici*, can. 337, §3; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 50, §3.
 
-12. No. I.
+12\. No. I.
 
-13. Cf. *ibid*., II.
+13\. Cf. *ibid*., II.
 
-14. *Ibid*., Preamble.
+14\. *Ibid*., Preamble.
 
-15. Cf. *Codex Iuris Canonici*, can. 342-348; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 46.
+15\. Cf. *Codex Iuris Canonici*, can. 342-348; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 46.
 
-16. [Homily at the Mass for the Closing of the VI Ordinary General Assembly of the Synod of Bishops](http://w2.vatican.va/content/john-paul-ii/la/homilies/1983/documents/hf_jp-ii_hom_19831029_chiusura-sinodo.html) (29 October 1983).
+16\. [Homily at the Mass for the Closing of the VI Ordinary General Assembly of the Synod of Bishops](http://w2.vatican.va/content/john-paul-ii/la/homilies/1983/documents/hf_jp-ii_hom_19831029_chiusura-sinodo.html) (29 October 1983).
 
-17. [Address to Members of the XIII Ordinary Council of the General Secretariat of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2013/june/documents/papa-francesco_20130613_xiii-consiglio-sinodo-vescovi.html) (13 June 2013).
+17\. [Address to Members of the XIII Ordinary Council of the General Secretariat of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2013/june/documents/papa-francesco_20130613_xiii-consiglio-sinodo-vescovi.html) (13 June 2013).
 
-18. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 25.
+18\. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 25.
 
-19. Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 28.
+19\. Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 28.
 
-20. Apostolic Exhortation [*Evangelii Gaudium*, 119](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#We_are_all_missionary_disciples).
+20\. Apostolic Exhortation [*Evangelii Gaudium*, 119](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#We_are_all_missionary_disciples).
 
-21. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 12.
+21\. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 12.
 
-22. [Address to the Participants in the Symposium for New Bishops promoted by the Congregation for Bishops and by the Congregation for Eastern Churches](https://w2.vatican.va/content/francesco/en/speeches/2013/september/documents/papa-francesco_20130919_convegno-nuovi-vescovi.html) (19 September 2013). Cf. *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Un_improrogabile_rinnovamento_ecclesiale)*, 31.
+22\. [Address to the Participants in the Symposium for New Bishops promoted by the Congregation for Bishops and by the Congregation for Eastern Churches](https://w2.vatican.va/content/francesco/en/speeches/2013/september/documents/papa-francesco_20130919_convegno-nuovi-vescovi.html) (19 September 2013). Cf. *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/it/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Un_improrogabile_rinnovamento_ecclesiale)*, 31.
 
-23. [Address at the Vigil of Prayer in preparation for the Synod on the Family](https://w2.vatican.va/content/francesco/en/speeches/2014/october/documents/papa-francesco_20141004_incontro-per-la-famiglia.html) (4 October 2014).
+23\. [Address at the Vigil of Prayer in preparation for the Synod on the Family](https://w2.vatican.va/content/francesco/en/speeches/2014/october/documents/papa-francesco_20141004_incontro-per-la-famiglia.html) (4 October 2014).
 
-24. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html) (17 October 2015).
+24\. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html) (17 October 2015).
 
-25. *[Ibid](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html)*.
+25\. *[Ibid](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html)*.
 
-26. Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 58.
+26\. Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 58.
 
-27. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html). Cf. [*Evangelii Gaudium*, 31](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred).
+27\. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html). Cf. [*Evangelii Gaudium*, 31](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred).
 
-28. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html).
+28\. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html).
 
-29. Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 58.
+29\. Post-Synodal Apostolic Exhortation *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 58.
 
-30. [John Paul II](http://w2.vatican.va/content/john-paul-ii/en.html), [Address to the Council of the General Secretariat of the Synod of Bishops](https://w2.vatican.va/content/john-paul-ii/en/speeches/1983/april/documents/hf_jp-ii_spe_19830430_sinodo-vescovi.html) (30 April 1983).
+30\. [John Paul II](http://w2.vatican.va/content/john-paul-ii/en.html), [Address to the Council of the General Secretariat of the Synod of Bishops](https://w2.vatican.va/content/john-paul-ii/en/speeches/1983/april/documents/hf_jp-ii_spe_19830430_sinodo-vescovi.html) (30 April 1983).
 
-31. [Closing Address of the XIV Ordinary General Assembly of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151024_sinodo-conclusione-lavori.html) (24 October 2015).
+31\. [Closing Address of the XIV Ordinary General Assembly of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151024_sinodo-conclusione-lavori.html) (24 October 2015).
 
-32. [Paul VI](http://w2.vatican.va/content/paul-vi/en.html), [Address for the start of the sessions of the I Ordinary General Assembly of the Synod of Bishops](http://w2.vatican.va/content/paul-vi/la/speeches/1967/september/documents/hf_p-vi_spe_19670930_inizio-lavori-sinodo.html) (30 September 1967).
+32\. [Paul VI](http://w2.vatican.va/content/paul-vi/en.html), [Address for the start of the sessions of the I Ordinary General Assembly of the Synod of Bishops](http://w2.vatican.va/content/paul-vi/la/speeches/1967/september/documents/hf_p-vi_spe_19670930_inizio-lavori-sinodo.html) (30 September 1967).
 
-33. Cf. *Codex Iuris Canonici*, can. 339, §2; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 52, §2.
+33\. Cf. *Codex Iuris Canonici*, can. 339, §2; *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 52, §2.
 
-34. Cf. *Codex Iuris Canonici*, can. 346.
+34\. Cf. *Codex Iuris Canonici*, can. 346.
 
-35. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html).
+35\. [Address on the Fiftieth Anniversary of the Synod of Bishops](http://w2.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html).
 
-36. Cf. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 22.
+36\. Cf. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 22.
 
-37. *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
+37\. *[Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*.
 
-38. *Codex Iuris Canonici*, can. 333, §2; cf. *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 45, §2; *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 58.
+38\. *Codex Iuris Canonici*, can. 333, §2; cf. *[Codex Canonum Ecclesiarum Orientalium](http://w2.vatican.va/content/john-paul-ii/la/apost_constitutions/documents/hf_jp-ii_apc_19901018_codex-can-eccl-orient-1.html#TITULUS_III)*, can. 45, §2; *[Pastores Gregis](http://w2.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 58.
 
-39. [Letter to the General Secretary of the Synod of Bishops on the occasion of the elevation of the Undersecretary to the episcopal dignity](http://w2.vatican.va/content/francesco/en/letters/2014/documents/papa-francesco_20140401_cardinale-baldisseri.html) (1 April 2014).
+39\. [Letter to the General Secretary of the Synod of Bishops on the occasion of the elevation of the Undersecretary to the episcopal dignity](http://w2.vatican.va/content/francesco/en/letters/2014/documents/papa-francesco_20140401_cardinale-baldisseri.html) (1 April 2014).
 
-40. [*Evangelii Gaudium*, 32](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred).
+40\. [*Evangelii Gaudium*, 32](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred).
 
-41. Encyclical Letter *[Ut Unum Sint](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html)* (25 May 1995), 95.
+41\. Encyclical Letter *[Ut Unum Sint](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25051995_ut-unum-sint.html)* (25 May 1995), 95.

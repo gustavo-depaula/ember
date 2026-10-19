@@ -537,4 +537,4 @@ Este documento, que eu havia preparado para que fosse publicado a 15 de Maio pas
 
 [^91]: . *Ibid*.
 
-10. . *Gn*  1, 28.
+10\. . *Gn*  1, 28.

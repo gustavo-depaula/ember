@@ -331,4 +331,4 @@ Que san José obtenga para la Iglesia y para el mundo, así como para cada uno d
 
 [^50]: Sacr. Rituum Congr., Decr. *Quemadmodum Deus* (8 de diciembre de 1870): Pío IX, P.M. Acta, pars I, V p. 282.
 
-18. Exhort. Apost. *[Familiaris consortio](/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)* (22 de noviembre de 1981), 17; *AAS* 74 (1982),p. 100.
+18\. Exhort. Apost. *[Familiaris consortio](/content/john-paul-ii/es/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio.html)* (22 de noviembre de 1981), 17; *AAS* 74 (1982),p. 100.

@@ -235,4 +235,4 @@ Da notare ciò che scrive San Tommaso nell’opuscolo In *Symbolum Apostolorum E
 
 [^48]: (#fnref48)) Breve *Cum hoc sit* de Sancta Thoma Aquinate Patrono coelesti studiorum optimorum cooptando: *Leonis XIII Pont.* *Max. Atta,* II, Romae 1882, pp. 108-113
 
-21. (#fnref21)) Cfr. *Summa contra* *gentiles,* L. III, c. 48: *Ed. Leonina,* XIV, pp. 131-132
+21\. (#fnref21)) Cfr. *Summa contra* *gentiles,* L. III, c. 48: *Ed. Leonina,* XIV, pp. 131-132

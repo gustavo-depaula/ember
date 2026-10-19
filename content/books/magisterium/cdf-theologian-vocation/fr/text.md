@@ -288,4 +288,4 @@ Joseph Card. Ratzinger *Préfet*
 
 [^43]: Saint Jean de la Croix, *La montée au Carmel*, II, 22, 3.
 
-28. Cf. Paul VI, Exhort. apost. *Paterna cum benevolentia,* n. 4: *AAS* 67 (1975) 14-15.
+28\. Cf. Paul VI, Exhort. apost. *Paterna cum benevolentia,* n. 4: *AAS* 67 (1975) 14-15.

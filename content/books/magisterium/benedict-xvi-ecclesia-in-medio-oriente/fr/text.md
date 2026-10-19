@@ -430,8 +430,8 @@ ou contraires pour diverses raisons, avaient décidé de s’unir pour offrir à
 
 [^85]: Cf. *Proposition* 30.
 
-2. Cf. *Proposition* 4.
+2\. Cf. *Proposition* 4.
 
-3. *Code des Canons des Églises Orientales*, canon 39 ; cf. Conc. œcum. Vat. II, Décret sur les Églises orientales catholiques *[Orientalium Ecclesiarum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_fr.html)*, n. 1 ; Jean-Paul II, Exhort. Apost. post-synodale *[Une espérance nouvelle pour le Liban](/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_19970510_lebanon.html)* (10 mai 1997), n. 40 : *AAS* 89 (1997), pp. 346-347 où est développé le thème de l’unité entre la Tradition apostolique commune et les traditions ecclésiales qui en sont issues en Orient.
+3\. *Code des Canons des Églises Orientales*, canon 39 ; cf. Conc. œcum. Vat. II, Décret sur les Églises orientales catholiques *[Orientalium Ecclesiarum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19641121_orientalium-ecclesiarum_fr.html)*, n. 1 ; Jean-Paul II, Exhort. Apost. post-synodale *[Une espérance nouvelle pour le Liban](/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_19970510_lebanon.html)* (10 mai 1997), n. 40 : *AAS* 89 (1997), pp. 346-347 où est développé le thème de l’unité entre la Tradition apostolique commune et les traditions ecclésiales qui en sont issues en Orient.
 
-4. Cf. Benoît XVI, *[Homélie de la messe de minuit](/content/benedict-xvi/fr/homilies/2010/documents/hf_ben-xvi_hom_20101224_christmas.html)* (24 décembre 2010) : *AAS* 103 (2011), pp. 17-21.
+4\. Cf. Benoît XVI, *[Homélie de la messe de minuit](/content/benedict-xvi/fr/homilies/2010/documents/hf_ben-xvi_hom_20101224_christmas.html)* (24 décembre 2010) : *AAS* 103 (2011), pp. 17-21.

@@ -79,4 +79,4 @@ Interea vero caelestium munerum auspicem paternaeque benevolentiae Nostrae teste
 
 [^12]: \[\] *A.A.S.*, 1933, pp. 245-246.
 
-6. \[\] *A.A.S*., 1929, p. 691.
+6\. \[\] *A.A.S*., 1929, p. 691.

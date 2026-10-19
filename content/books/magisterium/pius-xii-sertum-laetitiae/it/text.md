@@ -63,4 +63,4 @@ La grandezza del lavoro, che converrà intraprendere con fervore per la gloria d
 
 [^4]: (#_ftnref3)\] Litt. enc. *[Quadragesimo anno](/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html)*: *EE* 5/653.
 
-5. (#_ftnref4)\] *Missale Romanum*, Praef. Missae Christi Regis.
+5\. (#_ftnref4)\] *Missale Romanum*, Praef. Missae Christi Regis.

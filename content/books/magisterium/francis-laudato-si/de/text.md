@@ -1077,6 +1077,6 @@ Amen.
 
 [^172]: Basilius der Grosse, *Hom. in Hexaemeron*, 1, 2, 6: *PG *29, Sp. 8.
 
-243. Apostolisches Schreiben *[Evangelii gaudium](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24. November 2013), 215: *AAS* 105 (2013), S. 1109.
+243\. Apostolisches Schreiben *[Evangelii gaudium](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24. November 2013), 215: *AAS* 105 (2013), S. 1109.
 
-1410. *[Ebd](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html).*, 228: *AAS* 105, S. 1113.
+1410\. *[Ebd](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html).*, 228: *AAS* 105, S. 1113.

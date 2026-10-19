@@ -1117,228 +1117,228 @@ Furthermore, the aforementioned data-base includes all Institutions of Higher Ed
 
 ------------------------------------------------------------------------
 
-1. Cf. Augustine, *Conf*. X, 23.33; I, 1, 1.
+1\. Cf. Augustine, *Conf*. X, 23.33; I, 1, 1.
 
-2. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, 22.
+2\. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, 22.
 
-3. *[Sapientia Christiana](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_15041979_sapientia-christiana.html)*, Foreword, III (cf. below, Appendix I).
+3\. *[Sapientia Christiana](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_15041979_sapientia-christiana.html)*, Foreword, III (cf. below, Appendix I).
 
-4. * [Video Message to Participants in an International Theological Congress held at the Pontifical Catholic University of Argentina](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)*[, 1-3 September 2015](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
+4\. * [Video Message to Participants in an International Theological Congress held at the Pontifical Catholic University of Argentina](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)*[, 1-3 September 2015](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
 
-5. [No. 14](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
+5\. [No. 14](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
 
-6. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)., 16.
+6\. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)., 16.
 
-7. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
+7\. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
 
-8. Cf. [ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
+8\. Cf. [ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).
 
-9. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).,19.
+9\. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html).,19.
 
-10. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)., 20.
+10\. [Ibid](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)., 20.
 
-11. I.
+11\. I.
 
-12. No. 85.
+12\. No. 85.
 
-13. No. 14.
+13\. No. 14.
 
-14. No. 20.
+14\. No. 20.
 
-15. Encyclical Letter *[Caritas in Veritate](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)*, 42.
+15\. Encyclical Letter *[Caritas in Veritate](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)*, 42.
 
-16. Cf. ibid., 54; Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 1.
+16\. Cf. ibid., 54; Second Vatican Ecumenical Council, Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 1.
 
-17. Encyclical Letter *[Caritas in Veritate](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)*, 33.
+17\. Encyclical Letter *[Caritas in Veritate](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)*, 33.
 
-18. [Ibid](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)., 30.
+18\. [Ibid](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)., 30.
 
-19. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, Ch. 5.
+19\. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, Ch. 5.
 
-20. Ibid., 30.
+20\. Ibid., 30.
 
-21. Cf. [*Address to the Fifth National Convention of the Italian Church*, Florence, 10 November 2015](https://m.vatican.va/content/francesco/en/speeches/2015/november/documents/papa-francesco_20151110_firenze-convegno-chiesa-italiana.html).
+21\. Cf. [*Address to the Fifth National Convention of the Italian Church*, Florence, 10 November 2015](https://m.vatican.va/content/francesco/en/speeches/2015/november/documents/papa-francesco_20151110_firenze-convegno-chiesa-italiana.html).
 
-22. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 55.
+22\. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 55.
 
-23. Cf. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 139.
+23\. Cf. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 139.
 
-24. Ibid., 61.
+24\. Ibid., 61.
 
-25. Cf. ibid., 194.
+25\. Cf. ibid., 194.
 
-26. Ibid., 53; cf. No. 105.
+26\. Ibid., 53; cf. No. 105.
 
-27. Ibid., 114.
+27\. Ibid., 114.
 
-28. [*Address to the Community of the Pontifical Gregorian University, together with Members of the Pontifical Biblical Institute and the Pontifical Oriental Institute*, 10 April 2014](https://w2.vatican.va/content/francesco/en/speeches/2014/april/documents/papa-francesco_20140410_universita-consortium-gregorianum.html): AAS 106 (2014), 374.
+28\. [*Address to the Community of the Pontifical Gregorian University, together with Members of the Pontifical Biblical Institute and the Pontifical Oriental Institute*, 10 April 2014](https://w2.vatican.va/content/francesco/en/speeches/2014/april/documents/papa-francesco_20140410_universita-consortium-gregorianum.html): AAS 106 (2014), 374.
 
-29. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 11; 34ff.; 164-165.
+29\. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 11; 34ff.; 164-165.
 
-30. Cf. ibid*.*, 165.
+30\. Cf. ibid*.*, 165.
 
-31. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 1.
+31\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 1.
 
-32. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 111.
+32\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 111.
 
-33. Cf. Bull of Indiction of the Extraordinary Jubilee of Mercy *[Misericordiae Vultu](https://w2.vatican.va/content/francesco/en/bulls/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html)s*, 11 April 2015.
+33\. Cf. Bull of Indiction of the Extraordinary Jubilee of Mercy *[Misericordiae Vultu](https://w2.vatican.va/content/francesco/en/bulls/documents/papa-francesco_bolla_20150411_misericordiae-vultus.html)s*, 11 April 2015.
 
-34. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 87 and 272.
+34\. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 87 and 272.
 
-35. Ibid*.*, 92.
+35\. Ibid*.*, 92.
 
-36. Cf. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 49.
+36\. Cf. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 49.
 
-37. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, Ch. 4.
+37\. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, Ch. 4.
 
-38. PONTIFICAL COUNCIL FOR JUSTICE AND PEACE,*Compendium of the Social Doctrine of the Church*, 52; cf. cf. Apostolic Exhortation  *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 178.
+38\. PONTIFICAL COUNCIL FOR JUSTICE AND PEACE,*Compendium of the Social Doctrine of the Church*, 52; cf. cf. Apostolic Exhortation  *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 178.
 
-39. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 195.
+39\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 195.
 
-40. Cf. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 240.
+40\. Cf. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 240.
 
-41. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 239.
+41\. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 239.
 
-42. Encyclical Letter *[Caritas in Veritate](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)*, 4.
+42\. Encyclical Letter *[Caritas in Veritate](http://w2.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html)*, 4.
 
-43. Foreword, III, cf. SECOND VATICAN ECUMENICAL COUNCIL, Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*, 62.
+43\. Foreword, III, cf. SECOND VATICAN ECUMENICAL COUNCIL, Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html)*, 62.
 
-44. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 74.
+44\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 74.
 
-45. No. 31.
+45\. No. 31.
 
-46. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 134.
+46\. Cf. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 134.
 
-47. *The Idea of a University*, Discourse VII, 6.
+47\. *The Idea of a University*, Discourse VII, 6.
 
-48. Cf. *Delle cinque piaghe della Santa Chiesa*, a cura di A. Valle, (Opere di Antonio Rosmini, vol 56) Città Nuova Ed., Roma 1998², Ch. II, *passim*.
+48\. Cf. *Delle cinque piaghe della Santa Chiesa*, a cura di A. Valle, (Opere di Antonio Rosmini, vol 56) Città Nuova Ed., Roma 1998², Ch. II, *passim*.
 
-49. No. 164.
+49\. No. 164.
 
-50. Ibid.
+50\. Ibid.
 
-51. *[Video Message to the International Theological Congress held at the Pontifical Catholic University of Argentina “Santa Maria de los Buenos Aires](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)”*, 1-3 September 2015.
+51\. *[Video Message to the International Theological Congress held at the Pontifical Catholic University of Argentina “Santa Maria de los Buenos Aires](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)”*, 1-3 September 2015.
 
-52. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 236.
+52\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 236.
 
-53. JOHN PAUL II, Apostolic Letter *[Novo Millennio Ineunte](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)*, 6 January 2001, 40.
+53\. JOHN PAUL II, Apostolic Letter *[Novo Millennio Ineunte](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html)*, 6 January 2001, 40.
 
-54. [Ibid](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html).
+54\. [Ibid](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/2001/documents/hf_jp-ii_apl_20010106_novo-millennio-ineunte.html).
 
-55. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 116.
+55\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 116.
 
-56. [*Catechesis*, 26 April 2006](http://w2.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060426.html).
+56\. [*Catechesis*, 26 April 2006](http://w2.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060426.html).
 
-57. [*Video Message* *to the International Theological Congress held at the Pontifical Catholic University of Argentina “Santa Maria de los Buenos Aires”*,](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html) 1-3 September 2015, with reference to Apostolic Exhortation *Evangelii Gaudium*, 115.
+57\. [*Video Message* *to the International Theological Congress held at the Pontifical Catholic University of Argentina “Santa Maria de los Buenos Aires”*,](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html) 1-3 September 2015, with reference to Apostolic Exhortation *Evangelii Gaudium*, 115.
 
-58. *[Letter to the Grand Chancellor of the Pontifical Catholic University of Argentina for the Hundredth Anniversary of the Faculty of Theology](https://w2.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150303_lettera-universita-cattolica-argentina.html)*, 3 March 2015.
+58\. *[Letter to the Grand Chancellor of the Pontifical Catholic University of Argentina for the Hundredth Anniversary of the Faculty of Theology](https://w2.vatican.va/content/francesco/en/letters/2015/documents/papa-francesco_20150303_lettera-universita-cattolica-argentina.html)*, 3 March 2015.
 
-59. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 227-228.
+59\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 227-228.
 
-60. Foreword, III.
+60\. Foreword, III.
 
-61. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 133.
+61\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 133.
 
-62. Cf. Encyclical Letter *Laudato Si’*, 47; Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 50.
+62\. Cf. Encyclical Letter *Laudato Si’*, 47; Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 50.
 
-63. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#IV.%E2%80%82A_mission_embodied_within_human_limits)*, 45.
+63\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#IV.%E2%80%82A_mission_embodied_within_human_limits)*, 45.
 
-64. Ibid., 132.
+64\. Ibid., 132.
 
-65. No. 201.
+65\. No. 201.
 
-66. *[Video Message to the International Theological Congress held at the Pontifical Catholic University of Argentina “Santa Maria de los Buenos Aire](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)s”*, 1-3 September 2015.
+66\. *[Video Message to the International Theological Congress held at the Pontifical Catholic University of Argentina “Santa Maria de los Buenos Aire](https://w2.vatican.va/content/francesco/en/messages/pont-messages/2015/documents/papa-francesco_20150903_videomessaggio-teologia-buenos-aires.html)s”*, 1-3 September 2015.
 
-67. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 202.
+67\. Encyclical Letter *[Laudato Si](http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)’*, 202.
 
-68. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 278.
+68\. Apostolic Exhortation *[Evangelii Gaudium](http://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)*, 278.
 
-69. Cf. CIC can. 815.
+69\. Cf. CIC can. 815.
 
-70. Cf. CIC can. 817; CCEO can. 648.
+70\. Cf. CIC can. 817; CCEO can. 648.
 
-71. Cf. JOHN PAUL II, Apost. Const. *[Ex Corde Ecclesiae](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html)*, art. 1, § 2: AAS 82 (1990) 1502.
+71\. Cf. JOHN PAUL II, Apost. Const. *[Ex Corde Ecclesiae](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae.html)*, art. 1, § 2: AAS 82 (1990) 1502.
 
-72. Cf. CIC can. 816, § 1; CCEO can. 649; JOHN PAUL II, Apost. Const. [*Pastor Bonus*](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html), art. 116, § 2: AAS 80 (1988) 889.
+72\. Cf. CIC can. 816, § 1; CCEO can. 649; JOHN PAUL II, Apost. Const. [*Pastor Bonus*](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html), art. 116, § 2: AAS 80 (1988) 889.
 
-73. Cf. CIC can. 817 and CCEO can. 648.
+73\. Cf. CIC can. 817 and CCEO can. 648.
 
-74. Cf. Motu Proprio *[Sedula Cura](http://w2.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19710627_sedula-cura.html)*: AAS 63 (1971) 665ff. and also the Decree of the PONTIFICAL BIBLICAL COMMISSION *[Ratio Periclitandae Doctrinae](http://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19110524_de-examinibus_lt.html)*: AAS 67 (1975) 153ff.
+74\. Cf. Motu Proprio *[Sedula Cura](http://w2.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19710627_sedula-cura.html)*: AAS 63 (1971) 665ff. and also the Decree of the PONTIFICAL BIBLICAL COMMISSION *[Ratio Periclitandae Doctrinae](http://www.vatican.va/roman_curia/congregations/cfaith/pcb_documents/rc_con_cfaith_doc_19110524_de-examinibus_lt.html)*: AAS 67 (1975) 153ff.
 
-75. Cf. CIC can. 816 § 2; CCEO can. 650.
+75\. Cf. CIC can. 816 § 2; CCEO can. 650.
 
-76. Cf. CIC cann. 810 § 1 and 818.
+76\. Cf. CIC cann. 810 § 1 and 818.
 
-77. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 25 (November 21, 1965): AAS 57 (1965) 29-31; also CONGREGATION FOR THE DOCTRINE OF THE FAITH, Instruction on the Ecclesial Vocation of the Theologian *Donum Veritatis* (May 24, 1990): AAS 82 (1990), 1550-1570.
+77\. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on the Church *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html)*, 25 (November 21, 1965): AAS 57 (1965) 29-31; also CONGREGATION FOR THE DOCTRINE OF THE FAITH, Instruction on the Ecclesial Vocation of the Theologian *Donum Veritatis* (May 24, 1990): AAS 82 (1990), 1550-1570.
 
-78. Cf. CIC can. 833, 7°.
+78\. Cf. CIC can. 833, 7°.
 
-79. Cf. CIC can. 152; CCEO can. 942.
+79\. Cf. CIC can. 152; CCEO can. 942.
 
-80. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, 59: AAS 58 (1966) 1080.
+80\. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, 59: AAS 58 (1966) 1080.
 
-81. Cf. CIC can. 816 § 1; CCEO cann. 648-649.
+81\. Cf. CIC can. 816 § 1; CCEO cann. 648-649.
 
-82. Cf. CIC can. 820.
+82\. Cf. CIC can. 820.
 
-83. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on Divine Revelation *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)* 24: AAS 58 (1966) 827.
+83\. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on Divine Revelation *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)* 24: AAS 58 (1966) 827.
 
-84. Cf. CONGREGATION FOR THE DOCTRINE OF THE FAITH, Instruction on the Ecclesial Vocation of the Theologian [*Donum* *Veritatis*](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_en.html), May 24, 1990, AAS 82 (1990) 1552.
+84\. Cf. CONGREGATION FOR THE DOCTRINE OF THE FAITH, Instruction on the Ecclesial Vocation of the Theologian [*Donum* *Veritatis*](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19900524_theologian-vocation_en.html), May 24, 1990, AAS 82 (1990) 1552.
 
-85. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 10: AAS 58 (1966) 737; cf. Encyclical *Veritatis Splendor* (August 6, 1993): AAS 85 (1993) 1133 ff.; Encyclical *Fides* *et Ratio* (September 14, 1998): AAS 91 (1999) 5 ff.
+85\. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 10: AAS 58 (1966) 737; cf. Encyclical *Veritatis Splendor* (August 6, 1993): AAS 85 (1993) 1133 ff.; Encyclical *Fides* *et Ratio* (September 14, 1998): AAS 91 (1999) 5 ff.
 
-86. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on the Missionary Activity of the Church *Ad Gentes*, 22: AAS 58 (1966) 973ff.
+86\. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on the Missionary Activity of the Church *Ad Gentes*, 22: AAS 58 (1966) 973ff.
 
-87. Cf. Pontifical Council for Promoting Christian Unity, Directory for the Application of Principles and Norms on Ecumenism: AAS 85 (1993) 1039 ff.
+87\. Cf. Pontifical Council for Promoting Christian Unity, Directory for the Application of Principles and Norms on Ecumenism: AAS 85 (1993) 1039 ff.
 
-88. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on Priestly Formation *[Optatam Totius](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*, 15: AAS 58 (1966) 722.
+88\. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on Priestly Formation *[Optatam Totius](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*, 15: AAS 58 (1966) 722.
 
-89. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Pastoral Constitution on the Church in the Modern World *[Gaudium et Spe](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)s*, 43ff.: AAS 58 (1966) 1061ff.
+89\. Cf. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Pastoral Constitution on the Church in the Modern World *[Gaudium et Spe](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)s*, 43ff.: AAS 58 (1966) 1061ff.
 
-90. Cf. Apostolic Exhortation *[Evangelii Nuntiandi](http://w2.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html)*, 19-20: AAS 68 (1976) 18f.
+90\. Cf. Apostolic Exhortation *[Evangelii Nuntiandi](http://w2.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19751208_evangelii-nuntiandi.html)*, 19-20: AAS 68 (1976) 18f.
 
-91. Cf. Ibid., 18: AAS 68 (1976) 17f., and also Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, 58: AAS 58 (1966) 1079.
+91\. Cf. Ibid., 18: AAS 68 (1976) 17f., and also Pastoral Constitution on the Church in the Modern World *[Gaudium et Spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*, 58: AAS 58 (1966) 1079.
 
-92. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm) on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 10: AAS 58 (1966) 737.
+92\. [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm) on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 10: AAS 58 (1966) 737.
 
-93. AAS 23 (1931) 241.
+93\. AAS 23 (1931) 241.
 
-94. AAS 42 (1950) 387.
+94\. AAS 42 (1950) 387.
 
-95. Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 10: AAS 58 (1966) 737.
+95\. Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 10: AAS 58 (1966) 737.
 
-96. [Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html).
+96\. [Ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html).
 
-97. Ibid., 11: AAS 58 (1966) 738.
+97\. Ibid., 11: AAS 58 (1966) 738.
 
-98. Cf. Pastoral Constitution on the Church in the Modern World [*Gaudium* *et Spe*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*s*, 62: AAS 58 (1966) 1083.
+98\. Cf. Pastoral Constitution on the Church in the Modern World [*Gaudium* *et Spe*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*s*, 62: AAS 58 (1966) 1083.
 
-99. Pope John XXIII, Allocution at the opening of the Second Vatican Ecumenical Council: AAS 54 (1962) 792; cf. also Pastoral Constitution on the Church in the Modern World [*Gaudium* *et Spe*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*s*, 62: AAS 58 (1966) 1083.
+99\. Pope John XXIII, Allocution at the opening of the Second Vatican Ecumenical Council: AAS 54 (1962) 792; cf. also Pastoral Constitution on the Church in the Modern World [*Gaudium* *et Spe*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_cons_19651207_gaudium-et-spes_en.html)*s*, 62: AAS 58 (1966) 1083.
 
-100. POPE PAUL VI, Letter *“Le transfert à Louvain - la – Neuve”* to the Rector of the Catholic University of Louvain, September 13, 1975 (L’Osservatore Romano, September 22-23, 1975). Cf. POPE JOHN PAUL II, Encyclical Letter *[Redemptor Hominis](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html)*, 19: AAS 71 (1979) 305ff.
+100\. POPE PAUL VI, Letter *“Le transfert à Louvain - la – Neuve”* to the Rector of the Catholic University of Louvain, September 13, 1975 (L’Osservatore Romano, September 22-23, 1975). Cf. POPE JOHN PAUL II, Encyclical Letter *[Redemptor Hominis](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis.html)*, 19: AAS 71 (1979) 305ff.
 
-101. Cf. Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 11: AAS 58 (1966) 738.
+101\. Cf. Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*, 11: AAS 58 (1966) 738.
 
-102. Cf. CIC can. 833, 7°.
+102\. Cf. CIC can. 833, 7°.
 
-103. Cf. Pontifical Council for Promoting Christian Unity, Directory for the Application of Principles and Norms on Ecumenism (1993), nn. 191 ff.: AAS 85 (1993), 1107 ff.
+103\. Cf. Pontifical Council for Promoting Christian Unity, Directory for the Application of Principles and Norms on Ecumenism (1993), nn. 191 ff.: AAS 85 (1993), 1107 ff.
 
-104. Cf. Cf. *Ibid*., n. 192: AAS 85 (1993), 1107-8.
+104\. Cf. Cf. *Ibid*., n. 192: AAS 85 (1993), 1107-8.
 
-105. Cf. *Ibid*., n. 195: AAS 85 (1993), 1109.
+105\. Cf. *Ibid*., n. 195: AAS 85 (1993), 1109.
 
-106. Cf. CIC cann. 1732-1739; CCEO cann. 996-1006; CIC can. 1445 § 2; JOHN PAUL II, Apostolic Constitution [*Pastor Bonus*](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html) art. 123, AAS 80 (1988) 891-892.
+106\. Cf. CIC cann. 1732-1739; CCEO cann. 996-1006; CIC can. 1445 § 2; JOHN PAUL II, Apostolic Constitution [*Pastor Bonus*](http://w2.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index.html) art. 123, AAS 80 (1988) 891-892.
 
-107. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Decree on Priestly Formation *[Optatam Totius](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*, 13: AAS 58 (1966), 721 and the Chirograph of POPE PAUL VI *[Romani Sermonis](http://w2.vatican.va/content/paul-vi/la/speeches/1976/documents/hf_p-vi_spe_19760630_fondazione-latinitas.html)*: AAS 68 (1976), 481ff.
+107\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Decree on Priestly Formation *[Optatam Totius](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)*, 13: AAS 58 (1966), 721 and the Chirograph of POPE PAUL VI *[Romani Sermonis](http://w2.vatican.va/content/paul-vi/la/speeches/1976/documents/hf_p-vi_spe_19760630_fondazione-latinitas.html)*: AAS 68 (1976), 481ff.
 
-108. Cf. CIC can. 816 § 2; CCEO can. 650.
+108\. Cf. CIC can. 816 § 2; CCEO can. 650.
 
-109. See especially [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on Divine Revelation [*Dei Verbum*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html): AAS 58 (1966) 817 ff.; Decree on Priestly Formation *Optatam Totius*: AAS 58 (1966), 713 ff.See especially [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on Divine Revelation *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*: AAS 58 (1966) 713ff.
+109\. See especially [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on Divine Revelation [*Dei Verbum*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html): AAS 58 (1966) 817 ff.; Decree on Priestly Formation *Optatam Totius*: AAS 58 (1966), 713 ff.See especially [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Dogmatic Constitution on Divine Revelation *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)*: AAS 58 (1966) 713ff.
 
-110. See especially the Letter of POPE PAUL VI *[Lumen Ecclesiae](http://w2.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19741205_lumen-ecclesiae.html)*, about St. Thomas Aquinas, of November 20, 1974: AAS 66 (1974) 673ff. Also see the circular letters of the CONGREGATION FOR CATHOLIC EDUCATION: on the Theological Formation of Future Priests, February 22, 1976, on Canon Law Studies in Seminaries, March 1, 1975; on Philosophical Studies, January 20, 1972; Instruction on Liturgical Formation, June 3, 1979; Instruction on the Means of Social Communication, March 19, 1986; on the Social Doctrine of the Church, December 30, 1988; on the Study of the Fathers of the Church, November 10, 1989; and on Education on Matters regarding Marriage and the Family, March 19, 1995.
+110\. See especially the Letter of POPE PAUL VI *[Lumen Ecclesiae](http://w2.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19741205_lumen-ecclesiae.html)*, about St. Thomas Aquinas, of November 20, 1974: AAS 66 (1974) 673ff. Also see the circular letters of the CONGREGATION FOR CATHOLIC EDUCATION: on the Theological Formation of Future Priests, February 22, 1976, on Canon Law Studies in Seminaries, March 1, 1975; on Philosophical Studies, January 20, 1972; Instruction on Liturgical Formation, June 3, 1979; Instruction on the Means of Social Communication, March 19, 1986; on the Social Doctrine of the Church, December 30, 1988; on the Study of the Fathers of the Church, November 10, 1989; and on Education on Matters regarding Marriage and the Family, March 19, 1995.
 
-111. Cf. CIC can. 251 and [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on Priestly Formation [*Optatam Totius*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html), n. 15: AAS 58 (1966), 722.
+111\. Cf. CIC can. 251 and [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on Priestly Formation [*Optatam Totius*](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html), n. 15: AAS 58 (1966), 722.
 
-112. See especially [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on Priestly Formation *[Optatam Totiu](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)s*: AAS 58 (1966) 713ff., and the Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*: AAS 58 (1966) 728ff.
+112\. See especially [SECOND VATICAN ECUMENICAL COUNCIL](http://www.vatican.va/archive/hist_councils/ii_vatican_council/index.htm), Decree on Priestly Formation *[Optatam Totiu](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_en.html)s*: AAS 58 (1966) 713ff., and the Declaration on Christian Education *[Gravissimum Educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_en.html)*: AAS 58 (1966) 728ff.
 
-113. See especially the letter of POPE PAUL VI to Fr. Vincent de Couesnongle on St. Thomas Aquinas *[Lumen Ecclesiae](https://w2.vatican.va/content/paul-vi/la/letters/1974/documents/hf_p-vi_let_19741120_lumen-ecclesiae.html)* of November 20, 1974: AAS 66 (1974) 673ff.; the Circular letter of the CONGREGATION FOR CATHOLIC EDUCATION, On the Study of Philosophy in Seminaries, January 20, 1972; POPE JOHN PAUL II, Encyclical Letter [](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*[Fides et Rati](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.htmlhttp:/w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)**[o](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.htmlhttp:/w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*: AAS 91 (1999) 5 ff.; id., Encyclical Letter *[Veritatis Splendor](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)*: AAS 85 (1993) 1133 ff.
+113\. See especially the letter of POPE PAUL VI to Fr. Vincent de Couesnongle on St. Thomas Aquinas *[Lumen Ecclesiae](https://w2.vatican.va/content/paul-vi/la/letters/1974/documents/hf_p-vi_let_19741120_lumen-ecclesiae.html)* of November 20, 1974: AAS 66 (1974) 673ff.; the Circular letter of the CONGREGATION FOR CATHOLIC EDUCATION, On the Study of Philosophy in Seminaries, January 20, 1972; POPE JOHN PAUL II, Encyclical Letter [](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*[Fides et Rati](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.htmlhttp:/w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)**[o](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.htmlhttp:/w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html)*: AAS 91 (1999) 5 ff.; id., Encyclical Letter *[Veritatis Splendor](http://w2.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html)*: AAS 85 (1993) 1133 ff.

@@ -66,4 +66,4 @@ Tudo o que estabelecemos nesta nossa carta, escrita *motu proprio*, seja confirm
 
 [^14]: Cf. Conc. Vaticano II, *Const. sobre a Sagrada Liturgia*, [SC](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html), nº 111, *AAS* 56 (1964), p. 127
 
-9. Cf. *[ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html)*.
+9\. Cf. *[ibid](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19631204_sacrosanctum-concilium_po.html)*.

@@ -49,22 +49,22 @@ GRUSS UND APOSTOLISCHEN SEGEN
 
 [^1]: Cf. Is. 11, 12.
 
-2. *Hebr* 5, 7.
+2\. *Hebr* 5, 7.
 
-3. S. Aug., *De Civ. Dei* 19, 11; PL 41, 637.
+3\. S. Aug., *De Civ. Dei* 19, 11; PL 41, 637.
 
-4. *Is* 9, 6.
+4\. *Is* 9, 6.
 
-5. *Adv. Haer.* 3, 22; PG 7, 959.
+5\. *Adv. Haer.* 3, 22; PG 7, 959.
 
-6. *De sanct. virg*. 6; PL 40, 399.
+6\. *De sanct. virg*. 6; PL 40, 399.
 
-7. Or. 47; PL 158, 945.
+7\. Or. 47; PL 158, 945.
 
-8. Epist. Enc. *Adiutricem populi christian*i, 5. Sept. 1895; *Acta Leon*. 15, 1896, S. 302.
+8\. Epist. Enc. *Adiutricem populi christian*i, 5. Sept. 1895; *Acta Leon*. 15, 1896, S. 302.
 
-9. Const. dogm. *De Ecclesia*, 67.
+9\. Const. dogm. *De Ecclesia*, 67.
 
-10. Pius XI., Litt. Enc. Ingravescentibus malis 29. Sept. 1937; AAS 29 (1937) 378.
+10\. Pius XI., Litt. Enc. Ingravescentibus malis 29. Sept. 1937; AAS 29 (1937) 378.
 
-11. *Enarr*. in Ps. 54, 11; PL 36, 636.
+11\. *Enarr*. in Ps. 54, 11; PL 36, 636.

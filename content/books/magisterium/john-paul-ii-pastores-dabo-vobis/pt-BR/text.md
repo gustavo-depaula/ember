@@ -1516,4 +1516,4 @@ Amen!
 
 [^233]: (#fnref233)) Cf. *Propositio* 40.
 
-64. (#fnref64)) Decr. sobre o Ministério e a Vida dos Sacerdotes *[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_po.html)*, 12.
+64\. (#fnref64)) Decr. sobre o Ministério e a Vida dos Sacerdotes *[Presbyterorum ordinis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_presbyterorum-ordinis_po.html)*, 12.

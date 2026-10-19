@@ -216,4 +216,4 @@ Cf. também: 1) Inocêncio III, Epistola *Eius exemplo* cum Professione fidei Wa
 
 [^60]: Cf. *Synodus Episcoporum (1967), Relatio Commissionis Synodalis Constitutae ad examen ulterius peragendum circa opiniones periculosas et atheismum, II, 4: De theologorum opera et responsabilitate*, Typis Polyglottis Vaticanis, 1967, p. 11 (*L'Osservatore Romano*, 30-31 de Outubro de 1967, p. 3).
 
-144. *Ibid*., n. 11; *Const. Decr. Decl.*, p. 111.
+144\. *Ibid*., n. 11; *Const. Decr. Decl.*, p. 111.

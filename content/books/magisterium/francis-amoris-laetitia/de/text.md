@@ -1792,8 +1792,8 @@ Amen.
 
 [^391]: Über die sozialen Aspekte der Familie vgl. Päpstlicher Rat für Gerechtigkeit und Frieden, *Kompendium der Soziallehre der Kirche*, 248-254.
 
-647. *Ebd.*, 78.
+647\. *Ebd.*, 78.
 
-710. *Relatio finalis* 2015, 71.
+710\. *Relatio finalis* 2015, 71.
 
-774. Zweites Vatikanisches Konzil, Dekret [*Apostolicam actuositatem* über das Laienapostolat](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_ge.html), 11.
+774\. Zweites Vatikanisches Konzil, Dekret [*Apostolicam actuositatem* über das Laienapostolat](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_ge.html), 11.

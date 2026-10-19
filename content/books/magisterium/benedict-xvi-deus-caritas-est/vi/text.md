@@ -286,4 +286,4 @@ Giữa một thế giới đang khát nước. 
 
 [^36]: x. Sulpicius Severus,  *Vita Sancti Martini, *3, 1-3 : SCh 133, 256-258.
 
-14. Thánh Inhaxiô thành Antiôkia, *Thư gửi giáo đoàn Rôma* : PG 5, 801.
+14\. Thánh Inhaxiô thành Antiôkia, *Thư gửi giáo đoàn Rôma* : PG 5, 801.

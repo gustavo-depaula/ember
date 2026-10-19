@@ -471,6 +471,6 @@ Kristův kosmický vliv představuje poslední rozměr christologie. Nejde přit
 
 [^86]: Srov. Řím 8, 38–39; 1 Jan 3, 2; Řím 14, 8–9.
 
-43. Srov. výše 4.2.2 a 4.2.3.
+43\. Srov. výše 4.2.2 a 4.2.3.
 
-46. Srov. výše 4.2.5.
+46\. Srov. výše 4.2.5.

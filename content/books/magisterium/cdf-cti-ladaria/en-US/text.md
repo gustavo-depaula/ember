@@ -64,4 +64,4 @@ Above all it affirms with clarity that all that is good and valuable in them com
 
 ------------------------------------------------------------------------
 
-2. *De res. Mort.* 6, 3: “Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus”.
+2\. *De res. Mort.* 6, 3: “Quodcumque limus exprimebatur, Christus cogitabatur, homo futurus”.

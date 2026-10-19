@@ -274,12 +274,12 @@ Eine Diözese oder mehrere Diözesen gemeinsam können, entsprechend den derzeit
 
 ------------------------------------------------------------------------
 
-6. Vgl. II. Vatikanisches Konzil, Dogmatische Konstitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, Nr. 27.
+6\. Vgl. II. Vatikanisches Konzil, Dogmatische Konstitution *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, Nr. 27.
 
-7. Vgl. CIC, can. 1752.
+7\. Vgl. CIC, can. 1752.
 
-8. Vgl. Paul VI., Ansprache an die Teilnehmer am 2. Internationalen Kongress für Kirchenrecht, 17. September 1973
+8\. Vgl. Paul VI., Ansprache an die Teilnehmer am 2. Internationalen Kongress für Kirchenrecht, 17. September 1973
 
-9. Vgl. [Relatio Synod](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_ge.html)i, Nr. 48.
+9\. Vgl. [Relatio Synod](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_20141018_relatio-synodi-familia_ge.html)i, Nr. 48.
 
-11. Vgl. FRANZISKUS, Apostolisches Schreiben *[Evangelii gaudium](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Un_improrogabile_rinnovamento_ecclesiale)*, Nr. 27, in *AAS* 105 (2013), S. 1031
+11\. Vgl. FRANZISKUS, Apostolisches Schreiben *[Evangelii gaudium](http://w2.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Un_improrogabile_rinnovamento_ecclesiale)*, Nr. 27, in *AAS* 105 (2013), S. 1031

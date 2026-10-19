@@ -374,4 +374,4 @@ Notas
 
 [^54]: JOÃO PAULO II, Discurso ao Pontifício Conselho para a Cultura, 13 de Janeiro de 1989, n. 2: *AAS* 81 (1989), pp. 857-858.
 
-22. Cf. *[Gravissimum educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_po.html)*, n 10: *AAS* 58 (1966), p. 737.
+22\. Cf. *[Gravissimum educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_po.html)*, n 10: *AAS* 58 (1966), p. 737.

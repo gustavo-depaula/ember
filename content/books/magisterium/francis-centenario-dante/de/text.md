@@ -144,30 +144,30 @@ Franziskus
 
 ------------------------------------------------------------------------
 
-1. \* Die Zitate aus der *Commedia* werden nach der deutschen Übersetzung von Hartmut Köhler wiedergegeben.
+1\. \* Die Zitate aus der *Commedia* werden nach der deutschen Übersetzung von Hartmut Köhler wiedergegeben.
 
-2. *In praeclara summorum* (30. April 1921): *AAS* 13 (1921), 209-217.
+2\. *In praeclara summorum* (30. April 1921): *AAS* 13 (1921), 209-217.
 
-3. Vgl. *ebd*., 210.
+3\. Vgl. *ebd*., 210.
 
-4. Brief *Nobis, ad Catholicam* (28. Oktober 1914): *AAS* 6 (1914), 540.
+4\. Brief *Nobis, ad Catholicam* (28. Oktober 1914): *AAS* 6 (1914), 540.
 
-5. *Ansprache an die Römische Kurie* (23. Dezember 1965): *AAS* 58 (1966), 80.
+5\. *Ansprache an die Römische Kurie* (23. Dezember 1965): *AAS* 58 (1966), 80.
 
-6. Vgl. *AAS* 58 (1966), 22-37.
+6\. Vgl. *AAS* 58 (1966), 22-37.
 
-7. *L'Osservatore Romano* (dt.), Jg. 15 (1985), Nr. 25 (21. Juni 1985), 4.
+7\. *L'Osservatore Romano* (dt.), Jg. 15 (1985), Nr. 25 (21. Juni 1985), 4.
 
-8. *[Ansprache an die Teilnehmer eines vom Päpstlichen Rat „Cor Unum“ ausgerichteten internationalen Kongresses](http://www.vatican.va/content/benedict-xvi/de/speeches/2006/january/documents/hf_ben-xvi_spe_20060123_cor-unum.html)* (23. Januar 2006): *Insegnamenti* 2006 II/1, 92-93.
+8\. *[Ansprache an die Teilnehmer eines vom Päpstlichen Rat „Cor Unum“ ausgerichteten internationalen Kongresses](http://www.vatican.va/content/benedict-xvi/de/speeches/2006/january/documents/hf_ben-xvi_spe_20060123_cor-unum.html)* (23. Januar 2006): *Insegnamenti* 2006 II/1, 92-93.
 
-9. *[Ebd](http://www.vatican.va/content/benedict-xvi/de/speeches/2006/january/documents/hf_ben-xvi_spe_20060123_cor-unum.html).,* 93.
+9\. *[Ebd](http://www.vatican.va/content/benedict-xvi/de/speeches/2006/january/documents/hf_ben-xvi_spe_20060123_cor-unum.html).,* 93.
 
-10. Vgl. N. 4: *AAS* 105 (2013), 557.
+10\. Vgl. N. 4: *AAS* 105 (2013), 557.
 
-11. *[Botschaft an den Präsidenten des Päpstlichen Rates für die Kultur](http://www.vatican.va/content/francesco/de/messages/pont-messages/2015/documents/papa-francesco_20150504_messaggio-dante-alighieri.html)* (4. Mai 2015): *AAS* 107 (2015), 551-552.
+11\. *[Botschaft an den Präsidenten des Päpstlichen Rates für die Kultur](http://www.vatican.va/content/francesco/de/messages/pont-messages/2015/documents/papa-francesco_20150504_messaggio-dante-alighieri.html)* (4. Mai 2015): *AAS* 107 (2015), 551-552.
 
-12. *[Ebd](http://www.vatican.va/content/francesco/de/messages/pont-messages/2015/documents/papa-francesco_20150504_messaggio-dante-alighieri.html).,* 552.
+12\. *[Ebd](http://www.vatican.va/content/francesco/de/messages/pont-messages/2015/documents/papa-francesco_20150504_messaggio-dante-alighieri.html).,* 552.
 
-13. *L'Osservatore Romano* (dt.), Jg. 50 (2020), Nr. 44 (30. Oktober 2020), 12.
+13\. *L'Osservatore Romano* (dt.), Jg. 50 (2020), Nr. 44 (30. Oktober 2020), 12.
 
-14. Vgl. *Confessiones*, I, I,1: *PL* 32, 661.
+14\. Vgl. *Confessiones*, I, I,1: *PL* 32, 661.

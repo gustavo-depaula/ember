@@ -367,4 +367,4 @@ Com estes sentimentos, sobre todos estendo a minha Bênção.
 
 [^41]: N.10.
 
-37. Cf. *Ibid*., 2.
+37\. Cf. *Ibid*., 2.

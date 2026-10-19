@@ -1767,64 +1767,64 @@ Francis
 
  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1. JOHN PAUL II, Encyclical Letter *[Redemptoris Missio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*, 2.
+1\. JOHN PAUL II, Encyclical Letter *[Redemptoris Missio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_07121990_redemptoris-missio.html)*, 2.
 
-2. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Taking_the_first_step,_being_involved_and_supportive,_bearing_fruit_and_rejoicing)*, 24.
+2\. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Taking_the_first_step,_being_involved_and_supportive,_bearing_fruit_and_rejoicing)*, 24.
 
-3. Cf. [ibid](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred)., 30.
+3\. Cf. [ibid](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred)., 30.
 
-4. FRANCIS, Encyclical Letter *[Lumen Fidei](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html#4)*, 4.
+4\. FRANCIS, Encyclical Letter *[Lumen Fidei](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html#4)*, 4.
 
-5. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Decree *[Christus Dominus](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 9ff.
+5\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Decree *[Christus Dominus](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html)*, 9ff.
 
-6. JOHN PAUL II, Apostolic Exhortation *[Christifideles Laici](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)*, 32.
+6\. JOHN PAUL II, Apostolic Exhortation *[Christifideles Laici](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_30121988_christifideles-laici.html)*, 32.
 
-7. FRANCIS, *[Address for the Commemoration of the Fiftieth Anniversary of the Establishment of the Synod of Bishops](https://www.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html)* (17 October 2015).
+7\. FRANCIS, *[Address for the Commemoration of the Fiftieth Anniversary of the Establishment of the Synod of Bishops](https://www.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html)* (17 October 2015).
 
-8. [Ibid](https://www.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html).
+8\. [Ibid](https://www.vatican.va/content/francesco/en/speeches/2015/october/documents/papa-francesco_20151017_50-anniversario-sinodo.html).
 
-9. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#19)*, 19.
+9\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#19)*, 19.
 
-10. Cf. [ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#20)., 20.
+10\. Cf. [ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#20)., 20.
 
-11. Cf. [ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#8)., 8.
+11\. Cf. [ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#8)., 8.
 
-12. Cf. [ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#22)., 22; cf. JOHN PAUL II, Apostolic Exhortation *[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 8, 55, 56.
+12\. Cf. [ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#22)., 22; cf. JOHN PAUL II, Apostolic Exhortation *[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 8, 55, 56.
 
-13. *[Ibidem](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#23)*, 23.
+13\. *[Ibidem](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#23)*, 23.
 
-14. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#18),* 18; FIRST VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Pastor Aeternus](https://www.vatican.va/content/pius-ix/la/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html)*, Preamble.
+14\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#18),* 18; FIRST VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Pastor Aeternus](https://www.vatican.va/content/pius-ix/la/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html)*, Preamble.
 
-15. Cf. [ibid](https://www.vatican.va/content/pius-ix/la/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html)., 23.
+15\. Cf. [ibid](https://www.vatican.va/content/pius-ix/la/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html)., 23.
 
-16. Cf. JOHN PAUL II, Apostolic Exhortation *[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 63.
+16\. Cf. JOHN PAUL II, Apostolic Exhortation *[Pastores Gregis](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html)*, 63.
 
-17. Cf. [ibid](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html).
+17\. Cf. [ibid](https://www.vatican.va/content/john-paul-ii/en/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis.html).
 
-18. Cf. JOHN PAUL II, Apostolic Letter Motu Proprio *[Apostolos Suos](https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html)*, 12.
+18\. Cf. JOHN PAUL II, Apostolic Letter Motu Proprio *[Apostolos Suos](https://www.vatican.va/content/john-paul-ii/en/motu_proprio/documents/hf_jp-ii_motu-proprio_22071998_apostolos-suos.html)*, 12.
 
-19. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#30)*, 30.
+19\. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#30)*, 30.
 
-20. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#We_are_all_missionary_disciples)*, 120.
+20\. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#We_are_all_missionary_disciples)*, 120.
 
-21. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#30)*, 30.
+21\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#30)*, 30.
 
-22. PAUL VI, *[Address at the Final Public Session of the Second Vatican Ecumenical Council](https://www.vatican.va/content/paul-vi/en/speeches/1965/documents/hf_p-vi_spe_19651207_epilogo-concilio.html)* (7 December 1965).
+22\. PAUL VI, *[Address at the Final Public Session of the Second Vatican Ecumenical Council](https://www.vatican.va/content/paul-vi/en/speeches/1965/documents/hf_p-vi_spe_19651207_epilogo-concilio.html)* (7 December 1965).
 
-23. FRANCIS, *[Greeting to the Cardinals Gathered for the Consistory](https://www.vatican.va/content/francesco/en/speeches/2015/february/documents/papa-francesco_20150212_saluto-concistoro-cardinali.html)* (12 February 2015).
+23\. FRANCIS, *[Greeting to the Cardinals Gathered for the Consistory](https://www.vatican.va/content/francesco/en/speeches/2015/february/documents/papa-francesco_20150212_saluto-concistoro-cardinali.html)* (12 February 2015).
 
-24. SECOND VATICAN ECUMENICAL COUNCIL, Decree *[Christus Dominus](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html#9)*, 9.
+24\. SECOND VATICAN ECUMENICAL COUNCIL, Decree *[Christus Dominus](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_christus-dominus_en.html#9)*, 9.
 
-25. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#18)*, 18.
+25\. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#18)*, 18.
 
-26. [Ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#23)., 23.
+26\. [Ibid](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#23)., 23.
 
-27. Cf. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#The_scope_and_limits_of_this_Exhortation)*, 16.
+27\. Cf. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#The_scope_and_limits_of_this_Exhortation)*, 16.
 
-28. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html#7)*, 7.
+28\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Dei Verbum](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html#7)*, 7.
 
-29. Cf. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred)*, 31-32.
+29\. Cf. FRANCIS, Apostolic Exhortation *[Evangelii Gaudium](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#An_ecclesial_renewal_which_cannot_be_deferred)*, 31-32.
 
-30. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#8)*, 8.
+30\. Cf. SECOND VATICAN ECUMENICAL COUNCIL, Dogmatic Constitution *[Lumen Gentium](https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html#8)*, 8.
 
-31. PAUL VI, *[Homily for the Solemnity of the Immaculate Conception of the Blessed Virgin Mary](https://www.vatican.va/content/paul-vi/en/homilies/1965/documents/hf_p-vi_hom_19651208_epilogo-concilio-immacolata.html)* at the conclusion of the Second Vatican Ecumenical Council (8 December 1965).
+31\. PAUL VI, *[Homily for the Solemnity of the Immaculate Conception of the Blessed Virgin Mary](https://www.vatican.va/content/paul-vi/en/homilies/1965/documents/hf_p-vi_hom_19651208_epilogo-concilio-immacolata.html)* at the conclusion of the Second Vatican Ecumenical Council (8 December 1965).

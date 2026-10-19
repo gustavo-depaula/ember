@@ -218,4 +218,4 @@ Aloisius De Magistris
 
 [^25]: Cfr *Ench. indulg.,* conces. 14.
 
-21. Cfr *ibid*., norm. 23, §§ 1-2.
+21\. Cfr *ibid*., norm. 23, §§ 1-2.

@@ -173,62 +173,62 @@ Gegeben zu Rom, bei St. Johannes im Lateran, am 8. Dezember, dem Hochfest der oh
 
 ------------------------------------------------------------------------
 
-1. *Joh* 6,42; vgl. *Mt* 13,55; *Mk 6*,3; *Lk* 4,22.
+1\. *Joh* 6,42; vgl. *Mt* 13,55; *Mk 6*,3; *Lk* 4,22.
 
-2. S. Rituum Congreg., *Quemadmodum Deus* (8. Dezember 1870): *ASS* 6 (1870-71), 194.
+2\. S. Rituum Congreg., *Quemadmodum Deus* (8. Dezember 1870): *ASS* 6 (1870-71), 194.
 
-3. Vgl. *Ansprache an die ACLI anlässlich des Gedenktags des heiligen Josef, des Arbeiters* (1. Mai 1955): *AAS* 47 (1955), 406.
+3\. Vgl. *Ansprache an die ACLI anlässlich des Gedenktags des heiligen Josef, des Arbeiters* (1. Mai 1955): *AAS* 47 (1955), 406.
 
-4. Apostolisches Schreiben *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15. August 1989): *AAS* 82 (1990), 5-34.
+4\. Apostolisches Schreiben *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15. August 1989): *AAS* 82 (1990), 5-34.
 
-5. *Katechismus der Katholischen Kirche*, 1014.
+5\. *Katechismus der Katholischen Kirche*, 1014.
 
-6. *[Besondere Andacht in der Zeit der Pandemie](http://www.vatican.va/content/francesco/de/homilies/2020/documents/papa-francesco_20200327_omelia-epidemia.html)* (27. März 2020): *L’Osservatore Romano* (dt.), Jg. 50 (2020), Nr. 14/15 (3. April 2020), S. 6.
+6\. *[Besondere Andacht in der Zeit der Pandemie](http://www.vatican.va/content/francesco/de/homilies/2020/documents/papa-francesco_20200327_omelia-epidemia.html)* (27. März 2020): *L’Osservatore Romano* (dt.), Jg. 50 (2020), Nr. 14/15 (3. April 2020), S. 6.
 
-7. *In Matth. Hom.*, V, 3: *PG* 57, 58.
+7\. *In Matth. Hom.*, V, 3: *PG* 57, 58.
 
-8. *Homilie* (19. März 1966): *Insegnamenti di Paolo VI*, IV (1966), 110.
+8\. *Homilie* (19. März 1966): *Insegnamenti di Paolo VI*, IV (1966), 110.
 
-9. Vgl. *Das Buch meines Lebens*, 6, 6-8.
+9\. Vgl. *Das Buch meines Lebens*, 6, 6-8.
 
-10. Seit mehr als vierzig Jahren bete ich jeden Tag nach den Laudes ein Gebet zum heiligen Josef, das einem französischen Andachtsbuch der Kongregation der Barmherzigen Schwestern von Jesus und Maria aus dem 19. Jahrhundert entnommen ist. Dieses Gebet bringt dem heiligen Josef Verehrung und Vertrauen entgegen, fordert ihn aber auch ein wenig heraus: »Heiliger Josef, glorreicher Patriarch, der du das Unmögliche möglich machen kannst, komm mir in meiner Not und Bedrängnis zu Hilfe. Gewähre in den ernsten und schwierigen Anliegen, die ich dir anvertraue, deinen Schutz, sodass alles ein glückliches Ende nimmt. Mein geliebter Vater, ich setze mein ganzes Vertrauen in dich. Niemand soll sagen können, er habe dich vergeblich angerufen, und da du bei Jesus und Maria alles erwirken kannst, lass mich erfahren, dass deine Güte ebenso groß ist wie deine Macht. Amen.«
+10\. Seit mehr als vierzig Jahren bete ich jeden Tag nach den Laudes ein Gebet zum heiligen Josef, das einem französischen Andachtsbuch der Kongregation der Barmherzigen Schwestern von Jesus und Maria aus dem 19. Jahrhundert entnommen ist. Dieses Gebet bringt dem heiligen Josef Verehrung und Vertrauen entgegen, fordert ihn aber auch ein wenig heraus: »Heiliger Josef, glorreicher Patriarch, der du das Unmögliche möglich machen kannst, komm mir in meiner Not und Bedrängnis zu Hilfe. Gewähre in den ernsten und schwierigen Anliegen, die ich dir anvertraue, deinen Schutz, sodass alles ein glückliches Ende nimmt. Mein geliebter Vater, ich setze mein ganzes Vertrauen in dich. Niemand soll sagen können, er habe dich vergeblich angerufen, und da du bei Jesus und Maria alles erwirken kannst, lass mich erfahren, dass deine Güte ebenso groß ist wie deine Macht. Amen.«
 
-11. Vgl. *Dtn* 4,31; *Ps* 69,17; 78,38; 86,5; 111,4; 116,5; *Jer* 31,20.
+11\. Vgl. *Dtn* 4,31; *Ps* 69,17; 78,38; 86,5; 111,4; 116,5; *Jer* 31,20.
 
-12. Vgl. Apostolisches Schreiben *[Evangelii gaudium](http://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24. November 2013), [88](http://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Ja_zu_den_neuen,_von_Jesus_Christus_gebildeten_Beziehungen); [288](http://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Der_Stern_der_neuen_Evangelisierung): *AAS* 105 (2013), 1057; 1136-1137.
+12\. Vgl. Apostolisches Schreiben *[Evangelii gaudium](http://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24. November 2013), [88](http://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Ja_zu_den_neuen,_von_Jesus_Christus_gebildeten_Beziehungen); [288](http://www.vatican.va/content/francesco/de/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Der_Stern_der_neuen_Evangelisierung): *AAS* 105 (2013), 1057; 1136-1137.
 
-13. Vgl. *Gen* 20,3; 28,12; 31,11.24; 40,8; 41,1-32; *Num* 12,6; *1 Sam* 3,3-10; *Dan* 2 u. 4; *Ijob* 33,15.
+13\. Vgl. *Gen* 20,3; 28,12; 31,11.24; 40,8; 41,1-32; *Num* 12,6; *1 Sam* 3,3-10; *Dan* 2 u. 4; *Ijob* 33,15.
 
-14. In diesen Fällen war sogar die Steinigung vorgesehen (vgl. *Dtn* 22,20-21).
+14\. In diesen Fällen war sogar die Steinigung vorgesehen (vgl. *Dtn* 22,20-21).
 
-15. Vgl. *Lev* 12,1-8; *Ex* 13,2.
+15\. Vgl. *Lev* 12,1-8; *Ex* 13,2.
 
-16. Vgl. *Mt* 26,39; *Mk* 14,36; *Lk* 22,42.
+16\. Vgl. *Mt* 26,39; *Mk* 14,36; *Lk* 22,42.
 
-17. Johannes Paul II., Apostolisches Schreiben *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15. August 1989), 8: *AAS* 82 (1990), 14.
+17\. Johannes Paul II., Apostolisches Schreiben *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15. August 1989), 8: *AAS* 82 (1990), 14.
 
-18. *[Homilie in der heiligen Messe mit Seligsprechungen](http://www.vatican.va/content/francesco/de/homilies/2017/documents/papa-francesco_20170908_omelia-viaggioapostolico-colombiavillavicencio.html)*[, Villavicencio - Kolumbien](http://www.vatican.va/content/francesco/de/homilies/2017/documents/papa-francesco_20170908_omelia-viaggioapostolico-colombiavillavicencio.html) (8. September 2017): *AAS* 109 (2017), 1061.
+18\. *[Homilie in der heiligen Messe mit Seligsprechungen](http://www.vatican.va/content/francesco/de/homilies/2017/documents/papa-francesco_20170908_omelia-viaggioapostolico-colombiavillavicencio.html)*[, Villavicencio - Kolumbien](http://www.vatican.va/content/francesco/de/homilies/2017/documents/papa-francesco_20170908_omelia-viaggioapostolico-colombiavillavicencio.html) (8. September 2017): *AAS* 109 (2017), 1061.
 
-19. *Enchiridion de fide, spe et caritate*, 3,11: *PL* 40, 236.
+19\. *Enchiridion de fide, spe et caritate*, 3,11: *PL* 40, 236.
 
-20. Vgl. *Dtn* 10,19; *Ex* 22,20-22; *Lk* 10,29-37.
+20\. Vgl. *Dtn* 10,19; *Ex* 22,20-22; *Lk* 10,29-37.
 
-21. Vgl.S. Rituum Congreg., *Quemadmodum Deus* (8. Dezember 1870): *ASS* 6 (1870-71), 193; Pius IX., Apostolisches Schreiben *Inclytum Patriarcham* (7. Juli 1871): *l.c.*, 324-327.
+21\. Vgl.S. Rituum Congreg., *Quemadmodum Deus* (8. Dezember 1870): *ASS* 6 (1870-71), 193; Pius IX., Apostolisches Schreiben *Inclytum Patriarcham* (7. Juli 1871): *l.c.*, 324-327.
 
-22. Zweites Vatikanisches Ökumenisches Konzil, Dogmatische Konstitution *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, 58.
+22\. Zweites Vatikanisches Ökumenisches Konzil, Dogmatische Konstitution *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, 58.
 
-23. Vgl. *Katechismus der Katholischen Kirche*, 963-970.
+23\. Vgl. *Katechismus der Katholischen Kirche*, 963-970.
 
-24. Originalausgabe: *Cień Ojca*, Warschau 1977.
+24\. Originalausgabe: *Cień Ojca*, Warschau 1977.
 
-25. Vgl. Johannes Paul II., Apostolisches Schreiben *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)*, 7-8: *AAS* 82 (1990), 12-16.
+25\. Vgl. Johannes Paul II., Apostolisches Schreiben *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/de/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)*, 7-8: *AAS* 82 (1990), 12-16.
 
-26. Vgl. *Gen* 18,23-32.
+26\. Vgl. *Gen* 18,23-32.
 
-27. Vgl. *Ex* 17,8-13; 32,30-35.
+27\. Vgl. *Ex* 17,8-13; 32,30-35.
 
-28. Zweites Vatikanisches Ökumenisches Konzil, Dogmatische Konstitution *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, 42.
+28\. Zweites Vatikanisches Ökumenisches Konzil, Dogmatische Konstitution *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_ge.html)*, 42.
 
-29. Vgl. *1 Kor* 11,1; *Phil* 3,17; *1 Thess* 1,6.
+29\. Vgl. *1 Kor* 11,1; *Phil* 3,17; *1 Thess* 1,6.
 
-30. *Confessiones*, 8, 11,27: *PL* 32, 761; 10, 27,38: *PL* 32,795.
+30\. *Confessiones*, 8, 11,27: *PL* 32, 761; 10, 27,38: *PL* 32,795.

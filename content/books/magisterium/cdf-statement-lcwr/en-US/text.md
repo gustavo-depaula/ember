@@ -18,6 +18,6 @@ April 18, 2012.
 
 ------------------------------------------------------------------------
 
-3. Pope Benedict XVI, Apostolic Letter *[Porta Fidei](/holy_father/benedict_xvi/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei_en.html)*, no. 6.
+3\. Pope Benedict XVI, Apostolic Letter *[Porta Fidei](/holy_father/benedict_xvi/motu_proprio/documents/hf_ben-xvi_motu-proprio_20111011_porta-fidei_en.html)*, no. 6.
 
-4. Congregation for the Doctrine of the Faith, [*Note with pastoral recommendations for the Year of Faith*](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_en.html)*.*
+4\. Congregation for the Doctrine of the Faith, [*Note with pastoral recommendations for the Year of Faith*](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20120106_nota-anno-fede_en.html)*.*

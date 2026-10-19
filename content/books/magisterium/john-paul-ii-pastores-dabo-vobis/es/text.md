@@ -1515,4 +1515,4 @@ oh Madre de los sacerdotes. Amén.
 
 [^233]: Cf. *Proposición* 40.
 
-229. Cf. *Proposición* 36.
+229\. Cf. *Proposición* 36.

@@ -174,62 +174,62 @@ François
 
 ------------------------------------------------------------------------
 
-1. *Lc* 4, 22 ; *Jn* 6, 42 ; cf. *Mt* 13, 55 ; *Mc* 6, 3.
+1\. *Lc* 4, 22 ; *Jn* 6, 42 ; cf. *Mt* 13, 55 ; *Mc* 6, 3.
 
-2. S. Rituum Congreg., *Quemadmodum Deus*, (8 décembre 1870): *Pii IX P.M. Acta*, pars I, vol. V, 283.
+2\. S. Rituum Congreg., *Quemadmodum Deus*, (8 décembre 1870): *Pii IX P.M. Acta*, pars I, vol. V, 283.
 
-3. Cf. *Discours aux ACLI à l’occasion de la Solennité de saint Joseph Artisan (1^(er) mai 1955) : AAS* 47 (1995), p. 406.
+3\. Cf. *Discours aux ACLI à l’occasion de la Solennité de saint Joseph Artisan (1^(er) mai 1955) : AAS* 47 (1995), p. 406.
 
-4. Exhort. ap*. [Redemptoris custos](http://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15 août 1989) : *AAS* 82 (1990), pp. 5-34.
+4\. Exhort. ap*. [Redemptoris custos](http://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15 août 1989) : *AAS* 82 (1990), pp. 5-34.
 
-5. *Catéchisme de l’Église Catholique*, n. 1014.
+5\. *Catéchisme de l’Église Catholique*, n. 1014.
 
-6. *[Méditation en période de pandémie](http://www.vatican.va/content/francesco/fr/homilies/2020/documents/papa-francesco_20200327_omelia-epidemia.html)* (27 mars 2020) : *L’Osservatore Romano*, éd. en langue française (31 mars 2020), p. 5.
+6\. *[Méditation en période de pandémie](http://www.vatican.va/content/francesco/fr/homilies/2020/documents/papa-francesco_20200327_omelia-epidemia.html)* (27 mars 2020) : *L’Osservatore Romano*, éd. en langue française (31 mars 2020), p. 5.
 
-7. *In Matth. Hom.,* V, 3 : PG 57, 58.
+7\. *In Matth. Hom.,* V, 3 : PG 57, 58.
 
-8. *Homélie* (19 mars 1966) : *Enseignements de Paul VI*, IV (1966), p. 110.
+8\. *Homélie* (19 mars 1966) : *Enseignements de Paul VI*, IV (1966), p. 110.
 
-9. Cf. *Livre de la vie*, 6, 6-8.
+9\. Cf. *Livre de la vie*, 6, 6-8.
 
-10. Tous les jours, depuis plus de quarante ans, après les Laudes, je récite une prière à saint Joseph tirée d’un livre français de dévotions des années 1800, de la Congrégation des Religieuses de Jésus et Marie, qui exprime dévotion, confiance et un certain défi à saint Joseph : « Glorieux Patriarche saint Joseph dont la puissance sait rendre possibles les choses impossibles, viens à mon aide en ces moments d’angoisse et de difficulté. Prends sous ta protection les situations si graves et difficiles que je te recommande, afin qu'elles aient une heureuse issue. Mon bien-aimé Père, toute ma confiance est en toi. Qu'il ne soit pas dit que je t’ai invoqué en vain, et puisque tu peux tout auprès de Jésus et de Marie, montre-moi que ta bonté est aussi grande que ton pouvoir. Amen ».
+10\. Tous les jours, depuis plus de quarante ans, après les Laudes, je récite une prière à saint Joseph tirée d’un livre français de dévotions des années 1800, de la Congrégation des Religieuses de Jésus et Marie, qui exprime dévotion, confiance et un certain défi à saint Joseph : « Glorieux Patriarche saint Joseph dont la puissance sait rendre possibles les choses impossibles, viens à mon aide en ces moments d’angoisse et de difficulté. Prends sous ta protection les situations si graves et difficiles que je te recommande, afin qu'elles aient une heureuse issue. Mon bien-aimé Père, toute ma confiance est en toi. Qu'il ne soit pas dit que je t’ai invoqué en vain, et puisque tu peux tout auprès de Jésus et de Marie, montre-moi que ta bonté est aussi grande que ton pouvoir. Amen ».
 
-11. Cf. *Dt* 4, 31 ; *Ps* 69, 17 ; 78, 38 ; 86, 5; 111, 4 ; 116, 5 ; *Jr* 31, 20.
+11\. Cf. *Dt* 4, 31 ; *Ps* 69, 17 ; 78, 38 ; 86, 5; 111, 4 ; 116, 5 ; *Jr* 31, 20.
 
-12. Cf. Exhort. ap. *[Evangelii gaudium](http://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 novembre 2013), nn. [88](http://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Oui_aux_relations_nouvelles_engendrées_par_Jésus_Christ).[288](http://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#L’étoile_de_la_nouvelle_évangélisation).
+12\. Cf. Exhort. ap. *[Evangelii gaudium](http://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html)* (24 novembre 2013), nn. [88](http://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#Oui_aux_relations_nouvelles_engendrées_par_Jésus_Christ).[288](http://www.vatican.va/content/francesco/fr/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html#L’étoile_de_la_nouvelle_évangélisation).
 
-13. Cf. *Gn* 20,3 ; 28, 12 ; 31, 11.24 ; 40, 8 ; 41, 1-32 ; *Nb* 12, 6 ; *1S* 3, 3-10 ; *Dn* 2 ; 4 ; *Jb* 33, 15.
+13\. Cf. *Gn* 20,3 ; 28, 12 ; 31, 11.24 ; 40, 8 ; 41, 1-32 ; *Nb* 12, 6 ; *1S* 3, 3-10 ; *Dn* 2 ; 4 ; *Jb* 33, 15.
 
-14. La lapidation était aussi prévue dans ces cas (cf. *Dt* 22, 20-21).
+14\. La lapidation était aussi prévue dans ces cas (cf. *Dt* 22, 20-21).
 
-15. Cf. *Lv* 12, 1-8 ; *Ex* 13, 2.
+15\. Cf. *Lv* 12, 1-8 ; *Ex* 13, 2.
 
-16. Cf. *Mt* 26, 39 ; *Mc* 14, 36 ; *Lc* 22, 42.
+16\. Cf. *Mt* 26, 39 ; *Mc* 14, 36 ; *Lc* 22, 42.
 
-17. S. Jean-Paul II, Exhort. ap*. [Redemptoris custos](http://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15 août 1989), n. 8 : *AAS* 82 (1990), p. 14.
+17\. S. Jean-Paul II, Exhort. ap*. [Redemptoris custos](http://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)* (15 août 1989), n. 8 : *AAS* 82 (1990), p. 14.
 
-18. *[Homélie de la Sainte Messe avec Béatifications](http://www.vatican.va/content/francesco/fr/homilies/2017/documents/papa-francesco_20170908_omelia-viaggioapostolico-colombiavillavicencio.html)*, Villavicencio - Colombie (8 septembre 2017) : *L’Osservatore Romano*, éd. en langue française (14 septembre 2017), p. 12 : *AAS* 109 (2017), p. 1061.
+18\. *[Homélie de la Sainte Messe avec Béatifications](http://www.vatican.va/content/francesco/fr/homilies/2017/documents/papa-francesco_20170908_omelia-viaggioapostolico-colombiavillavicencio.html)*, Villavicencio - Colombie (8 septembre 2017) : *L’Osservatore Romano*, éd. en langue française (14 septembre 2017), p. 12 : *AAS* 109 (2017), p. 1061.
 
-19. *Enchiridion de fide, spe et caritate*, 3,11 : *PL* 40, p. 236.
+19\. *Enchiridion de fide, spe et caritate*, 3,11 : *PL* 40, p. 236.
 
-20. Cf. *Dt* 10, 19 ; *Ex* 22, 20-22 ; *Lc* 10, 29-37.
+20\. Cf. *Dt* 10, 19 ; *Ex* 22, 20-22 ; *Lc* 10, 29-37.
 
-21. Cf. S. Rituum Congreg., *Quemadmodum Deus* (8 décembre 1870) : *AAS* (1870-71), p. 194.
+21\. Cf. S. Rituum Congreg., *Quemadmodum Deus* (8 décembre 1870) : *AAS* (1870-71), p. 194.
 
-22. Conc. Œcum Vat. II, Const. dogm. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html)*, n. 58.
+22\. Conc. Œcum Vat. II, Const. dogm. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html)*, n. 58.
 
-23. *Catéchisme de l’Église Catholique*, nn. 963-970.
+23\. *Catéchisme de l’Église Catholique*, nn. 963-970.
 
-24. Edition originale : *Cień Ojca*, Warszawa 1977.
+24\. Edition originale : *Cień Ojca*, Warszawa 1977.
 
-25. Cf. S. Jean-Paul II, Exhort. ap. *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)*, nn. 7-8 : *AAS* 82 (1990), pp. 12-16.
+25\. Cf. S. Jean-Paul II, Exhort. ap. *[Redemptoris custos](http://www.vatican.va/content/john-paul-ii/fr/apost_exhortations/documents/hf_jp-ii_exh_15081989_redemptoris-custos.html)*, nn. 7-8 : *AAS* 82 (1990), pp. 12-16.
 
-26. Cf. *Gn* 18, 23-32.
+26\. Cf. *Gn* 18, 23-32.
 
-27. Cf. *Ex* 17, 8-13 ; 32, 30-35.
+27\. Cf. *Ex* 17, 8-13 ; 32, 30-35.
 
-28. Conc. Œcum Vat. II, Const. dogm. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html)*, n. 42.
+28\. Conc. Œcum Vat. II, Const. dogm. *[Lumen gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_fr.html)*, n. 42.
 
-29. Cf. 1 *Co* 11, 1 ; *Ph* 3, 17 ; 1 *Th* 1, 6.
+29\. Cf. 1 *Co* 11, 1 ; *Ph* 3, 17 ; 1 *Th* 1, 6.
 
-30. *Les Confessions*, 8, 11, 27 : PL 32, 761 ; 10, 27, 38 : PL 32, 795.
+30\. *Les Confessions*, 8, 11, 27 : PL 32, 761 ; 10, 27, 38 : PL 32, 795.

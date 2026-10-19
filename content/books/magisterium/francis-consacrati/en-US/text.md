@@ -139,7 +139,7 @@ Lastly, I join all of you in gratitude for the gifts of grace and light with whi
 
 ------------------------------------------------------------------------
 
-17. Apostolic Letter to the Religious of Latin America on the occasion of the Fifth Centenary of the Evangelization of the New World *Los caminos del Evangelio* (29 June 1990), 26.
+17\. Apostolic Letter to the Religious of Latin America on the occasion of the Fifth Centenary of the Evangelization of the New World *Los caminos del Evangelio* (29 June 1990), 26.
 
 [\[2\]](#_ftnref2) SACRED CONGREGATION FOR RELIGIOUS AND SECULAR INSTITUTES, *[Religious and Human Promotion](http://www.vatican.va/roman_curia/congregations/ccscrlife/documents/rc_con_ccscrlife_doc_12081980_religious-and-human-promotion_en.html)* (12 August 1980), 24: *L’Osservatore Romano*, Suppl., 12 November 1980, pp. I-VIII.
 

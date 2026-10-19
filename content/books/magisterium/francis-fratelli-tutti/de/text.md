@@ -1431,4 +1431,4 @@ der einen Menschheit sind, die du liebst. Amen.
 
 [^288]: Ders., *Lettre à Madame de Bondy* (7. Januar 1902). So nannte ihn auch der heilige Paul VI. und lobte sein Engagement: Enzyklika *[Populorum progressio](http://www.vatican.va/content/paul-vi/de/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html)* (26. März 1967), 12: *AAS* 59 (1967), 263.
 
-233. *[Rede am Friedensdenkmal](http://www.vatican.va/content/francesco/de/messages/pont-messages/2019/documents/papa-francesco_20191124_messaggio-incontropace-hiroshima.html)*, Hiroshima, Japan (24. November 2019): *LʼOsservatore Romano* (dt.), Jg. 49 (2019), Nr. 48/49 (29. November 2019), S. 15
+233\. *[Rede am Friedensdenkmal](http://www.vatican.va/content/francesco/de/messages/pont-messages/2019/documents/papa-francesco_20191124_messaggio-incontropace-hiroshima.html)*, Hiroshima, Japan (24. November 2019): *LʼOsservatore Romano* (dt.), Jg. 49 (2019), Nr. 48/49 (29. November 2019), S. 15

@@ -269,8 +269,8 @@ Queremos que cuanto aquí hemos establecido y prescrito quede firme y eficaz aho
 
 [^50]: Cf. *Ef* 5, 27.
 
-3. Cf. *Gn* 3, 16-19; cf., también, *Lc* 19,41-44; *Rm* 2,9 y *1Cor* 11, 30; cf. S. Agustín, *Enarratio in psalmum* 58, 1, 13: *CCL* 39, p. 739, PL. 36,701; cf. Sto. Tomás, *Summa Theologica*, I-II, q. 87, a. 1.
+3\. Cf. *Gn* 3, 16-19; cf., también, *Lc* 19,41-44; *Rm* 2,9 y *1Cor* 11, 30; cf. S. Agustín, *Enarratio in psalmum* 58, 1, 13: *CCL* 39, p. 739, PL. 36,701; cf. Sto. Tomás, *Summa Theologica*, I-II, q. 87, a. 1.
 
-51. *Ef* 4, 13.
+51\. *Ef* 4, 13.
 
-52. Cf. Sto. Tomás, *In IV Sententiarum*, dist. 20, q. 1 a.3, q. la 2, ad. 2 (*Summa Theologica*. Supplementum, q. 25, a. 2, ad 2).
+52\. Cf. Sto. Tomás, *In IV Sententiarum*, dist. 20, q. 1 a.3, q. la 2, ad. 2 (*Summa Theologica*. Supplementum, q. 25, a. 2, ad 2).

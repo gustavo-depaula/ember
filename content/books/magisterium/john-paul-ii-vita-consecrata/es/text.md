@@ -1591,4 +1591,4 @@ que es Padre, Hijo y Espíritu Santo.
 
 [^263]: Conc. Ecum. Vat. II, Const. dogm. *[Lumen Gentium](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_sp.html)*, sobre la Iglesia, 64.
 
-233. Conc. Ecum. Vat. II, Const. dogm. *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html)*, sobre la divina revelación, 2.
+233\. Conc. Ecum. Vat. II, Const. dogm. *[Dei Verbum](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_sp.html)*, sobre la divina revelación, 2.

@@ -394,4 +394,4 @@ DO SANTO CURA D'ARS
 
 [^95]: Cf. *Ibid*. t. 227, p.1021.
 
-77. Cf. *Discurso* de 16 de março de 1946: *AAS* 38 (1946), p.186.
+77\. Cf. *Discurso* de 16 de março de 1946: *AAS* 38 (1946), p.186.

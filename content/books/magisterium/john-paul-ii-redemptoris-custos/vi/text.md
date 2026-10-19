@@ -228,100 +228,100 @@ Nguyện xin Thánh Giuse giúp cho Giáo hội và thế giới, cũng như cho
 
 \[1\] Cf. Thánh Irênêô, *Adversus haereses,* IV, 23, 1: S. Ch. 100/2, pp. 692-694.
 
-2. Lêô XIII, Thông điệp *Quamquam pluries *(15/8/1889): *Leonis XIII P.M. Acta*, IX (1890), pp. 175-182.
+2\. Lêô XIII, Thông điệp *Quamquam pluries *(15/8/1889): *Leonis XIII P.M. Acta*, IX (1890), pp. 175-182.
 
-3. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): *Pii IX P.M. Acta*, pars I, vol. V, p. 282; Piô IX, Tông thư *Inclytum Patriarcham* (7/7/1871): loc. cit., pp. 331-335.
+3\. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): *Pii IX P.M. Acta*, pars I, vol. V, p. 282; Piô IX, Tông thư *Inclytum Patriarcham* (7/7/1871): loc. cit., pp. 331-335.
 
-4. Cf. Thánh Gioan Kim Khẩu, trong *Matth. Hom*. V, 3: PG 57, 57f. Dựa vào việc trùng tên, các Giáo phụ và các Đức giáo hoàng đã coi ông Giuse ở Ai cập là nguyên mẫu của Thánh Giuse ở Nadarét, bởi vì một cách nào đó, ông Giuse ở Ai cập đã báo trước sứ vụ và sự cao cả của Thánh Giuse, là Đấng gìn giữ những kho tàng quý báu nhất của Thiên Chúa Cha, đó là Ngôi Lời Nhập Thể và Mẹ Rất thánh của Ngôi Lời: cf., chẳng hạn, Thánh Bênađô, *Super “Missus est,”* Hom. II, 16: S. Bernardi Opera, Ed. Cist., IV, 33f.; Lêô XIII, Thông điệp *Quamquam pluries *(15/8/1889): loc. cit., p. 179.
+4\. Cf. Thánh Gioan Kim Khẩu, trong *Matth. Hom*. V, 3: PG 57, 57f. Dựa vào việc trùng tên, các Giáo phụ và các Đức giáo hoàng đã coi ông Giuse ở Ai cập là nguyên mẫu của Thánh Giuse ở Nadarét, bởi vì một cách nào đó, ông Giuse ở Ai cập đã báo trước sứ vụ và sự cao cả của Thánh Giuse, là Đấng gìn giữ những kho tàng quý báu nhất của Thiên Chúa Cha, đó là Ngôi Lời Nhập Thể và Mẹ Rất thánh của Ngôi Lời: cf., chẳng hạn, Thánh Bênađô, *Super “Missus est,”* Hom. II, 16: S. Bernardi Opera, Ed. Cist., IV, 33f.; Lêô XIII, Thông điệp *Quamquam pluries *(15/8/1889): loc. cit., p. 179.
 
-5. *Lumen Gentium*, 58.
+5\. *Lumen Gentium*, 58.
 
-6. Cf. ibid., 63.
+6\. Cf. ibid., 63.
 
-7. *Dei Verbum*, 5.
+7\. *Dei Verbum*, 5.
 
-8. Ibid., 2.
+8\. Ibid., 2.
 
-9. Cf. *Lumen Gentium*, 63.
+9\. Cf. *Lumen Gentium*, 63.
 
-10. *Dei Verbum*, 2.
+10\. *Dei Verbum*, 2.
 
-11. Thánh bộ Lễ nghi, Sắc lệnh *Novis hisce temporibus *(13/11/1962): AAS 54 (1962), p. 873.
+11\. Thánh bộ Lễ nghi, Sắc lệnh *Novis hisce temporibus *(13/11/1962): AAS 54 (1962), p. 873.
 
-12. Thánh Augustinô, *Sermo* 51, 10, 16: PL 38, 342.
+12\. Thánh Augustinô, *Sermo* 51, 10, 16: PL 38, 342.
 
-13. Thánh Augustinô, *De nuptiis et concupiscentia*, I, 11, 12: PL 44, 421; cf. *De consensu evangelistarum*, II, 1, 2: PL 34, 1071; *Contra Faustum*, III, 2: PL 42, 214.
+13\. Thánh Augustinô, *De nuptiis et concupiscentia*, I, 11, 12: PL 44, 421; cf. *De consensu evangelistarum*, II, 1, 2: PL 34, 1071; *Contra Faustum*, III, 2: PL 42, 214.
 
-14. Thánh Augustinô, *De nuptiis et concupiscentia*, I, 11, 13: PL 44, 421; cf. *Contra Iulianum*, V, 12, 46: PL 44, 810.
+14\. Thánh Augustinô, *De nuptiis et concupiscentia*, I, 11, 13: PL 44, 421; cf. *Contra Iulianum*, V, 12, 46: PL 44, 810.
 
-15. Cf. Thánh Augustinô, *Contra Faustum*, XXIII, 8: PL 42, 470f.; *De consensu evangelistarum*, II, 1, 3: PL 34, 1072; Sermo, 51, 13, 21: PL 38, 344f.; Thánh Tôma, Tổng luận thần học, III, q. 29, a. 2 in conclus.
+15\. Cf. Thánh Augustinô, *Contra Faustum*, XXIII, 8: PL 42, 470f.; *De consensu evangelistarum*, II, 1, 3: PL 34, 1072; Sermo, 51, 13, 21: PL 38, 344f.; Thánh Tôma, Tổng luận thần học, III, q. 29, a. 2 in conclus.
 
-16. Cf. *Diễn văn* ngày 9 và 16/01/1980, ngày 20/2/1980: Insegnamenti, III/I (1980), pp. 88-92; 148-152; 428-431.
+16\. Cf. *Diễn văn* ngày 9 và 16/01/1980, ngày 20/2/1980: Insegnamenti, III/I (1980), pp. 88-92; 148-152; 428-431.
 
-17. Phaolô VI, *Diễn văn với Phong trào “Equipes Notre-Dame”* (4/5/1970), n. 7: AAS 62 (1970), p. 431. Có thể thấy những lời tương tự, ca tụng Thánh gia Nadarét như mẫu gương tuyệt hảo của gia đình, chẳng hạn, trong Lêô XIII, Tông thư *Neminem fugit* (14/6/1892); *Leonis XIII PM. Acta, XII* (1892), p. 149f.; Bênêđictô XV, Tự sắc *Bonum sane* (25/7/1920): AAS 12 (1920), pp. 313- 317.
+17\. Phaolô VI, *Diễn văn với Phong trào “Equipes Notre-Dame”* (4/5/1970), n. 7: AAS 62 (1970), p. 431. Có thể thấy những lời tương tự, ca tụng Thánh gia Nadarét như mẫu gương tuyệt hảo của gia đình, chẳng hạn, trong Lêô XIII, Tông thư *Neminem fugit* (14/6/1892); *Leonis XIII PM. Acta, XII* (1892), p. 149f.; Bênêđictô XV, Tự sắc *Bonum sane* (25/7/1920): AAS 12 (1920), pp. 313- 317.
 
-18. *Familiaris Consortio* (22/11/1981), 17: AAS 74 (1982), p. 100.
+18\. *Familiaris Consortio* (22/11/1981), 17: AAS 74 (1982), p. 100.
 
-19. Ibid., 49: loc. cit., p. 140; cf. *Lumen Gentium*, 11; *Apostolicam Actuositatem*,11.
+19\. Ibid., 49: loc. cit., p. 140; cf. *Lumen Gentium*, 11; *Apostolicam Actuositatem*,11.
 
-20. *Familiaris Consortio* (22/11/1981), 85: loc. cit., pp. 189f.
+20\. *Familiaris Consortio* (22/11/1981), 85: loc. cit., pp. 189f.
 
-21. Cf. Thánh Gioan Kim Khẩu, trong *Matth. Hom.* V, 3: PG 57, 57f.
+21\. Cf. Thánh Gioan Kim Khẩu, trong *Matth. Hom.* V, 3: PG 57, 57f.
 
-22. Phaolô VI, *Diễn văn* (19/3/1966): Insegnamenti, IV (1966), p. 110.
+22\. Phaolô VI, *Diễn văn* (19/3/1966): Insegnamenti, IV (1966), p. 110.
 
-23. Cf. Sách lễ Rôma, Lời nguyện nhập lễ trong Lễ trọng kính Thánh Giuse, Bạn trăm năm Đức trinh nữ Maria.
+23\. Cf. Sách lễ Rôma, Lời nguyện nhập lễ trong Lễ trọng kính Thánh Giuse, Bạn trăm năm Đức trinh nữ Maria.
 
-24. Cf. ibid., Kinh Tiền tụng trong Lễ trọng kính Thánh Giuse, Bạn trăm năm Đức trinh nữ Maria.
+24\. Cf. ibid., Kinh Tiền tụng trong Lễ trọng kính Thánh Giuse, Bạn trăm năm Đức trinh nữ Maria.
 
-25. Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., p. 178.
+25\. Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., p. 178.
 
-26. Piô XII, *Sứ điệp truyền thanh gửi Học sinh các Trường Công giáo ở Hoa Kỳ* (19/2/1958): AAS 50 (1958), p.174.
+26\. Piô XII, *Sứ điệp truyền thanh gửi Học sinh các Trường Công giáo ở Hoa Kỳ* (19/2/1958): AAS 50 (1958), p.174.
 
-27. Origen, *Bài giảng XIII* trong Lucam, 7: S. Ch. 87, pp 214f.
+27\. Origen, *Bài giảng XIII* trong Lucam, 7: S. Ch. 87, pp 214f.
 
-28. Origen, *Bài giảng XI* trong Lucam, 6: S. Ch. 87, pp. 196f.
+28\. Origen, *Bài giảng XI* trong Lucam, 6: S. Ch. 87, pp. 196f.
 
-29. Cf. Sách lễ Rôma, *Kinh nguyện Thánh Thể I*.
+29\. Cf. Sách lễ Rôma, *Kinh nguyện Thánh Thể I*.
 
-30. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): loc. cit., p. 282.
+30\. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): loc. cit., p. 282.
 
-31. *Collectio Missarum de Beata Maria Virgine, 1,* “Sancta Maria de Nazareth,” Kinh Tiền tụng.
+31\. *Collectio Missarum de Beata Maria Virgine, 1,* “Sancta Maria de Nazareth,” Kinh Tiền tụng.
 
-32. Tông huấn *Familiaris Consortio* (22/11/1981), 16:106. cit., p. 98.
+32\. Tông huấn *Familiaris Consortio* (22/11/1981), 16:106. cit., p. 98.
 
-33. Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., pp. 177f.
+33\. Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., pp. 177f.
 
-34. Cf. Thông điệp *Laborem Exercens* (14/9/1981), 9: AAS 73 (1981), pp. 599f.
+34\. Cf. Thông điệp *Laborem Exercens* (14/9/1981), 9: AAS 73 (1981), pp. 599f.
 
-35. Ibid., 24: loc. cit., p. 638. Trong thời gian gần đây các vị Giáo hoàng luôn trình bày thánh Giuse như “mẫu gương” của các người thợ và các người lao động; Cf., chẳng hạn, Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., p. 180; Bênêđictô XV, Tự sắc *Bonum sane* (25/7/1920): loc. cit., pp. 314-316; Piô XII, Diễn văn (11/3/1945), 4: AAS 37 (1945), p. 72: Diễn văn (1/5/1955): AAS 47 (1955), p. 406; Gioan XXIII, *Sứ điệp truyền thanh* (1/5/1960): AAS 52 (1960), p. 398.
+35\. Ibid., 24: loc. cit., p. 638. Trong thời gian gần đây các vị Giáo hoàng luôn trình bày thánh Giuse như “mẫu gương” của các người thợ và các người lao động; Cf., chẳng hạn, Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., p. 180; Bênêđictô XV, Tự sắc *Bonum sane* (25/7/1920): loc. cit., pp. 314-316; Piô XII, Diễn văn (11/3/1945), 4: AAS 37 (1945), p. 72: Diễn văn (1/5/1955): AAS 47 (1955), p. 406; Gioan XXIII, *Sứ điệp truyền thanh* (1/5/1960): AAS 52 (1960), p. 398.
 
-36. Phaolô VI, Diễn văn (19/3/1969): Insegnamenti, VII (1969), p. 1268.
+36\. Phaolô VI, Diễn văn (19/3/1969): Insegnamenti, VII (1969), p. 1268.
 
-37. Ibid.: loc. cit., p. 1267.
+37\. Ibid.: loc. cit., p. 1267.
 
-38. Cf. Thánh Tôma, *Tổng luận thần học* II-IIae, q. 82, a. 3, ad 2.
+38\. Cf. Thánh Tôma, *Tổng luận thần học* II-IIae, q. 82, a. 3, ad 2.
 
-39. Ibid., III, q. 8, a. 1, ad 1.
+39\. Ibid., III, q. 8, a. 1, ad 1.
 
-40. Cf. Piô XII, Thông điệp *Haurietis aquas* (15/5/1956), III: AAS 48 (1956), pp. 329f.
+40\. Cf. Piô XII, Thông điệp *Haurietis aquas* (15/5/1956), III: AAS 48 (1956), pp. 329f.
 
-41. Cf. Thánh Tôma, *Tổng luận thần học* II-IIae, q. 182, a. 1, ad 3.
+41\. Cf. Thánh Tôma, *Tổng luận thần học* II-IIae, q. 182, a. 1, ad 3.
 
-42. Cf. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): loc. cit., p.283.
+42\. Cf. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): loc. cit., p.283.
 
-43. Ibid.: loc. cit., pp. 282f.
+43\. Ibid.: loc. cit., pp. 282f.
 
-44. Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., pp. 177-179.
+44\. Lêô XIII, Thông điệp *Quamquam pluries* (15/8/1889): loc. cit., pp. 177-179.
 
-45. Tông huấn Hậu Thượng Hội đồng *Christifideles Laici* (30/12/1988), 34: AAS 81 (1989), p. 456.
+45\. Tông huấn Hậu Thượng Hội đồng *Christifideles Laici* (30/12/1988), 34: AAS 81 (1989), p. 456.
 
-46. Công đồng Vatican II, Hiến chế tín lý về Mạc khải *Dei Verbum*, 1.
+46\. Công đồng Vatican II, Hiến chế tín lý về Mạc khải *Dei Verbum*, 1.
 
-47. Phaolô VI, Diễn văn (19/3/1969): Insegnamenti, VII (1969) p. 1269.
+47\. Phaolô VI, Diễn văn (19/3/1969): Insegnamenti, VII (1969) p. 1269.
 
-48. Cf. Sách lễ Rôma, Lời nguyện nhập lễ, Lời nguyện tiến lễ trong Lễ trọng kính Thánh Giuse, Bạn trăm năm Đức trinh nữ Maria; Lời nguyện hiệp lễ trong Lễ nhớ Thánh Giuse.
+48\. Cf. Sách lễ Rôma, Lời nguyện nhập lễ, Lời nguyện tiến lễ trong Lễ trọng kính Thánh Giuse, Bạn trăm năm Đức trinh nữ Maria; Lời nguyện hiệp lễ trong Lễ nhớ Thánh Giuse.
 
-49. Cf. Lêô XIII, “Kinh cầu cùng Thánh Giuse”, sau bản văn của Thông điệp *Quamquam pluries* (15/8/1889): *Leonis XIII P.M. Acta,* IX (1890), p. 183.
+49\. Cf. Lêô XIII, “Kinh cầu cùng Thánh Giuse”, sau bản văn của Thông điệp *Quamquam pluries* (15/8/1889): *Leonis XIII P.M. Acta,* IX (1890), p. 183.
 
-50. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): loc. cit., p. 282.
+50\. Thánh bộ Lễ nghi, Sắc lệnh *Quemadmodum Deus* (8/12/1870): loc. cit., p. 282.

@@ -464,4 +464,4 @@ B\) mulierem, embryonem gestantem, cuius procreationi ipsa proprio contulit ovul
 
 [^65]: \[\] [Ioannes Paulus II](/latin/popes_latin/latin_hf_jpii.html), Adhort. apost. *[Familiaris consortio](/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_19811122_familiaris-consortio_lt.html)*, n. 14, *AAS* 74 (1982), 97.
 
-66. \[\] Cf. Decl. *[Dignitatis humanae](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_lt.html)*, n. 7.
+66\. \[\] Cf. Decl. *[Dignitatis humanae](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651207_dignitatis-humanae_lt.html)*, n. 7.

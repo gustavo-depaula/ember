@@ -396,4 +396,4 @@ Debemos realizar e intensificar este esfuerzo guiados y animados siempre por la 
 
 [^74]: *Ibidem,* I, 2, par. 5.
 
-66. Decreto *[ibidem](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html),* 23, cf. Decreto *[Optatam totius](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sp.html),* 2.
+66\. Decreto *[ibidem](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_sp.html),* 23, cf. Decreto *[Optatam totius](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651028_optatam-totius_sp.html),* 2.

@@ -157,4 +157,4 @@ A todos dou, de coração, a Bênção Apostólica.
 
 [^40]: Discurso sobre as imagens, I, 16, em: PG. 94, 1246A: e ed. Kotter 1, 16, p. 89.
 
-25. Discurso sobre as imagens III, 3, em: PG 94, 1320-1321; e B. Katter, *Die Schriften des Johannes von Damaskos*, vol. III (*Contra imaginum calumniatores orationes tres*), em: "Patristische Texte und Studien" 17, Berlim-Nova Iorque, 1975, III, 3, p. 72-73.
+25\. Discurso sobre as imagens III, 3, em: PG 94, 1320-1321; e B. Katter, *Die Schriften des Johannes von Damaskos*, vol. III (*Contra imaginum calumniatores orationes tres*), em: "Patristische Texte und Studien" 17, Berlim-Nova Iorque, 1975, III, 3, p. 72-73.

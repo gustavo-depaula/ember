@@ -117,4 +117,4 @@ O luminoso pensamento do Papa Pio XI a 19 de março de 1928 segue-nos ainda. Aqu
 
 [^15]: *Discursos de Pio XI*, vol. I, p. 780.
 
-13. *AAS* 47(1955), p. 406.
+13\. *AAS* 47(1955), p. 406.

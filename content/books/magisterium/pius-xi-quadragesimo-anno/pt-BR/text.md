@@ -585,4 +585,4 @@ Para que isto se realize, a todos vós, veneráveis Irmãos e amados Filhos, qua
 
 [^81]: (#fnref81)) *Apoc*., 5, 13.
 
-54. (#fnref54)) Cfr. *Rom*., 13, 1.
+54\. (#fnref54)) Cfr. *Rom*., 13, 1.

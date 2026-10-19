@@ -528,4 +528,4 @@ Enquanto, em certas regiões, uma oligarquia goza de civilização requintada, o
 
 [^68]: Cf. *[Apostolicam Actuositatem](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651118_apostolicam-actuositatem_po.html)*, n. 7, 13 e 24.
 
-69. *Lc* 11, 9.
+69\. *Lc* 11, 9.

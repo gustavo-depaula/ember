@@ -494,4 +494,4 @@ Introduzione: L’ordine nell’universo; l’ordine negli esseri umani. – Par
 
 [^61]: ([61](#fnref61)) Resp. ad Mat., in feria VI infra oct. Paschae.
 
-18. ([18](#fnref18)) Cf. Nuntius radiophonicus, datus pridie Nativ. D.N.I.C. anno 1944: AAS 37(1945), p. 12.
+18\. ([18](#fnref18)) Cf. Nuntius radiophonicus, datus pridie Nativ. D.N.I.C. anno 1944: AAS 37(1945), p. 12.

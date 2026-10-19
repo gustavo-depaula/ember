@@ -379,4 +379,4 @@ Möge der Vater, der Sohn und der Heilige Geist euch dorthin geleiten! Dazu erte
 
 [^79]: *Kor* 13, 6-7.
 
-40. Sequenz von Pfingsten.
+40\. Sequenz von Pfingsten.

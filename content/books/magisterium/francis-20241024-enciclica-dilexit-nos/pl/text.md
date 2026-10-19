@@ -603,456 +603,456 @@ ZAKOŃCZENIE
 
 ------------------------------------------------------------------------
 
-1. Znaczna część refleksji zawartych w tym pierwszym rozdziale została zainspirowana nieopublikowanymi pismami o. Diego Faresa, S.I. Niech Pan da mu udział w swojej świętej chwale.
+1\. Znaczna część refleksji zawartych w tym pierwszym rozdziale została zainspirowana nieopublikowanymi pismami o. Diego Faresa, S.I. Niech Pan da mu udział w swojej świętej chwale.
 
-2. Por. Homer, *Iliada,* XXI, 441, w: *tamże*, tłum. Stanisław Mleczko, Warszawa 1894, s. 422.
+2\. Por. Homer, *Iliada,* XXI, 441, w: *tamże*, tłum. Stanisław Mleczko, Warszawa 1894, s. 422.
 
-3. Por. *tamże*, X, 244, s. 191.
+3\. Por. *tamże*, X, 244, s. 191.
 
-4. Por. *Timajos,* 65 c-d; 70, w: Platon, *Timajos*. *Kritias albo Atlantyk*, tłum. Paweł Siwek, PAN, Warszawa 1986, s. 88-89, 95-96.
+4\. Por. *Timajos,* 65 c-d; 70, w: Platon, *Timajos*. *Kritias albo Atlantyk*, tłum. Paweł Siwek, PAN, Warszawa 1986, s. 88-89, 95-96.
 
-5. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (14 października 2016): *L’Osservatore Romano*, 15 ottobre 2016, s. 8.
+5\. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (14 października 2016): *L’Osservatore Romano*, 15 ottobre 2016, s. 8.
 
-6. Św. Jan Paweł II, *Anioł Pański* (2 lipca 2000): *L’Osservatore Romano*, wyd. polskie, n. 10 (227)/2000, s. 52.
+6\. Św. Jan Paweł II, *Anioł Pański* (2 lipca 2000): *L’Osservatore Romano*, wyd. polskie, n. 10 (227)/2000, s. 52.
 
-7. Tenże, *Katecheza* (8 czerwca 1994): *L’Osservatore Romano*, wyd. polskie, n. 9-10 (166)/1994, s. 19.
+7\. Tenże, *Katecheza* (8 czerwca 1994): *L’Osservatore Romano*, wyd. polskie, n. 9-10 (166)/1994, s. 19.
 
-8. *Biesy*, tłum. Tadeusz Zagórski, Towarzystwo Wydawnicze RÓJ, Warszawa 1928.
+8\. *Biesy*, tłum. Tadeusz Zagórski, Towarzystwo Wydawnicze RÓJ, Warszawa 1928.
 
-9. Romano Guardini, *Il mondo religioso di Dostojevskij*, Brescia 1980, s. 236.
+9\. Romano Guardini, *Il mondo religioso di Dostojevskij*, Brescia 1980, s. 236.
 
-10. Karl Rahner, *Alcune tesi per una teologia della devozione al cuore di Gesù*, w: *Teologia del Cuore di Cristo*, Roma 1995, s. 60.
+10\. Karl Rahner, *Alcune tesi per una teologia della devozione al cuore di Gesù*, w: *Teologia del Cuore di Cristo*, Roma 1995, s. 60.
 
-11. *Tamże,* s. 61.
+11\. *Tamże,* s. 61.
 
-12. Byung-Chul Han, *Heideggers Herz. Zum Begriff der Stimmung bei Martin Heidegger*, München 1996, s. 39.
+12\. Byung-Chul Han, *Heideggers Herz. Zum Begriff der Stimmung bei Martin Heidegger*, München 1996, s. 39.
 
-13. *Tamże*, s. 60; por. s. 176.
+13\. *Tamże*, s. 60; por. s. 176.
 
-14. Por. tenże, *Eros in agonia*, Milano 2019.
+14\. Por. tenże, *Eros in agonia*, Milano 2019.
 
-15. Por. Martin Heidegger, *La poesia di Hölderlin*, Milano 1988, s. 144.
+15\. Por. Martin Heidegger, *La poesia di Hölderlin*, Milano 1988, s. 144.
 
-16. Por. Michel de Certeau, *Lo spazio del desiderio. Gli «Esercizi Spirituali» di Loyola*, w: *Il parlare angelico: figure per una poetica della lingua: secoli XVI e XVII*, Firenze 1989, s. 95-110.
+16\. Por. Michel de Certeau, *Lo spazio del desiderio. Gli «Esercizi Spirituali» di Loyola*, w: *Il parlare angelico: figure per una poetica della lingua: secoli XVI e XVII*, Firenze 1989, s. 95-110.
 
-17. *Itinerarium mentis in Deum,* VII, 6, w: San Bonaventura, *Itinerario della mente in Dio. Riconduzione delle Arti alla Teologia*, Roma 1995, s. 93.
+17\. *Itinerarium mentis in Deum,* VII, 6, w: San Bonaventura, *Itinerario della mente in Dio. Riconduzione delle Arti alla Teologia*, Roma 1995, s. 93.
 
-18. Tenże, *Proemium in I Sent*., q. 3, w: *Opera Omnia*, Quaracchi 1882, vol. 1, s. 13.
+18\. Tenże, *Proemium in I Sent*., q. 3, w: *Opera Omnia*, Quaracchi 1882, vol. 1, s. 13.
 
-19. Św. John Henry Newman, *Rozmyślania i modlitwy. Sen Geroncjusza*, tłum. Zygmunt Kubiak, PAX, Warszawa 1985, s. 111.
+19\. Św. John Henry Newman, *Rozmyślania i modlitwy. Sen Geroncjusza*, tłum. Zygmunt Kubiak, PAX, Warszawa 1985, s. 111.
 
-20. Konst. duszp. o Kościele w świecie współczesnym * Gaudium et spes*, 82.
+20\. Konst. duszp. o Kościele w świecie współczesnym * Gaudium et spes*, 82.
 
-21. *Tamże*, 10.
+21\. *Tamże*, 10.
 
-22. *Tamże,* 14.
+22\. *Tamże,* 14.
 
-23. Por. Dykasteria Nauki Wiary, Deklaracja o godności człowieka *[Dignitas infinita](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html)* (2 kwietnia 2024), 8.
+23\. Por. Dykasteria Nauki Wiary, Deklaracja o godności człowieka *[Dignitas infinita](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html)* (2 kwietnia 2024), 8.
 
-24. Konst. duszp. o Kościele w świecie współczesnym * Gaudiumet spes*, 26.
+24\. Konst. duszp. o Kościele w świecie współczesnym * Gaudiumet spes*, 26.
 
-25. Św. Jan Paweł II, *Anioł Pański* (28 czerwca 1998): *L’Osservatore Romano*, wyd. polskie, n. 10 (206)/1998, s. 56.
+25\. Św. Jan Paweł II, *Anioł Pański* (28 czerwca 1998): *L’Osservatore Romano*, wyd. polskie, n. 10 (206)/1998, s. 56.
 
-26. Enc. *[Laudato si’](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)* (24 maja 2015), 83: *AAS* (2015), 880.
+26\. Enc. *[Laudato si’](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)* (24 maja 2015), 83: *AAS* (2015), 880.
 
-27. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (7 czerwca 2013), w: Franciszek, *Prawda jest spotkaniem*, Znak, Kraków 2019, s. 216.
+27\. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (7 czerwca 2013), w: Franciszek, *Prawda jest spotkaniem*, Znak, Kraków 2019, s. 216.
 
-28. Pius XII, Enc. *Haurietis Aquas* (15 maja 1956), II: *AAS* 48 (1956), 316; Andrea Tessarolo, S.C.I., *Teologia Serca Jezusowego*, Kraków 1997, s. 159.
+28\. Pius XII, Enc. *Haurietis Aquas* (15 maja 1956), II: *AAS* 48 (1956), 316; Andrea Tessarolo, S.C.I., *Teologia Serca Jezusowego*, Kraków 1997, s. 159.
 
-29. Pius VI, Konst. *Auctorem fidei* (28 sierpnia 1794), 63: *DH*, 2663.
+29\. Pius VI, Konst. *Auctorem fidei* (28 sierpnia 1794), 63: *DH*, 2663.
 
-30. Leon XIII, Enc. *Annum Sacrum* (25 maja 1899), 7: *ASS* 31 (1898-99), 649.
+30\. Leon XIII, Enc. *Annum Sacrum* (25 maja 1899), 7: *ASS* 31 (1898-99), 649.
 
-31. *Tamże*: „Inest in Sacro Corde symbolum atque expressa imago infinitae Iesu Christi caritatis”.
+31\. *Tamże*: „Inest in Sacro Corde symbolum atque expressa imago infinitae Iesu Christi caritatis”.
 
-32. *Anioł Pański* (9 czerwca 2013): *L’Osservatore Romano*, wyd. polskie, n. 8-9 (354)/2013, s. 56.
+32\. *Anioł Pański* (9 czerwca 2013): *L’Osservatore Romano*, wyd. polskie, n. 8-9 (354)/2013, s. 56.
 
-33. Można zatem zrozumieć, dlaczego Kościół zakazał umieszczania na ołtarzu samych przedstawień Serca Jezusa lub Maryi (por. Odpowiedź Kongregacji Obrzędów do ks. Carlosa Lecoq, P.S.S., 5 kwietnia 1879 r.: *Decreta authentica Congregationis Sacrorum Rituum nunc primum ex actis ejusdem collecta*, vol. III, 107-108, n. 3492). Poza liturgią, w pobożności prywatnej, można używać symboliki serca jako środka dydaktycznego, estetycznej figury lub emblematu, który zachęca do myślenia o miłości Chrystusa, ale ryzykuje się przyjęcie serca jako przedmiotu adoracji lub duchowego dialogu w oderwaniu od osoby Chrystusa. Dnia 31 marca 1887 r. Kongregacja udzieliła kolejnej podobnej odpowiedzi (*tamże*, 187, n. 3673).
+33\. Można zatem zrozumieć, dlaczego Kościół zakazał umieszczania na ołtarzu samych przedstawień Serca Jezusa lub Maryi (por. Odpowiedź Kongregacji Obrzędów do ks. Carlosa Lecoq, P.S.S., 5 kwietnia 1879 r.: *Decreta authentica Congregationis Sacrorum Rituum nunc primum ex actis ejusdem collecta*, vol. III, 107-108, n. 3492). Poza liturgią, w pobożności prywatnej, można używać symboliki serca jako środka dydaktycznego, estetycznej figury lub emblematu, który zachęca do myślenia o miłości Chrystusa, ale ryzykuje się przyjęcie serca jako przedmiotu adoracji lub duchowego dialogu w oderwaniu od osoby Chrystusa. Dnia 31 marca 1887 r. Kongregacja udzieliła kolejnej podobnej odpowiedzi (*tamże*, 187, n. 3673).
 
-34. Sobór Trydencki, Sesja XXV, Dekr. *Mandat Sancta Synodus* (3 grudnia 1563), w: *Dokumenty Soborów Powszechnych*. *Tekst łaciński i polski*, t. 4/1: (1511-1870) Lateran V, Trydent, Watykan I, oprac. A. Baron, H. Pietras, S.I., Kraków 2004, s. 647.
+34\. Sobór Trydencki, Sesja XXV, Dekr. *Mandat Sancta Synodus* (3 grudnia 1563), w: *Dokumenty Soborów Powszechnych*. *Tekst łaciński i polski*, t. 4/1: (1511-1870) Lateran V, Trydent, Watykan I, oprac. A. Baron, H. Pietras, S.I., Kraków 2004, s. 647.
 
-35. V Konferencja Ogólna Episkopatu Ameryki Łacińskiej i Karaibów, *Dokumentz Aparecidy* (29 czerwca 2007), 259.
+35\. V Konferencja Ogólna Episkopatu Ameryki Łacińskiej i Karaibów, *Dokumentz Aparecidy* (29 czerwca 2007), 259.
 
-36. Enc. *Haurietis Aquas*, II: *AAS* 48 (1956), 323-324; Andrea Tessarolo, S.C.I., dz. cyt., s. 158.
+36\. Enc. *Haurietis Aquas*, II: *AAS* 48 (1956), 323-324; Andrea Tessarolo, S.C.I., dz. cyt., s. 158.
 
-37. *List* 261.3, w: Św. Bazyli, *Listy wybór*, tłum. Włodzimierz Krzyżaniak, PAX, Warszawa 1972, s. 325.
+37\. *List* 261.3, w: Św. Bazyli, *Listy wybór*, tłum. Włodzimierz Krzyżaniak, PAX, Warszawa 1972, s. 325.
 
-38. *In Ioan., Homiliae,* 63, 2: *PG* 59, 350.
+38\. *In Ioan., Homiliae,* 63, 2: *PG* 59, 350.
 
-39. *O wierze \[Do cesarza Gracjana\]*, II, 56, tłum. Ireneusz Bogaszewicz, PAX, Warszawa 1970, s. 58.
+39\. *O wierze \[Do cesarza Gracjana\]*, II, 56, tłum. Ireneusz Bogaszewicz, PAX, Warszawa 1970, s. 58.
 
-40. *Enarratio in Ps.* 87, 3: *PL* 37, 1111.
+40\. *Enarratio in Ps.* 87, 3: *PL* 37, 1111.
 
-41. Por.  *Wykład wiary prawdziwej*, III, 6, tłum. Bronisław Wojkowski, PAX, Warszawa 1969, s. 142.
+41\. Por.  *Wykład wiary prawdziwej*, III, 6, tłum. Bronisław Wojkowski, PAX, Warszawa 1969, s. 142.
 
-42. Olegario González de Cardedal, *La entraña del cristianismo*, Salamanca 2010, s. 70-71.
+42\. Olegario González de Cardedal, *La entraña del cristianismo*, Salamanca 2010, s. 70-71.
 
-43. *Anioł Pański* (1 czerwca 2008): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (305)/2008, s. 43.
+43\. *Anioł Pański* (1 czerwca 2008): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (305)/2008, s. 43.
 
-44. Pius XII, Enc. *Haurietis Aquas* (15 maja 1956), II, 3: *AAS* 48 (1956), 327-328; Andrea Tessarolo, S.C.I., dz. cyt., s. 171.
+44\. Pius XII, Enc. *Haurietis Aquas* (15 maja 1956), II, 3: *AAS* 48 (1956), 327-328; Andrea Tessarolo, S.C.I., dz. cyt., s. 171.
 
-45. *Tamże*, 28: *AAS* 48 (1956), 343-344.
+45\. *Tamże*, 28: *AAS* 48 (1956), 343-344.
 
-46. Benedykt XVI, * Anioł Pański* (1 czerwca 2008): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (305)/2008, s. 43.
+46\. Benedykt XVI, * Anioł Pański* (1 czerwca 2008): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (305)/2008, s. 43.
 
-47. Wigiliusz, Konst. *Inter innumeras sollicitudines* (14 maja 553): *DH*, 420.
+47\. Wigiliusz, Konst. *Inter innumeras sollicitudines* (14 maja 553): *DH*, 420.
 
-48. Sobór w Efezie *,* *Anatematyzmy Cyryla z Aleksandrii*, 8: *DH*, 259; *Dokumenty Soborów Powszechnych (325-787)*, 26, t. 1, WAM, Kraków 2001, s. 155.
+48\. Sobór w Efezie *,* *Anatematyzmy Cyryla z Aleksandrii*, 8: *DH*, 259; *Dokumenty Soborów Powszechnych (325-787)*, 26, t. 1, WAM, Kraków 2001, s. 155.
 
-49. Sobór Konstantynopolitański, Sesja VIII (2 czerwca 553), 9: *DH*, 431; *Breviarium Fidei. Wybór doktrynalnych wypowiedzi Kościoła,* Księgarnia Świętego Wojciecha, Poznań 2007, punkt 138.
+49\. Sobór Konstantynopolitański, Sesja VIII (2 czerwca 553), 9: *DH*, 431; *Breviarium Fidei. Wybór doktrynalnych wypowiedzi Kościoła,* Księgarnia Świętego Wojciecha, Poznań 2007, punkt 138.
 
-50. Św. Jan od Krzyża, *Pieśń duchowa*, Strofa 31, 8, w: tenże, *Dzieła*, Wydawnictwo Karmelitów Bosych, Kraków 1986, s. 675.
+50\. Św. Jan od Krzyża, *Pieśń duchowa*, Strofa 31, 8, w: tenże, *Dzieła*, Wydawnictwo Karmelitów Bosych, Kraków 1986, s. 675.
 
-51. *Tamże,* Strofa 13, 9, w: *Dzieła,* dz. cyt., s. 586.
+51\. *Tamże,* Strofa 13, 9, w: *Dzieła,* dz. cyt., s. 586.
 
-52. *Tamże,* Strofa 13,1, s. 582.
+52\. *Tamże,* Strofa 13,1, s. 582.
 
-53. „Dla nas istnieje tylko jeden Bóg, Ojciec, od którego wszystko pochodzi i dla którego my istniejemy” ( *1 Kor* 8, 6). „Bogu zaś i Ojcu naszemu chwała na wieki wieków! Amen” ( *Flp* 4, 20). „Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy” ( *2 Kor* 1, 3).
+53\. „Dla nas istnieje tylko jeden Bóg, Ojciec, od którego wszystko pochodzi i dla którego my istniejemy” ( *1 Kor* 8, 6). „Bogu zaś i Ojcu naszemu chwała na wieki wieków! Amen” ( *Flp* 4, 20). „Błogosławiony Bóg i Ojciec Pana naszego Jezusa Chrystusa, Ojciec miłosierdzia i Bóg wszelkiej pociechy” ( *2 Kor* 1, 3).
 
-54. List. apost. *Tertio millennio adveniente* (10 listopada 1994), 49: *AAS* 87 (1995), 35.
+54\. List. apost. *Tertio millennio adveniente* (10 listopada 1994), 49: *AAS* 87 (1995), 35.
 
-55. *List do Rzymian*, 7, w: *Pisma Ojców Apostolskich*, *POK*, t. 1, Wyd. Fiszer i Majewski, Księgarnia Uniwersytecka, Poznań 1924, s. 230.
+55\. *List do Rzymian*, 7, w: *Pisma Ojców Apostolskich*, *POK*, t. 1, Wyd. Fiszer i Majewski, Księgarnia Uniwersytecka, Poznań 1924, s. 230.
 
-56. „Niech świat się dowie, że Ja miłuję Ojca” ( *J* 14, 31); „Ja i Ojciec jedno jesteśmy” ( *J* 10, 30); „Ja jestem w Ojcu, a Ojciec we Mnie” ( *J* 14, 10).
+56\. „Niech świat się dowie, że Ja miłuję Ojca” ( *J* 14, 31); „Ja i Ojciec jedno jesteśmy” ( *J* 10, 30); „Ja jestem w Ojcu, a Ojciec we Mnie” ( *J* 14, 10).
 
-57. „Idę do Ojca” ( *pros ton Patéra*: *J* 16, 28); „Ja idę do Ciebie” ( *pros se*: *J* 17, 11).
+57\. „Idę do Ojca” ( *pros ton Patéra*: *J* 16, 28); „Ja idę do Ciebie” ( *pros se*: *J* 17, 11).
 
-58. *„Eis ton kolpon tou Patrós”*.
+58\. *„Eis ton kolpon tou Patrós”*.
 
-59. *Adversus Haereses*, cz. III, rozdz. 18, 1, tłum. ks. Jarosław Brylowski, Bernardinum, Pelplin 2018, s. 267.
+59\. *Adversus Haereses*, cz. III, rozdz. 18, 1, tłum. ks. Jarosław Brylowski, Bernardinum, Pelplin 2018, s. 267.
 
-60. *Komentarz do Ewangelii według św. Jana*, Księga II, *J* 1, 1 B, punkt 17, WAM, Kraków 2003, s. 86.
+60\. *Komentarz do Ewangelii według św. Jana*, Księga II, *J* 1, 1 B, punkt 17, WAM, Kraków 2003, s. 86.
 
-61. *Anioł Pański* (23 czerwca 2002), 1: *L’Osservatore Romano*, wyd. polskie, n. 10-11 (247)/2002, s. 50.
+61\. *Anioł Pański* (23 czerwca 2002), 1: *L’Osservatore Romano*, wyd. polskie, n. 10-11 (247)/2002, s. 50.
 
-62. Św. Jan Paweł II, *Orędzie na stulecie poświęcenia ludzkości Sercu Pana Jezusa* (Warszawa, 11 czerwca 1999, Uroczystość Najśw. Serca Jezusowego), 3, w: Czesław Drążek, S.I., *Jan Paweł II. Serce otwarte dla każdego*, Kraków 2004, s. 47.
+62\. Św. Jan Paweł II, *Orędzie na stulecie poświęcenia ludzkości Sercu Pana Jezusa* (Warszawa, 11 czerwca 1999, Uroczystość Najśw. Serca Jezusowego), 3, w: Czesław Drążek, S.I., *Jan Paweł II. Serce otwarte dla każdego*, Kraków 2004, s. 47.
 
-63. Tenże, *Anioł Pański* (8 czerwca 1986), 4: *L’Osservatore Romano*, wyd. polskie, n. 6 (80)/1986, s. 8.
+63\. Tenże, *Anioł Pański* (8 czerwca 1986), 4: *L’Osservatore Romano*, wyd. polskie, n. 6 (80)/1986, s. 8.
 
-64. *Homilia*, Rzym, Poliklinika Gemelli. Wydział Medycyny Katolickiego Uniwersytetu Najświętszego Serca (27 czerwca 2014): *L’Osservatore Romano*, 29 giugno 2014, s. 7.
+64\. *Homilia*, Rzym, Poliklinika Gemelli. Wydział Medycyny Katolickiego Uniwersytetu Najświętszego Serca (27 czerwca 2014): *L’Osservatore Romano*, 29 giugno 2014, s. 7.
 
-65. *Ef* 1, 5.7; 2, 18; 3, 12.
+65\. *Ef* 1, 5.7; 2, 18; 3, 12.
 
-66. *Ef* 2, 5.6; 4, 15.
+66\. *Ef* 2, 5.6; 4, 15.
 
-67. *Ef* 1, 3.4.6.7.11.13.15; 2, 10.13.21.22; 3, 6.11.21.
+67\. *Ef* 1, 3.4.6.7.11.13.15; 2, 10.13.21.22; 3, 6.11.21.
 
-68. *Orędzie na stulecie poświęcenia ludzkości Sercu Pana Jezusa* (Warszawa, 11 czerwca 1999, Uroczystość Najśw. Serca Jezusowego), 2, w: Czesław Drążek, S.I., dz. cyt., s. 46.
+68\. *Orędzie na stulecie poświęcenia ludzkości Sercu Pana Jezusa* (Warszawa, 11 czerwca 1999, Uroczystość Najśw. Serca Jezusowego), 2, w: Czesław Drążek, S.I., dz. cyt., s. 46.
 
-69. „Serce Boże jest symbolem i żywym obrazem nieskończonej miłości Jezusa Chrystusa, która nas pobudza do odwzajemnienia się również miłością. Dlatego jest rzeczą najzupełniej odpowiednią poświęcenie się temu Najświętszemu Sercu. Poświęcenie zaś takie nie jest niczym innym, jak oddaniem się Jezusowi Chrystusowi. (…) I oto dzisiaj oczom naszym daje się widzieć inny, ze wszech miar pomyślny znak Boży: Najświętsze Serce Jezusa, z zatkniętym u góry krzyżem, jaśniejące wśród płomieni najwspanialszym blaskiem. W nim należy złożyć wszelką nadzieję. W Nim trzeba szukać i od Niego oczekiwać zbawienia wszystkich ludzi” (Enc. *Annum Sacrum* (25 maja 1899), II, 6: *ASS* 31 (1898-99), 649; 651; Andrea Tessarolo, S.C.I., dz. cyt., s. 122, 125).
+69\. „Serce Boże jest symbolem i żywym obrazem nieskończonej miłości Jezusa Chrystusa, która nas pobudza do odwzajemnienia się również miłością. Dlatego jest rzeczą najzupełniej odpowiednią poświęcenie się temu Najświętszemu Sercu. Poświęcenie zaś takie nie jest niczym innym, jak oddaniem się Jezusowi Chrystusowi. (…) I oto dzisiaj oczom naszym daje się widzieć inny, ze wszech miar pomyślny znak Boży: Najświętsze Serce Jezusa, z zatkniętym u góry krzyżem, jaśniejące wśród płomieni najwspanialszym blaskiem. W nim należy złożyć wszelką nadzieję. W Nim trzeba szukać i od Niego oczekiwać zbawienia wszystkich ludzi” (Enc. *Annum Sacrum* (25 maja 1899), II, 6: *ASS* 31 (1898-99), 649; 651; Andrea Tessarolo, S.C.I., dz. cyt., s. 122, 125).
 
-70. „Czyż bowiem w tym, jak najlepiej wróżącym znaku i w tej, z niego wypływającej formie czci nie jest zawarta istota całej religii i o tyle doskonalsza norma życia, ile że tym prędzej doprowadza ona dusze do tym głębszego poznania Chrystusa Pana i o wiele skuteczniej skłania je do tym głębszego ukochania Go i naśladowania?” (Enc. *Miserentissimus Redemptor* (8 maja 1928): *AAS* 20 (1928), 167; Andrea Tessarolo S.C.I., dz. cyt., s. 130).
+70\. „Czyż bowiem w tym, jak najlepiej wróżącym znaku i w tej, z niego wypływającej formie czci nie jest zawarta istota całej religii i o tyle doskonalsza norma życia, ile że tym prędzej doprowadza ona dusze do tym głębszego poznania Chrystusa Pana i o wiele skuteczniej skłania je do tym głębszego ukochania Go i naśladowania?” (Enc. *Miserentissimus Redemptor* (8 maja 1928): *AAS* 20 (1928), 167; Andrea Tessarolo S.C.I., dz. cyt., s. 130).
 
-71. „Widzimy w tym kulcie najwznioślejszy akt religii, który wymaga pełnego i bezwzględnego poświęcenia się miłości Boskiego Zbawiciela, miłości, której Serce zranione jest żywym znakiem i symbolem (…) należy w Nim widzieć nie tylko symbol, ale jakby streszczenie całej tajemnicy naszego odkupienia. (…) Chrystus wyraźnie i w wielokrotnie powtarzanych słowach wskazywał na swoje Serce, jako na znak i zadatek miłosierdzia oraz łask potrzebnych Kościołowi w naszych czasach” (Enc. *Haurietis Acquas* (15 maja 1956), Wstęp; III, 7; IV, 2: *AAS* 48 (1956), 311; 336; 340; Andrea Tessarolo, S.C.I., dz. cyt., s. 149, 182, 188).
+71\. „Widzimy w tym kulcie najwznioślejszy akt religii, który wymaga pełnego i bezwzględnego poświęcenia się miłości Boskiego Zbawiciela, miłości, której Serce zranione jest żywym znakiem i symbolem (…) należy w Nim widzieć nie tylko symbol, ale jakby streszczenie całej tajemnicy naszego odkupienia. (…) Chrystus wyraźnie i w wielokrotnie powtarzanych słowach wskazywał na swoje Serce, jako na znak i zadatek miłosierdzia oraz łask potrzebnych Kościołowi w naszych czasach” (Enc. *Haurietis Acquas* (15 maja 1956), Wstęp; III, 7; IV, 2: *AAS* 48 (1956), 311; 336; 340; Andrea Tessarolo, S.C.I., dz. cyt., s. 149, 182, 188).
 
-72. *Katecheza* (8 czerwca 1994), 2: *L’Osservatore Romano*, wyd. polskie, n. 9-10 (166)/1994, s. 19.
+72\. *Katecheza* (8 czerwca 1994), 2: *L’Osservatore Romano*, wyd. polskie, n. 9-10 (166)/1994, s. 19.
 
-73. *Anioł Pański* (1 czerwca 2008): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (305)/2008, s. 43.
+73\. *Anioł Pański* (1 czerwca 2008): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (305)/2008, s. 43.
 
-74. Enc. *Haurietis Aquas* (15 maja 1956), IV, 4: *AAS* 48 (1956), 344; Andrea Tessarolo, S.C.I., dz. cyt., s. 192.
+74\. Enc. *Haurietis Aquas* (15 maja 1956), IV, 4: *AAS* 48 (1956), 344; Andrea Tessarolo, S.C.I., dz. cyt., s. 192.
 
-75. Por. *tamże*, III, 7:  *AAS* 48 (1956), 336; Andrea Tessarolo, S.C.I., dz. cyt., s. 182.
+75\. Por. *tamże*, III, 7:  *AAS* 48 (1956), 336; Andrea Tessarolo, S.C.I., dz. cyt., s. 182.
 
-76. „Wartość objawień prywatnych różni się zasadniczo od jedynego Objawienia publicznego: to ostatnie wymaga naszej wiary (…); Objawienie prywatne (…) jest to pomoc, którą otrzymujemy, ale nie mamy obowiązku z niej korzystać” (Benedykt XVI, Adhort. apost. *[Verbum Domini](https://www.vatican.va/content/benedict-xvi/pl/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html)* (30 września 2010), 14: *AAS* 102 (2010), 696).
+76\. „Wartość objawień prywatnych różni się zasadniczo od jedynego Objawienia publicznego: to ostatnie wymaga naszej wiary (…); Objawienie prywatne (…) jest to pomoc, którą otrzymujemy, ale nie mamy obowiązku z niej korzystać” (Benedykt XVI, Adhort. apost. *[Verbum Domini](https://www.vatican.va/content/benedict-xvi/pl/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini.html)* (30 września 2010), 14: *AAS* 102 (2010), 696).
 
-77. Enc. *Haurietis Aquas*, IV, 2: *AAS* 48 (1956), 340; Andrea Tessarolo, S.C.I., dz. cyt.,s. 187-188.
+77\. Enc. *Haurietis Aquas*, IV, 2: *AAS* 48 (1956), 340; Andrea Tessarolo, S.C.I., dz. cyt.,s. 187-188.
 
-78. *Tamże*, IV, 4: *AAS* 48 (1956), 344; Andrea Tessarolo, S.C.I., dz. cyt., s. 193.
+78\. *Tamże*, IV, 4: *AAS* 48 (1956), 344; Andrea Tessarolo, S.C.I., dz. cyt., s. 193.
 
-79. *Tamże,* IV, 4: Andrea Tessarolo, S.C.I., dz. cyt., s. 191.
+79\. *Tamże,* IV, 4: Andrea Tessarolo, S.C.I., dz. cyt., s. 191.
 
-80. Adhort. apost. *[C’est la confiance](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/20231015-santateresa-delbambinogesu.html)* (15 października 2023), 20: *L’Osservatore Romano*, 16 ottobre 2023.
+80\. Adhort. apost. *[C’est la confiance](https://www.vatican.va/content/francesco/pl/apost_exhortations/documents/20231015-santateresa-delbambinogesu.html)* (15 października 2023), 20: *L’Osservatore Romano*, 16 ottobre 2023.
 
-81. Św. Teresa od Dzieciątka Jezus, Rękopis A, Folio 83 v., w: tenże, *Pisma,* t. 1, Wydawnictwo Karmelitów Bosych, Kraków 1971, s. 238.
+81\. Św. Teresa od Dzieciątka Jezus, Rękopis A, Folio 83 v., w: tenże, *Pisma,* t. 1, Wydawnictwo Karmelitów Bosych, Kraków 1971, s. 238.
 
-82. Św. S. M. Faustyna Kowalska, *Dzienniczek. Miłosierdzie Boże w duszy mojej*, Zeszyt pierwszy, 22 lutego 1931, 47, w: tenże, *Dzienniczek. Miłosierdzie Boże w duszy mojej*, PROMIC, Warszawa 2018, s. 49.
+82\. Św. S. M. Faustyna Kowalska, *Dzienniczek. Miłosierdzie Boże w duszy mojej*, Zeszyt pierwszy, 22 lutego 1931, 47, w: tenże, *Dzienniczek. Miłosierdzie Boże w duszy mojej*, PROMIC, Warszawa 2018, s. 49.
 
-83. Por. *Mišna Sukkâ* IV, 5. 9.
+83\. Por. *Mišna Sukkâ* IV, 5. 9.
 
-84. *List do Ojca Petera Hansa Kolvenbacha, Przełożonego Generalnego Towarzystwa Jezusowego*, Paray-le-Monial, 5 października 1986 r., w: Czesław Drążek, S.I., dz. cyt., s. 101.
+84\. *List do Ojca Petera Hansa Kolvenbacha, Przełożonego Generalnego Towarzystwa Jezusowego*, Paray-le-Monial, 5 października 1986 r., w: Czesław Drążek, S.I., dz. cyt., s. 101.
 
-85. Euzebiusz z Cezarei, *Historia kościelna*, V, 1, 22, Poznań 1924, s. 198.
+85\. Euzebiusz z Cezarei, *Historia kościelna*, V, 1, 22, Poznań 1924, s. 198.
 
-86. Rufinus, V, 1, 22 in *GCS*, *Eusebius* II, 1, p. 411, 13s.
+86\. Rufinus, V, 1, 22 in *GCS*, *Eusebius* II, 1, p. 411, 13s.
 
-87. Św. Justyn Filozof i Męczennik, *Apologja*. *Dialog z Żydem Tryfonem,* 135, 3, w: *Pisma Ojców Kościoła*, tłum. ks. Arkadiusz Lisiecki, t. IV, Poznań 1926, s. 341.
+87\. Św. Justyn Filozof i Męczennik, *Apologja*. *Dialog z Żydem Tryfonem,* 135, 3, w: *Pisma Ojców Kościoła*, tłum. ks. Arkadiusz Lisiecki, t. IV, Poznań 1926, s. 341.
 
-88. Nowacjan, *O Trójcy Świętej*, XXIX.168, WAM, Kraków 2005, s. 93.
+88\. Nowacjan, *O Trójcy Świętej*, XXIX.168, WAM, Kraków 2005, s. 93.
 
-89. S. Ambrogio, *Enarratio in Psalmum*, I, 33: *PL* 14, 984.
+89\. S. Ambrogio, *Enarratio in Psalmum*, I, 33: *PL* 14, 984.
 
-90. Por. Św. Augustyn, *Homilie na Ewangelie i Pierwszy List Św. Jana*, 61, 6, część II, ATK, Warszawa 1977, s. 113.
+90\. Por. Św. Augustyn, *Homilie na Ewangelie i Pierwszy List Św. Jana*, 61, 6, część II, ATK, Warszawa 1977, s. 113.
 
-91. *Epist. ad Rufinum* 3 *,* 4.3: *PL* 22, 334.
+91\. *Epist. ad Rufinum* 3 *,* 4.3: *PL* 22, 334.
 
-92. *In Cant.Cantic.* 61, 4: *PL* 183, 1072, w: *Ojcowie żywi*, IV, Znak, Kraków 1982, s. 305.
+92\. *In Cant.Cantic.* 61, 4: *PL* 183, 1072, w: *Ojcowie żywi*, IV, Znak, Kraków 1982, s. 305.
 
-93. Por. *Expositio altera super Cantica Canticorum*, c. 1: *PL* 180, 487.
+93\. Por. *Expositio altera super Cantica Canticorum*, c. 1: *PL* 180, 487.
 
-94. Wilhelm z Saint-Thierry, *De natura et dignitate amoris*, 1: *PL* 184, 379.
+94\. Wilhelm z Saint-Thierry, *De natura et dignitate amoris*, 1: *PL* 184, 379.
 
-95. Tenże, *Meditativae Orationes* 8, 6: *PL* 180, 230.
+95\. Tenże, *Meditativae Orationes* 8, 6: *PL* 180, 230.
 
-96. S. Bonaventura, *Lignum vitae. De mysterio passionis, 30, *w: *Opuscoli Spirituali*, 3, Roma 1992 ( *Sancti Bonaventurae Opera*, XIII), s. 245.
+96\. S. Bonaventura, *Lignum vitae. De mysterio passionis, 30, *w: *Opuscoli Spirituali*, 3, Roma 1992 ( *Sancti Bonaventurae Opera*, XIII), s. 245.
 
-97. *Tamże, *47.**
+97\. *Tamże, *47.**
 
-98. *Zwiastun Bożej Miłości*, IV, IV, 4, t. 2, Wydawnictwo Benedyktynów, Tyniec 2007, s. 33.
+98\. *Zwiastun Bożej Miłości*, IV, IV, 4, t. 2, Wydawnictwo Benedyktynów, Tyniec 2007, s. 33.
 
-99. Leon Jan Dehon, S.C.I., *Dyrektorium duchowe Księży Najświętszego Serca Jezusowego*, 7, 77, Warszawa 1997, s. 139.
+99\. Leon Jan Dehon, S.C.I., *Dyrektorium duchowe Księży Najświętszego Serca Jezusowego*, 7, 77, Warszawa 1997, s. 139.
 
-100. Św. Katarzyna ze Sieny, *Dialog*, LXXV, W drodze, Poznań 1987.
+100\. Św. Katarzyna ze Sieny, *Dialog*, LXXV, W drodze, Poznań 1987.
 
-101. Por. np. Angelus Walz, *De veneratione divini cordis Iesu in Ordine Praedicatorum,* Pontificium Institutum Angelicum, Roma, 1937.
+101\. Por. np. Angelus Walz, *De veneratione divini cordis Iesu in Ordine Praedicatorum,* Pontificium Institutum Angelicum, Roma, 1937.
 
-102. Rafael García Herreros, *Vida de* *San Juan Eudes,* Bogotá 1943, s. 42.
+102\. Rafael García Herreros, *Vida de* *San Juan Eudes,* Bogotá 1943, s. 42.
 
-103. *List 51,*  *do Joanny Franciszki Fremoyt de Chantal*, 24 kwietnia 1610 r., w: Św. Franciszek Salezy, *Korespondencja osobista*, Salwator, Kraków 2017, s. 142.
+103\. *List 51,*  *do Joanny Franciszki Fremoyt de Chantal*, 24 kwietnia 1610 r., w: Św. Franciszek Salezy, *Korespondencja osobista*, Salwator, Kraków 2017, s. 142.
 
-104. *Kazanie na II Niedzielę Wielkiego Postu* (20 lutego 1622).
+104\. *Kazanie na II Niedzielę Wielkiego Postu* (20 lutego 1622).
 
-105. *List 781, do św. Joanny Franciszki de Chantal w Uroczystość Wniebowstąpienia 1612 r.*, w: San Francesco di Sales, *Tutte le lettere*, vol. II (1611-1618). Roma 1967, s. 183.
+105\. *List 781, do św. Joanny Franciszki de Chantal w Uroczystość Wniebowstąpienia 1612 r.*, w: San Francesco di Sales, *Tutte le lettere*, vol. II (1611-1618). Roma 1967, s. 183.
 
-106. *List 140, do Marii Amaty di Blonay*, 18 lutego 1618 r.: *tamże*, s. 1056.
+106\. *List 140, do Marii Amaty di Blonay*, 18 lutego 1618 r.: *tamże*, s. 1056.
 
-107. *List 552, do św. Joanny Franciszki de Chantal*, koniec listopada 1609 r.: *tamże*, s. 610.
+107\. *List 552, do św. Joanny Franciszki de Chantal*, koniec listopada 1609 r.: *tamże*, s. 610.
 
-108. *List 573, do św. Joanny Franciszki de Chantal*, ok. 25 lutego 1610 r.: *tamże*, s. 654.
+108\. *List 573, do św. Joanny Franciszki de Chantal*, ok. 25 lutego 1610 r.: *tamże*, s. 654.
 
-109. *Entretien XIV, De la simplicité et prudence religieuse*, t. 6, s. 217.
+109\. *Entretien XIV, De la simplicité et prudence religieuse*, t. 6, s. 217.
 
-110. *List 69, do św. Joanny Franciszki de Chantal*, 10 czerwca 1611 r., w: San Francesco di Sales, *Tutte le lettere*, vol. II (1611-1618), Roma 1967, s. 56.
+110\. *List 69, do św. Joanny Franciszki de Chantal*, 10 czerwca 1611 r., w: San Francesco di Sales, *Tutte le lettere*, vol. II (1611-1618), Roma 1967, s. 56.
 
-111. Św. Małgorzata Maria Alacoque, *Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., Kraków 2003, s. 90.
+111\. Św. Małgorzata Maria Alacoque, *Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., Kraków 2003, s. 90.
 
-112. *Tamże,* s. 89-90.
+112\. *Tamże,* s. 89-90.
 
-113. Św. Małgorzata Maria Alacoque, *Pamiętnik duchowy św*. *Małgorzaty Marii Alacoque (1647-1690)*, tłum. Józef Andrasz, Kraków 1996, s. 78.
+113\. Św. Małgorzata Maria Alacoque, *Pamiętnik duchowy św*. *Małgorzaty Marii Alacoque (1647-1690)*, tłum. Józef Andrasz, Kraków 1996, s. 78.
 
-114. Por. Dykasteria Nauki Wiary, *[Normy postępowania w rozeznawaniu domniemanych zjawisk nadprzyrodzonych](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_pl.html)* (17 maja 2024), I, A, 12.
+114\. Por. Dykasteria Nauki Wiary, *[Normy postępowania w rozeznawaniu domniemanych zjawisk nadprzyrodzonych](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_pl.html)* (17 maja 2024), I, A, 12.
 
-115. Św. Małgorzata Maria Alacoque, * Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 146-147.
+115\. Św. Małgorzata Maria Alacoque, * Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 146-147.
 
-116. Tenże, *List do Siostry de la Barge*, 22 października 1689 r., w: *Vita e opere di Santa Margherita Maria Alacoque*, vol. II, Roma 1985, s. 301.
+116\. Tenże, *List do Siostry de la Barge*, 22 października 1689 r., w: *Vita e opere di Santa Margherita Maria Alacoque*, vol. II, Roma 1985, s. 301.
 
-117. Tenże, *Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 90.
+117\. Tenże, *Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 90.
 
-118. *Tamże*, s. 93-94.
+118\. *Tamże*, s. 93-94.
 
-119. *Kazanie o ufności pokładanej w Bogu*, w: *Œuvres du R.P. de La Colombière*, t. 5, Lyon 1852, s. 100.
+119\. *Kazanie o ufności pokładanej w Bogu*, w: *Œuvres du R.P. de La Colombière*, t. 5, Lyon 1852, s. 100.
 
-120. Tenże, *Rekolekcje w Londynie*, 1-8 lutego 1677 r., w: *Œuvres du R.P. de la Colombière*, t.7, Avignon 1832, s. 93.
+120\. Tenże, *Rekolekcje w Londynie*, 1-8 lutego 1677 r., w: *Œuvres du R.P. de la Colombière*, t.7, Avignon 1832, s. 93.
 
-121. Tenże, *Ćwiczenia duchowe w Lyonie,* październik – listopad 1674 r., dz. cyt., s. 45.
+121\. Tenże, *Ćwiczenia duchowe w Lyonie,* październik – listopad 1674 r., dz. cyt., s. 45.
 
-122. Por. Św. Karol de Foucauld, *List do Pani de Bondy*, 27 kwietnia 1897 r., w: *Fonds Charles de Foucauld – Archives Diocésaines Viviers*.
+122\. Por. Św. Karol de Foucauld, *List do Pani de Bondy*, 27 kwietnia 1897 r., w: *Fonds Charles de Foucauld – Archives Diocésaines Viviers*.
 
-123. Tenże, *Listy do Pani de Bondy. Od braci trapistów do Tamanrasset*, tłum. Lilla Danilecka, Salwator, Kraków 2024, s. 118-119.
+123\. Tenże, *Listy do Pani de Bondy. Od braci trapistów do Tamanrasset*, tłum. Lilla Danilecka, Salwator, Kraków 2024, s. 118-119.
 
-124. *List do Pani de Bondy*, 7 kwietnia 1890 r., w: Św. Karol de Foucauld, *Listy do Pani de Bondy. Od braci trapistów do Tamanrasset*, dz. cyt., s. 56-57.
+124\. *List do Pani de Bondy*, 7 kwietnia 1890 r., w: Św. Karol de Foucauld, *Listy do Pani de Bondy. Od braci trapistów do Tamanrasset*, dz. cyt., s. 56-57.
 
-125. *List do ks. Huvelina*, 27 czerwca 1892 r., w: C. de Foucauld – Don Huvelin, *Corrispondenza inedita*, Torino-Leumann 1965, s. 30.
+125\. *List do ks. Huvelina*, 27 czerwca 1892 r., w: C. de Foucauld – Don Huvelin, *Corrispondenza inedita*, Torino-Leumann 1965, s. 30.
 
-126. S. Charles de Foucauld, *Meditazioni sull’Antico Testamento (1896-1897)*, XXX, 1-21, w: C. de Foucalud, *Chi può resistere a Dio? Meditazioni sulla Sacra Scrittura* (1896-1898), Roma 1983, s. 77-78.
+126\. S. Charles de Foucauld, *Meditazioni sull’Antico Testamento (1896-1897)*, XXX, 1-21, w: C. de Foucalud, *Chi può resistere a Dio? Meditazioni sulla Sacra Scrittura* (1896-1898), Roma 1983, s. 77-78.
 
-127. Tenże, *List do ks. Huvelina*, 16 maja 1900 r., w: C. de Foucauld – Don Huvelin, *Corrispondenza inedita*, dz. cyt., s. 132-133.
+127\. Tenże, *List do ks. Huvelina*, 16 maja 1900 r., w: C. de Foucauld – Don Huvelin, *Corrispondenza inedita*, dz. cyt., s. 132-133.
 
-128. Św. Karol de Foucauld, *Milczenie i ogień. Listy i zapiski*, Wydawnictwo Księży Marianów, Warszawa 1993, s. 147.
+128\. Św. Karol de Foucauld, *Milczenie i ogień. Listy i zapiski*, Wydawnictwo Księży Marianów, Warszawa 1993, s. 147.
 
-129. Św. Teresa od Dzieciątka Jezus, *List 42*, *do Pani Guérin*, 18 listopada 1888 r., w: tenże, *Pisma*, t. 1, Wydawnictwo Karmelitów Bosych, Kraków 1971, s. 441.
+129\. Św. Teresa od Dzieciątka Jezus, *List 42*, *do Pani Guérin*, 18 listopada 1888 r., w: tenże, *Pisma*, t. 1, Wydawnictwo Karmelitów Bosych, Kraków 1971, s. 441.
 
-130. Tenże, *List 102, do Celiny*, 14 października 1890 r., w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 1, dz. cyt., s. 540.
+130\. Tenże, *List 102, do Celiny*, 14 października 1890 r., w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 1, dz. cyt., s. 540.
 
-131. Tenże, *Poezje. „W Najświętszym Sercu”* (październik 1895), w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 2, dz. cyt., s. 26.
+131\. Tenże, *Poezje. „W Najświętszym Sercu”* (październik 1895), w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 2, dz. cyt., s. 26.
 
-132. Tenże, **List 220, do ks.** *Bellière*, 21 czerwca 1897 r., w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 1, dz. cyt., s. 774-775.
+132\. Tenże, **List 220, do ks.** *Bellière*, 21 czerwca 1897 r., w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 1, dz. cyt., s. 774-775.
 
-133. Tenże, Żółty zeszyt *(11 lipca 1897)*, w: Św. Teresa od Dzieciątka Jezus, *Żółty zeszyt. Ostatnie rozmowy św. Teresy od Dzieciątka Jezus zebrane przez Matkę Agnieszkę od Jezusa*, tłum. Ewa Szwarcenberg-Czerny, Jan Dobraczyński, PAX, Warszawa 1997, s. 145.
+133\. Tenże, Żółty zeszyt *(11 lipca 1897)*, w: Św. Teresa od Dzieciątka Jezus, *Żółty zeszyt. Ostatnie rozmowy św. Teresy od Dzieciątka Jezus zebrane przez Matkę Agnieszkę od Jezusa*, tłum. Ewa Szwarcenberg-Czerny, Jan Dobraczyński, PAX, Warszawa 1997, s. 145.
 
-134. Tenże, *List 176, do Siostry Marii od Najświętszego Serca,* 17 września 1896 r., w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 1, dz. cyt., s. 700-702. Nie oznacza to, że Tereska nie składała w ofierze swoich cierpień i udręk łącząc się w ten sposób z cierpieniami Chrystusa, jednak kiedy chciała dotrzeć do istoty, troszczyła się o to, aby nie nadawać tym ofiarom znaczenia, którego nie mają.
+134\. Tenże, *List 176, do Siostry Marii od Najświętszego Serca,* 17 września 1896 r., w: Św. Teresa od Dzieciątka Jezus *, Pisma*, t. 1, dz. cyt., s. 700-702. Nie oznacza to, że Tereska nie składała w ofierze swoich cierpień i udręk łącząc się w ten sposób z cierpieniami Chrystusa, jednak kiedy chciała dotrzeć do istoty, troszczyła się o to, aby nie nadawać tym ofiarom znaczenia, którego nie mają.
 
-135. Tenże, *List 121*, *do Celiny*, 6 lipca 1893 r., w: dz. cyt., s. 583.
+135\. Tenże, *List 121*, *do Celiny*, 6 lipca 1893 r., w: dz. cyt., s. 583.
 
-136. Tenże, *List 171*,* do Leonii,* 12 lipca 1896 r., w: dz. cyt., s. 685.
+136\. Tenże, *List 171*,* do Leonii,* 12 lipca 1896 r., w: dz. cyt., s. 685.
 
-137. Tenże, *List 203*,* do o*. *Roulland*, 9 maja 1897 r., w: dz. cyt., s. 754.
+137\. Tenże, *List 203*,* do o*. *Roulland*, 9 maja 1897 r., w: dz. cyt., s. 754.
 
-138. Tenże, *do ks. Bellière, 18 lipca 1897 r., List 229,* w: dz. cyt., s. 788.
+138\. Tenże, *do ks. Bellière, 18 lipca 1897 r., List 229,* w: dz. cyt., s. 788.
 
-139. Św. Ignacy Loyola, *Ćwiczenia Duchowne*, 104, w: tenże, *Pisma wybrane*, cz. II, WAM, Kraków 1968, s. 123.
+139\. Św. Ignacy Loyola, *Ćwiczenia Duchowne*, 104, w: tenże, *Pisma wybrane*, cz. II, WAM, Kraków 1968, s. 123.
 
-140. *Tamże*, 297, w: dz. cyt., s. 166.
+140\. *Tamże*, 297, w: dz. cyt., s. 166.
 
-141. Por. *List do Św. Ignacego*, 23 stycznia 1541 r.
+141\. Por. *List do Św. Ignacego*, 23 stycznia 1541 r.
 
-142. *De Vita P*. *Ignatii et Societatis Iesu initiis*, c. 8, 96, Bilbao-Santander 2021, s. 147.
+142\. *De Vita P*. *Ignatii et Societatis Iesu initiis*, c. 8, 96, Bilbao-Santander 2021, s. 147.
 
-143. Św. Ignacy Loyola, *Ćwiczenia Duchowne*, 54, w: tenże, *Pisma wybrane*, cz. II, dz. cyt., s. 114.
+143\. Św. Ignacy Loyola, *Ćwiczenia Duchowne*, 54, w: tenże, *Pisma wybrane*, cz. II, dz. cyt., s. 114.
 
-144. Por. *tamże*, 230 nn, w: dz. cyt., s. 150-151.
+144\. Por. *tamże*, 230 nn, w: dz. cyt., s. 150-151.
 
-145. XXIII Kongregacja Generalna Towarzystwa Jezusowego, Dekret 46, 1: *Institutum Societatis Iesu*, 2, Firenze 1893, s. 511.
+145\. XXIII Kongregacja Generalna Towarzystwa Jezusowego, Dekret 46, 1: *Institutum Societatis Iesu*, 2, Firenze 1893, s. 511.
 
-146. *In Lui solo la speranza*, Milano 1983, s. 180.
+146\. *In Lui solo la speranza*, Milano 1983, s. 180.
 
-147. *List do Ojca Petera Hansa Kolvenbacha, Przełożonego Generalnego Towarzystwa Jezusowego*, Paray-le-Monial, 5 października 1986 r., w: Czesław Drążek, S.I., dz. cyt., s. 101.
+147\. *List do Ojca Petera Hansa Kolvenbacha, Przełożonego Generalnego Towarzystwa Jezusowego*, Paray-le-Monial, 5 października 1986 r., w: Czesław Drążek, S.I., dz. cyt., s. 101.
 
-148. Konferencja „O ubóstwie” (13 sierpnia 1655), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 11, tłum. ks. Józef Kapuściak, WITKM, Kraków 2017, s. 297.
+148\. Konferencja „O ubóstwie” (13 sierpnia 1655), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 11, tłum. ks. Józef Kapuściak, WITKM, Kraków 2017, s. 297.
 
-149. Konferencja „O umartwieniu, korespondencji i wychodzeniu z domu” (9 grudnia 1657), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 10, dz. cyt., s. 376.
+149\. Konferencja „O umartwieniu, korespondencji i wychodzeniu z domu” (9 grudnia 1657), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 10, dz. cyt., s. 376.
 
-150. S. Daniele Comboni, *Scritti*, 3324: tenże, *Gli scritti*, Bologna 1991, s. 998.
+150\. S. Daniele Comboni, *Scritti*, 3324: tenże, *Gli scritti*, Bologna 1991, s. 998.
 
-151. Por. *Homilia podczas Mszy św. kanonizacyjnej czworga Błogosławionych* (18 maja 2003): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (255)/2003, s. 40.
+151\. Por. *Homilia podczas Mszy św. kanonizacyjnej czworga Błogosławionych* (18 maja 2003): *L’Osservatore Romano*, wyd. polskie, n. 7-8 (255)/2003, s. 40.
 
-152. Enc. *[Dives in misericordia](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html)* (30 listopada 1980), 13: *AAS* 72 (1980), 1219.
+152\. Enc. *[Dives in misericordia](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30111980_dives-in-misericordia.html)* (30 listopada 1980), 13: *AAS* 72 (1980), 1219.
 
-153. Katecheza (20 czerwca 1979), w: Czesław Drążek, S.I., dz. cyt., s. 138.
+153\. Katecheza (20 czerwca 1979), w: Czesław Drążek, S.I., dz. cyt., s. 138.
 
-154. Misjonarze Kombonianie Serca Jezusowego, *Reguła Życia, Konstytucje i Dyrektorium Generalne*, n. 3.
+154\. Misjonarze Kombonianie Serca Jezusowego, *Reguła Życia, Konstytucje i Dyrektorium Generalne*, n. 3.
 
-155. Zgromadzenie Najświętszego Serca Jezusa (Societas Sacratissimi Cordis Jesu), *Konstytucje* z 1982 r., n. 7.
+155\. Zgromadzenie Najświętszego Serca Jezusa (Societas Sacratissimi Cordis Jesu), *Konstytucje* z 1982 r., n. 7.
 
-156. Enc. *Miserentissimus Redemptor* (8 maja 1928): *AAS* 20 (1928), 174.
+156\. Enc. *Miserentissimus Redemptor* (8 maja 1928): *AAS* 20 (1928), 174.
 
-157. Kiedy cnota wiary jest praktykowana, skierowana do Chrystusa, dusza ma dostęp nie tylko do idei, które należy pamiętać, ale także do rzeczywistości jego boskiego życia (por. Św. Tomasz z Akwinu, *Summa teologii*, II-II, q. 1, a. 2, *ad* 2; q. 4, a. 1).
+157\. Kiedy cnota wiary jest praktykowana, skierowana do Chrystusa, dusza ma dostęp nie tylko do idei, które należy pamiętać, ale także do rzeczywistości jego boskiego życia (por. Św. Tomasz z Akwinu, *Summa teologii*, II-II, q. 1, a. 2, *ad* 2; q. 4, a. 1).
 
-158. Pius XI, Enc. *Miserentissimus Redemptor*: *AAS* 20 (1928), 174.
+158\. Pius XI, Enc. *Miserentissimus Redemptor*: *AAS* 20 (1928), 174.
 
-159. *[Homilia podczas Mszy św. Krzyżma](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)* (28 marca 2024): *L’Osservatore Romano*, wyd. polskie, n. 4 (461)/2024, s. 63-65.
+159\. *[Homilia podczas Mszy św. Krzyżma](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)* (28 marca 2024): *L’Osservatore Romano*, wyd. polskie, n. 4 (461)/2024, s. 63-65.
 
-160. Św. Ignacy Loyola, *Ćwiczenia Duchowne*, 203, w: tenże, *Pisma wybrane*, cz. II, dz. cyt., s. 142.
+160\. Św. Ignacy Loyola, *Ćwiczenia Duchowne*, 203, w: tenże, *Pisma wybrane*, cz. II, dz. cyt., s. 142.
 
-161. *[Homilia podczas Mszy św. Krzyżma](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)* (28 marca 2024): *L’Osservatore Romano*, wyd. polskie, n. 4 (461)/2024, s. 63.
+161\. *[Homilia podczas Mszy św. Krzyżma](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)* (28 marca 2024): *L’Osservatore Romano*, wyd. polskie, n. 4 (461)/2024, s. 63.
 
-162. Św. Małgorzata Maria Alacoque *, Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 94.
+162\. Św. Małgorzata Maria Alacoque *, Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 94.
 
-163. Tenże, *List 133, do Wielebnego Ojca Jana Croiseta,* 3 listopada 1689 r *.*, w: Św. Małgorzata Maria Alacoque, *Listy św. Małgorzaty Marii Alacoque*, tłum. s. Maria Krystyna Piwnicka-Bohuszewicz, O.V.M., Wydawnictwo Arcybractwa Straży Honorowej, Kraków 2009, s. 263.
+163\. Tenże, *List 133, do Wielebnego Ojca Jana Croiseta,* 3 listopada 1689 r *.*, w: Św. Małgorzata Maria Alacoque, *Listy św. Małgorzaty Marii Alacoque*, tłum. s. Maria Krystyna Piwnicka-Bohuszewicz, O.V.M., Wydawnictwo Arcybractwa Straży Honorowej, Kraków 2009, s. 263.
 
-164. Tenże, *Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 146.
+164\. Tenże, *Pamiętnik duchowy*, tłum. ks. Jan Hojnowski, S.C.I., dz. cyt., s. 146.
 
-165. Enc. *Annum Sacrum* (25 maja 1899), 8: *ASS* 31 (1898-99), 649.
+165\. Enc. *Annum Sacrum* (25 maja 1899), 8: *ASS* 31 (1898-99), 649.
 
-166. Giuliano, *Ep. XLIX ad Arsacium Pontificem Galatiae*, Mainz 1828, s. 90-91.
+166\. Giuliano, *Ep. XLIX ad Arsacium Pontificem Galatiae*, Mainz 1828, s. 90-91.
 
-167. *Tamże.*
+167\. *Tamże.*
 
-168. Dykasteria Nauki Wiary, Deklaracja o godności człowieka *[Dignitas infinita](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html)* (2 kwietnia 2024), 19.
+168\. Dykasteria Nauki Wiary, Deklaracja o godności człowieka *[Dignitas infinita](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240402_dignitas-infinita_pl.html)* (2 kwietnia 2024), 19.
 
-169. Por. Benedykt XVI, *List do Przełożonego Generalnego Towarzystwa Jezusowego z okazji 50. rocznicy ogłoszenia Encykliki „Haurietis aquas”*, 15 maja 2006 r.: *AAS* 98 (2006), 461; *L’Osservatore Romano*, wyd. polskie, n. 9-10 (286)/2006, s. 5.
+169\. Por. Benedykt XVI, *List do Przełożonego Generalnego Towarzystwa Jezusowego z okazji 50. rocznicy ogłoszenia Encykliki „Haurietis aquas”*, 15 maja 2006 r.: *AAS* 98 (2006), 461; *L’Osservatore Romano*, wyd. polskie, n. 9-10 (286)/2006, s. 5.
 
-170. * In Num. homil.* 12, 1: *PG* 12, 657.
+170\. * In Num. homil.* 12, 1: *PG* 12, 657.
 
-171. *Epist.* 29, 24: *PL* 16, 1060.
+171\. *Epist.* 29, 24: *PL* 16, 1060.
 
-172. *Adv. Arium* 1, 8: *PL* 8, 1044.
+172\. *Adv. Arium* 1, 8: *PL* 8, 1044.
 
-173. *Tract. in Joannem* 32, 4: *PL* 35, 1643.
+173\. *Tract. in Joannem* 32, 4: *PL* 35, 1643.
 
-174. *In Ev. S. Joannis*, cap. VII, lectio 5.
+174\. *In Ev. S. Joannis*, cap. VII, lectio 5.
 
-175. Pius XII, Enc. *Haurietis Aquas* (15 maja 1956), II: *AAS* 48 (1956), 321; Andrea Tessarolo, S.C.I., dz. cyt.,s. 164.
+175\. Pius XII, Enc. *Haurietis Aquas* (15 maja 1956), II: *AAS* 48 (1956), 321; Andrea Tessarolo, S.C.I., dz. cyt.,s. 164.
 
-176. Św. Jan Paweł II, Enc. *[Redemptoris Mater](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html)* (25 marca 1987), 38.
+176\. Św. Jan Paweł II, Enc. *[Redemptoris Mater](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_25031987_redemptoris-mater.html)* (25 marca 1987), 38.
 
-177. Sobór Watykański II, Konst. dogmat. o Kościele Lumen gentium, 62.
+177\. Sobór Watykański II, Konst. dogmat. o Kościele Lumen gentium, 62.
 
-178. *Tamże*, 60.
+178\. *Tamże*, 60.
 
-179. *Sermones super Cant.*, XX, 4: *PL* 183, 869.
+179\. *Sermones super Cant.*, XX, 4: *PL* 183, 869.
 
-180. *Filotea. Wstęp do życia pobożnego*, tłum. Herman Libiński, S.I., wyd. II, Wydawnictwo Księży Jezuitów, Kraków 1931, s. 296-297.
+180\. *Filotea. Wstęp do życia pobożnego*, tłum. Herman Libiński, S.I., wyd. II, Wydawnictwo Księży Jezuitów, Kraków 1931, s. 296-297.
 
-181. *Kazanie na XVII Niedzielę po Zesłaniu Ducha Świętego* (30 września 1618), w: *Œuvres de Saint François de Sales*, t. 9, *Sermones*, vol. 3, Niérat, Annecy 1897, s. 200-201.
+181\. *Kazanie na XVII Niedzielę po Zesłaniu Ducha Świętego* (30 września 1618), w: *Œuvres de Saint François de Sales*, t. 9, *Sermones*, vol. 3, Niérat, Annecy 1897, s. 200-201.
 
-182. * Jezus, Jego Męka, Rekolekcje w Nazarecie, 5-15 listopada 1987 r., w:* C. de Foucauld, *La vita nascosta. Ritiri in Terra Santa (1897-1900)*, Roma 1974, s. 72.
+182\. * Jezus, Jego Męka, Rekolekcje w Nazarecie, 5-15 listopada 1987 r., w:* C. de Foucauld, *La vita nascosta. Ritiri in Terra Santa (1897-1900)*, Roma 1974, s. 72.
 
-183. Od 19 marca 1902 r. wszystkie jego listy są opatrzone nagłówkiem ze słowami *Iesus Caritas*, oddzielonymi sercem zwieńczonym krzyżem.
+183\. Od 19 marca 1902 r. wszystkie jego listy są opatrzone nagłówkiem ze słowami *Iesus Caritas*, oddzielonymi sercem zwieńczonym krzyżem.
 
-184. *List do ks. Huvelina*, 15 lipca 1904 r., w: *Opere spirituali*, Roma 1983, s. 633.
+184\. *List do ks. Huvelina*, 15 lipca 1904 r., w: *Opere spirituali*, Roma 1983, s. 633.
 
-185. *List do ks. Martina*, 25 stycznia 1903 r., w: C. de Foucauld, *«Cette chère dernière place». Lettres à mes frères de la Trappe*, Paris 2012, s. 311.
+185\. *List do ks. Martina*, 25 stycznia 1903 r., w: C. de Foucauld, *«Cette chère dernière place». Lettres à mes frères de la Trappe*, Paris 2012, s. 311.
 
-186. Cytowany w: René Voillaume, *Les fraternités du Père de Foucauld*, Paris 1946, s. 173.
+186\. Cytowany w: René Voillaume, *Les fraternités du Père de Foucauld*, Paris 1946, s. 173.
 
-187. *Meditazioni dei santi Vangeli sui passi relativi a quindici virtù*, Nazaret 1897-1898, *Carità* 77 ( *Mt* 20, 28), w: C. de Foucauld, *Meditazioni sui passi dei vangeli relativi a Dio solo, fede, speranza, carità (1897-1898)*, Roma 1973, s. 325.
+187\. *Meditazioni dei santi Vangeli sui passi relativi a quindici virtù*, Nazaret 1897-1898, *Carità* 77 ( *Mt* 20, 28), w: C. de Foucauld, *Meditazioni sui passi dei vangeli relativi a Dio solo, fede, speranza, carità (1897-1898)*, Roma 1973, s. 325.
 
-188. *Tamże*, *Carità* 90 ( *Mt* 27, 30): w: dz. cyt., s. 338.
+188\. *Tamże*, *Carità* 90 ( *Mt* 27, 30): w: dz. cyt., s. 338.
 
-189. H. Huvelin, *Quelques directeurs d’âmes au XVII siècle*, Paris 1911, s. 97.
+189\. H. Huvelin, *Quelques directeurs d’âmes au XVII siècle*, Paris 1911, s. 97.
 
-190. *Por.* Konferencja „ *O służeniu chorym i trosce sióstr o własne zdrowie*” (11 listopada 1657), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 10, dz. cyt., s. 311.
+190\. *Por.* Konferencja „ *O służeniu chorym i trosce sióstr o własne zdrowie*” (11 listopada 1657), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 10, dz. cyt., s. 311.
 
-191. *Costituzioni e Statuti della Congregazione della Missione (1658), Roma 1984, s. 110.*
+191\. *Costituzioni e Statuti della Congregazione della Missione (1658), Roma 1984, s. 110.*
 
-192. *List do Ojca Petera Hansa Kolvenbacha, Przełożonego Generalnego Towarzystwa Jezusowego*, Paray-le-Monial, 5 października 1986 r., w: Czesław Drążek, S.I., dz. cyt., s. 101.
+192\. *List do Ojca Petera Hansa Kolvenbacha, Przełożonego Generalnego Towarzystwa Jezusowego*, Paray-le-Monial, 5 października 1986 r., w: Czesław Drążek, S.I., dz. cyt., s. 101.
 
-193. Św. Jan Paweł II, Adhort. apost. *[Reconciliatio et Paenitentia](https://www.vatican.va/content/john-paul-ii/pl/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html)* (2 grudnia 1984), 16: *AAS* 77 (1985), 215.
+193\. Św. Jan Paweł II, Adhort. apost. *[Reconciliatio et Paenitentia](https://www.vatican.va/content/john-paul-ii/pl/apost_exhortations/documents/hf_jp-ii_exh_02121984_reconciliatio-et-paenitentia.html)* (2 grudnia 1984), 16: *AAS* 77 (1985), 215.
 
-194. Por. tenże, Enc. *[Sollicitudo rei socialis](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html)* (30 grudnia 1987), 36: * AAS* 80 (1988), 561-562.
+194\. Por. tenże, Enc. *[Sollicitudo rei socialis](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html)* (30 grudnia 1987), 36: * AAS* 80 (1988), 561-562.
 
-195. Tenże, Enc. *[Centesimus annus](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)* (1 maja 1991), 41: *AAS* 83 (1991), 844-845.
+195\. Tenże, Enc. *[Centesimus annus](https://www.vatican.va/content/john-paul-ii/pl/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html)* (1 maja 1991), 41: *AAS* 83 (1991), 844-845.
 
-196. *Katechizm Kościoła Katolickiego*, n. 1888.
+196\. *Katechizm Kościoła Katolickiego*, n. 1888.
 
-197. Por. *Katecheza* (8 czerwca 1994), 2: *L’Osservatore Romano*, wyd. polskie, n. 9-10 (166)/1994, s. 19.
+197\. Por. *Katecheza* (8 czerwca 1994), 2: *L’Osservatore Romano*, wyd. polskie, n. 9-10 (166)/1994, s. 19.
 
-198. *Przemówienie do uczestników międzynarodowej konferencji pod hasłem „Réparer l’irréparable” (Naprawić nienaprawialne), z okazji 350. rocznicy objawień Jezusa w Paray-le-Monial* (4 maja 2024): *L’Osservatore Romano*, wyd. polskie, n. 5 (462)/2024, s. 39.
+198\. *Przemówienie do uczestników międzynarodowej konferencji pod hasłem „Réparer l’irréparable” (Naprawić nienaprawialne), z okazji 350. rocznicy objawień Jezusa w Paray-le-Monial* (4 maja 2024): *L’Osservatore Romano*, wyd. polskie, n. 5 (462)/2024, s. 39.
 
-199. *Tamże*.
+199\. *Tamże*.
 
-200. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (6 marca 2018): *L’Osservatore Romano*, wyd. polskie, n. 5 (402)/2018, s. 44.
+200\. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (6 marca 2018): *L’Osservatore Romano*, wyd. polskie, n. 5 (402)/2018, s. 44.
 
-201. *Przemówienie do uczestników międzynarodowej konferencji pod hasłem „Réparer l’irréparable” (Naprawić nienaprawialne), z okazji 350. rocznicy objawień Jezusa w Paray-le-Monial* (4 maja 2024): *L’Osservatore Romano*, wyd. polskie, n. 5 (462)/2024, s. 39.
+201\. *Przemówienie do uczestników międzynarodowej konferencji pod hasłem „Réparer l’irréparable” (Naprawić nienaprawialne), z okazji 350. rocznicy objawień Jezusa w Paray-le-Monial* (4 maja 2024): *L’Osservatore Romano*, wyd. polskie, n. 5 (462)/2024, s. 39.
 
-202. *[Homilia podczas Mszy św. Krzyżma](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)* (28 marca 2024): *L’Osservatore Romano*, wyd. polskie, n. 4 (461)/2024, s. 64.
+202\. *[Homilia podczas Mszy św. Krzyżma](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)* (28 marca 2024): *L’Osservatore Romano*, wyd. polskie, n. 4 (461)/2024, s. 64.
 
-203. *[Tamże](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)*.
+203\. *[Tamże](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)*.
 
-204. *[Tamże](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)*.
+204\. *[Tamże](https://www.vatican.va/content/francesco/pl/homilies/2024/documents/20240328-omelia-crisma.html)*.
 
-205. Enc. *[Laudato si’](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)* (24 maja 2015), 80: *AAS* 107 (2015), 879.
+205\. Enc. *[Laudato si’](https://www.vatican.va/content/francesco/pl/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html)* (24 maja 2015), 80: *AAS* 107 (2015), 879.
 
-206. *Katechizm Kościoła Katolickiego,* n. 1085.
+206\. *Katechizm Kościoła Katolickiego,* n. 1085.
 
-207. *Tamże*, n. 268.
+207\. *Tamże*, n. 268.
 
-208. *Pamiętnik duchowny św. Małgorzaty Marii Alacoque (1647-1690)*, nr 53, tłum. ks. Józef Andrasz, S.I., WAM, Kraków 1947, s. 59.
+208\. *Pamiętnik duchowny św. Małgorzaty Marii Alacoque (1647-1690)*, nr 53, tłum. ks. Józef Andrasz, S.I., WAM, Kraków 1947, s. 59.
 
-209. *Rękopis A*, *Folio 84 r*., w: Św. Teresa od Dzieciątka Jezus, *Pisma*, t. 1, dz. cyt., s. 238.
+209\. *Rękopis A*, *Folio 84 r*., w: Św. Teresa od Dzieciątka Jezus, *Pisma*, t. 1, dz. cyt., s. 238.
 
-210. *Tamże*.
+210\. *Tamże*.
 
-211. *Tamże*, s. 239.
+211\. *Tamże*, s. 239.
 
-212. Tenże, *Rękopis A*, *Folio 83 v.;* w: dz. cyt., s. 238.
+212\. Tenże, *Rękopis A*, *Folio 83 v.;* w: dz. cyt., s. 238.
 
-213. Tenże, *Akt ofiarowania się Miłości Miłosiernej*, w: dz. cyt., s. 326.
+213\. Tenże, *Akt ofiarowania się Miłości Miłosiernej*, w: dz. cyt., s. 326.
 
-214. Tenże,  *Rękopis B*, *Folio 3 v.,* w: dz. cyt., s. 255.
+214\. Tenże,  *Rękopis B*, *Folio 3 v.,* w: dz. cyt., s. 255.
 
-215. Tenże, *List 166, do Leonii,* 10 kwietnia 1896 r., w: dz. cyt., s. 675.
+215\. Tenże, *List 166, do Leonii,* 10 kwietnia 1896 r., w: dz. cyt., s. 675.
 
-216. Tenże,  *List 229, do ks. Bellière,* 18 lipca 1897 r., w: dz. cyt., s. 787.
+216\. Tenże,  *List 229, do ks. Bellière,* 18 lipca 1897 r., w: dz. cyt., s. 787.
 
-217. Por. Pius XI, Enc. *Miserentissimus Redemptor* (8 maja 1928): *AAS* 20 (1928), 169.
+217\. Por. Pius XI, Enc. *Miserentissimus Redemptor* (8 maja 1928): *AAS* 20 (1928), 169.
 
-218. *Tamże*.
+218\. *Tamże*.
 
-219. Św. Jan Paweł II, *Katecheza* (20 czerwca 1979), w: Czesław Drążek, S.I., dz. cyt., s. 140.
+219\. Św. Jan Paweł II, *Katecheza* (20 czerwca 1979), w: Czesław Drążek, S.I., dz. cyt., s. 140.
 
-220. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (27 czerwca 2014), w: Franciszek, *Bóg szuka nas na marginesie. Słowa z Domu Świętej Marty*, tłum. Anna T. Kowalewska, Kraków 2017, s. 179.
+220\. *Homilia podczas porannej Mszy św. w Domu Świętej Marty* (27 czerwca 2014), w: Franciszek, *Bóg szuka nas na marginesie. Słowa z Domu Świętej Marty*, tłum. Anna T. Kowalewska, Kraków 2017, s. 179.
 
-221. *Orędzie na stulecie poświęcenia ludzkości Sercu Pana Jezusa* (Warszawa, 11 czerwca 1999, Uroczystość Najśw. Serca Jezusowego), 2, w: Czesław Drążek, S.I., dz. cyt., s. 45.
+221\. *Orędzie na stulecie poświęcenia ludzkości Sercu Pana Jezusa* (Warszawa, 11 czerwca 1999, Uroczystość Najśw. Serca Jezusowego), 2, w: Czesław Drążek, S.I., dz. cyt., s. 45.
 
-222. *Tamże*, 1, s. 43.
+222\. *Tamże*, 1, s. 43.
 
-223. *List do ordynariusza Lyonu abpa Louisa-Marie Billégo z okazji stulecia poświęcenia ludzkości Najświętszemu Sercu Pana Jezusa,* 4 czerwca 1999 r., 4, w: dz. cyt., s. 169.
+223\. *List do ordynariusza Lyonu abpa Louisa-Marie Billégo z okazji stulecia poświęcenia ludzkości Najświętszemu Sercu Pana Jezusa,* 4 czerwca 1999 r., 4, w: dz. cyt., s. 169.
 
-224. „Refleksje na różne tematy” (22 sierpnia 1655), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 11, dz. cyt., s. 339.
+224\. „Refleksje na różne tematy” (22 sierpnia 1655), w: Św. Wincenty a Paulo, *Listy, Konferencje, Dokumenty*, t. 11, dz. cyt., s. 339.
 
-225. List apost. o kulcie Najświętszego Serca Jezusowego *Diserti interpretes* (25 maja 1965), 4, w: *Enchiridion della Vita Consacrata*, Bologna-Milano 2001, n. 3809.
+225\. List apost. o kulcie Najświętszego Serca Jezusowego *Diserti interpretes* (25 maja 1965), 4, w: *Enchiridion della Vita Consacrata*, Bologna-Milano 2001, n. 3809.
 
-226. *Życie nowe*, XIX, 5-8, tłum. i wyd. Edward Porębowicz, Florencja 1934, s. 29.
+226\. *Życie nowe*, XIX, 5-8, tłum. i wyd. Edward Porębowicz, Florencja 1934, s. 29.
 
-227. *Rękopis A*, *Folio 45 v.,* w: Św. Teresa od Dzieciątka Jezus, *Pisma*, t. 1, dz. cyt., s. 157.
+227\. *Rękopis A*, *Folio 45 v.,* w: Św. Teresa od Dzieciątka Jezus, *Pisma*, t. 1, dz. cyt., s. 157.

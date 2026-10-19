@@ -188,4 +188,4 @@ Titularerzbischof von Sila *Sekretär*
 
 [^35]: Vgl. *Joh* 16,13.
 
-4. Vgl. die Konzile von Nizäa, *DH* 125; Konstantinopel, *DH* 150; Ephesus, *DH* 250–263; Chalkedon, *DH* 301–302.
+4\. Vgl. die Konzile von Nizäa, *DH* 125; Konstantinopel, *DH* 150; Ephesus, *DH* 250–263; Chalkedon, *DH* 301–302.

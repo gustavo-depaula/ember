@@ -578,4 +578,4 @@ Engedtessék meg, hogy ennek a tanulmánynak a végén – a tanítás záró sz
 
 [^132]: *Ordo exsequiarum,*Praenotanda 1, 7. old.– Magyarul: *Temetési szertartáskönyv,* 20. old.
 
-139. Második rendkívüli püspöki szinódus, *Záródokumentum* (1985. december 10.) II, D, 1, in Civitate Vaticana 1985, 17.
+139\. Második rendkívüli püspöki szinódus, *Záródokumentum* (1985. december 10.) II, D, 1, in Civitate Vaticana 1985, 17.

@@ -562,4 +562,4 @@ Quisemos encerrar esta exposição sobre algumas questões escatológicas atuais
 
 [^135]: *Ordo exsequiarum*, “Praenotanda”, n. 1.
 
-2. LG 51 (“*vitale consortium*”).
+2\. LG 51 (“*vitale consortium*”).

@@ -483,4 +483,4 @@ AUF WELCHEN WEGEN DIE KATHOLISCHE KIRCHE HEUTE IHREN AUFTRAG ERFÜLLEN MUSS
 
 [^67]: *Kor*. 1, 10.
 
-65. *Dial. contra Luciferianos* n. 9.
+65\. *Dial. contra Luciferianos* n. 9.

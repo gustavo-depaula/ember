@@ -114,7 +114,7 @@ I OBOWIĄZKÓW KAŻDEGO CZŁOWIEKA
 13\. POTRZEBA WSPÓŁDZIAŁANIA
 
 31\. Ponieważ ludzie mają naturalną skłonność do zrzeszania się, powinni ze sobą współżyć i starać się wzajemnie o dobro innych. Dlatego właściwie ułożono współżycie ludzi wymaga, aby w równej mierze uznawali oni wzajemnie swe prawa i wypełniali swe obowiązki. Z tego również wynika, że każdy musi wielkodusznie starać się przyczynić do wytworzenia takich stosunków społecznych, aby prawa i obowiązki były coraz staranniej i coraz skuteczniej realizowane.   
-32. I tak na przykład: nie wystarcza przyznawać człowiekowi prawa do rzeczy dla życia koniecznych, jeśli jednocześnie nie staramy się w miarę sił o to, aby rzeczywiście posiadał środki potrzebne do utrzymania.
+32\. I tak na przykład: nie wystarcza przyznawać człowiekowi prawa do rzeczy dla życia koniecznych, jeśli jednocześnie nie staramy się w miarę sił o to, aby rzeczywiście posiadał środki potrzebne do utrzymania.
 
 33\. Ponadto społeczność ludzka ma nie tylko być zorganizowana, lecz również przynosić ludziom liczne korzyści. To zaś wymaga, by uznawali oni wzajemne swe prawa i obowiązki, i wypełniali je wobec siebie, a nawet, aby wszyscy zespołowo współuczestniczyli w różnorakich poczynaniach, które współczesna nam cywilizacja czy to dopuszcza, czy też zaleca, czy wreszcie się ich domaga.
 
@@ -235,7 +235,7 @@ II. STOSUNKI MIĘDZY OBYWATELAMI A WŁADZAMI SPOŁECZNOŚCI POLITYCZNYCH
 77\. Konieczne jest wreszcie szczegółowe określenie praw i obowiązków wiążących obywateli z władzami państwowymi oraz wyraźne stwierdzenie, że zasadniczym zadaniem tych władz jest uznawanie, poszanowanie, uzgadnianie, ochrona oraz rozwijanie praw i obowiązków obywateli.
 
 78\. Nie można przyjąć zapatrywania tych, którzy twierdzą, że z woli czy to poszczególnych ludzi, czy też niektórych społeczności, jako ze swego pierwszego i jedynego źródła, rodzą się prawa i obowiązki obywateli, wypływa moc obowiązująca konstytucji, a rządzący otrzymują władzę rozkazywania (52).   
-79. Te ludzkie dążenia, które tu omówiliśmy, świadczą w sposób oczywisty, że w naszych czasach ludzie uświadamiają sobie coraz lepiej swoją godność, a to skłania ich zarówno do brania czynnego udziału w zarządzaniu państwem, jak do domagania się, aby ich własne i nienaruszalne prawa były szanowane przez zasady ustroju państwowego. Co więcej, ludzie domagają się dziś ponadto, aby władze państwowe były powoływane zgodnie z postanowieniami konstytucji, i aby wypełniały swe obowiązki w ramach konstytucyjnie wyznaczonych.
+79\. Te ludzkie dążenia, które tu omówiliśmy, świadczą w sposób oczywisty, że w naszych czasach ludzie uświadamiają sobie coraz lepiej swoją godność, a to skłania ich zarówno do brania czynnego udziału w zarządzaniu państwem, jak do domagania się, aby ich własne i nienaruszalne prawa były szanowane przez zasady ustroju państwowego. Co więcej, ludzie domagają się dziś ponadto, aby władze państwowe były powoływane zgodnie z postanowieniami konstytucji, i aby wypełniały swe obowiązki w ramach konstytucyjnie wyznaczonych.
 
 III. STOSUNKI  MIĘDZY  PAŃSTWAMI
 
@@ -467,7 +467,7 @@ PRZYGOTOWANIA ZAWODOWEGO
 8\. DZIAŁANIE STOPNIOWE
 
 161\. Nie brak ludzi o wspaniałym umyśle, którzy - gdy zetkną się ze zjawiskami albo mało zgodnymi z założeniami sprawiedliwości, albo całkowicie z nimi sprzecznymi - pragną gorąco wszystko naprawić z taką gwałtownością, że wygląda to na przewrót ustrojowy.   
-162. Chcielibyśmy zwrócić im uwagę, że w naturze z konieczności wszystko rozwija się stopniowo; dlatego i w instytucjach ludzkich najlepsze wyniki daje działanie spokojne i przeprowadzone od wewnątrz. O tym poucza Poprzednik Nasz Pius XII w następujących słowach: "Nie przez przewrót dawnego ustroju, lecz przez dobrze zorganizowany rozwój istniejącego stanu rzeczy przychodzi ocalenie i sprawiedliwość. Zapalczywość bowiem wszystko burzy i niczego nie buduje, rozpala namiętności i nigdy ich nie uspokaja. A ponieważ sieje jedynie zniszczenie i nienawiść, nie może nigdy pogodzić przeciwników ani skłonić ludzi i ugrupowań politycznych, aby z jak największym nakładem pracy dokonali odbudowy pierwotnego stanu na ruinach powstałych z niezgody" (68).
+162\. Chcielibyśmy zwrócić im uwagę, że w naturze z konieczności wszystko rozwija się stopniowo; dlatego i w instytucjach ludzkich najlepsze wyniki daje działanie spokojne i przeprowadzone od wewnątrz. O tym poucza Poprzednik Nasz Pius XII w następujących słowach: "Nie przez przewrót dawnego ustroju, lecz przez dobrze zorganizowany rozwój istniejącego stanu rzeczy przychodzi ocalenie i sprawiedliwość. Zapalczywość bowiem wszystko burzy i niczego nie buduje, rozpala namiętności i nigdy ich nie uspokaja. A ponieważ sieje jedynie zniszczenie i nienawiść, nie może nigdy pogodzić przeciwników ani skłonić ludzi i ugrupowań politycznych, aby z jak największym nakładem pracy dokonali odbudowy pierwotnego stanu na ruinach powstałych z niezgody" (68).
 
 9\. WIELKIE  ZADANIA
 
@@ -500,78 +500,78 @@ JAN XXIII, PAPIEŻ
 PRZYPISY
 
 1\. Ps 8,1.   
-2. Ps 104(103), 24.   
-3. Rdz 1,26.   
-4. Ps 8,6-7.   
-5. Rz 2,15.   
-6. Por. Ps 19 (18), 8-11.   
-7. Por. Orędzie radiowe Piusa XII wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS (1943) 9-24 oraz kazanie Jana XXIII z 4 stycznia 1963r., AAS 55(1963) 89-91.   
-8. Pius XI, Enc. Divini Redemptoris, AAS 29(1937) 78, nr. 52; Pius XII, Orędzie radiowe wygłoszone w dniu Zielonych Świąt 1 czerwca 1941, AAS 33(1941) 195-205.   
-9. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
-10. Divinae Institutiones, 1 IV. C.28,2  PL 6,535.   
-11. Libertas praestantissimum, AAS 20(1887) 608.   
-12. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
-13. Por. Pius XI, Enc. Casti Connubii, AAS 22(1930) 539-592 oraz Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
-14. Por. Pius XII, Orędzie radiowe wygłoszone w dniu Zielonych Świąt dnia 1 czerwca 1941, AAS 33(1941) 201,(nr 14).   
-15. Por. Leon XIII, Enc. Rerum novarum, ASS 23 (1890/91) 660-661, (nr 33).   
-16. Por. Jan XXII, Enc. Mater et Magistra, AAS (1961) 422, (nr 91-93).   
-17. Orędzie radiowe wygłoszone w dniu Zielonych Świąt dnia 1 czerwca 1941, AAS 33 (1941) 201, (nr 13).   
-18. Enc. Mater et Magistra, AAS 53(1961) 428, (nr 112).   
-19. Tamże, s. 430, (nr. 119-120).   
-20. Enc. Rerum novarum, AAS 23(1890/91)663-669, (nr 36-43); Pius XI, Qudragesimo anno, AAS 23(1932) 199-200, (nr.29-37); Pius XII, Enc. Sertum laetitiae, AAS 31(1939) 635-644.   
-21. Por. AAS 53(1961) 430, (nr 59-67).   
-22. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1952 r., AAS 45(1953) 33-46.   
-23. Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 12.   
-24. Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943)21, (nr 35).   
-25. Ef 4,25.   
-26. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 14, (nr 7).   
-27. STh., I-II, q 19, a 4; por. a 9.   
-28. Rz 13,1   
-29. In Epist. Ad Rom., c. 13, vv.1-2, homil. 23  PG 60,615.   
-30. Leon XIII, Enc. Immortale Dei, ASS 18(1885) 162.   
-31. Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 15.   
-32. Por. Leon XIII, Enc. Diuturnum illud, ASS 14(1881) 6.   
-33. Tamże, s. 9 oraz Leon XIII, Enc. Immortale Dei, ASS 18(1885) 168.   
-34. Dz 5,29.   
-35. STh I-II, 93,3 ad 2; por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 5-23.   
-36. Por. Leon XIII, Enc. Doiturnum illud, ASS 14(1881) 4-5; Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 5-23.   
-37. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 13, (nr 13); Leon XIII, Enc. Immortale Dei, ASS 18(1885) 162.   
-38. Por. Pius XII, Enc. Summi Pontificatus, ASS 31(1939) 412-453, (nr 35-40).   
-39. Por. Pius XI, Enc. Mit brennender Sorge, AAS 29(1937) 159, (nr41) oraz Enc.Divini Redemptoris, tamże, s. 65-106.   
-40. Enc. Immortale Dei, ASS 18(1885) 163.   
-41. Por. Rerum novarum, ASS 23(1890/91) 656, (nr 27).   
-42. Por. Pius XII, Enc. Summi Pontificatus, AAS 31(1939) 433, (nr 42 i następne).   
-43. Tamże, AAS 53(1961) 417, (nr 65).   
-44. Pius XI, Enc. Quadragesimo anno, AAS 23(1931) 215, (nr 118).   
-45. Pius XII, Orędzie radiowe wygłoszone w dniu Zielonych Świąt 1 czerwca 1941, AAS 33(1941) 200, (nr 11).   
-46. Por. Pius XI, Enc. Mit brennender Sorge, AAS 29(1937) 158-160; (nr 39-43); Enc. Divini Redemptoris, AAS 29(1937) 79, (nr 30); Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943)9-24.   
-47. Por. Pius XI, Enc. Divi redemptoris, AAS 29(1937) 81, (nr 31-32); Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
-48. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 415, (nr 55).   
-49. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 21, (nr.36).   
-50. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego narodzenia 1944 r., AAS 37(1945) 15-16.   
+2\. Ps 104(103), 24.   
+3\. Rdz 1,26.   
+4\. Ps 8,6-7.   
+5\. Rz 2,15.   
+6\. Por. Ps 19 (18), 8-11.   
+7\. Por. Orędzie radiowe Piusa XII wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS (1943) 9-24 oraz kazanie Jana XXIII z 4 stycznia 1963r., AAS 55(1963) 89-91.   
+8\. Pius XI, Enc. Divini Redemptoris, AAS 29(1937) 78, nr. 52; Pius XII, Orędzie radiowe wygłoszone w dniu Zielonych Świąt 1 czerwca 1941, AAS 33(1941) 195-205.   
+9\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
+10\. Divinae Institutiones, 1 IV. C.28,2  PL 6,535.   
+11\. Libertas praestantissimum, AAS 20(1887) 608.   
+12\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
+13\. Por. Pius XI, Enc. Casti Connubii, AAS 22(1930) 539-592 oraz Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
+14\. Por. Pius XII, Orędzie radiowe wygłoszone w dniu Zielonych Świąt dnia 1 czerwca 1941, AAS 33(1941) 201,(nr 14).   
+15\. Por. Leon XIII, Enc. Rerum novarum, ASS 23 (1890/91) 660-661, (nr 33).   
+16\. Por. Jan XXII, Enc. Mater et Magistra, AAS (1961) 422, (nr 91-93).   
+17\. Orędzie radiowe wygłoszone w dniu Zielonych Świąt dnia 1 czerwca 1941, AAS 33 (1941) 201, (nr 13).   
+18\. Enc. Mater et Magistra, AAS 53(1961) 428, (nr 112).   
+19\. Tamże, s. 430, (nr. 119-120).   
+20\. Enc. Rerum novarum, AAS 23(1890/91)663-669, (nr 36-43); Pius XI, Qudragesimo anno, AAS 23(1932) 199-200, (nr.29-37); Pius XII, Enc. Sertum laetitiae, AAS 31(1939) 635-644.   
+21\. Por. AAS 53(1961) 430, (nr 59-67).   
+22\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1952 r., AAS 45(1953) 33-46.   
+23\. Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 12.   
+24\. Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943)21, (nr 35).   
+25\. Ef 4,25.   
+26\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 14, (nr 7).   
+27\. STh., I-II, q 19, a 4; por. a 9.   
+28\. Rz 13,1   
+29\. In Epist. Ad Rom., c. 13, vv.1-2, homil. 23  PG 60,615.   
+30\. Leon XIII, Enc. Immortale Dei, ASS 18(1885) 162.   
+31\. Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 15.   
+32\. Por. Leon XIII, Enc. Diuturnum illud, ASS 14(1881) 6.   
+33\. Tamże, s. 9 oraz Leon XIII, Enc. Immortale Dei, ASS 18(1885) 168.   
+34\. Dz 5,29.   
+35\. STh I-II, 93,3 ad 2; por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 5-23.   
+36\. Por. Leon XIII, Enc. Doiturnum illud, ASS 14(1881) 4-5; Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1944 r., AAS 37(1945) 5-23.   
+37\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 13, (nr 13); Leon XIII, Enc. Immortale Dei, ASS 18(1885) 162.   
+38\. Por. Pius XII, Enc. Summi Pontificatus, ASS 31(1939) 412-453, (nr 35-40).   
+39\. Por. Pius XI, Enc. Mit brennender Sorge, AAS 29(1937) 159, (nr41) oraz Enc.Divini Redemptoris, tamże, s. 65-106.   
+40\. Enc. Immortale Dei, ASS 18(1885) 163.   
+41\. Por. Rerum novarum, ASS 23(1890/91) 656, (nr 27).   
+42\. Por. Pius XII, Enc. Summi Pontificatus, AAS 31(1939) 433, (nr 42 i następne).   
+43\. Tamże, AAS 53(1961) 417, (nr 65).   
+44\. Pius XI, Enc. Quadragesimo anno, AAS 23(1931) 215, (nr 118).   
+45\. Pius XII, Orędzie radiowe wygłoszone w dniu Zielonych Świąt 1 czerwca 1941, AAS 33(1941) 200, (nr 11).   
+46\. Por. Pius XI, Enc. Mit brennender Sorge, AAS 29(1937) 158-160; (nr 39-43); Enc. Divini Redemptoris, AAS 29(1937) 79, (nr 30); Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943)9-24.   
+47\. Por. Pius XI, Enc. Divi redemptoris, AAS 29(1937) 81, (nr 31-32); Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 9-24.   
+48\. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 415, (nr 55).   
+49\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 21, (nr.36).   
+50\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego narodzenia 1944 r., AAS 37(1945) 15-16.   
 51.   Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1942 r., AAS 35(1943) 13,14, (nr 14).   
-52. Por. Leon XIII, List Apost. Annum ingressi, Acta Leonis XIII, 23, 1902-1903, 52-80.   
-53. Mdr 6,1-3.   
-54. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 16, (nr 12).   
-55. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1940 r., AAS 33(1941) 5-14.   
-56. De De civitate Dei, lib. IV, c. 4 PL 41, 115; por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1939 r., AAS 32(1940) 5-13.   
-57. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 10-21, (nr 14).   
-58. Por. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 439, (nr 155 i następne).   
-59. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 17, (nr 16); Benedykt XV, Wezwanie do przywódców krajów uczestniczących w wojnie z dnia 1 sierpnia 1917 r., AAS 9(1917) 418.   
-60. Pius XII, Orędzie radiowe z dnia 24 sierpnia 1939 r., AAS 31 (1939) 334.   
-61. AAS 53(1961) 440-441, (nr 155 i następne).   
-62. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 16-17, (nr 13).   
-63. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 443, (nr 174).   
-64. Por. Pius XII, Przemówienie do uczestników zjazdu męskiej młodzieży włoskiej Akcji Katolickiej w Rzymie, wygłoszone 12 września 1948 r., AAS 40(1948) 412.   
-65. Por. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 454, (nr 227 i następne).   
-66. Tamże, s. 456, (nr.239).   
-67. Tamże, s. 457,(nr 239); por. Leon XIII, Enc. Immortale Dei, ASS 18(1885) 178; Pius XI, Enc. Ubi arcano, AAS 14(1922) 698; Pius XII, Przemówienie do delegatek Międzynarodowego Związku Stowarzyszeń Kobiet Katolickich uczestniczek Światowego Kongresu z dnia 1 września 1947 r., AAS 39(1947) 486.   
-68. Pius XII, Przemówienie do uczestników Kongresu robotników włoskich, który odbył się w Rzymie w dniu Zielonych Świąt 13 czerwca 1943, AAS  35(1943) 175.   
-69. Miscellanea Augustiana. Sw. Augustyn, Sermones post Maurinos reperti, Roma 1930, 633.   
-70. Por. Iz9,5.   
-71. Ef 2,14,17.   
-72. Respons z Jutrzni w  piątek po Wielkanocy.   
-73. J 14,27.
+52\. Por. Leon XIII, List Apost. Annum ingressi, Acta Leonis XIII, 23, 1902-1903, 52-80.   
+53\. Mdr 6,1-3.   
+54\. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 16, (nr 12).   
+55\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1940 r., AAS 33(1941) 5-14.   
+56\. De De civitate Dei, lib. IV, c. 4 PL 41, 115; por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1939 r., AAS 32(1940) 5-13.   
+57\. Por. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 10-21, (nr 14).   
+58\. Por. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 439, (nr 155 i następne).   
+59\. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 17, (nr 16); Benedykt XV, Wezwanie do przywódców krajów uczestniczących w wojnie z dnia 1 sierpnia 1917 r., AAS 9(1917) 418.   
+60\. Pius XII, Orędzie radiowe z dnia 24 sierpnia 1939 r., AAS 31 (1939) 334.   
+61\. AAS 53(1961) 440-441, (nr 155 i następne).   
+62\. Pius XII, Orędzie radiowe wygłoszone w wigilię Bożego Narodzenia 1941 r., AAS 34(1942) 16-17, (nr 13).   
+63\. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 443, (nr 174).   
+64\. Por. Pius XII, Przemówienie do uczestników zjazdu męskiej młodzieży włoskiej Akcji Katolickiej w Rzymie, wygłoszone 12 września 1948 r., AAS 40(1948) 412.   
+65\. Por. Jan XXIII, Enc. Mater et Magistra, AAS 53(1961) 454, (nr 227 i następne).   
+66\. Tamże, s. 456, (nr.239).   
+67\. Tamże, s. 457,(nr 239); por. Leon XIII, Enc. Immortale Dei, ASS 18(1885) 178; Pius XI, Enc. Ubi arcano, AAS 14(1922) 698; Pius XII, Przemówienie do delegatek Międzynarodowego Związku Stowarzyszeń Kobiet Katolickich uczestniczek Światowego Kongresu z dnia 1 września 1947 r., AAS 39(1947) 486.   
+68\. Pius XII, Przemówienie do uczestników Kongresu robotników włoskich, który odbył się w Rzymie w dniu Zielonych Świąt 13 czerwca 1943, AAS  35(1943) 175.   
+69\. Miscellanea Augustiana. Sw. Augustyn, Sermones post Maurinos reperti, Roma 1930, 633.   
+70\. Por. Iz9,5.   
+71\. Ef 2,14,17.   
+72\. Respons z Jutrzni w  piątek po Wielkanocy.   
+73\. J 14,27.
 
 Jan XXIII - spis treści  
 dokumenty społeczne - spis treści  

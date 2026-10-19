@@ -1346,4 +1346,4 @@ ruega por nosotros!
 
 [^295]: Cf. *Propositio* 12.
 
-100. *Ibíd*.
+100\. *Ibíd*.

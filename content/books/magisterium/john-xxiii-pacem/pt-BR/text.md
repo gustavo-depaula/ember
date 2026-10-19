@@ -631,4 +631,4 @@ Nunca se insistirá demasiado na necessidade de atuar a referida cooperação de
 
 [^60]: Responsório, nas Mat. da VI féria dentro da oitava da Páscoa.
 
-49. Cf.  [*Mensagem radiofônica*, na vigília do Natal de 1941](/content/pius-xii/pt/speeches/1941/documents/hf_p-xii_spe_19411224_radiomessage-peace.html), *AAS* 34(1942), p. 17; et Bento XV, *Adhortatio ad moderatores populorum belligerantium*, do dia l de Agosto de 1917, p. 418.
+49\. Cf.  [*Mensagem radiofônica*, na vigília do Natal de 1941](/content/pius-xii/pt/speeches/1941/documents/hf_p-xii_spe_19411224_radiomessage-peace.html), *AAS* 34(1942), p. 17; et Bento XV, *Adhortatio ad moderatores populorum belligerantium*, do dia l de Agosto de 1917, p. 418.

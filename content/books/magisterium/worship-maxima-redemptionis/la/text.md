@@ -207,6 +207,6 @@ A. CARINCI, Archiep. Seleuc., *a secretis*
 
 [^6]: \[\] *Decretum*, II, 7.
 
-5. \[\] Cfr. CAN. 862.
+5\. \[\] Cfr. CAN. 862.
 
-7. \[\] Can. 462, n. 6.
+7\. \[\] Can. 462, n. 6.

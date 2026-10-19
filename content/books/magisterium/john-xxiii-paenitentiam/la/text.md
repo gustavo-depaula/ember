@@ -91,4 +91,4 @@ Pressante invito al mondo cattolico con esortazione a più intensa preghiera e a
 
 [^10]: (#fnref10)) Serm. 351, 5, 12: PL 39, 1549.
 
-2. (#fnref2)) Cf. Const. apost. [*Humanae salutis*](/content/john-xxiii/la/apost_constitutions/documents/hf_j-xxiii_apc_19611225_humanae-salutis.html): AAS 54(1962), p. 12; EE 7/1280.
+2\. (#fnref2)) Cf. Const. apost. [*Humanae salutis*](/content/john-xxiii/la/apost_constitutions/documents/hf_j-xxiii_apc_19611225_humanae-salutis.html): AAS 54(1962), p. 12; EE 7/1280.

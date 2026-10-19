@@ -1448,8 +1448,8 @@ A todos e a cada um, assegurando a minha constante prece, concedo de coração a
 
 [^183]: (#fnref183)) Prefácio da Missa da Festa de Cristo Rei.
 
-85. (#fnref85)) Cfr. [*Mensagem do VI Sínodo dos Bispos às Famílias cristãs no mundo contemporâneo*](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_19801025_message-synod_po.html), 5: 24 de Outubro de 1980.
+85\. (#fnref85)) Cfr. [*Mensagem do VI Sínodo dos Bispos às Famílias cristãs no mundo contemporâneo*](http://www.vatican.va/roman_curia/synod/documents/rc_synod_doc_19801025_message-synod_po.html), 5: 24 de Outubro de 1980.
 
-511. (#fnref151)) Conc. Ecum. Vat. II, Decl. sobre a Educação cristã *[Gravissimum educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_po.html)*, 3; cfr. João Paulo PP. II. Exort. Ap. *[Catechesi tradendae](/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_16101979_catechesi-tradendae.html)*, 36: *AAS* 71 (1979), 1308.
+511\. (#fnref151)) Conc. Ecum. Vat. II, Decl. sobre a Educação cristã *[Gravissimum educationis](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_gravissimum-educationis_po.html)*, 3; cfr. João Paulo PP. II. Exort. Ap. *[Catechesi tradendae](/content/john-paul-ii/pt/apost_exhortations/documents/hf_jp-ii_exh_16101979_catechesi-tradendae.html)*, 36: *AAS* 71 (1979), 1308.
 
-1116. (#fnref116)) Cfr. *Ibid*., 41.
+1116\. (#fnref116)) Cfr. *Ibid*., 41.
