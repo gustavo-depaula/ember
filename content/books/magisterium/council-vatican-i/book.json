@@ -1,0 +1,144 @@
+{
+  "id": "council-vatican-i",
+  "cover": "quarter",
+  "name": {
+    "en-US": "First Vatican Council",
+    "pt-BR": "Concílio Vaticano I",
+    "la": "Concilium Vaticanum I"
+  },
+  "author": {
+    "en-US": "First Vatican Council",
+    "pt-BR": "Concílio Vaticano I",
+    "la": "Concilium Vaticanum I"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 1869. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 1869. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "1869",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "vatican-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1869-1870,_Concilium_Vaticanum_I,_01_Sessio_Prima,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1869-1870,_Concilium_Vaticanum_I,_02_Schema_de_Doctrina_Catholica,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "https://www.vatican.va/archive/hist_councils/i-vatican-council/documents/vat-i_const_18700424_dei-filius_la.html",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum20.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/constituicao-dogmatica-dei-filius-24-04-1870/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/constituicao-dogmatica-pastor-aeternus-18-07-1870/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/declaracao-de-fe-catolica-06-01-1870/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/decreto-de-inauguracao-08-12-1869/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1869-1870,_Concilium_Vaticanum_I,_Sessioni,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "https://www.vatican.va/archive/hist_councils/i-vatican-council/documents/vat-i_const_18700424_dei-filius_it.html",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "01 Sessio Prima"
+      }
+    },
+    {
+      "id": "la-02",
+      "title": {
+        "la": "02 Schema de Doctrina Catholica"
+      }
+    },
+    {
+      "id": "la-03",
+      "title": {
+        "la": "Dei Filius"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "Decrees of the First Vatican Council"
+      }
+    },
+    {
+      "id": "pt-BR-01",
+      "title": {
+        "pt-BR": "Dei Filius"
+      }
+    },
+    {
+      "id": "pt-BR-02",
+      "title": {
+        "pt-BR": "Pastor Aeternus"
+      }
+    },
+    {
+      "id": "pt-BR-03",
+      "title": {
+        "pt-BR": "Declaração de Fé Católica"
+      }
+    },
+    {
+      "id": "pt-BR-04",
+      "title": {
+        "pt-BR": "Decreto de inauguração do Concílio Vaticano I"
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Sessioni"
+      }
+    },
+    {
+      "id": "it-02",
+      "title": {
+        "it": "Dei Filius"
+      }
+    }
+  ]
+}

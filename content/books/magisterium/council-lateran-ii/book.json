@@ -1,0 +1,66 @@
+{
+  "id": "council-lateran-ii",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Second Lateran Council",
+    "pt-BR": "Segundo Concílio de Latrão",
+    "la": "Concilium Lateranense II"
+  },
+  "author": {
+    "en-US": "Second Lateran Council",
+    "pt-BR": "Segundo Concílio de Latrão",
+    "la": "Concilium Lateranense II"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 1139. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 1139. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "1139",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "lateran-ii"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1139-1139,_Concilium_Lateranum_II,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum10.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1139-04-04,_Absens,_Concilium_Lateranum_II,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "Second Lateran Council – 1139 A.D."
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Concilium Lateranum II"
+      }
+    }
+  ]
+}

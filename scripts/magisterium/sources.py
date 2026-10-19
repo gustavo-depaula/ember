@@ -55,25 +55,26 @@ def fetch(url: str) -> bytes:
     host = urlparse(url).netloc
     with _registry_lock:
         lock = _host_locks.setdefault(host, threading.Lock())
+    # Crawl-delay spaces request *starts*: reserve the next slot under the lock,
+    # then wait and download outside it, so a slow response doesn't hold back the next.
     with lock:
-        wait = _host_last.get(host, 0) + HOST_DELAY.get(host, DEFAULT_DELAY) - time.monotonic()
-        if wait > 0:
-            time.sleep(wait)
-        data = None
-        for attempt in range(5):
-            try:
-                req = urllib.request.Request(url.replace(" ", "%20"), headers={"User-Agent": UA})
-                with urllib.request.urlopen(req, timeout=60) as r:
-                    data = r.read()
+        start = max(time.monotonic(), _host_last.get(host, 0) + HOST_DELAY.get(host, DEFAULT_DELAY))
+        _host_last[host] = start
+    time.sleep(max(0.0, start - time.monotonic()))
+    data = None
+    for attempt in range(5):
+        try:
+            req = urllib.request.Request(url.replace(" ", "%20"), headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = r.read()
+            break
+        except urllib.error.HTTPError as e:
+            if e.code in (404, 410):
+                data = b""
                 break
-            except urllib.error.HTTPError as e:
-                if e.code in (404, 410):
-                    data = b""
-                    break
-                time.sleep(2 ** attempt * 2)
-            except Exception:
-                time.sleep(2 ** attempt * 2)
-        _host_last[host] = time.monotonic()
+            time.sleep(2 ** attempt * 2)
+        except Exception:
+            time.sleep(2 ** attempt * 2)
     if data is None:
         raise RuntimeError(f"fetch failed after retries: {url}")
     f.parent.mkdir(parents=True, exist_ok=True)
@@ -332,10 +333,33 @@ def pdf_text(url: str, title: str) -> Extract:
                 joined += l  # Chinese and Japanese lines join without a space
             else:
                 joined = joined + " " + l if joined else l
+        # Margin line numbers and stray letters from the printed page, not text.
+        if re.fullmatch(r"\W*(\d{1,4}|[A-Za-z])\W*", joined):
+            continue
         paras.append(md_escape_paragraph(joined))
     if paras and DCO_HEADER.match(paras[0]):
         paras = paras[1:]
     return Extract(title, f"# {md_escape_inline(title)}\n\n" + "\n\n".join(paras) + "\n")
+
+
+SCRIPTS = {
+    "grc": r"[\u0370-\u03ff\u1f00-\u1fff]", "el": r"[\u0370-\u03ff\u1f00-\u1fff]",
+    "ar": r"[\u0600-\u06ff]", "he": r"[\u0590-\u05ff]",
+    "ru": r"[\u0400-\u04ff]", "uk": r"[\u0400-\u04ff]", "be": r"[\u0400-\u04ff]",
+    "zh": r"[\u3400-\u9fff]", "zh-cn": r"[\u3400-\u9fff]", "zh-tw": r"[\u3400-\u9fff]",
+    "ja": r"[\u3040-\u30ff\u3400-\u9fff]",
+}
+
+
+def check_script(lang: str, ex: Extract) -> None:
+    """Sources sometimes label a file with the wrong language (DCO files a French
+    translation as Greek). For languages with their own script, most letters must be in it."""
+    pattern = SCRIPTS.get(lang.lower())
+    if not pattern:
+        return
+    letters = re.findall(r"[^\W\d_]", ex.markdown)
+    if letters and len(re.findall(pattern, ex.markdown)) / len(letters) < 0.3:
+        raise NoText(f"labelled {lang} but not written in its script")
 
 
 def extract(url: str, fallback_title: str) -> Extract:

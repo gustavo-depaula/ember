@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 import sys
 import threading
 import traceback
@@ -27,7 +28,7 @@ from urllib.parse import urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from names import author_label, document_type, type_label  # noqa: E402
-from sources import NoText, extract  # noqa: E402
+from sources import NoText, check_script, extract  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 INVENTORY = ROOT / "research" / "magisterium" / "inventory.json"
@@ -109,6 +110,7 @@ def import_document(d: dict, status: dict) -> None:
             continue
         try:
             ex = extract(url, d["title"])
+            check_script(code, ex)
         except NoText as e:
             skipped[ld] = str(e)
             continue
@@ -163,11 +165,25 @@ def main() -> None:
     ap.add_argument("--only", nargs="*", help="book ids or inventory authors")
     ap.add_argument("--host", help="only fetch URLs on this host (others keep their previous state)")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--prune", action="store_true",
+                    help="delete books the current inventory no longer produces (after an inventory change)")
     args = ap.parse_args()
 
     docs = [d for d in json.loads(INVENTORY.read_text())
             if d["status"] == "include" and d["langs"] and d["author"] not in COUNCIL_AUTHORS]
     assign_ids(docs)
+    if args.prune:
+        expected = {d["id"] for d in docs}
+        status = json.loads(STATUS.read_text()) if STATUS.exists() else {}
+        for book_dir in sorted(BOOKS.iterdir()):
+            if book_dir.is_dir() and book_dir.name not in expected:
+                shutil.rmtree(book_dir)
+                status.pop(book_dir.name, None)
+                print(f"pruned {book_dir.name}")
+        for bid in [b for b in status if b not in expected]:
+            status.pop(bid)
+        STATUS.write_text(json.dumps(dict(sorted(status.items())), ensure_ascii=False, indent=1) + "\n")
+        return
     if args.only:
         docs = [d for d in docs if d["id"] in args.only or d["author"] in args.only]
     if args.host:

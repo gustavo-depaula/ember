@@ -84,6 +84,20 @@
   "reason": "compilation or non-magisterial item"
  },
  {
+  "author": "linus",
+  "date": "0067",
+  "type": null,
+  "title": "Vita Operaque",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0067-0076,_SS_Linus,_Vita_Operaque,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "compilation or non-magisterial item"
+ },
+ {
   "author": "anacletus-i",
   "date": "0076",
   "type": null,
@@ -138,6 +152,20 @@
   ],
   "status": "exclude",
   "reason": "compilation or non-magisterial item"
+ },
+ {
+  "author": "clement-i",
+  "date": "0088",
+  "type": null,
+  "title": "Episola ad Iulium Iulianumque Fratres",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Episola_ad_Iulium_Iulianumque_Fratres,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
  },
  {
   "author": "clement-i",
@@ -254,62 +282,6 @@
   "reason": "compilation or non-magisterial item"
  },
  {
-  "author": "holy-see",
-  "date": "0088",
-  "type": null,
-  "title": "Episola ad Iulium Iulianumque Fratres",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Episola_ad_Iulium_Iulianumque_Fratres,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0088",
-  "type": null,
-  "title": "Epistola ad Clericos",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Epistola_ad_Clericos,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0088",
-  "type": null,
-  "title": "Epistola ad Iacobum Fratrem Domini",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Epistola_ad_Iacobum_Fratrem_Domini,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0088",
-  "type": null,
-  "title": "Epistola de Communi Vita et Reliquis Causis",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0088-0097,_SS_Clemens_I,_Epistola_de_Communi_Vita_et_Reliquis_Causis,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "exclude",
-  "reason": "compilation or non-magisterial item"
- },
- {
   "author": "evaristus",
   "date": "0097",
   "type": null,
@@ -350,20 +322,6 @@
   ],
   "status": "review",
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
- },
- {
-  "author": "holy-see",
-  "date": "0097",
-  "type": null,
-  "title": "Epistola Supra Quod Christus Sit Caput et Sponsus Ecclesiae",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0097-0105,_SS_Evaristus,_Epistola_Supra_Quod_Christus_Sit_Caput_et_Sponsus_Ecclesiae,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
  },
  {
   "author": "clergy",
@@ -726,48 +684,6 @@
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
-  "author": "holy-see",
-  "date": "0105",
-  "type": null,
-  "title": "Decretum Ut Vitentur Detractiones",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0105-0115,_SS_Alexander_I,_Decretum_Ut_Vitentur_Detractiones,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0105",
-  "type": null,
-  "title": "Epistola ad Universos Orthodoxos Ubique Constitutos",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0105-0115,_SS_Alexander_I,_Epistola_ad_Universos_Orthodoxos_Ubique_Constitutos,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0105",
-  "type": null,
-  "title": "Epistola de Causis et Gravationibus Sacerdotum",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0105-0115,_SS_Alexander_I,_Epistola_de_Causis_et_Gravationibus_Sacerdotum,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
   "author": "family",
   "date": "0109-19-97",
   "type": "curia",
@@ -786,34 +702,6 @@
   "status": "review",
   "reason": "dicastery document outside doctrine/worship",
   "slug": "rio-doctr"
- },
- {
-  "author": "holy-see",
-  "date": "0115",
-  "type": null,
-  "title": "Epistola II de Reverentia Vasorum Sacri Ministerii",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0115-0125,_SS_Sixtus_I,_Epistola_II_de_Reverentia_Vasorum_Sacri_Ministerii,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0115",
-  "type": null,
-  "title": "Epistola Prima de Fidei Veritate",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0115-0125,_SS_Sixtus_I,_Epistola_Prima_de_Fidei_Veritate,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
  },
  {
   "author": "sixtus-i",
@@ -858,34 +746,6 @@
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
-  "author": "holy-see",
-  "date": "0136",
-  "type": null,
-  "title": "De Fide et Religionis Causis",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0136-0140,_SS_Hyginus,_De_Fide_et_Religionis_Causis,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0136",
-  "type": null,
-  "title": "Epistola ad Athenienses",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0136-0140,_SS_Hyginus,_Epistola_ad_Athenienses,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
   "author": "hyginus",
   "date": "0136",
   "type": null,
@@ -914,32 +774,18 @@
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
-  "author": "holy-see",
-  "date": "0140",
+  "author": "hyginus",
+  "date": "0136",
   "type": null,
-  "title": "Decretum 'Ut in Die Dominico Pascha Celebretur'",
+  "title": "Vita Operaque",
   "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0140-0155,_SS_Pius_I,_Decretum_'Ut_in_Die_Dominico_Pascha_Celebretur',_LT.doc"
+   "la": "http://www.documentacatholicaomnia.eu/01p/0136-0140,_SS_Hyginus,_Vita_Operaque,_LT.doc"
   },
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0140",
-  "type": null,
-  "title": "Epistola ad Italicos Archiepiscopos",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0140-0155,_SS_Pius_I,_Epistola_ad_Italicos_Archiepiscopos,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "compilation or non-magisterial item"
  },
  {
   "author": "pius-i",
@@ -982,6 +828,20 @@
   ],
   "status": "review",
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
+ },
+ {
+  "author": "pius-i",
+  "date": "0140",
+  "type": null,
+  "title": "Vita",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0140-0154,_SS_Pius_I,_Vita,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "compilation or non-magisterial item"
  },
  {
   "author": "anicetus",
@@ -1053,6 +913,20 @@
   ],
   "status": "review",
   "reason": "DCO catch-all page, issuer unclear"
+ },
+ {
+  "author": "soter",
+  "date": "0166",
+  "type": null,
+  "title": "Decretalia de Fede",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0166-0175,_SS_Soterius_[Soter],_Decretalia_de_Fede,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "eleutherius",
@@ -1143,6 +1017,20 @@
   "author": "callixtus-i",
   "date": "0217",
   "type": null,
+  "title": "Decretum de Ieiunio Quattuor Temporum Per Annum",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0217-0222,_SS_Callixtus_I,_Decretum_de_Ieiunio_Quattuor_Temporum_Per_Annum,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
+ },
+ {
+  "author": "callixtus-i",
+  "date": "0217",
+  "type": null,
   "title": "Epistolae Decretaque [ex MPG. Vol. 10. Col. 109-123]",
   "langs": {
    "grc": "http://www.documentacatholicaomnia.eu/01p/0217-0222,_SS_Callixtus_I,_Epistolae_Decretaque_[ex_MPG._Vol._10._Col._109-123],_MGR.pdf"
@@ -1154,18 +1042,18 @@
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
-  "author": "holy-see",
-  "date": "0217",
+  "author": "urban-i",
+  "date": "0220",
   "type": null,
-  "title": "Decretum de Ieiunio Quattuor Temporum Per Annum",
+  "title": "Vita",
   "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0217-0222,_SS_Callixtus_I,_Decretum_de_Ieiunio_Quattuor_Temporum_Per_Annum,_LT.doc"
+   "la": "http://www.documentacatholicaomnia.eu/01p/0220-0230,_SS_Urbanus_I,_Vita,_LT.doc"
   },
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "compilation or non-magisterial item"
  },
  {
   "author": "callixtus",
@@ -1181,20 +1069,6 @@
   "ds": [
    "105"
   ]
- },
- {
-  "author": "holy-see",
-  "date": "0222",
-  "type": null,
-  "title": "Decretum de Communi Vita et Oblationibus Fidelium",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0222-0230,_SS_Urbanus_I,_Decretum_de_Communi_Vita_et_Oblationibus_Fidelium,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "exclude",
-  "reason": "compilation or non-magisterial item"
  },
  {
   "author": "urban-i",
@@ -1224,20 +1098,6 @@
   ],
   "status": "review",
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
- },
- {
-  "author": "holy-see",
-  "date": "0230",
-  "type": null,
-  "title": "Decretum Supra de Fraterna Dilectione et Vitandis Malis",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0230-0235,_SS_Pontianus,_Decretum_Supra_de_Fraterna_Dilectione_et_Vitandis_Malis,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
  },
  {
   "author": "pontian",
@@ -1358,48 +1218,6 @@
   "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
-  "author": "holy-see",
-  "date": "0236",
-  "type": null,
-  "title": "Decretum de Ordinibus Ecclesiasticis",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0236-0250,_SS_Fabianus,_Decretum_de_Ordinibus_Ecclesiasticis,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0236",
-  "type": null,
-  "title": "Epistola ad Hilarium Episcopum",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0236-0250,_SS_Fabianus,_Epistola_ad_Hilarium_Episcopum,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0236",
-  "type": null,
-  "title": "Epistola ad Omnes Orientales Episcopos",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0236-0250,_SS_Fabianus,_Epistola_ad_Omnes_Orientales_Episcopos,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
   "author": "clement-i",
   "date": "0251",
   "type": "letter",
@@ -1421,6 +1239,34 @@
   "title": "Decretum Ne Sacerdotes Domini Iurare Praesumant",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Decretum_Ne_Sacerdotes_Domini_Iurare_Praesumant,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "cornelius",
+  "date": "0251",
+  "type": null,
+  "title": "Decretum de Translatione Corporum Apostolorum",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Decretum_de_Translatione_Corporum_Apostolorum,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "cornelius",
+  "date": "0251",
+  "type": null,
+  "title": "Episotola ad Cyprianum",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Episotola_ad_Cyprianum,_LT.doc"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -1456,48 +1302,6 @@
   ],
   "status": "review",
   "reason": "collected volume: split into single documents at import"
- },
- {
-  "author": "holy-see",
-  "date": "0251",
-  "type": null,
-  "title": "Decretum Ne Sacerdotes Domini Iurare Praesumant",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Decretum_Ne_Sacerdotes_Domini_Iurare_Praesumant,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0251",
-  "type": null,
-  "title": "Decretum de Translatione Corporum Apostolorum",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Decretum_de_Translatione_Corporum_Apostolorum,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
-  "author": "holy-see",
-  "date": "0251",
-  "type": null,
-  "title": "Episotola ad Cyprianum",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0251-0253,_SS_Cornelius,_Episotola_ad_Cyprianum,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
  },
  {
   "author": "lucius-i",
@@ -1570,20 +1374,6 @@
   "reason": "compilation or non-magisterial item"
  },
  {
-  "author": "holy-see",
-  "date": "0254",
-  "type": null,
-  "title": "Decretum Hilario Episcopo Directum",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0254-0257,_SS_Stephanus_I,_Decretum_Hilario_Episcopo_Directum,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
   "author": "stephen-i",
   "date": "0254",
   "type": null,
@@ -1618,6 +1408,20 @@
   "title": "Decretum Hilario Episcopo Directum",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/0254-0257,_SS_Stephanus_I,_Decretum_Hilario_Episcopo_Directum,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "stephen-i",
+  "date": "0254",
+  "type": null,
+  "title": "Decretum Supra Omnibus Episcopis Scripta",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0254-0257,_SS_Stephanus_I,_Decretum_Supra_Omnibus_Episcopis_Scripta,_LT.doc"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -1670,7 +1474,7 @@
   ]
  },
  {
-  "author": "holy-see",
+  "author": "sixtus-ii",
   "date": "0257",
   "type": null,
   "title": "Decretum ad Gratum Episcopum",
@@ -1681,15 +1485,15 @@
    "documentacatholicaomnia.eu"
   ],
   "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "reason": "pre-Siricius decree: probably Pseudo-Isidorian"
  },
  {
   "author": "sixtus-ii",
   "date": "0257",
   "type": null,
-  "title": "Decretum ad Gratum Episcopum",
+  "title": "Decretum ad Hispaniarum Episcopos Directum",
   "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0257-0258,_SS_Sixtus_II,_Decretum_ad_Gratum_Episcopum,_LT.doc"
+   "la": "http://www.documentacatholicaomnia.eu/01p/0257-0258,_SS_Sixtus_II,_Decretum_ad_Hispaniarum_Episcopos_Directum,_LT.doc"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -1914,20 +1718,6 @@
   "title": "Vita Operaque",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/0275-0283,_SS_Eutychianus,_Vita_Operaque_[Editor],_MLT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "exclude",
-  "reason": "compilation or non-magisterial item"
- },
- {
-  "author": "holy-see",
-  "date": "0275",
-  "type": null,
-  "title": "Opera Omnia",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0275-0283,_SS_Eutychianus,_Opera_Omnia,_LT.pdf"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -2908,20 +2698,6 @@
   "reason": "compilation or non-magisterial item"
  },
  {
-  "author": "holy-see",
-  "date": "0366",
-  "type": null,
-  "title": "De Explanatione Fidei",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0366-0383,_SS_Damasus_I,_De_Explanatione_Fidei,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
   "author": "damasus-i",
   "date": "0374",
   "type": "letter",
@@ -3110,20 +2886,6 @@
   ],
   "status": "exclude",
   "reason": "compilation or non-magisterial item"
- },
- {
-  "author": "holy-see",
-  "date": "0385-02-10",
-  "type": null,
-  "title": "Epistola Decretalis",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0385-02-10,_SS_Siricius,_Epistola_Decretalis,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
  },
  {
   "author": "siricius",
@@ -4874,6 +4636,20 @@
   "author": "silverius",
   "date": "0536",
   "type": null,
+  "title": "Epistolae",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/0536-0537,_SS_Silverius,_Epistolae,_MLT.pdf"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "collected volume: split into single documents at import"
+ },
+ {
+  "author": "silverius",
+  "date": "0536",
+  "type": null,
   "title": "Vita Operaque",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/0536-0537,_SS_Silverius,_Vita_Operaque_[Ex_Libro_Pontificalis],_MLT.pdf"
@@ -5609,20 +5385,6 @@
   "title": "XL Homiliarum in Evangelia Liber Primus",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_XL_Homiliarum_in_Evangelia_Liber_Primus,_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "exclude",
-  "reason": "the pope's private writing (sermons, commentaries, poems)"
- },
- {
-  "author": "holy-see",
-  "date": "0590",
-  "type": null,
-  "title": "Regulae Pastoralis Liber",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0590-0604,_SS_Gregorius_I_Magnus,_Regulae_Pastoralis_Liber,_LT.pdf"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -6758,20 +6520,6 @@
  },
  {
   "author": "gregory-ii",
-  "date": "0724-12-01",
-  "type": null,
-  "title": "Commends Boniface To The People Of Thuringia",
-  "langs": {
-   "en": "http://www.documentacatholicaomnia.eu/01p/0724-12-01,_SS_Gregorius_II,_Commends_Boniface_To_The_People_Of_Thuringia,_EN.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": ""
- },
- {
-  "author": "gregory-ii",
   "date": "0726",
   "type": "letter",
   "title": "Saint Grégoire II, Ep. 'Desiderabilem mihi' ad S. Bonifatium, 22 Nov. 726",
@@ -6855,6 +6603,20 @@
   ],
   "status": "exclude",
   "reason": "compilation or non-magisterial item"
+ },
+ {
+  "author": "gregory-ii",
+  "date": "0732",
+  "type": null,
+  "title": "Pope Invests Boniface With The Pallium",
+  "langs": {
+   "en": "http://www.documentacatholicaomnia.eu/01p/0732-0732,_SS_Gregorius_II,_Pope_Invests_Boniface_With_The_Pallium,_EN.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
  },
  {
   "author": "gregory-iii",
@@ -6953,7 +6715,7 @@
    "documentacatholicaomnia.eu"
   ],
   "status": "exclude",
-  "reason": "about the pope or addressed to him, not his act"
+  "reason": "not by the pope whose page lists it"
  },
  {
   "author": "zachary",
@@ -7197,20 +6959,6 @@
   "reason": "compilation or non-magisterial item"
  },
  {
-  "author": "holy-see",
-  "date": "0772",
-  "type": null,
-  "title": "Capitula Angilramni",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0772-0795,_SS_Hadrianus_I,_Capitula_Angilramni,_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
- },
- {
   "author": "adrian-i",
   "date": "0784-04-04",
   "type": null,
@@ -7377,8 +7125,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "not by the pope whose page lists it"
  },
  {
   "author": "holy-see",
@@ -7391,8 +7139,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "not by the pope whose page lists it"
  },
  {
   "author": "clergy",
@@ -8441,8 +8189,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "antipope"
  },
  {
   "author": "anastasius-iii",
@@ -8709,20 +8457,6 @@
   ],
   "status": "exclude",
   "reason": "compilation or non-magisterial item"
- },
- {
-  "author": "holy-see",
-  "date": "0963",
-  "type": null,
-  "title": "Privilegia Et Constitutiones",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/0963-0965,_SS_Leo_VIII,_Privilegia_Et_Constitutiones,_MLT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
  },
  {
   "author": "leo-viii",
@@ -9297,8 +9031,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship"
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)"
  },
  {
   "author": "sergius-iv",
@@ -10377,8 +10111,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "not by the pope whose page lists it"
  },
  {
   "author": "synod-guastallense",
@@ -10658,6 +10392,34 @@
   "reason": "compilation or non-magisterial item"
  },
  {
+  "author": "anacletus",
+  "date": "1130",
+  "type": null,
+  "title": "Epistolae Et Privilegia",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/02m/1130-1138,_Anacletus_Antipapa,_Epistolae_Et_Privilegia,_MLT.pdf"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "antipope"
+ },
+ {
+  "author": "anacletus",
+  "date": "1130",
+  "type": null,
+  "title": "Vita Operaque",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/02m/1130-1138,_Anacletus_Antipapa,_Vita_Operaque_[Ex_Acta_Sanctorum_Bolland],_MLT.pdf"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "antipope"
+ },
+ {
   "author": "innocent-ii",
   "date": "1130",
   "type": null,
@@ -10728,7 +10490,7 @@
   "reason": "compilation or non-magisterial item"
  },
  {
-  "author": "anacletus-i",
+  "author": "anacletus-ii",
   "date": "1130-09-27",
   "type": null,
   "title": "Investitura di Ruggero II A Re",
@@ -10738,8 +10500,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "include",
-  "reason": ""
+  "status": "exclude",
+  "reason": "antipope"
  },
  {
   "author": "lateran-ii",
@@ -12081,8 +11843,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "presse"
  },
  {
@@ -12566,20 +12328,6 @@
   ],
   "status": "exclude",
   "reason": "compilation or non-magisterial item"
- },
- {
-  "author": "holy-see",
-  "date": "1227",
-  "type": null,
-  "title": "Decretalium",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1227-1241,_SS_Gregorius_VIIII,_Decretalium_[Lectio_1],_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
  },
  {
   "author": "gregory-ix",
@@ -14401,6 +14149,48 @@
   "reason": ""
  },
  {
+  "author": "pius-ii",
+  "date": "1405",
+  "type": null,
+  "title": "Epistula Johanni Lauterbach [1444-11-13]",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/03d/1405-1464,_Piccolominus_Enea_[postea_Pius_II],_Epistula_Johanni_Lauterbach_[1444-11-13],_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "pius-ii",
+  "date": "1405",
+  "type": null,
+  "title": "Epistula Sigismundo [1443-12-09]",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/03d/1405-1464,_Piccolominus_Enea_[postea_Pius_II],_Epistula_Sigismundo_[1443-12-09],_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "pius-ii",
+  "date": "1405",
+  "type": null,
+  "title": "Epistula Wilhelmo de Lapide [1444-06-01]",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/03d/1405-1464,_Piccolominus_Enea_[postea_Pius_II],_Epistula_Wilhelmo_de_Lapide_[1444-06-01],_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
   "author": "gregory-xii",
   "date": "1406",
   "type": null,
@@ -14513,6 +14303,20 @@
   "status": "review",
   "reason": "dicastery document outside doctrine/worship",
   "slug": "ars"
+ },
+ {
+  "author": "john-xxiii",
+  "date": "1410",
+  "type": null,
+  "title": "Bullarium (Cherubini vol 1 ff 308-309)",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/02m/1410-1419,_Cossa_Baldassarre_(Antipapa_Ioannes_XXIII),_Bullarium_(Cherubini_vol_1_ff_308-309),_LT.pdf"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "antipope"
  },
  {
   "author": "social-communications",
@@ -15135,20 +14939,21 @@
   ]
  },
  {
-  "author": "holy-see",
+  "author": "alexander-vi",
   "date": "1493-05-04",
   "type": null,
   "title": "Inter Caetera",
   "langs": {
+   "en": "https://www.papalencyclicals.net/alex06/alex06inter.htm",
    "it": "http://www.documentacatholicaomnia.eu/01p/1493-05-04,_SS_Alexander_VI,_Inter_Caetera,_IT.doc",
-   "es": "http://www.documentacatholicaomnia.eu/01p/1493-05-04,_SS_Alexander_VI,_Inter_Coetera,_ES.doc",
-   "en": "http://www.documentacatholicaomnia.eu/01p/1493-05-23,_SS_Alexander_VI,_Bulla_'Inter_Caetera',_EN.doc"
+   "es": "http://www.documentacatholicaomnia.eu/01p/1493-05-04,_SS_Alexander_VI,_Inter_Coetera,_ES.doc"
   },
   "sources": [
+   "papalencyclicals.net",
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "include",
+  "reason": ""
  },
  {
   "author": "julius-ii",
@@ -15554,7 +15359,8 @@
   "langs": {
    "pt": "https://www.veritatis.com.br/cum-ex-apostolatus-officio-paulo-iv-15-02-1554/",
    "la": "http://www.documentacatholicaomnia.eu/01p/1559-02-15,_SS_Paulus_IV,_Constitutio_'Cum_Ex_Apostolatus',_LT.doc",
-   "es": "http://www.documentacatholicaomnia.eu/01p/1559-02-15,_SS_Paulus_IV,_Cum_Ex_Apostolatus_Officio,_ES.doc"
+   "es": "http://www.documentacatholicaomnia.eu/01p/1559-02-15,_SS_Paulus_IV,_Cum_Ex_Apostolatus_Officio,_ES.doc",
+   "it": "http://www.documentacatholicaomnia.eu/01p/1559-03-15,_SS_Paulus_IV,_Constitutio_Apostolica_'Cum_Ex_Apostolatus_Officio',_IT.doc"
   },
   "sources": [
    "veritatis.com.br",
@@ -15619,20 +15425,6 @@
   ],
   "status": "exclude",
   "reason": "compilation or non-magisterial item"
- },
- {
-  "author": "pius-iv",
-  "date": "1559-03-15",
-  "type": null,
-  "title": "Constitutio Apostolica 'Cum Ex Apostolatus Officio'",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1559-03-15,_SS_Paulus_IV,_Constitutio_Apostolica_'Cum_Ex_Apostolatus_Officio',_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": ""
  },
  {
   "author": "unattributed",
@@ -16428,18 +16220,20 @@
   ]
  },
  {
-  "author": "holy-see",
+  "author": "alexander-vii",
   "date": "1659-10-09",
   "type": null,
   "title": "Super Cathedram Principis Apostolorum",
   "langs": {
+   "en": "https://www.papalencyclicals.net/alex07/alex07super.htm",
    "la": "http://www.documentacatholicaomnia.eu/01p/1659-10-09,_SS_Alexander_VII,_Super_Cathedram_Principis_Apostolorum,_LT.doc"
   },
   "sources": [
+   "papalencyclicals.net",
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "include",
+  "reason": ""
  },
  {
   "author": "holy-office",
@@ -16484,30 +16278,19 @@
   "author": "alexander-vii",
   "date": "1661-12-08",
   "type": "brief",
-  "title": "Alexandre VII, Breve 'Sollicitudo omnium ecclesiarum'; 8 décembre 1661",
-  "langs": {},
-  "sources": [
-   "denzinger"
-  ],
-  "status": "include",
-  "reason": "cited in Denzinger; no full text located yet",
-  "ds": [
-   "2015–2017"
-  ]
- },
- {
-  "author": "holy-see",
-  "date": "1661-12-08",
-  "type": null,
   "title": "Sollicitudo Omnium Ecclesiarum",
   "langs": {
    "es": "http://www.documentacatholicaomnia.eu/01p/1661-12-08,_SS_Alexander_VII,_Sollicitudo_Omnium_Ecclesiarum,_ES.doc"
   },
   "sources": [
-   "documentacatholicaomnia.eu"
+   "documentacatholicaomnia.eu",
+   "denzinger"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "include",
+  "reason": "",
+  "ds": [
+   "2015–2017"
+  ]
  },
  {
   "author": "holy-office",
@@ -16613,7 +16396,10 @@
   "ds": [
    "2181–2192",
    "2817–2820",
+   "2885–2888",
    "3680",
+   "3681–3682",
+   "3866–3873",
    "3918–3921"
   ]
  },
@@ -16701,8 +16487,8 @@
   "sources": [
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "DCO catch-all page, issuer unclear"
+  "status": "exclude",
+  "reason": "not by the pope whose page lists it"
  },
  {
   "author": "innocent-xii",
@@ -18259,29 +18045,16 @@
  {
   "author": "pius-vi",
   "date": "1791-11-05",
-  "type": null,
-  "title": "Ancorché antichissimo",
-  "langs": {
-   "en": "https://www.papalencyclicals.net/pius06/ancorche-antichissimo.htm",
-   "it": "http://www.documentacatholicaomnia.eu/01p/1791-11-05,_SS_Pius_VI,_Ancorche_Antichissimo,_IT.doc"
-  },
-  "sources": [
-   "papalencyclicals.net",
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": ""
- },
- {
-  "author": "pius-vi",
-  "date": "1791-11-05",
   "type": "chirografo",
   "title": "Chirografo Ancorché antichissimo (Roma, 5 novembre 1791)",
   "langs": {
-   "it": "https://www.vatican.va/content/pius-vi/it/documents/chirografo-ancorche-antichissimo-5-novembre-1791.html"
+   "it": "https://www.vatican.va/content/pius-vi/it/documents/chirografo-ancorche-antichissimo-5-novembre-1791.html",
+   "en": "https://www.papalencyclicals.net/pius06/ancorche-antichissimo.htm"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "papalencyclicals.net",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -18435,30 +18208,17 @@
   "type": "dichiarazione",
   "title": "Dichiarazione Perpensis circumstantiis (Roma, 10 dicembre 1792)",
   "langs": {
-   "it": "https://www.vatican.va/content/pius-vi/it/documents/dichiarazione-perpensis-circumstantiis-10-dicembre-1792.html"
+   "it": "https://www.vatican.va/content/pius-vi/it/documents/dichiarazione-perpensis-circumstantiis-10-dicembre-1792.html",
+   "en": "https://www.papalencyclicals.net/pius06/perpensis-circumstantiis.htm"
   },
   "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "perpensis-circumstantiis"
- },
- {
-  "author": "pius-vi",
-  "date": "1792-12-10",
-  "type": null,
-  "title": "Perpensis circumstantiis",
-  "langs": {
-   "en": "https://www.papalencyclicals.net/pius06/perpensis-circumstantiis.htm",
-   "it": "http://www.documentacatholicaomnia.eu/01p/1792-12-10,_SS_Pius_VI,_Perpensis_Circumstantiis,_IT.doc"
-  },
-  "sources": [
+   "vatican.va",
    "papalencyclicals.net",
    "documentacatholicaomnia.eu"
   ],
   "status": "include",
-  "reason": ""
+  "reason": "",
+  "slug": "perpensis-circumstantiis"
  },
  {
   "author": "pius-vi",
@@ -19546,21 +19306,6 @@
   "slug": "le-armi-valorose"
  },
  {
-  "author": "holy-office",
-  "date": "1831-08-31",
-  "type": "response",
-  "title": "Declaratio S. Officii de usura, circa responsum aliquod Pii DVIII sous Grégoire XVI ; 31 août 1831",
-  "langs": {},
-  "sources": [
-   "denzinger"
-  ],
-  "status": "include",
-  "reason": "cited in Denzinger; no full text located yet",
-  "ds": [
-   "3681–3682"
-  ]
- },
- {
   "author": "gregory-xvi",
   "date": "1831-09-09",
   "type": "breve",
@@ -19617,25 +19362,12 @@
    "it": "https://www.vatican.va/content/gregorius-xvi/it/documents/chirografo-ci-e-stato-9-giugno-1832.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
   "slug": "ci-e-stato"
- },
- {
-  "author": "gregory-xvi",
-  "date": "1832-06-09",
-  "type": null,
-  "title": "Ci e' Stato",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1832-06-09,_SS_Gregorius_XVI,_Ci_e'_Stato,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": ""
  },
  {
   "author": "gregory-xvi",
@@ -20813,25 +20545,12 @@
    "it": "https://www.vatican.va/content/pius-ix/it/documents/proclama-romani-e-quanti-14-marzo-1848.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
   "slug": "romani-e-quanti"
- },
- {
-  "author": "pius-ix",
-  "date": "1848-03-14",
-  "type": null,
-  "title": "Romani. e Quanti",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1848-03-14,_SS_Pius_VIIII,_Romani._e_Quanti,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": ""
  },
  {
   "author": "pius-ix",
@@ -21648,22 +21367,6 @@
   "slug": "maximae-quidem"
  },
  {
-  "author": "holy-office",
-  "date": "1864-09-16",
-  "type": "letter",
-  "title": "Ep. S. Officii ad episcopos Angliae, 16 septembre 1864 (sous Pie IX); De unicitate Ecclesiae, contra theoriam ramorum",
-  "langs": {},
-  "sources": [
-   "denzinger"
-  ],
-  "status": "include",
-  "reason": "cited in Denzinger; no full text located yet",
-  "ds": [
-   "2885–2888",
-   "3866–3873"
-  ]
- },
- {
   "author": "pius-ix",
   "date": "1864-12-08",
   "type": "encyclica",
@@ -22317,30 +22020,17 @@
   "title": "Lettera Apostolica Graves ac diuturnae (23 marzo 1875)",
   "langs": {
    "it": "https://www.vatican.va/content/pius-ix/it/documents/litterae-apostolicae-graves-ac-diuturnae-23-martii-1875.html",
-   "la": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-graves-ac-diuturnae-23-martii-1875.html"
+   "la": "https://www.vatican.va/content/pius-ix/la/documents/litterae-apostolicae-graves-ac-diuturnae-23-martii-1875.html",
+   "en": "https://www.papalencyclicals.net/pius09/p9graves.htm"
   },
   "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "graves-ac-diuturnae"
- },
- {
-  "author": "pius-ix",
-  "date": "1875-03-25",
-  "type": null,
-  "title": "Graves Ac Diuturnae",
-  "langs": {
-   "en": "https://www.papalencyclicals.net/pius09/p9graves.htm",
-   "it": "http://www.documentacatholicaomnia.eu/01p/1875-03-25,_SS_Pius_VIIII,_Graves_ac_Diuturnae,_IT.doc"
-  },
-  "sources": [
+   "vatican.va",
    "papalencyclicals.net",
    "documentacatholicaomnia.eu"
   ],
   "status": "include",
-  "reason": ""
+  "reason": "",
+  "slug": "graves-ac-diuturnae"
  },
  {
   "author": "pius-ix",
@@ -23172,21 +22862,6 @@
  {
   "author": "leo-xiii",
   "date": "1886-01-06",
-  "type": null,
-  "title": "Encyclica 'Iampridem Nobis'",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1886-01-06,_SS_Leo_XIII,_Encyclica_'Iampridem_Nobis',_IT.doc",
-   "en": "http://www.documentacatholicaomnia.eu/01p/1886-01-06,_SS_Leo_XIII,_Encyclica_'Iampridem_Nobis',_EN.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "leo-xiii",
-  "date": "1886-01-06",
   "type": "encyclicals",
   "title": "Iampridem (January\n 6, 1886)",
   "langs": {
@@ -23195,7 +22870,8 @@
    "la": "https://www.vatican.va/content/leo-xiii/la/encyclicals/documents/hf_l-xiii_enc_06011886_iampridem.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -23875,20 +23551,6 @@
  {
   "author": "leo-xiii",
   "date": "1890-10-15",
-  "type": null,
-  "title": "Dall'alto Dell'Apostolico Seggio",
-  "langs": {
-   "en": "http://www.documentacatholicaomnia.eu/01p/1890-10-15,_SS_Leo_XIII,_Dall'alto_Dell'Apostolico_Seggio,_EN.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "leo-xiii",
-  "date": "1890-10-15",
   "type": "encyclicals",
   "title": "Dall’alto Dell’apostolico Seggio",
   "langs": {
@@ -23901,21 +23563,6 @@
   ],
   "status": "include",
   "reason": ""
- },
- {
-  "author": "leo-xiii",
-  "date": "1890-10-15",
-  "type": null,
-  "title": "Encyclica 'Dall'Alto Dell'Apostolico Seggio'",
-  "langs": {
-   "en": "http://www.documentacatholicaomnia.eu/01p/1890-10-15,_SS_Leo_XIII,_Encyclica_'Dall'Alto_Dell'Apostolico_Seggio',_EN.doc",
-   "pt": "http://www.documentacatholicaomnia.eu/01p/1890-10-15,_SS_Leo_XIII,_Encyclica_'Dall'Alto_Dell'Apostolico_Seggio',_PT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "leo-xiii",
@@ -23935,20 +23582,6 @@
   "status": "include",
   "reason": "",
   "slug": "catholicae-ecclesiae"
- },
- {
-  "author": "gregory-i",
-  "date": "1891-03-02",
-  "type": null,
-  "title": "Si e Compiuto",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1891-03-02,_SS_Leo_XIII,_Si_e_Compiuto,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "leo-xiii",
@@ -25202,7 +24835,8 @@
   "title": "Omnibus Compertum (July 21, 1900)",
   "langs": {
    "en": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_21071900_omnibus-compertum.html",
-   "it": "http://www.documentacatholicaomnia.eu/01p/1900-07-21,_SS_Leo_XIII,_Encyclica_'Omnibus_Compertum',_IT.doc"
+   "it": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_19000721_omnibus-compertum.html",
+   "la": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_19000721_omnibus-compertum.html"
   },
   "sources": [
    "vatican.va",
@@ -25211,22 +24845,6 @@
   ],
   "status": "include",
   "reason": "",
-  "slug": "omnibus-compertum"
- },
- {
-  "author": "leo-xiii",
-  "date": "1900-07-21",
-  "type": "letters",
-  "title": "Omnibus compertum (21 luglio 1900)",
-  "langs": {
-   "it": "https://www.vatican.va/content/leo-xiii/it/letters/documents/hf_l-xiii_let_19000721_omnibus-compertum.html",
-   "la": "https://www.vatican.va/content/leo-xiii/la/letters/documents/hf_l-xiii_let_19000721_omnibus-compertum.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "pre-1958 letter: often a teaching document",
   "slug": "omnibus-compertum"
  },
  {
@@ -26214,20 +25832,6 @@
   "status": "include",
   "reason": "",
   "slug": "scripturae-sanctae"
- },
- {
-  "author": "gregory-i",
-  "date": "1904-03-12",
-  "type": null,
-  "title": "Iucunda Sane",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1904-03-12,_SS_Pius_X,_Iucunda_Sane,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "pius-x",
@@ -29257,22 +28861,6 @@
  },
  {
   "author": "benedict-xv",
-  "date": "1920-05-16",
-  "type": "bulls",
-  "title": "Divina disponente (16 maggio 1920)",
-  "langs": {
-   "it": "https://www.vatican.va/content/benedict-xv/it/bulls/documents/hf_ben-xv_bulls_19200516_divina-disponente.html",
-   "la": "https://www.vatican.va/content/benedict-xv/la/bulls/documents/hf_ben-xv_bulls_19200516_divina-disponente.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "divina-disponente"
- },
- {
-  "author": "benedict-xv",
   "date": "1920-05-23",
   "type": "encyclicals",
   "title": "Pacem,\n Dei Munus Pulcherrimum (May 23, 1920)",
@@ -30015,25 +29603,11 @@
   "author": "pius-xi",
   "date": "1924-01-18",
   "type": "encyclicals",
-  "title": "Maximam Gravissimamque (18 gennaio 1924)",
-  "langs": {
-   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19240118_maximam-gravissimamque.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "maximam-gravissimamque"
- },
- {
-  "author": "pius-xi",
-  "date": "1924-01-18",
-  "type": "encyclicals",
   "title": "Maximam Gravissimamque (January 18, 1924)",
   "langs": {
    "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html",
-   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html"
+   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_18011924_maximam-gravissimamque.html",
+   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19240118_maximam-gravissimamque.html"
   },
   "sources": [
    "vatican.va",
@@ -30222,27 +29796,12 @@
    "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html",
    "es": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html",
    "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260228_rerum-ecclesiae.html",
-   "en": "https://www.papalencyclicals.net/pius11/p11rerec.htm"
+   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_28021926_rerum-ecclesiae.html"
   },
   "sources": [
    "vatican.va",
    "papalencyclicals.net",
    "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "rerum-ecclesiae"
- },
- {
-  "author": "pius-xi",
-  "date": "1926-02-28",
-  "type": "encyclicals",
-  "title": "Rerum \nEcclesiae (February 28, 1926)",
-  "langs": {
-   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_28021926_rerum-ecclesiae.html"
-  },
-  "sources": [
-   "vatican.va"
   ],
   "status": "include",
   "reason": "",
@@ -30256,27 +29815,12 @@
   "langs": {
    "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19260430_rite-expiatis.html",
    "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19260430_rite-expiatis.html",
-   "en": "https://www.papalencyclicals.net/pius11/p11ritex.htm"
+   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_30041926_rite-expiatis.html"
   },
   "sources": [
    "vatican.va",
    "papalencyclicals.net",
    "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "rite-expiatis"
- },
- {
-  "author": "pius-xi",
-  "date": "1926-04-30",
-  "type": "encyclicals",
-  "title": "Rite \nExpiatis (April 30, 1926)",
-  "langs": {
-   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_30041926_rite-expiatis.html"
-  },
-  "sources": [
-   "vatican.va"
   ],
   "status": "include",
   "reason": "",
@@ -30302,26 +29846,11 @@
   "author": "pius-xi",
   "date": "1926-11-18",
   "type": "encyclicals",
-  "title": "Iniquis Afflictisque (18 novembre 1926)",
-  "langs": {
-   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19261118_iniquis-afflictisque.html",
-   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19261118_iniquis-afflictisque.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "iniquis-afflictisque"
- },
- {
-  "author": "pius-xi",
-  "date": "1926-11-18",
-  "type": "encyclicals",
   "title": "Iniquis Afflictisque (November 18, 1926)",
   "langs": {
    "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_18111926_iniquis-afflictisque.html",
-   "la": "http://www.documentacatholicaomnia.eu/01p/1926-11-18,_SS_Pius_XI,_Encyclica._Iniquis_Afflictisque,_LT.pdf"
+   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19261118_iniquis-afflictisque.html",
+   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19261118_iniquis-afflictisque.html"
   },
   "sources": [
    "vatican.va",
@@ -30835,7 +30364,7 @@
   "langs": {
    "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19310629_non-abbiamo-bisogno.html",
    "es": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19310629_non-abbiamo-bisogno.html",
-   "en": "https://www.papalencyclicals.net/pius11/p11fac.htm"
+   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061931_non-abbiamo-bisogno.html"
   },
   "sources": [
    "vatican.va",
@@ -30848,43 +30377,13 @@
  },
  {
   "author": "pius-xi",
-  "date": "1931-06-29",
-  "type": "encyclicals",
-  "title": "Non Abbiamo Bisogno (June 29, 1931)",
-  "langs": {
-   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061931_non-abbiamo-bisogno.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "non-abbiamo-bisogno"
- },
- {
-  "author": "pius-xi",
-  "date": "1931-10-02",
-  "type": "encyclicals",
-  "title": "Nova \nImpendet (2 ottobre 1931)",
-  "langs": {
-   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html",
-   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "nova-impendet"
- },
- {
-  "author": "pius-xi",
   "date": "1931-10-02",
   "type": "encyclicals",
   "title": "Nova \nImpendet (October 2, 1931)",
   "langs": {
    "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_02101931_nova-impendet.html",
-   "la": "http://www.documentacatholicaomnia.eu/01p/1931-10-02,_SS_Pius_XI,_Encyclica._Nova_Impendet,_LT.pdf"
+   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html",
+   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19311002_nova-impendet.html"
   },
   "sources": [
    "vatican.va",
@@ -30932,26 +30431,11 @@
   "author": "pius-xi",
   "date": "1932-05-03",
   "type": "encyclicals",
-  "title": "Caritate Christi Compulsi (3 maggio 1932)",
-  "langs": {
-   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html",
-   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "caritate-christi-compulsi"
- },
- {
-  "author": "pius-xi",
-  "date": "1932-05-03",
-  "type": "encyclicals",
   "title": "Caritate Christi Compulsi (May 3, 1932)",
   "langs": {
    "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_03051932_caritate-christi-compulsi.html",
-   "la": "http://www.documentacatholicaomnia.eu/01p/1932-05-03,_SS_Pius_XI,_Encyclica._Caritate_Christi_Compulsi,_LT.pdf"
+   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html",
+   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320503_caritate-christi-compulsi.html"
   },
   "sources": [
    "vatican.va",
@@ -30961,20 +30445,6 @@
   "status": "include",
   "reason": "",
   "slug": "caritate-christi-compulsi"
- },
- {
-  "author": "pius-xi",
-  "date": "1932-05-03",
-  "type": null,
-  "title": "Charitate Christi Compulsi",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1932-05-03,_SS_Pius_XI,_Charitate_Christi_Compulsi,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "pius-xi",
@@ -30984,27 +30454,12 @@
   "langs": {
    "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html",
    "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19320929_acerba-animi.html",
-   "en": "https://www.papalencyclicals.net/pius11/p11animi.htm"
+   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29091932_acerba-animi.html"
   },
   "sources": [
    "vatican.va",
    "papalencyclicals.net",
    "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "acerba-animi"
- },
- {
-  "author": "pius-xi",
-  "date": "1932-09-29",
-  "type": "encyclicals",
-  "title": "Acerba \nAnimi (September 29, 1932)",
-  "langs": {
-   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29091932_acerba-animi.html"
-  },
-  "sources": [
-   "vatican.va"
   ],
   "status": "include",
   "reason": "",
@@ -31028,26 +30483,12 @@
   "author": "pius-xi",
   "date": "1933-06-03",
   "type": "encyclicals",
-  "title": "Dilectissima Nobis (3 giugno 1933)",
-  "langs": {
-   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19330603_dilectissima-nobis.html",
-   "es": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19330603_dilectissima-nobis.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "dilectissima-nobis"
- },
- {
-  "author": "pius-xi",
-  "date": "1933-06-03",
-  "type": "encyclicals",
   "title": "Dilectissima Nobis (June 3, 1933)",
   "langs": {
    "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html",
-   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html"
+   "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_03061933_dilectissima-nobis.html",
+   "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19330603_dilectissima-nobis.html",
+   "es": "https://www.vatican.va/content/pius-xi/es/encyclicals/documents/hf_p-xi_enc_19330603_dilectissima-nobis.html"
   },
   "sources": [
    "vatican.va",
@@ -31381,27 +30822,12 @@
   "langs": {
    "it": "https://www.vatican.va/content/pius-xi/it/encyclicals/documents/hf_p-xi_enc_19370929_ingravescentibus-malis.html",
    "la": "https://www.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19370929_ingravescentibus-malis.html",
-   "en": "https://www.papalencyclicals.net/pius11/p11grave.htm"
+   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29091937_ingravescentibus-malis.html"
   },
   "sources": [
    "vatican.va",
    "papalencyclicals.net",
    "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "ingravescentibus-malis"
- },
- {
-  "author": "pius-xi",
-  "date": "1937-09-29",
-  "type": "encyclicals",
-  "title": "Ingravescentibus Malis (September 29, 1937)",
-  "langs": {
-   "en": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29091937_ingravescentibus-malis.html"
-  },
-  "sources": [
-   "vatican.va"
   ],
   "status": "include",
   "reason": "",
@@ -36415,20 +35841,6 @@
  },
  {
   "author": "john-xxiii",
-  "date": "1959-12-12",
-  "type": null,
-  "title": "Epistula 'Octogesimum Mox'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1959-12-12,_SS_Ioannes_XXIII,_Epistula_'Octogesimum_Mox',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-xxiii",
   "date": "1959-12-15",
   "type": null,
   "title": "Epistula 'S. Paulus Apostolus'",
@@ -36995,22 +36407,6 @@
    "vatican.va",
    "veritatis.com.br",
    "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "religioso-convegno"
- },
- {
-  "author": "john-xxiii",
-  "date": "1961-09-29",
-  "type": "apost_letters",
-  "title": "Piccolo saggio di devoti pensieri distribuiti per ogni decina del Rosario, come a complemento della Lettera Apostolica Il religioso convegno",
-  "langs": {
-   "it": "https://www.vatican.va/content/john-xxiii/it/apost_letters/1961/documents/hf_j-xxiii_meditation_19610929_religioso-convegno.html",
-   "es": "https://www.vatican.va/content/john-xxiii/es/apost_letters/1961/documents/hf_j-xxiii_meditation_19610929_religioso-convegno.html"
-  },
-  "sources": [
-   "vatican.va"
   ],
   "status": "include",
   "reason": "",
@@ -39912,50 +39308,6 @@
  },
  {
   "author": "paul-vi",
-  "date": "1967-10-29",
-  "type": "motu_proprio",
-  "title": "Africae terrarum (29 ottobre 1967)",
-  "langs": {
-   "it": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19671029_africae-terrarum.html",
-   "la": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19671029_africae-terrarum.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "africae-terrarum"
- },
- {
-  "author": "paul-vi",
-  "date": "1967-10-29",
-  "type": null,
-  "title": "Homilia 'Ad Praesules Synodi Episcoporum'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1967-10-29,_SS_Paulus_VI,_Homilia_'Ad_Praesules_Synodi_Episcoporum',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "exclude",
-  "reason": "the pope's private writing (sermons, commentaries, poems)"
- },
- {
-  "author": "paul-vi",
-  "date": "1967-10-29",
-  "type": null,
-  "title": "Homilia 'Nunc Autem Sermonem Nostrum'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1967-10-29,_SS_Paulus_VI,_Homilia_'Nunc_Autem_Sermonem_Nostrum',_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "exclude",
-  "reason": "the pope's private writing (sermons, commentaries, poems)"
- },
- {
-  "author": "paul-vi",
   "date": "1967-11-03",
   "type": "letters",
   "title": "Lettera a S.E. Mons. Clemente Gaddi in occasione dell'inaugurazione del nuovo Seminario di Bergamo (3 novembre 1967)",
@@ -40357,22 +39709,6 @@
   "author": "paul-vi",
   "date": "1968-06-30",
   "type": null,
-  "title": "Credo Of The People Of God",
-  "langs": {
-   "en": "https://www.papalencyclicals.net/paul06/p6credo.htm",
-   "pt": "https://www.veritatis.com.br/credo-do-povo-de-deus/"
-  },
-  "sources": [
-   "papalencyclicals.net",
-   "veritatis.com.br"
-  ],
-  "status": "include",
-  "reason": ""
- },
- {
-  "author": "paul-vi",
-  "date": "1968-06-30",
-  "type": null,
   "title": "Homilia 'Sollemni Hac Liturgia Concludimus'",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/1968-06-30,_SS_Paulus_VI,_Homilia_'Sollemni_Hac_Liturgia_Concludimus',_LT.doc"
@@ -40431,7 +39767,8 @@
    "pt": "https://www.vatican.va/content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19680630_credo.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "veritatis.com.br"
   ],
   "status": "include",
   "reason": "",
@@ -41146,12 +40483,10 @@
   "title": "Sollicitudo omnium Ecclesiarum - Lettera Apostolica in forma di Motu Proprio riguardante l'Ufficio dei rappresentanti del Pontefice Romano (24 giugno 1969)",
   "langs": {
    "it": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19690624_sollicitudo-omnium-ecclesiarum.html",
-   "la": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19690624_sollicitudo-omnium-ecclesiarum.html",
-   "en": "https://www.papalencyclicals.net/paul06/soll-e.htm"
+   "la": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19690624_sollicitudo-omnium-ecclesiarum.html"
   },
   "sources": [
    "vatican.va",
-   "papalencyclicals.net",
    "documentacatholicaomnia.eu"
   ],
   "status": "include",
@@ -41881,11 +41216,11 @@
  {
   "author": "paul-vi",
   "date": "1971-03-28",
-  "type": "motu_proprio",
-  "title": "Causas matrimoniales (March 28, 1971)",
+  "type": "apost_letters",
+  "title": "Lettera Apostolica Causas matrimoniales",
   "langs": {
+   "it": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19710328_causas-matrimoniales.html",
    "en": "https://www.vatican.va/content/paul-vi/en/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
-   "it": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
    "la": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html",
    "pt": "https://www.vatican.va/content/paul-vi/pt/motu_proprio/documents/hf_p-vi_motu-proprio_19710328_causas-matrimoniales.html"
   },
@@ -41893,21 +41228,6 @@
    "vatican.va",
    "veritatis.com.br",
    "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "causas-matrimoniales"
- },
- {
-  "author": "paul-vi",
-  "date": "1971-03-28",
-  "type": "apost_letters",
-  "title": "Lettera Apostolica Causas matrimoniales",
-  "langs": {
-   "it": "https://www.vatican.va/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19710328_causas-matrimoniales.html"
-  },
-  "sources": [
-   "vatican.va"
   ],
   "status": "include",
   "reason": "",
@@ -44976,40 +44296,6 @@
  {
   "author": "paul-vi",
   "date": "1976-12-10",
-  "type": "motu_proprio",
-  "title": "Apostolatus peragendi - Lettera Apostolica in forma di Motu Proprio con la quale il «Consilium De Laicis» viene ristrutturato e prende il nome di Pontificio Consiglio per i Laici (10 dicembre 1976)",
-  "langs": {
-   "it": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19761210_apostolatus-peragendi.html",
-   "la": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19761210_apostolatus-peragendi.html"
-  },
-  "sources": [
-   "vatican.va",
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "apostolatus-peragendi"
- },
- {
-  "author": "paul-vi",
-  "date": "1976-12-10",
-  "type": "motu_proprio",
-  "title": "Iustitiam et pacem - Lettera Apostolica in forma di Motu Proprio con la quale viene determinata la definitiva struttura della Pontificia Commissione «Iustitia et Pax» (10 dicembre 1976)",
-  "langs": {
-   "it": "https://www.vatican.va/content/paul-vi/it/motu_proprio/documents/hf_p-vi_motu-proprio_19761210_iustitia-et-pacem.html",
-   "la": "https://www.vatican.va/content/paul-vi/la/motu_proprio/documents/hf_p-vi_motu-proprio_19761210_iustitia-et-pacem.html"
-  },
-  "sources": [
-   "vatican.va",
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "iustitia-et-pacem"
- },
- {
-  "author": "paul-vi",
-  "date": "1976-12-10",
   "type": "apost_letters",
   "title": "Lettera Apostolica Apostolatus peragendi con la quale il «Consilium De Laicis» viene ristrutturato e prende il nome di Pontificio Consiglio per i Laici (10 dicembre 1976)",
   "langs": {
@@ -45017,7 +44303,8 @@
    "la": "https://www.vatican.va/content/paul-vi/la/apost_letters/documents/hf_p-vi_apl_19761210_apostolatus-peragendi.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -45038,6 +44325,21 @@
   "status": "include",
   "reason": "",
   "slug": "iustitia-et-pacem"
+ },
+ {
+  "author": "paul-vi",
+  "date": "1976-12-10",
+  "type": null,
+  "title": "Motu Proprio 'Iustitiam et Pacem'",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/1976-12-10,_SS_Paulus_VI,_Motu_Proprio_'Iustitiam_et_Pacem',_LT.doc",
+   "it": "http://www.documentacatholicaomnia.eu/01p/1976-12-10,_SS_Paulus_VI,_Motu_Proprio_'Iustitiam_et_Pacem',_IT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "cdf-cti",
@@ -45454,20 +44756,6 @@
   ],
   "status": "exclude",
   "reason": "the pope's private writing (sermons, commentaries, poems)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1978",
-  "type": null,
-  "title": "Lettere Ai Sacerdoti Per Il Giovedi Santo",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1978-2005,_SS_Ioannes_Paulus_II,_Lettere_Ai_Sacerdoti_Per_Il_Giovedi_Santo,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "john-paul-ii",
@@ -48949,8 +48237,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on cristologia",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "cristologia-comunicato-radio-vaticana"
  },
  {
@@ -50094,20 +49382,6 @@
   "author": "john-paul-ii",
   "date": "1982-03-25",
   "type": null,
-  "title": "Littera 'Probe Novimus'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1982-03-25,_SS_Ioannes_Paulus_II,_Littera_'Probe_Novimus',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1982-03-25",
-  "type": null,
   "title": "Littera 'Quo in Honore'",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/1982-03-25,_SS_Ioannes_Paulus_II,_Littera_'Quo_in_Honore',_LT.pdf"
@@ -50675,7 +49949,9 @@
    "ru": "https://www.vatican.va/content/john-paul-ii/ru/motu_proprio/documents/hf_jp-ii_motu-proprio_06081982_tredecim-anni.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -50697,24 +49973,6 @@
   "status": "review",
   "reason": "letter to a person or local church",
   "slug": "vescovi-salvador"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1982-08-06",
-  "type": "motu_proprio",
-  "title": "Tredecim anni",
-  "langs": {
-   "pt": "https://www.veritatis.com.br/tredecim-anni-joao-paulo-ii-06-08-1982/",
-   "la": "http://www.documentacatholicaomnia.eu/01p/1982-08-06,_SS_Ioannes_Paulus_II,_Littera_'Tredecim_Anni',_LT.pdf",
-   "it": "http://www.documentacatholicaomnia.eu/01p/1982-08-06,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Tredecim_Anni',_IT.doc",
-   "es": "http://www.documentacatholicaomnia.eu/01p/1982-08-06,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Tredecim_Anni',_ES.doc"
-  },
-  "sources": [
-   "veritatis.com.br",
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": ""
  },
  {
   "author": "john-paul-ii",
@@ -51418,7 +50676,8 @@
    "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1983/documents/hf_jp-ii_let_19830125_operai-diocesani.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "letter to the whole Church or a state of life",
@@ -51544,20 +50803,6 @@
   "title": "Epistula 'Quoniam Quinquagesimus'",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/1983-03-01,_SS_Ioannes_Paulus_II,_Epistula_'Quoniam_Quinquagesimus',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1983-03-04",
-  "type": null,
-  "title": "Littera 'Singulari Veneratione'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1983-03-04,_SS_Ioannes_Paulus_II,_Littera_'Singulari_Veneratione',_LT.pdf"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -51705,23 +50950,7 @@
   "title": "LETTER TO THE BISHOPS OF THE UNITED STATES",
   "langs": {
    "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1983/documents/hf_jp-ii_let_03041983_us-bishops.html",
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1983/documents/hf_jp-ii_let_03041983_us-bishops.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "review",
-  "reason": "letter to a person or local church",
-  "slug": "us-bishops"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1983-04-03",
-  "type": "letters",
-  "title": "Letter to the Bishops of the United States (April 3, 1983)",
-  "langs": {
-   "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1983/documents/hf_jp-ii_let_19830403_us-bishops.html",
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1983/documents/hf_jp-ii_let_19830403_us-bishops.html",
+   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1983/documents/hf_jp-ii_let_03041983_us-bishops.html",
    "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1983/documents/hf_jp-ii_let_19830403_us-bishops.html"
   },
   "sources": [
@@ -53552,20 +52781,6 @@
  },
  {
   "author": "john-paul-ii",
-  "date": "1984-10-04",
-  "type": null,
-  "title": "Nuntius Gratulatorius 'Probe Conscii'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1984-10-04,_SS_Ioannes_Paulus_II,_Nuntius_Gratulatorius_'Probe_Conscii',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
   "date": "1984-10-11",
   "type": null,
   "title": "Littera 'Quam Congrue'",
@@ -53953,8 +53168,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on declaration-masonic",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "declaration-masonic-articolo"
  },
  {
@@ -54777,6 +53992,20 @@
  },
  {
   "author": "john-paul-ii",
+  "date": "1985-10-01",
+  "type": null,
+  "title": "Nuntius Gratulatorius 'Litterae Tuae'",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/1985-10-01,_SS_Ioannes_Paulus_II,_Nuntius_Gratulatorius_'Litterae_Tuae',_LT.pdf"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)"
+ },
+ {
+  "author": "john-paul-ii",
   "date": "1985-10-05",
   "type": null,
   "title": "Allocutio 'Triam Iam Lustra'",
@@ -55471,20 +54700,6 @@
   "slug": "nicola-signorello"
  },
  {
-  "author": "john-paul-ii",
-  "date": "1986-07-12",
-  "type": null,
-  "title": "Littera 'Quoniam Inter'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1986-07-12,_SS_Ioannes_Paulus_II,_Littera_'Quoniam_Inter',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "cdf-cti",
   "date": "1986-07-17",
   "type": "curia",
@@ -55496,8 +54711,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on comunicato",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-coscienza-gesu"
  },
  {
@@ -56490,10 +55705,12 @@
   "type": "letters",
   "title": "Messaggio al Presidente del Pontificio Comitato di Scienze Storiche, Monsignor Michele Maccarone (21 giugno 1987)",
   "langs": {
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1987/documents/hf_jp-ii_let_19870621_monsignor-maccarone.html"
+   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1987/documents/hf_jp-ii_let_19870621_monsignor-maccarone.html",
+   "es": "http://www.documentacatholicaomnia.eu/01p/1999-02-20,_SS_Ioannes_Paulus_II,_Al_Presidente_Comision_Episcopal_Estadounidense,_ES.doc"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "review",
   "reason": "letter to a person or local church",
@@ -56935,30 +56152,19 @@
   "langs": {
    "en": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecim-saeculum.html",
    "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecim-saeculum.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecim-saeculum.html"
+   "pt": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecim-saeculum.html",
+   "la": "http://www.documentacatholicaomnia.eu/01p/1987-12-04,_SS_Ioannes_Paulus_II,_Duodecimum_Saeculum,_LT.pdf",
+   "it": "http://www.documentacatholicaomnia.eu/01p/1987-04-12,_SS_Ioannes_Paulus_II,_Duodecimum_Saeculum,_IT.doc",
+   "es": "http://www.documentacatholicaomnia.eu/01p/1987-12-04,_SS_Ioannes_Paulus_II,_Duodecimum_Saeculum,_ES.doc"
   },
   "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "duodecim-saeculum"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1987-12-04",
-  "type": "apost_letters",
-  "title": "Duodecim saeculum",
-  "langs": {
-   "pt": "https://www.veritatis.com.br/duodecim-saeculum-joao-paulo-ii-04-12-1987/",
-   "la": "http://www.documentacatholicaomnia.eu/01p/2005-01-11,_SS_Ioannes_Paulus_II,_Epistula_'Duodecim_Christi',_LT.pdf"
-  },
-  "sources": [
+   "vatican.va",
    "veritatis.com.br",
    "documentacatholicaomnia.eu"
   ],
   "status": "include",
-  "reason": ""
+  "reason": "",
+  "slug": "duodecim-saeculum"
  },
  {
   "author": "john-paul-ii",
@@ -56974,8 +56180,7 @@
    "pt": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1987/documents/hf_jp-ii_apl_19871204_duodecimum-saeculum.html"
   },
   "sources": [
-   "vatican.va",
-   "documentacatholicaomnia.eu"
+   "vatican.va"
   ],
   "status": "include",
   "reason": "",
@@ -57148,23 +56353,6 @@
   ],
   "status": "include",
   "reason": "",
-  "slug": "iuvenum-patris"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1988-01-31",
-  "type": "letters",
-  "title": "Lettera nel centenario della nascita di San Giovanni Bosco (Iuvenum Patris) (31 gennaio 1988)",
-  "langs": {
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1988/documents/hf_jp-ii_let_19880131_iuvenum-patris.html",
-   "es": "https://www.vatican.va/content/john-paul-ii/es/letters/1988/documents/hf_jp-ii_let_19880131_iuvenum-patris.html",
-   "la": "https://www.vatican.va/content/john-paul-ii/la/letters/1988/documents/hf_jp-ii_let_19880131_iuvenum-patris.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
   "slug": "iuvenum-patris"
  },
  {
@@ -57946,38 +57134,17 @@
   "author": "john-paul-ii",
   "date": "1988-08-15",
   "type": "apost_letters",
-  "title": "Mulieris Dignitatem (August 15, 1988)",
-  "langs": {
-   "en": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "de": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "es": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "hu": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "it": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "la": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "lt": "https://www.vatican.va/content/john-paul-ii/lt/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "mulieris-dignitatem"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1988-08-15",
-  "type": "apost_letters",
   "title": "Mulieris Dignitatem, John Paul II, 15 August 1988 - Apostolic\nLetter",
   "langs": {
    "en": "https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
    "de": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
    "es": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
    "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html",
-   "pt": "https://www.veritatis.com.br/mulieris-dignitatem-joao-paulo-ii-15-08-1988/",
-   "la": "http://www.documentacatholicaomnia.eu/01p/1988-08-15,_SS_Ioannes_Paulus_II,_Epistula_'Mulieris_Dignitatem',_LT.pdf",
-   "it": "http://www.documentacatholicaomnia.eu/01p/1988-08-15,_SS_Ioannes_Paulus_II,_Mulieris_Dignitatem,_IT.doc"
+   "hu": "https://www.vatican.va/content/john-paul-ii/hu/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+   "it": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+   "la": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+   "lt": "https://www.vatican.va/content/john-paul-ii/lt/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html",
+   "pt": "https://www.vatican.va/content/john-paul-ii/pt/apost_letters/1988/documents/hf_jp-ii_apl_19880815_mulieris-dignitatem.html"
   },
   "sources": [
    "vatican.va",
@@ -58471,8 +57638,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "articolo-donum-vitae"
  },
  {
@@ -58923,15 +58090,13 @@
   "type": "letters",
   "title": "Lettera al Presidente della CEI in occasione del 50° anniversario della proclamazione di San Francesco d’Assisi e di Santa Caterina da Siena a Patroni d’Italia (31 maggio 1989)",
   "langs": {
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1989/documents/hf_jp-ii_let_19890531_pres-cei.html",
-   "es": "http://www.documentacatholicaomnia.eu/01p/1999-02-20,_SS_Ioannes_Paulus_II,_Al_Presidente_Comision_Episcopal_Estadounidense,_ES.doc"
+   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1989/documents/hf_jp-ii_let_19890531_pres-cei.html"
   },
   "sources": [
-   "vatican.va",
-   "documentacatholicaomnia.eu"
+   "vatican.va"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)",
+  "status": "exclude",
+  "reason": "occasional letter (envoy, anniversary, greeting)",
   "slug": "pres-cei"
  },
  {
@@ -59115,35 +58280,6 @@
  {
   "author": "john-paul-ii",
   "date": "1989-08-27",
-  "type": null,
-  "title": "50 Anniversario II Guerra Mondiale",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1989-08-27,_SS_Ioannes_Paulus_II,_50_Anniversario_II_Guerra_Mondiale,_IT.doc",
-   "es": "http://www.documentacatholicaomnia.eu/01p/1989-08-27,_SS_Ioannes_Paulus_II,_50_Anniversario_II_Guerra_Mondiale,_ES.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1989-08-27",
-  "type": null,
-  "title": "La II Guerra Mundial",
-  "langs": {
-   "es": "http://www.documentacatholicaomnia.eu/01p/1989-08-27,_SS_Ioannes_Paulus_II,_La_II_Guerra_Mundial,_ES.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1989-08-27",
   "type": "apost_letters",
   "title": "Lettera Apostolica in occasione del 50° Anniversario dell'Inizio della II Guerra Mondiale (27 agosto 1989)",
   "langs": {
@@ -59153,42 +58289,12 @@
    "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1989/documents/hf_jp-ii_apl_19890827_anniv-beginning-ii-world-war.html"
   },
   "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "anniv-beginning-ii-world-war"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1989-08-27",
-  "type": "apost_letters",
-  "title": "Messaggio in occasione del 50° anniversario dell'inizio della II Guerra Mondiale (27 agosto 1989)",
-  "langs": {
-   "it": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1989/documents/hf_jp-ii_apl_27081989_anniv-beginning-ii-world-war.html",
-   "de": "https://www.vatican.va/content/john-paul-ii/de/apost_letters/1989/documents/hf_jp-ii_apl_27081989_anniv-beginning-ii-world-war.html",
-   "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1989/documents/hf_jp-ii_apl_27081989_anniv-beginning-ii-world-war.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "anniv-beginning-ii-world-war"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1989-08-27",
-  "type": null,
-  "title": "Mi Hai Gettato nella Fossa Profonda",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1989-08-27,_SS_Ioannes_Paulus_II,_Mi_Hai_Gettato_nella_Fossa_Profonda,_IT.doc"
-  },
-  "sources": [
+   "vatican.va",
    "documentacatholicaomnia.eu"
   ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
+  "status": "include",
+  "reason": "",
+  "slug": "anniv-beginning-ii-world-war"
  },
  {
   "author": "john-paul-ii",
@@ -59210,63 +58316,20 @@
  {
   "author": "john-paul-ii",
   "date": "1989-09-07",
-  "type": null,
-  "title": "Ancora Una Volta",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/1989-09-07,_SS_Ioannes_Paulus_II,_Ancora_Una_Volta,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1989-09-07",
-  "type": "apost_letters",
-  "title": "Lettera Apostolica sulla Situazione nel Libano (7 settembre 1989)",
-  "langs": {
-   "it": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1989/documents/hf_jp-ii_apl_19890907_situation-lebanon.html",
-   "es": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1989/documents/hf_jp-ii_apl_19890907_situation-lebanon.html",
-   "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1989/documents/hf_jp-ii_apl_19890907_situation-lebanon.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "situation-lebanon"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1989-09-07",
   "type": "apost_letters",
   "title": "Messaggio ai Vescovi sulla situazione civile e politica del Libano (7 settembre 1989)",
   "langs": {
    "it": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1989/documents/hf_jp-ii_apl_07091989_situation-lebanon.html",
-   "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1989/documents/hf_jp-ii_apl_07091989_situation-lebanon.html"
+   "fr": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1989/documents/hf_jp-ii_apl_07091989_situation-lebanon.html",
+   "es": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1989/documents/hf_jp-ii_apl_19890907_situation-lebanon.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
   "slug": "situation-lebanon"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1989-09-07",
-  "type": null,
-  "title": "Situacion En El Libano",
-  "langs": {
-   "es": "http://www.documentacatholicaomnia.eu/01p/1989-09-07,_SS_Ioannes_Paulus_II,_Situacion_En_El_Libano,_ES.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "john-paul-ii",
@@ -60063,7 +59126,8 @@
    "la": "https://www.vatican.va/content/john-paul-ii/la/apost_letters/1990/documents/hf_jp-ii_apl_19900629_plurimum-significans.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -60079,40 +59143,12 @@
    "es": "https://www.vatican.va/content/john-paul-ii/es/apost_letters/1990/documents/hf_jp-ii_apl_29061990_v-centenary-evang-new-world.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
   "slug": "v-centenary-evang-new-world"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1990-06-29",
-  "type": null,
-  "title": "Littera 'Plurimum Significans'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1990-06-29,_SS_Ioannes_Paulus_II,_Littera_'Plurimum_Significans',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1990-06-29",
-  "type": null,
-  "title": "V Centenario Nuevo Mundo",
-  "langs": {
-   "es": "http://www.documentacatholicaomnia.eu/01p/1990-06-29,_SS_Ioannes_Paulus_II,_V_Centenario_Nuevo_Mundo,_ES.doc",
-   "it": "http://www.documentacatholicaomnia.eu/01p/1990-06-29,_SS_Ioannes_Paulus_II,_V_Centenario_Nuovo_Mondo,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "john-paul-ii",
@@ -60412,9 +59448,9 @@
   "author": "curia-unknown",
   "date": "1990-11-23",
   "type": "curia",
-  "title": "Carta aos Sacerdotes por ocasião do Ano Sacerdotal",
+  "title": "Carta aos presidentes das Conferências Episcopais sobre as Comissões Doutrinais",
   "langs": {
-   "pt": "https://www.veritatis.com.br/carta-aos-sacerdotes-por-ocasiao-do-ano-sacerdotal-2009-2010/"
+   "pt": "https://www.veritatis.com.br/carta-aos-presidentes-das-conferencias-episcopais-sobre-as-comissoes-doutrinais-23-11-1990/"
   },
   "sources": [
    "veritatis.com.br"
@@ -63535,29 +62571,12 @@
   "title": "Socialium Scientiarum (1° gennaio 1994)",
   "langs": {
    "it": "https://www.vatican.va/content/john-paul-ii/it/apost_letters/1994/documents/hf_jp-ii_apl_19940101_socialium-scientiarum.html",
-   "la": "http://www.documentacatholicaomnia.eu/01p/1984-01-01,_SS_Ioannes_Paulus_II,_Littera_'Socialium_Scientiarum',_LT.pdf",
-   "es": "http://www.documentacatholicaomnia.eu/01p/1994-01-01,_SS_Ioannes_Paulus_II,_Motu_Proprio_'Socialium_Scientiarum',_ES.doc"
-  },
-  "sources": [
-   "vatican.va",
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "socialium-scientiarum"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1994-01-01",
-  "type": "motu_proprio",
-  "title": "Socialium scientiarum (1° gennaio 1994)",
-  "langs": {
-   "it": "https://www.vatican.va/content/john-paul-ii/it/motu_proprio/documents/hf_jp-ii_motu-proprio_01011994_socialium-scientiarum.html",
    "es": "https://www.vatican.va/content/john-paul-ii/es/motu_proprio/documents/hf_jp-ii_motu-proprio_01011994_socialium-scientiarum.html",
    "la": "https://www.vatican.va/content/john-paul-ii/la/motu_proprio/documents/hf_jp-ii_motu-proprio_01011994_socialium-scientiarum.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -64365,6 +63384,20 @@
   "slug": "rec-holy-comm-by-divorced"
  },
  {
+  "author": "curia-unknown",
+  "date": "1994-09-14",
+  "type": "curia",
+  "title": "Carta aos Bispos a respeito da recepção da comunhão eucarística por fiéis divorciados novamente casados",
+  "langs": {
+   "pt": "https://www.veritatis.com.br/carta-aos-bispos-a-respeito-da-recepcao-da-comunhao-eucaristica-por-fieis-divorciados-novamente-casados-14-09-1994/"
+  },
+  "sources": [
+   "veritatis.com.br"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
   "author": "john-paul-ii",
   "date": "1994-09-14",
   "type": "letters",
@@ -64892,6 +63925,20 @@
   "status": "review",
   "reason": "letter to a person or local church",
   "slug": "card-sanchez"
+ },
+ {
+  "author": "john-paul-ii",
+  "date": "1995-03-25",
+  "type": null,
+  "title": "Carta A Los Sacerdotes",
+  "langs": {
+   "es": "http://www.documentacatholicaomnia.eu/01p/1995-03-25,_SS_Ioannes_Paulus_II,_Carta_A_Los_Sacerdotes,_ES.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "john-paul-ii",
@@ -66194,20 +65241,6 @@
  },
  {
   "author": "john-paul-ii",
-  "date": "1996-03-27",
-  "type": null,
-  "title": "Littera 'Gaudio Exsultamus'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1996-03-27,_SS_Ioannes_Paulus_II,_Littera_'Gaudio_Exsultamus',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
   "date": "1996-04-16",
   "type": null,
   "title": "Littera 'Iam A Primordiis'",
@@ -67066,8 +66099,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "conferenza-episcopale"
  },
  {
@@ -67828,20 +66861,6 @@
  },
  {
   "author": "john-paul-ii",
-  "date": "1997-06-17",
-  "type": null,
-  "title": "Epistula 'Singulari Quidem'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1997-06-17,_SS_Ioannes_Paulus_II,_Epistula_'Singulari_Quidem',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
   "date": "1997-06-20",
   "type": "letters",
   "title": "Message to the participants in the Second European Ecumenical Assembly (Graz - Austria) (June 20, 1997)",
@@ -67875,46 +66894,12 @@
   "author": "john-paul-ii",
   "date": "1997-06-24",
   "type": "letters",
-  "title": "Letter to the Bishop of Cremona",
-  "langs": {
-   "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1997/documents/hf_jp-ii_spe_19970624_nicolini.html",
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1997/documents/hf_jp-ii_spe_19970624_nicolini.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1997/documents/hf_jp-ii_spe_19970624_nicolini.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
-  "slug": "nicolini"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1997-06-24",
-  "type": "letters",
   "title": "Letter to the Piarist Fathers",
   "langs": {
    "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1997/documents/hf_jp-ii_let_19970624_xuriach.html",
    "es": "https://www.vatican.va/content/john-paul-ii/es/letters/1997/documents/hf_jp-ii_let_19970624_xuriach.html",
    "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1997/documents/hf_jp-ii_let_19970624_xuriach.html",
    "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1997/documents/hf_jp-ii_let_19970624_xuriach.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
-  "slug": "xuriach"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1997-06-24",
-  "type": "letters",
-  "title": "Letter to the Piarist Fathers",
-  "langs": {
-   "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1997/documents/hf_jp-ii_spe_19970624_xuriach.html",
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1997/documents/hf_jp-ii_spe_19970624_xuriach.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1997/documents/hf_jp-ii_spe_19970624_xuriach.html"
   },
   "sources": [
    "vatican.va"
@@ -68241,21 +67226,6 @@
   "status": "include",
   "reason": "letter to the whole Church or a state of life",
   "slug": "youth-frikart"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1997-08-22",
-  "type": "letters",
-  "title": "Messaggio del Santo Padre per la Via Crucis",
-  "langs": {
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1997/documents/hf_jp-ii_let_22081997_youth-via-crucis.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "review",
-  "reason": "letter to a person or local church",
-  "slug": "youth-via-crucis"
  },
  {
   "author": "john-paul-ii",
@@ -69917,20 +68887,6 @@
  },
  {
   "author": "john-paul-ii",
-  "date": "1998-11-20",
-  "type": null,
-  "title": "Epistula 'Perquam Opportunum'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1998-11-20,_SS_Ioannes_Paulus_II,_Epistula_'Perquam_Opportunum',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
   "date": "1998-11-23",
   "type": "letters",
   "title": "Letter to the People of Nicaragua (November 23, 1998)",
@@ -70542,8 +69498,9 @@
   "author": "john-paul-ii",
   "date": "1999-04-04",
   "type": null,
-  "title": "Lettera Agli Artisti",
+  "title": "Carta A Los Artistas",
   "langs": {
+   "es": "http://www.documentacatholicaomnia.eu/01p/1999-04-04,_SS_Ioannes_Paulus_II,_Carta_A_Los_Artistas,_ES.doc",
    "de": "http://www.documentacatholicaomnia.eu/01p/1999-04-04,_SS_Ioannes_Paulus_II,_Lettera_Agli_Artisti,_GE.doc"
   },
   "sources": [
@@ -71305,28 +70262,12 @@
   "author": "john-paul-ii",
   "date": "1999-08-06",
   "type": "letters",
-  "title": "Letter to Archbishop Giuseppe Chiaretti, 1999",
-  "langs": {
-   "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_19990806_pieve.html",
-   "es": "https://www.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_19990806_pieve.html",
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1999/documents/hf_jp-ii_let_19990806_pieve.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_19990806_pieve.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "review",
-  "reason": "letter to a person or local church",
-  "slug": "pieve"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1999-08-06",
-  "type": "letters",
   "title": "Letter to the Archbishop of Perugia - Città della Pieve (August 6, 1999)",
   "langs": {
    "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_06081999_pieve.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_06081999_pieve.html"
+   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_06081999_pieve.html",
+   "es": "https://www.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_19990806_pieve.html",
+   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1999/documents/hf_jp-ii_let_19990806_pieve.html"
   },
   "sources": [
    "vatican.va"
@@ -71379,20 +70320,6 @@
   "title": "Congreso Misionero Americano",
   "langs": {
    "es": "http://www.documentacatholicaomnia.eu/01p/1999-08-15,_SS_Ioannes_Paulus_II,_Congreso_Misionero_Americano,_ES.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1999-08-20",
-  "type": null,
-  "title": "Littera 'Christi Mandatum'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/1999-08-20,_SS_Ioannes_Paulus_II,_Littera_'Christi_Mandatum',_LT.pdf"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -71457,30 +70384,13 @@
   "author": "john-paul-ii",
   "date": "1999-09-14",
   "type": "letters",
-  "title": "Letter to the Archbishop of Lyons on the occasion of the bicentenary of the birth of Ven. Pauline-Marie Jaricot (September 14, 1999)",
-  "langs": {
-   "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_19990914_jaricot.html",
-   "es": "https://www.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_19990914_jaricot.html",
-   "fr": "https://www.vatican.va/content/john-paul-ii/fr/letters/1999/documents/hf_jp-ii_let_19990914_jaricot.html",
-   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1999/documents/hf_jp-ii_let_19990914_jaricot.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_19990914_jaricot.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
-  "slug": "jaricot"
- },
- {
-  "author": "john-paul-ii",
-  "date": "1999-09-14",
-  "type": "letters",
   "title": "To the Archbishop of Lyons, 1999",
   "langs": {
    "en": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_14091999_jaricot.html",
    "fr": "https://www.vatican.va/content/john-paul-ii/fr/letters/1999/documents/hf_jp-ii_let_14091999_jaricot.html",
-   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_14091999_jaricot.html"
+   "pt": "https://www.vatican.va/content/john-paul-ii/pt/letters/1999/documents/hf_jp-ii_let_14091999_jaricot.html",
+   "es": "https://www.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_19990914_jaricot.html",
+   "it": "https://www.vatican.va/content/john-paul-ii/it/letters/1999/documents/hf_jp-ii_let_19990914_jaricot.html"
   },
   "sources": [
    "vatican.va"
@@ -71621,6 +70531,20 @@
   "status": "review",
   "reason": "letter to a person or local church",
   "slug": "joseph-pirson"
+ },
+ {
+  "author": "john-paul-ii",
+  "date": "1999-10-01",
+  "type": null,
+  "title": "Carta A Los Ancianos",
+  "langs": {
+   "es": "http://www.documentacatholicaomnia.eu/01p/1999-10-01,_SS_Ioannes_Paulus_II,_Carta_A_Los_Ancianos,_ES.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "john-paul-ii",
@@ -73790,8 +72714,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release"
  },
  {
@@ -74446,8 +73370,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "card-tomko-homily"
  },
  {
@@ -74497,8 +73421,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "card-tomko-homily"
  },
  {
@@ -75355,8 +74279,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "jub-fam-presentation-book"
  },
  {
@@ -75512,8 +74436,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-stampa"
  },
  {
@@ -76132,8 +75056,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "chiesa-droga-presentation"
  },
  {
@@ -76730,8 +75654,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "conf-stampa-direttorio"
  },
  {
@@ -76813,20 +75737,6 @@
  },
  {
   "author": "john-paul-ii",
-  "date": "2002-04-18",
-  "type": null,
-  "title": "Epistula 'Memores Laetissimi'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2002-04-18,_SS_Ioannes_Paulus_II,_Epistula_'Memores_Laetissimi',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "john-paul-ii",
   "date": "2002-04-19",
   "type": "letters",
   "title": "Letter to H.E. Card. Jean-Claude Turcotte, Archbishop of Montréal (April 12, 2002)",
@@ -76902,8 +75812,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-padre-pio"
  },
  {
@@ -77099,20 +76009,6 @@
   "status": "review",
   "reason": "only on DCO (no vatican.va record)",
   "slug": "tauran"
- },
- {
-  "author": "john-paul-ii",
-  "date": "2002-05-17",
-  "type": null,
-  "title": "Epistula 'Maxima Nos'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2002-05-17,_SS_Ioannes_Paulus_II,_Epistula_'Maxima_Nos',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "john-paul-ii",
@@ -77619,20 +76515,6 @@
   "slug": "archive"
  },
  {
-  "author": "john-paul-ii",
-  "date": "2002-09-10",
-  "type": null,
-  "title": "Epistula 'Ipso Instante'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2002-09-10,_SS_Ioannes_Paulus_II,_Epistula_'Ipso_Instante',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "health-care",
   "date": "2002-09-13",
   "type": "curia",
@@ -77991,8 +76873,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "sepe-homily-albania"
  },
  {
@@ -78064,8 +76946,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "sepe-homily-ernakulam"
  },
  {
@@ -78080,8 +76962,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release"
  },
  {
@@ -78095,8 +76977,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vox-clara"
  },
  {
@@ -78198,8 +77080,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "sepe-homily-benin"
  },
  {
@@ -78627,8 +77509,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "iv-meeting-families-manila-homily"
  },
  {
@@ -78679,8 +77561,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-conf-mission"
  },
  {
@@ -78751,8 +77633,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "discorso-sepe-cuba"
  },
  {
@@ -78783,8 +77665,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-sepe-cuba"
  },
  {
@@ -79769,8 +78651,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-cam"
  },
  {
@@ -79787,8 +78669,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-mateo-flores"
  },
  {
@@ -80044,8 +78926,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-abu-dhabi"
  },
  {
@@ -80188,8 +79070,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -80544,6 +79426,20 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
+  "author": "curia-unknown",
+  "date": "2004-05-31",
+  "type": "curia",
+  "title": "Carta sobre a colaboração do homem e da mulher na Igreja e no mundo",
+  "langs": {
+   "pt": "https://www.veritatis.com.br/carta-sobre-a-colaboracao-do-homem-e-da-mulher-na-igreja-e-no-mundo-31-05-2004/"
+  },
+  "sources": [
+   "veritatis.com.br"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
   "author": "saints",
   "date": "2004-06-01",
   "type": "curia",
@@ -80719,8 +79615,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "symposium-homily"
  },
  {
@@ -81456,8 +80352,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-mission-sunday"
  },
  {
@@ -81588,8 +80484,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -81636,8 +80532,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-plenaria"
  },
  {
@@ -81785,6 +80681,34 @@
   "status": "review",
   "reason": "dicastery document outside doctrine/worship",
   "slug": "miraculorum-maximum"
+ },
+ {
+  "author": "benedict-xvi",
+  "date": "2005",
+  "type": null,
+  "title": "Vita",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/2005-hodie,_SS_Benedictus_XVI,_Vita,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "compilation or non-magisterial item"
+ },
+ {
+  "author": "john-paul-ii",
+  "date": "2005-01-11",
+  "type": null,
+  "title": "Epistula 'Duodecim Christi'",
+  "langs": {
+   "la": "http://www.documentacatholicaomnia.eu/01p/2005-01-11,_SS_Ioannes_Paulus_II,_Epistula_'Duodecim_Christi',_LT.pdf"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "john-paul-ii",
@@ -82156,8 +81080,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-giussani"
  },
  {
@@ -82240,8 +81164,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -82353,7 +81277,7 @@
   "slug": "cura-vigilantissima"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-04-19",
   "type": null,
   "title": "Habemus Papam",
@@ -82367,7 +81291,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-04-20",
   "type": null,
   "title": "Nuntium 'Gratia Copiosa'",
@@ -82455,21 +81379,6 @@
   "slug": "congresso-bari"
  },
  {
-  "author": "benedict-xv",
-  "date": "2005-05-14",
-  "type": null,
-  "title": "Lettera Apostolica Beatificazione Goni e Cope",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/2005-05-14,_SS_Benedictus_XVI,_Lettera_Apostolica_Beatificazione_Goni_e_Cope,_IT.doc",
-   "la": "http://www.documentacatholicaomnia.eu/01p/2005-06-04,_SS_Benedictus_XVI,_Lettera_Apostolica_Beatificazione_Findysz_et_Al,_LT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2005-05-14",
   "type": "apost_letters",
@@ -82501,6 +81410,21 @@
   "status": "exclude",
   "reason": "occasional letter (envoy, anniversary, greeting)",
   "slug": "celam"
+ },
+ {
+  "author": "benedict-xvi",
+  "date": "2005-05-14",
+  "type": null,
+  "title": "Lettera Apostolica Beatificazione Goni e Cope",
+  "langs": {
+   "it": "http://www.documentacatholicaomnia.eu/01p/2005-05-14,_SS_Benedictus_XVI,_Lettera_Apostolica_Beatificazione_Goni_e_Cope,_IT.doc",
+   "la": "http://www.documentacatholicaomnia.eu/01p/2005-06-04,_SS_Benedictus_XVI,_Lettera_Apostolica_Beatificazione_Findysz_et_Al,_LT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)"
  },
  {
   "author": "benedict-xvi",
@@ -82610,20 +81534,6 @@
   "slug": "gran-sasso-jpii"
  },
  {
-  "author": "benedict-xv",
-  "date": "2005-05-19",
-  "type": null,
-  "title": "Address At The Viewing Of A Film on John Paul II",
-  "langs": {
-   "en": "http://www.documentacatholicaomnia.eu/01p/2005-05-19,_SS_Benedictus_XVI,_Address_At_The_Viewing_Of_A_Film_on_John_Paul_II,_EN.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2005-05-19",
   "type": "letters",
@@ -82637,10 +81547,11 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/letters/2005/documents/hf_ben-xvi_let_20050519_pellegr-saragozza.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)",
   "slug": "pellegr-saragozza"
  },
  {
@@ -82822,7 +81733,7 @@
   "slug": "barragan-aachen"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-06-30",
   "type": null,
   "title": "Epistula 'Feliciter Instante'",
@@ -82846,8 +81757,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -82872,7 +81783,7 @@
   "slug": "xx-wyd"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-08-06",
   "type": null,
   "title": "Epistula 'Sacram Eucharistiam'",
@@ -82937,8 +81848,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-kuwait-ballin"
  },
  {
@@ -82992,8 +81903,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato"
  },
  {
@@ -83059,20 +81970,6 @@
   "slug": "trujillo-synod"
  },
  {
-  "author": "benedict-xv",
-  "date": "2005-10-09",
-  "type": null,
-  "title": "Littera 'Nos Vota Fratris'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2005-10-09,_SS_Benedictus_XVI,_Littera_'Nos_Vota_Fratris',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2005-10-09",
   "type": "apost_letters",
@@ -83086,7 +81983,8 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20051009_beatification-von-galen.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -83144,7 +82042,7 @@
   "slug": "giornata-salute-mentale"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-10-12",
   "type": null,
   "title": "Epistula 'Pontificii Comitatus'",
@@ -83158,32 +82056,20 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
-  "date": "2005-10-15",
-  "type": null,
-  "title": "Epistula 'Ubique Terrarum'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2005-10-15,_SS_Benedictus_XVI,_Epistula_'Ubique_Terrarum',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2005-10-15",
   "type": "letters",
   "title": "Lettera al presidente del Senato Marcello Pera in occasione del convegno di Norcia «Libertà e laicità» (15 ottobre 2005)",
   "langs": {
-   "it": "https://www.vatican.va/content/benedict-xvi/it/letters/2005/documents/hf_ben-xvi_let_20051015_senatore-pera.html"
+   "it": "https://www.vatican.va/content/benedict-xvi/it/letters/2005/documents/hf_ben-xvi_let_20051015_senatore-pera.html",
+   "la": "http://www.documentacatholicaomnia.eu/01p/2005-10-15,_SS_Benedictus_XVI,_Epistula_'Ubique_Terrarum',_LT.pdf"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)",
   "slug": "senatore-pera"
  },
  {
@@ -83223,20 +82109,6 @@
   "slug": "giornata-missionaria-2005"
  },
  {
-  "author": "benedict-xv",
-  "date": "2005-10-26",
-  "type": null,
-  "title": "Epistula 'Una Cum Tota'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2005-10-26,_SS_Benedictus_XVI,_Epistula_'Una_Cum_Tota',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2005-10-26",
   "type": "letters",
@@ -83247,13 +82119,15 @@
    "es": "https://www.vatican.va/content/benedict-xvi/es/letters/2005/documents/hf_ben-xvi_let_20051026_nostra-aetate.html",
    "fr": "https://www.vatican.va/content/benedict-xvi/fr/letters/2005/documents/hf_ben-xvi_let_20051026_nostra-aetate.html",
    "it": "https://www.vatican.va/content/benedict-xvi/it/letters/2005/documents/hf_ben-xvi_let_20051026_nostra-aetate.html",
-   "pt": "https://www.vatican.va/content/benedict-xvi/pt/letters/2005/documents/hf_ben-xvi_let_20051026_nostra-aetate.html"
+   "pt": "https://www.vatican.va/content/benedict-xvi/pt/letters/2005/documents/hf_ben-xvi_let_20051026_nostra-aetate.html",
+   "la": "http://www.documentacatholicaomnia.eu/01p/2005-10-26,_SS_Benedictus_XVI,_Epistula_'Una_Cum_Tota',_LT.pdf"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)",
   "slug": "nostra-aetate"
  },
  {
@@ -83342,13 +82216,15 @@
    "es": "https://www.vatican.va/content/benedict-xvi/es/letters/2005/documents/hf_ben-xvi_let_20051104_kasper-istanbul.html",
    "fr": "https://www.vatican.va/content/benedict-xvi/fr/letters/2005/documents/hf_ben-xvi_let_20051104_kasper-istanbul.html",
    "it": "https://www.vatican.va/content/benedict-xvi/it/letters/2005/documents/hf_ben-xvi_let_20051104_kasper-istanbul.html",
-   "pt": "https://www.vatican.va/content/benedict-xvi/pt/letters/2005/documents/hf_ben-xvi_let_20051104_kasper-istanbul.html"
+   "pt": "https://www.vatican.va/content/benedict-xvi/pt/letters/2005/documents/hf_ben-xvi_let_20051104_kasper-istanbul.html",
+   "la": "http://www.documentacatholicaomnia.eu/01p/2005-11-04,_SS_Benedictus_XVI,_Lettera_Apostolica_Beatificazione_Fabris,_LT.doc"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)",
   "slug": "kasper-istanbul"
  },
  {
@@ -83405,26 +82281,12 @@
   "slug": "pontificie-accademie"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-11-08",
   "type": null,
   "title": "Epistula 'Centesimus Iam'",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/2005-11-08,_SS_Benedictus_XVI,_Epistula_'Centesimus_Iam',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "benedict-xv",
-  "date": "2005-11-09",
-  "type": null,
-  "title": "Motu Proprio 'Totius Orbis'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2005-11-09,_SS_Benedictus_XVI,_Motu_Proprio_'Totius_Orbis',_LT.pdf"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -83474,10 +82336,12 @@
   "type": "motu_proprio",
   "title": "Totius Orbis",
   "langs": {
-   "pt": "https://www.veritatis.com.br/totius-orbis-bento-xvi-09-11-2005/"
+   "pt": "https://www.veritatis.com.br/totius-orbis-bento-xvi-09-11-2005/",
+   "la": "http://www.documentacatholicaomnia.eu/01p/2005-11-09,_SS_Benedictus_XVI,_Motu_Proprio_'Totius_Orbis',_LT.pdf"
   },
   "sources": [
-   "veritatis.com.br"
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": ""
@@ -83496,7 +82360,8 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/letters/2005/documents/hf_ben-xvi_let_20051110_assemblea-cei.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "review",
   "reason": "letter to a person or local church",
@@ -83529,8 +82394,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -83549,20 +82414,6 @@
   "slug": "eucaristia"
  },
  {
-  "author": "benedict-xv",
-  "date": "2005-11-13",
-  "type": null,
-  "title": "La Beatificazione de Foucauld et Al",
-  "langs": {
-   "it": "http://www.documentacatholicaomnia.eu/01p/2005-11-13,_SS_Benedictus_XVI,_La_Beatificazione_de_Foucauld_et_Al,_IT.doc"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2005-11-13",
   "type": "apost_letters",
@@ -83577,7 +82428,8 @@
   },
   "sources": [
    "vatican.va",
-   "veritatis.com.br"
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -83614,7 +82466,8 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20051115_beatification-messico.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -83741,7 +82594,7 @@
   "slug": "bartholomew"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-11-28",
   "type": null,
   "title": "Allocutio 'Notisssimum Omnino'",
@@ -83786,8 +82639,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "dicastery document outside doctrine/worship",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "homily-sepe"
  },
  {
@@ -83829,35 +82682,12 @@
   "slug": "giornata-aids"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2005-12-04",
   "type": null,
   "title": "Epistula 'Quemadmodum Quondam'",
   "langs": {
    "la": "http://www.documentacatholicaomnia.eu/01p/2005-12-04,_SS_Benedictus_XVI,_Epistula_'Quemadmodum_Quondam',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
-  "author": "benedict-xv",
-  "date": "2005-12-25",
-  "type": null,
-  "title": "Encyclica 'Deus Caritas Est'",
-  "langs": {
-   "ch": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_CH.pdf",
-   "en": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_EN.doc",
-   "es": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_ES.doc",
-   "fr": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_FR.doc",
-   "de": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_GE.doc",
-   "hu": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_HU.doc",
-   "it": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_IT.doc",
-   "la": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_LT.doc",
-   "nl": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_NL.doc",
-   "pt": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_PT.doc"
   },
   "sources": [
    "documentacatholicaomnia.eu"
@@ -83885,11 +82715,13 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
    "ru": "https://www.vatican.va/content/benedict-xvi/ru/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
    "vi": "https://www.vatican.va/content/benedict-xvi/vi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
-   "zh": "https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html"
+   "zh": "https://www.vatican.va/content/benedict-xvi/zh/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+   "ch": "http://www.documentacatholicaomnia.eu/01p/2005-12-25,_SS_Benedictus_XVI,_Encyclica_'Deus_Caritas_Est',_CH.pdf"
   },
   "sources": [
    "vatican.va",
-   "veritatis.com.br"
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -83966,7 +82798,7 @@
   "slug": "rc-pc-family-pro-20051996"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-01-06",
   "type": null,
   "title": "Epistula 'Mente Sane'",
@@ -83980,7 +82812,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-01-09",
   "type": null,
   "title": "Discorso al Corpo Diplomatico",
@@ -84269,7 +83101,7 @@
   "slug": "darfur-sudan"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-03-02",
   "type": null,
   "title": "Meeting With Roman Clergy",
@@ -84283,7 +83115,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-03-03",
   "type": null,
   "title": "Epistula 'Quingenti Anni'",
@@ -84298,7 +83130,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-03-04",
   "type": null,
   "title": "Epistula 'Congruum Solet'",
@@ -84422,7 +83254,7 @@
   "slug": "levada-consistory"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-03-25",
   "type": null,
   "title": "Epistula 'Peculiarem Solet'",
@@ -84451,7 +83283,7 @@
   "slug": "sepe-ordinazioni"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-04-04",
   "type": null,
   "title": "Epistula 'Inde Ab Exordiis'",
@@ -84641,7 +83473,7 @@
   "slug": "50-haurietis-aquas"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-05-18",
   "type": null,
   "title": "Epistula 'Quintus et Vicesimus'",
@@ -84655,7 +83487,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-05-23",
   "type": null,
   "title": "Lettera Al Preposto Generale Dei Gesuiti",
@@ -84697,8 +83529,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -84782,7 +83614,7 @@
   "slug": "provincia-lituania"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-06-28",
   "type": null,
   "title": "80 Anniversario Provincia Lituana",
@@ -84796,7 +83628,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-06-30",
   "type": null,
   "title": "Omelia Per I Santi Pietro e Paolo",
@@ -84826,6 +83658,20 @@
   "slug": "calendario-congreso"
  },
  {
+  "author": "benedict-xvi",
+  "date": "2006-07-03",
+  "type": null,
+  "title": "Omelia Da Rhemes Saint-Georges",
+  "langs": {
+   "it": "http://www.documentacatholicaomnia.eu/01p/2006-07-03,_SS_Benedictus_XVI,_Omelia_Da_Rhemes_Saint-Georges,_IT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
+ },
+ {
   "author": "family",
   "date": "2006-07-04",
   "type": "curia",
@@ -84840,6 +83686,20 @@
   "status": "review",
   "reason": "dicastery document outside doctrine/worship",
   "slug": "teologico-pastoral-valencia"
+ },
+ {
+  "author": "benedict-xvi",
+  "date": "2006-07-05",
+  "type": null,
+  "title": "Omelia Su Giovanni. Figlio di Zebedeo",
+  "langs": {
+   "it": "http://www.documentacatholicaomnia.eu/01p/2006-07-05,_SS_Benedictus_XVI,_Omelia_Su_Giovanni._Figlio_di_Zebedeo,_IT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
  },
  {
   "author": "benedict-xvi",
@@ -85002,7 +83862,21 @@
   "slug": "stafford-st-egidio"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
+  "date": "2006-08-15",
+  "type": null,
+  "title": "Omelia Sulla Beata Vergine Maria",
+  "langs": {
+   "it": "http://www.documentacatholicaomnia.eu/01p/2006-08-15,_SS_Benedictus_XVI,_Omelia_Sulla_Beata_Vergine_Maria,_IT.doc"
+  },
+  "sources": [
+   "documentacatholicaomnia.eu"
+  ],
+  "status": "exclude",
+  "reason": "the pope's private writing (sermons, commentaries, poems)"
+ },
+ {
+  "author": "benedict-xvi",
   "date": "2006-08-17",
   "type": null,
   "title": "Intervista Sulla Visita Pastorale in Baviera",
@@ -85036,7 +83910,7 @@
   "slug": "xx-incontro-assisi"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-09-08",
   "type": null,
   "title": "Epistula 'Congrua Profecto'",
@@ -85050,7 +83924,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-09-09",
   "type": null,
   "title": "Ankunft auf dem Flughafen in Muenchen",
@@ -85066,7 +83940,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-09-10",
   "type": null,
   "title": "Angelus Preghiera Del Santo Padre",
@@ -85082,7 +83956,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-09-11",
   "type": null,
   "title": "Eucharistiefeier Altoetting",
@@ -85097,7 +83971,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-09-12",
   "type": null,
   "title": "In Der Aula Der Universitaet Regensburg",
@@ -85113,7 +83987,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-09-13",
   "type": null,
   "title": "Fede. Ragione e Universita",
@@ -85199,7 +84073,7 @@
   "slug": "collegio-s-paolo"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-09-20",
   "type": null,
   "title": "Epistula 'Pastorali Caritate'",
@@ -85247,20 +84121,6 @@
   "slug": "card-cassidy"
  },
  {
-  "author": "benedict-xv",
-  "date": "2006-09-23",
-  "type": null,
-  "title": "Epistula 'Nobile et Equum'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2006-09-23,_SS_Benedictus_XVI,_Epistula_'Nobile_et_Equum',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2006-09-23",
   "type": "letters",
@@ -85273,7 +84133,8 @@
    "la": "https://www.vatican.va/content/benedict-xvi/la/letters/2006/documents/hf_ben-xvi_let_20060923_sodano-ungheria.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
   "status": "review",
   "reason": "letter to a person or local church",
@@ -85295,7 +84156,7 @@
   "slug": "murphy-oconnor"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-10-01",
   "type": null,
   "title": "Epistula 'Maxima Profecto'",
@@ -85309,7 +84170,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-10-06",
   "type": null,
   "title": "Epistula 'Parmensis Communitas'",
@@ -85485,12 +84346,12 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-11-01",
   "type": null,
   "title": "Epistula 'Per Litteras'",
@@ -85690,12 +84551,12 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2006-12-13",
   "type": null,
   "title": "Epistula 'Romani Pontifices'",
@@ -85774,7 +84635,7 @@
   "slug": "levada-card-seper"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-01-12",
   "type": null,
   "title": "Epistula 'Decem Iam'",
@@ -85848,7 +84709,7 @@
   "slug": "nota-lebbra"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-02-08",
   "type": null,
   "title": "Epistula 'Memorabilem Sane'",
@@ -85913,7 +84774,7 @@
   "slug": "pres-korea"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-02-16",
   "type": null,
   "title": "Epistula 'Quem Cotidiana'",
@@ -85962,28 +84823,6 @@
   "slug": "camaldolesi"
  },
  {
-  "author": "benedict-xv",
-  "date": "2007-02-22",
-  "type": null,
-  "title": "Adhortatio 'Sacramentum Caritatis'",
-  "langs": {
-   "en": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_EN.pdf",
-   "es": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_ES.pdf",
-   "fr": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_FR.pdf",
-   "de": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_GE.pdf",
-   "it": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_IT.pdf",
-   "la": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_LT.pdf",
-   "nl": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_NL.pdf",
-   "pl": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_PL.pdf",
-   "pt": "http://www.documentacatholicaomnia.eu/01p/2007-02-22,_SS_Benedictus_XVI,_Adhortatio_'Sacramentum_Caritatis',_PT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2007-02-22",
   "type": "letters",
@@ -86024,7 +84863,8 @@
   },
   "sources": [
    "vatican.va",
-   "veritatis.com.br"
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -86093,8 +84933,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -86132,7 +84972,7 @@
   "slug": "ruini"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-03-26",
   "type": null,
   "title": "Epistula 'Valde Iucundum'",
@@ -86146,7 +84986,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-04-02",
   "type": null,
   "title": "Epistula 'Maximo cum Gaudio'",
@@ -86198,7 +85038,7 @@
   "slug": "martinez-somalo"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-04-05",
   "type": null,
   "title": "Epistula 'Centenaria Recolitur'",
@@ -86212,7 +85052,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-04-13",
   "type": null,
   "title": "Epistula 'Nonaginta Ante Annos'",
@@ -86375,7 +85215,7 @@
   "slug": "beatif-pellesi"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-05-01",
   "type": null,
   "title": "Epistula 'Bambergensem Venerandam'",
@@ -86428,7 +85268,7 @@
   "slug": "sanctorum-mater"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-05-19",
   "type": null,
   "title": "Epistula 'Dignum Sane'",
@@ -86442,7 +85282,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-05-20",
   "type": null,
   "title": "Epistula 'Memoriam Profecto'",
@@ -86456,7 +85296,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-05-27",
   "type": null,
   "title": "Epistula 'Venerati Fratres Episcopi'",
@@ -86582,7 +85422,7 @@
   "slug": "santificazione-sacerdotale"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-06-11",
   "type": null,
   "title": "Motu Proprio 'Constitutione Apostolica'",
@@ -86745,20 +85585,6 @@
   "slug": "educatori-seminari"
  },
  {
-  "author": "benedict-xv",
-  "date": "2007-07-07",
-  "type": null,
-  "title": "Motu Proprio 'Summorum Pontificum'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2007-07-07,_SS_Benedictus_XVI,_Motu_Proprio_'Summorum_Pontificum',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2007-07-07",
   "type": null,
@@ -86810,7 +85636,8 @@
   "sources": [
    "vatican.va",
    "papalencyclicals.net",
-   "veritatis.com.br"
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -86960,7 +85787,7 @@
   "slug": "ordine-carmelo"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-08-16",
   "type": null,
   "title": "Epistula 'Evangelii Nuntio'",
@@ -87092,8 +85919,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -87117,7 +85944,7 @@
   "slug": "educare-insieme"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-09-10",
   "type": null,
   "title": "Epistula 'Sancti Remigii'",
@@ -87186,7 +86013,7 @@
   "slug": "beatif-moreau"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2007-09-16",
   "type": null,
   "title": "Epistula 'Apparitionum Beatae Mariae'",
@@ -87570,20 +86397,6 @@
   "slug": "bartholomaios-i"
  },
  {
-  "author": "benedict-xv",
-  "date": "2007-11-30",
-  "type": null,
-  "title": "Encyclica 'Spe Salvi'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2007-11-30,_SS_Benedictus_XVI,_Encyclica_'Spe_Salvi',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2007-11-30",
   "type": "encyclicals",
@@ -87607,7 +86420,8 @@
   },
   "sources": [
    "vatican.va",
-   "veritatis.com.br"
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -87666,8 +86480,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -87714,8 +86528,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "conf-stampa-nota"
  },
  {
@@ -88082,7 +86896,7 @@
   "slug": "chiara-lubich"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2008-03-27",
   "type": null,
   "title": "Epistula 'Vetustam Aethiopes'",
@@ -88111,7 +86925,7 @@
   "slug": "beatif-donati"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2008-04-02",
   "type": null,
   "title": "Epistula 'Divino Spirito'",
@@ -88125,7 +86939,7 @@
   "reason": "only on DCO (no vatican.va record)"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2008-04-09",
   "type": null,
   "title": "Epistula 'Sanctissima Eucharistia'",
@@ -88355,20 +87169,6 @@
   "slug": "saraiva-martins"
  },
  {
-  "author": "benedict-xv",
-  "date": "2008-06-02",
-  "type": null,
-  "title": "Epistula 'Qui a Patre'",
-  "langs": {
-   "la": "http://www.documentacatholicaomnia.eu/01p/2008-06-02,_SS_Benedictus_XVI,_Epistula_'Qui_a_Patre',_LT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2008-06-02",
   "type": "letters",
@@ -88380,10 +87180,11 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/letters/2008/documents/hf_ben-xvi_let_20080602_cam3-comla8.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "documentacatholicaomnia.eu"
   ],
-  "status": "exclude",
-  "reason": "occasional letter (envoy, anniversary, greeting)",
+  "status": "review",
+  "reason": "only on DCO (no vatican.va record)",
   "slug": "cam3-comla8"
  },
  {
@@ -88495,7 +87296,7 @@
   "slug": "beato-libano"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2008-06-23",
   "type": null,
   "title": "Epistula 'Si Quidem'",
@@ -88568,7 +87369,7 @@
   "slug": "xxiii-gmg"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2008-07-03",
   "type": null,
   "title": "Epistula 'Sollemne Prorsus'",
@@ -88862,8 +87663,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -88952,8 +87753,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "conf-stampa-dignitas-personae"
  },
  {
@@ -89252,9 +88053,9 @@
   "author": "unattributed",
   "date": "2009-05-05",
   "type": null,
-  "title": "Carta pastoral sobre revelações particulares e aparições",
+  "title": "Carta circular sobre visões e revelações no mundo de hoje",
   "langs": {
-   "pt": "https://www.veritatis.com.br/carta-pastoral-sobre-revelacoes-particulares-e-aparicoes/"
+   "pt": "https://www.veritatis.com.br/carta-circular-sobre-visoes-e-revelacoes-no-mundo-de-hoje/"
   },
   "sources": [
    "veritatis.com.br"
@@ -89369,7 +88170,7 @@
   "slug": "anno-sacerdotale"
  },
  {
-  "author": "benedict-xv",
+  "author": "benedict-xvi",
   "date": "2009-06-03",
   "type": null,
   "title": "Rabanus Maurus",
@@ -89456,26 +88257,6 @@
   "slug": "legge-naturale-minnerath"
  },
  {
-  "author": "benedict-xv",
-  "date": "2009-06-29",
-  "type": null,
-  "title": "Encyclica 'Charitas in Veritate'",
-  "langs": {
-   "en": "http://www.documentacatholicaomnia.eu/01p/2009-06-29,_SS_Benedictus_XVI,_Encyclica_'Charitas_in_Veritate',_EN.pdf",
-   "es": "http://www.documentacatholicaomnia.eu/01p/2009-06-29,_SS_Benedictus_XVI,_Encyclica_'Charitas_in_Veritate',_ES.pdf",
-   "fr": "http://www.documentacatholicaomnia.eu/01p/2009-06-29,_SS_Benedictus_XVI,_Encyclica_'Charitas_in_Veritate',_FR.pdf",
-   "de": "http://www.documentacatholicaomnia.eu/01p/2009-06-29,_SS_Benedictus_XVI,_Encyclica_'Charitas_in_Veritate',_GE.pdf",
-   "it": "http://www.documentacatholicaomnia.eu/01p/2009-06-29,_SS_Benedictus_XVI,_Encyclica_'Charitas_in_Veritate',_IT.pdf",
-   "pl": "http://www.documentacatholicaomnia.eu/01p/2009-06-29,_SS_Benedictus_XVI,_Encyclica_'Charitas_in_Veritate',_PL.pdf",
-   "pt": "http://www.documentacatholicaomnia.eu/01p/2009-06-29,_SS_Benedictus_XVI,_Encyclica_'Charitas_in_Veritate',_PT.pdf"
-  },
-  "sources": [
-   "documentacatholicaomnia.eu"
-  ],
-  "status": "review",
-  "reason": "only on DCO (no vatican.va record)"
- },
- {
   "author": "benedict-xvi",
   "date": "2009-06-29",
   "type": "encyclicals",
@@ -89499,7 +88280,8 @@
   },
   "sources": [
    "vatican.va",
-   "veritatis.com.br"
+   "veritatis.com.br",
+   "documentacatholicaomnia.eu"
   ],
   "status": "include",
   "reason": "",
@@ -89596,8 +88378,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -89916,8 +88698,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -90002,8 +88784,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -90172,7 +88954,8 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/apost_letters/documents/hf_ben-xvi_apl_20100921_ubicumque-et-semper.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "veritatis.com.br"
   ],
   "status": "include",
   "reason": "",
@@ -90192,20 +88975,6 @@
   "status": "exclude",
   "reason": "occasional letter (envoy, anniversary, greeting)",
   "slug": "president-nigeria"
- },
- {
-  "author": "benedict-xvi",
-  "date": "2010-09-21",
-  "type": "motu_proprio",
-  "title": "Ubicumque et semper",
-  "langs": {
-   "pt": "https://www.veritatis.com.br/ubicumque-et-semper-bento-xvi-21-09-2010/"
-  },
-  "sources": [
-   "veritatis.com.br"
-  ],
-  "status": "include",
-  "reason": ""
  },
  {
   "author": "benedict-xvi",
@@ -90245,7 +89014,8 @@
    "es": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20101002_opus-angelorum_sp.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "veritatis.com.br"
   ],
   "status": "include",
   "reason": "",
@@ -90262,8 +89032,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on opus-angelorum",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "opus-angelorum-articolo"
  },
  {
@@ -90707,8 +89477,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -90909,7 +89679,8 @@
    "es": "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20110503_abuso-minori_sp.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "veritatis.com.br"
   ],
   "status": "include",
   "reason": "",
@@ -91018,8 +89789,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "press-release-vc"
  },
  {
@@ -91381,8 +90152,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on nota-anno-fede",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "nota-anno-fede-comunicato"
  },
  {
@@ -91543,8 +90314,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on comunicato",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-theology-today"
  },
  {
@@ -91760,8 +90531,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato"
  },
  {
@@ -92046,25 +90817,12 @@
    "pt": "https://www.vatican.va/content/benedict-xvi/pt/motu_proprio/documents/hf_ben-xvi_motu-proprio_20130116_ministrorum-institutio.html"
   },
   "sources": [
-   "vatican.va"
+   "vatican.va",
+   "veritatis.com.br"
   ],
   "status": "include",
   "reason": "",
   "slug": "ministrorum-institutio"
- },
- {
-  "author": "benedict-xvi",
-  "date": "2013-01-16",
-  "type": "motu_proprio",
-  "title": "Ministrorum institutio",
-  "langs": {
-   "pt": "https://www.veritatis.com.br/ministrorum-institutio-bento-xvi-16-01-2013/"
-  },
-  "sources": [
-   "veritatis.com.br"
-  ],
-  "status": "include",
-  "reason": ""
  },
  {
   "author": "benedict-xvi",
@@ -92724,8 +91482,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on comunicato",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-monoteismo-cristiano"
  },
  {
@@ -93238,8 +91996,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on comunicato",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-stampa"
  },
  {
@@ -93783,25 +92541,6 @@
   "slug": "segreteria-comunicazione"
  },
  {
-  "author": "francis",
-  "date": "2015-06-27",
-  "type": "apost_letters",
-  "title": "Apostolic Letter issued 'Motu Proprio' «The current context of communications» for the establishment of the Secretariat for Communication (27 June 2015)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20150627_segreteria-comunicazione.html",
-   "es": "https://www.vatican.va/content/francesco/es/apost_letters/documents/papa-francesco_lettera-ap_20150627_segreteria-comunicazione.html",
-   "fr": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco_lettera-ap_20150627_segreteria-comunicazione.html",
-   "it": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco_lettera-ap_20150627_segreteria-comunicazione.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco_lettera-ap_20150627_segreteria-comunicazione.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "segreteria-comunicazione"
- },
- {
   "author": "justice-peace",
   "date": "2015-06-29",
   "type": "curia",
@@ -94286,46 +93025,13 @@
  },
  {
   "author": "francis",
-  "date": "2016-05-31",
-  "type": "motu_proprio",
-  "title": "Lettera Apostolica “De concordia inter Codices” in forma di 'Motu Proprio' con la quale vengono mutate alcune norme del Codice di Diritto Canonico (31 maggio 2016)",
-  "langs": {
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20160531_de-concordia-inter-codices.html",
-   "es": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20160531_de-concordia-inter-codices.html",
-   "la": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20160531_de-concordia-inter-codices.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "de-concordia-inter-codices"
- },
- {
-  "author": "francis",
   "date": "2016-06-04",
   "type": "motu_proprio",
   "title": "Apostolic Letter issued 'Motu Proprio' As a Loving Mother (4 June 2016)",
   "langs": {
    "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20160604_come-una-madre-amorevole.html",
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20160604_come-una-madre-amorevole.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "come-una-madre-amorevole"
- },
- {
-  "author": "francis",
-  "date": "2016-06-04",
-  "type": "apost_letters",
-  "title": "Apostolic Letter issued 'Motu Proprio' As a Loving Mother (4 June 2016)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20160604_come-una-madre-amorevole.html",
-   "fr": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco_lettera-ap_20160604_come-una-madre-amorevole.html",
-   "it": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco_lettera-ap_20160604_come-una-madre-amorevole.html"
+   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20160604_come-una-madre-amorevole.html",
+   "fr": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco_lettera-ap_20160604_come-una-madre-amorevole.html"
   },
   "sources": [
    "vatican.va"
@@ -94382,23 +93088,6 @@
    "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20160704_i-beni-temporali.html",
    "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20160704_i-beni-temporali.html",
    "pt": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20160704_i-beni-temporali.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "i-beni-temporali"
- },
- {
-  "author": "francis",
-  "date": "2016-07-04",
-  "type": "apost_letters",
-  "title": "Apostolic Letter issued Motu Proprio I beni temporali regarding certain competencies in economic-financial matters (4 July 2016)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco_lettera-ap_20160704_i-beni-temporali.html",
-   "it": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco_lettera-ap_20160704_i-beni-temporali.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco_lettera-ap_20160704_i-beni-temporali.html"
   },
   "sources": [
    "vatican.va"
@@ -94503,25 +93192,6 @@
  {
   "author": "francis",
   "date": "2016-08-15",
-  "type": "motu_proprio",
-  "title": "Apostolic Letter issued 'Motu Proprio' instituting the Dicastery for the Laity, the Family and Life (15 August 2016)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20160815_sedula-mater.html",
-   "fr": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20160815_sedula-mater.html",
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20160815_sedula-mater.html",
-   "la": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20160815_sedula-mater.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20160815_sedula-mater.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "sedula-mater"
- },
- {
-  "author": "francis",
-  "date": "2016-08-15",
   "type": "letters",
   "title": "Chirograph of His Holiness Pope Francis by which he names H.E. Msgr. Vincenzo Paglia as the Grand Chancellor of the Pontifical Institute “John Paul II” for Studies on Marriage and Family and President of the Pontifical Academy for Life (15 August 2016)",
   "langs": {
@@ -94550,28 +93220,6 @@
    "la": "https://www.vatican.va/content/francesco/la/apost_letters/documents/papa-francesco-lettera-ap_20160817_humanam-progressionem.html",
    "pl": "https://www.vatican.va/content/francesco/pl/apost_letters/documents/papa-francesco-lettera-ap_20160817_humanam-progressionem.html",
    "pt": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20160817_humanam-progressionem.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "humanam-progressionem"
- },
- {
-  "author": "francis",
-  "date": "2016-08-17",
-  "type": "motu_proprio",
-  "title": "Apostolic Letter issued 'Motu Proprio' instituting the Dicastery for promoting Integral Human Development (17 August 2016)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
-   "de": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
-   "es": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
-   "fr": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
-   "la": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
-   "pl": "https://www.vatican.va/content/francesco/pl/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20160817_humanam-progressionem.html"
   },
   "sources": [
    "vatican.va"
@@ -94757,32 +93405,14 @@
  {
   "author": "francis",
   "date": "2017-02-11",
-  "type": "motu_proprio",
-  "title": "Apostolic Letter issued Motu Proprio by the Supreme Pontiff Francis transferring competences for Shrines to the Pontifical Council for the Promotion of the New Evangelization (11 February 2017)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html",
-   "de": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html",
-   "fr": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html",
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "sanctuarium-in-ecclesia"
- },
- {
-  "author": "francis",
-  "date": "2017-02-11",
   "type": "apost_letters",
   "title": "Lettera Apostolica in forma di Motu Proprio Sanctuarium in Ecclesia con la quale si trasferiscono le competenze sui Santuari al Pontificio Consiglio per la Promozione della Nuova Evangelizzazione (11 febbraio 2017)",
   "langs": {
    "it": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
    "de": "https://www.vatican.va/content/francesco/de/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
    "en": "https://www.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html"
+   "pt": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20170211_sanctuarium-in-ecclesia.html",
+   "fr": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20170211_sanctuarium-in-ecclesia.html"
   },
   "sources": [
    "vatican.va"
@@ -95057,27 +93687,6 @@
  {
   "author": "francis",
   "date": "2017-07-11",
-  "type": "motu_proprio",
-  "title": "Apostolic Letter issued 'Motu Proprio' Maiorem hac dilectionem on the offer of life  (11 July 2017)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
-   "de": "https://www.vatican.va/content/francesco/de/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
-   "es": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
-   "fr": "https://www.vatican.va/content/francesco/fr/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
-   "la": "https://www.vatican.va/content/francesco/la/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "maiorem-hac-dilectionem"
- },
- {
-  "author": "francis",
-  "date": "2017-07-11",
   "type": "apost_letters",
   "title": "Apostolic Letter issued 'Motu Proprio' Maiorem hac dilectionem on the offer of life (11 July 2017)",
   "langs": {
@@ -95086,7 +93695,8 @@
    "fr": "https://www.vatican.va/content/francesco/fr/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
    "it": "https://www.vatican.va/content/francesco/it/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
    "la": "https://www.vatican.va/content/francesco/la/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html"
+   "pt": "https://www.vatican.va/content/francesco/pt/apost_letters/documents/papa-francesco-lettera-ap_20170711_maiorem-hac-dilectionem.html",
+   "es": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio_20170711_maiorem-hac-dilectionem.html"
   },
   "sources": [
    "vatican.va"
@@ -95524,8 +94134,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "presentazione-placuit-deo"
  },
  {
@@ -96604,8 +95214,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "saluto-bxvi-50ann-cti"
  },
  {
@@ -97141,27 +95751,12 @@
   "author": "francis",
   "date": "2020-05-19",
   "type": "apost_letters",
-  "title": "Apostolic Letter in the form of \"Motu Proprio\" on transparency, control and competition in the procedures for awarding public contracts of the Holy See and Vatican City State (19 May 2020)",
-  "langs": {
-   "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
-   "es": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
-   "pt": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html"
-  },
-  "sources": [
-   "vatican.va"
-  ],
-  "status": "include",
-  "reason": "",
-  "slug": "procedure-aggiudicazione-contrattipubblici"
- },
- {
-  "author": "francis",
-  "date": "2020-05-19",
-  "type": "apost_letters",
   "title": "Norme e Tutela giurisdizionale sulla trasparenza, il controllo e la concorrenza nelle procedure di aggiudicazione dei contratti pubblici della Santa Sede e dello Stato della Città del Vaticano (19 maggio 2020)",
   "langs": {
-   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-20200519_procedure-aggiudicazione-contrattipubblici.html"
+   "it": "https://www.vatican.va/content/francesco/it/motu_proprio/documents/papa-francesco-20200519_procedure-aggiudicazione-contrattipubblici.html",
+   "en": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
+   "es": "https://www.vatican.va/content/francesco/es/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html",
+   "pt": "https://www.vatican.va/content/francesco/pt/motu_proprio/documents/papa-francesco-motu-proprio-20200519_procedure-aggiudicazione-contrattipubblici.html"
   },
   "sources": [
    "vatican.va"
@@ -97986,8 +96581,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "articolo-responsum-dubium-unioni"
  },
  {
@@ -99240,8 +97835,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "coda-saluto-plenaria-x-quinquennio"
  },
  {
@@ -100174,8 +98769,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "saluto-presidente-papa"
  },
  {
@@ -100284,8 +98879,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-fiducia-supplicans"
  },
  {
@@ -100300,8 +98895,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on comunicato-fiducia-supplicans",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-fiducia-supplicans-zh"
  },
  {
@@ -100681,8 +99276,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "presentazione-dignitas-infinita"
  },
  {
@@ -100900,8 +99495,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-gisella-cardia"
  },
  {
@@ -101008,8 +99603,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-scisma-vigano"
  },
  {
@@ -101068,8 +99663,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-apparizioni-amsterdam"
  },
  {
@@ -101232,8 +99827,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "presentazione-nota-esperienza-medjugorje"
  },
  {
@@ -101620,8 +100215,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "fernandez-conferenza-brasile"
  },
  {
@@ -101636,8 +100231,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "fernandez-testo-conferenza-brasile"
  },
  {
@@ -101687,8 +100282,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "fernandez-conferenza-colonia"
  },
  {
@@ -101706,8 +100301,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-scritti-valtorta"
  },
  {
@@ -101722,8 +100317,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "fernandez-omelia-ceneri"
  },
  {
@@ -101801,8 +100396,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on comunicato",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "comunicato-1700-nicea"
  },
  {
@@ -102278,8 +100873,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "review",
-  "reason": "commentary on una-caro",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "una-caro-presentazione"
  },
  {
@@ -102501,8 +101096,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "presentazione-quo-vadis-humanits"
  },
  {
@@ -102628,8 +101223,8 @@
   "sources": [
    "vatican.va"
   ],
-  "status": "include",
-  "reason": "",
+  "status": "exclude",
+  "reason": "not a document (press, programme, index, member list)",
   "slug": "fernandez-presentazione-enciclica"
  },
  {
@@ -103979,34 +102574,6 @@
   ]
  },
  {
-  "author": "alexander-vi",
-  "date": null,
-  "type": null,
-  "title": "Inter Caetera",
-  "langs": {
-   "en": "https://www.papalencyclicals.net/alex06/alex06inter.htm"
-  },
-  "sources": [
-   "papalencyclicals.net"
-  ],
-  "status": "include",
-  "reason": ""
- },
- {
-  "author": "alexander-vii",
-  "date": null,
-  "type": null,
-  "title": "Super Cathedram Principis Apostolorum",
-  "langs": {
-   "en": "https://www.papalencyclicals.net/alex07/alex07super.htm"
-  },
-  "sources": [
-   "papalencyclicals.net"
-  ],
-  "status": "include",
-  "reason": ""
- },
- {
   "author": "benedict-xi",
   "date": null,
   "type": "apostolic constitution",
@@ -104783,6 +103350,20 @@
   "author": "curia-unknown",
   "date": null,
   "type": "curia",
+  "title": "Carta aos Sacerdotes por ocasião do Ano Sacerdotal",
+  "langs": {
+   "pt": "https://www.veritatis.com.br/carta-aos-sacerdotes-por-ocasiao-do-ano-sacerdotal-2009-2010/"
+  },
+  "sources": [
+   "veritatis.com.br"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "curia-unknown",
+  "date": null,
+  "type": "curia",
   "title": "Catecismo Sobre o Batismo",
   "langs": {
    "pt": "https://www.veritatis.com.br/catecismo-sobre-o-batismo/"
@@ -105052,20 +103633,6 @@
   "title": "Relação entre a Igreja Católica e o Conselho Ecumênico das Igrejas",
   "langs": {
    "pt": "https://www.veritatis.com.br/relacao-entre-a-igreja-catolica-e-o-conselho-ecumenico-das-igrejas-2004/"
-  },
-  "sources": [
-   "veritatis.com.br"
-  ],
-  "status": "include",
-  "reason": ""
- },
- {
-  "author": "curia-unknown",
-  "date": null,
-  "type": "curia",
-  "title": "Sobre a Eucaristia",
-  "langs": {
-   "pt": "https://www.veritatis.com.br/sobre-a-eucaristia/"
   },
   "sources": [
    "veritatis.com.br"
@@ -105591,6 +104158,20 @@
   "author": "paul-vi",
   "date": null,
   "type": null,
+  "title": "Credo Of The People Of God",
+  "langs": {
+   "en": "https://www.papalencyclicals.net/paul06/p6credo.htm"
+  },
+  "sources": [
+   "papalencyclicals.net"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "paul-vi",
+  "date": null,
+  "type": null,
   "title": "Election Of The Roman Pontiff",
   "langs": {
    "en": "https://www.papalencyclicals.net/paul06/p6elect.htm"
@@ -105692,6 +104273,20 @@
   "title": "Renewal Of The Religious Life",
   "langs": {
    "en": "https://www.papalencyclicals.net/paul06/p6renew.htm"
+  },
+  "sources": [
+   "papalencyclicals.net"
+  ],
+  "status": "include",
+  "reason": ""
+ },
+ {
+  "author": "paul-vi",
+  "date": null,
+  "type": null,
+  "title": "Sollicitudo pastoralis",
+  "langs": {
+   "en": "https://www.papalencyclicals.net/paul06/soll-e.htm"
   },
   "sources": [
    "papalencyclicals.net"
@@ -105903,6 +104498,62 @@
   "title": "Apêndices – cédula de Felipe II",
   "langs": {
    "pt": "https://www.veritatis.com.br/apendices-cedula-de-felipe-ii/"
+  },
+  "sources": [
+   "veritatis.com.br"
+  ],
+  "status": "review",
+  "reason": "no author in title; check"
+ },
+ {
+  "author": "unattributed",
+  "date": null,
+  "type": null,
+  "title": "Carta de adesão dos sacerdotes da Administração Apostólica a dom Fernando",
+  "langs": {
+   "pt": "https://www.veritatis.com.br/carta-de-adesao-dos-sacerdotes-da-adm-apostolica-a-dom-fernando/"
+  },
+  "sources": [
+   "veritatis.com.br"
+  ],
+  "status": "review",
+  "reason": "no author in title; check"
+ },
+ {
+  "author": "unattributed",
+  "date": null,
+  "type": null,
+  "title": "Carta do papa Bento XVI acerca da Campanha da Fraternidade 2008",
+  "langs": {
+   "pt": "https://www.veritatis.com.br/carta-do-santo-padre-bento-xvi-acerca-da-campanha-da-fraternidade-2008/"
+  },
+  "sources": [
+   "veritatis.com.br"
+  ],
+  "status": "review",
+  "reason": "no author in title; check"
+ },
+ {
+  "author": "unattributed",
+  "date": null,
+  "type": null,
+  "title": "Carta pastoral sobre revelações particulares e aparições",
+  "langs": {
+   "pt": "https://www.veritatis.com.br/carta-pastoral-sobre-revelacoes-particulares-e-aparicoes/"
+  },
+  "sources": [
+   "veritatis.com.br"
+  ],
+  "status": "review",
+  "reason": "no author in title; check"
+ },
+ {
+  "author": "unattributed",
+  "date": null,
+  "type": null,
+  "title": "Carta sinodal à Igreja de Alexandria",
+  "langs": {
+   "pt": "https://www.veritatis.com.br/carta-sinodal-a-igreja-de-alexandria/"
   },
   "sources": [
    "veritatis.com.br"

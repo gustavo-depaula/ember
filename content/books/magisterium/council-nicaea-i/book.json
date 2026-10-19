@@ -1,0 +1,179 @@
+{
+  "id": "council-nicaea-i",
+  "cover": "quarter",
+  "name": {
+    "en-US": "First Council of Nicaea",
+    "pt-BR": "Primeiro Concílio de Niceia",
+    "la": "Concilium Nicaenum I"
+  },
+  "author": {
+    "en-US": "First Council of Nicaea",
+    "pt-BR": "Primeiro Concílio de Niceia",
+    "la": "Concilium Nicaenum I"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 325. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 325. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "325",
+  "languages": [
+    "la",
+    "en-US",
+    "pt-BR",
+    "fr",
+    "grc",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "nicaea-i"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_01_Epistola_Vel_Praefatio,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_02_Praefatio_Metrice_Composita,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_03_Constitutio_Cum_Subditis_Capitulis_Suis,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum01.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/canons/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/carta-conciliar-a-igreja-de-alexandria/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/carta-do-imperador-constantino-ao-concilio/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/credo-niceno/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "pt-BR",
+      "url": "https://www.veritatis.com.br/outros-canons-antigos-atribuidos-ao-concilio/",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "fr",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Symbolum,_FR.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "grc",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Canones_(Altera_Lectio),_GR.pdf",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/0325-0325,_Concilium_Nicaenum_I,_Canones,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "01 Epistola Vel Praefatio"
+      }
+    },
+    {
+      "id": "la-02",
+      "title": {
+        "la": "02 Praefatio Metrice Composita"
+      }
+    },
+    {
+      "id": "la-03",
+      "title": {
+        "la": "03 Constitutio Cum Subditis Capitulis Suis"
+      }
+    },
+    {
+      "id": "la-04",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "First Council of Nicaea – 325 AD"
+      }
+    },
+    {
+      "id": "pt-BR-01",
+      "title": {
+        "pt-BR": "Cânons"
+      }
+    },
+    {
+      "id": "pt-BR-02",
+      "title": {
+        "pt-BR": "Carta Conciliar à Igreja de Alexandria"
+      }
+    },
+    {
+      "id": "pt-BR-03",
+      "title": {
+        "pt-BR": "Carta do Imperador Constantino ao Concílio"
+      }
+    },
+    {
+      "id": "pt-BR-04",
+      "title": {
+        "pt-BR": "Credo Niceno"
+      }
+    },
+    {
+      "id": "pt-BR-05",
+      "title": {
+        "pt-BR": "Outros Cânons Antigos atribuídos ao Concílio"
+      }
+    },
+    {
+      "id": "fr-01",
+      "title": {
+        "fr": "Symbolum"
+      }
+    },
+    {
+      "id": "grc-01",
+      "title": {
+        "grc": "Canones (Altera Lectio)"
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Canones"
+      }
+    }
+  ]
+}

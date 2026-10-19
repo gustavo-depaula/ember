@@ -1,0 +1,66 @@
+{
+  "id": "council-constance",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Council of Constance",
+    "pt-BR": "Concílio de Constança",
+    "la": "Concilium Constantiense"
+  },
+  "author": {
+    "en-US": "Council of Constance",
+    "pt-BR": "Concílio de Constança",
+    "la": "Concilium Constantiense"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 1414. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 1414. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "1414",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "constance"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1414-1414,_Concilium_Constantiense,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum16.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1418-04-22,_Absens,_Concilium_Constantiense,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "Council of Constance 1414-18"
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Concilium Constantiense"
+      }
+    }
+  ]
+}

@@ -120,6 +120,8 @@ def incipit_key(title: str) -> str:
         " ", t, flags=re.I,
     )
     words = [w for w in norm(t).split() if w not in STOP and not w.isdigit()]
+    while len(words) > 1 and words[0] in TYPE_WORDS | MORE_TYPE_WORDS:
+        words.pop(0)
     return " ".join(words[:2])
 
 
@@ -134,6 +136,10 @@ def iso(day: str, month: str, year: str) -> str | None:
     return f"{year}-{mo:02d}-{int(day):02d}" if mo else None
 
 
+MORE_TYPE_WORDS = {
+    "dichiarazione", "proclama", "notificazione", "istruzione", "rescritto", "risposta", "declaratio",
+    "notificatio", "instructio", "responsum", "bref", "lettre", "encyclique", "pope", "papa",
+}
 TYPE_WORDS = {
     "enciclica", "encyclica", "encyclical", "lettera", "lettere", "apostolica", "apostoliche", "apostolic", "letter",
     "esortazione", "exhortation", "costituzione", "constitutio", "motu", "proprio", "bolla", "bulla", "breve",
@@ -169,6 +175,11 @@ class Inventory:
                     if (a == author or author == "curia-unknown") and d["date"] == date}
             if len(hits) == 1:
                 return next(iter(hits.values()))
+            first = incipit_key(incipit).split(" ")[0]
+            same = [d for d in hits.values()
+                    if first and first in incipit_key(d["title"]).split(" ") + [(d.get("slug") or "").split("-")[0]]]
+            if len(same) == 1:
+                return same[0]
         first = incipit_key(incipit).split(" ")[0]
         if len(first) < 4:
             return None
@@ -249,7 +260,7 @@ def from_vatican_papal(inv: Inventory) -> None:
         for lang, url in d["urls"].items():
             inv.add(author=author, incipit=incipit, date=d["date"], type_=d["type"], title=title,
                     lang=VATICAN_LANG.get(lang, lang), url=url, source="vatican.va",
-                    status=status, reason=reason, key=d["file"], slug=file_slug(d["file"]))
+                    status=status, reason=reason, key=f"{d['date']}:{file_slug(d['file'])}", slug=file_slug(d["file"]))
 
 
 CURIA_CORE = {"vatican-ii", "cdf", "cdf-cti", "cdf-pcb", "worship"}
@@ -260,7 +271,9 @@ def from_vatican_archive(inv: Inventory) -> None:
         s = d["stem"]
         if s.startswith(("hf_", "papa-")):
             continue  # papal documents linked from curia pages: the papal survey has them
-        if not re.search(r"(_doc_|^rc_cti_\d|^vat-ii_|^rc_ddf_doc)", s) or re.search(r"index|elenco-membri|working-papers|programm|profile", s):
+        if not re.search(r"(_doc_|^rc_cti_\d|^vat-ii_|^rc_ddf_doc)", s) or re.search(r"index|elenco-membri|working-papers|programm|profile|press|comunicato|stampa|conferenza|"
+                                                                            r"intervista|interview|briefing|articolo|presentazione|presentation|saluto|"
+                                                                            r"omelia|homily|discorso|intervento|lectio|biografia|testo-conferenza", s):
             status, reason = "exclude", "not a document (press, programme, index, member list)"
         elif d["body"] in CURIA_CORE:
             status, reason = "include", ""
@@ -440,6 +453,17 @@ DCO_COLLECTION = re.compile(
 GENUINE_EARLY = {"clement-i", "cornelius", "dionysius", "julius-i", "liberius", "damasus-i", "stephen-i"}
 
 
+SINGLE_NAME_POPES = {
+    "peter", "linus", "anacletus", "evaristus", "telesphorus", "hyginus", "anicetus", "soter", "eleutherius",
+    "victor", "zephyrinus", "pontian", "anterus", "fabian", "cornelius", "dionysius", "eutychian", "caius",
+    "marcellinus", "eusebius", "miltiades", "mark", "liberius", "siricius", "zosimus", "hilarius", "simplicius",
+    "symmachus", "hormisdas", "silverius", "vigilius", "sabinian", "severinus", "vitalian", "agatho", "conon",
+    "sisinnius", "constantine", "zachary", "valentine", "formosus", "romanus", "lando",
+}
+# Antipopes whose acts DCO files beside the true popes'.
+ANTIPOPES = {"anacletus-ii"}
+
+
 def dco_status(author: str, date: str | None, title: str) -> tuple[str, str]:
     if DCO_NOT_A_DOCUMENT.search(title):
         return "exclude", "compilation or non-magisterial item"
@@ -486,7 +510,20 @@ def from_dco(inv: Inventory) -> None:
         author = pope_id(d["issuer"])
         if not author:
             author = "holy-see"
+        # DCO's pages misfile some documents (113 of Benedict XVI's sit on Benedict XV's
+        # page); the file name's own author is the reliable one when it names a pope.
+        file_author = pope_id(d.get("author") or "")
+        stranger = False
+        if file_author and file_author != author:
+            if re.search(r"-[ivxl]+$", file_author) or file_author in SINGLE_NAME_POPES:
+                author = file_author
+            else:
+                stranger = True  # "Bonifacius" on Zachary's page: St Boniface writing to the pope
         status, reason = dco_status(author, date, d["title"])
+        if d["issuer"] == "Antipapae" or author in ANTIPOPES:
+            status, reason = "exclude", "antipope"
+        elif stranger:
+            status, reason = "exclude", "not by the pope whose page lists it"
         inc = dco_incipit(d["title"])
         for lang, url in (langs or {None: None}).items():
             inv.add(author=author, incipit=inc, date=date, type_=None, title=d["title"], lang=lang, url=url,

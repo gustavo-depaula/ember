@@ -1,0 +1,88 @@
+{
+  "id": "council-florence",
+  "cover": "quarter",
+  "name": {
+    "en-US": "Council of Basel-Ferrara-Florence",
+    "pt-BR": "Concílio de Basileia-Ferrara-Florença",
+    "la": "Concilium Basiliense-Ferrariense-Florentinum"
+  },
+  "author": {
+    "en-US": "Council of Basel-Ferrara-Florence",
+    "pt-BR": "Concílio de Basileia-Ferrara-Florença",
+    "la": "Concilium Basiliense-Ferrariense-Florentinum"
+  },
+  "description": {
+    "en-US": "Ecumenical council · 1431. Decrees, canons and acts in every language available.",
+    "pt-BR": "Concílio ecumênico · 1431. Decretos, cânones e atas em todas as línguas disponíveis."
+  },
+  "composed": "1431",
+  "languages": [
+    "la",
+    "en-US",
+    "it"
+  ],
+  "tags": [
+    "magisterium",
+    "council",
+    "florence"
+  ],
+  "sources": [
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1431-1445,_Concilium_Basiliense,_Documenta,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1431-1431,_Concilium_Basiliense,_Documenta_Concilii_Basiliensis,_LT.doc",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "la",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1431-1431,_Concilium_Basileense,_Documenta_Omnia,_LT.pdf",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "en-US",
+      "url": "https://www.papalencyclicals.net/councils/ecum17.htm",
+      "description": "Conciliar text as published at this address."
+    },
+    {
+      "language": "it",
+      "url": "http://www.documentacatholicaomnia.eu/03d/1431-05-07,_Concilium_Basiliense,_Acta,_IT.doc",
+      "description": "Conciliar text as published at this address."
+    }
+  ],
+  "toc": [
+    {
+      "id": "la-01",
+      "title": {
+        "la": "Documenta"
+      }
+    },
+    {
+      "id": "la-02",
+      "title": {
+        "la": "Documenta Concilii Basiliensis"
+      }
+    },
+    {
+      "id": "la-03",
+      "title": {
+        "la": "Documenta Omnia"
+      }
+    },
+    {
+      "id": "en-US-01",
+      "title": {
+        "en-US": "Council of Basel-Ferrara-Florence, 1431-49 A.D."
+      }
+    },
+    {
+      "id": "it-01",
+      "title": {
+        "it": "Acta"
+      }
+    }
+  ]
+}
