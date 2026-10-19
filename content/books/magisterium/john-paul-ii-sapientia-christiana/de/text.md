@@ -915,18 +915,25 @@ Seine Heiligkeit Papst Johannes Paul II. hat die vorliegenden Verordnungen ratif
 
 Unter Berücksichtigung alles dessen, was in der Apostolischen Konstitution und in den ihr beigefügten Verordnungen enthalten ist - wobei Dinge die mehr ins einzelne gehen und leichter einer Veränderung unterliegen, den eigenen Geschäftsordnungen überlassen bleiben sollen die Statuten einer Universität oder Fakultät besonders die folgenden Punkte behandeln:
 
-1.  Namen, Wesen und Zweck der Universität oder Fakultät (mit einer kurzen Geschichte im Vorwort).
-    \#13;
-2.  Leitung - Der Großkanzler; die akademischen Behörden sowohl als Einzelpersonen als auch kollegial, ihre genauen Aufgaben; Art und Weise ihrer Wahl sowie ihre Amtszeit; Art und Weise der Wahl der kollegialen Behörden oder der Mitglieder der Rate sowie ihre Amtszeit.
-    \#13;
-3.  Lehrkörper - Sein Mindestumfang in jeder einzelnen Fakultät; in welche Kategorien sowohl die fest- wie die nicht festangestellten Dozenten einzuteilen sind; welche Voraussetzungen sie erfüllen müssen; ihre Ernennung, Beförderung und Entlassung; ihre Pflichten und Rechte.
-4.  Studenten - Die Voraussetzungen für ihre Inskription; ihre Pflichten und Rechte.
-5.  Beamte und Angestellte - Ihre Pflichten und Rechte.
-6.  Studienplan - Welche Studienordnung in jeder einzelnen Fakultät gilt; welche Studienzyklen vorgesehen sind; welche Fächer unterrichtet werden: ihre Verbindlichkeit und Stundenzahl; welche Seminare und Übungen vorgesehen sind; welche Examen und Prüfungen.
-7.  Akademische Grade - Welche Grade an den einzelnen Fakultäten verliehen werden und unter welchen Bedingungen.
-8.  Lehrmittel - Die Bibliothek; wie ihre Erhaltung und Erweiterung vorgesehen ist; die anderen didaktischen Hilfsmittel und, wenn nötig, die Laboratorien.
-9.  Finanzielle Mittel - Das Vermögen der Universität oder Fakultät und seine Verwaltung; die Normen betreffs der Gehälter für die akademischen Behörden, den Lehrkörper und die Beamten sowie betreffs der Studiengebühren einschließlich der Studienbeihilfen.
-10. Beziehungen zu anderen Fakultäten, Instituten usw.
+1\. Namen, Wesen und Zweck der Universität oder Fakultät (mit einer kurzen Geschichte im Vorwort).
+
+2\. Leitung - Der Großkanzler; die akademischen Behörden sowohl als Einzelpersonen als auch kollegial, ihre genauen Aufgaben; Art und Weise ihrer Wahl sowie ihre Amtszeit; Art und Weise der Wahl der kollegialen Behörden oder der Mitglieder der Rate sowie ihre Amtszeit.
+
+3\. Lehrkörper - Sein Mindestumfang in jeder einzelnen Fakultät; in welche Kategorien sowohl die fest- wie die nicht festangestellten Dozenten einzuteilen sind; welche Voraussetzungen sie erfüllen müssen; ihre Ernennung, Beförderung und Entlassung; ihre Pflichten und Rechte.
+
+4\. Studenten - Die Voraussetzungen für ihre Inskription; ihre Pflichten und Rechte.
+
+5\. Beamte und Angestellte - Ihre Pflichten und Rechte.
+
+6\. Studienplan - Welche Studienordnung in jeder einzelnen Fakultät gilt; welche Studienzyklen vorgesehen sind; welche Fächer unterrichtet werden: ihre Verbindlichkeit und Stundenzahl; welche Seminare und Übungen vorgesehen sind; welche Examen und Prüfungen.
+
+7\. Akademische Grade - Welche Grade an den einzelnen Fakultäten verliehen werden und unter welchen Bedingungen.
+
+8\. Lehrmittel - Die Bibliothek; wie ihre Erhaltung und Erweiterung vorgesehen ist; die anderen didaktischen Hilfsmittel und, wenn nötig, die Laboratorien.
+
+9\. Finanzielle Mittel - Das Vermögen der Universität oder Fakultät und seine Verwaltung; die Normen betreffs der Gehälter für die akademischen Behörden, den Lehrkörper und die Beamten sowie betreffs der Studiengebühren einschließlich der Studienbeihilfen.
+
+10\. Beziehungen zu anderen Fakultäten, Instituten usw.
 
 **ANHANG II Zu Art. 64 der "Verordnungen" Themenbereiche kirchlicher Studien gemäß ihrer gegenwärtigen (im Jahr 1979) akademischen Einordnung und ihres rechtlichen Wertes in der Kirche**
 

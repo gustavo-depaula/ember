@@ -4,28 +4,28 @@
 
 II\. János Pál pápa apostoli levele a világ ifjúságához  
 a nemzetközi ifjúsági év alkalmából  
-1985. március 31.
+1985\. március 31.
 
 Tartalomjegyzék
 
 [BEVEZETŐ](#BEVEZET%C5%90)  
 
-1. [Jókívánságok az ifjúság évére](#J%C3%93K%C3%8DV%C3%81NS%C3%81GOK_AZ_IFJ%C3%9AS%C3%81G_%C3%89V%C3%89RE)  
-2. [Krisztus beszélget a fiatalokkal](#KRISZTUS_BESZ%C3%89LGET_A_FIATALOKKAL)  
-3. [Az ifjúság különleges gazdagság](#AZ_IFJ%C3%9AS%C3%81G_K%C3%9CL%C3%96NLEGES_GAZDAGS%C3%81G)  
-4. [Isten a szeretet](#ISTEN_A_SZERETET)  
-5. [Az örök élet kérdése](#AZ_%C3%96R%C3%96K_%C3%89LET_K%C3%89RD%C3%89SE)  
-6. [Erkölcs és lelkiismeret](#ERK%C3%96LCS_%C3%89S_LELKIISMERET)  
-7. [Jézus rátekintett és megszerette őt](#J%C3%89ZUS_R%C3%81TEKINTETT_%C3%89S_MEGSZERETTE_%C5%90T)  
-8. [Kövess engem!](#K%C3%96VESS_ENGEM)  
-9. [Életterv és keresztény hivatás](#%C3%89LETTERV_%C3%89S_KERESZT%C3%89NY_HIVAT%C3%81S)  
-10. [A jegyesi szeretet mély titka](#A_JEGYESI_SZERETET_M%C3%89LY_TITKA)  
-11. [Az örökség](#AZ_%C3%96R%C3%96KS%C3%89G)  
-12. [Talentumok és feladatok](#TALENTUMOK_%C3%89S_FELADATOK)  
-13. [Önnevelés és veszélyek](#%C3%96NNEVEL%C3%89S_%C3%89S_VESZ%C3%89LYEK)  
-14. [A fiatalság mint növekedés](#A_FIATALS%C3%81G_MINT_N%C3%96VEKED%C3%89S)  
-15. [A jövő kihívása](#A_J%C3%96V%C5%90_KIH%C3%8DV%C3%81SA)  
-16. [Befejező üzenet](#BEFEJEZ%C5%90_%C3%9CZENET)
+1\. [Jókívánságok az ifjúság évére](#J%C3%93K%C3%8DV%C3%81NS%C3%81GOK_AZ_IFJ%C3%9AS%C3%81G_%C3%89V%C3%89RE)  
+2\. [Krisztus beszélget a fiatalokkal](#KRISZTUS_BESZ%C3%89LGET_A_FIATALOKKAL)  
+3\. [Az ifjúság különleges gazdagság](#AZ_IFJ%C3%9AS%C3%81G_K%C3%9CL%C3%96NLEGES_GAZDAGS%C3%81G)  
+4\. [Isten a szeretet](#ISTEN_A_SZERETET)  
+5\. [Az örök élet kérdése](#AZ_%C3%96R%C3%96K_%C3%89LET_K%C3%89RD%C3%89SE)  
+6\. [Erkölcs és lelkiismeret](#ERK%C3%96LCS_%C3%89S_LELKIISMERET)  
+7\. [Jézus rátekintett és megszerette őt](#J%C3%89ZUS_R%C3%81TEKINTETT_%C3%89S_MEGSZERETTE_%C5%90T)  
+8\. [Kövess engem!](#K%C3%96VESS_ENGEM)  
+9\. [Életterv és keresztény hivatás](#%C3%89LETTERV_%C3%89S_KERESZT%C3%89NY_HIVAT%C3%81S)  
+10\. [A jegyesi szeretet mély titka](#A_JEGYESI_SZERETET_M%C3%89LY_TITKA)  
+11\. [Az örökség](#AZ_%C3%96R%C3%96KS%C3%89G)  
+12\. [Talentumok és feladatok](#TALENTUMOK_%C3%89S_FELADATOK)  
+13\. [Önnevelés és veszélyek](#%C3%96NNEVEL%C3%89S_%C3%89S_VESZ%C3%89LYEK)  
+14\. [A fiatalság mint növekedés](#A_FIATALS%C3%81G_MINT_N%C3%96VEKED%C3%89S)  
+15\. [A jövő kihívása](#A_J%C3%96V%C5%90_KIH%C3%8DV%C3%81SA)  
+16\. [Befejező üzenet](#BEFEJEZ%C5%90_%C3%9CZENET)
 
 ------------------------------------------------------------------------
 

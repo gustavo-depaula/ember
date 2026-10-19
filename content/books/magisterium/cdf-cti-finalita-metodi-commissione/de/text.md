@@ -33,9 +33,9 @@ Die methodologischen Normen, die bei den künftigen Arbeiten der Kommission anzu
 Unter den Themen, die sich die Kommission zum Studium vorgenommen hat, wurden einstweilen vier ausgewählt:
 
 1\. Die Einheit des Glaubens  
-2. Das Priestertum  
-3. Theologie der Hoffnung; christlicher Glaube und Zukunft der Menschheit  
-4. Kriterien für die christliche moralische Erkenntnis.
+2\. Das Priestertum  
+3\. Theologie der Hoffnung; christlicher Glaube und Zukunft der Menschheit  
+4\. Kriterien für die christliche moralische Erkenntnis.
 
 Für das Studium dieser vier Themen wurden vier Unterkommissionen gebildet. Es ist Sache der Unterkommissionen, ihr jeweiliges Thema konkreter festzulegen.
 

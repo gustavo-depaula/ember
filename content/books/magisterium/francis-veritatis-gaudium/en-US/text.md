@@ -1055,14 +1055,14 @@ His Holiness Pope FRANCIS has approved and ordered to be published each and ever
 Taking into account what is contained in the Apostolic Constitution and in the attached *Norms of Application* – and leaving to their own internal regulations what is of a particular or changeable nature – the Statutes of a University or Faculty must mainly deal with the following points:
 
 1\. The name, nature and purpose of the University or Faculty (with a brief history in the foreword).  
-2. The governance: the Chancellor; the personal and collegial academic authorities and what their exact functions are; how the personal authorities are chosen and how long their term of office is; how the collegial authorities i.e. the members of the Councils are chosen and how long their term is.  
-3. The teachers: what the minimum number of teachers is in each Faculty; into which ranks both the permanent and non-permanent are divided; what requisites they must have; how they are hired, appointed, promoted, and how they lose office (describing reasons needed and procedures); their duties and rights.  
-4. The students: requisites for enrolment; reasons and procedures for their suspension; their duties and rights.  
-5. Officials and administrative and service personnel: their duties and rights.  
-6. Academic degrees: what degrees are given in each Faculty and under what conditions; other qualifications granted.  
-7. Didactic and information facilities: the library, and how to provide for its maintenance and growth; other forms of didactic assistance and the scientific laboratories, if required.  
-8. Financial administration: the financial endowment of the University or Faculty and its administration; norms for paying the leadership, teachers, administrative personnel; student fees; economic assistance for the students.  
-9. Relationships with other Faculties and Institutes, etc.
+2\. The governance: the Chancellor; the personal and collegial academic authorities and what their exact functions are; how the personal authorities are chosen and how long their term of office is; how the collegial authorities i.e. the members of the Councils are chosen and how long their term is.  
+3\. The teachers: what the minimum number of teachers is in each Faculty; into which ranks both the permanent and non-permanent are divided; what requisites they must have; how they are hired, appointed, promoted, and how they lose office (describing reasons needed and procedures); their duties and rights.  
+4\. The students: requisites for enrolment; reasons and procedures for their suspension; their duties and rights.  
+5\. Officials and administrative and service personnel: their duties and rights.  
+6\. Academic degrees: what degrees are given in each Faculty and under what conditions; other qualifications granted.  
+7\. Didactic and information facilities: the library, and how to provide for its maintenance and growth; other forms of didactic assistance and the scientific laboratories, if required.  
+8\. Financial administration: the financial endowment of the University or Faculty and its administration; norms for paying the leadership, teachers, administrative personnel; student fees; economic assistance for the students.  
+9\. Relationships with other Faculties and Institutes, etc.
 
 **Plan of Studies**
 

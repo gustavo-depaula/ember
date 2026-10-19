@@ -13,8 +13,9 @@ Muitos protestantes combatem os Dogmas da Igreja católica, entretanto não perc
 
 Para que o ensinamento divino contido nas Sagradas Escrituras seja um dogma são necessárias duas condições:
 
-1.  O sentido deve estar suficientemente manifestado.
-2.  Esta doutrina deve ser proposta pela Igreja como revelada.
+1\. O sentido deve estar suficientemente manifestado.
+
+2\. Esta doutrina deve ser proposta pela Igreja como revelada.
 
 Quando o texto das Escrituras estiver definido pela Igreja como contendo um dogma revelado, com sentido preciso e determinado, é um dever estrito para os católicos aceitá-lo.
 

@@ -10,63 +10,63 @@ a püspökökhöz, papokhoz és a hívekhez
 TARTALOMJEGYZÉK
 
 [BEVEZETÉS](#BEVEZET%C3%89S_)  
-1. [Ennek az okmánynak eredete és jelentősége](#ENNEK_AZ_OKM%C3%81NYNAK_EREDETE_%C3%89S_JELENT%C5%90S%C3%89GE)  
-2. [Egy széthulló világ](#EGY_SZ%C3%89THULLOTT_VIL%C3%81G)  
-3. [A kiengesztelődés vágya](#A_KIENGESZTEL%C5%90D%C3%89S_V%C3%81GYA)  
-4. [A szinódus nézőpontja](#A_SZIN%C3%93DUS_N%C3%89Z%C5%90PONTJA)  
+1\. [Ennek az okmánynak eredete és jelentősége](#ENNEK_AZ_OKM%C3%81NYNAK_EREDETE_%C3%89S_JELENT%C5%90S%C3%89GE)  
+2\. [Egy széthulló világ](#EGY_SZ%C3%89THULLOTT_VIL%C3%81G)  
+3\. [A kiengesztelődés vágya](#A_KIENGESZTEL%C5%90D%C3%89S_V%C3%81GYA)  
+4\. [A szinódus nézőpontja](#A_SZIN%C3%93DUS_N%C3%89Z%C5%90PONTJA)  
 
 ELSŐ RÉSZ: KIENGESZTELŐDÉS ÉS BŰNBÁNAT  
 Az Egyház feladata és kötelezettsége  
 
 *Első fejezet: A tékozló fiú*  
-5. [A kiengesztelődés egy példája.](#A_kiengesztel%C5%91d%C3%A9s_egy_p%C3%A9ld%C3%A1ja)  
-6. [A testvérről, aki elveszett](#A_TESTV%C3%89RR%C5%90L,_AKI_ELVESZETT)  
+5\. [A kiengesztelődés egy példája.](#A_kiengesztel%C5%91d%C3%A9s_egy_p%C3%A9ld%C3%A1ja)  
+6\. [A testvérről, aki elveszett](#A_TESTV%C3%89RR%C5%90L,_AKI_ELVESZETT)  
 ...a testvérnek, ki otthon maradt.  
 
 *Második fejezet:* A kiengesztelődés forrásaihoz  
-7. [A kiengesztelődést adó Krisztus fényében](#A_KIENGESZTEL%C5%90D%C3%89ST_AD%C3%93_KRISZTUS_F%C3%89NY%C3%89BEN)  
-8. [Kiengesztelődés az Egyház által](#KIENGESZTEL%C5%90D%C3%89S_AZ_EGYH%C3%81Z_%C3%81LTAL)  
-9. [A kiengesztelődött Egyház](#_A_KIENGESZTEL%C5%90D%C3%96TT_EGYH%C3%81Z)  
+7\. [A kiengesztelődést adó Krisztus fényében](#A_KIENGESZTEL%C5%90D%C3%89ST_AD%C3%93_KRISZTUS_F%C3%89NY%C3%89BEN)  
+8\. [Kiengesztelődés az Egyház által](#KIENGESZTEL%C5%90D%C3%89S_AZ_EGYH%C3%81Z_%C3%81LTAL)  
+9\. [A kiengesztelődött Egyház](#_A_KIENGESZTEL%C5%90D%C3%96TT_EGYH%C3%81Z)  
 
 *Harmadik fejezet*: Isten kezdeményezése és az egyház szolgálata  
-10. [A kiengesztelődés Istennél kezdődik](#A_KIENGESZTEL%C5%90D%C3%89S_ISTENN%C3%89L_KEZD%C5%90DIK)  
-11. [Az Egyház a kiengesztelődés szentsége](#AZ_EGYH%C3%81Z_A_KIENGESZTEL%C5%90D%C3%89S_SZENTS%C3%89GE)  
-12. [A kiengesztelődés más útjai](#A_KIENGESZTEL%C5%90D%C3%89S_M%C3%81S_%C3%9ATJAI)  
+10\. [A kiengesztelődés Istennél kezdődik](#A_KIENGESZTEL%C5%90D%C3%89S_ISTENN%C3%89L_KEZD%C5%90DIK)  
+11\. [Az Egyház a kiengesztelődés szentsége](#AZ_EGYH%C3%81Z_A_KIENGESZTEL%C5%90D%C3%89S_SZENTS%C3%89GE)  
+12\. [A kiengesztelődés más útjai](#A_KIENGESZTEL%C5%90D%C3%89S_M%C3%81S_%C3%9ATJAI)  
 
 MÁSODIK RÉSZ: A SZERETET ERŐSEBB A BŰNNÉL  
-13. [Az ember drámája](#AZ_EMBER_DR%C3%81M%C3%81JA)  
+13\. [Az ember drámája](#AZ_EMBER_DR%C3%81M%C3%81JA)  
 *Első fejezet*: A bűn misztériuma  
-14. [Istennel szembeni engedetlenség](#ISTENNEL_SZEMBENI_ENGEDETLENS%C3%89G)  
-15. [Megosztottság a testvérek között](#MEGOSZTOTTS%C3%81G_A_TESTV%C3%89REK_K%C3%96Z%C3%96TT)  
-16. [Személyes bűn és közösségi bűn](#SZEM%C3%89LYES_B%C5%B0N_%C3%89S_K%C3%96Z%C3%96SS%C3%89GI_B%C5%B0N)  
-17. [Halálos bűn – bocsánatos bűn](#HAL%C3%81LOS_B%C5%B0N_%E2%80%93_BOCS%C3%81NATOS_B%C5%B0N)  
-18. [A bűn iránti érzék elvesztése](#A_B%C5%B0N_IR%C3%81NTI_%C3%89RZ%C3%89K_ELVESZT%C3%89SE)  
+14\. [Istennel szembeni engedetlenség](#ISTENNEL_SZEMBENI_ENGEDETLENS%C3%89G)  
+15\. [Megosztottság a testvérek között](#MEGOSZTOTTS%C3%81G_A_TESTV%C3%89REK_K%C3%96Z%C3%96TT)  
+16\. [Személyes bűn és közösségi bűn](#SZEM%C3%89LYES_B%C5%B0N_%C3%89S_K%C3%96Z%C3%96SS%C3%89GI_B%C5%B0N)  
+17\. [Halálos bűn – bocsánatos bűn](#HAL%C3%81LOS_B%C5%B0N_%E2%80%93_BOCS%C3%81NATOS_B%C5%B0N)  
+18\. [A bűn iránti érzék elvesztése](#A_B%C5%B0N_IR%C3%81NTI_%C3%89RZ%C3%89K_ELVESZT%C3%89SE)  
 
 *Második fejezet*: A hit titka  
-19. [A hit](#A_HIT)  
-20. [A sacramentum pietatis maga Krisztus](#A_SACRAMENTUM_PIETATIS_MAGA_KRISZTUS)  
-21. [A keresztény ember törekvése](#_A_KERESZT%C3%89NY_EMBER_T%C3%96REKV%C3%89SE)  
-22. [Úton a kiengesztelődött élet felé](#%C3%9ATON_A_KIENGESZTEL%C5%90D%C3%96TT_%C3%89LET_FEL%C3%89)  
+19\. [A hit](#A_HIT)  
+20\. [A sacramentum pietatis maga Krisztus](#A_SACRAMENTUM_PIETATIS_MAGA_KRISZTUS)  
+21\. [A keresztény ember törekvése](#_A_KERESZT%C3%89NY_EMBER_T%C3%96REKV%C3%89SE)  
+22\. [Úton a kiengesztelődött élet felé](#%C3%9ATON_A_KIENGESZTEL%C5%90D%C3%96TT_%C3%89LET_FEL%C3%89)  
 
 HARMADIK RÉSZ: A BŰNBÁNAT ÉS KIENGESZTELŐDÉS PASZTORÁCIÓJA  
-23. [A bűnbánat és a kiengesztelődés szolgálata](#A_B%C5%B0NB%C3%81NAT_%C3%89S_A_KIENGESZTEL%C5%90D%C3%89S_SZOLG%C3%81LATA)  
+23\. [A bűnbánat és a kiengesztelődés szolgálata](#A_B%C5%B0NB%C3%81NAT_%C3%89S_A_KIENGESZTEL%C5%90D%C3%89S_SZOLG%C3%81LATA)  
 
 *Első fejezet*: A bűnbánat és kiengesztelődés eszközei és útjai  
-24. [A tanítás és a szentségek](#A_TAN%C3%8DT%C3%81S_%C3%89S_A_SZENTS%C3%89GEK)  
-25. [A dialógus](#A_DIAL%C3%93GUS)  
-26. [A katekézis](#A_KATEK%C3%89ZIS)  
-27. [A szentségek](#A_SZENTS%C3%89GEK)  
+24\. [A tanítás és a szentségek](#A_TAN%C3%8DT%C3%81S_%C3%89S_A_SZENTS%C3%89GEK)  
+25\. [A dialógus](#A_DIAL%C3%93GUS)  
+26\. [A katekézis](#A_KATEK%C3%89ZIS)  
+27\. [A szentségek](#A_SZENTS%C3%89GEK)  
 
 *Második fejezet*: A BŰNBÁNAT ÉS A KIENGESZTELŐDÉS SZENTSÉGE  
-28. [A bűnbánat szentsége](#A_B%C5%B0NB%C3%81NAT_SZENTS%C3%89GE)  
-29. „ [Akinek megbocsátjátok bűneit](#AKINEK_MEGBOCS%C3%81TJ%C3%81TOK_B%C5%B0NEIT)”  
-30. [A megbocsátás szentsége](#A_MEGBOCS%C3%81T%C3%81S_SZENTS%C3%89GE)  
-31. [Néhány alapvető megfontolás](#N%C3%89H%C3%81NY_ALAPVET%C5%90_MEGFONTOL%C3%81S)  
-32. [A bűnbánat szentségének formája](#A_B%C5%B0NB%C3%81NAT_SZENTS%C3%89G%C3%89NEK_FORM%C3%81JA)  
-33. [A bűnbánat szentsége általános feloldozással](#A_B%C5%B0NB%C3%81NAT_SZENTS%C3%89GE_%C3%81LTAL%C3%81NOS_FELOLDOZ%C3%81SSAL)  
-34. [Néhány nehéz eset](#N%C3%89H%C3%81NY_NEH%C3%89Z_ESET)  
+28\. [A bűnbánat szentsége](#A_B%C5%B0NB%C3%81NAT_SZENTS%C3%89GE)  
+29\. „ [Akinek megbocsátjátok bűneit](#AKINEK_MEGBOCS%C3%81TJ%C3%81TOK_B%C5%B0NEIT)”  
+30\. [A megbocsátás szentsége](#A_MEGBOCS%C3%81T%C3%81S_SZENTS%C3%89GE)  
+31\. [Néhány alapvető megfontolás](#N%C3%89H%C3%81NY_ALAPVET%C5%90_MEGFONTOL%C3%81S)  
+32\. [A bűnbánat szentségének formája](#A_B%C5%B0NB%C3%81NAT_SZENTS%C3%89G%C3%89NEK_FORM%C3%81JA)  
+33\. [A bűnbánat szentsége általános feloldozással](#A_B%C5%B0NB%C3%81NAT_SZENTS%C3%89GE_%C3%81LTAL%C3%81NOS_FELOLDOZ%C3%81SSAL)  
+34\. [Néhány nehéz eset](#N%C3%89H%C3%81NY_NEH%C3%89Z_ESET)  
 
-35. [BEFEJEZÉS](#BEFEJEZ%C3%89S)  
+35\. [BEFEJEZÉS](#BEFEJEZ%C3%89S)  
 
 ------------------------------------------------------------------------
 
@@ -466,8 +466,8 @@ Felesleges ismételnem, amit a kiengesztelődés szolgálatának[\[119\]](#J119 
 Amikor a szinódus atyái mint a püspöki testület képviselői és a rájuk bízott hívek vezetői erről a lelkipásztori kötelességről tárgyaltak, a leggyakorlatibb és legkonkrétabb elemeket vették számba. Örömmel csatlakozom hozzájuk; osztozom gondjaikban és reményeikben, bátorítom őket terveikben és kezdeményezéseikben. Találják meg ebben az Apostoli Buzdításban elgondolásaikat, amelyeket a szinóduson előterjesztettek. Hasznos tanításukat a továbbiakban az egész Egyház számára hozzáférhetővé akarom tenni.
 
 Ezért *a bűnbánat és kiengesztelődés pasztorációjának* lényegét szeretném kifejteni, amennyiben különösen foglalkoznék a szinódussal együtt  
-1. azokkal az utakkal és eszközökkel, amelyekkel az Egyház előmozdítja a bűnbánatot és kiengesztelődést,  
-2. a bűnbánat és kiengesztelődés sajátos szentségével.
+1\. azokkal az utakkal és eszközökkel, amelyekkel az Egyház előmozdítja a bűnbánatot és kiengesztelődést,  
+2\. a bűnbánat és kiengesztelődés sajátos szentségével.
 
 ELSŐ FEJEZET  
 A BŰNBÁNAT ÉS KIENGESZTELŐDÉS ESZKÖZEI ÉS ÚTJAI
@@ -847,11 +847,11 @@ Bologna 1973 671, 680 old.; DS 1573, 1575, 1577.
 [\[142\]](#JB142 "J142") Gaudium et spes, 8, 16, 19, 26, 41, 48.  
 [\[143\]](#JB143 "J143") Dignitatis humanae, 2. 3. 4.  
 [\[144\]](#JB144 "J144") Vö. többek között az általános kihallgatásokon elhang­zott beszédekből:  
-1973. márc. 28.: Insegnamenti, XI, 1973, 294 és köv. 1973. aug. 8.: uo. 772 és köv.  
-1973. nov. 7.: uo. 1054 és köv.  
-1974. márc. 13.: Insegnamenti, XII, 1974, 230 és köv. 1974. márc. 8.: uo. 402 és köv.  
-1975. febr. 12.: Insegnamenti, XIII, 1975, 154 és köv. 1975. ápr. 9.: uo. 209 és köv.  
-1977. júl. 13.: Insegnamenti, XV, 1977, 710 és köv.  
+1973\. márc. 28.: Insegnamenti, XI, 1973, 294 és köv. 1973. aug. 8.: uo. 772 és köv.  
+1973\. nov. 7.: uo. 1054 és köv.  
+1974\. márc. 13.: Insegnamenti, XII, 1974, 230 és köv. 1974. márc. 8.: uo. 402 és köv.  
+1975\. febr. 12.: Insegnamenti, XIII, 1975, 154 és köv. 1975. ápr. 9.: uo. 209 és köv.  
+1977\. júl. 13.: Insegnamenti, XV, 1977, 710 és köv.  
 [\[145\]](#JB145 "J145") Vö. II. János Pál, Úrangyala, 1982. márc. 17. Insegna-menti V. 1. 1982, 860.  
 [\[146\]](#JB146 "J146") Vö. II. János Pál beszéde az 1983. aug. 17-i általános kihallgatáson, 1-3, Insegnamenti, VI. 2, 1983, 256.  
 [\[147\]](#JB147 "J147") Zsid 4,15.  
@@ -896,8 +896,8 @@ Bologna 1973 671, 680 old.; DS 1573, 1575, 1577.
 [\[186\]](#JB186 "J186") Ordo Paenitantiae, 6a  
 [\[187\]](#JB187 "J187") Vö. Zsolt 51,14  
 [\[188\]](#JB188 "J188") A bánat eme alapvető vonásairól a következő általános kihallgatásokon szóltam:  
-1982. máj. 19-én, Insegnamenti, V, 2 (1982) 1758 és köv. 1979. febr. 28-án, Insegnamenti, II (1979) 475-478;  
-1984. márc. 21-én, Insegnamenti, VII, 1 (1984), 720-722. Ezeken kívül szóltam az egyházjogi előírásokról a bűn-bánat szentsége kiszolgáltatásának helyéről és a gyóntatószékről (can. 964. § 2. és 3.)  
+1982\. máj. 19-én, Insegnamenti, V, 2 (1982) 1758 és köv. 1979. febr. 28-án, Insegnamenti, II (1979) 475-478;  
+1984\. márc. 21-én, Insegnamenti, VII, 1 (1984), 720-722. Ezeken kívül szóltam az egyházjogi előírásokról a bűn-bánat szentsége kiszolgáltatásának helyéről és a gyóntatószékről (can. 964. § 2. és 3.)  
 [\[189\]](#JB189 "J189") Röviden foglalkoztam ezzel a témával az 1984. márc. 7-én tartott általános kihallgatáson: Insegnamenti, VII, i (1984) 631-633  
 [\[190\]](#JB190 "J190") Vö. Ter 4; 7,15.  
 [\[191\]](#JB191 "J191") Vö. 2Sám 12.  

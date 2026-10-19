@@ -506,75 +506,75 @@ C'est là ce que désirent les générations actuelles qui, avec l'investigation
 ------------------------------------------------------------------------
 
 1\. Ps. 8, 1.  
-2. Ps. 103, 24.  
-3. Cf. Gen., 1, 26.  
-4. Ps. 8, 5-6.  
-5. Rom., 2, 15.  
-6. Cf. Ps. 18, 8-11.  
-7. Cf. Pie XII, Radio message de. Noël, 1942, A. A. S., XXXV, 1943, p. 9-24, et Jean XXIII, Sermon du 4 janvier 1963, A. A. S., LV, 1963, p. 89-91.  
-8. Cf. Pie XI, encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 78, et Pie XII, Radio message de Pentecôte, 194I, A. A. S., XXXIII, 1941, p. 195-205.  
-9. Cf. Pie XII, Radio message de Noël, 1942, A. A. S. XXXV, 1943, p. 9-24.  
-10. Divinae Institutiones, lib. IV, c. 28, 2 ; P. L., VI, 535.  
-11. Encycl. Libertas praestantissimum, Acta Leonis XIII, VIII, 1888, p. 237-238.  
-12. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 9-24.  
-13. Cf. Pie XI, encycl. Casti Connubii, A. A. S., XXII, 1930, p. 539-592, et Pie XII, Radio message de Noël, 1942 A. A. S., XXXV, 1943, p. 9-24.  
-14. Pie XII, Radio message de Pentecôte, 1941, A. A. S., XXXIII, 1941, p. 201.  
-15. Cf. Léon XIII, encycl. Rerum Novarum., Acta Leonis XIII, XI, 1891, p. 128.129.  
-16. Cf. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 422.  
-17. Cf. Radio message de Pentecôte, 1941, A. A. S., XXXIII, 1941, p. 201.  
-18. Encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 428.  
-19. CL ibid., p. 430.  
-20. Cf. Léon XIII, encycl. Rerum Novarum, Acta Leonis XIII, XI, 1891, p. 134-142 ; Pie XI, encycl. Quadragesimo Anno, A. A. S., XXIII, 1931, p. 199-200, et Pie XII, encycl. Sertum laetitiae, A. A. S., XXXI, 1939, p. 635-644.  
-21. Cf. A. A. S., LIII, 1961, p. 430.  
-22. Cf. Pie XII, Radio message de Noël, 1952, A. A. S., XLV, 1953, p. 33-46.  
-23. Cf. Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. 12.  
-24. Cf. Radio message de Noël, 1952, A. A. S., XXXV, 1943, p. 21.  
-25. Eph., 4, 25.  
-26. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 14.  
-27. Summa Theol., Ia-IIae, q. 19, a. 4 ; cf. a. 9.  
-28. Rom., 13, 1-6.  
-29. Epître aux Romains, c.13, v. 1-2, hom. XXIII, P. G. LX, 615.  
-30. Léon XIII, encycl. Immortale Dei Acta Leonis XIII, V, 1885, p. 120.  
-31. Cf. Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p.15.  
-32. Cf. Léon XIII, encycl. Diuturnum illud, Acta Leonis XIII, II, 188I, p. 274.  
-33. Ci. ibid, p. 278, et Léon XIII, encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 130.  
-34. Act 5, 29.  
-35. Summa Theol. Ia-IIae, q. 93, a. 3, ad 2m ; cf. Pie XII, Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. 5-23.  
-36. Cf. Léon XIII, encycl. Diuturnum illud, Acta Leonis XIII, II, 1881, p. 271-272, et Pie XII, Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. 5-23.  
-37. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p.13, et Léon XIII, encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 120.  
-38. Cf. Pie XII, encycl. Summi Pontificatus, A. A. S., XXXI, 1939, p. 412-453.  
-39. Cf. Pie XI, encycl. Mit Brennender Sorge, A. A. S., XXIX, 1937, p. 159, et encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 65-106.  
-40. Encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 121.  
-41. Cf. Léon XIII, encycl. Rerum Novarum, Acta Leonis XIII, XI, 1891, p. 133-134.  
-42. Cf. Pie XII, encycl. Summi Pontificatus, A. A. S., XXXI, 1939, p. 433.  
-43. A. A. S., LIII, 1961, p. 19.  
-44. Cf. Pie XI, encycl. Quadragesimo Anno, A. A. S., XXIII, 1931, p. 215.  
-45. Cf. Pie XII, Radio message de la Pentecôte, 1er juin 1941, A. A. S., XXXIII, 1941, p. 200.  
-46. Cf. Pie XI, encycl. Mit Brennender Sorge, A. A. S., XXIX, 1937, p. 159, et encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 79, et Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 9-24.  
-47. Cf. Pie XI, encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 81, et Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 9-24.  
-48. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, p. 415.  
-49. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 21.  
-50. Cf. Pie XII, Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. l5-16.  
-51. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 12.  
-52. Cf. Léon Xiii, lettre apost. Annum ingressi, Acta Leonis XIII, XXII, 1902-1903, p. 52-80.  
-53. Sagesse, 6, 2-4.  
-54. Cf. Pie XII, Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 16.  
-55. Cf. Pie XII, Radio message de Noël, 1940, A. A. S., XXXIII, 1941, p. 5-14.  
-56. De civitate Dei, lib. IV, c. 4 ; P. L., XLI, 115 ; cf. Pie XII, Radio message de Noël, A. A. S., XXXII, 1940, p. 5-13.  
-57. Cf. Pie XII, Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 10-21.  
-58. Cf. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 439.  
-59. Cf. Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 17, et Benoît XV, Exhortation aux gouvernants des peuples belligérants, 1er ? août 1917, A. A. S., IX, 1917, p. 418.  
-60. Cf. Radio message du 24 août 1939, A. A. S., XXXI, 1939, p. 334.  
-61. A. A. S., L111, 1961, p. 440-441.  
-62. Cf. Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 16-17.  
-63. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 443.  
-64. Cf. Pie XII, Allocution aux jeunes de l'Action catholique des diocèses d'Italie, réunis à Rome, 12 septembre 1948, A. A. S., XL, p. 412.  
-65. Cf. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 454.  
-66. Ibid., p. 456.  
-67. Ibid., p. 456 ; cf. Léon XIII, encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 128 ; Pie XI, encycl. Ubi Arcano, A. A. S., XIV, 1922, p. 698, et Pie XII, Allocution aux délégués de l'Union mondiale des organisations féminines catholiques, réunies en Congrès à Rome, 11 septembre 1947, A. A. S., XXXIX, 1947, p. 486.  
-68. Allocution aux ouvriers des diocèses d'Italie, Pentecôte de 1943, A. A. S., XXXV, 1943, p. 175.  
-69. Miscellanea Augustiniana. Saint Augustin, Sermones post Maurinos reperti, Rome, 1930, p. 633.  
-70. Cf. Is., 9, 6.  
-71. Eph. 2, 14-17.  
-72. Répons de Matines, vendredi après Pâques.  
-73. Jean, 14, 27.
+2\. Ps. 103, 24.  
+3\. Cf. Gen., 1, 26.  
+4\. Ps. 8, 5-6.  
+5\. Rom., 2, 15.  
+6\. Cf. Ps. 18, 8-11.  
+7\. Cf. Pie XII, Radio message de. Noël, 1942, A. A. S., XXXV, 1943, p. 9-24, et Jean XXIII, Sermon du 4 janvier 1963, A. A. S., LV, 1963, p. 89-91.  
+8\. Cf. Pie XI, encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 78, et Pie XII, Radio message de Pentecôte, 194I, A. A. S., XXXIII, 1941, p. 195-205.  
+9\. Cf. Pie XII, Radio message de Noël, 1942, A. A. S. XXXV, 1943, p. 9-24.  
+10\. Divinae Institutiones, lib. IV, c. 28, 2 ; P. L., VI, 535.  
+11\. Encycl. Libertas praestantissimum, Acta Leonis XIII, VIII, 1888, p. 237-238.  
+12\. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 9-24.  
+13\. Cf. Pie XI, encycl. Casti Connubii, A. A. S., XXII, 1930, p. 539-592, et Pie XII, Radio message de Noël, 1942 A. A. S., XXXV, 1943, p. 9-24.  
+14\. Pie XII, Radio message de Pentecôte, 1941, A. A. S., XXXIII, 1941, p. 201.  
+15\. Cf. Léon XIII, encycl. Rerum Novarum., Acta Leonis XIII, XI, 1891, p. 128.129.  
+16\. Cf. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 422.  
+17\. Cf. Radio message de Pentecôte, 1941, A. A. S., XXXIII, 1941, p. 201.  
+18\. Encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 428.  
+19\. CL ibid., p. 430.  
+20\. Cf. Léon XIII, encycl. Rerum Novarum, Acta Leonis XIII, XI, 1891, p. 134-142 ; Pie XI, encycl. Quadragesimo Anno, A. A. S., XXIII, 1931, p. 199-200, et Pie XII, encycl. Sertum laetitiae, A. A. S., XXXI, 1939, p. 635-644.  
+21\. Cf. A. A. S., LIII, 1961, p. 430.  
+22\. Cf. Pie XII, Radio message de Noël, 1952, A. A. S., XLV, 1953, p. 33-46.  
+23\. Cf. Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. 12.  
+24\. Cf. Radio message de Noël, 1952, A. A. S., XXXV, 1943, p. 21.  
+25\. Eph., 4, 25.  
+26\. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 14.  
+27\. Summa Theol., Ia-IIae, q. 19, a. 4 ; cf. a. 9.  
+28\. Rom., 13, 1-6.  
+29\. Epître aux Romains, c.13, v. 1-2, hom. XXIII, P. G. LX, 615.  
+30\. Léon XIII, encycl. Immortale Dei Acta Leonis XIII, V, 1885, p. 120.  
+31\. Cf. Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p.15.  
+32\. Cf. Léon XIII, encycl. Diuturnum illud, Acta Leonis XIII, II, 188I, p. 274.  
+33\. Ci. ibid, p. 278, et Léon XIII, encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 130.  
+34\. Act 5, 29.  
+35\. Summa Theol. Ia-IIae, q. 93, a. 3, ad 2m ; cf. Pie XII, Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. 5-23.  
+36\. Cf. Léon XIII, encycl. Diuturnum illud, Acta Leonis XIII, II, 1881, p. 271-272, et Pie XII, Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. 5-23.  
+37\. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p.13, et Léon XIII, encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 120.  
+38\. Cf. Pie XII, encycl. Summi Pontificatus, A. A. S., XXXI, 1939, p. 412-453.  
+39\. Cf. Pie XI, encycl. Mit Brennender Sorge, A. A. S., XXIX, 1937, p. 159, et encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 65-106.  
+40\. Encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 121.  
+41\. Cf. Léon XIII, encycl. Rerum Novarum, Acta Leonis XIII, XI, 1891, p. 133-134.  
+42\. Cf. Pie XII, encycl. Summi Pontificatus, A. A. S., XXXI, 1939, p. 433.  
+43\. A. A. S., LIII, 1961, p. 19.  
+44\. Cf. Pie XI, encycl. Quadragesimo Anno, A. A. S., XXIII, 1931, p. 215.  
+45\. Cf. Pie XII, Radio message de la Pentecôte, 1er juin 1941, A. A. S., XXXIII, 1941, p. 200.  
+46\. Cf. Pie XI, encycl. Mit Brennender Sorge, A. A. S., XXIX, 1937, p. 159, et encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 79, et Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 9-24.  
+47\. Cf. Pie XI, encycl. Divini Redemptoris, A. A. S., XXIX, 1937, p. 81, et Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 9-24.  
+48\. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, p. 415.  
+49\. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 21.  
+50\. Cf. Pie XII, Radio message de Noël, 1944, A. A. S., XXXVII, 1945, p. l5-16.  
+51\. Cf. Pie XII, Radio message de Noël, 1942, A. A. S., XXXV, 1943, p. 12.  
+52\. Cf. Léon Xiii, lettre apost. Annum ingressi, Acta Leonis XIII, XXII, 1902-1903, p. 52-80.  
+53\. Sagesse, 6, 2-4.  
+54\. Cf. Pie XII, Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 16.  
+55\. Cf. Pie XII, Radio message de Noël, 1940, A. A. S., XXXIII, 1941, p. 5-14.  
+56\. De civitate Dei, lib. IV, c. 4 ; P. L., XLI, 115 ; cf. Pie XII, Radio message de Noël, A. A. S., XXXII, 1940, p. 5-13.  
+57\. Cf. Pie XII, Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 10-21.  
+58\. Cf. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 439.  
+59\. Cf. Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 17, et Benoît XV, Exhortation aux gouvernants des peuples belligérants, 1er ? août 1917, A. A. S., IX, 1917, p. 418.  
+60\. Cf. Radio message du 24 août 1939, A. A. S., XXXI, 1939, p. 334.  
+61\. A. A. S., L111, 1961, p. 440-441.  
+62\. Cf. Radio message de Noël, 1941, A. A. S., XXXIV, 1942, p. 16-17.  
+63\. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 443.  
+64\. Cf. Pie XII, Allocution aux jeunes de l'Action catholique des diocèses d'Italie, réunis à Rome, 12 septembre 1948, A. A. S., XL, p. 412.  
+65\. Cf. Jean XXIII, encycl. Mater et Magistra, A. A. S., LIII, 1961, p. 454.  
+66\. Ibid., p. 456.  
+67\. Ibid., p. 456 ; cf. Léon XIII, encycl. Immortale Dei, Acta Leonis XIII, V, 1885, p. 128 ; Pie XI, encycl. Ubi Arcano, A. A. S., XIV, 1922, p. 698, et Pie XII, Allocution aux délégués de l'Union mondiale des organisations féminines catholiques, réunies en Congrès à Rome, 11 septembre 1947, A. A. S., XXXIX, 1947, p. 486.  
+68\. Allocution aux ouvriers des diocèses d'Italie, Pentecôte de 1943, A. A. S., XXXV, 1943, p. 175.  
+69\. Miscellanea Augustiniana. Saint Augustin, Sermones post Maurinos reperti, Rome, 1930, p. 633.  
+70\. Cf. Is., 9, 6.  
+71\. Eph. 2, 14-17.  
+72\. Répons de Matines, vendredi après Pâques.  
+73\. Jean, 14, 27.

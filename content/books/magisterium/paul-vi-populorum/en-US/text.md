@@ -395,7 +395,7 @@ It is the person who is motivated by genuine love, more than anyone else, who pi
 
 *Development, the New Name for Peace*
 
-76. Extreme disparity between nations in economic, social and educational levels provokes jealousy and discord, often putting peace in jeopardy. As We told the Council Fathers on Our return from the United Nations: "We have to devote our attention to the situation of those nations still striving to advance. What We mean, to put it in clearer words, is that our charity toward the poor, of whom there are countless numbers in the world, has to become more solicitous, more effective, more generous." (64)
+76\. Extreme disparity between nations in economic, social and educational levels provokes jealousy and discord, often putting peace in jeopardy. As We told the Council Fathers on Our return from the United Nations: "We have to devote our attention to the situation of those nations still striving to advance. What We mean, to put it in clearer words, is that our charity toward the poor, of whom there are countless numbers in the world, has to become more solicitous, more effective, more generous." (64)
 
 When we fight poverty and oppose the unfair conditions of the present, we are not just promoting human well-being; we are also furthering man's spiritual and moral development, and hence we are benefiting the whole human race. For peace is not simply the absence of warfare, based on a precarious balance of power; it is fashioned by efforts directed day after day toward the establishment of the ordered universe willed by God, with a more perfect form of justice among men. (65)
 

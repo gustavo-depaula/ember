@@ -2,77 +2,147 @@
 
 [C O N S T I T U T I O N S ](#constitutions)
 
-1.  [Confession of Faith](#1)
-2.  [On the error of abbot Joachim](#2)
-3.  [On Heretics](#3)
-4.  [On the pride of the Greeks towards the Latins](#4)
-5.  [The dignity of the patriarchal sees](#5)
-6.  [On yearly provincial councils](#6)
-7.  [The correction of offences and the reform of morals](#7)
-8.  [On inquests](#8)
-9.  [On different rites within the same faith](#9)
-10. [On appointing preachers](#10)
-11. [On schoolmasters for the poor](#11)
-12. [On general chapters of monks](#12)
-13. [A prohibition against new religious orders](#13)
-14. [Clerical incontinence](#14)
-15. [Clerical gluttony and drunkeness](#15)
-16. [Decorum in the dress and behaviour of clerics](#16)
-17. [Dissolute prelates](#17)
-18. [Clerics to dissociate from shedding-blood](#18)
-19. [That profane objects may not be stored in churches](#19)
-20. [Chrism and the Eucharist to be kept under lock and key](#20)
-21. [On yearly confession to one’s own priest, yearly communion, the confessional seal](#21)
-22. [Physicians of the body to advise patients to call physicians of the soul](#22)
-23. [Churches are to be without a prelate for no more than 3 months](#23)
-24. [Democratic election of pastors](#24)
-25. [Invalid elections](#25)
-26. [Nominees for prelatures to be carefully screened](#26)
-27. [Candidates for the priesthood to be carefully trained and scrutinized](#27)
-28. [Who asks to resign must resign](#28)
-29. [Multiple benefices require papal dispensation](#29)
-30. [Penalties for bestowing ecclesiatical benefices on the unworthy](#30)
-31. [Canons’ sons cannot be canons where their fathers are](#31)
-32. [Parish priests to have adequate incomes](#32)
-33. [Renumeration for visitations to be reasonable](#33)
-34. [Prelates forbidden to procure ecclesiastical services at a profit](#34)
-35. [On appeal procedures](#35)
-36. [On interlocutory sentences](#36)
-37. [On Summons by Apostolic Letter](#37)
-38. [Written records of trials to be kept](#38)
-39. [On knowingly receiving stolen goods](#39)
-40. [True owner is the true possessor even if not possessing the object for a year](#40)
-41. [No one is to knowingly prescribe an object to the wrong party](#41)
-42. [Clerics and laity are not to usurp each others rights](#42)
-43. [Clerics cannot be forced to take oaths of fealty to those from whom they hold no temporalities](#43)
-44. [Only clerics may dispose of church property](#44)
-45. [Penalties for patrons who steal church goods or physically harm their clerics](#45)
-46. [Taxes cannot be levied on the Church, but the Church can volunteer contributions for the common good](#46)
-47. [On unjust excommunication](#47)
-48. [Challenging an ecclesiastical judge](#48)
-49. [Penalties for excommunication out of avarice](#49)
-50. [Prohibition of marriage is now perpetually restricted to the fourth degree](#50)
-51. [Clandestine marriages forbidden](#51)
-52. [On rejecting evidence from hearsay at a matrimonial suit](#52)
-53. [On those who give their fields to others to be cultivated so as to avoid tithes](#53)
-54. [Tithes should be paid before taxes](#54)
-55. [Tithes are to be paid on lands acquired, notwithstanding privileges](#55)
-56. [A parish priest shall not lose a tithe on account of some people making a pact](#56)
-57. [Interpreting the words of privileges](#57)
-58. [On the same in favour of bishops](#58)
-59. [Religious cannot give surety without permission of his abbot and convent](#59)
-60. [Abbots not to encroach on episcopal office](#60)
-61. [Religious may not receive tithes from lay hands](#61)
-62. [Regarding saint’s relics](#62)
-63. [On simony](#63)
-64. [Simony with regards to monks and nuns](#64)
-65. [Simony and extortion](#65)
-66. [Simony and avarice in clerics](#66)
-67. [Jews and excessive Usury](#67)
-68. [Jews appearing in public](#68)
-69. [Jews not to hold public offices](#69)
-70. [Jewish converts may not retain their old rite](#70)
-71. [Crusade to recover the holy Land](#71)
+1\. [Confession of Faith](#1)
+
+2\. [On the error of abbot Joachim](#2)
+
+3\. [On Heretics](#3)
+
+4\. [On the pride of the Greeks towards the Latins](#4)
+
+5\. [The dignity of the patriarchal sees](#5)
+
+6\. [On yearly provincial councils](#6)
+
+7\. [The correction of offences and the reform of morals](#7)
+
+8\. [On inquests](#8)
+
+9\. [On different rites within the same faith](#9)
+
+10\. [On appointing preachers](#10)
+
+11\. [On schoolmasters for the poor](#11)
+
+12\. [On general chapters of monks](#12)
+
+13\. [A prohibition against new religious orders](#13)
+
+14\. [Clerical incontinence](#14)
+
+15\. [Clerical gluttony and drunkeness](#15)
+
+16\. [Decorum in the dress and behaviour of clerics](#16)
+
+17\. [Dissolute prelates](#17)
+
+18\. [Clerics to dissociate from shedding-blood](#18)
+
+19\. [That profane objects may not be stored in churches](#19)
+
+20\. [Chrism and the Eucharist to be kept under lock and key](#20)
+
+21\. [On yearly confession to one’s own priest, yearly communion, the confessional seal](#21)
+
+22\. [Physicians of the body to advise patients to call physicians of the soul](#22)
+
+23\. [Churches are to be without a prelate for no more than 3 months](#23)
+
+24\. [Democratic election of pastors](#24)
+
+25\. [Invalid elections](#25)
+
+26\. [Nominees for prelatures to be carefully screened](#26)
+
+27\. [Candidates for the priesthood to be carefully trained and scrutinized](#27)
+
+28\. [Who asks to resign must resign](#28)
+
+29\. [Multiple benefices require papal dispensation](#29)
+
+30\. [Penalties for bestowing ecclesiatical benefices on the unworthy](#30)
+
+31\. [Canons’ sons cannot be canons where their fathers are](#31)
+
+32\. [Parish priests to have adequate incomes](#32)
+
+33\. [Renumeration for visitations to be reasonable](#33)
+
+34\. [Prelates forbidden to procure ecclesiastical services at a profit](#34)
+
+35\. [On appeal procedures](#35)
+
+36\. [On interlocutory sentences](#36)
+
+37\. [On Summons by Apostolic Letter](#37)
+
+38\. [Written records of trials to be kept](#38)
+
+39\. [On knowingly receiving stolen goods](#39)
+
+40\. [True owner is the true possessor even if not possessing the object for a year](#40)
+
+41\. [No one is to knowingly prescribe an object to the wrong party](#41)
+
+42\. [Clerics and laity are not to usurp each others rights](#42)
+
+43\. [Clerics cannot be forced to take oaths of fealty to those from whom they hold no temporalities](#43)
+
+44\. [Only clerics may dispose of church property](#44)
+
+45\. [Penalties for patrons who steal church goods or physically harm their clerics](#45)
+
+46\. [Taxes cannot be levied on the Church, but the Church can volunteer contributions for the common good](#46)
+
+47\. [On unjust excommunication](#47)
+
+48\. [Challenging an ecclesiastical judge](#48)
+
+49\. [Penalties for excommunication out of avarice](#49)
+
+50\. [Prohibition of marriage is now perpetually restricted to the fourth degree](#50)
+
+51\. [Clandestine marriages forbidden](#51)
+
+52\. [On rejecting evidence from hearsay at a matrimonial suit](#52)
+
+53\. [On those who give their fields to others to be cultivated so as to avoid tithes](#53)
+
+54\. [Tithes should be paid before taxes](#54)
+
+55\. [Tithes are to be paid on lands acquired, notwithstanding privileges](#55)
+
+56\. [A parish priest shall not lose a tithe on account of some people making a pact](#56)
+
+57\. [Interpreting the words of privileges](#57)
+
+58\. [On the same in favour of bishops](#58)
+
+59\. [Religious cannot give surety without permission of his abbot and convent](#59)
+
+60\. [Abbots not to encroach on episcopal office](#60)
+
+61\. [Religious may not receive tithes from lay hands](#61)
+
+62\. [Regarding saint’s relics](#62)
+
+63\. [On simony](#63)
+
+64\. [Simony with regards to monks and nuns](#64)
+
+65\. [Simony and extortion](#65)
+
+66\. [Simony and avarice in clerics](#66)
+
+67\. [Jews and excessive Usury](#67)
+
+68\. [Jews appearing in public](#68)
+
+69\. [Jews not to hold public offices](#69)
+
+70\. [Jewish converts may not retain their old rite](#70)
+
+71\. [Crusade to recover the holy Land](#71)
 
 #### Introduction
 
@@ -469,13 +539,13 @@ In order that privileges which the Roman church has granted to certain religious
 
 [TOP](#cons)
 
-58. **On the same in favour of bishops**
+58\. **On the same in favour of bishops**
 
 We wish to extend to bishops, in favour of the episcopal office, the indult which has already been given to certain religious. We therefore grant that when a country is under a general interdict, the bishops may sometimes celebrate the divine services, behind closed doors and in a lowered voice, without the ringing of bells, after excommunicated and interdicted persons have been excluded, unless this has been expressly forbidden to them. We grant this, however, to those bishops who have not given any cause for the interdict, lest they use guile or fraud of any sort and so turn a good thing into a damaging loss.
 
 [TOP](#cons)
 
-59. **Religious cannot give surety without permission of his abbot and convent**
+59\. **Religious cannot give surety without permission of his abbot and convent**
 
 We wish and order to be extended to all religious what has already been forbidden by the apostolic see to some of them : namely that no religious, without the permission of his abbot and the majority of his chapter, may stand surety for someone or accept a loan from another beyond a sum fixed by the common opinion. Otherwise the convent shall not be held responsible in any way for his actions, unless perchance the matter has clearly redounded to the benefit of his house. Anyone who presumes to act contrary to this statute shall be severely disciplined.
 
@@ -575,11 +645,15 @@ We therefore, trusting in the mercy of almighty God and in the authority of the 
 
 **ENDNOTES**
 
-1.  three persons … nature omitted in Cr.
-2.  as if … perfect omitted in Cr.
-3.  and he … things omitted in A.M.
-4.  We forbid … fowling omitted in Cr M.
-5.  confessions … interlocutions omitted in Cr.
+1\. three persons … nature omitted in Cr.
+
+2\. as if … perfect omitted in Cr.
+
+3\. and he … things omitted in A.M.
+
+4\. We forbid … fowling omitted in Cr M.
+
+5\. confessions … interlocutions omitted in Cr.
 
 - Cr = P.Crabbe, Concilia omnia, tam generalia, quam particularia …, 2 vols. Cologne 1538; 3 vols. ibid 1551
 - M = the Mazarin codex used by P. Labbe and G. Cossart, Sacrosancta concilia ad regiam editionem exacta quae nunc quarta parte prodit auctior studio Philippi Labbei et Gabrielis Cossartii …, 17 vols. Paris 1671-72

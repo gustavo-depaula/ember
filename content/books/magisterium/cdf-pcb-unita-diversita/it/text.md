@@ -176,7 +176,7 @@ In tal modo l'unità della Chiesa, già debitamente strutturata, sarà custodita
 
 I Vangeli sinottici proseguono con il loro kerygma la predicazione di Gesù e, come Paolo, portano il Vangelo in territorio non giudaico.
 
-1. L'annuncio del Regno di Dio occupa un posto centrale nel Vangelo di Marco (Mc 1,15); tuttavia il messaggio del Regno di Dio diventa «Vangelo di Gesù Cristo, Figlio di Dio» (1,1). È il segno di una situazione post-pasquale, in cui si considerano retrospettiva­mente gli eventi centrali della fede cristiana, cioè la crocifissione e la risurrezione di Gesù.
+1\. L'annuncio del Regno di Dio occupa un posto centrale nel Vangelo di Marco (Mc 1,15); tuttavia il messaggio del Regno di Dio diventa «Vangelo di Gesù Cristo, Figlio di Dio» (1,1). È il segno di una situazione post-pasquale, in cui si considerano retrospettiva­mente gli eventi centrali della fede cristiana, cioè la crocifissione e la risurrezione di Gesù.
 
 a\) La confessione di Gesù come Messia fatta da Pietro (8,29) e come Figlio di Dio fatta dal centurione ai piedi della croce (15,39) è divenuta, con la celebrazione della Cena del Signore, il nuovo punto di raccolta in cui il popolo di Dio si unisce. Certo, il termine *ekklêsía* non appare in Marco e neppure in Luca; ma l'esistenza di tale realtà è chiaramente supposta. E difficile precisare i rapporti tra la Chiesa e la Sinagoga, ma la separazione si prepara (cf Mc 7,3-4; 12,9; 13,9). Le proibizioni alimentari non hanno più alcun valore (7,15.19). Gesù porta qualcosa di fondamentalmente nuovo (1,27; 2,21-22), si commuove sul gregge senza pastore (6,34) e condanna i vignaiuoli della vigna (12,1-12).
 
@@ -186,7 +186,7 @@ c\) I Dodici, che solo una volta sono chiamati Apostoli (6,30), rappresentano in
 
 d\) La morte redentrice di Gesù (10,45) fonda l'alleanza nel suo sangue versato per la moltitudine (14,24). Dopo la sua risurrezione, Gesù come pastore riunisce le sue pecore disperse (14,27-28).
 
-2. Il Vangelo di Matteo, chiamato il Vangelo della Chiesa per eccellenza, usa due volte il vocabolo *ekklêsía* (16,18; 18,17-18). La continuità con Israele e il distacco dalla Sinagoga sono i due poli che guidano la sua riflessione teologica.
+2\. Il Vangelo di Matteo, chiamato il Vangelo della Chiesa per eccellenza, usa due volte il vocabolo *ekklêsía* (16,18; 18,17-18). La continuità con Israele e il distacco dalla Sinagoga sono i due poli che guidano la sua riflessione teologica.
 
 a\) Numerose citazioni esplicite stabiliscono che Gesù è il Messia di Israele e il salvatore del suo popolo, come l'aveva annunziato la Scrittura. Ma Israele, nel suo insieme, non l'ha accettato e da lui viene direttamente criticato (Mt 20,16; 22,5-8). Il «Regno di Dio», considerato da Matteo un dato della storia della salvezza nel passato, nel presente e nel futuro, sarà tolto ai capi di Israele e dato a un popolo che lo farà fruttificare (21,43).
 
@@ -194,7 +194,7 @@ b\) Simone, il primo dei dodici apostoli (10,2), si vede imporre il nome di Piet
 
 c\) Gli undici discepoli, incaricati della missione dal Signore glorificato, sono inviati in tutto il mondo per far discepole tutte le nazioni (28,19). Nella loro comunità l'onnipotenza del Cristo continuerà a operare la salvezza (28,18-20).
 
-3. Le concezioni teologiche lucane si trovano nel Vangelo di Luca e negli Atti degli Apostoli. Nel Vangelo, l'azione di Gesù è centrata sul paese d'Israele. Gesù comincia ad agire nella sua patria immediata, Nazaret (4,16-30); non varca i confini del territorio ebraico (a differenza di Mc 7,24ss. e par.). Inviando i suoi apostoli (9,2) e discepoli (10,1), si preoccupa di mettere tutto Israele di fronte al messaggio di salvezza.
+3\. Le concezioni teologiche lucane si trovano nel Vangelo di Luca e negli Atti degli Apostoli. Nel Vangelo, l'azione di Gesù è centrata sul paese d'Israele. Gesù comincia ad agire nella sua patria immediata, Nazaret (4,16-30); non varca i confini del territorio ebraico (a differenza di Mc 7,24ss. e par.). Inviando i suoi apostoli (9,2) e discepoli (10,1), si preoccupa di mettere tutto Israele di fronte al messaggio di salvezza.
 
 In Luca, il Vangelo sviluppa una teologia della strada (*hodós*, *poreúomai*). Da bambino Gesù è venuto due volte al Tempio, da suo Padre (2,41; cf 2,23). Egli riprende con i suoi discepoli la strada verso Gerusalemme (9,51ss.), dove gli uomini lo uccideranno (13,33), ma dove Dio lo risusciterà (24,34). Questa strada prosegue negli Atti e conduce da Gerusalemme agli «estremi confini della terra» (1,8). Gerusalemme è al centro di una concezione della storia della salvezza secondo la quale l'antico popolo di Dio si muta in un popolo di Dio scelto «tra i pagani» (At 15,14). Il passaggio del Vangelo da Israele alle genti corrisponde al progetto di Dio nella sua continuità e nella sua discontinuità.
 

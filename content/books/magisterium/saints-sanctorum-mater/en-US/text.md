@@ -476,22 +476,34 @@ This Congregation wishes that the *Instruction* will be a valid aid to the Bisho
 
 **Art. 37** - Attached to the written request on the virtues or the martyrdom, the postulator is to present to the diocesan or eparchial Bishop:
 
-1.  in both recent and ancient causes, a biography of a certain historical value on the Servant of God, or otherwise an accurate chronological report on the life and activities of the Servant of God, on his virtues or martyrdom, on the reputation of holiness or of martyrdom and on the reputation of intercessory power, without omitting that which seems to be contrary or less favorable to the cause itself (52);
+1\.
 
-2.  an authentic copy of all the published writings of the Servant of God (53);
+in both recent and ancient causes, a biography of a certain historical value on the Servant of God, or otherwise an accurate chronological report on the life and activities of the Servant of God, on his virtues or martyrdom, on the reputation of holiness or of martyrdom and on the reputation of intercessory power, without omitting that which seems to be contrary or less favorable to the cause itself (52);
 
-3.  finally, a list of eventual witnesses, that is:
+2\.
+
+an authentic copy of all the published writings of the Servant of God (53);
+
+3\.
+
+finally, a list of eventual witnesses, that is:
 
 > > **a.** *in recent causes:* a list of the persons who can contribute to ascertaining the truth on the virtues or the martyrdom of the Servant of God, as well as on the reputation of holiness or of martyrdom, and on the reputation of intercessory power, not omitting those who could call such a reputation into question (54);  
 > > **b.** *in ancient causes:* a list of some witnesses who can testify about the reputation of holiness or of martyrdom and of intercessory power existing until the present among a significant portion of the People of God (55).
 
 **Art. 38** - § 1. Attached to the written request for the instruction of the Inquiry on an alleged miracle, the postulator must present to the diocesan or eparchial Bishop:
 
-1.  a brief and accurate report on the particular circumstances of the case;
+1\.
 
-2.  a list of witnesses;
+a brief and accurate report on the particular circumstances of the case;
 
-3.  all the documents relative to the case (56).
+2\.
+
+a list of witnesses;
+
+3\.
+
+all the documents relative to the case (56).
 
 § 2. In the case of allegedly miraculous healings, medical and clinical documents as well as test results are necessary (e.g., clinical records, medical records, laboratory exams and analyses).
 
@@ -681,15 +693,25 @@ This Congregation wishes that the *Instruction* will be a valid aid to the Bisho
 
 § 2. In the *Report,* the experts must:
 
-1.  indicate and testify that they fulfilled their task faithfully;
+1\.
 
-2.  present a list of the archives consulted;
+indicate and testify that they fulfilled their task faithfully;
 
-3.  include a list of the writings and documents discovered;
+2\.
 
-4.  express a judgment on the authenticity and value of the same writings and documents;
+present a list of the archives consulted;
 
-5.  express a judgment on the personality and spirituality of the Servant of God as they appear in the same writings and documents, not omitting to indicate eventual negative aspects (93).
+3\.
+
+include a list of the writings and documents discovered;
+
+4\.
+
+express a judgment on the authenticity and value of the same writings and documents;
+
+5\.
+
+express a judgment on the personality and spirituality of the Servant of God as they appear in the same writings and documents, not omitting to indicate eventual negative aspects (93).
 
 § 3. The experts must indicate eventual obstacles to the cause to the Bishop or his Delegate who is to inform the postulator so that he can remove them (94).
 
@@ -707,11 +729,17 @@ This Congregation wishes that the *Instruction* will be a valid aid to the Bisho
 
 § 2. They are to declare under oath:
 
-1.  that they conducted all the investigations;
+1\.
 
-2.  that they gathered all that which pertains to the cause;
+that they conducted all the investigations;
 
-3.  that they have neither changed nor destroyed any document or text (98).
+2\.
+
+that they gathered all that which pertains to the cause;
+
+3\.
+
+that they have neither changed nor destroyed any document or text (98).
 
 § 3. Other *ex officio* questions, that deal with the personality and the work of the Servant of God, may be asked of the witnesses in order to clarify negative elements of a certain importance in the cause (99).
 
@@ -789,27 +817,49 @@ This Congregation wishes that the *Instruction* will be a valid aid to the Bisho
 
 **Art. 89** - The acts of the cause already completed and all the material already gathered must be inserted into the acts of the First Session:
 
-1.  any rescript of the transfer of competence (113);
+1\.
 
-2.  all the documentation presented to the Bishop for the purpose of demonstrating the reputation of holiness or of martyrdom and of intercessory power enjoyed by the Servant of God (114);
+any rescript of the transfer of competence (113);
 
-3.  the mandate of nomination of the postulator and/or vice-postulator (115);
+2\.
 
-4.  the Libellus of the postulator together with the material prescribed by n. 10 of the *"[Normae servandae](rc_con_csaints_doc_07021983_norme_en.html)"* (116);
+all the documentation presented to the Bishop for the purpose of demonstrating the reputation of holiness or of martyrdom and of intercessory power enjoyed by the Servant of God (114);
 
-5.  any declaration on the particular reasons for the delay of the initiation of the cause (117);
+3\.
 
-6.  the opinion of the other Bishops consulted on the advisability of the cause (118);
+the mandate of nomination of the postulator and/or vice-postulator (115);
 
-7.  the edict of the Bishop (119);
+4\.
 
-8.  the letter of the *"Nihil Obstat"* of the Holy See (120);
+the Libellus of the postulator together with the material prescribed by n. 10 of the *"[Normae servandae](rc_con_csaints_doc_07021983_norme_en.html)"* (116);
 
-9.  the decrees of nomination of the Officials of the Inquiry (121);
+5\.
 
-10. the written opinions of the Theological Censors or the declaration on the inexistence of published writings (122);
+any declaration on the particular reasons for the delay of the initiation of the cause (117);
 
-11. the material gathered by the experts in historical matters and in matters pertaining to archives, together with their *Report* (123).
+6\.
+
+the opinion of the other Bishops consulted on the advisability of the cause (118);
+
+7\.
+
+the edict of the Bishop (119);
+
+8\.
+
+the letter of the *"Nihil Obstat"* of the Holy See (120);
+
+9\.
+
+the decrees of nomination of the Officials of the Inquiry (121);
+
+10\.
+
+the written opinions of the Theological Censors or the declaration on the inexistence of published writings (122);
+
+11\.
+
+the material gathered by the experts in historical matters and in matters pertaining to archives, together with their *Report* (123).
 
 **Chapter III *Notary of the First Session***
 
@@ -857,15 +907,25 @@ This Congregation wishes that the *Instruction* will be a valid aid to the Bisho
 
 **Art. 96** - The witnesses who must be called to testify in the Inquiry are:
 
-1.  those witnesses indicated by the postulator in his Libellus (132);
+1\.
 
-2.  *ex officio* witnesses, especially if they are contrary to the cause (133);
+those witnesses indicated by the postulator in his Libellus (132);
 
-3.  corraborating witnesses, that is, those indicated by the witnesses during their depositions;
+2\.
 
-4.  the experts in historical matters and matters that pertain to archives as *ex officio* witnesses (134);
+*ex officio* witnesses, especially if they are contrary to the cause (133);
 
-5.  in the Inquiry on an allegedly miraculous healing, also those doctors who treated the person healed and the medical experts *ab inspectione* (135).
+3\.
+
+corraborating witnesses, that is, those indicated by the witnesses during their depositions;
+
+4\.
+
+the experts in historical matters and matters that pertain to archives as *ex officio* witnesses (134);
+
+5\.
+
+in the Inquiry on an allegedly miraculous healing, also those doctors who treated the person healed and the medical experts *ab inspectione* (135).
 
 **Art. 97** - The Bishop or his Delegate may limit an excessive number of witnesses (136).
 
@@ -1113,11 +1173,17 @@ This Congregation wishes that the *Instruction* will be a valid aid to the Bisho
 
 **Art. 144** - § 1. In the Last or Closing Session of the Inquiry:
 
-1.  the Bishop is to declare, by means of a decree to be inserted into the acts of the Last Session, that the Inquiry is definitively closed;
+1\.
 
-2.  the Carrier is to swear an oath to fulfil his task faithfully (187);
+the Bishop is to declare, by means of a decree to be inserted into the acts of the Last Session, that the Inquiry is definitively closed;
 
-3.  the Bishop, the Episcopal Delegate, the Promotor of Justice, the Notary and the postulator and/or vice-postulator of the cause, are to swear separately that they have faithfully fulfilled their task and that they will maintain the secret of office.
+2\.
+
+the Carrier is to swear an oath to fulfil his task faithfully (187);
+
+3\.
+
+the Bishop, the Episcopal Delegate, the Promotor of Justice, the Notary and the postulator and/or vice-postulator of the cause, are to swear separately that they have faithfully fulfilled their task and that they will maintain the secret of office.
 
 § 2. The oaths are to be transcribed and the relative documents inserted into the acts of this Last Session.
 

@@ -33,7 +33,7 @@ Die *Päpstliche Filmkommission* enthält sich im allgemeinen positiver oder neg
 Die *Päpstliche Filmkommission* wird vom Heiligen Stuhl ernannt und setzt sich wie folgt zusammen: 
 
 1\. Der Präsident, mit Amtsdauer von sechs Jahren.  
-2. Der Rat, der dem Präsidenten zur Seite steht:
+2\. Der Rat, der dem Präsidenten zur Seite steht:
 
 Er setzt sich zusammen wie folgt:
 

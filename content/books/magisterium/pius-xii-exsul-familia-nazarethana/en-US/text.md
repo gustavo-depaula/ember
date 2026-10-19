@@ -330,147 +330,257 @@ Having accomplished the first part of this plan, we now proceed to the second pa
 
 We now review, approve and confirm the enactments of our predecessors of happy memory, and especially those of St. Pius X; at the same time however, we modify them somewhat, as seems necessary. We hereby wish and decree that the following rules be observed in the future.
 
-1.  a\) The Consistorial Congregation alone has the authority to seek and to provide everything pertaining to the spiritual welfare of migrants of the Latin rite, wheresoever they may have migrated. However, if their migration is to countries under the jurisdiction of the Congregation for the Oriental Church, or the Congregation for the Propaga­tion of the Faith, then these Congregations must be consulted depending upon the region.
-2.  b\) It is likewise within the competence of the Con­sistorial Congreation to seek and to provide, in like manner, for emigrants of the Oriental rite, whenever emigrants of one or another Oriental rite leave for areas which are not under the jurisdiction of the Congregation for the Oriental Church, and where no priests of such rite are available, but in all cases previous consultation must be taken up with the Congregation for the Oriental Church.
-3.  a\) Whenever priests of the Latin rite migrate it is always the Consistorial Congregation alone which has juris. diction over them.
-4.  b\) If the priests of the Latin rite subject to the Con­gregation for the Oriental Church or the Congregation for the Propagation of the Faith desire to migrate into an area not under jurisdiction of the same Congregation, th*ey* also will be subject to the regulations concerning such migration, made or to be made by the Consistorial Congregation, with-out prejudice of the rights of the Congregation for the Oriental Church or for the Propagation of the Faith.
-5.  c\) These same regulations are binding on priests of the Oriental rite migrating into areas not under the juris­diction of the Congregation for the Oriental Church, likewise without prejudice to the laws and rights of this same Congregation for the Oriental Church.
-6.  a\) 1. The Consistorial Congregation alone can authorize priests to migrate from Europe or Mediterranean regions to other lands overseas. This applies regardless of any length of time they wish to be gone, whether it be brief or long, indefinite or permanent. Such authorization may be merely for departure or for a brief residence in the new country, or for a more prolonged residence there.
-7.  Nuncios, Internuncios and Apostolic Delegates may grant this permission to priests of that nation where they regularly fulfill their assignments, provided that this faculty has been granted and reserved to them.
-8.  b\) 1. The priests referred to in a) 1. must obtain permission and comply with all other regulations before being incardinated into the new diocese overseas.
-9.  This permission is also necessary for religious priests unless it is a matter of their going, on orders of their superiors, to another house of their order. Similarly, religious excloistered need it, during the time of their exclaustration; also, religious who have been “secularized,” whether they have been accepted outright by a friendly bishop or simply on a trial basis.
-10. c\) This permission, without prejudice to the other requirements of the decree *Magni Semper Negotii*, is not to be granted unless it is certain that there are:
-11. The testimonials of good conduct of the petitioner;
-12. a proper and reasonable motive for migration;
-13. consent both of the bishop of the place he is leaving, or of his superior in the case of a religious, and of the bishop to whose diocese he is going;
-14. an indult from the Congregation of the Council, if it is a case of a pastor to be absent more than two months from his parish.
-15. d\) Priests, whether secular or religious, who have obtained permission to migrate to an overseas country, must obtain new permission if they wish to go to still another country, even in that same continent.
-16. e\) Priests who, disregarding these rules, heedlessly and boldly migrate, shall incur the penalties of the decree *Magni* *Semper Negotii.*
-17. An apostolic indult to establish special nationality parishes for the benefit of immigrants can, according to Canon 216, 4 of the Code of Canon Law, be granted only by the Consistorial Congregation.
-18. a\) It is likewise the Consistorial Congregation which has the right:
-19. After first reviewing the applicant’s previous life, morals and fitness, and making sure of the Ordinary’s consent, then to grant permission to priests, whether they be secular or religious who now desire to dedicate themselves to the religious care of migrants of their own nationality or language, or to the care of people who may be travelling by sea or who, for many reasons, may be aboard ships or who are attached to ships, in whatever capacity. Likewise, the said Congregation has the right to appoint, by special rescript, priests as missionaries to migrants or as chaplains aboard ships; similarly, to assign their destinations, to transfer them, to accept their resignations, and in a proper case, to dismiss them.
-20. To choose and appoint in any nation Moderators or Directors of Missionaries for migrants of the same nationality or language.
-21. **Eligere ac constituere Moderatores seu Directores cappellanorum navigantium;** (from the [Vatican’s text of the orignal Latin](http://www.vatican.va/holy_father/pius_xii/apost_constitutions/documents/hf_p-xii_apc_19520801_exsul-familia_lt.html). No translation available.)
-22. To direct and supervise all these priests, whether through the local Ordinaries or the Delegate for Migration Affairs, or other ecclesiastics delegated for this task.
-23. b\) 1. If the rescript mentioned in a) 1. is granted, notice must be sent to both the Ordinaries, the Ordinary from whom and the Ordinary to whom the priest is going.
-24. The Consistorial Congregation must not delay in notifying bishops of the appointments of moderators or directors for their nations or territories.
-25. a\) We approve with our authority the special committees or episcopal commissions set up in many European and American countries for the spiritual aid of migrants, and wish that these timely committees be set up also in other areas. We have, therefore, decided that the priests appointed by Bishops to serve as Secretaries of these committees may be named Directors of Migration Affairs, each for his own country, by the Consistorial Congregation.
-26. b\) Where this type of committee has not yet been established, the Consistorial Congregation may choose a director from among the priests presented by the Bishops of the country.
-27. a\) In order to facilitate the work of assisting emigrants, we hereby establish and institute, in the offices of our Consistorial Congregation, a Supreme Council on Migration.
-28. b\) The president of this Council will be the Assessor of the same Congregation. Its secretary will be the Delegate for Migration Affairs.
-29. c\) The following may be members of this Council;
-30. Those priests who in their own country or region either serve as secretaries of the episcopal commissions for the spiritual care of immigrants or are otherwise engaged, at the direction of their bishops, in this type of spiritual care.
-31. Those priests, whether secular or regular, resident in Rome who seem outstanding because of their knowledge of this field and their zeal for souls.
-32. a\) We also establish within the Consistorial Con­gregation another agency, the General International Secretariate, to direct the work of the Apostolate of the Sea. The chief work of this Apostolate is to promote the spiritual and moral welfare of maritime people, that is, of both those who board ships as officers and those who go as crew members, together with those who are employed in ports to prepare railings.
-33. b\) The Assessor of the Consistorial Congregation shall direct this Secretariate as its president. The Delegate for Migration Affairs shall be its secretary.
-34. c\) The following may be chosen as members of the Seeretariate:
-35. Those ecclesiastics who in each country have been appointed as Directors of such work by the bishops.
-36. Other priests who, having worked notably in the development of this work, are recommended by proper testimonials.
+1\. a) The Consistorial Congregation alone has the authority to seek and to provide everything pertaining to the spiritual welfare of migrants of the Latin rite, wheresoever they may have migrated. However, if their migration is to countries under the jurisdiction of the Congregation for the Oriental Church, or the Congregation for the Propaga­tion of the Faith, then these Congregations must be consulted depending upon the region.
+
+2\. b) It is likewise within the competence of the Con­sistorial Congreation to seek and to provide, in like manner, for emigrants of the Oriental rite, whenever emigrants of one or another Oriental rite leave for areas which are not under the jurisdiction of the Congregation for the Oriental Church, and where no priests of such rite are available, but in all cases previous consultation must be taken up with the Congregation for the Oriental Church.
+
+3\. a) Whenever priests of the Latin rite migrate it is always the Consistorial Congregation alone which has juris. diction over them.
+
+4\. b) If the priests of the Latin rite subject to the Con­gregation for the Oriental Church or the Congregation for the Propagation of the Faith desire to migrate into an area not under jurisdiction of the same Congregation, th*ey* also will be subject to the regulations concerning such migration, made or to be made by the Consistorial Congregation, with-out prejudice of the rights of the Congregation for the Oriental Church or for the Propagation of the Faith.
+
+5\. c) These same regulations are binding on priests of the Oriental rite migrating into areas not under the juris­diction of the Congregation for the Oriental Church, likewise without prejudice to the laws and rights of this same Congregation for the Oriental Church.
+
+6\. a) 1. The Consistorial Congregation alone can authorize priests to migrate from Europe or Mediterranean regions to other lands overseas. This applies regardless of any length of time they wish to be gone, whether it be brief or long, indefinite or permanent. Such authorization may be merely for departure or for a brief residence in the new country, or for a more prolonged residence there.
+
+7\. Nuncios, Internuncios and Apostolic Delegates may grant this permission to priests of that nation where they regularly fulfill their assignments, provided that this faculty has been granted and reserved to them.
+
+8\. b) 1. The priests referred to in a) 1. must obtain permission and comply with all other regulations before being incardinated into the new diocese overseas.
+
+9\. This permission is also necessary for religious priests unless it is a matter of their going, on orders of their superiors, to another house of their order. Similarly, religious excloistered need it, during the time of their exclaustration; also, religious who have been “secularized,” whether they have been accepted outright by a friendly bishop or simply on a trial basis.
+
+10\. c) This permission, without prejudice to the other requirements of the decree *Magni Semper Negotii*, is not to be granted unless it is certain that there are:
+
+11\. The testimonials of good conduct of the petitioner;
+
+12\. a proper and reasonable motive for migration;
+
+13\. consent both of the bishop of the place he is leaving, or of his superior in the case of a religious, and of the bishop to whose diocese he is going;
+
+14\. an indult from the Congregation of the Council, if it is a case of a pastor to be absent more than two months from his parish.
+
+15\. d) Priests, whether secular or religious, who have obtained permission to migrate to an overseas country, must obtain new permission if they wish to go to still another country, even in that same continent.
+
+16\. e) Priests who, disregarding these rules, heedlessly and boldly migrate, shall incur the penalties of the decree *Magni* *Semper Negotii.*
+
+17\. An apostolic indult to establish special nationality parishes for the benefit of immigrants can, according to Canon 216, 4 of the Code of Canon Law, be granted only by the Consistorial Congregation.
+
+18\. a) It is likewise the Consistorial Congregation which has the right:
+
+19\. After first reviewing the applicant’s previous life, morals and fitness, and making sure of the Ordinary’s consent, then to grant permission to priests, whether they be secular or religious who now desire to dedicate themselves to the religious care of migrants of their own nationality or language, or to the care of people who may be travelling by sea or who, for many reasons, may be aboard ships or who are attached to ships, in whatever capacity. Likewise, the said Congregation has the right to appoint, by special rescript, priests as missionaries to migrants or as chaplains aboard ships; similarly, to assign their destinations, to transfer them, to accept their resignations, and in a proper case, to dismiss them.
+
+20\. To choose and appoint in any nation Moderators or Directors of Missionaries for migrants of the same nationality or language.
+
+21\. **Eligere ac constituere Moderatores seu Directores cappellanorum navigantium;** (from the [Vatican’s text of the orignal Latin](http://www.vatican.va/holy_father/pius_xii/apost_constitutions/documents/hf_p-xii_apc_19520801_exsul-familia_lt.html). No translation available.)
+
+22\. To direct and supervise all these priests, whether through the local Ordinaries or the Delegate for Migration Affairs, or other ecclesiastics delegated for this task.
+
+23\. b) 1. If the rescript mentioned in a) 1. is granted, notice must be sent to both the Ordinaries, the Ordinary from whom and the Ordinary to whom the priest is going.
+
+24\. The Consistorial Congregation must not delay in notifying bishops of the appointments of moderators or directors for their nations or territories.
+
+25\. a) We approve with our authority the special committees or episcopal commissions set up in many European and American countries for the spiritual aid of migrants, and wish that these timely committees be set up also in other areas. We have, therefore, decided that the priests appointed by Bishops to serve as Secretaries of these committees may be named Directors of Migration Affairs, each for his own country, by the Consistorial Congregation.
+
+26\. b) Where this type of committee has not yet been established, the Consistorial Congregation may choose a director from among the priests presented by the Bishops of the country.
+
+27\. a) In order to facilitate the work of assisting emigrants, we hereby establish and institute, in the offices of our Consistorial Congregation, a Supreme Council on Migration.
+
+28\. b) The president of this Council will be the Assessor of the same Congregation. Its secretary will be the Delegate for Migration Affairs.
+
+29\. c) The following may be members of this Council;
+
+30\. Those priests who in their own country or region either serve as secretaries of the episcopal commissions for the spiritual care of immigrants or are otherwise engaged, at the direction of their bishops, in this type of spiritual care.
+
+31\. Those priests, whether secular or regular, resident in Rome who seem outstanding because of their knowledge of this field and their zeal for souls.
+
+32\. a) We also establish within the Consistorial Con­gregation another agency, the General International Secretariate, to direct the work of the Apostolate of the Sea. The chief work of this Apostolate is to promote the spiritual and moral welfare of maritime people, that is, of both those who board ships as officers and those who go as crew members, together with those who are employed in ports to prepare railings.
+
+33\. b) The Assessor of the Consistorial Congregation shall direct this Secretariate as its president. The Delegate for Migration Affairs shall be its secretary.
+
+34\. c) The following may be chosen as members of the Seeretariate:
+
+35\. Those ecclesiastics who in each country have been appointed as Directors of such work by the bishops.
+
+36\. Other priests who, having worked notably in the development of this work, are recommended by proper testimonials.
 
 **CHAPTER II**
 
 **THE DELEGATE FOR MIGRATION AFFAIRS**
 
-1.  We establish in the Consistorial Congregation the Office of Delegate for Migration Affairs.
-2.  a\) The function of this Delegate is to foster and promote by every apt means the welfare, especially spiritual, of Catholic migrants of whatever language, race, nationality or, with necessary exceptions, rite. In doing this, the Delegate is to confer, when necessary, with our Secretary of State or with government officials or agencies.
-3.  b\) To this end, the Delegate is, in the name and by authority of the Consistorial Congregation, to assist and support by his activities and counsel all Catholic organizations, institutions and agencies, whether national or inter-national, including—without prejudice to the rights of bishops—diocesan and parochial groups that aim at the same goal.
-4.  a\) The Delegate has charge of missionaries to migrants and chaplains on ships, whether secular or regular, and their directors.
-5.  b\) He shall, by order of the Consistorial Congrega­tion, direct and supervise these men, and not neglect to report on them.
-6.  It will also be the duty of the Delegate to recruit and present to the Consistorial Congregation priests who wish to devote themselves to the spiritual care of those who are migrating or have migrated and of those who ply the seas or are for whatever reason on board ships or service them.
-7.  a\) Priests approved for the work and appointed missionaries to migrants or ship chaplains by rescript of the Consistorial Congregation will be assigned to a mission or to a special ship by the Delegate.
-8.  b\) The Delegate shall be careful to provide these men with aid they need, whether he does so personally and immediately, or indirectly through other ecclesiastics, preferably through their Directors.
-9.  The Delegate shall notify the local Ordinaries and the Directors of the imminent arrival of immigrants.
-10. The Delegate shall strive to promote and guide everything that might contribute to the success of an annual Migrant Day.
-11. At the end of each year, the Delegate shall prepare and send to the Consistorial Congregation a report on the material and spiritual state of the missions and on the observance of ecclesiastical discipline by the missionaries to migrants and by ship chaplains.
-12. a\) We, therefore, abolish and hereby declare suppressed the Office of Prelate for Italian Emigrants.
-13. b\) We likewise declare completely at an end the functions of the Visitors or Delegates of whatever language or nationality, previously established for the religious welfare of immigrants and refugees living in Europe and America.
+1\. We establish in the Consistorial Congregation the Office of Delegate for Migration Affairs.
+
+2\. a) The function of this Delegate is to foster and promote by every apt means the welfare, especially spiritual, of Catholic migrants of whatever language, race, nationality or, with necessary exceptions, rite. In doing this, the Delegate is to confer, when necessary, with our Secretary of State or with government officials or agencies.
+
+3\. b) To this end, the Delegate is, in the name and by authority of the Consistorial Congregation, to assist and support by his activities and counsel all Catholic organizations, institutions and agencies, whether national or inter-national, including—without prejudice to the rights of bishops—diocesan and parochial groups that aim at the same goal.
+
+4\. a) The Delegate has charge of missionaries to migrants and chaplains on ships, whether secular or regular, and their directors.
+
+5\. b) He shall, by order of the Consistorial Congrega­tion, direct and supervise these men, and not neglect to report on them.
+
+6\. It will also be the duty of the Delegate to recruit and present to the Consistorial Congregation priests who wish to devote themselves to the spiritual care of those who are migrating or have migrated and of those who ply the seas or are for whatever reason on board ships or service them.
+
+7\. a) Priests approved for the work and appointed missionaries to migrants or ship chaplains by rescript of the Consistorial Congregation will be assigned to a mission or to a special ship by the Delegate.
+
+8\. b) The Delegate shall be careful to provide these men with aid they need, whether he does so personally and immediately, or indirectly through other ecclesiastics, preferably through their Directors.
+
+9\. The Delegate shall notify the local Ordinaries and the Directors of the imminent arrival of immigrants.
+
+10\. The Delegate shall strive to promote and guide everything that might contribute to the success of an annual Migrant Day.
+
+11\. At the end of each year, the Delegate shall prepare and send to the Consistorial Congregation a report on the material and spiritual state of the missions and on the observance of ecclesiastical discipline by the missionaries to migrants and by ship chaplains.
+
+12\. a) We, therefore, abolish and hereby declare suppressed the Office of Prelate for Italian Emigrants.
+
+13\. b) We likewise declare completely at an end the functions of the Visitors or Delegates of whatever language or nationality, previously established for the religious welfare of immigrants and refugees living in Europe and America.
 
 **CHAPTER III**
 
 **DIRECTORS, MISSIONARIES TO MIGRANTS, AND SHIP CHAPLAINS**
 
-1.  a\) The missionaries to emigrants and chaplains aboard ships and their directors will carry on theft work under the direction of the Consistorial Congregation and its Delegate for Migration Affairs.
-2.  b\) Neither the office of missionary to migrants nor of ship chaplains, nor that of director effect excardination from a diocese. Nor do they offer exemption either from one’s own Ordinary or religious Superior, or from the Ordinary of the place in which the work of the missionary or chaplain is done.
-3.  Directors of missionaries to migrants and ship chaplains have, by virtue of their office, no jurisdiction, either territorial or personal, except that described below.
-4.  The rights and duties of a Director are chiefly:
-5.  a\) To make arrangements with the bishops of the nation or territory in which the missionaries maintain a settled residence, with respect to all those factors that concern the spiritual welfare of immigrants of their nationality or language.
-6.  b\) To direct, without prejudice to the rights of the Ordinaries, the missionaries or chaplains.
-7.  a\) The Director should therefore investigate:
-8.  Whether the missionaries or chaplains lead a life in conformity with the standards of the sacred canons and are careful to fulfill their duties.
-9.  Whether these men properly carry out the decrees of the Consistorial Congregation and of their local Ordinary.
-10. Whether they preserve carefully the decorum and dignity of churches or chapels or oratories and of sacred furnishings, especially in regards to the custody of the Most Blessed Sacrament and the celebration of Mass.
-11. Whether the sacred rites are celebrated according to requirements of liturgical laws and decrees of the Congregation of Rites. Similarly, whether the church revenues are carefully administered, and the obligations connected with them, particularly those of Mass, are properly met. Also whether the parochial records, mentioned below in No. 25 c) and No. 35 b), are correctly written and preserved.
-12. b\) To assure himself of all this, the Director must visit the missions or ships frequently.
-13. c\) It is also up to the Director, as soon as he learns that a missionary or chaplain is seriously ill, to provide assistance, so that neither spiritual nor material aid will be lacking, nor, in case of death, a decent funeral. He must also take care that during the priest’s sickness or on his death the records, documents, sacred furnishings and other mission property are not lost or carried off.
-14. The Director may, where possible and for good reasons approved by the Consistorial Congregation, bring all the missionaries or chaplains together, especially in order to make a retreat or to attend conferences on the best methods for carrying on their ministry.
-15. At least once a year, the Director shall send an accurate report to the Consistorial Congregation on the missionaries and chaplains, and on the state of the missions. He is to recount not only the good accomplished during the year, but also the evils that have crept in, what measures have been taken to obviate them and what seems necessary to promote the growth of the missions.
-16. Missionaries to migrants engaged in the spiritual care of Catholics of their own nationality or language come under the jurisdiction of the local Ordinary, according to the norms of Chapter IV below.
-17. a\) It is the duty of the chaplains aboard ships to attend, throughout the voyage, to the spiritual care of all those who, for whatever reason happen to be aboard. The only exception would be in the case of marriage.
-18. b\) The chaplains will be given, without prejudice to the provision of Canon 883 of the Code of Canon Law, special rules and faculties by the Consistorial Congregation.
-19. c\) They must keep a record of baptisms, confirma­tions and deaths. At the end of each trip they are to send their Director a copy of this record, together with a report of their work done on that trip.
-20. If there is a chapel legitimately erected on the ship, the chaplains shall, with due allowances, be deemed equiva­lent to rectors of churches.
-21. a\) Chaplains may celebrate the Divine Services, even solemnly, in the chapel aboard ship as long as they observe the canonical and liturgical laws and are careful to hold the services at a convenient time for all on board.
-22. b\) The chaplains are to:
-23. Announce feast days to those on board.
-24. Give catechetical instructions, especially to the young people, and an explanation of the Gospel.
-25. Chaplains on ships are to watch:
-26. a\) That in the chapel, the Divine Services are celebrated properly according to the prescription of the sacred canons and that priests celebrating Mass be assisted by another priest if there is one, vested in a surplice, in order to avoid the danger of spilling the Sacred Species from the chalice.
-27. b\) That the sacred furnishings are kept up and the decorum of the chapel looked after; that nothing be done there incompatible, in any way, with the holiness of the place or the reverence due the House of God, and that neither the chapel nor the altar nor the sacred vestments be used at the service of non-Catholic sects.
-28. a\) No one may celebrate Mass, administer the sacra­ments, preach, or perform other divine functions in the ship’s chapel, without the permission, at least presumed, of the chaplain.
-29. b\) This permission must be granted or refused according to the ordinary rules of the canon law.
-30. The right to erect and bless a chapel on ship belongs to the Ordinary of the place in which the home port of the ship is located.
-31. Missionaries and chaplains may, with the consent of the Director, and the Superior in case of a religious, be absent from their mission or ship for any one month within the same year, provided the needs of emigrants or seamen be met by a priest who has the proper rescript from the Consistorial Congregation. Directors, who must obtain the authorization of the Consistorial Congregation, and if they are religious, of their Superior, are granted this same privilege, provided they can find a priest approved by the Consistorial Congregation to substitute for them.
+1\. a) The missionaries to emigrants and chaplains aboard ships and their directors will carry on theft work under the direction of the Consistorial Congregation and its Delegate for Migration Affairs.
+
+2\. b) Neither the office of missionary to migrants nor of ship chaplains, nor that of director effect excardination from a diocese. Nor do they offer exemption either from one’s own Ordinary or religious Superior, or from the Ordinary of the place in which the work of the missionary or chaplain is done.
+
+3\. Directors of missionaries to migrants and ship chaplains have, by virtue of their office, no jurisdiction, either territorial or personal, except that described below.
+
+4\. The rights and duties of a Director are chiefly:
+
+5\. a) To make arrangements with the bishops of the nation or territory in which the missionaries maintain a settled residence, with respect to all those factors that concern the spiritual welfare of immigrants of their nationality or language.
+
+6\. b) To direct, without prejudice to the rights of the Ordinaries, the missionaries or chaplains.
+
+7\. a) The Director should therefore investigate:
+
+8\. Whether the missionaries or chaplains lead a life in conformity with the standards of the sacred canons and are careful to fulfill their duties.
+
+9\. Whether these men properly carry out the decrees of the Consistorial Congregation and of their local Ordinary.
+
+10\. Whether they preserve carefully the decorum and dignity of churches or chapels or oratories and of sacred furnishings, especially in regards to the custody of the Most Blessed Sacrament and the celebration of Mass.
+
+11\. Whether the sacred rites are celebrated according to requirements of liturgical laws and decrees of the Congregation of Rites. Similarly, whether the church revenues are carefully administered, and the obligations connected with them, particularly those of Mass, are properly met. Also whether the parochial records, mentioned below in No. 25 c) and No. 35 b), are correctly written and preserved.
+
+12\. b) To assure himself of all this, the Director must visit the missions or ships frequently.
+
+13\. c) It is also up to the Director, as soon as he learns that a missionary or chaplain is seriously ill, to provide assistance, so that neither spiritual nor material aid will be lacking, nor, in case of death, a decent funeral. He must also take care that during the priest’s sickness or on his death the records, documents, sacred furnishings and other mission property are not lost or carried off.
+
+14\. The Director may, where possible and for good reasons approved by the Consistorial Congregation, bring all the missionaries or chaplains together, especially in order to make a retreat or to attend conferences on the best methods for carrying on their ministry.
+
+15\. At least once a year, the Director shall send an accurate report to the Consistorial Congregation on the missionaries and chaplains, and on the state of the missions. He is to recount not only the good accomplished during the year, but also the evils that have crept in, what measures have been taken to obviate them and what seems necessary to promote the growth of the missions.
+
+16\. Missionaries to migrants engaged in the spiritual care of Catholics of their own nationality or language come under the jurisdiction of the local Ordinary, according to the norms of Chapter IV below.
+
+17\. a) It is the duty of the chaplains aboard ships to attend, throughout the voyage, to the spiritual care of all those who, for whatever reason happen to be aboard. The only exception would be in the case of marriage.
+
+18\. b) The chaplains will be given, without prejudice to the provision of Canon 883 of the Code of Canon Law, special rules and faculties by the Consistorial Congregation.
+
+19\. c) They must keep a record of baptisms, confirma­tions and deaths. At the end of each trip they are to send their Director a copy of this record, together with a report of their work done on that trip.
+
+20\. If there is a chapel legitimately erected on the ship, the chaplains shall, with due allowances, be deemed equiva­lent to rectors of churches.
+
+21\. a) Chaplains may celebrate the Divine Services, even solemnly, in the chapel aboard ship as long as they observe the canonical and liturgical laws and are careful to hold the services at a convenient time for all on board.
+
+22\. b) The chaplains are to:
+
+23\. Announce feast days to those on board.
+
+24\. Give catechetical instructions, especially to the young people, and an explanation of the Gospel.
+
+25\. Chaplains on ships are to watch:
+
+26\. a) That in the chapel, the Divine Services are celebrated properly according to the prescription of the sacred canons and that priests celebrating Mass be assisted by another priest if there is one, vested in a surplice, in order to avoid the danger of spilling the Sacred Species from the chalice.
+
+27\. b) That the sacred furnishings are kept up and the decorum of the chapel looked after; that nothing be done there incompatible, in any way, with the holiness of the place or the reverence due the House of God, and that neither the chapel nor the altar nor the sacred vestments be used at the service of non-Catholic sects.
+
+28\. a) No one may celebrate Mass, administer the sacra­ments, preach, or perform other divine functions in the ship’s chapel, without the permission, at least presumed, of the chaplain.
+
+29\. b) This permission must be granted or refused according to the ordinary rules of the canon law.
+
+30\. The right to erect and bless a chapel on ship belongs to the Ordinary of the place in which the home port of the ship is located.
+
+31\. Missionaries and chaplains may, with the consent of the Director, and the Superior in case of a religious, be absent from their mission or ship for any one month within the same year, provided the needs of emigrants or seamen be met by a priest who has the proper rescript from the Consistorial Congregation. Directors, who must obtain the authorization of the Consistorial Congregation, and if they are religious, of their Superior, are granted this same privilege, provided they can find a priest approved by the Consistorial Congregation to substitute for them.
 
 **CHAPTER IV**
 
 **THE SPIRITUAL CARE LOCAL ORDINARIES ARE TO PROVIDE ALIENS**
 
-1.  Local Ordinaries are to provide for the spiritual care of aliens of every sort, whether they have a quasi-domicile or they have no domicile at all. Whenever, in this ministry it seems for one reason or another inexpedient to apply to the Consistorial Congregation for permission to establish parishes for various language or nationality groups, local Ordinaries are in the future to observe carefully the following rules:
-2.  Every local Ordinary is to make an earnest effort to entrust the spiritual care of aliens or immigrants to priests, whether secular or regular, of the same language or nationality, i.e., to missionaries to migrants who have, as stated above, a special license from the Consistorial Congregation.
-3.  In like manner, after consultation with the Consistorial Congregation, and having observed all other requirements of law, every local Ordinary shall try to grant these missionaries to migrants the authority to undertake the spiritual care of immigrant Catholics of their own language or nationality with no canonical quasi-domicile or without any canonical domicile.
-4.  a\) A missionary to migrants, supplied with such authority in exercising the care of souls, is to be considered equal to a pastor. He therefore possesses, making due allowances, the same faculties for the spiritual care as a pastor and is bound by the same obligations and held to the requirements of the common law.
-5.  b\) They must therefore in the first place, keep the parish records mentioned in Canon 470 of the Code of Canon Law. An accurate copy must be sent at the end of each year to the pastor of the place and to his Director.
-6.  a\) Parochial authority of this type is personal, to be exercised over aliens or immigrants.
-7.  b\) This same authority is cumulative on equal terms with that of the pastor of the place, even if it is exercised in a church or chapel or public or semi-public oratory, entrusted to the missionary to migrants.
-8.  a\) Wherever possible, every missionary to migrants is to be assigned a church, chapel or public or semi-public oratory for carrying on the sacred ministry.
-9.  b\) Otherwise, the Ordinary of the place shall set up regulations to enable the missionary to migrants freely and completely to fulfill his duties in another church, not excluding the parish church.
-10. Missionaries to migrants are, while in this work, completely subject to the jurisdiction of the local Ordinary, both with respect to the exercise of the sacred ministry and with respect to discipline, excluding every privilege of exemption.
-11. For receiving the Sacraments, including marriage, every alien, whether with canonical quasi-domicile or with-out any canonical domicile is free to approach a missionary to migrants or the pastor of the place.
-12. For the purpose under discussions, under the designation of immigrants with no canonical quasi-domicile (advenae) or without any canonical domicile (peregrini) are included:
-13. All aliens—not excluding those who migrate from colonies—who for whatever length of time or whatever reason, including studies, are in a foreign land.
-14. Their direct descendants of the first degree of the direct line even though they have acquired the rights of citizenship.
+1\. Local Ordinaries are to provide for the spiritual care of aliens of every sort, whether they have a quasi-domicile or they have no domicile at all. Whenever, in this ministry it seems for one reason or another inexpedient to apply to the Consistorial Congregation for permission to establish parishes for various language or nationality groups, local Ordinaries are in the future to observe carefully the following rules:
+
+2\. Every local Ordinary is to make an earnest effort to entrust the spiritual care of aliens or immigrants to priests, whether secular or regular, of the same language or nationality, i.e., to missionaries to migrants who have, as stated above, a special license from the Consistorial Congregation.
+
+3\. In like manner, after consultation with the Consistorial Congregation, and having observed all other requirements of law, every local Ordinary shall try to grant these missionaries to migrants the authority to undertake the spiritual care of immigrant Catholics of their own language or nationality with no canonical quasi-domicile or without any canonical domicile.
+
+4\. a) A missionary to migrants, supplied with such authority in exercising the care of souls, is to be considered equal to a pastor. He therefore possesses, making due allowances, the same faculties for the spiritual care as a pastor and is bound by the same obligations and held to the requirements of the common law.
+
+5\. b) They must therefore in the first place, keep the parish records mentioned in Canon 470 of the Code of Canon Law. An accurate copy must be sent at the end of each year to the pastor of the place and to his Director.
+
+6\. a) Parochial authority of this type is personal, to be exercised over aliens or immigrants.
+
+7\. b) This same authority is cumulative on equal terms with that of the pastor of the place, even if it is exercised in a church or chapel or public or semi-public oratory, entrusted to the missionary to migrants.
+
+8\. a) Wherever possible, every missionary to migrants is to be assigned a church, chapel or public or semi-public oratory for carrying on the sacred ministry.
+
+9\. b) Otherwise, the Ordinary of the place shall set up regulations to enable the missionary to migrants freely and completely to fulfill his duties in another church, not excluding the parish church.
+
+10\. Missionaries to migrants are, while in this work, completely subject to the jurisdiction of the local Ordinary, both with respect to the exercise of the sacred ministry and with respect to discipline, excluding every privilege of exemption.
+
+11\. For receiving the Sacraments, including marriage, every alien, whether with canonical quasi-domicile or with-out any canonical domicile is free to approach a missionary to migrants or the pastor of the place.
+
+12\. For the purpose under discussions, under the designation of immigrants with no canonical quasi-domicile (advenae) or without any canonical domicile (peregrini) are included:
+
+13\. All aliens—not excluding those who migrate from colonies—who for whatever length of time or whatever reason, including studies, are in a foreign land.
+
+14\. Their direct descendants of the first degree of the direct line even though they have acquired the rights of citizenship.
 
 **CHAPTER V**
 
 **THE SPIRITUAL CARE TO BE PROVIDED MIGRANTS BY ITALIAN BISHOPS**
 
-1.  Since migration has been more common among Italians than other peoples, the Holy See has been especially active in caring for Italian migrants. We, by this Apostolic Letter, confirm those special regulations drawn up by our predecessors with regard to Italians emigrating to foreign countries, and warmly commend those norms to the zeal, well known to us, of Italian Ordinaries. We take this opportunity to urge these local Ordinaries earnestly to fulfill our wishes.
-2.  Let them keep in mind, as a rule in undertaking and accomplishing this work, those words with which St. Pius X praised the committees and agencies: “There are in Italy, at the service of migrants, numerous committees, as they are called, and agencies, as well as other institutions of the kind, established by the bishops, by members of the clergy, and by laymen themselves, men remarkably generous with their goods and much attached to Christian wisdom.”
-3.  Let them see that, at their initiative and under their direction, and with the co-operation of members of Catholic Action and of other Catholic groups devoted to the religious, moral and social aid of workers, there are set up committees and sub-committees for migrants, especially in those dioceses from which more migrants are departing.
-4.  Similarly, let them watch diligently that the committees thus established perform properly the duties assigned them and strive to attain their goal, the salvation of souls.
-5.  a\) The local Ordinaries must not neglect to recom­mend that the pastors, engaged in this phase of their ministry, with their usual diligence, should warn their people against the spiritual dangers which ordinarily con-front them as soon as they leave their homes, their families, and their country.
-6.  b\) Therefore, pastors shall give suitable catechetical instructions to those of their parishioners who are pre-paring to migrate.
-7.  The Ordinaries must not hesitate to urge pastors to keep in contact with their people even after they migrate.
-8.  The following precepts of the Consistorial Congregation are to be observed scrupulously: “The Ordinaries of Italy, especially through pastors and through the agencies devoted to the assistance of migrants, shall sec that departing migrants and travellers are given ecclesiastical identification cards.
-9.  They must do their best, using the methods that seem most useful, to ensure the success both of the Day for Italian Migrants, to be held annually, and of the collection for the spiritual assistance of migrants. This collection should be forwarded to the Consistorial Congregation.
-10. a\) We congratulate those Ordinaries of dioceses out-side Italy, whether in Europe or overseas, who try, through national or diocesan agencies and commissions to provide every alien with spiritual and moral help, receiving them, though they are strangers, as members of their own flock. We request that in parishes where all or most of the members are of Italian descent, there be celebrated an annual Day for Italian Migrants, as provide in No.48 for the Ordinaries of Italy, and to see that the collection taken be sent to the Consistorial Congregation in support of the work for Italian migrants.
-11. b\) Similarly, this should also be done with neces­sary modifications, for migrants of other nationalities and languages, so that a Day for Migrants may be celebrated throughout the whole Catholic world at one and the same time, on the first Sunday in Advent.
-12. The Ordinaries of Italy may wish, finally, to urge their pastors to offer one Mass a year for the Holy Father’s intention, rather than pro populo. They can call on them to adopt faithfully and voluntarily such a change since it is done for the benefit of Italian migrants.
+1\. Since migration has been more common among Italians than other peoples, the Holy See has been especially active in caring for Italian migrants. We, by this Apostolic Letter, confirm those special regulations drawn up by our predecessors with regard to Italians emigrating to foreign countries, and warmly commend those norms to the zeal, well known to us, of Italian Ordinaries. We take this opportunity to urge these local Ordinaries earnestly to fulfill our wishes.
+
+2\. Let them keep in mind, as a rule in undertaking and accomplishing this work, those words with which St. Pius X praised the committees and agencies: “There are in Italy, at the service of migrants, numerous committees, as they are called, and agencies, as well as other institutions of the kind, established by the bishops, by members of the clergy, and by laymen themselves, men remarkably generous with their goods and much attached to Christian wisdom.”
+
+3\. Let them see that, at their initiative and under their direction, and with the co-operation of members of Catholic Action and of other Catholic groups devoted to the religious, moral and social aid of workers, there are set up committees and sub-committees for migrants, especially in those dioceses from which more migrants are departing.
+
+4\. Similarly, let them watch diligently that the committees thus established perform properly the duties assigned them and strive to attain their goal, the salvation of souls.
+
+5\. a) The local Ordinaries must not neglect to recom­mend that the pastors, engaged in this phase of their ministry, with their usual diligence, should warn their people against the spiritual dangers which ordinarily con-front them as soon as they leave their homes, their families, and their country.
+
+6\. b) Therefore, pastors shall give suitable catechetical instructions to those of their parishioners who are pre-paring to migrate.
+
+7\. The Ordinaries must not hesitate to urge pastors to keep in contact with their people even after they migrate.
+
+8\. The following precepts of the Consistorial Congregation are to be observed scrupulously: “The Ordinaries of Italy, especially through pastors and through the agencies devoted to the assistance of migrants, shall sec that departing migrants and travellers are given ecclesiastical identification cards.
+
+9\. They must do their best, using the methods that seem most useful, to ensure the success both of the Day for Italian Migrants, to be held annually, and of the collection for the spiritual assistance of migrants. This collection should be forwarded to the Consistorial Congregation.
+
+10\. a) We congratulate those Ordinaries of dioceses out-side Italy, whether in Europe or overseas, who try, through national or diocesan agencies and commissions to provide every alien with spiritual and moral help, receiving them, though they are strangers, as members of their own flock. We request that in parishes where all or most of the members are of Italian descent, there be celebrated an annual Day for Italian Migrants, as provide in No.48 for the Ordinaries of Italy, and to see that the collection taken be sent to the Consistorial Congregation in support of the work for Italian migrants.
+
+11\. b) Similarly, this should also be done with neces­sary modifications, for migrants of other nationalities and languages, so that a Day for Migrants may be celebrated throughout the whole Catholic world at one and the same time, on the first Sunday in Advent.
+
+12\. The Ordinaries of Italy may wish, finally, to urge their pastors to offer one Mass a year for the Holy Father’s intention, rather than pro populo. They can call on them to adopt faithfully and voluntarily such a change since it is done for the benefit of Italian migrants.
 
 **CHAPTER VI**
 
 ** THE PONTIFICAL COLLEGE OF PRIESTS AT THE SERVICE OF ITALIAN MIGRANTS**
 
-1.  We recognize and approve the Pontifical College of priests, established to provide missionaries for Italians migrating abroad.
-2.  a\) We wish this College to remain dependent on the Consistorial Congregation, without, however, interfering with the jurisdiction of the Cardinal Vicar of Rome.
-3.  b\) It is up to the Consistorial Congregation itself:
-4.  To direct the College and watch over it, both with respect to the maintenance of discipline and to its fin­ances and to the administration of its material resources.
-5.  To make rules for it.
-6.  To appoint the Rector and other officials.
-7.  The special function of this College is to prepare young Italian priests of the secular clergy so that they may provide Italian migrants in foreign lands. Since this func­tion is the same as that of the Pious Society of the Missionaries of St. Charles, we permit the Rector and the other governing officials and professors to be chosen from priests of the same Pious Society, to which we freely entrust this College. The requirements of the preceding number are still to be observed.
-8.  We also direct that, in the future, no priest be entrusted with the spiritual care of migrants until he has been properly prepared for an adequate period of time in the College mentioned above, and is thus recognized as suitable for such duties by his qualities of mind and heart, his doctrine, his knowledge of languages, his sound health and other requirements.
-9.  Especially in those dioceses from which the majority of migrants are leaving, let the bishops be mindful that they should do what is most useful to the cause of religion and most pleasing to us, namely, that they voluntarily send to the Pontifical College those young priests who are outstand­ing for virtue and zeal for souls and who wish to devote themselves entirely to the welfare of migrants.
-10. Finally, in other regions and countries outside Italy to which migration is now taking place there may be a lack of adequate spiritual assistance for the Catholic migrants already there. In such areas the Ordinaries can, without doubt, provide this assistance if they follow care-fully the methods used for Italian migrants, as fully publicized in the Acts of the Roman Pontiffs, and hereby approved by us, with necessary modifications for the place and circumstances.
+1\. We recognize and approve the Pontifical College of priests, established to provide missionaries for Italians migrating abroad.
+
+2\. a) We wish this College to remain dependent on the Consistorial Congregation, without, however, interfering with the jurisdiction of the Cardinal Vicar of Rome.
+
+3\. b) It is up to the Consistorial Congregation itself:
+
+4\. To direct the College and watch over it, both with respect to the maintenance of discipline and to its fin­ances and to the administration of its material resources.
+
+5\. To make rules for it.
+
+6\. To appoint the Rector and other officials.
+
+7\. The special function of this College is to prepare young Italian priests of the secular clergy so that they may provide Italian migrants in foreign lands. Since this func­tion is the same as that of the Pious Society of the Missionaries of St. Charles, we permit the Rector and the other governing officials and professors to be chosen from priests of the same Pious Society, to which we freely entrust this College. The requirements of the preceding number are still to be observed.
+
+8\. We also direct that, in the future, no priest be entrusted with the spiritual care of migrants until he has been properly prepared for an adequate period of time in the College mentioned above, and is thus recognized as suitable for such duties by his qualities of mind and heart, his doctrine, his knowledge of languages, his sound health and other requirements.
+
+9\. Especially in those dioceses from which the majority of migrants are leaving, let the bishops be mindful that they should do what is most useful to the cause of religion and most pleasing to us, namely, that they voluntarily send to the Pontifical College those young priests who are outstand­ing for virtue and zeal for souls and who wish to devote themselves entirely to the welfare of migrants.
+
+10\. Finally, in other regions and countries outside Italy to which migration is now taking place there may be a lack of adequate spiritual assistance for the Catholic migrants already there. In such areas the Ordinaries can, without doubt, provide this assistance if they follow care-fully the methods used for Italian migrants, as fully publicized in the Acts of the Roman Pontiffs, and hereby approved by us, with necessary modifications for the place and circumstances.
 
 Therefore, having seriously considered the importance of this whole matter, and being impelled by the examples of Our Predecessors, and having given careful attention to the views of Adeodato G. Cardinal Piazza, Bishop of Sabina and Poggio Mirteto and Secretary of the Consistorial Congregation, we, hereby, do establish and prescribe all which is contained therein.
 

@@ -526,7 +526,7 @@ Já PAVEL, biskup katolické církve 
 
 Sdělení přednesená generálním tajemníkem   
 na 123. všeobecném zasedání   
-16. listopadu 1964 
+16\. listopadu 1964 
 
 Byla položena otázka, jaká *teologická kvalifikace* přísluší nauce vyložené v předloze *O církvi* a postoupené k hlasování. 
 

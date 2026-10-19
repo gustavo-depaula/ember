@@ -113,10 +113,13 @@ In der Tat gesellt sich Christus in diesem großen Werk, in dem Gott vollkommen 
 
 36\.
 
-1.  § 1. Der Gebrauch der lateinischen Sprache soll in den lateinischen Riten erhalten bleiben, soweit nicht Sonderrecht entgegensteht.
-2.  § 2. Da bei der Messe, bei der Sakramentenspendung und in den anderen Bereichen der Liturgie nicht selten der Gebrauch der Muttersprache für das Volk sehr nützlich sein kann, soll es gestattet sein, ihr einen weiteren Raum zuzubilligen, vor allem in den Lesungen und Hinweisen und in einigen Orationen und Gesängen gemäß den Regeln, die hierüber in den folgenden Kapiteln im einzelnen aufgestellt werden.
-3.  § 3. Im Rahmen dieser Regeln kommt es der für die einzelnen Gebiete zuständigen kirchlichen Autorität zu, im Sinne von Art. 22 § 2 - gegebenenfalls nach Beratung mit den Bischöfen der angrenzenden Gebiete des gleichen Sprachraumes - zu bestimmen, ob und in welcher Weise die Muttersprache gebraucht werden darf. Die Beschlüsse bedürfen der Billigung, das heißt der Bestätigung durch den Apostolischen Stuhl.
-4.  § 4. Die in der Liturgie gebrauchte muttersprachliche Übersetzung des lateinischen Textes muß von der obengenannten für das Gebiet zuständigen Autorität approbiert werden.
+1\. § 1. Der Gebrauch der lateinischen Sprache soll in den lateinischen Riten erhalten bleiben, soweit nicht Sonderrecht entgegensteht.
+
+2\. § 2. Da bei der Messe, bei der Sakramentenspendung und in den anderen Bereichen der Liturgie nicht selten der Gebrauch der Muttersprache für das Volk sehr nützlich sein kann, soll es gestattet sein, ihr einen weiteren Raum zuzubilligen, vor allem in den Lesungen und Hinweisen und in einigen Orationen und Gesängen gemäß den Regeln, die hierüber in den folgenden Kapiteln im einzelnen aufgestellt werden.
+
+3\. § 3. Im Rahmen dieser Regeln kommt es der für die einzelnen Gebiete zuständigen kirchlichen Autorität zu, im Sinne von Art. 22 § 2 - gegebenenfalls nach Beratung mit den Bischöfen der angrenzenden Gebiete des gleichen Sprachraumes - zu bestimmen, ob und in welcher Weise die Muttersprache gebraucht werden darf. Die Beschlüsse bedürfen der Billigung, das heißt der Bestätigung durch den Apostolischen Stuhl.
+
+4\. § 4. Die in der Liturgie gebrauchte muttersprachliche Übersetzung des lateinischen Textes muß von der obengenannten für das Gebiet zuständigen Autorität approbiert werden.
 
 **D) Regeln zur Anpassung an die Eigenart und Überlieferungen der Völker**
 
@@ -320,9 +323,11 @@ In besonderen Fällen und aus gerechtem Grunde können die Ordinarien ihre Unter
 
 101\.
 
-1.  § 1. Gemäß jahrhundertealter Überlieferung des lateinischen Ritus sollen die Kleriker beim Stundengebet die lateinische Sprache beibehalten. Jedoch ist der Ordinarius ermächtigt, in einzelnen Fällen jenen Klerikern, für die der Gebrauch der lateinischen Sprache ein ernstes Hindernis für den rechten Vollzug des Stundengebetes bedeutet, die Benützung einer nach Maßgabe von Art. 36 geschaffenen muttersprachlichen Übersetzung zu gestatten. 
-2.  § 2. Der zuständige Obere kann den Chorfrauen sowie den Mitgliedern der Orden und ordensähnlichen Gemeinschaften aller Art, seien es Männer, die nicht Kleriker sind, seien es Frauen, gestatten, daß sie für das Stundengebet auch im Chor die Muttersprache benutzen können, sofern die Übersetzung approbiert ist.
-3.  § 3. Jeder zum Stundengebet verpflichtete Kleriker, der zusammen mit einer Gruppe von Gläubigen oder mit den in § 2 Genannten das Stundengebet in der Muttersprache feiert, erfüllt seine Pflicht, sofern der Text der Übertragung approbiert ist.
+1\. § 1. Gemäß jahrhundertealter Überlieferung des lateinischen Ritus sollen die Kleriker beim Stundengebet die lateinische Sprache beibehalten. Jedoch ist der Ordinarius ermächtigt, in einzelnen Fällen jenen Klerikern, für die der Gebrauch der lateinischen Sprache ein ernstes Hindernis für den rechten Vollzug des Stundengebetes bedeutet, die Benützung einer nach Maßgabe von Art. 36 geschaffenen muttersprachlichen Übersetzung zu gestatten. 
+
+2\. § 2. Der zuständige Obere kann den Chorfrauen sowie den Mitgliedern der Orden und ordensähnlichen Gemeinschaften aller Art, seien es Männer, die nicht Kleriker sind, seien es Frauen, gestatten, daß sie für das Stundengebet auch im Chor die Muttersprache benutzen können, sofern die Übersetzung approbiert ist.
+
+3\. § 3. Jeder zum Stundengebet verpflichtete Kleriker, der zusammen mit einer Gruppe von Gläubigen oder mit den in § 2 Genannten das Stundengebet in der Muttersprache feiert, erfüllt seine Pflicht, sofern der Text der Übertragung approbiert ist.
 
 **KAPITEL V**
 

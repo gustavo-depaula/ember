@@ -6,37 +6,27 @@
 
 **UWAGI O RAPORCIE KOŃCOWYM "ARCIC I"**
 
-1.  **Ocena ogólna**
-    1.  Aspekty pozytywne
-    2.  Aspekty negatywne
-2.  **Trudności doktrynalne**
+1\. **Ocena ogólna**
+
+1\. Aspekty pozytywne
+
+2\. Aspekty negatywne
+
+2\. **Trudności doktrynalne**
 
                                 I. Eucharystia
 
-2.  1.  1.  Eucharystia jako ofiara
-        2.  Rzeczywista obecność
-        3.  Trwałość i adoracja Eucharystii
-
                              II. Urząd i święcenia
-
-2.  2.  1.  Kapłaństwo urzędowe
-        2.  Sakramentalność i święcenia
-        3.  Święcenia kobiet
 
                            III. Autorytet w Kościele
 
-2.  3.  1.  Interpretacja tekstów Piotrowych Nowego Testamentu
-        2.  Prymat i jurysdykcja Biskupa Rzymu
-        3.  Nieomylność i wolność od braku
-        4.  Sobór Powszechny
-        5.  "Recepcja"
-3.  **Inne zagadnienia do uwzględnienia w przyszłym dialogu**
+2\. **Inne zagadnienia do uwzględnienia w przyszłym dialogu**
 
                               0. Sukcesja apostolska
 
                               1. Nauczanie moralne
 
-4.  **Uwagi końcowe**
+4\. **Uwagi końcowe**
 
 Współprzewodniczący Międzynarodowej Komisji Anglikańsko-Rzymskokatolickiej ("ARCIC") przesłali do Jego Świątobliwości Papieża Jana Pawła II *Raport końcowy*, wynik dwunastu lat pracy nad zagadnieniami doktryny eucharystycznej, urzędu i święceń, oraz autorytetu w Kościele. Na prośbę Ojca Świętego Święta Kongregacja Nauki Wiary przeprowadziła analizę doktrynalną *Raportu*, i jej wnioski są zawarte w niniejszych uwagach.
 

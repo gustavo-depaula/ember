@@ -116,7 +116,7 @@ DOCTOR OF THE CHURCH
 
 *Devotion to Truth, Harmony, Peace*
 
-34. All in all, these Epistles and Sermons are an eloquent testimony to St. Leo's passionate devotion, in thought and feeling, word and action, to the welfare of the Catholic Church and the cause of truth, harmony and peace.
+34\. All in all, these Epistles and Sermons are an eloquent testimony to St. Leo's passionate devotion, in thought and feeling, word and action, to the welfare of the Catholic Church and the cause of truth, harmony and peace.
 
 THE SECOND VATICAN COUNCIL AND UNITY
 

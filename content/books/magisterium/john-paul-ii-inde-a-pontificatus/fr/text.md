@@ -42,7 +42,7 @@ Le Conseil établit aussi le dialogue avec ceux qui ne croient pas en Dieu ou ne
 **I.** Le **Conseil Pontifical de la Culture** aura deux sections:
 
 1\. **Foi et Culture**.  
-2. **Dialogue avec les cultures.**
+2\. **Dialogue avec les cultures.**
 
 La section *« Foi et Culture »* poursuivra l'activité conduite jusqu'à présent par le Conseil Pontifical de la Culture.
 

@@ -80,7 +80,7 @@ A "gyógyítás karizmáját" nem lehet a hívők egy bizonyos csoportjához hoz
 
 II\. Fegyelmi rendelkezések
 
-1. kán. - Minden hívőnek szabad imában Istentől gyógyulást kérni. Amennyiben ilyen imádságok templomban vagy megszentelt helyen történnek, méltányos, hogy felszentelt hivatalos személy vezesse azokat.
+1\. kán. - Minden hívőnek szabad imában Istentől gyógyulást kérni. Amennyiben ilyen imádságok templomban vagy megszentelt helyen történnek, méltányos, hogy felszentelt hivatalos személy vezesse azokat.
 
 2\. kán. - Akkor számítanak a gyógyító imák liturgikusnak, ha az illetékes egyházi hatóság által jóváhagyott liturgikus könyvek tartalmazzák azokat; ellenkező esetben nem liturgikus gyógyító imáról van szó.
 

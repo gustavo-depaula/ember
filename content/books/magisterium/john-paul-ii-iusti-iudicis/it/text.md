@@ -66,11 +66,11 @@ Articolo 5.
 Articolo 6.
 
 § 1. Inoltre sono espunti immediatamente dall’Albo:  
-1. coloro che notoriamente vengono meno alla fede cattolica.  
-2. coloro che vivono in concubinato o che hanno contratto solo il vincolo civile o perseverano manifestamente in grave peccato;  
-3. coloro che abbiano aderito ad associazioni di qualsiasi genere, che tramano contro la Chiesa.  
-4. coloro che aderiscono o collaborano con movimenti o associazioni ispirati ad ideologie o prassi incompatibili con la dottrina della fede e della morale cristiana o che propugnano programmi politici o progetti legislativi contrari ai precetti della legge naturale e cristiana.  
-5. coloro che pubblicamente contrastano o disattendono le istruzioni dottrinali e pastorali delle legittime autorità ecclesiastiche.
+1\. coloro che notoriamente vengono meno alla fede cattolica.  
+2\. coloro che vivono in concubinato o che hanno contratto solo il vincolo civile o perseverano manifestamente in grave peccato;  
+3\. coloro che abbiano aderito ad associazioni di qualsiasi genere, che tramano contro la Chiesa.  
+4\. coloro che aderiscono o collaborano con movimenti o associazioni ispirati ad ideologie o prassi incompatibili con la dottrina della fede e della morale cristiana o che propugnano programmi politici o progetti legislativi contrari ai precetti della legge naturale e cristiana.  
+5\. coloro che pubblicamente contrastano o disattendono le istruzioni dottrinali e pastorali delle legittime autorità ecclesiastiche.
 
 § 2. In questi casi la questione deve essere deferita al Supremo Tribunale della Segnatura apostolica, che procede d’ufficio a norma del diritto ad applicare l’espunzione dall’albo.
 

@@ -116,7 +116,7 @@ A. ***The New Testament recognizes the authority of the Sacred Scriptures of the
 
 3\. The New Testament writings were never presented as something entirely new. On the contrary, they attest their rootedness in the long religious experience of the people of Israel, an experience recorded in diverse forms in the sacred books which comprise the Jewish Scriptures. The New Testament recognises their divine authority. This recognition manifests itself in different ways, with different degrees of explicitness.
 
-1. *Implicit recognition of authority*
+1\. *Implicit recognition of authority*
 
 Beginning from the less explicit, which nevertheless is revealing, we notice that the same language is used. The Greek of the New Testament is closely dependent on the Greek of the Septuagint, in grammatical turns of phrase which were influenced by the Hebrew, or in the vocabulary, of a religious nature in particular. Without a knowledge of Septuagint Greek, it is impossible to ascertain the exact meaning of many important New Testament terms.⁵
 
@@ -124,7 +124,7 @@ This linguistic relationship extends to numerous expressions borrowed by the New
 
 What is true of the Book of Revelation is true also — although to a lesser degree — of the Gospels, the Acts of the Apostles and the Letters.⁶ The difference is that in these writings we find, in addition, many *explicit quotations*, that is, introduced as such.⁷ In this way they clearly indicate the more important borrowings, recognising thereby the authority of the Jewish Bible as divine revelation.
 
-2. *Explicit recourse to the authority of the Jewish Scriptures*
+2\. *Explicit recourse to the authority of the Jewish Scriptures*
 
 4\. This recognition of authority takes different forms depending on the case. Frequently, in a revelatory context the simple verb *legei,* “it says”, is found, without any expressed subject,⁸ as in later rabbinic writings, but the context shows that a subject conferring great authority on the text is to be understood: Scripture, the Lord or Christ.⁹ At other times the subject is expressed: it is “Scripture”, “the Law”, or “Moses” or “David”, with the added note that he was inspired, “the Holy Spirit” or “the prophet”, frequently “Isaiah”, sometimes “Jeremiah”, but it is also “the Holy Spirit” or “the Lord” as the prophets used to say.¹⁰ Twice, Matthew has a complex formula indicating both the divine speaker and the human spokesperson: “what had been spoken by the Lord through the prophet...” (Mt 1:22; 2:15). At other times the mention of the Lord remains implicit, suggested only by the preposition *dia* “through”, referring to the human spokesperson. In these texts of Matthew, the verb “to say” in the present tense results in presenting the quotations from the Jewish Bible as living words possessing perennial authority.
 
@@ -140,13 +140,13 @@ B. ***The New Testament attests conformity to the Jewish Scriptures***
 
 6\. A twofold conviction is apparent in other texts: on the one hand, what is written in the Jewish Scriptures must of necessity be fulfilled because it reveals the plan of God which cannot fail to be accomplished; on the other hand, the life, death and resurrection of Christ are fully in accord with the Scriptures.
 
-1. *Necessity of fulfilling the Scriptures*
+1\. *Necessity of fulfilling the Scriptures*
 
 The clearest expression of this is found in the words addressed by the risen Christ to his disciples, in the Gospel of Luke: *“These are my words that I spoke to you while I was still with you — that everything written about me in the Law of Moses, the Prophets, and the Psalms must (dei)* be fulfilled” (Lk 24:44). This assertion shows the basis of the necessity (*dei,* “must”) for the paschal mystery of Jesus, affirmed in numerous passages in the Gospels: “The Son of Man *must* undergo great suffering...and after three days rise again”;¹⁵ “But how then would the Scriptures be fulfilled which say it *must* happen this way?” (Mt 26:54); “This Scripture *must* be fulfilled in me” (Lk 22:37).
 
 Because what is written in the Old Testament “must” be fulfilled, the events take place “*so that*” it is fulfilled. This is what Matthew often expresses in the infancy narrative, later on in Jesus' public life¹⁶ and for the whole passion (Mt 26:56). Mark has a parallel to the last mentioned passage in a powerfully elliptic phrase: “But let the Scriptures be fulfilled” (Mk 14:49). Luke does not use this expression but John has recourse to it almost as often as Matthew does.¹⁷ The Gospels' insistence on the purpose of these events “so that the Scriptures be fulfilled”¹⁸ attributes the utmost importance to the Jewish Scriptures. It is clearly understood that these events would be meaningless if they did not correspond to what the Scriptures say. It would not be a question there of the realisation of God's plan.
 
-2. *Conformity to the Scriptures*
+2\. *Conformity to the Scriptures*
 
 7\. Other texts affirm that the whole mystery of Christ is in conformity with the Jewish Scriptures. The early Christian preaching is summarised in the kerygmatic formula recounted by Paul: “For I handed on to you as of first importance what I in turn had received: that Christ died for our sins *in accordance with the Scriptures,* and that he was buried, and that he was raised on the third day *in accordance with the Scriptures*, and that he appeared...” (1 Co 15:3-5). He adds: “Whether, then, it was I or they, this is what we preach and this is what you believed” (1 Co 15:11). The Christian faith, then, is not based solely on events, but on the conformity of these events to the revelation contained in the Jewish Scriptures. On his journey towards the passion, Jesus says: “The Son of Man goes as it is written of him” (Mt 26:24; Mk 14:21). After his resurrection, Jesus himself “interpreted to them the things about himself in all the Scriptures”.¹⁹ In his discourse to the Jews of Antioch in Pisidia, Paul recalls these events by saying that “the residents of Jerusalem and their leaders did not recognise him \[Jesus\] or understand the words of the prophets that are read every sabbath, they fulfilled these words by condemning him” (Ac 13:27). The New Testament shows by these declarations that it is indissolubly linked to the Jewish Scriptures.
 
@@ -160,7 +160,7 @@ The Fourth Gospel expresses a similar perspective: Jesus attributes to the writi
 
 In the Acts of the Apostles, the kerygmatic discourses of the Church leaders — Peter, Paul and Barnabas, James — place the events of the Passion, Resurrection, Pentecost and the missionary outreach of the Church in perfect continuity with the Jewish Scriptures.²⁰
 
-3. *Conformity and Difference*
+3\. *Conformity and Difference*
 
 8\. Although it never explicitly affirms the authority of the Jewish Scriptures, the Letter to the Hebrews clearly shows that it recognises this authority by repeatedly quoting texts to ground its teaching and exhortations. It contains numerous affirmations of conformity to prophetic revelation, but also affirmations of conformity that include aspects of non-conformity as well. This was already the case in the Pauline Letters. In the Letters to Galatians and Romans, the apostle argues from the Law to prove that faith in Christ has put an end to the Law's regime. He shows that the Law as revelation predicted its own end as an institution necessary for salvation.²¹ The most important text on this subject is Rm 3:21 where the apostle affirms that the manifestation of the justice of God in the justification offered by faith in Christ is brought about “apart from the Law”, but is nevertheless “attested by the Law and the Prophets”. In a similar way, the Letter to the Hebrews shows that the mystery of Christ fulfils the prophecies and what was prefigured in the Jewish Scriptures, but, at the same time, affirms non-conformity to the ancient institutions: the glorified Christ is at one and the same time in conformity with the words of Ps 109 (110):1,4, and in non-conformity with the levitical priesthood (cf. Heb 7:11,28).
 
@@ -170,7 +170,7 @@ C. ***Scripture and Oral Tradition in Judaism and Christianity***
 
 9\. In many religions there exists a tension between Scripture and Tradition. This is true of Oriental Religions (Hinduism, Buddhism, etc.) and Islam. The written texts can never express the Tradition in an exhaustive manner. They have to be completed by additions and interpretations which are eventually written down but are subject to certain limitations. This phenomenon can be seen in Christianity as well as in Judaism, with developments that are partly similar and partly different. A common trait is that both share a significant part of the same canon of Scripture.
 
-1. *Scripture and Tradition in the Old Testament and Judaism*
+1\. *Scripture and Tradition in the Old Testament and Judaism*
 
 *Tradition gives birth to Scripture.* The origin of Old Testament texts and the history of the formation of the canon have been the subject of important works in the last few years. A certain consensus has been reached according to which by the end of the first century of our era, the long process of the formation of the Hebrew Bible was practically completed. This canon comprised the *Tôr~h,* the Prophets and the greater part of the “Writings”. To determine the origin of the individual books is often a difficult task. In many cases, one must settle for hypotheses. These are, for the most part, based on results furnished by Form, Tradition and Redaction Criticism. It can be deduced from them that ancient precepts were assembled in collections which were gradually inserted in the books of the Pentateuch. The older narratives were likewise committed to writing and arranged together. Collections of narrative texts and rules of conduct were combined. Prophetic messages were collected and compiled in books bearing the prophets' names. The sapiential texts, Psalms and didactic narratives were likewise collected much later.
 
@@ -180,7 +180,7 @@ In this manner, written texts gave rise to further developments. Between written
 
 *The Limits of Tradition.* When it was put into writing to be joined to Scripture, a normative Tradition, for all that, never enjoyed the same authority as Scripture. It did not become part of the “Writings which soil the hands”, that is, “which are sacred” and was not accepted as such in the liturgy. The Mishna, the Tosepta and the Talmud have their place in the synagogue as texts to be studied, but they are not read in the liturgy. Generally, a tradition is evaluated by its conformity to the *Tôr~h.* The reading of the *Tôr~h* occupies a privileged place in the liturgy of the Synagogue. To it are added pericopes chosen from the Prophets. According to ancient Jewish belief, the *Tôr~h* was conceived before the creation of the world. The Samaritans accept only the *Tôr~h* as Sacred Scripture, while the Sadduccees reject every normative Tradition outside the Law and the Prophets. Conversely, Pharisaic and Rabbinic Judaism accept, alongside the written Law, an oral Law given simultaneously to Moses and enjoying the same authority. A tract in the Mishna states: “At Sinai, Moses received the oral Law and handed it on to Joshua, and Joshua to the ancestors, and the ancestors to the prophets, and the prophets handed it on to members of the Great Synagogue” (*Aboth* 1:1). Clearly, a striking diversity is apparent from the manner of conceiving the role of Tradition.
 
-2. *Scripture and Tradition in Early Christianity*
+2\. *Scripture and Tradition in Early Christianity*
 
 10\. *Tradition gives birth to Scripture.* In early Christianity, an evolution similar to that of Judaism can be observed with, however, an initial difference: early Christians had the Scriptures from the very beginning, since as Jews, they accepted Israel's Bible as Scripture. But for them an oral tradition was added on, “the teaching of the Apostles” (Ac 2:42), which handed on the words of Jesus and the narrative of events concerning him. The Gospel catechesis took shape only gradually. To better ensure their faithful transmission, the words of Jesus and the narratives were put in writing. Thus, the way was prepared for the redaction of the Gospels which took place some decades after the death and resurrection of Jesus. In addition, professions of faith were also composed, together with the liturgical hymns which are found in the New Testament Letters. The Letters of Paul and the other apostles or leaders were first read in the church for which they were written (cf. 1 Th 5:27), were passed on to other churches (cf. Col 4:16), preserved to be read on other occasions and eventually accepted as Scripture (cf. 2 P 3:15-16) and attached to the Gospels. In this way, the canon of the New Testament was gradually formed within the apostolic Tradition.
 
@@ -192,7 +192,7 @@ Having affirmed that the apostolic preaching is found “expressed in a special 
 
 *The Limits of the additional contribution of Tradition.* To what extent can there be in the Christian Church a tradition that is a material addition to the word of Scripture? This question has long been debated in the history of theology. The Second Vatican Council appears to have left the matter open, but at least declined to speak of “two sources of revelation”, which would be Scripture and Tradition; it affirmed instead that “Sacred Tradition and Sacred Scripture constitute a unique sacred deposit of the Word of God which is entrusted to the Church” (*[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)* 10). It likewise rejected the idea of a tradition completely independent of Scripture. On one point at least, the Council mentions an additional contribution made by Tradition, one of great importance: Tradition “enabled the Church to recognise the full canon of the Sacred Books” (*[DV](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html)* 8). Here, the extent to which Scripture and Tradition are inseparable can be seen.
 
-3. *Relationship between the two perspectives*
+3\. *Relationship between the two perspectives*
 
 11\. As we have shown, there is a corresponding relationship between Scripture and Tradition in Judaism and Christianity. On one point, there is a greater correspondence, since both religions share a common heritage in the “Sacred Scripture of Israel”.²³
 
@@ -204,7 +204,7 @@ What distinguishes early Christianity from all these other currents is the convi
 
 D. ***Jewish Exegetical Methods employed in the New Testament***
 
-1. *Jewish Methods of Exegesis*
+1\. *Jewish Methods of Exegesis*
 
 12\. Judaism derived from the Scriptures its understanding of God and of the world, as well as of God's plans. The clearest expression of how Jesus' contemporaries interpreted the Scriptures are given in the Dead Sea Scrolls, manuscripts copied between the second century B.C. and 60 A.D., and so are therefore close to Jesus' ministry and the formation of the Gospels. However, these documents express only one aspect of the Jewish tradition; they come from within a particular current and do not represent the whole tradition.
 
@@ -212,13 +212,13 @@ The earliest rabbinic attestation of exegetical method based on Old Testament te
 
 Another method of using Scripture can be seen in first century historical writings, particularly Josephus, but it had already been employed in the Old Testament itself. It consists of using biblical terms to describe events in order to illuminate their meaning. Thus, the return from the Babylonian Exile is described in terms that evoke the liberation from Egyptian oppression at the time of the Exodus (Is 43:16-21). The final restoration of Zion is represented as a new Eden.²⁴ At Qumran, a similar technique was widely used.
 
-2. *Exegesis at Qumran and in the New Testament*
+2\. *Exegesis at Qumran and in the New Testament*
 
 13\. With regard to form and method, the New Testament, especially the Gospels, presents striking resemblances to Qumran in its use of Scripture. The formulae for introducing quotations are often the same, for example: “thus it is written”, “as it is written”, “in conformity with what was said”. The similarity in scriptural usage derives from an outlook common to both the Qumran community and that of the New Testament. Both were eschatological communities that saw biblical prophecies being fulfilled in their own time, in a manner surpassing the expectation and understanding of the Prophets who had originally spoken them. Both were convinced that the full understanding of the prophecies had been revealed to their founder and transmitted by him, “the Teacher of Righteousness” at Qumran, Jesus for Christians.
 
 Exactly as in the Dead Sea Scrolls, certain biblical texts are used in the New Testament in their literal and historical sense, while others are applied in a more or less forced manner, to the contemporary situation. Scripture was understood as containing the very words of God. Some interpretations, in both texts, take a word and separate it from its context and original meaning to give it a significance that does not correspond to the principles of modern exegesis. An important difference, however, should be noted. In the Qumran texts, the point of departure is Scripture. Certain texts — for example the *pesher* of Habakkuk — are an extended commentary on a biblical text, which is then applied, verse by verse, to a contemporary situation; others are collections of texts dealing with the same theme, for example, *11 Q Melchisedeq* on the messianic era. In the New Testament, in contrast, the point of departure is the Christ event. It does not apply Scripture to the present, but explains and comments on the Christ event in the light of Scripture. The only points in common are the techniques employed, often with a striking similarity, as in Rm 10:5-13 and in the Letter to the Hebrews.²⁵
 
-3. *Rabbinic Methods in the New Testament*
+3\. *Rabbinic Methods in the New Testament*
 
 14\. Traditional Jewish methods of scriptural argumentation for the purpose of establishing rules of conduct — methods later codified by the rabbis — are frequently used in the words of Jesus transmitted in the Gospels and in the Epistles. Those occurring most often are the first two *middoth* (“rules”) of Hillel, *qal wa-homer* and *gezerah shawah*.²⁶ These correspond *more or less* to arguments *a fortiori* and by *analogy* respectively.
 
@@ -230,7 +230,7 @@ Rabbinic argumentation is also found in the Letters to the Ephesians and Hebrews
 
 An particular form of Jewish exegesis found in the New Testament is the homily delivered in the synagogue. According to Jn 6:59, the Bread of Life discourse was delivered by Jesus in the synagogue at Capernaum. Its form closely corresponds to synagogal homilies of the first century: an explanation of a Pentateuchal text supported by a prophetic text; each part of the text is explained; slight adjustments to the form of words are made to give a new interpretation. Traces of this model can perhaps also be found in the missionary discourses in the Acts of the Apostles, especially in Paul's homily in the synagogue of Pisidian Antioch (Ac 13:17-41).
 
-4. *Important Allusions to the Old Testament*
+4\. *Important Allusions to the Old Testament*
 
 15\. The New Testament frequently uses allusions to biblical events as a means of bringing out the meaning of the events of Jesus' life. The narratives of Jesus' infancy in the Gospel of Matthew do not disclose their full meaning unless read against the background of biblical and post-biblical narratives concerning Moses. The infancy gospel of Luke is more in the style of biblical allusions found in the first century Psalms of Solomon or in the Qumran Hymns; the Canticles of Mary, Zechariah and Simeon can be compared to Qumran hymns.²⁹ Events in the life of Jesus, like the theophany on the occasion of his baptism, the transfiguration, the multiplication of the loaves and the walking on the water, are similarly narrated with deliberate allusions to Old Testaments events and narratives. The reaction of listeners to Jesus' parables (for example, the parable of the murderous tenants, Mt 21:33-43 and par.) shows that they were accustomed to using biblical imagery as a technique to express a message or give a lesson.
 
@@ -240,7 +240,7 @@ E. ***The Extension of the Canon of Scripture***
 
 16\. The title “canon” (Greek *kan(o-)n,* “rule”) means the list of books which are accepted as inspired by God and having a regulatory function for faith and morals. We are only concerned here with the formation of the canon of the Old Testament.
 
-1. *In Judaism*
+1\. *In Judaism*
 
 *There are differences between the Jewish canon of Scripture*³⁰ “Law”, *Nebi'im*, “Prophets”, and *Ketubim,* other “Writings”. The number 24 was often reduced to 22, the number of letters in the Hebrew alphabet. In the Christian canon, to these 24-22 books correspond 39 books, called “protocanonical”. The numerical difference is explained by the fact that the Jews regarded as one book several writings that are distinct in the Christian canon, the writings of the Twelve Prophets, for example.\] and the Christian canon of the Old Testament.³¹ To explain these differences, it was generally thought that at the beginning of the Christian era, there existed two canons within Judaism: a Hebrew or Palestinian canon, and an extended Alexandrian canon in Greek — called the Septuagint — which was adopted by Christians.
 
@@ -248,11 +248,11 @@ Recent research and discoveries, however, have cast doubt on this opinion. It no
 
 Many of the books belonging to the third group of religious texts, not yet fixed, were regularly read in Jewish communities during the first century A.D. They were translated into Greek and circulated among Hellenistic Jews, both in Palestine and in the diaspora.
 
-2. *In the Early Church*
+2\. *In the Early Church*
 
 17\. Since the first Christians were for the most part Palestinian Jews, either “Hebrew” or “Hellenistic” (cf. Ac 6:1), their views on Scripture would have reflected those of their environment, but we are poorly informed on the subject. Nevertheless, the writings of the New Testament suggest that a sacred literature wider than the Hebrew canon circulated in Christian communities. Generally, the authors of the New Testament manifest a knowledge of the deuterocanonical books and other non-canonical ones since the number of books cited in the New Testament exceeds not only the Hebrew canon, but also the so-called Alexandrian canon.³⁴ When Christianity spread into the Greek world, it continued to use sacred books received from Hellenistic Judaism.³⁵ Although Hellenistic Christians received their Scriptures from the Jews in the form of the Septuagint, we do not know the precise form, because the Septuagint has come down to us only in Christian writings. What the Church seems to have received was a body of Sacred Scripture which, within Judaism, was in the process of becoming canonical. When Judaism came to close its own canon, the Christian Church was sufficiently independent from Judaism not to be immediately affected. It was only at a later period that a closed Hebrew canon began to exert influence on how Christians viewed it.
 
-3. *Formation of the Christian Canon*
+3\. *Formation of the Christian Canon*
 
 18\. The Old Testament of the early Church took different shapes in different regions as the diverse lists from Patristic times show. The majority of Christian writings from the second century, as well as manuscripts of the Bible from the fourth century onwards, made use of or contain a great number of Jewish sacred books, including those which were not admitted into the Hebrew canon. It was only after the Jews had defined their canon that the Church thought of closing its own Old Testament canon. But we are lacking information on the procedure adopted and the reasons given for the inclusion of this or that book in the canon. It is possible, nevertheless, to trace in a general way the evolution of the canon in the Church, both in the East and in the West.
 
@@ -270,13 +270,13 @@ Based on a time-honoured tradition, the Councils of Florence in 1442 and Trent i
 
 A. ***Christian Understanding of the relationships between the Old and New Testaments***
 
-1. *Affirmation of a reciprocal relationship*
+1\. *Affirmation of a reciprocal relationship*
 
 By “Old Testament” the Christian Church has no wish to suggest that the Jewish Scriptures are outdated or surpassed.³⁷ On the contrary, it has always affirmed that the Old Testament and the New Testament are inseparable. Their first relationship is precisely that. At the beginning of the second century, when Marcion wished to discard the Old Testament, he met with vehement resistance from the post-apostolic Church. Moreover, his rejection of the Old Testament led him to disregard a major portion of the New — he retained only the Gospel of Luke and some Pauline Letters — which clearly showed that his position was indefensible. It is in the light of the Old Testament that the New understands the life, death and glorification of Jesus (cf. 1 Co 15:3-4).
 
 This relationship is also reciprocal: on the one hand, the New Testament demands to be read in the light of the Old, but it also invites a “re-reading” of the Old in the light of Jesus Christ (cf. Lk 24:45). How is this “re-reading” to be done? It extends to “all the Scriptures” (Lk 24:27) to “everything written in the Law of Moses, the Prophets and the Psalms” (24:44), but the New Testament only offers a limited number of examples, not a methodology.
 
-2. *Re-reading the Old Testament in the light of Christ*
+2\. *Re-reading the Old Testament in the light of Christ*
 
 The examples given show that different methods were used, taken from their cultural surroundings, as we have seen above.³⁸ The texts speak of typology³⁹ and of reading in the light of the Spirit (2 Co 3:14-17). These suggest a twofold manner of reading, in its original meaning at the time of writing, and a subsequent interpretation in the light of Christ.
 
@@ -284,7 +284,7 @@ In Judaism, re-readings were commonplace. The Old Testament itself points the wa
 
 This new interpretation does not negate the original meaning. Paul clearly states that “the very words of God were entrusted” to the Israelites (Rm 3:2) and he takes it for granted that these words of God could be read and understood before the coming of Christ. Although he speaks of a blindness of the Jews with regard to “the reading of the Old Testament” (2 Co 3:14), he does not mean a total incapacity to read, only an inability to read it in the light of Christ.
 
-3. *Allegorical Re-reading*
+3\. *Allegorical Re-reading*
 
 20\. The Hellenistic world had different methods of which Christian exegesis made use as well. The Greeks often interpreted their classical texts by allegorising them. Commenting on ancient poetry like the works of Homer, where the gods seem to act like capricious and vindictive humans, scholars explained this in a more religious and morally acceptable way by emphasising that the poet was expressing himself in an allegorical manner when he wished to describe only human psychological conflicts, the passions of the soul, using the fiction of war between the gods. In this case, a new and more spiritual meaning replaced the original one.
 
@@ -296,7 +296,7 @@ The Fathers of the Church and the medieval authors, in contrast, make systematic
 
 Certainly, the proposed teaching had a certain value because it was animated by faith and guided by a comprehensive understanding of Scripture read in the Tradition. But such teaching was not based on the commentated text. It was superimposed on it. It was inevitable, therefore, that at the moment of its greatest success, it went into irreversible decline.
 
-4. *Return to the Literal Sense*
+4\. *Return to the Literal Sense*
 
 Thomas Aquinas saw clearly what underpinned allegorical exegesis: the commentator can only discover in a text what he already knows, and in order to know it, he had to find it in the literal sense of another text. From this Thomas Aquinas drew the conclusion: a valid argument cannot be constructed from the allegorical sense, it can only be done from the literal sense.⁴⁰
 
@@ -304,7 +304,7 @@ Starting from the Middle Ages, the literal sense has been restored to a place of
 
 And so an inverse process was set in motion: the relation between the Old Testament and Christian realities was now restricted to a limited number of Old Testament texts. Today, there is the danger of going to the opposite extreme of denying outright, together with the excesses of the allegorical method, all Patristic exegesis and the very idea of a Christian and Christological reading of Old Testament texts. This gave rise in contemporary theology, without as yet any consensus, to different ways of re-establishing a Christian interpretation of the Old Testament that would avoid arbitrariness and respect the original meaning.
 
-5. *The Unity of God's Plan and the Idea of Fulfilment*
+5\. *The Unity of God's Plan and the Idea of Fulfilment*
 
 21\. The basic theological presupposition is that God's salvific plan which culminates in Christ (cf. Ep 1:3-14) is a unity, but that it is realised progressively over the course of time. Both the unity and the gradual realisation are important; likewise, continuity in certain points and discontinuity in others. From the outset, the action of God regarding human beings has tended towards final fulfilment and, consequently, certain aspects that remain constant began to appear: God reveals himself, calls, confers a mission, promises, liberates, makes a covenant. The first realisations, though provisional and imperfect, already give a glimpse of the final plenitude. This is particularly evident in certain important themes which are developed throughout the entire Bible, from Genesis to Revelation: the way, the banquet, God's dwelling among men. Beginning from a continuous re-reading of events and texts, the Old Testament itself progressively opens up a perspective of fulfilment that is final and definitive. The Exodus, the primordial experience of Israel's faith (cf. Dt 6:20-25; 26:5-9) becomes the symbol of final salvation. Liberation from the Babylonian Exile and the prospect of an eschatological salvation are described as a new Exodus.⁴¹ Christian interpretation is situated along these lines with this difference, that the fulfilment is already substantially realised in the mystery of Christ.
 
@@ -314,7 +314,7 @@ The original task of the prophet was to help his contemporaries understand the e
 
 Insistence on discontinuity between both Testaments and going beyond former perspectives should not, however, lead to a one-sided spiritualisation. What has already been accomplished in Christ must yet be accomplished in us and in the world. The definitive fulfilment will be at the end with the resurrection of the dead, a new heaven and a new earth. Jewish messianic expectation is not in vain. It can become for us Christians a powerful stimulant to keep alive the eschatological dimension of our faith. Like them, we too live in expectation. The difference is that for us the One who is to come will have the traits of the Jesus who has already come and is already present and active among us.
 
-6. *Current Perspectives*
+6\. *Current Perspectives*
 
 The Old Testament in itself has great value as the Word of God. To read the Old Testament as Christians then does not mean wishing to find everywhere direct reference to Jesus and to Christian realities. True, for Christians, all the Old Testament economy is in movement towards Christ; if then the Old Testament is read in the light of Christ, one can, retrospectively, perceive something of this movement. But since it is a movement, a slow and difficult progression throughout the course of history, each event and each text is situated at a particular point along the way, at a greater or lesser distance from the end. Retrospective re-readings through Christian eyes mean perceiving both the movement towards Christ and the distance from Christ, prefiguration and dissimilarity. Conversely, the New Testament cannot be fully understood except in the light of the Old Testament.
 
@@ -322,7 +322,7 @@ The Christian interpretation of the Old Testament is then a differentiated one, 
 
 Although the Christian reader is aware that the internal dynamism of the Old Testament finds its goal in Jesus, this is a retrospective perception whose point of departure is not in the text as such, but in the events of the New Testament proclaimed by the apostolic preaching. It cannot be said, therefore, that Jews do not see what has been proclaimed in the text, but that the Christian, in the light of Christ and in the Spirit, discovers in the text an additional meaning that was hidden there.
 
-7. *Contribution of Jewish reading of the Bible*
+7\. *Contribution of Jewish reading of the Bible*
 
 22\. The horror in the wake of the extermination of the Jews (the *Shoah)* during the Second World War has led all the Churches to rethink their relationship with Judaism and, as a result, to reconsider their interpretation of the Jewish Bible, the Old Testament. It may be asked whether Christians should be blamed for having monopolised the Jewish Bible and reading there what no Jew has found. Should not Christians henceforth read the Bible as Jews do, in order to show proper respect for its Jewish origins?
 
@@ -334,7 +334,7 @@ On the practical level of exegesis, Christians can, nonetheless, learn much from
 
 B. ***Shared Fundamental Themes***
 
-1. *Revelation of God*
+1\. *Revelation of God*
 
 23\. *A God who speaks to humans.* The God of the Bible is one who enters into communication with human beings and speaks to them. In different ways, the Bible describes the initiative taken by God to communicate with humanity in choosing the people of Israel. God makes his word heard either directly or though a spokesperson.
 
@@ -380,7 +380,7 @@ In the act of creation, the role attributed to Wisdom in the Old Testament is at
 
 On the other hand, the resurrection of Christ is understood as the inauguration of a new creation, of a kind that “if anyone is in Christ, he is a ‘new creation'”.⁶³ Faced with the proliferation of human sin, the plan of God in Christ was to bring about a new creation. We will take up this theme later after treating of the human condition.
 
-2. *The Human Person: Greatness and Wretchedness*
+2\. *The Human Person: Greatness and Wretchedness*
 
 a\) *In the Old Testament*
 
@@ -432,7 +432,7 @@ The Law did not bring with it a remedy for sin, for even if he recognises that t
 
 On a different note, but still quite forcefully, the Book of Revelation itself witnesses to the ravages of evil produced in the human world. It describes “Babylon”, “the great prostitute”, who has captivated “the kings of the earth” and “the inhabitants of the earth” in their abominations and who is “drunk with the blood of the saints and of the witnesses to Jesus” (Rv 17:1-6). “Their sins are heaped high as heaven” (18:5). Evil releases terrible calamities. But it will not have the last word. Babylon falls (18:2). From heaven descends “the holy city, the new Jerusalem”, “the abode of God among men” (21:2-3). The salvation that comes from God is opposed to the proliferation of evil.
 
-3. *God, Liberator and Saviour*
+3\. *God, Liberator and Saviour*
 
 a\) *In the Old Testament*
 
@@ -470,7 +470,7 @@ The title Saviour is above all attributed to the risen Jesus, for, by his resurr
 
 This salvation was promised to the Israelite people, but the “nations” can also participate since the Gospel is “the power of God for salvation to everyone who has faith, to the Jew first, and also the Greek”. ¹⁰² The hope of salvation, expressed so often and so forcefully in the Old Testament, finds its fulfilment in the New.
 
-4. *The Election of Israel*
+4\. *The Election of Israel*
 
 a\) *In the Old Testament*
 
@@ -524,7 +524,7 @@ Nevertheless, Paul immediately adds that it is not enough to belong physically t
 
 It is because of our common roots and from this eschatological perspective that the Church acknowledges a special status of “elder brother” for the Jewish people, thereby giving them a unique place among all other religions. ¹²⁴
 
-5. *The Covenant*
+5\. *The Covenant*
 
 a\) *In the Old Testament*
 
@@ -600,7 +600,7 @@ God's “covenant” with David is not mentioned explicitly in the New Testament
 
 *The conclusion* which flows from all these texts is that the early Christians were conscious of being in profound continuity with the covenant plan manifested and realised by the God of Israel in the Old Testament. Israel continues to be in a covenant relationship with God, because the covenant-promise is definitive and cannot be abolished. But the early Christians were also conscious of living in a new phase of that plan, announced by the prophets and inaugurated by the blood of Jesus, “blood of the covenant”, because it was shed out of love (cf. Rv 1:5(b)-6).
 
-6. *The Law*
+6\. *The Law*
 
 43\. The Hebrew word *tôr~h,* translated “law”, more precisely means “instruction”, that is, both teaching and directives. The *Tôr~h* is the highest source of wisdom. ¹⁴³ The Law occupies a central place in the Jewish Scriptures and in their religious practice from biblical times to our own day. This is why, from apostolic times, the Church had to define itself in relation to the Law, following the example of Jesus himself, who gave it its proper significance by virtue of his authority as Son of God. ¹⁴⁴
 
@@ -650,7 +650,7 @@ For *James*, as for the Christian community at large, the moral demands of the L
 
 This last example shows the variety of positions in relation to the Law expressed in the New Testament, and their fundamental agreement. James does not announce, like Paul and the Letter to the Hebrews, the end of the Law's reign, but he agrees with Matthew, Mark, Luke and Paul in underlining the priority not only of the Decalogue but also the precept of love of neighbour (Lv 19:18) which leads to the perfect observance of the Decalogue and to do still better. The New Testament then depends on the Old. It is read in the light of Christ, who has confirmed the precept of love and has given it a new dimension: “Love one another as I have loved you” (Jn 13:34; 15:12), that is, to the sacrifice of one's life. The Law is thereby more than fulfilled.
 
-7. *Prayer and Cult, Jerusalem and Temple*
+7\. *Prayer and Cult, Jerusalem and Temple*
 
 a\) *In the Old Testament*
 
@@ -734,7 +734,7 @@ In the meantime, Jerusalem continues to play an important role. In the Lukan the
 
 Thus, aided by a symbolic intensification already well attested in the Old Testament itself, the Church will always recognise the bonds that intimately unite it to the history of Jerusalem and its Temple, as well as to the prayer and cult of the Jewish people.
 
-8. *Divine Reproaches and Condemnations*
+8\. *Divine Reproaches and Condemnations*
 
 a\) *In the Old Testament*
 
@@ -772,7 +772,7 @@ Christians themselves are not shielded from reproaches. The Letter to the Galati
 
 The letters sent “to the seven churches” (Rv 1:11) by the author of the Book of Revelation clearly show the diversity of situations in which the Christian communities lived at the time. Almost all of the letters — five out of seven — begin with praise; two contain praise only, but the other five have reproaches, some of them serious, accompanied by threats of punishment. These reproaches are of a general nature (“you have abandoned your first fervour”: 2:4; “you have a name of being alive, but you are dead”: 3:1); sometimes they are more precise, as when they are criticised for tolerating “the teaching of the Nicolaitans” (2:15) or for their compromise with idolatry (2:14,21). All the letters express “what the Spirit is saying to the churches”. ²³⁶ They show that, in most cases, the Christian communities deserve reproaches and that the Spirit is calling them to conversion. ²³⁷
 
-9. *The Promises*
+9\. *The Promises*
 
 54\. Many of the promises made by God in the Old Testament are re-read in the light of Jesus Christ in the New Testament. This poses real and delicate questions which touch upon the dialogue between Jews and Christians; they concern the legitimacy of an interpretation of the promises over and above their original, obvious meaning. Who exactly are the descendants of Abraham? Is the Promised Land first and foremost a geographical location? What future horizon does the God of Revelation reserve for Israel, the people originally chosen? What becomes of the wait for the kingdom of God? And for the Messiah?
 
@@ -888,7 +888,7 @@ C. ***Conclusion***
 
 64\. Christian readers were convinced that their Old Testament hermeneutic, although significantly different from that of Judaism, corresponds nevertheless to a potentiality of meaning that is really present in the texts. Like a “revelation” during the process of photographic development, the person of Jesus and the events concerning him now appear in the Scriptures with a fullness of meaning that could not be hitherto perceived. Such a fullness of meaning establishes a threefold connection between the New Testament and the Old: continuity, discontinuity, and progression.
 
-1. *Continuity*
+1\. *Continuity*
 
 In addition to recognising the authority of the Jewish Scriptures and despite the constant seeking to demonstrate that the “new” events were in conformity with what was predicted (see ch. 1), the New Testament fully appropriates the great themes of the theology of Israel in a threefold reference to past, present and future.
 
@@ -898,11 +898,11 @@ Other themes are developed in the context of a particular history: God has spoke
 
 This opens up for the chosen people wonderful future horizons: posterity (promised to Abraham), living space (a territory), survival beyond crises and testings (due to God's fidelity), and the establishment of an ideal political order (the reign of God, messianism). From the beginning, a reign universal in its scope is envisaged for the blessing given to Abraham. The salvation bestowed by God will spread to the ends of the earth. Indeed, it is Jesus Christ who offers salvation to the entire world.
 
-2. *Discontinuity*
+2\. *Discontinuity*
 
 Nevertheless, it cannot be denied that the passage from one Testament to the other also involves ruptures. These do not submerge continuity. They presuppose it in essentials. Yet these ruptures impinge upon whole tracts of the Law: for example, institutions like the levitical priesthood of the Jerusalem Temple; cultic forms like animal sacrifice; religious and ritual practices like circumcision, rules concerning purity and impurity, dietary prescriptions; imperfect laws such as divorce; restrictive legal interpretations concerning the sabbath. It is clear that — from the viewpoint of Judaism — these are matters of great importance for it. But it is also clear that the radical replacement in the New Testament was already adumbrated in the Old Testament and so constitute a potentially legitimate reading.
 
-3. *Progression*
+3\. *Progression*
 
 65\. Discontinuity on certain points is only the negative side of what is positively called progression. The New Testament attests that Jesus, far from being in opposition to the Israelite Scriptures, revoking them as provisional, brings them instead to fulfilment in his person, in his mission, and especially in his paschal mystery. In fact, none of the great Old Testament themes escapes the new radiation of Christological light.
 
@@ -920,7 +920,7 @@ Accordingly, for Christians, the God of revelation has pronounced his final word
 
 A. ***Different Viewpoints within post-exilic Judaism***
 
-1. *The last centuries before Jesus Christ*
+1\. *The last centuries before Jesus Christ*
 
 “Judaism” is a term designating the period of Israelite history which began in 538 B.C. with the permission from the Persian authorities to reconstruct the Jerusalem Temple. The religion of Judaism, in many respects, inherited the pre-exilic religion of the kingdom of Judah. The Temple was rebuilt: sacrifices were offered; hymns and Psalms were chanted, pilgrimage feasts were again celebrated. Judaism took on a particular religious hue after the proclamation of the Law by Ezra (Ne 8:1-12) in the Persian era. Gradually, the synagogue became an important factor in Jewish life. Diverse attitudes to the Temple were a source of division for Jews until 70 A.D., as is clear in the Samaritan schism and in the Qumran manuscripts. Divisions based on different interpretations of the Law existed after the year 70 just as they did before.
 
@@ -936,7 +936,7 @@ The *Pharisees* were not a priestly movement. Apparently, the seizure of the Hig
 
 The relations between the different groups were at times severely strained, even to the point of hostility. It is worth keeping in mind that this hostility can put in context, from a religious viewpoint, the enmity that is found in the New Testament. High Priests were responsible for much of the violence. There is the case of a High Priest, whose name is unknown, who tried to put to death, probably towards the end of the second century B.C., the Teacher of Righteousness in Qumran during the Yom Kippur celebrations. The Qumran writings are full of polemics against the Jerusalem Sadduccean hierarchy, wicked priests accused of violating the commandments, and they likewise denigrate the Pharisees. While exalting the Teacher of Righteousness, they accuse another person (an Essene?) of scoffing and lying and persecuting with the sword “all who walk in perfection” (Damascus Document, ms. A,I,20). These incidents happened before the time of Herod the Great and the Roman rule in Judea, and so before the time of Jesus.
 
-2. *The first third of the first century A.D. in Palestine*
+2\. *The first third of the first century A.D. in Palestine*
 
 67\. This is the period corresponding to the life of Jesus which had already begun a little earlier, when Jesus was born before the death of Herod the Great in 4 B.C. After his death, the emperor Augustus divided the kingdom between the three sons of Herod: Archelaus (Mt 2:22), Herod Antipas (14:1, etc.), and Philip (16:13; Lk 3:1). The reign of Archelaus stirred up hostility among his subjects, and Augustus before long put his territory, Judea, under Roman administration.
 
@@ -954,7 +954,7 @@ On Jesus' relationship with the Gentiles and their ways of thinking, there has b
 
 What was the attitude of Jesus' early disciples to the Jewish religious environment? The Twelve and others would have shared Jesus' Galilean mentality, although the environs of the lake of Galilee where they lived were more cosmopolitan than Nazareth. The Fourth Gospel reports that Jesus drew disciples from John the Baptist (Jn 1:35-41), that he had Judean disciples (19:38) and that he converted one entire Samaritan village (4:39-42). The group of disciples, then, could very well reflect the pluralism that existed in Palestine at that time.
 
-3. *The second third of the first century*
+3\. *The second third of the first century*
 
 68\. The first period of direct Roman rule in Judea came to an end in 3940. Herod Agrippa I, friend of the emperor Caligula (37-41) and of the new emperor Claudius (41-54), became king of all Palestine (41-44). He gained the support of the Jewish religious leaders and gave the appearance of being religious. In Ac 12, Luke attributes a persecution to him, and also the death of James, the brother of John and son of Zebedee. After the death of Agrippa, which Ac 12:20-23 dramatically recounts, a second period of Roman rule began.
 
@@ -962,7 +962,7 @@ It was during this second third of the first century that the disciples of the r
 
 The Roman procurators for the years 44-66 were men devoid of vision, corrupt and dishonest. Their mis-government gave rise to the “sicarii” (terrorists armed with knives) and “zealots” (zealous for the Law, devoid of pity), and finally provoked a great Jewish revolt against the Romans. The great Roman armies and their best generals fought to quell this revolt. For Christians, a noteworthy event was the death of James, “the brother of the Lord”, in the year 62, following a decision of the Sanhedrin convened by the High Priest Ananus (Anne) II. This High Priest was dismissed by the procurator Albinus for acting illegally. Only two years later, after a great fire ravaged Rome in July 64, the emperor Nero (54-68) persecuted the Christians in the capital city. According to a very ancient tradition, the apostles Peter and Paul were martyred at that time. Generally speaking, the last third of the first century may be called the post-apostolic era.
 
-4. *The final third of the first century*
+4\. *The final third of the first century*
 
 69\. The Jewish revolt of 66-70 and the destruction of the Jerusalem Temple precipitated a change in the dynamics of the religious groupings. The revolutionaries (sicarii, zealots and others) were exterminated. The Qumran foundation was destroyed in 68. The cessation of Temple sacrifices weakened the power base of the Sadduccean leaders who belonged to the priestly families. We do not know to what extent rabbinic Judaism is the successor of the Pharisees. What we do know is that after 70, the rabbinic masters, “the sages of Israel”, gradually came to be recognised as leaders of the people. Those who reassembled at Jamnia (Yavneh), on the coast of Palestine, were considered by the Roman authorities to be spokespersons for the Jews. From c.90-110, Gamaliel II, son and grandson of distinguished interpreters of the Law, presided over “the assembly” in Jamnia. When they speak of Judaism, Christian writings from this period were more and more influenced by this rabbinic Judaism then in the process of formation. In certain areas, conflicts between the synagogue leaders and Jesus' disciples were sharp. This is evident from the expulsion from the synagogue imposed on “whoever confesses Jesus as the Christ” (Jn 9:22) and, on the other hand, in the strong anti-Pharisee polemic of Mt 23, as well as in the reference made from the outside to “*their* synagogues” as places where Jesus' disciples were flogged (Mt 10:17). The *Birkat ha-minim*, a synagogal “blessing” (actually, a curse) against non-conformists is often cited. Its dating to 85 is uncertain, and the idea that it was a universal Jewish decree against Christians is almost certainly wrong. But one cannot seriously doubt that at certain times in different places, local synagogues no longer tolerated the presence of Christians, and subjected them to harassment that could even go as far as putting them to death (Jn16:2). ³¹²
 
@@ -974,7 +974,7 @@ B. ***Jews in the Gospels and Acts of the Apostles***
 
 The Good News, accepted wholeheartedly in the beginning by many Jews, met with opposition from the leaders, who were eventually followed by the greater part of the people. The result was that between Jewish and Christian communities a conflict situation arose that clearly left its mark on the redaction of the Gospels and Acts.
 
-1. *The Gospel according to Matthew*
+1\. *The Gospel according to Matthew*
 
 The relationship between the First Gospel and the Jewish world is extremely close. Many details in it show a great familiarity with the Scriptures, the traditions and the mentality of the Jewish milieu. More than Mark and Luke, Matthew stresses the Jewish origin of Jesus: the genealogy presents him as “son of David, son of Abraham” (Mt 1:1) and goes no further back. The etymology of Jesus' name is underlined: the child of Mary will bear this name “because it is he who will save his people from their sins” (1:21). Jesus' mission during his public life is limited “to the lost sheep of the house of Israel” (15:24), and he assigns the same limits to the mission of the Twelve (10:5-6). More than the other evangelists, Matthew often takes care to note that events in Jesus' life happened “so that what had been spoken through the prophets might be fulfilled” (2:23). Jesus himself makes it clear that he has come not to abolish the Law, but to fulfil it (5:17).
 
@@ -994,7 +994,7 @@ Like the people's cry in the passion narrative (27:25), the ending of the parabl
 
 *Conclusion.* More than the other Synoptic Gospels, Matthew is the Gospel of fulfilment — Jesus has not come to abolish, but to fulfil — for it insists more on the continuity with the Old Testament, basic for the idea of fulfilment. It is this aspect that makes possible the establishment of fraternal bonds between Christians and Jews. But on the other hand, the Gospel of Matthew reflects a situation of tension and even opposition between the two communities. In it Jesus foresees that his disciples will be flogged in the synagogues and pursued from town to town (23:34). Matthew therefore is concerned to provide for the Christians' defence. Since that situation has radically changed, Matthew's polemic need no longer interfere with relations between Christians and Jews, and the aspect of continuity can and ought to prevail. It is equally necessary to say this in relation to the destruction of the city and the Temple. This downfall is an event of the past which henceforth ought to evoke only deep compassion. Christians must be absolutely on their guard against extending responsibility for it to subsequent generations of Jews, and they must remind themselves that after a divine sanction, God never fails to open up positive new perspectives.
 
-2. *The Gospel according to Mark*
+2\. *The Gospel according to Mark*
 
 72\. Mark's Gospel is a message of salvation that does not inform us as to who the recipients are. The ending which has been added addresses it boldly “to the whole of creation”, “into the whole world” (16:15), an address which corresponds to its universalist openness. As regards the Jewish people, Mark, himself a Jew, does not pass any judgement on them. The negative judgement of Isaiah (29:13) is applied in Mark only to the Pharisees and scribes (Mk 7:5-7). Apart from the title “King of the Jews” which is applied to Jesus five times in the passion narrative, ³¹⁶ the title “Jew” appears only once in the Gospel, in the course of explaining Jewish customs (7:3), addressed obviously to non-Jews. This explanation comes in an episode in which Jesus criticises the Pharisees' extreme attachment to “the tradition of the elders”, causing them to neglect “the commandments of God” (7:8). Mark mentions “Israel” only twice, ³¹⁷ and twice also “the people”. ³¹⁸ In contrast, he frequently mentions “the crowd”, for the most part certainly composed of Jews, and favourably disposed towards Jesus, ³¹⁹ except in one passion episode, where the chief priests pressure them to choose Barabbas (15:11).
 
@@ -1012,7 +1012,7 @@ It is the Sanhedrin that Mark holds guilty of having “condemned” Jesus (10:3
 
 Rather, it is well to recall that the passion of Jesus is part of God's mysterious plan, a plan of salvation, for Jesus came “to serve and to give his life as a ransom for many” (10:45), and has made of the blood that he shed a “blood of the covenant” (14:24).
 
-3. *The Gospel according to Luke and the Acts of the Apostles*
+3\. *The Gospel according to Luke and the Acts of the Apostles*
 
 73\. Addressed to the “most excellent Theophilus” to complete his Christian instruction (Lk 1:3-4; Ac 1:1), the Gospel of Luke and the book of Acts are writings very open to universalism and, at the same time, very well disposed towards Israel.
 
@@ -1054,7 +1054,7 @@ Acts ends on a surprising, but all the more significant, note. Shortly after his
 
 In Luke's oeuvre, there is no doubt that there is a profound respect for the Jewish reality insofar as it has a primary role in the divine plan of salvation. Nevertheless, in the course of the narrative, tensions become obvious. Luke tones down the polemics encountered in the other Synoptics. But he is unable, it seems, — and does not wish — to hide the fact that Jesus suffered fierce opposition from the leaders of his people and that, as a result, the apostolic preaching finds itself in an analogous situation. If a sober recounting of this undeniable Jewish opposition amounts to anti-Judaism, then Luke could be accused of it. But it is obvious that this way of looking at it is to be rejected. Anti-Judaism consists rather of cursing and hating the persecutors, and their people as a whole. The Gospel message, on the contrary, invites Christians to bless those who curse them, to do good to those who hate them, and to pray for those who persecute them (Lk 6:27-28), following the example of Jesus (23:34) and of the first Christian martyr (Ac 7:60). This is one of the basic lessons of Luke's work. It is regrettable that in the course of the centuries following it has not been more faithfully followed.
 
-4. *The Gospel according to John*
+4\. *The Gospel according to John*
 
 76\. About the Jews, the Fourth Gospel has a very positive statement, made by Jesus himself in the dialogue with the Samaritan woman: “Salvation comes from the Jews” (Jn 4:22). ³²⁵ Elsewhere, to the statement of the High Priest Caiaphas who said that it was “advantageous” “to have one man die for the people”, the evangelist sees a meaning in the word inspired by God and emphasises that “Jesus was about to die for the nation”, adding “not for the nation only, but to gather into one the dispersed children of God” (Jn 11:49-52). The evangelist betrays a vast knowledge of Judaism, its feasts, its Scriptures. The value of the Jewish patrimony is clearly acknowledged: Abraham saw Jesus' day and was glad (8:56); the Law is a gift given through Moses as intermediary (1:17); “the Scripture cannot be annulled” (10:35); Jesus is the one “about whom Moses in the Law and also the prophets wrote” (1:45); he is “a Jew” (4:9) and “King of Israel” (1:49) or “King of the Jews” (19:19-22). There is no serious reason to doubt that the evangelist was Jewish and that the basic context for the composition of the Gospel was relations with the Jews.
 
@@ -1080,7 +1080,7 @@ The polemic escalated on both sides. The Jews accused Jesus of being a sinner (9
 
 Christians, no longer able to participate in Jewish cultic life, became more aware of the plenitude they had received from the Word made flesh (1:16). The risen Christ is the source of living water (7:37-38), light of the world (8:12), bread of life (6:35), and new Temple (2:19-22). Having loved his own to the end (13:1), he gave them his new commandment of love (13:34). Everything must be done to stir up faith in him, and, through faith, life (20:31). In the Gospel, polemics are secondary. What is of the greatest importance is the revelation of the “gift of God” (4:10; 3:16), which is offered to all in Jesus Christ, especially to those “who have pierced him” (19:37).
 
-5. *Conclusion*
+5\. *Conclusion*
 
 The Gospels reveal that the fulfilment of God's plan necessarily brought with it a confrontation with evil, which must be eradicated from the human heart. This confrontation puts Jesus at odds with the leaders of his people, just like the ancient prophets. Already in the Old Testament, the people of God were seen under two antithetical aspects: on the one hand, as a people called to be perfectly united to God; and on the other, as a sinful people. These two aspects could not fail to manifest themselves during Jesus' ministry. During the Passion, the negative aspect seemed to prevail, even among the Twelve. But the resurrection showed that, in reality, the love of God was victorious and obtained for all the pardon of sin and a new life.
 
@@ -1088,7 +1088,7 @@ C. ***The Jews in the Pauline Letters and other New Testament Writings***
 
 79\. The Pauline Letters will be considered in accordance with the most commonly accepted groupings: first, seven Letters generally recognised as authentic (Rm, 1-2 Co, Ga, Ph, I Th, Phm), then Ephesians and Colossians, the Pastorals (1-2 Tm, Tt). Finally, the Letter to the Hebrews, the Letters of Peter, James and Jude, and the Book of Revelation will be looked at.
 
-1. *Jews in the undisputed Pauline Letters*
+1\. *Jews in the undisputed Pauline Letters*
 
 Personally, Paul continued to be proud of his Jewish origin (Rm 11:1). Referring to the time preceding his conversion, he says: “I advanced in Judaism beyond many among my people of the same age, for I was far more zealous for the traditions of my ancestors” (Ga 1:14). Having become an apostle of Christ, he says of his adversaries: “Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I” (2 Co 11:22). Still, he can relativise all these advantages by saying: “These I have come to regard as loss because of Christ” (Ph 3:7).
 
@@ -1120,7 +1120,7 @@ When he considers the situation of Jews who have not followed Christ, Paul insis
 
 Paul views the situation realistically. Between Christ's disciples and the Jews who do not believe in him, the relation is one of opposition. These Jews call the Christian faith into question; they do not accept that Jesus is their Messiah (*Christ)* and the Son of God. Christians cannot but contest the position of these Jews. But at a level deeper than opposition there exists from now on a loving relationship that is definitive; the other is only temporary.
 
-2. *Jews in the other Letters*
+2\. *Jews in the other Letters*
 
 82\. The Letter to the *Colossians* contains the word “Jew” only once, in a sentence that says, in the new man “there is no longer Greek and Jew”, adding as well a parallel expression: “circumcised and uncircumcised”; there is only Christ “who is all and in all” (Col 3:11). This phrase, which recalls the teaching of Ga 3:28 and Rm 10:12, denies any importance to being a Jew from the point of view of a relationship with Christ. It passes no judgement on Jews, any more than it does on Greeks.
 
@@ -1136,7 +1136,7 @@ Neither does the Letter to the *Hebrews* mention “the Jews” or even “the H
 
 The same holds for the *First Letter of Peter,* which evokes Christ's Passion by saying that “the Lord” was “rejected *by men*” (1 Pt 2:4) without further precision. The Letter confers on Christians the glorious titles of the Israelite people, ³⁴⁴ but without any polemical intent. It never mentions the Jews. The same is true for the Letter of James, the Second Letter of Peter and the Letter of Jude. These Letters are steeped in Jewish teaching, but do not touch on the relationship between the Christian Church and contemporary Jews.
 
-3. *Jews in the Book of Revelation*
+3\. *Jews in the Book of Revelation*
 
 83\. A very favourable attitude towards the Jews is evident throughout the book, but especially in the mention of 144,000 “servants of our God” marked “on their foreheads” with the “sign of the living God” (Rv 7:2-4) coming from all the tribes of Israel which are enumerated one by one (a unique case in the New Testament: Rv 7:5-8). Revelation reaches its high point in its description of “the new Jerusalem” (Rv 21:2) with its “twelve gates” on which the names are inscribed “which are those of the twelve tribes of Israel” (21:12), in parallel to “the names of the twelve apostles of the Lamb”, inscribed on the twelve foundations of the city (21:14).
 

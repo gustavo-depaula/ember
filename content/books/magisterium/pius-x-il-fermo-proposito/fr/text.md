@@ -145,7 +145,7 @@ NOTES
 
 7\. *I Tim.* IV, 8.  
 
-8. *I Petr.* II, 15.
+8\. *I Petr.* II, 15.
 
 9\. *Luc.* X, 16.
 

@@ -66,48 +66,48 @@ Le facoltà e i compiti dei Vescovi Ausiliari non cessano quando sia vacante l'u
 § 5 - Si abbia cura che i Vescovi Ausiliari siano tenuti informati ed ascoltati specialmente per le materie che rientrano nell'ambito del loro specifico ufficio pastorale.
 
 I. SEGRETERIA GENERALE  
-4. La *Segreteria Generale*, diretta dal Prelato Segretario da Noi nominato, provvede alla Cancelleria della Curia ed agli atti amministrativi, alle questioni generali e del personale, all'informazione e documentazione, al coordinamento dei servizi, alla consulenza legale generale nonché al coordinamento degli uffici, con particolare riguardo alla formazione pastorale permanente del Clero, dei Religiosi e delle Religiose e dei laici che attendono alla pastorale, la formazione e l'aggiornamento degli insegnanti e catechisti. Inoltre sotto la sua supervisione operano gli uffici amministrativo o economico, legale e tecnico.
+4\. La *Segreteria Generale*, diretta dal Prelato Segretario da Noi nominato, provvede alla Cancelleria della Curia ed agli atti amministrativi, alle questioni generali e del personale, all'informazione e documentazione, al coordinamento dei servizi, alla consulenza legale generale nonché al coordinamento degli uffici, con particolare riguardo alla formazione pastorale permanente del Clero, dei Religiosi e delle Religiose e dei laici che attendono alla pastorale, la formazione e l'aggiornamento degli insegnanti e catechisti. Inoltre sotto la sua supervisione operano gli uffici amministrativo o economico, legale e tecnico.
 
 II\. UFFICI  
-5. «Centri pastorali» studiano le esigenze religiose della Diocesi di Roma e propongono le iniziative pastorali in ordine all'efficace espletamento dell'ufficio episcopale di magistero, santificazione e governo e ne promuovono un'accurata realizzazione.  
-6. Il «Centro pastorale per l'evangelizzazione e la catechesi» promuove il servizio della Parola nella comunità cristiana soprattutto mediante la predicazione e la Catechesi nelle parrocchie e nelle famiglie, per gli alunni delle scuole elementari medie inferiori e superiori; sostiene ed assiste le scuole cattoliche per il conveniente raggiungimento dei loro fini istituzionali; promuove l'ecumenismo, l'annuncio della fede ai non cristiani e ai non credenti.  
-7. Il «Centro pastorale per il Culto e la santificazione» promuove e coordina: a) l'azione liturgico-sacramentale, il canto sacro e la tutela e il decoro dei sacri edifici; b) l'animazione e la formazione in ordine ai ministeri autorizzati ed istituiti; c) le iniziative permanenti di spiritualità cristiana (esercizi spirituali, corsi residenziali, pellegrinaggi, ecc.).
+5\. «Centri pastorali» studiano le esigenze religiose della Diocesi di Roma e propongono le iniziative pastorali in ordine all'efficace espletamento dell'ufficio episcopale di magistero, santificazione e governo e ne promuovono un'accurata realizzazione.  
+6\. Il «Centro pastorale per l'evangelizzazione e la catechesi» promuove il servizio della Parola nella comunità cristiana soprattutto mediante la predicazione e la Catechesi nelle parrocchie e nelle famiglie, per gli alunni delle scuole elementari medie inferiori e superiori; sostiene ed assiste le scuole cattoliche per il conveniente raggiungimento dei loro fini istituzionali; promuove l'ecumenismo, l'annuncio della fede ai non cristiani e ai non credenti.  
+7\. Il «Centro pastorale per il Culto e la santificazione» promuove e coordina: a) l'azione liturgico-sacramentale, il canto sacro e la tutela e il decoro dei sacri edifici; b) l'animazione e la formazione in ordine ai ministeri autorizzati ed istituiti; c) le iniziative permanenti di spiritualità cristiana (esercizi spirituali, corsi residenziali, pellegrinaggi, ecc.).
 
 8\. Il «Centro pastorale per l'animazione della comunità cristiana ed i servizi socio-caritativi» promuove e coordina la pastorale organica nella dimensione territoriale (diocesi, prefetture, parrocchie, ecc.), nei vari ambienti di vita e nelle diverse specializzazioni (famiglia, cultura, strumenti della comunicazione sociale, turismo, spettacoli e tempo libero, ecc.), nell'attività delle organizzazioni del laicato (Confraternite, Associazioni, ecc.) e nelle opere diocesane. Il medesimo «Centro» promuove e coordina l'azione pastorale a favore dei malati (negli Ospedali, Case di Cura, ecc.), degli anziani, dei minorati e handicappati e di tutti coloro che si trovino in particolare bisogno di assistenza, nonché l'attività degli organismi per la promozione umana e delle istituzioni socio-caritative.  
-9. L'ufficio per le persone fisiche e giuridiche tratta di ciò che riguarda le persone e le istituzioni sacerdotali, le persone e le istituzioni di vita consacrata, le persone e le istituzioni dei laici.
+9\. L'ufficio per le persone fisiche e giuridiche tratta di ciò che riguarda le persone e le istituzioni sacerdotali, le persone e le istituzioni di vita consacrata, le persone e le istituzioni dei laici.
 
 10\. Gli uffici amministrativo, legale e tecnico riguardano le strutture amministrative, economiche, giuridiche e tecniche, richieste per l'espletamento dell'azione pastorale. Di essi si avvale la «Pontificia Opera per la preservazione della Fede e la costruzione di nuove Chiese in Roma», la quale - come ente giuridico - conserva la sua propria fisionomia e la sua distinta personalità giuridica secondo il documento pontificio, con cui è stata costituita (Cfr. PII PP. XI I*n Allocutione*: *AAS* 22 (1930) 337-340 Cfr. PII PP. XI *In Allocutione*: *AAS* 22 (1930) 337-340).  
-11. Servizi ausiliari. Per il conveniente espletamento dei loro servizi i «Centri» e gli uffici possono avvalersi di Commissioni di studio e di Segretariati.
+11\. Servizi ausiliari. Per il conveniente espletamento dei loro servizi i «Centri» e gli uffici possono avvalersi di Commissioni di studio e di Segretariati.
 
 III\. TRIBUNALI  
-12. § 1 - Presso il Vicariato di Roma sono costituiti due distinti Tribunali :  
-1. Il Tribunale Ordinario della Diocesi di Roma; 2. Il Tribunale Regionale del Lazio per le cause di nullità di matrimonio.  
+12\. § 1 - Presso il Vicariato di Roma sono costituiti due distinti Tribunali :  
+1\. Il Tribunale Ordinario della Diocesi di Roma; 2. Il Tribunale Regionale del Lazio per le cause di nullità di matrimonio.  
 § 2 - Questi Tribunali dipendono dal Cardinale Vicario secondo la natura propria di ciascuno di essi.  
 Per quanto riguarda il Tribunale Regionale del Lazio spettano al Cardinale Vicario le facoltà ed i compiti che le Norme del Supremo Tribunale della Segnatura Apostolica attribuiscono al Moderatore dei Tribunali Regionali, eccettuati i casi in cui la presente Costituzione dispone diversamente (Cfr. SUPREMI SIGNATURAE APOSTOLICAE TRIBUNALIS *Normae pro Tribunalibus interdioecesanis vel regionalibus aut interregionalibus*: *AAS* 63 (1971) 486-492).  
 In caso di impedimento o di assenza il Cardinale Vicario è supplito nei suoi poteri sui Tribunali dal Vicegerente.  
-13. Ciascun Tribunale è composto da un Officiale, da un congruo numero di Vice-Officiali, di Giudici, di Difensori del Vincolo e Promotori di Giustizia, da un Capo della Cancelleria e da alcuni Notai.  
+13\. Ciascun Tribunale è composto da un Officiale, da un congruo numero di Vice-Officiali, di Giudici, di Difensori del Vincolo e Promotori di Giustizia, da un Capo della Cancelleria e da alcuni Notai.  
 Ciascun Tribunale ha una sua propria amministrazione.
 
 14\. Gli Officiali dei Tribunali, i Vice Officiali, i Giudici, i Difensori del Vincolo ed i Promotori di Giustizia sono nominati dal Sommo Pontefice per un periodo determinato su proposta del Cardinale Vicario per il Tribunale Diocesano e su presentazione della Conferenza Episcopale Laziale per il Tribunale Regionale.  
-15. Ciascun Officiale esercita soltanto sul proprio tribunale e limitatamente ad esso i poteri amministrativi, disciplinari ed economici, in piena indipendenza dall'altro Tribunale.  
-16. Nell'ambito dei singoli Tribunali i turni giudicanti, con la designazione del Presidente, del Ponente e del Giudice Istruttore, sono costituiti dal Cardinale Vicario con un decreto generale all'inizio di ogni anno giudiziario. Le singole cause sono assegnate ai vari turni, secondo l'ordine con cui pervengono al protocollo.  
+15\. Ciascun Officiale esercita soltanto sul proprio tribunale e limitatamente ad esso i poteri amministrativi, disciplinari ed economici, in piena indipendenza dall'altro Tribunale.  
+16\. Nell'ambito dei singoli Tribunali i turni giudicanti, con la designazione del Presidente, del Ponente e del Giudice Istruttore, sono costituiti dal Cardinale Vicario con un decreto generale all'inizio di ogni anno giudiziario. Le singole cause sono assegnate ai vari turni, secondo l'ordine con cui pervengono al protocollo.  
 La composizione dei turni giudicanti, può essere modificata solo dal Cardinale Vicario in caso di impedimento di uno o più Giudici, dietro loro motivata richiesta scritta e su proposta dell'Officiale.  
-17. L'albo dei periti del Tribunale, secondo le varie materie, è pubblicato all'inizio dell'anno giudiziario dal Cardinale Vicario. Entro tale albo i Giudici Istruttori nomineranno i periti nelle singole cause.
+17\. L'albo dei periti del Tribunale, secondo le varie materie, è pubblicato all'inizio dell'anno giudiziario dal Cardinale Vicario. Entro tale albo i Giudici Istruttori nomineranno i periti nelle singole cause.
 
 **1. Tribunale Diocesano di Roma**
 
 18\. È regolato dai canoni 1572-1593 del C.I.C. Consta di un Officiale, di un congruo numero di giudici, di un Promotore di Giustizia, un Difensore del Vincolo, un Capo della Cancelleria ed alcuni Notai (*Codex Iuris Canonici*, cann. 1572-1593).  
-19. § 1 - Questo Tribunale è competente per tutte le cause che possono essere giudicate nel foro canonico, ad eccezione delle cause di nullità di matrimonio.  
+19\. § 1 - Questo Tribunale è competente per tutte le cause che possono essere giudicate nel foro canonico, ad eccezione delle cause di nullità di matrimonio.  
 § 2 - Per il medesimo genere di cause è tribunale di seconda istanza per le diocesi suburbicarie e per le altre diocesi del Lazio.  
 § 3 - Con le modifiche previste dalla particolare procedura in materia è competente anche nella cause dei Santi (Cfr. PAULI PP. VI *Sanctitas Clarior*: *AAS* 61 (1969) 149-153).  
 § 4 - È demandata a questo Tribunale l'istruttoria delle cause di dispensa da matrimonio rato e non consumato e di scioglimento del matrimonio «in favorem fidei» e l'investigazione circa la richiesta di dispensa dagli oneri derivanti dalla sacra ordinazione (Cfr. SACRAE CONGREGATIONIS PRO DOCTRINA FIDEI *Normae ad apparandas causas reductionis ad statum laicalem . . .* . *AAS* 63 (1971) 303-308; SACRAE CONGREGATIONIS DE DISCIPLINA SACRAMENTORUM *Dispensationis matrimonii*: *AAS* 64 (1972)).  
-20. Dal Tribunale Diocesano si appella alla Sacra Romana Rota.
+20\. Dal Tribunale Diocesano si appella alla Sacra Romana Rota.
 
 **2. Tribunale Regionale del Lazio**
 
 21\. A norma del M. P. «Qua Cura» il Tribunale Regionale del Lazio è competente per la trattazione e la decisione delle cause di nullità di matrimonio della Regione Lazio. È anche il Tribunale di appello per le cause di nullità di matrimonio giudicate in primo grado dai Tribunali Regionali di Napoli e Cagliari (PII PP. XI *Qua Cura*, I-II: *AAS* 30 (1938) 412).  
-22. Dal medesimo si appella alla Sacra Romana Rota (Ibid. II: AAS 30 (1938) 412).  
-23. § 1 - Questo tribunale prima di accettare una causa per la competenza del «forum plerarumque probationum» dovrà ottenere il consenso del Cardinale Vicario, al quale si dovrà esporre quali specifiche prove e di quale entità siano da raccogliere nella Regione laziale (Cfr. PAULI PP. VI *[Causas Matrimoniales](/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19710328_causas-matrimoniales.html)*, IV, § 1, c.: *AAS* 63 (1971) 443 Cfr. PAULI PP. VI *Causas* *Matrimoniales*, IV, § 1, c.: *AAS* 63 (1971) 443).  
+22\. Dal medesimo si appella alla Sacra Romana Rota (Ibid. II: AAS 30 (1938) 412).  
+23\. § 1 - Questo tribunale prima di accettare una causa per la competenza del «forum plerarumque probationum» dovrà ottenere il consenso del Cardinale Vicario, al quale si dovrà esporre quali specifiche prove e di quale entità siano da raccogliere nella Regione laziale (Cfr. PAULI PP. VI *[Causas Matrimoniales](/content/paul-vi/it/apost_letters/documents/hf_p-vi_apl_19710328_causas-matrimoniales.html)*, IV, § 1, c.: *AAS* 63 (1971) 443 Cfr. PAULI PP. VI *Causas* *Matrimoniales*, IV, § 1, c.: *AAS* 63 (1971) 443).  
 § 2 - Per l'emanazione delle decisioni circa l'applicazione delle regole nei casi speciali, il Cardinale Vicario potrà dare mandato speciale all'Officiale del Tribunale Regionale nei singoli casi (*Ibid*. X-XI: *AAS* 63 (1971) 445).
 
 NORMA TRANSITORIA

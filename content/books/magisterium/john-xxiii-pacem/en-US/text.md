@@ -66,7 +66,7 @@ Hence, too, Pope Leo XIII declared that "true freedom, freedom worthy of the son
 
 *Economic Rights*
 
-18. In the economic sphere, it is evident that a man has the inherent right not only to be given the opportunity to work, but also to be allowed the exercise of personal initiative in the work he does. (14)
+18\. In the economic sphere, it is evident that a man has the inherent right not only to be given the opportunity to work, but also to be allowed the exercise of personal initiative in the work he does. (14)
 
 19\. The conditions in which a man works form a necessary corollary to these rights. They must not be such as to weaken his physical or moral fibre, or militate against the proper development of adolescents to manhood. Women must be accorded such conditions of work as are consistent with their needs and responsibilities as wives and mothers.(15)
 
@@ -166,7 +166,7 @@ Hence, to quote Pope Pius XII, "The absolute order of living beings, and the ver
 
 48\. Hence, a regime which governs solely or mainly by means of threats and intimidation or promises of reward, provides men with no effective incentive to work for the common good. And even if it did, it would certainly be offensive to the dignity of free and rational human beings. Authority is before all else a moral force. For this reason the appeal of rulers should be to the individual conscience, to the duty which every man has of voluntarily contributing to the common good. But since all men are equal in natural dignity, no man has the capacity to force internal compliance on another. Only God can do that, for He alone scrutinizes and judges the secret counsels of the heart.
 
-49. Hence, representatives of the State have no power to bind men in conscience, unless their own authority is tied to God's authority, and is a participation in it.(32)
+49\. Hence, representatives of the State have no power to bind men in conscience, unless their own authority is tied to God's authority, and is a participation in it.(32)
 
 50\. The application of this principle likewise safeguards the dignity of citizens. Their obedience to civil authorities is never an obedience paid to them as men. It is in reality an act of homage paid to God, the provident Creator of the universe, who has decreed that men's dealings with one another be regulated in accordance with that order which He Himself has established. And we men do not demean ourselves in showing due reverence to God. On the contrary, we are lifted up and ennobled in spirit, for to serve God is to reign.(33)
 

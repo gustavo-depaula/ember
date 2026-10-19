@@ -36,7 +36,7 @@ Inasmuch as the following protocols have seemed proper to ordain and sanction in
 
 - New schools or religious houses of the Latin rite for either gender are not to be opened in future except by a grant of a petition to the Apostolic See.
 
-1.  1.  It is not lawful for Latin or Eastern rite priests to give absolution, either in churches of their own rite or those of another rite, in cases that are reserved to the subject’s Ordinary, unless the faculty has been granted by them. We entirely revoke any privilege to the contrary of these prescriptions, even one worthy of specific mention.
+&nbsp;
 
 - Any person of an Eastern rite who has transferred to the Latin rite, even when this has been authorized by Pontifical rescript, shall be permitted to return to his original rite, upon petitioning the Apostolic See.
 
@@ -83,12 +83,12 @@ Therefore, whatever We have determined, declared, and sanctioned in this letter,
 Given at Rome, at St. Peter’s, the thirtieth of November, in the year of Our Lord’s Incarnation one thousand eight hundred ninety-four, the seventeenth of Our Pontificate.
 
 1\. Mt 2.2.  
-2. Ps 44:14-15.  
-3. Const. Demandatam, 13.  
-4. Eph. 4:13, 16.  
-5. Eph. 4:4.  
-6. Rom. 12:10.  
-7. Rev. 1:4.
+2\. Ps 44:14-15.  
+3\. Const. Demandatam, 13.  
+4\. Eph. 4:13, 16.  
+5\. Eph. 4:4.  
+6\. Rom. 12:10.  
+7\. Rev. 1:4.
 
 ENGLISH TRANSLATION: Edward Stickland, 1996.  
 as found in *The Vatican and the Eastern Christian Churches: Papal Encyclicals and Documents concerning the Eastern Churches*.  

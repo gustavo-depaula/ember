@@ -14,24 +14,23 @@ On 22 June, however,
 
 - His teaching was examined and judgment passed upon it, which **197** bishops subscribed at once and others later accepted.Shortly afterwards John of Antioch and the easterners arrived: they refused communion with Cyril and set up another council. **The Roman legates** (the bishops Arcadius and Projectus and the priest Philip), on arriving, **joined Cyril** and confirmed the sentence against Nestorius. Then the council in its fifth session on 17 July excommunicated John and his party.The documents of **the Cyrilline council**, the only one which **is ecumenical**, are included below and are as follows.
 
-  1.  The central dogmatic act of the council is its judgment about whether the second letter of Cyril to Nestorius, or Nestorius’s second letter to Cyril, was in conformity with the Nicene creed which was recited at the opening of the council’s proceedings.
+  1\. The central dogmatic act of the council is its judgment about whether the second letter of Cyril to Nestorius, or Nestorius’s second letter to Cyril, was in conformity with the Nicene creed which was recited at the opening of the council’s proceedings.
+  - [Cyril’s letter](https://www.papalencyclicals.net//Councils/ecum03.htm#Second%20letter%20of%20Cyril%20to%20Nestorius) was declared by the fathers to be in agreement with Nicaea,
+  - [Nestorius’s](https://www.papalencyclicals.net//Councils/ecum03.htm#Second%20letter%20of%20Nestorius%20to%20Cyril) was [condemned](https://www.papalencyclicals.net//Councils/ecum03.htm#The%20judgment%20against%20Nestorius)
 
-      - [Cyril’s letter](https://www.papalencyclicals.net//Councils/ecum03.htm#Second%20letter%20of%20Cyril%20to%20Nestorius) was declared by the fathers to be in agreement with Nicaea,
-      - [Nestorius’s](https://www.papalencyclicals.net//Councils/ecum03.htm#Second%20letter%20of%20Nestorius%20to%20Cyril) was [condemned](https://www.papalencyclicals.net//Councils/ecum03.htm#The%20judgment%20against%20Nestorius)
+  Both are here printed. Mention is made of Cyril’s letter in the definition of Chalcedon.
 
-      Both are here printed. Mention is made of Cyril’s letter in the definition of Chalcedon.
+  2\. [The 12 anathemas](https://www.papalencyclicals.net//Councils/ecum03.htm#Twelve%20Anathemas%20Proposed%20by%20Cyril%20and%20accepted%20by%20the%20Council%20of%20Ephesus) and [the preceding explanatory letter,](https://www.papalencyclicals.net//Councils/ecum03.htm#Third%20letter%20of%20Cyril%20to%20Nestorius) which had been produced by *Cyril* and the *synod of Alexandria* in 430 and sent to Nestorius, **were read at Ephesus and included in the proceedings**.
 
-  2.  [The 12 anathemas](https://www.papalencyclicals.net//Councils/ecum03.htm#Twelve%20Anathemas%20Proposed%20by%20Cyril%20and%20accepted%20by%20the%20Council%20of%20Ephesus) and [the preceding explanatory letter,](https://www.papalencyclicals.net//Councils/ecum03.htm#Third%20letter%20of%20Cyril%20to%20Nestorius) which had been produced by *Cyril* and the *synod of Alexandria* in 430 and sent to Nestorius, **were read at Ephesus and included in the proceedings**.
+  3\. [The decision about Nestorius.](https://www.papalencyclicals.net//Councils/ecum03.htm#The%20judgment%20against%20Nestorius)
 
-  3.  [The decision about Nestorius.](https://www.papalencyclicals.net//Councils/ecum03.htm#The%20judgment%20against%20Nestorius)
+  4\. [The letter of the council advising all the bishops, clergy and people about the condemnation of John of Antioch;](https://www.papalencyclicals.net//Councils/ecum03.htm#Synodical%20letter%20about%20the%20expulsion%20of%20the%20eastern%20bishops%20(et%20al.)) and some paragraphs dealing with the discipline of the Nestorian party.
 
-  4.  [The letter of the council advising all the bishops, clergy and people about the condemnation of John of Antioch;](https://www.papalencyclicals.net//Councils/ecum03.htm#Synodical%20letter%20about%20the%20expulsion%20of%20the%20eastern%20bishops%20(et%20al.)) and some paragraphs dealing with the discipline of the Nestorian party.
+  5\. [A decree on the faith,](https://www.papalencyclicals.net//Councils/ecum03.htm#Definition%20of%20the%20faith%20at%20Nicaea%20%5B6th%20session%2022%20July%20431%5D) approved in the sixth session on 22 July, which confirmed the Nicene creed, ordered adherence to that alone and forbade the production of new creeds.
 
-  5.  [A decree on the faith,](https://www.papalencyclicals.net//Councils/ecum03.htm#Definition%20of%20the%20faith%20at%20Nicaea%20%5B6th%20session%2022%20July%20431%5D) approved in the sixth session on 22 July, which confirmed the Nicene creed, ordered adherence to that alone and forbade the production of new creeds.
+  6\. [A definition against the Messalians.](https://www.papalencyclicals.net//Councils/ecum03.htm#Definition%20against%20the%20impious%20Messalians%20or%20Euchites)
 
-  6.  [A definition against the Messalians.](https://www.papalencyclicals.net//Councils/ecum03.htm#Definition%20against%20the%20impious%20Messalians%20or%20Euchites)
-
-  7.  [A decree about the autonomy of the church of Cyprus.](https://www.papalencyclicals.net//Councils/ecum03.htm#Resolution%20:%20that%20the%20bishops%20of%20Cyprus%20may%20themselves%20conduct%20ordinations)
+  7\. [A decree about the autonomy of the church of Cyprus.](https://www.papalencyclicals.net//Councils/ecum03.htm#Resolution%20:%20that%20the%20bishops%20of%20Cyprus%20may%20themselves%20conduct%20ordinations)
 
   Both councils sent legates to the emperor Theodosius, who approved neither and sent the bishops away. Nestorius had already been given permission to revisit his monastery at Antioch, and on 25 October 431 Maximianus was ordained patriarch at Constantinople. **The decrees of the council were approved by Pope Sixtus III** shortly after his own ordination on 31 July 432.
 
@@ -185,9 +184,11 @@ On 22 June, however,
 
   When these documents had been read out, the holy synod decreed the following.
 
-  1.  It is not permitted to produce or write or compose any other creed except the one which was defined by the holy fathers who were gathered together in the holy Spirit at Nicaea.
-  2.  Any who dare to compose or bring forth or produce another creed for the benefit of those who wish to turn from Hellenism or Judaism or some other heresy to the knowledge of the truth, if they are *bishops* or *clerics* they should be deprived of their respective charges and if they are *laymen* they are to be anathematised.
-  3.  In the same way if any should be discovered, whether bishops, clergy or laity, thinking or teaching the views expressed in his statement by the priest **Charisius** about the incarnation of the only-begotten Son of God or the disgusting, perverted views of **Nestorius,** which underlie them, these should be subject to the condemnation of this holy and ecumenical synod. A *bishop* clearly is to be stripped of his bishopric and deposed, a *cleric* to be deposed from the clergy, and a *lay person* is to be anathematised, as was said before.
+  1\. It is not permitted to produce or write or compose any other creed except the one which was defined by the holy fathers who were gathered together in the holy Spirit at Nicaea.
+
+  2\. Any who dare to compose or bring forth or produce another creed for the benefit of those who wish to turn from Hellenism or Judaism or some other heresy to the knowledge of the truth, if they are *bishops* or *clerics* they should be deprived of their respective charges and if they are *laymen* they are to be anathematised.
+
+  3\. In the same way if any should be discovered, whether bishops, clergy or laity, thinking or teaching the views expressed in his statement by the priest **Charisius** about the incarnation of the only-begotten Son of God or the disgusting, perverted views of **Nestorius,** which underlie them, these should be subject to the condemnation of this holy and ecumenical synod. A *bishop* clearly is to be stripped of his bishopric and deposed, a *cleric* to be deposed from the clergy, and a *lay person* is to be anathematised, as was said before.
 
   ------------------------------------------------------------------------
 

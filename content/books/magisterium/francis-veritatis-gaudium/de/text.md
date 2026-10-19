@@ -1115,11 +1115,11 @@ Unter Berücksichtigung alles dessen, was in der Apostolischen Konstitution und 
 **Studienordnung**
 
 1\. Welche Studienordnung in jeder Fakultät gilt;  
-2. Welche Studienzyklen vorgesehen sind;  
-3. Welche Fächer unterrichtet werden: ihre Verbindlichkeit und Stundenzahl;  
-4. Welche Seminare und Übungen vorgesehen sind;  
-5. Welche Examen und Prüfungen;  
-6. Eventuelle Modalitäten im Hinblick auf Fernstudien.
+2\. Welche Studienzyklen vorgesehen sind;  
+3\. Welche Fächer unterrichtet werden: ihre Verbindlichkeit und Stundenzahl;  
+4\. Welche Seminare und Übungen vorgesehen sind;  
+5\. Welche Examen und Prüfungen;  
+6\. Eventuelle Modalitäten im Hinblick auf Fernstudien.
 
 ------------------------------------------------------------------------
 
@@ -1134,30 +1134,30 @@ Die vorhandenen Spezialisierungen finden sich in der Datenbank der kirchlichen H
 Darüber hinaus enthält die Datenbank alle von der Kongregation für das Katholische Bildungswesen errichteten oder approbierten Hochschuleinrichtungen, die Teil des Bildungssystems des Heiligen Stuhls sind.
 
 1\. Christliche Archäologie;  
-2. Bioethik;  
-3. Kommunikationswissenschaft;  
-4. Kirchenrecht;  
-5. Rechtswissenschaften;  
-6. Philosophie;  
-7. Christliche und klassische Literatur;  
+2\. Bioethik;  
+3\. Kommunikationswissenschaft;  
+4\. Kirchenrecht;  
+5\. Rechtswissenschaften;  
+6\. Philosophie;  
+7\. Christliche und klassische Literatur;  
 8Judaistik und Studien der Beziehungen Judentum-Christentum;  
-9. Liturgiewissenschaft;  
-10. Missiologie;  
-11. Kirchenmusik;  
-12. Altorientalistik;  
-13. Psychologie;  
-14. Erziehungswissenschaften;  
-15. Religionswissenschaften;  
-16. Sozialwissenschaften;  
-17. Spiritualität;  
-18. Kirchengeschichte;  
-19. Arabische Studien und Islamistik;  
-20. Bibelwissenschaften;  
-21. Orientalische Studien;  
-22. Studien zu Ehe und Familie;  
-23. Studien in Friedenswissenschaften;  
-24. Studien in ganzheitlicher Ökologie;  
-25. Theologie.
+9\. Liturgiewissenschaft;  
+10\. Missiologie;  
+11\. Kirchenmusik;  
+12\. Altorientalistik;  
+13\. Psychologie;  
+14\. Erziehungswissenschaften;  
+15\. Religionswissenschaften;  
+16\. Sozialwissenschaften;  
+17\. Spiritualität;  
+18\. Kirchengeschichte;  
+19\. Arabische Studien und Islamistik;  
+20\. Bibelwissenschaften;  
+21\. Orientalische Studien;  
+22\. Studien zu Ehe und Familie;  
+23\. Studien in Friedenswissenschaften;  
+24\. Studien in ganzheitlicher Ökologie;  
+25\. Theologie.
 
 ------------------------------------------------------------------------
 

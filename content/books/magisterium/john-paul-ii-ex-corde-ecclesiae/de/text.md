@@ -50,10 +50,13 @@ Von Herzen wünsche ich, daß diese Weisungen, die sich auf die Lehre des II. Va
 
 13\. Weil es die Zielsetzung einer Katholischen Universität ist, angesichts der großen Fragestellungen in Gesellschaft und Kultur in institutionalisierter Form das Christliche im universitären Bereich präsent zu machen,(16) muß diese Universität als *Katholische* Universität durch folgende *Wesensmerkmale* geprägt sein:
 
-1.  christliche Ausrichtung nicht nur der einzelnen Mitglieder, sondern der ganzen Universitätsgemeinschaft als solcher;
-2.  ständige Reflexion im Lichte des katholischen Glaubens über den immerfort wachsenden Schatz der menschlichen Erkenntnis, zu dem sie ihren Teil mit den ihr eigenen Studien beizutragen sucht;
-3.  Treue gegenüber der christlichen Botschaft, so wie sie von der Kirche ausgelegt wird;
-4.  institutionalisierte Verpflichtung, dem Volk Gottes und der Menschheitsfamilie zu dienen auf ihrem Weg zu jenem alles transzendierenden Ziel, das dem Leben seinen Sinn gibt.(17)
+1\. christliche Ausrichtung nicht nur der einzelnen Mitglieder, sondern der ganzen Universitätsgemeinschaft als solcher;
+
+2\. ständige Reflexion im Lichte des katholischen Glaubens über den immerfort wachsenden Schatz der menschlichen Erkenntnis, zu dem sie ihren Teil mit den ihr eigenen Studien beizutragen sucht;
+
+3\. Treue gegenüber der christlichen Botschaft, so wie sie von der Kirche ausgelegt wird;
+
+4\. institutionalisierte Verpflichtung, dem Volk Gottes und der Menschheitsfamilie zu dienen auf ihrem Weg zu jenem alles transzendierenden Ziel, das dem Leben seinen Sinn gibt.(17)
 
 14\. »Im Licht dieser vier Eigenschaften ist offenkundig, daß über Lehre, Forschung und über die allen Universitäten gemeinsamen Dienste hinaus, eine Katholische Universität aufgrund ihrer *als Institution eigenen Verpflichtung* in ihre Arbeit die Inspiration und das Licht der *christlichen Botschaft* einbezieht. In einer Katholischen Universität prägen und durchdringen daher katholische Ideale, Haltungen und Grundsätze die vielfältige Tätigkeit der Universität in Übereinstimmung mit Wesen und Autonomie, die diesen Tätigkeiten eigen sind. Kurz gesagt: Da die Katholische Universität gleichzeitig sowohl Universität als auch katholisch ist, muß sie zugleich eine Gemeinschaft von Dozenten und Studierenden aus den verschiedenen Bereichen menschlichen Wissens sein und zugleich eine akademische Institution, in der das Katholische in lebendiger Weise gegenwärtig ist«.(18)
 

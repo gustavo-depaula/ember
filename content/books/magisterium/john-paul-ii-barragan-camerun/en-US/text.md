@@ -12,7 +12,7 @@ I greet the Bishops, priests and deacons responsible for the pastoral animation 
 
 I have very special thoughts for you, dear sick brothers and sisters, who bear in your bodies the signs of suffering and frailty, and also for you, their families, who are closest to them in their daily life:  I am present among you all with my wholehearted affection.  
 
-2. This year, the celebration of World Day of the Sick is taking place in Africa, a Continent scarred by many serious problems, but also rich in extraordinary human and spiritual resources and enlivened by an intense desire for peace and authentic progress. Africa is suffering because of the presence of so many sick who are silently calling for solidarity from the whole world.
+2\. This year, the celebration of World Day of the Sick is taking place in Africa, a Continent scarred by many serious problems, but also rich in extraordinary human and spiritual resources and enlivened by an intense desire for peace and authentic progress. Africa is suffering because of the presence of so many sick who are silently calling for solidarity from the whole world.
 
 Dear brothers and sisters of Africa, Jesus is "the Man who knows suffering". In this year dedicated to the Eucharist, I invite you, in your thoughts and hearts, to join in the sacrifice of the Mass, an inexhaustible source of hope in all life's trials.
 

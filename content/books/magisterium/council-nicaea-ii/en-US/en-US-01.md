@@ -90,10 +90,13 @@ To summarize, **we** declare that we **defend** free from any innovations **all 
 
   ### Anathemas concerning holy images
 
-  1.  If anyone does not *confess* that Christ our God can be represented in his humanity, let him be **anathema**.
-  2.  If anyone does not *accept* representation in art of evangelical scenes, let him be **anathema**.
-  3.  If anyone does not *salute* such representations as standing for the Lord and his saints, let him be **anathema**.
-  4.  If anyone *rejects* any *written or unwritten* tradition of the church, let him be **anathema**.
+  1\. If anyone does not *confess* that Christ our God can be represented in his humanity, let him be **anathema**.
+
+  2\. If anyone does not *accept* representation in art of evangelical scenes, let him be **anathema**.
+
+  3\. If anyone does not *salute* such representations as standing for the Lord and his saints, let him be **anathema**.
+
+  4\. If anyone *rejects* any *written or unwritten* tradition of the church, let him be **anathema**.
 
   ### CANONS
 

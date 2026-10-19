@@ -13,8 +13,8 @@ PONTIFICIA COMMISSIONE BIBLICA
 **[Introduzione Generale](#INTRODUZIONE_GENERALE_)**
 
 1\. La liturgia della Parola e il suo contesto eucaristico  
-2. Il contesto dello studio dell’ispirazione e della verità della Bibbia  
-3. Le tre parti del documento
+2\. Il contesto dello studio dell’ispirazione e della verità della Bibbia  
+3\. Le tre parti del documento
 
 **[Prima Parte: La testimonianza degli scritti biblici sulla loro provenienza da Dio](#PRIMA_PARTE)**
 

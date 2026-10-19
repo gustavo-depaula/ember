@@ -60,48 +60,48 @@ NORMAE
 § 5. Curetur, ut Episcopi Auxiliares certiores reddantur audianturque praesertim circa res, ad peculiare munus suum pastorale pertinentes.
 
 I. SECRETARIA GENERALIS  
-4. *Secretaria Generalis*, quam Praelatus Secretarius a Nobis nominatus moderatur, munera implet pertinentia ad cancellariam Curiae et ad acta administrativa, ad negotia generalia et ministrorum, ad informationem et documentationem, ad servitia nexu componenda, ad generalem consultationem circa res iuridicas et ad Officia coordinanda, peculiari ratione habita permanentis formationis pastoralis Cleri, religiosorum, religiosarum et laicorum, in pastorale opus incumbentium, atque etiam formationis magistrorum et catechistarum. Praeterea sub eius recognitione (vulgo *supervisione*) Officia administrativum seu oeconomicum, iuridicum et technicum operantur.
+4\. *Secretaria Generalis*, quam Praelatus Secretarius a Nobis nominatus moderatur, munera implet pertinentia ad cancellariam Curiae et ad acta administrativa, ad negotia generalia et ministrorum, ad informationem et documentationem, ad servitia nexu componenda, ad generalem consultationem circa res iuridicas et ad Officia coordinanda, peculiari ratione habita permanentis formationis pastoralis Cleri, religiosorum, religiosarum et laicorum, in pastorale opus incumbentium, atque etiam formationis magistrorum et catechistarum. Praeterea sub eius recognitione (vulgo *supervisione*) Officia administrativum seu oeconomicum, iuridicum et technicum operantur.
 
 II\. OFFICIA  
-5. *Officia rei pastorali provehendae* (vulgo *Centri pastorali*) expendunt necessitates religiosas Dioecesis Romanae atque proponunt incepta pastoralia ad efficaciter implendum munus episcopale docendi, sanctificandi et regendi, cuius accuratam exsecutionem promoveant.  
-6. *Officium evangelizationi et catechesi provehendis* (vulgo *Centro pastorale per l'evangelizzazione e la catechesi*) promovet ministerium Verbi intra communitatem christianam praecipue per praedicationem et catechesim in ipsis paroeciis et familiis, atque inter discipulos scholarum elementariarum mediarumque ordinis tum inferioris tum superioris. Sustentat et adiuvat scholas catholicas, ut apte consequantur propria cuiusque instituti proposita. Incitat oecumenismum fideique annuntiationem non christianis et non credentibus.  
-7. *Officium cultui et sanctificationi provehendis* (vulgo *Centro pastorale per il culto e la santificazione*) promovet aptoque nexu disponit : a) actionem liturgicam et sacramentalem, cantum sacrum et tutelam ipsarum aedium sacrarum earumque ornatus; b) animationem et formationem hominum ad ministeria permissa riteque instituta; c) incepta permanentia spiritualitatis christianae (exercitationes spirituales, curricula domestica, peregrinationes sacras, hisque similia).
+5\. *Officia rei pastorali provehendae* (vulgo *Centri pastorali*) expendunt necessitates religiosas Dioecesis Romanae atque proponunt incepta pastoralia ad efficaciter implendum munus episcopale docendi, sanctificandi et regendi, cuius accuratam exsecutionem promoveant.  
+6\. *Officium evangelizationi et catechesi provehendis* (vulgo *Centro pastorale per l'evangelizzazione e la catechesi*) promovet ministerium Verbi intra communitatem christianam praecipue per praedicationem et catechesim in ipsis paroeciis et familiis, atque inter discipulos scholarum elementariarum mediarumque ordinis tum inferioris tum superioris. Sustentat et adiuvat scholas catholicas, ut apte consequantur propria cuiusque instituti proposita. Incitat oecumenismum fideique annuntiationem non christianis et non credentibus.  
+7\. *Officium cultui et sanctificationi provehendis* (vulgo *Centro pastorale per il culto e la santificazione*) promovet aptoque nexu disponit : a) actionem liturgicam et sacramentalem, cantum sacrum et tutelam ipsarum aedium sacrarum earumque ornatus; b) animationem et formationem hominum ad ministeria permissa riteque instituta; c) incepta permanentia spiritualitatis christianae (exercitationes spirituales, curricula domestica, peregrinationes sacras, hisque similia).
 
 8\. *Officiun animationi communitatis christianae et ministeriis socialibus-caritativis provehendis* (vulgo *Centro pastorale per l'animazione* *della comunità cristiana ed i servizi socio-caritativi*) promovet aptoque nexu disponit rem pastoralem organicam in ambitu locali (Dioecesis, praefecturarum, paroeciarum), in variis condicionibus diversisque hominum ordinibus et statibus (cfr. familiam, culturam, instrumenta communicationis socialis, itinera relaxationis causa suscepta, spectacula et tempus vacuum), in operositate sodaliciorum laicatus (Confraternitatum, consociationum hisque similium) nec non in operibus dioecesanis.  
 Idem officium promovet aptoque nexu disponit actionem pastoralem pro infirmis (in valetudinariis, hospitiis hisque similibus), pro senibus, mente membrisve captis, corpore impeditis iisque omnibus, quibus magis opus est adiumento et curatione, atque actuositatem institutorum quibus promotio humana est proposita et operum socialium-caritativorum.  
-9. Officium pro personis physicis et iuridicis res pertractat pertinentes ad personas et instituta sacerdotalia, ad personas et instituta vitae consecratae, ad personas et instituta laicorum.
+9\. Officium pro personis physicis et iuridicis res pertractat pertinentes ad personas et instituta sacerdotalia, ad personas et instituta vitae consecratae, ad personas et instituta laicorum.
 
 10\. *Officia administrativum, iuridicum et technicum* prospiciunt rationibus administrativis, oeconomicis, iuridicis et technicis, quae postulantur ad pastoralem actionem persequendam.  
 Ipsis utitur «Pontificium Opus praeservandae Fidei novisque Romae templis exstruendis», quod ut institutum iuridicum propriam sibi indolem distinctam et personae (iuridicae) rationem servat, iuxta pontificium documentum, quo est constitutum (Cfr. PII PP. XI *In Allocutione*: *AAS* 22 (1930) 337-340).  
-11. Ministeria auxiliaria. Ut rite haec ministeria expleantur adhiberi poterunt peculiaria Consilia studii ac Secretariatus.
+11\. Ministeria auxiliaria. Ut rite haec ministeria expleantur adhiberi poterunt peculiaria Consilia studii ac Secretariatus.
 
 III\. TRIBUNALIA  
-12. § 1. Apud Vicariatum Urbis duo constituta sunt distinta Tribunalia:  
+12\. § 1. Apud Vicariatum Urbis duo constituta sunt distinta Tribunalia:  
 1) Tribunal Ordinarium Dioecesis Romanae;  
 2) Tribunal Regionale Latii pro causis nullitatis matrimonii.  
 § 2. Haec Tribunalia pro sua quodque natura pendent ex Cardinali Vicario. Quod autem ad Tribunal Regionale Latii attinet, facultates et munera, quae Normae Supremi Tribunalis Signaturae Apostolicae assignant Moderatori Tribunalium Regionalium, pertinent ad ipsum Cardinalem Vicarium, illis quidem casibus exceptis de quibus haec Nostra Constitutio aliter decernit (Cfr. SUPREMI SIGNATURAE APOSTOLICAE TRIBUNALIS *Normae pro* *Tribunalibus interdioecesanis vel regionalibus aut interregionalibus*: *AAS* 63 (1971) 486-492).  
 Potestatem in Tribunalia Cardinalis Vicarii propriam exercet Vices Gerens, eo impedito vel absente aut ipsius officio vacante.  
-13. Singula Tribunalia consistunt ex Officiali et aequo numero Vice-Officialium, ex Iudicibus, Defensoribus Vinculi, Promotoribus Iustitiae, Praeposito Cancellariae ac nonnullis Notariis. Unumquodque Tribunal habet propriam administrationem.
+13\. Singula Tribunalia consistunt ex Officiali et aequo numero Vice-Officialium, ex Iudicibus, Defensoribus Vinculi, Promotoribus Iustitiae, Praeposito Cancellariae ac nonnullis Notariis. Unumquodque Tribunal habet propriam administrationem.
 
 14\. Officiales Tribunalium, Vice-Officiales, Iudices, Defensores Vinculi et Promotores Iustitiae nominantur a Summo Pontifice ad certum ac definitum tempus, proponente Cardinali Vicario pro Tribunali Dioecesano atque Conferentia Episcopali Latii pro Tribunali Regionali.  
-15. Quisque Officialis suam auctoritatem administrativam, disciplinarem et oeconomicam exsequitur tantummodo supra et intra proprium Tribunal separatim plane ab altero Tribunali.  
-16. In singulis Tribunalibus vices sive «turni » iudicationis statuuntur unoquoque ineunte anno iudiciali ab ipso Cardinali Vicario per decretum generale, quod ipsum Praesidem, Ponentem et Iudicem Instructorem destinabit. Causae vero variis «turnis» committuntur secundum ordinem, quo ipsae in tabulas relatae sunt. Constitutio «turnorum» iudicationis mutari potest a solo Cardinali Vicario si unus alterve Iudex impeditur, postquam impediti solidam rationem scripto detulerunt et Officialis ipse suam dixit sententiam.  
-17. Secundum varia argumenta album peritorum Tribunalis editur ineunte quoque anno iudiciali a Cardinali Vicario. Ex illo vicissim albo Iudices Instructores designabunt peritos in singulis causis.
+15\. Quisque Officialis suam auctoritatem administrativam, disciplinarem et oeconomicam exsequitur tantummodo supra et intra proprium Tribunal separatim plane ab altero Tribunali.  
+16\. In singulis Tribunalibus vices sive «turni » iudicationis statuuntur unoquoque ineunte anno iudiciali ab ipso Cardinali Vicario per decretum generale, quod ipsum Praesidem, Ponentem et Iudicem Instructorem destinabit. Causae vero variis «turnis» committuntur secundum ordinem, quo ipsae in tabulas relatae sunt. Constitutio «turnorum» iudicationis mutari potest a solo Cardinali Vicario si unus alterve Iudex impeditur, postquam impediti solidam rationem scripto detulerunt et Officialis ipse suam dixit sententiam.  
+17\. Secundum varia argumenta album peritorum Tribunalis editur ineunte quoque anno iudiciali a Cardinali Vicario. Ex illo vicissim albo Iudices Instructores designabunt peritos in singulis causis.
 
 **1. Tribunal Dioecesanum Romae**
 
 18\. Regitur canonibus 1572-1593 8C.I.C. Constat ex Officiali, aequo numero Iudicum, Promotore Iustitiae, Defensore Vinculi, Praeposito Cancellariae et non nullis Notariis (*Codex Iuris Canonici*, cann. 1572-1593).  
-19. § 1. Hoc Tribunal iurisdictionem habet in universis causis, quae in foro canonico dirimi possunt, exceptis causis nullitatis matrimonii.  
+19\. § 1. Hoc Tribunal iurisdictionem habet in universis causis, quae in foro canonico dirimi possunt, exceptis causis nullitatis matrimonii.  
 § 2. In eiusdem illius generis causis ipsum putari debet tribunal secundae instantiae pro dioecesibus suburbicariis ceterisque dioecesibus Latii.  
 § 3. Iurisdictionem etiam habet in causis Sanctorum secundum iam provisas accommodationes ea in re (Cfr. PAULI PP. VI *Sanctitas Clarior*: *AAS* 61 (1969) 149-153).  
 § 4. Huic praeterea Tribunali concreditur institutio causarum dispensationis super ratum et non consummatum, solutionis matrimonii in favorem fidei, nec non investigatio in causis petitae dispensationis ab oneribus ex sacra ordinatione (Cfr. SACRAE CONGREGATIONIS PRO DOCTRINA FIDEI *Normae ad apparandas . . . causas reductionis ad statum laicalem . . . .* *AAS* 63 (1971) 303-308; SACRAE CONGREGATIONIS DE DISCIPLINA SACRAMENTORUM *Dispensationis matrimonii*: *AAS* 64 (1972) 244-252).  
-20. A Tribunali Dioecesano appellatur ad Sacram Romanam Rotam.
+20\. A Tribunali Dioecesano appellatur ad Sacram Romanam Rotam.
 
 **2. Tribunal Regionale Latii**
 
 21\. Secundum normas Litterarum Apostolicarum «Qua cura» motu proprio editarum, Tribunalis Regionalis Latii est tractare et definire causas nullitatis matrimonii pro Regione Latii. Illud praeterea est appellationis Tribunal pro causis nullitatis matrimonii iam decisis in primo gradu a Tribunalibus Regionalibus Neapolitano et Calamitano (PII PP. XI *Qua Cura*, I-II: *AAS* 30 (1938) 412).  
-22. Ab hoc Tribunali appellatur ad Sacram Romanam Rotam (*Ibid*. II: *AAS* 30 (1938) 412).  
-23. § 1. Priusquam hoc Tribunal recipiat causam pro sua auctoritate «fori plerarumque probationum», obtinere illud oportebit consensionem Cardinalis Vicarii, cui explicandum erit, quae definitae probationes et quales necesse sit in Regione Latii colligantur (Cfr. PAULI PP. VI *Causas* *Matrimoniales*, IV, § 1, c.: *AAS* 63 (1971) 443).  
+22\. Ab hoc Tribunali appellatur ad Sacram Romanam Rotam (*Ibid*. II: *AAS* 30 (1938) 412).  
+23\. § 1. Priusquam hoc Tribunal recipiat causam pro sua auctoritate «fori plerarumque probationum», obtinere illud oportebit consensionem Cardinalis Vicarii, cui explicandum erit, quae definitae probationes et quales necesse sit in Regione Latii colligantur (Cfr. PAULI PP. VI *Causas* *Matrimoniales*, IV, § 1, c.: *AAS* 63 (1971) 443).  
 § 2. Ut sententiae ferantur de regulis in casibus specialibus, Cardinalis Vicarius peculiare mandatum dare poterit Officiali Tribunalis Regionalis in singulis casibus (*Ibid*. X-XI: *AAS* 63 (1971) 445).
 
 NORMA TRANSITORIA

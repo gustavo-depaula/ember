@@ -129,6 +129,21 @@ def unwrap_tables(root: Tag) -> None:
         table.replace_with(*blocks) if blocks else table.decompose()
 
 
+def number_list_items(root: Tag) -> None:
+    """vatican.va often marks a document's numbered paragraphs up as an <ol>, so they
+    render as a hanging-indent list beside the plainly numbered ones. Each item
+    becomes a paragraph that carries its number."""
+    for ol in reversed(root.find_all("ol")):
+        start = int(ol.get("start") or 1) if str(ol.get("start") or "1").isdigit() else 1
+        blocks = []
+        for i, li in enumerate(ol.find_all("li", recursive=False)):
+            div = _TAGS.new_tag("div")
+            div.append(f"{start + i}. ")
+            div.extend(list(li.contents))
+            blocks.append(div)
+        ol.replace_with(*blocks) if blocks else ol.decompose()
+
+
 def unwrap_tables_html(html: str) -> str:
     if "<table" not in html.lower():
         return html
@@ -154,6 +169,10 @@ def pandoc(html: str) -> str:
     # are left by layout markup; neither carries text.
     out = re.sub(r"^(?:[*_]+\s*)+$", "", out, flags=re.M)
     out = re.sub(r"^>\s*$", "", out, flags=re.M)
+    # pandoc escapes "1." at a paragraph's start but not "2.", which Markdown then
+    # reads as a list. Numbered HTML lists are flattened before this, so a line
+    # opening with a number and a period is always a numbered paragraph.
+    out = re.sub(r"^(\d+)\. ", r"\1\\. ", out, flags=re.M)
     return out
 
 
@@ -209,6 +228,7 @@ VATICAN_COPYRIGHT_LINE = re.compile(
 
 def to_markdown(root: Tag, title: str, notes: dict[int, str] | None = None) -> str:
     unwrap_tables(root)
+    number_list_items(root)
     body = pandoc(str(root))
     body = re.sub(r"\\?⟦(\d+)\\?⟧", r"[^\1]", body)
     body = VATICAN_COPYRIGHT_LINE.sub("", body)

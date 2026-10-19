@@ -95,7 +95,7 @@ As discussões gerais sobre o tema foram realizadas nas várias reuniões da sub
 
 7\. A expressão *sensus* *fidei* não é encontrada nem na Bíblia nem no ensino formal da Igreja antes do Concílio Vaticano II. No entanto, a ideia de que a Igreja como um todo é infalível em sua fé, porque ela é o corpo de Cristo e sua esposa (*1Cor* 12,27, *Ef* 4,12; 5,21-32, *Apoc* 21,9), e que todos os membros têm uma unção que ensina (cf. *1Jo* 2,20.27), graças ao dom do Espírito da verdade (cf. *Jo* 16,13), se encontra em toda parte, desde os primórdios do cristianismo. Este capítulo irá seguir as grandes linhas do desenvolvimento dessa ideia, em primeiro lugar nas Escrituras, e, em seguida, na história da Igreja.
 
-1. **O ensinamento da Bíblia**
+1\. **O ensinamento da Bíblia**
 
 a\) *A fé como resposta à palavra de Deus*
 
@@ -143,7 +143,7 @@ c\) *A capacidade dos fiéis de conhecer a verdade e de testemunhá-la*
 
 21\. Finalmente, no livro do Apocalipse, João, o profeta, repete em todas as suas cartas às Igrejas (*Apoc* 2-3) a fórmula: “Quem tem ouvidos, ouça o que o Espírito diz às Igrejas” (*Apoc* 2,7 e outros). Ele instrui os membros da Igreja para prestar atenção à palavra viva do Espírito, para recebê-la e dar glória a Deus. É pela obediência da fé, que já é um dom do Espírito, que os fiéis são capazes de reconhecer o ensinamento que eles receberam como verdadeiro ensinamento do mesmo Espírito e de responder às instruções dadas a eles.
 
-2. **O desenvolvimento da ideia e seu papel na história da Igreja**
+2\. **O desenvolvimento da ideia e seu papel na história da Igreja**
 
 22\. O conceito de *sensus* *fidelium* começou a ser desenvolvido e ser utilizado de forma mais sistemática no tempo da Reforma, embora o papel decisivo do *consensus* *fidelium* no discernimento e no desenvolvimento da doutrina em matéria de fé e de moral já tinha sido reconhecido durante os períodos patrístico e medieval. No entanto, é necessário prestar maior atenção ao papel específico dos leigos a este respeito. Esta questão recebe atenção especial a partir do século XIX.
 
@@ -253,7 +253,7 @@ e\) *O século XX*
 
 66\. Uma vez que a fé de cada fiel participa na fé da Igreja como sujeito que crê, o *sensus* *fidei* (*fidelis*) do fiel não pode estar separado do *sensus fidei* (*fidelium*) ou *sensus Ecclesiae*[^80] da própria Igreja, que recebeu como dom o Espírito Santo e a sua assistência[^81], o *consensus* *fidelium* constitui um critério seguro para reconhecer se um ensinamento determinado ou uma prática determinada está de acordo com a Tradição apostólica[^82]. Portanto, o presente capítulo aborda vários aspectos da *sensus fidei fidelium*. Primeiro, ele considera o papel deste último no desenvolvimento da doutrina e da prática cristãs; depois, duas relações de grande importância para a vida e para a saúde da Igreja, ou seja, entre o *sensus fidei* e o Magistério, e entre o *sensus fidei* e a teologia; finalmente, alguns aspectos ecumênicos do *sensus fidei*.
 
-1. **O *sensus fidei* e o desenvolvimento da doutrina e da prática cristã**
+1\. **O *sensus fidei* e o desenvolvimento da doutrina e da prática cristã**
 
 67\. A Igreja inteira, hierarquia e leigos juntos, é responsável pela revelação contida nas Sagradas Escrituras e na Tradição apostólica viva, e é sua mediadora na história. O Concílio Vaticano II declarou que as Sagradas Escrituras e a Tradição “constituem um só sagrado depósito da palavra de Deus”, que é “confiado à Igreja”, isto é, o “povo santo todo, unido a seus pastores”[^83]. O Concílio ensinou claramente que os fiéis não são apenas os destinatários passivos do que a hierarquia ensina e os teólogos explicitam; eles são, ao contrário, sujeitos vivos e ativos no seio da Igreja. Neste contexto, o Concílio sublinhou o papel vital desempenhado por todos os fiéis na expressão e no desenvolvimento da fé: “Esta Tradição, oriunda dos apóstolos, progride na Igreja sob a assistência do Espírito Santo”[^84].
 
@@ -281,7 +281,7 @@ III\) O surpreendente desenvolvimento, embora homogêneo, entre a condenação d
 
 A dificuldade de discernir o *sensus* *fidelium* autêntico em casos como aqueles apenas mencionados sublinha a necessidade de identificar quais são as disposições necessárias para participar de forma autêntico no *sensus* *fidei*; estas disposições, por sua vez, podem ser utilizadas como critérios para discernir o autêntico *sensus* *fidei*[^88].
 
-2. **O sensus fidei e o Magistério**
+2\. **O sensus fidei e o Magistério**
 
 a\) *O Magistério está à escuta do* sensus fidelium
 
@@ -303,7 +303,7 @@ c\) *A recepção*
 
 80\. Há ocasiões, no entanto, em que a recepção do ensinamento do Magistério pelos fiéis encontra dificuldade e resistência; é necessário, então, em tais situações, ambos os lados agir de forma adequada. Os fiéis devem refletir sobre o ensinamento que lhe foi dado, fazendo o seu melhor para compreender e para aceitar. Resistir por princípio ao ensinamento do Magistério é incompatível com um autêntico *sensus* *fidei*. O Magistério deve, igualmente, refletir sobre o ensinamento que foi dado e examinar se não há necessidade de esclarecer ou reformular a fim de comunicar mais eficazmente a sua mensagem essencial. Estes esforços mútuos em tempos de dificuldade expressam a comunhão, que é essencial para a vida da Igreja, assim como a aspiração para receber a graça do Espírito que guia a Igreja “à verdade plena” (*Jo* 16,13).
 
-3. **O sensus fidei e a teologia**
+3\. **O sensus fidei e a teologia**
 
 81\. Como ela está a serviço da inteligência da fé, a teologia procura, dentro da *conspiratio* de todos os carismas e de todas as funções na Igreja, oferecer a ela mesma uma precisão objetiva sobre o conteúdo de sua fé, o que depende necessariamente da existência do *sensus* *fidelium* e de seu exercício correto. Este *sensus* *fidelium* não é apenas objeto da atenção dos teólogos, mas constitui um fundamento e um *locus* para o seu trabalho[^100]. A própria teologia tem uma relação dupla com o *sensus* *fidelium*. Por um lado, os teólogos dependem do *sensus* *fidei*, porque a fé que eles estudam e explicam vive no povo de Deus. Neste sentido, a teologia deve se colocar na escola de *sensus* *fidelium*, a fim de descobrir as ressonâncias profundas da palavra de Deus. Por outro lado, os teólogos ajudam os fiéis a expressar o *sensus* *fidelium* autêntico, lembrando-lhes as linhas essenciais da fé e ajudando-lhes a evitar desvios e confusões causadas pela influência de elementos imaginários provenientes de outros lugares. Esta relação dupla deve ser clarificada, como é feito nas secções seguintes (a) e (b).
 
@@ -323,7 +323,7 @@ b\) *Os teólogos refletem sobre o sensus fidelium*
 
 84\. A teologia também é útil ao *sensus* *fidelium* de uma outra maneira. Ele ajuda os fiéis a conhecer com clareza e precisão o sentido autêntico das Escrituras, o verdadeiro alcance das definições conciliares, os conteúdos próprios da Tradição, bem como as questões que permanecem em aberto – por exemplo, por causa de ambiguidades contidas nas afirmações correntes, ou devido a fatores culturais que deixaram sua marca sobre o que foi transmitido – e nos âmbitos onde é necessária uma revisão de posições anteriores. O *sensus* *fidelium* se funda em uma compreensão robusta e segura da fé, como a teologia procura promover.
 
-4. **Aspectos ecumênicos do *sensus* *fidei***
+4\. **Aspectos ecumênicos do *sensus* *fidei***
 
 85\. As noções de *sensus fidei*, de *sensus fidelium* e de *consensus fidelium* foram todos tratados, ou pelo menos mencionados, em vários diálogos internacionais entre a Igreja Católica e outras Igrejas e comunidades eclesiais. Em linhas gerais, foi acordado durante esses diálogos que todo o corpo de fiéis, leigos e ministros ordenados, tem a responsabilidade de preservar a fé apostólica da Igreja e seu testemunho, e cada um dos batizados, em virtude da unção divina (*1Jo* 2,20.27), tem a capacidade de discernir a verdade em matéria de fé. Há também um consenso geral sobre o fato de que alguns membros da Igreja exercem uma responsabilidade especial de ensino e de supervisão, mas sempre em conjunto com o resto dos fiéis[^106].
 
@@ -337,7 +337,7 @@ II\) Deve-se pensar que os cristãos separados participam e contribuem de alguma
 
 87\. Como o *sensus* *fidei* é essencial à vida da Igreja, agora é necessário examinar como discernir e identificar as suas manifestações autênticas. Tal discernimento é especialmente necessário em situações de tensão onde é necessário distinguir o autêntico *sensus* *fidei* de simples expressões da opinião popular, de interesses particulares ou do espírito do tempo. Reconhecendo que o *sensus* *fidei* é uma realidade eclesial na qual cada fiel participa, a primeira parte deste capítulo procurará identificar quais são as características requeridas para que os batizados possam ser verdadeiramente sujeitos do *sensus* *fidei*, em outras palavras, quais são as disposições necessárias para os fiéis participarem autenticamente no *sensus* *fidelium*. A criteriologia proposta na primeira parte será, então, concluída na segunda parte deste capítulo por um estudo da aplicação prática destes critérios com relação ao *sensus* *fidei*. Esta segunda parte examinará três tópicos importantes: em primeiro lugar, a estreita relação entre o *sensus* *fidei* e a religiosidade popular; em seguida, a necessária distinção entre o *sensus* *fidei* e a opinião pública, seja dentro ou fora da Igreja; e, finalmente, a questão de como consultar os fiéis em matéria de fé e moral.
 
-1. **As disposições necessárias para uma participação autêntica no *sensus* *fidei***
+1\. **As disposições necessárias para uma participação autêntica no *sensus* *fidei***
 
 88\. Não há uma única disposição, mas sim um conjunto de disposições, influenciadas por fatores eclesiais, espirituais e éticos. Nenhuma destas disposições pode ser discutida de forma isolada; as relações de cada uma com as outras e no seu conjunto deve ser levada em conta. Serão indicadas abaixo as mais importantes disposições necessárias para uma participação autêntica no *sensus* *fidei*, extraindo-as de uma pesquisa bíblica, histórica e sistemática, e formulando-as de tal modo que possam ser úteis para um julgamento em situações práticas.
 
@@ -387,7 +387,7 @@ f\) *A busca da edificação da Igreja*
 
 105\. Os sujeitos do *sensus* *fidei* são membros da Igreja que refletem o que diz São Paulo aos Coríntios: “Cada um recebe o dom de manifestar o Espírito para a utilidade de todos” (*1Cor* 12,7).
 
-2. **Aplicações**
+2\. **Aplicações**
 
 106\. É necessário completar a abordagem das disposições próprias ao *sensus* *fidei*, considerando algumas questões práticas e pastorais importantes, que dizem respeito, em particular, a relação entre o *sensus* *fidei* e a religiosidade popular; a necessária distinção entre o *sensus* *fidei* de um lado, e a opinião pública ou maioria de outro; e as formas de consultar os fiéis em matéria de fé e moral. Abordar-se-á, por sua vez, cada um desses pontos.
 

@@ -115,7 +115,7 @@ WE WSPÓŁCZESNYM ŚWIECIE
 
 ------------------------------------------------------------------------
 
-1. Radość Ewangelii napełnia serce oraz całe życie tych, którzy spotykają się z Jezusem. Ci, którzy pozwalają, żeby ich zbawił, zostają wyzwoleni od grzechu, od smutku, od wewnętrznej pustki, od izolacji. Z Jezusem Chrystusem rodzi się zawsze i odradza radość. W tej adhortacji pragnę zwrócić się do wiernych chrześcijan, aby zaprosić ich do nowego etapu ewangelizacji naznaczonego ową radością i aby ukazać drogi Kościoła najbliższych latach.
+1\. Radość Ewangelii napełnia serce oraz całe życie tych, którzy spotykają się z Jezusem. Ci, którzy pozwalają, żeby ich zbawił, zostają wyzwoleni od grzechu, od smutku, od wewnętrznej pustki, od izolacji. Z Jezusem Chrystusem rodzi się zawsze i odradza radość. W tej adhortacji pragnę zwrócić się do wiernych chrześcijan, aby zaprosić ich do nowego etapu ewangelizacji naznaczonego ową radością i aby ukazać drogi Kościoła najbliższych latach.
 
 I. Radość, która się odnawia i udziela innym
 

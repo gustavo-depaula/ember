@@ -31,8 +31,9 @@ Nach neuesten Erfahrungen erschien es Uns schließlich sehr zweckmäßig, die Ar
 
 Unter Abschaffung aller diesbezüglichen Gesetze jedweder Art legen Wir fest, daß folglich für die Zukunft nachstehende Bestimmungen einzuhalten sind.
 
-1.  Den Diözesanbischöfen bzw. den Hierarchen und allen ihnen rechtlich Gleichgestellten kommt innerhalb der Grenzen ihrer Jurisdiktion das Recht zu, sei es von Amts wegen, sei es auf Antrag einzelner Gläubiger oder rechtlich anerkannter Gruppen und deren Vertreter, Erhebungen anzustellen über das Leben, über die Tugenden oder das Martyrium und den Ruf der Heiligkeit bzw. des Martyriums, über behauptete Wunder sowie gegebenenfalls über eine althergebrachte Verehrung des Dieners Gottes, dessen Kanonisation beantragt wird.
-2.  Bei derartigen Erhebungen hat der Bischof nach den von der Heiligen Kongregation für die Heiligsprechung erlassenen besonderen Bestimmungen zu verfahren, und zwar in dieser Reihenfolge:
+1\. Den Diözesanbischöfen bzw. den Hierarchen und allen ihnen rechtlich Gleichgestellten kommt innerhalb der Grenzen ihrer Jurisdiktion das Recht zu, sei es von Amts wegen, sei es auf Antrag einzelner Gläubiger oder rechtlich anerkannter Gruppen und deren Vertreter, Erhebungen anzustellen über das Leben, über die Tugenden oder das Martyrium und den Ruf der Heiligkeit bzw. des Martyriums, über behauptete Wunder sowie gegebenenfalls über eine althergebrachte Verehrung des Dieners Gottes, dessen Kanonisation beantragt wird.
+
+2\. Bei derartigen Erhebungen hat der Bischof nach den von der Heiligen Kongregation für die Heiligsprechung erlassenen besonderen Bestimmungen zu verfahren, und zwar in dieser Reihenfolge:
 
 1\) Vom Postulator des Verfahrens, der rechtmäßig vom Antragsteller bestellt ist, hat er eine genaue Auskunft über das Leben des Dieners Gottes einzuholen und sich von ihm zugleich über die Gründe unterrichten zu lassen, die für die Einleitung eines Kanonisationsverfahrens günstig scheinen.
 

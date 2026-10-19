@@ -18,71 +18,71 @@ ET LA DISCIPLINE DES SACREMENTS
 **Le gouvernement de la sainte Liturgie** \[14-18\]
 
 1\. L’Évêque diocésain, grand prêtre de son troupeau \[19-25\]  
-2. La Conférence des Évêques \[26-28\]  
-3. Les Prêtres \[29-33\]  
-4. Les Diacres \[34-35\]
+2\. La Conférence des Évêques \[26-28\]  
+3\. Les Prêtres \[29-33\]  
+4\. Les Diacres \[34-35\]
 
 **[Chapitre II](#Chapitre%20II)**
 
 **La participation des fidèles laïcs à la célébration de l’Eucharistie**
 
 1\. Une participation active et consciente \[36-42\]  
-2. Les fonctions des fidèles laïcs dans la célébration de la sainte Messe \[43-47\]
+2\. Les fonctions des fidèles laïcs dans la célébration de la sainte Messe \[43-47\]
 
 **[Chapitre III](#Chapitre%20III)**
 
 **La célébration correcte de la sainte Messe**
 
 1\. La matière de la très sainte Eucharistie \[48-50\]  
-2. La Prière eucharistique \[51-56\]  
-3. Les autres parties de la Messe \[57-74\]  
-4. L’union des divers rites avec la célébration de la Messe \[75-79\]
+2\. La Prière eucharistique \[51-56\]  
+3\. Les autres parties de la Messe \[57-74\]  
+4\. L’union des divers rites avec la célébration de la Messe \[75-79\]
 
 **[Chapitre IV](#Chapitre%20IV)**
 
 **La sainte communion**
 
 1\. Les dispositions pour recevoir la sainte Communion \[80-87\]  
-2. La distribution de la sainte Communion \[88-96\]  
-3. La Communion des Prêtres \[97-99\]  
-4. La Communion sous les deux espèces \[100-107\]
+2\. La distribution de la sainte Communion \[88-96\]  
+3\. La Communion des Prêtres \[97-99\]  
+4\. La Communion sous les deux espèces \[100-107\]
 
 **[Chapitre V](#Chapitre%20V)**
 
 **Quelques autres considérations concernant l’Eucharistie**
 
 1\. Le lieu de la célébration de la sainte Messe \[108-109\]  
-2. Diverses dispositions concernant la sainte Messe \[110-116\]  
-3. Les vases sacrés \[117-120\]  
-4. Les vêtements liturgiques \[121-128\]
+2\. Diverses dispositions concernant la sainte Messe \[110-116\]  
+3\. Les vases sacrés \[117-120\]  
+4\. Les vêtements liturgiques \[121-128\]
 
 **[Chapitre VI](#Chapitre%20VI)**
 
 **La sainte réserve eucharistique et le culte de la très sainte Eucharistie en dehors de la Messe**
 
 1\. La sainte réserve eucharistique \[129-133\]  
-2. Quelques formes du culte de la très sainte Eucharistie en dehors de la Messe \[134-141\]  
-3. Les processions et les congrès eucharistiques \[142-145\]
+2\. Quelques formes du culte de la très sainte Eucharistie en dehors de la Messe \[134-141\]  
+3\. Les processions et les congrès eucharistiques \[142-145\]
 
 **[Chapitre VII](#Chapitre%20VII)**
 
 **Les fonctions extraordinaires des fidèles laïcs** \[146-153\]
 
 1\. Le ministre extraordinaire de la sainte Communion \[154-160\]  
-2. La prédication \[161\]  
-3. Les célébrations particulières en l’absence de prêtre \[162-167\]  
-4. Les clercs renvoyés de l’état clérical \[168\]
+2\. La prédication \[161\]  
+3\. Les célébrations particulières en l’absence de prêtre \[162-167\]  
+4\. Les clercs renvoyés de l’état clérical \[168\]
 
 **[Chapitre VIII](#Chapitre%20VIII)**
 
 **Les remèdes** \[169-171\]
 
 1\. Les *graviora delicta* \[172\]  
-2. Les matières graves \[173\]  
-3. Les autres abus \[174-175\]  
-4. L’Évêque diocésain \[176-180\]  
-5. Le Siège Apostolique \[181-182\]  
-6. Les plaintes concernant les abus liturgiques \[183-184\]
+2\. Les matières graves \[173\]  
+3\. Les autres abus \[174-175\]  
+4\. L’Évêque diocésain \[176-180\]  
+5\. Le Siège Apostolique \[181-182\]  
+6\. Les plaintes concernant les abus liturgiques \[183-184\]
 
 **[Conclusion](#CONCLUSION)** \[185-186\]
 

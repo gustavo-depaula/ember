@@ -13,14 +13,14 @@
 ](#NE4)[5. Nincs alapja a diszkriminációnak](#NE5)
 
 *(Bevezetés)*  
-1. Korunkban, amikor az emberi nem egysége napról napra szorosabbá válik és sokasodnak a különböző népek közötti kapcsolatok, az Egyház fokozott figyelemmel veszi szemügyre, milyen kapcsolata legyen a nem keresztény vallásokkal. Mivel feladata, hogy az emberek, sőt a népek közötti egységet és szeretetet ápolja, most elsősorban azt veszi fontolóra, ami az emberekben közös és közösségre vezeti őket.
+1\. Korunkban, amikor az emberi nem egysége napról napra szorosabbá válik és sokasodnak a különböző népek közötti kapcsolatok, az Egyház fokozott figyelemmel veszi szemügyre, milyen kapcsolata legyen a nem keresztény vallásokkal. Mivel feladata, hogy az emberek, sőt a népek közötti egységet és szeretetet ápolja, most elsősorban azt veszi fontolóra, ami az emberekben közös és közösségre vezeti őket.
 
 Az összes nemzet ugyanis egy közösség, közös az eredetük, hiszen Isten népesítette be az emberi nemmel a föld színét,[\[1\]](#J1) ugyanaz a végső céljuk is, tudniillik Isten, akinek gondviselése, jósága és üdvözítő terve mindenkire kiterjed,[\[2\]](#J2) s végül a választottak összegyűlnek a szent városba, melyet Isten ragyogása fog megvilágítani, s ahol a nemzetek az Ő világosságában fognak járni.[\[3\]](#J3)
 
 Az emberek a különböző vallásoktól várnak választ az emberi lét rejtélyeire, melyek ma épp úgy, mint régen a szíve mélyén nyugtalanítják az embert: mi az ember? Mi az élet értelme és célja? Mi a jó és mi a bűn? Honnan ered a szenvedés és mi a célja? Melyik út vezet az igaz boldogsághoz? Mi a halál, az ítélet és a halál utáni megfizetés? S végül mi az a végső és kimondhatatlan misztérium, mely átöleli létünket, melyből eredünk, s mely felé tartunk?
 
 *(A nagy keleti vallások értékei)*  
-2. A népeknél a legősibb koroktól fogva napjainkig megtalálható annak a titokzatos erőnek bizonyos észlelése, mely jelen van a dolgok folyamatában és az emberi élet eseményeiben, sőt, olykor ismernek egy Legfőbb Lényt, s még Atyát is. Ez az észlelés, illetve elismerés bensőséges vallási érzülettel hatja át életüket. A kultúra haladásához kapcsolódó vallások pedig egyre árnyaltabb fogalmakkal s mind kiműveltebb nyelvezettel igyekeznek válaszolni ugyanezekre a kérdésekre.
+2\. A népeknél a legősibb koroktól fogva napjainkig megtalálható annak a titokzatos erőnek bizonyos észlelése, mely jelen van a dolgok folyamatában és az emberi élet eseményeiben, sőt, olykor ismernek egy Legfőbb Lényt, s még Atyát is. Ez az észlelés, illetve elismerés bensőséges vallási érzülettel hatja át életüket. A kultúra haladásához kapcsolódó vallások pedig egyre árnyaltabb fogalmakkal s mind kiműveltebb nyelvezettel igyekeznek válaszolni ugyanezekre a kérdésekre.
 
 Így hinduizmusban az emberek az isteni misztériumot kutatják, s kimeríthetetlen gazdagságú mítoszokkal és a bölcselet mélyreható törekvéseivel fejezik ki, szabadulást keresnek létünk nyomorúságaiból aszketikus gyakorlatokkal, elmélyült meditációval, vagy szerető bizalommal Istenhez menekülve.
 
@@ -33,12 +33,12 @@ A katolikus Egyház semmit sem utasít el abból, ami ezekben a vallásokban iga
 Buzdítja tehát gyermekeit, hogy okosan és szeretettel folytatván a párbeszédet és együttműködve más vallások követőivel, tanúskodjanak a keresztény hitről és életről; s ismerjék meg, becsüljék és támogassák a náluk található lelki, erkölcsi és társadalmi-kulturális értékeket.
 
 *(Az iszlám)*  
-3. Az Egyház megbecsüléssel tekint az iszlám követőire is, akik az egy élő és önmagában létező, irgalmas és mindenható Istent imádják, ki a mennynek és a földnek Teremtője,[\[5\]](#J5) ki szólt az emberekhez, s kinek még rejtett határozatait is teljes szívből engedelmeskedve akarják követni, miként Ábrahám -- kinek hitére az iszlám szívesen hivatkozik -- engedelmeskedett Istennek. Jézus istenségét ugyan nem ismerik el, de prófétaként tisztelik, szűz anyjaként becsülik Máriát, s olykor áhítattal segítségül is hívják. Várják az ítélet napját, amikor Isten minden embert föltámaszt és megfizet mindenkinek. Ezért értékelik az erkölcsi életet és Istent leginkább imádsággal, alamizsnával és böjtöléssel tisztelik.
+3\. Az Egyház megbecsüléssel tekint az iszlám követőire is, akik az egy élő és önmagában létező, irgalmas és mindenható Istent imádják, ki a mennynek és a földnek Teremtője,[\[5\]](#J5) ki szólt az emberekhez, s kinek még rejtett határozatait is teljes szívből engedelmeskedve akarják követni, miként Ábrahám -- kinek hitére az iszlám szívesen hivatkozik -- engedelmeskedett Istennek. Jézus istenségét ugyan nem ismerik el, de prófétaként tisztelik, szűz anyjaként becsülik Máriát, s olykor áhítattal segítségül is hívják. Várják az ítélet napját, amikor Isten minden embert föltámaszt és megfizet mindenkinek. Ezért értékelik az erkölcsi életet és Istent leginkább imádsággal, alamizsnával és böjtöléssel tisztelik.
 
 Bár a századok folyamán a keresztények és a muszlimok között nem kevés nézeteltérés és ellenségeskedés támadt, a Szentséges Zsinat mindenkit arra buzdít, hogy a múltat feledvén, őszintén törekedjen a kölcsönös megértésre és mindenki számára közösen gyarapítsák és óvják a társadalmi igazságosságot, az erkölcsi értékeket, a békét és a szabadságot.
 
 *(A zsidók)*  
-4. Az Egyház misztériumát szemlélve e Szent Zsinat emlékeztet arra a kötelékre, mely az új szövetség népét lélekben összeköti Ábrahám törzsével.
+4\. Az Egyház misztériumát szemlélve e Szent Zsinat emlékeztet arra a kötelékre, mely az új szövetség népét lélekben összeköti Ábrahám törzsével.
 
 Krisztus Egyháza ugyanis elismeri, hogy hitének és kiválasztottságának kezdetei Isten üdvözítő misztériumának megfelelően már a pátriárkáknál, Mózesnél és a prófétáknál megtalálhatók. Vallja, hogy a Krisztus-hívők a hitben Ábrahám fiai,[\[6\]](#J6) rájuk is vonatkozik Ábrahám meghívása, s hogy az Egyház üdvösségét a választott nép egyiptomi kivonulása titokzatosan jelezte. Ezért az Egyház nem feledkezhet meg arról, hogy az ószövetségi kinyilatkoztatást annak a népnek közvetítésével kapta, melyet Isten a maga kimondhatatlan irgalmasságából arra méltatott, hogy megkösse vele az ó szövetséget; s hogy annak a nemes olajfának gyökeréből táplálkozik, melyre ráoltattak a nemzetek olajágai.[\[7\]](#J7) Az Egyház ugyanis hiszi, hogy Krisztus, a mi békénk, keresztjével kiengesztelte a zsidókat és a pogányokat és a kettőt önmagában eggyé tette.[\[8\]](#J8)
 
@@ -55,7 +55,7 @@ Ezen kívül az Egyház -- mely elutasít minden üldözést, bárkit is érjen 
 Krisztus miként az Egyház mindig tanította és tanítja, minden ember bűneiért mérhetetlen szeretettel vállalta önként szenvedését és halálát, hogy mindnyájan üdvözüljenek. Az igehirdető Egyháznak tehát az a feladata, hogy hirdesse Krisztus keresztjét, mint Isten egyetemes szeretetének jelét és minden kegyelem forrását.
 
 *(Nincs alapja a diszkriminációnak)*  
-5. Nem hívhatjuk segítségül Istent, mindenek Atyját, ha nem tekintünk testvérnek bizonyos embereket, akik pedig Isten képmására vannak teremtve. Az ember kapcsolata az Atya Istennel és az ember kapcsolata az embertestvérekkel oly szorosan összetartozik, hogy az Írás azt mondja: "aki nem szeret, nem ismeri Istent" *(1Jn 4,8).*
+5\. Nem hívhatjuk segítségül Istent, mindenek Atyját, ha nem tekintünk testvérnek bizonyos embereket, akik pedig Isten képmására vannak teremtve. Az ember kapcsolata az Atya Istennel és az ember kapcsolata az embertestvérekkel oly szorosan összetartozik, hogy az Írás azt mondja: "aki nem szeret, nem ismeri Istent" *(1Jn 4,8).*
 
 Nincs tehát alapja semmiféle elméletnek vagy gyakorlatnak, mely ember és ember, nép és nép között diszkriminál az emberi méltóság és a belőle fakadó jogok tekintetében.
 

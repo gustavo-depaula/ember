@@ -41,6 +41,6 @@ A következő szöveg a legfontosabb eredmények szintézisének első kísérle
 Karl Lehmann
 
 Az albizottság elnöke  
-1977. június 30.
+1977\. június 30.
 
 ------------------------------------------------------------------------

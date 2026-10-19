@@ -168,32 +168,32 @@ The gift of faith, which through the goodness of God, is accompanied by an incom
 **REFERENCES**
 
 1\. Eph. 4. 5.  
-2. Ps. 115. 12.  
-3. Of Benedict XV, Apostolic letter *Maximum illud*, AAS, 11 (1919) p. 440; Pius Xl, Homily *Accipietis virtutem*, AA S, 14 (1922), p. 344; Pius Xl, Encyclical letter *Rerum Ecclesiae*, AAS 18 (1926), p. 65.; Pius XII, Encyclical letter *Envangelii praecones*, AAS 43 (1951), p. 497.  
-4. Matt. 5. 10.  
-5. AAS 44 (1952) p. 370.  
-6. Allocution, May 1, 1939, Discorsi e radiomessaggi di S.S. Pio XII, 1, 87.  
-7. Encyclical letter, *Evangelii praecones*, AAS, 43 (1951) p. 507.  
-8. Ibid. p. 505.  
-9. AAS 48 (1956), p. 40 \[Christmas Message, Dec. 24, 1955. English tr.: TPS (Winter 1955-56) v. 2, no. 4, p. 3 13. - ED.\]  
-10. AAS, 38 (1946) p. 20.  
-11. Encyclical letter *Mystici Corporis*, AAS, 35 (1943) p. 200. 12. Ibid., p. 211.  
-13. Ibid., p. 2 13.  
-14. Cf. 2 Cor. 11 28.  
-15. Cf. 2 Cor. 5. 4.  
-16. On the Epistle of John to the Parthians, Treatise X, n. 8: PL 35, 2060.  
-17. John 21. 16-18.  
-18. John 20. 21.  
-19. Matthew 28. 19-20.  
-20. Expos. in Ep. ad Rom., cap. 1, lect. 1: Parma edition, 1862, XIII, 4.  
-21. Discorsi e radiomessaggi, 8, 328.  
-22. AAS, 38 (1946), p. 18.  
-23. AAS, 39 (1947), p. 556.  
-24. AAS, 42 (1950), p. 787.  
-25. 2 Cor. 8.9.  
-26. Gen. 12. 1.  
-27. Cf. Luke 11. 4.  
-28. 2 Cor. 8. 13.  
-29. I Cor. 9. 16.  
-30. I Tim. 2. 7.  
-31. Luke 5. 4.
+2\. Ps. 115. 12.  
+3\. Of Benedict XV, Apostolic letter *Maximum illud*, AAS, 11 (1919) p. 440; Pius Xl, Homily *Accipietis virtutem*, AA S, 14 (1922), p. 344; Pius Xl, Encyclical letter *Rerum Ecclesiae*, AAS 18 (1926), p. 65.; Pius XII, Encyclical letter *Envangelii praecones*, AAS 43 (1951), p. 497.  
+4\. Matt. 5. 10.  
+5\. AAS 44 (1952) p. 370.  
+6\. Allocution, May 1, 1939, Discorsi e radiomessaggi di S.S. Pio XII, 1, 87.  
+7\. Encyclical letter, *Evangelii praecones*, AAS, 43 (1951) p. 507.  
+8\. Ibid. p. 505.  
+9\. AAS 48 (1956), p. 40 \[Christmas Message, Dec. 24, 1955. English tr.: TPS (Winter 1955-56) v. 2, no. 4, p. 3 13. - ED.\]  
+10\. AAS, 38 (1946) p. 20.  
+11\. Encyclical letter *Mystici Corporis*, AAS, 35 (1943) p. 200. 12. Ibid., p. 211.  
+13\. Ibid., p. 2 13.  
+14\. Cf. 2 Cor. 11 28.  
+15\. Cf. 2 Cor. 5. 4.  
+16\. On the Epistle of John to the Parthians, Treatise X, n. 8: PL 35, 2060.  
+17\. John 21. 16-18.  
+18\. John 20. 21.  
+19\. Matthew 28. 19-20.  
+20\. Expos. in Ep. ad Rom., cap. 1, lect. 1: Parma edition, 1862, XIII, 4.  
+21\. Discorsi e radiomessaggi, 8, 328.  
+22\. AAS, 38 (1946), p. 18.  
+23\. AAS, 39 (1947), p. 556.  
+24\. AAS, 42 (1950), p. 787.  
+25\. 2 Cor. 8.9.  
+26\. Gen. 12. 1.  
+27\. Cf. Luke 11. 4.  
+28\. 2 Cor. 8. 13.  
+29\. I Cor. 9. 16.  
+30\. I Tim. 2. 7.  
+31\. Luke 5. 4.

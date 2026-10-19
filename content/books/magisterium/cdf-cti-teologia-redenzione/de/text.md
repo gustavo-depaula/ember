@@ -15,8 +15,8 @@ GOTT DER ERLÖSER **zu einigen ausgewählten Fragen**
 *DIE MENSCHLICHE LAGE UND DIE REALITÄT DER ERLÖSUNG*
 
 1\. Die heutige Situation  
-2. Die Beziehungen zu den Weltreligionen  
-3. Die christliche Lehre von der Erlösung und die moderne Welt
+2\. Die Beziehungen zu den Weltreligionen  
+3\. Die christliche Lehre von der Erlösung und die moderne Welt
 
 **II. TEIL**
 
@@ -27,7 +27,7 @@ GOTT DER ERLÖSER **zu einigen ausgewählten Fragen**
 *HISTORISCHE PERSPEKTIVEN*
 
 1\. Patristische Interpretationen zum Thema Erlösung  
-2. Neuere Theorien der Erlösung
+2\. Neuere Theorien der Erlösung
 
 **IV. TEIL**
 

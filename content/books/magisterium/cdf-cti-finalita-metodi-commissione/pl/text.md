@@ -31,9 +31,9 @@ Normy metodologiczne, które należy uwzględnić w przyszłych pracach Komisji,
 Z dziedzin, które Komisja zaproponowała do zbadania, zostały wybrane w tej chwili cztery zagadnienia:
 
 1. Jedność wiary;  
-2. Kapłaństwo;  
-3. Teologia nadziei; wiara chrześcijańska i przyszłość ludzkości;  
-4. Kryteria chrześcijańskiego poznania moralnego.
+2\. Kapłaństwo;  
+3\. Teologia nadziei; wiara chrześcijańska i przyszłość ludzkości;  
+4\. Kryteria chrześcijańskiego poznania moralnego.
 
 Do przestudiowania tych czterech tematów zostały ustanowione cztery podkomisje. Oczekuje się od podkomisji określenia własnego tematu.
 

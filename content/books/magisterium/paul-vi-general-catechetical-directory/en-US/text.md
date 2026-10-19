@@ -210,11 +210,15 @@ Chapter VIII
 
 ADDENDUM – THE FIRST RECEPTION OF THE SACRAMENTS OF PENANCE AND THE EUCHARIST
 
-1.  The Age of Discretion
-2.  Formation and Growth of the Moral Conscience of Children
-3.  Importance of Explaining the Sacrament of Penance to Children
-4.  Certain New Experiments
-5.  The Common Practice in Force Must be Highly Esteemed
+1\. The Age of Discretion
+
+2\. Formation and Growth of the Moral Conscience of Children
+
+3\. Importance of Explaining the Sacrament of Penance to Children
+
+4\. Certain New Experiments
+
+5\. The Common Practice in Force Must be Highly Esteemed
 
 **FOREWORD**
 

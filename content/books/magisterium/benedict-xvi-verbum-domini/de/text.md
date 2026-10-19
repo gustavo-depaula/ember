@@ -1122,7 +1122,7 @@ Jeder Tag unseres Leben sei daher geprägt von der immer neuen Begegnung mit Chr
 [^113]: Vgl. *Propositio* 27.
 
 [^114]: Benedikt XVI., *[Beitrag auf der XIV. Generalkongregation der Synode (14. Oktober 2008](/content/benedict-xvi/de/speeches/2008/october/documents/hf_ben-xvi_spe_20081014_sinodo.html))*: *L’Osservatore Romano* (dt.),  
-31. Oktober 2008, S. 19.
+31\. Oktober 2008, S. 19.
 
 [^115]: Johannes Paul II., Enzyklika [*Fides et ratio* (14. September 1998)](http://www.vatican.va/edocs/DEU0074/_INDEX.HTM), 55: *AAS* 91 (1999), 49-50.
 

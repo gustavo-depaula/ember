@@ -32,8 +32,8 @@ La Pontificia Commissione per la Cinematografia si astiene normalmente da rilasc
 
 La Pontificia Commissione per la Cinematografia è nominata dalla Santa Sede, ed è così composta:  
 
-1. Il Presidente che dura in carica sei anni.  
-2. Il Consiglio (che assiste il Presidente) composto:  
+1\. Il Presidente che dura in carica sei anni.  
+2\. Il Consiglio (che assiste il Presidente) composto:  
 
 *a)* Membri ipso iure, che sono:  
 

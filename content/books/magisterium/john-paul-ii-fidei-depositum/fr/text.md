@@ -169,7 +169,7 @@ dans la plénitude du bonheur de la vision de Dieu face à face (cf. 1 *Co* 13, 
 **NOTES**  
 
 (1) Jean XXIII, *Discours d’ouverture du Concile œcuménique Vatican II*, 11 octobre 1962, AAS 54 (1962), p.  
-788.  
+788\.  
 
 (2) Paul VI, *Discours de clôture du Concile œcuménique Vatican II*, 8 décembre 1965, AAS 58 (1966), pp. 7-8.  
 

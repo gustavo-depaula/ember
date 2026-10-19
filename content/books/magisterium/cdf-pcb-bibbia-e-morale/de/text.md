@@ -235,7 +235,7 @@ Den Mitgliedern der Päpstlichen Bibelkommission danke ich für ihre Geduld und 
             *Präsident*
 
 Hohes Pfingstfest  
-11. Mai 2008
+11\. Mai 2008
 
 **[^1]****[^1]**
 
@@ -365,7 +365,7 @@ Die Psalmen befassen sich mit den unvermeidlichen Themen der menschlichen Existe
 
 **13. **Das Neue Testament übernimmt in vollem Maß die Schöpfungstheologie des Alten Testaments und fügt ihr eine bestimmende christologische Dimension bei (z.B. *Joh* 1,1-18; *Kol* 1,15-20). Das hat offensichtlich Konsequenzen für die Moral. Jesus hebt die früheren Vorschriften über Rein und Unrein auf (*Mk* 7,18-19) und anerkennt, im Einklang mit dem Buch Genesis, dass alle geschaffenen Dinge gut sind. Paulus geht genau in dieselbe Richtung (*Röm* 14,14; vgl. 1 *Tim* 4,4-5). Was den Schlüsselbegriff „Bild Gottes“ angeht, so wenden ihn die paulinischen Schriften nicht nur auf Christus, den „Erstgeborenen der ganzen Schöpfung“ an (*Kol* 1,15), sondern auf jeden Menschen (1 *Kor* 11,7; *Kol* 3,10). Es überrascht nicht, dass sich in den Briefen die in diesem Begriff eingeschlossenen Eigenschaften finden, verbunden mit dem moralischen Aspekt: Rationalität („das Gesetz, das ins Herz geschrieben ist“, „das Gesetz der Vernunft“: *Röm* 2,15; 7,23), Freiheit (1 *Kor* 3,17; *Gal* 5,1.13), Heiligkeit (*Röm* 6,22; *Eph* 4,24), usw. Wir haben später Gelegenheit die Dimension der Beziehung zu besprechen, besonders was die Einrichtung der Ehe angeht (vgl. *Gen* 1,27 „als Mann und Frau schuf er sie“).
 
-2. DAS GESCHENK DES BUNDES IM ALTEN TESTAMENT UND DIE NORMEN    FÜR DAS MENSCHLICHE HANDELN
+2\. DAS GESCHENK DES BUNDES IM ALTEN TESTAMENT UND DIE NORMEN    FÜR DAS MENSCHLICHE HANDELN
 
 **14. **Die Schöpfung und ihre Konsequenzen für die Moral  sind das Anfangsgeschenk und bleiben das grundlegende Geschenk Gottes, sie sind aber nicht seine einzige und letzte Gabe. Über die Schöpfung hinaus hat Gott seine unendliche Güte gezeigt und hat sich seinem Geschöpf, dem Menschen, zugewendet besonders in der Erwählung des Volkes Israel und in dem Bund, den er mit diesem Volk geschlossen hat und durch den er zugleich den rechten Weg für das menschliche Handeln gezeigt hat.
 
@@ -1326,11 +1326,11 @@ Die beiden Grundtexte, die wir vorher benützt haben, erläutern auch die sechs 
 
 Jedes dieser Kriterien können wir mit einem Schlüsselwort verbinden.
 
-1. Übereinstimmung: die Weisheit als menschliche Tugend, die potentiell in allen Kulturen zu finden ist.  
-2. Gegensatz: der Glaube.  
-3. Steigerung: die Gerechtigkeit, weniger im Sinn der klassischen Theologie als in ihrem reichen und dynamischen biblischen Verständnis (hebräisch *sedaqa*, griechisch *dikaiosyne*), das die Suche nach dem Willen Gottes und den Weg der Vollkommenheit (*teleiosis*) einschließt.  
-4. Die Dimension der Gemeinschaft: die brüderliche Liebe (*agape*).  
-5. Finalität: die Hoffnung. 6. Unterscheidung: die Klugheit, die eine Überprüfung des moralischen Urteils verlangt: objektiv, von der Exegese und der kirchlichen Tradition her, und subjektiv, durch ein Gewissen (*syneidesis*), das vom Heiligen Geist geführt wird.
+1\. Übereinstimmung: die Weisheit als menschliche Tugend, die potentiell in allen Kulturen zu finden ist.  
+2\. Gegensatz: der Glaube.  
+3\. Steigerung: die Gerechtigkeit, weniger im Sinn der klassischen Theologie als in ihrem reichen und dynamischen biblischen Verständnis (hebräisch *sedaqa*, griechisch *dikaiosyne*), das die Suche nach dem Willen Gottes und den Weg der Vollkommenheit (*teleiosis*) einschließt.  
+4\. Die Dimension der Gemeinschaft: die brüderliche Liebe (*agape*).  
+5\. Finalität: die Hoffnung. 6. Unterscheidung: die Klugheit, die eine Überprüfung des moralischen Urteils verlangt: objektiv, von der Exegese und der kirchlichen Tradition her, und subjektiv, durch ein Gewissen (*syneidesis*), das vom Heiligen Geist geführt wird.
 
 **2.1. Erstes besonderes Kriterium: Übereinstimmung**
 

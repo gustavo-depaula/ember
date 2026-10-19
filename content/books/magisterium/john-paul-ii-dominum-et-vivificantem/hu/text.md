@@ -4,7 +4,7 @@
 
 II\. János Pál pápa enciklikája  
 a Szentlélekről az Egyház és a világ életében  
-1986. május 18.
+1986\. május 18.
 
 Tartalomjegyzék
 

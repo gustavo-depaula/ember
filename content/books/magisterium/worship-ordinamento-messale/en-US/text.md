@@ -312,9 +312,13 @@ Therefore, all must listen with reverence to the readings from God’s word, for
 
 37\. Finally, concerning the other formulas:
 
-1.  Some constitute an independent rite or act, such as the *Gloria*, the responsorial Psalm, the *Alleluia* and verse before the Gospel, the *Sanctus*, the Memorial Acclamation, and the *cantus post communionem* (song after communion);
+1\.
 
-2.  Others accompany another rite, such as the chants at the Entrance, at the Offertory, at the fraction (*Agnus Dei*), and at Communion.
+Some constitute an independent rite or act, such as the *Gloria*, the responsorial Psalm, the *Alleluia* and verse before the Gospel, the *Sanctus*, the Memorial Acclamation, and the *cantus post communionem* (song after communion);
+
+2\.
+
+Others accompany another rite, such as the chants at the Entrance, at the Offertory, at the fraction (*Agnus Dei*), and at Communion.
 
 ***The Vocal Expression of the Different Texts***
 
@@ -452,17 +456,27 @@ In the dioceses of the United States of America, the following may also be sung 
 
 62\. After the reading that immediately precedes the Gospel, the *Alleluia* or another chant indicated by the rubrics is sung, as required by the liturgical season. An acclamation of this kind constitutes a rite or act in itself, by which the assembly of the faithful welcomes and greets the Lord who is about to speak to it in the Gospel and professes its faith by means of the chant. It is sung by all while standing and is led by the choir or a cantor, being repeated if this is appropriate. The verse, however, is sung either by the choir or by the cantor.
 
-1.  The *Alleluia* is sung in every season other than Lent. The verses are taken from the Lectionary or the *Gradual*.
+1\.
 
-2.  During Lent, in place of the *Alleluia*, the verse before the Gospel is sung, as indicated in the Lectionary. It is also permissible to sing another psalm or tract, as found in the *Gradual*.
+The *Alleluia* is sung in every season other than Lent. The verses are taken from the Lectionary or the *Gradual*.
+
+2\.
+
+During Lent, in place of the *Alleluia*, the verse before the Gospel is sung, as indicated in the Lectionary. It is also permissible to sing another psalm or tract, as found in the *Gradual*.
 
 63\. When there is only one reading before the Gospel,
 
-1.  During a season when the *Alleluia* is to be said, either the *Alleluia* Psalm or the responsorial Psalm followed by the *Alleluia* with its verse may be used;
+1\.
 
-2.  During the season when the *Alleluia* is not to be said, either the psalm and the verse before the Gospel or the psalm alone may be used;
+During a season when the *Alleluia* is to be said, either the *Alleluia* Psalm or the responsorial Psalm followed by the *Alleluia* with its verse may be used;
 
-3.  The *Alleluia* or verse before the Gospel may be omitted if they are not sung.
+2\.
+
+During the season when the *Alleluia* is not to be said, either the psalm and the verse before the Gospel or the psalm alone may be used;
+
+3\.
+
+The *Alleluia* or verse before the Gospel may be omitted if they are not sung.
 
 64\. The Sequence, which is optional except on Easter Sunday and on Pentecost Day, is sung before the *Alleluia*.
 
@@ -511,11 +525,17 @@ The people, however, stand and give expression to their prayer either by an invo
 
 For Christ took the bread and the chalice and gave thanks; he broke the bread and gave it to his disciples, saying, “Take, eat, and drink: this is my Body; this is the cup of my Blood. Do this in memory of me.” Accordingly, the Church has arranged the entire celebration of the Liturgy of the Eucharist in parts corresponding to precisely these words and actions of Christ:
 
-1.  At the Preparation of the Gifts, the bread and the wine with water are brought to the altar, the same elements that Christ took into his hands.
+1\.
 
-2.  In the Eucharistic Prayer, thanks is given to God for the whole work of salvation, and the offerings become the Body and Blood of Christ.
+At the Preparation of the Gifts, the bread and the wine with water are brought to the altar, the same elements that Christ took into his hands.
 
-3.  Through the fraction and through Communion, the faithful, though they are many, receive from the one bread the Lord’s Body and from the one chalice the Lord’s Blood in the same way the Apostles received them from Christ’s own hands.
+2\.
+
+In the Eucharistic Prayer, thanks is given to God for the whole work of salvation, and the offerings become the Body and Blood of Christ.
+
+3\.
+
+Through the fraction and through Communion, the faithful, though they are many, receive from the one bread the Lord’s Body and from the one chalice the Lord’s Blood in the same way the Apostles received them from Christ’s own hands.
 
 ***The Preparation of the Gifts***
 
@@ -547,21 +567,37 @@ The people, uniting themselves to this entreaty, make the prayer their own with 
 
 79\. The chief elements making up the Eucharistic Prayer may be distinguished in this way:
 
-1.  *Thanksgiving* (expressed especially in the Preface): In which the priest, in the name of the entire holy people, glorifies God the Father and gives thanks for the whole work of salvation or for some special aspect of it that corresponds to the day, festivity, or season.
+1\.
 
-2.  *Acclamation*: In which the whole congregation, joining with the heavenly powers, sings the *Sanctus*. This acclamation, which is part of the Eucharistic Prayer itself, is sung or said by all the people with the priest.
+*Thanksgiving* (expressed especially in the Preface): In which the priest, in the name of the entire holy people, glorifies God the Father and gives thanks for the whole work of salvation or for some special aspect of it that corresponds to the day, festivity, or season.
 
-3.  *Epiclesis*: In which, by means of particular invocations, the Church implores the power of the Holy Spirit that the gifts offered by human hands be consecrated, that is, become Christ’s Body and Blood, and that the spotless Victim to be received in Communion be for the salvation of those who will partake of it.
+2\.
 
-4.  *Institution narrative and consecration*: In which, by means of words and actions of Christ, the Sacrifice is carried out which Christ himself instituted at the Last Supper, when he offered his Body and Blood under the species of bread and wine, gave them to his Apostles to eat and drink, and left them the command to perpetuate this same mystery.
+*Acclamation*: In which the whole congregation, joining with the heavenly powers, sings the *Sanctus*. This acclamation, which is part of the Eucharistic Prayer itself, is sung or said by all the people with the priest.
 
-5.  *Anamnesis*: In which the Church, fulfilling the command that she received from Christ the Lord through the Apostles, keeps the memorial of Christ, recalling especially his blessed Passion, glorious Resurrection, and Ascension into heaven.
+3\.
 
-6.  *Offering*: By which, in this very memorial, the Churchand in particular the Church here and now gatheredoffers in the Holy Spirit the spotless Victim to the Father. The Church’s intention, however, is that the faithful not only offer this spotless Victim but also learn to offer themselves,[^71] and so day by day to be consummated, through Christ the Mediator, into unity with God and with each other, so that at last God may be all in all.[^72]
+*Epiclesis*: In which, by means of particular invocations, the Church implores the power of the Holy Spirit that the gifts offered by human hands be consecrated, that is, become Christ’s Body and Blood, and that the spotless Victim to be received in Communion be for the salvation of those who will partake of it.
 
-7.  *Intercessions*: By which expression is given to the fact that the Eucharist is celebrated in communion with the entire Church, of heaven as well as of earth, and that the offering is made for her and for all her members, living and dead, who have been called to participate in the redemption and the salvation purchased by Christ’s Body and Blood.
+4\.
 
-8.  *Final doxology*: By which the glorification of God is expressed and which is confirmed and concluded by the people’s acclamation, Amen.
+*Institution narrative and consecration*: In which, by means of words and actions of Christ, the Sacrifice is carried out which Christ himself instituted at the Last Supper, when he offered his Body and Blood under the species of bread and wine, gave them to his Apostles to eat and drink, and left them the command to perpetuate this same mystery.
+
+5\.
+
+*Anamnesis*: In which the Church, fulfilling the command that she received from Christ the Lord through the Apostles, keeps the memorial of Christ, recalling especially his blessed Passion, glorious Resurrection, and Ascension into heaven.
+
+6\.
+
+*Offering*: By which, in this very memorial, the Churchand in particular the Church here and now gatheredoffers in the Holy Spirit the spotless Victim to the Father. The Church’s intention, however, is that the faithful not only offer this spotless Victim but also learn to offer themselves,[^71] and so day by day to be consummated, through Christ the Mediator, into unity with God and with each other, so that at last God may be all in all.[^72]
+
+7\.
+
+*Intercessions*: By which expression is given to the fact that the Eucharist is celebrated in communion with the entire Church, of heaven as well as of earth, and that the offering is made for her and for all her members, living and dead, who have been called to participate in the redemption and the salvation purchased by Christ’s Body and Blood.
+
+8\.
+
+*Final doxology*: By which the glorification of God is expressed and which is confirmed and concluded by the people’s acclamation, Amen.
 
 ***The Communion Rite***
 
@@ -619,13 +655,21 @@ The people make the prayer their own by the acclamation, Amen.
 
 90\. The concluding rites consist of
 
-1.  Brief announcements, if they are necessary;
+1\.
 
-2.  The priest’s greeting and blessing, which on certain days and occasions is enriched and expressed in the prayer over the People or another more solemn formula;
+Brief announcements, if they are necessary;
 
-3.  The dismissal of the people by the deacon or the priest, so that each may go out to do good works, praising and blessing God;
+2\.
 
-4.  The kissing of the altar by the priest and the deacon, followed by a profound bow to the altar by the priest, the deacon, and the other ministers.
+The priest’s greeting and blessing, which on certain days and occasions is enriched and expressed in the prayer over the People or another more solemn formula;
+
+3\.
+
+The dismissal of the people by the deacon or the priest, so that each may go out to do good works, praising and blessing God;
+
+4\.
+
+The kissing of the altar by the priest and the deacon, followed by a profound bow to the altar by the priest, the deacon, and the other ministers.
 
 **CHAPTER III**
 
@@ -681,13 +725,21 @@ In the Eucharistic Celebration, the lector has his own proper office (cf. nos. 1
 
 105\. The following also exercise a liturgical function:
 
-1.  The sacristan, who carefully arranges the liturgical books, the vestments, and other things necessary in the celebration of Mass.
+1\.
 
-2.  The commentator, who provides the faithful, when appropriate, with brief explanations and commentaries with the purpose of introducing them to the celebration and preparing them to understand it better. The commentator’s remarks must be meticulously prepared and clear though brief. In performing this function the commentator stands in an appropriate place facing the faithful, but not at the ambo.
+The sacristan, who carefully arranges the liturgical books, the vestments, and other things necessary in the celebration of Mass.
 
-3.  Those who take up the collection in the church.
+2\.
 
-4.  Those who, in some places, meet the faithful at the church entrance, lead them to appropriate places, and direct processions.
+The commentator, who provides the faithful, when appropriate, with brief explanations and commentaries with the purpose of introducing them to the celebration and preparing them to understand it better. The commentator’s remarks must be meticulously prepared and clear though brief. In performing this function the commentator stands in an appropriate place facing the faithful, but not at the ambo.
+
+3\.
+
+Those who take up the collection in the church.
+
+4\.
+
+Those who, in some places, meet the faithful at the church entrance, lead them to appropriate places, and direct processions.
 
 106\. It is appropriate, at least in cathedrals and in larger churches, to have some competent minister, that is to say a master of ceremonies, to oversee the proper planning of sacred actions and their being carried out by the sacred ministers and the lay faithful with decorum, order, and devotion.
 
@@ -727,21 +779,33 @@ At a Mass celebrated by the Bishop or at which he presides without celebrating t
 
 118\. The following are also to be prepared:
 
-1.  Next to the priest’s chair: the Missal and, as needed, a hymnal;
+1\.
 
-2.  At the ambo: the Lectionary;
+Next to the priest’s chair: the Missal and, as needed, a hymnal;
 
-3.  On the credence table: the chalice, a corporal, a purificator, and, if appropriate, the pall; the paten and, if needed, ciboria; bread for the Communion of the priest who presides, the deacon, the ministers, and the people; cruets containing the wine and the water, unless all of these are presented by the faithful in procession at the Offertory; the vessel of water to be blessed, if the *asperges* occurs; the Communion-plate for the Communion of the faithful; and whatever is needed for the washing of hands.
+2\.
+
+At the ambo: the Lectionary;
+
+3\.
+
+On the credence table: the chalice, a corporal, a purificator, and, if appropriate, the pall; the paten and, if needed, ciboria; bread for the Communion of the priest who presides, the deacon, the ministers, and the people; cruets containing the wine and the water, unless all of these are presented by the faithful in procession at the Offertory; the vessel of water to be blessed, if the *asperges* occurs; the Communion-plate for the Communion of the faithful; and whatever is needed for the washing of hands.
 
 It is a praiseworthy practice to cover the chalice with a veil, which may be either the color of the day or white.
 
 119\. In the sacristy, the sacred vestments (cf. nos. 337-341) for the priest, the deacon, and other ministers are to be prepared according to the various forms of celebration:
 
-1.  For the priest: the alb, the stole, and the chasuble;
+1\.
 
-2.  For the deacon: the alb, the stole, and the dalmatic; the dalmatic may be omitted, however, either out of necessity or on account of a lesser degree of solemnity;
+For the priest: the alb, the stole, and the chasuble;
 
-3.  For the other ministers: albs or other lawfully approved attire.[^96]
+2\.
+
+For the deacon: the alb, the stole, and the dalmatic; the dalmatic may be omitted, however, either out of necessity or on account of a lesser degree of solemnity;
+
+3\.
+
+For the other ministers: albs or other lawfully approved attire.[^96]
 
 All who wear an alb should use a cincture and an amice unless, due to the form of the alb, they are not needed.
 
@@ -753,15 +817,23 @@ When there is an Entrance Procession, the following are also to be prepared: the
 
 120\. Once the people have gathered, the priest and ministers, clad in the sacred vestments, go in procession to the altar in this order:
 
-1.  The thurifer carrying a thurible with burning incense, if incense is used;
+1\.
 
-2.  The ministers who carry lighted candles, and between them an acolyte or other minister with the cross;
+The thurifer carrying a thurible with burning incense, if incense is used;
 
-3.  The acolytes and the other ministers;
+2\.
 
-4.  A lector, who may carry the *Book of the Gospels* (though not the Lectionary), which should be slightly elevated;
+The ministers who carry lighted candles, and between them an acolyte or other minister with the cross;
 
-5.  The priest who is to celebrate the Mass.
+3\. The acolytes and the other ministers;
+
+4\.
+
+A lector, who may carry the *Book of the Gospels* (though not the Lectionary), which should be slightly elevated;
+
+5\.
+
+The priest who is to celebrate the Mass.
 
 If incense is used, before the procession begins, the priest puts some in the thurible and blesses it with the Sign of the Cross without saying anything.
 
@@ -917,17 +989,29 @@ A Bishop blesses the people with the appropriate formula, making the Sign of the
 
 171\. When he is present at the Eucharistic Celebration, a deacon should exercise his ministry, wearing sacred vestments. For the deacon
 
-1.  Assists the priest and remains at his side;
+1\.
 
-2.  Ministers at the altar, with the chalice as well as the book;
+Assists the priest and remains at his side;
 
-3.  Proclaims the Gospel and, at the direction of the priest celebrant, may preach the homily (cf. no. 66);
+2\.
 
-4.  Guides the faithful by appropriate introductions and explanations, and announces the intentions of the Prayer of the Faithful;
+Ministers at the altar, with the chalice as well as the book;
 
-5.  Assists the priest celebrant in distributing Communion, and purifies and arranges the sacred vessels;
+3\.
 
-6.  As needed, fulfills the duties of other ministers himself if none of them is present.
+Proclaims the Gospel and, at the direction of the priest celebrant, may preach the homily (cf. no. 66);
+
+4\.
+
+Guides the faithful by appropriate introductions and explanations, and announces the intentions of the Prayer of the Faithful;
+
+5\.
+
+Assists the priest celebrant in distributing Communion, and purifies and arranges the sacred vessels;
+
+6\.
+
+As needed, fulfills the duties of other ministers himself if none of them is present.
 
 ***The Introductory Rites***
 
@@ -1019,13 +1103,21 @@ From the epiclesis until the priest shows the chalice, the deacon normally remai
 
 Unless the good of the Christian faithful requires or suggests otherwise, concelebration is also recommended at
 
-1.  The Evening Mass of the Lord’s Supper;
+1\.
 
-2.  The Mass during Councils, meetings of Bishops, and synods;
+The Evening Mass of the Lord’s Supper;
 
-3.  The conventual Mass and the principal Mass in churches and oratories;
+2\.
 
-4.  Masses at any kind of meeting of priests, either secular or religious.[^101]
+The Mass during Councils, meetings of Bishops, and synods;
+
+3\.
+
+The conventual Mass and the principal Mass in churches and oratories;
+
+4\.
+
+Masses at any kind of meeting of priests, either secular or religious.[^101]
 
 An individual priest is, however, permitted to celebrate the Eucharist individually, though not at the same time as a concelebration is taking place in the same church or oratory. On Holy Thursday, however, and for Mass of the Easter Vigil, it is not permitted to celebrate individually.
 
@@ -1041,15 +1133,25 @@ For this same reason, concelebration is recommended whenever priests gather toge
 
 204\. For a particular reason, having to do either with the significance of the rite or of the festivity, the faculty is given to celebrate or concelebrate more than once on the same day in the following cases:
 
-1.  A priest who has celebrated or concelebrated the Chrism Mass on Holy Thursday may also celebrate or concelebrate the Evening Mass of the Lord’s Supper;
+1\.
 
-2.  A priest who has celebrated or concelebrated the Mass of the Easter Vigil may celebrate or concelebrate Mass during the day on Easter Sunday;
+A priest who has celebrated or concelebrated the Chrism Mass on Holy Thursday may also celebrate or concelebrate the Evening Mass of the Lord’s Supper;
 
-3.  On the Nativity of the Lord (Christmas Day), all priests may celebrate or concelebrate three Masses, provided the Masses are celebrated at their proper times of day;
+2\.
 
-4.  On the Commemoration of All the Faithful Departed (All Souls’ Day), all priests may celebrate or concelebrate three Masses, provided that the celebrations take place at different times, and that the norms established regarding the application of second and third Masses are observed;[^104]
+A priest who has celebrated or concelebrated the Mass of the Easter Vigil may celebrate or concelebrate Mass during the day on Easter Sunday;
 
-5.  A priest who concelebrates with the Bishop or his delegate at a Synod or pastoral visitation, or concelebrates on the occasion of a meeting of priests, may celebrate Mass again for the benefit of the faithful. This holds also, with due regard for the prescriptions of law, for groups of religious.
+3\.
+
+On the Nativity of the Lord (Christmas Day), all priests may celebrate or concelebrate three Masses, provided the Masses are celebrated at their proper times of day;
+
+4\.
+
+On the Commemoration of All the Faithful Departed (All Souls’ Day), all priests may celebrate or concelebrate three Masses, provided that the celebrations take place at different times, and that the norms established regarding the application of second and third Masses are observed;[^104]
+
+5\.
+
+A priest who concelebrates with the Bishop or his delegate at a Synod or pastoral visitation, or concelebrates on the occasion of a meeting of priests, may celebrate Mass again for the benefit of the faithful. This holds also, with due regard for the prescriptions of law, for groups of religious.
 
 205\. A concelebrated Mass, whatever its form, is arranged in accordance with the norms commonly in force (cf. nos. 112-198), except for those matters that are to be observed, even with appropriate adaptation to circumstances, as set forth below.
 
@@ -1057,9 +1159,13 @@ For this same reason, concelebration is recommended whenever priests gather toge
 
 207\. In the sanctuary there should be prepared
 
-1.  Seats and texts for the concelebrating priests;
+1\.
 
-2.  On the credence table: a chalice of sufficient size or else several chalices.
+Seats and texts for the concelebrating priests;
+
+2\.
+
+On the credence table: a chalice of sufficient size or else several chalices.
 
 208\. If a deacon is not present, his proper duties are to be carried out by some of the concelebrants.
 
@@ -1109,15 +1215,25 @@ It is a praiseworthy practice for the parts that are to be said by all the conce
 
 222\. From the *Quam oblationem (Bless and approve our offering)* up to and including the *Supplices (Almighty God, we pray that your angel),* the principal celebrant alone makes the gestures, while all the concelebrants speak everything together, in this manner:
 
-1.  The *Quam oblationem (Bless and approve our offering)* with hands extended toward the offerings;
+1\.
 
-2.  The *Qui pridie (The day before he suffered)* and the *Simili modo (When supper was ended)* with hands joined;
+The *Quam oblationem (Bless and approve our offering)* with hands extended toward the offerings;
 
-3.  While speaking the words of the Lord, each extends his right hand toward the bread and toward the chalice, if this seems appropriate; as the host and the chalice are shown, however, they look toward them and afterwards bow profoundly;
+2\.
 
-4.  The *Unde et memores (Father, we celebrate the memory)* and the *Supra quae (Look with favor)* with hands extended;
+The *Qui pridie (The day before he suffered)* and the *Simili modo (When supper was ended)* with hands joined;
 
-5.  From the *Supplices (Almighty God, we pray that your angel)* up to and including the words *ex hac altaris participatione (as we receive from this altar)*, they bow with hands joined; then they stand upright and cross themselves at the words *omni benedictione et gratia repleamur (let us be filled with every grace and blessing).*
+3\.
+
+While speaking the words of the Lord, each extends his right hand toward the bread and toward the chalice, if this seems appropriate; as the host and the chalice are shown, however, they look toward them and afterwards bow profoundly;
+
+4\.
+
+The *Unde et memores (Father, we celebrate the memory)* and the *Supra quae (Look with favor)* with hands extended;
+
+5\.
+
+From the *Supplices (Almighty God, we pray that your angel)* up to and including the words *ex hac altaris participatione (as we receive from this altar)*, they bow with hands joined; then they stand upright and cross themselves at the words *omni benedictione et gratia repleamur (let us be filled with every grace and blessing).*
 
 223\. The *commemoration of the dead (Memento)* and the *Nobis quoque peccatoribus (Though we are sinners)* are appropriately assigned to one or other of the concelebrants, who speaks them aloud alone, with hands extended.
 
@@ -1131,13 +1247,21 @@ It is a praiseworthy practice for the parts that are to be said by all the conce
 
 227\. From the *Haec* *ergo dona (Let your Spirit come upon)* to the *Et supplices (May all of us who share)* inclusive, all the concelebrants speak all the following together:
 
-1.  The *Haec ergo dona (Let your Spirit come upon)* with hands extended toward the offerings;
+1\.
 
-2.  The *Qui cum passioni (Before he was given up to death)* and the *Simili modo (When supper was ended)* with hands joined;
+The *Haec ergo dona (Let your Spirit come upon)* with hands extended toward the offerings;
 
-3.  While speaking the words of the Lord, each extends his right hand toward the bread and toward the chalice, if this seems appropriate; as the host and the chalice are shown, however, they look toward them and afterwards bow profoundly;
+2\.
 
-4.  The *Memores igitur (In memory of his death)* and the *Et supplices (May all of us who share)* with hands extended.
+The *Qui cum passioni (Before he was given up to death)* and the *Simili modo (When supper was ended)* with hands joined;
+
+3\.
+
+While speaking the words of the Lord, each extends his right hand toward the bread and toward the chalice, if this seems appropriate; as the host and the chalice are shown, however, they look toward them and afterwards bow profoundly;
+
+4\.
+
+The *Memores igitur (In memory of his death)* and the *Et supplices (May all of us who share)* with hands extended.
 
 228\. The intercessions for the living, *Recordare, Domine (Lord, remember your Church),* and *for the dead, Memento etiam fratrum nostrorum (Remember our brothers and sisters)*, are appropriately assigned to one or other of the concelebrants, who speaks them aloud alone, with hands extended.
 
@@ -1163,13 +1287,21 @@ The *Memores igitur (Father, calling to mind)* and the *Respice, quaesumus (Look
 
 233\. From the *Quaesumus, igitur, Domine (Father, may this Holy Spirit)* to the *Respice, Domine (Lord, look upon the sacrifice)* inclusive, all the concelebrants speak all the following together:
 
-1.  The *Quaesumus igitur, Domine (Father, may this Holy Spirit)* with hands extended toward the offerings;
+1\.
 
-2.  The *Ipse enim, cum hora venisset (He always loved those)* and the *Simili modo (When supper was ended)* with hands joined;
+The *Quaesumus igitur, Domine (Father, may this Holy Spirit)* with hands extended toward the offerings;
 
-3.  While speaking the words of the Lord, each extends his right hand toward the bread and toward the chalice, if this seems appropriate; as the host and the chalice are shown, however, they look toward them and afterwards bow profoundly;
+2\.
 
-4.  The *Unde et nos (Father, we now celebrate)* and the *Respice, Domine (Lord, look upon this sacrifice)* with hands outstretched.
+The *Ipse enim, cum hora venisset (He always loved those)* and the *Simili modo (When supper was ended)* with hands joined;
+
+3\.
+
+While speaking the words of the Lord, each extends his right hand toward the bread and toward the chalice, if this seems appropriate; as the host and the chalice are shown, however, they look toward them and afterwards bow profoundly;
+
+4\.
+
+The *Unde et nos (Father, we now celebrate)* and the *Respice, Domine (Lord, look upon this sacrifice)* with hands outstretched.
 
 234\. The intercessions *Nunc ergo, Domine, omnium recordare (Lord, remember those)* and *Nobis omnibus (Father, in your mercy)* are appropriately assigned to one or other of the concelebrants, who speaks them aloud alone, with hands extended.
 
@@ -1199,9 +1331,13 @@ The *Memores igitur (Father, calling to mind)* and the *Respice, quaesumus (Look
 
 246\. If Communion is received by drinking directly from the chalice, one or other of two procedures may be followed:
 
-1.  The principal celebrant, standing at the middle of the altar, takes the chalice and says quietly, *Sanguis Christi custodiat me in vitam aeternam (May the Blood of Christ bring me to everlasting life)*. He consumes a little of the Blood of Christ and hands the chalice to the deacon or a concelebrant. He then distributes Communion to the faithful (cf. nos. 160-162). The concelebrants approach the altar one after another or, if two chalices are used, two by two. They genuflect, partake of the Blood of Christ, wipe the rim of the chalice, and return to their seats.
+1\.
 
-2.  The principal celebrant normally consumes the Blood of the Lord standing at the middle of the altar.
+The principal celebrant, standing at the middle of the altar, takes the chalice and says quietly, *Sanguis Christi custodiat me in vitam aeternam (May the Blood of Christ bring me to everlasting life)*. He consumes a little of the Blood of Christ and hands the chalice to the deacon or a concelebrant. He then distributes Communion to the faithful (cf. nos. 160-162). The concelebrants approach the altar one after another or, if two chalices are used, two by two. They genuflect, partake of the Blood of Christ, wipe the rim of the chalice, and return to their seats.
+
+2\.
+
+The principal celebrant normally consumes the Blood of the Lord standing at the middle of the altar.
 
 The concelebrants may, however, partake of the Blood of the Lord while remaining in their places and drinking from the chalice presented to them by the deacon or by one of the concelebrants, or else passed from one to the other. The chalice is always wiped either by the one who drinks from it or by the one who presents it. After communicating, each returns to his seat.
 
@@ -1299,25 +1435,41 @@ Ministers carrying the processional cross or candles bow their heads instead of 
 
 275\. A bow signifies reverence and honor shown to the persons themselves or to the signs that represent them. There are two kinds of bows: a bow of the head and a bow of the body.
 
-1.  A bow of the head is made when the three Divine Persons are named together and at the names of Jesus, of the Blessed Virgin Mary, and of the Saint in whose honor Mass is being celebrated.
+1\.
 
-2.  A bow of the body, that is to say a profound bow, is made to the altar; during the prayers *Munda cor meum (Almighty God, cleanse my heart)* and *In spiritu humilitatis (Lord God, we ask you to receive)*; in the Creed at the words *Et incarnatus est (by the power of the Holy Spirit . . . and became man)*; in the Roman Canon at the words *Supplices te rogamus (Almighty God, we pray that your angel)*. The same kind of bow is made by the deacon when he asks for a blessing before the proclamation of the Gospel. In addition, the priest bows slightly as he speaks the words of the Lord at the consecration.
+A bow of the head is made when the three Divine Persons are named together and at the names of Jesus, of the Blessed Virgin Mary, and of the Saint in whose honor Mass is being celebrated.
+
+2\.
+
+A bow of the body, that is to say a profound bow, is made to the altar; during the prayers *Munda cor meum (Almighty God, cleanse my heart)* and *In spiritu humilitatis (Lord God, we ask you to receive)*; in the Creed at the words *Et incarnatus est (by the power of the Holy Spirit . . . and became man)*; in the Roman Canon at the words *Supplices te rogamus (Almighty God, we pray that your angel)*. The same kind of bow is made by the deacon when he asks for a blessing before the proclamation of the Gospel. In addition, the priest bows slightly as he speaks the words of the Lord at the consecration.
 
 ***Incensation***
 
 276\. Thurification or incensation is an expression of reverence and of prayer, as is signified in Sacred Scripture (cf. Ps 141 \[140\]:2, Rev 8:3).
 
-1.  Incense may be used if desired in any form of Mass:
+1\.
 
-2.  During the Entrance procession;
+Incense may be used if desired in any form of Mass:
 
-3.  At the beginning of Mass, to incense the cross and the altar;
+2\.
 
-4.  At the Gospel procession and the proclamation of the Gospel itself;
+During the Entrance procession;
 
-5.  After the bread and the chalice have been placed upon the altar, to incense the offerings, the cross, and the altar, as well as the priest and the people;
+3\.
 
-6.  At the showing of the host and the chalice after the consecration.
+At the beginning of Mass, to incense the cross and the altar;
+
+4\.
+
+At the Gospel procession and the proclamation of the Gospel itself;
+
+5\.
+
+After the bread and the chalice have been placed upon the altar, to incense the offerings, the cross, and the altar, as well as the priest and the people;
+
+6\.
+
+At the showing of the host and the chalice after the consecration.
 
 277\. The priest, having put incense into the thurible, blesses it with the sign of the Cross, without saying anything.
 
@@ -1329,9 +1481,13 @@ The following are incensed with two swings of the thurible: relics and images of
 
 The altar is incensed with single swings of the thurible in this way:
 
-1.  If the altar is freestanding with respect to the wall, the priest incenses walking around it;
+1\.
 
-2.  If the altar is not freestanding, the priest incenses it while walking first to the righthand side, then to the left.
+If the altar is freestanding with respect to the wall, the priest incenses walking around it;
+
+2\.
+
+If the altar is not freestanding, the priest incenses it while walking first to the righthand side, then to the left.
 
 The cross, if situated on or near the altar, is incensed by the priest before he incenses the altar; otherwise, he incenses it when he passes in front of it.
 
@@ -1357,11 +1513,17 @@ They are to teach, furthermore, that the Church, in her stewardship of the Sacra
 
 283\. In addition to those cases given in the ritual books, Communion under both kinds is permitted for
 
-1.  Priests who are not able to celebrate or concelebrate Mass;
+1\.
 
-2.  The deacon and others who perform some duty at the Mass;
+Priests who are not able to celebrate or concelebrate Mass;
 
-3.  Members of communities at the conventual Mass or “community” Mass, along with seminarians, and all who are engaged in a retreat or are taking part in a spiritual or pastoral gathering.
+2\.
+
+The deacon and others who perform some duty at the Mass;
+
+3\.
+
+Members of communities at the conventual Mass or “community” Mass, along with seminarians, and all who are engaged in a retreat or are taking part in a spiritual or pastoral gathering.
 
 The diocesan Bishop may establish norms for Communion under both kinds for his own diocese, which are also to be observed in churches of religious and at celebrations with small groups. The diocesan Bishop is also given the faculty to permit Communion under both kinds whenever it may seem appropriate to the priest to whom, as its own shepherd, a community has been entrusted, provided that the faithful have been well instructed and there is no danger of profanation of the Sacrament or of the rite’s becoming difficult because of the large number of participants or some other reason.
 
@@ -1369,17 +1531,25 @@ In all that pertains to Communion under both kinds, the *Norms for the Distribut
 
 284\. When Communion is distributed under both kinds,
 
-1.  The chalice is usually administered by a deacon or, when no deacon is present, by a priest, or even by a duly instituted acolyte or another extraordinary minister of Holy Communion, or by a member of the faithful who, in case of necessity, has been entrusted with this duty for a single occasion;
+1\.
 
-2.  Whatever may remain of the Blood of Christ is consumed at the altar by the priest or the deacon or the duly instituted acolyte who ministered the chalice. The same then purifies, wipes, and arranges the sacred vessels in the usual way.
+The chalice is usually administered by a deacon or, when no deacon is present, by a priest, or even by a duly instituted acolyte or another extraordinary minister of Holy Communion, or by a member of the faithful who, in case of necessity, has been entrusted with this duty for a single occasion;
+
+2\.
+
+Whatever may remain of the Blood of Christ is consumed at the altar by the priest or the deacon or the duly instituted acolyte who ministered the chalice. The same then purifies, wipes, and arranges the sacred vessels in the usual way.
 
 Any of the faithful who wish to receive Holy Communion under the species of bread alone should be granted their wish.
 
 285\. For Communion under both kinds the following should be prepared:
 
-1.  If Communion from the chalice is carried out by communicants’ drinking directly from the chalice, a chalice of a sufficiently large size or several chalices are prepared. Care should, however, be taken in planning lest beyond what is needed of the Blood of Christ remains to be consumed at the end of the celebration.
+1\.
 
-2.  If Communion is carried out by intinction, the hosts should be neither too thin nor too small, but rather a little thicker than usual, so that after being dipped partly into the Blood of Christ they can still easily be distributed to each communicant.
+If Communion from the chalice is carried out by communicants’ drinking directly from the chalice, a chalice of a sufficiently large size or several chalices are prepared. Care should, however, be taken in planning lest beyond what is needed of the Blood of Christ remains to be consumed at the end of the celebration.
+
+2\.
+
+If Communion is carried out by intinction, the hosts should be neither too thin nor too small, but rather a little thicker than usual, so that after being dipped partly into the Blood of Christ they can still easily be distributed to each communicant.
 
 286\. If Communion of the Blood of Christ is carried out by communicants’ drinking from the chalice, each communicant, after receiving the Body of Christ, moves and stands facing the minister of the chalice. The minister says, *Sanguis Christi (The Blood of Christ),* the communicant responds, *Amen*, and the minister hands over the chalice, which the communicant raises to his or her mouth. Each communicant drinks a little from the chalice, hands it back to the minister, and then withdraws; the minister wipes the rim of the chalice with the purificator.
 
@@ -1503,9 +1673,13 @@ The one tabernacle should be immovable, be made of solid and inviolable material
 
 Consequently, it is preferable that the tabernacle be located, according to the judgment of the diocesan Bishop,
 
-1.  Either in the sanctuary, apart from the altar of celebration, in a form and place more appropriate, not excluding on an old altar no longer used for celebration (cf. no. 303);
+1\.
 
-2.  Or even in some chapel suitable for the faithful’s private adoration and prayer[^129] and organically connected to the church and readily visible to the Christian faithful.
+Either in the sanctuary, apart from the altar of celebration, in a form and place more appropriate, not excluding on an old altar no longer used for celebration (cf. no. 303);
+
+2\.
+
+Or even in some chapel suitable for the faithful’s private adoration and prayer[^129] and organically connected to the church and readily visible to the Christian faithful.
 
 316\. In accordance with traditional custom, near the tabernacle a special lamp, fueled by oil or wax, should be kept alight to indicate and honor the presence of Christ.[^130]
 
@@ -1587,21 +1761,37 @@ In this matter as well, a noble simplicity should be ensured such as is the best
 
 346\. As to the color of sacred vestments, the traditional usage is to be retained: namely,
 
-1.  White is used in the Offices and Masses during the Easter and Christmas seasons; also on celebrations of the Lord other than of his Passion, of the Blessed Virgin Mary, of the Holy Angels, and of Saints who were not Martyrs; on the Solemnities of All Saints (November 1) and of the Nativity of St. John the Baptist (June 24); and on the Feasts of St. John the Evangelist (December 27), of the Chair of St. Peter (February 22), and of the Conversion of St. Paul (January 25).
+1\.
 
-2.  Red is used on Palm Sunday of the Lord’s Passion and on Good Friday, on Pentecost Sunday, on celebrations of the Lord’s Passion, on the feasts of the Apostles and Evangelists, and on celebrations of Martyr Saints.
+White is used in the Offices and Masses during the Easter and Christmas seasons; also on celebrations of the Lord other than of his Passion, of the Blessed Virgin Mary, of the Holy Angels, and of Saints who were not Martyrs; on the Solemnities of All Saints (November 1) and of the Nativity of St. John the Baptist (June 24); and on the Feasts of St. John the Evangelist (December 27), of the Chair of St. Peter (February 22), and of the Conversion of St. Paul (January 25).
 
-3.  Green is used in the Offices and Masses of Ordinary Time.
+2\.
 
-4.  Violet or purple is used in Advent and Lent. It may also be worn in Offices and Masses for the Dead (cf. below).
+Red is used on Palm Sunday of the Lord’s Passion and on Good Friday, on Pentecost Sunday, on celebrations of the Lord’s Passion, on the feasts of the Apostles and Evangelists, and on celebrations of Martyr Saints.
 
-5.  Besides violet, white or black vestments may be worn at funeral services and at other Offices and Masses for the Dead in the dioceses of the United States of America.
+3\.
 
-6.  Rose may be used, where it is the practice, on Gaudete Sunday (Third Sunday of Advent) and on Laetare Sunday (Fourth Sunday of Lent).
+Green is used in the Offices and Masses of Ordinary Time.
 
-7.  On more solemn days, sacred vestments may be used that are festive, that is, more precious, even if not of the color of the day.
+4\.
 
-8.  Gold- or silver-colored vestments may be worn on more solemn occasions in the dioceses of the United States of America.
+Violet or purple is used in Advent and Lent. It may also be worn in Offices and Masses for the Dead (cf. below).
+
+5\.
+
+Besides violet, white or black vestments may be worn at funeral services and at other Offices and Masses for the Dead in the dioceses of the United States of America.
+
+6\.
+
+Rose may be used, where it is the practice, on Gaudete Sunday (Third Sunday of Advent) and on Laetare Sunday (Fourth Sunday of Lent).
+
+7\.
+
+On more solemn days, sacred vestments may be used that are festive, that is, more precious, even if not of the color of the day.
+
+8\.
+
+Gold- or silver-colored vestments may be worn on more solemn occasions in the dioceses of the United States of America.
 
 347\. Ritual Masses are celebrated in their proper color, in white, or in a festive color; Masses for Various Needs, on the other hand, are celebrated in the color proper to the day or the season or in violet if they are of a penitential character, for example, in The Roman Missal, no. 31 (in Time of War or Conflict), no. 33 (in Time of Famine), or no. 38 (for the Forgiveness of Sins); Votive Masses are celebrated in the color suited to the Mass itself or even in the color proper to the day or the season.
 
@@ -1631,17 +1821,27 @@ Since, indeed, a variety of options is provided for the different parts of the M
 
 354\. On Sundays, on the weekdays of the Advent, Christmas, Lenten, and Easter Seasons, on feasts, and on obligatory memorials:
 
-1.  If Mass is celebrated with a congregation, the priest should follow the calendar of the church where he is celebrating;
+1\.
 
-2.  If Mass is celebrated with the participation of one minister only, the priest may choose either the calendar of the church or his own proper calendar.
+If Mass is celebrated with a congregation, the priest should follow the calendar of the church where he is celebrating;
+
+2\.
+
+If Mass is celebrated with the participation of one minister only, the priest may choose either the calendar of the church or his own proper calendar.
 
 355\. On optional memorials,
 
-1.  On the weekdays of Advent from December 17 to December 24, on days within the Octave of Christmas, and on the weekdays of Lent, except Ash Wednesday and during Holy Week, the Mass for the current liturgical day is to be used; but the collect may be taken from a memorial which happens to be listed in the General Calendar for that day, except on Ash Wednesday and during Holy Week. On weekdays of the Easter Season, memorials of Saints may rightly be celebrated fully.
+1\.
 
-2.  On the weekdays of Advent before December 17, the weekdays of the Christmas Season from January 2, and the weekdays of the Easter Season, it is possible to choose either the weekday Mass, or the Mass of the Saint, or the Mass of one of the Saints whose memorial is observed, or the Mass of any Saint listed in the *Martyrology* for that day.
+On the weekdays of Advent from December 17 to December 24, on days within the Octave of Christmas, and on the weekdays of Lent, except Ash Wednesday and during Holy Week, the Mass for the current liturgical day is to be used; but the collect may be taken from a memorial which happens to be listed in the General Calendar for that day, except on Ash Wednesday and during Holy Week. On weekdays of the Easter Season, memorials of Saints may rightly be celebrated fully.
 
-3.  On the weekdays in Ordinary Time, it is possible to choose either a weekday Mass, or the Mass of an optional memorial which happens to occur on that day, or the Mass of any Saint listed in the *Martyrology* for that day, or a Mass for Various Needs, or a Votive Mass.
+2\.
+
+On the weekdays of Advent before December 17, the weekdays of the Christmas Season from January 2, and the weekdays of the Easter Season, it is possible to choose either the weekday Mass, or the Mass of the Saint, or the Mass of one of the Saints whose memorial is observed, or the Mass of any Saint listed in the *Martyrology* for that day.
+
+3\.
+
+On the weekdays in Ordinary Time, it is possible to choose either a weekday Mass, or the Mass of an optional memorial which happens to occur on that day, or the Mass of any Saint listed in the *Martyrology* for that day, or a Mass for Various Needs, or a Votive Mass.
 
 If he celebrates with a congregation, the priest will take care not to omit the readings assigned for each day in the Lectionary for weekdays too frequently and without sufficient reason, since the Church desires that a richer portion at the table of God’s word be provided for the faithful.[^141]
 
@@ -1701,17 +1901,21 @@ During the more important seasons of the year, however, the proper seasonal orat
 
 365\. The choice among the Eucharistic Prayers found in the Order of Mass is suitably guided by the following norms:
 
-1.  Eucharistic Prayer I, that is, the Roman Canon, which may always be used, is especially suited to be sung or said on days when there is a proper text for the *Communicantes (In union with the whole Church)* or in Masses endowed with a proper form of the *Hanc igitur (Father, accept this offering)* and also in the celebrations of the Apostles and of the Saints mentioned in the Prayer itself; it is likewise especially appropriate for Sundays, unless for pastoral considerations Eucharistic Prayer III is preferred.
+1\.
 
-2.  Eucharistic Prayer II, on account of its particular features, is more appropriately used on weekdays or in special circumstances. Although it has been provided with its own Preface, it may also be used with other Prefaces, especially those that summarize the mystery of salvation, such as the common Prefaces. When Mass is celebrated for a particular dead person, the special formula may be inserted in the place indicated, namely, before the *Memento etiam (Remember our brothers and sisters).*
+Eucharistic Prayer I, that is, the Roman Canon, which may always be used, is especially suited to be sung or said on days when there is a proper text for the *Communicantes (In union with the whole Church)* or in Masses endowed with a proper form of the *Hanc igitur (Father, accept this offering)* and also in the celebrations of the Apostles and of the Saints mentioned in the Prayer itself; it is likewise especially appropriate for Sundays, unless for pastoral considerations Eucharistic Prayer III is preferred.
 
-&nbsp;
+2\.
 
-3.  Eucharistic Prayer III may be said with any Preface. Its use is preferred on Sundays and feast days. If, however, this Eucharistic Prayer is used in Masses for the Dead, the special formula for the dead may be used, to be included at the proper place, namely, after the *Omnes filios tuos ubique dispersos, tibi, clemens Pater, miseratus coniunge (In mercy and love unite all your children).*
+Eucharistic Prayer II, on account of its particular features, is more appropriately used on weekdays or in special circumstances. Although it has been provided with its own Preface, it may also be used with other Prefaces, especially those that summarize the mystery of salvation, such as the common Prefaces. When Mass is celebrated for a particular dead person, the special formula may be inserted in the place indicated, namely, before the *Memento etiam (Remember our brothers and sisters).*
 
-&nbsp;
+3\.
 
-4.  Eucharistic Prayer IV has an invariable Preface and gives a fuller summary of salvation history. It may be used when a Mass has no Preface of its own and on Sundays in Ordinary Time. Because of its structure, no special formula for the dead may be inserted into this prayer.
+Eucharistic Prayer III may be said with any Preface. Its use is preferred on Sundays and feast days. If, however, this Eucharistic Prayer is used in Masses for the Dead, the special formula for the dead may be used, to be included at the proper place, namely, after the *Omnes filios tuos ubique dispersos, tibi, clemens Pater, miseratus coniunge (In mercy and love unite all your children).*
+
+4\.
+
+Eucharistic Prayer IV has an invariable Preface and gives a fuller summary of salvation history. It may be used when a Mass has no Preface of its own and on Sundays in Ordinary Time. Because of its structure, no special formula for the dead may be inserted into this prayer.
 
 ***The Chants***
 

@@ -53,18 +53,18 @@ Además de las Observaciones del Defensor del Vínculo, la documentación del ca
 Si bien no hay un orden prescrito para las actas en la documentación completa del proceso, la siguiente distribución facilita siempre el examen del caso:
 
 1\. sumario  
-2. petición  
-3. comisión  
-4. testimonios del Actor y del cónyuge anterior  
-5. documentos correspondientes e investigaciones bautismales  
-6. testimonios  
-7. testimonio de la tercera parte y documentos correspondientes  
-8. cartas sobre la práctica religiosa de las partes  
-9. Relación del Instructor  
-10. Observaciones del Defensor del Vínculo  
-11. Votum del Obispo  
-12. autentificación de las actas  
-13. Índice.
+2\. petición  
+3\. comisión  
+4\. testimonios del Actor y del cónyuge anterior  
+5\. documentos correspondientes e investigaciones bautismales  
+6\. testimonios  
+7\. testimonio de la tercera parte y documentos correspondientes  
+8\. cartas sobre la práctica religiosa de las partes  
+9\. Relación del Instructor  
+10\. Observaciones del Defensor del Vínculo  
+11\. Votum del Obispo  
+12\. autentificación de las actas  
+13\. Índice.
 
 **9) Tres copias de las actas**
 

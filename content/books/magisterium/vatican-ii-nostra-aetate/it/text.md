@@ -13,7 +13,7 @@ CON LE RELIGIONI NON CRISTIANE
 
 ***Introduzione***
 
-1. Nel nostro tempo in cui il genere umano si unifica di giorno in giorno più strettamente e cresce l'interdipendenza tra i vari popoli, la Chiesa esamina con maggiore attenzione la natura delle sue relazioni con le religioni non-cristiane. Nel suo dovere di promuovere l'unità e la carità tra gli uomini, ed anzi tra i popoli, essa in primo luogo esamina qui tutto ciò che gli uomini hanno in comune e che li spinge a vivere insieme il loro comune destino.
+1\. Nel nostro tempo in cui il genere umano si unifica di giorno in giorno più strettamente e cresce l'interdipendenza tra i vari popoli, la Chiesa esamina con maggiore attenzione la natura delle sue relazioni con le religioni non-cristiane. Nel suo dovere di promuovere l'unità e la carità tra gli uomini, ed anzi tra i popoli, essa in primo luogo esamina qui tutto ciò che gli uomini hanno in comune e che li spinge a vivere insieme il loro comune destino.
 
 I vari popoli costituiscono infatti una sola comunità. Essi hanno una sola origine, poiché Dio ha fatto abitare l'intero genere umano su tutta la faccia della terra (1) hanno anche un solo fine ultimo, Dio, la cui Provvidenza, le cui testimonianze di bontà e il disegno di salvezza si estendono a tutti (2) finché gli eletti saranno riuniti nella città santa, che la gloria di Dio illuminerà e dove le genti cammineranno nella sua luce (3).
 
@@ -21,7 +21,7 @@ Gli uomini attendono dalle varie religioni la risposta ai reconditi enigmi della
 
 ***Le diverse religioni***
 
-2. Dai tempi più antichi fino ad oggi presso i vari popoli si trova una certa sensibilità a quella forza arcana che è presente al corso delle cose e agli avvenimenti della vita umana, ed anzi talvolta vi riconosce la Divinità suprema o il Padre. Questa sensibilità e questa conoscenza compenetrano la vita in un intimo senso religioso.
+2\. Dai tempi più antichi fino ad oggi presso i vari popoli si trova una certa sensibilità a quella forza arcana che è presente al corso delle cose e agli avvenimenti della vita umana, ed anzi talvolta vi riconosce la Divinità suprema o il Padre. Questa sensibilità e questa conoscenza compenetrano la vita in un intimo senso religioso.
 
 Quanto alle religioni legate al progresso della cultura, esse si sforzano di rispondere alle stesse questioni con nozioni più raffinate e con un linguaggio più elaborato. Così, nell'induismo gli uomini scrutano il mistero divino e lo esprimono con la inesauribile fecondità dei miti e con i penetranti tentativi della filosofia; cercano la liberazione dalle angosce della nostra condizione sia attraverso forme di vita ascetica, sia nella meditazione profonda, sia nel rifugio in Dio con amore e confidenza. Nel buddismo, secondo le sue varie scuole, viene riconosciuta la radicale insufficienza di questo mondo mutevole e si insegna una via per la quale gli uomini, con cuore devoto e confidente, siano capaci di acquistare lo stato di liberazione perfetta o di pervenire allo stato di illuminazione suprema per mezzo dei propri sforzi o con l'aiuto venuto dall'alto. Ugualmente anche le altre religioni che si trovano nel mondo intero si sforzano di superare, in vari modi, l'inquietudine del cuore umano proponendo delle vie, cioè dottrine, precetti di vita e riti sacri.
 
@@ -33,13 +33,13 @@ Essa perciò esorta i suoi figli affinché, con prudenza e carità, per mezzo de
 
 ***La religione musulmana***
 
-3. La Chiesa guarda anche con stima i musulmani che adorano l'unico Dio, vivente e sussistente, misericordioso e onnipotente, creatore del cielo e della terra (5), che ha parlato agli uomini. Essi cercano di sottomettersi con tutto il cuore ai decreti di Dio anche nascosti, come vi si è sottomesso anche Abramo, a cui la fede islamica volentieri si riferisce. Benché essi non riconoscano Gesù come Dio, lo venerano tuttavia come profeta; onorano la sua madre vergine, Maria, e talvolta pure la invocano con devozione. Inoltre attendono il giorno del giudizio, quando Dio retribuirà tutti gli uomini risuscitati. Così pure hanno in stima la vita morale e rendono culto a Dio, soprattutto con la preghiera, le elemosine e il digiuno.
+3\. La Chiesa guarda anche con stima i musulmani che adorano l'unico Dio, vivente e sussistente, misericordioso e onnipotente, creatore del cielo e della terra (5), che ha parlato agli uomini. Essi cercano di sottomettersi con tutto il cuore ai decreti di Dio anche nascosti, come vi si è sottomesso anche Abramo, a cui la fede islamica volentieri si riferisce. Benché essi non riconoscano Gesù come Dio, lo venerano tuttavia come profeta; onorano la sua madre vergine, Maria, e talvolta pure la invocano con devozione. Inoltre attendono il giorno del giudizio, quando Dio retribuirà tutti gli uomini risuscitati. Così pure hanno in stima la vita morale e rendono culto a Dio, soprattutto con la preghiera, le elemosine e il digiuno.
 
 Se, nel corso dei secoli, non pochi dissensi e inimicizie sono sorte tra cristiani e musulmani, il sacro Concilio esorta tutti a dimenticare il passato e a esercitare sinceramente la mutua comprensione, nonché a difendere e promuovere insieme per tutti gli uomini la giustizia sociale, i valori morali, la pace e la libertà.
 
 ***La religione ebraica***
 
-4. Scrutando il mistero della Chiesa, il sacro Concilio ricorda il vincolo con cui il popolo del Nuovo Testamento è spiritualmente legato con la stirpe di Abramo.
+4\. Scrutando il mistero della Chiesa, il sacro Concilio ricorda il vincolo con cui il popolo del Nuovo Testamento è spiritualmente legato con la stirpe di Abramo.
 
 La Chiesa di Cristo infatti riconosce che gli inizi della sua fede e della sua elezione si trovano già, secondo il mistero divino della salvezza, nei patriarchi, in Mosè e nei profeti.
 
@@ -59,7 +59,7 @@ La Chiesa inoltre, che esecra tutte le persecuzioni contro qualsiasi uomo, memor
 
 ***Fraternità universale***
 
-5. Non possiamo invocare Dio come Padre di tutti gli uomini, se ci rifiutiamo di comportarci da fratelli verso alcuni tra gli uomini che sono creati ad immagine di Dio. L'atteggiamento dell'uomo verso Dio Padre e quello dell'uomo verso gli altri uomini suoi fratelli sono talmente connessi che la Scrittura dice: « Chi non ama, non conosce Dio » (1 Gv 4,8).
+5\. Non possiamo invocare Dio come Padre di tutti gli uomini, se ci rifiutiamo di comportarci da fratelli verso alcuni tra gli uomini che sono creati ad immagine di Dio. L'atteggiamento dell'uomo verso Dio Padre e quello dell'uomo verso gli altri uomini suoi fratelli sono talmente connessi che la Scrittura dice: « Chi non ama, non conosce Dio » (1 Gv 4,8).
 
 Viene dunque tolto il fondamento a ogni teoria o prassi che introduca tra uomo e uomo, tra popolo e popolo, discriminazioni in ciò che riguarda la dignità umana e i diritti che ne promanano.
 

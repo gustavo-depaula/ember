@@ -20,22 +20,22 @@ COMMISSION THÉOLOGIQUE INTERNATIONALE
 **[Chapitre 1](#Chapitre_1) : La synodalité dans l’Écriture, dans la Tradition et dans l’histoire**
 
 1\. [L’enseignement de l’Écriture](#L’enseignement_de_l’Écriture)  
-2. [Les témoignages des Pères et la Tradition au premier millénaire](#Les_témoignages)  
-3. [Le développement de la pratique synodale au deuxième millénaire](#Le_développement)
+2\. [Les témoignages des Pères et la Tradition au premier millénaire](#Les_témoignages)  
+3\. [Le développement de la pratique synodale au deuxième millénaire](#Le_développement)
 
 **[Chapitre 2](#Chapitre_2) : Vers une théologie de la synodalité**
 
 1\. [Les fondements théologiques de la synodalité](#Les_fondements_théologiques_)  
-2. [Le chemin synodal du Peuple de Dieu pèlerin et missionnaire](#Le_chemin_synodal)  
-3. [La synodalité, expression de l’ecclésiologie de communion](#La_synodalité,_expression)  
-4. [La synodalité dans le dynamisme de la communion catholique](#La_synodalité_dans_le_dynamisme)  
-5. [La synodalité dans la *traditio* de la communion apostolique](#La_synodalité_dans_la_traditio)  
-6. [Participation et autorité dans la vie synodale de l’Église](#Participation_et_autorité)
+2\. [Le chemin synodal du Peuple de Dieu pèlerin et missionnaire](#Le_chemin_synodal)  
+3\. [La synodalité, expression de l’ecclésiologie de communion](#La_synodalité,_expression)  
+4\. [La synodalité dans le dynamisme de la communion catholique](#La_synodalité_dans_le_dynamisme)  
+5\. [La synodalité dans la *traditio* de la communion apostolique](#La_synodalité_dans_la_traditio)  
+6\. [Participation et autorité dans la vie synodale de l’Église](#Participation_et_autorité)
 
 **[Chapitre 3](#Chapitre_3) : La mise en œuvre de la synodalité : sujets, structures, processus et événements synodaux**
 
 1\. [La vocation synodale du Peuple de Dieu](#La_vocation_synodale)  
-2. [La synodalité dans l’Église particulière](#La_synodalité_dans_l’Église_particulière_)
+2\. [La synodalité dans l’Église particulière](#La_synodalité_dans_l’Église_particulière_)
 
 > 2.1 [Le synode diocésain et l’assemblée éparchiale](#Le_synode_diocésain)  
 > 2.2 [Autres structures au service de la vie synodale dans l’Église particulière](#Autres_structures)  
@@ -57,10 +57,10 @@ COMMISSION THÉOLOGIQUE INTERNATIONALE
 **[Chapitre 4](#Chapitre_4) : La conversion en vue d’une synodalité renouvelée**
 
 1\. [Pour un renouvellement synodal de la vie et de la mission de l’Église](#Pour_un_renouvellement)  
-2. [La spiritualité de communion et la formation à la vie synodale](#La_spiritualité_de_communion)  
-3. [L’écoute et le dialogue pour un discernement communautaire](#L’écoute_et_le_dialogue)  
-4. [La synodalité et le chemin œcuménique](#La_synodalité_et_le_chemin_œcuménique)  
-5. [La synodalité et la diaconie sociale](#La_synodalité_et_la_diaconie_sociale)
+2\. [La spiritualité de communion et la formation à la vie synodale](#La_spiritualité_de_communion)  
+3\. [L’écoute et le dialogue pour un discernement communautaire](#L’écoute_et_le_dialogue)  
+4\. [La synodalité et le chemin œcuménique](#La_synodalité_et_le_chemin_œcuménique)  
+5\. [La synodalité et la diaconie sociale](#La_synodalité_et_la_diaconie_sociale)
 
 **[Conclusion](#Conclusion) : Cheminer ensemble dans la *parrhesía* de l’Esprit**
 

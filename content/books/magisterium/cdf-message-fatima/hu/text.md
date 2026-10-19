@@ -72,8 +72,8 @@ Lúcia nővér személyesen megerősítette, hogy ez az egyetemes és ünnepély
 Az alább közölt dokumentációban Lúcia nővér kéziratához négy további szöveg kapcsolódik:
 
 1\. a Szentatya 2000. április 19-én kelt levele Lúcia nővérhez;  
-2. a Lúcia nővérrel 2000. április 27-én folytatott beszélgetés leírása;  
-3. a közlemény, melyet Fatimában 2000. május 13-án a Szentatya megbízásából Őeminenciája Angelo Sodano bíboros államtitkár úr olvasott föl;  
+2\. a Lúcia nővérrel 2000. április 27-én folytatott beszélgetés leírása;  
+3\. a közlemény, melyet Fatimában 2000. május 13-án a Szentatya megbízásából Őeminenciája Angelo Sodano bíboros államtitkár úr olvasott föl;  
 4.Őeminenciája Joseph Ratzinger bíboros úrnak, a Hittani Kongregáció prefektusának teológiai kommentárja.
 
 A "titok" harmadik részének magyarázatára már a Szentatyához intézett 1982. május 12-én kelt levelében utalt Lúcia nővér. Ezt mondta:

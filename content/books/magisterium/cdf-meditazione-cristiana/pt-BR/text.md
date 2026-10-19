@@ -142,7 +142,7 @@ Secretário
 3\. Cfr., por ex., Ex. 15, Dt. 32, 1 Sam. 2, 2 Sam. 22, certos textos proféticos, 1 Cr. 16.
 
 4\. Const. dogm. *[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_po.html)*, n. 2. Este documento oferece outras indicações substanciosas para uma compreensão teológica e espiritual da oração cristã; vejam-se, por. ex., os nn. 3, 5, 8, 21.  
-5. Const. dogm. *[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_po.html)*, n. 25.
+5\. Const. dogm. *[Dei Verbum](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_po.html)*, n. 25.
 
 6\. Sobre a oração de Jesus, veja-se a *Institutio generalis de Liturgia Horarum*, nn. 3-4.
 

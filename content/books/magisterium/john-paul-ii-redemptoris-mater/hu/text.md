@@ -4,26 +4,26 @@
 
 II\. János Pál pápa enciklikája  
 a Boldogságos Szűz Máriáról a zarándok Egyház életében  
-1987. március 25.
+1987\. március 25.
 
 Tartalomjegyzék
 
 [Bevezetés](#BEVEZET%C3%89S)  
 I. Rész  
 MÁRIA KRISZTUS MISZTÉRIUMÁBAN  
-1. [Kegyelemmel teljes](#KEGYELEMMEL_TELJES)  
-2. [Boldog, aki hitt](#BOLDOG,_AKI_HITT)  
-3. [Íme, a te anyád](#_%C3%8DME,_A_TE_ANY%C3%81D)  
+1\. [Kegyelemmel teljes](#KEGYELEMMEL_TELJES)  
+2\. [Boldog, aki hitt](#BOLDOG,_AKI_HITT)  
+3\. [Íme, a te anyád](#_%C3%8DME,_A_TE_ANY%C3%81D)  
 II. Rész  
 MÁRIA A ZARÁNDOK EGYHÁZ KÖZÉPPONTJÁBAN  
-1. [Az Egyház mint Isten népe](#AZ_EGYH%C3%81Z_MINT)  
-2. [Az Egyház útja és a keresztények egysége](#AZ_EGYH%C3%81Z_%C3%9ATJA_%C3%89S_)  
-3. [A zarándokegyház Magnificatja](#A_ZAR%C3%81NDOKEGYH%C3%81Z_MAGNIFICATJA)  
+1\. [Az Egyház mint Isten népe](#AZ_EGYH%C3%81Z_MINT)  
+2\. [Az Egyház útja és a keresztények egysége](#AZ_EGYH%C3%81Z_%C3%9ATJA_%C3%89S_)  
+3\. [A zarándokegyház Magnificatja](#A_ZAR%C3%81NDOKEGYH%C3%81Z_MAGNIFICATJA)  
 III. Rész  
 MÁRIA ANYAI KÖZBENJÁRÁSA  
-1. [Mária, az Úr szolgálója](#M%C3%81RIA,_AZ_%C3%9AR_SZOLG%C3%81L%C3%93JA)  
-2. [Mária az Egyház és minden keresztény életében](#M%C3%81RIA_AZ_EGYH%C3%81Z_%C3%89S_MINDEN_KERESZT%C3%89NY_%C3%89LET%C3%89BEN)  
-3. [A Mária-év értelme](#_A_M%C3%81RIA-%C3%89V_%C3%89RTELME)  
+1\. [Mária, az Úr szolgálója](#M%C3%81RIA,_AZ_%C3%9AR_SZOLG%C3%81L%C3%93JA)  
+2\. [Mária az Egyház és minden keresztény életében](#M%C3%81RIA_AZ_EGYH%C3%81Z_%C3%89S_MINDEN_KERESZT%C3%89NY_%C3%89LET%C3%89BEN)  
+3\. [A Mária-év értelme](#_A_M%C3%81RIA-%C3%89V_%C3%89RTELME)  
 [Befejezés](#BEFEJEZ%C3%89S)  
 
 ------------------------------------------------------------------------

@@ -17,71 +17,71 @@
 The regulation of the Sacred Liturgy \[14-18\]
 
 1\. The Diocesan Bishop, High Priest of his Flock \[19-25\]  
-2. The Conference of Bishops \[26-28\]  
-3. Priests \[29-33\]  
-4. Deacons \[34-35\]
+2\. The Conference of Bishops \[26-28\]  
+3\. Priests \[29-33\]  
+4\. Deacons \[34-35\]
 
 **[Chapter II](#Chapter%20II)**
 
 **The Participation of the Lay Christian Faithful in the Eucharistic Celebration**
 
 1\. Active and Conscious Participation \[36-42\]  
-2. The Ministries of the Lay Christian Faithful in the Celebration of Holy Mass \[43-47\]
+2\. The Ministries of the Lay Christian Faithful in the Celebration of Holy Mass \[43-47\]
 
 **[Chapter III](#Chapter%20III)**
 
 **The Proper Celebration of Mass**
 
 1\. The Matter of the Most Holy Eucharist \[48-50\]  
-2. The Eucharistic Prayer \[51-56\]  
-3. The Other Parts of the Mass \[57-74\]  
-4. The Joining of Various Rites with the Celebration of Mass \[75-79\]
+2\. The Eucharistic Prayer \[51-56\]  
+3\. The Other Parts of the Mass \[57-74\]  
+4\. The Joining of Various Rites with the Celebration of Mass \[75-79\]
 
 **[Chapter IV](#Chapter%20IV)**
 
 **Holy Communion**
 
 1\. Dispositions for the Reception of Holy Communion \[80-86\]  
-2. The Distribution of Holy Communion \[87-96\]  
-3. The Communion of Priests \[97-99\]  
-4. Communion under Both Kinds \[100-107\]
+2\. The Distribution of Holy Communion \[87-96\]  
+3\. The Communion of Priests \[97-99\]  
+4\. Communion under Both Kinds \[100-107\]
 
 **[Chapter V](#Chapter%20V)**
 
 **Certain Other Matters concerning the Eucharist**
 
 1\. The Place for the Celebration of Holy Mass \[108-109\]  
-2. Various Circumstances Relating to Mass \[110-116\]  
-3. Sacred Vessels \[117-120\]  
-4. Liturgical Vesture \[121-128\]
+2\. Various Circumstances Relating to Mass \[110-116\]  
+3\. Sacred Vessels \[117-120\]  
+4\. Liturgical Vesture \[121-128\]
 
 **[Chapter VI](#Chapter%20VI)**
 
 **The Reservation of the Most Holy Eucharist and Eucharistic Worship outside Mass**
 
 1\. The Reservation of the Most Holy Eucharist \[129-133\]  
-2. Certain Forms of Worship of the Most Holy Eucharist outside Mass \[134-141\]  
-3. Processions and Eucharistic Congresses \[142-145\]
+2\. Certain Forms of Worship of the Most Holy Eucharist outside Mass \[134-141\]  
+3\. Processions and Eucharistic Congresses \[142-145\]
 
 **[Chapter VII](#Chapter%20VII)**
 
 **Extraordinary Functions of the Lay Faithful** \[146-153\]
 
 1\. The Extraordinary Minister of Holy Communion \[154-160\]  
-2. Preaching \[161\]  
-3. Particular Celebrations Carried Out in the Absence of a Priest \[162-167\]  
-4. Those Who Have Left the Clerical State \[168\]
+2\. Preaching \[161\]  
+3\. Particular Celebrations Carried Out in the Absence of a Priest \[162-167\]  
+4\. Those Who Have Left the Clerical State \[168\]
 
 **[Chapter VIII](#Chapter%20VIII)**
 
 **Remedies** \[169-171\]
 
 1\. *Graviora Delicta* \[172\]  
-2. Grave Matters \[173\]  
-3. Other Abuses \[174-175\]  
-4. The Diocesan Bishop \[176-180\]  
-5. The Apostolic See \[181-182\]  
-6. Complaints Regarding Abuses in Liturgical Matters \[183-184\]
+2\. Grave Matters \[173\]  
+3\. Other Abuses \[174-175\]  
+4\. The Diocesan Bishop \[176-180\]  
+5\. The Apostolic See \[181-182\]  
+6\. Complaints Regarding Abuses in Liturgical Matters \[183-184\]
 
 **[Conclusion](#CONCLUSION)** \[185-186\]
 

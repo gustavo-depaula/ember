@@ -92,65 +92,65 @@ Rzym, w siedzibie Świętej Kongregacji Nauki Wiary, 24 czerwca 1973 r., w Urocz
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1\. AAS 65 (1973) 396-408.  
-2. PAWEŁ VI, Adhort. Apost. Quinque iam anni: AAS 63 (1971) 99.  
-3. PAWEŁ VI, Konst. Apost. Regimini Ecclesiae universae: AAS 59 (1967) 897.  
-4. SOB. WAT. II, Konst. Lumen gentium, 8.  
-5. SOB. WAT. II, Dekr. Unitatis redintegratio, 3.  
-6. Tamże, 4.  
-7. SOB. WAT. II, Konst. Lumen gentium, 8.  
-8. Tamże.  
-9. SOB. WAT. II, Dekr. Unitatis redintegratio, 4.  
-10. Por. tamże, 6-8.  
+2\. PAWEŁ VI, Adhort. Apost. Quinque iam anni: AAS 63 (1971) 99.  
+3\. PAWEŁ VI, Konst. Apost. Regimini Ecclesiae universae: AAS 59 (1967) 897.  
+4\. SOB. WAT. II, Konst. Lumen gentium, 8.  
+5\. SOB. WAT. II, Dekr. Unitatis redintegratio, 3.  
+6\. Tamże, 4.  
+7\. SOB. WAT. II, Konst. Lumen gentium, 8.  
+8\. Tamże.  
+9\. SOB. WAT. II, Dekr. Unitatis redintegratio, 4.  
+10\. Por. tamże, 6-8.  
 11.Por. tamże, 1.  
-12. Por. PAWEŁ VI, Encykl. Ecclesiam suam, AAS 56 (1964) 629.  
-13. SOB. WAT. II, Konst. Dei verbum, 7.  
-14. Por. tamże, 10.  
-15. Por. tamże, 8.  
-16. SOB. WAT. II, Konst. Lumen gentium, 12.  
-17. Tamże.  
-18. Por. tamże, 35.  
-19. SOB. WAT. II, Konst. Dei verbum, 8.  
-20. PAWEŁ VI, Adhort. Apost. Quinque iam anni: AAS 63 (1971) 99.  
-21. Por. SOB. WAT. II, Konst. Lumen gentium, 25.  
-22. Tamże, 18. Por. SOB. WAT. I, Konst. Pastor aeternus, Prologus: DS 3051.  
-23. PAWEŁ VI, Adhort. Apost. Quinque iam anni, AAS 63 (1971) 100.  
-24. Por. SOB. WAT. I, Konst. Pastor aeternus, c. 4: DS 3069, 3074. Por. także: ŚW. KONGREGACJA ŚW. OFICJUM, Dekr. Lamentabili, 6: ASS 40 (1907) 471 (DS 3406).  
-25. Por. SOB. WAT. I, Konst. Pastor aeternus, c. 4: DS 3070. Por. także SOB. WAT. II, Konst. Lumen gentium, 25; Konst. Dei verbum, 4.  
-26. Por. SOB. WAT. II, Konst. Dei verbum, 11.  
-27. Por. tamże, 9n.  
-28. Por. SOB. WAT. II, Konst. Lumen gentium, 25.  
-29. Por. tamże, 25 i 22.  
-30. SOB. WAT. I, Konst. Pastor aeternus, c. 4: DS 3074. Por. także SOB. WAT. II, Konst. Lumen gentium, 25.  
-31. Por. SOB. WAT. II, Konst. Lumen gentium, 25.  
-32. SOB. WAT. I, Konst. Dei Filius, c. 3: DS 3011. Por. KPK, Kan. 1323, § 1, i Kan. 1325, § 2.  
-33. Por. SOB. TRYD., Dekr. De Iustificatione, c. 6: DS 1526; por. także SOB. WAT. II, Konst. Dei verbum, 5.  
-34. Por. SOB. WAT. I, Konst. Dei Filius, c. 3: DS 3008; por. także SOB. WAT. II, Konst. Dei verbum, 5.  
-35. Por. SOB. WAT. II, Dekr. Unitatis redintegratio, 11.  
-36. Réflexions et suggestions concernat le dialogue oecuménique, IV, 4 b, w: Secrétariat pour l'Unité des Chrétiens: Service d'information, nr 12 (1970, IV), 7n; \[Reflections and Suggestions Concerning Ecumenical Dialogue, IV, 4 b, w: The Secretariat for Promoting Christian Unity: Information Service, nr 12 (1970, IV), 8\].  
-37. SOB. WAT. I, Konst. Dei Filius, c. 4: DS 3016.  
-38. Por. PIUS IX, Breve Eximiam tuam, ASS 8 (1874-75) 447 (DS 2831); PAWEŁ VI, Encykl. Mysterium fidei, AAS 57 (1965) 757n; TENŻE, Przem. L'Oriente cristiano nella luce di immortali Concili, w: Insegnamenti di Paolo VI, 5 (1967) 412n.  
-39. Por. SOB. WAT. I, Konst. Dei Filius, c. 4: DS 3020.  
-40. Tamże.  
-41. Tamże, can. 3: DS 3043.  
-42. JAN XXIII, Przemówienie na otwarcie Soboru Watykańskiego II: AAS 54 (1962) 792. Por. SOB. WAT. II, Konst. Gaudium et spes, 62.  
-43. PAWEŁ VI, Adhort. Apost. Quinque iam anni: AAS 63 (1971) 100.  
-44. Por. SOB. WAT. II, Konst. Lumen gentium, 10.  
-45. Tamże, 11.  
-46. Tamże, 10.  
-47. Por. PIUS XI, Encykl. Ad catholici sacerdotii: AAS 28 (1936) 10 (DS 3755). Por. SOB. WAT. II, Konst. Lumen gentium, 10; Dekr. Presbyterorum ordinis, 2.  
-48. Por. SOB. WAT. II, Konst. Lumen gentium, 28.  
-49. SOB. WAT. II, Dekr. Presbyterorum ordinis, 3.  
-50. Por. SOB. WAT. II, Konst. Lumen gentium, 24, 27n.  
-51. SOB. WAT. II, Konst. Presbyterorum ordinis, 4.  
-52. Por. SOB. WAT. II, Konst. Lumen gentium, 11. Por. także SOB. TRYDENCKI, Doctrina de Missae Sacrificio, c. 1-2: DS 1739-1743.  
-53. Por. PAWEŁ VI, Wyznanie wiary Ludu Bożego, 24: AAS 60 (1968) 442.  
-54. Por. SOB. FLORENCKI, Bulla Exultate Deo: DS 1313.  
-55. Por. SOB. TRYDENCKI, Dekr. De Sacramentis, can. 9 i Dekr. De Sacramento Ordinis, c. 4 i can. 4: DS 1609, 1767, 1774.  
-56. Por. SOB. WAT. II, Konst. Lumen gentium, 21; Dekr. Presbyterorum ordinis, 2.  
-57. Por. SYNOD BISKUPÓW (1971), I. De sacerdotio ministeriali, I, 5: AAS 63 (1971) 907.  
-58. SOB. WAT. II, Konst. Lumen gentium, 17.  
-59. SOB. WAT. II, Dekr. Presbyterorum ordinis, 2. Por. także: 1) INNOCENTY III, List Eius exemplo wraz z Wyznaniem wiary przeznaczonym dla Waldensów: PL 215, 1510 (DS 794); 2) SOB. LATERANEŃSKI IV, Konst. De Fide catholica: DS 802; 3) SOB. FLORENCKI, Bulla Exultate Deo: DS 1321; 4) SOB. TRYD., Dekr. De Sacramento ordinis, c. 4: DS 1767, 4469; 5) PIUS XII, Encykl. Mediator Dei: AAS 39 (1947) 552-556 (DS 3849-3852).  
-60. Por. SYNOD BISKUPÓW (1971), I. De Sacerdotio ministeriali, I, 4: AAS 63 (1971) 906.  
-61. SYNOD BISKUPÓW (1967), Relatio Commissionis Synodalis constitutae ad examen ulterius peragendum circa opiniones periculosas et atheismum, II, 4: De theologorum opera et responasbilitate, Typis Polyglottis Vaticanis, 1967, 11 (L'Osservatore Romano, 30-31 X 1967, 3).
+12\. Por. PAWEŁ VI, Encykl. Ecclesiam suam, AAS 56 (1964) 629.  
+13\. SOB. WAT. II, Konst. Dei verbum, 7.  
+14\. Por. tamże, 10.  
+15\. Por. tamże, 8.  
+16\. SOB. WAT. II, Konst. Lumen gentium, 12.  
+17\. Tamże.  
+18\. Por. tamże, 35.  
+19\. SOB. WAT. II, Konst. Dei verbum, 8.  
+20\. PAWEŁ VI, Adhort. Apost. Quinque iam anni: AAS 63 (1971) 99.  
+21\. Por. SOB. WAT. II, Konst. Lumen gentium, 25.  
+22\. Tamże, 18. Por. SOB. WAT. I, Konst. Pastor aeternus, Prologus: DS 3051.  
+23\. PAWEŁ VI, Adhort. Apost. Quinque iam anni, AAS 63 (1971) 100.  
+24\. Por. SOB. WAT. I, Konst. Pastor aeternus, c. 4: DS 3069, 3074. Por. także: ŚW. KONGREGACJA ŚW. OFICJUM, Dekr. Lamentabili, 6: ASS 40 (1907) 471 (DS 3406).  
+25\. Por. SOB. WAT. I, Konst. Pastor aeternus, c. 4: DS 3070. Por. także SOB. WAT. II, Konst. Lumen gentium, 25; Konst. Dei verbum, 4.  
+26\. Por. SOB. WAT. II, Konst. Dei verbum, 11.  
+27\. Por. tamże, 9n.  
+28\. Por. SOB. WAT. II, Konst. Lumen gentium, 25.  
+29\. Por. tamże, 25 i 22.  
+30\. SOB. WAT. I, Konst. Pastor aeternus, c. 4: DS 3074. Por. także SOB. WAT. II, Konst. Lumen gentium, 25.  
+31\. Por. SOB. WAT. II, Konst. Lumen gentium, 25.  
+32\. SOB. WAT. I, Konst. Dei Filius, c. 3: DS 3011. Por. KPK, Kan. 1323, § 1, i Kan. 1325, § 2.  
+33\. Por. SOB. TRYD., Dekr. De Iustificatione, c. 6: DS 1526; por. także SOB. WAT. II, Konst. Dei verbum, 5.  
+34\. Por. SOB. WAT. I, Konst. Dei Filius, c. 3: DS 3008; por. także SOB. WAT. II, Konst. Dei verbum, 5.  
+35\. Por. SOB. WAT. II, Dekr. Unitatis redintegratio, 11.  
+36\. Réflexions et suggestions concernat le dialogue oecuménique, IV, 4 b, w: Secrétariat pour l'Unité des Chrétiens: Service d'information, nr 12 (1970, IV), 7n; \[Reflections and Suggestions Concerning Ecumenical Dialogue, IV, 4 b, w: The Secretariat for Promoting Christian Unity: Information Service, nr 12 (1970, IV), 8\].  
+37\. SOB. WAT. I, Konst. Dei Filius, c. 4: DS 3016.  
+38\. Por. PIUS IX, Breve Eximiam tuam, ASS 8 (1874-75) 447 (DS 2831); PAWEŁ VI, Encykl. Mysterium fidei, AAS 57 (1965) 757n; TENŻE, Przem. L'Oriente cristiano nella luce di immortali Concili, w: Insegnamenti di Paolo VI, 5 (1967) 412n.  
+39\. Por. SOB. WAT. I, Konst. Dei Filius, c. 4: DS 3020.  
+40\. Tamże.  
+41\. Tamże, can. 3: DS 3043.  
+42\. JAN XXIII, Przemówienie na otwarcie Soboru Watykańskiego II: AAS 54 (1962) 792. Por. SOB. WAT. II, Konst. Gaudium et spes, 62.  
+43\. PAWEŁ VI, Adhort. Apost. Quinque iam anni: AAS 63 (1971) 100.  
+44\. Por. SOB. WAT. II, Konst. Lumen gentium, 10.  
+45\. Tamże, 11.  
+46\. Tamże, 10.  
+47\. Por. PIUS XI, Encykl. Ad catholici sacerdotii: AAS 28 (1936) 10 (DS 3755). Por. SOB. WAT. II, Konst. Lumen gentium, 10; Dekr. Presbyterorum ordinis, 2.  
+48\. Por. SOB. WAT. II, Konst. Lumen gentium, 28.  
+49\. SOB. WAT. II, Dekr. Presbyterorum ordinis, 3.  
+50\. Por. SOB. WAT. II, Konst. Lumen gentium, 24, 27n.  
+51\. SOB. WAT. II, Konst. Presbyterorum ordinis, 4.  
+52\. Por. SOB. WAT. II, Konst. Lumen gentium, 11. Por. także SOB. TRYDENCKI, Doctrina de Missae Sacrificio, c. 1-2: DS 1739-1743.  
+53\. Por. PAWEŁ VI, Wyznanie wiary Ludu Bożego, 24: AAS 60 (1968) 442.  
+54\. Por. SOB. FLORENCKI, Bulla Exultate Deo: DS 1313.  
+55\. Por. SOB. TRYDENCKI, Dekr. De Sacramentis, can. 9 i Dekr. De Sacramento Ordinis, c. 4 i can. 4: DS 1609, 1767, 1774.  
+56\. Por. SOB. WAT. II, Konst. Lumen gentium, 21; Dekr. Presbyterorum ordinis, 2.  
+57\. Por. SYNOD BISKUPÓW (1971), I. De sacerdotio ministeriali, I, 5: AAS 63 (1971) 907.  
+58\. SOB. WAT. II, Konst. Lumen gentium, 17.  
+59\. SOB. WAT. II, Dekr. Presbyterorum ordinis, 2. Por. także: 1) INNOCENTY III, List Eius exemplo wraz z Wyznaniem wiary przeznaczonym dla Waldensów: PL 215, 1510 (DS 794); 2) SOB. LATERANEŃSKI IV, Konst. De Fide catholica: DS 802; 3) SOB. FLORENCKI, Bulla Exultate Deo: DS 1321; 4) SOB. TRYD., Dekr. De Sacramento ordinis, c. 4: DS 1767, 4469; 5) PIUS XII, Encykl. Mediator Dei: AAS 39 (1947) 552-556 (DS 3849-3852).  
+60\. Por. SYNOD BISKUPÓW (1971), I. De Sacerdotio ministeriali, I, 4: AAS 63 (1971) 906.  
+61\. SYNOD BISKUPÓW (1967), Relatio Commissionis Synodalis constitutae ad examen ulterius peragendum circa opiniones periculosas et atheismum, II, 4: De theologorum opera et responasbilitate, Typis Polyglottis Vaticanis, 1967, 11 (L'Osservatore Romano, 30-31 X 1967, 3).
 
 ------------------------------------------------------------------------

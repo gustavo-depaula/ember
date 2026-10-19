@@ -87,7 +87,7 @@ Evangéliser : quelle signification cet impératif a-t-il eue pour le Christ ? I
 
 ***Evangélisation, vocation propre de l’Eglise***
 
-14. L’Eglise le sait. Elle a une vive conscience que la parole du Sauveur — “ Je dois annoncer la bonne nouvelle du Royaume de Dieu ”\[34\] — s’applique en toute vérité à elle. Elle ajoute volontiers avec saint Paul : “ Pour moi, évangéliser ce n’est pas un titre de gloire, c’est une obligation. Malheur à moi se je n’évangélise pas ! ”\[35\]. C’est avec joie et réconfort que Nous avons entendu, au terme de la grande assemblée d’octobre 1974, ces paroles lumineuses : “ Nous voulons confirmer une fois de plus que la tâche d’évangéliser tous les hommes constitue la mission essentielle de l’Eglise ”\[36\], tâche et mission que les mutations vastes et profondes de la société actuelle ne rendent que plus urgentes. Evangéliser est, en effet, la grâce et la vocation propre de l’Eglise, son identité la plus profonde. Elle existe pour évangéliser, c’est-à-dire pour prêcher et enseigner, être le canal du don de la grâce, réconcilier les pécheurs avec Dieu, perpétuer le sacrifice du christ dans la sainte messe, qui est le mémorial de sa mort et de sa résurrection glorieuse.
+14\. L’Eglise le sait. Elle a une vive conscience que la parole du Sauveur — “ Je dois annoncer la bonne nouvelle du Royaume de Dieu ”\[34\] — s’applique en toute vérité à elle. Elle ajoute volontiers avec saint Paul : “ Pour moi, évangéliser ce n’est pas un titre de gloire, c’est une obligation. Malheur à moi se je n’évangélise pas ! ”\[35\]. C’est avec joie et réconfort que Nous avons entendu, au terme de la grande assemblée d’octobre 1974, ces paroles lumineuses : “ Nous voulons confirmer une fois de plus que la tâche d’évangéliser tous les hommes constitue la mission essentielle de l’Eglise ”\[36\], tâche et mission que les mutations vastes et profondes de la société actuelle ne rendent que plus urgentes. Evangéliser est, en effet, la grâce et la vocation propre de l’Eglise, son identité la plus profonde. Elle existe pour évangéliser, c’est-à-dire pour prêcher et enseigner, être le canal du don de la grâce, réconcilier les pécheurs avec Dieu, perpétuer le sacrifice du christ dans la sainte messe, qui est le mémorial de sa mort et de sa résurrection glorieuse.
 
 ***Liens réciproques entre l’Eglise et l’évangélisation***
 
@@ -591,7 +591,7 @@ Un signe d’amour sera aussi l’effort de transmettre aux chrétiens non pas d
 
 ***Avec la ferveur des saints***
 
-80. Notre appel s’inspire de la ferveur des plus grands prédicateurs et évangélisateurs dont la vie fut donnée à l’apostolat : parmi eux il Nous plaît de relever ceux que Nous avons, au cours de l’Année Sainte, proposés à la vénération des fidèles. Ils ont su dépasser bien des obstacles à l’évangélisation.
+80\. Notre appel s’inspire de la ferveur des plus grands prédicateurs et évangélisateurs dont la vie fut donnée à l’apostolat : parmi eux il Nous plaît de relever ceux que Nous avons, au cours de l’Année Sainte, proposés à la vénération des fidèles. Ils ont su dépasser bien des obstacles à l’évangélisation.
 
 Notre époque connaît également de nombreux obstacles, parmi lesquels Nous nous contenterons de mentionner le manque de ferveur. Il est d’autant plus grave qu’il vient du dedans ; il se manifeste dans la fatigue et le désenchantement, la routine et le désintérêt, et surtout le manque de joie et d’espérance. Nous exhortons donc tous ceux qui ont à quelque titre et à quelque échelon la tâche d’évangéliser à alimenter en eux la ferveur de l’esprit.\[130\]
 

@@ -33,14 +33,24 @@ Visa **M. Riggi** C. A. Not.
 
 Reg. in Canc. Ap. N. 571
 
-1.   Hebr. 13, 15.[](#easy-footnote-1-124)
-2.  Homil. in Ps. 1, n. 2..[](#easy-footnote-2-124)
-3.  Bulla Divinam psalmodiam.[](#easy-footnote-3-124)
-4.  Epist. ad Marcellinum in interpret. Psalmor.,n. 10[](#easy-footnote-4-124)
-5.  In Psalm. 144, n. 1.[](#easy-footnote-5-124)
-6.  Epist. ad Marcell. cit., n. 2[](#easy-footnote-6-124)
-7.  Op. cit., n. 12.[](#easy-footnote-7-124)
-8.  Lib. IX, cap. 6.[](#easy-footnote-8-124)
-9.  In Psalm. 42, n. 1.[](#easy-footnote-9-124)
-10. Enarrat, in Ps. 1, n. 9.[](#easy-footnote-10-124)
-11. Regulae fusius tractatae, interrog. 37, n.5.[](#easy-footnote-11-124)
+1\. Hebr. 13, 15.[](#easy-footnote-1-124)
+
+2\. Homil. in Ps. 1, n. 2..[](#easy-footnote-2-124)
+
+3\. Bulla Divinam psalmodiam.[](#easy-footnote-3-124)
+
+4\. Epist. ad Marcellinum in interpret. Psalmor.,n. 10[](#easy-footnote-4-124)
+
+5\. In Psalm. 144, n. 1.[](#easy-footnote-5-124)
+
+6\. Epist. ad Marcell. cit., n. 2[](#easy-footnote-6-124)
+
+7\. Op. cit., n. 12.[](#easy-footnote-7-124)
+
+8\. Lib. IX, cap. 6.[](#easy-footnote-8-124)
+
+9\. In Psalm. 42, n. 1.[](#easy-footnote-9-124)
+
+10\. Enarrat, in Ps. 1, n. 9.[](#easy-footnote-10-124)
+
+11\. Regulae fusius tractatae, interrog. 37, n.5.[](#easy-footnote-11-124)

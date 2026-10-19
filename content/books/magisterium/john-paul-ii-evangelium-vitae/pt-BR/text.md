@@ -923,11 +923,11 @@ e amante da vida.
 
 **Referências**
 
-11. Cf. S. Ambrósio, *De Noe*, 26, 94-96: *CSEL* 32, 480-481.
+11\. Cf. S. Ambrósio, *De Noe*, 26, 94-96: *CSEL* 32, 480-481.
 
-16. Discurso aos participantes no Congresso de Estudos sobre o «O Direito à vida e Europa» (18 de Dezembro de 1987): *Insegnamenti* X, 3 (1987), 1446-1447.
+16\. Discurso aos participantes no Congresso de Estudos sobre o «O Direito à vida e Europa» (18 de Dezembro de 1987): *Insegnamenti* X, 3 (1987), 1446-1447.
 
-68. Const. past. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html)*, sobre a Igreja no mundo contemporâneo, 51.
+68\. Const. past. *[Gaudium et spes](http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_po.html)*, sobre a Igreja no mundo contemporâneo, 51.
 
 [^1]: . Na realidade, a expressão « Evangelho da vida » não se encontra como tal na Sagrada Escritura. Todavia, esta corresponde a um aspecto essencial da mensagem bíblica.
 

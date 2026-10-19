@@ -4,58 +4,58 @@
 
 II\. János Pál pápa apostoli levele  
 a nő méltóságáról és hivatásáról  
-1988. augusztus 15.
+1988\. augusztus 15.
 
 Tartalomjegyzék
 
 I. BEVEZETÉS  
-1. [Az idők jele a Mária-évben](#Az_id%C5%91k_jele_a_M%C3%A1ria-%C3%A9vben)  
-2. [Mária, a Szentírás asszonya](#M%C3%A1ria,_a_Szent%C3%ADr%C3%A1s_asszonya)  
+1\. [Az idők jele a Mária-évben](#Az_id%C5%91k_jele_a_M%C3%A1ria-%C3%A9vben)  
+2\. [Mária, a Szentírás asszonya](#M%C3%A1ria,_a_Szent%C3%ADr%C3%A1s_asszonya)  
 
 II. ASSZONY – ISTEN ANYJA  
-3. [Közösség Istennel](#K%C3%B6z%C3%B6ss%C3%A9g_Istennel)  
-4. [Theotokosz](#Theotokosz)  
-5. „ [Neki szolgálni uralkodás](#Neki_szolg%C3%A1lni_uralkod%C3%A1s)”  
+3\. [Közösség Istennel](#K%C3%B6z%C3%B6ss%C3%A9g_Istennel)  
+4\. [Theotokosz](#Theotokosz)  
+5\. „ [Neki szolgálni uralkodás](#Neki_szolg%C3%A1lni_uralkod%C3%A1s)”  
 
 III. ISTEN KÉPMÁSA ÉS HASONLATOSSÁGA  
-6. [A Teremtés könyve](#A_Teremt%C3%A9s_k%C3%B6nyve)  
-7. [Személy – közösség – ajándék](#Szem%C3%A9ly_%E2%80%93_k%C3%B6z%C3%B6ss%C3%A9g_%E2%80%93_aj%C3%A1nd%C3%A9k)  
-8. [A Szentírás antropomorf nyelve](#A_Szent%C3%ADr%C3%A1s_antropomorf_nyelve_)  
+6\. [A Teremtés könyve](#A_Teremt%C3%A9s_k%C3%B6nyve)  
+7\. [Személy – közösség – ajándék](#Szem%C3%A9ly_%E2%80%93_k%C3%B6z%C3%B6ss%C3%A9g_%E2%80%93_aj%C3%A1nd%C3%A9k)  
+8\. [A Szentírás antropomorf nyelve](#A_Szent%C3%ADr%C3%A1s_antropomorf_nyelve_)  
 
 IV. ÉVA – MÁRIA  
-9. [A kezdet és a bűn](#A_kezdet_%C3%A9s_a_b%C5%B1n)  
-10. [Uralkodni fog rajtad](#Uralkodni_fog_rajtad)  
-11. [Az ősevangélium](#Az_%C5%91sevang%C3%A9lium)  
+9\. [A kezdet és a bűn](#A_kezdet_%C3%A9s_a_b%C5%B1n)  
+10\. [Uralkodni fog rajtad](#Uralkodni_fog_rajtad)  
+11\. [Az ősevangélium](#Az_%C5%91sevang%C3%A9lium)  
 
 V. JÉZUS KRISZTUS  
-12. „ [Csodálkoztak azon, hogy asszonnyal beszélget](#Csod%C3%A1lkoztak_azon,_hogy_asszonnyal_besz%C3%A9lget)”  
-13. [Asszonyok az evangéliumban](#Asszonyok_az_evang%C3%A9liumban)  
-14. [A házasságtörésen ért asszony](#A_h%C3%A1zass%C3%A1gt%C3%B6r%C3%A9sen_%C3%A9rt_asszony_)  
-15. [Az evangéliumi üzenet őrzői](#Az_evang%C3%A9liumi_%C3%BCzenet_%C5%91rz%C5%91i)  
-16. [A föltámadás első tanúi](#A_f%C3%B6lt%C3%A1mad%C3%A1s_els%C5%91_tan%C3%BAi)  
+12\. „ [Csodálkoztak azon, hogy asszonnyal beszélget](#Csod%C3%A1lkoztak_azon,_hogy_asszonnyal_besz%C3%A9lget)”  
+13\. [Asszonyok az evangéliumban](#Asszonyok_az_evang%C3%A9liumban)  
+14\. [A házasságtörésen ért asszony](#A_h%C3%A1zass%C3%A1gt%C3%B6r%C3%A9sen_%C3%A9rt_asszony_)  
+15\. [Az evangéliumi üzenet őrzői](#Az_evang%C3%A9liumi_%C3%BCzenet_%C5%91rz%C5%91i)  
+16\. [A föltámadás első tanúi](#A_f%C3%B6lt%C3%A1mad%C3%A1s_els%C5%91_tan%C3%BAi)  
 
 VI. ANYASÁG – SZÜZESSÉG  
-17. [Az asszony hivatásának két dimenziója](#Az_asszony_hivat%C3%A1s%C3%A1nak_k%C3%A9t_dimenzi%C3%B3ja)  
-18. [Az anyaság](#Az_anyas%C3%A1g)  
-19. [Az anyaság viszonya a szövetséghez](#Az_anyas%C3%A1g_viszonya_a_sz%C3%B6vets%C3%A9ghez)  
-20. [Szüzesség a mennyek országáért](#Sz%C3%BCzess%C3%A9g_a_mennyek_orsz%C3%A1g%C3%A1%C3%A9rt)  
-21. [A Lélek szerinti anyaság](#A_L%C3%A9lek_szerinti_anyas%C3%A1g)  
-22. „ [Fiaim, újra a szülés fájdalmait szenvedem értetek!](#Fiaim,_%C3%BAjra_a_sz%C3%BCl%C3%A9s_f%C3%A1jdalmait_szenvedem_%C3%A9rtetek!)”  
+17\. [Az asszony hivatásának két dimenziója](#Az_asszony_hivat%C3%A1s%C3%A1nak_k%C3%A9t_dimenzi%C3%B3ja)  
+18\. [Az anyaság](#Az_anyas%C3%A1g)  
+19\. [Az anyaság viszonya a szövetséghez](#Az_anyas%C3%A1g_viszonya_a_sz%C3%B6vets%C3%A9ghez)  
+20\. [Szüzesség a mennyek országáért](#Sz%C3%BCzess%C3%A9g_a_mennyek_orsz%C3%A1g%C3%A1%C3%A9rt)  
+21\. [A Lélek szerinti anyaság](#A_L%C3%A9lek_szerinti_anyas%C3%A1g)  
+22\. „ [Fiaim, újra a szülés fájdalmait szenvedem értetek!](#Fiaim,_%C3%BAjra_a_sz%C3%BCl%C3%A9s_f%C3%A1jdalmait_szenvedem_%C3%A9rtetek!)”  
 
 VII. AZ EGYHÁZ – KRISZTUS JEGYESE  
-23. [A nagy misztérium](#A_nagy_miszt%C3%A9rium_)  
-24. [Evangéliumi újdonság](#Evang%C3%A9liumi_%C3%BAjdons%C3%A1g)  
-25. [A „nagy misztérium” szimbolikus értelmezése](#A_%E2%80%9E_nagy_miszt%C3%A9rium%E2%80%9D_szimbolikus_%C3%A9rtelmez%C3%A9se)  
-26. [Az Eucharisztia](#Az_Eucharisztia)  
-27. [A menyasszony odaadása](#A_menyasszony_odaad%C3%A1sa)  
+23\. [A nagy misztérium](#A_nagy_miszt%C3%A9rium_)  
+24\. [Evangéliumi újdonság](#Evang%C3%A9liumi_%C3%BAjdons%C3%A1g)  
+25\. [A „nagy misztérium” szimbolikus értelmezése](#A_%E2%80%9E_nagy_miszt%C3%A9rium%E2%80%9D_szimbolikus_%C3%A9rtelmez%C3%A9se)  
+26\. [Az Eucharisztia](#Az_Eucharisztia)  
+27\. [A menyasszony odaadása](#A_menyasszony_odaad%C3%A1sa)  
 
 VIII. DE KÖZÜLÜK LEGNAGYOBB A SZERETET  
-28. [Szemben a változásokkal](#Szemben_a_v%C3%A1ltoz%C3%A1sokkal)  
-29. [Az asszony méltósága és a szeretet rendje](#Az_asszony_m%C3%A9lt%C3%B3s%C3%A1ga_%C3%A9s_a_szeretet_rendje)  
-30. [Küldetéstudat](#K%C3%BCldet%C3%A9studat)  
+28\. [Szemben a változásokkal](#Szemben_a_v%C3%A1ltoz%C3%A1sokkal)  
+29\. [Az asszony méltósága és a szeretet rendje](#Az_asszony_m%C3%A9lt%C3%B3s%C3%A1ga_%C3%A9s_a_szeretet_rendje)  
+30\. [Küldetéstudat](#K%C3%BCldet%C3%A9studat)  
 
 IX. BEFEJEZÉS  
-31. „ [Ha ismernéd Isten ajándékát](#Ha_ismern%C3%A9d_Isten_aj%C3%A1nd%C3%A9k%C3%A1t)”  
+31\. „ [Ha ismernéd Isten ajándékát](#Ha_ismern%C3%A9d_Isten_aj%C3%A1nd%C3%A9k%C3%A1t)”  
 
 ------------------------------------------------------------------------
 

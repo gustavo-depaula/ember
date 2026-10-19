@@ -7,60 +7,60 @@ II. János Pál pápa
 
 **TARTALOMJEGYZÉK**  
 
-1. [BEVEZETÉS](#BEVEZET%C3%89S_)  
-2. [Hála az Istennek szentelt életért](#H%C3%A1la_az_Istennek_szentelt_%C3%A9let%C3%A9rt)  
-3. [Az Istennek szentelt élet - az Egyháznak szóló ajándék](#Az_Istennek_szentelt_%C3%A9let_%E2%80%93_az_Egyh%C3%A1znak_sz%C3%B3l%C3%B3_aj%C3%A1nd%C3%A9k)  
-4. [A szinódus eredményeinek összefoglalása](#A_szin%C3%B3dus_eredm%C3%A9nyeinek_%C3%B6sszefoglal%C3%A1sa)  
-5. [A Szentlélek működése az Istennek szentelt élet különböző formáiban](#A_Szentl%C3%A9lek_m%C5%B1k%C3%B6d%C3%A9se_az_Istennek_szentelt_%C3%A9let_k%C3%BCl%C3%B6nb%C3%B6z%C5%91_form%C3%A1iban)  
-6. [A monasztikus élet Keleten és Nyugaton](#A_monasztikus_%C3%A9let_Keleten_%C3%A9s_Nyugaton)  
-7. [A szüzek rendje, remeték és özvegyek](#A_sz%C3%BCzek_rendje,_remet%C3%A9k_%C3%A9s_%C3%B6zvegyek)  
-8. [A teljesen szemlélődő intézmények](#A_teljesen_szeml%C3%A9l%C5%91d%C5%91_int%C3%A9zm%C3%A9nyek)  
-9. [Az apostolkodó szerzetesi élet](#Az_apostolkod%C3%B3_szerzetesi_%C3%A9let)  
-10. [A világi intézmények](#A_vil%C3%A1gi_int%C3%A9zm%C3%A9nyek)  
-11. [Az apostoli élet társaságai](#Az_apostoli_%C3%A9let_t%C3%A1rsas%C3%A1gai)  
-12. [Az Istennek szentelt élet új formái](#Az_Istennek_szentelt_%C3%A9let_%C3%BAj_form%C3%A1i)  
-13. [A jelen apostoli buzdítás célja](#A_jelen_apostoli_buzd%C3%ADt%C3%A1s_c%C3%A9lja)  
+1\. [BEVEZETÉS](#BEVEZET%C3%89S_)  
+2\. [Hála az Istennek szentelt életért](#H%C3%A1la_az_Istennek_szentelt_%C3%A9let%C3%A9rt)  
+3\. [Az Istennek szentelt élet - az Egyháznak szóló ajándék](#Az_Istennek_szentelt_%C3%A9let_%E2%80%93_az_Egyh%C3%A1znak_sz%C3%B3l%C3%B3_aj%C3%A1nd%C3%A9k)  
+4\. [A szinódus eredményeinek összefoglalása](#A_szin%C3%B3dus_eredm%C3%A9nyeinek_%C3%B6sszefoglal%C3%A1sa)  
+5\. [A Szentlélek működése az Istennek szentelt élet különböző formáiban](#A_Szentl%C3%A9lek_m%C5%B1k%C3%B6d%C3%A9se_az_Istennek_szentelt_%C3%A9let_k%C3%BCl%C3%B6nb%C3%B6z%C5%91_form%C3%A1iban)  
+6\. [A monasztikus élet Keleten és Nyugaton](#A_monasztikus_%C3%A9let_Keleten_%C3%A9s_Nyugaton)  
+7\. [A szüzek rendje, remeték és özvegyek](#A_sz%C3%BCzek_rendje,_remet%C3%A9k_%C3%A9s_%C3%B6zvegyek)  
+8\. [A teljesen szemlélődő intézmények](#A_teljesen_szeml%C3%A9l%C5%91d%C5%91_int%C3%A9zm%C3%A9nyek)  
+9\. [Az apostolkodó szerzetesi élet](#Az_apostolkod%C3%B3_szerzetesi_%C3%A9let)  
+10\. [A világi intézmények](#A_vil%C3%A1gi_int%C3%A9zm%C3%A9nyek)  
+11\. [Az apostoli élet társaságai](#Az_apostoli_%C3%A9let_t%C3%A1rsas%C3%A1gai)  
+12\. [Az Istennek szentelt élet új formái](#Az_Istennek_szentelt_%C3%A9let_%C3%BAj_form%C3%A1i)  
+13\. [A jelen apostoli buzdítás célja](#A_jelen_apostoli_buzd%C3%ADt%C3%A1s_c%C3%A9lja)  
 
 **I. FEJEZET**  
 A SZENTHÁROMSÁG MEGVALLÁSA  
 
 A MEGSZENTELT ÉLET KRISZTOLÓGIAI ÉS SZENTHÁROMSÁGOS FORRÁSAINÁL  
 
-14. [A színeváltozásban megdicsőült Krisztus képe](#A_sz%C3%ADnev%C3%A1ltoz%C3%A1sban_megdics%C5%91%C3%BClt_Krisztus_k%C3%A9pe)  
-15. „ [És elváltozott a szemük láttára](#%C3%89s_elv%C3%A1ltozott_a_szem%C3%BCk_l%C3%A1tt%C3%A1ra)”  
-16. „ [Ez az én szeretett Fiam: őt hallgassátok](#Ez_az_%C3%A9n_szeretett_Fiam:_%C5%91t_hallgass%C3%A1tok!)!”  
+14\. [A színeváltozásban megdicsőült Krisztus képe](#A_sz%C3%ADnev%C3%A1ltoz%C3%A1sban_megdics%C5%91%C3%BClt_Krisztus_k%C3%A9pe)  
+15\. „ [És elváltozott a szemük láttára](#%C3%89s_elv%C3%A1ltozott_a_szem%C3%BCk_l%C3%A1tt%C3%A1ra)”  
+16\. „ [Ez az én szeretett Fiam: őt hallgassátok](#Ez_az_%C3%A9n_szeretett_Fiam:_%C5%91t_hallgass%C3%A1tok!)!”  
 
 I. A SZENTHÁROMSÁG DICSŐSÉGÉRE  
-17. [Az Atyától az Atyához: Isten kezdeményezése](#Az_Aty%C3%A1t%C3%B3l_az_Aty%C3%A1hoz:_Isten_kezdem%C3%A9nyez%C3%A9se)  
-18. [A Fiú által: Krisztus nyomában járva](#A_Fi%C3%BA_%C3%A1ltal:_Krisztus_nyom%C3%A1ban_j%C3%A1rva_)  
-19. [A Lélekben: a Lélektől megszenteltetve](#A_L%C3%A9lekben:_a_L%C3%A9lekt%C5%91l_megszenteltetve)  
-20. [Az evangéliumi tanácsok a Szentháromság ajándékai](#Az_evang%C3%A9liumi_tan%C3%A1csok_a_Szenth%C3%A1roms%C3%A1g_aj%C3%A1nd%C3%A9kai)  
-21. [A Szentháromság életének tükröződése az evangéliumi tanácsokban](#A_Szenth%C3%A1roms%C3%A1g_%C3%A9let%C3%A9nek_t%C3%BCkr%C3%B6z%C5%91d%C3%A9se_az_evang%C3%A9liumi_tan%C3%A1csokban)  
-22. [Krisztushoz hasonlóan az Isten országának szentelve](#Krisztushoz_hasonl%C3%B3an_az_Isten_orsz%C3%A1g%C3%A1nak_szentelve)  
+17\. [Az Atyától az Atyához: Isten kezdeményezése](#Az_Aty%C3%A1t%C3%B3l_az_Aty%C3%A1hoz:_Isten_kezdem%C3%A9nyez%C3%A9se)  
+18\. [A Fiú által: Krisztus nyomában járva](#A_Fi%C3%BA_%C3%A1ltal:_Krisztus_nyom%C3%A1ban_j%C3%A1rva_)  
+19\. [A Lélekben: a Lélektől megszenteltetve](#A_L%C3%A9lekben:_a_L%C3%A9lekt%C5%91l_megszenteltetve)  
+20\. [Az evangéliumi tanácsok a Szentháromság ajándékai](#Az_evang%C3%A9liumi_tan%C3%A1csok_a_Szenth%C3%A1roms%C3%A1g_aj%C3%A1nd%C3%A9kai)  
+21\. [A Szentháromság életének tükröződése az evangéliumi tanácsokban](#A_Szenth%C3%A1roms%C3%A1g_%C3%A9let%C3%A9nek_t%C3%BCkr%C3%B6z%C5%91d%C3%A9se_az_evang%C3%A9liumi_tan%C3%A1csokban)  
+22\. [Krisztushoz hasonlóan az Isten országának szentelve](#Krisztushoz_hasonl%C3%B3an_az_Isten_orsz%C3%A1g%C3%A1nak_szentelve)  
 
 II. HÚSVÉT ÉS A BETELJESEDÉS KÖZÖTT  
-23. [A Tábor hegyétől a Kálváriáig](#A_T%C3%A1bor_hegy%C3%A9t%C5%91l_a_K%C3%A1lv%C3%A1ri%C3%A1ig)  
-24. [Az Istennek szentelt élet húsvéti jellege](#Az_Istennek_szentelt_%C3%A9let_h%C3%BAsv%C3%A9ti_jellege)  
-25. [Krisztus tanúi a világban](#Krisztus_tan%C3%BAi_a_vil%C3%A1gban)  
-26. [Az Istennek szentelt élet eszkatologikus jellege](#Az_Istennek_szentelt_%C3%A9let_eszkatologikus_jellege)  
-27. [Tevékeny várakozás: elkötelezettség és virrasztás](#Tev%C3%A9keny_v%C3%A1rakoz%C3%A1s:_elk%C3%B6telezetts%C3%A9g_%C3%A9s_virraszt%C3%A1s)  
-28. [Szűz Mária az Istennek szenteltség és a követés példaképe](#Sz%C5%B1z_M%C3%A1ria_az_Istennek_szentelts%C3%A9g_%C3%A9s_a_k%C3%B6vet%C3%A9s_p%C3%A9ldak%C3%A9pe)  
+23\. [A Tábor hegyétől a Kálváriáig](#A_T%C3%A1bor_hegy%C3%A9t%C5%91l_a_K%C3%A1lv%C3%A1ri%C3%A1ig)  
+24\. [Az Istennek szentelt élet húsvéti jellege](#Az_Istennek_szentelt_%C3%A9let_h%C3%BAsv%C3%A9ti_jellege)  
+25\. [Krisztus tanúi a világban](#Krisztus_tan%C3%BAi_a_vil%C3%A1gban)  
+26\. [Az Istennek szentelt élet eszkatologikus jellege](#Az_Istennek_szentelt_%C3%A9let_eszkatologikus_jellege)  
+27\. [Tevékeny várakozás: elkötelezettség és virrasztás](#Tev%C3%A9keny_v%C3%A1rakoz%C3%A1s:_elk%C3%B6telezetts%C3%A9g_%C3%A9s_virraszt%C3%A1s)  
+28\. [Szűz Mária az Istennek szenteltség és a követés példaképe](#Sz%C5%B1z_M%C3%A1ria_az_Istennek_szentelts%C3%A9g_%C3%A9s_a_k%C3%B6vet%C3%A9s_p%C3%A9ldak%C3%A9pe)  
 
 III. AZ EGYHÁZBAN ÉS AZ EGYHÁZÉRT  
 29.„ [Jó nekünk itt lennünk”: az Istennek szentelt élet az Egyház misztériumában](#J%C3%B3_nek%C3%BCnk_itt_lenn%C3%BCnk)  
-30. [Új és különleges Istennek szenteltség](#%C3%9Aj_%C3%A9s_k%C3%BCl%C3%B6nleges_Istennek_szentelts%C3%A9g)  
-31. [A keresztény életformák különbségei és kapcsolatai](#A_kereszt%C3%A9ny_%C3%A9letform%C3%A1k_k%C3%BCl%C3%B6nbs%C3%A9gei_%C3%A9s_kapcsolatai)  
-32. [Az Istennek szentelt élet különleges értéke](#Az_Istennek_szentelt_%C3%A9let_k%C3%BCl%C3%B6nleges_%C3%A9rt%C3%A9ke)  
-33. [Tanúságtétel a boldogságok evangéliumáról](#Tan%C3%BAs%C3%A1gt%C3%A9tel_a_boldogs%C3%A1gok_evang%C3%A9lium%C3%A1r%C3%B3l)  
-34. [A Menyasszony-Egyház eleven képe](#A_Menyasszony-Egyh%C3%A1z_eleven_k%C3%A9pe)  
+30\. [Új és különleges Istennek szenteltség](#%C3%9Aj_%C3%A9s_k%C3%BCl%C3%B6nleges_Istennek_szentelts%C3%A9g)  
+31\. [A keresztény életformák különbségei és kapcsolatai](#A_kereszt%C3%A9ny_%C3%A9letform%C3%A1k_k%C3%BCl%C3%B6nbs%C3%A9gei_%C3%A9s_kapcsolatai)  
+32\. [Az Istennek szentelt élet különleges értéke](#Az_Istennek_szentelt_%C3%A9let_k%C3%BCl%C3%B6nleges_%C3%A9rt%C3%A9ke)  
+33\. [Tanúságtétel a boldogságok evangéliumáról](#Tan%C3%BAs%C3%A1gt%C3%A9tel_a_boldogs%C3%A1gok_evang%C3%A9lium%C3%A1r%C3%B3l)  
+34\. [A Menyasszony-Egyház eleven képe](#A_Menyasszony-Egyh%C3%A1z_eleven_k%C3%A9pe)  
 
 IV. A SZENTSÉG LELKÉTŐL VEZÉRELTEN  
-35. „ [Színeváltozott” létezés: meghívás az életszentségre](#Sz%C3%ADnev%C3%A1ltozott)  
-36. [Hűség a karizmához](#H%C5%B1s%C3%A9g_a_karizm%C3%A1hoz)  
-37. [Kreatív hűség](#Kreat%C3%ADv_h%C5%B1s%C3%A9g)  
-38. [Imádság és aszkézis: lelki harc](#Im%C3%A1ds%C3%A1g_%C3%A9s_aszk%C3%A9zis:_lelki_harc)  
-39. [Az életszentség elősegítése](#Az_%C3%A9letszents%C3%A9g_el%C5%91seg%C3%ADt%C3%A9se)  
-40. „ [Keljetek föl, ne féljetek!”: megújított bizalom](#Keljetek_f%C3%B6l,_ne_f%C3%A9ljetek!%E2%80%9D:_meg%C3%BAj%C3%ADtott_bizalom)  
+35\. „ [Színeváltozott” létezés: meghívás az életszentségre](#Sz%C3%ADnev%C3%A1ltozott)  
+36\. [Hűség a karizmához](#H%C5%B1s%C3%A9g_a_karizm%C3%A1hoz)  
+37\. [Kreatív hűség](#Kreat%C3%ADv_h%C5%B1s%C3%A9g)  
+38\. [Imádság és aszkézis: lelki harc](#Im%C3%A1ds%C3%A1g_%C3%A9s_aszk%C3%A9zis:_lelki_harc)  
+39\. [Az életszentség elősegítése](#Az_%C3%A9letszents%C3%A9g_el%C5%91seg%C3%ADt%C3%A9se)  
+40\. „ [Keljetek föl, ne féljetek!”: megújított bizalom](#Keljetek_f%C3%B6l,_ne_f%C3%A9ljetek!%E2%80%9D:_meg%C3%BAj%C3%ADtott_bizalom)  
 
 **II. FEJEZET**  
 A TESTVÉRISÉG JELE  
@@ -68,98 +68,98 @@ A TESTVÉRISÉG JELE
 AZ ISTENNEK SZENTELT ÉLET MINT A KÖZÖSSÉG JELE AZ EGYHÁZBAN  
 
 I. MARADANDÓ ÉRTÉKEK  
-41. [A Szentháromság képmására](#A_Szenth%C3%A1roms%C3%A1g_k%C3%A9pm%C3%A1s%C3%A1ra)  
-42. [Testvéri élet a szeretetben](#Testv%C3%A9ri_%C3%A9let_a_szeretetben)  
-43. [A tekintély feladata](#A_tekint%C3%A9ly_feladata)  
-44. [Az idősek szerepe](#Az_id%C5%91sek_szerepe)  
-45. [Az apostoli közösség képmására](#Az_apostoli_k%C3%B6z%C3%B6ss%C3%A9g_k%C3%A9pm%C3%A1s%C3%A1ra)  
-46. [Sentire cum Ecclesia](#Egy%C3%BCtt%C3%A9rezni_az_Egyh%C3%A1zzal_(Sentire_cum_Ecclesia))  
-47. [Testvériség az egyetemes Egyházban](#Testv%C3%A9ris%C3%A9g_az_egyetemes_Egyh%C3%A1zban)  
-48. [Az Istennek szentelt élet és a részegyház](#Az_Istennek_szentelt_%C3%A9let_%C3%A9s_a_r%C3%A9szegyh%C3%A1z)  
-49. [Termékeny és rendezett egyházi közösség](#Term%C3%A9keny_%C3%A9s_rendezett_egyh%C3%A1zi_k%C3%B6z%C3%B6ss%C3%A9g)  
-50. [Folyamatos, szeretettel áthatott dialógus](#Folyamatos,_szeretettel_%C3%A1thatott_dial%C3%B3gus)  
-51. [Testvériség egy megosztott és igazságtalan világban](#Testv%C3%A9ris%C3%A9g_egy_megosztott_%C3%A9s_igazs%C3%A1gtalan_vil%C3%A1gban)  
-52. [Közösség a különféle intézmények között](#K%C3%B6z%C3%B6ss%C3%A9g_a_k%C3%BCl%C3%B6nf%C3%A9le_int%C3%A9zm%C3%A9nyek_k%C3%B6z%C3%B6tt)  
-53. [Az összehangolás szervei](#Az_%C3%B6sszehangol%C3%A1s_szervei)  
-54. [Közösség és együttműködés a világi Krisztus-hívőkkel](#K%C3%B6z%C3%B6ss%C3%A9g_%C3%A9s_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s_a_vil%C3%A1gi_Krisztus-h%C3%ADv%C5%91kkel)  
-55. [Megújult lelki és apostoli energiáért](#A_lelki_%C3%A9s_apostoli_energi%C3%A1k_meg%C3%BAj%C3%ADt%C3%A1s%C3%A1%C3%A9rt)  
-56. [Önkéntes és társult világi Krisztus-hívők](#%C3%96nk%C3%A9ntes_%C3%A9s_t%C3%A1rsult_vil%C3%A1gi_Krisztus-h%C3%ADv%C5%91k)  
-57. [A nő méltósága és szerepe az Istennek szentelt életben](#Az_Istennek_szentelt_n%C5%91_m%C3%A9lt%C3%B3s%C3%A1ga_%C3%A9s_szerepe)  
-58. [A női jelenlét és tevékenység új távlatai](#A_n%C5%91i_jelenl%C3%A9t_%C3%A9s_tev%C3%A9kenys%C3%A9g_%C3%BAj_t%C3%A1vlatai)  
+41\. [A Szentháromság képmására](#A_Szenth%C3%A1roms%C3%A1g_k%C3%A9pm%C3%A1s%C3%A1ra)  
+42\. [Testvéri élet a szeretetben](#Testv%C3%A9ri_%C3%A9let_a_szeretetben)  
+43\. [A tekintély feladata](#A_tekint%C3%A9ly_feladata)  
+44\. [Az idősek szerepe](#Az_id%C5%91sek_szerepe)  
+45\. [Az apostoli közösség képmására](#Az_apostoli_k%C3%B6z%C3%B6ss%C3%A9g_k%C3%A9pm%C3%A1s%C3%A1ra)  
+46\. [Sentire cum Ecclesia](#Egy%C3%BCtt%C3%A9rezni_az_Egyh%C3%A1zzal_(Sentire_cum_Ecclesia))  
+47\. [Testvériség az egyetemes Egyházban](#Testv%C3%A9ris%C3%A9g_az_egyetemes_Egyh%C3%A1zban)  
+48\. [Az Istennek szentelt élet és a részegyház](#Az_Istennek_szentelt_%C3%A9let_%C3%A9s_a_r%C3%A9szegyh%C3%A1z)  
+49\. [Termékeny és rendezett egyházi közösség](#Term%C3%A9keny_%C3%A9s_rendezett_egyh%C3%A1zi_k%C3%B6z%C3%B6ss%C3%A9g)  
+50\. [Folyamatos, szeretettel áthatott dialógus](#Folyamatos,_szeretettel_%C3%A1thatott_dial%C3%B3gus)  
+51\. [Testvériség egy megosztott és igazságtalan világban](#Testv%C3%A9ris%C3%A9g_egy_megosztott_%C3%A9s_igazs%C3%A1gtalan_vil%C3%A1gban)  
+52\. [Közösség a különféle intézmények között](#K%C3%B6z%C3%B6ss%C3%A9g_a_k%C3%BCl%C3%B6nf%C3%A9le_int%C3%A9zm%C3%A9nyek_k%C3%B6z%C3%B6tt)  
+53\. [Az összehangolás szervei](#Az_%C3%B6sszehangol%C3%A1s_szervei)  
+54\. [Közösség és együttműködés a világi Krisztus-hívőkkel](#K%C3%B6z%C3%B6ss%C3%A9g_%C3%A9s_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s_a_vil%C3%A1gi_Krisztus-h%C3%ADv%C5%91kkel)  
+55\. [Megújult lelki és apostoli energiáért](#A_lelki_%C3%A9s_apostoli_energi%C3%A1k_meg%C3%BAj%C3%ADt%C3%A1s%C3%A1%C3%A9rt)  
+56\. [Önkéntes és társult világi Krisztus-hívők](#%C3%96nk%C3%A9ntes_%C3%A9s_t%C3%A1rsult_vil%C3%A1gi_Krisztus-h%C3%ADv%C5%91k)  
+57\. [A nő méltósága és szerepe az Istennek szentelt életben](#Az_Istennek_szentelt_n%C5%91_m%C3%A9lt%C3%B3s%C3%A1ga_%C3%A9s_szerepe)  
+58\. [A női jelenlét és tevékenység új távlatai](#A_n%C5%91i_jelenl%C3%A9t_%C3%A9s_tev%C3%A9kenys%C3%A9g_%C3%BAj_t%C3%A1vlatai)  
 
 II. A SZENTLÉLEK FOLYAMATOS MŰKÖDÉSE:  
 HŰSÉG A MEGÚJULÁSBAN  
-59. [A klauzúrában élő apácák](#A_klauz%C3%BAr%C3%A1ban_%C3%A9l%C5%91_ap%C3%A1c%C3%A1k)  
-60. [A szerzetes testvérek](#A_szerzetes_testv%C3%A9rek)  
-61. [A vegyes intézmények](#A_vegyes_int%C3%A9zm%C3%A9nyek)  
-62. [Az evangéliumi élet új formái](#Az_evang%C3%A9liumi_%C3%A9let_%C3%BAj_form%C3%A1i)  
+59\. [A klauzúrában élő apácák](#A_klauz%C3%BAr%C3%A1ban_%C3%A9l%C5%91_ap%C3%A1c%C3%A1k)  
+60\. [A szerzetes testvérek](#A_szerzetes_testv%C3%A9rek)  
+61\. [A vegyes intézmények](#A_vegyes_int%C3%A9zm%C3%A9nyek)  
+62\. [Az evangéliumi élet új formái](#Az_evang%C3%A9liumi_%C3%A9let_%C3%BAj_form%C3%A1i)  
 
 III. PILLANTÁS A JÖVŐBE  
-63. [Nehézségek és távlatok](#Neh%C3%A9zs%C3%A9gek_%C3%A9s_t%C3%A1vlatok)  
-64. [A hivatásgondozás föllendülése](#A_hivat%C3%A1sgondoz%C3%A1s_f%C3%B6llend%C3%BCl%C3%A9se)  
-65. [Az alapképzés feladatai](#Az_alapk%C3%A9pz%C3%A9s_feladatai)  
-66. [A nevelők és nevelőnők műve](#A_nevel%C5%91k_%C3%A9s_nevel%C5%91n%C5%91k_m%C5%B1ve)  
-67. [Közösségi és apostoli képzés](#K%C3%B6z%C3%B6ss%C3%A9gi_%C3%A9s_apostoli_k%C3%A9pz%C3%A9s)  
-68. [Egy átfogó és korszerű képzési terv (ratio) szükségessége](#Egy_%C3%A1tfog%C3%B3_%C3%A9s_korszer%C5%B1_k%C3%A9pz%C3%A9si_terv_(ratio)_sz%C3%BCks%C3%A9gess%C3%A9ge)  
-69. [A folyamatos továbbképzés](#A_folyamatos_tov%C3%A1bbk%C3%A9pz%C3%A9s)  
-70. [A hűség dinamizmusában](#A_h%C5%B1s%C3%A9g_dinamizmus%C3%A1ban)  
-71. [A folyamatos továbbképzés természete](#A_folyamatos_tov%C3%A1bbk%C3%A9pz%C3%A9s_term%C3%A9szete)  
+63\. [Nehézségek és távlatok](#Neh%C3%A9zs%C3%A9gek_%C3%A9s_t%C3%A1vlatok)  
+64\. [A hivatásgondozás föllendülése](#A_hivat%C3%A1sgondoz%C3%A1s_f%C3%B6llend%C3%BCl%C3%A9se)  
+65\. [Az alapképzés feladatai](#Az_alapk%C3%A9pz%C3%A9s_feladatai)  
+66\. [A nevelők és nevelőnők műve](#A_nevel%C5%91k_%C3%A9s_nevel%C5%91n%C5%91k_m%C5%B1ve)  
+67\. [Közösségi és apostoli képzés](#K%C3%B6z%C3%B6ss%C3%A9gi_%C3%A9s_apostoli_k%C3%A9pz%C3%A9s)  
+68\. [Egy átfogó és korszerű képzési terv (ratio) szükségessége](#Egy_%C3%A1tfog%C3%B3_%C3%A9s_korszer%C5%B1_k%C3%A9pz%C3%A9si_terv_(ratio)_sz%C3%BCks%C3%A9gess%C3%A9ge)  
+69\. [A folyamatos továbbképzés](#A_folyamatos_tov%C3%A1bbk%C3%A9pz%C3%A9s)  
+70\. [A hűség dinamizmusában](#A_h%C5%B1s%C3%A9g_dinamizmus%C3%A1ban)  
+71\. [A folyamatos továbbképzés természete](#A_folyamatos_tov%C3%A1bbk%C3%A9pz%C3%A9s_term%C3%A9szete)  
 
 **III. FEJEZET**  
 A SZERETET SZOLGÁLATA  
 
 AZ ISTENNEK SZENTELT ÉLET ISTEN VILÁG IRÁNTI SZERETETÉNEK BIZONYSÁGA  
-72. [A küldetésre konszekrálva](#A_k%C3%BCldet%C3%A9sre_konszekr%C3%A1lva)  
-73. [Isten és az ember szolgálatában](#Isten_%C3%A9s_az_ember_szolg%C3%A1lat%C3%A1ban)  
-74. [Egyházi együttműködés és apostoli lelkiség](#Egyh%C3%A1zi_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s_%C3%A9s_apostoli_lelkis%C3%A9g)  
+72\. [A küldetésre konszekrálva](#A_k%C3%BCldet%C3%A9sre_konszekr%C3%A1lva)  
+73\. [Isten és az ember szolgálatában](#Isten_%C3%A9s_az_ember_szolg%C3%A1lat%C3%A1ban)  
+74\. [Egyházi együttműködés és apostoli lelkiség](#Egyh%C3%A1zi_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s_%C3%A9s_apostoli_lelkis%C3%A9g)  
 
 I. MINDVÉGIG KITARTÓ SZERETET  
-75. [Krisztus szívével szeretni](#Krisztus_sz%C3%ADv%C3%A9vel_szeretni)  
-76. [Az Istennek szentelt élet különleges hozzájárulása az evangelizáláshoz](#Az_Istennek_szentelt_%C3%A9let_k%C3%BCl%C3%B6nleges_hozz%C3%A1j%C3%A1rul%C3%A1sa_az_evangeliz%C3%A1l%C3%A1shoz)  
-77. [Az első evangelizálás: Krisztust hirdetni a nemzeteknek](#Az_els%C5%91_evangeliz%C3%A1l%C3%A1s:_Krisztust_hirdetni_a_nemzeteknek)  
-78. [Jelen lenni a Föld minden szögletében](#Jelen_lenni_a_F%C3%B6ld_minden_sz%C3%B6glet%C3%A9ben_)  
-79. [Krisztus hirdetése és az inkulturáció](#Krisztus_hirdet%C3%A9se_%C3%A9s_az_inkultur%C3%A1ci%C3%B3)  
-80. [Az Istennek szentelt élet inkulturációja](#Az_Istennek_szentelt_%C3%A9let_inkultur%C3%A1ci%C3%B3ja)  
-81. [Az új evangelizálás](#Az_%C3%BAj_evangeliz%C3%A1l%C3%A1s)  
-82. [A szegények előnyben részesítése és az igazságosság támogatása](#A_szeg%C3%A9nyek_el%C5%91nyben_r%C3%A9szes%C3%ADt%C3%A9se_%C3%A9s_az_igazs%C3%A1goss%C3%A1g_t%C3%A1mogat%C3%A1sa)  
-83. [Gondoskodás a betegekről](#Gondoskod%C3%A1s_a_betegekr%C5%91l)  
+75\. [Krisztus szívével szeretni](#Krisztus_sz%C3%ADv%C3%A9vel_szeretni)  
+76\. [Az Istennek szentelt élet különleges hozzájárulása az evangelizáláshoz](#Az_Istennek_szentelt_%C3%A9let_k%C3%BCl%C3%B6nleges_hozz%C3%A1j%C3%A1rul%C3%A1sa_az_evangeliz%C3%A1l%C3%A1shoz)  
+77\. [Az első evangelizálás: Krisztust hirdetni a nemzeteknek](#Az_els%C5%91_evangeliz%C3%A1l%C3%A1s:_Krisztust_hirdetni_a_nemzeteknek)  
+78\. [Jelen lenni a Föld minden szögletében](#Jelen_lenni_a_F%C3%B6ld_minden_sz%C3%B6glet%C3%A9ben_)  
+79\. [Krisztus hirdetése és az inkulturáció](#Krisztus_hirdet%C3%A9se_%C3%A9s_az_inkultur%C3%A1ci%C3%B3)  
+80\. [Az Istennek szentelt élet inkulturációja](#Az_Istennek_szentelt_%C3%A9let_inkultur%C3%A1ci%C3%B3ja)  
+81\. [Az új evangelizálás](#Az_%C3%BAj_evangeliz%C3%A1l%C3%A1s)  
+82\. [A szegények előnyben részesítése és az igazságosság támogatása](#A_szeg%C3%A9nyek_el%C5%91nyben_r%C3%A9szes%C3%ADt%C3%A9se_%C3%A9s_az_igazs%C3%A1goss%C3%A1g_t%C3%A1mogat%C3%A1sa)  
+83\. [Gondoskodás a betegekről](#Gondoskod%C3%A1s_a_betegekr%C5%91l)  
 
 II. PRÓFÉTAI TANÚSÁGTÉTEL A NAGY KIHÍVÁSOKKAL SZEMBEN  
-84. [Az Istennek szentelt élet prófétasága](#Az_Istennek_szentelt_%C3%A9let_pr%C3%B3f%C3%A9tas%C3%A1ga)  
-85. [Az Istennek szentelt élet prófétaságának jelentősége a mai világ számára](#Az_Istennek_szentelt_%C3%A9let_pr%C3%B3f%C3%A9tas%C3%A1g%C3%A1nak_jelent%C5%91s%C3%A9ge_a_mai_vil%C3%A1g_sz%C3%A1m%C3%A1ra)  
-86. [Hűség a vértanúságig](#H%C5%B1s%C3%A9g_a_v%C3%A9rtan%C3%BAs%C3%A1gig)  
-87. [Az Istennek szentelt élet nagy kihívásai](#Az_Istennek_szentelt_%C3%A9let_nagy_kih%C3%ADv%C3%A1sai)  
-88. [Az Istennek szentelt tisztaság kihívása](#Az_Istennek_szentelt_tisztas%C3%A1g_kih%C3%ADv%C3%A1sa)  
-89. [A szegénység kihívása](#A_szeg%C3%A9nys%C3%A9g_kih%C3%ADv%C3%A1sa)  
-90. [Az evangéliumi szegénység a szegények szolgálatában](#Az_evang%C3%A9liumi_szeg%C3%A9nys%C3%A9g_a_szeg%C3%A9nyek_szolg%C3%A1lat%C3%A1ban)  
-91. [A szabadság kihívása az engedelmességben](#A_szabads%C3%A1g_kih%C3%ADv%C3%A1sa_az_engedelmess%C3%A9gben)  
-92. [Közösen teljesíteni az Atya akaratát](#K%C3%B6z%C3%B6sen_teljes%C3%ADteni_az_Atya_akarat%C3%A1t)  
-93. [Határozott elkötelezettség a lelki élet mellett](#Hat%C3%A1rozott_elk%C3%B6telezetts%C3%A9g_a_lelki_%C3%A9let_mellett)  
-94. [Isten szavát hallgatva](#Isten_szav%C3%A1t_hallgatva)  
-95. [Közösségben Krisztussal](#K%C3%B6z%C3%B6ss%C3%A9gben_Krisztussal)  
+84\. [Az Istennek szentelt élet prófétasága](#Az_Istennek_szentelt_%C3%A9let_pr%C3%B3f%C3%A9tas%C3%A1ga)  
+85\. [Az Istennek szentelt élet prófétaságának jelentősége a mai világ számára](#Az_Istennek_szentelt_%C3%A9let_pr%C3%B3f%C3%A9tas%C3%A1g%C3%A1nak_jelent%C5%91s%C3%A9ge_a_mai_vil%C3%A1g_sz%C3%A1m%C3%A1ra)  
+86\. [Hűség a vértanúságig](#H%C5%B1s%C3%A9g_a_v%C3%A9rtan%C3%BAs%C3%A1gig)  
+87\. [Az Istennek szentelt élet nagy kihívásai](#Az_Istennek_szentelt_%C3%A9let_nagy_kih%C3%ADv%C3%A1sai)  
+88\. [Az Istennek szentelt tisztaság kihívása](#Az_Istennek_szentelt_tisztas%C3%A1g_kih%C3%ADv%C3%A1sa)  
+89\. [A szegénység kihívása](#A_szeg%C3%A9nys%C3%A9g_kih%C3%ADv%C3%A1sa)  
+90\. [Az evangéliumi szegénység a szegények szolgálatában](#Az_evang%C3%A9liumi_szeg%C3%A9nys%C3%A9g_a_szeg%C3%A9nyek_szolg%C3%A1lat%C3%A1ban)  
+91\. [A szabadság kihívása az engedelmességben](#A_szabads%C3%A1g_kih%C3%ADv%C3%A1sa_az_engedelmess%C3%A9gben)  
+92\. [Közösen teljesíteni az Atya akaratát](#K%C3%B6z%C3%B6sen_teljes%C3%ADteni_az_Atya_akarat%C3%A1t)  
+93\. [Határozott elkötelezettség a lelki élet mellett](#Hat%C3%A1rozott_elk%C3%B6telezetts%C3%A9g_a_lelki_%C3%A9let_mellett)  
+94\. [Isten szavát hallgatva](#Isten_szav%C3%A1t_hallgatva)  
+95\. [Közösségben Krisztussal](#K%C3%B6z%C3%B6ss%C3%A9gben_Krisztussal)  
 
 III. A KÜLDETÉS NÉHÁNY TERÜLETE  
-96. [Jelenlét a nevelés világában](#Jelenl%C3%A9t_a_nevel%C3%A9s_vil%C3%A1g%C3%A1ban)  
-97. [Megújult elkötelezettség szükségessége a nevelés területén](#Meg%C3%BAjult_elk%C3%B6telezetts%C3%A9g_sz%C3%BCks%C3%A9gess%C3%A9ge_a_nevel%C3%A9s_ter%C3%BClet%C3%A9n)  
-98. A kultúra evangelizálása  
-99. [Jelenlét a tömegtájékoztatásban](#Jelenl%C3%A9t_a_t%C3%B6megt%C3%A1j%C3%A9koztat%C3%A1sban)  
+96\. [Jelenlét a nevelés világában](#Jelenl%C3%A9t_a_nevel%C3%A9s_vil%C3%A1g%C3%A1ban)  
+97\. [Megújult elkötelezettség szükségessége a nevelés területén](#Meg%C3%BAjult_elk%C3%B6telezetts%C3%A9g_sz%C3%BCks%C3%A9gess%C3%A9ge_a_nevel%C3%A9s_ter%C3%BClet%C3%A9n)  
+98\. A kultúra evangelizálása  
+99\. [Jelenlét a tömegtájékoztatásban](#Jelenl%C3%A9t_a_t%C3%B6megt%C3%A1j%C3%A9koztat%C3%A1sban)  
 
 IV. DIALÓGUSRA TÖREKEDVE MINDENKIVEL  
-100. [A keresztények egységének szolgálatában](#A_kereszt%C3%A9nyek_egys%C3%A9g%C3%A9nek_szolg%C3%A1lat%C3%A1ban)  
-101. [Az ökumenikus dialógus formái](#Az_%C3%B6kumenikus_dial%C3%B3gus_form%C3%A1i)  
-102. [A vallások közötti dialógus](#A_vall%C3%A1sok_k%C3%B6z%C3%B6tti_dial%C3%B3gus)  
-103. [A lelkiség válasza a Szent keresésére és az Isten utáni vágyra](#A_lelkis%C3%A9g_v%C3%A1lasza_a_szent_keres%C3%A9s%C3%A9re_%C3%A9s_az_Isten_ut%C3%A1ni_v%C3%A1gyra)  
+100\. [A keresztények egységének szolgálatában](#A_kereszt%C3%A9nyek_egys%C3%A9g%C3%A9nek_szolg%C3%A1lat%C3%A1ban)  
+101\. [Az ökumenikus dialógus formái](#Az_%C3%B6kumenikus_dial%C3%B3gus_form%C3%A1i)  
+102\. [A vallások közötti dialógus](#A_vall%C3%A1sok_k%C3%B6z%C3%B6tti_dial%C3%B3gus)  
+103\. [A lelkiség válasza a Szent keresésére és az Isten utáni vágyra](#A_lelkis%C3%A9g_v%C3%A1lasza_a_szent_keres%C3%A9s%C3%A9re_%C3%A9s_az_Isten_ut%C3%A1ni_v%C3%A1gyra)  
 
 BEFEJEZÉS  
-104. [Az ingyenesség túláradása](#Az_ingyeness%C3%A9g_t%C3%BAl%C3%A1rad%C3%A1sa_)  
-105. [Az Istennek szentelt élet Isten országának szolgálatában](#Az_Istennek_szentelt_%C3%A9let_Isten_orsz%C3%A1g%C3%A1nak_szolg%C3%A1lat%C3%A1ban)  
-106. [A fiatalokhoz](#A_fiatalokhoz)  
-107. [A családokhoz](#A_csal%C3%A1dokhoz)  
-108. [A jóakaratú férfiakhoz és nőkhöz](#A_j%C3%B3akarat%C3%BA_f%C3%A9rfiakhoz_%C3%A9s_n%C5%91kh%C3%B6z)  
-109. [Az Istennek szentelt személyekhez](#Az_Istennek_szentelt_szem%C3%A9lyekhez)  
-110. [A jövőbe tekintve](#A_j%C3%B6v%C5%91be_tekintve)  
-111. [Imádság a Szentháromsághoz](#Im%C3%A1ds%C3%A1g_a_Szenth%C3%A1roms%C3%A1ghoz)  
-112. [Szűz Mária segítségül hívása](#Sz%C5%B1z_M%C3%A1ria_seg%C3%ADts%C3%A9g%C3%BCl_h%C3%ADv%C3%A1sa)
+104\. [Az ingyenesség túláradása](#Az_ingyeness%C3%A9g_t%C3%BAl%C3%A1rad%C3%A1sa_)  
+105\. [Az Istennek szentelt élet Isten országának szolgálatában](#Az_Istennek_szentelt_%C3%A9let_Isten_orsz%C3%A1g%C3%A1nak_szolg%C3%A1lat%C3%A1ban)  
+106\. [A fiatalokhoz](#A_fiatalokhoz)  
+107\. [A családokhoz](#A_csal%C3%A1dokhoz)  
+108\. [A jóakaratú férfiakhoz és nőkhöz](#A_j%C3%B3akarat%C3%BA_f%C3%A9rfiakhoz_%C3%A9s_n%C5%91kh%C3%B6z)  
+109\. [Az Istennek szentelt személyekhez](#Az_Istennek_szentelt_szem%C3%A9lyekhez)  
+110\. [A jövőbe tekintve](#A_j%C3%B6v%C5%91be_tekintve)  
+111\. [Imádság a Szentháromsághoz](#Im%C3%A1ds%C3%A1g_a_Szenth%C3%A1roms%C3%A1ghoz)  
+112\. [Szűz Mária segítségül hívása](#Sz%C5%B1z_M%C3%A1ria_seg%C3%ADts%C3%A9g%C3%BCl_h%C3%ADv%C3%A1sa)
 
 [Jegyzetek](#Jegyzetek)
 
@@ -283,7 +283,7 @@ Krisztusnak sok szavát és cselekedetét őrzi az evangélium, melyek e külön
 
 *„És elváltozott a szemük láttára”  *
 
-15. „*Hat nap múlva Jézus maga mellé vette Pétert, Jakabot és a testvérét, Jánost, s fölment külön velük egy magas hegyre. Ott elváltozott előttük, arca ragyogott, mint a nap, ruhája pedig olyan fehér lett, hogy vakított, mint a fény. Egyszerre megjelent nekik Mózes és Illés, és beszélgettek Jézussal.*
+15\. „*Hat nap múlva Jézus maga mellé vette Pétert, Jakabot és a testvérét, Jánost, s fölment külön velük egy magas hegyre. Ott elváltozott előttük, arca ragyogott, mint a nap, ruhája pedig olyan fehér lett, hogy vakított, mint a fény. Egyszerre megjelent nekik Mózes és Illés, és beszélgettek Jézussal.*
 
 *Péter erre így szólt Jézushoz:*
 

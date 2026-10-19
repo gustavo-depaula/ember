@@ -283,7 +283,7 @@ Prälat Armando Matteo
 *Sekretär für die doktrinäre Sektion*
 
 Leo PP. XIV  
-7. Oktober 2025
+7\. Oktober 2025
 
 ------------------------------------------------------------------------
 

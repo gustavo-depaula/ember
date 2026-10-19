@@ -33,7 +33,7 @@ Hoofdstuk 1 - De *sensus fidei* in Schrift en Traditie
 Hoofdstuk 2 - De *sensus fidei fidelis* in het persoonlijke leven van de gelovige
 
 1\. De *sensus fidei* als een geloofsaanvoelen  
-2. Uitingen van de *sensus fidei* in het persoonlijke leven van gelovigen
+2\. Uitingen van de *sensus fidei* in het persoonlijke leven van gelovigen
 
 Hoofdstuk 3 - De *sensus fidei fidelium* in het leven van de Kerk
 

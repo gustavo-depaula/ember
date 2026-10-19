@@ -35,7 +35,7 @@ CONGRÉGATION POUR LA DOCTRINE DE LA FOI
 7.  [Thérapies analgésiques et suppression de la conscience](#Thérapies)  
 8.  [L’état végétatif et l’état de conscience minimale](#L’état_végétatif)  
 9.  [L’objection de conscience de la part des personnels de santé et des établissements de santé catholiques](#L’objection_de_conscience)  
-10.  [L’accompagnement pastoral et le soutien des sacrements](#L’accompagnement_pastoral)  
+10\.  [L’accompagnement pastoral et le soutien des sacrements](#L’accompagnement_pastoral)  
 11.  [Le discernement pastoral à l'égard de ceux qui demandent l'euthanasie ou le suicide assisté](#Le_discernement)  
 12.  [La réforme du système éducatif et de la formation des personnels de santé](#La_réforme)
 

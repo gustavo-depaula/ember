@@ -27,11 +27,11 @@ c) *People of the Sea* includes 1. *seafarers and maritime personnel*; 2. the sp
 2\. The chaplains and the authorities of the Work of the Maritime Apostolate will strive to see that the people of the sea are provided abundantly with whatever is required to lead holy lives; they will also recognise and promote the mission which all the faithful - and in particular the laity - are called to exercise in the Church and in the maritime world in accordance with their specific state.
 
 **III.** Mindful of the special circumstances of the people of the sea and taking into account the privileges which over the years the Apostolic See has granted this people, the following is established:  
-1. Maritime personnel can fulfill their Easter Duty regarding Holy Communion at any time during the year, having first received appropriate instruction or catechesis;  
-2. Seafarers are not bound by the laws of fast and abstinence prescribed in can. 1251; they are advised, however, when taking advantage of this dispensation, to undertake a comparable work of piety in place of abstinence, and, as far as possible, to observe both laws on Good Friday in memory of the sufferings and death of Jesus Christ;  
-3. Seafarers, who have properly confessed and received Communion and who visit with religious piety a legitimately erected oratory on board and recite there the Lord’s Prayer and the Creed for the intentions of the Supreme Pontiff, can gain a plenary indulgence on the titular feast of the oratory and also on 2 August;  
-4. These same faithful, under the same conditions, can gain one plenary indulgence, applicable only to the departed, if they visit with religious piety the aforementioned oratory on 2 November and recite there the Lord’s Prayer and the Creed for the intentions of the Supreme Pontiff;  
-5. The indulgences mentioned in Nn 3 and 4 can be gained, under the same conditions, by people of the sea in chapels or oratories of places where the Maritime Apostolate is active. On vessels which have no oratory, seafarers can gain these indulgences by reciting the prescribed prayers before a sacred image.
+1\. Maritime personnel can fulfill their Easter Duty regarding Holy Communion at any time during the year, having first received appropriate instruction or catechesis;  
+2\. Seafarers are not bound by the laws of fast and abstinence prescribed in can. 1251; they are advised, however, when taking advantage of this dispensation, to undertake a comparable work of piety in place of abstinence, and, as far as possible, to observe both laws on Good Friday in memory of the sufferings and death of Jesus Christ;  
+3\. Seafarers, who have properly confessed and received Communion and who visit with religious piety a legitimately erected oratory on board and recite there the Lord’s Prayer and the Creed for the intentions of the Supreme Pontiff, can gain a plenary indulgence on the titular feast of the oratory and also on 2 August;  
+4\. These same faithful, under the same conditions, can gain one plenary indulgence, applicable only to the departed, if they visit with religious piety the aforementioned oratory on 2 November and recite there the Lord’s Prayer and the Creed for the intentions of the Supreme Pontiff;  
+5\. The indulgences mentioned in Nn 3 and 4 can be gained, under the same conditions, by people of the sea in chapels or oratories of places where the Maritime Apostolate is active. On vessels which have no oratory, seafarers can gain these indulgences by reciting the prescribed prayers before a sacred image.
 
 **SECTION 3**
 
@@ -79,26 +79,26 @@ c) to celebrate a second Mass in the evening of Holy Thursday, the Memorial of t
 2\. The Bishop-Promoter will choose a suitable priest and present his name to the Episcopal Conference which will then appoint him, in writing and for a determined period of time, as *National Director* of the Work of the Maritime Apostolate, with the duties prescribed in art. XI. The Pontifical Council for the Pastoral Care of Migrants and Itinerant People is to be informed of his name and the duration of his appointment. The National Director may be assisted by a pastoral worker.
 
 **X.** The tasks of the Bishop Promoter are:  
-1. to give directives to the National Director, to keep in touch attentively with his activities and to give suggestions and advice, as appropriate, so that he can properly carry out the duties confided to him;  
-2. to request at the appointed times and whenever it seems appropriate, a Report on pastoral activities for maritime personnel and the work done by the National Director;  
-3. to transmit the Report, mentioned in no. 2, to the Episcopal Conference, together with his own comments; and to encourage interest in this Apostolate among his fellow bishops;  
-4. to maintain contact with the Pontifical Council for the Pastoral Care of Migrants and Itinerant People regarding all that concerns the Maritime Apostolate, and to transmit to the National Director communications he has received;  
-5. to present to the Pontifical Council for the Pastoral Care of Migrants and People on the Move an annual Report on the situation of the Work of the Maritime Apostolate in his territory.
+1\. to give directives to the National Director, to keep in touch attentively with his activities and to give suggestions and advice, as appropriate, so that he can properly carry out the duties confided to him;  
+2\. to request at the appointed times and whenever it seems appropriate, a Report on pastoral activities for maritime personnel and the work done by the National Director;  
+3\. to transmit the Report, mentioned in no. 2, to the Episcopal Conference, together with his own comments; and to encourage interest in this Apostolate among his fellow bishops;  
+4\. to maintain contact with the Pontifical Council for the Pastoral Care of Migrants and Itinerant People regarding all that concerns the Maritime Apostolate, and to transmit to the National Director communications he has received;  
+5\. to present to the Pontifical Council for the Pastoral Care of Migrants and People on the Move an annual Report on the situation of the Work of the Maritime Apostolate in his territory.
 
 **XI.** The principal duties of the National Director are:  
-1. to maintain relations with the bishops of the country in all matters affecting the spiritual good of maritime people;  
-2. to present to the Bishop Promoter, at least once a year, a Report on the “status animarum” and on pastoral work for the maritime people of his country: in this report he is to explain both the activities which went well and those which were, perhaps, less successful, as well as any corrective action taken to avoid losses and, finally, whatever seems useful for the spread of the Work of the Maritime Apostolate;  
-3. to promote specific training programmes for chaplains;  
-4. to direct chaplains of the Work of Maritime Apostolate without prejudice to the rights of the local Ordinary;  
-5. to make sure that chaplains diligently fulfill their duties and observe the prescriptions of the Holy See and the local Ordinary;  
-6. to arrange, with the consent of the Bishop Promoter and according to the circumstances of the time, meetings and spiritual exercises for all the chaplains in the country or for chaplains and other faithful who are involved in the Work of the Maritime Apostolate;  
-7. to be particularly concerned to encourage and develop the Apostolate of the laity, fostering their active participation while bearing in mind the diversity of their talents;  
-8. to establish and maintain regular contact with institutions and aid organisations - both Catholic and non-Catholic - and with non-governmental organisations (NGOs) which pursue goals akin to those of the Work of the Maritime Apostolate;  
-9. to make frequent visits to places where the Work of the Maritime Apostolate is active;  
-10. to send authentic copies, prepared by himself or by the chaplains, of Baptism, Confirmation and Death Registers to the appropriate diocesan offices;  
-11. to inform, as soon as possible, the parish priest where parties concerned have domicile, of the data that must be recorded in the parish registers;  
-12. to establish relations with the Work of the Maritime Apostolate in neighbouring countries, and to represent his own country at regional or continental level;  
-13. to maintain regular contact with the Regional Coordinator mentioned in art. XIII, 1, 6.
+1\. to maintain relations with the bishops of the country in all matters affecting the spiritual good of maritime people;  
+2\. to present to the Bishop Promoter, at least once a year, a Report on the “status animarum” and on pastoral work for the maritime people of his country: in this report he is to explain both the activities which went well and those which were, perhaps, less successful, as well as any corrective action taken to avoid losses and, finally, whatever seems useful for the spread of the Work of the Maritime Apostolate;  
+3\. to promote specific training programmes for chaplains;  
+4\. to direct chaplains of the Work of Maritime Apostolate without prejudice to the rights of the local Ordinary;  
+5\. to make sure that chaplains diligently fulfill their duties and observe the prescriptions of the Holy See and the local Ordinary;  
+6\. to arrange, with the consent of the Bishop Promoter and according to the circumstances of the time, meetings and spiritual exercises for all the chaplains in the country or for chaplains and other faithful who are involved in the Work of the Maritime Apostolate;  
+7\. to be particularly concerned to encourage and develop the Apostolate of the laity, fostering their active participation while bearing in mind the diversity of their talents;  
+8\. to establish and maintain regular contact with institutions and aid organisations - both Catholic and non-Catholic - and with non-governmental organisations (NGOs) which pursue goals akin to those of the Work of the Maritime Apostolate;  
+9\. to make frequent visits to places where the Work of the Maritime Apostolate is active;  
+10\. to send authentic copies, prepared by himself or by the chaplains, of Baptism, Confirmation and Death Registers to the appropriate diocesan offices;  
+11\. to inform, as soon as possible, the parish priest where parties concerned have domicile, of the data that must be recorded in the parish registers;  
+12\. to establish relations with the Work of the Maritime Apostolate in neighbouring countries, and to represent his own country at regional or continental level;  
+13\. to maintain regular contact with the Regional Coordinator mentioned in art. XIII, 1, 6.
 
 **XII.** 1. It is the right and duty of the **Bishop of a diocese** to show zealous concern for and to offer pastoral assistance to all maritime personnel who reside, even for a short time, within his jurisdiction.
 

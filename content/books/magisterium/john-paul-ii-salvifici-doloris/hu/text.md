@@ -10,50 +10,50 @@ Az emberi szenvedés keresztény értelméről
 
 TARTALOMJEGYZÉK  
 I. Bevezetés  
-1. [A szenvedés felfedezése](#A_szenved%C3%A9s_felfedez%C3%A9se)  
-2. [A szenvedés és az emberi természet](#A_szenved%C3%A9s_%C3%A9s_az_emberi_term%C3%A9szet)  
-3. [Az Egyház útja és a szenvedés](#Az_Egyh%C3%A1z_%C3%BAtja_%C3%A9s_a_szenved%C3%A9s)  
-4. [A szenvedés misztérium](#A_szenved%C3%A9s_miszt%C3%A9rium)  
+1\. [A szenvedés felfedezése](#A_szenved%C3%A9s_felfedez%C3%A9se)  
+2\. [A szenvedés és az emberi természet](#A_szenved%C3%A9s_%C3%A9s_az_emberi_term%C3%A9szet)  
+3\. [Az Egyház útja és a szenvedés](#Az_Egyh%C3%A1z_%C3%BAtja_%C3%A9s_a_szenved%C3%A9s)  
+4\. [A szenvedés misztérium](#A_szenved%C3%A9s_miszt%C3%A9rium)  
 
 II. Az emberi szenvedés világa  
-5. [A fizikai és az erkölcsi szenvedés](#A_fizikai_%C3%A9s_az_erk%C3%B6lcsi_szenved%C3%A9s)  
-6. [A szenvedés a Szentírásban](#A_szenved%C3%A9s_a_Szent%C3%ADr%C3%A1sban)  
-7. [A szenvedés és a rossz](#A_szenved%C3%A9s_%C3%A9s_a_rossz)  
-8. [A személyes és kollektív szenvedés](#A_szem%C3%A9lyes_%C3%A9s_kollekt%C3%ADv_szenved%C3%A9s)  
+5\. [A fizikai és az erkölcsi szenvedés](#A_fizikai_%C3%A9s_az_erk%C3%B6lcsi_szenved%C3%A9s)  
+6\. [A szenvedés a Szentírásban](#A_szenved%C3%A9s_a_Szent%C3%ADr%C3%A1sban)  
+7\. [A szenvedés és a rossz](#A_szenved%C3%A9s_%C3%A9s_a_rossz)  
+8\. [A személyes és kollektív szenvedés](#A_szem%C3%A9lyes_%C3%A9s_kollekt%C3%ADv_szenved%C3%A9s)  
 
 III. Mi a szenvedés értelme?  
-9. [A szenvedés értelmének keresése: Jób](#A_szenved%C3%A9s_%C3%A9rtelm%C3%A9nek_keres%C3%A9se)  
-10. [Jób barátainak válasza](#J%C3%B3b_bar%C3%A1tainak_v%C3%A1lasza)  
-11. [Büntetés és próbatétel](#B%C3%BCntet%C3%A9s_%C3%A9s_pr%C3%B3bat%C3%A9tel)  
-12. [A szenvedés és megtérés](#A_szenved%C3%A9s_%C3%A9s_megt%C3%A9r%C3%A9s)  
-13. [A szenvedés mélyebb értelme](#A_szenved%C3%A9s_m%C3%A9lyebb_%C3%A9rtelme)  
+9\. [A szenvedés értelmének keresése: Jób](#A_szenved%C3%A9s_%C3%A9rtelm%C3%A9nek_keres%C3%A9se)  
+10\. [Jób barátainak válasza](#J%C3%B3b_bar%C3%A1tainak_v%C3%A1lasza)  
+11\. [Büntetés és próbatétel](#B%C3%BCntet%C3%A9s_%C3%A9s_pr%C3%B3bat%C3%A9tel)  
+12\. [A szenvedés és megtérés](#A_szenved%C3%A9s_%C3%A9s_megt%C3%A9r%C3%A9s)  
+13\. [A szenvedés mélyebb értelme](#A_szenved%C3%A9s_m%C3%A9lyebb_%C3%A9rtelme)  
 
 IV. Jézus Krisztusban a szeretet legyőzte a szenvedést  
-14. [A szenvedés és a megváltás](#A_szenved%C3%A9s_%C3%A9s_a_megv%C3%A1lt%C3%A1s)  
-15. [Szabadulás a bűntől és a haláltól](#Szabadul%C3%A1s_a_b%C5%B1nt%C5%91l_%C3%A9s_a_hal%C3%A1lt%C3%B3l)  
-16. [A szenvedés és Krisztus](#A_szenved%C3%A9s_%C3%A9s_Krisztus)  
-17. [Jövendölés a szenvedő Megváltóról](#J%C3%B6vend%C3%B6l%C3%A9s_a_szenved%C5%91_Megv%C3%A1lt%C3%B3r%C3%B3l)  
-18. [A jövendölés beteljesedése: Krisztus szenvedése](#A_j%C3%B6vend%C3%B6l%C3%A9s_beteljesed%C3%A9se:_Krisztus_szenved%C3%A9se)  
+14\. [A szenvedés és a megváltás](#A_szenved%C3%A9s_%C3%A9s_a_megv%C3%A1lt%C3%A1s)  
+15\. [Szabadulás a bűntől és a haláltól](#Szabadul%C3%A1s_a_b%C5%B1nt%C5%91l_%C3%A9s_a_hal%C3%A1lt%C3%B3l)  
+16\. [A szenvedés és Krisztus](#A_szenved%C3%A9s_%C3%A9s_Krisztus)  
+17\. [Jövendölés a szenvedő Megváltóról](#J%C3%B6vend%C3%B6l%C3%A9s_a_szenved%C5%91_Megv%C3%A1lt%C3%B3r%C3%B3l)  
+18\. [A jövendölés beteljesedése: Krisztus szenvedése](#A_j%C3%B6vend%C3%B6l%C3%A9s_beteljesed%C3%A9se:_Krisztus_szenved%C3%A9se)  
 
 V. Részesedésünk Krisztus szenvedésében  
-19. [A szenvedés megváltást nyert](#A_szenved%C3%A9s_megv%C3%A1lt%C3%A1st_nyert)  
-20. [Részesedés Krisztus szenvedésében](#R%C3%A9szesed%C3%A9s_Krisztus_szenved%C3%A9s%C3%A9ben)  
-21. [A szenvedés misztériuma be van ágyazva a húsvét misztériumába](#A_szenved%C3%A9s_miszt%C3%A9riuma_be_van_%C3%A1gyazva_a_h%C3%BAsv%C3%A9t_miszt%C3%A9rium%C3%A1ba)  
-23. [Az erő a gyöngeségben](#Az_er%C5%91_a_gy%C3%B6nges%C3%A9gben)  
-24. [Szenvedés az Egyházért](#Szenved%C3%A9s_az_Egyh%C3%A1z%C3%A9rt)  
+19\. [A szenvedés megváltást nyert](#A_szenved%C3%A9s_megv%C3%A1lt%C3%A1st_nyert)  
+20\. [Részesedés Krisztus szenvedésében](#R%C3%A9szesed%C3%A9s_Krisztus_szenved%C3%A9s%C3%A9ben)  
+21\. [A szenvedés misztériuma be van ágyazva a húsvét misztériumába](#A_szenved%C3%A9s_miszt%C3%A9riuma_be_van_%C3%A1gyazva_a_h%C3%BAsv%C3%A9t_miszt%C3%A9rium%C3%A1ba)  
+23\. [Az erő a gyöngeségben](#Az_er%C5%91_a_gy%C3%B6nges%C3%A9gben)  
+24\. [Szenvedés az Egyházért](#Szenved%C3%A9s_az_Egyh%C3%A1z%C3%A9rt)  
 
 VI. A szenvedés Evangéliuma  
-25. [Az üldözöttek szenvedése](#Az_%C3%BCld%C3%B6z%C3%B6ttek_szenved%C3%A9se)  
-26. [A Krisztussal együtt szenvedők](#A_Krisztussal_egy%C3%BCtt_szenved%C5%91k)  
-27. [A szenvedők erő forrásai](#A_szenved%C5%91k_er%C5%91_forr%C3%A1sai)  
+25\. [Az üldözöttek szenvedése](#Az_%C3%BCld%C3%B6z%C3%B6ttek_szenved%C3%A9se)  
+26\. [A Krisztussal együtt szenvedők](#A_Krisztussal_egy%C3%BCtt_szenved%C5%91k)  
+27\. [A szenvedők erő forrásai](#A_szenved%C5%91k_er%C5%91_forr%C3%A1sai)  
 
 VII. Az irgalmas szamaritánus  
-28. [A felebarát szenvedése](#A_felebar%C3%A1t_szenved%C3%A9se)  
-29. [Törődés a szenvedőkkel](#T%C3%B6r%C5%91d%C3%A9s_a_szenved%C5%91kkel)  
-30. [A szenvedés és a segítségnyújtás jótette](#A_szenved%C3%A9s_%C3%A9s_a_segits%C3%A9gny%C3%BAjt%C3%A1s_j%C3%B3tette)  
+28\. [A felebarát szenvedése](#A_felebar%C3%A1t_szenved%C3%A9se)  
+29\. [Törődés a szenvedőkkel](#T%C3%B6r%C5%91d%C3%A9s_a_szenved%C5%91kkel)  
+30\. [A szenvedés és a segítségnyújtás jótette](#A_szenved%C3%A9s_%C3%A9s_a_segits%C3%A9gny%C3%BAjt%C3%A1s_j%C3%B3tette)  
 
 VIII. Befejezés  
-31. [A szenvedés természetfeletti érték](#A_szenved%C3%A9s_term%C3%A9szetfeletti_%C3%A9rt%C3%A9k)  
+31\. [A szenvedés természetfeletti érték](#A_szenved%C3%A9s_term%C3%A9szetfeletti_%C3%A9rt%C3%A9k)  
 
 ------------------------------------------------------------------------
 

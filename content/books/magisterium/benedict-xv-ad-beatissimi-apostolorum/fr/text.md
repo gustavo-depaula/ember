@@ -86,55 +86,55 @@ NOTES
 
 1\. Ioan., XXI, 15, 17.   
 
-2. Id., X, 16.   
+2\. Id., X, 16.   
 
-3. Id., XVII, 11.
+3\. Id., XVII, 11.
 
 4\. Matth., XXIV, 6, 7.   
 
-5. Luc., II, 14.
+5\. Luc., II, 14.
 
 6\. Ioan., XIII, 34.   
 
-7. Id., XV, 12.   
+7\. Id., XV, 12.   
 
-8. Id., ibid., 17.
+8\. Id., ibid., 17.
 
 9\. Matth., XXIII, 9.   
 
-10. Id., VI, 9.   
+10\. Id., VI, 9.   
 
-11. Id., V, 45.   
+11\. Id., V, 45.   
 
-12. Id., XXIII, 8.   
+12\. Id., XXIII, 8.   
 
-13. Rom., VIII, 29.   
+13\. Rom., VIII, 29.   
 
-14. Matth., XXV, 40.   
+14\. Matth., XXV, 40.   
 
-15. Ioann, XVII, 21.
+15\. Ioann, XVII, 21.
 
 16\. I Ioan., III, 23.   
 
-17. Id., ibid., 14.
+17\. Id., ibid., 14.
 
 18\. Rom., XII1, 1.
 
 19\. Rom., XIII, 5.   
 
-20. I Petr., II, 13, 14.   
+20\. I Petr., II, 13, 14.   
 
-21. Rom., XIII, 2.
+21\. Rom., XIII, 2.
 
 22\. I Tim., VI, 10.
 
 23\. Luc., VI, 20-22.   
 
-24. I Cor., II, 9.   
+24\. I Cor., II, 9.   
 
-25. Hebr., XIII, 13.   
+25\. Hebr., XIII, 13.   
 
-26. II Cor., IV, 17.
+26\. II Cor., IV, 17.
 
 27\. Ierem., I, 10.
 
@@ -142,18 +142,18 @@ NOTES
 
 29\. II, Tim., IV, 3, 4.   
 
-30. Job., XXXI, 12.
+30\. Job., XXXI, 12.
 
 31\. Prov., XXI, 28.
 
 32\. Act., XX, 28.   
 
-33. In Epist. ad Ephes., III.   
+33\. In Epist. ad Ephes., III.   
 
-34. Hebr., XIII, 17.   
+34\. Hebr., XIII, 17.   
 
-35. Ibid.   
+35\. Ibid.   
 
-36. S. Cypr. " Florentio cui et Poppiano ep. 66 (al. 69) ".
+36\. S. Cypr. " Florentio cui et Poppiano ep. 66 (al. 69) ".
 
 37\. Isai., XLV, 6, 7.

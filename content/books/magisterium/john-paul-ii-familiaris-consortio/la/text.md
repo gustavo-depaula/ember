@@ -184,12 +184,13 @@ Omne peculiare familiae munus est ostensio certaque ac definita exsecutio huiusm
 
 Hac ex parte exordium sumens ab amore ad eumque continenter respiciens, quattuor generalia munera familiae recens Synodus in lumine posuit; quae sunt:
 
-1.  personarum communitatis constitutio;
-2.  vitae servitium;
-    13;
-3.  progressionis societatis participatio;
-4.  vitae et missionis Ecclesiae participatio.
-    \#13;
+1\. personarum communitatis constitutio;
+
+2\. vitae servitium;
+
+3\. progressionis societatis participatio;
+
+4\. vitae et missionis Ecclesiae participatio.
 
 **18.** Familia, amore condita et vivificata, est communitas personarum: viri et mulieris matrimonio iunctorum, parentum filiorumque, propinquorum. Eius imprimis est e communionis veritate vivere, iugiter annitendo ut germana personarum communitas foveatur.
 

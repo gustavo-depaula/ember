@@ -188,7 +188,7 @@ De cette manière, l'unité dans l'Eglise locale, déjà dûment structurée, se
 
 Les évangiles synoptiques poursuivent par leur kérygme la prédication de Jésus et, comme Paul, portent l'Evangile en territoire non juif.
 
-1. L'annonce du Règne de Dieu tient une place centrale dans 1'Evangile selon Marc (Mc 1,50); toutefois le message du Règne de Dieu devient «Evangile de Jésus-Christ, Fils de Dieu» (1,1). C'est la marque d'une situation post-pascale, où l'on vise rétrospectivement les événements centraux de la foi chrétienne, à savoir: la crucifixion et la résurrection de Jésus.
+1\. L'annonce du Règne de Dieu tient une place centrale dans 1'Evangile selon Marc (Mc 1,50); toutefois le message du Règne de Dieu devient «Evangile de Jésus-Christ, Fils de Dieu» (1,1). C'est la marque d'une situation post-pascale, où l'on vise rétrospectivement les événements centraux de la foi chrétienne, à savoir: la crucifixion et la résurrection de Jésus.
 
 a\) La confession de Jésus comme Messie par Pierre (8,29) et comme Fils de Dieu par le Centurion au pied de la croix (15,39) est devenue, avec la célébration du Repas du Seigneur, le nouveau point de rassemblement où s'unit le peuple de Dieu. Certes, le terme d'*ekklèsia* n'apparaît pas chez Marc, pas plus que chez Luc; mais l'existence d'une telle réalité est clairement supposée. Il est difficile de préciser les rapports de l'Eglise et de la Synagogue, mais la séparation se prépare (cf. Mc 7,3-4; 12,9; 13,9). Les interdits alimentaires n'ont plus aucune valeur (7,15.19). Jésus apporte quelque chose de fondamentalement nouveau (1,27; 2,21-22), il s'émeut sur le troupeau sans pasteur (6,34) et condamne les vignerons du vignoble (12,1-12).
 
@@ -198,7 +198,7 @@ c\) Les Douze, qui ne sont appelés qu'une fois Apôtres (6,30), représentent p
 
 d\) La mort rédemptrice de Jésus (10,45) fonde l'alliance dans son sang versé pour la multitude (14,24). Après sa résurrection, Jésus, comme pasteur, rassemble ses brebis dispersées (14,27-28).
 
-2. L'Evangile selon Matthieu a été appelé l'Evangile de l'Eglise par excellence. Il emploie deux fois le terme d'*ekklèsia* (16,18; 18,17-18). La continuité avec Israël et le détachement d'avec la Synagogue sont les deux pôles qui commandent sa réflexion ecclésiologique.
+2\. L'Evangile selon Matthieu a été appelé l'Evangile de l'Eglise par excellence. Il emploie deux fois le terme d'*ekklèsia* (16,18; 18,17-18). La continuité avec Israël et le détachement d'avec la Synagogue sont les deux pôles qui commandent sa réflexion ecclésiologique.
 
 a\) De multiples citations explicites établissent que Jésus est le Messie d'Israël et le sauveur de son peuple, comme l'avait annoncé l'Ecriture. Mais Israël, dans son ensemble, ne l'a pas accepté et s'en trouve ostensiblement critiqué (Mt 20,16; 22,5-8). Le «Règne de Dieu», compris par Matthieu comme une donnée de l'histoire du Salut dans le passé, le présent et l'avenir, sera enlevé aux chefs d'Israël et donné à une nation qui en portera les fruits (21,43).
 
@@ -206,7 +206,7 @@ b\) Simon, le premier des douze apôtres (10,2), se voit imposer le nom de Pierr
 
 c\) Chargés de la Mission par le Seigneur glorifié, les Onze disciples sont envoyés dans le monde entier pour faire de toutes les nations des disciples (28,19). C'est dans leur communauté que la toute-puissance du Christ continuera d'opérer pour le salut (28,18-20).
 
-3. Les conceptions théologiques lucaniennes se trouvent dans l'Evangile selon Luc et dans les Actes des Apôtres. Dans l'Evangile, l'action de Jésus est centrée sur le pays d'Israël. Jésus commence par agir dans sa patrie immédiate, Nazareth (4,16-30); il ne franchit pas les limites du pays juif (à la différence de Mc 7,24ss = Mt 15,21ss). En envoyant ses apôtres (9,2) et disciples (10,1), il a le souci de mettre la totalité d'Israël en face du message de salut.
+3\. Les conceptions théologiques lucaniennes se trouvent dans l'Evangile selon Luc et dans les Actes des Apôtres. Dans l'Evangile, l'action de Jésus est centrée sur le pays d'Israël. Jésus commence par agir dans sa patrie immédiate, Nazareth (4,16-30); il ne franchit pas les limites du pays juif (à la différence de Mc 7,24ss = Mt 15,21ss). En envoyant ses apôtres (9,2) et disciples (10,1), il a le souci de mettre la totalité d'Israël en face du message de salut.
 
 Luc développe dans son oeuvre une théologie de la route (*hodos*, *poreuomai*). Jésus, enfant, est venu deux fois au Temple, chez son Père (2,41; cf. 2,23). Il reprend avec ses disciples le chemin vers Jérusalem (9,51ss), où les hommes le tueront (13,33), mais où Dieu le ressuscitera (24,34). Cette route se poursuit dans les Actes et mène de Jérusalem à l'«extrémité de la terre» (1,8). Jérusalem est au centre d'une conception de l'histoire du salut, selon laquelle l'antique peuple de Dieu se transmue en peuple de Dieu pris «parmi les nations» (Ac 15,14). Le transfert de l'Evangile, d'Israël aux nations, correspond au plan de Dieu dans sa continuité et sa discontinuité.
 

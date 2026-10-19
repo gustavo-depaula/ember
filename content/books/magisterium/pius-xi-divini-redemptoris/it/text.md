@@ -106,7 +106,7 @@ Non vi può essere uomo privato, che pensi saggiamente, né uomo di Stato, consa
 
 **SUPREMA REALTÀ: DIO!**
 
-26. – Al di sopra di ogni altra realtà sta il sommo, unico supremo Essere, Dio, Creatore onnipotente di tutte le cose, Giudice sapientissimo e giustissimo di tutti gli uomini. Questa suprema realtà, Dio, è la condanna più assoluta delle impudenti menzogne del comunismo. E in verità, non perché gli uomini credono, Dio è; ma perché Egli è, perciò lo crede e lo prega chiunque non chiuda volontariamente gli occhi di fronte alla verità.
+26\. – Al di sopra di ogni altra realtà sta il sommo, unico supremo Essere, Dio, Creatore onnipotente di tutte le cose, Giudice sapientissimo e giustissimo di tutti gli uomini. Questa suprema realtà, Dio, è la condanna più assoluta delle impudenti menzogne del comunismo. E in verità, non perché gli uomini credono, Dio è; ma perché Egli è, perciò lo crede e lo prega chiunque non chiuda volontariamente gli occhi di fronte alla verità.
 
 **CHE COSA SONO L’UOMO E LA FAMIGLIA SECONDO LA RAGIONE E LA FEDE**
 

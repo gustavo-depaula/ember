@@ -239,7 +239,7 @@ NOTES
 
 33\. PIE XI, Lettre encyclique *Ubi arcano*, 23 décembre 1922, *AAS* XIV (1922), 683, CH n. 936.  
 
-34. S. PAUL, *I Cor.* VII 25.
+34\. S. PAUL, *I Cor.* VII 25.
 
 35\. S. PAUL, Coloss. I 20.
 
@@ -249,8 +249,8 @@ NOTES
 
 38\. LÉON XIII, Lettre encyclique *Annum sacrum*, 25 mai 1899, *AAS* XXXI (1898-1899) 647.  
 
-39. S. AUGUSTIN, *Sermo* XLVII *de sanctis*, PL XXXVIII, 295.  
+39\. S. AUGUSTIN, *Sermo* XLVII *de sanctis*, PL XXXVIII, 295.  
 
-40. PIE XI, Lettre encyclique *Ubi arcano*, 23 décembre 1922, *AAS* XIV (1922) 673-700, CH pp. 602-629.
+40\. PIE XI, Lettre encyclique *Ubi arcano*, 23 décembre 1922, *AAS* XIV (1922) 673-700, CH pp. 602-629.
 
 41\. S. PAUL, *Rom.* VI 13.

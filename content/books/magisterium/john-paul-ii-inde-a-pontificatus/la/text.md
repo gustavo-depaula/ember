@@ -40,8 +40,8 @@ Ad rationes fovendas inter Ecclesiam Sanctamque Sedem atque eruditos viros, Cons
 Dialogum insuper Consilium instituit cum iis qui Deo non credunt vel nullam confitentur religionem, quotiescumque ii reapse operam consociare velint. Componit atque per doctos viros socium se praebet congressionum studiorum super hanc rem.
 
 **I.** *Pontificium Consilium de Cultura* duas habebit sectiones:  
-1. *Fides et Cultura*.  
-2. *Dialogus cum Culturis*.
+1\. *Fides et Cultura*.  
+2\. *Dialogus cum Culturis*.
 
 Sectio “Fides et Cultura” operositatem continuabit quam usque adhuc Pontificium Consilium de Cultura expedivit.
 

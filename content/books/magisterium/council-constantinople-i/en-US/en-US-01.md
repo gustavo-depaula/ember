@@ -106,5 +106,6 @@ Introduction and translation taken from *Decrees of the Ecumenical Councils*, e
 
 FOOTNOTES
 
-1.  Namely the synod of Constantinople in 382
-2.  This tome has not survived; it probably defended Paul of Antioch
+1\. Namely the synod of Constantinople in 382
+
+2\. This tome has not survived; it probably defended Paul of Antioch

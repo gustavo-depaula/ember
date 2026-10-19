@@ -50,7 +50,7 @@ Bishops should also be mindful, in administering ecclesiastical property, of the
 
 \(b\) The general law of the Church grants the faculty to each diocesan bishop to dispense, in a particular case, the faithful over whom they legally exercise authority as often as they judge that it contributes to their spiritual welfare, except in those cases which have been especially reserved by the supreme authority of the Church.
 
-9. In exercising supreme, full, and immediate power in the universal Church, the Roman pontiff makes use of the departments of the Roman Curia which, therefore, perform their duties in his name and with his authority for the good of the churches and in the service of the sacred pastors.
+9\. In exercising supreme, full, and immediate power in the universal Church, the Roman pontiff makes use of the departments of the Roman Curia which, therefore, perform their duties in his name and with his authority for the good of the churches and in the service of the sacred pastors.
 
 The fathers of this sacred council, however, desire that these departments-which have furnished distinguished assistance to the Roman pontiff and the pastors of the Church-be reorganized and better adapted to the needs of the times, regions, and rites especially as regards their number, name, competence and peculiar method of' procedure, as well as the coordination of work among them.(8) The fathers also desire that, in view of the very nature of the pastoral office proper to the bishops, the office of legates of the Roman pontiff be more precisely determined.
 
@@ -286,9 +286,11 @@ Communications between episcopal conferences of different nations should be espe
 
 40\. Therefore, in order to accomplish these aims this sacred synod decrees as follows:
 
-1.  ) The boundaries of ecclesiastical provinces are to be submitted to an early review and the rights and privileges of metropolitans are to be defined by new and suitable norms.
-2.  ) As a general rule all dioceses and other territorial divisions that are by law equivalent to dioceses should be attached to an ecclesiastical province. Therefore dioceses which are now directly subject to the Apostolic See and which are not united to any other are either to be brought together to form a new ecclesiastical province, if that be possible, or else attached to that province which is nearer or more convenient. They are to be made subject to the metropolitan jurisdiction of the bishop, in keeping with the norms of the common law.
-3.  ) Wherever advantageous, ecclesiastical provinces should be grouped into ecclesiastical regions for the structure of which juridical provision is to be made.
+1\. ) The boundaries of ecclesiastical provinces are to be submitted to an early review and the rights and privileges of metropolitans are to be defined by new and suitable norms.
+
+2\. ) As a general rule all dioceses and other territorial divisions that are by law equivalent to dioceses should be attached to an ecclesiastical province. Therefore dioceses which are now directly subject to the Apostolic See and which are not united to any other are either to be brought together to form a new ecclesiastical province, if that be possible, or else attached to that province which is nearer or more convenient. They are to be made subject to the metropolitan jurisdiction of the bishop, in keeping with the norms of the common law.
+
+3\. ) Wherever advantageous, ecclesiastical provinces should be grouped into ecclesiastical regions for the structure of which juridical provision is to be made.
 
 41\. It is fitting that the competent episcopal conferences examine the question of boundaries of such provinces and the establishment of regions in keeping with the norms given with respect to diocesan boundaries in numbers 23-24. They are then to submit their suggestions and desires to the Apostolic See.
 

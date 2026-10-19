@@ -4,7 +4,7 @@
 
 II\. János Pál pápa  
 a 2000. év Nagy Jubileumát meghirdető bullája  
-1998. november 29.
+1998\. november 29.
 
 II\. János Pál pápa  
 Isten szolgáinak szolgája  

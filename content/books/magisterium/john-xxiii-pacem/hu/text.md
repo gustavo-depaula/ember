@@ -5,7 +5,7 @@
 XXIII\. János pápa  
 enciklikája az igazságon, igazságosságon, szereteten  
 és szabadságon felépítendő békéről a nemzetek között  
-1963. november 4.
+1963\. november 4.
 
 #### Tartalom
 

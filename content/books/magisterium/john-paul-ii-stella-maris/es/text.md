@@ -83,7 +83,7 @@ Con el fin salir al encuentro de las exigencias de la peculiar asistencia religi
 3\. Para asistir válida y lícitamente al matrimonio durante el viaje, el capellán de la Obra del Apostolado del Mar deberá recibir la delegación del Ordinario o del párroco de la parroquia en la que uno de los dos contrayentes tiene su domicilio o su cuasidomicilio o su morada al menos por un mes, o, si se trata de vagabundos o personas errantes, de la parroquia del puerto donde embarcaron. El capellán tiene la obligación de comunicar al delegante los datos de la celebración, para que quede constancia en el registro de los matrimonios.
 
 **VIII.** 1. La misma autoridad competente para nombrar a los capellanes puede encomendar a un diácono, o a una persona laica o religiosa, la misión de colaborador de la Obra del Apostolado del Mar. Dicho colaborador ayuda al capellán y, conforme al derecho, lo suple en las funciones en que no se requiere el sacerdocio ministerial.  
-2. Los colaboradores de la Obra del Apostolado del Mar deben distinguirse por su integridad de vida, prudencia y conocimiento de la fe. Conviene que sean oportunamente instruidos y esmeradamente preparados antes de confiárseles esa misión.
+2\. Los colaboradores de la Obra del Apostolado del Mar deben distinguirse por su integridad de vida, prudencia y conocimiento de la fe. Conviene que sean oportunamente instruidos y esmeradamente preparados antes de confiárseles esa misión.
 
 **TÍTULO IV**
 

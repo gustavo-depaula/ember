@@ -95,26 +95,48 @@ Looking forward eagerly to the celebrations that I have announced, I gladly impa
 
 **NOTES**
 
-1.  L'Osservatore Romano, January 2-3, 1981.
-2.  St. Ambrose, De Spiritu Sancto, I, V, 72; ed. O. Faller; CSEL 79, Vinclohonae 1964, p. 45.
-3.  Jn. 14:26.
-4.  Jn. 16:13.
-5.  Thus quoted for the first time in the Acts of the Council of Chalcedon, act. II: ed. E. Schwartz, Acta Conciliorum Oecumenicortum, II Concilium universale Chalcedonense, Berolini et Lipsiae 1917-32 I, 2, p. 80; cf. also Conciliorum Oecumenicorum Decreta, Bologna 1973, p. 24.
-6.  Acta Conciliorum Oecumenicorum, I Concilium universale Ephesinum: ed. E. Schwartz, I, 1, pp. 25-28 and 223-242; cf. also Conciliorum Oecumenicorum Decreta, Bologna 1973, pp. 40-44; 50-61.
-7.  Acta Conciliorum Oecumenicorum, I, I, 4, pp. 8ff. (A); cf. also Conciliorum Oecumenicorum Decreta, pp. 69ff.
-8.  Cf. Lk. 1:35.
-9.  Cf. Jas. 1:17.
-10. Lumen gentium, no. 56.
-11. Cf. Lk. 1:38.
-12. Lumen gentium, no. 4.
-13. Heb. 13:8.
-14. Col. 1:18.
-15. Lumen gentium, no. 58.
-16. Lumen gentium, no. 59.
-17. Cf. 2 Cor. 11:28.
-18. Cf. Lumen gentium, no. 4.
-19. 1 Cor. 13:7-8.
-20. Acts 1:14.
-21. Lumen gentium, no. 63.
-22. Cf. Mk. 16:15.
-23. Cf. Acts 1:8.
+1\. L'Osservatore Romano, January 2-3, 1981.
+
+2\. St. Ambrose, De Spiritu Sancto, I, V, 72; ed. O. Faller; CSEL 79, Vinclohonae 1964, p. 45.
+
+3\. Jn. 14:26.
+
+4\. Jn. 16:13.
+
+5\. Thus quoted for the first time in the Acts of the Council of Chalcedon, act. II: ed. E. Schwartz, Acta Conciliorum Oecumenicortum, II Concilium universale Chalcedonense, Berolini et Lipsiae 1917-32 I, 2, p. 80; cf. also Conciliorum Oecumenicorum Decreta, Bologna 1973, p. 24.
+
+6\. Acta Conciliorum Oecumenicorum, I Concilium universale Ephesinum: ed. E. Schwartz, I, 1, pp. 25-28 and 223-242; cf. also Conciliorum Oecumenicorum Decreta, Bologna 1973, pp. 40-44; 50-61.
+
+7\. Acta Conciliorum Oecumenicorum, I, I, 4, pp. 8ff. (A); cf. also Conciliorum Oecumenicorum Decreta, pp. 69ff.
+
+8\. Cf. Lk. 1:35.
+
+9\. Cf. Jas. 1:17.
+
+10\. Lumen gentium, no. 56.
+
+11\. Cf. Lk. 1:38.
+
+12\. Lumen gentium, no. 4.
+
+13\. Heb. 13:8.
+
+14\. Col. 1:18.
+
+15\. Lumen gentium, no. 58.
+
+16\. Lumen gentium, no. 59.
+
+17\. Cf. 2 Cor. 11:28.
+
+18\. Cf. Lumen gentium, no. 4.
+
+19\. 1 Cor. 13:7-8.
+
+20\. Acts 1:14.
+
+21\. Lumen gentium, no. 63.
+
+22\. Cf. Mk. 16:15.
+
+23\. Cf. Acts 1:8.

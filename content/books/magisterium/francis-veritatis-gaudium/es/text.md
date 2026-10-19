@@ -1142,11 +1142,11 @@ Teniendo en cuenta lo dispuesto en la Constitución Apostólica y en las Normas 
 Teniendo en cuenta lo dispuesto en la Constitución Apostólica y en las Normas aplicativas, el Plan de estudios que deberá ser presentado a la Congregación para la Educación Católica para su aprobación contendrá:
 
 1\. El respectivo Plan de estudios en cada Facultad;  
-2. Cuántos ciclos comprende;  
-3. Las disciplinas que serán enseñadas; especificando su obligatoriedad o no;  
-4. Seminarios y ejercitaciones;  
-5. Exámenes y pruebas;  
-6. Eventual modalidad a distancia.
+2\. Cuántos ciclos comprende;  
+3\. Las disciplinas que serán enseñadas; especificando su obligatoriedad o no;  
+4\. Seminarios y ejercitaciones;  
+5\. Exámenes y pruebas;  
+6\. Eventual modalidad a distancia.
 
 **APÉNDICE II AL ART. 70 DE LAS NORMAS**
 

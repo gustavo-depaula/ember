@@ -265,74 +265,142 @@ With these wishes I impart my Blessing to all.
 
 **NOTES**
 
-1.  Cf. Leonis XIII Acta, 14 (1894), 358 370. The Pope recalls the esteem and the concrete help which the Holy See has given the Eastern Churches, and its willingness to safeguard their specific qualities; in addition, cf. Apostolic Letter Praeclara gratulationis (June 20, 1894), l.c., 195 214, Encyclical Letter Christi Nomen (December 24, 1894), l.c., 405 - 409.
-2.  Cf. Second Vatican Ecumenical Council, Decree on the Eastern Catholic Churches Orientialium Ecclesiarum, 1; Decree on Ecumenism Unitatis Redintegratio, 17.
-3.  Saint Augustine notes in this regard: "From where did the Church spread? From Jerusalem," In Epistulam Ioannis, II, 2: PL 35, 1990
-4.  Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church Lumen Gentium, 23; Decree on Ecumenism Unitatis Redintegratio, 14.
-5.  Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 4.
-6.  Cf. Apostolic Letter Egregiae Virtutis (December 31, 1980): AAS 73 (1981), 258 - 262; Encyclical Letter Slavorum Apostoli (June 2, 1985), 12 - 14: AAS 77, (1985), 792 - 796
-7.  Address after the Way of the Cross, Good Friday (April 1, 1994), 3: AAS 87, (1995), 88.
-8.  Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 14 - 18.
-9.  Address to the Extraordinary Consistory (June 13, 1994): L'Osservatore Romano, June 13 - 14, 1994), p. 5
-10. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 17.
-11. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 15.
-12. Cf. Saint Irenaeus, Against Heresies V, 36, 2: SCh 153/2, 461; Saint Basil, Treatise on the Holy Spirit, XV, 36: PG 32, 132; XVII, 43, l.c., 148; XVIII, 47, l.c., 153.
-13. Cf. Saint Gregory of Nyssa, Catechetical Discourse, XXXVII: PG 45, 97.
-14. Cf. Against Heresies III, 10, 2: SCh 211/2, 121; III, 18, 7, l.c., 365; III, 19, 1, l.c., 375; IV, 20, 4: SCh 100/2, 635; IV, 33, 4, l.c., 811; V, Pref., SCh 153/2, 15.
-15. Grafted on Christ, "men become gods and children of God...the dust is raised to such a degree of glory that it is now equal in honor and godliness to the divine nature" Nicholas Cabasilas, Life in Christ, I: PG 150, 505.
-16. Cf. Saint John Damascene, On Images, I, 19: PG 94, 1249.
-17. Cf. John Paul II, Encyclical Letter Redemptoris Mater, (March 25, 1987), 31 - 34 AAS 79 (1987), 402 - 406; Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 15.
-18. Cf. Saint Irenaeus, Against Heresies, II, 28, 3 - 6: SCh 294, 274 - 284; Saint Gregory of Nyssa, Life of Moses: PG 44, 377; Saint Gregory of Nazianzus, On Holy Easter, or. XLV, 3ff.; PG 36, 625 - 630.
-19. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 15.
-20. No. 9: AAS 77 (1985), 789 - 790
-21. Ibid., 11, l.c., 791
-22. Ibid., 21, l.c., 802 - 803
-23. "Divina eloquia cum legente crescunt": Saint Gregory the Great In Ezekiel, I, VII, 8: PL 76, 843
-24. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on Divine Revelation Dei Verbum, 8.
-25. Cf. International Theological Commission, Interpretationis Problema (October 1989), II, 1 - 2: Enchiridion Vaticanum 11, pp. 1717 - 1719.
-26. The Life of Anthony written by Saint Athanasius had a great influence in the West: PG 26, 835 - 977. Among others, Saint Augustine refers to it in his Confessions, VIII, 6: CSEL 33, 181 - 182. The translations of works by the Eastern Fathers, including the Rules of St. Basil: PG 31, 889 - 1305. The History of the Monks of Egypt PG 441 - 456, and the Apophthegmata of the Desert Fathers: PG 65, 72 - 440 marked Western monasticism. Cf. Guillaume De Saint Thierry Epistula ad Fratres de Monte Dei: SCh 223, 130 - 384.
-27. Cf. for example, Saint Basil, Short Rule: PG 31, 1079 - 1305; Saint John Chrysostom, On Compunction: PG 47, 391 - 422; Homilies on Matthew, hom. XV, 3: PG 57, 225 - 228; Saint Gregory of Nyssa, On the Beatitudes, hom. 3: PG 44, 1219 - 1232.
-28. Cf. Nicholas Cabasilas, Life in Christ, IV: PG 150, 584 - 585; Cyril of Alexandria, Treatise on John, 11: PG 74, 561; ibid., 12, l.c., 564; Saint John Chrysostom, Homilies on Matthew, Homily LXXXII, 5: PG 58, 743 - 744.
-29. Cf. Saint Gregory of Nazianzus, Discourse XXXIX: PG 36, 335 - 360.
-30. Cf. Clement of Alexandria, The Pedagogue, III, 1, 1: SCh 158, 12.
-31. For example, Anthony's experiences are significant. Cf. Saint Athanasius, Life of Anthony, 15: PG 26, 865; Saint Pachomius, Les vies coptes de saint Pakhôme et ses successeurs, ed. L. Th. Lefort, Louvain 1943, p. 3; and the witness of Evagrius of Pontus, Practical Treatise, 100: SCh 171, 710.
-32. Cf. John Paul II, Homily to Religious, (February 2, 1988), 6: AAS 80 (1988), 1111.
-33. Cf. Symbolum Chalcedonense, DS 301 - 302.
-34. Cf. Saint Irenaeus, Against Heresies V, 16, 2: SCh 153/2, 217; IV, 33, 4: SCh 100/2, 811; Saint Athanasius, Against the Gentiles, 2 - 3 and 34: PG 25, 5 - 8 and 68 - 69; The Incarnation of the Word, 12 - 13: SCh 18, 228 - 231.
-35. Silence (hesychia) is an essential component of Eastern monastic spirituality. Cf. The Life and Sayings of the Desert Fathers: PG 65, 72 - 456; Evagrius of Pontus, The Foundations of Monastic Life: PG 40, 1252 - 1264.
-36. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 3.
-37. John Paul II, Apostolic Letter Tertio Millennio Adveniente, (November 10, 1994), 34: AAS 87 (1995), 26.
-38. Cf. Saint Clement of Rome, Letter to the Corinthians: Patres Apostolici, ed. F.X. Funk, I, 60 - 144; Saint Ignatius of Antioch, Letters, l.c., 172 - 252; Saint Polycarp, Letter to the Philippians, l.c., 266 - 282.
-39. Cf. Saint Irenaeus, Against Heresies I, 10, 2: SCh 264/2, 158 - 160.
-40. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church Lumen Gentium, 26; Constitution on the Sacred Liturgy, Sacrosanctum Concilium, 41; Decree on Ecumenism Unitatis Redintegratio, 15.
-41. Cf. John Paul II, Letter A Concilio Constantinopolitano (March 25, 1981, 2: AAS 73 (1981), 515; Apostolic Letter Duodecimum Saeculum, (December 4, 1987, 2 and 4: AAS 80 1988), 242.243 - 244.
-42. Cf. John Paul II, Homily in St. Peter's Basilica, in the presence of Demetrius I, Archbishop of Constantinople and Ecumenical Patriarch (December 6, 1987), 3: AAS 80 (1988), 713 - 714.
-43. Cf. for example, Anselm of Havelberg, Dialogues PL 188, 1139 - 1248.
-44. Cf. Tomos Agapis, Vatican - Phanar (1958 - 1970), Rome - Estanbul, 1971, pp. 278 - 295.
-45. Address after the Way of the Cross on Good Friday (April 1, 1994): AAS 87 (1995), 87.
-46. Cf. Roman Missal, Solemnity of the Body and Blood of Christ, prayer over the gifts; ibid., Eucharistic Prayer III; Saint Basil, Alexandrian Anaphora, ed. E. Renaudot, Liturgiarum Orientalium Collectio, I, Frankfurt, 1847, p. 68.
-47. Cf. Paul VI, Message to the Mechitarists (September 8, 1977): Insegnamenti 15 (1977), 812.
-48. Didache, IX, 4: Patres Apostolici, ed. F.X. Funk, I, 22.
-49. Cf. Motu proprio Dei Providentis (May 1, 1917): AAS 9 (1917), 529 - 531.
-50. Cf. Motu proprio Orientis Catholici (October 15, 1917), l.c., 531 - 533.
-51. Cf. Motu proprio Superno Dei Nutu, (June 5, 1960), 9: AAS 52 (1960), 435 - 436.
-52. Cf. Apostolic Constitution Sacri Canones (October 18, 1990): AAS 82 (1990), 1033 - 1044.
-53. John Paul II, Crossing the Threshold of Hope New York 1994, pp. 154 - 155.
-54. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 14.
-55. Cf. Greeting to the Faculty of the Pontifical Oriental Institute (December 12, 1993): L'Osservatore Romano, December 13 - 14, 1993, p. 4.
-56. Cf. Second Vatican Ecumenical Council, Decree on the Catholic Eastern Church Orientalium Ecclesiarum, 30.
-57. Cf. John Paul II, Message Magnum Baptismi Donum (February 14, 1988), 4: AAS 80 (1988), 991 - 992.
-58. Cf. Second Vatican Ecumenical Council, Decree on the Catholic Eastern Churches, Orientalium Ecclesiarum, 24.
-59. Ibid., 5.
-60. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 17; John Paul II, Address to the Extraordinary Consistory (June 13, 1994): L'Osservatore Romano, June 13 - 14, 1994. P. 5.
-61. Cf. John Paul II, Letter to the Bishops of the european Continent (May 31, 1991): AAS 84 (1992), 163 - 168; as well as: General Principles and Practical Norms for Coordinating the Evangelizing Activity and Ecumenical Commitment of the Catholic Church in Russia and in the Other Countries of the C.I.S., (published by the Pontifical Commission for Russia on June 1, 1992).
-62. Cf. Congregation for Catholic Education, Instruction In Ecclesiasticam Futurorum, (June 3, 1979), 48: Enchiridion Vaticanum 6, p. 1080.
-63. Cf. Congregation for Catholic Education, Instruction Inspectis Dierum (November 10, 1989): AAS 82 (1990), 607 - 636.
-64. Congregation for Catholic Education, Circular Letter En égard au développement (January 6, 1987), 9 - 14: L'Osservatore Romano, April 16, 1987, p. 6
-65. Cf. Pontifical Council for Promoting Christian Unity, Directory for the Application of the Principles and Norms of Ecumenism, V, AAS 85 (1993), 1096 - 1119.
-66. Cf. Message of the Ordinary General synod of Bishops, VII: "Appeal to Religious of the Eastern Churches" (October 27, 1994): L'Osservatore Romano, October 29, 1994, p. 7
-67. Horologion, Akathistos Hymn to the Most Holy Mother of God, Ikos 5.
-68. Ibid.
-69. Horologion, Sunday compline (1st tone) in the Byzantine liturgy
+1\. Cf. Leonis XIII Acta, 14 (1894), 358 370. The Pope recalls the esteem and the concrete help which the Holy See has given the Eastern Churches, and its willingness to safeguard their specific qualities; in addition, cf. Apostolic Letter Praeclara gratulationis (June 20, 1894), l.c., 195 214, Encyclical Letter Christi Nomen (December 24, 1894), l.c., 405 - 409.
+
+2\. Cf. Second Vatican Ecumenical Council, Decree on the Eastern Catholic Churches Orientialium Ecclesiarum, 1; Decree on Ecumenism Unitatis Redintegratio, 17.
+
+3\. Saint Augustine notes in this regard: "From where did the Church spread? From Jerusalem," In Epistulam Ioannis, II, 2: PL 35, 1990
+
+4\. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church Lumen Gentium, 23; Decree on Ecumenism Unitatis Redintegratio, 14.
+
+5\. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 4.
+
+6\. Cf. Apostolic Letter Egregiae Virtutis (December 31, 1980): AAS 73 (1981), 258 - 262; Encyclical Letter Slavorum Apostoli (June 2, 1985), 12 - 14: AAS 77, (1985), 792 - 796
+
+7\. Address after the Way of the Cross, Good Friday (April 1, 1994), 3: AAS 87, (1995), 88.
+
+8\. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 14 - 18.
+
+9\. Address to the Extraordinary Consistory (June 13, 1994): L'Osservatore Romano, June 13 - 14, 1994), p. 5
+
+10\. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 17.
+
+11\. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 15.
+
+12\. Cf. Saint Irenaeus, Against Heresies V, 36, 2: SCh 153/2, 461; Saint Basil, Treatise on the Holy Spirit, XV, 36: PG 32, 132; XVII, 43, l.c., 148; XVIII, 47, l.c., 153.
+
+13\. Cf. Saint Gregory of Nyssa, Catechetical Discourse, XXXVII: PG 45, 97.
+
+14\. Cf. Against Heresies III, 10, 2: SCh 211/2, 121; III, 18, 7, l.c., 365; III, 19, 1, l.c., 375; IV, 20, 4: SCh 100/2, 635; IV, 33, 4, l.c., 811; V, Pref., SCh 153/2, 15.
+
+15\. Grafted on Christ, "men become gods and children of God...the dust is raised to such a degree of glory that it is now equal in honor and godliness to the divine nature" Nicholas Cabasilas, Life in Christ, I: PG 150, 505.
+
+16\. Cf. Saint John Damascene, On Images, I, 19: PG 94, 1249.
+
+17\. Cf. John Paul II, Encyclical Letter Redemptoris Mater, (March 25, 1987), 31 - 34 AAS 79 (1987), 402 - 406; Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 15.
+
+18\. Cf. Saint Irenaeus, Against Heresies, II, 28, 3 - 6: SCh 294, 274 - 284; Saint Gregory of Nyssa, Life of Moses: PG 44, 377; Saint Gregory of Nazianzus, On Holy Easter, or. XLV, 3ff.; PG 36, 625 - 630.
+
+19\. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 15.
+
+20\. No. 9: AAS 77 (1985), 789 - 790
+
+21\. Ibid., 11, l.c., 791
+
+22\. Ibid., 21, l.c., 802 - 803
+
+23\. "Divina eloquia cum legente crescunt": Saint Gregory the Great In Ezekiel, I, VII, 8: PL 76, 843
+
+24\. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on Divine Revelation Dei Verbum, 8.
+
+25\. Cf. International Theological Commission, Interpretationis Problema (October 1989), II, 1 - 2: Enchiridion Vaticanum 11, pp. 1717 - 1719.
+
+26\. The Life of Anthony written by Saint Athanasius had a great influence in the West: PG 26, 835 - 977. Among others, Saint Augustine refers to it in his Confessions, VIII, 6: CSEL 33, 181 - 182. The translations of works by the Eastern Fathers, including the Rules of St. Basil: PG 31, 889 - 1305. The History of the Monks of Egypt PG 441 - 456, and the Apophthegmata of the Desert Fathers: PG 65, 72 - 440 marked Western monasticism. Cf. Guillaume De Saint Thierry Epistula ad Fratres de Monte Dei: SCh 223, 130 - 384.
+
+27\. Cf. for example, Saint Basil, Short Rule: PG 31, 1079 - 1305; Saint John Chrysostom, On Compunction: PG 47, 391 - 422; Homilies on Matthew, hom. XV, 3: PG 57, 225 - 228; Saint Gregory of Nyssa, On the Beatitudes, hom. 3: PG 44, 1219 - 1232.
+
+28\. Cf. Nicholas Cabasilas, Life in Christ, IV: PG 150, 584 - 585; Cyril of Alexandria, Treatise on John, 11: PG 74, 561; ibid., 12, l.c., 564; Saint John Chrysostom, Homilies on Matthew, Homily LXXXII, 5: PG 58, 743 - 744.
+
+29\. Cf. Saint Gregory of Nazianzus, Discourse XXXIX: PG 36, 335 - 360.
+
+30\. Cf. Clement of Alexandria, The Pedagogue, III, 1, 1: SCh 158, 12.
+
+31\. For example, Anthony's experiences are significant. Cf. Saint Athanasius, Life of Anthony, 15: PG 26, 865; Saint Pachomius, Les vies coptes de saint Pakhôme et ses successeurs, ed. L. Th. Lefort, Louvain 1943, p. 3; and the witness of Evagrius of Pontus, Practical Treatise, 100: SCh 171, 710.
+
+32\. Cf. John Paul II, Homily to Religious, (February 2, 1988), 6: AAS 80 (1988), 1111.
+
+33\. Cf. Symbolum Chalcedonense, DS 301 - 302.
+
+34\. Cf. Saint Irenaeus, Against Heresies V, 16, 2: SCh 153/2, 217; IV, 33, 4: SCh 100/2, 811; Saint Athanasius, Against the Gentiles, 2 - 3 and 34: PG 25, 5 - 8 and 68 - 69; The Incarnation of the Word, 12 - 13: SCh 18, 228 - 231.
+
+35\. Silence (hesychia) is an essential component of Eastern monastic spirituality. Cf. The Life and Sayings of the Desert Fathers: PG 65, 72 - 456; Evagrius of Pontus, The Foundations of Monastic Life: PG 40, 1252 - 1264.
+
+36\. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 3.
+
+37\. John Paul II, Apostolic Letter Tertio Millennio Adveniente, (November 10, 1994), 34: AAS 87 (1995), 26.
+
+38\. Cf. Saint Clement of Rome, Letter to the Corinthians: Patres Apostolici, ed. F.X. Funk, I, 60 - 144; Saint Ignatius of Antioch, Letters, l.c., 172 - 252; Saint Polycarp, Letter to the Philippians, l.c., 266 - 282.
+
+39\. Cf. Saint Irenaeus, Against Heresies I, 10, 2: SCh 264/2, 158 - 160.
+
+40\. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church Lumen Gentium, 26; Constitution on the Sacred Liturgy, Sacrosanctum Concilium, 41; Decree on Ecumenism Unitatis Redintegratio, 15.
+
+41\. Cf. John Paul II, Letter A Concilio Constantinopolitano (March 25, 1981, 2: AAS 73 (1981), 515; Apostolic Letter Duodecimum Saeculum, (December 4, 1987, 2 and 4: AAS 80 1988), 242.243 - 244.
+
+42\. Cf. John Paul II, Homily in St. Peter's Basilica, in the presence of Demetrius I, Archbishop of Constantinople and Ecumenical Patriarch (December 6, 1987), 3: AAS 80 (1988), 713 - 714.
+
+43\. Cf. for example, Anselm of Havelberg, Dialogues PL 188, 1139 - 1248.
+
+44\. Cf. Tomos Agapis, Vatican - Phanar (1958 - 1970), Rome - Estanbul, 1971, pp. 278 - 295.
+
+45\. Address after the Way of the Cross on Good Friday (April 1, 1994): AAS 87 (1995), 87.
+
+46\. Cf. Roman Missal, Solemnity of the Body and Blood of Christ, prayer over the gifts; ibid., Eucharistic Prayer III; Saint Basil, Alexandrian Anaphora, ed. E. Renaudot, Liturgiarum Orientalium Collectio, I, Frankfurt, 1847, p. 68.
+
+47\. Cf. Paul VI, Message to the Mechitarists (September 8, 1977): Insegnamenti 15 (1977), 812.
+
+48\. Didache, IX, 4: Patres Apostolici, ed. F.X. Funk, I, 22.
+
+49\. Cf. Motu proprio Dei Providentis (May 1, 1917): AAS 9 (1917), 529 - 531.
+
+50\. Cf. Motu proprio Orientis Catholici (October 15, 1917), l.c., 531 - 533.
+
+51\. Cf. Motu proprio Superno Dei Nutu, (June 5, 1960), 9: AAS 52 (1960), 435 - 436.
+
+52\. Cf. Apostolic Constitution Sacri Canones (October 18, 1990): AAS 82 (1990), 1033 - 1044.
+
+53\. John Paul II, Crossing the Threshold of Hope New York 1994, pp. 154 - 155.
+
+54\. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 14.
+
+55\. Cf. Greeting to the Faculty of the Pontifical Oriental Institute (December 12, 1993): L'Osservatore Romano, December 13 - 14, 1993, p. 4.
+
+56\. Cf. Second Vatican Ecumenical Council, Decree on the Catholic Eastern Church Orientalium Ecclesiarum, 30.
+
+57\. Cf. John Paul II, Message Magnum Baptismi Donum (February 14, 1988), 4: AAS 80 (1988), 991 - 992.
+
+58\. Cf. Second Vatican Ecumenical Council, Decree on the Catholic Eastern Churches, Orientalium Ecclesiarum, 24.
+
+59\. Ibid., 5.
+
+60\. Cf. Second Vatican Ecumenical Council, Decree on Ecumenism Unitatis Redintegratio, 17; John Paul II, Address to the Extraordinary Consistory (June 13, 1994): L'Osservatore Romano, June 13 - 14, 1994. P. 5.
+
+61\. Cf. John Paul II, Letter to the Bishops of the european Continent (May 31, 1991): AAS 84 (1992), 163 - 168; as well as: General Principles and Practical Norms for Coordinating the Evangelizing Activity and Ecumenical Commitment of the Catholic Church in Russia and in the Other Countries of the C.I.S., (published by the Pontifical Commission for Russia on June 1, 1992).
+
+62\. Cf. Congregation for Catholic Education, Instruction In Ecclesiasticam Futurorum, (June 3, 1979), 48: Enchiridion Vaticanum 6, p. 1080.
+
+63\. Cf. Congregation for Catholic Education, Instruction Inspectis Dierum (November 10, 1989): AAS 82 (1990), 607 - 636.
+
+64\. Congregation for Catholic Education, Circular Letter En égard au développement (January 6, 1987), 9 - 14: L'Osservatore Romano, April 16, 1987, p. 6
+
+65\. Cf. Pontifical Council for Promoting Christian Unity, Directory for the Application of the Principles and Norms of Ecumenism, V, AAS 85 (1993), 1096 - 1119.
+
+66\. Cf. Message of the Ordinary General synod of Bishops, VII: "Appeal to Religious of the Eastern Churches" (October 27, 1994): L'Osservatore Romano, October 29, 1994, p. 7
+
+67\. Horologion, Akathistos Hymn to the Most Holy Mother of God, Ikos 5.
+
+68\. Ibid.
+
+69\. Horologion, Sunday compline (1st tone) in the Byzantine liturgy
 
 .

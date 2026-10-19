@@ -3,45 +3,45 @@
 **UT UNUM SINT  **
 
 II\. János Pál pápa enciklikája az ökumenikus törekvésekről  
-1995. május 25. Úrnapján  
+1995\. május 25. Úrnapján  
 
 [Bevezetés](#BEVEZET%C3%89S_) 1–4
 
 I. A KATOLIKUS EGYHÁZ ÖKUMENIKUS ELKÖTELEZETTSÉGE  
-1. [Isten terve és a közösség](#_Isten_terve_%C3%A9s_a_k%C3%B6z%C3%B6ss%C3%A9g)  
-2. [Az ökumenikus út: az Egyház útja](#Az_%C3%B6kumenikus_%C3%BAt:_az_Egyh%C3%A1z_%C3%BAtja)  
-3. [Megújulás és megtérés](#Meg%C3%BAjul%C3%A1s_%C3%A9s_megt%C3%A9r%C3%A9s)  
-4. [A tanítás alapvető jelentősége](#A_tan%C3%ADt%C3%A1s_alapvet%C5%91_jelent%C5%91s%C3%A9ge)  
-5. [Az imádság elsőbbsége](#_Az_im%C3%A1ds%C3%A1g_els%C5%91bbs%C3%A9ge)  
-6. [Ökumenikus dialógus](#%C3%96kumenikus_dial%C3%B3gus)  
-7. [A dialógus helyi szervezetei](#A_dial%C3%B3gus_helyi_szervezetei)  
-8. [A dialógus mint lelkiismeretvizsgálat](#A_dial%C3%B3gus_mint_lelkiismeretvizsg%C3%A1lat)  
-9. [Az eltéréseket megoldó dialógus](#Az_elt%C3%A9r%C3%A9seket_megold%C3%B3_dial%C3%B3gus)  
-10. [Hatékony együttműködés](#Hat%C3%A9kony_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s)
+1\. [Isten terve és a közösség](#_Isten_terve_%C3%A9s_a_k%C3%B6z%C3%B6ss%C3%A9g)  
+2\. [Az ökumenikus út: az Egyház útja](#Az_%C3%B6kumenikus_%C3%BAt:_az_Egyh%C3%A1z_%C3%BAtja)  
+3\. [Megújulás és megtérés](#Meg%C3%BAjul%C3%A1s_%C3%A9s_megt%C3%A9r%C3%A9s)  
+4\. [A tanítás alapvető jelentősége](#A_tan%C3%ADt%C3%A1s_alapvet%C5%91_jelent%C5%91s%C3%A9ge)  
+5\. [Az imádság elsőbbsége](#_Az_im%C3%A1ds%C3%A1g_els%C5%91bbs%C3%A9ge)  
+6\. [Ökumenikus dialógus](#%C3%96kumenikus_dial%C3%B3gus)  
+7\. [A dialógus helyi szervezetei](#A_dial%C3%B3gus_helyi_szervezetei)  
+8\. [A dialógus mint lelkiismeretvizsgálat](#A_dial%C3%B3gus_mint_lelkiismeretvizsg%C3%A1lat)  
+9\. [Az eltéréseket megoldó dialógus](#Az_elt%C3%A9r%C3%A9seket_megold%C3%B3_dial%C3%B3gus)  
+10\. [Hatékony együttműködés](#Hat%C3%A9kony_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s)
 
 II\. A DIALÓGUS GYÜMÖLCSEI  
-1. [Az újra megtalált testvériség](#Az_%C3%BAjra_megtal%C3%A1lt_testv%C3%A9ris%C3%A9g)  
-2. [Szolidaritás az emberiség szolgálatában](#Szolidarit%C3%A1s_az_emberis%C3%A9g_szolg%C3%A1lat%C3%A1ban)  
-3. [Közeledés Isten igéjében és az istentiszteletben](#K%C3%B6zeled%C3%A9s_Isten_ig%C3%A9j%C3%A9ben_%C3%A9s_az_istentiszteletben_)  
-4. [A többi keresztényeknél meglévő értékek megbecsülése](#A_t%C3%B6bbi_kereszt%C3%A9nyekn%C3%A9l_megl%C3%A9v%C5%91_%C3%A9rt%C3%A9kek_megbecs%C3%BCl%C3%A9se)  
-5. [A közösség növekedése](#A_k%C3%B6z%C3%B6ss%C3%A9g_n%C3%B6veked%C3%A9se)  
-6. [Dialógus a keleti egyházakkal](#Dial%C3%B3gus_a_keleti_egyh%C3%A1zakkal)  
-7. [A kapcsolatfölvétel](#A_kapcsolatf%C3%B6lv%C3%A9tel)  
-8. [A nővér egyházak](#A_n%C5%91v%C3%A9r_egyh%C3%A1zak)  
-9. [A dialógus lépései](#A_dial%C3%B3gus_l%C3%A9p%C3%A9sei)  
-10. [Kapcsolatok a régi a keleti egyházakkal](#Kapcsolatok_a_r%C3%A9gi_a_keleti_egyh%C3%A1zakkal)  
-11. [Dialógus a többi nyugati egyházzal és egyházi közösséggel](#Dial%C3%B3gus_a_t%C3%B6bbi_nyugati_egyh%C3%A1zzal_%C3%A9s_egyh%C3%A1zi_k%C3%B6z%C3%B6ss%C3%A9ggel)  
-12. [Egyházi kapcsolatok](#Egyh%C3%A1zi_kapcsolatok)  
-13. [Konkrét együttműködések](#Konkr%C3%A9t_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9sek)  
+1\. [Az újra megtalált testvériség](#Az_%C3%BAjra_megtal%C3%A1lt_testv%C3%A9ris%C3%A9g)  
+2\. [Szolidaritás az emberiség szolgálatában](#Szolidarit%C3%A1s_az_emberis%C3%A9g_szolg%C3%A1lat%C3%A1ban)  
+3\. [Közeledés Isten igéjében és az istentiszteletben](#K%C3%B6zeled%C3%A9s_Isten_ig%C3%A9j%C3%A9ben_%C3%A9s_az_istentiszteletben_)  
+4\. [A többi keresztényeknél meglévő értékek megbecsülése](#A_t%C3%B6bbi_kereszt%C3%A9nyekn%C3%A9l_megl%C3%A9v%C5%91_%C3%A9rt%C3%A9kek_megbecs%C3%BCl%C3%A9se)  
+5\. [A közösség növekedése](#A_k%C3%B6z%C3%B6ss%C3%A9g_n%C3%B6veked%C3%A9se)  
+6\. [Dialógus a keleti egyházakkal](#Dial%C3%B3gus_a_keleti_egyh%C3%A1zakkal)  
+7\. [A kapcsolatfölvétel](#A_kapcsolatf%C3%B6lv%C3%A9tel)  
+8\. [A nővér egyházak](#A_n%C5%91v%C3%A9r_egyh%C3%A1zak)  
+9\. [A dialógus lépései](#A_dial%C3%B3gus_l%C3%A9p%C3%A9sei)  
+10\. [Kapcsolatok a régi a keleti egyházakkal](#Kapcsolatok_a_r%C3%A9gi_a_keleti_egyh%C3%A1zakkal)  
+11\. [Dialógus a többi nyugati egyházzal és egyházi közösséggel](#Dial%C3%B3gus_a_t%C3%B6bbi_nyugati_egyh%C3%A1zzal_%C3%A9s_egyh%C3%A1zi_k%C3%B6z%C3%B6ss%C3%A9ggel)  
+12\. [Egyházi kapcsolatok](#Egyh%C3%A1zi_kapcsolatok)  
+13\. [Konkrét együttműködések](#Konkr%C3%A9t_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9sek)  
 
 III\. MILYEN ÚT ÁLL ELŐTTÜNK?  
-1. [Folytatnunk és fokoznunk kell a dialógust](#Folytatnunk_%C3%A9s_fokoznunk_kell_a_dial%C3%B3gust)  
-2. [Az elért eredmények befogadása](#Az_el%C3%A9rt_eredm%C3%A9nyek_befogad%C3%A1sa)  
-3. [A lelki ökumenizmus folytatása és az életszentség tanúságtétele](#A_lelki_%C3%B6kumenizmus_folytat%C3%A1sa_%C3%A9s_az_%C3%A9letszents%C3%A9g_tan%C3%BAs%C3%A1gt%C3%A9tele)  
-4. [A katolikus Egyház hozzájárulása a keresztények egységéhez](#A_katolikus_Egyh%C3%A1z_hozz%C3%A1j%C3%A1rul%C3%A1sa_a_kereszt%C3%A9nyek_egys%C3%A9g%C3%A9nek_keres%C3%A9s%C3%A9hez)  
-5. [Róma püspökének egységszolgálata](#R%C3%B3ma_p%C3%BCsp%C3%B6k%C3%A9nek_egys%C3%A9gszolg%C3%A1lata)  
-6. [Az összes részegyház közössége a római egyházzal: az egység elengedhetetlen föltétele](#Az_%C3%B6sszes_r%C3%A9szegyh%C3%A1z_k%C3%B6z%C3%B6ss%C3%A9ge_a_r%C3%B3mai_egyh%C3%A1zzal:_az_egys%C3%A9g_elengedhetetlen_f%C3%B6lt%C3%A9tele)  
-7. [A teljes egység és az evangelizáció](#A_teljes_egys%C3%A9g_%C3%A9s_az_evangeliz%C3%A1ci%C3%B3)  
+1\. [Folytatnunk és fokoznunk kell a dialógust](#Folytatnunk_%C3%A9s_fokoznunk_kell_a_dial%C3%B3gust)  
+2\. [Az elért eredmények befogadása](#Az_el%C3%A9rt_eredm%C3%A9nyek_befogad%C3%A1sa)  
+3\. [A lelki ökumenizmus folytatása és az életszentség tanúságtétele](#A_lelki_%C3%B6kumenizmus_folytat%C3%A1sa_%C3%A9s_az_%C3%A9letszents%C3%A9g_tan%C3%BAs%C3%A1gt%C3%A9tele)  
+4\. [A katolikus Egyház hozzájárulása a keresztények egységéhez](#A_katolikus_Egyh%C3%A1z_hozz%C3%A1j%C3%A1rul%C3%A1sa_a_kereszt%C3%A9nyek_egys%C3%A9g%C3%A9nek_keres%C3%A9s%C3%A9hez)  
+5\. [Róma püspökének egységszolgálata](#R%C3%B3ma_p%C3%BCsp%C3%B6k%C3%A9nek_egys%C3%A9gszolg%C3%A1lata)  
+6\. [Az összes részegyház közössége a római egyházzal: az egység elengedhetetlen föltétele](#Az_%C3%B6sszes_r%C3%A9szegyh%C3%A1z_k%C3%B6z%C3%B6ss%C3%A9ge_a_r%C3%B3mai_egyh%C3%A1zzal:_az_egys%C3%A9g_elengedhetetlen_f%C3%B6lt%C3%A9tele)  
+7\. [A teljes egység és az evangelizáció](#A_teljes_egys%C3%A9g_%C3%A9s_az_evangeliz%C3%A1ci%C3%B3)  
 
 [BUZDÍTÁS](#BUZD%C3%8DT%C3%81S)  
 

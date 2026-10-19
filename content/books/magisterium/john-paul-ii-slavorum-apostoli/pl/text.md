@@ -233,72 +233,72 @@ Z Apostolskim Błogosławieństwem.
 
 **Przypisy**:
 
-1. JAN PAWEŁ II, List apost. *Egregiae virtutis* (31 grudnia 1980): *AAS* 73 (1981), 258-262.
+1\. JAN PAWEŁ II, List apost. *Egregiae virtutis* (31 grudnia 1980): *AAS* 73 (1981), 258-262.
 
-2. LEON XIII, *Grande munus* (30 września 1880), *Leonis XIII Pont. Max. Acta*, II, s. 125-137; por. także Pius XI, List *Quod S. Cyrillum* (13 lutego 1927) do Arcybiskupów i Biskupów Królestwa Serbo-Chorwacko-Słowenskiego i do Repibliki Czechosłowackiej: *AAS* 19 (1927), 93-96; JAN XXIII, List Aost. *Magnifici eventus* (11 maja 1963) do Biskupów Narodów Słowiańskich: *AAS* 55 (1963), 434-439; PAWEŁ VI, List Aost. Antique nobilitatis (2 lutego 1969) z okazji 1100-lecia śmierci św. Cyryla: *AAS* 61 (1969), 137-149.
+2\. LEON XIII, *Grande munus* (30 września 1880), *Leonis XIII Pont. Max. Acta*, II, s. 125-137; por. także Pius XI, List *Quod S. Cyrillum* (13 lutego 1927) do Arcybiskupów i Biskupów Królestwa Serbo-Chorwacko-Słowenskiego i do Repibliki Czechosłowackiej: *AAS* 19 (1927), 93-96; JAN XXIII, List Aost. *Magnifici eventus* (11 maja 1963) do Biskupów Narodów Słowiańskich: *AAS* 55 (1963), 434-439; PAWEŁ VI, List Aost. Antique nobilitatis (2 lutego 1969) z okazji 1100-lecia śmierci św. Cyryla: *AAS* 61 (1969), 137-149.
 
-3. PAWEŁ VI, List apost. *Pacis nuntius* (24 października 1964 r.): *AAS* 56 (1964), 965-967.
+3\. PAWEŁ VI, List apost. *Pacis nuntius* (24 października 1964 r.): *AAS* 56 (1964), 965-967.
 
-4. Por. *Magnae Moraviae Fontes Historici*, t. III, Brno 1969, s. 197-208.
+4\. Por. *Magnae Moraviae Fontes Historici*, t. III, Brno 1969, s. 197-208.
 
-5. Niektóre narody słowiańskie obchodzą to święto nadal w dniu 7 lipca.
+5\. Niektóre narody słowiańskie obchodzą to święto nadal w dniu 7 lipca.
 
-6. Por. *Żywot Konstantyna*, VIII *Żywoty Konstantyna i Metodego (Obszerne)*, przekł. i opr. Tadeusz Lehr-Spławiński, Poznań, Instytut Zachodni 1959, s. 30.
+6\. Por. *Żywot Konstantyna*, VIII *Żywoty Konstantyna i Metodego (Obszerne)*, przekł. i opr. Tadeusz Lehr-Spławiński, Poznań, Instytut Zachodni 1959, s. 30.
 
-7. *Żywot Konstantyna*, XIV, s. 64.
+7\. *Żywot Konstantyna*, XIV, s. 64.
 
-8. *Żywot Metodego*, VII, s. 108.
+8\. *Żywot Metodego*, VII, s. 108.
 
-9. Por. *Magne Moraviae Fontes Historici*, t. III, Brno 1969, s. 197-208.
+9\. Por. *Magne Moraviae Fontes Historici*, t. III, Brno 1969, s. 197-208.
 
-10. *Żywot Metodego*, VIII, s. 108.
+10\. *Żywot Metodego*, VIII, s. 108.
 
-11. *Żywot Metodego*, XVII, s. 120.
+11\. *Żywot Metodego*, XVII, s. 120.
 
-12. Por. *tamże*; *1 Kor 9, 22*.
+12\. Por. *tamże*; *1 Kor 9, 22*.
 
-13. *Żywot Metodego*, V, s. 106.
+13\. *Żywot Metodego*, V, s. 106.
 
-14. *Żywot Konstantyna*, XIV, s. 64.
+14\. *Żywot Konstantyna*, XIV, s. 64.
 
-15. *Żywot Konstantyna*, VI, s. 18.
+15\. *Żywot Konstantyna*, VI, s. 18.
 
-16. Następcy Papieża Mikołaja I, chociaż także zaniepokojeni sprzecznymi wiadomościami, jakie dochodziły do nich na temat nauczania i działalności Cyryla i Metodego, w bezpośrednim z nimi spotkaniu przyznali jednak obu Braciom całkowitą słszność. Zakazy czy ograniczenia używania nowej liturgii słowiańskiej należy przede wszystkim przypisać naciskowi okoliczności, zmiennym stosunkom politycznym i konieczności utrzymania jedności.
+16\. Następcy Papieża Mikołaja I, chociaż także zaniepokojeni sprzecznymi wiadomościami, jakie dochodziły do nich na temat nauczania i działalności Cyryla i Metodego, w bezpośrednim z nimi spotkaniu przyznali jednak obu Braciom całkowitą słszność. Zakazy czy ograniczenia używania nowej liturgii słowiańskiej należy przede wszystkim przypisać naciskowi okoliczności, zmiennym stosunkom politycznym i konieczności utrzymania jedności.
 
-17. SOBÓR WAT. II, Dekr. o ekumenizmie *Unitatis redintegratio*, 4.
+17\. SOBÓR WAT. II, Dekr. o ekumenizmie *Unitatis redintegratio*, 4.
 
-18. SOBÓR WAT. II, Dekr. o ekumenizmie *Unitatis redintegratio*, 1.
+18\. SOBÓR WAT. II, Dekr. o ekumenizmie *Unitatis redintegratio*, 1.
 
-19. Por. *Żywot Metodego*, VIII, IX, s. 108-112.
+19\. Por. *Żywot Metodego*, VIII, IX, s. 108-112.
 
-20. Por. *Żywot Metodego*, IX, s. 112.
+20\. Por. *Żywot Metodego*, IX, s. 112.
 
-21. SOBÓR WAT. II, Konst. dogm. o Kościele *Lumen gentium*, 13.
+21\. SOBÓR WAT. II, Konst. dogm. o Kościele *Lumen gentium*, 13.
 
-22. *Żywot Konstantyna*, XVI, s. 74-75.
+22\. *Żywot Konstantyna*, XVI, s. 74-75.
 
-23. *Żywot Konstantyna*, XVI, s. 74.
+23\. *Żywot Konstantyna*, XVI, s. 74.
 
-24. *Tamże*, s. 82; *Flp 2, 11*.
+24\. *Tamże*, s. 82; *Flp 2, 11*.
 
-25. *Żywot Konstantyna*, XVI, s.76; *Ps 65, 4*.
+25\. *Żywot Konstantyna*, XVI, s.76; *Ps 65, 4*.
 
-26. *Żywot Konstantyna*, XVI, s.76; *Ps 116, 1*.
+26\. *Żywot Konstantyna*, XVI, s.76; *Ps 116, 1*.
 
-27. *Żywot Konstantyna*, I, s. 2.
+27\. *Żywot Konstantyna*, I, s. 2.
 
-28. *Żywot Metodego*, II, s. 102.
+28\. *Żywot Metodego*, II, s. 102.
 
-29. Por. *Żywot Metodego*, XI, s. 114.
+29\. Por. *Żywot Metodego*, XI, s. 114.
 
-30. Por. SOBÓR WAT. II, Dekr. o działalności misyjnej Kościoła *Ad gentes*, 38.
+30\. Por. SOBÓR WAT. II, Dekr. o działalności misyjnej Kościoła *Ad gentes*, 38.
 
-31. JAN PAWEŁ II, Przemówienie podczas ekumenicznego spotkania w Bazylice św. Mikołaja w Bari (26 lutego 1984), 2: *Insegnamenti* VII/1 (1984), 532.
+31\. JAN PAWEŁ II, Przemówienie podczas ekumenicznego spotkania w Bazylice św. Mikołaja w Bari (26 lutego 1984), 2: *Insegnamenti* VII/1 (1984), 532.
 
-32. *Tamże*, 1: Insegnamenti VII/1 (1984), 531.
+32\. *Tamże*, 1: Insegnamenti VII/1 (1984), 531.
 
-33. SOBÓR WAT. II, Konst. dogm. o Kościele *Lumen gentium*, 1.
+33\. SOBÓR WAT. II, Konst. dogm. o Kościele *Lumen gentium*, 1.
 
-34. Por. *Żywot Metodego*, XVII, s. 120; *Łk 23, 46*; por. *Ps 30, 6*.
+34\. Por. *Żywot Metodego*, XVII, s. 120; *Łk 23, 46*; por. *Ps 30, 6*.
 
-35. *Żywot Metodego*, XVII, s. 120.
+35\. *Żywot Metodego*, XVII, s. 120.

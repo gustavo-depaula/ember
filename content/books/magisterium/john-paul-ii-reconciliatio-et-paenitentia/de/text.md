@@ -391,8 +391,9 @@ Die Bischöfe der Synode haben sich als Vertreter ihrer Mitbrüder im Bischofsam
 
 Deshalb möchte ich das Wesen der *Pastoral der Buße und der Versöhnung* darlegen, indem ich mit der Synode die beiden folgenden Punkte besonders behandle:
 
-1.  Die von der Kirche benutzten Mittel und Wege, um Buße und Versöhnung zu fördern.
-2.  Das eigentliche Sakrament der Buße und Versöhnung.
+1\. Die von der Kirche benutzten Mittel und Wege, um Buße und Versöhnung zu fördern.
+
+2\. Das eigentliche Sakrament der Buße und Versöhnung.
 
 **ERSTES KAPITEL DIE FÖRDERUNG VON BUSSE UND VERSÖHNUNG: MITTEL UND WEGE**
 

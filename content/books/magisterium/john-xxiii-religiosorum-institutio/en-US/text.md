@@ -356,7 +356,7 @@ Sacred Congregation for Religious
 (Translated from the original Latin text – Published in Canon Law Digest, 5 Pages: 452 – 486 – Note: Although this Instruction was not published in AAS or any other public form but was privately circulated, it is, nevertheless, referred to by the S. C. Rel. itself as “a matter of public law” (cf. below: S. C. Rel., 28 April, 1961)
 
 **Notes**  
-1. AAS 24 (1932) -74 -81; *Enchiridion de Statibus Prefectionis*, Rome, 1949, n. 363, pp. 471-479. Cf. also the Instruction *Illud saepius*, *De Qualitatibus recipiendorum*, 15 August, 1915, in *Enchiridion de Stat. Perf.*, n. 286, pp. 340-344. English version of *Quantum Religiones* in Canon Law Digest, 1, pp. 473-482.
+1\. AAS 24 (1932) -74 -81; *Enchiridion de Statibus Prefectionis*, Rome, 1949, n. 363, pp. 471-479. Cf. also the Instruction *Illud saepius*, *De Qualitatibus recipiendorum*, 15 August, 1915, in *Enchiridion de Stat. Perf.*, n. 286, pp. 340-344. English version of *Quantum Religiones* in Canon Law Digest, 1, pp. 473-482.
 
 2\. AAS 28 (1936)-5-533; *Ench. de Stat. Perf.*, n. 367, 481-521.
 

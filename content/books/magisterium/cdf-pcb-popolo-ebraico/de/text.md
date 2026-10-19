@@ -114,7 +114,7 @@ A. ***Das Neue Testament erkennt die Autorität der Heiligen Schrift des jüdisc
 
 3\. Die Schriften des Neuen Testamentes geben sich an keiner Stelle als etwas grundlegend Neues aus. Sie erweisen sich vielmehr als tief in der langen Glaubenserfahrung Israels verwurzelt, wie sie sich in unterschiedlicher Form in den Heiligen Büchern widerspiegelt, die die Schrift des jüdischen Volkes ausmachen. Das Neue Testament erkennt diesen eine göttliche Autorität zu. Diese Anerkennung der Autorität der Heiligen Schriften Israels kommt in unterschiedlicher Weise – teils ausdrücklich, teils eher implizit – zum Ausdruck.
 
-1. *Implizite Anerkennung der Autorität*
+1\. *Implizite Anerkennung der Autorität*
 
 *Um vom am wenigsten ausdrücklichen Element auszugehen, das dennoch starken Indiziencharakter hat, so lässt sich auf den Gebrauch einer gemeinsamen Sprache* verweisen. Das Griechische des Neuen Testaments hängt stark von demjenigen der Septuaginta ab, ob es sich nun um grammatikalische Wendungen handelt, die vom Hebräischen beeinflusst sind, oder um den Wortschatz, vor allem den religiösen. Ohne eine Kenntnis des Griechischen der Septuaginta lässt sich der genauer Sinn vieler wichtiger Ausdrücke im Neuen Testament nicht erfassen.⁷
 
@@ -122,7 +122,7 @@ Diese sprachliche Verwandtschaft erstreckt sich natürlich auf zahlreiche Ausdr�
 
 Was von der Offenbarung des Johannes gilt, das gilt – wenn auch in vermindertem Umfang – von den Evangelien, von der Apostelgeschichte und von den Briefen des Neues Testamentes.⁸ Der Unterschied besteht nur darin, dass sich in diesen anderen Schriften außerdem zahlreiche *ausdrückliche Zitate* finden, d. h. Zitate, die als solche eingeführt werden.⁹ Diese Schriften bekunden also offen ihre Entlehnungen und bezeugen auf diese Weise, dass sie die Autorität der jüdischen Bibel als göttlicher Offenbarung anerkennen.
 
-2. *Ausdrücklicher Rückgriff auf die Autorität* *der Schrift des jüdischen Volkes*
+2\. *Ausdrücklicher Rückgriff auf die Autorität* *der Schrift des jüdischen Volkes*
 
 4\. Diese Anerkennung von Autorität nimmt von Fall zu Fall verschiedene Formen an. Manchmal findet man im Kontext von Offenbarung das einfache Verb *legei*, »er (oder: sie) sagt«, ohne Angabe des Subjekts¹⁰, wie später in den rabbinischen Schriften, aber der Kontext zeigt dann, dass es sich um ein Subjekt handeln muss, das dem Text große Autorität verleiht: die Schrift oder der Herr oder Christus.¹¹ In anderen Fällen wird das Subjekt zum Ausdruck gebracht: es ist »die Schrift«, »das Gesetz« oder »Mose« oder »David«, von dem es heißt, dass er inspiriert war, oder »der Prophet«, oft »Jesaja«, gelegentlich »Jeremia«, aber es ist auch »der Heilige Geist« oder »der Herr«, wie es die Sprüche der Propheten sagten.¹² Bei Matthäus findet sich zweimal eine umfassende Formulierung, die zugleich den göttlichen Sprecher und dessen menschliches Sprachrohr zum Ausdruck bringt: »was der Herr durch den Propheten gesagt hat: ...« (Mt 1,22; 2,15). An anderen Stellen bleibt die Nennung des Herrn implizit und wird nur durch die Wahl der Präposition *dia* »durch« zur Bezeichnung des menschlichen Sprachrohrs angedeutet. In diesen Texten von Matthäus lässt das Verb »sagen« im Präsens die Zitate der jüdischen Bibel als lebendige Worte erscheinen, deren Autorität stets aktuell ist.
 
@@ -138,13 +138,13 @@ B. ***Das Neue Testament erklärt seine Übereinstimmung mit der Schrift des jü
 
 6\. Eine doppelte Überzeugung bekundet sich in anderen Texten: auf der einen Seite muss sich notwendigerweise erfüllen, was in der Schrift des jüdischen Volkes geschrieben steht, denn hier tut sich der Wille Gottes kund, den keine Macht aufhalten kann; auf der anderen Seite entsprechen Leben, Tod und Auferstehung Christi vollständig dem Wort dieser Schrift.
 
-1. *Notwendigkeit der Erfüllung der Schrift*
+1\. *Notwendigkeit der Erfüllung der Schrift*
 
 Der klarste Ausdruck der ersten Überzeugung findet sich in den Worten, die der auferstandene Jesus im Lukasevangelium an seine Jünger richtet: »Das sind die Worte, die ich zu euch gesagt habe: Alles muss (*dei*) in Erfüllung gehen, was im Gesetz des Mose, bei den Propheten und in den Psalmen über mich gesagt ist« (Lk 24,44). Diese Feststellung enthüllt den Grund der Notwendigkeit des Ostergeheimnisses Jesu, einer Notwendigkeit, die auch sonst in zahlreichen Abschnitten der Evangelien zum Ausdruck kommt: »Der Menschensohn *muss* viel leiden \[...\] und nach drei Tagen auferstehen«;¹⁷ »wie würde dann aber die Schrift erfüllt, nach der es so geschehen *muss*?« (Mt 26,54); »An mir *muss* sich das Schriftwort erfüllen« (Lk 22,37).
 
 Da sich unbedingt erfüllen »*muss*«, was im Alten Testament geschrieben steht, treten die Ereignisse auch ein, *damit* sich dies erfülle. Dies wird häufig von Matthäus hervorgehoben, zunächst in der Kindheitsgeschichte, dann im öffentlichen Leben Jesu¹⁸ und für das gesamte Leiden Jesu (Mt 26,56). Markus hat eine Entsprechung zu dieser letzten Stelle in einem kraftvollen unvollständigen Satz: »Aber (das ist geschehen), damit die Schrift in Erfüllung geht« (Mk 14,49). Lukas gebraucht solche Wendungen nicht, doch Johannes greift ebenso oft wie Matthäus auf sie zurück.¹⁹ Dieser Nachdruck der Evangelien auf dem Ziel der Ereignisse, »damit die Schrift in Erfüllung ginge«,²⁰ verleiht der Schrift des jüdischen Volkes eine außerordentliche Bedeutung. Er lässt deutlich erkennen, dass die Ereignisse keine Bedeutung hätten, wenn sie nicht dem Wort der Schrift entsprächen. Es würde sich dann nicht um die Verwirklichung des göttlichen Ratschlusses handeln.
 
-2. *Entsprechung zur Schrift*
+2\. *Entsprechung zur Schrift*
 
 7\. Andere Texte heben hervor, dass alles im Geheimnis Christi der Schrift des jüdischen Volkes entspricht. Die ursprüngliche christliche Verkündigung ließ sich in die von Paulus berichtete kerygmatische Formel zusammenfassen: »Ich habe euch vor allem überliefert, was auch ich empfangen habe: Christus ist für unsre Sünden gestorben, *gemäß der Schrift*, und ist begraben worden. Er ist am dritten Tag auferweckt worden, *gemäß der Schrift*, und erschien ...« (1 Kor 15,3-5). Paulus fügt hinzu: »Ob nun ich verkündige oder die anderen: das ist unsere Botschaft, und das ist der Glaube, den ihr angenommen habt« (1 Kor 15,11). Der christliche Glaube stützt sich demnach nicht einfach auf bestimmte Ereignisse, sondern auf die Entsprechung dieser Ereignisse zur Offenbarung, wie sie in der Schrift des jüdischen Volkes enthalten ist. Auf dem Wege zu seinem Leiden sagt Jesus: »Der Menschensohn muss seinen Weg gehen, wie die Schrift über ihn sagt« (Mt 26,24; Mk 14,21). Nach seiner Auferstehung gebraucht übernimmt Jesus es selbst, »darzulegen, was in der gesamten Schrift über ihn geschrieben steht«.²¹ Paulus ruft in seiner Predigt an die Juden von Antiochien in Pisidien diese Ereignisse in Erinnerung mit den Worten: »Die Einwohner von Jerusalem und ihre Führer haben Jesus nicht erkannt, aber sie haben die Worte der Propheten, die an jedem Sabbat vorgelesen werden, erfüllt und haben ihn verurteilt« (Apg 13,27). Durch solche Aussagen zeigt sich das Neue Testament unauflöslich mit der Schrift des jüdischen Volkes verbunden.
 
@@ -158,7 +158,7 @@ Das Vierte Evangelium bietet eine ähnliche Sicht: hier schreibt Jesus sogar den
 
 In der Apostelgeschichte sehen die Missionsreden der Kirchenführer – Petrus, Philippus, Paulus und Barnabas, Jakobus – das Leiden Jesu, die Auferstehung, Pfingsten und die missionarische Öffnung der Kirche in vollkommener Kontinuität mit der Schrift des jüdischen Volkes.²²
 
-3. *Übereinstimmung und Unterschied*
+3\. *Übereinstimmung und Unterschied*
 
 8\. Der Hebräerbrief spricht zwar an keiner Stelle ausdrücklich die Autorität der Schrift des jüdischen Volkes aus, doch zeigt er eindeutig, dass er diese Autorität anerkennt, da er unablässig ihre Texte anführt, um seine Lehren und seine Ermahnungen zu begründen. Der Brief enthält zahlreiche Feststellungen, die als mit den Propheten übereinstimmend dargestellt werden, aber auch andere, bei denen die Übereinstimmung auch einige Aspekte der Nicht-Übereinstimung enthält. Dies war bereits bei den Paulusbriefen der Fall gewesen. Im Römer- wie im Galaterbrief argumentiert der Apostel mit Berufung auf das Gesetz, um zu zeigen, dass der Glaube an Christus die Herrschaft des Gesetzes beendet hat. Er zeigt, dass das Gesetz als Offenbarung sein eigenes Ende als heilsnotwendiger Institution angekündigt hat.²³ Der aufschlussreichste Satz ist diesbezüglich Röm 3,21, wo der Apostel erklärt, dass die Offenbarung der Gerechtigkeit Gottes durch den Glauben an Christus »unabhängig vom Gesetz« Ereignis geworden ist, freilich »bezeugt vom Gesetz und den Propheten«. In ähnlicher Weise zeigt der Hebräerbrief, wie das Geheimnis Christi die Prophetenworte und den vorausweisenden Aspekt der Schrift des jüdischen Volkes zur Erfüllung bringt, aber zur gleichen Zeit auch einen Aspekt der Nicht-Übereinstimmung mit den alten Institutionen mit sich bringt: nach der Ankündigung von Ps 109(110),1.4 überragt die Stellung des verherrlichten Christus als solche das levitische Priestertum (vgl. Hebr 7,11.28).
 
@@ -168,7 +168,7 @@ C. ***Schrift und mündliche Überlieferung im Judentum und Christentum***
 
 9\. »Heilige Schrift« und mündliche Überlieferung bilden in vielen Religionen eine Spannungseinheit. Diese lässt sich sowohl in den fernöstlichen Religionen (Hinduismus, Buddhismus) als auch im Islam aufzeigen. Die schriftlichen Texte können die Überlieferung niemals voll ausschöpfen. So kommt es zu Ergänzungen oder Neuinterpretationen, die ihrerseits früher oder später Schriftform annehmen. Dabei sind freilich solchen Ergänzungen oder alternativen Deutungen Grenzen gesetzt. Dies lässt sich im Judentum wie im Christentum beobachten, wobei es Überschneidungen und Berührungen gibt. Besitzen doch beide Glaubensgemeinschaften einen wenigstens zum Teil identischen Kanon heiliger Bücher.
 
-1. *Schrift und Überlieferung im Alten Testament* *und im Judentum*
+1\. *Schrift und Überlieferung im Alten Testament* *und im Judentum*
 
 *Überlieferung führt zur Schrift*. Über die Entstehung der Texte des Alten Testaments und die Geschichte der Kanonbildung ist den letzten Jahren viel gearbeitet worden. Es wurde ein gewisser Konsens darüber erreicht, dass der langsame Prozess der Bildung des Kanons der hebräischen Bibel gegen Ende des ersten Jahrhunderts unserer Zeitrechnung praktisch zum Abschluss kam. Dieser Kanon umfasste die *Thora*, die Propheten und den Großteil der sog. »Schriften«. Die Schriftwerdung der einzelnen Bücher liegt oft im Dunklen. Manchmal sind wir hier nur auf Vermutungen angewiesen. Diese stützen sich vor allem auf die Ergebnisse der Form-, der Überlieferungs- und der Redaktionskritik. So liegen den Anweisungen der Thora ältere Sammlungen zugrunde, die schrittweise Eingang in die Bücher des Pentateuch fanden. Überlieferte Erzählungen nahmen ihrerseits schriftliche Gestalt an und wurden gesammelt. Sie wurden mit Verhaltensregeln verbunden. Prophetenworte wurden gesammelt und schrittweise zu Prophetenbüchern zusammengestellt. Das gleiche gilt von Weisheitssprüchen und –sammlungen, Psalmen und Lehrerzählungen der späteren Zeit.
 
@@ -178,7 +178,7 @@ So kann der schriftliche Text zu weiteren Entwicklungen führen. Dabei bleibt es
 
 *Grenzen der Tradition*. Verbindliche Tradition, die in Schriftform der Schrift hinzugefügt wurde, erlangt freilich nicht als solche die gleiche Autorität wie die Schrift. Sie gehört nicht zu den »Schriften, die die Hände verunreinigen«, d. h. den »Heiligen Schriften« und damit jenen, die als solche in der Liturgie verlesen werden. Mischna, Tosefta und Talmud haben ihren Platz in der Synagoge als Lehrhaus, aber sie werden nicht im Gottesdienst verlesen. Im Allgemeinen bemisst sich der Wert einer Überlieferung am Grad ihrer Übereinstimmung mit der *Thora*. Deren Verlesung hat einen privilegierten Platz innerhalb der synagogalen Liturgie. Sie wird ergänzt durch ausgewählte Lesungen aus den Propheten. Nach einer alten jüdischen Glaubensüberzeugung wurde die *Thora* vor der Grundlegung der Welt geschaffen. Die Samaritaner erkannten nur sie als Heilige Schrift an. Die Sadduzäer verwarfen ihrerseits jede normative Überlieferung außerhalb des Gesetzes und der Propheten. Nach dem pharisäischen und rabbinischen Judentum gibt es freilich neben dem geschriebenen Gesetz ein mündliches, das dem Mose gleichzeitig verliehen wurde und das die gleiche Autorität besitzt. Dies hält ein Traktat der Mischna fest: »Auf dem Sinai empfing Mose das mündliche Gesetz, und er überlieferte es dem Josue, Josue den Ältesten, die Ältesten den Propheten, und die Propheten überlieferten es den Mitgliedern der Großen Synagoge« (*Abot* 1,1). So zeigt sich im Verständnis der Überlieferung ein beachtliches Spektrum von Meinungen.
 
-2. *Schrift und Überlieferung im Urchristentum*
+2\. *Schrift und Überlieferung im Urchristentum*
 
 10\. *Überlieferung führt zur Schrift*. Im Christentum lässt sich eine analoge Entwicklung beobachten wie im Judentum, freilich mit einem grundlegenden Unterschied: die Christen besaßen von Anfang an eine Heilige Schrift, da sie als Juden die Bibel Israels als Schrift anerkannten. Diese war sogar zunächst die einzige Schrift, die sie anerkannten. Doch kam für sie eine mündliche Überlieferung hinzu, »die Lehre der Apostel« (Apg 2,42), die die Worte Jesu und den Bericht über die Ereignisse, die ihn betrafen, enthielt. Die Evangeliumskatechese nahm erst nach und nach Gestalt an. Um ihre getreue Übermittlung zu sichern, hielt man Worte Jesu und Erzählungen über ihn schriftlich fest. So wurde die Redaktion der Evangelien vorbereitet, die erst einige Jahrzehnte nach Tod und Auferstehung Jesu stattfand. Auf der anderen Seite kam es zur Abfassung von Glaubensformeln und liturgischen Hymnen, die ihren Eingang in die Briefe des Neuen Testaments fanden. Die Briefe des Paulus und anderer Apostel oder anderer führender Persönlichkeiten wurden in der Adressatengemeinde verlesen (vgl. 1 Thess 5,27), dann auch an andere Gemeinden weitergeleitet (vgl. Kol 4,16), aufbewahrt zur Wiederverlesung bei anderen Gelegenheiten und schließlich als Schrift angesehen (vgl. 2 Petr 3,15-16) und den Evangelien hinzugefügt. So bildete sich schrittweise der Kanon des Neuen Testaments innerhalb der apostolischen Überlieferung.
 
@@ -190,7 +190,7 @@ Das Zweite Vatikanische Konzil erklärt, dass die apostolische Predigt »in den 
 
 *Grenzen einer hinzukommenden Überlieferung*. In welchem Maße kann es in der christlichen Kirche eine Überlieferung geben, die inhaltlich über das Wort der Schrift hinausgeht? Diese Frage ist im Laufe der Theologiegeschichte lange erörtert worden. Das Zweite Vatikanische Konzil scheint sie offen gelassen zu haben, aber es hat sich zumindest geweigert, bei Schrift und Tradition von »zwei Offenbarungsquellen« zu sprechen; es hat vielmehr festgehalten, dass »die Heilige Überlieferung und die Heilige Schrift ... den einen der Kirche überlassenen Schatz des Wortes Gottes (bilden)« (*Dei Verbum* 10). So hat das Konzil den Gedanken einer von der Schrift völlig unabhängigen Überlieferung verworfen. In einem Punkte erwähnt das Konzil gleichwohl einen unabhängigen Beitrag der Überlieferung, und zwar in einem äußerst wichtigen Punkt: durch die Überlieferung »wird der Kirche der vollständige Kanon der Heiligen Bücher bekannt« (*DV* 8). So sieht man, wie Schrift und Überlieferung voneinander untrennbar sind.
 
-3. *Beziehung zwischen den beiden Perspektiven*
+3\. *Beziehung zwischen den beiden Perspektiven*
 
 11\. Wie sich zeigte, weist das Verhältnis von Schrift und Überlieferung im Judentum und im Christentum formale Übereinstimmungen auf. In einem Punkte gibt es sogar mehr als nur Übereinstimmung, denn beide Religionen begegnen sich im gemeinsamen Erbe der »Heiligen Schrift Israels«.²⁵
 
@@ -202,7 +202,7 @@ Was das Urchristentum freilich von all diesen Richtungen unterscheidet, ist die 
 
 D. ***Im Neuen Testament angewandte jüdische Methoden der Exegese***
 
-1. *Jüdische Methoden der Exegese*
+1\. *Jüdische Methoden der Exegese*
 
 12\. Das Judentum entnahm seine Vorstellung von Gott, von der Welt und vom Heilsplan Gottes der Schrift. Das beste Anschauungsmaterial für die Weise, wie die Zeitgenossen Jesu die Schrift verstanden, liefern uns die Handschriften vom Toten Meer. Sie wurden zwischen dem 2. Jahrhundert v. Chr. und dem Jahre 60 n. Chr. aufgeschrieben und damit in einem Zeitraum, der sich in etwa mit dem öffentlichen Leben Jesu und der Bildung der Evangelien deckt. Dabei muss freilich im Auge behalten werden, dass diese Dokumente nur einen Aspekt der jüdischen Überlieferung belegen; sie stammen aus einem Sonderbereich innerhalb des Judentums und können dieses als Ganzes nicht dokumentieren.
 
@@ -210,13 +210,13 @@ Der älteste Beleg für die rabbinische Exegese, der sich im Ubrigen auf Texte d
 
 Eine weitere Weise des Schriftgebrauchs finden wir bei den jüdischen Historikern des 1. Jahrhunderts, vor allem bei Josephus, freilich bereits auch im Alten Testament selbst. Sie besteht darin, bestimmte Ereignisse unter Rückgriff auf biblische Ausdrücke zu beschreiben und sie von daher auch zu deuten. So wird die Rückkehr aus dem babylonischen Exil mit Ausdrücken beschrieben, die an die Befreiung aus der ägyptischen Unterdrückung zur Zeit des Exodus erinnern (Jes 43,16-21). Die endgültige Wiederherstellung Zions wird in den Farben eines neuen Eden beschrieben.²⁶ In Qumran kommt eine ähnliche Technik der Auslegung wiederholt zur Anwendung.
 
-2. *Exegese in Qumran und im Neuen Testament*
+2\. *Exegese in Qumran und im Neuen Testament*
 
 13\. Nach Form und Methode weist das Neue Testament und weisen insbesondere die Evangelien starke Berührungen mit Qumran und dem dort üblichen Schriftgebrauch auf. Die Formeln, mit denen Zitate eingeführt werden, sind oft die gleichen wie z. B. »so steht es geschrieben«, »wie geschrieben steht«, »gemäß dem, was geschrieben steht«. Der ähnliche Gebrauch der Schrift leitet sich aus einer verwandten Grundperspektive der beiden Gemeinden, derjenigen von Qumran und derjenigen des Neuen Testaments, ab. Beide waren eschatologische Gemeinden, die die biblischen prophetischen Verheißungen zu ihrer Zeit erfüllt sahen, und zwar in einer Weise, die die Erwartung und das Verstehensvermögen der Propheten überstieg, die die Verheißungen dereinst ausgesprochen hatten. Beide Gemeinden waren überzeugt, dass das volle Verständnis der prophetischen Verheißungen ihren Gründern offenbart worden war: dem »Lehrer der Gerechtigkeit« in Qumran und Jesus für die Christen.
 
 Genau wie in den Schriftrollen von Qumran werden bestimmte Bibeltexte im Neuen Testament in ihrem wörtlichen und historischen Sinn verwendet, während andere mehr oder weniger gezwungen an die Situation des Augenblicks angepasst werden. Die Bibel enthielt nach gläubiger Auffassung Gottes eigene Worte. Bestimmte Auslegungen greifen in bestimmten Textpassagen ein einzelnes Wort unter Vernachlässigung seines Kontextes und seiner ursprünglichen Bedeutung heraus und geben ihm eine Bedeutung, die nicht den modernen Prinzipien der Exegese entspricht. Dabei ist freilich auf einen grundlegenden Unterschied hinzuweisen. Die Qumrantexte gehen vom Wort der Schrift aus. Bestimmte Texte – wie z. B. der *Pescher* des Habakuk – sind fortlaufende Kommentare des biblischen Textes, die diesen Vers für Vers auf die gegenwärtige Situation hin auslegen. Andere Dokumente bestehen aus Sammlungen von Texten, die sich auf ein gleiches Thema beziehen wie z. B. *11Q Melchisedek* über die messianische Zeit. Das Neue Testament geht demgegenüber vom Kommen Christi aus. Es gilt nicht, die Schrift auf die Gegenwart hin auszulegen, sondern das Kommen Christi im Lichte der Schrift zu erklären und zu deuten. Dies schließt nicht aus, dass dabei die gleichen Auslegungsmethoden verwendet werden, mit z. T. verblüffenden Ähnlichkeiten wie in Röm 10,5-13 und im Hebräerbrief.²⁷
 
-3. *Rabbinische Methoden im Neuen Testament*
+3\. *Rabbinische Methoden im Neuen Testament*
 
 14\. Die traditionellen jüdischen Methoden biblischer Argumentation bei der Erarbeitung sittlicher Handlungsanweisungen – die später durch die Rabbinen verfeinert werden sollten – kommen im Neuen Testament häufig zur Anwendung, sei es in von den Evangelien überlieferten Jesusworten, sei es in den Briefen. Am häufigsten kehren die ersten beiden *Middot* (»Regeln«) Hillels wieder, das *Qal wa-chomer* und die *Gezerah schawah*.²⁸ Sie entsprechen in etwa dem Argument *a fortiori* und durch *Analogie*.
 
@@ -228,7 +228,7 @@ Rabbinische Argumentationen finden sich auch im Epheser- und im Hebräerbrief.³
 
 Eine besondere Form jüdischer Exegese, die im Neuen Testament begegnet, ist die Predigt in der Synagoge. Nach Joh 6,59 hielt Jesus die Lebensbrotrede in der Synagoge von Kafarnaum. Die Form dieser Rede entspricht den synagogalen Homilien im 1. Jahrhundert: Erklärung eines Textes aus dem Pentateuch unter Einbeziehung eines Textes aus den Propheten; jeder Ausdruck des Textes wird erklärt; einzelne Wortformen werden leicht verändert, damit die entsprechenden Worte besser auf die Situation hin ausgelegt werden können. Spuren dieses Modells finden sich möglicherweise in der einen oder anderen Missionsrede der Apostelgeschichte, vor allem in der Predigt des Paulus in der Synagoge von Antiochien in Pisidien (Apg 13,17-41).
 
-4. *Bedeutendere Anspielungen auf das Alte Testament*
+4\. *Bedeutendere Anspielungen auf das Alte Testament*
 
 15\. Das Neue Testament benutzt häufig Anspielungen auf biblische Ereignisse, um den Sinn von Ereignissen im Leben Jesu aufzuzeigen. Die Kindheitsgeschichte nach Matthäus erschließt sich nur auf dem Hintergrund der biblischen und nachbiblischen Erzählungen über Mose. Das Kindheitsevangelium nach Lukas ist stärker mit den biblischen Anspielungen verwandt, wie man sie im 1. Jahrhundert in den Psalmen Salomos oder den Hymnen von Qumran findet. Die Lobgesänge von Maria, Zacharias und Simeon können mit den Hymnen von Qumran verglichen werden.³¹ Bestimmte Ereignisses des Lebens Jesu wie die Theophanie bei seiner Taufe, seine Verklärung, die Brotvermehrung und der Wandel über den See werden augenscheinlich bewusst unter Verwendung von Anspielungen auf Ereignisse und Berichte des Alten Testaments erzählt. Die Reaktion der Zuhörer der Gleichnisse Jesu (etwa der Parabel von den Bösen Winzern, Mt 21,33-43 und Par.) zeigt, dass sie mit einer biblischen Bildwelt vertraut waren, die ihnen eine Botschaft ausrichten oder eine Lehre erteilen wollte.
 
@@ -238,7 +238,7 @@ E. ***Der Umfang des Kanons der Schrift***
 
 16\. Das Wort »Kanon« (vom griechischen *kan(o-)n*, »Regel«) bezeichnet die Liste der Bücher, die als von Gott inspiriert und normativ für Glaube und Sitten gelten. Was uns hier beschäftigt, ist die Frage nach der Ausbildung des alttestamentlichen Kanons.
 
-1. *Im Judentum*
+1\. *Im Judentum*
 
 Es gibt Unterschiede zwischen dem jüdischen Kanon der Heiligen Schrift³² und dem christlichen Kanon des Alten Testaments.³³ Um diesen Unterschied zu erklären, ging man allgemein davon aus, dass es zu Beginn der christlichen Ära im Judentum zwei Formen des Kanons gegeben habe: einen palästinischen Kanon hebräischer Schriften, der später von den Juden als exklusiv angesehen wurde, und einen umfangreicheren alexandrinischen Kanon von Schriften in griechischer Sprache – Septuaginta genannt –, der von den Christen übernommen wurde.
 
@@ -246,11 +246,11 @@ Neuere Untersuchungen und Entdeckungen haben diese Auffassung zweifelhaft werden
 
 Viele Bücher, die zu der dritten, unzulänglich definierten Gruppe religiöser Texte gehörten, wurden von den jüdischen Gemeinden im Laufe der ersten Jahrhunderte n. Chr. regelmäßig gelesen. In griechischer Übersetzung waren sie bei den hellenisierten Juden im Umlauf, und zwar sowohl in Palästina als auch in der Diaspora.
 
-2. *Im Urchristentum*
+2\. *Im Urchristentum*
 
 17\. Da die ersten Christen zumeist Juden aus Palästina waren – als »Hebräer« oder »Hellenisten« (vgl. Apg 6,1) –, dürften ihre Ansichten über die Heilige Schrift diejenigen ihrer Umgebung widergespiegelt haben. Freilich wissen wir wenig über diese Frage. In der Folgezeit lassen die Schriften des Neuen Testamentes erkennen, dass eine sakrale Literatur in den christlichen Gemeinden im Umlauf war, die über den Umfang des hebräischen Schriftenkanons hinausging. Generell zeigen die Verfasser des Neuen Testaments eine Kenntnis der deuterokanonischen Bücher und einer Reihe nichtkanonischer Schriften, denn die Zahl der im Neuen Testament zitierten Bücher geht nicht nur über den hebräischen Kanon hinaus, sondern auch über das, was man insgemein für den alexandrinischen Kanon hält.³⁶ Als sich das Christentum in der hellenistischen Welt ausbreitete, fuhr es fort, sich der Heiligen Bücher zu bedienen, die es vom hellenisierten Judentum übernommen hatte.³⁷ Obwohl die Christen griechischer Muttersprache ihre Heilige Schrift von den Juden in der Form der Septuaginta übernommen hatten, kennen wir doch nicht die genaue Fassung, da uns die Septuaginta nur in christlichen Handschriften überliefert ist. Was die Kirche übernommen zu haben scheint, ist ein Kanon heiliger Schriften, die im Judentum auf dem Wege waren, kanonisch zu werden. Als das Judentum zum Abschluss seines Kanons gelangte, hatte das Christentum eine hinreichende Selbständigkeit gegenüber dem Judentum erlangt, die ihm erlaubte, sich von dieser Entscheidung nicht unmittelbar betreffen zu lassen. Erst zu einer späteln Zeit begann ein geschlossener hebräischer Kanon einen Einfluss auf die christliche Sichtweise auszuüben.
 
-3. *Die Bildung des christlichen Kanons*
+3\. *Die Bildung des christlichen Kanons*
 
 18\. Das Alte Testament der Alten Kirche nahm in den verschiedenen Regionen unterschiedliche Formen an, wie die verschiedenen Listen der patristischen Epoche zeigen. Die Mehrzahl der christlichen Schriftsteller seit dem 2. Jahrhundert und die Bibelhandschriften des 4. Jahrhunderts und der darauffolgenden Jahrhunderte verwenden oder enthalten eine große Zahl heiliger Schriften des Judentums einschließlich von Büchern, die nicht zum hebräischen Kanon zugelassen waren. Erst als die Juden ihren endgültigen Kanon festgelegt hatten, ging die Kirche daran, ihren eigenen Kanon des Alten Testaments abzuschließen. Wir besitzen keine Auskunft darüber, wie man voranging und warum man das eine oder andere Buch in den Kanon aufnahm oder nicht. Gleichwohl lässt sich in groben Zügen die Entwicklung dieses Kanons in der Kirche sowohl des Ostens als auch des Westens nachzeichnen.
 
@@ -268,13 +268,13 @@ Gestützt auf eine jahrhundertealte Überlieferung haben das Konzil von Florenz 
 
 A. ***Christliches Verständnis der Beziehungen zwischen Altem und Neuem Testament***
 
-1. *Behauptung einer Wechselbeziehung*
+1\. *Behauptung einer Wechselbeziehung*
 
 Wenn die christliche Kirche die Schrift des jüdischen Volkes »Altes Testament« nennt, dann hat sie damit in keiner Weise zum Ausdruck bringen wollen, dass diese Schrift veraltet sei und man sich ihrer deswegen entledigen könne.³⁹ Die Kirche hat vielmehr stets betont, dass Altes und Neues Testament untrennbar seien. Ihre grundlegende Beziehung ist eben diese. Als Marcion zu Beginn des 2. Jahrhunderts das Altes Testament verwerfen wollte, stieß er auf den geschlossenen Widerstand der nachapostolischen Kirche. Seine Verwerfung des Alten Testaments führte Marcion im übrigen dazu, auch einen großen Teil des Neuen verwerfen zu müssen – nur das Lukasevangelium und ein Teil der Paulusbriefe blieben übrig –, was deutlich zeigte, dass seine Position unhaltbar war. Im Lichte des Alten Testaments versteht das Neue Testament das Leben, den Tod und die Verherrlichung Jesu (vgl. *1 Kor* 15,3-4).
 
 Doch ist die Beziehung wechselseitig: Auf der einen Seite will das Neue Testament im Lichte des Alten gelesen werden, auf der anderen Seite lädt es aber auch dazu ein, das Alte Testament im Lichte Jesu Christi »neu zu lesen« (vgl. Lk 24,45). Wie geschieht dieses »Wiederlesen«? Es erstreckt sich auf »die gesamte Schrift« (Lk 24,47), auf »alles, was im Gesetz des Mose, bei den Propheten und in den Psalmen ... geschrieben steht« (24,44), doch liefert uns das Neue Testament hierfür nur einige Beispiele, ohne eine theoretische Methode zu bieten.
 
-2. *Wiederlesen des Alten Testaments im Lichte Christi*
+2\. *Wiederlesen des Alten Testaments im Lichte Christi*
 
 Die gegebenen Beispiele zeigen, dass man verschiedene Methoden benutzte, die, wie wir früher gesehen haben,⁴⁰ der Kultur der Umwelt entstammten. Die Texte sprechen von Typologie⁴¹ und von Lesung im Lichte des Geistes (2 Kor 3,14-17). Sie legen den Gedanken einer doppelten Lesung nahe, derjenigen eines ursprünglichen Sinnes, der sich auf den ersten Blick erschließt, und derjenigen eines vertieften Verständnisses, das im Lichte Christi erschlossen wird.
 
@@ -282,7 +282,7 @@ Im Judentum war man gewohnt, Texte in verschiedener Weise neu zu lesen. Das Alte
 
 Die neue Deutung beseitigt nicht den ursprünglichen Sinn. Paulus sagt eindeutig von den Israeliten, dass »ihnen die Worte Gottes anvertraut« sind (Röm 3,2), und er hält es für selbstverständlich, dass diese Worte auch vor dem Kommen Christi gelesen und verstanden werden konnten. Wenn er von einer Verblendung der Juden bei der »Lesung des Alten Testamentes« (2 Kor 3,14) spricht, dann geht es nicht um eine vollständige Unfähigkeit der Lektüre, sondern um die Unfähigkeit zu einer Neulektüre im Lichte Christi.
 
-3. *Allegorisches Wiederlesen*
+3\. *Allegorisches Wiederlesen*
 
 20\. Die Methode der hellenistischen Welt unterschied sich von der soeben dargestellten. Auch auf sie griff die christliche Schriftauslegung zurück. Die Griechen legten zuweilen ihre klassischen Texte aus, indem sie sie in Allegorien verwandelten. Bei der Auslegung alter Dichtungen wie der Werke Homers, in denen sich die Götter wie unberechenbare und rachsüchtige Menschen benehmen, verliehen ihnen die Gelehrten einen vom religiösen und sittlichen Standpunkt aus annehmbareren Sinn. Danach hätte sich der Dichter nur allegorisch ausgedrückt. In Wahrheit habe er unter der Fiktion von Kämpfen unter den Göttern die Konflikte der menschlichen Seele und ihre Leidenschaften beschreiben wollen. In diesem Falle ließ der neue, geistigere Sinn den ursprünglichen Sinn des Textes verschwinden.
 
@@ -294,7 +294,7 @@ Die Kirchenväter und die Schriftsteller des Mittelalters machen freilich von de
 
 Gewiss besaß die dargelegte Lehre ihren Wert, da sie vom Glauben beseelt und von einer Gesamtkenntnis der Schrift im Lichte der Überlieferung geleitet war. Doch stützte sie sich nicht auf den ausgelegten Text. Sie wurde diesem vielmehr hinzugefügt. So blieb es unvermeidlich, dass dieser Zugang zur Schriftauslegung in dem Augenblick, in dem er seine schönsten Früchte zeitigte, doch in eine unwiderrufliche Krise geriet.
 
-4. *Rückkehr zum Literalsinn*
+4\. *Rückkehr zum Literalsinn*
 
 Thomas von Aquin nahm deutlich die unbewusste Voraussetzung wahr, die der allegorischen Schriftauslegung zugrunde lag: der Ausleger konnte an einem Text nur entdecken, was er schon zuvor wusste, doch zu diesem Wissen hätte er nur auf dem Wege über den wörtlichen Schriftsinn eines anderen Textes gelangen können. So lautete die Schlussfolgerung des Thomas von Aquin: Man kann nicht zutreffend vom allegorischen Sinn eines Textes her argumentieren, sondern nur vom Literalsinn her.⁴²
 
@@ -302,7 +302,7 @@ Seit dem Mittelalter hat sich die Rehabilitierung des Literalsinns weiter zunehm
 
 So kam es zu einem umgekehrten Prozess: die Beziehung zwischen dem Alten Testament und den christlichen Wirklichkeiten wurde auf eine begrenzte Zahl von Texten eingeschränkt. Heute besteht die Gefahr, in das entgegengesetzte Extrem zu verfallen, nämlich mit den Übertreibungen der allegorischen Methode alle patristische Exegese und den Gedanken einer christlichen und christologischen Lektüre der Texte des Alten Testaments zu verwerfen. Von da aus ist das Bemühen in der zeitgenössischen Theologie zu verstehen, in unterschiedlicher, noch nicht einhelliger Weise eine christliche Deutung des Alten Testaments neu zu begründen, die frei von Willkür bleibt und dem ursprünglichen Sinn der Texte gerecht wird.
 
-5. *Die Einheit des göttlichen Heilsratschlusses* *und der Gedanke der Erfüllung*
+5\. *Die Einheit des göttlichen Heilsratschlusses* *und der Gedanke der Erfüllung*
 
 21\. Die theologische Grundvoraussetzung besteht darin, dass der göttliche Heilsratschluss, der in Christus seinen Höhepunkt findet (vgl. Eph 1,3-14), einer und derselbe ist, sich aber fortschreitend und durch die Zeiten hindurch verwirklicht hat. Der Aspekt der Einheitlichkeit und derjenige der schrittweisen Verwirklichung sind gleicherweise wichtig, und ebenso die Kontinuität in bestimmten Punkten und die Diskontinuität in anderen. Von Anfang an ist Gottes Handeln an den Menschen auf eine endgültige Fülle hin ausgerichtet, und so beginnen sich bestimmte Aspekte, die sich als bleibend erweisen werden, abzuzeichnen: Gott offenbart sich, er beruft, er vertraut Sendungen an, er verheißt, befreit, schließt einen Bund. Die ersten Formen der Verwirklichung lassen, so vorläufig und unvollkommen sie auch noch sein mögen, bereits etwas von der endgültigen Fülle erahnen. Dies zeigt sich in besonderer Weise bei einigen großen Themen, die sich innerhalb der gesamten Bibel entwickeln, von der Genesis bis zur Offenbarung des Johannes: der Weg, das Festmahl oder Gottes Wohnen unter den Menschen.
 
@@ -314,7 +314,7 @@ Die erste Aufgabe des Propheten besteht darin, seinen Zeitgenossen zu ermöglich
 
 Auf der anderen Seite darf die Feststellung einer Diskontinuität zwischen dem einen und dem anderen Testament und einer Überschreitung der alten Perspektiven nicht zu einer einseitigen Spiritualisierung der Texte führen. Was sich in Christus bereits erfüllt hat, das muss sich in uns und in der Welt noch erfüllen. Die endgültige Vollendung wird die des Endes sein, mit der Auferstehung der Toten und dem neuen Himmel und der neuen Erde. Die jüdische Messiaserwartung ist nicht gegenstandslos. Sie kann für uns Christen ein starker Ansporn sein, die eschatologische Dimension unseres Glaubens lebendig zu erhalten. Wir wie sie leben von der Erwartung. Der Unterschied ist nur, dass Derjenige, der kommen wird, die Züge Jesu tragen wird, der schon gekommen ist, unter uns gegenwärtig ist und handelt.
 
-6. *Aktuelle Perspektiven*
+6\. *Aktuelle Perspektiven*
 
 Das Alte Testament besitzt aus sich heraus einen ungeheuren Wert als Wort Gottes. Die Lesung des Alten Testamentes durch Christen bedeutet nicht, dass man in ihm überall direkte Verweise auf Jesus oder auf die christlichen Wirklichkeiten finden will. Gewiss bewegt sich für die Christen die gesamte alttestamentliche Heilsökonomie auf Christus zu; wenn man deshalb das Alte Testament im Lichte Christi liest, kann man rückblickend etwas von dieser Bewegung erfassen. Aber da sich diese Bewegung innerhalb der Geschichte langsam und auf verschlungenen Pfaden vollzieht, hat jedes Ereignis und hat jeder Text seinen bestimmten Platz auf diesem Wege, mehr oder weniger weit von der Vollendung entfernt. Solche Texte rückblickend mit den Augen von Christen zu lesen bedeutet, zugleich die Bewegung auf Christus hin und den Abstand gegenüber Christus wahrzunehmen, die Vorankündigung und die Unähnlichkeit. Umgekehrt kann das Neue Testament nur im Lichte des Alten voll verstanden werden.
 
@@ -322,7 +322,7 @@ Die christliche Deutung des Alten Testamentes ist demnach eine Interpretation, d
 
 Wenn der christliche Leser wahrnimmt, dass die innere Dynamik des Alten Testaments in Jesus gipfelt, handelt es sich hier um eine rückschauende Wahrnehmung, deren Ausgangspunkt nicht in den Texten als solchen liegt, sondern in den Ereignissen des Neuen Testaments, die von der apostolischen Predigt verkündigt worden sind. So darf man nicht sagen, der Jude sähe nicht, was in den Texten angekündigt worden sei. Vielmehr gilt, dass der Christ im Lichte Christi und im Geiste in den Texten einen Sinnüberschuss entdeckt, der in ihnen verborgen lag.
 
-7. *Der Beitrag der jüdischen Schriftlesung*
+7\. *Der Beitrag der jüdischen Schriftlesung*
 
 22\. Die Umwälzungen, die durch die Ausrottung der Juden (die *Schoa*) während des Zweiten Weltkriegs ausgelöst wurden, haben alle Kirchen dazu geführt, ihre Beziehung zum Judentum von Grund auf neu zu überdenken und dementsprechend auch ihre Interpretation der jüdischen Bibel, des Alten Testamentes. Manche haben sich die Frage gestellt, ob die Christen sich nicht vorwerfen müssen, sich die jüdische Bibel angeeignet zu haben durch eine Lesart, in der kein Jude sich wieder findet. Müssen die Christen von nun diese Bibel wie die Juden lesen, um voll ihrem jüdischen Ursprung gerecht zu werden?
 
@@ -334,7 +334,7 @@ Auf dem konkreten Feld der Exegese können die Christen gleichwohl viel von der 
 
 B. ***Gemeinsame Grundthemen***
 
-1. *Offenbarung Gottes*
+1\. *Offenbarung Gottes*
 
 23\. *Ein Gott, der zu den Menschen spricht*. Der Gott der Bibel ist ein Gott, der in Austausch mit den Menschen tritt und zu ihnen spricht. Die Bibel beschreibt, wie Gott in unterschiedlicher Weise die Initiative ergreift, um kraft der Erwählung Israels mit den Menschen in Kommunikation zu treten. Gott lässt sein Wort entweder unmittelbar oder durch Boten vernehmen.
 
@@ -380,7 +380,7 @@ Die Rolle, die beim Schöpfungsakt im Alten Testament der Weisheit zuerkannt wir
 
 Auf der anderen Seite wird die Auferstehung Christi als der Anbruch einer neuen Schöpfung verstanden, so dass gilt: »Wenn jemand also in Christus ist, dann ist er eine neue Schöpfung«.⁶⁵ Angesichts der Verstrickung der Menschen in Sünden bestand der Heilsplan Gottes in Christus in einer Neuschöpfung. Wir werden dieses Thema weiter unten erneut aufgreifen, nachdem wir über die Lage der Menschheit gesprochen haben.
 
-2. *Der Mensch: Größe und Elend*
+2\. *Der Mensch: Größe und Elend*
 
 a\) *Im Alten Testament*
 
@@ -432,7 +432,7 @@ Das Gesetz konnte die Sünde nicht heilen, denn der Sünder muss, auch wenn er d
 
 In einer ganz anderen Sprache, aber noch kraftvoller bezeugt die Offenbarung des Johannes die verheerenden Auswirkungen des Bösen in der Menschenwelt. Sie beschreibt »Babylon«, »die große Hure«, die mit ihren Freveln »die Könige der Erde« und »die Einwohner der Erde« mit sich zog und »betrunken war vom Blut der Heiligen und vom Blut der Zeugen Jesu« (Offb 17,1-6). »Ihre Sünden haben sich bis zum Himmel aufgetürmt« (18,5). Das Böse löst schreckliche Plagen aus. Aber es wird nicht das letzte Wort behalten. Babylon fällt (18,2). Vom Himmel steigt »die heilige Stadt, das neue Jerusalem«, »die Wohnung Gottes unter den Menschen« (21,2-3). Der Ausbreitung des Bösen wirkt das Heil entgegen, das von Gott kommt.
 
-3. *Gott als Befreier und Retter*
+3\. *Gott als Befreier und Retter*
 
 a\) *Im Alten Testament*
 
@@ -470,7 +470,7 @@ Der Rettertitel wird in besonderer Weise dem auferstandenen Jesus zugeschrieben,
 
 Dieses Heil war dem Volke Israel verheißen, doch die »Völker« können nunmehr an ihm teilhaben, denn »das Evangelium ist eine Kraft Gottes, die jeden rettet, der glaubt, zuerst den Juden, aber ebenso den Griechen«. ¹⁰⁴ Die Hoffnung auf das Heil, die sich so häufig und so kraftvoll im Alten Testament bekundet, findet ihre Erfüllung im Neuen Testament.
 
-4. *Die Erwählung Israels*
+4\. *Die Erwählung Israels*
 
 a\) *Im Alten Testament*
 
@@ -524,7 +524,7 @@ Paulus bemerkt gleichwohl unverzüglich, dass es nicht ausreicht, physisch zu Is
 
 Aufgrund unserer gemeinsamen Wurzeln und dieser eschatologischen Perspektive erkennt die Kirche dem jüdischen Volk eine Sonderrolle als »älterer Bruder« zu, was ihm eine einmalige Stellung unter allen anderen Religionen verleiht. ¹²⁶
 
-5. *Der Bund*
+5\. *Der Bund*
 
 a\) *Im Alten Testament*
 
@@ -600,7 +600,7 @@ Der »Bund« Gottes mit David wird im Neuen Testament nicht ausdrücklich erwäh
 
 *Die Folgerung*, die sich aus diesen Texten ergibt, lautet, dass die ersten Christen das Bewusstsein besaßen, sich in einer tiefen geschichtlichen Übereinstimmung mit dem Plan eines Bundes zu befinden, den der Gott Israels im Alten Testament geoffenbart und verwirklicht hat. Israel steht weiter zu Gott in einer Bundesbeziehung, denn der Verheißungsbund ist endgültig und kann nicht außer Kraft gesetzt werden. Doch hatten die ersten Christen das Bewusstsein, in einer neuen Phase dieses Planes zu leben, die durch die Propheten angekündigt worden war und durch das Blut Christi heraufgeführt wurde, das »Bundesblut«, das seinen Namen dadurch verdiente, dass es aus Liebe vergossen war (vgl. Offb 1,5b-6).
 
-6. *Das Gesetz*
+6\. *Das Gesetz*
 
 43\. Das hebräische Wort *thora*, das man gewöhnlich mit »Gesetz« wiedergibt, meint genauer »Unterweisung«, d. h. gleichzeitig Belehrung und Weisung. Die *Thora* ist die höchste Quelle der Weisheit. ¹⁴⁵ Das Gesetz nimmt in den Heiligen Schriften und im religiösen Leben des jüdischen Volkes von der biblischen Zeit an bis heute eine zentrale Stelle ein. Deswegen musste die Kirche von der apostolischen Zeit an ihre Einstellung gegenüber dem Gesetz definieren nach dem Beispiel Jesu selbst, der ihm kraft seiner Autorität als Sohn Gottes eine eigene Bedeutung zugewiesen hatte. ¹⁴⁶
 
@@ -650,7 +650,7 @@ Für den *Jakobusbrief* wie für die erste christliche Gemeinde dienen die sittl
 
 Dies letzte Beispiel zeigt zugleich die Vielfalt der Einstellungen, die sich im Neuen Testament gegenüber dem Gesetz finden, aber auch deren grundlegende Übereinstimmung. Jakobus verkündigt nicht, wie Paulus und der Hebräerbrief, das Ende der Herrschaft des Gesetzes, doch stimmt er mit Matthäus, Markus, Lukas und Paulus darin überein, dass er den Primat nicht des Dekalogs, wohl aber des Gebots der Nächstenliebe (Lev 19,18) unterstreicht, das dazu führt, den Dekalog zu beachten, und noch darüber hinaus führt. So stützt sich das Neue Testament auf das Alte. Es liest es im Licht Christi, der das Liebesgebot bekräftigt und ihm eine neue Dimension verliehen hat: »Liebt einander! Wie ich euch geliebt habe, so sollt auch ihr einander lieben« (Joh 13,34; 15,12), d. h. bis zur Hingabe des Lebens. Auf diese Weise wird das Gesetz mehr als erfüllt.
 
-7. *Das Gebet und der Gottesdienst, Jerusalem und der Tempel*
+7\. *Das Gebet und der Gottesdienst, Jerusalem und der Tempel*
 
 a\) *Im Alten Testament*
 
@@ -734,7 +734,7 @@ In der Zwischenzeit spielt Jerusalem weiter eine wichtige Rolle. In der Theologi
 
 So wird die Kirche dank einer symbolischen Vertiefung, die bereits im Alten Testament angefangen hat, stets die Bande anerkennen, die sie auf innigste mit der Geschichte Jerusalems und seines Tempels ebenso wie mit dem Gebet und dem Gottesdienst Israels verbinden.
 
-8. *Göttliche Vorwürfe und Urteilssprüche*
+8\. *Göttliche Vorwürfe und Urteilssprüche*
 
 a\) *Im Alten Testament*
 
@@ -772,7 +772,7 @@ Die Christen selbst bleiben nicht ohne Vorwürfe. Der Brief an die Galater enth�
 
 Die Briefe des Verfassers der Offenbarung des Johannes »an die sieben Gemeinden« (Offb 1,11) zeigen die Verschiedenheit der Lebenssituationen der damaligen christlichen Gemeinden auf. Fast alle diese Briefe – fünf von sieben – beginnen mit einem Lob; zwei bestehen sogar nur aus einem Lob der Gemeinde, doch enthalten die fünf verbleibenden jeweils z. T. schwerwiegende Vorwürfe in Verbindung mit der Androhung von Strafen. Die Vorwürfe sind in der Regel allgemein gehalten (»Du hast deine erste Liebe verlassen«: 2,4; »dem Namen nach lebst du, aber du bist tot«: 3,1); gelegentlich fallen die Vorwürfe auch deutlicher aus, etwa wenn die Duldsamkeit gegenüber der »Lehre der Nikolaiten« (2,15) oder die Beteiligung am Götzendienst (2,14.21) kritisiert wird. Alle Briefe bezeugen, »was der Geist den Gemeinden sagt«. ²³⁸ Sie zeigen, dass die christlichen Gemeinden zumeist Vorwürfe verdienen und dass der Geist sie zur Umkehr ruft. ²³⁹
 
-9. *Die Verheißungen*
+9\. *Die Verheißungen*
 
 54\. Zahlreiche Verheißungen Gottes im Alten Testament werden im Neuen Testament im Licht Jesu Christi neu gelesen. Diese Tatsache führt zu einer Reihe von delikaten und aktuellen Fragen, die den Dialog zwischen Juden und Christen berühren; sie betreffen die Legitimität einer Auslegung der Verheißungen jenseits ihres unmittelbaren ursprünglichen Sinnes. Wer gehört rechtmäßig zur Nachkommenschaft Abrahams? Ist das Gelobte Land zunächst und vor allem eine geographische Größe? Welchen Horizont der Zukunft behält der Gott der Offenbarung Israel, dem von Anfang an auserwählten Volke vor? Was wird aus der Erwartung der Herrschaft Gottes? Was aus derjenigen des Messias?
 
@@ -888,7 +888,7 @@ C. ***Ergebnis***
 
 64\. Die christlichen Leser sind überzeugt, dass ihre Deutung des Alten Testamentes, so sehr sie sich auch von derjenigen des Judentums unterscheiden mag, doch einer Sinnmöglichkeit der Texte entspricht. Wie bei der Entwicklung eines Films haben Jesus und die ihn betreffenden Ereignisse in der Schrift eine Sinnfülle freigelegt, die vorher nicht wahrzunehmen war. Diese Sinnfülle schafft zwischen dem Neuen und dem Alten Testament eine dreifache Beziehung: die der Kontinuität, die der Diskontinuität und die der Progression.
 
-1. *Kontinuität*
+1\. *Kontinuität*
 
 Das Neue Testament erkennt nicht nur die Autorität der jüdischen Schrift an und versucht durchgängig zu zeigen, dass die »neuen« Ereignisse dem entsprechen, was angekündigt worden ist (s. Kap. 1); es nimmt auch voll die großen Themen der Theologie Israels auf mit ihrem dreifachen Verweis auf Gegenwart, Vergangenheit und Zukunft.
 
@@ -898,11 +898,11 @@ Die übrigen Themen haben sich im Rahmen einer besonderen Geschichte entfaltet: 
 
 Diese eröffnet dem auserwählten Volk wunderbare Zukunftsperspektiven: Nachkommenschaft (Verheißung an Abraham), ein Zuhause (ein Land), dauerhaften Fortbestand trotz aller Krisen und Prüfungen (dank der Treue Gottes) und das Kommen einer idealen politischen Ordnung (die Herrschaft Gottes, der Messianismus). Von Anfang an kündigt sich eine universale Ausstrahlung des Abrahamssegens an. Das von Gott verliehene Heil soll die äußersten Ende der Erde erreichen. In der Tat bietet Jesus Christus das Heil der ganzen Welt an.
 
-2. *Diskontinuität*
+2\. *Diskontinuität*
 
 Gleichwohl lässt sich nicht leugnen, dass der Übergang vom einen zum andern Testament auch Brüche mit sich bringt. Diese stellen die Kontinuität nicht in Frage. Sie setzen sie vielmehr in den wesentlichen Punkten voraus. Immerhin betreffen sie ganze Bereiche des Gesetzes: Institutionen wie das levitische Priestertum und den Tempel von Jerusalem; Gottesdienstformen wie die Tieropfer; religiöse und rituelle Bräuche wie die Beschneidung, die Regeln über Rein und Unrein oder die Speisegesetze; unvollkommene Gesetze wie dasjenige über die Scheidung oder enge Gesetzesinterpretationen wie bei den Sabbatvorschriften. Es liegt auf der Hand, dass es sich hier von einem bestimmten Gesichtspunkt aus – dem des Judentums – um bedeutende Elemente handelt, die verschwinden. Aber es ist ebenso offensichtlich, dass die im Neuen Testament vorgenommene grundlegende Akzentverschiebung bereits im Alten Testament vorbereitet war und demnach eine berechtigte potentielle Lesart des Alten Testaments darstellt.
 
-3. *Progression*
+3\. *Progression*
 
 65\. Die Diskontinuität in einigen Punkten ist nur die negative Seite einer Wirklichkeit, deren positive Seite Progression heißt. Das Neue Testament bezeugt, dass Jesus, weit davon entfernt, sich der israelitischen Schrift zu widersetzen, ihr ein Ende zu bereiten oder sie außer Kraft zu setzen, sie in seiner Person, in seiner Sendung und ganz besonders in seinem Ostergeheimnis zur Vollendung bringt. In der Tat entzieht sich keines der großen Themen der Theologie des Alten Testaments der neuen Sicht im Lichte Christi.
 
@@ -920,7 +920,7 @@ So spricht für die Christen der Gott der Offenbarung mit dem Kommen Christi und
 
 A. ***Unterschiedliche Ausprägungen des nachexilischen Judentums***
 
-1. *Die letzten Jahrhunderte vor Christus*
+1\. *Die letzten Jahrhunderte vor Christus*
 
 Der Ausdruck »Judentum« ist geeignet, den Abschnitt der israelitischen Geschichte zu bezeichnen, der 538 v. Chr. mit der Entscheidung des Perserreiches beginnt, den Wiederaufbau des Tempels in Jerusalem zu genehmigen. Die Religion des Judentums verdankte sich in vielfacher Weise der Religion im Königreich Juda vor dem Exil. Der Tempel wurde wiederaufgebaut; Opfer wurden dargebracht; Hymnen und Psalmen wurden gesungen und die Pilgerfeste neu gefeiert. Das Judentum erhielt eine besondere religiöse Färbung durch die Verkündigung des Gesetzes durch Esra (Neh 8,1-12) zur Perserzeit. Nach und nach wurden die Synagogen ein bedeutsamer Faktor des jüdischen Lebens. Unterschiedliche Einstellungen gegenüber dem Tempel führten rasch zu Spaltungen innerhalb des Judentums vor 70 n. Chr., wie man aus der samaritanischen Abspaltung und aus den Schriftrollen von Qumran ersehen kann. Spaltungen aufgrund unterschiedlicher Auslegungen des Gesetzes gab es nach 70 n. Chr. wie auch schon vorher.
 
@@ -936,7 +936,7 @@ Die *Pharisäer* waren keine priesterliche Bewegung. Anscheinend störte sie die
 
 Die Beziehungen zwischen den verschiedenen Gruppen waren gelegentlich äußerst gespannt bis hin zu offener Feindseligkeit. Es ist gut, sich diese Feindseligkeit im Gedächtnis zu halten, wenn man die religiös bedingte Hostilität im Neue Testament verstehen will. Einige Hohepriester waren für eine Reihe von Gewalttaten verantwortlich. So trachtete ein Hoherpriester, dessen Namen wir nicht kennen, vermutlich gegen Ende des 2. Jahrhunderts v. Chr., dem Lehrer der Gerechtigkeit von Qumran während der Feier des Jom Kippur nach dem Leben. Die Schriften von Qumran überschütten die sadduzäische Hierarchie von Jerusalem mit Anklagen als schlechte Priester, die das Gesetz missachten, und sie malen auch die Pharisäer in schwarzen Farben. Während sie den Lehrer der Gerechtigkeit preisen, denunzieren sie eine andere Gestalt (einen Essener?) als Unruhestifter und Lügner, der mit dem Schwert alle verfolgte, »die in Vollkommenheit wandeln« (Damaskusschrift Ms. A, I.20). Diese Zwischenfälle trugen sich vor der Zeit Herodes' des Großen und vor den römischen Prokuratoren in Judäa, also vor der Zeit Jesu zu.
 
-2. *Das erste Drittel des 1. Jahrhunderts n. Chr. in Palästina*
+2\. *Das erste Drittel des 1. Jahrhunderts n. Chr. in Palästina*
 
 67\. In diesen Zeitabschnitt fällt das Leben Jesu. Nur hat es ein wenig früher begonnen, da Jesus vor dem Tode Herodes' des Großen geboren wurde, der im Jahre 4 vor unserer Zeitrechnung starb. Vor dessen Tod teilte Augustus das Königreich unter die drei Söhne des Herodes: Archelaus (Mt 2,22), Herodes Antipas (14,1 usw.) und Philippus (16,13; Lk 3,1) auf. Nachdem die Regierung des Archelaus zu Unruhe unter seinen Untertanen geführt hatte, unterstellte Augustus dessen Land, Judäa, unverzüglich der römischen Verwaltung.
 
@@ -954,7 +954,7 @@ Was die Beziehung Jesu zu den Heiden und ihrer Denkwelt anlangt, so gibt es erne
 
 Welche Beziehung hatten die ersten Jünger Jesu zu ihrem jüdischen religiösen Umfeld? Die Zwölf und andere werden die galiläische Mentalität Jesu besessen haben, wobei freilich die Gegend am Galiläischen Meer, wo sie wohnten, kosmopolitischer war als Nazaret. Das Vierte Evangelium berichtet, dass Jesus Jünger von Johannes dem Täufer gewann (Joh 1,35-41), dass er Jünger aus Judäa hatte (19,38) und dass er ein ganzes Dorf der Samaritaner zum Glauben führen konnte (4,39-42). So konnte der Kreis seiner Jünger die ganze Vielfalt des damaligen Palästina widerspiegeln.
 
-3. *Das zweite Drittel des 1. Jahrhunderts n. Chr.*
+3\. *Das zweite Drittel des 1. Jahrhunderts n. Chr.*
 
 68\. Der erste Zeitabschnitt der direkten römischen Herrschaft in Judäa endete in den Jahren 39-40. Herodes Agrippa I., ein Freund des Kaisers Caligula (37-41) und des neuen Kaisers Claudius (41-54), wurde König von ganz Palästina (41-44). Er sicherte sich die Gunst der jüdischen religiösen Führungsschicht und versuchte den Eindruck eines frommen Mannes zu vermitteln. In Apg 12 schreibt ihm Lukas eine Verfolgung und die Hinrichtung von Jakobus, dem Bruder des Johannes und Sohn des Zebedäus zu. Nach dem Tode des Agrippa, der in Apg 12,20-23 in dramatisierter Form beschrieben wird, begann eine neue Zeit römischer Herrschaft.
 
@@ -962,7 +962,7 @@ In diesem zweiten Drittel des 1. Jahrhunderts wurden die Jünger des auferstande
 
 Die römischen Statthalter der Jahre 44-66 waren skrupellos, korrupt und unredlich. Ihre schlechte Regierungsweise führte zum Aufkommen der »Sikarier« (mit Dolchen bewaffneter Terroristen) und der »Zeloten« (gnadenloser Eiferer für das Gesetz) und schließlich zu einem großen jüdischen Aufstand gegen die Römer. Umfangreiche römische Truppenkontingente und die besten Generäle bemühten sich, diesen Aufstand niederzuschlagen. Für die Christen war ein herausragendes Ereignis die Hinrichtung des »Herrenbruders« Jakobus im Jahre 62 n. Chr. im Gefolge einer Entscheidung des Hohen Rates, der durch den Hohenpriester Ananus (Hannas) II. zusammengerufen worden war. Dieser Hohepriester wurde durch den Statthalter Albinus wegen Amtsmissbrauchs abgesetzt. Nur zwei Jahre später, nach dem großen Brand, der Rom im Juli des Jahres 64 n. Chr. verwüstet hatte, verfolgte der Kaiser Nero (54-68) die Christen in der Hauptstadt. Nach einer sehr alten Überlieferung starben die Apostel Petrus und Paulus zu diesem Zeitpunkt als Märtyrer. So kann man mit aller Vorsicht das letzte Drittel des 1. Jahrhunderts bereits das postapostolische Zeitalter nennen.
 
-4. *Das letzte Drittel des 1. Jahrhunderts*
+4\. *Das letzte Drittel des 1. Jahrhunderts*
 
 69\. Der jüdische Aufstand 66-70 und die Zerstörung des Tempels von Jerusalem führten zu drastischen Veränderungen in der Konstellation der religiösen Gruppen des Heiligen Landes. Die Revolutionäre (Sikarier, Zeloten und andere) wurden eliminiert. Die Niederlassung von Qumran wurde im Jahre 68 zerstört. Das Ende der Opfer im Tempel schwächte die Machtgrundlage der sadduzäischen Oberschicht, die sich aus Priesterfamilien rekrutierte. Wir wissen nicht, in welchem Umfang das rabbinische Judentum auf die Pharisäer zurückgeht. Sicher ist, dass nach 70 n. Chr. rabbinische Lehrmeister, »die Weisen Israels«, in zunehmendem Maße als die Wegweiser des Volkes anerkannt wurden. Jene von ihnen, die in Jamnia (Javne) an der palästinischen Küste versammelt waren, wurden von den römischen Autoritäten als Wortführer der Juden angesehen. Von etwa 90 bis 110 n. Chr. führte Gamaliel II., Sohn und Enkel berühmter Ausleger des Gesetzes, den Vorsitz der »Versammlung« von Jamnia. Wenn die christlichen Schriften aus dieser Zeit vom Judentum sprechen, dann tun sie es zunehmend unter dem Einfluss der Beziehungen zu diesem in Entstehung befindlichen rabbinischen Judentum. Auf manchen Gebieten war der Konflikt zwischen den Leitern der Synagogen und den Jüngern Jesu scharf. Man kann das einerseits der Verhängung des Synagogenbannes gegen diejenigen entnehmen, »die Jesus als Messias bekennen würden« (Joh 9,22), anderseits der starken antipharisäischen Polemik von Mt 23 sowie dem von außen erfolgenden Verweis auf »*ihre* Synagogen«, in denen die Jünger Jesu gegeißelt werden würden (Mt 10,17). Oft nennt man in diesem Zusammenhang die *Birkat ha-minim*, den synagogalen »Segen« (in Wirklichkeit eher Fluch) gegen die Abweichler. Seine Datierung um 85 n. Chr. ist ungewiss, und die Meinung, er sei ein allgemeines jüdisches Dekret gegen die Christen, sicher unrichtig. Doch kann man nicht sinnvoll bezweifeln, dass die örtlichen Synagogen von einem von Ort zu Ort verschiedenen Zeitpunkt an die Gegenwart der Christen nicht mehr ertrugen und dass sie die Christen Züchtigungen unterwarfen, die bis zur Hinrichtung gehen konnten (Joh 16,2). ³¹⁴
 
@@ -974,7 +974,7 @@ B. ***Die Juden in den Evangelien und in der Apostelgeschichte***
 
 Das Evangelium wurde zunächst von vielen Juden freudig aufgenommen, doch stieß es auf den Widerstand der jüdischen Führer, denen sich schließlich die Mehrheit des Volkes anschloss. So kam es zwischen den jüdischen und den christlichen Gemeinden zu einer Konfliktsituation, die selbstverständlich die Abfassung der Evangelien und der Apostelgeschichte beeinflusst hat.
 
-1. *Das Matthäusevangelium*
+1\. *Das Matthäusevangelium*
 
 Die Beziehungen zwischen dem Ersten Evangelium und der jüdischen Welt sind besonders eng. Zahlreiche Einzelzüge dieses Evangeliums zeigen eine große Vertrautheit mit der Schrift, den Überlieferungen und der Mentalität des jüdischen Milieus. Stärker als Markus und Lukas hebt Matthäus die jüdische Herkunft Jesu hervor; sein Stammbaum stellt ihn vor als »Sohn Davids, Sohn Abrahams« (Mt 1,1) und geht darüber hinaus zeitlich nicht zurück. Die Bedeutung des Namens Jesus wird unterstrichen: Der Sohn Mariens wird so genannt werden, »denn er wird sein Volk von seinen Sünden erlösen« (1,21). Die Sendung Jesu richtet sich während seiner Lebzeiten allein auf »die verlorenen Schafe des Hauses Israel« (15,24), und die gleiche Begrenzung schreibt er auch der ersten Sendung der Zwölf vor (10,5-6). Häufiger als die anderen Evangelisten hebt Matthäus hervor, dass die Ereignisse des Lebens Jesu »geschahen, damit sich erfüllte, was von den Propheten gesagt worden ist« (2,23). Jesus selbst legt Wert darauf klarzustellen, dass er nicht gekommen ist, um das Gesetz abzuschaffen, sondern um es zu erfüllen (5,17).
 
@@ -994,7 +994,7 @@ Wie der Ruf des Volkes im Passionsbericht (27,25), so zeigt auch der Schluss der
 
 *Ergebnis*. Mehr als die anderen synoptischen Evangelien ist das Matthäusevangelium ein Evangelium der Erfüllung – Jesus ist nicht gekommen, um abzuschaffen, sondern um zu erfüllen – und unterstreicht deswegen den Aspekt der Kontinuität mit dem Alten Testament, der für den Gedanken der Erfüllung grundlegend ist. Dieser Aspekt erlaubt es dann auch, geschwisterliche Bande zwischen den Christen und den Juden zu knüpfen. Auf der anderen Seite spiegelt das Matthäusevangelium freilich auch eine Situation der Spannung und des Konflikts zwischen den beiden Gemeinschaften wider. Jesus sieht hier voraus, dass seine Jünger in den Synagogen gegeißelt und von Stadt zu Stadt vertrieben werden würden (23,34). So bemüht sich Matthäus, die Leser auf die Verteidigung vorzubereiten. Nachdem sich die Lage grundsätzlich gewandelt hat, darf die Polemik des Matthäus auf die Beziehung zwischen Christen und Juden nicht mehr durchschlagen, und der Aspekt der Kontinuität darf und muss überwiegen. Das gleiche gilt von der Voraussage des Untergangs Jerusalems und des Tempels. Dieser Untergang gehört einer Vergangenheit an, die heute nur noch tiefes Mitlied wecken sollte. Die Christen müssen sich streng davor hüten, die Verantwortung für diese Katastrophe den späteren Generationen des jüdischen Volkes anzulasten, und sollen sich vor Augen halten, dass Gott nach der Verhängung einer Strafe stets neue positive Perspektiven eröffnet.
 
-2. *Das Markusevangelium*
+2\. *Das Markusevangelium*
 
 72\. Das Markusevangelium ist eine Heilsbotschaft, deren Adressaten nicht genauer angegeben werden. Der Schluss, der ihm hinzugefügt worden ist, richtet es kühn an »alle Geschöpfe« »in der ganzen Welt« (16,15), was seiner universalistischen Öffnung entspricht. Über das jüdische Volk gibt Markus, selbst ein Jude, selbst kein Gesamturteil ab. Das negative Urteil des Propheten Jesaja (Jes 29,13) wird von Markus nur auf die Pharisäer und auf die Schriftgelehrten bezogen (Mk 7,5-7). Abgesehen von dem Titel »König der Juden«, der im Leidensbericht fünfmal auf Jesus bezogen wird, ³¹⁸ kommt das Wort »Juden« nur noch einmal in diesem Evangelium vor, und zwar im Rahmen der Erklärung jüdischer Bräuche (7,3), die sich natürlich an nicht-jüdische Leser richtet. Diese Erklärung steht im Kontext einer Begebenheit, in der Jesus das übertriebene Festhalten der Pharisäer an den »Überlieferungen der Alten« anprangert, das sie »Gottes Gebot« vernachlässigen lässt (7,8). Markus nennt »Israel« nur zweimal, ³¹⁹ und ebenso »das Volk«. ³²⁰ Dafür spricht er sehr häufig von der »Volksmenge«, die sich natürlich vor allem aus Juden zusammensetzt, und diese Menge ist Jesus sehr zugetan ³²¹ außer bei einer Szene der Passion, wo die Hohenpriester sie drängen, ihm Barabbas vorzuziehen (15,11).
 
@@ -1012,7 +1012,7 @@ Den Hohen Rat macht Markus dafür verantwortlich, Jesus »verurteilt« zu haben 
 
 Demgegenüber ist festzuhalten, dass das Leiden Jesu Teil eines geheimnisvollen Planes Gottes, eines Heilsplans ist, denn Jesus ist gekommen, »um zu dienen und sein Leben hinzugeben als Lösegeld für viele« (10,45), und er hat aus seinem vergossenen Blut ein »Blut des Bundes« (14,24) gemacht.
 
-3. *Das Lukasevangelium und die Apostelgeschichte*
+3\. *Das Lukasevangelium und die Apostelgeschichte*
 
 73\. Mit ihrer Widmung an den »hochverehrten Theophilus« und dem Ziel, seiner christlichen Unterweisung zu dienen (Lk 1,3-4; Apg 1,1), erweisen sich das Lukasevangelium und die Apostelgeschichte als Schriften, die zur gleichen Zeit sehr offen für den Universalismus und sehr freundlich gegenüber Israel eingestellt sind.
 
@@ -1054,7 +1054,7 @@ Ergebnis
 
 Im Werk des Lukas kommt ohne Zweifel eine tiefe Hochachtung gegenüber dem Judentum zum Ausdruck, insofern es eine herausragende Rolle im göttlichen Heilsplan spielt. Freilich zeigen sich im Laufe des lukanischen Berichts tiefe Spannungen. Dabei mildert Lukas den polemischen Ton, den man in den anderen synoptischen Evangelien findet. Dennoch kann Lukas die Tatsache nicht übergehen – und will es auch nicht –, dass Jesus auf grundlegende Ablehnung vonseiten der Autoritäten seines Volkes stieß und dass die apostolische Verkündigung später das gleiche Schicksal erlitt. Wenn die Tatsache, dass man nüchtern von den Äußerungen dieses jüdischen Widerstands berichtet, bereits Antijudaismus ist, dann könnte man Lukas Antijudaismus vorwerfen. Doch ist diese Sicht klar zurückzuweisen. Der Antijudaismus besteht vielmehr in der Verwünschung der Verfolger und im Hass gegen sie und ihr ganzes Volk. Die Botschaft des Evangeliums lädt demgegenüber die Christen ein, denen Gutes zu tun, die sie hassen, und für die zu beten, die sie misshandeln (Lk 6,27-28), entsprechend dem Beispiel Jesu (23,34) und des ersten christlichen Märtyrers Stephanus (Apg 7,60). Das ist eine der grundlegenden Lehren des lukanischen Werks. Es ist zu bedauern, dass sie im Laufe der späteren Jahrhunderte nicht treuer befolgt wurde.
 
-4. *Das Johannesevangelium*
+4\. *Das Johannesevangelium*
 
 76\. Über die Juden enthält das Vierte Evangelium die positivste Aussage, die man sich wünschen kann, und zwar aus dem Munde Jesu in seinem Gespräch mit der Samariterin: »Das Heil kommt von den Juden« (Joh 4,22). ³²⁷ Auf der anderen Seite erkennt der Evangelist in dem Wort des Hohenpriesters Kajafas, nach dem es »besser« sei, »wenn ein einziger Mensch für das Volk stirbt«, eine Eingebung Gottes und betont, dass Jesus »für das Volk sterben musste«, mit der Verdeutlichung, »nicht nur für das Volk, sondern auch, um die versprengten Kinder Gottes wieder zu sammeln« (Joh 11,49-52). Der Evangelist zeigt eine gute Kenntnis des Judentums, seiner Feste und seiner Schrift. Der Wert des jüdischen Erbes wird eindeutig anerkannt: Abraham sah den Tag Jesu und freute sich (8,56); das Gesetz ist von Gott durch die Vermittlung des Mose gegeben (1,17); »die Schrift kann nicht aufgehoben werden« (10,35); Jesus ist »der, über den Mose im Gesetz und auch die Propheten geschrieben haben« (1,45); er ist »Jude« (4,9) und »König von Israel« (1,49) oder »König der Juden« (19,19-22). Es lässt sich nicht sinnvoll bezweifeln, dass der Evangelist ein Jude war und dass die Beziehung zum Judentum die Abfassung seines Evangeliums bestimmte.
 
@@ -1080,7 +1080,7 @@ Die Polemik nahm von beiden Seiten an Schärfe zu. Von den Juden wurde Jesus vor
 
 Nachdem die Christen nicht mehr am gottesdienstlichen Leben der Juden teilnehmen konnten, wurden sie sich stärker der Fülle bewusst, die ihnen vom fleischgewordenen Wort her zugekommen war (1,16). Der auferstandene Jesus ist Quell lebendigen Wassers (7,37-38), Licht der Welt (8,12), Brot des Lebens (6,35) und neuer Tempel (2,19-22). Nachdem er die Seinen bis zum Ende geliebt hatte (13,1), gab er ihnen sein neues Gebot der Liebe (13,34). Es gilt alles zu tun, damit sich der Glaube an ihn ausbreitet und durch ihn das Leben gefunden werden kann (20,31). Im Evangelium ist die Polemik von untergeordneter Bedeutung. Worauf es vor allem ankommt, ist die Offenbarung der »Gabe Gottes« (4,10; 3,16), die allen in Christus angeboten wird, vor allem denjenigen, »die ihn durchbohrt haben« (19,37).
 
-5. *Ergebnis*
+5\. *Ergebnis*
 
 Die Evangelien zeigen, dass die Verwirklichung des göttlichen Heilsplans notwendigerweise einen Konflikt mit dem Bösen mit sich brachte, das es aus dem menschlichen Herzen auszurotten galt. Diese Konfrontation brachte Jesus in Konflikt mit der Führungsklasse seines Volkes, wie dies schon bei den alten Propheten der Fall gewesen war. Schon im Alten Testament zeigte sich das jüdische Volk von zwei gegensätzlichen Seiten: einerseits als ein Volk, das berufen war, vollkommen mit Gott verbunden zu sein; anderseits als ein sündiges Volk. Diese beiden Seiten mussten sich auch im Laufe des öffentlichen Lebens Jesu offenbaren. Im Augenblicke des Leidens Jesu schien die negative Seite die Oberhand zu gewinnen, selbst in der Haltung der Zwölf. Doch hat die Auferstehung gezeigt, dass in Wirklichkeit die göttliche Liebe den Sieg davontrug und allen die Vergebung der Verfehlungen und ein neues Leben gewährte.
 
@@ -1088,7 +1088,7 @@ C. ***Die Juden in den Paulusbriefen und in anderen Schriften des Neuen Testamen
 
 79\. Das Zeugnis der Paulusbriefe soll hier in der gewöhnlich akzeptierten Reihenfolge dargestellt werden: zunächst die sieben Briefe, deren Echtheit allgemein anerkannt ist (Röm, 1-2 Kor, Gal, Phil, 1 Thess, Phlm), dann der Epheser- und der Kolosserbrief und schließlich die Pastoralbriefe (1-2 Tim, Tit). Anschließend werden der Hebräerbrief, die Petrusbriefe, die Briefe des Jakobus und Judas und die Offenbarung des Johannes untersucht.
 
-1. *Die Juden in den unbestritten echten Paulusbriefen*
+1\. *Die Juden in den unbestritten echten Paulusbriefen*
 
 Persönlich bleibt Paulus stolz auf seine jüdische Herkunft (Röm 11,1). Von der Zeit, die seiner Bekehrung vorausging, erklärt er: »In der Treue zum jüdischen Gesetz übertraf ich die meisten Altersgenossen in meinem Volk, und mit größtem Eifer setzte ich mich für die Überlieferungen meiner Väter ein« (Gal 1,14). Selbst nachdem er Apostel Christi geworden ist, sagt er noch von seinen Rivalen: »Sie sind Hebräer – ich auch. Sie sind Israeliten – ich auch. Sie sind Nachkommen Abrahams – ich auch« (2 Kor 11,22). Dennoch kann er alle diese Vorzüge in Frage stellen und sagen: »Was mir damals ein Gewinn war, das habe ich um Christi willen als Verlust erkannt« (Phil 3,7).
 
@@ -1120,7 +1120,7 @@ Bei der Betrachtung der Lage der Juden, die sich Christus nicht angeschlossen ha
 
 Paulus sieht die Lage realistisch. Zwischen den Jüngern Christi und den Juden, die nicht an ihn glauben, herrscht ein Gegensatz. Diese Juden verweigern den christlichen Glauben; sie wollen nicht annehmen, dass Jesus ihr Messias (*Christus*) und der Sohn Gottes ist. Die Christen können nicht umhin, die Haltung dieser Juden zu bestreiten. Doch auf einer tieferen Ebene als derjenigen dieses Gegensatzes gibt es die Beziehung der Liebe, und allein diese bleibt, während die andere zeitlich begrenzt ist.
 
-2. *Die Juden in den anderen Briefen*
+2\. *Die Juden in den anderen Briefen*
 
 82\. Im Brief an die *Kolosser* findet sich das Wort »Jude« nur einmal, und zwar in einem Satz, der besagt, dass es im neuen Menschen »keinen Griechen und keinen Juden« mehr gibt, und der alsbald einen parallelen Ausdruck hinzufügt: »Beschnittene oder Unbeschnittene«; vielmehr ist Christus allein »alles und in allen« (Kol 3,11). Dieser Satz, der die Lehre von Gal 3,28 und Röm 10,12 aufnimmt, bestreitet dem jüdischen Sonderweg jede Bedeutung auf der grundlegenden Ebene der Beziehung zu Christus. Er enthält kein Urteil über die Juden ebenso wenig wie über die Griechen.
 
@@ -1136,7 +1136,7 @@ Auch der Brief an die *Hebräer* spricht nicht von den Juden, ebenso wie er nich
 
 Die gleiche Beobachtung gilt für den *Ersten Petrusbrief*, der vom Leiden Christi spricht und dabei sagt, »der Herr« sei »*von den Menschen* verworfen« worden (1 Petr, 2,4), ohne dass dies weiter präzisiert würde. Der Brief verleiht den Christen die Ehrentitel des israelitischen Volkes, ³⁴⁶ doch ohne polemischen Unterton. Er spricht nirgends von den Juden. Das gleiche gilt vom Jakobusbrief, dem Zweiten Petrusbrief und dem Judasbrief. Diese Briefe sind von jüdischen Überlieferungen geprägt, aber sie behandeln nicht die Frage der Beziehungen zwischen christlicher Kirche und zeitgenössischen Juden.
 
-3. *Die Juden in der Offenbarung des Johannes*
+3\. *Die Juden in der Offenbarung des Johannes*
 
 83\. Die Hochschätzung der Johannesoffenbarung gegenüber den Juden zeigt sich in dem ganzen Buch, aber ganz besonders in der Erwähnung der 144.000 »Knechte unseres Gottes«, die »auf ihrer Stirn« mit dem »Siegel des lebendigen Gottes« bezeichnet worden sind (7,2-4). Sie stammen aus allen Stämmen Israels, die einzeln aufgezählt werden (dieser Fall steht im Neuen Testament einzigartig dar: Off 7,5-8). Die Offenbarung des Johannes findet ihren Höhepunkt in der Beschreibung des »neuen Jerusalem« (Off 21,2) mit »zwölf Toren«, auf denen »die Namen der zwölf Stämme der Söhne Israels geschrieben« stehen (21,12), in Entsprechung zu den »Namen der zwölf Apostel des Lammes«, die die Grundsteine der Stadt bezeichnen (21,14).
 

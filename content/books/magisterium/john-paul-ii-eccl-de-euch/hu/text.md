@@ -7,12 +7,12 @@ az Eucharisztia és az Egyház kapcsolatáról
 
 **Tartalomjegyzék**  
 [Bevezetés](#Bevezet%C3%A9s)  
-1. [A hit misztériuma](#A_HIT_MISZT%C3%89RIUMA_)  
-2. [Az Eucharisztia építi az Egyházat](#AZ_EUCHARISZTIA_%C3%89P%C3%8DTI_AZ_EGYH%C3%81ZAT)  
-3. [Az Eucharisztia és az Egyház apostoli természete](#AZ_EUCHARISZTIA_%C3%89S_A_EGYH%C3%81Z_APOSTOLI_TERM%C3%89SZETE_)  
-4. [Az Eucharisztia és az egyházi közösség](#AZ_EUCHARISZTIA_%C3%89S_AZ_EGYH%C3%81ZI_K%C3%96Z%C3%96SS%C3%89G)  
-5. [Az eucharisztikus ünneplés szépsége](#AZ_EUCHARISZTIA_%C3%9CNNEPL%C3%89S%C3%89NEK_SZ%C3%89PS%C3%89GE)  
-6. [Máriának, az „eucharisztikus” asszonynak iskolájában](#M%C3%81RIA,_AZ_%E2%80%9EEUCHARISZTIKUS%E2%80%9D_ASSZONY_ISKOL%C3%81J%C3%81BAN_)  
+1\. [A hit misztériuma](#A_HIT_MISZT%C3%89RIUMA_)  
+2\. [Az Eucharisztia építi az Egyházat](#AZ_EUCHARISZTIA_%C3%89P%C3%8DTI_AZ_EGYH%C3%81ZAT)  
+3\. [Az Eucharisztia és az Egyház apostoli természete](#AZ_EUCHARISZTIA_%C3%89S_A_EGYH%C3%81Z_APOSTOLI_TERM%C3%89SZETE_)  
+4\. [Az Eucharisztia és az egyházi közösség](#AZ_EUCHARISZTIA_%C3%89S_AZ_EGYH%C3%81ZI_K%C3%96Z%C3%96SS%C3%89G)  
+5\. [Az eucharisztikus ünneplés szépsége](#AZ_EUCHARISZTIA_%C3%9CNNEPL%C3%89S%C3%89NEK_SZ%C3%89PS%C3%89GE)  
+6\. [Máriának, az „eucharisztikus” asszonynak iskolájában](#M%C3%81RIA,_AZ_%E2%80%9EEUCHARISZTIKUS%E2%80%9D_ASSZONY_ISKOL%C3%81J%C3%81BAN_)  
 [Befejezés](#BEFEJEZ%C3%89S)  
 [Jegyzetek](#Jegyzetek)
 

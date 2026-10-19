@@ -8,7 +8,7 @@ TO OUR VENERABLE BROTHERS, THE PATRIARCHS, PRIMATES,
 ARCHBISHOPS, BISHOPS, AND OTHER LOCAL ORDINARIES  
 IN PEACE AND COMMUNION WITH THE APOSTOLIC SEE
 
-1. Holy virginity and that perfect chastity which is consecrated to the service of God is without doubt among the most precious treasures which the Founder of the Church has left in heritage to the society which He established.
+1\. Holy virginity and that perfect chastity which is consecrated to the service of God is without doubt among the most precious treasures which the Founder of the Church has left in heritage to the society which He established.
 
 2\. This assuredly was the reason why the Fathers of the Church confidently asserted that perpetual virginity is a very noble gift which the Christian religion has bestowed on the world. They rightly noted that the pagans of antiquity imposed this way of life on the Vestals only for a certain time;\[1\] and that, although in the Old Testament virginity is ordered to be kept and preserved, it is only a previous requisite for marriage;\[2\] and furthermore, as Ambrose writes,\[3\] "We read that also in the temple of Jerusalem there were virgins. But what does the Apostle say? 'Now all these things happened to them in figure',\[4\] that this might be a foreshadowing of what was to come "
 

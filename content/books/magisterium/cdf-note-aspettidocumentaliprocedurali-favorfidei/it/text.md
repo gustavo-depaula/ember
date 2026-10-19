@@ -53,18 +53,18 @@ Come complemento alle osservazioni del difensore del vincolo, alla causa deve es
 Anche se non prescritto dalle Norme, l’ordine seguente degli atti è destinato a facilitare un esame oggettivo della causa:
 
 1\. Sommario  
-2. Petizione  
-3. Commissione  
-4. Testimonianze della parte oratrice e dell’altra parte  
-5. Documenti vari e ricerche sul battesimo  
-6. Testimonianze  
-7. Testimonianza della terza parte e documenti relativi  
-8. Lettere riguardanti la pratica religiosa delle parti  
-9. Relazione dell’Istruttore  
-10. Osservazioni del Difensore del Vincolo  
-11. Voto del Vescovo  
-12. Autentica degli Atti  
-13. Indice
+2\. Petizione  
+3\. Commissione  
+4\. Testimonianze della parte oratrice e dell’altra parte  
+5\. Documenti vari e ricerche sul battesimo  
+6\. Testimonianze  
+7\. Testimonianza della terza parte e documenti relativi  
+8\. Lettere riguardanti la pratica religiosa delle parti  
+9\. Relazione dell’Istruttore  
+10\. Osservazioni del Difensore del Vincolo  
+11\. Voto del Vescovo  
+12\. Autentica degli Atti  
+13\. Indice
 
 **9) Le tre copie degli atti**
 

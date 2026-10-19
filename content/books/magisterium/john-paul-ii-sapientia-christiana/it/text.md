@@ -903,17 +903,27 @@ Sua Santità Papa Giovanni Paolo II ha ratificato, confermato ed ordinato di pub
 
 Tenuto conto di ciò che è contenuto nella Costituzione Apostolica e nelle Norme Applicative annesse - e lasciando ai propri regolamenti interni ciò che è di indole più particolare e mutevole - gli Statuti di un'Università o di una Facoltà dovranno trattare precipuamente dei seguenti punti:
 
-1.  Il nome, la natura e il fine dell'Università o della Facoltà (con una breve informazione storica nel proemio).
-2.  Il governo - Il Gran Cancelliere; le Autorità accademiche personali e collegiali: quali i loro compiti precisi; quale il modo in cui debbano essere elette le Autorità personali e quale la durata della loro funzione; quale il modo dell'elezione delle Autorità collegiali e cioè dei membri dei Consigli, e per quanto tempo debbano rimanere in carica.
-3.  I docenti - Quale debba essere il loro numero minimo in ogni singola Facoltà; in quali ordini si debbano distinguere sia i docenti stabili sia i non stabili; di quali requisiti debbano essere forniti; come debbano essere cooptati, nominati, promossi e cessare dalla loro funzione; i loro doveri e diritti.
-4.  Gli studenti - I requisiti per la loro iscrizione; i loro doveri e diritti.
-5.  Gli officiali ed il personale ausiliario - I loro doveri e diritti.
-6.  Il piano degli studi - Quale sia l'ordinamento degli studi in ogni singola Facoltà; quali cicli si abbiano; quali discipline siano insegnate: la loro obbligatorietà e frequenza; quali seminari ed esercitazioni; quali esami o prove equipollenti.
-7.  I gradi accademici - Quali gradi saranno conferiti in ogni singola Facoltà ed a quali condizioni.
-8.  I sussidi didattici - La biblioteca: come provvedere alla sua conservazione e al suo incremento; gli altri sussidi didattici ed i laboratori scientifici, se necessari.
-9.  L'amministrazione economica - Il patrimonio dell'Università o della Facoltà, e la sua amministrazione; le norme circa gli onorari per le autorità, i docenti, gli officiali e circa le tasse degli studenti, nonché i sussidi economici ad essi destinati.
-10. I rapporti con le altre facoltà, Istituti, ecc.
-11. 
+1\. Il nome, la natura e il fine dell'Università o della Facoltà (con una breve informazione storica nel proemio).
+
+2\. Il governo - Il Gran Cancelliere; le Autorità accademiche personali e collegiali: quali i loro compiti precisi; quale il modo in cui debbano essere elette le Autorità personali e quale la durata della loro funzione; quale il modo dell'elezione delle Autorità collegiali e cioè dei membri dei Consigli, e per quanto tempo debbano rimanere in carica.
+
+3\. I docenti - Quale debba essere il loro numero minimo in ogni singola Facoltà; in quali ordini si debbano distinguere sia i docenti stabili sia i non stabili; di quali requisiti debbano essere forniti; come debbano essere cooptati, nominati, promossi e cessare dalla loro funzione; i loro doveri e diritti.
+
+4\. Gli studenti - I requisiti per la loro iscrizione; i loro doveri e diritti.
+
+5\. Gli officiali ed il personale ausiliario - I loro doveri e diritti.
+
+6\. Il piano degli studi - Quale sia l'ordinamento degli studi in ogni singola Facoltà; quali cicli si abbiano; quali discipline siano insegnate: la loro obbligatorietà e frequenza; quali seminari ed esercitazioni; quali esami o prove equipollenti.
+
+7\. I gradi accademici - Quali gradi saranno conferiti in ogni singola Facoltà ed a quali condizioni.
+
+8\. I sussidi didattici - La biblioteca: come provvedere alla sua conservazione e al suo incremento; gli altri sussidi didattici ed i laboratori scientifici, se necessari.
+
+9\. L'amministrazione economica - Il patrimonio dell'Università o della Facoltà, e la sua amministrazione; le norme circa gli onorari per le autorità, i docenti, gli officiali e circa le tasse degli studenti, nonché i sussidi economici ad essi destinati.
+
+10\. I rapporti con le altre facoltà, Istituti, ecc.
+
+11\.
 
 **APPENDICE II All'art. 64 delle Norme Applicative Settori degli studi ecclesiastici secondo il loro presente (A. 1979) ordinamento accademico nella Chiesa**
 
@@ -921,30 +931,56 @@ Tenuto conto di ciò che è contenuto nella Costituzione Apostolica e nelle Norm
 
 Avvertenza. - I singoli Settori di studi, qui enumerati in ordine alfabetico, riportano in parentesi la forma dell'organizzazione accademica (Facoltà, o Istituto «ad instar», o Sezione di Specializzazione), secondo la quale essi sono ora in vigore almeno in qualche Centro accademico ecclesiastico. Non sono recensiti gli studi teologici, canonistici e filosofici, dei quali si tratta negli artt. 51, 56, 60 delle, presenti Norme Applicative.
 
-1.  Studi Arabo-Islamici (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Teologica).
-2.  Studi di Archeologia Cristiana (Istituto «ad instar»).
-3.  Studi dell'Ateismo (Sezione di Specializzazione nella Facoltà Teologica e/o Filosofica).
-4.  Studi Biblici (Facoltà di Scienze Bibliche, Sezione di Specializzazione nella Facoltà di Teologia).
-5.  Studi Catechetici (Sezione di Specializzazione nella Facoltà di Teologia o di Scienze dell'Educazione).
-6.  Studi Ecclesiastici Orientali (Facoltà di Scienze Ecclesiastiche Orientali).
-7.  Studi Ecumenici (Sezione di Specializzazione nella Facoltà Teologica).
-8.  Studi dell'Educazione (Facoltà di Scienze dell'Educazione).
-9.  Studi Canonistico-Civili comparati (Facoltà di Diritto civile comparato).
-10. Studi di Letteratura Classica e Cristiana (Facoltà di Lettere Cristiane e Classiche).
-11. Studi Liturgici (Facoltà, Sezione di Specializzazione nella Facoltà Teologica).
-12. Studi Mariologici (Sezione di Specializzazione nella Facoltà Teologica).
-13. Studi Medievali (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Teologica, o di Diritto Canonico, o Filosofica).
-14. Studi Missiologici (Facoltà di Missiologia, Sezione di Specializzazione nella Facoltà Teologica).
-15. Studi Morali (Sezione di Specializzazione nella Facoltà Teologica).
-16. Studi di Musica Sacra (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Teologica).
-17. Studi Orientalistici (Facoltà dell'Antico Oriente, Sezione di Specializzazione nella Facoltà Teologica o Filosofica).
-18. Studi Pedagogici (Facoltà di Pedagogia, Sezione di Specializzazione nella Facoltà di Filosofia o di Scienze dell'Educazione).
-19. Studi Pastorali (Sezione di Specializzazione nella Facoltà Teologica).
-20. Studi Patristici (Sezione di Specializzazione nella Facoltà Teologica).
-21. Studi Psicologici (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Filosofica o Pedagogica o di Scienze dell'Educazione).
-22. Studi delle Religioni e del Fenomeno Religioso (Sezione di Specializzazione nella Facoltà Teologica o Filosofica).
-23. Studi Religiosi cattolici (Istituto Superiore di Scienze Religiose).
-24. Studi Sociologici (Facoltà di Scienze Sociali, Sezione di Specializzazione nella Facoltà di Scienze dell'Educazione).
-25. Studi di Spiritualità (Sezione di Specializzazione nella Facoltà Teologica ),
-26. Studi di Storia della Chiesa (Facoltà di Storia Ecclesiastica, Sezione di Specializzazione nella Facoltà Teologica).
-27. Studi di Teologia della Vita Religiosa (Sezione di Specializzazione nella Facoltà Teologica).
+1\. Studi Arabo-Islamici (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Teologica).
+
+2\. Studi di Archeologia Cristiana (Istituto «ad instar»).
+
+3\. Studi dell'Ateismo (Sezione di Specializzazione nella Facoltà Teologica e/o Filosofica).
+
+4\. Studi Biblici (Facoltà di Scienze Bibliche, Sezione di Specializzazione nella Facoltà di Teologia).
+
+5\. Studi Catechetici (Sezione di Specializzazione nella Facoltà di Teologia o di Scienze dell'Educazione).
+
+6\. Studi Ecclesiastici Orientali (Facoltà di Scienze Ecclesiastiche Orientali).
+
+7\. Studi Ecumenici (Sezione di Specializzazione nella Facoltà Teologica).
+
+8\. Studi dell'Educazione (Facoltà di Scienze dell'Educazione).
+
+9\. Studi Canonistico-Civili comparati (Facoltà di Diritto civile comparato).
+
+10\. Studi di Letteratura Classica e Cristiana (Facoltà di Lettere Cristiane e Classiche).
+
+11\. Studi Liturgici (Facoltà, Sezione di Specializzazione nella Facoltà Teologica).
+
+12\. Studi Mariologici (Sezione di Specializzazione nella Facoltà Teologica).
+
+13\. Studi Medievali (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Teologica, o di Diritto Canonico, o Filosofica).
+
+14\. Studi Missiologici (Facoltà di Missiologia, Sezione di Specializzazione nella Facoltà Teologica).
+
+15\. Studi Morali (Sezione di Specializzazione nella Facoltà Teologica).
+
+16\. Studi di Musica Sacra (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Teologica).
+
+17\. Studi Orientalistici (Facoltà dell'Antico Oriente, Sezione di Specializzazione nella Facoltà Teologica o Filosofica).
+
+18\. Studi Pedagogici (Facoltà di Pedagogia, Sezione di Specializzazione nella Facoltà di Filosofia o di Scienze dell'Educazione).
+
+19\. Studi Pastorali (Sezione di Specializzazione nella Facoltà Teologica).
+
+20\. Studi Patristici (Sezione di Specializzazione nella Facoltà Teologica).
+
+21\. Studi Psicologici (Istituto «ad instar», Sezione di Specializzazione nella Facoltà Filosofica o Pedagogica o di Scienze dell'Educazione).
+
+22\. Studi delle Religioni e del Fenomeno Religioso (Sezione di Specializzazione nella Facoltà Teologica o Filosofica).
+
+23\. Studi Religiosi cattolici (Istituto Superiore di Scienze Religiose).
+
+24\. Studi Sociologici (Facoltà di Scienze Sociali, Sezione di Specializzazione nella Facoltà di Scienze dell'Educazione).
+
+25\. Studi di Spiritualità (Sezione di Specializzazione nella Facoltà Teologica ),
+
+26\. Studi di Storia della Chiesa (Facoltà di Storia Ecclesiastica, Sezione di Specializzazione nella Facoltà Teologica).
+
+27\. Studi di Teologia della Vita Religiosa (Sezione di Specializzazione nella Facoltà Teologica).

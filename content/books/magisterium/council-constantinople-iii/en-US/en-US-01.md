@@ -18,11 +18,15 @@ The only Son and Word of God the Father, who became a man like us in all things 
 
 Wherefore **this holy and universal synod of ours**, driving afar the error of impiety which endured for some time even till the present, following without deviation in a straight path after the holy and accepted fathers, **has piously accorded in all things with the five holy and universal synods**: *that is to say, with*
 
-1.  the synod of 318 holy fathers who gathered at **Nicaea** against the madman *Arius,* and
-2.  that which followed it at **Constantinople** of 150 God-led men against *Macedonius,* opponent of the Spirit, and the impious *Apollinarius;* similarly too, with
-3.  the first at **Ephesus** of 200 godly men brought together against *Nestorius,* who thought as the Jews and
-4.  that at **Chalcedon** of 630 God-inspired fathers against *Eutyches* and *Dioscorus,* hateful to God; also, in addition to these, with
-5.  the fifth holy synod, the latest of them, which was gathered **here** against *Theodore of Mopsuestia, Origen, Didymus and Evagrius*, and the writings of Theodoret against the twelve chapters of the renowned Cyril, and the letter said to have been written by Ibas to Mari the Persian.
+1\. the synod of 318 holy fathers who gathered at **Nicaea** against the madman *Arius,* and
+
+2\. that which followed it at **Constantinople** of 150 God-led men against *Macedonius,* opponent of the Spirit, and the impious *Apollinarius;* similarly too, with
+
+3\. the first at **Ephesus** of 200 godly men brought together against *Nestorius,* who thought as the Jews and
+
+4\. that at **Chalcedon** of 630 God-inspired fathers against *Eutyches* and *Dioscorus,* hateful to God; also, in addition to these, with
+
+5\. the fifth holy synod, the latest of them, which was gathered **here** against *Theodore of Mopsuestia, Origen, Didymus and Evagrius*, and the writings of Theodoret against the twelve chapters of the renowned Cyril, and the letter said to have been written by Ibas to Mari the Persian.
 
 Reaffirming the divine tenets of piety in all respects unaltered, and banishing the profane teachings of impiety, this holy and universal synod of ours has also, in its turn, *under God’s inspiration*, set its seal on the creed which was made out by the 318 fathers and confirmed again with godly prudence by the 150 and which the other holy synods too accepted gladly and ratified for the elimination of all soul-corrupting heresy
 

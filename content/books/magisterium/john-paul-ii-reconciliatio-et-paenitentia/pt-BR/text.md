@@ -397,8 +397,9 @@ Os Padres do Sínodo, como representantes dos seus Irmãos Bispos, guias do povo
 
 Desejaria, pois, pôr em evidência o essencial da *pastoral da penitência e da reconciliação*, salientando nela, com a Assembleia do Sínodo, os dois pontos seguintes:
 
-1.  Os meios usados e as vias seguidas pela Igreja para promover a penitência e a reconciliação,
-2.  O Sacramento por excelência da penitência e da reconciliação.
+1\. Os meios usados e as vias seguidas pela Igreja para promover a penitência e a reconciliação,
+
+2\. O Sacramento por excelência da penitência e da reconciliação.
 
 **CAPÍTULO PRIMEIRO**
 

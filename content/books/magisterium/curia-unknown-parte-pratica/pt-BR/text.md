@@ -13,16 +13,25 @@ A base de toda a lei (de sua norma de vida) consiste em dois mandamentos:
 
 São uma extensão dos dois grandes mandamentos. Os três primeiros mostram a você como amar a Deus; os outros mostram como amar ao próximo.
 
-1.  Amar a Deus sobre todas as coisas.
-2.  Não tomar seu santo nome em vão.
-3.  Guardar os domingos e festas de guarda.
-4.  Honrar pai e mãe.
-5.  Não matar.
-6.  Não pecar contra a castidade.
-7.  Não furtar.
-8.  Não levantar falso testemunho.
-9.  Não desejar a mulher do próximo.
-10. Não cobiçar as coisas alheias.
+1\. Amar a Deus sobre todas as coisas.
+
+2\. Não tomar seu santo nome em vão.
+
+3\. Guardar os domingos e festas de guarda.
+
+4\. Honrar pai e mãe.
+
+5\. Não matar.
+
+6\. Não pecar contra a castidade.
+
+7\. Não furtar.
+
+8\. Não levantar falso testemunho.
+
+9\. Não desejar a mulher do próximo.
+
+10\. Não cobiçar as coisas alheias.
 
 Em forma abreviada, são estes os dez mandamentos:
 
@@ -41,11 +50,15 @@ Em forma abreviada, são estes os dez mandamentos:
 
 Os católicos são obrigados a:
 
-1.  Ouvir Missa (participando ativamente) todo domingo e festas de guarda, e evitar trabalho desnecessário nesses dias (ver abaixo a lista dos dias santos).
-2.  Confessar-se ao menos uma vez cada ano.
-3.  Comungar ao menos uma vez pela Páscoa da Ressurreição (no Brasil, o tempo para cumprir esse preceito vai de 2 de fevereiro a 16 de julho).
-4.  Jejuar e abster-se de carne quando manda a Santa Madre Igreja (v. explicação na pág. 43s \[abaixo, em “5. Normas para o Jejum e a Abstinência\]).
-5.  Contribuir para a manutenção da Igreja (local, nacional e mundial) (É o que se faz pelo dízimo, espórtulas ou coletas).
+1\. Ouvir Missa (participando ativamente) todo domingo e festas de guarda, e evitar trabalho desnecessário nesses dias (ver abaixo a lista dos dias santos).
+
+2\. Confessar-se ao menos uma vez cada ano.
+
+3\. Comungar ao menos uma vez pela Páscoa da Ressurreição (no Brasil, o tempo para cumprir esse preceito vai de 2 de fevereiro a 16 de julho).
+
+4\. Jejuar e abster-se de carne quando manda a Santa Madre Igreja (v. explicação na pág. 43s \[abaixo, em “5. Normas para o Jejum e a Abstinência\]).
+
+5\. Contribuir para a manutenção da Igreja (local, nacional e mundial) (É o que se faz pelo dízimo, espórtulas ou coletas).
 
 **4. Dias santos de preceito**
 
@@ -117,55 +130,87 @@ O cristianismo positivo inclui mais do que obediência a leis.
 
 Os que seguem a Cristo e vivem do seu Espírito sabem que sua salvação depende de luta e de dor. As Bem-aventuranças são um resumo das dificuldades a serem vencidas pelos fiéis cristãos e das recompensas que vão receber se forem seguidores leais de Cristo.
 
-1.  Bem-aventurados os que têm um coraçao de pobre, porque deles é o reino dos céus.
-2.  Bem-aventurados os mansos, porque herdarão a terra.
-3.  Bem-aventurados os aflitos, porque serão consolados.
-4.  Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.
-5.  Bem-aventurados os misericordiosos, porque alcançarão misericórdia.
-6.  Bem-aventurados os puros de coração, porque verão a Deus.
-7.  Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.
-8.  Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o reino dos céus ([Mt 5,3-10](http://www.bibliacatolica.com.br/01/47/5.php)).
+1\. Bem-aventurados os que têm um coraçao de pobre, porque deles é o reino dos céus.
+
+2\. Bem-aventurados os mansos, porque herdarão a terra.
+
+3\. Bem-aventurados os aflitos, porque serão consolados.
+
+4\. Bem-aventurados os que têm fome e sede de justiça, porque serão saciados.
+
+5\. Bem-aventurados os misericordiosos, porque alcançarão misericórdia.
+
+6\. Bem-aventurados os puros de coração, porque verão a Deus.
+
+7\. Bem-aventurados os que promovem a paz, porque serão chamados filhos de Deus.
+
+8\. Bem-aventurados os que são perseguidos por causa da justiça, porque deles é o reino dos céus ([Mt 5,3-10](http://www.bibliacatolica.com.br/01/47/5.php)).
 
 Eis uma versão mais breve das Bem-aventuranças:
 
-1.  Felizes os que necessitam de Deus.
-2.  Felizes os que têm auto-domínio.
-3.  Felizes os que se arrependem dos pecados.
-4.  Felizes os que têm fome e sede de santidade.
-5.  Felizes os misericordiosos.
-6.  Felizes os que amam de todo o coração.
-7.  Felizes os que promovem a paz.
-8.  Felizes os que sofrem por fazerem o que é justo.
+1\. Felizes os que necessitam de Deus.
+
+2\. Felizes os que têm auto-domínio.
+
+3\. Felizes os que se arrependem dos pecados.
+
+4\. Felizes os que têm fome e sede de santidade.
+
+5\. Felizes os misericordiosos.
+
+6\. Felizes os que amam de todo o coração.
+
+7\. Felizes os que promovem a paz.
+
+8\. Felizes os que sofrem por fazerem o que é justo.
 
 **10. Obras de misericórdia corporais (materiais)**
 
-1.  Dar de comer a quem tem fome.
-2.  Dar de beber a quem tem sede.
-3.  Vestir os nus.
-4.  Dar pousada aos peregrinos.
-5.  Visitar os enfermos e encarcerados.
-6.  Remir os cativos.
-7.  Enterrar os mortos.
+1\. Dar de comer a quem tem fome.
+
+2\. Dar de beber a quem tem sede.
+
+3\. Vestir os nus.
+
+4\. Dar pousada aos peregrinos.
+
+5\. Visitar os enfermos e encarcerados.
+
+6\. Remir os cativos.
+
+7\. Enterrar os mortos.
 
 **11. Obras de misericórdia espirituais**
 
-1.  Dar bom conselho.
-2.  Ensinar os ignorantes.
-3.  Corrigir os que erram.
-4.  Consolar os aflitos.
-5.  Perdoar as injúrias.
-6.  Sofrer com paciência as fraquezas do próximo.
-7.  Rogar a Deus pelos vivos e defuntos.
+1\. Dar bom conselho.
+
+2\. Ensinar os ignorantes.
+
+3\. Corrigir os que erram.
+
+4\. Consolar os aflitos.
+
+5\. Perdoar as injúrias.
+
+6\. Sofrer com paciência as fraquezas do próximo.
+
+7\. Rogar a Deus pelos vivos e defuntos.
 
 ou
 
-1.  Dar conselho a quem precisa.
-2.  Instruir os ignorantes.
-3.  Corrigir os que erram.
-4.  Confortar os que sofrem.
-5.  Perdoar os que nos ofendem.
-6.  Ser paciente com os outros.
-7.  Rezar pelos outros.
+1\. Dar conselho a quem precisa.
+
+2\. Instruir os ignorantes.
+
+3\. Corrigir os que erram.
+
+4\. Confortar os que sofrem.
+
+5\. Perdoar os que nos ofendem.
+
+6\. Ser paciente com os outros.
+
+7\. Rezar pelos outros.
 
 **12. Como batizar em caso de emergência**
 

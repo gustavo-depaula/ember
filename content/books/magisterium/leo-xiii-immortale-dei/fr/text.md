@@ -170,7 +170,7 @@ Prop. LV. - Il faut séparer l'Eglise de l'Etat et l'Etat de l'Eglise.
 
 Prop. LXXIX. - ... Il est faux que la liberté civile des cultes et la pleine faculté donnée à chacun de manifester ouvertement et publiquement n'importe quelles opinions ou pensées, ait pour conséquence de corrompre plus facilement les esprits et les moeurs et de propager la peste de 1' indifférence.  
 
-23. Tract., XXVI in Joan., n. 2.
+23\. Tract., XXVI in Joan., n. 2.
 
 24\. Epist. CV., ad Donatistas, cap II, n. 9.
 

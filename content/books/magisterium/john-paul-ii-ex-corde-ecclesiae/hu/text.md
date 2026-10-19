@@ -13,15 +13,15 @@ I. RÉSZ
 Identitás és küldetés  
 
 [A katolikus egyetem identitása](#A_katolikus_egyetem_identit%C3%A1sa)  
-1. [Jelleg és célok](#1._Jelleg_%C3%A9s_c%C3%A9lok)  
-2. [Az egyetemi közösség](#_Az_egyetemi_k%C3%B6z%C3%B6ss%C3%A9g)  
-3. [A katolikus egyetem az Egyházban](#A_katolikus_egyetem_az_Egyh%C3%A1zban)  
+1\. [Jelleg és célok](#1._Jelleg_%C3%A9s_c%C3%A9lok)  
+2\. [Az egyetemi közösség](#_Az_egyetemi_k%C3%B6z%C3%B6ss%C3%A9g)  
+3\. [A katolikus egyetem az Egyházban](#A_katolikus_egyetem_az_Egyh%C3%A1zban)  
 
 [A katolikus egyetem szolgáló küldetése](#A_katolikus_egyetem_szolg%C3%A1l%C3%B3_k%C3%BCldet%C3%A9se)  
-1. [Az Egyház és a társadalom szolgálata](#Az_Egyh%C3%A1z_%C3%A9s_a_t%C3%A1rsadalom_szolg%C3%A1lata_)  
-2. [Az egyetemi pasztoráció](#Az_egyetemi_pasztor%C3%A1ci%C3%B3)  
-3. [Kulturális párbeszéd](#Kultur%C3%A1lis_p%C3%A1rbesz%C3%A9d)  
-4. [Evangelizáció](#Evangeliz%C3%A1ci%C3%B3)  
+1\. [Az Egyház és a társadalom szolgálata](#Az_Egyh%C3%A1z_%C3%A9s_a_t%C3%A1rsadalom_szolg%C3%A1lata_)  
+2\. [Az egyetemi pasztoráció](#Az_egyetemi_pasztor%C3%A1ci%C3%B3)  
+3\. [Kulturális párbeszéd](#Kultur%C3%A1lis_p%C3%A1rbesz%C3%A9d)  
+4\. [Evangelizáció](#Evangeliz%C3%A1ci%C3%B3)  
 
 II\. RÉSZ
 

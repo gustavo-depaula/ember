@@ -204,27 +204,27 @@ Lectiones e Vetere Testamento
 
 1\. **Ex 3**, 1-6. 9-12: «*Ego ero tecum*».  
 In diebus illis: Pascebat Moyses oves Iethro…  
-2. **Is 52**, 7-10: «*Videbunt omnes fines terræ salutare Dei nostri*».  
+2\. **Is 52**, 7-10: «*Videbunt omnes fines terræ salutare Dei nostri*».  
 Quam pulchri super montes pedes annuntiantis…  
-3. **Sap 13**, 1-9: «*Si potuerunt æstimare saeculum, quomodo huius Dominum non invenerunt?*».  
+3\. **Sap 13**, 1-9: «*Si potuerunt æstimare saeculum, quomodo huius Dominum non invenerunt?*».  
 Vani sunt natura omnes homines…
 
 Lectiones e Novo Testamento
 
 1\. **Act 18**, 23-28: «*Ostendebat Apollo per Scripturas esse Christum Iesum*».  
 Facto Antiochiæ aliquanto tempore, profectus est Paulus perambulans ex ordine…  
-2. **1 Cor 1**, 22-31: «*Nos prædicamus Christum crucifixum*».  
+2\. **1 Cor 1**, 22-31: «*Nos prædicamus Christum crucifixum*».  
 Fratres: Iudæi signa petunt…  
-3. **Phil 4**, 4-9: «*Quæcumque casta, hæc cogitate*».  
+3\. **Phil 4**, 4-9: «*Quæcumque casta, hæc cogitate*».  
 Fratres: Gaudete in Domino sempre…
 
 Psalmi responsorii
 
 1\. **Ps 15**, 1-2a et 5. 7-8. 11  
 R/ (cf. 5a): Tu es, Domine, pars hereditatis meæ».  
-2. **Ps 18**, 2-3. 4-5  
+2\. **Ps 18**, 2-3. 4-5  
 R/ (5a): In omnem terram exivit sonus eorum.  
-3. **Ps 99**, 2.3.4.5.  
+3\. **Ps 99**, 2.3.4.5.  
 R/ (3c): Nos populus eius et oves pascuæ eius.
 
 Alleluia et Versus ante Evangelium

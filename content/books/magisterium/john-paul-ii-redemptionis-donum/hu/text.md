@@ -5,7 +5,7 @@
 II\. János Pál pápa apostoli buzdítása a szerzetesi közösségekhez  
 a megváltás 1950. évfordulója alkalmából 1983-84-ben tartott  
 rendkívüli szentévben  
-1984. március 25.
+1984\. március 25.
 
 Tartalomjegyzék
 

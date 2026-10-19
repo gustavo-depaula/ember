@@ -40,10 +40,10 @@ COMISIÓN TEOLÓGICA INTERNACIONAL
 [Preámbulo: la fe confesada en la fe vivida](#Preambulo)
 
 1\. [El bautismo y la fe trinitaria](#1._El_bautismo_y_la_fe_trinitaria)  
-2. [El símbolo de Nicea como confesión de fe](#2._El_simbolo_de_Nicea_como_confesion_de_fe)  
-3. [Profundización en las predicaciones y en las catequesis](#3._Profundizacion)  
-4. [La oración al Hijo y las doxologías](#4._La_oracion_al_Hijo_y_las_doxologias)  
-5. [La teología en los himnos](#5._La_teologia_en_los_himnos)
+2\. [El símbolo de Nicea como confesión de fe](#2._El_simbolo_de_Nicea_como_confesion_de_fe)  
+3\. [Profundización en las predicaciones y en las catequesis](#3._Profundizacion)  
+4\. [La oración al Hijo y las doxologías](#4._La_oracion_al_Hijo_y_las_doxologias)  
+5\. [La teología en los himnos](#5._La_teologia_en_los_himnos)
 
 **[Capítulo 3](#Capitulo_3): [Nicea como acontecimiento teológico y eclesial](#Nicea_como_acontecimiento_teologico_y_eclesial)**
 

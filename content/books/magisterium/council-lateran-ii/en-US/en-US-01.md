@@ -62,10 +62,13 @@ Baronius was the first to print the thirty canons (Annales ecclesiastici 12,1607
 
 23\. Those who, simulating a kind of religiosity, condemn
 
-1.  the sacrament of the Lord’s body and blood,
-2.  the baptism of children,
-3.  the priesthood and other ecclesiastical orders, and
-4.  legitimate marriages,
+1\. the sacrament of the Lord’s body and blood,
+
+2\. the baptism of children,
+
+3\. the priesthood and other ecclesiastical orders, and
+
+4\. legitimate marriages,
 
 we expel from the church of God and condemn as heretics, and prescribe that they be constrained by the secular powers. We also bind up their defenders in the fetter of the same condemnation. {13}
 

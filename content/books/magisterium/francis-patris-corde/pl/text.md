@@ -78,7 +78,7 @@ W ukryciu, w Nazarecie, w szkole Józefa, Jezus nauczył się wypełniać wolę 
 
 Z tych wszystkich wydarzeń wynika, że „Bóg wezwał św. Józefa, aby służył bezpośrednio osobie i misji Jezusa poprzez sprawowanie swego ojcostwa: właśnie w ten sposób Józef współuczestniczy w pełni czasów w wielkiej tajemnicy odkupienia i jest prawdziwie sługą zbawienia” [^17].
 
-4. *Ojciec przyjmujący*
+4\. *Ojciec przyjmujący*
 
 Józef przyjął Maryję nie stawiając warunków uprzednich. Ufa słowom Anioła. „Szlachetność jego serca sprawia, że podporządkowuje miłości to, czego nauczyło go prawo. A dziś na tym świecie, w którym oczywista jest psychologiczna, słowna i fizyczna przemoc w stosunku do kobiet, Józef jawi się jako mężczyzna okazujący szacunek, delikatny, który – choć nie ma wszystkich informacji – opowiada się za reputacją, godnością i życiem Maryi. A wobec jego wątpliwości, jak postąpić najlepiej, Bóg pomógł mu w wyborze, oświetlając jego osąd” [^18].
 

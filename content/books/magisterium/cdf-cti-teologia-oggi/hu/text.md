@@ -66,7 +66,7 @@ Bevezetés
 
 5\. A teológia tudományos reflexió arra az isteni kinyilatkoztatásra, melyet az Egyház hittel fogad el mint egyetemes üdvözítő igazságot. Ennek a kinyilatkoztatásnak a teljessége és gazdagsága túlságosan nagy ahhoz, hogy csupán egyetlen teológia művelje, és valóban – minthogy az emberek különböző módokon fogadták be – sokszínű teológiának ad helyet. Mégis, a teológia a maga különbözőségében Isten egyetlen igazságának szolgálatába áll be. A teológia egysége tehát nem kíván egységesítést, hanem inkább azt, hogy az egymással beszélni és egymás felé közvetíteni tudó teológiák egyedül Isten Igéjére összpontosítsanak és annak mérhetetlen gazdagságát magyarázni tudják. Hasonlóképpen, a teológiák sokszínűségének sem kell széttöredezettséget vagy széthúzást jelentenie, hanem inkább azt, hogy Isten egyetlen üdvözítő igazságát sokféle módon magyarázni tudják.
 
-1. Isten Igéjének elsőbbsége
+1\. Isten Igéjének elsőbbsége
 
 6\. „Kezdetben volt az Ige, az Ige Istennél volt, és Isten volt az Ige, ő volt kezdetben Istennél” (Jn 1,1). A János szerinti evangélium „előszóval” kezdődik. Ez a himnusz megvilágítja a kinyilatkoztatás kozmikus jelentőségét, valamint a kinyilatkoztatás csúcsát Isten Igéjének megtestesülésében. „Benne az élet volt, s az élet volt az emberek világossága” (Jn 1,4). A teremtett világ és a történelem jelenti azt a helyet és időt, melyben Isten kinyilatkoztatja önmagát. De az Isten által az ő Igéje révén teremtett világ (vö. Jn 1) egyúttal az a közeg is, ahol az emberek elutasítják Istent. Ennek ellenére Isten szeretete irányukban mindig végtelenül nagyobb; „a világosság világít a sötétségben, de a sötétség nem fogta fel” (Jn 1,5). A Fiú megtestesülése ennek a változatlan szeretetnek a csúcspontja: „és az Ige testté lett, és közöttünk élt. Láttuk dicsőségét, az Atya Egyszülöttének dicsőségét, akit kegyelem és igazság tölt be” (Jn 1,14). Isten Atyaként való megnyilatkozása, aki szereti a világot (vö. Jn 3,16.35), a megfeszített és feltámadt Jézus Krisztus, Isten Fia és a „világ Üdvözítője” (Jn 4,42) kinyilatkoztatásában valósul meg. „Sokszor és sokféle módon szólt Isten hajdan” a próféták által, de az idők teljességében „Fiában szólt hozzánk, akit a mindenség örökösévé tett, aki által az időket is teremtette” (Zsid 1,1-2). „Istent nem látta soha senki, az Egyszülött Fiú nyilatkoztatta ki, aki az Atya ölén van” (Jn 1,18).
 
@@ -76,7 +76,7 @@ Bevezetés
 
 9\. A katolikus teológia egyik kritériuma az Isten Igéje elsőbbségének az elismerése. Isten „sokszor és sokféle módon” szól: a teremtésben, a próféták és bölcsek által, a Szentírás révén, és végső módon Jézus Krisztusnak, a testté lett Igének élete, halála és feltámadása által (vö. Zsid 1,1-2).
 
-2. Hit, az Isten Igéjére való válasz
+2\. Hit, az Isten Igéjére való válasz
 
 10\. Szent Pál a Rómaiakhoz írt levelében írja: „A hit hallásból fakad, a hallás pedig Krisztus tanításából” (Róm 10,17). Két pontot kell itt kiemelni. Egyrészt Szent Pál azt magyarázza, hogyan származik a hit az Isten Igéjének hallgatásából, mindig „a Szentlélek erejével” (Róm 15,18). Másrészt megvilágítja, milyen utakon keresztül érkezik el az emberek fülébe Isten Igéje: alapvetően azok közvetítésével, akik arra kaptak meghívást, hogy hirdessék az Igét és őrizzék a hitet (vö. Róm 10,14-15). Ebből az következik, hogy Isten Igéjét hitelesen mindig is csak az apostolokra alapozva (Ef 2,20-22) és az apostoli jogfolytonosság révén lehet hirdetni (vö. 1Tim 4,6).
 
@@ -90,7 +90,7 @@ Bevezetés
 
 15\. A katolikus teológia egyik kritériuma, hogy saját forrásának, egybefogójának és normájának tartsa az Egyház hitét. A teológia egyben tartja a *fides qua*-t és *fides quae*-t. Az apostolok tanítását tárja elő, a Jézusról szóló Örömhírt „az Írások szerint” (1Kor 15,3-4), amennyiben szabálya és ösztönzője az Egyház hitének.
 
-3. Teológia, a hit megértése
+3\. Teológia, a hit megértése
 
 16\. A hit aktusa az Isten Igéjének való válaszadásban új távlatokra nyitja a hívő értelmét. Szent Pál ezt írja: „Isten ugyanis, aki azt mondta: »A sötétségből támadjon világosság«, a mi szívünket is megvilágosította, hogy Isten dicsőségének ismerete (Jézus) Krisztus arcán felragyogjon nekünk” (2Kor 4,6). Ebben a megvilágításban a hit új módon látja az egész világot; igazabb módon látja, mert a Szentlélek hatalma megadja neki magának Istennek a látásmódját. Ezért Szent Ágoston arra szólít fel mindenkit, aki az igazságot keresi, „higgyen, hogy értsen” *(crede ut intelligas)*.[^23] „Isten Lelkét kaptuk – szögezi le Szent Pál –, hogy megismerjük, amit az Isten a kegyelemben ajándékozott nekünk” (1Kor 2,12). Eme ajándék által aztán arra kapunk ösztönzést, hogy megismerjük magát Istent, „a Lélek ugyanis mindent átlát, még Isten mélységeit is”. Azt tanítva, hogy mi „birtokában vagyunk Krisztus gondolatainak” (1Kor 2,16), Szent Pál implicite azt állítja, hogy Isten kegyelme által részesülünk egy bizonyos mértékig abban az ismeretben, ahogyan maga Krisztus ismeri az Atyát, és abban az ismeretben, ahogyan Isten ismeri önmagát.
 
@@ -104,7 +104,7 @@ Bevezetés
 
 20\. A teológia igazi helye az Egyház kebelén belül van, Isten Igéjével egyesülten. A teológia egyháziassága a teológiai feladat építő eleme, mert a teológia a hitre alapozódik, mégpedig magára a személyes és az egyházi hitre. Isten kinyilatkoztatása arra irányul, hogy összehívja és megújítsa Isten népét, a teológusok pedig az Egyház által kapják meg kutatásuk tárgyát. A katolikus teológiában sokat gondolkodnak a teológiai *„helyekről”,* vagyis a teológiai feladat számára alapvető hivatkozási pontokról.[^28] Nem csak a *„loci”*-kat fontos ismerni, hanem a viszonylagos súlyukat, valamint az egymással való kapcsolatukat is.
 
-1. A Szentírásnak mint a teológia lelkének a tanulmányozása
+1\. A Szentírásnak mint a teológia lelkének a tanulmányozása
 
 21\. „A Szentírás tanulmányozásának” „a hittudomány lelkévé” kell lennie.[^29] A teológiát illetően ez sarkalatos megállapítása a II. Vatikáni Zsinatnak. XVI. Benedek pápa pedig megerősítette: „Ahol a teológia nem lényege szerint a Szentírásnak az Egyházban való értelmezése, annak a teológiának nincs többé alapja”.[^30] A teológiának a maga teljességében a Szentírásra kell formálódnia, a Szentírásnak pedig erősítenie és kísérnie kell az egész teológiai munkát, mert a teológia „az evangélium igazságával” (Gal 2,5) foglalkozik, és csak akkor tudja megismerni az igazságot, ha tanulmányozza a róla szóló mértékadó tanúságokat a Szentírás kánonjában,[^31] és ha így cselekedve kapcsolatba hozza a Biblia emberi szavait Isten élő Igéjével. „Az exegétáknak soha nem szabad megfeledkezniük arról, hogy amit értelmeznek, az Isten Igéje… Csak akkor tudják elérni a céljukat, ha a bibliai szöveg értelmét úgy fedték fel, hogy az az Isten aktuális Igéje”.[^32]
 
@@ -114,7 +114,7 @@ Bevezetés
 
 24\. A katolikus teológia egyik kritériuma az, hogy állandóan a Szentírás kánoni tanúságából kell merítenie, elősegítve, hogy ehhez a tanúságtételhez kötődjön az Egyház egész tanítása és gyakorlata, mert „a Szentírásnak kell táplálnia és irányítania az egész egyházi igehirdetést és magát a keresztény vallást is”.[^45] A teológiának meg kell kísérelnie, hogy szélesre tárja a Szentírás kapuját a keresztény hívek előtt,[^46] hogy kapcsolatba kerülhessenek Isten élő Igéjével (vö. Zsid 4,12).
 
-2. Hűség az apostoli Hagyományhoz
+2\. Hűség az apostoli Hagyományhoz
 
 25\. Az Apostolok Cselekedetei az első keresztény közösség életének olyan leírását adja, amely minden kor számára alapvető fontosságú: „Állhatatosan kitartottak az apostolok tanításában és közösségében, a kenyértörésben és az imádságban” (ApCsel 2,42; vö. Jel 1,3). Ez a tömör leírás – amely a Pünkösd elbeszélésének végén található, amikor a Szentlélek az apostolok száját prédikálásra nyitotta, és az őket hallgatók közül sokakat hitre vezetett – kiemeli a Szentlélek működésének néhány lényeges, az Egyházban meglévő elemét. Már az Egyház tanításának és szentségi életének, lelkiségének és szeretet iránti elkötelezettségének mintegy előzetes összefoglalása. Mindezek az apostoli közösségben kezdődtek, és ennek az életstílusnak a Szentlélekben való átadása az Apostoli hagyomány. A *lex orandi* (az imádság szabálya), a *lex credendi* (a hit szabálya) és a *lex vivendi* (az élet szabálya) jelenti az összes lényeges szempontját ennek a Hagyománynak. Szent Pál arra a Hagyományra hivatkozik – amelybe apostolként épült be –, amikor annak „átadásáról” beszél, amit ő maga is „kapott” (Kor 15,1-11; vö. továbbá 1Kor 11,23-26).
 
@@ -132,7 +132,7 @@ Bevezetés
 
 32\. Az apostoli Hagyományhoz való hűség a katolikus teológia egyik kritériuma. Ez a hűség megkívánja, hogy tevékeny módon és megkülönböztetéssel fogadja be a folyamatban lévő apostoli Hagyomány különböző tanúságait és kifejezéseit. Ez magába foglalja a Szentírás, a liturgia és az Egyház Atyái és Hittudósai írásainak tanulmányozását, továbbá a Tanítóhivatal tanítására való odafigyelést.
 
-3. A „sensus fidelium”-ra való odafigyelés
+3\. A „sensus fidelium”-ra való odafigyelés
 
 33\. Szent Pál a Tesszalonikaiakhoz írt első levelében írja: „Szüntelenül hálát adunk Istennek, hogy amikor az Isten szavát hallottátok tőlünk, nem úgy fogtátok fel, mint emberi tanítást, hanem mint az Isten szavát, ahogy valóban az is. Bennetek is hatékonynak bizonyul, akik hittetek” (1Tesz 2,13). Ezek a szavak illusztrálják azt, amit a II. Vatikáni Zsinat „az egész nép természetfölötti hitérzékeként *(sensus fidei)*”,[^70] és „a lelki dolgoknak – a nép részéről történő – mély megtapasztalásaként *(sensus fidelium)*” határozott meg.[^71] A hit alanya Isten népe a maga egészében, mely a Szentlélek erejében megerősíti Isten Igéjét. Ennek értelmében jelenti ki a Zsinat, hogy Isten népének teljessége részesedik Jézus prófétai szolgálatából,[^72] és hogy a Szentlélektől származó kenetet birtokolva (vö. 1Jn 2,20.27) „már nem lehet tévedni a hitben”.[^73] Az Isten népét vezető pásztorok, miközben annak hitét szolgálják, maguk is elsősorban a hívők közösségének tagjai. A *Lumen gentium* ezért beszél előbb Isten népéről és a *sensus fidei*-ről, valamint arról, hogy ezt ki birtokolja,[^74] és csak utána a püspökökről,[^75] akik a püspökségben való apostoli jogfolytonosságuk által és sajátos karizmájuk – *charisma veritatis certum* (az igazság biztos karizmája)[^76] – révén alkotják az Egyház Tanítóhivatalát, mivel hierarchikus közösségben állnak fejükkel, Róma Püspökével és az apostoli székben Szent Péter utódjával.[^77] A *Dei Verbum* hasonlóképpen tanítja, hogy Isten Igéje „az Egyháznak lett átadva” és elmondja, hogyan csatlakozik hozzá „az egész szent nép”, hogy aztán pontosítsa: az Isten Igéje hiteles értelmezésének hivatala a Pápára és a püspökökre lett bízva.[^78] Ez a rendelkezés alapvetően fontos a katolikus teológia számára. Amint Szent Ágoston leszögezte: *„Vobis sum episcopus, vobiscum sum christianus”*.[^79]
 
@@ -142,7 +142,7 @@ Bevezetés
 
 36\. A *sensus fidelium*-ra való figyelés a katolikus teológia egyik kritériuma. A teológiának azt kell keresnie, hogy felfedezze és helyesen artikulálja azt, amiben a katolikus hívők ténylegesen hisznek. Szeretetben kell elmondania az igazságot, oly módon, hogy a hívők növekedni tudjanak a hitben, és ne legyenek olyanok, akiket „a tévedésbe ejtő álnokság minden szele magával sodor” (Ef 4,14-15).
 
-4. Felelős csatlakozás az egyházi Tanítóhivatalhoz
+4\. Felelős csatlakozás az egyházi Tanítóhivatalhoz
 
 37\. A katolikus teológiában a Tanítóhivatal integráns része magának teológiai munkának, mivel a teológia Istentől kapja a tárgyát az Egyházon keresztül, s az Egyház hitének hiteles értelmezése „kizárólag az Egyház eleven Tanítóhivatalára van bízva”,[^81] vagyis a Pápa és a püspökök Tanítóhivatalára. A Tanítóhivatalhoz való hűség azért fontos, hogy a teológia hittudomány *(scientia fidei)* és egyházi tevékenység lehessen. A korrekt teológiai metodológia a Tanítóhivatal természetének és tekintélyének helyes felfogását kívánja a maga a különböző szintjein, valamint az egyházi Tanítóhivatal és a teológia között korrekt módon létező kapcsolatok helyes felfogását.[^82] A püspöknek és a teológusoknak eltérő hivatásuk van, s tisztelniük kell egymás illetékességi köreit annak elkerülésére, hogy a Tanítóhivatal a teológiát pusztán ismétlő tudományra redukálja, vagy pedig a teológusok átvegyék az Egyház főpásztorainak tanítói hivatalát.
 
@@ -160,7 +160,7 @@ Bevezetés
 
 44\. A Tanítóhivatalhoz való felelős csatlakozás a maga különböző fokozataiban a katolikus teológia egyik kritériuma. A katolikus teológusoknak el kell ismerniük a püspökök illetékességét és különösképpen a püspökök testületét a Pápa főségével, hogy hiteles értelmezését adják a Szentírásban és a Szenthagyományban átörökített Isten Igéjének.[^99]
 
-5. A teológusok közössége
+5\. A teológusok közössége
 
 45\. Mint bármely más keresztény hivatás, úgy a teológus szolgálata is – azon túl, hogy személyes – közösségi és kollegiális. Az Egyházban és az Egyházért műveli és szolidaritásban éli meg azokkal, akik ugyanezt a hivatást kapták. A teológusok joggal öntudatosak és büszkék a szolidaritásnak ama kötelékei miatt, melyek egyesítik őket Krisztus testének és a világnak teljesített szolgálatukban. Nagyon sokféle módon – mint kollégák a teológiai iskolákban és intézményekben, mint ugyanazon teológiai társaságok és társulatok tagjai, mint munkatársak a kutatásban, illetve mint írók és tanárok – támogatják, bátorítják és ösztönzik egymást; valamint mentorként és példaképként szolgálnak különösképpen azoknak az egyetemi hallgatóknak, akik maguk is teológusok kívánnak lenni. Továbbá, amint jogos is, a szolidaritásnak ezek a kötelékei térben és időben kiterjednek, szerte a világon egyesítve a különböző országok és kultúrák, valamint a különböző korok és helyzetek teológusait. Ez a szolidaritás különösen akkor hasznos, amikor előmozdítja a katolikus teológia kritériumainak tudatosítását és figyelembe vételét, amint ez a dokumentum bemutatja azokat. Senki sem tudja jobban segíteni a katolikus teológusokat abban a törekvésükben, hogy saját tudományáguk valódi jellemzőivel összhangban a lehető legjobb szolgálatokat nyújtsák, mint a többi katolikus teológus.
 
@@ -174,7 +174,7 @@ Bevezetés
 
 50\. A katolikus teológia egyik kritériuma, hogy hivatásos, imádságos és szeretetteljes együttműködésben művelik a katolikus teológusok teljes közösségével az egyházi közösségben, a kölcsönös tisztelet és támogatás szellemében, figyelemmel mind a hívők szükségleteire és értelmezéseire, mind pedig az Egyház főpásztorainak vezetésére.
 
-6. Párbeszédben a világgal
+6\. Párbeszédben a világgal
 
 51\. „Isten népe… hiszi, hogy az Úr Lelke, mely betölti a földkerekséget, vezérli”.[^104] A II. Vatikáni Zsinat megállapította, hogy az Egyháznak tehát készen kell állnia arra, hogy különbséget tegyen a korunkban meglévő „eseményekben, szükségletekben és vágyakban”, melyek a Szentlélek működésének valódi jelei.[^105] „E feladat végrehajtásához az Egyháznak mindig kötelessége vizsgálni és az evangélium fényénél értelmezni az idők jeleit \[*signa temporum perscrutandi*\], azért, hogy minden nemzedéknek megfelelő módon tudjunk választ adni az emberek örök kérdéseire a jelen és az eljövendő élet értelméről és e kettő összefüggéseiről. Így tehát ismernie és értenie kell a világot, melyben élünk, várakozásait, vágyait és gyakran drámai vonásait”.[^106]
 
@@ -198,7 +198,7 @@ Bevezetés
 
 60\. Hármas vizsgálódásban, néhány időszerű kérdést megközelítve, ez a fejezet a teológiának – mint értelmes emberi tevékenységnek – néhány lényeges szempontját vizsgálja, az intellektuális kutatáson belüli hiteles és helyettesíthetetlen helyzetével. Először: a teológia a hit által megvilágított értelem munkája *(ratio fide illustrata),* mely megkísérli tudományos párbeszédre lefordítani Istennek a kinyilatkoztatásban kifejezett Igéjét. Másodszor: az általa alkalmazott értelmes módszerek és a belőle fakadó specializált teológiai tudományágak sokfélesége összeegyeztethető a teológia alapvető egységével, mivel Istenről szóló beszéd a kinyilatkoztatás fényében. Harmadszor: a teológia szorosan kötődik a lelki tapasztalathoz, mely megvilágítja és amelyből táplálkozik, valamint természetéből fakadóan megnyílik a hiteles bölcsességre Jézus Krisztus Istene transzcendenciájának élő érzésével.
 
-1. Isten igazsága és a teológia értelmessége
+1\. Isten igazsága és a teológia értelmessége
 
 61\. Ebben az alfejezetben a teológia történetének néhány szempontját tekintjük át az első idők kihívásaitól a jelen idők kihívásaiig, a teológia tudományos természetére való utalással. Arra vagyunk hivatva, hogy megismerjük Istent, megismerjük Isten igazságát: „Az az örök élet, hogy ismerjenek téged, az egyedüli igaz Istent és akit küldtél, Jézus Krisztust” (Jn 17,3). Jézus azért jött, hogy tanúságot tegyen az igazságról (vö. Jn 18,37), s úgy mutatkozott be mint „az út, az igazság és az élet” (Jn 14,6). Ez az igazság ajándék, mely leszáll „a világosság Atyjától” (Jak 1,17). Az Atyaisten kezdte ezt a megvilágosító munkát (vö. Gal 4,4-7), és ő az, aki majd teljesedésbe viszi (vö. Jel 21,5-7). A Szentlélek mind Paraklétosz, a hívők vigasztalója, mind „az igazság Lelke” (Jn 14,16-17), aki ösztönzi s megvilágítja a hívőket, és elvezeti őket „a teljes igazságra” (Jn 16,13). Isten teljes igazságának végső kinyilatkoztatása az emberiség és a teremtés végső beteljesedése lesz (1Kor 15,28). Következésképpen a Szentháromság misztériumának a teológiai vizsgálódás középpontjában kell állnia.
 
@@ -226,7 +226,7 @@ Bevezetés
 
 73\. A katolikus teológia egyik kritériuma, hogy meg kell próbálnia a keresztény hit igazságainak tudományosan és ésszerűen megokolt bemutatását. Hogy ezt megtegye, segítségül kell hívnia az értelmet, és el kell ismernie a hit és az értelem között fennálló szoros köteléket, elsősorban a filozófiai értelmet, hogy így le tudja győzni a fideizmust és a racionalizmust.[^130]
 
-2. A teológia egysége a módszerek és tudományágak sokszínűségében
+2\. A teológia egysége a módszerek és tudományágak sokszínűségében
 
 74\. Ez az alfejezet a teológia és a teológiák, valamint a teológia és az egyéb tudományok közötti kapcsolatot vizsgálja. A katolikus teológia – amit Szent Ágostonnal együtt alapvetően úgy lehet értelmezni, hogy az „érvelés vagy beszéd Istenről”[^131] – a maga lényegében egy, és minthogy tudomány, megvannak a megkülönböztető jegyei: tárgya az egy és egyetlen Isten, s tárgyát saját módján tanulmányozza, vagyis a Kinyilatkoztatás által megvilágított értelem használatával. Szent Tamás éppen a *Summa theologiae* elején magyarázza, hogy a teológiában mindent az Istennel való vonatkozásában kell érteni, *sub ratione Dei*.[^132] A kérdések nagy sokfélesége – amit a teológusnak figyelembe kell vennie – ebben az Istenre való végső hivatkozásban találja egységét. Mindazok a „misztériumok”, melyeket a különböző teológiai traktátusok tartalmaznak, arra vonatkoznak, ami – a szó legszorosabb értelmében – az egyetlen abszolút Misztérium, vagyis Isten Misztériuma. Az eme Misztériumra való hivatkozás egységesíti a teológiát a témák és gondolatmenetek hatalmas választékában, s a *reductio in Mysterium* fogalma értékes lehet annak a dinamizmusnak a kifejezésére, amely mélységes módon egyesíti a teológiai állításokat. Minthogy Isten Misztériuma Krisztusban lett kinyilatkoztatva a Szentlélek erejéből, a II. Vatikáni Zsinat kifejezte annak szükségességét, hogy minden teológiai tárgyat „Krisztus misztériumával és az üdvösség történetével eleven kapcsolatban kell megújítani”.[^133]
 
@@ -258,7 +258,7 @@ Bevezetés
 
 85\. A katolikus teológia egyik kritériuma az, hogy megpróbálja beilleszteni a kutatások és módszerek sokféleségét az *intellectus fidei* egységesített tervébe, és ragaszkodik az igazság egységéhez és így magának a teológiának alapvető egységéhez. A katolikus teológia elismeri az egyéb tudományok módszereit és kritikusan alkalmazza azokat a saját kutatásában, nem zárkózik el a kritikától, és nyitva áll a tudományos párbeszédre.
 
-3. Tudomány és bölcsesség
+3\. Tudomány és bölcsesség
 
 86\. Ez az utolsó alfejezet azt a tényt vizsgálja, hogy a teológia nem csupán tudomány, hanem bölcsesség is, különleges szereppel az egész emberi megismerés és Isten Misztériuma közötti kapcsolatban. Az emberi személy nem elégszik meg részleges igazságokkal, hanem törekszik a tudomány különböző elemeit és területeit úgy egységesíteni, hogy az összes dolgot, sőt magát az emberi élet végső igazságát is megértse. Ez a kutatás kétségtelenül lelkesíti magát a teológiát, és szoros kapcsolatba vonja a lelki tapasztalattal és a szentek bölcsességével. Tágabb értelemben azonban a katolikus teológia mindenkit meghív a végső Igazság transzcendenciájának a felismerésére, amit soha nem lehet teljesen megérteni vagy megismerni. A teológia nem csupán bölcsesség önmagában, hanem bölcsességre való invitálás más tudományágak felé is. A teológia jelenlétének a tudományos vitatkozásban és az egyetemi életben potenciálisan megvan az az áldásos hatása, hogy mindenkit emlékeztet az emberi értelem bölcsességi hivatására és Jézus sokatmondó kérdésére, amit első szavaival mondott Szent János evangéliumában: „Mit kerestek?” (Jn 1,38 – SzIT: „Mit akartok?”).
 

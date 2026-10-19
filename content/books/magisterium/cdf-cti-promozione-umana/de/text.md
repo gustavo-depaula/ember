@@ -16,7 +16,7 @@ Der folgende Bericht versucht eine erste Synthese der wichtigsten Ergebnisse. Di
 
 Karl Lehmann  
 Präsident der Unterkommission  
-30. Juni 1977
+30\. Juni 1977
 
 **HAUPTTEIL**
 

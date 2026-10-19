@@ -11,22 +11,22 @@ Introductie
 Hoofdstuk 1: Het Woord van God beluisteren
 
 1\. Het primaat van Gods Woord  
-2. Geloof, het antwoord op Gods Woord  
-3. Theologie: het geloof dat begrijpt
+2\. Geloof, het antwoord op Gods Woord  
+3\. Theologie: het geloof dat begrijpt
 
 Hoofdstuk 2. In de gemeenschap van de Kerk verblijven
 
 1\. De studie van de Schrift als ziel van de theologie  
-2. Trouw aan de apostolische traditie  
-3. Aandacht voor de *sensus fidelium* 4. In verantwoordelijkheid het kerkelijk leergezag volgen  
-5. In het gezelschap van theologen  
-6. In dialoog met de wereld
+2\. Trouw aan de apostolische traditie  
+3\. Aandacht voor de *sensus fidelium* 4. In verantwoordelijkheid het kerkelijk leergezag volgen  
+5\. In het gezelschap van theologen  
+6\. In dialoog met de wereld
 
 Hoofdstuk 3. Rekenschap afleggen van Gods waarheid
 
 1\. Gods waarheid en de rationaliteit van de theologie  
-2. De eenheid van de theologie in een veelvoud van methoden en disciplines  
-3. Wetenschap en wijsheid
+2\. De eenheid van de theologie in een veelvoud van methoden en disciplines  
+3\. Wetenschap en wijsheid
 
 Conclusie
 

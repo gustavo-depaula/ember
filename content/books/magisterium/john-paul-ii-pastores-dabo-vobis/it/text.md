@@ -400,7 +400,7 @@ Sì, *la dimensione vocazionale è connaturale ed essenziale alla pastorale dell
 
 Una lettura propriamente teologica della vocazione sacerdotale e della pastorale che la riguarda può scaturire solo dalla lettura del mistero della Chiesa come *mysterium vocationis.*
 
-35. Ogni vocazione cristiana trova il suo fondamento nell'elezione gratuita e preveniente da parte del Padre « che ci ha benedetti con ogni benedizione spirituale nei cieli, in Cristo. In lui ci ha scelti prima della creazione del mondo, per essere santi e immacolati al suo cospetto nella carità, predestinandoci a essere suoi figli adottivi per opera di Gesù Cristo, secondo il beneplacito della sua volontà ».(216)
+35\. Ogni vocazione cristiana trova il suo fondamento nell'elezione gratuita e preveniente da parte del Padre « che ci ha benedetti con ogni benedizione spirituale nei cieli, in Cristo. In lui ci ha scelti prima della creazione del mondo, per essere santi e immacolati al suo cospetto nella carità, predestinandoci a essere suoi figli adottivi per opera di Gesù Cristo, secondo il beneplacito della sua volontà ».(216)
 
 Ogni vocazione cristiana viene da Dio, è dono di Dio. Essa però non viene mai elargita fuori o indipendentemente dalla Chiesa, ma passa sempre nella Chiesa e mediante la Chiesa, perché, come ci ricorda il Concilio Vaticano II, « piacque a Dio di santificare e salvare gli uomini non individualmente e senza alcun legame tra loro, ma volle costituire di loro un popolo, che lo riconoscesse nella verità e santamente lo servisse ».(217)
 

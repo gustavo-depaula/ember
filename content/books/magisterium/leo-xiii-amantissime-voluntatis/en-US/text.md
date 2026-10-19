@@ -44,13 +44,22 @@ To THE Blessed Virgin. Prayer for England.
 
 O Blessed Virgin Mary, Mother of God and our most gentle Queen and Mother, look down in mercy upon England thy “Dowry” and upon us all who greatly hope and trust in thee. By thee it was that Jesus our Saviour and our hope was given unto the world ; and He has given thee to us that we might hope still more. Plead for us thy children, whom thou didst receive and accept at the foot of the cross. O sorrowful Mother! intercede for our separated brethren, that with us in the one true fold they may be united to the supreme Shepherd, the Vicar of thy Son. Pray for us all, dear Mother, that by faith fruitful in good works we may all deserve to see and praise God, together with thee, in our heavenly home. Amen.
 
-1.  Joann. Diac. in vita ejus, c. ii. 33. 2 Epist. c. xi. 28, et c. ix. 58.’ lb. c. xi. 66, al c. ix. 60, c. xi. 29, et c. ix. 59.
-2.  2 Thes. uL 1.
-3.  Ps. cxliii. 15.
-4.  Chrys. Horn. 30 in Gen. ^ 1 Cor. i. 30. ^ Luke xi. 9, 10.
-5.  John xvi. 23, 24. ^ John vi. 44. \* Heb. v. 7. 2 Luke XL 13. \* Luke vi. 12. ‘ Li ev. S. Joann. xvii.
-6.  Â» Eph. iv. 13. 2 lb 3-5. ^ Heb. xii. 2. ‘ Eph. v. 25-27.
-7.  Heb. xiii. 8. ^ lb. 7. ” S. Aug. de dono persev. xxiii. 63-
-8.  1 1 Cbr. X. 32. ‘ John xv. 7.
-9.  Rom. XV. 13.
-10. John xvii. 11, 17, 20, 21, 23.
+1\. Joann. Diac. in vita ejus, c. ii. 33. 2 Epist. c. xi. 28, et c. ix. 58.’ lb. c. xi. 66, al c. ix. 60, c. xi. 29, et c. ix. 59.
+
+2\. 2 Thes. uL 1.
+
+3\. Ps. cxliii. 15.
+
+4\. Chrys. Horn. 30 in Gen. ^ 1 Cor. i. 30. ^ Luke xi. 9, 10.
+
+5\. John xvi. 23, 24. ^ John vi. 44. \* Heb. v. 7. 2 Luke XL 13. \* Luke vi. 12. ‘ Li ev. S. Joann. xvii.
+
+6\. Â» Eph. iv. 13. 2 lb 3-5. ^ Heb. xii. 2. ‘ Eph. v. 25-27.
+
+7\. Heb. xiii. 8. ^ lb. 7. ” S. Aug. de dono persev. xxiii. 63-
+
+8\. 1 1 Cbr. X. 32. ‘ John xv. 7.
+
+9\. Rom. XV. 13.
+
+10\. John xvii. 11, 17, 20, 21, 23.

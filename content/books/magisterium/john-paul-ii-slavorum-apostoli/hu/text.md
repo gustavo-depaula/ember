@@ -4,8 +4,8 @@
 
 II\. János Pál pápa enciklikája  
 Szent Cirill és Metód evangelizációs munkájának  
-1100. évfordulója alkalmából  
-1985. június 11.
+1100\. évfordulója alkalmából  
+1985\. június 11.
 
 Tartalomjegyzék  
 
@@ -134,7 +134,7 @@ Velencében az egyházi képviselők előtt, kik az Egyház valóságának szűk
 
 Hivatkozott arra, hogy Isten „felkelti napját jókra is, gonoszakra is, esőt ad az igazaknak is, bűnösöknek is”[\[30\]](#J30); majd ezt mondta: „nemde egyformán szívjuk a levegőt? Nem szégyellitek magatokat, hogy csak három nyelvet fogadtok el (a hébert, görögöt és a latint), elhatározva, hogy a többi nép maradjon süket és vak! Mondjátok, olyan gyengének vélitek Istent, hogy nem engedheti meg ezt, vagy annyira irigynek, hogy nem akarja?”[\[31\]](#J31) A történelmi és dialektikus érvelésre a Szentírás szavaival válaszolt: „...minden nyelv hirdesse az Atyaisten dicsőségére, hogy Jézus Krisztus az Úr.”[\[32\]](#J32) „Imádjon téged az egész föld, és zengje dicséretedet, magasztalja nevedet”[\[33\]](#J33); „Áldja az Urat minden nép, minden törzs dicsőítse”.[\[34\]](#J34)
 
-18. Az Egyház azért is katolikus, mert képes a kinyilatkoztatott igazságot, melyet isteni tartalmában érintetlenül őriz, minden emberi környezetben úgy hirdetni, hogy az találkozzék minden nép legmagasabb szintű eszményével, jogos elvárásával. Egyébként ehhez járul az értékek teljessége mint örökség, amely az egyik generációt a másikhoz köti az élet felbecsülhetetlen értékű ajándékával. Olyan ez, mint töméntelen színes mozaikkocka sokasága, melyek együttesen adják a Pantokrátor eleven mozaikját, ki teljes ragyogásában majd a parúzia idején jelenik meg előttünk.
+18\. Az Egyház azért is katolikus, mert képes a kinyilatkoztatott igazságot, melyet isteni tartalmában érintetlenül őriz, minden emberi környezetben úgy hirdetni, hogy az találkozzék minden nép legmagasabb szintű eszményével, jogos elvárásával. Egyébként ehhez járul az értékek teljessége mint örökség, amely az egyik generációt a másikhoz köti az élet felbecsülhetetlen értékű ajándékával. Olyan ez, mint töméntelen színes mozaikkocka sokasága, melyek együttesen adják a Pantokrátor eleven mozaikját, ki teljes ragyogásában majd a parúzia idején jelenik meg előttünk.
 
 Az evangélium nem fojtja el és nem halványítja el azt, amit minden ember, nép és nemzet, amit minden kultúra történelme folyamán mint értéket tudott felmutatni: az igazat,a jót és a szépet. Inkább ezeknek az értékeknek átvételére és továbbfejlesztésére késztet; ezek örömteli és nagylelkű átélésére buzdít, hogy a kinyilatkoztatás titokzatos és ösztönző fényénél kiteljesedjenek.
 

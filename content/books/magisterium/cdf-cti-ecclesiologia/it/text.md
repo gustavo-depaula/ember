@@ -50,7 +50,7 @@ Infine, pur non ritenendolo in alcun modo un documento di pari natura e valore d
 
 Roma, 7 ottobre 1985
 
-1. LA FONDAZIONE DELLA CHIESA A OPERA DI GESÙ CRISTO
+1\. LA FONDAZIONE DELLA CHIESA A OPERA DI GESÙ CRISTO
 
 1.1. *Stato della questione*
 
@@ -104,7 +104,7 @@ Fondata da Cristo, la Chiesa non dipende da lui solo nella sua nascita esteriore
 
 Questa struttura fondamentale si manifesta, sotto aspetti diversi, in numerose immagini bibliche; sposa di Cristo, gregge di Cristo, proprietà di Dio, tempio di Dio, popolo di Dio, casa di Dio, podere o campo di Dio (*[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, n. 6) e soprattutto corpo di Cristo (*[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, n. 7), immagine che San Paolo sviluppa riferendosi più verosimilmente all’Eucaristia, che gli offre nel capitolo XI della *1 Lettera ai Corinti* il fondamento più profondo della sua interpretazione. Questa immagine viene ulteriormente sviluppata nella *Lettera ai Colossesi* e nella *Lettera agli Efesini* (cf. *Col* 1, 18; *Ef* 1, 22; 5, 23): Cristo è il capo del corpo della Chiesa. Il Padre « tutto ha sottomesso ai suoi piedi e lo ha costituito su tutte le cose a capo della Chiesa, la quale è il suo corpo, la pienezza di colui che si realizza interamente in tutte le cose » (*Ef* 1, 22 s.), affinché sia ricolma di « tutta la pienezza di Dio » (*Ef* 3, 19).
 
-2. LA CHIESA « NUOVO POPOLO DI DIO »
+2\. LA CHIESA « NUOVO POPOLO DI DIO »
 
 2.1. *Le molteplici designazioni della Chiesa*
 
@@ -126,7 +126,7 @@ Il « popolo di Dio » procede « dall’alto », dal disegno di Dio, cioè dall
 
 Così l’espressione « popolo di Dio » riceve il suo specifico significato da un riferimento costitutivo al mistero trinitario rivelato da Gesù Cristo nello Spirito Santo (*[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, n. 4). Il nuovo popolo di Dio si presenta come la « comunità di fede, di speranza e di carità » (*[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, n. 8), di cui l’Eucaristia è la sorgente (*[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, nn. 3 e 7). L’unione intima di ogni fedele col suo Salvatore come pure l’unità dei fedeli tra di loro costituiscono il frutto indivisibile dell’attiva appartenenza alla Chiesa e trasformano l’intera esistenza dei cristiani in « culto spirituale ». La dimensione comunitaria è essenziale alla Chiesa, perché in essa possano essere vissute e condivise fede, speranza e carità, e perché una tale comunione, radicata nel cuore di ogni credente, si realizzi anche su un piano comunitario, obiettivo e istituzionale. Anche la Chiesa è chiamata a vivere, su tale piano sociale, nella memoria e nell’attesa di Gesù Cristo. Suo compito è predicare questa buona novella a tutti gli uomini.
 
-3. LA CHIESA COME « MISTERO » E « SOGGETTO STORICO »
+3\. LA CHIESA COME « MISTERO » E « SOGGETTO STORICO »
 
 3.1. *La Chiesa insieme « mistero » e « soggetto storico »*
 
@@ -166,7 +166,7 @@ Tuttavia, il fatto di essere membri del popolo di Dio assegna ai cristiani una s
 
 Il nuovo popolo di Dio non si contraddistingue, quindi, per un modo di esistenza o una missione che dovrebbero sostituirsi a un’esistenza e a progetti umani già presenti. Al contrario, la memoria e l’attesa di Gesù Cristo convertiranno o trasformeranno dall’interno il modo d’esistere e i progetti già vissuti in un gruppo di uomini. Si potrebbe affermare al riguardo che la memoria e l’attesa di Gesù Cristo, di cui vive il nuovo popolo di Dio, costituiscono come l’elemento « formale » (nel senso scolastico del termine) che struttura l’esistenza concreta degli uomini. Questa, che è come la « materia » (sempre nel senso scolastico), evidentemente responsabile e libera, riceve la tale o la tal altra determinazione per costituire un modo di vita « secondo lo Spirito Santo ». Tali modi di vita non esistono *a priori* e non possono essere determinati in anticipo; si manifestano in una multiforme varietà e sono perciò sempre imprevedibili, anche se si possono riferire all’azione costante di un unico Spirito Santo. Ciò che questi vari modi di vita hanno invece in comune e di costante è di esprimere « nelle ordinarie condizioni della vita familiare e sociale, di cui la loro esistenza è come intessuta » (cf. *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, n. 31), le esigenze e le gioie del Vangelo di Cristo.
 
-4. POPOLO DI DIO E INCULTURAZIONE
+4\. POPOLO DI DIO E INCULTURAZIONE
 
 4.1. *Necessità dell’inculturazione*
 
@@ -206,7 +206,7 @@ Con la sua presenza e il suo impegno nella storia degli uomini, il nuovo popolo 
 
 In quest’impegno globale, la promozione della giustizia è indubbiamente solo un elemento, ma un elemento importante e urgente. L’annuncio del Vangelo deve accettare la sfida sia delle ingiustizie locali, sia dell’ingiustizia planetaria. È vero che in questo campo si sono manifestate alcune deviazioni di natura politico-religiosa; ma esse non dovrebbero condurre a sospettare o a dimenticare la necessaria missione di promuovere la giustizia; anzi, mostrano piuttosto quanto sia urgente un discernimento teologico fondato su strumenti d’analisi della massima scientificità possibile, sempre però guidato dalla luce della fede (cf. [*Gesù Cristo, forza di liberazione.* Istruzione su alcuni aspetti della Teologia della liberazione](/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19840806_theology-liberation_it.html), Congregazione per la Dottrina della Fede, 1984). D’altra parte, siccome le ingiustizie sono troppo spesso connesse con l’ingiustizia planetaria sulla quale [Paolo VI](/holy_father/paul_vi/index_it.htm) aveva con forza richiamato l’attenzione mondiale nella *[Populorum Progressio](/holy_father/paul_vi/encyclicals/documents/hf_p-vi_enc_26031967_populorum_it.html)*, la promozione della giustizia riguarda la Chiesa cattolica diffusa in tutto il mondo, richiede cioè l’aiuto vicendevole di tutte le Chiese particolari e l’aiuto della Sede Apostolica Romana.
 
-5. CHIESE PARTICOLARI E CHIESA UNIVERSALE
+5\. CHIESE PARTICOLARI E CHIESA UNIVERSALE
 
 5.1. *Distinzioni necessarie*
 
@@ -246,7 +246,7 @@ Asserendo ciò, non si diminuisce affatto l’importanza della funzione pratica 
 
 Rimane il fatto che nella condizione peregrinante, come è la nostra, i rapporti tra le Chiese particolari tra di loro come pure quelli con la Sede di Roma, incaricata del ministero dell’unità e della comunione universali, possono talora dimostrarsi difficili. L’inclinazione peccaminosa degli uomini li spinge a tramutare le differenze in opposizioni, per cui bisogna senza sosta ricercare, nella comunione con la Sede di Roma e sotto la sua autorità, le modalità più adatte a esprimere l’universalità cattolica, che permetta la compenetrazione degli elementi umani più diversi nell’unità della fede.
 
-6. IL NUOVO POPOLO DI DIO COME SOCIETÀ GERARCHICAMENTE ORDINATA
+6\. IL NUOVO POPOLO DI DIO COME SOCIETÀ GERARCHICAMENTE ORDINATA
 
 6.1. *Comunione, struttura e organizzazione*
 
@@ -268,7 +268,7 @@ Nella struttura fondamentale della Chiesa possiamo scorgere gli stessi principi 
 
 La presenza di elementi giuridici nelle disposizioni che sovrintendono alla vita della Chiesa richiede ancora alcune considerazioni. La libertà cristiana è uno dei tratti peculiari della Nuova Alleanza o del « nuovo popolo di Dio » e costituisce quindi una novità rispetto all’antica legge. Tuttavia, l’avvento di questa nuova libertà, nella testimonianza dei Profeti di Israele già connessa con l’interiorizzazione della legge, scolpita nell’intimo dell’animo e nello stesso cuore dell’uomo (cf. *Ger* 31, 31), non comporta che la legge esteriore scompaia interamente dalla vita della Chiesa, almeno sinché questa è « pellegrina » su questa terra. Il Nuovo Testamento ci presenta già i primi elementi di un diritto ecclesiastico (*Mt* 18, 15-18; *At* 15, 28 s.; *1 Tm* 3, 1-13; 5, 17-22; *Tt* 1, 5-9, ecc.). I primi Padri della Chiesa sono testimoni di alcuni sviluppi di norme destinate a fissare e conservare il retto ordine della comunità. Così Clemente Romano, Ignazio d’Antiochia, Policarpo di Smirne, Tertulliano, Ippolito, ecc. I Concili ecumenici o locali stabiliscono disposizioni disciplinari accanto a decisioni dottrinali propriamente dette. L’antico diritto della Chiesa era dunque già importante, anche se non assumeva sempre la forma di una legge scritta. Vigeva infatti una specie di diritto consuetudinario, non per questo meno vincolante e che spesso ha costituito la fonte dei « santi canoni » che verranno redatti in seguito.
 
-7. IL SACERDOZIO COMUNE NEL SUO RAPPORTO COL SACERDOZIO MINISTERIALE
+7\. IL SACERDOZIO COMUNE NEL SUO RAPPORTO COL SACERDOZIO MINISTERIALE
 
 7.1. *Due forme di partecipazione al sacerdozio di Cristo*
 
@@ -306,7 +306,7 @@ Il compito del laico negli incarichi e negli uffici ecclesiastici, contemplati n
 
 Questa medesima apertura non dovrebbe neppure portarci a dimenticare che i laici hanno, nell’insieme della missione della Chiesa che essi condividono con tutti gli altri fedeli, una *vocazione propria*, come una propria vocazione hanno anche i vescovi, i presbiteri, i diaconi o, a un livello diverso, i religiosi e le religiose. Come ha stabilito il Concilio al numero 31 della *[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*: « Per loro vocazione è proprio dei laici cercare il regno di Dio trattando le cose temporali e ordinandole secondo Dio. Essi vivono nel secolo, cioè implicati in tutti i singoli impieghi e affari del mondo e nelle ordinarie condizioni della vita familiare e sociale, di cui la loro esistenza è come intessuta. Ivi sono da Dio chiamati a contribuire, quasi dall’interno a modo di fermento, alla santificazione del mondo mediante l’esercizio della loro funzione propria e sotto la guida dello spirito evangelico, e in questo modo, a rendere visibile Cristo agli altri, principalmente con la testimonianza della loro vita e col fulgore della fede, della speranza e della carità ».
 
-8. LA CHIESA COME SACRAMENTO DI CRISTO
+8\. LA CHIESA COME SACRAMENTO DI CRISTO
 
 8.1. *Sacramento e mistero*
 
@@ -334,7 +334,7 @@ Osserviamo infine che, quando viene applicato alla Chiesa, il termine « sacrame
 
 La teologia della Chiesa-sacramento ci consente, di conseguenza, di essere maggiormente attenti alla responsabilità concreta della comunità cristiana. Infatti, attraverso la vita, la testimonianza e l’azione quotidiana dei discepoli di Cristo gli uomini vengono guidati verso il loro Salvatore. Certuni, attraverso la conoscenza del « segno » della Chiesa e la grazia della conversione, scoprono qual è la grandezza dell’Amore di Dio e la verità del Vangelo, cosicché per loro la Chiesa è proprio esplicitamente « segno e strumento » di salvezza. Altri, invece, vengono associati dallo Spirito Santo, in una maniera più misteriosa e a Dio solo nota, al mistero pasquale di Cristo e quindi anche alla Chiesa (*[Lumen Gentium](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_it.html)*, nn. 14 e 16; *[Ad Gentes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_decree_19651207_ad-gentes_it.html)*, n. 7; *[Gaudium et Spes](/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_it.html)*, nn. 22 e 5).
 
-9. L’UNICA CHIESA DI CRISTO
+9\. L’UNICA CHIESA DI CRISTO
 
 9.1. *Unità della Chiesa e diversità degli elementi cristiani*
 
@@ -360,7 +360,7 @@ Dalla nostra analisi risulta che « l’autentica Chiesa » non può essere inte
 
 Il voto di Gesù: « Perché tutti siano una cosa sola. Come tu, Padre, sei in me e io in te, siano anch’essi in noi una cosa sola, perché il mondo creda che tu mi hai mandato » (*Gv* 17, 21) è sempre più urgente. Come non meno urgente è l’obbligo, che ne deriva per tutti i cristiani e tutte le comunità cristiane, di tendere sin d’ora, con ogni loro energia, verso quest’unità, oggetto della nostra speranza.
 
-10. L’INDOLE ESCATOLOGICA DELLA CHIESA: REGNO DI DIO E CHIESA
+10\. L’INDOLE ESCATOLOGICA DELLA CHIESA: REGNO DI DIO E CHIESA
 
 10.1. *La Chiesa è insieme terrena e celeste*
 

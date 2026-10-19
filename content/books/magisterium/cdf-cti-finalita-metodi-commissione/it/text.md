@@ -33,9 +33,9 @@ Le norme metodologiche da osservare nei futuri lavori della Commissione sono sta
 Tra le materie che la Commissione si è proposta di studiare sono state scelte per il momento quattro questioni:
 
 1\. Unità della fede;  
-2. Il Sacerdozio;  
-3. Teologia della speranza; fede cristiana e avvenire dell'umanità;  
-4. I criteri della conoscenza morale cristiana.
+2\. Il Sacerdozio;  
+3\. Teologia della speranza; fede cristiana e avvenire dell'umanità;  
+4\. I criteri della conoscenza morale cristiana.
 
 Per lo studio di questi quattro temi sono state costituite quattro sottocommissioni. Spetta alle sottocommissioni di determinare maggiormente il proprio tema.
 

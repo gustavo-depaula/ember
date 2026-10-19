@@ -66,7 +66,7 @@ VIII\. Salve le facoltà speciali che legittimamente competono ai Patriarchi, ag
 > b) sia in causa un impedimento di diritto naturale o divino, già però estinto;  
 > c) si tratti di matrimoni misti, allorché non siano state adempite le condizioni prescritte dal diritto (*Ibid*., can. 51 ).
 
-14. Dalla pena vendicativa sancita dal diritto comune, che sia stata dichiarata o inflitta direttamente dalla Sede Apostolica.
+14\. Dalla pena vendicativa sancita dal diritto comune, che sia stata dichiarata o inflitta direttamente dalla Sede Apostolica.
 
 15\. Dal tempo stabilito per il digiuno eucaristico. Le norme per le facoltà di dispensare, attribuite ai Vescovi ai Sensi del Decreto Conciliare *Christus Dominus*, entreranno in vigore il 6 agosto di quest'anno, festa della Trasfigurazione del Signore Nostro Gesù Cristo.
 

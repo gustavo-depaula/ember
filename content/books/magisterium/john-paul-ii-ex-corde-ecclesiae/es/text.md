@@ -54,10 +54,13 @@ Espero que estas disposiciones, fundadas en la enseñanza del Concilio Vaticano 
 
 13\. Puesto que el objetivo de una Universidad Católica es el de garantizar de forma institucional una presencia cristiana en el mundo universitario frente a los grandes problemas de la sociedad y de la cultura[^16], ella debe poseer, *en cuanto católica*, las *características esenciales* siguientes:
 
-1.  una inspiración cristiana por parte, no sólo de cada miembro, sino también de la Comunidad universitaria como tal;
-2.  una reflexión continua a la luz de la fe católica, sobre el creciente tesoro del saber humano, al que trata de ofrecer una contribución con las propias investigaciones;
-3.  la fidelidad al mensaje cristiano tal como es presentado por la Iglesia;
-4.  el esfuerzo institucional a servicio del pueblo de Dios y de la familia humana en su itinerario hacia aquel objetivo trascendente que da sentido a la vida[^17].
+1\. una inspiración cristiana por parte, no sólo de cada miembro, sino también de la Comunidad universitaria como tal;
+
+2\. una reflexión continua a la luz de la fe católica, sobre el creciente tesoro del saber humano, al que trata de ofrecer una contribución con las propias investigaciones;
+
+3\. la fidelidad al mensaje cristiano tal como es presentado por la Iglesia;
+
+4\. el esfuerzo institucional a servicio del pueblo de Dios y de la familia humana en su itinerario hacia aquel objetivo trascendente que da sentido a la vida[^17].
 
 14\. «A la luz de estas cuatro características, es evidente que además de la enseñanza, de la investigación y de los servicios comunes a todas las Universidades, una Universidad Católica, *por compromiso institucional*, aporta también a su tarea la inspiración y la luz del *mensaje cristiano.* En una Universidad Católica, por tanto, los ideales, las actitudes y los principios católicos penetran y conforman las actividades universitarias según la naturaleza y la autonomía propias de tales actividades. En una palabra, siendo al mismo tiempo Universidad y Católica, ella debe ser simultáneamente una comunidad de estudiosos, que representan diversos campos del saber humano, y una institución académica, en la que el catolicismo está presente de manera vital»[^18].
 

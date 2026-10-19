@@ -493,32 +493,57 @@ It is my will, finally, that this my Constitution be established, be valid, and 
 
 FOOTNOTES
 
-1.  Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 43ff.: AAS 58 (1966) pp. 1061ff.
-2.  Cf. Apostolic Exhortation Evangelii Nuntiandi, 19 - 20: AAS 68 (1976) pp. 18f.
-3.  Cf. ibid., 18: AAS 68 (1976) pp. 17f. and also Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 58: AAS 58 (1966) p. 1079.
-4.  Cf. Second Vatican Ecumenical Council Declaration on Christian Education Gravissimum Educationis, 10: AAS 58 (1966) p. 737.
-5.  AAS 23 (1931) p. 241.
-6.  AAS 42 (1950) p. 387.
-7.  Declaration on Christian Education Gravissimum Educationis, 10: AAS 58 (1966) p. 737.
-8.  Ibid.
-9.  Ibid. 11: AAS 58 (1966) p. 738.
-10. Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 62: AAS 58 (1966) p. 1083.
-11. Cf. Pope **John** XXIII, Allocution at the opening of the Second Vatican Ecumenical Council: AAS 54 (1962) p. 792 and also the Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 62: AAS 58 (1966) p. 1083.
-12. Pope **Paul** VI, Letter Le transfert a Louvain - la - Neuve to the Rector of the Catholic University of Louvain, September 13, 1975 (cf. L'Osservatore Romano, September 22 - 23, 1975). Also cf. Pope **John** **Paul** II, Encyclical Letter Redemptor Hominis, 19: AAS 71 (1979) pp. 305ff.
-13. Declaration on Christian Education Gravissimum Educationis, 11: AAS 58 (1966) p. 738.
-14. Cf. Apostolic Constitution Regimini Ecclesiae Universae, 78: AAS 59 (1967) p. 914.
-15. Cf. Motu Proprio Sedula Cura: AAS 63 (1971) pp. 665ff. and also the Decree of the Pontifical Biblical Commission Ratio periclitandae doctrinae: AAS 67 (1975) pp. 153ff.
-16. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church Lumen Gentium, 25: AAS 57 (1965) pp. 29 - 31.
-17. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 59: AAS 58 (1966) p. 1080.
-18. Second Vatican Ecumenical Council, Dogmatic Constitution on Divine Revelation Dei Verbum 24: AAS 58 (1966) p. 827.
-19. Second Vatican Ecumenical Council, Declaration on Christian Education Gravissimum Educationis, 10: AAS 58 (1966) p. 737.
-20. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church Ad Gentes, 22: AAS 58 (1966) pp. 973ff.
-21. See the Ecumenical Directory, Second Part: AAS 62 (1970) pp. 705 - 724.
-22. See especially Second Vatican Ecumenical Council, Dogmatic Constitution on Divine Revelation Dei Verbum: AAS 58 (1966) pp. 713ff.
-23. See especially the Letter of Pope **Paul** VI Lumen Ecclesiae, about St. Thomas Aquinas, of November 20, 1974: AAS 66 (1974) pp. 673ff. Also see the circular letters of the Sacred Congregation for Catholic Education: on the Theological Formation of Future Priests, February 22, 1976, on Canon Law Studies in Seminaries, March 1, 1975; and on Philosophical Studies, January 20, 1972.
-24. See Second Vatican Ecumenical Council, Decree on Priestly Formation Optatam Totius, 15: AAS 58 (1966) p. 722.
-25. Especially see the Second Vatican Council, Decree on Priestly Formation Optatam Totius: AAS 58 (1966) pp. 713ff. and the Declaration on Christian Education Gravissimum Educationis: AAS 58 (1966) pp. 728ff
-26. See especially the letter of Pope **Paul** VI on St. Thomas Aquinas Lumen Ecclesiae of November 20, 1974: AAS 66 (1974) pp. 673ff. and the Circular letter of the Sacred Congregation for Catholic Education, On the Study of Philosophy in Seminaries, of January 20, 1972.
+1\. Cf. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 43ff.: AAS 58 (1966) pp. 1061ff.
+
+2\. Cf. Apostolic Exhortation Evangelii Nuntiandi, 19 - 20: AAS 68 (1976) pp. 18f.
+
+3\. Cf. ibid., 18: AAS 68 (1976) pp. 17f. and also Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 58: AAS 58 (1966) p. 1079.
+
+4\. Cf. Second Vatican Ecumenical Council Declaration on Christian Education Gravissimum Educationis, 10: AAS 58 (1966) p. 737.
+
+5\. AAS 23 (1931) p. 241.
+
+6\. AAS 42 (1950) p. 387.
+
+7\. Declaration on Christian Education Gravissimum Educationis, 10: AAS 58 (1966) p. 737.
+
+8\. Ibid.
+
+9\. Ibid. 11: AAS 58 (1966) p. 738.
+
+10\. Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 62: AAS 58 (1966) p. 1083.
+
+11\. Cf. Pope **John** XXIII, Allocution at the opening of the Second Vatican Ecumenical Council: AAS 54 (1962) p. 792 and also the Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 62: AAS 58 (1966) p. 1083.
+
+12\. Pope **Paul** VI, Letter Le transfert a Louvain - la - Neuve to the Rector of the Catholic University of Louvain, September 13, 1975 (cf. L'Osservatore Romano, September 22 - 23, 1975). Also cf. Pope **John** **Paul** II, Encyclical Letter Redemptor Hominis, 19: AAS 71 (1979) pp. 305ff.
+
+13\. Declaration on Christian Education Gravissimum Educationis, 11: AAS 58 (1966) p. 738.
+
+14\. Cf. Apostolic Constitution Regimini Ecclesiae Universae, 78: AAS 59 (1967) p. 914.
+
+15\. Cf. Motu Proprio Sedula Cura: AAS 63 (1971) pp. 665ff. and also the Decree of the Pontifical Biblical Commission Ratio periclitandae doctrinae: AAS 67 (1975) pp. 153ff.
+
+16\. Cf. Second Vatican Ecumenical Council, Dogmatic Constitution on the Church Lumen Gentium, 25: AAS 57 (1965) pp. 29 - 31.
+
+17\. Second Vatican Ecumenical Council, Pastoral Constitution on the Church in the Modern World Gaudium et Spes, 59: AAS 58 (1966) p. 1080.
+
+18\. Second Vatican Ecumenical Council, Dogmatic Constitution on Divine Revelation Dei Verbum 24: AAS 58 (1966) p. 827.
+
+19\. Second Vatican Ecumenical Council, Declaration on Christian Education Gravissimum Educationis, 10: AAS 58 (1966) p. 737.
+
+20\. Second Vatican Ecumenical Council, Decree on the Missionary Activity of the Church Ad Gentes, 22: AAS 58 (1966) pp. 973ff.
+
+21\. See the Ecumenical Directory, Second Part: AAS 62 (1970) pp. 705 - 724.
+
+22\. See especially Second Vatican Ecumenical Council, Dogmatic Constitution on Divine Revelation Dei Verbum: AAS 58 (1966) pp. 713ff.
+
+23\. See especially the Letter of Pope **Paul** VI Lumen Ecclesiae, about St. Thomas Aquinas, of November 20, 1974: AAS 66 (1974) pp. 673ff. Also see the circular letters of the Sacred Congregation for Catholic Education: on the Theological Formation of Future Priests, February 22, 1976, on Canon Law Studies in Seminaries, March 1, 1975; and on Philosophical Studies, January 20, 1972.
+
+24\. See Second Vatican Ecumenical Council, Decree on Priestly Formation Optatam Totius, 15: AAS 58 (1966) p. 722.
+
+25\. Especially see the Second Vatican Council, Decree on Priestly Formation Optatam Totius: AAS 58 (1966) pp. 713ff. and the Declaration on Christian Education Gravissimum Educationis: AAS 58 (1966) pp. 728ff
+
+26\. See especially the letter of Pope **Paul** VI on St. Thomas Aquinas Lumen Ecclesiae of November 20, 1974: AAS 66 (1974) pp. 673ff. and the Circular letter of the Sacred Congregation for Catholic Education, On the Study of Philosophy in Seminaries, of January 20, 1972.
 
 ------------------------------------------------------------------------
 
@@ -551,10 +576,13 @@ Article 4. Active participation in the ministry of evangelization concerns the a
 
 Article 5. Bishops' Conferences, joined to the Apostolic See in these matters also, are thus to follow carefully the Universities and Faculties:
 
-1.  together with the Chancellor they are to foster their progress and, while of course respecting the autonomy of science according to the mind of the Second Vatican Council, they are to be solicitous for their scientific and ecclesial condition;
-2.  with regard to common problems which occur within the boundaries of their own region, they are to help, inspire, and harmonize the activity of the Faculties;
-3.  bearing in mind the needs of the Church and the cultural progress of their own area, they are to take care that there exist an adequate number of such Faculties;
-4.  to do all this, they are to constitute among themselves a commission for this purpose, which should be helped by a committee of experts.
+1\. together with the Chancellor they are to foster their progress and, while of course respecting the autonomy of science according to the mind of the Second Vatican Council, they are to be solicitous for their scientific and ecclesial condition;
+
+2\. with regard to common problems which occur within the boundaries of their own region, they are to help, inspire, and harmonize the activity of the Faculties;
+
+3\. bearing in mind the needs of the Church and the cultural progress of their own area, they are to take care that there exist an adequate number of such Faculties;
+
+4\. to do all this, they are to constitute among themselves a commission for this purpose, which should be helped by a committee of experts.
 
 Article 6. In preparing the Statutes and Study Program, the norms in Appendix I of these directives must be kept in mind.
 
@@ -571,12 +599,17 @@ n\. 3. Degrees thus recognized, for certain canonical effects only may never be 
 
 Article 8. The duty of the Chancellor is:
 
-1.  to promote continually the progress of the University or Faculty, to advance scientific progress, to ensure that Catholic doctrine is integrally followed, and to enforce the faithful implementation of the Statutes and the prescriptions of the Holy See;
-2.  to help ensure close relationships between all the different ranks and members of the community;
-3.  to propose to the Sacred Congregation for Catholic Education the names of those who are to be nominated or confirmed as Rector and President, as well as the names of the teachers for whom a nihil obstat is to be requested;
-4.  to receive the profession of faith of the Rector and President;
-5.  to give to or take away from the teachers the canonical mission or permission to teach, according to the norms of the Constitution;
-6.  to inform the Sacred Congregation for Catholic Education about more important matters and to send to that Congregation every three years a detailed report on the academic, moral, and economic condition of the University or Faculty.
+1\. to promote continually the progress of the University or Faculty, to advance scientific progress, to ensure that Catholic doctrine is integrally followed, and to enforce the faithful implementation of the Statutes and the prescriptions of the Holy See;
+
+2\. to help ensure close relationships between all the different ranks and members of the community;
+
+3\. to propose to the Sacred Congregation for Catholic Education the names of those who are to be nominated or confirmed as Rector and President, as well as the names of the teachers for whom a nihil obstat is to be requested;
+
+4\. to receive the profession of faith of the Rector and President;
+
+5\. to give to or take away from the teachers the canonical mission or permission to teach, according to the norms of the Constitution;
+
+6\. to inform the Sacred Congregation for Catholic Education about more important matters and to send to that Congregation every three years a detailed report on the academic, moral, and economic condition of the University or Faculty.
 
 Article 9. If the University or Faculty depends upon a collegial entity (for instance, on an Episcopal Conference), one designated member of the group is to exercise the office of Chancellor.
 
@@ -592,20 +625,29 @@ n\. 2. The Statutes are to fix a term of office for these persons (for instance,
 
 Article 14. The office of the Rector or President is:
 
-1.  to direct, promote, and coordinate all the activity of the academic community;
-2.  to be the representative of the University or of the Institute or Faculty existing separately;
-3.  to convoke the Council of the University or of the Institute or Faculty existing separately and preside over the same according to the norms of the Statutes;
-4.  to watch over the administration of temporalities;
-5.  to refer more important matters to the Chancellor;
-6.  to send, every year, a statistical summary to the Sacred Congregation for Catholic Education, according to the outline provided by that same Congregation.
+1\. to direct, promote, and coordinate all the activity of the academic community;
+
+2\. to be the representative of the University or of the Institute or Faculty existing separately;
+
+3\. to convoke the Council of the University or of the Institute or Faculty existing separately and preside over the same according to the norms of the Statutes;
+
+4\. to watch over the administration of temporalities;
+
+5\. to refer more important matters to the Chancellor;
+
+6\. to send, every year, a statistical summary to the Sacred Congregation for Catholic Education, according to the outline provided by that same Congregation.
 
 Article 15. The Dean of the Faculty is:
 
-1.  to promote and coordinate all the activity of the Faculty, especially matters regarding studies, and to see to providing with due speed for their needs;
-2.  to convoke the Faculty Council and preside over it;
-3.  to admit or exclude students in the name of the Rector according to the norms of the Statutes;
-4.  to refer to the Rector what is done or proposed by the Faculty;
-5.  to see that the instructions of higher authorities are carried out.
+1\. to promote and coordinate all the activity of the Faculty, especially matters regarding studies, and to see to providing with due speed for their needs;
+
+2\. to convoke the Faculty Council and preside over it;
+
+3\. to admit or exclude students in the name of the Rector according to the norms of the Statutes;
+
+4\. to refer to the Rector what is done or proposed by the Faculty;
+
+5\. to see that the instructions of higher authorities are carried out.
 
 **Section III**
 
@@ -899,16 +941,25 @@ His Holiness **John** **Paul** II, by divine Providence Pope, has ratified, conf
 
 Taking into account what is contained in the Apostolic Constitution and in the Norms of Application -- and leaving to their own internal regulations what is of a particular or changeable nature -- the Universities or Faculties must mainly deal with the following points in drawing up their Statutes:
 
-1.  The name, nature and purpose of the University or Faculty (with a brief history in the foreword).
-2.  The government -- the Chancellor, the personal and collegial academic authorities: what their exact functions are; how the personal authorities are chosen and how long their term of office is; how the collegial authorities or the members of the Councils are chosen and how long their term is.
-3.  The teachers -- what the minimum number of teachers is in each Faculty; into which ranks the permanent and non - permanent are divided; what requisites they must have; how they are hired, named, promoted, and how they cease functioning; their duties and rights.
-4.  The students -- requisites for enrollment and their duties and rights.
-5.  The officials and staff assistants -- their duties and rights.
-6.  The study program -- what the order of studies is in each Faculty; how many cycles it has; what disciplines are taught; which are obligatory, attendance at them; which seminars and practical exercises; which examinations and tests are to be given.
-7.  The academic degrees -- which degrees are given in each Faculty and under what conditions.
-8.  Matters relating to teaching -- the library; how its conservation and growth are provided for; other didactic helps and scientific laboratories, if required.
-9.  Economic matters -- the financial endowment of the University or Faculty and its economic administration; norms for paying the staff assistants, teachers and officials; student fees and payments, burses and scholarships.
-10. Relationships with other Faculties and Institutes, etc.
+1\. The name, nature and purpose of the University or Faculty (with a brief history in the foreword).
+
+2\. The government -- the Chancellor, the personal and collegial academic authorities: what their exact functions are; how the personal authorities are chosen and how long their term of office is; how the collegial authorities or the members of the Councils are chosen and how long their term is.
+
+3\. The teachers -- what the minimum number of teachers is in each Faculty; into which ranks the permanent and non - permanent are divided; what requisites they must have; how they are hired, named, promoted, and how they cease functioning; their duties and rights.
+
+4\. The students -- requisites for enrollment and their duties and rights.
+
+5\. The officials and staff assistants -- their duties and rights.
+
+6\. The study program -- what the order of studies is in each Faculty; how many cycles it has; what disciplines are taught; which are obligatory, attendance at them; which seminars and practical exercises; which examinations and tests are to be given.
+
+7\. The academic degrees -- which degrees are given in each Faculty and under what conditions.
+
+8\. Matters relating to teaching -- the library; how its conservation and growth are provided for; other didactic helps and scientific laboratories, if required.
+
+9\. Economic matters -- the financial endowment of the University or Faculty and its economic administration; norms for paying the staff assistants, teachers and officials; student fees and payments, burses and scholarships.
+
+10\. Relationships with other Faculties and Institutes, etc.
 
 **APPENDIX II According to Article 64 of the Norms of Application Divisions of Ecclesiastical Studies as Now (1979) Existing in the Church**
 
@@ -916,35 +967,62 @@ Taking into account what is contained in the Apostolic Constitution and in the N
 
 Note: These individual study Sectors are listed alphabetically (according to their Latin names) and in parenthesis is noted the academic organizational form (whether a Faculty or an Institute ad instar or a Sector of specialization) in which it now exists in some ecclesiastical academic center. Not listed are the studies of a theological, philosophical, or canonical kind which are treated in articles 51, 56, and 60 of the Norms of Application.
 
-1.  Arabic - Islamic studies (an Institute ad instar, a specialized Sector in a Theology Faculty).
-2.  Christian Archaeology studies (an Institute ad instar).
-3.  Studies in Atheism (a specialized Sector in a Theology and/or Philosophy Faculty).
-4.  Biblical studies (a Faculty of Biblical Science, a specialized Sector in a Theology Faculty).
-5.  Catechetical studies (a specialized Sector in a Theology or Education Faculty).
-6.  Ecclesiastical Oriental studies (a Faculty of Ecclesiastical Oriental Studies).
-7.  Education studies (a Faculty of Education).
-8.  Church History studies (a Faculty of Church History, a specialized Sector in a Theology Faculty).
-9.  Comparative Canonical - Civil Juridical studies (a Faculty of comparative civil law).
-10. Classical and Christian Literary studies (a Faculty of Christian and Classical Letters).
-11. Liturgical studies (a Faculty, a specialized Sector in a Theology Faculty).
-12. Mariological studies (a specialized Sector in a Theology Faculty).
-13. Medieval studies (an Institute ad instar, a specialized Sector in a Faculty of Theology or Canon Law or Philosophy).
-14. Missiological studies (a Faculty of Missiology, a specialized Sector in a Theology Faculty).
-15. Moral studies (a specialized Sector in a Theology Faculty).
-16. Studies in Sacred Music (an Institute ad instar, a specialized Sector in a Theology Faculty).
-17. Ecumenical studies (a specialized Sector in a Theology Faculty).
-18. Ancient Oriental studies (a Faculty of Eastern Antiquity, a specialized Sector in a Theology or Philosophy Faculty).
-19. Pedagogical studies (a Faculty of Pedagogy, a specialized Sector in a Philosophy or Education Faculty).
-20. Pastoral studies (a specialized Sector in a Theology Faculty).
-21. Patristic studies (a specialized Sector in a Theology Faculty).
-22. Studies in Psychology (an Institute ad instar, a specialized Sector in a Faculty of Philosophy, or Pedagogy, or Education).
-23. Studies in Religion and Religious Phenomenology (a specialized Sector in a Theology or Philosophy Faculty).
-24. Catholic Religious studies (a Higher Institute of Religious Science).
-25. Sociological studies (a Faculty of Social Science, a specialized Sector in a Faculty of Education).
-26. Spirituality studies (a specialized Sector in a Theology Faculty.
-27. Studies in the Theology of Religious Life (a specialized Sector in a Theology Faculty).
+1\. Arabic - Islamic studies (an Institute ad instar, a specialized Sector in a Theology Faculty).
+
+2\. Christian Archaeology studies (an Institute ad instar).
+
+3\. Studies in Atheism (a specialized Sector in a Theology and/or Philosophy Faculty).
+
+4\. Biblical studies (a Faculty of Biblical Science, a specialized Sector in a Theology Faculty).
+
+5\. Catechetical studies (a specialized Sector in a Theology or Education Faculty).
+
+6\. Ecclesiastical Oriental studies (a Faculty of Ecclesiastical Oriental Studies).
+
+7\. Education studies (a Faculty of Education).
+
+8\. Church History studies (a Faculty of Church History, a specialized Sector in a Theology Faculty).
+
+9\. Comparative Canonical - Civil Juridical studies (a Faculty of comparative civil law).
+
+10\. Classical and Christian Literary studies (a Faculty of Christian and Classical Letters).
+
+11\. Liturgical studies (a Faculty, a specialized Sector in a Theology Faculty).
+
+12\. Mariological studies (a specialized Sector in a Theology Faculty).
+
+13\. Medieval studies (an Institute ad instar, a specialized Sector in a Faculty of Theology or Canon Law or Philosophy).
+
+14\. Missiological studies (a Faculty of Missiology, a specialized Sector in a Theology Faculty).
+
+15\. Moral studies (a specialized Sector in a Theology Faculty).
+
+16\. Studies in Sacred Music (an Institute ad instar, a specialized Sector in a Theology Faculty).
+
+17\. Ecumenical studies (a specialized Sector in a Theology Faculty).
+
+18\. Ancient Oriental studies (a Faculty of Eastern Antiquity, a specialized Sector in a Theology or Philosophy Faculty).
+
+19\. Pedagogical studies (a Faculty of Pedagogy, a specialized Sector in a Philosophy or Education Faculty).
+
+20\. Pastoral studies (a specialized Sector in a Theology Faculty).
+
+21\. Patristic studies (a specialized Sector in a Theology Faculty).
+
+22\. Studies in Psychology (an Institute ad instar, a specialized Sector in a Faculty of Philosophy, or Pedagogy, or Education).
+
+23\. Studies in Religion and Religious Phenomenology (a specialized Sector in a Theology or Philosophy Faculty).
+
+24\. Catholic Religious studies (a Higher Institute of Religious Science).
+
+25\. Sociological studies (a Faculty of Social Science, a specialized Sector in a Faculty of Education).
+
+26\. Spirituality studies (a specialized Sector in a Theology Faculty.
+
+27\. Studies in the Theology of Religious Life (a specialized Sector in a Theology Faculty).
 
 **FOOTNOTES**
 
-1.  See the Ecumenical Directory, Second Part: AAS 62 (1970), pp. 705ff.
-2.  The Second Vatican Ecumenical Council, Decree on Priestly Formation Optatam Totius, 13: AAS 58 (1966), p. 721 and the Chirograph of Pope **Paul** VI Romani Sermonis: AAS 68 (1976), pp. 481ff.
+1\. See the Ecumenical Directory, Second Part: AAS 62 (1970), pp. 705ff.
+
+2\. The Second Vatican Ecumenical Council, Decree on Priestly Formation Optatam Totius, 13: AAS 58 (1966), p. 721 and the Chirograph of Pope **Paul** VI Romani Sermonis: AAS 68 (1976), pp. 481ff.

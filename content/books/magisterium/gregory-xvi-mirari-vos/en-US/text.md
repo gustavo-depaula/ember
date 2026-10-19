@@ -58,36 +58,68 @@ Given in Rome at St. Mary Major, on August 15, the feast of the Assumption of th
 
 ------------------------------------------------------------------------
 
-1.   22.32.
-2.  I Cor 4.21.
-3.  Lk 22.53.
-4.  Is 24.5.
-5.  St. Celestine, Pope, epistle 21 to Bishop Galliar.
-6.  St. Agatho, Pope, epistle to the emperor, apud Labb., ed. Mansi, vol. 2, p. 235.
-7.  St. Innocent, epistle 11 apud Constat.
-8.  St. Cyprian, de unitate eccles.
-9.  Council of Florence, session 25, in definit. apud Labb., ed. Venet., vol. 18, col. 527.
-10. St. Jerome, epistle 2 to Nepot. a. 1, 24.
-11. From canon ap. 38 apud Labb., ed Mansi, vol. 1, p. 38.
-12. Council of Trent, session 13 on the Eucharist, prooemium .
-13. St. Cyprian, epistle 52, ed. Baluz.
-14. St. Gelasius, Pope, in epistle to the bishop of Lucaniae.
-15. Heb 13.4 & Eph 5:32
-16. Eph 4.5.
-17. Lk 11.23.
-18. Symbol .s. Athanasius.
-19. St. Jerome, epistle 57.
-20. St. Augustine, in psalm. contra part. Donat.
-21. St. Augustine, epistle 166.
-22. Ap 9.3.
-23. Acts 19.
-24. Acts of the Lateran Council 5, session 10, where the constitution of Leo X is mentioned; the earlier constitution of Alexander VI, Inter multiplices, ought to be read, in which there are many things on this point.
-25. Council of Trent, sessions 18 and 25.
-26. Letter of Clement XIII, Christianae, 25 November 1766.
-27. Rom 13.2.
-28. St. Augustine in psalt. 124, n. 7.
-29. St. Euchenius apud Ruinart. Acts of the Holy Martyrs concerning Saint Maurius and his companions, n. 4.
-30. Tertullian, in apologet., chap. 37.
-31. Wis 7.15.
-32. St. Irenaeus, bk. 14, chap. 10.
-33. St. Bernard, serm de nat. b.M.v., sect. 7.
+1\.  22.32.
+
+2\. I Cor 4.21.
+
+3\. Lk 22.53.
+
+4\. Is 24.5.
+
+5\. St. Celestine, Pope, epistle 21 to Bishop Galliar.
+
+6\. St. Agatho, Pope, epistle to the emperor, apud Labb., ed. Mansi, vol. 2, p. 235.
+
+7\. St. Innocent, epistle 11 apud Constat.
+
+8\. St. Cyprian, de unitate eccles.
+
+9\. Council of Florence, session 25, in definit. apud Labb., ed. Venet., vol. 18, col. 527.
+
+10\. St. Jerome, epistle 2 to Nepot. a. 1, 24.
+
+11\. From canon ap. 38 apud Labb., ed Mansi, vol. 1, p. 38.
+
+12\. Council of Trent, session 13 on the Eucharist, prooemium .
+
+13\. St. Cyprian, epistle 52, ed. Baluz.
+
+14\. St. Gelasius, Pope, in epistle to the bishop of Lucaniae.
+
+15\. Heb 13.4 & Eph 5:32
+
+16\. Eph 4.5.
+
+17\. Lk 11.23.
+
+18\. Symbol .s. Athanasius.
+
+19\. St. Jerome, epistle 57.
+
+20\. St. Augustine, in psalm. contra part. Donat.
+
+21\. St. Augustine, epistle 166.
+
+22\. Ap 9.3.
+
+23\. Acts 19.
+
+24\. Acts of the Lateran Council 5, session 10, where the constitution of Leo X is mentioned; the earlier constitution of Alexander VI, Inter multiplices, ought to be read, in which there are many things on this point.
+
+25\. Council of Trent, sessions 18 and 25.
+
+26\. Letter of Clement XIII, Christianae, 25 November 1766.
+
+27\. Rom 13.2.
+
+28\. St. Augustine in psalt. 124, n. 7.
+
+29\. St. Euchenius apud Ruinart. Acts of the Holy Martyrs concerning Saint Maurius and his companions, n. 4.
+
+30\. Tertullian, in apologet., chap. 37.
+
+31\. Wis 7.15.
+
+32\. St. Irenaeus, bk. 14, chap. 10.
+
+33\. St. Bernard, serm de nat. b.M.v., sect. 7.

@@ -268,7 +268,7 @@ NOTES
 
 18\. S. MATTHIEU, XXVIII, 19.  
 
-19. PIE XI, Discours adressé aux élèves du collège de Tusculum dit *di Mondragone*, le 14 mai 1929, *Osservatore romano*, 16 mai 1929 ; DC XXI (1929) p. 1495.
+19\. PIE XI, Discours adressé aux élèves du collège de Tusculum dit *di Mondragone*, le 14 mai 1929, *Osservatore romano*, 16 mai 1929 ; DC XXI (1929) p. 1495.
 
 20\. *Deutéronome* XXXII 4.
 
@@ -308,9 +308,9 @@ E tat, 30 mai 1929, *AAS* XXI (1929) 302.
 
 37\. *Immortale Dei*. Cf. CH n. 711.  
 
-38. Lettre encyclique *Immortale Dei*, 1^(er) novembre 1885, *ASS* XVIII (1885) 166. Cf. CH n. 712.  
+38\. Lettre encyclique *Immortale Dei*, 1^(er) novembre 1885, *ASS* XVIII (1885) 166. Cf. CH n. 712.  
 
-39. S. AUGUSTIN, *Epist.* CXXXVIII, 15 PL XXXIII 532.
+39\. S. AUGUSTIN, *Epist.* CXXXVIII, 15 PL XXXIII 532.
 
 40\. SILVIO ANTONIANO, *Dell'educazione cristiana dei figliuoli* I 43.
 
@@ -318,7 +318,7 @@ E tat, 30 mai 1929, *AAS* XXI (1929) 302.
 
 E tat, 30 mai 1929, *AAS* XXI (1929) 302.  
 
-42. *Concile du Vatican*, sess. 3 ch. 4, Denzinger n. 1799.
+42\. *Concile du Vatican*, sess. 3 ch. 4, Denzinger n. 1799.
 
 43\. *Proverbes* XXII 15.
 
@@ -354,11 +354,11 @@ E tat, 30 mai 1929, *AAS* XXI (1929) 302.
 
 59\. S. MATTHIEU, IX 37.  
 
-60. HORACE, *Art poétique*, v 163.
+60\. HORACE, *Art poétique*, v 163.
 
 61\. S. PAUL, *I Cor*. XV 33.  
 
-62. S. AUGUSTIN, *Confessiones* VI 8, PL XXXII 726.
+62\. S. AUGUSTIN, *Confessiones* VI 8, PL XXXII 726.
 
 63\. S. JEAN, *I*
 

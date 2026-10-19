@@ -26,8 +26,8 @@ I Consultori possono essere convocati o tutti insieme, o in forma di gruppi rist
 VI. La competenza del Pontificio Consiglio per i Laici comprende sia l'apostolato dei laici nella Chiesa sia la disciplina dei laici, in quanto tali. In particolare, le funzioni di questo Pontificio Consiglio sono quelle di:
 
 1\. incitare i laici perché prendano parte alla vita ed alla missione della Chiesa sia, anzitutto e soprattutto, come membri di associazioni che hanno come scopo l'apostolato, sia come singoli fedeli;  
-2. valutare, dirigere e - se è necessario - promuovere le iniziative che riguardano l'apostolato dei laici, nei vari settori della vita sociale, tenendo conto della competenza che, in queste stesse materie, hanno altri Organismi della Curia Romana;  
-3. trattare tutte le questioni che riguardano:  
+2\. valutare, dirigere e - se è necessario - promuovere le iniziative che riguardano l'apostolato dei laici, nei vari settori della vita sociale, tenendo conto della competenza che, in queste stesse materie, hanno altri Organismi della Curia Romana;  
+3\. trattare tutte le questioni che riguardano:  
 - le organizzazioni dei laici che si occupano dell'apostolato nell'ambito sia internazionale che nazionale, salva la competenza della Segreteria di Stato o Papale;  
 - le associazioni cattoliche che promuovono l'apostolato e la vita ed attività spirituale dei laici, fermo restando il diritto della Sacra Congregazione per l'Evangelizzazione dei Popoli sulle associazioni aventi come scopo esclusivo quello di favorire la cooperazione missionaria;  
 - le pie associazioni (ossia le Arciconfraternite, le Confraternite, le Pie Unioni ed i Sodalizi di qualsiasi genere, prendendo le opportune intese con la Sacra Congregazione per i Religiosi e gli Istituti Secolari, ogni volta che trattasi di associazioni erette da una Famiglia Religiosa o da un Istituto Secolare;  
@@ -35,8 +35,8 @@ VI. La competenza del Pontificio Consiglio per i Laici comprende sia l'apostolat
 - le associazioni comuni ai chierici ed ai laici, salva la competenza della Sacra Congregazione per il Clero circa l'osservanza delle leggi generali della Chiesa (cfr. le norme della Segnatura Apostolica);
 
 4\. favorire con la propria intraprendenza l'attiva partecipazione dei laici in campo catechistico, liturgico, sacramentale, educativo e simili, collaborando a questi fini con i vari Dicasteri della Curia Romana, i quali si occupano degli stessi problemi;  
-5. fare in modo che le leggi ecclesiastiche, che riguardano i laici, siano scrupolosamente osservate, ed occuparsi in via amministrativa delle controversie che concernono i laici;  
-6. in pieno accordo con la Sacra Congregazione per il Clero occuparsi di tutti gli affari che riguardano i Consigli Pastorali, sia parrocchiali che diocesani, in modo che i laici siano incoraggiati a prender parte ad una pastorale d'insieme.
+5\. fare in modo che le leggi ecclesiastiche, che riguardano i laici, siano scrupolosamente osservate, ed occuparsi in via amministrativa delle controversie che concernono i laici;  
+6\. in pieno accordo con la Sacra Congregazione per il Clero occuparsi di tutti gli affari che riguardano i Consigli Pastorali, sia parrocchiali che diocesani, in modo che i laici siano incoraggiati a prender parte ad una pastorale d'insieme.
 
 VII\. Al Pontificio Consiglio per i Laici fa capo il «Comitato per la Famiglia», il quale tuttavia mantiene la struttura e la composizione che gli sono proprie. A questo Comitato presiede il Cardinale Presidente del Pontificio Consiglio per i Laici, ed anche in questa materia il Cardinale è coadiuvato in maniera speciale dal Segretario di questo medesimo Consiglio. Il Cardinale darà incarico ad uno degli Officiali del Consiglio per i Laici di mantenere i rapporti ordinari con il Comitato per la Famiglia. Tutto quanto è stato da Noi stabilito nella presente Lettera in forma di Motu Proprio, ordiniamo che abbia pieno e stabile valore, nonostante qualsiasi disposizione in contrario.
 

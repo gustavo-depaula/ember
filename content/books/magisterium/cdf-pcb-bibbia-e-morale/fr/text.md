@@ -1962,7 +1962,7 @@ d\) L’autre avis donné par Paul répond directement à la question initiale p
 
 **155.** Compte tenu du développement d’approches interdisciplinaires de plus en plus sophistiquées pour traiter des grandes questions qui touchent l’être humain, compte tenu, plus particulièrement, de la complexité actuelle des problématiques morales tant au plan individuel que collectif, le présent document ne prétend pas être autre chose qu’une modeste semence de réflexion. Toutefois, il comporte des points d’originalité non négligeables: nous en soulignerons surtout trois. Et il ouvre quelques perspectives d’avenir.
 
-1. Éléments d’originalité
+1\. Éléments d’originalité
 
 **156.** 1) Le fait de baser sur la Sainte Écriture l’ensemble de notre réflexion invite à envisager la morale, non pas d’abord du point de vue de l’homme, mais du point de vue de Dieu. De là le concept de «morale révélée», qui peut être utile si on le comprend bien. En cela, nous l’avons vu, notre approche se distingue d’entrée de jeu de l’éthique et des morales naturelles fondées essentiellement sur la raison. L’avantage potentiel est double.
 
@@ -1990,7 +1990,7 @@ Deuxièmement, au plan pratique, une approche comme la nôtre aide à mieux cont
 
 \- soucieuse d’aborder avec prudence les questions difficiles, par le triple recours aux ressources de l’exégèse, à l’éclairage des autorités ecclésiales et à la formation d’une conscience droite dans l’Esprit Saint, de manière à ne jamais court-circuiter le délicat processus du jugement moral (discernement).
 
-2. Perspectives d’avenir
+2\. Perspectives d’avenir
 
 **159.** Ce qui précède montre bien, certes, les quelques lignes de force, mais aussi le caractère inachevé et, du reste, “inachevable” d’un document de la Commission Biblique sur la morale.
 

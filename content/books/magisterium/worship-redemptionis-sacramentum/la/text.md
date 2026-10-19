@@ -18,71 +18,71 @@ ET DISCIPLINA SACRAMENTORUM
 **De sacrae Liturgiae moderatione** \[14-18\]
 
 1\. De Episcopo dioecesano, sacerdote magno sui gregis \[19-25\]  
-2. De Episcoporum Conferentia \[26-28\]  
-3. De Presbyteris \[29-33\]  
-4. De Diaconis \[34-35\]
+2\. De Episcoporum Conferentia \[26-28\]  
+3\. De Presbyteris \[29-33\]  
+4\. De Diaconis \[34-35\]
 
 **[Caput II](#Caput%20II)**
 
 **De christifidelium laicorum participatione in Eucharistiae celebratione**
 
 1\. De actuosa et conscia participatione \[36-42\]  
-2. De officiis christifidelium laicorum in sanctae Missae celebratione \[43-47\]
+2\. De officiis christifidelium laicorum in sanctae Missae celebratione \[43-47\]
 
 **[Caput III](#Caput%20III)**
 
 **De sanctae Missae recta celebratione**
 
 1\. De materia Sanctissimae Eucharistiae \[48-50\]  
-2. De Prece eucharistica \[51-56\]  
-3. De ceteris Missae partibus \[57-74\]  
-4. De coniunctione variorum rituum cum Missae celebratione \[75-79\]
+2\. De Prece eucharistica \[51-56\]  
+3\. De ceteris Missae partibus \[57-74\]  
+4\. De coniunctione variorum rituum cum Missae celebratione \[75-79\]
 
 **[Caput IV](#Caput%20IV)**
 
 **De sacra Communione**
 
 1\. De dispositionibus in sacra Communione accipienda \[80-87\]  
-2. De distributione sacrae Communionis \[88-96\]  
-3. De Sacerdotum Communione \[97-99\]  
-4. De Communione sub utraque specie \[100-107\]
+2\. De distributione sacrae Communionis \[88-96\]  
+3\. De Sacerdotum Communione \[97-99\]  
+4\. De Communione sub utraque specie \[100-107\]
 
 **[Caput V](#Caput%20V)**
 
 **De quibusdam aliis ad Eucharistiam spectantibus**
 
 1\. De loco celebrationis sanctae Missae \[108-109\]  
-2. De variis sanctae Missae adiunctis \[110-116\]  
-3. De sacris vasis \[117-120\]  
-4. De vestibus liturgicis \[121-128\]
+2\. De variis sanctae Missae adiunctis \[110-116\]  
+3\. De sacris vasis \[117-120\]  
+4\. De vestibus liturgicis \[121-128\]
 
 **[Caput VI](#Caput%20VI)**
 
 **De Ss.mae Eucharistiae asservatione deque eius cultu extra Missam**
 
 1\. De Sanctissimae Eucharistiae asservatione \[129-133\]  
-2. De aliquibus formis cultus Ss.mae Eucharistiae extra Missam \[134-141\]  
-3. De processionibus et congressibus eucharisticis \[142-145\]
+2\. De aliquibus formis cultus Ss.mae Eucharistiae extra Missam \[134-141\]  
+3\. De processionibus et congressibus eucharisticis \[142-145\]
 
 **[Caput VII](#Caput%20VII)**
 
 **De fidelium laicorum officiis extraordinariis** \[146-153\]
 
 1\. De extraordinario sacrae Communionis ministro \[154-160\]  
-2. De praedicatione \[161\]  
+2\. De praedicatione \[161\]  
 3 De celebrationibus peculiaribus, quae absente Sacerdote peraguntur \[162-167\]  
-4. De iis, qui a statu clericali sunt dimissi \[168\]
+4\. De iis, qui a statu clericali sunt dimissi \[168\]
 
 **[Caput VIII](#Caput%20VIII)**
 
 **De remediis** \[169-171\]
 
 1\. De gravioribus delictis \[172\]  
-2. De rebus gravibus \[173\]  
+2\. De rebus gravibus \[173\]  
 3 De aliis abusibus \[174-175\]  
-4. De Episcopo dioecesano \[176-180\]  
-5. De Sede Apostolica \[181-182\]  
-6. De expostulationibus circa abusus in re liturgica \[183-184\]
+4\. De Episcopo dioecesano \[176-180\]  
+5\. De Sede Apostolica \[181-182\]  
+6\. De expostulationibus circa abusus in re liturgica \[183-184\]
 
 **[Conclusio](#Conclusio)** \[185-186\]
 

@@ -4,7 +4,7 @@
 
 II\. János Pál pápa apostoli levele  
 a kijevi oroszok megkeresztelkedésének ezredik évfordulójára  
-1988. januárjának 25.
+1988\. januárjának 25.
 
 Tartalom:  
 I. [EGYESÜLVE A SZENTSÉG KEGYELMÉBEN](#EGYES%C3%9CLVE_A_SZENTS%C3%89G_KEGYELM%C3%89BEN)  

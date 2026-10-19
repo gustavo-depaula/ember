@@ -77,84 +77,84 @@ A todos dou, de coração, a Bênção Apostólica.
 
 **Referências**  
 
-1. Especialmente com a Carta de 8 de outubro de 1987, do Cardeal Secretário de Estado ao Presidente da Sociedade Internacional para a História dos Concílios, por ocasião do Simpósio de Istambul (*L'Osservatore Romano*, ed. quot. 12/13.10.87).  
+1\. Especialmente com a Carta de 8 de outubro de 1987, do Cardeal Secretário de Estado ao Presidente da Sociedade Internacional para a História dos Concílios, por ocasião do Simpósio de Istambul (*L'Osservatore Romano*, ed. quot. 12/13.10.87).  
 
-2. Epi te 1200 è epetèio apo tes syncleoseos tes en Nikai Aghias z'Oikomenikes Synodoy (787-1987), Fanar, 14 de setembro de 1987.   
+2\. Epi te 1200 è epetèio apo tes syncleoseos tes en Nikai Aghias z'Oikomenikes Synodoy (787-1987), Fanar, 14 de setembro de 1987.   
 
-3. J. D. Mansi, *Sacrorum Conciliorum nova et amplissima colectio* (= Mansi) XIII, 459c.  
+3\. J. D. Mansi, *Sacrorum Conciliorum nova et amplissima colectio* (= Mansi) XIII, 459c.  
 
-4. Mansi XII, 985.  
+4\. Mansi XII, 985.  
 
-5. Cf. Mansi XII, 1007.1086 e Monumenta Germaniae Historica (= MGH), (E*pistulae Karolini Aevi*, t. 3), p. 29. 30-33.  
+5\. Cf. Mansi XII, 1007.1086 e Monumenta Germaniae Historica (= MGH), (E*pistulae Karolini Aevi*, t. 3), p. 29. 30-33.  
 
-6. Cf. Mansi XII, 1127-1135 e 1135-1145.  
+6\. Cf. Mansi XII, 1127-1135 e 1135-1145.  
 
-7. Segundo o Presbítero João, representante dos Patriarcas orientais, Mansi XII, 990A e XIII, 4A.  
+7\. Segundo o Presbítero João, representante dos Patriarcas orientais, Mansi XII, 990A e XIII, 4A.  
 
-8. Cf. Mansi XII, 1134.  
+8\. Cf. Mansi XII, 1134.  
 
-9. Mansi XIII, 208-209.  
+9\. Mansi XIII, 208-209.  
 
-10. Mansi XI, 1085.  
+10\. Mansi XI, 1085.  
 
-11. Cf. Mansi XII, 1085-1111.  
+11\. Cf. Mansi XII, 1085-1111.  
 
-12. Maisi XII, 994.1041.1114; XIII, 157.204.366.  
+12\. Maisi XII, 994.1041.1114; XIII, 157.204.366.  
 
-13. Mansi XII, 1086.  
+13\. Mansi XII, 1086.  
 
-14. Cf. carta de Adriano I a Carlos Magno, em: MGH, Epistulae III (*Epistulae Merowingici et Karolini Aevi*, t. I) p.  
+14\. Cf. carta de Adriano I a Carlos Magno, em: MGH, Epistulae III (*Epistulae Merowingici et Karolini Aevi*, t. I) p.  
 587, 5.  
 
-15. Mansi XIII, 463BC.  
+15\. Mansi XIII, 463BC.  
 
-16. Cf. Mansi XIII, 200.  
+16\. Cf. Mansi XIII, 200.  
 
-17. Cf. *Quartum anatema*, em: Mansi XIII, 400.  
+17\. Cf. *Quartum anatema*, em: Mansi XIII, 400.  
 
-18. *Horos*, in: Mansi XIII, 377BC.  
+18\. *Horos*, in: Mansi XIII, 377BC.  
 
-19. Ibid., 377C.  
+19\. Ibid., 377C.  
 
-20. Cf. Santo Ireneu, *Adversus Haereses* 1, 10, 1; I, 22. 1; em: *Sources Chrétiennes* (= SCH) 264, p. 154-158; 308-310; Tertuliano, *De praescriptione* 13, 16; em *Corpus Christianorum*, Series Latina (= CChL), I, p. 197-198; Orígenes, *Perì Archòn*, Pref. 4, 10, em SCh 252, p. 80-89.  
+20\. Cf. Santo Ireneu, *Adversus Haereses* 1, 10, 1; I, 22. 1; em: *Sources Chrétiennes* (= SCH) 264, p. 154-158; 308-310; Tertuliano, *De praescriptione* 13, 16; em *Corpus Christianorum*, Series Latina (= CChL), I, p. 197-198; Orígenes, *Perì Archòn*, Pref. 4, 10, em SCh 252, p. 80-89.  
 
-21. De Baptismo IV, 24, 31; em: *Corpus Scriptorum Ecclesiasticorum Latinorum* (= CSEL) 51, p. 259.  
+21\. De Baptismo IV, 24, 31; em: *Corpus Scriptorum Ecclesiasticorum Latinorum* (= CSEL) 51, p. 259.  
 
-22. Sobre o Espirito Santo, VII 16, 21.32; IX 22, 3; XXIX 71, 6; XXX 79, 15; em SCh 17 bis, p. 298.300.322.500.528.  
+22\. Sobre o Espirito Santo, VII 16, 21.32; IX 22, 3; XXIX 71, 6; XXX 79, 15; em SCh 17 bis, p. 298.300.322.500.528.  
 
-23. Ibid. XXVII 66; 1-3, p. 478-480.  
+23\. Ibid. XXVII 66; 1-3, p. 478-480.  
 
-24. Cf. Horos, in: Mansi XIII, 378E.  
+24\. Cf. Horos, in: Mansi XIII, 378E.  
 
-25. Discurso sobre as imagens III, 3, em: PG 94, 1320-1321; e B. Katter, *Die Schriften des Johannes von Damaskos*, vol. III (*Contra imaginum calumniatores orationes tres*), em: "Patristische Texte und Studien" 17, Berlim-Nova Iorque, 1975, III, 3, p. 72-73.  
+25\. Discurso sobre as imagens III, 3, em: PG 94, 1320-1321; e B. Katter, *Die Schriften des Johannes von Damaskos*, vol. III (*Contra imaginum calumniatores orationes tres*), em: "Patristische Texte und Studien" 17, Berlim-Nova Iorque, 1975, III, 3, p. 72-73.  
 
-26. *Dei Verbum*, 9.  
+26\. *Dei Verbum*, 9.  
 
-27. Ibid., 8.  
+27\. Ibid., 8.  
 
-28. Ibid., l0.  
+28\. Ibid., l0.  
 
-29. Sobre o Espírito Santo, XVIII 45, 19, em: SCh 17 bis, p. 496; Nicéia II, *Horos*, em: Mansi XIII, 377E.  
+29\. Sobre o Espírito Santo, XVIII 45, 19, em: SCh 17 bis, p. 496; Nicéia II, *Horos*, em: Mansi XIII, 377E.  
 
-30. Cartas de São Gregório Magno ao Bispo Sereno de Marselha, em: MGH, *Gregorii I Papae Registrum Epistularum* II, 1, lib. IX, 208, p. 195 e II, 2, lib. XI, 10, p 270-271; ou em: CChL 140A, lib. IX, 209, p. 768 e lib. XI, 10, p. 874-875.  
+30\. Cartas de São Gregório Magno ao Bispo Sereno de Marselha, em: MGH, *Gregorii I Papae Registrum Epistularum* II, 1, lib. IX, 208, p. 195 e II, 2, lib. XI, 10, p 270-271; ou em: CChL 140A, lib. IX, 209, p. 768 e lib. XI, 10, p. 874-875.  
 
-31. Cf. Teófano, *Chronographia ad annum*, 6221, ed. C. de Boor I, Leipzig, 1883, p. 404; ou PG 108, 821C.  
+31\. Cf. Teófano, *Chronographia ad annum*, 6221, ed. C. de Boor I, Leipzig, 1883, p. 404; ou PG 108, 821C.  
 
-32. *Carta de Adriano I aos Imperadores*, em: Mansi XII, 1062 AB.  
+32\. *Carta de Adriano I aos Imperadores*, em: Mansi XII, 1062 AB.  
 
-33. *Horos*, em: Mansi XIII, 377E.  
+33\. *Horos*, em: Mansi XIII, 377E.  
 
-34. Ibid., 377D.  
+34\. Ibid., 377D.  
 
-35. Teodoro Studita, *Antirrheticus*, 1, 10, in: PG 99, 339D.  
+35\. Teodoro Studita, *Antirrheticus*, 1, 10, in: PG 99, 339D.  
 
-36. Cf. *Carta de Adriano a Carlos Magno*, em: MGH, *Epistulae V* (*Epistulae Karolini Aevi*, t. III), p. 5-57; ou PL 98,  
+36\. Cf. *Carta de Adriano a Carlos Magno*, em: MGH, *Epistulae V* (*Epistulae Karolini Aevi*, t. III), p. 5-57; ou PL 98,  
 1248-1292.  
 
-37. Cf. *Sacrosanctum Concilium*, 111, 1; 125; 128; *Lumen Gentium*, 51; 67; *Gaudium et Spes*, 62, 4-5; e também *Código de Direito Canônico*, cân. 1255 e 1276.  
+37\. Cf. *Sacrosanctum Concilium*, 111, 1; 125; 128; *Lumen Gentium*, 51; 67; *Gaudium et Spes*, 62, 4-5; e também *Código de Direito Canônico*, cân. 1255 e 1276.  
 
-38. *Sacrosanctum Concilium*, 122-124.  
+38\. *Sacrosanctum Concilium*, 122-124.  
 
-39. Ibid., 125.  
+39\. Ibid., 125.  
 
-40. Discurso sobre as imagens, I, 16, em: PG. 94, 1246A: e ed. Kotter 1, 16, p. 89.
+40\. Discurso sobre as imagens, I, 16, em: PG. 94, 1246A: e ed. Kotter 1, 16, p. 89.

@@ -106,25 +106,41 @@ The Ordinary, in the exercise of this office, must maintain close ties of commun
 
 §2. In addition to these responsibilities, the Ordinary needs the consent of the Governing Council to:
 
-1.  admit a candidate to Holy Orders;
+1\.
 
-2.  erect or suppress a personal parish;
+admit a candidate to Holy Orders;
 
-3.  erect or suppress a house of formation;
+2\.
 
-4.  approve a program of formation.
+erect or suppress a personal parish;
+
+3\.
+
+erect or suppress a house of formation;
+
+4\.
+
+approve a program of formation.
 
 §3. The Ordinary also consults the Governing Council
 
-1.  a\. concerning the pastoral activities of the Ordinariate and the principles governing the formation of clergy.
+1\.
+
+a\. concerning the pastoral activities of the Ordinariate and the principles governing the formation of clergy.
 
 §4. The Governing Council has a deliberative vote:
 
-1.  when choosing a *terna* of names to submit to the Holy See for the appointment of the Ordinary;
+1\.
 
-2.  when proposing changes to the Complementary Norms of the Ordinariate to present to the Holy See;
+when choosing a *terna* of names to submit to the Holy See for the appointment of the Ordinary;
 
-3.  when formulating the Statutes of the Governing Council, the Statutes of the Pastoral Council, and the Rule for houses of formation.
+2\.
+
+when proposing changes to the Complementary Norms of the Ordinariate to present to the Holy See;
+
+3\.
+
+when formulating the Statutes of the Governing Council, the Statutes of the Pastoral Council, and the Rule for houses of formation.
 
 § 5. The Governing Council is composed according to the Statutes of the Council. Half of the membership is elected by the priests of the Ordinariate.
 

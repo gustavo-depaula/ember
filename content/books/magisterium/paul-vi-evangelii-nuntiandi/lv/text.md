@@ -208,7 +208,7 @@ VĒSTS PAMATĀ – DIEVA VALSTĪBA
 
 EVAŅĢĒLISKS SKATĪJUMS UZ CILVĒKU
 
-35. Baznīca saista cilvēku atbrīvošana ar pestīšanu Jēzū Kristū, nekad tās neidentificējot, jo, pateicoties dievišķajai Atklāsmei, vēsturiskajai pieredzei un ticības pārdomām tā zina, ka ne katra atbrīvošanas koncepcija atbilst un ir savienojama ar evaņģēlisko skatījumu uz cilvēku, lietām un notikumiem; tā apzinās – lai atnāktu Dieva valstība, nepietiek ar atbrīvošanas, labklājības un attīstības nodrošināšanu.
+35\. Baznīca saista cilvēku atbrīvošana ar pestīšanu Jēzū Kristū, nekad tās neidentificējot, jo, pateicoties dievišķajai Atklāsmei, vēsturiskajai pieredzei un ticības pārdomām tā zina, ka ne katra atbrīvošanas koncepcija atbilst un ir savienojama ar evaņģēlisko skatījumu uz cilvēku, lietām un notikumiem; tā apzinās – lai atnāktu Dieva valstība, nepietiek ar atbrīvošanas, labklājības un attīstības nodrošināšanu.
 
 Turklāt Baznīca ir cieši pārliecināta, ka jebkura laicīga atbrīvošana, jebkura politiska atbrīvošana, pat ja tā cenšas pamatojumu rast Vecās vai Jaunās Derības lappusēs, pat ja savos ideoloģiskajos postulātos un rīcības normās tā atsaucas uz teoloģiskiem principiem un spriedumiem, pat ja tā pretendē būt par mūsdienīgu teoloģiju, ir pretrunā pati sev un attālinās no izraudzītā cēlā mērķa, jo tās patiesie motīvi nesaistās ar taisnīgumu mīlestībā, jo impulss, kas to iedvesmo, nav patiesi garīgs un tās galīgais mērķis nav pestīšana un mūžīgā svētlaime Dievā.
 

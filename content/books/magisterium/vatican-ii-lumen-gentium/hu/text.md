@@ -73,7 +73,7 @@ Negyedik fejezet
 **AZ ÉLETSZENTSÉGRE SZÓLÓ EGYETEMES MEGHÍVÁSRÓL AZ EGYHÁZBAN**
 
 [39. Bevezetés  
-40. Bizonyítás a Szentírásból](#LG39)  
+40\. Bizonyítás a Szentírásból](#LG39)  
 [41. Az életszentség lényege mindig ugyanaz](#LG41)  
 [42. Az életszentség útjai és eszközei](#LG42)
 

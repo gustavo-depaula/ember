@@ -31,9 +31,9 @@ A Bizottság jövendő munkáinál betartandó módszertani előírásokat is ki
 Abból az anyagból, amit a Bizottság tanulmányozásra előterjesztett, jelenleg négy kérdést választottak ki
 
 1\. A hit egysége  
-2. A papság  
-3. A remény teológiája; a keresztény hit és az emberiség jövője  
-4. A keresztény erkölcsi lelkiismeret kritériumai.
+2\. A papság  
+3\. A remény teológiája; a keresztény hit és az emberiség jövője  
+4\. A keresztény erkölcsi lelkiismeret kritériumai.
 
 Ennek a négy témának a tanulmányozására négy albizottságot alakítottak. Az albizottságoké a feladat, hogy jelentős mértékben meghatározzák a témájukat.
 

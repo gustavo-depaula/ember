@@ -18,7 +18,7 @@ L'exposition est ordonnée de la manière suivante: une introduction rappellera 
 
 **INTRODUCTION**
 
-1.  
+1\.  
 LA RECHERCHE BIOMEDICALE  
 ET L'ENSEIGNEMENT DE L'EGLISE
 
@@ -32,7 +32,7 @@ L'intervention de l'Église, même en ce domaine, s'inspire de l'amour qu'elle d
 
 C'est en effet par bonté — pour indiquer le chemin de la vie — que Dieu donne aux hommes ses commandements et la grâce pour les observer; et c'est encore par bonté — pour les aider à persévérer dans la même voie — que Dieu offre toujours à chacun son pardon. Le Christ a compassion pour nos fragilités: Il est notre Créateur et notre Rédempteur. Que son Esprit ouvre les âmes au don de la paix de Dieu et à l'intelligence de ses préceptes!
 
-2.  
+2\.  
 LA SCIENCE ET LA TECHNIQUE  
 AU SERVICE DE LA PERSONNE HUMAINE
 
@@ -42,7 +42,7 @@ Il serait donc illusoire de revendiquer la neutralité morale de la recherche sc
 
 Le rapide développement des découvertes technologiques rend plus urgente cette exigence de respect des critères rappelés: la science sans conscience ne peut que conduire à la ruine de l'homme. « Notre époque, plus encore que les temps passés, a besoin de cette sagesse pour rendre plus humaines ses nouvelles découvertes. Il y a un péril effectif pour l'avenir du monde, à moins que ne surviennent des hommes plus sages » \[[^8]\].
 
-3.  
+3\.  
 ANTHROPOLOGIE ET INTERVENTIONS  
 DANS LE DOMAINE BIOMEDICAL
 
@@ -58,7 +58,7 @@ Dans leurs applications, la biologie et la médecine concourent au bien intégra
 
 Dieu, qui est amour et vie, a inscrit dans l'homme et la femme la vocation à une participation spéciale à son mystère de communion personnelle et à son œuvre de Créateur et de Père \[[^12]\]. C'est pourquoi le mariage possède des biens spécifiques et des valeurs d'union et de procréation sans commune mesure avec celles qui existent dans les formes inférieures de la vie. Ces valeurs et significations d'ordre personnel déterminent du point de vue moral le sens et les limites des interventions artificielles sur la procréation et l'origine de la vie humaine. Ces interventions ne sont pas à rejeter parce qu'artificielles. Comme telles, elles témoignent des possibilités de l'art médical. Mais elles sont à évaluer moralement par référence à la dignité de la personne humaine, appelée à réaliser la vocation divine au don de l'amour et au don de la vie.
 
-4.  
+4\.  
 CRITERES FONDAMENTAUX POUR UN JUGEMENT MORAL
 
 Les valeurs fondamentales relatives aux techniques de procréation artificielle humaine sont au nombre de deux: la vie de l'être humain appelé à l'existence, et l'originalité de sa transmission dans le mariage. Le jugement moral sur les méthodes de procréation artificielle devra donc être formulé en référence à ces valeurs.
@@ -69,7 +69,7 @@ Par rapport à la transmission des autres formes de vie dans l'univers, la trans
 
 Les progrès de la technique ont aujourd'hui rendu possible une procréation sans rapport sexuel, grâce à la rencontre *in vitro* des cellules germinales précédemment prélevées sur l'homme et la femme. Mais ce qui est techniquement possible n'est pas pour autant moralement admissible. La réflexion rationnelle sur les valeurs fondamentales de la vie et de la procréation humaine est donc indispensable pour formuler l'évaluation morale à l'égard de ces interventions de la technique sur l'être humain dès les premiers stades de son développement.
 
-5.  
+5\.  
 ENSEIGNEMENTS DU MAGISTERE
 
 Pour sa part, le Magistère de l'Église offre aussi en ce domaine à la raison humaine la lumière de la Révélation: la doctrine sur l'homme enseignée par le Magistère contient beaucoup d'éléments qui éclairent les problèmes ici étudiés.

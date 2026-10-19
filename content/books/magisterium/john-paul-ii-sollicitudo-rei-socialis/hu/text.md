@@ -6,72 +6,72 @@ II\. János Pál pápa enciklikája
 a püspökökhöz és papokhoz, a szerzetesi közösségekhez,  
 az Egyház minden fiához és leányához és minden jóakaratú emberhez  
 a Populorum progressio kezdetű enciklika huszadik évfordulójára  
-1987. december 30.
+1987\. december 30.
 
 Tartalomjegyzék  
 
 **I. Bevezetés**  
-1. [A Rerum novarum enciklika mint kiindulási pont](#A_Rerum_novarum_enciklika_mint_kiindul%C3%A1si_pont)  
-2. [A Populorum progressio a szociális enciklikák sorában](#A_Populorum_progressio_a_szoci%C3%A1lis_enciklik%C3%A1k_sor%C3%A1ban)  
-3. [Az Egyház szociális tanítása állandó és mindig új](#Az_Egyh%C3%A1z_szoci%C3%A1lis_tan%C3%ADt%C3%A1sa_%C3%A1lland%C3%B3_%C3%A9s_mindig_%C3%BAj)  
-4. [A pápa szándéka](#A_p%C3%A1pa_sz%C3%A1nd%C3%A9ka)  
+1\. [A Rerum novarum enciklika mint kiindulási pont](#A_Rerum_novarum_enciklika_mint_kiindul%C3%A1si_pont)  
+2\. [A Populorum progressio a szociális enciklikák sorában](#A_Populorum_progressio_a_szoci%C3%A1lis_enciklik%C3%A1k_sor%C3%A1ban)  
+3\. [Az Egyház szociális tanítása állandó és mindig új](#Az_Egyh%C3%A1z_szoci%C3%A1lis_tan%C3%ADt%C3%A1sa_%C3%A1lland%C3%B3_%C3%A9s_mindig_%C3%BAj)  
+4\. [A pápa szándéka](#A_p%C3%A1pa_sz%C3%A1nd%C3%A9ka)  
 
 **II. Ami új a Populorum progressio enciklikában**  
-5. [Folytonosság és megújulás](#Folytonoss%C3%A1g_%C3%A9s_meg%C3%BAjul%C3%A1s)  
-6. [A Populorum progressio válasz a Gaudium et spes-re](#A_Populorum_progressio_v%C3%A1lasz_a_Gaudium_et_spes-re)  
-7. [A Populorum progressio enciklika témái](#A_Populorum_progressio_enciklika_t%C3%A9m%C3%A1i)  
-8. [A fejlődés](#A_fejl%C5%91d%C3%A9s)  
-9. [A fejlődés horizontja](#A_fejl%C5%91d%C3%A9s_horizontja)  
-10. [Fejlődés és béke összetartozik](#Fejl%C5%91d%C3%A9s_%C3%A9s_b%C3%A9ke_%C3%B6sszetartozik)  
+5\. [Folytonosság és megújulás](#Folytonoss%C3%A1g_%C3%A9s_meg%C3%BAjul%C3%A1s)  
+6\. [A Populorum progressio válasz a Gaudium et spes-re](#A_Populorum_progressio_v%C3%A1lasz_a_Gaudium_et_spes-re)  
+7\. [A Populorum progressio enciklika témái](#A_Populorum_progressio_enciklika_t%C3%A9m%C3%A1i)  
+8\. [A fejlődés](#A_fejl%C5%91d%C3%A9s)  
+9\. [A fejlődés horizontja](#A_fejl%C5%91d%C3%A9s_horizontja)  
+10\. [Fejlődés és béke összetartozik](#Fejl%C5%91d%C3%A9s_%C3%A9s_b%C3%A9ke_%C3%B6sszetartozik)  
 
 **III. A mai világ képe**  
-11. [Az elmúlt húsz év változásai](#Az_elm%C3%BAlt_h%C3%BAsz_%C3%A9v_v%C3%A1ltoz%C3%A1sai)  
-12. [Optimizmus 1967-ben](#Optimizmus_1967-ben)  
-13. [A helyzet rosszabbodása](#A_helyzet_rosszabbod%C3%A1sa)  
-14. [Az Észak és Dél között húzódó szakadék](#Az_%C3%89szak_%C3%A9s_D%C3%A9l_k%C3%B6z%C3%B6tt_h%C3%BAz%C3%B3d%C3%B3_szakad%C3%A9k)  
-15. [Fejlődést gátló tényezők](#Fejl%C5%91d%C3%A9st_g%C3%A1tl%C3%B3_t%C3%A9nyez%C5%91k)  
-16. [A helyzet romlásának okai](#A_helyzet_roml%C3%A1s%C3%A1nak_okai)  
-17. [A „világok” összefüggenek; a lakáshiány](#A_%E2%80%9Evil%C3%A1gok%E2%80%9D_%C3%B6sszef%C3%BCggenek;_a_lak%C3%A1shi%C3%A1ny)  
-18. [A munkanélküliség](#A_munkan%C3%A9lk%C3%BClis%C3%A9g)  
-19. [Az eladósodás](#Az_elad%C3%B3sod%C3%A1s)  
-20. [A keleti és nyugati blokk szembenállása](#A_keleti_%C3%A9s_nyugati_blokk_szemben%C3%A1ll%C3%A1sa)  
-21. [Kelet és Nyugat között a különbség felfogásbeli](#Kelet_%C3%A9s_Nyugat_k%C3%B6z%C3%B6tt_a_k%C3%BCl%C3%B6nbs%C3%A9g_felfog%C3%A1sbeli)  
-22. [Hatalmi törekvések mindkét blokkban](#Hatalmi_t%C3%B6rekv%C3%A9sek_mindk%C3%A9t_blokkban)  
-23. [Változtatni kell a helyzeten](#V%C3%A1ltoztatni_kell_a_helyzeten)  
-24. [A fegyverkereskedelem, a terrorizmus](#A_fegyverkereskedelem,_a_terrorizmus)  
-25. [A népesség növekedése](#A_n%C3%A9pess%C3%A9g_n%C3%B6veked%C3%A9se)  
-26. [A világ pozitív vonásai: az emberi méltóság és az összetartozás tudata](#A_vil%C3%A1g_pozit%C3%ADv_von%C3%A1sai)  
+11\. [Az elmúlt húsz év változásai](#Az_elm%C3%BAlt_h%C3%BAsz_%C3%A9v_v%C3%A1ltoz%C3%A1sai)  
+12\. [Optimizmus 1967-ben](#Optimizmus_1967-ben)  
+13\. [A helyzet rosszabbodása](#A_helyzet_rosszabbod%C3%A1sa)  
+14\. [Az Észak és Dél között húzódó szakadék](#Az_%C3%89szak_%C3%A9s_D%C3%A9l_k%C3%B6z%C3%B6tt_h%C3%BAz%C3%B3d%C3%B3_szakad%C3%A9k)  
+15\. [Fejlődést gátló tényezők](#Fejl%C5%91d%C3%A9st_g%C3%A1tl%C3%B3_t%C3%A9nyez%C5%91k)  
+16\. [A helyzet romlásának okai](#A_helyzet_roml%C3%A1s%C3%A1nak_okai)  
+17\. [A „világok” összefüggenek; a lakáshiány](#A_%E2%80%9Evil%C3%A1gok%E2%80%9D_%C3%B6sszef%C3%BCggenek;_a_lak%C3%A1shi%C3%A1ny)  
+18\. [A munkanélküliség](#A_munkan%C3%A9lk%C3%BClis%C3%A9g)  
+19\. [Az eladósodás](#Az_elad%C3%B3sod%C3%A1s)  
+20\. [A keleti és nyugati blokk szembenállása](#A_keleti_%C3%A9s_nyugati_blokk_szemben%C3%A1ll%C3%A1sa)  
+21\. [Kelet és Nyugat között a különbség felfogásbeli](#Kelet_%C3%A9s_Nyugat_k%C3%B6z%C3%B6tt_a_k%C3%BCl%C3%B6nbs%C3%A9g_felfog%C3%A1sbeli)  
+22\. [Hatalmi törekvések mindkét blokkban](#Hatalmi_t%C3%B6rekv%C3%A9sek_mindk%C3%A9t_blokkban)  
+23\. [Változtatni kell a helyzeten](#V%C3%A1ltoztatni_kell_a_helyzeten)  
+24\. [A fegyverkereskedelem, a terrorizmus](#A_fegyverkereskedelem,_a_terrorizmus)  
+25\. [A népesség növekedése](#A_n%C3%A9pess%C3%A9g_n%C3%B6veked%C3%A9se)  
+26\. [A világ pozitív vonásai: az emberi méltóság és az összetartozás tudata](#A_vil%C3%A1g_pozit%C3%ADv_von%C3%A1sai)  
 
 **IV. Az igazi emberi fejlődés**  
-27. [A fejlődés téves fogalma: naiv optimizmus](#A_fejl%C5%91d%C3%A9s_t%C3%A9ves_fogalma:_naiv_optimizmus)  
-28. [A létezés és birtoklás szembekerülése](#A_l%C3%A9tez%C3%A9s_%C3%A9s_birtokl%C3%A1s_szembeker%C3%BCl%C3%A9se)  
-29. [Az emberi lét transzcendenciája](#Az_emberi_l%C3%A9t_transzcendenci%C3%A1ja)  
-30. [A fejlődés mibenléte](#A_fejl%C5%91d%C3%A9s_mibenl%C3%A9te)  
-31. [A fejlődés krisztusi távlatai](#A_fejl%C5%91d%C3%A9s_krisztusi_t%C3%A1vlatai)  
-32. [A fejlődés szolgálata közös feladat](#A_fejl%C5%91d%C3%A9s_szolg%C3%A1lata_k%C3%B6z%C3%B6s_feladat)  
-33. [Az igaz fejlődés erkölcsi természetű](#Az_igaz_fejl%C5%91d%C3%A9s_erk%C3%B6lcsi_term%C3%A9szet%C5%B1)  
-34. [A fejlődés és a környezet megbecsülése](#A_fejl%C5%91d%C3%A9s_%C3%A9s_a_k%C3%B6rnyezet_megbecs%C3%BCl%C3%A9se)  
+27\. [A fejlődés téves fogalma: naiv optimizmus](#A_fejl%C5%91d%C3%A9s_t%C3%A9ves_fogalma:_naiv_optimizmus)  
+28\. [A létezés és birtoklás szembekerülése](#A_l%C3%A9tez%C3%A9s_%C3%A9s_birtokl%C3%A1s_szembeker%C3%BCl%C3%A9se)  
+29\. [Az emberi lét transzcendenciája](#Az_emberi_l%C3%A9t_transzcendenci%C3%A1ja)  
+30\. [A fejlődés mibenléte](#A_fejl%C5%91d%C3%A9s_mibenl%C3%A9te)  
+31\. [A fejlődés krisztusi távlatai](#A_fejl%C5%91d%C3%A9s_krisztusi_t%C3%A1vlatai)  
+32\. [A fejlődés szolgálata közös feladat](#A_fejl%C5%91d%C3%A9s_szolg%C3%A1lata_k%C3%B6z%C3%B6s_feladat)  
+33\. [Az igaz fejlődés erkölcsi természetű](#Az_igaz_fejl%C5%91d%C3%A9s_erk%C3%B6lcsi_term%C3%A9szet%C5%B1)  
+34\. [A fejlődés és a környezet megbecsülése](#A_fejl%C5%91d%C3%A9s_%C3%A9s_a_k%C3%B6rnyezet_megbecs%C3%BCl%C3%A9se)  
 
 **V. A modern problémák teológiai elemzése**  
-35. [Az erkölcsi szempont fontossága](#Az_erk%C3%B6lcsi_szempont_fontoss%C3%A1ga)  
-36. [A bűn struktúrái](#A_b%C5%B1n_strukt%C3%BAr%C3%A1i)  
-37. [Haszon és hatalom minden áron](#Haszon_%C3%A9s_hatalom_minden_%C3%A1ron)  
-38. [A bűnt le kell győzni](#A_b%C5%B1nt_le_kell_gy%C5%91zni)  
-39. [A szolidaritás](#A_szolidarit%C3%A1s)  
-40. [A szolidaritás keresztény erény](#A_szolidarit%C3%A1s_kereszt%C3%A9ny_er%C3%A9ny)  
+35\. [Az erkölcsi szempont fontossága](#Az_erk%C3%B6lcsi_szempont_fontoss%C3%A1ga)  
+36\. [A bűn struktúrái](#A_b%C5%B1n_strukt%C3%BAr%C3%A1i)  
+37\. [Haszon és hatalom minden áron](#Haszon_%C3%A9s_hatalom_minden_%C3%A1ron)  
+38\. [A bűnt le kell győzni](#A_b%C5%B1nt_le_kell_gy%C5%91zni)  
+39\. [A szolidaritás](#A_szolidarit%C3%A1s)  
+40\. [A szolidaritás keresztény erény](#A_szolidarit%C3%A1s_kereszt%C3%A9ny_er%C3%A9ny)  
 
 **VI. Néhány különleges eligazítás**  
-41. [Az Egyház szociális tanítása az erkölcstan része](#Az_Egyh%C3%A1z_szoci%C3%A1lis_tan%C3%ADt%C3%A1sa_nemzetk%C3%B6zi_m%C3%A9retekben)  
-42. [Az Egyház szociális tanítása nemzetközi méretekben](#Az_Egyh%C3%A1z_szoci%C3%A1lis_tan%C3%ADt%C3%A1sa_nemzetk%C3%B6zi_m%C3%A9retekben)  
-43. [A szükséges reformok](#A_sz%C3%BCks%C3%A9ges_reformok)  
-44. [A fejlődés sajátos körülményeinek figyelembevétele](#A_fejl%C5%91d%C3%A9s_saj%C3%A1tos_k%C3%B6r%C3%BClm%C3%A9nyeinek_figyelembev%C3%A9tele)  
-45. [Együttműködés a fejlődésért](#Egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s_a_fejl%C5%91d%C3%A9s%C3%A9rt)  
+41\. [Az Egyház szociális tanítása az erkölcstan része](#Az_Egyh%C3%A1z_szoci%C3%A1lis_tan%C3%ADt%C3%A1sa_nemzetk%C3%B6zi_m%C3%A9retekben)  
+42\. [Az Egyház szociális tanítása nemzetközi méretekben](#Az_Egyh%C3%A1z_szoci%C3%A1lis_tan%C3%ADt%C3%A1sa_nemzetk%C3%B6zi_m%C3%A9retekben)  
+43\. [A szükséges reformok](#A_sz%C3%BCks%C3%A9ges_reformok)  
+44\. [A fejlődés sajátos körülményeinek figyelembevétele](#A_fejl%C5%91d%C3%A9s_saj%C3%A1tos_k%C3%B6r%C3%BClm%C3%A9nyeinek_figyelembev%C3%A9tele)  
+45\. [Együttműködés a fejlődésért](#Egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9s_a_fejl%C5%91d%C3%A9s%C3%A9rt)  
 
 **VII. Befejezés**  
-46. [Felszabadítás és fejlődés](#Felszabad%C3%ADt%C3%A1s_%C3%A9s_fejl%C5%91d%C3%A9s)  
-47. [A fejlődés reménye](#A_fejl%C5%91d%C3%A9s_rem%C3%A9nye)  
-48. [Az Eucharisztia és a fejlődés](#Az_Eucharisztia_%C3%A9s_a_fejl%C5%91d%C3%A9s)  
-49. [Mária oltalmába ajánljuk a fejlődés gondját](#M%C3%A1ria_oltalm%C3%A1ba_aj%C3%A1nljuk_a_fejl%C5%91d%C3%A9s_gondj%C3%A1t)  
+46\. [Felszabadítás és fejlődés](#Felszabad%C3%ADt%C3%A1s_%C3%A9s_fejl%C5%91d%C3%A9s)  
+47\. [A fejlődés reménye](#A_fejl%C5%91d%C3%A9s_rem%C3%A9nye)  
+48\. [Az Eucharisztia és a fejlődés](#Az_Eucharisztia_%C3%A9s_a_fejl%C5%91d%C3%A9s)  
+49\. [Mária oltalmába ajánljuk a fejlődés gondját](#M%C3%A1ria_oltalm%C3%A1ba_aj%C3%A1nljuk_a_fejl%C5%91d%C3%A9s_gondj%C3%A1t)  
 
 ------------------------------------------------------------------------
 

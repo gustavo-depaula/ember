@@ -17,70 +17,70 @@
 **A ordenação da sagrada Liturgia** \[14-18\]
 
 1\. O Bispo diocesano, grande sacerdote de seu rebanho \[19-25\]  
-2. A Conferência de Bispos \[26-28\]  
-3. Os presbíteros \[29-33\] 4. Os diáconos \[34-35\]
+2\. A Conferência de Bispos \[26-28\]  
+3\. Os presbíteros \[29-33\] 4. Os diáconos \[34-35\]
 
 **[CAPÍTULO II](#CAPÍTULO%20II)**
 
 **A participação dos fiéis leigos na celebração da Eucaristia**
 
 1\. Uma participação ativa e consciente \[36-42\]  
-2. Tarefas dos fiéis leigos na celebração da santa Missa \[43-47\]
+2\. Tarefas dos fiéis leigos na celebração da santa Missa \[43-47\]
 
 **[CAPÍTULO III](#CAPÍTULO%20III)**
 
 **A celebração correta da santa Missa**
 
 1\. A matéria da Santíssima Eucaristia \[48-50\]  
-2. A Oração eucarística \[51-56\]  
-3. As outras partes da Missa \[57-74\]  
-4. A união de vários ritos com a celebração da Missa \[75-79\]
+2\. A Oração eucarística \[51-56\]  
+3\. As outras partes da Missa \[57-74\]  
+4\. A união de vários ritos com a celebração da Missa \[75-79\]
 
 **[CAPÍTULO IV](#CAPÍTULO%20IV)**
 
 **A sagrada Comunhão**
 
 1\. As disposições para receber a sagrada Comunhão \[80-87\]  
-2. A distribuição da sagrada Comunhão \[88-96\]  
-3. A Comunhão dos sacerdotes \[97-99\]  
-4. A Comunhão sob as duas espécies \[100-107\]
+2\. A distribuição da sagrada Comunhão \[88-96\]  
+3\. A Comunhão dos sacerdotes \[97-99\]  
+4\. A Comunhão sob as duas espécies \[100-107\]
 
 **[CAPÍTULO V](#CAPÍTULO%20V)**
 
 **Outros aspectos que se referem à Eucaristia**
 
 1\. O lugar da celebração da santa Missa \[108-109\]  
-2. Diversos aspectos relacionados com a santa Missa \[110-116\]  
-3. Os vasos sagrados \[117-120\]  
-4. As vestes litúrgicas \[121-128\]
+2\. Diversos aspectos relacionados com a santa Missa \[110-116\]  
+3\. Os vasos sagrados \[117-120\]  
+4\. As vestes litúrgicas \[121-128\]
 
 **[CAPÍTULO VI](#CAPÍTULO%20VI)**
 
 **A conservação da santa Eucaristia e seu culto fora da Missa**
 
 1\. A conservação da Santíssima Eucaristia \[129-133\]  
-2. Algumas formas de culto à santa Eucaristia fora da Missa \[134-141\]  
-3. As procissões e os congressos eucarísticos \[142-145\]
+2\. Algumas formas de culto à santa Eucaristia fora da Missa \[134-141\]  
+3\. As procissões e os congressos eucarísticos \[142-145\]
 
 **[CAPÍTULO VII](#CAPÍTULO%20VII)**
 
 **Ministérios extraordinários dos fiéis leigos** \[146-153\]
 
 1\. O ministro extraordinário da sagrada Comunhão \[154-160\]  
-2. A pregação \[161\]  
-3. Celebrações particulares que se realizam na ausência do sacerdote \[162-167\]  
-4. Aqueles que têm sido afastados do estado clerical \[168\]
+2\. A pregação \[161\]  
+3\. Celebrações particulares que se realizam na ausência do sacerdote \[162-167\]  
+4\. Aqueles que têm sido afastados do estado clerical \[168\]
 
 **[CAPÍTULO VIII](#CAPÍTULO%20VIII)**
 
 **As Correções** \[169-171\]
 
 1\. *Graviora delicta* (Atos Graves) \[172\]  
-2. Os atos graves \[173\]  
-3. Outros abusos \[174-175\]  
-4. O Bispo diocesano \[176-180\]  
-5. A Sé apostólica \[181-182\]  
-6. Queixas pelos abusos em matéria litúrgica \[183-184\]
+2\. Os atos graves \[173\]  
+3\. Outros abusos \[174-175\]  
+4\. O Bispo diocesano \[176-180\]  
+5\. A Sé apostólica \[181-182\]  
+6\. Queixas pelos abusos em matéria litúrgica \[183-184\]
 
 **[CONCLUSÃO](#CONCLUSÃO)** \[185-186\]
 

@@ -12,7 +12,7 @@ PREMA NEKRŠĆANSKIM RELIGIJAMA*** NOSTRA AETATE***
 
 ***Uvod*** 
 
-1. U naše vrijeme, kad se ljudski rod iz dana u dan sve uže sjedinjuje i kada se umnažaju međusobne veze između različitih naroda, Crkva pažljivije promatra u kakvom odnosu stoji prema nekršćanskim religijama. U svojoj zadaći da promiče jedinstvo i ljubav među ljudima, štoviše i među narodima, ona prije svega svraća svoju pozornost na ono što je ljudima zajedničko i što ih vodi međusobnom zajedništvu. 
+1\. U naše vrijeme, kad se ljudski rod iz dana u dan sve uže sjedinjuje i kada se umnažaju međusobne veze između različitih naroda, Crkva pažljivije promatra u kakvom odnosu stoji prema nekršćanskim religijama. U svojoj zadaći da promiče jedinstvo i ljubav među ljudima, štoviše i među narodima, ona prije svega svraća svoju pozornost na ono što je ljudima zajedničko i što ih vodi međusobnom zajedništvu. 
 
 Svi su, naime, narodi jedna zajednica; imaju isti iskon jer je Bog sav ljudski rod nastanio po svoj površini zemaljskoj \[1\]; svima je jedan posljednji cilj, Bog, čija se providnost, svjedočanstvo dobrote i naum spasenja protežu na sve \[2\], dok se svi ne sjedine izabrani u Svetom gradu koji će osvijetliti Božja slava i gdje će narodi hoditi u njegovu svjetlu \[3\]. 
 
@@ -20,7 +20,7 @@ Ljudi od različitih religija očekuju odgovor o skrivenim zagonetkama ljudske e
 
 ***Različite religije ***  
 
-2. Već od najstarijih pa sve do danas kod različitih naroda nalazimo neko zamjećivanje one skrivene moći koja je prisutna u tokovima svijeta i događajima čovječjeg života, a ponekad čak i priznavanje najvišega božanstva ili također Oca. To zamjećivanje i priznavanje prožima njihov život dubokim religioznim osjećajem.  
+2\. Već od najstarijih pa sve do danas kod različitih naroda nalazimo neko zamjećivanje one skrivene moći koja je prisutna u tokovima svijeta i događajima čovječjeg života, a ponekad čak i priznavanje najvišega božanstva ili također Oca. To zamjećivanje i priznavanje prožima njihov život dubokim religioznim osjećajem.  
 
 A religije, povezane s napretkom kulture, nastoje raščlanjenijim pojmovima i profinjenijim jezikom odgovoriti na ista pitanja. Tako u hinduizmu ljudi istražuju i izražavaju božanski misterij neiscrpivom plodnošću mitova i oštroumnim pokušajima filozofije te traže oslobođenje od tjeskobe naše egzistencije, bilo u oblicima asketskog života bilo dubokim razmatranjem, bilo utjecanjem Bogu u ljubavi i pouzdanju. U budizmu se, već prema njegovim različitim oblicima, priznaje korjenita nedostatnost ovoga promjenjivog svijeta te se naučava put kojim će ljudi pobožna i zaufana srca postići stanje savršenog oslobođenja ili će uspjeti, svojim vlastitim snagama ili višnjom pomoći, doprijeti do vrhunskoga rasvjetljenja. Tako i ostale religije širom svega svijeta nastoje različitim načinima priteći u pomoć nemiru ljudskoga srca predlažući putove, tj. nauke i pravila života i svete obrede. 
 
@@ -30,13 +30,13 @@ Ona stoga opominje svoju djecu da razborito i s ljubavlju putem razgovora i sura
 
 ***Islamska vjera*** 
 
-3. Crkva gleda s poštovanjem i muslimane koji se klanjaju jedinome Bogu, živom i subzistentnom, milosrdnom i svemogućem, stvoritelju neba i zemlje \[5\], koji je govorio ljudima. Oni se svom dušom nastoje podložiti njegovim skrovitim odlukama, kao što se Bogu podložio Abraham, na kojega se islamska vjera rado poziva. Oni, doduše, Isusa ne priznaju Bogom, ali ga ipak časte kao proroka, a poštuju i njegovu djevičansku majku Mariju, koju ponekad također pobožno zazivaju. Osim toga, iščekuju dan suda, kad će Bog svim uskrsnulim ljudima dati zasluženu plaću. Zato cijene moralni život, a Boga štuju napose molitvom, milostinjom i postom. 
+3\. Crkva gleda s poštovanjem i muslimane koji se klanjaju jedinome Bogu, živom i subzistentnom, milosrdnom i svemogućem, stvoritelju neba i zemlje \[5\], koji je govorio ljudima. Oni se svom dušom nastoje podložiti njegovim skrovitim odlukama, kao što se Bogu podložio Abraham, na kojega se islamska vjera rado poziva. Oni, doduše, Isusa ne priznaju Bogom, ali ga ipak časte kao proroka, a poštuju i njegovu djevičansku majku Mariju, koju ponekad također pobožno zazivaju. Osim toga, iščekuju dan suda, kad će Bog svim uskrsnulim ljudima dati zasluženu plaću. Zato cijene moralni život, a Boga štuju napose molitvom, milostinjom i postom. 
 
 Budući da je tijekom stoljeća između kršćana i muslimana dolazilo do čestih razdora i neprijateljstava, Sveti koncil potiče sve da se, zaboravivši što je bilo, iskreno trude oko međusobnog razumijevanja, da zajednički štite i promiču socijalnu pravednost, moralna dobra te mir i slobodu za sve ljude. 
 
 ***Židovska vjera*** 
 
-4. Istražujući otajstvo Crkve, ovaj se Sveti koncil sjeća sveze kojom je narod Novoga saveza duhovno povezan s rodom Abrahamovim. 
+4\. Istražujući otajstvo Crkve, ovaj se Sveti koncil sjeća sveze kojom je narod Novoga saveza duhovno povezan s rodom Abrahamovim. 
 
 Kristova Crkva, naime, priznaje da se počeci njezine vjere i izabranja, po spasonosnom Božjem otajstvu, nalaze već kod patrijarhâ, Mojsija i prorokâ.  
 
@@ -56,7 +56,7 @@ Osim toga, Crkva, koja osuđuje sve progone protiv bilo kojih ljudi, sjećajući
 
 ***Univerzalno bratstvo*** 
 
-5. Ne možemo naime zazivati Boga, Oca svih ljudi, ako otklanjamo da se bratski ponašamo prema nekim ljudima, stvorenima na Božju sliku. Odnos čovjeka prema Bogu Ocu tako se povezuje s odnosom čovjeka prema ljudskoj braći da Pismo kaže: »Tko ne ljubi, nije upoznao Boga« (1 Iv 4, 8). 
+5\. Ne možemo naime zazivati Boga, Oca svih ljudi, ako otklanjamo da se bratski ponašamo prema nekim ljudima, stvorenima na Božju sliku. Odnos čovjeka prema Bogu Ocu tako se povezuje s odnosom čovjeka prema ljudskoj braći da Pismo kaže: »Tko ne ljubi, nije upoznao Boga« (1 Iv 4, 8). 
 
 Time se uklanja temelj svakoj teoriji ili praksi koja između čovjeka i čovjeka, između naroda i naroda uvodi diskriminaciju s obzirom na ljudsko dostojanstvo i prava koja odatle proizlaze. 
 

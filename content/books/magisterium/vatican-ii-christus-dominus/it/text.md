@@ -59,7 +59,7 @@ b\) Ai singoli vescovi diocesani viene data facoltà di dispensare in casi parti
 
 ***I dicasteri della curia romana***
 
-9. Nell'esercizio della sua suprema, piena ed immediata potestà sopra tutta la Chiesa, il romano Pontefice si avvale dei dicasteri della curia romana, che perciò compiono il loro lavoro nel suo nome e nella sua autorità, a vantaggio delle Chiese e al servizio dei sacri pastori.
+9\. Nell'esercizio della sua suprema, piena ed immediata potestà sopra tutta la Chiesa, il romano Pontefice si avvale dei dicasteri della curia romana, che perciò compiono il loro lavoro nel suo nome e nella sua autorità, a vantaggio delle Chiese e al servizio dei sacri pastori.
 
 Tuttavia i Padri del santo Concilio esprimono il desiderio che questi dicasteri, i quali hanno finora reso senza dubbio un prezioso aiuto al romano Pontefice ed ai pastori della Chiesa, vengano riorganizzati in modo nuovo e conforme alle necessità dei tempi, dei paesi e dei riti, specialmente per quanto riguarda il loro numero, il loro nome, le loro competenze, i loro metodi di lavoro ed il coordinamento delle loro attività (15). Come pure desiderano che, in considerazione del ministero pastorale dei vescovi, sia più esattamente definito l'ufficio dei legati del romano Pontefice.
 

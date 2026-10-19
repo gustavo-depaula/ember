@@ -29,7 +29,7 @@ W dzisiejszych okolicznościach duszpasterskich, wychodząc naprzeciw pełnym ni
 
 Dlatego też, wysłuchawszy w tej sprawie zdania Kongregacji Nauki Wiary, Kongregacji ds. Kultu Bożego i Dyscypliny Sakramentów oraz Papieskiej Rady ds. Interpretacji Tekstów Prawnych, jak również czcigodnych Braci Kardynałów przewodniczących dykasterii Kurii Rzymskiej, potwierdzając naukę katolicką odnośnie do Sakramentu Pokuty i Pojednania ujętą syntetycznie w Katechizmie Kościoła Katolickiego,¹¹ świadom mojej odpowiedzialności duszpasterskiej i w pełnym przekonaniu o zawsze aktualnej konieczności i skuteczności tego sakramentu, rozporządzam, co następuje:
 
-1. Ordynariusze przypomną wszystkim szafarzom Sakramentu Pokuty, że powszechne prawo Kościoła, stosując doktrynę katolicką w tej materii, stanowi, że:
+1\. Ordynariusze przypomną wszystkim szafarzom Sakramentu Pokuty, że powszechne prawo Kościoła, stosując doktrynę katolicką w tej materii, stanowi, że:
 
 *a*) «Indywidualna i integralna spowiedź oraz rozgrzeszenie stanowią jedyny zwyczajny sposób, przez który wierny, świadomy grzechu ciężkiego, dostępuje pojednania z Bogiem i Kościołem. Jedynie niemożliwość fizyczna lub moralna zwalnia od takiej spowiedzi. W takim wypadku pojednanie może się dokonać również innymi sposobami».¹²
 
@@ -37,11 +37,11 @@ Dlatego też, wysłuchawszy w tej sprawie zdania Kongregacji Nauki Wiary, Kongre
 
 Ponadto wszyscy kapłani posiadający upoważnienie do sprawowania Sakramentu Pokuty, niech okażą zawsze pełną gotowość do udzielania go, gdy wierni w sposób uzasadniony o to proszą.¹⁴ Brak gotowości przyjęcia zranionych owiec, co więcej, wychodzenia im naprzeciw, aby na nowo przyprowadzić je do owczarni, byłby bolesnym znakiem zaniku świadomości duszpasterskiej u tego, kto na mocy święceń kapłańskich winien odzwierciedlać w sobie postać Dobrego Pasterza.
 
-2. Ordynariusze miejsca, jak również proboszczowie oraz rektorzy kościołów i sanktuariów winni okresowo sprawdzać, czy faktycznie wierni mają możliwie najbardziej ułatwiony dostęp do spowiedzi. W szczególności zaleca się, by spowiednicy byli obecni i widoczni w miejscach kultu w określonych godzinach, wyznaczonych według rozkładu dostosowanego do rzeczywistej sytuacji penitentów, a zwłaszcza gotowość do spowiadania przed Mszami świętymi, jak również, gotowość do wyjścia naprzeciw potrzebom wiernych także podczas celebracji Mszy świętych, jeśli są obecni inni kapłani.¹⁵
+2\. Ordynariusze miejsca, jak również proboszczowie oraz rektorzy kościołów i sanktuariów winni okresowo sprawdzać, czy faktycznie wierni mają możliwie najbardziej ułatwiony dostęp do spowiedzi. W szczególności zaleca się, by spowiednicy byli obecni i widoczni w miejscach kultu w określonych godzinach, wyznaczonych według rozkładu dostosowanego do rzeczywistej sytuacji penitentów, a zwłaszcza gotowość do spowiadania przed Mszami świętymi, jak również, gotowość do wyjścia naprzeciw potrzebom wiernych także podczas celebracji Mszy świętych, jeśli są obecni inni kapłani.¹⁵
 
-3. Ponieważ «wierny jest zobowiązany wyznać co do liczby i rodzaju wszelkie grzechy ciężkie popełnione po chrzcie, a jeszcze przez władzę kluczy Kościoła bezpośrednio nie odpuszczone i nie wyznane w indywidualnej spowiedzi, które sobie przypomina po dokładnym rachunku sumienia»,¹⁶ należy potępić jakikolwiek zwyczaj, który ograniczałby wyznanie do ogólnego oskarżenia lub jedynie jednego albo kilku grzechów uważanych za bardziej znaczące. Z drugiej strony, mając na uwadze, iż wszyscy wierni są powołani do świętości, zaleca się im, by wyznawali także grzechy powszednie.¹⁷
+3\. Ponieważ «wierny jest zobowiązany wyznać co do liczby i rodzaju wszelkie grzechy ciężkie popełnione po chrzcie, a jeszcze przez władzę kluczy Kościoła bezpośrednio nie odpuszczone i nie wyznane w indywidualnej spowiedzi, które sobie przypomina po dokładnym rachunku sumienia»,¹⁶ należy potępić jakikolwiek zwyczaj, który ograniczałby wyznanie do ogólnego oskarżenia lub jedynie jednego albo kilku grzechów uważanych za bardziej znaczące. Z drugiej strony, mając na uwadze, iż wszyscy wierni są powołani do świętości, zaleca się im, by wyznawali także grzechy powszednie.¹⁷
 
-4. W świetle i w kontekście poprzednich norm winna być rozumiana i prawidłowo stosowana absolucja wielu penitentów równocześnie bez uprzedniej spowiedzi indywidualnej, przewidziana w kan. 961 KPK. Ma ona bowiem «charakter nadzwyczajny»¹⁸ i w sposób ogólny nie może być udzielona, chyba że:
+4\. W świetle i w kontekście poprzednich norm winna być rozumiana i prawidłowo stosowana absolucja wielu penitentów równocześnie bez uprzedniej spowiedzi indywidualnej, przewidziana w kan. 961 KPK. Ma ona bowiem «charakter nadzwyczajny»¹⁸ i w sposób ogólny nie może być udzielona, chyba że:
 
 1º zagraża *niebezpieczeństwo śmierci* i brak czasu na to, by kapłan lub kapłani wyspowiadali poszczególnych penitentów;
 
@@ -61,13 +61,13 @@ Odnośnie do przypadku *poważnej konieczności* uściśla się, co następuje:
 
 *f*) Sam wielki napływ penitentów nie stanowi wystarczającej konieczności, nie tylko przy okazji wielkiego święta czy pielgrzymki, ale również zpowodu turystyki czy innych podobnych racji pojawiających się przy wzrastającym przemieszczaniu się osób.
 
-5. Osąd, czy zachodzą warunki określone przez normę kanonu 961, § 1, 2º, nie należy do spowiednika, ale do «biskupa diecezjalnego, który wziąwszy pod uwagę kryteria uzgodnione z po- zostałymi członkami Konferencji Episkopatu, może określić wypadek takiej konieczności».²¹ Te pastoralne kryteria winny być wyrazem dążenia do całkowitej wierności, w okolicznościach danego terytorium, fundamentalnym kryteriom wyrażonym w powszechnym prawie Kościoła, które zresztą opierają się na wymaganiach wynikających z samego Sakramentu Pokuty ujmowanego w takiej strukturze, w jakiej został ustanowiony przez Boga.
+5\. Osąd, czy zachodzą warunki określone przez normę kanonu 961, § 1, 2º, nie należy do spowiednika, ale do «biskupa diecezjalnego, który wziąwszy pod uwagę kryteria uzgodnione z po- zostałymi członkami Konferencji Episkopatu, może określić wypadek takiej konieczności».²¹ Te pastoralne kryteria winny być wyrazem dążenia do całkowitej wierności, w okolicznościach danego terytorium, fundamentalnym kryteriom wyrażonym w powszechnym prawie Kościoła, które zresztą opierają się na wymaganiach wynikających z samego Sakramentu Pokuty ujmowanego w takiej strukturze, w jakiej został ustanowiony przez Boga.
 
-6. Ponieważ w materii tak istotnej dla życia Kościoła pełna harmonia pomiędzy różnymi Episkopatami w świecie ma fundamentalne znaczenie, Konferencje Episkopatów zgodnie z normą kanonu 455 § 2 KPK jak najszybciej prześlą do Kongregacji ds. Kultu Bożego i Dyscypliny Sakramentów tekst norm, jakie mają zamiar wydać lub uaktualnić wświetle tego *Motu proprio* o zastosowaniu kanonu 961 KPK*.* Będzie to sprzyjało umocnieniu komunii pomiędzy biskupami całego Kościoła i zachęci wiernych we wszystkich zakątkach świata, aby obficie czerpali ze źródeł miłosierdzia Bożego, które nieustannie tryskają w Sakramencie Pojednania.
+6\. Ponieważ w materii tak istotnej dla życia Kościoła pełna harmonia pomiędzy różnymi Episkopatami w świecie ma fundamentalne znaczenie, Konferencje Episkopatów zgodnie z normą kanonu 455 § 2 KPK jak najszybciej prześlą do Kongregacji ds. Kultu Bożego i Dyscypliny Sakramentów tekst norm, jakie mają zamiar wydać lub uaktualnić wświetle tego *Motu proprio* o zastosowaniu kanonu 961 KPK*.* Będzie to sprzyjało umocnieniu komunii pomiędzy biskupami całego Kościoła i zachęci wiernych we wszystkich zakątkach świata, aby obficie czerpali ze źródeł miłosierdzia Bożego, które nieustannie tryskają w Sakramencie Pojednania.
 
 W duchu tej komunii wskazane jest, aby biskupi diecezjalni zreferowali wobec własnych Konferencji Episkopatu, czy w granicach ich jurysdykcji mają miejsce przypadki *poważnej konieczności.* Z kolei zadaniem Konferencji Episkopatu będzie poinformować wyżej wymienioną Kongregację o faktycznej sytuacji na ich terytorium i o ewentualnych zmianach, jakie winny być poczynione w przyszłości.
 
-7. Odnośnie do osobistych dyspozycji penitentów przypomina się, że:
+7\. Odnośnie do osobistych dyspozycji penitentów przypomina się, że:
 
 *a*) «By wierny ważnie korzystał z sakramentalnej absolucji udzielonej wielu penitentom jednocześnie, wymaga się nie tylko odpowiedniej dyspozycji, lecz również postanowienia, że we właściwym czasie wyzna grzechy ciężkie, których teraz wyznać nie może».²²
 
@@ -75,9 +75,9 @@ W duchu tej komunii wskazane jest, aby biskupi diecezjalni zreferowali wobec wł
 
 *c*) Jest jasne, iż nie mogą ważnie otrzymać rozgrzeszenia penitenci, którzy habitualnie żyją w stanie grzechu ciężkiego i nie mają zamiaru zmienić swej sytuacji.
 
-8. Biorąc pod uwagę pozostający w mocy przepis, według którego «każdy wierny, po osiągnięciu wieku rozeznania, obowiązany jest przynajmniej raz w roku wyznać wiernie wszystkie swoje grzechy ciężkie»,²⁴ «ten, komu zostają odpuszczone grzechy ciężkie przez absolucję generalną, powinien jak najszybciej przy nadarzającej się okazji odbyć spowiedź indywidualną, zanim przyjmie następną absolucję generalną, chyba że istnieje słuszna przyczyna».²⁵
+8\. Biorąc pod uwagę pozostający w mocy przepis, według którego «każdy wierny, po osiągnięciu wieku rozeznania, obowiązany jest przynajmniej raz w roku wyznać wiernie wszystkie swoje grzechy ciężkie»,²⁴ «ten, komu zostają odpuszczone grzechy ciężkie przez absolucję generalną, powinien jak najszybciej przy nadarzającej się okazji odbyć spowiedź indywidualną, zanim przyjmie następną absolucję generalną, chyba że istnieje słuszna przyczyna».²⁵
 
-9. Odnośnie do *miejsca* celebracji sakramentu i *konfesjonału* należy mieć na uwadze, że:
+9\. Odnośnie do *miejsca* celebracji sakramentu i *konfesjonału* należy mieć na uwadze, że:
 
 *a*) «Miejscem właściwym przyjmowania spowiedzi jest kościół lub kaplica»,²⁶ choć jest jasne, iż racje duszpasterskie mogą usprawiedliwiać sprawowanie tego sakramentu w innych miejscach.²⁷
 

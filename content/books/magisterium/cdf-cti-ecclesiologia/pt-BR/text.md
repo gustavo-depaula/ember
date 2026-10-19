@@ -314,9 +314,11 @@ A Igreja é, sem dúvida, sacramento, mas não no mesmo nível e com a mesma den
 
 Pode-se encontrar, na estrutura fundamental da Igreja, os próprios princípios que iluminam sua organização e sua prática canônico-jurídicas:
 
-1.  Enquanto comunidade visível e organismo social, a Igreja precisa de normas que exprimam sua estrutura fundamental e precisem, em virtude de um juízo prudencial, certas condições da vida comunitária. Essas condições podem mudar, assim como a fidelidade ao Espírito Santo pode exigir mudanças.
-2.  O fim da legislação eclesial não pode ser outro senão o bem comum da Igreja. Este compreende inseparavelmente a salvaguarda do depósito da fé recebido de Cristo e o progresso espiritual dos filhos de Deus, tornados membros do Corpo de Cristo.
-3.  Se a Igreja precisa de normas e de direitos, é necessário, consequentemente, reconhecer que ela goza de autoridade legislativa (LG 27; cf. CDC 135, 292, 333, 336, 391, 445, 455 etc.). Esta respeitará escrupulosamente a regra geral recordada pela Declaração conciliar sobre a liberdade religiosa, DH 7, segundo a qual “deve-se reconhecer ao homem o máximo de liberdade e restringi-la somente quando for necessário e na medida em que for necessário”. Tal poder implica também que as disposições legislativas devem ser acolhidas e postas em prática pelos fiéis com obediência religiosa. Todavia, o exercício de tal autoridade exigirá dos pastores uma atenção particular à temível responsabilidade implicada no poder de legislar: a ele se associará o grave dever moral de proceder às consultas prévias, bem como a obrigação de proceder, quando necessário, a emendas ulteriores.
+1\. Enquanto comunidade visível e organismo social, a Igreja precisa de normas que exprimam sua estrutura fundamental e precisem, em virtude de um juízo prudencial, certas condições da vida comunitária. Essas condições podem mudar, assim como a fidelidade ao Espírito Santo pode exigir mudanças.
+
+2\. O fim da legislação eclesial não pode ser outro senão o bem comum da Igreja. Este compreende inseparavelmente a salvaguarda do depósito da fé recebido de Cristo e o progresso espiritual dos filhos de Deus, tornados membros do Corpo de Cristo.
+
+3\. Se a Igreja precisa de normas e de direitos, é necessário, consequentemente, reconhecer que ela goza de autoridade legislativa (LG 27; cf. CDC 135, 292, 333, 336, 391, 445, 455 etc.). Esta respeitará escrupulosamente a regra geral recordada pela Declaração conciliar sobre a liberdade religiosa, DH 7, segundo a qual “deve-se reconhecer ao homem o máximo de liberdade e restringi-la somente quando for necessário e na medida em que for necessário”. Tal poder implica também que as disposições legislativas devem ser acolhidas e postas em prática pelos fiéis com obediência religiosa. Todavia, o exercício de tal autoridade exigirá dos pastores uma atenção particular à temível responsabilidade implicada no poder de legislar: a ele se associará o grave dever moral de proceder às consultas prévias, bem como a obrigação de proceder, quando necessário, a emendas ulteriores.
 
 A presença de elementos jurídicos nas disposições que presidem à vida da Igreja pede ainda algumas considerações. A liberdade cristã é um dos traços marcantes da Nova Aliança ou do “novo Povo de Deus” e constitui, portanto, uma novidade em relação à lei antiga. Contudo, o advento dessa liberdade, já ligado no testemunho dos profetas de Israel à interiorização da Lei (Jr 31,31), não implica que a lei exterior desapareça totalmente da vida da Igreja, ao menos enquanto ela está “em peregrinação” neste mundo. O Novo Testamento já nos apresenta germes de um direito eclesial (Mt 18,15-18; At 1,28s; 1Tm 3,1-13; 5,17-22; Tt 1,5-9 etc.). Os mais antigos Padres da Igreja mencionam certos desenvolvimentos de regras destinadas a estabelecer e conservar a boa ordem da comunidade. É o caso de Clemente de Roma, Inácio de Antioquia, Policarpo de Esmirna, Tertuliano, Hipólito etc. Os Concílios ecumênicos ou locais tomam disposições doutrinais propriamente ditas. O direito antigo da Igreja, portanto, já é importante. Contudo, nem sempre assumia a forma de uma lei escrita. Havia, de fato, como que um direito consuetudinário, direito que nem por isso era menos obrigatório e que frequentemente constituiu a fonte dos “santos cânones” redigidos posteriormente.
 
@@ -444,11 +446,15 @@ Para completar o parágrafo precedente, consagrado à Igreja como sacramento, po
 
 Observaremos, antes de tudo, que o Concílio não empregou de modo algum essa expressão, mesmo que a palavra sacramento, como se viu, seja utilizada em outros contextos. Poder-se-á, contudo, recorrer à expressão “Igreja, sacramento do Reino”, entendido que ela seja empregada na perspectiva seguinte:
 
-1.  Para sua aplicação à Igreja, o termo sacramento é utilizado de modo analógico, como sublinha o parágrafo 1 de *Lumen gentium*: *veluti sacramentum*.
-2.  A expressão visa à relação entre, de um lado, o Reino compreendido no sentido pleno de sua consumação e, de outro, a Igreja limitada ao seu aspecto “peregrinante”.
-3.  O termo “sacramento” é aí compreendido em seu sentido pleno de *jam praesens in mysterio* (LG 3) da realidade, do Reino, no sacramento, Igreja peregrina.
-4.  A Igreja não é um puro sinal (*sacramentum tantum*), mas a realidade significada está presente no sinal (*res et sacramentum*) como realidade do Reino.
-5.  A noção de Igreja não se limita ao seu único aspecto temporal e terrestre e, inversamente, a noção de Reino comporta uma presença já dada *in mysterio*.
+1\. Para sua aplicação à Igreja, o termo sacramento é utilizado de modo analógico, como sublinha o parágrafo 1 de *Lumen gentium*: *veluti sacramentum*.
+
+2\. A expressão visa à relação entre, de um lado, o Reino compreendido no sentido pleno de sua consumação e, de outro, a Igreja limitada ao seu aspecto “peregrinante”.
+
+3\. O termo “sacramento” é aí compreendido em seu sentido pleno de *jam praesens in mysterio* (LG 3) da realidade, do Reino, no sacramento, Igreja peregrina.
+
+4\. A Igreja não é um puro sinal (*sacramentum tantum*), mas a realidade significada está presente no sinal (*res et sacramentum*) como realidade do Reino.
+
+5\. A noção de Igreja não se limita ao seu único aspecto temporal e terrestre e, inversamente, a noção de Reino comporta uma presença já dada *in mysterio*.
 
 **10.4. Maria, a Igreja realizada**
 

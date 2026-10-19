@@ -437,14 +437,17 @@ A la place du psaume marqué dans le lectionnaire, on peut chanter aussi le rép
 
 **62.** Après la lecture qui précède immédiatement l’Evangile, on chante l´*Alléluia* ou un autre chant établi par les rubriques, selon ce que demande le temps liturgique. Ce genre d’acclamation constitue un rite ou un acte ayant valeur en lui-même, par lequel l’assemblée des fidèles accueille le Seigneur qui va leur parler dans l’Evangile, le salue et professe sa foi en chantant. L’acclamation est chantée par tous debout, la chorale ou le chantre donnant l’intonation et, le cas échéant, on répète l’acclamation ; le verset est chanté par la chorale ou le chantre.
 
-> 1.  L´*Alléluia* est chanté en tout temps en dehors du Carême. Les versets sont pris au lectionnaire ou au *Graduale*.
-> 2.  Pendant le Carême on remplace l’*Alléluia* par un verset avant l’Evangile, qui se trouve dans le lectionnaire. On peut encore chanter un autre psaume ou "trait", tel qu’on le trouve dans le *Graduale*.
+> 1\. L´*Alléluia* est chanté en tout temps en dehors du Carême. Les versets sont pris au lectionnaire ou au *Graduale*.
+
+> 2\. Pendant le Carême on remplace l’*Alléluia* par un verset avant l’Evangile, qui se trouve dans le lectionnaire. On peut encore chanter un autre psaume ou "trait", tel qu’on le trouve dans le *Graduale*.
 
 **63.** Quand il n´y a qu´une seule lecture avant l´Évangile:
 
-> 1.  Au temps où l´on doit dire l´*Alléluia*, on peut employer soit le psaume alléluiatique, soit le psaume suivi de l´*Alléluia* avec son verset.
-> 2.  Au temps où l´on ne doit pas dire l´*Alléluia*, on peut employer ou bien le psaume et le verset avant l´Évangile, ou bien le psaume seulement.
-> 3.  Si on ne les chante pas, on peut omettre l´*Alléluia* ou le verset avant l´Évangile.
+> 1\. Au temps où l´on doit dire l´*Alléluia*, on peut employer soit le psaume alléluiatique, soit le psaume suivi de l´*Alléluia* avec son verset.
+
+> 2\. Au temps où l´on ne doit pas dire l´*Alléluia*, on peut employer ou bien le psaume et le verset avant l´Évangile, ou bien le psaume seulement.
+
+> 3\. Si on ne les chante pas, on peut omettre l´*Alléluia* ou le verset avant l´Évangile.
 
 **64.** La séquence, qui est facultative sauf aux jours de Pâques et de la Pentecôte, est chantée avant l’*Alléluia*.
 
@@ -527,14 +530,21 @@ Le peuple s’unit  à la prière et la fait sienne par l’acclamation *Amen*.
 
 **79.** On peut distinguer comme suit les principaux éléments qui forment la prière eucharistique :
 
-1.  L´action de grâce (qui s´exprime surtout dans la préface) : le prêtre, au nom de tout le peuple saint, glorifie Dieu le Père et lui rend grâce pour toute l´œuvre de salut ou pour un de ses aspects particuliers, selon la diversité des jours, des fêtes ou des temps.
-2.  L´acclamation: toute l´assemblée, s´unissant aux puissances d’en haut, chante le *Sanctus*. Cette acclamation, qui fait partie de la Prière eucharistique, est prononcée par tout le peuple avec le prêtre.
-3.  L´épiclèse: par des invocations particulières, l´Église implore la puissance de l’Esprit Saint, pour que les dons offerts par les hommes soient consacrés, c´est-à-dire deviennent le Corps et le Sang du Christ, et pour que la victime sans tache, qui sera reçue dans la communion, profite au salut de ceux qui vont y participer.
-4.  Le récit de l´Institution et la consécration: par les paroles et les actions du Christ s´accomplit le sacrifice que le Christ lui-même a institué à la dernière Cène lorsqu´il offrit son Corps et son Sang sous les espèces du pain et du vin, les donna à manger et à boire aux Apôtres et leur laissa l´ordre de perpétuer ce mystère.
-5.  L´anamnèse: en accomplissant l´ordre reçu du Christ Seigneur par l´intermédiaire des Apôtres, l´Église fait mémoire du Christ lui-même, célébrant principalement le mémorial de sa passion bienheureuse, de sa glorieuse résurrection, et de son ascension dans le ciel.
-6.  L´offrande: au cœur de cette mémoire, l´Église, surtout celle qui est actuellement ici rassemblée, offre au Père, dans le Saint-Esprit, la victime sans tache. L´Église veut que les fidèles non seulement offrent cette victime sans tache, mais encore qu´ils apprennent à s´offrir eux-mêmes[^71] et soient parfaitement réunis, de jour en jour, par la médiation du Christ, dans l´unité avec Dieu et entre eux, pour qu´à la fin Dieu soit tout en tous[^72]
-7.  Les intercessions : on y exprime que l´Eucharistie est célébrée en union avec toute l´Église, celle du ciel comme celle de la terre, et que l´offrande est faite pour elle et pour tous ses membres vivants et morts, qui ont été appelés à participer à la rédemption et au salut obtenus par le Corps et le Sang du Christ.
-8.  La doxologie finale: elle exprime la glorification de Dieu ; elle est ratifiée et conclue par l´acclamation du peuple : *Amen*.
+1\. L´action de grâce (qui s´exprime surtout dans la préface) : le prêtre, au nom de tout le peuple saint, glorifie Dieu le Père et lui rend grâce pour toute l´œuvre de salut ou pour un de ses aspects particuliers, selon la diversité des jours, des fêtes ou des temps.
+
+2\. L´acclamation: toute l´assemblée, s´unissant aux puissances d’en haut, chante le *Sanctus*. Cette acclamation, qui fait partie de la Prière eucharistique, est prononcée par tout le peuple avec le prêtre.
+
+3\. L´épiclèse: par des invocations particulières, l´Église implore la puissance de l’Esprit Saint, pour que les dons offerts par les hommes soient consacrés, c´est-à-dire deviennent le Corps et le Sang du Christ, et pour que la victime sans tache, qui sera reçue dans la communion, profite au salut de ceux qui vont y participer.
+
+4\. Le récit de l´Institution et la consécration: par les paroles et les actions du Christ s´accomplit le sacrifice que le Christ lui-même a institué à la dernière Cène lorsqu´il offrit son Corps et son Sang sous les espèces du pain et du vin, les donna à manger et à boire aux Apôtres et leur laissa l´ordre de perpétuer ce mystère.
+
+5\. L´anamnèse: en accomplissant l´ordre reçu du Christ Seigneur par l´intermédiaire des Apôtres, l´Église fait mémoire du Christ lui-même, célébrant principalement le mémorial de sa passion bienheureuse, de sa glorieuse résurrection, et de son ascension dans le ciel.
+
+6\. L´offrande: au cœur de cette mémoire, l´Église, surtout celle qui est actuellement ici rassemblée, offre au Père, dans le Saint-Esprit, la victime sans tache. L´Église veut que les fidèles non seulement offrent cette victime sans tache, mais encore qu´ils apprennent à s´offrir eux-mêmes[^71] et soient parfaitement réunis, de jour en jour, par la médiation du Christ, dans l´unité avec Dieu et entre eux, pour qu´à la fin Dieu soit tout en tous[^72]
+
+7\. Les intercessions : on y exprime que l´Eucharistie est célébrée en union avec toute l´Église, celle du ciel comme celle de la terre, et que l´offrande est faite pour elle et pour tous ses membres vivants et morts, qui ont été appelés à participer à la rédemption et au salut obtenus par le Corps et le Sang du Christ.
+
+8\. La doxologie finale: elle exprime la glorification de Dieu ; elle est ratifiée et conclue par l´acclamation du peuple : *Amen*.
 
 ***Les rites de communion***
 
@@ -991,11 +1001,15 @@ Pour la même raison, la concélébration est recommandée chaque fois que les p
 
 **204.** Pour un motif particulier, à cause de la signification du rite ou de l´importance de la fête, il est permis de célébrer ou de concélébrer plusieurs fois le même jour, dans les cas suivants :
 
-1.  Celui qui, le Jeudi saint, a célébré ou concélébré la messe chrismale peut encore célébrer ou concélébrer la messe du soir.
-2.  Celui qui a célébré ou concélébré la messe lors de la Veillée pascale peut célébrer ou concélébrer le jour de Pâques.
-3.  A Noël, tous les prêtres peuvent célébrer ou concélébrer trois messes, du moment que c’est à l´heure voulue.
-4.  Le jour de la Commémoration de tous les fidèles défunts, tous les prêtres peuvent célébrer ou concélébrer trois messes pourvu que les célébrations aient lieu à des moments différents et qu’on observe ce qui est prescrit pour l’application de la seconde et de la troisième messe [^104].
-5.  Si un prêtre concélèbre avec l’évêque ou son délégué, au synode, lors d’une visite pastorale ou de quelque réunion de prêtres, il peut célébrer de nouveau la messe pour l’utilité des fidèles. Cela vaut, toutes proportions gardées, pour les réunions de religieux.
+1\. Celui qui, le Jeudi saint, a célébré ou concélébré la messe chrismale peut encore célébrer ou concélébrer la messe du soir.
+
+2\. Celui qui a célébré ou concélébré la messe lors de la Veillée pascale peut célébrer ou concélébrer le jour de Pâques.
+
+3\. A Noël, tous les prêtres peuvent célébrer ou concélébrer trois messes, du moment que c’est à l´heure voulue.
+
+4\. Le jour de la Commémoration de tous les fidèles défunts, tous les prêtres peuvent célébrer ou concélébrer trois messes pourvu que les célébrations aient lieu à des moments différents et qu’on observe ce qui est prescrit pour l’application de la seconde et de la troisième messe [^104].
+
+5\. Si un prêtre concélèbre avec l’évêque ou son délégué, au synode, lors d’une visite pastorale ou de quelque réunion de prêtres, il peut célébrer de nouveau la messe pour l’utilité des fidèles. Cela vaut, toutes proportions gardées, pour les réunions de religieux.
 
 **205.** La messe concélébrée, quelle qu´en soit la forme, suit les règles à observer communément (cf. nn. 112-198), en les conservant ou en les changeant sur les points indiqués ci-dessous.
 
@@ -1131,9 +1145,10 @@ Il est bien de chanter les parties qui doivent être dites ensemble par tous les
 
 **246.** Si la communion se fait en buvant directement au calice, on peut employer une des manières suivantes.
 
-1.  Le célébrant principal, au milieu de l’autel, prend le calice et dit à voix basse: *Sanguis Christi custodiat me in vitam aeternam* (Que le Sang du Christ me garde pour la vie éternelle)*,* consomme un peu du Précieux Sang, et remet le calice au diacre ou à un concélébrant. Il distribue ensuite la communion aux fidèles (cf. nn. 160-162).  
-    Les concélébrants, un par un, ou deux par deux s’il y a deux calices, s´approchent de l´autel, font la génuflexion, consomment le Précieux Sang, essuient le bord du calice et reviennent à leur siège.
-2.  Le célébrant principal consomme le Sang du Seigneur en se tenant, comme d’habitude, au milieu de l´autel.
+1\. Le célébrant principal, au milieu de l’autel, prend le calice et dit à voix basse: *Sanguis Christi custodiat me in vitam aeternam* (Que le Sang du Christ me garde pour la vie éternelle)*,* consomme un peu du Précieux Sang, et remet le calice au diacre ou à un concélébrant. Il distribue ensuite la communion aux fidèles (cf. nn. 160-162).  
+Les concélébrants, un par un, ou deux par deux s’il y a deux calices, s´approchent de l´autel, font la génuflexion, consomment le Précieux Sang, essuient le bord du calice et reviennent à leur siège.
+
+2\. Le célébrant principal consomme le Sang du Seigneur en se tenant, comme d’habitude, au milieu de l´autel.
 
 Restant à leur place, les concélébrants peuvent consommer le Sang du Seigneur en buvant au calice que leur présente le diacre ou l´un des concélébrants; ou encore en se le transmettant de l’un à l’autre. Le calice est toujours essuyé, soit par celui qui boit, soit par celui qui présente le calice. Chacun, après avoir communié, retourne à son siège.
 
@@ -1294,9 +1309,10 @@ Sur la manière de donner aux fidèles la communion sous les deux espèces, et l
 
 **284**. Quand on communie sous les deux espèces :
 
-1.  d’ordinaire, le diacre présente le calice, ou, en son absence, un prêtre ; ou encore un acolyte institué ou un autre ministre extraordinaire de la communion ; ou un fidèle à qui, en cas de nécessité, on confie cette fonction pour une fois ;
-2.  s’il reste du Sang du Christ, le prêtre le consomme à l’autel, ou le diacre, ou l’acolyte institué qui a présenté le calice : il purifie les vases liturgiques, les essuie et les remet à leur place comme d’habitude.  
-    Aux fidèles qui voudraient éventuellement communier sous la seule espèce du pain, la communion sera donnée sous cette forme.
+1\. d’ordinaire, le diacre présente le calice, ou, en son absence, un prêtre ; ou encore un acolyte institué ou un autre ministre extraordinaire de la communion ; ou un fidèle à qui, en cas de nécessité, on confie cette fonction pour une fois ;
+
+2\. s’il reste du Sang du Christ, le prêtre le consomme à l’autel, ou le diacre, ou l’acolyte institué qui a présenté le calice : il purifie les vases liturgiques, les essuie et les remet à leur place comme d’habitude.  
+Aux fidèles qui voudraient éventuellement communier sous la seule espèce du pain, la communion sera donnée sous cette forme.
 
 **285.** Pour distribuer la communion sous les deux espèces, on prépare :
 
@@ -1425,8 +1441,9 @@ Le tabernacle sera normalement unique, fixe, fait d’un matériau solide et à 
 
 Il faut donc que le tabernacle soit placé, au jugement de l’évêque diocésain :
 
-1.  soit dans le sanctuaire, en dehors de l’autel de la célébration, sous la forme et dans un endroit qui conviennent mieux, sans exclure l’ancien autel qui ne servirait plus à la célébration (cf. n. 303) ;
-2.  soit encore dans un oratoire adapté à l’adoration et à la prière personnelle des fidèles[^129], qui dépende architecturalement de l’église et bien visible des fidèles.
+1\. soit dans le sanctuaire, en dehors de l’autel de la célébration, sous la forme et dans un endroit qui conviennent mieux, sans exclure l’ancien autel qui ne servirait plus à la célébration (cf. n. 303) ;
+
+2\. soit encore dans un oratoire adapté à l’adoration et à la prière personnelle des fidèles[^129], qui dépende architecturalement de l’église et bien visible des fidèles.
 
 **316.** Selon la coutume traditionnelle, une lampe spéciale, alimenté avec de l’huile ou de la cire, brillera en permanence près du tabernacle, pour signaler et honorer la présence du Christ[^130].
 
@@ -1508,13 +1525,19 @@ Dans ce domaine aussi, on recherchera cette noble simplicité qui s´allie parfa
 
 **346.** L’emploi de diverses couleurs des vêtements liturgiques, on observera l´usage reçu, c´est-à-dire :
 
-1.  On emploie le blanc aux offices et aux messes du Temps pascal et du Temps de Noël; en outre, aux célébrations du Seigneur qui ne sont pas celles de sa Passion; à celles de la bienheureuse Vierge Marie, des Anges, des saints qui ne sont pas martyrs, aux solennités de Tous les saints (1er novembre), et de saint Jean Baptiste (24 juin), aux fêtes de saint Jean l´Évangéliste (27 décembre), de la Chaire de saint Pierre (22 février) et de la Conversion de saint Paul (25 janvier).
-2.  On emploie le rouge le dimanche de la Passion et le Vendredi saint, le dimanche de la Pentecôte, aux célébrations de la Passion du Seigneur, aux fêtes de la naissance au ciel des Apôtres et des Évangélistes, et aux célébrations de martyrs.
-3.  On emploie le vert aux offices et aux messes du Temps ordinaire (« per annum »).
-4.  On emploie le violet aux temps de l´Avent et du Carême. On peut aussi le prendre pour les offices et les messes des défunts.
-5.  On peut employer le noir aux messes des défunts, là où c’est la coutume.
-6.  On peut employer le rose, là où c’est l’usage, au troisième dimanche de l’Avent (*Gaudete*) et au quatrième dimanche de Carême (*Laetare*).
-7.  Aux jours les plus solennels, on peut employer des vêtements liturgiques festifs et particulièrement beaux, même s’ils ne sont pas de la couleur du jour.
+1\. On emploie le blanc aux offices et aux messes du Temps pascal et du Temps de Noël; en outre, aux célébrations du Seigneur qui ne sont pas celles de sa Passion; à celles de la bienheureuse Vierge Marie, des Anges, des saints qui ne sont pas martyrs, aux solennités de Tous les saints (1er novembre), et de saint Jean Baptiste (24 juin), aux fêtes de saint Jean l´Évangéliste (27 décembre), de la Chaire de saint Pierre (22 février) et de la Conversion de saint Paul (25 janvier).
+
+2\. On emploie le rouge le dimanche de la Passion et le Vendredi saint, le dimanche de la Pentecôte, aux célébrations de la Passion du Seigneur, aux fêtes de la naissance au ciel des Apôtres et des Évangélistes, et aux célébrations de martyrs.
+
+3\. On emploie le vert aux offices et aux messes du Temps ordinaire (« per annum »).
+
+4\. On emploie le violet aux temps de l´Avent et du Carême. On peut aussi le prendre pour les offices et les messes des défunts.
+
+5\. On peut employer le noir aux messes des défunts, là où c’est la coutume.
+
+6\. On peut employer le rose, là où c’est l’usage, au troisième dimanche de l’Avent (*Gaudete*) et au quatrième dimanche de Carême (*Laetare*).
+
+7\. Aux jours les plus solennels, on peut employer des vêtements liturgiques festifs et particulièrement beaux, même s’ils ne sont pas de la couleur du jour.
 
 Cependant les Conférences des évêques peuvent, en ce qui concerne les couleurs liturgiques, déterminer et proposer au Siège Apostolique des adaptations qui correspondent aux besoins et à la mentalité des peuples.
 

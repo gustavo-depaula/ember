@@ -32,8 +32,8 @@ La Commission Pontificale pour le Cinématographe s'abstient normalement de donn
 
 La Commission Pontificale pour le Cinématographe est nommée par le Saint-Siège et composée de la facon suivante:  
 
-1. Le Président, en charge pour six ans.  
-2. Le Conseil (qui assiste le Président) compose:  
+1\. Le Président, en charge pour six ans.  
+2\. Le Conseil (qui assiste le Président) compose:  
 
 *a)* Membres ipso iure, qui sont:  
 

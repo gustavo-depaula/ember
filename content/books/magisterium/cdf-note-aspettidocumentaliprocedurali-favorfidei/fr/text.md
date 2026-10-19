@@ -53,18 +53,18 @@ Le dossier doit comprendre, en plus des observations du défenseur du lien, un i
 Bien qu’il n’y ait pas d’ordre de classement prescrit pour les actes au dossier, l’arrangement suivant facilite toujours l’examen de la cause:
 
 1\. sommaire  
-2. requête  
-3. établissement de la commission  
-4. témoignages du requérant et du répondant  
-5. documents pertinents et  recherches sur le baptême  
-6. autres témoignages  
-7. témoignage de la tierce partie et  documents pertinents  
-8. lettres concernant la pratique religieuse des parties  
-9. rapport du juge instructeur  
-10. remarques du défenseur du lien  
-11. votum de l’évêque  
-12. authentification des actes  
-13. index.
+2\. requête  
+3\. établissement de la commission  
+4\. témoignages du requérant et du répondant  
+5\. documents pertinents et  recherches sur le baptême  
+6\. autres témoignages  
+7\. témoignage de la tierce partie et  documents pertinents  
+8\. lettres concernant la pratique religieuse des parties  
+9\. rapport du juge instructeur  
+10\. remarques du défenseur du lien  
+11\. votum de l’évêque  
+12\. authentification des actes  
+13\. index.
 
 **9) Trois exemplaires des Actes**
 

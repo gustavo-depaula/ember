@@ -38,12 +38,14 @@ Fetched pages are cached under `scripts/_cache/magisterium/` (gitignored), so re
 - [x] Pipeline check: 8 sample documents across all sources, `pnpm build:corpus` keeps every language
 - [x] Reader: Language row in the reader menu, choice kept per book (cursor `book/<id>/language`)
 - [x] Reader: chapters that exist only in other languages leave the reading flow and the contents
-- [ ] Bulk import (all sources, one process; vatican.va paced at one request start per 2 s)
-- [ ] Reconvert everything from cache after converter fixes (tables, `<` escaping, PDF-only pages)
-- [ ] Collection `collection/magisterium` (generator written: scripts/magisterium/build_collection.py)
+- [x] Bulk import: 2,198 documents processed, 2,044 with text, 6,796 language editions (≈4 h, vatican.va-bound)
+- [x] Reconvert everything from cache after converter fixes (tables, `<` escaping, PDF-only pages, nav icons,
+  empty titles, empty emphasis/quotes, stray Vatican copyright lines)
+- [x] Collection `collection/magisterium`: era → author sections (the corpus allows one level of nesting),
+  councils and Curia apart; on the library's reference shelf
 - [x] DCO collected volumes → Denzinger gaps: tried, nothing imported (see below)
 - [x] Councils: 20 books, `council-<id>` (scripts/magisterium/import_councils.py, status in council-status.json)
-- [ ] Inventory artifact: imported status
+- [x] Inventory artifact: imported status (https://claude.ai/artifact/PyaYuDoByb5fo7w51WQFve)
 - [ ] PR
 
 ## Open problems

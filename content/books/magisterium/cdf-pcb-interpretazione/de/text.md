@@ -37,9 +37,9 @@ Das ist das Ziel dieses Dokumentes. Die Päpstliche Bibelkommission möchte die 
 Um dieses Ziel zu erreichen, will dieses Dokument:
 
 1\. eine kurze Beschreibung der verschiedenen Methoden und Zugänge (1) mit ihren Möglichkeiten und Grenzen geben;  
-2. Fragen der Hermeneutik ansprechen;  
-3. Überlegungen über die spezifischen Dimensionen der katholischen Interpretation der Bibel und über ihren Bezug zu den andern theologischen Disziplinen vorlegen;  
-4. die Stellung erwägen, die der Interpretation der Bibel im Leben der Kirche zukommt.
+2\. Fragen der Hermeneutik ansprechen;  
+3\. Überlegungen über die spezifischen Dimensionen der katholischen Interpretation der Bibel und über ihren Bezug zu den andern theologischen Disziplinen vorlegen;  
+4\. die Stellung erwägen, die der Interpretation der Bibel im Leben der Kirche zukommt.
 
 I. Methoden und Zugänge für die Interpretation
 

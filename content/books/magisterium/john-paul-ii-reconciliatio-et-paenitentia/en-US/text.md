@@ -399,8 +399,9 @@ The fathers of the synod, as representatives of their brother bishops and as lea
 
 I therefore propose to call attention to the essentials of the pastoral activity of penance and reconciliation by emphasizing, with the synod assembly, the following two points:
 
-1.  The means used and the paths followed by the church in order to promote penance and reconciliation.
-2.  The sacrament par excellence of penance and reconciliation.
+1\. The means used and the paths followed by the church in order to promote penance and reconciliation.
+
+2\. The sacrament par excellence of penance and reconciliation.
 
 **CHAPTER ONE**
 

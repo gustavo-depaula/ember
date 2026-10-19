@@ -374,90 +374,90 @@ Wraz z tym życzeniem z głębi serca przesyłam wszystkim moje Błogosławieńs
 
 **Przypisy**:
 
-1. Sobór Wat. II., Dekr. o podst. zadaniach Biskupów w Kościele Christus Dominus, 11.
+1\. Sobór Wat. II., Dekr. o podst. zadaniach Biskupów w Kościele Christus Dominus, 11.
 
-2. Bulla Incarnationis mysterium (29 listopada 1998), 3: AAS 91 (1999), 132.
+2\. Bulla Incarnationis mysterium (29 listopada 1998), 3: AAS 91 (1999), 132.
 
-3. Tamże, 4: l.c., 133.
+3\. Tamże, 4: l.c., 133.
 
-4. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 8.
+4\. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 8.
 
-5. De civitate Dei XVIII, 51, 2: PL 41, 614; por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 8.
+5\. De civitate Dei XVIII, 51, 2: PL 41, 614; por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 8.
 
-6. Por. Jan Paweł II, List apost. Tertio millennio adveniente (10 listopada 1994), 55: AAS 87 (1995), 38.
+6\. Por. Jan Paweł II, List apost. Tertio millennio adveniente (10 listopada 1994), 55: AAS 87 (1995), 38.
 
-7. Por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 1.
+7\. Por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 1.
 
-8. « Ignoratio enim Scripturarum ignoratio Christi est »: Comm. in Is., Prol.: PL 24, 17.
+8\. « Ignoratio enim Scripturarum ignoratio Christi est »: Comm. in Is., Prol.: PL 24, 17.
 
-9. Por. Sobór Wat. II, Konst. dogm. o Objawieniu Bożym Dei Verbum, 19.
+9\. Por. Sobór Wat. II, Konst. dogm. o Objawieniu Bożym Dei Verbum, 19.
 
-10. « Idąc za świętymi Ojcami, uczymy jednogłośnie wyznawać, że jest jeden i ten sam Syn, nasz Pan Jezus Chrystus, doskonały w Bóstwie i doskonały w człowieczeństwie, prawdziwy Bóg i prawdziwy człowiek \[...\]. Jeden i ten sam Chrystus Pan, Syn Jednorodzony, ma być uznany w dwóch naturach bez pomieszania, bez zmiany, bez podziału i bez rozłączenia \[...\] nie jest On podzielony lub rozdzielony w dwóch osobach, ale jest jeden i ten sam Syn, Jednorodzony, Bóg, Słowo i Pan Jezus Chrystus »: DS 301-302.
+10\. « Idąc za świętymi Ojcami, uczymy jednogłośnie wyznawać, że jest jeden i ten sam Syn, nasz Pan Jezus Chrystus, doskonały w Bóstwie i doskonały w człowieczeństwie, prawdziwy Bóg i prawdziwy człowiek \[...\]. Jeden i ten sam Chrystus Pan, Syn Jednorodzony, ma być uznany w dwóch naturach bez pomieszania, bez zmiany, bez podziału i bez rozłączenia \[...\] nie jest On podzielony lub rozdzielony w dwóch osobach, ale jest jeden i ten sam Syn, Jednorodzony, Bóg, Słowo i Pan Jezus Chrystus »: DS 301-302.
 
-11. Sobór Wat. II, Konst. duszpast. o Kościele w świecie współczesnym Gaudium est spes, 22.
+11\. Sobór Wat. II, Konst. duszpast. o Kościele w świecie współczesnym Gaudium est spes, 22.
 
-12. Św. Atanazy tak mówi na ten temat: « Człowiek nie zostałby przebóstwiony, pozostając jedynie złączony ze stworzeniem, jeśliby Syn nie był prawdziwym Bogiem », Oratio II contra Arianos 70: PG 26, 425 B.
+12\. Św. Atanazy tak mówi na ten temat: « Człowiek nie zostałby przebóstwiony, pozostając jedynie złączony ze stworzeniem, jeśliby Syn nie był prawdziwym Bogiem », Oratio II contra Arianos 70: PG 26, 425 B.
 
-13. N. 78.
+13\. N. 78.
 
-14. Ultimi Colloqui. Quaderno giallo, 6 luglio 1897: Opere complete, Citt del Vaticano 1997, s. 1003.
+14\. Ultimi Colloqui. Quaderno giallo, 6 luglio 1897: Opere complete, Citt del Vaticano 1997, s. 1003.
 
-15. Św. Cyprian, De Orat. Dom. 23: PL 4, 553; por. Lumen gentium, 4.
+15\. Św. Cyprian, De Orat. Dom. 23: PL 4, 553; por. Lumen gentium, 4.
 
-16. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 40.
+16\. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 40.
 
-17. Por. Sobór Wat. II, Konst. o liturgii świętej Sacrosanctum Concilium, 10.
+17\. Por. Sobór Wat. II, Konst. o liturgii świętej Sacrosanctum Concilium, 10.
 
-18. Por. Kongr. Nauki Wiary, List do Biskupów Kościoła katolickiego o niektórych aspektach medytacji chrześcijańskiej Orationis formas (15 października 1989): AAS 82 (1990), 362-379.
+18\. Por. Kongr. Nauki Wiary, List do Biskupów Kościoła katolickiego o niektórych aspektach medytacji chrześcijańskiej Orationis formas (15 października 1989): AAS 82 (1990), 362-379.
 
-19. Sobór Wat. II, Konst. o liturgii świętej Sacrosanctum Concilium, 10.
+19\. Sobór Wat. II, Konst. o liturgii świętej Sacrosanctum Concilium, 10.
 
-20. Por. Jan Paweł II, List apost. Dies Domini (31 maja 1998), 19: AAS 90 (1998), 724.
+20\. Por. Jan Paweł II, List apost. Dies Domini (31 maja 1998), 19: AAS 90 (1998), 724.
 
-21. Tamże, 2: l.c., 714.
+21\. Tamże, 2: l.c., 714.
 
-22. Tamże, 35: l.c., 734.
+22\. Tamże, 35: l.c., 734.
 
-23. Por. n. 18: AAS 77 (1985), 224.
+23\. Por. n. 18: AAS 77 (1985), 224.
 
-24. Tamże, 31: l.c., 258.
+24\. Tamże, 31: l.c., 258.
 
-25. Tertulian, Apologeticum, 50, 13: PL 1, 534.
+25\. Tertulian, Apologeticum, 50, 13: PL 1, 534.
 
-26. Sobór Wat. II, Konst. dogm. o Kościele, Lumen gentium, 1.
+26\. Sobór Wat. II, Konst. dogm. o Kościele, Lumen gentium, 1.
 
-27. Św. Teresa od Dzieciątka Jezus, Rękopis B: Opere Complete, Citt del Vaticano, 1997, s. 223.
+27\. Św. Teresa od Dzieciątka Jezus, Rękopis B: Opere Complete, Citt del Vaticano, 1997, s. 223.
 
-28. Por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, rozdz. III.
+28\. Por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, rozdz. III.
 
-29. Por. Kongr. ds. Duchowieństwa i inne, Instr. międzydykasterialna o niektórych kwestiach dotyczących współpracy wiernych świeckich w ministerialnej posłudze kapłanów Ecclesiae de mysterio (15 sierpnia 1997): AAS 89 (1997), 852-877, szczególnie art. 5: Struktury współpracy w Kościele partykularnym.
+29\. Por. Kongr. ds. Duchowieństwa i inne, Instr. międzydykasterialna o niektórych kwestiach dotyczących współpracy wiernych świeckich w ministerialnej posłudze kapłanów Ecclesiae de mysterio (15 sierpnia 1997): AAS 89 (1997), 852-877, szczególnie art. 5: Struktury współpracy w Kościele partykularnym.
 
-30. Reguła III, 3: « Ideo autem omnes ad consilium vocari diximus, quia saepe iuniori Dominus revelat quod melius est ».
+30\. Reguła III, 3: « Ideo autem omnes ad consilium vocari diximus, quia saepe iuniori Dominus revelat quod melius est ».
 
-31. « De omnium fidelium ore pendeamus, quia in omnem fidelum Spiritus Dei spirat »: List 23, 36 do Sulpicjusza Severa: CSEL 29, 193.
+31\. « De omnium fidelium ore pendeamus, quia in omnem fidelum Spiritus Dei spirat »: List 23, 36 do Sulpicjusza Severa: CSEL 29, 193.
 
-32. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 31.
+32\. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 31.
 
-33. Sobór Wat. II, Dekr. o apostolstwie świeckich Apostolicam actuositatem, 2.
+33\. Sobór Wat. II, Dekr. o apostolstwie świeckich Apostolicam actuositatem, 2.
 
-34. Por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 8.
+34\. Por. Sobór Wat. II, Konst. dogm. o Kościele Lumen gentium, 8.
 
-35. Sobór Wat. II, Konst. duszpast. o Kościele w świecie współczesnym Gaudium et spes, 22.
+35\. Sobór Wat. II, Konst. duszpast. o Kościele w świecie współczesnym Gaudium et spes, 22.
 
-36. Konst. duszpast. o Kościele w świecie współczesnym Gaudium et spes, 34.
+36\. Konst. duszpast. o Kościele w świecie współczesnym Gaudium et spes, 34.
 
-37. Św. Ignacy Antiocheński, List do Rzymian, Pref., Wyd. Funk, I, s. 252.
+37\. Św. Ignacy Antiocheński, List do Rzymian, Pref., Wyd. Funk, I, s. 252.
 
-38. Tak na przykład pisze Św. Augustyn: « Luna intellegitur Ecclesia, quod suum lumen non habeat, sed ab Unigenito Dei Filio, qui multis locis in Sanctis Scripturis allegorice sol appellatus est »: Enarr. in Ps. 10, 3: CCL 38, 42.
+38\. Tak na przykład pisze Św. Augustyn: « Luna intellegitur Ecclesia, quod suum lumen non habeat, sed ab Unigenito Dei Filio, qui multis locis in Sanctis Scripturis allegorice sol appellatus est »: Enarr. in Ps. 10, 3: CCL 38, 42.
 
-39. Por. Dekl. o stosunku Kościoła do religii niechrześcijanskich Nostra aetate.
+39\. Por. Dekl. o stosunku Kościoła do religii niechrześcijanskich Nostra aetate.
 
-40. Papieskia Rada ds. Dialogu Międzyreligijnego i Kongr. Ds. Ewangelizacji Narodów, Instr. o głoszeniu Ewangelii i dialogu międzyreligijnym Dialogo e annuncio: riflessioni e orientamenti (19 maja 1991), 82: AAS 84 (1992), 444.
+40\. Papieskia Rada ds. Dialogu Międzyreligijnego i Kongr. Ds. Ewangelizacji Narodów, Instr. o głoszeniu Ewangelii i dialogu międzyreligijnym Dialogo e annuncio: riflessioni e orientamenti (19 maja 1991), 82: AAS 84 (1992), 444.
 
-41. Por. Konst. duszpast. o Kościele w świecie współczesnym Gaudium et spes, 4.
+41\. Por. Konst. duszpast. o Kościele w świecie współczesnym Gaudium et spes, 4.
 
-42. Tamże, 11.
+42\. Tamże, 11.
 
-43. Tamże, 44.
+43\. Tamże, 44.
 
-44. Por. List apost. Tertio millennio adveniente, 36: AAS 87 (1995), 28.
+44\. Por. List apost. Tertio millennio adveniente, 36: AAS 87 (1995), 28.

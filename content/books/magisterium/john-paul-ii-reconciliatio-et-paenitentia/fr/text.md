@@ -396,8 +396,9 @@ Les Pères du Synode - en tant que représentants de leurs confrères évêques,
 
 Je juge donc opportun de mettre en lumière l'essentiel de la *pastorale de la pénitence et de la réconciliation*, en exposant les deux points suivants:
 
-1.  Les moyens utilisés et les voies suivies par l'Eglise pour promouvoir la pénitence et la réconciliation;
-2.  Le sacrement par excellence de la Pénitence et de la Réconciliation.
+1\. Les moyens utilisés et les voies suivies par l'Eglise pour promouvoir la pénitence et la réconciliation;
+
+2\. Le sacrement par excellence de la Pénitence et de la Réconciliation.
 
 **CHAPITRE I**
 

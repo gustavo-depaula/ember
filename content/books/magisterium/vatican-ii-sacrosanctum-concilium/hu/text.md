@@ -459,7 +459,7 @@ Ezért e liturgikus lelkipásztori akciónak további előmozdítására a Szent
 44\. Célszerű, hogy a területileg illetékes egyházi felsőbbség, melyről a 22. pont 2. §-ában volt szó, liturgikus bizottságot szervezzen a liturgia tudományában, az egyházi zenében, egyházművészetben és lelkipásztori kérdésekben jártas szakemberekből. Ezt a bizottságot lehetőleg segítse egy liturgikus Lelkipásztori Intézet, amelynek tagjai között legyenek világi szakértők is. A bizottság feladata, hogy az illetékes területi egyházi tekintély vezetése alatt irányítsa a liturgikus lelkipásztori tevékenységet, mozdítsa elő a tanulmányokat és a szükséges kísérletezéseket valahányszor az Apostoli Szentszék elé terjesztendő alkalmazásokról van szó.
 
 (Egyházmegyei liturgikus bizottság)   
-45. Hasonló okból minden egyes egyházmegyében is legyen liturgikus Bizottság a püspök vezetése alatt a liturgikus mozgalom előmozdítására.
+45\. Hasonló okból minden egyes egyházmegyében is legyen liturgikus Bizottság a püspök vezetése alatt a liturgikus mozgalom előmozdítására.
 
 Több egyházmegye is szervezhet egy közös bizottságot, ha ez az összefogás hatékonyabban mozdítja elő a liturgia ügyét.
 
@@ -702,7 +702,7 @@ d*)* a *prima* nevű imaóra megszűnik;
 e*)* a kisebb imaórákat, a *terciát*, a *szeksztát* és a *nónát* a kórusimában tartsák meg. Kóruson kívül szabad a háromból a napszaknak megfelelő egy imaórát választani.
 
 *(A zsolozsma a lelki élet forrása)*  
-90. Amellett, hogy a zsolozsma az Egyház hivatalos imádsága, a lelkiség forrása és a személyes imádság táplálója is. Ezért kérve kérjük az Úrban a papokat és mindazokat, akik részt vesznek a szent zsolozsmában, hogy imájuk közben elméjük legyen összhangban szavaikkal; ennek jobb elérése végett különösen a zsoltárok terén mindenki alapos liturgikus és biblikus képzést kapjon.
+90\. Amellett, hogy a zsolozsma az Egyház hivatalos imádsága, a lelkiség forrása és a személyes imádság táplálója is. Ezért kérve kérjük az Úrban a papokat és mindazokat, akik részt vesznek a szent zsolozsmában, hogy imájuk közben elméjük legyen összhangban szavaikkal; ennek jobb elérése végett különösen a zsoltárok terén mindenki alapos liturgikus és biblikus képzést kapjon.
 
 A megújítás alkalmával a római zsolozsma tiszteletreméltó és sok százados kincseit úgy kell föltárni, hogy minél nagyobb mértékben és minél könnyebben tudjanak meríteni belőle a zsolozsmázók.
 
@@ -820,7 +820,7 @@ Ezek után a Szentséges Zsinat jónak látja a következőket elrendelni:
 Nagypénteken, az Úr szenvedésének és halálának napján azonban maradjon meg változatlanul mindenütt a szent húsvéti böjt, sőt ahol ez alkalmasnak látszik, ki kell terjeszteni nagyszombatra is, hogy így emelkedett és fogékony lélekkel érkezzenek el a hívők a föltámadás vasárnapjának örömeihez.
 
 *(A szentek ünneplése)*  
-111. A hagyománynak megfelelően tiszteljük az Egyházban a szenteket, tiszteletben tartjuk hiteles ereklyéiket és képeiket is. A szentek ünnepei ugyanis Krisztusnak szolgáiban véghezvitt csodatetteit hirdetik, a hívőknek pedig követésre és utánzásra alkalmas példát adnak.
+111\. A hagyománynak megfelelően tiszteljük az Egyházban a szenteket, tiszteletben tartjuk hiteles ereklyéiket és képeiket is. A szentek ünnepei ugyanis Krisztusnak szolgáiban véghezvitt csodatetteit hirdetik, a hívőknek pedig követésre és utánzásra alkalmas példát adnak.
 
 A szentek ünnepei ne kerüljenek túlsúlyba az üdvösséget szerző misztériumok ünnepeivel szemben, megtartásuk többnyire egy--egy részegyház, nemzet vagy szerzetescsalád körére korlátozódjék. Az egész Egyházra csak azoknak a szenteknek a tiszteletét kell kiterjeszteni, akiknek jelentősége valóban egyetemes.
 

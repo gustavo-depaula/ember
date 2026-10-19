@@ -40,12 +40,12 @@ b) esprimere il proprio parere circa gli affari, per i quali il Sinodo volta per
 III
 
 Il Sinodo dei Vescovi è sottomesso direttamente ed immediatamente all'autorità del Romano Pontefice, al quale inoltre spetterà:  
-1. convocare il Sinodo, ogni volta che gli parrà opportuno, e fissare il luogo delle riunioni;  
-2. ratificare l'elezione dei membri, di cui si tratta nei nn. V e VIII;  
-3. fissare l'oggetto delle questioni da trattare almeno sei mesi prima della riunione del Sinodo, se sarà possibile;  
-4. far spedire la materia degli argomenti da trattarsi a coloro che devono intęrvenire nella discussione di tali questioni;  
-5. stabilire l'ordine del giorno;  
-6. presiedere il Sinodo di persona o per mezzo di altri.
+1\. convocare il Sinodo, ogni volta che gli parrà opportuno, e fissare il luogo delle riunioni;  
+2\. ratificare l'elezione dei membri, di cui si tratta nei nn. V e VIII;  
+3\. fissare l'oggetto delle questioni da trattare almeno sei mesi prima della riunione del Sinodo, se sarà possibile;  
+4\. far spedire la materia degli argomenti da trattarsi a coloro che devono intęrvenire nella discussione di tali questioni;  
+5\. stabilire l'ordine del giorno;  
+6\. presiedere il Sinodo di persona o per mezzo di altri.
 
 IV
 

@@ -23,41 +23,41 @@ Bizonyos régiókban azonban sok hívő olyan szerető érzülettel ragaszkodott
 
 Az ilyen hívők kéréseit már Elő-dünk, II. János Pál pápa hosszasan megfontolta, s miután mi is meg-hallgattuk a Bíboros Atyákat a 2006. március 23-án tartott kon-zisztóriumon, mindent gondosan mérlegelve, a Szentlélek segítségül hívása után, Isten segítségével jelen Apostoli Levelünkkel a következőket határozzuk:   
 
-1. cikkely. A VI. Pál pápa által közzétett Római Misekönyv a latin szertartású katolikus Egyház „lex orandi”-jának rendes kifejeződése. A Szent V. Pius által közzétett és Boldog XXIII. János által újra kiadott Római Misekönyv pedig úgy tekintendő, mint az Egyház ugyanezen „lex orandi”-jának rendkívüli kifejeződése, és tiszteletreméltó és régi használata következtében kellő tiszteletben kell tartani. Az Egyház „lex orandi”-jának e két kifejeződése a legkevésbé sem vezet az Egyház „lex credendi”-jének megoszlására; ugyanis az egyetlen római szertartás két szokását képviselik. Éppen ezért a Római Misekönyv Boldog XXIII. János által kiadott és soha be nem tiltott editio typicája szerinti Szentmisét mint az Egyház liturgiájának rendkívüli formáját szabad ünnepelni. A korábbi feltételeket, melyeket a „Quattuor abhinc annos” és „Ecclesia Dei” kezdetű dokumen-tumok e Misekönyv használatához megszabtak, a következőkre változtatjuk:  
+1\. cikkely. A VI. Pál pápa által közzétett Római Misekönyv a latin szertartású katolikus Egyház „lex orandi”-jának rendes kifejeződése. A Szent V. Pius által közzétett és Boldog XXIII. János által újra kiadott Római Misekönyv pedig úgy tekintendő, mint az Egyház ugyanezen „lex orandi”-jának rendkívüli kifejeződése, és tiszteletreméltó és régi használata következtében kellő tiszteletben kell tartani. Az Egyház „lex orandi”-jának e két kifejeződése a legkevésbé sem vezet az Egyház „lex credendi”-jének megoszlására; ugyanis az egyetlen római szertartás két szokását képviselik. Éppen ezért a Római Misekönyv Boldog XXIII. János által kiadott és soha be nem tiltott editio typicája szerinti Szentmisét mint az Egyház liturgiájának rendkívüli formáját szabad ünnepelni. A korábbi feltételeket, melyeket a „Quattuor abhinc annos” és „Ecclesia Dei” kezdetű dokumen-tumok e Misekönyv használatához megszabtak, a következőkre változtatjuk:  
 
-2. cikkely. A nép részvétele nélkül ünnepelt szentmisénél bármely latin szertartású katolikus pap, akár egyházmegyés, akár szerzetes, használhatja a Boldog XXIII. János által 1962-ben kiadott, vagy a VI. Pál pápa által 1970-ben közzétett Római Misekönyvet, mégpedig bármelyik napon, kivéve a Szent Háromnapot (Nagycsütörtök, Nagypéntek, Nagyszombat). A bármely misekönyv szerinti misézéshez a papnak sem az Apostoli Szentszéktől, sem saját Ordináriusától semmiféle engedélyre nincsen szüksége.  
+2\. cikkely. A nép részvétele nélkül ünnepelt szentmisénél bármely latin szertartású katolikus pap, akár egyházmegyés, akár szerzetes, használhatja a Boldog XXIII. János által 1962-ben kiadott, vagy a VI. Pál pápa által 1970-ben közzétett Római Misekönyvet, mégpedig bármelyik napon, kivéve a Szent Háromnapot (Nagycsütörtök, Nagypéntek, Nagyszombat). A bármely misekönyv szerinti misézéshez a papnak sem az Apostoli Szentszéktől, sem saját Ordináriusától semmiféle engedélyre nincsen szüksége.  
 
-3. cikkely. Ha az Istennek szentelt élet intézményei, vagy az Apostoli élet társaságai, akár pápai, akár egyházmegyei jogúak, saját kápolnájukban konventmiséjüket, azaz közösségi miséjüket az 1962-ben közzétett Misekönyv szerint akarják végezni, megtehetik. Ha egyes közösségek vagy az egész Intézmény, illetve Társaság a szentmisét gyakran, többnyire vagy huzamosan így kívánja végezni, az ügyet a felettes elöljárók a jog szabályai a törvények és statutumok előírásai szerint döntsék el.  
+3\. cikkely. Ha az Istennek szentelt élet intézményei, vagy az Apostoli élet társaságai, akár pápai, akár egyházmegyei jogúak, saját kápolnájukban konventmiséjüket, azaz közösségi miséjüket az 1962-ben közzétett Misekönyv szerint akarják végezni, megtehetik. Ha egyes közösségek vagy az egész Intézmény, illetve Társaság a szentmisét gyakran, többnyire vagy huzamosan így kívánja végezni, az ügyet a felettes elöljárók a jog szabályai a törvények és statutumok előírásai szerint döntsék el.  
 
-4. cikkely. A 2. artikulusban említett szentmiséken a jogszabályok megtartásával olyan krisztushívők is részt vehetnek, akik ezt önként kérik.  
+4\. cikkely. A 2. artikulusban említett szentmiséken a jogszabályok megtartásával olyan krisztushívők is részt vehetnek, akik ezt önként kérik.  
 
-5. cikkely. 1. § Azokon a plébániákon, ahol állandó jelleggel jelen van a korábbi liturgikus hagyományhoz ragaszkodó hívők csoportja, a plébános szívesen fogadja az 1962-ben kiadott Misekönyv szerinti szentmisére vontakozó kéréseiket. Õ maga ügyeljen arra, hogy e hívek java összhangban legyen a rendes lelkipásztori gondoskodással, a püspök irányítása alatt a 392. kánonnak megfelelően, elkerülve a széthúzást és ápolva az egész Egyház egységét.  
+5\. cikkely. 1. § Azokon a plébániákon, ahol állandó jelleggel jelen van a korábbi liturgikus hagyományhoz ragaszkodó hívők csoportja, a plébános szívesen fogadja az 1962-ben kiadott Misekönyv szerinti szentmisére vontakozó kéréseiket. Õ maga ügyeljen arra, hogy e hívek java összhangban legyen a rendes lelkipásztori gondoskodással, a püspök irányítása alatt a 392. kánonnak megfelelően, elkerülve a széthúzást és ápolva az egész Egyház egységét.  
 
-2. § A Boldog XXIII. János Misekönyve szerinti misézésnek helye lehet hétköznapokon; vasárnap és ünnepnapokon is bemutatható egy ilyen szentmise.  
+2\. § A Boldog XXIII. János Misekönyve szerinti misézésnek helye lehet hétköznapokon; vasárnap és ünnepnapokon is bemutatható egy ilyen szentmise.  
 
-3. § Hívők vagy papok kérésére a plébános ilyen rendkívüli formájú szentmiséket különleges alkalmakkor is megengedhet, mint pl. házasságkötés, temetés, vagy más alkalommal, pl. búcsújáráskor.  
+3\. § Hívők vagy papok kérésére a plébános ilyen rendkívüli formájú szentmiséket különleges alkalmakkor is megengedhet, mint pl. házasságkötés, temetés, vagy más alkalommal, pl. búcsújáráskor.  
 
-4. § A Boldog XXIII. János Misekönyvét használó papoknak alkalmasnak kell lenniük a szentmise bemutatására és nem állhatnak misézési tilalom alatt.  
+4\. § A Boldog XXIII. János Misekönyvét használó papoknak alkalmasnak kell lenniük a szentmise bemutatására és nem állhatnak misézési tilalom alatt.  
 
-5. § Olyan templomokban, melyek nem plébánatemplomok, és szerzetesközösséghez sem tartoznak, a fenti engedély megadása a templomigazgatóra tartozik.  
+5\. § Olyan templomokban, melyek nem plébánatemplomok, és szerzetesközösséghez sem tartoznak, a fenti engedély megadása a templomigazgatóra tartozik.  
 
-6. cikkely. A Boldog XXIII. János Misekönyve szerint néppel bemutatott szentmisében az olvasmányok népnyelven is olvashatók az Apostoli Szentszék által jóváhagyott kiadásokból.  
+6\. cikkely. A Boldog XXIII. János Misekönyve szerint néppel bemutatott szentmisében az olvasmányok népnyelven is olvashatók az Apostoli Szentszék által jóváhagyott kiadásokból.  
 
-7. cikkely. Ha az 5. cikkely 1. §-ában szereplő hívők valamely csoportja a plébánostól nem kapja meg kérése teljesítését, értesítse a dologról a Megyéspüspököt. A Püspököt nagyon kérjük, hogy hallgassa meg kívánságukat. Ha képtelen gondoskodni az ilyen szentmiséről, terjessze fel az ügyet az „Ecclesia Dei” pápai bizottsághoz.  
+7\. cikkely. Ha az 5. cikkely 1. §-ában szereplő hívők valamely csoportja a plébánostól nem kapja meg kérése teljesítését, értesítse a dologról a Megyéspüspököt. A Püspököt nagyon kérjük, hogy hallgassa meg kívánságukat. Ha képtelen gondoskodni az ilyen szentmiséről, terjessze fel az ügyet az „Ecclesia Dei” pápai bizottsághoz.  
 
-8. cikkely. Ha a püspök teljesíteni óhajtja a laikus hívők ilyen kérését, de különböző okok akadályozzák, az ügyet az „Ecclesia Dei” pápai bizottságra bízhatja, mely tanácsot és segítséget fog nyújtani neki.  
+8\. cikkely. Ha a püspök teljesíteni óhajtja a laikus hívők ilyen kérését, de különböző okok akadályozzák, az ügyet az „Ecclesia Dei” pápai bizottságra bízhatja, mely tanácsot és segítséget fog nyújtani neki.  
 
-9. cikkely. 1. § Ugyanígy a plébános, mindent jól mérlegelve, engedélyt adhat a korábbi rituálé használatára a keresztség, a házasság, a gyónás és a betegek kenete szentségének kiszolgáltatásakor, ha a lelkek java ezt indokolja.  
+9\. cikkely. 1. § Ugyanígy a plébános, mindent jól mérlegelve, engedélyt adhat a korábbi rituálé használatára a keresztség, a házasság, a gyónás és a betegek kenete szentségének kiszolgáltatásakor, ha a lelkek java ezt indokolja.  
 
-2. § Az Ordináriusok felhatalmazást kapnak arra, hogy a bérmálás szentségét a régi Pontificale Romanum szerint szolgáltassák ki, ha a lelkek java ezt javallja.  
+2\. § Az Ordináriusok felhatalmazást kapnak arra, hogy a bérmálás szentségét a régi Pontificale Romanum szerint szolgáltassák ki, ha a lelkek java ezt javallja.  
 
-3. § A szent rendekben lévő klerikusok használhatják a Boldog XXIII. János pápa által 1962-ben kiadott Breviáriumot.  
+3\. § A szent rendekben lévő klerikusok használhatják a Boldog XXIII. János pápa által 1962-ben kiadott Breviáriumot.  
 
-10. cikkely. A helyi Ordinárius, ha alkalmasnak látja, az 518. kánon értelmében felállíthat személyi plébániát a régebbi római ritus szerinti liturgia végzésére, vagy kinevezhet ilyen templomigazgatót, illetve káplánt a jogszabályok megtartásával.  
+10\. cikkely. A helyi Ordinárius, ha alkalmasnak látja, az 518. kánon értelmében felállíthat személyi plébániát a régebbi római ritus szerinti liturgia végzésére, vagy kinevezhet ilyen templomigazgatót, illetve káplánt a jogszabályok megtartásával.  
 
-11. cikkely. A II. János Pál pápa által 1988-ban felállított „Ecclesia Dei”pápai bizottság [\[5\]](#J5) folytatja feladatának teljesítését. E Bizottságnak olyan szervezete, feladatai és eljárásmódjai vannak, amelyeket a Római Pápa szabadon határoz meg.  
+11\. cikkely. A II. János Pál pápa által 1988-ban felállított „Ecclesia Dei”pápai bizottság [\[5\]](#J5) folytatja feladatának teljesítését. E Bizottságnak olyan szervezete, feladatai és eljárásmódjai vannak, amelyeket a Római Pápa szabadon határoz meg.  
 
-12. cikkely. Ugyanez a Bizottság már meglévő fakultásai mellett az Apostoli Szentszék tekintélyét gyakorolja e rendelkezések megtartása és alkalmazása felügyeletében. Mindazt pedig, amit ezen motu proprio kiadott Apostoli Levelünkkel elhatároztunk, szilárdnak és érvényesnek nyilvánítunk és elrendeljük, hogy folyó év szeptember 14-én, Szent Kereszt Felmagasztalása ünnepén, minden akadály nélkül lépjen hatályba.  
+12\. cikkely. Ugyanez a Bizottság már meglévő fakultásai mellett az Apostoli Szentszék tekintélyét gyakorolja e rendelkezések megtartása és alkalmazása felügyeletében. Mindazt pedig, amit ezen motu proprio kiadott Apostoli Levelünkkel elhatároztunk, szilárdnak és érvényesnek nyilvánítunk és elrendeljük, hogy folyó év szeptember 14-én, Szent Kereszt Felmagasztalása ünnepén, minden akadály nélkül lépjen hatályba.  
 
 *Kelt Rómában, Szent Péternél, július 7-én, az Úr 2007. évében, pápaságunk 3. esztendejében.*  
 

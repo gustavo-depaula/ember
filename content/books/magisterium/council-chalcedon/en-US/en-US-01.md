@@ -34,9 +34,11 @@ In the ancient Greek collections, canons 29 and 30 are also attributed to the co
 
   He had no idea *how he ought to think about the incarnation* of the Word of God; and he had no desire to acquire the light of understanding by working through the length and breadth of the holy scriptures. So at least he should have listened carefully and accepted the common and undivided **creed** by which the whole body of the faithful confess that they believe *in*
 
-  1.  God the Father almighty and in
-  2.  Jesus Christ his only Son, our Lord,
-  3.  who was born of the holy Spirit and the virgin Mary.
+  1\. God the Father almighty and in
+
+  2\. Jesus Christ his only Son, our Lord,
+
+  3\. who was born of the holy Spirit and the virgin Mary.
 
   These three statements wreck the tricks of nearly every heretic. When God is believed to be both almighty and Father, the Son is clearly proved to be co-eternal with him, in no way different from the Father, since he was born God from God, almighty from the Almighty, co-eternal from the Eternal, not later in time, not lower in power, not unlike in glory, not distinct in being. The same eternal, only-begotten of the eternal begetter was born of the holy Spirit and the virgin Mary. His birth in time in no way subtracts from or adds to that divine and eternal birth of his: but **its whole purpose is to restore humanity, who had been deceived, so that it might defeat death and, by its power, destroy the devil who held the power of death**. Overcoming the originator of sin and death would be beyond us, had not he whom sin could not defile, nor could death hold down, taken up our nature and made it his own. He was conceived from the holy Spirit inside the womb of the virgin mother. Her virginity was as *untouched* in giving him birth as it was in conceiving him.
 

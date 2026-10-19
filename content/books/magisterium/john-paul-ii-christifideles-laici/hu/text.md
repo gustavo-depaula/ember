@@ -6,110 +6,110 @@ II\. János Pál pápa
 szinódus utáni apostoli buzdítása  
 a világi hívőknek az Egyházban  
 és a világban betöltött hivatásáról és küldetéséről  
-1988. december 30.
+1988\. december 30.
 
 Tartalomjegyzék
 
 BEVEZETÉS  
 
-1. [Krisztus-hívő laikusok](#Krisztus-h%C3%ADv%C5%91_laikusok)  
-2. [Menjetek ti is a szőlőmbe](#Menjetek_ti_is_a_sz%C5%91l%C5%91mbe)  
-3. [A világ jelenlegi igényes: „mit álltok itt egész nap tétlenül](#A_vil%C3%A1g_jelenlegi_ig%C3%A9nye:_%E2%80%9Emit_%C3%A1lltok_itt_eg%C3%A9sz_nap_t%C3%A9tlen%C3%BCl)?”  
-4. [Elvilágiasodás és vallási igény](#Elvil%C3%A1giasod%C3%A1s_%C3%A9s_vall%C3%A1si_ig%C3%A9ny)  
-5. [Az emberi személy eltiport és fölmagasztalt méltósága](#Az_emberi_szem%C3%A9ly_eltiport_%C3%A9s_f%C3%B6lmagasztalt_m%C3%A9lt%C3%B3s%C3%A1ga)  
-6. [Ellenségeskedés és béke](#Ellens%C3%A9gesked%C3%A9s_%C3%A9s_b%C3%A9ke)  
-7. [Jézus Krisztus az emberiség reménye](#J%C3%A9zus_Krisztus_az_emberis%C3%A9g_rem%C3%A9nye)  
+1\. [Krisztus-hívő laikusok](#Krisztus-h%C3%ADv%C5%91_laikusok)  
+2\. [Menjetek ti is a szőlőmbe](#Menjetek_ti_is_a_sz%C5%91l%C5%91mbe)  
+3\. [A világ jelenlegi igényes: „mit álltok itt egész nap tétlenül](#A_vil%C3%A1g_jelenlegi_ig%C3%A9nye:_%E2%80%9Emit_%C3%A1lltok_itt_eg%C3%A9sz_nap_t%C3%A9tlen%C3%BCl)?”  
+4\. [Elvilágiasodás és vallási igény](#Elvil%C3%A1giasod%C3%A1s_%C3%A9s_vall%C3%A1si_ig%C3%A9ny)  
+5\. [Az emberi személy eltiport és fölmagasztalt méltósága](#Az_emberi_szem%C3%A9ly_eltiport_%C3%A9s_f%C3%B6lmagasztalt_m%C3%A9lt%C3%B3s%C3%A1ga)  
+6\. [Ellenségeskedés és béke](#Ellens%C3%A9gesked%C3%A9s_%C3%A9s_b%C3%A9ke)  
+7\. [Jézus Krisztus az emberiség reménye](#J%C3%A9zus_Krisztus_az_emberis%C3%A9g_rem%C3%A9nye)  
 
 I. FEJEZET  
  „ÉN VAGYOK A SZŐLŐTŐ, TI A SZŐLŐVESSZŐK” A VILÁGI HÍVŐK MÉLTÓSÁGA A MISZTÉRIUM-EGYHÁZBAN  
 
-8. [A szőlőtő misztériuma](#A_sz%C5%91l%C5%91t%C5%91_miszt%C3%A9riuma)  
-9. [Kik a világi hívők](#Kik_a_vil%C3%A1gi_h%C3%ADv%C5%91k)?  
-10. [A keresztség és a keresztény újdonság](#A_kereszts%C3%A9g_%C3%A9s_a_kereszt%C3%A9ny_%C3%BAjdons%C3%A1g)  
-11. [Isten gyermekei az egyetlen Fiúban](#Isten_gyermekei_az_egyetlen_Fi%C3%BAban)  
-12. [Egyetlen test Krisztusban](#Egyetlen_test_Krisztusban)  
-13. [A Szentlélek élő templomai](#A_Szentl%C3%A9lek_%C3%A9l%C5%91_templomai)  
-14. [Jézus Krisztus papi, prófétai, királyi tisztségének részesei](#J%C3%A9zus_Krisztus_papi,_pr%C3%B3f%C3%A9tai,_kir%C3%A1lyi_tiszts%C3%A9g%C3%A9nek_r%C3%A9szesei)  
-15. [A világi hívők és a világi jelleg](#A_vil%C3%A1gi_h%C3%ADv%C5%91k_%C3%A9s_a_vil%C3%A1gi_jelleg)  
-16. [Meghívottak az életszentségre](#Megh%C3%ADvottak_az_%C3%A9letszents%C3%A9gre)  
-17. [Megszentelődés a világban](#Megszentel%C5%91d%C3%A9s_a_vil%C3%A1gban)  
+8\. [A szőlőtő misztériuma](#A_sz%C5%91l%C5%91t%C5%91_miszt%C3%A9riuma)  
+9\. [Kik a világi hívők](#Kik_a_vil%C3%A1gi_h%C3%ADv%C5%91k)?  
+10\. [A keresztség és a keresztény újdonság](#A_kereszts%C3%A9g_%C3%A9s_a_kereszt%C3%A9ny_%C3%BAjdons%C3%A1g)  
+11\. [Isten gyermekei az egyetlen Fiúban](#Isten_gyermekei_az_egyetlen_Fi%C3%BAban)  
+12\. [Egyetlen test Krisztusban](#Egyetlen_test_Krisztusban)  
+13\. [A Szentlélek élő templomai](#A_Szentl%C3%A9lek_%C3%A9l%C5%91_templomai)  
+14\. [Jézus Krisztus papi, prófétai, királyi tisztségének részesei](#J%C3%A9zus_Krisztus_papi,_pr%C3%B3f%C3%A9tai,_kir%C3%A1lyi_tiszts%C3%A9g%C3%A9nek_r%C3%A9szesei)  
+15\. [A világi hívők és a világi jelleg](#A_vil%C3%A1gi_h%C3%ADv%C5%91k_%C3%A9s_a_vil%C3%A1gi_jelleg)  
+16\. [Meghívottak az életszentségre](#Megh%C3%ADvottak_az_%C3%A9letszents%C3%A9gre)  
+17\. [Megszentelődés a világban](#Megszentel%C5%91d%C3%A9s_a_vil%C3%A1gban)  
 
 II. FEJEZET  
 MINDNYÁJAN AZ EGYETLEN SZŐLŐTŐ SZŐLŐVESSZŐI VAGYUNK  
 A VILÁGI HÍVŐK A KÖZÖSSÉG-EGYHÁZBAN  
 
-18. [A közösség-Egyház misztériuma](#A_k%C3%B6z%C3%B6ss%C3%A9g-Egyh%C3%A1z_miszt%C3%A9riuma)  
-19. [A Zsinat és a közösség ekkleziológiája (ecclesia communionis)](#A_Zsinat_%C3%A9s_a_k%C3%B6z%C3%B6ss%C3%A9g_ekkleziol%C3%B3gi%C3%A1ja_(ecclesia_communionis))  
-20. [Szerves közösség: különbözőség és kölcsönös kiegészítés](#A_szolg%C3%A1latok_%C3%A9s_karizm%C3%A1k_a_Szentl%C3%A9lek_aj%C3%A1nd%C3%A9kai_az_Egyh%C3%A1z_sz%C3%A1m%C3%A1ra)  
-21. [A szolgálatok és karizmák a Szentlélek ajándékai az Egyház számára](#A_szolg%C3%A1latok_%C3%A9s_karizm%C3%A1k_a_Szentl%C3%A9lek_aj%C3%A1nd%C3%A9kai_az_Egyh%C3%A1z_sz%C3%A1m%C3%A1ra)  
-22. [Az egyházi rendből származó szolgálatok](#Az_egyh%C3%A1zi_rendb%C5%91l_sz%C3%A1rmaz%C3%B3_szolg%C3%A1latok)  
-23. [A világiak szolgálatai, hivatalai, tevékenységei](#A_vil%C3%A1giak_szolg%C3%A1latai,_hivatalai,_tev%C3%A9kenys%C3%A9gei)  
-24. [A karizmák](#A_karizm%C3%A1k)  
+18\. [A közösség-Egyház misztériuma](#A_k%C3%B6z%C3%B6ss%C3%A9g-Egyh%C3%A1z_miszt%C3%A9riuma)  
+19\. [A Zsinat és a közösség ekkleziológiája (ecclesia communionis)](#A_Zsinat_%C3%A9s_a_k%C3%B6z%C3%B6ss%C3%A9g_ekkleziol%C3%B3gi%C3%A1ja_(ecclesia_communionis))  
+20\. [Szerves közösség: különbözőség és kölcsönös kiegészítés](#A_szolg%C3%A1latok_%C3%A9s_karizm%C3%A1k_a_Szentl%C3%A9lek_aj%C3%A1nd%C3%A9kai_az_Egyh%C3%A1z_sz%C3%A1m%C3%A1ra)  
+21\. [A szolgálatok és karizmák a Szentlélek ajándékai az Egyház számára](#A_szolg%C3%A1latok_%C3%A9s_karizm%C3%A1k_a_Szentl%C3%A9lek_aj%C3%A1nd%C3%A9kai_az_Egyh%C3%A1z_sz%C3%A1m%C3%A1ra)  
+22\. [Az egyházi rendből származó szolgálatok](#Az_egyh%C3%A1zi_rendb%C5%91l_sz%C3%A1rmaz%C3%B3_szolg%C3%A1latok)  
+23\. [A világiak szolgálatai, hivatalai, tevékenységei](#A_vil%C3%A1giak_szolg%C3%A1latai,_hivatalai,_tev%C3%A9kenys%C3%A9gei)  
+24\. [A karizmák](#A_karizm%C3%A1k)  
 
 A VILÁGI HÍVŐK RÉSZESEDÉSE AZ EGYHÁZ ÉLETÉBEN
 
 25\. [A részegyházak és az egyetemes Egyház](#A_r%C3%A9szegyh%C3%A1zak_%C3%A9s_az_egyetemes_Egyh%C3%A1z)  
-26. [A plébánia](#A_pl%C3%A9b%C3%A1nia)  
-27. [Apostoli elkötelezettség a plébánián](#Apostoli_elk%C3%B6telezetts%C3%A9g_a_pl%C3%A9b%C3%A1ni%C3%A1n)  
+26\. [A plébánia](#A_pl%C3%A9b%C3%A1nia)  
+27\. [Apostoli elkötelezettség a plébánián](#Apostoli_elk%C3%B6telezetts%C3%A9g_a_pl%C3%A9b%C3%A1ni%C3%A1n)  
 
 RÉSZESEDÉSI FORMÁK AZ EGYHÁZ ÉLETÉBEN  
 
-28. [A részesedés személyes formái](#A_r%C3%A9szesed%C3%A9s_szem%C3%A9lyes_form%C3%A1i)  
-29. [A részesedés közösségi formái](#A_r%C3%A9szesed%C3%A9s_k%C3%B6z%C3%B6ss%C3%A9gi_form%C3%A1i)  
-30. [A világi társulások egyháziasságának ismertetőjegyei](#A_vil%C3%A1gi_t%C3%A1rsul%C3%A1sok_egyh%C3%A1ziass%C3%A1g%C3%A1nak_ismertet%C5%91jegyei)  
-31. [A lelkipásztorok közösségért végzett szolgálata](#A_lelkip%C3%A1sztorok_k%C3%B6z%C3%B6ss%C3%A9g%C3%A9rt_v%C3%A9gzett_szolg%C3%A1lata)  
+28\. [A részesedés személyes formái](#A_r%C3%A9szesed%C3%A9s_szem%C3%A9lyes_form%C3%A1i)  
+29\. [A részesedés közösségi formái](#A_r%C3%A9szesed%C3%A9s_k%C3%B6z%C3%B6ss%C3%A9gi_form%C3%A1i)  
+30\. [A világi társulások egyháziasságának ismertetőjegyei](#A_vil%C3%A1gi_t%C3%A1rsul%C3%A1sok_egyh%C3%A1ziass%C3%A1g%C3%A1nak_ismertet%C5%91jegyei)  
+31\. [A lelkipásztorok közösségért végzett szolgálata](#A_lelkip%C3%A1sztorok_k%C3%B6z%C3%B6ss%C3%A9g%C3%A9rt_v%C3%A9gzett_szolg%C3%A1lata)  
 
 III. FEJEZET  
 ARRA RENDELTELEK TITEKET,  
 HOGY ELMENJETEK ÉS GYÜMÖLCSÖT HOZZATOK  
 A VILÁGI HÍVŐK KÖZÖS FELELŐSSÉGE A KÜLDETÉS-EGYHÁZBAN  
 
-32. [Missziós közösség](#Misszi%C3%B3s_k%C3%B6z%C3%B6ss%C3%A9g)  
-33. [Az evangélium hirdetése](#Az_evang%C3%A9lium_hirdet%C3%A9se)  
-34. [Elérkezett az új evangelizálás kezdetének órája](#El%C3%A9rkezett_az_%C3%BAj_evangeliz%C3%A1l%C3%A1s_kezdet%C3%A9nek_%C3%B3r%C3%A1ja)  
-35. [Menjetek el az egész világra](#Menjetek_el_az_eg%C3%A9sz_vil%C3%A1gra)  
-36. [A személyt és a társadalmat szolgálva élni az evangéliumot](#A_szem%C3%A9lyt_%C3%A9s_a_t%C3%A1rsadalmat_szolg%C3%A1lva_%C3%A9lni_az_evang%C3%A9liumot)  
-37. [A személyi méltóság előmozdítása](#A_szem%C3%A9lyi_m%C3%A9lt%C3%B3s%C3%A1g_el%C5%91mozd%C3%ADt%C3%A1sa)  
-38. [Az élethez való jog tisztelete](#Az_%C3%A9lethez_val%C3%B3_jog_tisztelete)  
-39. [A vallásszabadság](#A_vall%C3%A1sszabads%C3%A1g)  
-40. [A társadalmi elkötelezettség első színhelye a család](#A_t%C3%A1rsadalmi_elk%C3%B6telezetts%C3%A9g_els%C5%91_sz%C3%ADnhelye_a_csal%C3%A1d)  
-41. [A szeretet a szolidaritás lelke és támasza](#A_szeretet_a_szolidarit%C3%A1s_lelke_%C3%A9s_t%C3%A1masza)  
-42. [A politikai élet szereplői és címzettjei](#A_politikai_%C3%A9let_szerepl%C5%91i_%C3%A9s_c%C3%ADmzettjei)  
-43. [Az ember a gazdasági–társadalmi élet középpontjában](#Az_ember_a_gazdas%C3%A1gi%E2%80%93t%C3%A1rsadalmi_%C3%A9let_k%C3%B6z%C3%A9ppontj%C3%A1ban)  
-44. [A kultúra evangelizálása és az ember kultúrái](#A_kult%C3%BAra_evangeliz%C3%A1l%C3%A1sa_%C3%A9s_az_ember_kult%C3%BAr%C3%A1i)  
+32\. [Missziós közösség](#Misszi%C3%B3s_k%C3%B6z%C3%B6ss%C3%A9g)  
+33\. [Az evangélium hirdetése](#Az_evang%C3%A9lium_hirdet%C3%A9se)  
+34\. [Elérkezett az új evangelizálás kezdetének órája](#El%C3%A9rkezett_az_%C3%BAj_evangeliz%C3%A1l%C3%A1s_kezdet%C3%A9nek_%C3%B3r%C3%A1ja)  
+35\. [Menjetek el az egész világra](#Menjetek_el_az_eg%C3%A9sz_vil%C3%A1gra)  
+36\. [A személyt és a társadalmat szolgálva élni az evangéliumot](#A_szem%C3%A9lyt_%C3%A9s_a_t%C3%A1rsadalmat_szolg%C3%A1lva_%C3%A9lni_az_evang%C3%A9liumot)  
+37\. [A személyi méltóság előmozdítása](#A_szem%C3%A9lyi_m%C3%A9lt%C3%B3s%C3%A1g_el%C5%91mozd%C3%ADt%C3%A1sa)  
+38\. [Az élethez való jog tisztelete](#Az_%C3%A9lethez_val%C3%B3_jog_tisztelete)  
+39\. [A vallásszabadság](#A_vall%C3%A1sszabads%C3%A1g)  
+40\. [A társadalmi elkötelezettség első színhelye a család](#A_t%C3%A1rsadalmi_elk%C3%B6telezetts%C3%A9g_els%C5%91_sz%C3%ADnhelye_a_csal%C3%A1d)  
+41\. [A szeretet a szolidaritás lelke és támasza](#A_szeretet_a_szolidarit%C3%A1s_lelke_%C3%A9s_t%C3%A1masza)  
+42\. [A politikai élet szereplői és címzettjei](#A_politikai_%C3%A9let_szerepl%C5%91i_%C3%A9s_c%C3%ADmzettjei)  
+43\. [Az ember a gazdasági–társadalmi élet középpontjában](#Az_ember_a_gazdas%C3%A1gi%E2%80%93t%C3%A1rsadalmi_%C3%A9let_k%C3%B6z%C3%A9ppontj%C3%A1ban)  
+44\. [A kultúra evangelizálása és az ember kultúrái](#A_kult%C3%BAra_evangeliz%C3%A1l%C3%A1sa_%C3%A9s_az_ember_kult%C3%BAr%C3%A1i)  
 
 IV. FEJEZET  
 AZ ÚR SZŐLEJÉNEK MUNKÁSAI  
 Isten sokféle kegyelmeinek közvetítői  
 
-45. [A hivatások sokfélesége](#A_hivat%C3%A1sok_sokf%C3%A9les%C3%A9ge)  
+45\. [A hivatások sokfélesége](#A_hivat%C3%A1sok_sokf%C3%A9les%C3%A9ge)  
 
 IFJAK, GYERMEKEK, ÖREGEK  
 
-46. [A fiatalok az Egyház reménysége](#A_fiatalok_az_Egyh%C3%A1z_rem%C3%A9nys%C3%A9ge)  
-47. [A gyermekek és Isten Országa](#A_gyermekek_%C3%A9s_Isten_Orsz%C3%A1ga)  
-48. [Az idősek és a bölcsesség adománya](#Az_id%C5%91sek_%C3%A9s_a_b%C3%B6lcsess%C3%A9g_adom%C3%A1nya)  
-49. [Nők és férfiak](#N%C5%91k_%C3%A9s_f%C3%A9rfiak)  
-50. [Antropológiai és teológiai alapok](#Antropol%C3%B3giai_%C3%A9s_teol%C3%B3giai_alapok)  
-51. [Küldetés az Egyházban és a világban](#K%C3%BCldet%C3%A9s_az_Egyh%C3%A1zban_%C3%A9s_a_vil%C3%A1gban)  
-52. [Férfiak és nők együttműködése](#F%C3%A9rfiak_%C3%A9s_n%C5%91k_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9se)  
-53. [Betegek és szenvedők](#Betegek_%C3%A9s_szenved%C5%91k)  
-54. [Megújított lelkipásztorkodás](#Meg%C3%BAj%C3%ADtott_lelkip%C3%A1sztorkod%C3%A1s)  
-55. [Életállapotok és hivatások](#%C3%89let%C3%A1llapotok_%C3%A9s_hivat%C3%A1sok)  
-56. [A különböző világi hivatások](#A_k%C3%BCl%C3%B6nb%C3%B6z%C5%91_vil%C3%A1gi_hivat%C3%A1sok)  
+46\. [A fiatalok az Egyház reménysége](#A_fiatalok_az_Egyh%C3%A1z_rem%C3%A9nys%C3%A9ge)  
+47\. [A gyermekek és Isten Országa](#A_gyermekek_%C3%A9s_Isten_Orsz%C3%A1ga)  
+48\. [Az idősek és a bölcsesség adománya](#Az_id%C5%91sek_%C3%A9s_a_b%C3%B6lcsess%C3%A9g_adom%C3%A1nya)  
+49\. [Nők és férfiak](#N%C5%91k_%C3%A9s_f%C3%A9rfiak)  
+50\. [Antropológiai és teológiai alapok](#Antropol%C3%B3giai_%C3%A9s_teol%C3%B3giai_alapok)  
+51\. [Küldetés az Egyházban és a világban](#K%C3%BCldet%C3%A9s_az_Egyh%C3%A1zban_%C3%A9s_a_vil%C3%A1gban)  
+52\. [Férfiak és nők együttműködése](#F%C3%A9rfiak_%C3%A9s_n%C5%91k_egy%C3%BCttm%C5%B1k%C3%B6d%C3%A9se)  
+53\. [Betegek és szenvedők](#Betegek_%C3%A9s_szenved%C5%91k)  
+54\. [Megújított lelkipásztorkodás](#Meg%C3%BAj%C3%ADtott_lelkip%C3%A1sztorkod%C3%A1s)  
+55\. [Életállapotok és hivatások](#%C3%89let%C3%A1llapotok_%C3%A9s_hivat%C3%A1sok)  
+56\. [A különböző világi hivatások](#A_k%C3%BCl%C3%B6nb%C3%B6z%C5%91_vil%C3%A1gi_hivat%C3%A1sok)  
 
 V. FEJEZET  
 HOZZATOK GYÜMÖLCSÖT!  
 A VILÁGI HÍVŐK KÉPZÉSE  
 
-57. [Folyamatos érlelődés](#Folyamatos_%C3%A9rlel%C5%91d%C3%A9s)  
-58. [A személyes hivatás és küldetés fölfedezése és megélése](#A_szem%C3%A9lyes_hivat%C3%A1s_%C3%A9s_k%C3%BCldet%C3%A9s_f%C3%B6lfedez%C3%A9se_%C3%A9s_meg%C3%A9l%C3%A9se)  
-59. [A lelki és világi élet egységének megélése](#A_lelki_%C3%A9s_vil%C3%A1gi_%C3%A9let_egys%C3%A9g%C3%A9nek_meg%C3%A9l%C3%A9se)  
-60. [A képzés szempontjai](#A_k%C3%A9pz%C3%A9s_szempontjai)  
-61. [A nevelő Isten munkatársai](#A_nevel%C5%91_Isten_munkat%C3%A1rsai)  
-62. [A nevelés más helyei](#A_nevel%C3%A9s_m%C3%A1s_helyei)  
-63. [A kölcsönös képzés](#A_k%C3%B6lcs%C3%B6n%C3%B6s_k%C3%A9pz%C3%A9s)  
-64. [Fölhívás és imádság](#F%C3%B6lh%C3%ADv%C3%A1s_%C3%A9s_im%C3%A1ds%C3%A1g)  
+57\. [Folyamatos érlelődés](#Folyamatos_%C3%A9rlel%C5%91d%C3%A9s)  
+58\. [A személyes hivatás és küldetés fölfedezése és megélése](#A_szem%C3%A9lyes_hivat%C3%A1s_%C3%A9s_k%C3%BCldet%C3%A9s_f%C3%B6lfedez%C3%A9se_%C3%A9s_meg%C3%A9l%C3%A9se)  
+59\. [A lelki és világi élet egységének megélése](#A_lelki_%C3%A9s_vil%C3%A1gi_%C3%A9let_egys%C3%A9g%C3%A9nek_meg%C3%A9l%C3%A9se)  
+60\. [A képzés szempontjai](#A_k%C3%A9pz%C3%A9s_szempontjai)  
+61\. [A nevelő Isten munkatársai](#A_nevel%C5%91_Isten_munkat%C3%A1rsai)  
+62\. [A nevelés más helyei](#A_nevel%C3%A9s_m%C3%A1s_helyei)  
+63\. [A kölcsönös képzés](#A_k%C3%B6lcs%C3%B6n%C3%B6s_k%C3%A9pz%C3%A9s)  
+64\. [Fölhívás és imádság](#F%C3%B6lh%C3%ADv%C3%A1s_%C3%A9s_im%C3%A1ds%C3%A1g)  
 
 [Jegyzetek](#Jegyzetek:)  
 

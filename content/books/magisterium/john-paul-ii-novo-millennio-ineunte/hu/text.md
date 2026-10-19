@@ -4,7 +4,7 @@
 
 II\. János Pál pápa apostoli levele  
 a 2000. esztendő Nagy Jubileuma végén  
-2001. január 6.
+2001\. január 6.
 
 **Tartalom**  
 
@@ -315,7 +315,7 @@ Krisztus ajánlatát mindenki előtt bizalommal el kell ismételnünk. A felnőt
 
 #### A SZERETET TANÚI
 
-42. „Arról tudják majd meg rólatok, hogy a tanítványaim vagytok, hogy szeretettel vagytok egymás iránt” (Jn 13,35). Kedves Testvérek, ha valóban szemléltük Krisztus arcát, akkor lelkipásztori programjainknak abból az „új parancsból” kell fakadniuk, melyet ő adott nekünk: „Amint én szerettelek benneteket, úgy szeressétek ti is egymást” (Jn 13,34).
+42\. „Arról tudják majd meg rólatok, hogy a tanítványaim vagytok, hogy szeretettel vagytok egymás iránt” (Jn 13,35). Kedves Testvérek, ha valóban szemléltük Krisztus arcát, akkor lelkipásztori programjainknak abból az „új parancsból” kell fakadniuk, melyet ő adott nekünk: „Amint én szerettelek benneteket, úgy szeressétek ti is egymást” (Jn 13,34).
 
 A másik nagy terület, mely iránt mind az egyetemes Egyház, mind pedig a részegyházak szintjén szilárdan el kell köteleznünk programunkat, a közösség (koinonia, communio), mely az Egyház misztériumának lényegét testesíti meg és nyilvánítja ki. A közösség a szeretet gyümölcse és jele; ez a szeretet az örök Atya szívéből áramlik, s a Jézustól kapott Lélek ontja felénk (vö. Róm 5,5), hogy mi mind „egy szív, egy lélek” (ApCsel 4,32) legyünk. Ennek a szeretetközösségnek a megvalósításával lesz az Egyház „szentség”, vagyis „jele és eszköze az Istennel való bensőséges egyesülésnek és az egész emberiség egységének”.[\[26\]](#J26)
 

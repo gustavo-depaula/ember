@@ -419,8 +419,9 @@ Los Padres del Sínodo, como representantes de sus hermanos en el Episcopado y c
 
 Estoy pues convencido de destacar lo esencial de la *pastoral de la penitencia y reconciliación*, poniendo de relieve, con la Asamblea del Sínodo, los dos puntos siguientes:
 
-1.  Los medios usados y los caminos seguidos por la Iglesia para promover la penitencia y la reconciliación.
-2.  El Sacramento por excelencia de la penitencia y la reconciliación.
+1\. Los medios usados y los caminos seguidos por la Iglesia para promover la penitencia y la reconciliación.
+
+2\. El Sacramento por excelencia de la penitencia y la reconciliación.
 
 **CAPÍTULO PRIMERO**
 

@@ -364,7 +364,7 @@ NOTES
 
 40\. Proverbes 18,19.  
 
-41. Saint Thomas, *Contra impugnantes Dei cultum et religionem*, 2.
+41\. Saint Thomas, *Contra impugnantes Dei cultum et religionem*, 2.
 
 42\. Saint Thomas, *ibidem*.
 

@@ -935,11 +935,11 @@ Das Dikasterium setzt sich dafür ein, dass die Institute des geweihten Lebens 
 § 1. In Übereinstimmung mit den kanonischen Normen befasst sich das Dikasterium mit den Angelegenheiten, die in die Zuständigkeit des Apostolischen Stuhls fallen und das Leben und die Tätigkeit der Institute des geweihten Lebens und der Gesellschaften des apostolischen Lebens betreffen, insbesondere in Bezug auf:
 
 1\. die Approbation der Konstitutionen und ihrer Änderungen;  
-2. die ordentliche Leitung und die Disziplin der Mitglieder;  
-3. die Inkorporation und Ausbildung der Mitglieder, auch durch entsprechende Normen und Weisungen;  
-4. die zeitlichen Güter und ihre Verwaltung;  
-5. das Apostolat;  
-6. außerordentliche Leitungsmaßnahmen.
+2\. die ordentliche Leitung und die Disziplin der Mitglieder;  
+3\. die Inkorporation und Ausbildung der Mitglieder, auch durch entsprechende Normen und Weisungen;  
+4\. die zeitlichen Güter und ihre Verwaltung;  
+5\. das Apostolat;  
+6\. außerordentliche Leitungsmaßnahmen.
 
 § 2. In die Zuständigkeit des Dikasteriums fallen nach Maßgabe des Rechts auch die folgenden Bereiche:
 

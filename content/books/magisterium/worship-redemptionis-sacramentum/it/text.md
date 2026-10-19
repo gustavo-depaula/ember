@@ -18,71 +18,71 @@ E LA DISCIPLINA DEI SACRAMENTI
 **La regolamentazione della sacra Liturgia** \[14-18\]
 
 1\. Il Vescovo diocesano, grande Sacerdote del suo gregge \[19-25\]  
-2. Le Conferenze dei Vescovi \[26-28\]  
-3. I Sacerdoti \[29-33\]  
-4. I Diaconi \[34-35\]
+2\. Le Conferenze dei Vescovi \[26-28\]  
+3\. I Sacerdoti \[29-33\]  
+4\. I Diaconi \[34-35\]
 
 **[Capitolo II](#Capitolo%20II)**
 
 **La partecipazione dei fedeli laici alla celebrazione dell’Eucaristia**
 
 1\. Una partecipazione attiva e consapevole \[36-42\]  
-2. I compiti dei fedeli laici nella celebrazione della Messa \[43-47\]
+2\. I compiti dei fedeli laici nella celebrazione della Messa \[43-47\]
 
 **[Capitolo III](#Capitolo%20III)**
 
 **La retta celebrazione della santa Messa**
 
 1\. La materia della Santissima Eucaristia \[48-50\]  
-2. La Preghiera eucaristica \[51-56\]  
-3. Le altri parti della Messa \[57-74\]  
-4. L’unione dei vari riti con la celebrazione della Messa \[75-79\]
+2\. La Preghiera eucaristica \[51-56\]  
+3\. Le altri parti della Messa \[57-74\]  
+4\. L’unione dei vari riti con la celebrazione della Messa \[75-79\]
 
 **[Capitolo IV](#Capitolo%20IV)**
 
 **La santa Comunione**
 
 1\. Disposizioni per ricevere la santa Comunione \[80-87\]  
-2. La distribuzione della santa Comunione \[88-96\]  
-3. La Comunione dei Sacerdoti \[97-99\]  
-4. La Comunione sotto le due specie \[100-107\]
+2\. La distribuzione della santa Comunione \[88-96\]  
+3\. La Comunione dei Sacerdoti \[97-99\]  
+4\. La Comunione sotto le due specie \[100-107\]
 
 **[Capitolo V](#Capitolo%20V)**
 
 **Altri aspetti riguardanti l’Eucaristia**
 
 1\. Il luogo della celebrazione della santa Messa \[108-109\]  
-2. Circostanze varie relative alla santa Messa \[110-116\]  
-3. I vasi sacri \[117-120\]  
-4. Le vesti liturgiche \[121-128\]
+2\. Circostanze varie relative alla santa Messa \[110-116\]  
+3\. I vasi sacri \[117-120\]  
+4\. Le vesti liturgiche \[121-128\]
 
 **[Capitolo VI](#Capitolo%20VI)**
 
 **La conservazione della Santissima Eucaristia e il suo culto fuori della Messa**
 
 1\. La conservazione della Santissima Eucaristia \[129-133\]  
-2. Altre forme di culto della Santissima Eucaristia fuori della Messa \[134-141\]  
-3. Le processioni e i Congressi eucaristici \[142-145\]
+2\. Altre forme di culto della Santissima Eucaristia fuori della Messa \[134-141\]  
+3\. Le processioni e i Congressi eucaristici \[142-145\]
 
 **[Capitolo VII](#Capitolo%20VII)**
 
 **I compiti straordinari dei fedeli laici** \[146-153\]
 
 1\. Il ministro straordinario della santa Comunione \[154-160\]  
-2. La predicazione \[161\]  
-3. Le celebrazioni particolari che si svolgono in assenza del Sacerdote \[162-167\]  
-4. Coloro che sono stati dimessi dallo stato clericale \[168\]
+2\. La predicazione \[161\]  
+3\. Le celebrazioni particolari che si svolgono in assenza del Sacerdote \[162-167\]  
+4\. Coloro che sono stati dimessi dallo stato clericale \[168\]
 
 **[Capitolo VIII](#Capitolo%20VIII)**
 
 **I rimedi** \[169-171\]
 
 1\. *Graviora delicta* \[172\]  
-2. Atti gravi \[173\]  
-3. Altri abusi \[174-175\]  
-4. Il Vescovo diocesano \[176-180\]  
-5. La Sede Apostolica \[181-182\]  
-6. Segnalazioni di abusi in materia liturgica \[183-184\]
+2\. Atti gravi \[173\]  
+3\. Altri abusi \[174-175\]  
+4\. Il Vescovo diocesano \[176-180\]  
+5\. La Sede Apostolica \[181-182\]  
+6\. Segnalazioni di abusi in materia liturgica \[183-184\]
 
 **[Conclusione](#Conclusione)** \[185-186\]
 
