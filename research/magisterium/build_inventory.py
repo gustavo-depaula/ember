@@ -15,15 +15,18 @@ Each record gets a `status`:
 from __future__ import annotations
 
 import csv
+import functools
 import json
 import re
-import unicodedata
-from collections import Counter, defaultdict
+import sys
+from collections import Counter
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+sys.path.insert(0, str(HERE.parents[1] / "scripts" / "magisterium"))
+from names import COUNCILS as COUNCIL_TABLE  # noqa: E402
+from names import DCO_LANG, FILE_TYPE_WORDS, INCIPIT_TYPE_WORDS, ascii_fold, dco_council  # noqa: E402
 
-ROMAN = r"(?:[IVXL]+)"
 # Pope names in Latin / Italian / Portuguese / English → canonical English stem.
 NAME_STEMS = {
     "leo": "leo", "leone": "leo", "leao": "leo",
@@ -46,19 +49,8 @@ NAME_STEMS = {
     "ioannes": "john", "giovanni": "john", "joao": "john", "john": "john",
     "callixtus": "callixtus", "calisto": "callixtus",
     "francesco": "francis", "francisco": "francis", "francis": "francis",
-}
-
-POPE_ORDER: list[str] = []  # filled lazily: canonical ids in first-seen chronological order
-
-
-def norm(s: str) -> str:
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
-    return re.sub(r"[^a-z0-9 ]+", " ", s).strip()
-
-
-# Popes known by a single name, and the French and extra Latin spellings
-# Documenta Catholica Omnia and catho.org's Denzinger use.
-NAME_STEMS.update({
+    # Popes known by a single name, and the French and extra Latin spellings
+    # Documenta Catholica Omnia and catho.org's Denzinger use.
     "pie": "pius", "leon": "leo", "gregoire": "gregory", "benoit": "benedict", "jean": "john",
     "jules": "julius", "hadrien": "adrian", "sixte": "sixtus", "nicolas": "nicholas", "nicholaus": "nicholas",
     "urbain": "urban", "stephanus": "stephen", "etienne": "stephen", "sergius": "sergius",
@@ -73,16 +65,20 @@ NAME_STEMS.update({
     "cornelius": "cornelius", "victor": "victor", "petrus": "peter", "evaristus": "evaristus",
     "anicetus": "anicetus", "caius": "caius", "donus": "donus", "constantinus": "constantine",
     "anastasius": "anastasius", "anastase": "anastasius", "symmachus": "symmachus", "hilarius": "hilarius",
-    "zacharias": "zachary", "zacharie": "zachary", "eugenius": "eugene", "telesphorus": "telesphorus",
+    "zacharias": "zachary", "zacharie": "zachary", "telesphorus": "telesphorus",
     "soter": "soter", "eleutherius": "eleutherius", "zephyrinus": "zephyrinus", "fabianus": "fabian",
     "dionysius": "dionysius", "eutychianus": "eutychian", "marcellus": "marcellus", "eusebius": "eusebius",
     "miltiades": "miltiades", "marcus": "mark", "bonifatius": "boniface", "theodorus": "theodore",
     "severinus": "severinus", "deusdedit": "adeodatus", "sabinianus": "sabinian", "conon": "conon",
     "sisinnius": "sisinnius", "valentinus": "valentine", "formosus": "formosus", "romanus": "romanus",
     "lando": "lando", "landus": "lando", "silverius": "silverius", "pelagius": "pelagius", "pelage": "pelagius",
-    "agapetus": "agapetus", "hyginus": "hyginus", "linus": "linus", "clemente": "clement",
-})
+    "agapetus": "agapetus", "hyginus": "hyginus", "linus": "linus",
+}
 ROMAN_FIX = {"iiii": "iv", "viiii": "ix", "xiiii": "xiv", "xviiii": "xix"}
+
+
+def norm(s: str) -> str:
+    return re.sub(r"[^a-z0-9 ]+", " ", ascii_fold(s).lower()).strip()
 
 
 def pope_id(text: str) -> str | None:
@@ -110,6 +106,7 @@ def pope_id(text: str) -> str | None:
 STOP = {"de", "di", "a", "o", "the", "on", "of", "et", "in", "e", "and", "la", "il", "lo", "le"}
 
 
+@functools.cache
 def incipit_key(title: str) -> str:
     """First two significant words of the incipit, accent- and case-folded."""
     t = re.sub(r"\(.*?\)", " ", title)
@@ -120,7 +117,7 @@ def incipit_key(title: str) -> str:
         " ", t, flags=re.I,
     )
     words = [w for w in norm(t).split() if w not in STOP and not w.isdigit()]
-    while len(words) > 1 and words[0] in TYPE_WORDS | MORE_TYPE_WORDS:
+    while len(words) > 1 and words[0] in INCIPIT_TYPE_WORDS:
         words.pop(0)
     return " ".join(words[:2])
 
@@ -136,43 +133,44 @@ def iso(day: str, month: str, year: str) -> str | None:
     return f"{year}-{mo:02d}-{int(day):02d}" if mo else None
 
 
-MORE_TYPE_WORDS = {
-    "dichiarazione", "proclama", "notificazione", "istruzione", "rescritto", "risposta", "declaratio",
-    "notificatio", "instructio", "responsum", "bref", "lettre", "encyclique", "pope", "papa",
-}
-TYPE_WORDS = {
-    "enciclica", "encyclica", "encyclical", "lettera", "lettere", "apostolica", "apostoliche", "apostolic", "letter",
-    "esortazione", "exhortation", "costituzione", "constitutio", "motu", "proprio", "bolla", "bulla", "breve",
-    "epistola", "epistula", "allocuzione", "allocutio", "decreto", "decretum", "editto", "litterae", "apostolicae",
-    "dogmatica", "carta", "ap", "post", "sinodale", "chirografo", "messaggio", "omelia", "papa", "francesco",
-    "leone", "xiv", "const", "decl", "decree", "decl", "doc", "enc", "apl", "exh", "let", "mp", "ep",
-}
-
-
 def file_slug(name: str) -> str:
     """'hf_l-xiii_enc_15051891_rerum-novarum' / '20150524-enciclica-laudato-si' /
     'vat-ii_const_19651118_dei-verbum' / 'rc_con_cfaith_doc_20000806_dominus-iesus' → incipit slug."""
     tail = re.sub(r"^.*?[_-](\d{8}|\d{4})[_-]", "", name) if re.search(r"[_-](\d{8}|\d{4})[_-]", name) else name
     words = [w for w in re.split(r"[-_]+", tail.lower()) if w]
-    while words and words[0] in TYPE_WORDS:
+    while words and words[0] in FILE_TYPE_WORDS:
         words.pop(0)
     return "-".join(words)
+
+
+# A stronger status from any source wins: include > review > exclude.
+RANK = {"include": 2, "review": 1, "exclude": 0}
+
+
+def first_word(title: str) -> str:
+    return incipit_key(re.sub(r"\s*\(.*$", "", title)).split(" ")[0]
 
 
 class Inventory:
     def __init__(self) -> None:
         self.docs: dict[tuple[str, str], dict] = {}
+        # Indexes of the distinct records for fuzzy(), keyed by id() so a record counts once.
+        self.by_author_date: dict[tuple[str, str], dict[int, dict]] = {}
+        self.by_date: dict[str, dict[int, dict]] = {}
+        self.by_first_word: dict[tuple[str, str], dict[int, dict]] = {}
+
+    def index_date(self, d: dict) -> None:
+        if d["date"]:
+            self.by_author_date.setdefault((d["author"], d["date"]), {})[id(d)] = d
+            self.by_date.setdefault(d["date"], {})[id(d)] = d
 
     def fuzzy(self, author: str, incipit: str, date: str | None) -> dict | None:
         """Second-tier sources often spell an incipit longer or shorter than
         vatican.va ("Libertas" vs "Libertas Praestantissimum"): fall back to a
         unique match on the same date, then on the first incipit word."""
-        if not self.fuzzy_on:
-            return None
         if date and len(date) == 10:
             # Veritatis files Curia documents without naming the dicastery: match on date alone.
-            hits = {id(d): d for (a, _), d in self.docs.items()
-                    if (a == author or author == "curia-unknown") and d["date"] == date}
+            hits = self.by_date.get(date, {}) if author == "curia-unknown" else self.by_author_date.get((author, date), {})
             if len(hits) == 1:
                 return next(iter(hits.values()))
             first = incipit_key(incipit).split(" ")[0]
@@ -183,28 +181,29 @@ class Inventory:
         first = incipit_key(incipit).split(" ")[0]
         if len(first) < 4:
             return None
-        hits = {id(d): d for (a, _), d in self.docs.items()
-                if a == author and incipit_key(re.sub(r"\s*\(.*$", "", d["title"])).split(" ")[0] == first}
+        hits = self.by_first_word.get((author, first), {})
         return next(iter(hits.values())) if len(hits) == 1 else None
-
-    fuzzy_on = False
 
     def add(self, *, author: str, incipit: str, date: str | None, type_: str | None,
             title: str, lang: str | None, url: str | None, source: str,
-            status: str, reason: str = "", key: str | None = None, slug: str | None = None) -> dict:
+            status: str, reason: str = "", key: str | None = None, slug: str | None = None,
+            fuzzy: bool = False) -> dict:
+        """`fuzzy`: join a record whose incipit is spelled differently (second-tier sources)."""
         k = (author, key or incipit_key(incipit) or norm(title))
-        d = self.docs.get(k) or self.fuzzy(author, incipit, date)
+        d = self.docs.get(k) or (self.fuzzy(author, incipit, date) if fuzzy else None)
         if not d:
             d = self.docs[k] = {
                 "author": author, "date": date, "type": type_, "title": title,
                 "langs": {}, "sources": [], "status": status, "reason": reason,
             }
+            self.index_date(d)
+            self.by_first_word.setdefault((author, first_word(title)), {})[id(d)] = d
         else:
-            d["date"] = d["date"] or date
+            if not d["date"]:
+                d["date"] = date
+                self.index_date(d)
             d["type"] = d["type"] or type_
-            # A stronger status from any source wins: include > review > exclude.
-            rank = {"include": 2, "review": 1, "exclude": 0}
-            if rank[status] > rank[d["status"]]:
+            if RANK[status] > RANK[d["status"]]:
                 d["status"], d["reason"] = status, reason
         if slug and not d.get("slug"):
             d["slug"] = slug
@@ -309,28 +308,9 @@ def from_vatican_old(inv: Inventory) -> None:
                 key=f"{date}:{incipit_key(inc)}" if date else None, slug=inc.replace(" ", "-"))
 
 
-COUNCILS = [
-    ("nicaea-i", "First Council of Nicaea", "325"),
-    ("constantinople-i", "First Council of Constantinople", "381"),
-    ("ephesus", "Council of Ephesus", "431"),
-    ("chalcedon", "Council of Chalcedon", "451"),
-    ("constantinople-ii", "Second Council of Constantinople", "553"),
-    ("constantinople-iii", "Third Council of Constantinople", "680"),
-    ("nicaea-ii", "Second Council of Nicaea", "787"),
-    ("constantinople-iv", "Fourth Council of Constantinople", "869"),
-    ("lateran-i", "First Lateran Council", "1123"),
-    ("lateran-ii", "Second Lateran Council", "1139"),
-    ("lateran-iii", "Third Lateran Council", "1179"),
-    ("lateran-iv", "Fourth Lateran Council", "1215"),
-    ("lyon-i", "First Council of Lyon", "1245"),
-    ("lyon-ii", "Second Council of Lyon", "1274"),
-    ("vienne", "Council of Vienne", "1311"),
-    ("constance", "Council of Constance", "1414"),
-    ("florence", "Council of Basel-Ferrara-Florence", "1431"),
-    ("lateran-v", "Fifth Lateran Council", "1512"),
-    ("trent", "Council of Trent", "1545"),
-    ("vatican-i", "First Vatican Council", "1869"),
-]
+COUNCILS = [(cid, names[0], year) for cid, _, _, _, names, year in COUNCIL_TABLE]  # id, English name, year
+COUNCIL_NAME = {cid: name for cid, name, _ in COUNCILS}
+COUNCIL_YEAR = {cid: year for cid, _, year in COUNCILS}
 
 
 def council_of(title: str) -> str | None:
@@ -341,6 +321,12 @@ def council_of(title: str) -> str | None:
     if "trent" in t or "trento" in t or "tridentin" in t:
         return "trent"
     return None
+
+
+def add_council(inv: Inventory, cid: str, lang: str | None, url: str | None, source: str) -> dict:
+    """One record per council, gathering every source's acts."""
+    return inv.add(author=cid, incipit=cid, date=None, type_="council", title=COUNCIL_NAME[cid], lang=lang, url=url,
+                   source=source, status="include", key="acta", fuzzy=True)
 
 
 def from_papalencyclicals(inv: Inventory) -> None:
@@ -355,8 +341,7 @@ def from_papalencyclicals(inv: Inventory) -> None:
                 m = re.search(r"ecum(\d+)", url)
                 cid = COUNCILS[int(m.group(1)) - 1][0] if m and int(m.group(1)) <= 20 else None
             if cid:
-                inv.add(author=cid, incipit=cid, date=None, type_="council", title=dict((c[0], c[1]) for c in COUNCILS)[cid],
-                        lang="en", url=url, source="papalencyclicals.net", status="include", key="acta")
+                add_council(inv, cid, "en", url, "papalencyclicals.net")
             continue
         author = next((pope_id(c) for c in cats if pope_id(c)), None)
         # The site files some popes' documents under a neighbour's category (Regnans
@@ -380,7 +365,7 @@ def from_papalencyclicals(inv: Inventory) -> None:
             continue
         lang = "la" if re.search(r"(latin|-l)\.htm$", fn) else "en"
         inv.add(author=author, incipit=p["title"], date=None, type_=None, title=p["title"], lang=lang, url=url,
-                source="papalencyclicals.net", status="include")
+                source="papalencyclicals.net", status="include", fuzzy=True)
 
 
 VERITATIS_DOC_CATS = {
@@ -398,8 +383,7 @@ def from_veritatis(inv: Inventory) -> None:
         if cid == "vatican-ii" or "Vaticano II" in cats:
             continue  # vatican.va has all 16 in Portuguese already
         if cid:
-            inv.add(author=cid, incipit=cid, date=None, type_="council", title=dict((c[0], c[1]) for c in COUNCILS)[cid],
-                    lang="pt", url=p["url"], source="veritatis.com.br", status="include", key="acta")
+            add_council(inv, cid, "pt", p["url"], "veritatis.com.br")
             continue
         doc_cats = cats & VERITATIS_DOC_CATS.keys()
         if not doc_cats:
@@ -415,19 +399,9 @@ def from_veritatis(inv: Inventory) -> None:
             author = "curia-unknown" if typ == "curia" else "unattributed"
         inv.add(author=author, incipit=title, date=date, type_=typ, title=title, lang="pt", url=p["url"],
                 source="veritatis.com.br", status="include" if author != "unattributed" else "review",
-                reason="" if author != "unattributed" else "no author in title; check")
+                reason="" if author != "unattributed" else "no author in title; check", fuzzy=True)
 
 
-DCO_COUNCIL = {
-    "nicaenum i": "nicaea-i", "constantinopolitanum i": "constantinople-i", "ephesenum": "ephesus",
-    "chalcedonense": "chalcedon", "constantinopolitanum ii": "constantinople-ii",
-    "constantinopolitanum iii": "constantinople-iii", "nicaenum ii": "nicaea-ii",
-    "constantinopolitanum iv": "constantinople-iv", "lateranum i": "lateran-i", "lateranum ii": "lateran-ii",
-    "lateranum iii": "lateran-iii", "lateranum iiii": "lateran-iv", "lugdunense i": "lyon-i",
-    "lugdunense ii": "lyon-ii", "viennense": "vienne", "constantiense": "constance", "basiliense": "florence",
-    "lateranum v": "lateran-v", "tridentinum": "trent", "vaticanum i": "vatican-i", "vaticanum ii": "vatican-ii",
-}
-DCO_LANG = {"LT": "la", "MLT": "la", "GE": "de", "MGR": "grc", "GR": "grc", "SP": "es"}
 # Compilations, reference works and non-magisterial items DCO files under a pope.
 DCO_NOT_A_DOCUMENT = re.compile(
     r"(acta apostolicae sedis|acta sanctae sedis|pontificis maximi acta|bullrium|apocryph|\bvita\b|opera omnia|bullarium|liber pontificalis|"
@@ -499,13 +473,10 @@ def from_dco(inv: Inventory) -> None:
             for l in f["langs"]:
                 langs.setdefault(DCO_LANG.get(l, l.lower()), f["file_url"] or f["wrapper_url"])
         if d["issuer_kind"] == "council":
-            cname = norm(d["issuer"].replace("Concilium", ""))
-            cid = next((v for k, v in DCO_COUNCIL.items() if cname.startswith(k) and (len(cname) == len(k) or cname[len(k)] == " ")), None)
-            if not cid or cid == "vatican-ii":
-                continue
-            for lang, url in langs.items():
-                inv.add(author=cid, incipit=cid, date=None, type_="council", title=dict((c[0], c[1]) for c in COUNCILS)[cid],
-                        lang=lang, url=url, source="documentacatholicaomnia.eu", status="include", key="acta")
+            # None for Vatican II too: vatican.va has its documents one by one.
+            if cid := dco_council(d["issuer"]):
+                for lang, url in langs.items():
+                    add_council(inv, cid, lang, url, "documentacatholicaomnia.eu")
             continue
         author = pope_id(d["issuer"])
         if not author:
@@ -527,7 +498,7 @@ def from_dco(inv: Inventory) -> None:
         inc = dco_incipit(d["title"])
         for lang, url in (langs or {None: None}).items():
             inv.add(author=author, incipit=inc, date=date, type_=None, title=d["title"], lang=lang, url=url,
-                    source="documentacatholicaomnia.eu", status=status, reason=reason)
+                    source="documentacatholicaomnia.eu", status=status, reason=reason, fuzzy=True)
 
 
 FR_MONTHS = {m: i for i, m in enumerate("janvier fevrier mars avril mai juin juillet aout septembre octobre novembre decembre".split(), 1)}
@@ -564,14 +535,13 @@ def from_denzinger(inv: Inventory) -> None:
             n = re.sub(r"^(de |d |du )", "", n)
             cid = next((v for k, v in FR_COUNCIL.items() if n.startswith(k) and (len(n) == len(k) or n[len(k)] == " ")), None)
             if cid:
-                rec = inv.add(author=cid, incipit=cid, date=None, type_="council", title=dict((c[0], c[1]) for c in COUNCILS)[cid],
-                              lang=None, url=None, source="denzinger", status="include", key="acta")
+                rec = add_council(inv, cid, None, None, "denzinger")
             else:
                 # Local synods Denzinger cites (Orange II, Toledo, Carthage…): their canons were
                 # received as teaching, so they stand beside the ecumenical councils.
                 rec = inv.add(author="synod-" + re.sub(r"\W+", "-", n).strip("-"), incipit=n, date=date, type_="synod",
                               title=d["heading"], lang=None, url=None, source="denzinger", status="include",
-                              reason="local synod cited in Denzinger; needs a source")
+                              reason="local synod cited in Denzinger; needs a source", fuzzy=True)
         else:
             if iss["kind"] == "curia":
                 author = {"Holy Office": "holy-office", "Pontifical Biblical Commission": "cdf-pcb"}.get(iss["name"], "curia-" + re.sub(r"\W+", "-", norm(iss["name"])))
@@ -581,7 +551,7 @@ def from_denzinger(inv: Inventory) -> None:
                 author = "early-church"
             rec = inv.add(author=author, incipit=d["incipit"] or d["heading"], date=date, type_=d["type"], title=d["heading"],
                           lang=None, url=None, source="denzinger", status="include",
-                          reason="cited in Denzinger; no full text located yet")
+                          reason="cited in Denzinger; no full text located yet", fuzzy=True)
         rec.setdefault("ds", [])
         if ds and ds not in rec["ds"]:
             rec["ds"].append(ds)
@@ -599,7 +569,6 @@ def main() -> None:
         reindexed.setdefault((author, incipit_key(re.sub(r"\s*\(.*$", "", d["title"])) or norm(d["title"])), d)
         reindexed.setdefault((author, f"{d['date']}:{incipit_key(d['title'])}"), d)
     inv.docs = {**inv.docs, **{k: v for k, v in reindexed.items() if k not in inv.docs}}
-    inv.fuzzy_on = True
     from_papalencyclicals(inv)
     from_veritatis(inv)
     from_dco(inv)
@@ -613,19 +582,26 @@ def main() -> None:
         docs.append(d)
     # The CDF index also lists commentaries on its documents, filed under the
     # document's slug plus the commentator ("dominus-iesus-amato").
-    slugs = {(d["author"], d.get("slug")) for d in docs if d.get("slug")}
+    slugs_by_author: dict[str, list[str]] = {}
+    # Longest slug first, so a commentary names its nearest parent and the result
+    # doesn't depend on set order.
+    for a, p in sorted({(d["author"], d.get("slug")) for d in docs if d.get("slug")}, key=lambda ap: (-len(ap[1]), ap)):
+        slugs_by_author.setdefault(a, []).append(p)
     for d in docs:
+        if d["status"] != "include" or not d["author"].startswith("cdf"):
+            continue
         sl = d.get("slug") or ""
-        parent = next((p for a, p in slugs if a == d["author"] and p and sl.startswith(p + "-") and len(p) > 6), None)
-        if parent and d["status"] == "include" and d["author"].startswith("cdf"):
+        parent = next((p for p in slugs_by_author.get(d["author"], []) if sl.startswith(p + "-") and len(p) > 6), None)
+        if parent:
             d["status"], d["reason"] = "review", f"commentary on {parent}"
+    authors = {d["author"] for d in docs}
     for c, name, year in COUNCILS:
-        if not any(d["author"] == c for d in docs):
+        if c not in authors:
             docs.append({"author": c, "date": year, "type": "council", "title": name, "langs": {}, "sources": [],
                          "status": "include", "reason": "no scraped source yet"})
     for d in docs:
         if d["type"] == "council" and d["author"] != "vatican-ii":
-            d["date"] = d["date"] or dict((c[0], c[2]) for c in COUNCILS)[d["author"]]
+            d["date"] = d["date"] or COUNCIL_YEAR[d["author"]]
     docs.sort(key=lambda d: (d["date"] or "9999", d["author"], d["title"]))
     (HERE / "inventory.json").write_text(json.dumps(docs, ensure_ascii=False, indent=1))
     with open(HERE / "inventory.csv", "w", newline="") as f:

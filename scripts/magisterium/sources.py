@@ -15,6 +15,8 @@ import threading
 import time
 import urllib.error
 import urllib.request
+from collections.abc import Iterator
+from contextlib import contextmanager
 from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -84,6 +86,15 @@ def fetch(url: str) -> bytes:
     return data
 
 
+@contextmanager
+def temp_file(data: bytes, suffix: str) -> Iterator[str]:
+    """`data` in a named file for the command-line tools (pdftotext, olefile)."""
+    with tempfile.NamedTemporaryFile(suffix=suffix) as tmp:
+        tmp.write(data)
+        tmp.flush()
+        yield tmp.name
+
+
 def decode(data: bytes) -> str:
     # The /content/ CMS and WordPress sites are UTF-8; vatican.va's archive is Latin-1.
     try:
@@ -94,9 +105,36 @@ def decode(data: bytes) -> str:
 
 # ---------------------------------------------------------------- Markdown
 
-NOTE_ANCHOR = re.compile(r"^_?(?:ftn|edn|sdfootnote|sdendnote|footnote|endnote|fn|nota?)(\d+)(?:sym)?$", re.I)
-NOTE_REF = re.compile(r"#_?(?:ftn|edn|sdfootnote|sdendnote|footnote|endnote|fn|nota?)(\d+)(?:sym)?$", re.I)
+NOTE_NAME = r"_?(?:ftn|edn|sdfootnote|sdendnote|footnote|endnote|fn|nota?)(\d+)(?:sym)?$"
+NOTE_ANCHOR = re.compile("^" + NOTE_NAME, re.I)
+NOTE_REF = re.compile("#" + NOTE_NAME, re.I)
 NOTE_LABEL = re.compile(r"^\s*\\?[\[(]?\s*\d+\s*\\?[\])]?\.?\s*")
+# A paragraph of its own between notes converted in one pandoc run.
+NOTE_BREAK = "EMBERNOTEBREAK"
+_TAGS = BeautifulSoup("", "html.parser")  # makes the <div>s that replace table cells
+
+
+def unwrap_tables(root: Tag) -> None:
+    """Older vatican.va pages lay the whole document out in tables, and pandoc
+    replaces any table it can't draw in Markdown with "[TABLE]", text and all.
+    Each cell becomes a block of its own, in reading order."""
+    for table in reversed(root.find_all("table")):
+        blocks = []
+        for cell in table.find_all(["td", "th"]):
+            if cell.find(["td", "th"]):
+                continue  # a cell holding a nested table: its inner cells carry the text
+            div = _TAGS.new_tag("div")
+            div.extend(list(cell.contents))
+            blocks.append(div)
+        table.replace_with(*blocks) if blocks else table.decompose()
+
+
+def unwrap_tables_html(html: str) -> str:
+    if "<table" not in html.lower():
+        return html
+    soup = BeautifulSoup(html, "html.parser")
+    unwrap_tables(soup)
+    return str(soup)
 
 
 def pandoc(html: str) -> str:
@@ -106,6 +144,7 @@ def pandoc(html: str) -> str:
     html = re.sub(r"<(b|i|em|strong)\b([^>]*)>(.*?)</\1>",
                   lambda m: f"<{m.group(1)}{m.group(2)}>{re.sub(r'<br\s*/?>', ' ', m.group(3), flags=re.I)}</{m.group(1)}>",
                   html, flags=re.I | re.S)
+    html = unwrap_tables_html(html)
     out = subprocess.run(
         ["pandoc", "-f", "html", "-t", "gfm-raw_html", "--wrap=none"],
         input=html, capture_output=True, text=True, check=True,
@@ -122,7 +161,7 @@ def footnotes_to_markers(root: Tag) -> dict[int, str]:
     with `<a href="#_ftnref3" name="_ftn3">` at the note; LibreOffice exports
     use sdfootnote3anc / sdfootnote3sym. A page without such links keeps its
     notes as plain text at the end, as published."""
-    notes: dict[int, str] = {}
+    held: list[tuple[int, str]] = []
     # A note's own anchor is named _ftn3 / sdfootnote3sym; its back-link (_ftnref3,
     # sdfootnote3anc) never matches the pattern, so name and href tell them apart.
     for a in list(root.find_all("a", attrs={"name": NOTE_ANCHOR})) + list(root.find_all("a", attrs={"id": NOTE_ANCHOR})):
@@ -133,10 +172,13 @@ def footnotes_to_markers(root: Tag) -> dict[int, str]:
         if holder is root:
             holder = a.parent
         a.decompose()
-        body = NOTE_LABEL.sub("", pandoc(str(holder)).strip(), count=1).strip()
+        held.append((n, str(holder)))
+        holder.decompose()
+    notes: dict[int, str] = {}
+    for (n, _), md in zip(held, notes_to_markdown([html for _, html in held]), strict=True):
+        body = NOTE_LABEL.sub("", md.strip(), count=1).strip()
         if n not in notes and body:
             notes[n] = body
-        holder.decompose()
     for a in list(root.find_all("a", href=NOTE_REF)):
         if a.parent is None:
             continue
@@ -146,7 +188,18 @@ def footnotes_to_markers(root: Tag) -> dict[int, str]:
     return notes
 
 
+def notes_to_markdown(holders: list[str]) -> list[str]:
+    """Each note's HTML as Markdown, in one pandoc run for the whole page."""
+    if not holders:
+        return []
+    out = re.split(rf"^{NOTE_BREAK}$", pandoc(f"<p>{NOTE_BREAK}</p>".join(holders)), flags=re.M)
+    if len(out) != len(holders):  # a note whose own text is the marker: convert one by one
+        return [pandoc(h) for h in holders]
+    return out
+
+
 def to_markdown(root: Tag, title: str, notes: dict[int, str] | None = None) -> str:
+    unwrap_tables(root)
     body = pandoc(str(root))
     body = re.sub(r"\\?⟦(\d+)\\?⟧", r"[^\1]", body)
     body = re.sub(r"\n{3,}", "\n\n", body).strip()
@@ -163,7 +216,8 @@ def to_markdown(root: Tag, title: str, notes: dict[int, str] | None = None) -> s
 
 
 def md_escape_inline(s: str) -> str:
-    return re.sub(r"([\\`*_\[\]])", r"\\\1", s.strip())
+    # "<" too: critical editions mark conjectures as <clerum>, which Markdown reads as a tag.
+    return re.sub(r"([\\`*_\[\]<])", r"\\\1", s.strip())
 
 
 def md_escape_paragraph(s: str) -> str:
@@ -181,6 +235,22 @@ def clean_title(t: str) -> str:
 
 # ---------------------------------------------------------------- extractors
 
+COPYRIGHT = re.compile(r"\s*(©|Copyright).*", re.S)
+
+
+def is_copyright(txt: str) -> bool:
+    """The publisher's copyright line ("© Copyright - Libreria Editrice Vaticana")."""
+    return bool(COPYRIGHT.fullmatch(txt)) and len(txt) < 200
+
+
+def finish(root: Tag, title: str, url: str) -> Extract:
+    """The page's text, cleared of chrome, as Markdown with its footnotes."""
+    notes = footnotes_to_markers(root)
+    if len(root.get_text(strip=True)) < 80:
+        raise NoText(f"empty page: {url}")
+    return Extract(title, to_markdown(root, title, notes))
+
+
 def vatican_content(url: str) -> Extract:
     """vatican.va /content/ CMS pages (popes, Leo XIII → today, and the older-popes section)."""
     soup = BeautifulSoup(decode(fetch(url)), "html.parser")
@@ -191,17 +261,15 @@ def vatican_content(url: str) -> Extract:
         for t in root.select(sel):
             t.decompose()
     for p in root.find_all(["p", "div"]):
-        if re.fullmatch(r"\s*Copyright\s*©.*", p.get_text(" ", strip=True) or "", re.S) and len(p.get_text()) < 120:
+        if is_copyright(p.get_text(" ", strip=True)):
             p.decompose()
     title = clean_title(soup.title.get_text() if soup.title else "")
-    notes = footnotes_to_markers(root)
-    if len(root.get_text(strip=True)) < 80:
-        # Chinese and some other translations are published only as a PDF linked from the page.
-        pdf = soup.find("a", href=re.compile(r"/content/dam/.*\.pdf$"))
-        if pdf:
-            return pdf_text(urljoin(url, pdf["href"]), title)
-        raise NoText(f"empty page: {url}")
-    return Extract(title, to_markdown(root, title, notes))
+    # Chinese and some other translations are published as a PDF linked from a page
+    # that carries only a title or a short introduction.
+    pdf = soup.find("a", href=re.compile(r"/content/dam/.*\.pdf$"))
+    if pdf and len(root.get_text(strip=True)) < 1500:
+        return pdf_text(urljoin(url, pdf["href"]), title)
+    return finish(root, title, url)
 
 
 def vatican_archive(url: str) -> Extract:
@@ -212,24 +280,19 @@ def vatican_archive(url: str) -> Extract:
         raise NoText(f"no body: {url}")
     for t in root.find_all(["script", "style", "img", "form"]):
         t.decompose()
-    # The language bar: a run of two-letter links at the top, wrapped in [ … ].
     for el in root.find_all(["p", "div", "font", "td", "span"]):
+        if el.parent is None:
+            continue  # inside an element already dropped
         txt = el.get_text(" ", strip=True)
+        # The language bar: a run of two-letter links at the top, wrapped in [ … ].
         if re.fullmatch(r"\[?\s*([A-Z]{2,3}(\s*-\s*|\s+))*[A-Z]{2,3}\s*\]?", txt or "x") and el.find("a"):
             el.decompose()
-    for el in root.find_all(["p", "div", "font"]):
-        txt = el.get_text(" ", strip=True)
-        if re.match(r"^(Copyright|©)", txt) and len(txt) < 200:
-            el.decompose()
-        elif txt in ("top", "Top", "Inizio", "TOP"):
+        elif el.name in ("p", "div", "font") and (is_copyright(txt) or txt in ("top", "Top", "Inizio", "TOP")):
             el.decompose()
     for a in root.find_all("a", attrs={"name": "top"}):
         a.decompose()
     title = clean_title(soup.title.get_text() if soup.title else "")
-    notes = footnotes_to_markers(root)
-    if len(root.get_text(strip=True)) < 80:
-        raise NoText(f"empty page: {url}")
-    return Extract(title, to_markdown(root, title, notes))
+    return finish(root, title, url)
 
 
 def wordpress(url: str) -> Extract:
@@ -264,13 +327,19 @@ def wordpress(url: str) -> Extract:
     h = soup.select_one("h1.entry-title") or soup.find("h1")
     title = clean_title(h.get_text(" ", strip=True) if h else (soup.title.get_text() if soup.title else ""))
     title = title.strip("“”\" ")
-    notes = footnotes_to_markers(root)
-    if len(root.get_text(strip=True)) < 80:
-        raise NoText(f"empty page: {url}")
-    return Extract(title, to_markdown(root, title, notes))
+    return finish(root, title, url)
 
 
 DCO_HEADER = re.compile(r"^\s*\d{4}(-\d{2}){0,2}\s*[-–,]")
+
+
+def drop_dco_label(paras: list[str]) -> list[str]:
+    """DCO opens each file with its own catalogue label ("1899-09-18- SS Leo XIII - Paternae").
+    A PDF without blank lines comes out as one paragraph that begins with the label;
+    that paragraph is the text, so only a short, label-only paragraph goes."""
+    if paras and DCO_HEADER.match(paras[0]) and len(paras[0]) < 200:
+        return paras[1:]
+    return paras
 
 
 def dco_doc(url: str, title: str) -> Extract:
@@ -279,54 +348,42 @@ def dco_doc(url: str, title: str) -> Extract:
     data = fetch(url)
     if data[:8] != b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1":
         raise NoText(f"not an OLE .doc: {url}")
-    with tempfile.NamedTemporaryFile(suffix=".doc") as tmp:
-        tmp.write(data)
-        tmp.flush()
-        paragraphs, notes = read_doc(tmp.name)
+    with temp_file(data, ".doc") as path:
+        paragraphs, notes = read_doc(path)
     paras = [p for p in paragraphs if p.strip()]
-    # DCO opens each file with its own catalogue label ("1899-09-18- SS Leo XIII - Paternae").
-    if paras and DCO_HEADER.match(paras[0]):
-        paras = paras[1:]
+    paras = drop_dco_label(paras)
     if sum(len(p) for p in paras) < 80:
         raise NoText(f"empty .doc: {url}")
-    body = []
-    for p in paras:
-        p = md_escape_paragraph(p.replace("\t", " "))
-        p = re.sub(r"\x00(\d+)\x00", r"[^\1]", p)
-        p = p.replace("\n", "  \n")
-        body.append(p)
-    md = [f"# {md_escape_inline(title)}", "\n\n".join(body)]
+    return Extract(title, paras_to_markdown(title, [p.replace("\t", " ") for p in paras], notes))
+
+
+def paras_to_markdown(title: str, paras: list[str], notes: list[str] | None = None) -> str:
+    """Plain-text paragraphs as Markdown. A footnote reference is \\x00N\\x00 in the
+    text (worddoc's marker), and `notes` the footnotes' texts, from 1."""
+    md = [f"# {md_escape_inline(title)}"]
+    md += [re.sub(r"\x00(\d+)\x00", r"[^\1]", md_escape_paragraph(p)).replace("\n", "  \n") for p in paras]
     if notes:
         md.append("\n\n".join(f"[^{i}]: {md_escape_inline(n)}" for i, n in enumerate(notes, 1)))
-    return Extract(title, "\n\n".join(md).strip() + "\n")
+    return "\n\n".join(md).strip() + "\n"
 
 
 CJK = re.compile(r"[\u3000-\u30ff\u3400-\u9fff\uff00-\uffef]")
 
 
-def pdf_text(url: str, title: str) -> Extract:
-    data = fetch(url)
-    with tempfile.NamedTemporaryFile(suffix=".pdf") as tmp:
-        tmp.write(data)
-        tmp.flush()
-        try:
-            pages = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", tmp.name], capture_output=True, text=True).stdout).group(1))
-        except Exception:
-            raise NoText(f"unreadable pdf: {url}")
-        text = subprocess.run(["pdftotext", "-enc", "UTF-8", tmp.name, "-"], capture_output=True, text=True).stdout
+def pdftotext(path: str) -> str:
+    text = subprocess.run(["pdftotext", "-enc", "UTF-8", path, "-"], capture_output=True, text=True).stdout
     text = text.replace("\x0c", "\n\n")
-    text = re.sub(r"[\u200e\u200f\u202a-\u202e\u2066-\u2069]", "", text)  # bidi controls from RTL PDFs
-    chars = len(re.sub(r"\s", "", text))
-    # A scan has no text layer, or one so thin it's just page furniture.
-    if chars < 300 or chars < 150 * max(pages, 1):
-        raise NoText(f"scan-only pdf ({chars} characters / {pages} pages): {url}")
+    return re.sub(r"[\u200e\u200f\u202a-\u202e\u2066-\u2069]", "", text)  # bidi controls from RTL PDFs
+
+
+def text_paragraphs(text: str) -> list[str]:
+    """pdftotext's lines joined into paragraphs, with hyphenated words rejoined."""
     paras = []
     for block in re.split(r"\n\s*\n", text):
-        lines = [l.strip() for l in block.splitlines() if l.strip()]
-        if not lines:
-            continue
         joined = ""
-        for l in lines:
+        for l in (l.strip() for l in block.splitlines()):
+            if not l:
+                continue
             if joined.endswith("-"):
                 joined = joined[:-1] + l
             elif joined and (CJK.match(joined[-1]) or CJK.match(l[0])):
@@ -334,12 +391,31 @@ def pdf_text(url: str, title: str) -> Extract:
             else:
                 joined = joined + " " + l if joined else l
         # Margin line numbers and stray letters from the printed page, not text.
-        if re.fullmatch(r"\W*(\d{1,4}|[A-Za-z])\W*", joined):
-            continue
-        paras.append(md_escape_paragraph(joined))
-    if paras and DCO_HEADER.match(paras[0]):
-        paras = paras[1:]
-    return Extract(title, f"# {md_escape_inline(title)}\n\n" + "\n\n".join(paras) + "\n")
+        if joined and not re.fullmatch(r"\W*(\d{1,4}|[A-Za-z])\W*", joined):
+            paras.append(joined)
+    return paras
+
+
+def pdf_paragraphs(data: bytes) -> list[str]:
+    with temp_file(data, ".pdf") as path:
+        return text_paragraphs(pdftotext(path))
+
+
+def pdf_text(url: str, title: str) -> Extract:
+    with temp_file(fetch(url), ".pdf") as path:
+        try:
+            pages = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", path], capture_output=True, text=True).stdout).group(1))
+        except Exception:
+            raise NoText(f"unreadable pdf: {url}")
+        text = pdftotext(path)
+    chars = len(re.sub(r"\s", "", text))
+    # A scan has no text layer, or one so thin it's just page furniture.
+    if chars < 300 or chars < 150 * max(pages, 1):
+        raise NoText(f"scan-only pdf ({chars} characters / {pages} pages): {url}")
+    paras = drop_dco_label(text_paragraphs(text))
+    if sum(len(p) for p in paras) < 80:
+        raise NoText(f"no text after the catalogue label: {url}")
+    return Extract(title, paras_to_markdown(title, paras))
 
 
 SCRIPTS = {
@@ -362,7 +438,15 @@ def check_script(lang: str, ex: Extract) -> None:
         raise NoText(f"labelled {lang} but not written in its script")
 
 
-def extract(url: str, fallback_title: str) -> Extract:
+def extract(url: str, fallback_title: str, lang: str | None = None) -> Extract:
+    """The document at `url`; with `lang`, also checked to be written in that language's script."""
+    ex = _extract(url, fallback_title)
+    if lang:
+        check_script(lang, ex)
+    return ex
+
+
+def _extract(url: str, fallback_title: str) -> Extract:
     host = urlparse(url).netloc
     path = urlparse(url).path
     if path.lower().endswith(".pdf"):

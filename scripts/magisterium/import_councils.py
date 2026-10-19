@@ -15,46 +15,24 @@ from __future__ import annotations
 import json
 import re
 import sys
+from functools import cache
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from import_documents import BOOKS, lang_dir, language_order  # noqa: E402
-from sources import NoText, check_script, extract  # noqa: E402
+from import_documents import BOOKS, lang_dir, language_order, load_status, save_status  # noqa: E402
+from names import COUNCILS, DCO_LANG, dco_council  # noqa: E402
+from sources import NoText, extract  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 SURVEY = ROOT / "research" / "magisterium"
 # Separate from import-status.json, which a running document import rewrites from memory.
 STATUS = SURVEY / "council-status.json"
 
-# id, Tanner page, DCO council name, Veritatis category stem, en/pt/la names, opening year
-COUNCILS = [
-    ("nicaea-i", "ecum01", "Nicaenum I", "Niceia I", ("First Council of Nicaea", "Primeiro Concílio de Niceia", "Concilium Nicaenum I"), "325"),
-    ("constantinople-i", "ecum02", "Constantinopolitanum I", "Constantinopla I", ("First Council of Constantinople", "Primeiro Concílio de Constantinopla", "Concilium Constantinopolitanum I"), "381"),
-    ("ephesus", "ecum03", "Ephesenum", None, ("Council of Ephesus", "Concílio de Éfeso", "Concilium Ephesenum"), "431"),
-    ("chalcedon", "ecum04", "Chalcedonense", None, ("Council of Chalcedon", "Concílio de Calcedônia", "Concilium Chalcedonense"), "451"),
-    ("constantinople-ii", "ecum05", "Constantinopolitanum II", None, ("Second Council of Constantinople", "Segundo Concílio de Constantinopla", "Concilium Constantinopolitanum II"), "553"),
-    ("constantinople-iii", "ecum06", "Constantinopolitanum III", None, ("Third Council of Constantinople", "Terceiro Concílio de Constantinopla", "Concilium Constantinopolitanum III"), "680"),
-    ("nicaea-ii", "ecum07", "Nicaenum II", None, ("Second Council of Nicaea", "Segundo Concílio de Niceia", "Concilium Nicaenum II"), "787"),
-    ("constantinople-iv", "ecum08", "Constantinopolitanum IV", None, ("Fourth Council of Constantinople", "Quarto Concílio de Constantinopla", "Concilium Constantinopolitanum IV"), "869"),
-    ("lateran-i", "ecum09", "Lateranum I", None, ("First Lateran Council", "Primeiro Concílio de Latrão", "Concilium Lateranense I"), "1123"),
-    ("lateran-ii", "ecum10", "Lateranum II", None, ("Second Lateran Council", "Segundo Concílio de Latrão", "Concilium Lateranense II"), "1139"),
-    ("lateran-iii", "ecum11", "Lateranum III", None, ("Third Lateran Council", "Terceiro Concílio de Latrão", "Concilium Lateranense III"), "1179"),
-    ("lateran-iv", "ecum12-2", "Lateranum IIII", None, ("Fourth Lateran Council", "Quarto Concílio de Latrão", "Concilium Lateranense IV"), "1215"),
-    ("lyon-i", "ecum13", "Lugdunense I", None, ("First Council of Lyon", "Primeiro Concílio de Lyon", "Concilium Lugdunense I"), "1245"),
-    ("lyon-ii", "ecum14", "Lugdunense II", None, ("Second Council of Lyon", "Segundo Concílio de Lyon", "Concilium Lugdunense II"), "1274"),
-    ("vienne", "ecum15", "Viennense", None, ("Council of Vienne", "Concílio de Vienne", "Concilium Viennense"), "1311"),
-    ("constance", "ecum16", "Constantiense", None, ("Council of Constance", "Concílio de Constança", "Concilium Constantiense"), "1414"),
-    ("florence", "ecum17", "Basiliense", None, ("Council of Basel-Ferrara-Florence", "Concílio de Basileia-Ferrara-Florença", "Concilium Basiliense-Ferrariense-Florentinum"), "1431"),
-    ("lateran-v", "ecum18", "Lateranum V", None, ("Fifth Lateran Council", "Quinto Concílio de Latrão", "Concilium Lateranense V"), "1512"),
-    ("trent", "trent", "Tridentinum", "Trento", ("Council of Trent", "Concílio de Trento", "Concilium Tridentinum"), "1545"),
-    ("vatican-i", "ecum20", "Vaticanum I", "Vaticano I", ("First Vatican Council", "Concílio Vaticano I", "Concilium Vaticanum I"), "1869"),
-]
 TRENT_ORDER = [
     "ctbull", "firstsession", "second", "third", "fourth", "fifth", "sixth", "seventh", "eighth", "ninth", "tenth",
     "eleventh", "twelfth", "thirteenth", "fourteenth", "fifteenth", "sixteenth", "seventeenth", "eighteenth",
     "nineteenth", "twentieth", "twenty-first", "twenty-second", "twenty-third", "twenty-fourth", "twenty-fifth",
 ]
-DCO_LANG = {"LT": "la", "MLT": "la", "GR": "grc", "MGR": "grc", "GE": "de", "SP": "es"}
 # DCO's English is the NPNF commentary edition, not Tanner's text of the decrees; Tanner wins.
 DCO_SKIP_LANGS = {"en"}
 # Vatican I's Latin is on vatican.va; DCO has only commentary for it.
@@ -64,15 +42,26 @@ EXTRA = {"vatican-i": [
 ]}
 
 
-def norm(s: str) -> str:
-    return re.sub(r"\s+", " ", s.lower()).strip()
+@cache
+def survey(name: str):
+    return json.loads((SURVEY / name).read_text())
+
+
+@cache
+def dco_council_docs() -> dict[str, list[dict]]:
+    """DCO's documents of each council, by council id."""
+    out: dict[str, list[dict]] = {}
+    for d in survey("dco.json")["docs"]:
+        if d["issuer_kind"] == "council" and (cid := dco_council(d["issuer"])):
+            out.setdefault(cid, []).append(d)
+    return out
 
 
 def pieces(council: tuple) -> dict[str, list[tuple[str, str]]]:
     """lang → [(fallback title, url)] in reading order."""
-    cid, tanner, dco_name, ver_name, _, _ = council
+    cid, tanner, _, ver_name, _, _ = council
     out: dict[str, list[tuple[str, str]]] = {}
-    pe = json.loads((SURVEY / "papalencyclicals.json").read_text())
+    pe = survey("papalencyclicals.json")
     if cid == "trent":
         posts = {p["url"].rstrip("/").rsplit("/", 1)[-1].removesuffix(".htm"): p for p in pe if "/councils/trent/" in p["url"]}
         for key in TRENT_ORDER:
@@ -84,15 +73,7 @@ def pieces(council: tuple) -> dict[str, list[tuple[str, str]]]:
         if hit:
             out.setdefault("en", []).append((hit["title"], hit["url"]))
 
-    dco = json.loads((SURVEY / "dco.json").read_text())["docs"]
-    for d in dco:
-        if d["issuer_kind"] != "council":
-            continue
-        issuer = norm(d["issuer"].replace("Concilium", ""))
-        # Exact name: "Constantinopolitanum I" must not take the files of II–IV.
-        # Basel's issuer carries its later sessions' cities in parentheses.
-        if issuer != norm(dco_name) and not (dco_name == "Basiliense" and issuer.startswith("basiliense")):
-            continue
+    for d in dco_council_docs().get(cid, []):
         # One file per document and language: DCO often has the same text as .doc and
         # .pdf (the .doc reads cleaner), and a file tagged with several languages is
         # filed under the first, since one text cannot be two editions.
@@ -108,7 +89,7 @@ def pieces(council: tuple) -> dict[str, list[tuple[str, str]]]:
                 out.setdefault(lang, []).append((d["title"], url))
 
     if ver_name:
-        ver = json.loads((SURVEY / "veritatis.json").read_text())
+        ver = survey("veritatis.json")
         # "Vaticano I" must not match "Vaticano II".
         posts = [p for p in ver if any(c.startswith("Concílio") and re.search(rf"\b{re.escape(ver_name)}\b(?!I)", c)
                                        for c in p["categories"])]
@@ -134,8 +115,7 @@ def import_council(council: tuple, status: dict) -> None:
         n = 0
         for fallback, url in items:
             try:
-                ex = extract(url, fallback)
-                check_script(code, ex)
+                ex = extract(url, fallback, code)
             except NoText as e:
                 skipped[url] = str(e)
                 continue
@@ -179,12 +159,12 @@ def import_council(council: tuple, status: dict) -> None:
 
 def main() -> None:
     only = set(sys.argv[1:])
-    status = json.loads(STATUS.read_text()) if STATUS.exists() else {}
+    status = load_status(STATUS)
     for council in COUNCILS:
         if only and council[0] not in only:
             continue
         import_council(council, status)
-    STATUS.write_text(json.dumps(dict(sorted(status.items())), ensure_ascii=False, indent=1) + "\n")
+    save_status(STATUS, status)
 
 
 if __name__ == "__main__":

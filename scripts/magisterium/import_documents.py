@@ -21,27 +21,24 @@ import shutil
 import sys
 import threading
 import traceback
-import unicodedata
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from itertools import zip_longest
 from pathlib import Path
 from urllib.parse import urlparse
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from names import author_label, document_type, type_label  # noqa: E402
-from sources import NoText, check_script, extract  # noqa: E402
+from names import COUNCILS, ID_TYPE_WORDS, ascii_fold, author_label, document_type, type_label  # noqa: E402
+from sources import NoText, extract  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
 INVENTORY = ROOT / "research" / "magisterium" / "inventory.json"
 STATUS = ROOT / "research" / "magisterium" / "import-status.json"
 BOOKS = ROOT / "content" / "books" / "magisterium"
 
-COUNCIL_AUTHORS = {
-    "nicaea-i", "constantinople-i", "ephesus", "chalcedon", "constantinople-ii", "constantinople-iii",
-    "nicaea-ii", "constantinople-iv", "lateran-i", "lateran-ii", "lateran-iii", "lateran-iv", "lyon-i",
-    "lyon-ii", "vienne", "constance", "florence", "lateran-v", "trent", "vatican-i",
-}
+COUNCIL_AUTHORS = {c[0] for c in COUNCILS}
 # The app's two languages carry a region, as everywhere in the corpus; the rest stay bare ISO codes.
-LANG_DIR = {"en": "en-US", "pt": "pt-BR", "zh-cn": "zh-CN", "zh-tw": "zh-TW", "zh_cn": "zh-CN", "zh_tw": "zh-TW"}
+LANG_DIR = {"en": "en-US", "pt": "pt-BR", "zh-cn": "zh-CN", "zh-tw": "zh-TW"}
+CHAPTER = "text"
 
 
 def lang_dir(code: str) -> str:
@@ -49,19 +46,9 @@ def lang_dir(code: str) -> str:
 
 
 def slugify(s: str, max_words: int = 7) -> str:
-    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
-    s = re.sub(r"\(.*?\)", " ", s)
+    s = re.sub(r"\(.*?\)", " ", ascii_fold(s).lower())
     words = re.findall(r"[a-z0-9]+", s)
     return "-".join(words[:max_words]) or "document"
-
-
-# Leading genre words in a title or filename ("Enciclica Qui pluribus", "Epistola ad …").
-TYPE_WORDS = {
-    "enciclica", "encyclica", "encyclical", "encyclicae", "lettera", "apostolica", "apostolic", "letter", "letters",
-    "esortazione", "exhortation", "costituzione", "constitutio", "constitution", "motu", "proprio", "bolla", "bulla",
-    "bull", "breve", "brief", "epistola", "epistula", "allocuzione", "allocutio", "decreto", "decretum", "editto",
-    "litterae", "apostolicae", "dogmatica", "carta", "ap", "chirografo", "littera", "the", "a", "an",
-}
 
 
 def language_order(langs: list[str]) -> list[str]:
@@ -70,47 +57,54 @@ def language_order(langs: list[str]) -> list[str]:
     return head + sorted(l for l in langs if l not in head)
 
 
+def base_id(d: dict) -> str:
+    words = (d.get("slug") or slugify(d["title"], max_words=12)).split("-")
+    while len(words) > 1 and words[0] in ID_TYPE_WORDS:
+        words.pop(0)
+    return re.sub(r"-+", "-", f"{d['author']}-{'-'.join(words[:7])}")[:90].strip("-")
+
+
 def assign_ids(docs: list[dict]) -> None:
+    bases = [base_id(d) for d in docs]
     seen: dict[str, int] = {}
-    for d in docs:
-        slug = d.get("slug") or slugify(d["title"], max_words=12)
-        words = slug.split("-")
-        while len(words) > 1 and words[0] in TYPE_WORDS:
-            words.pop(0)
-        base = f"{d['author']}-{'-'.join(words[:7])}"
-        base = re.sub(r"-+", "-", base)[:90].strip("-")
-        d["_base"] = base
+    for base in bases:
         seen[base] = seen.get(base, 0) + 1
     used: set[str] = set()
-    for d in docs:
-        bid = d["_base"]
-        if seen[bid] > 1 and d["date"]:
-            bid = f"{bid}-{d['date'].replace('-', '')}"
+    for d, base in zip(docs, bases, strict=True):
+        bid = base
+        if seen[base] > 1 and d["date"]:
+            bid = f"{base}-{d['date'].replace('-', '')}"
         n = 2
         while bid in used:
-            bid, n = f"{d['_base']}-{n}", n + 1
+            bid, n = f"{base}-{n}", n + 1
         used.add(bid)
         d["id"] = bid
+
+
+def load_status(path: Path) -> dict:
+    return json.loads(path.read_text()) if path.exists() else {}
+
+
+def save_status(path: Path, status: dict) -> None:
+    path.write_text(json.dumps(dict(sorted(status.items())), ensure_ascii=False, indent=1) + "\n")
 
 
 status_lock = threading.Lock()
 
 
-def import_document(d: dict, status: dict) -> None:
+def import_document(d: dict, status: dict, reconvert: bool = False) -> None:
     bid = d["id"]
     book_dir = BOOKS / bid
-    chapter = "text"
     prev = status.get(bid, {})
     titles: dict[str, str] = dict(prev.get("titles", {}))
     imported: dict[str, str] = dict(prev.get("imported", {}))
     skipped: dict[str, str] = dict(prev.get("skipped", {}))
     for code, url in d["langs"].items():
         ld = lang_dir(code)
-        if ld in imported and (book_dir / ld / f"{chapter}.md").exists():
+        if ld in imported and (book_dir / ld / f"{CHAPTER}.md").exists() and not reconvert:
             continue
         try:
-            ex = extract(url, d["title"])
-            check_script(code, ex)
+            ex = extract(url, d["title"], code)
         except NoText as e:
             skipped[ld] = str(e)
             continue
@@ -119,44 +113,52 @@ def import_document(d: dict, status: dict) -> None:
             traceback.print_exc()
             continue
         (book_dir / ld).mkdir(parents=True, exist_ok=True)
-        (book_dir / ld / f"{chapter}.md").write_text(ex.markdown, encoding="utf-8")
+        (book_dir / ld / f"{CHAPTER}.md").write_text(ex.markdown, encoding="utf-8")
         titles[ld] = ex.title or d["title"]
         imported[ld] = url
         skipped.pop(ld, None)
     entry = {"author": d["author"], "date": d["date"], "imported": imported, "skipped": skipped, "titles": titles,
              "inventory_title": d["title"]}
     if imported:
-        write_book_json(d, bid, book_dir, chapter, titles, imported)
+        langs = language_order(list(imported))
+        sources = [{"language": l, "url": imported[l], "description": f"Text as published at {urlparse(imported[l]).netloc}."}
+                   for l in langs]
+        write_book_json(book_dir, book_meta(bid, d, {l: titles[l] for l in langs}, langs, sources))
     with status_lock:
         status[bid] = entry
 
 
-def write_book_json(d: dict, bid: str, book_dir: Path, chapter: str, titles: dict, imported: dict) -> None:
-    langs = language_order(list(imported))
+def book_meta(bid: str, d: dict, name: dict[str, str], langs: list[str], sources: list[dict]) -> dict:
+    """book.json of a single-chapter document; `d` is its inventory row."""
     kind = document_type(d.get("type"), d["title"])
     year = (d["date"] or "")[:4].lstrip("0") or None
-    name = {l: titles[l] for l in langs}
     author = author_label(d["author"])
-    description = {
-        "en-US": " · ".join(x for x in [type_label(kind, "en-US"), author["en-US"], d["date"] or ""] if x),
-        "pt-BR": " · ".join(x for x in [type_label(kind, "pt-BR"), author["pt-BR"], d["date"] or ""] if x),
-    }
-    meta = {
+    return {
         "id": bid,
         "cover": "quarter",
         "name": name,
         "author": author,
-        "description": description,
+        "description": {l: " · ".join(x for x in [type_label(kind, l), author[l], d["date"] or ""] if x)
+                        for l in ("en-US", "pt-BR")},
         **({"composed": year} if year else {}),
         "languages": langs,
         "tags": ["magisterium", kind, d["author"]],
-        "sources": [
-            {"language": l, "url": imported[l], "description": f"Text as published at {urlparse(imported[l]).netloc}."}
-            for l in langs
-        ],
-        "toc": [{"id": chapter, "title": name}],
+        "sources": sources,
+        "toc": [{"id": CHAPTER, "title": name}],
     }
+
+
+def write_book_json(book_dir: Path, meta: dict) -> None:
     (book_dir / "book.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def round_robin_by_host(docs: list[dict]) -> list[dict]:
+    """Interleave documents by the host of their first source, so the workers don't
+    all queue behind vatican.va's crawl delay while the other hosts sit idle."""
+    queues: dict[str, list[dict]] = {}
+    for d in docs:
+        queues.setdefault(urlparse(next(iter(d["langs"].values()))).netloc, []).append(d)
+    return [d for batch in zip_longest(*queues.values()) for d in batch if d is not None]
 
 
 def main() -> None:
@@ -165,6 +167,8 @@ def main() -> None:
     ap.add_argument("--only", nargs="*", help="book ids or inventory authors")
     ap.add_argument("--host", help="only fetch URLs on this host (others keep their previous state)")
     ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--reconvert", action="store_true",
+                    help="rebuild every chapter from the fetch cache (after a converter fix)")
     ap.add_argument("--prune", action="store_true",
                     help="delete books the current inventory no longer produces (after an inventory change)")
     args = ap.parse_args()
@@ -174,7 +178,12 @@ def main() -> None:
     assign_ids(docs)
     if args.prune:
         expected = {d["id"] for d in docs}
-        status = json.loads(STATUS.read_text()) if STATUS.exists() else {}
+        # Councils and Denzinger recoveries come from their own importers.
+        recovered = ROOT / "research" / "magisterium" / "denzinger-recovered.json"
+        if recovered.exists():
+            expected |= {r["book"] for r in json.loads(recovered.read_text()).values() if r.get("found")}
+        expected |= {p.name for p in BOOKS.glob("council-*")}
+        status = load_status(STATUS)
         for book_dir in sorted(BOOKS.iterdir()):
             if book_dir.is_dir() and book_dir.name not in expected:
                 shutil.rmtree(book_dir)
@@ -182,7 +191,7 @@ def main() -> None:
                 print(f"pruned {book_dir.name}")
         for bid in [b for b in status if b not in expected]:
             status.pop(bid)
-        STATUS.write_text(json.dumps(dict(sorted(status.items())), ensure_ascii=False, indent=1) + "\n")
+        save_status(STATUS, status)
         return
     if args.only:
         docs = [d for d in docs if d["id"] in args.only or d["author"] in args.only]
@@ -193,15 +202,15 @@ def main() -> None:
     if args.limit:
         docs = docs[: args.limit]
 
-    status = json.loads(STATUS.read_text()) if STATUS.exists() else {}
+    status = load_status(STATUS)
     done = 0
 
     def save() -> None:
         with status_lock:
-            STATUS.write_text(json.dumps(dict(sorted(status.items())), ensure_ascii=False, indent=1) + "\n")
+            save_status(STATUS, status)
 
     with ThreadPoolExecutor(args.workers) as ex:
-        futures = {ex.submit(import_document, d, status): d for d in docs}
+        futures = [ex.submit(import_document, d, status, args.reconvert) for d in round_robin_by_host(docs)]
         for f in as_completed(futures):
             f.result()
             done += 1

@@ -16,7 +16,7 @@ import struct
 import olefile
 
 
-def _pieces(doc: bytes, table: bytes, fc_clx: int, lcb_clx: int) -> list[tuple[int, int, int, bool]]:
+def _pieces(table: bytes, fc_clx: int, lcb_clx: int) -> list[tuple[int, int, int, bool]]:
     """(cp_start, cp_end, byte_offset, compressed) for each piece."""
     pos, end = fc_clx, fc_clx + lcb_clx
     while pos < end and table[pos] == 0x01:  # Prc: property modifiers, skip
@@ -82,15 +82,14 @@ def read_doc(path: str) -> tuple[list[str], list[str]]:
     ccp_text, ccp_ftn = lw[3], lw[4]
     fclcb = rglw + 2 + 4 * cslw + 2
     fc_clx, lcb_clx = struct.unpack_from("<II", doc, fclcb + 8 * 33)
-    pieces = _pieces(doc, table, fc_clx, lcb_clx)
+    pieces = _pieces(table, fc_clx, lcb_clx)
 
     counter = [0]
     body = _clean(_text(doc, pieces, 0, ccp_text), counter)
-    paragraphs = [p.strip() for p in body.split("\r")]
 
     notes: list[str] = []
     if ccp_ftn:
         ftn = _clean(_text(doc, pieces, ccp_text, ccp_text + ccp_ftn), None)
         # Each footnote ends with a paragraph mark; one may span several.
         notes = [n.strip() for n in ftn.split("\r") if n.strip()]
-    return [p for p in paragraphs], notes
+    return [p.strip() for p in body.split("\r")], notes

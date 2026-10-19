@@ -3,6 +3,13 @@ and document types, in English, Portuguese and Latin."""
 from __future__ import annotations
 
 import re
+import unicodedata
+
+
+def ascii_fold(s: str) -> str:
+    """Accents dropped: "Leão" → "Leao"."""
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
+
 
 # Canonical stem → (English, Portuguese, Latin) regnal name.
 POPE_NAMES = {
@@ -69,6 +76,66 @@ BODIES = {
     "family": ("Pontifical Council for the Family", "Pontifício Conselho para a Família", "Pontificium Consilium pro Familia"),
     "justice-peace": ("Pontifical Council for Justice and Peace", "Pontifício Conselho Justiça e Paz", "Pontificium Consilium de Iustitia et Pace"),
     "penitentiary": ("Apostolic Penitentiary", "Penitenciaria Apostólica", "Paenitentiaria Apostolica"),
+}
+
+# The ecumenical councils, Nicaea I to Vatican I: id, Tanner page on papalencyclicals.net,
+# DCO council name, Veritatis category stem, en/pt/la names, opening year.
+COUNCILS = [
+    ("nicaea-i", "ecum01", "Nicaenum I", "Niceia I", ("First Council of Nicaea", "Primeiro Concílio de Niceia", "Concilium Nicaenum I"), "325"),
+    ("constantinople-i", "ecum02", "Constantinopolitanum I", "Constantinopla I", ("First Council of Constantinople", "Primeiro Concílio de Constantinopla", "Concilium Constantinopolitanum I"), "381"),
+    ("ephesus", "ecum03", "Ephesenum", None, ("Council of Ephesus", "Concílio de Éfeso", "Concilium Ephesenum"), "431"),
+    ("chalcedon", "ecum04", "Chalcedonense", None, ("Council of Chalcedon", "Concílio de Calcedônia", "Concilium Chalcedonense"), "451"),
+    ("constantinople-ii", "ecum05", "Constantinopolitanum II", None, ("Second Council of Constantinople", "Segundo Concílio de Constantinopla", "Concilium Constantinopolitanum II"), "553"),
+    ("constantinople-iii", "ecum06", "Constantinopolitanum III", None, ("Third Council of Constantinople", "Terceiro Concílio de Constantinopla", "Concilium Constantinopolitanum III"), "680"),
+    ("nicaea-ii", "ecum07", "Nicaenum II", None, ("Second Council of Nicaea", "Segundo Concílio de Niceia", "Concilium Nicaenum II"), "787"),
+    ("constantinople-iv", "ecum08", "Constantinopolitanum IV", None, ("Fourth Council of Constantinople", "Quarto Concílio de Constantinopla", "Concilium Constantinopolitanum IV"), "869"),
+    ("lateran-i", "ecum09", "Lateranum I", None, ("First Lateran Council", "Primeiro Concílio de Latrão", "Concilium Lateranense I"), "1123"),
+    ("lateran-ii", "ecum10", "Lateranum II", None, ("Second Lateran Council", "Segundo Concílio de Latrão", "Concilium Lateranense II"), "1139"),
+    ("lateran-iii", "ecum11", "Lateranum III", None, ("Third Lateran Council", "Terceiro Concílio de Latrão", "Concilium Lateranense III"), "1179"),
+    ("lateran-iv", "ecum12-2", "Lateranum IIII", None, ("Fourth Lateran Council", "Quarto Concílio de Latrão", "Concilium Lateranense IV"), "1215"),
+    ("lyon-i", "ecum13", "Lugdunense I", None, ("First Council of Lyon", "Primeiro Concílio de Lyon", "Concilium Lugdunense I"), "1245"),
+    ("lyon-ii", "ecum14", "Lugdunense II", None, ("Second Council of Lyon", "Segundo Concílio de Lyon", "Concilium Lugdunense II"), "1274"),
+    ("vienne", "ecum15", "Viennense", None, ("Council of Vienne", "Concílio de Vienne", "Concilium Viennense"), "1311"),
+    ("constance", "ecum16", "Constantiense", None, ("Council of Constance", "Concílio de Constança", "Concilium Constantiense"), "1414"),
+    ("florence", "ecum17", "Basiliense", None, ("Council of Basel-Ferrara-Florence", "Concílio de Basileia-Ferrara-Florença", "Concilium Basiliense-Ferrariense-Florentinum"), "1431"),
+    ("lateran-v", "ecum18", "Lateranum V", None, ("Fifth Lateran Council", "Quinto Concílio de Latrão", "Concilium Lateranense V"), "1512"),
+    ("trent", "trent", "Tridentinum", "Trento", ("Council of Trent", "Concílio de Trento", "Concilium Tridentinum"), "1545"),
+    ("vatican-i", "ecum20", "Vaticanum I", "Vaticano I", ("First Vatican Council", "Concílio Vaticano I", "Concilium Vaticanum I"), "1869"),
+]
+# Documenta Catholica Omnia's language tags that aren't ISO codes once lowercased.
+DCO_LANG = {"LT": "la", "MLT": "la", "GR": "grc", "MGR": "grc", "GE": "de", "SP": "es"}
+
+
+def dco_council(issuer: str) -> str | None:
+    """DCO's issuer for a council's files ("Concilium Lateranum IIII") → council id.
+    The name must match whole: "Constantinopolitanum I" must not take the files of
+    II–IV. Basel's issuer carries its later sessions' cities in parentheses."""
+    n = re.sub(r"\s+", " ", issuer.replace("Concilium", "").lower()).strip()
+    return next((cid for cid, _, dco, *_ in COUNCILS
+                 if n == dco.lower() or (dco == "Basiliense" and n.startswith("basiliense"))), None)
+
+
+# Leading genre words dropped from a title before it becomes a book id
+# ("Enciclica Qui pluribus", "Epistola ad …"). Book ids depend on this set.
+ID_TYPE_WORDS = {
+    "enciclica", "encyclica", "encyclical", "encyclicae", "lettera", "apostolica", "apostolic", "letter", "letters",
+    "esortazione", "exhortation", "costituzione", "constitutio", "constitution", "motu", "proprio", "bolla", "bulla",
+    "bull", "breve", "brief", "epistola", "epistula", "allocuzione", "allocutio", "decreto", "decretum", "editto",
+    "litterae", "apostolicae", "dogmatica", "carta", "ap", "chirografo", "littera", "the", "a", "an",
+}
+# Genre words in vatican.va file names ("hf_l-xiii_enc_…", "20150524-enciclica-…"),
+# dropped to reach the incipit; the inventory's join keys depend on this set.
+FILE_TYPE_WORDS = {
+    "enciclica", "encyclica", "encyclical", "lettera", "lettere", "apostolica", "apostoliche", "apostolic", "letter",
+    "esortazione", "exhortation", "costituzione", "constitutio", "motu", "proprio", "bolla", "bulla", "breve",
+    "epistola", "epistula", "allocuzione", "allocutio", "decreto", "decretum", "editto", "litterae", "apostolicae",
+    "dogmatica", "carta", "ap", "post", "sinodale", "chirografo", "messaggio", "omelia", "papa", "francesco",
+    "leone", "xiv", "const", "decl", "decree", "doc", "enc", "apl", "exh", "let", "mp", "ep",
+}
+# … and, in titles, these too.
+INCIPIT_TYPE_WORDS = FILE_TYPE_WORDS | {
+    "dichiarazione", "proclama", "notificazione", "istruzione", "rescritto", "risposta", "declaratio",
+    "notificatio", "instructio", "responsum", "bref", "lettre", "encyclique", "pope", "papa",
 }
 
 TYPES = {
