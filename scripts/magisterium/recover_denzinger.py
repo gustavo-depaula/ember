@@ -21,13 +21,16 @@ import re
 import sys
 import urllib.request
 from pathlib import Path
+from urllib.parse import urljoin
+
+from bs4 import BeautifulSoup
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "research" / "magisterium"))
 from build_inventory import pope_id  # noqa: E402
 from import_documents import BOOKS, book_meta, slugify, write_book_json  # noqa: E402
 from names import ascii_fold  # noqa: E402
-from sources import CACHE, UA, NoText, fetch, paras_to_markdown, pdf_paragraphs, temp_file  # noqa: E402
+from sources import CACHE, UA, NoText, decode, fetch, paras_to_markdown, pdf_paragraphs, temp_file  # noqa: E402
 from worddoc import read_doc  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -72,17 +75,27 @@ def paragraphs_of(url: str, fmt: str) -> list[str]:
     return [p.strip() for p in paras if p.strip()]
 
 
+def real_file_url(wrapper: str) -> str | None:
+    soup = BeautifulSoup(decode(fetch(wrapper)), "lxml")
+    link = soup.find("a", href=re.compile(r"\.(doc|pdf)$", re.I))
+    return urljoin(wrapper, link["href"]) if link else None
+
+
 def find_letter(paras: list[str], folded: list[str], incipit: str) -> list[str] | None:
     """`folded` is `paras` through fold()."""
     key = fold(incipit)
     if len(key) < 8:
         return None
-    hit = next((i for i, f in enumerate(folded) if key in f), None)
+    # The letter must open with its incipit: a phrase matched mid-text is a
+    # quotation or another document, and an index of incipits is not the letter.
+    hit = next((i for i, f in enumerate(folded) if key in f[:200]), None)
     if hit is None:
         return None
     start = next((i for i in range(hit, max(hit - 6, -1), -1) if HEADING.match(paras[i])), hit)
     last = min(len(paras), hit + 400)
-    end = next((j for j in range(hit + 1, last) if HEADING.match(paras[j])), last)
+    end = next((j for j in range(hit + 1, last) if HEADING.match(paras[j])), None)
+    if end is None:
+        return None  # no heading closes it: where the letter ends is unknown
     letter = paras[start:end]
     return letter if sum(len(p) for p in letter) > 200 else None
 
@@ -96,30 +109,40 @@ def main() -> None:
         author = pope_id(d.get("author") or "") or pope_id(d["issuer"])
         for f in sorted(d["files"], key=lambda f: f["format"] != "doc"):
             if f["format"] in ("doc", "pdf") and any(l in ("LT", "MLT") for l in f["langs"]):
-                if f["format"] == "pdf" and not LETTERISH.search(d["title"]):
+                if f["format"] == "pdf" and not LETTERISH.search(d["title"]) or re.search(r"\bindex\b", d["title"], re.I):
                     continue
-                files_by_author.setdefault(author, []).append((d["title"], f["format"], f["file_url"]))
+                files_by_author.setdefault(author, []).append((d["title"], f["format"], f["file_url"], f["wrapper_url"]))
 
     results: dict[str, dict] = {}
     texts: dict[str, tuple[list[str], list[str]]] = {}  # url → (paragraphs, folded)
+    found_at: dict[str, str] = {}  # guessed file url → the real one, when they differ
     for row in wanted:
         incipit = re.search(r"'([^']+)'", row["title"]).group(1)
         key = f"{row['author']}:{incipit}"
         found = None
-        for title, fmt, url in files_by_author.get(row["author"], []):
+        for title, fmt, url, wrapper in files_by_author.get(row["author"], []):
             if url not in texts:
                 if fmt == "pdf" and not cached(url) and (size_of(url) or 0) > MAX_PDF_BYTES:
                     texts[url] = ([], [])
                     continue
                 try:
-                    paras = paragraphs_of(url, fmt)
+                    try:
+                        paras = paragraphs_of(url, fmt)
+                    except NoText:
+                        # The survey guessed the file's folder from its siblings; DCO's
+                        # wrapper page links the real one.
+                        real = real_file_url(wrapper)
+                        if not real or real == url:
+                            raise
+                        paras = paragraphs_of(real, fmt)
+                        found_at[url] = real
                 except (NoText, ValueError, OSError, RuntimeError) as e:
                     print(f"  unreadable {url}: {e}")
                     paras = []
                 texts[url] = (paras, [fold(p) for p in paras])
             letter = find_letter(*texts[url], incipit)
             if letter:
-                found = (title, url, letter)
+                found = (title, found_at.get(url, url), letter)
                 break
         if not found:
             results[key] = {"title": row["title"], "found": False,

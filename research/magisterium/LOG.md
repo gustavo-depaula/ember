@@ -36,13 +36,29 @@ Fetched pages are cached under `scripts/_cache/magisterium/` (gitignored), so re
 ## Progress
 
 - [x] Pipeline check: 8 sample documents across all sources, `pnpm build:corpus` keeps every language
-- [ ] Reader: let the reader switch a book to any of its languages (today: app language or the first)
-- [ ] Bulk import: vatican.va
-- [ ] Bulk import: DCO, papalencyclicals, veritatis
-- [ ] Collection `collection/magisterium`
-- [ ] DCO collected volumes → Denzinger gaps
-- [ ] Councils
+- [x] Reader: Language row in the reader menu, choice kept per book (cursor `book/<id>/language`)
+- [x] Reader: chapters that exist only in other languages leave the reading flow and the contents
+- [ ] Bulk import (all sources, one process; vatican.va paced at one request start per 2 s)
+- [ ] Reconvert everything from cache after converter fixes (tables, `<` escaping, PDF-only pages)
+- [ ] Collection `collection/magisterium` (generator written: scripts/magisterium/build_collection.py)
+- [x] DCO collected volumes → Denzinger gaps: tried, nothing imported (see below)
+- [x] Councils: 20 books, `council-<id>` (scripts/magisterium/import_councils.py, status in council-status.json)
 - [ ] Inventory artifact: imported status
 - [ ] PR
 
 ## Open problems
+
+- Converter bugs found mid-run, fixed in sources.py; the bulk run started before them, so `--reconvert` must follow it:
+  pandoc turned layout tables into "[TABLE]" (42 chapters by then), DCO conjectures `<clerum>` would render as tags,
+  and Chinese pages with a short intro hid their PDF.
+- DCO mislabels some files' language (a French translation filed as Greek). `check_script` skips a text filed under a
+  language with its own script (Greek, Cyrillic, Arabic, Hebrew, CJK) when most of its letters aren't in that script.
+- vatican.va names some files with both date orders across languages; the inventory keys vatican.va documents by
+  date + slug so they merge.
+- Denzinger gaps from collected volumes (`recover_denzinger.py`): searched 171 gap documents with a known incipit
+  across their popes' Latin DCO files. A loose first pass "found" 8, but 7 were wrong (an index of incipits, a phrase
+  quoted mid-text, 400-paragraph slices with no end). With the incipit required to open a paragraph and a heading
+  required to close the letter, nothing qualifies: Migne volumes have no reliable letter boundaries in their text
+  layer. Nothing imported; the gaps stay listed. The script stays for a later pass (e.g. with the Bullarium).
+- Sources with no text: 59 papalencyclicals posts are empty placeholders on the site; 15 DCO files 404 at DCO itself
+  (their wrapper pages too); DCO PDFs with no text layer are scans and count as no text (see import-status.json).
