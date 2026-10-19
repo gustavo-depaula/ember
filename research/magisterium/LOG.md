@@ -46,7 +46,7 @@ Fetched pages are cached under `scripts/_cache/magisterium/` (gitignored), so re
 - [x] DCO collected volumes → Denzinger gaps: tried, nothing imported (see below)
 - [x] Councils: 20 books, `council-<id>` (scripts/magisterium/import_councils.py, status in council-status.json)
 - [x] Inventory artifact: imported status (https://claude.ai/artifact/PyaYuDoByb5fo7w51WQFve)
-- [ ] PR
+- [x] PR: https://github.com/gustavo-depaula/ember/pull/463
 
 ## Open problems
 
