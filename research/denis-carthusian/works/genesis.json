@@ -1,0 +1,45 @@
+{
+  "volume": "operaomniainunum01deni",
+  "leaves": [
+    "0117",
+    "0600"
+  ],
+  "skip_leaves": [
+    "0596"
+  ],
+  "path": "denis-opera-omnia/commentaries/genesis",
+  "slug": "enarratio-in-genesim",
+  "drop_heading": "(?m)^## ENARRATIO\\s*\\n\\s*IN GENESIM\\s*$",
+  "toc_group": {
+    "la": "Caput {n}",
+    "en-US": "Chapter {n}",
+    "pt-BR": "Capítulo {n}"
+  },
+  "meta": {
+    "id": "denis-enarratio-in-genesim",
+    "cover": "label",
+    "name": {
+      "la": "Enarratio in Genesim",
+      "en-US": "Commentary on Genesis",
+      "pt-BR": "Comentário ao Gênesis"
+    },
+    "author": {
+      "la": "Dionysius Cartusianus",
+      "en-US": "Denis the Carthusian",
+      "pt-BR": "Dionísio, o Cartuxo"
+    },
+    "description": {
+      "la": "Enarratio in librum Geneseos, per articulos, cum præfatione de Moyse legislatore.",
+      "en-US": "Denis the Carthusian's article-by-article commentary on the Book of Genesis, opening with a preface on Moses the lawgiver.",
+      "pt-BR": "O comentário de Dionísio, o Cartuxo, ao livro do Gênesis, artigo por artigo, aberto por um prefácio sobre Moisés legislador."
+    },
+    "sources": [
+      {
+        "language": "la",
+        "url": "https://archive.org/details/operaomniainunum01deni",
+        "description": "Doctoris Ecstatici D. Dionysii Cartusiani Opera Omnia, tomus I (Monstrolii, 1896), pp. 1–469; scan by Cornell University Library. Text read with dots.mocr and proofread page by page by Claude against the scans (research/denis-carthusian)."
+      }
+    ]
+  },
+  "skip_leaves_why": "0596 is an out-of-focus capture of p. 468, retaken as 0598; its OCR is too garbled for the duplicate check to match it."
+}

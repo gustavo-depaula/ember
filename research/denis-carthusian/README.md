@@ -7,7 +7,7 @@
 1. **dots.mocr drafts every page** on the local RTX 4070 Ti, at no cost. It is running for all 36 Internet Archive volumes (25,610 pages, about 32 hours) as a systemd service that survives a power cut; see [Running the full drafts](#running-the-full-drafts).
 2. **Claude Sonnet proofreads each draft** through the Claude Code subscription: one lean `claude -p` call per page, with the page cropped to its text, returning only a list of fixes. The result scores 0.03% character error with italics restored, slightly better than Sonnet transcribing alone (0.04%). It costs about $0.03 per page at API rates, around $770 for the set, paid from subscription limits.
 
-Nothing is in `content/` yet. Next is a pilot volume taken all the way into the corpus, which also measures what the check costs in subscription limits.
+**The pilot is in the corpus (2026-10-19):** *Enarratio in Genesim* (vol. 1, pp. 1–469) as `content/books/denis-opera-omnia/commentaries/genesis/`: the preface and 103 articles, about 248,000 words, with the table of contents grouped by chapter of Genesis. See [The Genesis pilot](#the-genesis-pilot).
 
 ## The edition
 
@@ -54,6 +54,16 @@ On the subscription, the budget is usage limits, not dollars. That changed the d
 - **Lower effort** saved little output and fumbled fixes; default effort stays.
 - **Most of the remaining cost is cache writes.** Claude Code writes each page to cache with a 1-hour lifetime, at twice the input price, though the page is never read again.
 - **The clean-up in `ocr_local.dots_markdown`** also matters. It moves reference-only blocks to the margin note and drops lone A–D letters. It also rejoins leftover line-end hyphens, so Sonnet has less to fix.
+
+## The Genesis pilot
+
+`works/genesis.json` describes the work: volume, leaf range, place in the corpus, metadata. `assemble.py` applies the fixes, joins the pages, cuts the text at the author's headings and writes `book.json`; `check_pages.py --volume … --leaves …` ran the check (via `denis-check.service`, which retries every 30 minutes if the usage limit is reached).
+
+- **Usage.** 483 pages, $16.30 at API rates ($0.034 a page). During the run the 5-hour session meter went from 16% to 54% and the weekly one from 13% to 15%. Other sessions were running too, so these are upper bounds. That puts the whole set (~25,600 pages) at no more than about one week's full allowance, so it needs pacing over several weeks.
+- **Retaken scans.** The scanner retook a two-page spread 13 times in this volume, so the same page appears twice a few leaves apart. `assemble.py` finds these by text similarity and keeps the capture with more ink in its text block. Neither the first capture nor the retake is reliably the good one. The patchy retake of p. 255 had been read "iis … cum … solo … appellat" where the print has "illis … quum … illo … appellavit": with ink missing, both models filled the gaps with plausible words, and the check could not tell. One blurred capture whose OCR is too garbled to match is listed in `skip_leaves`.
+- **Italics are a per-character mask, not markers.** Laying Sonnet's italic runs over the draft's own as `*…*` markers produced `**` in 207 of about 2,000 paragraphs. A `*` in a margin note, a bullet-like `* ` at a line start, and runs broken by a page or line break did the rest. `apply_fixes.py` and `assemble.tidy` now strip the markers to a mask, lay the runs on it, and write the markers back balanced, per paragraph. In the assembled book, no paragraph has an unbalanced marker.
+- **Spot checks.** Two faded upper thirds (leaves 0251 and 0449) matched the scan word for word. The book renders on the website with the italics as emphasis and the articles grouped by chapter.
+- **Page-number warnings** from `assemble.py` mostly come from a printed number misread on the page before (p. 49 for 19), not from missing pages.
 
 ## Running the full drafts
 
