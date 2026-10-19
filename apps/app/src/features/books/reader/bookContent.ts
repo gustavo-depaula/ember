@@ -124,11 +124,6 @@ export function flattenReadingFlow(
   return flow
 }
 
-/** The content language to read a book in: the preferred one when the book has it, else its first. */
-export function bookLang(langs: readonly string[], preferred: string): string {
-  return langs.includes(preferred) ? preferred : (langs[0] ?? 'en-US')
-}
-
 /** Index in `leaves` of the first leaf at or after `chapterId` in TOC order —
  *  where to land in an edition that lacks that chapter. -1 when none follows. */
 export function nearestLeafIndex(
@@ -136,17 +131,19 @@ export function nearestLeafIndex(
   leaves: readonly { id: string }[],
   chapterId: string,
 ): number {
-  const order = new Map<string, number>()
-  function walk(nodes: TocNode[]) {
+  const index = new Map(leaves.map((leaf, i) => [leaf.id, i]))
+  let passed = false
+  function walk(nodes: TocNode[]): number {
     for (const node of nodes) {
-      order.set(node.id, order.size)
-      if (node.children) walk(node.children)
+      passed ||= node.id === chapterId
+      const i = passed ? index.get(node.id) : undefined
+      if (i !== undefined) return i
+      const found = node.children ? walk(node.children) : -1
+      if (found >= 0) return found
     }
+    return -1
   }
-  walk(toc)
-  const target = order.get(chapterId)
-  if (target === undefined) return -1
-  return leaves.findIndex((leaf) => (order.get(leaf.id) ?? -1) >= target)
+  return walk(toc)
 }
 
 /** A node's title in `lang` — for a second translation, its language's title

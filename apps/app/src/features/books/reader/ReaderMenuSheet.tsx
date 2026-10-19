@@ -69,9 +69,11 @@ export function ReaderMenuSheet({
         paddingBottom={insets.bottom + 16}
         gap="$xs"
       >
-        <YStack paddingHorizontal="$sm" paddingBottom={editions.length > 1 ? '$sm' : 0}>
-          <EditionSelector editions={editions} edition={edition} onChange={onEdition} />
-        </YStack>
+        {editions.length > 1 && (
+          <YStack paddingHorizontal="$sm" paddingBottom="$sm">
+            <EditionSelector editions={editions} edition={edition} onChange={onEdition} />
+          </YStack>
+        )}
         {onContents ? (
           <MenuRow
             icon={<List size={22} color={theme.color?.val} />}

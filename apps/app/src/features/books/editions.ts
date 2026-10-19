@@ -24,11 +24,12 @@ export function bookEditions(book: {
 }): BookEdition[] {
   const langs = book.languages ?? []
   const labels = new Map((book.sources ?? []).map((s) => [s.language, s.label]))
+  const texts = new Map<string, number>()
+  for (const id of langs) texts.set(baseLanguage(id), (texts.get(baseLanguage(id)) ?? 0) + 1)
   return langs.map((id) => {
     const language = baseLanguage(id)
     // A label only tells texts apart; a language with one text shows none.
-    const shared = langs.filter((l) => baseLanguage(l) === language).length > 1
-    return { id, language, label: shared ? labels.get(id) : undefined }
+    return { id, language, label: (texts.get(language) ?? 0) > 1 ? labels.get(id) : undefined }
   })
 }
 

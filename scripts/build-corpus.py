@@ -747,6 +747,11 @@ SEARCH_STEMMERS: dict[str, str | None] = {
     "la": None,
 }
 
+def base_language(lang: str) -> str:
+    """The language of a second translation's tag (`en-US-x-pusey` → `en-US`)."""
+    return lang.split("-x-")[0]
+
+
 # Per-language stopword list. Generous on purpose — high-document-frequency
 # words are useless for ranking and dominate the index size (a 150-stopword
 # list drops ~70% of postings on a 12k-chapter book). Stems are computed
@@ -921,7 +926,7 @@ def build_search_index_for_book(
     indexes: dict[str, dict] = {}
     for lang in sorted(langs):
         # A second translation (`en-US-x-pusey`) is indexed as its language.
-        base = lang.split("-x-")[0]
+        base = base_language(lang)
         algo = SEARCH_STEMMERS.get(base)
         stemmer = snowballstemmer.stemmer(algo) if algo else None
         stopwords = SEARCH_STOPWORDS.get(base, set())

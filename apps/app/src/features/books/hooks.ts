@@ -40,6 +40,17 @@ export function useBookManifest(bookId: string | undefined) {
   return { ...query, entry }
 }
 
+/** Query options for the edition chosen for a book (null: none chosen). */
+export function bookEditionQuery(bookId: string | undefined) {
+  return {
+    queryKey: ['book-edition', bookId],
+    queryFn: async () =>
+      bookId ? ((await getPreference(editionPreferenceKey(bookId))) ?? null) : null,
+    enabled: !!bookId,
+    staleTime: Number.POSITIVE_INFINITY,
+  }
+}
+
 /**
  * The edition (language or translation) this book is read in, remembered per
  * book on this device. `ready` turns true once the remembered choice is read,
@@ -52,22 +63,14 @@ export function useBookEdition(
 ) {
   const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const queryClient = useQueryClient()
-  const { data: chosen, isFetched } = useQuery({
-    queryKey: ['book-edition', bookId],
-    queryFn: async () =>
-      bookId ? ((await getPreference(editionPreferenceKey(bookId))) ?? null) : null,
-    enabled: !!bookId,
-    staleTime: Number.POSITIVE_INFINITY,
-  })
+  const { data: chosen, isFetched } = useQuery(bookEditionQuery(bookId))
   const editions = useMemo(() => bookEditions(book ?? { languages: langs }), [book, langs])
-  const edition = resolveEdition(
-    editions.map((e) => e.id),
-    chosen ?? undefined,
-    contentLanguage,
-  )
+  const ids = useMemo(() => editions.map((e) => e.id), [editions])
+  const edition = resolveEdition(ids, chosen ?? undefined, contentLanguage)
   const setEdition = useCallback(
     async (id: string) => {
       if (!bookId) return
+      // Set ahead of the write, so the chosen pill moves on the tap.
       queryClient.setQueryData(['book-edition', bookId], id)
       await setPreference(editionPreferenceKey(bookId), id)
     },

@@ -1,5 +1,7 @@
 ---
 import { baseLanguage } from '@/features/books/editions'
+import enUS from '@/lib/i18n/locales/en-US'
+import ptBR from '@/lib/i18n/locales/pt-BR'
 import { bookCoverFormat } from '@/features/covers/coverFor'
 import Cover from '~/components/Cover.astro'
 import TocList from '~/components/TocList.astro'
@@ -25,9 +27,10 @@ const book = await loadBookPage(id, locale)
 if (!book) throw new Error(`No book ${id}`)
 
 const pt = locale === 'pt-BR'
-const languageNames: Record<string, string> = pt
-  ? { 'en-US': 'inglês', 'pt-BR': 'português', la: 'latim', it: 'italiano', 'fr-FR': 'francês', 'es-419': 'espanhol' }
-  : { 'en-US': 'English', 'pt-BR': 'Portuguese', la: 'Latin', it: 'Italian', 'fr-FR': 'French', 'es-419': 'Spanish' }
+// The app's language names; Portuguese writes them lower-case mid-sentence.
+const languageNames: Record<string, string> = Object.fromEntries(
+  Object.entries(pt ? ptBR.languages : enUS.languages).map(([k, v]) => [k, pt ? v.toLocaleLowerCase('pt-BR') : v]),
+)
 // A second translation (`en-US-x-pusey`) is another English text, not another language.
 const languages = [...new Set(book.langs.map(baseLanguage))]
 const foreign = book.lang !== locale

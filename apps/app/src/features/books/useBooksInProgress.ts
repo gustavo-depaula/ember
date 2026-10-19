@@ -8,8 +8,9 @@ import { useEventStore } from '@/db/events/state'
 import { bookIdFromCursorId } from '@/db/repositories/cursors'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { bookManifestQuery } from './hooks'
-import { bookLang, buildTitleLookup, flattenReadingFlow } from './reader/bookContent'
+import { resolveEdition } from './editions'
+import { bookEditionQuery, bookManifestQuery } from './hooks'
+import { buildTitleLookup, flattenReadingFlow } from './reader/bookContent'
 import { chapterCompleteFraction } from './reader/chapterCompletions'
 import { parseReaderPosition } from './reader/useReaderCursor'
 
@@ -43,6 +44,7 @@ function selectStarted(cursors: Map<string, { position: string }>): string {
 }
 
 const manifestsOf = (results: QueryObserverResult<BookEntry>[]) => results.map((r) => r.data)
+const editionsOf = (results: QueryObserverResult<string | null>[]) => results.map((r) => r.data)
 
 /** Books the user is partway through, most recently read first; finished ones drop out. */
 export function useBooksInProgress() {
@@ -66,6 +68,11 @@ export function useBooksInProgress() {
     queries: started.map((s) => bookManifestQuery(s.bookId, s.entry)),
     combine: manifestsOf,
   })
+  // The edition each book is read in, so its chapter titles and last page are that text's.
+  const chosen = useQueries({
+    queries: started.map((s) => bookEditionQuery(s.bookId)),
+    combine: editionsOf,
+  })
 
   return useMemo(
     () =>
@@ -73,12 +80,16 @@ export function useBooksInProgress() {
         // Until the manifest lands we can't tell a finished book from one in progress.
         const book = manifests[i]
         if (!book?.toc) return []
-        const lang = bookLang(book.languages ?? entry.langs ?? [], contentLanguage)
+        const lang = resolveEdition(
+          book.languages ?? entry.langs ?? [],
+          chosen[i] ?? undefined,
+          contentLanguage,
+        )
         const flow = flattenReadingFlow(book.toc, book, lang)
         if (nearEnd && flow.at(-1)?.id === chapterId) return []
         const chapterTitle = buildTitleLookup(book.toc, lang).get(chapterId)
         return [{ bookId, entry, chapterTitle, updatedAt }]
       }),
-    [started, manifests, contentLanguage],
+    [started, manifests, chosen, contentLanguage],
   )
 }

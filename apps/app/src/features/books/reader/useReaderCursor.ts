@@ -63,12 +63,12 @@ export function useReaderCursor(bookId: string | undefined) {
     setInitial({ position: parsed, loaded: true })
   }, [bookId])
 
-  const flush = useCallback(() => {
+  const flush = useCallback(async () => {
     const pos = latestRef.current
     if (!bookId || !pos) return
     if (samePosition(pos, lastWrittenRef.current)) return
     lastWrittenRef.current = pos
-    void setCursor(bookCursorId(bookId), JSON.stringify({ ...pos, updatedAt: Date.now() }))
+    await setCursor(bookCursorId(bookId), JSON.stringify({ ...pos, updatedAt: Date.now() }))
   }, [bookId])
 
   const save = useCallback(
@@ -82,14 +82,14 @@ export function useReaderCursor(bookId: string | undefined) {
 
   useEffect(() => {
     const sub = AppState.addEventListener('change', (s) => {
-      if (s === 'background' || s === 'inactive') flush()
+      if (s === 'background' || s === 'inactive') void flush()
     })
     return () => {
       sub.remove()
       if (timerRef.current) clearTimeout(timerRef.current)
-      flush()
+      void flush()
     }
   }, [flush])
 
-  return { initial, save }
+  return { initial, save, flush }
 }

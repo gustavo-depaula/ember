@@ -1,6 +1,7 @@
 import type { ContentLanguage, EngineContext } from '@ember/content-engine'
 import { getResidentBook, loadBookChapterText, loadBooks } from '@/content/books'
 import { getProseText, resolveCanticle, resolvePrayer } from '@/content/resolver'
+import { baseLanguage } from '@/features/books/editions'
 import i18n, { localizeBilingual } from '@/lib/i18n'
 import { parseTrackEntry } from '@/lib/lectio'
 import { parsePsalmRef } from '@/lib/liturgical'
@@ -80,7 +81,9 @@ export function createEngineContext(
       if (!title) return undefined
       return title[lang] ?? title['pt-BR'] ?? title['en-US'] ?? Object.values(title)[0]
     },
-    getBookLanguages: (book) => getResidentBook(book)?.languages ?? [],
+    // A practice quoting a book reads its default text, not a second translation.
+    getBookLanguages: (book) =>
+      (getResidentBook(book)?.languages ?? []).filter((lang) => lang === baseLanguage(lang)),
     prepareBooks: loadBooks,
     loadBookChapterTextAsync: async (book, chapter, lang) => {
       const text = await loadBookChapterText(book, chapter, lang)
