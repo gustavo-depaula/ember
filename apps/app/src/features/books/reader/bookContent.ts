@@ -121,7 +121,10 @@ export function flattenReadingFlow(
 }
 
 /** The content language to read a book in: the preferred one when the book has it, else its first. */
-export function bookLang(langs: readonly string[], preferred: string): string {
+/** The language a book opens in: the one the reader last switched it to, else the
+ *  person's content language, else the book's first language. */
+export function bookLang(langs: readonly string[], preferred: string, override?: string): string {
+  if (override && langs.includes(override)) return override
   return langs.includes(preferred) ? preferred : (langs[0] ?? 'en-US')
 }
 

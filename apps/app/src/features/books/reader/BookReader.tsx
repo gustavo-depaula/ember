@@ -19,6 +19,7 @@ import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { bookLang, buildTitleLookup, openBookSession } from './bookContent'
+import { getBookLanguageOverride, languageAutonym, setBookLanguageOverride } from './bookLanguage'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
@@ -50,6 +51,7 @@ import {
 } from './highlights'
 import { ReaderBookmarksSheet } from './ReaderBookmarksSheet'
 import { ReaderHighlightsSheet } from './ReaderHighlightsSheet'
+import { ReaderLanguageSheet } from './ReaderLanguageSheet'
 import { ReaderMenuSheet } from './ReaderMenuSheet'
 import { ReaderNoteEditor } from './ReaderNoteEditor'
 import { ReaderOverlay } from './ReaderOverlay'
@@ -72,7 +74,15 @@ type Props = {
   chapter?: string
 }
 
-type SheetKind = 'menu' | 'toc' | 'settings' | 'search' | 'bookmarks' | 'highlights' | null
+type SheetKind =
+  | 'menu'
+  | 'toc'
+  | 'settings'
+  | 'search'
+  | 'bookmarks'
+  | 'highlights'
+  | 'language'
+  | null
 
 // Every state the reader can open into — title page, error, not found — keeps
 // the reader's own close button. An external book's first open waits on a
@@ -184,10 +194,13 @@ export function BookReader({ bookId, chapter }: Props) {
     refetch: refetchManifest,
   } = useBookManifest(bookId)
 
+  const [langOverride, setLangOverride] = useState<string | undefined>(() =>
+    bookId ? getBookLanguageOverride(bookId) : undefined,
+  )
   const lang = useMemo(() => {
     if (!bookEntry) return 'en-US'
-    return bookLang(bookEntry.languages ?? [], contentLanguage)
-  }, [bookEntry, contentLanguage])
+    return bookLang(bookEntry.languages ?? [], contentLanguage, langOverride)
+  }, [bookEntry, contentLanguage, langOverride])
 
   const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
 
@@ -1034,6 +1047,20 @@ export function BookReader({ bookId, chapter }: Props) {
         onBookmarks={() => setSheet('bookmarks')}
         onHighlights={() => setSheet('highlights')}
         onSettings={() => setSheet('settings')}
+        onLanguage={(bookEntry.languages?.length ?? 0) > 1 ? () => setSheet('language') : undefined}
+        languageName={languageAutonym(lang)}
+      />
+
+      <ReaderLanguageSheet
+        open={sheet === 'language'}
+        onClose={() => setSheet(null)}
+        languages={bookEntry.languages ?? []}
+        current={lang}
+        onSelect={(next) => {
+          setSheet(null)
+          setLangOverride(next)
+          void setBookLanguageOverride(bookId, next)
+        }}
       />
 
       <ReaderHighlightsSheet

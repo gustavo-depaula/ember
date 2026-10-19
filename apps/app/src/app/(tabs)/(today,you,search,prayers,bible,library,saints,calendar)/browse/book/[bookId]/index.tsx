@@ -27,6 +27,7 @@ import {
   hasNestedSections,
   localizedTitle,
 } from '@/features/books/reader/bookContent'
+import { getBookLanguageOverride } from '@/features/books/reader/bookLanguage'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
 import { ReaderTocSheet } from '@/features/books/reader/ReaderTocSheet'
@@ -81,9 +82,12 @@ export default function BookDetailScreen() {
   // and languages meanwhile.
   const { data: book, entry } = useBookManifest(bookId)
 
-  const lang = useMemo(
-    () => bookLang(book?.languages ?? entry?.langs ?? [], contentLanguage),
-    [book?.languages, entry?.langs, contentLanguage],
+  // Read on every render (an in-memory cursor) so a language switched in the
+  // reader shows here on return.
+  const lang = bookLang(
+    book?.languages ?? entry?.langs ?? [],
+    contentLanguage,
+    getBookLanguageOverride(bookId),
   )
 
   const { flow: leaves, readableIds } = useReadingFlow(book, lang)

@@ -10,6 +10,7 @@ import { usePreferencesStore } from '@/stores/preferencesStore'
 
 import { bookManifestQuery } from './hooks'
 import { bookLang, buildTitleLookup, flattenReadingFlow } from './reader/bookContent'
+import { getBookLanguageOverride } from './reader/bookLanguage'
 import { chapterCompleteFraction } from './reader/chapterCompletions'
 import { parseReaderPosition } from './reader/useReaderCursor'
 
@@ -73,7 +74,11 @@ export function useBooksInProgress() {
         // Until the manifest lands we can't tell a finished book from one in progress.
         const book = manifests[i]
         if (!book?.toc) return []
-        const lang = bookLang(book.languages ?? entry.langs ?? [], contentLanguage)
+        const lang = bookLang(
+          book.languages ?? entry.langs ?? [],
+          contentLanguage,
+          getBookLanguageOverride(bookId),
+        )
         const flow = flattenReadingFlow(book.toc, book, lang)
         if (nearEnd && flow.at(-1)?.id === chapterId) return []
         const chapterTitle = buildTitleLookup(book.toc, lang).get(chapterId)

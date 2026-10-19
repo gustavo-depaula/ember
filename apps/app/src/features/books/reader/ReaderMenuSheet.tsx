@@ -1,5 +1,13 @@
 import { BottomSheet } from '@expo/ui/community/bottom-sheet'
-import { Bookmark, ChevronRight, Highlighter, List, Search, Type } from 'lucide-react-native'
+import {
+  Bookmark,
+  ChevronRight,
+  Highlighter,
+  Languages,
+  List,
+  Search,
+  Type,
+} from 'lucide-react-native'
 import { useTranslation } from 'react-i18next'
 import { Pressable, useWindowDimensions } from 'react-native'
 import { useSafeAreaInsets } from 'react-native-safe-area-context'
@@ -14,6 +22,10 @@ type Props = {
   onBookmarks: () => void
   onHighlights: () => void
   onSettings: () => void
+  /** Omit to hide the row (books in a single language). */
+  onLanguage?: () => void
+  /** The current language's name, shown beside the row label. */
+  languageName?: string
 }
 
 // Per-row contribution to the sheet height (in viewport fractions). Adding it
@@ -30,13 +42,15 @@ export function ReaderMenuSheet({
   onBookmarks,
   onHighlights,
   onSettings,
+  onLanguage,
+  languageName,
 }: Props) {
   const { t } = useTranslation()
   const theme = useTheme()
   const insets = useSafeAreaInsets()
   const { height } = useWindowDimensions()
 
-  const rowCount = (onContents ? 1 : 0) + 4
+  const rowCount = (onContents ? 1 : 0) + (onLanguage ? 1 : 0) + 4
   const sheetFraction = CHROME_FRACTION + rowCount * ROW_FRACTION
 
   return (
@@ -76,6 +90,14 @@ export function ReaderMenuSheet({
           label={t('books.search', { defaultValue: 'Search book' })}
           onPress={onSearch}
         />
+        {onLanguage ? (
+          <MenuRow
+            icon={<Languages size={22} color={theme.color?.val} />}
+            label={t('books.language')}
+            detail={languageName}
+            onPress={onLanguage}
+          />
+        ) : null}
         <MenuRow
           icon={<Type size={22} color={theme.color?.val} />}
           label={t('books.themesAndSettings', { defaultValue: 'Themes & Settings' })}
@@ -89,10 +111,12 @@ export function ReaderMenuSheet({
 function MenuRow({
   icon,
   label,
+  detail,
   onPress,
 }: {
   icon: React.ReactNode
   label: string
+  detail?: string
   onPress: () => void
 }) {
   const theme = useTheme()
@@ -109,6 +133,11 @@ function MenuRow({
         <Text fontFamily="$heading" fontSize="$3" color="$color" flex={1}>
           {label}
         </Text>
+        {detail ? (
+          <Text fontFamily="$body" fontSize="$2" color="$colorSecondary">
+            {detail}
+          </Text>
+        ) : null}
         <ChevronRight size={18} color={theme.colorSecondary?.val} />
       </XStack>
     </Pressable>
