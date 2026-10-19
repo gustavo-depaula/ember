@@ -2,13 +2,16 @@
   "id": "councils-ephesus",
   "cover": "quarter",
   "name": {
-    "en-US": "Ephesus (431)"
+    "en-US": "Ephesus (431)",
+    "pt-BR": "Éfeso (431)"
   },
   "author": {
-    "en-US": "Councils"
+    "en-US": "Councils",
+    "pt-BR": "Concílios"
   },
   "languages": [
-    "en-US"
+    "en-US",
+    "pt-BR"
   ],
   "sources": [
     {
@@ -21,7 +24,8 @@
     {
       "id": "ch001",
       "title": {
-        "en-US": "Ephesus (431)"
+        "en-US": "Ephesus (431)",
+        "pt-BR": "Éfeso (431)"
       }
     }
   ]
