@@ -77,5 +77,37 @@
         "es-419": "Libro II: Sobre las bienaventuranzas por las que se ve a Dios"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1601.htm",
+          "description": "Translated by William Findlay. From Nicene and Post-Nicene Fathers, First Series, Vol. 6, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Findlay (NPNF, 1888)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Book One"
+          },
+          "match": "ch002"
+        },
+        {
+          "id": "ch002",
+          "title": {
+            "en-US": "Book Two"
+          },
+          "match": "ch003"
+        }
+      ]
+    }
   ]
 }

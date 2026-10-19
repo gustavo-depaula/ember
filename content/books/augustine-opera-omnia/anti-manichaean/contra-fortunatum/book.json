@@ -68,5 +68,38 @@
         "es-419": "Libro I"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US",
+        "pt-BR"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1404.htm",
+          "description": "Translated by Albert H. Newman. From Nicene and Post-Nicene Fathers, First Series, Vol. 4, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Newman (NPNF, 1887)"
+        },
+        {
+          "language": "pt-BR",
+          "url": "http://www.newadvent.org/fathers/1404.htm",
+          "description": "Portuguese translation by Claude of the English of Albert H. Newman (Nicene and Post-Nicene Fathers), reviewed in several rounds against it.",
+          "label": "Claude, from Newman (NPNF)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Acts or Disputation Against Fortunatus the Manichaean",
+            "pt-BR": "Atas ou Disputa contra Fortunato, o Maniqueu"
+          },
+          "match": "ch002"
+        }
+      ]
+    }
   ]
 }

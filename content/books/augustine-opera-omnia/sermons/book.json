@@ -6023,5 +6023,702 @@
         }
       ]
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1603.htm",
+          "description": "Translated by R.G. MacMullen. From Nicene and Post-Nicene Fathers, First Series, Vol. 6, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight.",
+          "label": "MacMullen (NPNF, 1888)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Sermon 1"
+          },
+          "match": "v03-ch001"
+        },
+        {
+          "id": "ch002",
+          "title": {
+            "en-US": "Sermon 2"
+          },
+          "match": "v03-ch002"
+        },
+        {
+          "id": "ch003",
+          "title": {
+            "en-US": "Sermon 3"
+          },
+          "match": "v03-ch003"
+        },
+        {
+          "id": "ch004",
+          "title": {
+            "en-US": "Sermon 4"
+          },
+          "match": "v03-ch005"
+        },
+        {
+          "id": "ch005",
+          "title": {
+            "en-US": "Sermon 5"
+          },
+          "match": "v03-ch006"
+        },
+        {
+          "id": "ch006",
+          "title": {
+            "en-US": "Sermon 6"
+          },
+          "match": "v03-ch007"
+        },
+        {
+          "id": "ch007",
+          "title": {
+            "en-US": "Sermon 7"
+          },
+          "match": "v03-ch008"
+        },
+        {
+          "id": "ch008",
+          "title": {
+            "en-US": "Sermon 8"
+          },
+          "match": "v03-ch009"
+        },
+        {
+          "id": "ch009",
+          "title": {
+            "en-US": "Sermon 9"
+          },
+          "match": "v03-ch010"
+        },
+        {
+          "id": "ch010",
+          "title": {
+            "en-US": "Sermon 10"
+          },
+          "match": "v03-ch011"
+        },
+        {
+          "id": "ch011",
+          "title": {
+            "en-US": "Sermon 11"
+          },
+          "match": "v03-ch013"
+        },
+        {
+          "id": "ch012",
+          "title": {
+            "en-US": "Sermon 12"
+          },
+          "match": "v03-ch015"
+        },
+        {
+          "id": "ch013",
+          "title": {
+            "en-US": "Sermon 13"
+          },
+          "match": "v03-ch017"
+        },
+        {
+          "id": "ch014",
+          "title": {
+            "en-US": "Sermon 14"
+          },
+          "match": "v03-ch020"
+        },
+        {
+          "id": "ch015",
+          "title": {
+            "en-US": "Sermon 15"
+          },
+          "match": "v03-ch022"
+        },
+        {
+          "id": "ch016",
+          "title": {
+            "en-US": "Sermon 16"
+          },
+          "match": "v03-ch024"
+        },
+        {
+          "id": "ch017",
+          "title": {
+            "en-US": "Sermon 17"
+          },
+          "match": "v03-ch025"
+        },
+        {
+          "id": "ch018",
+          "title": {
+            "en-US": "Sermon 18"
+          },
+          "match": "v03-ch026"
+        },
+        {
+          "id": "ch019",
+          "title": {
+            "en-US": "Sermon 19"
+          },
+          "match": "v03-ch027"
+        },
+        {
+          "id": "ch020",
+          "title": {
+            "en-US": "Sermon 20"
+          },
+          "match": "v03-ch028"
+        },
+        {
+          "id": "ch021",
+          "title": {
+            "en-US": "Sermon 21"
+          },
+          "match": "v03-ch030"
+        },
+        {
+          "id": "ch022",
+          "title": {
+            "en-US": "Sermon 22"
+          },
+          "match": "v03-ch031"
+        },
+        {
+          "id": "ch023",
+          "title": {
+            "en-US": "Sermon 23"
+          },
+          "match": "v03-ch034"
+        },
+        {
+          "id": "ch024",
+          "title": {
+            "en-US": "Sermon 24"
+          },
+          "match": "v03-ch036"
+        },
+        {
+          "id": "ch025",
+          "title": {
+            "en-US": "Sermon 25"
+          },
+          "match": "v03-ch037"
+        },
+        {
+          "id": "ch026",
+          "title": {
+            "en-US": "Sermon 26"
+          },
+          "match": "v03-ch038"
+        },
+        {
+          "id": "ch027",
+          "title": {
+            "en-US": "Sermon 27"
+          },
+          "match": "v03-ch039"
+        },
+        {
+          "id": "ch028",
+          "title": {
+            "en-US": "Sermon 28"
+          },
+          "match": "v03-ch043"
+        },
+        {
+          "id": "ch029",
+          "title": {
+            "en-US": "Sermon 29"
+          },
+          "match": "v03-ch044"
+        },
+        {
+          "id": "ch030",
+          "title": {
+            "en-US": "Sermon 30"
+          },
+          "match": "v03-ch046"
+        },
+        {
+          "id": "ch031",
+          "title": {
+            "en-US": "Sermon 31"
+          },
+          "match": "v03-ch047"
+        },
+        {
+          "id": "ch032",
+          "title": {
+            "en-US": "Sermon 32"
+          },
+          "match": "v03-ch048"
+        },
+        {
+          "id": "ch033",
+          "title": {
+            "en-US": "Sermon 33"
+          },
+          "match": "v03-ch049"
+        },
+        {
+          "id": "ch034",
+          "title": {
+            "en-US": "Sermon 34"
+          },
+          "match": "v03-ch050"
+        },
+        {
+          "id": "ch035",
+          "title": {
+            "en-US": "Sermon 35"
+          },
+          "match": "v03-ch051"
+        },
+        {
+          "id": "ch036",
+          "title": {
+            "en-US": "Sermon 36"
+          },
+          "match": "v03-ch052"
+        },
+        {
+          "id": "ch037",
+          "title": {
+            "en-US": "Sermon 37"
+          },
+          "match": "v03-ch053"
+        },
+        {
+          "id": "ch038",
+          "title": {
+            "en-US": "Sermon 38"
+          },
+          "match": "v03-ch054"
+        },
+        {
+          "id": "ch039",
+          "title": {
+            "en-US": "Sermon 39"
+          },
+          "match": "v03-ch055"
+        },
+        {
+          "id": "ch040",
+          "title": {
+            "en-US": "Sermon 40"
+          },
+          "match": "v03-ch056"
+        },
+        {
+          "id": "ch041",
+          "title": {
+            "en-US": "Sermon 41"
+          },
+          "match": "v03-ch058"
+        },
+        {
+          "id": "ch042",
+          "title": {
+            "en-US": "Sermon 42"
+          },
+          "match": "v03-ch059"
+        },
+        {
+          "id": "ch043",
+          "title": {
+            "en-US": "Sermon 43"
+          },
+          "match": "v03-ch060"
+        },
+        {
+          "id": "ch044",
+          "title": {
+            "en-US": "Sermon 44"
+          },
+          "match": "v03-ch061"
+        },
+        {
+          "id": "ch045",
+          "title": {
+            "en-US": "Sermon 45"
+          },
+          "match": "v04-ch002"
+        },
+        {
+          "id": "ch046",
+          "title": {
+            "en-US": "Sermon 46"
+          },
+          "match": "v04-ch003"
+        },
+        {
+          "id": "ch047",
+          "title": {
+            "en-US": "Sermon 47"
+          },
+          "match": "v04-ch004"
+        },
+        {
+          "id": "ch048",
+          "title": {
+            "en-US": "Sermon 48"
+          },
+          "match": "v04-ch006"
+        },
+        {
+          "id": "ch049",
+          "title": {
+            "en-US": "Sermon 49"
+          },
+          "match": "v04-ch007"
+        },
+        {
+          "id": "ch050",
+          "title": {
+            "en-US": "Sermon 50"
+          },
+          "match": "v04-ch008"
+        },
+        {
+          "id": "ch051",
+          "title": {
+            "en-US": "Sermon 51"
+          },
+          "match": "v04-ch009"
+        },
+        {
+          "id": "ch052",
+          "title": {
+            "en-US": "Sermon 52"
+          },
+          "match": "v04-ch010"
+        },
+        {
+          "id": "ch053",
+          "title": {
+            "en-US": "Sermon 53"
+          },
+          "match": "v04-ch011"
+        },
+        {
+          "id": "ch054",
+          "title": {
+            "en-US": "Sermon 54"
+          },
+          "match": "v04-ch012"
+        },
+        {
+          "id": "ch055",
+          "title": {
+            "en-US": "Sermon 55"
+          },
+          "match": "v04-ch013"
+        },
+        {
+          "id": "ch056",
+          "title": {
+            "en-US": "Sermon 56"
+          },
+          "match": "v04-ch015"
+        },
+        {
+          "id": "ch057",
+          "title": {
+            "en-US": "Sermon 57"
+          },
+          "match": "v04-ch016"
+        },
+        {
+          "id": "ch058",
+          "title": {
+            "en-US": "Sermon 58"
+          },
+          "match": "v04-ch018"
+        },
+        {
+          "id": "ch059",
+          "title": {
+            "en-US": "Sermon 59"
+          },
+          "match": "v04-ch019"
+        },
+        {
+          "id": "ch060",
+          "title": {
+            "en-US": "Sermon 60"
+          },
+          "match": "v04-ch020"
+        },
+        {
+          "id": "ch061",
+          "title": {
+            "en-US": "Sermon 61"
+          },
+          "match": "v04-ch022"
+        },
+        {
+          "id": "ch062",
+          "title": {
+            "en-US": "Sermon 62"
+          },
+          "match": "v03-ch059"
+        },
+        {
+          "id": "ch063",
+          "title": {
+            "en-US": "Sermon 63"
+          },
+          "match": "v04-ch025"
+        },
+        {
+          "id": "ch064",
+          "title": {
+            "en-US": "Sermon 64"
+          },
+          "match": "v04-ch028"
+        },
+        {
+          "id": "ch065",
+          "title": {
+            "en-US": "Sermon 65"
+          },
+          "match": "v04-ch031"
+        },
+        {
+          "id": "ch066",
+          "title": {
+            "en-US": "Sermon 66"
+          },
+          "match": "v04-ch032"
+        },
+        {
+          "id": "ch067",
+          "title": {
+            "en-US": "Sermon 67"
+          },
+          "match": "v04-ch033"
+        },
+        {
+          "id": "ch068",
+          "title": {
+            "en-US": "Sermon 68"
+          },
+          "match": "v04-ch034"
+        },
+        {
+          "id": "ch069",
+          "title": {
+            "en-US": "Sermon 69"
+          },
+          "match": "v04-ch035"
+        },
+        {
+          "id": "ch070",
+          "title": {
+            "en-US": "Sermon 70"
+          },
+          "match": "v04-ch036"
+        },
+        {
+          "id": "ch071",
+          "title": {
+            "en-US": "Sermon 71"
+          },
+          "match": "v04-ch037"
+        },
+        {
+          "id": "ch072",
+          "title": {
+            "en-US": "Sermon 72"
+          },
+          "match": "v04-ch038"
+        },
+        {
+          "id": "ch073",
+          "title": {
+            "en-US": "Sermon 73"
+          },
+          "match": "v04-ch039"
+        },
+        {
+          "id": "ch074",
+          "title": {
+            "en-US": "Sermon 74"
+          },
+          "match": "v04-ch040"
+        },
+        {
+          "id": "ch075",
+          "title": {
+            "en-US": "Sermon 75"
+          },
+          "match": "v04-ch041"
+        },
+        {
+          "id": "ch076",
+          "title": {
+            "en-US": "Sermon 76"
+          },
+          "match": "v04-ch043"
+        },
+        {
+          "id": "ch077",
+          "title": {
+            "en-US": "Sermon 77"
+          },
+          "match": "v04-ch044"
+        },
+        {
+          "id": "ch078",
+          "title": {
+            "en-US": "Sermon 78"
+          },
+          "match": "v04-ch045"
+        },
+        {
+          "id": "ch079",
+          "title": {
+            "en-US": "Sermon 79"
+          },
+          "match": "v04-ch046"
+        },
+        {
+          "id": "ch080",
+          "title": {
+            "en-US": "Sermon 80"
+          },
+          "match": "v04-ch047"
+        },
+        {
+          "id": "ch081",
+          "title": {
+            "en-US": "Sermon 81"
+          },
+          "match": "v04-ch049"
+        },
+        {
+          "id": "ch082",
+          "title": {
+            "en-US": "Sermon 82"
+          },
+          "match": "v04-ch050"
+        },
+        {
+          "id": "ch083",
+          "title": {
+            "en-US": "Sermon 83"
+          },
+          "match": "v04-ch052"
+        },
+        {
+          "id": "ch084",
+          "title": {
+            "en-US": "Sermon 84"
+          },
+          "match": "v04-ch053"
+        },
+        {
+          "id": "ch085",
+          "title": {
+            "en-US": "Sermon 85"
+          },
+          "match": "v04-ch054"
+        },
+        {
+          "id": "ch086",
+          "title": {
+            "en-US": "Sermon 86"
+          },
+          "match": "v04-ch055"
+        },
+        {
+          "id": "ch087",
+          "title": {
+            "en-US": "Sermon 87"
+          },
+          "match": "v04-ch059"
+        },
+        {
+          "id": "ch088",
+          "title": {
+            "en-US": "Sermon 88"
+          },
+          "match": "v04-ch060"
+        },
+        {
+          "id": "ch089",
+          "title": {
+            "en-US": "Sermon 89"
+          },
+          "match": "v04-ch061"
+        },
+        {
+          "id": "ch090",
+          "title": {
+            "en-US": "Sermon 90"
+          },
+          "match": "v04-ch063"
+        },
+        {
+          "id": "ch091",
+          "title": {
+            "en-US": "Sermon 91"
+          },
+          "match": "v04-ch065"
+        },
+        {
+          "id": "ch092",
+          "title": {
+            "en-US": "Sermon 92"
+          },
+          "match": "v04-ch066"
+        },
+        {
+          "id": "ch093",
+          "title": {
+            "en-US": "Sermon 93"
+          },
+          "match": "v04-ch068"
+        },
+        {
+          "id": "ch094",
+          "title": {
+            "en-US": "Sermon 94"
+          },
+          "match": "v04-ch069"
+        },
+        {
+          "id": "ch095",
+          "title": {
+            "en-US": "Sermon 95"
+          },
+          "match": "v04-ch070"
+        },
+        {
+          "id": "ch096",
+          "title": {
+            "en-US": "Sermon 96"
+          },
+          "match": "v04-ch072"
+        },
+        {
+          "id": "ch097",
+          "title": {
+            "en-US": "Sermon 97"
+          },
+          "match": "v04-ch073"
+        }
+      ]
+    }
   ]
 }

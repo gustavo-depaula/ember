@@ -59,5 +59,30 @@
         "es-419": "Contra la mentira"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1313.htm",
+          "description": "Translated by H. Browne. From Nicene and Post-Nicene Fathers, First Series, Vol. 3, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Browne (NPNF, 1887)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "To Consentius: Against Lying"
+          },
+          "match": "ch001"
+        }
+      ]
+    }
   ]
 }

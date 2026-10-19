@@ -16,7 +16,8 @@ import { enrichSnippet, type SearchResult, searchBookContent } from './searchBoo
 type Props = {
   open: boolean
   onClose: () => void
-  bookId: string
+  /** The book, or the version of it, read (features/books/editions.ts). */
+  readingKey: string
   lang: string
   manifest: BookEntry | undefined
   session: BookSession | undefined
@@ -34,7 +35,7 @@ const SNIPPET_LIMIT = 50
 export function ReaderSearchSheet({
   open,
   onClose,
-  bookId,
+  readingKey,
   lang,
   manifest,
   session,
@@ -51,9 +52,10 @@ export function ReaderSearchSheet({
   const debouncedQuery = useDebounced(query, QUERY_DEBOUNCE_MS)
 
   // Search index is heavy (≈12 MB for the encyclopedia); only fetch when the
-  // sheet is actually open. Cache forever per (bookId, lang).
+  // sheet is actually open. Cache forever per (reading key, lang): two
+  // versions of a book have their own index in one language.
   const { data: index, isLoading: indexLoading } = useQuery({
-    queryKey: ['book-search-index', bookId, lang],
+    queryKey: ['book-search-index', readingKey, lang],
     queryFn: () => loadSearchIndex(manifest as BookEntry, lang),
     enabled: open && !!manifest?.searchIndex?.[lang],
     staleTime: Number.POSITIVE_INFINITY,

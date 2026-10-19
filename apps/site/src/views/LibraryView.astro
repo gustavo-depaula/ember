@@ -51,7 +51,7 @@ const doors: { count: number; title: string; hint: string; to: string; art: stri
     hint: t('search.booksHint'),
     to: href.section(locale, 'books'),
     art: [],
-    covers: ['book/kempis-imitation-of-christ', 'book/augustine-confessions', 'book/sales-introduction-to-the-devout-life'].flatMap((id) => {
+    covers: ['book/kempis-imitation-of-christ', 'book/augustine-confessiones', 'book/sales-introduction-to-the-devout-life'].flatMap((id) => {
       const entry = getEntry(id)
       const cover = entry && coverFor(entry)
       return entry && cover ? [{ id, cover, title: entryTitle(entry) }] : []
@@ -84,7 +84,7 @@ const readings = withLocale(locale, () =>
 const featuredBooks = withLocale(locale, () =>
   [
     'book/kempis-imitation-of-christ',
-    'book/augustine-confessions',
+    'book/augustine-confessiones',
     'book/sales-introduction-to-the-devout-life',
     'book/montfort-true-devotion',
     'book/trent-catechism',

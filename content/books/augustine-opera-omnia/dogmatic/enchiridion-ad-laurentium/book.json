@@ -68,5 +68,38 @@
         "es-419": "Libro I"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US",
+        "pt-BR"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1302.htm",
+          "description": "Translated by J.F. Shaw. From Nicene and Post-Nicene Fathers, First Series, Vol. 3, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Shaw (NPNF, 1887)"
+        },
+        {
+          "language": "pt-BR",
+          "url": "http://www.newadvent.org/fathers/1302.htm",
+          "description": "Portuguese translation by Claude of the English of J.F. Shaw (Nicene and Post-Nicene Fathers), reviewed in several rounds against it.",
+          "label": "Claude, from Shaw (NPNF)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "The Enchiridion",
+            "pt-BR": "O Enquirídio"
+          },
+          "match": "ch002"
+        }
+      ]
+    }
   ]
 }

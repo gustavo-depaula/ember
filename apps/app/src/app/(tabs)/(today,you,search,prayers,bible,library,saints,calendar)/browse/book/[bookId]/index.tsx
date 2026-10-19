@@ -12,8 +12,10 @@ import { Typography } from '@/components/typography'
 import { ZoomLink } from '@/components/ZoomLink'
 import type { TocNode } from '@/content/manifestTypes'
 import { getCursor } from '@/db/repositories'
+import { bookCursorId } from '@/db/repositories/cursors'
 import { BookHero } from '@/features/books/BookHero'
 import { EditionSelector } from '@/features/books/EditionSelector'
+import { readingKey } from '@/features/books/editions'
 import { useBookEdition, useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
@@ -77,9 +79,19 @@ export default function BookDetailScreen() {
   const bookRef = `book/${bookId}`
   // Resolve the manifest on demand; the catalog hints (`entry`) carry the title
   // and languages meanwhile.
-  const { data: book, entry } = useBookManifest(bookId)
+  const { data: manifest, entry } = useBookManifest(bookId)
 
-  const { edition: lang, editions, setEdition } = useBookEdition(bookId, book, entry?.langs)
+  // The book as the chosen edition's version presents it: its contents,
+  // and the reading state kept for that text.
+  const {
+    lang,
+    version,
+    edition,
+    editions,
+    view: book,
+    setEdition,
+  } = useBookEdition(bookId, manifest, entry?.langs)
+  const key = bookId ? readingKey(bookId, version) : undefined
 
   const { flow: leaves, readableIds } = useReadingFlow(book, lang)
   const titleLookup = useMemo(
@@ -95,11 +107,8 @@ export default function BookDetailScreen() {
     [book?.toc],
   )
 
-  const completed = useMemo(
-    () => (bookId ? listCompletedChapters(bookId) : new Set<string>()),
-    [bookId],
-  )
-  const chapterMinutes = useMemo(() => (bookId ? loadChapterMinutes(bookId) : undefined), [bookId])
+  const completed = useMemo(() => (key ? listCompletedChapters(key) : new Set<string>()), [key])
+  const chapterMinutes = useMemo(() => (key ? loadChapterMinutes(key) : undefined), [key])
   const readingTimeMs = useMemo(() => (bookId ? getReadingTimeMs(bookId) : 0), [bookId])
   const streakDays = useMemo(() => (bookId ? getReadingStreak(bookId) : 0), [bookId])
   const minutesRemaining = useMemo(() => {
@@ -113,7 +122,7 @@ export default function BookDetailScreen() {
     return total > 0 ? total : undefined
   }, [chapterMinutes, leaves, completed])
 
-  const cursor = getCursor(bookRef)
+  const cursor = key ? getCursor(bookCursorId(key)) : undefined
   const position = cursor ? parseReaderPosition(cursor.position) : undefined
   const resumeChapterId = position?.chapterId
 
@@ -212,7 +221,11 @@ export default function BookDetailScreen() {
         kind="book"
         onAddToCollection={() => setAddingToCollection(true)}
       />
-      <EditionSelector editions={editions} edition={lang} onChange={(id) => void setEdition(id)} />
+      <EditionSelector
+        editions={editions}
+        edition={edition}
+        onChange={(id) => void setEdition(id)}
+      />
     </>
   )
   const progress = progressFraction > 0 && (

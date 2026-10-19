@@ -8,7 +8,7 @@ import { useEventStore } from '@/db/events/state'
 import { bookIdFromCursorId } from '@/db/repositories/cursors'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { resolveEdition } from './editions'
+import { bookEditions, parseReadingKey, resolveEdition, versionView } from './editions'
 import { bookEditionQuery, bookManifestQuery } from './hooks'
 import { buildTitleLookup, flattenReadingFlow } from './reader/bookContent'
 import { chapterCompleteFraction } from './reader/chapterCompletions'
@@ -17,7 +17,14 @@ import { parseReaderPosition } from './reader/useReaderCursor'
 // Beyond this, older books aren't worth a manifest load on every Today boot.
 const maxBooks = 10
 
-type Started = { bookId: string; chapterId: string; nearEnd: boolean; updatedAt: number }
+type Started = {
+  bookId: string
+  /** The version read, if not the main text. */
+  version?: string
+  chapterId: string
+  nearEnd: boolean
+  updatedAt: number
+}
 
 /**
  * A line per book with a reading position, most recent first. The reader saves
@@ -29,18 +36,20 @@ type Started = { bookId: string; chapterId: string; nearEnd: boolean; updatedAt:
 function selectStarted(cursors: Map<string, { position: string }>): string {
   const started: Started[] = []
   for (const [id, cursor] of cursors) {
-    const bookId = bookIdFromCursorId(id)
-    const position = bookId ? parseReaderPosition(cursor.position) : undefined
-    if (!bookId || !position) continue
+    const key = bookIdFromCursorId(id)
+    const position = key ? parseReaderPosition(cursor.position) : undefined
+    if (!key || !position) continue
     started.push({
-      bookId,
+      ...parseReadingKey(key),
       chapterId: position.chapterId,
       nearEnd: position.fraction >= chapterCompleteFraction,
       updatedAt: Math.floor((position.updatedAt ?? 0) / 60_000) * 60_000,
     })
   }
   started.sort((a, b) => b.updatedAt - a.updatedAt)
-  return JSON.stringify(started)
+  // One line per book: the text read last.
+  const seen = new Set<string>()
+  return JSON.stringify(started.filter((s) => !seen.has(s.bookId) && seen.add(s.bookId)))
 }
 
 const manifestsOf = (results: QueryObserverResult<BookEntry>[]) => results.map((r) => r.data)
@@ -76,15 +85,16 @@ export function useBooksInProgress() {
 
   return useMemo(
     () =>
-      started.flatMap(({ bookId, entry, chapterId, nearEnd, updatedAt }, i) => {
+      started.flatMap(({ bookId, version, entry, chapterId, nearEnd, updatedAt }, i) => {
         // Until the manifest lands we can't tell a finished book from one in progress.
-        const book = manifests[i]
-        if (!book?.toc) return []
-        const lang = resolveEdition(
-          book.languages ?? entry.langs ?? [],
-          chosen[i] ?? undefined,
-          contentLanguage,
-        )
+        const manifest = manifests[i]
+        if (!manifest?.toc) return []
+        // Titles and the last page are those of the text read there.
+        const book = versionView(manifest, version)
+        if (!book.toc) return []
+        const editions = bookEditions(manifest).filter((e) => e.version === version)
+        const lang =
+          resolveEdition(editions, chosen[i] ?? undefined, contentLanguage)?.language ?? 'en-US'
         const flow = flattenReadingFlow(book.toc, book, lang)
         if (nearEnd && flow.at(-1)?.id === chapterId) return []
         const chapterTitle = buildTitleLookup(book.toc, lang).get(chapterId)

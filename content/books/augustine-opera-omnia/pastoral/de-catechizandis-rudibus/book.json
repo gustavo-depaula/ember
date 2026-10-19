@@ -59,5 +59,38 @@
         "es-419": "La catequesis de los principiantes"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US",
+        "pt-BR"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1303.htm",
+          "description": "Translated by S.D.F. Salmond. From Nicene and Post-Nicene Fathers, First Series, Vol. 3, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Salmond (NPNF, 1887)"
+        },
+        {
+          "language": "pt-BR",
+          "url": "http://www.newadvent.org/fathers/1303.htm",
+          "description": "Portuguese translation by Claude of the English of S.D.F. Salmond (Nicene and Post-Nicene Fathers), reviewed in several rounds against it.",
+          "label": "Claude, from Salmond (NPNF)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "On the Catechising of the Uninstructed",
+            "pt-BR": "Sobre a Catequese dos Principiantes"
+          },
+          "match": "ch001"
+        }
+      ]
+    }
   ]
 }

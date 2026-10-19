@@ -68,5 +68,46 @@
         "es-419": "Libro II"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US",
+        "pt-BR"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1703.htm",
+          "description": "Translated by C.C. Starbuck. From Nicene and Post-Nicene Fathers, First Series, Vol. 7, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Starbuck (NPNF, 1888)"
+        },
+        {
+          "language": "pt-BR",
+          "url": "http://www.newadvent.org/fathers/1703.htm",
+          "description": "Portuguese translation by Claude of the English of C.C. Starbuck (Nicene and Post-Nicene Fathers), reviewed in several rounds against it.",
+          "label": "Claude, from Starbuck (NPNF)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Book I",
+            "pt-BR": "Livro I"
+          },
+          "match": "ch001"
+        },
+        {
+          "id": "ch002",
+          "title": {
+            "en-US": "Book II",
+            "pt-BR": "Livro II"
+          },
+          "match": "ch002"
+        }
+      ]
+    }
   ]
 }

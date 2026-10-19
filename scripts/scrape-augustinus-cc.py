@@ -41,24 +41,35 @@ CACHE = ROOT / "scripts" / "_cache" / "augustinus-cc"
 BASE = "https://augustinus.cc"
 USER_AGENT = "Mozilla/5.0 (compatible; EmberAugustineImporter/1.0; +https://github.com/gustavo-depaula/ember)"
 
-# Corpus rendition → (augustinus.cc document name, picker label, provenance
-# note, site path language). A second translation in one language takes a
-# BCP 47 private-use tag, `en-US-x-pusey`: the corpus keys chapters,
-# search indexes and catalog languages by this string, and readers strip
-# the `-x-` part wherever they need the language itself.
+# Rendition → (augustinus.cc document name, picker label, provenance note,
+# site path language). A rendition is a language of the book's main text
+# (`en-US`), or of one of its other versions (`pusey/en-US`): an older
+# translation is its own version, with its own TOC, read from
+# `versions/<id>/<lang>/` (docs/content/book-format.md).
 RENDITIONS = {
     "la": ("Latin", None, "Latin text (public domain), mirrored from augustinus.cc.", "la"),
     "en-US": ("English - Aquinas Institute", "Aquinas Institute", "English translation by the Aquinas Institute, mirrored from augustinus.cc.", "en"),
     "pt-BR": ("Português - Aquinas Institute", "Aquinas Institute", "Portuguese translation by the Aquinas Institute, mirrored from augustinus.cc.", "pt"),
     "es-419": ("Español - Aquinas Institute", "Aquinas Institute", "Spanish translation by the Aquinas Institute, mirrored from augustinus.cc.", "es"),
-    "en-US-x-pilkington": ("English - Pilkington", "J. G. Pilkington (1876)", "English translation by J. G. Pilkington (1876), as in the Nicene and Post-Nicene Fathers (public domain); mirrored from augustinus.cc.", "en"),
-    "en-US-x-pusey": ("English - Pusey", "E. B. Pusey (1838)", "English translation by E. B. Pusey, Library of the Fathers (1838, public domain); mirrored from augustinus.cc.", "en"),
-    "en-US-x-outler": ("English - Outler", "Albert C. Outler (1955)", "English translation by Albert C. Outler (1955); mirrored from augustinus.cc.", "en"),
+    "pilkington/en-US": ("English - Pilkington", "J. G. Pilkington (1876)", "English translation by J. G. Pilkington (1876), as in the Nicene and Post-Nicene Fathers (public domain); mirrored from augustinus.cc.", "en"),
+    "pusey/en-US": ("English - Pusey", "E. B. Pusey (1838)", "English translation by E. B. Pusey, Library of the Fathers (1838, public domain); mirrored from augustinus.cc.", "en"),
 }
+# Outler's Confessions (also on augustinus.cc) come from the CCEL edition
+# instead, which adds his introduction and has a Portuguese translation:
+# scripts/merge-npnf-augustine.py.
 
 
 def base_lang(rendition: str) -> str:
-    return rendition.split("-x-")[0]
+    return rendition.split("/")[-1]
+
+
+def version_of(rendition: str) -> str | None:
+    return rendition.split("/")[0] if "/" in rendition else None
+
+
+def rendition_dir(out_dir: Path, rendition: str) -> Path:
+    v = version_of(rendition)
+    return out_dir / "versions" / v / base_lang(rendition) if v else out_dir / rendition
 
 
 session = requests.Session()
@@ -373,6 +384,7 @@ def header_level(style: str) -> int | None:
 def classify(styles: str, en: list[str], series: bool) -> list[tuple[str, int]]:
     """(kind, level) per row: kind is skip | head | doc | body | quote | list."""
     out: list[tuple[str, int]] = [("skip", 0)]  # row 0 is the work's title
+    styled: list[int] = []  # levels of the style string's own header rows
     for i in range(1, len(styles)):
         style, text = styles[i], plain(en[i])
         if not text:
@@ -383,6 +395,7 @@ def classify(styles: str, en: list[str], series: bool) -> list[tuple[str, int]]:
         # a header that runs to prose length is body text.
         if level is not None and len(text) <= (120 if style == "a" else 300):
             out.append(("head", level))
+            styled.append(level)
         elif series and DOC_LABEL_RE.match(en[i]):
             out.append(("doc", PSEUDO_LEVEL))
         elif WHOLE_BOLD_RE.match(en[i]):
@@ -395,9 +408,8 @@ def classify(styles: str, en: list[str], series: bool) -> list[tuple[str, int]]:
             out.append(("body", 0))
     # In a volume with real header rows ("Exposition of Psalm 18"), a
     # document label in the text ("On the Same Psalm 18") is their sibling.
-    real = [lv for k, lv in out if k == "head"]
-    if real:
-        out = [("doc", min(real)) if k == "doc" else (k, lv) for k, lv in out]
+    if styled:
+        out = [("doc", min(styled)) if k == "doc" else (k, lv) for k, lv in out]
     return out
 
 
@@ -835,12 +847,7 @@ def emit_units(units: list[Unit], docs, kinds, out_dir: Path, prefix: str, book_
                 title[lang] = f"{base} ({k})"
                 k += 1
             used.add((lang, title[lang]))
-        labels = {lang: toc_label(title[lang]) for lang in docs}
-        # A second translation's label is stored only where it differs from
-        # its language's, which the reader falls back to.
-        node = {"id": node_id, "title": {
-            lang: t for lang, t in labels.items() if lang == base_lang(lang) or t != labels.get(base_lang(lang))
-        }}
+        node = {"id": node_id, "title": {lang: toc_label(title[lang]) for lang in docs}}
         if unit.children:
             node["children"] = emit_units(unit.children, docs, kinds, out_dir, f"{node_id}-", title, used, written)
         else:
@@ -851,43 +858,60 @@ def emit_units(units: list[Unit], docs, kinds, out_dir: Path, prefix: str, book_
                     continue
                 notes: list[str] = []
                 md = render_unit(unit, docs[lang], kinds, title[lang], notes)
-                (out_dir / lang).mkdir(parents=True, exist_ok=True)
-                (out_dir / lang / f"{node_id}.md").write_text(md, encoding="utf-8")
+                dest = rendition_dir(out_dir, lang)
+                dest.mkdir(parents=True, exist_ok=True)
+                (dest / f"{node_id}.md").write_text(md, encoding="utf-8")
                 written.add(lang)
         toc.append(node)
     return toc
 
 
-def _source(lang: str, abbr: str) -> dict:
-    _, label, note, site = RENDITIONS[lang]
-    entry = {"language": lang, "url": f"{BASE}/{site}/{site}/~{abbr}", "description": note}
+def _source(rendition: str, abbr: str) -> dict:
+    _, label, note, site = RENDITIONS[rendition]
+    entry = {"language": base_lang(rendition), "url": f"{BASE}/{site}/{site}/~{abbr}", "description": note}
     return {**entry, "label": label} if label else entry
 
 
-def write_book(out_dir: Path, book_id: str, names: dict, langs: list[str], sources: list[dict], toc: list[dict]) -> None:
-    """Write book.json. What is not this importer's — descriptions, dates,
-    and translations from elsewhere merged into the book (their language
-    directories, `languages`/`sources` entries and TOC labels) — is kept."""
+OWN_VERSIONS = {version_of(r) for r in RENDITIONS} - {None}
+
+
+def _version_toc(nodes: list[dict], langs: list[str], out_dir: Path, match: bool = False) -> list[dict]:
+    """The TOC of one version: the nodes it has pages for (or groups holding
+    them), titled in its own languages. An older translation cut like the
+    main text `match`es its nodes, so switching text keeps the reader's page."""
+    out = []
+    for node in nodes:
+        children = _version_toc(node.get("children") or [], langs, out_dir, match)
+        has_page = any((rendition_dir(out_dir, r) / f"{node['id']}.md").is_file() for r in langs)
+        if not (children or has_page):
+            continue
+        entry = {"id": node["id"], "title": {base_lang(r): node["title"][r] for r in langs if r in node["title"]}}
+        if match:
+            entry["match"] = node["id"]
+        if children:
+            entry["children"] = children
+        out.append(entry)
+    return out
+
+
+def write_book(out_dir: Path, book_id: str, names: dict, renditions: list[str], abbr: str, toc: list[dict]) -> None:
+    """Write book.json: the main text at the top level, the older
+    translations augustinus.cc carries as `versions`. What is not this
+    importer's — descriptions, dates, versions merged in from elsewhere — is
+    kept."""
     meta_path = out_dir / "book.json"
     old = json.loads(meta_path.read_text()) if meta_path.is_file() else {}
-    foreign_langs = [lang for lang in old.get("languages", []) if lang not in RENDITIONS]
-    foreign_sources = [src for src in old.get("sources", []) if src["language"] not in RENDITIONS]
-    old_titles: dict[str, dict] = {}
-
-    def index(nodes):
-        for node in nodes:
-            old_titles[node["id"]] = node["title"]
-            index(node.get("children") or [])
-
-    def merge(nodes):
-        for node in nodes:
-            for lang, t in old_titles.get(node["id"], {}).items():
-                if lang not in RENDITIONS:
-                    node["title"][lang] = t
-            merge(node.get("children") or [])
-
-    index(old.get("toc", []))
-    merge(toc)
+    main = [r for r in renditions if version_of(r) is None]
+    versions = []
+    for v in sorted({version_of(r) for r in renditions} - {None}):
+        langs = [r for r in renditions if version_of(r) == v]
+        versions.append({
+            "id": v,
+            "languages": [base_lang(r) for r in langs],
+            "sources": [_source(r, abbr) for r in langs],
+            "toc": _version_toc(toc, langs, out_dir, match=True),
+        })
+    versions += [v for v in old.get("versions", []) if v["id"] not in OWN_VERSIONS]
     meta = {
         "id": book_id,
         "cover": "label",
@@ -895,16 +919,17 @@ def write_book(out_dir: Path, book_id: str, names: dict, langs: list[str], sourc
         "author": AUTHOR,
         **({"description": old["description"]} if "description" in old else {}),
         **({"composed": old["composed"]} if "composed" in old else {}),
-        "languages": langs + foreign_langs,
-        "sources": sources + foreign_sources,
-        "toc": toc,
+        "languages": main,
+        "sources": [_source(r, abbr) for r in main],
+        "toc": _version_toc(toc, main, out_dir),
+        **({"versions": versions} if versions else {}),
     }
     meta_path.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
 def _reset(out_dir: Path) -> None:
-    for lang in RENDITIONS:
-        d = out_dir / lang
+    for rendition in RENDITIONS:
+        d = rendition_dir(out_dir, rendition)
         if d.is_dir():
             for f in d.glob("*.md"):
                 f.unlink()
@@ -920,8 +945,7 @@ def build_work(abbr: str) -> None:
     _reset(out_dir)
     written: set[str] = set()
     toc = emit_units(units, docs, kinds, out_dir, "", names, set(), written)
-    langs = [lang for lang in docs if lang in written]
-    write_book(out_dir, f"augustine-{slug}", names, langs, [_source(lang, abbr) for lang in langs], toc)
+    write_book(out_dir, f"augustine-{slug}", names, [r for r in docs if r in written], abbr, toc)
 
 
 def build_series(series_id: str) -> None:
@@ -936,9 +960,8 @@ def build_series(series_id: str) -> None:
         prefix = f"v{n:02d}-"
         toc.append({"id": f"v{n:02d}", "title": vtitle,
                     "children": emit_units(units, docs, kinds, out_dir, prefix, vtitle, used, written)})
-    langs = [lang for lang in RENDITIONS if lang in written]
     names = {"la": la, "en-US": en, "pt-BR": pt, "es-419": es}
-    write_book(out_dir, f"augustine-{series_id}", names, langs, [_source(lang, volumes[0][0]) for lang in langs], toc)
+    write_book(out_dir, f"augustine-{series_id}", names, [r for r in RENDITIONS if r in written], volumes[0][0], toc)
 
 
 def build(targets: list[str]) -> None:

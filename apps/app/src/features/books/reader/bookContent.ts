@@ -4,7 +4,7 @@ import { findBookImage, loadBook, loadChapterSource } from '@/content/books'
 import type { BookEntry } from '@/content/manifestTypes'
 import type { TocNode } from '@/content/resolver'
 import { getBlob, getText } from '@/content/store'
-import { baseLanguage } from '@/features/books/editions'
+import { versionView } from '@/features/books/editions'
 import { galleryExtension } from '@/features/books/markedGalleryExtension'
 
 const md = new Marked().use(markedFootnote()).use(galleryExtension())
@@ -146,11 +146,9 @@ export function nearestLeafIndex(
   return walk(toc)
 }
 
-/** A node's title in `lang` — for a second translation, its language's title
- *  unless it sets its own — falling back to the first language present. */
+/** A node's title in `lang`, falling back to the first language present. */
 export function localizedTitle(title: TocNode['title'], lang: string): string | undefined {
-  const titles = title as Record<string, string>
-  return titles[lang] ?? titles[baseLanguage(lang)] ?? Object.values(title)[0]
+  return (title as Record<string, string>)[lang] ?? Object.values(title)[0]
 }
 
 export function buildTitleLookup(toc: TocNode[], lang: string): Map<string, string> {
@@ -326,10 +324,11 @@ async function inlineChapterImages(
 export async function openBookSession(
   bookId: string,
   lang: string,
+  version?: string,
 ): Promise<BookSession | undefined> {
   const book = await loadBook(bookId)
   if (!book) return undefined
-  const manifest: BookEntry = book
+  const manifest: BookEntry = versionView(book, version)
   const css = manifest.style ? await getText(manifest.style.hash).catch(() => '') : ''
 
   // Reading flow drives both the index→id map and the per-index role used to

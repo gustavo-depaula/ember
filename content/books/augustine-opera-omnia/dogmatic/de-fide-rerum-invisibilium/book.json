@@ -59,5 +59,38 @@
         "es-419": "La fe en las cosas que no se ven"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US",
+        "pt-BR"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1305.htm",
+          "description": "Translated by C.L. Cornish. From Nicene and Post-Nicene Fathers, First Series, Vol. 3, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Cornish (NPNF, 1887)"
+        },
+        {
+          "language": "pt-BR",
+          "url": "http://www.newadvent.org/fathers/1305.htm",
+          "description": "Portuguese translation by Claude of the English of C.L. Cornish (Nicene and Post-Nicene Fathers), reviewed in several rounds against it.",
+          "label": "Claude, from Cornish (NPNF)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Concerning Faith of Things Not Seen",
+            "pt-BR": "Sobre a Fé nas Coisas que Não se Veem"
+          },
+          "match": "ch001"
+        }
+      ]
+    }
   ]
 }

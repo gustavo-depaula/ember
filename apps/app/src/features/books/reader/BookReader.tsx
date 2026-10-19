@@ -12,7 +12,8 @@ import { GlassSurface } from '@/components/GlassSurface'
 import { ReaderErrorState } from '@/components/ReaderErrorState'
 import { type ReaderPaletteId, resolvePalette } from '@/config/readerPalettes'
 import { getBookCatalogEntry, loadBook } from '@/content/books'
-import { type BookEdition, baseLanguage } from '@/features/books/editions'
+import { bookCursorId, setCursor } from '@/db/repositories/cursors'
+import { type BookEdition, matchingNode, readingKey, versionView } from '@/features/books/editions'
 import { useBookEdition, useBookManifest } from '@/features/books/hooks'
 import { lightTap, selectionTick, successBuzz } from '@/lib/haptics'
 import { stripHtml } from '@/lib/html'
@@ -175,7 +176,11 @@ function LoadingPane({
 export function BookReader({ bookId, chapter }: Props) {
   const router = useRouter()
   const { data: bookEntry, entry } = useBookManifest(bookId)
-  const { edition, editions, setEdition, ready } = useBookEdition(bookId, bookEntry, entry?.langs)
+  const { edition, lang, version, editions, setEdition, ready } = useBookEdition(
+    bookId,
+    bookEntry,
+    entry?.langs,
+  )
   const [switched, setSwitched] = useState(false)
   const onEdition = useCallback(
     async (next: string) => {
@@ -198,7 +203,9 @@ export function BookReader({ bookId, chapter }: Props) {
       key={edition}
       bookId={bookId}
       chapter={switched ? undefined : chapter}
-      lang={edition}
+      lang={lang}
+      version={version}
+      edition={edition}
       editions={editions}
       onEdition={onEdition}
     />
@@ -223,10 +230,14 @@ function EditionReader({
   bookId,
   chapter,
   lang,
+  version,
+  edition,
   editions,
   onEdition,
 }: Props & {
   lang: string
+  version: string | undefined
+  edition: string
   editions: BookEdition[]
   onEdition: (edition: string) => Promise<void>
 }) {
@@ -240,11 +251,14 @@ function EditionReader({
   // Resolve on demand rather than relying on a boot-time warm, so a deep link
   // straight into the reader (no details screen first) still works.
   const {
-    data: bookEntry,
+    data: manifest,
     entry: catalogEntry,
     isError: manifestError,
     refetch: refetchManifest,
   } = useBookManifest(bookId)
+  // This edition's version of the book, and where its reading state is kept.
+  const bookEntry = useMemo(() => manifest && versionView(manifest, version), [manifest, version])
+  const key = readingKey(bookId, version)
 
   const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
 
@@ -255,7 +269,7 @@ function EditionReader({
 
   const rawConfig = useReaderConfig()
   const fontFaces = useReaderFontFaces(usePreferencesStore((s) => s.fontFamily))
-  const cursor = useReaderCursor(bookId)
+  const cursor = useReaderCursor(key)
 
   // Per-book palette override, held in state so toggling it from the settings
   // sheet re-renders without unmounting; undefined = use the global palette.
@@ -272,7 +286,7 @@ function EditionReader({
     const base = {
       ...rawConfig,
       marginPx: Math.max(rawConfig.marginPx, insets.top + 16, insets.bottom + 56),
-      lang: baseLanguage(lang),
+      lang,
     }
     if (!paletteOverride) return base
     const palette = resolvePalette(paletteOverride, rawConfig.isDark)
@@ -322,8 +336,8 @@ function EditionReader({
     isError: sessionError,
     refetch,
   } = useQuery({
-    queryKey: ['book-session', bookId, lang],
-    queryFn: () => openBookSession(bookId, lang),
+    queryKey: ['book-session', bookId, version, lang],
+    queryFn: () => openBookSession(bookId, lang, version),
     enabled: !!bookEntry && leaves.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
   })
@@ -336,7 +350,7 @@ function EditionReader({
     isLoading: initialChapterLoading,
     isError: initialChapterError,
   } = useQuery({
-    queryKey: ['book-chapter', bookId, lang, startIndex],
+    queryKey: ['book-chapter', bookId, version, lang, startIndex],
     queryFn: () => session?.getChapter(startIndex),
     enabled: !!session && cursor.initial.loaded && leaves.length > 0,
     staleTime: Number.POSITIVE_INFINITY,
@@ -358,18 +372,18 @@ function EditionReader({
       if (persistTimeoutRef.current) return
       persistTimeoutRef.current = setTimeout(() => {
         persistTimeoutRef.current = undefined
-        void persistChapterTimings(bookId, new Map(chapterTimingsRef.current))
+        void persistChapterTimings(key, new Map(chapterTimingsRef.current))
       }, 5_000)
     },
-    [bookId],
+    [key],
   )
   useEffect(
     () => () => {
       if (!persistTimeoutRef.current) return
       clearTimeout(persistTimeoutRef.current)
-      void persistChapterTimings(bookId, new Map(chapterTimingsRef.current))
+      void persistChapterTimings(key, new Map(chapterTimingsRef.current))
     },
-    [bookId],
+    [key],
   )
 
   const [chapterIndex, setChapterIndex] = useState(0)
@@ -380,26 +394,26 @@ function EditionReader({
   const [sheet, setSheet] = useState<SheetKind>(null)
   const [footnoteHtml, setFootnoteHtml] = useState<string | undefined>(undefined)
   const [navStack, setNavStack] = useState<Array<{ index: number; fraction: number }>>([])
-  const [completed, setCompleted] = useState<Set<string>>(() => listCompletedChapters(bookId))
+  const [completed, setCompleted] = useState<Set<string>>(() => listCompletedChapters(key))
   // Title of the chapter that just hit 0.95; cleared after 2.5s. Drives
   // ChapterCompleteToast.
   const [justCompletedTitle, setJustCompletedTitle] = useState<string | undefined>(undefined)
-  const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => listBookmarks(bookId))
+  const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => listBookmarks(key))
   // Called after every bookmark mutation so the scrubber ticks and sheet stay
   // in sync.
   const refreshBookmarks = useCallback(() => {
-    setBookmarks(listBookmarks(bookId))
-  }, [bookId])
+    setBookmarks(listBookmarks(key))
+  }, [key])
   const bookmarkFractions = useMemo(() => {
     const id = leaves[chapterIndex]?.id
     if (!id) return undefined
     return bookmarks.filter((b) => b.chapterId === id).map((b) => b.fraction)
   }, [bookmarks, leaves, chapterIndex])
 
-  const [highlights, setHighlights] = useState<Highlight[]>(() => listHighlights(bookId))
+  const [highlights, setHighlights] = useState<Highlight[]>(() => listHighlights(key))
   const refreshHighlights = useCallback(() => {
-    setHighlights(listHighlights(bookId))
-  }, [bookId])
+    setHighlights(listHighlights(key))
+  }, [key])
   // Both the optimistic single-paint path and the bulk replay map through here
   // so the WebView always sees the same shape.
   const toBootstrapPayload = useCallback(
@@ -625,7 +639,7 @@ function EditionReader({
               justMarkedRef.current.add(chapterId)
               sessionChaptersDoneRef.current += 1
               const completedTitle = titleLookup.get(chapterId)
-              void markChapterCompleted(bookId, chapterId).then(() => {
+              void markChapterCompleted(key, chapterId).then(() => {
                 void successBuzz()
                 setCompleted((s) => (s.has(chapterId) ? s : new Set(s).add(chapterId)))
                 if (completedTitle) setJustCompletedTitle(completedTitle)
@@ -741,6 +755,7 @@ function EditionReader({
       setEditingHighlightId,
       session,
       recordTiming,
+      key,
     ],
   )
 
@@ -793,20 +808,32 @@ function EditionReader({
   const { flush: flushCursor } = cursor
   const switchEdition = useCallback(
     async (next: string) => {
-      if (next === lang) return
+      if (next === edition) return
       setSheet(null)
       await flushCursor()
+      // Another version keeps its own place, unless the page here has a
+      // counterpart there (`match`), where it then opens.
+      const target = editions.find((e) => e.id === next)
+      if (manifest && currentChapterId && target && target.version !== version) {
+        const landing = matchingNode(manifest, version, currentChapterId, target.version)
+        if (landing) {
+          await setCursor(
+            bookCursorId(readingKey(bookId, target.version)),
+            JSON.stringify({ chapterId: landing, fraction: 0, updatedAt: Date.now() }),
+          )
+        }
+      }
       await onEdition(next)
     },
-    [lang, flushCursor, onEdition],
+    [edition, editions, manifest, currentChapterId, version, bookId, flushCursor, onEdition],
   )
   const currentChapterTitle = currentChapterId ? titleLookup.get(currentChapterId) : undefined
   const handleAddBookmark = useCallback(async () => {
     if (!currentChapterId) return
-    await addBookmark(bookId, { chapterId: currentChapterId, fraction }, currentChapterTitle)
+    await addBookmark(key, { chapterId: currentChapterId, fraction }, currentChapterTitle)
     refreshBookmarks()
     void successBuzz()
-  }, [bookId, currentChapterId, currentChapterTitle, fraction, refreshBookmarks])
+  }, [key, currentChapterId, currentChapterTitle, fraction, refreshBookmarks])
   const handleRemoveBookmark = useCallback(
     async (cursorId: string) => {
       await removeBookmark(cursorId)
@@ -822,7 +849,7 @@ function EditionReader({
   const persistNewHighlight = useCallback(
     async (color: HighlightColor): Promise<Highlight | undefined> => {
       if (!selection || !currentChapterId) return undefined
-      const saved = await addHighlightToStore(bookId, {
+      const saved = await addHighlightToStore(key, {
         chapterId: currentChapterId,
         anchor: selection.anchor,
         text: selection.text,
@@ -838,7 +865,7 @@ function EditionReader({
       foliateRef.current?.clearSelection()
       return saved
     },
-    [bookId, currentChapterId, selection, refreshHighlights, paintHighlight],
+    [key, currentChapterId, selection, refreshHighlights, paintHighlight],
   )
 
   const handlePickColor = useCallback(
@@ -1109,7 +1136,7 @@ function EditionReader({
         open={sheet === 'menu'}
         onClose={() => setSheet(null)}
         editions={editions}
-        edition={lang}
+        edition={edition}
         onEdition={switchEdition}
         onContents={bookEntry.toc && bookEntry.toc.length > 0 ? () => setSheet('toc') : undefined}
         onSearch={() => setSheet('search')}
@@ -1161,7 +1188,7 @@ function EditionReader({
       <ReaderSearchSheet
         open={sheet === 'search'}
         onClose={() => setSheet(null)}
-        bookId={bookId}
+        readingKey={key}
         lang={lang}
         manifest={bookEntry}
         session={session}

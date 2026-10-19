@@ -266,5 +266,177 @@
         "es-419": "Libro XXII: De qué trata el libro acerca de la eternidad"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1201.htm",
+          "description": "Translated by Marcus Dods. From Nicene and Post-Nicene Fathers, First Series, Vol. 2, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Dods (NPNF, 1887)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Book 1"
+          },
+          "match": "ch003"
+        },
+        {
+          "id": "ch002",
+          "title": {
+            "en-US": "Book 2"
+          },
+          "match": "ch004"
+        },
+        {
+          "id": "ch003",
+          "title": {
+            "en-US": "Book 3"
+          },
+          "match": "ch005"
+        },
+        {
+          "id": "ch004",
+          "title": {
+            "en-US": "Book 4"
+          },
+          "match": "ch006"
+        },
+        {
+          "id": "ch005",
+          "title": {
+            "en-US": "Book 5"
+          },
+          "match": "ch007"
+        },
+        {
+          "id": "ch006",
+          "title": {
+            "en-US": "Book 6"
+          },
+          "match": "ch008"
+        },
+        {
+          "id": "ch007",
+          "title": {
+            "en-US": "Book 7"
+          },
+          "match": "ch009"
+        },
+        {
+          "id": "ch008",
+          "title": {
+            "en-US": "Book 8"
+          },
+          "match": "ch010"
+        },
+        {
+          "id": "ch009",
+          "title": {
+            "en-US": "Book 9"
+          },
+          "match": "ch011"
+        },
+        {
+          "id": "ch010",
+          "title": {
+            "en-US": "Book 10"
+          },
+          "match": "ch012"
+        },
+        {
+          "id": "ch011",
+          "title": {
+            "en-US": "Book 11"
+          },
+          "match": "ch013"
+        },
+        {
+          "id": "ch012",
+          "title": {
+            "en-US": "Book 12"
+          },
+          "match": "ch014"
+        },
+        {
+          "id": "ch013",
+          "title": {
+            "en-US": "Book 13"
+          },
+          "match": "ch015"
+        },
+        {
+          "id": "ch014",
+          "title": {
+            "en-US": "Book 14"
+          },
+          "match": "ch016"
+        },
+        {
+          "id": "ch015",
+          "title": {
+            "en-US": "Book 15"
+          },
+          "match": "ch017"
+        },
+        {
+          "id": "ch016",
+          "title": {
+            "en-US": "Book 16"
+          },
+          "match": "ch018"
+        },
+        {
+          "id": "ch017",
+          "title": {
+            "en-US": "Book 17"
+          },
+          "match": "ch019"
+        },
+        {
+          "id": "ch018",
+          "title": {
+            "en-US": "Book 18"
+          },
+          "match": "ch020"
+        },
+        {
+          "id": "ch019",
+          "title": {
+            "en-US": "Book 19"
+          },
+          "match": "ch021"
+        },
+        {
+          "id": "ch020",
+          "title": {
+            "en-US": "Book 20"
+          },
+          "match": "ch022"
+        },
+        {
+          "id": "ch021",
+          "title": {
+            "en-US": "Book 21"
+          },
+          "match": "ch023"
+        },
+        {
+          "id": "ch022",
+          "title": {
+            "en-US": "Book 22"
+          },
+          "match": "ch024"
+        }
+      ]
+    }
   ]
 }

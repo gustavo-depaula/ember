@@ -34,8 +34,7 @@
     "read": [
       {
         "refs": [
-          "book/augustine-confessions",
-          "book/augustine-confessions-schaff"
+          "book/augustine-confessiones"
         ]
       }
     ]

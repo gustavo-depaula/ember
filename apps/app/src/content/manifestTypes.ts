@@ -260,6 +260,9 @@ export type TocNode = {
   /** Range of point numbers in this chapter, shown in the TOC for books of
    *  numbered maxims (e.g. Escrivá's The Way → "1–46"). */
   pointRange?: { from: number; to: number }
+  /** In a book's other version, the main-text node this one corresponds to;
+   *  switching text lands there (features/books/editions.ts). */
+  match?: string
 }
 
 // Bundled chapters point at a content-addressed blob in Hearth; external-book
@@ -275,8 +278,8 @@ export type BookEntry = {
   composed?: number | string
   languages?: string[]
   /** Provenance per language; `label` names the translation when a language
-   *  has more than one (see features/books/editions.ts). */
-  sources?: { language: string; url?: string; description?: string; label?: string }[]
+   *  has more than one text (see features/books/editions.ts). */
+  sources?: BookSource[]
   toc?: TocNode[]
   image?: string
   style?: BlobRef
@@ -292,6 +295,20 @@ export type BookEntry = {
   anchors?: Record<string, { chapter: string; element?: string }>
   // Stemmed inverted index per language, fetched on first in-book search.
   // See scripts/build-corpus.py:build_search_index_for_book for the shape.
+  searchIndex?: Record<string, BlobRef>
+  /** Other texts of the book with their own structure — an older
+   *  translation — each read like the main text through `versionView`. */
+  versions?: BookVersion[]
+}
+
+export type BookSource = { language: string; url?: string; description?: string; label?: string }
+
+export type BookVersion = {
+  id: string
+  languages: string[]
+  sources?: BookSource[]
+  toc: TocNode[]
+  chapters: Record<string, Record<string, ChapterRef>>
   searchIndex?: Record<string, BlobRef>
 }
 

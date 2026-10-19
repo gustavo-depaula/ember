@@ -356,5 +356,254 @@
         "es-419": "Libro XXXIII"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1406.htm",
+          "description": "Translated by Richard Stothert. From Nicene and Post-Nicene Fathers, First Series, Vol. 4, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Stothert (NPNF, 1887)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Book 1"
+          },
+          "match": "ch002"
+        },
+        {
+          "id": "ch002",
+          "title": {
+            "en-US": "Book 2"
+          },
+          "match": "ch003"
+        },
+        {
+          "id": "ch003",
+          "title": {
+            "en-US": "Book 3"
+          },
+          "match": "ch004"
+        },
+        {
+          "id": "ch004",
+          "title": {
+            "en-US": "Book 4"
+          },
+          "match": "ch005"
+        },
+        {
+          "id": "ch005",
+          "title": {
+            "en-US": "Book 5"
+          },
+          "match": "ch006"
+        },
+        {
+          "id": "ch006",
+          "title": {
+            "en-US": "Book 6"
+          },
+          "match": "ch007"
+        },
+        {
+          "id": "ch007",
+          "title": {
+            "en-US": "Book 7"
+          },
+          "match": "ch008"
+        },
+        {
+          "id": "ch008",
+          "title": {
+            "en-US": "Book 8"
+          },
+          "match": "ch009"
+        },
+        {
+          "id": "ch009",
+          "title": {
+            "en-US": "Book 9"
+          },
+          "match": "ch010"
+        },
+        {
+          "id": "ch010",
+          "title": {
+            "en-US": "Book 10"
+          },
+          "match": "ch011"
+        },
+        {
+          "id": "ch011",
+          "title": {
+            "en-US": "Book 11"
+          },
+          "match": "ch012"
+        },
+        {
+          "id": "ch012",
+          "title": {
+            "en-US": "Book 12"
+          },
+          "match": "ch013"
+        },
+        {
+          "id": "ch013",
+          "title": {
+            "en-US": "Book 13"
+          },
+          "match": "ch014"
+        },
+        {
+          "id": "ch014",
+          "title": {
+            "en-US": "Book 14"
+          },
+          "match": "ch015"
+        },
+        {
+          "id": "ch015",
+          "title": {
+            "en-US": "Book 15"
+          },
+          "match": "ch016"
+        },
+        {
+          "id": "ch016",
+          "title": {
+            "en-US": "Book 16"
+          },
+          "match": "ch017"
+        },
+        {
+          "id": "ch017",
+          "title": {
+            "en-US": "Book 17"
+          },
+          "match": "ch018"
+        },
+        {
+          "id": "ch018",
+          "title": {
+            "en-US": "Book 18"
+          },
+          "match": "ch019"
+        },
+        {
+          "id": "ch019",
+          "title": {
+            "en-US": "Book 19"
+          },
+          "match": "ch020"
+        },
+        {
+          "id": "ch020",
+          "title": {
+            "en-US": "Book 20"
+          },
+          "match": "ch021"
+        },
+        {
+          "id": "ch021",
+          "title": {
+            "en-US": "Book 21"
+          },
+          "match": "ch022"
+        },
+        {
+          "id": "ch022",
+          "title": {
+            "en-US": "Book 22"
+          },
+          "match": "ch023"
+        },
+        {
+          "id": "ch023",
+          "title": {
+            "en-US": "Book 23"
+          },
+          "match": "ch024"
+        },
+        {
+          "id": "ch024",
+          "title": {
+            "en-US": "Book 24"
+          },
+          "match": "ch025"
+        },
+        {
+          "id": "ch025",
+          "title": {
+            "en-US": "Book 25"
+          },
+          "match": "ch026"
+        },
+        {
+          "id": "ch026",
+          "title": {
+            "en-US": "Book 26"
+          },
+          "match": "ch027"
+        },
+        {
+          "id": "ch027",
+          "title": {
+            "en-US": "Book 27"
+          },
+          "match": "ch028"
+        },
+        {
+          "id": "ch028",
+          "title": {
+            "en-US": "Book 28"
+          },
+          "match": "ch029"
+        },
+        {
+          "id": "ch029",
+          "title": {
+            "en-US": "Book 29"
+          },
+          "match": "ch030"
+        },
+        {
+          "id": "ch030",
+          "title": {
+            "en-US": "Book 30"
+          },
+          "match": "ch031"
+        },
+        {
+          "id": "ch031",
+          "title": {
+            "en-US": "Book 31"
+          },
+          "match": "ch032"
+        },
+        {
+          "id": "ch032",
+          "title": {
+            "en-US": "Book 32"
+          },
+          "match": "ch033"
+        },
+        {
+          "id": "ch033",
+          "title": {
+            "en-US": "Book 33"
+          },
+          "match": "ch034"
+        }
+      ]
+    }
   ]
 }

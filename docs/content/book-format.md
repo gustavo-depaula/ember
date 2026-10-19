@@ -17,15 +17,34 @@ content/books/<dir>/
 - **A `book.json` marks a book; its directory path doesn't matter.** Intermediate directories without a `book.json` are organizational only (`aquinas-opera-omnia/catena-aurea/matthew/`). The corpus id is `book.json#id`, never the path, so regrouping directories never changes catalog ids.
 - Language directories hold `.md` (primary) or `.html` chapters; if both exist for one id, `.html` wins. Filenames are the TOC node `id`, lowercase kebab-case.
 - The build skips `images/`, `fonts/`, `sources/`, any directory starting with `_` (editorial scratch like `_review`), and the loose files `translation-journal.md`, `translator-notes-log.md`, `findings.md`, `needs-human-eyes.md`.
-- Chapters in every language directory must use the same ids: alignment is per chapter, never per paragraph. An edition whose chapter structure genuinely differs is a **different book id**.
+- Chapters in every language directory must use the same ids: alignment is per chapter, never per paragraph. An edition whose chapter structure genuinely differs is a **version** of the book (below), with its own TOC.
 
 ## `book.json`
 
 The shape is `BookEntry` / `TocNode` in `apps/app/src/content/manifestTypes.ts`. Every book sets `id`, `name`, `author`, `description`, `languages`, `sources`, `toc` and `cover`; set `composed` when the date is known.
 
 - **`sources`**: `[{ language, url, description }]`, the provenance of each language's text. Several books (the Trent catechism, both Pius X catechisms, Morrow, …) align *independent historical translations*, and `sources` is where that shows.
-- **A second translation in one language** takes a BCP 47 private-use tag as its language: `en-US-x-pusey/` beside `en-US/`, listed in `languages` and given a `sources` entry with a short `label` (`"E. B. Pusey (1838)"`) that the edition picker shows. Its TOC titles fall back to the language's (`en-US`), so a node only sets `title["en-US-x-pusey"]` where the translation's own differs. It may lack chapters the book has; the reader skips them in that text. The plain tag (`en-US`) is the default text of the language. Readers choose an edition per book on the book page or in the reader menu (`apps/app/src/features/books/editions.ts`).
+- **`label`** on a `sources` entry names that text in the edition picker (`"E. B. Pusey (1838)"`). It shows only where a language has more than one text.
 - **`cover`**: the generated bound-volume format for a book without art. One of `classic`, `gilt`, `label`, `quarter`, `arch`, `watermark`, `banded`, `missal` (`apps/app/src/features/covers/coverFor.ts`).
+
+### Versions
+
+A book's top-level `toc`, `languages` and `sources` are its main text. An older translation, or any text with its own structure, is a **version**: an entry of `versions` with its own `id`, `languages`, `sources` and `toc`, its files in `versions/<id>/<lang>/<chapter>.md`. Within a version the languages align per chapter, as in the main text.
+
+```json
+"versions": [
+  {
+    "id": "npnf",
+    "languages": ["en-US"],
+    "sources": [{ "language": "en-US", "url": "…", "description": "…", "label": "Dods (NPNF, 1887)" }],
+    "toc": [{ "id": "ch001", "title": { "en-US": "Book 1" }, "match": "ch003" }]
+  }
+]
+```
+
+- A node's **`match`** names the main-text node it corresponds to. Switching text lands there; a node without one takes the nearest earlier node's (a chapter lands on its Book). A version cut exactly like the main text matches every node.
+- Readers choose an edition (a language of the main text or of a version) per book, on the book page or in the reader menu (`apps/app/src/features/books/editions.ts`). Each version keeps its own reading position, bookmarks, highlights and finished chapters.
+- The website reads the main text only.
 
 ### Book id
 

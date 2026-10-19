@@ -43,6 +43,10 @@ BOOKS_ROOT = ROOT / "content" / "books" / "church-fathers"
 # lets both versions coexist.
 SKIP_WORK_IDS: dict[str, str] = {}
 
+# Fathers whose New Advent translations live elsewhere: Augustine's are the
+# `npnf` versions of the augustine-opera-omnia books (scripts/merge-npnf-augustine.py).
+SKIP_AUTHORS: dict[str, str] = {"augustine-of-hippo": "content/books/augustine-opera-omnia"}
+
 
 _COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 
@@ -764,6 +768,8 @@ def cmd_work(work_id: str) -> None:
 def cmd_author(author_slug: str) -> None:
     authors = parse_master_index()
     assign_author_slugs(authors)
+    if author_slug in SKIP_AUTHORS:
+        raise SystemExit(f"{author_slug}'s works are in {SKIP_AUTHORS[author_slug]}")
     target = next((au for au in authors if au.slug == author_slug), None)
     if not target:
         raise SystemExit(f"author {author_slug!r} not found")
@@ -795,6 +801,9 @@ def cmd_all() -> None:
     written: list[dict] = []
 
     for au in authors:
+        if au.slug in SKIP_AUTHORS:
+            print(f"\n== {au.name}: skipped, in {SKIP_AUTHORS[au.slug]} ==")
+            continue
         print(f"\n== {au.name} ==")
         for ref in au.works:
             if ref.file_id in SKIP_WORK_IDS:

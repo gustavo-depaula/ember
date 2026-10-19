@@ -33,7 +33,7 @@ const collectionArt = [
 ]
 const fannedBooks = [
   'book/kempis-imitation-of-christ',
-  'book/augustine-confessions',
+  'book/augustine-confessiones',
   'book/sales-introduction-to-the-devout-life',
 ]
 

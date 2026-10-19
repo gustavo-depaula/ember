@@ -6,7 +6,7 @@ import type { BookEntry, CatalogEntry } from '@/content/manifestTypes'
 import { useCatalogVersion } from '@/content/useCatalogVersion'
 import { getPreference, setPreference } from '@/db/repositories'
 import { usePreferencesStore } from '@/stores/preferencesStore'
-import { bookEditions, editionPreferenceKey, resolveEdition } from './editions'
+import { bookEditions, editionPreferenceKey, resolveEdition, versionView } from './editions'
 
 /** Query options for a book's manifest — shared so every reader of it hits one cache entry. */
 export function bookManifestQuery(bookId: string | undefined, entry: CatalogEntry | undefined) {
@@ -52,9 +52,10 @@ export function bookEditionQuery(bookId: string | undefined) {
 }
 
 /**
- * The edition (language or translation) this book is read in, remembered per
- * book on this device. `ready` turns true once the remembered choice is read,
- * so the reader opens the right text the first time instead of switching.
+ * The edition (a language of the main text or of another version) this book
+ * is read in, remembered per book on this device, with the book as that
+ * edition's version presents it. `ready` turns true once the remembered
+ * choice is read, so the reader opens the right text the first time.
  */
 export function useBookEdition(
   bookId: string | undefined,
@@ -65,8 +66,8 @@ export function useBookEdition(
   const queryClient = useQueryClient()
   const { data: chosen, isFetched } = useQuery(bookEditionQuery(bookId))
   const editions = useMemo(() => bookEditions(book ?? { languages: langs }), [book, langs])
-  const ids = useMemo(() => editions.map((e) => e.id), [editions])
-  const edition = resolveEdition(ids, chosen ?? undefined, contentLanguage)
+  const edition = resolveEdition(editions, chosen ?? undefined, contentLanguage)
+  const view = useMemo(() => book && versionView(book, edition?.version), [book, edition?.version])
   const setEdition = useCallback(
     async (id: string) => {
       if (!bookId) return
@@ -76,5 +77,14 @@ export function useBookEdition(
     },
     [bookId, queryClient],
   )
-  return { edition, editions, setEdition, ready: isFetched }
+  return {
+    /** The language read; `en-US` while nothing is known yet. */
+    lang: edition?.language ?? 'en-US',
+    version: edition?.version,
+    edition: edition?.id ?? 'en-US',
+    editions,
+    view,
+    setEdition,
+    ready: isFetched,
+  }
 }

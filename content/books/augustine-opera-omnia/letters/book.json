@@ -2884,5 +2884,1150 @@
         }
       ]
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1102.htm",
+          "description": "Translated by J.G. Cunningham. From Nicene and Post-Nicene Fathers, First Series, Vol. 1, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Cunningham (NPNF, 1887)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Letter 1"
+          },
+          "match": "v04-ch064"
+        },
+        {
+          "id": "ch002",
+          "title": {
+            "en-US": "Letter 2"
+          },
+          "match": "v04-ch066"
+        },
+        {
+          "id": "ch003",
+          "title": {
+            "en-US": "Letter 3"
+          },
+          "match": "v04-ch067"
+        },
+        {
+          "id": "ch004",
+          "title": {
+            "en-US": "Letter 4"
+          },
+          "match": "v04-ch068"
+        },
+        {
+          "id": "ch005",
+          "title": {
+            "en-US": "Letter 5"
+          },
+          "match": "v04-ch069"
+        },
+        {
+          "id": "ch006",
+          "title": {
+            "en-US": "Letter 6"
+          },
+          "match": "v04-ch070"
+        },
+        {
+          "id": "ch007",
+          "title": {
+            "en-US": "Letter 7"
+          },
+          "match": "v04-ch071"
+        },
+        {
+          "id": "ch008",
+          "title": {
+            "en-US": "Letter 8"
+          },
+          "match": "v04-ch072"
+        },
+        {
+          "id": "ch009",
+          "title": {
+            "en-US": "Letter 9"
+          },
+          "match": "v04-ch073"
+        },
+        {
+          "id": "ch010",
+          "title": {
+            "en-US": "Letter 10"
+          },
+          "match": "v04-ch074"
+        },
+        {
+          "id": "ch011",
+          "title": {
+            "en-US": "Letter 11"
+          },
+          "match": "v04-ch075"
+        },
+        {
+          "id": "ch012",
+          "title": {
+            "en-US": "Letter 13"
+          },
+          "match": "v04-ch077"
+        },
+        {
+          "id": "ch013",
+          "title": {
+            "en-US": "Letter 14"
+          },
+          "match": "v04-ch078"
+        },
+        {
+          "id": "ch014",
+          "title": {
+            "en-US": "Letter 15"
+          },
+          "match": "v04-ch079"
+        },
+        {
+          "id": "ch015",
+          "title": {
+            "en-US": "Letter 16"
+          },
+          "match": "v04-ch080"
+        },
+        {
+          "id": "ch016",
+          "title": {
+            "en-US": "Letter 17"
+          },
+          "match": "v04-ch081"
+        },
+        {
+          "id": "ch017",
+          "title": {
+            "en-US": "Letter 18"
+          },
+          "match": "v04-ch082"
+        },
+        {
+          "id": "ch018",
+          "title": {
+            "en-US": "Letter 19"
+          },
+          "match": "v04-ch083"
+        },
+        {
+          "id": "ch019",
+          "title": {
+            "en-US": "Letter 20"
+          },
+          "match": "v04-ch084"
+        },
+        {
+          "id": "ch020",
+          "title": {
+            "en-US": "Letter 21"
+          },
+          "match": "v04-ch085"
+        },
+        {
+          "id": "ch021",
+          "title": {
+            "en-US": "Letter 22"
+          },
+          "match": "v04-ch086"
+        },
+        {
+          "id": "ch022",
+          "title": {
+            "en-US": "Letter 23"
+          },
+          "match": "v04-ch087"
+        },
+        {
+          "id": "ch023",
+          "title": {
+            "en-US": "Letter 25"
+          },
+          "match": "v04-ch090"
+        },
+        {
+          "id": "ch024",
+          "title": {
+            "en-US": "Letter 26"
+          },
+          "match": "v04-ch091"
+        },
+        {
+          "id": "ch025",
+          "title": {
+            "en-US": "Letter 27"
+          },
+          "match": "v04-ch092"
+        },
+        {
+          "id": "ch026",
+          "title": {
+            "en-US": "Letter 28"
+          },
+          "match": "v04-ch093"
+        },
+        {
+          "id": "ch027",
+          "title": {
+            "en-US": "Letter 29"
+          },
+          "match": "v04-ch094"
+        },
+        {
+          "id": "ch028",
+          "title": {
+            "en-US": "Letter 30"
+          },
+          "match": "v01-ch030"
+        },
+        {
+          "id": "ch029",
+          "title": {
+            "en-US": "Letter 31"
+          },
+          "match": "v01-ch031"
+        },
+        {
+          "id": "ch030",
+          "title": {
+            "en-US": "Letter 33"
+          },
+          "match": "v01-ch033"
+        },
+        {
+          "id": "ch031",
+          "title": {
+            "en-US": "Letter 34"
+          },
+          "match": "v01-ch034"
+        },
+        {
+          "id": "ch032",
+          "title": {
+            "en-US": "Letter 35"
+          },
+          "match": "v01-ch035"
+        },
+        {
+          "id": "ch033",
+          "title": {
+            "en-US": "Letter 36"
+          },
+          "match": "v01-ch036"
+        },
+        {
+          "id": "ch034",
+          "title": {
+            "en-US": "Letter 37"
+          },
+          "match": "v01-ch037"
+        },
+        {
+          "id": "ch035",
+          "title": {
+            "en-US": "Letter 38"
+          },
+          "match": "v01-ch038"
+        },
+        {
+          "id": "ch036",
+          "title": {
+            "en-US": "Letter 39"
+          },
+          "match": "v01-ch039"
+        },
+        {
+          "id": "ch037",
+          "title": {
+            "en-US": "Letter 40"
+          },
+          "match": "v01-ch040"
+        },
+        {
+          "id": "ch038",
+          "title": {
+            "en-US": "Letter 41"
+          },
+          "match": "v01-ch041"
+        },
+        {
+          "id": "ch039",
+          "title": {
+            "en-US": "Letter 42"
+          },
+          "match": "v01-ch042"
+        },
+        {
+          "id": "ch040",
+          "title": {
+            "en-US": "Letter 43"
+          },
+          "match": "v01-ch043"
+        },
+        {
+          "id": "ch041",
+          "title": {
+            "en-US": "Letter 44"
+          },
+          "match": "v01-ch044"
+        },
+        {
+          "id": "ch042",
+          "title": {
+            "en-US": "Letter 46"
+          },
+          "match": "v01-ch046"
+        },
+        {
+          "id": "ch043",
+          "title": {
+            "en-US": "Letter 47"
+          },
+          "match": "v01-ch047"
+        },
+        {
+          "id": "ch044",
+          "title": {
+            "en-US": "Letter 48"
+          },
+          "match": "v01-ch048"
+        },
+        {
+          "id": "ch045",
+          "title": {
+            "en-US": "Letter 50"
+          },
+          "match": "v01-ch050"
+        },
+        {
+          "id": "ch046",
+          "title": {
+            "en-US": "Letter 51"
+          },
+          "match": "v01-ch051"
+        },
+        {
+          "id": "ch047",
+          "title": {
+            "en-US": "Letter 53"
+          },
+          "match": "v01-ch053"
+        },
+        {
+          "id": "ch048",
+          "title": {
+            "en-US": "Letter 54"
+          },
+          "match": "v01-ch054"
+        },
+        {
+          "id": "ch049",
+          "title": {
+            "en-US": "Letter 55"
+          },
+          "match": "v01-ch055"
+        },
+        {
+          "id": "ch050",
+          "title": {
+            "en-US": "Letter 58"
+          },
+          "match": "v01-ch058"
+        },
+        {
+          "id": "ch051",
+          "title": {
+            "en-US": "Letter 59"
+          },
+          "match": "v01-ch059"
+        },
+        {
+          "id": "ch052",
+          "title": {
+            "en-US": "Letter 60"
+          },
+          "match": "v01-ch060"
+        },
+        {
+          "id": "ch053",
+          "title": {
+            "en-US": "Letter 61"
+          },
+          "match": "v01-ch061"
+        },
+        {
+          "id": "ch054",
+          "title": {
+            "en-US": "Letter 62"
+          },
+          "match": "v01-ch062"
+        },
+        {
+          "id": "ch055",
+          "title": {
+            "en-US": "Letter 63"
+          },
+          "match": "v01-ch063"
+        },
+        {
+          "id": "ch056",
+          "title": {
+            "en-US": "Letter 64"
+          },
+          "match": "v01-ch064"
+        },
+        {
+          "id": "ch057",
+          "title": {
+            "en-US": "Letter 65"
+          },
+          "match": "v01-ch065"
+        },
+        {
+          "id": "ch058",
+          "title": {
+            "en-US": "Letter 66"
+          },
+          "match": "v01-ch066"
+        },
+        {
+          "id": "ch059",
+          "title": {
+            "en-US": "Letter 67"
+          },
+          "match": "v01-ch067"
+        },
+        {
+          "id": "ch060",
+          "title": {
+            "en-US": "Letter 68"
+          },
+          "match": "v01-ch068"
+        },
+        {
+          "id": "ch061",
+          "title": {
+            "en-US": "Letter 69"
+          },
+          "match": "v01-ch069"
+        },
+        {
+          "id": "ch062",
+          "title": {
+            "en-US": "Letter 71"
+          },
+          "match": "v01-ch071"
+        },
+        {
+          "id": "ch063",
+          "title": {
+            "en-US": "Letter 72"
+          },
+          "match": "v01-ch072"
+        },
+        {
+          "id": "ch064",
+          "title": {
+            "en-US": "Letter 73"
+          },
+          "match": "v01-ch073"
+        },
+        {
+          "id": "ch065",
+          "title": {
+            "en-US": "Letter 74"
+          },
+          "match": "v01-ch074"
+        },
+        {
+          "id": "ch066",
+          "title": {
+            "en-US": "Letter 75"
+          },
+          "match": "v01-ch075"
+        },
+        {
+          "id": "ch067",
+          "title": {
+            "en-US": "Letter 76"
+          },
+          "match": "v01-ch076"
+        },
+        {
+          "id": "ch068",
+          "title": {
+            "en-US": "Letter 77"
+          },
+          "match": "v01-ch077"
+        },
+        {
+          "id": "ch069",
+          "title": {
+            "en-US": "Letter 78"
+          },
+          "match": "v01-ch078"
+        },
+        {
+          "id": "ch070",
+          "title": {
+            "en-US": "Letter 79"
+          },
+          "match": "v01-ch079"
+        },
+        {
+          "id": "ch071",
+          "title": {
+            "en-US": "Letter 81"
+          },
+          "match": "v01-ch081"
+        },
+        {
+          "id": "ch072",
+          "title": {
+            "en-US": "Letter 82"
+          },
+          "match": "v01-ch082"
+        },
+        {
+          "id": "ch073",
+          "title": {
+            "en-US": "Letter 83"
+          },
+          "match": "v01-ch083"
+        },
+        {
+          "id": "ch074",
+          "title": {
+            "en-US": "Letter 84"
+          },
+          "match": "v01-ch084"
+        },
+        {
+          "id": "ch075",
+          "title": {
+            "en-US": "Letter 85"
+          },
+          "match": "v01-ch085"
+        },
+        {
+          "id": "ch076",
+          "title": {
+            "en-US": "Letter 86"
+          },
+          "match": "v01-ch086"
+        },
+        {
+          "id": "ch077",
+          "title": {
+            "en-US": "Letter 87"
+          },
+          "match": "v01-ch087"
+        },
+        {
+          "id": "ch078",
+          "title": {
+            "en-US": "Letter 88"
+          },
+          "match": "v01-ch088"
+        },
+        {
+          "id": "ch079",
+          "title": {
+            "en-US": "Letter 89"
+          },
+          "match": "v01-ch089"
+        },
+        {
+          "id": "ch080",
+          "title": {
+            "en-US": "Letter 90"
+          },
+          "match": "v01-ch090"
+        },
+        {
+          "id": "ch081",
+          "title": {
+            "en-US": "Letter 91"
+          },
+          "match": "v01-ch091"
+        },
+        {
+          "id": "ch082",
+          "title": {
+            "en-US": "Letter 92"
+          },
+          "match": "v01-ch092"
+        },
+        {
+          "id": "ch083",
+          "title": {
+            "en-US": "Letter 93"
+          },
+          "match": "v01-ch094"
+        },
+        {
+          "id": "ch084",
+          "title": {
+            "en-US": "Letter 95"
+          },
+          "match": "v01-ch096"
+        },
+        {
+          "id": "ch085",
+          "title": {
+            "en-US": "Letter 96"
+          },
+          "match": "v01-ch097"
+        },
+        {
+          "id": "ch086",
+          "title": {
+            "en-US": "Letter 97"
+          },
+          "match": "v01-ch098"
+        },
+        {
+          "id": "ch087",
+          "title": {
+            "en-US": "Letter 98"
+          },
+          "match": "v01-ch099"
+        },
+        {
+          "id": "ch088",
+          "title": {
+            "en-US": "Letter 99"
+          },
+          "match": "v01-ch100"
+        },
+        {
+          "id": "ch089",
+          "title": {
+            "en-US": "Letter 100"
+          },
+          "match": "v02-ch001"
+        },
+        {
+          "id": "ch090",
+          "title": {
+            "en-US": "Letter 101"
+          },
+          "match": "v02-ch002"
+        },
+        {
+          "id": "ch091",
+          "title": {
+            "en-US": "Letter 102"
+          },
+          "match": "v02-ch003"
+        },
+        {
+          "id": "ch092",
+          "title": {
+            "en-US": "Letter 103"
+          },
+          "match": "v02-ch004"
+        },
+        {
+          "id": "ch093",
+          "title": {
+            "en-US": "Letter 104"
+          },
+          "match": "v02-ch005"
+        },
+        {
+          "id": "ch094",
+          "title": {
+            "en-US": "Letter 111"
+          },
+          "match": "v02-ch012"
+        },
+        {
+          "id": "ch095",
+          "title": {
+            "en-US": "Letter 115"
+          },
+          "match": "v02-ch016"
+        },
+        {
+          "id": "ch096",
+          "title": {
+            "en-US": "Letter 116"
+          },
+          "match": "v02-ch017"
+        },
+        {
+          "id": "ch097",
+          "title": {
+            "en-US": "Letter 117"
+          },
+          "match": "v02-ch018"
+        },
+        {
+          "id": "ch098",
+          "title": {
+            "en-US": "Letter 118"
+          },
+          "match": "v02-ch019"
+        },
+        {
+          "id": "ch099",
+          "title": {
+            "en-US": "Letter 122"
+          },
+          "match": "v02-ch023"
+        },
+        {
+          "id": "ch100",
+          "title": {
+            "en-US": "Letter 123"
+          },
+          "match": "v02-ch024"
+        },
+        {
+          "id": "ch101",
+          "title": {
+            "en-US": "Letter 124"
+          },
+          "match": "v02-ch025"
+        },
+        {
+          "id": "ch102",
+          "title": {
+            "en-US": "Letter 125"
+          },
+          "match": "v02-ch026"
+        },
+        {
+          "id": "ch103",
+          "title": {
+            "en-US": "Letter 126"
+          },
+          "match": "v02-ch027"
+        },
+        {
+          "id": "ch104",
+          "title": {
+            "en-US": "Letter 130"
+          },
+          "match": "v02-ch031"
+        },
+        {
+          "id": "ch105",
+          "title": {
+            "en-US": "Letter 131"
+          },
+          "match": "v02-ch032"
+        },
+        {
+          "id": "ch106",
+          "title": {
+            "en-US": "Letter 132"
+          },
+          "match": "v02-ch033"
+        },
+        {
+          "id": "ch107",
+          "title": {
+            "en-US": "Letter 133"
+          },
+          "match": "v02-ch034"
+        },
+        {
+          "id": "ch108",
+          "title": {
+            "en-US": "Letter 135"
+          },
+          "match": "v02-ch036"
+        },
+        {
+          "id": "ch109",
+          "title": {
+            "en-US": "Letter 136"
+          },
+          "match": "v02-ch037"
+        },
+        {
+          "id": "ch110",
+          "title": {
+            "en-US": "Letter 137"
+          },
+          "match": "v02-ch038"
+        },
+        {
+          "id": "ch111",
+          "title": {
+            "en-US": "Letter 138"
+          },
+          "match": "v02-ch039"
+        },
+        {
+          "id": "ch112",
+          "title": {
+            "en-US": "Letter 139"
+          },
+          "match": "v02-ch040"
+        },
+        {
+          "id": "ch113",
+          "title": {
+            "en-US": "Letter 143"
+          },
+          "match": "v02-ch044"
+        },
+        {
+          "id": "ch114",
+          "title": {
+            "en-US": "Letter 144"
+          },
+          "match": "v02-ch045"
+        },
+        {
+          "id": "ch115",
+          "title": {
+            "en-US": "Letter 145"
+          },
+          "match": "v02-ch046"
+        },
+        {
+          "id": "ch116",
+          "title": {
+            "en-US": "Letter 146"
+          },
+          "match": "v02-ch047"
+        },
+        {
+          "id": "ch117",
+          "title": {
+            "en-US": "Letter 148"
+          },
+          "match": "v02-ch049"
+        },
+        {
+          "id": "ch118",
+          "title": {
+            "en-US": "Letter 150"
+          },
+          "match": "v02-ch051"
+        },
+        {
+          "id": "ch119",
+          "title": {
+            "en-US": "Letter 151"
+          },
+          "match": "v02-ch052"
+        },
+        {
+          "id": "ch120",
+          "title": {
+            "en-US": "Letter 158"
+          },
+          "match": "v03-ch003"
+        },
+        {
+          "id": "ch121",
+          "title": {
+            "en-US": "Letter 159"
+          },
+          "match": "v03-ch004"
+        },
+        {
+          "id": "ch122",
+          "title": {
+            "en-US": "Letter 163"
+          },
+          "match": "v03-ch008"
+        },
+        {
+          "id": "ch123",
+          "title": {
+            "en-US": "Letter 164"
+          },
+          "match": "v03-ch009"
+        },
+        {
+          "id": "ch124",
+          "title": {
+            "en-US": "Letter 165"
+          },
+          "match": "v03-ch010"
+        },
+        {
+          "id": "ch125",
+          "title": {
+            "en-US": "Letter 166"
+          },
+          "match": "v03-ch011"
+        },
+        {
+          "id": "ch126",
+          "title": {
+            "en-US": "Letter 167"
+          },
+          "match": "v03-ch012"
+        },
+        {
+          "id": "ch127",
+          "title": {
+            "en-US": "Letter 169"
+          },
+          "match": "v03-ch014"
+        },
+        {
+          "id": "ch128",
+          "title": {
+            "en-US": "Letter 172"
+          },
+          "match": "v03-ch018"
+        },
+        {
+          "id": "ch129",
+          "title": {
+            "en-US": "Letter 173"
+          },
+          "match": "v03-ch019"
+        },
+        {
+          "id": "ch130",
+          "title": {
+            "en-US": "Letter 180"
+          },
+          "match": "v03-ch027"
+        },
+        {
+          "id": "ch131",
+          "title": {
+            "en-US": "Letter 185"
+          },
+          "match": "v03-ch033"
+        },
+        {
+          "id": "ch132",
+          "title": {
+            "en-US": "Letter 188"
+          },
+          "match": "v03-ch037"
+        },
+        {
+          "id": "ch133",
+          "title": {
+            "en-US": "Letter 189"
+          },
+          "match": "v03-ch038"
+        },
+        {
+          "id": "ch134",
+          "title": {
+            "en-US": "Letter 191"
+          },
+          "match": "v03-ch040"
+        },
+        {
+          "id": "ch135",
+          "title": {
+            "en-US": "Letter 192"
+          },
+          "match": "v03-ch041"
+        },
+        {
+          "id": "ch136",
+          "title": {
+            "en-US": "Letter 195"
+          },
+          "match": "v03-ch044"
+        },
+        {
+          "id": "ch137",
+          "title": {
+            "en-US": "Letter 201"
+          },
+          "match": "v03-ch050"
+        },
+        {
+          "id": "ch138",
+          "title": {
+            "en-US": "Letter 202"
+          },
+          "match": "v03-ch051"
+        },
+        {
+          "id": "ch139",
+          "title": {
+            "en-US": "Letter 203"
+          },
+          "match": "v03-ch053"
+        },
+        {
+          "id": "ch140",
+          "title": {
+            "en-US": "Letter 208"
+          },
+          "match": "v03-ch058"
+        },
+        {
+          "id": "ch141",
+          "title": {
+            "en-US": "Letter 209"
+          },
+          "match": "v03-ch059"
+        },
+        {
+          "id": "ch142",
+          "title": {
+            "en-US": "Letter 210"
+          },
+          "match": "v03-ch060"
+        },
+        {
+          "id": "ch143",
+          "title": {
+            "en-US": "Letter 211"
+          },
+          "match": "v04-ch001"
+        },
+        {
+          "id": "ch144",
+          "title": {
+            "en-US": "Letter 212"
+          },
+          "match": "v04-ch002"
+        },
+        {
+          "id": "ch145",
+          "title": {
+            "en-US": "Letter 213"
+          },
+          "match": "v04-ch004"
+        },
+        {
+          "id": "ch146",
+          "title": {
+            "en-US": "Letter 214"
+          },
+          "match": "v04-ch005"
+        },
+        {
+          "id": "ch147",
+          "title": {
+            "en-US": "Letter 215"
+          },
+          "match": "v04-ch006"
+        },
+        {
+          "id": "ch148",
+          "title": {
+            "en-US": "Letter 218"
+          },
+          "match": "v04-ch010"
+        },
+        {
+          "id": "ch149",
+          "title": {
+            "en-US": "Letter 219"
+          },
+          "match": "v04-ch011"
+        },
+        {
+          "id": "ch150",
+          "title": {
+            "en-US": "Letter 220"
+          },
+          "match": "v04-ch012"
+        },
+        {
+          "id": "ch151",
+          "title": {
+            "en-US": "Letter 227"
+          },
+          "match": "v04-ch019"
+        },
+        {
+          "id": "ch152",
+          "title": {
+            "en-US": "Letter 228"
+          },
+          "match": "v04-ch020"
+        },
+        {
+          "id": "ch153",
+          "title": {
+            "en-US": "Letter 229"
+          },
+          "match": "v04-ch021"
+        },
+        {
+          "id": "ch154",
+          "title": {
+            "en-US": "Letter 231"
+          },
+          "match": "v04-ch023"
+        },
+        {
+          "id": "ch155",
+          "title": {
+            "en-US": "Letter 232"
+          },
+          "match": "v04-ch024"
+        },
+        {
+          "id": "ch156",
+          "title": {
+            "en-US": "Letter 245"
+          },
+          "match": "v04-ch037"
+        },
+        {
+          "id": "ch157",
+          "title": {
+            "en-US": "Letter 246"
+          },
+          "match": "v04-ch038"
+        },
+        {
+          "id": "ch158",
+          "title": {
+            "en-US": "Letter 250"
+          },
+          "match": "v04-ch042"
+        },
+        {
+          "id": "ch159",
+          "title": {
+            "en-US": "Letter 254"
+          },
+          "match": "v04-ch047"
+        },
+        {
+          "id": "ch160",
+          "title": {
+            "en-US": "Letter 263"
+          },
+          "match": "v04-ch056"
+        },
+        {
+          "id": "ch161",
+          "title": {
+            "en-US": "Letter 269"
+          },
+          "match": "v04-ch062"
+        }
+      ]
+    }
   ]
 }

@@ -44,7 +44,9 @@ export function bookCursorId(bookId: string): string {
   return `book/${bookId}`
 }
 
-/** The book whose reading position `id` is; undefined for any other cursor (bookmarks, highlights, …). */
+/** The reading key whose position `id` is — the book, or `book~version` for
+ *  another version of it (features/books/editions.ts); undefined for any
+ *  other cursor (bookmarks, highlights, …). */
 export function bookIdFromCursorId(id: string): string | undefined {
   const [kind, bookId, ...rest] = id.split('/')
   return kind === 'book' && bookId && rest.length === 0 ? bookId : undefined

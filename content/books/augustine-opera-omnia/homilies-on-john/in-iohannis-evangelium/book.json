@@ -1166,5 +1166,891 @@
         "es-419": "Tratado 124"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1701.htm",
+          "description": "Translated by John Gibb. From Nicene and Post-Nicene Fathers, First Series, Vol. 7, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1888. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Gibb (NPNF, 1888)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "Tractate 1"
+          },
+          "match": "ch001"
+        },
+        {
+          "id": "ch002",
+          "title": {
+            "en-US": "Tractate 2"
+          },
+          "match": "ch002"
+        },
+        {
+          "id": "ch003",
+          "title": {
+            "en-US": "Tractate 3"
+          },
+          "match": "ch003"
+        },
+        {
+          "id": "ch004",
+          "title": {
+            "en-US": "Tractate 4"
+          },
+          "match": "ch004"
+        },
+        {
+          "id": "ch005",
+          "title": {
+            "en-US": "Tractate 5"
+          },
+          "match": "ch005"
+        },
+        {
+          "id": "ch006",
+          "title": {
+            "en-US": "Tractate 6"
+          },
+          "match": "ch006"
+        },
+        {
+          "id": "ch007",
+          "title": {
+            "en-US": "Tractate 7"
+          },
+          "match": "ch007"
+        },
+        {
+          "id": "ch008",
+          "title": {
+            "en-US": "Tractate 8"
+          },
+          "match": "ch008"
+        },
+        {
+          "id": "ch009",
+          "title": {
+            "en-US": "Tractate 9"
+          },
+          "match": "ch009"
+        },
+        {
+          "id": "ch010",
+          "title": {
+            "en-US": "Tractate 10"
+          },
+          "match": "ch010"
+        },
+        {
+          "id": "ch011",
+          "title": {
+            "en-US": "Tractate 11"
+          },
+          "match": "ch011"
+        },
+        {
+          "id": "ch012",
+          "title": {
+            "en-US": "Tractate 12"
+          },
+          "match": "ch012"
+        },
+        {
+          "id": "ch013",
+          "title": {
+            "en-US": "Tractate 13"
+          },
+          "match": "ch013"
+        },
+        {
+          "id": "ch014",
+          "title": {
+            "en-US": "Tractate 14"
+          },
+          "match": "ch014"
+        },
+        {
+          "id": "ch015",
+          "title": {
+            "en-US": "Tractate 15"
+          },
+          "match": "ch015"
+        },
+        {
+          "id": "ch016",
+          "title": {
+            "en-US": "Tractate 16"
+          },
+          "match": "ch016"
+        },
+        {
+          "id": "ch017",
+          "title": {
+            "en-US": "Tractate 17"
+          },
+          "match": "ch017"
+        },
+        {
+          "id": "ch018",
+          "title": {
+            "en-US": "Tractate 18"
+          },
+          "match": "ch018"
+        },
+        {
+          "id": "ch019",
+          "title": {
+            "en-US": "Tractate 19"
+          },
+          "match": "ch019"
+        },
+        {
+          "id": "ch020",
+          "title": {
+            "en-US": "Tractate 20"
+          },
+          "match": "ch020"
+        },
+        {
+          "id": "ch021",
+          "title": {
+            "en-US": "Tractate 21"
+          },
+          "match": "ch021"
+        },
+        {
+          "id": "ch022",
+          "title": {
+            "en-US": "Tractate 22"
+          },
+          "match": "ch022"
+        },
+        {
+          "id": "ch023",
+          "title": {
+            "en-US": "Tractate 23"
+          },
+          "match": "ch023"
+        },
+        {
+          "id": "ch024",
+          "title": {
+            "en-US": "Tractate 24"
+          },
+          "match": "ch024"
+        },
+        {
+          "id": "ch025",
+          "title": {
+            "en-US": "Tractate 25"
+          },
+          "match": "ch025"
+        },
+        {
+          "id": "ch026",
+          "title": {
+            "en-US": "Tractate 26"
+          },
+          "match": "ch026"
+        },
+        {
+          "id": "ch027",
+          "title": {
+            "en-US": "Tractate 27"
+          },
+          "match": "ch027"
+        },
+        {
+          "id": "ch028",
+          "title": {
+            "en-US": "Tractate 28"
+          },
+          "match": "ch028"
+        },
+        {
+          "id": "ch029",
+          "title": {
+            "en-US": "Tractate 29"
+          },
+          "match": "ch029"
+        },
+        {
+          "id": "ch030",
+          "title": {
+            "en-US": "Tractate 30"
+          },
+          "match": "ch030"
+        },
+        {
+          "id": "ch031",
+          "title": {
+            "en-US": "Tractate 31"
+          },
+          "match": "ch031"
+        },
+        {
+          "id": "ch032",
+          "title": {
+            "en-US": "Tractate 32"
+          },
+          "match": "ch032"
+        },
+        {
+          "id": "ch033",
+          "title": {
+            "en-US": "Tractate 33"
+          },
+          "match": "ch033"
+        },
+        {
+          "id": "ch034",
+          "title": {
+            "en-US": "Tractate 34"
+          },
+          "match": "ch034"
+        },
+        {
+          "id": "ch035",
+          "title": {
+            "en-US": "Tractate 35"
+          },
+          "match": "ch035"
+        },
+        {
+          "id": "ch036",
+          "title": {
+            "en-US": "Tractate 36"
+          },
+          "match": "ch036"
+        },
+        {
+          "id": "ch037",
+          "title": {
+            "en-US": "Tractate 37"
+          },
+          "match": "ch037"
+        },
+        {
+          "id": "ch038",
+          "title": {
+            "en-US": "Tractate 38"
+          },
+          "match": "ch038"
+        },
+        {
+          "id": "ch039",
+          "title": {
+            "en-US": "Tractate 39"
+          },
+          "match": "ch039"
+        },
+        {
+          "id": "ch040",
+          "title": {
+            "en-US": "Tractate 40"
+          },
+          "match": "ch040"
+        },
+        {
+          "id": "ch041",
+          "title": {
+            "en-US": "Tractate 41"
+          },
+          "match": "ch041"
+        },
+        {
+          "id": "ch042",
+          "title": {
+            "en-US": "Tractate 42"
+          },
+          "match": "ch042"
+        },
+        {
+          "id": "ch043",
+          "title": {
+            "en-US": "Tractate 43"
+          },
+          "match": "ch043"
+        },
+        {
+          "id": "ch044",
+          "title": {
+            "en-US": "Tractate 44"
+          },
+          "match": "ch044"
+        },
+        {
+          "id": "ch045",
+          "title": {
+            "en-US": "Tractate 45"
+          },
+          "match": "ch045"
+        },
+        {
+          "id": "ch046",
+          "title": {
+            "en-US": "Tractate 46"
+          },
+          "match": "ch046"
+        },
+        {
+          "id": "ch047",
+          "title": {
+            "en-US": "Tractate 47"
+          },
+          "match": "ch047"
+        },
+        {
+          "id": "ch048",
+          "title": {
+            "en-US": "Tractate 48"
+          },
+          "match": "ch048"
+        },
+        {
+          "id": "ch049",
+          "title": {
+            "en-US": "Tractate 49"
+          },
+          "match": "ch049"
+        },
+        {
+          "id": "ch050",
+          "title": {
+            "en-US": "Tractate 50"
+          },
+          "match": "ch050"
+        },
+        {
+          "id": "ch051",
+          "title": {
+            "en-US": "Tractate 51"
+          },
+          "match": "ch051"
+        },
+        {
+          "id": "ch052",
+          "title": {
+            "en-US": "Tractate 52"
+          },
+          "match": "ch052"
+        },
+        {
+          "id": "ch053",
+          "title": {
+            "en-US": "Tractate 53"
+          },
+          "match": "ch053"
+        },
+        {
+          "id": "ch054",
+          "title": {
+            "en-US": "Tractate 54"
+          },
+          "match": "ch054"
+        },
+        {
+          "id": "ch055",
+          "title": {
+            "en-US": "Tractate 55"
+          },
+          "match": "ch055"
+        },
+        {
+          "id": "ch056",
+          "title": {
+            "en-US": "Tractate 56"
+          },
+          "match": "ch056"
+        },
+        {
+          "id": "ch057",
+          "title": {
+            "en-US": "Tractate 57"
+          },
+          "match": "ch057"
+        },
+        {
+          "id": "ch058",
+          "title": {
+            "en-US": "Tractate 58"
+          },
+          "match": "ch058"
+        },
+        {
+          "id": "ch059",
+          "title": {
+            "en-US": "Tractate 59"
+          },
+          "match": "ch059"
+        },
+        {
+          "id": "ch060",
+          "title": {
+            "en-US": "Tractate 60"
+          },
+          "match": "ch060"
+        },
+        {
+          "id": "ch061",
+          "title": {
+            "en-US": "Tractate 61"
+          },
+          "match": "ch061"
+        },
+        {
+          "id": "ch062",
+          "title": {
+            "en-US": "Tractate 62"
+          },
+          "match": "ch062"
+        },
+        {
+          "id": "ch063",
+          "title": {
+            "en-US": "Tractate 63"
+          },
+          "match": "ch063"
+        },
+        {
+          "id": "ch064",
+          "title": {
+            "en-US": "Tractate 64"
+          },
+          "match": "ch064"
+        },
+        {
+          "id": "ch065",
+          "title": {
+            "en-US": "Tractate 65"
+          },
+          "match": "ch065"
+        },
+        {
+          "id": "ch066",
+          "title": {
+            "en-US": "Tractate 66"
+          },
+          "match": "ch066"
+        },
+        {
+          "id": "ch067",
+          "title": {
+            "en-US": "Tractate 67"
+          },
+          "match": "ch067"
+        },
+        {
+          "id": "ch068",
+          "title": {
+            "en-US": "Tractate 68"
+          },
+          "match": "ch068"
+        },
+        {
+          "id": "ch069",
+          "title": {
+            "en-US": "Tractate 69"
+          },
+          "match": "ch069"
+        },
+        {
+          "id": "ch070",
+          "title": {
+            "en-US": "Tractate 70"
+          },
+          "match": "ch070"
+        },
+        {
+          "id": "ch071",
+          "title": {
+            "en-US": "Tractate 71"
+          },
+          "match": "ch071"
+        },
+        {
+          "id": "ch072",
+          "title": {
+            "en-US": "Tractate 72"
+          },
+          "match": "ch072"
+        },
+        {
+          "id": "ch073",
+          "title": {
+            "en-US": "Tractate 73"
+          },
+          "match": "ch073"
+        },
+        {
+          "id": "ch074",
+          "title": {
+            "en-US": "Tractate 74"
+          },
+          "match": "ch074"
+        },
+        {
+          "id": "ch075",
+          "title": {
+            "en-US": "Tractate 75"
+          },
+          "match": "ch075"
+        },
+        {
+          "id": "ch076",
+          "title": {
+            "en-US": "Tractate 76"
+          },
+          "match": "ch076"
+        },
+        {
+          "id": "ch077",
+          "title": {
+            "en-US": "Tractate 77"
+          },
+          "match": "ch077"
+        },
+        {
+          "id": "ch078",
+          "title": {
+            "en-US": "Tractate 78"
+          },
+          "match": "ch078"
+        },
+        {
+          "id": "ch079",
+          "title": {
+            "en-US": "Tractate 79"
+          },
+          "match": "ch079"
+        },
+        {
+          "id": "ch080",
+          "title": {
+            "en-US": "Tractate 80"
+          },
+          "match": "ch080"
+        },
+        {
+          "id": "ch081",
+          "title": {
+            "en-US": "Tractate 81"
+          },
+          "match": "ch081"
+        },
+        {
+          "id": "ch082",
+          "title": {
+            "en-US": "Tractate 82"
+          },
+          "match": "ch082"
+        },
+        {
+          "id": "ch083",
+          "title": {
+            "en-US": "Tractate 83"
+          },
+          "match": "ch083"
+        },
+        {
+          "id": "ch084",
+          "title": {
+            "en-US": "Tractate 84"
+          },
+          "match": "ch084"
+        },
+        {
+          "id": "ch085",
+          "title": {
+            "en-US": "Tractate 85"
+          },
+          "match": "ch085"
+        },
+        {
+          "id": "ch086",
+          "title": {
+            "en-US": "Tractate 86"
+          },
+          "match": "ch086"
+        },
+        {
+          "id": "ch087",
+          "title": {
+            "en-US": "Tractate 87"
+          },
+          "match": "ch087"
+        },
+        {
+          "id": "ch088",
+          "title": {
+            "en-US": "Tractate 88"
+          },
+          "match": "ch088"
+        },
+        {
+          "id": "ch089",
+          "title": {
+            "en-US": "Tractate 89"
+          },
+          "match": "ch089"
+        },
+        {
+          "id": "ch090",
+          "title": {
+            "en-US": "Tractate 90"
+          },
+          "match": "ch090"
+        },
+        {
+          "id": "ch091",
+          "title": {
+            "en-US": "Tractate 91"
+          },
+          "match": "ch091"
+        },
+        {
+          "id": "ch092",
+          "title": {
+            "en-US": "Tractate 92"
+          },
+          "match": "ch092"
+        },
+        {
+          "id": "ch093",
+          "title": {
+            "en-US": "Tractate 93"
+          },
+          "match": "ch093"
+        },
+        {
+          "id": "ch094",
+          "title": {
+            "en-US": "Tractate 94"
+          },
+          "match": "ch094"
+        },
+        {
+          "id": "ch095",
+          "title": {
+            "en-US": "Tractate 95"
+          },
+          "match": "ch095"
+        },
+        {
+          "id": "ch096",
+          "title": {
+            "en-US": "Tractate 96"
+          },
+          "match": "ch096"
+        },
+        {
+          "id": "ch097",
+          "title": {
+            "en-US": "Tractate 97"
+          },
+          "match": "ch097"
+        },
+        {
+          "id": "ch098",
+          "title": {
+            "en-US": "Tractate 98"
+          },
+          "match": "ch098"
+        },
+        {
+          "id": "ch099",
+          "title": {
+            "en-US": "Tractate 99"
+          },
+          "match": "ch099"
+        },
+        {
+          "id": "ch100",
+          "title": {
+            "en-US": "Tractate 100"
+          },
+          "match": "ch100"
+        },
+        {
+          "id": "ch101",
+          "title": {
+            "en-US": "Tractate 101"
+          },
+          "match": "ch101"
+        },
+        {
+          "id": "ch102",
+          "title": {
+            "en-US": "Tractate 102"
+          },
+          "match": "ch102"
+        },
+        {
+          "id": "ch103",
+          "title": {
+            "en-US": "Tractate 103"
+          },
+          "match": "ch103"
+        },
+        {
+          "id": "ch104",
+          "title": {
+            "en-US": "Tractate 104"
+          },
+          "match": "ch104"
+        },
+        {
+          "id": "ch105",
+          "title": {
+            "en-US": "Tractate 105"
+          },
+          "match": "ch105"
+        },
+        {
+          "id": "ch106",
+          "title": {
+            "en-US": "Tractate 106"
+          },
+          "match": "ch106"
+        },
+        {
+          "id": "ch107",
+          "title": {
+            "en-US": "Tractate 107"
+          },
+          "match": "ch107"
+        },
+        {
+          "id": "ch108",
+          "title": {
+            "en-US": "Tractate 108"
+          },
+          "match": "ch108"
+        },
+        {
+          "id": "ch109",
+          "title": {
+            "en-US": "Tractate 109"
+          },
+          "match": "ch109"
+        },
+        {
+          "id": "ch110",
+          "title": {
+            "en-US": "Tractate 110"
+          },
+          "match": "ch110"
+        },
+        {
+          "id": "ch111",
+          "title": {
+            "en-US": "Tractate 111"
+          },
+          "match": "ch111"
+        },
+        {
+          "id": "ch112",
+          "title": {
+            "en-US": "Tractate 112"
+          },
+          "match": "ch112"
+        },
+        {
+          "id": "ch113",
+          "title": {
+            "en-US": "Tractate 113"
+          },
+          "match": "ch113"
+        },
+        {
+          "id": "ch114",
+          "title": {
+            "en-US": "Tractate 114"
+          },
+          "match": "ch114"
+        },
+        {
+          "id": "ch115",
+          "title": {
+            "en-US": "Tractate 115"
+          },
+          "match": "ch115"
+        },
+        {
+          "id": "ch116",
+          "title": {
+            "en-US": "Tractate 116"
+          },
+          "match": "ch116"
+        },
+        {
+          "id": "ch117",
+          "title": {
+            "en-US": "Tractate 117"
+          },
+          "match": "ch117"
+        },
+        {
+          "id": "ch118",
+          "title": {
+            "en-US": "Tractate 118"
+          },
+          "match": "ch118"
+        },
+        {
+          "id": "ch119",
+          "title": {
+            "en-US": "Tractate 119"
+          },
+          "match": "ch119"
+        },
+        {
+          "id": "ch120",
+          "title": {
+            "en-US": "Tractate 120"
+          },
+          "match": "ch120"
+        },
+        {
+          "id": "ch121",
+          "title": {
+            "en-US": "Tractate 121"
+          },
+          "match": "ch121"
+        },
+        {
+          "id": "ch122",
+          "title": {
+            "en-US": "Tractate 122"
+          },
+          "match": "ch122"
+        },
+        {
+          "id": "ch123",
+          "title": {
+            "en-US": "Tractate 123"
+          },
+          "match": "ch123"
+        },
+        {
+          "id": "ch124",
+          "title": {
+            "en-US": "Tractate 124"
+          },
+          "match": "ch124"
+        }
+      ]
+    }
   ]
 }

@@ -59,5 +59,38 @@
         "es-419": "La paciencia"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US",
+        "pt-BR"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1315.htm",
+          "description": "Translated by H. Browne. From Nicene and Post-Nicene Fathers, First Series, Vol. 3, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Browne (NPNF, 1887)"
+        },
+        {
+          "language": "pt-BR",
+          "url": "http://www.newadvent.org/fathers/1315.htm",
+          "description": "Portuguese translation by Claude of the English of H. Browne (Nicene and Post-Nicene Fathers), reviewed in several rounds against it.",
+          "label": "Claude, from Browne (NPNF)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "ch001",
+          "title": {
+            "en-US": "On Patience",
+            "pt-BR": "Sobre a Paciência"
+          },
+          "match": "ch001"
+        }
+      ]
+    }
   ]
 }

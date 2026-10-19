@@ -77,5 +77,45 @@
         "es-419": "Libro II: Las costumbres de los maniqueos"
       }
     }
+  ],
+  "versions": [
+    {
+      "id": "npnf",
+      "languages": [
+        "en-US",
+        "pt-BR"
+      ],
+      "sources": [
+        {
+          "language": "en-US",
+          "url": "http://www.newadvent.org/fathers/1401.htm",
+          "description": "Translated by Richard Stothert. From Nicene and Post-Nicene Fathers, First Series, Vol. 4, Edited by Philip Schaff, Buffalo, NY: Christian Literature Publishing Co 1887. Revised and edited for New Advent by Kevin Knight.",
+          "label": "Stothert (NPNF, 1887)"
+        },
+        {
+          "language": "pt-BR",
+          "url": "http://www.newadvent.org/fathers/1401.htm",
+          "description": "Portuguese translation by Claude of the English of Richard Stothert (Nicene and Post-Nicene Fathers), reviewed in several rounds against it.",
+          "label": "Claude, from Stothert (NPNF)"
+        }
+      ],
+      "toc": [
+        {
+          "id": "b1-ch001",
+          "title": {
+            "en-US": "On the Morals of the Catholic Church",
+            "pt-BR": "Sobre os Costumes da Igreja Católica"
+          },
+          "match": "ch002"
+        },
+        {
+          "id": "b2-ch001",
+          "title": {
+            "en-US": "On the Morals of the Manichaeans"
+          },
+          "match": "ch003"
+        }
+      ]
+    }
   ]
 }

@@ -747,11 +747,6 @@ SEARCH_STEMMERS: dict[str, str | None] = {
     "la": None,
 }
 
-def base_language(lang: str) -> str:
-    """The language of a second translation's tag (`en-US-x-pusey` → `en-US`)."""
-    return lang.split("-x-")[0]
-
-
 # Per-language stopword list. Generous on purpose — high-document-frequency
 # words are useless for ranking and dominate the index size (a 150-stopword
 # list drops ~70% of postings on a 12k-chapter book). Stems are computed
@@ -925,11 +920,9 @@ def build_search_index_for_book(
 
     indexes: dict[str, dict] = {}
     for lang in sorted(langs):
-        # A second translation (`en-US-x-pusey`) is indexed as its language.
-        base = base_language(lang)
-        algo = SEARCH_STEMMERS.get(base)
+        algo = SEARCH_STEMMERS.get(lang)
         stemmer = snowballstemmer.stemmer(algo) if algo else None
-        stopwords = SEARCH_STOPWORDS.get(base, set())
+        stopwords = SEARCH_STOPWORDS.get(lang, set())
         if stemmer is not None and stopwords:
             stopwords = set(stemmer.stemWords(sorted(stopwords)))
 
@@ -1082,6 +1075,39 @@ def _build_book_index_worker(
     return bid, build_search_index_for_book(chapters_by_lang, chapter_sources)
 
 
+def _scan_book_texts(
+    b: Builder, d: Path
+) -> tuple[dict[str, dict[str, dict]], dict[str, dict[str, tuple[str, bool]]]]:
+    """Hash the chapter files of one text of a book: `d/<lang>/<chapter>.md`
+    (or `.html`). Returns {chapter: {lang: blob ref}} and the file paths."""
+    chapters_by_lang: dict[str, dict[str, dict]] = {}
+    chapter_paths: dict[str, dict[str, tuple[str, bool]]] = {}
+    for sub in sorted(d.iterdir()):
+        # Skip non-language dirs: assets, a book's other versions, editorial
+        # scratch (`_review`, etc.), and nested book roots. A leading `_` marks
+        # a non-content directory.
+        if (
+            sub.is_dir()
+            and sub.name not in {"images", "fonts", "sources", "versions"}
+            and not sub.name.startswith("_")
+            and not (sub / "book.json").is_file()
+        ):
+            lang = sub.name
+            for ff in sorted(sub.glob("*.md")):
+                chap_id = ff.stem
+                if chap_id in NON_CHAPTER_STEMS:
+                    continue
+                bh, bs = b.write_blob(ff.read_bytes())
+                chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs}
+                chapter_paths.setdefault(chap_id, {})[lang] = (str(ff), False)
+            for ff in sorted(sub.glob("*.html")):
+                chap_id = ff.stem
+                bh, bs = b.write_blob(ff.read_bytes())
+                chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs, "format": "html"}
+                chapter_paths.setdefault(chap_id, {})[lang] = (str(ff), True)
+    return chapters_by_lang, chapter_paths
+
+
 def build_books(b: Builder) -> None:
     src = CONTENT / "books"
     if not src.is_dir():
@@ -1107,32 +1133,15 @@ def build_books(b: Builder) -> None:
             meta = json.load(fh)
         bid = meta.get("id") or d.name
 
-        chapters_by_lang: dict[str, dict[str, dict]] = {}
-        chapter_paths: dict[str, dict[str, tuple[str, bool]]] = {}
-        for sub in sorted(d.iterdir()):
-            # Skip non-language dirs: assets, editorial scratch (`_review`, etc.),
-            # and nested book roots. A leading `_` marks a non-content directory.
-            if (
-                sub.is_dir()
-                and sub.name not in {"images", "fonts", "sources"}
-                and not sub.name.startswith("_")
-                and not (sub / "book.json").is_file()
-            ):
-                lang = sub.name
-                for ff in sorted(sub.glob("*.md")):
-                    chap_id = ff.stem
-                    if chap_id in NON_CHAPTER_STEMS:
-                        continue
-                    bh, bs = b.write_blob(ff.read_bytes())
-                    chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs}
-                    chapter_paths.setdefault(chap_id, {})[lang] = (str(ff), False)
-                for ff in sorted(sub.glob("*.html")):
-                    chap_id = ff.stem
-                    bh, bs = b.write_blob(ff.read_bytes())
-                    chapters_by_lang.setdefault(chap_id, {})[lang] = {"hash": bh, "size": bs, "format": "html"}
-                    chapter_paths.setdefault(chap_id, {})[lang] = (str(ff), True)
-
+        chapters_by_lang, chapter_paths = _scan_book_texts(b, d)
         _validate_book_titles(bid, meta, chapter_paths)
+        # A book's other versions, each with its own TOC and languages, in
+        # `versions/<id>/<lang>/` (see docs/content/book-format.md).
+        versions = []
+        for version in meta.get("versions") or []:
+            v_chapters, v_paths = _scan_book_texts(b, d / "versions" / version["id"])
+            _validate_book_titles(f"{bid}~{version['id']}", version, v_paths)
+            versions.append({"meta": version, "chapters_by_lang": v_chapters, "chapter_paths": v_paths})
 
         images = []
         img_dir = d / "images"
@@ -1149,6 +1158,7 @@ def build_books(b: Builder) -> None:
             "chapters_by_lang": chapters_by_lang,
             "chapter_paths": chapter_paths,
             "images": images,
+            "versions": versions,
         })
 
     # Build search indexes in parallel — each book is independent. Results are
@@ -1158,6 +1168,11 @@ def build_books(b: Builder) -> None:
         (p["bid"], p["chapters_by_lang"], p["chapter_paths"])
         for p in pending
         if p["chapters_by_lang"]
+    ] + [
+        (f"{p['bid']}~{v['meta']['id']}", v["chapters_by_lang"], v["chapter_paths"])
+        for p in pending
+        for v in p["versions"]
+        if v["chapters_by_lang"]
     ]
     indexes_by_bid: dict[str, dict[str, dict]] = {}
     if jobs:
@@ -1188,6 +1203,17 @@ def build_books(b: Builder) -> None:
             item_manifest["images"] = p["images"]
         if search_index_refs:
             item_manifest["searchIndex"] = search_index_refs
+        if p["versions"]:
+            item_manifest["versions"] = []
+            for v in p["versions"]:
+                refs = {}
+                for lang, index in indexes_by_bid.get(f"{bid}~{v['meta']['id']}", {}).items():
+                    vh, vs = b.write_json_blob(index)
+                    refs[lang] = {"hash": vh, "size": vs}
+                entry = {**v["meta"], "chapters": v["chapters_by_lang"]}
+                if refs:
+                    entry["searchIndex"] = refs
+                item_manifest["versions"].append(entry)
 
         ih, isize = b.write_json_blob(item_manifest)
         catalog_entry = {"kind": "book", "hash": ih, "size": isize}
@@ -1196,7 +1222,11 @@ def build_books(b: Builder) -> None:
         if "author" in meta:
             catalog_entry["author"] = meta["author"]
         if "languages" in meta:
-            catalog_entry["langs"] = meta["languages"]
+            # Every language some version of the book is read in.
+            langs = list(meta["languages"])
+            for v in meta.get("versions") or []:
+                langs += [lang for lang in v.get("languages", []) if lang not in langs]
+            catalog_entry["langs"] = langs
         if "tags" in meta:
             catalog_entry["tags"] = meta["tags"]
         if "cover" in meta:

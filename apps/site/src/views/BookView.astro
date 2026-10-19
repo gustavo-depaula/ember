@@ -1,5 +1,4 @@
 ---
-import { baseLanguage } from '@/features/books/editions'
 import enUS from '@/lib/i18n/locales/en-US'
 import ptBR from '@/lib/i18n/locales/pt-BR'
 import { bookCoverFormat } from '@/features/covers/coverFor'
@@ -31,8 +30,7 @@ const pt = locale === 'pt-BR'
 const languageNames: Record<string, string> = Object.fromEntries(
   Object.entries(pt ? ptBR.languages : enUS.languages).map(([k, v]) => [k, pt ? v.toLocaleLowerCase('pt-BR') : v]),
 )
-// A second translation (`en-US-x-pusey`) is another English text, not another language.
-const languages = [...new Set(book.langs.map(baseLanguage))]
+const languages = book.langs
 const foreign = book.lang !== locale
 const description = plainExcerpt(
   book.description ??

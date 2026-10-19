@@ -33,7 +33,7 @@ const practices = [
   ['practice/angelic-trisagion', 2],
 ] as const
 const books = [
-  'book/augustine-confessions',
+  'book/augustine-confessiones',
   'book/butler-lives-of-saints',
   'book/bonne-presse-catechism-in-pictures',
   'book/morrow-my-catholic-faith',

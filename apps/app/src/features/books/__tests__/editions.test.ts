@@ -1,72 +1,112 @@
-import { readdirSync, readFileSync } from 'node:fs'
+import { existsSync, readdirSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
-import type { BookEntry } from '@/content/manifestTypes'
-import { bookEditions, resolveEdition } from '../editions'
-import { buildTitleLookup, flattenReadingFlow, nearestLeafIndex } from '../reader/bookContent'
+import type { BookEntry, TocNode } from '@/content/manifestTypes'
+import {
+  bookEditions,
+  matchingNode,
+  parseReadingKey,
+  readingKey,
+  resolveEdition,
+  versionView,
+} from '../editions'
+import { flattenReadingFlow, nearestLeafIndex } from '../reader/bookContent'
 
-// The Confessions carry four English texts beside the Latin, Portuguese and
-// Spanish, and the older translations lack the Revisions chapter.
+// The Confessions: the augustinus.cc text (Latin, English, Portuguese,
+// Spanish), Pusey and Pilkington cut like it, and Outler's edition with its
+// own structure. The chapter map is read off the files, as the build does.
 const dir = join(
   __dirname,
   '../../../../../../content/books/augustine-opera-omnia/autobiographical/confessiones',
 )
-const meta = JSON.parse(readFileSync(join(dir, 'book.json'), 'utf8')) as BookEntry
+type Meta = Omit<BookEntry, 'chapters' | 'versions'> & {
+  versions: { id: string; languages: string[]; toc: TocNode[] }[]
+}
+const meta = JSON.parse(readFileSync(join(dir, 'book.json'), 'utf8')) as Meta
+
+function chaptersIn(root: string, languages: string[]): BookEntry['chapters'] {
+  const chapters: BookEntry['chapters'] = {}
+  for (const lang of languages) {
+    if (!existsSync(join(root, lang))) continue
+    for (const file of readdirSync(join(root, lang))) {
+      if (!file.endsWith('.md') || file.startsWith('translation-journal')) continue
+      const id = file.slice(0, -3)
+      chapters[id] = { ...chapters[id], [lang]: { hash: 'h', size: 1 } }
+    }
+  }
+  return chapters
+}
+
 const confessions: BookEntry = {
   ...meta,
-  chapters: Object.fromEntries(
-    (meta.toc ?? []).map((node) => [
-      node.id,
-      Object.fromEntries(
-        (meta.languages ?? [])
-          .filter((lang) => readdirSync(join(dir, lang)).includes(`${node.id}.md`))
-          .map((lang) => [lang, { hash: 'h', size: 1 }]),
-      ),
-    ]),
-  ),
+  chapters: chaptersIn(dir, meta.languages ?? []),
+  versions: meta.versions.map((v) => ({
+    ...v,
+    chapters: chaptersIn(join(dir, 'versions', v.id), v.languages),
+  })),
 }
 
 describe('bookEditions', () => {
-  it('names the translator only where a language has more than one text', () => {
-    const editions = bookEditions(confessions)
-    expect(editions.find((e) => e.id === 'es-419')).toEqual({
-      id: 'es-419',
-      language: 'es-419',
-      label: undefined,
-    })
-    expect(editions.find((e) => e.id === 'en-US-x-pusey')).toEqual({
-      id: 'en-US-x-pusey',
-      language: 'en-US',
-      label: 'E. B. Pusey (1838)',
-    })
-    expect(editions.find((e) => e.id === 'en-US')?.label).toBe('Aquinas Institute')
+  const editions = bookEditions(confessions)
+  const label = (id: string) => editions.find((e) => e.id === id)?.label
+
+  it('lists every language of every text', () => {
+    expect(editions.map((e) => e.id)).toEqual(
+      expect.arrayContaining(['la', 'es-419', 'pusey:en-US', 'outler:en-US', 'outler:pt-BR']),
+    )
+  })
+
+  it('names the text only where its language has more than one', () => {
+    expect(label('la')).toBeUndefined()
+    expect(label('es-419')).toBeUndefined()
+    expect(label('en-US')).toBe('Aquinas Institute')
+    expect(label('pusey:en-US')).toBe('E. B. Pusey (1838)')
+    expect(label('outler:pt-BR')).toBe('Claude, from Outler (1955)')
   })
 })
 
 describe('resolveEdition', () => {
-  const langs = confessions.languages ?? []
-  it('keeps the chosen text, else the content language, else the first', () => {
-    expect(resolveEdition(langs, 'en-US-x-outler', 'pt-BR')).toBe('en-US-x-outler')
-    expect(resolveEdition(langs, undefined, 'pt-BR')).toBe('pt-BR')
-    expect(resolveEdition(['la', 'it'], undefined, 'en-US')).toBe('la')
-  })
-  it('drops a choice the book no longer has', () => {
-    expect(resolveEdition(langs, 'en-US-x-gone', 'en-US')).toBe('en-US')
+  const editions = bookEditions(confessions)
+  it('keeps the chosen text, else the main text in the content language', () => {
+    expect(resolveEdition(editions, 'outler:pt-BR', 'en-US')?.id).toBe('outler:pt-BR')
+    expect(resolveEdition(editions, undefined, 'pt-BR')?.id).toBe('pt-BR')
+    expect(resolveEdition(editions, 'gone:en-US', 'en-US')?.id).toBe('en-US')
   })
 })
 
-describe('a second translation', () => {
-  it('reads its own titles and falls back to its language where it has none', () => {
-    const titles = buildTitleLookup(confessions.toc ?? [], 'en-US-x-pusey')
-    expect(titles.get('ch002')).toBe('Book 1: Birth, infancy, and boyhood')
-    // Pusey has no Revisions chapter; its label is the English one.
-    expect(titles.get('ch001')).toBe('Revisions II')
+describe('versionView', () => {
+  it("reads a version's own contents, which may lack a chapter of the main text", () => {
+    const pusey = versionView(confessions, 'pusey')
+    const flow = flattenReadingFlow(pusey.toc ?? [], pusey, 'en-US')
+    expect(flow[0]?.id).toBe('ch002')
+    expect(nearestLeafIndex(pusey.toc ?? [], flow, 'ch005')).toBe(3)
+  })
+})
+
+describe('matchingNode', () => {
+  it('lands on the same Book in a text cut alike', () => {
+    expect(matchingNode(confessions, undefined, 'ch005', 'pusey')).toBe('ch005')
   })
 
-  it('opens on the next chapter it has when the place is in one it lacks', () => {
-    const leaves = flattenReadingFlow(confessions.toc ?? [], confessions, 'en-US-x-pusey')
-    expect(leaves[0]?.id).toBe('ch002')
-    expect(nearestLeafIndex(confessions.toc ?? [], leaves, 'ch001')).toBe(0)
-    expect(nearestLeafIndex(confessions.toc ?? [], leaves, 'ch005')).toBe(3)
+  it('lands a chapter of another structure on its Book', () => {
+    // Outler's Book Four, chapter 3 is the main text's Book 4 (ch005).
+    expect(matchingNode(confessions, 'outler', 'book-four-chapter-03', undefined)).toBe('ch005')
+    expect(matchingNode(confessions, 'outler', 'book-four-chapter-03', 'pusey')).toBe('ch005')
+    expect(matchingNode(confessions, undefined, 'ch005', 'outler')).toBe('book-four')
+  })
+
+  it('finds nothing where the other text has no counterpart', () => {
+    expect(matchingNode(confessions, undefined, 'ch001', 'pusey')).toBeUndefined()
+    expect(matchingNode(confessions, 'outler', 'title-page', undefined)).toBeUndefined()
+  })
+})
+
+describe('readingKey', () => {
+  it('keeps a version apart from the main text, and reads back', () => {
+    expect(readingKey('augustine-confessiones', undefined)).toBe('augustine-confessiones')
+    expect(parseReadingKey(readingKey('augustine-confessiones', 'outler'))).toEqual({
+      bookId: 'augustine-confessiones',
+      version: 'outler',
+    })
   })
 })
