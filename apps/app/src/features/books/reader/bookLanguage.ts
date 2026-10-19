@@ -1,4 +1,8 @@
+import { useEventStore } from '@/db/events/state'
 import { bookLanguageCursorId, getCursor, setCursor } from '@/db/repositories/cursors'
+import { usePreferencesStore } from '@/stores/preferencesStore'
+
+import { bookLang } from './bookContent'
 
 // Each language's name in itself, so a reader finds their own language whatever
 // the app's language is. Hermes has no Intl.DisplayNames to derive these.
@@ -48,11 +52,44 @@ type StoredLanguage = { lang?: string }
 
 /** The language this book was last switched to in the reader, if any. */
 export function getBookLanguageOverride(bookId: string): string | undefined {
-  const c = getCursor(bookLanguageCursorId(bookId))
-  if (!c) return undefined
-  return (JSON.parse(c.position) as StoredLanguage).lang
+  return parseOverride(getCursor(bookLanguageCursorId(bookId))?.position)
 }
 
 export async function setBookLanguageOverride(bookId: string, lang: string): Promise<void> {
   await setCursor(bookLanguageCursorId(bookId), JSON.stringify({ lang }))
+}
+
+function parseOverride(position: string | undefined): string | undefined {
+  return position ? (JSON.parse(position) as StoredLanguage).lang : undefined
+}
+
+/** getBookLanguageOverride, re-rendering when the reader switches the book. The
+ *  event store applies a cursor synchronously, so the switch shows at once. */
+export function useBookLanguageOverride(bookId: string | undefined): string | undefined {
+  const position = useEventStore((s) =>
+    bookId ? s.cursors.get(bookLanguageCursorId(bookId))?.position : undefined,
+  )
+  return parseOverride(position)
+}
+
+// The tail every book's language cursor id ends in.
+const languageCursorSuffix = bookLanguageCursorId('').slice('book/'.length)
+
+/** Every book's language override as one string, which moves only when one is
+ *  switched — a change signal for a hook that reads many books' overrides, and
+ *  that would otherwise re-render on each reading-position save. */
+export function useBookLanguageOverridesSignature(): string {
+  return useEventStore((s) => {
+    let signature = ''
+    for (const [id, cursor] of s.cursors) {
+      if (id.endsWith(languageCursorSuffix)) signature += `${id}=${cursor.position}\n`
+    }
+    return signature
+  })
+}
+
+/** The language `bookId` is read in, among `langs` — see bookLang. */
+export function useBookLang(bookId: string | undefined, langs: readonly string[]): string {
+  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
+  return bookLang(langs, contentLanguage, useBookLanguageOverride(bookId))
 }

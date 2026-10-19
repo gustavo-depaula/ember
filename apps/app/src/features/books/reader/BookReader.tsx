@@ -18,8 +18,8 @@ import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { bookLang, buildTitleLookup, openBookSession, tocForLanguage } from './bookContent'
-import { getBookLanguageOverride, languageAutonym, setBookLanguageOverride } from './bookLanguage'
+import { buildTitleLookup, openBookSession } from './bookContent'
+import { languageAutonym, setBookLanguageOverride, useBookLang } from './bookLanguage'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
   clearBookPaletteOverride,
@@ -180,7 +180,6 @@ export function BookReader({ bookId, chapter }: Props) {
   const { t } = useTranslation()
   const router = useRouter()
   const insets = useSafeAreaInsets()
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const hintSeen = usePreferencesStore((s) => s.bookReaderHintSeen)
   const setHintSeen = usePreferencesStore((s) => s.setBookReaderHintSeen)
   const [showHint, setShowHint] = useState(!hintSeen)
@@ -194,19 +193,9 @@ export function BookReader({ bookId, chapter }: Props) {
     refetch: refetchManifest,
   } = useBookManifest(bookId)
 
-  const [langOverride, setLangOverride] = useState<string | undefined>(() =>
-    bookId ? getBookLanguageOverride(bookId) : undefined,
-  )
-  const lang = useMemo(() => {
-    if (!bookEntry) return 'en-US'
-    return bookLang(bookEntry.languages ?? [], contentLanguage, langOverride)
-  }, [bookEntry, contentLanguage, langOverride])
+  const lang = useBookLang(bookId, bookEntry?.languages ?? [])
 
-  const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
-  const toc = useMemo(
-    () => (bookEntry?.toc ? tocForLanguage(bookEntry.toc, bookEntry, lang) : undefined),
-    [bookEntry, lang],
-  )
+  const { toc, flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
 
   const titleLookup = useMemo(
     () => (bookEntry?.toc ? buildTitleLookup(bookEntry.toc, lang) : new Map<string, string>()),
@@ -1062,7 +1051,6 @@ export function BookReader({ bookId, chapter }: Props) {
         current={lang}
         onSelect={(next) => {
           setSheet(null)
-          setLangOverride(next)
           void setBookLanguageOverride(bookId, next)
         }}
       />

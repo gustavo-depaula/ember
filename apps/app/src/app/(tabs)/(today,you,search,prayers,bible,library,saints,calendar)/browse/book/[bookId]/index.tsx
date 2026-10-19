@@ -16,7 +16,6 @@ import { BookHero } from '@/features/books/BookHero'
 import { useBookManifest } from '@/features/books/hooks'
 import {
   ancestorGroupIds,
-  bookLang,
   buildCompletedLeafIndex,
   buildLeafCountIndex,
   buildTitleLookup,
@@ -26,9 +25,8 @@ import {
   flattenToc,
   hasNestedSections,
   localizedTitle,
-  tocForLanguage,
 } from '@/features/books/reader/bookContent'
-import { getBookLanguageOverride } from '@/features/books/reader/bookLanguage'
+import { useBookLang } from '@/features/books/reader/bookLanguage'
 import { listCompletedChapters } from '@/features/books/reader/chapterCompletions'
 import { loadChapterMinutes } from '@/features/books/reader/chapterTimings'
 import { ReaderTocSheet } from '@/features/books/reader/ReaderTocSheet'
@@ -44,7 +42,6 @@ import { AddToCollectionSheet, LibraryActionRow } from '@/features/library'
 import { localizeContent } from '@/lib/i18n'
 import { pageGutter } from '@/lib/layout'
 import { formatSoftRelative } from '@/lib/softRelative'
-import { usePreferencesStore } from '@/stores/preferencesStore'
 
 function formatMinutes(minutes: number): string {
   if (minutes < 60) return `${minutes} min`
@@ -60,7 +57,6 @@ export default function BookDetailScreen() {
   const insets = useSafeAreaInsets()
   const router = useRouter()
   const bottomClearance = useBottomClearance()
-  const contentLanguage = usePreferencesStore((s) => s.contentLanguage)
   const background = theme.background?.val ?? '#000000'
 
   // With room for it the cover and its actions hold the left while the
@@ -83,20 +79,9 @@ export default function BookDetailScreen() {
   // and languages meanwhile.
   const { data: book, entry } = useBookManifest(bookId)
 
-  // Read on every render (an in-memory cursor) so a language switched in the
-  // reader shows here on return.
-  const lang = bookLang(
-    book?.languages ?? entry?.langs ?? [],
-    contentLanguage,
-    getBookLanguageOverride(bookId),
-  )
+  const lang = useBookLang(bookId, book?.languages ?? entry?.langs ?? [])
   // Chapters that exist only in another language drop out of this one's contents.
-  const toc = useMemo(
-    () => (book?.toc ? tocForLanguage(book.toc, book, lang) : undefined),
-    [book, lang],
-  )
-
-  const { flow: leaves, readableIds } = useReadingFlow(book, lang)
+  const { toc, flow: leaves, readableIds } = useReadingFlow(book, lang)
   const titleLookup = useMemo(
     () => (toc ? buildTitleLookup(toc, lang) : new Map<string, string>()),
     [toc, lang],

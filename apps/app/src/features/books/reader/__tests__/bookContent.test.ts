@@ -67,8 +67,8 @@ describe('flattenReadingFlow', () => {
 // Portuguese in sections of its own; one TOC lists them all.
 const council: TocNode[] = [
   { id: 'en-US-01', title: { 'en-US': 'Council of Trent' } },
-  { id: 'la-01', title: { la: 'Sessio I' } },
-  { id: 'la-02', title: { la: 'Sessio II' } },
+  { id: 'la-01', title: { la: 'Sessio I' } as TocNode['title'] },
+  { id: 'la-02', title: { la: 'Sessio II' } as TocNode['title'] },
   {
     id: 'pt-BR',
     title: { 'pt-BR': 'Concílio de Trento' },
@@ -105,6 +105,31 @@ describe('chapters in only some languages', () => {
   it('keeps leaves with no bodies at all: external books fetch them on demand', () => {
     expect(tocForLanguage(sample, manifest([]), 'en-US')).toEqual(sample)
     expect(flattenReadingFlow(sample, manifest([]), 'pt-BR')).toHaveLength(5)
+  })
+
+  it('returns the same array and nodes where nothing is dropped, so memoized views keep them', () => {
+    expect(tocForLanguage(sample, manifest(['ch-1', 'ch-2-a']), 'en-US')).toBe(sample)
+    const en = tocForLanguage(council, councilBodies, 'en-US')
+    expect(en).not.toBe(council)
+    expect(en[0]).toBe(council[0])
+    const pt = tocForLanguage(council, councilBodies, 'pt-BR')
+    expect(pt[0]).toBe(council[3])
+  })
+
+  it('keeps a part whose own body is all that is left in this language a part', () => {
+    const toc: TocNode[] = [
+      {
+        id: 'part',
+        title: { 'en-US': 'Part' },
+        children: [{ id: 'acts', title: { 'en-US': 'Acts' } }],
+      },
+    ]
+    const bodies = {
+      chapters: { part: { la: { hash: 'p', size: 1 } }, acts: { grc: { hash: 'a', size: 1 } } },
+    } as Pick<BookEntry, 'chapters'>
+    expect(flattenReadingFlow(toc, bodies, 'la').map((n) => [n.id, n.role])).toEqual([
+      ['part', 'part'],
+    ])
   })
 })
 
