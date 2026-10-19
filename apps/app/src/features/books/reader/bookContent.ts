@@ -95,8 +95,9 @@ function inferRole(node: TocNode, depth: number): TocRole {
 
 /**
  * The reading flow: every node the reader paginates through, in DFS preorder.
- * A leaf is always a page, even without a body entry (external books populate
- * their chapter map lazily). A group node (Part/Section) becomes a page only
+ * A leaf is a page unless it has bodies only in other languages; a leaf with no
+ * body entry at all is still a page (external books populate their chapter map
+ * lazily). A group node (Part/Section) becomes a page only
  * when it carries a body file for this language — otherwise it stays a pure
  * structural grouping, visible in the TOC sheet but not in the flow.
  */
@@ -109,8 +110,13 @@ export function flattenReadingFlow(
   function walk(nodes: TocNode[], depth: number) {
     for (const node of nodes) {
       const isGroup = !!node.children?.length
-      const hasBody = !!manifest.chapters?.[node.id]?.[lang]
-      if (!isGroup || hasBody) {
+      const bodies = manifest.chapters?.[node.id]
+      const hasBody = !!bodies?.[lang]
+      // A chapter that exists only in other languages (a council's Greek acts,
+      // read in English) is not part of this language's reading. A leaf with no
+      // bodies at all is an external chapter, fetched on demand.
+      const otherLanguageOnly = !hasBody && !!bodies && Object.keys(bodies).length > 0
+      if ((!isGroup && !otherLanguageOnly) || hasBody) {
         flow.push({ id: node.id, index: flow.length, role: inferRole(node, depth) })
       }
       if (isGroup) walk(node.children as TocNode[], depth + 1)
@@ -120,7 +126,26 @@ export function flattenReadingFlow(
   return flow
 }
 
-/** The content language to read a book in: the preferred one when the book has it, else its first. */
+/** The table of contents as read in `lang`: chapters that exist only in other
+ *  languages are dropped, and so is any section left empty. A book whose
+ *  languages share one TOC comes back unchanged. */
+export function tocForLanguage(
+  toc: TocNode[],
+  manifest: Pick<BookEntry, 'chapters'>,
+  lang: string,
+): TocNode[] {
+  return toc.flatMap((node) => {
+    const bodies = manifest.chapters?.[node.id]
+    const hasBody = !!bodies?.[lang]
+    if (!node.children?.length) {
+      const otherLanguageOnly = !hasBody && !!bodies && Object.keys(bodies).length > 0
+      return otherLanguageOnly ? [] : [node]
+    }
+    const children = tocForLanguage(node.children, manifest, lang)
+    return children.length || hasBody ? [{ ...node, children }] : []
+  })
+}
+
 /** The language a book opens in: the one the reader last switched it to, else the
  *  person's content language, else the book's first language. */
 export function bookLang(langs: readonly string[], preferred: string, override?: string): string {

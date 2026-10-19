@@ -18,7 +18,7 @@ import { stripHtml } from '@/lib/html'
 import { localizeContent } from '@/lib/i18n'
 import { usePreferencesStore } from '@/stores/preferencesStore'
 
-import { bookLang, buildTitleLookup, openBookSession } from './bookContent'
+import { bookLang, buildTitleLookup, openBookSession, tocForLanguage } from './bookContent'
 import { getBookLanguageOverride, languageAutonym, setBookLanguageOverride } from './bookLanguage'
 import { addBookmark, type Bookmark, listBookmarks, removeBookmark } from './bookmarks'
 import {
@@ -203,6 +203,10 @@ export function BookReader({ bookId, chapter }: Props) {
   }, [bookEntry, contentLanguage, langOverride])
 
   const { flow: leaves, readableIds } = useReadingFlow(bookEntry, lang)
+  const toc = useMemo(
+    () => (bookEntry?.toc ? tocForLanguage(bookEntry.toc, bookEntry, lang) : undefined),
+    [bookEntry, lang],
+  )
 
   const titleLookup = useMemo(
     () => (bookEntry?.toc ? buildTitleLookup(bookEntry.toc, lang) : new Map<string, string>()),
@@ -1042,7 +1046,7 @@ export function BookReader({ bookId, chapter }: Props) {
       <ReaderMenuSheet
         open={sheet === 'menu'}
         onClose={() => setSheet(null)}
-        onContents={bookEntry.toc && bookEntry.toc.length > 0 ? () => setSheet('toc') : undefined}
+        onContents={toc && toc.length > 0 ? () => setSheet('toc') : undefined}
         onSearch={() => setSheet('search')}
         onBookmarks={() => setSheet('bookmarks')}
         onHighlights={() => setSheet('highlights')}
@@ -1073,11 +1077,11 @@ export function BookReader({ bookId, chapter }: Props) {
         onRemove={removeHighlightById}
       />
 
-      {bookEntry.toc && (
+      {toc && (
         <ReaderTocSheet
           open={sheet === 'toc'}
           onClose={() => setSheet(null)}
-          toc={bookEntry.toc}
+          toc={toc}
           readableIds={readableIds}
           currentChapterId={currentChapterId}
           completedChapterIds={completed}
